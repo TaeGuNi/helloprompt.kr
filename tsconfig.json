@@ -1,0 +1,8 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "strict": false,
+    "noImplicitAny": false,
+    "allowJs": true
+  }
+}

@@ -1,0 +1,435 @@
+---
+/**
+ * Main Layout Component
+ * - 모든 페이지의 공통 레이아웃 (헤더, 푸터, 메타 태그)
+ * - 사이버펑크 테마 스타일링 포함
+ */
+
+export interface Props {
+  frontmatter: {
+    title: string;
+    description: string;
+    date: string;
+    author: string;
+    category?: string;
+    tags?: string[];
+  };
+  headings?: { depth: number; slug: string; text: string }[];
+}
+
+const { frontmatter, headings } = Astro.props;
+
+// 추천 글 (Related Posts) 로직
+const allPosts = await Astro.glob('../pages/posts/*.md');
+const relatedPosts = allPosts
+    .filter(post => 
+        post.frontmatter.category === frontmatter.category && 
+        post.frontmatter.title !== frontmatter.title &&
+        !post.file.includes('_template.md')
+    )
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 3);
+---
+
+<html lang="ko">
+	<head>
+		<meta charset="utf-8" />
+		<title>{frontmatter.title} | Hello Prompt</title>
+		<meta name="viewport" content="width=device-width" />
+        <meta name="description" content={frontmatter.description} />
+        
+        <!-- [SEO] Sitemap & Robots -->
+        <link rel="sitemap" href="/sitemap-index.xml" />
+        
+        <!-- [Feed] RSS & Atom Auto-Discovery -->
+        <link rel="alternate" type="application/rss+xml" title="Hello Prompt RSS Feed" href="/rss.xml" />
+        <link rel="alternate" type="application/atom+xml" title="Hello Prompt Atom Feed" href="/atom.xml" />
+
+        <!-- [Social] Open Graph (SNS 공유 미리보기) -->
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={frontmatter.title} />
+        <meta property="og:description" content={frontmatter.description} />
+        <meta property="og:site_name" content="Hello Prompt" />
+        <meta property="og:image" content="https://helloprompt.kr/og-image.svg" />
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <!-- [Fonts] Orbitron (Title), Noto Sans KR (Body), JetBrains Mono (Code) -->
+		<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@300;400;700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+		
+        <style is:global>
+            /* --- 1. Global Reset & Typography --- */
+			body {
+				font-family: 'Noto Sans KR', sans-serif;
+				margin: 0;
+				padding: 0;
+				background-color: #030303;
+				color: #e0e0e0;
+				line-height: 1.8;
+                /* Cyberpunk Grid Background */
+                background-image: 
+                    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+                background-size: 50px 50px;
+                background-position: center top;
+			}
+
+            a { color: #00f3ff; text-decoration: none; border-bottom: 1px dashed #00f3ff; transition: all 0.2s; }
+            a:hover { background: rgba(0, 243, 255, 0.1); }
+            strong { color: #fff; font-weight: 700; }
+
+            /* --- 2. Layout Structure --- */
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 40px 20px;
+                position: relative;
+            }
+
+            header {
+                margin-bottom: 40px;
+                padding-bottom: 20px;
+                border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+
+            footer {
+                margin-top: 60px;
+                color: #666;
+                font-size: 0.8rem;
+                text-align: center;
+                font-family: 'Orbitron', sans-serif;
+            }
+
+            /* --- 3. Article Content --- */
+            article {
+                background: rgba(10, 20, 30, 0.8);
+                padding: 40px;
+                border-radius: 16px;
+                border: 1px solid rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(10px);
+                box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+            }
+
+            h1 { 
+                color: #fff; 
+                font-size: 2.2rem; 
+                margin-bottom: 10px; 
+                line-height: 1.3;
+                text-shadow: 0 0 15px rgba(255,255,255,0.2);
+            }
+            h2 { 
+                color: #00f3ff; margin-top: 50px; margin-bottom: 20px; 
+                font-size: 1.5rem; border-left: 4px solid #00f3ff; padding-left: 15px; 
+                scroll-margin-top: 20px; 
+            }
+            h3 { color: #ddd; margin-top: 30px; margin-bottom: 15px; font-size: 1.2rem; }
+
+            .meta { color: #ccc; font-size: 0.9rem; margin-bottom: 40px; font-family: 'JetBrains Mono', monospace; }
+
+            /* --- 4. Components (Prompt Box & Code) --- */
+            
+            /* --- Code Wrapper (Server-Side) --- */
+            .code-wrapper {
+                position: relative;
+                margin: 40px 0;
+                background: #0a0f18;
+                border-radius: 8px;
+                border: 1px solid #00ff88; /* 기본: 결과 박스 (초록) */
+                border-left: 6px solid #00ff88;
+            }
+            
+            /* 라벨 (Wrapper 위에 고정) */
+            .code-wrapper::before {
+                content: "RESULT OUTPUT";
+                position: absolute;
+                top: -12px;
+                left: 20px;
+                background: #030303;
+                color: #00ff88;
+                padding: 0 10px;
+                font-family: 'Orbitron', sans-serif;
+                font-weight: 900;
+                font-size: 0.85rem;
+                border: 1px solid #00ff88;
+                border-radius: 4px;
+                z-index: 10;
+                letter-spacing: 1px;
+            }
+
+            /* 내부 Pre (스크롤만 담당) */
+            .code-wrapper pre {
+                margin: 0 !important;
+                padding: 30px 25px 25px 25px !important;
+                background: transparent !important; /* 배경은 래퍼가 담당 */
+                border: none !important;
+                border-radius: 0;
+                overflow-x: auto;
+            }
+
+            /* --- Quote Wrapper (Prompt Box - High Emphasis) --- */
+            .quote-wrapper {
+                position: relative;
+                margin: 50px 0;
+                background: rgba(0, 243, 255, 0.03); /* 아주 연한 형광 배경 */
+                border: 3px dashed #00f3ff; /* 쨍한 형광색 점선 */
+                border-radius: 12px;
+                box-shadow: 0 0 15px rgba(0, 243, 255, 0.1);
+                transition: all 0.3s;
+            }
+            
+            .quote-wrapper:hover {
+                background: rgba(0, 243, 255, 0.05);
+                box-shadow: 0 0 40px rgba(0, 243, 255, 0.2);
+                transform: translateY(-2px);
+            }
+            
+            /* 강력한 헤더 라벨 */
+            .quote-wrapper::before {
+                content: "✂️ COPY THIS PROMPT";
+                position: absolute;
+                top: -18px; /* 위치 조정 */
+                left: 50%;
+                transform: translateX(-50%);
+                background: #00f3ff; /* 배경도 형광색 */
+                color: #000; /* 글자는 검정 (가독성 최강) */
+                padding: 6px 20px;
+                font-family: 'Orbitron', sans-serif;
+                font-weight: 900;
+                font-size: 0.95rem;
+                border-radius: 30px;
+                box-shadow: 0 5px 20px rgba(0, 243, 255, 0.4);
+                letter-spacing: 1px;
+                white-space: nowrap;
+                z-index: 10;
+                border: 3px solid #030303; /* 라벨 주변에 검은 테두리로 구분감 주기 */
+            }
+            
+            /* 내부 여백 및 텍스트 */
+            .quote-wrapper blockquote {
+                margin: 0 !important;
+                padding: 50px 30px 30px 30px !important;
+                background: transparent !important;
+                border: none !important;
+                color: #fff; /* 글자를 더 하얗게 */
+            }
+            .quote-wrapper blockquote strong { color: #00f3ff; } /* 강조어는 형광색 */
+
+            /* 기존 Blockquote 스타일 삭제 (충돌 방지) */
+            
+            /* --- Copy Button Style --- */
+            .copy-btn {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                background: rgba(0, 0, 0, 0.6);
+                border: 1px solid rgba(255, 255, 255, 0.2);
+                color: #fff;
+                width: 32px;
+                height: 32px;
+                border-radius: 6px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                transition: all 0.2s;
+                opacity: 0.6;
+                z-index: 50;
+            }
+            .copy-btn:hover {
+                opacity: 1;
+                background: rgba(0, 243, 255, 0.1);
+                border-color: #00f3ff;
+                color: #00f3ff;
+            }
+            .copy-btn.copied {
+                border-color: #00ff88;
+                color: #00ff88;
+            }
+
+            /* --- 5. Navigation (TOC & Breadcrumbs) --- */
+            .toc-sidebar {
+                position: fixed; top: 100px; right: max(20px, calc(50% - 600px));
+                width: 200px; display: none;
+            }
+            .toc-title {
+                font-family: 'Orbitron', sans-serif; color: #00f3ff;
+                font-size: 0.9rem; margin-bottom: 10px;
+                border-bottom: 1px solid rgba(0, 243, 255, 0.3); padding-bottom: 5px;
+            }
+            .toc-list { list-style: none; padding: 0; margin: 0; font-size: 0.85rem; }
+            .toc-list li { margin-bottom: 8px; }
+            .toc-link {
+                color: #888; text-decoration: none; transition: color 0.2s;
+                display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            }
+            .toc-link:hover { color: #00f3ff; }
+            .toc-depth-3 { padding-left: 15px; font-size: 0.8rem; }
+
+            @media (min-width: 1200px) { .toc-sidebar { display: block; } }
+
+            .breadcrumbs { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #666; }
+            .breadcrumbs a { color: #888; text-decoration: none; border: none; }
+            .breadcrumbs a:hover { color: #00f3ff; }
+            .sep { margin: 0 5px; color: #444; }
+            .current { color: #00f3ff; }
+
+            .home-link {
+                color: #00f3ff; text-decoration: none;
+                font-family: 'Orbitron', sans-serif; font-weight: bold;
+                font-size: 1.1rem; letter-spacing: 1px;
+                transition: text-shadow 0.3s;
+            }
+            .home-link:hover { text-shadow: 0 0 10px #00f3ff; }
+
+            /* --- 6. Related Posts & Share --- */
+            .related-section { margin-top: 80px; border-top: 1px solid #333; padding-top: 40px; }
+            .related-title { font-family: 'Orbitron', sans-serif; color: #00f3ff; font-size: 1.2rem; margin-bottom: 20px; }
+            .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+            .related-card { background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 8px; text-decoration: none; transition: all 0.2s; }
+            .related-card:hover { border-color: #00f3ff; transform: translateY(-3px); }
+            .related-card h3 { font-size: 1rem; color: #fff; margin: 0 0 10px 0; line-height: 1.4; }
+            .related-card span { font-size: 0.8rem; color: #888; }
+
+            .share-buttons { display: flex; gap: 10px; margin-bottom: 40px; }
+            .share-btn {
+                background: transparent; border: 1px solid #4a90e2; color: #4a90e2;
+                padding: 5px 15px; border-radius: 4px;
+                font-family: 'Orbitron', sans-serif; font-size: 0.8rem;
+                cursor: pointer; text-decoration: none; transition: all 0.2s;
+            }
+            .share-btn:hover { background: rgba(74, 144, 226, 0.1); box-shadow: 0 0 10px rgba(74, 144, 226, 0.3); }
+            .twitter { border-color: #fff; color: #fff; }
+            .twitter:hover { background: rgba(255, 255, 255, 0.1); box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); }
+
+            @media (max-width: 600px) {
+                article { padding: 25px; }
+                h1 { font-size: 1.8rem; }
+                header { flex-direction: column; align-items: flex-start; }
+                .breadcrumbs { font-size: 0.75rem; }
+            }
+		</style>
+	</head>
+	<body>
+        <div class="container">
+            <header>
+                <div class="nav-left">
+                    <a href="/" class="home-link">HELLO PROMPT</a>
+                </div>
+                <div class="breadcrumbs">
+                    <a href="/">HOME</a>
+                    <span class="sep">/</span>
+                    {frontmatter.tags && frontmatter.tags[0] && (
+                        <>
+                            <a href={`/tags/${frontmatter.tags[0]}`}>#{frontmatter.tags[0]}</a>
+                            <span class="sep">/</span>
+                        </>
+                    )}
+                    <span class="current">{frontmatter.title.length > 15 ? frontmatter.title.slice(0, 15) + '...' : frontmatter.title}</span>
+                </div>
+            </header>
+
+            {headings && headings.length > 0 && (
+                <nav class="toc-sidebar">
+                    <div class="toc-title">ON THIS PAGE</div>
+                    <ul class="toc-list">
+                        {headings.map(heading => (
+                            <li class={`toc-depth-${heading.depth}`}>
+                                <a href={`#${heading.slug}`} class="toc-link">{heading.text}</a>
+                            </li>
+                        ))}
+                    </ul>
+                </nav>
+            )}
+
+            <article>
+                <h1>{frontmatter.title}</h1>
+                <div class="meta">
+                    Author: {frontmatter.author} // Date: {frontmatter.date}
+                </div>
+
+                <div class="share-buttons">
+                    <button id="copy-link-btn" class="share-btn" aria-label="Copy Link">
+                        🔗 LINK
+                    </button>
+                    <a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(frontmatter.title)}&url=https://helloprompt.kr/`} target="_blank" class="share-btn twitter">
+                        𝕏 POST
+                    </a>
+                </div>
+
+                <slot />
+            </article>
+
+            {relatedPosts.length > 0 && (
+                <div class="related-section">
+                    <h2 class="related-title">RELATED INTELLIGENCE</h2>
+                    <div class="related-grid">
+                        {relatedPosts.map(post => (
+                            <a href={post.url} class="related-card">
+                                <h3>{post.frontmatter.title}</h3>
+                                <span>{post.frontmatter.date}</span>
+                            </a>
+                        ))}
+                    </div>
+                </div>
+            )}
+
+            <footer>
+                <p>POWERED BY JAY & ZZABBIS</p>
+                <p style="margin-top:10px; font-size: 0.7rem;">
+                    <a href="/rss.xml" style="color:#666; text-decoration:none; margin-right:10px;">RSS</a>
+                    <a href="/atom.xml" style="color:#666; text-decoration:none; margin-right:10px;">ATOM</a>
+                    <a href="/privacy" style="color:#666; text-decoration:none;">PRIVACY POLICY</a>
+                </p>
+            </footer>
+        </div>
+        <!-- 복사 버튼 스크립트 (부활!) -->
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                // 1. 모든 래퍼(Wrapper) 찾기
+                const wrappers = document.querySelectorAll('.quote-wrapper, .code-wrapper');
+                
+                wrappers.forEach(wrapper => {
+                    // 이미 버튼이 있으면 패스 (중복 방지)
+                    if (wrapper.querySelector('.copy-btn')) return;
+
+                    // 2. 버튼 생성
+                    const btn = document.createElement('button');
+                    btn.className = 'copy-btn';
+                    btn.ariaLabel = 'Copy to Clipboard';
+                    // 기본 아이콘 (클립보드)
+                    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;
+                    
+                    // 3. 클릭 이벤트 (복사 로직)
+                    btn.addEventListener('click', async () => {
+                        try {
+                            // 텍스트 추출 (pre 또는 blockquote 내부 텍스트)
+                            const content = wrapper.querySelector('pre, blockquote')?.innerText || '';
+                            
+                            await navigator.clipboard.writeText(content);
+                            
+                            // 성공 시 아이콘 변경 (체크)
+                            btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
+                            btn.classList.add('copied');
+                            
+                            // 2초 뒤 원복
+                            setTimeout(() => { 
+                                btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;
+                                btn.classList.remove('copied');
+                            }, 2000);
+                        } catch (err) {
+                            console.error('Copy failed:', err);
+                            btn.innerText = 'ERR';
+                        }
+                    });
+                    
+                    // 4. 버튼 부착
+                    wrapper.appendChild(btn);
+                });
+            });
+        </script>
+	</body>
+</html>

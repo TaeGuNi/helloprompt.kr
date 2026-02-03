@@ -1,0 +1,32 @@
+{
+  "name": "helloprompt.kr",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "lint": "prettier --check . && astro check",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "deploy": "pnpm lint && pnpm test && astro build && npx vercel deploy --prod"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.17.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@playwright/test": "^1.58.1",
+    "@vitest/coverage-v8": "^4.0.18",
+    "html-validate": "^10.7.0",
+    "prettier": "^3.8.1",
+    "prettier-plugin-astro": "^0.14.1",
+    "rehype-rewrite": "^4.0.4",
+    "typescript": "^5.9.3",
+    "unist-util-visit": "^5.1.0",
+    "vitest": "^4.0.18"
+  }
+}

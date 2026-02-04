@@ -10,7 +10,7 @@
     "lint": "prettier --check . && astro check",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "deploy": "pnpm lint && pnpm test && git add . && (git commit -m 'chore: auto-commit before deploy' || true) && GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_helloprompt' git push && astro build && npx vercel deploy --prod"
+    "deploy": "pnpm lint && pnpm test && git add . && (git commit -m 'chore: auto-commit before deploy' || true) && GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_helloprompt' git push && astro build && pnpm vercel deploy --prod"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
@@ -27,6 +27,7 @@
     "rehype-rewrite": "^4.0.4",
     "typescript": "^5.9.3",
     "unist-util-visit": "^5.1.0",
+    "vercel": "^50.10.0",
     "vitest": "^4.0.18"
   }
 }

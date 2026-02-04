@@ -11,6 +11,7 @@
   - 복사 버튼(Copy Button) 스크립트 안정화 (중복 실행 버그 수정)
   - 프롬프트 박스 디자인 변경 (파란색 테두리 + 라벨)
 - **Analytics:** Google Analytics 스크립트 위치 수정 (감지율 향상을 위해 Head 최상단으로 이동)
+- **SEO:** Sitemap 파일명 변경 (`sitemap-index.xml` -> `sitemap.xml`) 및 모든 페이지 포함 설정 (Pagination 제한 해제)
 
 ## [v1.0.0] - 2026-02-04
 

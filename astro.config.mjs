@@ -54,7 +54,11 @@ function rehypeWrap() {
 // https://astro.build/config
 export default defineConfig({
   site: "https://helloprompt.kr",
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      entryLimit: 10000, // 단일 파일로 나오도록 제한 해제
+    }),
+  ],
   markdown: {
     rehypePlugins: [rehypeWrap],
   },

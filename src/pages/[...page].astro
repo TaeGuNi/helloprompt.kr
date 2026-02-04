@@ -1,4 +1,6 @@
 ---
+import Layout from "../layouts/Layout.astro";
+
 export async function getStaticPaths({ paginate }: any) {
   const allPosts = Object.values(
     import.meta.glob("./posts/*.md", { eager: true }),
@@ -17,566 +19,386 @@ export async function getStaticPaths({ paginate }: any) {
 }
 
 const { page } = Astro.props as any;
+
+const frontmatter = {
+  title: "HOME",
+  description: "AI가 낯선 당신을 위한 가장 친절한 가이드",
+  date: new Date().toISOString().split("T")[0],
+  author: "Jay & ZZABBIS",
+};
 ---
 
-<html lang="ko">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Hello Prompt (헬로 프롬프트)</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Noto+Sans+KR:wght@300;500;700&family=JetBrains+Mono:wght@400&display=swap"
-      rel="stylesheet"
-    />
-    <style>
-      body {
-        font-family: "Noto Sans KR", sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #030303;
-        color: #e0e0e0;
-        line-height: 1.7;
-        overflow-x: hidden;
+<Layout frontmatter={frontmatter} isHome={true}>
+  <!-- HERO -->
+  <div class="hero">
+    <h1 class="ai-title">HELLO PROMPT</h1>
+    <div class="tech-line"></div>
+    <p class="subtitle">AI가 낯선 당신을 위한 가장 친절한 가이드</p>
 
-        background-image:
-          linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
-        background-size: 50px 50px;
-        background-position: center top;
+    <!-- 검색창 추가 -->
+    <div class="search-container">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="SEARCH INTELLIGENCE..."
+        autocomplete="off"
+      />
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
+
+  <style is:global>
+    .search-container {
+      position: relative;
+      max-width: 600px;
+      margin: 40px auto 0;
+      z-index: 50;
+    }
+
+    #search-input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 16px 24px;
+      background: rgba(10, 15, 20, 0.8);
+      border: 1px solid rgba(0, 243, 255, 0.5);
+      border-radius: 12px;
+      color: #fff;
+      font-family: "Noto Sans KR", sans-serif;
+      font-size: 1rem;
+      text-align: left;
+      transition: all 0.2s ease;
+      backdrop-filter: blur(10px);
+    }
+    #search-input:focus {
+      outline: none;
+      border-color: #00f3ff;
+      box-shadow: 0 0 0 4px rgba(0, 243, 255, 0.1);
+      background: rgba(10, 15, 20, 0.95);
+    }
+    #search-input::placeholder {
+      color: #666;
+      text-align: center;
+    }
+
+    /* 검색 결과창 (입력창과 너비 1:1 일치) */
+    .search-results {
+      position: absolute;
+      top: calc(100% + 10px);
+      left: 0;
+      right: 0;
+      width: 100%;
+      box-sizing: border-box;
+
+      background: #0a0f14;
+      border: 1px solid #333;
+      border-radius: 12px;
+      max-height: 400px;
+      overflow-y: auto;
+      z-index: 100;
+      display: none;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+    }
+
+    /* 검색 항목 (리스트 아이템) */
+    .search-item {
+      display: block;
+      padding: 16px 20px;
+      border-bottom: 1px solid #1a1f25;
+      text-decoration: none;
+      transition: background 0.1s ease;
+    }
+    .search-item:last-child {
+      border-bottom: none;
+    }
+
+    .search-item:hover {
+      background: rgba(0, 243, 255, 0.05);
+    }
+
+    .search-item h4 {
+      margin: 0 0 6px 0;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+    .search-item p {
+      margin: 0;
+      color: #999;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .search-results::-webkit-scrollbar {
+      width: 6px;
+    }
+    .search-results::-webkit-scrollbar-thumb {
+      background: #333;
+      border-radius: 3px;
+    }
+  </style>
+
+  <script>
+    /**
+     * 검색 기능 제어 스크립트
+     * - Debounce를 적용하여 불필요한 연산을 줄임
+     * - DOM 조작 최소화
+     */
+
+    // DOM 요소 참조 (Null Safety)
+    const searchInput = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+
+    // 검색 데이터 캐시
+    let searchIndex = [];
+
+    /**
+     * 초기 데이터 로드 (비동기)
+     * 빌드 타임에 생성된 search.json을 가져옴
+     */
+    async function loadSearchIndex() {
+      try {
+        const response = await fetch("/search.json");
+        searchIndex = await response.json();
+      } catch (error) {
+        console.error("Failed to load search index:", error);
+      }
+    }
+    loadSearchIndex();
+
+    /**
+     * 디바운스 함수 (성능 최적화)
+     * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
+     */
+    function debounce(func: any, delay: any) {
+      let timeoutId: any;
+      return (...args: any[]) => {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => func(...args), delay);
+      };
+    }
+
+    /**
+     * 검색 실행 및 UI 업데이트
+     */
+    function handleSearch(event: any) {
+      const target = event.target;
+      const query = target.value.trim().toLowerCase();
+
+      if (!searchResults) return;
+
+      // 검색어 초기화 시 숨김
+      if (query.length < 2) {
+        searchResults.style.display = "none";
+        searchResults.innerHTML = "";
+        return;
       }
 
-      body::after {
-        content: "";
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: radial-gradient(circle, transparent 40%, #030303 100%);
-        pointer-events: none;
-        z-index: 0;
-      }
+      // 필터링 로직 (제목 또는 태그 일치)
+      const matchedPosts = searchIndex.filter((post: any) => {
+        const titleMatch = post.title.toLowerCase().includes(query);
+        const tagMatch =
+          post.tags &&
+          post.tags.some((tag: any) => tag.toLowerCase().includes(query));
+        return titleMatch || tagMatch;
+      });
 
-      .container {
-        max-width: 1000px;
-        margin: 0 auto;
-        padding: 80px 20px;
-        text-align: center;
-        position: relative;
-        z-index: 1;
-      }
+      renderResults(matchedPosts);
+    }
 
-      /* --- HERO SECTION --- */
-      .hero {
-        margin-bottom: 100px;
-        position: relative;
-      }
+    /**
+     * 결과 렌더링 (DOM 조작)
+     */
+    function renderResults(posts: any) {
+      if (!searchResults) return;
 
-      .ai-title {
-        font-family: "Orbitron", sans-serif;
-        font-size: 4.5rem;
-        font-weight: 900;
-        letter-spacing: 2px;
-        margin: 0;
-        color: #333;
-        text-transform: uppercase;
+      searchResults.innerHTML = "";
+      searchResults.style.display = "block";
 
-        background: linear-gradient(
-          90deg,
-          #555 0%,
-          #fff 20%,
-          #00f3ff 50%,
-          #fff 80%,
-          #555 100%
-        );
-        background-size: 200% auto;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        animation: cyberScan 3s linear infinite;
-
-        text-shadow: 0 0 20px rgba(0, 243, 255, 0.3);
-      }
-
-      @keyframes cyberScan {
-        0% {
-          background-position: -200% center;
-        }
-        100% {
-          background-position: 200% center;
-        }
-      }
-
-      .tech-line {
-        width: 100px;
-        height: 4px;
-        background: #00f3ff;
-        margin: 20px auto;
-        box-shadow: 0 0 10px #00f3ff;
-        position: relative;
-      }
-      .tech-line::before,
-      .tech-line::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 4px;
-        background: #fff;
-      }
-      .tech-line::before {
-        left: 0;
-      }
-      .tech-line::after {
-        right: 0;
-      }
-
-      p.subtitle {
-        font-size: 1.2rem;
-        color: #888;
-        margin-top: 30px;
-        font-weight: 300;
-        letter-spacing: 1px;
-      }
-
-      /* --- POST GRID SECTION --- */
-      .grid-label {
-        text-align: left;
-        font-family: "Orbitron", sans-serif;
-        color: #00f3ff;
-        font-size: 1.2rem;
-        margin-bottom: 20px;
-        border-bottom: 1px solid rgba(0, 243, 255, 0.3);
-        padding-bottom: 10px;
-        display: flex;
-        justify-content: space-between;
-      }
-      .grid-count {
-        background: #00f3ff;
-        color: #000;
-        padding: 2px 8px;
-        border-radius: 4px;
-        font-size: 0.8rem;
-      }
-
-      .post-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        gap: 25px;
-        text-align: left;
-      }
-
-      .post-card {
-        background: rgba(10, 20, 30, 0.6);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 12px;
-        padding: 25px;
-        transition: all 0.3s ease;
-        text-decoration: none;
-        display: flex;
-        flex-direction: column;
-        position: relative;
-        overflow: hidden;
-        backdrop-filter: blur(5px);
-      }
-
-      .post-card::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 4px;
-        height: 100%;
-        background: #333;
-        transition: background 0.3s;
-      }
-
-      .post-card:hover {
-        transform: translateY(-5px);
-        border-color: #00f3ff;
-        box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
-      }
-      .post-card:hover::before {
-        background: #00f3ff;
-      }
-
-      .post-card h2 {
-        color: #fff;
-        font-size: 1.2rem;
-        margin: 0 0 10px 0;
-        font-weight: 700;
-        line-height: 1.4;
-      }
-
-      .post-card p {
-        color: #aaa;
-        font-size: 0.9rem;
-        flex-grow: 1;
-        margin-bottom: 20px;
-      }
-
-      .post-meta {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        font-size: 0.8rem;
-        font-family: "JetBrains Mono", monospace;
-        color: #666;
-      }
-
-      .tag-pill {
-        background: rgba(0, 243, 255, 0.1);
-        color: #00f3ff;
-        padding: 2px 8px;
-        border-radius: 4px;
-        border: 1px solid rgba(0, 243, 255, 0.2);
-      }
-
-      /* --- PAGINATION --- */
-      .pagination {
-        margin-top: 60px;
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-      }
-      .nav-btn {
-        background: transparent;
-        border: 1px solid #00f3ff;
-        color: #00f3ff;
-        padding: 10px 20px;
-        text-decoration: none;
-        font-family: "Orbitron", sans-serif;
-        font-size: 0.9rem;
-        border-radius: 4px;
-        transition: all 0.2s;
-      }
-      .nav-btn:hover {
-        background: #00f3ff;
-        color: #000;
-        box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
-      }
-      .nav-info {
-        color: #666;
-        font-family: "JetBrains Mono", monospace;
-        align-self: center;
-      }
-
-      footer {
-        margin-top: 100px;
-        color: #444;
-        font-size: 0.8rem;
-        font-family: "Orbitron", sans-serif;
-      }
-
-      @media (max-width: 600px) {
-        .ai-title {
-          font-size: 2.5rem;
-        }
-        .container {
-          padding: 60px 20px;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-      <!-- HERO -->
-      <div class="hero">
-        <h1 class="ai-title">HELLO PROMPT</h1>
-        <div class="tech-line"></div>
-        <p class="subtitle">AI가 낯선 당신을 위한 가장 친절한 가이드</p>
-
-        <!-- 검색창 추가 -->
-        <div class="search-container">
-          <input
-            type="text"
-            id="search-input"
-            placeholder="SEARCH INTELLIGENCE..."
-            autocomplete="off"
-          />
-          <div id="search-results" class="search-results"></div>
-        </div>
-      </div>
-
-      <style is:global>
-        .search-container {
-          position: relative;
-          max-width: 600px;
-          margin: 40px auto 0;
-          z-index: 50;
-        }
-
-        #search-input {
-          width: 100%;
-          box-sizing: border-box;
-          padding: 16px 24px;
-          background: rgba(10, 15, 20, 0.8);
-          border: 1px solid rgba(0, 243, 255, 0.5);
-          border-radius: 12px;
-          color: #fff;
-          font-family: "Noto Sans KR", sans-serif;
-          font-size: 1rem;
-          text-align: left;
-          transition: all 0.2s ease;
-          backdrop-filter: blur(10px);
-        }
-        #search-input:focus {
-          outline: none;
-          border-color: #00f3ff;
-          box-shadow: 0 0 0 4px rgba(0, 243, 255, 0.1);
-          background: rgba(10, 15, 20, 0.95);
-        }
-        #search-input::placeholder {
-          color: #666;
-          text-align: center;
-        }
-
-        /* 검색 결과창 (입력창과 너비 1:1 일치) */
-        .search-results {
-          position: absolute;
-          top: calc(100% + 10px);
-          left: 0;
-          right: 0;
-          width: 100%;
-          box-sizing: border-box;
-
-          background: #0a0f14;
-          border: 1px solid #333;
-          border-radius: 12px;
-          max-height: 400px;
-          overflow-y: auto;
-          z-index: 100;
-          display: none;
-          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-        }
-
-        /* 검색 항목 (리스트 아이템) */
-        .search-item {
-          display: block;
-          padding: 16px 20px;
-          border-bottom: 1px solid #1a1f25;
-          text-decoration: none;
-          transition: background 0.1s ease;
-        }
-        .search-item:last-child {
-          border-bottom: none;
-        }
-
-        .search-item:hover {
-          background: rgba(0, 243, 255, 0.05);
-        }
-
-        .search-item h4 {
-          margin: 0 0 6px 0;
-          color: #fff;
-          font-size: 1rem;
-          font-weight: 600;
-          letter-spacing: -0.02em;
-        }
-        .search-item p {
-          margin: 0;
-          color: #999;
-          font-size: 0.85rem;
-          line-height: 1.5;
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
-        }
-
-        .search-results::-webkit-scrollbar {
-          width: 6px;
-        }
-        .search-results::-webkit-scrollbar-thumb {
-          background: #333;
-          border-radius: 3px;
-        }
-      </style>
-
-      <script>
-        /**
-         * 검색 기능 제어 스크립트
-         * - Debounce를 적용하여 불필요한 연산을 줄임
-         * - DOM 조작 최소화
-         */
-
-        // DOM 요소 참조 (Null Safety)
-        const searchInput = document.getElementById("search-input");
-        const searchResults = document.getElementById("search-results");
-
-        // 검색 데이터 캐시
-        let searchIndex = [];
-
-        /**
-         * 초기 데이터 로드 (비동기)
-         * 빌드 타임에 생성된 search.json을 가져옴
-         */
-        async function loadSearchIndex() {
-          try {
-            const response = await fetch("/search.json");
-            searchIndex = await response.json();
-          } catch (error) {
-            console.error("Failed to load search index:", error);
-          }
-        }
-        loadSearchIndex();
-
-        /**
-         * 디바운스 함수 (성능 최적화)
-         * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
-         */
-        function debounce(func: any, delay: any) {
-          let timeoutId: any;
-          return (...args: any[]) => {
-            clearTimeout(timeoutId);
-            timeoutId = setTimeout(() => func(...args), delay);
-          };
-        }
-
-        /**
-         * 검색 실행 및 UI 업데이트
-         */
-        function handleSearch(event: any) {
-          const target = event.target;
-          const query = target.value.trim().toLowerCase();
-
-          if (!searchResults) return;
-
-          // 검색어 초기화 시 숨김
-          if (query.length < 2) {
-            searchResults.style.display = "none";
-            searchResults.innerHTML = "";
-            return;
-          }
-
-          // 필터링 로직 (제목 또는 태그 일치)
-          const matchedPosts = searchIndex.filter((post: any) => {
-            const titleMatch = post.title.toLowerCase().includes(query);
-            const tagMatch =
-              post.tags &&
-              post.tags.some((tag: any) => tag.toLowerCase().includes(query));
-            return titleMatch || tagMatch;
-          });
-
-          renderResults(matchedPosts);
-        }
-
-        /**
-         * 결과 렌더링 (DOM 조작)
-         */
-        function renderResults(posts: any) {
-          if (!searchResults) return;
-
-          searchResults.innerHTML = "";
-          searchResults.style.display = "block";
-
-          if (posts.length === 0) {
-            searchResults.innerHTML = `
+      if (posts.length === 0) {
+        searchResults.innerHTML = `
                             <div style="padding: 20px; color: #888; text-align: center;">
                                 NO DATA FOUND
                             </div>
                         `;
-            return;
-          }
+        return;
+      }
 
-          // DocumentFragment를 사용하여 리플로우 최소화
-          const fragment = document.createDocumentFragment();
+      // DocumentFragment를 사용하여 리플로우 최소화
+      const fragment = document.createDocumentFragment();
 
-          posts.forEach((post: any) => {
-            const link = document.createElement("a");
-            link.className = "search-item";
-            link.href = post.url;
-            link.innerHTML = `
+      posts.forEach((post: any) => {
+        const link = document.createElement("a");
+        link.className = "search-item";
+        link.href = post.url;
+        link.innerHTML = `
                             <h4>${post.title}</h4>
                             <p>${post.description}</p>
                         `;
-            fragment.appendChild(link);
-          });
+        fragment.appendChild(link);
+      });
 
-          searchResults.appendChild(fragment);
-        }
+      searchResults.appendChild(fragment);
+    }
 
-        // 이벤트 리스너 등록 (300ms 디바운스 적용)
-        if (searchInput) {
-          searchInput.addEventListener("input", debounce(handleSearch, 300));
-        }
+    // 이벤트 리스너 등록 (300ms 디바운스 적용)
+    if (searchInput) {
+      searchInput.addEventListener("input", debounce(handleSearch, 300));
+    }
 
-        // 외부 클릭 시 닫기 (UX 개선)
-        document.addEventListener("click", (event: any) => {
-          const target = event.target as HTMLElement;
-          // @ts-ignore
-          const isClickInside = target.closest(".search-container");
+    // 외부 클릭 시 닫기 (UX 개선)
+    document.addEventListener("click", (event: any) => {
+      const target = event.target as HTMLElement;
+      // @ts-ignore
+      const isClickInside = target.closest(".search-container");
 
-          if (!isClickInside && searchResults) {
-            searchResults.style.display = "none";
-          }
-        });
-      </script>
+      if (!isClickInside && searchResults) {
+        searchResults.style.display = "none";
+      }
+    });
+  </script>
 
-      <!-- POST LIST (Card Grid Style) -->
-      <div class="grid-label">
-        <span>LATEST INTELLIGENCE</span>
-        <span class="grid-count">PAGE {page.currentPage} / {page.lastPage}</span
-        >
-      </div>
+  <!-- POST LIST (Card Grid Style) -->
+  <div class="grid-label">
+    <span>LATEST INTELLIGENCE</span>
+    <span class="grid-count">PAGE {page.currentPage} / {page.lastPage}</span>
+  </div>
 
-      <div class="post-grid">
-        {
-          page.data.map((post: any) => (
-            <a href={post.url} class="post-card">
-              <h2>{post.frontmatter.title}</h2>
-              <p>{post.frontmatter.description}</p>
-              <div class="post-meta">
-                <span>{post.frontmatter.date}</span>
-                {post.frontmatter.tags &&
-                  post.frontmatter.tags
-                    .slice(0, 2)
-                    .map((tag: any) => <span class="tag-pill">#{tag}</span>)}
-              </div>
-            </a>
-          ))
-        }
-      </div>
+  <div class="post-grid">
+    {
+      page.data.map((post: any) => (
+        <a href={post.url} class="post-card">
+          <h2>{post.frontmatter.title}</h2>
+          <p>{post.frontmatter.description}</p>
+          <div class="post-meta">
+            <span>{post.frontmatter.date}</span>
+            {post.frontmatter.tags &&
+              post.frontmatter.tags
+                .slice(0, 2)
+                .map((tag: any) => <span class="tag-pill">#{tag}</span>)}
+          </div>
+        </a>
+      ))
+    }
+  </div>
 
-      <!-- 페이지네이션 컨트롤 -->
-      <div class="pagination">
-        {
-          page.url.prev ? (
-            <a href={page.url.prev} class="nav-btn">
-              &lt; PREV
-            </a>
-          ) : null
-        }
-        <span class="nav-info">{page.currentPage} / {page.lastPage}</span>
-        {
-          page.url.next ? (
-            <a href={page.url.next} class="nav-btn">
-              NEXT &gt;
-            </a>
-          ) : null
-        }
-      </div>
-
-      <footer>
-        <p>SYSTEM ONLINE // POWERED BY JAY & ZZABBIS</p>
-      </footer>
-    </div>
-  </body>
-</html>
-
-<style is:global>
-  /* ... (검색 CSS 생략) ... */
-  .search-container {
-    position: relative;
-    max-width: 600px;
-    margin: 40px auto 60px;
-    z-index: 50;
-  }
-  /* ... */
-</style>
+  <!-- 페이지네이션 컨트롤 -->
+  <div class="pagination">
+    {
+      page.url.prev ? (
+        <a href={page.url.prev} class="nav-btn">
+          &lt; PREV
+        </a>
+      ) : null
+    }
+    <span class="nav-info">{page.currentPage} / {page.lastPage}</span>
+    {
+      page.url.next ? (
+        <a href={page.url.next} class="nav-btn">
+          NEXT &gt;
+        </a>
+      ) : null
+    }
+  </div>
+</Layout>
 
 <style>
-  /* --- CARD GRID STYLE (Restored) --- */
+  /* --- HERO SECTION --- */
+  .hero {
+    margin-bottom: 100px;
+    position: relative;
+    text-align: center;
+  }
+
+  .ai-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 4.5rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin: 0;
+    color: #333;
+    text-transform: uppercase;
+
+    background: linear-gradient(
+      90deg,
+      #555 0%,
+      #fff 20%,
+      #00f3ff 50%,
+      #fff 80%,
+      #555 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: cyberScan 3s linear infinite;
+
+    text-shadow: 0 0 20px rgba(0, 243, 255, 0.3);
+  }
+
+  @keyframes cyberScan {
+    0% {
+      background-position: -200% center;
+    }
+    100% {
+      background-position: 200% center;
+    }
+  }
+
+  .tech-line {
+    width: 100px;
+    height: 4px;
+    background: #00f3ff;
+    margin: 20px auto;
+    box-shadow: 0 0 10px #00f3ff;
+    position: relative;
+  }
+  .tech-line::before,
+  .tech-line::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #fff;
+  }
+  .tech-line::before {
+    left: 0;
+  }
+  .tech-line::after {
+    right: 0;
+  }
+
+  p.subtitle {
+    font-size: 1.2rem;
+    color: #888;
+    margin-top: 30px;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+
+  /* --- POST GRID SECTION --- */
+  .grid-label {
+    text-align: left;
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid-count {
+    background: #00f3ff;
+    color: #000;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+
   .post-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -589,23 +411,40 @@ const { page } = Astro.props as any;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 12px;
     padding: 25px;
+    transition: all 0.3s ease;
     text-decoration: none;
     display: flex;
     flex-direction: column;
-    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
     backdrop-filter: blur(5px);
+  }
+
+  .post-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: #333;
+    transition: background 0.3s;
   }
 
   .post-card:hover {
     transform: translateY(-5px);
     border-color: #00f3ff;
-    box-shadow: 0 5px 20px rgba(0, 243, 255, 0.1);
+    box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+  }
+  .post-card:hover::before {
+    background: #00f3ff;
   }
 
   .post-card h2 {
     color: #fff;
     font-size: 1.2rem;
     margin: 0 0 10px 0;
+    font-weight: 700;
     line-height: 1.4;
   }
 
@@ -614,20 +453,15 @@ const { page } = Astro.props as any;
     font-size: 0.9rem;
     flex-grow: 1;
     margin-bottom: 20px;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
   }
 
   .post-meta {
-    font-size: 0.8rem;
-    color: #666;
-    margin-top: auto; /* 하단 고정 */
-    font-family: "JetBrains Mono", monospace;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: 0.8rem;
+    font-family: "JetBrains Mono", monospace;
+    color: #666;
   }
 
   .tag-pill {
@@ -638,5 +472,38 @@ const { page } = Astro.props as any;
     border: 1px solid rgba(0, 243, 255, 0.2);
   }
 
-  /* ... 나머지 스타일 ... */
+  /* --- PAGINATION --- */
+  .pagination {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .nav-btn {
+    background: transparent;
+    border: 1px solid #00f3ff;
+    color: #00f3ff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: "Orbitron", sans-serif;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+  .nav-btn:hover {
+    background: #00f3ff;
+    color: #000;
+    box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
+  }
+  .nav-info {
+    color: #666;
+    font-family: "JetBrains Mono", monospace;
+    align-self: center;
+  }
+
+  @media (max-width: 600px) {
+    .ai-title {
+      font-size: 2.5rem;
+    }
+  }
 </style>

@@ -15,9 +15,10 @@ export interface Props {
     tags?: string[];
   };
   headings?: { depth: number; slug: string; text: string }[];
+  isHome?: boolean;
 }
 
-const { frontmatter, headings } = Astro.props;
+const { frontmatter, headings, isHome = false } = Astro.props;
 
 // 추천 글 (Related Posts) 로직
 const allPosts = Object.values(
@@ -56,7 +57,7 @@ const relatedPosts = allPosts
     <meta name="description" content={frontmatter.description} />
 
     <!-- [SEO] Sitemap & Robots -->
-    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="sitemap" href="/sitemap.xml" />
 
     <!-- [Feed] RSS & Atom Auto-Discovery -->
     <link
@@ -123,6 +124,10 @@ const relatedPosts = allPosts
         margin: 0 auto;
         padding: 40px 20px;
         position: relative;
+      }
+      .container.is-home {
+        max-width: 1000px;
+        padding: 80px 20px;
       }
 
       header {
@@ -476,36 +481,38 @@ const relatedPosts = allPosts
     </style>
   </head>
   <body>
-    <div class="container">
-      <header>
-        <div class="nav-left">
-          <a href="/" class="home-link">HELLO PROMPT</a>
-        </div>
-        <div class="breadcrumbs">
-          <a href="/">HOME</a>
-          <span class="sep">/</span>
-          {
-            frontmatter.tags && frontmatter.tags[0] && (
-              <>
-                <a href={`/tags/${frontmatter.tags[0]}`}>
-                  #{frontmatter.tags[0]}
-                </a>
-                <span class="sep">/</span>
-              </>
-            )
-          }
-          <span class="current"
-            >{
-              frontmatter.title.length > 15
-                ? frontmatter.title.slice(0, 15) + "..."
-                : frontmatter.title
-            }</span
-          >
-        </div>
-      </header>
+    <div class={`container ${isHome ? "is-home" : ""}`}>
+      {
+        !isHome && (
+          <header>
+            <div class="nav-left">
+              <a href="/" class="home-link">
+                HELLO PROMPT
+              </a>
+            </div>
+            <div class="breadcrumbs">
+              <a href="/">HOME</a>
+              <span class="sep">/</span>
+              {frontmatter.tags && frontmatter.tags[0] && (
+                <>
+                  <a href={`/tags/${frontmatter.tags[0]}`}>
+                    #{frontmatter.tags[0]}
+                  </a>
+                  <span class="sep">/</span>
+                </>
+              )}
+              <span class="current">
+                {frontmatter.title.length > 15
+                  ? frontmatter.title.slice(0, 15) + "..."
+                  : frontmatter.title}
+              </span>
+            </div>
+          </header>
+        )
+      }
 
       {
-        headings && headings.length > 0 && (
+        !isHome && headings && headings.length > 0 && (
           <nav class="toc-sidebar">
             <div class="toc-title">ON THIS PAGE</div>
             <ul class="toc-list">
@@ -521,30 +528,40 @@ const relatedPosts = allPosts
         )
       }
 
-      <article>
-        <h1>{frontmatter.title}</h1>
-        <div class="meta">
-          Author: {frontmatter.author} // Date: {frontmatter.date}
-        </div>
+      {
+        isHome ? (
+          <slot />
+        ) : (
+          <article>
+            <h1>{frontmatter.title}</h1>
+            <div class="meta">
+              Author: {frontmatter.author} // Date: {frontmatter.date}
+            </div>
 
-        <div class="share-buttons">
-          <button id="copy-link-btn" class="share-btn" aria-label="Copy Link">
-            🔗 LINK
-          </button>
-          <a
-            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(frontmatter.title)}&url=https://helloprompt.kr/`}
-            target="_blank"
-            class="share-btn twitter"
-          >
-            𝕏 POST
-          </a>
-        </div>
+            <div class="share-buttons">
+              <button
+                id="copy-link-btn"
+                class="share-btn"
+                aria-label="Copy Link"
+              >
+                🔗 LINK
+              </button>
+              <a
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(frontmatter.title)}&url=https://helloprompt.kr/`}
+                target="_blank"
+                class="share-btn twitter"
+              >
+                𝕏 POST
+              </a>
+            </div>
 
-        <slot />
-      </article>
+            <slot />
+          </article>
+        )
+      }
 
       {
-        relatedPosts.length > 0 && (
+        !isHome && relatedPosts.length > 0 && (
           <div class="related-section">
             <h2 class="related-title">RELATED INTELLIGENCE</h2>
             <div class="related-grid">

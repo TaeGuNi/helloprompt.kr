@@ -1,18 +1,18 @@
-import type { APIRoute } from 'astro';
+import type { APIRoute } from "astro";
 
 export const GET: APIRoute = async (context) => {
-  const allPosts = await import.meta.glob('./posts/*.md');
+  const allPosts = await import.meta.glob("./posts/*.md");
   let posts: any[] = [];
-  
+
   for (const path in allPosts) {
-    if (path.includes('_template.md')) continue;
+    if (path.includes("_template.md")) continue;
     const post: any = await allPosts[path]();
     posts.push({
       title: post.frontmatter.title,
       description: post.frontmatter.description,
       pubDate: new Date(post.frontmatter.date),
       link: context.site + post.url,
-      author: post.frontmatter.author
+      author: post.frontmatter.author,
     });
   }
 
@@ -23,11 +23,16 @@ export const GET: APIRoute = async (context) => {
   const escapeXml = (unsafe: string) => {
     return unsafe.replace(/[<>&'"]/g, (c) => {
       switch (c) {
-        case '<': return '&lt;';
-        case '>': return '&gt;';
-        case '&': return '&amp;';
-        case '\'': return '&apos;';
-        case '"': return '&quot;';
+        case "<":
+          return "&lt;";
+        case ">":
+          return "&gt;";
+        case "&":
+          return "&amp;";
+        case "'":
+          return "&apos;";
+        case '"':
+          return "&quot;";
       }
       return c;
     });
@@ -44,7 +49,9 @@ export const GET: APIRoute = async (context) => {
   <author>
     <name>Jay &amp; Zzabbis</name>
   </author>
-  ${posts.map(post => `
+  ${posts
+    .map(
+      (post) => `
   <entry>
     <title>${escapeXml(post.title)}</title>
     <link href="${post.link}" />
@@ -54,12 +61,14 @@ export const GET: APIRoute = async (context) => {
     <author>
       <name>${escapeXml(post.author)}</name>
     </author>
-  </entry>`).join('')}
+  </entry>`,
+    )
+    .join("")}
 </feed>`;
 
   return new Response(atom, {
     headers: {
-      'Content-Type': 'application/xml; charset=utf-8',
+      "Content-Type": "application/xml; charset=utf-8",
     },
   });
-}
+};

@@ -406,8 +406,9 @@ const relatedPosts = allPosts
                     // 3. 클릭 이벤트 (복사 로직)
                     btn.addEventListener('click', async () => {
                         try {
-                            // 텍스트 추출 (pre 또는 blockquote 내부 텍스트)
-                            const content = wrapper.querySelector('pre, blockquote')?.innerText || '';
+                            // 텍스트 추출 (타입 단언 추가)
+                            const element = wrapper.querySelector('pre, blockquote') as HTMLElement;
+                            const content = element?.innerText || '';
                             
                             await navigator.clipboard.writeText(content);
                             

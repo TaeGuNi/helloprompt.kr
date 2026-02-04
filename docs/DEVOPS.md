@@ -8,6 +8,7 @@
 `pnpm run deploy` 명령어를 실행하면 다음 4단계가 순차적으로 진행됩니다.
 
 ### 단계별 프로세스
+
 1.  **Lint & Check:** `astro check`로 문법 오류 검사
 2.  **Unit Test:** `vitest`로 유틸리티 함수 로직 검증
 3.  **E2E Test:** `playwright`로 브라우저 상에서 화면 렌더링 검증
@@ -27,12 +28,12 @@ graph LR
 ## 2. 테스트 전략 (Testing Strategy)
 
 - **Unit Test (Vitest):**
-    - 대상: `src/utils.ts` 등 순수 로직
-    - 실행: `pnpm test`
+  - 대상: `src/utils.ts` 등 순수 로직
+  - 실행: `pnpm test`
 - **E2E Test (Playwright):**
-    - 대상: 메인 페이지, 검색 기능 등 사용자 시나리오
-    - 실행: `pnpm test:e2e`
-    - 특징: 실제 Chromium 브라우저를 띄워 테스트함
+  - 대상: 메인 페이지, 검색 기능 등 사용자 시나리오
+  - 실행: `pnpm test:e2e`
+  - 특징: 실제 Chromium 브라우저를 띄워 테스트함
 
 ## 3. 코드 품질 기준 (Code Quality Gate)
 

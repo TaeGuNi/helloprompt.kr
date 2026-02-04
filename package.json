@@ -10,7 +10,7 @@
     "lint": "prettier --check . && astro check",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "deploy": "pnpm lint && pnpm test && astro build && npx vercel deploy --prod"
+    "deploy": "pnpm lint && pnpm test && git add . && (git commit -m 'chore: auto-commit before deploy' || true) && GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_helloprompt' git push && astro build && npx vercel deploy --prod"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

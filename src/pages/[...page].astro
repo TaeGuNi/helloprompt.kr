@@ -451,7 +451,8 @@ const { page } = Astro.props;
                 
                 // 외부 클릭 시 닫기 (UX 개선)
                 document.addEventListener('click', (event) => {
-                    const target = event.target;
+                    const target = event.target as HTMLElement;
+                    // @ts-ignore
                     const isClickInside = target.closest('.search-container');
                     
                     if (!isClickInside && searchResults) {

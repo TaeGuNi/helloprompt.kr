@@ -41,6 +41,15 @@ const relatedPosts = allPosts
         <!-- [SEO] Sitemap & Robots -->
         <link rel="sitemap" href="/sitemap-index.xml" />
         
+        <!-- [Analytics] Google Analytics (GA4) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5MFF2LHX1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-P5MFF2LHX1');
+        </script>
+        
         <!-- [Feed] RSS & Atom Auto-Discovery -->
         <link rel="alternate" type="application/rss+xml" title="Hello Prompt RSS Feed" href="/rss.xml" />
         <link rel="alternate" type="application/atom+xml" title="Hello Prompt Atom Feed" href="/atom.xml" />

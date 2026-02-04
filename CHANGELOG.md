@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.2 (2026-02-04)
+
+### Bug Fixes
+
+- Resolve build errors and unify UI style ([4411a5a](https://github.com/TaeGuNi/helloprompt.kr/commit/4411a5ad72f8ce7dc2ba5d43c8c5f6630b35f591))
+- Restore Google Analytics code ([0b1737d](https://github.com/TaeGuNi/helloprompt.kr/commit/0b1737df9d1558e553e3f2e4ad6d7666292ca8ef))
+
 # 📜 변경 이력 (Changelog)
 
 이 프로젝트의 주요 변경 사항을 기록합니다.

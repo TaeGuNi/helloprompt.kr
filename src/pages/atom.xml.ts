@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
 
 export const GET: APIRoute = async (context) => {
-  const allPosts = await import.meta.glob("./posts/*.md");
+  const allPosts = import.meta.glob("./posts/*.md");
   let posts: any[] = [];
 
   for (const path in allPosts) {

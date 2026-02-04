@@ -4,6 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import { visit } from "unist-util-visit";
 
 function rehypeWrap() {
+  /** @param {any} tree */
   return (tree) => {
     visit(tree, "element", (node, index, parent) => {
       // 1. 코드 블럭 (pre) 감싸기

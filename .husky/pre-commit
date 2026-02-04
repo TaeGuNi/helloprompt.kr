@@ -1,0 +1,17 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "🔍 [Pre-commit] Code Quality Check..."
+
+# 1. Format & Lint Staged Files
+npx lint-staged
+
+# 2. Run Type Check & Lint (All Files)
+echo "🛡️  Running Type Check..."
+pnpm lint
+
+# 3. Run Unit Tests
+echo "🧪 Running Unit Tests..."
+pnpm test
+
+echo "✅ All checks passed! Committing..."

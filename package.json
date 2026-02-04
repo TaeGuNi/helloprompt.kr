@@ -10,7 +10,8 @@
     "lint": "prettier --check . && astro check",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "deploy": "pnpm lint && pnpm test && git add . && (git commit -m 'chore: auto-commit before deploy' || true) && GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_helloprompt' git push && astro build && pnpm vercel deploy --prod"
+    "deploy": "pnpm lint && pnpm test && git add . && (git commit -m 'chore: auto-commit before deploy' || true) && GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_helloprompt' git push && astro build && pnpm vercel deploy --prod",
+    "prepare": "husky"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
@@ -22,6 +23,8 @@
     "@playwright/test": "^1.58.1",
     "@vitest/coverage-v8": "^4.0.18",
     "html-validate": "^10.7.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "rehype-rewrite": "^4.0.4",
@@ -29,5 +32,10 @@
     "unist-util-visit": "^5.1.0",
     "vercel": "^50.10.0",
     "vitest": "^4.0.18"
+  },
+  "lint-staged": {
+    "*.{js,ts,astro,md}": [
+      "prettier --write"
+    ]
   }
 }

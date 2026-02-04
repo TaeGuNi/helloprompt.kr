@@ -2,6 +2,16 @@
 
 이 프로젝트의 주요 변경 사항을 기록합니다.
 
+### 🛡️ 안정성 및 품질 강화 (Stability Polish)
+
+- **DevOps:** Husky & lint-staged 도입 (커밋 전 자동 검사)
+- **Formatting:** Prettier 설정 강화 (`.prettierrc.mjs`) 및 전체 코드 포맷팅
+- **UI/UX:**
+  - 검색 결과창 디자인 개선 (Backdrop Blur, Neon Border)
+  - 복사 버튼(Copy Button) 스크립트 안정화 (중복 실행 버그 수정)
+  - 프롬프트 박스 디자인 변경 (파란색 테두리 + 라벨)
+- **Analytics:** Google Analytics 스크립트 위치 수정 (감지율 향상을 위해 Head 최상단으로 이동)
+
 ## [v1.0.0] - 2026-02-04
 
 ### 🚀 초기 런칭 (Initial Launch)

@@ -37,13 +37,6 @@ const relatedPosts = allPosts
 <html lang="ko">
   <head>
     <meta charset="utf-8" />
-    <title>{frontmatter.title} | Hello Prompt</title>
-    <meta name="viewport" content="width=device-width" />
-    <meta name="description" content={frontmatter.description} />
-
-    <!-- [SEO] Sitemap & Robots -->
-    <link rel="sitemap" href="/sitemap-index.xml" />
-
     <!-- [Analytics] Google Analytics (GA4) -->
     <script
       is:inline
@@ -57,6 +50,13 @@ const relatedPosts = allPosts
       gtag("js", new Date());
       gtag("config", "G-P5MFF2LHX1");
     </script>
+
+    <title>{frontmatter.title} | Hello Prompt</title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={frontmatter.description} />
+
+    <!-- [SEO] Sitemap & Robots -->
+    <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- [Feed] RSS & Atom Auto-Discovery -->
     <link

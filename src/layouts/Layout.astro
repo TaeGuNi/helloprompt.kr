@@ -13,6 +13,7 @@ export interface Props {
     author: string;
     category?: string;
     tags?: string[];
+    lang?: string;
   };
   headings?: { depth: number; slug: string; text: string }[];
   isHome?: boolean;
@@ -37,7 +38,7 @@ const relatedPosts = allPosts
   .slice(0, 3);
 ---
 
-<html lang="ko">
+<html lang={frontmatter.lang || "ko"}>
   <head>
     <meta charset="utf-8" />
 
@@ -596,7 +597,10 @@ const relatedPosts = allPosts
             {frontmatter.tags && frontmatter.tags.length > 0 && (
               <div class="tags-container">
                 {frontmatter.tags.map((tag) => (
-                  <a href={`/tags/${tag}`} class="tag-badge">
+                  <a
+                    href={`${frontmatter.lang && frontmatter.lang !== "ko" ? "/" + frontmatter.lang : ""}/tags/${tag}`}
+                    class="tag-badge"
+                  >
                     #{tag}
                   </a>
                 ))}

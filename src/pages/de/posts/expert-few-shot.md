@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'Die Macht von "Beispielen", stärker als hundert Worte der Erklärung (Few-Shot Prompting)'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -34,8 +34,6 @@ Dies nennt man in der Fachsprache **Few-Shot Prompting**.
 1. KI lernt durch konkrete Beispiele (Examples) schneller und genauer als durch lange Erklärungen.
 2. Few-Shot Prompting zeigt 1-3 Eingabe-Ausgabe-Paare, um das gewünschte Format und den Tonfall zu induzieren.
 3. Wenn Sie einen bestimmten Stil wünschen, ist es effektiver, Musterlösungen zu präsentieren, als es mit Worten zu erklären.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ Zeigen Sie der KI ca. 1-3 Beispiele nach dem Motto "Mach es so".
 
 ---
 
----
-
----
-
 ## 🧬 Prompt-Analyse (Warum es funktioniert?)
 
 ---
@@ -101,10 +95,6 @@ Die KI repliziert perfekt die 'Tone & Manner' der Beispiele.
 ```text
 Ausgabe: Der majestätischste Abschied, gewidmet jenen, die wir 3000 Mal geliebt haben. 🛡️
 ```
-
----
-
----
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "比百句解释更强大的“示例”力量 (Few-Shot Prompting)"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -34,8 +34,6 @@ _"让它用JSON格式，它却总是加上序言。"_
 1. AI通过具体的示例(Example)比通过冗长的解释学得更快更准。
 2. Few-Shot Prompting通过展示1~3个输入-输出对，引导出想要的格式和语气。
 3. 如果有想要的风格，与其用语言解释，不如提供标准答案样本更有效。
-
----
 
 ---
 
@@ -74,10 +72,6 @@ _"让它用JSON格式，它却总是加上序言。"_
 
 ---
 
----
-
----
-
 ## 🧬 提示词解剖 (Why it works?)
 
 ---
@@ -101,10 +95,6 @@ AI完美复制了示例的'Tone & Manner'。
 ```text
 输出: 献给爱他们3000遍的那些人，最庄严的告别问候。 🛡️
 ```
-
----
-
----
 
 ---
 

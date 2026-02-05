@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "3 Primeiros Passos para Iniciantes em IA"
 author: "Jay"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ Mas não se preocupe. Siga apenas estas **3 coisas** que vou compartilhar hoje. 
 
 ---
 
----
-
 3. Inscreva-se no Hello Prompt
 
 ### 🥉 Versão Básica
@@ -54,8 +52,6 @@ De agora em diante, este blog vai **explicar** como usar a IA de uma forma muito
 Vou deixar de fora os termos difíceis e reunir apenas dicas úteis que você pode usar agora.
 
 Então, vamos começar? 🚀
-
----
 
 ---
 
@@ -85,8 +81,6 @@ Use quando precisar de qualidade detalhada.
 ## 📊 Prova: Antes e Depois
 
 Não há conteúdo de comparação.
-
----
 
 ---
 

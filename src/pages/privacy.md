@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "개인정보처리방침 (Privacy Policy)"
 author: "Hello Prompt"
 date: "2026-02-04"

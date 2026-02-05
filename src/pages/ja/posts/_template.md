@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "ここにタイトルを入力してください"
 author: "Zzabbis"
 date: "2026-02-03"

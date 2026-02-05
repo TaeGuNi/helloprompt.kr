@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'L''IA ne vous comprend pas ? Utilisez des "Délimiteurs"'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ Tout comme les humains divisent les textes en **paragraphes**, vous devez tracer
 
 ---
 
----
-
 ## 🚀 Solution : "Utiliser des balises XML ou des symboles spéciaux"
 
 ### 🥉 Version Basique (Basic)
@@ -63,10 +61,6 @@ La meilleure méthode est d'utiliser des balises `< >` ou `"""` (trois guillemet
 
 ---
 
----
-
----
-
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
 ---
@@ -90,10 +84,6 @@ L'IA reconnaît uniquement le contenu dans `<text>` comme **"données à traiter
 ```text
 (Extrait et résume parfaitement le contenu à l'intérieur de <text>)
 ```
-
----
-
----
 
 ---
 

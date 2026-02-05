@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'La puissance de l''"Exemple", plus forte que mille explications (Few-Shot Prompting)'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -34,8 +34,6 @@ C'est ce qu'on appelle techniquement le **Few-Shot Prompting**.
 1. L'IA apprend plus vite et plus précisément grâce à des exemples concrets (Example) qu'avec de longues explications.
 2. Le Few-Shot Prompting montre 1 à 3 paires entrée-sortie pour induire le format et le ton souhaités.
 3. Si vous avez un style désiré, il est plus efficace de montrer un exemple de réponse correcte que de l'expliquer avec des mots.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ Montrez 1 à 3 exemples à l'IA en disant "Fais comme ça".
 
 ---
 
----
-
----
-
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
 ---
@@ -101,10 +95,6 @@ L'IA reproduit parfaitement le 'ton et la manière' des exemples.
 ```text
 Sortie : L'adieu le plus grandiose, dédié à ceux que nous avons aimés 3000 fois. 🛡️
 ```
-
----
-
----
 
 ---
 

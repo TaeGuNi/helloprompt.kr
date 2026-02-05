@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'Wenn die KI Sie nicht versteht? Setzen Sie "Zäune" (Delimiters)'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ So wie Menschen beim Lesen **Absätze** machen, müssen wir auch für die KI kla
 
 ---
 
----
-
 ## 🚀 Lösung: "XML-Tags oder Sonderzeichen nutzen"
 
 ### 🥉 Basic Version (Basis-Version)
@@ -63,10 +61,6 @@ Die beste Methode ist die Verwendung von `< >`-Tags oder `"""` (drei Anführungs
 
 ---
 
----
-
----
-
 ## 🧬 Prompt-Analyse (Warum es funktioniert?)
 
 ---
@@ -90,10 +84,6 @@ Die KI erkennt nur den Inhalt innerhalb von `<text>` als **"zu verarbeitende Dat
 ```text
 (Extrahiert genau den Inhalt innerhalb von <text> und fasst ihn perfekt zusammen)
 ```
-
----
-
----
 
 ---
 

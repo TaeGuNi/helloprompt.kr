@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "AI Not Understanding You? Build a 'Fence' (Delimiters)"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ Just as humans divide text into **paragraphs**, you need to draw a clear **Delim
 
 ---
 
----
-
 ## 🚀 Solution: "Use XML Tags or Special Characters"
 
 ### 🥉 Basic Version
@@ -63,10 +61,6 @@ The best method is to use `< >` tags or `"""` (triple quotes).
 
 ---
 
----
-
----
-
 ## 🧬 Prompt Anatomy (Why it works?)
 
 ---
@@ -90,10 +84,6 @@ AI recognizes only the content inside `<text>` as **"Data to process"** and clea
 ```text
 (Perfectly summarizes by extracting only the content inside <text>)
 ```
-
----
-
----
 
 ---
 

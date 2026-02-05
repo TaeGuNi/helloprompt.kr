@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "AI初学者最先应该做的3件事"
 author: "Jay"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ description: "如果觉得AI很难？介绍现在马上就能开始的最简单�
 
 ---
 
----
-
 3. 订阅 Hello Prompt
 
 ### 🥉 Basic Version (基础版)
@@ -54,8 +52,6 @@ description: "如果觉得AI很难？介绍现在马上就能开始的最简单�
 去掉困难的术语，只收集马上能用的蜜罐技巧。
 
 那么，现在开始吧？ 🚀
-
----
 
 ---
 
@@ -85,8 +81,6 @@ description: "如果觉得AI很难？介绍现在马上就能开始的最简单�
 ## 📊 证明: Before & After
 
 无比较内容。
-
----
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Wie man 1 Stunde Protokollführung in 10 Sekunden erledigt und pünktlich Feierabend macht"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -40,8 +40,6 @@ Und nutzen Sie die verbleibende Zeit **für sich selbst (Sport, Lesen, Ausruhen)
 
 ---
 
----
-
 ## 🚀 Lösung: "Chefsekretär" Prompt
 
 ### 🥉 Basic Version (Basis-Version)
@@ -74,10 +72,6 @@ Fügen Sie ungeordnete Notizen oder ClovaNote-Texte einfach in das Feld unten ei
 
 ---
 
----
-
----
-
 ## 🧬 Prompt-Analyse (Warum es funktioniert?)
 
 ---
@@ -104,9 +98,6 @@ Die KI analysiert dieses Gespräch und erstellt **in nur 10 Sekunden** einen Ber
 
 ```text
 # 📑 Meeting-Zusammenfassungsbericht
-
----
-
 
 ---
 

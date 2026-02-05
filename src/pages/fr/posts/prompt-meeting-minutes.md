@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Comment résumer une réunion d'une heure en 10 secondes et partir à l'heure"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -40,8 +40,6 @@ Et utilisez le temps restant **pour vous (sport, lecture, repos)**.
 
 ---
 
----
-
 ## 🚀 Solution : Prompt "Secrétaire en Chef"
 
 ### 🥉 Version Basique (Basic)
@@ -74,10 +72,6 @@ Collez simplement vos notes décousues ou le texte de Clova Note dans la boîte 
 
 ---
 
----
-
----
-
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
 ---
@@ -104,9 +98,6 @@ L'IA analyse cette conversation et complète le rapport **en seulement 10 second
 
 ```text
 # 📑 Rapport de Résumé de Réunion
-
----
-
 
 ---
 

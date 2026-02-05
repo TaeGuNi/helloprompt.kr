@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "When AI Keeps Giving Stupid Answers: Use 'Chain of Thought (CoT)'"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -32,8 +32,6 @@ What you need here is the technique to force **"Time to Think"**, which is **Cha
 1. AI is prone to giving wrong answers by relying on intuition in complex problems.
 2. The "Chain of Thought (CoT)" technique gives AI time to think, inducing logical reasoning.
 3. You can drastically increase accuracy through the 3 steps of Think -> Review -> Conclusion.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ To see a definite effect, order the 3 steps of **Think -> Review -> Answer**.
 
 ---
 
----
-
----
-
 ## 🧬 Prompt Anatomy (Why it works?)
 
 ---
@@ -111,10 +105,6 @@ The AI thinks while drawing a calendar like a human.
 [3. Conclusion]
 The final end date is 'Next Friday', and including the weekend, the total duration is 12 days (10 business days).
 ```
-
----
-
----
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "The Power of 'Examples' Stronger Than 100 Words (Few-Shot Prompting)"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -34,8 +34,6 @@ This is professionally called **Few-Shot Prompting**.
 1. AI learns faster and more accurately through specific Examples rather than long explanations.
 2. Few-Shot Prompting guides the desired format and tone by showing 1-3 Input-Output pairs.
 3. If you have a desired style, providing correct samples is more effective than describing it in words.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ Show the AI about 1-3 samples of "Do it like this".
 
 ---
 
----
-
----
-
 ## 🧬 Prompt Anatomy (Why it works?)
 
 ---
@@ -101,10 +95,6 @@ The AI perfectly replicates the 'Tone & Manner' of the examples.
 ```text
 Output: The most majestic farewell dedicated to those we loved 3000. 🛡️
 ```
-
----
-
----
 
 ---
 

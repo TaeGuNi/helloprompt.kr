@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Les 3 premières choses à faire pour les débutants en IA"
 author: "Jay"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ Mais ne vous inquiétez pas. Essayez juste les **3 choses** que je vais vous dir
 
 ---
 
----
-
 3. S'abonner à Hello Prompt
 
 ### 🥉 Version Basique (Basic)
@@ -54,8 +52,6 @@ Utilisez ceci quand vous avez besoin de qualité détaillée.
 Nous enlèverons les termes difficiles et ne rassemblerons que les astuces utilisables immédiatement.
 
 Alors, on commence ? 🚀
-
----
 
 ---
 
@@ -85,8 +81,6 @@ Utilisez ceci quand vous avez besoin de qualité détaillée.
 ## 📊 Preuve : Avant & Après
 
 Il n'y a pas de contenu comparatif.
-
----
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Finish 1-Hour Meeting Minutes in 10 Seconds & Leave Work on Time"
 author: "Zzabbis"
 date: "2026-02-03"
@@ -40,8 +40,6 @@ And spend the remaining time **for yourself (exercise, reading, rest)**.
 
 ---
 
----
-
 ## 🚀 Solution: "Chief Secretary" Prompt
 
 ### 🥉 Basic Version
@@ -74,10 +72,6 @@ Paste your messy notes or the raw text from a recording (like Clover Note) direc
 
 ---
 
----
-
----
-
 ## 🧬 Prompt Anatomy (Why it works?)
 
 ---
@@ -104,9 +98,6 @@ AI analyzes this conversation and completes the report in **just 10 seconds**.
 
 ```text
 # 📑 Meeting Summary Report
-
----
-
 
 ---
 

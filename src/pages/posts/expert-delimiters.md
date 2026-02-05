@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요 (Delimiters)'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
----
-
 ## 🚀 해결책: "XML 태그나 특수기호 활용하기"
 
 ### 🥉 Basic Version (기본형)
@@ -63,10 +61,6 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
----
-
----
-
 ## 🧬 프롬프트 해부 (Why it works?)
 
 ---
@@ -90,10 +84,6 @@ AI는 `<text>` 안의 내용만 **"처리할 데이터"**로 인식하고, 나�
 ```text
 (정확하게 <text> 내부의 내용만 추출하여 완벽하게 요약함)
 ```
-
----
-
----
 
 ---
 

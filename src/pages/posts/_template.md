@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "여기에 제목을 입력하세요"
 author: "Zzabbis"
 date: "2026-02-03"

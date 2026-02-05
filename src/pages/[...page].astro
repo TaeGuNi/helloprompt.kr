@@ -2,11 +2,13 @@
 import Layout from "../layouts/Layout.astro";
 
 export async function getStaticPaths({ paginate }: any) {
-  const allPosts = Object.values(
+  // 1. 한국어 포스트만 가져오기 (eager load)
+  const krPosts = Object.values(
     import.meta.glob("./posts/*.md", { eager: true }),
   );
-  // 템플릿 파일 제외 및 날짜순 정렬
-  const sortedPosts = allPosts
+
+  // 2. 템플릿 제외 및 날짜순 정렬
+  const sortedPosts = krPosts
     .filter((post: any) => !post.file.includes("_template.md"))
     .sort(
       (a: any, b: any) =>
@@ -14,7 +16,7 @@ export async function getStaticPaths({ paginate }: any) {
         new Date(a.frontmatter.date).valueOf(),
     );
 
-  // 12개씩 페이지 나누기
+  // 3. 페이지네이션 (루트 경로 /)
   return paginate(sortedPosts, { pageSize: 12 });
 }
 
@@ -50,7 +52,8 @@ const frontmatter = {
   <style is:global>
     .search-container {
       position: relative;
-      max-width: 600px;
+      width: 100%;
+      max-width: 800px;
       margin: 40px auto 0;
       z-index: 50;
     }
@@ -306,77 +309,65 @@ const frontmatter = {
 </Layout>
 
 <style>
-  /* --- HERO SECTION --- */
+  /* --- HERO SECTION (Refined) --- */
   .hero {
-    margin-bottom: 100px;
+    margin-bottom: 120px; /* 하단 여백 대폭 추가 */
     position: relative;
     text-align: center;
+    padding-top: 60px; /* 상단 여백 추가 */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 확실한 중앙 정렬 */
   }
 
   .ai-title {
     font-family: "Orbitron", sans-serif;
-    font-size: 4.5rem;
+    font-size: 5rem; /* PC에서 더 크게 */
     font-weight: 900;
-    letter-spacing: 2px;
-    margin: 0;
-    color: #333;
+    letter-spacing: 4px;
+    margin: 0 0 30px 0;
+    line-height: 1.1;
+    color: #fff;
     text-transform: uppercase;
 
-    background: linear-gradient(
-      90deg,
-      #555 0%,
-      #fff 20%,
-      #00f3ff 50%,
-      #fff 80%,
-      #555 100%
-    );
-    background-size: 200% auto;
+    /* 네온 효과 강화 */
+    text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
+    background: linear-gradient(180deg, #fff, #aaa); /* 메탈릭 그라데이션 */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: cyberScan 3s linear infinite;
-
-    text-shadow: 0 0 20px rgba(0, 243, 255, 0.3);
-  }
-
-  @keyframes cyberScan {
-    0% {
-      background-position: -200% center;
-    }
-    100% {
-      background-position: 200% center;
-    }
   }
 
   .tech-line {
-    width: 100px;
+    width: 150px;
     height: 4px;
     background: #00f3ff;
-    margin: 20px auto;
-    box-shadow: 0 0 10px #00f3ff;
-    position: relative;
-  }
-  .tech-line::before,
-  .tech-line::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: #fff;
-  }
-  .tech-line::before {
-    left: 0;
-  }
-  .tech-line::after {
-    right: 0;
+    margin: 0 auto 30px; /* 중앙 정렬 및 여백 */
+    box-shadow: 0 0 20px #00f3ff;
+    border-radius: 2px;
   }
 
   p.subtitle {
-    font-size: 1.2rem;
-    color: #888;
-    margin-top: 30px;
+    font-size: 1.4rem;
+    color: #ccc;
+    margin: 0 0 60px 0; /* 검색창과의 간격 */
     font-weight: 300;
     letter-spacing: 1px;
+    opacity: 0.8;
+  }
+
+  @media (max-width: 768px) {
+    .ai-title {
+      font-size: 3rem;
+      letter-spacing: 1px;
+    }
+    .hero {
+      margin-bottom: 80px;
+      padding-top: 40px;
+    }
+    p.subtitle {
+      font-size: 1.1rem;
+      margin-bottom: 40px;
+    }
   }
 
   /* --- POST GRID SECTION --- */

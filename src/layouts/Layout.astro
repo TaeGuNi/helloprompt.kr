@@ -20,6 +20,8 @@ export interface Props {
 
 const { frontmatter, headings, isHome = false } = Astro.props;
 
+import LanguageSwitcher from "../components/LanguageSwitcher.astro";
+
 // 추천 글 (Related Posts) 로직
 const allPosts = Object.values(
   import.meta.glob("../pages/posts/*.md", { eager: true }),
@@ -56,6 +58,10 @@ const relatedPosts = allPosts
     <title>{frontmatter.title} | Hello Prompt</title>
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content={frontmatter.description} />
+    <meta
+      name="naver-site-verification"
+      content="2ff7582321b574edaa206e2e1dbffaf4b81aacb4"
+    />
 
     <!-- [SEO] Sitemap & Robots -->
     <link rel="sitemap" href="/sitemap.xml" />
@@ -188,6 +194,34 @@ const relatedPosts = allPosts
         font-size: 0.9rem;
         margin-bottom: 40px;
         font-family: "JetBrains Mono", monospace;
+      }
+
+      /* --- Tags --- */
+      .tags-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 30px;
+        margin-top: -20px; /* Pull closer to meta */
+      }
+      .tag-badge {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 0.8rem;
+        color: #00f3ff;
+        background: rgba(0, 243, 255, 0.05);
+        border: 1px solid rgba(0, 243, 255, 0.3);
+        padding: 4px 12px;
+        border-radius: 100px;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(0, 243, 255, 0.3) !important; /* Override global dashed */
+        transition: all 0.2s;
+      }
+      .tag-badge:hover {
+        background: rgba(0, 243, 255, 0.15);
+        box-shadow: 0 0 15px rgba(0, 243, 255, 0.3);
+        transform: translateY(-2px);
+        color: #fff;
+        border-color: #00f3ff;
       }
 
       /* --- 4. Components (Prompt Box & Code) --- */
@@ -483,6 +517,18 @@ const relatedPosts = allPosts
   </head>
   <body>
     <div class={`container ${isHome ? "is-home" : ""}`}>
+      <!-- [HOME 전용 헤더] 언어 버튼만 노출 -->
+      {
+        isHome && (
+          <div
+            class="home-header-actions"
+            style="position: absolute; top: 20px; right: 20px; z-index: 2001;"
+          >
+            <LanguageSwitcher />
+          </div>
+        )
+      }
+
       {
         !isHome && (
           <header>
@@ -491,22 +537,30 @@ const relatedPosts = allPosts
                 HELLO PROMPT
               </a>
             </div>
-            <div class="breadcrumbs">
-              <a href="/">HOME</a>
-              <span class="sep">/</span>
-              {frontmatter.tags && frontmatter.tags[0] && (
-                <>
-                  <a href={`/tags/${frontmatter.tags[0]}`}>
-                    #{frontmatter.tags[0]}
-                  </a>
-                  <span class="sep">/</span>
-                </>
-              )}
-              <span class="current">
-                {frontmatter.title.length > 15
-                  ? frontmatter.title.slice(0, 15) + "..."
-                  : frontmatter.title}
-              </span>
+            <div
+              class="nav-right"
+              style="display: flex; align-items: center; gap: 15px;"
+            >
+              <div class="breadcrumbs">
+                <a href="/">HOME</a>
+                <span class="sep">/</span>
+                {frontmatter.tags && frontmatter.tags[0] && (
+                  <>
+                    <a href={`/tags/${frontmatter.tags[0]}`}>
+                      #{frontmatter.tags[0]}
+                    </a>
+                    <span class="sep">/</span>
+                  </>
+                )}
+                <span class="current">
+                  {frontmatter.title.length > 15
+                    ? frontmatter.title.slice(0, 15) + "..."
+                    : frontmatter.title}
+                </span>
+              </div>
+
+              {/* Language Switcher (Article Page) */}
+              <LanguageSwitcher />
             </div>
           </header>
         )
@@ -538,6 +592,16 @@ const relatedPosts = allPosts
             <div class="meta">
               Author: {frontmatter.author} // Date: {frontmatter.date}
             </div>
+
+            {frontmatter.tags && frontmatter.tags.length > 0 && (
+              <div class="tags-container">
+                {frontmatter.tags.map((tag) => (
+                  <a href={`/tags/${tag}`} class="tag-badge">
+                    #{tag}
+                  </a>
+                ))}
+              </div>
+            )}
 
             <div class="share-buttons">
               <button
@@ -579,6 +643,9 @@ const relatedPosts = allPosts
 
       <footer>
         <p>POWERED BY JAY & ZZABBIS</p>
+        <p style="color: #888; font-size: 0.9rem; margin: 5px 0;">
+          AI가 낯선 당신을 위한 가장 친절한 가이드
+        </p>
         <p style="margin-top:10px; font-size: 0.7rem;">
           <a
             href="/rss.xml"
@@ -594,10 +661,9 @@ const relatedPosts = allPosts
         </p>
       </footer>
     </div>
-    <!-- 복사 버튼 스크립트 (부활!) -->
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        // 1. 모든 래퍼(Wrapper) 찾기
+        // --- 2. Copy Button Logic ---
         const wrappers = document.querySelectorAll(
           ".quote-wrapper, .code-wrapper",
         );

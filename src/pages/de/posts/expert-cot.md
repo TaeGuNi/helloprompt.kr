@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'Wenn KI dumme Antworten gibt: "Chain of Thought (CoT)" anwenden'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -32,8 +32,6 @@ Hier benötigen wir eine Technik, die **"Zeit zum Nachdenken"** erzwingt: **Chai
 1. KI neigt dazu, bei komplexen Problemen falsche Antworten zu geben, indem sie sich auf Intuition verlässt.
 2. Die Technik "Chain of Thought (CoT)" gibt der KI Zeit zum Nachdenken und fördert logisches Schlussfolgern.
 3. Durch die 3 Schritte Denken -> Überprüfung -> Schlussfolgerung kann die Genauigkeit drastisch erhöht werden.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ Für einen sicheren Effekt bestellen Sie die 3 Schritte: **Denken (Think) -> Üb
 
 ---
 
----
-
----
-
 ## 🧬 Prompt-Analyse (Warum es funktioniert?)
 
 ---
@@ -111,10 +105,6 @@ Die KI denkt wie ein Mensch und geht den Kalender durch.
 [3. Schlussfolgerung]
 Das endgültige Enddatum ist 'nächsten Freitag', und da ein Wochenende dazwischen liegt, beträgt die Gesamtdauer 12 Tage (10 Arbeitstage).
 ```
-
----
-
----
 
 ---
 

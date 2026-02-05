@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Geben Sie hier den Titel ein"
 author: "Zzabbis"
 date: "2026-02-03"

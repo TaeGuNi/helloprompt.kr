@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "3 Things AI Beginners Must Do First"
 author: "Jay"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ But don't worry. Just follow these **exact 3 things** I'm sharing today. Your AI
 
 ---
 
----
-
 ### 3. Subscribe to Hello Prompt
 
 ### 🥉 Basic Version
@@ -54,8 +52,6 @@ In this blog, I plan to **spoon-feed** you very easy and friendly ways to utiliz
 I'll remove difficult jargon and gather only the tips you can use right away.
 
 Shall we begin? 🚀
-
----
 
 ---
 
@@ -85,8 +81,6 @@ Use this when you need detailed quality.
 ## 📊 Proof: Before & After
 
 No comparison content.
-
----
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: 'Quand l''IA donne des réponses stupides : Utilisez la "Chaîne de Pensée (CoT)"'
 author: "Zzabbis"
 date: "2026-02-03"
@@ -32,8 +32,6 @@ C'est là qu'intervient la technique pour forcer un **"temps de réflexion"**, a
 1. L'IA a tendance à se fier à l'intuition et à donner des réponses incorrectes sur des problèmes complexes.
 2. La technique "Chaîne de Pensée (CoT)" donne à l'IA le temps de réfléchir pour induire un raisonnement logique.
 3. Vous pouvez augmenter considérablement la précision grâce aux 3 étapes : Réflexion -> Vérification -> Conclusion.
-
----
 
 ---
 
@@ -74,10 +72,6 @@ Pour un effet certain, commandez les 3 étapes : **Réflexion (Think) -> Vérifi
 
 ---
 
----
-
----
-
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
 ---
@@ -111,10 +105,6 @@ L'IA réfléchit comme un humain en regardant un calendrier.
 [3. Conclusion]
 La date de fin finale est 'Vendredi prochain', et avec le week-end inclus, la durée totale est de 12 jours (10 jours ouvrés).
 ```
-
----
-
----
 
 ---
 

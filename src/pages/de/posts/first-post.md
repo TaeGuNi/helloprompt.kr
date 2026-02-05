@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Layout.astro
+layout: /src/layouts/Layout.astro
 title: "Die 3 wichtigsten Dinge, die KI-Anfänger zuerst tun sollten"
 author: "Jay"
 date: "2026-02-03"
@@ -33,8 +33,6 @@ Aber keine Sorge. Versuchen Sie nur diese **genau 3 Dinge**, die ich Ihnen heute
 
 ---
 
----
-
 3. Hello Prompt abonnieren
 
 ### 🥉 Basic Version (Basis-Version)
@@ -54,8 +52,6 @@ In Zukunft werde ich Ihnen auf diesem Blog KI-Anwendungen sehr einfach und freun
 Ohne schwierige Fachbegriffe, nur nützliche Tipps, die Sie sofort anwenden können.
 
 Nun, sollen wir anfangen? 🚀
-
----
 
 ---
 
@@ -85,8 +81,6 @@ Verwenden Sie dies, wenn Sie detaillierte Qualität benötigen.
 ## 📊 Beweis: Vorher & Nachher
 
 Kein Vergleichsinhalt.
-
----
 
 ---
 

@@ -1,90 +1,90 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 초보자가 가장 먼저 해야 할 3가지"
+title: "Las 3 cosas que un principiante en IA debe hacer primero"
 author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "기타"
-description: "AI가 어렵게만 느껴진다면? 지금 당장 시작할 수 있는 가장 쉬운 방법 3가지를 소개합니다."
+category: "Otros"
+description: "¿La IA te parece difícil? Presentamos las 3 formas más fáciles de empezar ahora mismo."
 lang: es
 ---
 
-# AI 초보자가 가장 먼저 해야 할 3가지
+# Las 3 cosas que un principiante en IA debe hacer primero
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+> **🎯 Recomendado para:** Todos
+> **⏱️ Tiempo estimado:** 5 minutos
+> **🤖 Modelo recomendado:** Todos los modelos de IA
 
-| 난이도  |   효과성   |  활용도   |
-| :-----: | :--------: | :-------: |
-| ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Dificultad | Efectividad | Utilidad  |
+| :--------: | :---------: | :-------: |
+|  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-안녕하세요! **Hello Prompt**의 운영자 Jay입니다.
-AI, 요즘 어디가나 들리는데 막상 시작하려니 막막하시죠? 저도 그랬습니다.
+¡Hola! Soy Jay, el administrador de **Hello Prompt**.
+La IA se escucha por todas partes, pero ¿te sientes perdido al intentar empezar? Yo también me sentí así.
 
-하지만 걱정 마세요. 오늘 제가 알려드리는 **딱 3가지**만 따라 해보세요. 당신의 AI 라이프가 시작됩니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI가 어렵게 느껴진다면 가벼운 대화(안녕?)부터 시작해보세요.
-2. 이메일 답장이나 여행 계획 등 귀찮은 일을 AI에게 맡겨 효율성을 체험하세요.
-3. Hello Prompt를 통해 실전 활용 꿀팁을 받아보며 AI와 친해지세요.
+Pero no te preocupes. Sigue **solo estas 3 cosas** que te contaré hoy. Tu vida con la IA comenzará.
 
 ---
 
-3. Hello Prompt 구독하기
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Si la IA te parece difícil, empieza con una conversación ligera (¿Hola?).
+2. Experimenta la eficiencia delegando tareas molestas como responder correos o planificar viajes a la IA.
+3. Recibe consejos prácticos a través de Hello Prompt y familiarízate con la IA.
 
-빠르게 결과만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 전문가야.
-> **요청:** AI가 어렵게만 느껴진다면? 지금 당장 시작할 수 있는 가장 쉬운 방법 3가지를 소개합해줘.
+3. Suscribirse a Hello Prompt
+
+### 🥉 Versión Básica
+
+Úsala cuando necesites resultados rápidos.
+
+> **Rol:** Eres un experto.
+> **Solicitud:** ¿La IA te parece difícil? Presenta las 3 formas más fáciles de empezar ahora mismo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Experto)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando necesites calidad detallada.
 
-앞으로 이 블로그에서는 아주 쉽고 친절하게 AI 활용법을 **떠먹여 드릴 예정**입니다.
-어려운 용어는 빼고, 당장 써먹을 수 있는 꿀팁만 모아서요.
+En este blog, planeamos **darte todo masticado** sobre cómo usar la IA de manera muy fácil y amable.
+Sin términos difíciles, solo recopilando consejos útiles que puedes usar de inmediato.
 
-자, 이제 시작해볼까요? 🚀
+Entonces, ¿empezamos? 🚀
 
 ---
 
-## 해결책: AI 프롬프트
+## Solución: Prompt de IA
 
-### 🥉 Basic Version (기본형)
+### 🥉 Versión Básica
 
-빠르게 결과만 필요할 때 사용하세요.
+Úsala cuando necesites resultados rápidos.
 
-> **역할:** 너는 전문가야.
-> **요청:** AI가 어렵게만 느껴진다면? 지금 당장 시작할 수 있는 가장 쉬운 방법 3가지를 소개합니다해줘.
+> **Rol:** Eres un experto.
+> **Solicitud:** ¿La IA te parece difícil? Presenta las 3 formas más fáciles de empezar ahora mismo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Experto)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando necesites calidad detallada.
 
-> (내용 없음)
-
----
-
-## 🧬 프롬프트 해부 (Why it works?)
+> (Sin contenido)
 
 ---
 
-## 📊 증명: Before & After
-
-비교 내용이 없습니다.
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
 ---
 
-## 🎯 결론
+## 📊 Prueba: Antes y Después
 
-결론이 없습니다.
+No hay contenido de comparación.
+
+---
+
+## 🎯 Conclusión
+
+No hay conclusión.

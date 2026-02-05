@@ -1,111 +1,111 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "1시간 걸릴 회의록 정리, 10초 만에 끝내고 칼퇴하는 법"
+title: "Cómo terminar en 10 segundos el acta de reunión que tomaría 1 hora y salir a tiempo"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "업무 자동화"
-description: "단순 반복 업무는 AI에게 맡기고 당신의 저녁을 되찾으세요. 두서없는 텍스트를 완벽한 보고서로 바꾸는 자동화 프롬프트."
-tags: ["생산성", "자동화", "워라밸"]
+category: "Automatización del Trabajo"
+description: "Delega las tareas repetitivas a la IA y recupera tu tarde. Un prompt de automatización que convierte textos desordenados en informes perfectos."
+tags: ["Productividad", "Automatización", "Equilibrio Vida-Trabajo"]
 lang: es
 ---
 
-# ⏳ 1시간 걸릴 정리 업무, 10초 만에 끝내는 법
+# ⏳ Cómo terminar en 10 segundos el trabajo de organización que tomaría 1 hora
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+> **🎯 Recomendado para:** Todos
+> **⏱️ Tiempo estimado:** 5 minutos
+> **🤖 Modelo recomendado:** Todos los modelos de IA
 
-| 난이도  |   효과성   |  활용도   |
-| :-----: | :--------: | :-------: |
-| ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Dificultad | Efectividad | Utilidad  |
+| :--------: | :---------: | :-------: |
+|  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-_"회의록 정리하고 퇴근해~"_
+_"Organiza el acta de la reunión y vete a casa~"_
 
-오후 5시 50분, 팀장님의 한마디. 절망적입니다.
-녹음 파일 듣고, 두서없는 대화 받아 적고, 요약하다 보면 1시간이 훌쩍 갑니다.
+5:50 PM, una frase del jefe del equipo. Es desesperante.
+Escuchar la grabación, transcribir la conversación desordenada y resumirla te tomará más de una hora.
 
-하지만 **"AI 자동화"**를 아는 사람은 당황하지 않습니다.
-그냥 대화 내용을 긁어서 AI에게 던지면 끝이니까요.
+Pero quien conoce la **"Automatización con IA"** no entra en pánico.
+Simplemente copia el contenido de la conversación y se lo lanza a la IA.
 
-단순 반복 업무는 기계에게 넘기세요.
-그리고 남은 시간은 **당신을 위해(운동, 독서, 휴식)** 쓰세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 두서없는 회의 내용을 수동으로 정리하는 비효율적인 업무에서 벗어나세요.
-2. '수석 비서' 프롬프트를 사용해 요약, 할 일(Action Item), 결정 사항을 자동 추출합니다.
-3. 단순 반복 업무는 AI에게 맡기고 확보된 시간으로 워라밸을 챙기세요.
+Delega las tareas repetitivas a la máquina.
+Y usa el tiempo restante **para ti (ejercicio, lectura, descanso)**.
 
 ---
 
-## 🚀 해결책: "수석 비서" 프롬프트
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Escapa de la ineficiente tarea de organizar manualmente contenidos de reuniones desordenados.
+2. Usa el prompt 'Secretario Principal' para extraer automáticamente resúmenes, tareas (Action Item) y decisiones.
+3. Deja las tareas repetitivas a la IA y cuida tu equilibrio vida-trabajo con el tiempo ganado.
 
-빠르게 결과만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 핵심만 정확하게 파악하는 **수석 비서**야.
-> **요청:** 단순 반복 업무는 AI에게 맡기고 당신의 저녁을 되찾으세요. 두서없는 텍스트를 완벽한 보고서로 바꾸는 자동화 프롬프트해줘.
+## 🚀 Solución: Prompt "Secretario Principal"
+
+### 🥉 Versión Básica
+
+Úsala cuando necesites resultados rápidos.
+
+> **Rol:** Eres un **Secretario Principal** que capta exactamente solo lo esencial.
+> **Solicitud:** Delega las tareas repetitivas a la IA y recupera tu tarde. Un prompt de automatización que convierte textos desordenados en informes perfectos.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Experto)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando necesites calidad detallada.
 
-두서없이 적은 메모나, 클로바노트 텍스트를 그대로 아래 박스에 붙여넣으세요.
+Pega tus notas desordenadas o el texto de Clova Note tal cual en el cuadro de abajo.
 
-> **역할:** 너는 핵심만 정확하게 파악하는 **수석 비서**야.
+> **Rol:** Eres un **Secretario Principal** que capta exactamente solo lo esencial.
 >
-> **상황:** 방금 끝난 회의 내용이 너무 두서가 없어. `[아래 회의 텍스트]`를 바탕으로 깔끔한 보고서를 만들어줘.
+> **Situación:** El contenido de la reunión que acaba de terminar es demasiado desordenado. Crea un informe limpio basado en el `[Texto de la reunión de abajo]`.
 >
-> **요청:**
+> **Solicitud:**
 >
-> 1. **3줄 요약:** 전체 내용을 바쁜 임원도 이해하게 3줄로 요약해.
-> 2. **Action Item (할 일):** 누가, 언제까지, 무엇을 해야 하는지 **마크다운 표(Table)**로 정리해.
-> 3. **결정 사항:** 확정된 내용과 보류된 내용을 구분해줘.
+> 1. **Resumen de 3 líneas:** Resumen de todo el contenido en 3 líneas para que un ejecutivo ocupado lo entienda.
+> 2. **Action Item (Tareas):** Organiza en una **Tabla Markdown (Table)** quién, hasta cuándo y qué debe hacer.
+> 3. **Decisiones:** Distingue entre el contenido confirmado y el contenido pendiente.
 >
-> **[아래 회의 텍스트]**
-> (여기에 엉망인 대화 내용을 붙여넣으세요)
+> **[Texto de la reunión de abajo]**
+> (Pega aquí el contenido de la conversación desordenada)
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Prueba: Antes y Después
 
-### ❌ Before (입력: 엉망인 대화)
+### ❌ Antes (Entrada: Conversación desordenada)
 
-만약 아래와 같은 **"의식의 흐름"** 대화를 넣는다면 어떻게 될까요?
+¿Qué pasa si introduces una conversación con **"flujo de conciencia"** como la siguiente?
 
 ```text
-김팀장: 야 이번주 팝업 스토어 성수동 자리 알아봤어?
-이대리: 아 거기는 꽉 찼다는데요.. 홍대 쪽은 가능한데 비싸요.
-김팀장: 그럼 홍대로 일단 알아보고 예산 다시 짜와. 아 맞다, 홈페이지 배너 문구 수정했어?
-박사원: 아 그거 아직.. 디자인팀이 바빠서 내일까지 준대요.
-김팀장: 내일까진 무조건 올려야 해. 박사원이 챙겨.
+Jefe Kim: Oye, ¿averiguaste sobre el lugar en Seongsu-dong para la tienda pop-up de esta semana?
+Asistente Lee: Ah, dicen que ahí está lleno... Hongdae es posible pero es caro.
+Jefe Kim: Entonces averigua en Hongdae por ahora y vuelve a armar el presupuesto. Ah cierto, ¿corrigieron el texto del banner de la página web?
+Empleado Park: Ah, eso todavía... el equipo de diseño está ocupado y dicen que lo darán para mañana.
+Jefe Kim: Tienen que subirlo sin falta para mañana. Empleado Park, encárgate.
 ```
 
 <br>
 
-### ✅ After (결과: 완벽한 보고서)
+### ✅ Después (Resultado: Informe perfecto)
 
-AI는 이 대화를 분석해 **단 10초 만에** 보고서를 완성합니다.
+La IA analiza esta conversación y completa el informe en **solo 10 segundos**.
 
 ```text
-# 📑 회의 요약 보고서
+# 📑 Informe de Resumen de Reunión
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-어떤가요?
-당신이 하나하나 읽고 표를 그릴 시간에, AI는 이미 퇴근 준비를 마쳤습니다.
+¿Qué te parece?
+Mientras tú lees uno por uno y dibujas la tabla, la IA ya ha terminado de prepararse para salir.
 
-이제 남은 시간은 칼퇴하고 맛있는 저녁을 드세요. 🍷
+Ahora usa el tiempo restante para salir a tiempo y disfrutar de una deliciosa cena. 🍷
 ```

@@ -1,105 +1,105 @@
 ---
 layout: /src/layouts/Layout.astro
-title: '백 마디 설명보다 강력한 "예시"의 힘 (Few-Shot Prompting)'
+title: 'El poder de un "Ejemplo" es más fuerte que cien palabras de explicación (Few-Shot Prompting)'
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
-description: "원하는 말투나 형식이 안 나와서 답답하신가요? 설명을 길게 쓰는 것보다 확실한 방법, 퓨샷(Few-Shot) 기법을 알려드립니다."
-tags: ["Few-Shot", "고급팁", "예시"]
+category: "Ingeniería de Prompts"
+description: "¿Te frustra no obtener el tono o formato deseado? Te enseñamos la técnica Few-Shot, una forma más segura que escribir largas explicaciones."
+tags: ["Few-Shot", "Consejos Avanzados", "Ejemplos"]
 lang: es
 ---
 
-# 🎯 백 마디 설명보다 강력한 "예시"의 힘
+# 🎯 El poder de un "Ejemplo" es más fuerte que cien palabras
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+> **🎯 Recomendado para:** Todos
+> **⏱️ Tiempo estimado:** 5 minutos
+> **🤖 Modelo recomendado:** Todos los modelos de IA
 
-| 난이도  |   효과성   |  활용도   |
-| :-----: | :--------: | :-------: |
-| ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Dificultad | Efectividad | Utilidad  |
+| :--------: | :---------: | :-------: |
+|  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-_"AI에게 '시크한 말투로 써줘'라고 했는데, 자꾸 이상한 아재 개그를 해요."_
-_"JSON 형식으로 달라고 했는데 자꾸 서론을 붙여요."_
+_"Le dije a la IA 'escribe con un tono chic', pero sigue haciendo chistes malos de tío."_
+_"Le pedí formato JSON pero sigue añadiendo introducciones."_
 
-AI를 가르칠 때 가장 흔한 실수는 **"설명(Instruction)"만 길게 늘어놓는 것**입니다.
-하지만 AI는 설명보다 **"예시(Example)"**를 볼 때 훨씬 빨리 배웁니다.
+El error más común al enseñar a una IA es **alargar demasiado la "Explicación (Instruction)"**.
+Sin embargo, la IA aprende mucho más rápido viendo **"Ejemplos (Example)"** que explicaciones.
 
-이것을 전문 용어로 **퓨샷 프롬프팅(Few-Shot Prompting)**이라고 합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI는 긴 설명보다 구체적인 예시(Example)를 통해 더 빠르고 정확하게 학습합니다.
-2. 퓨샷 프롬프팅은 1~3개의 입력-출력 쌍을 보여주어 원하는 형식과 톤을 유도합니다.
-3. 원하는 스타일이 있다면 말로 설명하기보다 정답 샘플을 제시하는 것이 효과적입니다.
+A esto se le llama técnicamente **Few-Shot Prompting**.
 
 ---
 
-## 🚀 해결책: "입력과 출력 쌍(Pair) 보여주기"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. La IA aprende más rápido y con mayor precisión a través de ejemplos concretos (Example) que con largas explicaciones.
+2. El Few-Shot Prompting induce el formato y tono deseado mostrando de 1 a 3 pares de entrada-salida.
+3. Si tienes un estilo deseado, es más efectivo presentar una muestra de la respuesta correcta que explicarlo con palabras.
 
-빠르게 결과만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 감성적인 **영화 리뷰어**야.
-> **요청:** 원하는 말투나 형식이 안 나와서 답답하신가요? 설명을 길게 쓰는 것보다 확실한 방법, 퓨샷(Few-Shot) 기법을 알려드립니다해줘.
+## 🚀 Solución: "Mostrar pares de Entrada y Salida (Pair)"
+
+### 🥉 Versión Básica
+
+Úsala cuando necesites resultados rápidos.
+
+> **Rol:** Eres un **Crítico de Cine** emocional.
+> **Solicitud:** ¿Te frustra no obtener el tono o formato deseado? Te enseñamos la técnica Few-Shot, una forma más segura que escribir largas explicaciones.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Experto)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando necesites calidad detallada.
 
-AI에게 "이런 식으로 해"라고 샘플을 1~3개 정도 보여주세요.
+Muestra a la IA unos 1 a 3 ejemplos diciendo "hazlo así".
 
-> **역할:** 너는 감성적인 **영화 리뷰어**야.
+> **Rol:** Eres un **Crítico de Cine** emocional.
 >
-> **요청:** 아래 예시처럼 영화 제목을 주면 '한 줄 평'으로 바꿔줘.
+> **Solicitud:** Convierte los títulos de películas dados en una 'crítica de una línea' como en los ejemplos de abajo.
 >
-> **[예시 1]**
-> 입력: 타이타닉
-> 출력: 차가운 바다도 식히지 못한 영원한 사랑의 온기. 🚢
+> **[Ejemplo 1]**
+> Entrada: Titanic
+> Salida: El calor de un amor eterno que ni el mar helado pudo enfriar. 🚢
 >
-> **[예시 2]**
-> 입력: 기생충
-> 출력: 선을 넘는 순간, 희극은 가장 잔혹한 비극이 된다. 🏠
+> **[Ejemplo 2]**
+> Entrada: Parásitos
+> Salida: En el momento en que se cruza la línea, la comedia se convierte en la tragedia más cruel. 🏠
 >
-> **[실전]**
-> 입력: `[어벤져스: 엔드게임]`
-> 출력:
+> **[Práctica Real]**
+> Entrada: `[Avengers: Endgame]`
+> Salida:
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Prueba: Antes y Después
 
-### ❌ Before (설명만 했을 때)
+### ❌ Antes (Solo explicando)
 
-입력: "어벤져스 엔드게임 한 줄 평 써줘. 좀 감성적으로."
+Entrada: "Escribe una crítica de una línea de Avengers Endgame. Algo emocional."
 
 ```text
-AI: 어벤져스 엔드게임은 정말 감동적인 영화입니다. 영웅들이 모두 모여서 싸우는 장면이 멋져요. (너무 평범함)
+IA: Avengers Endgame es una película realmente conmovedora. Es genial ver a todos los héroes luchando juntos. (Demasiado común)
 ```
 
 <br>
 
-### ✅ After (퓨샷 예시를 줬을 때)
+### ✅ Después (Dando ejemplos Few-Shot)
 
-AI가 예시의 '톤앤매너'를 완벽하게 복제합니다.
+La IA replica perfectamente el 'Tono y Manera' de los ejemplos.
 
 ```text
-출력: 3000만큼 사랑했던 그들에게 바치는, 가장 장엄한 작별 인사. 🛡️
+Salida: El adiós más solemne, dedicado a aquellos a quienes amamos 3000. 🛡️
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-원하는 스타일이 있다면 말로 설명하려 하지 말고, **"정답지(예시)"**를 살짝 보여주세요.
-AI는 눈치가 빨라서 금방 따라 합니다. 🦜
+Si tienes un estilo deseado, no intentes explicarlo con palabras, muestra sutilmente la **"Hoja de Respuestas (Ejemplo)"**.
+La IA es perspicaz y lo imitará enseguida. 🦜

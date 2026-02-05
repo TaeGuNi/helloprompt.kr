@@ -1,118 +1,118 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'AI가 자꾸 멍청한 답을 할 때: "생각의 사슬(CoT)" 걸기'
+title: 'Cuando la IA da respuestas tontas: Aplicando la "Cadena de Pensamiento (CoT)"'
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
-description: "단순한 질문에는 잘 대답하던 AI가, 복잡한 논리 문제만 만나면 헛소리를 하나요? 상위 1% 프롬프트 엔지니어들이 쓰는 CoT 기법의 진짜 활용법."
-tags: ["CoT", "논리적사고", "문제해결"]
+category: "Ingeniería de Prompts"
+description: "¿La IA responde bien a preguntas simples pero dice tonterías ante problemas lógicos complejos? El verdadero uso de la técnica CoT que emplean el 1% de los mejores ingenieros de prompts."
+tags: ["CoT", "Pensamiento Lógico", "Resolución de Problemas"]
 lang: es
 ---
 
-# 🧠 AI가 자꾸 멍청한 답을 할 때
+# 🧠 Cuando la IA da respuestas tontas
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+> **🎯 Recomendado para:** Todos
+> **⏱️ Tiempo estimado:** 5 minutos
+> **🤖 Modelo recomendado:** Todos los modelos de IA
 
-| 난이도  |   효과성   |  활용도   |
-| :-----: | :--------: | :-------: |
-| ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Dificultad | Efectividad | Utilidad  |
+| :--------: | :---------: | :-------: |
+|  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-_"간단한 건 잘하는데, 조건이 3개만 넘어가면 엉뚱한 소리를 해요."_
+_"Para cosas simples funciona bien, pero si hay más de 3 condiciones empieza a decir tonterías."_
 
-AI(LLM)는 기본적으로 **"직관적인 확률"**에 의존합니다. 그래서 복잡한 논리 문제를 만나면 사람처럼 **"생각"**하지 않고, 가장 그럴듯해 보이는 답을 **"찍어서"** 말해버립니다. (이걸 '환각'이라고 하죠.)
+Las IAs (LLM) dependen básicamente de la **"probabilidad intuitiva"**. Por eso, cuando se enfrentan a problemas lógicos complejos, no **"piensan"** como un humano, sino que **"adivinan"** la respuesta que parece más plausible. (A esto se le llama 'alucinación').
 
-이때 필요한 것이 **"생각할 시간"**을 강제로 부여하는 기술, 바로 **Chain of Thought (CoT, 생각의 사슬)**입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI는 복잡한 문제에서 직관에 의존하여 오답을 내기 쉽습니다.
-2. "생각의 사슬(CoT)" 기법은 AI에게 생각할 시간을 주어 논리적 추론을 유도합니다.
-3. 생각 -> 검증 -> 결론의 3단계를 통해 정확도를 획기적으로 높일 수 있습니다.
+Aquí es donde necesitamos la técnica para imponer un **"tiempo para pensar"**, conocida como **Chain of Thought (CoT, Cadena de Pensamiento)**.
 
 ---
 
-## 🚀 해결책: "논리의 3단 콤보"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. La IA tiende a dar respuestas incorrectas en problemas complejos al depender de su intuición.
+2. La técnica "Cadena de Pensamiento (CoT)" da tiempo a la IA para pensar, induciendo al razonamiento lógico.
+3. Puedes aumentar drásticamente la precisión a través de 3 pasos: Pensar -> Verificar -> Concluir.
 
-빠르게 결과만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 논리적 오류를 찾아내는 **수석 프로젝트 매니저(PM)**야.
-> **요청:** 단순한 질문에는 잘 대답하던 AI가, 복잡한 논리 문제만 만나면 헛소리를 하나요? 상위 1% 프롬프트 엔지니어들이 쓰는 CoT 기법의 진짜 활용법해줘.
+## 🚀 Solución: "El Combo Lógico de 3 Pasos"
+
+### 🥉 Versión Básica
+
+Úsala cuando necesites resultados rápidos.
+
+> **Rol:** Eres un **Gerente de Proyecto (PM) Senior** que encuentra errores lógicos.
+> **Solicitud:** La IA responde bien a preguntas simples pero dice tonterías ante problemas lógicos complejos. Explícame el verdadero uso de la técnica CoT que usan los mejores ingenieros de prompts.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Experto)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando necesites calidad detallada.
 
-단순히 "단계별로 생각해"라고만 하면 부족합니다.
-확실한 효과를 보려면 **생각(Think) -> 검증(Review) -> 결론(Answer)**의 3단계를 주문하세요.
+Simplemente decir "piensa paso a paso" no es suficiente.
+Para ver un efecto real, ordena los 3 pasos: **Pensar (Think) -> Verificar (Review) -> Concluir (Answer)**.
 
-> **역할:** 너는 논리적 오류를 찾아내는 **수석 프로젝트 매니저(PM)**야.
+> **Rol:** Eres un **Gerente de Proyecto (PM) Senior** que encuentra errores lógicos.
 >
-> **상황:** 프로젝트 일정이 꼬여버렸어. 아래 조건을 보고 해결책을 찾아줘.
+> **Situación:** El cronograma del proyecto se ha complicado. Mira las condiciones de abajo y encuentra una solución.
 >
-> **요청:**
+> **Solicitud:**
 >
-> 1. **[생각]** 바로 답하지 말고, 각 팀의 일정을 타임라인 순서대로 나열해봐. (**단계별로 생각할 것**)
-> 2. **[검증]** 네가 세운 논리에 모순이 없는지 스스로 다시 확인해.
-> 3. **[결론]** 최종적으로 프로젝트가 끝나는 날짜와 지연 원인을 한 문장으로 요약해.
+> 1. **[Pensar]** No respondas de inmediato, enumera los cronogramas de cada equipo en orden cronológico. (**Piensa paso a paso**)
+> 2. **[Verificar]** Revisa nuevamente si hay contradicciones en tu lógica.
+> 3. **[Conclusión]** Resume en una frase la fecha final del proyecto y la causa del retraso.
 >
-> **[조건]**
+> **[Condiciones]**
 >
-> - 디자인팀(3일 소요)이 끝나야 개발팀(5일 소요)이 시작할 수 있음.
-> - 근데 개발팀장은 오늘부터 2일간 휴가임.
-> - QA팀(2일 소요)은 개발이 끝나야 시작하는데, 주말에는 일 안 함.
-> - 오늘은 월요일임.
+> - El equipo de diseño (tarda 3 días) debe terminar para que el equipo de desarrollo (tarda 5 días) pueda empezar.
+> - Pero el líder de desarrollo está de vacaciones 2 días a partir de hoy.
+> - El equipo de QA (tarda 2 días) empieza cuando termina desarrollo, pero no trabajan los fines de semana.
+> - Hoy es lunes.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Prueba: Antes y Después
 
-### ❌ Before (일반 질문)
+### ❌ Antes (Pregunta general)
 
-AI: (단순 덧셈: 3+5+2 = 10일) "프로젝트는 총 10일 걸려서 다음 주 수요일에 끝납니다."
--> **오답입니다.** (휴가와 주말 변수를 계산하지 못하고 직관적으로 더하기만 함)
+IA: (Suma simple: 3+5+2 = 10 días) "El proyecto tomará un total de 10 días y terminará el próximo miércoles."
+-> **Incorrecto.** (No calculó las variables de vacaciones y fin de semana, solo sumó intuitivamente)
 
 <br>
 
-### ✅ After (CoT 적용 결과)
+### ✅ Después (Resultado con CoT)
 
-AI가 사람처럼 달력을 그려가며 생각합니다.
+La IA piensa dibujando un calendario como un humano.
 
 ```text
-[1. 단계별 생각]
-- 오늘(월): 디자인팀 시작 (1일차)
-- 수요일: 디자인팀 종료 (3일 소요)
-- 목요일: 개발팀 시작 가능... 하지만 개발팀장 휴가(오늘~화)는 영향 없음.
-- 목요일~다음 주 수요일: 개발팀 5일 소요 (목, 금, 월, 화, 수 / 주말 제외)
-- 다음 주 목요일: QA팀 시작 (2일 소요)
-- 다음 주 금요일: QA팀 종료
+[1. Pensamiento paso a paso]
+- Hoy (Lun): Comienza Diseño (Día 1)
+- Miércoles: Termina Diseño (3 días)
+- Jueves: Desarrollo podría empezar... pero el líder está de vacaciones (Hoy~Mar), así que no afecta.
+- Jueves~Miércoles próximo: Desarrollo tarda 5 días (Jue, Vie, Lun, Mar, Mié / excluyendo fin de semana)
+- Jueves próximo: Comienza QA (2 días)
+- Viernes próximo: Termina QA
 
-[2. 검증]
-- 개발팀장은 화요일까지 휴가지만, 개발 시작이 목요일이라 영향 없음.
-- 주말(토, 일) 작업 제외했으므로 계산 맞음.
+[2. Verificación]
+- El líder de desarrollo está de vacaciones hasta el martes, pero como el desarrollo empieza el jueves, no afecta.
+- Se excluyó el fin de semana (Sáb, Dom), así que el cálculo es correcto.
 
-[3. 결론]
-최종 종료일은 '다음 주 금요일'이며, 주말이 껴있어 총 소요 기간은 12일(영업일 기준 10일)입니다.
+[3. Conclusión]
+La fecha final es el 'viernes de la próxima semana', y debido al fin de semana, la duración total es de 12 días (10 días hábiles).
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-복잡한 엑셀 수식이 꼬였거나, 얽히고설킨 일정을 정리할 때 AI가 멍청해 보인다면?
-AI의 지능 탓이 아닙니다. **생각할 시간을 안 준 당신 탓**입니다.
+¿La IA parece tonta cuando se enreda con fórmulas complejas de Excel o cronogramas complicados?
+No es culpa de la inteligencia de la IA. **Es tu culpa por no darle tiempo para pensar.**
 
-지금 바로 프롬프트 끝에 이 한 마디를 붙이세요.
-**"단계별로 생각하고, 네 논리를 검증해줘."**
+Añade esta frase al final de tu prompt ahora mismo.
+**"Piensa paso a paso y verifica tu lógica."**

@@ -1,7 +1,7 @@
 {
   "name": "helloprompt.kr",
   "type": "module",
-  "version": "0.0.5",
+  "version": "0.0.10",
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build && mv dist/sitemap-index.xml dist/sitemap.xml",

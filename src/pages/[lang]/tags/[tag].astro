@@ -1,0 +1,181 @@
+---
+export async function getStaticPaths() {
+  // 모든 언어의 포스트를 가져옵니다.
+  const allPostsFile = import.meta.glob("/src/pages/**/posts/*.md", {
+    eager: true,
+  });
+
+  const postsByLang = {};
+
+  for (const [path, post] of Object.entries(allPostsFile)) {
+    // 경로에서 언어 코드를 추출합니다. 예: /src/pages/en/posts/... -> en
+    const match = path.match(/\/src\/pages\/([^\/]+)\/posts\//);
+    if (match) {
+      const lang = match[1];
+      if (!postsByLang[lang]) postsByLang[lang] = [];
+      postsByLang[lang].push(post);
+    }
+  }
+
+  const paths = [];
+
+  for (const [lang, posts] of Object.entries(postsByLang)) {
+    // 해당 언어의 모든 태그 수집
+    const uniqueTags = [
+      ...new Set(
+        (posts as any[])
+          .map((post) => post.frontmatter.tags)
+          .flat()
+          .filter(Boolean),
+      ),
+    ];
+
+    uniqueTags.forEach((tag) => {
+      const filteredPosts = (posts as any[])
+        .filter((post) => post.frontmatter.tags?.includes(tag))
+        .sort(
+          (a, b) =>
+            new Date(b.frontmatter.date).valueOf() -
+            new Date(a.frontmatter.date).valueOf(),
+        );
+
+      paths.push({
+        params: { lang, tag },
+        props: { posts: filteredPosts, lang },
+      });
+    });
+  }
+
+  return paths;
+}
+
+const { tag, lang } = Astro.params;
+const { posts } = Astro.props;
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <title>#{tag} | Hello Prompt ({lang}</title></head
+  >)
+  <meta name="viewport" content="width=device-width" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@300;500;700&family=JetBrains+Mono:wght@400&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      font-family: "Noto Sans KR", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #030303;
+      color: #e0e0e0;
+      line-height: 1.7;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 50px 50px;
+      background-position: center top;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    .tag-hero {
+      margin-bottom: 60px;
+    }
+    .tag-title {
+      font-family: "Orbitron", sans-serif;
+      font-size: 3rem;
+      color: #00f3ff;
+      text-shadow: 0 0 20px rgba(0, 243, 255, 0.5);
+    }
+    .tag-desc {
+      color: #888;
+      margin-top: 10px;
+    }
+
+    .post-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 25px;
+      text-align: left;
+    }
+
+    .post-card {
+      background: rgba(10, 20, 30, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 25px;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      transition: all 0.3s;
+    }
+    .post-card:hover {
+      transform: translateY(-5px);
+      border-color: #00f3ff;
+    }
+    .post-card h2 {
+      color: #fff;
+      font-size: 1.2rem;
+      margin: 0 0 10px 0;
+    }
+    .post-card p {
+      color: #aaa;
+      font-size: 0.9rem;
+      flex-grow: 1;
+    }
+    .post-meta {
+      font-size: 0.8rem;
+      color: #666;
+      margin-top: 15px;
+      font-family: "JetBrains Mono", monospace;
+    }
+
+    .home-btn {
+      display: inline-block;
+      margin-top: 50px;
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid #fff;
+      padding: 10px 20px;
+      border-radius: 30px;
+      transition: all 0.2s;
+    }
+    .home-btn:hover {
+      background: #fff;
+      color: #000;
+    }
+  </style>
+
+  <body>
+    <div class="container">
+      <div class="tag-hero">
+        <h1 class="tag-title">#{tag}</h1>
+        <p class="tag-desc">TAG ARCHIVE ({lang})</p>
+      </div>
+
+      <div class="post-grid">
+        {
+          posts.map((post: any) => (
+            <a href={post.url} class="post-card">
+              <h2>{post.frontmatter.title}</h2>
+              <p>{post.frontmatter.description}</p>
+              <div class="post-meta">
+                <span>{post.frontmatter.date}</span>
+              </div>
+            </a>
+          ))
+        }
+      </div>
+
+      <a href={`/${lang}/`} class="home-btn">← RETURN HOME</a>
+    </div>
+  </body>
+
+
+</html>

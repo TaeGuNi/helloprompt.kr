@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.10...v0.0.11) (2026-02-05)
+
+### Features
+
+- add localized tag pages ([ac27a2a](https://github.com/TaeGuNi/helloprompt.kr/commit/ac27a2ac4e894bd3a4b37fbed3c3d5eb4fda4ee1))
+- persist language in navigation and translate UI ([3f1e611](https://github.com/TaeGuNi/helloprompt.kr/commit/3f1e611b746e130111bb71dc44a57bbfce7bbc4e))
+- translate posts to German and update content ([2da8dda](https://github.com/TaeGuNi/helloprompt.kr/commit/2da8ddabed2f03ebea50cb8e5a5c5e1eeaa315aa))
+
+### Bug Fixes
+
+- localized tag links and html lang attribute ([eea65e7](https://github.com/TaeGuNi/helloprompt.kr/commit/eea65e7bebdac33a5c031feae51bcbea123438bc))
+- pass lang to frontmatter in localized home pages ([897bdee](https://github.com/TaeGuNi/helloprompt.kr/commit/897bdee910b1a69bdaae03109713b440e547df90))
+
 ### [0.0.10](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.5...v0.0.10) (2026-02-05)
 
 ### [0.0.9](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.5...v0.0.9) (2026-02-05)

@@ -32,9 +32,11 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 const { posts } = Astro.props as any;
+
+import BaseHtml from "../../components/BaseHtml.astro";
 ---
 
-<html lang="ko">
+<BaseHtml lang="ko">
   <head>
     <meta charset="utf-8" />
     <title>#{tag} | Hello Prompt</title>
@@ -156,4 +158,4 @@ const { posts } = Astro.props as any;
       <a href="/" class="home-btn">← RETURN HOME</a>
     </div>
   </body>
-</html>
+</BaseHtml>

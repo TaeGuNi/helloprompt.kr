@@ -23,6 +23,7 @@ const { frontmatter, headings, isHome = false } = Astro.props;
 
 import LanguageSwitcher from "../components/LanguageSwitcher.astro";
 import { uiStrings } from "../utils/ui-translation";
+import BaseHtml from "../components/BaseHtml.astro";
 
 const currentLang = frontmatter.lang || "ko";
 const t = uiStrings[currentLang] || uiStrings["ko"];
@@ -56,7 +57,7 @@ const relatedPosts = Object.entries(globbedPosts)
   .slice(0, 3);
 ---
 
-<html lang={frontmatter.lang || "ko"}>
+<BaseHtml lang={frontmatter.lang}>
   <head>
     <meta charset="utf-8" />
 
@@ -737,4 +738,4 @@ const relatedPosts = Object.entries(globbedPosts)
       });
     </script>
   </body>
-</html>
+</BaseHtml>

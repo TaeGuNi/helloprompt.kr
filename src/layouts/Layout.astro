@@ -22,12 +22,30 @@ export interface Props {
 const { frontmatter, headings, isHome = false } = Astro.props;
 
 import LanguageSwitcher from "../components/LanguageSwitcher.astro";
+import { uiStrings } from "../utils/ui-translation";
+
+const currentLang = frontmatter.lang || "ko";
+const t = uiStrings[currentLang] || uiStrings["ko"];
 
 // 추천 글 (Related Posts) 로직
-const allPosts = Object.values(
-  import.meta.glob("../pages/posts/*.md", { eager: true }),
-);
-const relatedPosts = allPosts
+const globbedPosts = import.meta.glob("/src/pages/**/posts/*.md", {
+  eager: true,
+});
+
+const relatedPosts = Object.entries(globbedPosts)
+  .filter(([path]) => {
+    if (currentLang === "ko") {
+      // 한국어 포스트는 /src/pages/posts/ 에 위치 (다른 언어 폴더 제외)
+      return (
+        path.includes("/src/pages/posts/") &&
+        !path.match(/\/src\/pages\/[^/]+\/posts\//)
+      );
+    } else {
+      // 다른 언어는 /src/pages/[lang]/posts/ 에 위치
+      return path.includes(`/src/pages/${currentLang}/posts/`);
+    }
+  })
+  .map(([_, post]) => post as any)
   .filter(
     (post: any) =>
       post.frontmatter.category === frontmatter.category &&
@@ -543,11 +561,15 @@ const relatedPosts = allPosts
               style="display: flex; align-items: center; gap: 15px;"
             >
               <div class="breadcrumbs">
-                <a href="/">HOME</a>
+                <a href={currentLang === "ko" ? "/" : `/${currentLang}/`}>
+                  {t.home}
+                </a>
                 <span class="sep">/</span>
                 {frontmatter.tags && frontmatter.tags[0] && (
                   <>
-                    <a href={`/tags/${frontmatter.tags[0]}`}>
+                    <a
+                      href={`${currentLang === "ko" ? "" : "/" + currentLang}/tags/${frontmatter.tags[0]}`}
+                    >
                       #{frontmatter.tags[0]}
                     </a>
                     <span class="sep">/</span>
@@ -570,7 +592,7 @@ const relatedPosts = allPosts
       {
         !isHome && headings && headings.length > 0 && (
           <nav class="toc-sidebar">
-            <div class="toc-title">ON THIS PAGE</div>
+            <div class="toc-title">{t.on_this_page}</div>
             <ul class="toc-list">
               {headings.map((heading) => (
                 <li class={`toc-depth-${heading.depth}`}>
@@ -591,7 +613,7 @@ const relatedPosts = allPosts
           <article>
             <h1>{frontmatter.title}</h1>
             <div class="meta">
-              Author: {frontmatter.author} // Date: {frontmatter.date}
+              {t.author}: {frontmatter.author} // {t.date}: {frontmatter.date}
             </div>
 
             {frontmatter.tags && frontmatter.tags.length > 0 && (
@@ -613,14 +635,14 @@ const relatedPosts = allPosts
                 class="share-btn"
                 aria-label="Copy Link"
               >
-                🔗 LINK
+                🔗 {t.link}
               </button>
               <a
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(frontmatter.title)}&url=https://helloprompt.kr/`}
                 target="_blank"
                 class="share-btn twitter"
               >
-                𝕏 POST
+                𝕏 {t.post}
               </a>
             </div>
 
@@ -632,7 +654,7 @@ const relatedPosts = allPosts
       {
         !isHome && relatedPosts.length > 0 && (
           <div class="related-section">
-            <h2 class="related-title">RELATED INTELLIGENCE</h2>
+            <h2 class="related-title">{t.related_posts}</h2>
             <div class="related-grid">
               {relatedPosts.map((post: any) => (
                 <a href={post.url} class="related-card">
@@ -648,7 +670,7 @@ const relatedPosts = allPosts
       <footer>
         <p>POWERED BY JAY & ZZABBIS</p>
         <p style="color: #888; font-size: 0.9rem; margin: 5px 0;">
-          AI가 낯선 당신을 위한 가장 친절한 가이드
+          {t.slogan}
         </p>
         <p style="margin-top:10px; font-size: 0.7rem;">
           <a
@@ -660,7 +682,7 @@ const relatedPosts = allPosts
             style="color:#666; text-decoration:none; margin-right:10px;">ATOM</a
           >
           <a href="/privacy" style="color:#666; text-decoration:none;"
-            >PRIVACY POLICY</a
+            >{t.privacy_policy}</a
           >
         </p>
       </footer>

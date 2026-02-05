@@ -4,7 +4,7 @@ title: "Die 3 wichtigsten Dinge, die KI-Anfänger zuerst tun sollten"
 author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "기타"
+category: "Sonstiges"
 description: "Fühlt sich KI schwierig an? Hier sind die 3 einfachsten Möglichkeiten, um sofort loszulegen."
 ---
 

@@ -1,99 +1,99 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요 (Delimiters)'
+title: 'E se a IA não entender o que eu digo? Coloque uma "Cerca" (Delimitadores)'
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
-description: "긴 글을 요약하거나 코드를 수정할 때 AI가 헷갈려하나요? 특수기호로 구획을 나눠주는 Delimiter 기법으로 정확도를 2배 높이세요."
-tags: ["구분자", "가독성", "XML태그"]
+category: "Engenharia de Prompt"
+description: "A IA fica confusa ao resumir textos longos ou corrigir códigos? Aumente a precisão em 2x com a técnica de Delimitadores, dividindo seções com caracteres especiais."
+tags: ["Delimitadores", "Legibilidade", "Tags XML"]
 lang: pt
 ---
 
-# 🚧 AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요
+# 🚧 E se a IA não entender o que eu digo? Coloque uma "Cerca"
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+> **🎯 Recomendado para:** Todos
+> **⏱️ Tempo necessário:** 5 minutos
+> **🤖 Modelo recomendado:** Todos os modelos de IA
 
-| 난이도  |   효과성   |  활용도   |
-| :-----: | :--------: | :-------: |
-| ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Dificuldade |  Eficácia  | Utilidade |
+| :---------: | :--------: | :-------: |
+|   ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 어디부터 어디까지가 요약할 글이고, 어디가 명령어인지 헷갈려 할 때가 있습니다.
+Se você der um texto longo para a IA e disser "resuma isso", ela pode ficar confusa sobre onde começa e termina o texto a ser resumido e onde é o comando.
 
-사람이 글을 읽을 때 **문단**을 나누듯이, AI에게도 **"여기서부터 여기까지야"**라고 확실한 **경계선(Delimiter)**을 그어줘야 합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI는 긴 텍스트에서 명령어와 데이터를 구분하는 데 어려움을 겪을 수 있습니다.
-2. XML 태그(`< >`)나 특수 기호(`"""`)를 사용해 명확한 경계를 설정하세요.
-3. 구획을 나누는 습관은 AI의 인식 오류를 줄이고 작업 정확도를 높입니다.
+Assim como os humanos dividem textos em **parágrafos**, você deve desenhar uma **linha de limite (Delimitador)** clara para a IA, dizendo **"é daqui até aqui"**.
 
 ---
 
-## 🚀 해결책: "XML 태그나 특수기호 활용하기"
+## ⚡️ Resumo em 3 linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. A IA pode ter dificuldade em distinguir comandos de dados em textos longos.
+2. Use tags XML (`< >`) ou caracteres especiais (`"""`) para definir limites claros.
+3. O hábito de dividir seções reduz erros de reconhecimento da IA e aumenta a precisão do trabalho.
 
-빠르게 결과만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 유능한 **편집자**야.
-> **요청:** 긴 글을 요약하거나 코드를 수정할 때 AI가 헷갈려하나요? 특수기호로 구획을 나눠주는 Delimiter 기법으로 정확도를 2배 높이세요해줘.
+## 🚀 Solução: "Usar Tags XML ou Caracteres Especiais"
+
+### 🥉 Versão Básica
+
+Use quando precisar de resultados rápidos.
+
+> **Papel:** Você é um **editor** competente.
+> **Solicitação:** A IA fica confusa ao resumir textos longos ou corrigir códigos? Aumente a precisão em 2x com a técnica de Delimitadores, dividindo seções com caracteres especiais.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Especialista)
 
-디테일한 퀄리티가 필요할 때 사용하세요.
+Use quando precisar de qualidade detalhada.
 
-가장 좋은 방법은 `< >` 태그나 `"""` (따옴표 3개)를 쓰는 것입니다.
+A melhor maneira é usar tags `< >` ou `"""` (três aspas).
 
-> **역할:** 너는 유능한 **편집자**야.
+> **Papel:** Você é um **editor** competente.
 >
-> **요청:** 아래 `<text>` 태그로 감싼 내용을 3문장으로 요약해줘.
+> **Solicitação:** Resuma o conteúdo envolto nas tags `<text>` abaixo em 3 frases.
 >
-> **입력 데이터:**
+> **Dados de entrada:**
 > <text>
-> `[여기에 엄청나게 긴 뉴스 기사나 보고서 내용]`
+> `[Aqui entra o artigo de notícias ou relatório extremamente longo]`
 > </text>
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Análise do Prompt (Por que funciona?)
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Prova: Antes e Depois
 
-### ❌ Before (구분 없이 입력)
+### ❌ Antes (Entrada sem distinção)
 
-AI: "요약해줘"라는 말까지 요약에 포함시켜 버리거나, 글의 앞부분만 읽고 대충 끝내버릴 수 있습니다.
+IA: Pode acabar incluindo a frase "resuma isso" no resumo, ou ler apenas o início do texto e terminar de qualquer jeito.
 
 ```text
-(명령어와 데이터가 섞여서 혼란스러움)
+(Comando e dados misturados, causando confusão)
 ```
 
 <br>
 
-### ✅ After (태그로 감싸기)
+### ✅ Depois (Envolvendo com tags)
 
-AI는 `<text>` 안의 내용만 **"처리할 데이터"**로 인식하고, 나머지는 **"명령어"**로 명확히 구분합니다.
+A IA reconhece apenas o conteúdo dentro de `<text>` como **"dados para processar"** e distingue claramente o resto como **"comandos"**.
 
 ```text
-(정확하게 <text> 내부의 내용만 추출하여 완벽하게 요약함)
+(Extrai exatamente o conteúdo dentro de <text> e resume perfeitamente)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-전문가들은 프롬프트를 짤 때 습관적으로 **구획(Section)**을 나눕니다.
+Especialistas costumam dividir **seções (Section)** ao criar prompts.
 
-- `<context>` (상황)
-- `<instruction>` (지시사항)
-- `<data>` (데이터)
+- `<context>` (Situação)
+- `<instruction>` (Instruções)
+- `<data>` (Dados)
 
-이 작은 습관 하나가 프롬프트의 에러율을 0%로 만듭니다. 🧱
+Apenas esse pequeno hábito reduz a taxa de erro do prompt para 0%. 🧱

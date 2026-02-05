@@ -4,9 +4,9 @@ title: "Wie man 1 Stunde Protokollführung in 10 Sekunden erledigt und pünktlic
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "업무 자동화"
+category: "Arbeitsautomatisierung"
 description: "Überlassen Sie einfache wiederkehrende Aufgaben der KI und gewinnen Sie Ihren Feierabend zurück. Ein Automatisierungs-Prompt, der ungeordnete Texte in perfekte Berichte verwandelt."
-tags: ["생산성", "자동화", "워라밸"]
+tags: ["Produktivität", "Automatisierung", "Work-Life-Balance"]
 ---
 
 # ⏳ Wie man 1 Stunde Protokollführung in 10 Sekunden erledigt

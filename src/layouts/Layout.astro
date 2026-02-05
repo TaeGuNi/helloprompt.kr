@@ -50,8 +50,7 @@ const relatedPosts = Object.entries(globbedPosts)
   .filter(
     (post: any) =>
       post.frontmatter.category === frontmatter.category &&
-      post.frontmatter.title !== frontmatter.title &&
-      !post.file.includes("_template.md"),
+      post.frontmatter.title !== frontmatter.title,
   )
   .sort(() => 0.5 - Math.random())
   .slice(0, 3);

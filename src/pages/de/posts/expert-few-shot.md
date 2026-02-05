@@ -4,9 +4,9 @@ title: 'Die Macht von "Beispielen", stärker als hundert Worte der Erklärung (F
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
+category: "Prompt Engineering"
 description: "Sind Sie frustriert, weil der gewünschte Tonfall oder das Format nicht stimmt? Wir stellen die Few-Shot-Technik vor, eine sicherere Methode als lange Erklärungen."
-tags: ["Few-Shot", "고급팁", "예시"]
+tags: ["Few-Shot", "Fortgeschrittene Tipps", "Beispiele"]
 ---
 
 # 🎯 Die Macht von "Beispielen", stärker als hundert Worte der Erklärung

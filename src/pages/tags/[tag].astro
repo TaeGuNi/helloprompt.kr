@@ -1,4 +1,6 @@
 ---
+import BaseHtml from "../../components/BaseHtml.astro";
+
 export async function getStaticPaths() {
   const allPosts = Object.values(
     import.meta.glob("../posts/*.md", { eager: true }),
@@ -32,8 +34,6 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 const { posts } = Astro.props as any;
-
-import BaseHtml from "../../components/BaseHtml.astro";
 ---
 
 <BaseHtml lang="ko">

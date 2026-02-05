@@ -4,9 +4,9 @@ title: 'Wenn KI dumme Antworten gibt: "Chain of Thought (CoT)" anwenden'
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
+category: "Prompt Engineering"
 description: "Gibt die KI bei einfachen Fragen gute Antworten, redet aber bei komplexen logischen Problemen Unsinn? Die wahre Anwendung der CoT-Technik, die von den Top 1% der Prompt-Ingenieure verwendet wird."
-tags: ["CoT", "논리적사고", "문제해결"]
+tags: ["CoT", "Logisches Denken", "Problemlösung"]
 ---
 
 # 🧠 Wenn KI immer wieder dumme Antworten gibt

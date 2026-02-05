@@ -4,9 +4,9 @@ title: 'Wenn die KI Sie nicht versteht? Setzen Sie "Zäune" (Delimiters)'
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "프롬프트 엔지니어링"
+category: "Prompt Engineering"
 description: "Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erhöhen Sie die Genauigkeit mit der Delimiter-Technik, die Abschnitte durch Sonderzeichen unterteilt."
-tags: ["구분자", "가독성", "XML태그"]
+tags: ["Trennzeichen", "Lesbarkeit", "XML-Tags"]
 ---
 
 # 🚧 Wenn die KI Sie nicht versteht? Setzen Sie "Zäune"

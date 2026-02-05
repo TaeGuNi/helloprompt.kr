@@ -30,8 +30,6 @@ export function sortPostsByDate(posts: Post[]): Post[] {
  */
 export function filterPublishedPosts(posts: Post[]): Post[] {
   return posts.filter((post) => {
-    // 템플릿 파일 제외
-    if (post.file.includes("_template.md")) return false;
     // Draft(초안) 상태인 경우 제외
     if (post.frontmatter.draft === true) return false;
 

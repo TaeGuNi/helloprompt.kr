@@ -46,13 +46,11 @@ export async function getStaticPaths({ paginate }: any) {
 
   // 3. 페이지네이션 경로 생성
   return collections.flatMap(({ lang, posts }) => {
-    const sortedPosts = posts
-      .filter((post: any) => !post.file.includes("_template.md"))
-      .sort(
-        (a: any, b: any) =>
-          new Date(b.frontmatter.date).valueOf() -
-          new Date(a.frontmatter.date).valueOf(),
-      );
+    const sortedPosts = posts.sort(
+      (a: any, b: any) =>
+        new Date(b.frontmatter.date).valueOf() -
+        new Date(a.frontmatter.date).valueOf(),
+    );
 
     return paginate(sortedPosts, {
       params: { lang },

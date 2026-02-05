@@ -5,7 +5,6 @@ export const GET: APIRoute = async (_context) => {
   const posts: any[] = [];
 
   for (const path in allPosts) {
-    if (path.includes("_template.md")) continue;
     const post: any = await allPosts[path]();
     posts.push({
       title: post.frontmatter.title,

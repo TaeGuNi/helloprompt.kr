@@ -5,7 +5,7 @@ Hello Prompt의 콘텐츠 품질을 유지하기 위한 집필 매뉴얼입니�
 
 ## 1. 집필 워크플로우 (Workflow)
 
-1.  **템플릿 복사:** `src/pages/posts/_template.md` 파일을 복사하여 시작합니다.
+1.  **템플릿 복사:** `docs/POST_TEMPLATE.md` 파일을 복사하여 시작합니다.
 2.  **파일명 규칙:** `kebab-case` 영문으로 작성합니다. (예: `excel-pivot-table.md`)
 3.  **작성:** 템플릿의 빈칸을 채웁니다.
 4.  **검수:** `docs/QUALITY_MODEL.md` 기준으로 자가 점검을 수행합니다.

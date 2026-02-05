@@ -6,6 +6,7 @@ date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Outros"
 description: "A IA parece difícil? Aqui estão as 3 maneiras mais fáceis de começar agora mesmo."
+lang: pt
 ---
 
 # 3 Primeiros Passos para Iniciantes em IA

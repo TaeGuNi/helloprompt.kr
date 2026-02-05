@@ -7,14 +7,12 @@ export async function getStaticPaths({ paginate }: any) {
     import.meta.glob("./posts/*.md", { eager: true }),
   );
 
-  // 2. 템플릿 제외 및 날짜순 정렬
-  const sortedPosts = krPosts
-    .filter((post: any) => !post.file.includes("_template.md"))
-    .sort(
-      (a: any, b: any) =>
-        new Date(b.frontmatter.date).valueOf() -
-        new Date(a.frontmatter.date).valueOf(),
-    );
+  // 2. 날짜순 정렬
+  const sortedPosts = krPosts.sort(
+    (a: any, b: any) =>
+      new Date(b.frontmatter.date).valueOf() -
+      new Date(a.frontmatter.date).valueOf(),
+  );
 
   // 3. 페이지네이션 (루트 경로 /)
   return paginate(sortedPosts, { pageSize: 12 });

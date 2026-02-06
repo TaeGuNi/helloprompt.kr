@@ -1,66 +1,66 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'La puissance de l''"Exemple", plus forte que mille explications (Few-Shot Prompting)'
+title: "Le pouvoir des « Exemples » (Few-Shot Prompting)"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "Ingénierie de Prompt"
-description: "Frustré parce que le ton ou le format ne correspond pas ? Découvrez la méthode Few-Shot, plus efficace que de longues explications."
-tags: ["Few-Shot", "AstuceAvancée", "Exemple"]
+category: "Prompt Engineering"
+description: "Frustré que l'IA ne saisisse pas le bon ton ou le bon format ? Le Few-Shot Prompting est plus efficace que les longues explications."
+tags: ["Few-Shot", "Astuces Avancées", "Exemples"]
 ---
 
-# 🎯 La puissance de l'"Exemple", plus forte que mille explications
+# 🎯 Le pouvoir des « Exemples » plus fort que 100 explications
 
-> **🎯 Cible recommandée :** Tout le monde
-> **⏱️ Temps nécessaire :** 5 minutes
+> **🎯 Recommandé pour :** Tout le monde
+> **⏱️ Temps requis :** 5 minutes
 > **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-_"J'ai dit à l'IA 'parle de manière chic', mais elle continue de faire des blagues de papa bizarres."_
-_"J'ai demandé un format JSON, mais elle ajoute toujours une introduction."_
+_"J'ai dit à l'IA d'être 'chic', mais elle continue de faire des blagues de papa."_
+_"J'ai demandé un format JSON, mais elle continue d'ajouter une introduction."_
 
-L'erreur la plus courante en enseignant à une IA est d'**aligner de longues "Explications (Instruction)"**.
-Mais l'IA apprend beaucoup plus vite en voyant des **"Exemples (Example)"** qu'avec des explications.
+L'erreur la plus courante lors de l'enseignement à l'IA est de **donner de longues « Instructions ».**
+Cependant, l'IA apprend beaucoup plus vite à partir d'**« Exemples »** qu'à partir d'explications.
 
-C'est ce qu'on appelle techniquement le **Few-Shot Prompting**.
+En termes techniques, cela s'appelle le **Few-Shot Prompting**.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. L'IA apprend plus vite et plus précisément grâce à des exemples concrets (Example) qu'avec de longues explications.
-2. Le Few-Shot Prompting montre 1 à 3 paires entrée-sortie pour induire le format et le ton souhaités.
-3. Si vous avez un style désiré, il est plus efficace de montrer un exemple de réponse correcte que de l'expliquer avec des mots.
+1. L'IA apprend plus vite et plus précisément à partir d'exemples concrets qu'à partir de longues explications.
+2. Le Few-Shot Prompting induit le format et le ton souhaités en montrant 1~3 paires entrée-sortie.
+3. Si vous avez un style souhaité, montrer un « échantillon de bonne réponse » est plus efficace que de le décrire avec des mots.
 
 ---
 
-## 🚀 Solution : "Montrer des paires Entrée et Sortie"
+## 🚀 La Solution : « Montrer des paires d'Entrée et de Sortie »
 
-### 🥉 Version Basique (Basic)
+### 🥉 Version De Base
 
-Utilisez ceci pour des résultats rapides.
+Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un **critique de cinéma** émotionnel.
-> **Demande :** Frustré parce que le ton ou le format ne correspond pas ? Découvrez la méthode Few-Shot, plus efficace que de longues explications.
+> **Rôle :** Tu es un **Critique de Cinéma** émotif.
+> **Demande :** Je suis frustré que l'IA ne saisisse pas le bon ton ou le bon format. Explique la technique Few-Shot, qui est plus efficace que les longues explications.
 
 <br>
 
 ### 🥇 Version Pro (Expert)
 
-Utilisez ceci quand vous avez besoin de qualité détaillée.
+Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
 
-Montrez 1 à 3 exemples à l'IA en disant "Fais comme ça".
+Montrez à l'IA 1~3 échantillons en disant « Fais comme ça ».
 
-> **Rôle :** Tu es un **critique de cinéma** émotionnel.
+> **Rôle :** Tu es un **Critique de Cinéma** émotif.
 >
-> **Demande :** Transforme le titre du film donné en une 'critique d'une ligne' comme dans les exemples ci-dessous.
+> **Demande :** Transforme le titre du film en une « Critique d'une ligne » comme les exemples ci-dessous.
 >
 > **[Exemple 1]**
 > Entrée : Titanic
-> Sortie : La chaleur d'un amour éternel que même l'océan glacial n'a pu refroidir. 🚢
+> Sortie : La chaleur de l'amour éternel que même l'océan froid n'a pas pu refroidir. 🚢
 >
 > **[Exemple 2]**
 > Entrée : Parasite
@@ -78,27 +78,27 @@ Montrez 1 à 3 exemples à l'IA en disant "Fais comme ça".
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Seulement des explications)
+### ❌ Avant (Explication seulement)
 
-Entrée : "Écris une critique d'une ligne sur Avengers Endgame. Un peu émotionnelle."
+Entrée : « Écris une critique d'une ligne pour Avengers Endgame. Rends-la émouvante. »
 
 ```text
-IA : Avengers Endgame est un film vraiment touchant. La scène où tous les héros se rassemblent pour se battre est géniale. (Trop banal)
+IA : Avengers Endgame est un film vraiment touchant. La scène où tous les héros se rassemblent pour se battre est cool. (Trop générique)
 ```
 
 <br>
 
-### ✅ Après (Avec exemples Few-Shot)
+### ✅ Après (Donner des exemples Few-Shot)
 
-L'IA reproduit parfaitement le 'ton et la manière' des exemples.
+L'IA réplique parfaitement le « Ton & Manière » des exemples.
 
 ```text
-Sortie : L'adieu le plus grandiose, dédié à ceux que nous avons aimés 3000 fois. 🛡️
+Sortie : L'adieu le plus grandiose dédié à ceux que nous aimions 3000 fois. 🛡️
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Si vous voulez un style particulier, n'essayez pas de l'expliquer avec des mots, montrez simplement **"la réponse correcte (exemple)"**.
-L'IA est vive d'esprit et suivra rapidement. 🦜
+Si vous avez un style souhaité, n'essayez pas de l'expliquer avec des mots ; montrez simplement la **« Feuille de Réponses (Exemples). »**
+L'IA est vive d'esprit et suivra immédiatement. 🦜

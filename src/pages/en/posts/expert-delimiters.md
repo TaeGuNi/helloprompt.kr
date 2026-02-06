@@ -1,62 +1,62 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Not Understanding You? Build a 'Fence' (Delimiters)"
+title: "AI Can't Understand You? Use 'Delimiters'"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Does AI get confused when summarizing long text or fixing code? Double your accuracy with the Delimiter technique using special characters."
+description: "Does AI get confused when summarizing long text or fixing code? Use the Delimiter technique to separate sections and double your accuracy."
 tags: ["Delimiters", "Readability", "XML Tags"]
 ---
 
-# 🚧 AI Not Understanding You? Build a "Fence"
+# 🚧 AI Can't Understand You? Use "Delimiters"
 
-> **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+> **🎯 Recommended For:** Everyone
+> **⏱️ Time Required:** 5 minutes
+> **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
 |  ⭐⭐☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐☆ |
 
-When you throw a long text at AI and say "Summarize this", the AI sometimes gets confused about where the text to summarize starts and ends, and which part is the command.
+When you throw a long text at an AI and say "Summarize this," the AI sometimes gets confused about where the text to summarize ends and where the instructions begin.
 
-Just as humans divide text into **paragraphs**, you need to draw a clear **Delimiter** for AI saying **"From here to here"**.
+Just as humans divide text into **paragraphs** when reading, you need to draw a clear **boundary (Delimiter)** for the AI, saying **"From here to here is the content."**
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
 1. AI can struggle to distinguish between commands and data in long texts.
-2. Use XML tags (`< >`) or special characters (`"""`) to set clear boundaries.
-3. The habit of dividing sections reduces AI perception errors and increases task accuracy.
+2. Use XML tags (`< >`) or special symbols (`"""`) to set clear boundaries.
+3. The habit of dividing sections reduces AI recognition errors and increases task accuracy.
 
 ---
 
-## 🚀 Solution: "Use XML Tags or Special Characters"
+## 🚀 The Solution: "Using XML Tags or Special Symbols"
 
 ### 🥉 Basic Version
 
-Use this when you just need quick results.
+Use this when you just need a quick result.
 
-> **Role:** You are a capable **Editor**.
-> **Request:** Does AI get confused when summarizing long text or fixing code? Double your accuracy with the Delimiter technique using special characters.
+> **Role:** You are a competent **Editor**.
+> **Request:** Does AI get confused when summarizing long text or fixing code? Use the Delimiter technique to separate sections and double your accuracy.
 
 <br>
 
-### 🥇 Pro Version
+### 🥇 Pro Version (Expert)
 
 Use this when you need detailed quality.
 
-The best method is to use `< >` tags or `"""` (triple quotes).
+The best way is to use `< >` tags or `"""` (triple quotes).
 
-> **Role:** You are a capable **Editor**.
+> **Role:** You are a competent **Editor**.
 >
 > **Request:** Summarize the content wrapped in `<text>` tags below into 3 sentences.
 >
 > **Input Data:**
 > <text>
-> `[Huge news article or report content here]`
+> `[Insert incredibly long news article or report content here]`
 > </text>
 
 ---
@@ -67,32 +67,32 @@ The best method is to use `< >` tags or `"""` (triple quotes).
 
 ## 📊 Proof: Before & After
 
-### ❌ Before (Input without distinction)
+### ❌ Before (Input without delimiters)
 
-AI: It might include the command "Summarize this" in the summary itself, or just read the beginning of the text and finish hastily.
+AI: It might include the instruction "Summarize this" as part of the summary itself, or just read the beginning of the text and finish hastily.
 
 ```text
-(Confused mixture of commands and data)
+(Confusing mix of instructions and data)
 ```
 
 <br>
 
-### ✅ After (Wrapped in tags)
+### ✅ After (Wrapping with tags)
 
-AI recognizes only the content inside `<text>` as **"Data to process"** and clearly distinguishes the rest as **"Commands"**.
+The AI recognizes only the content inside `<text>` as **"data to process"** and clearly distinguishes the rest as **"commands."**
 
 ```text
-(Perfectly summarizes by extracting only the content inside <text>)
+(Accurately extracts only the content inside <text> and summarizes it perfectly)
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Experts habitually divide **Sections** when writing prompts.
+Experts habitually divide **Sections** when crafting prompts.
 
 - `<context>` (Situation)
 - `<instruction>` (Instructions)
 - `<data>` (Data)
 
-This single small habit brings the prompt error rate down to 0%. 🧱
+This single small habit makes the error rate of your prompts 0%. 🧱

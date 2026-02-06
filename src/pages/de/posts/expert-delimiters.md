@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'Wenn die KI Sie nicht versteht? Setzen Sie "Zäune" (Delimiters)'
+title: "KI versteht Sie nicht? Verwenden Sie 'Trennzeichen' (Delimiters)"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erhöhen Sie die Genauigkeit mit der Delimiter-Technik, die Abschnitte durch Sonderzeichen unterteilt."
+description: "Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Nutzen Sie die Trennzeichen-Technik, um Abschnitte zu trennen und Ihre Genauigkeit zu verdoppeln."
 tags: ["Trennzeichen", "Lesbarkeit", "XML-Tags"]
 ---
 
-# 🚧 Wenn die KI Sie nicht versteht? Setzen Sie "Zäune"
+# 🚧 KI versteht Sie nicht? Verwenden Sie "Trennzeichen"
 
-> **🎯 Empfohlene Zielgruppe:** Alle
+> **🎯 Empfohlen für:** Jeden
 > **⏱️ Zeitaufwand:** 5 Minuten
 > **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -19,80 +19,80 @@ tags: ["Trennzeichen", "Lesbarkeit", "XML-Tags"]
 | :-----------: | :----------: | :-------: |
 |    ⭐⭐☆☆☆    |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-Wenn Sie der KI einen langen Text geben und sagen "Fass das zusammen", ist die KI manchmal verwirrt, wo der zusammenzufassende Text beginnt und wo der Befehl endet.
+Wenn Sie einer KI einen langen Text vorwerfen und sagen "Fasse das zusammen", ist die KI manchmal verwirrt darüber, wo der zusammenzufassende Text endet und wo die Anweisungen beginnen.
 
-So wie Menschen beim Lesen **Absätze** machen, müssen wir auch für die KI klare **Grenzlinien (Delimiters)** ziehen: **"Von hier bis hier ist es."**
-
----
-
-## ⚡️ Zusammenfassung in 3 Zeilen (TL;DR)
-
-1. KI kann bei langen Texten Schwierigkeiten haben, Befehle von Daten zu unterscheiden.
-2. Setzen Sie klare Grenzen mit XML-Tags (`< >`) oder Sonderzeichen (`"""`).
-3. Die Gewohnheit, Abschnitte zu unterteilen, reduziert Erkennungsfehler der KI und erhöht die Arbeitsgenauigkeit.
+So wie Menschen Text beim Lesen in **Absätze** unterteilen, müssen Sie eine klare **Grenze (Trennzeichen/Delimiter)** für die KI ziehen und sagen: **"Von hier bis hier ist der Inhalt."**
 
 ---
 
-## 🚀 Lösung: "XML-Tags oder Sonderzeichen nutzen"
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-### 🥉 Basic Version (Basis-Version)
+1. KI kann Schwierigkeiten haben, Befehle und Daten in langen Texten zu unterscheiden.
+2. Verwenden Sie XML-Tags (`< >`) oder spezielle Symbole (`"""`), um klare Grenzen zu setzen.
+3. Die Gewohnheit, Abschnitte zu unterteilen, reduziert Erkennungsfehler der KI und erhöht die Aufgabengenauigkeit.
 
-Verwenden Sie dies, wenn Sie schnell nur das Ergebnis benötigen.
+---
 
-> **Rolle:** Du bist ein fähiger **Redakteur**.
-> **Anfrage:** Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erhöhen Sie die Genauigkeit mit der Delimiter-Technik, die Abschnitte durch Sonderzeichen unterteilt.
+## 🚀 Die Lösung: "Verwendung von XML-Tags oder speziellen Symbolen"
+
+### 🥉 Basis-Version
+
+Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
+
+> **Rolle:** Du bist ein kompetenter **Redakteur**.
+> **Anfrage:** Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erkläre, wie man die Trennzeichen-Technik nutzt, um Abschnitte zu trennen und die Genauigkeit zu verdoppeln.
 
 <br>
 
-### 🥇 Pro Version (Experten-Version)
+### 🥇 Pro-Version (Experte)
 
 Verwenden Sie dies, wenn Sie detaillierte Qualität benötigen.
 
-Die beste Methode ist die Verwendung von `< >`-Tags oder `"""` (drei Anführungszeichen).
+Der beste Weg ist die Verwendung von `< >`-Tags oder `"""` (drei Anführungszeichen).
 
-> **Rolle:** Du bist ein fähiger **Redakteur**.
+> **Rolle:** Du bist ein kompetenter **Redakteur**.
 >
-> **Anfrage:** Fasse den Inhalt, der unten in `<text>`-Tags eingeschlossen ist, in 3 Sätzen zusammen.
+> **Anfrage:** Fasse den Inhalt, der in die `<text>`-Tags unten eingeschlossen ist, in 3 Sätzen zusammen.
 >
 > **Eingabedaten:**
 > <text>
-> `[Hier extrem langer Nachrichtenartikel oder Berichtsinhalt]`
+> `[Fügen Sie hier einen unglaublich langen Nachrichtenartikel oder Bericht ein]`
 > </text>
 
 ---
 
-## 🧬 Prompt-Analyse (Warum es funktioniert?)
+## 🧬 Prompt-Anatomie (Warum es funktioniert?)
 
 ---
 
 ## 📊 Beweis: Vorher & Nachher
 
-### ❌ Before (Eingabe ohne Trennung)
+### ❌ Vorher (Eingabe ohne Trennzeichen)
 
-KI: Könnte den Befehl "Fass zusammen" in die Zusammenfassung aufnehmen oder nur den Anfang des Textes lesen und grob beenden.
+KI: Sie könnte die Anweisung "Fasse das zusammen" als Teil der Zusammenfassung selbst aufnehmen oder einfach den Anfang des Textes lesen und hastig enden.
 
 ```text
-(Befehl und Daten sind vermischt und verwirrend)
+(Verwirrende Mischung aus Anweisungen und Daten)
 ```
 
 <br>
 
-### ✅ After (In Tags einschließen)
+### ✅ Nachher (Einschließen mit Tags)
 
-Die KI erkennt nur den Inhalt innerhalb von `<text>` als **"zu verarbeitende Daten"** und unterscheidet den Rest klar als **"Befehl"**.
+Die KI erkennt nur den Inhalt innerhalb von `<text>` als **"zu verarbeitende Daten"** und unterscheidet den Rest klar als **"Befehle".**
 
 ```text
-(Extrahiert genau den Inhalt innerhalb von <text> und fasst ihn perfekt zusammen)
+(Extrahiert präzise nur den Inhalt innerhalb von <text> und fasst ihn perfekt zusammen)
 ```
 
 ---
 
-## 🎯 Fazit
+## 🎯 Schlussfolgerung
 
 Experten unterteilen beim Erstellen von Prompts gewohnheitsmäßig **Abschnitte (Sections)**.
 
 - `<context>` (Situation)
-- `<instruction>` (Anweisung)
+- `<instruction>` (Anweisungen)
 - `<data>` (Daten)
 
-Diese kleine Gewohnheit senkt die Fehlerrate des Prompts auf 0%. 🧱
+Diese eine kleine Angewohnheit macht die Fehlerrate Ihrer Prompts zu 0%. 🧱

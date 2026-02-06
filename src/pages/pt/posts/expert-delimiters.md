@@ -1,16 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'E se a IA não entender o que eu digo? Coloque uma "Cerca" (Delimitadores)'
+title: "A IA não consegue te entender? Use 'Delimitadores'"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Engenharia de Prompt"
-description: "A IA fica confusa ao resumir textos longos ou corrigir códigos? Aumente a precisão em 2x com a técnica de Delimitadores, dividindo seções com caracteres especiais."
+description: "A IA fica confusa ao resumir textos longos ou corrigir código? Use a técnica de Delimitadores para separar seções e dobrar sua precisão."
 tags: ["Delimitadores", "Legibilidade", "Tags XML"]
-lang: pt
 ---
 
-# 🚧 E se a IA não entender o que eu digo? Coloque uma "Cerca"
+# 🚧 A IA não consegue te entender? Use "Delimitadores"
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
@@ -20,80 +19,80 @@ lang: pt
 | :---------: | :--------: | :-------: |
 |   ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-Se você der um texto longo para a IA e disser "resuma isso", ela pode ficar confusa sobre onde começa e termina o texto a ser resumido e onde é o comando.
+Quando você joga um texto longo para uma IA e diz "Resuma isso", a IA às vezes fica confusa sobre onde termina o texto a ser resumido e onde começam as instruções.
 
-Assim como os humanos dividem textos em **parágrafos**, você deve desenhar uma **linha de limite (Delimitador)** clara para a IA, dizendo **"é daqui até aqui"**.
+Assim como os humanos dividem o texto em **parágrafos** ao ler, você precisa traçar uma **fronteira (Delimitador)** clara para a IA, dizendo **"Daqui até aqui é o conteúdo."**
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. A IA pode ter dificuldade em distinguir comandos de dados em textos longos.
-2. Use tags XML (`< >`) ou caracteres especiais (`"""`) para definir limites claros.
-3. O hábito de dividir seções reduz erros de reconhecimento da IA e aumenta a precisão do trabalho.
+1. A IA pode ter dificuldade em distinguir entre comandos e dados em textos longos.
+2. Use tags XML (`< >`) ou símbolos especiais (`"""`) para estabelecer limites claros.
+3. O hábito de dividir seções reduz os erros de reconhecimento da IA e aumenta a precisão da tarefa.
 
 ---
 
-## 🚀 Solução: "Usar Tags XML ou Caracteres Especiais"
+## 🚀 A Solução: "Usando Tags XML ou Símbolos Especiais"
 
 ### 🥉 Versão Básica
 
-Use quando precisar de resultados rápidos.
+Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um **editor** competente.
-> **Solicitação:** A IA fica confusa ao resumir textos longos ou corrigir códigos? Aumente a precisão em 2x com a técnica de Delimitadores, dividindo seções com caracteres especiais.
+> **Papel:** Você é um **Editor** competente.
+> **Solicitação:** A IA fica confusa ao resumir textos longos ou corrigir código? Explique como usar a técnica de Delimitadores para separar seções e dobrar a precisão.
 
 <br>
 
-### 🥇 Versão Pro (Especialista)
+### 🥇 Versão Pro (Expert)
 
-Use quando precisar de qualidade detalhada.
+Use isso quando precisar de qualidade detalhada.
 
 A melhor maneira é usar tags `< >` ou `"""` (três aspas).
 
-> **Papel:** Você é um **editor** competente.
+> **Papel:** Você é um **Editor** competente.
 >
-> **Solicitação:** Resuma o conteúdo envolto nas tags `<text>` abaixo em 3 frases.
+> **Solicitação:** Resuma o conteúdo envolvido nas tags `<text>` abaixo em 3 frases.
 >
-> **Dados de entrada:**
+> **Dados de Entrada:**
 > <text>
-> `[Aqui entra o artigo de notícias ou relatório extremamente longo]`
+> `[Insira aqui um artigo de notícias ou relatório incrivelmente longo]`
 > </text>
 
 ---
 
-## 🧬 Análise do Prompt (Por que funciona?)
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
 ---
 
 ## 📊 Prova: Antes e Depois
 
-### ❌ Antes (Entrada sem distinção)
+### ❌ Antes (Entrada sem delimitadores)
 
-IA: Pode acabar incluindo a frase "resuma isso" no resumo, ou ler apenas o início do texto e terminar de qualquer jeito.
+IA: Pode incluir a instrução "Resuma isso" como parte do próprio resumo, ou apenas ler o início do texto e terminar apressadamente.
 
 ```text
-(Comando e dados misturados, causando confusão)
+(Mistura confusa de instruções e dados)
 ```
 
 <br>
 
 ### ✅ Depois (Envolvendo com tags)
 
-A IA reconhece apenas o conteúdo dentro de `<text>` como **"dados para processar"** e distingue claramente o resto como **"comandos"**.
+A IA reconhece apenas o conteúdo dentro de `<text>` como **"dados para processar"** e distingue claramente o restante como **"comandos".**
 
 ```text
-(Extrai exatamente o conteúdo dentro de <text> e resume perfeitamente)
+(Extrai com precisão apenas o conteúdo dentro de <text> e o resume perfeitamente)
 ```
 
 ---
 
 ## 🎯 Conclusão
 
-Especialistas costumam dividir **seções (Section)** ao criar prompts.
+Especialistas dividem habitualmente **Seções** ao criar prompts.
 
 - `<context>` (Situação)
 - `<instruction>` (Instruções)
 - `<data>` (Dados)
 
-Apenas esse pequeno hábito reduz a taxa de erro do prompt para 0%. 🧱
+Esse único pequeno hábito torna a taxa de erro dos seus prompts em 0%. 🧱

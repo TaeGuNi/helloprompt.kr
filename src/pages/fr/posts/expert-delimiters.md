@@ -1,62 +1,62 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 'L''IA ne vous comprend pas ? Utilisez des "Délimiteurs"'
+title: "L'IA ne vous comprend pas ? Utilisez des « Délimiteurs »"
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
-category: "Ingénierie de Prompt"
-description: "L'IA s'embrouille en résumant de longs textes ou en modifiant du code ? Doublez la précision avec la technique des délimiteurs pour séparer les sections."
-tags: ["Délimiteurs", "Lisibilité", "TagsXML"]
+category: "Prompt Engineering"
+description: "L'IA est-elle confuse lorsqu'elle résume de longs textes ou corrige du code ? Utilisez la technique des Délimiteurs pour séparer les sections et doubler votre précision."
+tags: ["Délimiteurs", "Lisibilité", "Balises XML"]
 ---
 
-# 🚧 L'IA ne vous comprend pas ? Utilisez des "Délimiteurs"
+# 🚧 L'IA ne vous comprend pas ? Utilisez des « Délimiteurs »
 
-> **🎯 Cible recommandée :** Tout le monde
-> **⏱️ Temps nécessaire :** 5 minutes
+> **🎯 Recommandé pour :** Tout le monde
+> **⏱️ Temps requis :** 5 minutes
 > **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-Quand vous donnez un long texte à l'IA et dites "résume ça", l'IA est parfois confuse sur où commence et finit le texte à résumer, et où se trouve la commande.
+Lorsque vous lancez un long texte à une IA et dites « Résume ceci », l'IA est parfois confuse quant à savoir où se termine le texte à résumer et où commencent les instructions.
 
-Tout comme les humains divisent les textes en **paragraphes**, vous devez tracer une **ligne de démarcation (Délimiteur)** claire pour l'IA : **"C'est d'ici à là"**.
+Tout comme les humains divisent le texte en **paragraphes** lors de la lecture, vous devez tracer une **frontière (Délimiteur)** claire pour l'IA, en disant **« D'ici à ici, c'est le contenu. »**
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. L'IA peut avoir du mal à distinguer les commandes des données dans les textes longs.
+1. L'IA peut avoir du mal à distinguer les commandes des données dans les longs textes.
 2. Utilisez des balises XML (`< >`) ou des symboles spéciaux (`"""`) pour définir des limites claires.
-3. L'habitude de diviser les sections réduit les erreurs de reconnaissance de l'IA et augmente la précision du travail.
+3. L'habitude de diviser les sections réduit les erreurs de reconnaissance de l'IA et augmente la précision de la tâche.
 
 ---
 
-## 🚀 Solution : "Utiliser des balises XML ou des symboles spéciaux"
+## 🚀 La Solution : « Utiliser des balises XML ou des symboles spéciaux »
 
-### 🥉 Version Basique (Basic)
+### 🥉 Version De Base
 
-Utilisez ceci pour des résultats rapides.
+Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
 > **Rôle :** Tu es un **Éditeur** compétent.
-> **Demande :** L'IA s'embrouille en résumant de longs textes ou en modifiant du code ? Doublez la précision avec la technique des délimiteurs pour séparer les sections.
+> **Demande :** L'IA est-elle confuse lorsqu'elle résume de longs textes ou corrige du code ? Explique comment utiliser la technique des Délimiteurs pour séparer les sections et doubler la précision.
 
 <br>
 
 ### 🥇 Version Pro (Expert)
 
-Utilisez ceci quand vous avez besoin de qualité détaillée.
+Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
 
-La meilleure méthode est d'utiliser des balises `< >` ou `"""` (trois guillemets).
+La meilleure façon est d'utiliser des balises `< >` ou `"""` (trois guillemets).
 
 > **Rôle :** Tu es un **Éditeur** compétent.
 >
-> **Demande :** Résume le contenu entouré par les balises `<text>` ci-dessous en 3 phrases.
+> **Demande :** Résume le contenu enveloppé dans les balises `<text>` ci-dessous en 3 phrases.
 >
 > **Données d'entrée :**
 > <text>
-> `[Ici, un article de presse ou un rapport extrêmement long]`
+> `[Insérez ici un article de presse ou un rapport incroyablement long]`
 > </text>
 
 ---
@@ -67,32 +67,32 @@ La meilleure méthode est d'utiliser des balises `< >` ou `"""` (trois guillemet
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Entrée sans distinction)
+### ❌ Avant (Entrée sans délimiteurs)
 
-IA : Elle pourrait inclure la phrase "résume ça" dans le résumé, ou lire seulement le début du texte et finir à la va-vite.
+IA : Elle pourrait inclure l'instruction « Résume ceci » dans le résumé lui-même, ou simplement lire le début du texte et finir à la hâte.
 
 ```text
-(Commandes et données mélangées et confuses)
+(Mélange confus d'instructions et de données)
 ```
 
 <br>
 
-### ✅ Après (Entouré de balises)
+### ✅ Après (Enveloppement avec des balises)
 
-L'IA reconnaît uniquement le contenu dans `<text>` comme **"données à traiter"**, et distingue clairement le reste comme **"commandes"**.
+L'IA reconnaît uniquement le contenu à l'intérieur de `<text>` comme **« données à traiter »** et distingue clairement le reste comme **« commandes ».**
 
 ```text
-(Extrait et résume parfaitement le contenu à l'intérieur de <text>)
+(Extrait avec précision uniquement le contenu à l'intérieur de <text> et le résume parfaitement)
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Les experts divisent habituellement leurs prompts en **Sections**.
+Les experts divisent habituellement les **Sections** lors de la création de prompts.
 
 - `<context>` (Situation)
 - `<instruction>` (Instructions)
 - `<data>` (Données)
 
-Cette petite habitude réduit le taux d'erreur du prompt à 0%. 🧱
+Cette seule petite habitude rend le taux d'erreur de vos prompts de 0%. 🧱

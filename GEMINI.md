@@ -19,14 +19,16 @@
    - 이미지: `public/images/`에 저장 후 사용
 3. **디자인 수정:**
    - `src/layouts/Layout.astro`: 전역 스타일, 헤더, 푸터, TOC, 공유 버튼 관리
-   - `src/pages/[...page].astro`: 메인 페이지, 검색, 페이지네이션 관리
+   - `src/pages/[...page].astro`: 메인 페이지 (한국어)
+   - `src/pages/[lang]/[...page].astro`: 메인 페이지 (다국어)
    - `src/pages/tags/[tag].astro`: 태그별 모아보기 페이지 관리
 
 ## 📂 주요 파일 경로
 
-- **메인:** `src/pages/[...page].astro` (검색, 카드 리스트)
+- **메인:** `src/pages/[...page].astro` (한국어), `src/pages/[lang]/[...page].astro` (다국어)
+- **콘텐츠:** `src/pages/posts/*.md` (한국어 원본), `src/pages/[lang]/posts/*.md` (번역본)
 - **레이아웃:** `src/layouts/Layout.astro` (CSS, OG Tag, Analytics)
-- **데이터:** `src/pages/search.json.js`, `src/pages/rss.xml.js`, `src/pages/atom.xml.js`
+- **데이터:** `src/pages/search.json.ts`, `src/pages/rss.xml.ts`, `src/pages/atom.xml.ts`
 - **테스트:** `tests/home.spec.ts` (Playwright), `src/utils.test.ts` (Vitest)
 - **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵)
 

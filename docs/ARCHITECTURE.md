@@ -43,8 +43,10 @@ graph TD
 
 ### Page Layer (`src/pages/`)
 
-- **`[...page].astro`**: 메인 페이지. 페이지네이션 로직과 카드 리스트 렌더링을 담당합니다.
-- **`posts/*.md`**: 실제 콘텐츠 데이터입니다.
+- **`[...page].astro`**: 한국어 메인 페이지 (Default). 페이지네이션 로직과 카드 리스트 렌더링을 담당합니다.
+- **`posts/*.md`**: 한국어 콘텐츠 데이터 (Source of Truth).
+- **`[lang]/[...page].astro`**: 다국어(9개국) 메인 페이지.
+- **`[lang]/posts/*.md`**: 다국어 콘텐츠 데이터.
 - **`tags/[tag].astro`**: 동적 라우팅을 통해 태그별 아카이브 페이지를 생성합니다.
 
 ## 5. 확장성 및 기술 부채 (Scalability)

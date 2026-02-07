@@ -32,4 +32,16 @@ describe("dateUtils", () => {
     const result = formatDate("invalid-date-string", "en");
     expect(result).toBe("invalid-date-string");
   });
+
+  it("handles empty date string", () => {
+    const result = formatDate("", "en");
+    expect(result).toBe("");
+  });
+
+  it("falls back to UTC for unknown language", () => {
+    // Unknown lang 'xx' -> should use UTC
+    const result = formatDate(TEST_ISO_DATE, "xx");
+    expect(result).toBeTruthy();
+    expect(result).toContain("2026");
+  });
 });

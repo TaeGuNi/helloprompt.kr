@@ -4,25 +4,31 @@
 
 ## 1. 배포 파이프라인 (CI/CD Pipeline)
 
-우리는 **"안전하지 않은 코드는 배포하지 않는다"**는 원칙을 따릅니다.
-`pnpm run deploy` 명령어를 실행하면 다음 4단계가 순차적으로 진행됩니다.
+우리는 **Git Flow** 전략을 기반으로 안전한 배포를 지향합니다.
 
-### 단계별 프로세스
+### 🌿 브랜치 전략 (Branch Strategy)
 
-1.  **Lint & Check:** `astro check`로 문법 오류 검사
-2.  **Unit Test:** `vitest`로 유틸리티 함수 로직 검증
-3.  **E2E Test:** `playwright`로 브라우저 상에서 화면 렌더링 검증
-4.  **Build & Deploy:** 위 테스트를 모두 통과하면 `vercel deploy --prod` 실행
+- **`develop` (CI):** 개발 및 통합 브랜치.
+  - Push 시: Lint, Unit Test, E2E Test, Build 확인 (배포 X)
+  - 목적: 코드 품질 검증
+- **`main` (CD):** 배포 브랜치.
+  - Push 시: CI 통과 후 **Vercel Production 배포** 자동 실행
+  - 목적: 실제 서비스 운영
+
+### 🚀 배포 프로세스
+
+1.  작업 내용을 `develop` 브랜치에 Push합니다. (GitHub Action: `CI`)
+2.  테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
+3.  `main` 브랜치에 코드가 병합되면 자동으로 배포가 시작됩니다. (GitHub Action: `Deploy to Vercel`)
 
 ```mermaid
 graph LR
-    A[Start Deploy] --> B{Lint Check}
-    B -- Fail --> X[Stop]
-    B -- Pass --> C{Unit Test}
-    C -- Fail --> X
-    C -- Pass --> D{E2E Test}
-    D -- Fail --> X
-    D -- Pass --> E[Build & Deploy]
+    A[Dev Push] -->|CI Trigger| B(develop)
+    B --> C{Tests Pass?}
+    C -- No --> D[Fix Bug]
+    C -- Yes --> E[Merge to main]
+    E -->|CD Trigger| F(main)
+    F --> G[Deploy to Vercel]
 ```
 
 ## 2. 테스트 전략 (Testing Strategy)

@@ -18,10 +18,11 @@ const isDev = import.meta.env.DEV;
 
 <div
   class:list={[
-    "ad-container my-8 flex justify-center overflow-hidden min-h-[100px]",
+    "ad-container flex flex-col items-center justify-center overflow-hidden my-10",
     className,
   ]}
 >
+  <span class="ad-label">ADVERTISEMENT</span>
   {
     isDev ? (
       /* 개발 환경용 플레이스홀더 */
@@ -36,7 +37,7 @@ const isDev = import.meta.env.DEV;
       <>
         <ins
           class="adsbygoogle"
-          style="display:block"
+          style="display:block; width: 100%;"
           data-ad-client={PUBLISHER_ID}
           data-ad-slot={slotId}
           data-ad-format={format}
@@ -51,8 +52,20 @@ const isDev = import.meta.env.DEV;
 </div>
 
 <style>
-  /* CLS 방지를 위한 최소 높이 */
   .ad-container {
-    min-height: 250px;
+    min-height: 280px; /* 권장 최소 높이 (직사각형 광고 기준) */
+    background: rgba(255, 255, 255, 0.02); /* 미세한 배경 */
+    border-radius: 8px;
+  }
+
+  .ad-label {
+    font-size: 0.6rem;
+    color: #555;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    align-self: flex-start; /* 좌측 정렬 */
+    width: 100%;
+    text-align: center; /* 라벨 중앙 정렬 */
   }
 </style>

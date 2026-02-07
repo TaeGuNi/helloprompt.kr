@@ -17,6 +17,7 @@
 
 ## 🛠 기술 스택 (Tech Stack)
 
+- **Runtime:** Node.js v24.13.0 (LTS)
 - **Framework:** [Astro](https://astro.build) (v5)
 - **Language:** TypeScript
 - **Styling:** CSS (No external UI libraries)
@@ -27,6 +28,9 @@
 ## 🏃‍♂️ 실행 방법 (How to Run)
 
 ```bash
+# 0. Node 버전 설정
+nvm use
+
 # 1. 의존성 설치
 pnpm install
 

@@ -6,6 +6,7 @@
 
 - **이름:** Hello Prompt (헬로 프롬프트)
 - **성격:** AI 초보자를 위한 친절한 프롬프트 딕셔너리
+- **런타임:** Node.js v24.13.0 (LTS)
 - **디자인 컨셉:** Cyberpunk, Dark Mode, Neon Cyan(#00f3ff), Orbitron Font
 - **기술 스택:** Astro v5, pnpm, HTML/CSS (No unnecessary JS Frameworks)
 

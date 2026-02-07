@@ -1,21 +1,9 @@
 import rss from "@astrojs/rss";
 import type { APIRoute } from "astro";
 import { uiStrings } from "../../utils/ui-translation";
+import { getLangStaticPaths } from "../../i18n/languages";
 
-// 지원하는 언어 목록 (한국어 제외)
-export function getStaticPaths() {
-  return [
-    { params: { lang: "en" } },
-    { params: { lang: "de" } },
-    { params: { lang: "es" } },
-    { params: { lang: "fr" } },
-    { params: { lang: "it" } },
-    { params: { lang: "ja" } },
-    { params: { lang: "pt" } },
-    { params: { lang: "ru" } },
-    { params: { lang: "zh" } },
-  ];
-}
+export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;

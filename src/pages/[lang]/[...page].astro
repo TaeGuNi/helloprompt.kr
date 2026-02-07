@@ -1,48 +1,20 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import { LANGUAGES } from "../../i18n/languages";
 
 export async function getStaticPaths({ paginate }: any) {
-  // 1. 외국어 포스트 가져오기 (경로 수정: ../{lang}/posts/*.md)
-  const enPosts = Object.values(
-    import.meta.glob("../en/posts/*.md", { eager: true }),
-  );
-  const esPosts = Object.values(
-    import.meta.glob("../es/posts/*.md", { eager: true }),
-  );
-  const jaPosts = Object.values(
-    import.meta.glob("../ja/posts/*.md", { eager: true }),
-  );
-  const zhPosts = Object.values(
-    import.meta.glob("../zh/posts/*.md", { eager: true }),
-  );
-  const frPosts = Object.values(
-    import.meta.glob("../fr/posts/*.md", { eager: true }),
-  );
-  const dePosts = Object.values(
-    import.meta.glob("../de/posts/*.md", { eager: true }),
-  );
-  const ptPosts = Object.values(
-    import.meta.glob("../pt/posts/*.md", { eager: true }),
-  );
-  const ruPosts = Object.values(
-    import.meta.glob("../ru/posts/*.md", { eager: true }),
-  );
-  const itPosts = Object.values(
-    import.meta.glob("../it/posts/*.md", { eager: true }),
-  );
+  // 1. 외국어 포스트 동적 로딩
+  const globResult = import.meta.glob("../**/posts/*.md", { eager: true });
 
-  // 2. 언어별 매핑 (한국어 제외)
-  const collections = [
-    { lang: "en", posts: enPosts },
-    { lang: "es", posts: esPosts },
-    { lang: "ja", posts: jaPosts },
-    { lang: "zh", posts: zhPosts },
-    { lang: "fr", posts: frPosts },
-    { lang: "de", posts: dePosts },
-    { lang: "pt", posts: ptPosts },
-    { lang: "ru", posts: ruPosts },
-    { lang: "it", posts: itPosts },
-  ];
+  // 2. 언어별 포스트 컬렉션 생성
+  const collections = LANGUAGES.map((lang) => {
+    // 해당 언어 폴더(src/pages/{lang}/posts/)의 포스트만 필터링
+    const posts = Object.entries(globResult)
+      .filter(([path]) => path.includes(`/${lang}/posts/`))
+      .map(([, post]) => post);
+
+    return { lang, posts };
+  });
 
   // 3. 페이지네이션 경로 생성
   return collections.flatMap(({ lang, posts }) => {

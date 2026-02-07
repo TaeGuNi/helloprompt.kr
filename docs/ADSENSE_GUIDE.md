@@ -1,50 +1,68 @@
-# Google AdSense Integration Guide
+# Google AdSense Integration Guide (Manual Strategy)
 
-`helloprompt.kr`에 Google AdSense를 적용하기 위한 가이드입니다.
+`helloprompt.kr`는 레이아웃 안정성과 사용자 경험을 위해 **100% 수동 광고(Manual Placement)** 전략을 사용합니다.
 
-## 1. `ads.txt` 설정 (필수)
+## 1. 전략 개요
 
-Google AdSense 승인 및 수익 창출을 위해 `ads.txt` 파일 설정이 필수적입니다.
-현재 프로젝트의 `public/ads.txt` 파일은 **임시 값(Placeholder)**으로 설정되어 있습니다.
+- **자동 광고(Auto Ads):** **OFF** (AdSense 콘솔에서 비활성화 권장)
+- **수동 광고(Manual Units):** 필요한 위치에 `<AdUnit />` 컴포넌트를 직접 배치하여 디자인을 제어합니다.
+- **배치 위치:**
+  1.  **Top (`container-ad-top`):** 헤더 직후, 본문 시작 전 (높은 주목도)
+  2.  **Bottom (`article-ad-bottom`):** 본문 끝, 댓글/공유 섹션 위 (전환 유도)
 
-### 설정 방법
+## 2. 주요 설정 파일
 
-1.  **Google AdSense 로그인:** [AdSense 계정](https://www.google.com/adsense)에 로그인합니다.
-2.  **게시자 ID 확인:**
-    - `계정` > `설정` > `계정 정보` 메뉴로 이동합니다.
-    - `게시자 ID` (예: `pub-1234567890123456`)를 복사합니다.
-3.  **파일 수정:**
-    - 프로젝트 루트의 `public/ads.txt` 파일을 엽니다.
-    - 아래 내용을 본인의 정보로 수정합니다.
+### A. `public/ads.txt`
+
+Google AdSense 승인을 위한 필수 파일입니다. (현재 설정 완료됨)
 
 ```text
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-3431175239292021, DIRECT, f08c47fec0942fa0
 ```
 
-> **변경 예시:**
-> `google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0`
+### B. `src/components/AdUnit.astro`
 
-4.  **배포:** 수정된 파일을 커밋하고 배포합니다.
+재사용 가능한 광고 단위 컴포넌트입니다.
 
-## 2. 자동 광고 설정 (선택)
+- **기능:** 개발 환경(`dev`)에서는 Placeholder 표시, 배포 환경(`prod`)에서는 실제 광고 표시.
+- **CLS 방지:** `min-height: 280px` 설정으로 광고 로딩 전 레이아웃 밀림 방지.
+- **Props:**
+  - `slotId`: AdSense 광고 단위 ID (필수)
+  - `label`: 광고 라벨 텍스트 (기본값: "ADVERTISEMENT")
+  - `format`: 광고 포맷 (기본값: "auto")
 
-Astro 프로젝트의 공통 레이아웃에 AdSense 스크립트를 추가하면 사이트 전역에 자동 광고가 노출됩니다.
+## 3. 광고 단위 ID 정보
 
-**파일:** `src/layouts/Layout.astro` 또는 `src/components/BaseHtml.astro`
+현재 사용 중인 광고 단위(Slot ID)입니다. **수정 시 `src/layouts/Layout.astro`를 변경하세요.**
 
-```html
-<head>
-  <!-- Google AdSense -->
-  <script
-    async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456"
-    crossorigin="anonymous"
-  ></script>
-</head>
+| 위치       | 이름             | Slot ID      | 형식                 |
+| :--------- | :--------------- | :----------- | :------------------- |
+| **Top**    | `HP_Post_Top`    | `7945897337` | Display (Responsive) |
+| **Bottom** | `HP_Post_Bottom` | `8812266186` | Display (Responsive) |
+
+## 4. 사용 방법
+
+페이지나 레이아웃 파일에서 다음과 같이 사용합니다.
+
+```astro
+---
+import AdUnit from "../components/AdUnit.astro";
+---
+
+<!-- 상단 광고 -->
+<AdUnit slotId="7945897337" className="container-ad-top" />
+
+<slot />
+
+<!-- 하단 광고 -->
+<AdUnit slotId="8812266186" className="article-ad-bottom" />
 ```
 
-> **Note:** `ca-pub-...` 부분을 본인의 게시자 ID로 변경하세요.
+## 5. 트러블슈팅
 
-## 3. 검증
-
-배포 후 브라우저에서 `https://helloprompt.kr/ads.txt`로 접속하여 본인의 게시자 ID가 올바르게 표시되는지 확인합니다.
+- **개발 서버에서 광고가 안 보여요:** 정상입니다. 개발 중 클릭 방지를 위해 회색 박스만 표시됩니다.
+- **배포 후 빈 공간만 나와요:**
+  - `ads.txt`가 올바른지 확인하세요.
+  - 신규 광고 단위는 활성화까지 최대 1시간이 걸릴 수 있습니다.
+  - 브라우저의 **광고 차단(AdBlock)** 확장 프로그램을 끄고 확인하세요.
+- **자동 광고가 계속 떠요:** Google AdSense 콘솔 > 사이트 기준 > 설정에서 [자동 광고]가 켜져 있는지 확인하고 끄세요.

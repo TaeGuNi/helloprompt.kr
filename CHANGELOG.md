@@ -4,18 +4,27 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.0.12] (2026-02-08)
 
+### Features
+
+- **AdSense:**
+  - `public/ads.txt` 파일 추가 (Google AdSense 연동 준비).
+  - `<AdUnit />` 컴포넌트 추가 (수동 광고 배치 지원, Placeholder 기능).
+  - 레이아웃(Top, Bottom)에 수동 광고 슬롯(`7945897337`, `8812266186`) 배치.
+  - "Manual Strategy" 적용 (자동 광고 OFF).
+
 ### Refactoring
 
 - **i18n:** `src/i18n/languages.ts` 도입하여 언어 설정 중앙화 (Single Source of Truth 적용).
 - **Routing:** 반복되던 `getStaticPaths` 코드를 `getLangStaticPaths` 헬퍼 함수로 대체 (RSS, Atom, Pages 적용).
+- **Optimization:** `Layout.astro` 스크립트에 `is:inline` 속성 추가로 Astro 빌드 경고 해결.
 
 ### Testing
 
 - **E2E:** `tests/seo-og.spec.ts`의 `@vercel/og` 테스트 스킵 해제 및 정상 작동 확인.
 
-### Features
+### Documentation
 
-- **AdSense:** `public/ads.txt` 파일 추가 (Google AdSense 연동 준비).
+- **Guide:** `docs/ADSENSE_GUIDE.md` 업데이트 (Manual Strategy 기준).
 
 ### [0.0.11](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.10...v0.0.11) (2026-02-05)
 

@@ -30,49 +30,11 @@ import BaseHtml from "../components/BaseHtml.astro";
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
 
-// 추천 글 (Related Posts) 로직 - 잠시 비활성화 (i is not defined 에러 원인 분석 중)
-// const globbedPosts = import.meta.glob("/src/pages/**/posts/*.md", {
-//   eager: true,
-// });
-
-// const relatedPosts = Object.entries(globbedPosts)
-//   .map(([path, post]: [string, any]) => {
-//     return {
-//       path,
-//       ...post,
-//       frontmatter: post.frontmatter,
-//     };
-//   })
-//   .filter((post) => {
-//     // 1. 현재 언어 필터링
-//     if (currentLang === "ko") {
-//       // 한국어: /src/pages/posts/ 포함, 다른 언어 폴더 제외
-//       const isKoPost =
-//         post.path.includes("/src/pages/posts/") &&
-//         !post.path.match(/\/src\/pages\/[^/]+\/posts\//);
-//       if (!isKoPost) return false;
-//     } else {
-//       // 외국어: /src/pages/[lang]/posts/ 포함
-//       const isLangPost = post.path.includes(`/src/pages/${currentLang}/posts/`);
-//       if (!isLangPost) return false;
-//     }
-
-//     // 2. 카테고리 일치 & 현재 글 제외
-//     return (
-//       post.frontmatter.category === frontmatter.category &&
-//       post.frontmatter.title !== frontmatter.title
-//     );
-//   })
-//   .sort(() => 0.5 - Math.random()) // Shuffle
-//   .slice(0, 3);
-
+// 추천 글 (Related Posts) 로직
 const relatedPosts: any[] = [];
 
 import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
-
-// const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang); // Already exists above
-// const t = uiStrings[currentLang] || uiStrings["ko"]; // Already exists above
 ---
 
 <BaseHtml lang={frontmatter.lang}>
@@ -715,7 +677,7 @@ import AdUnit from "../components/AdUnit.astro";
       }
 
       {/* --- AD: Article Top (After Header) --- */}
-      {!isHome && <AdUnit slotId="1234567890" className="container-ad-top" />}
+      {!isHome && <AdUnit slotId="7945897337" className="container-ad-top" />}
 
       {
         !isHome && headings && headings.length > 0 && (
@@ -782,7 +744,7 @@ import AdUnit from "../components/AdUnit.astro";
             </div>
 
             {/* --- AD: Article Bottom (Before Comments/Related) --- */}
-            <AdUnit slotId="0987654321" className="article-ad-bottom" />
+            <AdUnit slotId="8812266186" className="article-ad-bottom" />
 
             <slot />
           </article>
@@ -827,7 +789,7 @@ import AdUnit from "../components/AdUnit.astro";
         </p>
       </footer>
     </div>
-    <script>
+    <script is:inline>
       document.addEventListener("DOMContentLoaded", () => {
         // --- 2. Copy Button Logic ---
         const wrappers = document.querySelectorAll(
@@ -849,9 +811,7 @@ import AdUnit from "../components/AdUnit.astro";
           btn.addEventListener("click", async () => {
             try {
               // 텍스트 추출 (타입 단언 추가)
-              const element = wrapper.querySelector(
-                "pre, blockquote",
-              ) as HTMLElement;
+              const element = wrapper.querySelector("pre, blockquote");
               const content = element?.innerText || "";
 
               await navigator.clipboard.writeText(content);

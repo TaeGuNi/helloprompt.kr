@@ -52,7 +52,7 @@ pnpm run deploy
 ### 🏛️ 기획 및 관리
 
 - [프로젝트 관리 & 로드맵](docs/MANAGEMENT.md): 비전, 일정, KPI
-- [소프트웨어 아ки텍처](docs/ARCHITECTURE.md): 시스템 구조 및 데이터 흐름
+- [소프트웨어 아키텍처](docs/ARCHITECTURE.md): 시스템 구조 및 데이터 흐름
 - [변경 이력 (Changelog)](CHANGELOG.md): 버전별 변경 사항
 
 ### 🎨 디자인 및 콘텐츠
@@ -66,6 +66,7 @@ pnpm run deploy
 - [코딩 스타일 가이드](docs/CODING_STYLE.md): 변수명, 폴더 구조 규칙
 - [Git 커밋 컨벤션](docs/COMMIT_CONVENTION.md): 커밋 메시지 규칙
 - [DevOps & 인프라](docs/DEVOPS.md): 배포 파이프라인 및 테스트 전략
+- [AdSense 가이드](docs/ADSENSE_GUIDE.md): 광고 설정 및 단위 ID 관리
 - [토큰 최적화 가이드](docs/TOKEN_OPTIMIZATION.md): AI 비용 절감 전략
 - [AI 협업 가이드](GEMINI.md): AI 에이전트를 위한 지침서
 

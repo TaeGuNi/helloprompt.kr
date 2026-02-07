@@ -1,15 +1,35 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import type { Post } from "../utils/postUtils";
 
-export async function getStaticPaths({ paginate }: any) {
+interface Page<T = any> {
+  data: T[];
+  start: number;
+  end: number;
+  total: number;
+  currentPage: number;
+  size: number;
+  lastPage: number;
+  url: {
+    current: string;
+    prev: string | undefined;
+    next: string | undefined;
+  };
+}
+
+interface GetStaticPathsOptions {
+  paginate: (data: any[], options: { pageSize: number }) => any[];
+}
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   // 1. 한국어 포스트만 가져오기 (eager load)
   const krPosts = Object.values(
     import.meta.glob("./posts/*.md", { eager: true }),
-  );
+  ) as Post[];
 
   // 2. 날짜순 정렬
   const sortedPosts = krPosts.sort(
-    (a: any, b: any) =>
+    (a, b) =>
       new Date(b.frontmatter.date).valueOf() -
       new Date(a.frontmatter.date).valueOf(),
   );
@@ -18,7 +38,7 @@ export async function getStaticPaths({ paginate }: any) {
   return paginate(sortedPosts, { pageSize: 12 });
 }
 
-const { page } = Astro.props as any;
+const { page } = Astro.props as { page: Page<Post> };
 
 const frontmatter = {
   title: "HOME",
@@ -149,12 +169,21 @@ const frontmatter = {
      * - DOM 조작 최소화
      */
 
+    interface SearchItem {
+      title: string;
+      description: string;
+      url: string;
+      tags?: string[];
+    }
+
     // DOM 요소 참조 (Null Safety)
-    const searchInput = document.getElementById("search-input");
+    const searchInput = document.getElementById(
+      "search-input",
+    ) as HTMLInputElement | null;
     const searchResults = document.getElementById("search-results");
 
     // 검색 데이터 캐시
-    let searchIndex = [];
+    let searchIndex: SearchItem[] = [];
 
     /**
      * 초기 데이터 로드 (비동기)
@@ -174,19 +203,22 @@ const frontmatter = {
      * 디바운스 함수 (성능 최적화)
      * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
      */
-    function debounce(func: any, delay: any) {
-      let timeoutId: any;
-      return (...args: any[]) => {
+    function debounce<T extends (...args: any[]) => void>(
+      func: T,
+      delay: number,
+    ) {
+      let timeoutId: number | undefined;
+      return (...args: Parameters<T>) => {
         clearTimeout(timeoutId);
-        timeoutId = setTimeout(() => func(...args), delay);
+        timeoutId = window.setTimeout(() => func(...args), delay);
       };
     }
 
     /**
      * 검색 실행 및 UI 업데이트
      */
-    function handleSearch(event: any) {
-      const target = event.target;
+    function handleSearch(event: Event) {
+      const target = event.target as HTMLInputElement;
       const query = target.value.trim().toLowerCase();
 
       if (!searchResults) return;
@@ -199,11 +231,11 @@ const frontmatter = {
       }
 
       // 필터링 로직 (제목 또는 태그 일치)
-      const matchedPosts = searchIndex.filter((post: any) => {
+      const matchedPosts = searchIndex.filter((post) => {
         const titleMatch = post.title.toLowerCase().includes(query);
         const tagMatch =
           post.tags &&
-          post.tags.some((tag: any) => tag.toLowerCase().includes(query));
+          post.tags.some((tag) => tag.toLowerCase().includes(query));
         return titleMatch || tagMatch;
       });
 
@@ -213,7 +245,7 @@ const frontmatter = {
     /**
      * 결과 렌더링 (DOM 조작)
      */
-    function renderResults(posts: any) {
+    function renderResults(posts: SearchItem[]) {
       if (!searchResults) return;
 
       searchResults.innerHTML = "";
@@ -231,7 +263,7 @@ const frontmatter = {
       // DocumentFragment를 사용하여 리플로우 최소화
       const fragment = document.createDocumentFragment();
 
-      posts.forEach((post: any) => {
+      posts.forEach((post) => {
         const link = document.createElement("a");
         link.className = "search-item";
         link.href = post.url;
@@ -251,9 +283,9 @@ const frontmatter = {
     }
 
     // 외부 클릭 시 닫기 (UX 개선)
-    document.addEventListener("click", (event: any) => {
+    document.addEventListener("click", (event: MouseEvent) => {
       const target = event.target as HTMLElement;
-      // @ts-ignore
+
       const isClickInside = target.closest(".search-container");
 
       if (!isClickInside && searchResults) {
@@ -270,7 +302,7 @@ const frontmatter = {
 
   <div class="post-grid">
     {
-      page.data.map((post: any) => (
+      page.data.map((post) => (
         <a href={post.url} class="post-card">
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>
@@ -279,7 +311,7 @@ const frontmatter = {
             {post.frontmatter.tags &&
               post.frontmatter.tags
                 .slice(0, 2)
-                .map((tag: any) => <span class="tag-pill">#{tag}</span>)}
+                .map((tag) => <span class="tag-pill">#{tag}</span>)}
           </div>
         </a>
       ))

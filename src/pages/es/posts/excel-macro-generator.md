@@ -89,7 +89,7 @@ Abrir archivo -> Copiar -> Pegar -> Cerrar -> (Repetir 100 veces) -> Salir tarde
 
 ### ✅ Después (Macro IA)
 
-```vba
+```text
 ' ¡Combina 100 archivos con un clic!
 Sub CombineSheets()
     Dim Path As String, Filename As String

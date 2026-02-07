@@ -89,7 +89,7 @@ Open file -> Copy -> Paste -> Close -> (Repeat 100 times) -> Late night work ðŸŒ
 
 ### âœ… After (AI Macro)
 
-```vba
+```text
 ' Merge 100 files with one click!
 Sub CombineSheets()
     Dim Path As String, Filename As String

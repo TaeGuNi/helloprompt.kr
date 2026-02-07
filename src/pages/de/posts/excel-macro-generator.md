@@ -89,7 +89,7 @@ Datei öffnen -> Kopieren -> Einfügen -> Schließen -> (100 Mal wiederholen) ->
 
 ### ✅ Nachher (KI Makro)
 
-```vba
+```text
 ' 100 Dateien mit einem Klick zusammenfügen!
 Sub CombineSheets()
     Dim Path As String, Filename As String

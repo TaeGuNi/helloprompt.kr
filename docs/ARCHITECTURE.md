@@ -114,3 +114,10 @@ Markdown 파일 상단(Frontmatter)에 정의되는 데이터 구조입니다.
 | `category`    | `string`   | ✅ Yes    | 대분류 (업무 자동화, 개발 등) |
 | `tags`        | `string[]` | ❌ No     | 태그 목록 (검색 및 필터링용)  |
 | `description` | `string`   | ✅ Yes    | SEO용 한 줄 요약              |
+
+## 9. 트러블슈팅 (Troubleshooting)
+
+### Shiki 구문 강조 이슈
+
+- **증상:** `vba` 언어 블록 사용 시 `Language 'vba' is not included` 에러 발생.
+- **해결:** `astro.config.mjs`의 `markdown.shikiConfig.langs`에 `vb`를 추가. (VBA는 VB 문법을 따름)

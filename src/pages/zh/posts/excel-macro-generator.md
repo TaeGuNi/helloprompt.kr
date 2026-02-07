@@ -89,7 +89,7 @@ VLOOKUP、数据透视表、条件格式... 每次都要百度吗？
 
 ### ✅ After (AI 宏)
 
-```vba
+```text
 ' 一键合并 100 个文件！
 Sub CombineSheets()
     Dim Path As String, Filename As String

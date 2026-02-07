@@ -89,7 +89,7 @@ tags: ["Excel", "Автоматизация", "VBA", "Лайфхаки"]
 
 ### ✅ После (Макрос ИИ)
 
-```vba
+```text
 ' Объедините 100 файлов одним кликом!
 Sub CombineSheets()
     Dim Path As String, Filename As String

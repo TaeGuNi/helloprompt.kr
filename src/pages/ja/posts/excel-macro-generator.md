@@ -89,7 +89,7 @@ VLOOKUP、ピボットテーブル、条件付き書式... 毎回検索してい
 
 ### ✅ After (AIマクロ)
 
-```vba
+```text
 ' ワンクリックで100ファイルを統合！
 Sub CombineSheets()
     Dim Path As String, Filename As String

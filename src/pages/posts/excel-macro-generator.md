@@ -89,7 +89,7 @@ VLOOKUP, 피벗 테이블, 조건부 서식... 매번 검색하고 계신가요?
 
 ### ✅ After (AI 매크로)
 
-```vba
+```text
 ' 버튼 한 번 클릭으로 100개 파일 취합 완료!
 Sub CombineSheets()
     Dim Path As String, Filename As String

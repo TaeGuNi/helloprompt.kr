@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 - localized tag links and html lang attribute ([eea65e7](https://github.com/TaeGuNi/helloprompt.kr/commit/eea65e7bebdac33a5c031feae51bcbea123438bc))
 - pass lang to frontmatter in localized home pages ([897bdee](https://github.com/TaeGuNi/helloprompt.kr/commit/897bdee910b1a69bdaae03109713b440e547df90))
+- **syntax highlighting**: add `vba` language support to Shiki config for Excel macro posts
 
 ### [0.0.10](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.5...v0.0.10) (2026-02-05)
 

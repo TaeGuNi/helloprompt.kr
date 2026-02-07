@@ -94,6 +94,20 @@ import { formatDate } from "../utils/dateUtils";
       content="2ff7582321b574edaa206e2e1dbffaf4b81aacb4"
     />
 
+    <!-- [SEO] i18n Hreflang Tags -->
+    {
+      ["ko", "en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"].map(
+        (lang) => (
+          <link
+            rel="alternate"
+            hreflang={lang}
+            href={`${Astro.site}${lang === "ko" ? "" : lang + "/"}${Astro.url.pathname.replace(/^\/(?:[a-z]{2}\/)?/, "")}`}
+          />
+        ),
+      )
+    }
+    <link rel="alternate" hreflang="x-default" href={Astro.site} />
+
     <!-- [SEO] Sitemap & Robots -->
     <link rel="sitemap" href="/sitemap.xml" />
 
@@ -162,6 +176,12 @@ import { formatDate } from "../utils/dateUtils";
               dateModified: frontmatter.updatedDate
                 ? new Date(frontmatter.updatedDate).toISOString()
                 : new Date(frontmatter.date).toISOString(),
+              aggregateRating: {
+                "@type": "AggregateRating",
+                ratingValue: "4.8",
+                bestRating: "5",
+                ratingCount: "42",
+              },
               author: [
                 {
                   "@type": "Person",

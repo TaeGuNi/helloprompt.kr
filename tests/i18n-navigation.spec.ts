@@ -25,11 +25,14 @@ test.describe("i18n Navigation Persistence", () => {
     );
     console.log("On post page. Clicking logo...");
 
-    // 3. Click the Logo ("HELLO PROMPT")
-    await page.click("text=HELLO PROMPT");
+    // 3. Click the Logo (".home-link")
+    // Use more specific selector and force click if needed
+    await page.locator(".home-link").click();
+
+    // Explicitly wait for navigation
+    await page.waitForURL(/\/en\/$/);
 
     // 4. Assert URL is English Home (/en/)
-    // If it was buggy, it would go to /
     await expect(page).toHaveURL(/\/en\/$/);
     console.log("Successfully navigated to English Home.");
   });
@@ -41,7 +44,8 @@ test.describe("i18n Navigation Persistence", () => {
     await page.goto("/posts/interview-reverse-question-generator");
 
     // 2. Click the Logo
-    await page.click("text=HELLO PROMPT");
+    await page.locator(".home-link").click();
+    await page.waitForURL(/\/$/);
 
     // 3. Assert URL is Korean Home (/)
     await expect(page).toHaveURL(/\/$/);

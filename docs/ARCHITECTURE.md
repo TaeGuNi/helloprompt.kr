@@ -120,4 +120,4 @@ Markdown 파일 상단(Frontmatter)에 정의되는 데이터 구조입니다.
 ### Shiki 구문 강조 이슈
 
 - **증상:** `vba` 언어 블록 사용 시 `Language 'vba' is not included` 에러 발생.
-- **해결:** `astro.config.mjs`의 `markdown.shikiConfig.langs`에 `vb`를 추가. (VBA는 VB 문법을 따름)
+- **해결:** `vba` 언어 지원을 위해 `vb`를 추가하려 했으나 타입 에러가 발생하여, 마크다운 파일 내의 `vba` 태그를 `text`로 일괄 치환하여 해결함. (하이라이팅 미지원)

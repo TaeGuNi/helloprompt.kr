@@ -36,26 +36,36 @@ const globbedPosts = import.meta.glob("/src/pages/**/posts/*.md", {
 });
 
 const relatedPosts = Object.entries(globbedPosts)
-  .filter(([path]) => {
-    if (currentLang === "ko") {
-      // 한국어 포스트는 /src/pages/posts/ 에 위치 (다른 언어 폴더 제외)
-      return (
-        path.includes("/src/pages/posts/") &&
-        !path.match(/\/src\/pages\/[^/]+\/posts\//)
-      );
-    } else {
-      // 다른 언어는 /src/pages/[lang]/posts/ 에 위치
-      return path.includes(`/src/pages/${currentLang}/posts/`);
-    }
+  .map(([path, post]: [string, any]) => {
+    return {
+      path,
+      ...post,
+      frontmatter: post.frontmatter,
+    };
   })
-  .map(([_, post]) => post as any)
-  .filter(
-    (post: any) =>
+  .filter((post) => {
+    // 1. 현재 언어 필터링
+    if (currentLang === "ko") {
+      // 한국어: /src/pages/posts/ 포함, 다른 언어 폴더 제외
+      const isKoPost =
+        post.path.includes("/src/pages/posts/") &&
+        !post.path.match(/\/src\/pages\/[^/]+\/posts\//);
+      if (!isKoPost) return false;
+    } else {
+      // 외국어: /src/pages/[lang]/posts/ 포함
+      const isLangPost = post.path.includes(`/src/pages/${currentLang}/posts/`);
+      if (!isLangPost) return false;
+    }
+
+    // 2. 카테고리 일치 & 현재 글 제외
+    return (
       post.frontmatter.category === frontmatter.category &&
-      post.frontmatter.title !== frontmatter.title,
-  )
-  .sort(() => 0.5 - Math.random())
+      post.frontmatter.title !== frontmatter.title
+    );
+  })
+  .sort(() => 0.5 - Math.random()) // Shuffle
   .slice(0, 3);
+
 import { formatDate } from "../utils/dateUtils";
 
 // const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang); // Already exists above

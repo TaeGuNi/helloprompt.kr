@@ -18,7 +18,7 @@ test.describe("다국어 기능 테스트", () => {
     // 네비게이션 테스트는 실제 이동을 기다려야 함
     await page.click('a[data-lang="en"]');
 
-    // Then: URL이 /en/을 포함해야 함 (또는 404라도 URL은 바뀌어야 함)
-    await expect(page).toHaveURL(/\/en\//);
+    // Then: URL이 /en/을 포함해야 함 (Trailing Slash 유연성 확보)
+    await expect(page).toHaveURL(/\/en\/?$/);
   });
 });

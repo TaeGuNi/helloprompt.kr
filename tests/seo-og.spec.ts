@@ -17,8 +17,8 @@ test.describe("SEO & OG Image", () => {
   });
 
   test("Post page has Article JSON-LD", async ({ page }) => {
-    // 아무 포스트나 하나 들어감 (가장 첫 번째 글)
-    await page.goto("/posts/hello-world");
+    // 실제 존재하는 포스트로 변경 (엑셀 매크로 생성기)
+    await page.goto("/posts/excel-macro-generator");
 
     const jsonLd = page.locator('script[type="application/ld+json"]');
     await expect(jsonLd).toHaveCount(1);
@@ -32,7 +32,7 @@ test.describe("SEO & OG Image", () => {
   });
 
   test("Post page has Dynamic OG Image meta tag", async ({ page }) => {
-    await page.goto("/posts/hello-world");
+    await page.goto("/posts/excel-macro-generator");
 
     const ogImage = page.locator('meta[property="og:image"]');
     await expect(ogImage).toHaveCount(1);

@@ -56,7 +56,7 @@ pnpm test --coverage
 ## 4. 인프라 (Infrastructure)
 
 - **Platform:** Vercel (Serverless / Edge Network)
-- **Node Version:** Node.js 18+ (LTS)
+- **Node Version:** Node.js v24.13.0 (LTS)
 - **Package Manager:** pnpm (Strict Mode)
 
 ## 5. 모니터링 & 유지보수 (Monitoring)

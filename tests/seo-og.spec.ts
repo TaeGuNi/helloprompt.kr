@@ -41,13 +41,13 @@ test.describe("SEO & OG Image", () => {
     expect(url).toContain("/api/og?title=");
   });
 
-  // Skip this test in local environment because @vercel/og requires Vercel Edge Runtime
-  test.skip("OG Image API returns valid image", async ({ page }) => {
+  // Unskipped: @vercel/og works in local Node.js environment with Astro
+  test("OG Image API returns valid image", async ({ page }) => {
     // API 직접 호출
     const response = await page.request.get("/api/og?title=Test%20Title");
 
     expect(response.status()).toBe(200);
-    // Vercel OG는 보통 image/png 또는 image/svg+xml 등을 반환
-    expect(response.headers()["content-type"]).toMatch(/image\//);
+    // Vercel OG returns image/png
+    expect(response.headers()["content-type"]).toBe("image/png");
   });
 });

@@ -89,7 +89,8 @@ graph TD
 
 - **대상:** `src/utils/*.ts` (순수 로직)
 - **내용:** 날짜 변환 함수(`dateUtils`), 언어 감지 로직 등
-- **실행:** `pnpm test`
+- **목표:** **100% Coverage** 달성 및 유지 (Statements, Branches, Functions, Lines)
+- **실행:** `pnpm test` (커버리지 확인: `pnpm test -- --coverage`)
 
 ### E2E Test (Playwright)
 

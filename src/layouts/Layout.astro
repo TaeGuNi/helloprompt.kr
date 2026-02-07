@@ -123,6 +123,63 @@ import { formatDate } from "../utils/dateUtils";
     <meta property="og:site_name" content="Hello Prompt" />
     <meta property="og:image" content="https://helloprompt.kr/og-image.svg" />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@helloprompt" />
+    <meta name="twitter:creator" content="@CosmicZenJay" />
+    <meta name="twitter:title" content={frontmatter.title} />
+    <meta name="twitter:description" content={frontmatter.description} />
+    <meta
+      name="twitter:image"
+      content={isHome
+        ? "https://helloprompt.kr/og-image.svg"
+        : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+    />
+
+    <!-- [SEO] JSON-LD Structured Data -->
+    <script
+      is:inline
+      type="application/ld+json"
+      set:html={JSON.stringify(
+        isHome
+          ? {
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Hello Prompt",
+              url: Astro.site,
+              description: t.slogan,
+              potentialAction: {
+                "@type": "SearchAction",
+                target: `${Astro.site}search?q={search_term_string}`,
+                "query-input": "required name=search_term_string",
+              },
+            }
+          : {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              headline: frontmatter.title,
+              description: frontmatter.description,
+              image: `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`,
+              datePublished: new Date(frontmatter.date).toISOString(),
+              dateModified: frontmatter.updatedDate
+                ? new Date(frontmatter.updatedDate).toISOString()
+                : new Date(frontmatter.date).toISOString(),
+              author: [
+                {
+                  "@type": "Person",
+                  name: frontmatter.author || "Zzabbis",
+                  url: "https://helloprompt.kr/about",
+                },
+              ],
+              publisher: {
+                "@type": "Organization",
+                name: "Hello Prompt",
+                logo: {
+                  "@type": "ImageObject",
+                  url: "https://helloprompt.kr/favicon.svg",
+                },
+              },
+            },
+      )}
+    />
 
     <!-- [Fonts] Orbitron (Title), Noto Sans KR (Body), JetBrains Mono (Code) -->
     <link

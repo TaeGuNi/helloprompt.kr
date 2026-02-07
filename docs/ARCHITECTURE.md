@@ -29,6 +29,7 @@ graph TD
 
     User[User] -->|Request| CDN
     User -->|Search| Index[search.json]
+    User -->|Share| OG[Dynamic OG Image API]
 ```
 
 ## 4. 디렉토리 구조 및 역할 (Component Hierarchy)
@@ -44,6 +45,7 @@ graph TD
 - **`[lang]/[...page].astro`**: 다국어(9개국) 메인 페이지.
 - **`[lang]/posts/*.md`**: 다국어 콘텐츠 데이터.
 - **`tags/[tag].astro`**: 동적 라우팅을 통해 태그별 아카이브 페이지를 생성합니다.
+- **`api/og.ts`**: 동적 OG 이미지를 생성하는 Edge Function입니다.
 
 ## 5. 국제화 및 시간 전략 (i18n & Timezone)
 
@@ -63,7 +65,22 @@ graph TD
   - `en` → `America/New_York`
   - `de` → `Europe/Berlin`
 
-## 6. 테스트 전략 (Testing Strategy)
+## 6. SEO 및 소셜 최적화 (SEO Strategy)
+
+검색엔진과 소셜 미디어에서의 노출을 극대화합니다.
+
+### 🔍 Structured Data (JSON-LD)
+
+- **WebSite:** 메인 페이지에 검색창 정보 포함.
+- **Article:** 개별 포스트에 제목, 설명, 작성자, 날짜 정보 포함.
+
+### 🖼️ Dynamic OG Image
+
+- **엔드포인트:** `/api/og?title=...`
+- **기술:** `@vercel/og` (Satori + Resvg)
+- **기능:** 글 제목을 파라미터로 받아 실시간으로 썸네일 이미지를 생성하여 `og:image` 태그에 삽입합니다.
+
+## 7. 테스트 전략 (Testing Strategy)
 
 안정적인 서비스를 위해 2단계 테스트를 수행합니다.
 
@@ -77,12 +94,13 @@ graph TD
 
 - **대상:** 실제 브라우저 환경
 - **내용:**
-  - 페이지 로딩 및 메타 태그 확인
+  - 페이지 로딩 및 메타 태그 확인 (JSON-LD 포함)
   - RSS/Atom 피드 링크 검증
   - 다국어 전환 기능 작동 확인
+  - Dynamic OG Image API 동작 확인
 - **실행:** `pnpm test:e2e`
 
-## 7. 데이터 스키마 (Data Schema)
+## 8. 데이터 스키마 (Data Schema)
 
 Markdown 파일 상단(Frontmatter)에 정의되는 데이터 구조입니다.
 

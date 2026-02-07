@@ -5,7 +5,7 @@ author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Creates smart reverse questions showing interest in company and job insight when receiving question "Any questions?" at end of interview."
+description: 'Creates smart reverse questions showing interest in company and job insight when receiving question "Any questions?" at end of interview.'
 tags: ["ReverseQuestion", "InterviewTip", "LastWords", "CompanyAnalysis"]
 ---
 

@@ -23,9 +23,10 @@ const { frontmatter, headings, isHome = false } = Astro.props;
 
 import LanguageSwitcher from "../components/LanguageSwitcher.astro";
 import { uiStrings } from "../utils/ui-translation";
+import { determineCurrentLang } from "../utils/i18nUtils";
 import BaseHtml from "../components/BaseHtml.astro";
 
-const currentLang = frontmatter.lang || "ko";
+const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
 
 // 추천 글 (Related Posts) 로직
@@ -552,7 +553,10 @@ const relatedPosts = Object.entries(globbedPosts)
         !isHome && (
           <header>
             <div class="nav-left">
-              <a href="/" class="home-link">
+              <a
+                href={currentLang === "ko" ? "/" : `/${currentLang}/`}
+                class="home-link"
+              >
                 HELLO PROMPT
               </a>
             </div>

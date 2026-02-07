@@ -5,8 +5,9 @@ author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Crea preguntas inversas inteligentes mostrando interés en empresa y perspicacia de trabajo al recibir pregunta "¿Alguna pregunta?" al final de entrevista."
-tags: ["PreguntaInversa", "ConsejoEntrevista", "ÚltimasPalabras", "AnálisisEmpresa"]
+description: 'Crea preguntas inversas inteligentes mostrando interés en empresa y perspicacia de trabajo al recibir pregunta "¿Alguna pregunta?" al final de entrevista.'
+tags:
+  ["PreguntaInversa", "ConsejoEntrevista", "ÚltimasPalabras", "AnálisisEmpresa"]
 ---
 
 # 📝 ¡Última Arma Definitiva de Entrevista! Generador de 'Pregunta Inversa' para Preguntar al Entrevistador

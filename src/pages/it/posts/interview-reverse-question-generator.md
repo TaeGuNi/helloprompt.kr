@@ -5,7 +5,7 @@ author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Crea domande inverse intelligenti mostrando interesse in azienda e intuizione lavoro quando ricevi domanda "Qualche domanda?" alla fine del colloquio."
+description: 'Crea domande inverse intelligenti mostrando interesse in azienda e intuizione lavoro quando ricevi domanda "Qualche domanda?" alla fine del colloquio.'
 tags: ["DomandaInversa", "ConsiglioColloquio", "UltimeParole", "AnalisiAzienda"]
 ---
 

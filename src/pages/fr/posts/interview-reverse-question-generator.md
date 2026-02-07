@@ -5,8 +5,9 @@ author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Crée des questions inverses intelligentes montrant l'intérêt pour l'entreprise et la perspicacité du poste lors de la réception de la question "Des questions ?" à la fin de l'entretien."
-tags: ["QuestionInverse", "AstuceEntretien", "DerniersMots", "AnalyseEntreprise"]
+description: 'Crée des questions inverses intelligentes montrant l''intérêt pour l''entreprise et la perspicacité du poste lors de la réception de la question "Des questions ?" à la fin de l''entretien.'
+tags:
+  ["QuestionInverse", "AstuceEntretien", "DerniersMots", "AnalyseEntreprise"]
 ---
 
 # 📝 Dernière Arme Ultime d'Entretien ! Générateur de 'Question Inverse' à Poser à l'Intervieweur

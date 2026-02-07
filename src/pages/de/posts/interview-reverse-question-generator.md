@@ -5,7 +5,7 @@ author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Erstellt intelligente Rückfragen, die Interesse am Unternehmen und Jobeinsicht zeigen, wenn Frage "Irgendwelche Fragen?" am Ende des Interviews erhalten wird."
+description: 'Erstellt intelligente Rückfragen, die Interesse am Unternehmen und Jobeinsicht zeigen, wenn Frage "Irgendwelche Fragen?" am Ende des Interviews erhalten wird.'
 tags: ["Rückfrage", "InterviewTipp", "LetzteWorte", "Unternehmensanalyse"]
 ---
 

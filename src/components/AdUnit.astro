@@ -1,0 +1,58 @@
+---
+interface Props {
+  slotId: string;
+  format?: "auto" | "fluid" | "rectangle";
+  responsive?: boolean;
+  className?: string;
+}
+
+const {
+  slotId,
+  format = "auto",
+  responsive = true,
+  className = "",
+} = Astro.props;
+const PUBLISHER_ID = "ca-pub-3431175239292021";
+const isDev = import.meta.env.DEV;
+---
+
+<div
+  class:list={[
+    "ad-container my-8 flex justify-center overflow-hidden min-h-[100px]",
+    className,
+  ]}
+>
+  {
+    isDev ? (
+      /* 개발 환경용 플레이스홀더 */
+      <div class="w-full h-32 bg-gray-100 dark:bg-gray-800 border-2 border-dashed border-gray-300 dark:border-gray-700 flex flex-col items-center justify-center text-gray-400 rounded-lg">
+        <span class="font-bold">Google AdSense</span>
+        <span class="text-xs">
+          Slot: {slotId} ({format})
+        </span>
+      </div>
+    ) : (
+      /* 실제 광고 코드 */
+      <>
+        <ins
+          class="adsbygoogle"
+          style="display:block"
+          data-ad-client={PUBLISHER_ID}
+          data-ad-slot={slotId}
+          data-ad-format={format}
+          data-full-width-responsive={responsive}
+        />
+        <script is:inline>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </>
+    )
+  }
+</div>
+
+<style>
+  /* CLS 방지를 위한 최소 높이 */
+  .ad-container {
+    min-height: 250px;
+  }
+</style>

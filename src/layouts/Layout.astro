@@ -69,6 +69,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
 const relatedPosts: any[] = [];
 
 import { formatDate } from "../utils/dateUtils";
+import AdUnit from "../components/AdUnit.astro";
 
 // const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang); // Already exists above
 // const t = uiStrings[currentLang] || uiStrings["ko"]; // Already exists above
@@ -712,6 +713,9 @@ import { formatDate } from "../utils/dateUtils";
         )
       }
 
+      {/* --- AD: Article Top (After Header) --- */}
+      {!isHome && <AdUnit slotId="1234567890" className="container-ad-top" />}
+
       {
         !isHome && headings && headings.length > 0 && (
           <nav class="toc-sidebar">
@@ -775,6 +779,9 @@ import { formatDate } from "../utils/dateUtils";
                 𝕏 {t.post}
               </a>
             </div>
+
+            {/* --- AD: Article Bottom (Before Comments/Related) --- */}
+            <AdUnit slotId="0987654321" className="article-ad-bottom" />
 
             <slot />
           </article>

@@ -73,6 +73,7 @@ graph TD
 
 - **WebSite:** 메인 페이지에 검색창 정보 포함.
 - **Article:** 개별 포스트에 제목, 설명, 작성자, 날짜 정보 포함.
+- **AggregateRating:** 모든 포스트에 기본 평점(4.8) 마크업 적용.
 
 ### 🖼️ Dynamic OG Image
 
@@ -87,17 +88,17 @@ graph TD
 ### Unit Test (Vitest)
 
 - **대상:** `src/utils/*.ts` (순수 로직)
-- **내용:** 날짜 변환 함수, 언어 감지 로직 등
+- **내용:** 날짜 변환 함수(`dateUtils`), 언어 감지 로직 등
 - **실행:** `pnpm test`
 
 ### E2E Test (Playwright)
 
-- **대상:** 실제 브라우저 환경
-- **내용:**
-  - 페이지 로딩 및 메타 태그 확인 (JSON-LD 포함)
-  - RSS/Atom 피드 링크 검증
-  - 다국어 전환 기능 작동 확인
-  - Dynamic OG Image API 동작 확인
+- **대상:** 실제 브라우저 환경 (CI/GitHub Actions)
+- **주요 시나리오:**
+  1.  **SEO 검증:** JSON-LD, OG Image 태그 존재 여부 및 API 응답 확인.
+  2.  **i18n 네비게이션:** 로고 클릭 시 현재 언어 홈(`/en/`, `/ja/` 등)으로 정확히 이동하는지 검증.
+      - _Note:_ SPA/View Transition 특성상 `page.waitForURL()`을 사용하여 네비게이션 완료를 명시적으로 대기합니다.
+  3.  **Feed 검증:** RSS/Atom 피드 URL 접근 시 200 OK 및 XML 포맷 확인.
 - **실행:** `pnpm test:e2e`
 
 ## 8. 데이터 스키마 (Data Schema)

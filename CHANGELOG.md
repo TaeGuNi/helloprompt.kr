@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12] (2026-02-08)
+
+### Refactoring
+
+- **i18n:** `src/i18n/languages.ts` 도입하여 언어 설정 중앙화 (Single Source of Truth 적용).
+- **Routing:** 반복되던 `getStaticPaths` 코드를 `getLangStaticPaths` 헬퍼 함수로 대체 (RSS, Atom, Pages 적용).
+
+### Testing
+
+- **E2E:** `tests/seo-og.spec.ts`의 `@vercel/og` 테스트 스킵 해제 및 정상 작동 확인.
+
+### Features
+
+- **AdSense:** `public/ads.txt` 파일 추가 (Google AdSense 연동 준비).
+
 ### [0.0.11](https://github.com/TaeGuNi/helloprompt.kr/compare/v0.0.10...v0.0.11) (2026-02-05)
 
 ### Features

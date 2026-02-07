@@ -147,7 +147,12 @@ import { formatDate } from "../utils/dateUtils";
     />
     <meta property="og:description" content={frontmatter.description} />
     <meta property="og:site_name" content="Hello Prompt" />
-    <meta property="og:image" content="https://helloprompt.kr/og-image.svg" />
+    <meta
+      property="og:image"
+      content={isHome
+        ? "https://helloprompt.kr/og-image.svg"
+        : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+    />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@helloprompt" />
     <meta name="twitter:creator" content="@CosmicZenJay" />

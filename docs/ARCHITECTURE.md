@@ -1,6 +1,6 @@
 # 🏛️ 소프트웨어 아키텍처 (Software Architecture)
 
-Hello Prompt 프로젝트의 기술적 구조와 설계 원칙을 설명합니다.
+Hello Prompt (Help) 프로젝트의 기술적 구조와 설계 원칙을 설명합니다.
 
 ## 1. 시스템 개요 (System Overview)
 
@@ -31,10 +31,6 @@ graph TD
     User -->|Search| Index[search.json]
 ```
 
-1.  **작성:** 사용자가 `.md` 파일을 작성합니다.
-2.  **빌드:** Astro가 빌드 타임에 모든 파일을 읽어 HTML로 변환합니다.
-3.  **검색:** 빌드 시점에 제목/태그만 추출하여 `search.json`을 생성하고, 브라우저에서 이를 다운로드하여 검색합니다.
-
 ## 4. 디렉토리 구조 및 역할 (Component Hierarchy)
 
 ### Layout Layer (`src/layouts/`)
@@ -49,26 +45,42 @@ graph TD
 - **`[lang]/posts/*.md`**: 다국어 콘텐츠 데이터.
 - **`tags/[tag].astro`**: 동적 라우팅을 통해 태그별 아카이브 페이지를 생성합니다.
 
-## 5. 확장성 및 기술 부채 (Scalability)
+## 5. 국제화 및 시간 전략 (i18n & Timezone)
 
-### 현재 구조 (Phase 1)
+**Global First** 원칙에 따라 다국어와 타임존을 체계적으로 관리합니다.
 
-- **방식:** `Astro.glob`을 사용한 파일 시스템 접근
-- **장점:** 설정이 간편하고 직관적임
-- **한계:** 글이 1,000개 이상으로 늘어날 경우 빌드 메모리 부족 우려
+### 🌍 i18n (Internationalization)
 
-### 미래 구조 (Phase 2 - Planned)
+- **URL 구조:** `/{lang}/` 프리픽스를 사용하여 언어를 구분합니다. (한국어는 `/` 루트 사용)
+- **RSS/Atom:** 언어별 피드를 별도로 생성합니다. (예: `/en/rss.xml`, `/ja/atom.xml`)
+- **지원 언어:** KO, EN, DE, ES, FR, IT, JA, PT, RU, ZH (총 10개국)
 
-- **방식:** **Content Collections (`src/content/`)** 도입
-- **이점:**
-  - Zod 스키마를 통한 강력한 타입 검증 (Type Safety)
-  - 대량의 콘텐츠 처리 시 성능 최적화
-  - Markdown 외에 MDX, JSON 등 다양한 소스 지원
+### ⏰ Timezone Strategy
 
-## 6. 디자인 패턴 (Design Patterns)
+- **저장 (Storage):** 모든 시간 데이터는 **UTC (ISO 8601)** 기준으로 저장합니다.
+- **표시 (Display):** `src/utils/dateUtils.ts`를 통해 사용자의 언어(`lang`)에 맞는 **로컬 타임존**으로 변환하여 표시합니다.
+  - `ko` → `Asia/Seoul`
+  - `en` → `America/New_York`
+  - `de` → `Europe/Berlin`
 
-- **Island Architecture:** 검색창 등 상호작용이 필요한 부분만 JS를 로드하여 성능을 극대화합니다.
-- **Utility-First CSS:** 별도의 CSS 라이브러리 없이 Scoped CSS를 사용하여 가볍게 유지합니다.
+## 6. 테스트 전략 (Testing Strategy)
+
+안정적인 서비스를 위해 2단계 테스트를 수행합니다.
+
+### Unit Test (Vitest)
+
+- **대상:** `src/utils/*.ts` (순수 로직)
+- **내용:** 날짜 변환 함수, 언어 감지 로직 등
+- **실행:** `pnpm test`
+
+### E2E Test (Playwright)
+
+- **대상:** 실제 브라우저 환경
+- **내용:**
+  - 페이지 로딩 및 메타 태그 확인
+  - RSS/Atom 피드 링크 검증
+  - 다국어 전환 기능 작동 확인
+- **실행:** `pnpm test:e2e`
 
 ## 7. 데이터 스키마 (Data Schema)
 
@@ -77,7 +89,8 @@ Markdown 파일 상단(Frontmatter)에 정의되는 데이터 구조입니다.
 | 필드명        | 타입       | 필수 여부 | 설명                          |
 | :------------ | :--------- | :-------- | :---------------------------- |
 | `title`       | `string`   | ✅ Yes    | 글 제목 (H1)                  |
-| `date`        | `string`   | ✅ Yes    | 발행일 (YYYY-MM-DD)           |
+| `date`        | `string`   | ✅ Yes    | 발행일 (UTC ISO 8601)         |
+| `updatedDate` | `string`   | ❌ No     | 수정일 (UTC ISO 8601)         |
 | `author`      | `string`   | ✅ Yes    | 작성자 (기본값: Zzabbis)      |
 | `category`    | `string`   | ✅ Yes    | 대분류 (업무 자동화, 개발 등) |
 | `tags`        | `string[]` | ❌ No     | 태그 목록 (검색 및 필터링용)  |

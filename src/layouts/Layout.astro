@@ -10,6 +10,7 @@ export interface Props {
     title: string;
     description: string;
     date: string;
+    updatedDate?: string;
     author: string;
     category?: string;
     tags?: string[];
@@ -55,6 +56,10 @@ const relatedPosts = Object.entries(globbedPosts)
   )
   .sort(() => 0.5 - Math.random())
   .slice(0, 3);
+import { formatDate } from "../utils/dateUtils";
+
+// const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang); // Already exists above
+// const t = uiStrings[currentLang] || uiStrings["ko"]; // Already exists above
 ---
 
 <BaseHtml lang={frontmatter.lang}>
@@ -75,7 +80,13 @@ const relatedPosts = Object.entries(globbedPosts)
       gtag("config", "G-P5MFF2LHX1");
     </script>
 
-    <title>{frontmatter.title} | Hello Prompt</title>
+    <title>
+      {
+        isHome
+          ? `Hello Prompt | ${t.slogan || "AI가 낯선 당신을 위한 가장 친절한 가이드"}`
+          : `${frontmatter.title} | Hello Prompt`
+      }
+    </title>
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content={frontmatter.description} />
     <meta
@@ -101,8 +112,13 @@ const relatedPosts = Object.entries(globbedPosts)
     />
 
     <!-- [Social] Open Graph (SNS 공유 미리보기) -->
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content={frontmatter.title} />
+    <meta property="og:type" content={isHome ? "website" : "article"} />
+    <meta
+      property="og:title"
+      content={isHome
+        ? `Hello Prompt | ${t.slogan || "AI가 낯선 당신을 위한 가장 친절한 가이드"}`
+        : frontmatter.title}
+    />
     <meta property="og:description" content={frontmatter.description} />
     <meta property="og:site_name" content="Hello Prompt" />
     <meta property="og:image" content="https://helloprompt.kr/og-image.svg" />
@@ -113,6 +129,9 @@ const relatedPosts = Object.entries(globbedPosts)
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@300;400;700&family=JetBrains+Mono:wght@400&display=swap"
       rel="stylesheet"
     />
+
+    <!-- [Favicon] -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
     <style is:global>
       /* --- 1. Global Reset & Typography --- */
@@ -617,7 +636,14 @@ const relatedPosts = Object.entries(globbedPosts)
           <article>
             <h1>{frontmatter.title}</h1>
             <div class="meta">
-              {t.author}: {frontmatter.author} // {t.date}: {frontmatter.date}
+              {t.author}: {frontmatter.author} //
+              {t.date}: {formatDate(frontmatter.date, currentLang)}
+              {frontmatter.updatedDate && (
+                <>
+                  <br />
+                  (Updated: {formatDate(frontmatter.updatedDate, currentLang)})
+                </>
+              )}
             </div>
 
             {frontmatter.tags && frontmatter.tags.length > 0 && (
@@ -678,11 +704,13 @@ const relatedPosts = Object.entries(globbedPosts)
         </p>
         <p style="margin-top:10px; font-size: 0.7rem;">
           <a
-            href="/rss.xml"
+            href={currentLang === "ko" ? "/rss.xml" : `/${currentLang}/rss.xml`}
             style="color:#666; text-decoration:none; margin-right:10px;">RSS</a
           >
           <a
-            href="/atom.xml"
+            href={currentLang === "ko"
+              ? "/atom.xml"
+              : `/${currentLang}/atom.xml`}
             style="color:#666; text-decoration:none; margin-right:10px;">ATOM</a
           >
           <a href="/privacy" style="color:#666; text-decoration:none;"

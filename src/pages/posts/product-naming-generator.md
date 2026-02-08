@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "팔리는 제품 이름 짓기: 네이밍 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.131Z"
+updatedDate: "2026-02-07T09:10:33.131Z"
 category: "마케팅/카피라이팅"
 description: "브랜드 정체성을 담은 매력적인 제품명을 3초 만에 뽑아내는 프롬프트입니다."
 tags: ["마케팅", "네이밍", "브랜딩", "카피라이팅"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "엑셀 지옥 탈출: 야근을 삭제하는 한 문장"
 author: "Zzabbis"
-date: "2026-02-07"
-updatedDate: "2026-02-07"
+date: "2026-02-07T09:10:33.126Z"
+updatedDate: "2026-02-07T09:10:33.126Z"
 category: "업무 생산성"
 description: "복잡한 엑셀 수식, VBA 매크로... AI에게 말만 하면 코드가 쏟아집니다."
 tags: ["엑셀", "업무자동화", "VBA", "칼퇴"]

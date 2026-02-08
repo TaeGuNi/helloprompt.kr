@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: '"단점이 뭔가요?" 치명적인 약점 질문 방어 프롬프트'
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.121Z"
+updatedDate: "2026-02-07T09:10:33.122Z"
 category: "취업 & 이직"
 description: "면접에서 가장 대답하기 곤란한 '약점(Weakness)' 질문을 솔직하면서도 치명적이지 않게, 오히려 개선 의지가 돋보이게 포장합니다."
 tags: ["면접질문", "성격의장단점", "약점방어", "압박면접"]

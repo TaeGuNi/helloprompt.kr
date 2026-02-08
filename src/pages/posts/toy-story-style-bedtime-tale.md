@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "장난감들의 밤: '토이스토리' 스타일 동화"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.101Z"
+updatedDate: "2026-02-07T09:10:33.101Z"
 category: "육아 & 교육"
 description: "아이가 아끼는 애착 인형들이 밤마다 벌이는 비밀 파티"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

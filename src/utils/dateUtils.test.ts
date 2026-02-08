@@ -44,4 +44,13 @@ describe("dateUtils", () => {
     expect(result).toBeTruthy();
     expect(result).toContain("2026");
   });
+
+  it("returns date only when options.dateOnly is true", () => {
+    // KST 2026-02-07 13:30 -> 2026. 2. 7. (or similar format without time)
+    const result = formatDate(TEST_ISO_DATE, "ko", { dateOnly: true });
+    expect(result).not.toContain("오후");
+    expect(result).not.toContain(":");
+    expect(result).toContain("2026");
+    expect(result).toContain("2월 7일");
+  });
 });

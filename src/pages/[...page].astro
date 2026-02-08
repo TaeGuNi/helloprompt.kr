@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import type { Post } from "../utils/postUtils";
+import { formatDate } from "../utils/dateUtils";
 
 interface Page<T = any> {
   data: T[];
@@ -307,7 +308,9 @@ const frontmatter = {
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>
           <div class="post-meta">
-            <span>{post.frontmatter.date}</span>
+            <span>
+              {formatDate(post.frontmatter.date, "ko", { dateOnly: true })}
+            </span>
             {post.frontmatter.tags &&
               post.frontmatter.tags
                 .slice(0, 2)

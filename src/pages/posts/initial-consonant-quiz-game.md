@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "알파벳/한글 초성 게임: 어휘력 폭발 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.139Z"
+updatedDate: "2026-02-07T09:10:33.139Z"
 category: "육아 & 교육"
 description: "지루한 공부 대신 게임으로 배우는 단어, AI 심판과 함께하세요"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

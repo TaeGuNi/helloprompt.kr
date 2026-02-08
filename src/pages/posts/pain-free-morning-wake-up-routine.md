@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "알람 5개 맞춰도 못 일어나는 당신을 위한 기상 작전"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.117Z"
+updatedDate: "2026-02-07T09:10:33.117Z"
 category: "건강 & 웰니스"
 description: "매일 아침 '5분만 더'를 외치며 좀비처럼 일어나시나요? AI가 설계하는 고통 없는 미라클 모닝 루틴."
 tags: ["기상", "미라클모닝", "습관", "수면", "ChatGPT"]

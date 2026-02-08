@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "혼자 떠나는 배낭여행: 안전하고 알찬 루트 설계법"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.150Z"
+updatedDate: "2026-02-07T09:10:33.150Z"
 category: "여행 & 문화"
 description: "혼행족을 위한 맞춤 가이드. 안전, 예산, 만남까지 고려한 솔로 여행 레시피."
 tags: ["혼행", "배낭여행", "솔로트래블", "안전여행"]

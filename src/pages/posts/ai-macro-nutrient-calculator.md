@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "먹은 음식 사진만 찍으면 끝? AI 매크로 영양소 계산기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.169Z"
+updatedDate: "2026-02-07T09:10:33.169Z"
 category: "건강 & 웰니스"
 description: "복잡한 칼로리 어플 입력은 이제 그만! AI에게 텍스트나 사진으로 알려주고 정확한 탄단지 비율을 계산하는 방법."
 tags: ["매크로", "영양소", "다이어트", "ChatGPT", "식단기록"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "경쟁사 분석, 구글링 100번 대신 프롬프트 한 번으로"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.127Z"
+updatedDate: "2026-02-07T09:10:33.127Z"
 category: "업무 자동화"
 description: "시장 조사와 경쟁사 분석의 프레임워크를 잡아주고 인사이트를 도출하는 마켓 리서치 프롬프트입니다."
 tags: ["시장조사", "경쟁사분석", "마케팅"]

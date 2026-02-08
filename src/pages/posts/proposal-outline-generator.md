@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "거절할 수 없는 제안서 아웃라인 만들기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.164Z"
+updatedDate: "2026-02-07T09:10:33.164Z"
 category: "업무 자동화"
 description: "클라이언트를 설득하는 매력적인 제안서 스토리텔링."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

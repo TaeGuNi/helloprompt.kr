@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "테스트 코드 작성, 5분 만에 끝내는 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.155Z"
+updatedDate: "2026-02-07T09:10:33.155Z"
 category: "코딩/개발"
 description: "지루하고 귀찮은 유닛 테스트(Unit Test) 작성을 AI에게 맡겨보세요. 커버리지 100%에 도전!"
 tags: ["테스트코드", "TDD", "Jest", "PyTest", "QA"]

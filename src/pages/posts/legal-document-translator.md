@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "외계어 같은 법률 용어, 초등학생도 알게 번역하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.171Z"
+updatedDate: "2026-02-07T09:10:33.171Z"
 category: "생활"
 description: "전세 계약서, 약관 등 읽어도 무슨 말인지 모를 어려운 법률 문서를 쉬운 말로 해석해주고 독소 조항을 찾아주는 프롬프트입니다."
 tags: ["법률", "계약서", "생활법률"]

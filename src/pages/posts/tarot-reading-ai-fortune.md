@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "타로 카드 리딩: AI가 점쳐주는 오늘의 운세"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.088Z"
+updatedDate: "2026-02-07T09:10:33.088Z"
 category: "창작 및 취미"
 description: "고민이 있으신가요? AI 타로 마스터가 카드를 뽑고 당신의 미래를 해석해드립니다."
 tags: ["타로", "운세", "점", "고민상담", "심심풀이"]

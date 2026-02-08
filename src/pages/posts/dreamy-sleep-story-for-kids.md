@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "꿈나라 여행 가이드: 몽환적인 수면 유도 스토리"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.153Z"
+updatedDate: "2026-02-07T09:10:33.153Z"
 category: "육아 & 교육"
 description: "잠 못 드는 아이를 위한 명상과 이완 기법이 녹아든 이야기"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

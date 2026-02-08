@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "형제 자매 싸움 중재: 솔로몬의 지혜 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.172Z"
+updatedDate: "2026-02-07T09:10:33.172Z"
 category: "육아 & 교육"
 description: "매일 싸우는 아이들, 공정하게 화해시키고 우애 다지기"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

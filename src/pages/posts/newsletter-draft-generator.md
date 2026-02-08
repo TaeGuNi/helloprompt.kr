@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "구독자를 부르는 뉴스레터 초안 작성하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.154Z"
+updatedDate: "2026-02-07T09:10:33.155Z"
 category: "업무 자동화"
 description: "주제만 던져주면 제목부터 본문, 큐레이션까지 뚝딱."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

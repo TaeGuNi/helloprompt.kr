@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "감정 맞추기 '표정 연기' 게임: 정서 지능 키우기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.141Z"
+updatedDate: "2026-02-07T09:10:33.141Z"
 category: "육아 & 교육"
 description: "아이의 공감 능력과 감정 표현력을 길러주는 AI 상황극 제안"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

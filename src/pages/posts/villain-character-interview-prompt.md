@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "입체적인 악당 만들기: 3단계 심층 인터뷰 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.164Z"
+updatedDate: "2026-02-07T09:10:33.164Z"
 category: "창작 및 취미"
 description: "매력적인 악역은 이야기의 핵심입니다. 악당에게 직접 인터뷰하며 숨겨진 서사를 발굴해보세요."
 tags: ["캐릭터설정", "소설쓰기", "악당", "인터뷰"]

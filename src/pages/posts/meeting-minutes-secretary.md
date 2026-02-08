@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "회의록, 아직도 손으로 정리하시나요? AI로 3분 컷"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.165Z"
+updatedDate: "2026-02-07T09:10:33.165Z"
 category: "업무 자동화"
 description: "중구난방인 회의 스크립트를 깔끔한 요약과 액션 아이템으로 변환하는 비서 프롬프트입니다."
 tags: ["회의록", "요약", "생산성"]

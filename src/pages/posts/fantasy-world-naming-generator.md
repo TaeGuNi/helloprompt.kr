@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "판타지 세계관 속 유니크한 지역명/도시 이름 짓기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.121Z"
+updatedDate: "2026-02-07T09:10:33.121Z"
 category: "창작 및 취미"
 description: "엘프의 숲부터 드워프의 광산까지, 판타지 세계관에 딱 맞는 지명과 도시 이름을 지어보세요."
 tags: ["네이밍", "판타지", "소설", "TRPG", "세계관"]

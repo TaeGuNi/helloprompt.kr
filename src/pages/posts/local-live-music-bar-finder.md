@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "현지 힙스터들이 가는 라이브 바 & 재즈 클럽 찾기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.163Z"
+updatedDate: "2026-02-07T09:10:33.163Z"
 category: "여행 & 문화"
 description: "관광지 식당의 뻔한 BGM은 지겹다. 로컬 뮤지션들의 숨결을 느끼는 음악 여행."
 tags: ["음악여행", "재즈바", "라이브클럽", "현지문화", "밤문화"]

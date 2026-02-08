@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "K-POP 아이돌 타이틀곡 컨셉 및 가사 드래프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.113Z"
+updatedDate: "2026-02-07T09:10:33.113Z"
 category: "창작 및 취미"
 description: "내가 프로듀서라면? 아이돌 그룹의 세계관, 앨범 컨셉, 타이틀곡 가사까지 한 번에 기획해보세요."
 tags: ["K-POP", "아이돌", "세계관", "기획", "작사"]

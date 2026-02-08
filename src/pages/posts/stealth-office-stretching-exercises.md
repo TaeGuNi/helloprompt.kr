@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "사무실 의자에서 몰래 하는 거북목 & 허리 통증 탈출 운동"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.130Z"
+updatedDate: "2026-02-07T09:10:33.131Z"
 category: "건강 & 웰니스"
 description: "동료들 눈치 안 보고 자리에서 바로 할 수 있는 '오피스 스트레칭' 루틴을 소개합니다."
 tags: ["거북목", "오피스요가", "스트레칭", "직장인", "ChatGPT"]

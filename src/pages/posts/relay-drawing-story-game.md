@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "집콕 놀이 끝판왕: '그림 이어 그리다 이야기 만들기'"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.153Z"
+updatedDate: "2026-02-07T09:10:33.153Z"
 category: "육아 & 교육"
 description: "AI가 제시하는 엉뚱한 상황을 그리고 이야기를 연결하는 창의력 놀이"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

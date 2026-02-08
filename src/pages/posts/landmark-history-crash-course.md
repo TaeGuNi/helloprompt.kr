@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "아는 만큼 보인다! 3분 만에 끝내는 랜드마크 역사 속성 과외"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.145Z"
+updatedDate: "2026-02-07T09:10:33.146Z"
 category: "여행 & 문화"
 description: "돌덩이가 살아있는 역사로 변하는 순간. 어려운 설명은 빼고 핵심만 쏙쏙 뽑아주는 AI 도슨트."
 tags: ["역사여행", "인문학", "랜드마크", "지식여행"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "아이디어가 꽉 막혔을 때, 브레인스토밍 파트너"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.148Z"
+updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"
 description: "혼자 고민하지 마세요. SCAMPER 기법으로 아이디어 확장하기."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

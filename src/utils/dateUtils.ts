@@ -11,7 +11,15 @@ export const timezoneMap: Record<string, string> = {
   ru: "Europe/Moscow",
 };
 
-export const formatDate = (dateString: string, lang: string): string => {
+export interface FormatDateOptions {
+  dateOnly?: boolean;
+}
+
+export const formatDate = (
+  dateString: string,
+  lang: string,
+  options: FormatDateOptions = {},
+): string => {
   if (!dateString) return "";
 
   const targetTimezone = timezoneMap[lang] || "UTC";
@@ -22,13 +30,18 @@ export const formatDate = (dateString: string, lang: string): string => {
     return dateString;
   }
 
-  return date.toLocaleString(lang, {
+  const formatOptions: Intl.DateTimeFormatOptions = {
     timeZone: targetTimezone,
     year: "numeric",
     month: "long",
     day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: true,
-  });
+  };
+
+  if (!options.dateOnly) {
+    formatOptions.hour = "2-digit";
+    formatOptions.minute = "2-digit";
+    formatOptions.hour12 = true;
+  }
+
+  return date.toLocaleString(lang, formatOptions);
 };

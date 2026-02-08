@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "쩝쩝 소리 내면 실례? 나라별 식사 예절 완벽 가이드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.159Z"
+updatedDate: "2026-02-07T09:10:33.160Z"
 category: "여행 & 문화"
 description: "로마에 가면 로마 법을 따르듯, 식탁에선 그 나라의 매너를. 실수하기 쉬운 글로벌 테이블 매너."
 tags: ["식사예절", "테이블매너", "글로벌에티켓", "문화차이"]

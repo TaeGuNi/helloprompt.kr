@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "도트로 찍은 세상 'Pixel Art' 레트로 감성"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.166Z"
+updatedDate: "2026-02-07T09:10:33.166Z"
 category: "이미지 생성"
 description: "고전 게임의 향수를 불러일으키는 8비트, 16비트 픽셀 아트 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]

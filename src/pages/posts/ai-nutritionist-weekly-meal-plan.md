@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "AI 영양사: 나만의 맞춤형 일주일 식단표 짜기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.141Z"
+updatedDate: "2026-02-07T09:10:33.141Z"
 category: "건강 & 웰니스"
 description: "AI를 퍼스널 영양사로 활용해 내 목표와 입맛에 딱 맞는 일주일 식단표를 구성하는 방법을 소개합니다."
 tags: ["다이어트", "식단관리", "건강", "ChatGPT", "밀프렙"]

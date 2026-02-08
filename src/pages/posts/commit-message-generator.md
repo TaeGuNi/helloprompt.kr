@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: '"커밋 메시지 추천 좀" 고민 끝! Conventional Commits 자동 생성'
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.123Z"
+updatedDate: "2026-02-07T09:10:33.123Z"
 category: "코딩/개발"
 description: "변경 사항(`git diff`)만 붙여넣으면 전 세계 표준(Conventional Commits)에 맞춘 깔끔한 커밋 메시지를 작성해주는 프롬프트입니다."
 tags: ["Git", "커밋메시지", "협업", "생산성"]

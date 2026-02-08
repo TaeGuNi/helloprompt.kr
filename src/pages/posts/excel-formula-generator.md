@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "엑셀 함수 지옥 탈출! 말만 하면 공식이 뚝딱"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.174Z"
+updatedDate: "2026-02-07T09:10:33.174Z"
 category: "업무 자동화"
 description: "VLOOKUP, INDEX, MATCH... 헷갈리는 엑셀 함수를 자연어 설명만으로 생성해주는 프롬프트입니다."
 tags: ["엑셀", "함수", "데이터분석"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "한눈에 들어오는 KPI 대시보드 기획하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.119Z"
+updatedDate: "2026-02-07T09:10:33.119Z"
 category: "업무 자동화"
 description: "어떤 지표를 봐야 할까? 대시보드 구성 요소와 레이아웃 추천."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

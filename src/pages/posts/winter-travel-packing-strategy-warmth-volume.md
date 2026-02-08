@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "부피 줄이고 보온은 챙기는 겨울 여행 패킹 전략"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.158Z"
+updatedDate: "2026-02-07T09:10:33.158Z"
 category: "여행 & 문화"
 description: "패딩 하나 넣으면 캐리어가 꽉 찬다고요? 겨울 여행 짐 싸기의 모든 것."
 tags: ["겨울여행", "짐싸기", "방한용품", "패킹노하우"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "스마트폰 그만! 스크린 타임 평화 협정 맺기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.147Z"
+updatedDate: "2026-02-07T09:10:33.147Z"
 category: "육아 & 교육"
 description: "싸우지 않고 유튜브 끄게 만드는 협상과 규칙 정하기"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

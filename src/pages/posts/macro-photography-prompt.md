@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "초근접 촬영의 세계 'Macro Photography' 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.113Z"
+updatedDate: "2026-02-07T09:10:33.114Z"
 category: "이미지 생성"
 description: "눈에 보이지 않는 미세한 디테일까지 포착하는 접사(Macro) 촬영 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]

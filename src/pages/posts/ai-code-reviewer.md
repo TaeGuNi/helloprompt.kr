@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "동료가 없어도 괜찮아, AI 시니어 개발자의 독한 코드 리뷰"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.092Z"
+updatedDate: "2026-02-07T09:10:33.093Z"
 category: "코딩/개발"
 description: "혼자 개발하느라 코드 리뷰를 못 받는 분들을 위해, 구글/아마존 출신 시니어 개발자 페르소나로 꼼꼼하게 리뷰해주는 프롬프트입니다."
 tags: ["코드리뷰", "멘토링", "클린코드", "자기계발"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "빈티지 인쇄 감성 'Risograph Print' 스타일"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.173Z"
+updatedDate: "2026-02-07T09:10:33.173Z"
 category: "이미지 생성"
 description: "특유의 망점과 색 어긋남이 매력적인 리소그래프(Risograph) 인쇄 스타일 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]

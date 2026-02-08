@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "귀여운 미니어처 세상 'Isometric View' 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.127Z"
+updatedDate: "2026-02-07T09:10:33.127Z"
 category: "이미지 생성"
 description: "3D 게임이나 아이콘처럼 입체적이고 귀여운 뷰, 아이소메트릭(Isometric) 앵글입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]

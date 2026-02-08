@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "게임 아이템 도감: 전설의 무기와 저주받은 장신구"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.162Z"
+updatedDate: "2026-02-07T09:10:33.162Z"
 category: "창작 및 취미"
 description: "단순한 '+1 검'은 재미없죠. 서사와 기믹이 살아있는 유니크 아이템을 창조해보세요."
 tags: ["게임", "아이템", "TRPG", "기획", "판타지"]

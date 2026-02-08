@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "API를 식당에 비유하면? 코딩 개념 비유 자판기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.140Z"
+updatedDate: "2026-02-07T09:10:33.140Z"
 category: "코딩/IT"
 description: "추상적이고 어려운 IT 개념을 일상생활 속 사물이나 상황에 빗대어 초등학생도 이해하게 설명해주는 프롬프트입니다."
 tags: ["코딩기초", "비유", "IT용어", "쉽게설명"]

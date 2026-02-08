@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "AI로 간헐적 단식(Intermittent Fasting) 성공률 200% 높이기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.103Z"
+updatedDate: "2026-02-07T09:10:33.104Z"
 category: "건강 & 웰니스"
 description: "내 생활 패턴에 딱 맞는 간헐적 단식 스케줄을 짜고, 공복 시간을 버티는 꿀팁까지 AI에게 전수받으세요."
 tags: ["간헐적단식", "다이어트", "건강", "ChatGPT", "루틴"]

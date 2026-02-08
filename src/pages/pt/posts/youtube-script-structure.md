@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "Segredo de Estruturação de Script do YouTube para Visualizações Altas"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.177Z"
+updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Escrita"
 description: "Um prompt que estrutura um script de vídeo do YouTube para evitar a rotatividade nos primeiros 5 segundos e fazer as pessoas assistirem até o fim."
 tags: ["YouTube", "Script", "Produção de Vídeo"]

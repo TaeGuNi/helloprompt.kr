@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "작심삼일 탈출! AI와 함께하는 30일 홈트 챌린지"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.108Z"
+updatedDate: "2026-02-07T09:10:33.108Z"
 category: "건강 & 웰니스"
 description: "특별한 기구 없이 집에서 내 몸만으로 만드는 기적. AI가 매일매일 달라지는 30일 운동 루틴을 설계해 드립니다."
 tags: ["홈트", "운동루틴", "30일챌린지", "ChatGPT", "맨몸운동"]

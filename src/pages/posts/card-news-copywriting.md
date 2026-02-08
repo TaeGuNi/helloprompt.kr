@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "클릭을 부르는 카드뉴스 카피라이팅의 비밀"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.104Z"
+updatedDate: "2026-02-07T09:10:33.104Z"
 category: "글쓰기"
 description: "인스타그램 피드에서 손가락을 멈추게 만드는 강렬한 헤드라인과 카드뉴스 카피를 뽑아주는 프롬프트입니다."
 tags: ["카드뉴스", "카피라이팅", "SNS마케팅"]

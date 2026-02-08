@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "헬스장 고인물처럼 보이는 초보자 루틴 가이드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.163Z"
+updatedDate: "2026-02-07T09:10:33.163Z"
 category: "건강 & 웰니스"
 description: "헬스장에 갔는데 뭘 해야 할지 몰라 러닝머신만 뛰고 오셨나요? 머신 사용법부터 루틴까지 AI가 딱 정해드립니다."
 tags: ["헬스장", "웨이트트레이닝", "운동루틴", "ChatGPT", "헬린이"]

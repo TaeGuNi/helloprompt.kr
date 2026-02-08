@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "어젯밤 꾼 꿈의 의미는? 프로이트도 울고 갈 AI 꿈 해몽"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.127Z"
+updatedDate: "2026-02-07T09:10:33.127Z"
 category: "건강 & 웰니스"
 description: "개꿈일까 태몽일까? 아니면 무의식의 신호일까? 심리학적 상징 해석으로 내 꿈의 의미를 풀어봅니다."
 tags: ["꿈해몽", "심리학", "무의식", "프로이트", "ChatGPT"]

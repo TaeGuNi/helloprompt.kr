@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "미드 주인공처럼 말하기: 이디엄 & 슬랭 자판기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.147Z"
+updatedDate: "2026-02-07T09:10:33.147Z"
 category: "외국어 학습"
 description: "교과서에는 절대 안 나오는 찐 원어민 표현, 유행어, 관용구를 상황에 맞게 찾아주는 프롬프트입니다."
 tags: ["영어회화", "슬랭", "이디엄", "미드영어"]

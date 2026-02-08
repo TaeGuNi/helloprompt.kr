@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "사료(史料) 읽어주는 AI: 고전 텍스트 해석기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.119Z"
+updatedDate: "2026-02-07T09:10:33.119Z"
 category: "인문/역사"
 description: "어렵고 난해한 고문서나 1차 사료를 현대어로 쉽게 번역하고, 그 안에 담긴 속뜻을 해석해주는 프롬프트입니다."
 tags: ["역사", "고전", "문해력", "사료분석"]

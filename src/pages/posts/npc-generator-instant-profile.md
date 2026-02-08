@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "생동감 넘치는 NPC 즉석 생성 (NPC Generator)"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.134Z"
+updatedDate: "2026-02-07T09:10:33.134Z"
 category: "창작 및 취미"
 description: "플레이어가 갑자기 말을 걸어도 당황하지 마세요. 성격, 말투, 비밀까지 갖춘 NPC를 10초 만에 만듭니다."
 tags: ["TRPG", "NPC", "캐릭터", "소설", "설정"]

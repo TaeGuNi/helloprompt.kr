@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "평범한 프로젝트 경험을 '매력적인 포트폴리오'로 만드는 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.120Z"
+updatedDate: "2026-02-07T09:10:33.120Z"
 category: "취업 & 이직"
 description: "단순한 프로젝트 나열이 아니라, 문제 해결 과정과 기여도가 돋보이도록 프로젝트 설명을 스토리텔링 형식으로 다듬습니다."
 tags: ["포트폴리오", "프로젝트설명", "경력기술서", "스토리텔링"]

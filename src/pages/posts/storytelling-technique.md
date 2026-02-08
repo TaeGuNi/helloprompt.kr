@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "설명충 글쓰기 탈출! 읽게 만드는 스토리텔링의 기술"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.177Z"
+updatedDate: "2026-02-07T09:10:33.177Z"
 category: "글쓰기"
 description: "팩트 나열식의 지루한 글을 독자의 감정을 건드리는 매력적인 스토리로 변환해주는 프롬프트입니다."
 tags: ["스토리텔링", "글쓰기", "에세이"]

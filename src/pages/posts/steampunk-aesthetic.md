@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "증기 기관의 로망 'Steampunk' 스타일"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.148Z"
+updatedDate: "2026-02-07T09:10:33.148Z"
 category: "이미지 생성"
 description: "황동 톱니바퀴와 증기 기관이 지배하는 19세기 미래상, 스팀펑크(Steampunk) 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]

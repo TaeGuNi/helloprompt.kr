@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "J보다 완벽한 P를 위한 AI 여행 플래너"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.105Z"
+updatedDate: "2026-02-07T09:10:33.105Z"
 category: "생활"
 description: "동선 낭비 없는 최적의 여행 코스와 시간대별 일정표를 짜주는 여행 가이드 프롬프트입니다."
 tags: ["여행", "일정짜기", "해외여행"]

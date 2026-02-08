@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "우리 아이가 주인공인 영웅 동화 만들기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.146Z"
+updatedDate: "2026-02-07T09:10:33.146Z"
 category: "육아 & 교육"
 description: "자존감을 높여주는 마법, 아이 이름을 넣은 맞춤형 모험 이야기"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

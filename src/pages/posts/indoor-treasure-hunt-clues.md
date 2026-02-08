@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "비오는 날 집에서 하는 실내 보물찾기 게임 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.117Z"
+updatedDate: "2026-02-07T09:10:33.117Z"
 category: "육아 & 교육"
 description: "AI와 함께 5분 만에 준비하는 우리 집 맞춤형 보물찾기 단서 만들기"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

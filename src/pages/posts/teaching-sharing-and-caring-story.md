@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "교훈이 있는 이야기: '나눔'과 '배려' 배우기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.134Z"
+updatedDate: "2026-02-07T09:10:33.134Z"
 category: "육아 & 교육"
 description: "잔소리 대신 이야기로 배우는 인성 교육 프롬프트"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

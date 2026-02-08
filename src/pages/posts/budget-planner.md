@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "월급 로그아웃 방지: AI 가계부 플래너"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.156Z"
+updatedDate: "2026-02-07T09:10:33.156Z"
 category: "재테크 & 투자"
 description: "내 월급과 고정 지출을 입력하면 딱 맞는 월간 예산 계획을 짜주는 프롬프트입니다."
 tags: ["가계부", "예산", "절약", "재테크"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "검색 상위 노출을 부르는 SEO 블로그 개요 짜기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.110Z"
+updatedDate: "2026-02-07T09:10:33.110Z"
 category: "글쓰기"
 description: "구글이 좋아하는 구조로 블로그 글의 뼈대를 잡아주는 SEO 최적화 개요 생성 프롬프트입니다."
 tags: ["블로그", "SEO", "구글노출"]

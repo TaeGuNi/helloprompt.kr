@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "상처 주지 않고 성장시키는 인사평가 코멘트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.172Z"
+updatedDate: "2026-02-07T09:10:33.172Z"
 category: "업무 자동화"
 description: "성과 리뷰, 피드백 작성의 고통을 덜어주는 프롬프트."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

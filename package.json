@@ -7,7 +7,7 @@
   "version": "0.0.11",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build && mv dist/sitemap-index.xml dist/sitemap.xml",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "prettier --check . && astro check",

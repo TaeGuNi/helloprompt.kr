@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "경쟁사 분석 프레임워크로 시장 장악하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.133Z"
+updatedDate: "2026-02-07T09:10:33.134Z"
 category: "업무 자동화"
 description: "경쟁사의 강점과 약점을 파헤치고 벤치마킹 포인트 찾기."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

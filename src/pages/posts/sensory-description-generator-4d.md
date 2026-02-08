@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "독자의 오감을 자극하는 배경 묘사 변환기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.136Z"
+updatedDate: "2026-02-07T09:10:33.136Z"
 category: "창작 및 취미"
 description: "밋밋한 설명문을 오감(시각, 청각, 후각, 미각, 촉각)이 살아있는 생생한 묘사로 바꿔주는 글쓰기 도구입니다."
 tags: ["글쓰기", "묘사", "소설", "표현력"]

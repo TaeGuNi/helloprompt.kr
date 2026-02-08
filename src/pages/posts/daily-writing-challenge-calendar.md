@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "매일 글쓰기 챌린지: 30일치 글감 캘린더 자동 생성"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.130Z"
+updatedDate: "2026-02-07T09:10:33.130Z"
 category: "창작 및 취미"
 description: "글쓰기 습관을 기르고 싶다면? 당신의 관심사에 맞춘 30일치 글감(질문)을 AI가 짜드립니다."
 tags: ["글쓰기", "습관", "챌린지", "자기계발"]

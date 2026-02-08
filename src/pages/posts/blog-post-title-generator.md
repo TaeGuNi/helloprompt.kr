@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "클릭을 부르는 블로그 글 제목 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.160Z"
+updatedDate: "2026-02-07T09:10:33.160Z"
 category: "마케팅/카피라이팅"
 description: "조회수가 2배 오르는 마법의 블로그 타이틀, 키워드만 넣으면 AI가 뽑아줍니다."
 tags: ["블로그", "콘텐츠마케팅", "SEO", "카피라이팅"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "러너 무릎 통증 예방! AI가 알려주는 러닝 후 필수 스트레칭"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.145Z"
+updatedDate: "2026-02-07T09:10:33.145Z"
 category: "건강 & 웰니스"
 description: "달리기보다 중요한 건 마무리입니다. 부상을 방지하고 다음 날 근육통 없이 상쾌하게 일어나는 쿨다운 루틴."
 tags: ["러닝", "마라톤", "스트레칭", "쿨다운", "부상방지"]

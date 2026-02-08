@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "내 코드의 시간 복잡도(Big O)는 얼마일까?"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.099Z"
+updatedDate: "2026-02-07T09:10:33.099Z"
 category: "코딩/개발"
 description: "작성한 알고리즘의 시간 복잡도와 공간 복잡도를 분석하고, 성능 개선 포인트를 찾아주는 프롬프트입니다."
 tags: ["알고리즘", "시간복잡도", "Big-O", "성능최적화", "CS지식"]

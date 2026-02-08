@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "작심삼일은 끝! AI 습관 형성 트래커 설계"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.167Z"
+updatedDate: "2026-02-07T09:10:33.167Z"
 category: "일상"
 description: "의지력에 기대지 마세요. 뇌과학 기반의 습관 형성 시스템을 만들어드립니다."
 tags: ["습관", "루틴", "갓생", "자기계발"]

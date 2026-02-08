@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "냉장고 파먹기! AI 건강 레시피 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.150Z"
+updatedDate: "2026-02-07T09:10:33.150Z"
 category: "건강"
 description: "유통기한 임박한 재료로 만드는 5성급 건강식 레시피."
 tags: ["요리", "레시피", "식단", "냉장고파먹기"]

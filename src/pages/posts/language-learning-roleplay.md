@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "비싼 전화영어 대신, 24시간 대기 중인 AI 원어민"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.159Z"
+updatedDate: "2026-02-07T09:10:33.159Z"
 category: "생활"
 description: "원하는 상황과 난이도를 설정하여 AI와 실전처럼 외국어 회화 연습을 할 수 있는 롤플레잉 프롬프트입니다."
 tags: ["영어회화", "외국어공부", "롤플레잉"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "기업 분석의 정석: AI SWOT 분석기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.167Z"
+updatedDate: "2026-02-07T09:10:33.167Z"
 category: "재테크 & 투자"
 description: "내가 투자하려는 회사의 강점, 약점, 기회, 위협을 한눈에 파악하는 프롬프트입니다."
 tags: ["주식", "기업분석", "SWOT", "전략"]

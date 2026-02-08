@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "그림자 인형 극장: 잠자리 들기 전 차분한 놀이"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.169Z"
+updatedDate: "2026-02-07T09:10:33.169Z"
 category: "육아 & 교육"
 description: "손전등 하나로 만드는 환상의 세계, AI가 짜주는 그림자극 대본"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "PT 선생님 필요 없는 AI 맞춤형 다이어트 식단표 만들기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.168Z"
+updatedDate: "2026-02-07T09:10:33.168Z"
 category: "건강"
 description: "내 체질, 목표 체중, 선호 음식을 고려한 완벽한 일주일 식단을 1분 만에 짜보세요."
 tags: ["다이어트", "식단관리", "헬스", "건강"]

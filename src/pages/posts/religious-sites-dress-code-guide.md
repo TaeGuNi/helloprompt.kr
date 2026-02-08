@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "반바지 입고 입장 불가? 종교 성지 방문 드레스코드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.125Z"
+updatedDate: "2026-02-07T09:10:33.125Z"
 category: "여행 & 문화"
 description: "사원, 성당, 모스크... 문전박대 당하지 않으려면? 신성한 장소에 맞는 복장 규정."
 tags: ["드레스코드", "종교문화", "사원방문", "여행복장"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "청소 놀이: 정리가 재미있는 게임이 되는 마법"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.125Z"
+updatedDate: "2026-02-07T09:10:33.125Z"
 category: "육아 & 교육"
 description: "지저분한 방을 10분 만에 치우게 만드는 게임화(Gamification) 전략"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

@@ -15,11 +15,11 @@ const otherPosts = Object.values(
   import.meta.glob("./*/posts/*.md", { eager: true }),
 ) as Post[];
 
-// 2. 언어별로 그룹화 및 랜덤 3개 선정
+// 2. 언어별로 그룹화 및 랜덤 4개 선정
 const postsByLang: Record<string, any[]> = {};
 
 // 한국어 처리
-postsByLang["ko"] = getRandomPosts(filterPublishedPosts(koPosts), 3).map(
+postsByLang["ko"] = getRandomPosts(filterPublishedPosts(koPosts), 4).map(
   (p) => ({
     title: p.frontmatter.title,
     description: p.frontmatter.description,
@@ -42,7 +42,7 @@ otherPosts.forEach((post) => {
 });
 
 for (const [lang, posts] of Object.entries(groupedOthers)) {
-  postsByLang[lang] = getRandomPosts(filterPublishedPosts(posts), 3).map(
+  postsByLang[lang] = getRandomPosts(filterPublishedPosts(posts), 4).map(
     (p) => ({
       title: p.frontmatter.title,
       description: p.frontmatter.description,

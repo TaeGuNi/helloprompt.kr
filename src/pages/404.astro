@@ -1,5 +1,18 @@
 ---
 import BaseHtml from "../components/BaseHtml.astro";
+import {
+  filterPublishedPosts,
+  getRandomPosts,
+  type Post,
+} from "../utils/postUtils";
+
+// 모든 한국어 포스트 가져오기
+const allPosts = Object.values(
+  import.meta.glob("./posts/*.md", { eager: true }),
+) as Post[];
+
+// 추천 글 (랜덤 3개)
+const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
 ---
 
 <BaseHtml lang="ko">
@@ -8,7 +21,7 @@ import BaseHtml from "../components/BaseHtml.astro";
     <title>404 Not Found | Hello Prompt</title>
     <meta name="viewport" content="width=device-width" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@400;700&family=JetBrains+Mono:wght@400&display=swap"
       rel="stylesheet"
     />
     <style>
@@ -18,7 +31,7 @@ import BaseHtml from "../components/BaseHtml.astro";
         padding: 0;
         background-color: #030303;
         color: #00f3ff;
-        height: 100vh;
+        min-height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -28,6 +41,8 @@ import BaseHtml from "../components/BaseHtml.astro";
           linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
           linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px);
         background-size: 30px 30px;
+        overflow-x: hidden; /* 가로 스크롤 방지 */
+        padding-bottom: 50px; /* 모바일에서 하단 여백 확보 */
       }
 
       h1 {
@@ -73,11 +88,122 @@ import BaseHtml from "../components/BaseHtml.astro";
           transform: translate(0, 0) skew(5deg);
         }
       }
+
+      /* --- Recommendations --- */
+      .recommendation-section {
+        margin-top: 100px;
+        width: 100%;
+        max-width: 900px;
+        text-align: left;
+        padding: 0 20px;
+        box-sizing: border-box;
+      }
+
+      .rec-title {
+        font-family: "Orbitron", sans-serif;
+        color: #00f3ff;
+        font-size: 1.2rem;
+        margin-bottom: 25px;
+        border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .post-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 20px;
+      }
+
+      .post-card {
+        background: rgba(10, 20, 30, 0.6);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 12px;
+        padding: 25px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        backdrop-filter: blur(5px);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .post-card::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 4px;
+        height: 100%;
+        background: #333;
+        transition: background 0.3s;
+      }
+
+      .post-card:hover {
+        transform: translateY(-5px);
+        border-color: #00f3ff;
+        box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+      }
+
+      .post-card:hover::before {
+        background: #00f3ff;
+      }
+
+      .post-card h3 {
+        color: #fff;
+        margin: 0 0 10px 0;
+        font-size: 1.1rem;
+        line-height: 1.4;
+        font-weight: 700;
+        font-family: "Noto Sans KR", sans-serif;
+      }
+
+      .post-card p {
+        font-family: "Noto Sans KR", sans-serif;
+        font-size: 0.9rem;
+        color: #888;
+        margin: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 600px) {
+        h1 {
+          font-size: 5rem;
+        }
+        p {
+          font-size: 1.2rem;
+        }
+        .recommendation-section {
+          margin-top: 60px;
+        }
+      }
     </style>
   </head>
   <body>
     <h1>404</h1>
     <p>SYSTEM ERROR: 페이지를 찾을 수 없습니다.</p>
     <a href="/" class="btn">RETURN HOME</a>
+
+    {
+      recommendedPosts.length > 0 && (
+        <div class="recommendation-section">
+          <div class="rec-title">RECOMMENDED INTELLIGENCE</div>
+          <div class="post-grid">
+            {recommendedPosts.map((post) => (
+              <a href={post.url} class="post-card">
+                <h3>{post.frontmatter.title}</h3>
+                <p>{post.frontmatter.description}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      )
+    }
   </body>
 </BaseHtml>

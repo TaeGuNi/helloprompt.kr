@@ -36,3 +36,11 @@ export function filterPublishedPosts(posts: Post[]): Post[] {
     return true;
   });
 }
+
+/**
+ * 랜덤한 글 n개 추출
+ */
+export function getRandomPosts(posts: Post[], count: number): Post[] {
+  const shuffled = [...posts].sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, count);
+}

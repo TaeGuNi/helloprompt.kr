@@ -38,3 +38,10 @@
 - **서버 실행:** `pnpm run dev -- --host`
 - **테스트:** `pnpm test` (Unit), `pnpm test:e2e` (E2E)
 - **배포:** `pnpm run deploy` (Lint -> Test -> Build -> Deploy)
+
+## 🤖 Agent Protocols
+
+- **Guidelines:** See `AGENTS.md` for workflow, memory, and safety rules.
+- **Identity:** `IDENTITY.md` and `SOUL.md` define the agent's persona.
+- **Context:** `USER.md` contains user-specific context.
+- **Memory:** Use `memory/` for daily logs and `MEMORY.md` for long-term retention.

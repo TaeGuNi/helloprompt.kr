@@ -13,6 +13,14 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
+## Project Tools (Astro)
+
+- **Dev Server:** `pnpm run dev -- --host`
+- **Preview:** `pnpm run preview`
+- **Lint:** `pnpm run lint`
+- **Test:** `pnpm test`
+- **Deploy:** `pnpm run deploy`
+
 ## Examples
 
 ```markdown

@@ -26,12 +26,13 @@ import LanguageSwitcher from "../components/LanguageSwitcher.astro";
 import { uiStrings } from "../utils/ui-translation";
 import { determineCurrentLang } from "../utils/i18nUtils";
 import BaseHtml from "../components/BaseHtml.astro";
+import type { Post } from "../utils/postUtils";
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
 
 // 추천 글 (Related Posts) 로직
-const relatedPosts: any[] = [];
+const relatedPosts: Post[] = [];
 
 import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
@@ -756,7 +757,7 @@ import AdUnit from "../components/AdUnit.astro";
           <div class="related-section">
             <h2 class="related-title">{t.related_posts}</h2>
             <div class="related-grid">
-              {relatedPosts.map((post: any) => (
+              {relatedPosts.map((post) => (
                 <a href={post.url} class="related-card">
                   <h3>{post.frontmatter.title}</h3>
                   <span>{post.frontmatter.date}</span>

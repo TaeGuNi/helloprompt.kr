@@ -6,13 +6,114 @@ import {
   type Post,
 } from "../utils/postUtils";
 
-// 모든 한국어 포스트 가져오기
-const allPosts = Object.values(
+// 1. 모든 포스트 가져오기 (한국어 + 다국어)
+const koPosts = Object.values(
   import.meta.glob("./posts/*.md", { eager: true }),
 ) as Post[];
 
-// 추천 글 (랜덤 3개)
-const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
+const otherPosts = Object.values(
+  import.meta.glob("./*/posts/*.md", { eager: true }),
+) as Post[];
+
+// 2. 언어별로 그룹화 및 랜덤 3개 선정
+const postsByLang: Record<string, any[]> = {};
+
+// 한국어 처리
+postsByLang["ko"] = getRandomPosts(filterPublishedPosts(koPosts), 3).map(
+  (p) => ({
+    title: p.frontmatter.title,
+    description: p.frontmatter.description,
+    url: p.url,
+  }),
+);
+
+// 다국어 처리
+const groupedOthers: Record<string, Post[]> = {};
+otherPosts.forEach((post) => {
+  // URL 구조: /en/posts/slug or /src/pages/en/posts/slug.md
+  // 파일 경로에서 언어 코드 추출
+  // post.file 예시: /Users/.../src/pages/en/posts/abc.md
+  const match = post.file.match(/\/pages\/([a-z]{2})\/posts\//);
+  if (match && match[1]) {
+    const lang = match[1];
+    if (!groupedOthers[lang]) groupedOthers[lang] = [];
+    groupedOthers[lang].push(post);
+  }
+});
+
+for (const [lang, posts] of Object.entries(groupedOthers)) {
+  postsByLang[lang] = getRandomPosts(filterPublishedPosts(posts), 3).map(
+    (p) => ({
+      title: p.frontmatter.title,
+      description: p.frontmatter.description,
+      url: p.url,
+    }),
+  );
+}
+
+// 3. UI 번역 데이터
+const uiStrings = {
+  ko: {
+    title: "404",
+    msg: "SYSTEM ERROR: 페이지를 찾을 수 없습니다.",
+    btn: "홈으로 복귀",
+    rec: "추천 인텔리전스",
+  },
+  en: {
+    title: "404",
+    msg: "SYSTEM ERROR: Page Not Found",
+    btn: "RETURN HOME",
+    rec: "RECOMMENDED INTELLIGENCE",
+  },
+  ja: {
+    title: "404",
+    msg: "SYSTEM ERROR: ページが見つかりません",
+    btn: "ホームに戻る",
+    rec: "推奨インテリジェンス",
+  },
+  zh: {
+    title: "404",
+    msg: "SYSTEM ERROR: 页面未找到",
+    btn: "返回首页",
+    rec: "推荐情报",
+  },
+  es: {
+    title: "404",
+    msg: "SYSTEM ERROR: Página no encontrada",
+    btn: "VOLVER AL INICIO",
+    rec: "INTELIGENCIA RECOMENDADA",
+  },
+  fr: {
+    title: "404",
+    msg: "SYSTEM ERROR: Page non trouvée",
+    btn: "RETOUR À L'ACCUEIL",
+    rec: "INTELLIGENCE RECOMMANDÉE",
+  },
+  de: {
+    title: "404",
+    msg: "SYSTEM ERROR: Seite nicht gefunden",
+    btn: "ZURÜCK ZUR STARTSEITE",
+    rec: "EMPFOHLENE INTELLIGENZ",
+  },
+  it: {
+    title: "404",
+    msg: "SYSTEM ERROR: Pagina non trovata",
+    btn: "TORNA ALLA HOME",
+    rec: "INTELLIGENZA RACCOMANDATA",
+  },
+  ru: {
+    title: "404",
+    msg: "SYSTEM ERROR: Страница не найдена",
+    btn: "ВЕРНУТЬСЯ НА ГЛАВНУЮ",
+    rec: "РЕКОМЕНДУЕМЫЙ ИНТЕЛЛЕКТ",
+  },
+  pt: {
+    title: "404",
+    msg: "SYSTEM ERROR: Página não encontrada",
+    btn: "VOLTAR AO INÍCIO",
+    rec: "INTELIGÊNCIA RECOMENDADA",
+  },
+};
 ---
 
 <BaseHtml lang="ko">
@@ -41,8 +142,8 @@ const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
           linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
           linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px);
         background-size: 30px 30px;
-        overflow-x: hidden; /* 가로 스크롤 방지 */
-        padding-bottom: 50px; /* 모바일에서 하단 여백 확보 */
+        overflow-x: hidden;
+        padding-bottom: 50px;
       }
 
       h1 {
@@ -89,7 +190,6 @@ const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
         }
       }
 
-      /* --- Recommendations --- */
       .recommendation-section {
         margin-top: 100px;
         width: 100%;
@@ -97,6 +197,7 @@ const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
         text-align: left;
         padding: 0 20px;
         box-sizing: border-box;
+        display: none; /* JS로 활성화 */
       }
 
       .rec-title {
@@ -130,25 +231,10 @@ const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
         overflow: hidden;
       }
 
-      .post-card::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 4px;
-        height: 100%;
-        background: #333;
-        transition: background 0.3s;
-      }
-
       .post-card:hover {
         transform: translateY(-5px);
         border-color: #00f3ff;
         box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
-      }
-
-      .post-card:hover::before {
-        background: #00f3ff;
       }
 
       .post-card h3 {
@@ -186,24 +272,70 @@ const recommendedPosts = getRandomPosts(filterPublishedPosts(allPosts), 3);
     </style>
   </head>
   <body>
-    <h1>404</h1>
-    <p>SYSTEM ERROR: 페이지를 찾을 수 없습니다.</p>
-    <a href="/" class="btn">RETURN HOME</a>
+    <h1 id="error-title">404</h1>
+    <p id="error-msg">SYSTEM ERROR: 페이지를 찾을 수 없습니다.</p>
+    <a href="/" id="error-btn" class="btn">RETURN HOME</a>
 
-    {
-      recommendedPosts.length > 0 && (
-        <div class="recommendation-section">
-          <div class="rec-title">RECOMMENDED INTELLIGENCE</div>
-          <div class="post-grid">
-            {recommendedPosts.map((post) => (
-              <a href={post.url} class="post-card">
-                <h3>{post.frontmatter.title}</h3>
-                <p>{post.frontmatter.description}</p>
-              </a>
-            ))}
-          </div>
-        </div>
-      )
-    }
+    <div id="rec-section" class="recommendation-section">
+      <div id="rec-title" class="rec-title">RECOMMENDED INTELLIGENCE</div>
+      <div id="rec-grid" class="post-grid">
+        <!-- JS로 주입 -->
+      </div>
+    </div>
+
+    <script
+      is:inline
+      define:vars={{
+        uiStrings,
+        postsByLang,
+      }}
+    >
+      (function () {
+        // 1. URL에서 언어 감지
+        const path = window.location.pathname;
+        const segments = path.split("/").filter(Boolean);
+        const firstSegment = segments[0];
+
+        // 지원 언어 목록 (UI 문자열 키 기반)
+        const supportedLangs = Object.keys(uiStrings);
+        const currentLang = supportedLangs.includes(firstSegment)
+          ? firstSegment
+          : "ko";
+
+        // 2. UI 텍스트 업데이트
+        const ui = uiStrings[currentLang] || uiStrings["ko"];
+        const titleEl = document.getElementById("error-title");
+        const msgEl = document.getElementById("error-msg");
+        const btnEl = document.getElementById("error-btn");
+        const recSection = document.getElementById("rec-section");
+        const recTitle = document.getElementById("rec-title");
+        const recGrid = document.getElementById("rec-grid");
+
+        if (titleEl) titleEl.textContent = ui.title;
+        if (msgEl) msgEl.textContent = ui.msg;
+        if (btnEl) {
+          btnEl.textContent = ui.btn;
+          btnEl.href = currentLang === "ko" ? "/" : `/${currentLang}/`;
+        }
+        if (recTitle) recTitle.textContent = ui.rec;
+
+        // 3. 추천 포스트 렌더링
+        const posts = postsByLang[currentLang] || postsByLang["ko"] || [];
+
+        if (posts.length > 0 && recGrid) {
+          recGrid.innerHTML = posts
+            .map(
+              (post) => `
+            <a href="${post.url}" class="post-card">
+              <h3>${post.title}</h3>
+              <p>${post.description}</p>
+            </a>
+          `,
+            )
+            .join("");
+          if (recSection) recSection.style.display = "block";
+        }
+      })();
+    </script>
   </body>
 </BaseHtml>

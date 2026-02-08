@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "1시간 걸릴 회의록 정리, 10초 만에 끝내고 칼퇴하는 법"
 author: "Zzabbis"
-date: "2026-02-03"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.137Z"
+updatedDate: "2026-02-07T09:10:33.137Z"
 category: "업무 자동화"
 description: "단순 반복 업무는 AI에게 맡기고 당신의 저녁을 되찾으세요. 두서없는 텍스트를 완벽한 보고서로 바꾸는 자동화 프롬프트."
 tags: ["생산성", "자동화", "워라밸"]

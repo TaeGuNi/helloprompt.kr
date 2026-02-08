@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import { LANGUAGES } from "../../i18n/languages";
+import { formatDate } from "../../utils/dateUtils";
 
 export async function getStaticPaths({ paginate }: any) {
   // 1. 외국어 포스트 동적 로딩
@@ -306,7 +307,11 @@ const frontmatter = {
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>
           <div class="post-meta">
-            <span>{post.frontmatter.date}</span>
+            <span>
+              {formatDate(post.frontmatter.date, lang as string, {
+                dateOnly: true,
+              })}
+            </span>
             {post.frontmatter.tags &&
               post.frontmatter.tags
                 .slice(0, 2)

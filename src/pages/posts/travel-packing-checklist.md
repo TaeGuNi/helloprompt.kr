@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "뭘 챙겨야 할지 모르겠다면? AI 여행지별 스마트 짐싸기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.175Z"
+updatedDate: "2026-02-07T09:10:33.175Z"
 category: "여행"
 description: "현지 날씨, 문화, 액티비티를 고려한 빈틈없는 체크리스트를 드립니다."
 tags: ["여행", "짐싸기", "체크리스트", "준비물"]

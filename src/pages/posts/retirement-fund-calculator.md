@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "노후 자금 계산기: 내 은퇴 준비 점수는?"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.143Z"
+updatedDate: "2026-02-07T09:10:33.143Z"
 category: "재테크 & 투자"
 description: "막연한 노후 공포를 없애드립니다. 필요한 은퇴 자금과 매월 저축해야 할 금액을 정확히 계산해줍니다."
 tags: ["은퇴", "노후준비", "연금", "재무설계"]

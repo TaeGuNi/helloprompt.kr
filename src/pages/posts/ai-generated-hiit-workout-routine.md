@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "짧고 굵게! 20분 만에 땀 범벅 만드는 AI HIIT 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.137Z"
+updatedDate: "2026-02-07T09:10:33.137Z"
 category: "건강 & 웰니스"
 description: "시간은 없지만 살은 빼고 싶다면? AI가 매일 새로운 고강도 인터벌 트레이닝(HIIT) 루틴을 만들어드립니다."
 tags: ["HIIT", "타바타", "다이어트", "운동", "ChatGPT"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "실수하면 큰일 나요! AI 국가별 문화 & 에티켓 가이드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.130Z"
+updatedDate: "2026-02-07T09:10:33.130Z"
 category: "여행"
 description: "팁은 얼마? 손짓은 어떻게? 현지에서 비매너 여행자가 되지 않는 법."
 tags: ["여행", "에티켓", "문화", "매너"]

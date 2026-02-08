@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "고정 지출 다이어트: 새는 돈 막는 아이디어"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.162Z"
+updatedDate: "2026-02-07T09:10:33.162Z"
 category: "재테크 & 투자"
 description: "매달 나가는 고정비, 줄일 수 없다고 생각하시나요? AI가 숨겨진 절약 포인트를 찾아냅니다."
 tags: ["절약", "고정지출", "생활비", "짠테크"]

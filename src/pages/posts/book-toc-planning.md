@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "나도 작가가 될 수 있다? 팔리는 책 목차 기획하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.137Z"
+updatedDate: "2026-02-07T09:10:33.137Z"
 category: "글쓰기"
 description: "막연한 출판의 꿈을 현실로 만들어주는 책 기획 및 목차 구성 프롬프트입니다."
 tags: ["책쓰기", "출판기획", "전자책"]

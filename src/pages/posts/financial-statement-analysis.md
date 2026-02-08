@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "기업 재무제표 초고속 분석 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.151Z"
+updatedDate: "2026-02-07T09:10:33.151Z"
 category: "재테크 & 투자"
 description: "복잡한 재무제표를 1분 만에 핵심만 요약해주는 주식 투자 필수 프롬프트입니다."
 tags: ["주식", "재무제표", "기본적분석", "투자"]

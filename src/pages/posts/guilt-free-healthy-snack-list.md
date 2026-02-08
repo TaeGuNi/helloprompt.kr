@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "입 터짐 방지! AI가 추천하는 죄책감 없는 건강 간식 리스트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.158Z"
+updatedDate: "2026-02-07T09:10:33.158Z"
 category: "건강 & 웰니스"
 description: "오후 3시만 되면 찾아오는 가짜 배고픔. 살은 안 찌면서 스트레스는 풀리는 건강 간식 아이디어를 무한 생성해드립니다."
 tags: ["다이어트간식", "건강", "레시피", "ChatGPT", "간식"]

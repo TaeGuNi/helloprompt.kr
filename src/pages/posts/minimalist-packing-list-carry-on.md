@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "기내용 캐리어 하나로 끝내는 미니멀 패킹 리스트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.179Z"
+updatedDate: "2026-02-07T09:10:33.179Z"
 category: "여행 & 문화"
 description: "짐이 가벼워야 여행이 즐겁습니다. 불필요한 짐은 줄이고 필수템만 챙기는 스마트 패킹 노하우."
 tags: ["짐싸기", "미니멀리즘", "기내수하물", "패킹리스트"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "막힌 소설 뚫어주는 '만약에(What If)' 플롯 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.136Z"
+updatedDate: "2026-02-07T09:10:33.136Z"
 category: "창작 및 취미"
 description: "스토리가 막혔을 때 '만약에?' 질문 하나로 기발한 전개를 만들어내는 브레인스토밍 프롬프트입니다."
 tags: ["소설쓰기", "플롯", "아이디어", "창작"]

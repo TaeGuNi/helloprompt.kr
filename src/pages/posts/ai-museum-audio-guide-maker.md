@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "내 손안의 큐레이터: AI로 만드는 박물관 오디오 가이드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.106Z"
+updatedDate: "2026-02-07T09:10:33.106Z"
 category: "여행 & 문화"
 description: "오디오 가이드 대여료 10유로 아끼는 법. 작품 사진만 있으면 AI가 설명을 해줍니다."
 tags: ["박물관", "미술관", "오디오가이드", "도슨트", "예술감상"]

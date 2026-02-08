@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "오픈율 떡상하는 이메일 제목 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.128Z"
+updatedDate: "2026-02-07T09:10:33.128Z"
 category: "마케팅/카피라이팅"
 description: "스팸함으로 직행하는 뉴스레터는 그만. 고객이 열어볼 수밖에 없는 이메일 제목 작성법."
 tags: ["이메일마케팅", "CRM", "카피라이팅", "뉴스레터"]

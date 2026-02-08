@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "이력서 공백기(Gap Year), 약점이 아닌 '강점'으로 바꾸는 법"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.123Z"
+updatedDate: "2026-02-07T09:10:33.123Z"
 category: "취업 & 이직"
 description: "취업 준비 기간, 휴식기, 여행 등 경력 단절 기간(Gap)을 의미 있는 자기계발과 리프레시 기간으로 재해석하여 자소서에 녹여냅니다."
 tags: ["공백기", "경력단절", "면접대비", "자소서멘트"]

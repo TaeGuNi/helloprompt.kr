@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "왜 손을 씻어야 해? 눈에 안 보이는 세균 설명"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.121Z"
+updatedDate: "2026-02-07T09:10:33.121Z"
 category: "육아 & 교육"
 description: "잔소리 없이 아이를 세면대로 보내는 과학적 설득"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

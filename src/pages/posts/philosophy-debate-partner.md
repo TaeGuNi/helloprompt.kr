@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "소크라테스와 말싸움하기: 철학 논쟁 파트너"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.165Z"
+updatedDate: "2026-02-07T09:10:33.165Z"
 category: "인문/역사"
 description: "AI가 특정 철학자의 페르소나를 쓰고 나와 끊임없이 질문하며 사고력을 확장해주는 프롬프트입니다."
 tags: ["철학", "논리력", "토론", "사고실험"]

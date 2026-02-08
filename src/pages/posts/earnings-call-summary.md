@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "실적 발표 컨퍼런스 콜 3분 요약기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.155Z"
+updatedDate: "2026-02-07T09:10:33.156Z"
 category: "재테크 & 투자"
 description: "영어라 듣기 힘들고 너무 긴 어닝 콜(Earning Call), AI가 핵심만 요약해줍니다."
 tags: ["주식", "어닝콜", "실적발표", "미국주식"]

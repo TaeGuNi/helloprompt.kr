@@ -85,3 +85,9 @@ try {
 
 - **JSDoc:** 복잡한 로직이나 유틸리티 함수에는 JSDoc 스타일의 주석을 답니다.
 - **Why:** "무엇을" 하는지보다 **"왜"** 이렇게 짰는지를 설명합니다.
+
+## 8. 날짜 및 시간 처리 (Date & Time Handling)
+
+- **ISO 8601:** 모든 데이터의 원본 날짜는 ISO 포맷(`YYYY-MM-DDTHH:mm:ss.sssZ`)을 준수합니다.
+- **Utility 사용:** 날짜 포맷팅 시 직접 `Date` 객체를 조작하지 말고, `src/utils/dateUtils.ts`의 `formatDate` 함수를 사용합니다.
+- **TDD/Unit Test:** 날짜 관련 로직 수정 시 `src/utils/dateUtils.test.ts` 테스트를 반드시 통과해야 합니다.

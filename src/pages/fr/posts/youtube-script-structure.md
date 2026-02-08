@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "Secret de Structuration de Script YouTube pour des Vues Élevées"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.177Z"
+updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Écriture"
 description: "Un prompt qui structure un script vidéo YouTube pour éviter l'abandon dans les 5 premières secondes et faire regarder les gens jusqu'à la fin."
 tags: ["YouTube", "Script", "Production Vidéo"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "내 코드가 쓰레기라니! 클린 코드 리팩토링 코치"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.120Z"
+updatedDate: "2026-02-07T09:10:33.120Z"
 category: "코딩/IT"
 description: "돌아만 가는 지저분한 코드를 '읽기 쉽고, 유지보수하기 좋은' 깔끔한 코드로 업그레이드해주는 프롬프트입니다."
 tags: ["리팩토링", "클린코드", "개발자", "코드리뷰"]

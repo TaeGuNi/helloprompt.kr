@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "영웅 vs 영웅: 세기의 라이벌 비교 분석"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.111Z"
+updatedDate: "2026-02-07T09:10:33.111Z"
 category: "인문/역사"
 description: "서로 다른 시대, 다른 나라의 위인들을 1:1로 매칭시켜 공통점과 차이점을 분석하는 프롬프트입니다."
 tags: ["역사", "인물분석", "비교문화", "프롬프트"]

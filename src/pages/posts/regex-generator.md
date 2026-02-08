@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "정규표현식(Regex)의 악몽, 이제 AI에게 떠넘기세요"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.151Z"
+updatedDate: "2026-02-07T09:10:33.151Z"
 category: "개발"
 description: "암호 같은 정규표현식, 직접 짜지 마세요. 원하는 패턴만 설명하면 코드가 나오는 프롬프트입니다."
 tags: ["정규표현식", "Regex", "개발생산성"]

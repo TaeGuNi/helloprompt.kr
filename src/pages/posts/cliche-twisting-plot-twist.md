@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "클리셰 비틀기: 뻔한 엔딩을 충격 반전으로"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.172Z"
+updatedDate: "2026-02-07T09:10:33.172Z"
 category: "창작 및 취미"
 description: "익숙한 클리셰를 비틀어 독자의 뒤통수를 치는 충격적인 반전 아이디어를 얻는 방법입니다."
 tags: ["소설", "반전", "아이디어", "스토리텔링"]

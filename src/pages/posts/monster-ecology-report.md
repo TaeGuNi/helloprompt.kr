@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "몬스터 생태 보고서: 나만의 크리처 창조하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.146Z"
+updatedDate: "2026-02-07T09:10:33.147Z"
 category: "창작 및 취미"
 description: "슬라임, 고블린은 이제 지겹나요? 생태계와 습성까지 고려한 독창적인 몬스터를 디자인해드립니다."
 tags: ["크리처", "몬스터", "게임기획", "판타지", "설정"]

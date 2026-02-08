@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "국가 및 정치 체제 설정: 현실적인 판타지 세계관"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.102Z"
+updatedDate: "2026-02-07T09:10:33.102Z"
 category: "창작 및 취미"
 description: "단순한 왕국은 재미없죠. 신정 일치, 상인 공화국 등 입체적인 정치 체제를 가진 국가를 설계해드립니다."
 tags: ["세계관", "정치", "국가", "판타지", "설정"]

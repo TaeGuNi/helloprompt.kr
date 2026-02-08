@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "프론트엔드 컴포넌트, 디자인만 설명하면 코드 완성"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.142Z"
+updatedDate: "2026-02-07T09:10:33.142Z"
 category: "코딩/개발"
 description: "React, Vue, Tailwind CSS 등 원하는 기술 스택으로 UI 컴포넌트를 빠르게 생성하는 프롬프트입니다."
 tags: ["프론트엔드", "React", "Vue", "Tailwind", "UI컴포넌트"]

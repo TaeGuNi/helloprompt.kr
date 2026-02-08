@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "면접관 빙의한 AI와 함께하는 '실전 모의 면접' 시뮬레이션"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.143Z"
+updatedDate: "2026-02-07T09:10:33.143Z"
 category: "취업 & 이직"
 description: "AI에게 까다로운 면접관 페르소나를 부여하여, 실제 면접처럼 꼬리에 꼬리를 무는 압박 질문을 연습합니다."
 tags: ["모의면접", "면접연습", "AI면접관", "취업준비"]

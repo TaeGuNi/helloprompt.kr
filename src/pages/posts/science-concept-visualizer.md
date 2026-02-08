@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "보이지 않는 개념을 보이게: 개념 시각화 도우미"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.094Z"
+updatedDate: "2026-02-07T09:10:33.095Z"
 category: "수학/과학"
 description: "추상적인 과학 원리나 수학 개념을 텍스트 다이어그램(ASCII Art)과 비유로 그려내는 프롬프트입니다."
 tags: ["과학공부", "시각화", "이해력", "ASCII아트"]

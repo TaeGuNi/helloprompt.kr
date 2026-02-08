@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "버그 사냥꾼: 1분 만에 에러 잡는 디버깅 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.175Z"
+updatedDate: "2026-02-07T09:10:33.175Z"
 category: "코딩/IT"
 description: "원인을 알 수 없는 에러 메시지와 코드를 던져주면, 버그의 위치와 해결책(Fix)을 찾아주는 프롬프트입니다."
 tags: ["디버깅", "오류해결", "개발자", "생산성"]

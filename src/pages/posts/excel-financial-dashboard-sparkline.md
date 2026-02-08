@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "엑셀 재무 대시보드: 숫자 말고 그림으로 보고하라"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.090Z"
+updatedDate: "2026-02-07T09:10:33.091Z"
 category: "업무 자동화"
 description: "빽빽한 엑셀 표는 이제 그만. 상사가 한눈에 반하는 시각화 대시보드, 스파크라인과 조건부 서식으로 끝냅니다."
 tags: ["엑셀", "대시보드", "시각화", "보고서"]

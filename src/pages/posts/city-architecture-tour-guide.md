@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "도시의 스카이라인을 읽다: 건축물 하이라이트 투어"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.129Z"
+updatedDate: "2026-02-07T09:10:33.130Z"
 category: "여행 & 문화"
 description: "건축가의 시선으로 도시를 걷다. 고딕부터 현대 건축까지, 건물이 들려주는 이야기."
 tags: ["건축여행", "도시재생", "랜드마크", "건축디자인", "인문학"]

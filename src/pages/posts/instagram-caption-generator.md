@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "좋아요를 부르는 인스타그램 캡션 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.109Z"
+updatedDate: "2026-02-07T09:10:33.109Z"
 category: "마케팅/카피라이팅"
 description: "사진은 골랐는데 글이 안 써질 때, 감성 충만 캡션과 해시태그를 자동 생성합니다."
 tags: ["인스타그램", "SNS마케팅", "카피라이팅", "소셜미디어"]

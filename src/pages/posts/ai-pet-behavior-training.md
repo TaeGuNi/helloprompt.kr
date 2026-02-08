@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "우리 강아지가 달라졌어요: AI 행동 교정 전문가"
 author: "Zzabbis"
-date: "2026-02-07"
-updatedDate: "2026-02-07"
+date: "2026-02-07T09:10:33.174Z"
+updatedDate: "2026-02-07T09:10:33.174Z"
 category: "반려동물"
 description: "분리불안, 짖음, 배변 실수... 비싼 훈련사 대신 AI에게 맞춤형 교정 솔루션을 받아보세요."
 tags: ["반려동물", "강아지훈련", "고양이", "육아육견"]

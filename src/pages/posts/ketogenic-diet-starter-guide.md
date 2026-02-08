@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "키토제닉(저탄고지) 다이어트, AI와 함께 완벽하게 시작하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.151Z"
+updatedDate: "2026-02-07T09:10:33.152Z"
 category: "건강 & 웰니스"
 description: "복잡한 지방 비율 계산 없이, AI를 활용해 키토제닉 다이어트를 쉽고 안전하게 시작하는 가이드입니다."
 tags: ["키토제닉", "저탄고지", "다이어트", "건강", "ChatGPT"]

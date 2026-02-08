@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "뻣뻣한 몸도 OK! AI가 짜주는 맞춤형 요가 시퀀스"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.139Z"
+updatedDate: "2026-02-07T09:10:33.139Z"
 category: "건강 & 웰니스"
 description: "요가 학원 가기 민망한 통나무 몸매, 집에서 AI 요가 선생님과 함께 부드럽게 풀어보세요."
 tags: ["요가", "스트레칭", "유연성", "홈트", "ChatGPT"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "밸런스 게임 생성기: '평생 라면만 먹기 vs 평생 탄산 끊기'"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.144Z"
+updatedDate: "2026-02-07T09:10:33.144Z"
 category: "창작 및 취미"
 description: "아이스브레이킹 최강자! 모임 분위기를 띄울 기상천외한 밸런스 게임 질문을 무한으로 뽑아냅니다."
 tags: ["게임", "밸런스게임", "아이스브레이킹", "유머", "파티"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "센스쟁이 소리 듣는 AI 맞춤형 선물 추천 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.153Z"
+updatedDate: "2026-02-07T09:10:33.153Z"
 category: "일상"
 description: "나이, 성별, 관계, 예산을 입력하면 실패 없는 선물 리스트를 뽑아드립니다."
 tags: ["선물추천", "기념일", "집들이", "생일"]

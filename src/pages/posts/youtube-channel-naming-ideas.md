@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "유튜브 채널명 & 닉네임 추천 (YouTube Channel Naming)"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.164Z"
+updatedDate: "2026-02-07T09:10:33.164Z"
 category: "창작 및 취미"
 description: "구독자를 부르는 매력적인 채널명! AI가 알고리즘의 선택을 받을 수 있는 센스 있는 이름을 지어드립니다."
 tags: ["유튜브", "채널명", "닉네임", "크리에이터", "네이밍"]

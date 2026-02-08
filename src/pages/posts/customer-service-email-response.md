@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "화난 고객 메일, 감정 소모 없이 우아하게 대처하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.140Z"
+updatedDate: "2026-02-07T09:10:33.140Z"
 category: "업무 자동화"
 description: "감정이 섞인 거친 이메일을 전문적이고 공감하는 톤의 비즈니스 메일로 바꿔주는 프롬프트입니다."
 tags: ["이메일", "CS", "비즈니스매너"]

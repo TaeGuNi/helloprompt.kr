@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "쇼츠/릴스용 짧은 시(Insta Poetry) 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.162Z"
+updatedDate: "2026-02-07T09:10:33.162Z"
 category: "창작 및 취미"
 description: "SNS에서 좋아요를 부르는 짧고 감성적인 시(Poetry)를 10초 만에 창작해보세요."
 tags: ["인스타그램", "시", "감성글", "SNS", "콘텐츠"]

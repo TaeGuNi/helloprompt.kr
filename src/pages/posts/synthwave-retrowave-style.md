@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "80년대 레트로 감성 'Synthwave' 스타일"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.170Z"
+updatedDate: "2026-02-07T09:10:33.171Z"
 category: "이미지 생성"
 description: "80년대의 네온빛 향수, 야자수, 그리드 바닥이 특징인 신스웨이브(Synthwave) 아트 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]

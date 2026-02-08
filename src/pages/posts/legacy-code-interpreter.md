@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "퇴사자가 남기고 간 암호문(레거시 코드) 해석하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.124Z"
+updatedDate: "2026-02-07T09:10:33.124Z"
 category: "코딩/개발"
 description: "문서도 없고 주석도 없는 난해한 레거시 코드를 AI가 한 줄 한 줄 분석하여 쉬운 말로 설명해줍니다."
 tags: ["레거시", "코드분석", "유지보수", "인수인계"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "엑셀 초보 탈출: CAGR(연평균 성장률) 자동 계산기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.164Z"
+updatedDate: "2026-02-07T09:10:33.164Z"
 category: "업무 자동화"
 description: "투자 수익률이나 매출 성장률 보고할 때 필수인 CAGR 공식을 엑셀 함수로 쉽게 구현해드립니다."
 tags: ["엑셀", "재무함수", "CAGR", "성장률"]

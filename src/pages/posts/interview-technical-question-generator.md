@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "직무별 '기술 면접(Technical Interview)' 예상 질문 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.114Z"
+updatedDate: "2026-02-07T09:10:33.115Z"
 category: "취업 & 이직"
 description: "개발자, 마케터, 디자이너 등 내 직무와 연차에 딱 맞는 기술 면접 예상 질문과 모범 답안을 뽑아봅니다."
 tags: ["기술면접", "전공면접", "예상질문", "직무면접"]

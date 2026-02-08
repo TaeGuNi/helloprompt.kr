@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "내 이력서와 JD 비교 분석: '스킬 갭(Skill Gap)' 진단 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.178Z"
+updatedDate: "2026-02-07T09:10:33.178Z"
 category: "취업 & 이직"
 description: "지원하려는 채용공고(JD)와 내 이력서를 대조하여 부족한 역량(Gap)을 찾고 보완 전략을 세웁니다."
 tags: ["스킬갭분석", "이력서진단", "커리어전략", "JD분석"]

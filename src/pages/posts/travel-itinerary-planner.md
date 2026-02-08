@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "J보다 꼼꼼한 AI 초개인화 여행 일정 플래너"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.157Z"
+updatedDate: "2026-02-07T09:10:33.157Z"
 category: "여행"
 description: "취향, 동선, 체력까지 고려한 완벽한 여행 계획표를 1분 만에 받아보세요."
 tags: ["여행", "일정", "플래너", "해외여행"]

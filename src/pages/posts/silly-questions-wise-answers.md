@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "멍청한 질문에 현명하게 답하기: '개미는 왜 뚠뚠한가요?' (우문현답 생성기)"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.135Z"
+updatedDate: "2026-02-07T09:10:33.135Z"
 category: "창작 및 취미"
 description: "엉뚱한 질문을 던져보세요. AI가 소크라테스 뺨치는 철학적이거나 과학적인 답변으로 놀라게 해줍니다."
 tags: ["유머", "잡학", "철학", "과학", "창의력"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "종이의 질감 'Paper Cutout & Origami' 스타일"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.175Z"
+updatedDate: "2026-02-07T09:10:33.176Z"
 category: "이미지 생성"
 description: "여러 겹의 종이를 오려 붙인 듯한 페이퍼 컷아웃(Paper Cutout)과 종이접기(Origami) 스타일 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "빈 화면 공포증 극복! 프로젝트 기획안 1분 초안"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.145Z"
+updatedDate: "2026-02-07T09:10:33.145Z"
 category: "업무 자동화"
 description: "아이디어만 있을 때, 그럴싸한 프로젝트 기획안 목차와 내용을 잡아주는 기획 비서 프롬프트입니다."
 tags: ["기획", "문서작성", "브레인스토밍"]

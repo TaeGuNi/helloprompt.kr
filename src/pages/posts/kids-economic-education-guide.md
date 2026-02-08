@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "돈은 땅파서 나오나? 아이에게 경제관념 심어주기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.162Z"
+updatedDate: "2026-02-07T09:10:33.162Z"
 category: "육아 & 교육"
 description: "돈의 가치와 노동의 의미를 쉽게 가르치는 설명 스크립트"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "내 방을 명상 센터로! AI가 읽어주는 5분 마음챙김 스크립트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.150Z"
+updatedDate: "2026-02-07T09:10:33.150Z"
 category: "건강 & 웰니스"
 description: "명상 앱 결제할 필요 없어요. 내 상황과 감정에 딱 맞는 명상 가이드를 AI가 직접 써드립니다."
 tags: ["명상", "마음챙김", "힐링", "스트레스", "TTS"]

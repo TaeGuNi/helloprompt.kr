@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "물리 문제 번역기: 상황 판단부터 식 세우기까지"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.171Z"
+updatedDate: "2026-02-07T09:10:33.171Z"
 category: "수학/과학"
 description: "글로 된 물리 문제를 읽고 상황을 분석하여, 어떤 공식을 써야 하는지 알려주는 프롬프트입니다."
 tags: ["물리", "공학", "문제해결", "프롬프트"]

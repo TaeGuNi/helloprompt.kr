@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "구구절절한 고객 피드백, 긍정/부정 분석하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.145Z"
+updatedDate: "2026-02-07T09:10:33.145Z"
 category: "업무 자동화"
 description: "수백 개의 리뷰 댓글, 감정 분석(Sentiment Analysis)으로 한방에 정리."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

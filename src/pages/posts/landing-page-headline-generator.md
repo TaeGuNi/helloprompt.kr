@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "랜딩페이지 메인 카피(Hero Copy) 생성기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.123Z"
+updatedDate: "2026-02-07T09:10:33.124Z"
 category: "마케팅/카피라이팅"
 description: "방문자를 3초 안에 사로잡는 랜딩페이지 최상단(Hero Section) 카피 작성법."
 tags: ["랜딩페이지", "웹카피", "UX라이팅", "전환율"]

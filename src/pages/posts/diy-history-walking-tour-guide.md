@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "가이드 없이 즐기는 나만의 역사 워킹 투어 만들기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.173Z"
+updatedDate: "2026-02-07T09:10:33.173Z"
 category: "여행 & 문화"
 description: "비싼 투어 신청 없이도 알차게. 내가 원하는 테마로 엮어보는 도시 역사 산책 코스."
 tags: ["워킹투어", "셀프가이드", "역사산책", "도보여행"]

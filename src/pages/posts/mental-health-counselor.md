@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "나만의 AI 심리 상담사, 스트레스 해소 멘탈 케어 가이드"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.118Z"
+updatedDate: "2026-02-07T09:10:33.118Z"
 category: "건강"
 description: "누구에게도 말 못 할 고민, AI에게 털어놓고 마음의 평화를 찾으세요."
 tags: ["멘탈케어", "스트레스", "심리상담", "힐링"]

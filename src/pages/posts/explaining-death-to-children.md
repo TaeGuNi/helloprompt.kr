@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "죽음이 뭐야? 반려동물/가족의 부재 설명하기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.132Z"
+updatedDate: "2026-02-07T09:10:33.133Z"
 category: "육아 & 교육"
 description: "상실을 경험한 아이에게 죽음을 설명하고 위로하는 법"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

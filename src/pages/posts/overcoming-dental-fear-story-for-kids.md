@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "치과 가기 전 읽는 용기 충전 스토리"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.160Z"
+updatedDate: "2026-02-07T09:10:33.160Z"
 category: "육아 & 교육"
 description: "병원을 무서워하는 아이를 위한 두려움 극복 시뮬레이션"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

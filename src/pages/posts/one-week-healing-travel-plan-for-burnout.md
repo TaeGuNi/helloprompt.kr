@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "번아웃 탈출! 온전히 나만을 위한 1주일 힐링 여행 계획"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.169Z"
+updatedDate: "2026-02-07T09:10:33.169Z"
 category: "여행 & 문화"
 description: "관광지 찍기는 그만. 진정한 휴식을 위한 1주일간의 느린 여행(Slow Travel) 가이드."
 tags: ["힐링여행", "휴식", "일주일살기", "슬로우트래블"]

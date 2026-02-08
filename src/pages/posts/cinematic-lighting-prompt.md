@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "영화 같은 분위기를 만드는 'Cinematic Lighting' 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.096Z"
+updatedDate: "2026-02-07T09:10:33.096Z"
 category: "이미지 생성"
 description: "밋밋한 이미지를 헐리우드 영화의 한 장면처럼 만드는 조명 프롬프트 비법을 공개합니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]

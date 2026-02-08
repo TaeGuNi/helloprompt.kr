@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "빚 탈출 시뮬레이터: 가장 빠른 상환 전략"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.136Z"
+updatedDate: "2026-02-07T09:10:33.136Z"
 category: "재테크 & 투자"
 description: "눈덩이 전략 vs 산사태 전략. 내 대출 상황에 딱 맞는 최적의 빚 갚기 순서를 알려드립니다."
 tags: ["부채상환", "대출", "재테크", "신용관리"]

@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "TRPG 마스터를 위한 시나리오 훅 생성 (Scenario Hooks)"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.154Z"
+updatedDate: "2026-02-07T09:10:33.154Z"
 category: "창작 및 취미"
 description: "세션 준비 시간이 부족한 GM을 위한 선물. 플레이어들을 즉시 모험으로 이끄는 흥미진진한 도입부를 생성합니다."
 tags: ["TRPG", "D&D", "시나리오", "게임마스터", "스토리"]

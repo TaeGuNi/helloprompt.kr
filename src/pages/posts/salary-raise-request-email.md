@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "현 직장에서 연봉 올리기: '연봉 인상 요청' 이메일 작성법"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.144Z"
+updatedDate: "2026-02-07T09:10:33.144Z"
 category: "취업 & 이직"
 description: "이직만이 답은 아닙니다. 현 직장에서 나의 성과를 증명하고 논리적으로 연봉 인상을 요구하는 이메일 가이드입니다."
 tags: ["연봉인상", "협상메일", "성과공유", "승진요청"]

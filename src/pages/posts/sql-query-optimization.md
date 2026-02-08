@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "SQL 쿼리 최적화, DB가 비명을 지르기 전에"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.170Z"
+updatedDate: "2026-02-07T09:10:33.170Z"
 category: "개발"
 description: "느리고 복잡한 SQL 쿼리를 분석하여 성능을 최적화하고 인덱스 힌트까지 제안하는 프롬프트입니다."
 tags: ["SQL", "DB튜닝", "백엔드"]

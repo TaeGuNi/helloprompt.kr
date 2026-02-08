@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "하루 5분 멘탈 케어, AI 감사 일기 및 회고 프롬프트"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.093Z"
+updatedDate: "2026-02-07T09:10:33.094Z"
 category: "일상"
 description: "빈 화면 앞에서 막막해하지 마세요. AI가 던지는 질문에 답하다 보면 힐링이 시작됩니다."
 tags: ["일기", "회고", "감사일기", "멘탈케어"]

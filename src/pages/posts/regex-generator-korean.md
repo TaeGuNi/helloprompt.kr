@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "외계어 같은 정규표현식(Regex), 한국어로 주문하세요"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.095Z"
+updatedDate: "2026-02-07T09:10:33.095Z"
 category: "코딩/개발"
 description: "복잡한 정규표현식을 암호 해독하듯 끙끙대지 마세요. 원하는 패턴만 말하면 AI가 정규식을 만들어줍니다."
 tags: ["정규표현식", "Regex", "문자열처리", "유효성검사"]

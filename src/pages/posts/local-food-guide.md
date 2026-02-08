@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "현지인처럼 먹자! AI 로컬 맛집 내비게이터"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.119Z"
+updatedDate: "2026-02-07T09:10:33.119Z"
 category: "여행"
 description: "관광객용 식당은 가라. 현지인들이 줄 서는 진짜 맛집 찾는 법."
 tags: ["여행", "맛집", "먹방", "현지인맛집"]

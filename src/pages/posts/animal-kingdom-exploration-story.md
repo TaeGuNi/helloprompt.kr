@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "동물 왕국 탐험: 자연과 친구가 되는 이야기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.126Z"
+updatedDate: "2026-02-07T09:10:33.126Z"
 category: "육아 & 교육"
 description: "생태 지식과 상상력을 동시에 잡는 동물 친구들의 모험"
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]

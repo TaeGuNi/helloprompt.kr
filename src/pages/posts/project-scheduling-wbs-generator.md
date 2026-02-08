@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "프로젝트 일정 관리(WBS) 자동으로 짜기"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.148Z"
+updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"
 description: "마감일부터 역산해서 할 일을 쪼개주는 스케줄링 프롬프트."
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]

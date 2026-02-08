@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "엑셀 민감도 분석: '만약에' 시나리오 완벽 대비"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.172Z"
+updatedDate: "2026-02-07T09:10:33.172Z"
 category: "업무 자동화"
 description: "환율이 10% 오르면 이익은 얼마나 줄까? 엑셀 데이터 표 기능으로 수십 가지 경우의 수를 한 번에 계산합니다."
 tags: ["엑셀", "민감도분석", "시나리오", "데이터표"]

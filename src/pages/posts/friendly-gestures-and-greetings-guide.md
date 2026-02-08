@@ -2,8 +2,8 @@
 layout: /src/layouts/Layout.astro
 title: "현지인과 3초 만에 친해지는 마법의 인사법 & 제스처"
 author: "Zzabbis"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.166Z"
+updatedDate: "2026-02-07T09:10:33.166Z"
 category: "여행 & 문화"
 description: "손짓 하나 잘못했다가 싸움 날 뻔? 오해를 부르는 제스처와 환영받는 인사말."
 tags: ["인사말", "바디랭귀지", "제스처", "문화소통"]

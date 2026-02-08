@@ -37,7 +37,7 @@
 
 - **서버 실행:** `pnpm run dev -- --host`
 - **테스트:** `pnpm test` (Unit), `pnpm test:e2e` (E2E)
-- **배포:** `pnpm run deploy` (Lint -> Test -> Build -> Deploy)
+- **배포:** `git push` (Vercel 자동 배포)
 
 ## 🤖 Agent Protocols
 

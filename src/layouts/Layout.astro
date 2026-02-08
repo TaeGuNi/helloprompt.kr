@@ -678,7 +678,15 @@ import AdUnit from "../components/AdUnit.astro";
       }
 
       {/* --- AD: Article Top (After Header) --- */}
-      {!isHome && <AdUnit slotId="7945897337" className="container-ad-top" />}
+      {
+        !isHome && (
+          <AdUnit
+            slotId="7945897337"
+            className="container-ad-top"
+            lang={currentLang}
+          />
+        )
+      }
 
       {
         !isHome && headings && headings.length > 0 && (
@@ -745,7 +753,11 @@ import AdUnit from "../components/AdUnit.astro";
             </div>
 
             {/* --- AD: Article Bottom (Before Comments/Related) --- */}
-            <AdUnit slotId="8812266186" className="article-ad-bottom" />
+            <AdUnit
+              slotId="8812266186"
+              className="article-ad-bottom"
+              lang={currentLang}
+            />
 
             <slot />
           </article>

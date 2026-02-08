@@ -7,6 +7,7 @@ interface Props {
   responsive?: boolean;
   label?: string;
   className?: string;
+  lang?: string;
 }
 
 const {
@@ -15,6 +16,7 @@ const {
   responsive = true,
   label = "ADVERTISEMENT",
   className = "",
+  lang = "ko",
 } = Astro.props;
 
 const isDev = import.meta.env.DEV;
@@ -60,11 +62,10 @@ const pubId = "ca-pub-3431175239292021";
         )}
       </div>
     ) : (
-      <HouseAd />
+      <HouseAd lang={lang} />
     )
   }
 </div>
-
 <style>
   .bg-stripes {
     background-image: linear-gradient(

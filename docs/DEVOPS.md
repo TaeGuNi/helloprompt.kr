@@ -13,7 +13,7 @@
   - **Concurrency:** 동일 PR에 새 커밋 푸시 시 이전 테스트 자동 취소 (자원 절약)
   - 목적: 코드 품질 검증
 - **`main` (CD):** 배포 브랜치.
-  - Push 시: 배포 전용 워크플로우 실행 (**Static Deploy**)
+  - Push 시: **Vercel이 자동으로 코드를 가져가서(Pull) 배포합니다.**
   - 목적: 실제 서비스 운영
 
 ### 🚀 배포 프로세스
@@ -22,7 +22,7 @@
     - `lint-and-unit`: 정적 분석 및 유닛 테스트
     - `e2e-test`: Playwright E2E 테스트
 2.  모든 테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
-3.  `main` 브랜치에 코드가 병합되면 자동으로 배포가 시작됩니다. (Vercel Git Integration)
+3.  `main` 브랜치에 코드가 병합되면 **Vercel이 이를 감지하고 알아서 코드를 땡겨가서(Pull) 배포를 시작합니다.** (GitHub Action 불필요)
 
 ```mermaid
 graph LR

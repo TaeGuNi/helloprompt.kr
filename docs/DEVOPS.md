@@ -58,6 +58,9 @@ pnpm test --coverage
 - **Platform:** Vercel (Serverless / Edge Network)
 - **Node Version:** Node.js v24.13.0 (LTS)
 - **Package Manager:** pnpm (Strict Mode)
+- **Deployment Strategy:** Prebuilt Static Deploy
+  - GitHub Actions에서 `pnpm run build` 수행 후 `dist/` 폴더만 Vercel로 전송
+  - `.vercelignore`로 소스 코드 업로드 차단 (파일 개수 제한 우회)
 
 ## 5. 모니터링 & 유지보수 (Monitoring)
 

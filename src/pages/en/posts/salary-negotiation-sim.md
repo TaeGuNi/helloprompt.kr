@@ -54,9 +54,9 @@ Turn on ChatGPT App's **Voice Mode (Headphone Icon)**. This is the real deal.
 >
 > **Scenario:**
 >
-> 1. Attack me first: "Ideally we can't match that figure based on our band."
+> 1. Attack me first: "Unfortunately, we can't match that figure based on our internal salary band."
 > 2. When I give defense logic (performance, market value), dig deeper.
-> 3. Never say "Okay" easily. Concede only after at least 3 turns of tiki-taka.
+> 3. Never say "Okay" easily. Concede only after at least 3 turns of back-and-forth conversation.
 >
 > **Feedback:**
 > After simulation, give cold feedback on my attitude (Lack of confidence, weak evidence, etc.).

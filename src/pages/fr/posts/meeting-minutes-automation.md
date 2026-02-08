@@ -1,110 +1,107 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finissez le compte-rendu de réunion d'1h en 10 secondes et partez à l'heure"
-author: "Zzabbis"
-date: "2026-02-03"
-updatedDate: "2026-02-04"
+title: "Échappez à l'Enfer des Réunions : Enregistrement vers PV + Email en 3 min"
+author: "ZZabbis"
+date: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "Automatisation du Travail"
-description: "Confiez les tâches répétitives simples à l'IA et récupérez votre soirée. Un prompt d'automatisation qui transforme un texte désordonné en un rapport parfait."
-tags: ["Productivité", "Automatisation", "Équilibre Vie Pro-Vie Perso"]
+description: "Flux de travail parfait pour automatiser les comptes-rendus de réunion ennuyeux avec Whisper et GPT. Guide essentiel pour les juniors."
+tags: ["PV", "Whisper", "ChatGPT", "Automatisation", "Productivité"]
 ---
 
-# ⏳ Finissez une tâche d'1h en 10 secondes
+# 📝 Échappez à l'Enfer des Réunions : Enregistrement vers PV + Email en 3 min
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+> **🎯 Recommandé pour :** Les juniors qui ont mal aux poignets à force de taper, Les managers qui demandent "Qu'est-ce qu'on a décidé ?"
+> **⏱️ Temps Requis :** 3 min (hors temps d'enregistrement)
+> **🤖 Modèle Recommandé :** OpenAI Whisper (Transcription) + ChatGPT-4o (Résumé)
 
-| Difficulté | Efficacité |  Utilité  |
-| :--------: | :--------: | :-------: |
-|  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+| Difficulté | Efficacité |  Utilité   |
+| :--------: | :--------: | :--------: |
+|   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-_"Finis le compte-rendu et rentre chez toi~"_
+> _"J'ai tout tapé pendant la réunion, mais j'ai raté l'occasion de parler... et maintenant je ne me souviens de rien en organisant mes notes... Combien de temps dois-je faire ça ?"_
 
-17h50, les mots du chef d'équipe. Désespoir.
-Écouter l'enregistrement, transcrire des conversations désordonnées, résumer... cela prend plus d'une heure.
-
-Mais ceux qui connaissent l'**« Automatisation IA »** ne paniquent pas.
-Ils copient juste la conversation et la jettent à l'IA.
-
-Confiez les tâches répétitives simples à la machine.
-Et utilisez le temps restant **pour vous (sport, lecture, repos).**
+Arrêtez d'écrire. Contentez-vous de **'Participer'** à la réunion. L'IA fait mieux l'enregistrement. Voici un processus pour terminer **Enregistrement → STT → Résumé → Envoi d'Email** en utilisant uniquement des outils gratuits.
 
 ---
 
-## ⚡️ Résumé en 3 lignes (TL;DR)
+## ⚡️ TL;DR (Résumé)
 
-1. Échappez à la tâche inefficace d'organiser manuellement des notes de réunion désordonnées.
-2. Utilisez le prompt « Secrétaire en Chef » pour extraire automatiquement les résumés, les Action Items (Tâches) et les décisions.
-3. Déléguez les tâches répétitives à l'IA et sécurisez votre équilibre vie pro-vie perso avec le temps gagné.
+1.  Allumez une appli d'enregistrement et concentrez-vous sur la réunion.
+2.  Convertissez le fichier en texte (STT). (Whisper recommandé)
+3.  Jetez le texte dans le **Prompt** ci-dessous. Terminé.
 
 ---
 
-## 🚀 La Solution : Prompt « Secrétaire en Chef »
+## 🚀 Solution : "Maître des PV de Réunion"
 
-### 🥉 Version De Base
+### 🥉 Version Basique (Résumé Rapide)
 
-Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
+Quand vous avez juste besoin de l'essentiel.
 
-> **Rôle :** Tu es un **Secrétaire en Chef** qui saisit uniquement les points essentiels avec précision.
-> **Demande :** Confie les tâches répétitives simples à l'IA et récupère ta soirée. Crée un prompt d'automatisation qui transforme un texte désordonné en un rapport parfait.
+> **Rôle :** Tu es un secrétaire compétent.
+> **Demande :** Lis le script de la réunion ci-dessous et résume-le en 3 sections : [Ordre du jour / Décisions / Plans futurs].
+> **Script :** `[Coller le texte ici]`
 
 <br>
 
-### 🥇 Version Pro (Expert)
+### 🥇 Version Pro (PV Parfaits)
 
-Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
+Quand vous devez faire un rapport au patron ou envoyer un email à l'équipe.
 
-Collez des mémos désordonnés ou du texte Clover Note directement dans la boîte ci-dessous.
-
-> **Rôle :** Tu es un **Secrétaire en Chef** qui saisit uniquement les points essentiels avec précision.
+> **Rôle :** Tu es Secrétaire en Chef dans un grand bureau de stratégie d'entreprise. Tu écris de manière logique et claire.
 >
-> **Situation :** Le contenu de la réunion qui vient de se terminer est trop désorganisé. Crée un rapport propre basé sur le `[Texte de la Réunion Ci-dessous]`.
+> **Contexte :** Je dois rédiger un Procès-Verbal (PV) officiel basé sur cette transcription.
 >
-> **Demande :**
+> **Entrée :**
+> `[Coller la transcription complète ici]`
 >
-> 1. **Résumé en 3 lignes :** Résume tout le contenu en 3 lignes pour qu'un cadre occupé puisse comprendre.
-> 2. **Action Item (À faire) :** Organise qui doit faire quoi pour quand dans un **Tableau Markdown**.
-> 3. **Décisions :** Distingue les éléments confirmés des éléments en attente.
+> **Tâche :**
 >
-> **[Texte de la Réunion Ci-dessous]**
-> (Collez le contenu de la conversation désordonnée ici)
+> 1. **[Aperçu] :** Date, Participants (si déductibles), Sujet.
+> 2. **[Décisions Clés] :** Liste numérotée des points confirmés. (Le plus important !)
+> 3. **[Action Items] :** Fais un Tableau de "Qui", "Quand", "Quoi".
+> 4. **[Problèmes/Discussions] :** Points importants discutés mais non conclus.
+> 5. **[Brouillon d'Email] :** Rédige un email poli de 'Partage des Résultats de Réunion' basé sur ce qui précède.
+>
+> **Contraintes :**
+>
+> - Supprime tous les mots de remplissage (euh, ah, hum...).
+> - Utilise des puces concises.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
+1.  **Extraire les Action Items :** La fleur des PV est "Alors qui fait quoi ?". Visualiser cela sous forme de Tableau clarifie la responsabilité.
+2.  **Brouillon d'Email :** Au lieu de simplement résumer, demander une **Sortie (Output)** prête à l'envoi réduit une étape de travail supplémentaire.
+
 ---
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Entrée : Conversation Désordonnée)
+### ❌ Avant (Écrit par un Humain)
 
-Que se passe-t-il si vous entrez une conversation de type **« Flux de Conscience »** comme ci-dessous ?
+> Résumé d'aujourd'hui. L'équipe marketing fera 3 ébauches de bannières, l'équipe dév intégration API pour cette semaine... Ah attendez, que faisait l'équipe design ?
 
-```text
-Manager Kim : Hé, tu as vérifié l'endroit à Seongsu-dong pour le pop-up store cette semaine ?
-Assistant Lee : Ah, ils ont dit que c'est complet là-bas... Hongdae est possible mais cher.
-Manager Kim : Alors vérifie Hongdae pour l'instant et refais le budget. Ah c'est vrai, tu as corrigé le texte de la bannière de la page d'accueil ?
-Staff Park : Ah, ça pas encore... L'équipe design est occupée donc ils ont dit qu'ils le donneraient d'ici demain.
-Manager Kim : Ça doit être en ligne d'ici demain. Park, tu t'en occupes.
-```
+### ✅ Après (Automatisation IA)
 
-<br>
-
-### ✅ Après (Résultat : Rapport Parfait)
-
-L'IA analyse cette conversation et termine le rapport **en seulement 10 secondes**.
-
-```text
-# 📑 Rapport de Résumé de Réunion
+> **[Action Items]**
+>
+> | Responsable    | Tâche                        | Date Limite |
+> | :------------- | :--------------------------- | :---------- |
+> | **Mark (Mkt)** | Créer 3 Ébauches de Bannière | 2026-02-10  |
+> | **Lee (Dév)**  | Test API Module de Paiement  | 2026-02-12  |
+> | **Park (Des)** | Réviser Ébauche Guide UX     | 2026-02-11  |
+>
+> **[Brouillon d'Email]**
+> Objet : [Partage] Résultats & Action Items de la Réunion Hebdo du 8/02
+> Bonjour l'équipe, Je partage les résultats de la réunion d'aujourd'hui... (suite)
 
 ---
 
 ## 🎯 Conclusion
 
-Comment c'est ?
-Pendant que vous passez du temps à lire et à dessiner des tableaux un par un, l'IA a déjà fini de se préparer pour quitter le travail.
-
-Maintenant passez le temps restant à partir à l'heure et à manger un délicieux dîner. 🍷
-```
+Ne tapez pas sur votre ordinateur portable pendant les réunions ; regardez vos collègues dans les yeux.
+La "Survie du Plus Apte" est de la vieille école.
+Maintenant c'est la **"Survie du Prompteur"**. 🍷

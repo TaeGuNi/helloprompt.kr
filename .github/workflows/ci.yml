@@ -3,7 +3,7 @@ name: CI (Test & Build)
 on:
   pull_request:
     branches:
-      - develop
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}

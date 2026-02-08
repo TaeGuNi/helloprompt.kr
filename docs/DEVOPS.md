@@ -22,14 +22,14 @@
     - `lint-and-unit`: 정적 분석 및 유닛 테스트
     - `e2e-test`: Playwright E2E 테스트
 2.  모든 테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
-3.  `main` 브랜치에 코드가 병합되면 자동으로 배포가 시작됩니다. (GitHub Action: `Deploy to Vercel`)
+3.  `main` 브랜치에 코드가 병합되면 자동으로 배포가 시작됩니다. (Vercel Git Integration)
 
 ```mermaid
 graph LR
     A[Dev Push/PR] -->|Unified CI| B{Lint/Unit & E2E}
     B -- Fail --> C[Fix Bug]
     B -- Pass --> D[Merge to main]
-    D -->|CD Trigger| E[Deploy to Vercel]
+    D -->|Vercel Auto| E[Build & Deploy]
 ```
 
 ## 2. 테스트 전략 (Testing Strategy)
@@ -59,9 +59,9 @@ pnpm test --coverage
 - **Platform:** Vercel (Serverless / Edge Network)
 - **Node Version:** Node.js v24.13.0 (LTS)
 - **Package Manager:** pnpm (Strict Mode)
-- **Deployment Strategy:** Prebuilt Static Deploy
-  - GitHub Actions에서 `pnpm run build` 수행 후 `dist/` 폴더만 Vercel로 전송
-  - `.vercelignore`로 소스 코드 업로드 차단 (파일 개수 제한 우회)
+- **Deployment Strategy:** Vercel Git Integration (Managed Build)
+  - GitHub 저장소 연결을 통해 소스 코드를 Vercel 서버에서 직접 빌드 및 배포
+  - 장점: 파일 업로드 개수 제한(5000개) 우회, 미리보기 배포 자동화
 - **Cache Control:** `vercel.json` 설정
   - HTML (`/(.*)`): `max-age=0, must-revalidate` (항상 최신 확인)
   - Assets (`/images`, `/fonts`): `max-age=31536000, immutable` (장기 캐시)

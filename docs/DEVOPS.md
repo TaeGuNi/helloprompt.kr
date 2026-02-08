@@ -62,6 +62,9 @@ pnpm test --coverage
 - **Deployment Strategy:** Prebuilt Static Deploy
   - GitHub Actions에서 `pnpm run build` 수행 후 `dist/` 폴더만 Vercel로 전송
   - `.vercelignore`로 소스 코드 업로드 차단 (파일 개수 제한 우회)
+- **Cache Control:** `vercel.json` 설정
+  - HTML (`/(.*)`): `max-age=0, must-revalidate` (항상 최신 확인)
+  - Assets (`/images`, `/fonts`): `max-age=31536000, immutable` (장기 캐시)
 
 ## 5. 모니터링 & 유지보수 (Monitoring)
 

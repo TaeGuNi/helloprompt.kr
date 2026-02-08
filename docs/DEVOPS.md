@@ -62,9 +62,7 @@ pnpm test --coverage
 - **Deployment Strategy:** Vercel Git Integration (Managed Build)
   - GitHub 저장소 연결을 통해 소스 코드를 Vercel 서버에서 직접 빌드 및 배포
   - 장점: 파일 업로드 개수 제한(5000개) 우회, 미리보기 배포 자동화
-- **Cache Control:** `vercel.json` 설정
-  - HTML (`/(.*)`): `max-age=0, must-revalidate` (항상 최신 확인)
-  - Assets (`/images`, `/fonts`): `max-age=31536000, immutable` (장기 캐시)
+- **Cache Control:** Vercel 기본 캐시 정책 사용
 
 ## 5. 모니터링 & 유지보수 (Monitoring)
 

@@ -9,26 +9,27 @@
 ### 🌿 브랜치 전략 (Branch Strategy)
 
 - **`develop` (CI):** 개발 및 통합 브랜치.
-  - Push 시: Lint, Unit Test, E2E Test, Build 확인 (배포 X)
+  - Push/PR 시: **통합 CI 워크플로우** 실행 (Lint, Unit, E2E 병렬 수행)
+  - **Concurrency:** 동일 PR에 새 커밋 푸시 시 이전 테스트 자동 취소 (자원 절약)
   - 목적: 코드 품질 검증
 - **`main` (CD):** 배포 브랜치.
-  - Push 시: CI 통과 후 **Vercel Production 배포** 자동 실행
+  - Push 시: 배포 전용 워크플로우 실행 (**Static Deploy**)
   - 목적: 실제 서비스 운영
 
 ### 🚀 배포 프로세스
 
-1.  작업 내용을 `develop` 브랜치에 Push합니다. (GitHub Action: `CI`)
-2.  테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
+1.  작업 내용을 `develop` 브랜치에 Push합니다. (GitHub Action: `CI (Lint, Unit & E2E)`)
+    - `lint-and-unit`: 정적 분석 및 유닛 테스트
+    - `e2e-test`: Playwright E2E 테스트
+2.  모든 테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
 3.  `main` 브랜치에 코드가 병합되면 자동으로 배포가 시작됩니다. (GitHub Action: `Deploy to Vercel`)
 
 ```mermaid
 graph LR
-    A[Dev Push] -->|CI Trigger| B(develop)
-    B --> C{Tests Pass?}
-    C -- No --> D[Fix Bug]
-    C -- Yes --> E[Merge to main]
-    E -->|CD Trigger| F(main)
-    F --> G[Deploy to Vercel]
+    A[Dev Push/PR] -->|Unified CI| B{Lint/Unit & E2E}
+    B -- Fail --> C[Fix Bug]
+    B -- Pass --> D[Merge to main]
+    D -->|CD Trigger| E[Deploy to Vercel]
 ```
 
 ## 2. 테스트 전략 (Testing Strategy)
@@ -58,6 +59,9 @@ pnpm test --coverage
 - **Platform:** Vercel (Serverless / Edge Network)
 - **Node Version:** Node.js v24.13.0 (LTS)
 - **Package Manager:** pnpm (Strict Mode)
+- **Deployment Strategy:** Prebuilt Static Deploy
+  - GitHub Actions에서 `pnpm run build` 수행 후 `dist/` 폴더만 Vercel로 전송
+  - `.vercelignore`로 소스 코드 업로드 차단 (파일 개수 제한 우회)
 
 ## 5. 모니터링 & 유지보수 (Monitoring)
 

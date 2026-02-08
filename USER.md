@@ -2,11 +2,12 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Jay
+- **What to call them:** Jay
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** Asia/Seoul
 - **Notes:**
+  - Calls the project `helloprompt.kr` (current workspace) "**핼프**".
 
 ## Context
 

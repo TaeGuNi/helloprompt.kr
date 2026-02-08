@@ -1,4 +1,6 @@
 ---
+import HouseAd from "./HouseAd.astro";
+
 interface Props {
   slotId: string;
   format?: "auto" | "fluid" | "rectangle";
@@ -16,6 +18,8 @@ const {
 } = Astro.props;
 
 const isDev = import.meta.env.DEV;
+// TODO: Change this to true when AdSense is approved
+const isApproved = false;
 const pubId = "ca-pub-3431175239292021";
 ---
 
@@ -28,35 +32,37 @@ const pubId = "ca-pub-3431175239292021";
     )
   }
 
-  <div
-    class="ad-slot-container w-full min-h-[280px] bg-white/5 rounded-lg overflow-hidden relative flex items-center justify-center border border-white/5 shadow-sm"
-  >
-    {
-      isDev ? (
-        <div class="flex flex-col items-center justify-center p-6 text-gray-500 w-full h-full bg-stripes">
-          <span class="font-bold text-sm mb-1">AdSense Unit</span>
-          <code class="text-xs bg-black/20 px-2 py-1 rounded text-blue-300">
-            {slotId}
-          </code>
-          <span class="text-[10px] mt-2 opacity-60">format: {format}</span>
-        </div>
-      ) : (
-        <>
-          <ins
-            class="adsbygoogle"
-            style="display:block"
-            data-ad-client={pubId}
-            data-ad-slot={slotId}
-            data-ad-format={format}
-            data-full-width-responsive={responsive ? "true" : "false"}
-          />
-          <script is:inline>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-        </>
-      )
-    }
-  </div>
+  {
+    isApproved ? (
+      <div class="ad-slot-container w-full min-h-[280px] bg-white/5 rounded-lg overflow-hidden relative flex items-center justify-center border border-white/5 shadow-sm">
+        {isDev ? (
+          <div class="flex flex-col items-center justify-center p-6 text-gray-500 w-full h-full bg-stripes">
+            <span class="font-bold text-sm mb-1">AdSense Unit</span>
+            <code class="text-xs bg-black/20 px-2 py-1 rounded text-blue-300">
+              {slotId}
+            </code>
+            <span class="text-[10px] mt-2 opacity-60">format: {format}</span>
+          </div>
+        ) : (
+          <>
+            <ins
+              class="adsbygoogle"
+              style="display:block"
+              data-ad-client={pubId}
+              data-ad-slot={slotId}
+              data-ad-format={format}
+              data-full-width-responsive={responsive ? "true" : "false"}
+            />
+            <script is:inline>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </>
+        )}
+      </div>
+    ) : (
+      <HouseAd />
+    )
+  }
 </div>
 
 <style>

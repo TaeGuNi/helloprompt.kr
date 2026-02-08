@@ -1,0 +1,87 @@
+---
+interface Props {
+  className?: string;
+}
+
+const { className = "" } = Astro.props;
+
+// 배너 타입 정의
+const banners = [
+  {
+    icon: "🚀",
+    title: "AI 프롬프트 마스터하기",
+    desc: "초보자도 쉽게 따라하는 프롬프트 작성 가이드를 확인하세요.",
+    link: "/tags/guide",
+    cta: "가이드 보기",
+    color: "from-blue-500/20 to-purple-500/20",
+    border: "border-blue-500/30",
+  },
+  {
+    icon: "💎",
+    title: "숨겨진 꿀팁 발견하기",
+    desc: "업무 효율을 200% 높여주는 AI 활용 사례 모음",
+    link: "/tags/productivity",
+    cta: "꿀팁 확인",
+    color: "from-emerald-500/20 to-cyan-500/20",
+    border: "border-emerald-500/30",
+  },
+  {
+    icon: "✨",
+    title: "매일 새로운 영감",
+    desc: "창의적인 글쓰기와 그림을 위한 프롬프트 라이브러리",
+    link: "/posts",
+    cta: "전체 글 보기",
+    color: "from-amber-500/20 to-orange-500/20",
+    border: "border-amber-500/30",
+  },
+];
+
+// 랜덤하게 하나 선택 (Client Side Hydration이 없으므로 빌드/SSR 시점에 결정됨)
+// 매번 다른 걸 보여주려면 client:load를 써야 하지만,
+// 성능을 위해 CSS 기반이나 단순 랜덤 렌더링을 사용합니다.
+const banner = banners[Math.floor(Math.random() * banners.length)];
+---
+
+<a
+  href={banner.link}
+  class={`group relative flex items-center justify-between w-full p-6 overflow-hidden rounded-lg border ${banner.border} bg-gradient-to-br ${banner.color} hover:opacity-90 transition-all duration-300 no-underline ${className}`}
+>
+  <div class="flex items-center gap-4 z-10">
+    <span class="text-3xl filter drop-shadow-lg">{banner.icon}</span>
+    <div class="flex flex-col">
+      <span
+        class="text-sm font-bold text-white group-hover:text-cyan-300 transition-colors"
+      >
+        {banner.title}
+      </span>
+      <span class="text-xs text-gray-300 mt-1 line-clamp-1">
+        {banner.desc}
+      </span>
+    </div>
+  </div>
+
+  <div class="flex items-center z-10">
+    <span
+      class="px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white bg-white/10 rounded-full border border-white/10 group-hover:bg-white/20 transition-all"
+    >
+      {banner.cta} &rarr;
+    </span>
+  </div>
+
+  <!-- Background Effect -->
+  <div
+    class="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent -translate-x-full group-hover:animate-shimmer"
+  >
+  </div>
+</a>
+
+<style>
+  @keyframes shimmer {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  .animate-shimmer {
+    animation: shimmer 1.5s infinite;
+  }
+</style>

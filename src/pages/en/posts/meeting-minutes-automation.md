@@ -1,110 +1,107 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finish 1-Hour Meeting Minutes in 10 Seconds and Leave Work on Time"
-author: "Zzabbis"
-date: "2026-02-03"
-updatedDate: "2026-02-04"
+title: "Escape Meeting Hell: Recording to Minutes & Email in 3 Mins"
+author: "ZZabbis"
+date: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "Work Automation"
-description: "Leave simple repetitive tasks to AI and reclaim your evening. An automation prompt that turns messy text into a perfect report."
-tags: ["Productivity", "Automation", "Work-Life Balance"]
+description: "Perfect workflow to automate boring meeting minutes using Whisper and GPT. Essential for junior staff."
+tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 ---
 
-# ⏳ Finish 1-Hour Task in 10 Seconds
+# 📝 Escape Meeting Hell: Recording to Minutes & Email in 3 Mins
 
-> **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+> **🎯 Recommended for:** Juniors whose wrists hurt from typing, Managers asking "What did we decide?"
+> **⏱️ Time Required:** 3 mins (excluding recording time)
+> **🤖 Recommended Model:** OpenAI Whisper (Transcription) + ChatGPT-4o (Summarization)
 
-| Difficulty | Effectiveness |  Utility  |
-| :--------: | :-----------: | :-------: |
-|  ⭐⭐☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐☆ |
+| Difficulty | Effectiveness |  Utility   |
+| :--------: | :-----------: | :--------: |
+|   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-_"Finish the minutes and go home~"_
+> _"I typed everything during the meeting, but missed my chance to speak... and now I can't remember anything while organizing notes... How long do I have to do this?"_
 
-5:50 PM, the team leader's words. Despair.
-Listening to the recording, transcribing messy conversations, summarizing... it takes over an hour.
-
-But those who know **"AI Automation"** don't panic.
-They just copy the conversation and throw it to the AI.
-
-Hand over simple repetitive tasks to the machine.
-And use the remaining time **for yourself (exercise, reading, rest).**
+Stop writing. Just **'Participate'** in the meeting. AI does the recording better. Here is a process to finish **Recording → STT → Summary → Email Sending** using only free tools.
 
 ---
 
-## ⚡️ 3-Line Summary (TL;DR)
+## ⚡️ TL;DR
 
-1. Escape from the inefficient task of manually organizing messy meeting notes.
-2. Use the 'Chief Secretary' prompt to automatically extract summaries, Action Items, and decisions.
-3. Delegate repetitive tasks to AI and secure your work-life balance with the saved time.
+1.  Turn on a recorder app (like Voice Memo or ClovaNote) and focus on the meeting.
+2.  Convert the file to text (STT). (Whisper recommended)
+3.  Throw the text into the **Prompt** below. Done.
 
 ---
 
-## 🚀 The Solution: "Chief Secretary" Prompt
+## 🚀 Solution: "Meeting Minute Master"
 
-### 🥉 Basic Version
+### 🥉 Basic Version (Quick Summary)
 
-Use this when you just need a quick result.
+When you just need the gist.
 
-> **Role:** You are a **Chief Secretary** who grasps only the core points accurately.
-> **Request:** Leave simple repetitive tasks to AI and reclaim your evening. Create an automation prompt that turns messy text into a perfect report.
+> **Role:** You are a competent secretary.
+> **Request:** Read the script below and summarize into 3 sections: [Agenda / Decisions / Future Plans].
+> **Script:** `[Paste text here]`
 
 <br>
 
-### 🥇 Pro Version (Expert)
+### 🥇 Pro Version (Perfect Minutes)
 
-Use this when you need detailed quality.
+When you need to report to the boss or email the team.
 
-Paste messy memos or Clover Note text directly into the box below.
-
-> **Role:** You are a **Chief Secretary** who grasps only the core points accurately.
+> **Role:** You are a Chief Secretary at a large corporate strategy office. You write logically and clearly.
 >
-> **Situation:** The meeting content that just ended is too disorganized. Create a clean report based on the `[Meeting Text Below]`.
+> **Context:** I need to write official Meeting Minutes based on this transcript.
 >
-> **Request:**
+> **Input:**
+> `[Paste full transcript here]`
 >
-> 1. **3-Line Summary:** Summarize the entire content in 3 lines so a busy executive can understand.
-> 2. **Action Item (To-Do):** Organize who needs to do what by when in a **Markdown Table**.
-> 3. **Decisions:** Distinguish between confirmed items and pending items.
+> **Task:**
 >
-> **[Meeting Text Below]**
-> (Paste the messy conversation content here)
+> 1. **[Overview]:** Date, Attendees (if inferable), Topic.
+> 2. **[Key Decisions]:** Numbered list of confirmed items. (Most Important!)
+> 3. **[Action Items]:** Make a Table of "Who", "When", "What".
+> 4. **[Issues/Discussions]:** Important points discussed but not concluded.
+> 5. **[Email Draft]:** Write a polite 'Meeting Result Share' email based on the above.
+>
+> **Constraints:**
+>
+> - Remove all filler words (um, ah, er...).
+> - Use concise bullet points for the report.
 
 ---
 
-## 🧬 Prompt Anatomy (Why it works?)
+## 🧬 Anatomy of Prompt (Why it works?)
+
+1.  **Extract Action Items:** The flower of meeting minutes is "So who does what?". Visualizing this as a Table clarifies responsibility.
+2.  **Email Draft:** Instead of just summarizing, asking for a ready-to-send **Output** reduces one more work step.
 
 ---
 
 ## 📊 Proof: Before & After
 
-### ❌ Before (Input: Messy Conversation)
+### ❌ Before (Human Written)
 
-What happens if you input a **"Stream of Consciousness"** conversation like below?
+> Summary of today. Marketing team will make 3 banner drafts, Dev team API integration by this week... Oh wait, what was Design team doing?
 
-```text
-Manager Kim: Hey, did you check the Seongsu-dong spot for the pop-up store this week?
-Assistant Lee: Ah, they said it's full there... Hongdae is possible but expensive.
-Manager Kim: Then check Hongdae for now and replan the budget. Oh right, did you fix the homepage banner text?
-Staff Park: Ah, that's not yet... The design team is busy so they said they'll give it by tomorrow.
-Manager Kim: It must be up by tomorrow. Park, you take care of it.
-```
+### ✅ After (AI Automation)
 
-<br>
-
-### ✅ After (Result: Perfect Report)
-
-The AI analyzes this conversation and completes the report **in just 10 seconds**.
-
-```text
-# 📑 Meeting Summary Report
+> **[Action Items]**
+>
+> | Assignee       | Task                        | Deadline   |
+> | :------------- | :-------------------------- | :--------- |
+> | **Mark (Mkt)** | Create 3 Main Banner Drafts | 2026-02-10 |
+> | **Lee (Dev)**  | Payment Module API Test     | 2026-02-12 |
+> | **Park (Des)** | Review UX Guideline Draft   | 2026-02-11 |
+>
+> **[Email Draft]**
+> Subject: [Share] Results & Action Items for 2/8 Weekly Meeting
+> Hi Team, Sharing the results of today's meeting... (cont.)
 
 ---
 
 ## 🎯 Conclusion
 
-How is it?
-While you spend time reading and drawing tables one by one, the AI has already finished preparing to leave work.
-
-Now spend the remaining time leaving on time and eating a delicious dinner. 🍷
-```
+Don't type on your laptop during meetings; look into your colleagues' eyes.
+"Survival of the Fittest" is old school.
+Now it's **"Survival of the Prompter"**. 🍷

@@ -66,3 +66,41 @@ import AdUnit from "../components/AdUnit.astro";
   - 신규 광고 단위는 활성화까지 최대 1시간이 걸릴 수 있습니다.
   - 브라우저의 **광고 차단(AdBlock)** 확장 프로그램을 끄고 확인하세요.
 - **자동 광고가 계속 떠요:** Google AdSense 콘솔 > 사이트 기준 > 설정에서 [자동 광고]가 켜져 있는지 확인하고 끄세요.
+
+## 6. 승인 대기 기간 전략 (House Ads)
+
+AdSense 승인이 완료되기 전까지 빈 공간(Blank Space)이 발생하는 문제를 해결하기 위해 **자체 홍보 배너(House Ads)** 시스템을 도입했습니다.
+
+### 작동 방식
+
+- **Before Approval:** `<HouseAd />` 컴포넌트가 렌더링되어 내부 콘텐츠(가이드, 인기글 등)를 홍보합니다.
+- **After Approval:** 설정만 변경하면 즉시 실제 AdSense 광고가 송출됩니다.
+
+### 설정 변경 방법 (`src/components/AdUnit.astro`)
+
+AdSense 승인이 완료되면 아래 변수를 `true`로 변경하세요.
+
+```typescript
+// src/components/AdUnit.astro
+
+// ⚠️ AdSense 승인 완료 시 true로 변경
+const isApproved = true;
+```
+
+### 자체 배너 수정 (`src/components/HouseAd.astro`)
+
+`banners` 배열을 수정하여 노출될 홍보 콘텐츠를 관리할 수 있습니다.
+
+```typescript
+const banners = [
+  {
+    icon: "🚀",
+    title: "AI 프롬프트 마스터하기", // 제목
+    desc: "초보자 가이드...", // 설명
+    link: "/tags/guide", // 이동 링크
+    cta: "가이드 보기", // 버튼 텍스트
+    color: "from-blue-500/20...", // 그라디언트 색상
+  },
+  // ... 추가 가능
+];
+```

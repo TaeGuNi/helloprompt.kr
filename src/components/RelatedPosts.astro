@@ -11,8 +11,6 @@ interface Props {
 const { currentTags = [], currentPath, lang } = Astro.props;
 
 // 1. 모든 포스트 가져오기 (언어별 분기 필요 시 확장 가능, 현재는 posts/*.md)
-// 다국어 지원을 위해 lang에 따라 폴더를 다르게 가져올 수도 있음
-// 여기서는 간단하게 '현재 언어'의 포스트만 추천하도록 필터링
 let allPosts: Post[] = [];
 
 if (lang === "ko") {
@@ -20,13 +18,7 @@ if (lang === "ko") {
     import.meta.glob("../pages/posts/*.md", { eager: true }),
   ) as Post[];
 } else {
-  // 동적 import가 어려우므로, 전체를 가져와서 url 필터링
-  // 혹은 각 언어별로 glob을 따로 해야 하는데, Astro glob은 리터럴이어야 함.
-  // 일단 한국어 위주로 구현하고, 다국어는 추후 고도화 (현재 구조상 ko만 posts/*.md)
-  // 다국어는 ../pages/{lang}/posts/*.md 형태임.
-  // * glob 패턴에 변수 사용 불가.
-  // 임시로 한국어만 지원하거나, 상위에서 posts를 넘겨주는게 나을 수 있음.
-  // 여기서는 '한국어' 관련 글만 우선 구현 (MVP)
+  // 임시로 한국어만 지원 (다국어는 추후 고도화)
   allPosts = Object.values(
     import.meta.glob("../pages/posts/*.md", { eager: true }),
   ) as Post[];
@@ -34,15 +26,12 @@ if (lang === "ko") {
 
 // 2. 관련 글 찾기
 const candidates = allPosts.filter((post) => {
-  // 현재 글 제외
   if (post.url === currentPath) return false;
-
-  // 태그가 하나라도 겹치면 후보
   const postTags = post.frontmatter.tags || [];
   return postTags.some((tag) => currentTags.includes(tag));
 });
 
-// 3. 점수 산정 및 정렬 (겹치는 태그 수 -> 최신순)
+// 3. 점수 산정 및 정렬
 const related = candidates
   .map((post) => {
     const overlap = (post.frontmatter.tags || []).filter((t) =>
@@ -57,7 +46,7 @@ const related = candidates
       new Date(a.frontmatter.date).valueOf()
     );
   })
-  .slice(0, 4); // 상위 4개
+  .slice(0, 4);
 
 // 번역 (UI)
 const TITLE_MAP: Record<string, string> = {
@@ -98,6 +87,7 @@ const sectionTitle = TITLE_MAP[lang] || TITLE_MAP["en"];
     margin-top: 80px;
     padding-top: 40px;
     border-top: 1px solid rgba(0, 243, 255, 0.3);
+    min-height: 300px; /* [Optimization] CLS 방지용 최소 높이 확보 */
   }
 
   .related-title {

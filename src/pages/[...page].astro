@@ -200,9 +200,10 @@ const frontmatter = {
   <script>
     /**
      * 검색 기능 제어 스크립트
+     * - Fuse.js를 이용한 Fuzzy Search (오타 보정, 가중치 적용)
      * - Debounce를 적용하여 불필요한 연산을 줄임
-     * - DOM 조작 최소화
      */
+    import Fuse from "fuse.js";
 
     interface SearchItem {
       title: string;
@@ -217,8 +218,8 @@ const frontmatter = {
     ) as HTMLInputElement | null;
     const searchResults = document.getElementById("search-results");
 
-    // 검색 데이터 캐시
-    let searchIndex: SearchItem[] = [];
+    // Fuse.js 인스턴스 및 데이터
+    let fuse: Fuse<SearchItem> | null = null;
 
     /**
      * 초기 데이터 로드 (비동기)
@@ -227,7 +228,21 @@ const frontmatter = {
     async function loadSearchIndex() {
       try {
         const response = await fetch("/search.json");
-        searchIndex = await response.json();
+        const searchIndex: SearchItem[] = await response.json();
+
+        // Fuse.js 초기화
+        fuse = new Fuse(searchIndex, {
+          keys: [
+            { name: "title", weight: 0.6 }, // 제목에 가장 높은 가중치
+            { name: "tags", weight: 0.3 }, // 태그
+            { name: "description", weight: 0.1 }, // 설명
+          ],
+          threshold: 0.4, // 0.0(완벽 일치) ~ 1.0(모두 일치). 0.4 정도가 적당함.
+          ignoreLocation: true, // 패턴이 어디에 있든 찾음
+          includeScore: true, // 점수 포함 (디버깅용)
+        });
+
+        console.log("Search Index Loaded & Fuse Initialized");
       } catch (error) {
         console.error("Failed to load search index:", error);
       }
@@ -253,25 +268,24 @@ const frontmatter = {
      */
     function handleSearch(event: Event) {
       const target = event.target as HTMLInputElement;
-      const query = target.value.trim().toLowerCase();
+      const query = target.value.trim();
 
       if (!searchResults) return;
 
       // 검색어 초기화 시 숨김
-      if (query.length < 2) {
+      if (query.length < 1) {
         searchResults.style.display = "none";
         searchResults.innerHTML = "";
         return;
       }
 
-      // 필터링 로직 (제목 또는 태그 일치)
-      const matchedPosts = searchIndex.filter((post) => {
-        const titleMatch = post.title.toLowerCase().includes(query);
-        const tagMatch =
-          post.tags &&
-          post.tags.some((tag) => tag.toLowerCase().includes(query));
-        return titleMatch || tagMatch;
-      });
+      if (!fuse) return;
+
+      // Fuse.js 검색 실행
+      const results = fuse.search(query);
+
+      // FuseResult<{item: ...}> 형태에서 item만 추출
+      const matchedPosts = results.map((result) => result.item);
 
       renderResults(matchedPosts);
     }

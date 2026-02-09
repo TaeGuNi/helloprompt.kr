@@ -176,17 +176,30 @@ const frontmatter = {
 
   <script>
     /**
-     * 검색 기능 제어 스크립트
-     * - Debounce를 적용하여 불필요한 연산을 줄임
-     * - DOM 조작 최소화
+     * 검색 기능 제어 스크립트 (다국어 지원)
+     * - Fuse.js를 이용한 Fuzzy Search
      */
+    import Fuse from "fuse.js";
+
+    interface SearchItem {
+      title: string;
+      description: string;
+      url: string;
+      tags?: string[];
+    }
 
     // DOM 요소 참조 (Null Safety)
-    const searchInput = document.getElementById("search-input");
+    const searchInput = document.getElementById(
+      "search-input",
+    ) as HTMLInputElement;
     const searchResults = document.getElementById("search-results");
 
-    // 검색 데이터 캐시
-    let searchIndex = [];
+    // Fuse.js 인스턴스
+    let fuse: Fuse<SearchItem> | null = null;
+
+    // 현재 언어 추출 (URL 경로 기반: /en/, /ja/ 등)
+    const currentPath = window.location.pathname;
+    const currentLang = currentPath.split("/")[1] || "ko";
 
     /**
      * 초기 데이터 로드 (비동기)
@@ -195,7 +208,36 @@ const frontmatter = {
     async function loadSearchIndex() {
       try {
         const response = await fetch("/search.json");
-        searchIndex = await response.json();
+        const allPosts: SearchItem[] = await response.json();
+
+        // 현재 언어에 해당하는 포스트만 필터링
+        // (search.json에는 모든 언어의 포스트가 들어있음)
+        let targetPosts = allPosts;
+
+        if (currentLang !== "ko") {
+          // 해당 언어 코드로 시작하는 URL만 필터링
+          targetPosts = allPosts.filter((post) =>
+            post.url.startsWith(`/${currentLang}/`),
+          );
+        } else {
+          // 한국어는 언어 프리픽스가 없거나 ko가 아님 (보통 루트 경로 바로 아래 posts)
+          // 명시적으로 다른 언어 코드가 없는 것들을 선택
+          const langs = ["en", "ja", "zh", "de", "fr", "es", "it", "pt", "ru"];
+          targetPosts = allPosts.filter(
+            (post) => !langs.some((lang) => post.url.startsWith(`/${lang}/`)),
+          );
+        }
+
+        // Fuse.js 초기화
+        fuse = new Fuse(targetPosts, {
+          keys: [
+            { name: "title", weight: 0.6 },
+            { name: "tags", weight: 0.3 },
+            { name: "description", weight: 0.1 },
+          ],
+          threshold: 0.4,
+          ignoreLocation: true,
+        });
       } catch (error) {
         console.error("Failed to load search index:", error);
       }
@@ -219,25 +261,22 @@ const frontmatter = {
      */
     function handleSearch(event: any) {
       const target = event.target;
-      const query = target.value.trim().toLowerCase();
+      const query = target.value.trim();
 
       if (!searchResults) return;
 
       // 검색어 초기화 시 숨김
-      if (query.length < 2) {
+      if (query.length < 1) {
         searchResults.style.display = "none";
         searchResults.innerHTML = "";
         return;
       }
 
-      // 필터링 로직 (제목 또는 태그 일치)
-      const matchedPosts = searchIndex.filter((post: any) => {
-        const titleMatch = post.title.toLowerCase().includes(query);
-        const tagMatch =
-          post.tags &&
-          post.tags.some((tag: any) => tag.toLowerCase().includes(query));
-        return titleMatch || tagMatch;
-      });
+      if (!fuse) return;
+
+      // Fuse.js 검색 실행
+      const results = fuse.search(query);
+      const matchedPosts = results.map((result) => result.item);
 
       renderResults(matchedPosts);
     }

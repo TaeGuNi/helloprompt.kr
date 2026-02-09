@@ -28,7 +28,8 @@ import { determineCurrentLang } from "../utils/i18nUtils";
 import BaseHtml from "../components/BaseHtml.astro";
 import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
-import RelatedPosts from "../components/RelatedPosts.astro"; // [NEW] 컴포넌트 추가
+import RelatedPosts from "../components/RelatedPosts.astro";
+import Comments from "../components/Comments.astro"; // [NEW] 댓글 컴포넌트
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
@@ -737,6 +738,9 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               className="article-ad-bottom"
               lang={currentLang}
             />
+
+            {/* 댓글 (Giscus) */}
+            <Comments />
 
             <slot />
           </article>

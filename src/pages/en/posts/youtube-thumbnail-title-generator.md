@@ -12,8 +12,9 @@ tags: ["YouTube", "Thumbnail", "Title Generator", "Clickbait", "Views"]
 # 📺 "Content is King? No, Click is King."
 
 > **🎯 Best For:** Small YouTubers, Creators out of ideas, Editors stuck on thumbnails
-> **⏱️ Time Saved:** 1 hour (Planning) → 3 mins (10 Ideas)
-> **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **⏱️ Time Saved:** 1 hour (Planning) → 3 mins (10 Ideas)
+- **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Difficulty | Effectiveness | Versatility |
 | :--------: | :-----------: | :---------: |
@@ -66,11 +67,10 @@ Delegate the entire pre-production planning.
 >     - **Expression/Action:** (e.g., Shocked face covering mouth)
 >     - **Text (Copy):** Short, punchy text for the image (max 3 words).
 > 3.  **Why it works:** Explain the psychology behind each choice.
->
-> **Target Audience (Input):**
->
-> - Demographic: `[e.g., College students]`
-> - Needs: `[e.g., Budget-friendly, Room decor]`
+
+- **Target Audience (Input):**
+  > - Demographic: `[e.g., College students]`
+  > - Needs: `[e.g., Budget-friendly, Room decor]`
 
 ---
 

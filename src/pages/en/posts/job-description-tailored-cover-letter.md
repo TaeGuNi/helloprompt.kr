@@ -12,8 +12,9 @@ tags: ["CoverLetter", "SelfIntro", "JDAnalysis", "Job"]
 # 📝 JD (Job Description) Tailored Cover Letter Draft Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,26 +52,25 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and use it.
 
 > **Role:** You are an HR team leader of a large corporation and hiring evaluation committee member.
->
-> **Context:** I want to apply for `[Target Job]` at `[Target Company Name]`. Based on **Job Description (JD)** and **My Core Experience** below, write a cover letter draft where motivation and job competency stand out well.
->
-> **Input Material:**
->
-> 1. **Job Description (JD):**
->    [Paste 'Qualifications' and 'Preferences' of JD here]
-> 2. **My Core Experience:**
->    [Summarize and put 2~3 related experiences of yours here]
->
-> **Task:**
->
-> 1. Pick 3 most important core keywords from JD first.
-> 2. Using my experience, write **'Motivation and Job Competency'** item (around 500 characters) proving those keywords.
-> 3. Keep tone confident yet polite business manner.
->
-> **Constraints:**
->
-> - Describe focusing on specific actions instead of abstract expressions (hard, best).
-> - Use deductive structure (present conclusion first).
+
+- **Context:** I want to apply for `[Target Job]` at `[Target Company Name]`. Based on **Job Description (JD)** and **My Core Experience** below, write a cover letter draft where motivation and job competency stand out well.
+  > **Input Material:**
+  >
+  > 1. **Job Description (JD):**
+  >    [Paste 'Qualifications' and 'Preferences' of JD here]
+  > 2. **My Core Experience:**
+  >    [Summarize and put 2~3 related experiences of yours here]
+  >
+  > **Task:**
+  >
+  > 1. Pick 3 most important core keywords from JD first.
+  > 2. Using my experience, write **'Motivation and Job Competency'** item (around 500 characters) proving those keywords.
+  > 3. Keep tone confident yet polite business manner.
+  >
+  > **Constraints:**
+  >
+  > - Describe focusing on specific actions instead of abstract expressions (hard, best).
+  > - Use deductive structure (present conclusion first).
 
 ---
 

@@ -12,8 +12,9 @@ tags: ["Personal Branding", "Writing", "LinkedIn", "Content Marketing"]
 # 📝 Making My Own Brand 'LinkedIn Post' Prompt
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

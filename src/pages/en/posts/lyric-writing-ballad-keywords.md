@@ -12,8 +12,9 @@ tags: ["Lyrics", "LyricWriting", "Ballad", "Music"]
 # 📝 Lyricist Debut? Writing Emotional Ballad Lyrics with 3 Keywords
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,18 +59,18 @@ Copy the **PROMPT** content below and use it.
 >
 > - **3 Keywords:** `[e.g.: Old sofa, Rain sound, Missed call]`
 > - **Song Mood:** `[e.g.: Good to listen alone drinking late at night, lonely and calm]`
-> - **Target Listener:** `[e.g.: 2030 Breakup Men/Women]`
->
-> **Task:**
->
-> 1. Write **Verse 1 Lyrics (Verse 1 - PreChorus - Chorus)** including all keywords above.
-> 2. Use metaphorical and poetic expressions rather than too direct expressions.
-> 3. Match **Rhyme** and **Character Count (Breath)** to stick well to mouth when singing.
->
-> **Constraints:**
->
-> - Exclude obvious words like "I love you", "Sad" as much as possible.
-> - Mark each part (Verse/Chorus) clearly.
+
+- - **Target Listener:** `[e.g.: 2030 Breakup Men/Women]`
+    > **Task:**
+    >
+    > 1. Write **Verse 1 Lyrics (Verse 1 - PreChorus - Chorus)** including all keywords above.
+    > 2. Use metaphorical and poetic expressions rather than too direct expressions.
+    > 3. Match **Rhyme** and **Character Count (Breath)** to stick well to mouth when singing.
+    >
+    > **Constraints:**
+    >
+    > - Exclude obvious words like "I love you", "Sad" as much as possible.
+    > - Mark each part (Verse/Chorus) clearly.
 
 ---
 

@@ -13,7 +13,8 @@ tags: ["Dieta", "Gestione Dieta", "Fitness", "Salute"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -51,22 +52,21 @@ Usala quando hai bisogno di qualità dettagliata.
 Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 
 > **Ruolo:** Sei un Esperto di Nutrizione Sportiva con 15 anni di esperienza e un Consulente Dietetico Professionista.
->
-> **Contesto:** Sono un impiegato che è `[Altezza 175cm, Peso 80kg, Peso Target 70kg]`. Il mio livello di attività è circa `[Esercizio leggero due volte a settimana]`, e le mie allergie o cibi non graditi sono `[Cetriolo, Noci]`.
->
-> **Compito:**
->
-> 1. Calcola le calorie giornaliere raccomandate considerando il mio tasso metabolico basale e il tasso metabolico attivo.
-> 2. Crea un piano pasti dietetico di una settimana (7 giorni) considerando i rapporti di carboidrati, proteine e grassi (CPF).
-> 3. Poiché sono un impiegato, potrei dover mangiare pasti regolari (mezza porzione) a pranzo, quindi componilo realisticamente.
-> 4. Mostra le calorie approssimative per ogni pasto.
-> 5. Infine, organizza una 'Lista della Spesa Settimanale' per acquistare ingredienti dietetici.
->
-> **Vincoli:**
->
-> - Escludi menu troppo complessi da cucinare.
-> - Output del piano pasti come Tabella Markdown leggibile.
-> - Raccomanda una dieta sostenibile piuttosto che un digiuno eccessivo.
+
+- **Contesto:** Sono un impiegato che è `[Altezza 175cm, Peso 80kg, Peso Target 70kg]`. Il mio livello di attività è circa `[Esercizio leggero due volte a settimana]`, e le mie allergie o cibi non graditi sono `[Cetriolo, Noci]`.
+  > **Compito:**
+  >
+  > 1. Calcola le calorie giornaliere raccomandate considerando il mio tasso metabolico basale e il tasso metabolico attivo.
+  > 2. Crea un piano pasti dietetico di una settimana (7 giorni) considerando i rapporti di carboidrati, proteine e grassi (CPF).
+  > 3. Poiché sono un impiegato, potrei dover mangiare pasti regolari (mezza porzione) a pranzo, quindi componilo realisticamente.
+  > 4. Mostra le calorie approssimative per ogni pasto.
+  > 5. Infine, organizza una 'Lista della Spesa Settimanale' per acquistare ingredienti dietetici.
+  >
+  > **Vincoli:**
+  >
+  > - Escludi menu troppo complessi da cucinare.
+  > - Output del piano pasti come Tabella Markdown leggibile.
+  > - Raccomanda una dieta sostenibile piuttosto che un digiuno eccessivo.
 
 ---
 

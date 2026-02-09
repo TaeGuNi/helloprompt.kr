@@ -13,7 +13,8 @@ tags: ["Physik", "Ingenieurwesen", "Problemlösung", "Prompt"]
 
 > **🎯 Empfohlen für:** Jeden
 > **⏱️ Zeitaufwand:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Alle KI-Modelle
+
+- **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |
@@ -59,15 +60,15 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 > 1. **[Variablenextraktion]**: Organisiere die in der Aufgabe gegebenen Werte (Bekannt) und die zu findenden Werte (Unbekannt) mit Symbolen (z.B. $v_0 = 0 m/s$).
 > 2. **[Versteckte Bedingungen]**: Finde Bedingungen, die nicht im Text spezifiziert sind, aber physikalisch berücksichtigt werden müssen (z.B. "Freier Fall" -> $a = 9.8 m/s^2$).
 > 3. **[Strategieerstellung]**: Erkläre, was das geeignetste **Physikalische Gesetz** ist, um dieses Problem zu lösen, und warum du es verwenden solltest.
-> 4. **[Aufstellen der Gleichung]**: Stelle ein reines **Mathematisches Modell** auf, bevor du Zahlen einsetzt.
->
-> **Einschränkungen:**
->
-> - Konzentriere dich auf 'Design' statt auf den Lösungsprozess (Berechnung).
-> - Achte auf die Einheitennotation.
->
-> **Aufgabentext:**
-> `[Kopiere die Physikaufgabe hier]`
+
+- 4. **[Aufstellen der Gleichung]**: Stelle ein reines **Mathematisches Modell** auf, bevor du Zahlen einsetzt.
+     > **Einschränkungen:**
+     >
+     > - Konzentriere dich auf 'Design' statt auf den Lösungsprozess (Berechnung).
+     > - Achte auf die Einheitennotation.
+     >
+     > **Aufgabentext:**
+     > `[Kopiere die Physikaufgabe hier]`
 
 ---
 

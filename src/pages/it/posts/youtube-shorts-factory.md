@@ -13,7 +13,8 @@ tags: ["YouTube", "Shorts", "ScritturaScript", "Creator", "TikTok"]
 
 > **🎯 Consigliato per:** YouTuber a corto di idee per caricamenti giornalieri, Dipendenti con canale Shorts secondario
 > **⏱️ Tempo Richiesto:** 30 secondi
-> **🤖 Modello Consigliato:** ChatGPT-4o (Veloce & Arguto)
+
+- **🤖 Modello Consigliato:** ChatGPT-4o (Veloce & Arguto)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

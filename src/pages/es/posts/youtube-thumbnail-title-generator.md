@@ -13,7 +13,8 @@ tags: ["YouTube", "Miniatura", "Generador de Títulos", "Clickbait", "Vistas"]
 
 > **🎯 Ideal para:** YouTubers pequeños, Creadores sin ideas, Editores atascados en miniaturas
 > **⏱️ Tiempo ahorrado:** 1 hora (Planificación) → 3 min (10 Ideas)
-> **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Dificultad | Efectividad | Versatilidad |
 | :--------: | :---------: | :----------: |

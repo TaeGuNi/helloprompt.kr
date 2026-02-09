@@ -12,8 +12,9 @@ tags: ["Meditation", "Mindfulness", "Healing", "Stress", "TTS"]
 # 🧘‍♂️ Turning My Room into a Meditation Center! 5-Minute Mindfulness Script
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

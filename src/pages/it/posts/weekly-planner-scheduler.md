@@ -13,7 +13,8 @@ tags: ["Pianificatore", "Programmatore", "Gestione Tempo", "Produttività"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

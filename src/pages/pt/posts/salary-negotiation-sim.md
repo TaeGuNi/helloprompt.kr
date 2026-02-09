@@ -13,7 +13,8 @@ tags: ["Salário", "Negociação", "Entrevista", "Roleplay", "Carreira"]
 
 > **🎯 Recomendado para:** Pessoas boazinhas que dizem "Aceito qualquer coisa" e se arrependem depois, Pessoas procurando emprego
 > **⏱️ Tempo Necessário:** 10 mins (Batalha Simulada)
-> **🤖 Modelo Recomendado:** ChatGPT-4o (Modo de Voz Altamente Recomendado)
+
+- **🤖 Modelo Recomendado:** ChatGPT-4o (Modo de Voz Altamente Recomendado)
 
 | Dificuldade | Efetividade | Utilidade |
 | :---------: | :---------: | :-------: |

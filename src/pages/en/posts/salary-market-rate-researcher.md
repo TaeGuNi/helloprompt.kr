@@ -12,8 +12,9 @@ tags: ["SalaryAnalysis", "MarketRate", "NegotiationGrounds", "CareerManagement"]
 # 📝 Am I a Hog? 'Market Rate' Research & Analysis Agent
 
 > **🎯 Recommended for:** Office Workers
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** Web Search Enabled Models (ChatGPT Plus, Perplexity)
+
+- **⏱️ Time required:** 5 minutes
+- **🤖 Recommended model:** Web Search Enabled Models (ChatGPT Plus, Perplexity)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |
@@ -63,10 +64,10 @@ Copy the **PROMPT** content below and use it.
 >
 > 1. Search reliable salary information sites (Glassdoor, Levels.fyi, Saramin, etc.) to investigate the salary range of professionals with similar profiles.
 > 2. Present **'Low - Median - High'** data specifically.
-> 3. Suggest a logical **'Target Suggestion Amount'** considering my current salary `[Current Salary]`.
->
-> **Constraint:**
-> Specify the source of data to increase credibility.
+
+- 3. Suggest a logical **'Target Suggestion Amount'** considering my current salary `[Current Salary]`.
+     > **Constraint:**
+     > Specify the source of data to increase credibility.
 
 ---
 

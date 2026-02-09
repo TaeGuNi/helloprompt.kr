@@ -13,7 +13,8 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "KIKunst"]
 
 > **🎯 Empfohlen für:** Blogger mit tollem Schreibstil aber schrecklichen Fotos, Redakteure, die müde von kostenlosen Stock-Seiten sind
 > **⏱️ Benötigte Zeit:** 1 Min
-> **🤖 Empfohlenes Modell:** Midjourney v7 (oder Dall-E 3)
+
+- **🤖 Empfohlenes Modell:** Midjourney v7 (oder Dall-E 3)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

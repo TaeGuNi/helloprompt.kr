@@ -13,7 +13,8 @@ tags: ["LetteraPresentazione", "AutoIntro", "AnalisiJD", "Lavoro"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -51,26 +52,25 @@ Usala quando hai bisogno di qualità dettagliata.
 Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 > **Ruolo:** Sei un caposquadra risorse umane di una grande azienda e membro comitato valutazione assunzioni.
->
-> **Contesto:** Voglio candidarmi per `[Lavoro Target]` presso `[Nome Azienda Target]`. Basato su **Descrizione Lavoro (JD)** e **Mia Esperienza Centrale** sotto, scrivi una bozza lettera di presentazione dove motivazione e competenza lavoro risaltano bene.
->
-> **Materiale Input:**
->
-> 1. **Descrizione Lavoro (JD):**
->    [Incolla 'Qualifiche' e 'Preferenze' di JD qui]
-> 2. **Mia Esperienza Centrale:**
->    [Riassumi e metti 2~3 esperienze correlate tue qui]
->
-> **Compito:**
->
-> 1. Scegli 3 parole chiave centrali più importanti da JD prima.
-> 2. Usando mia esperienza, scrivi voce **'Motivazione e Competenza Lavoro'** (circa 500 caratteri) provando quelle parole chiave.
-> 3. Mantieni tono sicuro ma educato modo business.
->
-> **Vincoli:**
->
-> - Descrivi concentrandoti su azioni specifiche invece di espressioni astratte (duro, migliore).
-> - Usa struttura deduttiva (presenta conclusione prima).
+
+- **Contesto:** Voglio candidarmi per `[Lavoro Target]` presso `[Nome Azienda Target]`. Basato su **Descrizione Lavoro (JD)** e **Mia Esperienza Centrale** sotto, scrivi una bozza lettera di presentazione dove motivazione e competenza lavoro risaltano bene.
+  > **Materiale Input:**
+  >
+  > 1. **Descrizione Lavoro (JD):**
+  >    [Incolla 'Qualifiche' e 'Preferenze' di JD qui]
+  > 2. **Mia Esperienza Centrale:**
+  >    [Riassumi e metti 2~3 esperienze correlate tue qui]
+  >
+  > **Compito:**
+  >
+  > 1. Scegli 3 parole chiave centrali più importanti da JD prima.
+  > 2. Usando mia esperienza, scrivi voce **'Motivazione e Competenza Lavoro'** (circa 500 caratteri) provando quelle parole chiave.
+  > 3. Mantieni tono sicuro ma educato modo business.
+  >
+  > **Vincoli:**
+  >
+  > - Descrivi concentrandoti su azioni specifiche invece di espressioni astratte (duro, migliore).
+  > - Usa struttura deduttiva (presenta conclusione prima).
 
 ---
 

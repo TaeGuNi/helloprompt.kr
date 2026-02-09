@@ -12,8 +12,9 @@ tags: ["TypeScript", "Zod", "JSON", "Type Definition", "Productivity"]
 # 📝 Just Throw JSON and TypeScript Type Definition Pops Out! (feat. Zod)
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

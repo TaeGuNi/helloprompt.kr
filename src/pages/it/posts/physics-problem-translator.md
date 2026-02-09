@@ -13,7 +13,8 @@ tags: ["Fisica", "Ingegneria", "RisoluzioneProblemi", "Prompt"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -59,15 +60,15 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > 1. **[Estrazione Variabili]**: Organizza i valori dati nel problema (Noti) e i valori da trovare (Ignoti) con simboli (es. $v_0 = 0 m/s$).
 > 2. **[Condizioni Nascoste]**: Trova condizioni che non sono specificate nel testo ma devono essere considerate fisicamente (es. "Caduta libera" -> $a = 9.8 m/s^2$).
 > 3. **[Stabilimento Strategia]**: Spiega qual è la **Legge Fisica** più adatta per risolvere questo problema e perché dovresti usarla.
-> 4. **[Impostazione Equazione]**: Imposta un **Modello Matematico** puro prima di sostituire i numeri.
->
-> **Vincoli:**
->
-> - Concentrati sul 'Design' piuttosto che sul processo di risoluzione (Calcolo).
-> - Presta attenzione alla notazione delle Unità.
->
-> **Testo del Problema:**
-> `[Copia e incolla qui il problema di fisica]`
+
+- 4. **[Impostazione Equazione]**: Imposta un **Modello Matematico** puro prima di sostituire i numeri.
+     > **Vincoli:**
+     >
+     > - Concentrati sul 'Design' piuttosto che sul processo di risoluzione (Calcolo).
+     > - Presta attenzione alla notazione delle Unità.
+     >
+     > **Testo del Problema:**
+     > `[Copia e incolla qui il problema di fisica]`
 
 ---
 

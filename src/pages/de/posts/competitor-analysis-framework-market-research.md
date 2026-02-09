@@ -13,7 +13,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 > **🎯 Empfohlen für:** Jeden
 > **⏱️ Zeitaufwand:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Alle KI-Modelle
+
+- **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |
@@ -62,9 +63,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 4. Fasse Punkte zusammen, die wir benchmarken und differenzieren müssen.
 >
 > **Einschränkungen:**
->
-> - Nutze die Websuchfunktion, um die neuesten Informationen widerzuspiegeln (falls Modell erlaubt).
-> - Visualisiere mit einer Vergleichstabelle.
+
+- - Nutze die Websuchfunktion, um die neuesten Informationen widerzuspiegeln (falls Modell erlaubt).
+    > - Visualisiere mit einer Vergleichstabelle.
 
 ---
 

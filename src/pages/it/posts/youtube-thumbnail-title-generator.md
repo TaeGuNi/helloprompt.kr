@@ -20,7 +20,8 @@ tags:
 
 > **🎯 Ideale per:** Piccoli YouTuber, Creator a corto di idee, Editor bloccati sulle miniature
 > **⏱️ Tempo risparmiato:** 1 ora (Pianificazione) → 3 min (10 Idee)
-> **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Difficoltà | Efficacia  | Versatilità |
 | :--------: | :--------: | :---------: |
@@ -73,11 +74,10 @@ Delega l'intera pianificazione di pre-produzione.
 >     - **Espressione/Azione:** (es., Viso scioccato che copre la bocca)
 >     - **Testo (Copy):** Testo breve e incisivo per l'immagine (max 3 parole).
 > 3.  **Perché funziona:** Spiega la psicologia dietro ogni scelta.
->
-> **Pubblico Target (Input):**
->
-> - Demografia: `[es., Studenti universitari]`
-> - Bisogni: `[es., Economico, Arredamento stanza]`
+
+- **Pubblico Target (Input):**
+  > - Demografia: `[es., Studenti universitari]`
+  > - Bisogni: `[es., Economico, Arredamento stanza]`
 
 ---
 

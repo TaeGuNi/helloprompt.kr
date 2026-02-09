@@ -18,9 +18,9 @@ tags:
 
 # 📝 Let's Make Instead of Buying Souvenirs! Finding Traditional Craft One-Day Classes
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

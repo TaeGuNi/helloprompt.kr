@@ -13,7 +13,8 @@ tags: ["Scuse", "Email", "Business", "GestioneCrisi", "Comunicazione"]
 
 > **🎯 Consigliato per:** Principianti che hanno fatto un grosso errore, Agenti CS che sudano per i reclami, Freelancer in ritardo
 > **⏱️ Tempo Richiesto:** 1 min (Assicura il Tempo d'Oro)
-> **🤖 Modello Consigliato:** Claude 3.5 Sonnet (Miglior Tono & Maniera)
+
+- **🤖 Modello Consigliato:** Claude 3.5 Sonnet (Miglior Tono & Maniera)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

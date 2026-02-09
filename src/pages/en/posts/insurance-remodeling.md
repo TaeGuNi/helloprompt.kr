@@ -12,8 +12,9 @@ tags: ["Insurance", "Finance", "Saving", "CoverageAnalysis"]
 # 📝 Insurance Diet: Finding Duplicate Coverage and Halving Premium
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

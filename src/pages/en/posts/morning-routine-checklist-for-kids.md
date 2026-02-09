@@ -11,9 +11,9 @@ tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 
 # 📝 Don't Want to Scream 'Hurry Up!' Every Morning? Routine Game
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

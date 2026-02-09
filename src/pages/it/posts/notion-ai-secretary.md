@@ -13,7 +13,8 @@ tags: ["Notion", "NotionIA", "GestioneAttività", "Produttività", "GTD"]
 
 > **🎯 Consigliato per:** Persone che si bloccano con troppi compiti, Persone i cui piani sono belli solo su carta
 > **⏱️ Tempo Richiesto:** 1 min
-> **🤖 Modello Consigliato:** Notion IA (A pagamento ma potente) o ChatGPT (Copia-incolla)
+
+- **🤖 Modello Consigliato:** Notion IA (A pagamento ma potente) o ChatGPT (Copia-incolla)
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

@@ -13,7 +13,8 @@ tags: ["Digitaler Nomade", "Workation", "Tech-Ausrüstung", "Fernarbeit"]
 
 > **🎯 Empfohlen für:** Jeden
 > **⏱️ Zeitaufwand:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Alle KI-Modelle
+
+- **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |
@@ -51,20 +52,19 @@ Verwenden Sie dies, wenn Sie detaillierte Qualität benötigen.
 Kopieren Sie den folgenden **PROMPT**.
 
 > **Rolle (Role):** Du bist ein 'Full-Stack-Entwickler und Tech-YouTuber', der codet, während er um die Welt reist.
->
-> **Kontext (Context):** Ich mache eine Workation nach `[Reiseziel]` für `[Dauer]`. Meine Hauptarbeit ist `[Arbeitsart: Codierung/Design/Dokumentation]`. Das Gerät, das ich benutze, ist `[Modell: MacBook Pro/iPad usw.]`.
->
-> **Aufgabe (Task):**
->
-> 1.  Empfiehl eine leichte und leistungsstarke Kombination aus 'Multi-Port-Ladegerät' und Kabel, die mehrere Geräte gleichzeitig aufladen kann.
-> 2.  Nenne mir Möglichkeiten, einen Dual-Monitor-Effekt in einem Café oder einer Unterkunft zu erzielen (Verwendung eines Tablets usw.).
-> 3.  Überprüfe die Spannungs- (Steckeradapter) Informationen des Landes und ob eine Steckdosenleiste benötigt wird.
->
-> **Einschränkungen (Constraints):**
->
-> - Stelle es so zusammen, dass das Gesamtgewicht minimiert wird.
-> - Füge Tethering-Tipps (eSIM/USIM) für den Fall hinzu, dass das Internet unterbrochen wird.
-> - Empfiehl basierend auf Spezifikationen (z. B. PD-Laden über 65 W) statt auf bestimmten Marken.
+
+- **Kontext (Context):** Ich mache eine Workation nach `[Reiseziel]` für `[Dauer]`. Meine Hauptarbeit ist `[Arbeitsart: Codierung/Design/Dokumentation]`. Das Gerät, das ich benutze, ist `[Modell: MacBook Pro/iPad usw.]`.
+  > **Aufgabe (Task):**
+  >
+  > 1.  Empfiehl eine leichte und leistungsstarke Kombination aus 'Multi-Port-Ladegerät' und Kabel, die mehrere Geräte gleichzeitig aufladen kann.
+  > 2.  Nenne mir Möglichkeiten, einen Dual-Monitor-Effekt in einem Café oder einer Unterkunft zu erzielen (Verwendung eines Tablets usw.).
+  > 3.  Überprüfe die Spannungs- (Steckeradapter) Informationen des Landes und ob eine Steckdosenleiste benötigt wird.
+  >
+  > **Einschränkungen (Constraints):**
+  >
+  > - Stelle es so zusammen, dass das Gesamtgewicht minimiert wird.
+  > - Füge Tethering-Tipps (eSIM/USIM) für den Fall hinzu, dass das Internet unterbrochen wird.
+  > - Empfiehl basierend auf Spezifikationen (z. B. PD-Laden über 65 W) statt auf bestimmten Marken.
 
 ---
 

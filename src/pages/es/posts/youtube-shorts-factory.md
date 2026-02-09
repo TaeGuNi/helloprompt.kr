@@ -13,7 +13,8 @@ tags: ["YouTube", "Shorts", "Guion", "Creador", "TikTok"]
 
 > **🎯 Recomendado para:** YouTubers sin ideas para subir a diario, Empleados con canal de Shorts secundario
 > **⏱️ Tiempo Requerido:** 30 segundos
-> **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido e Ingenioso)
+
+- **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido e Ingenioso)
 
 | Dificultad | Efectividad |  Utilidad  |
 | :--------: | :---------: | :--------: |

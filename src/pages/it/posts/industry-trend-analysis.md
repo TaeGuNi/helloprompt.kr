@@ -13,7 +13,8 @@ tags: ["Azioni", "AnalisiIndustria", "Tendenza", "RicercheDiMercato"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

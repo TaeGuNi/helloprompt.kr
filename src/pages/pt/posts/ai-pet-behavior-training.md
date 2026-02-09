@@ -13,7 +13,8 @@ tags: ["Pets", "Adestramento Canino", "Gatos", "Paternidade Pet"]
 
 > **🎯 Ideal para:** Novos tutores, Quem recebe reclamações de barulho, Orçamento apertado
 > **⏱️ Tempo economizado:** 15 min (observar) → 1 min (diagnosticar)
-> **🤖 Modelo recomendado:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Dificuldade |  Eficácia  | Versatilidade |
 | :---------: | :--------: | :-----------: |

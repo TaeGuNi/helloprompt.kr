@@ -12,8 +12,9 @@ tags: ["Diary", "Retrospection", "Gratitude Journal", "Mental Care"]
 # 📝 5 Minutes Daily Mental Care, AI Gratitude Journal and Retrospection Prompt
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -13,7 +13,8 @@ tags: ["Nomade Digitale", "Workation", "Attrezzatura Tech", "Lavoro Remoto"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli di AI
+
+- **🤖 Modello consigliato:** Tutti i modelli di AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -51,20 +52,19 @@ Usala quando hai bisogno di qualità dettagliata.
 Copia il contenuto del **PROMPT** qui sotto.
 
 > **Ruolo (Role):** Sei uno 'Sviluppatore Full Stack e YouTuber Tech' che programma mentre viaggia per il mondo.
->
-> **Contesto (Context):** Vado in workation a `[Destinazione]` per `[Durata]`. Il mio lavoro principale è `[Tipo di Lavoro: Coding/Design/Documentazione]`. Il dispositivo che uso è `[Modello: MacBook Pro/iPad, ecc.]`.
->
-> **Compito (Task):**
->
-> 1.  Raccomanda una combinazione leggera e potente di 'caricabatterie multi-porta' e cavo che può caricare più dispositivi contemporaneamente.
-> 2.  Dimmi come creare un effetto doppio monitor in un caffè o alloggio (usando un tablet, ecc.).
-> 3.  Controlla le informazioni sulla tensione (adattatore spina) del paese e se è necessaria una ciabatta.
->
-> **Vincoli (Constraints):**
->
-> - Componilo in modo da ridurre al minimo il peso totale.
-> - Includi consigli sul tethering (eSIM/USIM) per quando internet è interrotto.
-> - Raccomanda in base alle specifiche (es. ricarica PD oltre 65W) piuttosto che marche specifiche.
+
+- **Contesto (Context):** Vado in workation a `[Destinazione]` per `[Durata]`. Il mio lavoro principale è `[Tipo di Lavoro: Coding/Design/Documentazione]`. Il dispositivo che uso è `[Modello: MacBook Pro/iPad, ecc.]`.
+  > **Compito (Task):**
+  >
+  > 1.  Raccomanda una combinazione leggera e potente di 'caricabatterie multi-porta' e cavo che può caricare più dispositivi contemporaneamente.
+  > 2.  Dimmi come creare un effetto doppio monitor in un caffè o alloggio (usando un tablet, ecc.).
+  > 3.  Controlla le informazioni sulla tensione (adattatore spina) del paese e se è necessaria una ciabatta.
+  >
+  > **Vincoli (Constraints):**
+  >
+  > - Componilo in modo da ridurre al minimo il peso totale.
+  > - Includi consigli sul tethering (eSIM/USIM) per quando internet è interrotto.
+  > - Raccomanda in base alle specifiche (es. ricarica PD oltre 65W) piuttosto che marche specifiche.
 
 ---
 

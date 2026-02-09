@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Consigliato per:** Impiegati d'Ufficio
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Modelli Abilitati Ricerca Web (ChatGPT Plus, Perplexity)
+
+- **🤖 Modello consigliato:** Modelli Abilitati Ricerca Web (ChatGPT Plus, Perplexity)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

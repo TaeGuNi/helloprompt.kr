@@ -12,8 +12,9 @@ tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 # 📝 Creating an Irresistible Proposal Outline
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,20 +52,19 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 
 > **Role:** You are a Proposal Professional Writer with a 90% success rate.
->
-> **Context:** We are [Our Company/Service], and we intend to propose [Proposal Content] to [Target Customer].
->
-> **Task:**
->
-> 1. Write an opening that stimulates the customer's Pain Point.
-> 2. Describe how our solution solves that problem centering on Benefit.
-> 3. Construct a section emphasizing differentiation points (USP) compared to competitors.
-> 4. Suggest examples of evidence (Social Proof) that can give trust.
->
-> **Constraints:**
->
-> - Use customer-oriented language (You-message).
-> - Present concrete benefits rather than abstract boasting.
+
+- **Context:** We are [Our Company/Service], and we intend to propose [Proposal Content] to [Target Customer].
+  > **Task:**
+  >
+  > 1. Write an opening that stimulates the customer's Pain Point.
+  > 2. Describe how our solution solves that problem centering on Benefit.
+  > 3. Construct a section emphasizing differentiation points (USP) compared to competitors.
+  > 4. Suggest examples of evidence (Social Proof) that can give trust.
+  >
+  > **Constraints:**
+  >
+  > - Use customer-oriented language (You-message).
+  > - Present concrete benefits rather than abstract boasting.
 
 ---
 

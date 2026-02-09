@@ -13,7 +13,8 @@ tags: ["Excel", "AnalisiSensibilità", "Scenario", "TabellaDati"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +40,8 @@ Cosa più importante quando si pianifica business è variabile. Tabella **'Anali
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]` in ufficio pianificazione strategica.
-> **Richiesta:** Quanto diminuisce profitto se tasso cambio sale 10%? Calcolando decine di casi in una volta con funzione Tabella Dati Excel.
+- **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]` in ufficio pianificazione strategica.
+  > **Richiesta:** Quanto diminuisce profitto se tasso cambio sale 10%? Calcolando decine di casi in una volta con funzione Tabella Dati Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ Usala quando hai bisogno di qualità dettagliata.
 
 Copia il contenuto del **PROMPT** qui sotto e usalo.
 
-> **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]` in ufficio pianificazione strategica.
->
-> **Contesto:** Voglio fare **Analisi Sensibilità** in Excel.
->
-> - **Obiettivo:** Osservare cambio 'Profitto Operativo'
-> - **Variabile 1 (Riga):** Tasso Cambio (1.200 KRW ~ 1.400 KRW, unità 50 KRW)
-> - **Variabile 2 (Colonna):** Volume Vendite (10k ~ 50k, unità 10k)
->
-> **Compito:**
->
-> 1. Dimmi ordine passo passo per usare funzione **'Tabella Dati'** Excel.
-> 2. Spiega chiaramente dove collegare Cella Input Riga e Cella Input Colonna per non confondersi.
-> 3. Dai consiglio per derivare intuizione come "Copertura è necessaria poiché profitto precipita se tasso cambio sale" vedendo tabella completata.
->
-> **Vincoli:**
->
-> - Specifica percorso menu (Scheda Dati > Analisi di simulazione > Tabella dati).
+- **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]` in ufficio pianificazione strategica.
+  > **Contesto:** Voglio fare **Analisi Sensibilità** in Excel.
+  >
+  > - **Obiettivo:** Osservare cambio 'Profitto Operativo'
+  > - **Variabile 1 (Riga):** Tasso Cambio (1.200 KRW ~ 1.400 KRW, unità 50 KRW)
+  > - **Variabile 2 (Colonna):** Volume Vendite (10k ~ 50k, unità 10k)
+  >
+  > **Compito:**
+  >
+  > 1. Dimmi ordine passo passo per usare funzione **'Tabella Dati'** Excel.
+  > 2. Spiega chiaramente dove collegare Cella Input Riga e Cella Input Colonna per non confondersi.
+  > 3. Dai consiglio per derivare intuizione come "Copertura è necessaria poiché profitto precipita se tasso cambio sale" vedendo tabella completata.
+  >
+  > **Vincoli:**
+  >
+  > - Specifica percorso menu (Scheda Dati > Analisi di simulazione > Tabella dati).
 
 ---
 

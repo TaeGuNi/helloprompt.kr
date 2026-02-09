@@ -12,8 +12,9 @@ tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivity"]
 # 📊 Declaration of Excel Independence: No More VLOOKUP
 
 > **🎯 Recommended for:** Liberal Arts majors dizzy from formulas, Marketers spending hours on data
-> **⏱️ Time Required:** 10 seconds
-> **🤖 Recommended Model:** ChatGPT-4o (Advanced Data Analysis) or Claude 3.5 Sonnet
+
+- **⏱️ Time Required:** 10 seconds
+- **🤖 Recommended Model:** ChatGPT-4o (Advanced Data Analysis) or Claude 3.5 Sonnet
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

@@ -12,8 +12,9 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "AIArt"]
 # 🎨 Midjourney v7 Practice: 'Blog Thumbnail' Formula for Non-Designers
 
 > **🎯 Recommended for:** Bloggers with great writing but terrible photos, Editors tired of free stock sites
-> **⏱️ Time Required:** 1 min
-> **🤖 Recommended Model:** Midjourney v7 (or Dall-E 3)
+
+- **⏱️ Time Required:** 1 min
+- **🤖 Recommended Model:** Midjourney v7 (or Dall-E 3)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

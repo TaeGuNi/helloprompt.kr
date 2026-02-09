@@ -12,8 +12,9 @@ tags: ["Debugging", "Bug Fix", "Troubleshooting", "Error Resolution"]
 # 📝 Bugs with Unknown Causes, Leave it to the AI Detective
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

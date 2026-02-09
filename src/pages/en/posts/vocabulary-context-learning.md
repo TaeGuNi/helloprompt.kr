@@ -12,8 +12,9 @@ tags: ["EnglishLearning", "WordMemorization", "Prompt", "Education"]
 # 📝 English Vocabulary Master Learning with Context
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

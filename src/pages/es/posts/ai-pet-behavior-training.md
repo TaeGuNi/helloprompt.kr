@@ -13,7 +13,8 @@ tags: ["Mascotas", "Adiestramiento Canino", "Gatos", "Crianza de Mascotas"]
 
 > **🎯 Ideal para:** Nuevos dueños, Quienes reciben quejas por ruido, Presupuesto ajustado
 > **⏱️ Tiempo ahorrado:** 15 min (observar) → 1 min (diagnosticar)
-> **🤖 Modelo recomendado:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Dificultad | Efectividad | Versatilidad |
 | :--------: | :---------: | :----------: |

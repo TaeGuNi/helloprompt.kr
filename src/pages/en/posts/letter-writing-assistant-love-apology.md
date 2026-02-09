@@ -12,8 +12,9 @@ tags: ["Writing", "Letter", "Love", "Apology", "Refusal"]
 # 📝 Letter Ghostwriting Service: From Crush Confession to Polite Refusal
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,25 +52,24 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and use it.
 
 > **Role:** You are a psychological counselor and professional ghostwriter who moves people's hearts.
->
-> **Context:** I intend to send a letter/message to `[Target]`. My sincerity should be conveyed well without distortion.
->
-> **Letter Info:**
->
-> - **Receiver:** `[e.g.: Girlfriend dated for 3 years, Friend asking for money, Boss]`
-> - **Purpose:** `[e.g.: Overcoming ennui, Polite refusal, Resignation notice]`
-> - **My Emotion/Attitude:** `[e.g.: Sorry but firm, Thankful and affectionate]`
-> - **Content to Include:** `[e.g.: Memory of last trip, Excuse that my current financial situation is difficult]`
->
-> **Task:**
->
-> 1. Write a **Natural and Sincere Letter** containing content above.
-> 2. Make sure reader doesn't feel bad but knows my intention clearly.
-> 3. Write in two types: **Version 1 (Soft Tone)** and **Version 2 (Direct Tone)**.
->
-> **Constraints:**
->
-> - Write expressions fitting emotion not looking like translation too much.
+
+- **Context:** I intend to send a letter/message to `[Target]`. My sincerity should be conveyed well without distortion.
+  > **Letter Info:**
+  >
+  > - **Receiver:** `[e.g.: Girlfriend dated for 3 years, Friend asking for money, Boss]`
+  > - **Purpose:** `[e.g.: Overcoming ennui, Polite refusal, Resignation notice]`
+  > - **My Emotion/Attitude:** `[e.g.: Sorry but firm, Thankful and affectionate]`
+  > - **Content to Include:** `[e.g.: Memory of last trip, Excuse that my current financial situation is difficult]`
+  >
+  > **Task:**
+  >
+  > 1. Write a **Natural and Sincere Letter** containing content above.
+  > 2. Make sure reader doesn't feel bad but knows my intention clearly.
+  > 3. Write in two types: **Version 1 (Soft Tone)** and **Version 2 (Direct Tone)**.
+  >
+  > **Constraints:**
+  >
+  > - Write expressions fitting emotion not looking like translation too much.
 
 ---
 

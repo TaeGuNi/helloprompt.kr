@@ -13,7 +13,8 @@ tags: ["Excel", "JurosEmpréstimo", "FunçãoFinanceira", "PMT"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |
@@ -40,7 +41,8 @@ Existem basicamente dois métodos de reembolso de empréstimo. **'Principal e Ju
 Use isso quando precisar apenas de um resultado rápido.
 
 > **Papel:** Você é um `[Especialista em Excel Financeiro]`.
-> **Solicitação:** Modelo de calculadora de juros de empréstimo feito diretamente no Excel sem precisar entrar em sites bancários.
+
+- **Solicitação:** Modelo de calculadora de juros de empréstimo feito diretamente no Excel sem precisar entrar em sites bancários.
 
 <br>
 

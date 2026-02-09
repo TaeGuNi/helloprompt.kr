@@ -11,9 +11,9 @@ tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 
 # 📝 Boost Our Child's Emotional Intelligence! 'Guess How I Feel?' Game
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

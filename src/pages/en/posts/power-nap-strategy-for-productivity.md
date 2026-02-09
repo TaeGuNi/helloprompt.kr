@@ -12,8 +12,9 @@ tags: ["Nap", "Productivity", "Sleep", "Coffee Nap", "ChatGPT"]
 # ⚡ Stronger Than Coffee! 'Power Nap' Strategy to Double Afternoon Productivity
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

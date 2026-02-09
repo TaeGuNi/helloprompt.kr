@@ -12,8 +12,9 @@ tags: ["K-POP", "Idol", "Universe", "Planning", "LyricWriting"]
 # 📝 K-POP Idol Title Song Concept & Lyric Draft
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,18 +59,18 @@ Copy the **PROMPT** content below and use it.
 >
 > - **Group Name/Gender:** `[e.g.: Luminous / Girl Group]`
 > - **Member Composition:** `[5 members, dreamy visual]`
-> - **Core Keywords:** `[Time travel, Retro, Crush]`
->
-> **Task:**
->
-> 1. **Album Concept:** Describe album name and overall visual concept (Outfit, MV mood) specifically.
-> 2. **Universe Story:** Write short synopsis of what this album means in the group's universe.
-> 3. **Title Song Lyrics:** Write highlight lyrics including addictive Hook and English interjections.
->
-> **Constraints:**
->
-> - Reflect recent K-POP trends (Y2K, Mix pop, etc.).
-> - Put one 'Easter Egg' element for fans to interpret.
+
+- - **Core Keywords:** `[Time travel, Retro, Crush]`
+    > **Task:**
+    >
+    > 1. **Album Concept:** Describe album name and overall visual concept (Outfit, MV mood) specifically.
+    > 2. **Universe Story:** Write short synopsis of what this album means in the group's universe.
+    > 3. **Title Song Lyrics:** Write highlight lyrics including addictive Hook and English interjections.
+    >
+    > **Constraints:**
+    >
+    > - Reflect recent K-POP trends (Y2K, Mix pop, etc.).
+    > - Put one 'Easter Egg' element for fans to interpret.
 
 ---
 

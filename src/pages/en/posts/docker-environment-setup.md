@@ -12,8 +12,9 @@ tags: ["Docker", "Container", "Deployment", "DevOps"]
 # 📝 Docker Environment Setup, 3 Minutes with One Config File
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

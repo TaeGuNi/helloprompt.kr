@@ -12,8 +12,9 @@ tags: ["Deduction", "Mystery", "Trick", "Novel", "Scenario"]
 # 📝 Mystery Deduction Game: Culprit and Trick Generation
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

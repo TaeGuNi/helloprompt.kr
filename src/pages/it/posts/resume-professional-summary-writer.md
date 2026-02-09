@@ -13,7 +13,8 @@ tags: ["Curriculum", "Riassunto", "RiassuntoProfilo", "AutoIntro"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -61,13 +62,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 >
 > 1. Scrivi riassunto 3~4 righe rivelando chiaramente perché dovrei essere assunto.
 > 2. Definisci mia identità in prima frase come "Esperto [Lavoro] N anni...".
-> 3. Disponi parole chiave per sembrare attraente per posizione `[Lavoro Target]` voglio candidarmi.
->
-> **Vincoli:**
->
-> - Escludi espressioni cliché (diligente, laborioso).
-> - Mantieni Tono Professionale.
-> - Suggerisci totale 3 versioni (Risultato enfatizzato / Abilità enfatizzata / Leadership enfatizzata).
+
+- 3. Disponi parole chiave per sembrare attraente per posizione `[Lavoro Target]` voglio candidarmi.
+     > **Vincoli:**
+     >
+     > - Escludi espressioni cliché (diligente, laborioso).
+     > - Mantieni Tono Professionale.
+     > - Suggerisci totale 3 versioni (Risultato enfatizzato / Abilità enfatizzata / Leadership enfatizzata).
 
 ---
 

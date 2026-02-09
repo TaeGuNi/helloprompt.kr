@@ -12,8 +12,9 @@ tags: ["CharacterSetting", "NovelWriting", "Villain", "Interview"]
 # 📝 Creating 3D Villain: 3-Step In-depth Interview
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

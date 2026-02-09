@@ -12,8 +12,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 # 📝 Magic of Light Orbs: Bokeh & Depth of Field
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

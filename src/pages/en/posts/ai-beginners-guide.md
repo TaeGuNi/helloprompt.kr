@@ -11,8 +11,9 @@ description: "Does AI feel too difficult? Introducing the 3 easiest ways to star
 # 3 Things AI Beginners Must Do First
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

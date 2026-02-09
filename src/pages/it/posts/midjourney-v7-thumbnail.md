@@ -13,7 +13,8 @@ tags: ["Midjourney", "Design", "Miniatura", "Blog", "ArteIA"]
 
 > **🎯 Consigliato per:** Blogger che scrivono bene ma fanno foto orribili, Editor stanchi dei siti di stock gratuiti
 > **⏱️ Tempo Richiesto:** 1 min
-> **🤖 Modello Consigliato:** Midjourney v7 (o Dall-E 3)
+
+- **🤖 Modello Consigliato:** Midjourney v7 (o Dall-E 3)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

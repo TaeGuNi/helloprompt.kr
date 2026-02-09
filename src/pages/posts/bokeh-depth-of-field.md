@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 
 # 📝 빛망울의 마법: Bokeh & Depth of Field
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+- **🎯 추천 대상:** 누구나
+- **⏱️ 소요 시간:** 5분
+- **🤖 추천 모델:** 모든 AI 모델
 
 - **📊 난이도:** ⭐⭐☆☆☆
 - **⚡️ 효과성:** ⭐⭐⭐⭐⭐

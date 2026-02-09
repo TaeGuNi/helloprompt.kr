@@ -12,8 +12,9 @@ tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 # 📝 Email Subject Line Generator That Skyrockets Open Rates
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,19 +58,20 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Task:**
 >
 > 1. Email Main Content: `[Content Summary and Core Benefit]`
-> 2. Target Recipient: `[Recipient Characteristics]`
-> 3. Based on the above information, suggest 5 email subject lines and a matching preview text (Preheader) for each subject line as a set.
-> 4. Utilize the following techniques evenly:
->    - Induce curiosity
->    - Urgency/Scarcity (FOMO)
->    - Personalization (Calling name etc.)
->    - Present concrete benefit
->
-> **Constraints:**
->
-> - Write subject lines within 50 characters so they are not cut off on mobile.
-> - Express words likely to be caught by spam filters like 'Ad', 'Free' in a roundabout way.
-> - Output format: Table [Strategy | Subject Line | Preview Text]
+
+- 2. Target Recipient: `[Recipient Characteristics]`
+     > 3. Based on the above information, suggest 5 email subject lines and a matching preview text (Preheader) for each subject line as a set.
+     > 4. Utilize the following techniques evenly:
+     >    - Induce curiosity
+     >    - Urgency/Scarcity (FOMO)
+     >    - Personalization (Calling name etc.)
+     >    - Present concrete benefit
+     >
+     > **Constraints:**
+     >
+     > - Write subject lines within 50 characters so they are not cut off on mobile.
+     > - Express words likely to be caught by spam filters like 'Ad', 'Free' in a roundabout way.
+     > - Output format: Table [Strategy | Subject Line | Preview Text]
 
 ---
 

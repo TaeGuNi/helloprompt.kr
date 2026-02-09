@@ -12,8 +12,9 @@ tags: ["Saving", "FixedExpense", "LivingCost", "Frugality"]
 # 📝 Fixed Expense Diet: Ideas to Stop Leaking Money
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["Home Training", "Exercise", "Fitness", "Routine"]
 # 📝 AI Home Training Routine Generator for Getting Fit Without Going to Gym
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -13,7 +13,8 @@ tags: ["Meditación", "Atención Plena", "Curación", "Estrés", "TTS"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |

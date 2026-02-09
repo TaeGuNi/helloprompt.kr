@@ -13,7 +13,8 @@ tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -57,19 +58,20 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > **Compito:**
 >
 > 1. Contenuto Principale Email: `[Riassunto Contenuto e Beneficio Principale]`
-> 2. Destinatario Target: `[Caratteristiche Destinatario]`
-> 3. Basandoti sulle informazioni sopra, suggerisci 5 oggetti email e un testo di anteprima corrispondente (Preheader) per ogni oggetto come set.
-> 4. Utilizza le seguenti tecniche in modo uniforme:
->    - Indurre curiosità
->    - Urgenza/Scarsità (FOMO)
->    - Personalizzazione (Chiamare per nome ecc.)
->    - Presentare beneficio concreto
->
-> **Vincoli:**
->
-> - Scrivi oggetti entro 30 caratteri in modo che non vengano tagliati su mobile.
-> - Esprimi parole che probabilmente verranno catturate dai filtri spam come 'Pubblicità', 'Gratis' in modo indiretto.
-> - Formato di output: Tabella [Strategia | Oggetto | Testo di Anteprima]
+
+- 2. Destinatario Target: `[Caratteristiche Destinatario]`
+     > 3. Basandoti sulle informazioni sopra, suggerisci 5 oggetti email e un testo di anteprima corrispondente (Preheader) per ogni oggetto come set.
+     > 4. Utilizza le seguenti tecniche in modo uniforme:
+     >    - Indurre curiosità
+     >    - Urgenza/Scarsità (FOMO)
+     >    - Personalizzazione (Chiamare per nome ecc.)
+     >    - Presentare beneficio concreto
+     >
+     > **Vincoli:**
+     >
+     > - Scrivi oggetti entro 30 caratteri in modo che non vengano tagliati su mobile.
+     > - Esprimi parole che probabilmente verranno catturate dai filtri spam come 'Pubblicità', 'Gratis' in modo indiretto.
+     > - Formato di output: Tabella [Strategia | Oggetto | Testo di Anteprima]
 
 ---
 

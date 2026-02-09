@@ -13,7 +13,8 @@ tags: ["Vegano", "Vegetariano", "Meal Prep", "Salud", "ChatGPT"]
 
 > **🎯 Público Objetivo:** Todos
 > **⏱️ Tiempo Requerido:** 5 minutos
-> **🤖 Modelo Recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo Recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |

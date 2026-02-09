@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 
 # 📝 투명한 감성: Watercolor Sketch
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+- **🎯 추천 대상:** 누구나
+- **⏱️ 소요 시간:** 5분
+- **🤖 추천 모델:** 모든 AI 모델
 
 - **📊 난이도:** ⭐⭐☆☆☆
 - **⚡️ 효과성:** ⭐⭐⭐⭐⭐

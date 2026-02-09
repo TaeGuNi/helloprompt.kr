@@ -11,9 +11,9 @@ tags: ["Python", "FastAPI", "Architecture"]
 
 # ⚡ FastAPI, 시작부터 '프로'처럼 (Production-Ready)
 
-> **🎯 추천 대상:** 플라스크(Flask)에서 넘어온 파이썬 개발자, MSA를 처음 구축하는 팀
-> **⏱️ 소요 시간:** 구조 고민 3일 → 5분
-> **🤖 추천 모델:** GPT-4o, Gemini 1.5 Pro
+- **🎯 추천 대상:** 플라스크(Flask)에서 넘어온 파이썬 개발자, MSA를 처음 구축하는 팀
+- **⏱️ 소요 시간:** 구조 고민 3일 → 5분
+- **🤖 추천 모델:** GPT-4o, Gemini 1.5 Pro
 
 - **📊 난이도:** ⭐⭐☆☆☆
 - **⚡️ 효과성:** ⭐⭐⭐⭐⭐
@@ -56,16 +56,18 @@ FastAPI는 빠르고 쉽습니다. 하지만 공식 문서를 보고 만들면 �
 >
 > 1. **폴더 구조:** `app/api`, `app/core` (설정), `app/db`, `app/services` 등으로 분리된 구조를 제안하고 설명해.
 > 2. **코드 작성:** 다음 요구사항을 포함한 보일러플레이트 코드를 작성해.
->    - Pydantic v2 `BaseModel` 사용.
->    - SQLAlchemy 2.0 (Async) 설정.
->    - Dependency Injection(Depends)을 활용한 DB 세션 관리.
->    - Global Exception Handler (에러 처리기).
-> 3. **도커:** 프로덕션 배포를 위한 경량화된 `Dockerfile` 작성.
->
-> **제약사항 (Constraints):**
->
-> - 순환 참조(Circular Import)를 방지하는 구조여야 함.
-> - 모든 엔드포인트는 비동기(`async def`)로 작성.
+
+- - Pydantic v2 `BaseModel` 사용.
+    > - SQLAlchemy 2.0 (Async) 설정.
+    > - Dependency Injection(Depends)을 활용한 DB 세션 관리.
+    > - Global Exception Handler (에러 처리기).
+    >
+    > 3. **도커:** 프로덕션 배포를 위한 경량화된 `Dockerfile` 작성.
+    >
+    > **제약사항 (Constraints):**
+    >
+    > - 순환 참조(Circular Import)를 방지하는 구조여야 함.
+    > - 모든 엔드포인트는 비동기(`async def`)로 작성.
 
 ---
 

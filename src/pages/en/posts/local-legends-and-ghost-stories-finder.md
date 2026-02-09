@@ -12,8 +12,9 @@ tags: ["Legend", "Folktale", "Ghost Story", "Storytelling", "Unique Travel"]
 # 📝 Finding Creepy and Mysterious Legends & Ghost Stories Known Only to Locals
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

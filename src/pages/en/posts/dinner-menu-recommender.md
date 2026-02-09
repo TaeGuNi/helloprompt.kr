@@ -13,8 +13,9 @@ tags:
 # 📝 Decision Paralysis Solved! AI Dinner Menu Recommender
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -54,24 +55,24 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Role:** You are a Gourmet with picky taste and a Decision Paralysis Therapist.
 >
 > **Context:**
->
-> - Current Time: `[7 PM]`
-> - Weather: `[Raining steadily and chilly]`
-> - Number of People: `[2 people]`
-> - Hunger Level: `[Very hungry]`
-> - Eaten Yesterday: `[Chicken, Pork Belly]` (Want to avoid greasy stuff)
-> - Preference: `[Warm soup, something good with a shot of Soju]`
->
-> **Task:**
->
-> 1. Recommend 3 dinner menu candidates perfectly fitting the above situation.
-> 2. Explain emotionally (mouth-wateringly) why you recommended each menu.
-> 3. Decide one of the 3 as 'Today's Destiny'. (Recommend strongly so it's irrefutable)
->
-> **Constraints:**
->
-> - Exclude too obvious menus (Ramen).
-> - Recommend mainly menus available for delivery.
+
+- - Current Time: `[7 PM]`
+    > - Weather: `[Raining steadily and chilly]`
+    > - Number of People: `[2 people]`
+    > - Hunger Level: `[Very hungry]`
+    > - Eaten Yesterday: `[Chicken, Pork Belly]` (Want to avoid greasy stuff)
+    > - Preference: `[Warm soup, something good with a shot of Soju]`
+    >
+    > **Task:**
+    >
+    > 1. Recommend 3 dinner menu candidates perfectly fitting the above situation.
+    > 2. Explain emotionally (mouth-wateringly) why you recommended each menu.
+    > 3. Decide one of the 3 as 'Today's Destiny'. (Recommend strongly so it's irrefutable)
+    >
+    > **Constraints:**
+    >
+    > - Exclude too obvious menus (Ramen).
+    > - Recommend mainly menus available for delivery.
 
 ---
 

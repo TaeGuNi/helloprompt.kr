@@ -12,8 +12,9 @@ tags: ["Blog", "Content Marketing", "SEO", "Copywriting"]
 # 📝 Blog Post Title Generator That Calls for Clicks
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,19 +58,20 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Task:**
 >
 > 1. Core Content of Post: `[Summary of Content]`
-> 2. Target Reader: `[Person you want to read this post]`
-> 3. Suggest 2 titles for each of the 5 types below, totaling 10 titles.
->    - Type A: Stimulate Curiosity (Question type)
->    - Type B: Present Specific Method/Number (List type)
->    - Type C: Fear/Loss Aversion Appeal (Don't do ~)
->    - Type D: Authority/Secret Revelation (Only experts know)
->    - Type E: Quick and Easy Solution (Short-term/Super simple)
->
-> **Constraints:**
->
-> - Keep titles around 50 characters so they are visible at a glance on mobile.
-> - Place core keywords at the front as much as possible.
-> - I want attractive titles consistent with the content rather than clickbait.
+
+- 2. Target Reader: `[Person you want to read this post]`
+     > 3. Suggest 2 titles for each of the 5 types below, totaling 10 titles.
+     >    - Type A: Stimulate Curiosity (Question type)
+     >    - Type B: Present Specific Method/Number (List type)
+     >    - Type C: Fear/Loss Aversion Appeal (Don't do ~)
+     >    - Type D: Authority/Secret Revelation (Only experts know)
+     >    - Type E: Quick and Easy Solution (Short-term/Super simple)
+     >
+     > **Constraints:**
+     >
+     > - Keep titles around 50 characters so they are visible at a glance on mobile.
+     > - Place core keywords at the front as much as possible.
+     > - I want attractive titles consistent with the content rather than clickbait.
 
 ---
 

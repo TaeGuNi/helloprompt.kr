@@ -13,7 +13,8 @@ tags: ["Blog", "SEO", "Esposizione Google"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -59,8 +60,8 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 1. Analizza l'Intento di Ricerca del lettore e definisci quali domande questo post deve risolvere.
 > 2. Crea uno Schema di post ottimizzato SEO includendo strutture di tag H1, H2, H3.
 > 3. Raccomanda 5 candidati Titolo che probabilmente avranno un alto Click-Through Rate (CTR).
->
-> **Parola Chiave Target:** `Raccomandazioni App Disegno iPad`
+
+- **Parola Chiave Target:** `Raccomandazioni App Disegno iPad`
 
 ---
 

@@ -12,8 +12,9 @@ tags: ["SalaryNegotiation", "NegotiationSkill", "AnnualSalaryRaise", "Roleplay"]
 # 📝 I Want to Raise It! 'Salary Negotiation' Simulation Roleplay
 
 > **🎯 Recommended for:** Office Workers
-> **⏱️ Time required:** 10 minutes
-> **🤖 Recommended model:** GPT-4o, Claude 3.5 Sonnet
+
+- **⏱️ Time required:** 10 minutes
+  > **🤖 Recommended model:** GPT-4o, Claude 3.5 Sonnet
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

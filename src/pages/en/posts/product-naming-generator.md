@@ -12,8 +12,9 @@ tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 # 📝 Naming Products That Sell: Naming Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,17 +58,18 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Task:**
 >
 > 1. Product Description: `[Core features and characteristics of the product]`
-> 2. Target Audience: `[Main target customer base]`
-> 3. Brand Tone & Manner: `[Desired atmosphere (e.g., luxurious, friendly, hip)]`
-> 4. Based on the above information, suggest 10 product name ideas.
-> 5. For each name, explain the 'reason for suggestion' and 'evoked image'.
-> 6. Compose names variously using English, compound words, etc.
->
-> **Constraints:**
->
-> - Exclude names that are too long or difficult to pronounce.
-> - Avoid names similar to already famous brands.
-> - Output format as a Markdown Table (Columns: Naming, Style, Reason for Suggestion, Evoked Image).
+
+- 2. Target Audience: `[Main target customer base]`
+     > 3. Brand Tone & Manner: `[Desired atmosphere (e.g., luxurious, friendly, hip)]`
+     > 4. Based on the above information, suggest 10 product name ideas.
+     > 5. For each name, explain the 'reason for suggestion' and 'evoked image'.
+     > 6. Compose names variously using English, compound words, etc.
+     >
+     > **Constraints:**
+     >
+     > - Exclude names that are too long or difficult to pronounce.
+     > - Avoid names similar to already famous brands.
+     > - Output format as a Markdown Table (Columns: Naming, Style, Reason for Suggestion, Evoked Image).
 
 ---
 

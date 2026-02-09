@@ -13,7 +13,8 @@ tags: ["Excel", "InteressePrestito", "FunzioneFinanziaria", "PMT"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -40,7 +41,8 @@ Ci sono largamente due metodi di rimborso prestito. **'Capitale e Interessi Ugua
 Usala quando hai solo bisogno di un risultato rapido.
 
 > **Ruolo:** Sei un `[Esperto Excel Finanziario]`.
-> **Richiesta:** Modello calcolatrice interessi prestito fatto direttamente in Excel senza bisogno di entrare in siti bancari.
+
+- **Richiesta:** Modello calcolatrice interessi prestito fatto direttamente in Excel senza bisogno di entrare in siti bancari.
 
 <br>
 

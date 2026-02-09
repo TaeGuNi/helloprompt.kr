@@ -12,8 +12,9 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Productivity"]
 # 💻 Your Free Coding Slave on PC: DeepSeek R1 Local Install Guide
 
 > **🎯 Recommended for:** Developers worried about leaking company code, Students saving API costs, Offline workers
-> **⏱️ Time Required:** 10 mins
-> **🤖 Recommended Model:** DeepSeek-R1-Distill-Llama-8B (or 70B)
+
+- **⏱️ Time Required:** 10 mins
+- **🤖 Recommended Model:** DeepSeek-R1-Distill-Llama-8B (or 70B)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |
@@ -102,10 +103,10 @@ Here is **The Most Effective Prompt for DeepSeek**. Since DeepSeek values "Chain
 > **Context:** This code works, but it's unreadable and inefficient.
 >
 > **Task:**
->
-> 1. Analyze the problems (Time complexity, Naming, etc.) first. (**Print the Thinking Process first**)
-> 2. Write the optimized code.
-> 3. Add comments explaining why you changed it.
+
+- 1. Analyze the problems (Time complexity, Naming, etc.) first. (**Print the Thinking Process first**)
+     > 2. Write the optimized code.
+     > 3. Add comments explaining why you changed it.
 
 ---
 

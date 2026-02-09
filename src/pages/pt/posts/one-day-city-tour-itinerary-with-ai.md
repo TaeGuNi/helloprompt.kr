@@ -13,7 +13,8 @@ tags: ["Plano de Viagem", "Viagem de Um Dia", "City Tour", "Prompt GPT"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |

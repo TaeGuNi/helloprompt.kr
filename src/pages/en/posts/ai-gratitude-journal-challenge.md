@@ -13,8 +13,9 @@ tags:
 # 🙏 The Easiest Way to Turn on the Happiness Circuit, AI Gratitude Journal Challenge
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

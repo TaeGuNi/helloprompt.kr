@@ -12,8 +12,9 @@ tags: ["Solo Travel", "Backpacking", "Solo Travel", "Safe Travel"]
 # 📝 Backpacking Alone: Safe and Fulfilling Route Design Method
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

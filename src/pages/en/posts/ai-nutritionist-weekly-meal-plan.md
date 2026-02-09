@@ -12,8 +12,9 @@ tags: ["Diet", "Meal Management", "Health", "ChatGPT", "Meal Prep"]
 # 🥗 AI Nutritionist: Creating My Own Customized Weekly Meal Plan
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,21 +52,20 @@ Use this when you need detailed quality.
 Copy the **PROMPT** below.
 
 > **Role (Role):** You are a clinical nutritionist and personal trainer with 10 years of experience. You are an expert in creating nutritionally balanced and actionable meal plans.
->
-> **Context (Context):** I am a beginner starting a ketogenic diet for the first time. My height is `[Height]`, and my weight is `[Weight]`. I like `[Favorite Foods]`, and I want to avoid `[Disliked Foods/Allergies]`. I have about `[Daily Cooking Time]` to cook.
->
-> **Task (Task):**
->
-> 1.  Calculate the daily recommended calories considering my basal metabolic rate and activity level.
-> 2.  Based on this, create a meal plan for breakfast, lunch, dinner, and snacks from Monday to Sunday.
-> 3.  Indicate the approximate calories and protein content for each meal.
-> 4.  Finally, organize the weekly shopping list by category.
->
-> **Constraints:**
->
-> - Use easy-to-find ingredients.
-> - Compose with realistic and sustainable menus (exclude overly complex dishes).
-> - Organize the daily meal plan in a Markdown table format.
+
+- **Context (Context):** I am a beginner starting a ketogenic diet for the first time. My height is `[Height]`, and my weight is `[Weight]`. I like `[Favorite Foods]`, and I want to avoid `[Disliked Foods/Allergies]`. I have about `[Daily Cooking Time]` to cook.
+  > **Task (Task):**
+  >
+  > 1.  Calculate the daily recommended calories considering my basal metabolic rate and activity level.
+  > 2.  Based on this, create a meal plan for breakfast, lunch, dinner, and snacks from Monday to Sunday.
+  > 3.  Indicate the approximate calories and protein content for each meal.
+  > 4.  Finally, organize the weekly shopping list by category.
+  >
+  > **Constraints:**
+  >
+  > - Use easy-to-find ingredients.
+  > - Compose with realistic and sustainable menus (exclude overly complex dishes).
+  > - Organize the daily meal plan in a Markdown table format.
 
 ---
 

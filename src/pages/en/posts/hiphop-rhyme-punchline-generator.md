@@ -12,8 +12,9 @@ tags: ["HipHop", "Rap", "LyricWriting", "Rhyme", "Punchline"]
 # 📝 Hip-Hop Rhyme Note: Punchline Auto-Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -55,20 +56,19 @@ Copy the **PROMPT** content below and use it.
 > **Context:** I am writing a rap on Boom Bap style beat. Topic is `[Ambition for Success]`.
 >
 > **Task:**
->
-> 1. Write 8-bar rap lyrics utilizing **Target Rhyme** below.
-> 2. Don't just match rhymes, context must be natural and message strong.
-> 3. Include at least 1 **Punchline (Double Meaning)** that makes listener admire.
->
-> **Input Info:**
->
-> - **Target Vowel (Rhyme):** `[ay] (e.g.: Sky, Fly, High, Try)`
-> - **Atmosphere:** Aggressive and confident
->
-> **Constraints:**
->
-> - Mix native language and English in 8:2 ratio.
-> - Use Slang appropriately to save hip-hop vibe.
+
+- 1. Write 8-bar rap lyrics utilizing **Target Rhyme** below.
+     > 2. Don't just match rhymes, context must be natural and message strong.
+     > 3. Include at least 1 **Punchline (Double Meaning)** that makes listener admire.
+     >
+     > **Input Info:**
+- - **Target Vowel (Rhyme):** `[ay] (e.g.: Sky, Fly, High, Try)`
+    > - **Atmosphere:** Aggressive and confident
+    >
+    > **Constraints:**
+    >
+    > - Mix native language and English in 8:2 ratio.
+    > - Use Slang appropriately to save hip-hop vibe.
 
 ---
 

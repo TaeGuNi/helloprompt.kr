@@ -12,8 +12,9 @@ tags: ["Turtle Neck", "Office Yoga", "Stretching", "Office Worker", "ChatGPT"]
 # 🪑 Stealth Office Stretching to Escape Turtle Neck & Back Pain
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

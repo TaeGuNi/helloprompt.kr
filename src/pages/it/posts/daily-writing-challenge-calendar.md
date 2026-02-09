@@ -13,7 +13,8 @@ tags: ["Scrittura", "Abitudine", "Sfida", "Autosviluppo"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -58,17 +59,17 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 >
 > - **Miei Interessi:** `[es.: Viaggio, Startup, Psicologia, Cucina]`
 > - **Scopo Scrittura:** `[es.: Per organizzare i miei pensieri e condividere intuizioni]`
-> - **Lettore Target:** `[es.: Impiegati in 30 anni]`
->
-> **Compito:**
->
-> 1. Crea **argomenti 30 giorni** in formato Tabella. (Data | Argomento | Domanda Guida)
-> 2. Disponi argomenti leggeri facili in fase iniziale (1~5 giorni), e argomenti profondi verso fine.
-> 3. Metti 'Testo riposo' o argomento 'Retrospettiva' una volta a settimana (7°, 14°...).
->
-> **Vincoli:**
->
-> - Domanda deve essere specifica. (Male: "Scrivi su viaggio" / Bene: "Qual è l'oggetto più vecchio sulla tua scrivania ora e sentimento allora?")
+
+- - **Lettore Target:** `[es.: Impiegati in 30 anni]`
+    > **Compito:**
+    >
+    > 1. Crea **argomenti 30 giorni** in formato Tabella. (Data | Argomento | Domanda Guida)
+    > 2. Disponi argomenti leggeri facili in fase iniziale (1~5 giorni), e argomenti profondi verso fine.
+    > 3. Metti 'Testo riposo' o argomento 'Retrospettiva' una volta a settimana (7°, 14°...).
+    >
+    > **Vincoli:**
+    >
+    > - Domanda deve essere specifica. (Male: "Scrivi su viaggio" / Bene: "Qual è l'oggetto più vecchio sulla tua scrivania ora e sentimento allora?")
 
 ---
 

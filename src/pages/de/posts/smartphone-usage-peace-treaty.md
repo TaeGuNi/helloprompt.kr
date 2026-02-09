@@ -13,7 +13,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 > **🎯 Zielgruppe:** Alle
 > **⏱️ Benötigte Zeit:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Alle KI-Modelle
+
+- **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
 | Schwierigkeit | Effektivität | Nützlichkeit |
 | :-----------: | :----------: | :----------: |

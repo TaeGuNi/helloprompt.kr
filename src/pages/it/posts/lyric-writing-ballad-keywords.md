@@ -13,7 +13,8 @@ tags: ["Testi", "ScritturaTesti", "Ballata", "Musica"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -58,18 +59,18 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 >
 > - **3 Parole Chiave:** `[es.: Vecchio divano, Suono pioggia, Chiamata persa]`
 > - **Umore Canzone:** `[es.: Buono da ascoltare da soli bevendo tarda notte, solitario e calmo]`
-> - **Ascoltatore Target:** `[es.: 2030 Uomini/Donne Rottura]`
->
-> **Compito:**
->
-> 1. Scrivi **Testi Strofa 1 (Strofa 1 - PreRitornello - Ritornello)** includendo tutte parole chiave sopra.
-> 2. Usa espressioni metaforiche e poetiche piuttosto che espressioni troppo dirette.
-> 3. Abbina **Rima** e **Conteggio Caratteri (Respiro)** per attaccarsi bene alla bocca quando si canta.
->
-> **Vincoli:**
->
-> - Escludi parole ovvie come "Ti amo", "Triste" il più possibile.
-> - Segna ogni parte (Strofa/Ritornello) chiaramente.
+
+- - **Ascoltatore Target:** `[es.: 2030 Uomini/Donne Rottura]`
+    > **Compito:**
+    >
+    > 1. Scrivi **Testi Strofa 1 (Strofa 1 - PreRitornello - Ritornello)** includendo tutte parole chiave sopra.
+    > 2. Usa espressioni metaforiche e poetiche piuttosto che espressioni troppo dirette.
+    > 3. Abbina **Rima** e **Conteggio Caratteri (Respiro)** per attaccarsi bene alla bocca quando si canta.
+    >
+    > **Vincoli:**
+    >
+    > - Escludi parole ovvie come "Ti amo", "Triste" il più possibile.
+    > - Segna ogni parte (Strofa/Ritornello) chiaramente.
 
 ---
 

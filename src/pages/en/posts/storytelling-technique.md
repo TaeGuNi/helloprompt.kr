@@ -12,8 +12,9 @@ tags: ["Storytelling", "Writing", "Essay"]
 # 📝 Escape Boring Writing! Storytelling Techniques to Make People Read
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

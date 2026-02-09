@@ -13,7 +13,8 @@ tags: ["Gehalt", "Verhandlung", "Interview", "Rollenspiel", "Karriere"]
 
 > **🎯 Empfohlen für:** Weicheier, die sagen "Ich nehme was auch immer" und es später bereuen, Arbeitssuchende
 > **⏱️ Benötigte Zeit:** 10 Min (Übungskampf)
-> **🤖 Empfohlenes Modell:** ChatGPT-4o (Sprachmodus sehr empfohlen)
+
+- **🤖 Empfohlenes Modell:** ChatGPT-4o (Sprachmodus sehr empfohlen)
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["Game", "BalanceGame", "IceBreaking", "Humor", "Party"]
 # 📝 Balance Game Generator: "Eating Only Ramen Forever vs Quitting Soda Forever"
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -53,23 +54,23 @@ Copy the **PROMPT** content below and use it.
 > **Role:** You are a mischievous devil and variety show PD who troubles people.
 >
 > **Context:** Gathering with friends for drinking/party. Need powerful balance game questions to liven up atmosphere.
->
-> **Target and Level:**
->
-> - **Target:** `[e.g.: College friends in 20s, Boss and subordinate]`
-> - **Topic:** `[e.g.: Dating, Food, Work life, Superpower]`
-> - **Spiciness Level:** `[e.g.: Mild (Funny), Spicy (Inducing argument), Hell (Painful)]`
->
-> **Task:**
->
-> 1. Make **5 Sets of Balance Game Questions**. (A vs B)
-> 2. Match exquisitely so **Balance of two choices is 50:50**. (One side shouldn't be too good)
-> 3. Write one line of **Discussion Point** below each question that people might fight over.
->
-> **Constraints:**
->
-> - Avoid too serious or depressing topics. (Fun comes first)
-> - Write shortly to understand intuitively immediately.
+
+- **Target and Level:**
+  >
+- - **Target:** `[e.g.: College friends in 20s, Boss and subordinate]`
+    > - **Topic:** `[e.g.: Dating, Food, Work life, Superpower]`
+    > - **Spiciness Level:** `[e.g.: Mild (Funny), Spicy (Inducing argument), Hell (Painful)]`
+    >
+    > **Task:**
+    >
+    > 1. Make **5 Sets of Balance Game Questions**. (A vs B)
+    > 2. Match exquisitely so **Balance of two choices is 50:50**. (One side shouldn't be too good)
+    > 3. Write one line of **Discussion Point** below each question that people might fight over.
+    >
+    > **Constraints:**
+    >
+    > - Avoid too serious or depressing topics. (Fun comes first)
+    > - Write shortly to understand intuitively immediately.
 
 ---
 

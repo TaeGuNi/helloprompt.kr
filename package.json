@@ -12,6 +12,7 @@
     "astro": "astro",
     "lint": "prettier --check . && astro check",
     "qa": "npx tsx scripts/qa/check.ts",
+    "docs:update": "npx tsx scripts/update-management.ts",
     "test": "vitest run",
     "test:e2e": "playwright test",
     "release": "standard-version",

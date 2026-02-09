@@ -12,8 +12,9 @@ tags: ["Data Structure", "Algorithm", "Performance Optimization", "CS Basics"]
 # 📝 List? Map? Set? Data Structure Prescription for Decisiveness
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -60,18 +61,19 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > Analyze my requirements and:
 >
 > 1. Recommend 1 most suitable **Data Structure**.
-> 2. Explain why that data structure is best based on **Time Complexity (Access, Search, Insertion, Deletion)**.
-> 3. Tell me specific class or type names available in that language.
->
-> **Requirements:**
->
-> - Data Characteristics: `[e.g.: No duplicates and must remain sorted]`
-> - Main Operations: `[e.g.: Data search is very frequent, insertion happens occasionally]`
-> - Language Used: `[e.g.: Java]`
->
-> **Constraints:**
->
-> - Consider whether speed is more important than memory usage or vice versa.
+
+- 2. Explain why that data structure is best based on **Time Complexity (Access, Search, Insertion, Deletion)**.
+     > 3. Tell me specific class or type names available in that language.
+     >
+     > **Requirements:**
+     >
+     > - Data Characteristics: `[e.g.: No duplicates and must remain sorted]`
+     > - Main Operations: `[e.g.: Data search is very frequent, insertion happens occasionally]`
+     > - Language Used: `[e.g.: Java]`
+     >
+     > **Constraints:**
+     >
+     > - Consider whether speed is more important than memory usage or vice versa.
 
 ---
 

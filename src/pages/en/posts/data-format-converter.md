@@ -12,8 +12,9 @@ tags: ["Data Conversion", "JSON", "CSV", "Excel", "Productivity"]
 # 📝 Excel, JSON, CSV... Escape Data Format Conversion Drudgery
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,22 +58,22 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Context:** I need to convert data I have into a format usable in another system.
 >
 > **Task:**
->
-> 1. Convert **[Source Format]** data below to **[Target Format]**.
-> 2. Apply `[Field Name Change Rule]` during conversion.
-> 3. Print only the result cleanly so I can verify if data is correct.
->
-> **Source Data:**
->
-> ```
-> [Paste original data here]
-> ```
->
-> **Conversion Rules:**
->
-> - Source Format: `[e.g.: CSV]`
-> - Target Format: `[e.g.: JSON Array]`
-> - Field Change: `[e.g.: Change 'Name' -> 'name', 'Age' -> 'age' and exclude 'Address']`
+
+- 1. Convert **[Source Format]** data below to **[Target Format]**.
+     > 2. Apply `[Field Name Change Rule]` during conversion.
+     > 3. Print only the result cleanly so I can verify if data is correct.
+     >
+     > **Source Data:**
+     >
+     > ```
+     > [Paste original data here]
+     > ```
+     >
+     > **Conversion Rules:**
+     >
+     > - Source Format: `[e.g.: CSV]`
+- - Target Format: `[e.g.: JSON Array]`
+    > - Field Change: `[e.g.: Change 'Name' -> 'name', 'Age' -> 'age' and exclude 'Address']`
 
 ---
 

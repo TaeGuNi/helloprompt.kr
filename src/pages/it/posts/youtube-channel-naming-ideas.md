@@ -13,7 +13,8 @@ tags: ["YouTube", "NomeCanale", "Soprannome", "Creatore", "Nominare"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -57,21 +58,22 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > **Info Canale:**
 >
 > - **Argomento/Categoria:** `[es.: Finanza impiegato, Vlog Gatto, Angolo Stanza Live]`
-> - **Pubblico Target:** `[es.: Matricole sociali in 2030s, Persone bisognose guarigione]`
-> - **Mio Soprannome/Caratteristica:** `[es.: Manager Kim, Casalingo, Indossa occhiali]`
->
-> **Compito:**
->
-> 1. Raccomanda **3 Candidati Nome Canale** per stili sotto (Totale 9).
->    - **Intuitivo:** Nome affidabile rivelando argomento immediatamente (es.: Shin Saimdang)
->    - **Amichevole/Soprannome:** Nome carino attaccandosi bene alla bocca (es.: Syuka World)
->    - **Emotivo/Unico:** Nome unico stimolando curiosità (es.: Nerdult)
-> 2. Raccomanda un **Soprannome Iscritto (Nome Fandom)** adattando ogni nome.
->
-> **Vincoli:**
->
-> - Assicura non sovrapposizione con nomi YouTuber già famosi.
-> - Breve e forte entro 5 caratteri.
+
+- - **Pubblico Target:** `[es.: Matricole sociali in 2030s, Persone bisognose guarigione]`
+    > - **Mio Soprannome/Caratteristica:** `[es.: Manager Kim, Casalingo, Indossa occhiali]`
+    >
+    > **Compito:**
+    >
+    > 1. Raccomanda **3 Candidati Nome Canale** per stili sotto (Totale 9).
+    >    - **Intuitivo:** Nome affidabile rivelando argomento immediatamente (es.: Shin Saimdang)
+    >    - **Amichevole/Soprannome:** Nome carino attaccandosi bene alla bocca (es.: Syuka World)
+    >    - **Emotivo/Unico:** Nome unico stimolando curiosità (es.: Nerdult)
+    > 2. Raccomanda un **Soprannome Iscritto (Nome Fandom)** adattando ogni nome.
+    >
+    > **Vincoli:**
+    >
+    > - Assicura non sovrapposizione con nomi YouTuber già famosi.
+    > - Breve e forte entro 5 caratteri.
 
 ---
 

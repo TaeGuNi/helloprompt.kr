@@ -13,7 +13,8 @@ tags: ["Übersetzung", "E-Mail", "Geschäftsenglisch", "ChatGPT", "DeepL"]
 
 > **🎯 Empfohlen für:** Händler, die über E-Mails schwitzen, PMs, die mit globalen Entwicklern arbeiten
 > **⏱️ Benötigte Zeit:** 30 Sekunden
-> **🤖 Empfohlenes Modell:** DeepL (Entwurf) + ChatGPT-4o (Nuancen-Politur)
+
+- **🤖 Empfohlenes Modell:** DeepL (Entwurf) + ChatGPT-4o (Nuancen-Politur)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

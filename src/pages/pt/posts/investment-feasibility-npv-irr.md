@@ -13,7 +13,8 @@ tags: ["Excel", "AnáliseInvestimento", "VPL", "TIR"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |
@@ -39,8 +40,8 @@ Você não deve olhar apenas para o valor do lucro. Porque o valor do dinheiro m
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
-> **Solicitação:** Devo fazer este negócio? Calcule facilmente Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), indicadores-chave de decisão de investimento, com Excel.
+- **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
+  > **Solicitação:** Devo fazer este negócio? Calcule facilmente Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), indicadores-chave de decisão de investimento, com Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ Use isso quando precisar de qualidade detalhada.
 
 Copie o conteúdo do **PROMPT** abaixo e use-o.
 
-> **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
->
-> **Contexto:** Quero analisar viabilidade de investimento de um novo projeto com Excel.
->
-> - **Investimento Inicial (Ano 0):** -100 Milhões KRW (Célula B2)
-> - **Receita Esperada (Ano 1~5):** 30 Milhões KRW anualmente (Células B3~B7)
-> - **Taxa de Desconto (Retorno Exigido):** 10% (Célula C2)
->
-> **Tarefa:**
->
-> 1. Diga-me **fórmula do Excel para encontrar VPL (Valor Presente Líquido)** deste projeto.
-> 2. Diga-me **fórmula do Excel para encontrar TIR (Taxa Interna de Retorno)**.
-> 3. Explique critérios de julgamento sobre investir ou não quando resultados do cálculo são **VPL > 0** ou **TIR > Taxa de Desconto**.
->
-> **Restrições:**
->
-> - Escreva fórmula notando que função `NPV` (VPL) do Excel deve ser inserida a partir do Ano 1. (Processar investimento inicial separadamente)
+- **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
+  > **Contexto:** Quero analisar viabilidade de investimento de um novo projeto com Excel.
+  >
+  > - **Investimento Inicial (Ano 0):** -100 Milhões KRW (Célula B2)
+  > - **Receita Esperada (Ano 1~5):** 30 Milhões KRW anualmente (Células B3~B7)
+  > - **Taxa de Desconto (Retorno Exigido):** 10% (Célula C2)
+  >
+  > **Tarefa:**
+  >
+  > 1. Diga-me **fórmula do Excel para encontrar VPL (Valor Presente Líquido)** deste projeto.
+  > 2. Diga-me **fórmula do Excel para encontrar TIR (Taxa Interna de Retorno)**.
+  > 3. Explique critérios de julgamento sobre investir ou não quando resultados do cálculo são **VPL > 0** ou **TIR > Taxa de Desconto**.
+  >
+  > **Restrições:**
+  >
+  > - Escreva fórmula notando que função `NPV` (VPL) do Excel deve ser inserida a partir do Ano 1. (Processar investimento inicial separadamente)
 
 ---
 

@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Empfohlen für:** Büroangestellte
 > **⏱️ Zeitaufwand:** 10 Minuten
-> **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet
+
+- **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

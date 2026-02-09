@@ -13,7 +13,8 @@ tags: ["Instagram", "Poesía", "TextoEmocional", "SNS", "Contenido"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |

@@ -13,7 +13,8 @@ tags: ["Notion", "NotionAI", "GestiónTareas", "Productividad", "GTD"]
 
 > **🎯 Recomendado para:** Personas que se quedan en blanco con demasiadas tareas, Personas cuyos planes solo son bonitos en papel
 > **⏱️ Tiempo Requerido:** 1 min
-> **🤖 Modelo Recomendado:** Notion AI (Pago pero potente) o ChatGPT (Copiar-pegar)
+
+- **🤖 Modelo Recomendado:** Notion AI (Pago pero potente) o ChatGPT (Copiar-pegar)
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |

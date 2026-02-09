@@ -13,7 +13,8 @@ tags: ["Actas", "Whisper", "ChatGPT", "Automatización", "Productividad"]
 
 > **🎯 Recomendado para:** Juniors a quienes les duelen las muñecas de escribir, Jefes que preguntan "¿Qué decidimos?"
 > **⏱️ Tiempo Requerido:** 3 min (excluyendo tiempo de grabación)
-> **🤖 Modelo Recomendado:** OpenAI Whisper (Transcripción) + ChatGPT-4o (Resumen)
+
+- **🤖 Modelo Recomendado:** OpenAI Whisper (Transcripción) + ChatGPT-4o (Resumen)
 
 | Dificultad | Efectividad |  Utilidad  |
 | :--------: | :---------: | :--------: |

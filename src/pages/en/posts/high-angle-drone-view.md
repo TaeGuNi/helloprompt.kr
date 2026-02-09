@@ -12,8 +12,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 # 📝 Gaze of God: High Angle & Drone View
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

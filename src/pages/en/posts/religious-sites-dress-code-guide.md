@@ -11,9 +11,9 @@ tags: ["Dress Code", "Religious Culture", "Temple Visit", "Travel Outfit"]
 
 # 📝 No Shorts Allowed? Religious Site Visit Dress Code
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

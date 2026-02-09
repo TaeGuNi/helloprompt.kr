@@ -13,7 +13,8 @@ tags: ["Excel", "Automatización", "VBA", "Trucos de Trabajo"]
 
 > **🎯 Ideal para:** Principiantes en Excel, Oficinistas cansados de tareas repetitivas
 > **⏱️ Tiempo ahorrado:** 1 hora (Manual) → 30 segundos (Automatizado)
-> **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Dificultad | Efectividad | Versatilidad |
 | :--------: | :---------: | :----------: |

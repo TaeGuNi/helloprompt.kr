@@ -12,8 +12,9 @@ tags: ["Running", "Marathon", "Stretching", "Cool-down", "Injury Prevention"]
 # 🏃‍♂️ Preventing Runner's Knee! Essential Post-Run Stretching by AI
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

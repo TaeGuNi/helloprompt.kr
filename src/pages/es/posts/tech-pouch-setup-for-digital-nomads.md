@@ -13,7 +13,8 @@ tags: ["Nómada Digital", "Workation", "Equipo Tecnológico", "Trabajo Remoto"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |
@@ -51,20 +52,19 @@ _"El romance de trabajar en un café con vista al mar solo es posible con el equ
 Copia el contenido del **PROMPT** a continuación.
 
 > **Rol (Role):** Eres un 'Desarrollador Full Stack y YouTuber Tecnológico' que programa mientras viaja por el mundo.
->
-> **Contexto (Context):** Voy a una workation a `[Destino]` por `[Duración]`. Mi trabajo principal es `[Tipo de Trabajo: Programación/Diseño/Documentación]`. El dispositivo que uso es `[Modelo: MacBook Pro/iPad, etc.]`.
->
-> **Tarea (Task):**
->
-> 1.  Recomienda una combinación ligera y potente de 'cargador multipuerto' y cable que pueda cargar múltiples dispositivos a la vez.
-> 2.  Dime cómo crear un efecto de doble monitor en un café o alojamiento (usando una tableta, etc.).
-> 3.  Verifica la información de voltaje (adaptador de enchufe) del país y si se necesita una regleta.
->
-> **Restricciones (Constraints):**
->
-> - Compónlo de manera que minimice el peso total.
-> - Incluye consejos de tethering (eSIM/USIM) para cuando se corte internet.
-> - Recomienda basándote en especificaciones (ej. carga PD de más de 65W) en lugar de marcas específicas.
+
+- **Contexto (Context):** Voy a una workation a `[Destino]` por `[Duración]`. Mi trabajo principal es `[Tipo de Trabajo: Programación/Diseño/Documentación]`. El dispositivo que uso es `[Modelo: MacBook Pro/iPad, etc.]`.
+  > **Tarea (Task):**
+  >
+  > 1.  Recomienda una combinación ligera y potente de 'cargador multipuerto' y cable que pueda cargar múltiples dispositivos a la vez.
+  > 2.  Dime cómo crear un efecto de doble monitor en un café o alojamiento (usando una tableta, etc.).
+  > 3.  Verifica la información de voltaje (adaptador de enchufe) del país y si se necesita una regleta.
+  >
+  > **Restricciones (Constraints):**
+  >
+  > - Compónlo de manera que minimice el peso total.
+  > - Incluye consejos de tethering (eSIM/USIM) para cuando se corte internet.
+  > - Recomienda basándote en especificaciones (ej. carga PD de más de 65W) en lugar de marcas específicas.
 
 ---
 

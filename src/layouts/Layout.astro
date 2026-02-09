@@ -561,6 +561,18 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         background: rgba(255, 255, 255, 0.1);
         box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
       }
+      .bookmark {
+        border-color: #ffd700;
+        color: #ffd700;
+      }
+      .bookmark:hover {
+        background: rgba(255, 215, 0, 0.1);
+        box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+      }
+      .bookmark.active .icon {
+        color: #ffd700;
+        text-shadow: 0 0 5px #ffd700;
+      }
 
       @media (max-width: 600px) {
         article {
@@ -710,6 +722,13 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               >
                 𝕏 {t.post}
               </a>
+              <button
+                id="bookmark-btn"
+                class="share-btn bookmark"
+                aria-label="Bookmark this page"
+              >
+                <span class="icon">☆</span> {t.bookmark || "Bookmark"}
+              </button>
             </div>
 
             {/* --- AD: Article Bottom (Before Comments/Related) --- */}
@@ -759,6 +778,51 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
     </div>
     <script is:inline>
       document.addEventListener("DOMContentLoaded", () => {
+        // --- 1. Bookmark Logic ---
+        const bookmarkBtn = document.getElementById("bookmark-btn");
+        if (bookmarkBtn) {
+          const currentPath = window.location.pathname;
+          const pageTitle = document.title.replace(" | Hello Prompt", "");
+          const bookmarks = JSON.parse(
+            localStorage.getItem("bookmarks") || "[]",
+          );
+
+          // Check if already bookmarked
+          const isBookmarked = bookmarks.some((b) => b.path === currentPath);
+          if (isBookmarked) {
+            bookmarkBtn.classList.add("active");
+            bookmarkBtn.querySelector(".icon").textContent = "★";
+          }
+
+          bookmarkBtn.addEventListener("click", () => {
+            const currentBookmarks = JSON.parse(
+              localStorage.getItem("bookmarks") || "[]",
+            );
+            const existingIndex = currentBookmarks.findIndex(
+              (b) => b.path === currentPath,
+            );
+
+            if (existingIndex > -1) {
+              // Remove
+              currentBookmarks.splice(existingIndex, 1);
+              bookmarkBtn.classList.remove("active");
+              bookmarkBtn.querySelector(".icon").textContent = "☆";
+              alert("Bookmark removed.");
+            } else {
+              // Add
+              currentBookmarks.push({
+                path: currentPath,
+                title: pageTitle,
+                date: new Date().toISOString(),
+              });
+              bookmarkBtn.classList.add("active");
+              bookmarkBtn.querySelector(".icon").textContent = "★";
+              alert("Bookmark added!");
+            }
+            localStorage.setItem("bookmarks", JSON.stringify(currentBookmarks));
+          });
+        }
+
         // --- 2. Copy Button Logic ---
         const wrappers = document.querySelectorAll(
           ".quote-wrapper, .code-wrapper",

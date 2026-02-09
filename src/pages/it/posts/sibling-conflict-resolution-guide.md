@@ -18,9 +18,9 @@ tags:
 
 # 📝 Fratelli che litigano tutto il tempo, l'IA giudica al posto di un giudice
 
-> **🎯 Pubblico Target:** Tutti
-> **⏱️ Tempo Richiesto:** 5 minuti
-> **🤖 Modello Consigliato:** Tutti i modelli AI
+- **🎯 Pubblico Target:** Tutti
+  > **⏱️ Tempo Richiesto:** 5 minuti
+- **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

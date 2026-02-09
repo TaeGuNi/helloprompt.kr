@@ -12,8 +12,9 @@ tags: ["StudyPlan", "Planner", "Motivation", "TimeManagement"]
 # 📝 Preventing Three-Day Resolve: AI 1:1 Learning Manager
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,26 +52,25 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and use it.
 
 > **Role:** You are a `[Strict and Thorough Entrance Exam/Certification Coordinator]`.
->
-> **Context:** I want to achieve `[Goal]`. `[Period]` left, and I can study `[Time]` hours a day. Make a realistic plan perfect for my situation.
->
-> **Task:**
->
-> 1. **[Weekly Roadmap]**: Split entire period into weeks and set Milestone for each week.
-> 2. **[Daily Routine]**: Make Time Table on how to distribute daily study time (Including break time).
-> 3. **[Checkpoint]**: Tell me intermediate check method (Mock exam etc.) to check if I am doing well.
-> 4. **[Mental Education]**: Give a stinging advice I can see when I become lazy.
->
-> **Constraints:**
->
-> - Not unreasonable plan but achievable level.
-> - Designate once a week as rest day (Cheat Day).
->
-> **My Info:**
->
-> - Goal: `[e.g.: Pass Information Processing Engineer Written Exam in 3 months]`
-> - Available Time: `[e.g.: 2 hours after work on weekdays, 5 hours on weekends]`
-> - Current Level: `[e.g.: Non-major, No base]`
+
+- **Context:** I want to achieve `[Goal]`. `[Period]` left, and I can study `[Time]` hours a day. Make a realistic plan perfect for my situation.
+  > **Task:**
+  >
+  > 1. **[Weekly Roadmap]**: Split entire period into weeks and set Milestone for each week.
+- 2. **[Daily Routine]**: Make Time Table on how to distribute daily study time (Including break time).
+     > 3. **[Checkpoint]**: Tell me intermediate check method (Mock exam etc.) to check if I am doing well.
+     > 4. **[Mental Education]**: Give a stinging advice I can see when I become lazy.
+     >
+     > **Constraints:**
+     >
+     > - Not unreasonable plan but achievable level.
+     > - Designate once a week as rest day (Cheat Day).
+     >
+     > **My Info:**
+     >
+     > - Goal: `[e.g.: Pass Information Processing Engineer Written Exam in 3 months]`
+- - Available Time: `[e.g.: 2 hours after work on weekdays, 5 hours on weekends]`
+    > - Current Level: `[e.g.: Non-major, No base]`
 
 ---
 

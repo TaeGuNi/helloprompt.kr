@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -63,18 +64,19 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > **Compito:**
 >
 > 1. Nome Prodotto: `[Nome Prodotto]`
-> 2. Pubblico Target: `[Persone che vedranno l'annuncio]`
-> 3. Punti da Enfatizzare: `[Tasso di sconto, Funzione, Recensione ecc.]`
-> 4. Basandoti sulle informazioni sopra, scrivi 3 versioni di Testo Principale Annuncio (Testo Primario).
->    - **Versione A (Tipo Storytelling):** Modo di svelare la storia empatizzando con la preoccupazione del cliente.
->    - **Versione B (Tipo Intuitivo/Beneficio):** Enfatizza funzione principale e beneficio sconto breve e audace.
->    - **Versione C (Tipo Recensione):** Stile recensione naturale come se scritto da un vero cliente.
->
-> **Vincoli:**
->
-> - Posiziona frasi gancio principali nelle prime due righe (prima di Vedi Altro).
-> - Aumenta la leggibilità usando emoji appropriatamente.
-> - Deve includere frase Call To Action (CTA) alla fine.
+
+- 2. Pubblico Target: `[Persone che vedranno l'annuncio]`
+     > 3. Punti da Enfatizzare: `[Tasso di sconto, Funzione, Recensione ecc.]`
+     > 4. Basandoti sulle informazioni sopra, scrivi 3 versioni di Testo Principale Annuncio (Testo Primario).
+     >    - **Versione A (Tipo Storytelling):** Modo di svelare la storia empatizzando con la preoccupazione del cliente.
+     >    - **Versione B (Tipo Intuitivo/Beneficio):** Enfatizza funzione principale e beneficio sconto breve e audace.
+     >    - **Versione C (Tipo Recensione):** Stile recensione naturale come se scritto da un vero cliente.
+     >
+     > **Vincoli:**
+     >
+     > - Posiziona frasi gancio principali nelle prime due righe (prima di Vedi Altro).
+     > - Aumenta la leggibilità usando emoji appropriatamente.
+     > - Deve includere frase Call To Action (CTA) alla fine.
 
 ---
 

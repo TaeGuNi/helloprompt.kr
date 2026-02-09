@@ -13,7 +13,8 @@ tags: ["Desculpa", "Email", "Negócios", "GestãoCrise", "Comunicação"]
 
 > **🎯 Recomendado para:** Novatos que cometeram um grande erro, Agentes de CS suando com reclamações, Freelancers atrasados
 > **⏱️ Tempo Necessário:** 1 min (Garanta o Tempo de Ouro)
-> **🤖 Modelo Recomendado:** Claude 3.5 Sonnet (Melhor Tom & Maneira)
+
+- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet (Melhor Tom & Maneira)
 
 | Dificuldade | Efetividade | Utilidade  |
 | :---------: | :---------: | :--------: |

@@ -12,8 +12,9 @@ tags: ["Facebook Ad", "Instagram Ad", "Performance Marketing", "Copywriting"]
 # 📝 Facebook/Insta Ad Copy Generator That Calls for Clicks
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,18 +58,19 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Task:**
 >
 > 1. Product Name: `[Product Name]`
-> 2. Target Audience: `[People who will see the ad]`
-> 3. Points to Emphasize: `[Discount rate, Function, Review etc.]`
-> 4. Based on the above information, write 3 versions of Ad Main Text (Primary Text).
->    - **Version A (Storytelling Type):** Way of unraveling story empathizing with customer's worry.
->    - **Version B (Intuitive/Benefit Type):** Emphasize core function and discount benefit short and bold.
->    - **Version C (Review Type):** Natural review style as if written by real customer.
->
-> **Constraints:**
->
-> - Place core hooking phrases in the first two lines (before See More).
-> - Increase readability by using emojis appropriately.
-> - Must include Call To Action (CTA) phrase at the end.
+
+- 2. Target Audience: `[People who will see the ad]`
+     > 3. Points to Emphasize: `[Discount rate, Function, Review etc.]`
+     > 4. Based on the above information, write 3 versions of Ad Main Text (Primary Text).
+     >    - **Version A (Storytelling Type):** Way of unraveling story empathizing with customer's worry.
+     >    - **Version B (Intuitive/Benefit Type):** Emphasize core function and discount benefit short and bold.
+     >    - **Version C (Review Type):** Natural review style as if written by real customer.
+     >
+     > **Constraints:**
+     >
+     > - Place core hooking phrases in the first two lines (before See More).
+     > - Increase readability by using emojis appropriately.
+     > - Must include Call To Action (CTA) phrase at the end.
 
 ---
 

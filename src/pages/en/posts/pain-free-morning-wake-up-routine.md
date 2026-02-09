@@ -12,8 +12,9 @@ tags: ["Wake Up", "Miracle Morning", "Habit", "Sleep", "ChatGPT"]
 # ☀️ Wake-Up Operation for You Who Can't Wake Up Even with 5 Alarms
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

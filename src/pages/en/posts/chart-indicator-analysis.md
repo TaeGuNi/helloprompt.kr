@@ -12,8 +12,9 @@ tags: ["Stock", "ChartAnalysis", "TechnicalAnalysis", "Trading"]
 # 📝 Chart Auxiliary Indicator Interpreter: Catching Buy Timing
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -59,12 +60,12 @@ Copy the **PROMPT** content below and use it. (Most accurate if you capture char
 > 1. Analyze current chart from perspectives of **RSI (Relative Strength Index), MACD, Moving Averages (20-day/60-day)**.
 > 2. Determine if current section is **Overbought** or **Oversold**.
 > 3. Comprehensively judging, present which is closer among **Buy Signal, Sell Signal, Hold** with probability (e.g., Buy Probability 70%).
-> 4. Suggest Stop-loss and Target Price based on support/resistance lines.
->
-> **Constraints:**
->
-> - Put obvious warning phrases like "Investment is your own responsibility" only one line at the very end.
-> - Organize analysis results clearly with Bullet points.
+
+- 4. Suggest Stop-loss and Target Price based on support/resistance lines.
+     > **Constraints:**
+     >
+     > - Put obvious warning phrases like "Investment is your own responsibility" only one line at the very end.
+     > - Organize analysis results clearly with Bullet points.
 
 ---
 

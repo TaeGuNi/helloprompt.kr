@@ -12,8 +12,9 @@ tags: ["ReverseQuestion", "InterviewTip", "LastWords", "CompanyAnalysis"]
 # 📝 Interview Last Ultimate Weapon! 'Reverse Question' Generator to Ask Interviewer
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

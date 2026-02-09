@@ -12,8 +12,9 @@ tags: ["Resume", "Summary", "ProfileSummary", "SelfIntro"]
 # 📝 First Impression of Resume, 'Summary' Writing Prompt
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -61,13 +62,13 @@ Copy the **PROMPT** content below and use it.
 >
 > 1. Write 3~4 lines summary clearly revealing why I should be hired.
 > 2. Define my identity in first sentence like "N-year [Job] expert...".
-> 3. Arrange keywords to look attractive for position `[Target Job]` I want to apply.
->
-> **Constraints:**
->
-> - Exclude cliched expressions (diligent, hardworking).
-> - Maintain Professional Tone.
-> - Suggest total 3 versions (Achievement emphasized / Skill emphasized / Leadership emphasized).
+
+- 3. Arrange keywords to look attractive for position `[Target Job]` I want to apply.
+     > **Constraints:**
+     >
+     > - Exclude cliched expressions (diligent, hardworking).
+     > - Maintain Professional Tone.
+     > - Suggest total 3 versions (Achievement emphasized / Skill emphasized / Leadership emphasized).
 
 ---
 

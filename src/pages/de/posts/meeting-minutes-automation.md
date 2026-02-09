@@ -13,7 +13,8 @@ tags: ["Protokoll", "Whisper", "ChatGPT", "Automatisierung", "Produktivität"]
 
 > **🎯 Empfohlen für:** Junioren, denen vom Tippen die Handgelenke schmerzen, Manager, die fragen "Was haben wir entschieden?"
 > **⏱️ Benötigte Zeit:** 3 Min (ohne Aufnahmezeit)
-> **🤖 Empfohlenes Modell:** OpenAI Whisper (Transkription) + ChatGPT-4o (Zusammenfassung)
+
+- **🤖 Empfohlenes Modell:** OpenAI Whisper (Transkription) + ChatGPT-4o (Zusammenfassung)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

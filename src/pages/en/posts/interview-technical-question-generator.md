@@ -12,8 +12,9 @@ tags: ["TechInterview", "MajorInterview", "ExpectedQuestion", "JobInterview"]
 # 📝 'Technical Interview' Expected Question Generator by Job
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,12 +58,13 @@ Copy the **PROMPT** content below and use it.
 > **Task:**
 >
 > 1. **Core 10 Questions:** Pick 10 technical questions must be asked in this career and skill set. (Basic Principle 3 + Practical Application 4 + Troubleshooting 3)
-> 2. **Model Answer Keywords:** Tell 3 core Keywords each to include when answering each question.
-> 3. **Advanced Tail Question:** Write one deep dive question that might come in when answered question 1.
->
-> **Constraints:**
->
-> - Ask in **Scenario-based** way asking experience in practice rather than textbook definition.
+
+- 2. **Model Answer Keywords:** Tell 3 core Keywords each to include when answering each question.
+     > 3. **Advanced Tail Question:** Write one deep dive question that might come in when answered question 1.
+     >
+     > **Constraints:**
+     >
+     > - Ask in **Scenario-based** way asking experience in practice rather than textbook definition.
 
 ---
 

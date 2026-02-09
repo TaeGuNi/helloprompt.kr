@@ -13,7 +13,8 @@ tags: ["Excel", "AnalisiInvestimento", "NPV", "IRR"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +40,8 @@ Non dovresti guardare solo l'importo del profitto. Perché il valore del denaro 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]`.
-> **Richiesta:** Dovrei fare questo affare? Calcola facilmente Valore Attuale Netto (NPV) e Tasso Interno di Rendimento (IRR), indicatori chiave della decisione di investimento, con Excel.
+- **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]`.
+  > **Richiesta:** Dovrei fare questo affare? Calcola facilmente Valore Attuale Netto (NPV) e Tasso Interno di Rendimento (IRR), indicatori chiave della decisione di investimento, con Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ Usala quando hai bisogno di qualità dettagliata.
 
 Copia il contenuto del **PROMPT** qui sotto e usalo.
 
-> **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]`.
->
-> **Contesto:** Voglio analizzare fattibilità investimento di un nuovo progetto con Excel.
->
-> - **Investimento Iniziale (Anno 0):** -100 Milioni KRW (Cella B2)
-> - **Entrate Previste (Anno 1~5):** 30 Milioni KRW annualmente (Celle B3~B7)
-> - **Tasso di Sconto (Rendimento Richiesto):** 10% (Cella C2)
->
-> **Compito:**
->
-> 1. Dimmi **formula Excel per trovare NPV (Valore Attuale Netto)** di questo progetto.
-> 2. Dimmi **formula Excel per trovare IRR (Tasso Interno di Rendimento)**.
-> 3. Spiega criteri di giudizio su se investire o meno quando risultati calcolo sono **NPV > 0** o **IRR > Tasso di Sconto**.
->
-> **Vincoli:**
->
-> - Scrivi formula notando che funzione `NPV` di Excel dovrebbe essere inserita dall'Anno 1. (Elaborare investimento iniziale separatamente)
+- **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]`.
+  > **Contesto:** Voglio analizzare fattibilità investimento di un nuovo progetto con Excel.
+  >
+  > - **Investimento Iniziale (Anno 0):** -100 Milioni KRW (Cella B2)
+  > - **Entrate Previste (Anno 1~5):** 30 Milioni KRW annualmente (Celle B3~B7)
+  > - **Tasso di Sconto (Rendimento Richiesto):** 10% (Cella C2)
+  >
+  > **Compito:**
+  >
+  > 1. Dimmi **formula Excel per trovare NPV (Valore Attuale Netto)** di questo progetto.
+  > 2. Dimmi **formula Excel per trovare IRR (Tasso Interno di Rendimento)**.
+  > 3. Spiega criteri di giudizio su se investire o meno quando risultati calcolo sono **NPV > 0** o **IRR > Tasso di Sconto**.
+  >
+  > **Vincoli:**
+  >
+  > - Scrivi formula notando che funzione `NPV` di Excel dovrebbe essere inserita dall'Anno 1. (Elaborare investimento iniziale separatamente)
 
 ---
 

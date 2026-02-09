@@ -12,8 +12,9 @@ tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 # 🧠 Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling
 
 > **🎯 Recommended for:** People spacing out with too many tasks, People whose plans are only pretty on paper
-> **⏱️ Time Required:** 1 min
-> **🤖 Recommended Model:** Notion AI (Paid but powerful) or ChatGPT (Copy-paste)
+
+- **⏱️ Time Required:** 1 min
+- **🤖 Recommended Model:** Notion AI (Paid but powerful) or ChatGPT (Copy-paste)
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -56,20 +57,19 @@ Using Notion AI feature (`Space` key).
 
 Using ChatGPT to make a perfect daily plan.
 
-> **Role:** You are the best Time Management Coach.
->
-> **Input (My Tasks):**
-> `[List random tasks here]`
->
-> **Task:**
->
-> 1. Classify into **Eisenhower Matrix** (4 Quadrants).
->    - Do Now (Important/Urgent)
->    - Schedule (Important/Not Urgent)
->    - Delegate (Urgent/Not Important)
->    - Delete (Not Important/Not Urgent)
-> 2. Based on this, create a **Timeline for Today**. (Include Lunch 12-1pm)
-> 3. Add estimated time and a **'Focus Tip'** for each task.
+- **Role:** You are the best Time Management Coach.
+  > **Input (My Tasks):**
+  > `[List random tasks here]`
+  >
+  > **Task:**
+  >
+  > 1. Classify into **Eisenhower Matrix** (4 Quadrants).
+  >    - Do Now (Important/Urgent)
+  >    - Schedule (Important/Not Urgent)
+  >    - Delegate (Urgent/Not Important)
+  >    - Delete (Not Important/Not Urgent)
+- 2. Based on this, create a **Timeline for Today**. (Include Lunch 12-1pm)
+     > 3. Add estimated time and a **'Focus Tip'** for each task.
 
 ---
 

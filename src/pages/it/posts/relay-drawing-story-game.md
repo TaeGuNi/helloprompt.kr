@@ -18,9 +18,9 @@ tags:
 
 # 📝 Ammazza un'ora con un foglio di carta! 'Storia a Staffetta di Disegno'
 
-> **🎯 Pubblico Target:** Tutti
-> **⏱️ Tempo Richiesto:** 5 minuti
-> **🤖 Modello Consigliato:** Tutti i modelli AI
+- **🎯 Pubblico Target:** Tutti
+  > **⏱️ Tempo Richiesto:** 5 minuti
+- **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

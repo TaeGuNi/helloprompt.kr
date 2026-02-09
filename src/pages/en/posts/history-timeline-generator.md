@@ -12,8 +12,9 @@ tags: ["HistorySummary", "Chronology", "Timeline", "Summary"]
 # 📝 Flow at a Glance: History Timeline Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -41,7 +42,8 @@ History is not 'dot' but 'line'. If you memorize individual events (dots), you f
 Use this when you just need a quick result.
 
 > **Role:** You are a `[Historian and Data Visualization Expert]`.
-> **Request:** Create a prompt that organizes order and causal relationship of complex events into neat Timeline.
+
+- **Request:** Create a prompt that organizes order and causal relationship of complex events into neat Timeline.
 
 <br>
 
@@ -56,17 +58,17 @@ Copy the **PROMPT** content below and use it.
 > **Context:** I want to grasp flow of `[Topic/Era]` at a glance.
 >
 > **Task:**
->
-> 1. **[Timeline Creation]**: Select 10 major events and make markdown Table. Columns are [Year | Event Name | Key Content | Note].
-> 2. **[Causal Relationship]**: Summarize how events connect to each other using arrows (→). (e.g.: Event A occurred → Become cause of B)
-> 3. **[Contemporary Situation]**: (Optional) If dealing with Korean history, compare what happened in China, Japan, or West in same period.
->
-> **Constraints:**
->
-> - Enter year as accurately as possible.
-> - Summarize key content shortly in 1 line.
->
-> **Topic:** `[e.g.: Changes in Bungdang Politics in Late Joseon / Major Battles of World War II]`
+
+- 1. **[Timeline Creation]**: Select 10 major events and make markdown Table. Columns are [Year | Event Name | Key Content | Note].
+     > 2. **[Causal Relationship]**: Summarize how events connect to each other using arrows (→). (e.g.: Event A occurred → Become cause of B)
+     > 3. **[Contemporary Situation]**: (Optional) If dealing with Korean history, compare what happened in China, Japan, or West in same period.
+     >
+     > **Constraints:**
+     >
+     > - Enter year as accurately as possible.
+     > - Summarize key content shortly in 1 line.
+     >
+     > **Topic:** `[e.g.: Changes in Bungdang Politics in Late Joseon / Major Battles of World War II]`
 
 ---
 

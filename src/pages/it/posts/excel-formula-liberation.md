@@ -13,7 +13,8 @@ tags: ["Excel", "AnalisiDati", "ChatGPT", "VLOOKUP", "Produttività"]
 
 > **🎯 Consigliato per:** Umanisti storditi dalle formule, Marketer che passano ore sui dati
 > **⏱️ Tempo Richiesto:** 10 secondi
-> **🤖 Modello Consigliato:** ChatGPT-4o (Advanced Data Analysis) o Claude 3.5 Sonnet
+
+- **🤖 Modello Consigliato:** ChatGPT-4o (Advanced Data Analysis) o Claude 3.5 Sonnet
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

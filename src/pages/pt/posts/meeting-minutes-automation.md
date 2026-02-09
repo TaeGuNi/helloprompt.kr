@@ -13,7 +13,8 @@ tags: ["Ata", "Whisper", "ChatGPT", "Automação", "Produtividade"]
 
 > **🎯 Recomendado para:** Juniores com dores nos pulsos de tanto digitar, Gerentes perguntando "O que decidimos?"
 > **⏱️ Tempo Necessário:** 3 min (excluindo tempo de gravação)
-> **🤖 Modelo Recomendado:** OpenAI Whisper (Transcrição) + ChatGPT-4o (Resumo)
+
+- **🤖 Modelo Recomendado:** OpenAI Whisper (Transcrição) + ChatGPT-4o (Resumo)
 
 | Dificuldade | Efetividade | Utilidade  |
 | :---------: | :---------: | :--------: |

@@ -1,0 +1,155 @@
+---
+import type { Post } from "../utils/postUtils";
+import { formatDate } from "../utils/dateUtils";
+
+interface Props {
+  currentTags?: string[];
+  currentPath: string;
+  lang: string;
+}
+
+const { currentTags = [], currentPath, lang } = Astro.props;
+
+// 1. 모든 포스트 가져오기 (언어별 분기 필요 시 확장 가능, 현재는 posts/*.md)
+let allPosts: Post[] = [];
+
+if (lang === "ko") {
+  allPosts = Object.values(
+    import.meta.glob("../pages/posts/*.md", { eager: true }),
+  ) as Post[];
+} else {
+  // 임시로 한국어만 지원 (다국어는 추후 고도화)
+  allPosts = Object.values(
+    import.meta.glob("../pages/posts/*.md", { eager: true }),
+  ) as Post[];
+}
+
+// 2. 관련 글 찾기
+const candidates = allPosts.filter((post) => {
+  if (post.url === currentPath) return false;
+  const postTags = post.frontmatter.tags || [];
+  return postTags.some((tag) => currentTags.includes(tag));
+});
+
+// 3. 점수 산정 및 정렬
+const related = candidates
+  .map((post) => {
+    const overlap = (post.frontmatter.tags || []).filter((t) =>
+      currentTags.includes(t),
+    ).length;
+    return { ...post, overlap };
+  })
+  .sort((a, b) => {
+    if (b.overlap !== a.overlap) return b.overlap - a.overlap;
+    return (
+      new Date(b.frontmatter.date).valueOf() -
+      new Date(a.frontmatter.date).valueOf()
+    );
+  })
+  .slice(0, 4);
+
+// 번역 (UI)
+const TITLE_MAP: Record<string, string> = {
+  ko: "🔗 함께 읽으면 좋은 글",
+  en: "🔗 Related Posts",
+  ja: "🔗 関連記事",
+};
+const sectionTitle = TITLE_MAP[lang] || TITLE_MAP["en"];
+---
+
+{
+  related.length > 0 && (
+    <div class="related-wrapper">
+      <h3 class="related-title">{sectionTitle}</h3>
+      <div class="related-grid">
+        {related.map((post) => (
+          <a href={post.url} class="related-card">
+            <h4>{post.frontmatter.title}</h4>
+            <div class="related-meta">
+              <span class="date">
+                {formatDate(post.frontmatter.date, lang, { dateOnly: true })}
+              </span>
+              <div class="tags">
+                {post.frontmatter.tags?.slice(0, 2).map((t) => (
+                  <span>#{t}</span>
+                ))}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+<style>
+  .related-wrapper {
+    margin-top: 80px;
+    padding-top: 40px;
+    border-top: 1px solid rgba(0, 243, 255, 0.3);
+    min-height: 300px; /* [Optimization] CLS 방지용 최소 높이 확보 */
+  }
+
+  .related-title {
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+  }
+
+  .related-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    box-sizing: border-box;
+  }
+
+  .related-card:hover {
+    background: rgba(0, 243, 255, 0.05);
+    border-color: #00f3ff;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 243, 255, 0.1);
+  }
+
+  .related-card h4 {
+    margin: 0 0 15px 0;
+    color: #e0e0e0;
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: 600;
+  }
+
+  .related-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 0.8rem;
+    color: #888;
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .tags {
+    display: flex;
+    gap: 5px;
+  }
+
+  .tags span {
+    color: #00f3ff;
+    opacity: 0.8;
+  }
+</style>

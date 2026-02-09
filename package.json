@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "lint": "prettier --check . && astro check",
+    "qa": "npx tsx scripts/qa/check.ts",
     "test": "vitest run",
     "test:e2e": "playwright test",
     "release": "standard-version",
@@ -27,6 +28,7 @@
     "@playwright/test": "^1.58.1",
     "@vite-pwa/astro": "^1.2.0",
     "@vitest/coverage-v8": "^4.0.18",
+    "glob": "^13.0.1",
     "html-validate": "^10.7.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
@@ -42,6 +44,9 @@
   "lint-staged": {
     "*.{js,ts,astro,md}": [
       "prettier --write"
+    ],
+    "src/pages/**/*.md": [
+      "pnpm qa"
     ]
   }
 }

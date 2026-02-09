@@ -26,16 +26,12 @@ import LanguageSwitcher from "../components/LanguageSwitcher.astro";
 import { uiStrings } from "../utils/ui-translation";
 import { determineCurrentLang } from "../utils/i18nUtils";
 import BaseHtml from "../components/BaseHtml.astro";
-import type { Post } from "../utils/postUtils";
+import { formatDate } from "../utils/dateUtils";
+import AdUnit from "../components/AdUnit.astro";
+import RelatedPosts from "../components/RelatedPosts.astro"; // [NEW] 컴포넌트 추가
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
-
-// 추천 글 (Related Posts) 로직
-const relatedPosts: Post[] = [];
-
-import { formatDate } from "../utils/dateUtils";
-import AdUnit from "../components/AdUnit.astro";
 ---
 
 <BaseHtml lang={frontmatter.lang}>
@@ -533,44 +529,8 @@ import AdUnit from "../components/AdUnit.astro";
       }
 
       /* --- 6. Related Posts & Share --- */
-      .related-section {
-        margin-top: 80px;
-        border-top: 1px solid #333;
-        padding-top: 40px;
-      }
-      .related-title {
-        font-family: "Orbitron", sans-serif;
-        color: #00f3ff;
-        font-size: 1.2rem;
-        margin-bottom: 20px;
-      }
-      .related-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 20px;
-      }
-      .related-card {
-        background: rgba(255, 255, 255, 0.05);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        padding: 20px;
-        border-radius: 8px;
-        text-decoration: none;
-        transition: all 0.2s;
-      }
-      .related-card:hover {
-        border-color: #00f3ff;
-        transform: translateY(-3px);
-      }
-      .related-card h3 {
-        font-size: 1rem;
-        color: #fff;
-        margin: 0 0 10px 0;
-        line-height: 1.4;
-      }
-      .related-card span {
-        font-size: 0.8rem;
-        color: #888;
-      }
+      /* Related Posts 스타일은 컴포넌트 내부로 이동되었으므로 여기서 삭제 가능 */
+      /* 하지만 컴포넌트에서 scoped style을 쓰므로 여기 있어도 문제 없음 */
 
       .share-buttons {
         display: flex;
@@ -764,19 +724,14 @@ import AdUnit from "../components/AdUnit.astro";
         )
       }
 
+      {/* [NEW] Related Posts Component */}
       {
-        !isHome && relatedPosts.length > 0 && (
-          <div class="related-section">
-            <h2 class="related-title">{t.related_posts}</h2>
-            <div class="related-grid">
-              {relatedPosts.map((post) => (
-                <a href={post.url} class="related-card">
-                  <h3>{post.frontmatter.title}</h3>
-                  <span>{post.frontmatter.date}</span>
-                </a>
-              ))}
-            </div>
-          </div>
+        !isHome && (
+          <RelatedPosts
+            currentTags={frontmatter.tags}
+            currentPath={Astro.url.pathname}
+            lang={currentLang}
+          />
         )
       }
 

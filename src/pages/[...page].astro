@@ -41,6 +41,25 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 
 const { page } = Astro.props as { page: Page<Post> };
 
+// --- 태그 집계 로직 추가 ---
+const allPosts = Object.values(
+  import.meta.glob("./posts/*.md", { eager: true }),
+) as Post[];
+
+const tagCounts: Record<string, number> = {};
+allPosts.forEach((post) => {
+  if (post.frontmatter.tags) {
+    post.frontmatter.tags.forEach((tag) => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
+  }
+});
+
+const popularTags = Object.entries(tagCounts)
+  .sort(([, a], [, b]) => b - a) // 빈도수 내림차순 정렬
+  .slice(0, 10) // 상위 10개만 추출
+  .map(([tag]) => tag);
+
 const frontmatter = {
   title: "HOME",
   description: "AI가 낯선 당신을 위한 가장 친절한 가이드",
@@ -56,7 +75,7 @@ const frontmatter = {
     <div class="tech-line"></div>
     <p class="subtitle">AI가 낯선 당신을 위한 가장 친절한 가이드</p>
 
-    <!-- 검색창 추가 -->
+    <!-- 검색창 -->
     <div class="search-container">
       <input
         type="text"
@@ -66,9 +85,24 @@ const frontmatter = {
       />
       <div id="search-results" class="search-results"></div>
     </div>
+
+    <!-- 🔥 POPULAR TAGS (New Section) -->
+    <div class="popular-tags">
+      <span class="tag-label">🔥 TRENDING:</span>
+      <div class="tag-list">
+        {
+          popularTags.map((tag) => (
+            <a href={`/tags/${tag}`} class="pop-tag">
+              #{tag}
+            </a>
+          ))
+        }
+      </div>
+    </div>
   </div>
 
   <style is:global>
+    /* ... (기존 검색 스타일 유지) ... */
     .search-container {
       position: relative;
       width: 100%;
@@ -102,7 +136,7 @@ const frontmatter = {
       text-align: center;
     }
 
-    /* 검색 결과창 (입력창과 너비 1:1 일치) */
+    /* 검색 결과창 */
     .search-results {
       position: absolute;
       top: calc(100% + 10px);
@@ -121,7 +155,7 @@ const frontmatter = {
       box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
     }
 
-    /* 검색 항목 (리스트 아이템) */
+    /* 검색 항목 */
     .search-item {
       display: block;
       padding: 16px 20px;
@@ -202,7 +236,6 @@ const frontmatter = {
 
     /**
      * 디바운스 함수 (성능 최적화)
-     * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
      */
     function debounce<T extends (...args: any[]) => void>(
       func: T,
@@ -344,28 +377,27 @@ const frontmatter = {
 <style>
   /* --- HERO SECTION (Refined) --- */
   .hero {
-    margin-bottom: 120px; /* 하단 여백 대폭 추가 */
+    margin-bottom: 80px; /* 여백 조정 */
     position: relative;
     text-align: center;
-    padding-top: 60px; /* 상단 여백 추가 */
+    padding-top: 60px;
     display: flex;
     flex-direction: column;
-    align-items: center; /* 확실한 중앙 정렬 */
+    align-items: center;
   }
 
+  /* ... (기존 스타일 유지) ... */
   .ai-title {
     font-family: "Orbitron", sans-serif;
-    font-size: 5rem; /* PC에서 더 크게 */
+    font-size: 5rem;
     font-weight: 900;
     letter-spacing: 4px;
     margin: 0 0 30px 0;
     line-height: 1.1;
     color: #fff;
     text-transform: uppercase;
-
-    /* 네온 효과 강화 */
     text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
-    background: linear-gradient(180deg, #fff, #aaa); /* 메탈릭 그라데이션 */
+    background: linear-gradient(180deg, #fff, #aaa);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
@@ -374,7 +406,7 @@ const frontmatter = {
     width: 150px;
     height: 4px;
     background: #00f3ff;
-    margin: 0 auto 30px; /* 중앙 정렬 및 여백 */
+    margin: 0 auto 30px;
     box-shadow: 0 0 20px #00f3ff;
     border-radius: 2px;
   }
@@ -382,10 +414,55 @@ const frontmatter = {
   p.subtitle {
     font-size: 1.4rem;
     color: #ccc;
-    margin: 0 0 60px 0; /* 검색창과의 간격 */
+    margin: 0 0 40px 0;
     font-weight: 300;
     letter-spacing: 1px;
     opacity: 0.8;
+  }
+
+  /* --- POPULAR TAGS STYLE --- */
+  .popular-tags {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  .tag-label {
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    opacity: 0.8;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .pop-tag {
+    background: rgba(0, 243, 255, 0.05);
+    border: 1px solid rgba(0, 243, 255, 0.3);
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .pop-tag:hover {
+    background: rgba(0, 243, 255, 0.2);
+    border-color: #00f3ff;
+    box-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
+    transform: translateY(-2px);
   }
 
   @media (max-width: 768px) {
@@ -394,12 +471,15 @@ const frontmatter = {
       letter-spacing: 1px;
     }
     .hero {
-      margin-bottom: 80px;
+      margin-bottom: 60px;
       padding-top: 40px;
     }
     p.subtitle {
       font-size: 1.1rem;
-      margin-bottom: 40px;
+      margin-bottom: 30px;
+    }
+    .popular-tags {
+      padding: 0 20px; /* 모바일 좌우 여백 */
     }
   }
 

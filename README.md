@@ -8,12 +8,11 @@
 ## 🚀 주요 기능 (Features)
 
 - **🎨 Cyberpunk UI:** 다크 모드, 네온 글래스모피즘, 반응형 디자인
-- **🔍 Smart Search:** Fuse.js 기반 실시간 검색 (한글 지원)
+- **🔍 Smart Search:** Fuse.js 기반 실시간 검색 (한글 지원) + **🔥 인기 태그 추천**
 - **📑 Auto TOC:** 게시글 목차 자동 생성 및 네비게이션
 - **🤖 Prompt Box:** 복사하기 쉬운 전용 UI (PROMPT/RESULT)
-- **📡 RSS & Atom:** 피드 구독 완벽 지원 (`/rss.xml`, `/atom.xml`)
-- **🔗 Social Share:** 트위터 공유 및 링크 복사 기능
-- **🛡️ Test Automation:** Lint, Unit Test, E2E Test (Playwright)
+- **🔗 Related Posts:** 태그 기반 관련 글 자동 추천 시스템
+- **🛡️ CQA System:** 콘텐츠 품질 자동 검수 (`pnpm qa`) 및 휴먼 터치(Human Touch) 검증
 
 ## 🛠 기술 스택 (Tech Stack)
 
@@ -21,7 +20,7 @@
 - **Framework:** [Astro](https://astro.build) (v5)
 - **Language:** TypeScript
 - **Styling:** CSS (No external UI libraries)
-- **Package Manager:** **pnpm**
+- **Quality Assurance:** Husky, Lint-staged, Custom QA Scripts
 - **Test:** Vitest, Playwright
 - **Deploy:** Vercel
 
@@ -37,11 +36,14 @@ pnpm install
 # 2. 개발 서버 실행
 pnpm run dev -- --host
 
-# 3. 테스트 실행
+# 3. 품질 검수 (New!)
+pnpm qa        # 전체 문서 품질 체크 (모바일 호환성, 필수 섹션 등)
+
+# 4. 테스트 실행
 pnpm test       # Unit Test
 pnpm test:e2e   # E2E Test
 
-# 4. 배포 (자동 검사 포함)
+# 5. 배포 (자동 검사 포함)
 pnpm run deploy
 ```
 
@@ -58,8 +60,8 @@ pnpm run deploy
 ### 🎨 디자인 및 콘텐츠
 
 - [디자인 시스템](docs/DESIGN_SYSTEM.md): 컬러, 폰트, UI 가이드라인
-- [콘텐츠 품질 평가 모델](docs/QUALITY_MODEL.md): 글 발행 기준표 (500점 만점)
-- [작가 가이드](docs/WRITER_GUIDE.md): 톤앤매너 및 글 작성법
+- [콘텐츠 품질 평가 모델](docs/QUALITY_MODEL.md): 글 발행 기준표 (**700점 만점**)
+- [작가 가이드](docs/WRITER_GUIDE.md): 톤앤매너 및 글 작성법 (**Human Insight 필수**)
 
 ### 💻 개발 및 운영
 
@@ -70,11 +72,12 @@ pnpm run deploy
 - [토큰 최적화 가이드](docs/TOKEN_OPTIMIZATION.md): AI 비용 절감 전략
 - [AI 협업 가이드](GEMINI.md): AI 에이전트를 위한 지침서
 
-## ✍️ 글 작성 가이드
+## ✍️ 글 작성 가이드 (Writer's Guide)
 
-1. `docs/POST_TEMPLATE.md` (v3.0) 복사
-2. 메타 정보(타겟, 시간) 및 본문 작성
-3. `>` (프롬프트), ` ``` ` (결과) 문법 준수
+1. `docs/POST_TEMPLATE.md` (v4.0) 복사
+2. **필수 섹션 작성:** `Insight`, `FAQ`, `Customization` 포함
+3. **이미지:** `src/assets/images/` 경로 사용 (자동 최적화)
+4. **검수:** `pnpm qa` 실행하여 통과 여부 확인
 
 ## 🤝 기여하기 (Contributing)
 
@@ -83,7 +86,7 @@ Hello Prompt는 오픈소스 커뮤니티의 기여를 환영합니다.
 
 1. 이 저장소를 포크(Fork)합니다.
 2. 새로운 브랜치를 생성합니다. (`git checkout -b feature/AmazingFeature`)
-3. 변경 사항을 커밋합니다. (`git commit -m 'Add some AmazingFeature'`)
+3. 변경 사항을 커밋합니다. (`git commit -m 'feat: Add some AmazingFeature'`)
 4. 브랜치에 푸시합니다. (`git push origin feature/AmazingFeature`)
 5. Pull Request를 생성합니다.
 
@@ -91,5 +94,6 @@ Hello Prompt는 오픈소스 커뮤니티의 기여를 환영합니다.
 
 - `src/pages/posts/`: 블로그 글 (Markdown)
 - `src/layouts/`: 레이아웃 및 디자인
-- `tests/`: E2E 테스트 시나리오
+- `src/components/`: 재사용 가능한 UI 컴포넌트 (`RelatedPosts`, `AdUnit` 등)
+- `scripts/qa/`: 품질 검수 스크립트
 - `docs/`: 프로젝트 관리 문서

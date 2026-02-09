@@ -16,42 +16,40 @@
   - Push 시: **Vercel이 자동으로 코드를 가져가서(Pull) 배포합니다.**
   - 목적: 실제 서비스 운영
 
-### 🚀 배포 프로세스
+## 2. 품질 보증 시스템 (CQA System) [New]
 
-1.  작업 내용을 `develop` 브랜치에 Push합니다. (GitHub Action: `CI (Lint, Unit & E2E)`)
-    - `lint-and-unit`: 정적 분석 및 유닛 테스트
-    - `e2e-test`: Playwright E2E 테스트
-2.  모든 테스트가 통과되면 `develop` -> `main`으로 Pull Request(PR) 및 Merge를 수행합니다.
-3.  `main` 브랜치에 코드가 병합되면 **Vercel이 이를 감지하고 알아서 코드를 땡겨가서(Pull) 배포를 시작합니다.** (GitHub Action 불필요)
+우리는 코드뿐만 아니라 **콘텐츠 품질**까지 자동화된 시스템으로 관리합니다.
 
-```mermaid
-graph LR
-    A[Dev Push/PR] -->|Unified CI| B{Lint/Unit & E2E}
-    B -- Fail --> C[Fix Bug]
-    B -- Pass --> D[Merge to main]
-    D -->|Vercel Auto| E[Build & Deploy]
-```
+### 🛡️ 1차 방어선: 로컬 (Husky Hooks)
 
-## 2. 테스트 전략 (Testing Strategy)
+개발자(작가)가 코드를 커밋하기 전(`pre-commit`), 자동으로 다음 검사가 수행됩니다.
 
-- **Unit Test (Vitest):**
-  - 대상: `src/utils.ts` 등 순수 로직
-  - 실행: `pnpm test`
-- **E2E Test (Playwright):**
-  - 대상: 메인 페이지, 검색 기능 등 사용자 시나리오
-  - 실행: `pnpm test:e2e`
-  - 특징: 실제 Chromium 브라우저를 띄워 테스트함
+1.  **Staged File Linting:** 변경된 파일에 대해 `prettier` 포맷팅 적용.
+2.  **Content Audit (`pnpm qa`):** 변경된 `.md` 파일이 품질 기준(모바일 호환성, 필수 섹션 등)을 충족하는지 검사.
+    - `STYLE_TABLE`: 표 대신 리스트 사용 여부
+    - `MISSING_INSIGHT`: 작성자 코멘트 섹션 존재 여부
+    - `LOC_KOREAN_REMAINS`: 번역 파일 내 한글 잔존 여부
 
-## 3. 코드 품질 기준 (Code Quality Gate)
+### 🛡️ 2차 방어선: CI (GitHub Actions)
 
-우리는 **무결점 코드**를 지향합니다. 다음 기준을 만족하지 못하면 배포 파이프라인이 중단됩니다.
+PR 생성 시 전체 테스트 스위트가 실행됩니다.
 
-- **Test Coverage:** 단위 테스트 커버리지 **90% 이상** 유지 (Statements, Branches, Functions, Lines)
+- **Unit Test (Vitest):** 순수 로직 테스트 (`src/utils.ts` 등)
+- **E2E Test (Playwright):** 사용자 시나리오 테스트
+- **Full Content Audit:** 전체 문서(`src/pages/**/*.md`) 일괄 품질 검사
+
+## 3. 코드 및 콘텐츠 품질 기준 (Quality Gate)
+
+다음 기준을 만족하지 못하면 배포 파이프라인이 중단됩니다.
+
+- **Test Coverage:** 단위 테스트 커버리지 **90% 이상** 유지
+- **Content Quality:** `pnpm qa` 검사 **Error 0건** (Warning은 허용하되 개선 권장)
 - **Linting:** `prettier` 및 `astro check` 오류 0건
 
 ```bash
-# 커버리지 확인 명령어
-pnpm test --coverage
+# 수동 검수 명령어
+pnpm qa        # 전체 문서 검사
+pnpm qa:check  # 사이트맵 등 기술적 SEO 검증 (scripts/qa/sitemap-check.ts)
 ```
 
 ## 4. 인프라 (Infrastructure)
@@ -60,23 +58,23 @@ pnpm test --coverage
 - **Node Version:** Node.js v24.13.0 (LTS)
 - **Package Manager:** pnpm (Strict Mode)
 - **Deployment Strategy:** Vercel Git Integration (Managed Build)
-  - GitHub 저장소 연결을 통해 소스 코드를 Vercel 서버에서 직접 빌드 및 배포
-  - 장점: 파일 업로드 개수 제한(5000개) 우회, 미리보기 배포 자동화
-- **Cache Control:** Vercel 기본 캐시 정책 사용
 
-## 5. 모니터링 & 유지보수 (Monitoring)
+## 5. SEO 및 기술적 검증
 
-- **Status Check:** UptimeRobot 등을 이용해 24/7 가동 확인 권장
-- **Logs:** Vercel Dashboard의 Runtime Logs 활용
-- **Security:** 주기적인 `pnpm audit` 실행 및 패키지 업데이트 (`pnpm update`)
+배포 전, 로컬 빌드를 통해 기술적 SEO 요소를 검증할 수 있습니다.
+
+```bash
+pnpm build
+npx tsx scripts/qa/sitemap-check.ts
+```
+
+- `robots.txt` 내 사이트맵 선언 여부 확인
+- `sitemap-index.xml` 생성 여부 확인
 
 ## 6. 트러블 슈팅 (Troubleshooting)
 
-**Q. 배포 중 "Type Error"가 발생해요.**
-A. `tsconfig.json`의 `strict` 모드가 켜져 있는지 확인하거나, 코드 내 타입을 명시하십시오.
+**Q. 커밋이 안 돼요 (Husky pre-commit failed).**
+A. 에러 메시지를 확인하세요. `[MISSING_INSIGHT]` 에러라면 해당 마크다운 파일에 `## 💡 작성자 코멘트 (Insight)` 섹션을 추가해야 합니다.
 
 **Q. E2E 테스트가 실패해요.**
 A. 로컬 서버(`pnpm run dev`)가 정상적으로 뜨는지 확인하고, 브라우저 버전이 호환되는지 체크하십시오.
-
-**Q. 커버리지 점수가 낮아서 배포가 안 돼요.**
-A. 테스트 코드가 누락된 로직(`src/utils.ts` 등)이 있는지 확인하고, 테스트 케이스를 추가하십시오.

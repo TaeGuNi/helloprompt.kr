@@ -113,7 +113,7 @@ Hello Prompt의 작가(Contributor)가 된 것을 환영합니다.
 
 1. **파일명:** 영문 소문자 `kebab-case` 인가? (예: `excel-pivot-table.md`)
 2. **프론트매터:** 날짜(ISO 8601), 태그, 설명이 정확한가?
-3. **이미지:** `public/images/` 경로에 있고, 용량이 최적화되었는가?
+3. **이미지:** `src/assets/images/` 경로에 있고, 용량이 최적화되었는가?
 4. **테스트:** `pnpm check` 및 `pnpm lint`를 통과했는가?
 
 ---

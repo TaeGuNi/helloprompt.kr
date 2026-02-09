@@ -1,93 +1,108 @@
 # 💻 코딩 스타일 가이드 (Coding Style Guide)
 
-협업 시 코드의 일관성을 유지하기 위한 규칙입니다.
+> **"Code is read much more often than it is written."**
+> 우리는 읽기 쉽고, 예측 가능하며, 유지보수하기 쉬운 코드를 작성합니다.
+
+---
 
 ## 0. 핵심 원칙 (Core Principles)
 
-- **NO JavaScript:** 프로젝트 내 모든 로직은 반드시 **TypeScript (.ts, .tsx)**로 작성해야 합니다. `.js` 파일 생성 금지.
-- **Strict Typing:** `any` 사용을 지양하고, 명시적인 타입을 정의합니다.
+1.  **TypeScript First:** 모든 로직은 TypeScript로 작성합니다. (`.js` 금지)
+2.  **Explicit is Better than Implicit:** 암시적인 타입 추론에 의존하기보다, 명시적으로 타입을 정의합니다.
+3.  **Component Driven:** UI는 작고 재사용 가능한 컴포넌트 단위로 쪼갭니다.
+
+---
 
 ## 1. 명명 규칙 (Naming Convention)
 
-### 파일 및 폴더
+일관된 네이밍은 코드의 가독성을 높이는 가장 쉬운 방법입니다.
 
-- **페이지/라우트:** `kebab-case` (예: `prompt-guide.md`, `rss.xml.js`)
-- **컴포넌트:** `PascalCase` (예: `PromptCard.astro`, `SearchBar.svelte`)
-- **이미지:** `snake_case` 권장 (예: `og_image.png`)
+### 파일 및 디렉토리
 
-### 변수 및 함수
+- **컴포넌트:** `PascalCase` (예: `PromptCard.astro`, `Header.tsx`)
+- **페이지/라우트:** `kebab-case` (예: `posts/excel-guide.md`, `about-us.astro`)
+- **유틸리티/훅:** `camelCase` (예: `dateUtils.ts`, `useSearch.ts`)
+- **이미지:** `snake_case` (예: `og_image_default.png`)
 
-- **JavaScript/TS:** `camelCase` (예: `const allPosts`, `function getStaticPaths`)
-- **CSS Class:** `kebab-case` (예: `.post-card`, `.ai-title`)
+### 코드 (Code)
 
-## 2. 프로젝트 구조 (Structure)
+- **변수/함수:** `camelCase` (예: `const totalCount`, `function getPosts`)
+- **상수 (Global):** `UPPER_SNAKE_CASE` (예: `const MAX_RETRY = 3`)
+- **타입/인터페이스:** `PascalCase` (예: `interface PostProps`, `type UserRole`)
+- **CSS 클래스:** `kebab-case` (예: `.btn-primary`, `.card-header`)
 
-```text
-src/
-├── components/   # 재사용 가능한 UI 조각 (버튼, 카드)
-├── layouts/      # 페이지 전체 레이아웃 (헤더, 푸터 포함)
-├── pages/        # 실제 라우트 (URL)
-│   ├── posts/    # 블로그 글 (.md)
-│   └── tags/     # 태그 페이지
-└── utils/        # 공통 함수 (날짜 포맷팅 등)
+---
+
+## 2. TypeScript 가이드 (TypeScript Guidelines)
+
+### 🚫 `any` 금지
+
+`any`는 TypeScript를 쓰는 이유를 무색하게 만듭니다. 정말 피치 못할 사정(외부 라이브러리 타입 부재 등)이 아니라면 절대 사용하지 마세요.
+
+```typescript
+// Bad
+function process(data: any) { ... }
+
+// Good
+interface ProcessData {
+  id: string;
+  value: number;
+}
+function process(data: ProcessData) { ... }
 ```
 
-## 3. 코드 작성 규칙 (Rules)
+### 타입 정의 위치
 
-- **세미콜론:** 항상 사용 (Always use semicolons)
-- **따옴표:** 작은따옴표(`'`) 권장
-- **비동기:** `async/await` 사용 (Promise 체이닝 지양)
-- **타입:** TypeScript 사용 시 `any` 사용 지양 (단, 빌드 문제 시 예외적으로 허용)
+- 컴포넌트 내부에서만 쓰이는 타입: 해당 파일 상단에 정의
+- 여러 파일에서 쓰이는 타입: `src/types/` 디렉토리 또는 관련 `.ts` 파일에서 `export`
+
+---
+
+## 3. 컴포넌트 설계 (Component Design)
+
+### Astro 컴포넌트
+
+- **Props 정의:** 파일 상단 `---` 프론트매터 영역에 `interface Props`를 정의하여 타입을 안전하게 받습니다.
+
+```astro
+---
+interface Props {
+  title: string;
+  publishedAt: Date;
+}
+const { title, publishedAt } = Astro.props;
+---
+
+<h1>{title}</h1>
+```
+
+### 구조화
+
+- 비즈니스 로직이 길어지면 별도의 `hooks`나 `utils`로 분리하세요.
+- 뷰(View)와 로직(Logic)을 최대한 분리하여 가독성을 높이세요.
+
+---
 
 ## 4. 에러 처리 (Error Handling)
 
-- **Try-Catch:** 예상치 못한 오류가 발생할 수 있는 로직(API 호출, 파일 시스템 접근 등)은 반드시 `try-catch` 블록으로 감쌉니다.
-- **Graceful Failure:** 에러 발생 시 사용자에게 친절한 UI를 보여주거나, 적절한 기본값을 제공하여 앱이 중단되지 않도록 합니다.
+- **예측 가능한 에러:** `try-catch`로 감싸고, 사용자에게 의미 있는 피드백(UI 또는 로그)을 제공하세요.
+- **Fail Gracefully:** API 호출 실패 등으로 앱 전체가 멈추지 않도록, 기본값(Fallback)이나 에러 상태 UI를 준비하세요.
 
-```typescript
-try {
-  const data = await fetchData();
-} catch (error) {
-  console.error("Failed to fetch data:", error);
-  // 폴백 UI 처리 또는 기본값 할당
-}
-```
+---
 
-## 5. 로깅 (Logging)
+## 5. 주석 (Comments)
 
-- **Console Log:** 개발 환경(`dev`)에서만 `console.log`를 사용하고, 프로덕션 배포 전에는 제거합니다.
-- **Error Log:** `console.error`는 심각한 오류 발생 시에만 사용하며, 에러 메시지는 명확하게 작성합니다.
+- **Do Not:** 코드를 그대로 설명하는 주석 (예: `// i를 1 증가시킴`)
+- **Do:** **"왜(Why)"** 이렇게 짰는지, 어떤 **"제약 사항(Constraints)"**이 있는지 설명하는 주석
+- **TODO:** 나중에 해야 할 일은 `// TODO: [작성자] 내용` 형식으로 남기세요.
 
-## 6. 커밋 메시지 (Commit Message)
+---
 
-- `feat`: 새로운 기능 추가
-- `fix`: 버그 수정
-- `docs`: 문서 수정
-- `style`: 디자인 변경 (로직 영향 없음)
-- `refactor`: 코드 리팩토링
-- `chore`: 빌드 스크립트 등 기타 작업
+## 6. 포맷팅 및 린트 (Formatting & Lint)
 
-## 7. 클린 코드 및 리팩토링 원칙 (Clean Code)
+- **Prettier:** 저장 시 자동 포맷팅이 적용되도록 에디터를 설정하세요. (.prettierrc 준수)
+- **ESLint:** 경고(Warning)도 에러(Error)처럼 다루고, 무시하지 마세요.
 
-### 성능 최적화 (Performance)
+---
 
-- **Debounce:** 검색, 윈도우 리사이즈 등 빈번한 이벤트에는 반드시 `debounce`를 적용합니다.
-- **Fragment:** 반복적인 DOM 조작 시 `DocumentFragment`를 사용하여 리플로우를 최소화합니다.
-
-### 가독성 (Readability)
-
-- **네이밍:** 변수명은 의도가 명확해야 합니다.
-  - Bad: `data`, `list`
-  - Good: `searchIndex`, `filteredPosts`
-- **함수 분리:** 하나의 함수는 하나의 일만 하도록 쪼갭니다. (예: `handleSearch`와 `renderResults` 분리)
-
-### 주석 (Comments)
-
-- **JSDoc:** 복잡한 로직이나 유틸리티 함수에는 JSDoc 스타일의 주석을 답니다.
-- **Why:** "무엇을" 하는지보다 **"왜"** 이렇게 짰는지를 설명합니다.
-
-## 8. 날짜 및 시간 처리 (Date & Time Handling)
-
-- **ISO 8601:** 모든 데이터의 원본 날짜는 ISO 포맷(`YYYY-MM-DDTHH:mm:ss.sssZ`)을 준수합니다.
-- **Utility 사용:** 날짜 포맷팅 시 직접 `Date` 객체를 조작하지 말고, `src/utils/dateUtils.ts`의 `formatDate` 함수를 사용합니다.
-- **TDD/Unit Test:** 날짜 관련 로직 수정 시 `src/utils/dateUtils.test.ts` 테스트를 반드시 통과해야 합니다.
+**이 가이드를 준수함으로써 우리는 더 빠르고 안전하게 개발할 수 있습니다.**

@@ -1,124 +1,106 @@
 # 🏛️ 소프트웨어 아키텍처 (Software Architecture)
 
-Hello Prompt (Help) 프로젝트의 기술적 구조와 설계 원칙을 설명합니다.
+Hello Prompt는 **성능(Performance)**, **단순성(Simplicity)**, **확장성(Scalability)**을 최우선으로 설계되었습니다.
+불필요한 복잡도를 제거하고, 콘텐츠 중심의 정적 사이트(Static Site) 모델을 지향합니다.
 
-## 1. 시스템 개요 (System Overview)
+---
 
-본 프로젝트는 **정적 사이트 생성(SSG, Static Site Generation)** 방식을 채택하여 최고의 성능과 보안성을 보장합니다.
+## 1. 기술 스택 (Tech Stack)
 
-- **Frontend:** Astro (Component-based architecture)
-- **Data Source:** Markdown Files (Filesystem-based CMS)
-- **Search Engine:** Client-side Indexing (Fuse.js logic)
-- **Hosting:** Serverless Edge (Vercel)
+| 구분          | 기술                    | 선정 이유                                                             |
+| :------------ | :---------------------- | :-------------------------------------------------------------------- |
+| **Framework** | **Astro v5**            | 압도적인 빌드 성능, Zero-JS by Default, 콘텐츠 중심 웹사이트에 최적화 |
+| **Language**  | **TypeScript**          | 정적 타입 시스템을 통한 안정성 및 유지보수성 확보                     |
+| **Styling**   | **CSS Modules**         | 컴포넌트 단위 스코핑, 별도 런타임 라이브러리 불필요                   |
+| **Content**   | **Markdown (.md)**      | Git 기반 형상 관리, 개발자 친화적인 집필 환경                         |
+| **Search**    | **Fuse.js**             | 서버 없이 클라이언트 사이드에서 가볍고 빠른 퍼지 검색 구현            |
+| **Test**      | **Vitest / Playwright** | 빠른 유닛 테스트 및 신뢰성 높은 E2E 테스트                            |
+| **Deploy**    | **Vercel**              | 글로벌 엣지 네트워크, 뛰어난 DX (Developer Experience)                |
 
-## 2. 보안 계층 (Security Layer)
+---
 
-사용자와 데이터를 보호하기 위해 다음과 같은 보안 조치를 적용합니다.
-
-- **HTTPS:** 모든 통신은 SSL/TLS 암호화를 통해 이루어집니다. (Vercel 자동 적용)
-- **CSP (Content Security Policy):** 스크립트 실행 소스를 제한하여 XSS 공격을 방지합니다. 외부 스크립트 로드 시 허용된 도메인만 승인합니다.
-- **HSTS:** 브라우저가 항상 HTTPS로 접속하도록 강제합니다.
-
-## 3. 데이터 흐름 (Data Flow)
+## 2. 시스템 구조 (System Overview)
 
 ```mermaid
 graph TD
-    MD[Markdown Files] -->|Astro Glob| Build[Build Process]
-    Build -->|SSG| HTML[Static HTML]
-    HTML -->|Deploy| CDN[Vercel Edge Network]
+    User[User / Browser]
+    Edge[Vercel Edge Network]
 
-    User[User] -->|Request| CDN
-    User -->|Search| Index[search.json]
-    User -->|Share| OG[Dynamic OG Image API]
+    subgraph "Build Time (SSG)"
+        Astro[Astro Builder]
+        MD[Markdown Files]
+        Assets[Images / CSS]
+        Astro -->|Compile| HTML[Static HTML]
+        MD -->|Parse| HTML
+    end
+
+    subgraph "Run Time (Client)"
+        Search[Fuse.js Engine]
+        SearchIndex[search.json]
+    end
+
+    User -->|Request| Edge
+    Edge -->|Response| HTML
+    User -->|Interaction| Search
+    Search -->|Load| SearchIndex
 ```
 
-## 4. 디렉토리 구조 및 역할 (Component Hierarchy)
+- **SSG (Static Site Generation):** 모든 페이지는 빌드 타임에 HTML로 생성됩니다. 서버 부하가 없고 보안에 강력합니다.
+- **Client-side Search:** 별도의 검색 서버(Elasticsearch 등) 없이, 빌드 시 생성된 `search.json`을 브라우저가 다운로드하여 검색을 수행합니다.
+- **No Database:** 별도의 DB가 없습니다. 파일 시스템(Markdown)이 곧 DB입니다.
 
-### Layout Layer (`src/layouts/`)
+---
 
-- **`Layout.astro`**: 전역 스타일, 헤더, 푸터, 메타 태그를 관리하는 최상위 래퍼(Wrapper)입니다.
+## 3. 디렉토리 구조 (Directory Structure)
 
-### Page Layer (`src/pages/`)
+```text
+src/
+├── components/       # 재사용 가능한 UI 컴포넌트 (Button, Card 등)
+├── layouts/          # 페이지 레이아웃 (Layout.astro)
+├── pages/            # 파일 기반 라우팅
+│   ├── [lang]/       # 다국어 지원 라우트
+│   │   ├── posts/    # 번역된 블로그 포스트
+│   │   └── ...
+│   ├── api/          # 서버리스/엣지 함수 (OG 이미지 생성 등)
+│   ├── posts/        # 한국어 블로그 포스트 (Source of Truth)
+│   ├── rss.xml.ts    # RSS 피드 생성기
+│   └── search.json.ts # 검색 인덱스 생성기
+└── utils/            # 비즈니스 로직 및 헬퍼 함수
+    ├── dateUtils.ts  # 날짜 처리
+    └── postUtils.ts  # 포스트 필터링/정렬 로직
+```
 
-- **`[...page].astro`**: 한국어 메인 페이지 (Default). 페이지네이션 로직과 카드 리스트 렌더링을 담당합니다.
-- **`posts/*.md`**: 한국어 콘텐츠 데이터 (Source of Truth).
-- **`[lang]/[...page].astro`**: 다국어(9개국) 메인 페이지.
-- **`[lang]/posts/*.md`**: 다국어 콘텐츠 데이터.
-- **`tags/[tag].astro`**: 동적 라우팅을 통해 태그별 아카이브 페이지를 생성합니다.
-- **`api/og.ts`**: 동적 OG 이미지를 생성하는 Edge Function입니다.
+---
 
-## 5. 국제화 및 시간 전략 (i18n & Timezone)
+## 4. 데이터 흐름 (Data Flow)
 
-**Global First** 원칙에 따라 다국어와 타임존을 체계적으로 관리합니다.
+1.  **작성:** 작가가 `src/pages/posts/*.md`에 글을 작성합니다.
+2.  **빌드:** Astro가 마크다운 파일을 파싱하여 메타데이터와 본문을 추출합니다.
+3.  **인덱싱:** `search.json.ts`가 모든 글의 정보를 모아 검색 인덱스 파일(`search.json`)을 생성합니다.
+4.  **렌더링:** `[...page].astro`가 글 목록을 페이지네이션하여 정적 HTML로 만듭니다.
+5.  **배포:** Vercel이 최종 산출물(`dist/`)을 전 세계 CDN에 배포합니다.
 
-### 🌍 i18n (Internationalization)
+---
 
-- **URL 구조:** `/{lang}/` 프리픽스를 사용하여 언어를 구분합니다. (한국어는 `/` 루트 사용)
-- **RSS/Atom:** 언어별 피드를 별도로 생성합니다. (예: `/en/rss.xml`, `/ja/atom.xml`)
-- **지원 언어:** KO, EN, DE, ES, FR, IT, JA, PT, RU, ZH (총 10개국)
+## 5. 핵심 전략 (Key Strategies)
 
-### ⏰ Timezone Strategy
+### 🌍 국제화 (i18n)
 
-- **저장 (Storage):** 모든 시간 데이터는 **UTC (ISO 8601)** 기준으로 저장합니다.
-- **표시 (Display):** `src/utils/dateUtils.ts`를 통해 사용자의 언어(`lang`)에 맞는 **로컬 타임존**으로 변환하여 표시합니다.
-  - `ko` → `Asia/Seoul`
-  - `en` → `America/New_York`
-  - `de` → `Europe/Berlin`
+- **URL 전략:** `domain.com/` (한국어), `domain.com/en/` (영어) 등 하위 경로로 분리합니다.
+- **콘텐츠 동기화:** 한국어 글이 Source of Truth가 되며, 이를 기준으로 번역본을 관리합니다.
 
-## 6. SEO 및 소셜 최적화 (SEO Strategy)
+### 🔍 SEO (Search Engine Optimization)
 
-검색엔진과 소셜 미디어에서의 노출을 극대화합니다.
+- **Sitemap/RSS:** 자동으로 최신 글을 반영하여 검색 엔진에 핑(Ping)을 보냅니다.
+- **Canonical:** 중복 콘텐츠 페널티를 막기 위해 원본 URL을 명시합니다.
+- **Semantic HTML:** `<header>`, `<main>`, `<article>`, `<footer>` 등 의미론적 태그를 사용합니다.
 
-### 🔍 Structured Data (JSON-LD)
+### 🧪 테스트 (Testing)
 
-- **WebSite:** 메인 페이지에 검색창 정보 포함.
-- **Article:** 개별 포스트에 제목, 설명, 작성자, 날짜 정보 포함.
-- **AggregateRating:** 모든 포스트에 기본 평점(4.8) 마크업 적용.
+- **Unit:** 유틸리티 함수의 정확성을 검증합니다. (예: 날짜 포맷팅)
+- **E2E:** 실제 브라우저 환경에서 메인 페이지 로딩, 검색 기능 작동, 링크 이동 등을 점검합니다.
 
-### 🖼️ Dynamic OG Image
+---
 
-- **엔드포인트:** `/api/og?title=...`
-- **기술:** `@vercel/og` (Satori + Resvg)
-- **기능:** 글 제목을 파라미터로 받아 실시간으로 썸네일 이미지를 생성하여 `og:image` 태그에 삽입합니다.
-
-## 7. 테스트 전략 (Testing Strategy)
-
-안정적인 서비스를 위해 2단계 테스트를 수행합니다.
-
-### Unit Test (Vitest)
-
-- **대상:** `src/utils/*.ts` (순수 로직)
-- **내용:** 날짜 변환 함수(`dateUtils`), 언어 감지 로직 등
-- **목표:** **100% Coverage** 달성 및 유지 (Statements, Branches, Functions, Lines)
-- **실행:** `pnpm test` (커버리지 확인: `pnpm test -- --coverage`)
-
-### E2E Test (Playwright)
-
-- **대상:** 실제 브라우저 환경 (CI/GitHub Actions)
-- **주요 시나리오:**
-  1.  **SEO 검증:** JSON-LD, OG Image 태그 존재 여부 및 API 응답 확인.
-  2.  **i18n 네비게이션:** 로고 클릭 시 현재 언어 홈(`/en/`, `/ja/` 등)으로 정확히 이동하는지 검증.
-      - _Note:_ SPA/View Transition 특성상 `page.waitForURL()`을 사용하여 네비게이션 완료를 명시적으로 대기합니다.
-  3.  **Feed 검증:** RSS/Atom 피드 URL 접근 시 200 OK 및 XML 포맷 확인.
-- **실행:** `pnpm test:e2e`
-
-## 8. 데이터 스키마 (Data Schema)
-
-Markdown 파일 상단(Frontmatter)에 정의되는 데이터 구조입니다.
-
-| 필드명        | 타입       | 필수 여부 | 설명                          |
-| :------------ | :--------- | :-------- | :---------------------------- |
-| `title`       | `string`   | ✅ Yes    | 글 제목 (H1)                  |
-| `date`        | `string`   | ✅ Yes    | 발행일 (UTC ISO 8601)         |
-| `updatedDate` | `string`   | ❌ No     | 수정일 (UTC ISO 8601)         |
-| `author`      | `string`   | ✅ Yes    | 작성자 (기본값: Zzabbis)      |
-| `category`    | `string`   | ✅ Yes    | 대분류 (업무 자동화, 개발 등) |
-| `tags`        | `string[]` | ❌ No     | 태그 목록 (검색 및 필터링용)  |
-| `description` | `string`   | ✅ Yes    | SEO용 한 줄 요약              |
-
-## 9. 트러블슈팅 (Troubleshooting)
-
-### Shiki 구문 강조 이슈
-
-- **증상:** `vba` 언어 블록 사용 시 `Language 'vba' is not included` 에러 발생.
-- **해결:** `vba` 언어 지원을 위해 `vb`를 추가하려 했으나 타입 에러가 발생하여, 마크다운 파일 내의 `vba` 태그를 `text`로 일괄 치환하여 해결함. (하이라이팅 미지원)
+이 문서는 프로젝트의 기술적 뼈대입니다.
+구조를 변경할 때는 반드시 이 문서를 함께 업데이트해주세요.

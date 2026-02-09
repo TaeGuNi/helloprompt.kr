@@ -6,12 +6,22 @@ async function runQa() {
   const args = process.argv.slice(2);
   let files: string[] = [];
 
-  // If args provided (e.g., from lint-staged), use them. Otherwise scan all.
+  // Filter files to only include actual posts (exclude about.md, etc.)
+  // We check if the path includes '/posts/' segment.
+  const isPost = (filePath: string) =>
+    filePath.split(path.sep).includes("posts");
+
   if (args.length > 0) {
-    files = args;
+    // If args provided (e.g., from lint-staged), filter them
+    files = args.filter(isPost);
+    if (files.length === 0 && args.length > 0) {
+      console.log("ℹ️ No blog posts to check in this commit. Skipping QA.");
+      process.exit(0);
+    }
   } else {
+    // Scan all posts
     console.log("🔍 Scanning all markdown posts...");
-    files = await glob("src/pages/**/*.md", { ignore: "src/pages/privacy.md" });
+    files = await glob("src/pages/**/posts/*.md");
   }
 
   console.log(`Checking ${files.length} files...`);

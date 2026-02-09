@@ -15,9 +15,9 @@
 1. **패키지 매니저:** 무조건 **`pnpm`**을 사용하라. (`npm install` 금지)
 2. **글 작성:**
    - 위치: `src/pages/posts/`
-   - 템플릿: `docs/POST_TEMPLATE.md` (v3.0) 복사 후 작성
+   - 템플릿: `docs/POST_TEMPLATE.md` (v4.0) 복사 후 작성
    - 문법: 프롬프트는 `> 인용구`, 결과는 ` ```코드블럭 ` 사용
-   - 이미지: `public/images/`에 저장 후 사용
+   - 이미지: `src/assets/images/`에 저장 후 사용
 3. **디자인 수정:**
    - `src/layouts/Layout.astro`: 전역 스타일, 헤더, 푸터, TOC, 공유 버튼 관리
    - `src/pages/[...page].astro`: 메인 페이지 (한국어)
@@ -31,12 +31,14 @@
 - **레이아웃:** `src/layouts/Layout.astro` (CSS, OG Tag, Analytics)
 - **데이터:** `src/pages/search.json.ts`, `src/pages/rss.xml.ts`, `src/pages/atom.xml.ts`
 - **테스트:** `tests/home.spec.ts` (Playwright), `src/utils.test.ts` (Vitest)
+- **QA:** `scripts/qa/` (Audit, Check, Sitemap)
 - **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵)
 
 ## 🛠 자주 쓰는 명령어
 
 - **서버 실행:** `pnpm run dev -- --host`
 - **테스트:** `pnpm test` (Unit), `pnpm test:e2e` (E2E)
+- **품질 검수:** `pnpm qa` (전체 문서 품질 체크)
 - **배포:** `git push` (Vercel 자동 배포)
 
 ## 🤖 Agent Protocols

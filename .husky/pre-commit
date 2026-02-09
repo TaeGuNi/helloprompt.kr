@@ -14,4 +14,13 @@ pnpm lint
 echo "🧪 Running Unit Tests..."
 pnpm test
 
+# 4. Run Build Check (Dry Run)
+echo "🏗️  Running Build Check..."
+pnpm build
+
+# 5. Update Management Docs
+echo "📝 Updating Management Docs..."
+pnpm docs:update
+git add docs/MANAGEMENT.md
+
 echo "✅ All checks passed! Committing..."

@@ -23,7 +23,7 @@ Hello Prompt의 작가(Contributor)가 된 것을 환영합니다.
 1.  **Mining (발굴):** "사람들이 검색하지만, 좋은 답이 없는 질문"을 찾습니다.
 2.  **Engineering (설계):** 문제를 해결하는 최적의 프롬프트를 설계하고 테스트합니다.
 3.  **Drafting (집필):** `POST_TEMPLATE.md`에 맞춰 글을 작성합니다.
-4.  **Auditing (심사):** `QUALITY_MODEL.md` 기준으로 500점 만점 테스트를 수행합니다.
+4.  **Auditing (심사):** `QUALITY_MODEL.md` 기준으로 700점 만점 테스트를 수행합니다.
 5.  **Localization (번역):** 한국어 원본 확정 후, 9개국어로 확장합니다.
 
 ---

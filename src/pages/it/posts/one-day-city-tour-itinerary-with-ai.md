@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli di AI
+
+- **🤖 Modello consigliato:** Tutti i modelli di AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

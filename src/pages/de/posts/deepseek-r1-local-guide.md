@@ -13,13 +13,14 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Produktivität"]
 
 > **🎯 Empfohlen für:** Entwickler, die Angst haben, Firmencode zu leaken, Studenten, die API-Kosten sparen wollen, Offline-Arbeiter
 > **⏱️ Benötigte Zeit:** 10 Min.
-> **🤖 Empfohlenes Modell:** DeepSeek-R1-Distill-Llama-8B (oder 70B)
+
+- **🤖 Empfohlenes Modell:** DeepSeek-R1-Distill-Llama-8B (oder 70B)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |
 |    ⭐⭐☆☆☆    |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Darfst du wegen Sicherheitsrichtlinien keinen Firmencode in ChatGPT einfügen? Hasst es aber, dumme alte Modelle zu benutzen? Sperre jetzt **DeepSeek R1** in deinen Computer und lass es für dich arbeiten. 100% Kostenlos, 100% Privat."_
+- _"Darfst du wegen Sicherheitsrichtlinien keinen Firmencode in ChatGPT einfügen? Hasst es aber, dumme alte Modelle zu benutzen? Sperre jetzt **DeepSeek R1** in deinen Computer und lass es für dich arbeiten. 100% Kostenlos, 100% Privat."_
 
 Im Jahr 2026 ist das heißeste Stichwort unter Entwicklern zweifellos **"Local LLM"**. Unter ihnen zeigt **DeepSeek R1** eine wahnsinnige Leistung (besonders bei Coding-Skills), oft als "Der Fehler von Open Source" bezeichnet. Diese Anleitung zeigt dir den einfachsten und schnellsten Weg, DeepSeek auf deinem Mac (oder Windows PC) zu installieren.
 

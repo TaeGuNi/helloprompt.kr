@@ -11,9 +11,9 @@ tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 
 # 📝 How to Raise a Child Lying Down at the Mart in 1 Minute
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

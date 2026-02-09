@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Empfohlen für:** Neulinge, die einen großen Fehler gemacht haben, CS-Agenten, die vor Beschwerden schwitzen, Freelancer im Verzug
 > **⏱️ Benötigte Zeit:** 1 Min (Sichere die goldene Zeit)
-> **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (Bester Ton & Stil)
+
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (Bester Ton & Stil)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

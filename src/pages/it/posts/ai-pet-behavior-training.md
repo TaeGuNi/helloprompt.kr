@@ -13,7 +13,8 @@ tags: ["Animali", "Addestramento Cani", "Gatti", "Genitori di Animali"]
 
 > **🎯 Ideale per:** Nuovi proprietari, Chi riceve lamentele per il rumore, Attenti al budget
 > **⏱️ Tempo risparmiato:** 15 min (osservare) → 1 min (diagnosticare)
-> **🤖 Modello consigliato:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Difficoltà | Efficacia  | Versatilità |
 | :--------: | :--------: | :---------: |

@@ -12,8 +12,9 @@ tags: ["Blog", "SEO", "Google Exposure"]
 # 📝 SEO Blog Outline for Top Search Rankings
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -59,8 +60,8 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 1. Analyze the reader's Search Intent and define what questions this post needs to resolve.
 > 2. Create an SEO-optimized post Outline including H1, H2, H3 tag structures.
 > 3. Recommend 5 Title candidates that are likely to have a high Click-Through Rate (CTR).
->
-> **Target Keyword:** `iPad Drawing App Recommendations`
+
+- **Target Keyword:** `iPad Drawing App Recommendations`
 
 ---
 

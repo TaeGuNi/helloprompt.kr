@@ -13,7 +13,8 @@ tags: ["SQL", "Tuning DB", "Ottimizzazione Query", "Database"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -64,17 +65,16 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 3. **Raccomandazione Indice:** Suggerisci quali colonne indicizzare con la sintassi `CREATE INDEX` per massimizzare le prestazioni della query.
 >
 > **DB Usato:** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
->
-> **Query Target:**
->
-> ```sql
-> [Incolla qui la query lenta]
-> ```
->
-> **Vincoli:**
->
-> - Il dataset risultante della query esistente non deve mai cambiare.
-> - Spiega brevemente il principio di esecuzione del perché è diventato più veloce.
+
+- **Query Target:**
+  > ```sql
+  > [Incolla qui la query lenta]
+  > ```
+  >
+  > **Vincoli:**
+  >
+  > - Il dataset risultante della query esistente non deve mai cambiare.
+  > - Spiega brevemente il principio di esecuzione del perché è diventato più veloce.
 
 ---
 

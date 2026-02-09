@@ -12,8 +12,9 @@ tags: ["Translation", "Email", "BusinessEnglish", "ChatGPT", "DeepL"]
 # 🇺🇸 Translation Beyond Translator: Fixing 'Nuance'
 
 > **🎯 Recommended for:** Traders sweating over emails, PMs working with global devs
-> **⏱️ Time Required:** 30 seconds
-> **🤖 Recommended Model:** DeepL (Draft) + ChatGPT-4o (Nuance Polish)
+
+- **⏱️ Time Required:** 30 seconds
+- **🤖 Recommended Model:** DeepL (Draft) + ChatGPT-4o (Nuance Polish)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

@@ -12,8 +12,9 @@ tags: ["SkillGapAnalysis", "ResumeDiagnosis", "CareerStrategy", "JDAnalysis"]
 # 📝 Comparing My Resume and JD: 'Skill Gap' Diagnosis Prompt
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,26 +52,23 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and use it.
 
 > **Role:** You are a cool-headed career coach and recruitment consultant.
->
-> **Context:** I want to apply for **Target JD** below, want to know pass probability with my **Current Resume**, and what is lacking.
->
-> **Input Material:**
->
-> 1. **Target JD:**
->    [Paste entire job description here]
-> 2. **Current Resume:**
->    [Paste my resume content here]
->
-> **Task:**
->
-> 1. **Matching Analysis:** Organize what I satisfy (Match) and what I lack (Gap) among JD requirements in table.
-> 2. **Weakness Supplementation Strategy:** Advise how to reinterpret my existing experience to connect regarding lacking parts (Gap), or how to say I will supplement in short term.
-> 3. **Pass Probability:** Evaluate coolly out of 100 points and tell the reason.
->
-> **Constraints:**
->
-> - Give fact violence (cool analysis) rather than nice comfort.
-> - Suggest specific action items.
+
+- **Context:** I want to apply for **Target JD** below, want to know pass probability with my **Current Resume**, and what is lacking.
+  > **Input Material:**
+- 1. **Target JD:**
+     > [Paste entire job description here] 2. **Current Resume:**
+     > [Paste my resume content here]
+     >
+     > **Task:**
+     >
+     > 1. **Matching Analysis:** Organize what I satisfy (Match) and what I lack (Gap) among JD requirements in table.
+     > 2. **Weakness Supplementation Strategy:** Advise how to reinterpret my existing experience to connect regarding lacking parts (Gap), or how to say I will supplement in short term.
+     > 3. **Pass Probability:** Evaluate coolly out of 100 points and tell the reason.
+     >
+     > **Constraints:**
+     >
+     > - Give fact violence (cool analysis) rather than nice comfort.
+     > - Suggest specific action items.
 
 ---
 

@@ -11,9 +11,9 @@ tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 
 # 📝 YouTube War Over! 'Media Usage Contract' with Child
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["Pets", "Dog Training", "Cats", "Pet Parenting"]
 # 🐶 "No Bad Dogs, Only Bad Prompts"
 
 > **🎯 Best For:** New pet parents, Those getting noise complaints, Budget-conscious owners
-> **⏱️ Time Saved:** 15 mins (observe) → 1 min (diagnose)
-> **🤖 Recommended Model:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+
+- **⏱️ Time Saved:** 15 mins (observe) → 1 min (diagnose)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Difficulty | Effectiveness | Versatility |
 | :--------: | :-----------: | :---------: |

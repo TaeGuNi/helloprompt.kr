@@ -13,7 +13,8 @@ tags: ["Verbale", "Whisper", "ChatGPT", "Automazione", "Produttività"]
 
 > **🎯 Consigliato per:** Junior a cui fanno male i polsi a forza di scrivere, Manager che chiedono "Cosa abbiamo deciso?"
 > **⏱️ Tempo Richiesto:** 3 min (escluso tempo di registrazione)
-> **🤖 Modello Consigliato:** OpenAI Whisper (Trascrizione) + ChatGPT-4o (Riassunto)
+
+- **🤖 Modello Consigliato:** OpenAI Whisper (Trascrizione) + ChatGPT-4o (Riassunto)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

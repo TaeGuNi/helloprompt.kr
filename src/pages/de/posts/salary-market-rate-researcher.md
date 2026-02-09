@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Empfohlen für:** Büroangestellte
 > **⏱️ Zeitaufwand:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Web-Suche Aktivierte Modelle (ChatGPT Plus, Perplexity)
+
+- **🤖 Empfohlenes Modell:** Web-Suche Aktivierte Modelle (ChatGPT Plus, Perplexity)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

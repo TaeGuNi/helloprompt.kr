@@ -12,8 +12,9 @@ tags: ["SalaryRaiseEmail", "NegotiationEmail", "BusinessEmail", "MoneyTalk"]
 # 📝 Difficult Money Talk, Polite yet Firm 'Salary Raise Request Email' Writer
 
 > **🎯 Recommended for:** Office Workers
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

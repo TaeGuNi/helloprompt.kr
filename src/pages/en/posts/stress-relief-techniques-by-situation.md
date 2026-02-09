@@ -12,8 +12,9 @@ tags: ["Stress", "Burnout", "Mental Management", "Healing", "ChatGPT"]
 # 🤯 Before You Explode! Stress Relief Methods by Situation Suggested by AI
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

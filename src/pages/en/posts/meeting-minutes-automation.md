@@ -12,8 +12,9 @@ tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 # 📝 Escape Meeting Hell: Recording to Minutes & Email in 3 Mins
 
 > **🎯 Recommended for:** Juniors whose wrists hurt from typing, Managers asking "What did we decide?"
-> **⏱️ Time Required:** 3 mins (excluding recording time)
-> **🤖 Recommended Model:** OpenAI Whisper (Transcription) + ChatGPT-4o (Summarization)
+
+- **⏱️ Time Required:** 3 mins (excluding recording time)
+- **🤖 Recommended Model:** OpenAI Whisper (Transcription) + ChatGPT-4o (Summarization)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |

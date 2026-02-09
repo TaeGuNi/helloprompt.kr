@@ -12,8 +12,9 @@ tags: ["Writing", "Habit", "Challenge", "SelfDevelopment"]
 # 📝 Daily Writing Challenge: Auto-Generate 30-Day Writing Topic Calendar
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,17 +59,17 @@ Copy the **PROMPT** content below and use it.
 >
 > - **My Interests:** `[e.g.: Travel, Startup, Psychology, Cooking]`
 > - **Writing Purpose:** `[e.g.: To organize my thoughts and share insights]`
-> - **Target Reader:** `[e.g.: Office workers in 30s]`
->
-> **Task:**
->
-> 1. Make **30-day topics** in Table format. (Date | Topic | Guide Question)
-> 2. Arrange easy light topics in early stage (1~5 days), and deep topics towards end.
-> 3. Put 'Resting text' or 'Retrospect' topic once a week (7th, 14th...).
->
-> **Constraints:**
->
-> - Question must be specific. (Bad: "Write about travel" / Good: "What is the oldest item on your desk now and feeling then?")
+
+- - **Target Reader:** `[e.g.: Office workers in 30s]`
+    > **Task:**
+    >
+    > 1. Make **30-day topics** in Table format. (Date | Topic | Guide Question)
+    > 2. Arrange easy light topics in early stage (1~5 days), and deep topics towards end.
+    > 3. Put 'Resting text' or 'Retrospect' topic once a week (7th, 14th...).
+    >
+    > **Constraints:**
+    >
+    > - Question must be specific. (Bad: "Write about travel" / Good: "What is the oldest item on your desk now and feeling then?")
 
 ---
 

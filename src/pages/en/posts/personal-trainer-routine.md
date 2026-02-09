@@ -12,8 +12,9 @@ tags: ["Exercise", "Diet", "Fitness", "Home Training"]
 # 📝 Use Secretly from PT Teacher, AI Personal Trainer
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -65,7 +66,8 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > - Height/Weight: 175cm / 80kg
 > - Goal: Lose 5kg weight and increase muscle mass
 > - Experience: Almost none (First time at gym)
-> - Available Time: 4 times a week, 1 hour per session
+
+- - Available Time: 4 times a week, 1 hour per session
 
 ---
 

@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -52,26 +53,23 @@ Usala quando hai bisogno di qualità dettagliata.
 Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 > **Ruolo:** Sei un coach carriera e consulente reclutamento a testa fredda.
->
-> **Contesto:** Voglio candidarmi per **JD Target** sotto, voglio sapere probabilità superamento con mio **Curriculum Attuale**, e cosa manca.
->
-> **Materiale Input:**
->
-> 1. **JD Target:**
->    [Incolla intera descrizione lavoro qui]
-> 2. **Curriculum Attuale:**
->    [Incolla contenuto mio curriculum qui]
->
-> **Compito:**
->
-> 1. **Analisi Corrispondenza:** Organizza cosa soddisfo (Match) e cosa manco (Gap) tra requisiti JD in tabella.
-> 2. **Strategia Supplementazione Debolezza:** Consiglia come reinterpretare mia esperienza esistente per collegare riguardo parti mancanti (Gap), o come dire che supplementerò a breve termine.
-> 3. **Probabilità Superamento:** Valuta freddamente su 100 punti e dì il motivo.
->
-> **Vincoli:**
->
-> - Dai violenza fatti (analisi fredda) piuttosto che bel conforto.
-> - Suggerisci elementi azione specifici.
+
+- **Contesto:** Voglio candidarmi per **JD Target** sotto, voglio sapere probabilità superamento con mio **Curriculum Attuale**, e cosa manca.
+  > **Materiale Input:**
+- 1. **JD Target:**
+     > [Incolla intera descrizione lavoro qui] 2. **Curriculum Attuale:**
+     > [Incolla contenuto mio curriculum qui]
+     >
+     > **Compito:**
+     >
+     > 1. **Analisi Corrispondenza:** Organizza cosa soddisfo (Match) e cosa manco (Gap) tra requisiti JD in tabella.
+     > 2. **Strategia Supplementazione Debolezza:** Consiglia come reinterpretare mia esperienza esistente per collegare riguardo parti mancanti (Gap), o come dire che supplementerò a breve termine.
+     > 3. **Probabilità Superamento:** Valuta freddamente su 100 punti e dì il motivo.
+     >
+     > **Vincoli:**
+     >
+     > - Dai violenza fatti (analisi fredda) piuttosto che bel conforto.
+     > - Suggerisci elementi azione specifici.
 
 ---
 

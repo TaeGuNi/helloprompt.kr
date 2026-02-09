@@ -13,7 +13,8 @@ tags: ["Marketing", "Nominare", "Branding", "Copywriting"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -57,17 +58,18 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > **Compito:**
 >
 > 1. Descrizione Prodotto: `[Funzioni principali e caratteristiche del prodotto]`
-> 2. Pubblico Target: `[Base clienti target principale]`
-> 3. Tono e Modo del Brand: `[Atmosfera desiderata (es., lussuoso, amichevole, alla moda)]`
-> 4. Basandoti sulle informazioni sopra, suggerisci 10 idee di nomi di prodotti.
-> 5. Per ogni nome, spiega il 'motivo del suggerimento' e l' 'immagine evocata'.
-> 6. Componi nomi in modo vario usando inglese, parole composte, ecc.
->
-> **Vincoli:**
->
-> - Escludi nomi troppo lunghi o difficili da pronunciare.
-> - Evita nomi simili a marchi già famosi.
-> - Formato di output come Tabella Markdown (Colonne: Naming, Stile, Motivo del Suggerimento, Immagine Evocata).
+
+- 2. Pubblico Target: `[Base clienti target principale]`
+     > 3. Tono e Modo del Brand: `[Atmosfera desiderata (es., lussuoso, amichevole, alla moda)]`
+     > 4. Basandoti sulle informazioni sopra, suggerisci 10 idee di nomi di prodotti.
+     > 5. Per ogni nome, spiega il 'motivo del suggerimento' e l' 'immagine evocata'.
+     > 6. Componi nomi in modo vario usando inglese, parole composte, ecc.
+     >
+     > **Vincoli:**
+     >
+     > - Escludi nomi troppo lunghi o difficili da pronunciare.
+     > - Evita nomi simili a marchi già famosi.
+     > - Formato di output come Tabella Markdown (Colonne: Naming, Stile, Motivo del Suggerimento, Immagine Evocata).
 
 ---
 

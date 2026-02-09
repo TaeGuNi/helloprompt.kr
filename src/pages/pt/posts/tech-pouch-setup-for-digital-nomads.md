@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |
@@ -52,20 +53,19 @@ Use isto quando precisar de qualidade detalhada.
 Copie o conteúdo do **PROMPT** abaixo.
 
 > **Papel (Role):** Você é um 'Desenvolvedor Full Stack e YouTuber de Tecnologia' que programa enquanto viaja pelo mundo.
->
-> **Contexto (Context):** Vou fazer uma workation para `[Destino]` por `[Duração]`. Meu trabalho principal é `[Tipo de Trabalho: Programação/Design/Documentação]`. O dispositivo que uso é `[Modelo: MacBook Pro/iPad, etc.]`.
->
-> **Tarefa (Task):**
->
-> 1.  Recomende uma combinação leve e poderosa de 'carregador multi-portas' e cabo que possa carregar vários dispositivos de uma vez.
-> 2.  Diga-me como criar um efeito de monitor duplo em um café ou acomodação (usando um tablet, etc.).
-> 3.  Verifique as informações de voltagem (adaptador de tomada) do país e se uma régua de energia é necessária.
->
-> **Restrições (Constraints):**
->
-> - Componha de forma a minimizar o peso total.
-> - Inclua dicas de tethering (eSIM/USIM) para quando a internet cair.
-> - Recomende com base em especificações (ex: carregamento PD acima de 65W) em vez de marcas específicas.
+
+- **Contexto (Context):** Vou fazer uma workation para `[Destino]` por `[Duração]`. Meu trabalho principal é `[Tipo de Trabalho: Programação/Design/Documentação]`. O dispositivo que uso é `[Modelo: MacBook Pro/iPad, etc.]`.
+  > **Tarefa (Task):**
+  >
+  > 1.  Recomende uma combinação leve e poderosa de 'carregador multi-portas' e cabo que possa carregar vários dispositivos de uma vez.
+  > 2.  Diga-me como criar um efeito de monitor duplo em um café ou acomodação (usando um tablet, etc.).
+  > 3.  Verifique as informações de voltagem (adaptador de tomada) do país e se uma régua de energia é necessária.
+  >
+  > **Restrições (Constraints):**
+  >
+  > - Componha de forma a minimizar o peso total.
+  > - Inclua dicas de tethering (eSIM/USIM) para quando a internet cair.
+  > - Recomende com base em especificações (ex: carregamento PD acima de 65W) em vez de marcas específicas.
 
 ---
 

@@ -12,8 +12,9 @@ tags: ["Salary", "Negotiation", "Interview", "Roleplay", "CareerGrowth"]
 # 🥊 Salary Negotiation Simulator: Sparring with an Evil HR
 
 > **🎯 Recommended for:** Pushovers who say "I'll take whatever" and regret later, Job seekers
-> **⏱️ Time Required:** 10 mins (Mock Battle)
-> **🤖 Recommended Model:** ChatGPT-4o (Voice Mode Highly Recommended)
+
+- **⏱️ Time Required:** 10 mins (Mock Battle)
+- **🤖 Recommended Model:** ChatGPT-4o (Voice Mode Highly Recommended)
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

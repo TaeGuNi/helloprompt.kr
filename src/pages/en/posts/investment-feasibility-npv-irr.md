@@ -12,8 +12,9 @@ tags: ["Excel", "InvestmentAnalysis", "NPV", "IRR"]
 # 📝 Investment Feasibility Analysis: NPV & IRR Auto-Calculation Excel
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -39,8 +40,8 @@ You shouldn't just look at the profit amount. Because the value of money changes
 
 Use this when you just need a quick result.
 
-> **Role:** You are a `[Financial Modeling Expert]`.
-> **Request:** Should I do this business? Easily calculate Net Present Value (NPV) and Internal Rate of Return (IRR), key indicators of investment decision, with Excel.
+- **Role:** You are a `[Financial Modeling Expert]`.
+  > **Request:** Should I do this business? Easily calculate Net Present Value (NPV) and Internal Rate of Return (IRR), key indicators of investment decision, with Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ Use this when you need detailed quality.
 
 Copy the **PROMPT** content below and use it.
 
-> **Role:** You are a `[Financial Modeling Expert]`.
->
-> **Context:** I want to analyze investment feasibility of a new project with Excel.
->
-> - **Initial Investment (Year 0):** -100 Million KRW (Cell B2)
-> - **Expected Revenue (Year 1~5):** 30 Million KRW annually (Cells B3~B7)
-> - **Discount Rate (Required Return):** 10% (Cell C2)
->
-> **Task:**
->
-> 1. Tell me **Excel formula to find NPV (Net Present Value)** of this project.
-> 2. Tell me **Excel formula to find IRR (Internal Rate of Return)**.
-> 3. Explain judgment criteria on whether to invest or not when calculation results are **NPV > 0** or **IRR > Discount Rate**.
->
-> **Constraints:**
->
-> - Write formula noting that Excel's `NPV` function should be input from Year 1. (Process initial investment separately)
+- **Role:** You are a `[Financial Modeling Expert]`.
+  > **Context:** I want to analyze investment feasibility of a new project with Excel.
+  >
+  > - **Initial Investment (Year 0):** -100 Million KRW (Cell B2)
+  > - **Expected Revenue (Year 1~5):** 30 Million KRW annually (Cells B3~B7)
+  > - **Discount Rate (Required Return):** 10% (Cell C2)
+  >
+  > **Task:**
+  >
+  > 1. Tell me **Excel formula to find NPV (Net Present Value)** of this project.
+  > 2. Tell me **Excel formula to find IRR (Internal Rate of Return)**.
+  > 3. Explain judgment criteria on whether to invest or not when calculation results are **NPV > 0** or **IRR > Discount Rate**.
+  >
+  > **Constraints:**
+  >
+  > - Write formula noting that Excel's `NPV` function should be input from Year 1. (Process initial investment separately)
 
 ---
 

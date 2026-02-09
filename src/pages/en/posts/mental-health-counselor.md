@@ -12,8 +12,9 @@ tags: ["Mental Care", "Stress", "Psychological Counseling", "Healing"]
 # 📝 My Own AI Psychological Counselor, Stress Relief Mental Care Guide
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

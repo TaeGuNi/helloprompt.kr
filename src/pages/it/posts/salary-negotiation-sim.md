@@ -13,7 +13,8 @@ tags: ["Stipendio", "Negoziazione", "Colloquio", "GiocoDiRuolo", "Carriera"]
 
 > **🎯 Consigliato per:** Deboli di cuore che dicono "Prendo qualsiasi cosa" e si pentono dopo, Chi cerca lavoro
 > **⏱️ Tempo Richiesto:** 10 min (Battaglia Simulata)
-> **🤖 Modello Consigliato:** ChatGPT-4o (Modalità Vocale Altamente Consigliata)
+
+- **🤖 Modello Consigliato:** ChatGPT-4o (Modalità Vocale Altamente Consigliata)
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

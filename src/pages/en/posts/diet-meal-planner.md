@@ -12,8 +12,9 @@ tags: ["Diet", "Diet Management", "Fitness", "Health"]
 # 📝 Creating AI Custom Diet Meal Plan Without a PT Teacher
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,22 +52,21 @@ Use this when you need detailed quality.
 Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 
 > **Role:** You are a Sports Nutrition Expert with 15 years of experience and a Professional Diet Consultant.
->
-> **Context:** I am an office worker who is `[Height 175cm, Weight 80kg, Target Weight 70kg]`. My activity level is about `[Light exercise twice a week]`, and my allergies or disliked foods are `[Cucumber, Nuts]`.
->
-> **Task:**
->
-> 1. Calculate the daily recommended calories considering my basal metabolic rate and active metabolic rate.
-> 2. Create a one-week (7 days) diet meal plan considering carbohydrate, protein, and fat ratios (CPF).
-> 3. Since I am an office worker, I might have to eat regular meals (half portion) for lunch, so compose it realistically.
-> 4. Display approximate calories for each meal.
-> 5. Finally, organize a 'Weekly Grocery List' to purchase diet ingredients.
->
-> **Constraints:**
->
-> - Exclude menus that are too complex to cook.
-> - Output the meal plan as a readable Markdown Table.
-> - Recommend a sustainable diet rather than excessive fasting.
+
+- **Context:** I am an office worker who is `[Height 175cm, Weight 80kg, Target Weight 70kg]`. My activity level is about `[Light exercise twice a week]`, and my allergies or disliked foods are `[Cucumber, Nuts]`.
+  > **Task:**
+  >
+  > 1. Calculate the daily recommended calories considering my basal metabolic rate and active metabolic rate.
+  > 2. Create a one-week (7 days) diet meal plan considering carbohydrate, protein, and fat ratios (CPF).
+  > 3. Since I am an office worker, I might have to eat regular meals (half portion) for lunch, so compose it realistically.
+  > 4. Display approximate calories for each meal.
+  > 5. Finally, organize a 'Weekly Grocery List' to purchase diet ingredients.
+  >
+  > **Constraints:**
+  >
+  > - Exclude menus that are too complex to cook.
+  > - Output the meal plan as a readable Markdown Table.
+  > - Recommend a sustainable diet rather than excessive fasting.
 
 ---
 

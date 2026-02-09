@@ -13,7 +13,8 @@ tags: ["Tradução", "Email", "InglêsNegócios", "ChatGPT", "DeepL"]
 
 > **🎯 Recomendado para:** Comerciantes suando em e-mails, PMs trabalhando com devs globais
 > **⏱️ Tempo Necessário:** 30 segundos
-> **🤖 Modelo Recomendado:** DeepL (Rascunho) + ChatGPT-4o (Polimento de Nuance)
+
+- **🤖 Modelo Recomendado:** DeepL (Rascunho) + ChatGPT-4o (Polimento de Nuance)
 
 | Dificuldade | Efetividade | Utilidade  |
 | :---------: | :---------: | :--------: |

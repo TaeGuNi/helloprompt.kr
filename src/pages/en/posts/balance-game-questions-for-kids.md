@@ -12,8 +12,9 @@ tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 # 📝 Exploding Chat with Elementary Kids! 'Balance Game' Question Vending Machine
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["Architecture", "Design", "Design Pattern", "System Design", "MSA"]
 # 📝 Stop Spaghetti Code! Architecture Recommendation Perfect for My Project
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["History Travel", "Humanities", "Landmark", "Knowledge Travel"]
 # 📝 Landmark History Crash Course Finished in 3 Minutes!
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

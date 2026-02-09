@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |
@@ -63,12 +64,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 > **Tarefa:**
 >
 > 1. **10 Perguntas Centrais:** Escolha 10 perguntas técnicas que devem ser feitas nesta carreira e conjunto de habilidades. (Princípio Básico 3 + Aplicação Prática 4 + Solução de Problemas 3)
-> 2. **Palavras-chave de Resposta Modelo:** Diga 3 Palavras-chave centrais cada para incluir ao responder cada pergunta.
-> 3. **Pergunta de Cauda Avançada:** Escreva uma pergunta de mergulho profundo que pode vir quando respondida pergunta 1.
->
-> **Restrições:**
->
-> - Pergunte de maneira **Baseada em Cenário** perguntando experiência na prática em vez de definição de livro didático.
+
+- 2. **Palavras-chave de Resposta Modelo:** Diga 3 Palavras-chave centrais cada para incluir ao responder cada pergunta.
+     > 3. **Pergunta de Cauda Avançada:** Escreva uma pergunta de mergulho profundo que pode vir quando respondida pergunta 1.
+     >
+     > **Restrições:**
+     >
+     > - Pergunte de maneira **Baseada em Cenário** perguntando experiência na prática em vez de definição de livro didático.
 
 ---
 

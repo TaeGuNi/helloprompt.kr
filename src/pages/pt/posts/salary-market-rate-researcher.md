@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Recomendado para:** Trabalhadores de Escritório
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Modelos Habilitados para Pesquisa Web (ChatGPT Plus, Perplexity)
+
+- **🤖 Modelo recomendado:** Modelos Habilitados para Pesquisa Web (ChatGPT Plus, Perplexity)
 
 | Dificuldade |  Eficácia  | Utilidade  |
 | :---------: | :--------: | :--------: |

@@ -12,8 +12,9 @@ tags: ["Travel", "Schedule", "Planner", "Overseas Travel"]
 # 📝 AI Hyper-Personalized Travel Itinerary Planner More Meticulous than J
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -68,7 +69,8 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Constraints:**
 >
 > - Do not visit more than 3 places a day excessively.
-> - Output the schedule as a Markdown Table with columns 'Time - Place - Activity - Travel Tip'.
+
+- - Output the schedule as a Markdown Table with columns 'Time - Place - Activity - Travel Tip'.
 
 ---
 

@@ -18,9 +18,9 @@ tags:
 
 # 📝 Il vocabolario sale alle stelle! 'Battaglia Quiz Lettera Iniziale' con IA
 
-> **🎯 Pubblico Target:** Tutti
-> **⏱️ Tempo Richiesto:** 5 minuti
-> **🤖 Modello Consigliato:** Tutti i modelli AI
+- **🎯 Pubblico Target:** Tutti
+  > **⏱️ Tempo Richiesto:** 5 minuti
+- **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

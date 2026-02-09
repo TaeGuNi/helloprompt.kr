@@ -13,7 +13,8 @@ tags: ["Notion", "NotionAI", "Aufgabenmanagement", "Produktivität", "GTD"]
 
 > **🎯 Empfohlen für:** Leute, die bei zu vielen Aufgaben abschalten, Leute, deren Pläne nur auf dem Papier hübsch sind
 > **⏱️ Benötigte Zeit:** 1 Min
-> **🤖 Empfohlenes Modell:** Notion AI (Bezahlt aber mächtig) oder ChatGPT (Copy-Paste)
+
+- **🤖 Empfohlenes Modell:** Notion AI (Bezahlt aber mächtig) oder ChatGPT (Copy-Paste)
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |

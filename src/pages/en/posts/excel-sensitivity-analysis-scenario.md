@@ -12,8 +12,9 @@ tags: ["Excel", "SensitivityAnalysis", "Scenario", "DataTable"]
 # 📝 Excel Sensitivity Analysis: Perfect Prep for "What If" Scenarios
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -39,8 +40,8 @@ Most important thing when planning business is variable. **'Sensitivity Analysis
 
 Use this when you just need a quick result.
 
-> **Role:** You are a `[Financial Modeling Expert]` in strategic planning office.
-> **Request:** How much profit decreases if exchange rate rises 10%? Calculating dozens of cases at once with Excel Data Table function.
+- **Role:** You are a `[Financial Modeling Expert]` in strategic planning office.
+  > **Request:** How much profit decreases if exchange rate rises 10%? Calculating dozens of cases at once with Excel Data Table function.
 
 <br>
 
@@ -50,23 +51,22 @@ Use this when you need detailed quality.
 
 Copy the **PROMPT** content below and use it.
 
-> **Role:** You are a `[Financial Modeling Expert]` in strategic planning office.
->
-> **Context:** I want to do **Sensitivity Analysis** in Excel.
->
-> - **Goal:** Observe 'Operating Profit' change
-> - **Variable 1 (Row):** Exchange Rate (1,200 KRW ~ 1,400 KRW, 50 KRW unit)
-> - **Variable 2 (Column):** Sales Volume (10k ~ 50k, 10k unit)
->
-> **Task:**
->
-> 1. Tell me step by step order to use Excel's **'Data Table'** function.
-> 2. Explain clearly where to link Row Input Cell and Column Input Cell not to be confused.
-> 3. Give tip to derive insight like "Hedging is needed as profit plummets if exchange rate rises" seeing completed table.
->
-> **Constraints:**
->
-> - Specify menu path (Data tab > What-If Analysis > Data Table).
+- **Role:** You are a `[Financial Modeling Expert]` in strategic planning office.
+  > **Context:** I want to do **Sensitivity Analysis** in Excel.
+  >
+  > - **Goal:** Observe 'Operating Profit' change
+  > - **Variable 1 (Row):** Exchange Rate (1,200 KRW ~ 1,400 KRW, 50 KRW unit)
+  > - **Variable 2 (Column):** Sales Volume (10k ~ 50k, 10k unit)
+  >
+  > **Task:**
+  >
+  > 1. Tell me step by step order to use Excel's **'Data Table'** function.
+  > 2. Explain clearly where to link Row Input Cell and Column Input Cell not to be confused.
+  > 3. Give tip to derive insight like "Hedging is needed as profit plummets if exchange rate rises" seeing completed table.
+  >
+  > **Constraints:**
+  >
+  > - Specify menu path (Data tab > What-If Analysis > Data Table).
 
 ---
 

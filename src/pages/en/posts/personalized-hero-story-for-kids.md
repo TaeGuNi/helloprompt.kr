@@ -11,9 +11,9 @@ tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 
 # 📝 Self-Esteem Boost! 'Super Hero' Fairy Tale Where My Child is the Protagonist
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

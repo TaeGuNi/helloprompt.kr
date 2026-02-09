@@ -12,8 +12,9 @@ tags: ["Debugging", "ErrorFixing", "Developer", "Productivity"]
 # 📝 Bug Hunter: Debugging Prompt to Catch Errors in 1 Minute
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

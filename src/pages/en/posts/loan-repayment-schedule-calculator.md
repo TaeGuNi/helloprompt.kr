@@ -12,8 +12,9 @@ tags: ["Excel", "LoanInterest", "FinancialFunction", "PMT"]
 # 📝 Loan Repayment Schedule: Equal Principal and Interest vs Equal Principal
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

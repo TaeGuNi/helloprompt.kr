@@ -12,8 +12,9 @@ tags: ["Art Museum", "Gallery", "Art Appreciation", "Finding Taste"]
 # 📝 Art Gallery/Gallery Viewing Guide for Beginners to Enjoy Elegantly
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

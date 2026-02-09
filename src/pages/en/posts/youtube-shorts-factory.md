@@ -12,8 +12,9 @@ tags: ["YouTube", "Shorts", "ScriptWriting", "Creator", "TikTok"]
 # 🎬 YouTube Shorts Factory: Script + Visuals in 30 Seconds
 
 > **🎯 Recommended for:** YouTubers running out of ideas for daily uploads, Side-hustlers growing Shorts channels
-> **⏱️ Time Required:** 30 seconds
-> **🤖 Recommended Model:** ChatGPT-4o (Fast & Witty)
+
+- **⏱️ Time Required:** 30 seconds
+- **🤖 Recommended Model:** ChatGPT-4o (Fast & Witty)
 
 | Difficulty | Effectiveness |  Utility   |
 | :--------: | :-----------: | :--------: |
@@ -61,10 +62,11 @@ A perfect script ready to read on camera.
 > 3.  **CTA (51~59s):** Call to Subscribe or Comment.
 >
 > **Output Format:** Table.
-> | Time | Visual | Audio/Script |
-> | :--- | :--- | :--- |
->
-> **Tone:** Casual, High Tension, like talking to a friend.
+
+- | Time | Visual | Audio/Script |
+  > | :--- | :--- | :--- |
+  >
+  > **Tone:** Casual, High Tension, like talking to a friend.
 
 ---
 

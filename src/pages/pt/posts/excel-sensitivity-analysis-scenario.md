@@ -13,7 +13,8 @@ tags: ["Excel", "AnáliseSensibilidade", "Cenário", "TabelaDados"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tempo necessário:** 5 minutos
-> **🤖 Modelo recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |
@@ -39,8 +40,8 @@ Coisa mais importante ao planejar negócio é variável. Tabela de **'Análise d
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Modelagem Financeira]` em escritório de planejamento estratégico.
-> **Solicitação:** Quanto lucro diminui se taxa de câmbio subir 10%? Calculando dezenas de casos de uma vez com função Tabela de Dados do Excel.
+- **Papel:** Você é um `[Especialista em Modelagem Financeira]` em escritório de planejamento estratégico.
+  > **Solicitação:** Quanto lucro diminui se taxa de câmbio subir 10%? Calculando dezenas de casos de uma vez com função Tabela de Dados do Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ Use isso quando precisar de qualidade detalhada.
 
 Copie o conteúdo do **PROMPT** abaixo e use-o.
 
-> **Papel:** Você é um `[Especialista em Modelagem Financeira]` em escritório de planejamento estratégico.
->
-> **Contexto:** Quero fazer **Análise de Sensibilidade** no Excel.
->
-> - **Meta:** Observar mudança de 'Lucro Operacional'
-> - **Variável 1 (Linha):** Taxa de Câmbio (1.200 KRW ~ 1.400 KRW, unidade 50 KRW)
-> - **Variável 2 (Coluna):** Volume de Vendas (10k ~ 50k, unidade 10k)
->
-> **Tarefa:**
->
-> 1. Diga-me ordem passo a passo para usar função **'Tabela de Dados'** do Excel.
-> 2. Explique claramente onde vincular Célula de Entrada de Linha e Célula de Entrada de Coluna para não confundir.
-> 3. Dê dica para derivar insight como "Hedge é necessário pois lucro despenca se taxa de câmbio subir" vendo tabela completada.
->
-> **Restrições:**
->
-> - Especifique caminho do menu (Aba Dados > Teste de Hipóteses > Tabela de Dados).
+- **Papel:** Você é um `[Especialista em Modelagem Financeira]` em escritório de planejamento estratégico.
+  > **Contexto:** Quero fazer **Análise de Sensibilidade** no Excel.
+  >
+  > - **Meta:** Observar mudança de 'Lucro Operacional'
+  > - **Variável 1 (Linha):** Taxa de Câmbio (1.200 KRW ~ 1.400 KRW, unidade 50 KRW)
+  > - **Variável 2 (Coluna):** Volume de Vendas (10k ~ 50k, unidade 10k)
+  >
+  > **Tarefa:**
+  >
+  > 1. Diga-me ordem passo a passo para usar função **'Tabela de Dados'** do Excel.
+  > 2. Explique claramente onde vincular Célula de Entrada de Linha e Célula de Entrada de Coluna para não confundir.
+  > 3. Dê dica para derivar insight como "Hedge é necessário pois lucro despenca se taxa de câmbio subir" vendo tabela completada.
+  >
+  > **Restrições:**
+  >
+  > - Especifique caminho do menu (Aba Dados > Teste de Hipóteses > Tabela de Dados).
 
 ---
 

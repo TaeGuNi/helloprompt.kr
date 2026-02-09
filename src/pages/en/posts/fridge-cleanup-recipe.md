@@ -12,8 +12,9 @@ tags: ["Cooking", "Recipe", "Living Tips"]
 # 📝 Fridge Cleanup, Reborn with a Chef's Recipe
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

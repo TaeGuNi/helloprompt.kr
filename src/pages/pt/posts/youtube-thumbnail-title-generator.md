@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Ideal para:** Pequenos YouTubers, Criadores sem ideias, Editores presos em miniaturas
 > **⏱️ Tempo economizado:** 1 hora (Planejamento) → 3 min (10 Ideias)
-> **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Dificuldade |  Eficácia  | Versatilidade |
 | :---------: | :--------: | :-----------: |

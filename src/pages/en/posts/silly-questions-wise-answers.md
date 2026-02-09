@@ -12,8 +12,9 @@ tags: ["Humor", "Trivia", "Philosophy", "Science", "Creativity"]
 # 📝 Answering Stupid Questions Wisely: Wise Answer Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

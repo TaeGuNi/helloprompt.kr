@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Recomendado para:** Trabajadores de Oficina
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Modelos Habilitados para Búsqueda Web (ChatGPT Plus, Perplexity)
+
+- **🤖 Modelo recomendado:** Modelos Habilitados para Búsqueda Web (ChatGPT Plus, Perplexity)
 
 | Dificultad | Efectividad |  Utilidad  |
 | :--------: | :---------: | :--------: |

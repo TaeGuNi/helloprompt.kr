@@ -12,8 +12,9 @@ tags: ["Diet Snack", "Health", "Recipe", "ChatGPT", "Snack"]
 # 🍪 Guilt-Free Healthy Snack List Recommended by AI to Prevent Binge Eating
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

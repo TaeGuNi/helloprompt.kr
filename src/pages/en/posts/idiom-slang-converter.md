@@ -12,8 +12,9 @@ tags: ["EnglishConversation", "Slang", "Idiom", "AmericanDramaEnglish"]
 # 📝 Speaking Like a Drama Protagonist: Idiom & Slang Vending Machine
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

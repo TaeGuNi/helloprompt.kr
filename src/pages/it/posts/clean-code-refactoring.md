@@ -13,7 +13,8 @@ tags: ["Refactoring", "CleanCode", "Sviluppatore", "RevisioneCodice"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -65,12 +66,11 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 >
 > - L'operazione (funzione) del codice non deve mai cambiare.
 > - Aggiungi commenti solo dove assolutamente necessario. (Elimina i commenti se spiegati dal codice)
->
-> **Codice Target:**
->
-> ```python
-> [Incolla il codice sporco(?) qui]
-> ```
+
+- **Codice Target:**
+  > ```python
+  > [Incolla il codice sporco(?) qui]
+  > ```
 
 ---
 

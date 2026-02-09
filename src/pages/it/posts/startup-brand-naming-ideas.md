@@ -13,7 +13,8 @@ tags: ["Nominare", "Branding", "Startup", "Marketing", "Idea"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -58,20 +59,20 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 >
 > - **Funzione Principale:** `[es.: App raccomanda ricette quando inserisci ingredienti avanzati]`
 > - **Valore Fondamentale:** `[es.: Risparmio, Convenienza, Protezione ambientale]`
-> - **Cliente Target:** `[es.: Persone vivono sole, Principianti cucina]`
->
-> **Compito:**
->
-> 1. Suggerisci **Totale 10 Candidati Nome** utilizzando 3 tecniche naming sotto.
->    - **Naming Intuitivo:** Nome facile rivelando funzione immediatamente (es.: Zigbang)
->    - **Naming Parola Composta:** Nome combinando due parole sensibilmente (es.: Netflix)
->    - **Naming Simbolico/Astratto:** Nome con sensazione unica o storia (es.: Apple, Amazon)
-> 2. Scrivi una riga logica persuasione **"Perché questo nome è buono"** per ogni nome.
->
-> **Vincoli:**
->
-> - Dovrebbe essere facile da pronunciare, breve entro 3~4 caratteri.
-> - Considera sia lingua madre che inglese.
+
+- - **Cliente Target:** `[es.: Persone vivono sole, Principianti cucina]`
+    > **Compito:**
+    >
+    > 1. Suggerisci **Totale 10 Candidati Nome** utilizzando 3 tecniche naming sotto.
+    >    - **Naming Intuitivo:** Nome facile rivelando funzione immediatamente (es.: Zigbang)
+    >    - **Naming Parola Composta:** Nome combinando due parole sensibilmente (es.: Netflix)
+    >    - **Naming Simbolico/Astratto:** Nome con sensazione unica o storia (es.: Apple, Amazon)
+    > 2. Scrivi una riga logica persuasione **"Perché questo nome è buono"** per ogni nome.
+    >
+    > **Vincoli:**
+    >
+    > - Dovrebbe essere facile da pronunciare, breve entro 3~4 caratteri.
+    > - Considera sia lingua madre che inglese.
 
 ---
 

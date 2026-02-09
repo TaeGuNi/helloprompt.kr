@@ -12,8 +12,9 @@ tags: ["Travel Plan", "One Day Trip", "City Tour", "GPT Prompt"]
 # 📝 Perfect One-Day City Tour Itinerary Planned in 1 Minute with AI
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,20 +52,19 @@ Use this when you need detailed quality.
 Copy the **PROMPT** below.
 
 > **Role (Role):** You are a local guide specializing in `[City Name]` with 20 years of experience.
->
-> **Context (Context):** I plan to stay in `[City Name]` for one day on `[Date/Day]`. I have free time from `[Start Time]` AM to `[End Time]` PM.
->
-> **Task (Task):**
->
-> 1.  Plan a 1-day travel course with the most efficient movement route.
-> 2.  Recommend lunch and dinner at `[Preferred Food Type]` restaurants where locals go.
-> 3.  Include a cafe with a good atmosphere where I can rest for a while in the middle.
->
-> **Constraints:**
->
-> - Specify the method of movement between tourist spots (walking, public transport, etc.) and the time required.
-> - Add 1 indoor alternative schedule at the bottom in case of rain.
-> - Organize the output format as a 'Time-specific Itinerary'.
+
+- **Context (Context):** I plan to stay in `[City Name]` for one day on `[Date/Day]`. I have free time from `[Start Time]` AM to `[End Time]` PM.
+  > **Task (Task):**
+  >
+  > 1.  Plan a 1-day travel course with the most efficient movement route.
+  > 2.  Recommend lunch and dinner at `[Preferred Food Type]` restaurants where locals go.
+  > 3.  Include a cafe with a good atmosphere where I can rest for a while in the middle.
+  >
+  > **Constraints:**
+  >
+  > - Specify the method of movement between tourist spots (walking, public transport, etc.) and the time required.
+  > - Add 1 indoor alternative schedule at the bottom in case of rain.
+- - Organize the output format as a 'Time-specific Itinerary'.
 
 ---
 

@@ -19,8 +19,9 @@ tags:
 # 📝 What is the Time Complexity (Big O) of My Code?
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -64,21 +65,21 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Context:** I'm curious about the performance of the algorithm I wrote. I want to know if it's efficient or if improvements are needed.
 >
 > **Task:**
->
-> 1. Analyze the **Time Complexity** and **Space Complexity** of the provided code in Big-O notation.
-> 2. Explain the basis line by code line why such complexity comes out.
-> 3. If there is a more efficient method (e.g., O(N^2) -> O(N log N)), explain it with the improved code.
->
-> **Code:**
->
-> ```
-> [Paste the code to analyze here]
-> ```
->
-> **Constraints:**
->
-> - Analyze based on the Worst Case.
-> - Mention problems that may occur when the input data size (N) is very large.
+
+- 1. Analyze the **Time Complexity** and **Space Complexity** of the provided code in Big-O notation.
+     > 2. Explain the basis line by code line why such complexity comes out.
+     > 3. If there is a more efficient method (e.g., O(N^2) -> O(N log N)), explain it with the improved code.
+     >
+     > **Code:**
+     >
+     > ```
+     > [Paste the code to analyze here]
+     > ```
+     >
+     > **Constraints:**
+     >
+     > - Analyze based on the Worst Case.
+     > - Mention problems that may occur when the input data size (N) is very large.
 
 ---
 

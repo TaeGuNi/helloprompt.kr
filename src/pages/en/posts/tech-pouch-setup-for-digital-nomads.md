@@ -11,9 +11,9 @@ tags: ["Digital Nomad", "Workation", "Tech Gear", "Remote Work"]
 
 # 📝 Work and Travel at the Same Time! Tech Pouch Setup for Digital Nomads
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,20 +51,19 @@ Use this when you need detailed quality.
 Copy the **PROMPT** below to use.
 
 > **Role:** You are a 'Full Stack Developer and Tech YouTuber' who codes while traveling around the world.
->
-> **Context:** I am going on a workation to `[Travel Destination]` for `[Period]`. My main work is `[Work Type: Coding/Design/Document Work]`. The device I use is `[Model: MacBook Pro/iPad, etc.]`.
->
-> **Task:**
->
-> 1. Recommend a light and powerful 'Multi-port Charger' and cable combination that can charge multiple devices at once.
-> 2. Tell me how to create a dual monitor effect in a cafe or accommodation (using tablet, etc.).
-> 3. Check the voltage (plug type) information of that country and whether a power strip is needed.
->
-> **Constraints:**
->
-> - Configure in a direction that minimizes overall weight.
-> - Include tethering (eSIM/USIM) tips for when the internet is cut off.
-> - Recommend mainly based on specs (e.g., 65W or higher PD charging) rather than specific brands.
+
+- **Context:** I am going on a workation to `[Travel Destination]` for `[Period]`. My main work is `[Work Type: Coding/Design/Document Work]`. The device I use is `[Model: MacBook Pro/iPad, etc.]`.
+  > **Task:**
+  >
+  > 1. Recommend a light and powerful 'Multi-port Charger' and cable combination that can charge multiple devices at once.
+  > 2. Tell me how to create a dual monitor effect in a cafe or accommodation (using tablet, etc.).
+  > 3. Check the voltage (plug type) information of that country and whether a power strip is needed.
+  >
+  > **Constraints:**
+  >
+  > - Configure in a direction that minimizes overall weight.
+  > - Include tethering (eSIM/USIM) tips for when the internet is cut off.
+  > - Recommend mainly based on specs (e.g., 65W or higher PD charging) rather than specific brands.
 
 ---
 

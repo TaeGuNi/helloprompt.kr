@@ -12,8 +12,9 @@ tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 # 📝 Strengthening a Child's Heart Before Asking 'Are You Being Bullied?'
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

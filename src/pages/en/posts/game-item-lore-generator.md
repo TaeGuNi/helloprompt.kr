@@ -12,8 +12,9 @@ tags: ["Game", "Item", "TRPG", "Planning", "Fantasy"]
 # 📝 Game Item Encyclopedia: Legendary Weapons and Cursed Accessories
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,20 +59,20 @@ Copy the **PROMPT** content below and use it.
 >
 > - **Type:** `[e.g.: Dagger, Necklace, Shield]`
 > - **Grade:** `[e.g.: Legendary, Cursed]`
-> - **Concept:** `[e.g.: Shadow, Blood-thirsting, Time-rewinding]`
->
-> **Task:**
->
-> 1. Write **Detailed Info** of this item.
->    - **Name:** (Unique name)
->    - **Appearance:** (Detailed and mysterious)
->    - **Special Ability:** (Not simple stat increase, special function. e.g.: Invisibility on kill)
->    - **Penalty/Curse:** (Price for power. e.g.: Lifespan decreases on use)
-> 2. Write **Short History (Lore)** related to this item in one paragraph.
->
-> **Constraints:**
->
-> - Avoid too cheat-like ability (Munchkin) considering balance. (High Risk High Return)
+
+- - **Concept:** `[e.g.: Shadow, Blood-thirsting, Time-rewinding]`
+    > **Task:**
+    >
+    > 1. Write **Detailed Info** of this item.
+    >    - **Name:** (Unique name)
+    >    - **Appearance:** (Detailed and mysterious)
+    >    - **Special Ability:** (Not simple stat increase, special function. e.g.: Invisibility on kill)
+    >    - **Penalty/Curse:** (Price for power. e.g.: Lifespan decreases on use)
+    > 2. Write **Short History (Lore)** related to this item in one paragraph.
+    >
+    > **Constraints:**
+    >
+    > - Avoid too cheat-like ability (Munchkin) considering balance. (High Risk High Return)
 
 ---
 

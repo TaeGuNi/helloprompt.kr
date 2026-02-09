@@ -12,8 +12,9 @@ tags: ["Netflix", "Movie Recommendation", "OTT", "Drama"]
 # 📝 Weekend Deleted! AI OTT Content Custom Recommendation Guide
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -63,12 +64,12 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 1. Recommend 3 movies or dramas fitting the above conditions.
 > 2. Explain one-line Logline and reason for recommendation for each work. (No spoilers absolutely)
 > 3. Tell me Rotten Tomatoes index or IMDB rating together.
-> 4. If it's a series, tell me 'Estimated Binge-watching Time'.
->
-> **Constraints:**
->
-> - Exclude too old classic movies (Before 2000).
-> - Recommend mainly overseas content rather than Korean content.
+
+- 4. If it's a series, tell me 'Estimated Binge-watching Time'.
+     > **Constraints:**
+     >
+     > - Exclude too old classic movies (Before 2000).
+     > - Recommend mainly overseas content rather than Korean content.
 
 ---
 

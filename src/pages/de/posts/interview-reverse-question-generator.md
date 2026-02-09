@@ -13,7 +13,8 @@ tags: ["Rückfrage", "InterviewTipp", "LetzteWorte", "Unternehmensanalyse"]
 
 > **🎯 Empfohlen für:** Jeden
 > **⏱️ Zeitaufwand:** 5 Minuten
-> **🤖 Empfohlenes Modell:** Alle KI-Modelle
+
+- **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
 | Schwierigkeit | Effektivität |  Nutzen   |
 | :-----------: | :----------: | :-------: |

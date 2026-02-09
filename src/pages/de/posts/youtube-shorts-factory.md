@@ -13,7 +13,8 @@ tags: ["YouTube", "Shorts", "Drehbuchschreiben", "Creator", "TikTok"]
 
 > **🎯 Empfohlen für:** YouTuber, denen die Ideen für tägliche Uploads ausgehen, Angestellte mit Neben-Shorts-Kanal
 > **⏱️ Benötigte Zeit:** 30 Sekunden
-> **🤖 Empfohlenes Modell:** ChatGPT-4o (Schnell & Schlagfertig)
+
+- **🤖 Empfohlenes Modell:** ChatGPT-4o (Schnell & Schlagfertig)
 
 | Schwierigkeit | Effektivität |   Nutzen   |
 | :-----------: | :----------: | :--------: |

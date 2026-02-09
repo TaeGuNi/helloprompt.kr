@@ -13,7 +13,8 @@ tags: ["Salario", "Negociación", "Entrevista", "Roleplay", "Carrera"]
 
 > **🎯 Recomendado para:** Pusilánimes que dicen "Aceptaré lo que sea" y se arrepienten luego, Personas buscando trabajo
 > **⏱️ Tiempo Requerido:** 10 mins (Batalla Simulada)
-> **🤖 Modelo Recomendado:** ChatGPT-4o (Modo Voz Altamente Recomendado)
+
+- **🤖 Modelo Recomendado:** ChatGPT-4o (Modo Voz Altamente Recomendado)
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |

@@ -12,8 +12,9 @@ tags: ["Sleep Story", "Insomnia", "ASMR", "Healing", "TTS"]
 # 📚 Lullaby for Adults, Sleep Story Told by AI
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

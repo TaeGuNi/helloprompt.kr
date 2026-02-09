@@ -12,8 +12,9 @@ tags: ["Creature", "Monster", "GamePlanning", "Fantasy", "Setting"]
 # 📝 Monster Ecology Report: Creating My Own Creature
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 
 # 📝 강박적인 대칭: Symmetrical Composition
 
-> **🎯 추천 대상:** 누구나
-> **⏱️ 소요 시간:** 5분
-> **🤖 추천 모델:** 모든 AI 모델
+- **🎯 추천 대상:** 누구나
+- **⏱️ 소요 시간:** 5분
+- **🤖 추천 모델:** 모든 AI 모델
 
 - **📊 난이도:** ⭐⭐☆☆☆
 - **⚡️ 효과성:** ⭐⭐⭐⭐⭐

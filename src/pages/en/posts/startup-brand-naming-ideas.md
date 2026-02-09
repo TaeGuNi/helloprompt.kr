@@ -12,8 +12,9 @@ tags: ["Naming", "Branding", "Startup", "Marketing", "Idea"]
 # 📝 Startup/Brand Naming: Making Memorable Names
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,20 +59,20 @@ Copy the **PROMPT** content below and use it.
 >
 > - **Main Function:** `[e.g.: App recommending recipes when inputting leftover ingredients]`
 > - **Core Value:** `[e.g.: Saving, Convenience, Environmental protection]`
-> - **Target Customer:** `[e.g.: People living alone, Cooking beginners]`
->
-> **Task:**
->
-> 1. Suggest **Total 10 Name Candidates** utilizing 3 naming techniques below.
->    - **Intuitive Naming:** Easy name immediately revealing function (e.g.: Zigbang)
->    - **Compound Word Naming:** Name combining two words sensibly (e.g.: Netflix)
->    - **Symbolic/Abstract Naming:** Name with unique feeling or story (e.g.: Apple, Amazon)
-> 2. Write one line of persuasion logic **"Why this name is good"** for each name.
->
-> **Constraints:**
->
-> - Should be easy to pronounce, short within 3~4 characters.
-> - Consider both native language and English.
+
+- - **Target Customer:** `[e.g.: People living alone, Cooking beginners]`
+    > **Task:**
+    >
+    > 1. Suggest **Total 10 Name Candidates** utilizing 3 naming techniques below.
+    >    - **Intuitive Naming:** Easy name immediately revealing function (e.g.: Zigbang)
+    >    - **Compound Word Naming:** Name combining two words sensibly (e.g.: Netflix)
+    >    - **Symbolic/Abstract Naming:** Name with unique feeling or story (e.g.: Apple, Amazon)
+    > 2. Write one line of persuasion logic **"Why this name is good"** for each name.
+    >
+    > **Constraints:**
+    >
+    > - Should be easy to pronounce, short within 3~4 characters.
+    > - Consider both native language and English.
 
 ---
 

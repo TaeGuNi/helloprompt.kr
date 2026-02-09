@@ -12,8 +12,9 @@ tags: ["Intermittent Fasting", "Diet", "Health", "ChatGPT", "Routine"]
 # ⏰ AI Intermittent Fasting Schedule: Boosting Success Rate by 200%
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -51,20 +52,19 @@ Use this when you need detailed quality.
 Copy the **PROMPT** below.
 
 > **Role (Role):** You are an expert in intermittent fasting and biohacking.
->
-> **Context (Context):** I am trying intermittent fasting. I usually wake up at `[Wake-up Time]` and go to sleep at `[Bed Time]`. Due to my job, I eat lunch at `[Lunch Time]` and often have dinner in `[Dinner Situation]`. My preferred fasting method is `[16:8 / 5:2]`.
->
-> **Task (Task):**
->
-> 1.  Analyze my lifestyle pattern and decide the easiest **Eating Window** and **Fasting Window** to follow.
-> 2.  Distinguish between drinks allowed during fasting hours and those to absolutely avoid.
-> 3.  Tell me scenario-based coping methods on how to adjust the fasting schedule when a dinner appointment or company dinner arises.
-> 4.  Give me 3 tips to overcome severe hunger in 5 minutes.
->
-> **Constraints:**
->
-> - It must be a realistic and flexible plan.
-> - Advise from the perspective of minimizing insulin stimulation.
+
+- **Context (Context):** I am trying intermittent fasting. I usually wake up at `[Wake-up Time]` and go to sleep at `[Bed Time]`. Due to my job, I eat lunch at `[Lunch Time]` and often have dinner in `[Dinner Situation]`. My preferred fasting method is `[16:8 / 5:2]`.
+  > **Task (Task):**
+  >
+  > 1.  Analyze my lifestyle pattern and decide the easiest **Eating Window** and **Fasting Window** to follow.
+  > 2.  Distinguish between drinks allowed during fasting hours and those to absolutely avoid.
+  > 3.  Tell me scenario-based coping methods on how to adjust the fasting schedule when a dinner appointment or company dinner arises.
+  > 4.  Give me 3 tips to overcome severe hunger in 5 minutes.
+  >
+  > **Constraints:**
+  >
+  > - It must be a realistic and flexible plan.
+  > - Advise from the perspective of minimizing insulin stimulation.
 
 ---
 

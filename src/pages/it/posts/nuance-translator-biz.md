@@ -13,7 +13,8 @@ tags: ["Traduzione", "Email", "IngleseCommerciale", "ChatGPT", "DeepL"]
 
 > **🎯 Consigliato per:** Commercianti che sudano sulle email, PM che lavorano con sviluppatori globali
 > **⏱️ Tempo Richiesto:** 30 secondi
-> **🤖 Modello Consigliato:** DeepL (Bozza) + ChatGPT-4o (Finitura Sfumature)
+
+- **🤖 Modello Consigliato:** DeepL (Bozza) + ChatGPT-4o (Finitura Sfumature)
 
 | Difficoltà | Efficacia  |  Utilità   |
 | :--------: | :--------: | :--------: |

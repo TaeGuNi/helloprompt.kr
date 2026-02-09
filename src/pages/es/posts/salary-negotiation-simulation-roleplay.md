@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Recomendado para:** Trabajadores de Oficina
 > **⏱️ Tiempo requerido:** 10 minutos
-> **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet
+
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet
 
 | Dificultad | Efectividad |  Utilidad  |
 | :--------: | :---------: | :--------: |

@@ -13,7 +13,8 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Programación", "Productividad"]
 
 > **🎯 Recomendado para:** Desarrolladores preocupados por subir código de la empresa, Estudiantes que ahorran costos de API, Trabajadores offline
 > **⏱️ Tiempo Requerido:** 10 mins
-> **🤖 Modelo Recomendado:** DeepSeek-R1-Distill-Llama-8B (o 70B)
+
+- **🤖 Modelo Recomendado:** DeepSeek-R1-Distill-Llama-8B (o 70B)
 
 | Dificultad | Efectividad |  Utilidad  |
 | :--------: | :---------: | :--------: |

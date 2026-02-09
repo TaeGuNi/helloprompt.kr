@@ -12,8 +12,9 @@ tags: ["EmergencyFund", "FinancialManagement", "RiskManagement", "Savings"]
 # 📝 Emergency Fund Seatbelt: Calculating My Optimal Emergency Fund
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -58,14 +59,15 @@ Copy the **PROMPT** content below and use it.
 > **Task:**
 >
 > 1. Considering my job stability, **minimum how many months of living expenses** should be secured as emergency fund?
-> 2. Calculate specific **Target Emergency Fund Amount**.
-> 3. Recommend **Specific Product Type (CMA, Parking Account, etc.)** best for keeping this money in terms of profitability and liquidity.
-> 4. If current emergency fund is 0, plan how much to save monthly and when to complete realistically.
->
-> **Constraints:**
->
-> - Set more conservatively (more) for freelancer than general office worker.
-> - Keep condition that emergency fund must be withdrawable anytime.
+
+- 2. Calculate specific **Target Emergency Fund Amount**.
+     > 3. Recommend **Specific Product Type (CMA, Parking Account, etc.)** best for keeping this money in terms of profitability and liquidity.
+     > 4. If current emergency fund is 0, plan how much to save monthly and when to complete realistically.
+     >
+     > **Constraints:**
+     >
+     > - Set more conservatively (more) for freelancer than general office worker.
+     > - Keep condition that emergency fund must be withdrawable anytime.
 
 ---
 

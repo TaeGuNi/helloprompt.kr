@@ -11,9 +11,9 @@ tags: ["Vegan", "Vegetarian", "Meal Prep", "Health", "ChatGPT"]
 
 # 🥗 Perfect Meal Prep Guide for Beginner Vegans
 
-> **🎯 Target Audience:** Everyone
-> **⏱️ Time Required:** 5 Minutes
-> **🤖 Recommended Model:** All AI Models
+- **🎯 Target Audience:** Everyone
+- **⏱️ Time Required:** 5 Minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

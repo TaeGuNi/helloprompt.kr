@@ -13,7 +13,8 @@ tags: ["Seguro", "Tecnologia Financeira", "Economia", "Análise de Cobertura"]
 
 > **🎯 Público-Alvo:** Todos
 > **⏱️ Tempo Necessário:** 5 minutos
-> **🤖 Modelo Recomendado:** Todos os modelos de IA
+
+- **🤖 Modelo Recomendado:** Todos os modelos de IA
 
 | Dificuldade |  Eficácia  | Utilidade |
 | :---------: | :--------: | :-------: |

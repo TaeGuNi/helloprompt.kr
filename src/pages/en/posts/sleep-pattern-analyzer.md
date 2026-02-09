@@ -12,8 +12,9 @@ tags: ["Sleep", "Insomnia", "Health", "Lifestyle"]
 # 📝 Escape Insomnia! AI Sleep Pattern Analysis and Good Sleep Guide
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

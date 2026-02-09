@@ -13,7 +13,8 @@ tags: ["Excel", "AnálisisInversión", "VAN", "TIR"]
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |
@@ -39,8 +40,8 @@ No debes mirar solo el monto de la ganancia. Porque el valor del dinero cambia c
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Modelado Financiero]`.
-> **Solicitud:** ¿Debería hacer este negocio? Calcule fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR), indicadores clave de la decisión de inversión, con Excel.
+- **Rol:** Eres un `[Experto en Modelado Financiero]`.
+  > **Solicitud:** ¿Debería hacer este negocio? Calcule fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR), indicadores clave de la decisión de inversión, con Excel.
 
 <br>
 
@@ -50,23 +51,22 @@ No debes mirar solo el monto de la ganancia. Porque el valor del dinero cambia c
 
 Copia el contenido del **PROMPT** a continuación y úsalo.
 
-> **Rol:** Eres un `[Experto en Modelado Financiero]`.
->
-> **Contexto:** Quiero analizar la viabilidad de inversión de un nuevo proyecto con Excel.
->
-> - **Inversión Inicial (Año 0):** -100 Millones KRW (Celda B2)
-> - **Ingresos Esperados (Año 1~5):** 30 Millones KRW anualmente (Celdas B3~B7)
-> - **Tasa de Descuento (Retorno Requerido):** 10% (Celda C2)
->
-> **Tarea:**
->
-> 1. Dime **fórmula de Excel para encontrar VAN (Valor Actual Neto)** de este proyecto.
-> 2. Dime **fórmula de Excel para encontrar TIR (Tasa Interna de Retorno)**.
-> 3. Explica criterios de juicio sobre si invertir o no cuando los resultados del cálculo son **VAN > 0** o **TIR > Tasa de Descuento**.
->
-> **Restricciones:**
->
-> - Escribe la fórmula observando que la función `NPV` (VNA) de Excel debe ingresarse desde el Año 1. (Procesar inversión inicial por separado)
+- **Rol:** Eres un `[Experto en Modelado Financiero]`.
+  > **Contexto:** Quiero analizar la viabilidad de inversión de un nuevo proyecto con Excel.
+  >
+  > - **Inversión Inicial (Año 0):** -100 Millones KRW (Celda B2)
+  > - **Ingresos Esperados (Año 1~5):** 30 Millones KRW anualmente (Celdas B3~B7)
+  > - **Tasa de Descuento (Retorno Requerido):** 10% (Celda C2)
+  >
+  > **Tarea:**
+  >
+  > 1. Dime **fórmula de Excel para encontrar VAN (Valor Actual Neto)** de este proyecto.
+  > 2. Dime **fórmula de Excel para encontrar TIR (Tasa Interna de Retorno)**.
+  > 3. Explica criterios de juicio sobre si invertir o no cuando los resultados del cálculo son **VAN > 0** o **TIR > Tasa de Descuento**.
+  >
+  > **Restricciones:**
+  >
+  > - Escribe la fórmula observando que la función `NPV` (VNA) de Excel debe ingresarse desde el Año 1. (Procesar inversión inicial por separado)
 
 ---
 

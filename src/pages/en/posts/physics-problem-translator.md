@@ -12,8 +12,9 @@ tags: ["Physics", "Engineering", "ProblemSolving", "Prompt"]
 # 📝 Physics Problem Translator: From Situation Judgment to Setting Up Equations
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -59,15 +60,15 @@ Copy the **PROMPT** content below and use it.
 > 1. **[Variable Extraction]**: Organize the values given in the problem (Known) and values to find (Unknown) with symbols (e.g., $v_0 = 0 m/s$).
 > 2. **[Hidden Conditions]**: Find conditions that are not specified in the text but must be considered physically (e.g., "Free fall" -> $a = 9.8 m/s^2$).
 > 3. **[Strategy Establishment]**: Explain what the most suitable **Physics Law** is to solve this problem and why you should use it.
-> 4. **[Setting Up Equation]**: Set up a pure **Mathematical Model** before substituting numbers.
->
-> **Constraints:**
->
-> - Focus on 'Design' rather than solving process (Calculation).
-> - Pay attention to Unit notation.
->
-> **Problem Text:**
-> `[Copy and paste the physics problem here]`
+
+- 4. **[Setting Up Equation]**: Set up a pure **Mathematical Model** before substituting numbers.
+     > **Constraints:**
+     >
+     > - Focus on 'Design' rather than solving process (Calculation).
+     > - Pay attention to Unit notation.
+     >
+     > **Problem Text:**
+     > `[Copy and paste the physics problem here]`
 
 ---
 

@@ -12,8 +12,9 @@ tags: ["Excel", "Automation", "VBA", "Work Hacks"]
 # 📊 "Hey, can you summarize this in Excel?" (Sure, give me 30 seconds.)
 
 > **🎯 Best For:** Excel beginners, Office workers tired of repetitive tasks
-> **⏱️ Time Saved:** 1 hour (Manual) → 30 seconds (Automated)
-> **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **⏱️ Time Saved:** 1 hour (Manual) → 30 seconds (Automated)
+- **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Difficulty | Effectiveness | Versatility |
 | :--------: | :-----------: | :---------: |

@@ -12,8 +12,9 @@ tags: ["Linux", "Shell Script", "DevOps", "Automation", "Bash"]
 # 📝 God of Server Management, Shell Script Auto Generator
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

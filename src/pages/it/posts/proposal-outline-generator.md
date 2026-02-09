@@ -13,7 +13,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -51,20 +52,19 @@ Usala quando hai bisogno di qualità dettagliata.
 Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 
 > **Ruolo:** Sei uno Scrittore Professionista di Proposte con un tasso di successo del 90%.
->
-> **Contesto:** Siamo [La Nostra Azienda/Servizio], e intendiamo proporre [Contenuto Proposta] a [Cliente Target].
->
-> **Compito:**
->
-> 1. Scrivi un'apertura che stimoli il Punto Dolente del cliente.
-> 2. Descrivi come la nostra soluzione risolve quel problema concentrandosi sul Beneficio.
-> 3. Costruisci una sezione che enfatizza i punti di differenziazione (USP) rispetto ai concorrenti.
-> 4. Suggerisci esempi di prove (Social Proof) che possano dare fiducia.
->
-> **Vincoli:**
->
-> - Usa un linguaggio orientato al cliente (Messaggio-Tu).
-> - Presenta benefici concreti piuttosto che vanti astratti.
+
+- **Contesto:** Siamo [La Nostra Azienda/Servizio], e intendiamo proporre [Contenuto Proposta] a [Cliente Target].
+  > **Compito:**
+  >
+  > 1. Scrivi un'apertura che stimoli il Punto Dolente del cliente.
+  > 2. Descrivi come la nostra soluzione risolve quel problema concentrandosi sul Beneficio.
+  > 3. Costruisci una sezione che enfatizza i punti di differenziazione (USP) rispetto ai concorrenti.
+  > 4. Suggerisci esempi di prove (Social Proof) che possano dare fiducia.
+  >
+  > **Vincoli:**
+  >
+  > - Usa un linguaggio orientato al cliente (Messaggio-Tu).
+  > - Presenta benefici concreti piuttosto che vanti astratti.
 
 ---
 

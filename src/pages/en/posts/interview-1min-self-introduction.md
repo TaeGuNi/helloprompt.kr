@@ -12,8 +12,9 @@ tags: ["1MinSelfIntro", "InterviewPrep", "ElevatorPitch", "SelfIntroduction"]
 # 📝 First Button of Interview, Attractive '1-Minute Self-Introduction' Writing Prompt
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

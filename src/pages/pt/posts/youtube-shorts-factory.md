@@ -13,7 +13,8 @@ tags: ["YouTube", "Shorts", "Roteiro", "Criador", "TikTok"]
 
 > **🎯 Recomendado para:** YouTubers sem ideias para uploads diários, Funcionários com canal de Shorts secundário
 > **⏱️ Tempo Necessário:** 30 segundos
-> **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido & Espirituoso)
+
+- **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido & Espirituoso)
 
 | Dificuldade | Efetividade | Utilidade  |
 | :---------: | :---------: | :--------: |

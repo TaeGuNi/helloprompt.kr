@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -58,12 +59,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > **Compito:**
 >
 > 1. **10 Domande Centrali:** Scegli 10 domande tecniche che devono essere chieste in questa carriera e set abilità. (Principio Base 3 + Applicazione Pratica 4 + Risoluzione Problemi 3)
-> 2. **Parole Chiave Risposta Modello:** Dì 3 Parole Chiave centrali ciascuna da includere quando rispondi a ogni domanda.
-> 3. **Domanda Coda Avanzata:** Scrivi una domanda di approfondimento che potrebbe arrivare quando risposto domanda 1.
->
-> **Vincoli:**
->
-> - Chiedi in modo **Basato su Scenario** chiedendo esperienza nella pratica piuttosto che definizione manuale.
+
+- 2. **Parole Chiave Risposta Modello:** Dì 3 Parole Chiave centrali ciascuna da includere quando rispondi a ogni domanda.
+     > 3. **Domanda Coda Avanzata:** Scrivi una domanda di approfondimento che potrebbe arrivare quando risposto domanda 1.
+     >
+     > **Vincoli:**
+     >
+     > - Chiedi in modo **Basato su Scenario** chiedendo esperienza nella pratica piuttosto che definizione manuale.
 
 ---
 

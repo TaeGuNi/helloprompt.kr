@@ -12,8 +12,9 @@ tags: ["FIRE", "EarlyRetirement", "FinancialFreedom", "Finance"]
 # 📝 FIRE Tribe Roadmap: 4% Rule for Early Retirement
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -61,15 +62,15 @@ Copy the **PROMPT** content below and use it.
 > - **Investment Return:** Assume Annual `[8%]`
 >
 > **Task:**
->
-> 1. What is my **Target FIRE Asset (FIRE Number)**? (Based on 25 times annual expense)
-> 2. When saving and investing at current speed, **at what age can I achieve goal** and retire?
-> 3. If I increase savings by 500k KRW monthly, how much faster is retirement?
-> 4. Briefly warn about **'Sequence of Returns Risk'** to be careful when withdrawing 4% annually after achieving FIRE.
->
-> **Constraints:**
->
-> - Assume inflation rate 3% and calculate with real return (5%).
+
+- 1. What is my **Target FIRE Asset (FIRE Number)**? (Based on 25 times annual expense)
+     > 2. When saving and investing at current speed, **at what age can I achieve goal** and retire?
+     > 3. If I increase savings by 500k KRW monthly, how much faster is retirement?
+     > 4. Briefly warn about **'Sequence of Returns Risk'** to be careful when withdrawing 4% annually after achieving FIRE.
+     >
+     > **Constraints:**
+     >
+     > - Assume inflation rate 3% and calculate with real return (5%).
 
 ---
 

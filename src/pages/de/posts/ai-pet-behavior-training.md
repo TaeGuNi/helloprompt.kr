@@ -13,7 +13,8 @@ tags: ["Haustiere", "Hundetraining", "Katzen", "Tiererziehung"]
 
 > **🎯 Empfohlen für:** Neue Tierbesitzer, Lärmbeschwerden-Empfänger, Budgetbewusste
 > **⏱️ Zeitersparnis:** 15 Min (Beobachten) → 1 Min (Diagnose)
-> **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Schwierigkeit | Effektivität | Vielseitigkeit |
 | :-----------: | :----------: | :------------: |

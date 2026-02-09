@@ -12,8 +12,9 @@ tags: ["YouTube", "ChannelName", "Nickname", "Creator", "Naming"]
 # 📝 YouTube Channel Name & Nickname Recommendation (YouTube Channel Naming)
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -57,21 +58,22 @@ Copy the **PROMPT** content below and use it.
 > **Channel Info:**
 >
 > - **Topic/Category:** `[e.g.: Office worker finance, Cat Vlog, Corner Room Live]`
-> - **Target Audience:** `[e.g.: Social freshmen in 2030s, People needing healing]`
-> - **My Nickname/Feature:** `[e.g.: Manager Kim, Homebody, Wear glasses]`
->
-> **Task:**
->
-> 1. Recommend **3 Channel Name Candidates** per styles below (Total 9).
->    - **Intuitive:** Trustworthy name revealing topic immediately (e.g.: Shin Saimdang)
->    - **Friendly/Nickname:** Cute name sticking well to mouth (e.g.: Syuka World)
->    - **Emotional/Unique:** Unique name stimulating curiosity (e.g.: Nerdult)
-> 2. Recommend one **Subscriber Nickname (Fandom Name)** fitting each name.
->
-> **Constraints:**
->
-> - Ensure not overlapping with already famous YouTuber names.
-> - Short and strong within 5 characters.
+
+- - **Target Audience:** `[e.g.: Social freshmen in 2030s, People needing healing]`
+    > - **My Nickname/Feature:** `[e.g.: Manager Kim, Homebody, Wear glasses]`
+    >
+    > **Task:**
+    >
+    > 1. Recommend **3 Channel Name Candidates** per styles below (Total 9).
+    >    - **Intuitive:** Trustworthy name revealing topic immediately (e.g.: Shin Saimdang)
+    >    - **Friendly/Nickname:** Cute name sticking well to mouth (e.g.: Syuka World)
+    >    - **Emotional/Unique:** Unique name stimulating curiosity (e.g.: Nerdult)
+    > 2. Recommend one **Subscriber Nickname (Fandom Name)** fitting each name.
+    >
+    > **Constraints:**
+    >
+    > - Ensure not overlapping with already famous YouTuber names.
+    > - Short and strong within 5 characters.
 
 ---
 

@@ -12,8 +12,9 @@ tags: ["SQL", "DB Tuning", "Query Optimization", "Database"]
 # 📝 Slow SQL Query, Secret to Tuning in 3 Seconds
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -64,17 +65,16 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 3. **Index Recommendation:** Suggest which columns to index with `CREATE INDEX` syntax to maximize query performance.
 >
 > **DB Used:** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
->
-> **Target Query:**
->
-> ```sql
-> [Paste slow query here]
-> ```
->
-> **Constraints:**
->
-> - The result dataset of the existing query must never change.
-> - Briefly explain the execution principle of why it became faster.
+
+- **Target Query:**
+  > ```sql
+  > [Paste slow query here]
+  > ```
+  >
+  > **Constraints:**
+  >
+  > - The result dataset of the existing query must never change.
+  > - Briefly explain the execution principle of why it became faster.
 
 ---
 

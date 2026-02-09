@@ -14,7 +14,8 @@ tags:
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |
@@ -60,14 +61,14 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 > 1. **[Análisis de Complejidad]**: Analiza la Complejidad Temporal (Big-O) y la Complejidad Espacial de mi código.
 > 2. **[Revisión de Código]**: Señala puntos para mejorar en términos de estilo de código, nombres de variables y legibilidad. (Bienvenidas las palabras duras en lugar de elogios)
 > 3. **[Pregunta de Seguimiento]**: Lanza 1 pregunta avanzada como "¿Qué pasa si los datos de entrada son 1 millón, cómo sería este código?".
-> 4. **[Respuesta Modelo]**: Si hay una manera más eficiente que mi solución, da solo una pista. (No des la respuesta de inmediato)
->
-> **Problema:** `[Escribe el contenido del problema simplemente, ej.: Encontrar la suma de dos números]`
-> **Mi Código:**
->
-> ```python
-> [Pega el código escrito aquí]
-> ```
+
+- 4. **[Respuesta Modelo]**: Si hay una manera más eficiente que mi solución, da solo una pista. (No des la respuesta de inmediato)
+     > **Problema:** `[Escribe el contenido del problema simplemente, ej.: Encontrar la suma de dos números]`
+     > **Mi Código:**
+     >
+     > ```python
+     > [Pega el código escrito aquí]
+     > ```
 
 ---
 

@@ -13,7 +13,8 @@ tags: ["YouTube", "Thumbnail", "Titel-Generator", "Clickbait", "Aufrufe"]
 
 > **🎯 Empfohlen für:** Kleine YouTuber, Kreative ohne Ideen, Editoren im Thumbnail-Stress
 > **⏱️ Zeitersparnis:** 1 Stunde (Planung) → 3 Min (10 Ideen)
-> **🤖 Empfohlenes Modell:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- **🤖 Empfohlenes Modell:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Schwierigkeit | Effektivität | Vielseitigkeit |
 | :-----------: | :----------: | :------------: |

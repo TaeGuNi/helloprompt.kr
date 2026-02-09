@@ -12,8 +12,9 @@ tags: ["Travel Expenses", "Budget", "Currency Exchange", "Travel Preparation"]
 # 📝 AI Travel Budget Calculator for Cost-Effective Travel
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

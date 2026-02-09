@@ -12,8 +12,9 @@ tags: ["Museum", "Art Gallery", "Audio Guide", "Docent", "Art Appreciation"]
 # 📝 Curator in My Hand: AI Museum Audio Guide Maker
 
 > **🎯 Recommended for:** Everyone
-> **⏱️ Time required:** 5 minutes
-> **🤖 Recommended model:** All AI models
+
+- **⏱️ Time required:** 5 minutes
+  > **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

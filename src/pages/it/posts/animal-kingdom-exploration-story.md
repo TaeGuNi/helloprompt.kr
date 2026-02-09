@@ -18,9 +18,9 @@ tags:
 
 # 📝 Un viaggio nel 'Dizionario degli Animali Misteriosi' prima di dormire
 
-> **🎯 Pubblico Target:** Tutti
-> **⏱️ Tempo Richiesto:** 5 minuti
-> **🤖 Modello Consigliato:** Tutti i modelli AI
+- **🎯 Pubblico Target:** Tutti
+  > **⏱️ Tempo Richiesto:** 5 minuti
+- **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |

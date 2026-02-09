@@ -19,7 +19,8 @@ tags:
 
 > **🎯 Recomendado para:** Todos
 > **⏱️ Tiempo requerido:** 5 minutos
-> **🤖 Modelo recomendado:** Todos los modelos de IA
+
+- **🤖 Modelo recomendado:** Todos los modelos de IA
 
 | Dificultad | Efectividad | Utilidad  |
 | :--------: | :---------: | :-------: |
@@ -63,12 +64,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 > **Tarea:**
 >
 > 1. **10 Preguntas Centrales:** Elige 10 preguntas técnicas que deben preguntarse en esta carrera y conjunto de habilidades. (Principio Básico 3 + Aplicación Práctica 4 + Solución de Problemas 3)
-> 2. **Palabras Clave de Respuesta Modelo:** Di 3 Palabras Clave centrales cada una para incluir al responder cada pregunta.
-> 3. **Pregunta de Cola Avanzada:** Escribe una pregunta de inmersión profunda que podría venir cuando se responda la pregunta 1.
->
-> **Restricciones:**
->
-> - Pregunta en manera **Basada en Escenario** preguntando experiencia en práctica en lugar de definición de libro de texto.
+
+- 2. **Palabras Clave de Respuesta Modelo:** Di 3 Palabras Clave centrales cada una para incluir al responder cada pregunta.
+     > 3. **Pregunta de Cola Avanzada:** Escribe una pregunta de inmersión profunda que podría venir cuando se responda la pregunta 1.
+     >
+     > **Restricciones:**
+     >
+     > - Pregunta en manera **Basada en Escenario** preguntando experiencia en práctica en lugar de definición de libro de texto.
 
 ---
 

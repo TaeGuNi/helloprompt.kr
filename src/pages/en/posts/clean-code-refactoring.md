@@ -12,8 +12,9 @@ tags: ["Refactoring", "CleanCode", "Developer", "CodeReview"]
 # 📝 My Code is Trash! Clean Code Refactoring Coach
 
 > **🎯 Recommended For:** Everyone
-> **⏱️ Time Required:** 5 minutes
-> **🤖 Recommended Model:** All AI Models
+
+- **⏱️ Time Required:** 5 minutes
+- **🤖 Recommended Model:** All AI Models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |
@@ -65,12 +66,11 @@ Copy the **PROMPT** content below and use it.
 >
 > - The operation (function) of the code must never change.
 > - Add comments only where absolutely necessary. (Delete comments if explained by code)
->
-> **Target Code:**
->
-> ```python
-> [Paste dirty(?) code here]
-> ```
+
+- **Target Code:**
+  > ```python
+  > [Paste dirty(?) code here]
+  > ```
 
 ---
 

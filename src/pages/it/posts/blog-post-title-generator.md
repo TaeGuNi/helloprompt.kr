@@ -13,7 +13,8 @@ tags: ["Blog", "Content Marketing", "SEO", "Copywriting"]
 
 > **🎯 Consigliato per:** Tutti
 > **⏱️ Tempo richiesto:** 5 minuti
-> **🤖 Modello consigliato:** Tutti i modelli IA
+
+- **🤖 Modello consigliato:** Tutti i modelli IA
 
 | Difficoltà | Efficacia  |  Utilità  |
 | :--------: | :--------: | :-------: |
@@ -57,19 +58,20 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > **Compito:**
 >
 > 1. Contenuto Centrale del Post: `[Riassunto del Contenuto]`
-> 2. Lettore Target: `[Persona che vuoi che legga questo post]`
-> 3. Suggerisci 2 titoli per ciascuno dei 5 tipi qui sotto, per un totale di 10 titoli.
->    - Tipo A: Stimolare Curiosità (Tipo domanda)
->    - Tipo B: Presentare Metodo Specifico/Numero (Tipo lista)
->    - Tipo C: Appello alla Paura/Avversione alla Perdita (Non fare ~)
->    - Tipo D: Autorità/Rivelazione Segreto (Solo gli esperti sanno)
->    - Tipo E: Soluzione Rapida e Facile (Breve termine/Super semplice)
->
-> **Vincoli:**
->
-> - Mantieni i titoli intorno ai 50 caratteri in modo che siano visibili a colpo d'occhio su mobile.
-> - Posiziona le parole chiave principali all'inizio il più possibile.
-> - Voglio titoli attraenti coerenti con il contenuto piuttosto che clickbait.
+
+- 2. Lettore Target: `[Persona che vuoi che legga questo post]`
+     > 3. Suggerisci 2 titoli per ciascuno dei 5 tipi qui sotto, per un totale di 10 titoli.
+     >    - Tipo A: Stimolare Curiosità (Tipo domanda)
+     >    - Tipo B: Presentare Metodo Specifico/Numero (Tipo lista)
+     >    - Tipo C: Appello alla Paura/Avversione alla Perdita (Non fare ~)
+     >    - Tipo D: Autorità/Rivelazione Segreto (Solo gli esperti sanno)
+     >    - Tipo E: Soluzione Rapida e Facile (Breve termine/Super semplice)
+     >
+     > **Vincoli:**
+     >
+     > - Mantieni i titoli intorno ai 50 caratteri in modo che siano visibili a colpo d'occhio su mobile.
+     > - Posiziona le parole chiave principali all'inizio il più possibile.
+     > - Voglio titoli attraenti coerenti con il contenuto piuttosto che clickbait.
 
 ---
 

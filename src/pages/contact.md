@@ -2,6 +2,7 @@
 layout: /src/layouts/Layout.astro
 title: "문의하기 (Contact Us)"
 description: "Hello Prompt 팀에게 궁금한 점이나 제안할 내용이 있으신가요?"
+date: "2026-02-09"
 ---
 
 # 📧 문의하기 (Contact Us)

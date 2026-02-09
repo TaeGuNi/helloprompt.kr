@@ -18,6 +18,7 @@ const CHECKS = {
   HAS_INSIGHT: /##\s*💡\s*작성자\s*코멘트/,
   HAS_FAQ: /##\s*🙋\s*자주\s*묻는\s*질문/,
   KOREAN_TEXT: /[가-힣]+/,
+  HAS_DATE: /^date:\s*["']?(\d{4}-\d{2}-\d{2}(?:T.*)?)/m,
 };
 
 export async function auditFile(filePath: string): Promise<AuditResult> {
@@ -44,8 +45,25 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
       });
     }
 
-    // 2. Section Check (Korean Source Only)
-    if (isKorean) {
+    // 2. Frontmatter Check (Date)
+    if (!CHECKS.HAS_DATE.test(content)) {
+      issues.push({
+        code: "MISSING_DATE",
+        message: 'Missing "date" field in frontmatter. Required for build.',
+        severity: "error",
+      });
+    }
+
+    // 3. Section Check (Korean Source Only)
+    // Exclude static pages (about, contact, terms, privacy) from Insight/FAQ checks
+    const isStaticPage = [
+      "about.md",
+      "contact.md",
+      "terms.md",
+      "privacy.md",
+    ].some((f) => filePath.endsWith(f));
+
+    if (isKorean && !isStaticPage) {
       if (!CHECKS.HAS_INSIGHT.test(content)) {
         issues.push({
           code: "MISSING_INSIGHT",
@@ -64,7 +82,7 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
       }
     }
 
-    // 3. Localization Check (Non-Korean)
+    // 4. Localization Check (Non-Korean)
     if (!isKorean) {
       // Heuristic: If more than 5 distinct Korean words are found, it's likely a bad translation.
       const koMatches =

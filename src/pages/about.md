@@ -2,6 +2,7 @@
 layout: /src/layouts/Layout.astro
 title: "소개 (About Us)"
 description: "Hello Prompt는 AI와 인간이 함께 만드는 실용적인 프롬프트 딕셔너리입니다."
+date: "2026-02-09"
 ---
 
 # 🤖 Hello Prompt 소개

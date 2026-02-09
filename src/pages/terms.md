@@ -2,6 +2,7 @@
 layout: /src/layouts/Layout.astro
 title: "이용약관 (Terms of Service)"
 description: "Hello Prompt 서비스 이용에 관한 약관입니다."
+date: "2026-02-09"
 ---
 
 # 📜 이용약관 (Terms of Service)

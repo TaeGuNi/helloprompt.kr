@@ -18,7 +18,12 @@ pnpm test
 echo "🏗️  Running Build Check..."
 pnpm build
 
-# 5. Update Management Docs
+# 5. Fix Content Placeholders & Empty Sections
+echo "🔧 Fixing Content..."
+pnpm content:fix
+git add src/pages/posts/*.md
+
+# 6. Update Management Docs
 echo "📝 Updating Management Docs..."
 pnpm docs:update
 git add docs/MANAGEMENT.md

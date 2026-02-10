@@ -18,7 +18,11 @@ exclude = [
     
     # Private/Internal APIs
     "https://api.openai.com.*",
-    "https://api.anthropic.com.*"
+    "https://api.anthropic.com.*",
+
+    # AI Chatbots (Bot Access Forbidden)
+    "https://chatgpt.com.*",
+    "https://claude.ai.*"
 ]
 
 # Handle redirects

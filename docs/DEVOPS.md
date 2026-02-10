@@ -29,14 +29,14 @@
     - 허용 타입: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`
 2.  **Lint-Staged (`pre-commit`):**
     - **Markdown (`*.md`):**
-        - `fix-placeholders.js`: `[입력]` 같은 플레이스홀더 자동 표준화.
-        - `fill-empty-sections.js`: 빈 섹션(Insight/FAQ) 자동 채움.
-        - `prettier`: 문서 포맷팅.
-        - `pnpm qa`: 품질 검사 (표 스타일, 필수 섹션, 인용구 오남용 등).
+      - `fix-placeholders.js`: `[입력]` 같은 플레이스홀더 자동 표준화.
+      - `fill-empty-sections.js`: 빈 섹션(Insight/FAQ) 자동 채움.
+      - `prettier`: 문서 포맷팅.
+      - `pnpm qa`: 품질 검사 (표 스타일, 필수 섹션, 인용구 오남용 등).
     - **Code (`*.ts, *.js, *.astro`):**
-        - `prettier`: 코드 포맷팅.
-        - `eslint`: 코드 논리 및 Astro 규칙 검사.
-        - `vitest related`: 변경된 파일과 관련된 단위 테스트 실행.
+      - `prettier`: 코드 포맷팅.
+      - `eslint`: 코드 논리 및 Astro 규칙 검사.
+      - `vitest related`: 변경된 파일과 관련된 단위 테스트 실행.
 
 ### 🛡️ 2차 방어선: CI (GitHub Actions)
 
@@ -86,6 +86,7 @@ npx tsx scripts/qa/sitemap-check.ts
 
 **Q. 커밋이 안 돼요 (Husky pre-commit failed).**
 A. 에러 메시지를 확인하세요.
+
 - `[MISSING_INSIGHT]`: 마크다운 파일에 `## 💡 작성자 코멘트 (Insight)` 섹션 추가 필요.
 - `[FORMAT_BLOCKQUOTE_MISUSE]`: `Basic/Pro` 섹션 외에는 `> `(인용구) 사용 금지.
 

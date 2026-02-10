@@ -2,8 +2,16 @@
 import Layout from "../../layouts/Layout.astro";
 import { LANGUAGES } from "../../i18n/languages";
 import { formatDate } from "../../utils/dateUtils";
+import type { Post } from "../../utils/postUtils";
 
-export async function getStaticPaths({ paginate }: any) {
+interface GetStaticPathsOptions {
+  paginate: (
+    data: Post[],
+    options: { params: { lang: string }; pageSize: number },
+  ) => unknown[];
+}
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   // 1. 외국어 포스트 동적 로딩
   const globResult = import.meta.glob("../**/posts/*.md", { eager: true });
 
@@ -12,7 +20,7 @@ export async function getStaticPaths({ paginate }: any) {
     // 해당 언어 폴더(src/pages/{lang}/posts/)의 포스트만 필터링
     const posts = Object.entries(globResult)
       .filter(([path]) => path.includes(`/${lang}/posts/`))
-      .map(([, post]) => post);
+      .map(([, post]) => post as Post);
 
     return { lang, posts };
   });
@@ -20,7 +28,7 @@ export async function getStaticPaths({ paginate }: any) {
   // 3. 페이지네이션 경로 생성
   return collections.flatMap(({ lang, posts }) => {
     const sortedPosts = posts.sort(
-      (a: any, b: any) =>
+      (a, b) =>
         new Date(b.frontmatter.date).valueOf() -
         new Date(a.frontmatter.date).valueOf(),
     );
@@ -32,7 +40,7 @@ export async function getStaticPaths({ paginate }: any) {
   });
 }
 
-const { page } = Astro.props as any;
+const { page } = Astro.props;
 const { lang } = Astro.params;
 
 // 다국어 슬로건
@@ -248,19 +256,22 @@ const frontmatter = {
      * 디바운스 함수 (성능 최적화)
      * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
      */
-    function debounce(func: any, delay: any) {
-      let timeoutId: any;
-      return (...args: any[]) => {
+    function debounce<T extends (...args: unknown[]) => void>(
+      func: T,
+      delay: number,
+    ) {
+      let timeoutId: number | undefined;
+      return (...args: Parameters<T>) => {
         clearTimeout(timeoutId);
-        timeoutId = setTimeout(() => func(...args), delay);
+        timeoutId = window.setTimeout(() => func(...args), delay);
       };
     }
 
     /**
      * 검색 실행 및 UI 업데이트
      */
-    function handleSearch(event: any) {
-      const target = event.target;
+    function handleSearch(event: Event) {
+      const target = event.target as HTMLInputElement;
       const query = target.value.trim();
 
       if (!searchResults) return;
@@ -284,7 +295,7 @@ const frontmatter = {
     /**
      * 결과 렌더링 (DOM 조작)
      */
-    function renderResults(posts: any) {
+    function renderResults(posts: SearchItem[]) {
       if (!searchResults) return;
 
       searchResults.innerHTML = "";
@@ -302,7 +313,7 @@ const frontmatter = {
       // DocumentFragment를 사용하여 리플로우 최소화
       const fragment = document.createDocumentFragment();
 
-      posts.forEach((post: any) => {
+      posts.forEach((post) => {
         const link = document.createElement("a");
         link.className = "search-item";
         link.href = post.url;
@@ -322,9 +333,9 @@ const frontmatter = {
     }
 
     // 외부 클릭 시 닫기 (UX 개선)
-    document.addEventListener("click", (event: any) => {
+    document.addEventListener("click", (event: MouseEvent) => {
       const target = event.target as HTMLElement;
-      // @ts-ignore
+      // @ts-expect-error: closest is valid
       const isClickInside = target.closest(".search-container");
 
       if (!isClickInside && searchResults) {
@@ -341,7 +352,7 @@ const frontmatter = {
 
   <div class="post-grid">
     {
-      page.data.map((post: any) => (
+      page.data.map((post: Post) => (
         <a href={post.url} class="post-card">
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>
@@ -354,7 +365,7 @@ const frontmatter = {
             {post.frontmatter.tags &&
               post.frontmatter.tags
                 .slice(0, 2)
-                .map((tag: any) => <span class="tag-pill">#{tag}</span>)}
+                .map((tag: string) => <span class="tag-pill">#{tag}</span>)}
           </div>
         </a>
       ))

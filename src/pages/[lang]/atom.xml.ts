@@ -7,7 +7,7 @@ export const getStaticPaths = getLangStaticPaths;
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
   const allPosts = import.meta.glob("../*/posts/*.md");
-  let posts: any[] = [];
+  const posts: any[] = [];
 
   for (const path in allPosts) {
     if (path.includes(`/${lang}/posts/`)) {

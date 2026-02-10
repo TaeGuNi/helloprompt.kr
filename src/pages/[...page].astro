@@ -3,7 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import type { Post } from "../utils/postUtils";
 import { formatDate } from "../utils/dateUtils";
 
-interface Page<T = any> {
+interface Page<T = Post> {
   data: T[];
   start: number;
   end: number;
@@ -19,7 +19,7 @@ interface Page<T = any> {
 }
 
 interface GetStaticPathsOptions {
-  paginate: (data: any[], options: { pageSize: number }) => any[];
+  paginate: (data: Post[], options: { pageSize: number }) => unknown[];
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
@@ -252,7 +252,7 @@ const frontmatter = {
     /**
      * 디바운스 함수 (성능 최적화)
      */
-    function debounce<T extends (...args: any[]) => void>(
+    function debounce<T extends (...args: unknown[]) => void>(
       func: T,
       delay: number,
     ) {

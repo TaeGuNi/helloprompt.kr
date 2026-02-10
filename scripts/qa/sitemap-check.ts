@@ -10,7 +10,7 @@ async function checkSitemap() {
   try {
     // 1. Check Build Output
     await fs.access(DIST_DIR);
-  } catch (e) {
+  } catch (_e) {
     console.error(
       '❌ Build output (dist/) not found. Please run "pnpm build" first.',
     );
@@ -34,7 +34,7 @@ async function checkSitemap() {
       );
       console.log(`   Expected: Sitemap: ${SITE_URL}/sitemap-index.xml`);
     }
-  } catch (e) {
+  } catch (_e) {
     console.error("❌ robots.txt not found in dist/.");
   }
 
@@ -46,12 +46,12 @@ async function checkSitemap() {
     // Try index first
     await fs.access(sitemapIndexPath);
     console.log("✅ sitemap-index.xml found.");
-  } catch (e) {
+  } catch (_e) {
     try {
       // Try direct sitemap
       await fs.access(sitemapPath);
       console.log("✅ sitemap-0.xml found (Single file sitemap).");
-    } catch (e2) {
+    } catch (_e2) {
       console.error("❌ No sitemap XML found in dist/.");
       process.exit(1);
     }

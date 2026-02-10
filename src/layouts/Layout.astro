@@ -45,6 +45,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       src="https://www.googletagmanager.com/gtag/js?id=G-P5MFF2LHX1"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
+      // eslint-disable-next-line
       function gtag() {
         dataLayer.push(arguments);
       }
@@ -1002,7 +1003,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
                   btn.classList.add("copied");
                   btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
                   setTimeout(() => btn.classList.remove("copied"), 2000);
-                } catch (err) {}
+                } catch (_err) {}
               };
               return a;
             };

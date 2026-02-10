@@ -14,7 +14,7 @@ async function updateManagementDoc() {
     console.log(`📊 Current Post Count: ${currentCount}`);
 
     // 2. Read Management Doc
-    let content = await fs.readFile(MANAGEMENT_DOC_PATH, "utf-8");
+    const content = await fs.readFile(MANAGEMENT_DOC_PATH, "utf-8");
 
     // 3. Define Status Text
     let statusText = "";

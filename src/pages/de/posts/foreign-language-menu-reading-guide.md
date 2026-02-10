@@ -17,8 +17,8 @@ tags:
 
 # 📝 Anleitung zum Lesen fremdsprachiger Speisekarten, um wie ein Einheimischer zu bestellen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Scheitern Sie nicht mehr beim Bestellen. Wenn Sie ein Foto der Speisekarte mache
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Lebensmittelanalytiker', der alle Lebensmittelzutaten der Welt kennt.
-> **Anfrage:** Ist es ein Bild oder ein Buchstabe? Eine einfache Lesemethode für fremdsprachige Speisekarten für diejenigen, die Angst vor dem Bestellen haben.
+**Rolle:** Du bist ein 'Lebensmittelanalytiker', der alle Lebensmittelzutaten der Welt kennt.
+**Anfrage:** Ist es ein Bild oder ein Buchstabe? Eine einfache Lesemethode für fremdsprachige Speisekarten für diejenigen, die Angst vor dem Bestellen haben.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Excel", "Automação", "VBA", "Dicas de Trabalho"]
 
 # 📊 "Ei, pode resumir isso no Excel?" (Claro, me dê 30 segundos.)
 
-> **🎯 Ideal para:** Iniciantes em Excel, Trabalhadores cansados de tarefas repetitivas
-> **⏱️ Tempo economizado:** 1 hora (Manual) → 30 segundos (Automatizado)
+**🎯 Ideal para:** Iniciantes em Excel, Trabalhadores cansados de tarefas repetitivas
+**⏱️ Tempo economizado:** 1 hora (Manual) → 30 segundos (Automatizado)
 
 - **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["Excel", "Automação", "VBA", "Dicas de Trabalho"]
 | :---------: | :--------: | :-----------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐ |  ⭐⭐⭐⭐⭐   |
 
-> _"Excel não é uma calculadora. É uma **ferramenta de programação**. (Mas a IA faz a codificação.)"_
+_"Excel não é uma calculadora. É uma **ferramenta de programação**. (Mas a IA faz a codificação.)"_
 
 PROCV, Tabelas Dinâmicas, Formatação Condicional... Você pesquisa isso no Google toda vez?
 Apenas diga: "Compare a Coluna A e B, e destaque as diferenças em vermelho." A IA escreverá a fórmula.
@@ -41,11 +41,11 @@ Apenas diga: "Compare a Coluna A e B, e destaque as diferenças em vermelho." A 
 
 Use isso para cálculos rápidos.
 
-> **Papel:** Você é um especialista em Excel.
-> **Tarefa:** Forneça uma fórmula Excel para obter `[Resultado Desejado]` dos dados abaixo.
-> **Exemplo de Dados:**
->
-> - Col A: Nome / Col B: Pontuação / Col C: Aprovado/Reprovado
+**Papel:** Você é um especialista em Excel.
+**Tarefa:** Forneça uma fórmula Excel para obter `[Resultado Desejado]` dos dados abaixo.
+**Exemplo de Dados:**
+
+- Col A: Nome / Col B: Pontuação / Col C: Aprovado/Reprovado
 
 <br>
 

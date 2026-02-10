@@ -11,8 +11,8 @@ tags: ["Criatura", "Monstro", "PlanejamentoJogo", "Fantasia", "Configuração"]
 
 # 📝 Relatório de Ecologia de Monstros: Criando Minha Própria Criatura
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Razão pela qual monstros em Monster Hunter ou série Witcher são atraentes é 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um biólogo e pesquisador de monstros explorando continente desconhecido.
-> **Solicitação:** Entediado de slime, goblin? Projete monstro original considerando ecossistema e hábitos.
+**Papel:** Você é um biólogo e pesquisador de monstros explorando continente desconhecido.
+**Solicitação:** Entediado de slime, goblin? Projete monstro original considerando ecossistema e hábitos.
 
 <br>
 

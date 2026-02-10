@@ -40,8 +40,8 @@ Cómo conocer la historia mientras caminas por los callejones de la ciudad a tu 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Planificador de Tours de Narración' que conoce cada callejón de `[Nombre de la Ciudad]`.
-> **Solicitud:** Satisfactorio sin solicitar tours caros. Guíame en un curso de caminata histórica de la ciudad tejido con el tema que quiero.
+**Rol:** Eres un 'Planificador de Tours de Narración' que conoce cada callejón de `[Nombre de la Ciudad]`.
+**Solicitud:** Satisfactorio sin solicitar tours caros. Guíame en un curso de caminata histórica de la ciudad tejido con el tema que quiero.
 
 <br>
 

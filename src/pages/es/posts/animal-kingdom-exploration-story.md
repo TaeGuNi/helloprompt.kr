@@ -12,8 +12,8 @@ tags:
 
 # 📝 Un viaje al 'Diccionario de Animales Misteriosos' antes de dormir
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

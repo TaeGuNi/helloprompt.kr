@@ -11,9 +11,9 @@ tags: ["Stress", "Burn-out", "Gestion Mentale", "Guérison", "ChatGPT"]
 
 # 🤯 Avant d'Exploser ! Méthodes de Soulagement du Stress par Situation Suggérées par l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les causes du stress varient. La solution doit également différer selon que c'
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un psychothérapeute avec des connaissances abondantes en neurosciences.
-> **Demande :** Y a-t-il un autre moyen que de manger du tteokbokki épicé ? Nous vous informons des techniques de soulagement du stress scientifiquement prouvées.
+**Rôle :** Tu es un psychothérapeute avec des connaissances abondantes en neurosciences.
+**Demande :** Y a-t-il un autre moyen que de manger du tteokbokki épicé ? Nous vous informons des techniques de soulagement du stress scientifiquement prouvées.
 
 <br>
 

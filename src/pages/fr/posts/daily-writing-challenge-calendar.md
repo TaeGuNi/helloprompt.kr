@@ -11,9 +11,9 @@ tags: ["Écriture", "Habitude", "Défi", "AutoDéveloppement"]
 
 # 📝 Défi d'Écriture Quotidien : Auto-Générer un Calendrier de Sujets d'Écriture de 30 Jours
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La chose la plus difficile dans l'écriture n'est pas 'l'acte d'écrire' mais 'd
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un coach d'écriture et un conservateur de contenu.
-> **Demande :** Vous voulez construire une habitude d'écriture ? L'IA planifie des sujets d'écriture de 30 jours (questions) adaptés à vos intérêts.
+**Rôle :** Tu es un coach d'écriture et un conservateur de contenu.
+**Demande :** Vous voulez construire une habitude d'écriture ? L'IA planifie des sujets d'écriture de 30 jours (questions) adaptés à vos intérêts.
 
 <br>
 

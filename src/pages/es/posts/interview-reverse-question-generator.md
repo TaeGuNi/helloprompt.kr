@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡Última Arma Definitiva de Entrevista! Generador de 'Pregunta Inversa' para Preguntar al Entrevistador
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ Esto no es una pregunta sino **Oportunidad**. Si preguntas salario o bienestar a
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un entrenador de carrera estratégico.
-> **Solicitud:** Crea preguntas inversas inteligentes mostrando interés en empresa y perspicacia de trabajo al recibir pregunta "¿Alguna pregunta?" al final de entrevista.
+**Rol:** Eres un entrenador de carrera estratégico.
+**Solicitud:** Crea preguntas inversas inteligentes mostrando interés en empresa y perspicacia de trabajo al recibir pregunta "¿Alguna pregunta?" al final de entrevista.
 
 <br>
 

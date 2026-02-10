@@ -17,8 +17,8 @@ tags:
 
 # 📝 Creatore Logica 'Difesa Debolezza' Colloquio (Trasformare Crisi in Opportunità)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Quando arriva una domanda che pugnala un punto dolente, la tua testa si svuota. 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un consulente strategia colloquio.
-> **Richiesta:** Prepara una logica per riconoscere debolezze fatali (pausa carriera, cambiamento importante, basso GPA) onestamente ma enfatizzare le lezioni apprese e gli sforzi di miglioramento.
+**Ruolo:** Sei un consulente strategia colloquio.
+**Richiesta:** Prepara una logica per riconoscere debolezze fatali (pausa carriera, cambiamento importante, basso GPA) onestamente ma enfatizzare le lezioni apprese e gli sforzi di miglioramento.
 
 <br>
 

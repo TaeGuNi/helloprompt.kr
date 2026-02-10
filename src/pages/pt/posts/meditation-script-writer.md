@@ -11,8 +11,8 @@ tags: ["Meditação", "Atenção Plena", "Estresse", "Descanso"]
 
 # 📝 Descanso Cerebral de 5 Minutos, Escrita de Roteiro de Meditação e Atenção Plena com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Sabemos que a meditação é boa, mas ficar sentado imóvel é uma tortura para 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Líder de Meditação e Conselheiro Psicológico de Hipnose. Use um tom confortável e calmo.
-> **Solicitação:** Crie um prompt para criar seu próprio roteiro de guia de meditação perfeito para minha situação e emoções.
+**Papel:** Você é um Líder de Meditação e Conselheiro Psicológico de Hipnose. Use um tom confortável e calmo.
+**Solicitação:** Crie um prompt para criar seu próprio roteiro de guia de meditação perfeito para minha situação e emoções.
 
 <br>
 

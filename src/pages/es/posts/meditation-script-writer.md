@@ -11,8 +11,8 @@ tags: ["Meditación", "Atención Plena", "Estrés", "Descanso"]
 
 # 📝 Descanso Cerebral de 5 Minutos, Escritura de Guion de Meditación y Atención Plena con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Sabemos que la meditación es buena, pero quedarse quieto es una tortura para mu
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Líder de Meditación y Consejero Psicológico de Hipnosis. Usa un tono cómodo y tranquilo.
-> **Solicitud:** Crea un prompt para crear tu propio guion de guía de meditación perfecto para mi situación y emociones.
+**Rol:** Eres un Líder de Meditación y Consejero Psicológico de Hipnosis. Usa un tono cómodo y tranquilo.
+**Solicitud:** Crea un prompt para crear tu propio guion de guía de meditación perfecto para mi situación y emociones.
 
 <br>
 

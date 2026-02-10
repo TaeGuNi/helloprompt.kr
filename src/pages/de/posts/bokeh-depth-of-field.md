@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografie", "Effekt"]
 
 # 📝 Magie der Lichtkugeln: Bokeh & Depth of Field
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte den Protagonisten klar und den Hintergrund träumerisch weggeblase
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Prompt, der das Motiv durch Unschärfe des Hintergrunds hervorhebt und emotionale Lichtkugeln (Bokeh) erzeugt.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Prompt, der das Motiv durch Unschärfe des Hintergrunds hervorhebt und emotionale Lichtkugeln (Bokeh) erzeugt.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Musician in street night.`
 
-> (Ergebnis: Ablenkendes Foto, auf dem sogar Schildbuchstaben im Hintergrund sichtbar sind, was den Blick zerstreut)
+(Ergebnis: Ablenkendes Foto, auf dem sogar Schildbuchstaben im Hintergrund sichtbar sind, was den Blick zerstreut)
 
 ### ✅ Nachher (Ergebnis)
 
 `Bokeh` Prompt angewendet
 
-> (Ergebnis: Emotionale Aufnahme, bei der sich Leuchtreklamen im Hintergrund in schöne Lichtkugeln verwandeln und die Aufmerksamkeit voll auf den Ausdruck des Musikers gerichtet ist)
+(Ergebnis: Emotionale Aufnahme, bei der sich Leuchtreklamen im Hintergrund in schöne Lichtkugeln verwandeln und die Aufmerksamkeit voll auf den Ausdruck des Musikers gerichtet ist)
 
 ---
 

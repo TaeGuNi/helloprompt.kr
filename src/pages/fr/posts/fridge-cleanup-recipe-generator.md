@@ -11,9 +11,9 @@ tags: ["Cuisine", "Recette", "Régime", "Nettoyage du Frigo"]
 
 # 📝 Nettoyage du Frigo ! Générateur de Recettes Saines IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Allumez-vous les applis de livraison en vous inquiétant "Que devrais-je manger 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Chef d'un restaurant 2 étoiles Michelin et un Expert en Cuisine Maison Saine. Ta spécialité est de faire ressortir le meilleur goût avec un minimum d'ingrédients.
-> **Demande :** Crée un prompt pour des recettes saines 5 étoiles faites avec des ingrédients proches de la péremption.
+**Rôle :** Tu es un Chef d'un restaurant 2 étoiles Michelin et un Expert en Cuisine Maison Saine. Ta spécialité est de faire ressortir le meilleur goût avec un minimum d'ingrédients.
+**Demande :** Crée un prompt pour des recettes saines 5 étoiles faites avec des ingrédients proches de la péremption.
 
 <br>
 

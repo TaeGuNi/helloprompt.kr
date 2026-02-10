@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¡Quiero Subirlo! Juego de Rol de Simulación de 'Negociación Salarial'
 
-> **🎯 Recomendado para:** Trabajadores de Oficina
-> **⏱️ Tiempo requerido:** 10 minutos
+**🎯 Recomendado para:** Trabajadores de Oficina
+**⏱️ Tiempo requerido:** 10 minutos
 
 - **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet
 
@@ -46,8 +46,8 @@ La negociación salarial es un **'Juego Capitalista Frío'**. Si solo dices "Tra
 
 Usa esto cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un gerente de RRHH meticuloso.
-> **Solicitud:** Simula una situación tensa de negociación salarial con una persona de gerente de RRHH para encontrar la lógica y expresión maximizando la tasa de aumento.
+**Rol:** Eres un gerente de RRHH meticuloso.
+**Solicitud:** Simula una situación tensa de negociación salarial con una persona de gerente de RRHH para encontrar la lógica y expresión maximizando la tasa de aumento.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Struttura Dati", "Algoritmo", "Ottimizzazione Prestazioni", "Basi CS"]
 
 # 📝 List? Map? Set? Prescrizione Struttura Dati per l'Indecisione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Se inserisci la situazione, pesiamo la complessità temporale e l'efficienza spa
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Professore di Informatica ed Esperto di Algoritmi.
-> **Richiesta:** Preoccupato su quale struttura dati usare per memorizzare i dati? Crea un prompt che raccomanda la struttura dati ottimale perfettamente adatta alla situazione.
+**Ruolo:** Sei un Professore di Informatica ed Esperto di Algoritmi.
+**Richiesta:** Preoccupato su quale struttura dati usare per memorizzare i dati? Crea un prompt che raccomanda la struttura dati ottimale perfettamente adatta alla situazione.
 
 <br>
 

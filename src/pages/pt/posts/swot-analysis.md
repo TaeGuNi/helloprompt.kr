@@ -11,8 +11,8 @@ tags: ["Ações", "AnáliseCorporativa", "SWOT", "Estratégia"]
 
 # 📝 Padrão de Análise Corporativa: Analisador SWOT IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A ferramenta mais básica, porém poderosa, ao analisar uma empresa é a anális
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Consultor de Estratégia]` em uma empresa de consultoria de gestão.
-> **Solicitação:** Capte pontos fortes, fracos, oportunidades e ameaças da empresa em que planejo investir de relance.
+**Papel:** Você é um `[Consultor de Estratégia]` em uma empresa de consultoria de gestão.
+**Solicitação:** Capte pontos fortes, fracos, oportunidades e ameaças da empresa em que planejo investir de relance.
 
 <br>
 

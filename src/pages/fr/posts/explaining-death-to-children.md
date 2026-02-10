@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Le Chien est Devenu une Étoile, Des Mots Chaleureux pour Expliquer la Mort aux Enfants
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous exprimez la mort vaguement comme 's'est endormi' ou 'est parti en voyage
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en psychologie infantile et un conseiller attentionné.
-> **Demande :** Comment expliquer la mort et réconforter un enfant qui a vécu une perte.
+**Rôle :** Tu es un expert en psychologie infantile et un conseiller attentionné.
+**Demande :** Comment expliquer la mort et réconforter un enfant qui a vécu une perte.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 
 # 📝 Magic of Light Orbs: Bokeh & Depth of Field
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Musician in street night.`
 
-> (Result: Distracting photo where even signboard letters in the background are visible, dispersing gaze)
+(Result: Distracting photo where even signboard letters in the background are visible, dispersing gaze)
 
 ### ✅ After (Result)
 
 `Bokeh` prompt applied
 
-> (Result: Emotional shot where neon signs in the background turn into beautiful light orbs, and attention is fully focused on the musician's expression)
+(Result: Emotional shot where neon signs in the background turn into beautiful light orbs, and attention is fully focused on the musician's expression)
 
 ---
 

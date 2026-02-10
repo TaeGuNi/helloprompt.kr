@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Bordkarte für den 'Traumland-Zug', um schlaflose Babys schlafen zu lassen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Manchmal ist anstelle eines spannenden Abenteuers eine 'schlaffördernde' Geschi
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Kinderhypnose und Meditationsführer.
-> **Anfrage:** Erzähle mir eine Geschichte, die mit Meditations- und Entspannungstechniken für Kinder angereichert ist, die nicht schlafen können.
+**Rolle:** Du bist ein Experte für Kinderhypnose und Meditationsführer.
+**Anfrage:** Erzähle mir eine Geschichte, die mit Meditations- und Entspannungstechniken für Kinder angereichert ist, die nicht schlafen können.
 
 <br>
 

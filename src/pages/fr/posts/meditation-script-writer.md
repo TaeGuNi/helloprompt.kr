@@ -11,9 +11,9 @@ tags: ["Méditation", "Pleine Conscience", "Stress", "Repos"]
 
 # 📝 5 Minutes de Repos Cérébral, Écriture de Script de Méditation et Pleine Conscience par IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Nous savons que la méditation est bonne, mais rester assis immobile est une tor
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Leader de Méditation et Conseiller Psychologique en Hypnose. Utilise un ton confortable et calme.
-> **Demande :** Crée un prompt pour créer votre propre script de guide de méditation parfait pour ma situation et mes émotions.
+**Rôle :** Tu es un Leader de Méditation et Conseiller Psychologique en Hypnose. Utilise un ton confortable et calme.
+**Demande :** Crée un prompt pour créer votre propre script de guide de méditation parfait pour ma situation et mes émotions.
 
 <br>
 

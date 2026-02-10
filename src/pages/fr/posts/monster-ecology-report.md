@@ -39,8 +39,8 @@ La raison pour laquelle les monstres dans Monster Hunter ou la série Witcher so
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un biologiste et chercheur de monstres explorant un continent inconnu.
-> **Demande :** Lassé du slime, du gobelin ? Conception de monstre original considérant l'écosystème et les habitudes.
+**Rôle :** Tu es un biologiste et chercheur de monstres explorant un continent inconnu.
+**Demande :** Lassé du slime, du gobelin ? Conception de monstre original considérant l'écosystème et les habitudes.
 
 <br>
 

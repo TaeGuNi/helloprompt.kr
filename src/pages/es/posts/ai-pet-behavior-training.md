@@ -41,12 +41,12 @@ Cada comportamiento tiene una **'razón'**. Si describes la situación en detall
 
 Úsalo para problemas menores o curiosidad rápida.
 
-> **Rol:** Eres un especialista en comportamiento animal.
-> **Pregunta:** Mi perro está haciendo `[Comportamiento]`. ¿Por qué pasa esto y cómo lo arreglo?
-> **Info:**
->
-> - Raza/Edad: `[Entrada]`
-> - Situación: `[Entrada]`
+**Rol:** Eres un especialista en comportamiento animal.
+**Pregunta:** Mi perro está haciendo `[Comportamiento]`. ¿Por qué pasa esto y cómo lo arreglo?
+**Info:**
+
+- Raza/Edad: `[Entrada]`
+- Situación: `[Entrada]`
 
 <br>
 

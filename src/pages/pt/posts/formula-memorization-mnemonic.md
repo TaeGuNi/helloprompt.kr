@@ -11,8 +11,8 @@ tags: ["MétodoMemorização", "Mnemônico", "MétodoEstudo", "Prompt"]
 
 # 📝 Fórmulas Imemorizáveis, Tatuando no Cérebro
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O cérebro humano odeia listar números e símbolos sem sentido. Em vez disso, g
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Gênio Mnemônico e Escritor Humorístico]`.
-> **Solicitação:** Crie um prompt que me faça nunca esquecer fórmulas matemáticas e científicas complexas com storytelling e Mnemônicos.
+**Papel:** Você é um `[Gênio Mnemônico e Escritor Humorístico]`.
+**Solicitação:** Crie um prompt que me faça nunca esquecer fórmulas matemáticas e científicas complexas com storytelling e Mnemônicos.
 
 <br>
 

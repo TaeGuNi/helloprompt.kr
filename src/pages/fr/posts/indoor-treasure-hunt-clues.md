@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Créer des Indices de 'Chasse au Trésor en Intérieur' dont les Enfants Raffolent en 1 Minute
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Un jeu de chasse au trésor qui dissipe l'énergie des enfants et développe les
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un instructeur de loisirs créatif et un expert en éducation des enfants.
-> **Demande :** Crée des indices pour une chasse au trésor personnalisée à la maison préparée en 5 minutes avec l'IA.
+**Rôle :** Tu es un instructeur de loisirs créatif et un expert en éducation des enfants.
+**Demande :** Crée des indices pour une chasse au trésor personnalisée à la maison préparée en 5 minutes avec l'IA.
 
 <br>
 

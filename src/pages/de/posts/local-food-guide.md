@@ -11,8 +11,8 @@ tags: ["Reisen", "Restaurant", "Mukbang", "Lokales Restaurant"]
 
 # 📝 Iss wie ein Einheimischer! KI Lokaler Essens-Navigator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die Freude am Reisen ist Gourmet. Aber Sie können eine kostbare Mahlzeit nicht 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Michelin-Führer-Bewerter und lokaler Essensexperte.
-> **Anfrage:** Weg mit Touristenrestaurants. Erstelle einen Prompt, wie man echte Restaurants findet, in denen Einheimische Schlange stehen.
+**Rolle:** Du bist ein Michelin-Führer-Bewerter und lokaler Essensexperte.
+**Anfrage:** Weg mit Touristenrestaurants. Erstelle einen Prompt, wie man echte Restaurants findet, in denen Einheimische Schlange stehen.
 
 <br>
 

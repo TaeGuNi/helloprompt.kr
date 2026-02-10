@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 
 # 📝 Cute 3D World: Isometric View
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Gamer room 3d.`
 
-> (Result: General room photo angle, interior might not be visible covered by walls)
+(Result: General room photo angle, interior might not be visible covered by walls)
 
 ### ✅ After (Result)
 
 `Isometric view` prompt applied
 
-> (Result: Cute miniature where one wall is open and all furniture in the room is visible densely)
+(Result: Cute miniature where one wall is open and all furniture in the room is visible densely)
 
 ---
 

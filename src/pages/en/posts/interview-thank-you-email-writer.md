@@ -11,10 +11,10 @@ tags: ["ThankYouEmail", "InterviewEtiquette", "FollowUpEmail", "JobSuccess"]
 
 # 📝 Interview Golden Time! 'Thank-You Email' Writer to Send Immediately After
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

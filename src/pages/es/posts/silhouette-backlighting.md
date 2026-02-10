@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composición", "Iluminación
 
 # 📝 Luz y Sombra: Silueta y Contraluz
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ No tienes que mostrar todo. Usar **Backlighting** (Contraluz) para hacer que el 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt de Contraluz (Silueta) que enfatice la belleza formal y la atmósfera procesando el sujeto oscuramente.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt de Contraluz (Silueta) que enfatice la belleza formal y la atmósfera procesando el sujeto oscuramente.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Samurai in front of moon.`
 
-> (Resultado: Foto donde los patrones de la armadura samurái son todos visibles y la iluminación entra ambiguamente)
+(Resultado: Foto donde los patrones de la armadura samurái son todos visibles y la iluminación entra ambiguamente)
 
 ### ✅ Después (Resultado)
 
 Prompt `Silhouette` aplicado
 
-> (Resultado: Póster solemne donde solo la forma de un espadachín negro se revela claramente contra una enorme luna roja)
+(Resultado: Póster solemne donde solo la forma de un espadachín negro se revela claramente contra una enorme luna roja)
 
 ---
 

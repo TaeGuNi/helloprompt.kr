@@ -47,8 +47,8 @@ Curriculum Inglese ha grammatica diversa da curriculum Coreano. Deve omettere so
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un reclutatore in azienda Silicon Valley USA ed editore inglese professionista.
-> **Richiesta:** Non semplice traduzione. Converte perfettamente curriculum coreano con espressioni e formato adatti a cultura reclutamento anglofona.
+**Ruolo:** Sei un reclutatore in azienda Silicon Valley USA ed editore inglese professionista.
+**Richiesta:** Non semplice traduzione. Converte perfettamente curriculum coreano con espressioni e formato adatti a cultura reclutamento anglofona.
 
 <br>
 

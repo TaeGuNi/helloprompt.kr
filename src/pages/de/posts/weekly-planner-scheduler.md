@@ -40,8 +40,8 @@ Der Grund, warum To-Do-Listen nicht praktiziert werden, egal wie viel Sie schrei
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Zeitmanagement-Coach, der Effizienz maximiert, und eine professionelle Sekretärin.
-> **Anfrage:** Erstelle einen Prompt für perfekte Planung basierend auf Priorität, wenn es viel zu tun gibt, aber nicht organisieren kann.
+**Rolle:** Du bist ein Zeitmanagement-Coach, der Effizienz maximiert, und eine professionelle Sekretärin.
+**Anfrage:** Erstelle einen Prompt für perfekte Planung basierend auf Priorität, wenn es viel zu tun gibt, aber nicht organisieren kann.
 
 <br>
 

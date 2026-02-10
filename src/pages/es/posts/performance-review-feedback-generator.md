@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Comentarios de Evaluación de Personal Que Hacen Crecer Sin Herir
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La evaluación de personal debe ser justa, los comentarios deben ser específico
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Entrenador de Liderazgo.
-> **Solicitud:** Crea un prompt que alivie el dolor de las revisiones de desempeño y la redacción de comentarios.
+**Rol:** Eres un Entrenador de Liderazgo.
+**Solicitud:** Crea un prompt que alivie el dolor de las revisiones de desempeño y la redacción de comentarios.
 
 <br>
 

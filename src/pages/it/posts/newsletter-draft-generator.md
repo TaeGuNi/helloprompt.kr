@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Redigere una Newsletter Che Chiama gli Abbonati
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le newsletter o i bollettini interni che devono essere pubblicati regolarmente s
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Editore di Newsletter Sensibile.
-> **Richiesta:** Lancia solo un argomento e crea titolo, corpo e curatela istantaneamente.
+**Ruolo:** Sei un Editore di Newsletter Sensibile.
+**Richiesta:** Lancia solo un argomento e crea titolo, corpo e curatela istantaneamente.
 
 <br>
 

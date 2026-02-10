@@ -19,7 +19,7 @@ tags:
 # 📝 Invece di brontolare per pulire, dispiegamento del 'Commando di Pulizia'!
 
 - **🎯 Pubblico Target:** Tutti
-  > **⏱️ Tempo Richiesto:** 5 minuti
+  **⏱️ Tempo Richiesto:** 5 minuti
 - **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |

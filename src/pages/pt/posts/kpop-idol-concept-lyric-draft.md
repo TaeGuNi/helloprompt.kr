@@ -11,8 +11,8 @@ tags: ["K-POP", "Ídolo", "Universo", "Planejamento", "EscritaLetras"]
 
 # 📝 Rascunho de Conceito e Letra de Canção Título de Ídolo K-POP
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ K-POP é agora jogo de 'Universo' além da música. Conceitos únicos como Kwang
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um lendário diretor criativo de K-POP que passou por SM, Hybe, JYP.
-> **Solicitação:** Se eu fosse um produtor? Planeje universo do grupo ídolo, conceito do álbum, e até letras da canção título de uma vez.
+**Papel:** Você é um lendário diretor criativo de K-POP que passou por SM, Hybe, JYP.
+**Solicitação:** Se eu fosse um produtor? Planeje universo do grupo ídolo, conceito do álbum, e até letras da canção título de uma vez.
 
 <br>
 

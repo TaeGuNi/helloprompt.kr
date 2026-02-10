@@ -11,8 +11,8 @@ tags: ["Legacy", "Code-Analyse", "Wartung", "Übergabe"]
 
 # 📝 Interpretation von Geheimtext (Legacy-Code), der vom Aussteiger hinterlassen wurde
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Weinen Sie nicht. KI wird diesen Code entschlüsseln und in menschliche Sprache 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Software-Handwerker mit 30 Jahren Erfahrung und ein Experte für Legacy-Code-Analyse.
-> **Anfrage:** Erstelle einen Prompt, bei dem KI schwierigen Legacy-Code ohne Dokumentation oder Kommentare Zeile für Zeile analysiert und in einfachen Worten erklärt.
+**Rolle:** Du bist ein Software-Handwerker mit 30 Jahren Erfahrung und ein Experte für Legacy-Code-Analyse.
+**Anfrage:** Erstelle einen Prompt, bei dem KI schwierigen Legacy-Code ohne Dokumentation oder Kommentare Zeile für Zeile analysiert und in einfachen Worten erklärt.
 
 <br>
 

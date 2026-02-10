@@ -12,8 +12,8 @@ tags:
 
 # 📝 Simulação de 'Entrevista Simulada Real' com IA Possuída por Entrevistador
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Núcleo da preparação de entrevista é **'prática falando em voz alta'**. Def
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um entrevistador de 10 anos na `[Nome Empresa Aplicando]`. Personalidade é exigente e lógica, e encontra mentiras do candidato como um fantasma.
-> **Solicitação:** Dê à IA uma persona de entrevistador exigente e pratique perguntas de pressão perseguindo cauda a cauda como uma entrevista real.
+**Papel:** Você é um entrevistador de 10 anos na `[Nome Empresa Aplicando]`. Personalidade é exigente e lógica, e encontra mentiras do candidato como um fantasma.
+**Solicitação:** Dê à IA uma persona de entrevistador exigente e pratique perguntas de pressão perseguindo cauda a cauda como uma entrevista real.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 
 # 📝 Dieu de l'Organisation : Knolling
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux montrer des pièces complexes ou des effets personnels proprement en u
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de technique Knolling qui arrange et photographie des objets proprement à angle droit.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de technique Knolling qui arrange et photographie des objets proprement à angle droit.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Travel items on table.`
 
-> (Résultat : Photo où les objets sont dispersés de manière désordonnée ou se chevauchent)
+(Résultat : Photo où les objets sont dispersés de manière désordonnée ou se chevauchent)
 
 ### ✅ Après (Résultat)
 
 Prompt `Knolling` appliqué
 
-> (Résultat : Image où tous les objets sont proprement arrangés à intervalles réguliers, mettant l'esprit à l'aise)
+(Résultat : Image où tous les objets sont proprement arrangés à intervalles réguliers, mettant l'esprit à l'aise)
 
 ---
 

@@ -40,8 +40,8 @@ A razão pela qual a Lista de Tarefas não é praticada, não importa o quanto v
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Treinador de Gestão de Tempo maximizando a eficiência e uma Secretária Profissional.
-> **Solicitação:** Crie um prompt para agendamento perfeito baseado em prioridade quando há muito para fazer, mas não consegue organizar.
+**Papel:** Você é um Treinador de Gestão de Tempo maximizando a eficiência e uma Secretária Profissional.
+**Solicitação:** Crie um prompt para agendamento perfeito baseado em prioridade quando há muito para fazer, mas não consegue organizar.
 
 <br>
 

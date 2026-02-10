@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¿Si la API se Compara con un Restaurante? Máquina Expendedora de Metáforas de Conceptos de Codificación
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Los términos de desarrollo son como un lenguaje alienígena. Mirar las definici
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Maestro de la Metáfora e Instructor Especialista en TI]`.
-> **Solicitud:** Crea un prompt que explique conceptos de TI abstractos y difíciles comparándolos con objetos o situaciones cotidianas para que incluso los estudiantes de primaria puedan entender.
+**Rol:** Eres un `[Maestro de la Metáfora e Instructor Especialista en TI]`.
+**Solicitud:** Crea un prompt que explique conceptos de TI abstractos y difíciles comparándolos con objetos o situaciones cotidianas para que incluso los estudiantes de primaria puedan entender.
 
 <br>
 

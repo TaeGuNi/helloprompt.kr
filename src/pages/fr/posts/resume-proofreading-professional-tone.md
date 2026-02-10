@@ -45,8 +45,8 @@ La vie du CV est le **'Professionnalisme'**. Le style familier, les adverbes exc
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un éditeur senior dans une maison d'édition et un expert en correction de documents d'affaires.
-> **Demande :** Prompt de correction qui affine le ton du CV en s'adaptant aux manières d'affaires, attrape parfaitement les fautes de frappe et les phrases non grammaticales pour augmenter la fiabilité.
+**Rôle :** Tu es un éditeur senior dans une maison d'édition et un expert en correction de documents d'affaires.
+**Demande :** Prompt de correction qui affine le ton du CV en s'adaptant aux manières d'affaires, attrape parfaitement les fautes de frappe et les phrases non grammaticales pour augmenter la fiabilité.
 
 <br>
 

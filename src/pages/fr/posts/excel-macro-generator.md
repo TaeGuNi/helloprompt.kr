@@ -11,15 +11,15 @@ tags: ["Excel", "Automatisation", "VBA", "Astuces Travail"]
 
 # 📊 "Hé, tu peux résumer ça dans Excel ?" (Bien sûr, donne-moi 30 secondes.)
 
-> **🎯 Idéal pour :** Débutants Excel, Employés de bureau fatigués des tâches répétitives
-> **⏱️ Temps gagné :** 1 heure (Manuel) → 30 secondes (Automatisé)
-> **🤖 Modèle recommandé :** ChatGPT (GPT-4), Claude 3.5 Sonnet
+**🎯 Idéal pour :** Débutants Excel, Employés de bureau fatigués des tâches répétitives
+**⏱️ Temps gagné :** 1 heure (Manuel) → 30 secondes (Automatisé)
+**🤖 Modèle recommandé :** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Difficulté | Efficacité | Polyvalence |
 | :--------: | :--------: | :---------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐  |
 
-> _"Excel n'est pas une calculatrice. C'est un **outil de programmation**. (Mais c'est l'IA qui code.)"_
+_"Excel n'est pas une calculatrice. C'est un **outil de programmation**. (Mais c'est l'IA qui code.)"_
 
 RECHERCHEV, Tableaux croisés dynamiques, Mise en forme conditionnelle... Vous les cherchez sur Google à chaque fois ?
 Dites juste : "Compare la colonne A et B, et surligne les différences en rouge." L'IA écrira la formule pour vous.
@@ -40,11 +40,11 @@ Dites juste : "Compare la colonne A et B, et surligne les différences en rouge.
 
 Utilisez ceci pour des calculs rapides.
 
-> **Rôle :** Tu es un expert Excel.
-> **Tâche :** Donne-moi une formule Excel pour obtenir `[Résultat Souhaité]` à partir des données ci-dessous.
-> **Exemple de Données :**
->
-> - Col A : Nom / Col B : Score / Col C : Réussi/Échoué
+**Rôle :** Tu es un expert Excel.
+**Tâche :** Donne-moi une formule Excel pour obtenir `[Résultat Souhaité]` à partir des données ci-dessous.
+**Exemple de Données :**
+
+- Col A : Nom / Col B : Score / Col C : Réussi/Échoué
 
 <br>
 

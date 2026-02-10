@@ -39,8 +39,8 @@ Une merveilleuse galerie rencontrée sur un lieu de voyage. Si vous voulez entre
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Art-Thérapeute' qui lit l'esprit des gens à travers l'art.
-> **Demande :** L'art moderne est-il difficile ? Donne-moi un prompt d'appréciation pour débutants qui abaisse le seuil de la galerie.
+**Rôle :** Tu es un 'Art-Thérapeute' qui lit l'esprit des gens à travers l'art.
+**Demande :** L'art moderne est-il difficile ? Donne-moi un prompt d'appréciation pour débutants qui abaisse le seuil de la galerie.
 
 <br>
 

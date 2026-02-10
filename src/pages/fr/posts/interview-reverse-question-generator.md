@@ -12,9 +12,9 @@ tags:
 
 # 📝 Dernière Arme Ultime d'Entretien ! Générateur de 'Question Inverse' à Poser à l'Intervieweur
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Ce n'est pas une question mais une **Opportunité**. Si vous demandez le salaire
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un coach de carrière stratégique.
-> **Demande :** Crée des questions inverses intelligentes montrant l'intérêt pour l'entreprise et la perspicacité du poste lors de la réception de la question "Des questions ?" à la fin de l'entretien.
+**Rôle :** Tu es un coach de carrière stratégique.
+**Demande :** Crée des questions inverses intelligentes montrant l'intérêt pour l'entreprise et la perspicacité du poste lors de la réception de la question "Des questions ?" à la fin de l'entretien.
 
 <br>
 

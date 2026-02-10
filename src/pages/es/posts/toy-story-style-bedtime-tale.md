@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¿Están vivos los muñecos de nuestra casa? Operación 'Toy Story'
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

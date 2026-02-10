@@ -11,9 +11,9 @@ tags: ["Regex", "Expression Régulière", "Productivité Dév"]
 
 # 📝 Cauchemar Regex, maintenant confiez-le à l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les expressions régulières (Regex) sont essentielles pour les développeurs, m
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Développeur Senior]`.
-> **Demande :** Crée un prompt qui génère du code pour des expressions régulières cryptiques simplement en expliquant le motif.
+**Rôle :** Tu es un `[Développeur Senior]`.
+**Demande :** Crée un prompt qui génère du code pour des expressions régulières cryptiques simplement en expliquant le motif.
 
 <br>
 

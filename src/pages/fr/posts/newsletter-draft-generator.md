@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Rédiger une Newsletter Qui Appelle les Abonnés
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les newsletters ou bulletins internes qui doivent être publiés régulièrement
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Éditeur de Newsletter Sensible.
-> **Demande :** Lance juste un sujet et il crée le titre, le corps et la curation instantanément.
+**Rôle :** Tu es un Éditeur de Newsletter Sensible.
+**Demande :** Lance juste un sujet et il crée le titre, le corps et la curation instantanément.
 
 <br>
 

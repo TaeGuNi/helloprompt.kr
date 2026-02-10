@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Redigindo um Boletim Informativo Que Chama Assinantes
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Boletins informativos ou boletins internos que precisam ser publicados regularme
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Editor de Boletim Informativo Sensato.
-> **Solicitação:** Apenas jogue um tópico e ele cria título, corpo e curadoria instantaneamente.
+**Papel:** Você é um Editor de Boletim Informativo Sensato.
+**Solicitação:** Apenas jogue um tópico e ele cria título, corpo e curadoria instantaneamente.
 
 <br>
 

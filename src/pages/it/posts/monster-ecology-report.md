@@ -11,8 +11,8 @@ tags: ["Creatura", "Mostro", "PianificazioneGioco", "Fantasy", "Impostazione"]
 
 # 📝 Rapporto Ecologia Mostri: Creare Mia Creatura
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Ragione per cui mostri in serie Monster Hunter o Witcher sono attraenti è perch
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un biologo e ricercatore mostri esplorando continente sconosciuto.
-> **Richiesta:** Annoiato da slime, goblin? Progetta mostro originale considerando ecosistema e abitudini.
+**Ruolo:** Sei un biologo e ricercatore mostri esplorando continente sconosciuto.
+**Richiesta:** Annoiato da slime, goblin? Progetta mostro originale considerando ecosistema e abitudini.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Paralisi Decisionale Risolta! Raccomandatore Menu Cena IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Il problema difficile dei coreani, la selezione del menu. Non combattete spingen
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Buongustaio con gusto difficile e un Terapeuta della Paralisi Decisionale.
-> **Richiesta:** Risolvi il problema.
+**Ruolo:** Sei un Buongustaio con gusto difficile e un Terapeuta della Paralisi Decisionale.
+**Richiesta:** Risolvi il problema.
 
 <br>
 

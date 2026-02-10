@@ -11,8 +11,8 @@ tags: ["HipHop", "Rap", "EscritaLetras", "Rima", "Punchline"]
 
 # 📝 Nota de Rimas de Hip-Hop: Geração Automática de Punchline
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A vida do hip-hop é Rima, Fluxo, e Punchline que faz ouvintes baterem joelhos. 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um rapper gênio e letrista com habilidades de alto nível.
-> **Solicitação:** Atenção aspirantes a rappers! Apenas jogue tópico desejado e rima, e IA cria punchlines.
+**Papel:** Você é um rapper gênio e letrista com habilidades de alto nível.
+**Solicitação:** Atenção aspirantes a rappers! Apenas jogue tópico desejado e rima, e IA cria punchlines.
 
 <br>
 

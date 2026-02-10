@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Éclairage", "Atmosphère"]
 
 # 📝 Faisceaux Lumineux Mystérieux : Éclairage Volumétrique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le phénomène où la lumière se disperse sur l'humidité ou la poussière dans
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Implémentez des faisceaux lumineux mystérieux brillant même sur la poussière dans l'air, Rayons de Dieu, avec des prompts.
+**Rôle :** Tu es un expert.
+**Demande :** Implémentez des faisceaux lumineux mystérieux brillant même sur la poussière dans l'air, Rayons de Dieu, avec des prompts.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Library with windows, sunlight.`
 
-> (Résultat : Juste une bibliothèque lumineuse, les faisceaux lumineux ne sont pas visibles)
+(Résultat : Juste une bibliothèque lumineuse, les faisceaux lumineux ne sont pas visibles)
 
 ### ✅ Après (Résultat)
 
 Prompt `Volumetric lighting` appliqué
 
-> (Résultat : Piliers de lumière distincts se déversant des fenêtres, atmosphère mystérieuse sentant la texture de l'air)
+(Résultat : Piliers de lumière distincts se déversant des fenêtres, atmosphère mystérieuse sentant la texture de l'air)
 
 ---
 

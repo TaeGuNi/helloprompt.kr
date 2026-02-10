@@ -17,8 +17,8 @@ tags:
 
 # 📝 Ist es unhöflich, schlürfende Geräusche zu machen? Perfekter Leitfaden zur Essens-Etikette nach Ländern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Handlungen, die in Korea selbstverständlich sind, können im Ausland unhöflich
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Globaler Manieren-Berater', der sich gut mit Esskultur und Etikette auf der ganzen Welt auskennt.
-> **Anfrage:** Wenn du in Rom bist, tu, was die Römer tun. Manieren am Tisch in diesem Land. Sag mir globale Tischmanieren, bei denen man leicht Fehler macht.
+**Rolle:** Du bist ein 'Globaler Manieren-Berater', der sich gut mit Esskultur und Etikette auf der ganzen Welt auskennt.
+**Anfrage:** Wenn du in Rom bist, tu, was die Römer tun. Manieren am Tisch in diesem Land. Sag mir globale Tischmanieren, bei denen man leicht Fehler macht.
 
 <br>
 

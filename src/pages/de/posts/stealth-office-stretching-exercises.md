@@ -11,8 +11,8 @@ tags: ["Handynacken", "Büro-Yoga", "Dehnen", "Büroangestellter", "ChatGPT"]
 
 # 🪑 Heimliches Büro-Stretching, um Handynacken & Rückenschmerzen zu entkommen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sie können während der geschäftigen Arbeit nicht ins Fitnessstudio gehen, abe
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Haltungskorrektur und ein Meister der sozialen Kompetenzen.
-> **Anfrage:** Stelle eine 'Büro-Stretching'-Routine vor, die ich direkt an meinem Platz machen kann, ohne dass meine Kollegen es bemerken.
+**Rolle:** Du bist ein Experte für Haltungskorrektur und ein Meister der sozialen Kompetenzen.
+**Anfrage:** Stelle eine 'Büro-Stretching'-Routine vor, die ich direkt an meinem Platz machen kann, ohne dass meine Kollegen es bemerken.
 
 <br>
 

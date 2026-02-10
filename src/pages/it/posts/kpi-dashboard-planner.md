@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Pianificare una Dashboard KPI Visibile a Colpo d'Occhio
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Voglio visualizzare i dati, ma è difficile decidere quali Indicatori Chiave di 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Designer UI/UX e Analista Dati.
-> **Richiesta:** Quali indicatori dovrei guardare? Raccomanda componenti e layout dashboard.
+**Ruolo:** Sei un Designer UI/UX e Analista Dati.
+**Richiesta:** Quali indicatori dovrei guardare? Raccomanda componenti e layout dashboard.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["YouTube", "Shorts", "Guion", "Creador", "TikTok"]
 
 # 🎬 Fábrica de YouTube Shorts: Guion + Visuales en 30 Segundos
 
-> **🎯 Recomendado para:** YouTubers sin ideas para subir a diario, Empleados con canal de Shorts secundario
-> **⏱️ Tiempo Requerido:** 30 segundos
+**🎯 Recomendado para:** YouTubers sin ideas para subir a diario, Empleados con canal de Shorts secundario
+**⏱️ Tiempo Requerido:** 30 segundos
 
 - **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido e Ingenioso)
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Shorts", "Guion", "Creador", "TikTok"]
 | :--------: | :---------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... ¿qué grabo mañana? Cuándo escribo el guion..."_
+_"Ah... ¿qué grabo mañana? Cuándo escribo el guion..."_
 
 El núcleo del formato corto (Shorts/Reels/TikTok) es la **'Consistencia'** y los **'Primeros 3 Segundos'**. Pero exprimir ideas virales a diario no es humanamente posible. Ahora, inyectemos la **'Fórmula Viral'** en la IA y construyamos una fábrica que imprima guiones solo con respirar.
 
@@ -40,9 +40,9 @@ El núcleo del formato corto (Shorts/Reels/TikTok) es la **'Consistencia'** y lo
 
 Cuando tienes cero ideas.
 
-> **Rol:** Eres un YouTuber con 1M de suscriptores.
-> **Tema:** `[Trucos para Vivir Solo]`
-> **Petición:** Dame 5 ideas de Shorts picantes y frescas que la gente no pueda saltar. Incluye Título y Primera Frase (Hook).
+**Rol:** Eres un YouTuber con 1M de suscriptores.
+**Tema:** `[Trucos para Vivir Solo]`
+**Petición:** Dame 5 ideas de Shorts picantes y frescas que la gente no pueda saltar. Incluye Título y Primera Frase (Hook).
 
 <br>
 
@@ -80,19 +80,19 @@ Un guion perfecto listo para leer en cámara.
 
 ### ❌ Antes (Solo escribiendo)
 
-> Hola a todos~ Hoy presentaré buenos artículos en Ikea. El primero es... (Los espectadores se fueron 👋)
+Hola a todos~ Hoy presentaré buenos artículos en Ikea. El primero es... (Los espectadores se fueron 👋)
 
 ### ✅ Después (Fábrica IA)
 
-> **[0~3s]**
->
-> - **Visual:** Arrugando un recibo y tirándolo al suelo.
-> - **Audio:** "¿Sigues gastando dinero en Ikea? ¡El personal usa secretamente estas 3 joyas reales! Solo toma estas."
->
-> **[4~15s]**
->
-> - **Visual:** Primer plano del Producto A.
-> - **Audio:** "Primero, [Nombre Producto]. ¿Sabes que esto se agota en todas partes? Si lo ves..."
+**[0~3s]**
+
+- **Visual:** Arrugando un recibo y tirándolo al suelo.
+- **Audio:** "¿Sigues gastando dinero en Ikea? ¡El personal usa secretamente estas 3 joyas reales! Solo toma estas."
+
+**[4~15s]**
+
+- **Visual:** Primer plano del Producto A.
+- **Audio:** "Primero, [Nombre Producto]. ¿Sabes que esto se agota en todas partes? Si lo ves..."
 
 ---
 

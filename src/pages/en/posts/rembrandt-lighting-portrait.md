@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 
 # 📝 Touch of a Master: Rembrandt Lighting
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Face of an old man.`
 
-> (Result: Plain and flat face frontal shot)
+(Result: Plain and flat face frontal shot)
 
 ### ✅ After (Result)
 
 `Rembrandt lighting` prompt applied
 
-> (Result: Artistic portrait where one side of the face is submerged in darkness, light falls on the opposite cheek, and the depth of each wrinkle is felt)
+(Result: Artistic portrait where one side of the face is submerged in darkness, light falls on the opposite cheek, and the depth of each wrinkle is felt)
 
 ---
 

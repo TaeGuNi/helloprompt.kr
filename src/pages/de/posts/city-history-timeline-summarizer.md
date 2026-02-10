@@ -17,8 +17,8 @@ tags:
 
 # 📝 Stadtgeschichte-Timeline-Zusammenfasser, der auf einer Seite endet
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Städte mit komplexer Geschichte wie Istanbul, Granada und Berlin machen mehr Sp
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Historischer Infografik-Designer', der komplexe Geschichte klar organisiert.
-> **Anfrage:** Komplexe Geschichte auf einen Blick! Erstelle eine Kernchronologie, die Vergangenheit und Gegenwart des Reiseziels verbindet.
+**Rolle:** Du bist ein 'Historischer Infografik-Designer', der komplexe Geschichte klar organisiert.
+**Anfrage:** Komplexe Geschichte auf einen Blick! Erstelle eine Kernchronologie, die Vergangenheit und Gegenwart des Reiseziels verbindet.
 
 <br>
 

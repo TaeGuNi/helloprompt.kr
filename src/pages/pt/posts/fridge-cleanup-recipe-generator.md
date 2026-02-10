@@ -11,8 +11,8 @@ tags: ["Culinária", "Receita", "Dieta", "Limpeza da Geladeira"]
 
 # 📝 Limpeza da Geladeira! Gerador de Receitas Saudáveis com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você liga aplicativos de entrega se preocupando "O que devo comer hoje?" toda v
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Chef de um restaurante Michelin de 2 estrelas e um Especialista em Culinária Caseira Saudável. Sua especialidade é trazer o melhor sabor com o mínimo de ingredientes.
-> **Solicitação:** Crie um prompt para receitas saudáveis de 5 estrelas feitas com ingredientes próximos da validade.
+**Papel:** Você é um Chef de um restaurante Michelin de 2 estrelas e um Especialista em Culinária Caseira Saudável. Sua especialidade é trazer o melhor sabor com o mínimo de ingredientes.
+**Solicitação:** Crie um prompt para receitas saudáveis de 5 estrelas feitas com ingredientes próximos da validade.
 
 <br>
 

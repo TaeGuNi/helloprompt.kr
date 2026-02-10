@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Farbe"]
 
 # 📝 Zukünftige Nacht: Cyberpunk Neon
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der **Cyberpunk**-Stil ist zu einer visuellen Sprache über ein einfaches Genre 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Cyberpunk-Stil Neon-Beleuchtungs-Prompt mit intensivem Kontrast von Pink und Blau.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Cyberpunk-Stil Neon-Beleuchtungs-Prompt mit intensivem Kontrast von Pink und Blau.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Future city night, motorcycle.`
 
-> (Ergebnis: Nur eine dunkle Zukunftsstadt, der einzigartige Hip-Faktor fehlt)
+(Ergebnis: Nur eine dunkle Zukunftsstadt, der einzigartige Hip-Faktor fehlt)
 
 ### ✅ Nachher (Ergebnis)
 
 `Cyberpunk neon` Prompt angewendet
 
-> (Ergebnis: Sinnliches Kunstwerk, das überall in fluoreszierendes Licht getaucht ist, mit Neon, das brillant auf dem nassen Boden reflektiert)
+(Ergebnis: Sinnliches Kunstwerk, das überall in fluoreszierendes Licht getaucht ist, mit Neon, das brillant auf dem nassen Boden reflektiert)
 
 ---
 

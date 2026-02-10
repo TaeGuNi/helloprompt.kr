@@ -11,8 +11,8 @@ tags: ["EstudioCodificación", "RevisiónCódigo", "Python", "JavaScript"]
 
 # 📝 ¿Qué Significa Este Código? Explicador de Código Amigable
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El misterio eterno de un desarrollador. ¿Si copiaste código de Stack Overflow 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Mentor Desarrollador Senior Amigable]`.
-> **Solicitud:** Crea un prompt amigable para principiantes que agregue comentarios línea por línea para explicar código complejo escrito por otros.
+**Rol:** Eres un `[Mentor Desarrollador Senior Amigable]`.
+**Solicitud:** Crea un prompt amigable para principiantes que agregue comentarios línea por línea para explicar código complejo escrito por otros.
 
 <br>
 

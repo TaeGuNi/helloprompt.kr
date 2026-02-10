@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 
 # 📝 Compulsive Symmetry: Symmetrical Composition
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Hotel lobby pink.`
 
-> (Result: General hotel lobby photo, compositions are all over the place)
+(Result: General hotel lobby photo, compositions are all over the place)
 
 ### ✅ After (Result)
 
 `Symmetrical composition` prompt applied
 
-> (Result: Artwork of perfect symmetry as if a mirror was applied, with the same number of flower pots on the left and right)
+(Result: Artwork of perfect symmetry as if a mirror was applied, with the same number of flower pots on the left and right)
 
 ---
 

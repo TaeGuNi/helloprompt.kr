@@ -12,8 +12,8 @@ tags:
 
 # 📝 Esplosione di Chacchiere con i Bambini delle Elementari! Distributore Automatico di Domande del 'Gioco dell'Equilibrio'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ I bambini aprono la bocca se la 'domanda' è divertente. Invece di domande ovvie
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno scrittore di intrattenimento umoristico ed esperto di psicologia infantile.
-> **Richiesta:** Fornisci un generatore di domande stravaganti per il gioco dell'equilibrio che faccia parlare per primi i bambini delle elementari.
+**Ruolo:** Sei uno scrittore di intrattenimento umoristico ed esperto di psicologia infantile.
+**Richiesta:** Fornisci un generatore di domande stravaganti per il gioco dell'equilibrio che faccia parlare per primi i bambini delle elementari.
 
 <br>
 

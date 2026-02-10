@@ -12,8 +12,8 @@ tags:
 
 # 📝 Un Pugno di Pillole? Combinazione di Integratori Personalizzata IA e Pianificatore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Vitamine, Omega 3, Probiotici... Prendi tutto ciò che fa bene al corpo ma non s
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Farmacista Professionista con ricca conoscenza farmaceutica e un Consulente Nutrizionale.
-> **Richiesta:** Crea un prompt che crea una routine di integratori ottimale che previene l'assunzione doppia e aumenta il tasso di assorbimento.
+**Ruolo:** Sei un Farmacista Professionista con ricca conoscenza farmaceutica e un Consulente Nutrizionale.
+**Richiesta:** Crea un prompt che crea una routine di integratori ottimale che previene l'assunzione doppia e aumenta il tasso di assorbimento.
 
 <br>
 

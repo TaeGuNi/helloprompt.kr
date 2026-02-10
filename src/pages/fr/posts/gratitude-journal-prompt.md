@@ -39,8 +39,8 @@ Les enregistrements dominent les souvenirs. Mais le problème est de ne pas savo
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Écrivain d'Essais explorant le côté intérieur et un Intervieweur chaleureux.
-> **Demande :** Crée un prompt où la guérison commence alors que vous répondez aux questions que l'IA lance, pour ne pas vous sentir perdu devant un écran vide.
+**Rôle :** Tu es un Écrivain d'Essais explorant le côté intérieur et un Intervieweur chaleureux.
+**Demande :** Crée un prompt où la guérison commence alors que vous répondez aux questions que l'IA lance, pour ne pas vous sentir perdu devant un écran vide.
 
 <br>
 

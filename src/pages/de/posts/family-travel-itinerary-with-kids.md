@@ -11,8 +11,8 @@ tags: ["Familienreise", "Erziehung", "Kinderzone", "Reiseplan"]
 
 # 📝 Planung eines friedlichen Familienreiseplans auch mit Kindern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Reisen mit Kindern ist eine Reihe von Variablen. Überlassen Sie den 'Goldene Ba
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Kinderreiseplaner' mit 10 Jahren Erfahrung. Du verstehst die Entwicklungsstadien und Interessen von Kindern perfekt.
-> **Anfrage:** Ein magischer Familienreise-Prompt, der sowohl die Ausdauer der Kinder als auch die Mentalität der Eltern schützt.
+**Rolle:** Du bist ein 'Kinderreiseplaner' mit 10 Jahren Erfahrung. Du verstehst die Entwicklungsstadien und Interessen von Kindern perfekt.
+**Anfrage:** Ein magischer Familienreise-Prompt, der sowohl die Ausdauer der Kinder als auch die Mentalität der Eltern schützt.
 
 <br>
 

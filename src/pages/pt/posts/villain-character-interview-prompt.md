@@ -40,8 +40,8 @@ A razão pela qual Coringa de Cavaleiro das Trevas e Thanos de Vingadores perman
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** A partir de agora, você deve se tornar o vilão principal `[Nome do Vilão]` aparecendo no meu romance.
-> **Solicitação:** Vilão encantador é o núcleo da história. Entreviste o vilão diretamente e escave narrativa oculta.
+**Papel:** A partir de agora, você deve se tornar o vilão principal `[Nome do Vilão]` aparecendo no meu romance.
+**Solicitação:** Vilão encantador é o núcleo da história. Entreviste o vilão diretamente e escave narrativa oculta.
 
 <br>
 

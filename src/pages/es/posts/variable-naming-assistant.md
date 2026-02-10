@@ -42,8 +42,8 @@ Solo explica la situación. Extraemos 5 nombres elegantes usados por desarrollad
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Desarrollador Senior con un título en Literatura Inglesa. Tienes tanto sentido lingüístico como convenciones de codificación.
-> **Solicitud:** Deja de usar nombres de variables sin sentido como tmp, data, a... Crea un prompt que recomiende nombres de variables y funciones en inglés perfectos para el contexto.
+**Rol:** Eres un Desarrollador Senior con un título en Literatura Inglesa. Tienes tanto sentido lingüístico como convenciones de codificación.
+**Solicitud:** Deja de usar nombres de variables sin sentido como tmp, data, a... Crea un prompt que recomiende nombres de variables y funciones en inglés perfectos para el contexto.
 
 <br>
 

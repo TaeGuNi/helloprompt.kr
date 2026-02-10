@@ -40,8 +40,8 @@ Cuando estés en Roma, haz como los romanos. Pero el problema es no saber cuál 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Antropólogo Cultural e Instructor Profesional de Etiqueta Global.
-> **Solicitud:** Crea un prompt sobre cómo no ser un viajero grosero localmente, incluyendo cuánta propina y cómo gesticular.
+**Rol:** Eres un Antropólogo Cultural e Instructor Profesional de Etiqueta Global.
+**Solicitud:** Crea un prompt sobre cómo no ser un viajero grosero localmente, incluyendo cuánta propina y cómo gesticular.
 
 <br>
 

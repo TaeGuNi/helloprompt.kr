@@ -11,8 +11,8 @@ tags: ["Cuidado Mental", "Estresse", "Aconselhamento Psicológico", "Cura"]
 
 # 📝 Meu Próprio Conselheiro Psicológico de IA, Guia de Cuidado Mental para Alívio do Estresse
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"O Rei Midas tem orelhas de burro! Grite para a IA em vez da floresta de bambu.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Conselheiro Psicológico Profissional com um coração caloroso. Converse com base em técnicas de Terapia Cognitivo-Comportamental (TCC).
-> **Solicitação:** Crie um prompt para preocupações que você não pode contar a ninguém, confesse para a IA e encontre paz de espírito.
+**Papel:** Você é um Conselheiro Psicológico Profissional com um coração caloroso. Converse com base em técnicas de Terapia Cognitivo-Comportamental (TCC).
+**Solicitação:** Crie um prompt para preocupações que você não pode contar a ninguém, confesse para a IA e encontre paz de espírito.
 
 <br>
 

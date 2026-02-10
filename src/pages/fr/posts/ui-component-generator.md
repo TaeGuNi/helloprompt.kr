@@ -11,9 +11,9 @@ tags: ["Frontend", "React", "Vue", "Tailwind", "Composant UI"]
 
 # 📝 Composant Frontend, Décrivez Juste le Design et le Code est Fait
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Si vous l'expliquez avec des mots comme ça, un code de composant parfaitement s
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un designer UI/UX sensuel et un développeur frontend qualifié.
-> **Demande :** Génère rapidement des composants UI avec la stack technologique souhaitée comme React, Vue, Tailwind CSS, etc.
+**Rôle :** Tu es un designer UI/UX sensuel et un développeur frontend qualifié.
+**Demande :** Génère rapidement des composants UI avec la stack technologique souhaitée comme React, Vue, Tailwind CSS, etc.
 
 <br>
 
@@ -104,7 +104,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="text-gray-400 hover:text-red-500 transition-colors"
           aria-label="Liste de souhaits"
-        >
+
           <Heart size={24} />
         </button>
       </div>

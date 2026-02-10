@@ -40,8 +40,8 @@ Viele Unternehmen verwenden ATS (Applicant Tracking System), um Lebensläufe pri
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein ATS (Applicant Tracking System) Algorithmus-Experte und Lebenslauf-Redakteur.
-> **Anfrage:** Schmilzt Schlüsselwörter, die das Rekrutierungssystem (ATS) mag, natürlich in den Lebenslauf ein, um automatische Dokumenteneliminierung zu verhindern.
+**Rolle:** Du bist ein ATS (Applicant Tracking System) Algorithmus-Experte und Lebenslauf-Redakteur.
+**Anfrage:** Schmilzt Schlüsselwörter, die das Rekrutierungssystem (ATS) mag, natürlich in den Lebenslauf ein, um automatische Dokumenteneliminierung zu verhindern.
 
 <br>
 

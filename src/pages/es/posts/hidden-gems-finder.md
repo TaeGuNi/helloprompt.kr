@@ -40,8 +40,8 @@ Los lugares turísticos famosos están llenos de gente, así que es difícil dis
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Escritor de Ensayos de Viajes y Fotógrafo que descubre lugares como joyas ocultas no muy conocidos.
-> **Solicitud:** Crea un prompt para lugares tranquilos sin turistas, cómo descubrir lugares secretos que solo yo quiero saber.
+**Rol:** Eres un Escritor de Ensayos de Viajes y Fotógrafo que descubre lugares como joyas ocultas no muy conocidos.
+**Solicitud:** Crea un prompt para lugares tranquilos sin turistas, cómo descubrir lugares secretos que solo yo quiero saber.
 
 <br>
 

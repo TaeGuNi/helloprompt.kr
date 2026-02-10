@@ -11,8 +11,8 @@ tags: ["Notion", "NotionAI", "Aufgabenmanagement", "Produktivität", "GTD"]
 
 # 🧠 Notion KI-Sekretär: Tägliche To-Do-Sortierung & Auto-Planung
 
-> **🎯 Empfohlen für:** Leute, die bei zu vielen Aufgaben abschalten, Leute, deren Pläne nur auf dem Papier hübsch sind
-> **⏱️ Benötigte Zeit:** 1 Min
+**🎯 Empfohlen für:** Leute, die bei zu vielen Aufgaben abschalten, Leute, deren Pläne nur auf dem Papier hübsch sind
+**⏱️ Benötigte Zeit:** 1 Min
 
 - **🤖 Empfohlenes Modell:** Notion AI (Bezahlt aber mächtig) oder ChatGPT (Copy-Paste)
 
@@ -20,7 +20,7 @@ tags: ["Notion", "NotionAI", "Aufgabenmanagement", "Produktivität", "GTD"]
 | :-----------: | :----------: | :-------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-> _"Ah richtig, Wäsche... oh muss Chef mailen... warte, wann ist das Meeting heute?"_
+_"Ah richtig, Wäsche... oh muss Chef mailen... warte, wann ist das Meeting heute?"_
 
 Wenn dein Gehirn wie verheddertes Garn ist, fällt die Produktivität auf Null. Der Kern von **GTD (Getting Things Done)** ist **"Raus aus dem Kopf und aufschreiben"**. Einfach alles rauslassen. Notion KI wird es organisieren. Hier ist die 'Gedankenloses Planen'-Technik: Leere dein Gehirn, lagere an die KI aus.
 
@@ -40,16 +40,16 @@ Wenn dein Gehirn wie verheddertes Garn ist, fällt die Produktivität auf Null. 
 
 Nutzung der Notion KI-Funktion (`Leertaste`).
 
-> **Brain Dump (Eingabe):**
->
-> - Bericht schreiben
-> - Mama anrufen
-> - Zahnpasta kaufen
-> - Dev-Team Meeting Vorb.
-> - 15 Uhr Zahnarzt
->
-> **Prompt:**
-> "Klassifiziere oben Genanntes in **[Dringend/Wichtig]**, **[Hausarbeit]**, **[Arbeit]**, und schreibe als Checkliste in Ausführungsreihenfolge um."
+**Brain Dump (Eingabe):**
+
+- Bericht schreiben
+- Mama anrufen
+- Zahnpasta kaufen
+- Dev-Team Meeting Vorb.
+- 15 Uhr Zahnarzt
+
+**Prompt:**
+"Klassifiziere oben Genanntes in **[Dringend/Wichtig]**, **[Hausarbeit]**, **[Arbeit]**, und schreibe als Checkliste in Ausführungsreihenfolge um."
 
 <br>
 
@@ -84,25 +84,25 @@ Nutzung von ChatGPT für einen perfekten Tagesplan.
 
 ### ❌ Vorher (Chaos)
 
-> - Wäsche
-> - Projektvorschlag (Fällig morgen)
-> - Netflix schauen
->   (Ergebnis: Netflix geschaut, Wäsche gemacht, Nachtschicht für Vorschlag eingelegt 🐼)
+- Wäsche
+- Projektvorschlag (Fällig morgen)
+- Netflix schauen
+  (Ergebnis: Netflix geschaut, Wäsche gemacht, Nachtschicht für Vorschlag eingelegt 🐼)
 
 ### ✅ Nachher (KI-Sekretär)
 
-> **[🔥 Jetzt tun - Morgenfokus]**
->
-> - 09:00 ~ 11:00 Entwurf Projektvorschlag (Handy weglegen)
->
-> **[📅 Planen - Nach Mittag]**
->
-> - 13:00 ~ 13:30 Vorb. Dev-Team Meeting
->
-> **[🏠 Hausarbeit - Nach Arbeit]**
->
-> - 19:00 Wäsche
-> - 20:00 Zahnpasta kaufen (Schnelllieferung empfohlen)
+**[🔥 Jetzt tun - Morgenfokus]**
+
+- 09:00 ~ 11:00 Entwurf Projektvorschlag (Handy weglegen)
+
+**[📅 Planen - Nach Mittag]**
+
+- 13:00 ~ 13:30 Vorb. Dev-Team Meeting
+
+**[🏠 Hausarbeit - Nach Arbeit]**
+
+- 19:00 Wäsche
+- 20:00 Zahnpasta kaufen (Schnelllieferung empfohlen)
 
 ---
 

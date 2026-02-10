@@ -45,8 +45,8 @@ C'est un moment heureux mais qui donne mal à la tête. Ne vous laissez pas infl
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un stratège en négociation et un gestionnaire de carrière.
-> **Demande :** Compare les conditions lorsque je reçois des réponses positives de plusieurs entreprises et planifie une stratégie de 'bras de fer' (Contre-Offre) pour obtenir de meilleures conditions.
+**Rôle :** Tu es un stratège en négociation et un gestionnaire de carrière.
+**Demande :** Compare les conditions lorsque je reçois des réponses positives de plusieurs entreprises et planifie une stratégie de 'bras de fer' (Contre-Offre) pour obtenir de meilleures conditions.
 
 <br>
 

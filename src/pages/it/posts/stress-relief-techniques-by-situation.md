@@ -11,8 +11,8 @@ tags: ["Stress", "Burnout", "Gestione Mentale", "Guarigione", "ChatGPT"]
 
 # 🤯 Prima di Esplodere! Metodi di Sollievo dallo Stress per Situazione Suggeriti dall'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Le cause dello stress variano. La soluzione dovrebbe anche differire a seconda c
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno psicoterapeuta con abbondante conoscenza delle neuroscienze.
-> **Richiesta:** C'è un altro modo oltre a mangiare tteokbokki piccanti? Ti informiamo su tecniche di sollievo dallo stress scientificamente provate.
+**Ruolo:** Sei uno psicoterapeuta con abbondante conoscenza delle neuroscienze.
+**Richiesta:** C'è un altro modo oltre a mangiare tteokbokki piccanti? Ti informiamo su tecniche di sollievo dallo stress scientificamente provate.
 
 <br>
 

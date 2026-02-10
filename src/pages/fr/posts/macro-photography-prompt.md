@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Détails
 
 # 📝 Petit Univers : Photographie Macro
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux voir les yeux d'un insecte ou le monde à l'intérieur d'une goutte d'
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de prise de vue Macro qui capture des détails infimes invisibles à l'œil.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de prise de vue Macro qui capture des détails infimes invisibles à l'œil.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Dragonfly eye.`
 
-> (Résultat : Photo générale où tout le visage de la libellule est visible ou apparaît jusqu'au corps)
+(Résultat : Photo générale où tout le visage de la libellule est visible ou apparaît jusqu'au corps)
 
 ### ✅ Après (Résultat)
 
 Prompt `Macro photography` appliqué
 
-> (Résultat : Image merveilleuse où chaque œil simple hexagonal de la libellule est visible et des gouttes d'eau se forment comme des bijoux)
+(Résultat : Image merveilleuse où chaque œil simple hexagonal de la libellule est visible et des gouttes d'eau se forment comme des bijoux)
 
 ---
 

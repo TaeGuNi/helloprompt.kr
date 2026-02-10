@@ -12,8 +12,8 @@ tags:
 
 # 📝 Generatore Domande Previste 'Colloquio Tecnico' per Lavoro
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Il colloquio di personalità può essere coperto, ma il colloquio tecnico non pu
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto capo di 20 anni nel campo `[Nome Lavoro]`.
-> **Richiesta:** Estrai domande colloquio tecnico previste e risposte modello adattandosi perfettamente al mio lavoro e anni come sviluppatore, marketer, designer.
+**Ruolo:** Sei un esperto capo di 20 anni nel campo `[Nome Lavoro]`.
+**Richiesta:** Estrai domande colloquio tecnico previste e risposte modello adattandosi perfettamente al mio lavoro e anni come sviluppatore, marketer, designer.
 
 <br>
 

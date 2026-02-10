@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Resumindo Atas de Reunião Divagantes de Forma Organizada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Transcrições de reuniões ou registros de estenografia têm muitos coloquialis
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Estenógrafo Profissional e Gerente de Projetos.
-> **Solicitação:** Converteu o arquivo de gravação para texto, mas é muito longo? Crie um prompt de resumo que extraia apenas o núcleo.
+**Papel:** Você é um Estenógrafo Profissional e Gerente de Projetos.
+**Solicitação:** Converteu o arquivo de gravação para texto, mas é muito longo? Crie um prompt de resumo que extraia apenas o núcleo.
 
 <br>
 

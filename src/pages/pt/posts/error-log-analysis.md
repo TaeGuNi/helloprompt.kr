@@ -11,8 +11,8 @@ tags: ["Depuração", "Log de Erro", "Solução de Problemas"]
 
 # 📝 Log de Erro Desconhecido, Analise a Causa em 10 Segundos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Logs de servidor ou mensagens de erro de compilação são extremamente hostis. 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Engenharia de Sistemas]`.
-> **Solicitação:** Crie um prompt auxiliar de depuração que encontre a causa raiz em milhares de linhas de logs de erro e proponha soluções.
+**Papel:** Você é um `[Especialista em Engenharia de Sistemas]`.
+**Solicitação:** Crie um prompt auxiliar de depuração que encontre a causa raiz em milhares de linhas de logs de erro e proponha soluções.
 
 <br>
 

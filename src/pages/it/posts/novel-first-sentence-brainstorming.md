@@ -11,8 +11,8 @@ tags: ["Romanzo", "PrimaFrase", "Scrittura", "Intro", "Brainstorming"]
 
 # 📝 Brainstorming 10 Versioni Prima Frase Romanzo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Come "Il tunnel per il paese delle nevi era lungo." (Yasunari Kawabata, Paese de
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un autore bestseller che immerge i lettori nei primi 3 secondi.
-> **Richiesta:** Devi catturare i lettori nella prima frase. Ottieni raccomandazioni per 10 prime frasi con forte Gancio.
+**Ruolo:** Sei un autore bestseller che immerge i lettori nei primi 3 secondi.
+**Richiesta:** Devi catturare i lettori nella prima frase. Ottieni raccomandazioni per 10 prime frasi con forte Gancio.
 
 <br>
 

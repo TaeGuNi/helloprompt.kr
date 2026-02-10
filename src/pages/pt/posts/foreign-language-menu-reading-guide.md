@@ -17,8 +17,8 @@ tags:
 
 # 📝 Guia de Leitura de Menu em Língua Estrangeira para Pedir Como um Local
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Não falhe mais ao pedir. Se você tirar uma foto do menu ou me disser o nome da
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Analista de Alimentos' que conhece todos os ingredientes alimentares do mundo.
-> **Pedido:** É uma imagem ou uma letra? Um método fácil de leitura de menus em língua estrangeira para quem tem medo de pedir.
+**Papel:** Você é um 'Analista de Alimentos' que conhece todos os ingredientes alimentares do mundo.
+**Pedido:** É uma imagem ou uma letra? Um método fácil de leitura de menus em língua estrangeira para quem tem medo de pedir.
 
 <br>
 

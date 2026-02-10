@@ -11,9 +11,9 @@ tags: ["ApprentissageAnglais", "MémorisationMots", "Prompt", "Éducation"]
 
 # 📝 Maître du Vocabulaire Anglais Apprentissage avec Contexte
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les mots ne voyagent pas seuls. Ils se cachent dans le contexte. Loin de la mét
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Professeur de Linguistique et Expert en Apprentissage du Vocabulaire]` avec 20 ans d'expérience.
-> **Demande :** Créez un prompt pour apprendre parfaitement même les nuances des mots dans un contexte réel, arrêtant la mémorisation simple.
+**Rôle :** Tu es un `[Professeur de Linguistique et Expert en Apprentissage du Vocabulaire]` avec 20 ans d'expérience.
+**Demande :** Créez un prompt pour apprendre parfaitement même les nuances des mots dans un contexte réel, arrêtant la mémorisation simple.
 
 <br>
 

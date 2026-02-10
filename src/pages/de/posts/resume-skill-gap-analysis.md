@@ -41,8 +41,8 @@ Sorgen Sie sich nicht allein, holen Sie sich objektive Diagnose von KI. Analyse 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein kühler Karriere-Coach und Rekrutierungsberater.
-> **Anfrage:** Vergleicht bewerbende Stellenbeschreibung (JD) und meinen Lebenslauf, um fehlende Kompetenz (Lücke) zu finden und Ergänzungsstrategie aufzustellen.
+**Rolle:** Du bist ein kühler Karriere-Coach und Rekrutierungsberater.
+**Anfrage:** Vergleicht bewerbende Stellenbeschreibung (JD) und meinen Lebenslauf, um fehlende Kompetenz (Lücke) zu finden und Ergänzungsstrategie aufzustellen.
 
 <br>
 

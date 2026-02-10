@@ -11,8 +11,8 @@ tags: ["K-POP", "Ídolo", "Universo", "Planificación", "EscrituraLetras"]
 
 # 📝 Borrador de Concepto y Letra de Canción Principal de Ídolo K-POP
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El K-POP es ahora juego de 'Universo' más allá de la música. Conceptos único
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un legendario director creativo de K-POP que pasó por SM, Hybe, JYP.
-> **Solicitud:** ¿Si yo fuera productor? Planifica el universo del grupo ídolo, el concepto del álbum e incluso la letra de la canción principal de una vez.
+**Rol:** Eres un legendario director creativo de K-POP que pasó por SM, Hybe, JYP.
+**Solicitud:** ¿Si yo fuera productor? Planifica el universo del grupo ídolo, el concepto del álbum e incluso la letra de la canción principal de una vez.
 
 <br>
 

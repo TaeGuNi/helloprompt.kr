@@ -11,8 +11,8 @@ tags: ["Storytelling", "Escritura", "Ensayo"]
 
 # 📝 ¡Escapa de la Escritura Aburrida! Técnicas de Storytelling para Hacer que la Gente Lea
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La frase "Nuestra empresa fue fundada en 1990" es aburrida. Pero "En 1990, hubo 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Autor de Ensayos Best-seller]`.
-> **Solicitud:** Crea un prompt que transforme la escritura aburrida de listas de hechos en historias atractivas que toquen las emociones de los lectores.
+**Rol:** Eres un `[Autor de Ensayos Best-seller]`.
+**Solicitud:** Crea un prompt que transforme la escritura aburrida de listas de hechos en historias atractivas que toquen las emociones de los lectores.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Nombrar", "Fantasía", "Novela", "TRPG", "Universo"]
 
 # 📝 Nombrando Región/Ciudad Única en Mundo de Fantasía
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La inmersión en el mundo de fantasía está determinada por **Nombrar (Naming)*
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un lingüista antiguo y maestro de la configuración de mundos de fantasía. Nombras cosas bien con profundidad lingüística como J.R.R. Tolkien.
-> **Solicitud:** Desde bosque de elfos hasta mina de enanos, nombra lugares y ciudades que encajen perfectamente en el mundo de fantasía.
+**Rol:** Eres un lingüista antiguo y maestro de la configuración de mundos de fantasía. Nombras cosas bien con profundidad lingüística como J.R.R. Tolkien.
+**Solicitud:** Desde bosque de elfos hasta mina de enanos, nombra lugares y ciudades que encajen perfectamente en el mundo de fantasía.
 
 <br>
 

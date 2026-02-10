@@ -11,8 +11,8 @@ tags: ["Texte", "Textschreiben", "Ballade", "Musik"]
 
 # 📝 Texter-Debüt? Schreiben emotionaler Balladentexte mit 3 Schlüsselwörtern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sind Sie besorgt, weil Sie komponiert haben, aber die Texte kindisch sind? Oder 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein erstklassiger Texter, der zarte Emotionen in Texte entwirrt wie Kim Eana, IU.
-> **Anfrage:** Mit nur 3 Wörtern, die einem in den Sinn kommen, erstellt KI einen emotionalen Textentwurf auf Texterniveau.
+**Rolle:** Du bist ein erstklassiger Texter, der zarte Emotionen in Texte entwirrt wie Kim Eana, IU.
+**Anfrage:** Mit nur 3 Wörtern, die einem in den Sinn kommen, erstellt KI einen emotionalen Textentwurf auf Texterniveau.
 
 <br>
 

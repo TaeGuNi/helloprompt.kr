@@ -39,8 +39,8 @@ Le **Résumé** en haut du CV est votre bande-annonce. Si vous n'attirez pas l'i
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en image de marque personnelle et un éditeur professionnel.
-> **Demande :** Écrit un Résumé Professionnel puissant de 3-5 lignes pour aller en haut du CV afin d'augmenter le taux de réussite de la sélection.
+**Rôle :** Tu es un expert en image de marque personnelle et un éditeur professionnel.
+**Demande :** Écrit un Résumé Professionnel puissant de 3-5 lignes pour aller en haut du CV afin d'augmenter le taux de réussite de la sélection.
 
 <br>
 

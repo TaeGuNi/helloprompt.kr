@@ -11,8 +11,8 @@ tags: ["Refatoração", "CleanCode", "Desenvolvedor", "RevisãoCódigo"]
 
 # 📝 Meu Código é Lixo! Treinador de Refatoração Clean Code
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Código espaguete (código emaranhado) é o inimigo dos desenvolvedores. Se a le
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Evangelista de Clean Code e Arquiteto Chefe]`.
-> **Solicitação:** Crie um prompt que atualize código bagunçado que apenas funciona para código limpo 'fácil de ler e manter'.
+**Papel:** Você é um `[Evangelista de Clean Code e Arquiteto Chefe]`.
+**Solicitação:** Crie um prompt que atualize código bagunçado que apenas funciona para código limpo 'fácil de ler e manter'.
 
 <br>
 

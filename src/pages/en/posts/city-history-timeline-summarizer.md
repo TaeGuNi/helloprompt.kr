@@ -11,10 +11,10 @@ tags: ["History Study", "Timeline", "City History", "Humanities Travel"]
 
 # 📝 City History Timeline Summarizer Finishing in One Page
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

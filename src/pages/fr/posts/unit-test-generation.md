@@ -11,9 +11,9 @@ tags: ["Code de Test", "TDD", "Jest", "JUnit"]
 
 # 📝 Trop paresseux pour écrire du code de test ? L'IA le fera pour vous
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les Tests Unitaires sont essentiels pour des services stables, mais les écrire 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Responsable Ingénierie QA]`.
-> **Demande :** Crée un prompt qui génère automatiquement des codes de Test Unitaire fastidieux en considérant même les cas limites.
+**Rôle :** Tu es un `[Responsable Ingénierie QA]`.
+**Demande :** Crée un prompt qui génère automatiquement des codes de Test Unitaire fastidieux en considérant même les cas limites.
 
 <br>
 

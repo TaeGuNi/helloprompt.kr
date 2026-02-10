@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Renforcer le Cœur d'un Enfant Avant de Demander 'Es-tu Harcelé ?'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Blâmer inconditionnellement l'ami ou prendre uniquement le parti de l'enfant n'
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en développement social des enfants.
-> **Demande :** Fournis un coaching de sociabilité pour les enfants blessés dans leurs relations avec leurs pairs.
+**Rôle :** Tu es un expert en développement social des enfants.
+**Demande :** Fournis un coaching de sociabilité pour les enfants blessés dans leurs relations avec leurs pairs.
 
 <br>
 

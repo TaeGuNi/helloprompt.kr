@@ -11,8 +11,8 @@ tags: ["Schreiben", "Gewohnheit", "Herausforderung", "Selbstentwicklung"]
 
 # 📝 Tägliche Schreibherausforderung: Auto-Generiere 30-Tage-Schreibthemenkalender
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Schwerste beim Schreiben ist nicht 'Akt des Schreibens', sondern 'entscheide
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Schreibcoach und Inhaltskurator.
-> **Anfrage:** Möchten Sie Schreibgewohnheit aufbauen? KI plant 30-Tage-Schreibthemen (Fragen), die auf Ihre Interessen zugeschnitten sind.
+**Rolle:** Du bist ein Schreibcoach und Inhaltskurator.
+**Anfrage:** Möchten Sie Schreibgewohnheit aufbauen? KI plant 30-Tage-Schreibthemen (Fragen), die auf Ihre Interessen zugeschnitten sind.
 
 <br>
 

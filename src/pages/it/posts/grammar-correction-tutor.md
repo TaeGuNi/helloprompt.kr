@@ -11,8 +11,8 @@ tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 
 # 📝 Perché la Mia Grammatica è Sbagliata? Insegnante di Correzione 1:1
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ I correttori ortografici lanciano solo risultati. "Questo è sbagliato, cambialo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Tutor Professionale di Correzione Scrittura Inglese]` meticoloso e gentile.
-> **Richiesta:** Crea un prompt tutor IA che spiega il principio del 'Perché' era sbagliato oltre a semplicemente correggerlo.
+**Ruolo:** Sei un `[Tutor Professionale di Correzione Scrittura Inglese]` meticoloso e gentile.
+**Richiesta:** Crea un prompt tutor IA che spiega il principio del 'Perché' era sbagliato oltre a semplicemente correggerlo.
 
 <br>
 

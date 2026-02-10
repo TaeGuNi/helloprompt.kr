@@ -11,8 +11,8 @@ tags: ["Actas", "Whisper", "ChatGPT", "Automatización", "Productividad"]
 
 # 📝 Escapa del Infierno de las Reuniones: Grabación a Actas + Email en 3 Min
 
-> **🎯 Recomendado para:** Juniors a quienes les duelen las muñecas de escribir, Jefes que preguntan "¿Qué decidimos?"
-> **⏱️ Tiempo Requerido:** 3 min (excluyendo tiempo de grabación)
+**🎯 Recomendado para:** Juniors a quienes les duelen las muñecas de escribir, Jefes que preguntan "¿Qué decidimos?"
+**⏱️ Tiempo Requerido:** 3 min (excluyendo tiempo de grabación)
 
 - **🤖 Modelo Recomendado:** OpenAI Whisper (Transcripción) + ChatGPT-4o (Resumen)
 
@@ -20,7 +20,7 @@ tags: ["Actas", "Whisper", "ChatGPT", "Automatización", "Productividad"]
 | :--------: | :---------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Escribí todo durante la reunión, pero perdí mi oportunidad de hablar... y ahora no recuerdo nada al organizar notas... ¿Cuánto tiempo tengo que hacer esto?"_
+_"Escribí todo durante la reunión, pero perdí mi oportunidad de hablar... y ahora no recuerdo nada al organizar notas... ¿Cuánto tiempo tengo que hacer esto?"_
 
 Deja de escribir. Solo **'Participa'** en la reunión. La IA hace el registro mejor. Aquí tienes un proceso para terminar **Grabación → Transcripción → Resumen → Envío de Email** usando solo herramientas gratuitas.
 
@@ -40,9 +40,9 @@ Deja de escribir. Solo **'Participa'** en la reunión. La IA hace el registro me
 
 Cuando solo necesitas lo esencial.
 
-> **Rol:** Eres un secretario competente.
-> **Petición:** Lee el guion de la reunión a continuación y resúmelo en 3 secciones: [Agenda / Decisiones / Planes Futuros].
-> **Guion:** `[Pega el texto aquí]`
+**Rol:** Eres un secretario competente.
+**Petición:** Lee el guion de la reunión a continuación y resúmelo en 3 secciones: [Agenda / Decisiones / Planes Futuros].
+**Guion:** `[Pega el texto aquí]`
 
 <br>
 
@@ -83,21 +83,21 @@ Cuando necesitas reportar al jefe o enviar email al equipo.
 
 ### ❌ Antes (Escrito por Humano)
 
-> Resumen de hoy. El equipo de marketing hará 3 borradores de banners, el equipo de desarrollo integración API para esta semana... Ah espera, ¿qué hacía el equipo de diseño?
+Resumen de hoy. El equipo de marketing hará 3 borradores de banners, el equipo de desarrollo integración API para esta semana... Ah espera, ¿qué hacía el equipo de diseño?
 
 ### ✅ Después (Automatización IA)
 
-> **[Action Items]**
->
-> | Responsable    | Tarea                        | Fecha Límite |
-> | :------------- | :--------------------------- | :----------- |
-> | **Mark (Mkt)** | Crear 3 Borradores de Banner | 2026-02-10   |
-> | **Lee (Dev)**  | Test API Módulo de Pago      | 2026-02-12   |
-> | **Park (Des)** | Revisar Borrador Guía UX     | 2026-02-11   |
->
-> **[Borrador de Email]**
-> Asunto: [Compartir] Resultados y Action Items de la Reunión Semanal 2/8
-> Hola Equipo, Comparto los resultados de la reunión de hoy... (cont.)
+**[Action Items]**
+
+| Responsable    | Tarea                        | Fecha Límite |
+| :------------- | :--------------------------- | :----------- |
+| **Mark (Mkt)** | Crear 3 Borradores de Banner | 2026-02-10   |
+| **Lee (Dev)**  | Test API Módulo de Pago      | 2026-02-12   |
+| **Park (Des)** | Revisar Borrador Guía UX     | 2026-02-11   |
+
+**[Borrador de Email]**
+Asunto: [Compartir] Resultados y Action Items de la Reunión Semanal 2/8
+Hola Equipo, Comparto los resultados de la reunión de hoy... (cont.)
 
 ---
 

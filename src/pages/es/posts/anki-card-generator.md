@@ -11,8 +11,8 @@ tags: ["Memorización", "TarjetaDidáctica", "Anki", "Quizlet"]
 
 # 📝 En Lugar de Copiar con Dolor de Muñeca: Generador Automático de Tarjetas de Memorización
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las aplicaciones de tarjetas didácticas (Anki etc.) son las mejores herramienta
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Procesamiento de Material de Aprendizaje]`.
-> **Solicitud:** Convierte texto largo o notas de lectura en pares de tarjetas didácticas (P&R) que se puedan poner en Anki, Quizlet, etc.
+**Rol:** Eres un `[Experto en Procesamiento de Material de Aprendizaje]`.
+**Solicitud:** Convierte texto largo o notas de lectura en pares de tarjetas didácticas (P&R) que se puedan poner en Anki, Quizlet, etc.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["MetodoMemorizzazione", "Mnemonica", "MetodoStudio", "Prompt"]
 
 # 📝 Formule Immemmorabili, Tatuaggio sul Cervello
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il cervello umano odia elencare numeri e simboli senza significato. Invece, gli 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Genio Mnemonico e Scrittore Umoristico]`.
-> **Richiesta:** Crea un prompt che mi faccia non dimenticare mai formule matematiche e scientifiche complesse con storytelling e Mnemonica.
+**Ruolo:** Sei un `[Genio Mnemonico e Scrittore Umoristico]`.
+**Richiesta:** Crea un prompt che mi faccia non dimenticare mai formule matematiche e scientifiche complesse con storytelling e Mnemonica.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Gioco", "Oggetto", "TRPG", "Pianificazione", "Fantasy"]
 
 # 📝 Enciclopedia Oggetti Gioco: Armi Leggendarie e Accessori Maledetti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Non è troppo noioso? Un grande oggetto è una storia in sé. Creiamo oggetti at
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un perito e fabbro esperto in antiche reliquie e strumenti magici.
-> **Richiesta:** Semplice 'Spada +1' è noioso. Crea oggetti unici con narrativa viva e trucco.
+**Ruolo:** Sei un perito e fabbro esperto in antiche reliquie e strumenti magici.
+**Richiesta:** Semplice 'Spada +1' è noioso. Crea oggetti unici con narrativa viva e trucco.
 
 <br>
 

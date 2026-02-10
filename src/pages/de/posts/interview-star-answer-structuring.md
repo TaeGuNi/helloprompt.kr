@@ -40,8 +40,8 @@ Grund für die meisten Interviewmisserfolge ist **'Inkohärenz'**. Erklären Sie
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Redecoach und Interviewberater.
-> **Anfrage:** Für diejenigen, die lange reden und den Punkt verfehlen, wenn sie Fragen erhalten, bereinigt alle Erfahrungsfragen mit STAR (Situation-Task-Action-Result).
+**Rolle:** Du bist ein Redecoach und Interviewberater.
+**Anfrage:** Für diejenigen, die lange reden und den Punkt verfehlen, wenn sie Fragen erhalten, bereinigt alle Erfahrungsfragen mit STAR (Situation-Task-Action-Result).
 
 <br>
 

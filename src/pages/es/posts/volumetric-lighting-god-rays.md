@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Iluminación", "Atmósfera"]
 
 # 📝 Haces de Luz Misteriosos: Iluminación Volumétrica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El fenómeno donde la luz se dispersa en la humedad o el polvo en el aire y los 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Implementa misteriosos haces de luz que brillan incluso en el polvo del aire, rayos de Dios, con prompts.
+**Rol:** Eres un experto.
+**Solicitud:** Implementa misteriosos haces de luz que brillan incluso en el polvo del aire, rayos de Dios, con prompts.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Library with windows, sunlight.`
 
-> (Resultado: Solo una biblioteca brillante, los haces de luz no son visibles)
+(Resultado: Solo una biblioteca brillante, los haces de luz no son visibles)
 
 ### ✅ Después (Resultado)
 
 Prompt `Volumetric lighting` aplicado
 
-> (Resultado: Distintos pilares de luz que se derraman desde las ventanas, atmósfera misteriosa sintiendo la textura del aire)
+(Resultado: Distintos pilares de luz que se derraman desde las ventanas, atmósfera misteriosa sintiendo la textura del aire)
 
 ---
 

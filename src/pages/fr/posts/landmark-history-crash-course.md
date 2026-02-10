@@ -11,9 +11,9 @@ tags: ["Voyage Historique", "Humanités", "Monument", "Voyage de Connaissance"]
 
 # 📝 Cours Intensif d'Histoire des Monuments Terminé en 3 Minutes !
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Sans connaissances préalables, les sites historiques ne sont que de vieux bâti
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Auteur d'Histoire Best-seller' qui raconte l'histoire de manière très intéressante.
-> **Demande :** Le moment où une pierre devient une histoire vivante. Un guide IA qui ne sélectionne que les points clés sans explications difficiles.
+**Rôle :** Tu es un 'Auteur d'Histoire Best-seller' qui raconte l'histoire de manière très intéressante.
+**Demande :** Le moment où une pierre devient une histoire vivante. Un guide IA qui ne sélectionne que les points clés sans explications difficiles.
 
 <br>
 

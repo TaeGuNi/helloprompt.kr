@@ -38,7 +38,7 @@ Muchas personas buscan en la IA con consultas cortas como "Receta estofado kimch
 
 ### 🥉 Versión Básica
 
-> **Petición:** Dime cómo hacer un delicioso estofado de kimchi.
+**Petición:** Dime cómo hacer un delicioso estofado de kimchi.
 
 <br>
 
@@ -56,7 +56,7 @@ Lo que mejor hace la IA es el **'Procesamiento de Texto'**. Entrégale los texto
 
 ### 🥉 Versión Básica
 
-> **Petición:** Resume esto: (Pegar texto largo)
+**Petición:** Resume esto: (Pegar texto largo)
 
 <br>
 
@@ -80,7 +80,7 @@ Si le dices a la IA, **"Eres un [Rol]"**, se equipa con el conocimiento profesio
 
 ### 🥉 Versión Básica
 
-> **Petición:** Enséñame algunas funciones de Excel.
+**Petición:** Enséñame algunas funciones de Excel.
 
 <br>
 

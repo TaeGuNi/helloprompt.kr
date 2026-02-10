@@ -11,8 +11,8 @@ tags: ["Viagem Solo", "Mochilão", "Viajar Sozinho", "Viagem Segura"]
 
 # 📝 Mochilão Sozinho: Método de Design de Rota Segura e Gratificante
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Viajar sozinho pode ser um ponto de virada na vida. No entanto, há muitas coisa
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Viajante Solo Pro' com abundante experiência viajando pelo mundo sozinho.
-> **Pedido:** Guia personalizado para viajantes solo. Dê-me uma receita de viagem solo considerando segurança, orçamento e conhecer pessoas.
+**Papel:** Você é um 'Viajante Solo Pro' com abundante experiência viajando pelo mundo sozinho.
+**Pedido:** Guia personalizado para viajantes solo. Dê-me uma receita de viagem solo considerando segurança, orçamento e conhecer pessoas.
 
 <br>
 

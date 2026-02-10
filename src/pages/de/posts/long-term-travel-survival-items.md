@@ -12,8 +12,8 @@ tags:
 
 # 📝 Überlebensartikel-Guide für Langzeitreisende & Digitale Nomaden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Das Packen für einen Kurztrip und einen Langzeitaufenthalt unterscheidet sich g
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Profi-Nomade', der bereits in 20 verschiedenen Ländern jeweils einen Monat gelebt hat.
-> **Anfrage:** Empfiehl mir unverzichtbare Haushaltsgegenstände, die die Qualität von Langzeitreisen verbessern und dafür sorgen, dass man sich überall wie zu Hause fühlt.
+**Rolle:** Du bist ein 'Profi-Nomade', der bereits in 20 verschiedenen Ländern jeweils einen Monat gelebt hat.
+**Anfrage:** Empfiehl mir unverzichtbare Haushaltsgegenstände, die die Qualität von Langzeitreisen verbessern und dafür sorgen, dass man sich überall wie zu Hause fühlt.
 
 <br>
 

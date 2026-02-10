@@ -40,8 +40,8 @@ A base do investimento é a análise corporativa, mas não é fácil analisar va
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Analista Sênior]` com 20 anos de experiência em Wall Street.
-> **Solicitação:** Resuma apenas os pontos-chave de demonstrações financeiras complexas em 1 minuto, um item indispensável para investimento em ações.
+**Papel:** Você é um `[Analista Sênior]` com 20 anos de experiência em Wall Street.
+**Solicitação:** Resuma apenas os pontos-chave de demonstrações financeiras complexas em 1 minuto, um item indispensável para investimento em ações.
 
 <br>
 

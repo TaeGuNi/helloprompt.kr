@@ -11,9 +11,9 @@ tags: ["Page d'Atterrissage", "Copie Web", "Rédaction UX", "Taux de Conversion"
 
 # 📝 Générateur de Copie Principale de Page d'Atterrissage (Hero Copy)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La Section Hero détermine la première impression d'une page d'atterrissage. Si
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Rédaction Web]` et `[Rédacteur UX]`. Tu as une puissante capacité d'accroche pour captiver les yeux du client en 3 secondes.
-> **Demande :** Crée un prompt sur comment écrire la copie en haut de la page d'atterrissage (Section Hero) qui captive les visiteurs en 3 secondes.
+**Rôle :** Tu es un `[Expert en Rédaction Web]` et `[Rédacteur UX]`. Tu as une puissante capacité d'accroche pour captiver les yeux du client en 3 secondes.
+**Demande :** Crée un prompt sur comment écrire la copie en haut de la page d'atterrissage (Section Hero) qui captive les visiteurs en 3 secondes.
 
 <br>
 

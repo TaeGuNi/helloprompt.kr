@@ -11,9 +11,9 @@ tags: ["Voyage", "Emballage", "Liste de Contrôle", "Préparation"]
 
 # 📝 Vous ne Savez Pas Quoi Emporter ? Emballage Intelligent IA par Destination de Voyage
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Dilemme de l'emballage de voyage : Si vous emballez méticuleusement, il y a tro
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Voyageur Pro qui a parcouru le monde et un Maître de l'Emballage.
-> **Demande :** Crée un prompt qui donne une liste de contrôle impeccable tenant compte de la météo locale, de la culture et des activités.
+**Rôle :** Tu es un Voyageur Pro qui a parcouru le monde et un Maître de l'Emballage.
+**Demande :** Crée un prompt qui donne une liste de contrôle impeccable tenant compte de la météo locale, de la culture et des activités.
 
 <br>
 

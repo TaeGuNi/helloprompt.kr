@@ -40,8 +40,8 @@ La base de la inversión es el análisis corporativo, pero no es fácil revisar 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Analista Senior]` con 20 años de experiencia en Wall Street.
-> **Solicitud:** Resume solo los puntos clave de estados financieros complejos en 1 minuto, imprescindible para la inversión en acciones.
+**Rol:** Eres un `[Analista Senior]` con 20 años de experiencia en Wall Street.
+**Solicitud:** Resume solo los puntos clave de estados financieros complejos en 1 minuto, imprescindible para la inversión en acciones.
 
 <br>
 

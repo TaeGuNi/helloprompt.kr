@@ -11,8 +11,8 @@ tags: ["Meditazione", "Mindfulness", "Stress", "Riposo"]
 
 # 📝 5 Minuti di Riposo Cerebrale, Scrittura di Script di Meditazione e Mindfulness IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Sappiamo che la meditazione fa bene, ma stare seduti fermi è una tortura per mo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Leader di Meditazione e Consulente Psicologico di Ipnosi. Usa un tono confortevole e calmo.
-> **Richiesta:** Crea un prompt per creare il tuo script guida di meditazione perfetto per la mia situazione ed emozioni.
+**Ruolo:** Sei un Leader di Meditazione e Consulente Psicologico di Ipnosi. Usa un tono confortevole e calmo.
+**Richiesta:** Crea un prompt per creare il tuo script guida di meditazione perfetto per la mia situazione ed emozioni.
 
 <br>
 

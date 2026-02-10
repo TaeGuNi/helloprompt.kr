@@ -17,8 +17,8 @@ tags:
 
 # 📝 Guia de Itens de Sobrevivência para Viajantes de Longo Prazo e Nômades Digitais
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Fazer as malas para uma viagem curta e para uma estadia de longo prazo é comple
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Nômade Pro' que viveu um mês em 20 países diferentes.
-> **Pedido:** Recomende itens essenciais para a vida diária que melhorem a qualidade das viagens de longo prazo, fazendo com que qualquer lugar pareça casa.
+**Papel:** Você é um 'Nômade Pro' que viveu um mês em 20 países diferentes.
+**Pedido:** Recomende itens essenciais para a vida diária que melhorem a qualidade das viagens de longo prazo, fazendo com que qualquer lugar pareça casa.
 
 <br>
 

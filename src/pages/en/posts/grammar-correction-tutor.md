@@ -11,7 +11,7 @@ tags: ["EnglishGrammar", "WritingCorrection", "Prompt", "EmailWriting"]
 
 # 📝 Why is My Grammar Wrong? 1:1 Correction Teacher
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

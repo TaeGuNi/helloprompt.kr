@@ -11,8 +11,8 @@ tags: ["Salario", "Negociación", "Entrevista", "Roleplay", "Carrera"]
 
 # 🥊 Simulador de Negociación Salarial: Entrenando con un RRHH Malvado
 
-> **🎯 Recomendado para:** Pusilánimes que dicen "Aceptaré lo que sea" y se arrepienten luego, Personas buscando trabajo
-> **⏱️ Tiempo Requerido:** 10 mins (Batalla Simulada)
+**🎯 Recomendado para:** Pusilánimes que dicen "Aceptaré lo que sea" y se arrepienten luego, Personas buscando trabajo
+**⏱️ Tiempo Requerido:** 10 mins (Batalla Simulada)
 
 - **🤖 Modelo Recomendado:** ChatGPT-4o (Modo Voz Altamente Recomendado)
 
@@ -20,8 +20,8 @@ tags: ["Salario", "Negociación", "Entrevista", "Roleplay", "Carrera"]
 | :--------: | :---------: | :-------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-> _"¿Cuál es tu expectativa salarial?"_
-> _"Eh... bueno... sigo las reglas de la empresa..."_
+_"¿Cuál es tu expectativa salarial?"_
+_"Eh... bueno... sigo las reglas de la empresa..."_
 
 Si dudas en la mesa, pierdes. ¿Pero con quién practicar? Los amigos se ríen, y los espejos son incómodos. Ahora, **poseamos a la IA en un Gerente de RRHH Tacaño** y entrenemos como si fuera real. Sé golpeado virtualmente para no ser golpeado en la realidad.
 
@@ -41,9 +41,9 @@ Si dudas en la mesa, pierdes. ¿Pero con quién practicar? Los amigos se ríen, 
 
 Para refinar tu lógica.
 
-> **Rol:** Eres un gerente de RRHH tacaño tratando de ahorrar presupuesto.
-> **Contexto:** Soy un Marketer con 3 años de exp, salario anterior $40k. Quiero $50k.
-> **Petición:** Cuando pida 50k, refútame lógicamente. Sé muy exigente. Déjame sin palabras.
+**Rol:** Eres un gerente de RRHH tacaño tratando de ahorrar presupuesto.
+**Contexto:** Soy un Marketer con 3 años de exp, salario anterior $40k. Quiero $50k.
+**Petición:** Cuando pida 50k, refútame lógicamente. Sé muy exigente. Déjame sin palabras.
 
 <br>
 
@@ -78,16 +78,16 @@ Enciende el **Modo Voz (Icono de Auriculares)** de la App ChatGPT. Esto es lo re
 
 ### ❌ Antes (Sin Preparación)
 
-> **RRHH:** "50k es difícil debido a problemas de equidad..."
-> **Yo:** "Ah... okay... entonces 45k...?"
-> (Resultado: Salario Congelado 📉)
+**RRHH:** "50k es difícil debido a problemas de equidad..."
+**Yo:** "Ah... okay... entonces 45k...?"
+(Resultado: Salario Congelado 📉)
 
 ### ✅ Después (Peleé con la IA 10 veces)
 
-> **RRHH:** "50k es difícil debido a problemas de equidad..."
-> **Yo:** "Entiendo completamente. Sin embargo, considerando que aumenté los ingresos un 20% en mi último proyecto, esta cifra es una inversión razonable comparada con el promedio del mercado. Si el salario base es una carga, ¿podemos discutir un Bono de Firma o Stock Options?"
-> **RRHH:** (Ojos temblando) "...Déjame chequear con el Director."
-> (Resultado: Aumento del 20% 📈)
+**RRHH:** "50k es difícil debido a problemas de equidad..."
+**Yo:** "Entiendo completamente. Sin embargo, considerando que aumenté los ingresos un 20% en mi último proyecto, esta cifra es una inversión razonable comparada con el promedio del mercado. Si el salario base es una carga, ¿podemos discutir un Bono de Firma o Stock Options?"
+**RRHH:** (Ojos temblando) "...Déjame chequear con el Director."
+(Resultado: Aumento del 20% 📈)
 
 ---
 

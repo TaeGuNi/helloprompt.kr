@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Sind unsere Hauspuppen lebendig? 'Toy Story'-Operation
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

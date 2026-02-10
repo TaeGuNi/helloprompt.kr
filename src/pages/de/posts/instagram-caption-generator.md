@@ -11,8 +11,8 @@ tags: ["Instagram", "SNS-Marketing", "Copywriting", "Soziale Medien"]
 
 # 📝 Instagram-Bildunterschrift-Generator, der nach Likes ruft
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sie haben ein tolles Foto gemacht, wissen aber nicht, was Sie in den Text schrei
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Instagram-Influencer]` und `[SNS-Copywriter]`. Du hast Schreibfähigkeiten, die die Empathie der Menschen wecken.
-> **Anfrage:** Wenn ich das Foto ausgewählt habe, aber den Text nicht schreiben kann, erstelle einen Prompt, der automatisch Bildunterschriften voller Emotionen und Hashtags generiert.
+**Rolle:** Du bist ein `[Instagram-Influencer]` und `[SNS-Copywriter]`. Du hast Schreibfähigkeiten, die die Empathie der Menschen wecken.
+**Anfrage:** Wenn ich das Foto ausgewählt habe, aber den Text nicht schreiben kann, erstelle einen Prompt, der automatisch Bildunterschriften voller Emotionen und Hashtags generiert.
 
 <br>
 

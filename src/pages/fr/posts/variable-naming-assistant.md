@@ -41,8 +41,8 @@ Expliquez simplement la situation. Nous extrayons 5 noms élégants utilisés pa
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Développeur Senior avec un diplôme en Littérature Anglaise. Tu as à la fois le sens linguistique et les conventions de codage.
-> **Demande :** Arrête d'utiliser des noms de variables sans signification comme tmp, data, a... Crée un prompt qui recommande des noms de variables et de fonctions en anglais parfaits pour le contexte.
+**Rôle :** Tu es un Développeur Senior avec un diplôme en Littérature Anglaise. Tu as à la fois le sens linguistique et les conventions de codage.
+**Demande :** Arrête d'utiliser des noms de variables sans signification comme tmp, data, a... Crée un prompt qui recommande des noms de variables et de fonctions en anglais parfaits pour le contexte.
 
 <br>
 

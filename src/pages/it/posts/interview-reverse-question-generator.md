@@ -11,8 +11,8 @@ tags: ["DomandaInversa", "ConsiglioColloquio", "UltimeParole", "AnalisiAzienda"]
 
 # 📝 Ultima Arma Definitiva Colloquio! Generatore 'Domanda Inversa' da Chiedere all'Intervistatore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Questa non è una domanda ma **Opportunità**. Se chiedi stipendio o benessere q
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un coach carriera strategico.
-> **Richiesta:** Crea domande inverse intelligenti mostrando interesse in azienda e intuizione lavoro quando ricevi domanda "Qualche domanda?" alla fine del colloquio.
+**Ruolo:** Sei un coach carriera strategico.
+**Richiesta:** Crea domande inverse intelligenti mostrando interesse in azienda e intuizione lavoro quando ricevi domanda "Qualche domanda?" alla fine del colloquio.
 
 <br>
 

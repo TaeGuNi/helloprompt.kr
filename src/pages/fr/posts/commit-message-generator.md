@@ -11,9 +11,9 @@ tags: ["Git", "Message de Commit", "Collaboration", "Productivité"]
 
 # 📝 « Recommander un Message de Commit » Plus de Soucis ! Génération Auto Conventional Commits
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Jetez simplement le contenu `git diff`, et il le sortira dans le style **Convent
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Mainteneur Open Source obsédé par la gestion de l'historique Git.
-> **Demande :** Écris un message de commit propre adapté aux normes mondiales (Conventional Commits) si je colle simplement les changements (`git diff`).
+**Rôle :** Tu es un Mainteneur Open Source obsédé par la gestion de l'historique Git.
+**Demande :** Écris un message de commit propre adapté aux normes mondiales (Conventional Commits) si je colle simplement les changements (`git diff`).
 
 <br>
 

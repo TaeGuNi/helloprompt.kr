@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Lista de Preguntas de Entrevista, la IA Elige Por Ti
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Si entras a una entrevista sin preparación, terminas haciendo solo preguntas si
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Entrevistador para el Equipo de RRHH de una Gran Corporación.
-> **Solicitud:** Crea un generador de preguntas de entrevista agudas que penetran las capacidades del solicitante.
+**Rol:** Eres un Entrevistador para el Equipo de RRHH de una Gran Corporación.
+**Solicitud:** Crea un generador de preguntas de entrevista agudas que penetran las capacidades del solicitante.
 
 <br>
 

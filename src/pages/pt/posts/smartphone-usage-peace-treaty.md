@@ -18,8 +18,8 @@ tags:
 
 # 📝 Guerra do YouTube Acabou! 'Contrato de Uso de Mídia' com a Criança
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

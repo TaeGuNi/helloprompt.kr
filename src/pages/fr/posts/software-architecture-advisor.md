@@ -48,8 +48,8 @@ Commandez un dessin de conception (architecture) parfait pour la nature de votre
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Architecte Logiciel en Chef en charge de la conception de systèmes à grande échelle.
-> **Demande :** Crée un prompt qui conçoit une architecture logicielle optimale comme MVC, Clean Architecture, MSA lorsque vous saisissez l'échelle du projet et les exigences.
+**Rôle :** Tu es un Architecte Logiciel en Chef en charge de la conception de systèmes à grande échelle.
+**Demande :** Crée un prompt qui conçoit une architecture logicielle optimale comme MVC, Clean Architecture, MSA lorsque vous saisissez l'échelle du projet et les exigences.
 
 <br>
 

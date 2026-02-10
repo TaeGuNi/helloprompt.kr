@@ -18,8 +18,8 @@ tags:
 
 # 📝 Qual é a Complexidade de Tempo (Big O) do Meu Código?
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -49,8 +49,8 @@ Se você mostrar o código à IA, ela o analisa com precisão com a notação Bi
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Professor de Ciência da Computação (CS) e especialista em otimização de algoritmos.
-> **Solicitação:** Analise a complexidade de tempo e a complexidade de espaço do algoritmo escrito e encontre pontos de melhoria de desempenho.
+**Papel:** Você é um Professor de Ciência da Computação (CS) e especialista em otimização de algoritmos.
+**Solicitação:** Analise a complexidade de tempo e a complexidade de espaço do algoritmo escrito e encontre pontos de melhoria de desempenho.
 
 <br>
 

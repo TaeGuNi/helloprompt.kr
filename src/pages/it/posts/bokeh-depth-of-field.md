@@ -40,8 +40,8 @@ _"Voglio il protagonista chiaro, e lo sfondo sognantemente spazzato via."_
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt che fa risaltare il soggetto sfocando lo sfondo e crea sfere di luce emozionali (Bokeh).
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt che fa risaltare il soggetto sfocando lo sfondo e crea sfere di luce emozionali (Bokeh).
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Musician in street night.`
 
-> (Risultato: Foto distraente dove anche le lettere delle insegne sullo sfondo sono visibili, disperdendo lo sguardo)
+(Risultato: Foto distraente dove anche le lettere delle insegne sullo sfondo sono visibili, disperdendo lo sguardo)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Bokeh` applicato
 
-> (Risultato: Scatto emozionale dove le insegne al neon sullo sfondo si trasformano in bellissime sfere di luce, e l'attenzione è completamente focalizzata sull'espressione del musicista)
+(Risultato: Scatto emozionale dove le insegne al neon sullo sfondo si trasformano in bellissime sfere di luce, e l'attenzione è completamente focalizzata sull'espressione del musicista)
 
 ---
 

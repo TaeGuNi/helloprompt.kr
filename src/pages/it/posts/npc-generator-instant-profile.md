@@ -11,8 +11,8 @@ tags: ["TRPG", "NPC", "Personaggio", "Romanzo", "Impostazione"]
 
 # 📝 Generatore NPC Istantaneo: Creare Personaggi Vivaci
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ I giocatori sono sempre interessati agli NPC che il master non ha preparato. Se 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un attore veterano e scrittore che ha vissuto migliaia di vite.
-> **Richiesta:** Non farti prendere dal panico se i giocatori parlano improvvisamente con qualcuno. Crea un NPC con personalità, tono e segreto in 10 secondi.
+**Ruolo:** Sei un attore veterano e scrittore che ha vissuto migliaia di vite.
+**Richiesta:** Non farti prendere dal panico se i giocatori parlano improvvisamente con qualcuno. Crea un NPC con personalità, tono e segreto in 10 secondi.
 
 <br>
 

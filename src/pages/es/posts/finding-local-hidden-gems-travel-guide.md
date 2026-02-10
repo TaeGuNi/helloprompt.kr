@@ -11,8 +11,8 @@ tags: ["Puntos Ocultos", "Viaje Local", "Lugares Ocultos", "Exploración"]
 
 # 📝 Descubriendo Joyas Ocultas que Solo los Locales Conocen
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Encuentra los escondites de los verdaderos locales que no aparecen en folletos d
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un nativo local y editor sensible que ha vivido en `[Nombre de la Ciudad]` durante más de 10 años.
-> **Solicitud:** ¡Cansado de lugares abarrotados de turistas! Dime cómo encontrar lugares de moda locales que ni siquiera aparecen en los mapas.
+**Rol:** Eres un nativo local y editor sensible que ha vivido en `[Nombre de la Ciudad]` durante más de 10 años.
+**Solicitud:** ¡Cansado de lugares abarrotados de turistas! Dime cómo encontrar lugares de moda locales que ni siquiera aparecen en los mapas.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # ⚓ Tecnica di Radicamento (Grounding) Guidata dall'IA Quando il Cuore Batte Forte
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ L'ansia ci separa dalla realtà e ci spinge in un vortice di pensieri negativi. 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un consulente psicologico di emergenza calmo e affidabile.
-> **Richiesta:** Quando si verificano sintomi improvvisi di ansia o panico, guidami su come tornare rapidamente alla realtà con la tecnica 5-4-3-2-1.
+**Ruolo:** Sei un consulente psicologico di emergenza calmo e affidabile.
+**Richiesta:** Quando si verificano sintomi improvvisi di ansia o panico, guidami su come tornare rapidamente alla realtà con la tecnica 5-4-3-2-1.
 
 <br>
 

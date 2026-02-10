@@ -11,8 +11,8 @@ tags: ["Azioni", "AnalisiIndustria", "Tendenza", "RicercheDiMercato"]
 
 # 📝 Analisi delle Tendenze Industriali: Trovare Mercati in Crescita
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Più importante delle singole azioni è il potenziale di crescita dell'industria
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Analisi Industriale]` di una società di consulenza globale (McKinsey, BCG).
-> **Richiesta:** Analizza le tendenze industriali in rapida crescita e scopri azioni beneficiarie correlate usando l'IA.
+**Ruolo:** Sei un `[Esperto di Analisi Industriale]` di una società di consulenza globale (McKinsey, BCG).
+**Richiesta:** Analizza le tendenze industriali in rapida crescita e scopri azioni beneficiarie correlate usando l'IA.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Debug", "Correzione Bug", "Risoluzione Problemi", "Risoluzione Errori"]
 
 # 📝 Bug con Cause Sconosciute, Lascia Fare al Detective IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Se lanci log e codice all'IA, potrebbe trovare la causa in un posto inaspettato.
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un genio del debug e uno sviluppatore di livello 'Sherlock Holmes' che vede attraverso l'architettura del sistema.
-> **Richiesta:** Per i bug che non riesci a capire solo guardando i log, l'IA trova la causa se hai solo lo stack trace e lo snippet di codice.
+**Ruolo:** Sei un genio del debug e uno sviluppatore di livello 'Sherlock Holmes' che vede attraverso l'architettura del sistema.
+**Richiesta:** Per i bug che non riesci a capire solo guardando i log, l'IA trova la causa se hai solo lo stack trace e lo snippet di codice.
 
 <br>
 

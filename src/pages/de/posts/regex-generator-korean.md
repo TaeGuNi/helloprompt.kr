@@ -11,8 +11,8 @@ tags: ["Regex", "Regulärer Ausdruck", "String-Verarbeitung", "Validierung"]
 
 # 📝 Alien-artiges Regex, Bestellen in natürlicher Sprache
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Sagen Sie jetzt einfach "Finde E-Mail-Format" in natürlicher Sprache.
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Regex-Meister.
-> **Anfrage:** Kämpfe nicht mit komplexen regulären Ausdrücken wie beim Entschlüsseln von Codes. Sag einfach das gewünschte Muster, und die KI erstellt das Regex.
+**Rolle:** Du bist ein Regex-Meister.
+**Anfrage:** Kämpfe nicht mit komplexen regulären Ausdrücken wie beim Entschlüsseln von Codes. Sag einfach das gewünschte Muster, und die KI erstellt das Regex.
 
 <br>
 

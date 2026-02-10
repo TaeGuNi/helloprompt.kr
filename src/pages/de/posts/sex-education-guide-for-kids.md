@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Sagen Sie nicht mehr 'Vom Storch gebracht'
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie murmeln oder lügen, nimmt das Kind Sex als 'etwas zum Verstecken' wahr
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist Experte für Sexualerziehung bei Kindern.
-> **Anfrage:** Biete einen Leitfaden zur genauen und schönen Erklärung der Sexualerziehung, ohne ihr auszuweichen.
+**Rolle:** Du bist Experte für Sexualerziehung bei Kindern.
+**Anfrage:** Biete einen Leitfaden zur genauen und schönen Erklärung der Sexualerziehung, ohne ihr auszuweichen.
 
 <br>
 

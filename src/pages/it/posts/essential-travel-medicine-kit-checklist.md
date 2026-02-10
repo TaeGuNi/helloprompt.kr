@@ -46,8 +46,8 @@ Niente è più triste che essere malati in una terra straniera. Prepara un affid
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un farmacista specializzato in medicina dei viaggi.
-> **Richiesta:** Non vagare alla ricerca di una farmacia locale. Dimmi come configurare kit di pronto soccorso essenziali e kit di emergenza per situazione/sintomo.
+**Ruolo:** Sei un farmacista specializzato in medicina dei viaggi.
+**Richiesta:** Non vagare alla ricerca di una farmacia locale. Dimmi come configurare kit di pronto soccorso essenziali e kit di emergenza per situazione/sintomo.
 
 <br>
 

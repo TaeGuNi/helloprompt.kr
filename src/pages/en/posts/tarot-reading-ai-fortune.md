@@ -11,7 +11,7 @@ tags: ["Tarot", "Fortune", "Divination", "Counseling", "Pastime"]
 
 # 📝 Tarot Card Reading: Today's Fortune AI Predicts
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

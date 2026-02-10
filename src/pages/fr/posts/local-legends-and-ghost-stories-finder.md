@@ -18,9 +18,9 @@ tags:
 
 # 📝 Trouver des Légendes & Histoires de Fantômes Effrayantes et Mystérieuses Connues Seulement des Locaux
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Chaque endroit a une légende. Les histoires étranges que l'on ne trouve pas da
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Chercheur de Mystère' qui collectionne des histoires étranges et des légendes urbaines du monde entier.
-> **Demande :** Un dragon vivait dans ce lac ? Double le plaisir du voyage avec des contes populaires et des légendes liés aux destinations de voyage.
+**Rôle :** Tu es un 'Chercheur de Mystère' qui collectionne des histoires étranges et des légendes urbaines du monde entier.
+**Demande :** Un dragon vivait dans ce lac ? Double le plaisir du voyage avec des contes populaires et des légendes liés aux destinations de voyage.
 
 <br>
 

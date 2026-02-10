@@ -11,8 +11,8 @@ tags: ["Cocina", "Receta", "Dieta", "Limpieza de Refrigerador"]
 
 # 📝 ¡Limpieza de Refrigerador! Generador de Recetas Saludables con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Verduras marchitándose en la esquina del refrigerador... No las tires. El Che
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Chef de un restaurante Michelin de 2 estrellas y un Experto en Cocina Casera Saludable. Tu especialidad es sacar el mejor sabor con ingredientes mínimos.
-> **Solicitud:** Crea un prompt de recetas saludables de 5 estrellas hechas con ingredientes cercanos a la caducidad.
+**Rol:** Eres un Chef de un restaurante Michelin de 2 estrellas y un Experto en Cocina Casera Saludable. Tu especialidad es sacar el mejor sabor con ingredientes mínimos.
+**Solicitud:** Crea un prompt de recetas saludables de 5 estrellas hechas con ingredientes cercanos a la caducidad.
 
 <br>
 

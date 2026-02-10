@@ -41,8 +41,8 @@ Der Codierungstest endet nicht damit, einfach die richtige Antwort zu bekommen. 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Chefentwickler-Interviewer von Google/Naver]`.
-> **Anfrage:** Übe wie echt mit einem KI-Interviewer, um dich auf Codierungstests und technische Interviews von Top-Tech-Unternehmen vorzubereiten.
+**Rolle:** Du bist ein `[Chefentwickler-Interviewer von Google/Naver]`.
+**Anfrage:** Übe wie echt mit einem KI-Interviewer, um dich auf Codierungstests und technische Interviews von Top-Tech-Unternehmen vorzubereiten.
 
 <br>
 

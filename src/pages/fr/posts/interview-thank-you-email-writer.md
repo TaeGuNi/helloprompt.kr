@@ -12,9 +12,9 @@ tags:
 
 # 📝 Golden Time de l'Entretien ! Rédacteur d' 'Email de Remerciement' à Envoyer Immédiatement Après
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Un 'Email de Remerciement' envoyé dans les 24 heures suivant l'entretien n'est 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en emails professionnels.
-> **Demande :** Écrit un Email de Remerciement poli qui réimprime votre image en mentionnant des contenus spécifiques discutés pendant l'entretien juste après sa fin.
+**Rôle :** Tu es un expert en emails professionnels.
+**Demande :** Écrit un Email de Remerciement poli qui réimprime votre image en mentionnant des contenus spécifiques discutés pendant l'entretien juste après sa fin.
 
 <br>
 

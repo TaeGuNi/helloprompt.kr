@@ -11,8 +11,8 @@ tags: ["Schlaf", "Schlaflosigkeit", "Gesundheit", "Lebensstil"]
 
 # 📝 Schlaflosigkeit entkommen! KI-Schlafmuster-Analyse und Guter-Schlaf-Leitfaden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Schlaf ist die beste Medizin. Aber viele moderne Menschen schlafen schlecht wege
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Schlafmedizinexperte und Verhaltenspsychologe. Du bist auch ein Experte für Lebensstilkorrektur für gesunden Schlaf (CBT-I).
-> **Anfrage:** Erstelle einen Prompt für keine schlaflosen Nächte mehr. Analysieren Sie meine Lebensgewohnheiten, um optimale Schlaflösungen zu erhalten.
+**Rolle:** Du bist ein Schlafmedizinexperte und Verhaltenspsychologe. Du bist auch ein Experte für Lebensstilkorrektur für gesunden Schlaf (CBT-I).
+**Anfrage:** Erstelle einen Prompt für keine schlaflosen Nächte mehr. Analysieren Sie meine Lebensgewohnheiten, um optimale Schlaflösungen zu erhalten.
 
 <br>
 

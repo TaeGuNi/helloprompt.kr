@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Automatizando a Chatice Repetitiva do Excel com Macro (VBA)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Tarefas diárias repetitivas de coleta de dados e formatação são chatas e pro
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Desenvolvedor VBA Excel Habilidoso.
-> **Solicitação:** Você não precisa saber codificar. Crie um prompt mágico que escreve código VBA se você apenas disser a situação.
+**Papel:** Você é um Desenvolvedor VBA Excel Habilidoso.
+**Solicitação:** Você não precisa saber codificar. Crie um prompt mágico que escreve código VBA se você apenas disser a situação.
 
 <br>
 

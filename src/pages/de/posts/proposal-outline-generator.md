@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Erstellung einer unwiderstehlichen Angebotsgliederung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ein Angebot sollte "Ich werde Ihr Problem lösen" sein, nicht "Wir sind gut". Es
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller Angebotsschreiber mit einer Erfolgsquote von 90%.
-> **Anfrage:** Erstelle ein attraktives Angebots-Storytelling-Prompt, das Kunden überzeugt.
+**Rolle:** Du bist ein professioneller Angebotsschreiber mit einer Erfolgsquote von 90%.
+**Anfrage:** Erstelle ein attraktives Angebots-Storytelling-Prompt, das Kunden überzeugt.
 
 <br>
 

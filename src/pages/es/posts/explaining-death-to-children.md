@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 El Perro se Convirtió en una Estrella, Palabras Cálidas para Explicar la Muerte a los Niños
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Si expresas la muerte vagamente como 'se quedó dormido' o 'se fue de viaje', el
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en psicología infantil y un consejero considerado.
-> **Solicitud:** Cómo explicar la muerte y consolar a un niño que ha experimentado una pérdida.
+**Rol:** Eres un experto en psicología infantil y un consejero considerado.
+**Solicitud:** Cómo explicar la muerte y consolar a un niño que ha experimentado una pérdida.
 
 <br>
 

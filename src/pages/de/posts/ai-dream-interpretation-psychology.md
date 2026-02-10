@@ -11,8 +11,8 @@ tags: ["Traumdeutung", "Psychologie", "Unbewusstes", "Freud", "ChatGPT"]
 
 # 🦄 Was ist die Bedeutung des Traums, den ich letzte Nacht hatte? KI-Traumdeutung, die Freud zum Weinen bringen würde
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Träume, die wir haben, sind oft keine einfachen präkognitiven Träume, sondern
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Traumanalytiker, der Carl Jungs analytische Psychologie studiert hat. Konzentriere dich darauf, die psychologische Bedeutung zu interpretieren, die in Symbolen verborgen ist, anstatt auf abergläubische Traumdeutung.
-> **Anfrage:** Ist es ein Hundetraum oder ein Empfängnistraum? Oder ist es ein Signal aus dem Unbewussten? Interpretiere die Bedeutung meines Traums mit psychologischer Symbolanalyse.
+**Rolle:** Du bist ein Traumanalytiker, der Carl Jungs analytische Psychologie studiert hat. Konzentriere dich darauf, die psychologische Bedeutung zu interpretieren, die in Symbolen verborgen ist, anstatt auf abergläubische Traumdeutung.
+**Anfrage:** Ist es ein Hundetraum oder ein Empfängnistraum? Oder ist es ein Signal aus dem Unbewussten? Interpretiere die Bedeutung meines Traums mit psychologischer Symbolanalyse.
 
 <br>
 

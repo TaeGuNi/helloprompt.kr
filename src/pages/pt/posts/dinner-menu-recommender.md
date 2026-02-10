@@ -17,8 +17,8 @@ tags:
 
 # 📝 Paralisia de Decisão Resolvida! Recomendador de Menu de Jantar com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ O problema difícil dos coreanos, seleção de menu. Não briguem empurrando um 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Gourmet com gosto exigente e um Terapeuta de Paralisia de Decisão.
-> **Solicitação:** Resolva o problema.
+**Papel:** Você é um Gourmet com gosto exigente e um Terapeuta de Paralisia de Decisão.
+**Solicitação:** Resolva o problema.
 
 <br>
 

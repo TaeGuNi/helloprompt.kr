@@ -11,8 +11,8 @@ tags: ["Refatoração", "Código Limpo", "Manutenção", "Produtividade Dev"]
 
 # 📝 Refatorar Código Sujo para Código Limpo em 1 Segundo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -42,8 +42,8 @@ Com apenas este prompt, você pode capturar legibilidade, desempenho e manutenib
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Engenheiro de Software Sênior com 20 anos de experiência e um especialista em 'Código Limpo'.
-> **Solicitação:** Transforme código espaguete complexo em código limpo fácil de ler e manter.
+**Papel:** Você é um Engenheiro de Software Sênior com 20 anos de experiência e um especialista em 'Código Limpo'.
+**Solicitação:** Transforme código espaguete complexo em código limpo fácil de ler e manter.
 
 <br>
 

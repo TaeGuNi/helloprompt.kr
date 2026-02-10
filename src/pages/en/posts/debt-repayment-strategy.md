@@ -11,7 +11,7 @@ tags: ["DebtRepayment", "Loan", "Finance", "CreditManagement"]
 
 # 📝 Debt Escape Simulator: Fastest Repayment Strategy
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

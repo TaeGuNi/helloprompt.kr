@@ -11,7 +11,7 @@ tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 
 # 📝 Email Subject Line Generator That Skyrockets Open Rates
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

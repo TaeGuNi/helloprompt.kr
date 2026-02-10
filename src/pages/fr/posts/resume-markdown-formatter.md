@@ -11,9 +11,9 @@ tags: ["FormatCV", "Markdown", "CVNotion", "OrganisationDoc"]
 
 # 📝 Échapper à l'Enfer du Formatage de CV : Convertisseur Markdown
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le design est un problème ultérieur. D'abord, la **Structure du contenu** doit
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en design d'édition de documents et maître Markdown.
-> **Demande :** Convertit le contenu de CV désordonné en format Markdown propre pour aider à la conversion PDF ou à la création de CV Notion.
+**Rôle :** Tu es un expert en design d'édition de documents et maître Markdown.
+**Demande :** Convertit le contenu de CV désordonné en format Markdown propre pour aider à la conversion PDF ou à la création de CV Notion.
 
 <br>
 

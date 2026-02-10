@@ -11,8 +11,8 @@ tags: ["Scrittura Libri", "Pianificazione Editoriale", "E-book"]
 
 # 📝 Posso Essere Anch'io un Autore? Pianificare un Indice di Libro che Vende
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ L'80% della scrittura di un libro è l'indice. Se l'indice è solido, il manoscr
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Caporedattore Grande Casa Editrice]`.
-> **Richiesta:** Crea un prompt di pianificazione libri e composizione indice che trasformi sogni di pubblicazione vaghi in realtà.
+**Ruolo:** Sei un `[Caporedattore Grande Casa Editrice]`.
+**Richiesta:** Crea un prompt di pianificazione libri e composizione indice che trasformi sogni di pubblicazione vaghi in realtà.
 
 <br>
 

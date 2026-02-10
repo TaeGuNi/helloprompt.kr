@@ -11,9 +11,9 @@ tags: ["HIIT", "Tabata", "Régime", "Exercice", "ChatGPT"]
 
 # 🔥 Court et Intense ! Générateur HIIT IA qui Vous Fait Transpirer en 20 Minutes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le HIIT (Entraînement par Intervalles à Haute Intensité) répète des exercic
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un entraîneur expert en Crossfit/HIIT appelé l'Instructeur Diabolique.
-> **Demande :** Pas beaucoup de temps mais envie de perdre du poids ? Crée une nouvelle routine d'Entraînement par Intervalles à Haute Intensité (HIIT) chaque jour.
+**Rôle :** Tu es un entraîneur expert en Crossfit/HIIT appelé l'Instructeur Diabolique.
+**Demande :** Pas beaucoup de temps mais envie de perdre du poids ? Crée une nouvelle routine d'Entraînement par Intervalles à Haute Intensité (HIIT) chaque jour.
 
 <br>
 

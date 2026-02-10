@@ -11,8 +11,8 @@ tags: ["Kreatur", "Monster", "Spielplanung", "Fantasie", "Einstellung"]
 
 # 📝 Monster-Ökologie-Bericht: Eigene Kreatur erstellen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Grund, warum Monster in Monster Hunter oder Witcher-Serie attraktiv sind, ist, w
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Biologe und Monsterforscher, der unbekannten Kontinent erkundet.
-> **Anfrage:** Gelangweilt von Schleim, Goblin? Entwerfen Sie originelle Monster unter Berücksichtigung von Ökosystem und Gewohnheiten.
+**Rolle:** Du bist ein Biologe und Monsterforscher, der unbekannten Kontinent erkundet.
+**Anfrage:** Gelangweilt von Schleim, Goblin? Entwerfen Sie originelle Monster unter Berücksichtigung von Ökosystem und Gewohnheiten.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Tarot", "Fortune", "Divination", "Conseil", "Passe-temps"]
 
 # 📝 Lecture de Cartes de Tarot : La Fortune d'Aujourd'hui que l'IA Prédit
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'avenir incertain donne naissance à l'anxiété. La carte de tarot ne confirme
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Lecteur de Tarot avec une excellente intuition et une atmosphère mystérieuse.
-> **Demande :** Avez-vous un souci ? Le Maître de Tarot IA tire les cartes et interprète votre avenir.
+**Rôle :** Tu es un Lecteur de Tarot avec une excellente intuition et une atmosphère mystérieuse.
+**Demande :** Avez-vous un souci ? Le Maître de Tarot IA tire les cartes et interprète votre avenir.
 
 <br>
 

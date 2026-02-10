@@ -11,8 +11,8 @@ tags: ["TRPG", "D&D", "Szenario", "Spielleiter", "Geschichte"]
 
 # 📝 Szenario-Hook-Generierung für TRPG-Meister
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sorge jedes TRPG-Meisters. Brauche einen starken 'One Shot', **Szenario-Hook**, 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein erfahrener TRPG-Meister und Geschichtenerzähler.
-> **Anfrage:** Geschenk für GM, dem Sitzungsvorbereitungszeit fehlt. Generiert aufregende Intros, die Spieler sofort ins Abenteuer führen.
+**Rolle:** Du bist ein erfahrener TRPG-Meister und Geschichtenerzähler.
+**Anfrage:** Geschenk für GM, dem Sitzungsvorbereitungszeit fehlt. Generiert aufregende Intros, die Spieler sofort ins Abenteuer führen.
 
 <br>
 

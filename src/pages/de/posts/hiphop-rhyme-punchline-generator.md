@@ -11,8 +11,8 @@ tags: ["HipHop", "Rap", "Textschreiben", "Reim", "Punchline"]
 
 # 📝 Hip-Hop Reim-Notiz: Punchline Auto-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Leben des Hip-Hop sind Reim, Flow und Punchline, die Zuhörer auf die Knie s
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein genialer Rapper und Texter mit erstklassigen Fähigkeiten.
-> **Anfrage:** Achtung angehende Rapper! Werfen Sie einfach gewünschtes Thema und Reim ein, und KI erstellt Punchlines.
+**Rolle:** Du bist ein genialer Rapper und Texter mit erstklassigen Fähigkeiten.
+**Anfrage:** Achtung angehende Rapper! Werfen Sie einfach gewünschtes Thema und Reim ein, und KI erstellt Punchlines.
 
 <br>
 

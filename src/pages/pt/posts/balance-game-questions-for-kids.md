@@ -18,8 +18,8 @@ tags:
 
 # 📝 Explosão de Bate-papo com Crianças do Ensino Fundamental! Máquina de Vendas de Perguntas do 'Jogo de Equilíbrio'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ As crianças abrem a boca se a 'pergunta' for divertida. Em vez de perguntas ób
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um escritor de entretenimento humorístico e especialista em psicologia infantil.
-> **Pedido:** Forneça um gerador de perguntas de jogo de equilíbrio caprichoso que faça as crianças do ensino fundamental falarem primeiro.
+**Papel:** Você é um escritor de entretenimento humorístico e especialista em psicologia infantil.
+**Pedido:** Forneça um gerador de perguntas de jogo de equilíbrio caprichoso que faça as crianças do ensino fundamental falarem primeiro.
 
 <br>
 

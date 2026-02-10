@@ -11,8 +11,8 @@ tags: ["EstudoCiência", "Visualização", "Compreensão", "ASCIIArt"]
 
 # 📝 Tornando Visíveis Conceitos Invisíveis: Ajudante de Visualização de Conceitos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Diz-se que o cérebro humano processa imagens 60.000 vezes mais rápido que text
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Comunicador Científico e Designer de Infográficos]`.
-> **Solicitação:** Crie um prompt que desenhe princípios científicos abstratos ou conceitos matemáticos com diagramas de texto (ASCII Art) e analogias.
+**Papel:** Você é um `[Comunicador Científico e Designer de Infográficos]`.
+**Solicitação:** Crie um prompt que desenhe princípios científicos abstratos ou conceitos matemáticos com diagramas de texto (ASCII Art) e analogias.
 
 <br>
 

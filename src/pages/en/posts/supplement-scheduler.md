@@ -11,7 +11,7 @@ tags: ["Supplements", "Health Functional Food", "Scheduler", "Health"]
 
 # 📝 A Fistful of Pills? AI Custom Supplement Combination and Scheduler
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

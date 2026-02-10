@@ -11,8 +11,8 @@ tags: ["FondoDeEmergencia", "GestiónFinanciera", "GestiónDeRiesgos", "Ahorros"
 
 # 📝 Cinturón de Seguridad de Fondo de Emergencia: Calculando Mi Fondo de Emergencia Óptimo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Si no hay fondo de emergencia, terminas usando préstamos de tarjeta o cuentas b
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto]` en gestión de riesgos financieros.
-> **Solicitud:** Calcula el tamaño óptimo del fondo de emergencia que no se tambalee incluso con la pérdida repentina de empleo o accidente.
+**Rol:** Eres un `[Experto]` en gestión de riesgos financieros.
+**Solicitud:** Calcula el tamaño óptimo del fondo de emergencia que no se tambalee incluso con la pérdida repentina de empleo o accidente.
 
 <br>
 

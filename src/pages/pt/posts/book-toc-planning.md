@@ -11,8 +11,8 @@ tags: ["Escrita de Livros", "Planejamento Editorial", "E-book"]
 
 # 📝 Posso Ser Autor Também? Planejando um Índice de Livro que Venda
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Vocês todos têm o sonho de publicar um livro em seu nome? Mas 'como organiza
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Editor-Chefe de Grande Editora]`.
-> **Solicitação:** Crie um prompt de planejamento de livro e composição de índice que transforme sonhos vagos de publicação em realidade.
+**Papel:** Você é um `[Editor-Chefe de Grande Editora]`.
+**Solicitação:** Crie um prompt de planejamento de livro e composição de índice que transforme sonhos vagos de publicação em realidade.
 
 <br>
 

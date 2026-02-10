@@ -40,8 +40,8 @@ A maior dor de cabeça antes do lançamento de um novo produto é a 'nomeação'
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Consultor Profissional de Nomeação de Marca]` com 20 anos de experiência. Você é habilidoso em jogos de palavras e combinações de palavras da moda.
-> **Solicitação:** Crie um prompt que gere nomes de produtos atraentes contendo a identidade da marca em 3 segundos.
+**Papel:** Você é um `[Consultor Profissional de Nomeação de Marca]` com 20 anos de experiência. Você é habilidoso em jogos de palavras e combinações de palavras da moda.
+**Solicitação:** Crie um prompt que gere nomes de produtos atraentes contendo a identidade da marca em 3 segundos.
 
 <br>
 

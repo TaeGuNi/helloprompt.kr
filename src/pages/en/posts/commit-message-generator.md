@@ -11,7 +11,7 @@ tags: ["Git", "Commit Message", "Collaboration", "Productivity"]
 
 # 📝 "Recommend Commit Message" No More Worries! Conventional Commits Auto-Generation
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

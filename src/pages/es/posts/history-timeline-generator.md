@@ -11,8 +11,8 @@ tags: ["ResumenHistoria", "Cronología", "LíneaDeTiempo", "Resumen"]
 
 # 📝 Flujo de un Vistazo: Generador de Línea de Tiempo Histórica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ La historia no es 'punto' sino 'línea'. Si memorizas eventos individuales (punt
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Historiador y Experto en Visualización de Datos]`.
-> **Solicitud:** Crea un prompt que organice el orden y la relación causal de eventos complejos en una Línea de Tiempo ordenada.
+**Rol:** Eres un `[Historiador y Experto en Visualización de Datos]`.
+**Solicitud:** Crea un prompt que organice el orden y la relación causal de eventos complejos en una Línea de Tiempo ordenada.
 
 <br>
 

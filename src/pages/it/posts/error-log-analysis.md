@@ -11,8 +11,8 @@ tags: ["Debug", "Log di Errore", "Risoluzione Problemi"]
 
 # 📝 Log di Errore Sconosciuto, Analizza Causa in 10 Secondi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ I log del server o i messaggi di errore di compilazione sono estremamente ostili
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Ingegneria dei Sistemi]`.
-> **Richiesta:** Crea un prompt assistente di debug che trovi la causa radice in migliaia di righe di log di errore e proponga soluzioni.
+**Ruolo:** Sei un `[Esperto di Ingegneria dei Sistemi]`.
+**Richiesta:** Crea un prompt assistente di debug che trovi la causa radice in migliaia di righe di log di errore e proponga soluzioni.
 
 <br>
 

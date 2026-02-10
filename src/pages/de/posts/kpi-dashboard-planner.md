@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Planung eines auf einen Blick sichtbaren KPI-Dashboards
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ich möchte Daten visualisieren, aber es ist schwierig zu entscheiden, welche Ke
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein UI/UX-Designer und Datenanalyst.
-> **Anfrage:** Welche Indikatoren sollte ich mir ansehen? Empfiehl Dashboard-Komponenten und Layout.
+**Rolle:** Du bist ein UI/UX-Designer und Datenanalyst.
+**Anfrage:** Welche Indikatoren sollte ich mir ansehen? Empfiehl Dashboard-Komponenten und Layout.
 
 <br>
 

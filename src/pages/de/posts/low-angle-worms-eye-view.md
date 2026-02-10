@@ -12,8 +12,8 @@ tags:
 
 # 📝 Blick eines Riesen: Low Angle
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ _"Ich möchte den Charakter stärker und größer aussehen lassen."_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Low-Angle-Prompt, der überwältigende Würde und Größe betont, indem er von unten zum Motiv aufblickt.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Low-Angle-Prompt, der überwältigende Würde und Größe betont, indem er von unten zum Motiv aufblickt.
 
 <br>
 
@@ -74,13 +74,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Giant robot in city.`
 
-> (Ergebnis: Nur eine Augenhöhe-Ansicht, wo ein Roboter steht, Riesigkeit wird nicht gut gefühlt)
+(Ergebnis: Nur eine Augenhöhe-Ansicht, wo ein Roboter steht, Riesigkeit wird nicht gut gefühlt)
 
 ### ✅ Nachher (Ergebnis)
 
 `Low angle` Prompt angewendet
 
-> (Ergebnis: Überwältigender Maßstab, wo die Füße des Roboters vor meinen Augen sind und der Kopf den hohen Himmel zu berühren scheint)
+(Ergebnis: Überwältigender Maßstab, wo die Füße des Roboters vor meinen Augen sind und der Kopf den hohen Himmel zu berühren scheint)
 
 ---
 

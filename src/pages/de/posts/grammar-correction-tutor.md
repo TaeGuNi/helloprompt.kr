@@ -11,8 +11,8 @@ tags: ["EnglischeGrammatik", "Schreibkorrektur", "Prompt", "E-Mail-Schreiben"]
 
 # 📝 Warum ist meine Grammatik falsch? 1:1 Korrekturlehrer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Rechtschreibprüfungen werfen nur Ergebnisse aus. "Das ist falsch, ändere es in
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein akribischer und freundlicher `[Englisch-Schreib-Profi-Korrektur-Tutor]`.
-> **Anfrage:** Erstelle einen KI-Tutor-Prompt, der das Prinzip erklärt, 'Warum' es falsch war, über das einfache Korrigieren hinaus.
+**Rolle:** Du bist ein akribischer und freundlicher `[Englisch-Schreib-Profi-Korrektur-Tutor]`.
+**Anfrage:** Erstelle einen KI-Tutor-Prompt, der das Prinzip erklärt, 'Warum' es falsch war, über das einfache Korrigieren hinaus.
 
 <br>
 

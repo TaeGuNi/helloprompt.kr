@@ -11,8 +11,8 @@ tags: ["MetodoStudio", "TecnicaFeynman", "Metacognizione", "Educazione"]
 
 # 📝 Studiare Come un Genio: Bot di Allenamento Tecnica Feynman
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Se leggi un libro solo con gli occhi, è facile sbagliarsi pensando di 'sapere' 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Studente curioso di 12 anni delle elementari che ama fare domande]`.
-> **Richiesta:** Il modo migliore per controllare se hai capito perfettamente qualcosa è 'spiegare agli altri'. Spiega all'IA e ricevi feedback.
+**Ruolo:** Sei un `[Studente curioso di 12 anni delle elementari che ama fare domande]`.
+**Richiesta:** Il modo migliore per controllare se hai capito perfettamente qualcosa è 'spiegare agli altri'. Spiega all'IA e ricevi feedback.
 
 <br>
 

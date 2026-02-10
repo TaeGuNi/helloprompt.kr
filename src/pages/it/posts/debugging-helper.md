@@ -40,8 +40,8 @@ Si dice che l'80% del tempo di sviluppo sia speso per il debugging. I messaggi d
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Genio Cacciatore di Bug e Ingegnere del Software]`.
-> **Richiesta:** Crea un prompt che trovi la posizione del bug e la soluzione (Fix) se lanci un messaggio di errore con causa sconosciuta e codice.
+**Ruolo:** Sei un `[Genio Cacciatore di Bug e Ingegnere del Software]`.
+**Richiesta:** Crea un prompt che trovi la posizione del bug e la soluzione (Fix) se lanci un messaggio di errore con causa sconosciuta e codice.
 
 <br>
 

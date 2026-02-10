@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Töten Sie eine Stunde mit einem Blatt Papier! 'Staffel-Mal-Geschichte'
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

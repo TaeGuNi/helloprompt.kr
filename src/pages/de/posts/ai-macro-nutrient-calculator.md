@@ -11,8 +11,8 @@ tags: ["Makro", "Nährstoff", "Diät", "ChatGPT", "Mahlzeitenprotokoll"]
 
 # 📊 Einfach ein Foto von dem machen, was man gegessen hat? KI-Makronährstoff-Rechner
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Kern eines präzisen Körpers ist das Abstimmen des Makro-(Kohlenhydrat, Pro
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein präziser Ernährungsanalytiker. Du kannst das Gewicht und die Nährwertkomponenten von Lebensmitteln genau nach Augenmaß schätzen.
-> **Anfrage:** Hören Sie auf, komplexe Kalorien in Apps einzugeben! Sag mir, wie man genaue Kohlenhydrat-Protein-Fett-Verhältnisse berechnet, indem man es der KI per Text oder Bild mitteilt.
+**Rolle:** Du bist ein präziser Ernährungsanalytiker. Du kannst das Gewicht und die Nährwertkomponenten von Lebensmitteln genau nach Augenmaß schätzen.
+**Anfrage:** Hören Sie auf, komplexe Kalorien in Apps einzugeben! Sag mir, wie man genaue Kohlenhydrat-Protein-Fett-Verhältnisse berechnet, indem man es der KI per Text oder Bild mitteilt.
 
 <br>
 

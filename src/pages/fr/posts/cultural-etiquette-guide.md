@@ -39,8 +39,8 @@ _"Maudit pour avoir fait un signe V, regardé de travers pour ne pas avoir donn�
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Anthropologue Culturel et un Instructeur Professionnel d'Étiquette Globale.
-> **Demande :** Crée un prompt sur comment ne pas être un voyageur impoli localement, incluant combien de pourboire et comment faire des gestes.
+**Rôle :** Tu es un Anthropologue Culturel et un Instructeur Professionnel d'Étiquette Globale.
+**Demande :** Crée un prompt sur comment ne pas être un voyageur impoli localement, incluant combien de pourboire et comment faire des gestes.
 
 <br>
 

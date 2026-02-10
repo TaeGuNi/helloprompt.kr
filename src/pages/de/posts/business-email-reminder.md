@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Wie man Geschäfts-E-Mails schreibt, die erinnern, ohne unhöflich zu sein
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie dringend Daten für das Geschäft erhalten müssen, aber keine Antwort 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für Geschäftskommunikation und Verhandlungsführer.
-> **Anfrage:** Erstelle einen E-Mail-Prompt, um Geschäftspartner zu erinnern, die nicht antworten, stilvoll ohne wütend zu werden.
+**Rolle:** Du bist ein Experte für Geschäftskommunikation und Verhandlungsführer.
+**Anfrage:** Erstelle einen E-Mail-Prompt, um Geschäftspartner zu erinnern, die nicht antworten, stilvoll ohne wütend zu werden.
 
 <br>
 

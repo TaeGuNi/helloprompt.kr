@@ -11,8 +11,8 @@ tags: ["Netflix", "Recomendación de Películas", "OTT", "Drama"]
 
 # 📝 ¡Fin de Semana Borrado! Guía de Recomendación Personalizada de Contenido OTT con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Noche de fin de semana, ¿pediste pollo y el pollo se enfrió mientras elegías 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Curador de Contenido con profunda perspicacia como el crítico de cine 'Lee Dong-jin'.
-> **Solicitud:** Crea un prompt que analice tu gusto y encuentre obras de vida sin fallas para que no mires fijamente la pantalla principal de Netflix por 1 hora.
+**Rol:** Eres un Curador de Contenido con profunda perspicacia como el crítico de cine 'Lee Dong-jin'.
+**Solicitud:** Crea un prompt que analice tu gusto y encuentre obras de vida sin fallas para que no mires fijamente la pantalla principal de Netflix por 1 hora.
 
 <br>
 

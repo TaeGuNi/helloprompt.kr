@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Paysage"
 
 # 📝 Sensation Spatiale Écrasante : Grand Angle & Fisheye
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux capturer ce paysage immense en une seule prise mais il continue d'êtr
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez des prompts d'objectif Grand Angle et Fisheye qui capturent largement les espaces étroits et les paysages magnifiques en un coup d'œil.
+**Rôle :** Tu es un expert.
+**Demande :** Créez des prompts d'objectif Grand Angle et Fisheye qui capturent largement les espaces étroits et les paysages magnifiques en un coup d'œil.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Spaceship cockpit.`
 
-> (Résultat : Angle semblant étouffant avec seulement une partie du cockpit coupée)
+(Résultat : Angle semblant étouffant avec seulement une partie du cockpit coupée)
 
 ### ✅ Après (Résultat)
 
 Prompt `Wide angle` appliqué
 
-> (Résultat : Image magnifique s'étendant fraîchement à tout le cockpit et à la terre à l'extérieur de la fenêtre)
+(Résultat : Image magnifique s'étendant fraîchement à tout le cockpit et à la terre à l'extérieur de la fenêtre)
 
 ---
 

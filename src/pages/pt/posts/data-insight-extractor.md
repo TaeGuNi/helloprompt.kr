@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Extraindo Insights de Dados Brutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Existem muitos números, mas você está perdido sobre o que relatar aqui?"_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Cientista de Dados.
-> **Solicitação:** Dados do Excel cheios de números apenas, analise com IA e derive implicações.
+**Papel:** Você é um Cientista de Dados.
+**Solicitação:** Dados do Excel cheios de números apenas, analise com IA e derive implicações.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Guida all'Impostazione OKR per il Raggiungimento degli Obiettivi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Sappiamo che OKR è buono, ma quando cerchiamo di scriverlo, vengono in mente so
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Coach Professionista OKR di Google.
-> **Richiesta:** Stabilire Obiettivi entusiasmanti e Risultati Chiave misurabili.
+**Ruolo:** Sei un Coach Professionista OKR di Google.
+**Richiesta:** Stabilire Obiettivi entusiasmanti e Risultati Chiave misurabili.
 
 <br>
 

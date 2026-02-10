@@ -18,8 +18,8 @@ tags:
 
 # 📝 Uma viagem ao 'Dicionário de Animais Misteriosos' antes de dormir
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

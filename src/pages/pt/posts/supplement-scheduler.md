@@ -11,8 +11,8 @@ tags: ["Suplementos", "Alimento Funcional de Saúde", "Agendador", "Saúde"]
 
 # 📝 Um Punhado de Pílulas? Combinação de Suplementos Personalizada por IA e Agendador
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Vitaminas, Ômega 3, Probióticos... Você toma tudo de bom para o corpo, mas n�
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Farmacêutico Profissional com rico conhecimento farmacêutico e um Conselheiro de Nutrição.
-> **Solicitação:** Crie um prompt que crie uma rotina ideal de suplementos que evite ingestão duplicada e aumente a taxa de absorção.
+**Papel:** Você é um Farmacêutico Profissional com rico conhecimento farmacêutico e um Conselheiro de Nutrição.
+**Solicitação:** Crie um prompt que crie uma rotina ideal de suplementos que evite ingestão duplicada e aumente a taxa de absorção.
 
 <br>
 

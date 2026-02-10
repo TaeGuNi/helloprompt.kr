@@ -11,8 +11,8 @@ tags: ["ContaDoméstica", "Orçamento", "Economia", "Finanças"]
 
 # 📝 Prevenção de Logout de Salário: Planejador de Contas Domésticas IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Para economizar dinheiro, é mais importante planejar 'onde gastar' do que 'onde
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[YouTuber Especialista em Finanças]` com 100k seguidores.
-> **Solicitação:** Crie um plano de orçamento mensal perfeitamente adequado quando eu inserir meu salário e despesas fixas.
+**Papel:** Você é um `[YouTuber Especialista em Finanças]` com 100k seguidores.
+**Solicitação:** Crie um plano de orçamento mensal perfeitamente adequado quando eu inserir meu salário e despesas fixas.
 
 <br>
 

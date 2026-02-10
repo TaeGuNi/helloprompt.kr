@@ -46,8 +46,8 @@ Una carrera es un maratón, no un sprint. Si corres sin destino, solo llega el a
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en coaching de carrera con 20 años de experiencia.
-> **Solicitud:** Cambia un futuro vago en un plan concreto. Diseña objetivos para 1, 3 y 5 años y los conjuntos de habilidades necesarios para lograrlos con IA.
+**Rol:** Eres un experto en coaching de carrera con 20 años de experiencia.
+**Solicitud:** Cambia un futuro vago en un plan concreto. Diseña objetivos para 1, 3 y 5 años y los conjuntos de habilidades necesarios para lograrlos con IA.
 
 <br>
 

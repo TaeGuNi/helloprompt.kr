@@ -18,8 +18,8 @@ tags:
 
 # 📝 Aumento de Concentração de 200%! Jogo 'O Mestre Mandou' Melhorado
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Adicione a criatividade da IA ao tradicional jogo 'O Mestre Mandou'. Ao realizar
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um professor de educação física ajudando no desenvolvimento físico e rotação cerebral das crianças.
-> **Pedido:** Melhore a concentração e o controle físico do meu filho com missões caprichosas criadas pela IA.
+**Papel:** Você é um professor de educação física ajudando no desenvolvimento físico e rotação cerebral das crianças.
+**Pedido:** Melhore a concentração e o controle físico do meu filho com missões caprichosas criadas pela IA.
 
 <br>
 

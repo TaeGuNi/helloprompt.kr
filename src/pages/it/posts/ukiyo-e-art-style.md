@@ -18,8 +18,8 @@ tags:
 
 # 📝 Estetica delle Onde: Stile Ukiyo-e
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -47,8 +47,8 @@ _"Voglio disegnare immagini con una sensazione come 'La Grande Onda' di Katsushi
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt che disegna onde e paesaggi in stile Ukiyo-e, l'estetica più giapponese.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt che disegna onde e paesaggi in stile Ukiyo-e, l'estetica più giapponese.
 
 <br>
 
@@ -80,13 +80,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Cat and Mount Fuji.`
 
-> (Risultato: Foto di un vero gatto seduto davanti al Monte Fuji)
+(Risultato: Foto di un vero gatto seduto davanti al Monte Fuji)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Ukiyo-e` applicato
 
-> (Risultato: Capolavoro che armonizza modelli di onde disegnati come a pennello, gatto con texture di stampa su legno e colori di carta vecchia)
+(Risultato: Capolavoro che armonizza modelli di onde disegnati come a pennello, gatto con texture di stampa su legno e colori di carta vecchia)
 
 ---
 

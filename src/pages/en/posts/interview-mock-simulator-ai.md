@@ -11,7 +11,7 @@ tags: ["MockInterview", "InterviewPractice", "AIInterviewer", "JobPrep"]
 
 # 📝 'Real Mock Interview' Simulation with AI Possessed by Interviewer
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,8 +11,8 @@ tags: ["Schreiben", "Essay", "Bericht", "Aufgabe"]
 
 # 📝 Flucht vor der Leeren-Bildschirm-Phobie: Essay-Gliederungs-Architekt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die schwierigste Stufe beim Schreiben ist der 'Start'. Weil im Kopf verwickelt i
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Bestsellerautor und Essay-Profi-Coach]`.
-> **Anfrage:** Wenn das Schreiben stockt, lege eine logische Struktur (Einleitung-Hauptteil-Schluss) fest und schlage Kernideen pro Absatz vor.
+**Rolle:** Du bist ein `[Bestsellerautor und Essay-Profi-Coach]`.
+**Anfrage:** Wenn das Schreiben stockt, lege eine logische Struktur (Einleitung-Hauptteil-Schluss) fest und schlage Kernideen pro Absatz vor.
 
 <br>
 

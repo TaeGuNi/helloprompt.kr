@@ -11,8 +11,8 @@ tags: ["Excel", "Automatisierung", "VBA", "Arbeits-Hacks"]
 
 # 📊 "Können Sie das in Excel zusammenfassen?" (Klar, gib mir 30 Sekunden.)
 
-> **🎯 Empfohlen für:** Excel-Anfänger, Büroangestellte mit repetitiven Aufgaben
-> **⏱️ Zeitersparnis:** 1 Stunde (Manuell) → 30 Sekunden (Automatisiert)
+**🎯 Empfohlen für:** Excel-Anfänger, Büroangestellte mit repetitiven Aufgaben
+**⏱️ Zeitersparnis:** 1 Stunde (Manuell) → 30 Sekunden (Automatisiert)
 
 - **🤖 Empfohlenes Modell:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["Excel", "Automatisierung", "VBA", "Arbeits-Hacks"]
 | :-----------: | :----------: | :------------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  |   ⭐⭐⭐⭐⭐   |
 
-> _"Excel ist kein Taschenrechner. Es ist ein **Programmierwerkzeug**. (Aber die KI programmiert.)"_
+_"Excel ist kein Taschenrechner. Es ist ein **Programmierwerkzeug**. (Aber die KI programmiert.)"_
 
 SVERWEIS, Pivot-Tabellen, Bedingte Formatierung... Googeln Sie das jedes Mal?
 Sagen Sie einfach: "Vergleiche Spalte A und B und markiere Unterschiede rot." Die KI schreibt die Formel.

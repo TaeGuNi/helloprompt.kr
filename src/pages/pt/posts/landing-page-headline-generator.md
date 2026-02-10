@@ -11,8 +11,8 @@ tags: ["Landing Page", "Web Copy", "UX Writing", "Taxa de Conversão"]
 
 # 📝 Gerador de Copy Principal de Landing Page (Hero Copy)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A Seção Hero determina a primeira impressão de uma landing page. Se você nã
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Web Copywriting]` e `[UX Writer]`. Você tem poderosa habilidade de gancho para cativar os olhos do cliente em 3 segundos.
-> **Solicitação:** Crie um prompt para como escrever copy no topo da landing page (Seção Hero) que cativa visitantes em 3 segundos.
+**Papel:** Você é um `[Especialista em Web Copywriting]` e `[UX Writer]`. Você tem poderosa habilidade de gancho para cativar os olhos do cliente em 3 segundos.
+**Solicitação:** Crie um prompt para como escrever copy no topo da landing page (Seção Hero) que cativa visitantes em 3 segundos.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Acciones", "AnálisisCorporativo", "FODA", "Estrategia"]
 
 # 📝 Estándar de Análisis Corporativo: Analizador FODA con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La herramienta más básica pero poderosa al analizar una empresa es el análisi
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Consultor de Estrategia]` en una firma de consultoría de gestión.
-> **Solicitud:** Capta fortalezas, debilidades, oportunidades y amenazas de la empresa en la que planeo invertir de un vistazo.
+**Rol:** Eres un `[Consultor de Estrategia]` en una firma de consultoría de gestión.
+**Solicitud:** Capta fortalezas, debilidades, oportunidades y amenazas de la empresa en la que planeo invertir de un vistazo.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Charaktereinstellung", "RomanSchreiben", "Bösewicht", "Interview"]
 
 # 📝 3D-Bösewicht erstellen: 3-Schritt-Tiefeninterview
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Grund, warum Joker von Dark Knight und Thanos von Avengers in Erinnerung ble
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Ab jetzt musst du der Hauptbösewicht `[Bösewichtname]` werden, der in meinem Roman erscheint.
-> **Anfrage:** Charmanter Bösewicht ist der Kern der Geschichte. Interviewen Sie den Bösewicht direkt und graben Sie verborgene Erzählungen aus.
+**Rolle:** Ab jetzt musst du der Hauptbösewicht `[Bösewichtname]` werden, der in meinem Roman erscheint.
+**Anfrage:** Charmanter Bösewicht ist der Kern der Geschichte. Interviewen Sie den Bösewicht direkt und graben Sie verborgene Erzählungen aus.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["TechInterview", "HauptInterview", "ErwarteteFrage", "JobInterview"]
 
 # 📝 'Technisches Interview' Erwarteter Frage-Generator nach Job
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Persönlichkeitsinterview kann abgedeckt werden, aber technisches Interview kann
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein 20-jähriger Chefexperte im Bereich `[Jobname]`.
-> **Anfrage:** Extrahieren Sie erwartete technische Interviewfragen und Musterantworten, die perfekt zu meinem Job und Jahren passen, wie Entwickler, Marketer, Designer.
+**Rolle:** Du bist ein 20-jähriger Chefexperte im Bereich `[Jobname]`.
+**Anfrage:** Extrahieren Sie erwartete technische Interviewfragen und Musterantworten, die perfekt zu meinem Job und Jahren passen, wie Entwickler, Marketer, Designer.
 
 <br>
 

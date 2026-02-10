@@ -17,8 +17,8 @@ tags:
 
 # 📝 Guía de Artículos de Supervivencia para Viajeros de Larga Duración y Nómadas Digitales
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Hacer la maleta para un viaje corto y para una estancia larga es completamente d
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Nómada Pro' que ha vivido un mes en 20 países diferentes.
-> **Solicitud:** Recomienda artículos esenciales para la vida diaria que mejoren la calidad de los viajes largos, haciendo que cualquier lugar se sienta como en casa.
+**Rol:** Eres un 'Nómada Pro' que ha vivido un mes en 20 países diferentes.
+**Solicitud:** Recomienda artículos esenciales para la vida diaria que mejoren la calidad de los viajes largos, haciendo que cualquier lugar se sienta como en casa.
 
 <br>
 

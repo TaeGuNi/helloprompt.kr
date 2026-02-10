@@ -11,8 +11,8 @@ tags: ["Netflix", "Filmempfehlung", "OTT", "Drama"]
 
 # 📝 Wochenende gelöscht! KI OTT Inhalt Benutzerdefinierte Empfehlungsanleitung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wochenendabend, Hühnchen bestellt und Hühnchen wurde kalt, während ein Film a
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Inhaltskurator mit tiefem Einblick wie Filmkritiker 'Lee Dong-jin'.
-> **Anfrage:** Erstelle einen Prompt, der Ihren Geschmack analysiert und Lebenswerke ohne Fehler findet, damit Sie nicht 1 Stunde lang auf den Netflix-Hauptbildschirm starren.
+**Rolle:** Du bist ein Inhaltskurator mit tiefem Einblick wie Filmkritiker 'Lee Dong-jin'.
+**Anfrage:** Erstelle einen Prompt, der Ihren Geschmack analysiert und Lebenswerke ohne Fehler findet, damit Sie nicht 1 Stunde lang auf den Netflix-Hauptbildschirm starren.
 
 <br>
 

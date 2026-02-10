@@ -11,8 +11,8 @@ tags: ["Conversión de Datos", "JSON", "CSV", "Excel", "Productividad"]
 
 # 📝 Excel, JSON, CSV... Escapa de la Pesadez de la Conversión de Formato de Datos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Solo raspa datos y pégalos. La IA entiende perfectamente y los convierte.
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto en Ingeniería de Datos y ETL (Extracción, Transformación, Carga).
-> **Solicitud:** JSON a CSV, XML a JSON. Crea un prompt que deje las molestas tareas de conversión de formato de datos a la IA. Las estructuras anidadas complejas no son un problema.
+**Rol:** Eres un experto en Ingeniería de Datos y ETL (Extracción, Transformación, Carga).
+**Solicitud:** JSON a CSV, XML a JSON. Crea un prompt que deje las molestas tareas de conversión de formato de datos a la IA. Las estructuras anidadas complejas no son un problema.
 
 <br>
 

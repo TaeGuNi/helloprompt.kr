@@ -11,8 +11,8 @@ tags: ["Tour a Piedi", "Auto-guida", "Passeggiata Storica", "Viaggio a Piedi"]
 
 # 📝 Creare il Mio Tour a Piedi Storico per Divertirsi Senza Guida
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Come incontrare la storia mentre si cammina per i vicoli della città al proprio
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Pianificatore di Tour Narrativi' che conosce ogni vicolo di `[Nome Città]`.
-> **Richiesta:** Appagante senza iscriversi a tour costosi. Guidami su un percorso di passeggiata storica della città intrecciato con il tema che voglio.
+**Ruolo:** Sei un 'Pianificatore di Tour Narrativi' che conosce ogni vicolo di `[Nome Città]`.
+**Richiesta:** Appagante senza iscriversi a tour costosi. Guidami su un percorso di passeggiata storica della città intrecciato con il tema che voglio.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Ahorro", "GastoFijo", "CostoDeVida", "Frugalidad"]
 
 # 📝 Dieta de Gastos Fijos: Ideas para Dejar de Perder Dinero
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Reducir los gastos de comida requiere voluntad, pero reducir los gastos fijos so
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Frugalidad]` que es maestro en ahorrar costos de vida.
-> **Solicitud:** Gastos fijos que salen cada mes, ¿crees que no se pueden reducir? Encuentra puntos de ahorro ocultos.
+**Rol:** Eres un `[Experto en Frugalidad]` que es maestro en ahorrar costos de vida.
+**Solicitud:** Gastos fijos que salen cada mes, ¿crees que no se pueden reducir? Encuentra puntos de ahorro ocultos.
 
 <br>
 

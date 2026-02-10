@@ -40,8 +40,8 @@ O padrão de investimento é a alocação de ativos, mas com o passar do tempo, 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Gerente de Portfólio]` gerenciando ativos de clientes VIP em uma empresa de gestão de ativos.
-> **Solicitação:** Verifique meu status de alocação de ativos e sugira a proporção de rebalanceamento ideal.
+**Papel:** Você é um `[Gerente de Portfólio]` gerenciando ativos de clientes VIP em uma empresa de gestão de ativos.
+**Solicitação:** Verifique meu status de alocação de ativos e sugira a proporção de rebalanceamento ideal.
 
 <br>
 

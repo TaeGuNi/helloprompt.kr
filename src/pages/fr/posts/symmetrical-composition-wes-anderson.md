@@ -18,9 +18,9 @@ tags:
 
 # 📝 Symétrie Compulsive : Composition Symétrique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ _"Je veux une symétrie qui tombe parfaitement, presque compulsivement, comme un
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de composition stable et excentrique où la gauche et la droite sont parfaitement symétriques comme un film de Wes Anderson.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de composition stable et excentrique où la gauche et la droite sont parfaitement symétriques comme un film de Wes Anderson.
 
 <br>
 
@@ -79,13 +79,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Hotel lobby pink.`
 
-> (Résultat : Photo de hall d'hôtel générale, les compositions sont partout)
+(Résultat : Photo de hall d'hôtel générale, les compositions sont partout)
 
 ### ✅ Après (Résultat)
 
 Prompt `Symmetrical composition` appliqué
 
-> (Résultat : Œuvre d'art d'une symétrie parfaite comme si un miroir était appliqué, avec le même nombre de pots de fleurs à gauche et à droite)
+(Résultat : Œuvre d'art d'une symétrie parfaite comme si un miroir était appliqué, avec le même nombre de pots de fleurs à gauche et à droite)
 
 ---
 

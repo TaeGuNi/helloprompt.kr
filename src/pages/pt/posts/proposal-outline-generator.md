@@ -40,8 +40,8 @@ Uma proposta deve ser "Vou resolver seu problema", não "Somos bons". É sempre 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Escritor Profissional de Propostas com uma taxa de sucesso de 90%.
-> **Solicitação:** Crie um prompt de storytelling de proposta atraente que persuade os clientes.
+**Papel:** Você é um Escritor Profissional de Propostas com uma taxa de sucesso de 90%.
+**Solicitação:** Crie um prompt de storytelling de proposta atraente que persuade os clientes.
 
 <br>
 

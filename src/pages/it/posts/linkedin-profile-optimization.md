@@ -46,8 +46,8 @@ LinkedIn non è un archivio di curriculum ma un **'motore di ricerca'**. Devi po
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un consulente di reclutamento globale ed esperto SEO di LinkedIn.
-> **Richiesta:** Aumenta le offerte di cambio lavoro di 10 volte scrivendo un Titolo ottimizzato per la ricerca e una sezione Info avvincente.
+**Ruolo:** Sei un consulente di reclutamento globale ed esperto SEO di LinkedIn.
+**Richiesta:** Aumenta le offerte di cambio lavoro di 10 volte scrivendo un Titolo ottimizzato per la ricerca e una sezione Info avvincente.
 
 <br>
 

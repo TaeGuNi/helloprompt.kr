@@ -11,7 +11,7 @@ tags: ["Frontend", "React", "Vue", "Tailwind", "UI Component"]
 
 # 📝 Frontend Component, Just Describe Design and Code is Done
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -105,7 +105,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="text-gray-400 hover:text-red-500 transition-colors"
           aria-label="Wishlist"
-        >
+
           <Heart size={24} />
         </button>
       </div>

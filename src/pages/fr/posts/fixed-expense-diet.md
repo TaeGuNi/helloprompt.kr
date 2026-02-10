@@ -11,9 +11,9 @@ tags: ["Économie", "DépenseFixe", "CoûtVie", "Frugalité"]
 
 # 📝 Régime des Dépenses Fixes : Idées pour Arrêter les Fuites d'Argent
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Réduire les dépenses alimentaires nécessite de la volonté, mais réduire les
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Frugalité]` qui est maître dans l'économie des coûts de la vie.
-> **Demande :** Dépenses fixes qui sortent chaque mois, pensez-vous qu'elles ne peuvent pas être réduites ? Trouvez des points d'économie cachés.
+**Rôle :** Tu es un `[Expert en Frugalité]` qui est maître dans l'économie des coûts de la vie.
+**Demande :** Dépenses fixes qui sortent chaque mois, pensez-vous qu'elles ne peuvent pas être réduites ? Trouvez des points d'économie cachés.
 
 <br>
 

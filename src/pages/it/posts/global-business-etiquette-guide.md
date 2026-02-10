@@ -17,8 +17,8 @@ tags:
 
 # 📝 Etichetta Aziendale Globale per Viaggi d'Affari di Successo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Gli affari sono dettagli. Un piccolo gesto può costruire fiducia o distruggerla
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Consulente Aziendale Internazionale' con 20 anni di esperienza.
-> **Richiesta:** Biglietti da visita con due mani? Chi stringe la mano per primo? Dimmi le buone maniere aziendali per paese che portano contratti.
+**Ruolo:** Sei un 'Consulente Aziendale Internazionale' con 20 anni di esperienza.
+**Richiesta:** Biglietti da visita con due mani? Chi stringe la mano per primo? Dimmi le buone maniere aziendali per paese che portano contratti.
 
 <br>
 

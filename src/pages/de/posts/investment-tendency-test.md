@@ -17,8 +17,8 @@ tags:
 
 # 📝 Mein Investitionsneigungstest: Feigling oder Bestie?
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Wenn Sie Ihre Investitionsneigung (Risikotoleranz) nicht kennen, verlieren Sie j
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Investitionspsychologie-Berater]` mit Schwerpunkt Verhaltensökonomie.
-> **Anfrage:** Stoppen Sie langweilige Umfragen am Bankschalter. KI identifiziert Ihre wahre Risikotoleranzneigung.
+**Rolle:** Du bist ein `[Investitionspsychologie-Berater]` mit Schwerpunkt Verhaltensökonomie.
+**Anfrage:** Stoppen Sie langweilige Umfragen am Bankschalter. KI identifiziert Ihre wahre Risikotoleranzneigung.
 
 <br>
 

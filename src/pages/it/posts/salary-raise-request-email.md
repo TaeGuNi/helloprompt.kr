@@ -17,8 +17,8 @@ tags:
 
 # 📝 Discorso Soldi Difficile, Scrittore 'Email Richiesta Aumento Salariale' Educato ma Fermo
 
-> **🎯 Consigliato per:** Impiegati d'Ufficio
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Impiegati d'Ufficio
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Prima della negoziazione faccia a faccia, l'**'Email per aprire la porta'** è i
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto di comunicazione aziendale.
-> **Richiesta:** Scrivi una email aziendale chiedendo negoziazione salariale educatamente ma dichiarando chiaramente motivi di prestazione e fascia desiderata senza rovinare i sentimenti.
+**Ruolo:** Sei un esperto di comunicazione aziendale.
+**Richiesta:** Scrivi una email aziendale chiedendo negoziazione salariale educatamente ma dichiarando chiaramente motivi di prestazione e fascia desiderata senza rovinare i sentimenti.
 
 <br>
 

@@ -17,9 +17,9 @@ tags:
 
 # 📝 Discussion d'Argent Difficile, Rédacteur d' 'Email de Demande d'Augmentation de Salaire' Poli mais Ferme
 
-> **🎯 Recommandé pour :** Employés de Bureau
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Employés de Bureau
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
@@ -45,8 +45,8 @@ Avant la négociation en face à face, l'**'Email pour ouvrir la porte'** est im
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en communication professionnelle.
-> **Demande :** Écrit un email professionnel demandant une négociation salariale poliment mais en déclarant clairement les arguments de performance et la fourchette souhaitée sans gâcher les sentiments.
+**Rôle :** Tu es un expert en communication professionnelle.
+**Demande :** Écrit un email professionnel demandant une négociation salariale poliment mais en déclarant clairement les arguments de performance et la fourchette souhaitée sans gâcher les sentiments.
 
 <br>
 

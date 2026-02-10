@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 
 # 📝 Warmth of Paper: Paper Cutout & Origami
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Hills and house drawing.`
 
-> (Result: Ordinary 2D illustration)
+(Result: Ordinary 2D illustration)
 
 ### ✅ After (Result)
 
 `Paper cutout` prompt applied
 
-> (Result: Paper craft work that looks three-dimensional as if it will pop out due to shadows, and seems rough if touched)
+(Result: Paper craft work that looks three-dimensional as if it will pop out due to shadows, and seems rough if touched)
 
 ---
 

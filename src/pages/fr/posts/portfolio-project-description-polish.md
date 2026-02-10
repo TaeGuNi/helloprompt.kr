@@ -39,8 +39,8 @@ La valeur du projet réside dans **'quel problème a été résolu'**. Lister si
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un responsable technique senior et recruteur dans une entreprise informatique.
-> **Demande :** Affine la description de projet en format de narration pour que le processus de résolution de problème et la contribution ressortent, plutôt qu'une simple liste de projets.
+**Rôle :** Tu es un responsable technique senior et recruteur dans une entreprise informatique.
+**Demande :** Affine la description de projet en format de narration pour que le processus de résolution de problème et la contribution ressortent, plutôt qu'une simple liste de projets.
 
 <br>
 

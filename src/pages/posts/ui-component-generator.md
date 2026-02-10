@@ -108,7 +108,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="text-gray-400 hover:text-red-500 transition-colors"
           aria-label="찜하기"
-        >
+
           <Heart size={24} />
         </button>
       </div>

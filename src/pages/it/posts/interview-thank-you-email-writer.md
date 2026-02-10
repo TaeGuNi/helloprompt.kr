@@ -17,8 +17,8 @@ tags:
 
 # 📝 Tempo d'Oro del Colloquio! Scrittore di 'Email di Ringraziamento' da Inviare Immediatamente Dopo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Una 'Email di Ringraziamento' inviata entro 24 ore dopo il colloquio non è solo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto di email aziendali.
-> **Richiesta:** Scrivi una Email di Ringraziamento educata che reimprime la tua immagine menzionando contenuti specifici discussi durante il colloquio subito dopo che finisce.
+**Ruolo:** Sei un esperto di email aziendali.
+**Richiesta:** Scrivi una Email di Ringraziamento educata che reimprime la tua immagine menzionando contenuti specifici discussi durante il colloquio subito dopo che finisce.
 
 <br>
 

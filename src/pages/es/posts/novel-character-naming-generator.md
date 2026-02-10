@@ -11,8 +11,8 @@ tags: ["Nombrar", "Personaje", "Novela", "CreaciónNombre", "Configuración"]
 
 # 📝 Generador de Nombres de Personajes de Novela (Coincidiendo Significado y Matiz)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Nombres comunes como 'Kim Cheol-su', 'John Doe' reducen encanto del personaje. P
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un novelista con gran sentido de nombrado y antropólogo.
-> **Solicitud:** Nombra personajes perfectamente con significado y matiz reflejando personalidad, nacionalidad y época del personaje.
+**Rol:** Eres un novelista con gran sentido de nombrado y antropólogo.
+**Solicitud:** Nombra personajes perfectamente con significado y matiz reflejando personalidad, nacionalidad y época del personaje.
 
 <br>
 

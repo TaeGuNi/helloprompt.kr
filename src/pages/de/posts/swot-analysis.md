@@ -11,8 +11,8 @@ tags: ["Aktie", "Unternehmensanalyse", "SWOT", "Strategie"]
 
 # 📝 Standard der Unternehmensanalyse: KI-SWOT-Analysator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das grundlegendste, aber mächtigste Werkzeug bei der Analyse eines Unternehmens
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Strategieberater]` bei einer Unternehmensberatung.
-> **Anfrage:** Erfasse Stärken, Schwächen, Chancen und Bedrohungen des Unternehmens, in das ich investieren möchte, auf einen Blick.
+**Rolle:** Du bist ein `[Strategieberater]` bei einer Unternehmensberatung.
+**Anfrage:** Erfasse Stärken, Schwächen, Chancen und Bedrohungen des Unternehmens, in das ich investieren möchte, auf einen Blick.
 
 <br>
 

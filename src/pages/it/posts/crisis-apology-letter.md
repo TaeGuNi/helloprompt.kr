@@ -41,9 +41,9 @@ Tutti commettono errori. Ma non tutti li risolvono bene. Una lettera di scuse ch
 
 Per ritardi o semplici omissioni.
 
-> **Ruolo:** Sei un uomo d'affari educato.
-> **Situazione:** Ero `[10 min in ritardo alla riunione]`.
-> **Richiesta:** Scrivi un messaggio di scuse educato al mio capo. Non trovare scuse, e aggiungi brevemente cosa farò.
+**Ruolo:** Sei un uomo d'affari educato.
+**Situazione:** Ero `[10 min in ritardo alla riunione]`.
+**Richiesta:** Scrivi un messaggio di scuse educato al mio capo. Non trovare scuse, e aggiungi brevemente cosa farò.
 
 <br>
 
@@ -83,7 +83,7 @@ Quando sono in gioco soldi o fiducia.
 
 ### ❌ Prima (Amatoriale)
 
-> Sig. Rossi, la neve è troppo forte quindi la consegna si è fermata. Non è colpa mia... comunque scusa. Arriverà tra 3 giorni.
+Sig. Rossi, la neve è troppo forte quindi la consegna si è fermata. Non è colpa mia... comunque scusa. Arriverà tra 3 giorni.
 
 ### ✅ Dopo (IA Professionale)
 

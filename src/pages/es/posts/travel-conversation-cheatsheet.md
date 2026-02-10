@@ -11,8 +11,8 @@ tags: ["Viajes", "Idioma Extranjero", "Conversación", "Inglés", "Japonés"]
 
 # 📝 ¡Más Rápido que Papago! Hoja de Trucos de Conversación de Viaje Esencial por Situación
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las aplicaciones de traducción son geniales, pero es engorroso encender, escrib
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Intérprete fluido en el idioma y la cultura local.
-> **Solicitud:** Crea un prompt para tarjetas de conversación prácticas que funcionen inmediatamente localmente para pedidos en restaurantes, registro en hoteles, hasta emergencias.
+**Rol:** Eres un Intérprete fluido en el idioma y la cultura local.
+**Solicitud:** Crea un prompt para tarjetas de conversación prácticas que funcionen inmediatamente localmente para pedidos en restaurantes, registro en hoteles, hasta emergencias.
 
 <br>
 

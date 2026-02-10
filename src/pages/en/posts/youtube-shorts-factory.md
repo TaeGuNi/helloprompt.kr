@@ -11,7 +11,7 @@ tags: ["YouTube", "Shorts", "ScriptWriting", "Creator", "TikTok"]
 
 # 🎬 YouTube Shorts Factory: Script + Visuals in 30 Seconds
 
-> **🎯 Recommended for:** YouTubers running out of ideas for daily uploads, Side-hustlers growing Shorts channels
+**🎯 Recommended for:** YouTubers running out of ideas for daily uploads, Side-hustlers growing Shorts channels
 
 - **⏱️ Time Required:** 30 seconds
 - **🤖 Recommended Model:** ChatGPT-4o (Fast & Witty)
@@ -20,7 +20,7 @@ tags: ["YouTube", "Shorts", "ScriptWriting", "Creator", "TikTok"]
 | :--------: | :-----------: | :--------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... what should I film tomorrow? When do I write the script..."_
+_"Ah... what should I film tomorrow? When do I write the script..."_
 
 The core of Short-form (Shorts/Reels/TikTok) is **'Consistency'** and **'First 3 Seconds'**. But squeezing out viral ideas daily is not humanly possible. Now, let's inject the **'Viral Formula'** into AI and build a factory that prints scripts just by breathing.
 
@@ -81,19 +81,19 @@ A perfect script ready to read on camera.
 
 ### ❌ Before (Just writing)
 
-> Hello everyone~ Today I will introduce good items at Daiso. First is... (Viewers scrolled away 👋)
+Hello everyone~ Today I will introduce good items at Daiso. First is... (Viewers scrolled away 👋)
 
 ### ✅ After (AI Factory)
 
-> **[0~3s]**
->
-> - **Visual:** Crumpling a receipt and throwing it on the floor.
-> - **Audio:** "Still wasting money at Daiso? Staff secretly use these 3 real gems! Just grab these."
->
-> **[4~15s]**
->
-> - **Visual:** Close-up of Product A.
-> - **Audio:** "First, [Product Name]. You know this is sold out everywhere? If you see it..."
+**[0~3s]**
+
+- **Visual:** Crumpling a receipt and throwing it on the floor.
+- **Audio:** "Still wasting money at Daiso? Staff secretly use these 3 real gems! Just grab these."
+
+**[4~15s]**
+
+- **Visual:** Close-up of Product A.
+- **Audio:** "First, [Product Name]. You know this is sold out everywhere? If you see it..."
 
 ---
 

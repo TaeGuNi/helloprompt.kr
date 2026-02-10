@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 SWOT-Analyse in 1 Minute ohne Brainstorming beenden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die SWOT-Analyse ist in der Strategieplanungsphase unerlässlich, aber wenn man 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Global Management Consultant (von McKinsey).
-> **Anfrage:** Erstelle einen Prompt für SWOT-Analyse, die Grundlage neuer Geschäftsideen und Marketingstrategie-Erstellung, mit KI.
+**Rolle:** Du bist ein Global Management Consultant (von McKinsey).
+**Anfrage:** Erstelle einen Prompt für SWOT-Analyse, die Grundlage neuer Geschäftsideen und Marketingstrategie-Erstellung, mit KI.
 
 <br>
 

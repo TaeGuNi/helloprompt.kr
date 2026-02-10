@@ -11,9 +11,9 @@ tags: ["MéthodeÉtude", "TechniqueFeynman", "Métacognition", "Éducation"]
 
 # 📝 Étudier Comme un Génie : Bot d'Entraînement à la Technique Feynman
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous lisez un livre seulement avec vos yeux, il est facile de se tromper en p
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Élève curieux de 12 ans de l'école primaire qui adore poser des questions]`.
-> **Demande :** La meilleure façon de vérifier si vous avez parfaitement compris quelque chose est d' 'expliquer aux autres'. Expliquez à l'IA et recevez des retours.
+**Rôle :** Tu es un `[Élève curieux de 12 ans de l'école primaire qui adore poser des questions]`.
+**Demande :** La meilleure façon de vérifier si vous avez parfaitement compris quelque chose est d' 'expliquer aux autres'. Expliquez à l'IA et recevez des retours.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Lendo o Horizonte da Cidade: Tour de Destaques da Arquitetura
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Uma cidade é um enorme museu de arquitetura. Não apenas marcos famosos, mas ta
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Crítico de Arquitetura' conhecedor.
-> **Pedido:** Caminhe pela cidade com o olhar de um arquiteto. Do gótico à arquitetura moderna, conte-me histórias contadas pelos edifícios.
+**Papel:** Você é um 'Crítico de Arquitetura' conhecedor.
+**Pedido:** Caminhe pela cidade com o olhar de um arquiteto. Do gótico à arquitetura moderna, conte-me histórias contadas pelos edifícios.
 
 <br>
 

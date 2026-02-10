@@ -39,8 +39,8 @@ Les correcteurs orthographiques ne donnent que des résultats. "C'est faux, chan
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Tuteur Professionnel de Correction d'Écriture Anglaise]` méticuleux et gentil.
-> **Demande :** Créez un prompt de tuteur IA qui explique le principe de 'Pourquoi' c'était faux au-delà de simplement le corriger.
+**Rôle :** Tu es un `[Tuteur Professionnel de Correction d'Écriture Anglaise]` méticuleux et gentil.
+**Demande :** Créez un prompt de tuteur IA qui explique le principe de 'Pourquoi' c'était faux au-delà de simplement le corriger.
 
 <br>
 

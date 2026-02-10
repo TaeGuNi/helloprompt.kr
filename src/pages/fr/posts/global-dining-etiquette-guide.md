@@ -17,9 +17,9 @@ tags:
 
 # 📝 Est-il Impoli de Faire des Bruits en Aspirant ? Guide Parfait de l'Étiquette à Table par Pays
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Les actions considérées comme acquises en Corée peuvent être impolies à l'�
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Consultant en Manières Mondiales' versé dans la culture culinaire et l'étiquette à travers le monde.
-> **Demande :** À Rome, fais comme les Romains. Manières à table dans ce pays. Dis-moi les manières à table mondiales où il est facile de faire des erreurs.
+**Rôle :** Tu es un 'Consultant en Manières Mondiales' versé dans la culture culinaire et l'étiquette à travers le monde.
+**Demande :** À Rome, fais comme les Romains. Manières à table dans ce pays. Dis-moi les manières à table mondiales où il est facile de faire des erreurs.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 
 # 📝 God of Organization: Knolling
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Travel items on table.`
 
-> (Result: Photo where objects are disorderly scattered or overlapped)
+(Result: Photo where objects are disorderly scattered or overlapped)
 
 ### ✅ After (Result)
 
 `Knolling` prompt applied
 
-> (Result: Image where all objects are neatly arranged at regular intervals, putting the mind at ease)
+(Result: Image where all objects are neatly arranged at regular intervals, putting the mind at ease)
 
 ---
 

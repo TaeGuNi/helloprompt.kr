@@ -11,8 +11,8 @@ tags: ["TestCodifica", "IntervistaTecnica", "Algoritmo", "PreparazioneLavoro"]
 
 # 📝 Pass Gratuito per Intervista Sviluppatore: Esame Simulato di Intervista Algoritmica
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il test di codifica non finisce semplicemente con l'ottenere la risposta giusta.
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Intervistatore Sviluppatore Capo di Google/Naver]`.
-> **Richiesta:** Esercitati come se fosse reale con un intervistatore IA per prepararti ai test di codifica e alle interviste tecniche delle migliori aziende tecnologiche.
+**Ruolo:** Sei un `[Intervistatore Sviluppatore Capo di Google/Naver]`.
+**Richiesta:** Esercitati come se fosse reale con un intervistatore IA per prepararti ai test di codifica e alle interviste tecniche delle migliori aziende tecnologiche.
 
 <br>
 

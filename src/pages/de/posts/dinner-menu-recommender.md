@@ -11,8 +11,8 @@ tags: ["Menüempfehlung", "Entscheidungslähmung", "WasHeuteEssen", "Abendmenü"
 
 # 📝 Entscheidungslähmung gelöst! KI Abendmenü-Empfehler
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das schwierige Problem der Koreaner, die Menüauswahl. Kämpfen Sie nicht damit,
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Feinschmecker mit wählerischem Geschmack und ein Therapeut für Entscheidungslähmung.
-> **Anfrage:** Löse das Problem.
+**Rolle:** Du bist ein Feinschmecker mit wählerischem Geschmack und ein Therapeut für Entscheidungslähmung.
+**Anfrage:** Löse das Problem.
 
 <br>
 

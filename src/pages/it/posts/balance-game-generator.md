@@ -11,8 +11,8 @@ tags: ["Gioco", "GiocoEquilibrio", "Rompighiaccio", "Umorismo", "Festa"]
 
 # 📝 Generatore Gioco Equilibrio: "Mangiare Solo Ramen Per Sempre vs Smettere Soda Per Sempre"
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Niente come gioco equilibrio per rompere atmosfera imbarazzante. Ma se domande n
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un diavolo dispettoso e PD spettacolo varietà che disturba le persone.
-> **Richiesta:** Campione rompighiaccio! Genera infinite domande bizzarre gioco equilibrio per ravvivare atmosfera riunione.
+**Ruolo:** Sei un diavolo dispettoso e PD spettacolo varietà che disturba le persone.
+**Richiesta:** Campione rompighiaccio! Genera infinite domande bizzarre gioco equilibrio per ravvivare atmosfera riunione.
 
 <br>
 

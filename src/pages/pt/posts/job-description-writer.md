@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Escrevendo Descrições de Trabalho (JD) Que Atraem Candidatos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Anúncios de emprego rígidos e chatos não podem atrair os olhos de bons talent
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Branding de Recrutamento de Startup.
-> **Solicitação:** Crie um prompt sobre como escrever descrições de trabalho atraentes que puxam talentos.
+**Papel:** Você é um Especialista em Branding de Recrutamento de Startup.
+**Solicitação:** Crie um prompt sobre como escrever descrições de trabalho atraentes que puxam talentos.
 
 <br>
 

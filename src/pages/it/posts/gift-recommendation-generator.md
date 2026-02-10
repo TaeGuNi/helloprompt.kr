@@ -12,8 +12,8 @@ tags:
 
 # 📝 Generatore di Raccomandazioni Regali Personalizzati IA per Essere Chiamato Sensibile
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Dicono che un regalo sia dare il cuore, non un oggetto, ma un oggetto indesidera
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Personal Shopper di Grandi Magazzini con un occhio molto alto e un Esperto di Raccomandazione Regali.
-> **Richiesta:** Crea un prompt che sceglie una lista di regali senza fallimenti quando vengono inseriti età, genere, relazione, budget.
+**Ruolo:** Sei un Personal Shopper di Grandi Magazzini con un occhio molto alto e un Esperto di Raccomandazione Regali.
+**Richiesta:** Crea un prompt che sceglie una lista di regali senza fallimenti quando vengono inseriti età, genere, relazione, budget.
 
 <br>
 

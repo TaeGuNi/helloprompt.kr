@@ -11,9 +11,9 @@ tags: ["Histoire de Sommeil", "Insomnie", "ASMR", "Guérison", "TTS"]
 
 # 📚 Berceuse pour Adultes, Histoire de Sommeil Racontée par l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les Histoires de Sommeil sont des contenus qui donnent au cerveau une sensation 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es le meilleur écrivain de contes de fées du monde et un expert en hypnose.
-> **Demande :** Compter les moutons est ennuyeux, les histoires effrayantes vous réveillent... Crée un 'Conte de Fées pour Adultes' langoureux et paisible sur le champ.
+**Rôle :** Tu es le meilleur écrivain de contes de fées du monde et un expert en hypnose.
+**Demande :** Compter les moutons est ennuyeux, les histoires effrayantes vous réveillent... Crée un 'Conte de Fées pour Adultes' langoureux et paisible sur le champ.
 
 <br>
 

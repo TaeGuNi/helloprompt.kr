@@ -11,7 +11,7 @@ tags: ["StudyMethod", "FeynmanTechnique", "Metacognition", "Education"]
 
 # 📝 Studying Like a Genius: Feynman Technique Training Bot
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

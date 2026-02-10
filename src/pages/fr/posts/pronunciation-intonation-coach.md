@@ -39,8 +39,8 @@ L'anglais est une langue d' 'Accent' et de 'Rythme'. Si vous lisez honnêtement 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Phonétique et Coach de Correction de Prononciation]`.
-> **Demande :** Enseignez visuellement les symboles phonétiques, l'accentuation et l'intonation même dans des environnements où le son ne peut pas être entendu.
+**Rôle :** Tu es un `[Expert en Phonétique et Coach de Correction de Prononciation]`.
+**Demande :** Enseignez visuellement les symboles phonétiques, l'accentuation et l'intonation même dans des environnements où le son ne peut pas être entendu.
 
 <br>
 

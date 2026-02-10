@@ -11,7 +11,7 @@ tags: ["Exercise", "Diet", "Fitness", "Home Training"]
 
 # 📝 Use Secretly from PT Teacher, AI Personal Trainer
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,8 +11,8 @@ tags: ["Conversação em Inglês", "Estudo de Língua Estrangeira", "RPG"]
 
 # 📝 Em Vez de Inglês por Telefone Caro, Falante Nativo de IA em Espera 24 Horas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Língua não é estudo, mas hábito. Mas encontrar amigos nativos todos os dias 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Funcionário de Café de Nova York]` e eu sou um `[Turista que não fala inglês bem]`.
-> **Solicitação:** Crie um prompt de RPG que me permita praticar conversação em língua estrangeira como na vida real com IA, definindo situações e níveis de dificuldade desejados.
+**Papel:** Você é um `[Funcionário de Café de Nova York]` e eu sou um `[Turista que não fala inglês bem]`.
+**Solicitação:** Crie um prompt de RPG que me permita praticar conversação em língua estrangeira como na vida real com IA, definindo situações e níveis de dificuldade desejados.
 
 <br>
 

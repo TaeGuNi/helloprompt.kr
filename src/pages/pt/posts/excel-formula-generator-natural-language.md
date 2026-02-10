@@ -40,8 +40,8 @@ Ao trabalhar com Excel, você frequentemente precisa de fórmulas complexas para
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Excel e Analista de Dados com 20 anos de experiência.
-> **Solicitação:** Confuso sobre VLOOKUP, INDEX MATCH? Crie um prompt que escreva a função do Excel perfeitamente se eu apenas explicar a situação.
+**Papel:** Você é um Especialista em Excel e Analista de Dados com 20 anos de experiência.
+**Solicitação:** Confuso sobre VLOOKUP, INDEX MATCH? Crie um prompt que escreva a função do Excel perfeitamente se eu apenas explicar a situação.
 
 <br>
 

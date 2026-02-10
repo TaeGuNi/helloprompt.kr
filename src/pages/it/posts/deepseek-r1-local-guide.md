@@ -11,8 +11,8 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Produttività"]
 
 # 💻 Il Tuo Schiavo del Codice Gratuito su PC: Guida all'Installazione Locale di DeepSeek R1
 
-> **🎯 Consigliato per:** Sviluppatori preoccupati di divulgare codice aziendale, Studenti che risparmiano sui costi API, Lavoratori offline
-> **⏱️ Tempo Richiesto:** 10 min
+**🎯 Consigliato per:** Sviluppatori preoccupati di divulgare codice aziendale, Studenti che risparmiano sui costi API, Lavoratori offline
+**⏱️ Tempo Richiesto:** 10 min
 
 - **🤖 Modello Consigliato:** DeepSeek-R1-Distill-Llama-8B (o 70B)
 
@@ -20,7 +20,7 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Produttività"]
 | :--------: | :--------: | :--------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Non puoi incollare codice aziendale su ChatGPT a causa delle policy di sicurezza? Ma odi usare vecchi modelli stupidi? Ora, chiudi **DeepSeek R1** nel tuo computer e fallo lavorare per te. 100% Gratis, 100% Privato."_
+_"Non puoi incollare codice aziendale su ChatGPT a causa delle policy di sicurezza? Ma odi usare vecchi modelli stupidi? Ora, chiudi **DeepSeek R1** nel tuo computer e fallo lavorare per te. 100% Gratis, 100% Privato."_
 
 Nel 2026, la parola chiave più calda tra gli sviluppatori è senza dubbio **"Local LLM"**. Tra questi, **DeepSeek R1** sta mostrando prestazioni folli (specialmente nelle abilità di coding), spesso chiamato "L'Errore dell'Open Source". Questa guida ti mostra il modo più semplice e veloce per installare DeepSeek sul tuo Mac (o PC Windows).
 
@@ -86,8 +86,8 @@ Chattare nel terminale non è figo. Colleghiamolo a **VS Code** e rendiamolo un 
 4.  Seleziona `DeepSeek R1` come Modello. (Funziona anche Autodetect)
 5.  Ora trascina codice e premi `Cmd + L` (Win: `Ctrl + L`) per chiedere.
 
-> **Q:** "Rifattorizza questa funzione."
-> **A:** (DeepSeek sputa codice all'istante)
+**Q:** "Rifattorizza questa funzione."
+**A:** (DeepSeek sputa codice all'istante)
 
 ---
 

@@ -39,8 +39,8 @@ Parfois, il y a des soucis difficiles à dire même aux amis ou à la famille. L
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Conseiller Psychologique Professionnel avec un cœur chaleureux. Converse sur la base des techniques de Thérapie Comportementale et Cognitive (TCC).
-> **Demande :** Crée un prompt pour des soucis que vous ne pouvez dire à personne, confessez-les à l'IA et trouvez la tranquillité d'esprit.
+**Rôle :** Tu es un Conseiller Psychologique Professionnel avec un cœur chaleureux. Converse sur la base des techniques de Thérapie Comportementale et Cognitive (TCC).
+**Demande :** Crée un prompt pour des soucis que vous ne pouvez dire à personne, confessez-les à l'IA et trouvez la tranquillité d'esprit.
 
 <br>
 

@@ -40,8 +40,8 @@ Questa è **Illuminazione da Studio** che rimuove il disordine dallo sfondo e ti
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Imposta l'illuminazione da studio per foto di prodotti o profili puliti e professionali.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Imposta l'illuminazione da studio per foto di prodotti o profili puliti e professionali.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Perfume bottle on table.`
 
-> (Risultato: Foto con un senso di vita come se fosse posizionata su un tavolo da pranzo a casa)
+(Risultato: Foto con un senso di vita come se fosse posizionata su un tavolo da pranzo a casa)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Studio lighting` applicato
 
-> (Risultato: Immagine di qualità pubblicitaria da grande magazzino che vanta riflessi e trasparenza perfetti)
+(Risultato: Immagine di qualità pubblicitaria da grande magazzino che vanta riflessi e trasparenza perfetti)
 
 ---
 

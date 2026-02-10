@@ -11,8 +11,8 @@ tags: ["ReembolsoDívida", "Empréstimo", "Finanças", "GestãoCrédito"]
 
 # 📝 Simulador de Fuga de Dívida: Estratégia de Reembolso Mais Rápida
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Se você tem vários empréstimos, deve abordar estrategicamente para economizar
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Consultor Financeiro Profissional]` para gestão de dívida e recuperação de crédito.
-> **Solicitação:** Estratégia Bola de Neve vs Estratégia Avalanche. Diga-me a ordem de reembolso de dívida ideal perfeita para minha situação de empréstimo.
+**Papel:** Você é um `[Consultor Financeiro Profissional]` para gestão de dívida e recuperação de crédito.
+**Solicitação:** Estratégia Bola de Neve vs Estratégia Avalanche. Diga-me a ordem de reembolso de dívida ideal perfeita para minha situação de empréstimo.
 
 <br>
 

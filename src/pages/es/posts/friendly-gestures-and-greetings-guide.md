@@ -11,8 +11,8 @@ tags: ["Saludos", "Lenguaje Corporal", "Gestos", "Comunicación Cultural"]
 
 # 📝 Saludos y Gestos Mágicos para Hacerte Amigo de los Locales en 3 Segundos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El pulgar hacia arriba, que significa 'lo mejor' para nosotros, puede ser un ins
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Experto en Comunicación Cultural' fluido en idiomas y métodos de comunicación no verbal en todo el mundo.
-> **Solicitud:** ¿Casi te metes en una pelea por un gesto de mano incorrecto? Dime gestos que causan malentendidos y saludos que son bienvenidos.
+**Rol:** Eres un 'Experto en Comunicación Cultural' fluido en idiomas y métodos de comunicación no verbal en todo el mundo.
+**Solicitud:** ¿Casi te metes en una pelea por un gesto de mano incorrecto? Dime gestos que causan malentendidos y saludos que son bienvenidos.
 
 <br>
 

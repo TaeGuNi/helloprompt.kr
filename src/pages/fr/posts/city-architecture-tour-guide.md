@@ -18,9 +18,9 @@ tags:
 
 # 📝 Lire la Skyline de la Ville : Visite des Points Forts de l'Architecture
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Une ville est un immense musée d'architecture. Non seulement les monuments cél
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Critique d'Architecture' compétent.
-> **Demande :** Parcoure la ville avec l'œil d'un architecte. Du gothique à l'architecture moderne, raconte-moi des histoires racontées par les bâtiments.
+**Rôle :** Tu es un 'Critique d'Architecture' compétent.
+**Demande :** Parcoure la ville avec l'œil d'un architecte. Du gothique à l'architecture moderne, raconte-moi des histoires racontées par les bâtiments.
 
 <br>
 

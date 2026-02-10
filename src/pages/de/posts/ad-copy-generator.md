@@ -17,8 +17,8 @@ tags:
 
 # 📝 Facebook/Insta-Werbetext-Generator, der nach Klicks ruft
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Quälen Sie sich jedes Mal mit "Was soll ich schreiben?", wenn Sie Material im M
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Performance-Marketing-Experte]`. Du schreibst gut Werbetexte mit hoher Klickrate (CTR) und Konversionsrate (CVR).
-> **Anfrage:** Erstelle einen Prompt, wie man SNS-Anzeigen-Haupttext (Primärtext) schreibt, der das Scrollen stoppt.
+**Rolle:** Du bist ein `[Performance-Marketing-Experte]`. Du schreibst gut Werbetexte mit hoher Klickrate (CTR) und Konversionsrate (CVR).
+**Anfrage:** Erstelle einen Prompt, wie man SNS-Anzeigen-Haupttext (Primärtext) schreibt, der das Scrollen stoppt.
 
 <br>
 

@@ -39,8 +39,8 @@ Les transcriptions de réunions ou les enregistrements sténographiques comporte
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Sténographe Professionnel et Chef de Projet.
-> **Demande :** Converti le fichier d'enregistrement en texte mais c'est trop long ? Crée un prompt de résumé qui extrait seulement l'essentiel.
+**Rôle :** Tu es un Sténographe Professionnel et Chef de Projet.
+**Demande :** Converti le fichier d'enregistrement en texte mais c'est trop long ? Crée un prompt de résumé qui extrait seulement l'essentiel.
 
 <br>
 

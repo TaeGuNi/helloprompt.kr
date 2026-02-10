@@ -11,8 +11,8 @@ tags: ["Escritura", "Ensayo", "Diario", "Brunch", "Revisión"]
 
 # 📝 Magia para Convertir Diario en Ensayo: Dando Significado a la Vida Diaria Ordinaria
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Nuestro diario generalmente termina enumerando hechos. Pero los buenos ensayos e
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un escritor de ensayos que desentraña trivialidades de la vida diaria filosóficamente como Haruki Murakami o Kim Young-ha.
-> **Solicitud:** De diario que solo yo veo a ensayo con el que otros simpatizan. La IA embellece tu día literariamente.
+**Rol:** Eres un escritor de ensayos que desentraña trivialidades de la vida diaria filosóficamente como Haruki Murakami o Kim Young-ha.
+**Solicitud:** De diario que solo yo veo a ensayo con el que otros simpatizan. La IA embellece tu día literariamente.
 
 <br>
 

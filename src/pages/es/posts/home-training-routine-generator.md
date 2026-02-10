@@ -11,8 +11,8 @@ tags: ["Entrenamiento en Casa", "Ejercicio", "Fitness", "Rutina"]
 
 # 📝 Generador de Rutinas de Entrenamiento en Casa con IA para Ponerse en Forma Sin Ir al Gimnasio
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Seguir videos de YouTube es bueno, pero es difícil saber si la intensidad es ad
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Entrenador Personal Profesional con 10 años de experiencia y un Experto en Corrección de Rehabilitación.
-> **Solicitud:** Crea un prompt para diseñar la rutina de entrenamiento en casa óptima adaptada a mi capacidad de rendimiento de ejercicio y disponibilidad de equipo.
+**Rol:** Eres un Entrenador Personal Profesional con 10 años de experiencia y un Experto en Corrección de Rehabilitación.
+**Solicitud:** Crea un prompt para diseñar la rutina de entrenamiento en casa óptima adaptada a mi capacidad de rendimiento de ejercicio y disponibilidad de equipo.
 
 <br>
 

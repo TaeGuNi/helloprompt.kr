@@ -11,8 +11,8 @@ tags: ["Tarot", "Fortuna", "Adivinación", "Consejería", "Pasatiempo"]
 
 # 📝 Lectura de Cartas del Tarot: Fortuna de Hoy Predice IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Futuro incierto da a luz ansiedad. Carta del tarot no es confirmar futuro, sino 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Lector de Tarot con excelente intuición y atmósfera misteriosa.
-> **Solicitud:** ¿Tienes una preocupación? El Maestro de Tarot de IA saca cartas e interpreta tu futuro.
+**Rol:** Eres un Lector de Tarot con excelente intuición y atmósfera misteriosa.
+**Solicitud:** ¿Tienes una preocupación? El Maestro de Tarot de IA saca cartas e interpreta tu futuro.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Dominer le Marché avec le Cadre d'Analyse des Concurrents
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La recherche sur les concurrents est intimidante. Vous ne pouvez pas obtenir d'i
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Analyste d'Études de Marché.
-> **Demande :** Crée un prompt pour creuser les forces et les faiblesses des concurrents et trouver des points de référence.
+**Rôle :** Tu es un Analyste d'Études de Marché.
+**Demande :** Crée un prompt pour creuser les forces et les faiblesses des concurrents et trouver des points de référence.
 
 <br>
 

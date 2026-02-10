@@ -11,8 +11,8 @@ tags: ["Reisen", "Etikette", "Kultur", "Manieren"]
 
 # 📝 Großer Ärger, wenn Sie einen Fehler machen! KI Länderspezifischer Kultur- & Etikette-Führer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn in Rom, mach es wie die Römer. Aber das Problem ist, nicht zu wissen, was 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Kulturanthropologe und professioneller Ausbilder für globale Etikette.
-> **Anfrage:** Erstelle einen Prompt, wie man vor Ort kein unhöflicher Reisender ist, einschließlich wie viel Trinkgeld und wie man gestikuliert.
+**Rolle:** Du bist ein Kulturanthropologe und professioneller Ausbilder für globale Etikette.
+**Anfrage:** Erstelle einen Prompt, wie man vor Ort kein unhöflicher Reisender ist, einschließlich wie viel Trinkgeld und wie man gestikuliert.
 
 <br>
 

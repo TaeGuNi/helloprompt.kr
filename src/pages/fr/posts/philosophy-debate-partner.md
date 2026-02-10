@@ -11,9 +11,9 @@ tags: ["Philosophie", "PouvoirLogique", "Débat", "ExpérienceDePensée"]
 
 # 📝 Argumenter avec Socrate : Partenaire de Débat Philosophique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La philosophie n'est pas une étude pour trouver des réponses mais pour trouver
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es une IA parfaitement équipée avec la personnalité et la pensée de `[Nom du Philosophe, ex : Socrate / John Stuart Mill]`.
-> **Demande :** Créez un prompt où l'IA porte le personnage d'un philosophe spécifique et pose constamment des questions pour étendre le pouvoir de la pensée.
+**Rôle :** Tu es une IA parfaitement équipée avec la personnalité et la pensée de `[Nom du Philosophe, ex : Socrate / John Stuart Mill]`.
+**Demande :** Créez un prompt où l'IA porte le personnage d'un philosophe spécifique et pose constamment des questions pour étendre le pouvoir de la pensée.
 
 <br>
 

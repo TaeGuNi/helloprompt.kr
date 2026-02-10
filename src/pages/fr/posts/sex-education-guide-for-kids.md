@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Plus Besoin de Dire 'On t'a Trouvé sous un Pont'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous bredouillez ou mentez, l'enfant perçoit le sexe comme 'quelque chose à
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en éducation sexuelle pour enfants.
-> **Demande :** Fournis un guide pour expliquer l'éducation sexuelle avec précision et beauté sans l'éviter.
+**Rôle :** Tu es un expert en éducation sexuelle pour enfants.
+**Demande :** Fournis un guide pour expliquer l'éducation sexuelle avec précision et beauté sans l'éviter.
 
 <br>
 

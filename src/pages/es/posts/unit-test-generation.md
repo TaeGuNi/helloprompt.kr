@@ -11,8 +11,8 @@ tags: ["Código de Prueba", "TDD", "Jest", "JUnit"]
 
 # 📝 ¿Demasiado vago para escribir código de prueba? La IA lo hará por ti
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las Pruebas Unitarias son esenciales para servicios estables, pero escribirlas e
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Líder de Ingeniería de QA]`.
-> **Solicitud:** Crea un prompt que genere automáticamente códigos de Prueba Unitaria engorrosos considerando incluso casos extremos.
+**Rol:** Eres un `[Líder de Ingeniería de QA]`.
+**Solicitud:** Crea un prompt que genere automáticamente códigos de Prueba Unitaria engorrosos considerando incluso casos extremos.
 
 <br>
 

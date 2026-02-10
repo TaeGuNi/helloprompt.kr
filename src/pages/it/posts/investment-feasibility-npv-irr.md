@@ -11,8 +11,8 @@ tags: ["Excel", "AnalisiInvestimento", "NPV", "IRR"]
 
 # 📝 Analisi di Fattibilità Investimento: Excel Calcolo Automatico NPV e IRR
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,7 +41,7 @@ Non dovresti guardare solo l'importo del profitto. Perché il valore del denaro 
 Usala quando hai solo bisogno di un risultato rapido.
 
 - **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]`.
-  > **Richiesta:** Dovrei fare questo affare? Calcola facilmente Valore Attuale Netto (NPV) e Tasso Interno di Rendimento (IRR), indicatori chiave della decisione di investimento, con Excel.
+  **Richiesta:** Dovrei fare questo affare? Calcola facilmente Valore Attuale Netto (NPV) e Tasso Interno di Rendimento (IRR), indicatori chiave della decisione di investimento, con Excel.
 
 <br>
 

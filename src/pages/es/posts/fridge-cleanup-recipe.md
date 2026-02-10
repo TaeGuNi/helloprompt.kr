@@ -11,8 +11,8 @@ tags: ["Cocina", "Receta", "Consejos de Vida"]
 
 # 📝 Limpieza del Refrigerador, Renacido con la Receta de un Chef
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Ingredientes que son demasiado buenos para tirar pero no se me ocurren ideas par
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Investigador Culinario Creativo]`.
-> **Solicitud:** Crea un prompt de vida frugal que sugiera recetas de cocina plausibles cuando ingrese ingredientes sobrantes que se acercan a su fecha de caducidad.
+**Rol:** Eres un `[Investigador Culinario Creativo]`.
+**Solicitud:** Crea un prompt de vida frugal que sugiera recetas de cocina plausibles cuando ingrese ingredientes sobrantes que se acercan a su fecha de caducidad.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Memorização", "Flashcard", "Anki", "Quizlet"]
 
 # 📝 Em Vez de Copiar com Dor no Pulso: Gerador Automático de Cartão de Memorização
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Aplicativos de flashcard (Anki etc.) são as melhores ferramentas de memorizaç�
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Processamento de Material de Aprendizagem]`.
-> **Solicitação:** Converta texto longo ou notas de aula em pares de flashcard (Q&A) que possam ser colocados no Anki, Quizlet, etc.
+**Papel:** Você é um `[Especialista em Processamento de Material de Aprendizagem]`.
+**Solicitação:** Converta texto longo ou notas de aula em pares de flashcard (Q&A) que possam ser colocados no Anki, Quizlet, etc.
 
 <br>
 

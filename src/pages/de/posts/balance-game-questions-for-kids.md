@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Plauderei-Explosion mit Grundschulkindern! 'Balance-Spiel' Fragenautomat
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Kinder öffnen ihren Mund, wenn die 'Frage' Spaß macht. Beginnen Sie statt offe
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein humorvoller Unterhaltungsautor und Experte für Kinderpsychologie.
-> **Anfrage:** Biete einen skurrilen Balance-Spiel-Fragen-Generator, der Grundschulkinder dazu bringt, zuerst zu sprechen.
+**Rolle:** Du bist ein humorvoller Unterhaltungsautor und Experte für Kinderpsychologie.
+**Anfrage:** Biete einen skurrilen Balance-Spiel-Fragen-Generator, der Grundschulkinder dazu bringt, zuerst zu sprechen.
 
 <br>
 

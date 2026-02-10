@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Schreiben von Stellenbeschreibungen (JD), die Bewerber anziehen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Steife und langweilige Stellenausschreibungen können die Augen guter Talente ni
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Startup-Recruiting-Branding-Experte.
-> **Anfrage:** Erstelle einen Prompt, wie man attraktive Stellenbeschreibungen schreibt, die Talente anziehen.
+**Rolle:** Du bist ein Startup-Recruiting-Branding-Experte.
+**Anfrage:** Erstelle einen Prompt, wie man attraktive Stellenbeschreibungen schreibt, die Talente anziehen.
 
 <br>
 

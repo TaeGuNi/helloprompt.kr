@@ -11,8 +11,8 @@ tags: ["YouTube", "Script", "Produzione Video"]
 
 # 📝 Segreto di Strutturazione Script YouTube per Visualizzazioni Elevate
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Per essere scelti dall'algoritmo di YouTube, il 'tempo di ritenzione' è la cosa
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[PD Esclusivo di YouTuber da 1 Milione]`.
-> **Richiesta:** Crea un prompt che strutturi uno script video YouTube per prevenire l'abbandono nei primi 5 secondi e far guardare le persone fino alla fine.
+**Ruolo:** Sei un `[PD Esclusivo di YouTuber da 1 Milione]`.
+**Richiesta:** Crea un prompt che strutturi uno script video YouTube per prevenire l'abbandono nei primi 5 secondi e far guardare le persone fino alla fine.
 
 <br>
 

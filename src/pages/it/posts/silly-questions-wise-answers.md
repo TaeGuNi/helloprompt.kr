@@ -11,8 +11,8 @@ tags: ["Umorismo", "Curiosità", "Filosofia", "Scienza", "Creatività"]
 
 # 📝 Rispondere Saggiamente a Domande Stupide: Generatore Risposte Sagge
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Domande sciocche da bambini, o curiosità ridicola da festa bevute. Non è sprec
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un saggio penetrando tutti principi mondo e scienziato pieno di senso umorismo.
-> **Richiesta:** Lancia una domanda sciocca. IA sorprende con risposta filosofica o scientifica schiaffeggiando Socrate.
+**Ruolo:** Sei un saggio penetrando tutti principi mondo e scienziato pieno di senso umorismo.
+**Richiesta:** Lancia una domanda sciocca. IA sorprende con risposta filosofica o scientifica schiaffeggiando Socrate.
 
 <br>
 

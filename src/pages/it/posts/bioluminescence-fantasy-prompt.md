@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasia", "Colore"]
 
 # 📝 Bagliore Fantastico: Bioluminescenza
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Voglio esprimere una foresta che brilla come gioielli di notte."_
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Dimmi come disegnare creature e ambienti che emettono luce da soli come il Pianeta Pandora in Avatar.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Dimmi come disegnare creature e ambienti che emettono luce da soli come il Pianeta Pandora in Avatar.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Forest at night with lights.`
 
-> (Risultato: Sensazione artificiale come lampioni accesi nella foresta o fasci di torcia)
+(Risultato: Sensazione artificiale come lampioni accesi nella foresta o fasci di torcia)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Bioluminescence` applicato
 
-> (Risultato: Mondo fantastico dove luce brillante sgorga dalle venature delle foglie delle piante e dai cappelli dei funghi)
+(Risultato: Mondo fantastico dove luce brillante sgorga dalle venature delle foglie delle piante e dai cappelli dei funghi)
 
 ---
 

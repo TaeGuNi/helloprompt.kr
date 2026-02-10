@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Guia de Definição de OKR para Alcance de Metas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Sabemos que OKR é bom, mas ao tentar escrever, apenas objetivos abstratos vêm 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Treinador Profissional de OKR do Google.
-> **Solicitação:** Estabelecendo Objetivos emocionantes e Resultados Chave mensuráveis.
+**Papel:** Você é um Treinador Profissional de OKR do Google.
+**Solicitação:** Estabelecendo Objetivos emocionantes e Resultados Chave mensuráveis.
 
 <br>
 

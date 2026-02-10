@@ -11,7 +11,7 @@ tags: ["Travel", "Schedule", "Planner", "Overseas Travel"]
 
 # 📝 AI Hyper-Personalized Travel Itinerary Planner More Meticulous than J
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

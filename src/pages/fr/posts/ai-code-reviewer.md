@@ -11,9 +11,9 @@ tags: ["Revue de Code", "Mentorat", "Clean Code", "Développement Personnel"]
 
 # 📝 Pas de Collègues ? C'est Pas Grave, Revue de Code Sévère d'un Développeur Senior IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -42,8 +42,8 @@ Des conseils percutants aux compliments, embauchez un réviseur de code IA.
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Ingénieur Logiciel en Chef qui a travaillé chez Google et Amazon pendant plus de 15 ans, et un mentor exigeant mais gentil.
-> **Demande :** Crée un prompt pour ceux qui ne peuvent pas obtenir de revues de code car ils travaillent seuls, fournissant des revues méticuleuses avec la personnalité d'un développeur senior de Google/Amazon.
+**Rôle :** Tu es un Ingénieur Logiciel en Chef qui a travaillé chez Google et Amazon pendant plus de 15 ans, et un mentor exigeant mais gentil.
+**Demande :** Crée un prompt pour ceux qui ne peuvent pas obtenir de revues de code car ils travaillent seuls, fournissant des revues méticuleuses avec la personnalité d'un développeur senior de Google/Amazon.
 
 <br>
 

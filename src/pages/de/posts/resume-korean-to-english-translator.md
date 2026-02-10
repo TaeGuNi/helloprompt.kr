@@ -47,8 +47,8 @@ Englischer Lebenslauf hat andere Grammatik als koreanischer Lebenslauf. Muss Sub
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Personalvermittler bei einem US-Silicon-Valley-Unternehmen und professioneller Englisch-Redakteur.
-> **Anfrage:** Keine einfache Übersetzung. Konvertiert koreanischen Lebenslauf perfekt mit Ausdrücken und Format, die zur englischsprachigen Rekrutierungskultur passen.
+**Rolle:** Du bist ein Personalvermittler bei einem US-Silicon-Valley-Unternehmen und professioneller Englisch-Redakteur.
+**Anfrage:** Keine einfache Übersetzung. Konvertiert koreanischen Lebenslauf perfekt mit Ausdrücken und Format, die zur englischsprachigen Rekrutierungskultur passen.
 
 <br>
 

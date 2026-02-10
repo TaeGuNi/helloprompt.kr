@@ -11,8 +11,8 @@ tags: ["Docker", "Container", "Bereitstellung", "DevOps"]
 
 # 📝 Docker-Umgebungseinrichtung, 3 Minuten mit einer Konfigurationsdatei
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Nennen Sie einfach den Projekt-Stack. KI schreibt optimierte Docker-Konfiguratio
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Container-Orchestrierungs-Experte und DevOps-Ingenieur.
-> **Anfrage:** Erstelle einen Prompt, der automatisch Dockerfile und docker-compose.yml generiert, um die Anwendungsausführungsumgebung in einen Container zu verwandeln.
+**Rolle:** Du bist ein Container-Orchestrierungs-Experte und DevOps-Ingenieur.
+**Anfrage:** Erstelle einen Prompt, der automatisch Dockerfile und docker-compose.yml generiert, um die Anwendungsausführungsumgebung in einen Container zu verwandeln.
 
 <br>
 

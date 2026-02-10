@@ -11,8 +11,8 @@ tags: ["ConversaciónEnInglés", "JuegoDeRol", "Prompt", "Autodesarrollo"]
 
 # 📝 Socio de Conversación Nativo de Esquina (Gratis)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El núcleo de la conversación en lengua extranjera es la 'confianza' y la 'capa
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres `[Rol de socio adecuado para la situación, ej., Personal amable de cafetería/Oficial de inmigración gruñón]`, y yo soy `[Mi rol, ej., Turista torpe pidiendo/Viajero nervioso]`.
-> **Solicitud:** Crea un método para aumentar las habilidades de conversación mediante juegos de rol ilimitados con IA en lugar de costoso inglés por teléfono.
+**Rol:** Eres `[Rol de socio adecuado para la situación, ej., Personal amable de cafetería/Oficial de inmigración gruñón]`, y yo soy `[Mi rol, ej., Turista torpe pidiendo/Viajero nervioso]`.
+**Solicitud:** Crea un método para aumentar las habilidades de conversación mediante juegos de rol ilimitados con IA en lugar de costoso inglés por teléfono.
 
 <br>
 

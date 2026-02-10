@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 
 # 📝 Future Night: Cyberpunk Neon
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Future city night, motorcycle.`
 
-> (Result: Just a dark future city, lacking unique hip feeling)
+(Result: Just a dark future city, lacking unique hip feeling)
 
 ### ✅ After (Result)
 
 `Cyberpunk neon` prompt applied
 
-> (Result: Sensuous artwork dyed in fluorescent light all over, with neon reflecting brilliantly on the wet floor)
+(Result: Sensuous artwork dyed in fluorescent light all over, with neon reflecting brilliantly on the wet floor)
 
 ---
 

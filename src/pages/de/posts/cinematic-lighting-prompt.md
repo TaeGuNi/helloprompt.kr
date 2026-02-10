@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Beleuchtung", "Cinematic"]
 
 # 📝 Filmähnliche Atmosphäre: Cinematic Lighting
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der wichtigste Faktor, der die Bildqualität bestimmt, ist 'Licht'. Anstatt einf
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Enthülle das Geheimnis von Beleuchtungs-Prompts, die schlichte Bilder wie Szenen aus Hollywood-Filmen aussehen lassen.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Enthülle das Geheimnis von Beleuchtungs-Prompts, die schlichte Bilder wie Szenen aus Hollywood-Filmen aussehen lassen.
 
 <br>
 
@@ -73,13 +73,13 @@ Geben Sie den untenstehenden **PROMPT**-Inhalt in die Bildgenerierungs-KI ein.
 
 `A man in the rain, night.`
 
-> (Ergebnis: Schlichtes und dunkles allgemeines Foto)
+(Ergebnis: Schlichtes und dunkles allgemeines Foto)
 
 ### ✅ Nachher (Ergebnis)
 
 `Cinematic lighting` Prompt angewendet
 
-> (Ergebnis: Neonlichter, die sich in Regentropfen spiegeln, Randlicht, das die Umrisse der Figur hervorhebt, eine Szene aus einem tiefen Noir-Film)
+(Ergebnis: Neonlichter, die sich in Regentropfen spiegeln, Randlicht, das die Umrisse der Figur hervorhebt, eine Szene aus einem tiefen Noir-Film)
 
 ---
 

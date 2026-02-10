@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Terminando a Análise SWOT em 1 Minuto Sem Brainstorming
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A análise SWOT é essencial na fase de planejamento estratégico, mas ao tentar
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Consultor de Gestão Global (da McKinsey).
-> **Solicitação:** Crie um prompt para análise SWOT, a base de novas ideias de negócios e estabelecimento de estratégia de marketing, com IA.
+**Papel:** Você é um Consultor de Gestão Global (da McKinsey).
+**Solicitação:** Crie um prompt para análise SWOT, a base de novas ideias de negócios e estabelecimento de estratégia de marketing, com IA.
 
 <br>
 

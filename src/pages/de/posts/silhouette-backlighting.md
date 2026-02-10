@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Beleuchtung"]
 
 # 📝 Licht und Schatten: Silhouette & Backlighting
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sie müssen nicht alles zeigen. Die Verwendung von **Backlighting** (Gegenlicht)
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Gegenlicht (Silhouette) Prompt, der formale Schönheit und Atmosphäre betont, indem das Motiv dunkel verarbeitet wird.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Gegenlicht (Silhouette) Prompt, der formale Schönheit und Atmosphäre betont, indem das Motiv dunkel verarbeitet wird.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Samurai in front of moon.`
 
-> (Ergebnis: Foto, auf dem Samurai-Rüstungsmuster alle sichtbar sind und die Beleuchtung zweideutig eintritt)
+(Ergebnis: Foto, auf dem Samurai-Rüstungsmuster alle sichtbar sind und die Beleuchtung zweideutig eintritt)
 
 ### ✅ Nachher (Ergebnis)
 
 `Silhouette` Prompt angewendet
 
-> (Ergebnis: Feierliches Poster, auf dem nur die Form eines schwarzen Schwertkämpfers klar gegen einen riesigen roten Mond enthüllt wird)
+(Ergebnis: Feierliches Poster, auf dem nur die Form eines schwarzen Schwertkämpfers klar gegen einen riesigen roten Mond enthüllt wird)
 
 ---
 

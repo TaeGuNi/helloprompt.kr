@@ -11,8 +11,8 @@ tags: ["Viagem em Família", "Parentalidade", "Zona Infantil", "Plano de Viagem"
 
 # 📝 Planejando um Itinerário de Viagem em Família Pacífico Mesmo com Crianças
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Viajar com crianças é uma série de variáveis. Deixe o itinerário 'Equilíbr
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Planejador de Viagens Infantis' com 10 anos de experiência. Você entende perfeitamente os estágios de desenvolvimento e interesses das crianças.
-> **Pedido:** Um prompt mágico de viagem em família que protege tanto a resistência das crianças quanto a mentalidade dos pais.
+**Papel:** Você é um 'Planejador de Viagens Infantis' com 10 anos de experiência. Você entende perfeitamente os estágios de desenvolvimento e interesses das crianças.
+**Pedido:** Um prompt mágico de viagem em família que protege tanto a resistência das crianças quanto a mentalidade dos pais.
 
 <br>
 

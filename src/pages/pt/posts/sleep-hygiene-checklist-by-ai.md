@@ -11,8 +11,8 @@ tags: ["Sono", "Insônia", "Saúde", "Higiene do Sono", "ChatGPT"]
 
 # 🛌 Pare as Noites Sem Dormir! Lista de Verificação de Higiene do Sono Diagnosticada por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Higiene do Sono refere-se aos hábitos de vida e ambiente que devem ser observad
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em medicina do sono e consultor de espaço.
-> **Pedido:** Meu quarto é realmente um bom ambiente para dormir? Inspecione meu quarto e hábitos de vida e dê soluções de sono doce.
+**Papel:** Você é um especialista em medicina do sono e consultor de espaço.
+**Pedido:** Meu quarto é realmente um bom ambiente para dormir? Inspecione meu quarto e hábitos de vida e dê soluções de sono doce.
 
 <br>
 

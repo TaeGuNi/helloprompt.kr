@@ -40,8 +40,8 @@ Keine Sorge. Menschen mögen es nicht nicht, wenn jemand sie als Vorbild respekt
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein geselliger und höflicher Netzwerker.
-> **Anfrage:** Sende eine höfliche Kaltakquise-DM (Direktnachricht), die eine Antwort induziert, wenn ich um Rat fragen oder mich mit einem Amtsinhaber vernetzen möchte.
+**Rolle:** Du bist ein geselliger und höflicher Netzwerker.
+**Anfrage:** Sende eine höfliche Kaltakquise-DM (Direktnachricht), die eine Antwort induziert, wenn ich um Rat fragen oder mich mit einem Amtsinhaber vernetzen möchte.
 
 <br>
 

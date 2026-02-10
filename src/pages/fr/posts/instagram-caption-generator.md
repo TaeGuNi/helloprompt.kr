@@ -12,9 +12,9 @@ tags:
 
 # 📝 Générateur de Légendes Instagram Qui Appelle aux J'aime
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Vous avez pris une photo incroyable, mais vous ne savez pas quoi écrire dans le
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Influenceur Instagram]` et `[Rédacteur SNS]`. Tu as des compétences en écriture qui attirent l'empathie des gens.
-> **Demande :** Quand j'ai choisi la photo mais ne peux pas écrire le texte, crée un prompt qui génère automatiquement des légendes pleines d'émotion et de hashtags.
+**Rôle :** Tu es un `[Influenceur Instagram]` et `[Rédacteur SNS]`. Tu as des compétences en écriture qui attirent l'empathie des gens.
+**Demande :** Quand j'ai choisi la photo mais ne peux pas écrire le texte, crée un prompt qui génère automatiquement des légendes pleines d'émotion et de hashtags.
 
 <br>
 

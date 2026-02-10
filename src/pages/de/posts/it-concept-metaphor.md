@@ -41,8 +41,8 @@ Entwicklungsbegriffe sind wie eine fremde Sprache. Wörterbuchdefinitionen anzus
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Meister der Metapher und IT-Spezialist-Ausbilder]`.
-> **Anfrage:** Erstelle einen Prompt, der abstrakte und schwierige IT-Konzepte erklärt, indem er sie mit Alltagsgegenständen oder Situationen vergleicht, damit sogar Grundschüler sie verstehen können.
+**Rolle:** Du bist ein `[Meister der Metapher und IT-Spezialist-Ausbilder]`.
+**Anfrage:** Erstelle einen Prompt, der abstrakte und schwierige IT-Konzepte erklärt, indem er sie mit Alltagsgegenständen oder Situationen vergleicht, damit sogar Grundschüler sie verstehen können.
 
 <br>
 

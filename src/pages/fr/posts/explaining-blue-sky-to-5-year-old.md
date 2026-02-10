@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Méthode d'Explication du 'Secret du Ciel Bleu' pour les Parents qui ont Abandonné la Science
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La clé est de trouver une 'métaphore' qu'un enfant de 5 ans peut comprendre to
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un enseignant de maternelle qui explique la science difficile très facilement.
-> **Demande :** Fournis un prompt qui démêle des principes scientifiques difficiles avec des métaphores au niveau des yeux d'un enfant.
+**Rôle :** Tu es un enseignant de maternelle qui explique la science difficile très facilement.
+**Demande :** Fournis un prompt qui démêle des principes scientifiques difficiles avec des métaphores au niveau des yeux d'un enfant.
 
 <br>
 

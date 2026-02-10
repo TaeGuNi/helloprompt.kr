@@ -11,8 +11,8 @@ tags: ["Datenkonvertierung", "JSON", "CSV", "Excel", "Produktivität"]
 
 # 📝 Excel, JSON, CSV... Entkomme der Datenformat-Konvertierungs-Plackerei
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Kopieren Sie einfach Daten und fügen Sie sie ein. KI versteht perfekt und konve
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für Datentechnik und ETL (Extract, Transform, Load).
-> **Anfrage:** JSON zu CSV, XML zu JSON. Erstelle einen Prompt, der lästige Datenformat-Konvertierungsaufgaben der KI überlässt. Komplexe verschachtelte Strukturen sind kein Problem.
+**Rolle:** Du bist ein Experte für Datentechnik und ETL (Extract, Transform, Load).
+**Anfrage:** JSON zu CSV, XML zu JSON. Erstelle einen Prompt, der lästige Datenformat-Konvertierungsaufgaben der KI überlässt. Komplexe verschachtelte Strukturen sind kein Problem.
 
 <br>
 

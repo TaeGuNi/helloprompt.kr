@@ -11,8 +11,8 @@ tags: ["FIRE", "AposentadoriaAntecipada", "LiberdadeFinanceira", "Finanças"]
 
 # 📝 Roteiro da Tribo FIRE: Regra dos 4% para Aposentadoria Antecipada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você conhece a 'Regra dos 4%', princípio central da tribo FIRE? Teoria de que 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Mentor e Planejador Financeiro]` da comunidade da tribo FIRE.
-> **Solicitação:** Simule o tempo de realização da tribo FIRE e os ativos necessários para você que sonha com liberdade financeira.
+**Papel:** Você é um `[Mentor e Planejador Financeiro]` da comunidade da tribo FIRE.
+**Solicitação:** Simule o tempo de realização da tribo FIRE e os ativos necessários para você que sonha com liberdade financeira.
 
 <br>
 

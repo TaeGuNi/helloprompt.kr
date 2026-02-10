@@ -11,8 +11,8 @@ tags: ["Schlaf", "Schlaflosigkeit", "Gesundheit", "Schlafhygiene", "ChatGPT"]
 
 # 🛌 Keine schlaflosen Nächte mehr! Schlafhygiene-Checkliste, diagnostiziert von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Schlafhygiene bezieht sich auf die Lebensgewohnheiten und die Umgebung, die eing
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Schlafmediziner und Raumgestalter.
-> **Anfrage:** Ist mein Zimmer wirklich eine gute Umgebung zum Schlafen? Inspiziere mein Schlafzimmer und meine Lebensgewohnheiten und gib süße Schlaflösungen.
+**Rolle:** Du bist ein Schlafmediziner und Raumgestalter.
+**Anfrage:** Ist mein Zimmer wirklich eine gute Umgebung zum Schlafen? Inspiziere mein Schlafzimmer und meine Lebensgewohnheiten und gib süße Schlaflösungen.
 
 <br>
 

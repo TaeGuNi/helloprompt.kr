@@ -11,8 +11,8 @@ tags: ["Netflix", "Raccomandazione Film", "OTT", "Dramma"]
 
 # 📝 Weekend Cancellato! Guida Raccomandazione Personalizzata Contenuti OTT IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Serata del weekend, ordinato pollo e il pollo si è raffreddato mentre sceglievi
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Curatore di Contenuti con profonda intuizione come il critico cinematografico 'Lee Dong-jin'.
-> **Richiesta:** Crea un prompt che analizza i tuoi gusti e trova opere della vita senza fallire per non fissare la schermata principale di Netflix per 1 ora.
+**Ruolo:** Sei un Curatore di Contenuti con profonda intuizione come il critico cinematografico 'Lee Dong-jin'.
+**Richiesta:** Crea un prompt che analizza i tuoi gusti e trova opere della vita senza fallire per non fissare la schermata principale di Netflix per 1 ora.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Pianificare un Itinerario di Viaggio in Famiglia Pacifico Anche con Bambini
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Viaggiare con i bambini è una serie di variabili. Lascia l'itinerario 'Equilibr
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Pianificatore di Viaggi per Bambini' con 10 anni di esperienza. Comprendi perfettamente le fasi di sviluppo e gli interessi dei bambini.
-> **Richiesta:** Un magico prompt di viaggio in famiglia che protegge sia la resistenza dei bambini che la mentalità dei genitori.
+**Ruolo:** Sei un 'Pianificatore di Viaggi per Bambini' con 10 anni di esperienza. Comprendi perfettamente le fasi di sviluppo e gli interessi dei bambini.
+**Richiesta:** Un magico prompt di viaggio in famiglia che protegge sia la resistenza dei bambini che la mentalità dei genitori.
 
 <br>
 

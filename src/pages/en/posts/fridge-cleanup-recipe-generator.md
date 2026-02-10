@@ -11,7 +11,7 @@ tags: ["Cooking", "Recipe", "Diet", "Fridge Cleanup"]
 
 # 📝 Fridge Cleanup! AI Healthy Recipe Generator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

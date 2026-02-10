@@ -11,8 +11,8 @@ tags: ["Storia", "AnalisiPersona", "CulturaComparata", "Prompt"]
 
 # 📝 Eroe vs Eroe: Analisi Comparativa dei Rivali del Secolo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ La storia si ripete. Ci sono figure che hanno vissuto in epoche e luoghi complet
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno `[Storico Comparato e Critico di Persone]`.
-> **Richiesta:** Abbina grandi figure di epoche e paesi diversi 1:1 per analizzare comunanze e differenze.
+**Ruolo:** Sei uno `[Storico Comparato e Critico di Persone]`.
+**Richiesta:** Abbina grandi figure di epoche e paesi diversi 1:1 per analizzare comunanze e differenze.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 A História dos 'Doces Mágicos' que Muda uma Criança Gananciosa
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Uma história tocante move o coração de uma criança mais do que cem reclamaç
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um escritor que escreve contos de fadas que dão lições como as Fábulas de Esopo.
-> **Pedido:** Escreva um prompt de educação do caráter aprendido através de histórias em vez de reclamações.
+**Papel:** Você é um escritor que escreve contos de fadas que dão lições como as Fábulas de Esopo.
+**Pedido:** Escreva um prompt de educação do caráter aprendido através de histórias em vez de reclamações.
 
 <br>
 

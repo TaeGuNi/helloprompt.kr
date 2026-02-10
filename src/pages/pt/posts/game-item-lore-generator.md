@@ -11,8 +11,8 @@ tags: ["Jogo", "Item", "TRPG", "Planejamento", "Fantasia"]
 
 # 📝 Enciclopédia de Itens de Jogo: Armas Lendárias e Acessórios Amaldiçoados
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Não é muito chato? Um grande item é uma história em si. Vamos criar itens at
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um avaliador e ferreiro versado em relíquias antigas e ferramentas mágicas.
-> **Solicitação:** Simples 'Espada +1' é chato. Crie itens únicos com narrativa viva e truque.
+**Papel:** Você é um avaliador e ferreiro versado em relíquias antigas e ferramentas mágicas.
+**Solicitação:** Simples 'Espada +1' é chato. Crie itens únicos com narrativa viva e truque.
 
 <br>
 

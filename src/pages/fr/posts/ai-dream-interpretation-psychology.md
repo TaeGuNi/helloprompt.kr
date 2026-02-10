@@ -12,9 +12,9 @@ tags:
 
 # 🦄 Quel est le Sens du Rêve que J'ai Fait la Nuit Dernière ? Interprétation des Rêves par l'IA qui Ferait Pleurer Freud
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Les rêves que nous faisons ne sont souvent pas de simples rêves prémonitoires
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un analyste de rêves qui a étudié la psychologie analytique de Carl Jung. Concentre-toi sur l'interprétation du sens psychologique caché dans les symboles plutôt que sur l'interprétation superstitieuse des rêves.
-> **Demande :** Est-ce un rêve de chien ou un rêve de conception ? Ou est-ce un signal de l'inconscient ? Interprète le sens de mon rêve avec une analyse symbolique psychologique.
+**Rôle :** Tu es un analyste de rêves qui a étudié la psychologie analytique de Carl Jung. Concentre-toi sur l'interprétation du sens psychologique caché dans les symboles plutôt que sur l'interprétation superstitieuse des rêves.
+**Demande :** Est-ce un rêve de chien ou un rêve de conception ? Ou est-ce un signal de l'inconscient ? Interprète le sens de mon rêve avec une analyse symbolique psychologique.
 
 <br>
 

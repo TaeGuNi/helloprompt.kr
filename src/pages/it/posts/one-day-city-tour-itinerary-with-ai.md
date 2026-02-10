@@ -12,8 +12,8 @@ tags:
 
 # 📝 Itinerario Perfetto del Tour della Città di Un Giorno Pianificato in 1 Minuto con IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Un giorno in una città strana è breve. Se il percorso si aggroviglia, finisci 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei una guida locale specializzata in `[Nome Città]` con 20 anni di esperienza.
-> **Richiesta:** Una giornata appagante goduta come un locale! Pianifica un piano di viaggio ottimale di un giorno senza sprechi di movimento con l'IA.
+**Ruolo:** Sei una guida locale specializzata in `[Nome Città]` con 20 anni di esperienza.
+**Richiesta:** Una giornata appagante goduta come un locale! Pianifica un piano di viaggio ottimale di un giorno senza sprechi di movimento con l'IA.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Dieta", "Gestione Dieta", "Fitness", "Salute"]
 
 # 📝 Creare un Piano Pasti Dietetico Personalizzato con IA Senza un Istruttore PT
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Dicono che l'80% della dieta sia l'alimentazione. Ma calcolare le calorie per og
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Nutrizione Sportiva con 15 anni di esperienza e un Consulente Dietetico Professionista.
-> **Richiesta:** Crea un prompt per creare un piano pasti perfetto di una settimana considerando il mio tipo di corpo, peso target e cibi preferiti in 1 minuto.
+**Ruolo:** Sei un Esperto di Nutrizione Sportiva con 15 anni di esperienza e un Consulente Dietetico Professionista.
+**Richiesta:** Crea un prompt per creare un piano pasti perfetto di una settimana considerando il mio tipo di corpo, peso target e cibi preferiti in 1 minuto.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 
 # 📝 Taste of Ink: Risograph Print
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Girl with headphones drawing.`
 
-> (Result: Clean digital illustration)
+(Result: Clean digital illustration)
 
 ### ✅ After (Result)
 
 `Risograph` prompt applied
 
-> (Result: Rough but hip art poster where fluorescent pink ink stands out and spotted patterns are visible)
+(Result: Rough but hip art poster where fluorescent pink ink stands out and spotted patterns are visible)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Stampa"]
 
 # 📝 Gusto dell'Inchiostro: Stampa Risograph
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Voglio dare una sensazione di stampa leggermente ruvida come dispense della ve
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt stile stampa Risograph attraente per il suo unico mezzotono e disallineamento dei colori.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt stile stampa Risograph attraente per il suo unico mezzotono e disallineamento dei colori.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Girl with headphones drawing.`
 
-> (Risultato: Illustrazione digitale pulita)
+(Risultato: Illustrazione digitale pulita)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Risograph` applicato
 
-> (Risultato: Poster artistico ruvido ma alla moda dove spicca l'inchiostro rosa fluorescente e sono visibili motivi a pois)
+(Risultato: Poster artistico ruvido ma alla moda dove spicca l'inchiostro rosa fluorescente e sono visibili motivi a pois)
 
 ---
 

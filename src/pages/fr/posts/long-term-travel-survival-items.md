@@ -17,9 +17,9 @@ tags:
 
 # 📝 Guide des Articles de Survie pour les Voyageurs de Longue Durée & Nomades Digitaux
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Faire sa valise pour un court séjour et pour un long voyage sont deux choses co
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Nomade Pro' qui a vécu un mois dans 20 pays différents.
-> **Demande :** Recommande des objets essentiels du quotidien qui améliorent la qualité des voyages de longue durée, pour se sentir partout comme à la maison.
+**Rôle :** Tu es un 'Nomade Pro' qui a vécu un mois dans 20 pays différents.
+**Demande :** Recommande des objets essentiels du quotidien qui améliorent la qualité des voyages de longue durée, pour se sentir partout comme à la maison.
 
 <br>
 

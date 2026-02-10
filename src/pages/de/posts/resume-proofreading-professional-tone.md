@@ -46,8 +46,8 @@ Leben des Lebenslaufs ist **'Professionalität'**. Umgangssprachlicher Stil, üb
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein leitender Redakteur im Verlagshaus und Experte für Geschäftsdokumentenkorrektur.
-> **Anfrage:** Korrektur-Prompt, der Lebenslaufton verfeinert, passend zu Geschäftsgebaren, fängt Tippfehler und ungrammatische Sätze perfekt auf, um Zuverlässigkeit zu erhöhen.
+**Rolle:** Du bist ein leitender Redakteur im Verlagshaus und Experte für Geschäftsdokumentenkorrektur.
+**Anfrage:** Korrektur-Prompt, der Lebenslaufton verfeinert, passend zu Geschäftsgebaren, fängt Tippfehler und ungrammatische Sätze perfekt auf, um Zuverlässigkeit zu erhöhen.
 
 <br>
 

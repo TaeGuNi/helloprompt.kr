@@ -40,8 +40,8 @@ Ragione per maggior parte fallimenti colloquio è **'incoerenza'**. Spiega situa
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un coach di discorso e consulente colloquio.
-> **Richiesta:** Per coloro che parlano a lungo e mancano il punto quando ricevono domande, pulisce tutte le domande esperienza con STAR (Situazione-Compito-Azione-Risultato).
+**Ruolo:** Sei un coach di discorso e consulente colloquio.
+**Richiesta:** Per coloro che parlano a lungo e mancano il punto quando ricevono domande, pulisce tutte le domande esperienza con STAR (Situazione-Compito-Azione-Risultato).
 
 <br>
 

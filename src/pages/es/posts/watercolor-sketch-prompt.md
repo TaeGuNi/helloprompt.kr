@@ -12,8 +12,8 @@ tags:
 
 # 📝 Emoción Transparente: Boceto de Acuarela
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"Quiero una sensación de boceto ligeramente manchada con pintura, dibujada en 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt de acuarela emocional que combine efecto de dispersión de agua y líneas de boceto a lápiz.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt de acuarela emocional que combine efecto de dispersión de agua y líneas de boceto a lápiz.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Paris cafe painting.`
 
-> (Resultado: Imagen pesada pintada densamente como pintura al óleo)
+(Resultado: Imagen pesada pintada densamente como pintura al óleo)
 
 ### ✅ Después (Resultado)
 
 Prompt `Watercolor sketch` aplicado
 
-> (Resultado: Ilustración ligera y refrescante donde se siente la textura del papel y la pintura se superpone transparentemente)
+(Resultado: Ilustración ligera y refrescante donde se siente la textura del papel y la pintura se superpone transparentemente)
 
 ---
 

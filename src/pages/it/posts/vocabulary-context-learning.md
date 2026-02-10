@@ -11,8 +11,8 @@ tags: ["ApprendimentoInglese", "MemorizzazioneParole", "Prompt", "Educazione"]
 
 # 📝 Apprendimento Vocabolario Inglese Master con Contesto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le parole non viaggiano da sole. Si nascondono nel contesto. Lontano dal metodo 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Professore di Linguistica ed Esperto di Apprendimento del Vocabolario]` con 20 anni di esperienza.
-> **Richiesta:** Crea un prompt per imparare perfettamente anche le sfumature delle parole nel contesto reale, fermando la semplice memorizzazione.
+**Ruolo:** Sei un `[Professore di Linguistica ed Esperto di Apprendimento del Vocabolario]` con 20 anni di esperienza.
+**Richiesta:** Crea un prompt per imparare perfettamente anche le sfumature delle parole nel contesto reale, fermando la semplice memorizzazione.
 
 <br>
 

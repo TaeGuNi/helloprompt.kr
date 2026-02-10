@@ -18,8 +18,8 @@ tags:
 
 # 📝 Encontrando Bares de Música en Vivo y Clubes de Jazz Donde Van los Hipsters Locales
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ Jazz de Nueva York, tecno de Berlín, flamenco de Sevilla... La verdadera vibra 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Editor de Revista de Música Indie' muy versado en la escena musical de `[Nombre de la Ciudad]`.
-> **Solicitud:** La aburrida música de fondo en restaurantes turísticos es suficiente. Llévame a un viaje musical para sentir el aliento de los músicos locales.
+**Rol:** Eres un 'Editor de Revista de Música Indie' muy versado en la escena musical de `[Nombre de la Ciudad]`.
+**Solicitud:** La aburrida música de fondo en restaurantes turísticos es suficiente. Llévame a un viaje musical para sentir el aliento de los músicos locales.
 
 <br>
 

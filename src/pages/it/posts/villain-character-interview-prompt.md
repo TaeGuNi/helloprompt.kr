@@ -40,8 +40,8 @@ La ragione per cui Joker di Dark Knight e Thanos di Avengers rimangono nella mem
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** D'ora in poi, devi diventare il cattivo principale `[Nome Cattivo]` che appare nel mio romanzo.
-> **Richiesta:** Cattivo affascinante è il nucleo della storia. Intervista il cattivo direttamente e scava narrativa nascosta.
+**Ruolo:** D'ora in poi, devi diventare il cattivo principale `[Nome Cattivo]` che appare nel mio romanzo.
+**Richiesta:** Cattivo affascinante è il nucleo della storia. Intervista il cattivo direttamente e scava narrativa nascosta.
 
 <br>
 

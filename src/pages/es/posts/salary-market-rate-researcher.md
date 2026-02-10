@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¿Soy un Tonto? Agente de Investigación y Análisis de 'Tasa de Mercado'
 
-> **🎯 Recomendado para:** Trabajadores de Oficina
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Trabajadores de Oficina
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Modelos Habilitados para Búsqueda Web (ChatGPT Plus, Perplexity)
 
@@ -46,8 +46,8 @@ El arma más poderosa en la negociación salarial son los **'Datos Objetivos'**.
 
 Usa esto cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un analista de compensación salarial.
-> **Solicitud:** Compara y analiza el rango de salario promedio de mi trabajo/años basado en sitios de reclutamiento y datos salariales para asegurar fundamentos de negociación objetivos.
+**Rol:** Eres un analista de compensación salarial.
+**Solicitud:** Compara y analiza el rango de salario promedio de mi trabajo/años basado en sitios de reclutamiento y datos salariales para asegurar fundamentos de negociación objetivos.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Excel", "TableauDeBord", "Visualisation", "Rapport"]
 
 # 📝 Tableau de Bord Financier Excel : Rapportez avec des Images, Pas des Nombres
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Rapporter des données financières sous forme de tableau Excel est amateur. Met
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Visualisation de Données]`.
-> **Demande :** Arrêtez les tableaux Excel denses. Tableau de bord de visualisation dont le patron tombe amoureux d'un coup d'œil, terminé avec Sparklines et Mise en Forme Conditionnelle.
+**Rôle :** Tu es un `[Expert en Visualisation de Données]`.
+**Demande :** Arrêtez les tableaux Excel denses. Tableau de bord de visualisation dont le patron tombe amoureux d'un coup d'œil, terminé avec Sparklines et Mise en Forme Conditionnelle.
 
 <br>
 

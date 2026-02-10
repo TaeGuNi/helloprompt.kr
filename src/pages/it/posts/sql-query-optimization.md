@@ -11,8 +11,8 @@ tags: ["SQL", "DB Tuning", "Backend"]
 
 # 📝 Ottimizzazione Query SQL, Prima che il DB Urli
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Non è facile trovare la causa del calo delle prestazioni in mezzo a un banchett
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[DBA (Amministratore Database) da 15 Anni]`.
-> **Richiesta:** Crea un prompt che analizzi query SQL lente e complesse per ottimizzare le prestazioni e suggerire indizi per gli indici.
+**Ruolo:** Sei un `[DBA (Amministratore Database) da 15 Anni]`.
+**Richiesta:** Crea un prompt che analizzi query SQL lente e complesse per ottimizzare le prestazioni e suggerire indizi per gli indici.
 
 <br>
 

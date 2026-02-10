@@ -38,7 +38,7 @@ Molte persone cercano nell'IA con query brevi come "Ricetta stufato kimchi". Tut
 
 ### 🥉 Versione Base
 
-> **Richiesta:** Dimmi come fare un delizioso stufato di kimchi.
+**Richiesta:** Dimmi come fare un delizioso stufato di kimchi.
 
 <br>
 
@@ -56,7 +56,7 @@ Ciò che l'IA fa meglio è l'**'Elaborazione del Testo'**. Affidale i testi lung
 
 ### 🥉 Versione Base
 
-> **Richiesta:** Riassumi questo: (Incolla testo lungo)
+**Richiesta:** Riassumi questo: (Incolla testo lungo)
 
 <br>
 
@@ -80,7 +80,7 @@ Se dici all'IA, **"Sei un [Ruolo]"**, si equipaggia con la conoscenza profession
 
 ### 🥉 Versione Base
 
-> **Richiesta:** Insegnami alcune funzioni di Excel.
+**Richiesta:** Insegnami alcune funzioni di Excel.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Legacy", "Code Analysis", "Maintenance", "Handover"]
 
 # 📝 Interpreting Ciphertext (Legacy Code) Left by Leaver
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

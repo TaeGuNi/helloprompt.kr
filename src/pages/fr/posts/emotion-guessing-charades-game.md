@@ -12,9 +12,9 @@ tags:
 
 # 📝 Boostez l'Intelligence Émotionnelle de Notre Enfant ! Jeu 'Devine Comment Je Me Sens ?'
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

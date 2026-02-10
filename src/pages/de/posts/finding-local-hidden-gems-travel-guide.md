@@ -11,8 +11,8 @@ tags: ["Verborgene Orte", "Lokales Reisen", "Versteckte Plätze", "Erkundung"]
 
 # 📝 Verborgene Schätze entdecken, die nur Einheimische kennen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Finden Sie die Verstecke echter Einheimischer, die nicht in Reisebroschüren ode
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Einheimischer und sensibler Redakteur, der seit mehr als 10 Jahren in `[Stadtname]` lebt.
-> **Anfrage:** Müde von Orten, die von Touristen überfüllt sind! Sag mir, wie man lokale Hotspots findet, die nicht einmal auf Karten erscheinen.
+**Rolle:** Du bist ein Einheimischer und sensibler Redakteur, der seit mehr als 10 Jahren in `[Stadtname]` lebt.
+**Anfrage:** Müde von Orten, die von Touristen überfüllt sind! Sag mir, wie man lokale Hotspots findet, die nicht einmal auf Karten erscheinen.
 
 <br>
 

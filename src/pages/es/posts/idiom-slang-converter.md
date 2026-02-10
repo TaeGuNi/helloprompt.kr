@@ -40,8 +40,8 @@ Más del 50% de las expresiones que los hablantes nativos usan en la vida diaria
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Guionista de Hollywood Americano y Experto en Jerga]`.
-> **Solicitud:** Crea un prompt que encuentre expresiones nativas reales, palabras de moda y modismos que nunca aparecen en libros de texto adecuados para situaciones.
+**Rol:** Eres un `[Guionista de Hollywood Americano y Experto en Jerga]`.
+**Solicitud:** Crea un prompt que encuentre expresiones nativas reales, palabras de moda y modismos que nunca aparecen en libros de texto adecuados para situaciones.
 
 <br>
 

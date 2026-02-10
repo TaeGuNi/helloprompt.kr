@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Wie man ein Kind, das im Supermarkt liegt, in 1 Minute aufhebt
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

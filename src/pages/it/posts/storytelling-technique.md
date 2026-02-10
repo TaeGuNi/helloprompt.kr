@@ -11,8 +11,8 @@ tags: ["Storytelling", "Scrittura", "Saggio"]
 
 # 📝 Fuggi dalla Scrittura Noiosa! Tecniche di Storytelling per Far Leggere le Persone
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La frase "La nostra azienda è stata fondata nel 1990" è noiosa. Ma "Nel 1990, 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Autore di Saggi Bestseller]`.
-> **Richiesta:** Crea un prompt che trasformi la noiosa scrittura di elenchi di fatti in storie coinvolgenti che toccano le emozioni dei lettori.
+**Ruolo:** Sei un `[Autore di Saggi Bestseller]`.
+**Richiesta:** Crea un prompt che trasformi la noiosa scrittura di elenchi di fatti in storie coinvolgenti che toccano le emozioni dei lettori.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Carte d'Embarquement pour le 'Train du Pays des Rêves' pour Endormir les Bébés Insomniaques
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Parfois, plutôt qu'une aventure passionnante, une histoire 'induisant le sommei
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en hypnose infantile et un guide de méditation.
-> **Demande :** Raconte-moi une histoire imprégnée de techniques de méditation et de relaxation pour les enfants qui n'arrivent pas à dormir.
+**Rôle :** Tu es un expert en hypnose infantile et un guide de méditation.
+**Demande :** Raconte-moi une histoire imprégnée de techniques de méditation et de relaxation pour les enfants qui n'arrivent pas à dormir.
 
 <br>
 

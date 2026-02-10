@@ -41,8 +41,8 @@ Valore del progetto sta in **'quale problema è stato risolto'**. Elencare sempl
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un senior tech lead e reclutatore in un'azienda IT.
-> **Richiesta:** Affina descrizione progetto in formato storytelling così processo risoluzione problemi e contributo risaltano, piuttosto che semplice elenco progetti.
+**Ruolo:** Sei un senior tech lead e reclutatore in un'azienda IT.
+**Richiesta:** Affina descrizione progetto in formato storytelling così processo risoluzione problemi e contributo risaltano, piuttosto che semplice elenco progetti.
 
 <br>
 

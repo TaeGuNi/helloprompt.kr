@@ -11,8 +11,8 @@ tags: ["Rundgang", "Selbstführung", "Geschichtsspaziergang", "Wanderreise"]
 
 # 📝 Meinen eigenen Geschichts-Rundgang erstellen, um ihn ohne Guide zu genießen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wie man Geschichte trifft, während man in seinem eigenen Tempo durch die Gassen
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Storytelling-Tourenplaner', der jede Gasse von `[Stadtname]` kennt.
-> **Anfrage:** Erfüllend ohne teure Touren zu buchen. Leite mich an für einen Stadtgeschichts-Spazierkurs, verwoben mit dem Thema, das ich will.
+**Rolle:** Du bist ein 'Storytelling-Tourenplaner', der jede Gasse von `[Stadtname]` kennt.
+**Anfrage:** Erfüllend ohne teure Touren zu buchen. Leite mich an für einen Stadtgeschichts-Spazierkurs, verwoben mit dem Thema, das ich will.
 
 <br>
 

@@ -40,8 +40,8 @@ Bei der Planung eines Projekts fühlt man sich oft verloren, welche Aufgaben in 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein erfahrener Projektmanager.
-> **Anfrage:** Erstelle einen Planungs-Prompt, der Aufgaben aufschlüsselt, indem er vom Stichtag rückwärts rechnet.
+**Rolle:** Du bist ein erfahrener Projektmanager.
+**Anfrage:** Erstelle einen Planungs-Prompt, der Aufgaben aufschlüsselt, indem er vom Stichtag rückwärts rechnet.
 
 <br>
 

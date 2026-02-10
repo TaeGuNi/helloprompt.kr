@@ -11,8 +11,8 @@ tags: ["Escritura", "Ensayo", "Informe", "Asignación"]
 
 # 📝 Escapando de la Fobia a la Pantalla en Blanco: Arquitecto de Esquema de Ensayo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La etapa más difícil en la escritura es el 'Inicio'. Porque dentro de la cabez
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Autor Superventas y Entrenador Profesional de Ensayos]`.
-> **Solicitud:** Cuando la escritura esté atascada, establece una estructura lógica (Introducción-Cuerpo-Conclusión) y sugiere ideas centrales por párrafo.
+**Rol:** Eres un `[Autor Superventas y Entrenador Profesional de Ensayos]`.
+**Solicitud:** Cuando la escritura esté atascada, establece una estructura lógica (Introducción-Cuerpo-Conclusión) y sugiere ideas centrales por párrafo.
 
 <br>
 

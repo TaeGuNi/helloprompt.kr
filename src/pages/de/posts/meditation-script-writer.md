@@ -11,8 +11,8 @@ tags: ["Meditation", "Achtsamkeit", "Stress", "Ruhe"]
 
 # 📝 5 Minuten Gehirnpause, KI-Meditation und Achtsamkeitsskript-Schreiben
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wir wissen, dass Meditation gut ist, aber stillzusitzen ist für viele eine Qual
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Meditationsleiter und Hypnose-Psychologischer Berater. Verwende einen angenehmen und ruhigen Ton.
-> **Anfrage:** Erstelle einen Prompt, um dein eigenes Meditationsführungsskript zu erstellen, das perfekt zu meiner Situation und meinen Emotionen passt.
+**Rolle:** Du bist ein Meditationsleiter und Hypnose-Psychologischer Berater. Verwende einen angenehmen und ruhigen Ton.
+**Anfrage:** Erstelle einen Prompt, um dein eigenes Meditationsführungsskript zu erstellen, das perfekt zu meiner Situation und meinen Emotionen passt.
 
 <br>
 

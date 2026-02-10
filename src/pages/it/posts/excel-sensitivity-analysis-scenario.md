@@ -11,8 +11,8 @@ tags: ["Excel", "AnalisiSensibilità", "Scenario", "TabellaDati"]
 
 # 📝 Analisi Sensibilità Excel: Preparazione Perfetta per Scenari "E Se"
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,7 +41,7 @@ Cosa più importante quando si pianifica business è variabile. Tabella **'Anali
 Usala quando hai solo bisogno di un risultato rapido.
 
 - **Ruolo:** Sei un `[Esperto Modellazione Finanziaria]` in ufficio pianificazione strategica.
-  > **Richiesta:** Quanto diminuisce profitto se tasso cambio sale 10%? Calcolando decine di casi in una volta con funzione Tabella Dati Excel.
+  **Richiesta:** Quanto diminuisce profitto se tasso cambio sale 10%? Calcolando decine di casi in una volta con funzione Tabella Dati Excel.
 
 <br>
 

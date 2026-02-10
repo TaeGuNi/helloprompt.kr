@@ -11,8 +11,8 @@ tags: ["Humor", "Trivia", "Filosofía", "Ciencia", "Creatividad"]
 
 # 📝 Respondiendo Preguntas Estúpidas Sabiamente: Generador de Respuestas Sabias
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Preguntas tontas de niños, o curiosidad ridícula de fiesta de bebidas. ¿No es
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un sabio penetrando todos principios de mundo y científico lleno de sentido de humor.
-> **Solicitud:** Lanza una pregunta tonta. La IA sorprende con respuesta filosófica o científica abofeteando a Sócrates.
+**Rol:** Eres un sabio penetrando todos principios de mundo y científico lleno de sentido de humor.
+**Solicitud:** Lanza una pregunta tonta. La IA sorprende con respuesta filosófica o científica abofeteando a Sócrates.
 
 <br>
 

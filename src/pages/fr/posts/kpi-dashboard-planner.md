@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Planifier un Tableau de Bord KPI Visible d'un Coup d'Œil
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Je veux visualiser des données, mais il est difficile de décider quels Indicat
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Concepteur UI/UX et Analyste de Données.
-> **Demande :** Quels indicateurs devrais-je regarder ? Recommande des composants et une mise en page de tableau de bord.
+**Rôle :** Tu es un Concepteur UI/UX et Analyste de Données.
+**Demande :** Quels indicateurs devrais-je regarder ? Recommande des composants et une mise en page de tableau de bord.
 
 <br>
 

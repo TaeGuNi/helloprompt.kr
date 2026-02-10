@@ -40,8 +40,8 @@ Una proposta dovrebbe essere "Risolverò il tuo problema", non "Siamo bravi". È
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Scrittore Professionista di Proposte con un tasso di successo del 90%.
-> **Richiesta:** Crea un prompt di storytelling di proposta attraente che persuade i clienti.
+**Ruolo:** Sei uno Scrittore Professionista di Proposte con un tasso di successo del 90%.
+**Richiesta:** Crea un prompt di storytelling di proposta attraente che persuade i clienti.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Resumidor de Llamada de Ganancias en 3 Minutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ La Llamada de Ganancias corporativa de EE. UU. es el evento más importante que 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Estratega de Inversión Profesional]` en un fondo de cobertura de Wall Street.
-> **Solicitud:** Llamada de Ganancias, difícil de escuchar porque es en inglés y demasiado larga, resume solo el núcleo.
+**Rol:** Eres un `[Estratega de Inversión Profesional]` en un fondo de cobertura de Wall Street.
+**Solicitud:** Llamada de Ganancias, difícil de escuchar porque es en inglés y demasiado larga, resume solo el núcleo.
 
 <br>
 

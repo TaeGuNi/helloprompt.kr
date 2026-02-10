@@ -11,7 +11,7 @@ tags: ["YouTube", "ChannelName", "Nickname", "Creator", "Naming"]
 
 # 📝 YouTube Channel Name & Nickname Recommendation (YouTube Channel Naming)
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 
 # 📝 Gaze of God: High Angle & Drone View
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Future eco city.`
 
-> (Result: Only parts of buildings or street scenes are visible, overall city structure cannot be grasped)
+(Result: Only parts of buildings or street scenes are visible, overall city structure cannot be grasped)
 
 ### ✅ After (Result)
 
 `Drone view` prompt applied
 
-> (Result: Perfect bird's-eye view where the city's road network, green space layout, and building skyline come into view at a glance)
+(Result: Perfect bird's-eye view where the city's road network, green space layout, and building skyline come into view at a glance)
 
 ---
 

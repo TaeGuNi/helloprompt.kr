@@ -11,9 +11,9 @@ tags: ["Humour", "Trivia", "Philosophie", "Science", "Créativité"]
 
 # 📝 Répondre Sagement aux Questions Stupides : Générateur de Réponses Sages
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Questions idiotes d'enfants, ou curiosité ridicule de soirée arrosée. N'est-c
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un sage pénétrant tous les principes du monde et un scientifique plein de sens de l'humour.
-> **Demande :** Lancez une question idiote. L'IA surprend avec une réponse philosophique ou scientifique giflant Socrate.
+**Rôle :** Tu es un sage pénétrant tous les principes du monde et un scientifique plein de sens de l'humour.
+**Demande :** Lancez une question idiote. L'IA surprend avec une réponse philosophique ou scientifique giflant Socrate.
 
 <br>
 

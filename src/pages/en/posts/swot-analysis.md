@@ -11,7 +11,7 @@ tags: ["Stock", "CorporateAnalysis", "SWOT", "Strategy"]
 
 # 📝 Standard of Corporate Analysis: AI SWOT Analyzer
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

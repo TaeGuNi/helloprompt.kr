@@ -11,9 +11,9 @@ tags: ["Voyage", "Budget", "PlanVoyage", "Frais"]
 
 # 📝 Estimation des Frais de Voyage : Plan Parfait Sans Dépassement de Budget
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Avez-vous fait l'expérience de partir en pensant "Environ 2 millions KRW suffir
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Guide de Voyage Professionnel]` réputé pour être méticuleux.
-> **Demande :** Des billets d'avion aux frais de nourriture locaux, créez un budget dans une marge d'erreur de 10 % reflétant les prix de la destination de voyage.
+**Rôle :** Tu es un `[Guide de Voyage Professionnel]` réputé pour être méticuleux.
+**Demande :** Des billets d'avion aux frais de nourriture locaux, créez un budget dans une marge d'erreur de 10 % reflétant les prix de la destination de voyage.
 
 <br>
 

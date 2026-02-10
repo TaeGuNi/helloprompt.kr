@@ -17,8 +17,8 @@ tags:
 
 # 📝 Gerador de Pergunta Esperada de 'Entrevista Técnica' por Trabalho
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Entrevista de personalidade pode ser coberta, mas entrevista técnica não pode 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista chefe de 20 anos no campo `[Nome Trabalho]`.
-> **Solicitação:** Extraia perguntas de entrevista técnica esperadas e respostas modelo encaixando perfeitamente meu trabalho e anos como desenvolvedor, profissional de marketing, designer.
+**Papel:** Você é um especialista chefe de 20 anos no campo `[Nome Trabalho]`.
+**Solicitação:** Extraia perguntas de entrevista técnica esperadas e respostas modelo encaixando perfeitamente meu trabalho e anos como desenvolvedor, profissional de marketing, designer.
 
 <br>
 

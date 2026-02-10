@@ -11,8 +11,8 @@ tags: ["TRPG", "NPC", "Charakter", "Roman", "Einstellung"]
 
 # 📝 Sofort-NPC-Generator: Lebendige Charaktere erstellen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Spieler interessieren sich immer für NPCs, die der Meister nicht vorbereitet ha
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein erfahrener Schauspieler und Autor, der tausende Leben gelebt hat.
-> **Anfrage:** Keine Panik, wenn Spieler plötzlich jemanden ansprechen. Erstellen Sie einen NPC mit Persönlichkeit, Ton und Geheimnis in 10 Sekunden.
+**Rolle:** Du bist ein erfahrener Schauspieler und Autor, der tausende Leben gelebt hat.
+**Anfrage:** Keine Panik, wenn Spieler plötzlich jemanden ansprechen. Erstellen Sie einen NPC mit Persönlichkeit, Ton und Geheimnis in 10 Sekunden.
 
 <br>
 

@@ -40,8 +40,8 @@ Uma galeria maravilhosa encontrada em um destino de viagem. Se você quer entrar
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Arteterapeuta' que lê a mente das pessoas através da arte.
-> **Pedido:** A arte moderna é difícil? Dê-me um prompt de apreciação para iniciantes que reduz o limite da galeria.
+**Papel:** Você é um 'Arteterapeuta' que lê a mente das pessoas através da arte.
+**Pedido:** A arte moderna é difícil? Dê-me um prompt de apreciação para iniciantes que reduz o limite da galeria.
 
 <br>
 

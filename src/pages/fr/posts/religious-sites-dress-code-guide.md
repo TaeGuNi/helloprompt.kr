@@ -17,9 +17,9 @@ tags:
 
 # 📝 Impossible d'Entrer en Portant un Short ? Code Vestimentaire pour la Visite des Sites Religieux
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ De la Basilique Saint-Pierre au Vatican au Wat Arun à Bangkok. Les lieux saints
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Guide de Visite en Terre Sainte' qui respecte les cultures et coutumes religieuses du monde entier.
-> **Demande :** Temples, cathédrales, mosquées... Comment ne pas être refoulé à la porte ? Dis-moi le code vestimentaire pour les lieux sacrés.
+**Rôle :** Tu es un 'Guide de Visite en Terre Sainte' qui respecte les cultures et coutumes religieuses du monde entier.
+**Demande :** Temples, cathédrales, mosquées... Comment ne pas être refoulé à la porte ? Dis-moi le code vestimentaire pour les lieux sacrés.
 
 <br>
 

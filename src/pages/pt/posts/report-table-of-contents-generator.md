@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Construindo um Índice de Relatório Que os Chefes Gostam
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O núcleo de um relatório é o fluxo lógico em vez do conteúdo. Se o índice 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Líder de Equipe de Planejamento em uma grande corporação.
-> **Solicitação:** Crie um prompt de esboço de relatório que capture o fluxo lógico (Logic Flow).
+**Papel:** Você é um Líder de Equipe de Planejamento em uma grande corporação.
+**Solicitação:** Crie um prompt de esboço de relatório que capture o fluxo lógico (Logic Flow).
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Steigern Sie die emotionale Intelligenz unseres Kindes! 'Rate, wie ich mich fühle?' Spiel
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

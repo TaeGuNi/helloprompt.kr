@@ -11,8 +11,8 @@ tags: ["Schlafgeschichte", "Schlaflosigkeit", "ASMR", "Heilung", "TTS"]
 
 # 📚 Schlaflied für Erwachsene, Schlafgeschichte erzählt von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Schlafgeschichten sind Inhalte, die dem Gehirn das Gefühl geben, 'gelangweilt, 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist der weltbeste Märchenautor und Hypnoseexperte.
-> **Anfrage:** Schäfchen zählen ist langweilig, Gruselgeschichten wecken auf... Erstelle an Ort und Stelle ein träges und friedliches 'Märchen für Erwachsene'.
+**Rolle:** Du bist der weltbeste Märchenautor und Hypnoseexperte.
+**Anfrage:** Schäfchen zählen ist langweilig, Gruselgeschichten wecken auf... Erstelle an Ort und Stelle ein träges und friedliches 'Märchen für Erwachsene'.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 
 # 📝 Transparent Emotion: Watercolor Sketch
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Paris cafe painting.`
 
-> (Result: Heavy picture painted thickly like oil painting)
+(Result: Heavy picture painted thickly like oil painting)
 
 ### ✅ After (Result)
 
 `Watercolor sketch` prompt applied
 
-> (Result: Light and refreshing illustration where paper texture is felt and paint is transparently layered)
+(Result: Light and refreshing illustration where paper texture is felt and paint is transparently layered)
 
 ---
 

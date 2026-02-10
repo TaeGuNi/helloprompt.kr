@@ -40,16 +40,16 @@ Cuando tu cerebro es como hilo enredado, la productividad cae a cero. El núcleo
 
 Usando la función de Notion AI (Tecla `Espacio`).
 
-> **Vuelco de Cerebro (Entrada):**
->
-> - Escribir informe
-> - Llamar a Mamá
-> - Comprar pasta de dientes
-> - Prep reunión equipo dev
-> - 3pm Dentista
->
-> **Prompt:**
-> "Clasifica lo anterior en **[Urgente/Importante]**, **[Tareas Domésticas]**, **[Trabajo]**, y reescribe como una Lista de Verificación en orden de ejecución."
+**Vuelco de Cerebro (Entrada):**
+
+- Escribir informe
+- Llamar a Mamá
+- Comprar pasta de dientes
+- Prep reunión equipo dev
+- 3pm Dentista
+
+**Prompt:**
+"Clasifica lo anterior en **[Urgente/Importante]**, **[Tareas Domésticas]**, **[Trabajo]**, y reescribe como una Lista de Verificación en orden de ejecución."
 
 <br>
 
@@ -85,25 +85,25 @@ Usando ChatGPT para hacer un plan diario perfecto.
 
 ### ❌ Antes (Caos)
 
-> - Lavandería
-> - Propuesta de Proyecto (Vence mañana)
-> - Ver Netflix
->   (Resultado: Vi Netflix, hice lavandería, pasé la noche en vela para la propuesta 🐼)
+- Lavandería
+- Propuesta de Proyecto (Vence mañana)
+- Ver Netflix
+  (Resultado: Vi Netflix, hice lavandería, pasé la noche en vela para la propuesta 🐼)
 
 ### ✅ Después (Secretaria IA)
 
-> **[🔥 Haz Ahora - Enfoque Matutino]**
->
-> - 09:00 ~ 11:00 Borrador Propuesta de Proyecto (Aleja el teléfono)
->
-> **[📅 Programa - Después de Almorzar]**
->
-> - 13:00 ~ 13:30 Prep Reunión Equipo Dev
->
-> **[🏠 Tareas Domésticas - Después del Trabajo]**
->
-> - 19:00 Lavandería
-> - 20:00 Comprar pasta de dientes (Se recomienda entrega rápida)
+**[🔥 Haz Ahora - Enfoque Matutino]**
+
+- 09:00 ~ 11:00 Borrador Propuesta de Proyecto (Aleja el teléfono)
+
+**[📅 Programa - Después de Almorzar]**
+
+- 13:00 ~ 13:30 Prep Reunión Equipo Dev
+
+**[🏠 Tareas Domésticas - Después del Trabajo]**
+
+- 19:00 Lavandería
+- 20:00 Comprar pasta de dientes (Se recomienda entrega rápida)
 
 ---
 

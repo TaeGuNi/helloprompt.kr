@@ -11,8 +11,8 @@ tags: ["Plano de Viagem", "Viagem de Um Dia", "City Tour", "Prompt GPT"]
 
 # 📝 Itinerário Perfeito de City Tour de Um Dia Planejado em 1 Minuto com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Um dia em uma cidade estranha é curto. Se a rota ficar emaranhada, você acaba 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um guia local especializado em `[Nome da Cidade]` com 20 anos de experiência.
-> **Pedido:** Um dia gratificante aproveitado como um local! Planeje um plano de viagem ideal de um dia sem desperdício de movimento com IA.
+**Papel:** Você é um guia local especializado em `[Nome da Cidade]` com 20 anos de experiência.
+**Pedido:** Um dia gratificante aproveitado como um local! Planeje um plano de viagem ideal de um dia sem desperdício de movimento com IA.
 
 <br>
 

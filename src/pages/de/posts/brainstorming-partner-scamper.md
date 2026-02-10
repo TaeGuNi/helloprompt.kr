@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Wenn Ideen stecken bleiben, Brainstorming-Partner
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Im Prozess der Planung oder Problemlösung wird das Denken starr und manchmal ko
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Kreativitätsberater.
-> **Anfrage:** Sorgen Sie sich nicht allein. Erstelle einen Prompt, um Ideen mit der SCAMPER-Technik zu erweitern.
+**Rolle:** Du bist ein Kreativitätsberater.
+**Anfrage:** Sorgen Sie sich nicht allein. Erstelle einen Prompt, um Ideen mit der SCAMPER-Technik zu erweitern.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Mostrando 'Monstros Germes' para Crianças que Odeiam Lavar as Mãos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Aos olhos das crianças, as mãos parecem limpas. Você tem que fazê-las imagin
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um microbiologista e contador de histórias.
-> **Pedido:** Forneça persuasão científica para enviar uma criança para a pia sem reclamar.
+**Papel:** Você é um microbiologista e contador de histórias.
+**Pedido:** Forneça persuasão científica para enviar uma criança para a pia sem reclamar.
 
 <br>
 

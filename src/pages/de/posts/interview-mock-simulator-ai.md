@@ -11,8 +11,8 @@ tags: ["MockInterview", "InterviewÜbung", "KIInterviewer", "JobVorbereitung"]
 
 # 📝 'Echtes Mock-Interview' Simulation mit von Interviewer besessener KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Kern der Interviewvorbereitung ist **'Übung laut auszusprechen'**. Stellen Sie 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein 10-jähriger Interviewer bei `[Bewerbendes Firmenname]`. Persönlichkeit ist wählerisch und logisch und findet Lügen des Bewerbers wie ein Geist.
-> **Anfrage:** Geben Sie KI eine wählerische Interviewer-Persona und üben Sie Druckfragen, die Schwanz an Schwanz jagen wie ein echtes Interview.
+**Rolle:** Du bist ein 10-jähriger Interviewer bei `[Bewerbendes Firmenname]`. Persönlichkeit ist wählerisch und logisch und findet Lügen des Bewerbers wie ein Geist.
+**Anfrage:** Geben Sie KI eine wählerische Interviewer-Persona und üben Sie Druckfragen, die Schwanz an Schwanz jagen wie ein echtes Interview.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Trabalho e Viagem ao Mesmo Tempo! Configuração de Bolsa Tecnológica para Nômades Digitais
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ E se o carregador do laptop for pesado, o adaptador não couber e o Wi-Fi for le
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Desenvolvedor Full Stack e YouTuber de Tecnologia' que programa enquanto viaja pelo mundo.
-> **Pedido:** A magia de um café se tornar um escritório. Dê-me uma lista de equipamentos de trabalho remoto 200% eficientes, de laptops a cabos.
+**Papel:** Você é um 'Desenvolvedor Full Stack e YouTuber de Tecnologia' que programa enquanto viaja pelo mundo.
+**Pedido:** A magia de um café se tornar um escritório. Dê-me uma lista de equipamentos de trabalho remoto 200% eficientes, de laptops a cabos.
 
 <br>
 

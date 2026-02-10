@@ -17,8 +17,8 @@ tags:
 
 # 📝 Come Trasformare Anno Sabbatico Curriculum in 'Forza' non Debolezza
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Questa domanda è la più spaventosa? Anno sabbatico non è un peccato. Ciò che
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno psicologo positivo e consulente carriera.
-> **Richiesta:** Reinterpreta periodo interruzione carriera (Gap) come preparazione lavoro, riposo, viaggio come periodo significativo autosviluppo e ricarica e scioglie in lettera presentazione.
+**Ruolo:** Sei uno psicologo positivo e consulente carriera.
+**Richiesta:** Reinterpreta periodo interruzione carriera (Gap) come preparazione lavoro, riposo, viaggio come periodo significativo autosviluppo e ricarica e scioglie in lettera presentazione.
 
 <br>
 

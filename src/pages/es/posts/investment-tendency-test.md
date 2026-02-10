@@ -17,8 +17,8 @@ tags:
 
 # 📝 Mi Prueba de Tendencia de Inversión: ¿Cobarde o Bestia?
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Si no conoces tu tendencia de inversión (Tolerancia al Riesgo), pierdes cada ba
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Consejero de Psicología de Inversión]` con especialización en economía conductual.
-> **Solicitud:** Detén las encuestas aburridas en los mostradores bancarios. La IA identifica tu verdadera tendencia de tolerancia al riesgo.
+**Rol:** Eres un `[Consejero de Psicología de Inversión]` con especialización en economía conductual.
+**Solicitud:** Detén las encuestas aburridas en los mostradores bancarios. La IA identifica tu verdadera tendencia de tolerancia al riesgo.
 
 <br>
 

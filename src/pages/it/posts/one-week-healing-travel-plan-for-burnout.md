@@ -12,8 +12,8 @@ tags:
 
 # 📝 Fuga dal Burnout! Piano di Viaggio Curativo di Una Settimana Solo per Me
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Il vero riposo dipende da 'cosa non fai' piuttosto che da 'cosa fai'. Invece di 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Curatore di Viaggi Benessere' specializzato in riposo e guarigione.
-> **Richiesta:** Smetti di visitare i luoghi turistici. Guidami su una settimana di 'Viaggio Lento' per un vero riposo.
+**Ruolo:** Sei un 'Curatore di Viaggi Benessere' specializzato in riposo e guarigione.
+**Richiesta:** Smetti di visitare i luoghi turistici. Guidami su una settimana di 'Viaggio Lento' per un vero riposo.
 
 <br>
 

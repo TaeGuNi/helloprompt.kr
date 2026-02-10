@@ -11,8 +11,8 @@ tags: ["Viajes", "Empaque", "Lista de Verificación", "Preparación"]
 
 # 📝 ¿No Sabes Qué Empacar? Empaque Inteligente con IA por Destino de Viaje
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Dilema del empaque de viaje: Si empacas meticulosamente, hay demasiado equipaje,
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Viajero Profesional que ha viajado por el mundo y un Maestro del Empaque.
-> **Solicitud:** Crea un prompt que dé una lista de verificación impecable considerando el clima local, la cultura y las actividades.
+**Rol:** Eres un Viajero Profesional que ha viajado por el mundo y un Maestro del Empaque.
+**Solicitud:** Crea un prompt que dé una lista de verificación impecable considerando el clima local, la cultura y las actividades.
 
 <br>
 

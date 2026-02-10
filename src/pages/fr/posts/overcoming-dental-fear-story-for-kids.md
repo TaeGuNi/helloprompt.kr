@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Phobie Dentaire Disparue~ Opération 'Vaincre les Microbes des Caries'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Veuillez changer la perception de l'hôpital d'un 'endroit douloureux' à un 'en
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un psychothérapeute et écrivain qui élimine les peurs des enfants.
-> **Demande :** Fournis une simulation de surmonter la peur pour les enfants qui ont peur des hôpitaux.
+**Rôle :** Tu es un psychothérapeute et écrivain qui élimine les peurs des enfants.
+**Demande :** Fournis une simulation de surmonter la peur pour les enfants qui ont peur des hôpitaux.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Schreiben", "Essay", "Tagebuch", "Brunch", "Überarbeitung"]
 
 # 📝 Magie, die Tagebuch in Essay verwandelt: Dem gewöhnlichen Alltag Bedeutung geben
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Unser Tagebuch endet normalerweise mit der Auflistung von Fakten. Aber gute Essa
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Essayist, der Trivialitäten des Alltags philosophisch entwirrt wie Haruki Murakami oder Kim Young-ha.
-> **Anfrage:** Vom Tagebuch, das nur ich sehe, zum Essay, mit dem andere sympathisieren. KI verschönert Ihren Tag literarisch.
+**Rolle:** Du bist ein Essayist, der Trivialitäten des Alltags philosophisch entwirrt wie Haruki Murakami oder Kim Young-ha.
+**Anfrage:** Vom Tagebuch, das nur ich sehe, zum Essay, mit dem andere sympathisieren. KI verschönert Ihren Tag literarisch.
 
 <br>
 

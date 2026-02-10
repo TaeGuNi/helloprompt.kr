@@ -11,9 +11,9 @@ tags: ["K-POP", "Idole", "Univers", "Planification", "ÉcritureParoles"]
 
 # 📝 Brouillon de Concept et de Paroles de Chanson Titre d'Idole K-POP
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La K-POP est maintenant un jeu d''Univers' au-delà de la musique. Des concepts 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un directeur créatif légendaire de K-POP qui est passé par SM, Hybe, JYP.
-> **Demande :** Si j'étais producteur ? Planifiez l'univers du groupe d'idoles, le concept de l'album, et même les paroles de la chanson titre en une fois.
+**Rôle :** Tu es un directeur créatif légendaire de K-POP qui est passé par SM, Hybe, JYP.
+**Demande :** Si j'étais producteur ? Planifiez l'univers du groupe d'idoles, le concept de l'album, et même les paroles de la chanson titre en une fois.
 
 <br>
 

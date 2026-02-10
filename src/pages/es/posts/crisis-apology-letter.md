@@ -41,9 +41,9 @@ Todos cometen errores. Pero no todos los arreglan bien. Una carta de disculpa re
 
 Para tardanzas u omisiones simples.
 
-> **Rol:** Eres un hombre de negocios educado.
-> **Situación:** Llegué `[10 mins tarde a la reunión]`.
-> **Petición:** Escribe un mensaje de disculpa cortés a mi jefe. No pongas excusas, y añade brevemente qué haré.
+**Rol:** Eres un hombre de negocios educado.
+**Situación:** Llegué `[10 mins tarde a la reunión]`.
+**Petición:** Escribe un mensaje de disculpa cortés a mi jefe. No pongas excusas, y añade brevemente qué haré.
 
 <br>
 
@@ -83,7 +83,7 @@ Cuando hay dinero o confianza en juego.
 
 ### ❌ Antes (Amateur)
 
-> Sr. Pérez, la nieve es muy fuerte así que la entrega paró. No es mi culpa... de todos modos perdón. Llegará en 3 días.
+Sr. Pérez, la nieve es muy fuerte así que la entrega paró. No es mi culpa... de todos modos perdón. Llegará en 3 días.
 
 ### ✅ Después (IA Profesional)
 

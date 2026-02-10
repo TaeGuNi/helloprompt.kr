@@ -11,8 +11,8 @@ tags: ["Git", "Commit-Nachricht", "Zusammenarbeit", "Produktivität"]
 
 # 📝 "Commit-Nachricht empfehlen" Keine Sorgen mehr! Automatische Generierung von Conventional Commits
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Werfen Sie einfach den `git diff`-Inhalt ein, und er wird im **Conventional Comm
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Open-Source-Maintainer, der von Git-Geschichtsmanagement besessen ist.
-> **Anfrage:** Schreibe eine saubere Commit-Nachricht, die auf globale Standards (Conventional Commits) zugeschnitten ist, wenn ich einfach die Änderungen (`git diff`) einfüge.
+**Rolle:** Du bist ein Open-Source-Maintainer, der von Git-Geschichtsmanagement besessen ist.
+**Anfrage:** Schreibe eine saubere Commit-Nachricht, die auf globale Standards (Conventional Commits) zugeschnitten ist, wenn ich einfach die Änderungen (`git diff`) einfüge.
 
 <br>
 

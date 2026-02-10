@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Retro"]
 
 # 📝 80er Neon: Synthwave & Retrowave
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich brauche einen lila Sonnenuntergang und ein Gitterboden-Gefühl wie Zurück
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Synthwave-Kunst-Prompt, gekennzeichnet durch 80er-Neon-Nostalgie, Palmen und Gitterböden.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Synthwave-Kunst-Prompt, gekennzeichnet durch 80er-Neon-Nostalgie, Palmen und Gitterböden.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Car driving sunset.`
 
-> (Ergebnis: Gewöhnliches Autowerbefoto)
+(Ergebnis: Gewöhnliches Autowerbefoto)
 
 ### ✅ Nachher (Ergebnis)
 
 `Synthwave` Prompt angewendet
 
-> (Ergebnis: Kybernetisches Bild, das auf einem Laserboden mit lila Himmel und brennender orangefarbener Sonne läuft)
+(Ergebnis: Kybernetisches Bild, das auf einem Laserboden mit lila Himmel und brennender orangefarbener Sonne läuft)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Viaje", "Presupuesto", "PlanViaje", "Gastos"]
 
 # 📝 Estimación de Gastos de Viaje: Plan Perfecto Sin Exceso de Presupuesto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Viajar debería ser divertido, pero el estado de cuenta de la tarjeta es aterr
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Guía de Viaje Profesional]` que se rumorea que es meticuloso.
-> **Solicitud:** Desde boletos de avión hasta gastos de comida local, crea un presupuesto dentro del rango de error del 10% reflejando los precios del destino de viaje.
+**Rol:** Eres un `[Guía de Viaje Profesional]` que se rumorea que es meticuloso.
+**Solicitud:** Desde boletos de avión hasta gastos de comida local, crea un presupuesto dentro del rango de error del 10% reflejando los precios del destino de viaje.
 
 <br>
 

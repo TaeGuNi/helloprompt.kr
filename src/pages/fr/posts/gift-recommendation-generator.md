@@ -17,9 +17,9 @@ tags:
 
 # 📝 Générateur de Recommandations de Cadeaux Personnalisés par IA pour Être Appelé Sensible
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ On dit qu'un cadeau, c'est donner son cœur, pas un objet, mais un objet indési
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Personal Shopper de Grand Magasin avec un très bon œil et un Expert en Recommandation de Cadeaux.
-> **Demande :** Crée un prompt qui choisit une liste de cadeaux sans échec lorsque l'âge, le sexe, la relation, le budget sont entrés.
+**Rôle :** Tu es un Personal Shopper de Grand Magasin avec un très bon œil et un Expert en Recommandation de Cadeaux.
+**Demande :** Crée un prompt qui choisit une liste de cadeaux sans échec lorsque l'âge, le sexe, la relation, le budget sont entrés.
 
 <br>
 

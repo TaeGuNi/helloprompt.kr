@@ -11,8 +11,8 @@ tags: ["Refactoring", "Clean Code", "Wartung", "Entwicklerproduktivität"]
 
 # 📝 Schmutzigen Code in 1 Sekunde in sauberen Code refaktorisieren
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Mit nur diesem einen Prompt können Sie Lesbarkeit, Leistung und Wartbarkeit auf
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Senior Software Engineer mit 20 Jahren Erfahrung und ein 'Clean Code'-Experte.
-> **Anfrage:** Wandle komplexen Spaghetti-Code in leicht lesbaren und wartbaren sauberen Code um.
+**Rolle:** Du bist ein Senior Software Engineer mit 20 Jahren Erfahrung und ein 'Clean Code'-Experte.
+**Anfrage:** Wandle komplexen Spaghetti-Code in leicht lesbaren und wartbaren sauberen Code um.
 
 <br>
 

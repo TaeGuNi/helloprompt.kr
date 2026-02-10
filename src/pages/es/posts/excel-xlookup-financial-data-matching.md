@@ -11,8 +11,8 @@ tags: ["Excel", "Función", "XLOOKUP", "LimpiezaDatos"]
 
 # 📝 Olvida Excel VLOOKUP: Dios de Coincidencia de Datos Financieros, XLOOKUP
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Equipos de finanzas o contabilidad hacen tarea de fusionar datos en diferentes t
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres `[Analista de Datos]` que es maestro de funciones de Excel.
-> **Solicitud:** ¿Trabajando horas extras debido a VLOOKUP propenso a errores y lento? Cambia a XLOOKUP más potente y fácil.
+**Rol:** Eres `[Analista de Datos]` que es maestro de funciones de Excel.
+**Solicitud:** ¿Trabajando horas extras debido a VLOOKUP propenso a errores y lento? Cambia a XLOOKUP más potente y fácil.
 
 <br>
 

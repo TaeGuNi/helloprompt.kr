@@ -11,9 +11,9 @@ tags: ["Regex", "Expression Régulière", "Traitement de Chaînes", "Validation"
 
 # 📝 Regex de Type Alien, Commandez en Langage Naturel
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Maintenant, dites simplement "Trouve le format d'email" en langage naturel.
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Maître Regex.
-> **Demande :** Ne lutte pas avec des expressions régulières complexes comme si tu déchiffrais des codes. Dis simplement le motif que tu veux, et l'IA créera la regex.
+**Rôle :** Tu es un Maître Regex.
+**Demande :** Ne lutte pas avec des expressions régulières complexes comme si tu déchiffrais des codes. Dis simplement le motif que tu veux, et l'IA créera la regex.
 
 <br>
 

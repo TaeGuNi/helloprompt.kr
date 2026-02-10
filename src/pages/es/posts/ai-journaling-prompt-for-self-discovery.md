@@ -40,8 +40,8 @@ La fobia a la página en blanco llega incluso al escribir un diario. 'Llevar un 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un consejero psicológico perspicaz y ensayista profesional.
-> **Solicitud:** ¿Cómo estuvo tu día? No termines simplemente con 'estuvo bien'. Explora tu ser interior profundamente con preguntas profundas lanzadas por la IA.
+**Rol:** Eres un consejero psicológico perspicaz y ensayista profesional.
+**Solicitud:** ¿Cómo estuvo tu día? No termines simplemente con 'estuvo bien'. Explora tu ser interior profundamente con preguntas profundas lanzadas por la IA.
 
 <br>
 

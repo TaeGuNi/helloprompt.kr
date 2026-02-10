@@ -17,8 +17,8 @@ tags:
 
 # 📝 Como Transformar Ano Sabático de Currículo em 'Força' não Fraqueza
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Essa pergunta é a mais temível? Ano sabático não é pecado. O que é importa
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um psicólogo positivo e consultor de carreira.
-> **Solicitação:** Reinterpreta período de interrupção de carreira (Gap) como preparação de emprego, descanso, viagem como período significativo de autodesenvolvimento e recarga e derrete em carta de apresentação.
+**Papel:** Você é um psicólogo positivo e consultor de carreira.
+**Solicitação:** Reinterpreta período de interrupção de carreira (Gap) como preparação de emprego, descanso, viagem como período significativo de autodesenvolvimento e recarga e derrete em carta de apresentação.
 
 <br>
 

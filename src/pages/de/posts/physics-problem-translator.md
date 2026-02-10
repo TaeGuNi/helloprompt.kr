@@ -11,8 +11,8 @@ tags: ["Physik", "Ingenieurwesen", "Problemlösung", "Prompt"]
 
 # 📝 Physik-Aufgaben-Übersetzer: Von der Situationsbeurteilung zum Aufstellen von Gleichungen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich habe alle Formeln auswendig gelernt, aber ich weiß nicht, ob ich F=ma ode
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Physikprofessor und Problemlösungsexperte]`.
-> **Anfrage:** Erstelle einen Prompt, der geschriebene Physikaufgaben liest, die Situation analysiert und dir sagt, welche Formel du verwenden sollst.
+**Rolle:** Du bist ein `[Physikprofessor und Problemlösungsexperte]`.
+**Anfrage:** Erstelle einen Prompt, der geschriebene Physikaufgaben liest, die Situation analysiert und dir sagt, welche Formel du verwenden sollst.
 
 <br>
 

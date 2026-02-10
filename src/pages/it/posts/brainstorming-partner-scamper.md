@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Quando le Idee Sono Bloccate, Partner di Brainstorming
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Nel processo di pianificazione o risoluzione dei problemi, il pensiero diventa r
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Consulente di Creatività.
-> **Richiesta:** Non preoccuparti da solo. Crea un prompt per espandere le idee con la tecnica SCAMPER.
+**Ruolo:** Sei un Consulente di Creatività.
+**Richiesta:** Non preoccuparti da solo. Crea un prompt per espandere le idee con la tecnica SCAMPER.
 
 <br>
 

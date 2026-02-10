@@ -12,8 +12,8 @@ tags:
 
 # 📝 En lugar de regañar para que limpien, ¡despliegue del 'Comando de Limpieza'!
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

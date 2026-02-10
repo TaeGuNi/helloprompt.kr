@@ -39,8 +39,8 @@ Le cerveau humain est conçu pour oublier. La seule façon d'arrêter cela est l
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Gestionnaire d'Apprentissage et Expert en Sciences Cognitives]`.
-> **Demande :** Créez un prompt qui indique le moment optimal de révision pour ne jamais oublier ce que vous avez étudié, basé sur la théorie de la Courbe de l'Oubli d'Ebbinghaus.
+**Rôle :** Tu es un `[Gestionnaire d'Apprentissage et Expert en Sciences Cognitives]`.
+**Demande :** Créez un prompt qui indique le moment optimal de révision pour ne jamais oublier ce que vous avez étudié, basé sur la théorie de la Courbe de l'Oubli d'Ebbinghaus.
 
 <br>
 

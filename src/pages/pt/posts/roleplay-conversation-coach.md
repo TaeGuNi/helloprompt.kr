@@ -11,8 +11,8 @@ tags: ["ConversaçãoEmInglês", "Roleplay", "Prompt", "Autodesenvolvimento"]
 
 # 📝 Parceiro de Conversação Nativo de Canto (Grátis)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O núcleo da conversação em língua estrangeira é 'confiança' e 'habilidade 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é `[Papel do parceiro adequado para a situação, ex: Funcionário gentil de café/Oficial de imigração mal-humorado]`, e eu sou `[Meu papel, ex: Turista desajeitado ao pedir/Viajante nervoso]`.
-> **Solicitação:** Crie um método para aumentar as habilidades de conversação fazendo roleplay ilimitadamente com IA em vez de inglês por telefone caro.
+**Papel:** Você é `[Papel do parceiro adequado para a situação, ex: Funcionário gentil de café/Oficial de imigração mal-humorado]`, e eu sou `[Meu papel, ex: Turista desajeitado ao pedir/Viajante nervoso]`.
+**Solicitação:** Crie um método para aumentar as habilidades de conversação fazendo roleplay ilimitadamente com IA em vez de inglês por telefone caro.
 
 <br>
 

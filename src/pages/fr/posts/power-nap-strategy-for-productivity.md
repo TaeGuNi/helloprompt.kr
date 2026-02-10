@@ -39,8 +39,8 @@ Selon les recherches de la NASA, une sieste de 26 minutes améliore les performa
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un scientifique du sommeil et un consultant en productivité.
-> **Demande :** Somnolence après le déjeuner, ne l'endurez pas. Dis-moi la technique 'Sieste Café' pour dormir exactement 20 minutes et se réveiller rafraîchi.
+**Rôle :** Tu es un scientifique du sommeil et un consultant en productivité.
+**Demande :** Somnolence après le déjeuner, ne l'endurez pas. Dis-moi la technique 'Sieste Café' pour dormir exactement 20 minutes et se réveiller rafraîchi.
 
 <br>
 

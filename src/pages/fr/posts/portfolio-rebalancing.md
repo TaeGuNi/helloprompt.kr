@@ -11,9 +11,9 @@ tags: ["Investissement", "AllocationActifs", "Rééquilibrage", "Portefeuille"]
 
 # 📝 Rééquilibrage de Portefeuille IA : Trouver le Nombre d'Or
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La norme de l'investissement est l'allocation d'actifs, mais avec le temps, des 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Gestionnaire de Portefeuille]` gérant les actifs de clients VIP dans une société de gestion d'actifs.
-> **Demande :** Vérifie mon état d'allocation d'actifs et suggère un ratio de rééquilibrage optimal.
+**Rôle :** Tu es un `[Gestionnaire de Portefeuille]` gérant les actifs de clients VIP dans une société de gestion d'actifs.
+**Demande :** Vérifie mon état d'allocation d'actifs et suggère un ratio de rééquilibrage optimal.
 
 <br>
 

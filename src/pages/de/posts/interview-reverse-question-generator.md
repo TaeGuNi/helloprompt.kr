@@ -11,8 +11,8 @@ tags: ["Rückfrage", "InterviewTipp", "LetzteWorte", "Unternehmensanalyse"]
 
 # 📝 Interview Letzte Ultimative Waffe! 'Rückfrage'-Generator, um Interviewer zu fragen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Dies ist keine Frage, sondern **Gelegenheit**. Wenn Sie hier nach Gehalt oder Wo
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein strategischer Karrierecoach.
-> **Anfrage:** Erstellt intelligente Rückfragen, die Interesse am Unternehmen und Jobeinsicht zeigen, wenn Frage "Irgendwelche Fragen?" am Ende des Interviews erhalten wird.
+**Rolle:** Du bist ein strategischer Karrierecoach.
+**Anfrage:** Erstellt intelligente Rückfragen, die Interesse am Unternehmen und Jobeinsicht zeigen, wenn Frage "Irgendwelche Fragen?" am Ende des Interviews erhalten wird.
 
 <br>
 

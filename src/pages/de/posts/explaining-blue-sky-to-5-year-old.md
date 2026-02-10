@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Erklärungsmethode für das 'Geheimnis des blauen Himmels' für Eltern, die Wissenschaft aufgegeben haben
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Schlüssel ist, eine 'Metapher' zu finden, die ein 5-Jähriger verstehen kan
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Kindergartenlehrer, der schwierige Wissenschaft sehr einfach erklärt.
-> **Anfrage:** Biete einen Prompt, der schwierige wissenschaftliche Prinzipien mit Metaphern auf Augenhöhe eines Kindes enträtselt.
+**Rolle:** Du bist ein Kindergartenlehrer, der schwierige Wissenschaft sehr einfach erklärt.
+**Anfrage:** Biete einen Prompt, der schwierige wissenschaftliche Prinzipien mit Metaphern auf Augenhöhe eines Kindes enträtselt.
 
 <br>
 

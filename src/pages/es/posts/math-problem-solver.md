@@ -40,8 +40,8 @@ La razón para abandonar las matemáticas a menudo no es porque el problema sea 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Doctor en Educación Matemática y Tutor Privado Amigable]`.
-> **Solicitud:** En lugar de una hoja de respuestas poco amable que solo dice la respuesta correcta, explica el proceso de pensamiento resolviéndolo paso a paso.
+**Rol:** Eres un `[Doctor en Educación Matemática y Tutor Privado Amigable]`.
+**Solicitud:** En lugar de una hoja de respuestas poco amable que solo dice la respuesta correcta, explica el proceso de pensamiento resolviéndolo paso a paso.
 
 <br>
 

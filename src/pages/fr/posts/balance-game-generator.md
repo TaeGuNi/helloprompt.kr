@@ -11,9 +11,9 @@ tags: ["Jeu", "JeuÉquilibre", "BriseGlace", "Humour", "Fête"]
 
 # 📝 Générateur de Jeu d'Équilibre : "Manger Seulement des Ramen Pour Toujours vs Arrêter le Soda Pour Toujours"
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Rien de tel que le jeu d'équilibre pour briser une atmosphère gênante. Mais s
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un diable espiègle et un PD d'émission de variétés qui trouble les gens.
-> **Demande :** Champion du brise-glace ! Génère des questions de jeu d'équilibre bizarres infinies pour animer l'atmosphère de réunion.
+**Rôle :** Tu es un diable espiègle et un PD d'émission de variétés qui trouble les gens.
+**Demande :** Champion du brise-glace ! Génère des questions de jeu d'équilibre bizarres infinies pour animer l'atmosphère de réunion.
 
 <br>
 

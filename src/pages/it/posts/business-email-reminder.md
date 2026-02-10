@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Come Scrivere Email Aziendali Che Ricordano Senza Essere Maleducati
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Quando hai urgentemente bisogno di ricevere dati per lavoro ma non c'è risposta
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Comunicazione Aziendale e Negoziatore.
-> **Richiesta:** Crea un prompt email per ricordare ai partner commerciali che non rispondono, con stile senza arrabbiarsi.
+**Ruolo:** Sei un Esperto di Comunicazione Aziendale e Negoziatore.
+**Richiesta:** Crea un prompt email per ricordare ai partner commerciali che non rispondono, con stile senza arrabbiarsi.
 
 <br>
 

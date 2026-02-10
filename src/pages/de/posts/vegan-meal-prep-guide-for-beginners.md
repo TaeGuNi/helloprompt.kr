@@ -11,8 +11,8 @@ tags: ["Vegan", "Vegetarisch", "Meal Prep", "Gesundheit", "ChatGPT"]
 
 # 🥗 Perfekter Meal-Prep-Leitfaden für Vegan-Anfänger
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

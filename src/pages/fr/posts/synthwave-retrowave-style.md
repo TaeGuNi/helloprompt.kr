@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Rétro"]
 
 # 📝 Néon des Années 80 : Synthwave & Retrowave
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"J'ai besoin d'un coucher de soleil violet et d'une sensation de sol quadrillé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'art Synthwave caractérisé par la nostalgie du néon des années 80, les palmiers et les sols quadrillés.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'art Synthwave caractérisé par la nostalgie du néon des années 80, les palmiers et les sols quadrillés.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Car driving sunset.`
 
-> (Résultat : Photo de publicité automobile ordinaire)
+(Résultat : Photo de publicité automobile ordinaire)
 
 ### ✅ Après (Résultat)
 
 Prompt `Synthwave` appliqué
 
-> (Résultat : Image cybernétique courant sur un sol laser avec un ciel violet et un soleil orange flamboyant)
+(Résultat : Image cybernétique courant sur un sol laser avec un ciel violet et un soleil orange flamboyant)
 
 ---
 

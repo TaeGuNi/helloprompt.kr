@@ -40,8 +40,8 @@ El inglés es un idioma de 'Acento' y 'Ritmo'. Si lees honestamente como se dele
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Fonética y Entrenador de Corrección de Pronunciación]`.
-> **Solicitud:** Enseña visualmente símbolos fonéticos, acento y entonación incluso en entornos donde no se puede escuchar sonido.
+**Rol:** Eres un `[Experto en Fonética y Entrenador de Corrección de Pronunciación]`.
+**Solicitud:** Enseña visualmente símbolos fonéticos, acento y entonación incluso en entornos donde no se puede escuchar sonido.
 
 <br>
 

@@ -41,8 +41,8 @@ Maintenant, collez simplement la logique métier. L'IA écrira des codes de test
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Ingénieur QA méticuleux et perfectionniste et un expert en automatisation de tests.
-> **Demande :** Confie l'écriture ennuyeuse et gênante de Tests Unitaires à l'IA. Défi couverture 100% !
+**Rôle :** Tu es un Ingénieur QA méticuleux et perfectionniste et un expert en automatisation de tests.
+**Demande :** Confie l'écriture ennuyeuse et gênante de Tests Unitaires à l'IA. Défi couverture 100% !
 
 <br>
 

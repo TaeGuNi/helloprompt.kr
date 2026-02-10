@@ -11,8 +11,8 @@ tags: ["E-mail Marketing", "CRM", "Copywriting", "Boletim Informativo"]
 
 # 📝 Gerador de Assunto de E-mail Que Dispara Taxas de Abertura
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Se a taxa de abertura do seu boletim informativo ou e-mail promocional cuidadosa
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em E-mail Marketing]`. Você conhece padrões de assunto de alta taxa de abertura comprovados por testes A/B.
-> **Solicitação:** Pare boletins informativos que vão direto para o spam. Crie um prompt para como escrever assuntos de e-mail que os clientes não têm escolha a não ser abrir.
+**Papel:** Você é um `[Especialista em E-mail Marketing]`. Você conhece padrões de assunto de alta taxa de abertura comprovados por testes A/B.
+**Solicitação:** Pare boletins informativos que vão direto para o spam. Crie um prompt para como escrever assuntos de e-mail que os clientes não têm escolha a não ser abrir.
 
 <br>
 

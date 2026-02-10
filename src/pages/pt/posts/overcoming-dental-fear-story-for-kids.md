@@ -18,8 +18,8 @@ tags:
 
 # 📝 Fobia Dentária Sumiu~ Operação 'Derrotar Germes de Cárie'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Por favor, mude a percepção do hospital de um 'lugar doloroso' para um 'lugar 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um psicoterapeuta e escritor que elimina os medos das crianças.
-> **Pedido:** Forneça uma simulação de superação do medo para crianças que têm medo de hospitais.
+**Papel:** Você é um psicoterapeuta e escritor que elimina os medos das crianças.
+**Pedido:** Forneça uma simulação de superação do medo para crianças que têm medo de hospitais.
 
 <br>
 

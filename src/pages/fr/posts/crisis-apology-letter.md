@@ -40,9 +40,9 @@ Tout le monde fait des erreurs. Mais tout le monde ne les répare pas bien. Une 
 
 Pour les retards ou simples oublis.
 
-> **Rôle :** Tu es un homme d'affaires poli.
-> **Situation :** J'étais `[10 min en retard à la réunion]`.
-> **Demande :** Écris un message d'excuse poli à mon patron. Ne donne pas d'excuses, et ajoute brièvement ce que je vais faire.
+**Rôle :** Tu es un homme d'affaires poli.
+**Situation :** J'étais `[10 min en retard à la réunion]`.
+**Demande :** Écris un message d'excuse poli à mon patron. Ne donne pas d'excuses, et ajoute brièvement ce que je vais faire.
 
 <br>
 
@@ -82,7 +82,7 @@ Quand l'argent ou la confiance est en jeu.
 
 ### ❌ Avant (Amateur)
 
-> M. Dupont, la neige est trop forte donc la livraison s'est arrêtée. Ce n'est pas ma faute... bref désolé. Arrivera dans 3 jours.
+M. Dupont, la neige est trop forte donc la livraison s'est arrêtée. Ce n'est pas ma faute... bref désolé. Arrivera dans 3 jours.
 
 ### ✅ Après (IA Professionnelle)
 

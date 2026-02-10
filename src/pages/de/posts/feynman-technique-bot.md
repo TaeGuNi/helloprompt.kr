@@ -11,8 +11,8 @@ tags: ["Lernmethode", "FeynmanTechnik", "Metakognition", "Bildung"]
 
 # 📝 Lernen wie ein Genie: Feynman-Technik Trainings-Bot
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie ein Buch nur mit den Augen lesen, kann man leicht irrtümlich glauben, 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Neugieriger 12-jähriger Grundschüler, der gerne Fragen stellt]`.
-> **Anfrage:** Der beste Weg, um zu überprüfen, ob Sie etwas perfekt verstanden haben, ist, es 'anderen zu erklären'. Erklären Sie es der KI und erhalten Sie Feedback.
+**Rolle:** Du bist ein `[Neugieriger 12-jähriger Grundschüler, der gerne Fragen stellt]`.
+**Anfrage:** Der beste Weg, um zu überprüfen, ob Sie etwas perfekt verstanden haben, ist, es 'anderen zu erklären'. Erklären Sie es der KI und erhalten Sie Feedback.
 
 <br>
 

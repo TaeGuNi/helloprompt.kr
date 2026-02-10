@@ -11,7 +11,7 @@ tags: ["Travel", "Itinerary", "Overseas Travel"]
 
 # 📝 AI Travel Planner for Ps More Perfect Than Js
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

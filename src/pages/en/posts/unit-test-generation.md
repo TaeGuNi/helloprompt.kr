@@ -11,7 +11,7 @@ tags: ["Test Code", "TDD", "Jest", "JUnit"]
 
 # 📝 Too Lazy to Write Test Code? AI Will Do It for You
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

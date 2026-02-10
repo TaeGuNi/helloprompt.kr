@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "3D"]
 
 # 📝 Monde 3D Mignon : Vue Isométrique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux créer une pièce mignonne vue d'en haut comme dans les jeux SimCity o
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez une vue tridimensionnelle et mignonne comme les jeux 3D ou les icônes, angle isométrique.
+**Rôle :** Tu es un expert.
+**Demande :** Créez une vue tridimensionnelle et mignonne comme les jeux 3D ou les icônes, angle isométrique.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Gamer room 3d.`
 
-> (Résultat : Angle de photo de chambre général, l'intérieur pourrait ne pas être visible couvert par des murs)
+(Résultat : Angle de photo de chambre général, l'intérieur pourrait ne pas être visible couvert par des murs)
 
 ### ✅ Après (Résultat)
 
 Prompt `Isometric view` appliqué
 
-> (Résultat : Miniature mignonne où un mur est ouvert et tous les meubles de la pièce sont visibles densément)
+(Résultat : Miniature mignonne où un mur est ouvert et tous les meubles de la pièce sont visibles densément)
 
 ---
 

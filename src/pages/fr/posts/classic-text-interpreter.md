@@ -11,9 +11,9 @@ tags: ["Histoire", "Classique", "Alphabétisation", "AnalyseArchiveHistorique"]
 
 # 📝 IA Lisant des Archives Historiques : Interprète de Texte Classique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Le vrai goût de l'histoire est dans la Source Primaire, pas dans les résumés.
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Philologue Classique et Commentateur d'Histoire]`.
-> **Demande :** Traduisez des documents anciens difficiles et abscons ou des sources primaires en langage moderne facile et interprétez les significations cachées à l'intérieur.
+**Rôle :** Tu es un `[Philologue Classique et Commentateur d'Histoire]`.
+**Demande :** Traduisez des documents anciens difficiles et abscons ou des sources primaires en langage moderne facile et interprétez les significations cachées à l'intérieur.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Analyser les Commentaires Clients Verbeux, Positif/Négatif
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La Voix du Client (VOC) est importante, mais lire et classifier de vastes donné
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Gestion de la Qualité CS.
-> **Demande :** Des centaines de commentaires d'avis, organisez-les en une fois avec l'Analyse de Sentiment.
+**Rôle :** Tu es un Expert en Gestion de la Qualité CS.
+**Demande :** Des centaines de commentaires d'avis, organisez-les en une fois avec l'Analyse de Sentiment.
 
 <br>
 

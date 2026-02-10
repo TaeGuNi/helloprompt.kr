@@ -18,8 +18,8 @@ tags:
 
 # 📝 'Perguntas Mágicas' Que Fazem as Crianças Estudarem Sem Dizer 'Estude'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Instruções chamam resistência, mas perguntas chamam pensamentos. Lance pergun
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um conselheiro de psicologia da aprendizagem.
-> **Pedido:** Forneça técnicas de conversa para fazer uma criança sentar à mesa por conta própria sem forçá-la.
+**Papel:** Você é um conselheiro de psicologia da aprendizagem.
+**Pedido:** Forneça técnicas de conversa para fazer uma criança sentar à mesa por conta própria sem forçá-la.
 
 <br>
 

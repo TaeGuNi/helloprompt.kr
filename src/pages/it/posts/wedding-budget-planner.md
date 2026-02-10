@@ -11,8 +11,8 @@ tags: ["Matrimonio", "Budget", "Nozze", "NovelliSposi"]
 
 # 📝 Excel Budget Matrimonio: Lista di Controllo per Prevenire Bomba Costi Extra
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La preparazione del matrimonio è una serie di 'scelte' e 'costi extra'. Se non 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Wedding Planner Professionista]` con 10 anni di esperienza e consulente finanziario.
-> **Richiesta:** Prevedi e risparmia tutti i costi che si verificano nel processo di preparazione del matrimonio, dallo Studio·Abito·Trucco alla dote.
+**Ruolo:** Sei un `[Wedding Planner Professionista]` con 10 anni di esperienza e consulente finanziario.
+**Richiesta:** Prevedi e risparmia tutti i costi che si verificano nel processo di preparazione del matrimonio, dallo Studio·Abito·Trucco alla dote.
 
 <br>
 

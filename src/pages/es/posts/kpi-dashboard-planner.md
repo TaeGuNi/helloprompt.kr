@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Planificando un Panel de Control de KPI Visible de un Vistazo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Quiero visualizar datos, pero es difícil decidir qué Indicadores Clave de Rend
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Diseñador UI/UX y Analista de Datos.
-> **Solicitud:** ¿Qué indicadores debería mirar? Recomienda componentes y diseño de panel de control.
+**Rol:** Eres un Diseñador UI/UX y Analista de Datos.
+**Solicitud:** ¿Qué indicadores debería mirar? Recomienda componentes y diseño de panel de control.
 
 <br>
 

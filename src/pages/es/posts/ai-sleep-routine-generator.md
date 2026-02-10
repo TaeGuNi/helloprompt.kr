@@ -11,8 +11,8 @@ tags: ["Rutina de Sueño", "Insomnio", "Hábito", "Salud", "ChatGPT"]
 
 # 🧠 Generador de Rutina de Sueño con IA: Enseñando a tu Cerebro que es Hora de Dormir
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Nuestros cerebros aman las señales. Si das repetidamente una señal de que 'hac
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un psicólogo conductual y coach de sueño. Eres un experto en ayudar a la formación de hábitos.
-> **Solicitud:** Diseña una rutina mágica que te dé sueño solo con hacer acciones específicas, como el perro de Pavlov.
+**Rol:** Eres un psicólogo conductual y coach de sueño. Eres un experto en ayudar a la formación de hábitos.
+**Solicitud:** Diseña una rutina mágica que te dé sueño solo con hacer acciones específicas, como el perro de Pavlov.
 
 <br>
 

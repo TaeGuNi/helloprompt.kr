@@ -11,8 +11,8 @@ tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 
 # 📝 Generatore di Oggetti Email Che Fa Schizzare i Tassi di Apertura
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Se il tasso di apertura della tua newsletter o email promozionale scritta con cu
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Email Marketing]`. Conosci modelli di oggetti ad alto tasso di apertura provati tramite test A/B.
-> **Richiesta:** Ferma le newsletter che vanno dritte nello spam. Crea un prompt su come scrivere oggetti email che i clienti non hanno altra scelta che aprire.
+**Ruolo:** Sei un `[Esperto di Email Marketing]`. Conosci modelli di oggetti ad alto tasso di apertura provati tramite test A/B.
+**Richiesta:** Ferma le newsletter che vanno dritte nello spam. Crea un prompt su come scrivere oggetti email che i clienti non hanno altra scelta che aprire.
 
 <br>
 

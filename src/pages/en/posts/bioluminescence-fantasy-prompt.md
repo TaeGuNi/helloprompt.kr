@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 
 # 📝 Fantastic Glow: Bioluminescence
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Forest at night with lights.`
 
-> (Result: Artificial feeling like streetlights turned on in the forest or flashlight beams)
+(Result: Artificial feeling like streetlights turned on in the forest or flashlight beams)
 
 ### ✅ After (Result)
 
 `Bioluminescence` prompt applied
 
-> (Result: Fantasy world where brilliant light pours out from leaf veins of plants and mushroom caps)
+(Result: Fantasy world where brilliant light pours out from leaf veins of plants and mushroom caps)
 
 ---
 

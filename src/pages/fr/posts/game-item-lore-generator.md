@@ -11,9 +11,9 @@ tags: ["Jeu", "Objet", "JDR", "Planification", "Fantaisie"]
 
 # 📝 Encyclopédie des Objets de Jeu : Armes Légendaires et Accessoires Maudits
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ N'est-ce pas trop ennuyeux ? Un grand objet est une histoire en soi. Créons des
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un estimateur et forgeron versé dans les reliques anciennes et les outils magiques.
-> **Demande :** La simple 'Épée +1' est ennuyeuse. Créez des objets uniques avec un récit vivant et un gadget.
+**Rôle :** Tu es un estimateur et forgeron versé dans les reliques anciennes et les outils magiques.
+**Demande :** La simple 'Épée +1' est ennuyeuse. Créez des objets uniques avec un récit vivant et un gadget.
 
 <br>
 

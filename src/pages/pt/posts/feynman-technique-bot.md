@@ -11,8 +11,8 @@ tags: ["MétodoEstudo", "TécnicaFeynman", "Metacognição", "Educação"]
 
 # 📝 Estudando Como um Gênio: Bot de Treinamento da Técnica Feynman
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Se você ler um livro apenas com os olhos, é fácil se enganar pensando que 'sa
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Aluno curioso de 12 anos do ensino fundamental que adora fazer perguntas]`.
-> **Solicitação:** A melhor maneira de verificar se você entendeu algo perfeitamente é 'explicar para os outros'. Explique para a IA e receba feedback.
+**Papel:** Você é um `[Aluno curioso de 12 anos do ensino fundamental que adora fazer perguntas]`.
+**Solicitação:** A melhor maneira de verificar se você entendeu algo perfeitamente é 'explicar para os outros'. Explique para a IA e receba feedback.
 
 <br>
 

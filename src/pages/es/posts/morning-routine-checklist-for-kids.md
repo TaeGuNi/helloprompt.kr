@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¿No quieres gritar '¡Date prisa!' cada mañana? Juego de Rutina
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

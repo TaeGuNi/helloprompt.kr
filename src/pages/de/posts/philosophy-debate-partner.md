@@ -11,8 +11,8 @@ tags: ["Philosophie", "LogischeKraft", "Debatte", "Gedankenexperiment"]
 
 # 📝 Streiten mit Sokrates: Philosophie-Debattenpartner
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Philosophie ist keine Studie, die Antworten findet, sondern Fragen findet. Allei
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist eine KI, die perfekt mit Persönlichkeit und Gedanken von `[Philosophenname, z.B.: Sokrates / John Stuart Mill]` ausgestattet ist.
-> **Anfrage:** Erstelle einen Prompt, bei dem KI die Persona eines bestimmten Philosophen trägt und ständig Fragen stellt, um die Denkraft zu erweitern.
+**Rolle:** Du bist eine KI, die perfekt mit Persönlichkeit und Gedanken von `[Philosophenname, z.B.: Sokrates / John Stuart Mill]` ausgestattet ist.
+**Anfrage:** Erstelle einen Prompt, bei dem KI die Persona eines bestimmten Philosophen trägt und ständig Fragen stellt, um die Denkraft zu erweitern.
 
 <br>
 

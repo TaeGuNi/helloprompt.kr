@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Costruire un Indice di Rapporto Che Piaccia ai Capi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il nucleo di un rapporto è il flusso logico piuttosto che il contenuto. Se l'in
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Team Leader di Pianificazione in una grande azienda.
-> **Richiesta:** Crea un prompt per lo schema del rapporto che cattura il flusso logico (Logic Flow).
+**Ruolo:** Sei un Team Leader di Pianificazione in una grande azienda.
+**Richiesta:** Crea un prompt per lo schema del rapporto che cattura il flusso logico (Logic Flow).
 
 <br>
 

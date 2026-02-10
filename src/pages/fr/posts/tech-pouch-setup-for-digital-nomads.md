@@ -11,9 +11,9 @@ tags: ["Nomade Numérique", "Workation", "Équipement Tech", "Travail à Distanc
 
 # 📝 Travail et Voyage en Même Temps ! Configuration de Pochette Tech pour Nomades Numériques
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Et si le chargeur de l'ordinateur portable est lourd, l'adaptateur ne convient p
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Développeur Full Stack et YouTubeur Tech' qui code en voyageant à travers le monde.
-> **Demande :** La magie d'un café devenant un bureau. Donne-moi une liste d'équipements de travail à distance efficaces à 200%, des ordinateurs portables aux câbles.
+**Rôle :** Tu es un 'Développeur Full Stack et YouTubeur Tech' qui code en voyageant à travers le monde.
+**Demande :** La magie d'un café devenant un bureau. Donne-moi une liste d'équipements de travail à distance efficaces à 200%, des ordinateurs portables aux câbles.
 
 <br>
 

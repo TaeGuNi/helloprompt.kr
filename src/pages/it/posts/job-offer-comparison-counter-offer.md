@@ -46,8 +46,8 @@ _"L'azienda A ha uno stipendio alto, l'azienda B ha un buon equilibrio vita-lavo
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno stratega della negoziazione e un manager di carriera.
-> **Richiesta:** Confronta le condizioni quando ricevo accettazioni da più aziende e pianifica una strategia di 'tira e molla' (Controfferta) per ottenere termini migliori.
+**Ruolo:** Sei uno stratega della negoziazione e un manager di carriera.
+**Richiesta:** Confronta le condizioni quando ricevo accettazioni da più aziende e pianifica una strategia di 'tira e molla' (Controfferta) per ottenere termini migliori.
 
 <br>
 

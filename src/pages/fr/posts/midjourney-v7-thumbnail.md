@@ -11,15 +11,15 @@ tags: ["Midjourney", "Design", "Miniature", "Blog", "ArtIA"]
 
 # 🎨 Pratique Midjourney v7 : Formule de 'Miniature de Blog' pour Non-Designers
 
-> **🎯 Recommandé pour :** Les blogueurs avec une super écriture mais des photos horribles, Les éditeurs fatigués des sites de stock gratuits
-> **⏱️ Temps Requis :** 1 min
-> **🤖 Modèle Recommandé :** Midjourney v7 (ou Dall-E 3)
+**🎯 Recommandé pour :** Les blogueurs avec une super écriture mais des photos horribles, Les éditeurs fatigués des sites de stock gratuits
+**⏱️ Temps Requis :** 1 min
+**🤖 Modèle Recommandé :** Midjourney v7 (ou Dall-E 3)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Le contenu est parfait... mais pourquoi l'image de couverture est-elle si moche ?"_
+_"Le contenu est parfait... mais pourquoi l'image de couverture est-elle si moche ?"_
 
 80% du trafic du blog dépend du Titre et de la Miniature. Les photos de stock gratuites (Unsplash) sont clichés, et dessiner soi-même est impossible. Maintenant, demandez à l'**Artiste IA**. Voici la formule pour créer des illustrations de qualité designer en utilisant la dernière version de 2026, **Midjourney v7**.
 
@@ -39,8 +39,8 @@ tags: ["Midjourney", "Design", "Miniature", "Blog", "ArtIA"]
 
 Style Notion/Toss propre et tendance.
 
-> **Prompt :**
-> `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+**Prompt :**
+`cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
 <br>
 

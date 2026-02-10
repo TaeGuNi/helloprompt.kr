@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Perfume bottle on table.`
 
-> (Result: Photo with a living sense as if placed on a dining table at home)
+(Result: Photo with a living sense as if placed on a dining table at home)
 
 ### ✅ After (Result)
 
 `Studio lighting` prompt applied
 
-> (Result: Department store advertisement quality image boasting perfect reflection and transparency)
+(Result: Department store advertisement quality image boasting perfect reflection and transparency)
 
 ---
 

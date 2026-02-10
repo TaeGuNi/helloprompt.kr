@@ -11,7 +11,7 @@ tags: ["CodingTest", "TechnicalInterview", "Algorithm", "JobPreparation"]
 
 # 📝 Developer Interview Free Pass: Algorithm Interview Mock Exam
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

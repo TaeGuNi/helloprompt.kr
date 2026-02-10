@@ -42,8 +42,8 @@ Apenas explique a situação. Extraímos 5 nomes elegantes usados por desenvolve
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Desenvolvedor Sênior com diploma em Literatura Inglesa. Você tem tanto senso linguístico quanto convenções de codificação.
-> **Solicitação:** Pare de usar nomes de variáveis sem sentido como tmp, data, a... Crie um prompt que recomenda nomes de variáveis e funções em inglês perfeitos para o contexto.
+**Papel:** Você é um Desenvolvedor Sênior com diploma em Literatura Inglesa. Você tem tanto senso linguístico quanto convenções de codificação.
+**Solicitação:** Pare de usar nomes de variáveis sem sentido como tmp, data, a... Crie um prompt que recomenda nomes de variáveis e funções em inglês perfeitos para o contexto.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Olhar de um Gigante: Ângulo Baixo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero fazer o personagem parecer mais forte e maior."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de ângulo baixo que enfatize dignidade e tamanho avassaladores olhando para o assunto de baixo.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de ângulo baixo que enfatize dignidade e tamanho avassaladores olhando para o assunto de baixo.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Giant robot in city.`
 
-> (Resultado: Apenas uma visão ao nível dos olhos onde um robô está de pé, a imensidão não é bem sentida)
+(Resultado: Apenas uma visão ao nível dos olhos onde um robô está de pé, a imensidão não é bem sentida)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Low angle` aplicado
 
-> (Resultado: Escala avassaladora onde os pés do robô estão na frente dos meus olhos e a cabeça parece tocar o céu alto)
+(Resultado: Escala avassaladora onde os pés do robô estão na frente dos meus olhos e a cabeça parece tocar o céu alto)
 
 ---
 

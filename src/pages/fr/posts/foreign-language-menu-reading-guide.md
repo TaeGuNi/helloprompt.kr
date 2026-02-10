@@ -17,9 +17,9 @@ tags:
 
 # 📝 Guide de Lecture de Menus en Langue Étrangère pour Commander comme un Local
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ N'échouez plus à commander. Si vous prenez une photo du menu ou me dites le no
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Analyste Alimentaire' qui connaît tous les ingrédients alimentaires du monde.
-> **Demande :** Est-ce une image ou une lettre ? Une méthode de lecture facile pour les menus en langue étrangère pour ceux qui ont peur de commander.
+**Rôle :** Tu es un 'Analyste Alimentaire' qui connaît tous les ingrédients alimentaires du monde.
+**Demande :** Est-ce une image ou une lettre ? Une méthode de lecture facile pour les menus en langue étrangère pour ceux qui ont peur de commander.
 
 <br>
 

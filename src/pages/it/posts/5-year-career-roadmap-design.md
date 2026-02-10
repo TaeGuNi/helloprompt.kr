@@ -46,8 +46,8 @@ Una carriera è una maratona, non uno sprint. Se corri senza una destinazione, a
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di career coaching con 20 anni di esperienza.
-> **Richiesta:** Trasforma un futuro vago in un piano concreto. Progetta obiettivi per 1, 3 e 5 anni e le competenze necessarie per raggiungerli con l'IA.
+**Ruolo:** Sei un esperto di career coaching con 20 anni di esperienza.
+**Richiesta:** Trasforma un futuro vago in un piano concreto. Progetta obiettivi per 1, 3 e 5 anni e le competenze necessarie per raggiungerli con l'IA.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Seguro", "Tecnologia Financeira", "Economia", "Análise de Cobertura"]
 
 # 📝 Dieta de Seguros: Encontrando Coberturas Duplicadas e Cortando Prêmios pela Metade
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

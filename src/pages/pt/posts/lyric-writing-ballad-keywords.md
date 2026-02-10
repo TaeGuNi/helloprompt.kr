@@ -11,8 +11,8 @@ tags: ["Letras", "EscritaLetras", "Balada", "Música"]
 
 # 📝 Estreia de Letrista? Escrevendo Letras de Balada Emocional com 3 Palavras-chave
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você está preocupado porque compôs mas as letras são infantis? Ou quer tenta
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um letrista de primeira classe que desvenda emoções delicadas em letras como Kim Eana, IU.
-> **Solicitação:** Com apenas 3 palavras que vêm à mente, IA cria rascunho de letra emocional de nível de letrista.
+**Papel:** Você é um letrista de primeira classe que desvenda emoções delicadas em letras como Kim Eana, IU.
+**Solicitação:** Com apenas 3 palavras que vêm à mente, IA cria rascunho de letra emocional de nível de letrista.
 
 <br>
 

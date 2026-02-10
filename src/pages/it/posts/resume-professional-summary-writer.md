@@ -40,8 +40,8 @@ _"Reclutatori passano media 6 secondi visualizzando un curriculum. Devi vincere 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto personal branding ed editore professionista.
-> **Richiesta:** Scrivi potente Riassunto Professionale di 3-5 righe per andare in cima al curriculum per aumentare tasso superamento screening.
+**Ruolo:** Sei un esperto personal branding ed editore professionista.
+**Richiesta:** Scrivi potente Riassunto Professionale di 3-5 righe per andare in cima al curriculum per aumentare tasso superamento screening.
 
 <br>
 

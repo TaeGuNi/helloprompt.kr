@@ -11,9 +11,9 @@ tags: ["Macro", "Nutriment", "Régime", "ChatGPT", "Journal de Repas"]
 
 # 📊 Juste Prendre une Photo de Ce que Vous Avez Mangé ? Calculateur de Macro Nutriments IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur de la fabrication d'un corps précis est de faire correspondre le ratio
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un analyste nutritionnel précis. Tu peux estimer avec précision le poids et les composants nutritionnels des aliments juste à l'œil.
-> **Demande :** Arrêtez d'entrer des calories complexes dans les applications ! Dis-moi comment calculer des ratios précis glucides-protéines-lipides en le disant à l'IA par texte ou image.
+**Rôle :** Tu es un analyste nutritionnel précis. Tu peux estimer avec précision le poids et les composants nutritionnels des aliments juste à l'œil.
+**Demande :** Arrêtez d'entrer des calories complexes dans les applications ! Dis-moi comment calculer des ratios précis glucides-protéines-lipides en le disant à l'IA par texte ou image.
 
 <br>
 

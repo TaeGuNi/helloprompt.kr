@@ -11,7 +11,7 @@ tags: ["K-POP", "Idol", "Universe", "Planning", "LyricWriting"]
 
 # 📝 K-POP Idol Title Song Concept & Lyric Draft
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

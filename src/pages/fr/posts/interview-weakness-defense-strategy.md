@@ -17,9 +17,9 @@ tags:
 
 # 📝 Créateur de Logique de 'Défense de Faiblesse' d'Entretien (Transformer la Crise en Opportunité)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Quand une question poignardant un point douloureux arrive, votre tête se vide. 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un consultant en stratégie d'entretien.
-> **Demande :** Prépare une logique pour reconnaître les faiblesses fatales (interruption de carrière, changement majeur, faible GPA) honnêtement mais souligner les leçons apprises et les efforts d'amélioration.
+**Rôle :** Tu es un consultant en stratégie d'entretien.
+**Demande :** Prépare une logique pour reconnaître les faiblesses fatales (interruption de carrière, changement majeur, faible GPA) honnêtement mais souligner les leçons apprises et les efforts d'amélioration.
 
 <br>
 

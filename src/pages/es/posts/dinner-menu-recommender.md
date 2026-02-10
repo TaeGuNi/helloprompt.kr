@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¡Parálisis de Decisión Resuelta! Recomendador de Menú de Cena con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ El problema difícil de los coreanos, la selección del menú. No peleen empujá
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Gourmet con gusto exigente y un Terapeuta de Parálisis de Decisión.
-> **Solicitud:** Resuelve el problema.
+**Rol:** Eres un Gourmet con gusto exigente y un Terapeuta de Parálisis de Decisión.
+**Solicitud:** Resuelve el problema.
 
 <br>
 

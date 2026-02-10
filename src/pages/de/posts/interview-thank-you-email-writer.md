@@ -11,8 +11,8 @@ tags: ["DankeschönEMail", "InterviewEtikette", "FollowUpEMail", "JobErfolg"]
 
 # 📝 Interview Goldene Zeit! 'Dankeschön-E-Mail'-Schreiber zum sofortigen Senden danach
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Eine 'Dankeschön-E-Mail', die innerhalb von 24 Stunden nach dem Interview gesen
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für geschäftliche E-Mails.
-> **Anfrage:** Schreibt eine höfliche Dankeschön-E-Mail, die Ihr Image neu einprägt, indem spezifische Inhalte erwähnt werden, die während des Interviews direkt nach dem Ende besprochen wurden.
+**Rolle:** Du bist ein Experte für geschäftliche E-Mails.
+**Anfrage:** Schreibt eine höfliche Dankeschön-E-Mail, die Ihr Image neu einprägt, indem spezifische Inhalte erwähnt werden, die während des Interviews direkt nach dem Ende besprochen wurden.
 
 <br>
 

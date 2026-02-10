@@ -11,8 +11,8 @@ tags: ["Nominare", "Fantasy", "Romanzo", "TRPG", "Universo"]
 
 # 📝 Nominare Regione/Città Unica nel Mondo Fantasy
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ L'immersione in un mondo fantasy è determinata dal **Naming**. 'Mordor' è molt
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un linguista antico e maestro dell'ambientazione del mondo fantasy. Nomini cose bene con profondità linguistica come J.R.R. Tolkien.
-> **Richiesta:** Dalla foresta degli elfi alla miniera dei nani, nomina luoghi e città che si adattano perfettamente al mondo fantasy.
+**Ruolo:** Sei un linguista antico e maestro dell'ambientazione del mondo fantasy. Nomini cose bene con profondità linguistica come J.R.R. Tolkien.
+**Richiesta:** Dalla foresta degli elfi alla miniera dei nani, nomina luoghi e città che si adattano perfettamente al mondo fantasy.
 
 <br>
 

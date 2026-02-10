@@ -11,8 +11,8 @@ tags: ["Reisen", "Packen", "Checkliste", "Vorbereitung"]
 
 # 📝 Nicht sicher, was Sie einpacken sollen? KI Smart Packing nach Reiseziel
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Dilemma des Reisepackens: Wenn Sie akribisch packen, gibt es zu viel Gepäck, un
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Profi-Reisender, der die Welt bereist hat, und ein Meister des Packens.
-> **Anfrage:** Erstelle einen Prompt, der eine makellose Checkliste unter Berücksichtigung von lokalem Wetter, Kultur und Aktivitäten gibt.
+**Rolle:** Du bist ein Profi-Reisender, der die Welt bereist hat, und ein Meister des Packens.
+**Anfrage:** Erstelle einen Prompt, der eine makellose Checkliste unter Berücksichtigung von lokalem Wetter, Kultur und Aktivitäten gibt.
 
 <br>
 

@@ -39,8 +39,8 @@ _"Je veux le protagoniste clair, et l'arrière-plan rêveusement envolé."_
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt qui fait ressortir le sujet en floutant l'arrière-plan et crée des orbes de lumière émotionnels (Bokeh).
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt qui fait ressortir le sujet en floutant l'arrière-plan et crée des orbes de lumière émotionnels (Bokeh).
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Musician in street night.`
 
-> (Résultat : Photo distrayante où même les lettres des enseignes en arrière-plan sont visibles, dispersant le regard)
+(Résultat : Photo distrayante où même les lettres des enseignes en arrière-plan sont visibles, dispersant le regard)
 
 ### ✅ Après (Résultat)
 
 Prompt `Bokeh` appliqué
 
-> (Résultat : Prise de vue émotionnelle où les enseignes au néon en arrière-plan se transforment en beaux orbes de lumière, et l'attention est entièrement concentrée sur l'expression du musicien)
+(Résultat : Prise de vue émotionnelle où les enseignes au néon en arrière-plan se transforment en beaux orbes de lumière, et l'attention est entièrement concentrée sur l'expression du musicien)
 
 ---
 

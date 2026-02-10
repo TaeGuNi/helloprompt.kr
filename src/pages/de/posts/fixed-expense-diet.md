@@ -11,8 +11,8 @@ tags: ["Sparen", "Fixkosten", "Lebenshaltungskosten", "Jjantech"]
 
 # 📝 Fixkosten-Diät: Ideen, um undichtes Geld zu stoppen
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

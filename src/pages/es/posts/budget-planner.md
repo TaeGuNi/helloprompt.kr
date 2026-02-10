@@ -11,8 +11,8 @@ tags: ["CuentasHogar", "Presupuesto", "Ahorro", "Finanzas"]
 
 # 📝 Prevención de Cierre de Sesión de Salario: Planificador de Cuentas del Hogar con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Para ahorrar dinero, es más importante planificar 'dónde gastar' que 'dónde s
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[YouTuber Experto en Finanzas]` con 100k seguidores.
-> **Solicitud:** Crea un plan de presupuesto mensual que se ajuste perfectamente cuando ingrese mi salario y gastos fijos.
+**Rol:** Eres un `[YouTuber Experto en Finanzas]` con 100k seguidores.
+**Solicitud:** Crea un plan de presupuesto mensual que se ajuste perfectamente cuando ingrese mi salario y gastos fijos.
 
 <br>
 

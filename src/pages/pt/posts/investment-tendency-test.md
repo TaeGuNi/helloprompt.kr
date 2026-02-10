@@ -17,8 +17,8 @@ tags:
 
 # 📝 Meu Teste de Tendência de Investimento: Covarde ou Besta?
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

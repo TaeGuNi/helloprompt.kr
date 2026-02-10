@@ -11,9 +11,9 @@ tags: ["Storytelling", "Écriture", "Essai"]
 
 # 📝 Échappez à l'Écriture Ennuyeuse ! Techniques de Storytelling pour Faire Lire les Gens
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La phrase "Notre entreprise a été fondée en 1990" est ennuyeuse. Mais "En 199
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Auteur d'Essais Best-seller]`.
-> **Demande :** Crée un prompt qui transforme une écriture ennuyeuse de liste de faits en histoires engageantes qui touchent les émotions des lecteurs.
+**Rôle :** Tu es un `[Auteur d'Essais Best-seller]`.
+**Demande :** Crée un prompt qui transforme une écriture ennuyeuse de liste de faits en histoires engageantes qui touchent les émotions des lecteurs.
 
 <br>
 

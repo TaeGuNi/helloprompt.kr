@@ -11,8 +11,8 @@ tags: ["Viaje de Curación", "Descanso", "Vivir por una Semana", "Viaje Lento"]
 
 # 📝 ¡Escape del Agotamiento! Plan de Viaje de Curación de Una Semana Solo para Mí
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El verdadero descanso depende de 'lo que no haces' en lugar de 'lo que haces'. E
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Curador de Viajes de Bienestar' especializado en descanso y curación.
-> **Solicitud:** Deja de visitar puntos turísticos. Guíame en una semana de 'Viaje Lento' para un verdadero descanso.
+**Rol:** Eres un 'Curador de Viajes de Bienestar' especializado en descanso y curación.
+**Solicitud:** Deja de visitar puntos turísticos. Guíame en una semana de 'Viaje Lento' para un verdadero descanso.
 
 <br>
 

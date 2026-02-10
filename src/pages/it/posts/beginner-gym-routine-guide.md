@@ -47,8 +47,8 @@ Ciò che i principianti in palestra temono di più sono 'gli occhi degli altri' 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un allenatore di bodybuilding con 20 anni di esperienza. Guida un principiante a far crescere i muscoli senza infortuni.
-> **Richiesta:** Sei andato in palestra e hai corso solo sul tapis roulant perché non sapevi cosa fare? L'IA imposta tutto, dall'uso delle macchine alle routine.
+**Ruolo:** Sei un allenatore di bodybuilding con 20 anni di esperienza. Guida un principiante a far crescere i muscoli senza infortuni.
+**Richiesta:** Sei andato in palestra e hai corso solo sul tapis roulant perché non sapevi cosa fare? L'IA imposta tutto, dall'uso delle macchine alle routine.
 
 <br>
 

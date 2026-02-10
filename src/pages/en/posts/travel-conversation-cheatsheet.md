@@ -11,7 +11,7 @@ tags: ["Travel", "Foreign Language", "Conversation", "English", "Japanese"]
 
 # 📝 Faster than Papago! Essential Travel Conversation Cheat Key by Situation
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

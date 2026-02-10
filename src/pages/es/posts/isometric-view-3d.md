@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "3D"]
 
 # 📝 Lindo Mundo 3D: Vista Isométrica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Quiero crear una linda habitación mirando desde arriba como en los juegos Sim
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea una vista tridimensional y linda como juegos 3D o iconos, ángulo isométrico.
+**Rol:** Eres un experto.
+**Solicitud:** Crea una vista tridimensional y linda como juegos 3D o iconos, ángulo isométrico.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Gamer room 3d.`
 
-> (Resultado: Ángulo de foto de habitación general, el interior podría no ser visible cubierto por paredes)
+(Resultado: Ángulo de foto de habitación general, el interior podría no ser visible cubierto por paredes)
 
 ### ✅ Después (Resultado)
 
 Prompt `Isometric view` aplicado
 
-> (Resultado: Linda miniatura donde una pared está abierta y todos los muebles de la habitación son visibles densamente)
+(Resultado: Linda miniatura donde una pared está abierta y todos los muebles de la habitación son visibles densamente)
 
 ---
 

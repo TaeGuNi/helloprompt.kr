@@ -11,7 +11,7 @@ tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 
 # 📝 Escape Meeting Hell: Recording to Minutes & Email in 3 Mins
 
-> **🎯 Recommended for:** Juniors whose wrists hurt from typing, Managers asking "What did we decide?"
+**🎯 Recommended for:** Juniors whose wrists hurt from typing, Managers asking "What did we decide?"
 
 - **⏱️ Time Required:** 3 mins (excluding recording time)
 - **🤖 Recommended Model:** OpenAI Whisper (Transcription) + ChatGPT-4o (Summarization)
@@ -20,7 +20,7 @@ tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 | :--------: | :-----------: | :--------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-> _"I typed everything during the meeting, but missed my chance to speak... and now I can't remember anything while organizing notes... How long do I have to do this?"_
+_"I typed everything during the meeting, but missed my chance to speak... and now I can't remember anything while organizing notes... How long do I have to do this?"_
 
 Stop writing. Just **'Participate'** in the meeting. AI does the recording better. Here is a process to finish **Recording → STT → Summary → Email Sending** using only free tools.
 
@@ -83,21 +83,21 @@ When you need to report to the boss or email the team.
 
 ### ❌ Before (Human Written)
 
-> Summary of today. Marketing team will make 3 banner drafts, Dev team API integration by this week... Oh wait, what was Design team doing?
+Summary of today. Marketing team will make 3 banner drafts, Dev team API integration by this week... Oh wait, what was Design team doing?
 
 ### ✅ After (AI Automation)
 
-> **[Action Items]**
->
-> | Assignee       | Task                        | Deadline   |
-> | :------------- | :-------------------------- | :--------- |
-> | **Mark (Mkt)** | Create 3 Main Banner Drafts | 2026-02-10 |
-> | **Lee (Dev)**  | Payment Module API Test     | 2026-02-12 |
-> | **Park (Des)** | Review UX Guideline Draft   | 2026-02-11 |
->
-> **[Email Draft]**
-> Subject: [Share] Results & Action Items for 2/8 Weekly Meeting
-> Hi Team, Sharing the results of today's meeting... (cont.)
+**[Action Items]**
+
+| Assignee       | Task                        | Deadline   |
+| :------------- | :-------------------------- | :--------- |
+| **Mark (Mkt)** | Create 3 Main Banner Drafts | 2026-02-10 |
+| **Lee (Dev)**  | Payment Module API Test     | 2026-02-12 |
+| **Park (Des)** | Review UX Guideline Draft   | 2026-02-11 |
+
+**[Email Draft]**
+Subject: [Share] Results & Action Items for 2/8 Weekly Meeting
+Hi Team, Sharing the results of today's meeting... (cont.)
 
 ---
 

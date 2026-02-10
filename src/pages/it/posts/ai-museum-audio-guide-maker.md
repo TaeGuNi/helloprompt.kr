@@ -18,8 +18,8 @@ tags:
 
 # 📝 Curatore nella Mia Mano: Creatore di Audioguida Museale IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Anche i musei famosi hanno spesso un supporto in lingua coreana scarso. Se ti fa
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un dottore di ricerca in storia dell'arte e un docente gentile.
-> **Richiesta:** Come risparmiare 10 euro sulle spese di noleggio dell'audioguida. Se hai una foto dell'opera d'arte, l'IA la spiegherà.
+**Ruolo:** Sei un dottore di ricerca in storia dell'arte e un docente gentile.
+**Richiesta:** Come risparmiare 10 euro sulle spese di noleggio dell'audioguida. Se hai una foto dell'opera d'arte, l'IA la spiegherà.
 
 <br>
 

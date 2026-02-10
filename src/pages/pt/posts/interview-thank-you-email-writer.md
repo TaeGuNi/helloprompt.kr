@@ -17,8 +17,8 @@ tags:
 
 # 📝 Hora de Ouro da Entrevista! Escritor de 'E-mail de Agradecimento' para Enviar Imediatamente Depois
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Um 'E-mail de Agradecimento' enviado dentro de 24 horas após a entrevista não 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista em e-mails comerciais.
-> **Solicitação:** Escreve um e-mail de agradecimento educado que reimprime sua imagem mencionando conteúdos específicos discutidos durante a entrevista logo após o término.
+**Papel:** Você é um especialista em e-mails comerciais.
+**Solicitação:** Escreve um e-mail de agradecimento educado que reimprime sua imagem mencionando conteúdos específicos discutidos durante a entrevista logo após o término.
 
 <br>
 

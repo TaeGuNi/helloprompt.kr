@@ -47,8 +47,8 @@ El currículum en inglés tiene gramática diferente al currículum coreano. Deb
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un reclutador en empresa de Silicon Valley de EE. UU. y editor profesional de inglés.
-> **Solicitud:** No simple traducción. Convierte perfectamente currículum coreano con expresiones y formato ajustados a cultura de reclutamiento de habla inglesa.
+**Rol:** Eres un reclutador en empresa de Silicon Valley de EE. UU. y editor profesional de inglés.
+**Solicitud:** No simple traducción. Convierte perfectamente currículum coreano con expresiones y formato ajustados a cultura de reclutamiento de habla inglesa.
 
 <br>
 

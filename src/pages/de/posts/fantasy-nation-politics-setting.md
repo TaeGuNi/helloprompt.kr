@@ -11,8 +11,8 @@ tags: ["Universum", "Politik", "Nation", "Fantasie", "Einstellung"]
 
 # 📝 Nations- und Politisches System-Einstellung: Realistische Fantasiewelt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Selbst in Fantasy-Romanen bricht Immersion, wenn politische und wirtschaftliche 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Politikwissenschaftsprofessor und Designer von Zivilisationssimulationsspielen.
-> **Anfrage:** Einfaches Königreich ist langweilig. Entwerfen Sie eine Nation mit 3D-politischem System wie Theokratie, Kaufmannsrepublik.
+**Rolle:** Du bist ein Politikwissenschaftsprofessor und Designer von Zivilisationssimulationsspielen.
+**Anfrage:** Einfaches Königreich ist langweilig. Entwerfen Sie eine Nation mit 3D-politischem System wie Theokratie, Kaufmannsrepublik.
 
 <br>
 

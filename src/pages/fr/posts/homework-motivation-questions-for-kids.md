@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 'Questions Magiques' Qui Font Étudier les Enfants Sans Dire 'Étudie'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les instructions appellent la résistance, mais les questions appellent la réfl
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un conseiller en psychologie de l'apprentissage.
-> **Demande :** Fournis des techniques de conversation pour faire asseoir un enfant à son bureau de lui-même sans le forcer.
+**Rôle :** Tu es un conseiller en psychologie de l'apprentissage.
+**Demande :** Fournis des techniques de conversation pour faire asseoir un enfant à son bureau de lui-même sans le forcer.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Benennung", "Fantasie", "Roman", "TRPG", "Universum"]
 
 # 📝 Benennung einzigartiger Region/Stadt in der Fantasiewelt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Eintauchen in eine Fantasiewelt wird durch **Benennung (Naming)** bestimmt. 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein alter Sprachwissenschaftler und Meister der Fantasiewelt-Einstellung. Du benennst Dinge gut mit sprachlicher Tiefe wie J.R.R. Tolkien.
-> **Anfrage:** Vom Elfenwald bis zur Zwergenmine, benennen Sie Orte und Städte, die perfekt in die Fantasiewelt passen.
+**Rolle:** Du bist ein alter Sprachwissenschaftler und Meister der Fantasiewelt-Einstellung. Du benennst Dinge gut mit sprachlicher Tiefe wie J.R.R. Tolkien.
+**Anfrage:** Vom Elfenwald bis zur Zwergenmine, benennen Sie Orte und Städte, die perfekt in die Fantasiewelt passen.
 
 <br>
 

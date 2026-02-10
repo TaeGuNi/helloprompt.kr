@@ -46,8 +46,8 @@ Es un momento feliz pero que da dolor de cabeza. No te dejes llevar por las emoc
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un estratega de negociación y gestor de carrera.
-> **Solicitud:** Compara condiciones al recibir aceptaciones de múltiples empresas y planifica una estrategia de 'tira y afloja' (Contraoferta) para obtener mejores términos.
+**Rol:** Eres un estratega de negociación y gestor de carrera.
+**Solicitud:** Compara condiciones al recibir aceptaciones de múltiples empresas y planifica una estrategia de 'tira y afloja' (Contraoferta) para obtener mejores términos.
 
 <br>
 

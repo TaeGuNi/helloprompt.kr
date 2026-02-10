@@ -11,8 +11,8 @@ tags: ["PlanoEstudo", "CurvaEsquecimento", "Revisão", "Agendamento"]
 
 # 📝 Condução Reversa da Curva do Esquecimento: Gerador de Cronograma de Revisão
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O cérebro humano é projetado para esquecer. A única maneira de parar isso é 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Gerente de Aprendizagem e Especialista em Ciência Cognitiva]`.
-> **Solicitação:** Crie um prompt que diga o momento ideal de revisão para que eu nunca esqueça o que estudei, com base na teoria da Curva do Esquecimento de Ebbinghaus.
+**Papel:** Você é um `[Gerente de Aprendizagem e Especialista em Ciência Cognitiva]`.
+**Solicitação:** Crie um prompt que diga o momento ideal de revisão para que eu nunca esqueça o que estudei, com base na teoria da Curva do Esquecimento de Ebbinghaus.
 
 <br>
 

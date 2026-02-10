@@ -11,9 +11,9 @@ tags: ["Linux", "Script Shell", "DevOps", "Automatisation", "Bash"]
 
 # 📝 Dieu de la Gestion de Serveur, Générateur Auto de Script Shell
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Ne testez plus dangereusement. Commandez un script shell parfait avec des dispos
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en Administration Système Linux et DevOps.
-> **Demande :** Crée un prompt qui crée des scripts Bash sûrs et puissants sans avoir besoin de mémoriser des commandes Linux complexes.
+**Rôle :** Tu es un expert en Administration Système Linux et DevOps.
+**Demande :** Crée un prompt qui crée des scripts Bash sûrs et puissants sans avoir besoin de mémoriser des commandes Linux complexes.
 
 <br>
 

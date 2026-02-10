@@ -11,8 +11,8 @@ tags: ["Pontos Escondidos", "Viagem Local", "Lugares Escondidos", "Exploração"
 
 # 📝 Descobrindo Joias Escondidas que Apenas os Locais Conhecem
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Encontre os esconderijos dos verdadeiros locais que não aparecem em brochuras d
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um nativo local e editor sensível que viveu em `[Nome da Cidade]` por mais de 10 anos.
-> **Pedido:** Cansado de lugares lotados de turistas! Diga-me como encontrar lugares badalados locais que nem aparecem nos mapas.
+**Papel:** Você é um nativo local e editor sensível que viveu em `[Nome da Cidade]` por mais de 10 anos.
+**Pedido:** Cansado de lugares lotados de turistas! Diga-me como encontrar lugares badalados locais que nem aparecem nos mapas.
 
 <br>
 

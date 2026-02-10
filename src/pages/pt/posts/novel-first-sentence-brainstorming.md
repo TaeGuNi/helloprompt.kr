@@ -11,8 +11,8 @@ tags: ["Romance", "PrimeiraFrase", "Escrita", "Intro", "Brainstorming"]
 
 # 📝 Brainstorming de 10 Versões de Primeira Frase de Romance
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Como "O túnel para o país da neve era longo." (Yasunari Kawabata, País da Nev
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um autor best-seller que imerge leitores nos primeiros 3 segundos.
-> **Solicitação:** Você deve cativar leitores na primeira frase. Obtenha recomendações para 10 primeiras frases com forte Gancho.
+**Papel:** Você é um autor best-seller que imerge leitores nos primeiros 3 segundos.
+**Solicitação:** Você deve cativar leitores na primeira frase. Obtenha recomendações para 10 primeiras frases com forte Gancho.
 
 <br>
 

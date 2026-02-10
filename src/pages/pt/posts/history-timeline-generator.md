@@ -11,8 +11,8 @@ tags: ["ResumoHistória", "Cronologia", "LinhaDoTempo", "Resumo"]
 
 # 📝 Fluxo num Relance: Gerador de Linha do Tempo Histórica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ A história não é 'ponto', mas 'linha'. Se você memorizar eventos individuais
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Historiador e Especialista em Visualização de Dados]`.
-> **Solicitação:** Crie um prompt que organize a ordem e a relação causal de eventos complexos em uma Linha do Tempo organizada.
+**Papel:** Você é um `[Historiador e Especialista em Visualização de Dados]`.
+**Solicitação:** Crie um prompt que organize a ordem e a relação causal de eventos complexos em uma Linha do Tempo organizada.
 
 <br>
 

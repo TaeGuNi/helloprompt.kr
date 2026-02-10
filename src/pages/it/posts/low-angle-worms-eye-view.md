@@ -18,8 +18,8 @@ tags:
 
 # 📝 Sguardo di un Gigante: Angolo Basso
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -47,8 +47,8 @@ _"Voglio far sembrare il personaggio più forte e più grande."_
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt angolo basso che enfatizza dignità travolgente e dimensione guardando il soggetto dal basso.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt angolo basso che enfatizza dignità travolgente e dimensione guardando il soggetto dal basso.
 
 <br>
 
@@ -80,13 +80,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Giant robot in city.`
 
-> (Risultato: Solo una vista a livello degli occhi dove un robot è in piedi, l'enormità non si sente bene)
+(Risultato: Solo una vista a livello degli occhi dove un robot è in piedi, l'enormità non si sente bene)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Low angle` applicato
 
-> (Risultato: Scala travolgente dove i piedi del robot sono davanti ai miei occhi e la testa sembra toccare il cielo alto)
+(Risultato: Scala travolgente dove i piedi del robot sono davanti ai miei occhi e la testa sembra toccare il cielo alto)
 
 ---
 

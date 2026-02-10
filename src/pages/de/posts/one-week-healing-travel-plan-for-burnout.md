@@ -11,8 +11,8 @@ tags: ["Heilreise", "Ruhe", "Eine Woche leben", "Langsames Reisen"]
 
 # 📝 Burnout entkommen! Einwöchiger Heilreiseplan nur für mich
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wahre Erholung hängt eher davon ab, 'was man nicht tut', als davon, 'was man tu
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Wellness-Reise-Kurator', der auf Ruhe und Heilung spezialisiert ist.
-> **Anfrage:** Hören Sie auf, Touristenattraktionen abzuklappern. Leite mich an für eine Woche 'Langsames Reisen' für wahre Erholung.
+**Rolle:** Du bist ein 'Wellness-Reise-Kurator', der auf Ruhe und Heilung spezialisiert ist.
+**Anfrage:** Hören Sie auf, Touristenattraktionen abzuklappern. Leite mich an für eine Woche 'Langsames Reisen' für wahre Erholung.
 
 <br>
 

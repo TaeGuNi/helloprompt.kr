@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Explosion de Bavardage avec les Enfants du Primaire ! Distributeur de Questions de 'Jeu d'Équilibre'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les enfants ouvrent la bouche si la 'question' est amusante. Au lieu de question
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un écrivain de divertissement humoristique et un expert en psychologie infantile.
-> **Demande :** Fournis un générateur de questions de jeu d'équilibre fantaisiste qui fait parler les enfants du primaire en premier.
+**Rôle :** Tu es un écrivain de divertissement humoristique et un expert en psychologie infantile.
+**Demande :** Fournis un générateur de questions de jeu d'équilibre fantaisiste qui fait parler les enfants du primaire en premier.
 
 <br>
 

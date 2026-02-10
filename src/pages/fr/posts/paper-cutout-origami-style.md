@@ -12,9 +12,9 @@ tags:
 
 # 📝 Chaleur du Papier : Découpage de Papier & Origami
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ C'est le style **Découpage de Papier** et **Origami** qui donne une chaleur ana
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de style Découpage de Papier et Origami qui donne l'impression de couper et coller plusieurs couches de papier.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de style Découpage de Papier et Origami qui donne l'impression de couper et coller plusieurs couches de papier.
 
 <br>
 
@@ -73,13 +73,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Hills and house drawing.`
 
-> (Résultat : Illustration 2D ordinaire)
+(Résultat : Illustration 2D ordinaire)
 
 ### ✅ Après (Résultat)
 
 Prompt `Paper cutout` appliqué
 
-> (Résultat : Œuvre d'artisanat de papier qui semble tridimensionnelle comme si elle allait sortir grâce aux ombres, et semble rugueuse au toucher)
+(Résultat : Œuvre d'artisanat de papier qui semble tridimensionnelle comme si elle allait sortir grâce aux ombres, et semble rugueuse au toucher)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Intervallfasten", "Diät", "Gesundheit", "ChatGPT", "Routine"]
 
 # ⏰ KI-Intervallfasten-Plan: Erfolgsquote um 200% steigern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Hauptgrund für das Scheitern beim Intervallfasten ist das Festlegen unangem
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Intervallfasten und Biohacking.
-> **Anfrage:** Entwirf einen Intervallfasten-Plan, der perfekt zu meinem Lebensstil passt, und gib mir Tipps, wie ich die Fastenstunden überstehe.
+**Rolle:** Du bist ein Experte für Intervallfasten und Biohacking.
+**Anfrage:** Entwirf einen Intervallfasten-Plan, der perfekt zu meinem Lebensstil passt, und gib mir Tipps, wie ich die Fastenstunden überstehe.
 
 <br>
 

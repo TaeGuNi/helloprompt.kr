@@ -12,8 +12,8 @@ tags:
 
 # 📝 Senso Spaziale Travolgente: Grandangolo & Fisheye
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ _"Voglio catturare questo enorme paesaggio in uno scatto ma continua a essere ta
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea prompt per lenti Grandangolari e Fisheye che catturano spazi ristretti ampiamente e paesaggi magnifici a colpo d'occhio.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea prompt per lenti Grandangolari e Fisheye che catturano spazi ristretti ampiamente e paesaggi magnifici a colpo d'occhio.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Spaceship cockpit.`
 
-> (Risultato: Angolo che sembra soffocante con solo una parte della cabina di pilotaggio tagliata)
+(Risultato: Angolo che sembra soffocante con solo una parte della cabina di pilotaggio tagliata)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Wide angle` applicato
 
-> (Risultato: Immagine magnifica che si estende frescamente all'intera cabina di pilotaggio e alla terra fuori dalla finestra)
+(Risultato: Immagine magnifica che si estende frescamente all'intera cabina di pilotaggio e alla terra fuori dalla finestra)
 
 ---
 

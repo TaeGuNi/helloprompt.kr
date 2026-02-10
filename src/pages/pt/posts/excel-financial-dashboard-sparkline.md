@@ -11,8 +11,8 @@ tags: ["Excel", "Painel", "Visualização", "Relatório"]
 
 # 📝 Painel Financeiro Excel: Relate com Imagens, Não Números
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Relatar dados financeiros como tabela do Excel é amador. Coloque pequenos gráf
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Visualização de Dados]`.
-> **Solicitação:** Pare tabelas densas do Excel. Painel de visualização que o chefe se apaixona à primeira vista, finalizado com Minigráficos e Formatação Condicional.
+**Papel:** Você é um `[Especialista em Visualização de Dados]`.
+**Solicitação:** Pare tabelas densas do Excel. Painel de visualização que o chefe se apaixona à primeira vista, finalizado com Minigráficos e Formatação Condicional.
 
 <br>
 

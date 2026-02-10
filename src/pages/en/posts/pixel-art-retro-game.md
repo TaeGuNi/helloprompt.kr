@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 
 # 📝 Dot Artisan: Pixel Art
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Knight vs Dragon game.`
 
-> (Result: Modern 3D mobile game graphics)
+(Result: Modern 3D mobile game graphics)
 
 ### ✅ After (Result)
 
 `Pixel art` prompt applied
 
-> (Result: Nostalgic dot graphics seen in arcades, a feast of distinct square dots)
+(Result: Nostalgic dot graphics seen in arcades, a feast of distinct square dots)
 
 ---
 

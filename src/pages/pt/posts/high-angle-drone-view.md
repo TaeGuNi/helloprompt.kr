@@ -12,8 +12,8 @@ tags:
 
 # 📝 Olhar de Deus: Ângulo Alto & Visão de Drone
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero mostrar a estrutura desta cidade complexa de relance."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de Ângulo Alto/Tiro de Drone mostrando terreno geral ou layout de um ponto de vista olhando para baixo do céu.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de Ângulo Alto/Tiro de Drone mostrando terreno geral ou layout de um ponto de vista olhando para baixo do céu.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Future eco city.`
 
-> (Resultado: Apenas partes de edifícios ou cenas de rua são visíveis, a estrutura geral da cidade não pode ser compreendida)
+(Resultado: Apenas partes de edifícios ou cenas de rua são visíveis, a estrutura geral da cidade não pode ser compreendida)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Drone view` aplicado
 
-> (Resultado: Visão olho de pássaro perfeita onde a rede rodoviária da cidade, layout do espaço verde e horizonte de edifícios aparecem à vista de relance)
+(Resultado: Visão olho de pássaro perfeita onde a rede rodoviária da cidade, layout do espaço verde e horizonte de edifícios aparecem à vista de relance)
 
 ---
 

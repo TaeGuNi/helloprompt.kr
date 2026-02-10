@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "3D"]
 
 # 📝 Mundo 3D Fofo: Vista Isométrica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Quero criar um quarto fofo olhando de cima como nos jogos SimCity ou Tycoon."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie uma vista tridimensional e fofa como jogos 3D ou ícones, ângulo Isométrico.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie uma vista tridimensional e fofa como jogos 3D ou ícones, ângulo Isométrico.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Gamer room 3d.`
 
-> (Resultado: Ângulo geral de foto de quarto, interior pode não ser visível coberto por paredes)
+(Resultado: Ângulo geral de foto de quarto, interior pode não ser visível coberto por paredes)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Isometric view` aplicado
 
-> (Resultado: Miniatura fofa onde uma parede está aberta e todos os móveis no quarto são visíveis densamente)
+(Resultado: Miniatura fofa onde uma parede está aberta e todos os móveis no quarto são visíveis densamente)
 
 ---
 

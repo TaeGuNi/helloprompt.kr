@@ -12,8 +12,8 @@ tags:
 
 # 📝 Creare Indizi per 'Caccia al Tesoro al Chiuso' di cui i Bambini Vanno Pazzi in 1 Minuto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Un gioco di caccia al tesoro che dissipa l'energia dei bambini e sviluppa le cap
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un istruttore di ricreazione creativo ed esperto di educazione infantile.
-> **Richiesta:** Crea indizi per una caccia al tesoro personalizzata a casa preparata in 5 minuti con l'IA.
+**Ruolo:** Sei un istruttore di ricreazione creativo ed esperto di educazione infantile.
+**Richiesta:** Crea indizi per una caccia al tesoro personalizzata a casa preparata in 5 minuti con l'IA.
 
 <br>
 

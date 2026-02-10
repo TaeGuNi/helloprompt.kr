@@ -12,8 +12,8 @@ tags:
 
 # 📝 Calidez del Papel: Recorte de Papel & Origami
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ Es el estilo **Recorte de Papel** y **Origami** que da calidez analógica aunque
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt de estilo Recorte de Papel y Origami que se sienta como cortar y pegar múltiples capas de papel.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt de estilo Recorte de Papel y Origami que se sienta como cortar y pegar múltiples capas de papel.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Hills and house drawing.`
 
-> (Resultado: Ilustración 2D ordinaria)
+(Resultado: Ilustración 2D ordinaria)
 
 ### ✅ Después (Resultado)
 
 Prompt `Paper cutout` aplicado
 
-> (Resultado: Trabajo de artesanía de papel que parece tridimensional como si fuera a salir debido a las sombras, y parece áspero si se toca)
+(Resultado: Trabajo de artesanía de papel que parece tridimensional como si fuera a salir debido a las sombras, y parece áspero si se toca)
 
 ---
 

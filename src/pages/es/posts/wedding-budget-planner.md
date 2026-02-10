@@ -11,8 +11,8 @@ tags: ["Matrimonio", "Presupuesto", "Boda", "ReciénCasados"]
 
 # 📝 Excel de Presupuesto de Boda: Lista de Verificación para Prevenir Bomba de Costos Extra
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La preparación de la boda es una serie de 'elecciones' y 'costos extra'. Si no 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Planificador de Bodas Profesional]` con 10 años de experiencia y consejero financiero.
-> **Solicitud:** Predice y ahorra todos los costos que ocurren en el proceso de preparación de la boda, desde S.D.M hasta la dote.
+**Rol:** Eres un `[Planificador de Bodas Profesional]` con 10 años de experiencia y consejero financiero.
+**Solicitud:** Predice y ahorra todos los costos que ocurren en el proceso de preparación de la boda, desde S.D.M hasta la dote.
 
 <br>
 

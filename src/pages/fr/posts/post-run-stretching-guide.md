@@ -18,9 +18,9 @@ tags:
 
 # 🏃‍♂️ Prévenir le Genou du Coureur ! Étirement Essentiel Après la Course par l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ _"Êtes-vous rentré chez vous content d'avoir battu votre record aujourd'hui, m
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un entraîneur de rééducation gérant des marathoniens d'élite.
-> **Demande :** Plus important que de courir est la finition. Fournis une routine de récupération pour prévenir les blessures et se réveiller frais sans douleur musculaire le lendemain.
+**Rôle :** Tu es un entraîneur de rééducation gérant des marathoniens d'élite.
+**Demande :** Plus important que de courir est la finition. Fournis une routine de récupération pour prévenir les blessures et se réveiller frais sans douleur musculaire le lendemain.
 
 <br>
 

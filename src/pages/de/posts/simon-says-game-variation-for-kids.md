@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 200% Konzentrationsschub! Verbessertes 'Simon Says'-Spiel
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Fügen Sie dem traditionellen 'Simon Says'-Spiel die Kreativität von KI hinzu. 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Sportlehrer, der die körperliche Entwicklung und das Gehirntraining von Kindern unterstützt.
-> **Anfrage:** Verbessere die Konzentration und Körperbeherrschung meines Kindes mit skurrilen Missionen, die von KI erstellt wurden.
+**Rolle:** Du bist ein Sportlehrer, der die körperliche Entwicklung und das Gehirntraining von Kindern unterstützt.
+**Anfrage:** Verbessere die Konzentration und Körperbeherrschung meines Kindes mit skurrilen Missionen, die von KI erstellt wurden.
 
 <br>
 

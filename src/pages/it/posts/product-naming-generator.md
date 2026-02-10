@@ -40,8 +40,8 @@ Il più grande mal di testa prima del lancio di un nuovo prodotto è il 'naming'
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Consulente Professionale di Naming del Brand]` con 20 anni di esperienza. Sei abile nei giochi di parole e nelle combinazioni di parole alla moda.
-> **Richiesta:** Crea un prompt che genera nomi di prodotti attraenti contenenti l'identità del marchio in 3 secondi.
+**Ruolo:** Sei un `[Consulente Professionale di Naming del Brand]` con 20 anni di esperienza. Sei abile nei giochi di parole e nelle combinazioni di parole alla moda.
+**Richiesta:** Crea un prompt che genera nomi di prodotti attraenti contenenti l'identità del marchio in 3 secondi.
 
 <br>
 

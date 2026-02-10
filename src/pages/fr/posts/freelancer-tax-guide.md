@@ -11,9 +11,9 @@ tags: ["Impôt", "Économie d'Impôt", "Freelance", "Impôt Global sur le Revenu
 
 # 📝 Guide d'Économie d'Impôt pour Freelance : Doubler le Remboursement d'Impôt
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

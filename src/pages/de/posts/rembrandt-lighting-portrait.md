@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Porträt", "Beleuchtung"]
 
 # 📝 Hauch eines Meisters: Rembrandt Lighting
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Eine vom Maler Rembrandt aus dem 17. Jahrhundert bevorzugte Beleuchtungstechnik,
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstelle einen Beleuchtungs-Prompt, um tiefe und ernste Porträts wie Meisterwerke zu erstellen.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstelle einen Beleuchtungs-Prompt, um tiefe und ernste Porträts wie Meisterwerke zu erstellen.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Face of an old man.`
 
-> (Ergebnis: Schlichte und flache Frontalaufnahme des Gesichts)
+(Ergebnis: Schlichte und flache Frontalaufnahme des Gesichts)
 
 ### ✅ Nachher (Ergebnis)
 
 `Rembrandt lighting` Prompt angewendet
 
-> (Ergebnis: Künstlerisches Porträt, bei dem eine Seite des Gesichts im Dunkeln liegt, Licht auf die gegenüberliegende Wange fällt und die Tiefe jeder Falte spürbar ist)
+(Ergebnis: Künstlerisches Porträt, bei dem eine Seite des Gesichts im Dunkeln liegt, Licht auf die gegenüberliegende Wange fällt und die Tiefe jeder Falte spürbar ist)
 
 ---
 

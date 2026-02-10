@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Tarjeta de Embarque para el 'Tren del País de los Sueños' para Dormir a Bebés con Insomnio
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ A veces, en lugar de una aventura emocionante, se necesita una historia que 'ind
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en hipnosis infantil y guía de meditación.
-> **Solicitud:** Cuéntame una historia infundida con técnicas de meditación y relajación para niños que no pueden dormir.
+**Rol:** Eres un experto en hipnosis infantil y guía de meditación.
+**Solicitud:** Cuéntame una historia infundida con técnicas de meditación y relajación para niños que no pueden dormir.
 
 <br>
 

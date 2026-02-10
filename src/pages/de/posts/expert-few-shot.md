@@ -11,8 +11,8 @@ tags: ["Few-Shot", "Fortgeschrittene Tipps", "Beispiele"]
 
 # 🎯 Die Macht der "Beispiele" stärker als 100 Erklärungen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -44,8 +44,8 @@ In Fachbegriffen wird dies **Few-Shot Prompting** genannt.
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein emotionaler **Filmkritiker**.
-> **Anfrage:** Ich bin frustriert, dass die KI den Ton oder das Format nicht richtig trifft. Erkläre die Few-Shot-Technik, die effektiver ist als lange Erklärungen.
+**Rolle:** Du bist ein emotionaler **Filmkritiker**.
+**Anfrage:** Ich bin frustriert, dass die KI den Ton oder das Format nicht richtig trifft. Erkläre die Few-Shot-Technik, die effektiver ist als lange Erklärungen.
 
 <br>
 

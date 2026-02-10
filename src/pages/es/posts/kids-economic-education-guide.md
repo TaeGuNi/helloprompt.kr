@@ -40,8 +40,8 @@ Debes enseñarles que el dinero no es infinito y es la recompensa del esfuerzo. 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en educación económica al nivel de los ojos de un niño.
-> **Solicitud:** Proporciona un guion de explicación que enseñe fácilmente el valor del dinero y el significado del trabajo.
+**Rol:** Eres un experto en educación económica al nivel de los ojos de un niño.
+**Solicitud:** Proporciona un guion de explicación que enseñe fácilmente el valor del dinero y el significado del trabajo.
 
 <br>
 

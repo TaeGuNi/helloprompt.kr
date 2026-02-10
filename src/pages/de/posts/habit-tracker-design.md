@@ -11,8 +11,8 @@ tags: ["Gewohnheit", "Routine", "GodLife", "Selbstentwicklung"]
 
 # 📝 Kein Aufgeben mehr! KI-Gewohnheitsbildungs-Tracker-Design
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Gewohnheit ist nicht Wille, sondern Umgebungseinstellung. Wenden Sie das Prinzip
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Verhaltenspsychologe und Experte für Gewohnheitsbildung. Berate basierend auf James Clears <Atomic Habits> Theorie.
-> **Anfrage:** Erstelle einen Prompt, der ein Gewohnheitsbildungssystem basierend auf Hirnforschung erstellt, ohne sich auf Willenskraft zu verlassen.
+**Rolle:** Du bist ein Verhaltenspsychologe und Experte für Gewohnheitsbildung. Berate basierend auf James Clears <Atomic Habits> Theorie.
+**Anfrage:** Erstelle einen Prompt, der ein Gewohnheitsbildungssystem basierend auf Hirnforschung erstellt, ohne sich auf Willenskraft zu verlassen.
 
 <br>
 

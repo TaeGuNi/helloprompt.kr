@@ -40,8 +40,8 @@ Il cervello umano è progettato per dimenticare. L'unico modo per fermare questo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Manager dell'Apprendimento ed Esperto di Scienza Cognitiva]`.
-> **Richiesta:** Crea un prompt che dica il momento ottimale di revisione per non dimenticare mai ciò che ho studiato, basato sulla teoria della Curva dell'Oblio di Ebbinghaus.
+**Ruolo:** Sei un `[Manager dell'Apprendimento ed Esperto di Scienza Cognitiva]`.
+**Richiesta:** Crea un prompt che dica il momento ottimale di revisione per non dimenticare mai ciò che ho studiato, basato sulla teoria della Curva dell'Oblio di Ebbinghaus.
 
 <br>
 

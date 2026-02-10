@@ -11,7 +11,7 @@ tags: ["SQL", "DB Tuning", "Query Optimization", "Database"]
 
 # 📝 Slow SQL Query, Secret to Tuning in 3 Seconds
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

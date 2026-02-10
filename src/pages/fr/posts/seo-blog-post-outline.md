@@ -11,9 +11,9 @@ tags: ["Blog", "SEO", "Exposition Google"]
 
 # 📝 Plan de Blog SEO pour un Classement de Recherche Optimal
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur du SEO (Optimisation pour les moteurs de recherche) est de trouver l'in
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Marketing de Contenu SEO]`.
-> **Demande :** Crée un prompt de génération de plan optimisé pour le SEO qui cadre ton article de blog dans une structure que Google adore.
+**Rôle :** Tu es un `[Expert en Marketing de Contenu SEO]`.
+**Demande :** Crée un prompt de génération de plan optimisé pour le SEO qui cadre ton article de blog dans une structure que Google adore.
 
 <br>
 

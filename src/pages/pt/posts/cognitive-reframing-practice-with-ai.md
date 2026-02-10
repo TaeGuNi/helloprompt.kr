@@ -11,8 +11,8 @@ tags: ["Cuidado Mental", "TCC", "Reenquadramento", "Autoafirmação", "ChatGPT"]
 
 # 🔄 Pare Pensamentos Negativos! Prática de Reenquadramento Cognitivo com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Esse padrão de pensamento é chamado de 'Distorção Cognitiva'. Se se tornar u
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em Terapia Cognitivo-Comportamental (TCC). Você se destaca em 'Reenquadramento', que muda os pensamentos negativos dos clientes em perspectivas saudáveis.
-> **Pedido:** Quando eu penso 'Estou arruinado', a IA interpreta a situação de uma perspectiva diferente e a transforma em energia positiva.
+**Papel:** Você é um especialista em Terapia Cognitivo-Comportamental (TCC). Você se destaca em 'Reenquadramento', que muda os pensamentos negativos dos clientes em perspectivas saudáveis.
+**Pedido:** Quando eu penso 'Estou arruinado', a IA interpreta a situação de uma perspectiva diferente e a transforma em energia positiva.
 
 <br>
 

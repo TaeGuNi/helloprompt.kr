@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Paysage"
 
 # 📝 Regard de Dieu : Angle Haut & Vue de Drone
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux montrer la structure de cette ville complexe en un coup d'œil."_
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'Angle Haut/Prise de Vue par Drone montrant le terrain global ou la disposition d'un point de vue regardant vers le bas depuis le ciel.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'Angle Haut/Prise de Vue par Drone montrant le terrain global ou la disposition d'un point de vue regardant vers le bas depuis le ciel.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Future eco city.`
 
-> (Résultat : Seules des parties de bâtiments ou des scènes de rue sont visibles, la structure globale de la ville ne peut pas être saisie)
+(Résultat : Seules des parties de bâtiments ou des scènes de rue sont visibles, la structure globale de la ville ne peut pas être saisie)
 
 ### ✅ Après (Résultat)
 
 Prompt `Drone view` appliqué
 
-> (Résultat : Vue à vol d'oiseau parfaite où le réseau routier de la ville, la disposition des espaces verts et la ligne d'horizon des bâtiments apparaissent en un coup d'œil)
+(Résultat : Vue à vol d'oiseau parfaite où le réseau routier de la ville, la disposition des espaces verts et la ligne d'horizon des bâtiments apparaissent en un coup d'œil)
 
 ---
 

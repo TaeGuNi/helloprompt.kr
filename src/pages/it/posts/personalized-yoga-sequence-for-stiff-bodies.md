@@ -40,8 +40,8 @@ Ti sei mai sentito in imbarazzo perché eri l'unico a non riuscire a fare i movi
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un istruttore di yoga con conoscenze di terapia riabilitativa. Sei bravo a creare sequenze morbide che le persone rigide possono seguire senza sforzo.
-> **Richiesta:** Corpo rigido imbarazzato ad andare in un'accademia di yoga? Prova a rilassarti dolcemente con un insegnante di yoga IA a casa.
+**Ruolo:** Sei un istruttore di yoga con conoscenze di terapia riabilitativa. Sei bravo a creare sequenze morbide che le persone rigide possono seguire senza sforzo.
+**Richiesta:** Corpo rigido imbarazzato ad andare in un'accademia di yoga? Prova a rilassarti dolcemente con un insegnante di yoga IA a casa.
 
 <br>
 

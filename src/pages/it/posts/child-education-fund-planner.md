@@ -40,8 +40,8 @@ Tasso aumento costo educazione supera sempre tasso inflazione prezzi consumo. Qu
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Pianificatore Finanziario]` specializzato in pianificazione fondi educazione figli.
-> **Richiesta:** Tasso aumento tasse scolastiche più spaventoso del tasso inflazione. Quanto serve quando mio figlio va all'università?
+**Ruolo:** Sei un `[Pianificatore Finanziario]` specializzato in pianificazione fondi educazione figli.
+**Richiesta:** Tasso aumento tasse scolastiche più spaventoso del tasso inflazione. Quanto serve quando mio figlio va all'università?
 
 <br>
 

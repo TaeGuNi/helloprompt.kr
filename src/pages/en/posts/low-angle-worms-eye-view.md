@@ -12,7 +12,7 @@ tags:
 
 # 📝 Gaze of a Giant: Low Angle
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -74,13 +74,13 @@ Copy the **PROMPT** content below and use it.
 
 `Giant robot in city.`
 
-> (Result: Just an eye-level view where a robot is standing, hugeness is not well felt)
+(Result: Just an eye-level view where a robot is standing, hugeness is not well felt)
 
 ### ✅ After (Result)
 
 `Low angle` prompt applied
 
-> (Result: Overwhelming scale where the robot's feet are in front of my eyes and the head seems to touch the high sky)
+(Result: Overwhelming scale where the robot's feet are in front of my eyes and the head seems to touch the high sky)
 
 ---
 

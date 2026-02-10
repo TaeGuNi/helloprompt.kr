@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Retrô"]
 
 # 📝 Neon dos Anos 80: Synthwave & Retrowave
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Preciso de um pôr do sol roxo e sensação de piso de grade como De Volta par
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de arte Synthwave caracterizado pela nostalgia neon dos anos 80, palmeiras e pisos de grade.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de arte Synthwave caracterizado pela nostalgia neon dos anos 80, palmeiras e pisos de grade.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Car driving sunset.`
 
-> (Resultado: Foto de anúncio de carro comum)
+(Resultado: Foto de anúncio de carro comum)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Synthwave` aplicado
 
-> (Resultado: Imagem cibernética correndo em um piso a laser com céu roxo e sol laranja ardente)
+(Resultado: Imagem cibernética correndo em um piso a laser com céu roxo e sol laranja ardente)
 
 ---
 

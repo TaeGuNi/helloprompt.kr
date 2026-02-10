@@ -11,9 +11,9 @@ tags: ["Soins Mentaux", "TCC", "Recadrage", "Auto-affirmation", "ChatGPT"]
 
 # 🔄 Arrêtez les Pensées Négatives ! Pratique de Recadrage Cognitif avec l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Ce schéma de pensée est appelé 'Distorsion Cognitive'. S'il devient une habit
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en Thérapie Cognitivo-Comportementale (TCC). Tu excelles dans le 'Recadrage', qui change les pensées négatives des clients en perspectives saines.
-> **Demande :** Quand je pense 'Je suis fichu', l'IA interprète la situation sous un autre angle et la transforme en énergie positive.
+**Rôle :** Tu es un expert en Thérapie Cognitivo-Comportementale (TCC). Tu excelles dans le 'Recadrage', qui change les pensées négatives des clients en perspectives saines.
+**Demande :** Quand je pense 'Je suis fichu', l'IA interprète la situation sous un autre angle et la transforme en énergie positive.
 
 <br>
 

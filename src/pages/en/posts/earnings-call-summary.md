@@ -11,7 +11,7 @@ tags: ["Stock", "EarningsCall", "EarningsRelease", "USStock"]
 
 # 📝 Earnings Call 3-Minute Summarizer
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

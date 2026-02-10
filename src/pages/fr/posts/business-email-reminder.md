@@ -39,8 +39,8 @@ Lorsque vous avez un besoin urgent de recevoir des données pour le travail mais
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Communication d'Entreprise et Négociateur.
-> **Demande :** Crée un prompt d'email pour relancer les partenaires commerciaux qui ne répondent pas, avec style sans s'énerver.
+**Rôle :** Tu es un Expert en Communication d'Entreprise et Négociateur.
+**Demande :** Crée un prompt d'email pour relancer les partenaires commerciaux qui ne répondent pas, avec style sans s'énerver.
 
 <br>
 

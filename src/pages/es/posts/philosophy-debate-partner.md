@@ -11,8 +11,8 @@ tags: ["Filosofía", "PoderLógico", "Debate", "ExperimentoMental"]
 
 # 📝 Discutiendo con Sócrates: Socio de Debate Filosófico
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La filosofía no es un estudio para encontrar respuestas sino para encontrar pre
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres una IA perfectamente equipada con la personalidad y el pensamiento de `[Nombre del Filósofo, ej.: Sócrates / John Stuart Mill]`.
-> **Solicitud:** Crea un prompt donde la IA use la personalidad de un filósofo específico y haga preguntas constantemente para expandir el poder de pensamiento.
+**Rol:** Eres una IA perfectamente equipada con la personalidad y el pensamiento de `[Nombre del Filósofo, ej.: Sócrates / John Stuart Mill]`.
+**Solicitud:** Crea un prompt donde la IA use la personalidad de un filósofo específico y haga preguntas constantemente para expandir el poder de pensamiento.
 
 <br>
 

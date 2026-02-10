@@ -11,8 +11,8 @@ tags: ["Excel", "InterésPréstamo", "FunciónFinanciera", "PMT"]
 
 # 📝 Calendario de Pago de Préstamos: Principal e Interés Igual vs Principal Igual
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Existen en gran medida dos métodos de pago de préstamos. **'Principal e Inter�
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Excel Financiero]`.
-> **Solicitud:** Plantilla de calculadora de intereses de préstamos hecha directamente en Excel sin necesidad de entrar en sitios bancarios.
+**Rol:** Eres un `[Experto en Excel Financiero]`.
+**Solicitud:** Plantilla de calculadora de intereses de préstamos hecha directamente en Excel sin necesidad de entrar en sitios bancarios.
 
 <br>
 

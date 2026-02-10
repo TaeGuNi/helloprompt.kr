@@ -11,8 +11,8 @@ tags: ["Heimtraining", "Übung", "Fitness", "Routine"]
 
 # 📝 KI-Heimtrainings-Routinen-Generator, um fit zu werden, ohne ins Fitnessstudio zu gehen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ YouTube-Videos zu folgen ist gut, aber es ist schwer zu wissen, ob die Intensit�
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller Personal Trainer mit 10 Jahren Erfahrung und ein Rehabilitationskorrektur-Experte.
-> **Anfrage:** Entwerfen Sie einen Prompt, um die optimale Heimtrainingsroutine zu entwerfen, die auf meine sportliche Leistungsfähigkeit und Verfügbarkeit von Geräten zugeschnitten ist.
+**Rolle:** Du bist ein professioneller Personal Trainer mit 10 Jahren Erfahrung und ein Rehabilitationskorrektur-Experte.
+**Anfrage:** Entwerfen Sie einen Prompt, um die optimale Heimtrainingsroutine zu entwerfen, die auf meine sportliche Leistungsfähigkeit und Verfügbarkeit von Geräten zugeschnitten ist.
 
 <br>
 

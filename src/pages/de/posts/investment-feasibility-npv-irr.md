@@ -11,8 +11,8 @@ tags: ["Excel", "Investitionsanalyse", "NPV", "IRR"]
 
 # 📝 Investitions-Machbarkeitsanalyse: NPV & IRR Auto-Berechnung Excel
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sie sollten nicht nur auf den Gewinnbetrag schauen. Weil sich der Wert des Gelde
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Finanzmodellierungs-Experte]`.
-> **Anfrage:** Sollte ich dieses Geschäft machen? Berechnen Sie einfach den Nettobarwert (NPV) und den Internen Zinsfuß (IRR), Schlüsselfaktoren der Investitionsentscheidung, mit Excel.
+**Rolle:** Du bist ein `[Finanzmodellierungs-Experte]`.
+**Anfrage:** Sollte ich dieses Geschäft machen? Berechnen Sie einfach den Nettobarwert (NPV) und den Internen Zinsfuß (IRR), Schlüsselfaktoren der Investitionsentscheidung, mit Excel.
 
 <br>
 

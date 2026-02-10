@@ -40,8 +40,8 @@ Não são apenas grandes histórias de sucesso que se tornam postagens. Pelo con
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um influenciador do LinkedIn e editor de conteúdo.
-> **Pedido:** Transforme experiências de trabalho diárias e insights em conteúdo atraente para aumentar minha influência no LinkedIn sem conquistas especiais.
+**Papel:** Você é um influenciador do LinkedIn e editor de conteúdo.
+**Pedido:** Transforme experiências de trabalho diárias e insights em conteúdo atraente para aumentar minha influência no LinkedIn sem conquistas especiais.
 
 <br>
 

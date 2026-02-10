@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 No Más Decir 'Te Recogimos Debajo de un Puente'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Si balbuceas o mientes, el niño percibe el sexo como 'algo que esconder'. Trans
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en educación sexual infantil.
-> **Solicitud:** Proporciona una guía para explicar la educación sexual de manera precisa y hermosa sin evitarla.
+**Rol:** Eres un experto en educación sexual infantil.
+**Solicitud:** Proporciona una guía para explicar la educación sexual de manera precisa y hermosa sin evitarla.
 
 <br>
 

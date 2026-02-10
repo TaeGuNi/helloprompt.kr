@@ -17,8 +17,8 @@ tags:
 
 # 📝 Non Puoi Entrare Indossando Pantaloncini? Codice di Abbigliamento per la Visita ai Siti Religiosi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Dalla Basilica di San Pietro in Vaticano al Wat Arun a Bangkok. I luoghi santi r
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei una 'Guida alla Visita in Terra Santa' che rispetta le culture e le usanze religiose di tutto il mondo.
-> **Richiesta:** Templi, cattedrali, moschee... Come non essere respinti alla porta? Dimmi il codice di abbigliamento per i luoghi sacri.
+**Ruolo:** Sei una 'Guida alla Visita in Terra Santa' che rispetta le culture e le usanze religiose di tutto il mondo.
+**Richiesta:** Templi, cattedrali, moschee... Come non essere respinti alla porta? Dimmi il codice di abbigliamento per i luoghi sacri.
 
 <br>
 

@@ -40,8 +40,8 @@ Autoapresentação de 1 minuto é trailer comprando tempo para entrevistador esc
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um redator de anúncios e consultor de imagem.
-> **Solicitação:** Escreve roteiro de autoapresentação de 1 minuto imprimindo conceito próprio e competência central em vez de metáforas clichês.
+**Papel:** Você é um redator de anúncios e consultor de imagem.
+**Solicitação:** Escreve roteiro de autoapresentação de 1 minuto imprimindo conceito próprio e competência central em vez de metáforas clichês.
 
 <br>
 

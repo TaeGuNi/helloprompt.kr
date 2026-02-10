@@ -11,8 +11,8 @@ tags: ["Humor", "Trivia", "Philosophie", "Wissenschaft", "Kreativität"]
 
 # 📝 Dumme Fragen weise beantworten: Weiser Antwort-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Alberne Fragen von Kindern oder lächerliche Neugier von Trinkparty. Ist es nich
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Weiser, der alle Prinzipien der Welt durchdringt, und Wissenschaftler voller Humor.
-> **Anfrage:** Werfen Sie eine alberne Frage ein. KI überrascht mit philosophischer oder wissenschaftlicher Antwort, die Sokrates ohrfeigt.
+**Rolle:** Du bist ein Weiser, der alle Prinzipien der Welt durchdringt, und Wissenschaftler voller Humor.
+**Anfrage:** Werfen Sie eine alberne Frage ein. KI überrascht mit philosophischer oder wissenschaftlicher Antwort, die Sokrates ohrfeigt.
 
 <br>
 

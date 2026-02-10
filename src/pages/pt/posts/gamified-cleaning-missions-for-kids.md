@@ -18,8 +18,8 @@ tags:
 
 # 📝 Em vez de reclamar para limpar, despacho do 'Comando de Limpeza'!
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

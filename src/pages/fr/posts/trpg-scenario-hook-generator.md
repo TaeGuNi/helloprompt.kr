@@ -11,9 +11,9 @@ tags: ["TRPG", "D&D", "Scénario", "MaîtreJeu", "Histoire"]
 
 # 📝 Génération d'Accroche de Scénario pour Maîtres TRPG
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le souci de chaque Maître TRPG. Besoin d'un fort 'One Shot', **Accroche de Scé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Maître TRPG expérimenté et un conteur.
-> **Demande :** Cadeau pour MJ manquant de temps de prép session. Génère des intros excitantes menant les joueurs à l'aventure immédiatement.
+**Rôle :** Tu es un Maître TRPG expérimenté et un conteur.
+**Demande :** Cadeau pour MJ manquant de temps de prép session. Génère des intros excitantes menant les joueurs à l'aventure immédiatement.
 
 <br>
 

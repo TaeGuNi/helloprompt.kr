@@ -40,8 +40,8 @@ Non preoccuparti. Alle persone non dispiace che qualcuno le rispetti come modell
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un networker socievole e gentile.
-> **Richiesta:** Invia un DM (Messaggio Diretto) freddo e gentile che induce una risposta quando voglio chiedere consiglio o fare networking con un titolare.
+**Ruolo:** Sei un networker socievole e gentile.
+**Richiesta:** Invia un DM (Messaggio Diretto) freddo e gentile che induce una risposta quando voglio chiedere consiglio o fare networking con un titolare.
 
 <br>
 

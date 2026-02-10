@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Den Markt dominieren mit dem Wettbewerberanalyse-Framework
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wettbewerbsforschung ist entmutigend. Sie können keine tiefen Einblicke gewinne
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Marktforschungsanalyst.
-> **Anfrage:** Erstelle einen Prompt, um die Stärken und Schwächen der Wettbewerber zu untersuchen und Benchmarking-Punkte zu finden.
+**Rolle:** Du bist ein Marktforschungsanalyst.
+**Anfrage:** Erstelle einen Prompt, um die Stärken und Schwächen der Wettbewerber zu untersuchen und Benchmarking-Punkte zu finden.
 
 <br>
 

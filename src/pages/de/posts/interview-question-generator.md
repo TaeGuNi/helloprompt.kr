@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Interviewfragenliste, KI wählt für Sie aus
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie ohne Vorbereitung in ein Interview gehen, stellen Sie am Ende nur Frage
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Interviewer für das HR-Team eines Großunternehmens.
-> **Anfrage:** Erstelle einen scharfen Interviewfragengenerator, der die Fähigkeiten des Bewerbers durchdringt.
+**Rolle:** Du bist ein Interviewer für das HR-Team eines Großunternehmens.
+**Anfrage:** Erstelle einen scharfen Interviewfragengenerator, der die Fähigkeiten des Bewerbers durchdringt.
 
 <br>
 

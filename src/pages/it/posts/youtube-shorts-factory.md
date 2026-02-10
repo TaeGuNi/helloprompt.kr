@@ -11,8 +11,8 @@ tags: ["YouTube", "Shorts", "ScritturaScript", "Creator", "TikTok"]
 
 # 🎬 Fabbrica di YouTube Shorts: Script + Visual in 30 Secondi
 
-> **🎯 Consigliato per:** YouTuber a corto di idee per caricamenti giornalieri, Dipendenti con canale Shorts secondario
-> **⏱️ Tempo Richiesto:** 30 secondi
+**🎯 Consigliato per:** YouTuber a corto di idee per caricamenti giornalieri, Dipendenti con canale Shorts secondario
+**⏱️ Tempo Richiesto:** 30 secondi
 
 - **🤖 Modello Consigliato:** ChatGPT-4o (Veloce & Arguto)
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Shorts", "ScritturaScript", "Creator", "TikTok"]
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... cosa filmo domani? Quando scrivo lo script..."_
+_"Ah... cosa filmo domani? Quando scrivo lo script..."_
 
 Il nucleo del formato breve (Shorts/Reels/TikTok) è la **'Costanza'** e i **'Primi 3 Secondi'**. Ma spremere idee virali quotidianamente non è umanamente possibile. Ora, iniettiamo la **'Formula Virale'** nell'IA e costruiamo una fabbrica che stampa script solo respirando.
 
@@ -40,9 +40,9 @@ Il nucleo del formato breve (Shorts/Reels/TikTok) è la **'Costanza'** e i **'Pr
 
 Quando hai zero idee.
 
-> **Ruolo:** Sei uno YouTuber da 1M di iscritti.
-> **Argomento:** `[Trucchi per Vivere da Soli]`
-> **Richiesta:** Dammi 5 idee per Shorts piccanti e fresche che la gente non può saltare. Includi Titolo e Prima Frase (Hook).
+**Ruolo:** Sei uno YouTuber da 1M di iscritti.
+**Argomento:** `[Trucchi per Vivere da Soli]`
+**Richiesta:** Dammi 5 idee per Shorts piccanti e fresche che la gente non può saltare. Includi Titolo e Prima Frase (Hook).
 
 <br>
 
@@ -80,19 +80,19 @@ Uno script perfetto pronto da leggere davanti alla telecamera.
 
 ### ❌ Prima (Scrivere e basta)
 
-> Ciao a tutti~ Oggi presenterò buoni articoli da Ikea. Il primo è... (Gli spettatori se ne sono andati 👋)
+Ciao a tutti~ Oggi presenterò buoni articoli da Ikea. Il primo è... (Gli spettatori se ne sono andati 👋)
 
 ### ✅ Dopo (Fabbrica IA)
 
-> **[0~3s]**
->
-> - **Visual:** Accartocciare uno scontrino e lanciarlo a terra.
-> - **Audio:** "Stai ancora sprecando soldi da Ikea? Lo staff usa segretamente queste 3 vere gemme! Prendi solo questi."
->
-> **[4~15s]**
->
-> - **Visual:** Primo piano del Prodotto A.
-> - **Audio:** "Primo, [Nome Prodotto]. Sai che questo è esaurito ovunque? Se lo vedi..."
+**[0~3s]**
+
+- **Visual:** Accartocciare uno scontrino e lanciarlo a terra.
+- **Audio:** "Stai ancora sprecando soldi da Ikea? Lo staff usa segretamente queste 3 vere gemme! Prendi solo questi."
+
+**[4~15s]**
+
+- **Visual:** Primo piano del Prodotto A.
+- **Audio:** "Primo, [Nome Prodotto]. Sai che questo è esaurito ovunque? Se lo vedi..."
 
 ---
 

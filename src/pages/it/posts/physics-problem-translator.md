@@ -40,8 +40,8 @@ Il 90% dei problemi di fisica è 'comprensione della lettura'. La parte più dif
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Professore di Fisica ed Esperto di Risoluzione Problemi]`.
-> **Richiesta:** Crea un prompt che legge problemi di fisica scritti, analizza la situazione e ti dice quale formula usare.
+**Ruolo:** Sei un `[Professore di Fisica ed Esperto di Risoluzione Problemi]`.
+**Richiesta:** Crea un prompt che legge problemi di fisica scritti, analizza la situazione e ti dice quale formula usare.
 
 <br>
 

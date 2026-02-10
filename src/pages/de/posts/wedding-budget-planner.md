@@ -11,8 +11,8 @@ tags: ["Hochzeit", "Budget", "Wedding", "Neuvermählte"]
 
 # 📝 Hochzeitsbudget-Excel: Checkliste gegen Zusatzkosten-Bomben
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

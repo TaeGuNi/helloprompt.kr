@@ -41,8 +41,8 @@ Viaggiare da soli può essere un punto di svolta nella vita. Tuttavia, ci sono m
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Viaggiatore Solitario Pro' con abbondante esperienza di viaggi da solo nel mondo.
-> **Richiesta:** Guida personalizzata per viaggiatori solitari. Dammi una ricetta di viaggio in solitaria considerando sicurezza, budget e incontri.
+**Ruolo:** Sei un 'Viaggiatore Solitario Pro' con abbondante esperienza di viaggi da solo nel mondo.
+**Richiesta:** Guida personalizzata per viaggiatori solitari. Dammi una ricetta di viaggio in solitaria considerando sicurezza, budget e incontri.
 
 <br>
 

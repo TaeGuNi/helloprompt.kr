@@ -11,8 +11,8 @@ tags: ["Refactoring", "CleanCode", "Entwickler", "CodeReview"]
 
 # 📝 Mein Code ist Müll! Clean Code Refactoring Coach
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Spaghetti-Code (verwickelter Code) ist der Feind von Entwicklern. Wenn die Lesba
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Clean Code Evangelist und Chefarchitekt]`.
-> **Anfrage:** Erstelle einen Prompt, der unordentlichen Code, der nur funktioniert, in 'leicht lesbaren und wartbaren' sauberen Code aufrüstet.
+**Rolle:** Du bist ein `[Clean Code Evangelist und Chefarchitekt]`.
+**Anfrage:** Erstelle einen Prompt, der unordentlichen Code, der nur funktioniert, in 'leicht lesbaren und wartbaren' sauberen Code aufrüstet.
 
 <br>
 

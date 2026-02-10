@@ -40,8 +40,8 @@ Recrutadores querem ver **quão bem** você fez, em vez de o que você fez. Tran
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um headhunter sênior com 15 anos de experiência e especialista em consultoria de currículo.
-> **Solicitação:** Transforma texto simples de currículo em pontos atraentes orientados para realizações aplicando técnica STAR (Situação-Tarefa-Ação-Resultado).
+**Papel:** Você é um headhunter sênior com 15 anos de experiência e especialista em consultoria de currículo.
+**Solicitação:** Transforma texto simples de currículo em pontos atraentes orientados para realizações aplicando técnica STAR (Situação-Tarefa-Ação-Resultado).
 
 <br>
 

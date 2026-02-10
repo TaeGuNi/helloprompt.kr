@@ -17,8 +17,8 @@ tags:
 
 # 📝 Creador de Lógica de 'Defensa de Debilidad' en Entrevista (Convirtiendo Crisis en Oportunidad)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Cuando llega una pregunta apuñalando un punto doloroso, tu cabeza se queda en b
 
 Usa esto cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un consultor de estrategia de entrevista.
-> **Solicitud:** Prepara una lógica para reconocer debilidades fatales (brecha laboral, cambio importante, bajo GPA) honestamente pero enfatizar las lecciones aprendidas y los esfuerzos de mejora.
+**Rol:** Eres un consultor de estrategia de entrevista.
+**Solicitud:** Prepara una lógica para reconocer debilidades fatales (brecha laboral, cambio importante, bajo GPA) honestamente pero enfatizar las lecciones aprendidas y los esfuerzos de mejora.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Jejum Intermitente", "Dieta", "Saúde", "ChatGPT", "Rotina"]
 
 # ⏰ Horário de Jejum Intermitente IA: Aumentando a Taxa de Sucesso em 200%
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A principal razão para o fracasso no jejum intermitente é definir horários ir
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em jejum intermitente e biohacking.
-> **Pedido:** Projete um horário de jejum intermitente que se adapte perfeitamente ao meu estilo de vida e me dê dicas sobre como sobreviver às horas de jejum.
+**Papel:** Você é um especialista em jejum intermitente e biohacking.
+**Pedido:** Projete um horário de jejum intermitente que se adapte perfeitamente ao meu estilo de vida e me dê dicas sobre como sobreviver às horas de jejum.
 
 <br>
 

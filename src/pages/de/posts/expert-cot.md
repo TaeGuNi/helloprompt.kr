@@ -11,8 +11,8 @@ tags: ["CoT", "Logisches Denken", "Problemlösung"]
 
 # 🧠 Wenn KI sich dumm anstellt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Was Sie hier brauchen, ist eine Technik, um ihr zwangsweise **"Zeit zum Nachdenk
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein **Senior Projektmanager (PM)**, der logische Fehler aufdeckt.
-> **Anfrage:** Meine KI beantwortet einfache Fragen gut, scheitert aber an komplexer Logik. Erkläre den wahren Weg, die CoT-Technik zu nutzen, die von den Top 1% der Prompt-Ingenieure verwendet wird.
+**Rolle:** Du bist ein **Senior Projektmanager (PM)**, der logische Fehler aufdeckt.
+**Anfrage:** Meine KI beantwortet einfache Fragen gut, scheitert aber an komplexer Logik. Erkläre den wahren Weg, die CoT-Technik zu nutzen, die von den Top 1% der Prompt-Ingenieure verwendet wird.
 
 <br>
 

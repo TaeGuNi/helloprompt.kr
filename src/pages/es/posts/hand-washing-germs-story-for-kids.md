@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Mostrar 'Monstruos de Gérmenes' a Niños que Odian Lavarse las Manos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Para los ojos de los niños, las manos se ven limpias. Tienes que hacerles imagi
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres microbiólogo y cuentacuentos.
-> **Solicitud:** Proporciona persuasión científica para enviar a un niño al lavabo sin regaños.
+**Rol:** Eres microbiólogo y cuentacuentos.
+**Solicitud:** Proporciona persuasión científica para enviar a un niño al lavabo sin regaños.
 
 <br>
 

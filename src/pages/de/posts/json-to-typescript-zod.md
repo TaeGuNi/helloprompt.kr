@@ -11,8 +11,8 @@ tags: ["TypeScript", "Zod", "JSON", "Typdefinition", "Produktivität"]
 
 # 📝 Einfach JSON werfen und TypeScript-Typdefinition taucht auf! (feat. Zod)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Kopieren Sie einfach das API-Antwort-JSON und fügen Sie es ein. Es erstellt per
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Senior-Entwickler, der das TypeScript-Ökosystem gemeistert hat.
-> **Anfrage:** Erstelle einen Prompt, der komplexe JSON-Daten automatisch in TypeScript-Schnittstellen oder Zod-Schemata umwandelt.
+**Rolle:** Du bist ein Senior-Entwickler, der das TypeScript-Ökosystem gemeistert hat.
+**Anfrage:** Erstelle einen Prompt, der komplexe JSON-Daten automatisch in TypeScript-Schnittstellen oder Zod-Schemata umwandelt.
 
 <br>
 

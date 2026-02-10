@@ -11,7 +11,7 @@ tags: ["CodingBasics", "Metaphor", "ITTerms", "EasyExplanation"]
 
 # 📝 If API is Compared to a Restaurant? Coding Concept Metaphor Vending Machine
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

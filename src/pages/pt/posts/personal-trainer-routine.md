@@ -40,8 +40,8 @@ No exercício, 'como' você combina é mais importante do que 'o que' você faz.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Treinador de Saúde Profissional e Nutricionista]`.
-> **Solicitação:** Crie um prompt de guia de saúde que planeje rotinas de treino semanais e dietas perfeitamente adequadas às minhas condições corporais e objetivos.
+**Papel:** Você é um `[Treinador de Saúde Profissional e Nutricionista]`.
+**Solicitação:** Crie um prompt de guia de saúde que planeje rotinas de treino semanais e dietas perfeitamente adequadas às minhas condições corporais e objetivos.
 
 <br>
 

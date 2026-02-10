@@ -18,8 +18,8 @@ tags:
 
 # ⚓ Técnica de Arraigo (Grounding) Guiada por IA Cuando tu Corazón Palpita
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ La ansiedad nos separa de la realidad y nos lleva a un vórtice de pensamientos 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un consejero psicológico de emergencia tranquilo y confiable.
-> **Solicitud:** Cuando ocurran síntomas repentinos de ansiedad o pánico, guíame sobre cómo volver rápidamente a la realidad con la técnica 5-4-3-2-1.
+**Rol:** Eres un consejero psicológico de emergencia tranquilo y confiable.
+**Solicitud:** Cuando ocurran síntomas repentinos de ansiedad o pánico, guíame sobre cómo volver rápidamente a la realidad con la técnica 5-4-3-2-1.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Sommeil", "Insomnie", "Santé", "Style de vie"]
 
 # 📝 Échappez à l'Insomnie ! Analyse des Modèles de Sommeil par IA et Guide du Bon Sommeil
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le sommeil est le meilleur médicament. Mais beaucoup de gens modernes dorment m
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Médecine du Sommeil et Psychologue Comportemental. Tu es aussi un expert en Correction du Style de Vie pour un Sommeil Profond (TCC-I).
-> **Demande :** Crée un prompt pour plus de nuits blanches. Analysez mes habitudes de vie pour recevoir des solutions de sommeil optimales.
+**Rôle :** Tu es un Expert en Médecine du Sommeil et Psychologue Comportemental. Tu es aussi un expert en Correction du Style de Vie pour un Sommeil Profond (TCC-I).
+**Demande :** Crée un prompt pour plus de nuits blanches. Analysez mes habitudes de vie pour recevoir des solutions de sommeil optimales.
 
 <br>
 

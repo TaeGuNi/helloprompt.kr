@@ -17,9 +17,9 @@ tags:
 
 # 📝 Les Tableaux et Graphiques Parlent : Tuteur d'Interprétation de Données
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ La Littératie des Données est une compétence de survie essentielle pour les g
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Analyste de Données en Chef et Expert en Statistiques]`.
-> **Demande :** Créez un prompt qui extrait des informations clés de graphiques ou tableaux complexes et trouve des pièges cachés.
+**Rôle :** Tu es un `[Analyste de Données en Chef et Expert en Statistiques]`.
+**Demande :** Créez un prompt qui extrait des informations clés de graphiques ou tableaux complexes et trouve des pièges cachés.
 
 <br>
 

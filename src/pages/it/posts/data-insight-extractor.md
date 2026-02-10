@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Estrarre Insight da Dati Grezzi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Ci sono molti numeri, ma sei perso su cosa riportare qui?"_
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Data Scientist.
-> **Richiesta:** Dati Excel pieni solo di numeri, analizza con l'IA e deriva implicazioni.
+**Ruolo:** Sei un Data Scientist.
+**Richiesta:** Dati Excel pieni solo di numeri, analizza con l'IA e deriva implicazioni.
 
 <br>
 

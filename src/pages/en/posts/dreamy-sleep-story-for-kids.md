@@ -11,10 +11,10 @@ tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 
 # 📝 Boarding Pass for the 'Dreamland Train' to Put Insomniac Babies to Sleep
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

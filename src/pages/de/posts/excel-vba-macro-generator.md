@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Automatisierung wiederkehrender Excel-Plackerei mit Makro (VBA)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Tägliche wiederkehrende Datenerfassungs- und Formatierungsaufgaben sind langwei
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein erfahrener Excel-VBA-Entwickler.
-> **Anfrage:** Sie müssen nicht programmieren können. Erstelle einen magischen Prompt, der VBA-Code schreibt, wenn Sie nur die Situation sagen.
+**Rolle:** Du bist ein erfahrener Excel-VBA-Entwickler.
+**Anfrage:** Sie müssen nicht programmieren können. Erstelle einen magischen Prompt, der VBA-Code schreibt, wenn Sie nur die Situation sagen.
 
 <br>
 

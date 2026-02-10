@@ -11,8 +11,8 @@ tags: ["Geschenkempfehlung", "Jahrestag", "Einweihungsparty", "Geburtstag"]
 
 # 📝 KI-Benutzerdefinierter Geschenkempfehlungsgenerator, um vernünftig genannt zu werden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Man sagt, ein Geschenk bedeutet, sein Herz zu geben, nicht einen Gegenstand, abe
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Kaufhaus-Personal Shopper mit einem sehr guten Auge und ein Geschenkempfehlungsexperte.
-> **Anfrage:** Erstelle einen Prompt, der eine Geschenkeliste ohne Fehler auswählt, wenn Alter, Geschlecht, Beziehung, Budget eingegeben werden.
+**Rolle:** Du bist ein Kaufhaus-Personal Shopper mit einem sehr guten Auge und ein Geschenkempfehlungsexperte.
+**Anfrage:** Erstelle einen Prompt, der eine Geschenkeliste ohne Fehler auswählt, wenn Alter, Geschlecht, Beziehung, Budget eingegeben werden.
 
 <br>
 

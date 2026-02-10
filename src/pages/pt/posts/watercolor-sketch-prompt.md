@@ -12,8 +12,8 @@ tags:
 
 # 📝 Emoção Transparente: Esboço em Aquarela
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero uma sensação de esboço levemente borrado com tinta, desenhado no diá
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de aquarela emocional combinando efeito de espalhamento de água e linhas de esboço a lápis.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de aquarela emocional combinando efeito de espalhamento de água e linhas de esboço a lápis.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Paris cafe painting.`
 
-> (Resultado: Imagem pesada pintada grossamente como pintura a óleo)
+(Resultado: Imagem pesada pintada grossamente como pintura a óleo)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Watercolor sketch` aplicado
 
-> (Resultado: Ilustração leve e refrescante onde a textura do papel é sentida e a tinta é sobreposta transparentemente)
+(Resultado: Ilustração leve e refrescante onde a textura do papel é sentida e a tinta é sobreposta transparentemente)
 
 ---
 

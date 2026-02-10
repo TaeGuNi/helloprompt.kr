@@ -12,8 +12,8 @@ tags:
 
 # 📝 En Lugar de Inglés Telefónico Costoso, Hablante Nativo de IA en Espera las 24 Horas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ El idioma no es estudio sino hábito. Pero encontrarse con amigos nativos todos 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Personal de Cafetería de Nueva York]` y yo soy un `[Turista que no habla bien inglés]`.
-> **Solicitud:** Crea un prompt de juego de roles que me permita practicar la conversación en un idioma extranjero como en la vida real con IA configurando situaciones y niveles de dificultad deseados.
+**Rol:** Eres un `[Personal de Cafetería de Nueva York]` y yo soy un `[Turista que no habla bien inglés]`.
+**Solicitud:** Crea un prompt de juego de roles que me permita practicar la conversación en un idioma extranjero como en la vida real con IA configurando situaciones y niveles de dificultad deseados.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 🧠 KI-Schlafroutine-Generator: Dem Gehirn beibringen, dass es Zeit zum Schlafen ist
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Unsere Gehirne lieben Signale. Wenn Sie wiederholt das Signal geben, dass 'diese
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Verhaltenspsychologe und Schlafcoach. Du bist Experte darin, bei der Gewohnheitsbildung zu helfen.
-> **Anfrage:** Entwerfe eine magische Routine, die mich allein durch bestimmte Handlungen schläfrig macht, wie den Pawlowschen Hund.
+**Rolle:** Du bist ein Verhaltenspsychologe und Schlafcoach. Du bist Experte darin, bei der Gewohnheitsbildung zu helfen.
+**Anfrage:** Entwerfe eine magische Routine, die mich allein durch bestimmte Handlungen schläfrig macht, wie den Pawlowschen Hund.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Blog", "SEO", "Google Exposure"]
 
 # 📝 SEO Blog Outline for Top Search Rankings
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

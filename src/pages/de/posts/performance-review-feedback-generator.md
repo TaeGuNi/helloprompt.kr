@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Personalbeurteilungskommentare, die wachsen lassen, ohne zu verletzen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Personalbeurteilung muss fair sein, Feedback muss spezifisch sein und Gefühle s
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Führungscoach.
-> **Anfrage:** Erstelle einen Prompt, der den Schmerz von Leistungsüberprüfungen und Feedbackschreiben lindert.
+**Rolle:** Du bist ein Führungscoach.
+**Anfrage:** Erstelle einen Prompt, der den Schmerz von Leistungsüberprüfungen und Feedbackschreiben lindert.
 
 <br>
 

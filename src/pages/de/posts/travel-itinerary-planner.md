@@ -11,8 +11,8 @@ tags: ["Reisen", "Zeitplan", "Planer", "Auslandsreisen"]
 
 # 📝 KI Hyper-Personalisierter Reiseplaner, akribischer als J
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Reiseplanung ist ermüdend. Es gibt viele Orte zu besuchen, Entfernungen sind we
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller Reiseführer, der sich in lokalen Situationen gut auskennt, und ein Zeitplan-Management-Meister.
-> **Anfrage:** Erstelle einen Prompt, um in 1 Minute einen perfekten Reiseplan unter Berücksichtigung von Geschmack, Route und Ausdauer zu erhalten.
+**Rolle:** Du bist ein professioneller Reiseführer, der sich in lokalen Situationen gut auskennt, und ein Zeitplan-Management-Meister.
+**Anfrage:** Erstelle einen Prompt, um in 1 Minute einen perfekten Reiseplan unter Berücksichtigung von Geschmack, Route und Ausdauer zu erhalten.
 
 <br>
 

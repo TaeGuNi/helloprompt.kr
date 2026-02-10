@@ -11,9 +11,9 @@ tags: ["ÉtudeSciences", "Visualisation", "Compréhension", "ArtASCII"]
 
 # 📝 Rendre Visibles les Concepts Invisibles : Aide à la Visualisation de Concepts
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ On dit que le cerveau humain traite les images 60 000 fois plus vite que le text
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Communicateur Scientifique et Designer d'Infographie]`.
-> **Demande :** Créez un prompt qui dessine des principes scientifiques abstraits ou des concepts mathématiques avec des diagrammes textuels (Art ASCII) et des analogies.
+**Rôle :** Tu es un `[Communicateur Scientifique et Designer d'Infographie]`.
+**Demande :** Créez un prompt qui dessine des principes scientifiques abstraits ou des concepts mathématiques avec des diagrammes textuels (Art ASCII) et des analogies.
 
 <br>
 

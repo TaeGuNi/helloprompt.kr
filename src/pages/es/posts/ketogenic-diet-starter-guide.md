@@ -11,8 +11,8 @@ tags: ["Cetogénica", "LCHF", "Dieta", "Salud", "ChatGPT"]
 
 # 🥑 Dieta Cetogénica (LCHF), Comienza Perfectamente con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La dieta cetogénica es definitivamente efectiva, pero limitar los carbohidratos
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un entrenador especializado en la dieta Cetogénica (LCHF). Tienes experiencia llevando a miles de miembros a un estado de Cetosis exitoso.
-> **Solicitud:** Proporciona una guía para comenzar la dieta cetogénica de manera fácil y segura usando IA sin cálculos complejos de proporción de grasas.
+**Rol:** Eres un entrenador especializado en la dieta Cetogénica (LCHF). Tienes experiencia llevando a miles de miembros a un estado de Cetosis exitoso.
+**Solicitud:** Proporciona una guía para comenzar la dieta cetogénica de manera fácil y segura usando IA sin cálculos complejos de proporción de grasas.
 
 <br>
 

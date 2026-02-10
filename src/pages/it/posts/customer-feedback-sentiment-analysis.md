@@ -40,8 +40,8 @@ La Voce del Cliente (VOC) è importante, ma leggere e classificare vasti dati di
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Gestione Qualità CS.
-> **Richiesta:** Centinaia di commenti di recensioni, organizza in una volta con Analisi del Sentimento.
+**Ruolo:** Sei un Esperto di Gestione Qualità CS.
+**Richiesta:** Centinaia di commenti di recensioni, organizza in una volta con Analisi del Sentimento.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Storia della Buonanotte", "Insonnia", "ASMR", "Guarigione", "TTS"]
 
 # 📚 Ninna Nanna per Adulti, Storia della Buonanotte Raccontata dall'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Le Storie della Buonanotte sono contenuti che fanno sentire il cervello 'annoiat
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei il miglior scrittore di favole del mondo ed esperto di ipnosi.
-> **Richiesta:** Contare le pecore è noioso, le storie spaventose ti svegliano... Crea una 'Favola per Adulti' languida e pacifica all'istante.
+**Ruolo:** Sei il miglior scrittore di favole del mondo ed esperto di ipnosi.
+**Richiesta:** Contare le pecore è noioso, le storie spaventose ti svegliano... Crea una 'Favola per Adulti' languida e pacifica all'istante.
 
 <br>
 

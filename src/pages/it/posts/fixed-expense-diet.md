@@ -11,8 +11,8 @@ tags: ["Risparmio", "SpesaFissa", "CostoVita", "Frugalità"]
 
 # 📝 Dieta Spese Fisse: Idee per Smettere di Perdere Soldi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Ridurre le spese alimentari richiede volontà, ma ridurre le spese fisse richied
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Frugalità]` che è maestro nel risparmiare costi della vita.
-> **Richiesta:** Spese fisse che escono ogni mese, pensi che non possano essere ridotte? Trova punti di risparmio nascosti.
+**Ruolo:** Sei un `[Esperto di Frugalità]` che è maestro nel risparmiare costi della vita.
+**Richiesta:** Spese fisse che escono ogni mese, pensi che non possano essere ridotte? Trova punti di risparmio nascosti.
 
 <br>
 

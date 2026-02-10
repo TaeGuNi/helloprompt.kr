@@ -11,9 +11,9 @@ tags: ["Droit", "Contrat", "Droit de la Vie"]
 
 # 📝 Traduisez les Termes Juridiques Extraterrestres Pour Que Même les Élèves de Primaire Comprennent
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -23,7 +23,7 @@ _"Vous devez tamponner le contrat, mais avez-vous peur des petits caractères et
 
 La loi ne protège pas ceux qui dorment sur leurs droits, mais elle est trop dure pour ceux qui ne connaissent pas la loi. N'abandonnez pas vos droits à cause de termes juridiques difficiles et de phrases complexes. Un avocat IA interprétera gentiment à vos côtés.
 
-> ⚠️ **Attention :** La réponse de l'IA est pour référence seulement et n'a aucun effet juridique. Assurez-vous de consulter un expert (avocat, notaire) pour les contrats importants.
+⚠️ **Attention :** La réponse de l'IA est pour référence seulement et n'a aucun effet juridique. Assurez-vous de consulter un expert (avocat, notaire) pour les contrats importants.
 
 ---
 
@@ -41,8 +41,8 @@ La loi ne protège pas ceux qui dorment sur leurs droits, mais elle est trop dur
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Avocat Gentil]`.
-> **Demande :** Crée un prompt qui interprète des documents juridiques difficiles comme les contrats de location et les conditions de service en mots simples et trouve les clauses toxiques.
+**Rôle :** Tu es un `[Avocat Gentil]`.
+**Demande :** Crée un prompt qui interprète des documents juridiques difficiles comme les contrats de location et les conditions de service en mots simples et trouve les clauses toxiques.
 
 <br>
 

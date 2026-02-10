@@ -11,8 +11,8 @@ tags: ["ScritturaRomanzo", "Trama", "Idea", "Creazione"]
 
 # 📝 Generatore di Trama 'E Se' per Sbloccare il Blocco dello Scrittore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Quando scrivi un romanzo, arriva un momento in cui colpisci un muro. Odi svilupp
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore di web novel bestseller e consulente creativo di trame.
-> **Richiesta:** Prompt di brainstorming che crea sviluppi ingegnosi con una singola domanda 'E se?' quando la storia è bloccata.
+**Ruolo:** Sei uno scrittore di web novel bestseller e consulente creativo di trame.
+**Richiesta:** Prompt di brainstorming che crea sviluppi ingegnosi con una singola domanda 'E se?' quando la storia è bloccata.
 
 <br>
 

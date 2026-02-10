@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Lista Domande Colloquio, l'IA Sceglie Per Te
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Se entri in un colloquio senza preparazione, finisci per fare solo domande senza
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Intervistatore per il Team HR di una Grande Azienda.
-> **Richiesta:** Crea un generatore di domande di colloquio acute che penetrano le capacità del candidato.
+**Ruolo:** Sei un Intervistatore per il Team HR di una Grande Azienda.
+**Richiesta:** Crea un generatore di domande di colloquio acute che penetrano le capacità del candidato.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Montrer les 'Monstres Microbes' aux Enfants qui Détestent se Laver les Mains
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Aux yeux des enfants, les mains ont l'air propres. Vous devez leur faire imagine
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es microbiologiste et conteur.
-> **Demande :** Fournis une persuasion scientifique pour envoyer un enfant au lavabo sans rouspéter.
+**Rôle :** Tu es microbiologiste et conteur.
+**Demande :** Fournis une persuasion scientifique pour envoyer un enfant au lavabo sans rouspéter.
 
 <br>
 

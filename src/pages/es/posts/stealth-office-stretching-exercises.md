@@ -18,8 +18,8 @@ tags:
 
 # 🪑 Estiramiento Sigiloso en la Oficina para Escapar del Cuello de Texto y Dolor de Espalda
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ No puedes ir al gimnasio durante el trabajo ajetreado, pero invertir solo 3 minu
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en corrección de postura y un maestro de las habilidades sociales.
-> **Solicitud:** Presenta una rutina de 'Estiramiento en la Oficina' que pueda hacer en mi asiento sin que mis colegas se den cuenta.
+**Rol:** Eres un experto en corrección de postura y un maestro de las habilidades sociales.
+**Solicitud:** Presenta una rutina de 'Estiramiento en la Oficina' que pueda hacer en mi asiento sin que mis colegas se den cuenta.
 
 <br>
 

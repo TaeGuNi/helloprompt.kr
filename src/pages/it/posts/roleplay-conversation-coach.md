@@ -11,8 +11,8 @@ tags: ["ConversazioneInglese", "GiocoDiRuolo", "Prompt", "Auto-sviluppo"]
 
 # 📝 Partner di Conversazione Madrelingua d'Angolo (Gratis)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il nucleo della conversazione in lingua straniera è la 'fiducia' e la 'capacit�
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Tu sei `[Ruolo del partner adatto alla situazione, es. Personale gentile del caffè/Ufficiale immigrazione scontroso]`, e io sono `[Mio ruolo, es. Turista impacciato nell'ordinare/Viaggiatore nervoso]`.
-> **Richiesta:** Crea un metodo per far crescere le abilità di conversazione giocando di ruolo illimitatamente con l'IA invece del costoso inglese telefonico.
+**Ruolo:** Tu sei `[Ruolo del partner adatto alla situazione, es. Personale gentile del caffè/Ufficiale immigrazione scontroso]`, e io sono `[Mio ruolo, es. Turista impacciato nell'ordinare/Viaggiatore nervoso]`.
+**Richiesta:** Crea un metodo per far crescere le abilità di conversazione giocando di ruolo illimitatamente con l'IA invece del costoso inglese telefonico.
 
 <br>
 

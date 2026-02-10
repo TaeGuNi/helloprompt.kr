@@ -11,8 +11,8 @@ tags: ["Testcode", "TDD", "Jest", "JUnit"]
 
 # 📝 Zu faul, Testcode zu schreiben? KI erledigt das für Sie
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Unit-Testing ist für stabile Dienste unerlässlich, aber das Schreiben ist arbe
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[QA-Engineering-Leiter]`.
-> **Anfrage:** Erstelle einen Prompt, der automatisch mühsame Unit-Test-Codes generiert und dabei sogar Randfälle berücksichtigt.
+**Rolle:** Du bist ein `[QA-Engineering-Leiter]`.
+**Anfrage:** Erstelle einen Prompt, der automatisch mühsame Unit-Test-Codes generiert und dabei sogar Randfälle berücksichtigt.
 
 <br>
 

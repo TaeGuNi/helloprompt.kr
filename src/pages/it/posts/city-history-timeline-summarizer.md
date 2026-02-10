@@ -17,8 +17,8 @@ tags:
 
 # 📝 Riassuntore della Cronologia della Storia della Città che Finisce in Una Pagina
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Le città con storie complesse come Istanbul, Granada e Berlino sono più divert
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Designer di Infografiche Storiche' che organizza chiaramente la storia complessa.
-> **Richiesta:** Storia complessa a colpo d'occhio! Crea una cronologia chiave che collega il passato e il presente della destinazione di viaggio.
+**Ruolo:** Sei un 'Designer di Infografiche Storiche' che organizza chiaramente la storia complessa.
+**Richiesta:** Storia complessa a colpo d'occhio! Crea una cronologia chiave che collega il passato e il presente della destinazione di viaggio.
 
 <br>
 

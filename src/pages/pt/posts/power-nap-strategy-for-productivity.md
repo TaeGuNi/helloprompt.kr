@@ -40,8 +40,8 @@ De acordo com pesquisas da NASA, um cochilo de 26 minutos melhora o desempenho n
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um cientista do sono e consultor de produtividade.
-> **Pedido:** Sonolência após o almoço, não aguente. Diga-me a técnica 'Coffee Nap' para dormir exatamente 20 minutos e acordar revigorado.
+**Papel:** Você é um cientista do sono e consultor de produtividade.
+**Pedido:** Sonolência após o almoço, não aguente. Diga-me a técnica 'Coffee Nap' para dormir exatamente 20 minutos e acordar revigorado.
 
 <br>
 

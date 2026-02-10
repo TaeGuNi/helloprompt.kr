@@ -11,8 +11,8 @@ tags: ["Nominare", "Personaggio", "Romanzo", "CreazioneNome", "Impostazione"]
 
 # 📝 Generatore Nomi Personaggi Romanzo (Abbinamento Significato e Sfumatura)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Nomi comuni come 'Kim Cheol-su', 'John Doe' riducono fascino personaggio. Ma tro
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un romanziere con grande senso del naming e antropologo.
-> **Richiesta:** Nomina personaggi perfettamente con significato e sfumatura riflettendo personalità, nazionalità ed epoca del personaggio.
+**Ruolo:** Sei un romanziere con grande senso del naming e antropologo.
+**Richiesta:** Nomina personaggi perfettamente con significato e sfumatura riflettendo personalità, nazionalità ed epoca del personaggio.
 
 <br>
 

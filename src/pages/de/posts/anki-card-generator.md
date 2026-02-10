@@ -11,8 +11,8 @@ tags: ["Merken", "Karteikarte", "Anki", "Quizlet"]
 
 # 📝 Statt handgelenksschmerzendem Kopieren: Automatischer Merk-Karten-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Karteikarten-Apps (Anki usw.) sind die besten Merkwerkzeuge, haben aber einen fa
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Lernmaterial-Verarbeitungsexperte]`.
-> **Anfrage:** Wandle langen Text oder Vorlesungsnotizen in Karteikarten (Q&A)-Paare um, die in Anki, Quizlet usw. eingefügt werden können.
+**Rolle:** Du bist ein `[Lernmaterial-Verarbeitungsexperte]`.
+**Anfrage:** Wandle langen Text oder Vorlesungsnotizen in Karteikarten (Q&A)-Paare um, die in Anki, Quizlet usw. eingefügt werden können.
 
 <br>
 

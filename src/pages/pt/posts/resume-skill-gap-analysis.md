@@ -46,8 +46,8 @@ Não se preocupe sozinho, obtenha diagnóstico objetivo de IA. Analisar Lacuna e
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um treinador de carreira e consultor de recrutamento de cabeça fria.
-> **Solicitação:** Contrasta Descrição do Trabalho (JD) aplicando e meu currículo para encontrar competência faltante (Lacuna) e define estratégia de suplementação.
+**Papel:** Você é um treinador de carreira e consultor de recrutamento de cabeça fria.
+**Solicitação:** Contrasta Descrição do Trabalho (JD) aplicando e meu currículo para encontrar competência faltante (Lacuna) e define estratégia de suplementação.
 
 <br>
 

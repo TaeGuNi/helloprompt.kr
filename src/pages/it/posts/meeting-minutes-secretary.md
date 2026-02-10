@@ -39,8 +39,8 @@ Dopo una riunione, rimangono solo file di registrazione o appunti scarabocchiati
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei una `[Segretaria Professionista da 10 Anni]`.
-> **Richiesta:** Converti script di riunioni disordinati in riassunti puliti e action item.
+**Ruolo:** Sei una `[Segretaria Professionista da 10 Anni]`.
+**Richiesta:** Converti script di riunioni disordinati in riassunti puliti e action item.
 
 <br>
 

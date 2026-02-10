@@ -11,8 +11,8 @@ tags: ["Scrittura", "Abitudine", "Sfida", "Autosviluppo"]
 
 # 📝 Sfida Scrittura Giornaliera: Auto-Generare Calendario Argomenti Scrittura 30 Giorni
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La cosa più difficile nella scrittura non è 'atto di scrivere' ma 'decidere co
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un allenatore di scrittura e curatore di contenuti.
-> **Richiesta:** Vuoi costruire abitudine scrittura? IA pianifica argomenti scrittura 30 giorni (domande) su misura per tuoi interessi.
+**Ruolo:** Sei un allenatore di scrittura e curatore di contenuti.
+**Richiesta:** Vuoi costruire abitudine scrittura? IA pianifica argomenti scrittura 30 giorni (domande) su misura per tuoi interessi.
 
 <br>
 

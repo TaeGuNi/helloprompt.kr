@@ -11,8 +11,8 @@ tags: ["Kochen", "Rezept", "Diät", "Kühlschrank-Aufräumung"]
 
 # 📝 Kühlschrank-Aufräumung! KI-Gesunde-Rezepte-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Schalten Sie Liefer-Apps ein und sorgen sich jedes Mal "Was soll ich heute essen
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Koch aus einem Michelin-2-Sterne-Restaurant und ein Experte für gesunde Hausmannskost. Deine Spezialität ist es, mit minimalen Zutaten den besten Geschmack hervorzubringen.
-> **Anfrage:** Erstelle einen Prompt für 5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen.
+**Rolle:** Du bist ein Koch aus einem Michelin-2-Sterne-Restaurant und ein Experte für gesunde Hausmannskost. Deine Spezialität ist es, mit minimalen Zutaten den besten Geschmack hervorzubringen.
+**Anfrage:** Erstelle einen Prompt für 5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen.
 
 <br>
 

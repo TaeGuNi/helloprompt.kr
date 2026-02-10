@@ -11,9 +11,9 @@ tags: ["EntretienBlanc", "PratiqueEntretien", "IARecruteur", "PrépEmploi"]
 
 # 📝 Simulation d'Entretien Blanc Réaliste avec une IA Possédée par un Recruteur
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur de la préparation à l'entretien est **'la pratique de parler à voix 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un recruteur de 10 ans chez `[Nom Entreprise Postulée]`. La personnalité est pointilleuse et logique, et trouve les mensonges du candidat comme un fantôme.
-> **Demande :** Donnez à l'IA une personnalité de recruteur pointilleux et pratiquez des questions sous pression en poursuivant queue après queue comme un véritable entretien.
+**Rôle :** Tu es un recruteur de 10 ans chez `[Nom Entreprise Postulée]`. La personnalité est pointilleuse et logique, et trouve les mensonges du candidat comme un fantôme.
+**Demande :** Donnez à l'IA une personnalité de recruteur pointilleux et pratiquez des questions sous pression en poursuivant queue après queue comme un véritable entretien.
 
 <br>
 

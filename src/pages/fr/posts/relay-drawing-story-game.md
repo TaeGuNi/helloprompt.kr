@@ -12,9 +12,9 @@ tags:
 
 # 📝 Tuez une heure avec une feuille de papier ! 'Histoire de Dessin de Relais'
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

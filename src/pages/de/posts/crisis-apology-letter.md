@@ -42,9 +42,9 @@ Jeder macht Fehler. Aber nicht jeder behebt sie gut. Ein Entschuldigungsschreibe
 
 Für Verspätungen oder einfache Versäumnisse.
 
-> **Rolle:** Du bist ein höflicher Geschäftsmann.
-> **Situation:** Ich war `[10 Min zu spät zum Meeting]`.
-> **Anfrage:** Schreibe eine höfliche Entschuldigungsnachricht an meinen Chef. Keine Ausreden, und füge kurz hinzu, was ich tun werde.
+**Rolle:** Du bist ein höflicher Geschäftsmann.
+**Situation:** Ich war `[10 Min zu spät zum Meeting]`.
+**Anfrage:** Schreibe eine höfliche Entschuldigungsnachricht an meinen Chef. Keine Ausreden, und füge kurz hinzu, was ich tun werde.
 
 <br>
 
@@ -84,7 +84,7 @@ Wenn Geld oder Vertrauen auf dem Spiel stehen.
 
 ### ❌ Vorher (Amateur)
 
-> Herr Schmidt, der Schnee ist zu stark, also stoppte die Lieferung. Es ist nicht meine Schuld... wie auch immer, sorry. Kommt in 3 Tagen an.
+Herr Schmidt, der Schnee ist zu stark, also stoppte die Lieferung. Es ist nicht meine Schuld... wie auch immer, sorry. Kommt in 3 Tagen an.
 
 ### ✅ Nachher (Professionelle KI)
 

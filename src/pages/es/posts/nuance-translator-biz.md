@@ -11,8 +11,8 @@ tags: ["Traducción", "Email", "InglésNegocios", "ChatGPT", "DeepL"]
 
 # 🇺🇸 Traducción Más Allá del Traductor: Arreglando el 'Matiz'
 
-> **🎯 Recomendado para:** Comerciantes sudando con los emails, PMs trabajando con desarrolladores globales
-> **⏱️ Tiempo Requerido:** 30 segundos
+**🎯 Recomendado para:** Comerciantes sudando con los emails, PMs trabajando con desarrolladores globales
+**⏱️ Tiempo Requerido:** 30 segundos
 
 - **🤖 Modelo Recomendado:** DeepL (Borrador) + ChatGPT-4o (Pulido de Matiz)
 
@@ -20,9 +20,9 @@ tags: ["Traducción", "Email", "InglésNegocios", "ChatGPT", "DeepL"]
 | :--------: | :---------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Send me the file ASAP."_
-> (Literal: Envíame el archivo lo antes posible.)
-> (Sentimiento nativo: **"Dámelo YA o muere."**)
+_"Send me the file ASAP."_
+(Literal: Envíame el archivo lo antes posible.)
+(Sentimiento nativo: **"Dámelo YA o muere."**)
 
 ¿Sabías que tu email generado por traductor podría sonar grosero? El núcleo del Inglés de Negocios no son las palabras, sino el **'Tono y Manera (Tone & Manner)'**. Usemos la IA para añadir la **'Cortesía'** y la **'Clase'** que Papago o Google Translate pierden.
 
@@ -42,9 +42,9 @@ tags: ["Traducción", "Email", "InglésNegocios", "ChatGPT", "DeepL"]
 
 Cuando apuras a alguien sin ofender.
 
-> **Rol:** Eres un Experto en Etiqueta de Negocios de EE.UU.
-> **Oración:** `[Give me the report by tomorrow.]` (Demasiado directo)
-> **Petición:** Cambia esto a una expresión **Cortés y Profesional** adecuada para un jefe o cliente. Dame 3 versiones.
+**Rol:** Eres un Experto en Etiqueta de Negocios de EE.UU.
+**Oración:** `[Give me the report by tomorrow.]` (Demasiado directo)
+**Petición:** Cambia esto a una expresión **Cortés y Profesional** adecuada para un jefe o cliente. Dame 3 versiones.
 
 <br>
 
@@ -82,13 +82,13 @@ Situaciones delicadas como Rechazo, Disculpa, Negociación.
 
 ### ❌ Antes (Konglish + Grosero)
 
-> **Yo:** "Please check attached file. If error, tell me."
-> **Receptor:** (¿Qué? ¿Es una orden?)
+**Yo:** "Please check attached file. If error, tell me."
+**Receptor:** (¿Qué? ¿Es una orden?)
 
 ### ✅ Después (Pulido IA)
 
-> **IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Receptor:** (Wow, persona educada. Revisaré de inmediato.)
+**IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Receptor:** (Wow, persona educada. Revisaré de inmediato.)
 
 ---
 

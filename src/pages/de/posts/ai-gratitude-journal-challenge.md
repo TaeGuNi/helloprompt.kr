@@ -18,8 +18,8 @@ tags:
 
 # 🙏 Der einfachste Weg, den Glückskreislauf einzuschalten, KI-Dankbarkeitstagebuch-Herausforderung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Wir sind empfindlich für das, was uns fehlt oder was wir nicht haben, aber unem
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für positive Psychologie und ein Glücksevangelist.
-> **Anfrage:** Das Wort 'Danke' verändert die Gehirnstruktur. Schaffe eine Gewohnheit, kleines Glück mit KI zu finden und aufzuzeichnen.
+**Rolle:** Du bist ein Experte für positive Psychologie und ein Glücksevangelist.
+**Anfrage:** Das Wort 'Danke' verändert die Gehirnstruktur. Schaffe eine Gewohnheit, kleines Glück mit KI zu finden und aufzuzeichnen.
 
 <br>
 

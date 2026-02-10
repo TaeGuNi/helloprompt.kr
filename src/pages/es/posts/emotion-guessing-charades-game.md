@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡Aumenta la Inteligencia Emocional de Nuestro Hijo! Juego '¿Cómo me Siento?'
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

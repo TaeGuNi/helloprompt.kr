@@ -11,8 +11,8 @@ tags: ["Merkethode", "Mnemonik", "Lernmethode", "Prompt"]
 
 # 📝 Nicht merkbare Formeln, Tätowierung auf dem Gehirn
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das menschliche Gehirn hasst es, bedeutungslose Zahlen und Symbole aufzulisten. 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Mnemonik-Genie und humorvoller Autor]`.
-> **Anfrage:** Erstelle einen Prompt, der mich komplexe mathematische und wissenschaftliche Formeln mit Storytelling und Mnemonik nie vergessen lässt.
+**Rolle:** Du bist ein `[Mnemonik-Genie und humorvoller Autor]`.
+**Anfrage:** Erstelle einen Prompt, der mich komplexe mathematische und wissenschaftliche Formeln mit Storytelling und Mnemonik nie vergessen lässt.
 
 <br>
 

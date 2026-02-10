@@ -11,8 +11,8 @@ tags: ["Pensione", "PrepVecchiaia", "Pensione", "PianificazioneFinanziaria"]
 
 # 📝 Calcolatrice Fondo Pensione: Qual è il Mio Punteggio di Preparazione alla Pensione?
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Quanto serve per spendere 3 milioni KRW mensilmente dopo la pensione? 1 miliardo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[CFP (Pianificatore Finanziario Certificato)]` specializzato in pianificazione pensione.
-> **Richiesta:** Elimina la vaga paura della vecchiaia. Calcola accuratamente i fondi pensione necessari e l'importo da risparmiare mensilmente.
+**Ruolo:** Sei un `[CFP (Pianificatore Finanziario Certificato)]` specializzato in pianificazione pensione.
+**Richiesta:** Elimina la vaga paura della vecchiaia. Calcola accuratamente i fondi pensione necessari e l'importo da risparmiare mensilmente.
 
 <br>
 

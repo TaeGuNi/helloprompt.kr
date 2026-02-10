@@ -11,8 +11,8 @@ tags: ["Excel", "AnáliseInvestimento", "VPL", "TIR"]
 
 # 📝 Análise de Viabilidade de Investimento: Excel de Cálculo Automático de VPL e TIR
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,7 +41,7 @@ Você não deve olhar apenas para o valor do lucro. Porque o valor do dinheiro m
 Use isso quando precisar apenas de um resultado rápido.
 
 - **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
-  > **Solicitação:** Devo fazer este negócio? Calcule facilmente Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), indicadores-chave de decisão de investimento, com Excel.
+  **Solicitação:** Devo fazer este negócio? Calcule facilmente Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), indicadores-chave de decisão de investimento, com Excel.
 
 <br>
 

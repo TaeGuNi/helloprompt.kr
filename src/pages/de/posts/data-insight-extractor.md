@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Erkenntnisse aus Rohdaten extrahieren
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es ist schwierig, aussagekräftige "Erkenntnisse" aus Daten wie Verkaufsdaten un
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Datenwissenschaftler.
-> **Anfrage:** Excel-Daten voller Zahlen, analysieren Sie mit KI und leiten Sie Implikationen ab.
+**Rolle:** Du bist ein Datenwissenschaftler.
+**Anfrage:** Excel-Daten voller Zahlen, analysieren Sie mit KI und leiten Sie Implikationen ab.
 
 <br>
 

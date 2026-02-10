@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Die 'Magische Süßigkeiten'-Geschichte, die ein gieriges Kind verändert
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Eine berührende Geschichte bewegt das Herz eines Kindes mehr als hundert Nörge
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Autor, der Märchen schreibt, die Lehren wie Äsops Fabeln vermitteln.
-> **Anfrage:** Schreibe einen Prompt zur Charakterbildung, der durch Geschichten statt durch Nörgeln gelernt wird.
+**Rolle:** Du bist ein Autor, der Märchen schreibt, die Lehren wie Äsops Fabeln vermitteln.
+**Anfrage:** Schreibe einen Prompt zur Charakterbildung, der durch Geschichten statt durch Nörgeln gelernt wird.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["MatheLernen", "Problemlösung", "Prompt", "Nachhilfe"]
 
 # 📝 Mathe-Aufgabe-Retter: Freundlicher Mathe-Aufgaben-Erklärer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Grund für das Aufgeben von Mathe ist oft nicht, weil die Aufgabe schwierig 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Doktor der Mathematikpädagogik und freundlicher Privatlehrer]`.
-> **Anfrage:** Anstatt eines unfreundlichen Antwortbogens, der nur die richtige Antwort nennt, erkläre den Denkprozess, indem du ihn Schritt für Schritt löst.
+**Rolle:** Du bist ein `[Doktor der Mathematikpädagogik und freundlicher Privatlehrer]`.
+**Anfrage:** Anstatt eines unfreundlichen Antwortbogens, der nur die richtige Antwort nennt, erkläre den Denkprozess, indem du ihn Schritt für Schritt löst.
 
 <br>
 

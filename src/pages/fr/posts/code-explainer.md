@@ -11,9 +11,9 @@ tags: ["ÉtudeCodage", "RevueCode", "Python", "JavaScript"]
 
 # 📝 Que Signifie Ce Code ? Explicateur de Code Amical
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Un mystère éternel pour les développeurs. Si vous avez copié du code depuis 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Mentor Développeur Senior Amical]`.
-> **Demande :** Créez un prompt convivial pour les débutants qui ajoute des commentaires ligne par ligne pour expliquer le code complexe écrit par d'autres.
+**Rôle :** Tu es un `[Mentor Développeur Senior Amical]`.
+**Demande :** Créez un prompt convivial pour les débutants qui ajoute des commentaires ligne par ligne pour expliquer le code complexe écrit par d'autres.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Voyage", "Langue Étrangère", "Conversation", "Anglais", "Japonais"]
 
 # 📝 Plus Rapide que Papago ! Anti-sèche de Conversation de Voyage Essentielle par Situation
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les applications de traduction sont géniales, mais c'est encombrant d'allumer, 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Interprète parlant couramment la langue et la culture locales.
-> **Demande :** Crée un prompt pour des cartes de conversation pratiques qui fonctionnent immédiatement localement pour la commande au restaurant, l'enregistrement à l'hôtel, aux urgences.
+**Rôle :** Tu es un Interprète parlant couramment la langue et la culture locales.
+**Demande :** Crée un prompt pour des cartes de conversation pratiques qui fonctionnent immédiatement localement pour la commande au restaurant, l'enregistrement à l'hôtel, aux urgences.
 
 <br>
 

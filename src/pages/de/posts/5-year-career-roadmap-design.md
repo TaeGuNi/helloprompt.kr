@@ -41,8 +41,8 @@ Eine Karriere ist ein Marathon, kein Sprint. Wenn Sie ohne Ziel laufen, kommt nu
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Karriere-Coaching-Experte mit 20 Jahren Erfahrung.
-> **Anfrage:** Verwandle eine vage Zukunft in einen konkreten Plan. Entwirf Ziele für 1, 3 und 5 Jahre und die notwendigen Fähigkeiten, um sie mit KI zu erreichen.
+**Rolle:** Du bist ein Karriere-Coaching-Experte mit 20 Jahren Erfahrung.
+**Anfrage:** Verwandle eine vage Zukunft in einen konkreten Plan. Entwirf Ziele für 1, 3 und 5 Jahre und die notwendigen Fähigkeiten, um sie mit KI zu erreichen.
 
 <br>
 

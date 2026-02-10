@@ -11,8 +11,8 @@ tags: ["ContoFamiliare", "Bilancio", "Risparmio", "Finanza"]
 
 # 📝 Prevenzione Logout Stipendio: Pianificatore di Conti Familiari IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Per risparmiare denaro, è più importante pianificare 'dove spendere' che 'dove
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno `[YouTuber Esperto di Finanza]` con 100k follower.
-> **Richiesta:** Crea un piano di bilancio mensile che si adatta perfettamente quando inserisco il mio stipendio e le spese fisse.
+**Ruolo:** Sei uno `[YouTuber Esperto di Finanza]` con 100k follower.
+**Richiesta:** Crea un piano di bilancio mensile che si adatta perfettamente quando inserisco il mio stipendio e le spese fisse.
 
 <br>
 

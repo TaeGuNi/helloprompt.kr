@@ -11,9 +11,9 @@ tags: ["CompteMénager", "Budget", "Épargne", "Finance"]
 
 # 📝 Prévention de la Déconnexion de Salaire : Planificateur de Compte Ménager IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Pour économiser de l'argent, il est plus important de planifier 'où dépenser'
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[YouTuber Expert en Finance]` avec 100k abonnés.
-> **Demande :** Créez un plan budgétaire mensuel parfaitement adapté lorsque j'entre mon salaire et mes dépenses fixes.
+**Rôle :** Tu es un `[YouTuber Expert en Finance]` avec 100k abonnés.
+**Demande :** Créez un plan budgétaire mensuel parfaitement adapté lorsque j'entre mon salaire et mes dépenses fixes.
 
 <br>
 

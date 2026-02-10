@@ -11,8 +11,8 @@ tags: ["FIRE", "JubilaciónAnticipada", "LibertadFinanciera", "Finanzas"]
 
 # 📝 Hoja de Ruta de la Tribu FIRE: Regla del 4% para la Jubilación Anticipada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Si quieres jubilarte en los 40, ¿cuánto deberías ahorrar ahora?"_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Mentor y Planificador Financiero]` de la comunidad de la tribu FIRE.
-> **Solicitud:** Simula el tiempo de logro de la tribu FIRE y los activos necesarios para ti que sueñas con la libertad financiera.
+**Rol:** Eres un `[Mentor y Planificador Financiero]` de la comunidad de la tribu FIRE.
+**Solicitud:** Simula el tiempo de logro de la tribu FIRE y los activos necesarios para ti que sueñas con la libertad financiera.
 
 <br>
 

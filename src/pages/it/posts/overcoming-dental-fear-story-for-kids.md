@@ -12,8 +12,8 @@ tags:
 
 # 📝 Fobia Dentale Sparita~ Operazione 'Sconfiggere i Germi della Carie'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Per favore, cambia la percezione dell'ospedale da un 'luogo doloroso' a un 'luog
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno psicoterapeuta e scrittore che elimina le paure dei bambini.
-> **Richiesta:** Fornisci una simulazione di superamento della paura per i bambini che hanno paura degli ospedali.
+**Ruolo:** Sei uno psicoterapeuta e scrittore che elimina le paure dei bambini.
+**Richiesta:** Fornisci una simulazione di superamento della paura per i bambini che hanno paura degli ospedali.
 
 <br>
 

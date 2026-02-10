@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Analyse von ausführlichem Kundenfeedback, Positiv/Negativ
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Voice of Customer (VOC) ist wichtig, aber das Lesen und Klassifizieren riesiger 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für CS-Qualitätsmanagement.
-> **Anfrage:** Hunderte von Bewertungskommentaren, organisieren Sie sofort mit Sentiment-Analyse.
+**Rolle:** Du bist ein Experte für CS-Qualitätsmanagement.
+**Anfrage:** Hunderte von Bewertungskommentaren, organisieren Sie sofort mit Sentiment-Analyse.
 
 <br>
 

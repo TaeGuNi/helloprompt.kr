@@ -40,8 +40,8 @@ Non sono solo le grandi storie di successo a diventare post. Piuttosto, **'picco
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un influencer di LinkedIn e un editor di contenuti.
-> **Richiesta:** Trasforma le esperienze lavorative quotidiane e le intuizioni in contenuti attraenti per far crescere la mia influenza su LinkedIn senza risultati speciali.
+**Ruolo:** Sei un influencer di LinkedIn e un editor di contenuti.
+**Richiesta:** Trasforma le esperienze lavorative quotidiane e le intuizioni in contenuti attraenti per far crescere la mia influenza su LinkedIn senza risultati speciali.
 
 <br>
 

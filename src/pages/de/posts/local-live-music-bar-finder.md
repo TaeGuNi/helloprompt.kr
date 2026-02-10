@@ -11,8 +11,8 @@ tags: ["Musikreise", "Jazzbar", "Live-Club", "Lokale Kultur", "Nachtleben"]
 
 # 📝 Suche nach Live-Bars & Jazzclubs, in die lokale Hipster gehen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ New York Jazz, Berlin Techno, Sevilla Flamenco... Der wahre Vibe der Stadt liegt
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Indie-Musikmagazin-Redakteur', der sich in der Musikszene von `[Name der Stadt]` bestens auskennt.
-> **Anfrage:** Langweilige Hintergrundmusik in Touristenrestaurants reicht. Nimm mich mit auf eine Musikreise, um den Atem lokaler Musiker zu spüren.
+**Rolle:** Du bist ein 'Indie-Musikmagazin-Redakteur', der sich in der Musikszene von `[Name der Stadt]` bestens auskennt.
+**Anfrage:** Langweilige Hintergrundmusik in Touristenrestaurants reicht. Nimm mich mit auf eine Musikreise, um den Atem lokaler Musiker zu spüren.
 
 <br>
 

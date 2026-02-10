@@ -11,15 +11,15 @@ tags: ["Midjourney", "设计", "封面图", "博客", "AI绘画"]
 
 # 🎨 Midjourney v7 实战：手残党也能做出高点击率“博客封面图”的公式
 
-> **🎯 推荐人群：** 文章写得好但配图太丑导致没人点的博主、厌倦了找免费素材的小编
-> **⏱️ 所需时间：** 1分钟
-> **🤖 推荐模型：** Midjourney v7 (或 Dall-E 3)
+**🎯 推荐人群：** 文章写得好但配图太丑导致没人点的博主、厌倦了找免费素材的小编
+**⏱️ 所需时间：** 1分钟
+**🤖 推荐模型：** Midjourney v7 (或 Dall-E 3)
 
 |  难度   |    效果    |   实用性   |
 | :-----: | :--------: | :--------: |
 | ⭐⭐☆☆☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"文章内容很完美……但这封面图是什么鬼？"_
+_"文章内容很完美……但这封面图是什么鬼？"_
 
 博客流量的80%取决于标题和封面图。免费素材(Unsplash)太俗套，自己画又不会PS。现在，交给 **AI画家** 吧。利用2026年最新版 **Midjourney v7**，教你一套能生成媲美专业设计师的高质量插图的公式。
 
@@ -39,8 +39,8 @@ tags: ["Midjourney", "设计", "封面图", "博客", "AI绘画"]
 
 最近流行的干净清爽的 Notion/Toss 风格。
 
-> **提示词 (Prompt):**
-> `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+**提示词 (Prompt):**
+`cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
 <br>
 
@@ -48,16 +48,16 @@ tags: ["Midjourney", "设计", "封面图", "博客", "AI绘画"]
 
 将抽象主题（如：商业、AI、成功）可视化。
 
-> **结构 (Structure):**
-> `[Subject] + [Art Style] + [Color Palette] + [Lighting] + [Parameters]`
->
-> **示例 (主题: AI与人类的协作):**
-> `futuristic robot hand shaking human hand, digital art style, neon cyan and magenta color palette, cinematic lighting, glowing particles, hyper-detailed, 8k resolution --ar 16:9 --v 6.0`
->
-> **任务 (Task):**
-> 如果觉得写提示词很难，可以这样问 ChatGPT：
->
-> "你是 Midjourney 提示词专家。我的博客文章主题是 `[上班族理财技巧]`。请为这个主题写3个 **‘吸睛(Eye-catching)’** 的 Midjourney 英文提示词。一个3D风格，一个插画风格。"
+**结构 (Structure):**
+`[Subject] + [Art Style] + [Color Palette] + [Lighting] + [Parameters]`
+
+**示例 (主题: AI与人类的协作):**
+`futuristic robot hand shaking human hand, digital art style, neon cyan and magenta color palette, cinematic lighting, glowing particles, hyper-detailed, 8k resolution --ar 16:9 --v 6.0`
+
+**任务 (Task):**
+如果觉得写提示词很难，可以这样问 ChatGPT：
+
+"你是 Midjourney 提示词专家。我的博客文章主题是 `[上班族理财技巧]`。请为这个主题写3个 **‘吸睛(Eye-catching)’** 的 Midjourney 英文提示词。一个3D风格，一个插画风格。"
 
 ---
 

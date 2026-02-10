@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¿List? ¿Map? ¿Set? Prescripción de Estructura de Datos para la Decisión
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -48,8 +48,8 @@ Si ingresas la situación, sopesamos la complejidad temporal y la eficiencia esp
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Profesor de Ciencias de la Computación y Experto en Algoritmos.
-> **Solicitud:** ¿Preocupado por qué estructura de datos usar para almacenar datos? Crea un prompt que recomiende la estructura de datos óptima perfectamente adecuada para la situación.
+**Rol:** Eres un Profesor de Ciencias de la Computación y Experto en Algoritmos.
+**Solicitud:** ¿Preocupado por qué estructura de datos usar para almacenar datos? Crea un prompt que recomiende la estructura de datos óptima perfectamente adecuada para la situación.
 
 <br>
 

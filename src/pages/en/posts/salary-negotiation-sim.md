@@ -11,7 +11,7 @@ tags: ["Salary", "Negotiation", "Interview", "Roleplay", "CareerGrowth"]
 
 # 🥊 Salary Negotiation Simulator: Sparring with an Evil HR
 
-> **🎯 Recommended for:** Pushovers who say "I'll take whatever" and regret later, Job seekers
+**🎯 Recommended for:** Pushovers who say "I'll take whatever" and regret later, Job seekers
 
 - **⏱️ Time Required:** 10 mins (Mock Battle)
 - **🤖 Recommended Model:** ChatGPT-4o (Voice Mode Highly Recommended)
@@ -20,8 +20,8 @@ tags: ["Salary", "Negotiation", "Interview", "Roleplay", "CareerGrowth"]
 | :--------: | :-----------: | :-------: |
 |  ⭐⭐☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐☆ |
 
-> _"What is your expected salary?"_
-> _"Um... uh... I follow company rules..."_
+_"What is your expected salary?"_
+_"Um... uh... I follow company rules..."_
 
 If you flinch at the table, you lose. But who can you practice with? Friends laugh, and mirrors are awkward. Now, let's **possess AI into a Stingy HR Manager** and spar like it's real. Get beaten virtually so you don't get beaten in reality.
 
@@ -78,16 +78,16 @@ Turn on ChatGPT App's **Voice Mode (Headphone Icon)**. This is the real deal.
 
 ### ❌ Before (No Prep)
 
-> **HR:** "50k is difficult due to equity issues..."
-> **Me:** "Ah... okay... then 45k...?"
-> (Result: Salary Frozen 📉)
+**HR:** "50k is difficult due to equity issues..."
+**Me:** "Ah... okay... then 45k...?"
+(Result: Salary Frozen 📉)
 
 ### ✅ After (Fought AI 10 times)
 
-> **HR:** "50k is difficult due to equity issues..."
-> **Me:** "I fully understand. However, considering I increased revenue by 20% in my last project, this figure is a reasonable investment compared to market average. If base salary is burdensome, can we discuss Signing Bonus or Stock Options?"
-> **HR:** (Eyes shaking) "...Let me check with the Director."
-> (Result: 20% Increase 📈)
+**HR:** "50k is difficult due to equity issues..."
+**Me:** "I fully understand. However, considering I increased revenue by 20% in my last project, this figure is a reasonable investment compared to market average. If base salary is burdensome, can we discuss Signing Bonus or Stock Options?"
+**HR:** (Eyes shaking) "...Let me check with the Director."
+(Result: 20% Increase 📈)
 
 ---
 

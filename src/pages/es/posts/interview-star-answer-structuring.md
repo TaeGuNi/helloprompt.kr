@@ -40,8 +40,8 @@ La razón de la mayoría de los fracasos de entrevistas es **'incoherencia'**. E
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un entrenador de discurso y consultor de entrevistas.
-> **Solicitud:** Para aquellos que hablan mucho y pierden el punto al recibir preguntas, limpia todas las preguntas de experiencia con STAR (Situación-Tarea-Acción-Resultado).
+**Rol:** Eres un entrenador de discurso y consultor de entrevistas.
+**Solicitud:** Para aquellos que hablan mucho y pierden el punto al recibir preguntas, limpia todas las preguntas de experiencia con STAR (Situación-Tarea-Acción-Resultado).
 
 <br>
 

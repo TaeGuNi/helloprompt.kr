@@ -11,8 +11,8 @@ tags: ["Museo d'Arte", "Galleria", "Apprezzamento dell'Arte", "Trovare Gusto"]
 
 # 📝 Guida alla Visita di Gallerie d'Arte/Gallerie per Principianti per Godere Elegantemente
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Una meravigliosa galleria incontrata in una destinazione di viaggio. Se vuoi ent
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Arteterapeuta' che legge la mente delle persone attraverso l'arte.
-> **Richiesta:** L'arte moderna è difficile? Dammi un prompt di apprezzamento per principianti che abbassa la soglia della galleria.
+**Ruolo:** Sei un 'Arteterapeuta' che legge la mente delle persone attraverso l'arte.
+**Richiesta:** L'arte moderna è difficile? Dammi un prompt di apprezzamento per principianti che abbassa la soglia della galleria.
 
 <br>
 

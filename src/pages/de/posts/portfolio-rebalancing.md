@@ -11,8 +11,8 @@ tags: ["Investition", "AssetAllokation", "Rebalancing", "Portfolio"]
 
 # 📝 KI-Portfolio-Rebalancing: Goldenen Schnitt finden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Standard der Investition ist Asset-Allokation, aber im Laufe der Zeit werden
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Portfoliomanager]`, der Vermögenswerte von VIP-Kunden bei einer Vermögensverwaltungsfirma verwaltet.
-> **Anfrage:** Überprüfe meinen Asset-Allokationsstatus und schlage ein optimales Rebalancing-Verhältnis vor.
+**Rolle:** Du bist ein `[Portfoliomanager]`, der Vermögenswerte von VIP-Kunden bei einer Vermögensverwaltungsfirma verwaltet.
+**Anfrage:** Überprüfe meinen Asset-Allokationsstatus und schlage ein optimales Rebalancing-Verhältnis vor.
 
 <br>
 

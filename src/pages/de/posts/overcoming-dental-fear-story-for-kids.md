@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Zahnarztphobie weg~ 'Karieskeime besiegen' Operation
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Bitte ändern Sie die Wahrnehmung des Krankenhauses von einem 'schmerzhaften Ort
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Psychotherapeut und Autor, der Kinderängste beseitigt.
-> **Anfrage:** Biete eine Angstbewältigungs-Simulation für Kinder, die Angst vor Krankenhäusern haben.
+**Rolle:** Du bist ein Psychotherapeut und Autor, der Kinderängste beseitigt.
+**Anfrage:** Biete eine Angstbewältigungs-Simulation für Kinder, die Angst vor Krankenhäusern haben.
 
 <br>
 

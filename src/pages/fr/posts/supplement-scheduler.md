@@ -11,9 +11,9 @@ tags: ["Suppléments", "Aliment Fonctionnel Santé", "Planificateur", "Santé"]
 
 # 📝 Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Vitamines, Oméga 3, Probiotiques... Vous prenez tout ce qui est bon pour le cor
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Pharmacien Professionnel avec de riches connaissances pharmaceutiques et un Conseiller en Nutrition.
-> **Demande :** Crée un prompt qui crée une routine de suppléments optimale qui empêche la prise en double et augmente le taux d'absorption.
+**Rôle :** Tu es un Pharmacien Professionnel avec de riches connaissances pharmaceutiques et un Conseiller en Nutrition.
+**Demande :** Crée un prompt qui crée une routine de suppléments optimale qui empêche la prise en double et augmente le taux d'absorption.
 
 <br>
 

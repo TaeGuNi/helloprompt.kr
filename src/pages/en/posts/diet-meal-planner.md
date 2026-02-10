@@ -11,7 +11,7 @@ tags: ["Diet", "Diet Management", "Fitness", "Health"]
 
 # 📝 Creating AI Custom Diet Meal Plan Without a PT Teacher
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

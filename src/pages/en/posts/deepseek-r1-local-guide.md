@@ -11,7 +11,7 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Productivity"]
 
 # 💻 Your Free Coding Slave on PC: DeepSeek R1 Local Install Guide
 
-> **🎯 Recommended for:** Developers worried about leaking company code, Students saving API costs, Offline workers
+**🎯 Recommended for:** Developers worried about leaking company code, Students saving API costs, Offline workers
 
 - **⏱️ Time Required:** 10 mins
 - **🤖 Recommended Model:** DeepSeek-R1-Distill-Llama-8B (or 70B)
@@ -20,7 +20,7 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Productivity"]
 | :--------: | :-----------: | :--------: |
 |  ⭐⭐☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-> _"Can't paste company code into ChatGPT because of security policies? But hate using dumb legacy models? Now, lock **DeepSeek R1** in your computer and make it work for you. 100% Free, 100% Private."_
+_"Can't paste company code into ChatGPT because of security policies? But hate using dumb legacy models? Now, lock **DeepSeek R1** in your computer and make it work for you. 100% Free, 100% Private."_
 
 In 2026, the hottest keyword among developers is **"Local LLM"**. Among them, **DeepSeek R1** is showing insane performance (especially coding skills), often called "Open Source's Mistake". This guide shows you the easiest way to install DeepSeek on your Mac (or Windows PC).
 
@@ -86,8 +86,8 @@ Chatting in the terminal isn't cool enough. Let's attach it to **VS Code** and m
 4.  Select `DeepSeek R1` as Model. (Autodetect works too)
 5.  Now drag code and press `Cmd + L` (Win: `Ctrl + L`) to ask.
 
-> **Q:** "Refactor this function."
-> **A:** (DeepSeek spits out code instantly)
+**Q:** "Refactor this function."
+**A:** (DeepSeek spits out code instantly)
 
 ---
 

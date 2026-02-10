@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 'Magische Fragen', die Kinder zum Lernen bringen, ohne 'Lern' zu sagen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Anweisungen rufen Widerstand hervor, aber Fragen rufen Gedanken hervor. Stellen 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein lernpsychologischer Berater.
-> **Anfrage:** Biete Gesprächstechniken, damit sich ein Kind von selbst an den Schreibtisch setzt, ohne es zu zwingen.
+**Rolle:** Du bist ein lernpsychologischer Berater.
+**Anfrage:** Biete Gesprächstechniken, damit sich ein Kind von selbst an den Schreibtisch setzt, ohne es zu zwingen.
 
 <br>
 

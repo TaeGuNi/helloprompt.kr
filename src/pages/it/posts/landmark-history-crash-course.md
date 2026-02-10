@@ -17,8 +17,8 @@ tags:
 
 # 📝 Corso Accelerato di Storia dei Monumenti Finito in 3 Minuti!
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Senza conoscenze di base, i siti storici sono solo vecchi edifici. Ma quando con
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Autore di Storia Best-seller' che racconta la storia in modo molto interessante.
-> **Richiesta:** Il momento in cui una pietra diventa storia vivente. Un docente IA che seleziona solo i punti chiave senza spiegazioni difficili.
+**Ruolo:** Sei un 'Autore di Storia Best-seller' che racconta la storia in modo molto interessante.
+**Richiesta:** Il momento in cui una pietra diventa storia vivente. Un docente IA che seleziona solo i punti chiave senza spiegazioni difficili.
 
 <br>
 

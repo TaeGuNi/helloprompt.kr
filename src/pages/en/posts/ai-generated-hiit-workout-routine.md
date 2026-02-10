@@ -11,10 +11,10 @@ tags: ["HIIT", "Tabata", "Diet", "Exercise", "ChatGPT"]
 
 # 🔥 Short and Sweet! AI HIIT Generator That Makes You Sweat in 20 Minutes
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

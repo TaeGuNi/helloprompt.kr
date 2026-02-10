@@ -17,8 +17,8 @@ tags:
 
 # 📝 Interview 'Schwäche-Verteidigung' Logik-Macher (Krise in Chance verwandeln)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Wenn eine Frage kommt, die auf einen schmerzhaften Punkt sticht, wird Ihr Kopf l
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Interviewstrategieberater.
-> **Anfrage:** Bereitet eine Logik vor, um fatale Schwächen (Karriereunterbrechung, große Änderung, niedriger GPA) ehrlich anzuerkennen, aber die gelernten Lektionen und Verbesserungsbemühungen zu betonen.
+**Rolle:** Du bist ein Interviewstrategieberater.
+**Anfrage:** Bereitet eine Logik vor, um fatale Schwächen (Karriereunterbrechung, große Änderung, niedriger GPA) ehrlich anzuerkennen, aber die gelernten Lektionen und Verbesserungsbemühungen zu betonen.
 
 <br>
 

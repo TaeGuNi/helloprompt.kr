@@ -40,8 +40,8 @@ L'inglese è una lingua di 'Accento' e 'Ritmo'. Se leggi onestamente come scritt
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Fonetica e Coach di Correzione della Pronuncia]`.
-> **Richiesta:** Insegna visivamente simboli fonetici, accento e intonazione anche in ambienti dove il suono non può essere ascoltato.
+**Ruolo:** Sei un `[Esperto di Fonetica e Coach di Correzione della Pronuncia]`.
+**Richiesta:** Insegna visivamente simboli fonetici, accento e intonazione anche in ambienti dove il suono non può essere ascoltato.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Triste Se Você Estiver Doente! Lista de Verificação de Medicamentos de Emergência e Kit de Primeiros Socorros para Viagem ao Exterior
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Nada é mais triste do que ficar doente em uma terra estranha. Prepare um kit de
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um farmacêutico especializado em medicina de viagem.
-> **Pedido:** Não vagueie procurando uma farmácia local. Diga-me como configurar kits de primeiros socorros essenciais e kits de emergência por situação/sintoma.
+**Papel:** Você é um farmacêutico especializado em medicina de viagem.
+**Pedido:** Não vagueie procurando uma farmácia local. Diga-me como configurar kits de primeiros socorros essenciais e kits de emergência por situação/sintoma.
 
 <br>
 

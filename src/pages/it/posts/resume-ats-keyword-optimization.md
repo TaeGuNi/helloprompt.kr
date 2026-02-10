@@ -40,8 +40,8 @@ Molte aziende usano ATS (Sistema Tracciamento Candidati) per vagliare curriculum
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto algoritmo ATS (Sistema Tracciamento Candidati) ed editore curriculum.
-> **Richiesta:** Scioglie naturalmente parole chiave che piacciono a sistema reclutamento (ATS) nel curriculum per prevenire eliminazione automatica documenti.
+**Ruolo:** Sei un esperto algoritmo ATS (Sistema Tracciamento Candidati) ed editore curriculum.
+**Richiesta:** Scioglie naturalmente parole chiave che piacciono a sistema reclutamento (ATS) nel curriculum per prevenire eliminazione automatica documenti.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 🏠 Sfuggire all'Abbandono del 3° Giorno! Sfida di Allenamento a Casa di 30 Giorni con IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ I più grandi nemici degli allenamenti a casa sono la 'noia' e la 'mancanza di p
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un coach esperto di allenamento a casa. Eccelli nella creazione di programmi che producono i migliori risultati con solo il peso corporeo senza attrezzature.
-> **Richiesta:** Un miracolo fatto solo con il mio corpo a casa senza attrezzature speciali. Progetta una routine di allenamento di 30 giorni che cambia ogni giorno.
+**Ruolo:** Sei un coach esperto di allenamento a casa. Eccelli nella creazione di programmi che producono i migliori risultati con solo il peso corporeo senza attrezzature.
+**Richiesta:** Un miracolo fatto solo con il mio corpo a casa senza attrezzature speciali. Progetta una routine di allenamento di 30 giorni che cambia ogni giorno.
 
 <br>
 

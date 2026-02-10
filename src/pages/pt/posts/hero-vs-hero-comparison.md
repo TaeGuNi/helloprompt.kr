@@ -11,8 +11,8 @@ tags: ["História", "AnálisePessoa", "CulturaComparativa", "Prompt"]
 
 # 📝 Herói vs Herói: Análise Comparativa de Rivais do Século
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ A história se repete. Existem figuras que viveram em épocas e lugares completa
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Historiador Comparativo e Crítico de Pessoas]`.
-> **Solicitação:** Combine grandes figuras de diferentes épocas e países 1:1 para analisar semelhanças e diferenças.
+**Papel:** Você é um `[Historiador Comparativo e Crítico de Pessoas]`.
+**Solicitação:** Combine grandes figuras de diferentes épocas e países 1:1 para analisar semelhanças e diferenças.
 
 <br>
 

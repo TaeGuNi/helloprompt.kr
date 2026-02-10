@@ -11,8 +11,8 @@ tags: ["Versicherung", "Finanzen", "Sparen", "Deckungsanalyse"]
 
 # 📝 Versicherungsdiät: Doppelte Deckung finden und Prämie halbieren
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Viele Menschen denken "Reicht eine Entschädigungsversicherung?" oder umgekehrt 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein objektiver `[Versicherungsanalyse-Experte]`. Rate vom Standpunkt des Geldsparens für den Kunden, nicht Planer.
-> **Anfrage:** Ist meine Versicherung sicher? Führe Analysemethode ein, um Deckung zu behalten und nur unnötige Prämien zu entfernen.
+**Rolle:** Du bist ein objektiver `[Versicherungsanalyse-Experte]`. Rate vom Standpunkt des Geldsparens für den Kunden, nicht Planer.
+**Anfrage:** Ist meine Versicherung sicher? Führe Analysemethode ein, um Deckung zu behalten und nur unnötige Prämien zu entfernen.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Sensación Espacial Abrumadora: Gran Angular & Ojo de Pez
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"Quiero capturar este enorme paisaje en una sola toma pero sigue cortándose."_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea prompts de lentes Gran Angular y Ojo de Pez que capturen espacios estrechos ampliamente y paisajes magníficos de un vistazo.
+**Rol:** Eres un experto.
+**Solicitud:** Crea prompts de lentes Gran Angular y Ojo de Pez que capturen espacios estrechos ampliamente y paisajes magníficos de un vistazo.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Spaceship cockpit.`
 
-> (Resultado: Ángulo que parece sofocante con solo una parte de la cabina cortada)
+(Resultado: Ángulo que parece sofocante con solo una parte de la cabina cortada)
 
 ### ✅ Después (Resultado)
 
 Prompt `Wide angle` aplicado
 
-> (Resultado: Imagen magnífica que se extiende genialmente a toda la cabina y la tierra fuera de la ventana)
+(Resultado: Imagen magnífica que se extiende genialmente a toda la cabina y la tierra fuera de la ventana)
 
 ---
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Aumento della Concentrazione del 200%! Gioco 'Simone Dice' Migliorato
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Aggiungi la creatività dell'IA al tradizionale gioco 'Simone Dice'. Eseguendo m
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un insegnante di educazione fisica che aiuta lo sviluppo fisico e la rotazione cerebrale dei bambini.
-> **Richiesta:** Migliora la concentrazione e il controllo fisico di mio figlio con missioni stravaganti create dall'IA.
+**Ruolo:** Sei un insegnante di educazione fisica che aiuta lo sviluppo fisico e la rotazione cerebrale dei bambini.
+**Richiesta:** Migliora la concentrazione e il controllo fisico di mio figlio con missioni stravaganti create dall'IA.
 
 <br>
 

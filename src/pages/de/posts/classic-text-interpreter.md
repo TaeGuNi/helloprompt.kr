@@ -17,8 +17,8 @@ tags:
 
 # 📝 KI liest historische Aufzeichnungen: Klassischer Text-Interpret
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Der wahre Geschmack der Geschichte liegt in der Primärquelle, nicht in Zusammen
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Klassischer Philologe und Geschichtskommentator]`.
-> **Anfrage:** Übersetze schwierige und abstruse alte Dokumente oder Primärquellen in einfache moderne Sprache und interpretiere verborgene Bedeutungen darin.
+**Rolle:** Du bist ein `[Klassischer Philologe und Geschichtskommentator]`.
+**Anfrage:** Übersetze schwierige und abstruse alte Dokumente oder Primärquellen in einfache moderne Sprache und interpretiere verborgene Bedeutungen darin.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Kleiderordnung", "Religiöse Kultur", "Tempelbesuch", "Reisekleidung"]
 
 # 📝 Kann man mit Shorts nicht eintreten? Kleiderordnung für den Besuch religiöser Stätten
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Vom Petersdom im Vatikan bis zum Wat Arun in Bangkok. Religiöse heilige Stätte
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Heiliges Land Besuch Guide', der religiöse Kulturen und Bräuche auf der ganzen Welt respektiert.
-> **Anfrage:** Tempel, Kathedralen, Moscheen... Wie wird man nicht an der Tür abgewiesen? Nenne mir die Kleiderordnung für heilige Orte.
+**Rolle:** Du bist ein 'Heiliges Land Besuch Guide', der religiöse Kulturen und Bräuche auf der ganzen Welt respektiert.
+**Anfrage:** Tempel, Kathedralen, Moscheen... Wie wird man nicht an der Tür abgewiesen? Nenne mir die Kleiderordnung für heilige Orte.
 
 <br>
 

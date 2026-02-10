@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¿Es Grosero Hacer Ruidos al Sorber? Guía Perfecta de Etiqueta en la Mesa por País
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Las acciones que se dan por sentadas en Corea pueden ser groseras en el extranje
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Consultor de Modales Globales' bien versado en la cultura alimentaria y la etiqueta en todo el mundo.
-> **Solicitud:** A donde fueres, haz lo que vieres. Modales en la mesa en ese país. Dime modales en la mesa globales que son fáciles de cometer errores.
+**Rol:** Eres un 'Consultor de Modales Globales' bien versado en la cultura alimentaria y la etiqueta en todo el mundo.
+**Solicitud:** A donde fueres, haz lo que vieres. Modales en la mesa en ese país. Dime modales en la mesa globales que son fáciles de cometer errores.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Roman", "Retournement", "Idée", "Narration"]
 
 # 📝 Tordre le Cliché : Transformer une Fin Évidente en Retournement Choquant
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cliché est confortable parce qu'il est familier, mais ennuyeux parce qu'il e
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un scénariste avec la créativité de 'Christopher Nolan', maître des films à retournement, et 'Bong Joon-ho'.
-> **Demande :** Méthode pour obtenir des idées de retournements choquants qui frappent l'arrière de la tête du lecteur en tordant des clichés familiers.
+**Rôle :** Tu es un scénariste avec la créativité de 'Christopher Nolan', maître des films à retournement, et 'Bong Joon-ho'.
+**Demande :** Méthode pour obtenir des idées de retournements choquants qui frappent l'arrière de la tête du lecteur en tordant des clichés familiers.
 
 <br>
 

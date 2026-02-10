@@ -11,8 +11,8 @@ tags: ["Regex", "Expresión Regular", "Productividad Dev"]
 
 # 📝 Pesadilla de Regex, ahora déjaselo a la IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las Expresiones Regulares (Regex) son esenciales para los desarrolladores, pero 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Desarrollador Senior]`.
-> **Solicitud:** Crea un prompt que genere código para expresiones regulares crípticas simplemente explicando el patrón.
+**Rol:** Eres un `[Desarrollador Senior]`.
+**Solicitud:** Crea un prompt que genere código para expresiones regulares crípticas simplemente explicando el patrón.
 
 <br>
 

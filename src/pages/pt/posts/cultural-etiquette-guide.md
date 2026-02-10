@@ -40,8 +40,8 @@ Quando estiver em Roma, faça como os romanos. Mas o problema é não saber o qu
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Antropólogo Cultural e Instrutor Profissional de Etiqueta Global.
-> **Solicitação:** Crie um prompt sobre como não ser um viajante rude localmente, incluindo quanto de gorjeta e como gesticular.
+**Papel:** Você é um Antropólogo Cultural e Instrutor Profissional de Etiqueta Global.
+**Solicitação:** Crie um prompt sobre como não ser um viajante rude localmente, incluindo quanto de gorjeta e como gesticular.
 
 <br>
 

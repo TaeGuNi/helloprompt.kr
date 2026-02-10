@@ -11,8 +11,8 @@ tags: ["Legge", "Contratto", "Legge di Vita"]
 
 # 📝 Traduci Termini Legali Alieni In Modo Che Anche gli Studenti delle Elementari Capiscano
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -24,7 +24,7 @@ _"Devi timbrare il contratto, ma hai paura delle scritte in piccolo e di parole 
 
 La legge non protegge chi dorme sui propri diritti, ma è troppo dura per chi non conosce la legge. Non rinunciare ai tuoi diritti a causa di termini legali difficili e frasi complesse. Un avvocato IA interpreterà gentilmente al tuo fianco.
 
-> ⚠️ **Attenzione:** La risposta dell'IA è solo di riferimento e non ha effetto legale. Assicurati di consultare un esperto (avvocato, notaio) per contratti importanti.
+⚠️ **Attenzione:** La risposta dell'IA è solo di riferimento e non ha effetto legale. Assicurati di consultare un esperto (avvocato, notaio) per contratti importanti.
 
 ---
 
@@ -42,8 +42,8 @@ La legge non protegge chi dorme sui propri diritti, ma è troppo dura per chi no
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Avvocato Gentile]`.
-> **Richiesta:** Crea un prompt che interpreti documenti legali difficili come contratti di locazione e termini di servizio in parole semplici e trovi clausole tossiche.
+**Ruolo:** Sei un `[Avvocato Gentile]`.
+**Richiesta:** Crea un prompt che interpreti documenti legali difficili come contratti di locazione e termini di servizio in parole semplici e trovi clausole tossiche.
 
 <br>
 

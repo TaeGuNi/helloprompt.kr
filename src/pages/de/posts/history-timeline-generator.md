@@ -12,8 +12,8 @@ tags:
 
 # 📝 Fluss auf einen Blick: Historischer Zeitlinien-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Geschichte ist kein 'Punkt', sondern eine 'Linie'. Wenn man einzelne Ereignisse 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Historiker und Datenvisualisierungsexperte]`.
-> **Anfrage:** Erstelle einen Prompt, der Ordnung und kausale Beziehung komplexer Ereignisse in eine ordentliche Zeitlinie organisiert.
+**Rolle:** Du bist ein `[Historiker und Datenvisualisierungsexperte]`.
+**Anfrage:** Erstelle einen Prompt, der Ordnung und kausale Beziehung komplexer Ereignisse in eine ordentliche Zeitlinie organisiert.
 
 <br>
 

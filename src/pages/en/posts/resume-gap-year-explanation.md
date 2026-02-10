@@ -11,7 +11,7 @@ tags: ["GapYear", "CareerBreak", "InterviewPrep", "CoverLetterComment"]
 
 # 📝 How to Turn Resume Gap Year into 'Strength' not Weakness
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Surmonter la Phobie de la Présentation ! Créer des Scripts de Présentation
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Il y a de nombreux cas où les supports de présentation sont excellents mais g�
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Coach Professionnel de TED Talk.
-> **Demande :** Générer des scripts de présentation naturels par diapositive PPT.
+**Rôle :** Tu es un Coach Professionnel de TED Talk.
+**Demande :** Générer des scripts de présentation naturels par diapositive PPT.
 
 <br>
 

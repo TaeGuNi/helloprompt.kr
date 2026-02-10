@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Landschaft"]
 
 # 📝 Überwältigendes Raumgefühl: Wide Angle & Fisheye
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte diese riesige Landschaft in einer Aufnahme einfangen, aber sie wir
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie Weitwinkel- und Fischaugenobjektiv-Prompts, die enge Räume weit und prächtige Landschaften auf einen Blick einfangen.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie Weitwinkel- und Fischaugenobjektiv-Prompts, die enge Räume weit und prächtige Landschaften auf einen Blick einfangen.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Spaceship cockpit.`
 
-> (Ergebnis: Winkel wirkt stickig, da nur ein Teil des Cockpits abgeschnitten ist)
+(Ergebnis: Winkel wirkt stickig, da nur ein Teil des Cockpits abgeschnitten ist)
 
 ### ✅ Nachher (Ergebnis)
 
 `Wide angle` Prompt angewendet
 
-> (Ergebnis: Prächtiges Bild, das sich kühl über das gesamte Cockpit und die Erde außerhalb des Fensters ausbreitet)
+(Ergebnis: Prächtiges Bild, das sich kühl über das gesamte Cockpit und die Erde außerhalb des Fensters ausbreitet)
 
 ---
 

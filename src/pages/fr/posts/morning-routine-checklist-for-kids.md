@@ -12,9 +12,9 @@ tags:
 
 # 📝 Vous ne voulez pas crier 'Dépêche-toi !' tous les matins ? Jeu de Routine
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

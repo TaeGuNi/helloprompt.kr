@@ -12,8 +12,8 @@ tags:
 
 # 📝 Senso Espacial Avassalador: Grande Angular & Olho de Peixe
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero capturar essa paisagem enorme em uma foto, mas continua cortando."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie prompts de lente Grande Angular e Olho de Peixe que capturem espaços estreitos amplamente e paisagens magníficas de relance.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie prompts de lente Grande Angular e Olho de Peixe que capturem espaços estreitos amplamente e paisagens magníficas de relance.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Spaceship cockpit.`
 
-> (Resultado: Ângulo parecendo abafado com apenas uma parte do cockpit cortada)
+(Resultado: Ângulo parecendo abafado com apenas uma parte do cockpit cortada)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Wide angle` aplicado
 
-> (Resultado: Imagem magnífica se espalhando friamente para todo o cockpit e a terra fora da janela)
+(Resultado: Imagem magnífica se espalhando friamente para todo o cockpit e a terra fora da janela)
 
 ---
 

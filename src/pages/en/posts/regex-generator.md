@@ -11,7 +11,7 @@ tags: ["Regex", "Regular Expression", "Dev Productivity"]
 
 # 📝 Regex Nightmare, Now Offload to AI
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Calor do Papel: Recorte de Papel & Origami
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero dar uma sensação de livro ilustrado tridimensional feito cortando e so
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de estilo Recorte de Papel e Origami que pareça cortar e colar várias camadas de papel.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de estilo Recorte de Papel e Origami que pareça cortar e colar várias camadas de papel.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Hills and house drawing.`
 
-> (Resultado: Ilustração 2D comum)
+(Resultado: Ilustração 2D comum)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Paper cutout` aplicado
 
-> (Resultado: Trabalho de artesanato em papel que parece tridimensional como se fosse saltar devido às sombras, e parece áspero se tocado)
+(Resultado: Trabalho de artesanato em papel que parece tridimensional como se fosse saltar devido às sombras, e parece áspero se tocado)
 
 ---
 

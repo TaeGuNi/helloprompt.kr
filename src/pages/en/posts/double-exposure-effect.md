@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 
 # 📝 Overlapped World: Double Exposure
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Woman and forest mixed.`
 
-> (Result: Bizarre photo where a woman stands in a forest or a tree is drawn on her face)
+(Result: Bizarre photo where a woman stands in a forest or a tree is drawn on her face)
 
 ### ✅ After (Result)
 
 `Double exposure` prompt applied
 
-> (Result: Poetic composite art where woman's hair becomes trees and nape becomes mountain ridge)
+(Result: Poetic composite art where woman's hair becomes trees and nape becomes mountain ridge)
 
 ---
 

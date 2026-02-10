@@ -41,8 +41,8 @@ La clave para unos hábitos alimenticios saludables es la **planificación**. Si
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un nutricionista clínico y entrenador personal con 10 años de experiencia. Eres un experto en crear planes de comidas nutricionalmente equilibrados y realizables.
-> **Solicitud:** Presenta cómo usar la IA como nutricionista personal para configurar un plan de comidas semanal que se adapte perfectamente a mis objetivos y gustos.
+**Rol:** Eres un nutricionista clínico y entrenador personal con 10 años de experiencia. Eres un experto en crear planes de comidas nutricionalmente equilibrados y realizables.
+**Solicitud:** Presenta cómo usar la IA como nutricionista personal para configurar un plan de comidas semanal que se adapte perfectamente a mis objetivos y gustos.
 
 <br>
 

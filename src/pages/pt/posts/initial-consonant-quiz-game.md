@@ -18,8 +18,8 @@ tags:
 
 # 📝 Vocabulário dispara! 'Batalha de Quiz de Letra Inicial' com IA
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

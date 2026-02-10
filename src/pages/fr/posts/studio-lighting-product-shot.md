@@ -39,8 +39,8 @@ C'est l' **Éclairage de Studio** qui supprime le désordre de l'arrière-plan e
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Configurez l'éclairage de studio pour des photos de produits ou des profils propres et professionnels.
+**Rôle :** Tu es un expert.
+**Demande :** Configurez l'éclairage de studio pour des photos de produits ou des profils propres et professionnels.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Perfume bottle on table.`
 
-> (Résultat : Photo avec un sens de la vie comme si elle était placée sur une table à manger à la maison)
+(Résultat : Photo avec un sens de la vie comme si elle était placée sur une table à manger à la maison)
 
 ### ✅ Après (Résultat)
 
 Prompt `Studio lighting` appliqué
 
-> (Résultat : Image de qualité publicitaire de grand magasin vantant une réflexion et une transparence parfaites)
+(Résultat : Image de qualité publicitaire de grand magasin vantant une réflexion et une transparence parfaites)
 
 ---
 

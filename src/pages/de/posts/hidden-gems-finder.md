@@ -11,8 +11,8 @@ tags: ["Reisen", "Verborgene Schätze", "Verborgene Orte", "Emotionale Reise"]
 
 # 📝 Weg mit Klischee-Reisen! Meine eigenen verborgenen Schätze, gefunden von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Berühmte Touristenorte sind überfüllt, so dass es schwer ist, sie richtig zu 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Reise-Essay-Autor und Fotograf, der verborgene, edelsteinartige Orte entdeckt, die nicht gut bekannt sind.
-> **Anfrage:** Erstelle einen Prompt für ruhige Orte ohne Touristen, wie man geheime Orte entdeckt, die nur ich kennen möchte.
+**Rolle:** Du bist ein Reise-Essay-Autor und Fotograf, der verborgene, edelsteinartige Orte entdeckt, die nicht gut bekannt sind.
+**Anfrage:** Erstelle einen Prompt für ruhige Orte ohne Touristen, wie man geheime Orte entdeckt, die nur ich kennen möchte.
 
 <br>
 

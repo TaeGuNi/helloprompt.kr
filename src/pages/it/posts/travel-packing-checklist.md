@@ -11,8 +11,8 @@ tags: ["Viaggi", "Imballaggio", "Lista di Controllo", "Preparazione"]
 
 # 📝 Non Sai Cosa Mettere in Valigia? Imballaggio Intelligente IA per Destinazione di Viaggio
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Dilemma dell'imballaggio di viaggio: Se imballi meticolosamente, c'è troppo bag
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Viaggiatore Pro che ha viaggiato per il mondo e un Maestro dell'Imballaggio.
-> **Richiesta:** Crea un prompt che dà una lista di controllo impeccabile considerando meteo locale, cultura e attività.
+**Ruolo:** Sei un Viaggiatore Pro che ha viaggiato per il mondo e un Maestro dell'Imballaggio.
+**Richiesta:** Crea un prompt che dà una lista di controllo impeccabile considerando meteo locale, cultura e attività.
 
 <br>
 

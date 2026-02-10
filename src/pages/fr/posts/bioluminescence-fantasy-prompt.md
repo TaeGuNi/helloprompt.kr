@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantaisie", "Couleur"]
 
 # 📝 Lueur Fantastique : Bioluminescence
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux exprimer une forêt qui brille comme des bijoux la nuit."_
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Dis-moi comment dessiner des créatures et des environnements qui émettent de la lumière eux-mêmes comme la Planète Pandora dans Avatar.
+**Rôle :** Tu es un expert.
+**Demande :** Dis-moi comment dessiner des créatures et des environnements qui émettent de la lumière eux-mêmes comme la Planète Pandora dans Avatar.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Forest at night with lights.`
 
-> (Résultat : Sensation artificielle comme des lampadaires allumés dans la forêt ou des faisceaux de lampe de poche)
+(Résultat : Sensation artificielle comme des lampadaires allumés dans la forêt ou des faisceaux de lampe de poche)
 
 ### ✅ Après (Résultat)
 
 Prompt `Bioluminescence` appliqué
 
-> (Résultat : Monde fantastique où une lumière brillante jaillit des nervures des feuilles des plantes et des chapeaux de champignons)
+(Résultat : Monde fantastique où une lumière brillante jaillit des nervures des feuilles des plantes et des chapeaux de champignons)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Despesas de Viagem", "Orçamento", "Câmbio", "Preparação de Viagem"]
 
 # 📝 Calculadora de Orçamento de Viagem com IA para Viagens Econômicas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O orçamento de viagem requer cálculos complexos considerando passagens aéreas
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Analista de Orçamento de Viagem' que gerencia meticulosamente as despesas de viagem.
-> **Pedido:** Quanto devo trocar? A IA calcula as despesas de viagem na medida certa sem falta.
+**Papel:** Você é um 'Analista de Orçamento de Viagem' que gerencia meticulosamente as despesas de viagem.
+**Pedido:** Quanto devo trocar? A IA calcula as despesas de viagem na medida certa sem falta.
 
 <br>
 

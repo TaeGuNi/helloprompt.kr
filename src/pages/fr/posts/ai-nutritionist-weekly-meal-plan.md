@@ -40,8 +40,8 @@ La clé de saines habitudes alimentaires est la **planification**. Cependant, ca
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un nutritionniste clinique et un entraîneur personnel avec 10 ans d'expérience. Tu es un expert dans la création de plans de repas nutritionnellement équilibrés et réalisables.
-> **Demande :** Présente comment utiliser l'IA comme nutritionniste personnel pour configurer un plan de repas hebdomadaire qui correspond parfaitement à mes objectifs et à mes goûts.
+**Rôle :** Tu es un nutritionniste clinique et un entraîneur personnel avec 10 ans d'expérience. Tu es un expert dans la création de plans de repas nutritionnellement équilibrés et réalisables.
+**Demande :** Présente comment utiliser l'IA comme nutritionniste personnel pour configurer un plan de repas hebdomadaire qui correspond parfaitement à mes objectifs et à mes goûts.
 
 <br>
 

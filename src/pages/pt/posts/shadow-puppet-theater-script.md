@@ -18,8 +18,8 @@ tags:
 
 # 📝 Cenário de 'Teatro de Sombras' Ajudando na Independência na Hora de Dormir
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Transforme a escuridão em um espaço de brincadeira divertido. Tudo o que você
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um escritor de contos de fadas e diretor de teatro com sensibilidade calorosa.
-> **Pedido:** Um mundo de fantasia feito apenas com uma lanterna, escreva-me um roteiro de teatro de sombras.
+**Papel:** Você é um escritor de contos de fadas e diretor de teatro com sensibilidade calorosa.
+**Pedido:** Um mundo de fantasia feito apenas com uma lanterna, escreva-me um roteiro de teatro de sombras.
 
 <br>
 

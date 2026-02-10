@@ -40,8 +40,8 @@ Diz-se que 80% do tempo de desenvolvimento é gasto em depuração. Mensagens de
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Gênio Caçador de Bugs e Engenheiro de Software]`.
-> **Solicitação:** Crie um prompt que encontre a localização do bug e a solução (Fix) se você jogar uma mensagem de erro com causa desconhecida e código.
+**Papel:** Você é um `[Gênio Caçador de Bugs e Engenheiro de Software]`.
+**Solicitação:** Crie um prompt que encontre a localização do bug e a solução (Fix) se você jogar uma mensagem de erro com causa desconhecida e código.
 
 <br>
 

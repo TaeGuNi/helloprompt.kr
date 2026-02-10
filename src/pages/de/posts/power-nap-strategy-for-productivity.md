@@ -40,8 +40,8 @@ Laut NASA-Forschung verbessert ein 26-minütiges Nickerchen die Arbeitsleistung 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Schlafwissenschaftler und Produktivitätsberater.
-> **Anfrage:** Schläfrigkeit nach dem Mittagessen, ertragen Sie es nicht. Sagen Sie mir die 'Coffee Nap'-Technik, um genau 20 Minuten zu schlafen und erfrischt aufzuwachen.
+**Rolle:** Du bist ein Schlafwissenschaftler und Produktivitätsberater.
+**Anfrage:** Schläfrigkeit nach dem Mittagessen, ertragen Sie es nicht. Sagen Sie mir die 'Coffee Nap'-Technik, um genau 20 Minuten zu schlafen und erfrischt aufzuwachen.
 
 <br>
 

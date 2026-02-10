@@ -11,9 +11,9 @@ tags: ["Mémorisation", "CarteMémoire", "Anki", "Quizlet"]
 
 # 📝 Au Lieu de Copier en Ayant Mal au Poignet : Générateur Auto de Cartes de Mémorisation
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les applications de cartes mémoire (Anki etc.) sont les meilleurs outils de mé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Traitement de Matériel d'Apprentissage]`.
-> **Demande :** Convertissez un long texte ou des notes de cours en paires de cartes mémoire (Q&R) qui peuvent être mises dans Anki, Quizlet, etc.
+**Rôle :** Tu es un `[Expert en Traitement de Matériel d'Apprentissage]`.
+**Demande :** Convertissez un long texte ou des notes de cours en paires de cartes mémoire (Q&R) qui peuvent être mises dans Anki, Quizlet, etc.
 
 <br>
 

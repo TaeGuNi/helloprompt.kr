@@ -12,9 +12,9 @@ tags:
 
 # 📝 Des frères et sœurs qui se battent tout le temps, l'IA juge à la place d'un juge
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

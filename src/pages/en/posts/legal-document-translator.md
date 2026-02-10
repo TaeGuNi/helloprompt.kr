@@ -11,7 +11,7 @@ tags: ["Law", "Contract", "Living Law"]
 
 # 📝 Translate Alien Legal Terms So Even Elementary Students Understand
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -24,7 +24,7 @@ _"You have to stamp the contract, but are you scared of the fine print and words
 
 The law does not protect those who sleep on their rights, but it is too harsh for those who do not know the law. Don't give up your rights because of difficult legal terms and complex sentences. An AI lawyer will interpret kindly by your side.
 
-> ⚠️ **Caution:** AI's answer is for reference only and has no legal effect. Be sure to consult with an expert (lawyer, solicitor) for important contracts.
+⚠️ **Caution:** AI's answer is for reference only and has no legal effect. Be sure to consult with an expert (lawyer, solicitor) for important contracts.
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Viagem de Cura", "Descanso", "Viver por uma Semana", "Viagem Lenta"]
 
 # 📝 Fuga do Burnout! Plano de Viagem de Cura de Uma Semana Só para Mim
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O verdadeiro descanso depende de 'o que você não faz' em vez de 'o que você f
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Curador de Viagem de Bem-Estar' especializado em descanso e cura.
-> **Pedido:** Pare de visitar pontos turísticos. Guie-me em uma semana de 'Viagem Lenta' para um verdadeiro descanso.
+**Papel:** Você é um 'Curador de Viagem de Bem-Estar' especializado em descanso e cura.
+**Pedido:** Pare de visitar pontos turísticos. Guie-me em uma semana de 'Viagem Lenta' para um verdadeiro descanso.
 
 <br>
 

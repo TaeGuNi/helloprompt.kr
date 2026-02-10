@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Quando as Ideias Estão Travadas, Parceiro de Brainstorming
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ No processo de planejamento ou resolução de problemas, o pensamento se torna r
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Consultor de Criatividade.
-> **Solicitação:** Não se preocupe sozinho. Crie um prompt para expandir ideias com a técnica SCAMPER.
+**Papel:** Você é um Consultor de Criatividade.
+**Solicitação:** Não se preocupe sozinho. Crie um prompt para expandir ideias com a técnica SCAMPER.
 
 <br>
 

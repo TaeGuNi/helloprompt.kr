@@ -11,8 +11,8 @@ tags: ["RiassuntoStoria", "Cronologia", "LineaTemporale", "Riassunto"]
 
 # 📝 Flusso a colpo d'occhio: Generatore di Cronologia Storica
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ La storia non è 'punto' ma 'linea'. Se memorizzi singoli eventi (punti), diment
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno `[Storico ed Esperto di Visualizzazione Dati]`.
-> **Richiesta:** Crea un prompt che organizzi l'ordine e la relazione causale di eventi complessi in una Cronologia ordinata.
+**Ruolo:** Sei uno `[Storico ed Esperto di Visualizzazione Dati]`.
+**Richiesta:** Crea un prompt che organizzi l'ordine e la relazione causale di eventi complessi in una Cronologia ordinata.
 
 <br>
 

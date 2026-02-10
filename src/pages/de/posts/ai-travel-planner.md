@@ -11,8 +11,8 @@ tags: ["Reise", "Reiseplan", "Auslandsreise"]
 
 # 📝 KI-Reiseplaner für Ps, perfekter als Js
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Für Menschen mit MBTI 'P' ist Reiseplanung Folter. Aber wenn Sie ohne Plan losf
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Reiseführer mit lokaler Wohnerfahrung]`.
-> **Anfrage:** Erstelle einen Reiseführer-Prompt, der optimale Reiserouten und stündliche Reisepläne ohne Verschwendung von Bewegung plant.
+**Rolle:** Du bist ein `[Reiseführer mit lokaler Wohnerfahrung]`.
+**Anfrage:** Erstelle einen Reiseführer-Prompt, der optimale Reiserouten und stündliche Reisepläne ohne Verschwendung von Bewegung plant.
 
 <br>
 

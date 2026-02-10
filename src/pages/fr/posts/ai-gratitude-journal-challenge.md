@@ -18,9 +18,9 @@ tags:
 
 # 🙏 Le Moyen le Plus Facile d'Allumer le Circuit du Bonheur, Défi Journal de Gratitude IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Nous sommes sensibles à ce qui nous manque ou à ce que nous n'avons pas, mais 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en psychologie positive et un évangéliste du bonheur.
-> **Demande :** Le mot 'Merci' change la structure du cerveau. Crée une habitude de trouver et d'enregistrer de petits bonheurs avec l'IA.
+**Rôle :** Tu es un expert en psychologie positive et un évangéliste du bonheur.
+**Demande :** Le mot 'Merci' change la structure du cerveau. Crée une habitude de trouver et d'enregistrer de petits bonheurs avec l'IA.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Schwieriges Geldgespräch, Höflicher aber Fester 'Gehaltserhöhungs-Anfrage-E-Mail'-Schreiber
 
-> **🎯 Empfohlen für:** Büroangestellte
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Büroangestellte
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Vor der persönlichen Verhandlung ist die **'E-Mail zum Öffnen der Tür'** wich
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für Geschäftskommunikation.
-> **Anfrage:** Schreibt eine geschäftliche E-Mail, die höflich um Gehaltsverhandlung bittet, aber Leistungsgründe und gewünschten Bereich klar angibt, ohne Gefühle zu ruinieren.
+**Rolle:** Du bist ein Experte für Geschäftskommunikation.
+**Anfrage:** Schreibt eine geschäftliche E-Mail, die höflich um Gehaltsverhandlung bittet, aber Leistungsgründe und gewünschten Bereich klar angibt, ohne Gefühle zu ruinieren.
 
 <br>
 

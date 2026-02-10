@@ -40,8 +40,8 @@ Mehr als 50% der Ausdrücke, die Muttersprachler im täglichen Leben verwenden, 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Amerikanischer Hollywood-Drehbuchautor und Slang-Experte]`.
-> **Anfrage:** Erstelle einen Prompt, der echte muttersprachliche Ausdrücke, Schlagworte und Idiome findet, die nie in Lehrbüchern erscheinen, passend für Situationen.
+**Rolle:** Du bist ein `[Amerikanischer Hollywood-Drehbuchautor und Slang-Experte]`.
+**Anfrage:** Erstelle einen Prompt, der echte muttersprachliche Ausdrücke, Schlagworte und Idiome findet, die nie in Lehrbüchern erscheinen, passend für Situationen.
 
 <br>
 

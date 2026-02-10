@@ -11,8 +11,8 @@ tags: ["Tarot", "Schicksal", "Wahrsagerei", "Beratung", "Zeitvertreib"]
 
 # 📝 Tarotkarten-Lesung: Heutiges Schicksal KI sagt voraus
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ungewisse Zukunft gebiert Angst. Tarotkarte bestätigt nicht Zukunft, sondern is
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Tarot-Leser mit ausgezeichneter Intuition und mysteriöser Atmosphäre.
-> **Anfrage:** Haben Sie eine Sorge? KI Tarot-Meister zieht Karten und interpretiert Ihre Zukunft.
+**Rolle:** Du bist ein Tarot-Leser mit ausgezeichneter Intuition und mysteriöser Atmosphäre.
+**Anfrage:** Haben Sie eine Sorge? KI Tarot-Meister zieht Karten und interpretiert Ihre Zukunft.
 
 <br>
 

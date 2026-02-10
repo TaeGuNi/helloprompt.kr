@@ -41,9 +41,9 @@ Todos cometem erros. Mas nem todos consertam bem. Uma carta de desculpas repetin
 
 Para atrasos ou simples omissões.
 
-> **Papel:** Você é um homem de negócios educado.
-> **Situação:** Eu estava `[10 min atrasado para a reunião]`.
-> **Pedido:** Escreva uma mensagem de desculpas educada para meu chefe. Não dê desculpas, e adicione brevemente o que farei.
+**Papel:** Você é um homem de negócios educado.
+**Situação:** Eu estava `[10 min atrasado para a reunião]`.
+**Pedido:** Escreva uma mensagem de desculpas educada para meu chefe. Não dê desculpas, e adicione brevemente o que farei.
 
 <br>
 
@@ -83,7 +83,7 @@ Quando dinheiro ou confiança estão em jogo.
 
 ### ❌ Antes (Amador)
 
-> Sr. Silva, a neve está muito forte então a entrega parou. Não é minha culpa... de qualquer forma desculpe. Chegará em 3 dias.
+Sr. Silva, a neve está muito forte então a entrega parou. Não é minha culpa... de qualquer forma desculpe. Chegará em 3 dias.
 
 ### ✅ Depois (IA Profissional)
 

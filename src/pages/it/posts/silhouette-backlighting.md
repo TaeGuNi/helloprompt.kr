@@ -12,8 +12,8 @@ tags:
 
 # 📝 Luce e Ombra: Silhouette & Retroilluminazione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Non devi mostrare tutto. Usare **Backlighting** (Retroilluminazione) per rendere
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt Retroilluminazione (Silhouette) che enfatizza la bellezza formale e l'atmosfera elaborando il soggetto in modo scuro.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt Retroilluminazione (Silhouette) che enfatizza la bellezza formale e l'atmosfera elaborando il soggetto in modo scuro.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Samurai in front of moon.`
 
-> (Risultato: Foto in cui i modelli dell'armatura del samurai sono tutti visibili e l'illuminazione entra in modo ambiguo)
+(Risultato: Foto in cui i modelli dell'armatura del samurai sono tutti visibili e l'illuminazione entra in modo ambiguo)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Silhouette` applicato
 
-> (Risultato: Poster solenne dove solo la forma di uno spadaccino nero è chiaramente rivelata contro una enorme luna rossa)
+(Risultato: Poster solenne dove solo la forma di uno spadaccino nero è chiaramente rivelata contro una enorme luna rossa)
 
 ---
 

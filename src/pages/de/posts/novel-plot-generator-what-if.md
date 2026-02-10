@@ -11,8 +11,8 @@ tags: ["RomanSchreiben", "Handlung", "Idee", "Kreation"]
 
 # 📝 'Was wäre wenn' Handlungsgenerator, um Schreibblockade zu lösen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Beim Schreiben eines Romans kommt ein Moment, in dem man gegen eine Wand stößt
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Bestseller-Webromanautor und kreativer Handlungsberater.
-> **Anfrage:** Brainstorming-Prompt, der mit einer einzigen 'Was wäre wenn?'-Frage geniale Entwicklungen schafft, wenn die Geschichte blockiert ist.
+**Rolle:** Du bist ein Bestseller-Webromanautor und kreativer Handlungsberater.
+**Anfrage:** Brainstorming-Prompt, der mit einer einzigen 'Was wäre wenn?'-Frage geniale Entwicklungen schafft, wenn die Geschichte blockiert ist.
 
 <br>
 

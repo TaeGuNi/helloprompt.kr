@@ -19,9 +19,9 @@ tags: ["번역", "영어이메일", "비즈니스영어", "ChatGPT", "DeepL"]
 - **⚡️ 효과성:** ⭐⭐⭐⭐⭐
 - **🛠️ 활용도:** ⭐⭐⭐⭐⭐
 
-> _"Send me the file ASAP."_
-> (직역: 파일을 가능한 한 빨리 보내줘.)
-> (원어민 느낌: **"당장 파일 안 내놔? 뒤질래?"**)
+_"Send me the file ASAP."_
+(직역: 파일을 가능한 한 빨리 보내줘.)
+(원어민 느낌: **"당장 파일 안 내놔? 뒤질래?"**)
 
 우리가 번역기를 돌려 보낸 이메일이 무례하게 들릴 수 있다는 사실, 알고 계셨나요? 비즈니스 영어의 핵심은 단어가 아니라 **'톤앤매너(Tone & Manner)'**입니다. 파파고나 구글 번역기가 놓치는 **'예의 바름'**과 **'고급스러운 뉘앙스'**를 AI로 입혀봅시다.
 
@@ -83,13 +83,13 @@ tags: ["번역", "영어이메일", "비즈니스영어", "ChatGPT", "DeepL"]
 
 ### ❌ Before (콩글리쉬 + 무례함)
 
-> **Me:** "Please check attached file. If error, tell me."
-> **Receiver:** (뭐야, 명령하는 거야?)
+**Me:** "Please check attached file. If error, tell me."
+**Receiver:** (뭐야, 명령하는 거야?)
 
 ### ✅ After (AI 교정)
 
-> **AI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Receiver:** (오, 배우신 분이군. 바로 확인해드려야지.)
+**AI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Receiver:** (오, 배우신 분이군. 바로 확인해드려야지.)
 
 ---
 

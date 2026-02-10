@@ -11,8 +11,8 @@ tags: ["Viagem", "Cronograma", "Planejador", "Viagem ao Exterior"]
 
 # 📝 Planejador de Itinerário de Viagem Hiperpersonalizado com IA Mais Meticuloso que J
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O planejamento de viagens é cansativo. Há muitos lugares para ir, as distânci
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Guia de Viagem Profissional versado em situações locais e um Mestre em Gerenciamento de Cronograma.
-> **Solicitação:** Crie um prompt para receber um plano de viagem perfeito considerando gosto, rota e resistência em 1 minuto.
+**Papel:** Você é um Guia de Viagem Profissional versado em situações locais e um Mestre em Gerenciamento de Cronograma.
+**Solicitação:** Crie um prompt para receber um plano de viagem perfeito considerando gosto, rota e resistência em 1 minuto.
 
 <br>
 

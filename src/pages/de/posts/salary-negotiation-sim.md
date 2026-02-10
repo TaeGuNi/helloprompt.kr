@@ -11,8 +11,8 @@ tags: ["Gehalt", "Verhandlung", "Interview", "Rollenspiel", "Karriere"]
 
 # 🥊 Gehaltsverhandlungs-Simulator: Sparring mit einem bösen HRler
 
-> **🎯 Empfohlen für:** Weicheier, die sagen "Ich nehme was auch immer" und es später bereuen, Arbeitssuchende
-> **⏱️ Benötigte Zeit:** 10 Min (Übungskampf)
+**🎯 Empfohlen für:** Weicheier, die sagen "Ich nehme was auch immer" und es später bereuen, Arbeitssuchende
+**⏱️ Benötigte Zeit:** 10 Min (Übungskampf)
 
 - **🤖 Empfohlenes Modell:** ChatGPT-4o (Sprachmodus sehr empfohlen)
 
@@ -20,8 +20,8 @@ tags: ["Gehalt", "Verhandlung", "Interview", "Rollenspiel", "Karriere"]
 | :-----------: | :----------: | :-------: |
 |    ⭐⭐☆☆☆    |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-> _"Was ist Ihre Gehaltsvorstellung?"_
-> _"Ähm... nun... ich richte mich nach den Firmenregeln..."_
+_"Was ist Ihre Gehaltsvorstellung?"_
+_"Ähm... nun... ich richte mich nach den Firmenregeln..."_
 
 Wenn du am Tisch zuckst, verlierst du. Aber mit wem üben? Freunde lachen, und Spiegel sind peinlich. Jetzt **verwandeln wir die KI in einen geizigen HR-Manager** und sparren wie in echt. Lass dich virtuell verprügeln, damit du in der Realität nicht verprügelt wirst.
 
@@ -41,9 +41,9 @@ Wenn du am Tisch zuckst, verlierst du. Aber mit wem üben? Freunde lachen, und S
 
 Um deine Logik zu verfeinern.
 
-> **Rolle:** Du bist ein geiziger HR-Manager, der versucht, Budget zu sparen.
-> **Kontext:** Ich bin Marketer mit 3 Jahren Erfahrung, vorheriges Gehalt 40k. Ich will 50k.
-> **Anfrage:** Wenn ich nach 50k frage, widerlege mich logisch. Sei sehr pingelig. Mach mich sprachlos.
+**Rolle:** Du bist ein geiziger HR-Manager, der versucht, Budget zu sparen.
+**Kontext:** Ich bin Marketer mit 3 Jahren Erfahrung, vorheriges Gehalt 40k. Ich will 50k.
+**Anfrage:** Wenn ich nach 50k frage, widerlege mich logisch. Sei sehr pingelig. Mach mich sprachlos.
 
 <br>
 
@@ -78,16 +78,16 @@ Schalte den **Sprachmodus (Kopfhörer-Symbol)** der ChatGPT-App ein. Das ist der
 
 ### ❌ Vorher (Ohne Vorbereitung)
 
-> **HR:** "50k ist schwierig wegen Gerechtigkeitsproblemen..."
-> **Ich:** "Ah... okay... dann 45k...?"
-> (Ergebnis: Gehalt eingefroren 📉)
+**HR:** "50k ist schwierig wegen Gerechtigkeitsproblemen..."
+**Ich:** "Ah... okay... dann 45k...?"
+(Ergebnis: Gehalt eingefroren 📉)
 
 ### ✅ Nachher (Habe 10 Mal gegen KI gekämpft)
 
-> **HR:** "50k ist schwierig wegen Gerechtigkeitsproblemen..."
-> **Ich:** "Ich verstehe vollkommen. Wenn man jedoch bedenkt, dass ich den Umsatz in meinem letzten Projekt um 20% gesteigert habe, ist diese Zahl eine vernünftige Investition im Vergleich zum Marktdurchschnitt. Wenn das Grundgehalt eine Belastung ist, können wir über einen Signing Bonus oder Aktienoptionen sprechen?"
-> **HR:** (Augen zittern) "...Lassen Sie mich das mit dem Direktor klären."
-> (Ergebnis: 20% Erhöhung 📈)
+**HR:** "50k ist schwierig wegen Gerechtigkeitsproblemen..."
+**Ich:** "Ich verstehe vollkommen. Wenn man jedoch bedenkt, dass ich den Umsatz in meinem letzten Projekt um 20% gesteigert habe, ist diese Zahl eine vernünftige Investition im Vergleich zum Marktdurchschnitt. Wenn das Grundgehalt eine Belastung ist, können wir über einen Signing Bonus oder Aktienoptionen sprechen?"
+**HR:** (Augen zittern) "...Lassen Sie mich das mit dem Direktor klären."
+(Ergebnis: 20% Erhöhung 📈)
 
 ---
 

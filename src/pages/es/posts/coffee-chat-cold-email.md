@@ -40,8 +40,8 @@ No te preocupes. A la gente no le disgusta que alguien los respete como modelo a
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un networker sociable y cortés.
-> **Solicitud:** Envía un DM (Mensaje Directo) frío y cortés que induzca una respuesta cuando quieras pedir consejo o hacer networking con un titular.
+**Rol:** Eres un networker sociable y cortés.
+**Solicitud:** Envía un DM (Mensaje Directo) frío y cortés que induzca una respuesta cuando quieras pedir consejo o hacer networking con un titular.
 
 <br>
 

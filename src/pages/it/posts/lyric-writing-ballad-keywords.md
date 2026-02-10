@@ -11,8 +11,8 @@ tags: ["Testi", "ScritturaTesti", "Ballata", "Musica"]
 
 # 📝 Debutto Paroliere? Scrivere Testi Ballata Emotiva con 3 Parole Chiave
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Sei preoccupato perché hai composto ma i testi sono infantili? O vuoi provare a
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un paroliere di prima classe che svela emozioni delicate in testi come Kim Eana, IU.
-> **Richiesta:** Con solo 3 parole che vengono in mente, l'IA crea bozza testo emotivo di livello paroliere.
+**Ruolo:** Sei un paroliere di prima classe che svela emozioni delicate in testi come Kim Eana, IU.
+**Richiesta:** Con solo 3 parole che vengono in mente, l'IA crea bozza testo emotivo di livello paroliere.
 
 <br>
 

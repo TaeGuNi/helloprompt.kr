@@ -11,9 +11,9 @@ tags: ["Assurance", "Technologie Financière", "Économie", "Analyse de Garantie
 
 # 📝 Régime d'Assurance : Trouver les Garanties en Double et Réduire les Primes de Moitié
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

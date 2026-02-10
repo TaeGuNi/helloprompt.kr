@@ -47,8 +47,8 @@ Currículo Inglês tem gramática diferente do currículo coreano. Deve omitir s
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um recrutador em empresa do Vale do Silício dos EUA e editor de inglês profissional.
-> **Solicitação:** Não simples tradução. Converte perfeitamente currículo coreano com expressões e formato adequados à cultura de recrutamento de língua inglesa.
+**Papel:** Você é um recrutador em empresa do Vale do Silício dos EUA e editor de inglês profissional.
+**Solicitação:** Não simples tradução. Converte perfeitamente currículo coreano com expressões e formato adequados à cultura de recrutamento de língua inglesa.
 
 <br>
 

@@ -38,7 +38,7 @@ Beaucoup de gens interrogent l'IA avec des requêtes courtes comme "Recette rago
 
 ### 🥉 Version Basique
 
-> **Requête :** Dis-moi comment faire un délicieux ragoût de kimchi.
+**Requête :** Dis-moi comment faire un délicieux ragoût de kimchi.
 
 <br>
 
@@ -56,7 +56,7 @@ Ce que l'IA fait le mieux, c'est le **'Traitement de texte'**. Confiez-lui les l
 
 ### 🥉 Version Basique
 
-> **Requête :** Résume ceci : (Coller le long texte)
+**Requête :** Résume ceci : (Coller le long texte)
 
 <br>
 
@@ -80,7 +80,7 @@ Si vous dites à l'IA, **"Tu es un [Rôle]"**, elle s'équipe des connaissances 
 
 ### 🥉 Version Basique
 
-> **Requête :** Apprends-moi quelques fonctions Excel.
+**Requête :** Apprends-moi quelques fonctions Excel.
 
 <br>
 

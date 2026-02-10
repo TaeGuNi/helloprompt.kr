@@ -11,8 +11,8 @@ tags: ["Seguro", "Finanzas", "Ahorro", "AnálisisCobertura"]
 
 # 📝 Dieta de Seguros: Encontrando Cobertura Duplicada y Reduciendo la Prima a la Mitad
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Muchas personas piensan "¿Es suficiente el seguro de indemnización?" o, por el
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Análisis de Seguros]` objetivo. Aconseja desde el punto de vista de ahorrar dinero al cliente, no planificador.
-> **Solicitud:** ¿Es seguro mi seguro? Presenta método de análisis para mantener la cobertura mientras se eliminan solo las primas innecesarias.
+**Rol:** Eres un `[Experto en Análisis de Seguros]` objetivo. Aconseja desde el punto de vista de ahorrar dinero al cliente, no planificador.
+**Solicitud:** ¿Es seguro mi seguro? Presenta método de análisis para mantener la cobertura mientras se eliminan solo las primas innecesarias.
 
 <br>
 

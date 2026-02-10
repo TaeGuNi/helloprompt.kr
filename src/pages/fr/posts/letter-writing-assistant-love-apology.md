@@ -11,9 +11,9 @@ tags: ["Écriture", "Lettre", "Amour", "Excuse", "Refus"]
 
 # 📝 Service de Nègre pour Lettres : De la Confession de Béguin au Refus Poli
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ En vivant la vie, il y a des moments où l'écriture est plus nécessaire que le
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un conseiller psychologique et un nègre professionnel qui émeut le cœur des gens.
-> **Demande :** Transmettez la sincérité difficile à dire avec des mots, par écrit. L'IA écrit la lettre optimale adaptée à la situation et au destinataire pour vous.
+**Rôle :** Tu es un conseiller psychologique et un nègre professionnel qui émeut le cœur des gens.
+**Demande :** Transmettez la sincérité difficile à dire avec des mots, par écrit. L'IA écrit la lettre optimale adaptée à la situation et au destinataire pour vous.
 
 <br>
 

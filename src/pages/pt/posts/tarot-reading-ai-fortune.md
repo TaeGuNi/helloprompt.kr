@@ -11,8 +11,8 @@ tags: ["Tarô", "Fortuna", "Adivinhação", "Aconselhamento", "Passatempo"]
 
 # 📝 Leitura de Cartas de Tarô: Fortuna de Hoje IA Prevê
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Futuro incerto dá à luz ansiedade. Carta de tarô não é confirmar futuro, ma
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Leitor de Tarô com excelente intuição e atmosfera misteriosa.
-> **Solicitação:** Tem uma preocupação? Mestre de Tarô IA tira cartas e interpreta seu futuro.
+**Papel:** Você é um Leitor de Tarô com excelente intuição e atmosfera misteriosa.
+**Solicitação:** Tem uma preocupação? Mestre de Tarô IA tira cartas e interpreta seu futuro.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Conversazione Inglese", "Studio Lingue Straniere", "Gioco di Ruolo"]
 
 # 📝 Invece del Costoso Inglese Telefonico, Parlante Nativo IA in Standby 24 Ore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La lingua non è studio ma abitudine. Ma incontrare amici nativi ogni giorno o c
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Personale di Caffetteria di New York]` e io sono un `[Turista che non sa parlare bene inglese]`.
-> **Richiesta:** Crea un prompt di gioco di ruolo che mi permetta di praticare la conversazione in lingua straniera come nella vita reale con l'IA impostando situazioni e livelli di difficoltà desiderati.
+**Ruolo:** Sei un `[Personale di Caffetteria di New York]` e io sono un `[Turista che non sa parlare bene inglese]`.
+**Richiesta:** Crea un prompt di gioco di ruolo che mi permetta di praticare la conversazione in lingua straniera come nella vita reale con l'IA impostando situazioni e livelli di difficoltà desiderati.
 
 <br>
 

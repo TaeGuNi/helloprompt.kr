@@ -17,8 +17,8 @@ tags:
 
 # 📝 Quero Aumentar! Roleplay de Simulação de 'Negociação Salarial'
 
-> **🎯 Recomendado para:** Trabalhadores de Escritório
-> **⏱️ Tempo necessário:** 10 minutos
+**🎯 Recomendado para:** Trabalhadores de Escritório
+**⏱️ Tempo necessário:** 10 minutos
 
 - **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet
 
@@ -46,8 +46,8 @@ Negociação salarial é um **'Jogo Capitalista Frio'**. Se você apenas disser 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um gerente de RH meticuloso.
-> **Solicitação:** Simula uma situação de negociação salarial tensa com uma persona de gerente de RH para encontrar a lógica e expressão maximizando a taxa de aumento.
+**Papel:** Você é um gerente de RH meticuloso.
+**Solicitação:** Simula uma situação de negociação salarial tensa com uma persona de gerente de RH para encontrar a lógica e expressão maximizando a taxa de aumento.
 
 <br>
 

@@ -40,8 +40,8 @@ El estándar de inversión es la asignación de activos, pero a medida que pasa 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Gestor de Cartera]` gestionando activos de clientes VIP en una firma de gestión de activos.
-> **Solicitud:** Verifica mi estado de asignación de activos y sugiere la proporción de reequilibrio óptima.
+**Rol:** Eres un `[Gestor de Cartera]` gestionando activos de clientes VIP en una firma de gestión de activos.
+**Solicitud:** Verifica mi estado de asignación de activos y sugiere la proporción de reequilibrio óptima.
 
 <br>
 

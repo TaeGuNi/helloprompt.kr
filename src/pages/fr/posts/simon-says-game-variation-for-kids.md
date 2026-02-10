@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Boost de Concentration de 200% ! Jeu 'Jacques a Dit' Amélioré
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Ajoutez la créativité de l'IA au jeu traditionnel 'Jacques a Dit'. En effectua
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un professeur d'éducation physique aidant au développement physique et à la rotation cérébrale des enfants.
-> **Demande :** Améliore la concentration et le contrôle physique de mon enfant avec des missions fantaisistes créées par l'IA.
+**Rôle :** Tu es un professeur d'éducation physique aidant au développement physique et à la rotation cérébrale des enfants.
+**Demande :** Améliore la concentration et le contrôle physique de mon enfant avec des missions fantaisistes créées par l'IA.
 
 <br>
 

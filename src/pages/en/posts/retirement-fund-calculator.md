@@ -11,7 +11,7 @@ tags: ["Retirement", "OldAgePrep", "Pension", "FinancialPlanning"]
 
 # 📝 Retirement Fund Calculator: What is My Retirement Prep Score?
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

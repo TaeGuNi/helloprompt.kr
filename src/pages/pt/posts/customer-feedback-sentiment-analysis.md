@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Analisando Feedback Detalhado do Cliente, Positivo/Negativo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A Voz do Cliente (VOC) é importante, mas ler e classificar vastos dados de text
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Gestão de Qualidade CS.
-> **Solicitação:** Centenas de comentários de revisão, organize de uma vez com Análise de Sentimento.
+**Papel:** Você é um Especialista em Gestão de Qualidade CS.
+**Solicitação:** Centenas de comentários de revisão, organize de uma vez com Análise de Sentimento.
 
 <br>
 

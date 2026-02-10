@@ -11,8 +11,8 @@ tags: ["Recht", "Vertrag", "Lebensrecht"]
 
 # 📝 Übersetze Alien-Rechtsbegriffe, damit sogar Grundschüler sie verstehen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -24,7 +24,7 @@ _"Müssen Sie den Vertrag abstempeln, haben aber Angst vor dem Kleingedruckten u
 
 Das Gesetz schützt nicht diejenigen, die auf ihren Rechten schlafen, aber es ist zu hart für diejenigen, die das Gesetz nicht kennen. Geben Sie Ihre Rechte nicht wegen schwieriger Rechtsbegriffe und komplexer Sätze auf. Ein KI-Anwalt wird freundlich an Ihrer Seite dolmetschen.
 
-> ⚠️ **Vorsicht:** Die Antwort der KI dient nur als Referenz und hat keine rechtliche Wirkung. Konsultieren Sie bei wichtigen Verträgen unbedingt einen Experten (Anwalt, Notar).
+⚠️ **Vorsicht:** Die Antwort der KI dient nur als Referenz und hat keine rechtliche Wirkung. Konsultieren Sie bei wichtigen Verträgen unbedingt einen Experten (Anwalt, Notar).
 
 ---
 
@@ -42,8 +42,8 @@ Das Gesetz schützt nicht diejenigen, die auf ihren Rechten schlafen, aber es is
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Freundlicher Anwalt]`.
-> **Anfrage:** Erstelle einen Prompt, der schwierige Rechtsdokumente wie Mietverträge und Nutzungsbedingungen in einfache Worte interpretiert und toxische Klauseln findet.
+**Rolle:** Du bist ein `[Freundlicher Anwalt]`.
+**Anfrage:** Erstelle einen Prompt, der schwierige Rechtsdokumente wie Mietverträge und Nutzungsbedingungen in einfache Worte interpretiert und toxische Klauseln findet.
 
 <br>
 

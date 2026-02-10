@@ -11,8 +11,8 @@ tags: ["Landingpage", "Web-Copy", "UX-Writing", "Konversionsrate"]
 
 # 📝 Landingpage-Haupttext (Hero Copy) Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die Hero Section bestimmt den ersten Eindruck einer Landingpage. Wenn Sie das Pr
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Web-Copywriting-Experte]` und `[UX-Writer]`. Du hast eine starke Hooking-Fähigkeit, um die Augen der Kunden in 3 Sekunden zu fesseln.
-> **Anfrage:** Erstelle einen Prompt, wie man Landingpage-Top-Texte (Hero Section) schreibt, die Besucher in 3 Sekunden fesseln.
+**Rolle:** Du bist ein `[Web-Copywriting-Experte]` und `[UX-Writer]`. Du hast eine starke Hooking-Fähigkeit, um die Augen der Kunden in 3 Sekunden zu fesseln.
+**Anfrage:** Erstelle einen Prompt, wie man Landingpage-Top-Texte (Hero Section) schreibt, die Besucher in 3 Sekunden fesseln.
 
 <br>
 

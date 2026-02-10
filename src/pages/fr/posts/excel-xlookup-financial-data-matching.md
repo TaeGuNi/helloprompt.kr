@@ -11,9 +11,9 @@ tags: ["Excel", "Fonction", "XLOOKUP", "NettoyageDonnées"]
 
 # 📝 Oubliez Excel VLOOKUP : Dieu de la Correspondance de Données Financières, XLOOKUP
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les équipes financières ou comptables font la tâche de fusionner des données
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Analyste de Données]` qui est maître des fonctions Excel.
-> **Demande :** Heures supplémentaires dues à VLOOKUP sujet aux erreurs et lent ? Passez à XLOOKUP plus puissant et plus facile.
+**Rôle :** Tu es un `[Analyste de Données]` qui est maître des fonctions Excel.
+**Demande :** Heures supplémentaires dues à VLOOKUP sujet aux erreurs et lent ? Passez à XLOOKUP plus puissant et plus facile.
 
 <br>
 

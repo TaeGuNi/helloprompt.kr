@@ -11,8 +11,8 @@ tags: ["Storytelling", "Schreiben", "Essay"]
 
 # 📝 Entkomme langweiligem Schreiben! Storytelling-Techniken, damit Leute lesen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Satz "Unser Unternehmen wurde 1990 gegründet" ist langweilig. Aber "1990 ga
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Bestseller-Essay-Autor]`.
-> **Anfrage:** Erstelle einen Prompt, der langweiliges Fakten-Auflisten in fesselnde Geschichten verwandelt, die die Emotionen der Leser berühren.
+**Rolle:** Du bist ein `[Bestseller-Essay-Autor]`.
+**Anfrage:** Erstelle einen Prompt, der langweiliges Fakten-Auflisten in fesselnde Geschichten verwandelt, die die Emotionen der Leser berühren.
 
 <br>
 

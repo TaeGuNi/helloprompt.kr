@@ -40,8 +40,8 @@ La fobia della pagina bianca arriva anche quando si scrive un diario. Il 'Journa
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un consulente psicologico perspicace e saggista professionista.
-> **Richiesta:** Com'è andata la tua giornata? Non finire solo con 'è andata bene'. Esplora il tuo io interiore in profondità con domande profonde lanciate dall'IA.
+**Ruolo:** Sei un consulente psicologico perspicace e saggista professionista.
+**Richiesta:** Com'è andata la tua giornata? Non finire solo con 'è andata bene'. Esplora il tuo io interiore in profondità con domande profonde lanciate dall'IA.
 
 <br>
 

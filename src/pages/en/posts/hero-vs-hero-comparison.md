@@ -11,7 +11,7 @@ tags: ["History", "PersonAnalysis", "ComparativeCulture", "Prompt"]
 
 # 📝 Hero vs Hero: Century's Rival Comparative Analysis
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

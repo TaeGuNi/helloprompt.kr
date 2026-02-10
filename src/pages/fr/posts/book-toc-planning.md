@@ -11,9 +11,9 @@ tags: ["Écriture de Livre", "Planification d'Édition", "E-book"]
 
 # 📝 Puis-je Être Auteur Aussi ? Planifier une Table des Matières de Livre qui Vend
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Avez-vous tous le rêve de publier un livre sous votre nom ? Mais 'comment org
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Rédacteur en Chef de Grande Maison d'Édition]`.
-> **Demande :** Crée un prompt de planification de livre et de composition de table des matières qui transforme les rêves vagues d'édition en réalité.
+**Rôle :** Tu es un `[Rédacteur en Chef de Grande Maison d'Édition]`.
+**Demande :** Crée un prompt de planification de livre et de composition de table des matières qui transforme les rêves vagues d'édition en réalité.
 
 <br>
 

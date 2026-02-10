@@ -11,9 +11,9 @@ tags: ["PlanÉtude", "Planificateur", "Motivation", "GestionTemps"]
 
 # 📝 Prévenir la Résolution de Trois Jours : Gestionnaire d'Apprentissage IA 1:1
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La chose la plus difficile quand on étudie seul est la gestion des progrès. Si
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Coordinateur d'Examen d'Entrée/Certification Strict et Minutieux]`.
-> **Demande :** Créez un plan d'étude réaliste lorsque l'objectif et le temps disponible sont entrés, et prenez la responsabilité de la motivation.
+**Rôle :** Tu es un `[Coordinateur d'Examen d'Entrée/Certification Strict et Minutieux]`.
+**Demande :** Créez un plan d'étude réaliste lorsque l'objectif et le temps disponible sont entrés, et prenez la responsabilité de la motivation.
 
 <br>
 

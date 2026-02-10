@@ -17,8 +17,8 @@ tags:
 
 # 📝 Charla de Dinero Difícil, Escritor de 'Correo de Solicitud de Aumento Salarial' Cortés pero Firme
 
-> **🎯 Recomendado para:** Trabajadores de Oficina
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Trabajadores de Oficina
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Antes de la negociación cara a cara, el **'Correo para abrir la puerta'** es im
 
 Usa esto cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto en comunicación de negocios.
-> **Solicitud:** Escribe un correo de negocios solicitando negociación salarial cortésmente pero declarando claramente fundamentos de desempeño y rango deseado sin arruinar sentimientos.
+**Rol:** Eres un experto en comunicación de negocios.
+**Solicitud:** Escribe un correo de negocios solicitando negociación salarial cortésmente pero declarando claramente fundamentos de desempeño y rango deseado sin arruinar sentimientos.
 
 <br>
 

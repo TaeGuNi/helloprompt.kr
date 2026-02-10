@@ -38,7 +38,7 @@ Muitas pessoas pesquisam na IA com consultas curtas como "Receita ensopado kimch
 
 ### 🥉 Versão Básica
 
-> **Solicitação:** Me diga como fazer um delicioso ensopado de kimchi.
+**Solicitação:** Me diga como fazer um delicioso ensopado de kimchi.
 
 <br>
 
@@ -56,7 +56,7 @@ O que a IA faz de melhor é o **'Processamento de Texto'**. Entregue textos long
 
 ### 🥉 Versão Básica
 
-> **Solicitação:** Resuma isto: (Cole o texto longo)
+**Solicitação:** Resuma isto: (Cole o texto longo)
 
 <br>
 
@@ -80,7 +80,7 @@ Se você disser à IA, **"Você é um [Papel]"**, ela se equipa com o conhecimen
 
 ### 🥉 Versão Básica
 
-> **Solicitação:** Me ensine algumas funções do Excel.
+**Solicitação:** Me ensine algumas funções do Excel.
 
 <br>
 

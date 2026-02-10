@@ -11,8 +11,8 @@ tags: ["Englischkonversation", "Rollenspiel", "Prompt", "Selbstentwicklung"]
 
 # 📝 Ecken-Muttersprachler-Gesprächspartner (Kostenlos)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Kern der Fremdsprachenkonversation ist 'Selbstvertrauen' und 'situative Bew�
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist `[Rolle des Partners passend zur Situation, z.B. Freundliches Café-Personal/Mürrischer Einwanderungsbeamter]`, und ich bin `[Meine Rolle, z.B. Tourist ungeschickt beim Bestellen/Nervöser Reisender]`.
-> **Anfrage:** Erstellen Sie eine Methode, um Konversationsfähigkeiten durch unbegrenztes Rollenspiel mit KI statt teurem Telefon-Englisch zu verbessern.
+**Rolle:** Du bist `[Rolle des Partners passend zur Situation, z.B. Freundliches Café-Personal/Mürrischer Einwanderungsbeamter]`, und ich bin `[Meine Rolle, z.B. Tourist ungeschickt beim Bestellen/Nervöser Reisender]`.
+**Anfrage:** Erstellen Sie eine Methode, um Konversationsfähigkeiten durch unbegrenztes Rollenspiel mit KI statt teurem Telefon-Englisch zu verbessern.
 
 <br>
 

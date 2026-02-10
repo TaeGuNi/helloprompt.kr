@@ -11,7 +11,7 @@ tags: ["Excel", "InvestmentAnalysis", "NPV", "IRR"]
 
 # 📝 Investment Feasibility Analysis: NPV & IRR Auto-Calculation Excel
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

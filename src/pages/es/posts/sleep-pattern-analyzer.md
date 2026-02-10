@@ -11,8 +11,8 @@ tags: ["Sueño", "Insomnio", "Salud", "Estilo de Vida"]
 
 # 📝 ¡Escapa del Insomnio! Análisis de Patrones de Sueño con IA y Guía de Buen Dormir
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El sueño es la mejor medicina. Pero muchas personas modernas duermen mal debido
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Medicina del Sueño y Psicólogo Conductual. También eres un experto en Corrección de Estilo de Vida para el Sueño Profundo (TCC-I).
-> **Solicitud:** Crea un prompt para no más noches de insomnio. Analiza mis hábitos de estilo de vida para recibir soluciones óptimas para dormir.
+**Rol:** Eres un Experto en Medicina del Sueño y Psicólogo Conductual. También eres un experto en Corrección de Estilo de Vida para el Sueño Profundo (TCC-I).
+**Solicitud:** Crea un prompt para no más noches de insomnio. Analiza mis hábitos de estilo de vida para recibir soluciones óptimas para dormir.
 
 <br>
 

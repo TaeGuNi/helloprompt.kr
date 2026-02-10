@@ -12,9 +12,9 @@ tags:
 
 # 📝 Regard d'un Géant : Angle Bas
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ _"Je veux rendre le personnage plus fort et plus grand."_
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'angle bas qui souligne la dignité écrasante et la taille en regardant le sujet d'en bas.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'angle bas qui souligne la dignité écrasante et la taille en regardant le sujet d'en bas.
 
 <br>
 
@@ -73,13 +73,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Giant robot in city.`
 
-> (Résultat : Juste une vue au niveau des yeux où un robot se tient debout, l'immensité n'est pas bien ressentie)
+(Résultat : Juste une vue au niveau des yeux où un robot se tient debout, l'immensité n'est pas bien ressentie)
 
 ### ✅ Après (Résultat)
 
 Prompt `Low angle` appliqué
 
-> (Résultat : Échelle écrasante où les pieds du robot sont devant mes yeux et la tête semble toucher le ciel élevé)
+(Résultat : Échelle écrasante où les pieds du robot sont devant mes yeux et la tête semble toucher le ciel élevé)
 
 ---
 

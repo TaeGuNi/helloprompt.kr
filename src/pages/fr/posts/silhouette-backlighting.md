@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Éclairage"]
 
 # 📝 Lumière et Ombre : Silhouette & Rétroéclairage
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Vous n'êtes pas obligé de tout montrer. Utiliser le **Backlighting** (Rétroé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de rétroéclairage (Silhouette) qui met l'accent sur la beauté formelle et l'atmosphère en traitant le sujet de manière sombre.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de rétroéclairage (Silhouette) qui met l'accent sur la beauté formelle et l'atmosphère en traitant le sujet de manière sombre.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Samurai in front of moon.`
 
-> (Résultat : Photo où les motifs de l'armure de samouraï sont tous visibles et l'éclairage entre de manière ambiguë)
+(Résultat : Photo où les motifs de l'armure de samouraï sont tous visibles et l'éclairage entre de manière ambiguë)
 
 ### ✅ Après (Résultat)
 
 Prompt `Silhouette` appliqué
 
-> (Résultat : Affiche solennelle où seule la forme d'un épéiste noir est clairement révélée contre une énorme lune rouge)
+(Résultat : Affiche solennelle où seule la forme d'un épéiste noir est clairement révélée contre une énorme lune rouge)
 
 ---
 

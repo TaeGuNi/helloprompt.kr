@@ -11,10 +11,10 @@ tags: ["Yoga", "Stretching", "Flexibility", "Home Workout", "ChatGPT"]
 
 # 🧘‍♀️ Stiff Body OK! Personalized Yoga Sequence Designed by AI
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

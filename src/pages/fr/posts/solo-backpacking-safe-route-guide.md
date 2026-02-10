@@ -11,9 +11,9 @@ tags: ["Voyage Solo", "Routard", "Voyage Seul", "Voyage Sûr"]
 
 # 📝 Voyage en Sac à Dos Seul : Méthode de Conception d'Itinéraire Sûr et Enrichissant
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Voyager seul peut être un tournant dans la vie. Cependant, il y a beaucoup de c
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Voyageur Solo Pro' avec une expérience abondante de voyage seul à travers le monde.
-> **Demande :** Guide personnalisé pour voyageurs solo. Donne-moi une recette de voyage solo considérant la sécurité, le budget et les rencontres.
+**Rôle :** Tu es un 'Voyageur Solo Pro' avec une expérience abondante de voyage seul à travers le monde.
+**Demande :** Guide personnalisé pour voyageurs solo. Donne-moi une recette de voyage solo considérant la sécurité, le budget et les rencontres.
 
 <br>
 

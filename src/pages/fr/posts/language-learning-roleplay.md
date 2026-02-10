@@ -11,9 +11,9 @@ tags: ["Conversation Anglaise", "Étude de Langue Étrangère", "Jeu de Rôle"]
 
 # 📝 Au Lieu de l'Anglais Téléphonique Coûteux, Locuteur Natif IA en Veille 24h/24
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La langue n'est pas une étude mais une habitude. Mais rencontrer des amis natif
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Employé de Café à New York]` et je suis un `[Touriste qui ne parle pas bien anglais]`.
-> **Demande :** Crée un prompt de jeu de rôle qui me permet de pratiquer la conversation en langue étrangère comme dans la vraie vie avec l'IA en définissant les situations et les niveaux de difficulté souhaités.
+**Rôle :** Tu es un `[Employé de Café à New York]` et je suis un `[Touriste qui ne parle pas bien anglais]`.
+**Demande :** Crée un prompt de jeu de rôle qui me permet de pratiquer la conversation en langue étrangère comme dans la vraie vie avec l'IA en définissant les situations et les niveaux de difficulté souhaités.
 
 <br>
 

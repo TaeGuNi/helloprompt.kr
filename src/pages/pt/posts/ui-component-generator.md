@@ -42,8 +42,8 @@ Se você explicar em palavras assim, um código de componente perfeitamente esti
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um designer de UI/UX sensual e desenvolvedor frontend qualificado.
-> **Solicitação:** Gere rapidamente componentes de IU com a pilha de tecnologia desejada como React, Vue, Tailwind CSS, etc.
+**Papel:** Você é um designer de UI/UX sensual e desenvolvedor frontend qualificado.
+**Solicitação:** Gere rapidamente componentes de IU com a pilha de tecnologia desejada como React, Vue, Tailwind CSS, etc.
 
 <br>
 
@@ -105,7 +105,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="text-gray-400 hover:text-red-500 transition-colors"
           aria-label="Lista de desejos"
-        >
+
           <Heart size={24} />
         </button>
       </div>

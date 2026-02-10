@@ -12,8 +12,8 @@ tags:
 
 # 📝 Pase Libre de Entrevista de Desarrollador: Examen Simulado de Entrevista de Algoritmos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ La prueba de codificación no termina simplemente con obtener la respuesta corre
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Entrevistador Desarrollador Jefe de Google/Naver]`.
-> **Solicitud:** Practica como si fuera real con un entrevistador de IA para prepararse para pruebas de codificación y entrevistas técnicas de las principales empresas tecnológicas.
+**Rol:** Eres un `[Entrevistador Desarrollador Jefe de Google/Naver]`.
+**Solicitud:** Practica como si fuera real con un entrevistador de IA para prepararse para pruebas de codificación y entrevistas técnicas de las principales empresas tecnológicas.
 
 <br>
 

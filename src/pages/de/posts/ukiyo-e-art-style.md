@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Traditionell"]
 
 # 📝 Ästhetik der Wellen: Ukiyo-e Stil
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte Bilder mit einem Gefühl wie Katsushika Hokusais 'Die große Welle
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Prompt, der Wellen und Landschaften im Ukiyo-e-Stil zeichnet, der japanischsten Ästhetik.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Prompt, der Wellen und Landschaften im Ukiyo-e-Stil zeichnet, der japanischsten Ästhetik.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Cat and Mount Fuji.`
 
-> (Ergebnis: Foto einer echten Katze, die vor dem Fuji sitzt)
+(Ergebnis: Foto einer echten Katze, die vor dem Fuji sitzt)
 
 ### ✅ Nachher (Ergebnis)
 
 `Ukiyo-e` Prompt angewendet
 
-> (Ergebnis: Meisterwerk, das Wellenmuster wie mit dem Pinsel gezeichnet, Katze mit Holzschnitt-Textur und alte Papierfarben harmoniert)
+(Ergebnis: Meisterwerk, das Wellenmuster wie mit dem Pinsel gezeichnet, Katze mit Holzschnitt-Textur und alte Papierfarben harmoniert)
 
 ---
 

@@ -40,8 +40,8 @@ La Terapia Cognitivo-Conductual para el Insomnio (TCC-I) es un tratamiento no fa
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un psicólogo clínico especializado en TCC-I para el insomnio.
-> **Solicitud:** Practica la TCC-I (Terapia Cognitivo-Conductual para el Insomnio), la forma más segura de tratar el insomnio sin pastillas para dormir, con IA.
+**Rol:** Eres un psicólogo clínico especializado en TCC-I para el insomnio.
+**Solicitud:** Practica la TCC-I (Terapia Cognitivo-Conductual para el Insomnio), la forma más segura de tratar el insomnio sin pastillas para dormir, con IA.
 
 <br>
 

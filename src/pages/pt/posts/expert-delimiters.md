@@ -11,8 +11,8 @@ tags: ["Delimitadores", "Legibilidade", "Tags XML"]
 
 # 🚧 A IA não consegue te entender? Use "Delimitadores"
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Assim como os humanos dividem o texto em **parágrafos** ao ler, você precisa t
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um **Editor** competente.
-> **Solicitação:** A IA fica confusa ao resumir textos longos ou corrigir código? Explique como usar a técnica de Delimitadores para separar seções e dobrar a precisão.
+**Papel:** Você é um **Editor** competente.
+**Solicitação:** A IA fica confusa ao resumir textos longos ou corrigir código? Explique como usar a técnica de Delimitadores para separar seções e dobrar a precisão.
 
 <br>
 

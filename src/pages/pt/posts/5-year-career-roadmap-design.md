@@ -46,8 +46,8 @@ Uma carreira é uma maratona, não um sprint. Se você correr sem destino, apena
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em coaching de carreira com 20 anos de experiência.
-> **Pedido:** Mude um futuro vago para um plano concreto. Projete metas para 1, 3 e 5 anos e os conjuntos de habilidades necessários para alcançá-las com IA.
+**Papel:** Você é um especialista em coaching de carreira com 20 anos de experiência.
+**Pedido:** Mude um futuro vago para um plano concreto. Projete metas para 1, 3 e 5 anos e os conjuntos de habilidades necessários para alcançá-las com IA.
 
 <br>
 

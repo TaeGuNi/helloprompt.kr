@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡El vocabulario se dispara! 'Batalla de Adivinanzas de Letra Inicial' con IA
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

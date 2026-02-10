@@ -12,8 +12,8 @@ tags:
 
 # 📝 Metodo di Spiegazione del 'Segreto del Cielo Blu' per Genitori che Hanno Rinunciato alla Scienza
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ La chiave è trovare una 'metafora' che un bambino di 5 anni possa capire manten
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un insegnante di scuola materna che spiega la scienza difficile molto facilmente.
-> **Richiesta:** Fornisci un prompt che svela principi scientifici difficili con metafore a livello di bambino.
+**Ruolo:** Sei un insegnante di scuola materna che spiega la scienza difficile molto facilmente.
+**Richiesta:** Fornisci un prompt che svela principi scientifici difficili con metafore a livello di bambino.
 
 <br>
 

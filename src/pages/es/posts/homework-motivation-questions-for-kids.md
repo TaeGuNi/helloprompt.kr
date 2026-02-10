@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 'Preguntas Mágicas' Que Hacen que los Niños Estudien Sin Decir 'Estudia'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las instrucciones provocan resistencia, pero las preguntas provocan pensamientos
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un consejero de psicología del aprendizaje.
-> **Solicitud:** Proporciona técnicas de conversación para hacer que un niño se siente en el escritorio por sí mismo sin forzarlo.
+**Rol:** Eres un consejero de psicología del aprendizaje.
+**Solicitud:** Proporciona técnicas de conversación para hacer que un niño se siente en el escritorio por sí mismo sin forzarlo.
 
 <br>
 

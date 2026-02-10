@@ -11,8 +11,8 @@ tags: ["EstudoHistória", "Gamificação", "Simulação", "HistóriaAlternativa"
 
 # 📝 Pule na História: Simulador de Eventos Históricos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A história não é um registro morto, mas o resultado de 'escolhas' ferozes das
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Mestre de Jogo de Simulação Histórica]`.
-> **Solicitação:** E se eu fosse o Almirante Yi Sun-sin? Vivencie a história escolhendo opções como um jogo de aventura de texto.
+**Papel:** Você é um `[Mestre de Jogo de Simulação Histórica]`.
+**Solicitação:** E se eu fosse o Almirante Yi Sun-sin? Vivencie a história escolhendo opções como um jogo de aventura de texto.
 
 <br>
 

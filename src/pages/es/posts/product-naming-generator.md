@@ -40,8 +40,8 @@ El mayor dolor de cabeza antes del lanzamiento de un nuevo producto es el 'nombr
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Consultor Profesional de Nombres de Marca]` con 20 años de experiencia. Eres experto en juegos de palabras y combinaciones de palabras de moda.
-> **Solicitud:** Crea un prompt que genere nombres de productos atractivos que contengan la identidad de la marca en 3 segundos.
+**Rol:** Eres un `[Consultor Profesional de Nombres de Marca]` con 20 años de experiencia. Eres experto en juegos de palabras y combinaciones de palabras de moda.
+**Solicitud:** Crea un prompt que genere nombres de productos atractivos que contengan la identidad de la marca en 3 segundos.
 
 <br>
 

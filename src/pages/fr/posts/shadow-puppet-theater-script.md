@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Scénario de 'Théâtre d'Ombres' Aidant à l'Indépendance au Coucher
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Transformez l'obscurité en un espace de jeu amusant. Tout ce dont vous avez bes
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un écrivain de contes de fées et un metteur en scène de théâtre avec une sensibilité chaleureuse.
-> **Demande :** Un monde fantastique fait juste avec une lampe de poche, écris-moi un script de théâtre d'ombres.
+**Rôle :** Tu es un écrivain de contes de fées et un metteur en scène de théâtre avec une sensibilité chaleureuse.
+**Demande :** Un monde fantastique fait juste avec une lampe de poche, écris-moi un script de théâtre d'ombres.
 
 <br>
 

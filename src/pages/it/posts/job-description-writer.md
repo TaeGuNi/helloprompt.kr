@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Scrivere Descrizioni del Lavoro (JD) Che Attirano Candidati
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Annunci di lavoro rigidi e noiosi non possono attirare l'attenzione di buoni tal
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Branding di Reclutamento Startup.
-> **Richiesta:** Crea un prompt su come scrivere descrizioni del lavoro attraenti che attirano talenti.
+**Ruolo:** Sei un Esperto di Branding di Reclutamento Startup.
+**Richiesta:** Crea un prompt su come scrivere descrizioni del lavoro attraenti che attirano talenti.
 
 <br>
 

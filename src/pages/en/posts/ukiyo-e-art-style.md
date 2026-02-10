@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 
 # 📝 Aesthetics of Waves: Ukiyo-e Style
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Cat and Mount Fuji.`
 
-> (Result: Photo of a real cat sitting in front of Mount Fuji)
+(Result: Photo of a real cat sitting in front of Mount Fuji)
 
 ### ✅ After (Result)
 
 `Ukiyo-e` prompt applied
 
-> (Result: Masterpiece harmonizing wave patterns drawn as if by brush, woodblock texture cat, and old paper colors)
+(Result: Masterpiece harmonizing wave patterns drawn as if by brush, woodblock texture cat, and old paper colors)
 
 ---
 

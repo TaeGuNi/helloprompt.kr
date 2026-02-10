@@ -17,9 +17,9 @@ tags:
 
 # 📝 Générateur de Copie Publicitaire Facebook/Insta Qui Appelle aux Clics
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Est-ce que vous vous demandez "Que devrais-je écrire ?" chaque fois que vous co
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Marketing de Performance]`. Tu écris bien des copies publicitaires avec un haut Taux de Clics (CTR) et Taux de Conversion (CVR).
-> **Demande :** Crée un prompt sur comment écrire un Texte Principal de Publicité SNS (Texte Primaire) qui arrête le défilement.
+**Rôle :** Tu es un `[Expert en Marketing de Performance]`. Tu écris bien des copies publicitaires avec un haut Taux de Clics (CTR) et Taux de Conversion (CVR).
+**Demande :** Crée un prompt sur comment écrire un Texte Principal de Publicité SNS (Texte Primaire) qui arrête le défilement.
 
 <br>
 

@@ -11,10 +11,10 @@ tags: ["Greetings", "Body Language", "Gestures", "Cultural Communication"]
 
 # 📝 Magical Greetings & Gestures to Become Friends with Locals in 3 Seconds
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

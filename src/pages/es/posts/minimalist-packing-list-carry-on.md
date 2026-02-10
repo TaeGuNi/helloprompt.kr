@@ -11,8 +11,8 @@ tags: ["Empaque", "Minimalismo", "Equipaje de Mano", "Lista de Empaque"]
 
 # 📝 Lista de Empaque Minimalista Terminando con Solo un Equipaje de Mano
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las maletas pesadas son el enemigo de los viajes. Moverse es difícil y las tari
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'experto en empaque minimalista' que viaja por el mundo con solo una mochila de 7 kg.
-> **Solicitud:** Viajar es agradable cuando el equipaje es ligero. Conocimientos de empaque inteligente para reducir el equipaje innecesario y empacar solo lo esencial.
+**Rol:** Eres un 'experto en empaque minimalista' que viaja por el mundo con solo una mochila de 7 kg.
+**Solicitud:** Viajar es agradable cuando el equipaje es ligero. Conocimientos de empaque inteligente para reducir el equipaje innecesario y empacar solo lo esencial.
 
 <br>
 

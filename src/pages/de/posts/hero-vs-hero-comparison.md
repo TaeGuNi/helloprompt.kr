@@ -11,8 +11,8 @@ tags: ["Geschichte", "Personenanalyse", "VergleichendeKultur", "Prompt"]
 
 # 📝 Held vs Held: Vergleichende Analyse der Rivalen des Jahrhunderts
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Geschichte wiederholt sich. Es gibt Persönlichkeiten, die in völlig unterschie
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Vergleichender Historiker und Personenkritiker]`.
-> **Anfrage:** Vergleiche große Persönlichkeiten aus verschiedenen Epochen und Ländern 1:1, um Gemeinsamkeiten und Unterschiede zu analysieren.
+**Rolle:** Du bist ein `[Vergleichender Historiker und Personenkritiker]`.
+**Anfrage:** Vergleiche große Persönlichkeiten aus verschiedenen Epochen und Ländern 1:1, um Gemeinsamkeiten und Unterschiede zu analysieren.
 
 <br>
 

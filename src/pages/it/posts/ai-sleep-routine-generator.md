@@ -11,8 +11,8 @@ tags: ["Routine del Sonno", "Insonnia", "Abitudine", "Salute", "ChatGPT"]
 
 # 🧠 Generatore di Routine del Sonno IA: Insegnare al Tuo Cervello che è Ora di Dormire
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ I nostri cervelli amano i segnali. Se dai ripetutamente un segnale che 'fare que
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno psicologo comportamentale e un coach del sonno. Sei un esperto nell'aiutare la formazione delle abitudini.
-> **Richiesta:** Progetta una routine magica che mi faccia venire sonno solo facendo azioni specifiche, come il cane di Pavlov.
+**Ruolo:** Sei uno psicologo comportamentale e un coach del sonno. Sei un esperto nell'aiutare la formazione delle abitudini.
+**Richiesta:** Progetta una routine magica che mi faccia venire sonno solo facendo azioni specifiche, come il cane di Pavlov.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Blog", "Content Marketing", "SEO", "Copywriting"]
 
 # 📝 Blog Post Title Generator That Calls for Clicks
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

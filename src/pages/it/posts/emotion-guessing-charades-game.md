@@ -19,7 +19,7 @@ tags:
 # 📝 Aumenta l'Intelligenza Emotiva del Nostro Bambino! Gioco 'Indovina Come Mi Sento?'
 
 - **🎯 Pubblico Target:** Tutti
-  > **⏱️ Tempo Richiesto:** 5 minuti
+  **⏱️ Tempo Richiesto:** 5 minuti
 - **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Traurig, wenn Sie krank sind! Checkliste für Notfallmedizin & Erste-Hilfe-Kasten für Auslandsreisen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Nichts ist trauriger, als in einem fremden Land krank zu sein. Bereiten Sie ein 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Apotheker, der auf Reisemedizin spezialisiert ist.
-> **Anfrage:** Irren Sie nicht umher, um eine lokale Apotheke zu suchen. Sagen Sie mir, wie man unverzichtbare Erste-Hilfe-Kästen und Notfall-Kits nach Situation/Symptom zusammenstellt.
+**Rolle:** Du bist ein Apotheker, der auf Reisemedizin spezialisiert ist.
+**Anfrage:** Irren Sie nicht umher, um eine lokale Apotheke zu suchen. Sagen Sie mir, wie man unverzichtbare Erste-Hilfe-Kästen und Notfall-Kits nach Situation/Symptom zusammenstellt.
 
 <br>
 

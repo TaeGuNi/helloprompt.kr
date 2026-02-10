@@ -11,8 +11,8 @@ tags: ["LetteraPresentazione", "AutoIntro", "AnalisiJD", "Lavoro"]
 
 # 📝 Generatore Bozza Lettera di Presentazione Su Misura per JD (Descrizione Lavoro)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La migliore lettera di presentazione racconta **'storia azienda vuole sentire'**
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un caposquadra risorse umane di una grande azienda e membro comitato valutazione assunzioni.
-> **Richiesta:** Analizza Descrizione Lavoro (JD) e scrive bozza lettera di presentazione adattandosi perfettamente al talento desiderato dall'azienda in 1 minuto.
+**Ruolo:** Sei un caposquadra risorse umane di una grande azienda e membro comitato valutazione assunzioni.
+**Richiesta:** Analizza Descrizione Lavoro (JD) e scrive bozza lettera di presentazione adattandosi perfettamente al talento desiderato dall'azienda in 1 minuto.
 
 <br>
 

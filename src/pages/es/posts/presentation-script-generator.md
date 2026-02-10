@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 ¡Superando la Fobia a las Presentaciones! Creando Guiones de Presentación
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Hay muchos casos en los que los materiales de presentación son excelentes pero 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Entrenador Profesional de Charlas TED.
-> **Solicitud:** Genera guiones de presentación naturales por diapositiva PPT.
+**Rol:** Eres un Entrenador Profesional de Charlas TED.
+**Solicitud:** Genera guiones de presentación naturales por diapositiva PPT.
 
 <br>
 

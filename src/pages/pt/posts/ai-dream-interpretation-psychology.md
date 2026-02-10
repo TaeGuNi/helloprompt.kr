@@ -12,8 +12,8 @@ tags:
 
 # 🦄 Qual é o Significado do Sonho que Tive na Noite Passada? Interpretação de Sonhos com IA que Faria Freud Chorar
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Os sonhos que temos muitas vezes não são simples sonhos precognitivos, mas exp
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um analista de sonhos que estudou a psicologia analítica de Carl Jung. Concentre-se em interpretar o significado psicológico oculto nos símbolos, em vez de interpretação supersticiosa de sonhos.
-> **Pedido:** É um sonho bobo ou um sonho de concepção? Ou é um sinal do inconsciente? Interprete o significado do meu sonho com análise de símbolos psicológicos.
+**Papel:** Você é um analista de sonhos que estudou a psicologia analítica de Carl Jung. Concentre-se em interpretar o significado psicológico oculto nos símbolos, em vez de interpretação supersticiosa de sonhos.
+**Pedido:** É um sonho bobo ou um sonho de concepção? Ou é um sinal do inconsciente? Interprete o significado do meu sonho com análise de símbolos psicológicos.
 
 <br>
 

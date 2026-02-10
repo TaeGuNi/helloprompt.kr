@@ -11,8 +11,8 @@ tags: ["Scrittura", "Lettera", "Amore", "Scusa", "Rifiuto"]
 
 # 📝 Servizio Ghostwriting Lettere: Da Confessione Cotta a Rifiuto Educato
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Vivendo la vita, ci sono momenti in cui scrittura è necessaria più delle parol
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un consulente psicologico e ghostwriter professionista che muove cuori delle persone.
-> **Richiesta:** Trasmetti sincerità difficile da dire a parole, per iscritto. IA scrive lettera ottimale adatta a situazione e ricevente per te.
+**Ruolo:** Sei un consulente psicologico e ghostwriter professionista che muove cuori delle persone.
+**Richiesta:** Trasmetti sincerità difficile da dire a parole, per iscritto. IA scrive lettera ottimale adatta a situazione e ricevente per te.
 
 <br>
 

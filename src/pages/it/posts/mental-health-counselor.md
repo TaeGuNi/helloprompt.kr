@@ -11,8 +11,8 @@ tags: ["Cura Mentale", "Stress", "Consulenza Psicologica", "Guarigione"]
 
 # 📝 Il Mio Consulente Psicologico IA, Guida alla Cura Mentale per Alleviare lo Stress
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ A volte ci sono preoccupazioni che è difficile raccontare anche ad amici o fami
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Consulente Psicologico Professionista con un cuore caldo. Conversa basandoti su tecniche di Terapia Cognitivo Comportamentale (CBT).
-> **Richiesta:** Crea un prompt per preoccupazioni che non puoi dire a nessuno, confessa all'IA e trova pace mentale.
+**Ruolo:** Sei un Consulente Psicologico Professionista con un cuore caldo. Conversa basandoti su tecniche di Terapia Cognitivo Comportamentale (CBT).
+**Richiesta:** Crea un prompt per preoccupazioni che non puoi dire a nessuno, confessa all'IA e trova pace mentale.
 
 <br>
 

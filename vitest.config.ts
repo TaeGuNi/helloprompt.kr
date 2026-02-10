@@ -16,4 +16,5 @@ export default getViteConfig({
       },
     },
   },
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
 } as any);

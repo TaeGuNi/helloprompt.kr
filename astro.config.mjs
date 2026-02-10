@@ -7,7 +7,7 @@ import { visit } from "unist-util-visit";
 function rehypeWrap() {
   /** @param {any} tree */
   return (tree) => {
-    // @ts-expect-error
+    // @ts-expect-error: visitor function types are incompatible but runtime is fine
     visit(tree, "element", (node, index, parent) => {
       // 1. 코드 블럭 (pre) 감싸기
       if (node.tagName === "pre") {
@@ -57,7 +57,7 @@ export default defineConfig({
   site: "https://helloprompt.kr",
   integrations: [
     sitemap(),
-    // @ts-expect-error
+    // @ts-expect-error: AstroPWA types might conflict with Astro integration types
     AstroPWA({
       registerType: "autoUpdate",
       manifest: {

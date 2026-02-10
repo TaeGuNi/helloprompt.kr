@@ -922,49 +922,44 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         const wrappers = document.querySelectorAll(".quote-wrapper"); // code-wrapper 제외 (결과물)
 
         wrappers.forEach((wrapper) => {
-          // 필터링 로직: Basic Version 또는 Pro Version 섹션 아래에 있는 경우만 처리
+          // 1. 가장 가까운 이전 헤더 찾기
           let currentNode = wrapper.previousElementSibling;
-          let isTargetSection = false;
+          let targetHeader = null;
 
-          // 역방향 탐색으로 가장 가까운 헤더 찾기
           while (currentNode) {
             if (
               ["H1", "H2", "H3", "H4", "H5", "H6"].includes(currentNode.tagName)
             ) {
-              const headerText = currentNode.textContent.toLowerCase();
-              if (
-                headerText.includes("basic version") ||
-                headerText.includes("pro version")
-              ) {
-                isTargetSection = true;
-              }
-              break; // 가장 가까운 헤더를 찾았으면 중단
+              targetHeader = currentNode;
+              break;
             }
             currentNode = currentNode.previousElementSibling;
           }
 
-          if (!isTargetSection) return; // 타겟 섹션이 아니면 스킵
+          // 2. 헤더 검증 (Strict Mode)
+          // 헤더가 없거나 (Hook), "Basic Version" 또는 "Pro Version"이 아니면 제외
+          if (!targetHeader) return;
 
-          // 추가 필터링: 내용 기반 제외 (Hook, Before/After 등 방지)
+          const headerText = targetHeader.textContent.toLowerCase();
+          if (
+            !headerText.includes("basic version") &&
+            !headerText.includes("pro version")
+          ) {
+            return;
+          }
+
+          // 3. 내용 기반 2차 필터링 (안전장치)
           if (wrapper.classList.contains("quote-wrapper")) {
             const blockquote = wrapper.querySelector("blockquote");
             if (blockquote) {
               const text = blockquote.innerText.trim();
-
-              // 1. 대화문 및 상태 아이콘 (Before/After)
-              // "해커:", "AI:" 또는 X/Check 아이콘이 있으면 제외
               if (
                 text.includes("해커:") ||
                 text.includes("AI:") ||
                 text.includes("❌") ||
-                text.includes("✅")
+                text.includes("✅") ||
+                /^[_*"'“]/.test(text)
               ) {
-                return;
-              }
-
-              // 2. Hook 문구 (따옴표, 이탤릭, 밑줄로 시작하는 경우)
-              // 예: _"..."_, "...", *...*
-              if (/^[_*"'“]/.test(text)) {
                 return;
               }
             }

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.2.3...v1.3.0) (2026-02-10)
+
+### Features
+
+- **content:** daily prompts (Quality: 700pts) ([91c6b20](https://github.com/TaeGuNi/helloprompt.kr/commit/91c6b2092a66520be7e85388b5701b5c0b2d0599))
+
 ### [1.2.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.2.2...v1.2.3) (2026-02-10)
 
 ### [1.2.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.2.1...v1.2.2) (2026-02-10)

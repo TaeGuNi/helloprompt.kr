@@ -339,7 +339,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
 
       /* 라벨 (Wrapper 위에 고정) */
       .code-wrapper::before {
-        content: "RESULT OUTPUT";
+        content: "EXAMPLE";
         position: absolute;
         top: -12px;
         left: 20px;
@@ -474,7 +474,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       .action-buttons {
         display: flex;
         gap: 10px;
-        margin-top: 20px; /* 여백 증가 */
+        margin: 10px;
         justify-content: flex-end;
         flex-wrap: wrap;
       }
@@ -538,7 +538,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       .toc-sidebar {
         position: fixed;
         top: 100px;
-        right: max(20px, calc(50% - 600px));
+        right: max(20px, calc(50% - 610px));
         width: 200px;
         display: none;
       }
@@ -965,9 +965,6 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
             }
           }
 
-          // 4. [NEW] Validated Prompt -> Add Class to Show Label
-          // Moved to Step C (after copy button creation)
-
           // A. Convert [placeholders] to Input Fields (Only for Prompts)
           if (wrapper.classList.contains("quote-wrapper")) {
             const blockquote = wrapper.querySelector("blockquote");
@@ -1022,7 +1019,10 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
           };
 
           // C. Create Copy Button
-          if (wrapper.querySelector(".copy-btn")) return; // 중복 방지
+          if (wrapper.querySelector(".copy-btn")) {
+            wrapper.classList.add("is-prompt");
+            return;
+          }
 
           const btn = document.createElement("button");
           btn.className = "copy-btn";

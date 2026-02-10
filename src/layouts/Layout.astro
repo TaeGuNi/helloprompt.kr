@@ -965,10 +965,8 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
             }
           }
 
-          // 4. [NEW] Validated Prompt -> Add Class to Show Label (Only for Pro Version)
-          if (headerText.includes("pro version")) {
-            wrapper.classList.add("is-prompt");
-          }
+          // 4. [NEW] Validated Prompt -> Add Class to Show Label
+          // Moved to Step C (after copy button creation)
 
           // A. Convert [placeholders] to Input Fields (Only for Prompts)
           if (wrapper.classList.contains("quote-wrapper")) {
@@ -1049,6 +1047,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
           });
 
           wrapper.appendChild(btn);
+          wrapper.classList.add("is-prompt");
 
           // D. Action Buttons (ChatGPT/Claude)
           if (wrapper.classList.contains("quote-wrapper")) {

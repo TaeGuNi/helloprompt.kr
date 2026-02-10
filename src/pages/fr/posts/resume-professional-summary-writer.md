@@ -11,9 +11,9 @@ tags: ["CV", "Résumé", "RésuméProfil", "AutoIntro"]
 
 # 📝 Première Impression du CV, Prompt d'Écriture de 'Résumé'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

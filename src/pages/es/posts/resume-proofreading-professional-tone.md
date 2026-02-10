@@ -17,8 +17,8 @@ tags:
 
 # 📝 Corrección de Tono de Currículum: Cómo Deshacerse de 'Amateur' y Parecer 'Pro'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

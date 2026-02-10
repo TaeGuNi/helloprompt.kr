@@ -67,11 +67,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 4.  **Refactoring:** Show improved code snippets based on the pointed out contents.
 >
 > **Code:**
->
-> ```
+
 > [Paste the code to be reviewed here]
-> ```
->
+
 > **Constraints:**
 >
 > - Keep the tone polite but firm (Professional yet firm).

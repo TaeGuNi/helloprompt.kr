@@ -67,11 +67,9 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 4.  **Refactoring:** Mostra frammenti di codice migliorati basati sui contenuti segnalati.
 >
 > **Codice:**
->
-> ```
+
 > [Incolla il codice da revisionare qui]
-> ```
->
+
 > **Vincoli:**
 >
 > - Mantieni il tono educato ma fermo (Professionale ma fermo).

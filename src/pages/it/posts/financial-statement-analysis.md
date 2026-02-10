@@ -11,8 +11,8 @@ tags: ["Azioni", "BilancioFinanziario", "AnalisiFondamentale", "Investimento"]
 
 # 📝 Prompt di Analisi Ultra-Veloce del Bilancio Finanziario
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

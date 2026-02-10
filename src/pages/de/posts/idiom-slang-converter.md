@@ -11,8 +11,8 @@ tags: ["Englischkonversation", "Slang", "Idiom", "AmerikanischesDramaEnglisch"]
 
 # 📝 Sprechen wie ein Drama-Protagonist: Idiom & Slang Automat
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

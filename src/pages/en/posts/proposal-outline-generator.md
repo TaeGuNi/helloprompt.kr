@@ -11,7 +11,7 @@ tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 
 # 📝 Creating an Irresistible Proposal Outline
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

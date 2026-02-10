@@ -11,8 +11,8 @@ tags: ["Física", "Engenharia", "ResoluçãoProblemas", "Prompt"]
 
 # 📝 Tradutor de Problemas de Física: Do Julgamento da Situação à Montagem de Equações
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

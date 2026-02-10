@@ -11,7 +11,7 @@ tags: ["STARTechnique", "InterviewAnswer", "Structuring", "LogicalSpeaking"]
 
 # 📝 When Interview Answer Rambles! 'STAR Technique' Answer Structuring Prompt
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

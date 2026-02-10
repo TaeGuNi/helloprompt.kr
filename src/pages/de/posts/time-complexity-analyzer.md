@@ -71,11 +71,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. Wenn es eine effizientere Methode gibt (z.B. O(N^2) -> O(N log N)), erkläre sie mit dem verbesserten Code.
 >
 > **Code:**
->
-> ```
+
 > [Fügen Sie den zu analysierenden Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Analysiere basierend auf dem Worst Case.

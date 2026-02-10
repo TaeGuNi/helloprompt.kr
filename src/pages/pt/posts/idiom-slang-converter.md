@@ -11,8 +11,8 @@ tags: ["ConversaçãoEmInglês", "Gíria", "Idioma", "InglêsDramaAmericano"]
 
 # 📝 Falando Como um Protagonista de Drama: Máquina de Venda de Idioma & Gíria
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

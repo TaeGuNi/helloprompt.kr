@@ -68,10 +68,8 @@ Copy the **PROMPT** content below and use it.
 > - Organize correction notes nicely using Bullet points.
 >
 > **Sentence I wrote:**
->
-> ```text
+
 > [Paste the sentence you want corrected here]
-> ```
 
 ---
 

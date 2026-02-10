@@ -11,8 +11,8 @@ tags: ["Currículo", "Resumo", "ResumoPerfil", "AutoIntro"]
 
 # 📝 Primeira Impressão do Currículo, Prompt de Escrita de 'Resumo'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

@@ -11,8 +11,8 @@ tags: ["Ioga", "Alongamento", "Flexibilidade", "Treino em Casa", "ChatGPT"]
 
 # 🧘‍♀️ Corpo Rígido OK! Sequência de Yoga Personalizada Projetada pela IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

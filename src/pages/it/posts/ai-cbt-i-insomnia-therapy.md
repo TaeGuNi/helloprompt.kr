@@ -11,8 +11,8 @@ tags: ["Insonnia", "CBT-I", "Terapia del Sonno", "Cura Mentale", "ChatGPT"]
 
 # 💊 Curare l'Insonnia Senza Farmaci: Prompt CBT-I IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

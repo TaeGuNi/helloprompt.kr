@@ -11,7 +11,7 @@ tags: ["Resume", "STARmethod", "JobPrep", "QuantifyingAchievement"]
 
 # 📝 STAR Technique Prompt: Proving Resume Achievements with 'Numbers'
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,9 +11,9 @@ tags: ["Personal Branding", "Écriture", "LinkedIn", "Marketing de Contenu"]
 
 # 📝 Créer Ma Propre Marque 'Post LinkedIn' Prompt
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

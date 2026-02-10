@@ -11,8 +11,8 @@ tags: ["TécnicaSTAR", "RespuestaEntrevista", "Estructuración", "HablaLógica"]
 
 # 📝 ¡Cuando la Respuesta de la Entrevista Divaga! Prompt de Estructuración de Respuesta 'Técnica STAR'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

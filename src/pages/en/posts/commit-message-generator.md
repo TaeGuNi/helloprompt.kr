@@ -65,11 +65,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 3. **Footer:** (Optional) If there is an issue number, add it in `Closes #123` format.
 >
 > **Changes (git diff or summary):**
->
-> ```
+
 > [Write `git diff` result or changes simply here]
-> ```
->
+
 > **Constraints:**
 >
 > - Type kinds: Select one of `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.

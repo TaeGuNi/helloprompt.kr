@@ -11,8 +11,8 @@ tags: ["Fisica", "Ingegneria", "RisoluzioneProblemi", "Prompt"]
 
 # 📝 Traduttore di Problemi di Fisica: Dal Giudizio della Situazione all'Impostazione delle Equazioni
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

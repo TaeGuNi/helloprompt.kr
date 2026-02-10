@@ -17,8 +17,8 @@ tags:
 
 # 📝 Jobangebot-Vergleich & Gegenangebot-Strategie Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

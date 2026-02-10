@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Creando un Esquema de Propuesta Irresistible
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

@@ -11,8 +11,8 @@ tags: ["Café", "E-mail Frio", "Networking", "Mentoria"]
 
 # 📝 Prompt de Solicitação de 'Café' por E-mail Frio sem Rejeição
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

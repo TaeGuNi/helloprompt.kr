@@ -64,17 +64,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. Erkläre, warum dieses Problem aufgetreten ist, damit es auch ein Anfänger verstehen kann.
 >
 > **Fehlerprotokoll:**
->
-> ```
+
 > [Fügen Sie Fehlermeldung oder Stack-Trace hier ein]
-> ```
->
+
 > **Codeausschnitt:**
->
-> ```
+
 > [Fügen Sie den verdächtigen Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Sag nicht nur "Habe es repariert", erkläre logisch "Warum es kaputt ging".

@@ -11,9 +11,9 @@ tags: ["ConversationAnglaise", "Argot", "Idiome", "AnglaisDrameAméricain"]
 
 # 📝 Parler Comme un Protagoniste de Drame : Distributeur d'Idiomes & Argot
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

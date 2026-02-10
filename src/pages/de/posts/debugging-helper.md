@@ -11,8 +11,8 @@ tags: ["Debugging", "Fehlerbehebung", "Entwickler", "Produktivität"]
 
 # 📝 Bug-Jäger: Debugging-Prompt, um Fehler in 1 Minute zu fangen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -62,16 +62,12 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 > 3. **[Prävention]**: Sag mir, welche Gewohnheiten ich haben sollte, um diesen Fehler in Zukunft nicht zu machen, oder 'Ausnahmebehandlungs'-Code, der gut hinzuzufügen wäre.
 >
 > **Fehlermeldung:**
->
-> ```text
+
 > [Füge Fehlerprotokoll hier ein]
-> ```
->
+
 > **Geschriebener Code:**
->
-> ```text
+
 > [Füge problematischen Code hier ein]
-> ```
 
 ---
 

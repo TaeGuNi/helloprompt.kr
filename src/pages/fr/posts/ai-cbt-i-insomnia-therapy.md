@@ -11,9 +11,9 @@ tags: ["Insomnie", "TCC-I", "Thérapie du Sommeil", "Soins Mentaux", "ChatGPT"]
 
 # 💊 Soigner l'Insomnie Sans Médicament : Prompt TCC-I IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

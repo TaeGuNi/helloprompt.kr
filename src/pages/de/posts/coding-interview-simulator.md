@@ -12,8 +12,8 @@ tags:
 
 # 📝 Entwickler-Interview Freipass: Algorithmus-Interview Probeprüfung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -65,10 +65,8 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 >
 > **Problem:** `[Schreibe Probleminhalt einfach, z.B.: Finde Summe von zwei Zahlen]`
 > **Mein Code:**
->
-> ```python
+
 > [Füge geschriebenen Code hier ein]
-> ```
 
 ---
 

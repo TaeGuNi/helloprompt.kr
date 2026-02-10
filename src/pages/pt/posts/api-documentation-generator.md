@@ -68,11 +68,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 4. **Response:** Estrutura de resposta e JSON de exemplo para sucesso (200) e falha (400, 500, etc.)
 >
 > **Código:**
->
-> ```
+
 > [Cole o código do controlador/roteador aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Especifique claramente os tipos de dados (String, Integer, etc.).

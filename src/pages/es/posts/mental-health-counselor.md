@@ -11,8 +11,8 @@ tags: ["Cuidado Mental", "Estrés", "Consejería Psicológica", "Sanación"]
 
 # 📝 Mi Propio Consejero Psicológico de IA, Guía de Cuidado Mental para Alivio del Estrés
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

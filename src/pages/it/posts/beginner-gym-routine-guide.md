@@ -18,8 +18,8 @@ tags:
 
 # 🏋️‍♀️ Guida alla Routine in Palestra per Principianti per Sembrare un Professionista
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

@@ -11,8 +11,8 @@ tags: ["EstudioMatemáticas", "ResoluciónProblemas", "Prompt", "Tutoría"]
 
 # 📝 Salvador de Abandonar Matemáticas: Explicador Amigable de Problemas Matemáticos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Was werde ich in 5 Jahren sein? 'Karriere-Roadmap' Design-Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

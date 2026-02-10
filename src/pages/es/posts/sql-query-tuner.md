@@ -67,11 +67,9 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > **BD Usada:** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
 >
 > **Consulta Objetivo:**
->
-> ```sql
+
 > [Pega la consulta lenta aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - El conjunto de datos de resultado de la consulta existente nunca debe cambiar.

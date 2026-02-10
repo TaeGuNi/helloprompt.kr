@@ -11,8 +11,8 @@ tags: ["PronúnciaInglesa", "Shadowing", "Prompt", "Falar"]
 
 # 📝 Coaching de Pronúncia Nativa Aprendido por Texto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

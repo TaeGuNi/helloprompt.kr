@@ -64,11 +64,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 3. Include code to infer types (`z.infer`) from the Zod schema.
 >
 > **JSON Data:**
->
-> ```text
+
 > [Paste JSON data here]
-> ```
->
+
 > **Constraints:**
 >
 > - Assume all fields are required by default, but treat them as optional (`?`) only if `null` is included.

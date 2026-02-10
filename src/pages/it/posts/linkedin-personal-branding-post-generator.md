@@ -11,8 +11,8 @@ tags: ["Personal Branding", "Scrittura", "LinkedIn", "Content Marketing"]
 
 # 📝 Creare il Mio 'Post LinkedIn' per il Brand Personale Prompt
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

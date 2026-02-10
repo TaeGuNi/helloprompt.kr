@@ -12,8 +12,8 @@ tags:
 
 # 📝 Vergleich meines Lebenslaufs und JD: 'Skill Gap' Diagnose-Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

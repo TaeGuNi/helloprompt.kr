@@ -11,8 +11,8 @@ tags: ["Haustiere", "Hundetraining", "Katzen", "Tiererziehung"]
 
 # 🐶 "Es gibt keine schlechten Hunde, nur schlechte Prompts"
 
-> **🎯 Empfohlen für:** Neue Tierbesitzer, Lärmbeschwerden-Empfänger, Budgetbewusste
-> **⏱️ Zeitersparnis:** 15 Min (Beobachten) → 1 Min (Diagnose)
+- **🎯 Empfohlen für:** Neue Tierbesitzer, Lärmbeschwerden-Empfänger, Budgetbewusste
+- **⏱️ Zeitersparnis:** 15 Min (Beobachten) → 1 Min (Diagnose)
 
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 

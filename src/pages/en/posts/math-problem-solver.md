@@ -11,7 +11,7 @@ tags: ["MathStudy", "ProblemSolving", "Prompt", "Tutoring"]
 
 # 📝 Math Give-up Saviour: Friendly Math Problem Explainer
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

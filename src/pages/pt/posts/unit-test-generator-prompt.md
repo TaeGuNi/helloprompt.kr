@@ -11,8 +11,8 @@ tags: ["Código de Teste", "TDD", "Jest", "PyTest", "QA"]
 
 # 📝 Escrevendo Código de Teste, Um Prompt Que Termina em 5 Minutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -65,11 +65,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 4. Adicione comentários para cada caso de teste explicando o que ele verifica.
 >
 > **Código:**
->
-> ```
+
 > [Cole o código para testar aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Inclua vários cenários para que a cobertura de teste seja a mais alta possível.

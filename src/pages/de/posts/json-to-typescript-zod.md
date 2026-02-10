@@ -64,11 +64,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. Füge Code hinzu, um Typen (`z.infer`) aus dem Zod-Schema abzuleiten.
 >
 > **JSON-Daten:**
->
-> ```text
+
 > [Fügen Sie JSON-Daten hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Gehen Sie davon aus, dass alle Felder standardmäßig erforderlich sind, behandeln Sie sie aber nur als optional (`?`), wenn `null` enthalten ist.

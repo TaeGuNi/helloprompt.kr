@@ -18,8 +18,8 @@ tags:
 
 # 📝 Prompt Mudando Currículo Coreano para Currículo Inglês Nível Nativo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

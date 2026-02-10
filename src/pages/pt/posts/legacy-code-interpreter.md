@@ -65,11 +65,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 3. **Precauções:** Avise se houver partes para ter cuidado especial ao modificar (pontos esperados de Efeito Colateral).
 >
 > **Código:**
->
-> ```
+
 > [Cole o código para interpretar aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Mapeie termos de desenvolvimento (nomes de variáveis etc.) e termos de negócios para explicar.

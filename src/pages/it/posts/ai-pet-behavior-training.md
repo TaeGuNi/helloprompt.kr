@@ -11,8 +11,8 @@ tags: ["Animali", "Addestramento Cani", "Gatti", "Genitori di Animali"]
 
 # 🐶 "Non ci sono cattivi cani, solo cattivi prompt"
 
-> **🎯 Ideale per:** Nuovi proprietari, Chi riceve lamentele per il rumore, Attenti al budget
-> **⏱️ Tempo risparmiato:** 15 min (osservare) → 1 min (diagnosticare)
+- **🎯 Ideale per:** Nuovi proprietari, Chi riceve lamentele per il rumore, Attenti al budget
+- **⏱️ Tempo risparmiato:** 15 min (osservare) → 1 min (diagnosticare)
 
 - **🤖 Modello consigliato:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 

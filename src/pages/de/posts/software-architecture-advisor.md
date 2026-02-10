@@ -11,8 +11,8 @@ tags: ["Architektur", "Design", "Designmuster", "Systemdesign", "MSA"]
 
 # 📝 Stoppt Spaghetti-Code! Architektur-Empfehlung perfekt für mein Projekt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

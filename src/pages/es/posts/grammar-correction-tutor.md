@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¿Por Qué Está Mal Mi Gramática? Profesor de Corrección 1:1
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -69,10 +69,8 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 > - Organiza las notas de corrección agradablemente usando viñetas.
 >
 > **Oración que escribí:**
->
-> ```text
+
 > [Pega la oración que quieres corregida aquí]
-> ```
 
 ---
 

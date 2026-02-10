@@ -67,15 +67,14 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **Task:**
 
 - 1. Analyze the **Time Complexity** and **Space Complexity** of the provided code in Big-O notation.
+
      > 2. Explain the basis line by code line why such complexity comes out.
      > 3. If there is a more efficient method (e.g., O(N^2) -> O(N log N)), explain it with the improved code.
      >
      > **Code:**
-     >
-     > ```
+
      > [Paste the code to analyze here]
-     > ```
-     >
+
      > **Constraints:**
      >
      > - Analyze based on the Worst Case.

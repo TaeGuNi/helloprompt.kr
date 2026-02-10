@@ -12,8 +12,8 @@ tags:
 
 # 📝 Prompt, der gewöhnliche Projekterfahrung in 'Attraktives Portfolio' verwandelt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

@@ -11,9 +11,9 @@ tags: ["Refactorisation", "Clean Code", "Maintenance", "Productivité Dév"]
 
 # 📝 Refactoriser le Code Sale en Code Propre en 1 Seconde
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -66,11 +66,9 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > 5. **Syntaxe Moderne :** Applique la dernière syntaxe moderne du langage.
 >
 > **Code :**
->
-> ```
+
 > [Collez le code à refactoriser ici]
-> ```
->
+
 > **Contraintes :**
 >
 > - Ne change jamais la logique métier (comportement) du code existant.

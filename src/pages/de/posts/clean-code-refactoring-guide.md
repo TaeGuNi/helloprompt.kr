@@ -67,11 +67,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 5. **Moderne Syntax:** Wende die neueste moderne Syntax der Sprache an.
 >
 > **Code:**
->
-> ```
+
 > [Fügen Sie den zu refakturierenden Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Ändere niemals die Geschäftslogik (Verhalten) des bestehenden Codes.

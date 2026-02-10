@@ -67,10 +67,8 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 > - Señala claramente cuál es el papel de la variable.
 >
 > **Código de Entrada:**
->
-> ```python
+
 > [Pega el código aquí]
-> ```
 
 ---
 

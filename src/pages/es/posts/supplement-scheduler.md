@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¿Un Puñado de Pastillas? Combinación de Suplementos Personalizada con IA y Programador
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

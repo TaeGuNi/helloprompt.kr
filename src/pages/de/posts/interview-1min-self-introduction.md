@@ -17,8 +17,8 @@ tags:
 
 # 📝 Erster Knopf des Interviews, Attraktiver '1-Minuten-Selbstvorstellungs'-Schreib-Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

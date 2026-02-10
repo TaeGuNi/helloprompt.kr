@@ -67,11 +67,9 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 5. **Sintassi Moderna:** Applica l'ultima sintassi moderna del linguaggio.
 >
 > **Codice:**
->
-> ```
+
 > [Incolla qui il codice da rifattorizzare]
-> ```
->
+
 > **Vincoli:**
 >
 > - Non cambiare mai la logica aziendale (comportamento) del codice esistente.

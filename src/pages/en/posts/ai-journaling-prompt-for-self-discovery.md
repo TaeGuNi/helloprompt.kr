@@ -11,10 +11,10 @@ tags: ["Diary", "Journaling", "Mental Care", "Self-improvement", "ChatGPT"]
 
 # 📝 AI Journaling Prompt to Discover My Mind I Didn't Know
 
-> **🎯 Recommended for:** Everyone
+- **🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  - **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

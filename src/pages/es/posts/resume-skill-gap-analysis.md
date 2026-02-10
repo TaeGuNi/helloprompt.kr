@@ -17,8 +17,8 @@ tags:
 
 # 📝 Comparando Mi Currículum y JD: Prompt de Diagnóstico de 'Brecha de Habilidad'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

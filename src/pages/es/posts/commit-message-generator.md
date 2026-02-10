@@ -65,11 +65,9 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > 3. **Pie de página:** (Opcional) Si hay un número de problema, agrégalo en formato `Closes #123`.
 >
 > **Cambios (git diff o resumen):**
->
-> ```
+
 > [Escribe el resultado de `git diff` o los cambios simplemente aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - Tipos de Type: Selecciona uno de `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.

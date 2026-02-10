@@ -67,10 +67,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > **DB Used:** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
 
 - **Target Query:**
-  > ```sql
+
   > [Paste slow query here]
-  > ```
-  >
+
   > **Constraints:**
   >
   > - The result dataset of the existing query must never change.

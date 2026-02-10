@@ -64,17 +64,13 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 3. Explain why this problem occurred so that even a beginner can understand.
 >
 > **Error Log:**
->
-> ```
+
 > [Paste error message or stack trace here]
-> ```
->
+
 > **Code Snippet:**
->
-> ```
+
 > [Paste the suspicious code here]
-> ```
->
+
 > **Constraints:**
 >
 > - Don't just say "Fixed it", explain logically "Why it broke".

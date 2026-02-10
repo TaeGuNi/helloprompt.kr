@@ -11,8 +11,8 @@ tags: ["Frontend", "React", "Vue", "Tailwind", "Componente de IU"]
 
 # 📝 Componente Frontend, Apenas Descreva o Design e o Código está Pronto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

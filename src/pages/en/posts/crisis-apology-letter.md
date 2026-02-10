@@ -11,7 +11,7 @@ tags: ["Apology", "Email", "Business", "CrisisManagement", "Communication"]
 
 # 🆘 Crisis Management 101: How to Write Professional Apology Letters
 
-> **🎯 Recommended for:** Freshmen who made a big mistake, CS agents sweating from complaints, Freelancers late on deadline
+- **🎯 Recommended for:** Freshmen who made a big mistake, CS agents sweating from complaints, Freelancers late on deadline
 
 - **⏱️ Time Required:** 1 min (Secure the Golden Time)
 - **🤖 Recommended Model:** Claude 3.5 Sonnet (Best Tone & Manner)

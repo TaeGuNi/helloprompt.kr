@@ -11,8 +11,8 @@ tags: ["ATS", "OtimizaçãoCurrículo", "PalavraChave", "SistemaRecrutamento"]
 
 # 📝 Prevenir Falha ATS (Solução de Recrutamento)! Prompt de Otimização de Palavras-chave de Currículo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

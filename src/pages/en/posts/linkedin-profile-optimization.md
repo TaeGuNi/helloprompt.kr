@@ -11,10 +11,10 @@ tags: ["LinkedIn", "Profile Optimization", "Headhunting", "Personal Branding"]
 
 # 📝 LinkedIn Profile Optimization Prompt: Lining Up Headhunters
 
-> **🎯 Recommended for:** Everyone
+- **🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  - **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

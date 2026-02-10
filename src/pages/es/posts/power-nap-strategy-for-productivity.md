@@ -11,8 +11,8 @@ tags: ["Siesta", "Productividad", "Sueño", "Siesta de Café", "ChatGPT"]
 
 # ⚡ ¡Más Fuerte que el Café! Estrategia de 'Siesta Energética' para Duplicar la Productividad de la Tarde
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

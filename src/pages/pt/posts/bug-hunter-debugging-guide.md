@@ -65,17 +65,13 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 3. Explique por que esse problema ocorreu para que até um iniciante possa entender.
 >
 > **Log de Erro:**
->
-> ```
+
 > [Cole a mensagem de erro ou rastreamento de pilha aqui]
-> ```
->
+
 > **Trecho de Código:**
->
-> ```
+
 > [Cole o código suspeito aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Não diga apenas "Consertei", explique logicamente "Por que quebrou".

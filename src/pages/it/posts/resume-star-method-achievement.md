@@ -11,8 +11,8 @@ tags: ["Curriculum", "MetodoSTAR", "PrepLavoro", "QuantificareRisultato"]
 
 # 📝 Prompt Tecnica STAR: Provare Risultati Curriculum con 'Numeri'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

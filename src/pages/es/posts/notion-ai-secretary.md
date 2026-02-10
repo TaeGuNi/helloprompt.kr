@@ -11,8 +11,8 @@ tags: ["Notion", "NotionAI", "GestiónTareas", "Productividad", "GTD"]
 
 # 🧠 Secretaria de IA de Notion: Clasificación de Tareas Diarias y Auto-Programación
 
-> **🎯 Recomendado para:** Personas que se quedan en blanco con demasiadas tareas, Personas cuyos planes solo son bonitos en papel
-> **⏱️ Tiempo Requerido:** 1 min
+- **🎯 Recomendado para:** Personas que se quedan en blanco con demasiadas tareas, Personas cuyos planes solo son bonitos en papel
+- **⏱️ Tiempo Requerido:** 1 min
 
 - **🤖 Modelo Recomendado:** Notion AI (Pago pero potente) o ChatGPT (Copiar-pegar)
 

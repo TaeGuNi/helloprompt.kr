@@ -11,9 +11,9 @@ tags: ["Excuse", "Email", "Affaires", "GestionCrise", "Communication"]
 
 # 🆘 Gestion de Crise 101 : Comment Écrire des Lettres d'Excuse Professionnelles
 
-> **🎯 Recommandé pour :** Les débutants qui ont fait une grosse erreur, Les agents CS en sueur face aux plaintes, Les freelances en retard
-> **⏱️ Temps Requis :** 1 min (Sécuriser le moment critique)
-> **🤖 Modèle Recommandé :** Claude 3.5 Sonnet (Meilleur Ton & Manière)
+- **🎯 Recommandé pour :** Les débutants qui ont fait une grosse erreur, Les agents CS en sueur face aux plaintes, Les freelances en retard
+- **⏱️ Temps Requis :** 1 min (Sécuriser le moment critique)
+- **🤖 Modèle Recommandé :** Claude 3.5 Sonnet (Meilleur Ton & Manière)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |

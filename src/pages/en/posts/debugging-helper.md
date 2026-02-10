@@ -11,7 +11,7 @@ tags: ["Debugging", "ErrorFixing", "Developer", "Productivity"]
 
 # 📝 Bug Hunter: Debugging Prompt to Catch Errors in 1 Minute
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -62,16 +62,12 @@ Copy the **PROMPT** content below and use it.
 > 3. **[Prevention]**: Tell me what habits I should have to not make this mistake in the future, or 'exception handling' code that would be good to add.
 >
 > **Error Message:**
->
-> ```text
+
 > [Paste error log here]
-> ```
->
+
 > **Written Code:**
->
-> ```text
+
 > [Paste problematic code here]
-> ```
 
 ---
 

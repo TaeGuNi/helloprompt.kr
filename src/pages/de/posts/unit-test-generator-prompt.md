@@ -11,8 +11,8 @@ tags: ["Testcode", "TDD", "Jest", "PyTest", "QA"]
 
 # 📝 Testcode schreiben, ein Prompt, der in 5 Minuten fertig ist
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -65,11 +65,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 4. Füge Kommentare für jeden Testfall hinzu, die erklären, was er überprüft.
 >
 > **Code:**
->
-> ```
+
 > [Fügen Sie den zu testenden Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Schließe verschiedene Szenarien ein, damit die Testabdeckung so hoch wie möglich ist.

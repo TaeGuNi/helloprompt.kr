@@ -67,11 +67,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > **Verwendete DB:** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
 >
 > **Zielabfrage:**
->
-> ```sql
+
 > [Fügen Sie die langsame Abfrage hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Der Ergebnisdatensatz der bestehenden Abfrage darf sich niemals ändern.

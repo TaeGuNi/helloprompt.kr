@@ -11,9 +11,9 @@ tags: ["Marketing", "Nommage", "Marque", "Rédaction Publicitaire"]
 
 # 📝 Nommer des Produits Qui se Vendent : Générateur de Noms
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

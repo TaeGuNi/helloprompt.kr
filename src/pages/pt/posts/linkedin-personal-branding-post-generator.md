@@ -11,8 +11,8 @@ tags: ["Marca Pessoal", "Escrita", "LinkedIn", "Marketing de Conteúdo"]
 
 # 📝 Criando Meu Próprio Prompt de 'Postagem no LinkedIn' de Marca
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

@@ -64,11 +64,9 @@ _“写提交信息比写代码更难啊...”_
 > 3. **页脚 (Footer):** (可选) 如果有 Issue 编号，请以 `Closes #123` 格式添加。
 >
 > **变更事项 (git diff 或摘要):**
->
-> ```
+
 > [请在此处简单写下 `git diff` 结果或变更内容]
-> ```
->
+
 > **约束事项 (Constraints):**
 >
 > - Type 种类: 请在 `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore` 中选择一个。

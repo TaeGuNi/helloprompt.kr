@@ -65,11 +65,9 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > 3. **Precauciones:** Advierte si hay partes con las que tener especial cuidado al modificar (puntos esperados de Efecto Secundario).
 >
 > **Código:**
->
-> ```
+
 > [Pega el código para interpretar aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - Mapea términos de desarrollo (nombres de variables, etc.) y términos de negocio para explicar.

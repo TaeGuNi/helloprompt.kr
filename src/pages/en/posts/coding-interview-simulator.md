@@ -61,12 +61,11 @@ Copy the **PROMPT** content below and use it.
      > 2. **[Code Review]**: Point out points to improve in terms of code style, variable names, and readability. (Welcome harsh words rather than praise)
      > 3. **[Follow-up Question]**: Throw 1 advanced question like "What if input data is 1 million, how would this code be?".
 - 4. **[Model Answer]**: If there is a more efficient way than my solution, give just a hint. (Don't give the answer right away)
+
      > **Problem:** `[Write problem content simply, e.g.: Find sum of two numbers]`
      > **My Code:**
-     >
-     > ```python
+
      > [Paste written code here]
-     > ```
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Diario", "Retrospección", "Diario de Gratitud", "Cuidado Mental"]
 
 # 📝 Cuidado Mental Diario de 5 Minutos, Diario de Gratitud y Prompt de Retrospección con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

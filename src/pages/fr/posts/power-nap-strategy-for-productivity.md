@@ -11,9 +11,9 @@ tags: ["Sieste", "Productivité", "Sommeil", "Sieste Café", "ChatGPT"]
 
 # ⚡ Plus Fort que le Café ! Stratégie de 'Sieste Éclair' pour Doubler la Productivité de l'Après-midi
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

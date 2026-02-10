@@ -11,7 +11,7 @@ tags: ["EducationCost", "Tuition", "Savings", "ChildPlan"]
 
 # 📝 Child Education Fund Plan: 10-Year Long-term Project
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Prompt Rendere Esperienza Progetto Ordinaria in 'Portfolio Attraente'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

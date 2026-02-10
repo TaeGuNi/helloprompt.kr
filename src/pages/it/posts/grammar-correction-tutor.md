@@ -68,10 +68,8 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > - Organizza le note di correzione in modo carino usando punti elenco.
 >
 > **Frase che ho scritto:**
->
-> ```text
+
 > [Incolla qui la frase che vuoi correggere]
-> ```
 
 ---
 

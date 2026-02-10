@@ -11,8 +11,8 @@ tags: ["Planificador", "Programador", "Gestión del Tiempo", "Productividad"]
 
 # 📝 ¡Proyecto Vida Divina! Escritura de Planificador Semanal con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

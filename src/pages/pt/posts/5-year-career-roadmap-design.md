@@ -17,8 +17,8 @@ tags:
 
 # 📝 O Que Serei em 5 Anos? Prompt de Design de 'Roteiro de Carreira'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

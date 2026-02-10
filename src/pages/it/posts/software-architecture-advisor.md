@@ -12,8 +12,8 @@ tags:
 
 # 📝 Basta Codice Spaghetti! Raccomandazione Architettura Perfetta per il Mio Progetto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

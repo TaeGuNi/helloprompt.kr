@@ -11,8 +11,8 @@ tags: ["Pianificatore", "Programmatore", "Gestione Tempo", "Produttività"]
 
 # 📝 Progetto God-Life! Scrittura Pianificatore Settimanale IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

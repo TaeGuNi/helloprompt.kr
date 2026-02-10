@@ -11,8 +11,8 @@ tags: ["ConversazioneInglese", "Slang", "Idiom", "IngleseDrammaAmericano"]
 
 # 📝 Parlare Come un Protagonista di un Dramma: Distributore Automatico di Idiomi & Slang
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

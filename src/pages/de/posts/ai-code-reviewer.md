@@ -67,11 +67,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 4.  **Refactoring:** Zeige verbesserte Code-Snippets basierend auf den hingewiesenen Inhalten.
 >
 > **Code:**
->
-> ```
+
 > [Fügen Sie den zu überprüfenden Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Halte den Ton höflich, aber bestimmt (Professionell, aber bestimmt).

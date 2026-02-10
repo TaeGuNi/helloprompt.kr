@@ -11,8 +11,8 @@ tags: ["Tagebuch", "Rückblick", "Dankbarkeitstagebuch", "Mentale Pflege"]
 
 # 📝 5 Minuten Tägliche mentale Pflege, KI Dankbarkeitstagebuch und Rückblick-Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

@@ -11,9 +11,9 @@ tags: ["Débogage", "CorrectionErreur", "Développeur", "Productivité"]
 
 # 📝 Chasseur de Bugs : Prompt de Débogage pour Attraper les Erreurs en 1 Minute
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -61,16 +61,12 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 > 3. **[Prévention]** : Dis-moi quelles habitudes je devrais avoir pour ne pas faire cette erreur à l'avenir, ou du code de 'gestion des exceptions' qu'il serait bon d'ajouter.
 >
 > **Message d'Erreur :**
->
-> ```text
+
 > [Collez le journal d'erreur ici]
-> ```
->
+
 > **Code Écrit :**
->
-> ```text
+
 > [Collez le code problématique ici]
-> ```
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Programmiergrundlagen", "Metapher", "ITBegriffe", "EinfacheErklärung"]
 
 # 📝 Wenn API mit einem Restaurant verglichen wird? Programmierkonzept-Metapher-Automat
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

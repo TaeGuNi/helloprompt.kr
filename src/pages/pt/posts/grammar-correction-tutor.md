@@ -11,8 +11,8 @@ tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 
 # 📝 Por Que Minha Gramática Está Errada? Professor de Correção 1:1
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -68,10 +68,8 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 > - Organize as notas de correção agradavelmente usando marcadores.
 >
 > **Frase que escrevi:**
->
-> ```text
+
 > [Cole a frase que você quer corrigida aqui]
-> ```
 
 ---
 

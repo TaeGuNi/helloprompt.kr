@@ -63,17 +63,13 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > 3. Explique pourquoi ce problème s'est produit pour que même un débutant puisse comprendre.
 >
 > **Log d'Erreur :**
->
-> ```
+
 > [Collez le message d'erreur ou la trace de pile ici]
-> ```
->
+
 > **Extrait de Code :**
->
-> ```
+
 > [Collez le code suspect ici]
-> ```
->
+
 > **Contraintes :**
 >
 > - Ne dis pas juste "J'ai réparé", explique logiquement "Pourquoi ça a cassé".

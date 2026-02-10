@@ -11,7 +11,7 @@ tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 
 # 📝 Naming Products That Sell: Naming Generator
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

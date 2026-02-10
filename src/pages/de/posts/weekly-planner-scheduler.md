@@ -11,8 +11,8 @@ tags: ["Planer", "Zeitplaner", "Zeitmanagement", "Produktivität"]
 
 # 📝 God-Life Projekt! KI Wochenplaner-Schreiben
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

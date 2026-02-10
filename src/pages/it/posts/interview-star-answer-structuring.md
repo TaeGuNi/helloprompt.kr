@@ -11,8 +11,8 @@ tags: ["TecnicaSTAR", "RispostaColloquio", "Strutturazione", "ParlareLogico"]
 
 # 📝 Quando Risposta Colloquio Divaga! Prompt Strutturazione Risposta 'Tecnica STAR'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Fórmulas Complexas do Excel, Prompt Que as Escreve Quando Explicadas em Palavras
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

@@ -11,8 +11,8 @@ tags: ["Exercício", "Dieta", "Fitness", "Treino em Casa"]
 
 # 📝 Use Secretamente do Professor de PT, Personal Trainer IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

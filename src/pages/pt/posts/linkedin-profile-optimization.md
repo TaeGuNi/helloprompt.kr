@@ -11,8 +11,8 @@ tags: ["LinkedIn", "Otimização de Perfil", "Headhunting", "Marca Pessoal"]
 
 # 📝 Prompt de Otimização de Perfil do LinkedIn: Fazendo Fila de Headhunters
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

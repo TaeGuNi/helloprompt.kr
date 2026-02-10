@@ -11,7 +11,7 @@ tags: ["Physics", "Engineering", "ProblemSolving", "Prompt"]
 
 # 📝 Physics Problem Translator: From Situation Judgment to Setting Up Equations
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

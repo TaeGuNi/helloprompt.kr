@@ -11,8 +11,8 @@ tags: ["ConfiguraçãoPersonagem", "EscritaRomance", "Vilão", "Entrevista"]
 
 # 📝 Criando Vilão 3D: Entrevista Profunda em 3 Passos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

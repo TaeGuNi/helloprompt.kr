@@ -64,11 +64,9 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > 3. **Précautions :** Avertis s'il y a des parties auxquelles il faut faire particulièrement attention lors de la modification (points attendus d'Effet Secondaire).
 >
 > **Code :**
->
-> ```
+
 > [Collez le code à interpréter ici]
-> ```
->
+
 > **Contraintes :**
 >
 > - Mappe les termes de développement (noms de variables, etc.) et les termes métier pour expliquer.

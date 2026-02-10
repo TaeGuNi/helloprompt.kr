@@ -11,8 +11,8 @@ tags: ["Nombrar", "Código Limpio", "Nombre de Variable", "Estudio de Inglés"]
 
 # 📝 Problema de Toda la Vida del Desarrollador "Nombrar Variables", la IA lo Hace por Ti
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

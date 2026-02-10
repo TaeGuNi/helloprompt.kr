@@ -17,8 +17,8 @@ tags:
 
 # 📝 Lebenslauf-Tonkorrektur: Wie man 'Amateur' ablegt und 'Pro' aussieht
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

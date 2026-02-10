@@ -11,8 +11,8 @@ tags: ["Debugging", "Fehlerprotokoll", "Fehlerbehebung"]
 
 # 📝 Unbekanntes Fehlerprotokoll, Ursache in 10 Sekunden analysieren
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

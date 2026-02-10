@@ -12,8 +12,8 @@ tags:
 
 # 🆘 Krisenmanagement 101: Wie man professionelle Entschuldigungsschreiben verfasst
 
-> **🎯 Empfohlen für:** Neulinge, die einen großen Fehler gemacht haben, CS-Agenten, die vor Beschwerden schwitzen, Freelancer im Verzug
-> **⏱️ Benötigte Zeit:** 1 Min (Sichere die goldene Zeit)
+- **🎯 Empfohlen für:** Neulinge, die einen großen Fehler gemacht haben, CS-Agenten, die vor Beschwerden schwitzen, Freelancer im Verzug
+- **⏱️ Benötigte Zeit:** 1 Min (Sichere die goldene Zeit)
 
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (Bester Ton & Stil)
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Prompt di Ottimizzazione Profilo LinkedIn: Mettere in Fila i Cacciatori di Teste
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

@@ -63,12 +63,11 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 > 3. **[Pregunta de Seguimiento]**: Lanza 1 pregunta avanzada como "¿Qué pasa si los datos de entrada son 1 millón, cómo sería este código?".
 
 - 4. **[Respuesta Modelo]**: Si hay una manera más eficiente que mi solución, da solo una pista. (No des la respuesta de inmediato)
+
      > **Problema:** `[Escribe el contenido del problema simplemente, ej.: Encontrar la suma de dos números]`
      > **Mi Código:**
-     >
-     > ```python
+
      > [Pega el código escrito aquí]
-     > ```
 
 ---
 

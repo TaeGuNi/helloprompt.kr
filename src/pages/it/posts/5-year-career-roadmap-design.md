@@ -17,8 +17,8 @@ tags:
 
 # 📝 Cosa Sarò tra 5 Anni? Prompt di Progettazione della 'Roadmap di Carriera'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

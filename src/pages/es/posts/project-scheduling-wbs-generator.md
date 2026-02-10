@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Planificación Automática de Horarios de Proyectos (WBS)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

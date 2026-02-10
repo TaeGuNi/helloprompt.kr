@@ -46,6 +46,7 @@
     "rehype-rewrite": "^4.0.4",
     "standard-version": "^9.5.0",
     "typescript": "^5.9.3",
+    "typescript-eslint": "^8.55.0",
     "unist-util-visit": "^5.1.0",
     "vitest": "^4.0.18",
     "workbox-window": "^7.4.0"

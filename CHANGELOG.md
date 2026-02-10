@@ -4,18 +4,16 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.2.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.1.0...v1.2.0) (2026-02-10)
 
-
 ### Features
 
-* **content:** daily prompts (Quality: 700pts) ([d4eae24](https://github.com/TaeGuNi/helloprompt.kr/commit/d4eae248cc5107e805f1cc5984fd6436306e187c))
-* **ui:** add gemini & grok buttons and improve spacing ([1975043](https://github.com/TaeGuNi/helloprompt.kr/commit/19750437a3852e6e7172af92fab49060b57bb164))
-
+- **content:** daily prompts (Quality: 700pts) ([d4eae24](https://github.com/TaeGuNi/helloprompt.kr/commit/d4eae248cc5107e805f1cc5984fd6436306e187c))
+- **ui:** add gemini & grok buttons and improve spacing ([1975043](https://github.com/TaeGuNi/helloprompt.kr/commit/19750437a3852e6e7172af92fab49060b57bb164))
 
 ### Bug Fixes
 
-* **ui:** refactor prompt logic with strict header detection ([efce5c9](https://github.com/TaeGuNi/helloprompt.kr/commit/efce5c9c810ed7025028bed8e71c6840c3d84c48))
-* **ui:** show 'COPY THIS PROMPT' label only for Pro Version sections ([4d811c9](https://github.com/TaeGuNi/helloprompt.kr/commit/4d811c9d8e945f78d9aa6abb99d2b4c85c3f507e))
-* **ui:** strengthen prompt exclusion logic (hooks & icons) ([7c7a0d2](https://github.com/TaeGuNi/helloprompt.kr/commit/7c7a0d2022889ffa2ee1b0db2f481b835d41a7e2))
+- **ui:** refactor prompt logic with strict header detection ([efce5c9](https://github.com/TaeGuNi/helloprompt.kr/commit/efce5c9c810ed7025028bed8e71c6840c3d84c48))
+- **ui:** show 'COPY THIS PROMPT' label only for Pro Version sections ([4d811c9](https://github.com/TaeGuNi/helloprompt.kr/commit/4d811c9d8e945f78d9aa6abb99d2b4c85c3f507e))
+- **ui:** strengthen prompt exclusion logic (hooks & icons) ([7c7a0d2](https://github.com/TaeGuNi/helloprompt.kr/commit/7c7a0d2022889ffa2ee1b0db2f481b835d41a7e2))
 
 ## [1.1.1] (2026-02-10)
 

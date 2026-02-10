@@ -406,7 +406,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       }
 
       /* 강력한 헤더 라벨 */
-      .quote-wrapper::before {
+      .quote-wrapper.is-prompt::before {
         content: "✂️ COPY THIS PROMPT";
         position: absolute;
         top: -18px; /* 위치 조정 */
@@ -963,6 +963,11 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
                 return;
               }
             }
+          }
+
+          // 4. [NEW] Validated Prompt -> Add Class to Show Label (Only for Pro Version)
+          if (headerText.includes("pro version")) {
+            wrapper.classList.add("is-prompt");
           }
 
           // A. Convert [placeholders] to Input Fields (Only for Prompts)

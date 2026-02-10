@@ -1,0 +1,46 @@
+# Lychee configuration
+# https://github.com/lycheeverse/lychee
+
+# Check links in these file types
+include = [
+    "**/*.md",
+    "**/*.astro",
+    "**/*.html"
+]
+
+# Exclude these paths
+exclude_path = [
+    "node_modules",
+    "dist",
+    ".git",
+    "CHANGELOG.md"
+]
+
+# Exclude URLs matching these patterns (Regex)
+exclude = [
+    # Localhost (Development)
+    "http://localhost.*",
+    "http://127.0.0.1.*",
+    
+    # Dummy/Example URLs
+    "https://example.com",
+    "https://your-site.com",
+    "https://your-domain.com",
+    
+    # Social Share Links (Dynamic)
+    "https://twitter.com/intent/tweet.*",
+    "https://www.facebook.com/sharer.*",
+    
+    # Private/Internal APIs
+    "https://api.openai.com.*",
+    "https://api.anthropic.com.*"
+]
+
+# Handle redirects
+accept = [200, 429] # 429 (Too Many Requests) is often temporary
+
+# Timeout per request (seconds)
+timeout = 10
+
+# Retry failed requests
+retry = 3

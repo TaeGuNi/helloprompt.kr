@@ -1,6 +1,1 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
-
-# Delegate all checks to lint-staged
-# This ensures we only check/fix files that are actually being committed.
 npx lint-staged

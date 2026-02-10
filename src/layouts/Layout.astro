@@ -921,7 +921,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               if (placeholderRegex.test(html)) {
                 html = html.replace(
                   placeholderRegex,
-                  (match, full, innerText) => {
+                  (match, _full, innerText) => {
                     // 제외 조건: 너무 길거나(50자 이상), 특수문자만 있거나 하면 패스
                     if (innerText.length > 50) return match;
                     return `<input type="text" class="prompt-input" placeholder="${innerText}" data-original="${innerText}" />`;
@@ -989,7 +989,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
             const actionContainer = document.createElement("div");
             actionContainer.className = "action-buttons";
 
-            const createActionBtn = (name, url, label, colorClass) => {
+            const createActionBtn = (_name, url, label, colorClass) => {
               const a = document.createElement("a");
               a.className = `action-btn ${colorClass}`;
               a.href = url;

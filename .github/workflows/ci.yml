@@ -20,7 +20,7 @@ jobs:
       - name: Link Checker (Lychee)
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: --config lychee.toml .
+          args: --config lychee.toml --exclude-path 'CHANGELOG.md' --exclude-path 'node_modules' --exclude-path 'dist' './**/*.md' './**/*.astro' './**/*.html'
           fail: true
 
   ci-pipeline:

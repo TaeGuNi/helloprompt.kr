@@ -470,12 +470,13 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         color: #00ff88;
       }
 
-      /* --- Action Buttons (ChatGPT/Claude) --- */
+      /* --- Action Buttons (ChatGPT/Claude/Gemini/Grok) --- */
       .action-buttons {
         display: flex;
         gap: 10px;
-        margin-top: 15px;
+        margin-top: 20px; /* 여백 증가 */
         justify-content: flex-end;
+        flex-wrap: wrap;
       }
       .action-btn {
         display: inline-flex;
@@ -512,6 +513,24 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       }
       .btn-claude:hover {
         background: rgba(217, 119, 87, 0.4);
+        color: #fff;
+      }
+      .btn-gemini {
+        background: rgba(66, 133, 244, 0.2);
+        border-color: #4285f4;
+        color: #4285f4;
+      }
+      .btn-gemini:hover {
+        background: rgba(66, 133, 244, 0.4);
+        color: #fff;
+      }
+      .btn-grok {
+        background: rgba(255, 255, 255, 0.1);
+        border-color: #e0e0e0;
+        color: #e0e0e0;
+      }
+      .btn-grok:hover {
+        background: rgba(255, 255, 255, 0.3);
         color: #fff;
       }
 
@@ -926,6 +945,28 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
 
           if (!isTargetSection) return; // 타겟 섹션이 아니면 스킵
 
+          // 추가 필터링: 내용 기반 제외 (Hook, Before/After 등 방지)
+          if (wrapper.classList.contains("quote-wrapper")) {
+            const blockquote = wrapper.querySelector("blockquote");
+            if (blockquote) {
+              const text = blockquote.innerText.trim();
+
+              // 1. 대화문 형태 (Before/After 예시)
+              if (text.includes("해커:") || text.includes("AI:")) {
+                return;
+              }
+
+              // 2. Hook 문구 (따옴표로 감싸져 있거나 이탤릭체인 경우)
+              // 보통 Hook은 "..." 형태이거나 _..._ 형태임
+              if (
+                (text.startsWith('"') && text.endsWith('"')) ||
+                (text.startsWith("“") && text.endsWith("”"))
+              ) {
+                return;
+              }
+            }
+          }
+
           // A. Convert [placeholders] to Input Fields (Only for Prompts)
           if (wrapper.classList.contains("quote-wrapper")) {
             const blockquote = wrapper.querySelector("blockquote");
@@ -1043,6 +1084,22 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
                 "https://claude.ai/new",
                 "🧠 Claude",
                 "btn-claude",
+              ),
+            );
+            actionContainer.appendChild(
+              createActionBtn(
+                "Gemini",
+                "https://gemini.google.com/app",
+                "✨ Gemini",
+                "btn-gemini",
+              ),
+            );
+            actionContainer.appendChild(
+              createActionBtn(
+                "Grok",
+                "https://x.com/i/grok",
+                "🚀 Grok",
+                "btn-grok",
               ),
             );
 

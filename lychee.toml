@@ -22,7 +22,9 @@ exclude = [
 
     # AI Chatbots (Bot Access Forbidden)
     "https://chatgpt.com.*",
-    "https://claude.ai.*"
+    "https://claude.ai.*",
+    "https://gemini.google.com.*",
+    "https://x.com/i/grok.*"
 ]
 
 # Handle redirects

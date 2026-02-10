@@ -1,27 +1,31 @@
 ---
 import BaseHtml from "../../components/BaseHtml.astro";
+import type { Post } from "../../utils/postUtils";
 
 export async function getStaticPaths() {
   const allPosts = Object.values(
     import.meta.glob("../posts/*.md", { eager: true }),
-  );
+  ) as Post[];
 
   // 2. 태그별 포스트 개수 계산 및 필터링 (Thin Content 방지: 3개 미만 태그 제외)
-  const tagCounts = allPosts.reduce((acc: any, post: any) => {
-    const tags = post.frontmatter.tags || [];
-    tags.forEach((tag: string) => {
-      acc[tag] = (acc[tag] || 0) + 1;
-    });
-    return acc;
-  }, {});
+  const tagCounts = allPosts.reduce(
+    (acc: Record<string, number>, post: Post) => {
+      const tags = post.frontmatter.tags || [];
+      tags.forEach((tag: string) => {
+        acc[tag] = (acc[tag] || 0) + 1;
+      });
+      return acc;
+    },
+    {},
+  );
 
   const validTags = Object.keys(tagCounts).filter((tag) => tagCounts[tag] >= 3);
 
-  return validTags.map((tag: any) => {
+  return validTags.map((tag: string) => {
     const filteredPosts = allPosts
-      .filter((post: any) => post.frontmatter.tags?.includes(tag))
+      .filter((post: Post) => post.frontmatter.tags?.includes(tag))
       .sort(
-        (a: any, b: any) =>
+        (a: Post, b: Post) =>
           new Date(b.frontmatter.date).valueOf() -
           new Date(a.frontmatter.date).valueOf(),
       );
@@ -34,7 +38,7 @@ export async function getStaticPaths() {
 }
 
 const { tag } = Astro.params;
-const { posts } = Astro.props as any;
+const { posts } = Astro.props;
 ---
 
 <BaseHtml lang="ko">
@@ -144,7 +148,7 @@ const { posts } = Astro.props as any;
 
       <div class="post-grid">
         {
-          posts.map((post: any) => (
+          posts.map((post: Post) => (
             <a href={post.url} class="post-card">
               <h2>{post.frontmatter.title}</h2>
               <p>{post.frontmatter.description}</p>

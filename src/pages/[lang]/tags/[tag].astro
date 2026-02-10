@@ -167,7 +167,7 @@ const { posts } = Astro.props as any;
 
       <div class="post-grid">
         {
-          posts.map((post: any) => (
+          posts.map((post: Post) => (
             <a href={post.url} class="post-card">
               <h2>{post.frontmatter.title}</h2>
               <p>{post.frontmatter.description}</p>

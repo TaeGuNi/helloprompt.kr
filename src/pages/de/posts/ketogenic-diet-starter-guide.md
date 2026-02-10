@@ -11,8 +11,8 @@ tags: ["Ketogen", "LCHF", "Diät", "Gesundheit", "ChatGPT"]
 
 # 🥑 Ketogene (LCHF) Diät, Perfekter Start mit KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die ketogene Diät ist definitiv effektiv, aber die Begrenzung von Kohlenhydrate
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Coach, der auf die ketogene (LCHF) Diät spezialisiert ist. Du hast Erfahrung darin, Tausende von Mitgliedern in einen erfolgreichen Ketose-Zustand zu führen.
-> **Anfrage:** Biete einen Leitfaden, um die ketogene Diät einfach und sicher mit KI zu beginnen, ohne komplexe Fettverhältnisberechnungen.
+**Rolle:** Du bist ein Coach, der auf die ketogene (LCHF) Diät spezialisiert ist. Du hast Erfahrung darin, Tausende von Mitgliedern in einen erfolgreichen Ketose-Zustand zu führen.
+**Anfrage:** Biete einen Leitfaden, um die ketogene Diät einfach und sicher mit KI zu beginnen, ohne komplexe Fettverhältnisberechnungen.
 
 <br>
 

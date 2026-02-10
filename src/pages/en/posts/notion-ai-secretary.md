@@ -11,7 +11,7 @@ tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 
 # 🧠 Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling
 
-> **🎯 Recommended for:** People spacing out with too many tasks, People whose plans are only pretty on paper
+**🎯 Recommended for:** People spacing out with too many tasks, People whose plans are only pretty on paper
 
 - **⏱️ Time Required:** 1 min
 - **🤖 Recommended Model:** Notion AI (Paid but powerful) or ChatGPT (Copy-paste)
@@ -20,7 +20,7 @@ tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 | :--------: | :-----------: | :-------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐☆ |
 
-> _"Ah right, laundry... oh need to email boss... wait, when is the meeting today?"_
+_"Ah right, laundry... oh need to email boss... wait, when is the meeting today?"_
 
 When your brain is like tangled yarn, productivity drops to zero. The core of **GTD (Getting Things Done)** is **"Get it out of your head and write it down"**. Just dump it. Notion AI will organize it. Introducing the 'Mindless Scheduling' technique: Empty your brain, outsource to AI.
 
@@ -84,25 +84,25 @@ Using ChatGPT to make a perfect daily plan.
 
 ### ❌ Before (Chaos)
 
-> - Laundry
-> - Project Proposal (Due tomorrow)
-> - Watch Netflix
->   (Result: Watched Netflix, did laundry, pulled all-nighter for proposal 🐼)
+- Laundry
+- Project Proposal (Due tomorrow)
+- Watch Netflix
+  (Result: Watched Netflix, did laundry, pulled all-nighter for proposal 🐼)
 
 ### ✅ After (AI Secretary)
 
-> **[🔥 Do Now - Morning Focus]**
->
-> - 09:00 ~ 11:00 Project Proposal Draft (Put phone away)
->
-> **[📅 Schedule - After Lunch]**
->
-> - 13:00 ~ 13:30 Dev Team Meeting Prep
->
-> **[🏠 Chores - After Work]**
->
-> - 19:00 Laundry
-> - 20:00 Buy toothpaste (Coupang Rocket Delivery recommended)
+**[🔥 Do Now - Morning Focus]**
+
+- 09:00 ~ 11:00 Project Proposal Draft (Put phone away)
+
+**[📅 Schedule - After Lunch]**
+
+- 13:00 ~ 13:30 Dev Team Meeting Prep
+
+**[🏠 Chores - After Work]**
+
+- 19:00 Laundry
+- 20:00 Buy toothpaste (Coupang Rocket Delivery recommended)
 
 ---
 

@@ -11,9 +11,9 @@ tags: ["Netflix", "Recommandation de Film", "OTT", "Drame"]
 
 # 📝 Week-end Supprimé ! Guide de Recommandation Personnalisée de Contenu OTT IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Soirée de week-end, commandé du poulet et le poulet a refroidi en choisissant 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Conservateur de Contenu avec une vision profonde comme le critique de cinéma 'Lee Dong-jin'.
-> **Demande :** Crée un prompt qui analyse vos goûts et trouve des œuvres de vie sans échec pour que vous ne regardiez pas l'écran principal de Netflix pendant 1 heure.
+**Rôle :** Tu es un Conservateur de Contenu avec une vision profonde comme le critique de cinéma 'Lee Dong-jin'.
+**Demande :** Crée un prompt qui analyse vos goûts et trouve des œuvres de vie sans échec pour que vous ne regardiez pas l'écran principal de Netflix pendant 1 heure.
 
 <br>
 

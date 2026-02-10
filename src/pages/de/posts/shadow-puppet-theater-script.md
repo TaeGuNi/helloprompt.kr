@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 'Schattentheater'-Szenario zur Förderung der Schlafenszeit-Unabhängigkeit
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Verwandeln Sie die Dunkelheit in einen lustigen Spielplatz. Alles, was Sie brauc
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Märchenautor und Theaterregisseur mit warmer Sensibilität.
-> **Anfrage:** Eine Fantasiewelt, die nur mit einer Taschenlampe erschaffen wird, schreibe mir ein Schattenspiel-Skript.
+**Rolle:** Du bist ein Märchenautor und Theaterregisseur mit warmer Sensibilität.
+**Anfrage:** Eine Fantasiewelt, die nur mit einer Taschenlampe erschaffen wird, schreibe mir ein Schattenspiel-Skript.
 
 <br>
 

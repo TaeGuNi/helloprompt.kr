@@ -11,8 +11,8 @@ tags: ["YouTube", "NomeCanal", "Apelido", "Criador", "Nomeação"]
 
 # 📝 Recomendação de Nome e Apelido de Canal do YouTube (YouTube Channel Naming)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Nome do canal do YouTube é marca e letreiro. Nomear um que não é esquecido um
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um consultor do YouTube e redator que fez 1 milhão de assinantes.
-> **Solicitação:** Nome de canal encantador chamando assinantes! IA nomeia nomes sensatos que podem ser escolhidos por algoritmo.
+**Papel:** Você é um consultor do YouTube e redator que fez 1 milhão de assinantes.
+**Solicitação:** Nome de canal encantador chamando assinantes! IA nomeia nomes sensatos que podem ser escolhidos por algoritmo.
 
 <br>
 

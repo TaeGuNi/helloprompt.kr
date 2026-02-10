@@ -11,9 +11,9 @@ tags: ["Roman", "PremièrePhrase", "Écriture", "Intro", "Brainstorming"]
 
 # 📝 Brainstorming de 10 Versions de Première Phrase de Roman
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Comme "Le tunnel vers le pays de neige était long." (Yasunari Kawabata, Pays de
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un auteur à succès qui immerge les lecteurs dans les 3 premières secondes.
-> **Demande :** Vous devez captiver les lecteurs dès la première phrase. Obtenez des recommandations pour 10 premières phrases avec une forte Accroche.
+**Rôle :** Tu es un auteur à succès qui immerge les lecteurs dans les 3 premières secondes.
+**Demande :** Vous devez captiver les lecteurs dès la première phrase. Obtenez des recommandations pour 10 premières phrases avec une forte Accroche.
 
 <br>
 

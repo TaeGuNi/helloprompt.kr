@@ -1,6 +1,7 @@
 ---
 import BaseHtml from "../../../components/BaseHtml.astro";
 import { LANGUAGES } from "../../../i18n/languages";
+import type { Post } from "../../../utils/postUtils";
 
 export async function getStaticPaths() {
   // 모든 언어의 포스트를 가져옵니다.
@@ -8,7 +9,7 @@ export async function getStaticPaths() {
     eager: true,
   });
 
-  const postsByLang = {};
+  const postsByLang: Record<string, Post[]> = {};
 
   // 초기화 (지원 언어만)
   LANGUAGES.forEach((lang) => {
@@ -20,7 +21,7 @@ export async function getStaticPaths() {
     const match = path.match(/\/src\/pages\/([^\/]+)\/posts\//);
     if (match) {
       const lang = match[1];
-      if (postsByLang[lang]) postsByLang[lang].push(post);
+      if (postsByLang[lang]) postsByLang[lang].push(post as Post);
     }
   }
 
@@ -30,7 +31,7 @@ export async function getStaticPaths() {
     // 해당 언어의 모든 태그 수집
     const uniqueTags = [
       ...new Set(
-        (posts as any[])
+        posts
           .map((post) => post.frontmatter.tags)
           .flat()
           .filter(Boolean),
@@ -38,8 +39,8 @@ export async function getStaticPaths() {
     ];
 
     uniqueTags.forEach((tag) => {
-      const filteredPosts = (posts as any[])
-        .filter((post) => post.frontmatter.tags?.includes(tag))
+      const filteredPosts = posts
+        .filter((post) => post.frontmatter.tags?.includes(tag as string))
         .sort(
           (a, b) =>
             new Date(b.frontmatter.date).valueOf() -
@@ -57,7 +58,7 @@ export async function getStaticPaths() {
 }
 
 const { tag, lang } = Astro.params;
-const { posts } = Astro.props as any;
+const { posts } = Astro.props;
 ---
 
 <BaseHtml lang={lang}>
@@ -167,7 +168,7 @@ const { posts } = Astro.props as any;
 
       <div class="post-grid">
         {
-          posts.map((post: any) => (
+          posts.map((post: Post) => (
             <a href={post.url} class="post-card">
               <h2>{post.frontmatter.title}</h2>
               <p>{post.frontmatter.description}</p>

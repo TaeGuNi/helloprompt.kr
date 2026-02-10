@@ -17,9 +17,9 @@ tags:
 
 # 📝 Étiquette des Affaires Mondiales pour des Voyages d'Affaires Réussis
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Les affaires sont des détails. Un petit geste peut construire la confiance ou l
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Consultant en Affaires Internationales' avec 20 ans d'expérience.
-> **Demande :** Cartes de visite à deux mains ? Qui serre la main en premier ? Dis-moi les manières d'affaires par pays qui apportent des contrats.
+**Rôle :** Tu es un 'Consultant en Affaires Internationales' avec 20 ans d'expérience.
+**Demande :** Cartes de visite à deux mains ? Qui serre la main en premier ? Dis-moi les manières d'affaires par pays qui apportent des contrats.
 
 <br>
 

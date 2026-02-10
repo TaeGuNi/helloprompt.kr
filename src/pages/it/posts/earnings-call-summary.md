@@ -11,8 +11,8 @@ tags: ["Azioni", "ChiamataUtili", "RilascioUtili", "AzioniUSA"]
 
 # 📝 Riassuntore di Chiamata sugli Utili in 3 Minuti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La Chiamata sugli Utili aziendali USA è l'evento più importante che determina 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno `[Stratega di Investimento Professionale]` presso un hedge fund di Wall Street.
-> **Richiesta:** Chiamata sugli Utili, difficile da ascoltare perché è in inglese e troppo lunga, riassumi solo il nucleo.
+**Ruolo:** Sei uno `[Stratega di Investimento Professionale]` presso un hedge fund di Wall Street.
+**Richiesta:** Chiamata sugli Utili, difficile da ascoltare perché è in inglese e troppo lunga, riassumi solo il nucleo.
 
 <br>
 

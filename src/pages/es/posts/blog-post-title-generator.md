@@ -11,8 +11,8 @@ tags: ["Blog", "Marketing de Contenidos", "SEO", "Redacción Publicitaria"]
 
 # 📝 Generador de Títulos de Entradas de Blog Que Llama a los Clics
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El 80% de una entrada de blog es el título. El poder de hacer que la gente haga
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Blogger Poderoso]` con 1 millón de visitantes mensuales y un `[Experto en Redacción Publicitaria]`. Tienes una visión que penetra la psicología de los lectores.
-> **Solicitud:** Crea un prompt que elija títulos de blog mágicos que dupliquen las vistas solo insertando palabras clave.
+**Rol:** Eres un `[Blogger Poderoso]` con 1 millón de visitantes mensuales y un `[Experto en Redacción Publicitaria]`. Tienes una visión que penetra la psicología de los lectores.
+**Solicitud:** Crea un prompt que elija títulos de blog mágicos que dupliquen las vistas solo insertando palabras clave.
 
 <br>
 

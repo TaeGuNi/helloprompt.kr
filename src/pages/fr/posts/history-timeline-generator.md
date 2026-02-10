@@ -11,9 +11,9 @@ tags: ["RésuméHistoire", "Chronologie", "LigneDeTemps", "Résumé"]
 
 # 📝 Flux en un Coup d'œil : Générateur de Chronologie Historique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ L'histoire n'est pas un 'point' mais une 'ligne'. Si vous mémorisez des événe
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Historien et Expert en Visualisation de Données]`.
-> **Demande :** Créez un prompt qui organise l'ordre et la relation causale d'événements complexes en une Chronologie soignée.
+**Rôle :** Tu es un `[Historien et Expert en Visualisation de Données]`.
+**Demande :** Créez un prompt qui organise l'ordre et la relation causale d'événements complexes en une Chronologie soignée.
 
 <br>
 

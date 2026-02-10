@@ -11,8 +11,8 @@ tags: ["EstudioHistoria", "Gamificación", "Simulación", "HistoriaAlternativa"]
 
 # 📝 Salta a la Historia: Simulador de Eventos Históricos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La historia no es un registro muerto, sino el resultado de 'elecciones' feroces 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Maestro de Juego de Simulación Histórica]`.
-> **Solicitud:** ¿Qué pasaría si yo fuera el Almirante Yi Sun-sin? Experimenta la historia eligiendo opciones como un juego de aventuras de texto.
+**Rol:** Eres un `[Maestro de Juego de Simulación Histórica]`.
+**Solicitud:** ¿Qué pasaría si yo fuera el Almirante Yi Sun-sin? Experimenta la historia eligiendo opciones como un juego de aventuras de texto.
 
 <br>
 

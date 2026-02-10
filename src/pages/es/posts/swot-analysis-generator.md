@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Terminar el Análisis FODA en 1 Minuto Sin Lluvia de Ideas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El análisis FODA es esencial en la etapa de planificación de estrategias, pero
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Consultor de Gestión Global (de McKinsey).
-> **Solicitud:** Crea un prompt para análisis FODA, la base de nuevas ideas de negocio y establecimiento de estrategias de marketing, con IA.
+**Rol:** Eres un Consultor de Gestión Global (de McKinsey).
+**Solicitud:** Crea un prompt para análisis FODA, la base de nuevas ideas de negocio y establecimiento de estrategias de marketing, con IA.
 
 <br>
 

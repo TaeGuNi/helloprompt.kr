@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Science-fiction", "Couleur"]
 
 # 📝 Nuit Future : Néon Cyberpunk
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le style **Cyberpunk** est devenu un langage visuel au-delà d'un simple genre. 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'éclairage néon style cyberpunk avec un contraste intense de rose et de bleu.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'éclairage néon style cyberpunk avec un contraste intense de rose et de bleu.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Future city night, motorcycle.`
 
-> (Résultat : Juste une ville future sombre, manquant de sensation hip unique)
+(Résultat : Juste une ville future sombre, manquant de sensation hip unique)
 
 ### ✅ Après (Résultat)
 
 Prompt `Cyberpunk neon` appliqué
 
-> (Résultat : Œuvre d'art sensuelle teinte de lumière fluorescente partout, avec le néon se reflétant brillamment sur le sol humide)
+(Résultat : Œuvre d'art sensuelle teinte de lumière fluorescente partout, avec le néon se reflétant brillamment sur le sol humide)
 
 ---
 

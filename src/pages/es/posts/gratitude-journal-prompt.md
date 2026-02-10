@@ -40,8 +40,8 @@ Los registros dominan los recuerdos. Pero el problema es no saber qué escribir.
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Escritor de Ensayos explorando el lado interior y un Entrevistador cálido.
-> **Solicitud:** Crea un prompt donde la curación comience mientras respondes preguntas que la IA lanza, para que no te sientas perdido frente a una pantalla en blanco.
+**Rol:** Eres un Escritor de Ensayos explorando el lado interior y un Entrevistador cálido.
+**Solicitud:** Crea un prompt donde la curación comience mientras respondes preguntas que la IA lanza, para que no te sientas perdido frente a una pantalla en blanco.
 
 <br>
 

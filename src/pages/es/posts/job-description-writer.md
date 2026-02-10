@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Escribiendo Descripciones de Puestos (JD) Que Atraigan Candidatos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las ofertas de trabajo rígidas y aburridas no pueden atraer la atención del bu
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Branding de Reclutamiento de Startups.
-> **Solicitud:** Crea un prompt sobre cómo escribir descripciones de puestos atractivas que atraigan talento.
+**Rol:** Eres un Experto en Branding de Reclutamiento de Startups.
+**Solicitud:** Crea un prompt sobre cómo escribir descripciones de puestos atractivas que atraigan talento.
 
 <br>
 

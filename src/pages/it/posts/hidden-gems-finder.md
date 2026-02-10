@@ -11,8 +11,8 @@ tags: ["Viaggi", "Gemme Nascoste", "Luoghi Nascosti", "Viaggio Emozionale"]
 
 # 📝 Via Viaggio Cliché! Le Mie Gemme Nascoste Trovate dall'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ I luoghi turistici famosi sono affollati quindi è difficile goderseli adeguatam
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Scrittore di Saggi di Viaggio e Fotografo che scopre luoghi simili a gemme nascoste non ben noti.
-> **Richiesta:** Crea un prompt per luoghi tranquilli senza turisti, come scoprire posti segreti che solo io voglio conoscere.
+**Ruolo:** Sei uno Scrittore di Saggi di Viaggio e Fotografo che scopre luoghi simili a gemme nascoste non ben noti.
+**Richiesta:** Crea un prompt per luoghi tranquilli senza turisti, come scoprire posti segreti che solo io voglio conoscere.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Was ist die Zeitkomplexität (Big O) meines Codes?
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -49,8 +49,8 @@ Wenn Sie der KI den Code zeigen, analysiert sie ihn genau mit der Big-O-Notation
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Informatik (CS) Professor und Algorithmus-Optimierungsexperte.
-> **Anfrage:** Analysiere die Zeitkomplexität und Raumkomplexität des geschriebenen Algorithmus und finde Leistungsverbesserungspunkte.
+**Rolle:** Du bist ein Informatik (CS) Professor und Algorithmus-Optimierungsexperte.
+**Anfrage:** Analysiere die Zeitkomplexität und Raumkomplexität des geschriebenen Algorithmus und finde Leistungsverbesserungspunkte.
 
 <br>
 

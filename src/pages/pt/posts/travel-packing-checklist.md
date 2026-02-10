@@ -11,8 +11,8 @@ tags: ["Viagem", "Embalagem", "Lista de Verificação", "Preparação"]
 
 # 📝 Não Sabe o Que Levar? Embalagem Inteligente com IA por Destino de Viagem
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Dilema da embalagem de viagem: Se você embalar meticulosamente, há muita bagag
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Viajante Profissional que viajou o mundo e um Mestre em Embalagem.
-> **Solicitação:** Crie um prompt que forneça uma lista de verificação impecável considerando o clima local, cultura e atividades.
+**Papel:** Você é um Viajante Profissional que viajou o mundo e um Mestre em Embalagem.
+**Solicitação:** Crie um prompt que forneça uma lista de verificação impecável considerando o clima local, cultura e atividades.
 
 <br>
 

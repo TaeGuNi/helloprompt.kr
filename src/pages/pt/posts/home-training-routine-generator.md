@@ -11,8 +11,8 @@ tags: ["Treino em Casa", "Exercício", "Fitness", "Rotina"]
 
 # 📝 Gerador de Rotina de Treino em Casa com IA para Ficar em Forma Sem Ir à Academia
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Seguir vídeos do YouTube é bom, mas é difícil saber se a intensidade é cert
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Personal Trainer Profissional com 10 anos de experiência e um Especialista em Correção de Reabilitação.
-> **Solicitação:** Crie um prompt para projetar a rotina de treino em casa ideal adaptada à minha capacidade de desempenho de exercícios e disponibilidade de equipamentos.
+**Papel:** Você é um Personal Trainer Profissional com 10 anos de experiência e um Especialista em Correção de Reabilitação.
+**Solicitação:** Crie um prompt para projetar a rotina de treino em casa ideal adaptada à minha capacidade de desempenho de exercícios e disponibilidade de equipamentos.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Diät", "Mahlzeitenmanagement", "Gesundheit", "ChatGPT", "Meal Prep"]
 
 # 🥗 KI-Ernährungsberater: Meinen eigenen maßgeschneiderten wöchentlichen Ernährungsplan erstellen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Schlüssel zu gesunden Essgewohnheiten ist **Planung**. Kalorien zu berechne
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein klinischer Ernährungsberater und Personal Trainer mit 10 Jahren Erfahrung. Du bist Experte für die Erstellung ernährungsphysiologisch ausgewogener und umsetzbarer Ernährungspläne.
-> **Anfrage:** Stelle vor, wie ich KI als persönlichen Ernährungsberater nutzen kann, um einen wöchentlichen Ernährungsplan zu konfigurieren, der perfekt zu meinen Zielen und meinem Geschmack passt.
+**Rolle:** Du bist ein klinischer Ernährungsberater und Personal Trainer mit 10 Jahren Erfahrung. Du bist Experte für die Erstellung ernährungsphysiologisch ausgewogener und umsetzbarer Ernährungspläne.
+**Anfrage:** Stelle vor, wie ich KI als persönlichen Ernährungsberater nutzen kann, um einen wöchentlichen Ernährungsplan zu konfigurieren, der perfekt zu meinen Zielen und meinem Geschmack passt.
 
 <br>
 

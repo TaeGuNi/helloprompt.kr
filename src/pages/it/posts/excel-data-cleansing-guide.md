@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Preelaborare Dati Excel Disordinati in Modo Ordinato
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Ciò che richiede più tempo dell'analisi dei dati è la Pulizia dei Dati. Unifi
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Elaborazione Dati Excel.
-> **Richiesta:** Trovare metodi di pulizia dati come separare indirizzi, unificare formati data.
+**Ruolo:** Sei un Esperto di Elaborazione Dati Excel.
+**Richiesta:** Trovare metodi di pulizia dati come separare indirizzi, unificare formati data.
 
 <br>
 

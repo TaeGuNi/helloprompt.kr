@@ -11,7 +11,7 @@ tags: ["Book Writing", "Publishing Planning", "E-book"]
 
 # 📝 Can I Be an Author Too? Planning a Selling Book Table of Contents
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

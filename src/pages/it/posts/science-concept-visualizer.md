@@ -11,8 +11,8 @@ tags: ["StudioScienza", "Visualizzazione", "Comprensione", "ASCIIArt"]
 
 # 📝 Rendere Visibili i Concetti Invisibili: Aiutante di Visualizzazione Concettuale
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Si dice che il cervello umano elabori le immagini 60.000 volte più velocemente 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Comunicatore Scientifico e Designer di Infografiche]`.
-> **Richiesta:** Crea un prompt che disegna principi scientifici astratti o concetti matematici con diagrammi di testo (ASCII Art) e analogie.
+**Ruolo:** Sei un `[Comunicatore Scientifico e Designer di Infografiche]`.
+**Richiesta:** Crea un prompt che disegna principi scientifici astratti o concetti matematici con diagrammi di testo (ASCII Art) e analogie.
 
 <br>
 

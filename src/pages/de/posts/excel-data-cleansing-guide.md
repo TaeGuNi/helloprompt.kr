@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Unordentliche Excel-Daten sauber vorverarbeiten
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Was länger dauert als die Datenanalyse, ist die Datenbereinigung. Daten mit unt
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Excel-Datenverarbeitungsexperte.
-> **Anfrage:** Datenbereinigungsmethoden finden wie Adressen trennen, Datumsformate vereinheitlichen.
+**Rolle:** Du bist ein Excel-Datenverarbeitungsexperte.
+**Anfrage:** Datenbereinigungsmethoden finden wie Adressen trennen, Datumsformate vereinheitlichen.
 
 <br>
 

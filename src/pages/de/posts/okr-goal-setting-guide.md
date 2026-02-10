@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 OKR-Einstellungsleitfaden für Zielerreichung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wir wissen, dass OKR gut ist, aber wenn wir versuchen, es zu schreiben, fallen u
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller OKR-Coach von Google.
-> **Anfrage:** Festlegung von herzklopfenden Zielen (Objective) und messbaren Schlüsselergebnissen (Key Result).
+**Rolle:** Du bist ein professioneller OKR-Coach von Google.
+**Anfrage:** Festlegung von herzklopfenden Zielen (Objective) und messbaren Schlüsselergebnissen (Key Result).
 
 <br>
 

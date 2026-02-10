@@ -11,8 +11,8 @@ tags: ["Viaje en Solitario", "Mochilero", "Viaje Solo", "Viaje Seguro"]
 
 # 📝 Mochilero Solo: Método de Diseño de Ruta Segura y Satisfactoria
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Viajar solo puede ser un punto de inflexión en la vida. Sin embargo, hay muchas
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Viajero Solitario Profesional' con abundante experiencia viajando solo por el mundo.
-> **Solicitud:** Guía personalizada para viajeros solitarios. Dame una receta de viaje en solitario considerando seguridad, presupuesto y conocer gente.
+**Rol:** Eres un 'Viajero Solitario Profesional' con abundante experiencia viajando solo por el mundo.
+**Solicitud:** Guía personalizada para viajeros solitarios. Dame una receta de viaje en solitario considerando seguridad, presupuesto y conocer gente.
 
 <br>
 

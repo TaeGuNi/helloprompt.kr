@@ -18,8 +18,8 @@ tags:
 
 # 📝 Qual è la Complessità Temporale (Big O) del Mio Codice?
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -49,8 +49,8 @@ Se mostri il codice all'IA, lo analizza accuratamente con la notazione Big-O e p
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Professore di Informatica (CS) ed esperto di ottimizzazione degli algoritmi.
-> **Richiesta:** Analizza la complessità temporale e la complessità spaziale dell'algoritmo scritto e trova punti di miglioramento delle prestazioni.
+**Ruolo:** Sei un Professore di Informatica (CS) ed esperto di ottimizzazione degli algoritmi.
+**Richiesta:** Analizza la complessità temporale e la complessità spaziale dell'algoritmo scritto e trova punti di miglioramento delle prestazioni.
 
 <br>
 

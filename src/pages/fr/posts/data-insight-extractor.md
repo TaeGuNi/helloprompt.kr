@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Extraire des Insights de Données Brutes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Il est difficile de trouver des "insights" significatifs à partir de données t
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Data Scientist.
-> **Demande :** Données Excel pleines de chiffres uniquement, analysez avec l'IA et dérivez des implications.
+**Rôle :** Tu es un Data Scientist.
+**Demande :** Données Excel pleines de chiffres uniquement, analysez avec l'IA et dérivez des implications.
 
 <br>
 

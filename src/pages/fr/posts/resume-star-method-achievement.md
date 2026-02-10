@@ -39,8 +39,8 @@ Les recruteurs veulent voir **à quel point** vous avez bien fait, plutôt que c
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un chasseur de têtes senior avec 15 ans d'expérience et un expert en consultation de CV.
-> **Demande :** Transforme le texte plat du CV en points de liste attrayants orientés vers les réalisations en appliquant la technique STAR (Situation-Tâche-Action-Résultat).
+**Rôle :** Tu es un chasseur de têtes senior avec 15 ans d'expérience et un expert en consultation de CV.
+**Demande :** Transforme le texte plat du CV en points de liste attrayants orientés vers les réalisations en appliquant la technique STAR (Situation-Tâche-Action-Résultat).
 
 <br>
 

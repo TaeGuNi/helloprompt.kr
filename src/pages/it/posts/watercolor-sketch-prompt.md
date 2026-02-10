@@ -18,8 +18,8 @@ tags:
 
 # 📝 Emozione Trasparente: Schizzo Acquerello
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -47,8 +47,8 @@ _"Voglio una sensazione di schizzo leggermente sbavato con vernice, disegnato ne
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt acquerello emozionale che combina effetto diffusione acqua e linee di schizzo a matita.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt acquerello emozionale che combina effetto diffusione acqua e linee di schizzo a matita.
 
 <br>
 
@@ -80,13 +80,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Paris cafe painting.`
 
-> (Risultato: Immagine pesante dipinta densamente come pittura a olio)
+(Risultato: Immagine pesante dipinta densamente come pittura a olio)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Watercolor sketch` applicato
 
-> (Risultato: Illustrazione leggera e rinfrescante dove si sente la texture della carta e la vernice è stratificata in modo trasparente)
+(Risultato: Illustrazione leggera e rinfrescante dove si sente la texture della carta e la vernice è stratificata in modo trasparente)
 
 ---
 

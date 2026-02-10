@@ -11,8 +11,8 @@ tags: ["Regex", "Regulärer Ausdruck", "Entwicklerproduktivität"]
 
 # 📝 Regex-Albtraum, jetzt an KI auslagern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Reguläre Ausdrücke (Regex) sind für Entwickler unerlässlich, aber sie gehör
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Senior Entwickler]`.
-> **Anfrage:** Erstelle einen Prompt, der Code für kryptische reguläre Ausdrücke generiert, indem einfach das Muster erklärt wird.
+**Rolle:** Du bist ein `[Senior Entwickler]`.
+**Anfrage:** Erstelle einen Prompt, der Code für kryptische reguläre Ausdrücke generiert, indem einfach das Muster erklärt wird.
 
 <br>
 

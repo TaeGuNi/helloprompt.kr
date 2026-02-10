@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Retro"]
 
 # 📝 Punkt-Handwerker: Pixel Art
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich brauche Punktgrafiken wie Super Mario oder Pokémon Gold Version."_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen 8-Bit, 16-Bit Pixel-Art-Prompt, der Nostalgie für klassische Spiele weckt.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen 8-Bit, 16-Bit Pixel-Art-Prompt, der Nostalgie für klassische Spiele weckt.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Knight vs Dragon game.`
 
-> (Ergebnis: Moderne 3D-Handyspielgrafik)
+(Ergebnis: Moderne 3D-Handyspielgrafik)
 
 ### ✅ Nachher (Ergebnis)
 
 `Pixel art` Prompt angewendet
 
-> (Ergebnis: Nostalgische Punktgrafiken aus Spielhallen, ein Festmahl aus deutlichen quadratischen Punkten)
+(Ergebnis: Nostalgische Punktgrafiken aus Spielhallen, ein Festmahl aus deutlichen quadratischen Punkten)
 
 ---
 

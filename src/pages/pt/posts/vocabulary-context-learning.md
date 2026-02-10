@@ -11,8 +11,8 @@ tags: ["AprendizagemDeInglês", "MemorizaçãoDePalavras", "Prompt", "Educação
 
 # 📝 Mestre de Vocabulário em Inglês Aprendendo com Contexto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Palavras não viajam sozinhas. Elas se escondem no contexto. Longe do método de
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Professor de Linguística e Especialista em Aprendizagem de Vocabulário]` com 20 anos de experiência.
-> **Solicitação:** Crie um prompt para aprender perfeitamente até as nuances das palavras no contexto real, parando a memorização simples.
+**Papel:** Você é um `[Professor de Linguística e Especialista em Aprendizagem de Vocabulário]` com 20 anos de experiência.
+**Solicitação:** Crie um prompt para aprender perfeitamente até as nuances das palavras no contexto real, parando a memorização simples.
 
 <br>
 

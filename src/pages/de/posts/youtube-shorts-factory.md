@@ -11,8 +11,8 @@ tags: ["YouTube", "Shorts", "Drehbuchschreiben", "Creator", "TikTok"]
 
 # 🎬 YouTube Shorts Fabrik: Skript + Visuals in 30 Sekunden
 
-> **🎯 Empfohlen für:** YouTuber, denen die Ideen für tägliche Uploads ausgehen, Angestellte mit Neben-Shorts-Kanal
-> **⏱️ Benötigte Zeit:** 30 Sekunden
+**🎯 Empfohlen für:** YouTuber, denen die Ideen für tägliche Uploads ausgehen, Angestellte mit Neben-Shorts-Kanal
+**⏱️ Benötigte Zeit:** 30 Sekunden
 
 - **🤖 Empfohlenes Modell:** ChatGPT-4o (Schnell & Schlagfertig)
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Shorts", "Drehbuchschreiben", "Creator", "TikTok"]
 | :-----------: | :----------: | :--------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... was filme ich morgen? Wann schreibe ich das Skript..."_
+_"Ah... was filme ich morgen? Wann schreibe ich das Skript..."_
 
 Der Kern von Kurzformaten (Shorts/Reels/TikTok) ist **'Konsistenz'** und die **'Ersten 3 Sekunden'**. Aber täglich virale Ideen auszuspucken ist menschlich nicht möglich. Jetzt injizieren wir die **'Virale Formel'** in die KI und bauen eine Fabrik, die Skripte druckt, nur indem sie atmet.
 
@@ -40,9 +40,9 @@ Der Kern von Kurzformaten (Shorts/Reels/TikTok) ist **'Konsistenz'** und die **'
 
 Wenn du null Ideen hast.
 
-> **Rolle:** Du bist ein 1M Abonnenten YouTuber.
-> **Thema:** `[Alleine Leben Hacks]`
-> **Anfrage:** Gib mir 5 würzige und frische Shorts-Ideen, die Leute nicht überspringen können. Inklusive Titel und Erstem Satz (Hook).
+**Rolle:** Du bist ein 1M Abonnenten YouTuber.
+**Thema:** `[Alleine Leben Hacks]`
+**Anfrage:** Gib mir 5 würzige und frische Shorts-Ideen, die Leute nicht überspringen können. Inklusive Titel und Erstem Satz (Hook).
 
 <br>
 
@@ -80,19 +80,19 @@ Ein perfektes Skript, bereit zum Ablesen vor der Kamera.
 
 ### ❌ Vorher (Einfach schreiben)
 
-> Hallo zusammen~ Heute stelle ich gute Artikel bei Ikea vor. Der erste ist... (Zuschauer sind weg 👋)
+Hallo zusammen~ Heute stelle ich gute Artikel bei Ikea vor. Der erste ist... (Zuschauer sind weg 👋)
 
 ### ✅ Nachher (KI Fabrik)
 
-> **[0~3s]**
->
-> - **Visual:** Kassenbon zerknüllen und auf den Boden werfen.
-> - **Audio:** "Verschwendest du immer noch Geld bei Ikea? Mitarbeiter nutzen heimlich diese 3 echten Juwelen! Nimm einfach diese."
->
-> **[4~15s]**
->
-> - **Visual:** Nahaufnahme von Produkt A.
-> - **Audio:** "Erstens, [Produktname]. Weißt du, dass das überall ausverkauft ist? Wenn du es siehst..."
+**[0~3s]**
+
+- **Visual:** Kassenbon zerknüllen und auf den Boden werfen.
+- **Audio:** "Verschwendest du immer noch Geld bei Ikea? Mitarbeiter nutzen heimlich diese 3 echten Juwelen! Nimm einfach diese."
+
+**[4~15s]**
+
+- **Visual:** Nahaufnahme von Produkt A.
+- **Audio:** "Erstens, [Produktname]. Weißt du, dass das überall ausverkauft ist? Wenn du es siehst..."
 
 ---
 

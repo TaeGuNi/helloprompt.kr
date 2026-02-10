@@ -39,8 +39,8 @@ La raison pour laquelle la To-Do List n'est pas pratiquée peu importe combien v
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Coach en Gestion du Temps maximisant l'efficacité et une Secrétaire Professionnelle.
-> **Demande :** Crée un prompt pour une planification parfaite basée sur la priorité quand il y a beaucoup à faire mais impossible de s'organiser.
+**Rôle :** Tu es un Coach en Gestion du Temps maximisant l'efficacité et une Secrétaire Professionnelle.
+**Demande :** Crée un prompt pour une planification parfaite basée sur la priorité quand il y a beaucoup à faire mais impossible de s'organiser.
 
 <br>
 

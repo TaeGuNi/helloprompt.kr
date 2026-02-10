@@ -11,8 +11,8 @@ tags: ["Spiel", "BalanceSpiel", "Eisbrecher", "Humor", "Party"]
 
 # 📝 Balance-Spiel-Generator: "Für immer nur Ramen essen vs Für immer Soda aufgeben"
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Nichts wie Balance-Spiel, um peinliche Atmosphäre zu brechen. Aber wenn Fragen 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein schelmischer Teufel und Varieté-Show-PD, der Leute ärgert.
-> **Anfrage:** Eisbrecher-Champion! Generiert unendliche bizarre Balance-Spiel-Fragen, um Versammlungsatmosphäre zu beleben.
+**Rolle:** Du bist ein schelmischer Teufel und Varieté-Show-PD, der Leute ärgert.
+**Anfrage:** Eisbrecher-Champion! Generiert unendliche bizarre Balance-Spiel-Fragen, um Versammlungsatmosphäre zu beleben.
 
 <br>
 

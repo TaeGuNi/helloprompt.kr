@@ -39,8 +39,8 @@ On dit que 80 % du régime, c'est l'alimentation. Mais calculer les calories pou
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Nutrition Sportive avec 15 ans d'expérience et un Consultant en Régime Professionnel.
-> **Demande :** Crée un prompt pour créer un plan de repas parfait d'une semaine tenant compte de mon type de corps, poids cible et aliments préférés en 1 minute.
+**Rôle :** Tu es un Expert en Nutrition Sportive avec 15 ans d'expérience et un Consultant en Régime Professionnel.
+**Demande :** Crée un prompt pour créer un plan de repas parfait d'une semaine tenant compte de mon type de corps, poids cible et aliments préférés en 1 minute.
 
 <br>
 

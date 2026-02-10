@@ -11,8 +11,8 @@ tags: ["Lernplan", "Vergessenskurve", "Überprüfung", "Planung"]
 
 # 📝 Rückwärtsfahren der Vergessenskurve: Überprüfungsplan-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das menschliche Gehirn ist darauf ausgelegt zu vergessen. Der einzige Weg, dies 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Lernmanager und Kognitionswissenschaftsexperte]`.
-> **Anfrage:** Erstelle einen Prompt, der den optimalen Überprüfungszeitpunkt angibt, damit Sie nie vergessen, was Sie gelernt haben, basierend auf Ebbinghaus' Vergessenskurventheorie.
+**Rolle:** Du bist ein `[Lernmanager und Kognitionswissenschaftsexperte]`.
+**Anfrage:** Erstelle einen Prompt, der den optimalen Überprüfungszeitpunkt angibt, damit Sie nie vergessen, was Sie gelernt haben, basierend auf Ebbinghaus' Vergessenskurventheorie.
 
 <br>
 

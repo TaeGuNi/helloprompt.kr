@@ -11,7 +11,7 @@ tags: ["Game", "Item", "TRPG", "Planning", "Fantasy"]
 
 # 📝 Game Item Encyclopedia: Legendary Weapons and Cursed Accessories
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

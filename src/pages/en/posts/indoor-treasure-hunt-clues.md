@@ -11,10 +11,10 @@ tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 
 # 📝 Creating 'Indoor Treasure Hunt' Clues That Kids Go Crazy For in 1 Minute
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

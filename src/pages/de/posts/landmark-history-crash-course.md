@@ -12,8 +12,8 @@ tags:
 
 # 📝 Wahrzeichen-Geschichts-Crashkurs in 3 Minuten erledigt!
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Ohne Hintergrundwissen sind historische Stätten nur alte Gebäude. Aber wenn ma
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Bestseller-Geschichtsautor', der Geschichte sehr interessant erzählt.
-> **Anfrage:** Der Moment, in dem ein Stein zu lebendiger Geschichte wird. Ein KI-Dozent, der ohne schwierige Erklärungen nur die Kernpunkte herausgreift.
+**Rolle:** Du bist ein 'Bestseller-Geschichtsautor', der Geschichte sehr interessant erzählt.
+**Anfrage:** Der Moment, in dem ein Stein zu lebendiger Geschichte wird. Ein KI-Dozent, der ohne schwierige Erklärungen nur die Kernpunkte herausgreift.
 
 <br>
 

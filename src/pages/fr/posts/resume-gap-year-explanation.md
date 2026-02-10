@@ -17,9 +17,9 @@ tags:
 
 # 📝 Comment Transformer l'Année de Césure du CV en 'Force' et non en Faiblesse
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Cette question est-elle la plus redoutée ? L'année de césure n'est pas un pé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un psychologue positif et consultant en carrière.
-> **Demande :** Réinterprète la période de pause de carrière (Écart) comme la préparation à l'emploi, le repos, le voyage comme une période significative d'auto-développement et de rafraîchissement et fond dans la lettre de motivation.
+**Rôle :** Tu es un psychologue positif et consultant en carrière.
+**Demande :** Réinterprète la période de pause de carrière (Écart) comme la préparation à l'emploi, le repos, le voyage comme une période significative d'auto-développement et de rafraîchissement et fond dans la lettre de motivation.
 
 <br>
 

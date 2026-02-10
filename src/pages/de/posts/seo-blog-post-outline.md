@@ -11,8 +11,8 @@ tags: ["Blog", "SEO", "Google-Exposure"]
 
 # 📝 SEO-Blog-Gliederung für Top-Suchrankings
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Kern von SEO (Suchmaschinenoptimierung) besteht darin, die Schnittmenge zwis
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[SEO-Content-Marketing-Experte]`.
-> **Anfrage:** Erstelle einen SEO-optimierten Gliederungsgenerierungs-Prompt, der deinen Blog-Beitrag in einer Struktur rahmt, die Google liebt.
+**Rolle:** Du bist ein `[SEO-Content-Marketing-Experte]`.
+**Anfrage:** Erstelle einen SEO-optimierten Gliederungsgenerierungs-Prompt, der deinen Blog-Beitrag in einer Struktur rahmt, die Google liebt.
 
 <br>
 

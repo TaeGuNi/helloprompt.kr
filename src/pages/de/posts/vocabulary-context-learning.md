@@ -11,8 +11,8 @@ tags: ["Englischlernen", "Wortauswendiglernen", "Prompt", "Bildung"]
 
 # 📝 Englisch-Vokabel-Meister Lernen mit Kontext
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wörter reisen nicht allein. Sie verstecken sich im Kontext. Weg von der Methode
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Linguistikprofessor und Experte für Vokabellernen]` mit 20 Jahren Erfahrung.
-> **Anfrage:** Erstelle einen Prompt, um selbst die Nuancen von Wörtern im echten Kontext perfekt zu lernen und einfaches Auswendiglernen zu stoppen.
+**Rolle:** Du bist ein `[Linguistikprofessor und Experte für Vokabellernen]` mit 20 Jahren Erfahrung.
+**Anfrage:** Erstelle einen Prompt, um selbst die Nuancen von Wörtern im echten Kontext perfekt zu lernen und einfaches Auswendiglernen zu stoppen.
 
 <br>
 

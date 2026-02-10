@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Der Hund wurde zum Stern, warme Worte, um Kindern den Tod zu erklären
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie den Tod vage als 'eingeschlafen' oder 'auf eine Reise gegangen' ausdrü
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Kinderpsychologie und ein rücksichtsvoller Berater.
-> **Anfrage:** Wie man einem Kind, das einen Verlust erlebt hat, den Tod erklärt und es tröstet.
+**Rolle:** Du bist ein Experte für Kinderpsychologie und ein rücksichtsvoller Berater.
+**Anfrage:** Wie man einem Kind, das einen Verlust erlebt hat, den Tod erklärt und es tröstet.
 
 <br>
 

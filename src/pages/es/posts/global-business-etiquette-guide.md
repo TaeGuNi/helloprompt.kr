@@ -17,8 +17,8 @@ tags:
 
 # 📝 Etiqueta de Negocios Global para Viajes de Negocios Exitosos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Los negocios son detalles. Un pequeño gesto puede generar confianza o destruirl
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Consultor de Negocios Internacionales' con 20 años de experiencia.
-> **Solicitud:** ¿Tarjetas de visita con dos manos? ¿Quién da la mano primero? Dime los modales de negocios por país que traen contratos.
+**Rol:** Eres un 'Consultor de Negocios Internacionales' con 20 años de experiencia.
+**Solicitud:** ¿Tarjetas de visita con dos manos? ¿Quién da la mano primero? Dime los modales de negocios por país que traen contratos.
 
 <br>
 

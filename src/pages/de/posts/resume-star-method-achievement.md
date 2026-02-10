@@ -40,8 +40,8 @@ Personalvermittler wollen sehen, **wie gut** Sie es gemacht haben, anstatt was S
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Senior-Headhunter mit 15 Jahren Erfahrung und Experte für Lebenslaufberatung.
-> **Anfrage:** Verwandle einfachen Lebenslauftext in attraktive erfolgsorientierte Aufzählungspunkte unter Anwendung der STAR-Technik (Situation-Task-Action-Result).
+**Rolle:** Du bist ein Senior-Headhunter mit 15 Jahren Erfahrung und Experte für Lebenslaufberatung.
+**Anfrage:** Verwandle einfachen Lebenslauftext in attraktive erfolgsorientierte Aufzählungspunkte unter Anwendung der STAR-Technik (Situation-Task-Action-Result).
 
 <br>
 

@@ -40,7 +40,7 @@ Ci sono largamente due metodi di rimborso prestito. **'Capitale e Interessi Ugua
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto Excel Finanziario]`.
+**Ruolo:** Sei un `[Esperto Excel Finanziario]`.
 
 - **Richiesta:** Modello calcolatrice interessi prestito fatto direttamente in Excel senza bisogno di entrare in siti bancari.
 

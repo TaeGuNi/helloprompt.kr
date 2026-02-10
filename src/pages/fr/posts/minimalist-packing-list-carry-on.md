@@ -11,9 +11,9 @@ tags: ["Colisage", "Minimalisme", "Bagage Cabine", "Liste de Colisage"]
 
 # 📝 Liste de Colisage Minimaliste avec Juste un Bagage Cabine
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les valises lourdes sont l'ennemi du voyage. Se déplacer est difficile et les f
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'expert en colisage minimaliste' qui parcourt le monde avec juste un sac à dos de 7 kg.
-> **Demande :** Le voyage est agréable quand les bagages sont légers. Savoir-faire de colisage intelligent pour réduire les bagages inutiles et n'emporter que l'essentiel.
+**Rôle :** Tu es un 'expert en colisage minimaliste' qui parcourt le monde avec juste un sac à dos de 7 kg.
+**Demande :** Le voyage est agréable quand les bagages sont légers. Savoir-faire de colisage intelligent pour réduire les bagages inutiles et n'emporter que l'essentiel.
 
 <br>
 

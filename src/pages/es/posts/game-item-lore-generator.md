@@ -11,8 +11,8 @@ tags: ["Juego", "Ítem", "TRPG", "Planificación", "Fantasía"]
 
 # 📝 Enciclopedia de Ítems de Juego: Armas Legendarias y Accesorios Malditos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Conseguí una espada. El poder de ataque aumentó en 10."_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un tasador y herrero versado en reliquias antiguas y herramientas mágicas.
-> **Solicitud:** La simple 'Espada +1' es aburrida. Crea ítems únicos con narrativa viva y truco.
+**Rol:** Eres un tasador y herrero versado en reliquias antiguas y herramientas mágicas.
+**Solicitud:** La simple 'Espada +1' es aburrida. Crea ítems únicos con narrativa viva y truco.
 
 <br>
 

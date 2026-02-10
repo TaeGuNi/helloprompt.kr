@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Retro"]
 
 # 📝 Neon Anni '80: Synthwave & Retrowave
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Ho bisogno di un tramonto viola e una sensazione di pavimento a griglia come R
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt arte Synthwave caratterizzato da nostalgia neon anni '80, palme e pavimenti a griglia.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt arte Synthwave caratterizzato da nostalgia neon anni '80, palme e pavimenti a griglia.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Car driving sunset.`
 
-> (Risultato: Foto pubblicitaria auto ordinaria)
+(Risultato: Foto pubblicitaria auto ordinaria)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Synthwave` applicato
 
-> (Risultato: Immagine cibernetica che corre su un pavimento laser con cielo viola e sole arancione fiammeggiante)
+(Risultato: Immagine cibernetica che corre su un pavimento laser con cielo viola e sole arancione fiammeggiante)
 
 ---
 

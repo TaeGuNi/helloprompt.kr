@@ -41,8 +41,8 @@ Non preoccuparti da solo, ottieni diagnosi oggettiva da IA. Analizzare Gap tra m
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un coach carriera e consulente reclutamento a testa fredda.
-> **Richiesta:** Contrasta Descrizione Lavoro (JD) candidata e mio curriculum per trovare competenza mancante (Gap) e imposta strategia supplementazione.
+**Ruolo:** Sei un coach carriera e consulente reclutamento a testa fredda.
+**Richiesta:** Contrasta Descrizione Lavoro (JD) candidata e mio curriculum per trovare competenza mancante (Gap) e imposta strategia supplementazione.
 
 <br>
 

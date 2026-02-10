@@ -11,8 +11,8 @@ tags: ["Anschreiben", "Selbstvorstellung", "JDAnalyse", "Job"]
 
 # 📝 JD (Stellenbeschreibung) Maßgeschneiderter Anschreiben-Entwurf-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das beste Anschreiben erzählt **'Geschichte, die das Unternehmen hören will'**
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein HR-Teamleiter eines großen Unternehmens und Mitglied des Bewertungskomitees für Einstellungen.
-> **Anfrage:** Analysiere Stellenbeschreibung (JD) und schreibe Anschreiben-Entwurf, der perfekt zum gewünschten Talent des Unternehmens passt, in 1 Minute.
+**Rolle:** Du bist ein HR-Teamleiter eines großen Unternehmens und Mitglied des Bewertungskomitees für Einstellungen.
+**Anfrage:** Analysiere Stellenbeschreibung (JD) und schreibe Anschreiben-Entwurf, der perfekt zum gewünschten Talent des Unternehmens passt, in 1 Minute.
 
 <br>
 

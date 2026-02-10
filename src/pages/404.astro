@@ -16,7 +16,10 @@ const otherPosts = Object.values(
 ) as Post[];
 
 // 2. 언어별로 그룹화 및 랜덤 4개 선정
-const postsByLang: Record<string, any[]> = {};
+const postsByLang: Record<
+  string,
+  { title: string; description: string; url: string }[]
+> = {};
 
 // 한국어 처리
 postsByLang["ko"] = getRandomPosts(filterPublishedPosts(koPosts), 4).map(

@@ -11,7 +11,7 @@ tags: ["Naming", "Character", "Novel", "NameCreation", "Setting"]
 
 # 📝 Novel Character Name Generator (Matching Meaning and Nuance)
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

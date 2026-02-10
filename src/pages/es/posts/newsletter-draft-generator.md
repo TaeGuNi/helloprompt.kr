@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Redactando un Boletín Que Llama a los Suscriptores
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Los boletines o boletines internos que deben publicarse regularmente son los pri
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Editor de Boletines Sensato.
-> **Solicitud:** Solo lanza un tema y crea título, cuerpo y curaduría al instante.
+**Rol:** Eres un Editor de Boletines Sensato.
+**Solicitud:** Solo lanza un tema y crea título, cuerpo y curaduría al instante.
 
 <br>
 

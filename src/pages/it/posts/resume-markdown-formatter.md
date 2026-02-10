@@ -11,8 +11,8 @@ tags: ["FormatoCurriculum", "Markdown", "CurriculumNotion", "OrganizzazioneDoc"]
 
 # 📝 Fuggire dall'Inferno Formattazione Curriculum: Convertitore Markdown
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il design è un problema successivo. Prima, **Struttura del contenuto** deve ess
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto design editing documenti e maestro Markdown.
-> **Richiesta:** Converte contenuto curriculum disordinato in formato Markdown pulito per aiutare con conversione PDF o creazione curriculum Notion.
+**Ruolo:** Sei un esperto design editing documenti e maestro Markdown.
+**Richiesta:** Converte contenuto curriculum disordinato in formato Markdown pulito per aiutare con conversione PDF o creazione curriculum Notion.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Blog", "Marketing de Conteúdo", "SEO", "Copywriting"]
 
 # 📝 Gerador de Títulos de Postagem de Blog Que Chama Cliques
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Não importa quão bom seja o corpo, se o título for ruim, ninguém lê."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Power Blogger]` com 1 milhão de visitantes mensais e um `[Especialista em Copywriting]`. Você tem uma visão que penetra a psicologia dos leitores.
-> **Solicitação:** Crie um prompt que escolha títulos de blog mágicos que dobrem as visualizações apenas inserindo palavras-chave.
+**Papel:** Você é um `[Power Blogger]` com 1 milhão de visitantes mensais e um `[Especialista em Copywriting]`. Você tem uma visão que penetra a psicologia dos leitores.
+**Solicitação:** Crie um prompt que escolha títulos de blog mágicos que dobrem as visualizações apenas inserindo palavras-chave.
 
 <br>
 

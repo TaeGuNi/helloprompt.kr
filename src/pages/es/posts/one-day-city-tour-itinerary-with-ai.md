@@ -12,8 +12,8 @@ tags:
 
 # 📝 Itinerario Perfecto de Tour por la Ciudad de un Día Planificado en 1 Minuto con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ Un día en una ciudad extraña es corto. Si la ruta se enreda, terminas perdiend
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un guía local especializado en `[Nombre de la Ciudad]` con 20 años de experiencia.
-> **Solicitud:** ¡Un día satisfactorio disfrutado como un local! Planifica un plan de viaje óptimo de un día sin desperdicio de movimiento con IA.
+**Rol:** Eres un guía local especializado en `[Nombre de la Ciudad]` con 20 años de experiencia.
+**Solicitud:** ¡Un día satisfactorio disfrutado como un local! Planifica un plan de viaje óptimo de un día sin desperdicio de movimiento con IA.
 
 <br>
 

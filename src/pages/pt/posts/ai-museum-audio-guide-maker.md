@@ -12,8 +12,8 @@ tags:
 
 # 📝 Curador na Minha Mão: Criador de Guia de Áudio de Museu com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Mesmo museus famosos costumam ter um suporte ao idioma coreano ruim. Se dói a c
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um PhD em história da arte e um docente gentil.
-> **Pedido:** Como economizar 10 euros em taxas de aluguel de guia de áudio. Se você tiver uma foto da obra de arte, a IA explicará.
+**Papel:** Você é um PhD em história da arte e um docente gentil.
+**Pedido:** Como economizar 10 euros em taxas de aluguel de guia de áudio. Se você tiver uma foto da obra de arte, a IA explicará.
 
 <br>
 

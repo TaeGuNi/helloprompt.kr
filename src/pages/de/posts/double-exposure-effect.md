@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effekt", "Surrealismus"]
 
 # 📝 Überlagerte Welt: Double Exposure
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Dieses Gefühl eines Waldes innerhalb der Silhouette einer Person, wie mache i
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie eine Doppelbelichtungstechnik, die zwei verschiedene Bilder überlagert, um eine mysteriöse und verträumte Geschichte zu schaffen.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie eine Doppelbelichtungstechnik, die zwei verschiedene Bilder überlagert, um eine mysteriöse und verträumte Geschichte zu schaffen.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Woman and forest mixed.`
 
-> (Ergebnis: Bizarres Foto, auf dem eine Frau in einem Wald steht oder ein Baum auf ihr Gesicht gezeichnet ist)
+(Ergebnis: Bizarres Foto, auf dem eine Frau in einem Wald steht oder ein Baum auf ihr Gesicht gezeichnet ist)
 
 ### ✅ Nachher (Ergebnis)
 
 `Double exposure` Prompt angewendet
 
-> (Ergebnis: Poetische zusammengesetzte Kunst, bei der das Haar der Frau zu Bäumen und der Nacken zum Bergrücken wird)
+(Ergebnis: Poetische zusammengesetzte Kunst, bei der das Haar der Frau zu Bäumen und der Nacken zum Bergrücken wird)
 
 ---
 

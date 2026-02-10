@@ -11,8 +11,8 @@ tags: ["Ruhestand", "Altersvorsorge", "Rente", "Finanzplanung"]
 
 # 📝 Altersvorsorge-Rechner: Wie hoch ist mein Ruhestandsvorbereitungs-Score?
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

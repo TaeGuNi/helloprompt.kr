@@ -11,8 +11,8 @@ tags: ["Storia", "Classico", "Alfabetizzazione", "AnalisiDocumentiStorici"]
 
 # 📝 IA che Legge Documenti Storici: Interprete di Testi Classici
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Il vero sapore della storia è nella Fonte Primaria, non nei riassunti. Ma le pa
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Filologo Classico e Commentatore di Storia]`.
-> **Richiesta:** Traduci documenti antichi difficili e astrusi o fonti primarie in linguaggio moderno facile e interpreta significati nascosti all'interno.
+**Ruolo:** Sei un `[Filologo Classico e Commentatore di Storia]`.
+**Richiesta:** Traduci documenti antichi difficili e astrusi o fonti primarie in linguaggio moderno facile e interpreta significati nascosti all'interno.
 
 <br>
 

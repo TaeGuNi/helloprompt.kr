@@ -11,8 +11,8 @@ tags: ["Abitudine", "Routine", "GodLife", "Auto-sviluppo"]
 
 # 📝 Niente Più Rinunce! Design Tracker Formazione Abitudini IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ L'abitudine non è volontà ma impostazione dell'ambiente. Applica il principio 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Psicologo Comportamentale ed Esperto di Formazione Abitudini. Consiglia basandoti sulla teoria <Atomic Habits> di James Clear.
-> **Richiesta:** Crea un prompt che crea un sistema di formazione abitudini basato sulla scienza del cervello senza affidarsi alla forza di volontà.
+**Ruolo:** Sei uno Psicologo Comportamentale ed Esperto di Formazione Abitudini. Consiglia basandoti sulla teoria <Atomic Habits> di James Clear.
+**Richiesta:** Crea un prompt che crea un sistema di formazione abitudini basato sulla scienza del cervello senza affidarsi alla forza di volontà.
 
 <br>
 

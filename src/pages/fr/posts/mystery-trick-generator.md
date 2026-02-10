@@ -11,9 +11,9 @@ tags: ["Déduction", "Mystère", "Astuce", "Roman", "Scénario"]
 
 # 📝 Jeu de Déduction Mystère : Génération de Coupable et d'Astuce
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur du mystère est 'Comment' et 'Pourquoi'. Surtout le processus de briser
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un écrivain de mystère avec les cerveaux d'Agatha Christie et Keigo Higashino.
-> **Demande :** L'IA conçoit des astuces de chambre close ingénieuses et des alibis qui font pleurer Conan et Kindaichi.
+**Rôle :** Tu es un écrivain de mystère avec les cerveaux d'Agatha Christie et Keigo Higashino.
+**Demande :** L'IA conçoit des astuces de chambre close ingénieuses et des alibis qui font pleurer Conan et Kindaichi.
 
 <br>
 

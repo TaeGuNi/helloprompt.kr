@@ -11,15 +11,15 @@ tags: ["Notion", "NotionIA", "GestionTâches", "Productivité", "GTD"]
 
 # 🧠 Secrétaire IA Notion : Tri des Tâches Quotidiennes & Auto-Planification
 
-> **🎯 Recommandé pour :** Les gens qui buggent avec trop de tâches, Les gens dont les plans ne sont jolis que sur papier
-> **⏱️ Temps Requis :** 1 min
-> **🤖 Modèle Recommandé :** Notion IA (Payant mais puissant) ou ChatGPT (Copier-coller)
+**🎯 Recommandé pour :** Les gens qui buggent avec trop de tâches, Les gens dont les plans ne sont jolis que sur papier
+**⏱️ Temps Requis :** 1 min
+**🤖 Modèle Recommandé :** Notion IA (Payant mais puissant) ou ChatGPT (Copier-coller)
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-> _"Ah c'est vrai, la lessive... oh faut envoyer un mail au patron... attends, c'est à quelle heure la réunion aujourd'hui ?"_
+_"Ah c'est vrai, la lessive... oh faut envoyer un mail au patron... attends, c'est à quelle heure la réunion aujourd'hui ?"_
 
 Quand votre cerveau est comme une pelote de laine emmêlée, la productivité tombe à zéro. Le cœur de **GTD (Getting Things Done)** est **"Sors-le de ta tête et écris-le"**. Vide tout. Notion IA va organiser. Présentation de la technique de 'Planification Sans Réfléchir' : Vide ton cerveau, externalise à l'IA.
 
@@ -39,16 +39,16 @@ Quand votre cerveau est comme une pelote de laine emmêlée, la productivité to
 
 Utilisation de la fonction Notion IA (Touche `Espace`).
 
-> **Vidage de Cerveau (Entrée) :**
->
-> - Écrire rapport
-> - Appeler Maman
-> - Acheter dentifrice
-> - Prép réunion équipe dév
-> - 15h Dentiste
->
-> **Prompt :**
-> "Classe ci-dessus en **[Urgent/Important]**, **[Corvées]**, **[Travail]**, et réécris en Liste à Cocher par ordre d'exécution."
+**Vidage de Cerveau (Entrée) :**
+
+- Écrire rapport
+- Appeler Maman
+- Acheter dentifrice
+- Prép réunion équipe dév
+- 15h Dentiste
+
+**Prompt :**
+"Classe ci-dessus en **[Urgent/Important]**, **[Corvées]**, **[Travail]**, et réécris en Liste à Cocher par ordre d'exécution."
 
 <br>
 
@@ -84,25 +84,25 @@ Utilisation de ChatGPT pour faire un plan journalier parfait.
 
 ### ❌ Avant (Chaos)
 
-> - Lessive
-> - Proposition de Projet (Pour demain)
-> - Regarder Netflix
->   (Résultat : Regardé Netflix, fait la lessive, nuit blanche pour la proposition 🐼)
+- Lessive
+- Proposition de Projet (Pour demain)
+- Regarder Netflix
+  (Résultat : Regardé Netflix, fait la lessive, nuit blanche pour la proposition 🐼)
 
 ### ✅ Après (Secrétaire IA)
 
-> **[🔥 Faire Maintenant - Concentration Matin]**
->
-> - 09:00 ~ 11:00 Brouillon Proposition Projet (Éloigne le téléphone)
->
-> **[📅 Planifier - Après Déjeuner]**
->
-> - 13:00 ~ 13:30 Prép Réunion Équipe Dév
->
-> **[🏠 Corvées - Après Travail]**
->
-> - 19:00 Lessive
-> - 20:00 Acheter dentifrice (Livraison rapide recommandée)
+**[🔥 Faire Maintenant - Concentration Matin]**
+
+- 09:00 ~ 11:00 Brouillon Proposition Projet (Éloigne le téléphone)
+
+**[📅 Planifier - Après Déjeuner]**
+
+- 13:00 ~ 13:30 Prép Réunion Équipe Dév
+
+**[🏠 Corvées - Après Travail]**
+
+- 19:00 Lessive
+- 20:00 Acheter dentifrice (Livraison rapide recommandée)
 
 ---
 

@@ -11,7 +11,7 @@ tags: ["Lyrics", "LyricWriting", "Ballad", "Music"]
 
 # 📝 Lyricist Debut? Writing Emotional Ballad Lyrics with 3 Keywords
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

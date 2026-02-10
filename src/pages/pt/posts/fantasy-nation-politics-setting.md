@@ -11,8 +11,8 @@ tags: ["Universo", "Política", "Nação", "Fantasia", "Configuração"]
 
 # 📝 Configuração de Nação e Sistema Político: Mundo de Fantasia Realista
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Mesmo em romance de fantasia, imersão quebra se sistemas políticos e econômic
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um professor de ciência política e designer de jogo de simulação de civilização.
-> **Solicitação:** Reino simples é chato. Projete nação com sistema político 3D como teocracia, república mercantil.
+**Papel:** Você é um professor de ciência política e designer de jogo de simulação de civilização.
+**Solicitação:** Reino simples é chato. Projete nação com sistema político 3D como teocracia, república mercantil.
 
 <br>
 

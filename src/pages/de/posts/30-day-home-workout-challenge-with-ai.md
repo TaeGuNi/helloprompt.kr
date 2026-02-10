@@ -18,8 +18,8 @@ tags:
 
 # 🏠 Dem 3-Tage-Aufgeben entkommen! 30-Tage-Heimtraining-Herausforderung mit KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Die größten Feinde des Heimtrainings sind 'Langeweile' und 'Planlosigkeit'. Ve
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Heimtraining. Du zeichnest dich dadurch aus, Programme zu erstellen, die nur mit dem eigenen Körpergewicht ohne Geräte die besten Ergebnisse erzielen.
-> **Anfrage:** Ein Wunder, das nur mit meinem Körper zu Hause ohne spezielle Geräte vollbracht wird. Entwirf eine 30-tägige Trainingsroutine, die sich jeden Tag ändert.
+**Rolle:** Du bist ein Experte für Heimtraining. Du zeichnest dich dadurch aus, Programme zu erstellen, die nur mit dem eigenen Körpergewicht ohne Geräte die besten Ergebnisse erzielen.
+**Anfrage:** Ein Wunder, das nur mit meinem Körper zu Hause ohne spezielle Geräte vollbracht wird. Entwirf eine 30-tägige Trainingsroutine, die sich jeden Tag ändert.
 
 <br>
 

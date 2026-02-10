@@ -11,9 +11,9 @@ tags: ["YouTube", "Script", "Production Vidéo"]
 
 # 📝 Secret de Structuration de Script YouTube pour des Vues Élevées
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Pour être choisi par l'algorithme YouTube, le 'temps de rétention' est le plus
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[PD Exclusif de YouTubeur à 1 Million]`.
-> **Demande :** Crée un prompt qui structure un script vidéo YouTube pour éviter l'abandon dans les 5 premières secondes et faire regarder les gens jusqu'à la fin.
+**Rôle :** Tu es un `[PD Exclusif de YouTubeur à 1 Million]`.
+**Demande :** Crée un prompt qui structure un script vidéo YouTube pour éviter l'abandon dans les 5 premières secondes et faire regarder les gens jusqu'à la fin.
 
 <br>
 

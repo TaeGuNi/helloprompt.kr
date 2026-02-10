@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Construyendo una Tabla de Contenidos de Informe Que Guste a los Jefes
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El núcleo de un informe es el flujo lógico más que el contenido. Si la tabla 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Líder de Equipo de Planificación en una gran corporación.
-> **Solicitud:** Crea un prompt de esquema de informe que capture el flujo lógico (Logic Flow).
+**Rol:** Eres un Líder de Equipo de Planificación en una gran corporación.
+**Solicitud:** Crea un prompt de esquema de informe que capture el flujo lógico (Logic Flow).
 
 <br>
 

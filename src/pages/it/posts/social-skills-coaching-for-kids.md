@@ -12,8 +12,8 @@ tags:
 
 # 📝 Rafforzare il Cuore di un Bambino Prima di Chiedere 'Sei Bullizzato?'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Incolpare incondizionatamente l'amico o prendere solo le parti del bambino non �
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto nello sviluppo sociale dei bambini.
-> **Richiesta:** Fornisci coaching di socialità per bambini feriti nelle relazioni con i coetanei.
+**Ruolo:** Sei un esperto nello sviluppo sociale dei bambini.
+**Richiesta:** Fornisci coaching di socialità per bambini feriti nelle relazioni con i coetanei.
 
 <br>
 

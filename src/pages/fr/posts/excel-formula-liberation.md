@@ -11,15 +11,15 @@ tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivité"]
 
 # 📊 Déclaration d'Indépendance Excel : Plus de VLOOKUP
 
-> **🎯 Recommandé pour :** Les littéraires étourdis par les formules, Les marketeurs passant des heures sur les données
-> **⏱️ Temps Requis :** 10 secondes
-> **🤖 Modèle Recommandé :** ChatGPT-4o (Advanced Data Analysis) ou Claude 3.5 Sonnet
+**🎯 Recommandé pour :** Les littéraires étourdis par les formules, Les marketeurs passant des heures sur les données
+**⏱️ Temps Requis :** 10 secondes
+**🤖 Modèle Recommandé :** ChatGPT-4o (Advanced Data Analysis) ou Claude 3.5 Sonnet
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Hé Marc, compare la Colonne B et F dans cette feuille, extrais les doublons et surligne-les en rouge avec la mise en forme conditionnelle."_
+_"Hé Marc, compare la Colonne B et F dans cette feuille, extrais les doublons et surligne-les en rouge avec la mise en forme conditionnelle."_
 
 Mission Excel soudaine du patron. Vous cherchez sur Google `Excel trouver doublons` ? `VLOOKUP`, `INDEX-MATCH`... quand allez-vous tous les mémoriser ? Maintenant, Excel ne se fait plus avec des **'Formules'**, mais avec des **'Mots'**.
 
@@ -39,9 +39,9 @@ Mission Excel soudaine du patron. Vous cherchez sur Google `Excel trouver doublo
 
 Quand vous ne vous souvenez simplement plus du nom de la fonction.
 
-> **Rôle :** Tu es un Maître Excel.
-> **Contexte :** La Col A a 'Nom Produit', Col B a 'Prix', Col C a 'Quantité'.
-> **Demande :** Écris une formule pour la Col D pour calculer 'Ventes Totales (Prix\*Qté)', et marque "VIP" si supérieur à 1000€, sinon "Standard".
+**Rôle :** Tu es un Maître Excel.
+**Contexte :** La Col A a 'Nom Produit', Col B a 'Prix', Col C a 'Quantité'.
+**Demande :** Écris une formule pour la Col D pour calculer 'Ventes Totales (Prix\*Qté)', et marque "VIP" si supérieur à 1000€, sinon "Standard".
 
 <br>
 
@@ -85,11 +85,11 @@ Quand vous avez besoin de traitement complexe ou de Macros VBA.
 
 ### ✅ Après (Réponse IA)
 
-> "Client, au lieu du complexe VLOOKUP, utilisez le moderne `XLOOKUP`. C'est plus rapide et sans erreur."
->
-> `=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Aucun")`
->
-> (Copier -> Coller -> Sortie à l'heure)
+"Client, au lieu du complexe VLOOKUP, utilisez le moderne `XLOOKUP`. C'est plus rapide et sans erreur."
+
+`=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Aucun")`
+
+(Copier -> Coller -> Sortie à l'heure)
 
 ---
 

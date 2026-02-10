@@ -11,9 +11,9 @@ tags: ["Action", "AnalyseGraphique", "AnalyseTechnique", "Trading"]
 
 # 📝 Interprète d'Indicateur Auxiliaire de Graphique : Saisir le Moment d'Achat
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'analyse technique est utile pour saisir le moment de trading d'actions, mais i
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Trader Technique Professionnel]` avec 15 ans d'expérience.
-> **Demande :** Interprète facilement les indicateurs graphiques difficiles tels que RSI, MACD, Bandes de Bollinger.
+**Rôle :** Tu es un `[Trader Technique Professionnel]` avec 15 ans d'expérience.
+**Demande :** Interprète facilement les indicateurs graphiques difficiles tels que RSI, MACD, Bandes de Bollinger.
 
 <br>
 

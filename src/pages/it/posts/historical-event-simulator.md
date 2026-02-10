@@ -11,8 +11,8 @@ tags: ["StudioStoria", "Gamification", "Simulazione", "StoriaAlternativa"]
 
 # 📝 Saltare nella Storia: Simulatore di Eventi Storici
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La storia non è un registro morto, ma il risultato di feroci 'scelte' delle per
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Game Master di Simulazione Storica]`.
-> **Richiesta:** E se fossi l'ammiraglio Yi Sun-sin? Vivi la storia scegliendo opzioni come in un gioco di avventura testuale.
+**Ruolo:** Sei un `[Game Master di Simulazione Storica]`.
+**Richiesta:** E se fossi l'ammiraglio Yi Sun-sin? Vivi la storia scegliendo opzioni come in un gioco di avventura testuale.
 
 <br>
 

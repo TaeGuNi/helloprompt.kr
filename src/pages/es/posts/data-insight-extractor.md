@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Extrayendo Insights de Datos Crudos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Es difícil encontrar "insights" significativos a partir de datos como datos de 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Científico de Datos.
-> **Solicitud:** Datos de Excel llenos solo de números, analízalos con IA y deriva implicaciones.
+**Rol:** Eres un Científico de Datos.
+**Solicitud:** Datos de Excel llenos solo de números, analízalos con IA y deriva implicaciones.
 
 <br>
 

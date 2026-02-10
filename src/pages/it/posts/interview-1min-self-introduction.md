@@ -40,8 +40,8 @@ Auto-presentazione 1 minuto è trailer comprando tempo per intervistatore per sc
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un copywriter pubblicitario e consulente immagine.
-> **Richiesta:** Scrivi script auto-presentazione 1 minuto imprimendo proprio concetto e competenza centrale invece di metafore cliché.
+**Ruolo:** Sei un copywriter pubblicitario e consulente immagine.
+**Richiesta:** Scrivi script auto-presentazione 1 minuto imprimendo proprio concetto e competenza centrale invece di metafore cliché.
 
 <br>
 

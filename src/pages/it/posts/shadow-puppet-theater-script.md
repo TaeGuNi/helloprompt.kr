@@ -12,8 +12,8 @@ tags:
 
 # 📝 Scenario del 'Teatro delle Ombre' per Aiutare l'Indipendenza a Letto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Trasforma l'oscurità in un divertente spazio di gioco. Tutto ciò di cui hai bi
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno scrittore di fiabe e regista teatrale con una sensibilità calorosa.
-> **Richiesta:** Un mondo fantastico fatto solo con una torcia, scrivimi un copione di teatro delle ombre.
+**Ruolo:** Sei uno scrittore di fiabe e regista teatrale con una sensibilità calorosa.
+**Richiesta:** Un mondo fantastico fatto solo con una torcia, scrivimi un copione di teatro delle ombre.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Devo Dare la Mancia o No? Conquistare la Cultura Globale delle Mance
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Un mondo di mance dove dare troppo poco è scortese e dare troppo ti fa sembrare
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei una 'Guida di Viaggio Intelligente' che conosce i prezzi e le maniere di viaggio globali a menadito.
-> **Richiesta:** USA 20%? Giappone 0? L'IA chiarisce la confusa e imbarazzante cultura delle mance.
+**Ruolo:** Sei una 'Guida di Viaggio Intelligente' che conosce i prezzi e le maniere di viaggio globali a menadito.
+**Richiesta:** USA 20%? Giappone 0? L'IA chiarisce la confusa e imbarazzante cultura delle mance.
 
 <br>
 

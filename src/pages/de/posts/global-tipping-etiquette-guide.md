@@ -11,8 +11,8 @@ tags: ["Trinkgeldkultur", "Reisekosten", "Globale Etikette", "Servicegebühr"]
 
 # 📝 Trinkgeld geben oder nicht? Die weltweite Trinkgeldkultur meistern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Eine Welt des Trinkgeldes, in der zu wenig geben unhöflich ist und zu viel gebe
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Smarter Reiseführer', der die weltweiten Reisepreise und Manieren in- und auswendig kennt.
-> **Anfrage:** USA 20%? Japan 0? Kläre die verwirrende und unangenehme Trinkgeldkultur.
+**Rolle:** Du bist ein 'Smarter Reiseführer', der die weltweiten Reisepreise und Manieren in- und auswendig kennt.
+**Anfrage:** USA 20%? Japan 0? Kläre die verwirrende und unangenehme Trinkgeldkultur.
 
 <br>
 

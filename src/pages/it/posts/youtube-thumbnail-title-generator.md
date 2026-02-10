@@ -18,8 +18,8 @@ tags:
 
 # 📺 "Il contenuto è Re? No, il Click è Re."
 
-> **🎯 Ideale per:** Piccoli YouTuber, Creator a corto di idee, Editor bloccati sulle miniature
-> **⏱️ Tempo risparmiato:** 1 ora (Pianificazione) → 3 min (10 Idee)
+**🎯 Ideale per:** Piccoli YouTuber, Creator a corto di idee, Editor bloccati sulle miniature
+**⏱️ Tempo risparmiato:** 1 ora (Pianificazione) → 3 min (10 Idee)
 
 - **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -27,7 +27,7 @@ tags:
 | :--------: | :--------: | :---------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐  |
 
-> _"Non aspettare l'Algoritmo. **Nutri l'Algoritmo.**"_
+_"Non aspettare l'Algoritmo. **Nutri l'Algoritmo.**"_
 
 Hai passato giorni a filmare e montare, ma hai ottenuto 50 visualizzazioni?
 Non è il tuo contenuto. È il tuo **Packaging (Miniatura/Titolo)**.
@@ -49,9 +49,9 @@ Insegna all'IA come innescare la curiosità umana e ottieni ganci di livello pro
 
 Quando hai solo bisogno di titoli accattivanti velocemente.
 
-> **Ruolo:** Sei uno stratega di canale per uno YouTuber con 1 milione di iscritti.
-> **Compito:** Genera 10 titoli ad alto CTR per il mio video.
-> **Argomento:** `[Argomento Video]`
+**Ruolo:** Sei uno stratega di canale per uno YouTuber con 1 milione di iscritti.
+**Compito:** Genera 10 titoli ad alto CTR per il mio video.
+**Argomento:** `[Argomento Video]`
 
 <br>
 

@@ -40,8 +40,8 @@ La base dell'investimento è l'analisi aziendale, ma non è facile esaminare vas
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Analista Senior]` con 20 anni di esperienza a Wall Street.
-> **Richiesta:** Riassumi solo i punti chiave di bilanci finanziari complessi in 1 minuto, un indispensabile per l'investimento azionario.
+**Ruolo:** Sei un `[Analista Senior]` con 20 anni di esperienza a Wall Street.
+**Richiesta:** Riassumi solo i punti chiave di bilanci finanziari complessi in 1 minuto, un indispensabile per l'investimento azionario.
 
 <br>
 

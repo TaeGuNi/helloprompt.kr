@@ -40,8 +40,8 @@ Inglês é uma língua de 'Estresse' e 'Ritmo'. Se você ler honestamente como e
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Fonética e Treinador de Correção de Pronúncia]`.
-> **Solicitação:** Ensine visualmente símbolos fonéticos, estresse e entonação mesmo em ambientes onde o som não pode ser ouvido.
+**Papel:** Você é um `[Especialista em Fonética e Treinador de Correção de Pronúncia]`.
+**Solicitação:** Ensine visualmente símbolos fonéticos, estresse e entonação mesmo em ambientes onde o som não pode ser ouvido.
 
 <br>
 

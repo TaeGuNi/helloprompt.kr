@@ -11,8 +11,8 @@ tags: ["Kochen", "Rezept", "Lebenstipps"]
 
 # 📝 Kühlschrank-Aufräumung, wiedergeboren mit einem Chefkoch-Rezept
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Zutaten, die zu schade zum Wegwerfen sind, aber keine Ideen zum Kochen in den Si
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Kreativer kulinarischer Forscher]`.
-> **Anfrage:** Erstelle einen sparsamen Lebens-Prompt, der plausible Kochrezepte vorschlägt, wenn ich übrig gebliebene Zutaten eingebe, die sich ihrem Verfallsdatum nähern.
+**Rolle:** Du bist ein `[Kreativer kulinarischer Forscher]`.
+**Anfrage:** Erstelle einen sparsamen Lebens-Prompt, der plausible Kochrezepte vorschlägt, wenn ich übrig gebliebene Zutaten eingebe, die sich ihrem Verfallsdatum nähern.
 
 <br>
 

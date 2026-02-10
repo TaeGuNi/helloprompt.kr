@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Landschaft"]
 
 # 📝 Blick Gottes: High Angle & Drone View
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte die Struktur dieser komplexen Stadt auf einen Blick zeigen."_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen High Angle/Drohnenaufnahme-Prompt, der das gesamte Gelände oder Layout aus einem Blickwinkel zeigt, der vom Himmel herabblickt.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen High Angle/Drohnenaufnahme-Prompt, der das gesamte Gelände oder Layout aus einem Blickwinkel zeigt, der vom Himmel herabblickt.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Future eco city.`
 
-> (Ergebnis: Nur Teile von Gebäuden oder Straßenszenen sind sichtbar, die gesamte Stadtstruktur kann nicht erfasst werden)
+(Ergebnis: Nur Teile von Gebäuden oder Straßenszenen sind sichtbar, die gesamte Stadtstruktur kann nicht erfasst werden)
 
 ### ✅ Nachher (Ergebnis)
 
 `Drone view` Prompt angewendet
 
-> (Ergebnis: Perfekte Vogelperspektive, wo das Straßennetz der Stadt, das Grünflächenlayout und die Skyline der Gebäude auf einen Blick sichtbar werden)
+(Ergebnis: Perfekte Vogelperspektive, wo das Straßennetz der Stadt, das Grünflächenlayout und die Skyline der Gebäude auf einen Blick sichtbar werden)
 
 ---
 

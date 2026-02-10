@@ -11,8 +11,8 @@ tags: ["Viaje", "Itinerario", "Viaje al Extranjero"]
 
 # 📝 Planificador de Viajes con IA para Ps Más Perfectos que Js
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Para las personas con MBTI 'P', la planificación de viajes es una tortura. Pero
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Guía de Viajes con Experiencia de Residencia Local]`.
-> **Solicitud:** Crea un prompt de guía de viajes que planifique cursos de viaje óptimos e itinerarios por horas sin desperdiciar movimiento.
+**Rol:** Eres un `[Guía de Viajes con Experiencia de Residencia Local]`.
+**Solicitud:** Crea un prompt de guía de viajes que planifique cursos de viaje óptimos e itinerarios por horas sin desperdiciar movimiento.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Notion", "NotionAI", "GestãoTarefas", "Produtividade", "GTD"]
 
 # 🧠 Secretária de IA do Notion: Classificação de Tarefas Diárias & Auto-Agendamento
 
-> **🎯 Recomendado para:** Pessoas que travam com muitas tarefas, Pessoas cujos planos só são bonitos no papel
-> **⏱️ Tempo Necessário:** 1 min
+**🎯 Recomendado para:** Pessoas que travam com muitas tarefas, Pessoas cujos planos só são bonitos no papel
+**⏱️ Tempo Necessário:** 1 min
 
 - **🤖 Modelo Recomendado:** Notion AI (Pago mas poderoso) ou ChatGPT (Copiar-colar)
 
@@ -20,7 +20,7 @@ tags: ["Notion", "NotionAI", "GestãoTarefas", "Produtividade", "GTD"]
 | :---------: | :---------: | :-------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐☆ |
 
-> _"Ah certo, lavanderia... oh preciso enviar email pro chefe... espera, que horas é a reunião hoje?"_
+_"Ah certo, lavanderia... oh preciso enviar email pro chefe... espera, que horas é a reunião hoje?"_
 
 Quando seu cérebro é como fio emaranhado, a produtividade cai para zero. O núcleo do **GTD (Getting Things Done)** é **"Tire da cabeça e escreva"**. Apenas jogue tudo. O Notion AI vai organizar. Apresentando a técnica de 'Agendamento Sem Pensar': Esvazie seu cérebro, terceirize para a IA.
 
@@ -40,16 +40,16 @@ Quando seu cérebro é como fio emaranhado, a produtividade cai para zero. O nú
 
 Usando a função Notion AI (Tecla `Espaço`).
 
-> **Despejo Cerebral (Entrada):**
->
-> - Escrever relatório
-> - Ligar pra Mãe
-> - Comprar pasta de dente
-> - Prep reunião equipe dev
-> - 15h Dentista
->
-> **Prompt:**
-> "Classifique o acima em **[Urgente/Importante]**, **[Tarefas Domésticas]**, **[Trabalho]**, e reescreva como Lista de Verificação em ordem de execução."
+**Despejo Cerebral (Entrada):**
+
+- Escrever relatório
+- Ligar pra Mãe
+- Comprar pasta de dente
+- Prep reunião equipe dev
+- 15h Dentista
+
+**Prompt:**
+"Classifique o acima em **[Urgente/Importante]**, **[Tarefas Domésticas]**, **[Trabalho]**, e reescreva como Lista de Verificação em ordem de execução."
 
 <br>
 
@@ -85,25 +85,25 @@ Usando ChatGPT para fazer um plano diário perfeito.
 
 ### ❌ Antes (Caos)
 
-> - Lavanderia
-> - Proposta de Projeto (Vence amanhã)
-> - Assistir Netflix
->   (Resultado: Assisti Netflix, fiz lavanderia, virei a noite para a proposta 🐼)
+- Lavanderia
+- Proposta de Projeto (Vence amanhã)
+- Assistir Netflix
+  (Resultado: Assisti Netflix, fiz lavanderia, virei a noite para a proposta 🐼)
 
 ### ✅ Depois (Secretária IA)
 
-> **[🔥 Faça Agora - Foco Manhã]**
->
-> - 09:00 ~ 11:00 Rascunho Proposta Projeto (Afaste o telefone)
->
-> **[📅 Agende - Após Almoço]**
->
-> - 13:00 ~ 13:30 Prep Reunião Equipe Dev
->
-> **[🏠 Tarefas Domésticas - Após Trabalho]**
->
-> - 19:00 Lavanderia
-> - 20:00 Comprar pasta de dente (Entrega rápida recomendada)
+**[🔥 Faça Agora - Foco Manhã]**
+
+- 09:00 ~ 11:00 Rascunho Proposta Projeto (Afaste o telefone)
+
+**[📅 Agende - Após Almoço]**
+
+- 13:00 ~ 13:30 Prep Reunião Equipe Dev
+
+**[🏠 Tarefas Domésticas - Após Trabalho]**
+
+- 19:00 Lavanderia
+- 20:00 Comprar pasta de dente (Entrega rápida recomendada)
 
 ---
 

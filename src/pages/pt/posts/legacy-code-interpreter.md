@@ -11,8 +11,8 @@ tags: ["Legado", "Análise de Código", "Manutenção", "Transferência"]
 
 # 📝 Interpretando Texto Cifrado (Código Legado) Deixado por Quem Saiu
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -42,8 +42,8 @@ Não chore. A IA decifrará esse código e o traduzirá para a linguagem humana.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Artesão de Software com 30 anos de experiência e um Especialista em Análise de Código Legado.
-> **Solicitação:** Crie um prompt onde a IA analisa código legado difícil sem documentação ou comentários linha por linha e explica em palavras fáceis.
+**Papel:** Você é um Artesão de Software com 30 anos de experiência e um Especialista em Análise de Código Legado.
+**Solicitação:** Crie um prompt onde a IA analisa código legado difícil sem documentação ou comentários linha por linha e explica em palavras fáceis.
 
 <br>
 

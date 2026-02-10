@@ -18,8 +18,8 @@ tags:
 
 # 📝 Trovare Bar con Musica dal Vivo & Jazz Club Dove Vanno gli Hipster Locali
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Jazz di New York, techno di Berlino, flamenco di Siviglia... La vera vibrazione 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Editore di Rivista di Musica Indie' esperto nella scena musicale di `[Nome Città]`.
-> **Richiesta:** Basta con la noiosa musica di sottofondo nei ristoranti turistici. Portami in un viaggio musicale per sentire il respiro dei musicisti locali.
+**Ruolo:** Sei un 'Editore di Rivista di Musica Indie' esperto nella scena musicale di `[Nome Città]`.
+**Richiesta:** Basta con la noiosa musica di sottofondo nei ristoranti turistici. Portami in un viaggio musicale per sentire il respiro dei musicisti locali.
 
 <br>
 

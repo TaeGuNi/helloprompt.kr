@@ -12,8 +12,8 @@ tags:
 
 # 📝 Atmosfera de Filme: Iluminação Cinematográfica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ O fator mais importante que determina a qualidade da imagem é a 'luz'. Em vez d
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Revele o segredo dos prompts de iluminação que fazem imagens simples parecerem cenas de filmes de Hollywood.
+**Papel:** Você é um especialista.
+**Solicitação:** Revele o segredo dos prompts de iluminação que fazem imagens simples parecerem cenas de filmes de Hollywood.
 
 <br>
 
@@ -74,13 +74,13 @@ Insira o conteúdo do **PROMPT** abaixo na IA de geração de imagem.
 
 `A man in the rain, night.`
 
-> (Resultado: Foto geral simples e escura)
+(Resultado: Foto geral simples e escura)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Cinematic lighting` aplicado
 
-> (Resultado: Luzes de néon refletindo em gotas de chuva, luz de borda destacando o contorno da figura, uma cena de um filme noir profundo)
+(Resultado: Luzes de néon refletindo em gotas de chuva, luz de borda destacando o contorno da figura, uma cena de um filme noir profundo)
 
 ---
 

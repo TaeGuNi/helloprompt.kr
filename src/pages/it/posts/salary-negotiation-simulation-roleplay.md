@@ -17,8 +17,8 @@ tags:
 
 # 📝 Voglio Alzarlo! Gioco di Ruolo Simulazione 'Negoziazione Salariale'
 
-> **🎯 Consigliato per:** Impiegati d'Ufficio
-> **⏱️ Tempo richiesto:** 10 minuti
+**🎯 Consigliato per:** Impiegati d'Ufficio
+**⏱️ Tempo richiesto:** 10 minuti
 
 - **🤖 Modello consigliato:** GPT-4o, Claude 3.5 Sonnet
 
@@ -46,8 +46,8 @@ La negoziazione salariale è un **'Gioco Capitalista Freddo'**. Se dici solo "Ho
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un manager HR meticoloso.
-> **Richiesta:** Simula una situazione di negoziazione salariale tesa con una persona di manager HR per trovare la logica e l'espressione massimizzando il tasso di aumento.
+**Ruolo:** Sei un manager HR meticoloso.
+**Richiesta:** Simula una situazione di negoziazione salariale tesa con una persona di manager HR per trovare la logica e l'espressione massimizzando il tasso di aumento.
 
 <br>
 

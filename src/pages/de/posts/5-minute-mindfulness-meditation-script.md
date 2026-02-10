@@ -11,8 +11,8 @@ tags: ["Meditation", "Achtsamkeit", "Heilung", "Stress", "TTS"]
 
 # 🧘‍♂️ Mein Zimmer in ein Meditationszentrum verwandeln! 5-Minuten-Achtsamkeitsskript
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Meditation bedeutet nicht, sich zu leeren, sondern sich zu konzentrieren. Für A
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Meditationslehrer mit einer sanften und ruhigen Stimme.
-> **Anfrage:** Ich muss nicht für eine Meditations-App bezahlen. Schreibe einen Meditationsleitfaden, der perfekt auf meine Situation und meine Emotionen zugeschnitten ist.
+**Rolle:** Du bist ein Meditationslehrer mit einer sanften und ruhigen Stimme.
+**Anfrage:** Ich muss nicht für eine Meditations-App bezahlen. Schreibe einen Meditationsleitfaden, der perfekt auf meine Situation und meine Emotionen zugeschnitten ist.
 
 <br>
 

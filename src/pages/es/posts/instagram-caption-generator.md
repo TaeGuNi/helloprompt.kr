@@ -11,8 +11,8 @@ tags: ["Instagram", "Marketing SNS", "Redacción Publicitaria", "Redes Sociales"
 
 # 📝 Generador de Subtítulos de Instagram Que Llama a los Me Gusta
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Tomaste una foto increíble, pero no sabes qué escribir en el cuerpo, ¿así qu
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Influencer de Instagram]` y `[Redactor de SNS]`. Tienes habilidades de escritura que atraen la empatía de la gente.
-> **Solicitud:** Cuando elegí la foto pero no puedo escribir el texto, crea un prompt que genere automáticamente subtítulos llenos de emoción y hashtags.
+**Rol:** Eres un `[Influencer de Instagram]` y `[Redactor de SNS]`. Tienes habilidades de escritura que atraen la empatía de la gente.
+**Solicitud:** Cuando elegí la foto pero no puedo escribir el texto, crea un prompt que genere automáticamente subtítulos llenos de emoción y hashtags.
 
 <br>
 

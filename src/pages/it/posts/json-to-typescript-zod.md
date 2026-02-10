@@ -11,8 +11,8 @@ tags: ["TypeScript", "Zod", "JSON", "Definizione Tipo", "Produttività"]
 
 # 📝 Lancia Solo JSON e la Definizione del Tipo TypeScript Salta Fuori! (feat. Zod)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Copia e incolla semplicemente il JSON di risposta API. Crea definizioni di tipo 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Sviluppatore Senior che ha padroneggiato l'ecosistema TypeScript.
-> **Richiesta:** Crea un prompt che converta automaticamente dati JSON complessi in interfacce TypeScript o schemi Zod.
+**Ruolo:** Sei uno Sviluppatore Senior che ha padroneggiato l'ecosistema TypeScript.
+**Richiesta:** Crea un prompt che converta automaticamente dati JSON complessi in interfacce TypeScript o schemi Zod.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Escritura", "Hábito", "Desafío", "Autodesarrollo"]
 
 # 📝 Desafío de Escritura Diaria: Auto-Generar Calendario de Temas de Escritura de 30 Días
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Lo más difícil en la escritura no es el 'acto de escribir' sino 'decidir qué 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un entrenador de escritura y curador de contenido.
-> **Solicitud:** ¿Quieres construir hábito de escritura? La IA planifica temas de escritura de 30 días (preguntas) adaptados a tus intereses.
+**Rol:** Eres un entrenador de escritura y curador de contenido.
+**Solicitud:** ¿Quieres construir hábito de escritura? La IA planifica temas de escritura de 30 días (preguntas) adaptados a tus intereses.
 
 <br>
 

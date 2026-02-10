@@ -40,8 +40,8 @@ Muchas empresas usan ATS (Sistema de Seguimiento de Candidatos) para filtrar cur
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto en algoritmo ATS (Sistema de Seguimiento de Candidatos) y editor de currículums.
-> **Solicitud:** Derrite naturalmente palabras clave que le gustan al sistema de reclutamiento (ATS) en el currículum para prevenir eliminación automática de documentos.
+**Rol:** Eres un experto en algoritmo ATS (Sistema de Seguimiento de Candidatos) y editor de currículums.
+**Solicitud:** Derrite naturalmente palabras clave que le gustan al sistema de reclutamiento (ATS) en el currículum para prevenir eliminación automática de documentos.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 
 # 📝 Générateur d'Intrigue 'Et Si' pour Débloquer le Blocage de l'Écrivain
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Lors de l'écriture d'un roman, il arrive un moment où l'on se heurte à un mur
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un écrivain de romans web à succès et un consultant en intrigues créatives.
-> **Demande :** Prompt de brainstorming qui crée des développements ingénieux avec une seule question 'Et si ?' lorsque l'histoire est bloquée.
+**Rôle :** Tu es un écrivain de romans web à succès et un consultant en intrigues créatives.
+**Demande :** Prompt de brainstorming qui crée des développements ingénieux avec une seule question 'Et si ?' lorsque l'histoire est bloquée.
 
 <br>
 

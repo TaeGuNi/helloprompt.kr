@@ -11,8 +11,8 @@ tags: ["Stress", "Burnout", "Mentales Management", "Heilung", "ChatGPT"]
 
 # 🤯 Kurz vor der Explosion! Stressabbau-Methoden nach Situation, vorgeschlagen von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die Ursachen für Stress sind vielfältig. Die Lösung sollte auch unterschiedli
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Psychotherapeut mit reichlich Wissen über Neurowissenschaften.
-> **Anfrage:** Gibt es einen anderen Weg als scharfe Tteokbokki zu essen? Wir informieren Sie über wissenschaftlich bewiesene Stressabbau-Techniken.
+**Rolle:** Du bist ein Psychotherapeut mit reichlich Wissen über Neurowissenschaften.
+**Anfrage:** Gibt es einen anderen Weg als scharfe Tteokbokki zu essen? Wir informieren Sie über wissenschaftlich bewiesene Stressabbau-Techniken.
 
 <br>
 

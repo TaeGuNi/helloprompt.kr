@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasie", "Farbe"]
 
 # 📝 Fantastisches Leuchten: Bioluminescence
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte einen Wald ausdrücken, der nachts wie Juwelen leuchtet."_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erzähl mir, wie man Kreaturen und Umgebungen zeichnet, die selbst Licht emittieren wie Planet Pandora in Avatar.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erzähl mir, wie man Kreaturen und Umgebungen zeichnet, die selbst Licht emittieren wie Planet Pandora in Avatar.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Forest at night with lights.`
 
-> (Ergebnis: Künstliches Gefühl wie eingeschaltete Straßenlaternen im Wald oder Taschenlampenstrahlen)
+(Ergebnis: Künstliches Gefühl wie eingeschaltete Straßenlaternen im Wald oder Taschenlampenstrahlen)
 
 ### ✅ Nachher (Ergebnis)
 
 `Bioluminescence` Prompt angewendet
 
-> (Ergebnis: Fantasiewelt, in der brillantes Licht aus Blattadern von Pflanzen und Pilzkappen strömt)
+(Ergebnis: Fantasiewelt, in der brillantes Licht aus Blattadern von Pflanzen und Pilzkappen strömt)
 
 ---
 

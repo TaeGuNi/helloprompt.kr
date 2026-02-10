@@ -11,9 +11,9 @@ tags: ["Voyage", "Horaire", "Planificateur", "Voyage à l'Étranger"]
 
 # 📝 Planificateur d'Itinéraire de Voyage Hyper-Personnalisé IA Plus Méticuleux que J
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La planification de voyage est fatigante. Il y a beaucoup d'endroits où aller, 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Guide de Voyage Professionnel versé dans les situations locales et un Maître de la Gestion d'Horaire.
-> **Demande :** Crée un prompt pour recevoir un plan de voyage parfait tenant compte des goûts, de l'itinéraire et de l'endurance en 1 minute.
+**Rôle :** Tu es un Guide de Voyage Professionnel versé dans les situations locales et un Maître de la Gestion d'Horaire.
+**Demande :** Crée un prompt pour recevoir un plan de voyage parfait tenant compte des goûts, de l'itinéraire et de l'endurance en 1 minute.
 
 <br>
 

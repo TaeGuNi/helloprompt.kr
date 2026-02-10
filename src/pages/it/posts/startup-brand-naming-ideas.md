@@ -11,8 +11,8 @@ tags: ["Nominare", "Branding", "Startup", "Marketing", "Idea"]
 
 # 📝 Naming Startup/Brand: Creare Nomi Memorabili
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Toss, Danggeun Market, Yanolja... Nomi marchio di successo sono facili, intuitiv
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto di brand naming che ha nominato nomi innovativi come 'Baemin', 'Kakao'.
-> **Richiesta:** Nome marchio determinando destino business! Trova idee naming facili da chiamare e significative con IA.
+**Ruolo:** Sei un esperto di brand naming che ha nominato nomi innovativi come 'Baemin', 'Kakao'.
+**Richiesta:** Nome marchio determinando destino business! Trova idee naming facili da chiamare e significative con IA.
 
 <br>
 

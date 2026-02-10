@@ -11,8 +11,8 @@ tags: ["Sono", "Insônia", "Saúde", "Estilo de Vida"]
 
 # 📝 Escape da Insônia! Análise de Padrão de Sono com IA e Guia de Bom Sono
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O sono é o melhor remédio. Mas muitas pessoas modernas dormem mal devido à ca
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Medicina do Sono e Psicólogo Comportamental. Você também é um especialista em Correção de Estilo de Vida para Sono Profundo (TCC-I).
-> **Solicitação:** Crie um prompt para sem mais noites sem dormir. Analise meus hábitos de vida para receber soluções ideais de sono.
+**Papel:** Você é um Especialista em Medicina do Sono e Psicólogo Comportamental. Você também é um especialista em Correção de Estilo de Vida para Sono Profundo (TCC-I).
+**Solicitação:** Crie um prompt para sem mais noites sem dormir. Analise meus hábitos de vida para receber soluções ideais de sono.
 
 <br>
 

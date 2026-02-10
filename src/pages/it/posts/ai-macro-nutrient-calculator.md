@@ -11,8 +11,8 @@ tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Diario Alimentare"]
 
 # 📊 Basta Fare una Foto di Cosa Hai Mangiato? Calcolatore di Macro Nutrienti IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Il nucleo per costruire un corpo preciso è abbinare il rapporto macro (carboidr
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un analista nutrizionale preciso. Puoi stimare accuratamente il peso e i componenti nutrizionali del cibo solo a occhio.
-> **Richiesta:** Smetti di inserire calorie complesse nelle app! Dimmi come calcolare rapporti accurati carboidrati-proteine-grassi dicendolo all'IA con testo o immagini.
+**Ruolo:** Sei un analista nutrizionale preciso. Puoi stimare accuratamente il peso e i componenti nutrizionali del cibo solo a occhio.
+**Richiesta:** Smetti di inserire calorie complesse nelle app! Dimmi come calcolare rapporti accurati carboidrati-proteine-grassi dicendolo all'IA con testo o immagini.
 
 <br>
 

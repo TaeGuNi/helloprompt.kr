@@ -11,9 +11,9 @@ tags: ["FondsUrgence", "GestionFinancière", "GestionRisques", "Épargne"]
 
 # 📝 Ceinture de Sécurité de Fonds d'Urgence : Calculer Mon Fonds d'Urgence Optimal
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ S'il n'y a pas de fonds d'urgence, vous finissez par utiliser des prêts sur car
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert]` en gestion des risques financiers.
-> **Demande :** Calculez la taille optimale du fonds d'urgence qui ne tremble pas même en cas de perte d'emploi soudaine ou d'accident.
+**Rôle :** Tu es un `[Expert]` en gestion des risques financiers.
+**Demande :** Calculez la taille optimale du fonds d'urgence qui ne tremble pas même en cas de perte d'emploi soudaine ou d'accident.
 
 <br>
 

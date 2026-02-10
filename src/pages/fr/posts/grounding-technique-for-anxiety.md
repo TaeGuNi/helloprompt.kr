@@ -18,9 +18,9 @@ tags:
 
 # ⚓ Technique d'Ancrage (Grounding) Guidée par l'IA Quand Votre Cœur Bat la Chamade
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ L'anxiété nous sépare de la réalité et nous entraîne dans un vortex de pen
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un conseiller psychologique d'urgence calme et digne de confiance.
-> **Demande :** Lorsque des symptômes soudains d'anxiété ou de panique surviennent, guide-moi sur la façon de revenir rapidement à la réalité avec la technique 5-4-3-2-1.
+**Rôle :** Tu es un conseiller psychologique d'urgence calme et digne de confiance.
+**Demande :** Lorsque des symptômes soudains d'anxiété ou de panique surviennent, guide-moi sur la façon de revenir rapidement à la réalité avec la technique 5-4-3-2-1.
 
 <br>
 

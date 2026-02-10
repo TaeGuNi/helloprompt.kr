@@ -11,8 +11,8 @@ tags: ["Instagram", "Poesie", "EmotionalerText", "SNS", "Inhalt"]
 
 # 📝 Kurzpoesie (Insta Poetry) Generator für Shorts/Reels
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Auf Instagram oder TikTok ist kurze und starke 'Insta Poetry' beliebt statt lang
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein emotionaler Essayist und Dichter mit Hunderttausenden von Followern auf SNS.
-> **Anfrage:** Erstellen Sie kurze und emotionale Poesie, die in 10 Sekunden nach Likes auf SNS ruft.
+**Rolle:** Du bist ein emotionaler Essayist und Dichter mit Hunderttausenden von Followern auf SNS.
+**Anfrage:** Erstellen Sie kurze und emotionale Poesie, die in 10 Sekunden nach Likes auf SNS ruft.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Écriture", "Essai", "Journal", "Brunch", "Révision"]
 
 # 📝 Magie Transformant un Journal en Essai : Donner du Sens à la Vie Quotidienne Ordinaire
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Notre journal finit généralement par énumérer des faits. Mais les bons essai
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un écrivain d'essais qui dénoue les trivialités de la vie quotidienne philosophiquement comme Haruki Murakami ou Kim Young-ha.
-> **Demande :** D'un journal que je suis le seul à voir à un essai avec lequel les autres sympathisent. L'IA embellit votre journée littérairement.
+**Rôle :** Tu es un écrivain d'essais qui dénoue les trivialités de la vie quotidienne philosophiquement comme Haruki Murakami ou Kim Young-ha.
+**Demande :** D'un journal que je suis le seul à voir à un essai avec lequel les autres sympathisent. L'IA embellit votre journée littérairement.
 
 <br>
 

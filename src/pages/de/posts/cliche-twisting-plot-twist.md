@@ -11,8 +11,8 @@ tags: ["Roman", "Wendung", "Idee", "Geschichtenerzählen"]
 
 # 📝 Klischee verdrehen: Offensichtliches Ende in schockierende Wendung verwandeln
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Klischee ist bequem, weil es vertraut ist, aber langweilig, weil es vorhersehbar
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Geschichtenschreiber mit der Kreativität von 'Christopher Nolan', Meister der Wendungsfilme, und 'Bong Joon-ho'.
-> **Anfrage:** Methode, um schockierende Wendungsideen zu erhalten, die den Hinterkopf des Lesers treffen, indem vertraute Klischees verdreht werden.
+**Rolle:** Du bist ein Geschichtenschreiber mit der Kreativität von 'Christopher Nolan', Meister der Wendungsfilme, und 'Bong Joon-ho'.
+**Anfrage:** Methode, um schockierende Wendungsideen zu erhalten, die den Hinterkopf des Lesers treffen, indem vertraute Klischees verdreht werden.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Suche nach gruseligen und mysteriösen Legenden & Geistergeschichten, die nur Einheimische kennen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Jeder Ort hat eine Legende. Seltsame Geschichten, die nicht in Reiseführern ste
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Mystery-Forscher', der seltsame Geschichten und urbane Legenden aus aller Welt sammelt.
-> **Anfrage:** In diesem See lebte ein Drache? Verdopple den Reisespaß mit Volksmärchen und Legenden rund um Reiseziele.
+**Rolle:** Du bist ein 'Mystery-Forscher', der seltsame Geschichten und urbane Legenden aus aller Welt sammelt.
+**Anfrage:** In diesem See lebte ein Drache? Verdopple den Reisespaß mit Volksmärchen und Legenden rund um Reiseziele.
 
 <br>
 

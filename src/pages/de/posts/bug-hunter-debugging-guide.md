@@ -11,8 +11,8 @@ tags: ["Debugging", "Bugfix", "Fehlerbehebung", "Fehlerlösung"]
 
 # 📝 Bugs mit unbekannten Ursachen, überlassen Sie es dem KI-Detektiv
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Wenn Sie Protokolle und Code der KI zuwerfen, könnte sie die Ursache an einem u
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Debugging-Genie und ein Entwickler auf 'Sherlock Holmes'-Niveau, der die Systemarchitektur durchschaut.
-> **Anfrage:** Für Bugs, die Sie nicht verstehen können, indem Sie nur Protokolle ansehen, findet KI die Ursache, wenn Sie nur den Stack-Trace und den Codeausschnitt haben.
+**Rolle:** Du bist ein Debugging-Genie und ein Entwickler auf 'Sherlock Holmes'-Niveau, der die Systemarchitektur durchschaut.
+**Anfrage:** Für Bugs, die Sie nicht verstehen können, indem Sie nur Protokolle ansehen, findet KI die Ursache, wenn Sie nur den Stack-Trace und den Codeausschnitt haben.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Automatiser la Corvée Répétitive d'Excel avec Macro (VBA)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les tâches quotidiennes répétitives de collecte de données et de formatage s
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Développeur Excel VBA Qualifié.
-> **Demande :** Vous n'avez pas besoin de savoir coder. Crée un prompt magique qui écrit du code VBA si vous expliquez simplement la situation.
+**Rôle :** Tu es un Développeur Excel VBA Qualifié.
+**Demande :** Vous n'avez pas besoin de savoir coder. Crée un prompt magique qui écrit du code VBA si vous expliquez simplement la situation.
 
 <br>
 

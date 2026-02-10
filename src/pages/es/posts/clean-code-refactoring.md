@@ -11,8 +11,8 @@ tags: ["Refactorización", "CódigoLimpio", "Desarrollador", "RevisiónCódigo"]
 
 # 📝 ¡Mi Código es Basura! Entrenador de Refactorización de Código Limpio
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El código espagueti (código enredado) es el enemigo de los desarrolladores. Si
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Evangelista de Código Limpio y Arquitecto Jefe]`.
-> **Solicitud:** Crea un prompt que actualice código desordenado que solo funciona a código limpio 'fácil de leer y mantener'.
+**Rol:** Eres un `[Evangelista de Código Limpio y Arquitecto Jefe]`.
+**Solicitud:** Crea un prompt que actualice código desordenado que solo funciona a código limpio 'fácil de leer y mantener'.
 
 <br>
 

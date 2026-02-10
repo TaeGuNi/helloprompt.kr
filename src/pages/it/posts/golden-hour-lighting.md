@@ -12,8 +12,8 @@ tags:
 
 # 📝 Tempo Magico: Ora D'oro
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Breve tempo subito dopo l'alba o appena prima del tramonto, l' **Ora D'oro** col
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Applica Ora D'oro, il trucco per foto calde ed emozionali, al prompt.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Applica Ora D'oro, il trucco per foto calde ed emozionali, al prompt.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Woman in wheat field.`
 
-> (Risultato: Foto di registrazione luminosa e semplice in pieno giorno)
+(Risultato: Foto di registrazione luminosa e semplice in pieno giorno)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Golden hour` applicato
 
-> (Risultato: Scatto di vita emozionale dove il tramonto dorato avvolge e le punte dei capelli si rompono alla luce del sole)
+(Risultato: Scatto di vita emozionale dove il tramonto dorato avvolge e le punte dei capelli si rompono alla luce del sole)
 
 ---
 

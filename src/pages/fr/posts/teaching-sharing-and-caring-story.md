@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 L'Histoire des 'Bonbons Magiques' qui Change un Enfant Gourmand
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Une histoire touchante émeut le cœur d'un enfant plus que cent réprimandes. C
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un écrivain qui écrit des contes de fées qui donnent des leçons comme les Fables d'Ésope.
-> **Demande :** Écris un prompt d'éducation du caractère appris à travers des histoires au lieu de réprimandes.
+**Rôle :** Tu es un écrivain qui écrit des contes de fées qui donnent des leçons comme les Fables d'Ésope.
+**Demande :** Écris un prompt d'éducation du caractère appris à travers des histoires au lieu de réprimandes.
 
 <br>
 

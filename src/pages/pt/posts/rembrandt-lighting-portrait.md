@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Retrato", "Iluminação"]
 
 # 📝 Toque de um Mestre: Iluminação Rembrandt
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Uma técnica de iluminação favorecida pelo pintor do século XVII Rembrandt, c
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de iluminação para criar retratos profundos e sérios como obras-primas.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de iluminação para criar retratos profundos e sérios como obras-primas.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Face of an old man.`
 
-> (Resultado: Foto frontal de rosto simples e plana)
+(Resultado: Foto frontal de rosto simples e plana)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Rembrandt lighting` aplicado
 
-> (Resultado: Retrato artístico onde um lado do rosto está submerso na escuridão, a luz cai na bochecha oposta e a profundidade de cada ruga é sentida)
+(Resultado: Retrato artístico onde um lado do rosto está submerso na escuridão, a luz cai na bochecha oposta e a profundidade de cada ruga é sentida)
 
 ---
 

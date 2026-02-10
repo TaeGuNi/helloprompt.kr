@@ -11,7 +11,7 @@ tags: ["Naming", "Branding", "Startup", "Marketing", "Idea"]
 
 # 📝 Startup/Brand Naming: Making Memorable Names
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

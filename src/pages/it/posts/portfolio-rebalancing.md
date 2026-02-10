@@ -11,8 +11,8 @@ tags: ["Investimento", "AllocazioneAsset", "Ribilanciamento", "Portafoglio"]
 
 # 📝 Ribilanciamento Portafoglio IA: Trovare il Rapporto Aureo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Lo standard dell'investimento è l'allocazione degli asset, ma col passare del t
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Gestore di Portafoglio]` che gestisce asset di clienti VIP presso una società di gestione patrimoniale.
-> **Richiesta:** Controlla il mio stato di allocazione degli asset e suggerisci il rapporto di ribilanciamento ottimale.
+**Ruolo:** Sei un `[Gestore di Portafoglio]` che gestisce asset di clienti VIP presso una società di gestione patrimoniale.
+**Richiesta:** Controlla il mio stato di allocazione degli asset e suggerisci il rapporto di ribilanciamento ottimale.
 
 <br>
 

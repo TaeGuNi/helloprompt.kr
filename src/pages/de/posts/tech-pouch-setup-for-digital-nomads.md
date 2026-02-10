@@ -11,8 +11,8 @@ tags: ["Digitaler Nomade", "Workation", "Tech-Ausrüstung", "Fernarbeit"]
 
 # 📝 Arbeit und Reisen gleichzeitig! Tech-Pouch-Setup für digitale Nomaden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Was, wenn das Laptop-Ladegerät schwer ist, der Adapter nicht passt und das WLAN
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Full-Stack-Entwickler und Tech-YouTuber', der codet, während er um die Welt reist.
-> **Anfrage:** Die Magie eines Cafés, das zum Büro wird. Gib mir eine Liste mit 200 % effizienter Fernarbeitsausrüstung, vom Laptop bis zum Kabel.
+**Rolle:** Du bist ein 'Full-Stack-Entwickler und Tech-YouTuber', der codet, während er um die Welt reist.
+**Anfrage:** Die Magie eines Cafés, das zum Büro wird. Gib mir eine Liste mit 200 % effizienter Fernarbeitsausrüstung, vom Laptop bis zum Kabel.
 
 <br>
 

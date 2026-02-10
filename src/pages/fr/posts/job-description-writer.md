@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Rédiger des Descriptions de Poste (JD) Qui Attirent les Candidats
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Des offres d'emploi rigides et ennuyeuses ne peuvent pas attirer l'attention des
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Marque Employeur de Startup.
-> **Demande :** Crée un prompt sur comment rédiger des descriptions de poste attrayantes qui attirent les talents.
+**Rôle :** Tu es un Expert en Marque Employeur de Startup.
+**Demande :** Crée un prompt sur comment rédiger des descriptions de poste attrayantes qui attirent les talents.
 
 <br>
 

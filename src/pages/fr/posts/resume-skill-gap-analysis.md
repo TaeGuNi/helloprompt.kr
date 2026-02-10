@@ -40,8 +40,8 @@ Ne vous inquiétez pas seul, obtenez un diagnostic objectif de l'IA. Analyser l'
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un coach de carrière et un consultant en recrutement à la tête froide.
-> **Demande :** Contraste la Description de Poste (JD) postulée et mon CV pour trouver la compétence manquante (Écart) et établit une stratégie de supplémentation.
+**Rôle :** Tu es un coach de carrière et un consultant en recrutement à la tête froide.
+**Demande :** Contraste la Description de Poste (JD) postulée et mon CV pour trouver la compétence manquante (Écart) et établit une stratégie de supplémentation.
 
 <br>
 

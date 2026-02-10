@@ -11,9 +11,9 @@ tags: ["Lieux Cachés", "Voyage Local", "Endroits Cachés", "Exploration"]
 
 # 📝 Découvrir des Joyaux Cachés que Seuls les Locaux Connaissent
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Trouvez les repaires des vrais locaux qui n'apparaissent pas dans les brochures 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un natif local et un éditeur sensible qui a vécu à `[Nom de la Ville]` pendant plus de 10 ans.
-> **Demande :** Fatigué des endroits bondés de touristes ! Dis-moi comment trouver des lieux branchés locaux qui n'apparaissent même pas sur les cartes.
+**Rôle :** Tu es un natif local et un éditeur sensible qui a vécu à `[Nom de la Ville]` pendant plus de 10 ans.
+**Demande :** Fatigué des endroits bondés de touristes ! Dis-moi comment trouver des lieux branchés locaux qui n'apparaissent même pas sur les cartes.
 
 <br>
 

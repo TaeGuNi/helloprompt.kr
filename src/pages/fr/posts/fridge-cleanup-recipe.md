@@ -11,9 +11,9 @@ tags: ["Cuisine", "Recette", "Astuces de Vie"]
 
 # 📝 Nettoyage du Frigo, Renaître avec une Recette de Chef
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Des ingrédients trop bons pour être jetés mais aucune idée ne vient à l'esp
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Chercheur Culinaire Créatif]`.
-> **Demande :** Crée un prompt de vie frugale qui suggère des recettes de cuisine plausibles lorsque je saisis des restes d'ingrédients proches de leur date de péremption.
+**Rôle :** Tu es un `[Chercheur Culinaire Créatif]`.
+**Demande :** Crée un prompt de vie frugale qui suggère des recettes de cuisine plausibles lorsque je saisis des restes d'ingrédients proches de leur date de péremption.
 
 <br>
 

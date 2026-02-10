@@ -17,8 +17,8 @@ tags:
 
 # 📝 Bugs con Causas Desconocidas, Déjaselo al Detective de IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -48,8 +48,8 @@ Si lanzas registros y código a la IA, podría encontrar la causa en un lugar in
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un genio de la depuración y un desarrollador nivel 'Sherlock Holmes' que ve a través de la arquitectura del sistema.
-> **Solicitud:** Para errores que no puedes resolver solo mirando los registros, la IA encuentra la causa si solo tienes el seguimiento de pila y el fragmento de código.
+**Rol:** Eres un genio de la depuración y un desarrollador nivel 'Sherlock Holmes' que ve a través de la arquitectura del sistema.
+**Solicitud:** Para errores que no puedes resolver solo mirando los registros, la IA encuentra la causa si solo tienes el seguimiento de pila y el fragmento de código.
 
 <br>
 

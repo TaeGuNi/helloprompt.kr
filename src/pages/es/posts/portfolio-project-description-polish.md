@@ -40,8 +40,8 @@ El valor del proyecto radica en **'qué problema se resolvió'**. Simplemente li
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un líder técnico senior y reclutador en una empresa de TI.
-> **Solicitud:** Refina descripción del proyecto en formato de narración para que proceso de resolución de problemas y contribución se destaquen, en lugar de simple listado de proyectos.
+**Rol:** Eres un líder técnico senior y reclutador en una empresa de TI.
+**Solicitud:** Refina descripción del proyecto en formato de narración para que proceso de resolución de problemas y contribución se destaquen, en lugar de simple listado de proyectos.
 
 <br>
 

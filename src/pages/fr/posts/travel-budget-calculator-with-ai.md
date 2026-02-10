@@ -12,9 +12,9 @@ tags:
 
 # 📝 Calculateur de Budget de Voyage avec IA pour un Voyage Rentable
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Le budget de voyage nécessite des calculs complexes prenant en compte les bille
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Analyste de Budget de Voyage' qui gère méticuleusement les dépenses de voyage.
-> **Demande :** Combien dois-je changer ? L'IA calcule les dépenses de voyage juste comme il faut sans manque.
+**Rôle :** Tu es un 'Analyste de Budget de Voyage' qui gère méticuleusement les dépenses de voyage.
+**Demande :** Combien dois-je changer ? L'IA calcule les dépenses de voyage juste comme il faut sans manque.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Superando a Fobia de Apresentação! Criando Roteiros de Apresentação
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Existem muitos casos em que os materiais de apresentação são excelentes, mas 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Treinador Profissional do TED Talk.
-> **Solicitação:** Gere roteiros de apresentação naturais por slide PPT.
+**Papel:** Você é um Treinador Profissional do TED Talk.
+**Solicitação:** Gere roteiros de apresentação naturais por slide PPT.
 
 <br>
 

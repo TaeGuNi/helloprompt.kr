@@ -11,8 +11,8 @@ tags: ["Blog", "SEO", "Exposición en Google"]
 
 # 📝 Esquema de Blog SEO para Clasificaciones de Búsqueda Superiores
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El núcleo del SEO (Optimización de Motores de Búsqueda) es encontrar la inter
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Marketing de Contenidos SEO]`.
-> **Solicitud:** Crea un prompt de generación de esquemas optimizados para SEO que estructure tu publicación de blog de una manera que a Google le encante.
+**Rol:** Eres un `[Experto en Marketing de Contenidos SEO]`.
+**Solicitud:** Crea un prompt de generación de esquemas optimizados para SEO que estructure tu publicación de blog de una manera que a Google le encante.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["YouTube", "Thumbnail", "Title Generator", "Clickbait", "Views"]
 
 # 📺 "Content is King? No, Click is King."
 
-> **🎯 Best For:** Small YouTubers, Creators out of ideas, Editors stuck on thumbnails
+**🎯 Best For:** Small YouTubers, Creators out of ideas, Editors stuck on thumbnails
 
 - **⏱️ Time Saved:** 1 hour (Planning) → 3 mins (10 Ideas)
 - **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
@@ -20,7 +20,7 @@ tags: ["YouTube", "Thumbnail", "Title Generator", "Clickbait", "Views"]
 | :--------: | :-----------: | :---------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐  |
 
-> _"Don't wait for the Algorithm. **Feed the Algorithm.**"_
+_"Don't wait for the Algorithm. **Feed the Algorithm.**"_
 
 You spent days filming and editing, but got 50 views?
 It's not your content. It's your **Packaging (Thumbnail/Title)**.

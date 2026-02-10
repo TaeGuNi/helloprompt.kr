@@ -18,8 +18,8 @@ tags:
 
 # 📝 Cartão de Embarque para o 'Trem da Terra dos Sonhos' para Adormecer Bebês Insônia
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ _"Demorou mais de uma hora para colocar seu filho para dormir hoje? Vamos tentar
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em hipnose infantil e guia de meditação.
-> **Pedido:** Conte-me uma história infundida com técnicas de meditação e relaxamento para crianças que não conseguem dormir.
+**Papel:** Você é um especialista em hipnose infantil e guia de meditação.
+**Pedido:** Conte-me uma história infundida com técnicas de meditação e relaxamento para crianças que não conseguem dormir.
 
 <br>
 

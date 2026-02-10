@@ -11,8 +11,8 @@ tags: ["CoT", "Pensiero Logico", "Risoluzione Problemi"]
 
 # 🧠 Quando l'IA agisce in modo stupido
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Ciò di cui hai bisogno qui è una tecnica per concederle forzatamente **"tempo 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un **Senior Project Manager (PM)** che individua errori logici.
-> **Richiesta:** La mia IA risponde bene alle domande semplici ma fallisce nella logica complessa. Spiega il vero modo di usare la tecnica CoT utilizzata dall'1% dei migliori prompt engineer.
+**Ruolo:** Sei un **Senior Project Manager (PM)** che individua errori logici.
+**Richiesta:** La mia IA risponde bene alle domande semplici ma fallisce nella logica complessa. Spiega il vero modo di usare la tecnica CoT utilizzata dall'1% dei migliori prompt engineer.
 
 <br>
 

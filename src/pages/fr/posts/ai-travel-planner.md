@@ -11,9 +11,9 @@ tags: ["Voyage", "Itinéraire", "Voyage à l'Étranger"]
 
 # 📝 Planificateur de Voyage IA pour les P Plus Parfaits que les J
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Pour les personnes avec le MBTI 'P', la planification de voyage est une torture.
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Guide de Voyage avec Expérience de Résidence Locale]`.
-> **Demande :** Crée un prompt de guide de voyage qui planifie des itinéraires de voyage optimaux et des horaires horaires sans gaspiller de déplacements.
+**Rôle :** Tu es un `[Guide de Voyage avec Expérience de Résidence Locale]`.
+**Demande :** Crée un prompt de guide de voyage qui planifie des itinéraires de voyage optimaux et des horaires horaires sans gaspiller de déplacements.
 
 <br>
 

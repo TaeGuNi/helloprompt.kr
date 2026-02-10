@@ -12,8 +12,8 @@ tags:
 
 # 📝 Carta d'Imbarco per il 'Treno del Mondo dei Sogni' per Far Addormentare i Bambini Insonni
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ A volte, piuttosto che un'avventura emozionante, è necessaria una storia 'che i
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di ipnosi infantile e guida alla meditazione.
-> **Richiesta:** Raccontami una storia infusa di tecniche di meditazione e rilassamento per i bambini che non riescono a dormire.
+**Ruolo:** Sei un esperto di ipnosi infantile e guida alla meditazione.
+**Richiesta:** Raccontami una storia infusa di tecniche di meditazione e rilassamento per i bambini che non riescono a dormire.
 
 <br>
 

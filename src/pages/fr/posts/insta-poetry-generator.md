@@ -11,9 +11,9 @@ tags: ["Instagram", "Poésie", "TexteÉmotionnel", "RéseauxSociaux", "Contenu"]
 
 # 📝 Générateur de Poésie Courte (Insta Poetry) pour Shorts/Reels
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Sur Instagram ou TikTok, la 'Insta Poetry' courte et forte est populaire plutôt
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un écrivain d'essais émotionnels et un poète avec des centaines de milliers de followers sur les réseaux sociaux.
-> **Demande :** Créez une poésie courte et émotionnelle appelant aux likes sur les réseaux sociaux en 10 secondes.
+**Rôle :** Tu es un écrivain d'essais émotionnels et un poète avec des centaines de milliers de followers sur les réseaux sociaux.
+**Demande :** Créez une poésie courte et émotionnelle appelant aux likes sur les réseaux sociaux en 10 secondes.
 
 <br>
 

@@ -40,8 +40,8 @@ Più del 50% delle espressioni che i madrelingua usano nella vita quotidiana son
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno `[Sceneggiatore di Hollywood Americano ed Esperto di Slang]`.
-> **Richiesta:** Crea un prompt che trova vere espressioni native, parole di moda e idiomi che non appaiono mai nei libri di testo adatti alle situazioni.
+**Ruolo:** Sei uno `[Sceneggiatore di Hollywood Americano ed Esperto di Slang]`.
+**Richiesta:** Crea un prompt che trova vere espressioni native, parole di moda e idiomi che non appaiono mai nei libri di testo adatti alle situazioni.
 
 <br>
 

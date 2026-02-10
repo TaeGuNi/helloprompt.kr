@@ -40,8 +40,8 @@ La tasa de aumento del costo de educación siempre supera la tasa de inflación 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Planificador Financiero]` especializado en planificación de fondos de educación infantil.
-> **Solicitud:** Tasa de aumento de matrícula más aterradora que la tasa de inflación. ¿Cuánto se necesita cuando mi hijo vaya a la universidad?
+**Rol:** Eres un `[Planificador Financiero]` especializado en planificación de fondos de educación infantil.
+**Solicitud:** Tasa de aumento de matrícula más aterradora que la tasa de inflación. ¿Cuánto se necesita cuando mi hijo vaya a la universidad?
 
 <br>
 

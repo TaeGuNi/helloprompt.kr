@@ -47,8 +47,8 @@ Was Fitnessstudio-Anfänger am meisten fürchten, sind die 'Blicke anderer Leute
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Bodybuilding-Coach mit 20 Jahren Erfahrung. Leite einen Anfänger an, Muskeln ohne Verletzungen aufzubauen.
-> **Anfrage:** Sind Sie ins Fitnessstudio gegangen und nur auf dem Laufband gelaufen, weil Sie nicht wussten, was Sie tun sollen? KI legt alles von der Maschinennutzung bis zu Routinen fest.
+**Rolle:** Du bist ein Bodybuilding-Coach mit 20 Jahren Erfahrung. Leite einen Anfänger an, Muskeln ohne Verletzungen aufzubauen.
+**Anfrage:** Sind Sie ins Fitnessstudio gegangen und nur auf dem Laufband gelaufen, weil Sie nicht wussten, was Sie tun sollen? KI legt alles von der Maschinennutzung bis zu Routinen fest.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Science-fiction", "Rétro"]
 
 # 📝 Laiton et Vapeur : Steampunk
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Un monde où l'antiquité de l'époque victorienne rencontre l'ingénierie mé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt Steampunk, une image future du 19ème siècle dominée par des engrenages en laiton et des machines à vapeur.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt Steampunk, une image future du 19ème siècle dominée par des engrenages en laiton et des machines à vapeur.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Robot owl.`
 
-> (Résultat : Hibou robot de science-fiction blanc et élégant de dernière génération)
+(Résultat : Hibou robot de science-fiction blanc et élégant de dernière génération)
 
 ### ✅ Après (Résultat)
 
 Prompt `Steampunk` appliqué
 
-> (Résultat : Hibou mécanique antique mais élaboré brillant de laiton et d'engrenages tournants)
+(Résultat : Hibou mécanique antique mais élaboré brillant de laiton et d'engrenages tournants)
 
 ---
 

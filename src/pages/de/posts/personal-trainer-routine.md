@@ -11,8 +11,8 @@ tags: ["Übung", "Diät", "Fitness", "Heimtraining"]
 
 # 📝 Heimlich vor dem PT-Lehrer verwenden, KI Personal Trainer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Beim Training ist 'wie' Sie kombinieren wichtiger als 'was' Sie tun. Wenn Sie di
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Gesundheitstrainer und Ernährungsberater]`.
-> **Anfrage:** Erstelle einen Gesundheitsführer-Prompt, der wöchentliche Trainingsroutinen und Diäten plant, die perfekt auf meine Körperbedingungen und Ziele abgestimmt sind.
+**Rolle:** Du bist ein `[Professioneller Gesundheitstrainer und Ernährungsberater]`.
+**Anfrage:** Erstelle einen Gesundheitsführer-Prompt, der wöchentliche Trainingsroutinen und Diäten plant, die perfekt auf meine Körperbedingungen und Ziele abgestimmt sind.
 
 <br>
 

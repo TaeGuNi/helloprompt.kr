@@ -17,9 +17,9 @@ tags:
 
 # 📝 Suis-je un Pigeon ? Agent de Recherche & Analyse de 'Taux du Marché'
 
-> **🎯 Recommandé pour :** Employés de Bureau
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Modèles Activés pour la Recherche Web (ChatGPT Plus, Perplexity)
+**🎯 Recommandé pour :** Employés de Bureau
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Modèles Activés pour la Recherche Web (ChatGPT Plus, Perplexity)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
@@ -45,8 +45,8 @@ L'arme la plus puissante dans la négociation salariale est les **'Données Obje
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un analyste de rémunération salariale.
-> **Demande :** Compare et analyse la fourchette de salaire moyen de mon emploi/années basée sur les sites de recrutement et les données salariales pour obtenir des arguments de négociation objectifs.
+**Rôle :** Tu es un analyste de rémunération salariale.
+**Demande :** Compare et analyse la fourchette de salaire moyen de mon emploi/années basée sur les sites de recrutement et les données salariales pour obtenir des arguments de négociation objectifs.
 
 <br>
 

@@ -40,8 +40,8 @@ Meeting-Transkripte oder Stenografie-Aufzeichnungen haben viele Umgangssprachen 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller Stenograf und Projektmanager.
-> **Anfrage:** Aufnahmedatei in Text umgewandelt, aber es ist zu lang? Erstelle einen Zusammenfassungs-Prompt, der nur den Kern herauspickt.
+**Rolle:** Du bist ein professioneller Stenograf und Projektmanager.
+**Anfrage:** Aufnahmedatei in Text umgewandelt, aber es ist zu lang? Erstelle einen Zusammenfassungs-Prompt, der nur den Kern herauspickt.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["ÉtudeHistoire", "Gamification", "Simulation", "HistoireAlternative"]
 
 # 📝 Sauter dans l'Histoire : Simulateur d'Événements Historiques
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'histoire n'est pas un enregistrement mort, mais le résultat de 'choix' féroc
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Maître de Jeu de Simulation Historique]`.
-> **Demande :** Et si j'étais l'amiral Yi Sun-sin ? Vivez l'histoire en choisissant des options comme dans un jeu d'aventure textuel.
+**Rôle :** Tu es un `[Maître de Jeu de Simulation Historique]`.
+**Demande :** Et si j'étais l'amiral Yi Sun-sin ? Vivez l'histoire en choisissant des options comme dans un jeu d'aventure textuel.
 
 <br>
 

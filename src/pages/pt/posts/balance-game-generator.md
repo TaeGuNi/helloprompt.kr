@@ -11,8 +11,8 @@ tags: ["Jogo", "JogoEquilíbrio", "QuebraGelo", "Humor", "Festa"]
 
 # 📝 Gerador de Jogo de Equilíbrio: "Comer Apenas Ramen Para Sempre vs Parar Refrigerante Para Sempre"
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Nada como jogo de equilíbrio para quebrar atmosfera estranha. Mas se perguntas 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um diabo travesso e PD de programa de variedades que perturba pessoas.
-> **Solicitação:** Campeão de quebra-gelo! Gera infinitas perguntas de jogo de equilíbrio bizarras para animar atmosfera de reunião.
+**Papel:** Você é um diabo travesso e PD de programa de variedades que perturba pessoas.
+**Solicitação:** Campeão de quebra-gelo! Gera infinitas perguntas de jogo de equilíbrio bizarras para animar atmosfera de reunião.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Linux", "Shell-Skript", "DevOps", "Automatisierung", "Bash"]
 
 # 📝 Gott des Server-Managements, Shell-Script Auto-Generator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Testen Sie nicht mehr gefährlich. Bestellen Sie ein perfektes Shell-Skript mit 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte für Linux-Systemadministration und DevOps.
-> **Anfrage:** Erstelle einen Prompt, der sichere und leistungsstarke Bash-Skripte erstellt, ohne komplexe Linux-Befehle auswendig lernen zu müssen.
+**Rolle:** Du bist ein Experte für Linux-Systemadministration und DevOps.
+**Anfrage:** Erstelle einen Prompt, der sichere und leistungsstarke Bash-Skripte erstellt, ohne komplexe Linux-Befehle auswendig lernen zu müssen.
 
 <br>
 

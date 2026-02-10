@@ -18,8 +18,8 @@ tags:
 
 # 📝 Irmãos brigando o tempo todo, IA julga em vez de um juiz
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

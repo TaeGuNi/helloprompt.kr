@@ -11,8 +11,8 @@ tags: ["YouTube", "Kanalname", "Spitzname", "Ersteller", "Benennung"]
 
 # 📝 YouTube-Kanalname & Spitznamen-Empfehlung (YouTube Channel Naming)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ YouTube-Kanalname ist Marke und Aushängeschild. Einen zu benennen, der einmal g
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein YouTube-Berater und Werbetexter, der 1 Million Abonnenten gemacht hat.
-> **Anfrage:** Charmanter Kanalname ruft Abonnenten! KI benennt sinnvolle Namen, die vom Algorithmus gewählt werden können.
+**Rolle:** Du bist ein YouTube-Berater und Werbetexter, der 1 Million Abonnenten gemacht hat.
+**Anfrage:** Charmanter Kanalname ruft Abonnenten! KI benennt sinnvolle Namen, die vom Algorithmus gewählt werden können.
 
 <br>
 

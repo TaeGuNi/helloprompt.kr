@@ -11,7 +11,7 @@ tags: ["Travel", "Budget", "TravelPlan", "Expenses"]
 
 # 📝 Travel Expense Estimate: Perfect Plan Without Budget Overrun
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

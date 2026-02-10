@@ -18,7 +18,7 @@ tags:
 
 # 📝 What is the Time Complexity (Big O) of My Code?
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

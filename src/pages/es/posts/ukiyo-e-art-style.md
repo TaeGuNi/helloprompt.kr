@@ -12,8 +12,8 @@ tags:
 
 # 📝 Estética de las Olas: Estilo Ukiyo-e
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"Quiero dibujar cuadros con una sensación como 'La Gran Ola' de Katsushika Hok
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt dibujando olas y paisajes en estilo Ukiyo-e, la estética más japonesa.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt dibujando olas y paisajes en estilo Ukiyo-e, la estética más japonesa.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Cat and Mount Fuji.`
 
-> (Resultado: Foto de un gato real sentado frente al Monte Fuji)
+(Resultado: Foto de un gato real sentado frente al Monte Fuji)
 
 ### ✅ Después (Resultado)
 
 Prompt `Ukiyo-e` aplicado
 
-> (Resultado: Obra maestra armonizando patrones de olas dibujados como por pincel, gato con textura de grabado en madera y colores de papel viejo)
+(Resultado: Obra maestra armonizando patrones de olas dibujados como por pincel, gato con textura de grabado en madera y colores de papel viejo)
 
 ---
 

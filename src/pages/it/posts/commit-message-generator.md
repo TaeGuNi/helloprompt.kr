@@ -11,8 +11,8 @@ tags: ["Git", "Messaggio di Commit", "Collaborazione", "Produttività"]
 
 # 📝 "Raccomanda Messaggio di Commit" Niente Più Preoccupazioni! Generazione Auto Conventional Commits
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Lancia semplicemente il contenuto `git diff`, e lo tirerà fuori nello stile **C
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Maintainer Open Source ossessionato dalla gestione della cronologia Git.
-> **Richiesta:** Scrivi un messaggio di commit pulito su misura per gli standard globali (Conventional Commits) se incollo semplicemente le modifiche (`git diff`).
+**Ruolo:** Sei un Maintainer Open Source ossessionato dalla gestione della cronologia Git.
+**Richiesta:** Scrivi un messaggio di commit pulito su misura per gli standard globali (Conventional Commits) se incollo semplicemente le modifiche (`git diff`).
 
 <br>
 

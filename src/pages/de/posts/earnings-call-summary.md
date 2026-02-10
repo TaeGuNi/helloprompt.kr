@@ -11,8 +11,8 @@ tags: ["Aktie", "Ergebniskonferenz", "Ergebnisveröffentlichung", "US-Aktie"]
 
 # 📝 Ergebniskonferenz 3-Minuten-Zusammenfasser
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die US-Unternehmens-Ergebniskonferenz ist das wichtigste Ereignis, das die zukü
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Anlagestratege]` bei einem Wall-Street-Hedgefonds.
-> **Anfrage:** Ergebniskonferenz, schwer zu hören, weil es Englisch ist und zu lang, fasse nur den Kern zusammen.
+**Rolle:** Du bist ein `[Professioneller Anlagestratege]` bei einem Wall-Street-Hedgefonds.
+**Anfrage:** Ergebniskonferenz, schwer zu hören, weil es Englisch ist und zu lang, fasse nur den Kern zusammen.
 
 <br>
 

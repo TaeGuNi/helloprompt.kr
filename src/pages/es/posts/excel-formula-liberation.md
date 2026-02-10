@@ -11,8 +11,8 @@ tags: ["Excel", "AnálisisDatos", "ChatGPT", "VLOOKUP", "Productividad"]
 
 # 📊 Declaración de Independencia de Excel: No Más VLOOKUP
 
-> **🎯 Recomendado para:** Estudiantes de letras mareados por las fórmulas, Marketers que pasan horas con datos
-> **⏱️ Tiempo Requerido:** 10 segundos
+**🎯 Recomendado para:** Estudiantes de letras mareados por las fórmulas, Marketers que pasan horas con datos
+**⏱️ Tiempo Requerido:** 10 segundos
 
 - **🤖 Modelo Recomendado:** ChatGPT-4o (Advanced Data Analysis) o Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["Excel", "AnálisisDatos", "ChatGPT", "VLOOKUP", "Productividad"]
 | :--------: | :---------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Oye Juan, compara la Columna B y F en esta hoja, extrae los duplicados y resáltalos en rojo con formato condicional."_
+_"Oye Juan, compara la Columna B y F en esta hoja, extrae los duplicados y resáltalos en rojo con formato condicional."_
 
 Misión repentina de Excel del jefe. ¿Estás googleando `Excel buscar duplicados`? `VLOOKUP`, `INDEX-MATCH`... ¿cuándo vas a memorizarlos todos? Ahora, Excel no se hace con **'Fórmulas'**, sino con **'Palabras'**.
 
@@ -40,9 +40,9 @@ Misión repentina de Excel del jefe. ¿Estás googleando `Excel buscar duplicado
 
 Cuando simplemente no recuerdas el nombre de la función.
 
-> **Rol:** Eres un Maestro de Excel.
-> **Contexto:** La Col A tiene 'Nombre Producto', Col B tiene 'Precio', Col C tiene 'Cantidad'.
-> **Petición:** Escribe una fórmula para la Col D que calcule 'Ventas Totales (Precio\*Cant)', y marque "VIP" si es mayor a $1000, sino "General".
+**Rol:** Eres un Maestro de Excel.
+**Contexto:** La Col A tiene 'Nombre Producto', Col B tiene 'Precio', Col C tiene 'Cantidad'.
+**Petición:** Escribe una fórmula para la Col D que calcule 'Ventas Totales (Precio\*Cant)', y marque "VIP" si es mayor a $1000, sino "General".
 
 <br>
 
@@ -86,11 +86,11 @@ Cuando necesitas procesamiento complejo o Macros VBA.
 
 ### ✅ Después (Respuesta IA)
 
-> "Cliente, en lugar del complejo VLOOKUP, use el moderno `XLOOKUP`. Es más rápido y sin errores."
->
-> `=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Ninguno")`
->
-> (Copiar -> Pegar -> Salida puntual)
+"Cliente, en lugar del complejo VLOOKUP, use el moderno `XLOOKUP`. Es más rápido y sin errores."
+
+`=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Ninguno")`
+
+(Copiar -> Pegar -> Salida puntual)
 
 ---
 

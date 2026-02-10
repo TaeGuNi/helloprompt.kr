@@ -11,7 +11,7 @@ tags: ["Excel", "SensitivityAnalysis", "Scenario", "DataTable"]
 
 # 📝 Excel Sensitivity Analysis: Perfect Prep for "What If" Scenarios
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -17,9 +17,9 @@ tags:
 
 # 📝 Je Veux l'Augmenter ! Jeu de Rôle de Simulation de 'Négociation Salariale'
 
-> **🎯 Recommandé pour :** Employés de Bureau
-> **⏱️ Temps requis :** 10 minutes
-> **🤖 Modèle recommandé :** GPT-4o, Claude 3.5 Sonnet
+**🎯 Recommandé pour :** Employés de Bureau
+**⏱️ Temps requis :** 10 minutes
+**🤖 Modèle recommandé :** GPT-4o, Claude 3.5 Sonnet
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
@@ -45,8 +45,8 @@ La négociation salariale est un **'Jeu Capitaliste Froid'**. Si vous dites just
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un responsable RH méticuleux.
-> **Demande :** Simule une situation de négociation salariale tendue avec une personnalité de responsable RH pour trouver la logique et l'expression maximisant le taux d'augmentation.
+**Rôle :** Tu es un responsable RH méticuleux.
+**Demande :** Simule une situation de négociation salariale tendue avec une personnalité de responsable RH pour trouver la logique et l'expression maximisant le taux d'augmentation.
 
 <br>
 

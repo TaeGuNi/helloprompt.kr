@@ -2,10 +2,27 @@ import type { APIRoute } from "astro";
 
 export const GET: APIRoute = async (context) => {
   const allPosts = import.meta.glob("./posts/*.md");
-  let posts: any[] = [];
+
+  interface AtomPost {
+    title: string;
+    description: string;
+    pubDate: Date;
+    link: string;
+    author: string;
+  }
+
+  const posts: AtomPost[] = [];
 
   for (const path in allPosts) {
-    const post: any = await allPosts[path]();
+    const post = (await allPosts[path]()) as {
+      frontmatter: {
+        title: string;
+        description: string;
+        date: string;
+        author: string;
+      };
+      url: string;
+    };
     posts.push({
       title: post.frontmatter.title,
       description: post.frontmatter.description,

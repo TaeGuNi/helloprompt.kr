@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¿No Puedes Entrar Usando Pantalones Cortos? Código de Vestimenta para Visitar Sitios Religiosos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Desde la Basílica de San Pedro en el Vaticano hasta Wat Arun en Bangkok. Los si
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Guía de Visitas a Tierra Santa' que respeta las culturas y costumbres religiosas de todo el mundo.
-> **Solicitud:** Templos, catedrales, mezquitas... ¿Cómo no ser rechazado en la puerta? Dime el código de vestimenta para lugares sagrados.
+**Rol:** Eres un 'Guía de Visitas a Tierra Santa' que respeta las culturas y costumbres religiosas de todo el mundo.
+**Solicitud:** Templos, catedrales, mezquitas... ¿Cómo no ser rechazado en la puerta? Dime el código de vestimenta para lugares sagrados.
 
 <br>
 

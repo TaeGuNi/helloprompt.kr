@@ -11,8 +11,8 @@ tags: ["Excel", "JurosEmpréstimo", "FunçãoFinanceira", "PMT"]
 
 # 📝 Cronograma de Reembolso de Empréstimo: Principal e Juros Iguais vs Principal Igual
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,7 +40,7 @@ Existem basicamente dois métodos de reembolso de empréstimo. **'Principal e Ju
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Excel Financeiro]`.
+**Papel:** Você é um `[Especialista em Excel Financeiro]`.
 
 - **Solicitação:** Modelo de calculadora de juros de empréstimo feito diretamente no Excel sem precisar entrar em sites bancários.
 

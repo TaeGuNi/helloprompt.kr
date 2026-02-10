@@ -46,8 +46,8 @@ Vita del curriculum è **'Professionalità'**. Stile colloquiale, avverbi eccess
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un editore senior presso casa editrice ed esperto correzione documenti business.
-> **Richiesta:** Prompt correzione che affina tono curriculum adattando a modo business, cattura perfettamente errori battitura e frasi sgrammaticate per aumentare affidabilità.
+**Ruolo:** Sei un editore senior presso casa editrice ed esperto correzione documenti business.
+**Richiesta:** Prompt correzione che affina tono curriculum adattando a modo business, cattura perfettamente errori battitura e frasi sgrammaticate per aumentare affidabilità.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Encontrando Leyendas e Historias de Fantasmas Espeluznantes y Misteriosas Conocidas Solo por los Lugareños
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ Cada lugar tiene una leyenda. Las historias extrañas que no se encuentran en la
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Investigador de Misterios' que recopila historias extrañas y leyendas urbanas de todo el mundo.
-> **Solicitud:** ¿Un dragón vivía en este lago? Doble diversión en el viaje con cuentos populares y leyendas relacionadas con los destinos de viaje.
+**Rol:** Eres un 'Investigador de Misterios' que recopila historias extrañas y leyendas urbanas de todo el mundo.
+**Solicitud:** ¿Un dragón vivía en este lago? Doble diversión en el viaje con cuentos populares y leyendas relacionadas con los destinos de viaje.
 
 <br>
 

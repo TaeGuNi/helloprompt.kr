@@ -11,8 +11,8 @@ tags: ["YouTube", "Script", "Produção de Vídeo"]
 
 # 📝 Segredo de Estruturação de Script do YouTube para Visualizações Altas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Para ser escolhido pelo algoritmo do YouTube, o 'tempo de retenção' é o mais 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[PD Exclusivo de YouTuber de 1 Milhão]`.
-> **Solicitação:** Crie um prompt que estruture um script de vídeo do YouTube para evitar a rotatividade nos primeiros 5 segundos e fazer as pessoas assistirem até o fim.
+**Papel:** Você é um `[PD Exclusivo de YouTuber de 1 Milhão]`.
+**Solicitação:** Crie um prompt que estruture um script de vídeo do YouTube para evitar a rotatividade nos primeiros 5 segundos e fazer as pessoas assistirem até o fim.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Benennung", "Charakter", "Roman", "Namenskreation", "Einstellung"]
 
 # 📝 Roman-Charakternamengenerator (Passende Bedeutung und Nuance)
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Häufige Namen wie 'Kim Cheol-su', 'John Doe' reduzieren den Charme des Charakte
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Romanautor mit großem Benennungssinn und Anthropologe.
-> **Anfrage:** Benennen Sie Charaktere perfekt mit Bedeutung und Nuance, die Persönlichkeit, Nationalität und Epoche des Charakters widerspiegeln.
+**Rolle:** Du bist ein Romanautor mit großem Benennungssinn und Anthropologe.
+**Anfrage:** Benennen Sie Charaktere perfekt mit Bedeutung und Nuance, die Persönlichkeit, Nationalität und Epoche des Charakters widerspiegeln.
 
 <br>
 

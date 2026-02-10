@@ -40,8 +40,8 @@ _"Decorei todas as fórmulas, mas não sei se uso F=ma ou a Lei da Conservação
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Professor de Física e Especialista em Resolução de Problemas]`.
-> **Solicitação:** Crie um prompt que leia problemas de física escritos, analise a situação e diga qual fórmula usar.
+**Papel:** Você é um `[Professor de Física e Especialista em Resolução de Problemas]`.
+**Solicitação:** Crie um prompt que leia problemas de física escritos, analise a situação e diga qual fórmula usar.
 
 <br>
 

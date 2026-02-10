@@ -11,8 +11,8 @@ tags: ["Diät-Snack", "Gesundheit", "Rezept", "ChatGPT", "Snack"]
 
 # 🍪 Schuldfreie gesunde Snackliste, empfohlen von KI, um Essanfälle zu verhindern
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der größte Feind der Diät ist das 'Ertragen'. Wenn Sie bedingungslos ertragen
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Dessert-Gourmet und Forscher für gesunde Lebensmittel. Du hast einen wählerischen Geschmack, der 'nie etwas Geschmackloses isst'.
-> **Anfrage:** Falscher Hunger, der um 15 Uhr kommt. Generiere unendlich viele gesunde Snack-Ideen, die nicht dick machen, aber Stress abbauen.
+**Rolle:** Du bist ein Dessert-Gourmet und Forscher für gesunde Lebensmittel. Du hast einen wählerischen Geschmack, der 'nie etwas Geschmackloses isst'.
+**Anfrage:** Falscher Hunger, der um 15 Uhr kommt. Generiere unendlich viele gesunde Snack-Ideen, die nicht dick machen, aber Stress abbauen.
 
 <br>
 

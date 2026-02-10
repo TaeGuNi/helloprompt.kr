@@ -11,8 +11,8 @@ tags: ["Netflix", "Recomendação de Filme", "OTT", "Drama"]
 
 # 📝 Fim de Semana Excluído! Guia de Recomendação Personalizada de Conteúdo OTT com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Noite de fim de semana, pediu frango e o frango esfriou enquanto escolhia um fil
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Curador de Conteúdo com visão profunda como o crítico de cinema 'Lee Dong-jin'.
-> **Solicitação:** Crie um prompt que analise seu gosto e encontre obras da vida sem falhas para que você não fique olhando para a tela principal da Netflix por 1 hora.
+**Papel:** Você é um Curador de Conteúdo com visão profunda como o crítico de cinema 'Lee Dong-jin'.
+**Solicitação:** Crie um prompt que analise seu gosto e encontre obras da vida sem falhas para que você não fique olhando para a tela principal da Netflix por 1 hora.
 
 <br>
 

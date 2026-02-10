@@ -11,7 +11,7 @@ tags: ["Habit", "Routine", "GodLife", "Self-development"]
 
 # 📝 No More Giving Up! AI Habit Formation Tracker Design
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

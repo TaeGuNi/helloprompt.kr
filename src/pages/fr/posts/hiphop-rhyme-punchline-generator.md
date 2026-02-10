@@ -11,9 +11,9 @@ tags: ["HipHop", "Rap", "ÉcritureParoles", "Rime", "Punchline"]
 
 # 📝 Note de Rimes Hip-Hop : Génération Automatique de Punchline
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La vie du hip-hop est la Rime, le Flow, et la Punchline qui fait que les auditeu
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un rappeur de génie et un parolier avec des compétences de haut niveau.
-> **Demande :** Attention aux rappeurs en herbe ! Lancez simplement le sujet souhaité et la rime, et l'IA crée des punchlines.
+**Rôle :** Tu es un rappeur de génie et un parolier avec des compétences de haut niveau.
+**Demande :** Attention aux rappeurs en herbe ! Lancez simplement le sujet souhaité et la rime, et l'IA crée des punchlines.
 
 <br>
 

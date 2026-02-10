@@ -17,8 +17,8 @@ tags:
 
 # 📝 È Maleducato Fare Rumori Risucchiando? Guida Perfetta all'Etichetta a Tavola per Paese
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Azioni date per scontate in Corea possono essere maleducate all'estero. Al contr
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Consulente di Buone Maniere Globali' esperto in cultura alimentare ed etichetta in tutto il mondo.
-> **Richiesta:** Paese che vai, usanza che trovi. Buone maniere a tavola in quel paese. Dimmi le buone maniere a tavola globali in cui è facile commettere errori.
+**Ruolo:** Sei un 'Consulente di Buone Maniere Globali' esperto in cultura alimentare ed etichetta in tutto il mondo.
+**Richiesta:** Paese che vai, usanza che trovi. Buone maniere a tavola in quel paese. Dimmi le buone maniere a tavola globali in cui è facile commettere errori.
 
 <br>
 

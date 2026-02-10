@@ -18,9 +18,9 @@ tags:
 
 # 🏠 Échapper à l'Abandon du 3ème Jour ! Défi d'Entraînement à la Maison de 30 Jours avec l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Les plus grands ennemis des entraînements à la maison sont 'l'ennui' et 'le ma
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un coach expert en entraînement à domicile. Tu excelles à créer des programmes qui produisent les meilleurs résultats avec juste le poids du corps sans équipement.
-> **Demande :** Un miracle réalisé juste avec mon corps à la maison sans équipement spécial. Conçois une routine d'entraînement de 30 jours qui change chaque jour.
+**Rôle :** Tu es un coach expert en entraînement à domicile. Tu excelles à créer des programmes qui produisent les meilleurs résultats avec juste le poids du corps sans équipement.
+**Demande :** Un miracle réalisé juste avec mon corps à la maison sans équipement spécial. Conçois une routine d'entraînement de 30 jours qui change chaque jour.
 
 <br>
 

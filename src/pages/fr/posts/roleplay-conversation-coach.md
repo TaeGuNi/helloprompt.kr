@@ -11,9 +11,9 @@ tags: ["ConversationAnglaise", "JeuDeRôle", "Prompt", "DéveloppementPersonnel"
 
 # 📝 Partenaire de Conversation Natif de Coin (Gratuit)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur de la conversation en langue étrangère est la 'confiance' et la 'capa
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es `[Rôle du partenaire adapté à la situation, ex : Personnel de café aimable/Officier d'immigration grincheux]`, et je suis `[Mon rôle, ex : Touriste maladroit à la commande/Voyageur nerveux]`.
-> **Demande :** Créez une méthode pour développer des compétences de conversation en jouant un rôle illimité avec l'IA au lieu d'un anglais téléphonique coûteux.
+**Rôle :** Tu es `[Rôle du partenaire adapté à la situation, ex : Personnel de café aimable/Officier d'immigration grincheux]`, et je suis `[Mon rôle, ex : Touriste maladroit à la commande/Voyageur nerveux]`.
+**Demande :** Créez une méthode pour développer des compétences de conversation en jouant un rôle illimité avec l'IA au lieu d'un anglais téléphonique coûteux.
 
 <br>
 

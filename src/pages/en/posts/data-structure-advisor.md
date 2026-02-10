@@ -11,7 +11,7 @@ tags: ["Data Structure", "Algorithm", "Performance Optimization", "CS Basics"]
 
 # 📝 List? Map? Set? Data Structure Prescription for Decisiveness
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

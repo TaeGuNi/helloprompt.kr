@@ -11,9 +11,9 @@ tags: ["Paroles", "ÉcritureParoles", "Ballade", "Musique"]
 
 # 📝 Début de Parolier ? Écrire des Paroles de Ballade Émotionnelle avec 3 Mots-clés
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"J'ai la mélodie mais les paroles ne viennent pas..."_
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un parolier de première classe qui dénoue des émotions délicates en paroles comme Kim Eana, IU.
-> **Demande :** Avec seulement 3 mots qui viennent à l'esprit, l'IA crée un brouillon de paroles émotionnelles de niveau parolier.
+**Rôle :** Tu es un parolier de première classe qui dénoue des émotions délicates en paroles comme Kim Eana, IU.
+**Demande :** Avec seulement 3 mots qui viennent à l'esprit, l'IA crée un brouillon de paroles émotionnelles de niveau parolier.
 
 <br>
 

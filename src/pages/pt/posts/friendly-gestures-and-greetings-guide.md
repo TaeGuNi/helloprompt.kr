@@ -11,8 +11,8 @@ tags: ["Saudações", "Linguagem Corporal", "Gestos", "Comunicação Cultural"]
 
 # 📝 Saudações e Gestos Mágicos para Se Tornar Amigo dos Locais em 3 Segundos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O sinal de positivo, que significa 'o melhor' para nós, pode ser um insulto gra
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Especialista em Comunicação Cultural' fluente em idiomas e métodos de comunicação não-verbal em todo o mundo.
-> **Pedido:** Quase entrou em uma briga por causa de um gesto de mão errado? Diga-me gestos que causam mal-entendidos e saudações que são bem-vindas.
+**Papel:** Você é um 'Especialista em Comunicação Cultural' fluente em idiomas e métodos de comunicação não-verbal em todo o mundo.
+**Pedido:** Quase entrou em uma briga por causa de um gesto de mão errado? Diga-me gestos que causam mal-entendidos e saudações que são bem-vindas.
 
 <br>
 

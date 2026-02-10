@@ -39,8 +39,8 @@ La base de l'investissement est l'analyse d'entreprise, mais il n'est pas facile
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Analyste Senior]` avec 20 ans d'expérience à Wall Street.
-> **Demande :** Résumez uniquement les points clés des états financiers complexes en 1 minute, un indispensable pour l'investissement boursier.
+**Rôle :** Tu es un `[Analyste Senior]` avec 20 ans d'expérience à Wall Street.
+**Demande :** Résumez uniquement les points clés des états financiers complexes en 1 minute, un indispensable pour l'investissement boursier.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Acciones", "AnálisisIndustria", "Tendencia", "InvestigaciónMercado"]
 
 # 📝 Análisis de Tendencias de la Industria: Encontrando Mercados en Ascenso
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Más importante que las acciones individuales es el potencial de crecimiento de 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Análisis de Industria]` de una firma de consultoría global (McKinsey, BCG).
-> **Solicitud:** Analiza tendencias de la industria de rápido crecimiento y descubre acciones beneficiarias relacionadas usando IA.
+**Rol:** Eres un `[Experto en Análisis de Industria]` de una firma de consultoría global (McKinsey, BCG).
+**Solicitud:** Analiza tendencias de la industria de rápido crecimiento y descubre acciones beneficiarias relacionadas usando IA.
 
 <br>
 

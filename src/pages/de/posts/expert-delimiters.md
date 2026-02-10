@@ -11,8 +11,8 @@ tags: ["Trennzeichen", "Lesbarkeit", "XML-Tags"]
 
 # 🚧 KI versteht Sie nicht? Verwenden Sie "Trennzeichen"
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ So wie Menschen Text beim Lesen in **Absätze** unterteilen, müssen Sie eine kl
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein kompetenter **Redakteur**.
-> **Anfrage:** Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erkläre, wie man die Trennzeichen-Technik nutzt, um Abschnitte zu trennen und die Genauigkeit zu verdoppeln.
+**Rolle:** Du bist ein kompetenter **Redakteur**.
+**Anfrage:** Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Erkläre, wie man die Trennzeichen-Technik nutzt, um Abschnitte zu trennen und die Genauigkeit zu verdoppeln.
 
 <br>
 

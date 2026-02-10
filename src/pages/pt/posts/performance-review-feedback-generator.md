@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Comentários de Avaliação de Pessoal Que Fazem Crescer Sem Machucar
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A avaliação de pessoal deve ser justa, o feedback deve ser específico e os se
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Treinador de Liderança.
-> **Solicitação:** Crie um prompt que alivie a dor de revisões de desempenho e redação de feedback.
+**Papel:** Você é um Treinador de Liderança.
+**Solicitação:** Crie um prompt que alivie a dor de revisões de desempenho e redação de feedback.
 
 <br>
 

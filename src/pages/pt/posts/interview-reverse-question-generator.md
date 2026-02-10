@@ -11,8 +11,8 @@ tags: ["PerguntaReversa", "DicaEntrevista", "ÚltimasPalavras", "AnáliseEmpresa
 
 # 📝 Última Arma Definitiva de Entrevista! Gerador de 'Pergunta Reversa' para Perguntar ao Entrevistador
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Isso não é uma pergunta mas **Oportunidade**. Se você perguntar salário ou b
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um treinador de carreira estratégico.
-> **Solicitação:** Cria perguntas reversas inteligentes mostrando interesse na empresa e insight de trabalho ao receber pergunta "Alguma pergunta?" no final da entrevista.
+**Papel:** Você é um treinador de carreira estratégico.
+**Solicitação:** Cria perguntas reversas inteligentes mostrando interesse na empresa e insight de trabalho ao receber pergunta "Alguma pergunta?" no final da entrevista.
 
 <br>
 

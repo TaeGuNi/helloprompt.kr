@@ -46,8 +46,8 @@ _"A Empresa A tem um salário alto, a Empresa B tem um bom equilíbrio entre vid
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um estrategista de negociação e gestor de carreira.
-> **Pedido:** Compare condições ao receber aceites de várias empresas e planeje uma estratégia de 'puxa e empurra' (Contraproposta) para obter melhores termos.
+**Papel:** Você é um estrategista de negociação e gestor de carreira.
+**Pedido:** Compare condições ao receber aceites de várias empresas e planeje uma estratégia de 'puxa e empurra' (Contraproposta) para obter melhores termos.
 
 <br>
 

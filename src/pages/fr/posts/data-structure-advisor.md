@@ -17,9 +17,9 @@ tags:
 
 # 📝 List ? Map ? Set ? Prescription de Structure de Données pour la Décision
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -47,8 +47,8 @@ Si vous saisissez la situation, nous pesons la complexité temporelle et l'effic
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Professeur d'Informatique et un Expert en Algorithmes.
-> **Demande :** Inquiet de quelle structure de données utiliser pour stocker des données ? Crée un prompt recommandant la structure de données optimale parfaitement adaptée à la situation.
+**Rôle :** Tu es un Professeur d'Informatique et un Expert en Algorithmes.
+**Demande :** Inquiet de quelle structure de données utiliser pour stocker des données ? Crée un prompt recommandant la structure de données optimale parfaitement adaptée à la situation.
 
 <br>
 

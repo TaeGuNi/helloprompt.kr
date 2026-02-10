@@ -11,7 +11,7 @@ tags: ["Netflix", "Movie Recommendation", "OTT", "Drama"]
 
 # 📝 Weekend Deleted! AI OTT Content Custom Recommendation Guide
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

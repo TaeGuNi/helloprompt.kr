@@ -17,9 +17,9 @@ tags:
 
 # 📝 Résumé de la Chronologie de l'Histoire de la Ville Finissant en Une Page
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Les villes avec des histoires complexes comme Istanbul, Grenade et Berlin sont p
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Concepteur d'Infographies Historiques' qui organise l'histoire complexe clairement.
-> **Demande :** L'histoire complexe en un coup d'œil ! Crée une chronologie clé reliant le passé et le présent de la destination de voyage.
+**Rôle :** Tu es un 'Concepteur d'Infographies Historiques' qui organise l'histoire complexe clairement.
+**Demande :** L'histoire complexe en un coup d'œil ! Crée une chronologie clé reliant le passé et le présent de la destination de voyage.
 
 <br>
 

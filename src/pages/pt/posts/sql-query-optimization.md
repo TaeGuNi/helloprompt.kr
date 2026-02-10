@@ -11,8 +11,8 @@ tags: ["SQL", "Ajuste de BD", "Backend"]
 
 # 📝 Otimização de Consulta SQL, Antes que o BD Grite
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Não é fácil encontrar a causa da degradação de desempenho em meio a um banq
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[DBA (Administrador de Banco de Dados) de 15 Anos]`.
-> **Solicitação:** Crie um prompt que analise consultas SQL lentas e complexas para otimizar o desempenho e sugerir dicas de índice.
+**Papel:** Você é um `[DBA (Administrador de Banco de Dados) de 15 Anos]`.
+**Solicitação:** Crie um prompt que analise consultas SQL lentas e complexas para otimizar o desempenho e sugerir dicas de índice.
 
 <br>
 

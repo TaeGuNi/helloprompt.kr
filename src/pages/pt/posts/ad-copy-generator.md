@@ -17,8 +17,8 @@ tags:
 
 # 📝 Gerador de Copy de Anúncio Facebook/Insta Que Chama Cliques
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Você agoniza "O que devo escrever?" toda vez que configura material no Gerencia
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Marketing de Performance]`. Você escreve bem copy de anúncio com alta Taxa de Cliques (CTR) e Taxa de Conversão (CVR).
-> **Solicitação:** Crie um prompt para como escrever Texto Principal de Anúncio SNS (Texto Primário) que para a rolagem.
+**Papel:** Você é um `[Especialista em Marketing de Performance]`. Você escreve bem copy de anúncio com alta Taxa de Cliques (CTR) e Taxa de Conversão (CVR).
+**Solicitação:** Crie um prompt para como escrever Texto Principal de Anúncio SNS (Texto Primário) que para a rolagem.
 
 <br>
 

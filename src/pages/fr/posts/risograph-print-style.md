@@ -12,9 +12,9 @@ tags:
 
 # 📝 Goût de l'Encre : Impression Risograph
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ _"Je veux donner une sensation d'impression légèrement rugueuse comme des poly
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt de style d'impression Risograph attrayant pour sa trame unique et son désalignement de couleurs.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt de style d'impression Risograph attrayant pour sa trame unique et son désalignement de couleurs.
 
 <br>
 
@@ -73,13 +73,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Girl with headphones drawing.`
 
-> (Résultat : Illustration numérique propre)
+(Résultat : Illustration numérique propre)
 
 ### ✅ Après (Résultat)
 
 Prompt `Risograph` appliqué
 
-> (Résultat : Affiche d'art rugueuse mais branchée où l'encre rose fluorescente ressort et des motifs de points sont visibles)
+(Résultat : Affiche d'art rugueuse mais branchée où l'encre rose fluorescente ressort et des motifs de points sont visibles)
 
 ---
 

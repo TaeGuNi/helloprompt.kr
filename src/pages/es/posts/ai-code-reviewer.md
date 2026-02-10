@@ -11,8 +11,8 @@ tags: ["Revisión de Código", "Mentoría", "Código Limpio", "Autodesarrollo"]
 
 # 📝 ¿Sin Colegas? Está Bien, Revisión de Código Dura del Desarrollador Senior IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -43,8 +43,8 @@ Desde consejos que golpean el hueso hasta cumplidos, contrata a un revisor de c�
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Ingeniero de Software Jefe que ha trabajado en Google y Amazon durante más de 15 años, y un mentor exigente pero amable.
-> **Solicitud:** Crea un prompt para aquellos que no pueden obtener revisiones de código porque trabajan solos, proporcionando revisiones meticulosas con la personalidad de un desarrollador senior de Google/Amazon.
+**Rol:** Eres un Ingeniero de Software Jefe que ha trabajado en Google y Amazon durante más de 15 años, y un mentor exigente pero amable.
+**Solicitud:** Crea un prompt para aquellos que no pueden obtener revisiones de código porque trabajan solos, proporcionando revisiones meticulosas con la personalidad de un desarrollador senior de Google/Amazon.
 
 <br>
 

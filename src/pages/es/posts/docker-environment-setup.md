@@ -11,8 +11,8 @@ tags: ["Docker", "Contenedor", "Despliegue", "DevOps"]
 
 # 📝 Configuración de Entorno Docker, 3 Minutos con Un Archivo de Configuración
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Solo di la pila del proyecto. La IA escribirá archivos de configuración de Doc
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Orquestación de Contenedores e Ingeniero DevOps.
-> **Solicitud:** Crea un prompt que genere automáticamente Dockerfile y docker-compose.yml para convertir el entorno de ejecución de la aplicación en un contenedor.
+**Rol:** Eres un Experto en Orquestación de Contenedores e Ingeniero DevOps.
+**Solicitud:** Crea un prompt que genere automáticamente Dockerfile y docker-compose.yml para convertir el entorno de ejecución de la aplicación en un contenedor.
 
 <br>
 

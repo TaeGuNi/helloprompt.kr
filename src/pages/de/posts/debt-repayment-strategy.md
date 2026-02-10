@@ -11,8 +11,8 @@ tags: ["Schuldenrückzahlung", "Kredit", "Finanzen", "Kreditmanagement"]
 
 # 📝 Schuldenflucht-Simulator: Schnellste Rückzahlungsstrategie
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie mehrere Kredite haben, müssen Sie strategisch vorgehen, um Zinsen zu s
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Finanzberater]` für Schuldenmanagement und Kreditwiederherstellung.
-> **Anfrage:** Schneeball-Strategie vs. Lawinen-Strategie. Sag mir die optimale Schuldenrückzahlungsreihenfolge, die perfekt für meine Kreditsituation ist.
+**Rolle:** Du bist ein `[Professioneller Finanzberater]` für Schuldenmanagement und Kreditwiederherstellung.
+**Anfrage:** Schneeball-Strategie vs. Lawinen-Strategie. Sag mir die optimale Schuldenrückzahlungsreihenfolge, die perfekt für meine Kreditsituation ist.
 
 <br>
 

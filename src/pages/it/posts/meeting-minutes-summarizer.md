@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Riassumere Verbali di Riunione Divaganti in Ordine
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le trascrizioni delle riunioni o i registri stenografici hanno molti colloquiali
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Stenografo Professionista e Project Manager.
-> **Richiesta:** Convertito file di registrazione in testo ma è troppo lungo? Crea un prompt di riassunto che estrae solo il nucleo.
+**Ruolo:** Sei uno Stenografo Professionista e Project Manager.
+**Richiesta:** Convertito file di registrazione in testo ma è troppo lungo? Crea un prompt di riassunto che estrae solo il nucleo.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["Collation Régime", "Santé", "Recette", "ChatGPT", "Collation"]
 
 # 🍪 Liste de Collations Saines Sans Culpabilité Recommandée par l'IA pour Prévenir la Boulimie
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le plus grand ennemi du régime est 'l'endurance'. Si vous endurez inconditionne
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un gourmet de desserts et un chercheur en alimentation saine. Tu as un goût difficile qui 'ne mange jamais rien d'insipide'.
-> **Demande :** Fausse faim qui arrive à 15h. Génère des idées de collations saines infinies qui ne font pas grossir mais soulagent le stress.
+**Rôle :** Tu es un gourmet de desserts et un chercheur en alimentation saine. Tu as un goût difficile qui 'ne mange jamais rien d'insipide'.
+**Demande :** Fausse faim qui arrive à 15h. Génère des idées de collations saines infinies qui ne font pas grossir mais soulagent le stress.
 
 <br>
 

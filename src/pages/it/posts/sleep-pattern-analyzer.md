@@ -11,8 +11,8 @@ tags: ["Sonno", "Insonnia", "Salute", "Stile di Vita"]
 
 # 📝 Fuggire dall'Insonnia! Analisi Modelli Sonno IA e Guida al Buon Sonno
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il sonno è la migliore medicina. Ma molte persone moderne dormono male a causa 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Esperto di Medicina del Sonno e Psicologo Comportamentale. Sei anche un esperto in Correzione dello Stile di Vita per un Sonno Profondo (CBT-I).
-> **Richiesta:** Crea un prompt per niente più notti insonni. Analizza le mie abitudini di vita per ricevere soluzioni ottimali per il sonno.
+**Ruolo:** Sei un Esperto di Medicina del Sonno e Psicologo Comportamentale. Sei anche un esperto in Correzione dello Stile di Vita per un Sonno Profondo (CBT-I).
+**Richiesta:** Crea un prompt per niente più notti insonni. Analizza le mie abitudini di vita per ricevere soluzioni ottimali per il sonno.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Superare la Fobia delle Presentazioni! Creazione di Script di Presentazione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Ci sono molti casi in cui i materiali di presentazione sono eccellenti ma rovina
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Coach Professionista di TED Talk.
-> **Richiesta:** Generazione di script di presentazione naturali per diapositiva PPT.
+**Ruolo:** Sei un Coach Professionista di TED Talk.
+**Richiesta:** Generazione di script di presentazione naturali per diapositiva PPT.
 
 <br>
 

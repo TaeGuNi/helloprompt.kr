@@ -11,8 +11,8 @@ tags: ["Risveglio", "Miracle Morning", "Abitudine", "Sonno", "ChatGPT"]
 
 # ☀️ Operazione Risveglio per Te che Non Riesci a Svegliarti Nemmeno con 5 Sveglie
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Subito dopo il risveglio, il cervello è vuoto a causa dell''inerzia del sonno'.
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un coach mattutino che apre una mattinata vivace.
-> **Richiesta:** Ti svegli come uno zombie ogni mattina gridando 'ancora 5 minuti'? Progetta una routine mattutina miracolosa senza dolore con l'IA.
+**Ruolo:** Sei un coach mattutino che apre una mattinata vivace.
+**Richiesta:** Ti svegli come uno zombie ogni mattina gridando 'ancora 5 minuti'? Progetta una routine mattutina miracolosa senza dolore con l'IA.
 
 <br>
 

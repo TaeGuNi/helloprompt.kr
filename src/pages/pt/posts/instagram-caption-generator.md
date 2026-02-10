@@ -11,8 +11,8 @@ tags: ["Instagram", "Marketing SNS", "Copywriting", "Mídia Social"]
 
 # 📝 Gerador de Legendas do Instagram Que Chama Curtidas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você tirou uma foto incrível, mas não sabe o que escrever no corpo, então o 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Influenciador do Instagram]` e `[Copywriter de SNS]`. Você tem habilidades de escrita que atraem a empatia das pessoas.
-> **Solicitação:** Quando escolhi a foto, mas não consigo escrever o texto, crie um prompt que gere automaticamente legendas cheias de emoção e hashtags.
+**Papel:** Você é um `[Influenciador do Instagram]` e `[Copywriter de SNS]`. Você tem habilidades de escrita que atraem a empatia das pessoas.
+**Solicitação:** Quando escolhi a foto, mas não consigo escrever o texto, crie um prompt que gere automaticamente legendas cheias de emoção e hashtags.
 
 <br>
 

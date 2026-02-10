@@ -39,8 +39,8 @@ Lorsque vous travaillez avec Excel, vous avez souvent besoin de formules complex
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert Excel et Analyste de Données avec 20 ans d'expérience.
-> **Demande :** Confus à propos de VLOOKUP, INDEX MATCH ? Crée un prompt qui écrit la fonction Excel parfaitement si j'explique simplement la situation.
+**Rôle :** Tu es un Expert Excel et Analyste de Données avec 20 ans d'expérience.
+**Demande :** Confus à propos de VLOOKUP, INDEX MATCH ? Crée un prompt qui écrit la fonction Excel parfaitement si j'explique simplement la situation.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Efeito", "Surrealismo"]
 
 # 📝 Mundo Sobreposto: Dupla Exposição
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Aquela sensação de uma floresta dentro da silhueta de uma pessoa, como eu fa
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie uma técnica de dupla exposição que sobreponha duas imagens diferentes para criar uma história misteriosa e sonhadora.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie uma técnica de dupla exposição que sobreponha duas imagens diferentes para criar uma história misteriosa e sonhadora.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Woman and forest mixed.`
 
-> (Resultado: Foto bizarra onde uma mulher está em uma floresta ou uma árvore é desenhada em seu rosto)
+(Resultado: Foto bizarra onde uma mulher está em uma floresta ou uma árvore é desenhada em seu rosto)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Double exposure` aplicado
 
-> (Resultado: Arte composta poética onde o cabelo da mulher se torna árvores e a nuca se torna cume de montanha)
+(Resultado: Arte composta poética onde o cabelo da mulher se torna árvores e a nuca se torna cume de montanha)
 
 ---
 

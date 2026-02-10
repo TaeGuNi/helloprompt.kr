@@ -18,8 +18,8 @@ tags:
 
 # ⚓ Erdungstechnik (Grounding), gelehrt von KI, wenn das Herz rast
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Angst trennt uns von der Realität und treibt uns in einen Strudel negativer Ged
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein ruhiger und vertrauenswürdiger psychologischer Notfallberater.
-> **Anfrage:** Wenn plötzliche Angst oder Paniksymptome auftreten, leite mich an, wie ich mit der 5-4-3-2-1 Technik schnell in die Realität zurückkehren kann.
+**Rolle:** Du bist ein ruhiger und vertrauenswürdiger psychologischer Notfallberater.
+**Anfrage:** Wenn plötzliche Angst oder Paniksymptome auftreten, leite mich an, wie ich mit der 5-4-3-2-1 Technik schnell in die Realität zurückkehren kann.
 
 <br>
 

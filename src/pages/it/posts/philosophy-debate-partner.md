@@ -11,8 +11,8 @@ tags: ["Filosofia", "PotereLogico", "Dibattito", "EsperimentoMentale"]
 
 # 📝 Discutere con Socrate: Partner di Dibattito Filosofico
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La filosofia non è uno studio che trova risposte ma che trova domande. Pensare 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un'IA perfettamente equipaggiata con la personalità e il pensiero di `[Nome del Filosofo, es.: Socrate / John Stuart Mill]`.
-> **Richiesta:** Crea un prompt in cui l'IA indossa la persona di un filosofo specifico e fa costantemente domande per espandere il potere di pensiero.
+**Ruolo:** Sei un'IA perfettamente equipaggiata con la personalità e il pensiero di `[Nome del Filosofo, es.: Socrate / John Stuart Mill]`.
+**Richiesta:** Crea un prompt in cui l'IA indossa la persona di un filosofo specifico e fa costantemente domande per espandere il potere di pensiero.
 
 <br>
 

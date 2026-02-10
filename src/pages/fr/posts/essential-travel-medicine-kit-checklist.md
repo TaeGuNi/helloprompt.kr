@@ -17,9 +17,9 @@ tags:
 
 # 📝 Triste Si Vous Êtes Malade ! Liste de Contrôle des Médicaments d'Urgence et Trousse de Premiers Soins pour Voyage à l'Étranger
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Rien n'est plus triste que d'être malade dans une terre étrangère. Préparez 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un pharmacien spécialisé en médecine des voyages.
-> **Demande :** N'errez pas à la recherche d'une pharmacie locale. Dis-moi comment configurer des trousses de premiers soins et des kits d'urgence essentiels par situation/symptôme.
+**Rôle :** Tu es un pharmacien spécialisé en médecine des voyages.
+**Demande :** N'errez pas à la recherche d'une pharmacie locale. Dis-moi comment configurer des trousses de premiers soins et des kits d'urgence essentiels par situation/symptôme.
 
 <br>
 

@@ -17,9 +17,9 @@ tags:
 
 # 📝 Dois-je donner un pourboire ou non ? Conquérir la Culture Mondiale des Pourboires
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Un monde de pourboires où donner trop peu est impoli et donner trop vous fait p
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Guide de Voyage Intelligent' qui connaît les prix et les manières de voyager dans le monde entier.
-> **Demande :** États-Unis 20 % ? Japon 0 ? L'IA clarifie la culture confuse et gênante des pourboires.
+**Rôle :** Tu es un 'Guide de Voyage Intelligent' qui connaît les prix et les manières de voyager dans le monde entier.
+**Demande :** États-Unis 20 % ? Japon 0 ? L'IA clarifie la culture confuse et gênante des pourboires.
 
 <br>
 

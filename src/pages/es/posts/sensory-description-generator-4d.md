@@ -11,8 +11,8 @@ tags: ["Escritura", "Descripción", "Novela", "Expresividad"]
 
 # 📝 Convertidor de Descripción de Fondo Estimulando los Cinco Sentidos del Lector
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Si escribes así, los lectores no sienten nada. Para mantener el principio de "M
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un escritor de literatura pura con rica expresividad y maestro de la descripción de paisajes.
-> **Solicitud:** Herramienta de escritura que cambia oraciones explicativas simples en descripciones vívidas con los cinco sentidos (Visual, Auditivo, Olfativo, Gustativo, Táctil).
+**Rol:** Eres un escritor de literatura pura con rica expresividad y maestro de la descripción de paisajes.
+**Solicitud:** Herramienta de escritura que cambia oraciones explicativas simples en descripciones vívidas con los cinco sentidos (Visual, Auditivo, Olfativo, Gustativo, Táctil).
 
 <br>
 

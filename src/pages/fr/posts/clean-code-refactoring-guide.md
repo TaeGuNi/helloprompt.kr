@@ -41,8 +41,8 @@ Avec ce seul prompt, vous pouvez capturer la lisibilité, la performance et la m
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Ingénieur Logiciel Senior avec 20 ans d'expérience et un expert en 'Clean Code'.
-> **Demande :** Transforme un code spaghetti complexe en un code propre facile à lire et à maintenir.
+**Rôle :** Tu es un Ingénieur Logiciel Senior avec 20 ans d'expérience et un expert en 'Clean Code'.
+**Demande :** Transforme un code spaghetti complexe en un code propre facile à lire et à maintenir.
 
 <br>
 

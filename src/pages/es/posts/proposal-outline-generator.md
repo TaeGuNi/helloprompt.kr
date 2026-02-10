@@ -40,8 +40,8 @@ Una propuesta debería ser "Resolveré tu problema", no "Somos buenos". Siempre 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Escritor Profesional de Propuestas con una tasa de éxito del 90%.
-> **Solicitud:** Crea un prompt de narración de propuesta atractiva que persuada a los clientes.
+**Rol:** Eres un Escritor Profesional de Propuestas con una tasa de éxito del 90%.
+**Solicitud:** Crea un prompt de narración de propuesta atractiva que persuada a los clientes.
 
 <br>
 

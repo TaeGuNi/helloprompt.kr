@@ -11,8 +11,8 @@ tags: ["Deduktion", "Mysterium", "Trick", "Roman", "Szenario"]
 
 # 📝 Mysterium-Deduktionsspiel: Täter- und Trick-Generierung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Kern des Mysteriums ist 'Wie' und 'Warum'. Besonders Prozess des Brechens schein
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Krimiautor mit Gehirnen von Agatha Christie und Keigo Higashino.
-> **Anfrage:** KI entwirft geniale Tricks für verschlossene Räume und Alibis, die Conan und Kindaichi weinen lassen.
+**Rolle:** Du bist ein Krimiautor mit Gehirnen von Agatha Christie und Keigo Higashino.
+**Anfrage:** KI entwirft geniale Tricks für verschlossene Räume und Alibis, die Conan und Kindaichi weinen lassen.
 
 <br>
 

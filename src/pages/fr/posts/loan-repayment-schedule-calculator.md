@@ -11,9 +11,9 @@ tags: ["Excel", "IntérêtPrêt", "FonctionFinancière", "PMT"]
 
 # 📝 Calendrier de Remboursement de Prêt : Principal et Intérêt Égaux vs Principal Égal
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Il existe largement deux méthodes de remboursement de prêt. **'Principal et In
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Excel Financier]`.
-> **Demande :** Modèle de calculateur d'intérêts de prêt fait directement dans Excel sans avoir besoin d'entrer sur des sites bancaires.
+**Rôle :** Tu es un `[Expert en Excel Financier]`.
+**Demande :** Modèle de calculateur d'intérêts de prêt fait directement dans Excel sans avoir besoin d'entrer sur des sites bancaires.
 
 <br>
 

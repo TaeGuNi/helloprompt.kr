@@ -11,8 +11,8 @@ tags: ["Hábito", "Rotina", "GodLife", "Autodesenvolvimento"]
 
 # 📝 Chega de Desistir! Design de Rastreador de Formação de Hábitos com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Hábito não é vontade, mas configuração de ambiente. Aplique o princípio de
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Psicólogo Comportamental e Especialista em Formação de Hábitos. Aconselhe com base na teoria <Hábitos Atômicos> de James Clear.
-> **Solicitação:** Crie um prompt que crie um sistema de formação de hábitos baseado na ciência do cérebro sem depender da força de vontade.
+**Papel:** Você é um Psicólogo Comportamental e Especialista em Formação de Hábitos. Aconselhe com base na teoria <Hábitos Atômicos> de James Clear.
+**Solicitação:** Crie um prompt que crie um sistema de formação de hábitos baseado na ciência do cérebro sem depender da força de vontade.
 
 <br>
 

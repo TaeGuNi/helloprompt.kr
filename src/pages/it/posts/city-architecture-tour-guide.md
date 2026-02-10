@@ -18,8 +18,8 @@ tags:
 
 # 📝 Leggere lo Skyline della Città: Tour dei Punti Salienti dell'Architettura
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Una città è un enorme museo di architettura. Non solo i monumenti famosi ma an
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Critico di Architettura' esperto.
-> **Richiesta:** Cammina per la città con l'occhio di un architetto. Dal gotico all'architettura moderna, raccontami storie raccontate dagli edifici.
+**Ruolo:** Sei un 'Critico di Architettura' esperto.
+**Richiesta:** Cammina per la città con l'occhio di un architetto. Dal gotico all'architettura moderna, raccontami storie raccontate dagli edifici.
 
 <br>
 

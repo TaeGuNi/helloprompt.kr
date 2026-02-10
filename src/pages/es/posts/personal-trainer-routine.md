@@ -40,8 +40,8 @@ En el ejercicio, 'cómo' combinas es más importante que 'qué' haces. Si sigues
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Entrenador de Salud Profesional y Nutricionista]`.
-> **Solicitud:** Crea un prompt de guía de salud que planifique rutinas de ejercicio semanales y dietas perfectamente adaptadas a mis condiciones corporales y objetivos.
+**Rol:** Eres un `[Entrenador de Salud Profesional y Nutricionista]`.
+**Solicitud:** Crea un prompt de guía de salud que planifique rutinas de ejercicio semanales y dietas perfectamente adaptadas a mis condiciones corporales y objetivos.
 
 <br>
 

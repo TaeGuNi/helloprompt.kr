@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Guide de Définition des OKR pour l'Atteinte des Objectifs
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Nous savons que l'OKR est bon, mais en essayant de l'écrire, seuls des objectif
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Coach Professionnel OKR de Google.
-> **Demande :** Établir des Objectifs palpitants et des Résultats Clés mesurables.
+**Rôle :** Tu es un Coach Professionnel OKR de Google.
+**Demande :** Établir des Objectifs palpitants et des Résultats Clés mesurables.
 
 <br>
 

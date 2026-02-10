@@ -18,9 +18,9 @@ tags:
 
 # 📝 Esthétique des Vagues : Style Ukiyo-e
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ _"Je veux dessiner des images avec un sentiment comme 'La Grande Vague' de Katsu
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt dessinant des vagues et des paysages dans le style Ukiyo-e, l'esthétique la plus japonaise.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt dessinant des vagues et des paysages dans le style Ukiyo-e, l'esthétique la plus japonaise.
 
 <br>
 
@@ -79,13 +79,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Cat and Mount Fuji.`
 
-> (Résultat : Photo d'un vrai chat assis devant le Mont Fuji)
+(Résultat : Photo d'un vrai chat assis devant le Mont Fuji)
 
 ### ✅ Après (Résultat)
 
 Prompt `Ukiyo-e` appliqué
 
-> (Résultat : Chef-d'œuvre harmonisant des motifs de vagues dessinés comme au pinceau, un chat à texture d'estampe, et des couleurs de vieux papier)
+(Résultat : Chef-d'œuvre harmonisant des motifs de vagues dessinés comme au pinceau, un chat à texture d'estampe, et des couleurs de vieux papier)
 
 ---
 

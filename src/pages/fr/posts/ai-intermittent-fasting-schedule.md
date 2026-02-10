@@ -39,8 +39,8 @@ La principale raison de l'échec du jeûne intermittent est de fixer des horaire
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en jeûne intermittent et en biohacking.
-> **Demande :** Conçois un programme de jeûne intermittent qui correspond parfaitement à mon style de vie et donne-moi des conseils pour survivre aux heures de jeûne.
+**Rôle :** Tu es un expert en jeûne intermittent et en biohacking.
+**Demande :** Conçois un programme de jeûne intermittent qui correspond parfaitement à mon style de vie et donne-moi des conseils pour survivre aux heures de jeûne.
 
 <br>
 

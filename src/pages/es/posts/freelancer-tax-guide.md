@@ -11,8 +11,8 @@ tags: ["Impuesto", "AhorroImpuestos", "Freelancer", "ImpuestoRentaIntegral"]
 
 # 📝 Guía de Ahorro de Impuestos para Freelancers: Duplicando Reembolso de Impuestos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Los trabajadores de oficina obtienen liquidación de fin de año automáticament
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Contador Fiscal]` especializado en freelancers.
-> **Solicitud:** Organiza procesamiento de gastos y consejos de deducción para N-jobbers y freelancers temerosos del informe de impuesto sobre la renta integral de mayo.
+**Rol:** Eres un `[Contador Fiscal]` especializado en freelancers.
+**Solicitud:** Organiza procesamiento de gastos y consejos de deducción para N-jobbers y freelancers temerosos del informe de impuesto sobre la renta integral de mayo.
 
 <br>
 

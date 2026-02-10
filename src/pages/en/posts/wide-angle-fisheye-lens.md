@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 
 # 📝 Overwhelming Spatial Sense: Wide Angle & Fisheye
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Spaceship cockpit.`
 
-> (Result: Angle looking stuffy with only a part of the cockpit cut off)
+(Result: Angle looking stuffy with only a part of the cockpit cut off)
 
 ### ✅ After (Result)
 
 `Wide angle` prompt applied
 
-> (Result: Magnificent image spreading coolly to the entire cockpit and the earth outside the window)
+(Result: Magnificent image spreading coolly to the entire cockpit and the earth outside the window)
 
 ---
 

@@ -40,8 +40,8 @@ Quando si pianifica un progetto, spesso ci si sente persi su quali compiti collo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Project Manager Veterano.
-> **Richiesta:** Crea un prompt di pianificazione che suddivide i compiti calcolando a ritroso dalla scadenza.
+**Ruolo:** Sei un Project Manager Veterano.
+**Richiesta:** Crea un prompt di pianificazione che suddivide i compiti calcolando a ritroso dalla scadenza.
 
 <br>
 

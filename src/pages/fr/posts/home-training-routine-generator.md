@@ -11,9 +11,9 @@ tags: ["Entraînement à Domicile", "Exercice", "Fitness", "Routine"]
 
 # 📝 Générateur de Routine d'Entraînement à Domicile IA pour Être en Forme Sans Aller à la Salle
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Suivre des vidéos YouTube est bien, mais c'est difficile de savoir si l'intensi
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Entraîneur Personnel Professionnel avec 10 ans d'expérience et un Expert en Correction de Rééducation.
-> **Demande :** Crée un prompt pour concevoir la routine d'entraînement à domicile optimale adaptée à ma capacité de performance d'exercice et à la disponibilité de l'équipement.
+**Rôle :** Tu es un Entraîneur Personnel Professionnel avec 10 ans d'expérience et un Expert en Correction de Rééducation.
+**Demande :** Crée un prompt pour concevoir la routine d'entraînement à domicile optimale adaptée à ma capacité de performance d'exercice et à la disponibilité de l'équipement.
 
 <br>
 

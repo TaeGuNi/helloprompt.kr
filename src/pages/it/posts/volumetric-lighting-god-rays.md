@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Illuminazione", "Atmosfera"]
 
 # 📝 Fasci di Luce Misteriosi: Illuminazione Volumetrica
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il fenomeno in cui la luce si disperde sull'umidità o sulla polvere nell'aria e
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Implementa misteriosi fasci di luce che brillano anche sulla polvere nell'aria, Raggi di Dio, con i prompt.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Implementa misteriosi fasci di luce che brillano anche sulla polvere nell'aria, Raggi di Dio, con i prompt.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Library with windows, sunlight.`
 
-> (Risultato: Solo una biblioteca luminosa, i fasci di luce non sono visibili)
+(Risultato: Solo una biblioteca luminosa, i fasci di luce non sono visibili)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Volumetric lighting` applicato
 
-> (Risultato: Distinti pilastri di luce che si riversano dalle finestre, atmosfera misteriosa che sente la consistenza dell'aria)
+(Risultato: Distinti pilastri di luce che si riversano dalle finestre, atmosfera misteriosa che sente la consistenza dell'aria)
 
 ---
 

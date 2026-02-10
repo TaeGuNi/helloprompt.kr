@@ -11,8 +11,8 @@ tags: ["Übersetzung", "E-Mail", "Geschäftsenglisch", "ChatGPT", "DeepL"]
 
 # 🇺🇸 Übersetzung jenseits des Übersetzers: 'Nuancen' korrigieren
 
-> **🎯 Empfohlen für:** Händler, die über E-Mails schwitzen, PMs, die mit globalen Entwicklern arbeiten
-> **⏱️ Benötigte Zeit:** 30 Sekunden
+**🎯 Empfohlen für:** Händler, die über E-Mails schwitzen, PMs, die mit globalen Entwicklern arbeiten
+**⏱️ Benötigte Zeit:** 30 Sekunden
 
 - **🤖 Empfohlenes Modell:** DeepL (Entwurf) + ChatGPT-4o (Nuancen-Politur)
 
@@ -20,9 +20,9 @@ tags: ["Übersetzung", "E-Mail", "Geschäftsenglisch", "ChatGPT", "DeepL"]
 | :-----------: | :----------: | :--------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Send me the file ASAP."_
-> (Wörtlich: Sende mir die Datei so schnell wie möglich.)
-> (Muttersprachler-Gefühl: **"Gib es mir SOFORT oder stirb."**)
+_"Send me the file ASAP."_
+(Wörtlich: Sende mir die Datei so schnell wie möglich.)
+(Muttersprachler-Gefühl: **"Gib es mir SOFORT oder stirb."**)
 
 Wusstest du, dass deine vom Übersetzer generierte E-Mail unhöflich klingen könnte? Der Kern von Geschäftsenglisch sind nicht die Wörter, sondern **'Ton & Manier (Tone & Manner)'**. Lass uns KI nutzen, um die **'Höflichkeit'** und **'Klasse'** hinzuzufügen, die Papago oder Google Translate verpassen.
 
@@ -42,9 +42,9 @@ Wusstest du, dass deine vom Übersetzer generierte E-Mail unhöflich klingen kö
 
 Wenn du jemanden drängst, ohne zu beleidigen.
 
-> **Rolle:** Du bist ein US-Geschäftsetikette-Experte.
-> **Satz:** `[Give me the report by tomorrow.]` (Zu direkt)
-> **Anfrage:** Ändere das in einen **Höflichen & Professionellen** Ausdruck, der für einen Chef oder Kunden geeignet ist. Gib 3 Versionen.
+**Rolle:** Du bist ein US-Geschäftsetikette-Experte.
+**Satz:** `[Give me the report by tomorrow.]` (Zu direkt)
+**Anfrage:** Ändere das in einen **Höflichen & Professionellen** Ausdruck, der für einen Chef oder Kunden geeignet ist. Gib 3 Versionen.
 
 <br>
 
@@ -82,13 +82,13 @@ Heikle Situationen wie Ablehnung, Entschuldigung, Verhandlung.
 
 ### ❌ Vorher (Konglish + Unhöflich)
 
-> **Ich:** "Please check attached file. If error, tell me."
-> **Empfänger:** (Was? Ist das ein Befehl?)
+**Ich:** "Please check attached file. If error, tell me."
+**Empfänger:** (Was? Ist das ein Befehl?)
 
 ### ✅ Nachher (KI-Politur)
 
-> **KI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Empfänger:** (Wow, gebildete Person. Ich werde es sofort prüfen.)
+**KI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Empfänger:** (Wow, gebildete Person. Ich werde es sofort prüfen.)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["Jubilación", "PrepVejez", "Pensión", "PlanificaciónFinanciera"]
 
 # 📝 Calculadora de Fondo de Jubilación: ¿Cuál es Mi Puntuación de Preparación para la Jubilación?
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"¿Solo confías en la Pensión Nacional? Es hora de una verificación de la fr
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[CFP (Planificador Financiero Certificado)]` especializado en planificación de jubilación.
-> **Solicitud:** Elimina el miedo vago a la vejez. Calcula con precisión los fondos de jubilación necesarios y la cantidad a ahorrar mensualmente.
+**Rol:** Eres un `[CFP (Planificador Financiero Certificado)]` especializado en planificación de jubilación.
+**Solicitud:** Elimina el miedo vago a la vejez. Calcula con precisión los fondos de jubilación necesarios y la cantidad a ahorrar mensualmente.
 
 <br>
 

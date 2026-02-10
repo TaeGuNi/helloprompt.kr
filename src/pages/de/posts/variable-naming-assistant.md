@@ -42,8 +42,8 @@ Erklären Sie einfach die Situation. Wir extrahieren 5 stilvolle Namen, die von 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Senior-Entwickler mit einem Abschluss in Englischer Literatur. Du hast sowohl Sprachgefühl als auch Coding-Konventionen.
-> **Anfrage:** Höre auf, bedeutungslose Variablennamen wie tmp, data, a... zu verwenden. Erstelle einen Prompt, der englische Variablen- und Funktionsnamen empfiehlt, die perfekt zum Kontext passen.
+**Rolle:** Du bist ein Senior-Entwickler mit einem Abschluss in Englischer Literatur. Du hast sowohl Sprachgefühl als auch Coding-Konventionen.
+**Anfrage:** Höre auf, bedeutungslose Variablennamen wie tmp, data, a... zu verwenden. Erstelle einen Prompt, der englische Variablen- und Funktionsnamen empfiehlt, die perfekt zum Kontext passen.
 
 <br>
 

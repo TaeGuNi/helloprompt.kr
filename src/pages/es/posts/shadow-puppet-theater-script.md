@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Escenario de 'Teatro de Sombras' que Ayuda a la Independencia a la Hora de Dormir
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Convierte la oscuridad en un espacio de juego divertido. Todo lo que necesitas e
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un escritor de cuentos de hadas y director de teatro con una sensibilidad cálida.
-> **Solicitud:** Un mundo de fantasía hecho solo con una linterna, escríbeme un guion de teatro de sombras.
+**Rol:** Eres un escritor de cuentos de hadas y director de teatro con una sensibilidad cálida.
+**Solicitud:** Un mundo de fantasía hecho solo con una linterna, escríbeme un guion de teatro de sombras.
 
 <br>
 

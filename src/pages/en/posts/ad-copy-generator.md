@@ -11,7 +11,7 @@ tags: ["Facebook Ad", "Instagram Ad", "Performance Marketing", "Copywriting"]
 
 # 📝 Facebook/Insta Ad Copy Generator That Calls for Clicks
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Calore della Carta: Ritaglio di Carta & Origami
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ _"Voglio dare una sensazione di libro illustrato tridimensionale fatto tagliando
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt stile Ritaglio di Carta e Origami che sembra come tagliare e incollare più strati di carta.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt stile Ritaglio di Carta e Origami che sembra come tagliare e incollare più strati di carta.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Hills and house drawing.`
 
-> (Risultato: Illustrazione 2D ordinaria)
+(Risultato: Illustrazione 2D ordinaria)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Paper cutout` applicato
 
-> (Risultato: Opera di artigianato cartaceo che sembra tridimensionale come se stesse per uscire a causa delle ombre, e sembra ruvida se toccata)
+(Risultato: Opera di artigianato cartaceo che sembra tridimensionale come se stesse per uscire a causa delle ombre, e sembra ruvida se toccata)
 
 ---
 

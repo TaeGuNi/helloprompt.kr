@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Automatizzare la Noia Ripetitiva di Excel con Macro (VBA)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le attività quotidiane ripetitive di raccolta dati e formattazione sono noiose 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Sviluppatore VBA Excel Esperto.
-> **Richiesta:** Non hai bisogno di sapere programmare. Crea un prompt magico che scrive codice VBA se dici solo la situazione.
+**Ruolo:** Sei uno Sviluppatore VBA Excel Esperto.
+**Richiesta:** Non hai bisogno di sapere programmare. Crea un prompt magico che scrive codice VBA se dici solo la situazione.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Mostrare i 'Mostri Germi' ai Bambini che Odiano Lavarsi le Mani
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Agli occhi dei bambini, le mani sembrano pulite. Devi far immaginare loro il mon
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un microbiologo e un narratore.
-> **Richiesta:** Fornisci una persuasione scientifica per mandare un bambino al lavandino senza brontolare.
+**Ruolo:** Sei un microbiologo e un narratore.
+**Richiesta:** Fornisci una persuasione scientifica per mandare un bambino al lavandino senza brontolare.
 
 <br>
 

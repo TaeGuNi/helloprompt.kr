@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ficção Científica", "Retr
 
 # 📝 Latão e Vapor: Steampunk
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Um mundo onde a antiguidade da era vitoriana encontra a engenharia mecânica."
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt Steampunk, uma imagem futura do século XIX dominada por engrenagens de latão e máquinas a vapor.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt Steampunk, uma imagem futura do século XIX dominada por engrenagens de latão e máquinas a vapor.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Robot owl.`
 
-> (Resultado: Coruja robô de ficção científica branca e elegante de última geração)
+(Resultado: Coruja robô de ficção científica branca e elegante de última geração)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Steampunk` aplicado
 
-> (Resultado: Coruja mecânica antiga, mas elaborada, brilhando com latão e engrenagens giratórias)
+(Resultado: Coruja mecânica antiga, mas elaborada, brilhando com latão e engrenagens giratórias)
 
 ---
 

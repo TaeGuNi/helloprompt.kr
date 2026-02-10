@@ -40,8 +40,8 @@ Die Basis der Investition ist die Unternehmensanalyse, aber es ist nicht einfach
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Senior Analyst]` mit 20 Jahren Erfahrung an der Wall Street.
-> **Anfrage:** Fasse nur die Kernpunkte komplexer Finanzberichte in 1 Minute zusammen, ein Muss für Aktieninvestitionen.
+**Rolle:** Du bist ein `[Senior Analyst]` mit 20 Jahren Erfahrung an der Wall Street.
+**Anfrage:** Fasse nur die Kernpunkte komplexer Finanzberichte in 1 Minute zusammen, ein Muss für Aktieninvestitionen.
 
 <br>
 

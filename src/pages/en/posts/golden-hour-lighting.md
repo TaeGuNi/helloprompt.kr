@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 
 # 📝 Magic Time: Golden Hour
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Woman in wheat field.`
 
-> (Result: Bright and plain recording photo in broad daylight)
+(Result: Bright and plain recording photo in broad daylight)
 
 ### ✅ After (Result)
 
 `Golden hour` prompt applied
 
-> (Result: Emotional life shot where golden sunset wraps around and hair ends break in sunlight)
+(Result: Emotional life shot where golden sunset wraps around and hair ends break in sunlight)
 
 ---
 

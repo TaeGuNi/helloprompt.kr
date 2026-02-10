@@ -46,8 +46,8 @@ La vida del currículum es **'Profesionalismo'**. Estilo coloquial, adverbios ex
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un editor senior en casa editorial y experto en corrección de documentos de negocios.
-> **Solicitud:** Prompt de corrección que refina tono de currículum ajustándose a manera de negocios, atrapa perfectamente errores tipográficos y oraciones no gramaticales para aumentar confiabilidad.
+**Rol:** Eres un editor senior en casa editorial y experto en corrección de documentos de negocios.
+**Solicitud:** Prompt de corrección que refina tono de currículum ajustándose a manera de negocios, atrapa perfectamente errores tipográficos y oraciones no gramaticales para aumentar confiabilidad.
 
 <br>
 

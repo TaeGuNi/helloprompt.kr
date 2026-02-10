@@ -11,9 +11,9 @@ tags: ["Retraite", "PrépVieillesse", "Pension", "PlanificationFinancière"]
 
 # 📝 Calculateur de Fonds de Retraite : Quel est Mon Score de Préparation à la Retraite ?
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Combien faut-il pour dépenser 3 millions KRW mensuellement après la retraite ?
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[CFP (Planificateur Financier Certifié)]` spécialisé dans la planification de la retraite.
-> **Demande :** Élimine la peur vague de la vieillesse. Calcule avec précision les fonds de retraite nécessaires et le montant à épargner mensuellement.
+**Rôle :** Tu es un `[CFP (Planificateur Financier Certifié)]` spécialisé dans la planification de la retraite.
+**Demande :** Élimine la peur vague de la vieillesse. Calcule avec précision les fonds de retraite nécessaires et le montant à épargner mensuellement.
 
 <br>
 

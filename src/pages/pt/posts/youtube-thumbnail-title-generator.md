@@ -12,8 +12,8 @@ tags:
 
 # 📺 "Conteúdo é Rei? Não, o Clique é Rei."
 
-> **🎯 Ideal para:** Pequenos YouTubers, Criadores sem ideias, Editores presos em miniaturas
-> **⏱️ Tempo economizado:** 1 hora (Planejamento) → 3 min (10 Ideias)
+**🎯 Ideal para:** Pequenos YouTubers, Criadores sem ideias, Editores presos em miniaturas
+**⏱️ Tempo economizado:** 1 hora (Planejamento) → 3 min (10 Ideias)
 
 - **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -21,7 +21,7 @@ tags:
 | :---------: | :--------: | :-----------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐ |  ⭐⭐⭐⭐⭐   |
 
-> _"Não espere pelo Algoritmo. **Alimente o Algoritmo.**"_
+_"Não espere pelo Algoritmo. **Alimente o Algoritmo.**"_
 
 Você passou dias filmando e editando, mas conseguiu 50 visualizações?
 Não é o seu conteúdo. É a sua **Embalagem (Miniatura/Título)**.
@@ -43,9 +43,9 @@ Ensine a IA a despertar a curiosidade humana e obtenha ganchos de nível profiss
 
 Quando você só precisa de títulos cativantes rápido.
 
-> **Papel:** Você é um estrategista de canal para um YouTuber com 1 milhão de inscritos.
-> **Tarefa:** Gere 10 títulos de alto CTR para o meu vídeo.
-> **Tópico:** `[Tópico do Vídeo]`
+**Papel:** Você é um estrategista de canal para um YouTuber com 1 milhão de inscritos.
+**Tarefa:** Gere 10 títulos de alto CTR para o meu vídeo.
+**Tópico:** `[Tópico do Vídeo]`
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Estresse", "Burnout", "Gestão Mental", "Cura", "ChatGPT"]
 
 # 🤯 Antes de Explodir! Métodos de Alívio do Estresse por Situação Sugeridos pela IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ As causas do estresse variam. A solução também deve diferir dependendo se é 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um psicoterapeuta com conhecimento abundante em neurociência.
-> **Pedido:** Existe alguma outra maneira além de comer tteokbokki picante? Informamos sobre técnicas de alívio do estresse cientificamente comprovadas.
+**Papel:** Você é um psicoterapeuta com conhecimento abundante em neurociência.
+**Pedido:** Existe alguma outra maneira além de comer tteokbokki picante? Informamos sobre técnicas de alívio do estresse cientificamente comprovadas.
 
 <br>
 

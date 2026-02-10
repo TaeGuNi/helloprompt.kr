@@ -39,8 +39,8 @@ Comment rencontrer l'histoire tout en marchant dans les ruelles de la ville à m
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Planificateur de Visites Narratives' qui connaît chaque ruelle de `[Nom de la Ville]`.
-> **Demande :** Épanouissant sans s'inscrire à des visites coûteuses. Guide-moi sur un parcours de promenade historique de la ville tissé avec le thème que je veux.
+**Rôle :** Tu es un 'Planificateur de Visites Narratives' qui connaît chaque ruelle de `[Nom de la Ville]`.
+**Demande :** Épanouissant sans s'inscrire à des visites coûteuses. Guide-moi sur un parcours de promenade historique de la ville tissé avec le thème que je veux.
 
 <br>
 

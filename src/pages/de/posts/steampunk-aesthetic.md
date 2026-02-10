@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 
 # 📝 Messing und Dampf: Steampunk
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Eine Welt, in der Antike der viktorianischen Ära auf Maschinenbau trifft."_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Steampunk-Prompt, ein Zukunftsbild des 19. Jahrhunderts, das von Messingzahnrädern und Dampfmaschinen dominiert wird.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Steampunk-Prompt, ein Zukunftsbild des 19. Jahrhunderts, das von Messingzahnrädern und Dampfmaschinen dominiert wird.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Robot owl.`
 
-> (Ergebnis: Weiße und schlanke neueste Sci-Fi-Robotereule)
+(Ergebnis: Weiße und schlanke neueste Sci-Fi-Robotereule)
 
 ### ✅ Nachher (Ergebnis)
 
 `Steampunk` Prompt angewendet
 
-> (Ergebnis: Antike, aber aufwendige mechanische Eule, die mit Messing und sich drehenden Zahnrädern blinkt)
+(Ergebnis: Antike, aber aufwendige mechanische Eule, die mit Messing und sich drehenden Zahnrädern blinkt)
 
 ---
 

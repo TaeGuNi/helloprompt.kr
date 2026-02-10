@@ -11,8 +11,8 @@ tags: ["Excel", "Darlehenszins", "Finanzfunktion", "PMT"]
 
 # 📝 Darlehensrückzahlungsplan: Gleiche Kapital- und Zinszahlung vs Gleiche Kapitalzahlung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es gibt im Wesentlichen zwei Darlehensrückzahlungsmethoden. **'Gleiche Kapital-
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Finanz-Excel-Experte]`.
-> **Anfrage:** Darlehenszinsrechner-Vorlage, die direkt in Excel erstellt wird, ohne Bankseiten besuchen zu müssen.
+**Rolle:** Du bist ein `[Finanz-Excel-Experte]`.
+**Anfrage:** Darlehenszinsrechner-Vorlage, die direkt in Excel erstellt wird, ohne Bankseiten besuchen zu müssen.
 
 <br>
 

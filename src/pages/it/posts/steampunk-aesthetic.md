@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantascienza", "Retro"]
 
 # 📝 Ottone e Vapore: Steampunk
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Un mondo dove l'antichità dell'era vittoriana incontra l'ingegneria meccanica
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt Steampunk, un'immagine futura del XIX secolo dominata da ingranaggi in ottone e macchine a vapore.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt Steampunk, un'immagine futura del XIX secolo dominata da ingranaggi in ottone e macchine a vapore.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Robot owl.`
 
-> (Risultato: Gufo robot fantascientifico bianco ed elegante di ultima generazione)
+(Risultato: Gufo robot fantascientifico bianco ed elegante di ultima generazione)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Steampunk` applicato
 
-> (Risultato: Gufo meccanico antico ma elaborato che brilla di ottone e ingranaggi che girano)
+(Risultato: Gufo meccanico antico ma elaborato che brilla di ottone e ingranaggi che girano)
 
 ---
 

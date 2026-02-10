@@ -11,7 +11,7 @@ tags: ["EnglishConversation", "Roleplay", "Prompt", "Self-development"]
 
 # 📝 Corner Native Speaker Conversation Partner (Free)
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

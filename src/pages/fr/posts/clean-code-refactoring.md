@@ -11,9 +11,9 @@ tags: ["Refactorisation", "CleanCode", "Développeur", "RevisiónCode"]
 
 # 📝 Mon Code est Nul ! Coach de Refactorisation Clean Code
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le code spaghetti (code emmêlé) est l'ennemi des développeurs. Si la lisibili
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Évangéliste du Clean Code et Architecte en Chef]`.
-> **Demande :** Créez un prompt qui met à niveau le code désordonné qui ne fait que fonctionner en code propre 'facile à lire et à maintenir'.
+**Rôle :** Tu es un `[Évangéliste du Clean Code et Architecte en Chef]`.
+**Demande :** Créez un prompt qui met à niveau le code désordonné qui ne fait que fonctionner en code propre 'facile à lire et à maintenir'.
 
 <br>
 

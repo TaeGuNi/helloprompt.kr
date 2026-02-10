@@ -11,9 +11,9 @@ tags: ["FIRE", "RetraiteAnticipée", "LibertéFinancière", "Finance"]
 
 # 📝 Feuille de Route de la Tribu FIRE : Règle des 4 % pour la Retraite Anticipée
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Connaissez-vous la 'Règle des 4 %', principe central de la tribu FIRE ? Théori
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Mentor et Planificateur Financier]` de la communauté de la tribu FIRE.
-> **Demande :** Simulez le temps de réalisation de la tribu FIRE et les actifs nécessaires pour vous qui rêvez de liberté financière.
+**Rôle :** Tu es un `[Mentor et Planificateur Financier]` de la communauté de la tribu FIRE.
+**Demande :** Simulez le temps de réalisation de la tribu FIRE et les actifs nécessaires pour vous qui rêvez de liberté financière.
 
 <br>
 

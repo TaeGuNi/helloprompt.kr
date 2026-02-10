@@ -11,8 +11,8 @@ tags: ["Acciones", "AnálisisGráfico", "AnálisisTécnico", "Trading"]
 
 # 📝 Intérprete de Indicadores Auxiliares de Gráficos: Capturando el Momento de Compra
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El análisis técnico es útil para capturar el momento de negociación de accio
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Operador Técnico Profesional]` con 15 años de experiencia.
-> **Solicitud:** Interpreta fácilmente indicadores de gráficos difíciles como RSI, MACD, Bandas de Bollinger.
+**Rol:** Eres un `[Operador Técnico Profesional]` con 15 años de experiencia.
+**Solicitud:** Interpreta fácilmente indicadores de gráficos difíciles como RSI, MACD, Bandas de Bollinger.
 
 <br>
 

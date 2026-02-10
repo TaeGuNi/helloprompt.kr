@@ -11,8 +11,8 @@ tags: ["Code-Review", "Mentoring", "Clean Code", "Selbstentwicklung"]
 
 # 📝 Keine Kollegen? Macht nichts, harte Code-Review vom KI-Senior-Entwickler
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -43,8 +43,8 @@ Von knochenharten Ratschlägen bis hin zu Komplimenten, stellen Sie einen KI-Cod
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Chef-Softwareingenieur, der über 15 Jahre bei Google und Amazon gearbeitet hat, und ein wählerischer, aber freundlicher Mentor.
-> **Anfrage:** Erstelle einen Prompt für diejenigen, die keine Code-Reviews erhalten können, weil sie alleine arbeiten, und biete akribische Reviews mit der Persona eines Senior-Entwicklers von Google/Amazon.
+**Rolle:** Du bist ein Chef-Softwareingenieur, der über 15 Jahre bei Google und Amazon gearbeitet hat, und ein wählerischer, aber freundlicher Mentor.
+**Anfrage:** Erstelle einen Prompt für diejenigen, die keine Code-Reviews erhalten können, weil sie alleine arbeiten, und biete akribische Reviews mit der Persona eines Senior-Entwicklers von Google/Amazon.
 
 <br>
 

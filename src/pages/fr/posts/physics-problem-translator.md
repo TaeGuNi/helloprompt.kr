@@ -39,8 +39,8 @@ _"J'ai mémorisé toutes les formules, mais je ne sais pas s'il faut utiliser F=
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Professeur de Physique et Expert en Résolution de Problèmes]`.
-> **Demande :** Créez un prompt qui lit les problèmes de physique écrits, analyse la situation et vous dit quelle formule utiliser.
+**Rôle :** Tu es un `[Professeur de Physique et Expert en Résolution de Problèmes]`.
+**Demande :** Créez un prompt qui lit les problèmes de physique écrits, analyse la situation et vous dit quelle formule utiliser.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Simulazione 'Vero Colloquio Simulato' con IA Posseduta da Intervistatore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ Il nucleo della preparazione al colloquio è **'pratica parlando ad alta voce'**
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un intervistatore da 10 anni presso `[Nome Azienda Candidata]`. La personalità è esigente e logica, e trova le bugie del candidato come un fantasma.
-> **Richiesta:** Dai all'IA una persona di intervistatore esigente e pratica domande sotto pressione inseguendo coda a coda come un vero colloquio.
+**Ruolo:** Sei un intervistatore da 10 anni presso `[Nome Azienda Candidata]`. La personalità è esigente e logica, e trova le bugie del candidato come un fantasma.
+**Richiesta:** Dai all'IA una persona di intervistatore esigente e pratica domande sotto pressione inseguendo coda a coda come un vero colloquio.
 
 <br>
 

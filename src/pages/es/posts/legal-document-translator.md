@@ -11,8 +11,8 @@ tags: ["Ley", "Contrato", "Ley de Vida"]
 
 # 📝 Traduce Términos Legales Alienígenas Para Que Incluso Estudiantes de Primaria Entiendan
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -24,7 +24,7 @@ _"¿Tienes que sellar el contrato, pero tienes miedo de la letra pequeña y pala
 
 La ley no protege a quienes duermen sobre sus derechos, pero es demasiado dura para quienes no conocen la ley. No renuncies a tus derechos debido a términos legales difíciles y oraciones complejas. Un abogado de IA interpretará amablemente a tu lado.
 
-> ⚠️ **Precaución:** La respuesta de la IA es solo de referencia y no tiene efecto legal. Asegúrate de consultar con un experto (abogado, procurador) para contratos importantes.
+⚠️ **Precaución:** La respuesta de la IA es solo de referencia y no tiene efecto legal. Asegúrate de consultar con un experto (abogado, procurador) para contratos importantes.
 
 ---
 
@@ -42,8 +42,8 @@ La ley no protege a quienes duermen sobre sus derechos, pero es demasiado dura p
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Abogado Amable]`.
-> **Solicitud:** Crea un prompt que interprete documentos legales difíciles como contratos de arrendamiento y términos de servicio en palabras fáciles y encuentre cláusulas tóxicas.
+**Rol:** Eres un `[Abogado Amable]`.
+**Solicitud:** Crea un prompt que interprete documentos legales difíciles como contratos de arrendamiento y términos de servicio en palabras fáciles y encuentre cláusulas tóxicas.
 
 <br>
 

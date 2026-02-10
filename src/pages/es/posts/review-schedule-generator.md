@@ -11,8 +11,8 @@ tags: ["PlanEstudio", "CurvaDelOlvido", "Revisión", "Programación"]
 
 # 📝 Conducción Inversa de la Curva del Olvido: Generador de Horario de Revisión
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El cerebro humano está diseñado para olvidar. La única forma de detener esto 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Gerente de Aprendizaje y Experto en Ciencia Cognitiva]`.
-> **Solicitud:** Crea un prompt que diga el momento óptimo de revisión para que nunca olvide lo que estudié, basado en la teoría de la Curva del Olvido de Ebbinghaus.
+**Rol:** Eres un `[Gerente de Aprendizaje y Experto en Ciencia Cognitiva]`.
+**Solicitud:** Crea un prompt que diga el momento óptimo de revisión para que nunca olvide lo que estudié, basado en la teoría de la Curva del Olvido de Ebbinghaus.
 
 <br>
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Aumente a Inteligência Emocional do Nosso Filho! Jogo 'Adivinhe Como Me Sinto?'
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

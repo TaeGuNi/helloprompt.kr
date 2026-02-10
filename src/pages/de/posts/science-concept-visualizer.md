@@ -11,8 +11,8 @@ tags: ["Wissenschaftsstudium", "Visualisierung", "Verständnis", "ASCIIKunst"]
 
 # 📝 Unsichtbare Konzepte sichtbar machen: Konzept-Visualisierungs-Helfer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es wird gesagt, dass das menschliche Gehirn Bilder 60.000 Mal schneller verarbei
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Wissenschaftskommunikator und Infografik-Designer]`.
-> **Anfrage:** Erstelle einen Prompt, der abstrakte wissenschaftliche Prinzipien oder mathematische Konzepte mit Textdiagrammen (ASCII-Kunst) und Analogien zeichnet.
+**Rolle:** Du bist ein `[Wissenschaftskommunikator und Infografik-Designer]`.
+**Anfrage:** Erstelle einen Prompt, der abstrakte wissenschaftliche Prinzipien oder mathematische Konzepte mit Textdiagrammen (ASCII-Kunst) und Analogien zeichnet.
 
 <br>
 

@@ -40,8 +40,8 @@ _"Quiero al protagonista claro, y el fondo soñadoramente volado."_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt que haga que el sujeto se destaque desenfocando el fondo y cree orbes de luz emocionales (Bokeh).
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt que haga que el sujeto se destaque desenfocando el fondo y cree orbes de luz emocionales (Bokeh).
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Musician in street night.`
 
-> (Resultado: Foto distractora donde incluso las letras de los letreros en el fondo son visibles, dispersando la mirada)
+(Resultado: Foto distractora donde incluso las letras de los letreros en el fondo son visibles, dispersando la mirada)
 
 ### ✅ Después (Resultado)
 
 Prompt `Bokeh` aplicado
 
-> (Resultado: Toma emocional donde los letreros de neón en el fondo se convierten en hermosos orbes de luz, y la atención se centra completamente en la expresión del músico)
+(Resultado: Toma emocional donde los letreros de neón en el fondo se convierten en hermosos orbes de luz, y la atención se centra completamente en la expresión del músico)
 
 ---
 

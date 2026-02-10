@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Details"]
 
 # 📝 Kleines Universum: Macro Photography
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte die Augen eines Insekts oder die Welt in einem Wassertropfen sehr 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Makro-Aufnahme-Prompt, der winzige Details einfängt, die für das Auge unsichtbar sind.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Makro-Aufnahme-Prompt, der winzige Details einfängt, die für das Auge unsichtbar sind.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Dragonfly eye.`
 
-> (Ergebnis: Allgemeines Foto, auf dem das ganze Libellengesicht sichtbar ist oder bis zum Körper erscheint)
+(Ergebnis: Allgemeines Foto, auf dem das ganze Libellengesicht sichtbar ist oder bis zum Körper erscheint)
 
 ### ✅ Nachher (Ergebnis)
 
 `Macro photography` Prompt angewendet
 
-> (Ergebnis: Wunderbares Bild, auf dem jedes sechseckige Einzelauge der Libelle sichtbar ist und sich Wassertropfen wie Juwelen bilden)
+(Ergebnis: Wunderbares Bild, auf dem jedes sechseckige Einzelauge der Libelle sichtbar ist und sich Wassertropfen wie Juwelen bilden)
 
 ---
 

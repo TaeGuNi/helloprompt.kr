@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 
 # 📝 Light and Shadow: Silhouette & Backlighting
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Samurai in front of moon.`
 
-> (Result: Photo where samurai armor patterns are all visible and lighting enters ambiguously)
+(Result: Photo where samurai armor patterns are all visible and lighting enters ambiguously)
 
 ### ✅ After (Result)
 
 `Silhouette` prompt applied
 
-> (Result: Solemn poster where only the shape of a black swordsman is clearly revealed against a huge red moon)
+(Result: Solemn poster where only the shape of a black swordsman is clearly revealed against a huge red moon)
 
 ---
 

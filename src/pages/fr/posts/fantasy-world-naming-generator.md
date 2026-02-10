@@ -11,9 +11,9 @@ tags: ["Nommage", "Fantaisie", "Roman", "JDR", "Univers"]
 
 # 📝 Nommer une Région/Ville Unique dans un Monde de Fantasy
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'immersion dans un monde de fantasy est déterminée par le **Nommage (Naming)*
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un linguiste ancien et un maître de la création de mondes de fantasy. Tu nommes bien les choses avec une profondeur linguistique comme J.R.R. Tolkien.
-> **Demande :** De la forêt des elfes à la mine des nains, nommez des lieux et des villes s'adaptant parfaitement au monde de fantasy.
+**Rôle :** Tu es un linguiste ancien et un maître de la création de mondes de fantasy. Tu nommes bien les choses avec une profondeur linguistique comme J.R.R. Tolkien.
+**Demande :** De la forêt des elfes à la mine des nains, nommez des lieux et des villes s'adaptant parfaitement au monde de fantasy.
 
 <br>
 

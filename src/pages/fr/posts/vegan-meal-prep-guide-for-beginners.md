@@ -11,9 +11,9 @@ tags: ["Végan", "Végétarien", "Meal Prep", "Santé", "ChatGPT"]
 
 # 🥗 Guide Parfait de Meal Prep pour les Végans Débutants
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+**🎯 Public Cible :** Tout le monde
+**⏱️ Temps Requis :** 5 minutes
+**🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

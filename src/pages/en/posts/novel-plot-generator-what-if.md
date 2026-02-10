@@ -11,7 +11,7 @@ tags: ["NovelWriting", "Plot", "Idea", "Creation"]
 
 # 📝 'What If' Plot Generator to Unblock Writer's Block
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

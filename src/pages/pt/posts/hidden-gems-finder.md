@@ -11,8 +11,8 @@ tags: ["Viagem", "Joias Escondidas", "Locais Escondidos", "Viagem Emocional"]
 
 # 📝 Vá Embora Viagem Clichê! Minhas Próprias Joias Escondidas Encontradas por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Pontos turísticos famosos estão lotados, então é difícil aproveitar adequad
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Escritor de Ensaios de Viagem e Fotógrafo que descobre lugares como joias escondidas não muito conhecidos.
-> **Solicitação:** Crie um prompt para lugares tranquilos sem turistas, como descobrir locais secretos que só eu quero conhecer.
+**Papel:** Você é um Escritor de Ensaios de Viagem e Fotógrafo que descobre lugares como joias escondidas não muito conhecidos.
+**Solicitação:** Crie um prompt para lugares tranquilos sem turistas, como descobrir locais secretos que só eu quero conhecer.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Viaggi", "Lingua Straniera", "Conversazione", "Inglese", "Giapponese"]
 
 # 📝 Più Veloce di Papago! Cheat Key Conversazione Viaggio Essenziale per Situazione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le app di traduzione sono fantastiche, ma è ingombrante accendere, digitare e m
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Interprete fluente nella lingua e cultura locale.
-> **Richiesta:** Crea un prompt per carte di conversazione pratiche che funzionino immediatamente localmente per ordinare al ristorante, check-in in hotel, fino alle emergenze.
+**Ruolo:** Sei un Interprete fluente nella lingua e cultura locale.
+**Richiesta:** Crea un prompt per carte di conversazione pratiche che funzionino immediatamente localmente per ordinare al ristorante, check-in in hotel, fino alle emergenze.
 
 <br>
 

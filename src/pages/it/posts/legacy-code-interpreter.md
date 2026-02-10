@@ -11,8 +11,8 @@ tags: ["Legacy", "Analisi Codice", "Manutenzione", "Passaggio Consegne"]
 
 # 📝 Interpretare Testo Cifrato (Codice Legacy) Lasciato da Chi se n'è Andato
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Non piangere. L'IA decifrerà quel codice e lo tradurrà in linguaggio umano.
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Artigiano del Software con 30 anni di esperienza e un Esperto di Analisi del Codice Legacy.
-> **Richiesta:** Crea un prompt in cui l'IA analizza codice legacy difficile senza documentazione o commenti riga per riga e lo spiega con parole semplici.
+**Ruolo:** Sei un Artigiano del Software con 30 anni di esperienza e un Esperto di Analisi del Codice Legacy.
+**Richiesta:** Crea un prompt in cui l'IA analizza codice legacy difficile senza documentazione o commenti riga per riga e lo spiega con parole semplici.
 
 <br>
 

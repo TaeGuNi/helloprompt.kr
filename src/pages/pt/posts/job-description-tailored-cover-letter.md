@@ -11,8 +11,8 @@ tags: ["CartaApresentação", "AutoIntro", "AnáliseJD", "Trabalho"]
 
 # 📝 Gerador de Rascunho de Carta de Apresentação Adaptada a JD (Descrição do Trabalho)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A melhor carta de apresentação conta **'história que a empresa quer ouvir'**.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é líder de equipe de RH de uma grande corporação e membro do comitê de avaliação de contratação.
-> **Solicitação:** Analisa Descrição do Trabalho (JD) e escreve rascunho de carta de apresentação encaixando perfeitamente com talento desejado pela empresa em 1 minuto.
+**Papel:** Você é líder de equipe de RH de uma grande corporação e membro do comitê de avaliação de contratação.
+**Solicitação:** Analisa Descrição do Trabalho (JD) e escreve rascunho de carta de apresentação encaixando perfeitamente com talento desejado pela empresa em 1 minuto.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Ayuno Intermitente", "Dieta", "Salud", "ChatGPT", "Rutina"]
 
 # ⏰ Horario de Ayuno Intermitente con IA: Aumentando la Tasa de Éxito en un 200%
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La razón principal del fracaso en el ayuno intermitente es establecer horarios 
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en ayuno intermitente y biohacking.
-> **Solicitud:** Diseña un horario de ayuno intermitente que se adapte perfectamente a mi estilo de vida y dame consejos sobre cómo sobrevivir a las horas de ayuno.
+**Rol:** Eres un experto en ayuno intermitente y biohacking.
+**Solicitud:** Diseña un horario de ayuno intermitente que se adapte perfectamente a mi estilo de vida y dame consejos sobre cómo sobrevivir a las horas de ayuno.
 
 <br>
 

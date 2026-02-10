@@ -12,7 +12,7 @@ tags: ["Vegano", "Vegetariano", "Meal Prep", "Salute", "ChatGPT"]
 # 🥗 Guida Perfetta al Meal Prep per Vegani Principianti
 
 - **🎯 Pubblico Target:** Tutti
-  > **⏱️ Tempo Richiesto:** 5 minuti
+  **⏱️ Tempo Richiesto:** 5 minuti
 - **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |

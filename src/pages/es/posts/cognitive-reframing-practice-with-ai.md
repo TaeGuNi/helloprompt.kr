@@ -11,8 +11,8 @@ tags: ["Cuidado Mental", "TCC", "Reencuadre", "Autoafirmación", "ChatGPT"]
 
 # 🔄 ¡Detén los Pensamientos Negativos! Práctica de Reencuadre Cognitivo con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Este patrón de pensamiento se llama 'Distorsión Cognitiva'. Si se convierte en
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en Terapia Cognitivo-Conductual (TCC). Te destacas en 'Reencuadre', que cambia los pensamientos negativos de los clientes en perspectivas saludables.
-> **Solicitud:** Cuando pienso 'Estoy arruinado', la IA interpreta la situación desde una perspectiva diferente y la convierte en energía positiva.
+**Rol:** Eres un experto en Terapia Cognitivo-Conductual (TCC). Te destacas en 'Reencuadre', que cambia los pensamientos negativos de los clientes en perspectivas saludables.
+**Solicitud:** Cuando pienso 'Estoy arruinado', la IA interpreta la situación desde una perspectiva diferente y la convierte en energía positiva.
 
 <br>
 

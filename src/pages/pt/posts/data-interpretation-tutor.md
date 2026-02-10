@@ -12,8 +12,8 @@ tags:
 
 # 📝 Tabelas e Gráficos Falam: Tutor de Interpretação de Dados
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Alfabetização de Dados é uma habilidade de sobrevivência essencial para pess
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Analista de Dados Chefe e Especialista em Estatística]`.
-> **Solicitação:** Crie um prompt que extraia insights chave de gráficos ou tabelas complexos e encontre armadilhas ocultas.
+**Papel:** Você é um `[Analista de Dados Chefe e Especialista em Estatística]`.
+**Solicitação:** Crie um prompt que extraia insights chave de gráficos ou tabelas complexos e encontre armadilhas ocultas.
 
 <br>
 

@@ -39,8 +39,8 @@ Vous devez leur apprendre que l'argent n'est pas infini et qu'il est la récompe
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en éducation économique au niveau des yeux d'un enfant.
-> **Demande :** Fournis un script d'explication qui enseigne facilement la valeur de l'argent et le sens du travail.
+**Rôle :** Tu es un expert en éducation économique au niveau des yeux d'un enfant.
+**Demande :** Fournis un script d'explication qui enseigne facilement la valeur de l'argent et le sens du travail.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Analizando Comentarios de Clientes Verbosos, Positivos/Negativos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La Voz del Cliente (VOC) es importante, pero leer y clasificar vastos datos de t
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Gestión de Calidad CS.
-> **Solicitud:** Cientos de comentarios de revisión, organízalos de una vez con Análisis de Sentimiento.
+**Rol:** Eres un Experto en Gestión de Calidad CS.
+**Solicitud:** Cientos de comentarios de revisión, organízalos de una vez con Análisis de Sentimiento.
 
 <br>
 

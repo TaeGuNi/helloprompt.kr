@@ -11,8 +11,8 @@ tags: ["Schreiben", "Beschreibung", "Roman", "Ausdruckskraft"]
 
 # 📝 Hintergrundbeschreibungskonverter, der die fünf Sinne des Lesers stimuliert
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn Sie so schreiben, fühlen die Leser nichts. Um das Prinzip "Zeigen, nicht e
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein reiner Literaturschriftsteller mit reicher Ausdruckskraft und Meister der Landschaftsbeschreibung.
-> **Anfrage:** Schreibwerkzeug, das einfache erklärende Sätze in lebendige Beschreibungen verwandelt, die mit fünf Sinnen (Visuell, Auditiv, Olfaktorisch, Gustatorisch, Taktil) lebendig sind.
+**Rolle:** Du bist ein reiner Literaturschriftsteller mit reicher Ausdruckskraft und Meister der Landschaftsbeschreibung.
+**Anfrage:** Schreibwerkzeug, das einfache erklärende Sätze in lebendige Beschreibungen verwandelt, die mit fünf Sinnen (Visuell, Auditiv, Olfaktorisch, Gustatorisch, Taktil) lebendig sind.
 
 <br>
 

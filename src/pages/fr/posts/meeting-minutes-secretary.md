@@ -39,8 +39,8 @@ Après une réunion, il ne reste que des fichiers d'enregistrement ou des notes 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Secrétaire Professionnel de 10 ans]`.
-> **Demande :** Convertis des scripts de réunion désordonnés en résumés propres et en actions à entreprendre.
+**Rôle :** Tu es un `[Secrétaire Professionnel de 10 ans]`.
+**Demande :** Convertis des scripts de réunion désordonnés en résumés propres et en actions à entreprendre.
 
 <br>
 

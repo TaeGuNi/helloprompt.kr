@@ -11,8 +11,8 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Produktivität"]
 
 # 💻 Dein kostenloser Coding-Sklave auf dem PC: DeepSeek R1 Installationsanleitung
 
-> **🎯 Empfohlen für:** Entwickler, die Angst haben, Firmencode zu leaken, Studenten, die API-Kosten sparen wollen, Offline-Arbeiter
-> **⏱️ Benötigte Zeit:** 10 Min.
+**🎯 Empfohlen für:** Entwickler, die Angst haben, Firmencode zu leaken, Studenten, die API-Kosten sparen wollen, Offline-Arbeiter
+**⏱️ Benötigte Zeit:** 10 Min.
 
 - **🤖 Empfohlenes Modell:** DeepSeek-R1-Distill-Llama-8B (oder 70B)
 
@@ -86,8 +86,8 @@ Im Terminal zu chatten ist nicht cool. Lass es uns in **VS Code** einbinden und 
 4.  Wähle `DeepSeek R1` als Modell. (Autodetect funktioniert auch)
 5.  Markiere jetzt Code und drücke `Cmd + L` (Win: `Ctrl + L`), um zu fragen.
 
-> **F:** "Refactor diese Funktion."
-> **A:** (DeepSeek spuckt sofort Code aus)
+**F:** "Refactor diese Funktion."
+**A:** (DeepSeek spuckt sofort Code aus)
 
 ---
 

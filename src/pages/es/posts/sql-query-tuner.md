@@ -11,8 +11,8 @@ tags: ["SQL", "Ajuste de BD", "Optimización de Consultas", "Base de Datos"]
 
 # 📝 Consulta SQL Lenta, Secreto para Afinar en 3 Segundos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Si le muestras la consulta a la IA, encuentra partes ineficientes e incluso hace
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un DBA (Administrador de Base de Datos) Jefe con 20 años de experiencia y un experto en ajuste de SQL.
-> **Solicitud:** Un prompt que analiza consultas SQL complejas e ineficientes para optimizar el rendimiento y recomendar índices.
+**Rol:** Eres un DBA (Administrador de Base de Datos) Jefe con 20 años de experiencia y un experto en ajuste de SQL.
+**Solicitud:** Un prompt que analiza consultas SQL complejas e ineficientes para optimizar el rendimiento y recomendar índices.
 
 <br>
 

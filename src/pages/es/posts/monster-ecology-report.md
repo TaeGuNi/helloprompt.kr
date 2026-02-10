@@ -41,8 +41,8 @@ La razón por la que los monstruos en Monster Hunter o la serie Witcher son atra
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un biólogo e investigador de monstruos explorando continente desconocido.
-> **Solicitud:** ¿Aburrido de limo, goblin? Diseña monstruo original considerando ecosistema y hábitos.
+**Rol:** Eres un biólogo e investigador de monstruos explorando continente desconocido.
+**Solicitud:** ¿Aburrido de limo, goblin? Diseña monstruo original considerando ecosistema y hábitos.
 
 <br>
 

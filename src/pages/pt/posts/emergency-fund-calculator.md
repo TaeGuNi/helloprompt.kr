@@ -12,8 +12,8 @@ tags:
 
 # 📝 Cinto de Segurança de Fundo de Emergência: Calculando Meu Próprio Valor Adequado de Fundo de Emergência
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

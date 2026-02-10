@@ -11,9 +11,9 @@ tags: ["Mariage", "Budget", "Noces", "NouveauxMariés"]
 
 # 📝 Excel Budget Mariage : Liste de Contrôle pour Éviter la Bombe des Coûts Supplémentaires
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La préparation du mariage est une série de 'choix' et de 'coûts supplémentai
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Planificateur de Mariage Professionnel]` avec 10 ans d'expérience et conseiller financier.
-> **Demande :** Prédisez et économisez tous les coûts survenant dans le processus de préparation du mariage, du Studio·Robe·Maquillage au trousseau.
+**Rôle :** Tu es un `[Planificateur de Mariage Professionnel]` avec 10 ans d'expérience et conseiller financier.
+**Demande :** Prédisez et économisez tous les coûts survenant dans le processus de préparation du mariage, du Studio·Robe·Maquillage au trousseau.
 
 <br>
 

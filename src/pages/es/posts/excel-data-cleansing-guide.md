@@ -40,8 +40,8 @@ Lo que lleva más tiempo que el análisis de datos es la Limpieza de Datos. Unif
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Procesamiento de Datos de Excel.
-> **Solicitud:** Encontrar métodos de limpieza de datos como separar direcciones, unificar formatos de fecha.
+**Rol:** Eres un Experto en Procesamiento de Datos de Excel.
+**Solicitud:** Encontrar métodos de limpieza de datos como separar direcciones, unificar formatos de fecha.
 
 <br>
 

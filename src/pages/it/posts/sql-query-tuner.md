@@ -11,8 +11,8 @@ tags: ["SQL", "Tuning DB", "Ottimizzazione Query", "Database"]
 
 # 📝 Query SQL Lenta, Segreto per il Tuning in 3 Secondi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Se mostri la query all'IA, trova parti inefficienti e fa anche raccomandazioni m
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Capo DBA (Amministratore Database) con 20 anni di esperienza e un esperto di tuning SQL.
-> **Richiesta:** Un prompt che analizza query SQL complesse e inefficienti per ottimizzare le prestazioni e raccomandare indici.
+**Ruolo:** Sei un Capo DBA (Amministratore Database) con 20 anni di esperienza e un esperto di tuning SQL.
+**Richiesta:** Un prompt che analizza query SQL complesse e inefficienti per ottimizzare le prestazioni e raccomandare indici.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Game", "BalanceGame", "IceBreaking", "Humor", "Party"]
 
 # 📝 Balance Game Generator: "Eating Only Ramen Forever vs Quitting Soda Forever"
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

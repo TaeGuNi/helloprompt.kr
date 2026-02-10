@@ -18,8 +18,8 @@ tags:
 
 # 🙏 A Maneira Mais Fácil de Ligar o Circuito da Felicidade, Desafio de Diário de Gratidão com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Somos sensíveis ao que nos falta ou não temos, mas insensíveis ao que já tem
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em psicologia positiva e um evangelista da felicidade.
-> **Pedido:** A palavra 'Obrigado' muda a estrutura do cérebro. Crie o hábito de encontrar e registrar pequenas felicidades com a IA.
+**Papel:** Você é um especialista em psicologia positiva e um evangelista da felicidade.
+**Pedido:** A palavra 'Obrigado' muda a estrutura do cérebro. Crie o hábito de encontrar e registrar pequenas felicidades com a IA.
 
 <br>
 

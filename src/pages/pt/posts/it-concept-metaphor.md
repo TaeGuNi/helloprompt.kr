@@ -11,8 +11,8 @@ tags: ["BásicoCodificação", "Metáfora", "TermosTI", "ExplicaçãoFácil"]
 
 # 📝 Se API for Comparada a um Restaurante? Máquina de Venda de Metáforas de Conceitos de Codificação
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Termos de desenvolvimento são como linguagem alienígena. Olhar para definiçõ
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Mestre da Metáfora e Instrutor Especialista em TI]`.
-> **Solicitação:** Crie um prompt que explique conceitos de TI abstratos e difíceis comparando-os a objetos ou situações cotidianas para que até alunos do ensino fundamental possam entender.
+**Papel:** Você é um `[Mestre da Metáfora e Instrutor Especialista em TI]`.
+**Solicitação:** Crie um prompt que explique conceitos de TI abstratos e difíceis comparando-os a objetos ou situações cotidianas para que até alunos do ensino fundamental possam entender.
 
 <br>
 

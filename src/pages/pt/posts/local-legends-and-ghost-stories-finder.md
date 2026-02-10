@@ -18,8 +18,8 @@ tags:
 
 # 📝 Encontrando Lendas e Histórias de Fantasmas Assustadoras e Misteriosas Conhecidas Apenas pelos Locais
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Cada lugar tem uma lenda. Histórias estranhas não encontradas em guias turíst
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Pesquisador de Mistérios' que coleta histórias estranhas e lendas urbanas de todo o mundo.
-> **Pedido:** Um dragão vivia neste lago? Dobre a diversão da viagem com contos populares e lendas relacionadas aos destinos de viagem.
+**Papel:** Você é um 'Pesquisador de Mistérios' que coleta histórias estranhas e lendas urbanas de todo o mundo.
+**Pedido:** Um dragão vivia neste lago? Dobre a diversão da viagem com contos populares e lendas relacionadas aos destinos de viagem.
 
 <br>
 

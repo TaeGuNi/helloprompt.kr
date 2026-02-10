@@ -11,15 +11,15 @@ tags: ["PV", "Whisper", "ChatGPT", "Automatisation", "Productivité"]
 
 # 📝 Échappez à l'Enfer des Réunions : Enregistrement vers PV + Email en 3 min
 
-> **🎯 Recommandé pour :** Les juniors qui ont mal aux poignets à force de taper, Les managers qui demandent "Qu'est-ce qu'on a décidé ?"
-> **⏱️ Temps Requis :** 3 min (hors temps d'enregistrement)
-> **🤖 Modèle Recommandé :** OpenAI Whisper (Transcription) + ChatGPT-4o (Résumé)
+**🎯 Recommandé pour :** Les juniors qui ont mal aux poignets à force de taper, Les managers qui demandent "Qu'est-ce qu'on a décidé ?"
+**⏱️ Temps Requis :** 3 min (hors temps d'enregistrement)
+**🤖 Modèle Recommandé :** OpenAI Whisper (Transcription) + ChatGPT-4o (Résumé)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"J'ai tout tapé pendant la réunion, mais j'ai raté l'occasion de parler... et maintenant je ne me souviens de rien en organisant mes notes... Combien de temps dois-je faire ça ?"_
+_"J'ai tout tapé pendant la réunion, mais j'ai raté l'occasion de parler... et maintenant je ne me souviens de rien en organisant mes notes... Combien de temps dois-je faire ça ?"_
 
 Arrêtez d'écrire. Contentez-vous de **'Participer'** à la réunion. L'IA fait mieux l'enregistrement. Voici un processus pour terminer **Enregistrement → STT → Résumé → Envoi d'Email** en utilisant uniquement des outils gratuits.
 
@@ -39,9 +39,9 @@ Arrêtez d'écrire. Contentez-vous de **'Participer'** à la réunion. L'IA fait
 
 Quand vous avez juste besoin de l'essentiel.
 
-> **Rôle :** Tu es un secrétaire compétent.
-> **Demande :** Lis le script de la réunion ci-dessous et résume-le en 3 sections : [Ordre du jour / Décisions / Plans futurs].
-> **Script :** `[Coller le texte ici]`
+**Rôle :** Tu es un secrétaire compétent.
+**Demande :** Lis le script de la réunion ci-dessous et résume-le en 3 sections : [Ordre du jour / Décisions / Plans futurs].
+**Script :** `[Coller le texte ici]`
 
 <br>
 
@@ -82,21 +82,21 @@ Quand vous devez faire un rapport au patron ou envoyer un email à l'équipe.
 
 ### ❌ Avant (Écrit par un Humain)
 
-> Résumé d'aujourd'hui. L'équipe marketing fera 3 ébauches de bannières, l'équipe dév intégration API pour cette semaine... Ah attendez, que faisait l'équipe design ?
+Résumé d'aujourd'hui. L'équipe marketing fera 3 ébauches de bannières, l'équipe dév intégration API pour cette semaine... Ah attendez, que faisait l'équipe design ?
 
 ### ✅ Après (Automatisation IA)
 
-> **[Action Items]**
->
-> | Responsable    | Tâche                        | Date Limite |
-> | :------------- | :--------------------------- | :---------- |
-> | **Mark (Mkt)** | Créer 3 Ébauches de Bannière | 2026-02-10  |
-> | **Lee (Dév)**  | Test API Module de Paiement  | 2026-02-12  |
-> | **Park (Des)** | Réviser Ébauche Guide UX     | 2026-02-11  |
->
-> **[Brouillon d'Email]**
-> Objet : [Partage] Résultats & Action Items de la Réunion Hebdo du 8/02
-> Bonjour l'équipe, Je partage les résultats de la réunion d'aujourd'hui... (suite)
+**[Action Items]**
+
+| Responsable    | Tâche                        | Date Limite |
+| :------------- | :--------------------------- | :---------- |
+| **Mark (Mkt)** | Créer 3 Ébauches de Bannière | 2026-02-10  |
+| **Lee (Dév)**  | Test API Module de Paiement  | 2026-02-12  |
+| **Park (Des)** | Réviser Ébauche Guide UX     | 2026-02-11  |
+
+**[Brouillon d'Email]**
+Objet : [Partage] Résultats & Action Items de la Réunion Hebdo du 8/02
+Bonjour l'équipe, Je partage les résultats de la réunion d'aujourd'hui... (suite)
 
 ---
 

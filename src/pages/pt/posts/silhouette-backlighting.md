@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composição", "Iluminação
 
 # 📝 Luz e Sombra: Silhueta & Luz de Fundo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você não precisa mostrar tudo. Usar **Backlighting** (Luz de Fundo) para torna
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de Luz de Fundo (Silhueta) que enfatiza a beleza formal e a atmosfera processando o assunto de forma escura.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de Luz de Fundo (Silhueta) que enfatiza a beleza formal e a atmosfera processando o assunto de forma escura.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Samurai in front of moon.`
 
-> (Resultado: Foto onde os padrões da armadura samurai são todos visíveis e a iluminação entra de forma ambígua)
+(Resultado: Foto onde os padrões da armadura samurai são todos visíveis e a iluminação entra de forma ambígua)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Silhouette` aplicado
 
-> (Resultado: Pôster solene onde apenas a forma de um espadachim negro é claramente revelada contra uma enorme lua vermelha)
+(Resultado: Pôster solene onde apenas a forma de um espadachim negro é claramente revelada contra uma enorme lua vermelha)
 
 ---
 

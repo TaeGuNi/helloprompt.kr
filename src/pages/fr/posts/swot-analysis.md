@@ -11,9 +11,9 @@ tags: ["Action", "AnalyseEntreprise", "SWOT", "Stratégie"]
 
 # 📝 Standard d'Analyse d'Entreprise : Analyseur SWOT IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'outil le plus basique mais puissant lors de l'analyse d'une entreprise est l'a
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Consultant en Stratégie]` dans un cabinet de conseil en gestion.
-> **Demande :** Saisis les forces, faiblesses, opportunités et menaces de l'entreprise dans laquelle je prévois d'investir en un coup d'œil.
+**Rôle :** Tu es un `[Consultant en Stratégie]` dans un cabinet de conseil en gestion.
+**Demande :** Saisis les forces, faiblesses, opportunités et menaces de l'entreprise dans laquelle je prévois d'investir en un coup d'œil.
 
 <br>
 

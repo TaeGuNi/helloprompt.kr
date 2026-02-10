@@ -39,8 +39,8 @@ Ce qui prend plus de temps que l'analyse des données, c'est le Nettoyage des Do
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Expert en Traitement de Données Excel.
-> **Demande :** Trouver des méthodes de nettoyage de données comme séparer les adresses, unifier les formats de date.
+**Rôle :** Tu es un Expert en Traitement de Données Excel.
+**Demande :** Trouver des méthodes de nettoyage de données comme séparer les adresses, unifier les formats de date.
 
 <br>
 

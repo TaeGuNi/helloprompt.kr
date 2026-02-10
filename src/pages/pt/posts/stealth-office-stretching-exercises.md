@@ -18,8 +18,8 @@ tags:
 
 # 🪑 Alongamento Furtivo no Escritório para Escapar do Pescoço de Texto e Dor nas Costas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Você não pode ir à academia durante o trabalho agitado, mas investir apenas 3
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em correção de postura e um mestre em habilidades sociais.
-> **Pedido:** Apresente uma rotina de 'Alongamento no Escritório' que eu possa fazer no meu lugar sem que meus colegas percebam.
+**Papel:** Você é um especialista em correção de postura e um mestre em habilidades sociais.
+**Pedido:** Apresente uma rotina de 'Alongamento no Escritório' que eu possa fazer no meu lugar sem que meus colegas percebam.
 
 <br>
 

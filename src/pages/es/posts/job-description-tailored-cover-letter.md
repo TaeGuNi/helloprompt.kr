@@ -11,8 +11,8 @@ tags: ["CartaPresentación", "AutoIntro", "AnálisisJD", "Trabajo"]
 
 # 📝 Generador de Borrador de Carta de Presentación Adaptada a JD (Descripción del Trabajo)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La mejor carta de presentación cuenta **'la historia que la empresa quiere escu
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres líder de equipo de RRHH de una gran corporación y miembro del comité de evaluación de contratación.
-> **Solicitud:** Analiza Descripción del Trabajo (JD) y escribe borrador de carta de presentación encajando perfectamente con el talento deseado por la empresa en 1 minuto.
+**Rol:** Eres líder de equipo de RRHH de una gran corporación y miembro del comité de evaluación de contratación.
+**Solicitud:** Analiza Descripción del Trabajo (JD) y escribe borrador de carta de presentación encajando perfectamente con el talento deseado por la empresa en 1 minuto.
 
 <br>
 

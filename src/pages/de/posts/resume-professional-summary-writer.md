@@ -46,8 +46,8 @@ _"Personalvermittler verbringen durchschnittlich 6 Sekunden mit dem Betrachten e
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Personal-Branding-Experte und professioneller Redakteur.
-> **Anfrage:** Schreibe eine kraftvolle 3-5 zeilige professionelle Zusammenfassung, die oben auf den Lebenslauf kommt, um die Screening-Bestehensrate zu erhöhen.
+**Rolle:** Du bist ein Personal-Branding-Experte und professioneller Redakteur.
+**Anfrage:** Schreibe eine kraftvolle 3-5 zeilige professionelle Zusammenfassung, die oben auf den Lebenslauf kommt, um die Screening-Bestehensrate zu erhöhen.
 
 <br>
 

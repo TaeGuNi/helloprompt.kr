@@ -40,8 +40,8 @@ A razão para desistir da matemática muitas vezes não é porque o problema é 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Doutor em Educação Matemática e Tutor Particular Amigável]`.
-> **Solicitação:** Em vez de uma folha de respostas indelicada que apenas diz a resposta correta, explique o processo de pensamento resolvendo-o passo a passo.
+**Papel:** Você é um `[Doutor em Educação Matemática e Tutor Particular Amigável]`.
+**Solicitação:** Em vez de uma folha de respostas indelicada que apenas diz a resposta correta, explique o processo de pensamento resolvendo-o passo a passo.
 
 <br>
 

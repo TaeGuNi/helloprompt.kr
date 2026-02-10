@@ -11,7 +11,7 @@ tags: ["Travel", "Etiquette", "Culture", "Manners"]
 
 # 📝 Big Trouble if You Make a Mistake! AI Country-specific Culture & Etiquette Guide
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

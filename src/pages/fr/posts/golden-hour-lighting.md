@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photographie", "Éclairage"]
 
 # 📝 Moment Magique : Heure Dorée
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Court moment juste après le lever du soleil ou juste avant le coucher du soleil
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Appliquez l'Heure Dorée, le code de triche pour des photos chaleureuses et émotionnelles, au prompt.
+**Rôle :** Tu es un expert.
+**Demande :** Appliquez l'Heure Dorée, le code de triche pour des photos chaleureuses et émotionnelles, au prompt.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Woman in wheat field.`
 
-> (Résultat : Photo d'enregistrement lumineuse et ordinaire en plein jour)
+(Résultat : Photo d'enregistrement lumineuse et ordinaire en plein jour)
 
 ### ✅ Après (Résultat)
 
 Prompt `Golden hour` appliqué
 
-> (Résultat : Photo de vie émotionnelle où le coucher de soleil doré enveloppe et les pointes des cheveux se brisent à la lumière du soleil)
+(Résultat : Photo de vie émotionnelle où le coucher de soleil doré enveloppe et les pointes des cheveux se brisent à la lumière du soleil)
 
 ---
 

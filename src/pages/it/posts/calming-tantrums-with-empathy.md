@@ -19,7 +19,7 @@ tags:
 # 📝 Come sollevare un bambino sdraiato al supermercato in 1 minuto
 
 - **🎯 Pubblico Target:** Tutti
-  > **⏱️ Tempo Richiesto:** 5 minuti
+  **⏱️ Tempo Richiesto:** 5 minuti
 - **🤖 Modello Consigliato:** Tutti i modelli AI
 
 | Difficoltà | Efficacia  |  Utilità  |

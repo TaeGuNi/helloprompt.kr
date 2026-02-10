@@ -40,8 +40,8 @@ _"Los reclutadores pasan promedio 6 segundos viendo un currículum. Debes ganar 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto en marca personal y editor profesional.
-> **Solicitud:** Escribe poderoso Resumen Profesional de 3-5 líneas para ir al principio del currículum para aumentar tasa de aprobación de selección.
+**Rol:** Eres un experto en marca personal y editor profesional.
+**Solicitud:** Escribe poderoso Resumen Profesional de 3-5 líneas para ir al principio del currículum para aumentar tasa de aprobación de selección.
 
 <br>
 

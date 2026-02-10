@@ -12,9 +12,9 @@ tags:
 
 # 📝 Générateur de Questions Attendues pour 'Entretien Technique' par Poste
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ L'entretien de personnalité peut être couvert, mais l'entretien technique ne p
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en chef de 20 ans dans le domaine `[Nom du Poste]`.
-> **Demande :** Extrayez les questions d'entretien technique attendues et les réponses modèles correspondant parfaitement à mon poste et mes années comme développeur, marketeur, designer.
+**Rôle :** Tu es un expert en chef de 20 ans dans le domaine `[Nom du Poste]`.
+**Demande :** Extrayez les questions d'entretien technique attendues et les réponses modèles correspondant parfaitement à mon poste et mes années comme développeur, marketeur, designer.
 
 <br>
 

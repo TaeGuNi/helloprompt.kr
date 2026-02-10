@@ -11,9 +11,9 @@ tags: ["Action", "ConférenceRésultats", "PublicationRésultats", "ActionUS"]
 
 # 📝 Résumé de Conférence téléphonique sur les Résultats en 3 Minutes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La Conférence téléphonique sur les résultats des entreprises américaines es
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Stratège en Investissement Professionnel]` dans un fonds spéculatif de Wall Street.
-> **Demande :** Conférence téléphonique sur les résultats, difficile à écouter car c'est en anglais et trop long, résumez seulement le cœur.
+**Rôle :** Tu es un `[Stratège en Investissement Professionnel]` dans un fonds spéculatif de Wall Street.
+**Demande :** Conférence téléphonique sur les résultats, difficile à écouter car c'est en anglais et trop long, résumez seulement le cœur.
 
 <br>
 

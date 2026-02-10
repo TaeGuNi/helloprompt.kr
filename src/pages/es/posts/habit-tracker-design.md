@@ -11,8 +11,8 @@ tags: ["Hábito", "Rutina", "VidaDivina", "Autodesarrollo"]
 
 # 📝 ¡No Más Rendirse! Diseño de Rastreador de Formación de Hábitos con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El hábito no es voluntad sino configuración del entorno. Aplica el principio d
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Psicólogo Conductual y Experto en Formación de Hábitos. Aconseja basado en la teoría de <Hábitos Atómicos> de James Clear.
-> **Solicitud:** Crea un prompt que cree un sistema de formación de hábitos basado en la ciencia del cerebro sin depender de la fuerza de voluntad.
+**Rol:** Eres un Psicólogo Conductual y Experto en Formación de Hábitos. Aconseja basado en la teoría de <Hábitos Atómicos> de James Clear.
+**Solicitud:** Crea un prompt que cree un sistema de formación de hábitos basado en la ciencia del cerebro sin depender de la fuerza de voluntad.
 
 <br>
 

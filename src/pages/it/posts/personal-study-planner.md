@@ -11,8 +11,8 @@ tags: ["PianoStudio", "Pianificatore", "Motivazione", "GestioneTempo"]
 
 # 📝 Prevenire la Risoluzione di Tre Giorni: Manager di Apprendimento IA 1:1
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La cosa più difficile quando si studia da soli è la gestione dei progressi. Se
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Coordinatore di Esame di Ammissione/Certificazione Severo e Minuzioso]`.
-> **Richiesta:** Crea un piano di studio realistico quando vengono inseriti obiettivo e tempo disponibile, e assumiti la responsabilità della motivazione.
+**Ruolo:** Sei un `[Coordinatore di Esame di Ammissione/Certificazione Severo e Minuzioso]`.
+**Richiesta:** Crea un piano di studio realistico quando vengono inseriti obiettivo e tempo disponibile, e assumiti la responsabilità della motivazione.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Excel", "Datenanalyse", "ChatGPT", "VLOOKUP", "Produktivität"]
 
 # 📊 Excel-Unabhängigkeitserklärung: Kein VLOOKUP mehr
 
-> **🎯 Empfohlen für:** Geisteswissenschaftler, denen von Formeln schwindelig wird, Marketer, die Stunden mit Daten verbringen
-> **⏱️ Benötigte Zeit:** 10 Sekunden
+**🎯 Empfohlen für:** Geisteswissenschaftler, denen von Formeln schwindelig wird, Marketer, die Stunden mit Daten verbringen
+**⏱️ Benötigte Zeit:** 10 Sekunden
 
 - **🤖 Empfohlenes Modell:** ChatGPT-4o (Advanced Data Analysis) oder Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["Excel", "Datenanalyse", "ChatGPT", "VLOOKUP", "Produktivität"]
 | :-----------: | :----------: | :--------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Hey Hans, vergleiche Spalte B und F in diesem Blatt, extrahiere Duplikate und markiere sie rot mit bedingter Formatierung."_
+_"Hey Hans, vergleiche Spalte B und F in diesem Blatt, extrahiere Duplikate und markiere sie rot mit bedingter Formatierung."_
 
 Plötzliche Excel-Mission vom Chef. Googelst du `Excel Duplikate finden`? `VLOOKUP`, `INDEX-MATCH`... wann willst du die alle auswendig lernen? Jetzt wird Excel nicht mehr mit **'Formeln'** gemacht, sondern mit **'Worten'**.
 
@@ -40,9 +40,9 @@ Plötzliche Excel-Mission vom Chef. Googelst du `Excel Duplikate finden`? `VLOOK
 
 Wenn dir der Funktionsname einfach nicht einfällt.
 
-> **Rolle:** Du bist ein Excel-Meister.
-> **Kontext:** Spalte A hat 'Produktname', Spalte B hat 'Preis', Spalte C hat 'Menge'.
-> **Anfrage:** Schreibe eine Formel für Spalte D, um 'Gesamtumsatz (Preis\*Menge)' zu berechnen, und markiere "VIP", wenn über 1000€, sonst "Standard".
+**Rolle:** Du bist ein Excel-Meister.
+**Kontext:** Spalte A hat 'Produktname', Spalte B hat 'Preis', Spalte C hat 'Menge'.
+**Anfrage:** Schreibe eine Formel für Spalte D, um 'Gesamtumsatz (Preis\*Menge)' zu berechnen, und markiere "VIP", wenn über 1000€, sonst "Standard".
 
 <br>
 
@@ -86,11 +86,11 @@ Wenn du komplexe Verarbeitung oder VBA-Makros brauchst.
 
 ### ✅ Nachher (KI-Antwort)
 
-> "Kunde, statt des komplexen VLOOKUP, nutze das moderne `XLOOKUP`. Es ist schneller und fehlerfrei."
->
-> `=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Keine")`
->
-> (Kopieren -> Einfügen -> Pünktlich Feierabend)
+"Kunde, statt des komplexen VLOOKUP, nutze das moderne `XLOOKUP`. Es ist schneller und fehlerfrei."
+
+`=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "Keine")`
+
+(Kopieren -> Einfügen -> Pünktlich Feierabend)
 
 ---
 

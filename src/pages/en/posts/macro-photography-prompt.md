@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 
 # 📝 Small Universe: Macro Photography
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Dragonfly eye.`
 
-> (Result: General photo where the whole dragonfly face is visible or up to the body appears)
+(Result: General photo where the whole dragonfly face is visible or up to the body appears)
 
 ### ✅ After (Result)
 
 `Macro photography` prompt applied
 
-> (Result: Marvelous image where each hexagonal single eye of the dragonfly is visible and water drops form like jewels)
+(Result: Marvelous image where each hexagonal single eye of the dragonfly is visible and water drops form like jewels)
 
 ---
 

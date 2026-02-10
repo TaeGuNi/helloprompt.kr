@@ -11,8 +11,8 @@ tags: ["Datenanalyse", "Statistik", "Grafikinterpretation", "Arbeitsfähigkeit"]
 
 # 📝 Tabellen und Grafiken sprechen: Dateninterpretations-Tutor
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Datenkompetenz ist eine wesentliche Überlebensfähigkeit für moderne Menschen.
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Chef-Datenanalyst und Statistik-Experte]`.
-> **Anfrage:** Erstelle einen Prompt, der wichtige Erkenntnisse aus komplexen Diagrammen oder Grafiken extrahiert und versteckte Fallen findet.
+**Rolle:** Du bist ein `[Chef-Datenanalyst und Statistik-Experte]`.
+**Anfrage:** Erstelle einen Prompt, der wichtige Erkenntnisse aus komplexen Diagrammen oder Grafiken extrahiert und versteckte Fallen findet.
 
 <br>
 

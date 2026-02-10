@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ciencia Ficción", "Retro"]
 
 # 📝 Latón y Vapor: Steampunk
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"Un mundo donde la antigüedad de la era victoriana se encuentra con la ingenie
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt Steampunk, una imagen futura del siglo XIX dominada por engranajes de latón y máquinas de vapor.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt Steampunk, una imagen futura del siglo XIX dominada por engranajes de latón y máquinas de vapor.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Robot owl.`
 
-> (Resultado: Búho robot de ciencia ficción blanco y elegante de última generación)
+(Resultado: Búho robot de ciencia ficción blanco y elegante de última generación)
 
 ### ✅ Después (Resultado)
 
 Prompt `Steampunk` aplicado
 
-> (Resultado: Búho mecánico antiguo pero elaborado brillando con latón y engranajes giratorios)
+(Resultado: Búho mecánico antiguo pero elaborado brillando con latón y engranajes giratorios)
 
 ---
 

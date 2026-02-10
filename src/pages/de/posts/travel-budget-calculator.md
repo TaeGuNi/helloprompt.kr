@@ -11,8 +11,8 @@ tags: ["Reise", "Budget", "Reiseplan", "Ausgaben"]
 
 # 📝 Reisekostenschätzung: Perfekter Plan ohne Budgetüberschreitung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Haben Sie die Erfahrung gemacht, mit dem Gedanken "Ungefähr 2 Millionen KRW wü
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Reiseführer]`, von dem gemunkelt wird, er sei akribisch.
-> **Anfrage:** Von Flugtickets bis zu lokalen Verpflegungskosten, erstelle ein Budget innerhalb von 10% Fehlerbereich unter Berücksichtigung der Preise am Reiseziel.
+**Rolle:** Du bist ein `[Professioneller Reiseführer]`, von dem gemunkelt wird, er sei akribisch.
+**Anfrage:** Von Flugtickets bis zu lokalen Verpflegungskosten, erstelle ein Budget innerhalb von 10% Fehlerbereich unter Berücksichtigung der Preise am Reiseziel.
 
 <br>
 

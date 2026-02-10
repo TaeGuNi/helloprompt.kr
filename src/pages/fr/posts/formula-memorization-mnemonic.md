@@ -11,9 +11,9 @@ tags: ["MéthodeMémorisation", "Mnémonique", "MéthodeÉtude", "Prompt"]
 
 # 📝 Formules Immémorisables, Tatouage sur le Cerveau
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cerveau humain déteste lister des nombres et des symboles sans signification
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Génie Mnémonique et Écrivain Humoristique]`.
-> **Demande :** Créez un prompt qui me fait ne jamais oublier les formules mathématiques et scientifiques complexes avec le storytelling et les Mnémoniques.
+**Rôle :** Tu es un `[Génie Mnémonique et Écrivain Humoristique]`.
+**Demande :** Créez un prompt qui me fait ne jamais oublier les formules mathématiques et scientifiques complexes avec le storytelling et les Mnémoniques.
 
 <br>
 

@@ -39,8 +39,8 @@ On dit que 80 % du temps de développement est consacré au débogage. Les messa
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Génie Chasseur de Bugs et Ingénieur Logiciel]`.
-> **Demande :** Créez un prompt qui trouve l'emplacement du bug et la solution (Fix) si vous lancez un message d'erreur avec une cause inconnue et du code.
+**Rôle :** Tu es un `[Génie Chasseur de Bugs et Ingénieur Logiciel]`.
+**Demande :** Créez un prompt qui trouve l'emplacement du bug et la solution (Fix) si vous lancez un message d'erreur avec une cause inconnue et du code.
 
 <br>
 

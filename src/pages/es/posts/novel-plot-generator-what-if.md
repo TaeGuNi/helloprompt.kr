@@ -11,8 +11,8 @@ tags: ["EscribirNovela", "Trama", "Idea", "Creación"]
 
 # 📝 Generador de Tramas 'Qué Pasaría Si' para Desbloquear el Bloqueo del Escritor
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Al escribir una novela, llega un momento en que te golpeas contra una pared. Odi
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un escritor de novelas web superventas y consultor de tramas creativas.
-> **Solicitud:** Prompt de lluvia de ideas que crea desarrollos ingeniosos con una sola pregunta '¿Qué pasaría si?' cuando la historia está bloqueada.
+**Rol:** Eres un escritor de novelas web superventas y consultor de tramas creativas.
+**Solicitud:** Prompt de lluvia de ideas que crea desarrollos ingeniosos con una sola pregunta '¿Qué pasaría si?' cuando la historia está bloqueada.
 
 <br>
 

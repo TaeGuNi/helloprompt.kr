@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Dominando el Mercado con el Marco de Análisis de Competidores
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La investigación de competidores es desalentadora. No puedes obtener conocimien
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Analista de Investigación de Mercado.
-> **Solicitud:** Crea un prompt que profundice en las fortalezas y debilidades de los competidores y encuentre puntos de referencia.
+**Rol:** Eres un Analista de Investigación de Mercado.
+**Solicitud:** Crea un prompt que profundice en las fortalezas y debilidades de los competidores y encuentre puntos de referencia.
 
 <br>
 

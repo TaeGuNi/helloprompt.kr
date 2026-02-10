@@ -11,7 +11,7 @@ tags: ["Refactoring", "Clean Code", "Maintenance", "Dev Productivity"]
 
 # 📝 Refactor Dirty Code to Clean Code in 1 Second
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

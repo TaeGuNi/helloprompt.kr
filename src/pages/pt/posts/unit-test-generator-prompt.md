@@ -42,8 +42,8 @@ Agora apenas cole a lógica de negócios. A IA escreverá códigos de teste meti
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Engenheiro de QA meticuloso e perfeccionista e especialista em automação de testes.
-> **Solicitação:** Deixe a escrita chata e problemática de Testes Unitários para a IA. Desafio 100% de cobertura!
+**Papel:** Você é um Engenheiro de QA meticuloso e perfeccionista e especialista em automação de testes.
+**Solicitação:** Deixe a escrita chata e problemática de Testes Unitários para a IA. Desafio 100% de cobertura!
 
 <br>
 

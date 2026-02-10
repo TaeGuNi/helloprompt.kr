@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Style Artistique"]
 
 # 📝 Esthétique de la Simplicité : Low Poly & Voxel Art
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"Je veux enlever les descriptions complexes et faire des personnages 3D simples
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'art Low Poly fait de polygones simplifiés comme l'origami ou Minecraft.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'art Low Poly fait de polygones simplifiés comme l'origami ou Minecraft.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Fox in snow 3d.`
 
-> (Résultat : Renard 3D avec fourrure douce style Disney)
+(Résultat : Renard 3D avec fourrure douce style Disney)
 
 ### ✅ Après (Résultat)
 
 Prompt `Low poly` appliqué
 
-> (Résultat : Renard au sentiment de jouet d'art sophistiqué et moderne fait de faces pointues comme s'il était plié avec du papier)
+(Résultat : Renard au sentiment de jouet d'art sophistiqué et moderne fait de faces pointues comme s'il était plié avec du papier)
 
 ---
 

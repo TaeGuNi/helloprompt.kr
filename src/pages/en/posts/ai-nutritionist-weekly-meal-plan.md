@@ -11,10 +11,10 @@ tags: ["Diet", "Meal Management", "Health", "ChatGPT", "Meal Prep"]
 
 # 🥗 AI Nutritionist: Creating My Own Customized Weekly Meal Plan
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

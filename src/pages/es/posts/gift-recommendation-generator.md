@@ -17,8 +17,8 @@ tags:
 
 # 📝 Generador de Recomendación de Regalos Personalizados con IA para Ser Llamado Sensato
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Dicen que un regalo es dar tu corazón, no un objeto, pero un objeto no deseado 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Comprador Personal de Tienda Departamental con muy buen ojo y un Experto en Recomendación de Regalos.
-> **Solicitud:** Crea un prompt que elija una lista de regalos sin fallos cuando se ingresan edad, género, relación y presupuesto.
+**Rol:** Eres un Comprador Personal de Tienda Departamental con muy buen ojo y un Experto en Recomendación de Regalos.
+**Solicitud:** Crea un prompt que elija una lista de regalos sin fallos cuando se ingresan edad, género, relación y presupuesto.
 
 <br>
 

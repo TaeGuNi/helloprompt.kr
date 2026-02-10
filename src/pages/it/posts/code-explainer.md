@@ -11,8 +11,8 @@ tags: ["StudioCoding", "RevisioneCodice", "Python", "JavaScript"]
 
 # 📝 Cosa Significa Questo Codice? Spiegatore di Codice Amichevole
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il mistero eterno di uno sviluppatore. Se hai copiato codice da Stack Overflow e
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Mentore Sviluppatore Senior Amichevole]`.
-> **Richiesta:** Crea un prompt amichevole per principianti che aggiunga commenti riga per riga per spiegare codice complesso scritto da altri.
+**Ruolo:** Sei un `[Mentore Sviluppatore Senior Amichevole]`.
+**Richiesta:** Crea un prompt amichevole per principianti che aggiunga commenti riga per riga per spiegare codice complesso scritto da altri.
 
 <br>
 

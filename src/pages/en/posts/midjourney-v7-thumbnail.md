@@ -11,7 +11,7 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "AIArt"]
 
 # 🎨 Midjourney v7 Practice: 'Blog Thumbnail' Formula for Non-Designers
 
-> **🎯 Recommended for:** Bloggers with great writing but terrible photos, Editors tired of free stock sites
+**🎯 Recommended for:** Bloggers with great writing but terrible photos, Editors tired of free stock sites
 
 - **⏱️ Time Required:** 1 min
 - **🤖 Recommended Model:** Midjourney v7 (or Dall-E 3)
@@ -20,7 +20,7 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "AIArt"]
 | :--------: | :-----------: | :--------: |
 |  ⭐⭐☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-> _"The content is perfect... but why is the cover image so ugly?"_
+_"The content is perfect... but why is the cover image so ugly?"_
 
 80% of blog traffic depends on Title and Thumbnail. Free stock photos (Unsplash) are cliché, and drawing yourself is impossible. Now, ask the **AI Artist**. Here is the formula to create designer-quality illustrations using the 2026 latest **Midjourney v7**.
 

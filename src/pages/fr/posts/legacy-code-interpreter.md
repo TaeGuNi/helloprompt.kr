@@ -11,9 +11,9 @@ tags: ["Héritage", "Analyse de Code", "Maintenance", "Passation"]
 
 # 📝 Interprétation du Texte Chiffré (Code Hérité) Laissé par Celui qui est Parti
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Ne pleurez pas. L'IA déchiffrera ce code et le traduira en langage humain.
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Artisan du Logiciel avec 30 ans d'expérience et un Expert en Analyse de Code Hérité.
-> **Demande :** Crée un prompt où l'IA analyse le code hérité difficile sans documentation ni commentaires ligne par ligne et l'explique avec des mots simples.
+**Rôle :** Tu es un Artisan du Logiciel avec 30 ans d'expérience et un Expert en Analyse de Code Hérité.
+**Demande :** Crée un prompt où l'IA analyse le code hérité difficile sans documentation ni commentaires ligne par ligne et l'explique avec des mots simples.
 
 <br>
 

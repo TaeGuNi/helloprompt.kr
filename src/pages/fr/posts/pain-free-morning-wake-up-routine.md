@@ -11,9 +11,9 @@ tags: ["Réveil", "Miracle Morning", "Habitude", "Sommeil", "ChatGPT"]
 
 # ☀️ Opération Réveil pour Vous qui Ne Pouvez Pas Vous Réveiller Même avec 5 Alarmes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Juste après le réveil, le cerveau est vide à cause de l''inertie du sommeil'.
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un coach matinal qui ouvre une matinée vivante.
-> **Demande :** Vous réveillez-vous comme un zombie chaque matin en criant 'encore 5 minutes' ? Conçois une routine matinale miracle sans douleur par l'IA.
+**Rôle :** Tu es un coach matinal qui ouvre une matinée vivante.
+**Demande :** Vous réveillez-vous comme un zombie chaque matin en criant 'encore 5 minutes' ? Conçois une routine matinale miracle sans douleur par l'IA.
 
 <br>
 

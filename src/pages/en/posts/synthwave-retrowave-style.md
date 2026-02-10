@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 
 # 📝 80s Neon: Synthwave & Retrowave
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Car driving sunset.`
 
-> (Result: Ordinary car advertisement photo)
+(Result: Ordinary car advertisement photo)
 
 ### ✅ After (Result)
 
 `Synthwave` prompt applied
 
-> (Result: Cybernetic image running on a laser floor with purple sky and blazing orange sun)
+(Result: Cybernetic image running on a laser floor with purple sky and blazing orange sun)
 
 ---
 

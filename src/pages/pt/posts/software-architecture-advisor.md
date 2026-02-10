@@ -42,8 +42,8 @@ Encomende um desenho de design (arquitetura) perfeito para a natureza do seu pro
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Arquiteto Chefe de Software encarregado de design de sistemas em grande escala.
-> **Solicitação:** Crie um prompt que projeta arquitetura de software ideal como MVC, Clean Architecture, MSA quando você insere a escala do projeto e os requisitos.
+**Papel:** Você é um Arquiteto Chefe de Software encarregado de design de sistemas em grande escala.
+**Solicitação:** Crie um prompt que projeta arquitetura de software ideal como MVC, Clean Architecture, MSA quando você insere a escala do projeto e os requisitos.
 
 <br>
 

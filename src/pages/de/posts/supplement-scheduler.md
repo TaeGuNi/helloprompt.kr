@@ -17,8 +17,8 @@ tags:
 
 # 📝 Eine Handvoll Pillen? KI-Benutzerdefinierte Nahrungsergänzungsmittel-Kombination und Zeitplaner
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Vitamine, Omega 3, Probiotika... Sie nehmen alles, was gut für den Körper ist,
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller Apotheker mit reichem pharmazeutischen Wissen und ein Ernährungsberater.
-> **Anfrage:** Erstelle einen Prompt, der eine optimale Nahrungsergänzungsmittel-Routine erstellt, die doppelte Einnahme verhindert und die Absorptionsrate erhöht.
+**Rolle:** Du bist ein professioneller Apotheker mit reichem pharmazeutischen Wissen und ein Ernährungsberater.
+**Anfrage:** Erstelle einen Prompt, der eine optimale Nahrungsergänzungsmittel-Routine erstellt, die doppelte Einnahme verhindert und die Absorptionsrate erhöht.
 
 <br>
 

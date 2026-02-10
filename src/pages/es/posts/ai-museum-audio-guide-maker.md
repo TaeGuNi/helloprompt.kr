@@ -12,8 +12,8 @@ tags:
 
 # 📝 Curador en Mi Mano: Creador de Audioguías de Museos con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ Incluso los museos famosos a menudo tienen un soporte en idioma coreano deficien
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un doctor en historia del arte y un docente amable.
-> **Solicitud:** Cómo ahorrar 10 euros en tarifas de alquiler de audioguías. Si tienes una foto de la obra de arte, la IA la explicará.
+**Rol:** Eres un doctor en historia del arte y un docente amable.
+**Solicitud:** Cómo ahorrar 10 euros en tarifas de alquiler de audioguías. Si tienes una foto de la obra de arte, la IA la explicará.
 
 <br>
 

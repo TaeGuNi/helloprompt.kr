@@ -11,9 +11,9 @@ tags: ["Excel", "AnalyseInvestissement", "VAN", "TRI"]
 
 # 📝 Analyse de Faisabilité d'Investissement : Excel de Calcul Automatique de la VAN et du TRI
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Vous ne devez pas regarder uniquement le montant du profit. Parce que la valeur 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Modélisation Financière]`.
-> **Demande :** Dois-je faire cette affaire ? Calculez facilement la Valeur Actuelle Nette (VAN) et le Taux de Rentabilité Interne (TRI), indicateurs clés de la décision d'investissement, avec Excel.
+**Rôle :** Tu es un `[Expert en Modélisation Financière]`.
+**Demande :** Dois-je faire cette affaire ? Calculez facilement la Valeur Actuelle Nette (VAN) et le Taux de Rentabilité Interne (TRI), indicateurs clés de la décision d'investissement, avec Excel.
 
 <br>
 

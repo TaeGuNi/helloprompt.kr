@@ -11,8 +11,8 @@ tags: ["TypeScript", "Zod", "JSON", "Definição de Tipo", "Produtividade"]
 
 # 📝 Apenas Jogue JSON e a Definição de Tipo TypeScript Aparece! (feat. Zod)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -42,8 +42,8 @@ Apenas copie e cole o JSON de resposta da API. Ele cria definições de tipo Typ
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Desenvolvedor Sênior que dominou o ecossistema TypeScript.
-> **Solicitação:** Crie um prompt que converta automaticamente dados JSON complexos em interfaces TypeScript ou esquemas Zod.
+**Papel:** Você é um Desenvolvedor Sênior que dominou o ecossistema TypeScript.
+**Solicitação:** Crie um prompt que converta automaticamente dados JSON complexos em interfaces TypeScript ou esquemas Zod.
 
 <br>
 

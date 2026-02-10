@@ -40,8 +40,8 @@ Não se preocupe. As pessoas não desgostam de alguém que as respeita como um m
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um networker sociável e educado.
-> **Pedido:** Envie uma DM (Mensagem Direta) fria e educada que induza uma resposta quando eu quiser pedir conselhos ou fazer networking com um titular.
+**Papel:** Você é um networker sociável e educado.
+**Pedido:** Envie uma DM (Mensagem Direta) fria e educada que induza uma resposta quando eu quiser pedir conselhos ou fazer networking com um titular.
 
 <br>
 

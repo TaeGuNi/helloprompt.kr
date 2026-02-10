@@ -11,7 +11,7 @@ tags: ["Writing", "Habit", "Challenge", "SelfDevelopment"]
 
 # 📝 Daily Writing Challenge: Auto-Generate 30-Day Writing Topic Calendar
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

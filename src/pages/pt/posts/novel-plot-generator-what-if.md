@@ -11,8 +11,8 @@ tags: ["EscritaRomance", "Enredo", "Ideia", "Criação"]
 
 # 📝 Gerador de Enredo 'E Se' para Desbloquear Bloqueio de Escritor
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Ao escrever um romance, chega um momento em que você bate numa parede. Você od
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um escritor de web novel best-seller e consultor de enredo criativo.
-> **Solicitação:** Prompt de brainstorming que cria desenvolvimentos engenhosos com uma única pergunta 'E Se?' quando a história está bloqueada.
+**Papel:** Você é um escritor de web novel best-seller e consultor de enredo criativo.
+**Solicitação:** Prompt de brainstorming que cria desenvolvimentos engenhosos com uma única pergunta 'E Se?' quando a história está bloqueada.
 
 <br>
 

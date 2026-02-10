@@ -17,8 +17,8 @@ tags:
 
 # 📝 Wie man Lückenjahr im Lebenslauf in 'Stärke' nicht Schwäche verwandelt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Ist diese Frage am furchterregendsten? Lückenjahr ist keine Sünde. Wichtig ist
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein positiver Psychologe und Karriereberater.
-> **Anfrage:** Interpretiert Karriereunterbrechungszeitraum (Lücke) wie Jobvorbereitung, Ruhe, Reisen als bedeutungsvollen Selbstentwicklungs- und Auffrischungszeitraum neu und schmilzt in Anschreiben ein.
+**Rolle:** Du bist ein positiver Psychologe und Karriereberater.
+**Anfrage:** Interpretiert Karriereunterbrechungszeitraum (Lücke) wie Jobvorbereitung, Ruhe, Reisen als bedeutungsvollen Selbstentwicklungs- und Auffrischungszeitraum neu und schmilzt in Anschreiben ein.
 
 <br>
 

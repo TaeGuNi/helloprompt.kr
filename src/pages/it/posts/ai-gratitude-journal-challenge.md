@@ -18,8 +18,8 @@ tags:
 
 # 🙏 Il Modo Più Semplice per Accendere il Circuito della Felicità, Sfida del Diario della Gratitudine IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Siamo sensibili a ciò che ci manca o non abbiamo, ma insensibili a ciò che abb
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto in psicologia positiva ed evangelista della felicità.
-> **Richiesta:** La parola 'Grazie' cambia la struttura del cervello. Crea l'abitudine di trovare e registrare piccole felicità con l'IA.
+**Ruolo:** Sei un esperto in psicologia positiva ed evangelista della felicità.
+**Richiesta:** La parola 'Grazie' cambia la struttura del cervello. Crea l'abitudine di trovare e registrare piccole felicità con l'IA.
 
 <br>
 

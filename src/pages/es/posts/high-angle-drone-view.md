@@ -12,8 +12,8 @@ tags:
 
 # 📝 Mirada de Dios: Ángulo Alto & Vista de Dron
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"Quiero mostrar la estructura de esta ciudad compleja de un vistazo."_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt de Ángulo Alto/Toma de Dron que muestre el terreno general o la disposición desde un punto de vista mirando hacia abajo desde el cielo.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt de Ángulo Alto/Toma de Dron que muestre el terreno general o la disposición desde un punto de vista mirando hacia abajo desde el cielo.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Future eco city.`
 
-> (Resultado: Solo partes de edificios o escenas callejeras son visibles, la estructura general de la ciudad no se puede captar)
+(Resultado: Solo partes de edificios o escenas callejeras son visibles, la estructura general de la ciudad no se puede captar)
 
 ### ✅ Después (Resultado)
 
 Prompt `Drone view` aplicado
 
-> (Resultado: Vista de ojo de pájaro perfecta donde la red de carreteras de la ciudad, la disposición del espacio verde y el horizonte de edificios aparecen a la vista de un vistazo)
+(Resultado: Vista de ojo de pájaro perfecta donde la red de carreteras de la ciudad, la disposición del espacio verde y el horizonte de edificios aparecen a la vista de un vistazo)
 
 ---
 

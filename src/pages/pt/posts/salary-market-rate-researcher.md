@@ -17,8 +17,8 @@ tags:
 
 # 📝 Sou um Tolo? Agente de Pesquisa & Análise de 'Taxa de Mercado'
 
-> **🎯 Recomendado para:** Trabalhadores de Escritório
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Trabalhadores de Escritório
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Modelos Habilitados para Pesquisa Web (ChatGPT Plus, Perplexity)
 
@@ -46,8 +46,8 @@ A arma mais poderosa na negociação salarial são **'Dados Objetivos'**. Se voc
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um analista de remuneração salarial.
-> **Solicitação:** Compara e analisa a faixa salarial média do meu trabalho/anos com base em sites de recrutamento e dados salariais para garantir fundamentos de negociação objetivos.
+**Papel:** Você é um analista de remuneração salarial.
+**Solicitação:** Compara e analisa a faixa salarial média do meu trabalho/anos com base em sites de recrutamento e dados salariais para garantir fundamentos de negociação objetivos.
 
 <br>
 

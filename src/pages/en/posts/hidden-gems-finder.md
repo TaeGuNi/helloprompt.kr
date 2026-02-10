@@ -11,7 +11,7 @@ tags: ["Travel", "Hidden Gems", "Hidden Spots", "Emotional Travel"]
 
 # 📝 Go Away Cliché Travel! My Own Hidden Gems Found by AI
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

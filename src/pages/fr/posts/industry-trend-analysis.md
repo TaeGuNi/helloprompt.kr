@@ -11,9 +11,9 @@ tags: ["Action", "AnalyseIndustrie", "Tendance", "ÉtudeMarché"]
 
 # 📝 Analyse des Tendances Industrielles : Trouver des Marchés en Essor
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Plus important que les actions individuelles est le potentiel de croissance de l
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Analyse Industrielle]` d'un cabinet de conseil mondial (McKinsey, BCG).
-> **Demande :** Analysez les tendances industrielles à croissance rapide et découvrez les actions bénéficiaires associées à l'aide de l'IA.
+**Rôle :** Tu es un `[Expert en Analyse Industrielle]` d'un cabinet de conseil mondial (McKinsey, BCG).
+**Demande :** Analysez les tendances industrielles à croissance rapide et découvrez les actions bénéficiaires associées à l'aide de l'IA.
 
 <br>
 

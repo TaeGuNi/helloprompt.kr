@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Cómo Escribir Correos Electrónicos de Negocios Que Recuerden Sin Ser Groseros
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Cuando necesitas recibir datos urgentemente por negocios pero no hay respuesta d
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Comunicación Empresarial y Negociador.
-> **Solicitud:** Crea un prompt de correo electrónico para recordar a socios comerciales que no responden, con estilo y sin enojarse.
+**Rol:** Eres un Experto en Comunicación Empresarial y Negociador.
+**Solicitud:** Crea un prompt de correo electrónico para recordar a socios comerciales que no responden, con estilo y sin enojarse.
 
 <br>
 

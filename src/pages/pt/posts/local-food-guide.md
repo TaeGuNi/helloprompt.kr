@@ -11,8 +11,8 @@ tags: ["Viagem", "Restaurante", "Mukbang", "Restaurante Local"]
 
 # 📝 Coma Como un Local! Navegador de Comida Local com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A alegria da viagem é gourmet. Mas você não pode arruinar uma refeição prec
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Avaliador do Guia Michelin e Especialista em Comida Local.
-> **Solicitação:** Vá embora restaurantes turísticos. Crie um prompt para como encontrar restaurantes reais onde os locais fazem fila.
+**Papel:** Você é um Avaliador do Guia Michelin e Especialista em Comida Local.
+**Solicitação:** Vá embora restaurantes turísticos. Crie um prompt para como encontrar restaurantes reais onde os locais fazem fila.
 
 <br>
 

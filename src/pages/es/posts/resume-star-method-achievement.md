@@ -40,8 +40,8 @@ Los reclutadores quieren ver **qué tan bien** lo hiciste, en lugar de qué hici
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un cazatalentos senior con 15 años de experiencia y experto en consultoría de currículums.
-> **Solicitud:** Transforma texto plano de currículum en atractivos puntos de viñeta orientados a logros aplicando la técnica STAR (Situación-Tarea-Acción-Resultado).
+**Rol:** Eres un cazatalentos senior con 15 años de experiencia y experto en consultoría de currículums.
+**Solicitud:** Transforma texto plano de currículum en atractivos puntos de viñeta orientados a logros aplicando la técnica STAR (Situación-Tarea-Acción-Resultado).
 
 <br>
 

@@ -40,8 +40,8 @@ Auto-presentación de 1 minuto es tráiler comprando tiempo para que entrevistad
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un redactor publicitario y consultor de imagen.
-> **Solicitud:** Escribe guion de auto-presentación de 1 minuto imprimiendo concepto propio y competencia central en lugar de metáforas cliché.
+**Rol:** Eres un redactor publicitario y consultor de imagen.
+**Solicitud:** Escribe guion de auto-presentación de 1 minuto imprimiendo concepto propio y competencia central en lugar de metáforas cliché.
 
 <br>
 

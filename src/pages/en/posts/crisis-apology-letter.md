@@ -83,7 +83,7 @@ When money or trust is at stake.
 
 ### ❌ Before (Amateur)
 
-> Mr. Smith, snow is too heavy so delivery stopped. It's not my fault... anyway sorry. Will arrive in 3 days.
+Mr. Smith, snow is too heavy so delivery stopped. It's not my fault... anyway sorry. Will arrive in 3 days.
 
 ### ✅ After (Professional AI)
 

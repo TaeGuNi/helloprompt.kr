@@ -96,6 +96,50 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
       }
     }
 
+    // 5. Blockquote Format Check (Prevent > misuse)
+    // Only allow blockquotes in Basic/Pro/Prompt sections to avoid "COPY THIS PROMPT" box spam.
+    const lines = content.split("\n");
+    let currentHeader = "";
+    let blockquoteErrorLine = -1;
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      const headerMatch = line.match(/^#+\s*(.+)$/);
+
+      if (headerMatch) {
+        currentHeader = headerMatch[1].toLowerCase();
+        continue;
+      }
+
+      if (line.startsWith(">")) {
+        const isAllowedSection =
+          currentHeader.includes("basic") ||
+          currentHeader.includes("pro") ||
+          currentHeader.includes("기본") ||
+          currentHeader.includes("전문가") ||
+          currentHeader.includes("prompt") ||
+          currentHeader.includes("프롬프트") ||
+          currentHeader.includes("request") ||
+          currentHeader.includes("role") ||
+          currentHeader.includes("指令") ||
+          currentHeader.includes("提示") ||
+          currentHeader.includes("プロンプト");
+
+        if (!isAllowedSection && !isStaticPage) {
+          blockquoteErrorLine = i + 1;
+          break; // Report only the first error to avoid noise
+        }
+      }
+    }
+
+    if (blockquoteErrorLine !== -1) {
+      issues.push({
+        code: "FORMAT_BLOCKQUOTE_MISUSE",
+        message: `Invalid blockquote (>) usage at line ${blockquoteErrorLine}. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.`,
+        severity: "warning",
+      });
+    }
+
     return {
       path: filePath,
       passed: !issues.some((i) => i.severity === "error"),

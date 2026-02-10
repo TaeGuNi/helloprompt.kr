@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Entwurf eines Newsletters, der Abonnenten ruft
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Newsletter oder interne Bulletins, die regelmäßig veröffentlicht werden müss
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein sensibler Newsletter-Redakteur.
-> **Anfrage:** Werfen Sie einfach ein Thema hin und es erstellt Titel, Körper und Kuration sofort.
+**Rolle:** Du bist ein sensibler Newsletter-Redakteur.
+**Anfrage:** Werfen Sie einfach ein Thema hin und es erstellt Titel, Körper und Kuration sofort.
 
 <br>
 

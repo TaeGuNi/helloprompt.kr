@@ -11,8 +11,8 @@ tags: ["API", "Documentazione", "Swagger", "OpenAPI", "Backend"]
 
 # 📝 Documentazione API Fastidiosa, Swagger Spunta Fuori con Solo Codice
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -43,8 +43,8 @@ Ora copia e incolla semplicemente il codice del controller. L'IA lo convertirà 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore tecnico meticoloso e sviluppatore backend.
-> **Richiesta:** Un prompt che converte automaticamente il codice API in specifiche OpenAPI (Swagger) o documenti Markdown quando lo incolli.
+**Ruolo:** Sei uno scrittore tecnico meticoloso e sviluppatore backend.
+**Richiesta:** Un prompt che converte automaticamente il codice API in specifiche OpenAPI (Swagger) o documenti Markdown quando lo incolli.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Dedução", "Mistério", "Truque", "Romance", "Cenário"]
 
 # 📝 Jogo de Dedução de Mistério: Geração de Culpado e Truque
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Núcleo do mistério é 'Como' e 'Por quê'. Especialmente processo de quebrar t
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um escritor de mistério com cérebros de Agatha Christie e Keigo Higashino.
-> **Solicitação:** IA projeta truques de quarto fechado engenhosos e álibis que fazem Conan e Kindaichi chorar.
+**Papel:** Você é um escritor de mistério com cérebros de Agatha Christie e Keigo Higashino.
+**Solicitação:** IA projeta truques de quarto fechado engenhosos e álibis que fazem Conan e Kindaichi chorar.
 
 <br>
 

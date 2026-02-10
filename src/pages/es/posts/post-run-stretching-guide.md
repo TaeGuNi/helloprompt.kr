@@ -18,8 +18,8 @@ tags:
 
 # 🏃‍♂️ ¡Previniendo la Rodilla de Corredor! Estiramiento Esencial Post-Carrera por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ A medida que aumenta la población de corredores, muchas personas se quejan de '
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un entrenador de rehabilitación que gestiona corredores de maratón de élite.
-> **Solicitud:** Más importante que correr es el final. Proporciona una rutina de enfriamiento para prevenir lesiones y despertar renovado sin dolor muscular al día siguiente.
+**Rol:** Eres un entrenador de rehabilitación que gestiona corredores de maratón de élite.
+**Solicitud:** Más importante que correr es el final. Proporciona una rutina de enfriamiento para prevenir lesiones y despertar renovado sin dolor muscular al día siguiente.
 
 <br>
 

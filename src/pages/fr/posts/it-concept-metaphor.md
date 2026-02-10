@@ -11,9 +11,9 @@ tags: ["BasesCodage", "Métaphore", "TermesIT", "ExplicationFacile"]
 
 # 📝 Si l'API est Comparée à un Restaurant ? Distributeur de Métaphores de Concepts de Codage
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Les termes de développement sont comme une langue étrangère. Regarder les dé
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Maître de la Métaphore et Instructeur Spécialiste IT]`.
-> **Demande :** Créez un prompt qui explique des concepts informatiques abstraits et difficiles en les comparant à des objets ou situations du quotidien pour que même les élèves du primaire puissent comprendre.
+**Rôle :** Tu es un `[Maître de la Métaphore et Instructeur Spécialiste IT]`.
+**Demande :** Créez un prompt qui explique des concepts informatiques abstraits et difficiles en les comparant à des objets ou situations du quotidien pour que même les élèves du primaire puissent comprendre.
 
 <br>
 

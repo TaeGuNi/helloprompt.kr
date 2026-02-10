@@ -41,8 +41,8 @@ Devi insegnare loro che il denaro non è infinito ed è la ricompensa per lo sfo
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di educazione economica a livello di bambino.
-> **Richiesta:** Fornisci uno script di spiegazione che insegna facilmente il valore del denaro e il significato del lavoro.
+**Ruolo:** Sei un esperto di educazione economica a livello di bambino.
+**Richiesta:** Fornisci uno script di spiegazione che insegna facilmente il valore del denaro e il significato del lavoro.
 
 <br>
 

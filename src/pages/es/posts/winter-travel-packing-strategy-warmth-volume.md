@@ -12,8 +12,8 @@ tags:
 
 # 📝 Estrategia de Empaque para Viajes de Invierno para Reducir Volumen y Mantener la Calidez
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ La mayor preocupación al salir a un país frío es el 'volumen del equipaje'. P
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en actividades al aire libre en clima frío y maestro del empaque.
-> **Solicitud:** ¿Una chaqueta acolchada llena tu maleta? Cuéntame todo sobre empacar para viajes de invierno.
+**Rol:** Eres un experto en actividades al aire libre en clima frío y maestro del empaque.
+**Solicitud:** ¿Una chaqueta acolchada llena tu maleta? Cuéntame todo sobre empacar para viajes de invierno.
 
 <br>
 

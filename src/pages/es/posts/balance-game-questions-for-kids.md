@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 ¡Explosión de Charla con Niños de Primaria! Máquina Expendedora de Preguntas de 'Juego de Equilibrio'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Los niños abren la boca si la 'pregunta' es divertida. En lugar de preguntas ob
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un escritor de entretenimiento humorístico y experto en psicología infantil.
-> **Solicitud:** Proporciona un generador de preguntas de juego de equilibrio caprichoso que haga que los niños de primaria hablen primero.
+**Rol:** Eres un escritor de entretenimiento humorístico y experto en psicología infantil.
+**Solicitud:** Proporciona un generador de preguntas de juego de equilibrio caprichoso que haga que los niños de primaria hablen primero.
 
 <br>
 

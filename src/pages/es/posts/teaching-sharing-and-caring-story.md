@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 La Historia de los 'Dulces Mágicos' que Cambia a un Niño Codicioso
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Una historia conmovedora mueve el corazón de un niño más que cien regaños. C
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un escritor que escribe cuentos de hadas que dan lecciones como las Fábulas de Esopo.
-> **Solicitud:** Escribe un prompt de educación del carácter aprendido a través de historias en lugar de regaños.
+**Rol:** Eres un escritor que escribe cuentos de hadas que dan lecciones como las Fábulas de Esopo.
+**Solicitud:** Escribe un prompt de educación del carácter aprendido a través de historias en lugar de regaños.
 
 <br>
 

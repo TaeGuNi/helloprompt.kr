@@ -11,8 +11,8 @@ tags: ["Mentale Pflege", "CBT", "Reframing", "Selbstbestätigung", "ChatGPT"]
 
 # 🔄 Negative Gedanken stoppen! Kognitive Umstrukturierungsübung mit KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Dieses Denkmuster wird als 'Kognitive Verzerrung' bezeichnet. Wenn es zur Gewohn
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Kognitive Verhaltenstherapie (CBT). Du zeichnest dich durch 'Reframing' aus, das negative Gedanken von Klienten in gesunde Perspektiven verwandelt.
-> **Anfrage:** Wenn ich denke 'Ich bin ruiniert', interpretiere die Situation aus einer anderen Perspektive und verwandle sie in positive Energie.
+**Rolle:** Du bist ein Experte für Kognitive Verhaltenstherapie (CBT). Du zeichnest dich durch 'Reframing' aus, das negative Gedanken von Klienten in gesunde Perspektiven verwandelt.
+**Anfrage:** Wenn ich denke 'Ich bin ruiniert', interpretiere die Situation aus einer anderen Perspektive und verwandle sie in positive Energie.
 
 <br>
 

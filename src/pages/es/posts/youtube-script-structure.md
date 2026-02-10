@@ -11,8 +11,8 @@ tags: ["YouTube", "Guion", "Producción de Video"]
 
 # 📝 Secreto de Estructuración de Guiones de YouTube para Vistas Altas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Para ser elegido por el algoritmo de YouTube, el 'tiempo de retención' es lo m�
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[PD Exclusivo de YouTuber de 1 Millón]`.
-> **Solicitud:** Crea un prompt que estructure un guion de video de YouTube para evitar el abandono en los primeros 5 segundos y hacer que la gente mire hasta el final.
+**Rol:** Eres un `[PD Exclusivo de YouTuber de 1 Millón]`.
+**Solicitud:** Crea un prompt que estructure un guion de video de YouTube para evitar el abandono en los primeros 5 segundos y hacer que la gente mire hasta el final.
 
 <br>
 

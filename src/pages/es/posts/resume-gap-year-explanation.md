@@ -17,8 +17,8 @@ tags:
 
 # 📝 Cómo Convertir Año Sabático de Currículum en 'Fortaleza' no Debilidad
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ _"¿Qué hiciste durante la brecha?"_
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un psicólogo positivo y consultor de carrera.
-> **Solicitud:** Reinterpreta período de interrupción de carrera (Brecha) como preparación de trabajo, descanso, viaje como período significativo de autodesarrollo y recarga y derrite en carta de presentación.
+**Rol:** Eres un psicólogo positivo y consultor de carrera.
+**Solicitud:** Reinterpreta período de interrupción de carrera (Brecha) como preparación de trabajo, descanso, viaje como período significativo de autodesarrollo y recarga y derrite en carta de presentación.
 
 <br>
 

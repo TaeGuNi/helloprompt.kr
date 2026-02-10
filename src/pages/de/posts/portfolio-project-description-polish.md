@@ -41,8 +41,8 @@ Wert des Projekts liegt in **'welches Problem gelöst wurde'**. Einfach Funktion
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Senior Tech Lead und Personalvermittler in einem IT-Unternehmen.
-> **Anfrage:** Verfeinert Projektbeschreibung in Storytelling-Format, damit Problemlösungsprozess und Beitrag hervorstechen, anstatt einfacher Projektlistung.
+**Rolle:** Du bist ein Senior Tech Lead und Personalvermittler in einem IT-Unternehmen.
+**Anfrage:** Verfeinert Projektbeschreibung in Storytelling-Format, damit Problemlösungsprozess und Beitrag hervorstechen, anstatt einfacher Projektlistung.
 
 <br>
 

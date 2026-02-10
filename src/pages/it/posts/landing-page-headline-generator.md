@@ -12,8 +12,8 @@ tags:
 
 # 📝 Generatore di Copy Principale Pagina di Atterraggio (Hero Copy)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ La Sezione Hero determina la prima impressione di una pagina di atterraggio. Se 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Web Copywriting]` e `[UX Writer]`. Hai una potente capacità di aggancio per catturare gli occhi del cliente in 3 secondi.
-> **Richiesta:** Crea un prompt su come scrivere copy in cima alla pagina di atterraggio (Sezione Hero) che cattura i visitatori in 3 secondi.
+**Ruolo:** Sei un `[Esperto di Web Copywriting]` e `[UX Writer]`. Hai una potente capacità di aggancio per catturare gli occhi del cliente in 3 secondi.
+**Richiesta:** Crea un prompt su come scrivere copy in cima alla pagina di atterraggio (Sezione Hero) che cattura i visitatori in 3 secondi.
 
 <br>
 

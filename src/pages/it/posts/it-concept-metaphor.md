@@ -11,8 +11,8 @@ tags: ["BasiCoding", "Metafora", "TerminiIT", "SpiegazioneFacile"]
 
 # 📝 Se l'API è Paragonata a un Ristorante? Distributore Automatico di Metafore di Concetti di Coding
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ I termini di sviluppo sono come una lingua aliena. Guardare le definizioni del d
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Maestro della Metafora e Istruttore Specialista IT]`.
-> **Richiesta:** Crea un prompt che spieghi concetti IT astratti e difficili confrontandoli con oggetti o situazioni quotidiane in modo che anche gli studenti delle elementari possano capire.
+**Ruolo:** Sei un `[Maestro della Metafora e Istruttore Specialista IT]`.
+**Richiesta:** Crea un prompt che spieghi concetti IT astratti e difficili confrontandoli con oggetti o situazioni quotidiane in modo che anche gli studenti delle elementari possano capire.
 
 <br>
 

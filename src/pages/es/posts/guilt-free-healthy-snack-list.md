@@ -11,8 +11,8 @@ tags: ["Bocadillo de Dieta", "Salud", "Receta", "ChatGPT", "Bocadillo"]
 
 # 🍪 Lista de Bocadillos Saludables Sin Culpa Recomendada por IA para Prevenir Atracones
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El mayor enemigo de la dieta es 'soportar'. Si soportas incondicionalmente, even
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un gourmet de postres e investigador de alimentos saludables. Tienes un gusto exigente que 'nunca come nada insípido'.
-> **Solicitud:** Hambre falsa que llega a las 3 PM. Genera infinitas ideas de bocadillos saludables que no te hacen subir de peso pero alivian el estrés.
+**Rol:** Eres un gourmet de postres e investigador de alimentos saludables. Tienes un gusto exigente que 'nunca come nada insípido'.
+**Solicitud:** Hambre falsa que llega a las 3 PM. Genera infinitas ideas de bocadillos saludables que no te hacen subir de peso pero alivian el estrés.
 
 <br>
 

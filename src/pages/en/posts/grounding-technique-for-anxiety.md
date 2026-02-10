@@ -18,10 +18,10 @@ tags:
 
 # ⚓ Grounding Technique (5-4-3-2-1) Guided by AI When Your Heart Pounds
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

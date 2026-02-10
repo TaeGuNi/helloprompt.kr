@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Como Escrever E-mails de Negócios Que Lembram Sem Ser Rude
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Quando você precisa urgentemente receber dados para negócios, mas não há res
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Comunicação Empresarial e Negociador.
-> **Solicitação:** Crie um prompt de e-mail para lembrar parceiros de negócios que não respondem, com estilo e sem ficar com raiva.
+**Papel:** Você é um Especialista em Comunicação Empresarial e Negociador.
+**Solicitação:** Crie um prompt de e-mail para lembrar parceiros de negócios que não respondem, com estilo e sem ficar com raiva.
 
 <br>
 

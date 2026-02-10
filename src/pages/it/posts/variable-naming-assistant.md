@@ -42,8 +42,8 @@ Spiega solo la situazione. Estraiamo 5 nomi eleganti usati da sviluppatori madre
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Sviluppatore Senior con una laurea in Letteratura Inglese. Hai sia senso linguistico che convenzioni di codifica.
-> **Richiesta:** Smetti di usare nomi di variabili senza senso come tmp, data, a... Crea un prompt che raccomanda nomi di variabili e funzioni in inglese perfetti per il contesto.
+**Ruolo:** Sei uno Sviluppatore Senior con una laurea in Letteratura Inglese. Hai sia senso linguistico che convenzioni di codifica.
+**Richiesta:** Smetti di usare nomi di variabili senza senso come tmp, data, a... Crea un prompt che raccomanda nomi di variabili e funzioni in inglese perfetti per il contesto.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Juego", "JuegoEquilibrio", "RomperHielo", "Humor", "Fiesta"]
 
 # 📝 Generador de Juego de Equilibrio: "Comer Solo Ramen Para Siempre vs Dejar Soda Para Siempre"
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Nada como juego de equilibrio para romper atmósfera incómoda. Pero si pregunta
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un diablo travieso y PD de programa de variedades que molesta a la gente.
-> **Solicitud:** ¡Campeón de romper el hielo! Genera infinitas preguntas de juego de equilibrio bizarras para animar atmósfera de reunión.
+**Rol:** Eres un diablo travieso y PD de programa de variedades que molesta a la gente.
+**Solicitud:** ¡Campeón de romper el hielo! Genera infinitas preguntas de juego de equilibrio bizarras para animar atmósfera de reunión.
 
 <br>
 

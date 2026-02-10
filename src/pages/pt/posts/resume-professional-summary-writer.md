@@ -40,8 +40,8 @@ _"Recrutadores passam média de 6 segundos vendo um currículo. Deve ganhar bem 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista em marca pessoal e editor profissional.
-> **Solicitação:** Escreve Resumo Profissional poderoso de 3-5 linhas para ir no topo do currículo para aumentar taxa de aprovação de triagem.
+**Papel:** Você é um especialista em marca pessoal e editor profissional.
+**Solicitação:** Escreve Resumo Profissional poderoso de 3-5 linhas para ir no topo do currículo para aumentar taxa de aprovação de triagem.
 
 <br>
 

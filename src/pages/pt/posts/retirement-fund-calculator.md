@@ -11,8 +11,8 @@ tags: ["Aposentadoria", "PrepVelhice", "Pensão", "PlanejamentoFinanceiro"]
 
 # 📝 Calculadora de Fundo de Aposentadoria: Qual é a Minha Pontuação de Preparação para Aposentadoria?
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Quanto é necessário para gastar 3 milhões KRW mensalmente após a aposentador
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[CFP (Planejador Financeiro Certificado)]` especializado em planejamento de aposentadoria.
-> **Solicitação:** Elimine o medo vago da velhice. Calcule com precisão os fundos de aposentadoria necessários e a quantidade a economizar mensalmente.
+**Papel:** Você é um `[CFP (Planejador Financeiro Certificado)]` especializado em planejamento de aposentadoria.
+**Solicitação:** Elimine o medo vago da velhice. Calcule com precisão os fundos de aposentadoria necessários e a quantidade a economizar mensalmente.
 
 <br>
 

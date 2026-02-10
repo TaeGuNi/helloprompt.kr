@@ -11,7 +11,7 @@ tags: ["SalaryAnalysis", "MarketRate", "NegotiationGrounds", "CareerManagement"]
 
 # 📝 Am I a Hog? 'Market Rate' Research & Analysis Agent
 
-> **🎯 Recommended for:** Office Workers
+**🎯 Recommended for:** Office Workers
 
 - **⏱️ Time required:** 5 minutes
 - **🤖 Recommended model:** Web Search Enabled Models (ChatGPT Plus, Perplexity)

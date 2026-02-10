@@ -11,8 +11,8 @@ tags: ["Kunstmuseum", "Galerie", "Kunstbetrachtung", "Geschmack finden"]
 
 # 📝 Kunstgalerie-/Galerie-Besuchsführer für Anfänger, um elegant zu genießen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Eine wunderbare Galerie, die man am Reiseziel trifft. Wenn Sie hineingehen möch
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Kunsttherapeut', der die Gedanken von Menschen durch Kunst liest.
-> **Anfrage:** Ist moderne Kunst schwierig? Gib mir einen Wertschätzungs-Prompt für Anfänger, der die Schwelle der Galerie senkt.
+**Rolle:** Du bist ein 'Kunsttherapeut', der die Gedanken von Menschen durch Kunst liest.
+**Anfrage:** Ist moderne Kunst schwierig? Gib mir einen Wertschätzungs-Prompt für Anfänger, der die Schwelle der Galerie senkt.
 
 <br>
 

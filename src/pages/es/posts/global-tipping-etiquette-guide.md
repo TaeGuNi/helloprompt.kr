@@ -46,8 +46,8 @@ Un mundo de propinas donde dar muy poco es de mala educación y dar demasiado te
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres una 'Guía de Viaje Inteligente' que conoce los precios y modales de viaje globales al dedillo.
-> **Solicitud:** ¿EE.UU. 20%? ¿Japón 0? La IA aclara la confusa e incómoda cultura de las propinas.
+**Rol:** Eres una 'Guía de Viaje Inteligente' que conoce los precios y modales de viaje globales al dedillo.
+**Solicitud:** ¿EE.UU. 20%? ¿Japón 0? La IA aclara la confusa e incómoda cultura de las propinas.
 
 <br>
 

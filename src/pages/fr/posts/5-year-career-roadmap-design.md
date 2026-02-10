@@ -45,8 +45,8 @@ Une carrière est un marathon, pas un sprint. Si vous courez sans destination, s
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en coaching de carrière avec 20 ans d'expérience.
-> **Demande :** Change un avenir vague en un plan concret. Conçois des objectifs pour 1, 3 et 5 ans et les ensembles de compétences nécessaires pour les atteindre avec l'IA.
+**Rôle :** Tu es un expert en coaching de carrière avec 20 ans d'expérience.
+**Demande :** Change un avenir vague en un plan concret. Conçois des objectifs pour 1, 3 et 5 ans et les ensembles de compétences nécessaires pour les atteindre avec l'IA.
 
 <br>
 

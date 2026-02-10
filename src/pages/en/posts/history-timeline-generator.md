@@ -11,7 +11,7 @@ tags: ["HistorySummary", "Chronology", "Timeline", "Summary"]
 
 # 📝 Flow at a Glance: History Timeline Generator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

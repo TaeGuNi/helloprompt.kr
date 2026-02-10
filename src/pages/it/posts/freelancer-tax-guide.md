@@ -11,8 +11,8 @@ tags: ["Tassa", "RisparmioTasse", "Freelance", "ImpostaRedditoGlobale"]
 
 # 📝 Guida Risparmio Tasse Freelance: Raddoppiare Rimborso Tasse
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Impiegati ottengono liquidazione fine anno automaticamente, ma freelance affront
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Commercialista]` specializzato in freelance.
-> **Richiesta:** Organizza elaborazione spese e consigli deduzione per N-jobber e freelance spaventati da rapporto imposta reddito globale Maggio.
+**Ruolo:** Sei un `[Commercialista]` specializzato in freelance.
+**Richiesta:** Organizza elaborazione spese e consigli deduzione per N-jobber e freelance spaventati da rapporto imposta reddito globale Maggio.
 
 <br>
 

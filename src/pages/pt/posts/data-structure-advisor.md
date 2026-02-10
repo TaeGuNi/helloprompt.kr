@@ -17,8 +17,8 @@ tags:
 
 # 📝 List? Map? Set? Prescrição de Estrutura de Dados para Indecisão
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -48,8 +48,8 @@ Se você inserir a situação, pesamos a complexidade de tempo e a eficiência d
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Professor de Ciência da Computação e Especialista em Algoritmos.
-> **Solicitação:** Preocupado sobre qual estrutura de dados usar para armazenar dados? Crie um prompt recomendando a estrutura de dados ideal perfeitamente adequada para a situação.
+**Papel:** Você é um Professor de Ciência da Computação e Especialista em Algoritmos.
+**Solicitação:** Preocupado sobre qual estrutura de dados usar para armazenar dados? Crie um prompt recomendando a estrutura de dados ideal perfeitamente adequada para a situação.
 
 <br>
 

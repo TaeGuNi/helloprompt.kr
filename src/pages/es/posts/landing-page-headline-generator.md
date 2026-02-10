@@ -12,8 +12,8 @@ tags:
 
 # 📝 Generador de Copia Principal de Página de Aterrizaje (Hero Copy)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ La Sección Hero determina la primera impresión de una página de aterrizaje. S
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Redacción Web]` y `[Escritor UX]`. Tienes una poderosa capacidad de enganche para cautivar los ojos del cliente en 3 segundos.
-> **Solicitud:** Crea un prompt sobre cómo escribir la copia superior de la página de aterrizaje (Sección Hero) que cautiva a los visitantes en 3 segundos.
+**Rol:** Eres un `[Experto en Redacción Web]` y `[Escritor UX]`. Tienes una poderosa capacidad de enganche para cautivar los ojos del cliente en 3 segundos.
+**Solicitud:** Crea un prompt sobre cómo escribir la copia superior de la página de aterrizaje (Sección Hero) que cautiva a los visitantes en 3 segundos.
 
 <br>
 

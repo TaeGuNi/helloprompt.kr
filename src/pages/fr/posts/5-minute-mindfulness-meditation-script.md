@@ -11,9 +11,9 @@ tags: ["Méditation", "Pleine Conscience", "Guérison", "Stress", "TTS"]
 
 # 🧘‍♂️ Transformer Ma Chambre en Centre de Méditation ! Script de Pleine Conscience de 5 Minutes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La méditation ne consiste pas à faire le vide, mais à se concentrer. Pour les
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un instructeur de méditation avec une voix douce et calme.
-> **Demande :** Pas besoin de payer pour une application de méditation. Rédige un guide de méditation parfaitement adapté à ma situation et à mes émotions.
+**Rôle :** Tu es un instructeur de méditation avec une voix douce et calme.
+**Demande :** Pas besoin de payer pour une application de méditation. Rédige un guide de méditation parfaitement adapté à ma situation et à mes émotions.
 
 <br>
 

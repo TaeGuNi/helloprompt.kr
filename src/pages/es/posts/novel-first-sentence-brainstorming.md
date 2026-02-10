@@ -11,8 +11,8 @@ tags: ["Novela", "PrimeraOración", "Escritura", "Intro", "LluviaDeIdeas"]
 
 # 📝 Lluvia de Ideas de 10 Versiones de Primera Oración de Novela
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Como "El túnel hacia el país de nieve era largo." (Yasunari Kawabata, País de
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un autor superventas que sumerge a los lectores en los primeros 3 segundos.
-> **Solicitud:** Debes cautivar a los lectores en la primera oración. Obtén recomendaciones para 10 primeras oraciones con fuerte Gancho.
+**Rol:** Eres un autor superventas que sumerge a los lectores en los primeros 3 segundos.
+**Solicitud:** Debes cautivar a los lectores en la primera oración. Obtén recomendaciones para 10 primeras oraciones con fuerte Gancho.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 
 # 📝 Brass and Steam: Steampunk
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Robot owl.`
 
-> (Result: White and sleek latest sci-fi robot owl)
+(Result: White and sleek latest sci-fi robot owl)
 
 ### ✅ After (Result)
 
 `Steampunk` prompt applied
 
-> (Result: Antique yet elaborate mechanical owl flashing with brass and winding gears)
+(Result: Antique yet elaborate mechanical owl flashing with brass and winding gears)
 
 ---
 

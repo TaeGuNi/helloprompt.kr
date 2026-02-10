@@ -11,8 +11,8 @@ tags: ["Scrittura", "Saggio", "Rapporto", "Assegnazione"]
 
 # 📝 Fuggire dalla Fobia dello Schermo Bianco: Architetto di Schema di Saggio
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La fase più difficile nella scrittura è 'Inizio'. Perché dentro la testa è a
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Autore Bestseller e Coach Professionista di Saggi]`.
-> **Richiesta:** Quando la scrittura è bloccata, imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisci idee centrali per paragrafo.
+**Ruolo:** Sei un `[Autore Bestseller e Coach Professionista di Saggi]`.
+**Richiesta:** Quando la scrittura è bloccata, imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisci idee centrali per paragrafo.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Traduzione", "Email", "IngleseCommerciale", "ChatGPT", "DeepL"]
 
 # 🇺🇸 Traduzione Oltre il Traduttore: Correggere le 'Sfumature'
 
-> **🎯 Consigliato per:** Commercianti che sudano sulle email, PM che lavorano con sviluppatori globali
-> **⏱️ Tempo Richiesto:** 30 secondi
+**🎯 Consigliato per:** Commercianti che sudano sulle email, PM che lavorano con sviluppatori globali
+**⏱️ Tempo Richiesto:** 30 secondi
 
 - **🤖 Modello Consigliato:** DeepL (Bozza) + ChatGPT-4o (Finitura Sfumature)
 
@@ -20,9 +20,9 @@ tags: ["Traduzione", "Email", "IngleseCommerciale", "ChatGPT", "DeepL"]
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Send me the file ASAP."_
-> (Letterale: Mandami il file il prima possibile.)
-> (Sensazione madrelingua: **"Dammelo ORA o muori."**)
+_"Send me the file ASAP."_
+(Letterale: Mandami il file il prima possibile.)
+(Sensazione madrelingua: **"Dammelo ORA o muori."**)
 
 Sapevi che la tua email generata dal traduttore potrebbe sembrare scortese? Il nucleo dell'Inglese Commerciale non sono le parole, ma **'Tono & Maniera (Tone & Manner)'**. Usiamo l'IA per aggiungere la **'Cortesia'** e la **'Classe'** che Papago o Google Translate perdono.
 
@@ -42,9 +42,9 @@ Sapevi che la tua email generata dal traduttore potrebbe sembrare scortese? Il n
 
 Quando metti fretta a qualcuno senza offendere.
 
-> **Ruolo:** Sei un Esperto di Etichetta Commerciale USA.
-> **Frase:** `[Give me the report by tomorrow.]` (Troppo diretto)
-> **Richiesta:** Cambia questo in un'espressione **Cortese & Professionale** adatta a un capo o cliente. Dammi 3 versioni.
+**Ruolo:** Sei un Esperto di Etichetta Commerciale USA.
+**Frase:** `[Give me the report by tomorrow.]` (Troppo diretto)
+**Richiesta:** Cambia questo in un'espressione **Cortese & Professionale** adatta a un capo o cliente. Dammi 3 versioni.
 
 <br>
 
@@ -82,13 +82,13 @@ Situazioni delicate come Rifiuto, Scuse, Negoziazione.
 
 ### ❌ Prima (Konglish + Scortese)
 
-> **Io:** "Please check attached file. If error, tell me."
-> **Ricevente:** (Cosa? È un ordine?)
+**Io:** "Please check attached file. If error, tell me."
+**Ricevente:** (Cosa? È un ordine?)
 
 ### ✅ Dopo (Finitura IA)
 
-> **IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Ricevente:** (Wow, persona istruita. Controllero subito.)
+**IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Ricevente:** (Wow, persona istruita. Controllero subito.)
 
 ---
 

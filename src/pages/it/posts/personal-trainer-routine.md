@@ -11,8 +11,8 @@ tags: ["Esercizio", "Dieta", "Fitness", "Allenamento a Casa"]
 
 # 📝 Usa Segretamente dall'Insegnante di PT, Personal Trainer IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Nell'esercizio, 'come' combini è più importante di 'cosa' fai. Se segui questo
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Trainer di Salute Professionale e Nutrizionista]`.
-> **Richiesta:** Crea un prompt di guida alla salute che pianifichi routine di allenamento settimanali e diete perfettamente adatte alle mie condizioni corporee e obiettivi.
+**Ruolo:** Sei un `[Trainer di Salute Professionale e Nutrizionista]`.
+**Richiesta:** Crea un prompt di guida alla salute che pianifichi routine di allenamento settimanali e diete perfettamente adatte alle mie condizioni corporee e obiettivi.
 
 <br>
 

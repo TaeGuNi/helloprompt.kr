@@ -28,7 +28,7 @@ import { determineCurrentLang } from "../utils/i18nUtils";
 import BaseHtml from "../components/BaseHtml.astro";
 import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
-import RelatedPosts from "../components/RelatedPosts.astro"; // [NEW] 컴포넌트 추가
+import RelatedPosts from "../components/RelatedPosts.astro";
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
@@ -46,6 +46,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
+        // eslint-disable-next-line prefer-rest-params
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
@@ -364,6 +365,29 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         overflow-x: auto;
       }
 
+      /* --- Prompt Input (Interactive) --- */
+      .prompt-input {
+        background: rgba(0, 0, 0, 0.3);
+        border: 1px solid #00f3ff;
+        border-radius: 4px;
+        color: #fff;
+        padding: 4px 8px;
+        font-family: "JetBrains Mono", monospace;
+        font-size: 0.9em;
+        width: 150px;
+        transition: all 0.2s;
+        margin: 0 4px;
+      }
+      .prompt-input:focus {
+        background: rgba(0, 243, 255, 0.1);
+        box-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
+        outline: none;
+        width: 200px; /* Focus 시 확장 */
+      }
+      .prompt-input::placeholder {
+        color: rgba(0, 243, 255, 0.5);
+      }
+
       /* --- Quote Wrapper (Prompt Box - High Emphasis) --- */
       .quote-wrapper {
         position: relative;
@@ -444,6 +468,51 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       .copy-btn.copied {
         border-color: #00ff88;
         color: #00ff88;
+      }
+
+      /* --- Action Buttons (ChatGPT/Claude) --- */
+      .action-buttons {
+        display: flex;
+        gap: 10px;
+        margin-top: 15px;
+        justify-content: flex-end;
+      }
+      .action-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 12px;
+        border-radius: 6px;
+        font-size: 0.8rem;
+        font-family: "Orbitron", sans-serif;
+        text-decoration: none;
+        color: #fff;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        transition: all 0.2s;
+        cursor: pointer;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+      }
+      .action-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      }
+      .btn-gpt {
+        background: rgba(16, 163, 127, 0.2);
+        border-color: #10a37f;
+        color: #10a37f;
+      }
+      .btn-gpt:hover {
+        background: rgba(16, 163, 127, 0.4);
+        color: #fff;
+      }
+      .btn-claude {
+        background: rgba(217, 119, 87, 0.2);
+        border-color: #d97757;
+        color: #d97757;
+      }
+      .btn-claude:hover {
+        background: rgba(217, 119, 87, 0.4);
+        color: #fff;
       }
 
       /* --- 5. Navigation (TOC & Breadcrumbs) --- */
@@ -770,8 +839,18 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               : `/${currentLang}/atom.xml`}
             style="color:#666; text-decoration:none; margin-right:10px;">ATOM</a
           >
-          <a href="/privacy" style="color:#666; text-decoration:none;"
+          <a
+            href="/privacy"
+            style="color:#666; text-decoration:none; margin-right:10px;"
             >{t.privacy_policy}</a
+          >
+          <a
+            href="/terms"
+            style="color:#666; text-decoration:none; margin-right:10px;"
+            >{t.terms || "Terms"}</a
+          >
+          <a href="/contact" style="color:#666; text-decoration:none;"
+            >{t.contact || "Contact"}</a
           >
         </p>
       </footer>
@@ -787,7 +866,6 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
             localStorage.getItem("bookmarks") || "[]",
           );
 
-          // Check if already bookmarked
           const isBookmarked = bookmarks.some((b) => b.path === currentPath);
           if (isBookmarked) {
             bookmarkBtn.classList.add("active");
@@ -803,13 +881,11 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
             );
 
             if (existingIndex > -1) {
-              // Remove
               currentBookmarks.splice(existingIndex, 1);
               bookmarkBtn.classList.remove("active");
               bookmarkBtn.querySelector(".icon").textContent = "☆";
               alert("Bookmark removed.");
             } else {
-              // Add
               currentBookmarks.push({
                 path: currentPath,
                 title: pageTitle,
@@ -823,48 +899,134 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
           });
         }
 
-        // --- 2. Copy Button Logic ---
+        // --- 2. Interactive Prompt Logic (Inputs & Buttons) ---
         const wrappers = document.querySelectorAll(
           ".quote-wrapper, .code-wrapper",
         );
 
         wrappers.forEach((wrapper) => {
-          // 이미 버튼이 있으면 패스 (중복 방지)
-          if (wrapper.querySelector(".copy-btn")) return;
+          // A. Convert [placeholders] to Input Fields (Only for Prompts)
+          if (wrapper.classList.contains("quote-wrapper")) {
+            const blockquote = wrapper.querySelector("blockquote");
+            if (blockquote) {
+              // HTML 내용을 가져와서 [ ] 패턴을 input으로 치환
+              // 주의: 이미 HTML 태그가 있을 수 있으므로 조심스럽게 처리
+              // 간단한 구현을 위해 innerHTML 치환 사용 (XSS 위험은 정적 사이트라 낮음)
+              let html = blockquote.innerHTML;
 
-          // 2. 버튼 생성
+              // Regex: [text] or (text) but avoid existing tags
+              // 매칭 그룹 1: 괄호 포함 전체 ([...])
+              // 매칭 그룹 2: 내부 텍스트 (...)
+              const placeholderRegex = /([\[\(]([^\[\]\(\)<>]+)[\]\)])/g;
+
+              if (placeholderRegex.test(html)) {
+                html = html.replace(
+                  placeholderRegex,
+                  (match, _full, innerText) => {
+                    // 제외 조건: 너무 길거나(50자 이상), 특수문자만 있거나 하면 패스
+                    if (innerText.length > 50) return match;
+                    return `<input type="text" class="prompt-input" placeholder="${innerText}" data-original="${innerText}" />`;
+                  },
+                );
+                blockquote.innerHTML = html;
+              }
+            }
+          }
+
+          // B. Copy Logic (Helper Function)
+          const getFinalText = () => {
+            const element = wrapper.querySelector("blockquote, pre");
+            if (!element) return "";
+
+            // Clone node to manipulate inputs without touching DOM
+            const clone = element.cloneNode(true);
+            const inputs = clone.querySelectorAll("input.prompt-input");
+            const originalInputs =
+              element.querySelectorAll("input.prompt-input");
+
+            // Replace inputs with their values or placeholders in the clone
+            inputs.forEach((input, index) => {
+              const userValue = originalInputs[index].value.trim();
+              const originalPlaceholder = input.getAttribute("data-original");
+              // 값이 있으면 값으로, 없으면 원래 placeholder([..])로 치환
+              const textNode = document.createTextNode(
+                userValue || `[${originalPlaceholder}]`,
+              );
+              input.parentNode.replaceChild(textNode, input);
+            });
+
+            return clone.innerText || clone.textContent;
+          };
+
+          // C. Create Copy Button
+          if (wrapper.querySelector(".copy-btn")) return; // 중복 방지
+
           const btn = document.createElement("button");
           btn.className = "copy-btn";
           btn.ariaLabel = "Copy to Clipboard";
-          // 기본 아이콘 (클립보드)
           btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;
 
-          // 3. 클릭 이벤트 (복사 로직)
           btn.addEventListener("click", async () => {
             try {
-              // 텍스트 추출 (타입 단언 추가)
-              const element = wrapper.querySelector("pre, blockquote");
-              const content = element?.innerText || "";
-
+              const content = getFinalText();
               await navigator.clipboard.writeText(content);
 
-              // 성공 시 아이콘 변경 (체크)
               btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
               btn.classList.add("copied");
 
-              // 2초 뒤 원복
               setTimeout(() => {
                 btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;
                 btn.classList.remove("copied");
               }, 2000);
             } catch (err) {
               console.error("Copy failed:", err);
-              btn.innerText = "ERR";
             }
           });
 
-          // 4. 버튼 부착
           wrapper.appendChild(btn);
+
+          // D. Action Buttons (ChatGPT/Claude)
+          if (wrapper.classList.contains("quote-wrapper")) {
+            const actionContainer = document.createElement("div");
+            actionContainer.className = "action-buttons";
+
+            const createActionBtn = (_name, url, label, colorClass) => {
+              const a = document.createElement("a");
+              a.className = `action-btn ${colorClass}`;
+              a.href = url;
+              a.target = "_blank";
+              a.innerHTML = label;
+              a.onclick = async () => {
+                try {
+                  const content = getFinalText();
+                  await navigator.clipboard.writeText(content);
+                  btn.classList.add("copied");
+                  btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
+                  setTimeout(() => btn.classList.remove("copied"), 2000);
+                } catch {}
+              };
+              return a;
+            };
+
+            actionContainer.appendChild(
+              createActionBtn(
+                "ChatGPT",
+                "https://chatgpt.com",
+                "⚡️ ChatGPT",
+                "btn-gpt",
+              ),
+            );
+            actionContainer.appendChild(
+              createActionBtn(
+                "Claude",
+                "https://claude.ai/new",
+                "🧠 Claude",
+                "btn-claude",
+              ),
+            );
+
+            wrapper.appendChild(actionContainer);
+          }
         });
       });
     </script>

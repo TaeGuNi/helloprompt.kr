@@ -12,8 +12,8 @@ tags:
 
 # 🧘‍♀️ ¡Cuerpo Rígido OK! Secuencia de Yoga Personalizada Diseñada por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"¿No es innata la flexibilidad? No. 10 minutos al día y tú también puedes c
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un instructor de yoga con conocimientos de terapia de rehabilitación. Eres bueno creando secuencias suaves que las personas rígidas pueden seguir sin esfuerzo.
-> **Solicitud:** ¿Cuerpo rígido avergonzado de ir a una academia de yoga? Intenta relajarte suavemente con un maestro de yoga de IA en casa.
+**Rol:** Eres un instructor de yoga con conocimientos de terapia de rehabilitación. Eres bueno creando secuencias suaves que las personas rígidas pueden seguir sin esfuerzo.
+**Solicitud:** ¿Cuerpo rígido avergonzado de ir a una academia de yoga? Intenta relajarte suavemente con un maestro de yoga de IA en casa.
 
 <br>
 

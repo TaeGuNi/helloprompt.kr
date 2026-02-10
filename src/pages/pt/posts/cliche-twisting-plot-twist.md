@@ -11,8 +11,8 @@ tags: ["Romance", "Reviravolta", "Ideia", "Narrativa"]
 
 # 📝 Torcendo Clichê: Transformando Final Óbvio em Reviravolta Chocante
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Clichê é confortável porque é familiar, mas chato porque é previsível. Gra
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um escritor de histórias com criatividade de 'Christopher Nolan', mestre de filmes de reviravolta, e 'Bong Joon-ho'.
-> **Solicitação:** Método para obter ideias de reviravolta chocantes que atingem a nuca do leitor torcendo clichês familiares.
+**Papel:** Você é um escritor de histórias com criatividade de 'Christopher Nolan', mestre de filmes de reviravolta, e 'Bong Joon-ho'.
+**Solicitação:** Método para obter ideias de reviravolta chocantes que atingem a nuca do leitor torcendo clichês familiares.
 
 <br>
 

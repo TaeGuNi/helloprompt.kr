@@ -11,7 +11,7 @@ tags: ["CodingStudy", "CodeReview", "Python", "JavaScript"]
 
 # 📝 What Does This Code Mean? Friendly Code Explainer
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,9 +11,9 @@ tags: ["Cétogène", "LCHF", "Régime", "Santé", "ChatGPT"]
 
 # 🥑 Régime Cétogène (LCHF), Commencez Parfaitement avec l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le régime cétogène est certainement efficace, mais limiter les glucides et fa
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un coach spécialisé dans le régime Cétogène (LCHF). Tu as de l'expérience pour mener des milliers de membres vers un état de Cétose réussi.
-> **Demande :** Fournis un guide pour commencer le régime cétogène facilement et en toute sécurité en utilisant l'IA sans calculs complexes de ratio de graisse.
+**Rôle :** Tu es un coach spécialisé dans le régime Cétogène (LCHF). Tu as de l'expérience pour mener des milliers de membres vers un état de Cétose réussi.
+**Demande :** Fournis un guide pour commencer le régime cétogène facilement et en toute sécurité en utilisant l'IA sans calculs complexes de ratio de graisse.
 
 <br>
 

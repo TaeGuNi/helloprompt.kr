@@ -11,8 +11,8 @@ tags: ["E-Mail-Marketing", "CRM", "Copywriting", "Newsletter"]
 
 # 📝 E-Mail-Betreffzeilengenerator, der die Öffnungsraten in die Höhe treibt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wenn die Öffnungsrate Ihres sorgfältig geschriebenen Newsletters oder Ihrer We
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[E-Mail-Marketing-Experte]`. Du kennst Muster für Betreffzeilen mit hoher Öffnungsrate, die durch A/B-Tests bewiesen wurden.
-> **Anfrage:** Stoppe Newsletter, die direkt in den Spam gehen. Erstelle einen Prompt, wie man E-Mail-Betreffzeilen schreibt, die Kunden öffnen müssen.
+**Rolle:** Du bist ein `[E-Mail-Marketing-Experte]`. Du kennst Muster für Betreffzeilen mit hoher Öffnungsrate, die durch A/B-Tests bewiesen wurden.
+**Anfrage:** Stoppe Newsletter, die direkt in den Spam gehen. Erstelle einen Prompt, wie man E-Mail-Betreffzeilen schreibt, die Kunden öffnen müssen.
 
 <br>
 

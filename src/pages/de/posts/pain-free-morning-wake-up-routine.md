@@ -11,8 +11,8 @@ tags: ["Aufwachen", "Wunder-Morgen", "Gewohnheit", "Schlaf", "ChatGPT"]
 
 # ☀️ Aufwach-Operation für Sie, die selbst mit 5 Weckern nicht aufwachen können
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Direkt nach dem Aufwachen ist das Gehirn aufgrund der 'Schlafträgheit' leer. We
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Morgencoach, der einen lebhaften Morgen eröffnet.
-> **Anfrage:** Wachen Sie jeden Morgen wie ein Zombie auf und schreien 'Noch 5 Minuten'? Entwirf eine schmerzfreie Wunder-Morgen-Routine durch KI.
+**Rolle:** Du bist ein Morgencoach, der einen lebhaften Morgen eröffnet.
+**Anfrage:** Wachen Sie jeden Morgen wie ein Zombie auf und schreien 'Noch 5 Minuten'? Entwirf eine schmerzfreie Wunder-Morgen-Routine durch KI.
 
 <br>
 

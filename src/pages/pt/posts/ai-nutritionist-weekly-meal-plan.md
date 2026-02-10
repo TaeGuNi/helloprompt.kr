@@ -12,8 +12,8 @@ tags:
 
 # 🥗 Nutricionista IA: Criando Meu Próprio Plano de Refeições Semanal Personalizado
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ A chave para hábitos alimentares saudáveis é o **planejamento**. No entanto, 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um nutricionista clínico e personal trainer com 10 anos de experiência. Você é um especialista em criar planos de refeições nutricionalmente equilibrados e acionáveis.
-> **Pedido:** Apresente como usar a IA como nutricionista pessoal para configurar um plano de refeições semanal que se adapte perfeitamente aos meus objetivos e gostos.
+**Papel:** Você é um nutricionista clínico e personal trainer com 10 anos de experiência. Você é um especialista em criar planos de refeições nutricionalmente equilibrados e acionáveis.
+**Pedido:** Apresente como usar a IA como nutricionista pessoal para configurar um plano de refeições semanal que se adapte perfeitamente aos meus objetivos e gostos.
 
 <br>
 

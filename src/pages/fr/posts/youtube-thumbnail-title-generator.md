@@ -11,15 +11,15 @@ tags: ["YouTube", "Miniature", "Générateur de Titres", "Clickbait", "Vues"]
 
 # 📺 "Le contenu est Roi ? Non, le Clic est Roi."
 
-> **🎯 Idéal pour :** Petits YouTubeurs, Créateurs en panne d'idées, Monteurs bloqués sur les miniatures
-> **⏱️ Temps gagné :** 1 heure (Planification) → 3 min (10 Idées)
-> **🤖 Modèle recommandé :** ChatGPT (GPT-4), Claude 3.5 Sonnet
+**🎯 Idéal pour :** Petits YouTubeurs, Créateurs en panne d'idées, Monteurs bloqués sur les miniatures
+**⏱️ Temps gagné :** 1 heure (Planification) → 3 min (10 Idées)
+**🤖 Modèle recommandé :** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
 | Difficulté | Efficacité | Polyvalence |
 | :--------: | :--------: | :---------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐  |
 
-> _"N'attendez pas l'Algorithme. **Nourrissez l'Algorithme.**"_
+_"N'attendez pas l'Algorithme. **Nourrissez l'Algorithme.**"_
 
 Vous avez passé des jours à filmer et monter, mais obtenu 50 vues ?
 Ce n'est pas votre contenu. C'est votre **Emballage (Miniature/Titre)**.
@@ -41,9 +41,9 @@ Apprenez à l'IA comment déclencher la curiosité humaine et obtenez des accroc
 
 Quand vous avez juste besoin de titres accrocheurs rapidement.
 
-> **Rôle :** Tu es un stratège de chaîne pour un YouTubeur avec 1 million d'abonnés.
-> **Tâche :** Génère 10 titres à fort CTR pour ma vidéo.
-> **Sujet :** `[Sujet de la Vidéo]`
+**Rôle :** Tu es un stratège de chaîne pour un YouTubeur avec 1 million d'abonnés.
+**Tâche :** Génère 10 titres à fort CTR pour ma vidéo.
+**Sujet :** `[Sujet de la Vidéo]`
 
 <br>
 

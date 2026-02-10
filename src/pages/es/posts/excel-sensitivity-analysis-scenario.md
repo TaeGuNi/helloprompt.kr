@@ -11,8 +11,8 @@ tags: ["Excel", "AnálisisSensibilidad", "Escenario", "TablaDatos"]
 
 # 📝 Análisis de Sensibilidad de Excel: Preparación Perfecta para Escenarios "Qué Pasaría Si"
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,7 +41,7 @@ Lo más importante al planificar negocio es variable. Tabla de **'Análisis de S
 Úsala cuando solo necesites un resultado rápido.
 
 - **Rol:** Eres un `[Experto en Modelado Financiero]` en oficina de planificación estratégica.
-  > **Solicitud:** ¿Cuánto disminuye la ganancia si el tipo de cambio sube 10%? Calculando docenas de casos a la vez con función Tabla de Datos de Excel.
+  **Solicitud:** ¿Cuánto disminuye la ganancia si el tipo de cambio sube 10%? Calculando docenas de casos a la vez con función Tabla de Datos de Excel.
 
 <br>
 

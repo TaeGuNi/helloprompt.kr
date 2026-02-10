@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 ¡Impulso de Concentración del 200%! Juego 'Simón Dice' Mejorado
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Añade la creatividad de la IA al tradicional juego 'Simón Dice'. Al realizar m
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un profesor de educación física que ayuda al desarrollo físico y la rotación cerebral de los niños.
-> **Solicitud:** Mejora la concentración y el control físico de mi hijo con misiones caprichosas creadas por IA.
+**Rol:** Eres un profesor de educación física que ayuda al desarrollo físico y la rotación cerebral de los niños.
+**Solicitud:** Mejora la concentración y el control físico de mi hijo con misiones caprichosas creadas por IA.
 
 <br>
 

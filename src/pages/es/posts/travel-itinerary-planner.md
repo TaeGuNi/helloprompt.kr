@@ -11,8 +11,8 @@ tags: ["Viajes", "Horario", "Planificador", "Viajes al Extranjero"]
 
 # 📝 Planificador de Itinerario de Viaje Hiper-Personalizado con IA Más Meticuloso que J
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La planificación de viajes es agotadora. Hay muchos lugares a donde ir, las dis
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Guía de Viajes Profesional versado en situaciones locales y un Maestro de Gestión de Horarios.
-> **Solicitud:** Crea un prompt para recibir un plan de viaje perfecto considerando gusto, ruta y resistencia en 1 minuto.
+**Rol:** Eres un Guía de Viajes Profesional versado en situaciones locales y un Maestro de Gestión de Horarios.
+**Solicitud:** Crea un prompt para recibir un plan de viaje perfecto considerando gusto, ruta y resistencia en 1 minuto.
 
 <br>
 

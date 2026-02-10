@@ -11,8 +11,8 @@ tags: ["Despertar", "Mañana Milagrosa", "Hábito", "Sueño", "ChatGPT"]
 
 # ☀️ Operación Despertar para Ti que No Puedes Despertar Incluso con 5 Alarmas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Justo después de despertar, el cerebro está en blanco debido a la 'inercia del
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un entrenador matutino que abre una mañana animada.
-> **Solicitud:** ¿Te despiertas como un zombi cada mañana gritando '5 minutos más'? Diseña una rutina matutina milagrosa sin dolor con IA.
+**Rol:** Eres un entrenador matutino que abre una mañana animada.
+**Solicitud:** ¿Te despiertas como un zombi cada mañana gritando '5 minutos más'? Diseña una rutina matutina milagrosa sin dolor con IA.
 
 <br>
 

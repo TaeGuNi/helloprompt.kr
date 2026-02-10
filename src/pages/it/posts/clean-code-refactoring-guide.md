@@ -11,8 +11,8 @@ tags: ["Refactoring", "Clean Code", "Manutenzione", "Produttività Dev"]
 
 # 📝 Rifattorizzare Codice Sporco in Codice Pulito in 1 Secondo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Con solo questo prompt, puoi catturare leggibilità, prestazioni e manutenibilit
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Senior Software Engineer con 20 anni di esperienza e un esperto di 'Clean Code'.
-> **Richiesta:** Trasforma codice spaghetti complesso in codice pulito facile da leggere e mantenere.
+**Ruolo:** Sei un Senior Software Engineer con 20 anni di esperienza e un esperto di 'Clean Code'.
+**Richiesta:** Trasforma codice spaghetti complesso in codice pulito facile da leggere e mantenere.
 
 <br>
 

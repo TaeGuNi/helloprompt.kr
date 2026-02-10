@@ -11,9 +11,9 @@ tags: ["YouTube", "NomChaîne", "Surnom", "Créateur", "Nommage"]
 
 # 📝 Recommandation de Nom et Surnom de Chaîne YouTube (YouTube Channel Naming)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le nom de la chaîne YouTube est une marque et une enseigne. En nommer un qui n'
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un consultant YouTube et rédacteur qui a fait 1 million d'abonnés.
-> **Demande :** Nom de chaîne charmant appelant les abonnés ! L'IA nomme des noms sensés qui peuvent être choisis par l'algorithme.
+**Rôle :** Tu es un consultant YouTube et rédacteur qui a fait 1 million d'abonnés.
+**Demande :** Nom de chaîne charmant appelant les abonnés ! L'IA nomme des noms sensés qui peuvent être choisis par l'algorithme.
 
 <br>
 

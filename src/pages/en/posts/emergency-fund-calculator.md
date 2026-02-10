@@ -11,7 +11,7 @@ tags: ["EmergencyFund", "FinancialManagement", "RiskManagement", "Savings"]
 
 # 📝 Emergency Fund Seatbelt: Calculating My Optimal Emergency Fund
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

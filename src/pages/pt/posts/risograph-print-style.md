@@ -12,8 +12,8 @@ tags:
 
 # 📝 Gosto de Tinta: Impressão Risograph
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero dar uma sensação de impressão ligeiramente áspera como folhetos da v
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de estilo de impressão Risograph atraente por seu meio-tom único e desalinhamento de cores.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de estilo de impressão Risograph atraente por seu meio-tom único e desalinhamento de cores.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Girl with headphones drawing.`
 
-> (Resultado: Ilustração digital limpa)
+(Resultado: Ilustração digital limpa)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Risograph` aplicado
 
-> (Resultado: Pôster de arte áspero, mas moderno, onde a tinta rosa fluorescente se destaca e padrões pontilhados são visíveis)
+(Resultado: Pôster de arte áspero, mas moderno, onde a tinta rosa fluorescente se destaca e padrões pontilhados são visíveis)
 
 ---
 

@@ -11,8 +11,8 @@ tags: ["MétodoMemorización", "Mnemotecnia", "MétodoEstudio", "Prompt"]
 
 # 📝 Fórmulas Inmemorizables, Tatuándolas en el Cerebro
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El cerebro humano odia enumerar números y símbolos sin sentido. En cambio, le 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Genio Mnemotécnico y Escritor Humorístico]`.
-> **Solicitud:** Crea un prompt que me haga no olvidar nunca fórmulas complejas de matemáticas y ciencias con narración y Mnemotecnia.
+**Rol:** Eres un `[Genio Mnemotécnico y Escritor Humorístico]`.
+**Solicitud:** Crea un prompt que me haga no olvidar nunca fórmulas complejas de matemáticas y ciencias con narración y Mnemotecnia.
 
 <br>
 

@@ -12,9 +12,9 @@ tags:
 
 # 📝 Itinéraire Parfait de Visite de Ville d'Une Journée Planifié en 1 Minute avec l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Une journée dans une ville étrange est courte. Si l'itinéraire s'emmêle, vou
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un guide local spécialisé dans `[Nom de la Ville]` avec 20 ans d'expérience.
-> **Demande :** Une journée bien remplie appréciée comme un local ! Planifie un plan de voyage optimal d'une journée sans gaspillage de mouvement avec l'IA.
+**Rôle :** Tu es un guide local spécialisé dans `[Nom de la Ville]` avec 20 ans d'expérience.
+**Demande :** Une journée bien remplie appréciée comme un local ! Planifie un plan de voyage optimal d'une journée sans gaspillage de mouvement avec l'IA.
 
 <br>
 

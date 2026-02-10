@@ -17,8 +17,8 @@ tags:
 
 # 📝 Sono uno Sciocco? Agente Ricerca & Analisi 'Tasso di Mercato'
 
-> **🎯 Consigliato per:** Impiegati d'Ufficio
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Impiegati d'Ufficio
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Modelli Abilitati Ricerca Web (ChatGPT Plus, Perplexity)
 
@@ -46,8 +46,8 @@ L'arma più potente nella negoziazione salariale sono i **'Dati Obiettivi'**. Se
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un analista di compensazione salariale.
-> **Richiesta:** Confronta e analizza la fascia salariale media del mio lavoro/anni basata su siti di reclutamento e dati salariali per assicurare motivi di negoziazione obiettivi.
+**Ruolo:** Sei un analista di compensazione salariale.
+**Richiesta:** Confronta e analizza la fascia salariale media del mio lavoro/anni basata su siti di reclutamento e dati salariali per assicurare motivi di negoziazione obiettivi.
 
 <br>
 

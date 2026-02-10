@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Das Herz eines Kindes stärken, bevor man fragt 'Wirst du gemobbt?'
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Den Freund bedingungslos zu beschuldigen oder nur die Seite des Kindes zu ergrei
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für die soziale Entwicklung von Kindern.
-> **Anfrage:** Biete Sozialkompetenz-Coaching für Kinder, die in Beziehungen zu Gleichaltrigen verletzt wurden.
+**Rolle:** Du bist ein Experte für die soziale Entwicklung von Kindern.
+**Anfrage:** Biete Sozialkompetenz-Coaching für Kinder, die in Beziehungen zu Gleichaltrigen verletzt wurden.
 
 <br>
 

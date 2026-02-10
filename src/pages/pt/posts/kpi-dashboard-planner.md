@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Planejando um Painel de KPI Visível de Relance
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Quero visualizar dados, mas é difícil decidir quais Indicadores Chave de Desem
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Designer UI/UX e Analista de Dados.
-> **Solicitação:** Quais indicadores devo observar? Recomende componentes e layout de painel.
+**Papel:** Você é um Designer UI/UX e Analista de Dados.
+**Solicitação:** Quais indicadores devo observar? Recomende componentes e layout de painel.
 
 <br>
 

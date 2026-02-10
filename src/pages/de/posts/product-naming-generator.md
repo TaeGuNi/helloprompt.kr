@@ -40,8 +40,8 @@ Das größte Kopfzerbrechen vor einer neuen Produkteinführung ist die 'Benennun
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Markenbenennungsberater]` mit 20 Jahren Erfahrung. Du bist geschickt in Wortspielen und trendigen Wortkombinationen.
-> **Anfrage:** Erstelle einen Prompt, der in 3 Sekunden attraktive Produktnamen generiert, die die Markenidentität enthalten.
+**Rolle:** Du bist ein `[Professioneller Markenbenennungsberater]` mit 20 Jahren Erfahrung. Du bist geschickt in Wortspielen und trendigen Wortkombinationen.
+**Anfrage:** Erstelle einen Prompt, der in 3 Sekunden attraktive Produktnamen generiert, die die Markenidentität enthalten.
 
 <br>
 

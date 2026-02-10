@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Iluminação", "Atmosfera"]
 
 # 📝 Feixes de Luz Misteriosos: Iluminação Volumétrica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O fenômeno onde a luz se espalha na umidade ou poeira no ar e os feixes de luz 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Implemente feixes de luz misteriosos brilhando até na poeira no ar, Raios de Deus, com prompts.
+**Papel:** Você é um especialista.
+**Solicitação:** Implemente feixes de luz misteriosos brilhando até na poeira no ar, Raios de Deus, com prompts.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Library with windows, sunlight.`
 
-> (Resultado: Apenas uma biblioteca brilhante, os feixes de luz não são visíveis)
+(Resultado: Apenas uma biblioteca brilhante, os feixes de luz não são visíveis)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Volumetric lighting` aplicado
 
-> (Resultado: Pilares de luz distintos derramando das janelas, atmosfera misteriosa sentindo a textura do ar)
+(Resultado: Pilares de luz distintos derramando das janelas, atmosfera misteriosa sentindo a textura do ar)
 
 ---
 

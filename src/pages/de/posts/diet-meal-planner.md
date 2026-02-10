@@ -11,8 +11,8 @@ tags: ["Diät", "Ernährungsmanagement", "Fitness", "Gesundheit"]
 
 # 📝 Erstellung eines KI-benutzerdefinierten Diät-Speiseplans ohne PT-Lehrer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Man sagt, 80% der Diät ist Ernährung. Aber Kalorien für jede Mahlzeit zu bere
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Sporternährungsexperte mit 15 Jahren Erfahrung und ein professioneller Diätberater.
-> **Anfrage:** Erstelle einen Prompt, um in 1 Minute einen perfekten Ein-Wochen-Speiseplan unter Berücksichtigung meines Körpertyps, Zielgewichts und bevorzugter Lebensmittel zu erstellen.
+**Rolle:** Du bist ein Sporternährungsexperte mit 15 Jahren Erfahrung und ein professioneller Diätberater.
+**Anfrage:** Erstelle einen Prompt, um in 1 Minute einen perfekten Ein-Wochen-Speiseplan unter Berücksichtigung meines Körpertyps, Zielgewichts und bevorzugter Lebensmittel zu erstellen.
 
 <br>
 

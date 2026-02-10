@@ -47,8 +47,8 @@ Lo que más temen los principiantes del gimnasio es 'los ojos de otras personas'
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un entrenador de culturismo con 20 años de experiencia. Guía a un principiante para que desarrolle músculos sin lesiones.
-> **Solicitud:** ¿Fuiste al gimnasio y solo corriste en la cinta porque no sabías qué hacer? La IA establece todo, desde el uso de máquinas hasta las rutinas.
+**Rol:** Eres un entrenador de culturismo con 20 años de experiencia. Guía a un principiante para que desarrolle músculos sin lesiones.
+**Solicitud:** ¿Fuiste al gimnasio y solo corriste en la cinta porque no sabías qué hacer? La IA establece todo, desde el uso de máquinas hasta las rutinas.
 
 <br>
 

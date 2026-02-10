@@ -11,10 +11,10 @@ tags: ["Travel Plan", "One Day Trip", "City Tour", "GPT Prompt"]
 
 # 📝 Perfect One-Day City Tour Itinerary Planned in 1 Minute with AI
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

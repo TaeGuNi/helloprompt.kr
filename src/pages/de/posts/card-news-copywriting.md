@@ -11,8 +11,8 @@ tags: ["Card News", "Copywriting", "SNS-Marketing"]
 
 # 📝 Geheimnisse des Card News Copywritings, das nach Klicks ruft
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Um in der Flut von SNS-Inhalten zu überleben, müssen Sie die Aufmerksamkeit in
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[SNS-Content-Marketing-Experte]`.
-> **Anfrage:** Erstelle einen Prompt, der kraftvolle Schlagzeilen und Card News-Texte extrahiert, die Finger auf Instagram-Feeds stoppen.
+**Rolle:** Du bist ein `[SNS-Content-Marketing-Experte]`.
+**Anfrage:** Erstelle einen Prompt, der kraftvolle Schlagzeilen und Card News-Texte extrahiert, die Finger auf Instagram-Feeds stoppen.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Automatizando la Pesadez Repetitiva de Excel con Macro (VBA)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las tareas diarias repetitivas de recopilación de datos y formato son aburridas
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Desarrollador Experto en VBA de Excel.
-> **Solicitud:** No necesitas saber codificar. Crea un prompt mágico que escriba código VBA si solo dices la situación.
+**Rol:** Eres un Desarrollador Experto en VBA de Excel.
+**Solicitud:** No necesitas saber codificar. Crea un prompt mágico que escriba código VBA si solo dices la situación.
 
 <br>
 

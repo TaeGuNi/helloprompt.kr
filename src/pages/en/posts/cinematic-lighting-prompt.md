@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 
 # 📝 Movie-like Atmosphere: Cinematic Lighting
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Enter the **PROMPT** content below into the image generation AI.
 
 `A man in the rain, night.`
 
-> (Result: Plain and dark general photo)
+(Result: Plain and dark general photo)
 
 ### ✅ After (Result)
 
 `Cinematic lighting` prompt applied
 
-> (Result: Neon lights reflecting on raindrops, rim light highlighting the figure's outline, a scene from a deep noir movie)
+(Result: Neon lights reflecting on raindrops, rim light highlighting the figure's outline, a scene from a deep noir movie)
 
 ---
 

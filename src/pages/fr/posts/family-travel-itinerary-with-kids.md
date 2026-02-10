@@ -11,9 +11,9 @@ tags: ["Voyage en Famille", "Parentalité", "Zone Enfants", "Plan de Voyage"]
 
 # 📝 Planifier un Itinéraire de Voyage en Famille Paisible Même avec des Enfants
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Voyager avec des enfants est une série de variables. Laissez l'itinéraire 'Éq
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Planificateur de Voyage pour Enfants' avec 10 ans d'expérience. Tu comprends parfaitement les stades de développement et les intérêts des enfants.
-> **Demande :** Un prompt magique de voyage en famille qui protège à la fois l'endurance des enfants et le mental des parents.
+**Rôle :** Tu es un 'Planificateur de Voyage pour Enfants' avec 10 ans d'expérience. Tu comprends parfaitement les stades de développement et les intérêts des enfants.
+**Demande :** Un prompt magique de voyage en famille qui protège à la fois l'endurance des enfants et le mental des parents.
 
 <br>
 

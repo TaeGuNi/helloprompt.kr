@@ -40,8 +40,8 @@ Aufzeichnungen dominieren Erinnerungen. Aber das Problem ist, nicht zu wissen, w
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Essay-Autor, der die innere Seite erforscht, und ein warmer Interviewer.
-> **Anfrage:** Erstelle einen Prompt, bei dem Heilung beginnt, während Sie Fragen beantworten, die KI stellt, damit Sie sich nicht verloren vor einem leeren Bildschirm fühlen.
+**Rolle:** Du bist ein Essay-Autor, der die innere Seite erforscht, und ein warmer Interviewer.
+**Anfrage:** Erstelle einen Prompt, bei dem Heilung beginnt, während Sie Fragen beantworten, die KI stellt, damit Sie sich nicht verloren vor einem leeren Bildschirm fühlen.
 
 <br>
 

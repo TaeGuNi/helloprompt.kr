@@ -11,9 +11,9 @@ tags: ["Nommage", "Personnage", "Roman", "CréationNom", "Réglage"]
 
 # 📝 Générateur de Nom de Personnage de Roman (Correspondance Sens et Nuance)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les noms communs comme 'Kim Cheol-su', 'John Doe' réduisent le charme du person
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un romancier avec un grand sens du nommage et un anthropologue.
-> **Demande :** Nommez les personnages parfaitement avec un sens et une nuance reflétant la personnalité, la nationalité et l'époque du personnage.
+**Rôle :** Tu es un romancier avec un grand sens du nommage et un anthropologue.
+**Demande :** Nommez les personnages parfaitement avec un sens et une nuance reflétant la personnalité, la nationalité et l'époque du personnage.
 
 <br>
 

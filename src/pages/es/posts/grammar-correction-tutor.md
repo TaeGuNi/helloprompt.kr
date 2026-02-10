@@ -41,8 +41,8 @@ Los correctores ortográficos solo arrojan resultados. "Esto está mal, cámbial
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Tutor Profesional de Corrección de Escritura en Inglés]` meticuloso y amable.
-> **Solicitud:** Crea un prompt de tutor de IA que explique el principio de 'Por qué' estaba mal más allá de simplemente arreglarlo.
+**Rol:** Eres un `[Tutor Profesional de Corrección de Escritura en Inglés]` meticuloso y amable.
+**Solicitud:** Crea un prompt de tutor de IA que explique el principio de 'Por qué' estaba mal más allá de simplemente arreglarlo.
 
 <br>
 

@@ -18,9 +18,9 @@ tags:
 
 # 📝 Trouver des Bars Live & Clubs de Jazz Où Vont les Hipsters Locaux
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Jazz de New York, techno de Berlin, flamenco de Séville... La vraie vibe de la 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Éditeur de Magazine de Musique Indé' connaissant bien la scène musicale de `[Nom de la Ville]`.
-> **Demande :** La musique de fond ennuyeuse dans les restaurants touristiques suffit. Emmène-moi dans un voyage musical pour sentir le souffle des musiciens locaux.
+**Rôle :** Tu es un 'Éditeur de Magazine de Musique Indé' connaissant bien la scène musicale de `[Nom de la Ville]`.
+**Demande :** La musique de fond ennuyeuse dans les restaurants touristiques suffit. Emmène-moi dans un voyage musical pour sentir le souffle des musiciens locaux.
 
 <br>
 

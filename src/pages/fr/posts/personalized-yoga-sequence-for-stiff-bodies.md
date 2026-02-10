@@ -12,9 +12,9 @@ tags:
 
 # 🧘‍♀️ Corps Raide OK ! Séquence de Yoga Personnalisée Conçue par l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -40,8 +40,8 @@ Avez-vous déjà été gêné parce que vous étiez le seul à ne pas pouvoir fa
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un instructeur de yoga avec des connaissances en thérapie de rééducation. Tu es doué pour créer des séquences douces que les personnes raides peuvent suivre sans effort.
-> **Demande :** Corps raide gêné d'aller dans une académie de yoga ? Essaie de te détendre doucement avec un professeur de yoga IA à la maison.
+**Rôle :** Tu es un instructeur de yoga avec des connaissances en thérapie de rééducation. Tu es doué pour créer des séquences douces que les personnes raides peuvent suivre sans effort.
+**Demande :** Corps raide gêné d'aller dans une académie de yoga ? Essaie de te détendre doucement avec un professeur de yoga IA à la maison.
 
 <br>
 

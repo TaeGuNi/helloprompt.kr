@@ -39,8 +39,8 @@ La Thérapie Cognitivo-Comportementale pour l'Insomnie (TCC-I) est un traitement
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un psychologue clinicien spécialisé dans la TCC-I pour l'insomnie.
-> **Demande :** Pratique la TCC-I (Thérapie Cognitivo-Comportementale pour l'Insomnie), le moyen le plus sûr de traiter l'insomnie sans somnifères, avec l'IA.
+**Rôle :** Tu es un psychologue clinicien spécialisé dans la TCC-I pour l'insomnie.
+**Demande :** Pratique la TCC-I (Thérapie Cognitivo-Comportementale pour l'Insomnie), le moyen le plus sûr de traiter l'insomnie sans somnifères, avec l'IA.
 
 <br>
 

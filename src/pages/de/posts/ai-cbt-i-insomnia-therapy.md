@@ -41,8 +41,8 @@ Die kognitive Verhaltenstherapie bei Insomnie (CBT-I) ist eine nicht-medikamentÃ
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benÃ¶tigen.
 
-> **Rolle:** Du bist ein klinischer Psychologe, der auf CBT-I bei Schlaflosigkeit spezialisiert ist.
-> **Anfrage:** Praktiziere CBT-I (Kognitive Verhaltenstherapie bei Insomnie), die sicherste Methode zur Behandlung von Schlaflosigkeit ohne Schlaftabletten, mit KI.
+**Rolle:** Du bist ein klinischer Psychologe, der auf CBT-I bei Schlaflosigkeit spezialisiert ist.
+**Anfrage:** Praktiziere CBT-I (Kognitive Verhaltenstherapie bei Insomnie), die sicherste Methode zur Behandlung von Schlaflosigkeit ohne Schlaftabletten, mit KI.
 
 <br>
 

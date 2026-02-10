@@ -11,9 +11,9 @@ tags: ["RemboursementDette", "Prêt", "Finance", "GestionCrédit"]
 
 # 📝 Simulateur d'Évasion de Dette : Stratégie de Remboursement la Plus Rapide
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous avez plusieurs prêts, vous devez aborder stratégiquement pour économi
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Consultant Financier Professionnel]` pour la gestion de la dette et le redressement de crédit.
-> **Demande :** Stratégie Boule de Neige vs Stratégie Avalanche. Dis-moi l'ordre de remboursement de dette optimal parfait pour ma situation de prêt.
+**Rôle :** Tu es un `[Consultant Financier Professionnel]` pour la gestion de la dette et le redressement de crédit.
+**Demande :** Stratégie Boule de Neige vs Stratégie Avalanche. Dis-moi l'ordre de remboursement de dette optimal parfait pour ma situation de prêt.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Regex", "Espressione Regolare", "Elaborazione Stringhe", "Validazione"]
 
 # 📝 Regex Tipo Alieno, Ordina in Linguaggio Naturale
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -42,8 +42,8 @@ Ora dì semplicemente "Trova formato email" in linguaggio naturale.
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Maestro Regex.
-> **Richiesta:** Non lottare con espressioni regolari complesse come decifrare codici. Dì semplicemente il pattern che vuoi, e l'IA creerà la regex.
+**Ruolo:** Sei un Maestro Regex.
+**Richiesta:** Non lottare con espressioni regolari complesse come decifrare codici. Dì semplicemente il pattern che vuoi, e l'IA creerà la regex.
 
 <br>
 

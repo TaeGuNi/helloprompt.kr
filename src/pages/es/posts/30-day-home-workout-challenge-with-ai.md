@@ -18,8 +18,8 @@ tags:
 
 # 🏠 ¡Escapando del Abandono al 3er Día! Desafío de Entrenamiento en Casa de 30 Días con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -47,8 +47,8 @@ Los mayores enemigos de los entrenamientos en casa son el 'aburrimiento' y la 'f
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un entrenador experto en entrenamiento en casa. Te destacas en crear programas que producen los mejores resultados solo con peso corporal sin equipo.
-> **Solicitud:** Un milagro hecho solo con mi cuerpo en casa sin equipo especial. Diseña una rutina de ejercicios de 30 días que cambie cada día.
+**Rol:** Eres un entrenador experto en entrenamiento en casa. Te destacas en crear programas que producen los mejores resultados solo con peso corporal sin equipo.
+**Solicitud:** Un milagro hecho solo con mi cuerpo en casa sin equipo especial. Diseña una rutina de ejercicios de 30 días que cambie cada día.
 
 <br>
 

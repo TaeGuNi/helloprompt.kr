@@ -11,7 +11,7 @@ tags: ["Excel", "Automation", "VBA", "Work Hacks"]
 
 # 📊 "Hey, can you summarize this in Excel?" (Sure, give me 30 seconds.)
 
-> **🎯 Best For:** Excel beginners, Office workers tired of repetitive tasks
+**🎯 Best For:** Excel beginners, Office workers tired of repetitive tasks
 
 - **⏱️ Time Saved:** 1 hour (Manual) → 30 seconds (Automated)
 - **🤖 Recommended Model:** ChatGPT (GPT-4), Claude 3.5 Sonnet
@@ -20,7 +20,7 @@ tags: ["Excel", "Automation", "VBA", "Work Hacks"]
 | :--------: | :-----------: | :---------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐  |
 
-> _"Excel is not a calculator. It's a **programming tool**. (But AI does the coding.)"_
+_"Excel is not a calculator. It's a **programming tool**. (But AI does the coding.)"_
 
 VLOOKUP, Pivot Tables, Conditional Formatting... Do you Google these every time?
 Just say, "Compare Column A and B, and highlight the differences in red." AI will write the formula for you.

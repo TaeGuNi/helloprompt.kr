@@ -11,10 +11,10 @@ tags: ["Walking Tour", "Self Guide", "History Walk", "Walking Travel"]
 
 # 📝 Creating My Own History Walking Tour to Enjoy Without a Guide
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

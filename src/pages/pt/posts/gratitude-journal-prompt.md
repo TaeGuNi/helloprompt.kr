@@ -40,8 +40,8 @@ Registros dominam memórias. Mas o problema é não saber o que escrever. Contra
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Escritor de Ensaios explorando o lado interior e um Entrevistador caloroso.
-> **Solicitação:** Crie um prompt onde a cura começa conforme você responde às perguntas que a IA lança, para que você não se sinta perdido na frente de uma tela em branco.
+**Papel:** Você é um Escritor de Ensaios explorando o lado interior e um Entrevistador caloroso.
+**Solicitação:** Crie um prompt onde a cura começa conforme você responde às perguntas que a IA lança, para que você não se sinta perdido na frente de uma tela em branco.
 
 <br>
 

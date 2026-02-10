@@ -39,8 +39,8 @@ La raison pour laquelle le Joker de Dark Knight et Thanos des Avengers restent e
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** À partir de maintenant, tu dois devenir le méchant principal `[Nom du Méchant]` apparaissant dans mon roman.
-> **Demande :** Un méchant charmant est le cœur de l'histoire. Interviewez le méchant directement et excavez le récit caché.
+**Rôle :** À partir de maintenant, tu dois devenir le méchant principal `[Nom du Méchant]` apparaissant dans mon roman.
+**Demande :** Un méchant charmant est le cœur de l'histoire. Interviewez le méchant directement et excavez le récit caché.
 
 <br>
 

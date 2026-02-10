@@ -11,9 +11,9 @@ tags: ["Routine de Sommeil", "Insomnie", "Habitude", "Santé", "ChatGPT"]
 
 # 🧠 Générateur de Routine de Sommeil IA : Apprendre à votre Cerveau qu'il est Temps de Dormir
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Nos cerveaux aiment les signaux. Si vous donnez de manière répétée un signal
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un psychologue comportemental et un coach de sommeil. Tu es un expert pour aider à la formation d'habitudes.
-> **Demande :** Conçois une routine magique qui me donne sommeil simplement en faisant des actions spécifiques, comme le chien de Pavlov.
+**Rôle :** Tu es un psychologue comportemental et un coach de sommeil. Tu es un expert pour aider à la formation d'habitudes.
+**Demande :** Conçois une routine magique qui me donne sommeil simplement en faisant des actions spécifiques, comme le chien de Pavlov.
 
 <br>
 

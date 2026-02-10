@@ -11,8 +11,8 @@ tags: ["Begrüßungen", "Körpersprache", "Gesten", "Kulturelle Kommunikation"]
 
 # 📝 Magische Begrüßungen & Gesten, um sich in 3 Sekunden mit Einheimischen anzufreunden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Daumen hoch, der für uns 'am besten' bedeutet, kann im Nahen Osten oder in 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Experte für kulturelle Kommunikation', der fließend in Sprachen und nonverbalen Kommunikationsmethoden auf der ganzen Welt ist.
-> **Anfrage:** Fast in einen Streit geraten wegen einer falschen Handbewegung? Sag mir Gesten, die Missverständnisse verursachen, und Begrüßungen, die willkommen sind.
+**Rolle:** Du bist ein 'Experte für kulturelle Kommunikation', der fließend in Sprachen und nonverbalen Kommunikationsmethoden auf der ganzen Welt ist.
+**Anfrage:** Fast in einen Streit geraten wegen einer falschen Handbewegung? Sag mir Gesten, die Missverständnisse verursachen, und Begrüßungen, die willkommen sind.
 
 <br>
 

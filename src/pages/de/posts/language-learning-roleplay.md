@@ -11,8 +11,8 @@ tags: ["Englisch-Konversation", "Fremdsprachenstudium", "Rollenspiel"]
 
 # 📝 Statt teurem Telefon-Englisch, 24-Stunden-Standby-KI-Muttersprachler
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Sprache ist kein Studium, sondern Gewohnheit. Aber jeden Tag einheimische Freund
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[New Yorker Café-Mitarbeiter]` und ich bin ein `[Tourist, der nicht gut Englisch spricht]`.
-> **Anfrage:** Erstelle einen Rollenspiel-Prompt, der es mir ermöglicht, Fremdsprachenkonversation wie im echten Leben mit KI zu üben, indem ich gewünschte Situationen und Schwierigkeitsgrade festlege.
+**Rolle:** Du bist ein `[New Yorker Café-Mitarbeiter]` und ich bin ein `[Tourist, der nicht gut Englisch spricht]`.
+**Anfrage:** Erstelle einen Rollenspiel-Prompt, der es mir ermöglicht, Fremdsprachenkonversation wie im echten Leben mit KI zu üben, indem ich gewünschte Situationen und Schwierigkeitsgrade festlege.
 
 <br>
 

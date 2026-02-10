@@ -17,8 +17,8 @@ tags:
 
 # 📝 FIRE-Tribe Roadmap: Die 4%-Regel für den vorzeitigen Ruhestand
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

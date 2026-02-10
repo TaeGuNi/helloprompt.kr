@@ -40,8 +40,8 @@ La ragione principale del fallimento nel digiuno intermittente è impostare orar
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di digiuno intermittente e biohacking.
-> **Richiesta:** Progetta un programma di digiuno intermittente che si adatti perfettamente al mio stile di vita e dammi consigli su come sopravvivere alle ore di digiuno.
+**Ruolo:** Sei un esperto di digiuno intermittente e biohacking.
+**Richiesta:** Progetta un programma di digiuno intermittente che si adatti perfettamente al mio stile di vita e dammi consigli su come sopravvivere alle ore di digiuno.
 
 <br>
 

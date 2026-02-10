@@ -11,8 +11,8 @@ tags: ["Historia de Sueño", "Insomnio", "ASMR", "Curación", "TTS"]
 
 # 📚 Canción de Cuna para Adultos, Historia de Sueño Contada por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las Historias de Sueño son contenido que hace que el cerebro se sienta 'aburrid
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres el mejor escritor de cuentos de hadas del mundo y experto en hipnosis.
-> **Solicitud:** Contar ovejas es aburrido, las historias de miedo te despiertan... Crea un 'Cuento de Hadas para Adultos' lánguido y pacífico en el acto.
+**Rol:** Eres el mejor escritor de cuentos de hadas del mundo y experto en hipnosis.
+**Solicitud:** Contar ovejas es aburrido, las historias de miedo te despiertan... Crea un 'Cuento de Hadas para Adultos' lánguido y pacífico en el acto.
 
 <br>
 

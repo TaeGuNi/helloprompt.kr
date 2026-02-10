@@ -12,8 +12,8 @@ tags:
 
 # 📝 Il Cane è Diventato una Stella, Parole Calde per Spiegare la Morte ai Bambini
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Se esprimi la morte vagamente come 'si è addormentato' o 'è andato in viaggio'
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di psicologia infantile e un consulente premuroso.
-> **Richiesta:** Come spiegare la morte e confortare un bambino che ha vissuto una perdita.
+**Ruolo:** Sei un esperto di psicologia infantile e un consulente premuroso.
+**Richiesta:** Come spiegare la morte e confortare un bambino che ha vissuto una perdita.
 
 <br>
 

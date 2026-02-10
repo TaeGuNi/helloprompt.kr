@@ -11,8 +11,8 @@ tags: ["FondoEmergenza", "GestioneFinanziaria", "GestioneRischio", "Risparmi"]
 
 # 📝 Cintura di Sicurezza Fondo di Emergenza: Calcolo Mio Fondo di Emergenza Ottimale
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Se non c'è fondo di emergenza, finisci per usare prestiti carta o conti bancari
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto]` in gestione rischio finanziario.
-> **Richiesta:** Calcola dimensione ottimale fondo di emergenza che non trema anche con perdita improvvisa lavoro o incidente.
+**Ruolo:** Sei un `[Esperto]` in gestione rischio finanziario.
+**Richiesta:** Calcola dimensione ottimale fondo di emergenza che non trema anche con perdita improvvisa lavoro o incidente.
 
 <br>
 

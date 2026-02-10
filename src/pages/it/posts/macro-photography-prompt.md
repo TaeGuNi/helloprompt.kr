@@ -12,8 +12,8 @@ tags:
 
 # 📝 Piccolo Universo: Fotografia Macro
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ _"Voglio vedere gli occhi di un insetto o il mondo dentro una goccia d'acqua mol
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt ripresa Macro che cattura dettagli minuti invisibili all'occhio.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt ripresa Macro che cattura dettagli minuti invisibili all'occhio.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Dragonfly eye.`
 
-> (Risultato: Foto generale dove l'intera faccia della libellula è visibile o appare fino al corpo)
+(Risultato: Foto generale dove l'intera faccia della libellula è visibile o appare fino al corpo)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Macro photography` applicato
 
-> (Risultato: Immagine meravigliosa dove ogni singolo occhio esagonale della libellula è visibile e le gocce d'acqua si formano come gioielli)
+(Risultato: Immagine meravigliosa dove ogni singolo occhio esagonale della libellula è visibile e le gocce d'acqua si formano come gioielli)
 
 ---
 

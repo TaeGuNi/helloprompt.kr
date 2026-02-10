@@ -11,9 +11,9 @@ tags: ["Voyage de Guérison", "Repos", "Vivre une Semaine", "Voyage Lent"]
 
 # 📝 Échapper au Burn-out ! Plan de Voyage de Guérison d'Une Semaine Juste pour Moi
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le vrai repos dépend de 'ce que vous ne faites pas' plutôt que de 'ce que vous
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Curateur de Voyage Bien-être' spécialisé dans le repos et la guérison.
-> **Demande :** Arrêtez de visiter les lieux touristiques. Guidez-moi pour une semaine de 'Voyage Lent' pour un vrai repos.
+**Rôle :** Tu es un 'Curateur de Voyage Bien-être' spécialisé dans le repos et la guérison.
+**Demande :** Arrêtez de visiter les lieux touristiques. Guidez-moi pour une semaine de 'Voyage Lent' pour un vrai repos.
 
 <br>
 

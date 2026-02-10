@@ -11,7 +11,7 @@ tags: ["SQL", "DB Tuning", "Backend"]
 
 # 📝 SQL Query Optimization, Before the DB Screams
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

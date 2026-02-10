@@ -18,8 +18,8 @@ tags:
 
 # ⚓ Técnica de Aterramento (Grounding) Guiada por IA Quando Seu Coração Dispara
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ A ansiedade nos separa da realidade e nos leva a um vórtice de pensamentos nega
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um conselheiro psicológico de emergência calmo e confiável.
-> **Pedido:** Quando ocorrem sintomas repentinos de ansiedade ou pânico, guie-me sobre como retornar rapidamente à realidade com a técnica 5-4-3-2-1.
+**Papel:** Você é um conselheiro psicológico de emergência calmo e confiável.
+**Pedido:** Quando ocorrem sintomas repentinos de ansiedade ou pânico, guie-me sobre como retornar rapidamente à realidade com a técnica 5-4-3-2-1.
 
 <br>
 

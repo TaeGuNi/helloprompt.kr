@@ -40,8 +40,8 @@ La razón por la que la Lista de Tareas no se practica sin importar cuánto escr
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Entrenador de Gestión del Tiempo maximizando la eficiencia y una Secretaria Profesional.
-> **Solicitud:** Crea un prompt para una programación perfecta basada en prioridad cuando hay mucho que hacer pero no puedes organizarte.
+**Rol:** Eres un Entrenador de Gestión del Tiempo maximizando la eficiencia y una Secretaria Profesional.
+**Solicitud:** Crea un prompt para una programación perfecta basada en prioridad cuando hay mucho que hacer pero no puedes organizarte.
 
 <br>
 

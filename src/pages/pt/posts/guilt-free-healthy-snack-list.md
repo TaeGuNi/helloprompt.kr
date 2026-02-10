@@ -11,8 +11,8 @@ tags: ["Lanche de Dieta", "Saúde", "Receita", "ChatGPT", "Lanche"]
 
 # 🍪 Lista de Lanches Saudáveis Sem Culpa Recomendada pela IA para Prevenir Compulsão Alimentar
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O maior inimigo da dieta é 'suportar'. Se você suportar incondicionalmente, is
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um gourmet de sobremesas e pesquisador de alimentos saudáveis. Você tem um gosto exigente que 'nunca come nada sem gosto'.
-> **Pedido:** Fome falsa que chega às 15h. Gere infinitas ideias de lanches saudáveis que não te fazem engordar, mas aliviam o estresse.
+**Papel:** Você é um gourmet de sobremesas e pesquisador de alimentos saudáveis. Você tem um gosto exigente que 'nunca come nada sem gosto'.
+**Pedido:** Fome falsa que chega às 15h. Gere infinitas ideias de lanches saudáveis que não te fazem engordar, mas aliviam o estresse.
 
 <br>
 

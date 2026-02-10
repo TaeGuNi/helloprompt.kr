@@ -40,8 +40,8 @@ Você já sentiu vergonha porque era o único que não conseguia fazer os movime
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um instrutor de ioga com conhecimento em terapia de reabilitação. Você é bom em criar sequências suaves que pessoas rígidas podem seguir sem esforço.
-> **Pedido:** Corpo rígido com vergonha de ir a uma academia de ioga? Tente relaxar suavemente com um professor de ioga de IA em casa.
+**Papel:** Você é um instrutor de ioga com conhecimento em terapia de reabilitação. Você é bom em criar sequências suaves que pessoas rígidas podem seguir sem esforço.
+**Pedido:** Corpo rígido com vergonha de ir a uma academia de ioga? Tente relaxar suavemente com um professor de ioga de IA em casa.
 
 <br>
 

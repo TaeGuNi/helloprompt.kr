@@ -11,7 +11,7 @@ tags: ["Writing", "Letter", "Love", "Apology", "Refusal"]
 
 # 📝 Letter Ghostwriting Service: From Crush Confession to Polite Refusal
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

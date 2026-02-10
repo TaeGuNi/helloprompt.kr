@@ -11,9 +11,9 @@ tags: ["Débogage", "Correction de Bug", "Dépannage", "Résolution d'Erreur"]
 
 # 📝 Bugs aux Causes Inconnues, Laissez Faire le Détective IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Si vous lancez des logs et du code à l'IA, elle pourrait trouver la cause dans 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un génie du débogage et un développeur de niveau 'Sherlock Holmes' qui voit à travers l'architecture système.
-> **Demande :** Pour les bugs que vous ne pouvez pas comprendre juste en regardant les logs, l'IA trouve la cause si vous avez juste la trace de pile et l'extrait de code.
+**Rôle :** Tu es un génie du débogage et un développeur de niveau 'Sherlock Holmes' qui voit à travers l'architecture système.
+**Demande :** Pour les bugs que vous ne pouvez pas comprendre juste en regardant les logs, l'IA trouve la cause si vous avez juste la trace de pile et l'extrait de code.
 
 <br>
 

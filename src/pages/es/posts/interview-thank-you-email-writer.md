@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¡Tiempo de Oro de la Entrevista! Escritor de 'Correo de Agradecimiento' para Enviar Inmediatamente Después
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Un 'Correo de Agradecimiento' enviado dentro de las 24 horas posteriores a la en
 
 Usa esto cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto en correos electrónicos de negocios.
-> **Solicitud:** Escribe un correo de agradecimiento cortés que vuelve a grabar tu imagen mencionando contenidos específicos discutidos durante la entrevista justo después de que termina.
+**Rol:** Eres un experto en correos electrónicos de negocios.
+**Solicitud:** Escribe un correo de agradecimiento cortés que vuelve a grabar tu imagen mencionando contenidos específicos discutidos durante la entrevista justo después de que termina.
 
 <br>
 

@@ -11,15 +11,15 @@ tags: ["YouTube", "Shorts", "ÉcritureScript", "Créateur", "TikTok"]
 
 # 🎬 Usine à YouTube Shorts : Script + Visuels en 30 Secondes
 
-> **🎯 Recommandé pour :** Les YouTubers à court d'idées pour les uploads quotidiens, Les employés avec une chaîne secondaire
-> **⏱️ Temps Requis :** 30 secondes
-> **🤖 Modèle Recommandé :** ChatGPT-4o (Rapide & Spirituel)
+**🎯 Recommandé pour :** Les YouTubers à court d'idées pour les uploads quotidiens, Les employés avec une chaîne secondaire
+**⏱️ Temps Requis :** 30 secondes
+**🤖 Modèle Recommandé :** ChatGPT-4o (Rapide & Spirituel)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... qu'est-ce que je filme demain ? Quand est-ce que j'écris le script..."_
+_"Ah... qu'est-ce que je filme demain ? Quand est-ce que j'écris le script..."_
 
 Le cœur du format court (Shorts/Reels/TikTok) est la **'Cohérence'** et les **'3 Premières Secondes'**. Mais sortir des idées virales quotidiennement n'est pas humainement possible. Maintenant, injectons la **'Formule Virale'** dans l'IA et construisons une usine qui imprime des scripts juste en respirant.
 
@@ -39,9 +39,9 @@ Le cœur du format court (Shorts/Reels/TikTok) est la **'Cohérence'** et les **
 
 Quand vous n'avez aucune idée.
 
-> **Rôle :** Tu es un YouTuber à 1M d'abonnés.
-> **Sujet :** `[Astuces pour Vivre Seul]`
-> **Demande :** Donne-moi 5 idées de Shorts piquantes et fraîches que les gens ne peuvent pas zapper. Inclus Titre et Première Phrase (Hook).
+**Rôle :** Tu es un YouTuber à 1M d'abonnés.
+**Sujet :** `[Astuces pour Vivre Seul]`
+**Demande :** Donne-moi 5 idées de Shorts piquantes et fraîches que les gens ne peuvent pas zapper. Inclus Titre et Première Phrase (Hook).
 
 <br>
 
@@ -79,19 +79,19 @@ Un script parfait prêt à lire devant la caméra.
 
 ### ❌ Avant (Juste écrire)
 
-> Bonjour tout le monde~ Aujourd'hui je vais présenter de bons articles chez Action. Le premier est... (Les spectateurs sont partis 👋)
+Bonjour tout le monde~ Aujourd'hui je vais présenter de bons articles chez Action. Le premier est... (Les spectateurs sont partis 👋)
 
 ### ✅ Après (Usine IA)
 
-> **[0~3s]**
->
-> - **Visuel :** Froisser un ticket de caisse et le jeter au sol.
-> - **Audio :** "Tu gaspilles encore de l'argent chez Action ? Le personnel utilise secrètement ces 3 vraies pépites ! Prends juste ça."
->
-> **[4~15s]**
->
-> - **Visuel :** Gros plan sur le Produit A.
-> - **Audio :** "Premièrement, [Nom Produit]. Tu sais que c'est en rupture partout ? Si tu le vois..."
+**[0~3s]**
+
+- **Visuel :** Froisser un ticket de caisse et le jeter au sol.
+- **Audio :** "Tu gaspilles encore de l'argent chez Action ? Le personnel utilise secrètement ces 3 vraies pépites ! Prends juste ça."
+
+**[4~15s]**
+
+- **Visuel :** Gros plan sur le Produit A.
+- **Audio :** "Premièrement, [Nom Produit]. Tu sais que c'est en rupture partout ? Si tu le vois..."
 
 ---
 

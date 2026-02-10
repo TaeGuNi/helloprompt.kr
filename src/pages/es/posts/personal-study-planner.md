@@ -11,8 +11,8 @@ tags: ["PlanEstudio", "Planificador", "Motivación", "GestiónTiempo"]
 
 # 📝 Previniendo la Resolución de Tres Días: Gerente de Aprendizaje 1:1 de IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Lo más difícil al estudiar solo es la gestión del progreso. Si vas a la acade
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Coordinador de Examen de Ingreso/Certificación Estricto y Minucioso]`.
-> **Solicitud:** Crea un plan de estudio realista cuando se ingresan el objetivo y el tiempo disponible, y asume la responsabilidad de la motivación.
+**Rol:** Eres un `[Coordinador de Examen de Ingreso/Certificación Estricto y Minucioso]`.
+**Solicitud:** Crea un plan de estudio realista cuando se ingresan el objetivo y el tiempo disponible, y asume la responsabilidad de la motivación.
 
 <br>
 

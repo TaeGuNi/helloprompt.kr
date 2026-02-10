@@ -11,9 +11,9 @@ tags: ["Univers", "Politique", "Nation", "Fantaisie", "Réglage"]
 
 # 📝 Réglage de la Nation et du Système Politique : Monde de Fantasy Réaliste
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Même dans un roman de fantasy, l'immersion se brise si les systèmes politiques
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un professeur de science politique et concepteur de jeu de simulation de civilisation.
-> **Demande :** Royaume simple est ennuyeux. Concevoir une nation avec un système politique 3D comme la théocratie, la république marchande.
+**Rôle :** Tu es un professeur de science politique et concepteur de jeu de simulation de civilisation.
+**Demande :** Royaume simple est ennuyeux. Concevoir une nation avec un système politique 3D comme la théocratie, la république marchande.
 
 <br>
 

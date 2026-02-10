@@ -40,9 +40,9 @@ Hör auf zu schreiben. **'Beteilige'** dich einfach am Meeting. KI macht die Auf
 
 Wenn du nur das Wesentliche brauchst.
 
-> **Rolle:** Du bist ein kompetenter Sekretär.
-> **Anfrage:** Lies das Meeting-Skript unten und fasse es in 3 Abschnitten zusammen: [Agenda / Entscheidungen / Zukünftige Pläne].
-> **Skript:** `[Text hier einfügen]`
+**Rolle:** Du bist ein kompetenter Sekretär.
+**Anfrage:** Lies das Meeting-Skript unten und fasse es in 3 Abschnitten zusammen: [Agenda / Entscheidungen / Zukünftige Pläne].
+**Skript:** `[Text hier einfügen]`
 
 <br>
 
@@ -83,21 +83,21 @@ Wenn du dem Chef berichten oder dem Team eine E-Mail schicken musst.
 
 ### ❌ Vorher (Vom Menschen geschrieben)
 
-> Zusammenfassung von heute. Das Marketing-Team macht 3 Banner-Entwürfe, das Entwickler-Team API-Integration bis diese Woche... Ah warte, was hat das Design-Team gemacht?
+Zusammenfassung von heute. Das Marketing-Team macht 3 Banner-Entwürfe, das Entwickler-Team API-Integration bis diese Woche... Ah warte, was hat das Design-Team gemacht?
 
 ### ✅ Nachher (KI-Automatisierung)
 
-> **[Action Items]**
->
-> | Verantwortlicher | Aufgabe                     | Frist      |
-> | :--------------- | :-------------------------- | :--------- |
-> | **Mark (Mkt)**   | 3 Banner-Entwürfe erstellen | 2026-02-10 |
-> | **Lee (Dev)**    | Zahlungsmodul API-Test      | 2026-02-12 |
-> | **Park (Des)**   | UX-Leitfaden-Entwurf prüfen | 2026-02-11 |
->
-> **[E-Mail-Entwurf]**
-> Betreff: [Teilen] Ergebnisse & Action Items des Wochenmeetings vom 8.2.
-> Hallo Team, ich teile die Ergebnisse des heutigen Meetings... (fortgesetzt)
+**[Action Items]**
+
+| Verantwortlicher | Aufgabe                     | Frist      |
+| :--------------- | :-------------------------- | :--------- |
+| **Mark (Mkt)**   | 3 Banner-Entwürfe erstellen | 2026-02-10 |
+| **Lee (Dev)**    | Zahlungsmodul API-Test      | 2026-02-12 |
+| **Park (Des)**   | UX-Leitfaden-Entwurf prüfen | 2026-02-11 |
+
+**[E-Mail-Entwurf]**
+Betreff: [Teilen] Ergebnisse & Action Items des Wochenmeetings vom 8.2.
+Hallo Team, ich teile die Ergebnisse des heutigen Meetings... (fortgesetzt)
 
 ---
 

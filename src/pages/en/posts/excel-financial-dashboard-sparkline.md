@@ -11,7 +11,7 @@ tags: ["Excel", "Dashboard", "Visualization", "Report"]
 
 # 📝 Excel Financial Dashboard: Report with Pictures, Not Numbers
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

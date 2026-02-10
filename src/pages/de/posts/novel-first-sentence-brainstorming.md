@@ -11,8 +11,8 @@ tags: ["Roman", "ErsterSatz", "Schreiben", "Intro", "Brainstorming"]
 
 # 📝 Brainstorming von 10 Versionen des ersten Satzes eines Romans
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wie "Der Tunnel zum Schneeland war lang." (Yasunari Kawabata, Schneeland), werde
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Bestsellerautor, der Leser in den ersten 3 Sekunden eintauchen lässt.
-> **Anfrage:** Sie müssen Leser im ersten Satz fesseln. Erhalten Sie Empfehlungen für 10 erste Sätze mit starkem Hook.
+**Rolle:** Du bist ein Bestsellerautor, der Leser in den ersten 3 Sekunden eintauchen lässt.
+**Anfrage:** Sie müssen Leser im ersten Satz fesseln. Erhalten Sie Empfehlungen für 10 erste Sätze mit starkem Hook.
 
 <br>
 

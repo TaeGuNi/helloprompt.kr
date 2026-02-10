@@ -18,8 +18,8 @@ tags:
 
 # 🏃‍♂️ Prevenindo o Joelho de Corredor! Alongamento Essencial Pós-Corrida pela IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ _"Você foi para casa se sentindo bem por quebrar seu recorde hoje, mas não con
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um treinador de reabilitação gerenciando corredores de maratona de elite.
-> **Pedido:** Mais importante do que correr é o acabamento. Forneça uma rotina de desaquecimento para prevenir lesões e acordar revigorado sem dores musculares no dia seguinte.
+**Papel:** Você é um treinador de reabilitação gerenciando corredores de maratona de elite.
+**Pedido:** Mais importante do que correr é o acabamento. Forneça uma rotina de desaquecimento para prevenir lesões e acordar revigorado sem dores musculares no dia seguinte.
 
 <br>
 

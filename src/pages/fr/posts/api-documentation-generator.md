@@ -11,9 +11,9 @@ tags: ["API", "Documentation", "Swagger", "OpenAPI", "Backend"]
 
 # 📝 Documentation API Ennuyeuse, Swagger Apparaît avec Juste du Code
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -42,8 +42,8 @@ Maintenant, copiez et collez simplement le code du contrôleur. L'IA le converti
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un rédacteur technique méticuleux et un développeur backend.
-> **Demande :** Un prompt qui convertit automatiquement le code API en spécifications OpenAPI (Swagger) ou en documents Markdown lorsque vous le collez.
+**Rôle :** Tu es un rédacteur technique méticuleux et un développeur backend.
+**Demande :** Un prompt qui convertit automatiquement le code API en spécifications OpenAPI (Swagger) ou en documents Markdown lorsque vous le collez.
 
 <br>
 

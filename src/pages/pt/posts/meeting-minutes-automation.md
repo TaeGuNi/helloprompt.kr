@@ -11,8 +11,8 @@ tags: ["Ata", "Whisper", "ChatGPT", "Automação", "Produtividade"]
 
 # 📝 Escape do Inferno das Reuniões: Gravação para Ata + Email em 3 Min
 
-> **🎯 Recomendado para:** Juniores com dores nos pulsos de tanto digitar, Gerentes perguntando "O que decidimos?"
-> **⏱️ Tempo Necessário:** 3 min (excluindo tempo de gravação)
+**🎯 Recomendado para:** Juniores com dores nos pulsos de tanto digitar, Gerentes perguntando "O que decidimos?"
+**⏱️ Tempo Necessário:** 3 min (excluindo tempo de gravação)
 
 - **🤖 Modelo Recomendado:** OpenAI Whisper (Transcrição) + ChatGPT-4o (Resumo)
 
@@ -20,7 +20,7 @@ tags: ["Ata", "Whisper", "ChatGPT", "Automação", "Produtividade"]
 | :---------: | :---------: | :--------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Eu digitei tudo durante a reunião, mas perdi a chance de falar... e agora não consigo lembrar de nada organizando as notas... Por quanto tempo tenho que fazer isso?"_
+_"Eu digitei tudo durante a reunião, mas perdi a chance de falar... e agora não consigo lembrar de nada organizando as notas... Por quanto tempo tenho que fazer isso?"_
 
 Pare de escrever. Apenas **'Participe'** da reunião. A IA faz a gravação melhor. Aqui está um processo para terminar **Gravação → STT → Resumo → Envio de Email** usando apenas ferramentas gratuitas.
 
@@ -40,9 +40,9 @@ Pare de escrever. Apenas **'Participe'** da reunião. A IA faz a gravação melh
 
 Quando você só precisa do essencial.
 
-> **Papel:** Você é um secretário competente.
-> **Pedido:** Leia o script da reunião abaixo e resuma em 3 seções: [Agenda / Decisões / Planos Futuros].
-> **Script:** `[Cole o texto aqui]`
+**Papel:** Você é um secretário competente.
+**Pedido:** Leia o script da reunião abaixo e resuma em 3 seções: [Agenda / Decisões / Planos Futuros].
+**Script:** `[Cole o texto aqui]`
 
 <br>
 
@@ -83,21 +83,21 @@ Quando você precisa reportar ao chefe ou enviar email para a equipe.
 
 ### ❌ Antes (Escrito por Humano)
 
-> Resumo de hoje. Equipe de marketing fará 3 rascunhos de banner, equipe de dev integração de API até esta semana... Ah espera, o que a equipe de design estava fazendo?
+Resumo de hoje. Equipe de marketing fará 3 rascunhos de banner, equipe de dev integração de API até esta semana... Ah espera, o que a equipe de design estava fazendo?
 
 ### ✅ Depois (Automação IA)
 
-> **[Action Items]**
->
-> | Responsável    | Tarefa                              | Prazo      |
-> | :------------- | :---------------------------------- | :--------- |
-> | **Mark (Mkt)** | Criar 3 Rascunhos de Banner         | 2026-02-10 |
-> | **Lee (Dev)**  | Teste de API do Módulo de Pagamento | 2026-02-12 |
-> | **Park (Des)** | Revisar Rascunho do Guia UX         | 2026-02-11 |
->
-> **[Rascunho de Email]**
-> Assunto: [Compartilhamento] Resultados & Action Items da Reunião Semanal 8/2
-> Olá Equipe, Compartilhando os resultados da reunião de hoje... (cont.)
+**[Action Items]**
+
+| Responsável    | Tarefa                              | Prazo      |
+| :------------- | :---------------------------------- | :--------- |
+| **Mark (Mkt)** | Criar 3 Rascunhos de Banner         | 2026-02-10 |
+| **Lee (Dev)**  | Teste de API do Módulo de Pagamento | 2026-02-12 |
+| **Park (Des)** | Revisar Rascunho do Guia UX         | 2026-02-11 |
+
+**[Rascunho de Email]**
+Assunto: [Compartilhamento] Resultados & Action Items da Reunião Semanal 8/2
+Olá Equipe, Compartilhando os resultados da reunião de hoje... (cont.)
 
 ---
 

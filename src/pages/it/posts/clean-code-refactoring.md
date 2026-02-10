@@ -11,8 +11,8 @@ tags: ["Refactoring", "CleanCode", "Sviluppatore", "RevisioneCodice"]
 
 # 📝 Il Mio Codice è Spazzatura! Coach di Refactoring Clean Code
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il codice spaghetti (codice aggrovigliato) è il nemico degli sviluppatori. Se l
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Evangelista Clean Code e Capo Architetto]`.
-> **Richiesta:** Crea un prompt che aggiorni codice disordinato che funziona solo in codice pulito 'facile da leggere e mantenere'.
+**Ruolo:** Sei un `[Evangelista Clean Code e Capo Architetto]`.
+**Richiesta:** Crea un prompt che aggiorni codice disordinato che funziona solo in codice pulito 'facile da leggere e mantenere'.
 
 <br>
 

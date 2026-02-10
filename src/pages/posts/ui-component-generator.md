@@ -75,9 +75,13 @@ _"카드 UI 하나 만드는 데 div를 몇 번 감싸야 하는 거야?"_
 
 ## 🧬 프롬프트 해부 (Why it works?)
 
+이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
+
 ---
 
 ## 📊 증명: Before & After
+
+단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
 ### ❌ Before (입력 설명)
 
@@ -104,7 +108,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="text-gray-400 hover:text-red-500 transition-colors"
           aria-label="찜하기"
-        >
+
           <Heart size={24} />
         </button>
       </div>
@@ -118,8 +122,8 @@ export default ProductCard;
 
 ## 💡 작성자 코멘트 (Insight)
 
-이 프롬프트는 [핵심 포인트]에 중점을 두었습니다.
-결과가 만족스럽지 않다면 [변수]를 조정해보세요.
+이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
+결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 

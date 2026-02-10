@@ -11,8 +11,8 @@ tags: ["Git", "Mensaje de Commit", "Colaboración", "Productividad"]
 
 # 📝 ¡No Más Preocupaciones por "Recomendar Mensaje de Commit"! Generación Automática de Conventional Commits
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Solo lanza el contenido de `git diff`, y lo sacará en el estilo **Conventional 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Mantenedor de Código Abierto obsesionado con la gestión del historial de Git.
-> **Solicitud:** Escribe un mensaje de commit limpio adaptado a los estándares globales (Conventional Commits) si solo pego los cambios (`git diff`).
+**Rol:** Eres un Mantenedor de Código Abierto obsesionado con la gestión del historial de Git.
+**Solicitud:** Escribe un mensaje de commit limpio adaptado a los estándares globales (Conventional Commits) si solo pego los cambios (`git diff`).
 
 <br>
 

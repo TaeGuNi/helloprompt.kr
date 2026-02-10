@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Präsentationsphobie überwinden! Erstellung von Präsentationsskripten
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es gibt viele Fälle, in denen die Präsentationsmaterialien ausgezeichnet sind,
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein TED-Talk-Profi-Coach.
-> **Anfrage:** Generierung natürlicher Präsentationsskripte pro PPT-Folie.
+**Rolle:** Du bist ein TED-Talk-Profi-Coach.
+**Anfrage:** Generierung natürlicher Präsentationsskripte pro PPT-Folie.
 
 <br>
 

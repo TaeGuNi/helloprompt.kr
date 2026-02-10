@@ -11,9 +11,9 @@ tags: ["Habitude", "Routine", "VieDivine", "Développement Personnel"]
 
 # 📝 Plus d'Abandon ! Conception de Traqueur de Formation d'Habitudes par IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'habitude n'est pas la volonté mais le réglage de l'environnement. Appliquez 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Psychologue Comportemental et Expert en Formation d'Habitudes. Conseille basé sur la théorie <Atomic Habits> de James Clear.
-> **Demande :** Crée un prompt qui crée un système de formation d'habitudes basé sur la science du cerveau sans compter sur la volonté.
+**Rôle :** Tu es un Psychologue Comportemental et Expert en Formation d'Habitudes. Conseille basé sur la théorie <Atomic Habits> de James Clear.
+**Demande :** Crée un prompt qui crée un système de formation d'habitudes basé sur la science du cerveau sans compter sur la volonté.
 
 <br>
 

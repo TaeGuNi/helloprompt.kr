@@ -11,8 +11,8 @@ tags: ["Snack Dietetico", "Salute", "Ricetta", "ChatGPT", "Snack"]
 
 # 🍪 Lista di Snack Sani Senza Sensi di Colpa Raccomandata dall'IA per Prevenire le Abbuffate
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Il più grande nemico della dieta è 'sopportare'. Se sopporti incondizionatamen
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un buongustaio di dessert e ricercatore di cibi sani. Hai un gusto difficile che 'non mangia mai nulla di insapore'.
-> **Richiesta:** Falsa fame che arriva alle 15:00. Genera infinite idee di snack sani che non ti fanno ingrassare ma alleviano lo stress.
+**Ruolo:** Sei un buongustaio di dessert e ricercatore di cibi sani. Hai un gusto difficile che 'non mangia mai nulla di insapore'.
+**Richiesta:** Falsa fame che arriva alle 15:00. Genera infinite idee di snack sani che non ti fanno ingrassare ma alleviano lo stress.
 
 <br>
 

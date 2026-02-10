@@ -11,8 +11,8 @@ tags: ["Notgroschen", "Finanzmanagement", "Risikomanagement", "Sparen"]
 
 # 📝 Notgroschen-Sicherheitsgurt: Berechnung meines eigenen angemessenen Notgroschenbetrags
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+**🎯 Zielgruppe:** Alle
+**⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

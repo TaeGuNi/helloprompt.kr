@@ -11,8 +11,8 @@ tags: ["EnglischeAussprache", "Shadowing", "Prompt", "Sprechen"]
 
 # 📝 Muttersprachliches Aussprache-Coaching gelernt durch Text
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Englisch ist eine Sprache von 'Betonung' und 'Rhythmus'. Wenn Sie ehrlich lesen,
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Phonetik-Experte und Aussprachekorrektur-Coach]`.
-> **Anfrage:** Lehre phonetische Symbole, Betonung und Intonation visuell, selbst in Umgebungen, in denen kein Ton gehört werden kann.
+**Rolle:** Du bist ein `[Phonetik-Experte und Aussprachekorrektur-Coach]`.
+**Anfrage:** Lehre phonetische Symbole, Betonung und Intonation visuell, selbst in Umgebungen, in denen kein Ton gehört werden kann.
 
 <br>
 

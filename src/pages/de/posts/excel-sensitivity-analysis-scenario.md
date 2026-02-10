@@ -11,8 +11,8 @@ tags: ["Excel", "Sensitivitätsanalyse", "Szenario", "Datentabelle"]
 
 # 📝 Excel Sensitivitätsanalyse: Perfekte Vorbereitung für "Was wäre wenn" Szenarien
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Wichtigste bei der Geschäftsplanung ist die Variable. **'Sensitivitätsanal
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Finanzmodellierungs-Experte]` im strategischen Planungsbüro.
-> **Anfrage:** Wie sehr sinkt der Gewinn, wenn der Wechselkurs um 10% steigt? Berechnung Dutzender Fälle auf einmal mit Excel Datentabellen-Funktion.
+**Rolle:** Du bist ein `[Finanzmodellierungs-Experte]` im strategischen Planungsbüro.
+**Anfrage:** Wie sehr sinkt der Gewinn, wenn der Wechselkurs um 10% steigt? Berechnung Dutzender Fälle auf einmal mit Excel Datentabellen-Funktion.
 
 <br>
 

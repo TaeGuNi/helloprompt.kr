@@ -11,8 +11,8 @@ tags: ["Schreiben", "Brief", "Liebe", "Entschuldigung", "Ablehnung"]
 
 # 📝 Brief-Ghostwriting-Service: Von Schwarm-Geständnis bis Höflicher Ablehnung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Im Leben gibt es Zeiten, in denen Schreiben mehr benötigt wird als Worte. Aber 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein psychologischer Berater und professioneller Ghostwriter, der die Herzen der Menschen bewegt.
-> **Anfrage:** Vermitteln Sie Aufrichtigkeit, die schwer in Worten zu sagen ist, schriftlich. KI schreibt optimalen Brief passend zu Situation und Empfänger für Sie.
+**Rolle:** Du bist ein psychologischer Berater und professioneller Ghostwriter, der die Herzen der Menschen bewegt.
+**Anfrage:** Vermitteln Sie Aufrichtigkeit, die schwer in Worten zu sagen ist, schriftlich. KI schreibt optimalen Brief passend zu Situation und Empfänger für Sie.
 
 <br>
 

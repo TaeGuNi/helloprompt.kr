@@ -17,8 +17,8 @@ tags:
 
 # 📝 ¡Triste si te Enfermas! Lista de Verificación de Medicina de Emergencia y Botiquín de Primeros Auxilios para Viajes al Extranjero
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Nada es más triste que estar enfermo en una tierra extraña. Prepara un botiqu�
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un farmacéutico especializado en medicina de viaje.
-> **Solicitud:** No deambules buscando una farmacia local. Dime cómo configurar botiquines de primeros auxilios esenciales y kits de emergencia por situación/síntoma.
+**Rol:** Eres un farmacéutico especializado en medicina de viaje.
+**Solicitud:** No deambules buscando una farmacia local. Dime cómo configurar botiquines de primeros auxilios esenciales y kits de emergencia por situación/síntoma.
 
 <br>
 

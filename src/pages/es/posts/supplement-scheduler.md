@@ -41,8 +41,8 @@ Vitaminas, Omega 3, Probióticos... ¿Tomas todo lo bueno para el cuerpo pero no
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Farmacéutico Profesional con ricos conocimientos farmacéuticos y un Consejero de Nutrición.
-> **Solicitud:** Crea un prompt que cree una rutina de suplementos óptima que prevenga la ingesta duplicada y aumente la tasa de absorción.
+**Rol:** Eres un Farmacéutico Profesional con ricos conocimientos farmacéuticos y un Consejero de Nutrición.
+**Solicitud:** Crea un prompt que cree una rutina de suplementos óptima que prevenga la ingesta duplicada y aumente la tasa de absorción.
 
 <br>
 

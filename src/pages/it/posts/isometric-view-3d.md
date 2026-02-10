@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angolo Telecamera", "3D"]
 
 # 📝 Mondo 3D Carino: Vista Isometrica
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ _"Voglio creare una stanza carina guardando dall'alto come nei giochi SimCity o 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea una vista tridimensionale e carina come giochi 3D o icone, angolo Isometrico.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea una vista tridimensionale e carina come giochi 3D o icone, angolo Isometrico.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Gamer room 3d.`
 
-> (Risultato: Angolo foto stanza generale, l'interno potrebbe non essere visibile coperto dai muri)
+(Risultato: Angolo foto stanza generale, l'interno potrebbe non essere visibile coperto dai muri)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Isometric view` applicato
 
-> (Risultato: Miniatura carina dove un muro è aperto e tutti i mobili nella stanza sono visibili densamente)
+(Risultato: Miniatura carina dove un muro è aperto e tutti i mobili nella stanza sono visibili densamente)
 
 ---
 

@@ -18,8 +18,8 @@ tags:
 
 # 📝 Método de Explicação do 'Segredo do Céu Azul' para Pais que Desistiram da Ciência
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ A chave é encontrar uma 'metáfora' que uma criança de 5 anos possa entender, 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um professor de jardim de infância que explica ciência difícil muito facilmente.
-> **Pedido:** Forneça um prompt que desvenda princípios científicos difíceis com metáforas ao nível dos olhos de uma criança.
+**Papel:** Você é um professor de jardim de infância que explica ciência difícil muito facilmente.
+**Pedido:** Forneça um prompt que desvenda princípios científicos difíceis com metáforas ao nível dos olhos de uma criança.
 
 <br>
 

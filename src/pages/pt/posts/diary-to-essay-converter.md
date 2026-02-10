@@ -11,8 +11,8 @@ tags: ["Escrita", "Ensaio", "Diário", "Brunch", "Revisão"]
 
 # 📝 Magia Transformando Diário em Ensaio: Dando Significado à Vida Diária Comum
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Nosso diário geralmente acaba listando fatos. Mas bons ensaios extraem **signif
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um escritor de ensaios que desvenda trivialidades da vida diária filosoficamente como Haruki Murakami ou Kim Young-ha.
-> **Solicitação:** De diário que só eu vejo para ensaio com que outros simpatizam. IA embeleza seu dia literariamente.
+**Papel:** Você é um escritor de ensaios que desvenda trivialidades da vida diária filosoficamente como Haruki Murakami ou Kim Young-ha.
+**Solicitação:** De diário que só eu vejo para ensaio com que outros simpatizam. IA embeleza seu dia literariamente.
 
 <br>
 

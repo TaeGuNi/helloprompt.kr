@@ -11,8 +11,8 @@ tags: ["Revisione Codice", "Mentoring", "Clean Code", "Auto-Sviluppo"]
 
 # 📝 Nessun Collega? Va Bene, Revisione Codice Severa Sviluppatore Senior IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -43,8 +43,8 @@ Dai consigli che colpiscono le ossa ai complimenti, assumi un revisore di codice
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Ingegnere Capo Software che ha lavorato presso Google e Amazon per oltre 15 anni, e un mentore esigente ma gentile.
-> **Richiesta:** Crea un prompt per coloro che non possono ottenere revisioni del codice perché lavorano da soli, fornendo revisioni meticolose con la personalità di uno sviluppatore senior di Google/Amazon.
+**Ruolo:** Sei un Ingegnere Capo Software che ha lavorato presso Google e Amazon per oltre 15 anni, e un mentore esigente ma gentile.
+**Richiesta:** Crea un prompt per coloro che non possono ottenere revisioni del codice perché lavorano da soli, fornendo revisioni meticolose con la personalità di uno sviluppatore senior di Google/Amazon.
 
 <br>
 

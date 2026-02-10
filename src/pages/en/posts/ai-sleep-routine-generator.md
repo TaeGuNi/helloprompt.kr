@@ -11,10 +11,10 @@ tags: ["Sleep Routine", "Insomnia", "Habit", "Health", "ChatGPT"]
 
 # 🧠 AI Sleep Routine Generator: Teaching Your Brain It's Time to Sleep
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

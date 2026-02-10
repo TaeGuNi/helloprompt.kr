@@ -40,8 +40,8 @@ Esta es **Iluminación de Estudio** que elimina el desorden del fondo y te hace 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Configura la iluminación de estudio para fotos de productos o perfiles limpios y profesionales.
+**Rol:** Eres un experto.
+**Solicitud:** Configura la iluminación de estudio para fotos de productos o perfiles limpios y profesionales.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Perfume bottle on table.`
 
-> (Resultado: Foto con sensación de vida como si estuviera colocada en una mesa de comedor en casa)
+(Resultado: Foto con sensación de vida como si estuviera colocada en una mesa de comedor en casa)
 
 ### ✅ Después (Resultado)
 
 Prompt `Studio lighting` aplicado
 
-> (Resultado: Imagen de calidad de anuncio de tienda departamental presumiendo de reflexión y transparencia perfectas)
+(Resultado: Imagen de calidad de anuncio de tienda departamental presumiendo de reflexión y transparencia perfectas)
 
 ---
 

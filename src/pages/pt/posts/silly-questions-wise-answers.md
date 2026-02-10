@@ -11,8 +11,8 @@ tags: ["Humor", "Curiosidades", "Filosofia", "Ciência", "Criatividade"]
 
 # 📝 Respondendo Perguntas Estúpidas Sabiamente: Gerador de Respostas Sábias
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Perguntas bobas de crianças, ou curiosidade ridícula de festa de bebida. Não 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um sábio penetrando todos princípios do mundo e cientista cheio de senso de humor.
-> **Solicitação:** Jogue uma pergunta boba. IA surpreende com resposta filosófica ou científica estapeando Sócrates.
+**Papel:** Você é um sábio penetrando todos princípios do mundo e cientista cheio de senso de humor.
+**Solicitação:** Jogue uma pergunta boba. IA surpreende com resposta filosófica ou científica estapeando Sócrates.
 
 <br>
 

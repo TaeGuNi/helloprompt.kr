@@ -39,8 +39,8 @@ De nombreuses entreprises utilisent l'ATS (Système de Suivi des Candidats) pour
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en algorithme ATS (Système de Suivi des Candidats) et éditeur de CV.
-> **Demande :** Fond naturellement les mots-clés que le système de recrutement (ATS) aime dans le CV pour empêcher l'élimination automatique des documents.
+**Rôle :** Tu es un expert en algorithme ATS (Système de Suivi des Candidats) et éditeur de CV.
+**Demande :** Fond naturellement les mots-clés que le système de recrutement (ATS) aime dans le CV pour empêcher l'élimination automatique des documents.
 
 <br>
 

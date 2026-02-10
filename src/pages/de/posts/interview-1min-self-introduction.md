@@ -46,8 +46,8 @@ _"Hallo, ich bin zwiebelartiger Bewerber... (Interviewer: Seufz...)"_
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Werbetexter und Imageberater.
-> **Anfrage:** Schreibt 1-Minuten-Selbstvorstellungsskript, das eigenes Konzept und Kernkompetenz einprägt, statt klischeehafter Metaphern.
+**Rolle:** Du bist ein Werbetexter und Imageberater.
+**Anfrage:** Schreibt 1-Minuten-Selbstvorstellungsskript, das eigenes Konzept und Kernkompetenz einprägt, statt klischeehafter Metaphern.
 
 <br>
 

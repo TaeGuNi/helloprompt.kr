@@ -11,8 +11,8 @@ tags: ["Economia", "DespesaFixa", "CustoDeVida", "Frugalidade"]
 
 # 📝 Dieta de Despesas Fixas: Ideias para Parar de Vazar Dinheiro
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Reduzir despesas com comida requer vontade, mas reduzir despesas fixas requer ap
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Frugalidade]` que é mestre em economizar custos de vida.
-> **Solicitação:** Despesas fixas saindo todo mês, você acha que não podem ser reduzidas? Encontre pontos de economia ocultos.
+**Papel:** Você é um `[Especialista em Frugalidade]` que é mestre em economizar custos de vida.
+**Solicitação:** Despesas fixas saindo todo mês, você acha que não podem ser reduzidas? Encontre pontos de economia ocultos.
 
 <br>
 

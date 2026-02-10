@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografie", "Beleuchtung"]
 
 # 📝 Magische Zeit: Golden Hour
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Kurze Zeit direkt nach Sonnenaufgang oder kurz vor Sonnenuntergang, **Golden Hou
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Wenden Sie Golden Hour, den Cheat-Key für warme und emotionale Fotos, auf den Prompt an.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Wenden Sie Golden Hour, den Cheat-Key für warme und emotionale Fotos, auf den Prompt an.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Woman in wheat field.`
 
-> (Ergebnis: Helles und schlichtes Aufnahmefoto am helllichten Tag)
+(Ergebnis: Helles und schlichtes Aufnahmefoto am helllichten Tag)
 
 ### ✅ Nachher (Ergebnis)
 
 `Golden hour` Prompt angewendet
 
-> (Ergebnis: Emotionale Lebensaufnahme, wo goldener Sonnenuntergang umhüllt und Haarspitzen im Sonnenlicht brechen)
+(Ergebnis: Emotionale Lebensaufnahme, wo goldener Sonnenuntergang umhüllt und Haarspitzen im Sonnenlicht brechen)
 
 ---
 

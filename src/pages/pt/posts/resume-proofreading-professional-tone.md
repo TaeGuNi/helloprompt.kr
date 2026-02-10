@@ -46,8 +46,8 @@ Vida do currículo é **'Profissionalismo'**. Estilo coloquial, advérbios exces
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um editor sênior em editora e especialista em correção de documentos de negócios.
-> **Solicitação:** Prompt de correção que refina tom de currículo adequando a maneira de negócios, pega perfeitamente erros de digitação e frases não gramaticais para aumentar confiabilidade.
+**Papel:** Você é um editor sênior em editora e especialista em correção de documentos de negócios.
+**Solicitação:** Prompt de correção que refina tom de currículo adequando a maneira de negócios, pega perfeitamente erros de digitação e frases não gramaticais para aumentar confiabilidade.
 
 <br>
 

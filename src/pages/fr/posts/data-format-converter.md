@@ -11,9 +11,9 @@ tags: ["Conversion de Données", "JSON", "CSV", "Excel", "Productivité"]
 
 # 📝 Excel, JSON, CSV... Échappez à la Corvée de Conversion de Format de Données
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Grattez simplement les données et collez-les. L'IA comprend parfaitement et les
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert en Ingénierie des Données et ETL (Extract, Transform, Load).
-> **Demande :** JSON vers CSV, XML vers JSON. Crée un prompt qui laisse les tâches ennuyeuses de conversion de format de données à l'IA. Les structures imbriquées complexes ne sont pas un problème.
+**Rôle :** Tu es un expert en Ingénierie des Données et ETL (Extract, Transform, Load).
+**Demande :** JSON vers CSV, XML vers JSON. Crée un prompt qui laisse les tâches ennuyeuses de conversion de format de données à l'IA. Les structures imbriquées complexes ne sont pas un problème.
 
 <br>
 

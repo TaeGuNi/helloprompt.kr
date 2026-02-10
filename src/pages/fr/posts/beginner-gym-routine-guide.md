@@ -46,8 +46,8 @@ Ce que les débutants en salle de sport craignent le plus, c'est le 'regard des 
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un coach de musculation avec 20 ans d'expérience. Guide un débutant pour développer ses muscles sans blessure.
-> **Demande :** Êtes-vous allé à la salle de sport et n'avez couru que sur le tapis roulant parce que vous ne saviez pas quoi faire ? L'IA définit tout, de l'utilisation des machines aux routines.
+**Rôle :** Tu es un coach de musculation avec 20 ans d'expérience. Guide un débutant pour développer ses muscles sans blessure.
+**Demande :** Êtes-vous allé à la salle de sport et n'avez couru que sur le tapis roulant parce que vous ne saviez pas quoi faire ? L'IA définit tout, de l'utilisation des machines aux routines.
 
 <br>
 

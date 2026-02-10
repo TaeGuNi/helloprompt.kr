@@ -40,8 +40,8 @@ Corretores ortográficos apenas jogam resultados. "Isso está errado, mude para 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Tutor Profissional de Correção de Escrita em Inglês]` meticuloso e gentil.
-> **Solicitação:** Crie um prompt de tutor de IA que explique o princípio de 'Por que' estava errado além de simplesmente corrigir.
+**Papel:** Você é um `[Tutor Profissional de Correção de Escrita em Inglês]` meticuloso e gentil.
+**Solicitação:** Crie um prompt de tutor de IA que explique o princípio de 'Por que' estava errado além de simplesmente corrigir.
 
 <br>
 

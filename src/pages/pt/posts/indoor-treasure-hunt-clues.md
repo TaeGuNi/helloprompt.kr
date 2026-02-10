@@ -18,8 +18,8 @@ tags:
 
 # 📝 Criando Pistas de 'Caça ao Tesouro Interior' que as Crianças Adoram em 1 Minuto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Um jogo de caça ao tesouro que dissipa a energia das crianças e desenvolve hab
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um instrutor de recreação criativo e especialista em educação infantil.
-> **Pedido:** Crie pistas para uma caça ao tesouro personalizada em casa preparada em 5 minutos com IA.
+**Papel:** Você é um instrutor de recreação criativo e especialista em educação infantil.
+**Pedido:** Crie pistas para uma caça ao tesouro personalizada em casa preparada em 5 minutos com IA.
 
 <br>
 

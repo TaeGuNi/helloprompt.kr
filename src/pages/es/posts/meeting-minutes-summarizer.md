@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Resumiendo Actas de Reuniones Divagantes Claramente
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Las transcripciones de reuniones o registros de taquigrafía tienen muchos coloq
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Taquígrafo Profesional y Gerente de Proyectos.
-> **Solicitud:** ¿Convertiste el archivo de grabación a texto pero es demasiado largo? Crea un prompt de resumen que extraiga solo el núcleo.
+**Rol:** Eres un Taquígrafo Profesional y Gerente de Proyectos.
+**Solicitud:** ¿Convertiste el archivo de grabación a texto pero es demasiado largo? Crea un prompt de resumen que extraiga solo el núcleo.
 
 <br>
 

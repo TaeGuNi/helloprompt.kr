@@ -11,8 +11,8 @@ tags: ["TRPG", "D&D", "Escenario", "MaestroJuego", "Historia"]
 
 # 📝 Generación de Gancho de Escenario para Maestros de TRPG
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Preocupación de cada Maestro de TRPG. Necesita un fuerte 'Un Disparo', **Gancho
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Maestro de TRPG experimentado y narrador.
-> **Solicitud:** Regalo para GM faltando tiempo de prep sesión. Genera intros emocionantes llevando jugadores a aventura inmediatamente.
+**Rol:** Eres un Maestro de TRPG experimentado y narrador.
+**Solicitud:** Regalo para GM faltando tiempo de prep sesión. Genera intros emocionantes llevando jugadores a aventura inmediatamente.
 
 <br>
 

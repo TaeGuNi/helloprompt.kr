@@ -40,8 +40,8 @@ Según la investigación de la NASA, una siesta de 26 minutos mejora el rendimie
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un científico del sueño y consultor de productividad.
-> **Solicitud:** Somnolencia después del almuerzo, no la soportes. Dime la técnica 'Siesta de Café' para dormir exactamente 20 minutos y despertar renovado.
+**Rol:** Eres un científico del sueño y consultor de productividad.
+**Solicitud:** Somnolencia después del almuerzo, no la soportes. Dime la técnica 'Siesta de Café' para dormir exactamente 20 minutos y despertar renovado.
 
 <br>
 

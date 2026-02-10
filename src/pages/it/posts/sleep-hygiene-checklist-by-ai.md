@@ -11,8 +11,8 @@ tags: ["Sonno", "Insonnia", "Salute", "Igiene del Sonno", "ChatGPT"]
 
 # 🛌 Basta Notti Insonni! Checklist Igiene del Sonno Diagnosticata dall'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ L'Igiene del Sonno si riferisce alle abitudini di vita e all'ambiente che devono
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di medicina del sonno e consulente spaziale.
-> **Richiesta:** La mia stanza è davvero un buon ambiente per dormire? Ispeziona la mia camera da letto e le mie abitudini di vita e offri dolci soluzioni per il sonno.
+**Ruolo:** Sei un esperto di medicina del sonno e consulente spaziale.
+**Richiesta:** La mia stanza è davvero un buon ambiente per dormire? Ispeziona la mia camera da letto e le mie abitudini di vita e offri dolci soluzioni per il sonno.
 
 <br>
 

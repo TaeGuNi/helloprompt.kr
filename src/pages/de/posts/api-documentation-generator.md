@@ -11,8 +11,8 @@ tags: ["API", "Dokumentation", "Swagger", "OpenAPI", "Backend"]
 
 # 📝 Lästige API-Dokumentation, Swagger taucht mit nur Code auf
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -43,8 +43,8 @@ Kopieren Sie jetzt einfach den Controller-Code und fügen Sie ihn ein. KI wird i
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein akribischer technischer Redakteur und Backend-Entwickler.
-> **Anfrage:** Ein Prompt, der API-Code automatisch in OpenAPI (Swagger)-Spezifikationen oder Markdown-Dokumente umwandelt, wenn Sie ihn einfügen.
+**Rolle:** Du bist ein akribischer technischer Redakteur und Backend-Entwickler.
+**Anfrage:** Ein Prompt, der API-Code automatisch in OpenAPI (Swagger)-Spezifikationen oder Markdown-Dokumente umwandelt, wenn Sie ihn einfügen.
 
 <br>
 

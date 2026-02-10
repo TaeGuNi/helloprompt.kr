@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Fobia Dental Fuera~ Operación 'Derrotar a los Gérmenes de la Caries'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Por favor, cambia la percepción del hospital de un 'lugar doloroso' a un 'lugar
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un psicoterapeuta y escritor que elimina los miedos de los niños.
-> **Solicitud:** Proporciona una simulación de superación del miedo para niños que tienen miedo a los hospitales.
+**Rol:** Eres un psicoterapeuta y escritor que elimina los miedos de los niños.
+**Solicitud:** Proporciona una simulación de superación del miedo para niños que tienen miedo a los hospitales.
 
 <br>
 

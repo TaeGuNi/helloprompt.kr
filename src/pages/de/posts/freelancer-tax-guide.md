@@ -11,8 +11,8 @@ tags: ["Steuer", "Steuersparen", "Freelancer", "UmfassendeEinkommensteuer"]
 
 # 📝 Freelancer-Steuersparguide: Steuererstattung verdoppeln
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Büroangestellte erhalten automatisch einen Jahresausgleich, aber Freelancer mü
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Steuerberater]`, der auf Freelancer spezialisiert ist.
-> **Anfrage:** Organisiere Ausgabenverarbeitung und Abzugstipps für N-Jobber und Freelancer, die Angst vor dem umfassenden Einkommensteuerbericht im Mai haben.
+**Rolle:** Du bist ein `[Steuerberater]`, der auf Freelancer spezialisiert ist.
+**Anfrage:** Organisiere Ausgabenverarbeitung und Abzugstipps für N-Jobber und Freelancer, die Angst vor dem umfassenden Einkommensteuerbericht im Mai haben.
 
 <br>
 

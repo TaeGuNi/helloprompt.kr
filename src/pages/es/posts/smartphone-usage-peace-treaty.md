@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡Fin de la Guerra de YouTube! 'Contrato de Uso de Medios' con el Niño
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

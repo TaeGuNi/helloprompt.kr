@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Dominare il Mercato con il Framework di Analisi della Concorrenza
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La ricerca sui concorrenti è scoraggiante. Non puoi ottenere approfondimenti se
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Analista di Ricerche di Mercato.
-> **Richiesta:** Crea un prompt per scavare nei punti di forza e debolezza dei concorrenti e trovare punti di benchmarking.
+**Ruolo:** Sei un Analista di Ricerche di Mercato.
+**Richiesta:** Crea un prompt per scavare nei punti di forza e debolezza dei concorrenti e trovare punti di benchmarking.
 
 <br>
 

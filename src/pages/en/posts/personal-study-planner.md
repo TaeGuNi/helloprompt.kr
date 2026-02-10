@@ -11,7 +11,7 @@ tags: ["StudyPlan", "Planner", "Motivation", "TimeManagement"]
 
 # 📝 Preventing Three-Day Resolve: AI 1:1 Learning Manager
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -18,8 +18,8 @@ tags:
 
 # 🏠 Escapando da Desistência no 3º Dia! Desafio de Treino em Casa de 30 Dias com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Os maiores inimigos dos treinos em casa são o 'tédio' e a 'falta de planejamen
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um treinador especialista em treino em casa. Você se destaca em criar programas que produzem os melhores resultados apenas com o peso corporal sem equipamentos.
-> **Pedido:** Um milagre feito apenas com meu corpo em casa, sem equipamentos especiais. Projete uma rotina de exercícios de 30 dias que mude todos os dias.
+**Papel:** Você é um treinador especialista em treino em casa. Você se destaca em criar programas que produzem os melhores resultados apenas com o peso corporal sem equipamentos.
+**Pedido:** Um milagre feito apenas com meu corpo em casa, sem equipamentos especiais. Projete uma rotina de exercícios de 30 dias que mude todos os dias.
 
 <br>
 

@@ -11,17 +11,17 @@ tags: ["Traduction", "Email", "AnglaisAffaires", "ChatGPT", "DeepL"]
 
 # 🇺🇸 Traduction Au-delà du Traducteur : Corriger la 'Nuance'
 
-> **🎯 Recommandé pour :** Les commerciaux en sueur sur leurs emails, Les PM travaillant avec des dévs mondiaux
-> **⏱️ Temps Requis :** 30 secondes
-> **🤖 Modèle Recommandé :** DeepL (Brouillon) + ChatGPT-4o (Polissage de Nuance)
+**🎯 Recommandé pour :** Les commerciaux en sueur sur leurs emails, Les PM travaillant avec des dévs mondiaux
+**⏱️ Temps Requis :** 30 secondes
+**🤖 Modèle Recommandé :** DeepL (Brouillon) + ChatGPT-4o (Polissage de Nuance)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Send me the file ASAP."_
-> (Littéral : Envoie-moi le fichier dès que possible.)
-> (Sensation native : **"Donne-le-moi MAINTENANT ou meurs."**)
+_"Send me the file ASAP."_
+(Littéral : Envoie-moi le fichier dès que possible.)
+(Sensation native : **"Donne-le-moi MAINTENANT ou meurs."**)
 
 Saviez-vous que votre email généré par traducteur pourrait sembler impoli ? Le cœur de l'Anglais des Affaires n'est pas les mots, mais le **'Ton & Manière (Tone & Manner)'**. Utilisons l'IA pour ajouter la **'Politesse'** et la **'Classe'** que Papago ou Google Traduction manquent.
 
@@ -41,9 +41,9 @@ Saviez-vous que votre email généré par traducteur pourrait sembler impoli ? L
 
 Quand vous pressez quelqu'un sans offenser.
 
-> **Rôle :** Tu es un Expert en Étiquette des Affaires US.
-> **Phrase :** `[Give me the report by tomorrow.]` (Trop direct)
-> **Demande :** Change ça en une expression **Polie & Professionnelle** adaptée pour un patron ou un client. Donne 3 versions.
+**Rôle :** Tu es un Expert en Étiquette des Affaires US.
+**Phrase :** `[Give me the report by tomorrow.]` (Trop direct)
+**Demande :** Change ça en une expression **Polie & Professionnelle** adaptée pour un patron ou un client. Donne 3 versions.
 
 <br>
 
@@ -81,13 +81,13 @@ Situations délicates comme Rejet, Excuse, Négociation.
 
 ### ❌ Avant (Konglish + Impoli)
 
-> **Moi :** "Please check attached file. If error, tell me."
-> **Récepteur :** (Quoi ? C'est un ordre ?)
+**Moi :** "Please check attached file. If error, tell me."
+**Récepteur :** (Quoi ? C'est un ordre ?)
 
 ### ✅ Après (Polissage IA)
 
-> **IA :** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Récepteur :** (Wow, personne éduquée. Je vais vérifier tout de suite.)
+**IA :** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Récepteur :** (Wow, personne éduquée. Je vais vérifier tout de suite.)
 
 ---
 

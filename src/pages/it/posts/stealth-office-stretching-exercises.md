@@ -18,8 +18,8 @@ tags:
 
 # 🪑 Stretching Furtivo in Ufficio per Sfuggire al Collo da Tartaruga e al Mal di Schiena
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Non puoi andare in palestra durante il lavoro intenso, ma investire solo 3 minut
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di correzione della postura e un maestro delle abilità sociali.
-> **Richiesta:** Introduci una routine di 'Stretching in Ufficio' che posso fare direttamente al mio posto senza che i miei colleghi se ne accorgano.
+**Ruolo:** Sei un esperto di correzione della postura e un maestro delle abilità sociali.
+**Richiesta:** Introduci una routine di 'Stretching in Ufficio' che posso fare direttamente al mio posto senza che i miei colleghi se ne accorgano.
 
 <br>
 

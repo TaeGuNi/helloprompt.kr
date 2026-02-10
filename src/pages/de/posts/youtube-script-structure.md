@@ -11,8 +11,8 @@ tags: ["YouTube", "Skript", "Videoproduktion"]
 
 # 📝 YouTube-Skript-Strukturierungsgeheimnis für hohe Aufrufe
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Um vom YouTube-Algorithmus ausgewählt zu werden, ist die 'Verweildauer' am wich
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[1 Million YouTuber Exklusiv-PD]`.
-> **Anfrage:** Erstelle einen Prompt, der ein YouTube-Videoskript strukturiert, um Absprünge in den ersten 5 Sekunden zu verhindern und die Leute bis zum Ende zuschauen zu lassen.
+**Rolle:** Du bist ein `[1 Million YouTuber Exklusiv-PD]`.
+**Anfrage:** Erstelle einen Prompt, der ein YouTube-Videoskript strukturiert, um Absprünge in den ersten 5 Sekunden zu verhindern und die Leute bis zum Ende zuschauen zu lassen.
 
 <br>
 

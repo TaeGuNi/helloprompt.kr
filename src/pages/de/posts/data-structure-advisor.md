@@ -11,8 +11,8 @@ tags: ["Datenstruktur", "Algorithmus", "Leistungsoptimierung", "CS-Grundlagen"]
 
 # 📝 List? Map? Set? Datenstruktur-Rezept für Entscheidungsfreudigkeit
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Wenn Sie die Situation eingeben, wägen wir Zeitkomplexität und Raumeffizienz a
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Informatikprofessor und Algorithmus-Experte.
-> **Anfrage:** Besorgt darüber, welche Datenstruktur zum Speichern von Daten verwendet werden soll? Erstelle einen Prompt, der die optimale Datenstruktur empfiehlt, die perfekt zur Situation passt.
+**Rolle:** Du bist ein Informatikprofessor und Algorithmus-Experte.
+**Anfrage:** Besorgt darüber, welche Datenstruktur zum Speichern von Daten verwendet werden soll? Erstelle einen Prompt, der die optimale Datenstruktur empfiehlt, die perfekt zur Situation passt.
 
 <br>
 

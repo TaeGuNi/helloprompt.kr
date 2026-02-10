@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Design"]
 
 # 📝 Gott der Organisation: Knolling
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte komplexe Teile oder Habseligkeiten ordentlich auf einen Blick zeig
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Knolling-Technik-Prompt, der Objekte ordentlich im rechten Winkel anordnet und fotografiert.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Knolling-Technik-Prompt, der Objekte ordentlich im rechten Winkel anordnet und fotografiert.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Travel items on table.`
 
-> (Ergebnis: Foto, auf dem Objekte ungeordnet verstreut sind oder sich überlappen)
+(Ergebnis: Foto, auf dem Objekte ungeordnet verstreut sind oder sich überlappen)
 
 ### ✅ Nachher (Ergebnis)
 
 `Knolling` Prompt angewendet
 
-> (Ergebnis: Bild, auf dem alle Objekte ordentlich in regelmäßigen Abständen angeordnet sind, was den Geist beruhigt)
+(Ergebnis: Bild, auf dem alle Objekte ordentlich in regelmäßigen Abständen angeordnet sind, was den Geist beruhigt)
 
 ---
 

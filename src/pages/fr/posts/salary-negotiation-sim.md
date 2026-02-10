@@ -11,16 +11,16 @@ tags: ["Salaire", "Négociation", "Entretien", "JeuDeRôle", "Carrière"]
 
 # 🥊 Simulateur de Négociation Salariale : S'entraîner avec un RH Diabolique
 
-> **🎯 Recommandé pour :** Les faibles qui disent "Je prendrai n'importe quoi" et regrettent plus tard, Les chercheurs d'emploi
-> **⏱️ Temps Requis :** 10 min (Combat Simulé)
-> **🤖 Modèle Recommandé :** ChatGPT-4o (Mode Vocal Hautement Recommandé)
+**🎯 Recommandé pour :** Les faibles qui disent "Je prendrai n'importe quoi" et regrettent plus tard, Les chercheurs d'emploi
+**⏱️ Temps Requis :** 10 min (Combat Simulé)
+**🤖 Modèle Recommandé :** ChatGPT-4o (Mode Vocal Hautement Recommandé)
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-> _"Quelles sont vos prétentions salariales ?"_
-> _"Euh... eh bien... je suis les règles de l'entreprise..."_
+_"Quelles sont vos prétentions salariales ?"_
+_"Euh... eh bien... je suis les règles de l'entreprise..."_
 
 Si vous flanchez à la table, vous perdez. Mais avec qui pratiquer ? Les amis rient, et les miroirs sont gênants. Maintenant, **possédons l'IA en un Directeur RH Radin** et entraînons-nous comme pour de vrai. Faites-vous battre virtuellement pour ne pas vous faire battre en réalité.
 
@@ -40,9 +40,9 @@ Si vous flanchez à la table, vous perdez. Mais avec qui pratiquer ? Les amis ri
 
 Pour affiner votre logique.
 
-> **Rôle :** Tu es un directeur RH radin essayant d'économiser le budget.
-> **Contexte :** Je suis Marketeur avec 3 ans d'exp, salaire précédent 40k€. Je veux 50k€.
-> **Demande :** Quand je demande 50k, réfute-moi logiquement. Sois très difficile. Laisse-moi sans voix.
+**Rôle :** Tu es un directeur RH radin essayant d'économiser le budget.
+**Contexte :** Je suis Marketeur avec 3 ans d'exp, salaire précédent 40k€. Je veux 50k€.
+**Demande :** Quand je demande 50k, réfute-moi logiquement. Sois très difficile. Laisse-moi sans voix.
 
 <br>
 
@@ -77,16 +77,16 @@ Allumez le **Mode Vocal (Icône Casque)** de l'App ChatGPT. C'est du sérieux.
 
 ### ❌ Avant (Sans Préparation)
 
-> **RH :** "50k c'est difficile à cause de problèmes d'équité..."
-> **Moi :** "Ah... d'accord... alors 45k... ?"
-> (Résultat : Salaire Gelé 📉)
+**RH :** "50k c'est difficile à cause de problèmes d'équité..."
+**Moi :** "Ah... d'accord... alors 45k... ?"
+(Résultat : Salaire Gelé 📉)
 
 ### ✅ Après (Combattu l'IA 10 fois)
 
-> **RH :** "50k c'est difficile à cause de problèmes d'équité..."
-> **Moi :** "Je comprends tout à fait. Cependant, considérant que j'ai augmenté les revenus de 20% dans mon dernier projet, ce chiffre est un investissement raisonnable comparé à la moyenne du marché. Si le salaire de base est un fardeau, pouvons-nous discuter d'une Prime à la Signature ou de Stock Options ?"
-> **RH :** (Yeux qui tremblent) "...Laisse-moi vérifier avec le Directeur."
-> (Résultat : Augmentation de 20% 📈)
+**RH :** "50k c'est difficile à cause de problèmes d'équité..."
+**Moi :** "Je comprends tout à fait. Cependant, considérant que j'ai augmenté les revenus de 20% dans mon dernier projet, ce chiffre est un investissement raisonnable comparé à la moyenne du marché. Si le salaire de base est un fardeau, pouvons-nous discuter d'une Prime à la Signature ou de Stock Options ?"
+**RH :** (Yeux qui tremblent) "...Laisse-moi vérifier avec le Directeur."
+(Résultat : Augmentation de 20% 📈)
 
 ---
 

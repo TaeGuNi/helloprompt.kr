@@ -40,8 +40,8 @@ Razão para maioria das falhas de entrevista é **'incoerência'**. Explique sit
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um treinador de discurso e consultor de entrevista.
-> **Solicitação:** Para aqueles que falam muito e perdem o ponto ao receber perguntas, limpa todas as perguntas de experiência com STAR (Situação-Tarefa-Ação-Resultado).
+**Papel:** Você é um treinador de discurso e consultor de entrevista.
+**Solicitação:** Para aqueles que falam muito e perdem o ponto ao receber perguntas, limpa todas as perguntas de experiência com STAR (Situação-Tarefa-Ação-Resultado).
 
 <br>
 

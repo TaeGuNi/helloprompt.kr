@@ -40,8 +40,8 @@ O que leva mais tempo do que a análise de dados é a Limpeza de Dados. Unificar
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Processamento de Dados Excel.
-> **Solicitação:** Encontrar métodos de limpeza de dados como separar endereços, unificar formatos de data.
+**Papel:** Você é um Especialista em Processamento de Dados Excel.
+**Solicitação:** Encontrar métodos de limpeza de dados como separar endereços, unificar formatos de data.
 
 <br>
 

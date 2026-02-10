@@ -11,8 +11,8 @@ tags: ["Instagram", "Poesia", "TextoEmocional", "SNS", "Conteúdo"]
 
 # 📝 Gerador de Poesia Curta (Insta Poetry) para Shorts/Reels
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ No Instagram ou TikTok, 'Insta Poetry' curta e forte é popular em vez de prosa 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um escritor de ensaios emocionais e poeta com centenas de milhares de seguidores em SNS.
-> **Solicitação:** Crie poesia curta e emocional chamando curtidas em SNS em 10 segundos.
+**Papel:** Você é um escritor de ensaios emocionais e poeta com centenas de milhares de seguidores em SNS.
+**Solicitação:** Crie poesia curta e emocional chamando curtidas em SNS em 10 segundos.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Blog", "SEO", "Exposição no Google"]
 
 # 📝 Esboço de Blog SEO para Rankings de Pesquisa Superiores
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O núcleo do SEO (Otimização para Mecanismos de Busca) é encontrar a interse�
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Especialista em Marketing de Conteúdo SEO]`.
-> **Solicitação:** Crie um prompt de geração de esboço otimizado para SEO que enquadre sua postagem de blog em uma estrutura que o Google adora.
+**Papel:** Você é um `[Especialista em Marketing de Conteúdo SEO]`.
+**Solicitação:** Crie um prompt de geração de esboço otimizado para SEO que enquadre sua postagem de blog em uma estrutura que o Google adora.
 
 <br>
 

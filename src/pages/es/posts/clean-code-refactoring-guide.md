@@ -11,8 +11,8 @@ tags: ["Refactorización", "Código Limpio", "Mantenimiento", "Productividad Dev
 
 # 📝 Refactorizar Código Sucio a Código Limpio en 1 Segundo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ Con solo este prompt, puedes capturar la legibilidad, el rendimiento y la manten
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Ingeniero de Software Senior con 20 años de experiencia y un experto en 'Código Limpio'.
-> **Solicitud:** Transforma código espagueti complejo en código limpio fácil de leer y mantener.
+**Rol:** Eres un Ingeniero de Software Senior con 20 años de experiencia y un experto en 'Código Limpio'.
+**Solicitud:** Transforma código espagueti complejo en código limpio fácil de leer y mantener.
 
 <br>
 

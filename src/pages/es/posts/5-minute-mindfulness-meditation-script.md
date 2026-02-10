@@ -11,8 +11,8 @@ tags: ["Meditación", "Atención Plena", "Curación", "Estrés", "TTS"]
 
 # 🧘‍♂️ ¡Convirtiendo mi Habitación en un Centro de Meditación! Guion de Atención Plena de 5 Minutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La meditación no se trata de vaciar, sino de enfocar. Para los principiantes, u
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un instructor de meditación con una voz suave y tranquila.
-> **Solicitud:** No necesito pagar por una aplicación de meditación. Escribe una guía de meditación perfectamente adaptada a mi situación y emociones.
+**Rol:** Eres un instructor de meditación con una voz suave y tranquila.
+**Solicitud:** No necesito pagar por una aplicación de meditación. Escribe una guía de meditación perfectamente adaptada a mi situación y emociones.
 
 <br>
 

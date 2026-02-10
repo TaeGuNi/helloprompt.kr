@@ -11,8 +11,8 @@ tags: ["Dieta", "Gestione dei Pasti", "Salute", "ChatGPT", "Preparazione Pasti"]
 
 # 🥗 Nutrizionista IA: Creare il Mio Piano Alimentare Settimanale Personalizzato
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ La chiave per sane abitudini alimentari è la **pianificazione**. Tuttavia, calc
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un nutrizionista clinico e personal trainer con 10 anni di esperienza. Sei un esperto nella creazione di piani alimentari nutrizionalmente equilibrati e attuabili.
-> **Richiesta:** Introduci come utilizzare l'IA come nutrizionista personale per configurare un piano alimentare settimanale che si adatti perfettamente ai miei obiettivi e gusti.
+**Ruolo:** Sei un nutrizionista clinico e personal trainer con 10 anni di esperienza. Sei un esperto nella creazione di piani alimentari nutrizionalmente equilibrati e attuabili.
+**Richiesta:** Introduci come utilizzare l'IA come nutrizionista personale per configurare un piano alimentare settimanale che si adatti perfettamente ai miei obiettivi e gusti.
 
 <br>
 

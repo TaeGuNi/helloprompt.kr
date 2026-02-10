@@ -11,7 +11,7 @@ tags: ["Tax", "TaxSaving", "Freelancer", "ComprehensiveIncomeTax"]
 
 # 📝 Freelancer Tax Saving Guide: Doubling Tax Refund
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

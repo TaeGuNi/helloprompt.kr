@@ -18,8 +18,8 @@ tags:
 
 # 📝 As bonecas da nossa casa estão vivas? Operação 'Toy Story'
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

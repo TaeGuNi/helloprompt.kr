@@ -11,8 +11,8 @@ tags: ["Yoga", "Dehnen", "Flexibilität", "Heimtraining", "ChatGPT"]
 
 # 🧘‍♀️ Steifer Körper OK! Personalisierte Yoga-Sequenz, entworfen von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Haben Sie sich jemals geschämt, weil Sie der Einzige waren, der die Bewegungen 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Yogalehrer mit Kenntnissen in Rehabilitationstherapie. Du bist gut darin, weiche Sequenzen zu erstellen, denen steife Menschen ohne Belastung folgen können.
-> **Anfrage:** Steifer Körper, dem es peinlich ist, in eine Yogaschule zu gehen? Versuchen Sie, sich zu Hause mit einem KI-Yogalehrer sanft zu entspannen.
+**Rolle:** Du bist ein Yogalehrer mit Kenntnissen in Rehabilitationstherapie. Du bist gut darin, weiche Sequenzen zu erstellen, denen steife Menschen ohne Belastung folgen können.
+**Anfrage:** Steifer Körper, dem es peinlich ist, in eine Yogaschule zu gehen? Versuchen Sie, sich zu Hause mit einem KI-Yogalehrer sanft zu entspannen.
 
 <br>
 

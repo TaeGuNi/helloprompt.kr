@@ -12,8 +12,8 @@ tags:
 
 # 📝 É Rude Fazer Barulhos de Sorver? Guia Perfeito de Etiqueta à Mesa por País
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ Ações tidas como certas na Coreia podem ser rudes no exterior. Por outro lado,
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Consultor de Modos Globais' versado em cultura alimentar e etiqueta ao redor do mundo.
-> **Pedido:** Em Roma, faça como os romanos. Modos à mesa naquele país. Diga-me modos à mesa globais que são fáceis de cometer erros.
+**Papel:** Você é um 'Consultor de Modos Globais' versado em cultura alimentar e etiqueta ao redor do mundo.
+**Pedido:** Em Roma, faça como os romanos. Modos à mesa naquele país. Diga-me modos à mesa globais que são fáceis de cometer erros.
 
 <br>
 

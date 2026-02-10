@@ -11,8 +11,8 @@ tags: ["Scrittura", "Descrizione", "Romanzo", "Espressività"]
 
 # 📝 Convertitore Descrizione Sfondo Stimolando Cinque Sensi del Lettore
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Se scrivi così, i lettori non sentono nulla. Per mantenere il principio di "Mos
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore di letteratura pura con ricca espressività e maestro della descrizione del paesaggio.
-> **Richiesta:** Strumento di scrittura che cambia frasi esplicative semplici in descrizioni vivide vive con cinque sensi (Visivo, Uditivo, Olfattivo, Gustativo, Tattile).
+**Ruolo:** Sei uno scrittore di letteratura pura con ricca espressività e maestro della descrizione del paesaggio.
+**Richiesta:** Strumento di scrittura che cambia frasi esplicative semplici in descrizioni vivide vive con cinque sensi (Visivo, Uditivo, Olfattivo, Gustativo, Tattile).
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Meditação", "Mindfulness", "Cura", "Estresse", "TTS"]
 
 # 🧘‍♂️ Transformando Meu Quarto em um Centro de Meditação! Roteiro de Mindfulness de 5 Minutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A meditação não é sobre esvaziar, mas focar. Para iniciantes, um **guia (nar
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um instrutor de meditação com uma voz suave e calma.
-> **Pedido:** Não preciso pagar por um aplicativo de meditação. Escreva um guia de meditação perfeitamente adaptado à minha situação e emoções.
+**Papel:** Você é um instrutor de meditação com uma voz suave e calma.
+**Pedido:** Não preciso pagar por um aplicativo de meditação. Escreva um guia de meditação perfeitamente adaptado à minha situação e emoções.
 
 <br>
 

@@ -39,8 +39,8 @@ Nach einer Besprechung bleiben nur Aufnahmedateien oder gekritzelte Notizen übr
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[10-Jahre Veteran Sekretär]`.
-> **Anfrage:** Konvertiere chaotische Besprechungsskripte in saubere Zusammenfassungen und Action Items.
+**Rolle:** Du bist ein `[10-Jahre Veteran Sekretär]`.
+**Anfrage:** Konvertiere chaotische Besprechungsskripte in saubere Zusammenfassungen und Action Items.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Calculadora de Presupuesto de Viaje con IA para Viajes Rentables
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ El presupuesto de viaje requiere cálculos complejos considerando boletos de avi
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Analista de Presupuesto de Viajes' que gestiona meticulosamente los gastos de viaje.
-> **Solicitud:** ¿Cuánto debo cambiar? La IA calcula los gastos de viaje justo sin que falte nada.
+**Rol:** Eres un 'Analista de Presupuesto de Viajes' que gestiona meticulosamente los gastos de viaje.
+**Solicitud:** ¿Cuánto debo cambiar? La IA calcula los gastos de viaje justo sin que falte nada.
 
 <br>
 

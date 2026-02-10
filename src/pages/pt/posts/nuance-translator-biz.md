@@ -11,8 +11,8 @@ tags: ["Tradução", "Email", "InglêsNegócios", "ChatGPT", "DeepL"]
 
 # 🇺🇸 Tradução Além do Tradutor: Consertando a 'Nuance'
 
-> **🎯 Recomendado para:** Comerciantes suando em e-mails, PMs trabalhando com devs globais
-> **⏱️ Tempo Necessário:** 30 segundos
+**🎯 Recomendado para:** Comerciantes suando em e-mails, PMs trabalhando com devs globais
+**⏱️ Tempo Necessário:** 30 segundos
 
 - **🤖 Modelo Recomendado:** DeepL (Rascunho) + ChatGPT-4o (Polimento de Nuance)
 
@@ -20,9 +20,9 @@ tags: ["Tradução", "Email", "InglêsNegócios", "ChatGPT", "DeepL"]
 | :---------: | :---------: | :--------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Send me the file ASAP."_
-> (Literal: Me envie o arquivo o mais rápido possível.)
-> (Sensação nativa: **"Me dá AGORA ou morra."**)
+_"Send me the file ASAP."_
+(Literal: Me envie o arquivo o mais rápido possível.)
+(Sensação nativa: **"Me dá AGORA ou morra."**)
 
 Você sabia que seu e-mail gerado por tradutor pode soar rude? O núcleo do Inglês para Negócios não são as palavras, mas **'Tom & Maneira (Tone & Manner)'**. Vamos usar a IA para adicionar a **'Polidez'** e a **'Classe'** que o Papago ou Google Tradutor perdem.
 
@@ -42,9 +42,9 @@ Você sabia que seu e-mail gerado por tradutor pode soar rude? O núcleo do Ingl
 
 Quando você apressa alguém sem ofender.
 
-> **Papel:** Você é um Especialista em Etiqueta de Negócios dos EUA.
-> **Frase:** `[Give me the report by tomorrow.]` (Muito direto)
-> **Pedido:** Mude isso para uma expressão **Polida & Profissional** adequada para um chefe ou cliente. Me dê 3 versões.
+**Papel:** Você é um Especialista em Etiqueta de Negócios dos EUA.
+**Frase:** `[Give me the report by tomorrow.]` (Muito direto)
+**Pedido:** Mude isso para uma expressão **Polida & Profissional** adequada para um chefe ou cliente. Me dê 3 versões.
 
 <br>
 
@@ -82,13 +82,13 @@ Situações delicadas como Rejeição, Desculpa, Negociação.
 
 ### ❌ Antes (Portunhol + Rude)
 
-> **Eu:** "Please check attached file. If error, tell me."
-> **Destinatário:** (O quê? É uma ordem?)
+**Eu:** "Please check attached file. If error, tell me."
+**Destinatário:** (O quê? É uma ordem?)
 
 ### ✅ Depois (Polimento IA)
 
-> **IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
-> **Destinatário:** (Uau, pessoa educada. Vou verificar agora mesmo.)
+**IA:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
+**Destinatário:** (Uau, pessoa educada. Vou verificar agora mesmo.)
 
 ---
 

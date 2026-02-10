@@ -40,8 +40,8 @@ Dizem que 80% da dieta é alimentação. Mas calcular calorias para cada refeiç
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Especialista em Nutrição Esportiva com 15 anos de experiência e um Consultor de Dieta Profissional.
-> **Solicitação:** Crie um prompt para criar um plano de refeições perfeito de uma semana considerando meu tipo de corpo, peso alvo e alimentos preferidos em 1 minuto.
+**Papel:** Você é um Especialista em Nutrição Esportiva com 15 anos de experiência e um Consultor de Dieta Profissional.
+**Solicitação:** Crie um prompt para criar um plano de refeições perfeito de uma semana considerando meu tipo de corpo, peso alvo e alimentos preferidos em 1 minuto.
 
 <br>
 

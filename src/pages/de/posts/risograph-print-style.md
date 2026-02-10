@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Druck"]
 
 # 📝 Geschmack von Tinte: Risograph Print
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte ein leicht raues Druckgefühl wie bei Handouts der alten Schule od
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Risograph-Druckstil-Prompt, attraktiv durch seinen einzigartigen Halbton und Farbversatz.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Risograph-Druckstil-Prompt, attraktiv durch seinen einzigartigen Halbton und Farbversatz.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Girl with headphones drawing.`
 
-> (Ergebnis: Saubere digitale Illustration)
+(Ergebnis: Saubere digitale Illustration)
 
 ### ✅ Nachher (Ergebnis)
 
 `Risograph` Prompt angewendet
 
-> (Ergebnis: Raues, aber hippes Kunstposter, bei dem fluoreszierende rosa Tinte hervorsticht und gepunktete Muster sichtbar sind)
+(Ergebnis: Raues, aber hippes Kunstposter, bei dem fluoreszierende rosa Tinte hervorsticht und gepunktete Muster sichtbar sind)
 
 ---
 

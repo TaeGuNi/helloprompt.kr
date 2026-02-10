@@ -18,8 +18,8 @@ tags:
 
 # 📝 Trovare Leggende e Storie di Fantasmi Inquietanti e Misteriose Conosciute Solo dai Locali
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -47,8 +47,8 @@ Ogni luogo ha una leggenda. Storie strane non trovate nelle guide turistiche ren
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Ricercatore di Misteri' che raccoglie storie strane e leggende metropolitane da tutto il mondo.
-> **Richiesta:** Un drago viveva in questo lago? Raddoppia il divertimento del viaggio con racconti popolari e leggende legate alle destinazioni di viaggio.
+**Ruolo:** Sei un 'Ricercatore di Misteri' che raccoglie storie strane e leggende metropolitane da tutto il mondo.
+**Richiesta:** Un drago viveva in questo lago? Raddoppia il divertimento del viaggio con racconti popolari e leggende legate alle destinazioni di viaggio.
 
 <br>
 

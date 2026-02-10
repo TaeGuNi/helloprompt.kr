@@ -18,8 +18,8 @@ tags:
 
 # 📝 Chega de Dizer 'Te Encontrei Debaixo de uma Ponte'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Se você gaguejar ou mentir, a criança percebe o sexo como 'algo para esconder'
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em educação sexual infantil.
-> **Pedido:** Forneça um guia para explicar a educação sexual com precisão e beleza, sem evitá-la.
+**Papel:** Você é um especialista em educação sexual infantil.
+**Pedido:** Forneça um guia para explicar a educação sexual com precisão e beleza, sem evitá-la.
 
 <br>
 

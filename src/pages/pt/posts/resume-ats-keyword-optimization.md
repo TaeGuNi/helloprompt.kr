@@ -40,8 +40,8 @@ Muitas empresas usam ATS (Sistema de Rastreamento de Candidatos) para filtrar cu
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista em algoritmo ATS (Sistema de Rastreamento de Candidatos) e editor de currículo.
-> **Solicitação:** Derrete naturalmente palavras-chave que sistema de recrutamento (ATS) gosta no currículo para prevenir eliminação automática de documentos.
+**Papel:** Você é um especialista em algoritmo ATS (Sistema de Rastreamento de Candidatos) e editor de currículo.
+**Solicitação:** Derrete naturalmente palavras-chave que sistema de recrutamento (ATS) gosta no currículo para prevenir eliminação automática de documentos.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Nomeação", "Personagem", "Romance", "CriaçãoNome", "Configuração"]
 
 # 📝 Gerador de Nomes de Personagens de Romance (Combinando Significado e Nuance)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Nomes comuns como 'Kim Cheol-su', 'John Doe' reduzem charme do personagem. Mas m
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um romancista com grande senso de nomeação e antropólogo.
-> **Solicitação:** Nomeie personagens perfeitamente com significado e nuance refletindo personalidade, nacionalidade e época do personagem.
+**Papel:** Você é um romancista com grande senso de nomeação e antropólogo.
+**Solicitação:** Nomeie personagens perfeitamente com significado e nuance refletindo personalidade, nacionalidade e época do personagem.
 
 <br>
 

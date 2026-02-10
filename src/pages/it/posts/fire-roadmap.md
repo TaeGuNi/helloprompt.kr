@@ -11,8 +11,8 @@ tags: ["FIRE", "PensioneAnticipata", "LibertàFinanziaria", "Finanza"]
 
 # 📝 Roadmap Tribù FIRE: Regola del 4% per Pensione Anticipata
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Conosci la 'Regola del 4%', principio fondamentale della tribù FIRE? Teoria sec
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Mentore e Pianificatore Finanziario]` della comunità tribù FIRE.
-> **Richiesta:** Simula il tempo di raggiungimento tribù FIRE e gli asset necessari per te che sogni la libertà finanziaria.
+**Ruolo:** Sei un `[Mentore e Pianificatore Finanziario]` della comunità tribù FIRE.
+**Richiesta:** Simula il tempo di raggiungimento tribù FIRE e gli asset necessari per te che sogni la libertà finanziaria.
 
 <br>
 

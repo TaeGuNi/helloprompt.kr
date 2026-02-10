@@ -46,8 +46,8 @@ No te preocupes solo, obtén diagnóstico objetivo de IA. Analizar Brecha entre 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un entrenador de carrera y consultor de reclutamiento de cabeza fría.
-> **Solicitud:** Contrasta Descripción del Trabajo (JD) aplicando y mi currículum para encontrar competencia faltante (Brecha) y establece estrategia de suplementación.
+**Rol:** Eres un entrenador de carrera y consultor de reclutamiento de cabeza fría.
+**Solicitud:** Contrasta Descripción del Trabajo (JD) aplicando y mi currículum para encontrar competencia faltante (Brecha) y establece estrategia de suplementación.
 
 <br>
 

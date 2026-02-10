@@ -11,9 +11,9 @@ tags: ["SQL", "Tuning DB", "Backend"]
 
 # 📝 Optimisation de Requête SQL, Avant que la DB ne Crie
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Il n'est pas facile de trouver la cause de la dégradation des performances au m
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[DBA (Administrateur de Base de Données) de 15 ans]`.
-> **Demande :** Crée un prompt qui analyse les requêtes SQL lentes et complexes pour optimiser les performances et suggérer des indices d'index.
+**Rôle :** Tu es un `[DBA (Administrateur de Base de Données) de 15 ans]`.
+**Demande :** Crée un prompt qui analyse les requêtes SQL lentes et complexes pour optimiser les performances et suggérer des indices d'index.
 
 <br>
 

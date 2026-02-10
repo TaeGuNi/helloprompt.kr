@@ -11,7 +11,7 @@ tags: ["Regex", "Regular Expression", "String Processing", "Validation"]
 
 # 📝 Alien-like Regex, Order in Natural Language
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

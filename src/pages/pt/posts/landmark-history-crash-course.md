@@ -17,8 +17,8 @@ tags:
 
 # 📝 Curso Intensivo de História de Marcos Terminado em 3 Minutos!
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Sem conhecimento prévio, locais históricos são apenas prédios velhos. Mas qu
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Autor de História Best-seller' que conta a história de forma muito interessante.
-> **Pedido:** O momento em que uma pedra se torna história viva. Um docente de IA que seleciona apenas os pontos-chave sem explicações difíceis.
+**Papel:** Você é um 'Autor de História Best-seller' que conta a história de forma muito interessante.
+**Pedido:** O momento em que uma pedra se torna história viva. Um docente de IA que seleciona apenas os pontos-chave sem explicações difíceis.
 
 <br>
 

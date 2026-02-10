@@ -40,8 +40,8 @@ La Terapia Cognitivo Comportamentale per l'Insonnia (CBT-I) è un trattamento no
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno psicologo clinico specializzato in CBT-I per l'insonnia.
-> **Richiesta:** Pratica la CBT-I (Terapia Cognitivo Comportamentale per l'Insonnia), il modo più sicuro per trattare l'insonnia senza sonniferi, con l'IA.
+**Ruolo:** Sei uno psicologo clinico specializzato in CBT-I per l'insonnia.
+**Richiesta:** Pratica la CBT-I (Terapia Cognitivo Comportamentale per l'Insonnia), il modo più sicuro per trattare l'insonnia senza sonniferi, con l'IA.
 
 <br>
 

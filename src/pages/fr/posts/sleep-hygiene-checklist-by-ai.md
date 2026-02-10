@@ -11,9 +11,9 @@ tags: ["Sommeil", "Insomnie", "Santé", "Hygiène du Sommeil", "ChatGPT"]
 
 # 🛌 Arrêtez les Nuits Blanches ! Liste de Contrôle d'Hygiène du Sommeil Diagnostiquée par l'IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'hygiène du sommeil fait référence aux habitudes de vie et à l'environnemen
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en médecine du sommeil et un consultant en espace.
-> **Demande :** Ma chambre est-elle vraiment un bon environnement pour dormir ? Inspecte ma chambre et mes habitudes de vie et donne des solutions pour un sommeil doux.
+**Rôle :** Tu es un expert en médecine du sommeil et un consultant en espace.
+**Demande :** Ma chambre est-elle vraiment un bon environnement pour dormir ? Inspecte ma chambre et mes habitudes de vie et donne des solutions pour un sommeil doux.
 
 <br>
 

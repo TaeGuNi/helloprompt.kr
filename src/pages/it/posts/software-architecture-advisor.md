@@ -43,8 +43,8 @@ Commissiona un disegno di progettazione (architettura) perfetto per la natura de
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Capo Architetto Software responsabile della progettazione di sistemi su larga scala.
-> **Richiesta:** Crea un prompt che progetta un'architettura software ottimale come MVC, Clean Architecture, MSA quando inserisci la scala del progetto e i requisiti.
+**Ruolo:** Sei un Capo Architetto Software responsabile della progettazione di sistemi su larga scala.
+**Richiesta:** Crea un prompt che progetta un'architettura software ottimale come MVC, Clean Architecture, MSA quando inserisci la scala del progetto e i requisiti.
 
 <br>
 

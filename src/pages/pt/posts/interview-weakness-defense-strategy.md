@@ -17,8 +17,8 @@ tags:
 
 # 📝 Criador de Lógica de 'Defesa de Fraqueza' de Entrevista (Transformando Crise em Oportunidade)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Quando uma pergunta esfaqueando um ponto doloroso vem, sua cabeça fica em branc
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um consultor de estratégia de entrevista.
-> **Solicitação:** Prepara uma lógica para reconhecer fraquezas fatais (pausa na carreira, grande mudança, GPA baixo) honestamente, mas enfatizar as lições aprendidas e esforços de melhoria.
+**Papel:** Você é um consultor de estratégia de entrevista.
+**Solicitação:** Prepara uma lógica para reconhecer fraquezas fatais (pausa na carreira, grande mudança, GPA baixo) honestamente, mas enfatizar as lições aprendidas e esforços de melhoria.
 
 <br>
 

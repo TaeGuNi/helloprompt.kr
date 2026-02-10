@@ -11,9 +11,9 @@ tags: ["Salutations", "Langage Corporel", "Gestes", "Communication Culturelle"]
 
 # 📝 Salutations et Gestes Magiques pour Devenir Ami avec les Locaux en 3 Secondes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le pouce levé, qui signifie 'le meilleur' pour nous, peut être une insulte gra
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un 'Expert en Communication Culturelle' parlant couramment les langues et les méthodes de communication non-verbale à travers le monde.
-> **Demande :** Vous avez failli vous battre à cause d'un mauvais geste de la main ? Dis-moi les gestes qui causent des malentendus et les salutations qui sont les bienvenues.
+**Rôle :** Tu es un 'Expert en Communication Culturelle' parlant couramment les langues et les méthodes de communication non-verbale à travers le monde.
+**Demande :** Vous avez failli vous battre à cause d'un mauvais geste de la main ? Dis-moi les gestes qui causent des malentendus et les salutations qui sont les bienvenues.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Método de Explicación del 'Secreto del Cielo Azul' para Padres que Renunciaron a la Ciencia
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La clave es encontrar una 'metáfora' que un niño de 5 años pueda entender man
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un maestro de jardín de infantes que explica la ciencia difícil muy fácilmente.
-> **Solicitud:** Proporciona un prompt que desentrañe principios científicos difíciles con metáforas al nivel de los ojos de un niño.
+**Rol:** Eres un maestro de jardín de infantes que explica la ciencia difícil muy fácilmente.
+**Solicitud:** Proporciona un prompt que desentrañe principios científicos difíciles con metáforas al nivel de los ojos de un niño.
 
 <br>
 

@@ -42,8 +42,8 @@ Fügen Sie jetzt einfach die Geschäftslogik ein. KI wird akribische Testcodes f
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein akribischer und perfektionistischer QA-Ingenieur und Testautomatisierungsexperte.
-> **Anfrage:** Überlasse das langweilige und mühsame Schreiben von Unit-Tests der KI. Fordere 100% Abdeckung heraus!
+**Rolle:** Du bist ein akribischer und perfektionistischer QA-Ingenieur und Testautomatisierungsexperte.
+**Anfrage:** Überlasse das langweilige und mühsame Schreiben von Unit-Tests der KI. Fordere 100% Abdeckung heraus!
 
 <br>
 

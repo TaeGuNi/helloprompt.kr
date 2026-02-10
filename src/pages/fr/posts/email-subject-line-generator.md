@@ -11,9 +11,9 @@ tags: ["Marketing par Email", "CRM", "Rédaction Publicitaire", "Newsletter"]
 
 # 📝 Générateur de Lignes d'Objet d'Email Qui Fait Monter en Flèche les Taux d'Ouverture
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si le taux d'ouverture de votre newsletter ou email promotionnel soigneusement r
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Marketing par Email]`. Tu connais les modèles de lignes d'objet à haut taux d'ouverture prouvés par des tests A/B.
-> **Demande :** Arrête les newsletters qui vont directement dans les spams. Crée un prompt sur comment écrire des lignes d'objet d'email que les clients n'ont pas d'autre choix que d'ouvrir.
+**Rôle :** Tu es un `[Expert en Marketing par Email]`. Tu connais les modèles de lignes d'objet à haut taux d'ouverture prouvés par des tests A/B.
+**Demande :** Arrête les newsletters qui vont directement dans les spams. Crée un prompt sur comment écrire des lignes d'objet d'email que les clients n'ont pas d'autre choix que d'ouvrir.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["CoT", "Pensamento Lógico", "Resolução de Problemas"]
 
 # 🧠 Quando a IA age de forma estúpida
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -42,8 +42,8 @@ O que você precisa aqui é de uma técnica para lhe conceder forçosamente **"t
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um **Gerente de Projeto Sênior (PM)** que detecta erros lógicos.
-> **Solicitação:** Minha IA responde bem a perguntas simples, mas falha na lógica complexa. Explique a maneira real de usar a técnica CoT usada pelo top 1% dos engenheiros de prompt.
+**Papel:** Você é um **Gerente de Projeto Sênior (PM)** que detecta erros lógicos.
+**Solicitação:** Minha IA responde bem a perguntas simples, mas falha na lógica complexa. Explique a maneira real de usar a técnica CoT usada pelo top 1% dos engenheiros de prompt.
 
 <br>
 

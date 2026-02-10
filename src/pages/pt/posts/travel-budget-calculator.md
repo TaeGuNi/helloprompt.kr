@@ -11,8 +11,8 @@ tags: ["Viagem", "Orçamento", "PlanoViagem", "Despesas"]
 
 # 📝 Estimativa de Despesas de Viagem: Plano Perfeito Sem Estouro de Orçamento
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Você já experimentou sair pensando "Cerca de 2 milhões KRW seriam suficientes
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Guia de Viagem Profissional]` com rumores de ser meticuloso.
-> **Solicitação:** De passagens aéreas a despesas com comida local, crie um orçamento dentro da faixa de erro de 10% refletindo os preços do destino de viagem.
+**Papel:** Você é um `[Guia de Viagem Profissional]` com rumores de ser meticuloso.
+**Solicitação:** De passagens aéreas a despesas com comida local, crie um orçamento dentro da faixa de erro de 10% refletindo os preços do destino de viagem.
 
 <br>
 

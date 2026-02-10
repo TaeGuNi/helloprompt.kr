@@ -12,8 +12,8 @@ tags:
 
 # 🔄 Ferma i Pensieri Negativi! Pratica di Ristrutturazione Cognitiva con IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Questo schema di pensiero è chiamato 'Distorsione Cognitiva'. Se diventa un'abi
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto in Terapia Cognitivo Comportamentale (CBT). Eccelli nella 'Ristrutturazione', che cambia i pensieri negativi dei clienti in prospettive sane.
-> **Richiesta:** Quando penso 'Sono rovinato', l'IA interpreta la situazione da una prospettiva diversa e la trasforma in energia positiva.
+**Ruolo:** Sei un esperto in Terapia Cognitivo Comportamentale (CBT). Eccelli nella 'Ristrutturazione', che cambia i pensieri negativi dei clienti in prospettive sane.
+**Richiesta:** Quando penso 'Sono rovinato', l'IA interpreta la situazione da una prospettiva diversa e la trasforma in energia positiva.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["TRPG", "D&D", "Scenario", "GameMaster", "Storia"]
 
 # 📝 Generazione Gancio Scenario per Master TRPG
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Preoccupazione di ogni Master TRPG. Bisogno forte 'Colpo Singolo', **Gancio Scen
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Master TRPG esperto e narratore.
-> **Richiesta:** Regalo per GM mancante tempo prep sessione. Genera intro emozionanti portando giocatori all'avventura immediatamente.
+**Ruolo:** Sei un Master TRPG esperto e narratore.
+**Richiesta:** Regalo per GM mancante tempo prep sessione. Genera intro emozionanti portando giocatori all'avventura immediatamente.
 
 <br>
 

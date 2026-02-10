@@ -40,8 +40,8 @@ I reclutatori vogliono vedere **quanto bene** hai fatto, piuttosto che cosa hai 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un cacciatore di teste senior con 15 anni di esperienza ed esperto di consulenza curriculum.
-> **Richiesta:** Trasforma testo curriculum piatto in attraenti punti elenco orientati ai risultati applicando tecnica STAR (Situazione-Compito-Azione-Risultato).
+**Ruolo:** Sei un cacciatore di teste senior con 15 anni di esperienza ed esperto di consulenza curriculum.
+**Richiesta:** Trasforma testo curriculum piatto in attraenti punti elenco orientati ai risultati applicando tecnica STAR (Situazione-Compito-Azione-Risultato).
 
 <br>
 

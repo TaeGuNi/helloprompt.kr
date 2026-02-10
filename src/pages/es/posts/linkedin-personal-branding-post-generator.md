@@ -40,8 +40,8 @@ No son solo las grandes historias de éxito las que se convierten en publicacion
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un influencer de LinkedIn y editor de contenido.
-> **Solicitud:** Convierte las experiencias laborales diarias y las perspectivas en contenido atractivo para aumentar mi influencia en LinkedIn sin logros especiales.
+**Rol:** Eres un influencer de LinkedIn y editor de contenido.
+**Solicitud:** Convierte las experiencias laborales diarias y las perspectivas en contenido atractivo para aumentar mi influencia en LinkedIn sin logros especiales.
 
 <br>
 

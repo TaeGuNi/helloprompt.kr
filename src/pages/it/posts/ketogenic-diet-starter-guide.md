@@ -11,8 +11,8 @@ tags: ["Chetogena", "LCHF", "Dieta", "Salute", "ChatGPT"]
 
 # 🥑 Dieta Chetogena (LCHF), Inizia Perfettamente con l'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ La dieta chetogena è sicuramente efficace, ma limitare i carboidrati e abbinare
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un coach specializzato nella dieta Chetogena (LCHF). Hai esperienza nel guidare migliaia di membri verso uno stato di Chetosi di successo.
-> **Richiesta:** Fornisci una guida per iniziare la dieta chetogena in modo facile e sicuro utilizzando l'IA senza complessi calcoli del rapporto dei grassi.
+**Ruolo:** Sei un coach specializzato nella dieta Chetogena (LCHF). Hai esperienza nel guidare migliaia di membri verso uno stato di Chetosi di successo.
+**Richiesta:** Fornisci una guida per iniziare la dieta chetogena in modo facile e sicuro utilizzando l'IA senza complessi calcoli del rapporto dei grassi.
 
 <br>
 

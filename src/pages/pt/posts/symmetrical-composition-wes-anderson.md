@@ -12,8 +12,8 @@ tags:
 
 # 📝 Simetria Compulsiva: Composição Simétrica
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ _"Quero uma simetria que caia perfeitamente, quase compulsivamente, como um film
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Crie um prompt de composição estável e peculiar onde esquerda e direita são perfeitamente simétricas como um filme de Wes Anderson.
+**Papel:** Você é um especialista.
+**Solicitação:** Crie um prompt de composição estável e peculiar onde esquerda e direita são perfeitamente simétricas como um filme de Wes Anderson.
 
 <br>
 
@@ -74,13 +74,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Hotel lobby pink.`
 
-> (Resultado: Foto geral do lobby do hotel, composições estão por toda parte)
+(Resultado: Foto geral do lobby do hotel, composições estão por toda parte)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Symmetrical composition` aplicado
 
-> (Resultado: Obra de arte de simetria perfeita como se um espelho fosse aplicado, com o mesmo número de vasos de flores à esquerda e à direita)
+(Resultado: Obra de arte de simetria perfeita como se um espelho fosse aplicado, com o mesmo número de vasos de flores à esquerda e à direita)
 
 ---
 

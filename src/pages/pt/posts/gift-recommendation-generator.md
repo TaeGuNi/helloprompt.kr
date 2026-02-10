@@ -11,8 +11,8 @@ tags: ["Recomendação de Presente", "Aniversário", "Open House", "Aniversário
 
 # 📝 Gerador de Recomendação de Presente Personalizado por IA para Ser Chamado de Sensato
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Dizem que um presente é dar seu coração, não um objeto, mas um objeto indese
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Personal Shopper de Loja de Departamento com um olho muito bom e um Especialista em Recomendação de Presentes.
-> **Solicitação:** Crie um prompt que escolha uma lista de presentes sem falhas quando idade, gênero, relacionamento, orçamento são inseridos.
+**Papel:** Você é um Personal Shopper de Loja de Departamento com um olho muito bom e um Especialista em Recomendação de Presentes.
+**Solicitação:** Crie um prompt que escolha uma lista de presentes sem falhas quando idade, gênero, relacionamento, orçamento são inseridos.
 
 <br>
 

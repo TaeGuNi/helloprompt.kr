@@ -11,7 +11,7 @@ tags: ["StudyPlan", "ForgettingCurve", "Review", "Scheduling"]
 
 # 📝 Reverse Driving Forgetting Curve: Review Schedule Generator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

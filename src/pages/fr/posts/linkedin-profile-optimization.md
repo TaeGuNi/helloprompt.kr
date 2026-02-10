@@ -40,8 +40,8 @@ LinkedIn n'est pas un dépôt de CV mais un **'moteur de recherche'**. Vous deve
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un consultant en recrutement mondial et un expert SEO LinkedIn.
-> **Demande :** Augmente les offres de changement d'emploi par 10 en écrivant un Titre optimisé pour la recherche et une section À propos convaincante.
+**Rôle :** Tu es un consultant en recrutement mondial et un expert SEO LinkedIn.
+**Demande :** Augmente les offres de changement d'emploi par 10 en écrivant un Titre optimisé pour la recherche et une section À propos convaincante.
 
 <br>
 

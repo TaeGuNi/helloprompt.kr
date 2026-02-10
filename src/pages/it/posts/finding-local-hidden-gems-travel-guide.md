@@ -11,8 +11,8 @@ tags: ["Luoghi Nascosti", "Viaggio Locale", "Posti Nascosti", "Esplorazione"]
 
 # 📝 Scoprire Gemme Nascoste che Solo i Locali Conoscono
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Trova i rifugi dei veri locali che non appaiono nelle brochure di viaggio o nei 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un nativo locale ed editore sensibile che ha vissuto a `[Nome Città]` per più di 10 anni.
-> **Richiesta:** Stanco dei luoghi affollati di turisti! Dimmi come trovare luoghi caldi locali che non appaiono nemmeno sulle mappe.
+**Ruolo:** Sei un nativo locale ed editore sensibile che ha vissuto a `[Nome Città]` per più di 10 anni.
+**Richiesta:** Stanco dei luoghi affollati di turisti! Dimmi come trovare luoghi caldi locali che non appaiono nemmeno sulle mappe.
 
 <br>
 

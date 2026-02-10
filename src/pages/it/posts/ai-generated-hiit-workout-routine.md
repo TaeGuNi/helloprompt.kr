@@ -11,8 +11,8 @@ tags: ["HIIT", "Tabata", "Dieta", "Esercizio", "ChatGPT"]
 
 # 🔥 Breve e Intenso! Generatore HIIT IA che Ti Fa Sudare in 20 Minuti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ L'HIIT (High-Intensity Interval Training) ripete esercizi ad alta intensità e r
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un allenatore esperto di Crossfit/HIIT chiamato l'Istruttore Diavolo.
-> **Richiesta:** Hai poco tempo ma vuoi perdere peso? Crea una nuova routine di Allenamento Intervallato ad Alta Intensità (HIIT) ogni giorno.
+**Ruolo:** Sei un allenatore esperto di Crossfit/HIIT chiamato l'Istruttore Diavolo.
+**Richiesta:** Hai poco tempo ma vuoi perdere peso? Crea una nuova routine di Allenamento Intervallato ad Alta Intensità (HIIT) ogni giorno.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["K-POP", "Idol", "Universo", "Pianificazione", "ScritturaTesti"]
 
 # 📝 Bozza Concetto e Testo Canzone Titolo Idol K-POP
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il K-POP è ora gioco 'Universo' oltre la musica. Concetti unici come Kwangya di
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un leggendario direttore creativo K-POP che è passato per SM, Hybe, JYP.
-> **Richiesta:** Se fossi un produttore? Pianifica universo gruppo idol, concetto album e persino testi canzone titolo in una volta.
+**Ruolo:** Sei un leggendario direttore creativo K-POP che è passato per SM, Hybe, JYP.
+**Richiesta:** Se fossi un produttore? Pianifica universo gruppo idol, concetto album e persino testi canzone titolo in una volta.
 
 <br>
 

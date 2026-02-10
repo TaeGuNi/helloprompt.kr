@@ -11,7 +11,7 @@ tags: ["Travel", "Packing", "Checklist", "Preparation"]
 
 # 📝 Don't Know What to Pack? AI Smart Packing by Travel Destination
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,8 +11,8 @@ tags: ["Verbale", "Whisper", "ChatGPT", "Automazione", "Produttività"]
 
 # 📝 Fuga dall'Inferno delle Riunioni: Da Registrazione a Verbale + Email in 3 Min
 
-> **🎯 Consigliato per:** Junior a cui fanno male i polsi a forza di scrivere, Manager che chiedono "Cosa abbiamo deciso?"
-> **⏱️ Tempo Richiesto:** 3 min (escluso tempo di registrazione)
+**🎯 Consigliato per:** Junior a cui fanno male i polsi a forza di scrivere, Manager che chiedono "Cosa abbiamo deciso?"
+**⏱️ Tempo Richiesto:** 3 min (escluso tempo di registrazione)
 
 - **🤖 Modello Consigliato:** OpenAI Whisper (Trascrizione) + ChatGPT-4o (Riassunto)
 
@@ -20,7 +20,7 @@ tags: ["Verbale", "Whisper", "ChatGPT", "Automazione", "Produttività"]
 | :--------: | :--------: | :--------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Ho scritto tutto durante la riunione, ma ho perso l'occasione di parlare... e ora non ricordo nulla mentre riordino gli appunti... Per quanto tempo devo fare questo?"_
+_"Ho scritto tutto durante la riunione, ma ho perso l'occasione di parlare... e ora non ricordo nulla mentre riordino gli appunti... Per quanto tempo devo fare questo?"_
 
 Smetti di scrivere. Limitati a **'Partecipare'** alla riunione. L'IA fa meglio la registrazione. Ecco un processo per finire **Registrazione → STT → Riassunto → Invio Email** usando solo strumenti gratuiti.
 
@@ -40,9 +40,9 @@ Smetti di scrivere. Limitati a **'Partecipare'** alla riunione. L'IA fa meglio l
 
 Quando ti serve solo il succo.
 
-> **Ruolo:** Sei un segretario competente.
-> **Richiesta:** Leggi lo script della riunione qui sotto e riassumilo in 3 sezioni: [Agenda / Decisioni / Piani Futuri].
-> **Script:** `[Incolla testo qui]`
+**Ruolo:** Sei un segretario competente.
+**Richiesta:** Leggi lo script della riunione qui sotto e riassumilo in 3 sezioni: [Agenda / Decisioni / Piani Futuri].
+**Script:** `[Incolla testo qui]`
 
 <br>
 
@@ -83,21 +83,21 @@ Quando devi fare rapporto al capo o inviare email al team.
 
 ### ❌ Prima (Scritto da Umano)
 
-> Riassunto di oggi. Il team marketing farà 3 bozze di banner, il team dev integrazione API entro questa settimana... Ah aspetta, cosa faceva il team design?
+Riassunto di oggi. Il team marketing farà 3 bozze di banner, il team dev integrazione API entro questa settimana... Ah aspetta, cosa faceva il team design?
 
 ### ✅ Dopo (Automazione IA)
 
-> **[Action Items]**
->
-> | Assegnatario   | Compito                   | Scadenza   |
-> | :------------- | :------------------------ | :--------- |
-> | **Mark (Mkt)** | Creare 3 Bozze Banner     | 2026-02-10 |
-> | **Lee (Dev)**  | Test API Modulo Pagamento | 2026-02-12 |
-> | **Park (Des)** | Revisione Bozza Guida UX  | 2026-02-11 |
->
-> **[Bozza Email]**
-> Oggetto: [Condivisione] Risultati & Action Items della Riunione Settimanale del 8/2
-> Ciao Team, Condivido i risultati della riunione di oggi... (cont.)
+**[Action Items]**
+
+| Assegnatario   | Compito                   | Scadenza   |
+| :------------- | :------------------------ | :--------- |
+| **Mark (Mkt)** | Creare 3 Bozze Banner     | 2026-02-10 |
+| **Lee (Dev)**  | Test API Modulo Pagamento | 2026-02-12 |
+| **Park (Des)** | Revisione Bozza Guida UX  | 2026-02-11 |
+
+**[Bozza Email]**
+Oggetto: [Condivisione] Risultati & Action Items della Riunione Settimanale del 8/2
+Ciao Team, Condivido i risultati della riunione di oggi... (cont.)
 
 ---
 

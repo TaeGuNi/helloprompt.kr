@@ -17,8 +17,8 @@ tags:
 
 # 📝 Generatore di Copy Annunci Facebook/Insta Che Chiama i Clic
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Ti tormenti "Cosa dovrei scrivere?" ogni volta che imposti materiale nel Gestore
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Performance Marketing]`. Scrivi bene copy annunci con alto Tasso di Clic (CTR) e Tasso di Conversione (CVR).
-> **Richiesta:** Crea un prompt su come scrivere Testo Principale Annuncio SNS (Testo Primario) che ferma lo scorrimento.
+**Ruolo:** Sei un `[Esperto di Performance Marketing]`. Scrivi bene copy annunci con alto Tasso di Clic (CTR) e Tasso di Conversione (CVR).
+**Richiesta:** Crea un prompt su come scrivere Testo Principale Annuncio SNS (Testo Primario) che ferma lo scorrimento.
 
 <br>
 

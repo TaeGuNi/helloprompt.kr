@@ -11,8 +11,8 @@ tags: ["Casamento", "Orçamento", "Boda", "Recém-casados"]
 
 # 📝 Excel de Orçamento de Casamento: Lista de Verificação para Prevenir Bomba de Custo Extra
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A preparação do casamento é uma série de 'escolhas' e 'custos extras'. Se vo
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Planejador de Casamento Profissional]` com 10 anos de experiência e conselheiro financeiro.
-> **Solicitação:** Preveja e economize todos os custos que ocorrem no processo de preparação do casamento, de S.D.M ao dote.
+**Papel:** Você é um `[Planejador de Casamento Profissional]` com 10 anos de experiência e conselheiro financeiro.
+**Solicitação:** Preveja e economize todos os custos que ocorrem no processo de preparação do casamento, de S.D.M ao dote.
 
 <br>
 

@@ -40,8 +40,8 @@ Como encontrar a história enquanto caminha pelos becos da cidade no seu própri
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Planejador de Passeios Narrativos' que conhece cada beco de `[Nome da Cidade]`.
-> **Pedido:** Gratificante sem se inscrever em passeios caros. Guie-me em um curso de caminhada histórica pela cidade tecido com o tema que eu quero.
+**Papel:** Você é um 'Planejador de Passeios Narrativos' que conhece cada beco de `[Nome da Cidade]`.
+**Pedido:** Gratificante sem se inscrever em passeios caros. Guie-me em um curso de caminhada histórica pela cidade tecido com o tema que eu quero.
 
 <br>
 

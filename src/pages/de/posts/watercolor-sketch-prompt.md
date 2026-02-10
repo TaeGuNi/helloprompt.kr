@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Traditionell"]
 
 # 📝 Transparente Emotion: Aquarellskizze
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte ein Skizzengefühl, das leicht mit Farbe verschmiert ist, gezeichn
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen emotionalen Aquarell-Prompt, der Wasserverlaufseffekt und Bleistiftskizzenlinien kombiniert.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen emotionalen Aquarell-Prompt, der Wasserverlaufseffekt und Bleistiftskizzenlinien kombiniert.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Paris cafe painting.`
 
-> (Ergebnis: Schweres Bild, dick gemalt wie Ölgemälde)
+(Ergebnis: Schweres Bild, dick gemalt wie Ölgemälde)
 
 ### ✅ Nachher (Ergebnis)
 
 `Watercolor sketch` Prompt angewendet
 
-> (Ergebnis: Leichte und erfrischende Illustration, bei der Papiertextur spürbar ist und Farbe transparent geschichtet ist)
+(Ergebnis: Leichte und erfrischende Illustration, bei der Papiertextur spürbar ist und Farbe transparent geschichtet ist)
 
 ---
 

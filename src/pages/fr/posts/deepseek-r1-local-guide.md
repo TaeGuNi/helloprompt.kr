@@ -11,15 +11,15 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Code", "Productivité"]
 
 # 💻 Votre Esclave de Code Gratuit sur PC : Guide d'Installation Locale de DeepSeek R1
 
-> **🎯 Recommandé pour :** Les développeurs inquiets de faire fuiter le code de l'entreprise, Les étudiants économisant les frais d'API, Les travailleurs hors ligne
-> **⏱️ Temps Requis :** 10 min
-> **🤖 Modèle Recommandé :** DeepSeek-R1-Distill-Llama-8B (ou 70B)
+**🎯 Recommandé pour :** Les développeurs inquiets de faire fuiter le code de l'entreprise, Les étudiants économisant les frais d'API, Les travailleurs hors ligne
+**⏱️ Temps Requis :** 10 min
+**🤖 Modèle Recommandé :** DeepSeek-R1-Distill-Llama-8B (ou 70B)
 
 | Difficulté | Efficacité |  Utilité   |
 | :--------: | :--------: | :--------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Vous ne pouvez pas coller le code de l'entreprise dans ChatGPT à cause des politiques de sécurité ? Mais vous détestez utiliser des modèles obsolètes et stupides ? Maintenant, enfermez **DeepSeek R1** dans votre ordinateur et faites-le travailler pour vous. 100% Gratuit, 100% Privé."_
+_"Vous ne pouvez pas coller le code de l'entreprise dans ChatGPT à cause des politiques de sécurité ? Mais vous détestez utiliser des modèles obsolètes et stupides ? Maintenant, enfermez **DeepSeek R1** dans votre ordinateur et faites-le travailler pour vous. 100% Gratuit, 100% Privé."_
 
 En 2026, le mot-clé le plus chaud parmi les développeurs est sans aucun doute **"Local LLM"**. Parmi eux, **DeepSeek R1** montre des performances folles (surtout en compétences de codage), souvent appelé "L'Erreur de l'Open Source". Ce guide vous montre la manière la plus simple et la plus rapide d'installer DeepSeek sur votre Mac (ou PC Windows).
 
@@ -85,8 +85,8 @@ Discuter dans le terminal, ce n'est pas cool. Attachons-le à **VS Code** pour e
 4.  Sélectionnez `DeepSeek R1` comme Modèle. (Autodetect fonctionne aussi)
 5.  Maintenant, sélectionnez du code et appuyez sur `Cmd + L` (Win : `Ctrl + L`) pour poser une question.
 
-> **Q :** "Refactorise cette fonction."
-> **R :** (DeepSeek crache du code instantanément)
+**Q :** "Refactorise cette fonction."
+**R :** (DeepSeek crache du code instantanément)
 
 ---
 

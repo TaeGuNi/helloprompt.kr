@@ -11,8 +11,8 @@ tags: ["Reisekosten", "Budget", "Währungsumtausch", "Reisevorbereitung"]
 
 # 📝 KI-Reisebudget-Rechner für kostengünstiges Reisen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Reisebudget erfordert komplexe Berechnungen unter Berücksichtigung von Flug
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Reisebudget-Analyst', der Reisekosten akribisch verwaltet.
-> **Anfrage:** Wie viel soll ich wechseln? KI berechnet Reisekosten genau richtig ohne Mangel.
+**Rolle:** Du bist ein 'Reisebudget-Analyst', der Reisekosten akribisch verwaltet.
+**Anfrage:** Wie viel soll ich wechseln? KI berechnet Reisekosten genau richtig ohne Mangel.
 
 <br>
 

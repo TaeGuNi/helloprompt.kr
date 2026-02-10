@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Handwerk"]
 
 # 📝 Wärme von Papier: Paper Cutout & Origami
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es ist der **Paper Cutout** (Papierschnitt) und **Origami** Stil, der analoge W�
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Paper-Cutout- und Origami-Stil-Prompt, der sich anfühlt wie das Schneiden und Kleben mehrerer Papierschichten.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Paper-Cutout- und Origami-Stil-Prompt, der sich anfühlt wie das Schneiden und Kleben mehrerer Papierschichten.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Hills and house drawing.`
 
-> (Ergebnis: Gewöhnliche 2D-Illustration)
+(Ergebnis: Gewöhnliche 2D-Illustration)
 
 ### ✅ Nachher (Ergebnis)
 
 `Paper cutout` Prompt angewendet
 
-> (Ergebnis: Papierhandwerksarbeit, die dreidimensional aussieht, als ob sie aufgrund von Schatten herausspringen würde, und sich rau anfühlt, wenn man sie berührt)
+(Ergebnis: Papierhandwerksarbeit, die dreidimensional aussieht, als ob sie aufgrund von Schatten herausspringen würde, und sich rau anfühlt, wenn man sie berührt)
 
 ---
 

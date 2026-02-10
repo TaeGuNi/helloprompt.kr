@@ -11,8 +11,8 @@ tags: ["Excel", "AnálisisInversión", "VAN", "TIR"]
 
 # 📝 Análisis de Viabilidad de Inversión: Excel de Cálculo Automático de VAN y TIR
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,7 +41,7 @@ No debes mirar solo el monto de la ganancia. Porque el valor del dinero cambia c
 Úsala cuando solo necesites un resultado rápido.
 
 - **Rol:** Eres un `[Experto en Modelado Financiero]`.
-  > **Solicitud:** ¿Debería hacer este negocio? Calcule fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR), indicadores clave de la decisión de inversión, con Excel.
+  **Solicitud:** ¿Debería hacer este negocio? Calcule fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR), indicadores clave de la decisión de inversión, con Excel.
 
 <br>
 

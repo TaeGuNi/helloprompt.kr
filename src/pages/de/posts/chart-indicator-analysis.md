@@ -11,8 +11,8 @@ tags: ["Aktie", "Chartanalyse", "TechnischeAnalyse", "Trading"]
 
 # 📝 Chart-Hilfsindikator-Interpreter: Kaufzeitpunkt erfassen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Technische Analyse ist nützlich, um den Aktienhandelszeitpunkt zu erfassen, abe
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Professioneller Technischer Trader]` mit 15 Jahren Erfahrung.
-> **Anfrage:** Interpretiere einfach schwierige Chart-Indikatoren wie RSI, MACD, Bollinger Bänder.
+**Rolle:** Du bist ein `[Professioneller Technischer Trader]` mit 15 Jahren Erfahrung.
+**Anfrage:** Interpretiere einfach schwierige Chart-Indikatoren wie RSI, MACD, Bollinger Bänder.
 
 <br>
 

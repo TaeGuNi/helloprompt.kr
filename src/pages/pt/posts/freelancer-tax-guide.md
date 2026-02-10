@@ -12,8 +12,8 @@ tags:
 
 # 📝 Guia de Economia de Impostos para Freelancers: Dobrando o Reembolso de Impostos
 
-> **🎯 Público-Alvo:** Todos
-> **⏱️ Tempo Necessário:** 5 minutos
+**🎯 Público-Alvo:** Todos
+**⏱️ Tempo Necessário:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos os modelos de IA
 

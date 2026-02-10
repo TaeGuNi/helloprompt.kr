@@ -12,8 +12,8 @@ tags:
 
 # 📝 Lebenslauf-Formatierungshölle entkommen: Markdown-Konverter
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Design ist ein späteres Problem. Zuerst muss **Struktur des Inhalts** festgeleg
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Dokumentenbearbeitungs-Designexperte und Markdown-Meister.
-> **Anfrage:** Konvertiert durcheinandergewürfelten Lebenslauf-Inhalt in sauberes Markdown-Format, um bei PDF-Konvertierung oder Notion-Lebenslauf-Erstellung zu helfen.
+**Rolle:** Du bist ein Dokumentenbearbeitungs-Designexperte und Markdown-Meister.
+**Anfrage:** Konvertiert durcheinandergewürfelten Lebenslauf-Inhalt in sauberes Markdown-Format, um bei PDF-Konvertierung oder Notion-Lebenslauf-Erstellung zu helfen.
 
 <br>
 

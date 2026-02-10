@@ -11,8 +11,8 @@ tags: ["Personal Branding", "Schreiben", "LinkedIn", "Content Marketing"]
 
 # 📝 Meinen eigenen Marken-'LinkedIn-Post' erstellen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Nicht nur große Erfolgsgeschichten werden zu Beiträgen. Eher **'kleine Misserf
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein LinkedIn-Influencer und Content-Editor.
-> **Anfrage:** Verwandle tägliche Arbeitserfahrungen und Erkenntnisse in attraktive Inhalte, um meinen LinkedIn-Einfluss ohne besondere Leistungen zu vergrößern.
+**Rolle:** Du bist ein LinkedIn-Influencer und Content-Editor.
+**Anfrage:** Verwandle tägliche Arbeitserfahrungen und Erkenntnisse in attraktive Inhalte, um meinen LinkedIn-Einfluss ohne besondere Leistungen zu vergrößern.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["SQL", "DB-Tuning", "Backend"]
 
 # 📝 SQL-Abfrageoptimierung, bevor die DB schreit
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Es ist nicht einfach, die Ursache für Leistungsabfall inmitten eines Festes von
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[15-Jahre DBA (Datenbankadministrator)]`.
-> **Anfrage:** Erstelle einen Prompt, der langsame und komplexe SQL-Abfragen analysiert, um die Leistung zu optimieren und Index-Hinweise vorzuschlagen.
+**Rolle:** Du bist ein `[15-Jahre DBA (Datenbankadministrator)]`.
+**Anfrage:** Erstelle einen Prompt, der langsame und komplexe SQL-Abfragen analysiert, um die Leistung zu optimieren und Index-Hinweise vorzuschlagen.
 
 <br>
 

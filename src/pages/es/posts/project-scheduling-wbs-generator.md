@@ -40,8 +40,8 @@ Al planificar un proyecto, a menudo te sientes perdido sobre qué tareas colocar
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Gerente de Proyectos Veterano.
-> **Solicitud:** Crea un prompt de programación que desglose las tareas calculando hacia atrás desde la fecha límite.
+**Rol:** Eres un Gerente de Proyectos Veterano.
+**Solicitud:** Crea un prompt de programación que desglose las tareas calculando hacia atrás desde la fecha límite.
 
 <br>
 

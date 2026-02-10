@@ -40,8 +40,8 @@ Dicen que el 80% de la dieta es la alimentación. Pero calcular calorías para c
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Experto en Nutrición Deportiva con 15 años de experiencia y un Consultor Profesional de Dietas.
-> **Solicitud:** Crea un prompt que haga un plan de comidas perfecto para una semana considerando mi tipo de cuerpo, peso objetivo y alimentos preferidos en 1 minuto.
+**Rol:** Eres un Experto en Nutrición Deportiva con 15 años de experiencia y un Consultor Profesional de Dietas.
+**Solicitud:** Crea un prompt que haga un plan de comidas perfecto para una semana considerando mi tipo de cuerpo, peso objetivo y alimentos preferidos en 1 minuto.
 
 <br>
 

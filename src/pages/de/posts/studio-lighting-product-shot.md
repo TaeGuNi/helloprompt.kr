@@ -40,8 +40,8 @@ Dies ist **Studio Lighting**, das Unordnung aus dem Hintergrund entfernt und Sie
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Richten Sie Studiobeleuchtung für saubere und professionelle Produktfotos oder Profile ein.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Richten Sie Studiobeleuchtung für saubere und professionelle Produktfotos oder Profile ein.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Perfume bottle on table.`
 
-> (Ergebnis: Foto mit einem lebendigen Gefühl, als ob es auf einem Esstisch zu Hause stünde)
+(Ergebnis: Foto mit einem lebendigen Gefühl, als ob es auf einem Esstisch zu Hause stünde)
 
 ### ✅ Nachher (Ergebnis)
 
 `Studio lighting` Prompt angewendet
 
-> (Ergebnis: Bild in Kaufhaus-Werbequalität, das perfekte Reflexion und Transparenz bietet)
+(Ergebnis: Bild in Kaufhaus-Werbequalität, das perfekte Reflexion und Transparenz bietet)
 
 ---
 

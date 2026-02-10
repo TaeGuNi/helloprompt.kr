@@ -42,8 +42,8 @@ Geben Sie eine Entwurfszeichnung (Architektur) in Auftrag, die perfekt zur Natur
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Chef-Softwarearchitekt, der für großangelegtes Systemdesign verantwortlich ist.
-> **Anfrage:** Erstelle einen Prompt, der optimale Softwarearchitektur wie MVC, Clean Architecture, MSA entwirft, wenn Sie Projektumfang und Anforderungen eingeben.
+**Rolle:** Du bist ein Chef-Softwarearchitekt, der für großangelegtes Systemdesign verantwortlich ist.
+**Anfrage:** Erstelle einen Prompt, der optimale Softwarearchitektur wie MVC, Clean Architecture, MSA entwirft, wenn Sie Projektumfang und Anforderungen eingeben.
 
 <br>
 

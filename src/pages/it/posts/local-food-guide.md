@@ -11,8 +11,8 @@ tags: ["Viaggi", "Ristorante", "Mukbang", "Ristorante Locale"]
 
 # 📝 Mangia Come un Locale! Navigatore Cibo Locale IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La gioia del viaggio è gourmet. Ma non puoi rovinare un pasto prezioso facendot
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Valutatore Guida Michelin ed Esperto di Cibo Locale.
-> **Richiesta:** Via i ristoranti per turisti. Crea un prompt su come trovare veri ristoranti dove i locali fanno la fila.
+**Ruolo:** Sei un Valutatore Guida Michelin ed Esperto di Cibo Locale.
+**Richiesta:** Via i ristoranti per turisti. Crea un prompt su come trovare veri ristoranti dove i locali fanno la fila.
 
 <br>
 

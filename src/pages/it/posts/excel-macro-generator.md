@@ -11,8 +11,8 @@ tags: ["Excel", "Automazione", "VBA", "Trucchi Lavoro"]
 
 # 📊 "Ehi, puoi riassumere questo in Excel?" (Certo, dammi 30 secondi.)
 
-> **🎯 Ideale per:** Principianti Excel, Impiegati stanchi di compiti ripetitivi
-> **⏱️ Tempo risparmiato:** 1 ora (Manuale) → 30 secondi (Automatizzato)
+**🎯 Ideale per:** Principianti Excel, Impiegati stanchi di compiti ripetitivi
+**⏱️ Tempo risparmiato:** 1 ora (Manuale) → 30 secondi (Automatizzato)
 
 - **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["Excel", "Automazione", "VBA", "Trucchi Lavoro"]
 | :--------: | :--------: | :---------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐  |
 
-> _"Excel non è una calcolatrice. È uno **strumento di programmazione**. (Ma è l'IA a programmare.)"_
+_"Excel non è una calcolatrice. È uno **strumento di programmazione**. (Ma è l'IA a programmare.)"_
 
 CERCA.VERT, Tabelle Pivot, Formattazione Condizionale... Li cerchi su Google ogni volta?
 Di' solo: "Confronta la Colonna A e B, ed evidenzia le differenze in rosso." L'IA scriverà la formula per te.
@@ -41,11 +41,11 @@ Di' solo: "Confronta la Colonna A e B, ed evidenzia le differenze in rosso." L'I
 
 Usalo per calcoli veloci.
 
-> **Ruolo:** Sei un esperto di Excel.
-> **Compito:** Fornisci una formula Excel per ottenere `[Risultato Desiderato]` dai dati qui sotto.
-> **Esempio di Dati:**
->
-> - Col A: Nome / Col B: Punteggio / Col C: Promosso/Bocciato
+**Ruolo:** Sei un esperto di Excel.
+**Compito:** Fornisci una formula Excel per ottenere `[Risultato Desiderato]` dai dati qui sotto.
+**Esempio di Dati:**
+
+- Col A: Nome / Col B: Punteggio / Col C: Promosso/Bocciato
 
 <br>
 

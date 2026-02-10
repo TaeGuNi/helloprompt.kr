@@ -11,9 +11,9 @@ tags: ["JDR", "PNJ", "Personnage", "Roman", "Réglage"]
 
 # 📝 Générateur de PNJ Instantané : Créer des Personnages Vivants
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les joueurs s'intéressent toujours aux PNJ que le maître n'a pas préparés. S
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un acteur et écrivain vétéran qui a vécu des milliers de vies.
-> **Demande :** Ne paniquez pas si les joueurs parlent soudainement à quelqu'un. Créez un PNJ avec personnalité, ton et secret en 10 secondes.
+**Rôle :** Tu es un acteur et écrivain vétéran qui a vécu des milliers de vies.
+**Demande :** Ne paniquez pas si les joueurs parlent soudainement à quelqu'un. Créez un PNJ avec personnalité, ton et secret en 10 secondes.
 
 <br>
 

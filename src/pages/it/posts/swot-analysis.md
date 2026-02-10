@@ -11,8 +11,8 @@ tags: ["Azioni", "AnalisiAziendale", "SWOT", "Strategia"]
 
 # 📝 Standard di Analisi Aziendale: Analizzatore SWOT IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Lo strumento più basilare ma potente quando si analizza un'azienda è l'analisi
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Consulente Strategico]` presso una società di consulenza gestionale.
-> **Richiesta:** Cogli a colpo d'occhio punti di forza, debolezze, opportunità e minacce dell'azienda in cui intendo investire.
+**Ruolo:** Sei un `[Consulente Strategico]` presso una società di consulenza gestionale.
+**Richiesta:** Cogli a colpo d'occhio punti di forza, debolezze, opportunità e minacce dell'azienda in cui intendo investire.
 
 <br>
 

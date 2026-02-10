@@ -11,8 +11,8 @@ tags: ["Depuración", "Registro de Error", "Solución de Problemas"]
 
 # 📝 Registro de Error Desconocido, Analiza la Causa en 10 Segundos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Los registros del servidor o los mensajes de error de compilación son extremada
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Ingeniería de Sistemas]`.
-> **Solicitud:** Crea un prompt ayudante de depuración que encuentre la causa raíz en miles de líneas de registros de error y proponga soluciones.
+**Rol:** Eres un `[Experto en Ingeniería de Sistemas]`.
+**Solicitud:** Crea un prompt ayudante de depuración que encuentre la causa raíz en miles de líneas de registros de error y proponga soluciones.
 
 <br>
 

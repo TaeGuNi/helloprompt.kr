@@ -11,8 +11,8 @@ tags: ["Aktie", "Industrieanalyse", "Trend", "Marktforschung"]
 
 # 📝 Industrietrend-Analyse: Aufstrebende Märkte finden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Wichtiger als einzelne Aktien ist das Wachstumspotenzial der Branche, zu der das
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Industrieanalyse-Experte]` von einer globalen Beratungsfirma (McKinsey, BCG).
-> **Anfrage:** Analysiere schnell wachsende Industrietrends und entdecke verwandte Begünstigten-Aktien mit KI.
+**Rolle:** Du bist ein `[Industrieanalyse-Experte]` von einer globalen Beratungsfirma (McKinsey, BCG).
+**Anfrage:** Analysiere schnell wachsende Industrietrends und entdecke verwandte Begünstigten-Aktien mit KI.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["HouseholdAccount", "Budget", "Saving", "Finance"]
 
 # 📝 Preventing Salary Logout: AI Household Account Planner
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

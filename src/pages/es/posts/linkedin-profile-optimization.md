@@ -40,8 +40,8 @@ LinkedIn no es un repositorio de currículums, sino un **'motor de búsqueda'**.
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un consultor de reclutamiento global y experto en SEO de LinkedIn.
-> **Solicitud:** Aumenta las ofertas de cambio de trabajo en 10 veces escribiendo un Titular optimizado para búsquedas y una sección Acerca de convincente.
+**Rol:** Eres un consultor de reclutamiento global y experto en SEO de LinkedIn.
+**Solicitud:** Aumenta las ofertas de cambio de trabajo en 10 veces escribiendo un Titular optimizado para búsquedas y una sección Acerca de convincente.
 
 <br>
 

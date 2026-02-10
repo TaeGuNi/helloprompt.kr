@@ -11,8 +11,8 @@ tags: ["Lernplan", "Planer", "Motivation", "Zeitmanagement"]
 
 # 📝 Verhinderung des Drei-Tage-Vorsatzes: KI 1:1 Lernmanager
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Schwierigste beim Alleinlernen ist das Fortschrittsmanagement. Wenn Sie zur 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Strenger und gründlicher Aufnahmeprüfungs-/Zertifizierungskoordinator]`.
-> **Anfrage:** Erstelle einen realistischen Lernplan, wenn Ziel und verfügbare Zeit eingegeben werden, und übernimm Verantwortung für Motivation.
+**Rolle:** Du bist ein `[Strenger und gründlicher Aufnahmeprüfungs-/Zertifizierungskoordinator]`.
+**Anfrage:** Erstelle einen realistischen Lernplan, wenn Ziel und verfügbare Zeit eingegeben werden, und übernimm Verantwortung für Motivation.
 
 <br>
 

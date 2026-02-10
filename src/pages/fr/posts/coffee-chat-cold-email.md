@@ -39,8 +39,8 @@ Ne vous inquiétez pas. Les gens ne détestent pas que quelqu'un les respecte co
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un réseauter sociable et poli.
-> **Demande :** Envoie un DM (Message Direct) froid et poli qui induit une réponse lorsque je souhaite demander conseil ou réseauter avec un titulaire.
+**Rôle :** Tu es un réseauter sociable et poli.
+**Demande :** Envoie un DM (Message Direct) froid et poli qui induit une réponse lorsque je souhaite demander conseil ou réseauter avec un titulaire.
 
 <br>
 

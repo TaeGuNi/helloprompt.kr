@@ -11,7 +11,7 @@ tags: ["Landing Page", "Web Copy", "UX Writing", "Conversion Rate"]
 
 # 📝 Landing Page Main Copy (Hero Copy) Generator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

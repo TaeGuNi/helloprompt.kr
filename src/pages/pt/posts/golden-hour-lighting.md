@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Iluminação"]
 
 # 📝 Tempo Mágico: Hora Dourada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Curto tempo logo após o nascer do sol ou logo antes do pôr do sol, a **Hora Do
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Aplique Hora Dourada, o truque para fotos quentes e emocionais, ao prompt.
+**Papel:** Você é um especialista.
+**Solicitação:** Aplique Hora Dourada, o truque para fotos quentes e emocionais, ao prompt.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Woman in wheat field.`
 
-> (Resultado: Foto de gravação brilhante e simples em plena luz do dia)
+(Resultado: Foto de gravação brilhante e simples em plena luz do dia)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Golden hour` aplicado
 
-> (Resultado: Foto de vida emocional onde o pôr do sol dourado envolve e as pontas do cabelo quebram na luz do sol)
+(Resultado: Foto de vida emocional onde o pôr do sol dourado envolve e as pontas do cabelo quebram na luz do sol)
 
 ---
 

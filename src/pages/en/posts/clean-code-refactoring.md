@@ -11,7 +11,7 @@ tags: ["Refactoring", "CleanCode", "Developer", "CodeReview"]
 
 # 📝 My Code is Trash! Clean Code Refactoring Coach
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

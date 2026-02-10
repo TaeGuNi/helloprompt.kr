@@ -11,8 +11,8 @@ tags: ["K-POP", "Idol", "Universum", "Planung", "Textschreiben"]
 
 # 📝 K-POP Idol Titelsong-Konzept & Textentwurf
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ K-POP ist jetzt 'Universum'-Spiel jenseits von Musik. Einzigartige Konzepte wie 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein legendärer K-POP-Kreativdirektor, der durch SM, Hybe, JYP gegangen ist.
-> **Anfrage:** Wenn ich Produzent wäre? Planen Sie Idol-Gruppen-Universum, Albumkonzept und sogar Titelsongtexte auf einmal.
+**Rolle:** Du bist ein legendärer K-POP-Kreativdirektor, der durch SM, Hybe, JYP gegangen ist.
+**Anfrage:** Wenn ich Produzent wäre? Planen Sie Idol-Gruppen-Universum, Albumkonzept und sogar Titelsongtexte auf einmal.
 
 <br>
 

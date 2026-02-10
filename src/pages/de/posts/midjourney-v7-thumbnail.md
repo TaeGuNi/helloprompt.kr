@@ -11,8 +11,8 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "KIKunst"]
 
 # 🎨 Midjourney v7 Praxis: 'Blog Thumbnail' Formel für Nicht-Designer
 
-> **🎯 Empfohlen für:** Blogger mit tollem Schreibstil aber schrecklichen Fotos, Redakteure, die müde von kostenlosen Stock-Seiten sind
-> **⏱️ Benötigte Zeit:** 1 Min
+**🎯 Empfohlen für:** Blogger mit tollem Schreibstil aber schrecklichen Fotos, Redakteure, die müde von kostenlosen Stock-Seiten sind
+**⏱️ Benötigte Zeit:** 1 Min
 
 - **🤖 Empfohlenes Modell:** Midjourney v7 (oder Dall-E 3)
 
@@ -20,7 +20,7 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "KIKunst"]
 | :-----------: | :----------: | :--------: |
 |    ⭐⭐☆☆☆    |  ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Der Inhalt ist perfekt... aber warum ist das Titelbild so hässlich?"_
+_"Der Inhalt ist perfekt... aber warum ist das Titelbild so hässlich?"_
 
 80% des Blog-Traffics hängen von Titel und Thumbnail ab. Kostenlose Stock-Fotos (Unsplash) sind Klischee, und selbst zeichnen ist unmöglich. Frage jetzt den **KI-Künstler**. Hier ist die Formel, um Illustrationen in Designer-Qualität mit der neuesten Version von 2026, **Midjourney v7**, zu erstellen.
 
@@ -40,8 +40,8 @@ tags: ["Midjourney", "Design", "Thumbnail", "Blog", "KIKunst"]
 
 Trendiger, sauberer Notion/Toss-Stil.
 
-> **Prompt:**
-> `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+**Prompt:**
+`cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
 <br>
 

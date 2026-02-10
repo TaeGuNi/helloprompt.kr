@@ -17,8 +17,8 @@ tags:
 
 # 📝 Etiqueta Empresarial Global para Viagens de Negócios de Sucesso
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Negócios são detalhes. Um pequeno gesto pode construir confiança ou destruí-
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Consultor de Negócios Internacionais' com 20 anos de experiência.
-> **Pedido:** Cartões de visita com as duas mãos? Quem aperta a mão primeiro? Diga-me modos de negócios por país que trazem contratos.
+**Papel:** Você é um 'Consultor de Negócios Internacionais' com 20 anos de experiência.
+**Pedido:** Cartões de visita com as duas mãos? Quem aperta a mão primeiro? Diga-me modos de negócios por país que trazem contratos.
 
 <br>
 

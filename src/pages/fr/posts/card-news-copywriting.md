@@ -11,9 +11,9 @@ tags: ["Card News", "Rédaction", "Marketing SNS"]
 
 # 📝 Secrets de Rédaction de Card News qui Appellent aux Clics
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Pour survivre dans le déluge de contenu SNS, vous devez capter l'attention en 0
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Marketing de Contenu SNS]`.
-> **Demande :** Crée un prompt qui extrait des titres puissants et des textes de card news qui arrêtent les doigts sur les fils Instagram.
+**Rôle :** Tu es un `[Expert en Marketing de Contenu SNS]`.
+**Demande :** Crée un prompt qui extrait des titres puissants et des textes de card news qui arrêtent les doigts sur les fils Instagram.
 
 <br>
 

@@ -11,7 +11,7 @@ tags: ["CoverLetter", "SelfIntro", "JDAnalysis", "Job"]
 
 # 📝 JD (Job Description) Tailored Cover Letter Draft Generator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,8 +11,8 @@ tags: ["Viaggi", "Programma", "Pianificatore", "Viaggi all'Estero"]
 
 # 📝 Pianificatore di Itinerari di Viaggio Iper-Personalizzato IA Più Meticoloso di J
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La pianificazione del viaggio è faticosa. Ci sono molti posti dove andare, le d
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei una Guida Turistica Professionista esperta in situazioni locali e un Maestro di Gestione Programmi.
-> **Richiesta:** Crea un prompt per ricevere un piano di viaggio perfetto considerando gusto, percorso e resistenza in 1 minuto.
+**Ruolo:** Sei una Guida Turistica Professionista esperta in situazioni locali e un Maestro di Gestione Programmi.
+**Richiesta:** Crea un prompt per ricevere un piano di viaggio perfetto considerando gusto, percorso e resistenza in 1 minuto.
 
 <br>
 

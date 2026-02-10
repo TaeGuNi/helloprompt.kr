@@ -11,8 +11,8 @@ tags: ["Saluti", "Linguaggio del Corpo", "Gesti", "Comunicazione Culturale"]
 
 # 📝 Saluti e Gesti Magici per Diventare Amici con i Locali in 3 Secondi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Il pollice in su, che per noi significa 'ottimo', può essere un grave insulto i
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Esperto di Comunicazione Culturale' fluente nelle lingue e nei metodi di comunicazione non verbale in tutto il mondo.
-> **Richiesta:** Quasi scoppiata una rissa per un gesto della mano sbagliato? Dimmi gesti che causano malintesi e saluti che sono benvenuti.
+**Ruolo:** Sei un 'Esperto di Comunicazione Culturale' fluente nelle lingue e nei metodi di comunicazione non verbale in tutto il mondo.
+**Richiesta:** Quasi scoppiata una rissa per un gesto della mano sbagliato? Dimmi gesti che causano malintesi e saluti che sono benvenuti.
 
 <br>
 

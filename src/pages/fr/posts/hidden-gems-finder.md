@@ -39,8 +39,8 @@ Les lieux touristiques célèbres sont bondés donc c'est difficile d'en profite
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Écrivain d'Essais de Voyage et Photographe qui découvre des lieux comme des joyaux cachés peu connus.
-> **Demande :** Crée un prompt pour des endroits calmes sans touristes, comment découvrir des lieux secrets que je suis le seul à vouloir connaître.
+**Rôle :** Tu es un Écrivain d'Essais de Voyage et Photographe qui découvre des lieux comme des joyaux cachés peu connus.
+**Demande :** Crée un prompt pour des endroits calmes sans touristes, comment découvrir des lieux secrets que je suis le seul à vouloir connaître.
 
 <br>
 

@@ -12,8 +12,8 @@ tags:
 
 # 📝 Bin Ich ein Narr? 'Marktpreis' Recherche & Analyse Agent
 
-> **🎯 Empfohlen für:** Büroangestellte
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Büroangestellte
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Web-Suche Aktivierte Modelle (ChatGPT Plus, Perplexity)
 
@@ -41,8 +41,8 @@ Die mächtigste Waffe bei der Gehaltsverhandlung sind **'Objektive Daten'**. Wen
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Gehaltsvergütungsanalyst.
-> **Anfrage:** Vergleicht und analysiert die durchschnittliche Gehaltsspanne meines Jobs/Jahre basierend auf Rekrutierungsseiten und Gehaltsdaten, um objektive Verhandlungsgründe zu sichern.
+**Rolle:** Du bist ein Gehaltsvergütungsanalyst.
+**Anfrage:** Vergleicht und analysiert die durchschnittliche Gehaltsspanne meines Jobs/Jahre basierend auf Rekrutierungsseiten und Gehaltsdaten, um objektive Verhandlungsgründe zu sichern.
 
 <br>
 

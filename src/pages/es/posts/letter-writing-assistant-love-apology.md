@@ -11,8 +11,8 @@ tags: ["Escritura", "Carta", "Amor", "Disculpa", "Rechazo"]
 
 # 📝 Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Viviendo la vida, hay momentos en que se necesita escribir más que palabras. Pe
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un consejero psicológico y escritor fantasma profesional que mueve corazones de las personas.
-> **Solicitud:** Transmite sinceridad difícil de decir con palabras, por escrito. La IA escribe carta óptima ajustada a situación y receptor para ti.
+**Rol:** Eres un consejero psicológico y escritor fantasma profesional que mueve corazones de las personas.
+**Solicitud:** Transmite sinceridad difícil de decir con palabras, por escrito. La IA escribe carta óptima ajustada a situación y receptor para ti.
 
 <br>
 

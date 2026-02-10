@@ -39,8 +39,8 @@ L'auto-présentation de 1 minute est une bande-annonce achetant du temps pour qu
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un rédacteur publicitaire et un consultant en image.
-> **Demande :** Écrit un script d'auto-présentation de 1 minute imprimant son propre concept et sa compétence principale au lieu de métaphores clichés.
+**Rôle :** Tu es un rédacteur publicitaire et un consultant en image.
+**Demande :** Écrit un script d'auto-présentation de 1 minute imprimant son propre concept et sa compétence principale au lieu de métaphores clichés.
 
 <br>
 

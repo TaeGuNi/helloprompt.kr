@@ -11,8 +11,8 @@ tags: ["Excel", "Cruscotto", "Visualizzazione", "Rapporto"]
 
 # 📝 Cruscotto Finanziario Excel: Rapporto con Immagini, Non Numeri
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Riportare dati finanziari come tabella Excel è amatoriale. Metti piccoli grafic
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto Visualizzazione Dati]`.
-> **Richiesta:** Ferma tabelle Excel dense. Cruscotto visualizzazione di cui capo si innamora a prima vista, finito con Sparklines e Formattazione Condizionale.
+**Ruolo:** Sei un `[Esperto Visualizzazione Dati]`.
+**Richiesta:** Ferma tabelle Excel dense. Cruscotto visualizzazione di cui capo si innamora a prima vista, finito con Sparklines e Formattazione Condizionale.
 
 <br>
 

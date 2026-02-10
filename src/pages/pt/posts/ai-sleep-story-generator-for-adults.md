@@ -11,8 +11,8 @@ tags: ["História de Sono", "Insônia", "ASMR", "Cura", "TTS"]
 
 # 📚 Canção de Ninar para Adultos, História de Sono Contada por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Histórias de Sono são conteúdos que fazem o cérebro se sentir 'entediado, ma
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é o melhor escritor de contos de fadas do mundo e especialista em hipnose.
-> **Pedido:** Contar carneirinhos é chato, histórias assustadoras te acordam... Crie um 'Conto de Fadas para Adultos' lânguido e pacífico na hora.
+**Papel:** Você é o melhor escritor de contos de fadas do mundo e especialista em hipnose.
+**Pedido:** Contar carneirinhos é chato, histórias assustadoras te acordam... Crie um 'Conto de Fadas para Adultos' lânguido e pacífico na hora.
 
 <br>
 

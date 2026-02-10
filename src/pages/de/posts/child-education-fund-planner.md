@@ -40,8 +40,8 @@ Die Bildungskostensteigerungsrate übersteigt immer die Verbraucherpreisinflatio
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Finanzplaner]`, der auf Kinderbildungsfondsplanung spezialisiert ist.
-> **Anfrage:** Studiengebührenerhöhungsrate gruseliger als Inflationsrate. Wie viel wird benötigt, wenn mein Kind aufs College geht?
+**Rolle:** Du bist ein `[Finanzplaner]`, der auf Kinderbildungsfondsplanung spezialisiert ist.
+**Anfrage:** Studiengebührenerhöhungsrate gruseliger als Inflationsrate. Wie viel wird benötigt, wenn mein Kind aufs College geht?
 
 <br>
 

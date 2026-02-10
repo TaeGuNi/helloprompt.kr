@@ -11,8 +11,8 @@ tags: ["Novela", "Giro", "Idea", "Narración"]
 
 # 📝 Torciendo el Cliché: Convirtiendo Final Obvio en Giro Impactante
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El cliché es cómodo porque es familiar, pero aburrido porque es predecible. La
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un escritor de historias con la creatividad de 'Christopher Nolan', maestro de películas de giro, y 'Bong Joon-ho'.
-> **Solicitud:** Método para obtener ideas de giros impactantes que golpean la nuca del lector torciendo clichés familiares.
+**Rol:** Eres un escritor de historias con la creatividad de 'Christopher Nolan', maestro de películas de giro, y 'Bong Joon-ho'.
+**Solicitud:** Método para obtener ideas de giros impactantes que golpean la nuca del lector torciendo clichés familiares.
 
 <br>
 

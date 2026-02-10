@@ -39,8 +39,8 @@ Plus de 50 % des expressions que les locuteurs natifs utilisent dans la vie quot
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Scénariste Hollywoodien Américain et Expert en Argot]`.
-> **Demande :** Créez un prompt qui trouve de vraies expressions natives, des mots à la mode et des idiomes n'apparaissant jamais dans les manuels adaptés aux situations.
+**Rôle :** Tu es un `[Scénariste Hollywoodien Américain et Expert en Argot]`.
+**Demande :** Créez un prompt qui trouve de vraies expressions natives, des mots à la mode et des idiomes n'apparaissant jamais dans les manuels adaptés aux situations.
 
 <br>
 

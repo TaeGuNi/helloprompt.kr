@@ -11,10 +11,10 @@ tags: ["Music Travel", "Jazz Bar", "Live Club", "Local Culture", "Nightlife"]
 
 # 📝 Finding Live Bars & Jazz Clubs Where Local Hipsters Go
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

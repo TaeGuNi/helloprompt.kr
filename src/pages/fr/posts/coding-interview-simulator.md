@@ -11,9 +11,9 @@ tags: ["TestCodage", "EntretienTechnique", "Algorithme", "PréparationEmploi"]
 
 # 📝 Passe-Droit Entretien Développeur : Examen Blanc d'Entretien Algorithmique
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le test de codage ne se termine pas simplement par obtenir la bonne réponse. L'
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Intervieweur Développeur en Chef de Google/Naver]`.
-> **Demande :** Pratique comme en vrai avec un intervieweur IA pour se préparer aux tests de codage et aux entretiens techniques des grandes entreprises technologiques.
+**Rôle :** Tu es un `[Intervieweur Développeur en Chef de Google/Naver]`.
+**Demande :** Pratique comme en vrai avec un intervieweur IA pour se préparer aux tests de codage et aux entretiens techniques des grandes entreprises technologiques.
 
 <br>
 

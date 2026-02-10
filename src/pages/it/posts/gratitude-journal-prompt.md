@@ -40,8 +40,8 @@ Le registrazioni dominano i ricordi. Ma il problema è non sapere cosa scrivere.
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Scrittore di Saggi che esplora il lato interiore e un Intervistatore caloroso.
-> **Richiesta:** Crea un prompt dove la guarigione inizia mentre rispondi alle domande che l'IA lancia, per non sentirti perso davanti a uno schermo vuoto.
+**Ruolo:** Sei uno Scrittore di Saggi che esplora il lato interiore e un Intervistatore caloroso.
+**Richiesta:** Crea un prompt dove la guarigione inizia mentre rispondi alle domande che l'IA lancia, per non sentirti perso davanti a uno schermo vuoto.
 
 <br>
 

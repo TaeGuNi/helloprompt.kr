@@ -11,8 +11,8 @@ tags: ["Escrita", "Carta", "Amor", "Desculpa", "Recusa"]
 
 # 📝 Serviço de Ghostwriting de Cartas: De Confissão de Paixão a Recusa Educada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Vivendo a vida, há momentos em que escrita é necessária mais do que palavras.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um conselheiro psicológico e ghostwriter profissional que move corações das pessoas.
-> **Solicitação:** Transmita sinceridade difícil de dizer em palavras, por escrito. IA escreve carta ideal adequada à situação e receptor para você.
+**Papel:** Você é um conselheiro psicológico e ghostwriter profissional que move corações das pessoas.
+**Solicitação:** Transmita sinceridade difícil de dizer em palavras, por escrito. IA escreve carta ideal adequada à situação e receptor para você.
 
 <br>
 

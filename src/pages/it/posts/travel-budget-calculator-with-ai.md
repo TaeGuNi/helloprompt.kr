@@ -11,8 +11,8 @@ tags: ["Spese di Viaggio", "Budget", "Cambio Valuta", "Preparazione Viaggio"]
 
 # 📝 Calcolatore di Budget di Viaggio con IA per Viaggi Convenienti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ Il budget di viaggio richiede calcoli complessi considerando biglietti aerei, al
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Analista di Budget di Viaggio' che gestisce meticolosamente le spese di viaggio.
-> **Richiesta:** Quanto dovrei cambiare? L'IA calcola le spese di viaggio proprio bene senza mancanze.
+**Ruolo:** Sei un 'Analista di Budget di Viaggio' che gestisce meticolosamente le spese di viaggio.
+**Richiesta:** Quanto dovrei cambiare? L'IA calcola le spese di viaggio proprio bene senza mancanze.
 
 <br>
 

@@ -40,8 +40,8 @@ LinkedIn ist kein Lebenslauf-Repository, sondern eine **'Suchmaschine'**. Sie m�
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein globaler Personalberater und LinkedIn-SEO-Experte.
-> **Anfrage:** Erhöhe Jobwechselangebote um das 10-fache, indem du eine suchoptimierte Überschrift und einen überzeugenden Info-Bereich schreibst.
+**Rolle:** Du bist ein globaler Personalberater und LinkedIn-SEO-Experte.
+**Anfrage:** Erhöhe Jobwechselangebote um das 10-fache, indem du eine suchoptimierte Überschrift und einen überzeugenden Info-Bereich schreibst.
 
 <br>
 

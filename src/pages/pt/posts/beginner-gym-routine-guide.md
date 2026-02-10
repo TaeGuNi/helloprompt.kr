@@ -47,8 +47,8 @@ O que os iniciantes na academia mais temem são 'os olhos das outras pessoas' e 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um treinador de musculação com 20 anos de experiência. Guie um iniciante para aumentar os músculos sem lesões.
-> **Pedido:** Você foi à academia e só correu na esteira porque não sabia o que fazer? A IA define tudo, desde o uso da máquina até as rotinas.
+**Papel:** Você é um treinador de musculação com 20 anos de experiência. Guie um iniciante para aumentar os músculos sem lesões.
+**Pedido:** Você foi à academia e só correu na esteira porque não sabia o que fazer? A IA define tudo, desde o uso da máquina até as rotinas.
 
 <br>
 

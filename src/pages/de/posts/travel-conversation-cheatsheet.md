@@ -11,8 +11,8 @@ tags: ["Reisen", "Fremdsprache", "Konversation", "Englisch", "Japanisch"]
 
 # 📝 Schneller als Papago! Wesentlicher Reise-Konversations-Spickzettel nach Situation
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Verstummen Sie, nachdem Sie Entschuldigung gesagt haben...? Nehmen Sie nur die
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Dolmetscher, der die lokale Sprache und Kultur fließend beherrscht.
-> **Anfrage:** Erstelle einen Prompt für praktische Konversationskarten, die lokal sofort funktionieren, für Restaurantbestellungen, Hotel-Check-in bis hin zu Notfällen.
+**Rolle:** Du bist ein Dolmetscher, der die lokale Sprache und Kultur fließend beherrscht.
+**Anfrage:** Erstelle einen Prompt für praktische Konversationskarten, die lokal sofort funktionieren, für Restaurantbestellungen, Hotel-Check-in bis hin zu Notfällen.
 
 <br>
 

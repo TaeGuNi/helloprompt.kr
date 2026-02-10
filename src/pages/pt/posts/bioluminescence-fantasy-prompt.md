@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasia", "Cor"]
 
 # 📝 Brilho Fantástico: Bioluminescência
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ _"Quero expressar uma floresta que brilha como joias à noite."_
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista.
-> **Solicitação:** Diga-me como desenhar criaturas e ambientes que emitem luz por si mesmos como o Planeta Pandora em Avatar.
+**Papel:** Você é um especialista.
+**Solicitação:** Diga-me como desenhar criaturas e ambientes que emitem luz por si mesmos como o Planeta Pandora em Avatar.
 
 <br>
 
@@ -73,13 +73,13 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 
 `Forest at night with lights.`
 
-> (Resultado: Sensação artificial como postes de luz acesos na floresta ou feixes de lanterna)
+(Resultado: Sensação artificial como postes de luz acesos na floresta ou feixes de lanterna)
 
 ### ✅ Depois (Resultado)
 
 Prompt `Bioluminescence` aplicado
 
-> (Resultado: Mundo de fantasia onde luz brilhante jorra das veias das folhas das plantas e das tampas dos cogumelos)
+(Resultado: Mundo de fantasia onde luz brilhante jorra das veias das folhas das plantas e das tampas dos cogumelos)
 
 ---
 

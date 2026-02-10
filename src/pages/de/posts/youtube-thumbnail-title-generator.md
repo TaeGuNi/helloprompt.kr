@@ -11,8 +11,8 @@ tags: ["YouTube", "Thumbnail", "Titel-Generator", "Clickbait", "Aufrufe"]
 
 # 📺 "Inhalt ist King? Nein, der Klick ist King."
 
-> **🎯 Empfohlen für:** Kleine YouTuber, Kreative ohne Ideen, Editoren im Thumbnail-Stress
-> **⏱️ Zeitersparnis:** 1 Stunde (Planung) → 3 Min (10 Ideen)
+**🎯 Empfohlen für:** Kleine YouTuber, Kreative ohne Ideen, Editoren im Thumbnail-Stress
+**⏱️ Zeitersparnis:** 1 Stunde (Planung) → 3 Min (10 Ideen)
 
 - **🤖 Empfohlenes Modell:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Thumbnail", "Titel-Generator", "Clickbait", "Aufrufe"]
 | :-----------: | :----------: | :------------: |
 |    ⭐☆☆☆☆     |  ⭐⭐⭐⭐⭐  |   ⭐⭐⭐⭐⭐   |
 
-> _"Warten Sie nicht auf den Algorithmus. **Füttern Sie den Algorithmus.**"_
+_"Warten Sie nicht auf den Algorithmus. **Füttern Sie den Algorithmus.**"_
 
 Tage mit Drehen und Schneiden verbracht, aber nur 50 Aufrufe?
 Es liegt nicht an Ihrem Inhalt. Es liegt an Ihrer **Verpackung (Thumbnail/Titel)**.

@@ -11,8 +11,8 @@ tags: ["YouTube", "Miniatura", "Generador de Títulos", "Clickbait", "Vistas"]
 
 # 📺 "¿El contenido es el Rey? No, el Click es el Rey."
 
-> **🎯 Ideal para:** YouTubers pequeños, Creadores sin ideas, Editores atascados en miniaturas
-> **⏱️ Tiempo ahorrado:** 1 hora (Planificación) → 3 min (10 Ideas)
+**🎯 Ideal para:** YouTubers pequeños, Creadores sin ideas, Editores atascados en miniaturas
+**⏱️ Tiempo ahorrado:** 1 hora (Planificación) → 3 min (10 Ideas)
 
 - **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Miniatura", "Generador de Títulos", "Clickbait", "Vistas"]
 | :--------: | :---------: | :----------: |
 |   ⭐☆☆☆☆   | ⭐⭐⭐⭐⭐  |  ⭐⭐⭐⭐⭐  |
 
-> _"No esperes al Algoritmo. **Alimenta al Algoritmo.**"_
+_"No esperes al Algoritmo. **Alimenta al Algoritmo.**"_
 
 ¿Pasaste días grabando y editando, pero obtuviste 50 vistas?
 No es tu contenido. Es tu **Empaquetado (Miniatura/Título)**.
@@ -42,9 +42,9 @@ Enseña a la IA cómo activar la curiosidad humana y obtén ganchos de nivel pro
 
 Cuando solo necesitas títulos pegadizos rápido.
 
-> **Rol:** Eres un estratega de canales para un YouTuber con 1 millón de suscriptores.
-> **Tarea:** Genera 10 títulos de alto CTR para mi video.
-> **Tema:** `[Tema del Video]`
+**Rol:** Eres un estratega de canales para un YouTuber con 1 millón de suscriptores.
+**Tarea:** Genera 10 títulos de alto CTR para mi video.
+**Tema:** `[Tema del Video]`
 
 <br>
 

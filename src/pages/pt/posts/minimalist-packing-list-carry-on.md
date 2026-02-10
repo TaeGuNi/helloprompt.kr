@@ -11,8 +11,8 @@ tags: ["Embalagem", "Minimalismo", "Bagagem de Mão", "Lista de Embalagem"]
 
 # 📝 Lista de Embalagem Minimalista Terminando com Apenas uma Mala de Mão
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Malas pesadas são inimigas da viagem. Mover-se é difícil e taxas de bagagem e
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'especialista em embalagem minimalista' que viaja pelo mundo com apenas uma mochila de 7 kg.
-> **Pedido:** Viajar é agradável quando a bagagem é leve. Know-how de embalagem inteligente para reduzir bagagem desnecessária e levar apenas o essencial.
+**Papel:** Você é um 'especialista em embalagem minimalista' que viaja pelo mundo com apenas uma mochila de 7 kg.
+**Pedido:** Viajar é agradável quando a bagagem é leve. Know-how de embalagem inteligente para reduzir bagagem desnecessária e levar apenas o essencial.
 
 <br>
 

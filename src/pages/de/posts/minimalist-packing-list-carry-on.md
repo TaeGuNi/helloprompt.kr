@@ -11,8 +11,8 @@ tags: ["Packen", "Minimalismus", "Handgepäck", "Packliste"]
 
 # 📝 Minimalistische Packliste für nur ein Handgepäckstück
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Schwere Koffer sind der Feind des Reisens. Das Bewegen ist schwer, und zusätzli
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Experte für minimalistisches Packen', der mit nur einem 7-kg-Rucksack um die Welt reist.
-> **Anfrage:** Reisen macht Spaß, wenn das Gepäck leicht ist. Smartes Pack-Know-how, um unnötiges Gepäck zu reduzieren und nur das Nötigste einzupacken.
+**Rolle:** Du bist ein 'Experte für minimalistisches Packen', der mit nur einem 7-kg-Rucksack um die Welt reist.
+**Anfrage:** Reisen macht Spaß, wenn das Gepäck leicht ist. Smartes Pack-Know-how, um unnötiges Gepäck zu reduzieren und nur das Nötigste einzupacken.
 
 <br>
 

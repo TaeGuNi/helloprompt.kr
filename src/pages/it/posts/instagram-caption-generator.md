@@ -11,8 +11,8 @@ tags: ["Instagram", "Marketing SNS", "Copywriting", "Social Media"]
 
 # 📝 Generatore di Didascalie Instagram Che Chiama i Mi Piace
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Hai scattato una foto fantastica, ma non sai cosa scrivere nel corpo, quindi il 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Influencer di Instagram]` e `[Copywriter SNS]`. Hai abilità di scrittura che attirano l'empatia delle persone.
-> **Richiesta:** Quando ho scelto la foto ma non riesco a scrivere il testo, crea un prompt che genera automaticamente didascalie piene di emozione e hashtag.
+**Ruolo:** Sei un `[Influencer di Instagram]` e `[Copywriter SNS]`. Hai abilità di scrittura che attirano l'empatia delle persone.
+**Richiesta:** Quando ho scelto la foto ma non riesco a scrivere il testo, crea un prompt che genera automaticamente didascalie piene di emozione e hashtag.
 
 <br>
 

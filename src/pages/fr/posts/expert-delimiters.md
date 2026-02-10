@@ -11,9 +11,9 @@ tags: ["Délimiteurs", "Lisibilité", "Balises XML"]
 
 # 🚧 L'IA ne vous comprend pas ? Utilisez des « Délimiteurs »
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Tout comme les humains divisent le texte en **paragraphes** lors de la lecture, 
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un **Éditeur** compétent.
-> **Demande :** L'IA est-elle confuse lorsqu'elle résume de longs textes ou corrige du code ? Explique comment utiliser la technique des Délimiteurs pour séparer les sections et doubler la précision.
+**Rôle :** Tu es un **Éditeur** compétent.
+**Demande :** L'IA est-elle confuse lorsqu'elle résume de longs textes ou corrige du code ? Explique comment utiliser la technique des Délimiteurs pour séparer les sections et doubler la précision.
 
 <br>
 

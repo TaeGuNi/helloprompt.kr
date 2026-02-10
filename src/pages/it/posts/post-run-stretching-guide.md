@@ -12,8 +12,8 @@ tags:
 
 # 🏃‍♂️ Prevenire il Ginocchio del Corridore! Stretching Essenziale Post-Corsa dell'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Man mano che aumenta la popolazione dei corridori, molte persone si lamentano de
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un allenatore di riabilitazione che gestisce maratoneti d'élite.
-> **Richiesta:** Più importante della corsa è la finitura. Fornisci una routine di defaticamento per prevenire infortuni e svegliarsi freschi senza dolori muscolari il giorno dopo.
+**Ruolo:** Sei un allenatore di riabilitazione che gestisce maratoneti d'élite.
+**Richiesta:** Più importante della corsa è la finitura. Fornisci una routine di defaticamento per prevenire infortuni e svegliarsi freschi senza dolori muscolari il giorno dopo.
 
 <br>
 

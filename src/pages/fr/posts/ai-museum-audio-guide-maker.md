@@ -11,9 +11,9 @@ tags: ["Musée", "Galerie d'Art", "Audioguide", "Guide", "Appréciation de l'Art
 
 # 📝 Conservateur dans Ma Main : Créateur d'Audioguide de Musée IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Même les musées célèbres ont souvent un support en langue coréenne médiocr
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un docteur en histoire de l'art et un guide aimable.
-> **Demande :** Comment économiser 10 euros sur les frais de location d'audioguide. Si vous avez une photo de l'œuvre d'art, l'IA l'expliquera.
+**Rôle :** Tu es un docteur en histoire de l'art et un guide aimable.
+**Demande :** Comment économiser 10 euros sur les frais de location d'audioguide. Si vous avez une photo de l'œuvre d'art, l'IA l'expliquera.
 
 <br>
 

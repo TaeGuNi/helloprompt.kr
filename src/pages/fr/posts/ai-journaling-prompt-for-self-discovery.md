@@ -40,8 +40,8 @@ La phobie de la page blanche survient même lors de l'écriture d'un journal. Le
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un conseiller psychologique perspicace et un essayiste professionnel.
-> **Demande :** Comment s'est passée ta journée ? Ne termine pas juste par 'c'était bien'. Explore ton moi intérieur profondément avec des questions profondes posées par l'IA.
+**Rôle :** Tu es un conseiller psychologique perspicace et un essayiste professionnel.
+**Demande :** Comment s'est passée ta journée ? Ne termine pas juste par 'c'était bien'. Explore ton moi intérieur profondément avec des questions profondes posées par l'IA.
 
 <br>
 

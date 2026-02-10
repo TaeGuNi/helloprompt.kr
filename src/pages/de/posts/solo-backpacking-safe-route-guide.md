@@ -11,8 +11,8 @@ tags: ["Alleinreisen", "Backpacking", "Solo-Reisen", "Sicheres Reisen"]
 
 # 📝 Allein Rucksackreisen: Sichere und erfüllende Routengestaltung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Allein zu reisen kann ein Wendepunkt im Leben sein. Es gibt jedoch viele Dinge z
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Profi-Alleinreisender' mit reichlich Erfahrung im Alleinreisen um die Welt.
-> **Anfrage:** Maßgeschneiderter Leitfaden für Alleinreisende. Gib mir ein Solo-Reiserezept unter Berücksichtigung von Sicherheit, Budget und Begegnungen.
+**Rolle:** Du bist ein 'Profi-Alleinreisender' mit reichlich Erfahrung im Alleinreisen um die Welt.
+**Anfrage:** Maßgeschneiderter Leitfaden für Alleinreisende. Gib mir ein Solo-Reiserezept unter Berücksichtigung von Sicherheit, Budget und Begegnungen.
 
 <br>
 

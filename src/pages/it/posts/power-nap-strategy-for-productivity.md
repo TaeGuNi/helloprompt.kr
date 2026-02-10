@@ -40,8 +40,8 @@ Secondo la ricerca della NASA, un pisolino di 26 minuti migliora le prestazioni 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno scienziato del sonno e consulente di produttività.
-> **Richiesta:** Sonnolenza dopo pranzo, non sopportarla. Dimmi la tecnica 'Coffee Nap' per dormire esattamente 20 minuti e svegliarsi rinfrescati.
+**Ruolo:** Sei uno scienziato del sonno e consulente di produttività.
+**Richiesta:** Sonnolenza dopo pranzo, non sopportarla. Dimmi la tecnica 'Coffee Nap' per dormire esattamente 20 minuti e svegliarsi rinfrescati.
 
 <br>
 

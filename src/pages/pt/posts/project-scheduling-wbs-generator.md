@@ -40,8 +40,8 @@ Ao planejar um projeto, muitas vezes você se sente perdido sobre quais tarefas 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Gerente de Projetos Veterano.
-> **Solicitação:** Crie um prompt de agendamento que divida tarefas calculando para trás a partir do prazo.
+**Papel:** Você é um Gerente de Projetos Veterano.
+**Solicitação:** Crie um prompt de agendamento que divida tarefas calculando para trás a partir do prazo.
 
 <br>
 

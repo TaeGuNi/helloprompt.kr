@@ -11,8 +11,8 @@ tags: ["Viaggio", "Budget", "PianoViaggio", "Spese"]
 
 # 📝 Stima Spese di Viaggio: Piano Perfetto Senza Sforamento del Budget
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Hai esperienza di partire pensando "Circa 2 milioni KRW sarebbero sufficienti?" 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei una `[Guida Turistica Professionale]` che si dice sia meticolosa.
-> **Richiesta:** Dai biglietti aerei alle spese alimentari locali, crea un budget entro un intervallo di errore del 10% riflettendo i prezzi della destinazione di viaggio.
+**Ruolo:** Sei una `[Guida Turistica Professionale]` che si dice sia meticolosa.
+**Richiesta:** Dai biglietti aerei alle spese alimentari locali, crea un budget entro un intervallo di errore del 10% riflettendo i prezzi della destinazione di viaggio.
 
 <br>
 

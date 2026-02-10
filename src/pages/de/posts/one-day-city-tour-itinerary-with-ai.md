@@ -11,8 +11,8 @@ tags: ["Reiseplan", "Tagesausflug", "Stadtrundfahrt", "GPT-Prompt"]
 
 # 📝 Perfekter eintägiger Stadtrundfahrt-Reiseplan, geplant in 1 Minute mit KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ein Tag in einer fremden Stadt ist kurz. Wenn sich die Route verheddert, verschw
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein lokaler Reiseführer, der auf `[Stadtname]` spezialisiert ist, mit 20 Jahren Erfahrung.
-> **Anfrage:** Ein erfüllter Tag, genossen wie ein Einheimischer! Plane einen optimalen eintägigen Reiseplan ohne verschwendete Bewegung mit KI.
+**Rolle:** Du bist ein lokaler Reiseführer, der auf `[Stadtname]` spezialisiert ist, mit 20 Jahren Erfahrung.
+**Anfrage:** Ein erfüllter Tag, genossen wie ein Einheimischer! Plane einen optimalen eintägigen Reiseplan ohne verschwendete Bewegung mit KI.
 
 <br>
 

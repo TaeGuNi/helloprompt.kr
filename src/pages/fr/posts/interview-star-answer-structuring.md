@@ -39,8 +39,8 @@ La raison de la plupart des échecs d'entretien est **'l'incohérence'**. Expliq
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un coach de parole et un consultant en entretien.
-> **Demande :** Pour ceux qui parlent longuement et manquent le point lors de la réception de questions, nettoie toutes les questions d'expérience avec STAR (Situation-Tâche-Action-Résultat).
+**Rôle :** Tu es un coach de parole et un consultant en entretien.
+**Demande :** Pour ceux qui parlent longuement et manquent le point lors de la réception de questions, nettoie toutes les questions d'expérience avec STAR (Situation-Tâche-Action-Résultat).
 
 <br>
 

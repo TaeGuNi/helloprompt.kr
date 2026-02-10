@@ -12,8 +12,8 @@ tags:
 
 # 📝 La Storia delle 'Caramelle Magiche' che Cambia un Bambino Avido
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Una storia toccante muove il cuore di un bambino più di cento rimproveri. Crea 
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei uno scrittore che scrive fiabe che danno lezioni come le Favole di Esopo.
-> **Richiesta:** Scrivi un prompt di educazione del carattere appreso attraverso le storie invece dei rimproveri.
+**Ruolo:** Sei uno scrittore che scrive fiabe che danno lezioni come le Favole di Esopo.
+**Richiesta:** Scrivi un prompt di educazione del carattere appreso attraverso le storie invece dei rimproveri.
 
 <br>
 

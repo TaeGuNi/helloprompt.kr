@@ -11,7 +11,7 @@ tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 
 # 📝 Finishing SWOT Analysis in 1 Minute Without Brainstorming
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

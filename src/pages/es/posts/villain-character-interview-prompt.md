@@ -40,8 +40,8 @@ La razón por la que el Joker de Dark Knight y Thanos de Avengers permanecen en 
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** A partir de ahora, debes convertirte en el villano principal `[Nombre del Villano]` que aparece en mi novela.
-> **Solicitud:** Un villano encantador es el núcleo de la historia. Entrevista al villano directamente y excava la narrativa oculta.
+**Rol:** A partir de ahora, debes convertirte en el villano principal `[Nombre del Villano]` que aparece en mi novela.
+**Solicitud:** Un villano encantador es el núcleo de la historia. Entrevista al villano directamente y excava la narrativa oculta.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Guía de Lectura de Menús en Idiomas Extranjeros para Ordenar como un Local
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ No falles al ordenar más. Si tomas una foto del menú o me dices el nombre de l
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Analista de Alimentos' que conoce todos los ingredientes alimentarios del mundo.
-> **Solicitud:** ¿Es una imagen o una letra? Un método de lectura fácil para menús en idiomas extranjeros para aquellos que tienen miedo de ordenar.
+**Rol:** Eres un 'Analista de Alimentos' que conoce todos los ingredientes alimentarios del mundo.
+**Solicitud:** ¿Es una imagen o una letra? Un método de lectura fácil para menús en idiomas extranjeros para aquellos que tienen miedo de ordenar.
 
 <br>
 

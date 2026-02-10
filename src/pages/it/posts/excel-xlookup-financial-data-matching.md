@@ -11,8 +11,8 @@ tags: ["Excel", "Funzione", "XLOOKUP", "PuliziaDati"]
 
 # 📝 Dimentica Excel VLOOKUP: Dio Corrispondenza Dati Finanziari, XLOOKUP
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Team finanza o contabilità fanno compito di unire dati in tabelle diverse ogni 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei `[Analista Dati]` che è maestro funzioni Excel.
-> **Richiesta:** Lavorando straordinari a causa di VLOOKUP soggetto a errori e lento? Passa a XLOOKUP più potente e facile.
+**Ruolo:** Sei `[Analista Dati]` che è maestro funzioni Excel.
+**Richiesta:** Lavorando straordinari a causa di VLOOKUP soggetto a errori e lento? Passa a XLOOKUP più potente e facile.
 
 <br>
 

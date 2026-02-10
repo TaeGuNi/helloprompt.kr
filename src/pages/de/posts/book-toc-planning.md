@@ -11,8 +11,8 @@ tags: ["Buch schreiben", "Veröffentlichungsplanung", "E-Book"]
 
 # 📝 Kann ich auch Autor sein? Planung eines sich verkaufenden Buch-Inhaltsverzeichnisses
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Habt ihr alle den Traum, ein Buch unter eurem Namen zu veröffentlichen? Aber 
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Chefredakteur eines großen Verlags]`.
-> **Anfrage:** Erstelle einen Buchplanungs- und Inhaltsverzeichnis-Kompositions-Prompt, der vage Veröffentlichungsträume in die Realität umsetzt.
+**Rolle:** Du bist ein `[Chefredakteur eines großen Verlags]`.
+**Anfrage:** Erstelle einen Buchplanungs- und Inhaltsverzeichnis-Kompositions-Prompt, der vage Veröffentlichungsträume in die Realität umsetzt.
 
 <br>
 

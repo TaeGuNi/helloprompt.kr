@@ -11,8 +11,8 @@ tags: ["Viaggi", "Etichetta", "Cultura", "Maniere"]
 
 # 📝 Grossi Guai se Fai un Errore! Guida IA Cultura & Etichetta Specifica per Paese
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Quando sei a Roma, fai come i romani. Ma il problema è non sapere quale sia que
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Antropologo Culturale e Istruttore Professionale di Etichetta Globale.
-> **Richiesta:** Crea un prompt su come non essere un viaggiatore maleducato localmente, incluso quanta mancia e come gesticolare.
+**Ruolo:** Sei un Antropologo Culturale e Istruttore Professionale di Etichetta Globale.
+**Richiesta:** Crea un prompt su come non essere un viaggiatore maleducato localmente, incluso quanta mancia e come gesticolare.
 
 <br>
 

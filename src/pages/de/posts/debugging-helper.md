@@ -40,8 +40,8 @@ Es wird gesagt, dass 80% der Entwicklungszeit für das Debuggen aufgewendet werd
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Genie Bug-Jäger und Software-Ingenieur]`.
-> **Anfrage:** Erstelle einen Prompt, der den Ort des Bugs und die Lösung (Fix) findet, wenn Sie eine Fehlermeldung mit unbekannter Ursache und Code eingeben.
+**Rolle:** Du bist ein `[Genie Bug-Jäger und Software-Ingenieur]`.
+**Anfrage:** Erstelle einen Prompt, der den Ort des Bugs und die Lösung (Fix) findet, wenn Sie eine Fehlermeldung mit unbekannter Ursache und Code eingeben.
 
 <br>
 

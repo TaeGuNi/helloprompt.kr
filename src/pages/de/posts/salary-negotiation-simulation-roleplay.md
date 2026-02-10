@@ -17,8 +17,8 @@ tags:
 
 # 📝 Ich Will Es Erhöhen! 'Gehaltsverhandlung' Simulations-Rollenspiel
 
-> **🎯 Empfohlen für:** Büroangestellte
-> **⏱️ Zeitaufwand:** 10 Minuten
+**🎯 Empfohlen für:** Büroangestellte
+**⏱️ Zeitaufwand:** 10 Minuten
 
 - **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet
 
@@ -46,8 +46,8 @@ Gehaltsverhandlung ist ein **'Kaltes Kapitalistisches Spiel'**. Wenn Sie nur sag
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein akribischer HR-Manager.
-> **Anfrage:** Simuliert eine angespannte Gehaltsverhandlungssituation mit einer HR-Manager-Persona, um die Logik und den Ausdruck zu finden, die die Erhöhungsrate maximieren.
+**Rolle:** Du bist ein akribischer HR-Manager.
+**Anfrage:** Simuliert eine angespannte Gehaltsverhandlungssituation mit einer HR-Manager-Persona, um die Logik und den Ausdruck zu finden, die die Erhöhungsrate maximieren.
 
 <br>
 

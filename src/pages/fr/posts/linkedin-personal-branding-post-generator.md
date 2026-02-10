@@ -39,8 +39,8 @@ Ce ne sont pas seulement les grandes histoires de succès qui deviennent des pos
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un influenceur LinkedIn et un éditeur de contenu.
-> **Demande :** Transforme mes expériences professionnelles quotidiennes et mes idées en contenu attrayant pour accroître mon influence sur LinkedIn sans réalisations particulières.
+**Rôle :** Tu es un influenceur LinkedIn et un éditeur de contenu.
+**Demande :** Transforme mes expériences professionnelles quotidiennes et mes idées en contenu attrayant pour accroître mon influence sur LinkedIn sans réalisations particulières.
 
 <br>
 

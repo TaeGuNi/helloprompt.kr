@@ -46,8 +46,8 @@ Le CV anglais a une grammaire différente du CV coréen. Doit omettre le sujet (
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un recruteur dans une entreprise de la Silicon Valley américaine et un éditeur anglais professionnel.
-> **Demande :** Pas une simple traduction. Convertit parfaitement le CV coréen avec des expressions et un format adaptés à la culture de recrutement anglophone.
+**Rôle :** Tu es un recruteur dans une entreprise de la Silicon Valley américaine et un éditeur anglais professionnel.
+**Demande :** Pas une simple traduction. Convertit parfaitement le CV coréen avec des expressions et un format adaptés à la culture de recrutement anglophone.
 
 <br>
 

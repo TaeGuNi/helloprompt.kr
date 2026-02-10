@@ -12,8 +12,8 @@ tags:
 
 # 📝 Sabor a Tinta: Impresión Risograph
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ _"Quiero dar una sensación de impresión ligeramente rugosa como folletos de la
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un experto.
-> **Solicitud:** Crea un prompt de estilo de impresión Risograph atractivo por su semitono único y desalineación de color.
+**Rol:** Eres un experto.
+**Solicitud:** Crea un prompt de estilo de impresión Risograph atractivo por su semitono único y desalineación de color.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia el contenido del **PROMPT** a continuación y úsalo.
 
 `Girl with headphones drawing.`
 
-> (Resultado: Ilustración digital limpia)
+(Resultado: Ilustración digital limpia)
 
 ### ✅ Después (Resultado)
 
 Prompt `Risograph` aplicado
 
-> (Resultado: Póster de arte rugoso pero moderno donde destaca la tinta rosa fluorescente y son visibles los patrones de puntos)
+(Resultado: Póster de arte rugoso pero moderno donde destaca la tinta rosa fluorescente y son visibles los patrones de puntos)
 
 ---
 

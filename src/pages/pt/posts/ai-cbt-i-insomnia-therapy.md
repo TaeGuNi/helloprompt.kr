@@ -40,8 +40,8 @@ A Terapia Cognitivo-Comportamental para Insônia (TCC-I) é um tratamento não m
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um psicólogo clínico especializado em TCC-I para insônia.
-> **Pedido:** Pratique TCC-I (Terapia Cognitivo-Comportamental para Insônia), a maneira mais certa de tratar a insônia sem pílulas para dormir, com IA.
+**Papel:** Você é um psicólogo clínico especializado em TCC-I para insônia.
+**Pedido:** Pratique TCC-I (Terapia Cognitivo-Comportamental para Insônia), a maneira mais certa de tratar a insônia sem pílulas para dormir, com IA.
 
 <br>
 

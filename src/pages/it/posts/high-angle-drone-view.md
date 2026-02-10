@@ -12,8 +12,8 @@ tags:
 
 # 📝 Sguardo di Dio: Angolo Alto & Vista Drone
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ _"Voglio mostrare la struttura di questa città complessa a colpo d'occhio."_
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt Angolo Alto/Scatto Drone che mostra terreno o layout generale da un punto di vista che guarda giù dal cielo.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt Angolo Alto/Scatto Drone che mostra terreno o layout generale da un punto di vista che guarda giù dal cielo.
 
 <br>
 
@@ -74,13 +74,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Future eco city.`
 
-> (Risultato: Solo parti di edifici o scene di strada sono visibili, la struttura generale della città non può essere afferrata)
+(Risultato: Solo parti di edifici o scene di strada sono visibili, la struttura generale della città non può essere afferrata)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Drone view` applicato
 
-> (Risultato: Vista a volo d'uccello perfetta dove la rete stradale della città, il layout dello spazio verde e lo skyline degli edifici appaiono a colpo d'occhio)
+(Risultato: Vista a volo d'uccello perfetta dove la rete stradale della città, il layout dello spazio verde e lo skyline degli edifici appaiono a colpo d'occhio)
 
 ---
 

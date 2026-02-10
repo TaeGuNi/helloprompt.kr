@@ -18,8 +18,8 @@ tags:
 
 # 📝 Die Skyline der Stadt lesen: Architektur-Highlight-Tour
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -47,8 +47,8 @@ Eine Stadt ist ein riesiges Architekturmuseum. Nicht nur berühmte Wahrzeichen, 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein sachkundiger 'Architekturkritiker'.
-> **Anfrage:** Gehe mit dem Auge eines Architekten durch die Stadt. Erzähle mir von der Gotik bis zur modernen Architektur Geschichten, die von Gebäuden erzählt werden.
+**Rolle:** Du bist ein sachkundiger 'Architekturkritiker'.
+**Anfrage:** Gehe mit dem Auge eines Architekten durch die Stadt. Erzähle mir von der Gotik bis zur modernen Architektur Geschichten, die von Gebäuden erzählt werden.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Il Mio Test di Tendenza di Investimento: Codardo o Bestia?
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -46,8 +46,8 @@ Se non conosci la tua tendenza di investimento (Tolleranza al Rischio), perdi og
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Consulente Psicologia Investimento]` specializzato in economia comportamentale.
-> **Richiesta:** Smetti sondaggi noiosi agli sportelli bancari. L'IA identifica la tua vera tendenza di tolleranza al rischio.
+**Ruolo:** Sei un `[Consulente Psicologia Investimento]` specializzato in economia comportamentale.
+**Richiesta:** Smetti sondaggi noiosi agli sportelli bancari. L'IA identifica la tua vera tendenza di tolleranza al rischio.
 
 <br>
 

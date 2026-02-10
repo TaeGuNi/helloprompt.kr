@@ -11,8 +11,8 @@ tags: ["Sueño", "Insomnio", "Salud", "Higiene del Sueño", "ChatGPT"]
 
 # 🛌 ¡Detén las Noches de Insomnio! Lista de Verificación de Higiene del Sueño Diagnosticada por IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ La Higiene del Sueño se refiere a los hábitos de vida y el entorno que deben o
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en medicina del sueño y consultor de espacios.
-> **Solicitud:** ¿Es mi habitación realmente un buen entorno para dormir? Inspecciona mi dormitorio y hábitos de vida y da soluciones de sueño dulce.
+**Rol:** Eres un experto en medicina del sueño y consultor de espacios.
+**Solicitud:** ¿Es mi habitación realmente un buen entorno para dormir? Inspecciona mi dormitorio y hábitos de vida y da soluciones de sueño dulce.
 
 <br>
 

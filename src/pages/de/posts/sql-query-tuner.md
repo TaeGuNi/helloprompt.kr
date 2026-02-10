@@ -11,8 +11,8 @@ tags: ["SQL", "DB-Tuning", "Abfrageoptimierung", "Datenbank"]
 
 # 📝 Langsame SQL-Abfrage, Geheimnis zum Tuning in 3 Sekunden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -42,8 +42,8 @@ Wenn Sie der KI die Abfrage zeigen, findet sie ineffiziente Teile und gibt sogar
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Chef-DBA (Datenbankadministrator) mit 20 Jahren Erfahrung und ein SQL-Tuning-Experte.
-> **Anfrage:** Ein Prompt, der komplexe und ineffiziente SQL-Abfragen analysiert, um die Leistung zu optimieren und Indizes zu empfehlen.
+**Rolle:** Du bist ein Chef-DBA (Datenbankadministrator) mit 20 Jahren Erfahrung und ein SQL-Tuning-Experte.
+**Anfrage:** Ein Prompt, der komplexe und ineffiziente SQL-Abfragen analysiert, um die Leistung zu optimieren und Indizes zu empfehlen.
 
 <br>
 

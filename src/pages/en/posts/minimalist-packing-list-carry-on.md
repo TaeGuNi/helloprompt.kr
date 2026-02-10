@@ -11,10 +11,10 @@ tags: ["Packing", "Minimalism", "Carry-on Baggage", "Packing List"]
 
 # 📝 Minimalist Packing List Finishing with Just One Carry-on
 
-> **🎯 Recommended for:** Everyone
+**🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

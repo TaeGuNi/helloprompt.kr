@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Creando Pistas de 'Búsqueda del Tesoro en Interiores' que Vuelven Locos a los Niños en 1 Minuto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ _"¿Estás perdido sobre qué jugar con tu hijo aburrido en casa en un fin de se
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un instructor de recreación creativo y experto en educación infantil.
-> **Solicitud:** Crea pistas para una búsqueda del tesoro personalizada en casa preparada en 5 minutos con IA.
+**Rol:** Eres un instructor de recreación creativo y experto en educación infantil.
+**Solicitud:** Crea pistas para una búsqueda del tesoro personalizada en casa preparada en 5 minutos con IA.
 
 <br>
 

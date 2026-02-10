@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Commentaires d'Évaluation du Personnel Qui Font Grandir Sans Blesser
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'évaluation du personnel doit être juste, le feedback doit être spécifique,
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Coach en Leadership.
-> **Demande :** Crée un prompt qui soulage la douleur des examens de performance et de la rédaction de feedback.
+**Rôle :** Tu es un Coach en Leadership.
+**Demande :** Crée un prompt qui soulage la douleur des examens de performance et de la rédaction de feedback.
 
 <br>
 

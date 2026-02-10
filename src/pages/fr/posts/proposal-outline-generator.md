@@ -39,8 +39,8 @@ Une proposition devrait être "Je vais résoudre votre problème", pas "Nous som
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Rédacteur Professionnel de Propositions avec un taux de réussite de 90 %.
-> **Demande :** Crée un prompt de storytelling de proposition attrayant qui persuade les clients.
+**Rôle :** Tu es un Rédacteur Professionnel de Propositions avec un taux de réussite de 90 %.
+**Demande :** Crée un prompt de storytelling de proposition attrayant qui persuade les clients.
 
 <br>
 

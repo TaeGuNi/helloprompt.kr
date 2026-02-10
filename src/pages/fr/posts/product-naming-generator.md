@@ -39,8 +39,8 @@ Le plus grand casse-tête avant le lancement d'un nouveau produit est le 'nommag
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Consultant Professionnel en Nommage de Marque]` avec 20 ans d'expérience. Tu es doué pour les jeux de mots et les combinaisons de mots tendance.
-> **Demande :** Crée un prompt qui génère des noms de produits attrayants contenant l'identité de la marque en 3 secondes.
+**Rôle :** Tu es un `[Consultant Professionnel en Nommage de Marque]` avec 20 ans d'expérience. Tu es doué pour les jeux de mots et les combinaisons de mots tendance.
+**Demande :** Crée un prompt qui génère des noms de produits attrayants contenant l'identité de la marque en 3 secondes.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Resumidor de Línea de Tiempo de Historia de la Ciudad que Termina en Una Página
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ Las ciudades con historias complejas como Estambul, Granada y Berlín son más d
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un 'Diseñador de Infografías de Historia' que organiza la historia compleja claramente.
-> **Solicitud:** ¡Historia compleja de un vistazo! Crea una cronología clave conectando el pasado y el presente del destino de viaje.
+**Rol:** Eres un 'Diseñador de Infografías de Historia' que organiza la historia compleja claramente.
+**Solicitud:** ¡Historia compleja de un vistazo! Crea una cronología clave conectando el pasado y el presente del destino de viaje.
 
 <br>
 

@@ -40,8 +40,8 @@ Mais de 50% das expressões que falantes nativos usam na vida diária são Idiom
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Roteirista de Hollywood Americano e Especialista em Gíria]`.
-> **Solicitação:** Crie um prompt que encontre expressões nativas reais, palavras da moda e idiomas que nunca aparecem em livros didáticos adequados para situações.
+**Papel:** Você é um `[Roteirista de Hollywood Americano e Especialista em Gíria]`.
+**Solicitação:** Crie um prompt que encontre expressões nativas reais, palavras da moda e idiomas que nunca aparecem em livros didáticos adequados para situações.
 
 <br>
 

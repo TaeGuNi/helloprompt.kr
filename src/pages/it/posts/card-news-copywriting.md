@@ -11,8 +11,8 @@ tags: ["Card News", "Copywriting", "Marketing SNS"]
 
 # 📝 Segreti di Copywriting Card News Che Chiamano i Clic
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Per sopravvivere nell'inondazione di contenuti SNS, devi catturare l'attenzione 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Content Marketing SNS]`.
-> **Richiesta:** Crea un prompt che estragga titoli potenti e copy di card news che fermino le dita sui feed di Instagram.
+**Ruolo:** Sei un `[Esperto di Content Marketing SNS]`.
+**Richiesta:** Crea un prompt che estragga titoli potenti e copy di card news che fermino le dita sui feed di Instagram.
 
 <br>
 

@@ -39,8 +39,8 @@ Dans l'exercice, 'comment' vous combinez est plus important que 'ce que' vous fa
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Entraîneur de Santé Professionnel et Nutritionniste]`.
-> **Demande :** Crée un prompt de guide de santé qui planifie des routines d'entraînement hebdomadaires et des régimes parfaitement adaptés à mes conditions corporelles et objectifs.
+**Rôle :** Tu es un `[Entraîneur de Santé Professionnel et Nutritionniste]`.
+**Demande :** Crée un prompt de guide de santé qui planifie des routines d'entraînement hebdomadaires et des régimes parfaitement adaptés à mes conditions corporelles et objectifs.
 
 <br>
 

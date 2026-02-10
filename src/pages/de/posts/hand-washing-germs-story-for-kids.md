@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Händewaschen-Hassern 'Keim-Monster' zeigen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Für Kinderaugen sehen Hände sauber aus. Sie müssen sie dazu bringen, sich die
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist Mikrobiologe und Geschichtenerzähler.
-> **Anfrage:** Liefere eine wissenschaftliche Überzeugungskraft, um ein Kind ohne Nörgeln zum Waschbecken zu schicken.
+**Rolle:** Du bist Mikrobiologe und Geschichtenerzähler.
+**Anfrage:** Liefere eine wissenschaftliche Überzeugungskraft, um ein Kind ohne Nörgeln zum Waschbecken zu schicken.
 
 <br>
 

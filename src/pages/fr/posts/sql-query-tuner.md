@@ -11,9 +11,9 @@ tags: ["SQL", "Tuning DB", "Optimisation de Requête", "Base de Données"]
 
 # 📝 Requête SQL Lente, Secret pour l'Optimiser en 3 Secondes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Si vous montrez la requête à l'IA, elle trouve les parties inefficaces et fait
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un DBA (Administrateur de Base de Données) en Chef avec 20 ans d'expérience et un expert en tuning SQL.
-> **Demande :** Un prompt qui analyse les requêtes SQL complexes et inefficaces pour optimiser les performances et recommander des index.
+**Rôle :** Tu es un DBA (Administrateur de Base de Données) en Chef avec 20 ans d'expérience et un expert en tuning SQL.
+**Demande :** Un prompt qui analyse les requêtes SQL complexes et inefficaces pour optimiser les performances et recommander des index.
 
 <br>
 

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Generador de Copia de Anuncios de Facebook/Insta Que Llama a los Clics
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ _"La forma más fácil de aumentar el rendimiento de los anuncios (ROAS) es camb
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Marketing de Rendimiento]`. Escribes bien copias de anuncios con alta Tasa de Clics (CTR) y Tasa de Conversión (CVR).
-> **Solicitud:** Crea un prompt sobre cómo escribir Texto Principal de Anuncios SNS (Texto Primario) que detiene el desplazamiento.
+**Rol:** Eres un `[Experto en Marketing de Rendimiento]`. Escribes bien copias de anuncios con alta Tasa de Clics (CTR) y Tasa de Conversión (CVR).
+**Solicitud:** Crea un prompt sobre cómo escribir Texto Principal de Anuncios SNS (Texto Primario) que detiene el desplazamiento.
 
 <br>
 

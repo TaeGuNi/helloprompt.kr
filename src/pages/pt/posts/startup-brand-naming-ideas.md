@@ -11,8 +11,8 @@ tags: ["Nomeação", "Branding", "Startup", "Marketing", "Ideia"]
 
 # 📝 Nomeação de Startup/Marca: Fazendo Nomes Memoráveis
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Toss, Danggeun Market, Yanolja... Nomes de marcas de sucesso são fáceis, intui
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista em nomes de marca que nomeou nomes inovadores como 'Baemin', 'Kakao'.
-> **Solicitação:** Nome da marca determinando destino do negócio! Encontre ideias de nomes fáceis de chamar e significativas com IA.
+**Papel:** Você é um especialista em nomes de marca que nomeou nomes inovadores como 'Baemin', 'Kakao'.
+**Solicitação:** Nome da marca determinando destino do negócio! Encontre ideias de nomes fáceis de chamar e significativas com IA.
 
 <br>
 

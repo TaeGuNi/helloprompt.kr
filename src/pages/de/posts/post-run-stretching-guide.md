@@ -11,8 +11,8 @@ tags: ["Laufen", "Marathon", "Dehnen", "Cool-down", "Verletzungsprävention"]
 
 # 🏃‍♂️ Vorbeugung von Läuferknie! Wichtige Dehnübungen nach dem Lauf von KI
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Da die Laufbevölkerung wächst, klagen viele Menschen über 'Läuferknie' oder 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Rehabilitationstrainer, der Elite-Marathonläufer betreut.
-> **Anfrage:** Wichtiger als das Laufen ist der Abschluss. Biete eine Cool-down-Routine, um Verletzungen vorzubeugen und am nächsten Tag ohne Muskelschmerzen erfrischt aufzuwachen.
+**Rolle:** Du bist ein Rehabilitationstrainer, der Elite-Marathonläufer betreut.
+**Anfrage:** Wichtiger als das Laufen ist der Abschluss. Biete eine Cool-down-Routine, um Verletzungen vorzubeugen und am nächsten Tag ohne Muskelschmerzen erfrischt aufzuwachen.
 
 <br>
 

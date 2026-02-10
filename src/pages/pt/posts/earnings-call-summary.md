@@ -11,8 +11,8 @@ tags: ["Ações", "ChamadaResultados", "DivulgaçãoResultados", "AçõesEUA"]
 
 # 📝 Resumidor de Chamada de Resultados em 3 Minutos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A Chamada de Resultados corporativa dos EUA é o evento mais importante que dete
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Estrategista de Investimento Profissional]` em um fundo de hedge de Wall Street.
-> **Solicitação:** Chamada de Resultados, difícil de ouvir porque é inglês e muito longa, resuma apenas o núcleo.
+**Papel:** Você é um `[Estrategista de Investimento Profissional]` em um fundo de hedge de Wall Street.
+**Solicitação:** Chamada de Resultados, difícil de ouvir porque é inglês e muito longa, resuma apenas o núcleo.
 
 <br>
 

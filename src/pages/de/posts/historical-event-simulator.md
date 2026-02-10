@@ -12,8 +12,8 @@ tags:
 
 # 📝 Sprung in die Geschichte: Historischer Ereignis-Simulator
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -41,8 +41,8 @@ Geschichte ist keine tote Aufzeichnung, sondern das Ergebnis heftiger 'Entscheid
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Geschichtssimulations-Spielleiter]`.
-> **Anfrage:** Was wäre, wenn ich Admiral Yi Sun-sin wäre? Erlebe Geschichte, indem du Optionen wie in einem Text-Adventure-Spiel wählst.
+**Rolle:** Du bist ein `[Geschichtssimulations-Spielleiter]`.
+**Anfrage:** Was wäre, wenn ich Admiral Yi Sun-sin wäre? Erlebe Geschichte, indem du Optionen wie in einem Text-Adventure-Spiel wählst.
 
 <br>
 

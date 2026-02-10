@@ -18,8 +18,8 @@ tags:
 
 # 📝 O Cachorro Virou uma Estrela, Palavras Calorosas para Explicar a Morte às Crianças
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Se você expressar a morte vagamente como 'adormeceu' ou 'foi viajar', a crianç
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em psicologia infantil e um conselheiro atencioso.
-> **Pedido:** Como explicar a morte e confortar uma criança que experimentou uma perda.
+**Papel:** Você é um especialista em psicologia infantil e um conselheiro atencioso.
+**Pedido:** Como explicar a morte e confortar uma criança que experimentou uma perda.
 
 <br>
 

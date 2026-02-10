@@ -11,8 +11,8 @@ tags: ["Escrita", "Ensaio", "Relatório", "Atribuição"]
 
 # 📝 Escapando da Fobia de Tela em Branco: Arquiteto de Esboço de Ensaio
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A etapa mais difícil na escrita é o 'Início'. Porque dentro da cabeça está 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Autor Best-seller e Treinador Profissional de Ensaios]`.
-> **Solicitação:** Quando a escrita estiver travada, defina estrutura lógica (Introdução-Corpo-Conclusão) e sugira ideias centrais por parágrafo.
+**Papel:** Você é um `[Autor Best-seller e Treinador Profissional de Ensaios]`.
+**Solicitação:** Quando a escrita estiver travada, defina estrutura lógica (Introdução-Corpo-Conclusão) e sugira ideias centrais por parágrafo.
 
 <br>
 

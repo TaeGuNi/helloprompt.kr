@@ -12,8 +12,8 @@ tags:
 
 # 📝 Non Dire Più 'Ti Abbiamo Trovato Sotto un Cavolo'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Se borbotti o menti, il bambino percepisce il sesso come 'qualcosa da nascondere
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un esperto di educazione sessuale infantile.
-> **Richiesta:** Fornisci una guida per spiegare l'educazione sessuale in modo accurato e bello senza evitarla.
+**Ruolo:** Sei un esperto di educazione sessuale infantile.
+**Richiesta:** Fornisci una guida per spiegare l'educazione sessuale in modo accurato e bello senza evitarla.
 
 <br>
 

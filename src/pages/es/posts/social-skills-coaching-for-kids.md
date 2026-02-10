@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Fortaleciendo el Corazón de un Niño Antes de Preguntar '¿Te Están Acosando?'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Culpar incondicionalmente al amigo o ponerse solo del lado del niño no es la so
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un experto en desarrollo social infantil.
-> **Solicitud:** Proporciona coaching de sociabilidad para niños heridos en relaciones con compañeros.
+**Rol:** Eres un experto en desarrollo social infantil.
+**Solicitud:** Proporciona coaching de sociabilidad para niños heridos en relaciones con compañeros.
 
 <br>
 

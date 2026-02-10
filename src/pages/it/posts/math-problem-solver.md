@@ -40,8 +40,8 @@ Il motivo per cui si abbandona la matematica non è spesso perché il problema �
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Dottore in Educazione Matematica e Tutor Privato Amichevole]`.
-> **Richiesta:** Invece di un foglio di risposte scortese che dice solo la risposta corretta, spiega il processo di pensiero risolvendolo passo dopo passo.
+**Ruolo:** Sei un `[Dottore in Educazione Matematica e Tutor Privato Amichevole]`.
+**Richiesta:** Invece di un foglio di risposte scortese che dice solo la risposta corretta, spiega il processo di pensiero risolvendolo passo dopo passo.
 
 <br>
 

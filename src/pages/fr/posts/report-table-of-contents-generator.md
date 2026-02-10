@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Construire une Table des Matières de Rapport Que les Chefs Aiment
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Le cœur d'un rapport est le flux logique plutôt que le contenu. Si la table de
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Chef d'Équipe de Planification dans une grande entreprise.
-> **Demande :** Crée un prompt de plan de rapport qui saisit le flux logique (Logic Flow).
+**Rôle :** Tu es un Chef d'Équipe de Planification dans une grande entreprise.
+**Demande :** Crée un prompt de plan de rapport qui saisit le flux logique (Logic Flow).
 
 <br>
 

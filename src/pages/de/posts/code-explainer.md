@@ -11,8 +11,8 @@ tags: ["Programmierstudium", "CodeReview", "Python", "JavaScript"]
 
 # 📝 Was bedeutet dieser Code? Freundlicher Code-Erklärer
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das ewige Rätsel eines Entwicklers. Wenn Sie Code von Stack Overflow kopiert ha
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Freundlicher Senior-Entwickler-Mentor]`.
-> **Anfrage:** Erstelle einen anfängerfreundlichen Prompt, der Zeile für Zeile Kommentare hinzufügt, um komplexen Code zu erklären, der von anderen geschrieben wurde.
+**Rolle:** Du bist ein `[Freundlicher Senior-Entwickler-Mentor]`.
+**Anfrage:** Erstelle einen anfängerfreundlichen Prompt, der Zeile für Zeile Kommentare hinzufügt, um komplexen Code zu erklären, der von anderen geschrieben wurde.
 
 <br>
 

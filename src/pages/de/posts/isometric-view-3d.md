@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "3D"]
 
 # 📝 Niedliche 3D-Welt: Isometric View
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte ein niedliches Zimmer erstellen, das wie bei SimCity oder Tycoon-S
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie eine dreidimensionale und niedliche Ansicht wie 3D-Spiele oder Icons, isometrischer Winkel.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie eine dreidimensionale und niedliche Ansicht wie 3D-Spiele oder Icons, isometrischer Winkel.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Gamer room 3d.`
 
-> (Ergebnis: Allgemeiner Zimmerfotowinkel, Innenraum möglicherweise durch Wände verdeckt nicht sichtbar)
+(Ergebnis: Allgemeiner Zimmerfotowinkel, Innenraum möglicherweise durch Wände verdeckt nicht sichtbar)
 
 ### ✅ Nachher (Ergebnis)
 
 `Isometric view` Prompt angewendet
 
-> (Ergebnis: Niedliche Miniatur, bei der eine Wand offen ist und alle Möbel im Raum dicht sichtbar sind)
+(Ergebnis: Niedliche Miniatur, bei der eine Wand offen ist und alle Möbel im Raum dicht sichtbar sind)
 
 ---
 

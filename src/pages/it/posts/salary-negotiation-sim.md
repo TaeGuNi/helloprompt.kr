@@ -11,8 +11,8 @@ tags: ["Stipendio", "Negoziazione", "Colloquio", "GiocoDiRuolo", "Carriera"]
 
 # 🥊 Simulatore di Negoziazione Salariale: Sparring con un HR Malvagio
 
-> **🎯 Consigliato per:** Deboli di cuore che dicono "Prendo qualsiasi cosa" e si pentono dopo, Chi cerca lavoro
-> **⏱️ Tempo Richiesto:** 10 min (Battaglia Simulata)
+**🎯 Consigliato per:** Deboli di cuore che dicono "Prendo qualsiasi cosa" e si pentono dopo, Chi cerca lavoro
+**⏱️ Tempo Richiesto:** 10 min (Battaglia Simulata)
 
 - **🤖 Modello Consigliato:** ChatGPT-4o (Modalità Vocale Altamente Consigliata)
 
@@ -20,8 +20,8 @@ tags: ["Stipendio", "Negoziazione", "Colloquio", "GiocoDiRuolo", "Carriera"]
 | :--------: | :--------: | :-------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
 
-> _"Qual è la tua aspettativa salariale?"_
-> _"Ehm... beh... seguo le regole aziendali..."_
+_"Qual è la tua aspettativa salariale?"_
+_"Ehm... beh... seguo le regole aziendali..."_
 
 Se tentenni al tavolo, perdi. Ma con chi praticare? Gli amici ridono, e gli specchi sono imbarazzanti. Ora, **possediamo l'IA in un Manager HR Avaro** e facciamo sparring come se fosse reale. Fatti picchiare virtualmente per non farti picchiare nella realtà.
 
@@ -41,9 +41,9 @@ Se tentenni al tavolo, perdi. Ma con chi praticare? Gli amici ridono, e gli spec
 
 Per affinare la tua logica.
 
-> **Ruolo:** Sei un manager HR avaro che cerca di risparmiare budget.
-> **Contesto:** Sono un Marketer con 3 anni di esperienza, stipendio precedente 40k. Voglio 50k.
-> **Richiesta:** Quando chiedo 50k, confutami logicamente. Sii molto pignolo. Lasciami senza parole.
+**Ruolo:** Sei un manager HR avaro che cerca di risparmiare budget.
+**Contesto:** Sono un Marketer con 3 anni di esperienza, stipendio precedente 40k. Voglio 50k.
+**Richiesta:** Quando chiedo 50k, confutami logicamente. Sii molto pignolo. Lasciami senza parole.
 
 <br>
 
@@ -78,16 +78,16 @@ Accendi la **Modalità Vocale (Icona Cuffie)** dell'App ChatGPT. Questa è la re
 
 ### ❌ Prima (Senza Preparazione)
 
-> **HR:** "50k è difficile a causa di problemi di equità..."
-> **Io:** "Ah... okay... allora 45k...?"
-> (Risultato: Stipendio Congelato 📉)
+**HR:** "50k è difficile a causa di problemi di equità..."
+**Io:** "Ah... okay... allora 45k...?"
+(Risultato: Stipendio Congelato 📉)
 
 ### ✅ Dopo (Combattuto l'IA 10 volte)
 
-> **HR:** "50k è difficile a causa di problemi di equità..."
-> **Io:** "Capisco perfettamente. Tuttavia, considerando che ho aumentato le entrate del 20% nel mio ultimo progetto, questa cifra è un investimento ragionevole rispetto alla media di mercato. Se lo stipendio base è un peso, possiamo discutere di un Bonus alla Firma o Stock Options?"
-> **HR:** (Occhi tremanti) "...Lasciami controllare con il Direttore."
-> (Risultato: Aumento del 20% 📈)
+**HR:** "50k è difficile a causa di problemi di equità..."
+**Io:** "Capisco perfettamente. Tuttavia, considerando che ho aumentato le entrate del 20% nel mio ultimo progetto, questa cifra è un investimento ragionevole rispetto alla media di mercato. Se lo stipendio base è un peso, possiamo discutere di un Bonus alla Firma o Stock Options?"
+**HR:** (Occhi tremanti) "...Lasciami controllare con il Direttore."
+(Risultato: Aumento del 20% 📈)
 
 ---
 

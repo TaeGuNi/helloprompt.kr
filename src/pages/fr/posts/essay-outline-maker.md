@@ -11,9 +11,9 @@ tags: ["Écriture", "Dissertation", "Rapport", "Devoir"]
 
 # 📝 Échapper à la Phobie de l'Écran Blanc : Architecte de Plan de Dissertation
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ L'étape la plus difficile dans l'écriture est le 'Début'. Parce que l'intéri
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Auteur à Succès et Coach Professionnel de Dissertation]`.
-> **Demande :** Lorsque l'écriture est bloquée, définissez une structure logique (Introduction-Corps-Conclusion) et suggérez des idées centrales par paragraphe.
+**Rôle :** Tu es un `[Auteur à Succès et Coach Professionnel de Dissertation]`.
+**Demande :** Lorsque l'écriture est bloquée, définissez une structure logique (Introduction-Corps-Conclusion) et suggérez des idées centrales par paragraphe.
 
 <br>
 

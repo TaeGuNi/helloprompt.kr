@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 
 # 📝 Aesthetics of Simplicity: Low Poly & Voxel Art
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Fox in snow 3d.`
 
-> (Result: 3D fox with Disney-style soft fur)
+(Result: 3D fox with Disney-style soft fur)
 
 ### ✅ After (Result)
 
 `Low poly` prompt applied
 
-> (Result: Sophisticated and modern art toy feeling fox made of sharp faces as if folded with paper)
+(Result: Sophisticated and modern art toy feeling fox made of sharp faces as if folded with paper)
 
 ---
 

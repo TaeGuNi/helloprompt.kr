@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Liste de Questions d'Entretien, l'IA Choisit Pour Vous
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous entrez en entretien sans préparation, vous finissez par ne poser que de
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Intervieweur pour l'Équipe RH d'une Grande Entreprise.
-> **Demande :** Crée un générateur de questions d'entretien pointues qui pénètrent les capacités du candidat.
+**Rôle :** Tu es un Intervieweur pour l'Équipe RH d'une Grande Entreprise.
+**Demande :** Crée un générateur de questions d'entretien pointues qui pénètrent les capacités du candidat.
 
 <br>
 

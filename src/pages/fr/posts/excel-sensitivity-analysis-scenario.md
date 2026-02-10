@@ -11,9 +11,9 @@ tags: ["Excel", "AnalyseSensibilité", "Scénario", "TableDonnées"]
 
 # 📝 Analyse de Sensibilité Excel : Préparation Parfaite pour les Scénarios "Et Si"
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La chose la plus importante lors de la planification d'entreprise est la variabl
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Modélisation Financière]` au bureau de planification stratégique.
-> **Demande :** De combien le profit diminue-t-il si le taux de change augmente de 10 % ? Calculer des douzaines de cas à la fois avec la fonction Table de Données Excel.
+**Rôle :** Tu es un `[Expert en Modélisation Financière]` au bureau de planification stratégique.
+**Demande :** De combien le profit diminue-t-il si le taux de change augmente de 10 % ? Calculer des douzaines de cas à la fois avec la fonction Table de Données Excel.
 
 <br>
 

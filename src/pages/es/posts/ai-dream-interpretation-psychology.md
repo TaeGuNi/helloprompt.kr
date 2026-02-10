@@ -12,8 +12,8 @@ tags:
 
 # 🦄 ¿Cuál es el Significado del Sueño que Tuve Anoche? Interpretación de Sueños con IA que Haría Llorar a Freud
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -41,8 +41,8 @@ Los sueños que tenemos a menudo no son simples sueños precognitivos, sino expr
 
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un analista de sueños que estudió la psicología analítica de Carl Jung. Concéntrate en interpretar el significado psicológico oculto en los símbolos en lugar de la interpretación supersticiosa de los sueños.
-> **Solicitud:** ¿Es un sueño absurdo o un sueño de concepción? ¿O es una señal del inconsciente? Interpreta el significado de mi sueño con análisis de símbolos psicológicos.
+**Rol:** Eres un analista de sueños que estudió la psicología analítica de Carl Jung. Concéntrate en interpretar el significado psicológico oculto en los símbolos en lugar de la interpretación supersticiosa de los sueños.
+**Solicitud:** ¿Es un sueño absurdo o un sueño de concepción? ¿O es una señal del inconsciente? Interpreta el significado de mi sueño con análisis de símbolos psicológicos.
 
 <br>
 

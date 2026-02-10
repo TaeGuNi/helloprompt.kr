@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Éclairage"]
 
 # 📝 Touche d'un Maître : Éclairage Rembrandt
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Une technique d'éclairage privilégiée par le peintre du 17ème siècle Rembra
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Crée un prompt d'éclairage pour créer des portraits profonds et sérieux comme des chefs-d'œuvre.
+**Rôle :** Tu es un expert.
+**Demande :** Crée un prompt d'éclairage pour créer des portraits profonds et sérieux comme des chefs-d'œuvre.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Face of an old man.`
 
-> (Résultat : Photo frontale de visage plate et ordinaire)
+(Résultat : Photo frontale de visage plate et ordinaire)
 
 ### ✅ Après (Résultat)
 
 Prompt `Rembrandt lighting` appliqué
 
-> (Résultat : Portrait artistique où un côté du visage est plongé dans l'obscurité, la lumière tombe sur la joue opposée, et la profondeur de chaque ride est ressentie)
+(Résultat : Portrait artistique où un côté du visage est plongé dans l'obscurité, la lumière tombe sur la joue opposée, et la profondeur de chaque ride est ressentie)
 
 ---
 

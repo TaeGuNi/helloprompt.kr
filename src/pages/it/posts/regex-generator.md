@@ -11,8 +11,8 @@ tags: ["Regex", "Espressione Regolare", "Produttività Dev"]
 
 # 📝 Incubo Regex, ora scaricalo sull'IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Le Espressioni Regolari (Regex) sono essenziali per gli sviluppatori, ma sono un
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Sviluppatore Senior]`.
-> **Richiesta:** Crea un prompt che generi codice per espressioni regolari criptiche semplicemente spiegando il pattern.
+**Ruolo:** Sei un `[Sviluppatore Senior]`.
+**Richiesta:** Crea un prompt che generi codice per espressioni regolari criptiche semplicemente spiegando il pattern.
 
 <br>
 

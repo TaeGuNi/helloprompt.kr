@@ -11,7 +11,7 @@ tags: ["Stock", "ChartAnalysis", "TechnicalAnalysis", "Trading"]
 
 # 📝 Chart Auxiliary Indicator Interpreter: Catching Buy Timing
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

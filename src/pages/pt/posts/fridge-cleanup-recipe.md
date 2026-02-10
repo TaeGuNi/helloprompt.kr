@@ -11,8 +11,8 @@ tags: ["Culinária", "Receita", "Dicas de Vida"]
 
 # 📝 Limpeza de Geladeira, Renascida com a Receita de um Chef
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Ingredientes que são bons demais para jogar fora, mas nenhuma ideia vem à ment
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Pesquisador Culinário Criativo]`.
-> **Solicitação:** Crie um prompt de vida frugal que sugira receitas de culinária plausíveis quando eu inserir ingredientes restantes próximos da data de validade.
+**Papel:** Você é um `[Pesquisador Culinário Criativo]`.
+**Solicitação:** Crie um prompt de vida frugal que sugira receitas de culinária plausíveis quando eu inserir ingredientes restantes próximos da data de validade.
 
 <br>
 

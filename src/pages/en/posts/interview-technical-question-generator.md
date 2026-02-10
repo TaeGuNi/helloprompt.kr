@@ -11,7 +11,7 @@ tags: ["TechInterview", "MajorInterview", "ExpectedQuestion", "JobInterview"]
 
 # 📝 'Technical Interview' Expected Question Generator by Job
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

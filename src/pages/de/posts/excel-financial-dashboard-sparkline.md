@@ -11,8 +11,8 @@ tags: ["Excel", "Dashboard", "Visualisierung", "Bericht"]
 
 # 📝 Excel Finanz-Dashboard: Berichten Sie mit Bildern, nicht Zahlen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Finanzdaten als Excel-Tabelle zu berichten ist amateurhaft. Setzen Sie kleine Di
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Datenvisualisierungs-Experte]`.
-> **Anfrage:** Stoppen Sie dichte Excel-Tabellen. Visualisierungs-Dashboard, in das sich der Chef auf den ersten Blick verliebt, fertiggestellt mit Sparklines und Bedingter Formatierung.
+**Rolle:** Du bist ein `[Datenvisualisierungs-Experte]`.
+**Anfrage:** Stoppen Sie dichte Excel-Tabellen. Visualisierungs-Dashboard, in das sich der Chef auf den ersten Blick verliebt, fertiggestellt mit Sparklines und Bedingter Formatierung.
 
 <br>
 

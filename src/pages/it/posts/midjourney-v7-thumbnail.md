@@ -11,8 +11,8 @@ tags: ["Midjourney", "Design", "Miniatura", "Blog", "ArteIA"]
 
 # 🎨 Pratica Midjourney v7: Formula 'Miniatura Blog' per Non-Designer
 
-> **🎯 Consigliato per:** Blogger che scrivono bene ma fanno foto orribili, Editor stanchi dei siti di stock gratuiti
-> **⏱️ Tempo Richiesto:** 1 min
+**🎯 Consigliato per:** Blogger che scrivono bene ma fanno foto orribili, Editor stanchi dei siti di stock gratuiti
+**⏱️ Tempo Richiesto:** 1 min
 
 - **🤖 Modello Consigliato:** Midjourney v7 (o Dall-E 3)
 
@@ -20,7 +20,7 @@ tags: ["Midjourney", "Design", "Miniatura", "Blog", "ArteIA"]
 | :--------: | :--------: | :--------: |
 |  ⭐⭐☆☆☆   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> _"Il contenuto è perfetto... ma perché l'immagine di copertina è così brutta?"_
+_"Il contenuto è perfetto... ma perché l'immagine di copertina è così brutta?"_
 
 L'80% del traffico del blog dipende dal Titolo e dalla Miniatura. Le foto stock gratuite (Unsplash) sono cliché, e disegnare da soli è impossibile. Ora, chiedi all'**Artista IA**. Ecco la formula per creare illustrazioni di qualità da designer usando l'ultima versione del 2026, **Midjourney v7**.
 
@@ -40,8 +40,8 @@ L'80% del traffico del blog dipende dal Titolo e dalla Miniatura. Le foto stock 
 
 Stile pulito e trendy tipo Notion/Toss.
 
-> **Prompt:**
-> `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+**Prompt:**
+`cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
 <br>
 

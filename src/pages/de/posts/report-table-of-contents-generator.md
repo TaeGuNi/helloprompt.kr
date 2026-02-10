@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Erstellung eines Berichtsinhaltsverzeichnisses, das Chefs mögen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Der Kern eines Berichts ist der logische Fluss eher als der Inhalt. Wenn das Inh
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Planungsteamleiter in einem großen Unternehmen.
-> **Anfrage:** Erstelle einen Berichtsgliederungs-Prompt, der den logischen Fluss (Logic Flow) erfasst.
+**Rolle:** Du bist ein Planungsteamleiter in einem großen Unternehmen.
+**Anfrage:** Erstelle einen Berichtsgliederungs-Prompt, der den logischen Fluss (Logic Flow) erfasst.
 
 <br>
 

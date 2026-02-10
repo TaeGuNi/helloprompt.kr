@@ -43,8 +43,8 @@ Encarga un dibujo de diseño (arquitectura) perfecto para la naturaleza de tu pr
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Arquitecto de Software Jefe a cargo del diseño de sistemas a gran escala.
-> **Solicitud:** Crea un prompt que diseñe una arquitectura de software óptima como MVC, Clean Architecture, MSA cuando ingresas la escala del proyecto y los requisitos.
+**Rol:** Eres un Arquitecto de Software Jefe a cargo del diseño de sistemas a gran escala.
+**Solicitud:** Crea un prompt que diseñe una arquitectura de software óptima como MVC, Clean Architecture, MSA cuando ingresas la escala del proyecto y los requisitos.
 
 <br>
 

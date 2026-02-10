@@ -11,8 +11,8 @@ tags: ["Spiel", "Gegenstand", "TRPG", "Planung", "Fantasie"]
 
 # 📝 Spielgegenstand-Enzyklopädie: Legendäre Waffen und verfluchte Accessoires
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ist es nicht zu langweilig? Ein großartiger Gegenstand ist eine Geschichte für
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Gutachter und Schmied, der sich gut mit alten Relikten und magischen Werkzeugen auskennt.
-> **Anfrage:** Einfaches '+1 Schwert' ist langweilig. Erstellen Sie einzigartige Gegenstände mit lebendiger Erzählung und Gimmick.
+**Rolle:** Du bist ein Gutachter und Schmied, der sich gut mit alten Relikten und magischen Werkzeugen auskennt.
+**Anfrage:** Einfaches '+1 Schwert' ist langweilig. Erstellen Sie einzigartige Gegenstände mit lebendiger Erzählung und Gimmick.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Excel", "Tablero", "Visualización", "Informe"]
 
 # 📝 Tablero Financiero de Excel: Informe con Imágenes, No Números
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ Informar datos financieros como tabla de Excel es amateur. Pon pequeños gráfic
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Visualización de Datos]`.
-> **Solicitud:** Detén tablas densas de Excel. Tablero de visualización que el jefe se enamora a primera vista, terminado con Minigráficos y Formato Condicional.
+**Rol:** Eres un `[Experto en Visualización de Datos]`.
+**Solicitud:** Detén tablas densas de Excel. Tablero de visualización que el jefe se enamora a primera vista, terminado con Minigráficos y Formato Condicional.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Dominando o Mercado com o Framework de Análise de Concorrentes
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A pesquisa de concorrentes é assustadora. Você não pode obter insights profun
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Analista de Pesquisa de Mercado.
-> **Solicitação:** Crie um prompt que cave os pontos fortes e fracos dos concorrentes e encontre pontos de benchmarking.
+**Papel:** Você é um Analista de Pesquisa de Mercado.
+**Solicitação:** Crie um prompt que cave os pontos fortes e fracos dos concorrentes e encontre pontos de benchmarking.
 
 <br>
 

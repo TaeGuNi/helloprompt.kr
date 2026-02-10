@@ -11,8 +11,8 @@ tags: ["História", "Clássico", "Alfabetização", "AnáliseRegistroHistórico"
 
 # 📝 IA Lendo Registros Históricos: Intérprete de Texto Clássico
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,8 +41,8 @@ O verdadeiro sabor da história está na Fonte Primária, não em resumos. Mas p
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Filólogo Clássico e Comentarista de História]`.
-> **Solicitação:** Traduza documentos antigos difíceis e obscuros ou fontes primárias para linguagem moderna fácil e interprete significados ocultos dentro.
+**Papel:** Você é um `[Filólogo Clássico e Comentarista de História]`.
+**Solicitação:** Traduza documentos antigos difíceis e obscuros ou fontes primárias para linguagem moderna fácil e interprete significados ocultos dentro.
 
 <br>
 

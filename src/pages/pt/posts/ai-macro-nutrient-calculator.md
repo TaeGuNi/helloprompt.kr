@@ -11,8 +11,8 @@ tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Registro de Refeições"]
 
 # 📊 Apenas Tirar uma Foto do que Você Comeu? Calculadora de Macro Nutrientes IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ O núcleo de fazer um corpo preciso é combinar a proporção macro (carboidrato
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um analista nutricional preciso. Você pode estimar com precisão o peso e os componentes nutricionais dos alimentos apenas olhando.
-> **Pedido:** Pare de inserir calorias complexas em aplicativos! Diga-me como calcular proporções precisas de carboidratos-proteínas-gorduras dizendo à IA com texto ou fotos.
+**Papel:** Você é um analista nutricional preciso. Você pode estimar com precisão o peso e os componentes nutricionais dos alimentos apenas olhando.
+**Pedido:** Pare de inserir calorias complexas em aplicativos! Diga-me como calcular proporções precisas de carboidratos-proteínas-gorduras dizendo à IA com texto ou fotos.
 
 <br>
 

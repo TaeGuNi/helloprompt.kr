@@ -11,9 +11,9 @@ tags: ["Débogage", "Journal d'Erreur", "Dépannage"]
 
 # 📝 Journal d'Erreur Inconnu, Analysez la Cause en 10 Secondes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Les journaux de serveur ou les messages d'erreur de compilation sont extrêmemen
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Expert en Ingénierie Système]`.
-> **Demande :** Crée un prompt assistant de débogage qui trouve la cause racine dans des milliers de lignes de journaux d'erreurs et propose des solutions.
+**Rôle :** Tu es un `[Expert en Ingénierie Système]`.
+**Demande :** Crée un prompt assistant de débogage qui trouve la cause racine dans des milliers de lignes de journaux d'erreurs et propose des solutions.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Mental Care", "Stress", "Psychologische Beratung", "Heilung"]
 
 # 📝 Mein eigener KI-Psychologischer Berater, Stressabbau-Mental-Care-Leitfaden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Manchmal gibt es Sorgen, die man selbst Freunden oder Familie schwer erzählen k
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein professioneller psychologischer Berater mit einem warmen Herzen. Unterhalte dich basierend auf Techniken der kognitiven Verhaltenstherapie (CBT).
-> **Anfrage:** Erstelle einen Prompt für Sorgen, die Sie niemandem erzählen können, beichten Sie der KI und finden Sie Seelenfrieden.
+**Rolle:** Du bist ein professioneller psychologischer Berater mit einem warmen Herzen. Unterhalte dich basierend auf Techniken der kognitiven Verhaltenstherapie (CBT).
+**Anfrage:** Erstelle einen Prompt für Sorgen, die Sie niemandem erzählen können, beichten Sie der KI und finden Sie Seelenfrieden.
 
 <br>
 

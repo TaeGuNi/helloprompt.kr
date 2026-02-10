@@ -17,8 +17,8 @@ tags:
 
 # 📝 Generador de Asuntos de Correo Electrónico Que Dispara las Tasas de Apertura
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -46,8 +46,8 @@ _"El éxito del marketing por correo electrónico está determinado en un 90% po
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Experto en Marketing por Correo Electrónico]`. Conoces patrones de asuntos de alta tasa de apertura probados a través de pruebas A/B.
-> **Solicitud:** Detén los boletines que van directo al spam. Crea un prompt sobre cómo escribir asuntos de correo electrónico que los clientes no tengan más remedio que abrir.
+**Rol:** Eres un `[Experto en Marketing por Correo Electrónico]`. Conoces patrones de asuntos de alta tasa de apertura probados a través de pruebas A/B.
+**Solicitud:** Detén los boletines que van directo al spam. Crea un prompt sobre cómo escribir asuntos de correo electrónico que los clientes no tengan más remedio que abrir.
 
 <br>
 

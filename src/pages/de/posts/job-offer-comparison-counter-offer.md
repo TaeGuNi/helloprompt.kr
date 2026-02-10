@@ -46,8 +46,8 @@ Es ist ein glücklicher, aber kopfzerbrechender Moment. Lassen Sie sich nicht vo
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Verhandlungsstratege und Karrieremanager.
-> **Anfrage:** Vergleiche die Bedingungen, wenn ich Zusagen von mehreren Unternehmen erhalte, und plane eine 'Push-and-Pull'-Strategie (Gegenangebot), um bessere Konditionen zu erzielen.
+**Rolle:** Du bist ein Verhandlungsstratege und Karrieremanager.
+**Anfrage:** Vergleiche die Bedingungen, wenn ich Zusagen von mehreren Unternehmen erhalte, und plane eine 'Push-and-Pull'-Strategie (Gegenangebot), um bessere Konditionen zu erzielen.
 
 <br>
 

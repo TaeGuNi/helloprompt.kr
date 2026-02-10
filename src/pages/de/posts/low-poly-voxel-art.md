@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Kunststil"]
 
 # 📝 Ästhetik der Einfachheit: Low Poly & Voxel Art
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte komplexe Beschreibungen herausnehmen und einfache und kantige 3D-C
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen Low-Poly-Kunst-Prompt aus vereinfachten Polygonen wie Origami oder Minecraft.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen Low-Poly-Kunst-Prompt aus vereinfachten Polygonen wie Origami oder Minecraft.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Fox in snow 3d.`
 
-> (Ergebnis: 3D-Fuchs mit weichem Fell im Disney-Stil)
+(Ergebnis: 3D-Fuchs mit weichem Fell im Disney-Stil)
 
 ### ✅ Nachher (Ergebnis)
 
 `Low poly` Prompt angewendet
 
-> (Ergebnis: Anspruchsvolles und modernes Kunstspielzeug-Gefühl Fuchs aus scharfen Flächen, als ob mit Papier gefaltet)
+(Ergebnis: Anspruchsvolles und modernes Kunstspielzeug-Gefühl Fuchs aus scharfen Flächen, als ob mit Papier gefaltet)
 
 ---
 

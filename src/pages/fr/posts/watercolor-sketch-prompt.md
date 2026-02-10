@@ -18,9 +18,9 @@ tags:
 
 # 📝 Émotion Transparente : Croquis Aquarelle
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ _"Je veux un sentiment de croquis légèrement taché de peinture, dessiné dans
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'aquarelle émotionnelle combinant effet d'étalement de l'eau et lignes de croquis au crayon.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'aquarelle émotionnelle combinant effet d'étalement de l'eau et lignes de croquis au crayon.
 
 <br>
 
@@ -79,13 +79,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Paris cafe painting.`
 
-> (Résultat : Image lourde peinte épaissement comme une peinture à l'huile)
+(Résultat : Image lourde peinte épaissement comme une peinture à l'huile)
 
 ### ✅ Après (Résultat)
 
 Prompt `Watercolor sketch` appliqué
 
-> (Résultat : Illustration légère et rafraîchissante où la texture du papier est ressentie et la peinture est superposée de manière transparente)
+(Résultat : Illustration légère et rafraîchissante où la texture du papier est ressentie et la peinture est superposée de manière transparente)
 
 ---
 

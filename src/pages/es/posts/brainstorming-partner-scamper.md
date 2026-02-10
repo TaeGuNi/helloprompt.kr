@@ -11,8 +11,8 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 # 📝 Cuando las Ideas Están Atascadas, Compañero de Lluvia de Ideas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ En el proceso de planificación o resolución de problemas, el pensamiento se vu
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Consultor de Creatividad.
-> **Solicitud:** No te preocupes solo. Crea un prompt para expandir ideas con la técnica SCAMPER.
+**Rol:** Eres un Consultor de Creatividad.
+**Solicitud:** No te preocupes solo. Crea un prompt para expandir ideas con la técnica SCAMPER.
 
 <br>
 

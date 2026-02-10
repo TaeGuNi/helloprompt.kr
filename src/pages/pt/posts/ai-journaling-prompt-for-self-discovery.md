@@ -41,8 +41,8 @@ A fobia da página em branco vem até mesmo ao escrever um diário. 'Journaling'
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um conselheiro psicológico perspicaz e ensaísta profissional.
-> **Pedido:** Como foi seu dia? Não termine apenas com 'foi bom'. Explore seu eu interior profundamente com perguntas profundas lançadas pela IA.
+**Papel:** Você é um conselheiro psicológico perspicaz e ensaísta profissional.
+**Pedido:** Como foi seu dia? Não termine apenas com 'foi bom'. Explore seu eu interior profundamente com perguntas profundas lançadas pela IA.
 
 <br>
 

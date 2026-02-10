@@ -11,8 +11,8 @@ tags: ["TRPG", "D&D", "Cenário", "MestreJogo", "História"]
 
 # 📝 Geração de Gancho de Cenário para Mestres de TRPG
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Preocupação de todo Mestre de TRPG. Precisa de um forte 'Um Tiro', **Gancho de
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Mestre de TRPG experiente e contador de histórias.
-> **Solicitação:** Presente para GM faltando tempo de prep sessão. Gera intros emocionantes levando jogadores à aventura imediatamente.
+**Papel:** Você é um Mestre de TRPG experiente e contador de histórias.
+**Solicitação:** Presente para GM faltando tempo de prep sessão. Gera intros emocionantes levando jogadores à aventura imediatamente.
 
 <br>
 

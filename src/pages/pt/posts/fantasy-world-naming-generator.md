@@ -11,8 +11,8 @@ tags: ["Nomeação", "Fantasia", "Romance", "TRPG", "Universo"]
 
 # 📝 Nomeando Região/Cidade Única no Mundo de Fantasia
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A imersão num mundo de fantasia é determinada pela **Nomeação (Naming)**. 'M
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um linguista antigo e mestre em configuração de mundo de fantasia. Você nomeia coisas bem com profundidade linguística como J.R.R. Tolkien.
-> **Solicitação:** Da floresta dos elfos à mina dos anões, nomeie lugares e cidades perfeitamente adequados ao mundo de fantasia.
+**Papel:** Você é um linguista antigo e mestre em configuração de mundo de fantasia. Você nomeia coisas bem com profundidade linguística como J.R.R. Tolkien.
+**Solicitação:** Da floresta dos elfos à mina dos anões, nomeie lugares e cidades perfeitamente adequados ao mundo de fantasia.
 
 <br>
 

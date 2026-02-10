@@ -11,8 +11,8 @@ tags: ["Storytelling", "Escrita", "Ensaio"]
 
 # 📝 Escape da Escrita Chata! Técnicas de Storytelling para Fazer as Pessoas Lerem
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ A frase "Nossa empresa foi fundada em 1990" é chata. Mas "Em 1990, houve um des
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um `[Autor de Ensaios Best-seller]`.
-> **Solicitação:** Crie um prompt que transforme a escrita chata de lista de fatos em histórias envolventes que toquem as emoções dos leitores.
+**Papel:** Você é um `[Autor de Ensaios Best-seller]`.
+**Solicitação:** Crie um prompt que transforme a escrita chata de lista de fatos em histórias envolventes que toquem as emoções dos leitores.
 
 <br>
 

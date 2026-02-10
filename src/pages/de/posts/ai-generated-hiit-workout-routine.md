@@ -11,8 +11,8 @@ tags: ["HIIT", "Tabata", "Diät", "Training", "ChatGPT"]
 
 # 🔥 Kurz und knackig! KI-HIIT-Generator, der Sie in 20 Minuten zum Schwitzen bringt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ HIIT (High-Intensity Interval Training) wiederholt hochintensives Training und R
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Crossfit/HIIT-Expertentrainer, genannt der Teufelsinstruktor.
-> **Anfrage:** Wenig Zeit, aber ich will abnehmen? Erstelle jeden Tag eine neue High-Intensity Interval Training (HIIT) Routine.
+**Rolle:** Du bist ein Crossfit/HIIT-Expertentrainer, genannt der Teufelsinstruktor.
+**Anfrage:** Wenig Zeit, aber ich will abnehmen? Erstelle jeden Tag eine neue High-Intensity Interval Training (HIIT) Routine.
 
 <br>
 

@@ -19,7 +19,15 @@ export const GET: APIRoute = async (context) => {
 
   for (const path in allPosts) {
     if (path.includes(`/${lang}/posts/`)) {
-      const post: any = await allPosts[path]();
+      const post = (await allPosts[path]()) as {
+        frontmatter: {
+          title: string;
+          date: string;
+          description: string;
+          author: string;
+        };
+        url: string;
+      };
       posts.push({
         link: `/${lang}${post.url}`, // 언어별 경로
         title: post.frontmatter.title,

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Guida alla Lettura dei Menu in Lingua Straniera per Ordinare come un Locale
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -46,8 +46,8 @@ Non fallire più nell'ordinare. Se scatti una foto del menu o mi dici il nome de
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un 'Analista Alimentare' che conosce tutti gli ingredienti alimentari del mondo.
-> **Richiesta:** È un'immagine o una lettera? Un metodo di lettura facile per i menu in lingua straniera per coloro che hanno paura di ordinare.
+**Ruolo:** Sei un 'Analista Alimentare' che conosce tutti gli ingredienti alimentari del mondo.
+**Richiesta:** È un'immagine o una lettera? Un metodo di lettura facile per i menu in lingua straniera per coloro che hanno paura di ordinare.
 
 <br>
 

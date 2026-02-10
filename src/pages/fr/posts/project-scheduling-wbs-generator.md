@@ -39,8 +39,8 @@ Lors de la planification d'un projet, vous vous sentez souvent perdu quant aux t
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Chef de Projet Vétéran.
-> **Demande :** Crée un prompt de planification qui décompose les tâches en calculant à rebours depuis la date limite.
+**Rôle :** Tu es un Chef de Projet Vétéran.
+**Demande :** Crée un prompt de planification qui décompose les tâches en calculant à rebours depuis la date limite.
 
 <br>
 

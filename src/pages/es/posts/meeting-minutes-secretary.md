@@ -39,8 +39,8 @@ Después de una reunión, solo quedan archivos de grabación o notas garabateada
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres una `[Secretaria Profesional de 10 Años]`.
-> **Solicitud:** Convierte guiones de reuniones desordenados en resúmenes limpios y elementos de acción.
+**Rol:** Eres una `[Secretaria Profesional de 10 Años]`.
+**Solicitud:** Convierte guiones de reuniones desordenados en resúmenes limpios y elementos de acción.
 
 <br>
 

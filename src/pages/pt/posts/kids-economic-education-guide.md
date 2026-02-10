@@ -47,8 +47,8 @@ Você deve ensiná-los que o dinheiro não é infinito e é a recompensa pelo es
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em educação econômica ao nível dos olhos de uma criança.
-> **Pedido:** Forneça um roteiro de explicação que ensina facilmente o valor do dinheiro e o significado do trabalho.
+**Papel:** Você é um especialista em educação econômica ao nível dos olhos de uma criança.
+**Pedido:** Forneça um roteiro de explicação que ensina facilmente o valor do dinheiro e o significado do trabalho.
 
 <br>
 

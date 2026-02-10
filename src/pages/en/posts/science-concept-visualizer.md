@@ -11,7 +11,7 @@ tags: ["ScienceStudy", "Visualization", "Comprehension", "ASCIIArt"]
 
 # 📝 Making Invisible Concepts Visible: Concept Visualization Helper
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

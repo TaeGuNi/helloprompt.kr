@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 
 # 📝 Mysterious Light Beams: Volumetric Lighting
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models
@@ -73,13 +73,13 @@ Copy the **PROMPT** content below and use it.
 
 `Library with windows, sunlight.`
 
-> (Result: Just a bright library, light beams are not visible)
+(Result: Just a bright library, light beams are not visible)
 
 ### ✅ After (Result)
 
 `Volumetric lighting` prompt applied
 
-> (Result: Distinct pillars of light pouring from windows, mysterious atmosphere feeling the texture of the air)
+(Result: Distinct pillars of light pouring from windows, mysterious atmosphere feeling the texture of the air)
 
 ---
 

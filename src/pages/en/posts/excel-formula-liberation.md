@@ -11,7 +11,7 @@ tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivity"]
 
 # 📊 Declaration of Excel Independence: No More VLOOKUP
 
-> **🎯 Recommended for:** Liberal Arts majors dizzy from formulas, Marketers spending hours on data
+**🎯 Recommended for:** Liberal Arts majors dizzy from formulas, Marketers spending hours on data
 
 - **⏱️ Time Required:** 10 seconds
 - **🤖 Recommended Model:** ChatGPT-4o (Advanced Data Analysis) or Claude 3.5 Sonnet
@@ -20,7 +20,7 @@ tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivity"]
 | :--------: | :-----------: | :--------: |
 |   ⭐☆☆☆☆   |  ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 
-> _"Hey Kim, compare Column B and F in this sheet, extract duplicates, and highlight them in red with conditional formatting."_
+_"Hey Kim, compare Column B and F in this sheet, extract duplicates, and highlight them in red with conditional formatting."_
 
 Sudden Excel mission from the boss. Are you Googling `Excel find duplicates`? `VLOOKUP`, `INDEX-MATCH`... when will you memorize them all? Now, Excel is not done with **'Formulas'**, but with **'Words'**.
 
@@ -86,11 +86,11 @@ When you need complex processing or VBA Macros.
 
 ### ✅ After (AI Answer)
 
-> "Customer, instead of complex VLOOKUP, use the modern `XLOOKUP`. It's faster and error-free."
->
-> `=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "None")`
->
-> (Copy -> Paste -> Clock out)
+"Customer, instead of complex VLOOKUP, use the modern `XLOOKUP`. It's faster and error-free."
+
+`=XLOOKUP(A2, Sheet2!A:A, Sheet2!B:B, "None")`
+
+(Copy -> Paste -> Clock out)
 
 ---
 

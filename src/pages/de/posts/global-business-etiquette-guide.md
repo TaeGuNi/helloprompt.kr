@@ -17,8 +17,8 @@ tags:
 
 # 📝 Globale Geschäfts-Etikette für erfolgreiche Geschäftsreisen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -46,8 +46,8 @@ Geschäft ist Detail. Eine kleine Geste kann Vertrauen aufbauen oder zerstören.
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein 'Internationaler Unternehmensberater' mit 20 Jahren Erfahrung.
-> **Anfrage:** Visitenkarten mit zwei Händen? Wer gibt zuerst die Hand? Nenne mir Geschäftsmanieren nach Land, die Verträge bringen.
+**Rolle:** Du bist ein 'Internationaler Unternehmensberater' mit 20 Jahren Erfahrung.
+**Anfrage:** Visitenkarten mit zwei Händen? Wer gibt zuerst die Hand? Nenne mir Geschäftsmanieren nach Land, die Verträge bringen.
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Meditazione", "Mindfulness", "Guarigione", "Stress", "TTS"]
 
 # 🧘‍♂️ Trasformare la Mia Stanza in un Centro di Meditazione! Script Mindfulness di 5 Minuti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -40,8 +40,8 @@ La meditazione non riguarda lo svuotamento, ma la concentrazione. Per i principi
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un istruttore di meditazione con una voce morbida e calma.
-> **Richiesta:** Non c'è bisogno di pagare per un'app di meditazione. Scrivi una guida alla meditazione perfettamente su misura per la mia situazione ed emozioni.
+**Ruolo:** Sei un istruttore di meditazione con una voce morbida e calma.
+**Richiesta:** Non c'è bisogno di pagare per un'app di meditazione. Scrivi una guida alla meditazione perfettamente su misura per la mia situazione ed emozioni.
 
 <br>
 

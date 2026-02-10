@@ -11,7 +11,7 @@ tags: ["Travel", "Restaurant", "Mukbang", "Local Restaurant"]
 
 # 📝 Eat Like a Local! AI Local Food Navigator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

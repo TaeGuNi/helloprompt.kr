@@ -12,8 +12,8 @@ tags:
 
 # 📝 Tabelle e Grafici Parlano: Tutor di Interpretazione Dati
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -41,8 +41,8 @@ L'Alfabetizzazione ai Dati è un'abilità di sopravvivenza essenziale per le per
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Capo Analista Dati ed Esperto di Statistica]`.
-> **Richiesta:** Crea un prompt che estrae intuizioni chiave da grafici o tabelle complessi e trova trappole nascoste.
+**Ruolo:** Sei un `[Capo Analista Dati ed Esperto di Statistica]`.
+**Richiesta:** Crea un prompt che estrae intuizioni chiave da grafici o tabelle complessi e trova trappole nascoste.
 
 <br>
 

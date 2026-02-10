@@ -11,8 +11,8 @@ tags: ["Blog", "SEO", "Esposizione Google"]
 
 # 📝 Schema Blog SEO per Classifiche di Ricerca Top
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il nucleo della SEO (Ottimizzazione per i Motori di Ricerca) è trovare l'inters
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Esperto di Content Marketing SEO]`.
-> **Richiesta:** Crea un prompt di generazione di schema ottimizzato SEO che inquadri il tuo post del blog in una struttura che Google ama.
+**Ruolo:** Sei un `[Esperto di Content Marketing SEO]`.
+**Richiesta:** Crea un prompt di generazione di schema ottimizzato SEO che inquadri il tuo post del blog in una struttura che Google ama.
 
 <br>
 

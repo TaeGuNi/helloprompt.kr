@@ -11,7 +11,7 @@ tags: ["HistoryStudy", "Gamification", "Simulation", "AlternateHistory"]
 
 # 📝 Jump into History: Historical Event Simulator
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

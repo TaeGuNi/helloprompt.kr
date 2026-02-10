@@ -12,8 +12,8 @@ tags:
 
 # 📝 'Domande Magiche' Che Fanno Studiare i Bambini Senza Dire 'Studia'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 
@@ -41,8 +41,8 @@ Le istruzioni chiamano resistenza, ma le domande chiamano pensieri. Lancia doman
 
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un consulente di psicologia dell'apprendimento.
-> **Richiesta:** Fornisci tecniche di conversazione per far sedere un bambino alla scrivania da solo senza costringerlo.
+**Ruolo:** Sei un consulente di psicologia dell'apprendimento.
+**Richiesta:** Fornisci tecniche di conversazione per far sedere un bambino alla scrivania da solo senza costringerlo.
 
 <br>
 

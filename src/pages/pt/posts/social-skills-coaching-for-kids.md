@@ -18,8 +18,8 @@ tags:
 
 # 📝 Fortalecendo o Coração de uma Criança Antes de Perguntar 'Você Está Sofrendo Bullying?'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -47,8 +47,8 @@ Culpar o amigo incondicionalmente ou tomar apenas o lado da criança não é a s
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um especialista em desenvolvimento social infantil.
-> **Pedido:** Forneça coaching de sociabilidade para crianças magoadas em relacionamentos com colegas.
+**Papel:** Você é um especialista em desenvolvimento social infantil.
+**Pedido:** Forneça coaching de sociabilidade para crianças magoadas em relacionamentos com colegas.
 
 <br>
 

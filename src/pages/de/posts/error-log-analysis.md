@@ -40,8 +40,8 @@ Serverprotokolle oder Kompilierungsfehlermeldungen sind extrem unfreundlich. Abe
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Systemtechnik-Experte]`.
-> **Anfrage:** Erstelle einen Debugging-Helfer-Prompt, der die Ursache in tausenden von Zeilen von Fehlerprotokollen findet und Lösungen vorschlägt.
+**Rolle:** Du bist ein `[Systemtechnik-Experte]`.
+**Anfrage:** Erstelle einen Debugging-Helfer-Prompt, der die Ursache in tausenden von Zeilen von Fehlerprotokollen findet und Lösungen vorschlägt.
 
 <br>
 

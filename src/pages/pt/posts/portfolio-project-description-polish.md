@@ -40,8 +40,8 @@ Valor do projeto está em **'qual problema foi resolvido'**. Simplesmente listar
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um líder técnico sênior e recrutador em uma empresa de TI.
-> **Solicitação:** Refina descrição do projeto em formato de narrativa para que processo de resolução de problemas e contribuição se destaquem, em vez de simples listagem de projetos.
+**Papel:** Você é um líder técnico sênior e recrutador em uma empresa de TI.
+**Solicitação:** Refina descrição do projeto em formato de narrativa para que processo de resolução de problemas e contribuição se destaquem, em vez de simples listagem de projetos.
 
 <br>
 

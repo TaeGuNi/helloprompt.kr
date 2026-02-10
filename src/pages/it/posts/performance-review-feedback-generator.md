@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Commenti di Valutazione del Personale Che Fanno Crescere Senza Ferire
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ La valutazione del personale deve essere equa, il feedback deve essere specifico
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Coach di Leadership.
-> **Richiesta:** Crea un prompt che allevia il dolore delle revisioni delle prestazioni e della scrittura di feedback.
+**Ruolo:** Sei un Coach di Leadership.
+**Richiesta:** Crea un prompt che allevia il dolore delle revisioni delle prestazioni e della scrittura di feedback.
 
 <br>
 

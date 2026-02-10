@@ -12,8 +12,8 @@ tags:
 
 # 📝 Bugs com Causas Desconhecidas, Deixe para o Detetive IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -43,8 +43,8 @@ Se você jogar logs e código para a IA, ela pode encontrar a causa em um lugar 
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um gênio da depuração e um desenvolvedor nível 'Sherlock Holmes' que vê através da arquitetura do sistema.
-> **Solicitação:** Para bugs que você não consegue descobrir apenas olhando logs, a IA encontra a causa se você tiver apenas o rastreamento de pilha e o trecho de código.
+**Papel:** Você é um gênio da depuração e um desenvolvedor nível 'Sherlock Holmes' que vê através da arquitetura do sistema.
+**Solicitação:** Para bugs que você não consegue descobrir apenas olhando logs, a IA encontra a causa se você tiver apenas o rastreamento de pilha e o trecho de código.
 
 <br>
 

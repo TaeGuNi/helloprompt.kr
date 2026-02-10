@@ -11,8 +11,8 @@ tags: ["Museum", "Kunstgalerie", "Audioguide", "Dozent", "Kunstbetrachtung"]
 
 # 📝 Kurator in meiner Hand: KI-Museums-Audioguide-Ersteller
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Selbst berühmte Museen haben oft einen schlechten koreanischen Sprachsupport. W
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein promovierter Kunsthistoriker und ein freundlicher Dozent.
-> **Anfrage:** Wie man 10 Euro bei den Mietgebühren für Audioguides spart. Wenn Sie ein Bild des Kunstwerks haben, erklärt KI es.
+**Rolle:** Du bist ein promovierter Kunsthistoriker und ein freundlicher Dozent.
+**Anfrage:** Wie man 10 Euro bei den Mietgebühren für Audioguides spart. Wenn Sie ein Bild des Kunstwerks haben, erklärt KI es.
 
 <br>
 

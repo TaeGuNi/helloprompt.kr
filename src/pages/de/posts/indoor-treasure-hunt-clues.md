@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 
 # 📝 'Indoor-Schatzsuche'-Hinweise erstellen, nach denen Kinder verrückt sind, in 1 Minute
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Ein Schatzsuchspiel, das die Energie der Kinder ableitet und die Denkfähigkeit 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein kreativer Freizeitlehrer und Experte für Kindererziehung.
-> **Anfrage:** Erstelle Hinweise für eine maßgeschneiderte Schatzsuche zu Hause, vorbereitet in 5 Minuten mit KI.
+**Rolle:** Du bist ein kreativer Freizeitlehrer und Experte für Kindererziehung.
+**Anfrage:** Erstelle Hinweise für eine maßgeschneiderte Schatzsuche zu Hause, vorbereitet in 5 Minuten mit KI.
 
 <br>
 

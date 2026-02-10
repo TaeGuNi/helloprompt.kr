@@ -11,8 +11,8 @@ tags: ["YouTube", "Shorts", "Roteiro", "Criador", "TikTok"]
 
 # 🎬 Fábrica de YouTube Shorts: Roteiro + Visual em 30 Segundos
 
-> **🎯 Recomendado para:** YouTubers sem ideias para uploads diários, Funcionários com canal de Shorts secundário
-> **⏱️ Tempo Necessário:** 30 segundos
+**🎯 Recomendado para:** YouTubers sem ideias para uploads diários, Funcionários com canal de Shorts secundário
+**⏱️ Tempo Necessário:** 30 segundos
 
 - **🤖 Modelo Recomendado:** ChatGPT-4o (Rápido & Espirituoso)
 
@@ -20,7 +20,7 @@ tags: ["YouTube", "Shorts", "Roteiro", "Criador", "TikTok"]
 | :---------: | :---------: | :--------: |
 |   ⭐☆☆☆☆    | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ |
 
-> _"Ah... o que eu filmo amanhã? Quando escrevo o roteiro..."_
+_"Ah... o que eu filmo amanhã? Quando escrevo o roteiro..."_
 
 O núcleo do formato curto (Shorts/Reels/TikTok) é a **'Consistência'** e os **'Primeiros 3 Segundos'**. Mas espremer ideias virais diariamente não é humanamente possível. Agora, vamos injetar a **'Fórmula Viral'** na IA e construir uma fábrica que imprime roteiros apenas respirando.
 
@@ -40,9 +40,9 @@ O núcleo do formato curto (Shorts/Reels/TikTok) é a **'Consistência'** e os *
 
 Quando você tem zero ideias.
 
-> **Papel:** Você é um YouTuber de 1M de inscritos.
-> **Tópico:** `[Truques para Morar Sozinho]`
-> **Pedido:** Me dê 5 ideias de Shorts picantes e frescas que as pessoas não consigam pular. Inclua Título e Primeira Frase (Hook).
+**Papel:** Você é um YouTuber de 1M de inscritos.
+**Tópico:** `[Truques para Morar Sozinho]`
+**Pedido:** Me dê 5 ideias de Shorts picantes e frescas que as pessoas não consigam pular. Inclua Título e Primeira Frase (Hook).
 
 <br>
 
@@ -80,19 +80,19 @@ Um roteiro perfeito pronto para ler na câmera.
 
 ### ❌ Antes (Apenas escrevendo)
 
-> Olá a todos~ Hoje vou apresentar bons itens na Ikea. O primeiro é... (Espectadores foram embora 👋)
+Olá a todos~ Hoje vou apresentar bons itens na Ikea. O primeiro é... (Espectadores foram embora 👋)
 
 ### ✅ Depois (Fábrica IA)
 
-> **[0~3s]**
->
-> - **Visual:** Amassando um recibo e jogando no chão.
-> - **Áudio:** "Ainda gastando dinheiro na Ikea? A equipe usa secretamente essas 3 joias reais! Pegue apenas estes."
->
-> **[4~15s]**
->
-> - **Visual:** Close-up do Produto A.
-> - **Áudio:** "Primeiro, [Nome do Produto]. Sabe que isso está esgotado em todo lugar? Se você ver..."
+**[0~3s]**
+
+- **Visual:** Amassando um recibo e jogando no chão.
+- **Áudio:** "Ainda gastando dinheiro na Ikea? A equipe usa secretamente essas 3 joias reais! Pegue apenas estes."
+
+**[4~15s]**
+
+- **Visual:** Close-up do Produto A.
+- **Áudio:** "Primeiro, [Nome do Produto]. Sabe que isso está esgotado em todo lugar? Se você ver..."
 
 ---
 

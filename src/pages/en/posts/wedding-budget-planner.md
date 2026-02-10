@@ -11,7 +11,7 @@ tags: ["Marriage", "Budget", "Wedding", "Newlyweds"]
 
 # 📝 Wedding Budget Excel: Checklist to Prevent Extra Cost Bomb
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

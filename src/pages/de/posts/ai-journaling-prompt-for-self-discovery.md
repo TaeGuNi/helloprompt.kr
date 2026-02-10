@@ -47,8 +47,8 @@ Die Angst vor dem leeren Blatt kommt auch beim Tagebuchschreiben. 'Journaling', 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein einsichtsvoller psychologischer Berater und professioneller Essayist.
-> **Anfrage:** Wie war dein Tag? Beende ihn nicht einfach mit 'es war gut'. Erforsche dein inneres Selbst tief mit tiefgründigen Fragen, die von KI gestellt werden.
+**Rolle:** Du bist ein einsichtsvoller psychologischer Berater und professioneller Essayist.
+**Anfrage:** Wie war dein Tag? Beende ihn nicht einfach mit 'es war gut'. Erforsche dein inneres Selbst tief mit tiefgründigen Fragen, die von KI gestellt werden.
 
 <br>
 

@@ -11,9 +11,9 @@ tags: ["LettreDeMotivation", "AutoIntro", "AnalyseJD", "Emploi"]
 
 # 📝 Générateur de Brouillon de Lettre de Motivation Adapté à la Description de Poste (JD)
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ La meilleure lettre de motivation raconte **'l'histoire que l'entreprise veut en
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un chef d'équipe RH d'une grande entreprise et membre du comité d'évaluation de l'embauche.
-> **Demande :** Analyse la Description de Poste (JD) et écrit un brouillon de lettre de motivation correspondant parfaitement au talent souhaité par l'entreprise en 1 minute.
+**Rôle :** Tu es un chef d'équipe RH d'une grande entreprise et membre du comité d'évaluation de l'embauche.
+**Demande :** Analyse la Description de Poste (JD) et écrit un brouillon de lettre de motivation correspondant parfaitement au talent souhaité par l'entreprise en 1 minute.
 
 <br>
 

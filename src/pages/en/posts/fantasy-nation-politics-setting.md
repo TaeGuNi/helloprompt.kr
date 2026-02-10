@@ -11,7 +11,7 @@ tags: ["Universe", "Politics", "Nation", "Fantasy", "Setting"]
 
 # 📝 Nation and Political System Setting: Realistic Fantasy World
 
-> **🎯 Recommended For:** Everyone
+**🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

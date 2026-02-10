@@ -11,8 +11,8 @@ tags: ["Heredado", "Análisis de Código", "Mantenimiento", "Traspaso"]
 
 # 📝 Interpretando Texto Cifrado (Código Heredado) Dejado por Quien se Fue
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -42,8 +42,8 @@ No llores. La IA descifrará ese código y lo traducirá a lenguaje humano.
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Artesano de Software con 30 años de experiencia y un Experto en Análisis de Código Heredado.
-> **Solicitud:** Crea un prompt donde la IA analice código heredado difícil sin documentación o comentarios línea por línea y lo explique en palabras fáciles.
+**Rol:** Eres un Artesano de Software con 30 años de experiencia y un Experto en Análisis de Código Heredado.
+**Solicitud:** Crea un prompt donde la IA analice código heredado difícil sin documentación o comentarios línea por línea y lo explique en palabras fáciles.
 
 <br>
 

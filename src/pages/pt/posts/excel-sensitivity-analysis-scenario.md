@@ -11,8 +11,8 @@ tags: ["Excel", "AnáliseSensibilidade", "Cenário", "TabelaDados"]
 
 # 📝 Análise de Sensibilidade Excel: Preparação Perfeita para Cenários "E Se"
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -41,7 +41,7 @@ Coisa mais importante ao planejar negócio é variável. Tabela de **'Análise d
 Use isso quando precisar apenas de um resultado rápido.
 
 - **Papel:** Você é um `[Especialista em Modelagem Financeira]` em escritório de planejamento estratégico.
-  > **Solicitação:** Quanto lucro diminui se taxa de câmbio subir 10%? Calculando dezenas de casos de uma vez com função Tabela de Dados do Excel.
+  **Solicitação:** Quanto lucro diminui se taxa de câmbio subir 10%? Calculando dezenas de casos de uma vez com função Tabela de Dados do Excel.
 
 <br>
 

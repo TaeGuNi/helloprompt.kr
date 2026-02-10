@@ -11,8 +11,8 @@ tags: ["Romanzo", "ColpoDiScena", "Idea", "Narrazione"]
 
 # 📝 Stravolgere Cliché: Trasformare Finale Ovvio in Colpo di Scena Scioccante
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Cliché è comodo perché è familiare, ma noioso perché è prevedibile. Grandi
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore di storie con creatività di 'Christopher Nolan', maestro film colpi di scena, e 'Bong Joon-ho'.
-> **Richiesta:** Metodo per ottenere idee di colpi di scena scioccanti che colpiscono la nuca del lettore stravolgendo cliché familiari.
+**Ruolo:** Sei uno scrittore di storie con creatività di 'Christopher Nolan', maestro film colpi di scena, e 'Bong Joon-ho'.
+**Richiesta:** Metodo per ottenere idee di colpi di scena scioccanti che colpiscono la nuca del lettore stravolgendo cliché familiari.
 
 <br>
 

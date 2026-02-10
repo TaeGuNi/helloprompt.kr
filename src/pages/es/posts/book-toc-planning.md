@@ -11,8 +11,8 @@ tags: ["Escritura de Libros", "Planificación Editorial", "E-book"]
 
 # 📝 ¿Puedo Ser Autor También? Planificación de una Tabla de Contenido de Libro que Venda
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 
@@ -40,8 +40,8 @@ El 80% de escribir un libro es la tabla de contenido. Si la tabla de contenido e
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un `[Editor en Jefe de una Gran Editorial]`.
-> **Solicitud:** Crea un prompt de planificación de libros y composición de tabla de contenido que convierta sueños vagos de publicación en realidad.
+**Rol:** Eres un `[Editor en Jefe de una Gran Editorial]`.
+**Solicitud:** Crea un prompt de planificación de libros y composición de tabla de contenido que convierta sueños vagos de publicación en realidad.
 
 <br>
 

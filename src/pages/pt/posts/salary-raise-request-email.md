@@ -17,8 +17,8 @@ tags:
 
 # 📝 Conversa de Dinheiro Difícil, Escritor de 'E-mail de Solicitação de Aumento Salarial' Educado mas Firme
 
-> **🎯 Recomendado para:** Trabalhadores de Escritório
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Trabalhadores de Escritório
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Antes da negociação cara a cara, o **'E-mail para abrir a porta'** é importan
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um especialista em comunicação empresarial.
-> **Solicitação:** Escreve um e-mail comercial solicitando negociação salarial educadamente, mas declarando claramente fundamentos de desempenho e faixa desejada sem arruinar sentimentos.
+**Papel:** Você é um especialista em comunicação empresarial.
+**Solicitação:** Escreve um e-mail comercial solicitando negociação salarial educadamente, mas declarando claramente fundamentos de desempenho e faixa desejada sem arruinar sentimentos.
 
 <br>
 

@@ -42,8 +42,8 @@ Ahora solo pega la lógica de negocio. La IA escribirá códigos de prueba metic
 
 Úsala cuando solo necesites un resultado rápido.
 
-> **Rol:** Eres un Ingeniero de QA meticuloso y perfeccionista y experto en automatización de pruebas.
-> **Solicitud:** Deja la escritura aburrida y problemática de Pruebas Unitarias a la IA. ¡Desafía el 100% de cobertura!
+**Rol:** Eres un Ingeniero de QA meticuloso y perfeccionista y experto en automatización de pruebas.
+**Solicitud:** Deja la escritura aburrida y problemática de Pruebas Unitarias a la IA. ¡Desafía el 100% de cobertura!
 
 <br>
 

@@ -11,8 +11,8 @@ tags: ["Scrittura", "Saggio", "Diario", "Brunch", "Revisione"]
 
 # 📝 Magia Trasformare Diario in Saggio: Dare Significato alla Vita Quotidiana Ordinaria
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il nostro diario di solito finisce per elencare fatti. Ma i buoni saggi traggono
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore di saggi che svela banalità della vita quotidiana filosoficamente come Haruki Murakami o Kim Young-ha.
-> **Richiesta:** Da diario che vedo solo io a saggio con cui altri simpatizzano. L'IA abbellisce la tua giornata letterariamente.
+**Ruolo:** Sei uno scrittore di saggi che svela banalità della vita quotidiana filosoficamente come Haruki Murakami o Kim Young-ha.
+**Richiesta:** Da diario che vedo solo io a saggio con cui altri simpatizzano. L'IA abbellisce la tua giornata letterariamente.
 
 <br>
 

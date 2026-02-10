@@ -11,8 +11,8 @@ tags: ["Few-Shot", "Dicas Avançadas", "Exemplos"]
 
 # 🎯 O poder dos "Exemplos" mais forte que 100 explicações
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -44,8 +44,8 @@ Em termos técnicos, isso é chamado de **Few-Shot Prompting**.
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um **Crítico de Cinema** emotivo.
-> **Solicitação:** Estou frustrado porque a IA não acerta o tom ou formato. Explique a técnica Few-Shot, que é mais eficaz do que longas explicações.
+**Papel:** Você é um **Crítico de Cinema** emotivo.
+**Solicitação:** Estou frustrado porque a IA não acerta o tom ou formato. Explique a técnica Few-Shot, que é mais eficaz do que longas explicações.
 
 <br>
 

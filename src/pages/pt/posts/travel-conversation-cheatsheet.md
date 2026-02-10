@@ -11,8 +11,8 @@ tags: ["Viagem", "Língua Estrangeira", "Conversação", "Inglês", "Japonês"]
 
 # 📝 Mais Rápido que Papago! Chave de Trapaça de Conversação de Viagem Essencial por Situação
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Aplicativos de tradução são ótimos, mas é complicado ligar, digitar e mostr
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é um Intérprete fluente na língua e cultura local.
-> **Solicitação:** Crie um prompt para cartões de conversação práticos que funcionem imediatamente localmente para pedidos em restaurantes, check-in em hotéis, até emergências.
+**Papel:** Você é um Intérprete fluente na língua e cultura local.
+**Solicitação:** Crie um prompt para cartões de conversação práticos que funcionem imediatamente localmente para pedidos em restaurantes, check-in em hotéis, até emergências.
 
 <br>
 

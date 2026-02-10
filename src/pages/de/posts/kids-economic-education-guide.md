@@ -40,8 +40,8 @@ Sie müssen ihnen beibringen, dass Geld nicht unendlich ist und die Belohnung f�
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für Wirtschaftsbildung auf Augenhöhe eines Kindes.
-> **Anfrage:** Biete ein Erklärskript, das leicht den Wert von Geld und die Bedeutung von Arbeit lehrt.
+**Rolle:** Du bist ein Experte für Wirtschaftsbildung auf Augenhöhe eines Kindes.
+**Anfrage:** Biete ein Erklärskript, das leicht den Wert von Geld und die Bedeutung von Arbeit lehrt.
 
 <br>
 

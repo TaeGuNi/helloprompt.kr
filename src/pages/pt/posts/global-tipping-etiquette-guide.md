@@ -17,8 +17,8 @@ tags:
 
 # 📝 Devo Dar Gorjeta ou Não? Conquistando a Cultura Global de Gorjetas
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -46,8 +46,8 @@ Um mundo de gorjetas onde dar pouco é rude e dar muito faz de você um trouxa. 
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um 'Guia de Viagem Inteligente' que conhece os preços e maneiras de viagem globais por dentro e por fora.
-> **Pedido:** EUA 20%? Japão 0? A IA esclarece a cultura confusa e estranha das gorjetas.
+**Papel:** Você é um 'Guia de Viagem Inteligente' que conhece os preços e maneiras de viagem globais por dentro e por fora.
+**Pedido:** EUA 20%? Japão 0? A IA esclarece a cultura confusa e estranha das gorjetas.
 
 <br>
 

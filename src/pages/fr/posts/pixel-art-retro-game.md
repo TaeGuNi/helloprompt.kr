@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Rétro"]
 
 # 📝 Artisan des Points : Pixel Art
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ _"J'ai besoin de graphismes en points comme Super Mario ou Pokémon Version Or."
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un expert.
-> **Demande :** Créez un prompt d'art pixel 8-bit, 16-bit évoquant la nostalgie des jeux classiques.
+**Rôle :** Tu es un expert.
+**Demande :** Créez un prompt d'art pixel 8-bit, 16-bit évoquant la nostalgie des jeux classiques.
 
 <br>
 
@@ -72,13 +72,13 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 
 `Knight vs Dragon game.`
 
-> (Résultat : Graphismes de jeu mobile 3D moderne)
+(Résultat : Graphismes de jeu mobile 3D moderne)
 
 ### ✅ Après (Résultat)
 
 Prompt `Pixel art` appliqué
 
-> (Résultat : Graphismes en points nostalgiques vus dans les arcades, un festin de points carrés distincts)
+(Résultat : Graphismes en points nostalgiques vus dans les arcades, un festin de points carrés distincts)
 
 ---
 

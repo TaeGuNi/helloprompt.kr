@@ -11,8 +11,8 @@ tags: ["Blog", "Content-Marketing", "SEO", "Copywriting"]
 
 # 📝 Blogpost-Titelgenerator, der nach Klicks ruft
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Egal wie gut der Textkörper ist, wenn der Titel schlecht ist, liest ihn niema
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Power-Blogger]` mit 1 Million monatlichen Besuchern und ein `[Copywriting-Experte]`. Du hast Einsicht, die die Psychologie der Leser durchdringt.
-> **Anfrage:** Erstelle einen Prompt, der magische Blogtitel auswählt, die die Aufrufe verdoppeln, indem einfach Schlüsselwörter eingegeben werden.
+**Rolle:** Du bist ein `[Power-Blogger]` mit 1 Million monatlichen Besuchern und ein `[Copywriting-Experte]`. Du hast Einsicht, die die Psychologie der Leser durchdringt.
+**Anfrage:** Erstelle einen Prompt, der magische Blogtitel auswählt, die die Aufrufe verdoppeln, indem einfach Schlüsselwörter eingegeben werden.
 
 <br>
 

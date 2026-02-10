@@ -42,8 +42,8 @@ Ora incolla semplicemente la logica aziendale. L'IA scriverà codici di test met
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Ingegnere QA meticoloso e perfezionista ed esperto di automazione dei test.
-> **Richiesta:** Lascia la scrittura noiosa e problematica di Test Unitari all'IA. Sfida copertura 100%!
+**Ruolo:** Sei un Ingegnere QA meticoloso e perfezionista ed esperto di automazione dei test.
+**Richiesta:** Lascia la scrittura noiosa e problematica di Test Unitari all'IA. Sfida copertura 100%!
 
 <br>
 

@@ -40,8 +40,8 @@ Il motivo per cui la To-Do List non viene praticata non importa quanto scrivi è
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un Coach di Gestione del Tempo che massimizza l'efficienza e una Segretaria Professionista.
-> **Richiesta:** Crea un prompt per una programmazione perfetta basata sulla priorità quando c'è molto da fare ma non riesci a organizzare.
+**Ruolo:** Sei un Coach di Gestione del Tempo che massimizza l'efficienza e una Segretaria Professionista.
+**Richiesta:** Crea un prompt per una programmazione perfetta basata sulla priorità quando c'è molto da fare ma non riesci a organizzare.
 
 <br>
 

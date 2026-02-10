@@ -11,8 +11,8 @@ tags: ["Winterreise", "Packen", "Kaltwetterausrüstung", "Pack-Know-how"]
 
 # 📝 Winterreise-Packstrategie zur Reduzierung des Volumens und Erhaltung der Wärme
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Die größte Sorge bei der Abreise in ein kaltes Land ist das 'Gepäckvolumen'. 
 
 Verwenden Sie dies, wenn Sie schnelle Ergebnisse benötigen.
 
-> **Rolle:** Du bist ein Experte für kaltes Wetter im Freien und Packmeister.
-> **Anfrage:** Füllt eine Daunenjacke Ihren Koffer? Erzähl mir alles über das Packen für Winterreisen.
+**Rolle:** Du bist ein Experte für kaltes Wetter im Freien und Packmeister.
+**Anfrage:** Füllt eine Daunenjacke Ihren Koffer? Erzähl mir alles über das Packen für Winterreisen.
 
 <br>
 

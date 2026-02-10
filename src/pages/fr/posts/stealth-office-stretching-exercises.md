@@ -18,9 +18,9 @@ tags:
 
 # 🪑 Étirement Discret au Bureau pour Échapper au Cou de Tortue & au Mal de Dos
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -46,8 +46,8 @@ Vous ne pouvez pas aller à la salle de sport pendant le travail chargé, mais i
 
 Utilisez ceci pour des résultats rapides.
 
-> **Rôle :** Tu es un expert en correction de posture et un maître des compétences sociales.
-> **Demande :** Présente une routine d''Étirement au Bureau' que je peux faire directement à mon siège sans que mes collègues ne le remarquent.
+**Rôle :** Tu es un expert en correction de posture et un maître des compétences sociales.
+**Demande :** Présente une routine d''Étirement au Bureau' que je peux faire directement à mon siège sans que mes collègues ne le remarquent.
 
 <br>
 

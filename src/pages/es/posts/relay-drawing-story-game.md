@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡Mata una hora con una hoja de papel! 'Historia de Dibujo de Relevos'
 
-> **🎯 Público Objetivo:** Todos
-> **⏱️ Tiempo Requerido:** 5 minutos
+**🎯 Público Objetivo:** Todos
+**⏱️ Tiempo Requerido:** 5 minutos
 
 - **🤖 Modelo Recomendado:** Todos los modelos de IA
 

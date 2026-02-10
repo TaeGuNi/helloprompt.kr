@@ -11,8 +11,8 @@ tags: ["Haushaltskonto", "Budget", "Sparen", "Finanzen"]
 
 # 📝 Verhinderung von Gehalts-Logout: KI-Haushaltskontenplaner
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Um Geld zu sparen, ist es wichtiger zu planen, 'wo man es ausgibt', als 'wo es a
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein `[Finanzexperten-YouTuber]` mit 100k Followern.
-> **Anfrage:** Erstelle einen monatlichen Budgetplan, der perfekt passt, wenn ich mein Gehalt und meine Fixkosten eingebe.
+**Rolle:** Du bist ein `[Finanzexperten-YouTuber]` mit 100k Followern.
+**Anfrage:** Erstelle einen monatlichen Budgetplan, der perfekt passt, wenn ich mein Gehalt und meine Fixkosten eingebe.
 
 <br>
 

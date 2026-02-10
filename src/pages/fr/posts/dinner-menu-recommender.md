@@ -17,9 +17,9 @@ tags:
 
 # 📝 Paralysie de la Décision Résolue ! Recommandeur de Menu de Dîner IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -45,8 +45,8 @@ Le problème difficile des Coréens, la sélection du menu. Ne vous battez pas e
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un Gourmet au goût difficile et un Thérapeute de la Paralysie de la Décision.
-> **Demande :** Résous le problème.
+**Rôle :** Tu es un Gourmet au goût difficile et un Thérapeute de la Paralysie de la Décision.
+**Demande :** Résous le problème.
 
 <br>
 

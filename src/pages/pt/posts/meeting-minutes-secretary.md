@@ -39,8 +39,8 @@ Após uma reunião, apenas arquivos de gravação ou notas rabiscadas permanecem
 
 Use isso quando precisar apenas de um resultado rápido.
 
-> **Papel:** Você é uma `[Secretária Veterana de 10 Anos]`.
-> **Solicitação:** Converta scripts de reunião bagunçados em resumos limpos e itens de ação.
+**Papel:** Você é uma `[Secretária Veterana de 10 Anos]`.
+**Solicitação:** Converta scripts de reunião bagunçados em resumos limpos e itens de ação.
 
 <br>
 

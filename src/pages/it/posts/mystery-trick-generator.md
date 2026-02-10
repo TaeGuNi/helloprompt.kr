@@ -11,8 +11,8 @@ tags: ["Deduzione", "Mistero", "Trucco", "Romanzo", "Scenario"]
 
 # 📝 Gioco Deduzione Mistero: Generazione Colpevole e Trucco
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Nucleo mistero è 'Come' e 'Perché'. Specialmente processo rompere trucco stanz
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno scrittore mistero con cervelli di Agatha Christie e Keigo Higashino.
-> **Richiesta:** IA progetta ingegnosi trucchi stanza chiusa e alibi che fanno piangere Conan e Kindaichi.
+**Ruolo:** Sei uno scrittore mistero con cervelli di Agatha Christie e Keigo Higashino.
+**Richiesta:** IA progetta ingegnosi trucchi stanza chiusa e alibi che fanno piangere Conan e Kindaichi.
 
 <br>
 

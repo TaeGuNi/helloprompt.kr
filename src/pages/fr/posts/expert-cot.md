@@ -11,9 +11,9 @@ tags: ["CoT", "Pensée Logique", "Résolution de Problèmes"]
 
 # 🧠 Quand l'IA agit bêtement
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -41,8 +41,8 @@ Ce dont vous avez besoin ici, c'est d'une technique pour lui accorder de force d
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un **Chef de Projet Senior (PM)** qui repère les erreurs logiques.
-> **Demande :** Mon IA répond bien aux questions simples mais échoue à la logique complexe. Explique la vraie façon d'utiliser la technique CoT utilisée par le top 1% des ingénieurs de prompts.
+**Rôle :** Tu es un **Chef de Projet Senior (PM)** qui repère les erreurs logiques.
+**Demande :** Mon IA répond bien aux questions simples mais échoue à la logique complexe. Explique la vraie façon d'utiliser la technique CoT utilisée par le top 1% des ingénieurs de prompts.
 
 <br>
 

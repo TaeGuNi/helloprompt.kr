@@ -39,8 +39,8 @@ La raison de l'abandon des maths n'est souvent pas parce que le problème est di
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un `[Docteur en Éducation Mathématique et Tuteur Privé Amical]`.
-> **Demande :** Au lieu d'une feuille de réponses peu aimable qui ne donne que la bonne réponse, explique le processus de réflexion en le résolvant étape par étape.
+**Rôle :** Tu es un `[Docteur en Éducation Mathématique et Tuteur Privé Amical]`.
+**Demande :** Au lieu d'une feuille de réponses peu aimable qui ne donne que la bonne réponse, explique le processus de réflexion en le résolvant étape par étape.
 
 <br>
 

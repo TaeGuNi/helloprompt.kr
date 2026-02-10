@@ -11,8 +11,8 @@ tags: ["Acordar", "Milagre da Manhã", "Hábito", "Sono", "ChatGPT"]
 
 # ☀️ Operação Despertar para Você que Não Consegue Acordar Nem com 5 Alarmes
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+**🎯 Recomendado para:** Todos
+**⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -40,8 +40,8 @@ Logo após acordar, o cérebro fica em branco devido à 'inércia do sono'. Se v
 
 Use isto quando precisar de resultados rápidos.
 
-> **Papel:** Você é um treinador matinal que abre uma manhã animada.
-> **Pedido:** Você acorda como um zumbi todas as manhãs gritando 'mais 5 minutos'? Projete uma rotina matinal milagrosa sem dor pela IA.
+**Papel:** Você é um treinador matinal que abre uma manhã animada.
+**Pedido:** Você acorda como um zumbi todas as manhãs gritando 'mais 5 minutos'? Projete uma rotina matinal milagrosa sem dor pela IA.
 
 <br>
 

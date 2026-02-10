@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantascienza", "Colore"]
 
 # 📝 Notte Futura: Neon Cyberpunk
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Lo stile **Cyberpunk** è diventato un linguaggio visivo oltre un semplice gener
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un esperto.
-> **Richiesta:** Crea un prompt di illuminazione al neon stile cyberpunk con contrasto intenso di rosa e blu.
+**Ruolo:** Sei un esperto.
+**Richiesta:** Crea un prompt di illuminazione al neon stile cyberpunk con contrasto intenso di rosa e blu.
 
 <br>
 
@@ -73,13 +73,13 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 
 `Future city night, motorcycle.`
 
-> (Risultato: Solo una città futura buia, priva di sensazione hip unica)
+(Risultato: Solo una città futura buia, priva di sensazione hip unica)
 
 ### ✅ Dopo (Risultato)
 
 Prompt `Cyberpunk neon` applicato
 
-> (Risultato: Opera d'arte sensuale tinta di luce fluorescente ovunque, con neon che si riflette brillantemente sul pavimento bagnato)
+(Risultato: Opera d'arte sensuale tinta di luce fluorescente ovunque, con neon che si riflette brillantemente sul pavimento bagnato)
 
 ---
 

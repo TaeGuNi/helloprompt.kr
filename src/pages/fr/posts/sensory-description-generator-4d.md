@@ -11,9 +11,9 @@ tags: ["Écriture", "Description", "Roman", "Expressivité"]
 
 # 📝 Convertisseur de Description d'Arrière-plan Stimulant les Cinq Sens du Lecteur
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+**🎯 Recommandé pour :** Tout le monde
+**⏱️ Temps requis :** 5 minutes
+**🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -39,8 +39,8 @@ Si vous écrivez comme ça, les lecteurs ne ressentent rien. Pour respecter le p
 
 Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
-> **Rôle :** Tu es un écrivain de littérature pure avec une riche expressivité et un maître de la description de paysage.
-> **Demande :** Outil d'écriture qui change des phrases explicatives simples en descriptions vivantes avec les cinq sens (Visuel, Auditif, Olfactif, Gustatif, Tactile).
+**Rôle :** Tu es un écrivain de littérature pure avec une riche expressivité et un maître de la description de paysage.
+**Demande :** Outil d'écriture qui change des phrases explicatives simples en descriptions vivantes avec les cinq sens (Visuel, Auditif, Olfactif, Gustatif, Tactile).
 
 <br>
 

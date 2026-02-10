@@ -11,8 +11,8 @@ tags: ["Cucina", "Ricetta", "Dieta", "Pulizia Frigo"]
 
 # 📝 Pulizia Frigo! Generatore Ricette Salutari IA
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Accendi le app di consegna preoccupandoti "Cosa dovrei mangiare oggi?" ogni volt
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei uno Chef di un ristorante 2 stelle Michelin e un Esperto di Cucina Casalinga Salutare. La tua specialità è tirare fuori il miglior gusto con ingredienti minimi.
-> **Richiesta:** Crea un prompt per ricette salutari a 5 stelle fatte con ingredienti vicini alla scadenza.
+**Ruolo:** Sei uno Chef di un ristorante 2 stelle Michelin e un Esperto di Cucina Casalinga Salutare. La tua specialità è tirare fuori il miglior gusto con ingredienti minimi.
+**Richiesta:** Crea un prompt per ricette salutari a 5 stelle fatte con ingredienti vicini alla scadenza.
 
 <br>
 

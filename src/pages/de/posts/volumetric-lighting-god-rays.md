@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Beleuchtung", "Atmosphäre"]
 
 # 📝 Mysteriöse Lichtstrahlen: Volumetric Lighting
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ Das Phänomen, bei dem Licht an Feuchtigkeit oder Staub in der Luft streut und L
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Implementieren Sie mysteriöse Lichtstrahlen, die sogar auf Staub in der Luft scheinen, God Rays, mit Prompts.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Implementieren Sie mysteriöse Lichtstrahlen, die sogar auf Staub in der Luft scheinen, God Rays, mit Prompts.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Library with windows, sunlight.`
 
-> (Ergebnis: Nur eine helle Bibliothek, Lichtstrahlen sind nicht sichtbar)
+(Ergebnis: Nur eine helle Bibliothek, Lichtstrahlen sind nicht sichtbar)
 
 ### ✅ Nachher (Ergebnis)
 
 `Volumetric lighting` Prompt angewendet
 
-> (Ergebnis: Deutliche Lichtsäulen, die aus Fenstern strömen, mysteriöse Atmosphäre, die die Textur der Luft spürt)
+(Ergebnis: Deutliche Lichtsäulen, die aus Fenstern strömen, mysteriöse Atmosphäre, die die Textur der Luft spürt)
 
 ---
 

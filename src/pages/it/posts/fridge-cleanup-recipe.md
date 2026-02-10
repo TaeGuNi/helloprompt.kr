@@ -11,8 +11,8 @@ tags: ["Cucina", "Ricetta", "Consigli di Vita"]
 
 # 📝 Pulizia Frigo, Rinato con la Ricetta di uno Chef
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Ingredienti che sono troppo buoni per essere buttati ma non vengono idee per cuc
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Ricercatore Culinario Creativo]`.
-> **Richiesta:** Crea un prompt per una vita frugale che suggerisca ricette di cucina plausibili quando inserisco ingredienti avanzati vicini alla data di scadenza.
+**Ruolo:** Sei un `[Ricercatore Culinario Creativo]`.
+**Richiesta:** Crea un prompt per una vita frugale che suggerisca ricette di cucina plausibili quando inserisco ingredienti avanzati vicini alla data di scadenza.
 
 <br>
 

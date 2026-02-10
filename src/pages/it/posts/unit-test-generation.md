@@ -11,8 +11,8 @@ tags: ["Codice di Test", "TDD", "Jest", "JUnit"]
 
 # 📝 Troppo pigro per scrivere codice di test? L'IA lo farà per te
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+**🎯 Consigliato per:** Tutti
+**⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -40,8 +40,8 @@ Il Test Unitario è essenziale per servizi stabili, ma scriverli è laborioso e 
 
 Usala quando hai solo bisogno di un risultato rapido.
 
-> **Ruolo:** Sei un `[Responsabile Ingegneria QA]`.
-> **Richiesta:** Crea un prompt che generi automaticamente codici di Test Unitari ingombranti considerando anche i casi limite.
+**Ruolo:** Sei un `[Responsabile Ingegneria QA]`.
+**Richiesta:** Crea un prompt che generi automaticamente codici di Test Unitari ingombranti considerando anche i casi limite.
 
 <br>
 

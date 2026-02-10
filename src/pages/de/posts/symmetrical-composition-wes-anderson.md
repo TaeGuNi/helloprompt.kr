@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Kunststil"]
 
 # 📝 Zwanghafte Symmetrie: Symmetrical Composition
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+**🎯 Empfohlen für:** Jeden
+**⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 
@@ -40,8 +40,8 @@ _"Ich möchte Symmetrie, die perfekt fällt, fast zwanghaft, wie in einem Wes An
 
 Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 
-> **Rolle:** Du bist ein Experte.
-> **Anfrage:** Erstellen Sie einen stabilen und skurrilen Kompositions-Prompt, bei dem links und rechts perfekt symmetrisch sind, wie in einem Wes Anderson-Film.
+**Rolle:** Du bist ein Experte.
+**Anfrage:** Erstellen Sie einen stabilen und skurrilen Kompositions-Prompt, bei dem links und rechts perfekt symmetrisch sind, wie in einem Wes Anderson-Film.
 
 <br>
 
@@ -73,13 +73,13 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 
 `Hotel lobby pink.`
 
-> (Ergebnis: Allgemeines Hotellobby-Foto, Kompositionen sind überall)
+(Ergebnis: Allgemeines Hotellobby-Foto, Kompositionen sind überall)
 
 ### ✅ Nachher (Ergebnis)
 
 `Symmetrical composition` Prompt angewendet
 
-> (Ergebnis: Kunstwerk von perfekter Symmetrie, als ob ein Spiegel angewendet wurde, mit der gleichen Anzahl von Blumentöpfen links und rechts)
+(Ergebnis: Kunstwerk von perfekter Symmetrie, als ob ein Spiegel angewendet wurde, mit der gleichen Anzahl von Blumentöpfen links und rechts)
 
 ---
 

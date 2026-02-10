@@ -1,4 +1,5 @@
 ---
+import type { Page } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import { LANGUAGES } from "../../i18n/languages";
 import { formatDate } from "../../utils/dateUtils";
@@ -9,6 +10,10 @@ interface GetStaticPathsOptions {
     data: Post[],
     options: { params: { lang: string }; pageSize: number },
   ) => unknown[];
+}
+
+interface Props {
+  page: Page<Post>;
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
@@ -40,7 +45,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   });
 }
 
-const { page } = Astro.props;
+const { page } = Astro.props as Props;
 const { lang } = Astro.params;
 
 // 다국어 슬로건
@@ -335,7 +340,6 @@ const frontmatter = {
     // 외부 클릭 시 닫기 (UX 개선)
     document.addEventListener("click", (event: MouseEvent) => {
       const target = event.target as HTMLElement;
-      // @ts-expect-error: closest is valid
       const isClickInside = target.closest(".search-container");
 
       if (!isClickInside && searchResults) {

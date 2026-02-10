@@ -11,8 +11,8 @@ tags: ["Física", "Ingeniería", "ResoluciónProblemas", "Prompt"]
 
 # 📝 Traductor de Problemas de Física: Del Juicio de Situación al Planteamiento de Ecuaciones
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

@@ -68,11 +68,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 4. **Response:** Antwortstruktur und Beispiel-JSON für Erfolg (200) und Fehler (400, 500 usw.)
 >
 > **Code:**
->
-> ```
+
 > [Controller-/Router-Code hier einfügen]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Geben Sie Datentypen (String, Integer usw.) klar an.

@@ -67,11 +67,9 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > 5. **Sintaxis Moderna:** Aplica la última sintaxis moderna del lenguaje.
 >
 > **Código:**
->
-> ```
+
 > [Pega el código a refactorizar aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - Nunca cambies la lógica de negocio (comportamiento) del código existente.

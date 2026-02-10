@@ -11,8 +11,8 @@ tags: ["ConfiguraciónPersonaje", "EscribirNovela", "Villano", "Entrevista"]
 
 # 📝 Creando Villano 3D: Entrevista en Profundidad de 3 Pasos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

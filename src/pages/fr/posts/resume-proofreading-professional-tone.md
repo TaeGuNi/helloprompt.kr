@@ -17,9 +17,9 @@ tags:
 
 # 📝 Correction de Ton de CV : Comment Se Débarrasser de l''Amateur' et Paraître 'Pro'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

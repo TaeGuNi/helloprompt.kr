@@ -11,8 +11,8 @@ tags: ["Nomeação", "Código Limpo", "Nome de Variável", "Estudo de Inglês"]
 
 # 📝 Problema de Toda a Vida do Desenvolvedor "Nomear Variáveis", IA Faz Isso Por Você
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

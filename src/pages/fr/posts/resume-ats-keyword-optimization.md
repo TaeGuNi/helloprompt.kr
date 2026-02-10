@@ -11,9 +11,9 @@ tags: ["ATS", "OptimisationCV", "MotClé", "SystèmeRecrutement"]
 
 # 📝 Prévenir l'Échec ATS (Solution de Recrutement) ! Prompt d'Optimisation de Mots-clés de CV
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

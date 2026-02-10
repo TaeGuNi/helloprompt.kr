@@ -11,8 +11,8 @@ tags: ["Dieta", "Gestión de Dieta", "Fitness", "Salud"]
 
 # 📝 Creando un Plan de Dieta Personalizado con IA Sin un Profesor de EP
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

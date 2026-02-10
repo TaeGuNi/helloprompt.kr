@@ -11,8 +11,8 @@ tags: ["Excel", "InteressePrestito", "FunzioneFinanziaria", "PMT"]
 
 # 📝 Programma Rimborso Prestito: Capitale e Interessi Uguali vs Capitale Uguale
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

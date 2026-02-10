@@ -67,11 +67,9 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > 4.  **Refactorización:** Muestra fragmentos de código mejorados basados en los contenidos señalados.
 >
 > **Código:**
->
-> ```
+
 > [Pega el código a revisar aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - Mantén el tono cortés pero firme (Profesional pero firme).

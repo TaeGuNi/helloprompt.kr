@@ -11,8 +11,8 @@ tags: ["Passeio a Pé", "Autoguia", "Caminhada Histórica", "Viagem a Pé"]
 
 # 📝 Criando Meu Próprio Passeio a Pé Histórico para Aproveitar Sem Guia
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

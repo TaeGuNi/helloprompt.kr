@@ -900,11 +900,32 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         }
 
         // --- 2. Interactive Prompt Logic (Inputs & Buttons) ---
-        const wrappers = document.querySelectorAll(
-          ".quote-wrapper, .code-wrapper",
-        );
+        const wrappers = document.querySelectorAll(".quote-wrapper"); // code-wrapper 제외 (결과물)
 
         wrappers.forEach((wrapper) => {
+          // 필터링 로직: Basic Version 또는 Pro Version 섹션 아래에 있는 경우만 처리
+          let currentNode = wrapper.previousElementSibling;
+          let isTargetSection = false;
+
+          // 역방향 탐색으로 가장 가까운 헤더 찾기
+          while (currentNode) {
+            if (
+              ["H1", "H2", "H3", "H4", "H5", "H6"].includes(currentNode.tagName)
+            ) {
+              const headerText = currentNode.textContent.toLowerCase();
+              if (
+                headerText.includes("basic version") ||
+                headerText.includes("pro version")
+              ) {
+                isTargetSection = true;
+              }
+              break; // 가장 가까운 헤더를 찾았으면 중단
+            }
+            currentNode = currentNode.previousElementSibling;
+          }
+
+          if (!isTargetSection) return; // 타겟 섹션이 아니면 스킵
+
           // A. Convert [placeholders] to Input Fields (Only for Prompts)
           if (wrapper.classList.contains("quote-wrapper")) {
             const blockquote = wrapper.querySelector("blockquote");

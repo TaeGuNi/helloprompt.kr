@@ -11,8 +11,8 @@ tags: ["Inversión", "AsignaciónActivos", "Reequilibrio", "Cartera"]
 
 # 📝 Reequilibrio de Cartera con IA: Encontrando la Proporción Dorada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

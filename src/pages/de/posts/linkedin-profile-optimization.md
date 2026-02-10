@@ -11,8 +11,8 @@ tags: ["LinkedIn", "Profiloptimierung", "Headhunting", "Personal Branding"]
 
 # 📝 LinkedIn-Profiloptimierungs-Prompt: Headhunter Schlange stehen lassen
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

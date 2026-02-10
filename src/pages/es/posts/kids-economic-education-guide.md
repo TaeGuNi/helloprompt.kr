@@ -11,8 +11,8 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 # 📝 Prompt de Educación Económica para Niños que Lloriquean '¡Cómprame esto!'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

@@ -11,8 +11,8 @@ tags: ["PianoStudio", "CurvaDellOblio", "Revisione", "Pianificazione"]
 
 # 📝 Guida Inversa della Curva dell'Oblio: Generatore di Programma di Revisione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

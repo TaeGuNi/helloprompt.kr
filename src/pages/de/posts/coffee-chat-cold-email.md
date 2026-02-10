@@ -11,8 +11,8 @@ tags: ["Kaffee-Chat", "Kaltakquise-E-Mail", "Networking", "Mentoring"]
 
 # 📝 'Kaffee-Chat'-Anfrage Kaltakquise-E-Mail-Prompt ohne Ablehnung
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

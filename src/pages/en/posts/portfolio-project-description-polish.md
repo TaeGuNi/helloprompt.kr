@@ -11,7 +11,7 @@ tags: ["Portfolio", "ProjectDescription", "CareerDescription", "Storytelling"]
 
 # 📝 Prompt Making Ordinary Project Experience into 'Attractive Portfolio'
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

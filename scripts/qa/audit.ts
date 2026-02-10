@@ -112,6 +112,11 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
       }
 
       if (line.startsWith(">")) {
+        // Exception: Hook sentences (Italicized) are allowed anywhere
+        if (line.match(/^>\s*[_*]/)) {
+          continue;
+        }
+
         const isAllowedSection =
           currentHeader.includes("basic") ||
           currentHeader.includes("pro") ||

@@ -65,11 +65,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. **Fußzeile:** (Optional) Wenn es eine Issue-Nummer gibt, füge sie im `Closes #123`-Format hinzu.
 >
 > **Änderungen (git diff oder Zusammenfassung):**
->
-> ```
+
 > [Schreiben Sie das `git diff`-Ergebnis oder Änderungen einfach hier]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Typ-Arten: Wähle einen aus `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.

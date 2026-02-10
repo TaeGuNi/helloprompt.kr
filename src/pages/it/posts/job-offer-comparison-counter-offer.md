@@ -17,8 +17,8 @@ tags:
 
 # 📝 Prompt per Confronto Offerte di Lavoro e Strategia di Controfferta
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

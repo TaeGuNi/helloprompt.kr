@@ -11,8 +11,8 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 # 📝 Selbstwertgefühl-Boost! 'Superhelden'-Märchen, in dem mein Kind der Protagonist ist
 
-> **🎯 Zielgruppe:** Alle
-> **⏱️ Benötigte Zeit:** 5 Minuten
+- **🎯 Zielgruppe:** Alle
+- **⏱️ Benötigte Zeit:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

@@ -11,8 +11,8 @@ tags: ["AutoIntro1Min", "PrepColloquio", "ElevatorPitch", "AutoPresentazione"]
 
 # 📝 Primo Bottone del Colloquio, Prompt Scrittura 'Auto-Presentazione 1 Minuto' Attraente
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

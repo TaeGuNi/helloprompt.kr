@@ -11,7 +11,7 @@ tags: ["Resume", "Summary", "ProfileSummary", "SelfIntro"]
 
 # 📝 First Impression of Resume, 'Summary' Writing Prompt
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

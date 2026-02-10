@@ -11,8 +11,8 @@ tags: ["Portfólio", "DescriçãoProjeto", "DescriçãoCarreira", "Narrativa"]
 
 # 📝 Prompt Transformando Experiência de Projeto Comum em 'Portfólio Atraente'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

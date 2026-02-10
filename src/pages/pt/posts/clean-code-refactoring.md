@@ -68,10 +68,8 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 > - Adicione comentários apenas onde absolutamente necessário. (Exclua comentários se explicado pelo código)
 >
 > **Código Alvo:**
->
-> ```python
+
 > [Cole código sujo(?) aqui]
-> ```
 
 ---
 

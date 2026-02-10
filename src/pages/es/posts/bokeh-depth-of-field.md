@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografía", "Efecto"]
 
 # 📝 Magia de Orbes de Luz: Bokeh & Profundidad de Campo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

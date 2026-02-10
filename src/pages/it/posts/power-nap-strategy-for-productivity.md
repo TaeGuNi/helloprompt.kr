@@ -11,8 +11,8 @@ tags: ["Pisolino", "Produttività", "Sonno", "Coffee Nap", "ChatGPT"]
 
 # ⚡ Più Forte del Caffè! Strategia 'Power Nap' per Raddoppiare la Produttività Pomeridiana
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

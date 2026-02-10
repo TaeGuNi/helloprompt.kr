@@ -11,9 +11,9 @@ tags: ["RéglagePersonnage", "ÉcritureRoman", "Méchant", "Entrevue"]
 
 # 📝 Créer un Méchant en 3D : Entrevue Approfondie en 3 Étapes
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

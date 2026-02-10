@@ -11,9 +11,9 @@ tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux
 
 # 📝 Prompt d'Éducation Économique pour les Enfants qui Pleurnichent 'Achète-moi ça !'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

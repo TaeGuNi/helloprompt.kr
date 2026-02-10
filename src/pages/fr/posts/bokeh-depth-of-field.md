@@ -11,9 +11,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photographie", "Effet"]
 
 # 📝 Magie des Orbes de Lumière : Bokeh & Profondeur de Champ
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

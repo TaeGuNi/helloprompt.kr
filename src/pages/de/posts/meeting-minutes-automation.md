@@ -11,8 +11,8 @@ tags: ["Protokoll", "Whisper", "ChatGPT", "Automatisierung", "Produktivität"]
 
 # 📝 Entkomme der Meeting-Hölle: Aufnahme zu Protokoll + E-Mail in 3 Min
 
-> **🎯 Empfohlen für:** Junioren, denen vom Tippen die Handgelenke schmerzen, Manager, die fragen "Was haben wir entschieden?"
-> **⏱️ Benötigte Zeit:** 3 Min (ohne Aufnahmezeit)
+- **🎯 Empfohlen für:** Junioren, denen vom Tippen die Handgelenke schmerzen, Manager, die fragen "Was haben wir entschieden?"
+- **⏱️ Benötigte Zeit:** 3 Min (ohne Aufnahmezeit)
 
 - **🤖 Empfohlenes Modell:** OpenAI Whisper (Transkription) + ChatGPT-4o (Zusammenfassung)
 

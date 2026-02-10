@@ -11,9 +11,9 @@ tags: ["Nommage", "Clean Code", "Nom de Variable", "Étude de l'Anglais"]
 
 # 📝 Problème de Toute une Vie du Développeur "Nommer les Variables", l'IA le Fait Pour Vous
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

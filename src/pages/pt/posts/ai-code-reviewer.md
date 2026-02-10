@@ -67,11 +67,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 4.  **Refatoração:** Mostre trechos de código melhorados com base nos conteúdos apontados.
 >
 > **Código:**
->
-> ```
+
 > [Cole o código a ser revisado aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Mantenha o tom educado, mas firme (Profissional, mas firme).

@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Planejamento Automático de Cronogramas de Projetos (WBS)
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

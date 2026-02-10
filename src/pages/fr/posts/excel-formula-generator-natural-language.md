@@ -11,9 +11,9 @@ tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 
 # 📝 Formules Excel Complexes, Prompt Qui Les Écrit Quand Expliquées avec des Mots
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

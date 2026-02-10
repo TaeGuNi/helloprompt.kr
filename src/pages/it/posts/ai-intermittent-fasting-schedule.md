@@ -11,8 +11,8 @@ tags: ["Digiuno Intermittente", "Dieta", "Salute", "ChatGPT", "Routine"]
 
 # ⏰ Programma di Digiuno Intermittente IA: Aumentare il Tasso di Successo del 200%
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

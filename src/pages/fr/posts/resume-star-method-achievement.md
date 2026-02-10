@@ -11,9 +11,9 @@ tags: ["CV", "MéthodeSTAR", "PrépEmploi", "QuantifierRéalisation"]
 
 # 📝 Prompt Technique STAR : Prouver les Réalisations du CV avec des 'Chiffres'
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

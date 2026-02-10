@@ -65,11 +65,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. **Vorsichtsmaßnahmen:** Warne, wenn es Teile gibt, bei denen man beim Ändern besonders vorsichtig sein muss (erwartete Punkte für Nebeneffekte).
 >
 > **Code:**
->
-> ```
+
 > [Fügen Sie den zu interpretierenden Code hier ein]
-> ```
->
+
 > **Einschränkungen:**
 >
 > - Ordne Entwicklungsbegriffe (Variablennamen usw.) und Geschäftsbegriffe zu, um zu erklären.

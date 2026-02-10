@@ -11,8 +11,8 @@ tags: ["StudioMatematica", "RisoluzioneProblemi", "Prompt", "Tutoraggio"]
 
 # 📝 Salvatore dell'Abbandono della Matematica: Spiegatore Amichevole di Problemi Matematici
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

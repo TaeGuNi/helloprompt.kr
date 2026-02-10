@@ -11,9 +11,9 @@ tags: ["Visite à Pied", "Autoguidage", "Promenade Historique", "Voyage à Pied"
 
 # 📝 Créer Ma Propre Visite à Pied Historique pour Profiter Sans Guide
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

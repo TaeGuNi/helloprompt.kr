@@ -17,8 +17,8 @@ tags:
 
 # 📝 Comparando Meu Currículo e JD: Prompt de Diagnóstico de 'Lacuna de Habilidade'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

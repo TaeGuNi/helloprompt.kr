@@ -11,8 +11,8 @@ tags: ["Investimento", "AlocaçãoAtivos", "Rebalanceamento", "Portfólio"]
 
 # 📝 Rebalanceamento de Portfólio IA: Encontrando a Proporção Áurea
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

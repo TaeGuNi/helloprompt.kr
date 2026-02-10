@@ -11,8 +11,8 @@ tags: ["Benennung", "Clean Code", "Variablenname", "Englisch lernen"]
 
 # 📝 Entwicklers lebenslanges Problem "Variablen benennen", KI erledigt das für Sie
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

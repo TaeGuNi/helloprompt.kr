@@ -17,8 +17,8 @@ tags:
 
 # 📝 Correzione Tono Curriculum: Come Perdere 'Amatoriale' e Sembrare 'Pro'
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

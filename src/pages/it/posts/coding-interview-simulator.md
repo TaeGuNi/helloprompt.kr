@@ -62,12 +62,11 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > 3. **[Domanda di Follow-up]**: Lancia 1 domanda avanzata come "E se i dati di input fossero 1 milione, come sarebbe questo codice?".
 
 - 4. **[Risposta Modello]**: Se c'è un modo più efficiente della mia soluzione, dai solo un suggerimento. (Non dare la risposta subito)
+
      > **Problema:** `[Scrivi il contenuto del problema semplicemente, es.: Trova la somma di due numeri]`
      > **Il Mio Codice:**
-     >
-     > ```python
+
      > [Incolla il codice scritto qui]
-     > ```
 
 ---
 

@@ -64,11 +64,9 @@ Kopieren Sie den **PROMPT**-Inhalt unten und fügen Sie ihn in ChatGPT oder Clau
 > 3. Gib nur das Ergebnis sauber aus, damit ich überprüfen kann, ob die Daten korrekt sind.
 >
 > **Quelldaten:**
->
-> ```
+
 > [Fügen Sie Originaldaten hier ein]
-> ```
->
+
 > **Konvertierungsregeln:**
 >
 > - Quellformat: `[z.B.: CSV]`

@@ -12,8 +12,8 @@ tags:
 
 # 📝 ¡Alto al Código Espagueti! Recomendación de Arquitectura Perfecta para Mi Proyecto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

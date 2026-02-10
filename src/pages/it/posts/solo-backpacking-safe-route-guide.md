@@ -12,8 +12,8 @@ tags:
 
 # 📝 Backpacking da Soli: Metodo di Progettazione di Percorsi Sicuri e Appaganti
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

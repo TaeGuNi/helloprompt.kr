@@ -11,7 +11,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 
 # 📝 Professional Studio: Studio Lighting
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

@@ -11,8 +11,8 @@ tags: ["Diario", "Llevar un Diario", "Cuidado Mental", "Automejora", "ChatGPT"]
 
 # 📝 Prompt de Diario con IA para Descubrir mi Mente que No Conocía
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

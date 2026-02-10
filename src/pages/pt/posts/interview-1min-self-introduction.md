@@ -11,8 +11,8 @@ tags: ["AutoIntro1Min", "PrepEntrevista", "ElevatorPitch", "Autoapresentação"]
 
 # 📝 Primeiro Botão de Entrevista, Prompt de Escrita de 'Autoapresentação de 1 Minuto' Atraente
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

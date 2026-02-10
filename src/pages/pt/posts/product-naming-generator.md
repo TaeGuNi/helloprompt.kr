@@ -11,8 +11,8 @@ tags: ["Marketing", "Nomeação", "Branding", "Copywriting"]
 
 # 📝 Nomeando Produtos Que Vendem: Gerador de Nomes
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

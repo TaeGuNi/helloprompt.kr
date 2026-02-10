@@ -11,8 +11,8 @@ tags: ["Diario", "Journaling", "Cura Mentale", "Auto-miglioramento", "ChatGPT"]
 
 # 📝 Prompt di Journaling IA per Scoprire la Mia Mente che Non Conoscevo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

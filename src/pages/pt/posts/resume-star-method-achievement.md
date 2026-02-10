@@ -11,8 +11,8 @@ tags: ["Currículo", "MétodoSTAR", "PrepEmprego", "QuantificarRealização"]
 
 # 📝 Prompt de Técnica STAR: Provando Realizações de Currículo com 'Números'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

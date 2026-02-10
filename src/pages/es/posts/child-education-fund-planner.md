@@ -11,8 +11,8 @@ tags: ["CostoEducación", "Matrícula", "Ahorros", "PlanInfantil"]
 
 # 📝 Plan de Fondo de Educación Infantil: Proyecto a Largo Plazo de 10 Años
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

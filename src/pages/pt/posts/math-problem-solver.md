@@ -11,8 +11,8 @@ tags: ["EstudoMatemática", "ResoluçãoProblemas", "Prompt", "Tutoria"]
 
 # 📝 Salvador da Desistência em Matemática: Explicador Amigável de Problemas Matemáticos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

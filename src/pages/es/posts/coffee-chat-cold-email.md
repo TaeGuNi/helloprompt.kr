@@ -11,8 +11,8 @@ tags: ["Charla de Café", "Correo Frío", "Networking", "Mentoría"]
 
 # 📝 Prompt de Solicitud de 'Charla de Café' por Correo Frío sin Rechazo
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

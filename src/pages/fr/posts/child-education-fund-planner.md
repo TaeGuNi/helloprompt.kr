@@ -12,9 +12,9 @@ tags:
 
 # 📝 Plan de Fonds pour l'Éducation des Enfants : Projet à Long Terme sur 10 Ans
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+- **🎯 Public Cible :** Tout le monde
+- **⏱️ Temps Requis :** 5 minutes
+- **🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

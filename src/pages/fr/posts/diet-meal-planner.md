@@ -11,9 +11,9 @@ tags: ["Régime", "Gestion de l'Alimentation", "Fitness", "Santé"]
 
 # 📝 Créer un Plan de Repas Diététique Personnalisé par IA Sans Professeur de Sport
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

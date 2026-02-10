@@ -64,17 +64,13 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 3. Spiega perché si è verificato questo problema in modo che anche un principiante possa capire.
 >
 > **Log Errore:**
->
-> ```
+
 > [Incolla qui il messaggio di errore o lo stack trace]
-> ```
->
+
 > **Snippet di Codice:**
->
-> ```
+
 > [Incolla qui il codice sospetto]
-> ```
->
+
 > **Vincoli:**
 >
 > - Non dire solo "L'ho aggiustato", spiega logicamente "Perché si è rotto".

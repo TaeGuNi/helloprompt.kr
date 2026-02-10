@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Pianificazione Automatica dei Programmi di Progetto (WBS)
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

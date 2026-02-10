@@ -68,9 +68,8 @@ Copy the **PROMPT** content below and use it.
 > - Add comments only where absolutely necessary. (Delete comments if explained by code)
 
 - **Target Code:**
-  > ```python
+
   > [Paste dirty(?) code here]
-  > ```
 
 ---
 

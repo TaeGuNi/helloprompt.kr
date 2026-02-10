@@ -11,8 +11,8 @@ tags: ["Debugging", "RisoluzioneErrori", "Sviluppatore", "Produttività"]
 
 # 📝 Cacciatore di Bug: Prompt di Debugging per Catturare Errori in 1 Minuto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 
@@ -62,16 +62,12 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > 3. **[Prevenzione]**: Dimmi quali abitudini dovrei avere per non fare questo errore in futuro, o codice di 'gestione delle eccezioni' che sarebbe bene aggiungere.
 >
 > **Messaggio di Errore:**
->
-> ```text
+
 > [Incolla il log di errore qui]
-> ```
->
+
 > **Codice Scritto:**
->
-> ```text
+
 > [Incolla il codice problematico qui]
-> ```
 
 ---
 

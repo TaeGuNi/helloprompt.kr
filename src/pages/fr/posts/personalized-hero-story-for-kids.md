@@ -12,9 +12,9 @@ tags:
 
 # 📝 Boost d'Estime de Soi ! Conte de Fées de 'Super-Héros' Où Mon Enfant est le Protagoniste
 
-> **🎯 Public Cible :** Tout le monde
-> **⏱️ Temps Requis :** 5 minutes
-> **🤖 Modèle Recommandé :** Tous les modèles d'IA
+- **🎯 Public Cible :** Tout le monde
+- **⏱️ Temps Requis :** 5 minutes
+- **🤖 Modèle Recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

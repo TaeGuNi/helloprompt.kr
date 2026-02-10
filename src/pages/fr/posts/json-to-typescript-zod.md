@@ -63,11 +63,9 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > 3. Inclus le code pour inférer les types (`z.infer`) à partir du schéma Zod.
 >
 > **Données JSON :**
->
-> ```text
+
 > [Collez les données JSON ici]
-> ```
->
+
 > **Contraintes :**
 >
 > - Suppose que tous les champs sont requis par défaut, mais traite-les comme optionnels (`?`) uniquement si `null` est inclus.

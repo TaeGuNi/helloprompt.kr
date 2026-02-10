@@ -11,9 +11,9 @@ tags: ["Animaux", "Dressage Canin", "Chats", "Éducation Animale"]
 
 # 🐶 "Il n'y a pas de mauvais chiens, seulement de mauvais prompts"
 
-> **🎯 Idéal pour :** Nouveaux propriétaires, Ceux qui reçoivent des plaintes pour bruit, Budgets serrés
-> **⏱️ Temps gagné :** 15 min (observer) → 1 min (diagnostiquer)
-> **🤖 Modèle recommandé :** Claude 3.5 Sonnet, ChatGPT (GPT-4)
+- **🎯 Idéal pour :** Nouveaux propriétaires, Ceux qui reçoivent des plaintes pour bruit, Budgets serrés
+- **⏱️ Temps gagné :** 15 min (observer) → 1 min (diagnostiquer)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 
 | Difficulté | Efficacité | Polyvalence |
 | :--------: | :--------: | :---------: |

@@ -17,8 +17,8 @@ tags:
 
 # 📝 Triste Se Ti Ammali! Checklist Medicinali d'Emergenza e Kit di Pronto Soccorso per Viaggi all'Estero
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

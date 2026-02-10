@@ -11,8 +11,8 @@ tags: ["LinkedIn", "Optimización de Perfil", "Cazatalentos", "Marca Personal"]
 
 # 📝 Prompt de Optimización de Perfil de LinkedIn: Haciendo Cola a los Cazatalentos
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

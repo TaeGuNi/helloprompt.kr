@@ -11,8 +11,8 @@ tags: ["Depuração", "CorreçãoErros", "Desenvolvedor", "Produtividade"]
 
 # 📝 Caçador de Bugs: Prompt de Depuração para Pegar Erros em 1 Minuto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 
@@ -62,16 +62,12 @@ Copie o conteúdo do **PROMPT** abaixo e use-o.
 > 3. **[Prevenção]**: Diga-me quais hábitos devo ter para não cometer esse erro no futuro, ou código de 'tratamento de exceção' que seria bom adicionar.
 >
 > **Mensagem de Erro:**
->
-> ```text
+
 > [Cole o log de erro aqui]
-> ```
->
+
 > **Código Escrito:**
->
-> ```text
+
 > [Cole o código problemático aqui]
-> ```
 
 ---
 

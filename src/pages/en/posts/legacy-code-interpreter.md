@@ -65,11 +65,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 3. **Precautions:** Warn if there are parts to be especially careful about when modifying (Side Effect expected points).
 >
 > **Code:**
->
-> ```
+
 > [Paste code to interpret here]
-> ```
->
+
 > **Constraints:**
 >
 > - Map development terms (variable names etc.) and business terms to explain.

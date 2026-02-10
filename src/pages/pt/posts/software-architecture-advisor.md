@@ -11,8 +11,8 @@ tags: ["Arquitetura", "Design", "Padrão de Design", "Design de Sistema", "MSA"]
 
 # 📝 Pare com Código Espaguete! Recomendação de Arquitetura Perfeita para Meu Projeto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

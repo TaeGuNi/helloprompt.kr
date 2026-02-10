@@ -11,8 +11,8 @@ tags: ["Viagem", "Etiqueta", "Cultura", "Maneiras"]
 
 # 📝 Grande Problema se Você Cometer um Erro! Guia de Cultura e Etiqueta Específica do País com IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

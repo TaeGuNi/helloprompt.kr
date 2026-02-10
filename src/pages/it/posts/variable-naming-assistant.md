@@ -11,8 +11,8 @@ tags: ["Denominazione", "Clean Code", "Nome Variabile", "Studio Inglese"]
 
 # 📝 Problema di Una Vita dello Sviluppatore "Dare Nomi alle Variabili", l'IA lo Fa per Te
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

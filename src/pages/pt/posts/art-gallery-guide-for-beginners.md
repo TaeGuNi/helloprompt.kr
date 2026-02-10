@@ -11,8 +11,8 @@ tags: ["Museu de Arte", "Galeria", "Apreciação de Arte", "Encontrando Gosto"]
 
 # 📝 Guia de Visitação de Galeria de Arte/Galeria para Iniciantes Aproveitarem Elegantemente
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

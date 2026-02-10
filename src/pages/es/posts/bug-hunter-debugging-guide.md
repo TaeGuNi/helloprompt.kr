@@ -70,17 +70,13 @@ Copia el contenido del **PROMPT** a continuación y pégalo en ChatGPT o Claude.
 > 3. Explica por qué ocurrió este problema para que incluso un principiante pueda entender.
 >
 > **Registro de Error:**
->
-> ```
+
 > [Pega el mensaje de error o seguimiento de pila aquí]
-> ```
->
+
 > **Fragmento de Código:**
->
-> ```
+
 > [Pega el código sospechoso aquí]
-> ```
->
+
 > **Restricciones:**
 >
 > - No digas solo "Lo arreglé", explica lógicamente "Por qué se rompi".

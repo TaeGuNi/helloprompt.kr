@@ -63,10 +63,8 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 >
 > **Problème :** `[Écrivez le contenu du problème simplement, ex : Trouver la somme de deux nombres]`
 > **Mon Code :**
->
-> ```python
+
 > [Collez le code écrit ici]
-> ```
 
 ---
 

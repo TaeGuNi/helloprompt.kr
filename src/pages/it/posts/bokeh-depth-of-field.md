@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Effetto"]
 
 # 📝 Magia delle Sfere di Luce: Bokeh & Profondità di Campo
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

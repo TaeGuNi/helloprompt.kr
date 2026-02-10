@@ -67,10 +67,8 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 > - Ajoute des commentaires uniquement là où c'est absolument nécessaire. (Supprime les commentaires si expliqués par le code)
 >
 > **Code Cible :**
->
-> ```python
+
 > [Collez le code sale(?) ici]
-> ```
 
 ---
 

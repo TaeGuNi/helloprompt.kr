@@ -11,10 +11,10 @@ tags: ["Insomnia", "CBT-I", "Sleep Therapy", "Mental Care", "ChatGPT"]
 
 # 💊 Fixing Insomnia Without Medication: AI CBT-I Prompt
 
-> **🎯 Recommended for:** Everyone
+- **🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  - **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

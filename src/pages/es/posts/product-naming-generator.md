@@ -11,8 +11,8 @@ tags: ["Marketing", "Nombrar", "Marca", "Redacción Publicitaria"]
 
 # 📝 Nombrar Productos Que Venden: Generador de Nombres
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

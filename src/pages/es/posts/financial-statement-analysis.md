@@ -11,8 +11,8 @@ tags: ["Acciones", "EstadosFinancieros", "AnálisisFundamental", "Inversión"]
 
 # 📝 Prompt de Análisis Ultrarrápido de Estados Financieros
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

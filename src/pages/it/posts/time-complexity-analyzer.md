@@ -71,11 +71,9 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 3. Se c'è un metodo più efficiente (es., O(N^2) -> O(N log N)), spiegalo con il codice migliorato.
 >
 > **Codice:**
->
-> ```
+
 > [Incolla qui il codice da analizzare]
-> ```
->
+
 > **Vincoli:**
 >
 > - Analizza basandoti sul Caso Peggiore.

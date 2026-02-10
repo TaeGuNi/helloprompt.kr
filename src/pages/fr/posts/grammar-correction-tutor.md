@@ -11,9 +11,9 @@ tags: ["GrammaireAnglaise", "CorrectionÉcriture", "Prompt", "ÉcritureEmail"]
 
 # 📝 Pourquoi ma Grammaire est-elle Fausse ? Professeur de Correction 1:1
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |
@@ -67,10 +67,8 @@ Copiez le contenu du **PROMPT** ci-dessous et utilisez-le.
 > - Organise les notes de correction joliment en utilisant des puces.
 >
 > **Phrase que j'ai écrite :**
->
-> ```text
+
 > [Collez la phrase que vous voulez corriger ici]
-> ```
 
 ---
 

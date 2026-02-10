@@ -68,10 +68,8 @@ Kopieren Sie den **PROMPT**-Inhalt unten und verwenden Sie ihn.
 > - Organisiere Korrekturnotizen schön mit Aufzählungszeichen.
 >
 > **Satz, den ich geschrieben habe:**
->
-> ```text
+
 > [Füge den Satz, den du korrigiert haben möchtest, hier ein]
-> ```
 
 ---
 

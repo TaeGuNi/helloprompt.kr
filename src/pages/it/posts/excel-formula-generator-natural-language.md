@@ -11,8 +11,8 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 # 📝 Formule Excel Complesse, Prompt Che Le Scrive Quando Spiegate a Parole
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

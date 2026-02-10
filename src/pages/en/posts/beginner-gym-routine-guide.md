@@ -11,10 +11,10 @@ tags: ["Gym", "Weight Training", "Workout Routine", "ChatGPT", "Gym Beginner"]
 
 # 🏋️‍♀️ Beginner Gym Routine Guide to Look Like a Pro
 
-> **🎯 Recommended for:** Everyone
+- **🎯 Recommended for:** Everyone
 
 - **⏱️ Time required:** 5 minutes
-  > **🤖 Recommended model:** All AI models
+  - **🤖 Recommended model:** All AI models
 
 | Difficulty | Effectiveness |  Utility  |
 | :--------: | :-----------: | :-------: |

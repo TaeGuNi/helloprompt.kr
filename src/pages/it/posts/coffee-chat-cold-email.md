@@ -11,8 +11,8 @@ tags: ["Caffè", "Email Fredda", "Networking", "Mentoring"]
 
 # 📝 Prompt di Richiesta 'Caffè' via Email Fredda senza Rifiuto
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli di AI
 

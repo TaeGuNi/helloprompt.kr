@@ -11,8 +11,8 @@ tags: ["Diario", "Retrospezione", "Diario della Gratitudine", "Cura Mentale"]
 
 # 📝 5 Minuti Cura Mentale Quotidiana, Diario della Gratitudine IA e Prompt Retrospezione
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

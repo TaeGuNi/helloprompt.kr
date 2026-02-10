@@ -11,7 +11,7 @@ tags: ["SkillGapAnalysis", "ResumeDiagnosis", "CareerStrategy", "JDAnalysis"]
 
 # 📝 Comparing My Resume and JD: 'Skill Gap' Diagnosis Prompt
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

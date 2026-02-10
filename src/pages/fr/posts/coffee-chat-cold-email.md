@@ -11,9 +11,9 @@ tags: ["Café-Causerie", "E-mail Froid", "Réseautage", "Mentorat"]
 
 # 📝 Prompt de Demande de 'Café-Causerie' par E-mail Froid sans Rejet
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

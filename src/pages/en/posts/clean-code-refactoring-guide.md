@@ -67,11 +67,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 5. **Modern Syntax:** Apply the latest modern syntax of the language.
 >
 > **Code:**
->
-> ```
+
 > [Paste the code to refactor here]
-> ```
->
+
 > **Constraints:**
 >
 > - Never change the business logic (behavior) of the existing code.

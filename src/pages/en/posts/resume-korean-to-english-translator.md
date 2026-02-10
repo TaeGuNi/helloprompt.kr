@@ -18,7 +18,7 @@ tags:
 
 # 📝 Prompt Changing Korean Resume to Native-Level English Resume
 
-> **🎯 Recommended For:** Everyone
+- **🎯 Recommended For:** Everyone
 
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models

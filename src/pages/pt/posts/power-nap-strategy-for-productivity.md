@@ -11,8 +11,8 @@ tags: ["Cochilo", "Produtividade", "Sono", "Coffee Nap", "ChatGPT"]
 
 # ⚡ Mais Forte que Café! Estratégia 'Power Nap' para Dobrar a Produtividade da Tarde
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

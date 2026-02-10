@@ -11,8 +11,8 @@ tags: ["Nickerchen", "Produktivität", "Schlaf", "Coffee Nap", "ChatGPT"]
 
 # ⚡ Stärker als Kaffee! 'Power Nap'-Strategie zur Verdoppelung der Nachmittagsproduktivität
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

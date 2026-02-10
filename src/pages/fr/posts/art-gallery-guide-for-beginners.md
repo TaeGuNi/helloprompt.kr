@@ -11,9 +11,9 @@ tags: ["Musée d'Art", "Galerie", "Appréciation de l'Art", "Trouver son Goût"]
 
 # 📝 Guide de Visite de Galerie d'Art/Galerie pour Débutants pour Profiter Élégamment
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

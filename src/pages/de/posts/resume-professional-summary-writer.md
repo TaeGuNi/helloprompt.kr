@@ -17,8 +17,8 @@ tags:
 
 # 📝 Erster Eindruck des Lebenslaufs, 'Zusammenfassung' Schreib-Prompt
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

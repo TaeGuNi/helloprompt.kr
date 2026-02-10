@@ -64,11 +64,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 3. Inclua código para inferir tipos (`z.infer`) do esquema Zod.
 >
 > **Dados JSON:**
->
-> ```text
+
 > [Cole os dados JSON aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Assuma que todos os campos são obrigatórios por padrão, mas trate-os como opcionais (`?`) apenas se `null` estiver incluído.

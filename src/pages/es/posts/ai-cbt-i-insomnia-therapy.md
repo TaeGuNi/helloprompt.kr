@@ -11,8 +11,8 @@ tags: ["Insomnio", "TCC-I", "Terapia de Sueño", "Cuidado Mental", "ChatGPT"]
 
 # 💊 Curando el Insomnio Sin Medicación: Prompt de TCC-I con IA
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

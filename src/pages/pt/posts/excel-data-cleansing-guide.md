@@ -11,8 +11,8 @@ tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 
 # 📝 Pré-processando Dados Bagunçados do Excel de Forma Organizada
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tempo necessário:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tempo necessário:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos os modelos de IA
 

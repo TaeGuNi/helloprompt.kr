@@ -11,8 +11,8 @@ tags: ["Marketing", "Nominare", "Branding", "Copywriting"]
 
 # 📝 Nominare Prodotti Che Vendono: Generatore di Nomi
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

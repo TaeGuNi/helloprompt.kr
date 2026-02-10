@@ -68,11 +68,9 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 4. **Response:** Struttura di risposta e JSON di esempio per successo (200) e fallimento (400, 500, ecc.)
 >
 > **Codice:**
->
-> ```
+
 > [Incolla qui il codice controller/router]
-> ```
->
+
 > **Vincoli:**
 >
 > - Specifica chiaramente i tipi di dati (String, Integer, ecc.).

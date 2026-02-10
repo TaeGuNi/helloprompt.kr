@@ -64,11 +64,9 @@ Copia il contenuto del **PROMPT** qui sotto e incollalo in ChatGPT o Claude.
 > 3. Stampa solo il risultato in modo pulito in modo che io possa verificare se i dati sono corretti.
 >
 > **Dati Sorgente:**
->
-> ```
+
 > [Incolla i dati originali qui]
-> ```
->
+
 > **Regole Conversione:**
 >
 > - Formato Sorgente: `[es.: CSV]`

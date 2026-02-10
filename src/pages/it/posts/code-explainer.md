@@ -67,10 +67,8 @@ Copia il contenuto del **PROMPT** qui sotto e usalo.
 > - Indica chiaramente qual è il ruolo della variabile.
 >
 > **Codice di Input:**
->
-> ```python
+
 > [Incolla il codice qui]
-> ```
 
 ---
 

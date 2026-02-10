@@ -11,8 +11,8 @@ tags: ["PronunciaciónInglesa", "Sombreado", "Prompt", "Habla"]
 
 # 📝 Coaching de Pronunciación Nativa Aprendido por Texto
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

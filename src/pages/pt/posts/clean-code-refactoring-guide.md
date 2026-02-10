@@ -67,11 +67,9 @@ Copie o conteúdo do **PROMPT** abaixo e cole no ChatGPT ou Claude.
 > 5. **Sintaxe Moderna:** Aplique a sintaxe moderna mais recente da linguagem.
 >
 > **Código:**
->
-> ```
+
 > [Cole o código para refatorar aqui]
-> ```
->
+
 > **Restrições:**
 >
 > - Nunca mude a lógica de negócios (comportamento) do código existente.

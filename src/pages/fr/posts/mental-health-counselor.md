@@ -11,9 +11,9 @@ tags: ["Soins Mentaux", "Stress", "Conseil Psychologique", "Guérison"]
 
 # 📝 Mon Propre Conseiller Psychologique IA, Guide de Soins Mentaux pour le Soulagement du Stress
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

@@ -11,8 +11,8 @@ tags: ["ConversaciónEnInglés", "Jerga", "Modismo", "InglésDeDramaAmericano"]
 
 # 📝 Hablando Como un Protagonista de Drama: Máquina Expendedora de Modismos y Jerga
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

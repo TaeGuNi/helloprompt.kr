@@ -11,8 +11,8 @@ tags: ["CostoEducazione", "TassaScolastica", "Risparmi", "PianoFigli"]
 
 # 📝 Piano Fondo Educazione Figli: Progetto a Lungo Termine 10 Anni
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

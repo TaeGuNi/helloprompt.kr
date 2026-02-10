@@ -11,8 +11,8 @@ tags: ["Mascotas", "Adiestramiento Canino", "Gatos", "Crianza de Mascotas"]
 
 # 🐶 "No Hay Perros Malos, Solo Malos Prompts"
 
-> **🎯 Ideal para:** Nuevos dueños, Quienes reciben quejas por ruido, Presupuesto ajustado
-> **⏱️ Tiempo ahorrado:** 15 min (observar) → 1 min (diagnosticar)
+- **🎯 Ideal para:** Nuevos dueños, Quienes reciben quejas por ruido, Presupuesto ajustado
+- **⏱️ Tiempo ahorrado:** 15 min (observar) → 1 min (diagnosticar)
 
 - **🤖 Modelo recomendado:** Claude 3.5 Sonnet, ChatGPT (GPT-4)
 

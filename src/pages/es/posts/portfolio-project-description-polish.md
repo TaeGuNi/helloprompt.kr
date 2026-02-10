@@ -11,8 +11,8 @@ tags: ["Portafolio", "DescripciónProyecto", "DescripciónCarrera", "Narración"
 
 # 📝 Prompt Haciendo Experiencia de Proyecto Ordinaria en 'Portafolio Atractivo'
 
-> **🎯 Recomendado para:** Todos
-> **⏱️ Tiempo requerido:** 5 minutos
+- **🎯 Recomendado para:** Todos
+- **⏱️ Tiempo requerido:** 5 minutos
 
 - **🤖 Modelo recomendado:** Todos los modelos de IA
 

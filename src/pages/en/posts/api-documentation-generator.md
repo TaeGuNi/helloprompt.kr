@@ -68,11 +68,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT or Claude.
 > 4. **Response:** Response structure and example JSON for success (200) and failure (400, 500, etc.)
 >
 > **Code:**
->
-> ```
+
 > [Paste controller/router code here]
-> ```
->
+
 > **Constraints:**
 >
 > - Clearly specify data types (String, Integer, etc.).

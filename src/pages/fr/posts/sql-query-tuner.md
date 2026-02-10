@@ -66,11 +66,9 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > **DB Utilisée :** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
 >
 > **Requête Cible :**
->
-> ```sql
+
 > [Collez la requête lente ici]
-> ```
->
+
 > **Contraintes :**
 >
 > - Le jeu de données de résultat de la requête existante ne doit jamais changer.

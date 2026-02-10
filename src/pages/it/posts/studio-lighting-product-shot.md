@@ -11,8 +11,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Prodotto", "Illuminazione"]
 
 # 📝 Studio Professionale: Illuminazione da Studio
 
-> **🎯 Consigliato per:** Tutti
-> **⏱️ Tempo richiesto:** 5 minuti
+- **🎯 Consigliato per:** Tutti
+- **⏱️ Tempo richiesto:** 5 minuti
 
 - **🤖 Modello consigliato:** Tutti i modelli IA
 

@@ -11,9 +11,9 @@ tags: ["Planificateur", "Ordonnanceur", "Gestion du Temps", "Productivité"]
 
 # 📝 Projet Vie Divine ! Écriture de Planificateur Hebdomadaire IA
 
-> **🎯 Recommandé pour :** Tout le monde
-> **⏱️ Temps requis :** 5 minutes
-> **🤖 Modèle recommandé :** Tous les modèles d'IA
+- **🎯 Recommandé pour :** Tout le monde
+- **⏱️ Temps requis :** 5 minutes
+- **🤖 Modèle recommandé :** Tous les modèles d'IA
 
 | Difficulté | Efficacité |  Utilité  |
 | :--------: | :--------: | :-------: |

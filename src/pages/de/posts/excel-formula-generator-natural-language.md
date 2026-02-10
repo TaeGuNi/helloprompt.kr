@@ -11,8 +11,8 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 # 📝 Komplexe Excel-Formeln, Prompt, der sie schreibt, wenn sie in Worten erklärt werden
 
-> **🎯 Empfohlen für:** Jeden
-> **⏱️ Zeitaufwand:** 5 Minuten
+- **🎯 Empfohlen für:** Jeden
+- **⏱️ Zeitaufwand:** 5 Minuten
 
 - **🤖 Empfohlenes Modell:** Alle KI-Modelle
 

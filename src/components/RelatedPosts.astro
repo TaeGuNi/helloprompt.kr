@@ -84,18 +84,18 @@ const sectionTitle = TITLE_MAP[lang] || TITLE_MAP["en"];
 
 <script is:inline>
   document.addEventListener("DOMContentLoaded", () => {
-    // @ts-ignore
+    // @ts-expect-error -- External script
     const trackEvent = (action, params) => {
-      // @ts-ignore
+      // @ts-expect-error -- External script
       if (typeof window.gtag === "function") {
-        // @ts-ignore
+        // @ts-expect-error -- External script
         window.gtag("event", action, params);
       }
     };
 
     const relatedCards = document.querySelectorAll(".related-card");
     relatedCards.forEach((card) => {
-      card.addEventListener("click", (e) => {
+      card.addEventListener("click", () => {
         const titleElement = card.querySelector("h4");
         if (titleElement) {
           trackEvent("select_content", {

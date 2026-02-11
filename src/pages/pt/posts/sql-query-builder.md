@@ -109,13 +109,13 @@ users 테이블이랑 orders 테이블 합쳐서, 2024년에 가입한 유저 �
 ### ✅ After (결과 SQL)
 
 ```sql
-SELECT 
-    u.name, 
+SELECT
+    u.name,
     SUM(o.amount) AS total_amount
 FROM users u
 JOIN orders o ON u.id = o.user_id
-WHERE 
-    u.created_at >= '2024-01-01' 
+WHERE
+    u.created_at >= '2024-01-01'
     AND u.created_at < '2025-01-01'
 GROUP BY u.id, u.name
 HAVING SUM(o.amount) >= 100000;

@@ -120,7 +120,7 @@ function a(n) {
 function getFibonacci(n) {
   if (n < 0) throw new Error("입력값은 0 이상이어야 합니다.");
   if (n < 2) return n;
-  
+
   return getFibonacci(n - 1) + getFibonacci(n - 2);
 }
 ```

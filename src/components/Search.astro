@@ -203,8 +203,10 @@ const { variant = "hero" } = Astro.props;
     }
   }
 
+  // eslint-disable-next-line @typescript-eslint/no-unsafe-function-type
   function debounce(func: Function, delay: number) {
     let timeoutId: number;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     return (...args: any[]) => {
       clearTimeout(timeoutId);
       timeoutId = window.setTimeout(() => func(...args), delay);
@@ -268,11 +270,10 @@ const { variant = "hero" } = Astro.props;
     }
 
     const fragment = document.createDocumentFragment();
-    // @ts-ignore
     const trackEvent = (action, params) => {
-      // @ts-ignore
+      // @ts-expect-error -- External script
       if (typeof window.gtag === "function") {
-        // @ts-ignore
+        // @ts-expect-error -- External script
         window.gtag("event", action, params);
       }
     };

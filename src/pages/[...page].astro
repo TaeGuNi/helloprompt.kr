@@ -147,11 +147,11 @@ const frontmatter = {
 
   <script is:inline>
     document.addEventListener("DOMContentLoaded", () => {
-      // @ts-ignore
+      // @ts-expect-error -- External script
       const trackEvent = (action, params) => {
-        // @ts-ignore
+        // @ts-expect-error -- External script
         if (typeof window.gtag === "function") {
-          // @ts-ignore
+          // @ts-expect-error -- External script
           window.gtag("event", action, params);
         }
       };
@@ -161,7 +161,7 @@ const frontmatter = {
       popTags.forEach((tag) => {
         tag.addEventListener("click", (e) => {
           const target = e.target;
-          // @ts-ignore
+          // @ts-expect-error -- External script
           const tagName = target.innerText || target.textContent;
           trackEvent("click_tag", {
             tag_name: tagName,

@@ -52,11 +52,14 @@
     "workbox-window": "^7.4.0"
   },
   "lint-staged": {
-    "*.{js,ts,astro,json,cjs,mjs}": [
+    "*.{js,ts,astro,json,cjs,mjs,css,html,yaml,yml}": [
       "prettier --write"
     ],
     "*.{js,ts}": [
       "vitest related --run"
+    ],
+    "{README.md,docs/**/*.md}": [
+      "prettier --write"
     ],
     "src/pages/**/*.md": [
       "node scripts/fix-placeholders.js",

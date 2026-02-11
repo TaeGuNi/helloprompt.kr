@@ -30,12 +30,15 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 내 프로젝트를 위한 `README.md` 파일을 작성해 주세요.
 
 **프로젝트 정보:**
+
 - **이름:** [프로젝트 이름]
 - **한 줄 소개:** [간단한 설명]
 - **기술 스택:** [예: React, TypeScript, Vite]
 - **파일 구조:**
 ```
+
 [tree 명령어 결과 붙여넣기]
+
 ```
 
 **요청 사항:**

@@ -37,4 +37,4 @@ tags: ["Security", "Chrome", "Privacy", "Browser"]
 
 ## 🔗 참고 링크
 
-- [상세 분석 보고서](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
+- [상세 분석 보고서 (Google 검색)](https://www.google.com/search?q=Q+Continuum+Spying+Chrome+Extensions)

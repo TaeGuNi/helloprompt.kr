@@ -7,19 +7,15 @@ export async function getStaticPaths() {
     import.meta.glob("../posts/*.md", { eager: true }),
   ) as Post[];
 
-  // 2. 태그별 포스트 개수 계산 및 필터링 (Thin Content 방지: 3개 미만 태그 제외)
-  const tagCounts = allPosts.reduce(
-    (acc: Record<string, number>, post: Post) => {
-      const tags = post.frontmatter.tags || [];
-      tags.forEach((tag: string) => {
-        acc[tag] = (acc[tag] || 0) + 1;
-      });
-      return acc;
-    },
-    {},
-  );
-
-  const validTags = Object.keys(tagCounts).filter((tag) => tagCounts[tag] >= 3);
+  // 2. 모든 태그 수집 (Thin Content 필터링 제거)
+  const validTags = [
+    ...new Set(
+      allPosts
+        .map((post: Post) => post.frontmatter.tags)
+        .flat()
+        .filter(Boolean),
+    ),
+  ];
 
   return validTags.map((tag: string) => {
     const filteredPosts = allPosts

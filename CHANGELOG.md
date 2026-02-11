@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.3.0...v1.4.0) (2026-02-11)
+
+### Features
+
+- add advanced search and comprehensive GA4 analytics ([4b66489](https://github.com/TaeGuNi/helloprompt.kr/commit/4b66489fc49b65a634cad89853b20b92caceb9c4))
+- **content:** add 20+ new mega-trend articles (Batch 1-4) ([ecabe3b](https://github.com/TaeGuNi/helloprompt.kr/commit/ecabe3b657d2d3f3bd55543f0d8eb084b9fe5473))
+- **content:** add 60 new articles (Batch 5-10) - Total 100 Posts Milestone 🎉 ([974a87a](https://github.com/TaeGuNi/helloprompt.kr/commit/974a87aabb8b911a0b040c9ea40ac26f43eff034))
+- **content:** daily prompts (Quality: 700pts) ([ea702da](https://github.com/TaeGuNi/helloprompt.kr/commit/ea702da3f5c664c07b38717a404c43dd0362d0d5))
+- **content:** restore missing articles & release 100 posts ([9607744](https://github.com/TaeGuNi/helloprompt.kr/commit/9607744a4195a8b08bbce61ac4dc1700056f62d0))
+
+### Bug Fixes
+
+- remove tag count filter and add favicon to 404 ([92a9c60](https://github.com/TaeGuNi/helloprompt.kr/commit/92a9c602ff929947d600b5ad8cfd76fb1985ede4))
+
 ## [1.3.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.2.3...v1.3.0) (2026-02-10)
 
 ### Features

@@ -29,6 +29,7 @@ import BaseHtml from "../components/BaseHtml.astro";
 import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
+import Search from "../components/Search.astro";
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings["ko"];
@@ -730,6 +731,9 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
                 </span>
               </div>
 
+              {/* Search (Compact) */}
+              <Search variant="compact" />
+
               {/* Language Switcher (Article Page) */}
               <LanguageSwitcher />
             </div>
@@ -876,7 +880,71 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
     </div>
     <script is:inline>
       document.addEventListener("DOMContentLoaded", () => {
-        // --- 1. Bookmark Logic ---
+        // --- 0. Shared GA Helper ---
+        const trackEvent = (action, params) => {
+          if (typeof gtag === "function") {
+            gtag("event", action, params);
+          }
+        };
+
+        // --- 1. Link Copy & Share Logic ---
+        const copyLinkBtn = document.getElementById("copy-link-btn");
+        if (copyLinkBtn) {
+          copyLinkBtn.addEventListener("click", async () => {
+            try {
+              await navigator.clipboard.writeText(window.location.href);
+              alert("Link copied to clipboard!");
+              trackEvent("share", {
+                method: "link_copy",
+                content_type: "article",
+                item_id: document.title,
+              });
+            } catch (err) {
+              console.error("Failed to copy link:", err);
+            }
+          });
+        }
+
+        const twitterBtn = document.querySelector(".share-btn.twitter");
+        if (twitterBtn) {
+          twitterBtn.addEventListener("click", () => {
+            trackEvent("share", {
+              method: "twitter",
+              content_type: "article",
+              item_id: document.title,
+            });
+          });
+        }
+
+        // --- 2. TOC Tracking ---
+        const tocLinks = document.querySelectorAll(".toc-link");
+        tocLinks.forEach((link) => {
+          link.addEventListener("click", (e) => {
+            const target = e.target;
+            // @ts-ignore
+            const sectionName = target.innerText || target.textContent;
+            trackEvent("click_toc", {
+              section_heading: sectionName,
+              page_title: document.title,
+            });
+          });
+        });
+
+        // --- 3. Tag Tracking (Article) ---
+        const tagBadges = document.querySelectorAll(".tag-badge");
+        tagBadges.forEach((tag) => {
+          tag.addEventListener("click", (e) => {
+            const target = e.target;
+            // @ts-ignore
+            const tagName = target.innerText || target.textContent;
+            trackEvent("click_tag", {
+              tag_name: tagName,
+              location: "article_header",
+            });
+          });
+        });
+
+        // --- 4. Bookmark Logic ---
         const bookmarkBtn = document.getElementById("bookmark-btn");
         if (bookmarkBtn) {
           const currentPath = window.location.pathname;
@@ -904,6 +972,10 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               bookmarkBtn.classList.remove("active");
               bookmarkBtn.querySelector(".icon").textContent = "☆";
               alert("Bookmark removed.");
+              trackEvent("bookmark", {
+                action: "remove",
+                page_title: pageTitle,
+              });
             } else {
               currentBookmarks.push({
                 path: currentPath,
@@ -913,13 +985,33 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               bookmarkBtn.classList.add("active");
               bookmarkBtn.querySelector(".icon").textContent = "★";
               alert("Bookmark added!");
+              trackEvent("bookmark", {
+                action: "add",
+                page_title: pageTitle,
+              });
             }
             localStorage.setItem("bookmarks", JSON.stringify(currentBookmarks));
           });
         }
 
-        // --- 2. Interactive Prompt Logic (Inputs & Buttons) ---
+        // --- 5. Interactive Prompt Logic (Inputs & Buttons) ---
         const wrappers = document.querySelectorAll(".quote-wrapper"); // code-wrapper 제외 (결과물)
+
+        // [Analytics] Track Prompt Customization (Delegation)
+        document.body.addEventListener("change", (e) => {
+          const target = e.target;
+          if (
+            target &&
+            target.tagName === "INPUT" &&
+            target.classList.contains("prompt-input")
+          ) {
+            trackEvent("customize_prompt", {
+              page_title: document.title,
+              input_value: target.value,
+              original_text: target.getAttribute("data-original"),
+            });
+          }
+        });
 
         wrappers.forEach((wrapper) => {
           // 1. 가장 가까운 이전 헤더 찾기
@@ -1037,6 +1129,12 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
               btn.classList.add("copied");
 
+              // GA Event: Copy Prompt
+              trackEvent("copy_prompt", {
+                page_title: document.title,
+                prompt_text: content.slice(0, 100), // Track first 100 chars
+              });
+
               setTimeout(() => {
                 btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;
                 btn.classList.remove("copied");
@@ -1066,6 +1164,13 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
                   await navigator.clipboard.writeText(content);
                   btn.classList.add("copied");
                   btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
+
+                  // GA Event: Use AI Tool
+                  trackEvent("use_ai_tool", {
+                    tool_name: _name,
+                    page_title: document.title,
+                  });
+
                   setTimeout(() => btn.classList.remove("copied"), 2000);
                 } catch {}
               };

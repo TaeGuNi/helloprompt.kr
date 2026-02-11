@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import type { Post } from "../utils/postUtils";
 import { formatDate } from "../utils/dateUtils";
+import Search from "../components/Search.astro";
 
 interface Page<T = Post> {
   data: T[];
@@ -76,15 +77,7 @@ const frontmatter = {
     <p class="subtitle">AI가 낯선 당신을 위한 가장 친절한 가이드</p>
 
     <!-- 검색창 -->
-    <div class="search-container">
-      <input
-        type="text"
-        id="search-input"
-        placeholder="SEARCH INTELLIGENCE..."
-        autocomplete="off"
-      />
-      <div id="search-results" class="search-results"></div>
-    </div>
+    <Search variant="hero" />
 
     <!-- 🔥 POPULAR TAGS (New Section) -->
     <div class="popular-tags">
@@ -103,244 +96,9 @@ const frontmatter = {
 
   <style is:global>
     /* ... (기존 검색 스타일 유지) ... */
-    .search-container {
-      position: relative;
-      width: 100%;
-      max-width: 800px;
-      margin: 40px auto 0;
-      z-index: 50;
-    }
 
-    #search-input {
-      width: 100%;
-      box-sizing: border-box;
-      padding: 16px 24px;
-      background: rgba(10, 15, 20, 0.8);
-      border: 1px solid rgba(0, 243, 255, 0.5);
-      border-radius: 12px;
-      color: #fff;
-      font-family: "Noto Sans KR", sans-serif;
-      font-size: 1rem;
-      text-align: left;
-      transition: all 0.2s ease;
-      backdrop-filter: blur(10px);
-    }
-    #search-input:focus {
-      outline: none;
-      border-color: #00f3ff;
-      box-shadow: 0 0 0 4px rgba(0, 243, 255, 0.1);
-      background: rgba(10, 15, 20, 0.95);
-    }
-    #search-input::placeholder {
-      color: #666;
-      text-align: center;
-    }
-
-    /* 검색 결과창 */
-    .search-results {
-      position: absolute;
-      top: calc(100% + 10px);
-      left: 0;
-      right: 0;
-      width: 100%;
-      box-sizing: border-box;
-
-      background: #0a0f14;
-      border: 1px solid #333;
-      border-radius: 12px;
-      max-height: 400px;
-      overflow-y: auto;
-      z-index: 100;
-      display: none;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-    }
-
-    /* 검색 항목 */
-    .search-item {
-      display: block;
-      padding: 16px 20px;
-      border-bottom: 1px solid #1a1f25;
-      text-decoration: none;
-      transition: background 0.1s ease;
-    }
-    .search-item:last-child {
-      border-bottom: none;
-    }
-
-    .search-item:hover {
-      background: rgba(0, 243, 255, 0.05);
-    }
-
-    .search-item h4 {
-      margin: 0 0 6px 0;
-      color: #fff;
-      font-size: 1rem;
-      font-weight: 600;
-      letter-spacing: -0.02em;
-    }
-    .search-item p {
-      margin: 0;
-      color: #999;
-      font-size: 0.85rem;
-      line-height: 1.5;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .search-results::-webkit-scrollbar {
-      width: 6px;
-    }
-    .search-results::-webkit-scrollbar-thumb {
-      background: #333;
-      border-radius: 3px;
-    }
+    /* Post Grid & Other Styles will remain, but search styles are removed as they are now in the component */
   </style>
-
-  <script>
-    /**
-     * 검색 기능 제어 스크립트
-     * - Fuse.js를 이용한 Fuzzy Search (오타 보정, 가중치 적용)
-     * - Debounce를 적용하여 불필요한 연산을 줄임
-     */
-    import Fuse from "fuse.js";
-
-    interface SearchItem {
-      title: string;
-      description: string;
-      url: string;
-      tags?: string[];
-    }
-
-    // DOM 요소 참조 (Null Safety)
-    const searchInput = document.getElementById(
-      "search-input",
-    ) as HTMLInputElement | null;
-    const searchResults = document.getElementById("search-results");
-
-    // Fuse.js 인스턴스 및 데이터
-    let fuse: Fuse<SearchItem> | null = null;
-
-    /**
-     * 초기 데이터 로드 (비동기)
-     * 빌드 타임에 생성된 search.json을 가져옴
-     */
-    async function loadSearchIndex() {
-      try {
-        const response = await fetch("/search.json");
-        const searchIndex: SearchItem[] = await response.json();
-
-        // Fuse.js 초기화
-        fuse = new Fuse(searchIndex, {
-          keys: [
-            { name: "title", weight: 0.6 }, // 제목에 가장 높은 가중치
-            { name: "tags", weight: 0.3 }, // 태그
-            { name: "description", weight: 0.1 }, // 설명
-          ],
-          threshold: 0.4, // 0.0(완벽 일치) ~ 1.0(모두 일치). 0.4 정도가 적당함.
-          ignoreLocation: true, // 패턴이 어디에 있든 찾음
-          includeScore: true, // 점수 포함 (디버깅용)
-        });
-
-        console.log("Search Index Loaded & Fuse Initialized");
-      } catch (error) {
-        console.error("Failed to load search index:", error);
-      }
-    }
-    loadSearchIndex();
-
-    /**
-     * 디바운스 함수 (성능 최적화)
-     */
-    function debounce<T extends (...args: unknown[]) => void>(
-      func: T,
-      delay: number,
-    ) {
-      let timeoutId: number | undefined;
-      return (...args: Parameters<T>) => {
-        clearTimeout(timeoutId);
-        timeoutId = window.setTimeout(() => func(...args), delay);
-      };
-    }
-
-    /**
-     * 검색 실행 및 UI 업데이트
-     */
-    function handleSearch(event: Event) {
-      const target = event.target as HTMLInputElement;
-      const query = target.value.trim();
-
-      if (!searchResults) return;
-
-      // 검색어 초기화 시 숨김
-      if (query.length < 1) {
-        searchResults.style.display = "none";
-        searchResults.innerHTML = "";
-        return;
-      }
-
-      if (!fuse) return;
-
-      // Fuse.js 검색 실행
-      const results = fuse.search(query);
-
-      // FuseResult<{item: ...}> 형태에서 item만 추출
-      const matchedPosts = results.map((result) => result.item);
-
-      renderResults(matchedPosts);
-    }
-
-    /**
-     * 결과 렌더링 (DOM 조작)
-     */
-    function renderResults(posts: SearchItem[]) {
-      if (!searchResults) return;
-
-      searchResults.innerHTML = "";
-      searchResults.style.display = "block";
-
-      if (posts.length === 0) {
-        searchResults.innerHTML = `
-                            <div style="padding: 20px; color: #888; text-align: center;">
-                                NO DATA FOUND
-                            </div>
-                        `;
-        return;
-      }
-
-      // DocumentFragment를 사용하여 리플로우 최소화
-      const fragment = document.createDocumentFragment();
-
-      posts.forEach((post) => {
-        const link = document.createElement("a");
-        link.className = "search-item";
-        link.href = post.url;
-        link.innerHTML = `
-                            <h4>${post.title}</h4>
-                            <p>${post.description}</p>
-                        `;
-        fragment.appendChild(link);
-      });
-
-      searchResults.appendChild(fragment);
-    }
-
-    // 이벤트 리스너 등록 (300ms 디바운스 적용)
-    if (searchInput) {
-      searchInput.addEventListener("input", debounce(handleSearch, 300));
-    }
-
-    // 외부 클릭 시 닫기 (UX 개선)
-    document.addEventListener("click", (event: MouseEvent) => {
-      const target = event.target as HTMLElement;
-
-      const isClickInside = target.closest(".search-container");
-
-      if (!isClickInside && searchResults) {
-        searchResults.style.display = "none";
-      }
-    });
-  </script>
 
   <!-- POST LIST (Card Grid Style) -->
   <div class="grid-label">
@@ -386,6 +144,33 @@ const frontmatter = {
       ) : null
     }
   </div>
+
+  <script is:inline>
+    document.addEventListener("DOMContentLoaded", () => {
+      // @ts-ignore
+      const trackEvent = (action, params) => {
+        // @ts-ignore
+        if (typeof window.gtag === "function") {
+          // @ts-ignore
+          window.gtag("event", action, params);
+        }
+      };
+
+      // Popular Tags Tracking
+      const popTags = document.querySelectorAll(".pop-tag");
+      popTags.forEach((tag) => {
+        tag.addEventListener("click", (e) => {
+          const target = e.target;
+          // @ts-ignore
+          const tagName = target.innerText || target.textContent;
+          trackEvent("click_tag", {
+            tag_name: tagName,
+            location: "home_trending",
+          });
+        });
+      });
+    });
+  </script>
 </Layout>
 
 <style>

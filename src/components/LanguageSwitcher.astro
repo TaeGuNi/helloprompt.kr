@@ -149,6 +149,18 @@
         }
 
         newPath += parts.join("/");
+
+        // [Analytics] Track Language Change
+        // @ts-ignore
+        if (typeof window.gtag === "function") {
+          // @ts-ignore
+          window.gtag("event", "change_language", {
+            event_category: "i18n",
+            event_label: targetLang || "ko",
+            from_lang: document.documentElement.lang,
+          });
+        }
+
         window.location.href = newPath;
       });
     });

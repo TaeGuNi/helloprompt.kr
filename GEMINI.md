@@ -32,7 +32,7 @@
 - **데이터:** `src/pages/search.json.ts`, `src/pages/rss.xml.ts`, `src/pages/atom.xml.ts`
 - **테스트:** `tests/home.spec.ts` (Playwright), `src/utils.test.ts` (Vitest)
 - **QA:** `scripts/qa/` (Audit, Check, Sitemap)
-- **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵)
+- **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵), `docs/ANALYTICS.md` (데이터 분석)
 
 ## 🛠 자주 쓰는 명령어
 

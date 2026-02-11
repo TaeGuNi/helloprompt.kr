@@ -340,6 +340,15 @@ const uiStrings = {
             .join("");
           if (recSection) recSection.style.display = "block";
         }
+
+        // [Analytics] Track 404
+        if (typeof window.gtag === "function") {
+          window.gtag("event", "view_404", {
+            event_category: "error",
+            event_label: path,
+            page_path: path,
+          });
+        }
       })();
     </script>
   </body>

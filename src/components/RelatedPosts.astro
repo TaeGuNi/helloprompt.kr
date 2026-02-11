@@ -82,6 +82,33 @@ const sectionTitle = TITLE_MAP[lang] || TITLE_MAP["en"];
   )
 }
 
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", () => {
+    // @ts-ignore
+    const trackEvent = (action, params) => {
+      // @ts-ignore
+      if (typeof window.gtag === "function") {
+        // @ts-ignore
+        window.gtag("event", action, params);
+      }
+    };
+
+    const relatedCards = document.querySelectorAll(".related-card");
+    relatedCards.forEach((card) => {
+      card.addEventListener("click", (e) => {
+        const titleElement = card.querySelector("h4");
+        if (titleElement) {
+          trackEvent("select_content", {
+            content_type: "related_post",
+            item_id: titleElement.innerText,
+            page_title: document.title,
+          });
+        }
+      });
+    });
+  });
+</script>
+
 <style>
   .related-wrapper {
     margin-top: 80px;

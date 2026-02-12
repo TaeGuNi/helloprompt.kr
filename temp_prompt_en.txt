@@ -1,0 +1,161 @@
+Translate the following Markdown blog post to language code 'en'. 
+  Keep Frontmatter keys in English. Translate values for 'title', 'description', 'category'.
+  Keep 'layout', 'author', 'date', 'updatedDate' values as is.
+  Translate 'tags' values.
+  Keep code blocks exactly as they are.
+  Do not translate the prompt 'Role', 'Context', 'Task' keys if they are in English in the source, but translate the content.
+  The source has prompts in Korean. Translate them to the target language (en).
+  Output ONLY the translated markdown. Do not include ' ```markdown ' fences.
+
+---
+layout: /src/layouts/Layout.astro
+title: "엑셀 요청을 SQL 쿼리로 바꿔주는 AI 프롬프트 (데이터 분석)"
+author: "ZZabbis"
+date: "2026-02-13"
+updatedDate: "2026-02-13"
+category: "업무 자동화"
+description: "VLOOKUP, 피벗 테이블 개념을 그대로 SQL 쿼리로 바꿔줍니다. 개발자에게 부탁할 필요 없이 직접 데이터를 추출해보세요."
+tags: ["엑셀", "SQL", "데이터분석", "ChatGPT"]
+---
+
+# 📝 엑셀 요청을 SQL 쿼리로 바꿔주는 AI 프롬프트
+
+<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+
+- **🎯 추천 대상:** 데이터 추출 때문에 개발팀 눈치 보는 기획자, 마케터
+- **⏱️ 소요 시간:** 3일 (개발팀 요청 대기) → 1분 (직접 추출)
+- **🤖 추천 모델:** ChatGPT (GPT-4), Claude 3.5 Sonnet
+
+- ⭐ **난이도:** ⭐⭐⭐☆☆
+- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
+- 🚀 **활용도:** ⭐⭐⭐⭐☆
+
+<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+
+> _"개발팀에 데이터 요청하고 3일 기다리시나요? 이제 3초 만에 쿼리 짜서 직접 뽑으세요."_
+
+현업에서 일하다 보면 "작년 VIP 고객 명단 좀 뽑아주세요" 같은 간단한 요청도 개발자 분들이 바쁘면 한참을 기다려야 하죠. SQL을 배우자니 너무 어렵고, 엑셀로만 하기엔 데이터가 너무 클 때가 있습니다.
+
+이 프롬프트는 여러분이 익숙한 **엑셀 용어(VLOOKUP, 피벗 등)**로 말하면, AI가 알아서 **전문가급 SQL 쿼리**로 변환해줍니다. 이제 직접 데이터를 조회하고 분석해 보세요.
+
+---
+
+## ⚡️ 3줄 요약 (TL;DR)
+
+1. **엑셀 용어 호환:** VLOOKUP은 JOIN으로, 필터는 WHERE 절로 자동 변환합니다.
+2. **스키마 추론:** 테이블 구조를 정확히 몰라도 AI가 일반적인 구조를 가정해 쿼리를 짜줍니다.
+3. **안전성 확보:** `SELECT *` 금지 등 실무에서 바로 써도 욕먹지 않을 안전한 쿼리를 만듭니다.
+
+---
+
+## 🚀 해결책: "엑셀 to SQL 컨버터"
+
+<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+
+### 🥉 Basic Version (기본형)
+
+빠르게 쿼리 구조만 잡고 싶을 때 사용하세요.
+
+> **역할:** 너는 15년 차 데이터 엔지니어이자 SQL 전문가야.
+> **요청:** 내가 엑셀 로직으로 설명하는 내용을 표준 SQL 쿼리로 변환해줘.
+> **입력:** `[작년 VIP 고객 리스트 뽑아줘]`
+
+<br>
+
+### 🥇 Pro Version (전문가형)
+
+실제 업무에 바로 사용할 수 있는 정교한 쿼리가 필요할 때 사용하세요. 복사해서 사용하세요.
+
+> **Role (역할):**
+> 당신은 15년 경력의 시니어 데이터 엔지니어이자 SQL 최적화 전문가입니다. 비개발자인 현업 담당자(마케터, 기획자)가 사용하는 "엑셀(Excel) 용어"와 "비즈니스 로직"을 완벽하게 이해하고, 이를 실행 가능한 표준 SQL(ANSI SQL) 쿼리로 변환하는 능력을 갖추고 있습니다.
+>
+> **Context (상황):**
+> 사용자는 데이터베이스에 직접 접근할 수 없어 자연어로 데이터를 요청하고 있습니다. 그들은 'VLOOKUP', '피벗 테이블', '필터', '중복 제거' 같은 엑셀 개념을 사용하여 요구사항을 설명합니다. 당신의 목표는 이 모호한 요청을 명확하고 효율적인 SQL 쿼리로 변환하여 제공하는 것입니다.
+>
+> **Task (지시사항):**
+> 1. **요구사항 분석:** 사용자의 자연어 입력에서 데이터 추출의 목적(Target), 조건(Where), 집계 방식(Group by), 정렬(Order by)을 파악하십시오.
+> 2. **스키마 추론:** 사용자가 테이블 정보를 제공하지 않았다면, 일반적인 E-commerce 또는 ERP 시스템의 테이블 구조(예: Users, Orders, Products)를 가정하고, 이를 주석으로 명시하십시오.
+> 3. **쿼리 작성:** 
+>    - 가독성을 위해 적절한 들여쓰기(Indentation)를 사용하십시오.
+>    - 테이블 간의 관계(JOIN)를 명확히 정의하십시오.
+>    - 컬럼명에는 비즈니스 의미가 통하는 별칭(Alias)을 사용하십시오.
+> 4. **엑셀 로직 변환:**
+>    - 'VLOOKUP' → `LEFT JOIN`
+>    - '피벗 테이블' → `GROUP BY` 및 집계 함수(`SUM`, `COUNT`, `AVG`)
+>    - '필터' → `WHERE` 또는 `HAVING`
+>    - '중복 제거' → `DISTINCT`
+> 5. **설명 제공:** 작성된 쿼리가 어떤 로직으로 동작하는지 엑셀 사용자가 이해할 수 있는 용어로 한 줄 요약을 덧붙이십시오.
+>
+> **Constraints (제약사항):**
+> - **표준 SQL 준수:** 특정 DB(Oracle, MySQL 등)에 종속되지 않는 ANSI SQL 표준 문법을 사용하십시오.
+> - **성능 고려:** `SELECT *` 사용을 지양하고, 필요한 컬럼만 명시하십시오.
+> - **날짜 처리:** 날짜 조건은 명확한 리터럴 형식('YYYY-MM-DD')을 사용하거나 표준 날짜 함수를 사용하십시오.
+> - **Null 처리:** 집계 시 `NULL` 값에 대한 처리(`COALESCE` 또는 `IFNULL` 등)를 고려하십시오.
+>
+> **Input (입력):**
+> `[여기에 엑셀 용어로 데이터 요청사항을 입력하세요]`
+
+---
+
+<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+
+## 💡 작성자 코멘트 (Insight)
+
+이 프롬프트의 강력함은 **"번역(Translation)"**에 있습니다. 현업 담당자가 SQL 문법을 몰라도, 익숙한 엑셀 사고방식 그대로 질문하면 AI가 이를 기술 언어로 통역해줍니다.
+
+특히 **`Constraints`에 포함된 "성능 고려" 항목**이 중요합니다. 초보자가 흔히 저지르는 실수가 `SELECT *`로 수백만 건의 데이터를 한 번에 조회해서 DB를 락(Lock) 걸어버리는 것인데, 이 프롬프트는 그런 위험을 사전에 차단해줍니다.
+
+---
+
+<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+
+## 🙋 자주 묻는 질문 (FAQ)
+
+- **Q: 테이블 이름이나 컬럼명을 몰라도 되나요?**
+  - A: 네, AI가 일반적인 쇼핑몰이나 ERP 구조를 가정해서 짜줍니다. 결과 쿼리를 보고 실제 테이블명으로 수정해서 쓰시면 됩니다.
+
+- **Q: 특정 DB(MySQL, Oracle) 문법으로 받을 수 있나요?**
+  - A: 기본은 표준 SQL이지만, 입력 끝에 "MySQL 기준으로 짜줘"라고 덧붙이면 해당 DB 방언에 맞춰줍니다.
+
+---
+
+## 🧬 프롬프트 해부 (Why it works?)
+
+1.  **엑셀-SQL 매핑:** `VLOOKUP` = `LEFT JOIN` 처럼 사고의 흐름을 연결해 주어 AI가 의도를 정확히 파악합니다.
+2.  **스키마 추론:** 정보가 부족한 상황에서도 대화를 멈추지 않고 가설(Assumption)을 세워 답을 내놓게 합니다.
+3.  **방어적 코딩:** `NULL` 처리나 `SELECT *` 금지 조항을 넣어 실무 레벨의 쿼리 품질을 보장합니다.
+
+---
+
+## 📊 증명: Before & After
+
+### ❌ Before (입력)
+
+```text
+작년(2025년) 구매 내역 있는 고객 중에서 VIP 등급인 사람들만 뽑아줘.
+고객명이랑 총 구매금액 나오게 해주고, 금액 큰 순서대로 정렬해줘.
+```
+
+### ✅ After (결과)
+
+```sql
+-- 가정: Users(고객), Orders(주문) 테이블 존재
+SELECT 
+    u.user_name AS 고객명,
+    SUM(o.amount) AS 총구매금액
+FROM Users u
+JOIN Orders o ON u.user_id = o.user_id
+WHERE u.grade = 'VIP'
+  AND o.order_date >= '2025-01-01' 
+  AND o.order_date <= '2025-12-31'
+GROUP BY u.user_name
+ORDER BY 총구매금액 DESC;
+```
+
+---
+
+## 🎯 결론
+
+더 이상 "이 데이터 좀 뽑아주세요"라고 부탁하고 기다리지 마세요. 이 프롬프트 하나면 여러분도 **1분 만에 데이터를 추출하는 분석가**가 될 수 있습니다.
+
+이제 칼퇴하세요! 🍷

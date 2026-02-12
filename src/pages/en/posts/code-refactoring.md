@@ -1,144 +1,170 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Code is Trash?! Clean Code Refactoring Coach"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.120Z"
-updatedDate: "2026-02-07T09:10:33.120Z"
-category: "Coding/IT"
-description: "A prompt that upgrades messy code that 'just works' into clean code that is 'easy to read and maintain'."
-tags: ["Refactoring", "Clean Code", "Developer", "Code Review"]
+title: "Spaghetti Code No More! AI Refactoring & Commenting Guide"
+author: "ZZabbis"
+date: "2026-02-13"
+updatedDate: "2026-02-13"
+category: "Productivity"
+description: "Refactor legacy code and add high-quality comments in 1 minute with this perfect prompt."
+tags: ["Coding", "Refactoring", "AI", "Productivity"]
 ---
 
-# 📝 My Code is Trash?! Clean Code Refactoring Coach
+# 📝 Spaghetti Code No More! AI Refactoring & Commenting Guide
 
-- **🎯 Recommended For:** Everyone
-- **⏱️ Time Required:** 5 minutes
-- **🤖 Recommended Model:** All AI models
+<!-- ⚠️ [Lint Rule] Use emoji lists. Tables may break on mobile. -->
 
-- **📊 Difficulty:** ⭐⭐☆☆☆
-- **⚡️ Effectiveness:** ⭐⭐⭐⭐⭐
-- **🛠️ Utility:** ⭐⭐⭐⭐☆
+- **🎯 Recommended For:** Developers suffering from legacy code, Junior Devs, Maintainers
+- **⏱️ Time Saved:** 1 hour → 3 minutes
+- **🤖 Recommended Models:** GPT-4, Claude 3.5 Sonnet, Gemini Pro
 
-_"I said I'd fix it later, but a year has passed. Now I'm scared to touch it."_
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-Spaghetti code (tangled code) is a developer's enemy. If readability is poor, it's hard to find bugs and difficult to add features. This prompt acts as if possessed by Robert C. Martin (author of Clean Code) to scrub and polish your code until it shines.
+<!-- ⚠️ [Lint Rule] Blockquotes (>) must be used with italics (_..._) except in Basic/Pro sections. -->
+
+> _"Have you ever stayed up late analyzing code written by someone else? Or found your own code from 6 months ago unfamiliar?"_
+
+It is said that 80% of a developer's time is spent reading code. Complex, tangled 'spaghetti code' is the main culprit for low productivity. But now, with the help of AI, you can instantly organize complex logic and add friendly comments. Today, we introduce a magical refactoring prompt that will get you home on time.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Remove duplicate code and separate functions (Extract Method)
-2. Improve unclear variable/function names (Naming Convention)
-3. Optimize performance and apply modern syntax (Modern Syntax)
+1. Automatically clean up complex control structures and nested logic
+2. Auto-generate high-quality comments explaining the 'Intent' of the code
+3. Drastically improve readability while keeping existing logic intact
 
 ---
 
-## 🚀 Solution: "Clean Code Laundry"
+## 🚀 Solution: "Clean Code Architect"
+
+<!-- ⚠️ [Lint Rule] Blockquotes (>) turn into prompt boxes here only. -->
 
 ### 🥉 Basic Version
 
-Use this when you just need a quick result.
+Use this when you just need quick results.
 
-> **Role:** You are a `[Clean Code Evangelist and Chief Architect]`.
-> **Request:** Provide a prompt that upgrades messy code that 'just works' into clean code that is 'easy to read and maintain'.
+> **Role:** You are a Senior Developer.
+> **Request:** Refactor the code below according to Clean Code principles and add comments.
 
 <br>
 
-### 🥇 Pro Version
+### 🥇 Pro Version (Expert)
 
-Use this when you need detailed quality.
+Use this when detailed quality and stability are needed.
 
-Copy the **PROMPT** content below to use.
-
-> **Role:** You are a `[Clean Code Evangelist and Chief Architect]`.
+> **Role:**
+> You are a **Senior Software Architect** and **Code Refactoring Specialist** specializing in technical debt reduction and legacy systems. You have a deep understanding of Clean Code principles and design patterns (SOLID, DRY).
 >
-> **Context:** My code works, but it is messy and hard to read (Dirty Code). Refactor it to be easier to maintain.
+> **Context:**
+> You are presented with "spaghetti code"—unstructured, difficult-to-maintain source code characterized by complex control structures (deep nesting), poor variable naming, high coupling, and a lack of modularity. While the code currently functions, it is fragile and opaque to other developers.
 >
 > **Task:**
+> Refactor the provided code into a clean, maintainable, and idiomatic version without altering its external behavior.
 >
-> 1. **[Naming Sense]**: Change variable and function names to be intuitive and meaningful. (e.g., `a` -> `userAge`)
-> 2. **[Structure Improvement]**: Split functions that are too long by role, and merge duplicate logic into one.
-> 3. **[Modernize]**: If possible, apply the latest language syntax (ES6+, Python 3.10+, etc.).
-> 4. **[Before & After]**: Compare what changed and how, and explain the reason for the change.
+> 1.  **Analyze:** First, identify the underlying logic and business rules.
+> 2.  **Refactor:** Restructure the code to reduce complexity. Break down large functions, flatten nested conditionals, and use descriptive naming conventions.
+> 3.  **Comment:** Add high-value comments that explain *why* a specific approach was taken or *why* complex logic exists. Do not describe *what* the syntax is doing (e.g., avoid "increments i by 1").
+> 4.  **Verify:** Ensure that the refactored solution is logically equivalent to the original.
 >
 > **Constraints:**
 >
-> - The code's behavior (function) must absolutely not change.
-> - Add comments only where necessary. (Delete comments if the code explains itself)
+> - **Zero Regression:** The refactored code must produce exactly the same outputs/side effects as the original.
+> - **Idiomatic Style:** Adhere strictly to the standard conventions and idioms of the programming language used.
+> - **Comment Quality:** Comments must be insightful and focus on intent, edge cases, or architectural decisions. Avoid obvious comments.
 >
-> **Target Code:**
-
-> [Paste your dirty(?) code here]
+> **Warning:**
+>
+> - Do not change logic arbitrarily or guess. If something is unclear, note it in a comment.
+>
+> **Input Code:**
+> ```[Paste your code here]```
 
 ---
 
-## 🧬 Prompt Anatomy (Why it works?)
+<!-- ✅ [Lint Rule] Mandatory section. -->
 
-This prompt is designed to accurately grasp the AI's intent by combining a clear persona setting with specific instructions (Task). It induces a logical answer by encouraging Chain of Thought.
+## 💡 Insight
+
+The core of this prompt is not just code shortening, but **'Securing Maintainability'**.
+The most useful part of using this prompt in the field is getting an objective check on variable names or structure from a third-party perspective, even for your own code. Especially by specifying "Zero Regression" in `Constraints`, we prevent AI from being overly creative and breaking the logic.
+
+---
+
+<!-- ⚠️ [Lint Rule] Recommended section. -->
+
+## 🙋 FAQ
+
+- **Q: Does it fix bugs?**
+  - A: This prompt focuses on 'refactoring' and tries to maintain logic as is. If you need bug fixing, add "Find and fix bugs" to the Task.
+
+- **Q: Which languages are supported?**
+  - A: It works perfectly for all text-based programming languages like Python, Java, JavaScript, C++, etc.
+
+---
+
+## 🧬 Prompt Breakdown (Why it works?)
+
+1.  **Role Assignment:** Gave 'Senior Architect' authority to raise the standard of code quality.
+2.  **Task Segmentation:** Induced a systematic result through 4 steps: Analyze -> Refactor -> Comment -> Verify.
+3.  **Zero Regression Constraint:** Emphasized that functionality must not change, reducing risk in practical application.
 
 ---
 
 ## 📊 Proof: Before & After
 
-The difference between a simple command and an optimized prompt is clear. Using the provided prompt yields a more specific and structured answer, saving time on re-prompting.
-
 ### ❌ Before (Input)
 
-```python
-def calc(x, y):
-    if x > 19:
-        print("성인")
-        p = y * 0.9
-        return p
-    else:
-        print("학생")
-        return y
+```javascript
+function c(u) {
+  if (u) {
+    if (u.a > 18) {
+      if (u.t == 'P') {
+        return 100;
+      } else {
+        return 50;
+      }
+    } else {
+      return 0;
+    }
+  } else {
+    return -1;
+  }
+}
 ```
 
-(Function name `calc` doesn't say what it calculates, and `p` is meaningless)
+### ✅ After (Result)
 
-### ✅ After (Prompt Result)
+```javascript
+/**
+ * Calculates fee based on user age and type.
+ *
+ * @param {object} user - User object (contains age, type)
+ * @returns {number} Calculated fee (Adult Premium: 100, Regular: 50, Minor: 0, Error: -1)
+ */
+function calculateFee(user) {
+  // Exception: No user info
+  if (!user) return -1;
 
-```python
-def calculate_discounted_price(age, price):
-    ADULT_AGE_THRESHOLD = 20
-    DISCOUNT_RATE = 0.9
+  const ADULT_AGE = 18;
+  const PREMIUM_TYPE = 'P';
 
-    if age >= ADULT_AGE_THRESHOLD:
-        print("성인입니다.")
-        return price * DISCOUNT_RATE
+  // Free for minors
+  if (user.a <= ADULT_AGE) {
+    return 0;
+  }
 
-    print("학생입니다.")
-    return price
+  // Apply adult pricing policy
+  const isPremium = user.t === PREMIUM_TYPE;
+  return isPremium ? 100 : 50;
+}
 ```
-
-**[Improvement Points]**
-
-1. **Function Name Change**: `calc` -> `calculate_discounted_price` (It becomes clear that it is a discount price calculation)
-2. **Remove Magic Numbers**: Assigned meaning to numbers like `19`, `0.9` by declaring them as constants.
-3. **Remove Unnecessary else**: Reduced indentation depth using the Early Return pattern.
-
----
-
-## 💡 Author's Comment (Insight)
-
-This prompt focused on practicality for immediate use in actual work.
-If the result is not satisfactory, try setting the input variables or context a little more specifically.
-
----
-
-## 🙋 Frequently Asked Questions (FAQ)
-
-**Q. I don't like the result.**
-A. Add specific examples or describe the situation (Context) in more detail.
-
-**Q. Is it possible in other languages?**
-A. Yes, it is possible if you translate the instructions of the prompt into that language.
 
 ---
 
 ## 🎯 Conclusion
 
-Well-written code reads easily like a well-written essay. Clean your code for your future self (and colleagues).
+Stop wasting time wrestling with spaghetti code. With this single prompt, your code can always be kept clean as if inspected by a 'Senior Developer'.
 
-Now leave work on time and take a shower. Your body, not the code. 🍷
+Go home early today! 🍷

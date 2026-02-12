@@ -1,144 +1,170 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mein Code ist Müll! Clean Code Refactoring Coach"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.120Z"
-updatedDate: "2026-02-07T09:10:33.120Z"
-category: "Coding/IT"
-description: "Ein Prompt, der schmutzigen Code, der gerade so läuft, in sauberen Code verwandelt, der 'leicht zu lesen und gut zu warten' ist."
-tags: ["Refactoring", "Clean Code", "Entwickler", "Code Review"]
+title: "Nie wieder Spaghetti-Code! KI-Refactoring & Kommentierungs-Guide"
+author: "ZZabbis"
+date: "2026-02-13"
+updatedDate: "2026-02-13"
+category: "Produktivität"
+description: "Refaktorisieren Sie komplexen Legacy-Code und fügen Sie in 1 Minute hochwertige Kommentare mit diesem perfekten Prompt hinzu."
+tags: ["Programmieren", "Refactoring", "KI", "Produktivität"]
 ---
 
-# 📝 Mein Code ist Müll! Clean Code Refactoring Coach
+# 📝 Nie wieder Spaghetti-Code! KI-Refactoring & Kommentierungs-Guide
 
-- **🎯 Empfohlen für:** Jeden
-- **⏱️ Dauer:** 5 Minuten
-- **🤖 Empfohlenes Modell:** Alle KI-Modelle
+<!-- ⚠️ [Lint Rule] Verwenden Sie Emoji-Listen. Tabellen können auf Mobilgeräten kaputt gehen. -->
 
-- **📊 Schwierigkeit:** ⭐⭐☆☆☆
-- **⚡️ Effektivität:** ⭐⭐⭐⭐⭐
-- **🛠️ Nützlichkeit:** ⭐⭐⭐⭐☆
+- **🎯 Empfohlen für:** Entwickler, die unter Legacy-Code leiden, Junioren, Maintainer
+- **⏱️ Zeitersparnis:** 1 Stunde → 3 Minuten
+- **🤖 Empfohlene Modelle:** GPT-4, Claude 3.5 Sonnet, Gemini Pro
 
-_"Ich habe gesagt, ich repariere es später, und jetzt ist ein Jahr vergangen. Jetzt habe ich Angst, es anzufassen."_
+- ⭐ **Schwierigkeit:** ⭐⭐☆☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-Spaghetti-Code (verworrener Code) ist der Feind des Entwicklers. Wenn die Lesbarkeit schlecht ist, ist es schwierig, Fehler zu finden oder Funktionen hinzuzufügen. Dieser Prompt lässt Robert C. Martin (Autor von Clean Code) von deinem Code Besitz ergreifen, ihn waschen und polieren, bis er glänzt.
+<!-- ⚠️ [Lint Rule] Zitate (>) müssen mit Kursivschrift (_..._) verwendet werden, außer in Basic/Pro-Abschnitten. -->
+
+> _"Haben Sie schon einmal spät abends Code analysiert, den jemand anderes geschrieben hat? Oder kam Ihnen Ihr eigener Code von vor 6 Monaten fremd vor?"_
+
+Es heißt, dass 80% der Zeit eines Entwicklers mit dem Lesen von Code verbracht wird. Komplexer, verwickelter 'Spaghetti-Code' ist der Hauptgrund für geringe Produktivität. Aber jetzt können Sie mit Hilfe von KI komplexe Logik sofort organisieren und freundliche Kommentare hinzufügen. Heute stellen wir einen magischen Refactoring-Prompt vor, der Sie pünktlich nach Hause bringt.
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. Redundanten Code entfernen und Funktionen aufteilen (Extract Method)
-2. Unklare Variablen-/Funktionsnamen verbessern (Naming Convention)
-3. Leistungsoptimierung und Anwendung moderner Syntax (Modern Syntax)
+1. Bereinigt automatisch komplexe Kontrollstrukturen und verschachtelte Logik
+2. Generiert automatisch hochwertige Kommentare, die die 'Absicht' des Codes erklären
+3. Verbessert die Lesbarkeit drastisch, während die bestehende Logik intakt bleibt
 
 ---
 
-## 🚀 Lösung: "Clean Code Wäscherei"
+## 🚀 Lösung: "Clean Code Architect"
 
-### 🥉 Basic Version (Basisversion)
+<!-- ⚠️ [Lint Rule] Zitate (>) werden nur hier in Prompt-Boxen umgewandelt. -->
 
-Verwende dies, wenn du nur schnelle Ergebnisse benötigst.
+### 🥉 Basic Version (Basis)
 
-> **Rolle:** Du bist ein `[Clean Code Evangelist und Chief Architect]`.
-> **Anfrage:** Aktualisiere den schmutzigen Code, der gerade so läuft, zu einem sauberen Code, der 'leicht zu lesen und gut zu warten' ist.
+Verwenden Sie dies, wenn Sie nur schnelle Ergebnisse benötigen.
+
+> **Rolle:** Du bist ein Senior Entwickler.
+> **Anfrage:** Refaktorisiere den folgenden Code gemäß Clean Code-Prinzipien und füge Kommentare hinzu.
 
 <br>
 
-### 🥇 Pro Version (Expertenversion)
+### 🥇 Pro Version (Experte)
 
-Verwende dies, wenn du detaillierte Qualität benötigst.
+Verwenden Sie dies, wenn Sie detaillierte Qualität und Stabilität benötigen.
 
-Kopiere den Inhalt des **PROMPT** unten, um ihn zu verwenden.
-
-> **Rolle (Role):** Du bist ein `[Clean Code Evangelist und Chief Architect]`.
+> **Role (Rolle):**
+> Du bist ein **Senior Software Architect** und **Code Refactoring Specialist**, spezialisiert auf die Reduzierung technischer Schulden und Legacy-Systeme. Du hast ein tiefes Verständnis von Clean Code-Prinzipien und Design Patterns (SOLID, DRY).
 >
-> **Kontext (Context):** Mein Code funktioniert, ist aber unordentlich und schwer zu lesen (Dirty Code). Refactore ihn, damit er leichter zu warten ist.
+> **Context (Kontext):**
+> Dir wird "Spaghetti-Code" präsentiert: unstrukturierter, schwer zu wartender Quellcode, gekennzeichnet durch komplexe Kontrollstrukturen (tiefe Verschachtelung), schlechte Variablenbenennung, hohe Kopplung und fehlende Modularität. Obwohl er derzeit funktioniert, ist er fragil.
 >
-> **Aufgabe (Task):**
+> **Task (Aufgabe):**
+> Refaktorisiere den bereitgestellten Code in eine saubere, wartbare und idiomatische Version, ohne sein externes Verhalten zu ändern.
 >
-> 1. **[Naming Sense]**: Ändere Variablen- und Funktionsnamen so, dass sie intuitiv und bedeutungsvoll sind. (z.B.: `a` -> `userAge`)
-> 2. **[Strukturverbesserung]**: Zerlege Funktionen, die zu lang sind, nach Aufgaben und fasse redundante Logik zusammen.
-> 3. **[Modernize]**: Wende wenn möglich die neueste Sprachsyntax an (ES6+, Python 3.10+ usw.).
-> 4. **[Before & After]**: Vergleiche, was wie geändert wurde, und erkläre den Grund für die Änderung.
+> 1.  **Analyze (Analysieren):** Identifiziere zuerst die Geschäftslogik und den Fluss.
+> 2.  **Refactor (Refaktorisieren):** Restrukturiere den Code, um die Komplexität zu reduzieren. Teile große Funktionen auf, flache verschachtelte Bedingungen ab und verwende beschreibende Namen.
+> 3.  **Comment (Kommentieren):** Füge hochwertige Kommentare hinzu, die erklären, *warum* ein bestimmter Ansatz gewählt wurde oder *warum* komplexe Logik existiert. Beschreibe nicht, *was* die Syntax tut.
+> 4.  **Verify (Verifizieren):** Stelle sicher, dass die refaktorisierte Lösung logisch äquivalent zum Original ist.
 >
-> **Einschränkungen (Constraints):**
+> **Constraints (Einschränkungen):**
 >
-> - Das Verhalten (die Funktion) des Codes darf sich keinesfalls ändern.
-> - Füge Kommentare (Comments) nur dort hinzu, wo sie unbedingt notwendig sind. (Entferne Kommentare, wenn der Code selbsterklärend ist)
+> - **Zero Regression:** Der refaktorisierte Code muss exakt dieselben Ausgaben/Nebeneffekte wie das Original erzeugen.
+> - **Idiomatic Style:** Halte dich strikt an die Standardkonventionen der verwendeten Programmiersprache.
+> - **Comment Quality:** Offensichtliche Kommentare wie "erhöht i um 1" sind verboten.
 >
-> **Zielcode:**
-
-> [Füge hier deinen schmutzigen (?) Code ein]
+> **Warning (Warnung):**
+>
+> - Ändere die Logik nicht willkürlich und rate nicht. Wenn etwas unklar ist, notiere es in einem Kommentar.
+>
+> **Input Code:**
+> ```[Füge deinen Code hier ein]```
 
 ---
 
-## 🧬 Prompt-Anatomie (Why it works?)
+<!-- ✅ [Lint Rule] Pflichtabschnitt. -->
 
-Dieser Prompt ist so konzipiert, dass er die Absicht der KI durch eine Kombination aus klarer Persona-Einstellung und spezifischen Anweisungen (Task) genau erfasst. Er leitet schrittweises Denken (Chain of Thought) ein, um logische Antworten zu erhalten.
+## 💡 Autoren-Insight
+
+Der Kern dieses Prompts ist nicht nur das Kürzen von Code, sondern die **'Sicherstellung der Wartbarkeit'**.
+Der nützlichste Teil bei der Verwendung dieses Prompts in der Praxis ist es, eine objektive Überprüfung von Variablennamen oder Strukturen aus einer Dritten-Perspektive zu erhalten, selbst für Ihren eigenen Code. Besonders durch die Angabe von "Zero Regression" in den `Constraints` verhindern wir, dass die KI zu kreativ wird und die Logik bricht.
 
 ---
 
-## 📊 Beweis: Vorher & Nachher
+<!-- ⚠️ [Lint Rule] Empfohlener Abschnitt. -->
 
-Der Unterschied zwischen einem einfachen Befehl und einem optimierten Prompt ist deutlich. Wenn du den bereitgestellten Prompt verwendest, erhältst du spezifischere und strukturiertere Antworten und sparst Zeit für erneutes Prompting (Re-prompting).
+## 🙋 FAQ
 
-### ❌ Vorher (Eingabe)
+- **Q: Repariert es Bugs?**
+  - A: Dieser Prompt konzentriert sich auf 'Refactoring' und versucht, die Logik so beizubehalten, wie sie ist. Wenn Sie Bugs beheben müssen, fügen Sie "Finde und behebe Bugs" zur Aufgabe hinzu.
 
-```python
-def calc(x, y):
-    if x > 19:
-        print("성인")
-        p = y * 0.9
-        return p
-    else:
-        print("학생")
-        return y
+- **Q: Welche Sprachen werden unterstützt?**
+  - A: Es funktioniert perfekt für alle textbasierten Programmiersprachen wie Python, Java, JavaScript, C++, etc.
+
+---
+
+## 🧬 Prompt-Aufschlüsselung (Why it works?)
+
+1.  **Rollenzuweisung:** Gab 'Senior Architect'-Autorität, um den Qualitätsstandard zu heben.
+2.  **Aufgabensegmentierung:** Induzierte ein systematisches Ergebnis durch 4 Schritte: Analysieren -> Refaktorisieren -> Kommentieren -> Verifizieren.
+3.  **Zero Regression-Einschränkung:** Betonte, dass sich die Funktionalität nicht ändern darf, was das Risiko in der praktischen Anwendung reduziert.
+
+---
+
+## 📊 Beweis: Before & After
+
+### ❌ Before (Eingabe)
+
+```javascript
+function c(u) {
+  if (u) {
+    if (u.a > 18) {
+      if (u.t == 'P') {
+        return 100;
+      } else {
+        return 50;
+      }
+    } else {
+      return 0;
+    }
+  } else {
+    return -1;
+  }
+}
 ```
 
-(Der Funktionsname `calc` sagt nicht aus, was berechnet wird, und `p` ist ebenfalls bedeutungslos)
+### ✅ After (Ergebnis)
 
-### ✅ Nachher (Prompt-Ergebnis)
+```javascript
+/**
+ * Berechnet die Gebühr basierend auf Alter und Typ des Benutzers.
+ *
+ * @param {object} user - Benutzerobjekt (enthält age, type)
+ * @returns {number} Berechnete Gebühr (Erwachsener Premium: 100, Regulär: 50, Minderjährig: 0, Fehler: -1)
+ */
+function calculateFee(user) {
+  // Ausnahme: Keine Benutzerinfo
+  if (!user) return -1;
 
-```python
-def calculate_discounted_price(age, price):
-    ADULT_AGE_THRESHOLD = 20
-    DISCOUNT_RATE = 0.9
+  const ADULT_AGE = 18;
+  const PREMIUM_TYPE = 'P';
 
-    if age >= ADULT_AGE_THRESHOLD:
-        print("성인입니다.")
-        return price * DISCOUNT_RATE
+  // Kostenlos für Minderjährige
+  if (user.a <= ADULT_AGE) {
+    return 0;
+  }
 
-    print("학생입니다.")
-    return price
+  // Wende Erwachsenen-Preispolitik an
+  const isPremium = user.t === PREMIUM_TYPE;
+  return isPremium ? 100 : 50;
+}
 ```
-
-**[Verbesserungspunkte]**
-
-1. **Funktionsnamensänderung**: `calc` -> `calculate_discounted_price` (Es wird klar, dass ein rabattierter Preis berechnet wird)
-2. **Magic Numbers entfernt**: Zahlen wie `19`, `0.9` als Konstanten deklariert, um ihnen Bedeutung zu verleihen.
-3. **Unnötiges else entfernt**: Early Return Pattern verwendet, um die Einrückungstiefe zu verringern.
-
----
-
-## 💡 Kommentar des Autors (Insight)
-
-Dieser Prompt konzentriert sich auf die praktische Anwendbarkeit, die sofort in der Praxis eingesetzt werden kann.
-Wenn das Ergebnis nicht zufriedenstellend ist, versuche, die Eingabevariablen oder die Situation (Context) etwas konkreter festzulegen.
-
----
-
-## 🙋 Häufig gestellte Fragen (FAQ)
-
-**F. Das Ergebnis gefällt mir nicht.**
-A. Füge konkrete Beispiele hinzu oder beschreibe die Situation (Context) detaillierter.
-
-**F. Ist das auch in anderen Sprachen möglich?**
-A. Ja, das ist möglich, indem du die Anweisungen des Prompts in die entsprechende Sprache übersetzt.
 
 ---
 
 ## 🎯 Fazit
 
-Gut geschriebener Code liest sich so flüssig wie ein gut geschriebener Essay. Reinige deinen Code für dein zukünftiges Ich (und deine Kollegen).
+Hören Sie auf, Zeit mit dem Kampf gegen Spaghetti-Code zu verschwenden. Mit diesem einzigen Prompt kann Ihr Code immer so sauber gehalten werden, als wäre er von einem 'Senior Entwickler' geprüft worden.
 
-Jetzt mach Feierabend und geh duschen. Deinen Körper, nicht den Code. 🍷
+Gehen Sie heute früher nach Hause! 🍷

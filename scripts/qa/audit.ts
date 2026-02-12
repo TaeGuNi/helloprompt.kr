@@ -84,9 +84,14 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
 
     // 4. Localization Check (Non-Korean)
     if (!isKorean) {
-      // Heuristic: If more than 5 distinct Korean words are found, it's likely a bad translation.
+      // Exclude frontmatter from the check
+      const parts = content.split("---");
+      const bodyContent =
+        parts.length >= 3 ? parts.slice(2).join("---") : content;
+
+      // Heuristic: If more than 5 distinct Korean words are found in the body, it's likely a bad translation.
       const koMatches =
-        content.match(new RegExp(CHECKS.KOREAN_TEXT, "g")) || [];
+        bodyContent.match(new RegExp(CHECKS.KOREAN_TEXT, "g")) || [];
       if (koMatches.length > 5) {
         issues.push({
           code: "LOC_KOREAN_REMAINS",

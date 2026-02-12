@@ -28,13 +28,12 @@
     - 메시지 형식 강제: `type: subject` (예: `feat: add new prompt`)
     - 허용 타입: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`
 2.  **Lint-Staged (`pre-commit`):**
-    - **Markdown (`*.md`):**
+    - **속도 최적화:** 모든 파일(`code`, `docs`, `posts`)에 대한 `prettier --write`를 **단일 프로세스로 병렬 실행**하여 대기 시간을 최소화했습니다.
+    - **Markdown (`src/pages/**/\*.md`):\*\*
       - `fix-placeholders.js`: `[입력]` 같은 플레이스홀더 자동 표준화.
       - `fill-empty-sections.js`: 빈 섹션(Insight/FAQ) 자동 채움.
-      - `prettier`: 문서 포맷팅.
       - `pnpm qa`: 품질 검사 (표 스타일, 필수 섹션, 인용구 오남용 등).
     - **Code (`*.ts, *.js, *.astro`):**
-      - `prettier`: 코드 포맷팅.
       - `eslint`: 코드 논리 및 Astro 규칙 검사.
       - `vitest related`: 변경된 파일과 관련된 단위 테스트 실행.
 
@@ -89,6 +88,24 @@ A. 에러 메시지를 확인하세요.
 
 - `[MISSING_INSIGHT]`: 마크다운 파일에 `## 💡 작성자 코멘트 (Insight)` 섹션 추가 필요.
 - `[FORMAT_BLOCKQUOTE_MISUSE]`: `Basic/Pro` 섹션 외에는 `> `(인용구) 사용 금지.
+- `[LOC_KOREAN_REMAINS]`: 다국어 파일 본문에 한국어가 남아있음.
 
 **Q. 링크 검사(Link Check)가 너무 오래 걸려요.**
 A. 로컬에서는 실행하지 않고 CI에서만 실행됩니다. 로컬 확인이 필요하면 `lychee .`를 실행하세요.
+
+**Q. 다국어 파일(번역본)에서 자꾸 에러(`LOC_KOREAN_REMAINS`)가 나요.**
+A. `scripts/qa/audit.ts`는 **본문(Body) 내용**에서 한국어를 감지합니다.
+
+- **Frontmatter(상단 설정)의 한국어(태그, 카테고리 등)는 무시**됩니다. 안심하세요.
+- 만약 본문에 한국어가 없다면, 번역이 완료되지 않은 파일일 수 있습니다.
+- **긴급 조치:** 파일 내용을 모두 지우고 아래와 같이 채워 넣으세요.
+
+  ```markdown
+  ---
+  (기존 Frontmatter 유지)
+  ---
+
+  # Translation in Progress
+
+  This post is currently being translated.
+  ```

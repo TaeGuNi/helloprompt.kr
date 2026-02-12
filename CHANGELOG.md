@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.2...v1.5.3) (2026-02-12)
+
+### Bug Fixes
+
+- restore multilingual files and update audit script to ignore frontmatter ([5e31065](https://github.com/TaeGuNi/helloprompt.kr/commit/5e31065a37b75ea15283618bf75913863f426540))
+
+### [1.5.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.1...v1.5.2) (2026-02-12)
+
+### Bug Fixes
+
+- escape quotes in markdown frontmatter description ([2a30371](https://github.com/TaeGuNi/helloprompt.kr/commit/2a3037133e33371b98c2af00fea0b4fc73c38886))
+
+### [1.5.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.0...v1.5.1) (2026-02-12)
+
+### Bug Fixes
+
+- **content:** resolve broken links in blog posts ([5e41322](https://github.com/TaeGuNi/helloprompt.kr/commit/5e413223381937ae94d49bcc9ddd0415f87cb4be))
+
+## [1.5.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.4.0...v1.5.0) (2026-02-11)
+
+### Features
+
+- **content:** add 5 dawn rush posts for 2026-02-12 ([67e3759](https://github.com/TaeGuNi/helloprompt.kr/commit/67e37590e7acc7fa982c953f182df67092c9afe7))
+- **content:** add 5 new prompt templates (Dawn Rush Mode) ([4d2502e](https://github.com/TaeGuNi/helloprompt.kr/commit/4d2502ed8485237475176a228e6fde5065378c7e))
+- **content:** add/update ai-email-drafter ([e472e6b](https://github.com/TaeGuNi/helloprompt.kr/commit/e472e6bfdf4ced7a97ac287ee61b635edfbcb047))
+- **content:** add/update analyze-dreams-with-ai ([0a97c3e](https://github.com/TaeGuNi/helloprompt.kr/commit/0a97c3e44c4c681a997839d456ee4c27699c7ebb))
+- **content:** add/update code-review-assistant ([93f6415](https://github.com/TaeGuNi/helloprompt.kr/commit/93f64154dd6b1d5efebdcbb344f7fd9442cb2588))
+- **content:** add/update dawn-rush-5-posts ([189256d](https://github.com/TaeGuNi/helloprompt.kr/commit/189256d4282ff533859b651e46e36c6b57db2268))
+- **content:** add/update dawn-rush-batch-5 ([b435a60](https://github.com/TaeGuNi/helloprompt.kr/commit/b435a60dd3941870c1312a15edb757f2c7a21b2b))
+- **content:** add/update meeting-minutes-generator ([852f6c4](https://github.com/TaeGuNi/helloprompt.kr/commit/852f6c4551097164be5274dc7ea8fa6a26f866bf))
+- **content:** add/update morning-meditation-developers ([d7566ca](https://github.com/TaeGuNi/helloprompt.kr/commit/d7566ca6bfbc6ddea6bfb88b234bb9590f6ad40e))
+- **content:** add/update morning-news-summarizer ([7718089](https://github.com/TaeGuNi/helloprompt.kr/commit/77180898894ae68ef4d5fbf3d5a3d9f3048e9203))
+- **content:** add/update productivity-before-sunrise ([59eaad7](https://github.com/TaeGuNi/helloprompt.kr/commit/59eaad7d0ddb266bcb2a29cc3c9d9eb5a05b9202))
+- **content:** add/update science-of-miracle-mornings ([81dda13](https://github.com/TaeGuNi/helloprompt.kr/commit/81dda136636ce2853704902aee23eac01c2447df))
+- **content:** add/update todo-list-prioritizer ([56e6837](https://github.com/TaeGuNi/helloprompt.kr/commit/56e6837d265936bd3901fe681fd629f2af60d71a))
+- **content:** add/update topic-mining-dawn-batch ([b81a537](https://github.com/TaeGuNi/helloprompt.kr/commit/b81a537aa828dd3cbbdbfcfd4f51d59c049a885d))
+- **content:** add/update why-4am-is-golden ([a90695b](https://github.com/TaeGuNi/helloprompt.kr/commit/a90695b68cddbe079d101ce11d6f0250ca4ff41c))
+- **content:** manual deploy of morning prompts ([583ba36](https://github.com/TaeGuNi/helloprompt.kr/commit/583ba3632485a71b5b36460be79a79fa1e6f6250))
+
 ## [1.4.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.3.0...v1.4.0) (2026-02-11)
 
 ### Features

@@ -151,9 +151,9 @@
         newPath += parts.join("/");
 
         // [Analytics] Track Language Change
-        // @ts-ignore
+        // @ts-expect-error -- External script
         if (typeof window.gtag === "function") {
-          // @ts-ignore
+          // @ts-expect-error -- External script
           window.gtag("event", "change_language", {
             event_category: "i18n",
             event_label: targetLang || "ko",

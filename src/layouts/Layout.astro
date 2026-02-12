@@ -921,7 +921,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         tocLinks.forEach((link) => {
           link.addEventListener("click", (e) => {
             const target = e.target;
-            // @ts-ignore
+            // @ts-expect-error -- External script
             const sectionName = target.innerText || target.textContent;
             trackEvent("click_toc", {
               section_heading: sectionName,
@@ -935,7 +935,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         tagBadges.forEach((tag) => {
           tag.addEventListener("click", (e) => {
             const target = e.target;
-            // @ts-ignore
+            // @ts-expect-error -- External script
             const tagName = target.innerText || target.textContent;
             trackEvent("click_tag", {
               tag_name: tagName,

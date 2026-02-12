@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "백엔드 API가 아직 안 나왔나요?" 걱정 마세요. AI에게 스키마만 알려주면 리얼한 더미 데이터(Mock Data)를 수백 개 생성해 줍니다. Faker.js보다 빠릅니다.
+description: '"백엔드 API가 아직 안 나왔나요?" 걱정 마세요. AI에게 스키마만 알려주면 리얼한 더미 데이터(Mock Data)를 수백 개 생성해 줍니다. Faker.js보다 빠릅니다.'
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 
@@ -29,6 +29,7 @@ tags: [Frontend, Testing, JSON, Mocking, AI]
 프론트엔드 UI 테스트를 위한 더미 데이터(JSON)를 생성해 주세요.
 
 **데이터 구조 (Schema):**
+
 - `id`: UUID
 - `username`: 실제 사람 같은 영문 닉네임
 - `email`: 다양한 도메인(@gmail.com, @kakao.com 등)
@@ -37,6 +38,7 @@ tags: [Frontend, Testing, JSON, Mocking, AI]
 - `createdAt`: 최근 1년 이내의 랜덤 날짜 (ISO 8601 포맷)
 
 **요청 사항:**
+
 1. 위 구조를 가진 객체 **10개**를 배열(`[]`)로 만들어 주세요.
 2. 한국어와 영어를 적절히 섞어서 자연스럽게 만들어 주세요.
 3. 데이터의 현실성을 높여주세요 (예: 너무 긴 이름, 특이한 이메일 포함).

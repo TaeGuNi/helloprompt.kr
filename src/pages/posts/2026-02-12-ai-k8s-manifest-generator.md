@@ -28,6 +28,7 @@ tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 나는 쿠버네티스 엔지니어입니다. 아래 요구사항에 맞는 K8s YAML 매니페스트 파일을 작성해 주세요.
 
 **애플리케이션 정보:**
+
 - **이름:** [예: my-web-app]
 - **이미지:** [예: nginx:latest]
 - **포트:** [예: 80]
@@ -35,6 +36,7 @@ tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 - **기타 요구사항:** [예: LoadBalancer 서비스 필요, 환경변수 ENV=production 설정]
 
 **요청 사항:**
+
 1. **Deployment & Service:** 표준적인 Deployment와 Service 리소스를 하나의 YAML로 작성해 주세요(구분자 `---` 사용).
 2. **Best Practices:** Liveness/Readiness Probe를 적절한 기본값으로 추가해 주세요.
 3. **Resource Limits:** CPU/Memory 리소스 제한(Requests/Limits)을 보수적인 값으로 예시를 넣어주세요.

@@ -1,64 +1,65 @@
 ---
+import type { Page } from "astro";
 import Layout from "../layouts/Layout.astro";
-import type { Post } from "../utils/postUtils";
 import { formatDate } from "../utils/dateUtils";
 import Search from "../components/Search.astro";
+import { getCollection } from "astro:content";
 
-interface Page<T = Post> {
-  data: T[];
-  start: number;
-  end: number;
-  total: number;
-  currentPage: number;
-  size: number;
-  lastPage: number;
-  url: {
-    current: string;
-    prev: string | undefined;
-    next: string | undefined;
+export const prerender = true;
+
+interface FormattedPost {
+  frontmatter: {
+    title: string;
+    description?: string;
+    date: string;
+    tags?: string[];
   };
+  url: string;
 }
 
-interface GetStaticPathsOptions {
-  paginate: (data: Post[], options: { pageSize: number }) => unknown[];
+interface Props {
+  page: Page<FormattedPost>;
 }
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  // 1. 한국어 포스트만 가져오기 (eager load)
-  const krPosts = Object.values(
-    import.meta.glob("./posts/*.md", { eager: true }),
-  ) as Post[];
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export async function getStaticPaths({ paginate }: { paginate: any }) {
+  const allPosts = await getCollection("posts");
+  const krPosts = allPosts.filter((p) => p.id.startsWith("ko/"));
 
-  // 2. 날짜순 정렬
   const sortedPosts = krPosts.sort(
-    (a, b) =>
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf(),
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
   );
 
-  // 3. 페이지네이션 (루트 경로 /)
-  return paginate(sortedPosts, { pageSize: 12 });
+  const formattedPosts = sortedPosts.map((post) => ({
+    frontmatter: {
+      ...post.data,
+      date: new Date(post.data.date).toISOString(),
+      tags: post.data.tags,
+    },
+    url: `/posts/${post.id.replace(/^ko\//, "").replace(/\.md$/, "")}`,
+  }));
+
+  return paginate(formattedPosts, { pageSize: 12 });
 }
 
-const { page } = Astro.props as { page: Page<Post> };
+const { page } = Astro.props;
 
 // --- 태그 집계 로직 추가 ---
-const allPosts = Object.values(
-  import.meta.glob("./posts/*.md", { eager: true }),
-) as Post[];
+const allPostsForTags = await getCollection("posts");
+const krPostsForTags = allPostsForTags.filter((p) => p.id.startsWith("ko/"));
 
 const tagCounts: Record<string, number> = {};
-allPosts.forEach((post) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag) => {
+krPostsForTags.forEach((post) => {
+  if (post.data.tags) {
+    post.data.tags.forEach((tag) => {
       tagCounts[tag] = (tagCounts[tag] || 0) + 1;
     });
   }
 });
 
 const popularTags = Object.entries(tagCounts)
-  .sort(([, a], [, b]) => b - a) // 빈도수 내림차순 정렬
-  .slice(0, 10) // 상위 10개만 추출
+  .sort(([, a], [, b]) => b - a)
+  .slice(0, 10)
   .map(([tag]) => tag);
 
 const frontmatter = {
@@ -93,12 +94,6 @@ const frontmatter = {
       </div>
     </div>
   </div>
-
-  <style is:global>
-    /* ... (기존 검색 스타일 유지) ... */
-
-    /* Post Grid & Other Styles will remain, but search styles are removed as they are now in the component */
-  </style>
 
   <!-- POST LIST (Card Grid Style) -->
   <div class="grid-label">

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.0...v1.5.1) (2026-02-12)
+
+### Bug Fixes
+
+- **content:** resolve broken links in blog posts ([5e41322](https://github.com/TaeGuNi/helloprompt.kr/commit/5e413223381937ae94d49bcc9ddd0415f87cb4be))
+
 ## [1.5.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.4.0...v1.5.0) (2026-02-11)
 
 ### Features

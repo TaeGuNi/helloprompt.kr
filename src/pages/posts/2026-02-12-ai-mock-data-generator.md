@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "백엔드 API가 아직 안 나왔나요?" 걱정 마세요. AI에게 스키마만 알려주면 리얼한 더미 데이터(Mock Data)를 수백 개 생성해 줍니다. Faker.js보다 빠릅니다.
+description: '"백엔드 API가 아직 안 나왔나요?" 걱정 마세요. AI에게 스키마만 알려주면 리얼한 더미 데이터(Mock Data)를 수백 개 생성해 줍니다. Faker.js보다 빠릅니다.'
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 

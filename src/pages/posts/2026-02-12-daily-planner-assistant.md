@@ -32,3 +32,12 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 
 **Copy & Paste Prompt:**
+
+### 💡 작성자 코멘트 (Insight)
+
+AI를 활용하여 효율성을 극대화하세요.
+
+### 🙋 자주 묻는 질문 (FAQ)
+
+- **Q: 이 프롬프트는 무료인가요?**
+  - A: 네, 무료로 사용할 수 있습니다.

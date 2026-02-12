@@ -52,19 +52,15 @@
     "workbox-window": "^7.4.0"
   },
   "lint-staged": {
-    "*.{js,ts,astro,json,cjs,mjs,css,html,yaml,yml}": [
+    "*.{js,ts,astro,json,cjs,mjs,css,html,yaml,yml,md}": [
       "prettier --write"
     ],
     "*.{js,ts}": [
       "vitest related --run"
     ],
-    "{README.md,docs/**/*.md}": [
-      "prettier --write"
-    ],
     "src/pages/**/*.md": [
       "node scripts/fix-placeholders.js",
       "node scripts/fill-empty-sections.js",
-      "prettier --write",
       "pnpm qa"
     ]
   }

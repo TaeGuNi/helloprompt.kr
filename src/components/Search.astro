@@ -270,7 +270,7 @@ const { variant = "hero" } = Astro.props;
     }
 
     const fragment = document.createDocumentFragment();
-    const trackEvent = (action, params) => {
+    const trackEvent = (action: string, params: Record<string, unknown>) => {
       // @ts-expect-error -- External script
       if (typeof window.gtag === "function") {
         // @ts-expect-error -- External script

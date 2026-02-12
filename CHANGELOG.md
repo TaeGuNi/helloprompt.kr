@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.2...v1.5.3) (2026-02-12)
+
+### Bug Fixes
+
+- restore multilingual files and update audit script to ignore frontmatter ([5e31065](https://github.com/TaeGuNi/helloprompt.kr/commit/5e31065a37b75ea15283618bf75913863f426540))
+
 ### [1.5.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.1...v1.5.2) (2026-02-12)
 
 ### Bug Fixes

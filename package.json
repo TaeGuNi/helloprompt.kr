@@ -16,15 +16,18 @@
     "content:fix": "node scripts/fix-placeholders.js && node scripts/fill-empty-sections.js",
     "test": "vitest run",
     "test:e2e": "playwright test",
+    "test:lighthouse": "playwright test tests/lighthouse.spec.ts",
     "release": "npx tsx scripts/release.ts",
     "prepare": "husky"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/vercel": "^9.0.4",
+    "@pagefind/default-ui": "^1.4.0",
     "@vercel/og": "^0.8.6",
     "astro": "^5.17.1",
-    "fuse.js": "^7.1.0"
+    "pagefind": "^1.4.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
@@ -40,7 +43,9 @@
     "glob": "^13.0.1",
     "html-validate": "^10.7.0",
     "husky": "^9.1.7",
+    "lighthouse": "^13.0.3",
     "lint-staged": "^16.2.7",
+    "playwright-lighthouse": "^4.0.0",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "rehype-rewrite": "^4.0.4",

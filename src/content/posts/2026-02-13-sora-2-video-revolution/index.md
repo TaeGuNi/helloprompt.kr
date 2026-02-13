@@ -59,7 +59,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > You are a professional commercial film director.
 >
 > **Task**
-> Create a luxurious 10-second commercial video for a new high-end perfume brand called 'Midnight Bloom'.
+> Create a luxurious [Target Duration: 10-second] commercial video for a new [Product Category: high-end perfume brand] called '[Brand Name: Midnight Bloom]'.
 >
 > **Format**
 > - High resolution, photorealistic 8k video.
@@ -79,12 +79,12 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > You are an award-winning cinematographer specializing in sci-fi genres.
 >
 > **Context**
-> - **Genre:** Cyberpunk / Sci-Fi
-> - **Setting:** A rainy neon-lit street in Neo-Seoul, year 2050.
-> - **Subject:** A humanoid robot looking at a stray cat with curiosity.
+> - **Genre:** [Genre: Cyberpunk / Sci-Fi]
+> - **Setting:** [Setting: A rainy neon-lit street in Neo-Seoul, year 2050].
+> - **Subject:** [Character: A humanoid robot looking at a stray cat with curiosity].
 >
 > **Task**
-> Create a 15-second cinematic sequence with the following camera movements:
+> Create a [Duration: 15-second] cinematic sequence with the following camera movements:
 > 1. Start with a **Low Angle Shot** focusing on the robot's boots stepping into a puddle.
 > 2. Smoothly **Tilt Up** to reveal the robot's face.
 > 3. Perform a **Dolly In** towards the robot's eyes as it notices the cat.
@@ -106,7 +106,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > You are a visual artist specializing in abstract 3D motion graphics.
 >
 > **Task**
-> Generate a mesmerizing loop video representing the concept of 'Time and Memory'.
+> Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
 >
 > **Visuals**
 > - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.

@@ -137,7 +137,7 @@ What surprised me most while using Sora 2.0 is the **'Revival of Directing'**. I
 
 <!-- ⚠️ [Lint Rule] Recommended section. Warning occurs if missing. -->
 
-## 🙋 FAQ
+## 🙋 FAQ {#faq}
 
 - **Q: Are there copyright issues?**
   - A: Copyright for generated videos depends on the platform policy, but commercial use is generally allowed. However, avoid imitating specific individuals or brands (IP).

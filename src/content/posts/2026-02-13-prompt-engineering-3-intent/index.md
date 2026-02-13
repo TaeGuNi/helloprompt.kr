@@ -8,7 +8,7 @@ categories: ["Prompt Engineering", "Advanced"]
 tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 ---
 
-# 🎯 프롬프트 엔지니어링 3.0: 의도(Intent)가 곧 명령이다
+# 🎯 프롬프트 엔지니어링 3.0: 의도(Intent)가 곧 명령이다 {#intent}
 
 > _"GPT-3 시절의 복잡한 주문(Spell)은 잊으세요. 이제는 감독(Director)처럼 지시할 때입니다."_
 
@@ -26,7 +26,7 @@ tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 
 ---
 
-## 🚀 실전 프롬프트: 의도 정제기 (Intent Refiner)
+## 🚀 실전 프롬프트: 의도 정제기 (Intent Refiner) {#intent-refiner}
 
 여러분의 모호하거나 장황한 지시사항을 입력하면, AI가 명확한 의도를 담은 최적의 프롬프트로 바꿔줍니다.
 
@@ -52,7 +52,7 @@ tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 프롬프트 3.0의 핵심은 **'AI를 동료로 대우하는 태도'**입니다.
 

@@ -54,7 +54,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 

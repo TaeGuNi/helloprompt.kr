@@ -54,7 +54,7 @@ tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 소버린 AI는 단순한 기술 트렌드가 아니라 **'디지털 권리장전'**입니다.
 

@@ -26,7 +26,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 ---
 
-## 🚀 실전 프롬프트: UI 컴포넌트 생성기
+## 🚀 실전 프롬프트: UI 컴포넌트 생성기 {#prompt}
 
 생성형 UI 시스템을 구축하거나, 디자인 시안을 빠르게 잡을 때 사용할 수 있는 프롬프트입니다.
 
@@ -55,7 +55,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 생성형 UI는 디자이너의 일자리를 뺏는 것이 아니라, **'패턴 라이브러리(Pattern Library)'의 중요성**을 높입니다.
 

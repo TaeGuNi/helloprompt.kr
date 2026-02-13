@@ -26,7 +26,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기
+## 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기 {#prompt}
 
 여러분이 작성한(혹은 AI가 초안을 쓴) 기사가 윤리적으로 문제가 없는지 점검해주는 프롬프트입니다.
 
@@ -54,7 +54,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 

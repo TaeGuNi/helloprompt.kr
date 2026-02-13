@@ -26,7 +26,7 @@ tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 
 ---
 
-## 🚀 실전 프롬프트: 로컬 LLM 개인비서
+## 🚀 실전 프롬프트: 로컬 LLM 개인비서 {#prompt}
 
 오픈소스 로컬 모델(Llama 3, Mistral 등)을 설치하여 내 PC에서 안전하게 구동할 때 사용할 수 있는 시스템 프롬프트입니다.
 
@@ -54,7 +54,7 @@ tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 소버린 AI는 단순한 기술 트렌드가 아니라 **'디지털 권리장전'**입니다.
 

@@ -51,7 +51,7 @@ Sora 2.0 has evolved beyond a simple video generator into a 'World Simulator'.
 
 <!-- ⚠️ [Lint Rule] Blockquotes (>) are converted to prompt boxes only in this section (Prompt). -->
 
-### 🥉 Basic Version (Product Commercial)
+### 🥉 Basic Version (Product Commercial) {#product-commercial}
 
 Use this when you need a high-quality product teaser video quickly.
 
@@ -71,7 +71,7 @@ Use this when you need a high-quality product teaser video quickly.
 
 <br>
 
-### 🥇 Pro Version (Cinematic Storytelling)
+### 🥇 Pro Version (Cinematic Storytelling) {#cinematic-storytelling}
 
 Suitable for short-form content requiring specific camera work and storytelling.
 
@@ -98,7 +98,7 @@ Suitable for short-form content requiring specific camera work and storytelling.
 
 <br>
 
-### 🎨 Creative Version (Abstract Art Video)
+### 🎨 Creative Version (Abstract Art Video) {#abstract-art-video}
 
 Try using this for music video backgrounds or artistic intro videos.
 

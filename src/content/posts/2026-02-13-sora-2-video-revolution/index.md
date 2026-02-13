@@ -47,7 +47,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 
 ---
 
-## 🎨 실전 프롬프트 가이드 (Prompt Engineering)
+## 🎨 실전 프롬프트 가이드 (Prompt Engineering) {#prompt-engineering}
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
@@ -124,7 +124,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 
 <!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 Sora 2.0을 써보며 가장 놀라웠던 점은 **'디렉팅의 부활'**입니다. 1.0 버전이 랜덤 박스에 가까웠다면, 2.0은 감독(사용자)의 의도를 꽤 정확하게 반영합니다.
 

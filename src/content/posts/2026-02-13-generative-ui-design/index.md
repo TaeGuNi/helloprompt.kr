@@ -8,7 +8,7 @@ categories: ["UI/UX Design", "Generative AI"]
 tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 ---
 
-# 🎨 생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래
+# 🎨 생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래 {#generative-ui}
 
 > _"모든 사용자가 똑같은 화면을 봐야 할까요? 이제 UI도 '개인화'를 넘어 '실시간 생성'의 시대로 진입합니다."_
 
@@ -55,7 +55,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 ---
 
-## 💡 작성자 코멘트 (Writer's Insight)
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 생성형 UI는 디자이너의 일자리를 뺏는 것이 아니라, **'패턴 라이브러리(Pattern Library)'의 중요성**을 높입니다.
 

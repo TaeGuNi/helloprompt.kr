@@ -13,7 +13,7 @@ OpenAI 今天正式推出了**GPT-5.3 Codex Spark**，这是一款专为开发�
 
 ## 主要特点
 
-### 1. 超低延迟 (Ultra-Low Latency)
+### 1. 超低延迟 (Ultra-Low Latency) {#ultra-low-latency}
 Codex Spark 名副其实，拥有**低于 15ms 的延迟**。这意味着它可以配合开发者的打字速度实时提供代码建议，无需再等待 AI 响应。
 
 ### 2. 项目级上下文感知

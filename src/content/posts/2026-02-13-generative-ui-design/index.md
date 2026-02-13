@@ -18,7 +18,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Intent-Driven:** 사용자의 '행동'이 아닌 '의도'가 UI를 결정합니다.
 2.  **Dynamic Component:** 고정된 템플릿 없이, AI가 컴포넌트를 실시간으로 조합(Compose)합니다.

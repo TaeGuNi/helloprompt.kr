@@ -18,7 +18,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Trust but Verify:** AI가 생성한 모든 사실(Fact)은 반드시 교차 검증해야 합니다.
 2.  **Bias Awareness:** AI는 학습 데이터의 편향을 그대로 반영할 수 있음을 인지하고, 이를 탐지하는 프로세스를 갖춰야 합니다.

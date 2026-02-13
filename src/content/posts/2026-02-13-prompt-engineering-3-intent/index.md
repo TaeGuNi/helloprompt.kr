@@ -18,7 +18,7 @@ tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Less is More:** 불필요한 수식어는 빼고, 핵심 의도(Core Intent)에 집중하세요.
 2.  **Context is King:** 배경 정보(맥락)를 충분히 제공하면, 지시는 짧아도 결과는 완벽합니다.

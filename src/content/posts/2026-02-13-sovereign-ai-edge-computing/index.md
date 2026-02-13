@@ -18,7 +18,7 @@ tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Privacy First:** 데이터가 외부 서버로 전송되지 않아 해킹이나 유출 위험이 제로에 가깝습니다.
 2.  **Zero Latency:** 네트워크 지연 없이 즉각적인(Real-time) 반응 속도를 제공합니다.

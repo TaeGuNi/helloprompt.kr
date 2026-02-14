@@ -1,0 +1,87 @@
+{
+  "model_name": "SkinMicrobiomeDigitalTwin",
+  "version": "1.1.0",
+  "last_updated": "2026-02-14T18:30:00+09:00",
+  "status": "OPTIMIZED_DRAFT",
+  "description": "Computational model for predicting skin barrier states based on microbiome and biophysical markers.",
+  "parameters": {
+    "biophysical_markers": [
+      {
+        "id": "ph_surface",
+        "name": "Surface pH",
+        "optimal_range": [4.7, 5.5],
+        "threshold_warning_high": 5.8,
+        "impact": "High pH increases protease activity and S. aureus adhesion.",
+        "unit": "pH"
+      },
+      {
+        "id": "tewl",
+        "name": "Transepidermal Water Loss",
+        "optimal_range_face": [5, 15],
+        "threshold_critical": 25,
+        "unit": "g/m²/h"
+      },
+      {
+        "id": "lipid_peroxidation",
+        "name": "Lipid Peroxidation (SQOOH)",
+        "description": "Squalene monohydroperoxide level indicating oxidative stress.",
+        "unit": "mass_ratio"
+      }
+    ],
+    "microbial_markers": [
+      {
+        "id": "shannon_diversity",
+        "name": "Alpha Diversity (Shannon Index)",
+        "optimal_target": "> 2.5",
+        "description": "Higher diversity correlates with barrier resilience."
+      },
+      {
+        "id": "s_aureus_abundance",
+        "name": "S. aureus Relative Abundance",
+        "threshold_critical": 0.05,
+        "risk": "Flare trigger for Atopic Dermatitis."
+      },
+      {
+        "id": "c_acnes_balance",
+        "name": "C. acnes Phylotype Ratio (IA1 vs II/III)",
+        "optimal_ratio": "< 1.0",
+        "description": "Predominance of Phylotype IA1 correlates with inflammatory acne."
+      },
+      {
+        "id": "s_epidermidis_activity",
+        "name": "S. epidermidis Esp Secretion",
+        "function": "Inhibits S. aureus biofilm formation."
+      }
+    ],
+    "predictive_outputs": [
+      {
+        "condition": "Rosacea Flare",
+        "prediction_horizon_hours": 72,
+        "signals": ["vascular_dilation", "demodex_density > 5/cm²"],
+        "confidence_score_required": 0.85
+      },
+      {
+        "condition": "Atopic Dermatitis Flare",
+        "prediction_horizon_hours": 48,
+        "signals": [
+          "ph_surface > 5.8",
+          "s_aureus_abundance > 0.1",
+          "shannon_diversity < 2.0"
+        ]
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "prebiotic",
+      "target": "s_epidermidis",
+      "mechanism": "Selective fermentation to increase antimicrobial peptide production."
+    },
+    {
+      "type": "postbiotic",
+      "agent": "Lactobacillus ferment lysate",
+      "mechanism": "Barrier reinforcement via tight junction upregulation."
+    }
+  ],
+  "validation_status": "pending_clinical_verification"
+}

@@ -1,0 +1,36 @@
+{
+  "model_id": "PN-REGEN-2026-v1",
+  "concept": "High-Concentration Polynucleotide (PN) Matrix for Deep Tissue Repair",
+  "domain": "Dermatology / Tissue Engineering",
+  "target_receptor": "Adenosine A2A Receptor",
+  "mechanism": {
+    "molecular_action": "Purine salvage pathway activation; Adenosine A2A receptor agonism",
+    "delivery_vector": "High-viscosity PN gel (20mg/mL)",
+    "biological_effects": [
+      "VEGF induction (Angiogenesis)",
+      "Fibroblast migration and proliferation",
+      "Extracellular matrix (ECM) synthesis enhancement"
+    ]
+  },
+  "predicted_outcomes": {
+    "skin_thickness": "+15-20% after 4 sessions",
+    "elasticity": "Improved biomechanical properties",
+    "hydration": "Increased due to hydrophilic nature of PN"
+  },
+  "safety_profile": {
+    "immunogenicity": "Extremely Low (purified DNA, no proteins)",
+    "biocompatibility": "High (homologous to human DNA structure)"
+  },
+  "clinical_relevance": {
+    "indications": [
+      "Thinning skin (under-eye, neck)",
+      "Chronic inflammation",
+      "Wound healing",
+      "Hair loss (PDRN variant)"
+    ],
+    "synergy": "High potential with non-crosslinked HA or Exosomes"
+  },
+  "status": "Internal Synthesis / Supplemental Model",
+  "validation_required": true,
+  "timestamp": "2026-02-14T18:18:00+09:00"
+}

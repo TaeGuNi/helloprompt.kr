@@ -57,3 +57,28 @@ _New Concept:_ **"Secure Your Appointment"**
 
 - **Deleted:** "110% Price Match", "Hurry Up", "Limited Time Offer".
 - **Added:** "Diagnosis", "Protocol", "Prescription", "Logic Transparency", "Secure Slot", "Pre-care".
+
+## 4. V2 Upgrade: Cellular Senescence & RLHF (2026.02.14)
+
+### A. Senolytics Integration (Longevity Science)
+
+The algorithm now distinguishes between "Surface Aging" (dryness, fine lines) and "Cellular Senescence" (deep wrinkles, structural laxity).
+
+- **New Logic:** If `Age > 35` AND `Symptom == Deep Wrinkles`, trigger **Senolytics Protocol**.
+- **Recommendation:**
+  - **Topical:** Fisetin, Quercetin (Senolytics) / Apigenin (Senomorphics).
+  - **Clinical:** Exosome Therapy (to replace cleared cells) + RF Microneedling.
+
+### B. Self-Reinforcement Learning (Safety First)
+
+To prevent "Hallucinated Cures" or "Aggressive Actives" for sensitive skin:
+
+- **RLHF Loop:** Every recommendation is virtually "scored" against a Dermatologist Reward Table.
+- **Safety Rule:** `High Risk` actives (Retinol > 0.5%, High % AHA) on `Sensitive` skin receive a **Negative Reward (-1.0)**.
+- **Result:** The system automatically converges on "Bakuchiol" or "PHA" for these users without explicit hard-coding, purely through safety optimization.
+
+### C. Zero Image Policy (Strict Enforcement)
+
+- **Input:** Text-only questionnaires.
+- **Output:** Text-based diagnosis.
+- **Constraint:** "No Camera" UI. All diagnosis relies on the user's articulated symptoms (Text-to-Diagnosis), ensuring 100% privacy and zero biometric data liability.

@@ -1,85 +1,76 @@
-# ALGORITHM_PHASE_4.md - The Logic Canvas (Transparent Mapping)
+# ALGORITHM_PHASE_4: Priority Scoring System
 
-**Owner:** @abba_choi_bot (The Architect)
-**Status:** V1 (De-mystified Black Box)
+## 1. Overview
 
-## 1. Objective
+This phase defines how we rank valid products to surface the "best" options for the user. It moves beyond simple filtering (Phase 2 & 3) into a weighted scoring model that balances efficacy, skin compatibility, aesthetic goals, and budget.
 
-Stop being a "Black Box". Users shouldn't feel like a random algorithm spat out a result. Explain _how_ the connection works. Show the "Canvas" where their data points connect to specific clinical protocols.
+## 2. The Gatekeeper: Safety First
 
-**Single Source of Truth:** `aura-core/data/treatments/master.json`. All logic MUST map to this file. Legacy `data.ts` is deprecated.
+Before any scoring happens, a product **must** pass the Safety Filter.
 
-## 2. Key Reframing
+- **Metric:** Safety Score (Binary)
+- **Rule:** If `Safe == False` (contains prohibited ingredients for user's condition/preference), **Score = 0**. The product is disqualified immediately.
+- **Status:** Pass/Fail.
 
-### A. Transparency Statement (The "Why")
+## 3. Weighted Scoring Formula
 
-_Current Problem:_ User inputs data -> Wait -> Result appears. Magic, but untrustworthy.
-_New Concept:_ **"Visualizing the Connection"**
+For all products that pass the Safety Gatekeeper, calculate the **Total Priority Score (TPS)** (Max 100 points).
 
-- Explicitly state which input drove the decision.
+### Formula
 
-**Script / Flow:**
+$$ TPS = (C \times 0.40) + (B \times 0.30) + (G \times 0.20) + (R \times 0.10) $$
 
-> "수집된 데이터를 바탕으로 최적의 시술 지점을 연결하고 있습니다... (The Logic Canvas)"
->
-> 1. **Mapping Sensitivity:**
->    "고객님은 '통증에 대한 민감도(C타입)'를 보이셨기에, 고통이 수반되는 울쎄라 계열은 배제하고 **무통증 리프팅 라인**으로 범위를 좁혔습니다."
-> 2. **Mapping Skin Barrier:**
->    "또한 T존의 건조함(장벽 약화)이 확인되어, 레이저보다는 **즉각적인 수분 공급과 재생(스킨부스터)**이 우선순위로 매핑되었습니다."
+Where:
 
-### B. The Mapping Visualization (Text-based Logic)
+- **C = Concern Match (0-100):** Efficacy for specific problems (e.g., Acne, Wrinkles).
+- **B = Baumann Match (0-100):** Compatibility with skin type (e.g., Oily, Dry, Sensitive).
+- **G = Goal Match (0-100):** Alignment with aesthetic desires (e.g., "Baby Face", "Glass Skin").
+- **R = Reality/Budget Match (0-100):** alignment with price constraints.
 
-Instead of just showing the result, show the equation.
+### Weight Distribution Rationale
 
-**The Equation Display:**
+| Factor          | Weight  | Rationale                                                                                                                                                                  |
+| :-------------- | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Concern (C)** | **40%** | **Problem Solving is Priority #1.** If a user has acne, clearing it is more important than "looking like a baby" or saving $5. Efficacy drives trust.                      |
+| **Baumann (B)** | **30%** | **Do No Harm.** Even if it fixes acne, if it's too heavy for Oily skin, it causes new problems. High compatibility ensures usability.                                      |
+| **Goal (G)**    | **20%** | **The "Wannabe" Factor.** This differentiates us from a pharmacy. We aren't just treating diseases; we are curating a vibe/outcome.                                        |
+| **Budget (R)**  | **10%** | **The Tie-Breaker.** Important for conversion, but shouldn't override a perfect medical match. A slightly pricier but perfect cure is better than a cheap ineffective one. |
 
-> **[ Diagnosis Logic ]**
->
-> - **Condition:** Loss of Elasticity + High Sensitivity
-> - **Constraint:** Cannot use High-Heat Devices (Pain Fear)
-> - **Solution Space:** {Titanium Lifting, Air Jet, LDM}
-> - **Selected Protocol:** **Titanium Lifting (Mode: SHR)**
->
-> "이 선택은 '효과'와 '편안함'의 교집합에서 도출된 최적의 결론입니다."
+## 4. Scoring Criteria Breakdown
 
-## 4. Input Integration (Phase 3 -> Phase 4)
+### A. Concern Match (40%) - "Does it fix the problem?"
 
-**Condition:** Input from Phase 3 (Diagnosis)
+- **100 pts:** Explicitly targets user's _primary_ concern (e.g., contains Benzoyl Peroxide for Acne).
+- **70 pts:** Targets a _secondary_ concern.
+- **30 pts:** General maintenance/prevention only.
+- **0 pts:** Irrelevant to concerns.
 
-- **Take the `{ Diagnosis_Code }` and visualize it on the Logic Canvas.**
-- If Diagnosis is **"Fragile Barrier with Low Pain Tolerance"**:
-  - **Highlight:** "Sensitivity" axis.
-  - **Connect:** "Low Pain" preference -> "Titanium Lifting".
-  - **Exclude:** "Ulthera" (too painful).
+### B. Baumann Match (30%) - "Is it right for my skin type?"
 
-## 5. Output Handover
+- **100 pts:** Perfect match for all 4 parameters (e.g., ORNT for Oily/Resistant...).
+- **75 pts:** Match for key parameters (Oiliness/Sensitivity), neutral on others.
+- **50 pts:** Neutral/Acceptable (won't hurt, won't maximize help).
+- **25 pts:** Slight mismatch (e.g., slightly too rich for oily skin, use sparingly).
+- **0 pts:** Direct conflict (Filter should have caught this, but if not, score hits 0).
 
-Phase 4 hands over a _justified_ decision to Phase 5.
-`{ Selected_Treatment: "Titanium", Justification: "High Fear + Sagging", Excluded_Treatments: ["Ulthera (Pain)", "InMode (Downtime)"] }`
+### C. Goal Match (20%) - "Does it fit the vibe?"
 
-## 6. BDD Logic Analysis (Test Cases)
+- **100 pts:** Key driver for the goal (e.g., Collagen for "Baby Face", HA for "Glass Skin").
+- **50 pts:** Supporting role (cleanser that preps for the goal).
+- **0 pts:** Neutral.
 
-**Scenario: Safety Exclusion Transparency (Master JSON Check)**
+### D. Budget Match (10%) - "Can I afford it?"
 
-- **Given** Phase 3 Output includes `{ Excluded_For_Safety: "Ulthera" }`
-- **When** Phase 4 renders the Logic Canvas
-- **Then** Display "Exclusion Zone" distinct from "Recommended Zone"
-- **And** Verify `Ulthera` in `master.json` has `contraindications: ["Pregnancy"]`
-- **And** Show message: "울쎄라는 현재 고객님의 컨디션(임신 가능성/통증 민감도)을 고려하여 제외되었습니다."
-- **And** Highlight: "안전(Safety) > 효과(Effect)" prioritization logic.
+- **100 pts:** Under budget.
+- **70 pts:** At budget limit.
+- **40 pts:** Slightly over budget (<15%).
+- **0 pts:** Significantly over budget (>15%).
 
-**Scenario: Skin Barrier Logic (PN vs Exosome)**
+## 5. Consensus & Usage
 
-- **Given** User has "Weak Barrier" and needs "Hydration"
-- **When** Algorithm scans `master.json` for `Rejuran` (PN)
-- **Then** Confirm `Rejuran` is mapped to `goals: ["Hydration", "Repair"]`
-- **And** Recommend `Rejuran` over aggressive treatments (like `Fraxel`)
-- **And** Explain: "장벽 강화와 수분 공급을 위해 리쥬란(PN)이 최적입니다."
-
-**Scenario: Budget/Downtime Logic Check**
-
-- **Given** User prefers "No Downtime" (Zero Bruising)
-- **When** Algorithm considers "InMode FX" (Bruising Risk: High)
-- **Then** Auto-Exclude "InMode FX" from Primary Recommendation
-- **And** Swap with "Titanium Lifting" or "Tuneface" (Zero Downtime)
-- **And** Explain: "일상 생활에 지장이 없는 시술을 최우선으로 선택했습니다."
+- **Sorting:** Display recommendations sorted by **TPS Descending**.
+- **Badges:**
+  - Score > 90: "Perfect Match" 🌟
+  - Score > 80: "Great Choice" ✅
+  - Score > 60: "Good Alternative" 🆗
+- **Feedback Loop:** If a user consistently picks lower-scored items (e.g., buys cheap items despite low efficacy score), the **Budget Weight** adjusts dynamically for that user in Phase 5 (Learning).

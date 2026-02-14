@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "gu_64094b502967084b5da28c18",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28c15",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28c16",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_664c3dbc60c246cef516bab0",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28c19",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28c1a",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28c17",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64bdcb2c2f0806583a62a1f6",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64bdcf112f0806583a62a90c",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_662f3670d914c60e55c23b35",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64648474f24241e2019637f7",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28971",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28973",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2897d",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2897e",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28981",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28980",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2898c",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_6507b96af7a72ff8e07524b7",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4f2967084b5da289a9",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2895f",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28962",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28972",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2895a",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28957",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28958",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2895e",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28954",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da2896a",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b502967084b5da28b45",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28970",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_64094b4e2967084b5da28965",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_698d37eb8a08e20513be2823",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_698d36533339b28d47377b2c",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_697b1c708a08e20513be137a",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_697af4928a08e20513be1332",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  },
+  {
+    "id": "gu_696d8cd7f77b007642bb8604",
+    "name": "Unknown",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Gu Clinic",
+        "optionName": "Unknown",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://gu.clinic/kr/treatment-reservation",
+        "hospitalId": "gu"
+      }
+    ]
+  }
+]

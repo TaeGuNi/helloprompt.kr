@@ -1,79 +1,124 @@
 # ALGORITHM_PHASE_1.md - Safety & Contraindication Screening
 
 **Owner:** @zzabs_bot (The Safety Sentinel)
-**Status:** V1 (Empathic Screening & Care Protocol)
+**Status:** V4 (Unified Linear Flow - No Shortcuts)
 
 ## 1. Objective
 
-Ensure client safety and treatment efficacy by screening for contraindications without creating anxiety or feeling intrusive. Shift from "Interrogation" to "Care Optimization".
+Identify medical contraindications (Pregnancy, Meds, Infection) and lifestyle constraints (Flights, Events) **without blocking the user flow**.
+**Crucial Rule:** We **NEVER skip** to the end. Even if a safety flag is triggered (e.g., Pregnancy), the user still has skin concerns (Phase 2), a skin type (Phase 3), and specific goals (Phase 4).
+We simply activate **"Safety Mode"** (applying strict filters) and proceed linearly to Phase 2.
 
-## 2. Key Reframing
+---
 
-### A. The Approach (Care, Not Police)
+## 2. Step 1: Medical Safety Screen (Explicit Q&A)
 
-_Current Problem:_ "Are you pregnant? Taking Accutane? Recent surgery?" feels like a medical interrogation or liability waiver.
-_New Concept:_ **"Treatment Optimization Context"**
+We must ask these three specific questions to set the safety baseline.
 
-- Frame questions as necessary for _maximizing results_ and _ensuring comfort_, rather than just avoiding lawsuits.
+### Q1. Pregnancy & Nursing (임신/수유)
 
-**Script / Flow:**
+> **Question:** "현재 임신 중이거나 모유 수유 중이신가요?"
+> _("Are you currently pregnant or breastfeeding?")_
 
-> "고객님에게 가장 안전하고 효과적인 시술을 설계하기 위해, 몇 가지 컨디션 체크가 필요합니다. 편안하게 답변해 주세요."
+- **Options:**
+  - [Yes] -> **Activate Flag: `SAFE_MOM`**
+  - [No] -> Proceed
+- **Logic (If Yes):**
+  - **Safety Mode:** ON
+  - **EXCLUDE:** High-Energy Devices (Ulthera, Thermage, Laser), Injectables (Botox, Filler), Anesthetics.
+  - **ALLOW:** LDM (Ultrasound), Oxygen Therapy, Gentle Facials.
+  - **Action:** Tag user as `SAFE_MOM`, **continue to Phase 2 (Concerns).** DO NOT SKIP.
 
-### B. The "Pregnant" Question (Empathy First)
+### Q2. Skin Medication (피부과 약 복용)
 
-_Current Problem:_ "임신 중이신가요?" (Too blunt, binary).
-_New Concept:_ **"Sensitivity & Hormonal Check"**
+> **Question:** "최근 6개월 내에 로아큐탄 등 피지 조절제나 피부과 처방약을 복용하셨나요?"
+> _("Have you taken skin medications like Roaccutane in the last 6 months?")_
 
-- Acknowledge that hormonal changes affect skin sensitivity and treatment safety.
+- **Options:**
+  - [Yes] -> **Activate Flag: `SENSITIVE_MEDS`**
+  - [No] -> Proceed
+- **Logic (If Yes):**
+  - **Safety Mode:** ON
+  - **EXCLUDE:** Ablative Lasers (Fraxel, CO2), Strong Chemical Peels.
+  - **ALLOW:** Non-ablative RF (Potenza - verify mode), Rejuran (Healer), LDM.
+  - **Action:** Tag user as `SENSITIVE_MEDS`, **continue to Phase 2 (Concerns).**
 
-**Script:**
+### Q3. Active Infection (염증/감염)
 
-> 1. **"현재 호르몬 변화나 특별한 컨디션(임신, 수유 등)이 있으신가요?"**
->    - A: "네, 임신 중이거나 수유 중입니다." (Safety Priority)
->    - B: "아니요, 해당 사항 없습니다." (Proceed)
->    - C: "잘 모르겠어요 / 준비 중입니다." (Caution)
->
->    _Logic:_ If A or C -> **Exclude Energy Devices** (Ulthera, Thermage, Laser).
->    _Redirect:_ Suggest **"LDM Water Drop Lifting"** (Safe, hydrating, relaxing) or **"Oxygen Ceuticals"**.
->    _Script:_ "소중한 시기인 만큼, 에너지가 강한 시술보다는 산모님도 안심하고 받으실 수 있는 **LDM 물방울 리프팅**으로 피부 컨디션을 높여드리는 것을 추천합니다."
+> **Question:** "시술 희망 부위에 현재 염증, 헤르페스, 또는 열린 상처가 있나요?"
+> _("Do you have active inflammation, herpes, or open wounds in the treatment area?")_
 
-### C. Medication & History (Roaccutane / Surgery)
+- **Options:**
+  - [Yes] -> **Activate Flag: `ACTIVE_INFECTION`**
+  - [No] -> Proceed
+- **Logic (If Yes):**
+  - **Safety Mode:** ON
+  - **EXCLUDE:** Direct procedures on infection site.
+  - **ALLOW:** Cryo (Cooling), LED Therapy, Medication.
+  - **Action:** Tag user as `ACTIVE_INFECTION`, **continue to Phase 2 (Concerns).**
 
-_Current Problem:_ "Do you take Roaccutane?"
-_New Concept:_ **"Skin Recovery Ability"**
+---
 
-- Frame it around the skin's ability to heal after treatment.
+## 3. Step 2: Lifestyle & Schedule (Flight/Event)
 
-**Script:**
+### Q4. Flight Plans (비행 일정)
 
-> 2. **"최근 6개월 내에 피부과 시술이나 수술, 또는 피지 조절제(로아큐탄 등) 복용 경험이 있으신가요?"**
->    - A: "네, 수술/시술 받은 지 얼마 안 됐어요." (Recovery Mode)
->    - B: "약 복용 중입니다." (Dryness/Sensitivity Alert)
->    - C: "없습니다." (Standard Protocol)
->
->    _Logic:_ If B (Medication) -> Skin is likely thin/dry. Avoid Ablative Lasers (Fraxel). Suggest **Potenza (Non-invasive mode)** or **Rejuran**.
->    _Logic:_ If A (Recent Surgery) -> Avoid treatment area. Focus on **Regenerative Care** (Cryo, LDM).
+> **Question:** "2주 이내에 비행기를 탑승하실 계획이 있나요?"
+> _("Do you have flight plans within 2 weeks?")_
 
-## 3. Output Vector
+- **Options:**
+  - [Yes] -> **Activate Flag: `FLIGHT_RISK`** (Pressure/Dryness)
+  - [No] -> Proceed
 
-Phase 1 passes a safety flag to Phase 2:
-`{ Safety_Status: [Clear/Caution/Contraindicated], Allowed_Categories: [All/Non-Energy/Regenerative_Only], User_Note: "Pregnant - LDM Only" }`
+### Q5. Important Event (D-Day)
 
-## 4. BDD Logic Analysis (Test Cases)
+> **Question:** "중요한 촬영이나 모임이 예정되어 있나요?"
+> _("Do you have a big event coming up?")_
 
-**Scenario: User is Pregnant**
+- **Options:**
+  - [Yes, within 1 week] -> **Activate Flag: `NO_DOWNTIME`** (No marks allowed)
+  - [Yes, in 2-4 weeks] -> **Activate Flag: `READY_TO_GLOW`** (Recovery time OK)
+  - [No] -> Normal Protocol
 
-- **Given** user selects "Pregnancy/Breastfeeding"
-- **When** the algorithm filters treatments
-- **Then** exclude "Ulthera", "Thermage", "InMode"
-- **And** recommend "LDM", "Oxygen Therapy"
-- **And** display message: "Safe & Relaxing Care for Mom-to-be" (Not "REJECTED")
+---
 
-**Scenario: User taking Isotretinoin (Accutane)**
+## 4. The "Safety Mode" Logic (Single Linear Flow)
 
-- **Given** user selects "Taking Sebum Control Meds"
-- **When** the algorithm filters treatments
-- **Then** exclude "Fraxel", "Strong Peels"
-- **And** flag "High Dryness Risk" for Phase 2
-- **And** recommend "Rejuran", "Skin Booster" (Injectables/Hydration focus)
+**The Problem:** Skipping to a "Safe List" ignores the user's specific skin type and current condition.
+**The Fix:** We run the full algorithm (P1->P5). Safety flags acts as a **Global Filter** on the menu, but the **Selection Logic** (Phase 2, 3, 4) remains active to pick the _best_ item from the filtered list.
+
+### Workflow Example:
+
+1.  **Phase 1 Input:** User says "Yes, I am Pregnant."
+2.  **System Action:**
+    - Set Context: `Safety_Mode = ON`
+    - Set Global Filter: `Exclude = [Energy_Devices, Injectables, Peels]`
+    - **Proceed to Phase 2.**
+3.  **Phase 2 (Concerns):**
+    - System asks: _"안전을 최우선으로, 현재 가장 고민되는 부분은 무엇인가요? (건조함/트러블/붓기)"_
+4.  **Phase 3 (Diagnosis):**
+    - Diagnosis: "Hormonal Dryness" (Pregnant + Dry Skin).
+5.  **Phase 4 (Mapping):**
+    - Input: `All_Treatments`
+    - Filter: `Remove Excluded Items`
+    - Score: `Match "Dryness" with remaining items (LDM, Oxygen)`
+    - Result: **LDM Water Drop** (Selected because it matches the concern _and_ survives the filter).
+
+---
+
+## 5. Output Vector to Phase 2
+
+Pass this state object to the next agent:
+
+```json
+{
+  "safety_status": "SAFETY_MODE_ON | CLEAR",
+  "active_flags": ["SAFE_MOM", "FLIGHT_RISK"],
+  "global_filter": {
+    "exclude_categories": ["High-Energy", "Injectables", "Ablative"],
+    "boost_categories": ["Hydration", "Soothing"]
+  },
+  "next_step": "PHASE_2_CONCERNS",
+  "user_message": "Safety constraints applied. Proceeding to Phase 2 to identify specific skin concerns."
+}
+```

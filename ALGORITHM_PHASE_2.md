@@ -1,11 +1,12 @@
 # ALGORITHM_PHASE_2.md - Psychological & Physiological Profiling
 
 **Owner:** @simbbaa_bot (The Empathic Profiler)
-**Status:** V1 (Reframed for Sensitivity & T-Zone)
+**Status:** V2 (Linear Flow - No Skips)
 
 ## 1. Objective
 
 Replace mechanical "Pain Tolerance" and binary "Oily/Dry" questions with nuanced, fear-based and physiological indicators. We are profiling the human _inside_ the skin.
+**Crucial Rule:** We run this profiling for **everyone**, including those in "Safety Mode". Pregnant women or sensitive users also have pain thresholds and skin types (oily/dry) that determine which _safe_ treatment is best (e.g., LDM Mode A vs Mode B).
 
 ## 2. Key Reframing
 
@@ -46,15 +47,20 @@ _New Concept:_ **"T-Zone Dynamics"**
 
 ## 4. Logic Connection (Phase 1 -> Phase 2)
 
-**Condition:** Input from Phase 1 (Safety)
+**Condition:** Input from Phase 1 (Safety Mode = ON or Rest Needed)
 
-- **If Phase 1 returns `{ Allowed_Categories: "Regenerative_Only" }` (e.g., Pregnancy/Recent Surgery):**
-  - **SKIP** Question 1 (Sensitivity/Pain).
-  - _Reasoning:_ High-energy devices (Ulthera, Thermage) are already excluded. We default to "Zero Pain / Relaxing" mode.
-  - **EXECUTE** Question 2 (T-Zone/Physiological).
-  - _Reasoning:_ Even for LDM/Oxygen therapy, we need to know if the skin is Oily (Acne mode) or Dry (Regeneration mode).
+- **Scenario:** User is Pregnant, on Meds, or has "Rest Needed" flag.
+- **Old Logic:** Skip questions and jump to safe list. (BANNED)
+- **New Logic:** **Continue Profiling.**
+  - **Why?** Even for "Rest/Recovery" treatments (LDM, Oxygen), we need to know:
+    - Is the skin Oily? -> Use LDM **Acne Mode**.
+    - Is the skin Dry? -> Use LDM **Regeneration Mode**.
+    - Is the user Anxious? -> Emphasize "Relaxation" in the explanation.
+- **Action:**
+  - **Keep Q1 (Sensitivity):** Even if options are limited, knowing they hate pain helps us sell the "Painless LDM" better ("Good news! The safest option for you is also completely painless").
+  - **Keep Q2 (T-Zone):** Crucial for selecting the correct mode/ampoule for the safe treatment.
 
 ## 5. Output Vector
 
 Phase 2 passes this vector to Phase 3/4:
-`{ User_Fear_Level: [Low/Med/High], Skin_Barrier_Status: [Intact/Fragile], T_Zone_Activity: [High/Normal/Low] }`
+`{ User_Fear_Level: [Low/Med/High], Skin_Barrier_Status: [Intact/Fragile], T_Zone_Activity: [High/Normal/Low], Rest_Priority: [High/Normal] }`

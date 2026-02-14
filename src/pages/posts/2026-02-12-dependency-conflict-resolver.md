@@ -54,11 +54,11 @@ tags: [AI, Node.js, npm, Debugging]
 
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 특히 React나 Next.js 메이저 업데이트할 때 이 프롬프트가 빛을 발합니다. "React 19랑 호환 안 되는 라이브러리가 뭐야?"라고 묻는 대신, 그냥 에러 로그를 통째로 던지세요. AI가 "A 라이브러리는 아직 React 18까지만 지원하네요, 임시로 B 버전으로 낮추세요"라고 통역해줍니다.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. `package-lock.json`도 줘야 하나요?**
 A. 너무 길어서 토큰 제한에 걸릴 수 있습니다. 보통은 `package.json`과 에러 로그만으로도 충분합니다.

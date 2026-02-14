@@ -25,7 +25,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Copilot:** 가장 무난하다. VS Code, JetBrains 등 어디서나 쓸 수 있다. (범용성 갑)
 2.  **Cursor:** 가장 똑똑하다. 코드베이스 전체를 이해하고 리팩토링까지 해준다. (지능 갑)
@@ -65,7 +65,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 개인적으로 **Cursor**에 한 표를 던집니다.
 `Ctrl+K`로 코드를 짜고, `Ctrl+L`로 질문하는 흐름이 너무 자연스럽습니다.
@@ -73,7 +73,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: Windsurf는 뭔가요?**
   - A: Codeium 팀이 만든 차세대 IDE입니다. 'Cascade'라는 기능을 통해 AI가 파일 수정, 터미널 실행까지 스스로 합니다.
@@ -83,7 +83,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **팀 상황 대입:** "IntelliJ 사용자 있음"이라는 구체적인 제약 조건을 주면, AI가 "Cursor는 VS Code 포크라 IntelliJ 사용자에겐 불편할 수 있습니다"라는 현실적인 조언을 해줍니다.
 2.  **보안 이슈:** 기업 도입의 핵심은 보안입니다. "코드 유출 방지"를 언급하면 각 도구의 Privacy Mode 정책을 비교해 줍니다.
@@ -104,7 +104,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 어떤 걸 쓰든 상관없습니다.
 중요한 건 **"AI 없이 코딩하지 말라"**는 겁니다.

@@ -1,8 +1,8 @@
 ---
 title: "La crise sociale de l'IA"
-description: "Critical analysis of ai-social-crisis: Father cheated with AI chatbot, Deepfake consent. The human cost of AI."
+description: "Critical analysis of ai-social-crisis: AI substitutes are breaking real human bonds."
 date: "2026-02-14"
-image: "https://source.unsplash.com/random/1600x900/?lonely,robot"
+image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 
@@ -12,7 +12,7 @@ The tech world is drowning in noise. We call it innovation; users call it exhaus
 ## The Problem
 This post explores the critical issue of **ai-social-crisis**. While executives cheer for metrics, the reality on the ground is different. We are seeing a massive disconnect between promise and delivery. 
 
-> "Father cheated with AI chatbot, Deepfake consent. The human cost of AI."
+> "AI substitutes are breaking real human bonds."
 
 This isn't just a glitch. It's a systemic failure.
 

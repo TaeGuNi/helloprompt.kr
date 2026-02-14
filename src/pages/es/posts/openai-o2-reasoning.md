@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Evolución de las capacidades de razonamiento de OpenAI 'o2': ¿Qué ha cambiado?"
 description: "Un análisis profundo de las innovadoras capacidades de razonamiento del último modelo de OpenAI, o2, su cadena de pensamiento (CoT) mejorada y su impacto en el desarrollo de la IA."
+date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
@@ -13,8 +14,8 @@ En 2024, cuando OpenAI introdujo por primera vez la IA con pensamiento "Sistema 
 
 Si o1 introdujo el "tiempo para pensar", o2 ha maximizado la profundidad y eficiencia de ese pensamiento.
 
-*   **Profundidad de pensamiento dinámica:** o2 ajusta dinámicamente los pasos de su pensamiento según la dificultad del problema. Responde instantáneamente a preguntas simples, pero realiza cientos de pasos de razonamiento interno para pruebas matemáticas complejas o consultas de diseño arquitectónico.
-*   **Optimización del razonamiento invisible:** Al reducir drásticamente la sobrecarga computacional en el proceso 'Hidden CoT' invisible para el usuario, demuestra velocidades de respuesta más de un 40% más rápidas que o1.
+- **Profundidad de pensamiento dinámica:** o2 ajusta dinámicamente los pasos de su pensamiento según la dificultad del problema. Responde instantáneamente a preguntas simples, pero realiza cientos de pasos de razonamiento interno para pruebas matemáticas complejas o consultas de diseño arquitectónico.
+- **Optimización del razonamiento invisible:** Al reducir drásticamente la sobrecarga computacional en el proceso 'Hidden CoT' invisible para el usuario, demuestra velocidades de respuesta más de un 40% más rápidas que o1.
 
 ## 2. Perfección de los mecanismos de autocorrección
 
@@ -26,9 +27,9 @@ Mientras que los modelos anteriores tendían a afirmar las alucinaciones como ve
 
 Según los resultados iniciales de las pruebas de referencia, o2 ha logrado lo siguiente:
 
-*   **AIME (American Invitational Mathematics Examination):** Alcanzó el nivel del 0.5% superior.
-*   **Codeforces:** Capacidad de resolución de problemas equivalente al rango legendario de Gran Maestro.
-*   **Preguntas científicas de nivel PhD (GPQA):** Registró una precisión que supera a los expertos humanos.
+- **AIME (American Invitational Mathematics Examination):** Alcanzó el nivel del 0.5% superior.
+- **Codeforces:** Capacidad de resolución de problemas equivalente al rango legendario de Gran Maestro.
+- **Preguntas científicas de nivel PhD (GPQA):** Registró una precisión que supera a los expertos humanos.
 
 ## 4. Integración del razonamiento multimodal
 

@@ -6,14 +6,7 @@ description: "15개 LLM을 대상으로 한 실험에서 테스트 하네스만 
 author: "OpenClaw"
 image: ""
 ---
-*Note: Automated translation for es*
 
+_Translation Pending_
 
-최근 연구에 따르면, LLM(대규모 언어 모델)의 코딩 능력을 평가할 때 모델 자체보다 테스트 환경(하네스)이 더 중요한 역할을 할 수 있다고 합니다.
-
-## 주요 발견
-- 15개의 다양한 LLM을 대상으로 실험한 결과, 테스트 하네스를 개선하는 것만으로도 코딩 성능이 크게 향상되었습니다.
-- 기존 벤치마크가 모델의 실제 능력을 과소평가했을 가능성이 있습니다.
-- 프롬프트 엔지니어링이나 모델 튜닝 없이도, 평가 방식의 개선만으로 성능 이득을 얻을 수 있습니다.
-
-이 연구는 AI 코딩 도구를 개발하거나 평가할 때 '어떻게 평가하느냐'가 '무엇을 평가하느냐'만큼 중요하다는 것을 시사합니다.
+<!-- Original content removed due to incomplete translation -->

@@ -33,7 +33,9 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
       !filePath.includes("/zh/") &&
       !filePath
         .split("/")
-        .some((part) => ["es", "fr", "de", "it", "pt", "ru"].includes(part));
+        .some((part) =>
+          ["es", "fr", "de", "it", "pt", "ru", "hi"].includes(part),
+        );
 
     // 1. Structure Check (Table vs List)
     if (CHECKS.HAS_TABLE_STYLE.test(content)) {

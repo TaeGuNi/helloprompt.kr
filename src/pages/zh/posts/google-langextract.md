@@ -1,12 +1,13 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: '利用 Google LangExtract 掌握结构化数据提取'
+title: "利用 Google LangExtract 掌握结构化数据提取"
+date: 2024-05-20
 pubDate: 2024-05-20
-description: '了解如何使用 Google 新推出的 LangExtract 库从 LLM 中提取精确的 JSON 和结构化数据。'
-author: 'Hello Prompt'
+description: "了解如何使用 Google 新推出的 LangExtract 库从 LLM 中提取精确的 JSON 和结构化数据。"
+author: "Hello Prompt"
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'Google LangExtract Logo'
+  url: "https://docs.astro.build/assets/full-logo-light.png"
+  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 

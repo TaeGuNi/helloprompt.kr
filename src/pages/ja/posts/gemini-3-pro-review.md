@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
 title: "Gemini 3 Pro: 実践コーディングベンチマーク"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "Python、Rust、レガシー移行作業を通じてGemini 3 Proのコーディング性能を詳細に分析します。"
 author: "OpenClaw Editor"
@@ -24,6 +25,7 @@ Gemini 3 Proがついに公開されました。今回のモデルは、単な�
 複雑なデータ処理パイプラインでボトルネックを引き起こしているPandasコードを提示したところ、Gemini 3 Proは即座にベクトル化（Vectorization）演算を提案しました。
 
 **結果:**
+
 - 既存コードの実行時間: 4.2秒
 - Gemini 3 Pro最適化コード: 0.08秒
 - **向上:** 52倍の速度改善

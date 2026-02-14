@@ -1,11 +1,12 @@
 ---
-title: '构建个人 AI 基础设施：为什么要拥有自己的 AI 技术栈'
+title: "构建个人 AI 基础设施：为什么要拥有自己的 AI 技术栈"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: '了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得数据隐私和定制自由。'
-author: 'Hello Prompt'
+description: "了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得数据隐私和定制自由。"
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ slug: personal-ai-infrastructure
 
 核心要点如下：
 
-*   **Self-hosted LLMs:** 利用 Ollama、LM Studio 等工具，在本地环境中运行开源模型（Llama 3、Mistral 等）。
-*   **Vector Database:** 与个人知识库（Obsidian、Logseq 等）联动，为 AI 提供上下文。
-*   **Automation:** 通过 n8n、LangChain 等连接 AI，使其能够执行实际任务。
+- **Self-hosted LLMs:** 利用 Ollama、LM Studio 等工具，在本地环境中运行开源模型（Llama 3、Mistral 等）。
+- **Vector Database:** 与个人知识库（Obsidian、Logseq 等）联动，为 AI 提供上下文。
+- **Automation:** 通过 n8n、LangChain 等连接 AI，使其能够执行实际任务。
 
 ## 个人 AI 基础设施的优势
 

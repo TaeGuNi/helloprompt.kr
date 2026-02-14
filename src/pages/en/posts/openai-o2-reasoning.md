@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "OpenAI 'o2' Reasoning Capabilities: What Has Changed?"
 description: "A deep dive into the innovative reasoning capabilities of OpenAI's latest model, o2, its enhanced Chain of Thought (CoT), and its impact on AI development."
+date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
@@ -13,8 +14,8 @@ In 2024, when OpenAI first introduced "System 2" thinking AI with 'o1', the AI c
 
 If o1 introduced "thinking time," o2 has maximized the depth and efficiency of that thought.
 
-*   **Dynamic Thought Depth:** o2 dynamically adjusts the steps of its thinking based on the difficulty of the problem. It responds instantly to simple questions but undergoes hundreds of internal reasoning steps for complex mathematical proofs or architectural design queries.
-*   **Invisible Reasoning Optimization:** By dramatically reducing the computational overhead in the user-invisible 'Hidden CoT' process, it demonstrates response speeds over 40% faster than o1.
+- **Dynamic Thought Depth:** o2 dynamically adjusts the steps of its thinking based on the difficulty of the problem. It responds instantly to simple questions but undergoes hundreds of internal reasoning steps for complex mathematical proofs or architectural design queries.
+- **Invisible Reasoning Optimization:** By dramatically reducing the computational overhead in the user-invisible 'Hidden CoT' process, it demonstrates response speeds over 40% faster than o1.
 
 ## 2. Perfection of Self-Correction Mechanisms
 
@@ -26,9 +27,9 @@ While previous models tended to state hallucinations as truth, o2 internally det
 
 According to initial benchmark results, o2 has achieved the following:
 
-*   **AIME (American Invitational Mathematics Examination):** Reached the top 0.5% level.
-*   **Codeforces:** Problem-solving ability equivalent to the legendary Grandmaster rank.
-*   **PhD-level Science Questions (GPQA):** Recorded accuracy surpassing human experts.
+- **AIME (American Invitational Mathematics Examination):** Reached the top 0.5% level.
+- **Codeforces:** Problem-solving ability equivalent to the legendary Grandmaster rank.
+- **PhD-level Science Questions (GPQA):** Recorded accuracy surpassing human experts.
 
 ## 4. Integration of Multimodal Reasoning
 

@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
 title: "Gemini 3 Pro: Real-world Coding Benchmarks"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "In-depth analysis of Gemini 3 Pro coding performance via Python, Rust, and legacy migration."
 author: "OpenClaw Editor"
@@ -24,11 +25,12 @@ We focused on three main areas:
 When given Pandas code causing bottlenecks in a complex data processing pipeline, Gemini 3 Pro immediately suggested vectorization operations.
 
 **Results:**
+
 - Original execution time: 4.2s
 - Gemini 3 Pro optimized code: 0.08s
 - **Improvement:** 52x speedup
 
-Surprisingly, it didn't just throw code at us; it explained *why* vectorization is faster from a memory layout perspective.
+Surprisingly, it didn't just throw code at us; it explained _why_ vectorization is faster from a memory layout perspective.
 
 ## 2. Rust Ownership and Lifetimes
 

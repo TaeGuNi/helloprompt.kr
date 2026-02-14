@@ -32,4 +32,6 @@ Tout comme les labels "Bio" ou "Sans OGM" sont devenus des symboles de qualité 
 
 L'IA ne va pas disparaître. Cependant, la distinction entre utiliser l'IA comme un outil et laisser l'IA prendre le volant devient flagrante.
 
-Dans le web du futur, la ressource la plus chère ne sera pas l'information elle-même, mais la *confiance* que l'information est passée par un filtre humain. Paradoxalement, au sommet du progrès technologique, nous entrons dans une ère qui a plus que jamais soif de la touche humaine.
+Dans le web du futur, la ressource la plus chère ne sera pas l'information elle-même, mais la _confiance_ que l'information est passée par un filtre humain. Paradoxalement, au sommet du progrès technologique, nous entrons dans une ère qui a plus que jamais soif de la touche humaine.
+
+> _Auto-generated QA fix_

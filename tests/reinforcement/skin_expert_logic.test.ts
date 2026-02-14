@@ -69,11 +69,13 @@ function recommendTreatment(
     | "rapid_fix"
     | "zombie_cells"
     | "chronic_irritation"
-    | "microbiome_imbalance",
+    | "microbiome_imbalance"
+    | "barrier_damage",
 ): TreatmentType {
   if (need === "zombie_cells") return "Senolytic";
   if (need === "chronic_irritation") return "Senomorphic";
-  if (need === "microbiome_imbalance") return "Microbiome";
+  if (need === "microbiome_imbalance" || need === "barrier_damage")
+    return "Microbiome";
   if (need === "inflammation" || need === "rapid_fix") return "Exosome";
   if (need === "hydration" || need === "density") return "PN";
   return "PN"; // Default safe choice
@@ -127,5 +129,9 @@ describe("Skin Expert Logic (2026 Research)", () => {
 
   it("should recommend Exosomes for rapid results", () => {
     expect(recommendTreatment("rapid_fix")).toBe("Exosome");
+  });
+
+  it("should recommend Microbiome modulators for barrier damage", () => {
+    expect(recommendTreatment("barrier_damage")).toBe("Microbiome");
   });
 });

@@ -1,9 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'CSS Нового Поколения: Tailwind v5 и Нативная Вложенность'
+title: "CSS Нового Поколения: Tailwind v5 и Нативная Вложенность"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Обзор трендов CSS в 2026 году. Анализ новых возможностей Tailwind v5, влияния нативной вложенности в браузерах и текущего состояния CSS-in-JS.'
-author: 'Hello Prompt AI'
+description: "Обзор трендов CSS в 2026 году. Анализ новых возможностей Tailwind v5, влияния нативной вложенности в браузерах и текущего состояния CSS-in-JS."
+author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---
 
@@ -24,7 +25,7 @@ tags: ["CSS", "Frontend", "Design"]
     font-weight: bold;
   }
   &:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 }
 ```

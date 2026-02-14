@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "L'évolution des capacités de raisonnement d'OpenAI 'o2' : Qu'est-ce qui a changé ?"
 description: "Une analyse approfondie des capacités de raisonnement innovantes du dernier modèle d'OpenAI, o2, sa chaîne de pensée (CoT) améliorée et son impact sur le développement de l'IA."
+date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
@@ -13,8 +14,8 @@ En 2024, lorsque OpenAI a présenté pour la première fois l'IA à pensée "Sys
 
 Si o1 a introduit le "temps de réflexion", o2 a maximisé la profondeur et l'efficacité de cette pensée.
 
-*   **Profondeur de pensée dynamique :** o2 ajuste dynamiquement les étapes de sa réflexion en fonction de la difficulté du problème. Il répond instantanément aux questions simples, mais effectue des centaines d'étapes de raisonnement interne pour des preuves mathématiques complexes ou des demandes de conception architecturale.
-*   **Optimisation du raisonnement invisible :** En réduisant considérablement la surcharge de calcul dans le processus 'Hidden CoT' invisible pour l'utilisateur, il démontre des vitesses de réponse plus de 40% plus rapides que o1.
+- **Profondeur de pensée dynamique :** o2 ajuste dynamiquement les étapes de sa réflexion en fonction de la difficulté du problème. Il répond instantanément aux questions simples, mais effectue des centaines d'étapes de raisonnement interne pour des preuves mathématiques complexes ou des demandes de conception architecturale.
+- **Optimisation du raisonnement invisible :** En réduisant considérablement la surcharge de calcul dans le processus 'Hidden CoT' invisible pour l'utilisateur, il démontre des vitesses de réponse plus de 40% plus rapides que o1.
 
 ## 2. Perfection des mécanismes d'autocorrection
 
@@ -26,9 +27,9 @@ Alors que les modèles précédents avaient tendance à affirmer les hallucinati
 
 Selon les résultats initiaux des tests de référence, o2 a atteint les résultats suivants :
 
-*   **AIME (American Invitational Mathematics Examination) :** A atteint le niveau des 0,5% supérieurs.
-*   **Codeforces :** Capacité de résolution de problèmes équivalente au rang légendaire de Grand Maître.
-*   **Questions scientifiques de niveau PhD (GPQA) :** A enregistré une précision dépassant celle des experts humains.
+- **AIME (American Invitational Mathematics Examination) :** A atteint le niveau des 0,5% supérieurs.
+- **Codeforces :** Capacité de résolution de problèmes équivalente au rang légendaire de Grand Maître.
+- **Questions scientifiques de niveau PhD (GPQA) :** A enregistré une précision dépassant celle des experts humains.
 
 ## 4. Intégration du raisonnement multimodal
 

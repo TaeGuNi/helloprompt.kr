@@ -17,9 +17,9 @@ Unsloth는 Llama, Mistral, Gemma 등의 모델을 기존보다 **2배 더 빠르
 
 Unsloth는 PyTorch와 Transformers 위에서 동작하는 경량화 및 최적화 라이브러리입니다. 핵심적인 특징은 다음과 같습니다:
 
-*   **속도**: 수동으로 최적화된 Triton 커널을 사용하여 역전파(Backpropagation) 속도를 획기적으로 높였습니다.
-*   **메모리 효율성**: 그라디언트 체크포인팅과 양자화(Quantization) 기술을 개선하여 16GB VRAM(예: T4, 3060, 4060)에서도 7B 모델을 여유롭게 학습할 수 있습니다.
-*   **정확도 유지**: QLoRA나 LoRA와 같은 기법을 사용할 때 정확도 손실 없이(0%) 학습이 가능합니다.
+- **속도**: 수동으로 최적화된 Triton 커널을 사용하여 역전파(Backpropagation) 속도를 획기적으로 높였습니다.
+- **메모리 효율성**: 그라디언트 체크포인팅과 양자화(Quantization) 기술을 개선하여 16GB VRAM(예: T4, 3060, 4060)에서도 7B 모델을 여유롭게 학습할 수 있습니다.
+- **정확도 유지**: QLoRA나 LoRA와 같은 기법을 사용할 때 정확도 손실 없이(0%) 학습이 가능합니다.
 
 ## 시작하기
 
@@ -162,7 +162,7 @@ outputs = model.generate(**inputs, max_new_tokens = 64, use_cache = True)
 tokenizer.batch_decode(outputs)
 
 # 저장 (LoRA 어댑터만 저장)
-model.save_pretrained("lora_model") 
+model.save_pretrained("lora_model")
 # GGUF로 저장 (선택 사항)
 # model.save_pretrained_gguf("model", tokenizer, quantization_method = "q4_k_m")
 ```
@@ -172,3 +172,15 @@ model.save_pretrained("lora_model")
 Unsloth는 개인 개발자나 연구자가 고성능 GPU 클러스터 없이도 최신 LLM을 커스텀 데이터로 파인튜닝할 수 있는 길을 열어주었습니다. 지금 바로 Colab을 열고 나만의 모델을 만들어보세요.
 
 더 자세한 정보는 [Unsloth GitHub](https://github.com/unslothai/unsloth)를 참고하세요.
+
+## 💡 작성자 코멘트 (Insight)
+
+이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
+
+## 🙋 자주 묻는 질문 (FAQ)
+
+Q: 이 내용은 최신 정보인가요?
+A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
+
+Q: 추가적인 자료는 어디서 볼 수 있나요?
+A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.

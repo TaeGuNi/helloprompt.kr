@@ -1,9 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Web 开发的 Rust：2026 年生态系统现状'
+title: "Web 开发的 Rust：2026 年生态系统现状"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: '深入探讨 2026 年 Web 开发生态系统中 Rust 的地位、Axum 和 Leptos 等框架的成熟度，以及性能与开发体验（DX）之间的平衡。'
-author: 'Hello Prompt AI'
+description: "深入探讨 2026 年 Web 开发生态系统中 Rust 的地位、Axum 和 Leptos 等框架的成熟度，以及性能与开发体验（DX）之间的平衡。"
+author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---
 
@@ -16,9 +17,11 @@ tags: ["Rust", "Web Dev", "Backend"]
 2020 年代初混乱的框架战争已经结束。现在，无论是后端还是前端（WASM），都出现了明确的赢家和标准。
 
 ### Axum：坚实的后端标准
+
 由 Tokio 团队主导的 **Axum** 已成为名副其实的 Rust 后端标准。它与 Tower 服务生态系统的无缝集成、不严重依赖宏的直观 API 以及压倒性的性能，使得在企业环境中选择 Axum 成为不二之选。在 2026 年，Axum 拥有稳定的 API 和庞大的中间件生态系统，提供了来自 Spring Boot 或 NestJS 的开发者也能轻松适应的结构模式。
 
 ### Leptos：WASM 前端的赢家
+
 用 Rust 开发前端不再缓慢或繁琐。**Leptos** 利用细粒度响应式（Fine-grained Reactivity）模型消除了虚拟 DOM 的开销，提供了由于 Svelte 或 SolidJS 相媲美（甚至超越）的性能。服务器端渲染（SSR）和水合（Hydration）功能现在开箱即用，完美运行，而像 `cargo-leptos` 这样的工具则提供了包括热重载在内的现代开发体验。
 
 ## 2. 性能与开发体验 (DX)
@@ -26,9 +29,11 @@ tags: ["Rust", "Web Dev", "Backend"]
 “Rust 很快但很难写”这句老话在 2026 年只对了一半。
 
 ### 编译速度与工具链
+
 得益于 Rust 编译器团队的持续努力和并行前端处理技术的采用，增量编译速度有了显著提高。此外，`mold` 链接器的普及和构建缓存工具的进步，使得本地开发循环达到了可以与 Node.js 或 Go 环境竞争的水平。
 
 ### 异步编程的稳定化
+
 随着 trait 中 `async fn` 支持的稳定化以及错误信息变得更加友好，“与异步运行时作斗争”的经历已大大减少。像 RustRover 这样的专用 IDE 和更智能的 rust-analyzer 减少了开发者在类型匹配上花费的时间，使他们能够专注于业务逻辑。
 
 ## 3. 何时应该选择 Rust？

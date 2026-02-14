@@ -1,11 +1,12 @@
 ---
 title: "Costruire un'Infrastruttura AI Personale: Perché dovresti possedere il tuo stack AI"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "Scopri come costruire un'infrastruttura AI personale per ottenere libertà nella privacy dei dati e nella personalizzazione, allontanandoti dalla dipendenza dai SaaS."
-author: 'Hello Prompt'
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ L'esperto di sicurezza e influencer AI Daniel Miessler sottolinea il messaggio "
 
 I punti chiave sono:
 
-*   **LLM self-hosted:** Esegui modelli open source (Llama 3, Mistral, ecc.) in un ambiente locale utilizzando strumenti come Ollama o LM Studio.
-*   **Database vettoriale:** Fornisci contesto all'AI collegandola alla tua base di conoscenze personale (Obsidian, Logseq, ecc.).
-*   **Automazione:** Collega l'AI per eseguire compiti reali utilizzando n8n, LangChain, ecc.
+- **LLM self-hosted:** Esegui modelli open source (Llama 3, Mistral, ecc.) in un ambiente locale utilizzando strumenti come Ollama o LM Studio.
+- **Database vettoriale:** Fornisci contesto all'AI collegandola alla tua base di conoscenze personale (Obsidian, Logseq, ecc.).
+- **Automazione:** Collega l'AI per eseguire compiti reali utilizzando n8n, LangChain, ecc.
 
 ## Vantaggi dell'Infrastruttura AI Personale
 

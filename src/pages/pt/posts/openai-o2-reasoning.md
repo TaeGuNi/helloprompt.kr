@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Evolução das capacidades de raciocínio da OpenAI 'o2': O que mudou?"
 description: "Uma análise aprofundada das capacidades inovadoras de raciocínio do modelo mais recente da OpenAI, o2, sua cadeia de pensamento aprimorada (CoT) e seu impacto no desenvolvimento da IA."
+date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
@@ -13,8 +14,8 @@ Em 2024, quando a OpenAI introduziu pela primeira vez a IA com pensamento "Siste
 
 Se o o1 introduziu o "tempo de pensar", o o2 maximizou a profundidade e a eficiência desse pensamento.
 
-*   **Profundidade de pensamento dinâmica:** O o2 ajusta dinamicamente as etapas de seu pensamento com base na dificuldade do problema. Responde instantaneamente a perguntas simples, mas passa por centenas de etapas de raciocínio interno para provas matemáticas complexas ou consultas de design arquitetônico.
-*   **Otimização do raciocínio invisível:** Ao reduzir drasticamente a sobrecarga computacional no processo 'Hidden CoT' invisível para o usuário, demonstra velocidades de resposta mais de 40% mais rápidas que o o1.
+- **Profundidade de pensamento dinâmica:** O o2 ajusta dinamicamente as etapas de seu pensamento com base na dificuldade do problema. Responde instantaneamente a perguntas simples, mas passa por centenas de etapas de raciocínio interno para provas matemáticas complexas ou consultas de design arquitetônico.
+- **Otimização do raciocínio invisível:** Ao reduzir drasticamente a sobrecarga computacional no processo 'Hidden CoT' invisível para o usuário, demonstra velocidades de resposta mais de 40% mais rápidas que o o1.
 
 ## 2. Perfeição dos mecanismos de autocorreção
 
@@ -26,9 +27,9 @@ Enquanto os modelos anteriores tendiam a afirmar as alucinações como verdades,
 
 De acordo com os resultados iniciais dos testes de referência, o o2 alcançou o seguinte:
 
-*   **AIME (American Invitational Mathematics Examination):** Atingiu o nível de 0,5% superior.
-*   **Codeforces:** Capacidade de resolução de problemas equivalente ao lendário posto de Grão-Mestre.
-*   **Perguntas científicas de nível PhD (GPQA):** Registrou uma precisão superior à dos especialistas humanos.
+- **AIME (American Invitational Mathematics Examination):** Atingiu o nível de 0,5% superior.
+- **Codeforces:** Capacidade de resolução de problemas equivalente ao lendário posto de Grão-Mestre.
+- **Perguntas científicas de nível PhD (GPQA):** Registrou uma precisão superior à dos especialistas humanos.
 
 ## 4. Integração do raciocínio multimodal
 

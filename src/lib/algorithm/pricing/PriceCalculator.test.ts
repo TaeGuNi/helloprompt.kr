@@ -32,12 +32,12 @@ describe("PriceCalculator", () => {
 
     expect(result.tier).toBe("BUNDLE");
     // Standard 250 * 5 = 1250.
-    // Discount 15% = 187.5.
-    // Total = 1250 - 187.5 = 1062.5.
-    expect(result.total).toBe(1062.5);
+    // Discount 15% = 187.5 -> Rounded to 188.
+    // Total = 1250 - 188 = 1062.
+    expect(result.total).toBe(1062);
     expect(result.components).toHaveLength(5); // 4 + Discount
     const discount = result.components.find((c) => c.key === "bundle_discount");
     expect(discount).toBeDefined();
-    expect(discount?.cost).toBe(-187.5);
+    expect(discount?.cost).toBe(-188);
   });
 });

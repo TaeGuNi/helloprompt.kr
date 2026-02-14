@@ -2,6 +2,7 @@ import type { PricingResult } from "../pricing/PriceCalculator";
 
 export interface AntiFactorySpec {
   model_name: string;
+  model_provider: string; // e.g., "Local", "Groq", "OpenRouter"
   temperature: number;
   top_p: number;
   reasoning_steps?: number;
@@ -14,6 +15,8 @@ export interface AntiFactorySpec {
     output: number;
     reasoning?: number;
   };
+  compute_region?: string; // e.g., "us-east-1", "local-m2"
+  carbon_offset_g?: number; // Simulated carbon footprint offset
 }
 
 export interface VirtualReceipt {
@@ -66,6 +69,7 @@ export class TrustReportGenerator {
     const spec: AntiFactorySpec = {
       model_name:
         isStandard || isBundle ? "DeepSeek-R1-Distill" : "Llama-3-8b-Instant",
+      model_provider: isStandard || isBundle ? "Private Cloud" : "Groq/Edge",
       temperature: isStandard || isBundle ? 0.6 : 0.8, // Lower temp for precision in Standard/Bundle
       top_p: 0.95,
       reasoning_steps:
@@ -78,6 +82,8 @@ export class TrustReportGenerator {
         output: Math.floor(tokens * 0.7),
         reasoning: isStandard || isBundle ? Math.floor(tokens * 0.2) : 0,
       },
+      compute_region: "asia-northeast3", // Seoul region simulation
+      carbon_offset_g: isStandard ? 0.5 : 0.1,
       ...overrides,
     };
 

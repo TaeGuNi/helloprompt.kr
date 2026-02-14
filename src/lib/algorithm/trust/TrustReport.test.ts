@@ -22,6 +22,9 @@ describe("TrustReportGenerator", () => {
     expect(report.spec.latency_ms).toBeGreaterThan(0);
     expect(report.spec.token_usage).toBeDefined();
     expect(report.spec.token_usage?.input).toBeGreaterThan(0);
+    expect(report.spec.model_provider).toBeDefined();
+    expect(report.spec.compute_region).toBe("asia-northeast3");
+    expect(report.spec.carbon_offset_g).toBeGreaterThan(0);
   });
 
   it("should respect overrides", () => {

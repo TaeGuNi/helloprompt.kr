@@ -52,6 +52,7 @@ A breakdown of the value provided:
 Metadata that proves the content is bespoke and not mass-produced "slop":
 
 - `model_name`: e.g., "DeepSeek-R1", "Gemini-Pro-1.5"
+- `model_provider`: e.g., "Private Cloud", "Groq/Edge" (Supply chain transparency)
 - `temperature`: Precision setting (e.g., 0.7)
 - `top_p`: Nucleus sampling parameter.
 - `reasoning_steps`: Number of logical steps taken (if applicable).
@@ -59,6 +60,8 @@ Metadata that proves the content is bespoke and not mass-produced "slop":
 - `version`: Algorithm version (e.g., "v7.5.0")
 - `latency_ms`: Execution time in milliseconds.
 - `token_usage`: Input/Output/Reasoning token breakdown.
+- `compute_region`: Geographic location of inference (e.g., "asia-northeast3")
+- `carbon_offset_g`: Simulated carbon footprint offset (Rational Trust metric).
 
 ## 4. Conversion Funnel Integration
 

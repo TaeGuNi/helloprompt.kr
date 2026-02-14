@@ -32,3 +32,5 @@ Gracias a los LLM, se ha vuelto fácil para los robots "escribir poemas y progra
 La IA Física es definitivamente el futuro. El progreso mostrado por Optimus de Tesla o Atlas de Boston Dynamics es asombroso. Pero ese progreso no es un salto mágico, sino el resultado de sangre y sudor acumulados modificando un tornillo y una línea de código a la vez.
 
 En lugar de la fanfarria exagerada de los medios, deberíamos prestar más atención a la realidad de los ingenieros que luchan silenciosamente contra la gravedad, la fricción y la eficiencia de la batería. Porque la verdadera innovación está ocurriendo muy lentamente en laboratorios manchados de grasa, no en escenarios llamativos.
+
+> _Auto-generated QA fix_

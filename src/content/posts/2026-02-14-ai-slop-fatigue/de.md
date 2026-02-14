@@ -32,4 +32,6 @@ So wie „Bio“- oder „Ohne Gentechnik“-Labels zu Symbolen für Premiumqual
 
 KI wird nicht verschwinden. Die Unterscheidung zwischen der Nutzung von KI als Werkzeug und dem Überlassen des Steuerruuders an die KI wird jedoch immer deutlicher.
 
-Im Web der Zukunft wird die teuerste Ressource nicht die Information selbst sein, sondern das *Vertrauen*, dass die Information einen menschlichen Filter passiert hat. Paradoxerweise treten wir auf dem Höhepunkt des technologischen Fortschritts in eine Ära ein, die sich mehr denn je nach der menschlichen Note sehnt.
+Im Web der Zukunft wird die teuerste Ressource nicht die Information selbst sein, sondern das _Vertrauen_, dass die Information einen menschlichen Filter passiert hat. Paradoxerweise treten wir auf dem Höhepunkt des technologischen Fortschritts in eine Ära ein, die sich mehr denn je nach der menschlichen Note sehnt.
+
+> _Auto-generated QA fix_

@@ -17,9 +17,9 @@ Relatórios recentes indicam que as vendas dos óculos inteligentes da Meta aume
 
 No centro desse sucesso está a IA. A IA multimodal da Meta entende o que o usuário está vendo, fornece informações em tempo real e traduz idiomas.
 
-*   **Busca Visual em Tempo Real:** Identifique instantaneamente marcos ou plantas à sua frente.
-*   **Tradução Instantânea:** Traduza sinais ou conversas em língua estrangeira em tempo real.
-*   **Monitoramento de Saúde:** Rastreie sinais vitais básicos através de sensores não invasivos.
+- **Busca Visual em Tempo Real:** Identifique instantaneamente marcos ou plantas à sua frente.
+- **Tradução Instantânea:** Traduza sinais ou conversas em língua estrangeira em tempo real.
+- **Monitoramento de Saúde:** Rastreie sinais vitais básicos através de sensores não invasivos.
 
 ## O Declínio dos Headsets Volumosos?
 
@@ -28,3 +28,5 @@ Em contraste, o mercado de headsets MR/VR grandes e pesados está vendo um cresc
 ## Conclusão
 
 O sucesso dos óculos inteligentes da Meta sugere que o futuro dos vestíveis reside na "invisibilidade" e na "conveniência". A tecnologia está evoluindo não para nos desconectar do mundo, mas para nos conectar mais profundamente com ele. 2026 será lembrado como o ano em que os óculos inteligentes deram o salto para se tornarem o dispositivo essencial após o smartphone.
+
+> _Auto-generated QA fix_

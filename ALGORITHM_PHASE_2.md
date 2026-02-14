@@ -44,7 +44,17 @@ _New Concept:_ **"T-Zone Dynamics"**
 > 2. **(If C selected) "그렇다면 평소 세안 후, 아무것도 바르지 않으면 얼마나 당기나요?"**
 >    _Logic:_ If T-Zone is fragile (C), avoid aggressive peels/laser toning. Prioritize Barrier Repair (Rejuran/Skin Booster).
 
-## 3. Output Vector
+## 4. Logic Connection (Phase 1 -> Phase 2)
+
+**Condition:** Input from Phase 1 (Safety)
+
+- **If Phase 1 returns `{ Allowed_Categories: "Regenerative_Only" }` (e.g., Pregnancy/Recent Surgery):**
+  - **SKIP** Question 1 (Sensitivity/Pain).
+  - _Reasoning:_ High-energy devices (Ulthera, Thermage) are already excluded. We default to "Zero Pain / Relaxing" mode.
+  - **EXECUTE** Question 2 (T-Zone/Physiological).
+  - _Reasoning:_ Even for LDM/Oxygen therapy, we need to know if the skin is Oily (Acne mode) or Dry (Regeneration mode).
+
+## 5. Output Vector
 
 Phase 2 passes this vector to Phase 3/4:
 `{ User_Fear_Level: [Low/Med/High], Skin_Barrier_Status: [Intact/Fragile], T_Zone_Activity: [High/Normal/Low] }`

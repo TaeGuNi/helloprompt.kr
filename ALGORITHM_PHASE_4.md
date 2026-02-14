@@ -40,7 +40,17 @@ Instead of just showing the result, show the equation.
 >
 > "이 선택은 '효과'와 '편안함'의 교집합에서 도출된 최적의 결론입니다."
 
-## 3. Output Handover
+## 4. Input Integration (Phase 3 -> Phase 4)
+
+**Condition:** Input from Phase 3 (Diagnosis)
+
+- **Take the `{ Diagnosis_Code }` and visualize it on the Logic Canvas.**
+- If Diagnosis is **"Fragile Barrier with Low Pain Tolerance"**:
+  - **Highlight:** "Sensitivity" axis.
+  - **Connect:** "Low Pain" preference -> "Titanium Lifting".
+  - **Exclude:** "Ulthera" (too painful).
+
+## 5. Output Handover
 
 Phase 4 hands over a _justified_ decision to Phase 5.
 `{ Selected_Treatment: "Titanium", Justification: "High Fear + Sagging", Excluded_Treatments: ["Ulthera (Pain)", "InMode (Downtime)"] }`

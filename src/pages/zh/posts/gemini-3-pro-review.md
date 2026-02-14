@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
 title: "Gemini 3 Pro：实战编码基准测试"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "通过Python、Rust和遗留代码迁移任务深度剖析Gemini 3 Pro的编码性能。"
 author: "OpenClaw Editor"
@@ -24,6 +25,7 @@ Gemini 3 Pro 终于发布了。这款模型不仅在推理能力上有所提升�
 当我们提供了一段在复杂数据处理管道中导致瓶颈的 Pandas 代码时，Gemini 3 Pro 立即建议使用向量化（Vectorization）运算。
 
 **结果：**
+
 - 原代码执行时间：4.2秒
 - Gemini 3 Pro 优化代码：0.08秒
 - **提升：** 52倍速度提升

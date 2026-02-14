@@ -1,9 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'Next-Gen CSS: Tailwind v5 & Native Nesting'
+title: "Next-Gen CSS: Tailwind v5 & Native Nesting"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Ein Blick auf die CSS-Trends 2026. Analyse der neuen Funktionen von Tailwind v5, der Auswirkungen von nativem Browser-Nesting und des aktuellen Status von CSS-in-JS.'
-author: 'Hello Prompt AI'
+description: "Ein Blick auf die CSS-Trends 2026. Analyse der neuen Funktionen von Tailwind v5, der Auswirkungen von nativem Browser-Nesting und des aktuellen Status von CSS-in-JS."
+author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---
 
@@ -24,7 +25,7 @@ Browser interpretieren nun Syntax wie diese direkt und ohne Build-Schritte:
     font-weight: bold;
   }
   &:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 }
 ```

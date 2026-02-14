@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "LLM locaux sur mobile : L'impact de la puce Apple M6"
 description: "Une analyse technique de la façon dont la dernière puce M6 d'Apple révolutionne l'exécution des grands modèles de langage (LLM) locaux sur les appareils mobiles."
+date: "2026-02-13"
 pubDate: "2026-02-13"
 ---
 
@@ -14,17 +15,19 @@ Les modèles d'IA basés sur le cloud sont puissants, mais ils ont des limites c
 La puce M6 représente plus qu'une simple augmentation des performances CPU/GPU ; elle présente des changements architecturaux spécifiquement adaptés au traitement des réseaux neuronaux.
 
 ### 1. Neural Engine de nouvelle génération
+
 Le nouveau Neural Engine du M6 affiche des vitesses de calcul plus de 40 % plus rapides par rapport à la génération précédente. Il comprend des accélérateurs intégrés optimisés pour la multiplication matricielle — l'opération centrale des modèles Transformer — permettant aux modèles de classe de paramètres 7B de fonctionner en temps réel avec une consommation d'énergie minimale.
 
 ### 2. Bande passante mémoire unifiée étendue
+
 Le plus gros goulot d'étranglement pour l'exécution des LLM est souvent la bande passante mémoire plutôt que la vitesse de calcul, car les poids du modèle doivent être rapidement transférés vers le processeur. Le M6 étend considérablement la bande passante mémoire, permettant à des modèles plus grands (13B-30B) de se charger et d'inférer rapidement sans quantification, ou avec une perte minimale.
 
 ## Analyse des performances des LLM locaux
 
 Dans les tests de référence réels, la puce M6 démontre une efficacité remarquable.
 
-*   **Vitesse d'inférence :** Atteignant plus de 80 tokens/sec sur des modèles 7B quantifiés en 4 bits, dépassant de loin la vitesse de lecture humaine.
-*   **Efficacité énergétique :** La consommation d'énergie est réduite de 30 % par rapport aux puces M4/M5 pour les mêmes tâches, permettant une utilisation prolongée des fonctionnalités de l'assistant IA sur les appareils mobiles sans surchauffe.
+- **Vitesse d'inférence :** Atteignant plus de 80 tokens/sec sur des modèles 7B quantifiés en 4 bits, dépassant de loin la vitesse de lecture humaine.
+- **Efficacité énergétique :** La consommation d'énergie est réduite de 30 % par rapport aux puces M4/M5 pour les mêmes tâches, permettant une utilisation prolongée des fonctionnalités de l'assistant IA sur les appareils mobiles sans surchauffe.
 
 ## Confidentialité et expérience utilisateur
 

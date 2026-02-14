@@ -1,11 +1,12 @@
 ---
 title: "Construire une Infrastructure d'IA Personnelle : Pourquoi vous devriez posséder votre propre pile IA"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "Découvrez comment construire une infrastructure d'IA personnelle pour gagner en liberté en matière de confidentialité des données et de personnalisation, en vous éloignant de la dépendance au SaaS."
-author: 'Hello Prompt'
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ L'expert en sécurité et influenceur IA Daniel Miessler met l'accent sur le mes
 
 Les points clés sont :
 
-*   **LLM auto-hébergés :** Exécutez des modèles open source (Llama 3, Mistral, etc.) dans un environnement local à l'aide d'outils comme Ollama ou LM Studio.
-*   **Base de données vectorielle :** Fournissez du contexte à l'IA en la reliant à votre base de connaissances personnelle (Obsidian, Logseq, etc.).
-*   **Automatisation :** Connectez l'IA pour effectuer des tâches réelles à l'aide de n8n, LangChain, etc.
+- **LLM auto-hébergés :** Exécutez des modèles open source (Llama 3, Mistral, etc.) dans un environnement local à l'aide d'outils comme Ollama ou LM Studio.
+- **Base de données vectorielle :** Fournissez du contexte à l'IA en la reliant à votre base de connaissances personnelle (Obsidian, Logseq, etc.).
+- **Automatisation :** Connectez l'IA pour effectuer des tâches réelles à l'aide de n8n, LangChain, etc.
 
 ## Avantages de l'Infrastructure d'IA Personnelle
 

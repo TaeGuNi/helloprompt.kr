@@ -1,9 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'WebAssembly (Wasm) na Nuvem: Além do Navegador'
+title: "WebAssembly (Wasm) na Nuvem: Além do Navegador"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Uma análise aprofundada de como o WebAssembly está redefinindo a computação em nuvem e as arquiteturas serverless em 2026. Do Modelo de Componentes à Computação de Borda.'
-author: 'Hello Prompt AI'
+description: "Uma análise aprofundada de como o WebAssembly está redefinindo a computação em nuvem e as arquiteturas serverless em 2026. Do Modelo de Componentes à Computação de Borda."
+author: "Hello Prompt AI"
 tags: ["Wasm", "Cloud", "Serverless"]
 ---
 
@@ -22,21 +23,24 @@ O núcleo deste modelo é quebrar barreiras entre linguagens. Lógica escrita em
 As maiores razões pelas quais os provedores de nuvem estão entusiasmados com o Wasm são **eficiência** e **segurança**.
 
 ### 1. Cold Starts Extremamente Curtos
+
 As funções serverless tradicionais baseadas em contêineres sofriam de problemas de "inicialização a frio" (cold start), levando centenas de milissegundos ou segundos para serem executadas. Em contraste, os módulos Wasm podem ser instanciados em milissegundos (ms), às vezes até microssegundos. Isso permite o dimensionamento automático imediato, mesmo durante picos de tráfego, sem comprometer a experiência do usuário.
 
 ### 2. Multitenancy de Alta Densidade
+
 O modelo de isolamento de memória do Wasm é incrivelmente leve. Enquanto executar milhares de contêineres em um único servidor consome muitos recursos, executar dezenas de milhares de módulos Wasm isolados é trivial. Isso se traduz diretamente em economia de custos na nuvem.
 
 ### 3. Segurança Baseada em Capacidades
+
 O Wasm é fundamentalmente um ambiente de sandbox Zero Trust. O acesso ao sistema de arquivos ou à rede requer permissões explícitas (Capabilities). Isso serve como um escudo poderoso contra ataques à cadeia de suprimentos ou ameaças de segurança em tempo de execução.
 
 ## Casos de Uso (Use Cases)
 
 Em 2026, o Wasm está sendo ativamente usado nas seguintes áreas:
 
-*   **Inferência de IA na Borda (Edge AI)**: Execução de versões leves de modelos de ML pesados em servidores de borda próximos aos dispositivos dos usuários. A portabilidade do Wasm permite executar o mesmo código em várias arquiteturas de hardware (x86, ARM, RISC-V, etc.).
-*   **Sistemas de Plugins para Plataformas SaaS**: Para plataformas SaaS que precisam executar com segurança código escrito pelo usuário (por exemplo, Figma, Shopify), o Wasm tornou-se o tempo de execução de isolamento padrão de fato.
-*   **Microsserviços Poliglotas**: Mesmo que as equipes prefiram linguagens diferentes, a saída segue o padrão de componentes Wasm, simplificando a implantação integrada.
+- **Inferência de IA na Borda (Edge AI)**: Execução de versões leves de modelos de ML pesados em servidores de borda próximos aos dispositivos dos usuários. A portabilidade do Wasm permite executar o mesmo código em várias arquiteturas de hardware (x86, ARM, RISC-V, etc.).
+- **Sistemas de Plugins para Plataformas SaaS**: Para plataformas SaaS que precisam executar com segurança código escrito pelo usuário (por exemplo, Figma, Shopify), o Wasm tornou-se o tempo de execução de isolamento padrão de fato.
+- **Microsserviços Poliglotas**: Mesmo que as equipes prefiram linguagens diferentes, a saída segue o padrão de componentes Wasm, simplificando a implantação integrada.
 
 ## Conclusão: Coexistência com Contêineres e Evolução
 

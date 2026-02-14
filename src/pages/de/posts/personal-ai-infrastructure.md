@@ -1,11 +1,12 @@
 ---
-title: 'Aufbau einer persönlichen KI-Infrastruktur: Warum Sie Ihren eigenen KI-Stack besitzen sollten'
+title: "Aufbau einer persönlichen KI-Infrastruktur: Warum Sie Ihren eigenen KI-Stack besitzen sollten"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Erfahren Sie, wie Sie eine persönliche KI-Infrastruktur aufbauen, um Freiheit bei Datenschutz und Anpassung zu erlangen und sich von der SaaS-Abhängigkeit zu lösen.'
-author: 'Hello Prompt'
+description: "Erfahren Sie, wie Sie eine persönliche KI-Infrastruktur aufbauen, um Freiheit bei Datenschutz und Anpassung zu erlangen und sich von der SaaS-Abhängigkeit zu lösen."
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ Der Sicherheitsexperte und KI-Influencer Daniel Miessler betont in seinen Projek
 
 Die Kernpunkte sind:
 
-*   **Self-hosted LLMs:** Führen Sie Open-Source-Modelle (Llama 3, Mistral usw.) lokal mit Tools wie Ollama oder LM Studio aus.
-*   **Vektordatenbank:** Geben Sie der KI Kontext, indem Sie sie mit Ihrer persönlichen Wissensdatenbank (Obsidian, Logseq usw.) verknüpfen.
-*   **Automatisierung:** Verbinden Sie die KI, um mithilfe von n8n, LangChain usw. reale Aufgaben auszuführen.
+- **Self-hosted LLMs:** Führen Sie Open-Source-Modelle (Llama 3, Mistral usw.) lokal mit Tools wie Ollama oder LM Studio aus.
+- **Vektordatenbank:** Geben Sie der KI Kontext, indem Sie sie mit Ihrer persönlichen Wissensdatenbank (Obsidian, Logseq usw.) verknüpfen.
+- **Automatisierung:** Verbinden Sie die KI, um mithilfe von n8n, LangChain usw. reale Aufgaben auszuführen.
 
 ## Vorteile der persönlichen KI-Infrastruktur
 

@@ -1,0 +1,32 @@
+graph TD
+    subgraph Phase5 ["Phase 5: Rational Trust & Value"]
+        UserInput([User Request]) --> Router{Tier Selection}
+        
+        Router -- Standard --> DeepThink[Reasoning Engine]
+        Router -- Skinny --> FastPath[Fast Inference]
+        
+        subgraph StandardPipeline
+            DeepThink --> Plan[Execution Plan]
+            Plan --> Generate[Content Generation]
+            Generate --> AutoQA[Self-Correction]
+        end
+        
+        subgraph SkinnyPipeline
+            FastPath --> QuickGen[Rapid Output]
+        end
+        
+        AutoQA --> PriceCalcStandard[Price Calculator (Standard)]
+        QuickGen --> PriceCalcSkinny[Price Calculator (Skinny)]
+        
+        PriceCalcStandard --> TrustReport[Trust Report Generation]
+        PriceCalcSkinny --> TrustReport
+        
+        TrustReport --> Receipt["Virtual Receipt
+        (Compute + Thinking + QA)"]
+        
+        TrustReport --> Meta["Anti-Factory Spec
+        (Model Params, Version)"]
+        
+        Receipt --> FinalOutput([Final Response + Value Card])
+        Meta --> FinalOutput
+    end

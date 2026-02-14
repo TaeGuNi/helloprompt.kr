@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "OpenAI 'o2' Reasoning-Fähigkeiten: Was ist neu?"
 description: "Eine detaillierte Analyse der innovativen Reasoning-Fähigkeiten des neuesten OpenAI-Modells o2, seiner verbesserten 'Chain of Thought' (CoT) und seiner Auswirkungen auf die KI-Entwicklung."
+date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
@@ -13,8 +14,8 @@ Im Jahr 2024, als OpenAI erstmals KI mit "System 2"-Denken durch 'o1' einführte
 
 Wenn o1 die "Denkzeit" eingeführt hat, hat o2 die Tiefe und Effizienz dieses Denkens maximiert.
 
-*   **Dynamische Denktiefe:** o2 passt die Schritte seines Denkens dynamisch an die Schwierigkeit des Problems an. Es reagiert sofort auf einfache Fragen, durchläuft aber hunderte von internen Reasoning-Schritten für komplexe mathematische Beweise oder Architekturentwurfsanfragen.
-*   **Unsichtbare Reasoning-Optimierung:** Durch die drastische Reduzierung des Rechenaufwands im für den Benutzer unsichtbaren 'Hidden CoT'-Prozess zeigt es Reaktionsgeschwindigkeiten, die über 40% schneller sind als bei o1.
+- **Dynamische Denktiefe:** o2 passt die Schritte seines Denkens dynamisch an die Schwierigkeit des Problems an. Es reagiert sofort auf einfache Fragen, durchläuft aber hunderte von internen Reasoning-Schritten für komplexe mathematische Beweise oder Architekturentwurfsanfragen.
+- **Unsichtbare Reasoning-Optimierung:** Durch die drastische Reduzierung des Rechenaufwands im für den Benutzer unsichtbaren 'Hidden CoT'-Prozess zeigt es Reaktionsgeschwindigkeiten, die über 40% schneller sind als bei o1.
 
 ## 2. Perfektion der Selbstkorrektur-Mechanismen
 
@@ -26,9 +27,9 @@ Während frühere Modelle dazu neigten, Halluzinationen als Wahrheiten zu behaup
 
 Nach ersten Benchmark-Ergebnissen hat o2 Folgendes erreicht:
 
-*   **AIME (American Invitational Mathematics Examination):** Erreichte das Niveau der besten 0,5%.
-*   **Codeforces:** Problemlösungsfähigkeit, die dem legendären Großmeister-Rang entspricht.
-*   **Wissenschaftliche Fragen auf PhD-Niveau (GPQA):** Verzeichnete eine Genauigkeit, die menschliche Experten übertrifft.
+- **AIME (American Invitational Mathematics Examination):** Erreichte das Niveau der besten 0,5%.
+- **Codeforces:** Problemlösungsfähigkeit, die dem legendären Großmeister-Rang entspricht.
+- **Wissenschaftliche Fragen auf PhD-Niveau (GPQA):** Verzeichnete eine Genauigkeit, die menschliche Experten übertrifft.
 
 ## 4. Integration von multimodalem Reasoning
 

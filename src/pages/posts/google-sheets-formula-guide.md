@@ -25,7 +25,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **QUERY:** SQL 문법(`Select * Where...`)으로 데이터를 검색하고 필터링한다. (최강 기능)
 2.  **IMPORTRANGE:** 다른 시트 파일에 있는 데이터를 실시간으로 끌어온다.
@@ -43,7 +43,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 <br>
 
-### 🥇 Pro Version (AppScript 자동화)
+### 🥇 Pro Version (AppScript 자동화) {#appscript}
 
 값이 바뀌면 알림 보내기.
 
@@ -60,7 +60,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 구글 시트의 꽃은 **`IMPORTXML`**과 **`GOOGLEFINANCE`**입니다.
 `=GOOGLEFINANCE("NASDAQ:AAPL", "price")` 라고 치면 실시간 애플 주가가 나옵니다.
@@ -68,7 +68,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 데이터가 많아지면 느려져요.**
   - A: 구글 시트는 약 500만 셀 제한이 있습니다. 데이터가 수만 건 넘어가면 **BigQuery**나 **Airtable**로 넘어가야 합니다. 시트는 DB가 아닙니다.
@@ -78,7 +78,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **SQL 문법 언급:** `QUERY` 함수는 SQL과 비슷합니다. "Select \* Where..." 처럼 말하면 AI가 찰떡같이 알아듣고 정확한 수식을 줍니다.
 2.  **트리거 명시:** AppScript는 "언제 실행되는지(Trigger)"가 중요합니다. `onEdit`(수정 시)인지 `Time-driven`(시간마다)인지 명시해야 올바른 코드를 줍니다.
@@ -91,14 +91,14 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 데이터 바뀔 때마다 필터 다시 걸고, 복사해서 다른 시트에 붙여넣고... (귀찮음 🐢)
 
-### ✅ After (QUERY 함수)
+### ✅ After (QUERY 함수) {#query}
 
 `=QUERY(Data!A:E, "Select A, B Where C = '마케팅'", 1)`
 원본 데이터가 바뀌면 결과 시트도 **실시간으로 자동 업데이트**됨. (손 댈 필요 없음 🚀)
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 엑셀은 개인용 계산기지만, 구글 시트는 **팀의 시스템**입니다.
 함수 몇 개만 알면, 웬만한 업무용 프로그램(SaaS)을 안 사도 됩니다.

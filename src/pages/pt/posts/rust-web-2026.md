@@ -1,9 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Rust para Desenvolvimento Web: O Ecossistema em 2026'
+title: "Rust para Desenvolvimento Web: O Ecossistema em 2026"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Uma análise aprofundada sobre o estado do Rust no ecossistema de desenvolvimento web de 2026, a maturidade de frameworks como Axum e Leptos, e o equilíbrio entre desempenho e experiência do desenvolvedor (DX).'
-author: 'Hello Prompt AI'
+description: "Uma análise aprofundada sobre o estado do Rust no ecossistema de desenvolvimento web de 2026, a maturidade de frameworks como Axum e Leptos, e o equilíbrio entre desempenho e experiência do desenvolvedor (DX)."
+author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---
 
@@ -16,9 +17,11 @@ Nos últimos anos, o ecossistema web do Rust superou sua fase de explosão cambr
 As caóticas guerras de frameworks do início da década de 2020 acabaram. Surgiram vencedores e padrões claros tanto para o backend quanto para o frontend (WASM).
 
 ### Axum: O Padrão Sólido para Backend
+
 **Axum**, impulsionado pela equipe do Tokio, tornou-se o padrão indiscutível para backends em Rust. Sua integração perfeita com o ecossistema de serviços Tower, sua API intuitiva sem depender excessivamente de macros e seu desempenho avassalador o tornaram a escolha preferida para ambientes corporativos. Em 2026, o Axum ostenta uma API estável e um vasto ecossistema de middleware, oferecendo padrões estruturais aos quais desenvolvedores vindos do Spring Boot ou NestJS podem se adaptar facilmente.
 
 ### Leptos: O Vencedor do Frontend WASM
+
 Desenvolver frontends com Rust não é mais lento ou trabalhoso. **Leptos** aproveita um modelo de reatividade de granulação fina (fine-grained reactivity) para eliminar a sobrecarga do Virtual DOM, entregando desempenho comparável (ou superior) ao Svelte ou SolidJS. A renderização do lado do servidor (SSR) e a hidratação agora funcionam perfeitamente desde o início, e ferramentas como `cargo-leptos` fornecem uma experiência de desenvolvimento moderna completa com hot reloading.
 
 ## 2. Desempenho vs. Experiência do Desenvolvedor (DX)
@@ -26,9 +29,11 @@ Desenvolver frontends com Rust não é mais lento ou trabalhoso. **Leptos** apro
 O ditado "Rust é rápido, mas difícil de escrever" é apenas uma meia verdade em 2026.
 
 ### Velocidades de Compilação e Ferramentas
+
 Graças aos esforços contínuos da equipe do compilador Rust e à adoção do processamento paralelo no frontend, as velocidades de compilação incremental melhoraram drasticamente. Além disso, a adoção generalizada do linker `mold` e ferramentas avançadas de cache de build elevaram o ciclo de desenvolvimento local a um nível competitivo com ambientes Node.js ou Go.
 
 ### Estabilização da Programação Assíncrona
+
 Com o suporte estável para `async fn` em traits e mensagens de erro significativamente mais amigáveis, a experiência de "lutar contra o runtime assíncrono" diminuiu muito. IDEs dedicados como RustRover e um rust-analyzer mais inteligente reduzem o tempo que os desenvolvedores passam lutando com tipos, permitindo que se concentrem na lógica de negócios.
 
 ## 3. Quando você deve usar Rust?

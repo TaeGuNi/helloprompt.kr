@@ -1,8 +1,8 @@
 ---
 title: "Le piège de la singularité"
-description: "Critical analysis of singularity-trap: Marketing teams use Singularity fears to sell basic software."
+description: "Critical analysis of singularity-trap: The Singularity is a marketing myth to sell GPUs."
 date: "2026-02-14"
-image: "https://source.unsplash.com/random/1600x900/?blackhole,trap"
+image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 
@@ -12,7 +12,7 @@ The tech world is drowning in noise. We call it innovation; users call it exhaus
 ## The Problem
 This post explores the critical issue of **singularity-trap**. While executives cheer for metrics, the reality on the ground is different. We are seeing a massive disconnect between promise and delivery. 
 
-> "Marketing teams use Singularity fears to sell basic software."
+> "The Singularity is a marketing myth to sell GPUs."
 
 This isn't just a glitch. It's a systemic failure.
 

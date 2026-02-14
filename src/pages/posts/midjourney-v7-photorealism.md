@@ -25,7 +25,7 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 미드저니 v7은 빛(Lighting)과 질감(Texture) 표현이 비약적으로 상승했습니다.
 2. 카메라 렌즈, 필름 종류, 조명 세팅을 구체적으로 명시해야 '진짜' 같습니다.
@@ -78,13 +78,13 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 미드저니 v7의 핵심은 **'조명(Lighting)'**입니다. 단순히 "beautiful lighting"이라고 하지 말고, "Rembrandt lighting(렘브란트 조명)"이나 "Golden hour sunlight(골든 아워 자연광)"처럼 구체적인 조명 용어를 쓰세요. 이 프롬프트는 ChatGPT가 그런 전문 용어를 자동으로 채워주도록 설계되었습니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: `--style raw`가 뭔가요?**
   - A: 미드저니 특유의 '예쁜 보정'을 빼고, 사진 그대로의 날것 느낌을 살리는 파라미터입니다. 리얼함을 원한다면 필수입니다.
@@ -94,7 +94,7 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Camera Gear 명시:** 렌즈 밀리수(mm)를 정해주면 아웃포커싱(심도)이 자연스러워집니다.
 2.  **Film Stock:** 'Kodak Portra', 'Fujifilm' 같은 필름 이름을 넣으면 색감이 감성적으로 변합니다.
@@ -109,14 +109,14 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 > `A korean woman drinking coffee in cafe --v 7`
 > -> 그냥 예쁜 그림 같음. 피부 질감이 매끄러운 플라스틱 느낌.
 
-### ✅ After (Pro 프롬프트 적용 결과)
+### ✅ After (Pro 프롬프트 적용 결과) {#pro}
 
 > `Cinematic shot of a Korean woman in her 20s sipping an iced latte, natural sunlight hitting her face through window blinds, dust particles floating, shot on Sony A7R V, 85mm f/1.2, shallow depth of field, hyper-realistic skin texture, pore details visible, Kodak Portra 400 film grain --ar 16:9 --v 7 --style raw --q 2`
 > -> **결과:** 피부의 솜털, 모공, 햇살의 따스함까지 느껴지는 완벽한 실사 사진.
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 당신의 상상력을 현실로 인화(Print)하세요. 프롬프트 한 줄이면 당신도 사진작가입니다.
 

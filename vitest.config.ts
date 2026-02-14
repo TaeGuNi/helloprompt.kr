@@ -6,8 +6,9 @@ export default getViteConfig({
     include: [
       "src/**/*.{test,spec}.{js,ts}",
       "aura-core/tests/**/*.{test,spec}.{js,ts}",
+      "tests/reinforcement/**/*.{test,spec}.{js,ts}",
     ],
-    exclude: ["tests/**", "node_modules"],
+    exclude: ["tests/*.spec.ts", "node_modules"],
     coverage: {
       provider: "v8",
       reporter: ["text", "json", "html"],

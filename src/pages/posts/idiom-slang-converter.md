@@ -25,7 +25,7 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 평범한 문장을 입력하면 원어민이 자주 쓰는 관용구/슬랭으로 변환
 2. 해당 표현의 유래(Origin)와 정확한 뉘앙스 설명
@@ -66,7 +66,7 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -99,14 +99,14 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -116,7 +116,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 언어는 문화입니다. 이디엄을 하나 배울 때마다 그들의 문화를 하나 이해하는 셈입니다. 오늘부터 "Very hungry" 대신 "I could eat a horse"를 써보세요.
 

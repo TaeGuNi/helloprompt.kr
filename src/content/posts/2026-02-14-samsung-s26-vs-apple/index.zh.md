@@ -9,14 +9,14 @@ cover: "./cover.jpg"
 
 ## 核心硬件：NPU vs 神经网络引擎
 
-### 三星 Galaxy S26 (Snapdragon 8 Gen 5 / Exynos 2600)
+### 三星 Galaxy S26 (Snapdragon 8 Gen 5 / Exynos 2600) {#snapdragon-8-gen-5-exynos-2600}
 
 三星在 S26 系列上完善了“混合 AI”。
 
 - **NPU 性能：** 75 TOPS。
 - **RAM：** 标配 16GB，Ultra 版高达 24GB，可完全在端侧运行 130 亿参数的 LLM。
 
-### 苹果 iPhone 17 Pro (A20 Bionic)
+### 苹果 iPhone 17 Pro (A20 Bionic) {#a20-bionic}
 
 苹果专注于“效率”和“整合”。
 
@@ -43,5 +43,3 @@ cover: "./cover.jpg"
 ## 结论
 
 Galaxy S26 适合追求极致性能的**极客用户**。而 iPhone 17 旨在成为**“最懂你的助手”**，依靠软硬件的紧密结合。
-
-> _Auto-generated QA fix_

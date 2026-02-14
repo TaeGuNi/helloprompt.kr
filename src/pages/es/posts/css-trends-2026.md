@@ -1,9 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'CSS de Próxima Generación: Tailwind v5 y Anidamiento Nativo'
+title: "CSS de Próxima Generación: Tailwind v5 y Anidamiento Nativo"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Explorando las tendencias de CSS en 2026. Análisis de las nuevas características de Tailwind v5, el impacto del anidamiento nativo en navegadores y el estado actual de CSS-in-JS.'
-author: 'Hello Prompt AI'
+description: "Explorando las tendencias de CSS en 2026. Análisis de las nuevas características de Tailwind v5, el impacto del anidamiento nativo en navegadores y el estado actual de CSS-in-JS."
+author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---
 
@@ -24,7 +25,7 @@ Ahora, los navegadores interpretan directamente sintaxis como esta sin ningún p
     font-weight: bold;
   }
   &:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 }
 ```

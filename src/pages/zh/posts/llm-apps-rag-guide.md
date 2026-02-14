@@ -1,12 +1,13 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: '构建出色 LLM 应用与 RAG 的完整指南'
+title: "构建出色 LLM 应用与 RAG 的完整指南"
+date: 2024-02-13
 pubDate: 2024-02-13
-description: '了解如何利用 awesome-llm-apps 合集构建强大的 LLM 应用程序和 RAG 管道。'
-author: 'Hello Prompt'
+description: "了解如何利用 awesome-llm-apps 合集构建强大的 LLM 应用程序和 RAG 管道。"
+author: "Hello Prompt"
 image:
-    url: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop'
-    alt: 'AI Neural Network'
+  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
+  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -23,6 +24,7 @@ RAG 将 LLM 的知识与外部数据库或文档连接起来，使模型能够�
 GitHub 上的 `awesome-llm-apps` 是构建 RAG 管道、智能体（Agents）以及各种 LLM 应用程序的最佳开源项目的精选列表。
 
 你可以在这个合集中找到：
+
 - **RAG 管道**：检索文档并生成答案的完整流程。
 - **AI 智能体**：自主使用工具并执行任务的机器人。
 - **行业特定应用**：专为法律、医疗、编程等领域定制的解决方案。

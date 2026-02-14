@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Local LLMs on Mobile: The Apple M6 Chip Impact"
 description: "A technical analysis of how Apple's latest M6 chip is revolutionizing local Large Language Model (LLM) execution on mobile devices."
+date: "2026-02-13"
 pubDate: "2026-02-13"
 ---
 
@@ -14,17 +15,19 @@ Cloud-based AI models are powerful, but they have clear limitations: latency, pr
 The M6 chip represents more than just a CPU/GPU performance boost; it features architectural changes specifically tailored for neural network processing.
 
 ### 1. Next-Generation Neural Engine
+
 The new Neural Engine in the M6 boasts over 40% faster computation speeds compared to the previous generation. It includes built-in accelerators optimized for matrix multiplication—the core operation of Transformer models—allowing 7B parameter class models to run in real-time with minimal power consumption.
 
 ### 2. Expanded Unified Memory Bandwidth
+
 The biggest bottleneck for running LLMs is often memory bandwidth rather than compute speed, as model weights need to be rapidly transferred to the processor. The M6 significantly expands memory bandwidth, enabling larger models (13B-30B) to load and infer quickly without quantization, or with minimal loss.
 
 ## Performance Analysis of Local LLMs
 
 In real-world benchmarks, the M6 chip demonstrates remarkable efficiency.
 
-*   **Inference Speed:** Achieving over 80 tokens/sec on 4-bit quantized 7B models, far exceeding human reading speed.
-*   **Power Efficiency:** Power consumption is reduced by 30% compared to M4/M5 chips for the same tasks, allowing for prolonged use of AI assistant features on mobile devices without overheating.
+- **Inference Speed:** Achieving over 80 tokens/sec on 4-bit quantized 7B models, far exceeding human reading speed.
+- **Power Efficiency:** Power consumption is reduced by 30% compared to M4/M5 chips for the same tasks, allowing for prolonged use of AI assistant features on mobile devices without overheating.
 
 ## Privacy and User Experience
 

@@ -2,6 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "DeepSeek-V4: The New Open Source King?"
 description: "An in-depth analysis of DeepSeek-V4's technical features, benchmark performance, and its impact on the open-source AI ecosystem."
+date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"
 tags: ["AI", "LLM", "DeepSeek", "Open Source", "Machine Learning"]
@@ -19,21 +20,23 @@ In this post, we will delve into why DeepSeek-V4 is being hailed as the "New Ope
 At the heart of DeepSeek-V4 lies the evolution of the **"Multi-Head Latent MoE (Mixture of Experts)"** architecture.
 
 ### 1. Dynamic Expert Routing
+
 Unlike traditional MoE models that select a fixed top-k experts, V4 dynamically adjusts the number of activated experts based on the complexity of the input tokens. It uses fewer experts for simple grammatical processing and activates multiple experts simultaneously for segments requiring complex reasoning, improving computational efficiency by over 40%.
 
 ### 2. Infinite Context via Linear Attention
+
 DeepSeek-V4 introduces **Linear Sparse Attention**, an improvement over the traditional Transformer Attention mechanism, supporting a theoretically near-infinite context window. Tests have shown perfect recall capabilities even within a 10M (10 million) token window, without the "Lost-in-the-Middle" phenomenon. This means it can process the equivalent of 20 books at once.
 
 ## Benchmark Performance: VS GPT-5
 
 The most surprising aspect is its performance. In major benchmarks, DeepSeek-V4 has outperformed models considered to be industry standards.
 
-| Benchmark | DeepSeek-V4 | GPT-5 (Turbo) | Claude 4.5 Opus |
-| :--- | :--- | :--- | :--- |
-| **MMLU-Pro** | **94.2%** | 93.8% | 94.0% |
-| **HumanEval+** (Coding) | **96.5%** | 95.1% | 96.0% |
-| **MATH-500** | **98.1%** | 97.5% | 97.8% |
-| **Inference Cost** ($/1M tokens) | **$0.05** | $2.50 | $3.00 |
+| Benchmark                        | DeepSeek-V4 | GPT-5 (Turbo) | Claude 4.5 Opus |
+| :------------------------------- | :---------- | :------------ | :-------------- |
+| **MMLU-Pro**                     | **94.2%**   | 93.8%         | 94.0%           |
+| **HumanEval+** (Coding)          | **96.5%**   | 95.1%         | 96.0%           |
+| **MATH-500**                     | **98.1%**   | 97.5%         | 97.8%           |
+| **Inference Cost** ($/1M tokens) | **$0.05**   | $2.50         | $3.00           |
 
 Its performance in coding (HumanEval+) and mathematics (MATH) is particularly unrivaled. This is due to the DeepSeek team's drastic improvement of the Reinforcement Learning (RL) pipeline, internalizing the model's ability to verify and correct its own reasoning process.
 
@@ -52,4 +55,4 @@ DeepSeek-V4 is not just a model update. It is an event that completely shatters 
 
 With these three weapons, DeepSeek-V4 has become the true 'game changer' of the 2026 AI market. The question must now shift from "Can open source catch up?" to "How will closed-source models survive?"
 
-> *DeepSeek-V4 is currently available for download on HuggingFace and can be run immediately on the latest versions of vLLM and Ollama.*
+> _DeepSeek-V4 is currently available for download on HuggingFace and can be run immediately on the latest versions of vLLM and Ollama._

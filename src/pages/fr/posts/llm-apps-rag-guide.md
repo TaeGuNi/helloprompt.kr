@@ -1,12 +1,13 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'Guide Complet pour Créer des Applications LLM et RAG Incroyables'
+title: "Guide Complet pour Créer des Applications LLM et RAG Incroyables"
+date: 2024-02-13
 pubDate: 2024-02-13
-description: 'Apprenez à construire des applications LLM puissantes et des pipelines RAG en utilisant la collection awesome-llm-apps.'
-author: 'Hello Prompt'
+description: "Apprenez à construire des applications LLM puissantes et des pipelines RAG en utilisant la collection awesome-llm-apps."
+author: "Hello Prompt"
 image:
-    url: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop'
-    alt: 'AI Neural Network'
+  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
+  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -23,6 +24,7 @@ Le RAG connecte les connaissances d'un LLM à des bases de données ou des docum
 `awesome-llm-apps` sur GitHub est une liste organisée des meilleurs projets open-source pour construire des pipelines RAG, des agents et diverses applications LLM.
 
 Ce que vous pouvez trouver dans cette collection :
+
 - **Pipelines RAG** : Le flux complet pour récupérer des documents et générer des réponses.
 - **Agents IA** : Des bots qui utilisent des outils de manière autonome et effectuent des tâches.
 - **Applications Spécifiques à l'Industrie** : Des solutions adaptées à des domaines comme le droit, la médecine et le codage.

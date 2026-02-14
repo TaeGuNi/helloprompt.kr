@@ -1,13 +1,23 @@
 import { describe, it, expect } from "vitest";
 
 // Domain Logic Simulation (based on Research)
-type TreatmentType = "Exosome" | "PN" | "Senolytic" | "Senomorphic";
+type TreatmentType =
+  | "Exosome"
+  | "PN"
+  | "Senolytic"
+  | "Senomorphic"
+  | "Microbiome";
 
 interface TreatmentProfile {
   name: TreatmentType;
-  mechanism: "regeneration" | "apoptosis" | "suppression" | "scaffold";
+  mechanism:
+    | "regeneration"
+    | "apoptosis"
+    | "suppression"
+    | "scaffold"
+    | "balancing";
   onset: "rapid" | "gradual";
-  stability: "low" | "high";
+  stability: "low" | "high" | "medium";
   primaryEffect: string[];
 }
 
@@ -43,6 +53,14 @@ const Apigenin: TreatmentProfile = {
   primaryEffect: ["calming", "anti-redness", "SASP-inhibition"],
 };
 
+const Probiotic: TreatmentProfile = {
+  name: "Microbiome",
+  mechanism: "balancing",
+  onset: "gradual",
+  stability: "medium",
+  primaryEffect: ["barrier repair", "flora optimization", "flare prevention"],
+};
+
 function recommendTreatment(
   need:
     | "inflammation"
@@ -50,10 +68,12 @@ function recommendTreatment(
     | "density"
     | "rapid_fix"
     | "zombie_cells"
-    | "chronic_irritation",
+    | "chronic_irritation"
+    | "microbiome_imbalance",
 ): TreatmentType {
   if (need === "zombie_cells") return "Senolytic";
   if (need === "chronic_irritation") return "Senomorphic";
+  if (need === "microbiome_imbalance") return "Microbiome";
   if (need === "inflammation" || need === "rapid_fix") return "Exosome";
   if (need === "hydration" || need === "density") return "PN";
   return "PN"; // Default safe choice
@@ -79,6 +99,11 @@ describe("Skin Expert Logic (2026 Research)", () => {
     expect(Apigenin.mechanism).toBe("suppression");
   });
 
+  it("should characterize Microbiome modulators (Probiotics) as balancing agents", () => {
+    expect(Probiotic.mechanism).toBe("balancing");
+    expect(Probiotic.stability).toBe("medium");
+  });
+
   it("should recommend Exosomes for inflammation", () => {
     expect(recommendTreatment("inflammation")).toBe("Exosome");
   });
@@ -94,6 +119,10 @@ describe("Skin Expert Logic (2026 Research)", () => {
 
   it("should recommend Senomorphics for chronic irritation (SASP control)", () => {
     expect(recommendTreatment("chronic_irritation")).toBe("Senomorphic");
+  });
+
+  it("should recommend Microbiome modulators for imbalance", () => {
+    expect(recommendTreatment("microbiome_imbalance")).toBe("Microbiome");
   });
 
   it("should recommend Exosomes for rapid results", () => {

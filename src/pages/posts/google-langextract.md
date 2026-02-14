@@ -41,7 +41,7 @@ class MeetingInfo(BaseModel):
     start_time: datetime = Field(description="회의 시작 시간")
     location: str | None = Field(description="회의 장소 (없으면 null)")
 
-# 2. 추출기 초기화 (Gemini 모델 사용)
+# 2. 추출기 초기화 (Gemini 모델 사용) {#gemini}
 extractor = DataExtractor(model="gemini-1.5-flash")
 
 email_content = """
@@ -65,15 +65,15 @@ print(meeting)
 
 기존에는 정규식(Regex)을 쓰거나 복잡한 프롬프트를 작성해야 했지만, LangExtract를 사용하면 **코드 중심(Code-first)**으로 데이터 파이프라인을 구축할 수 있습니다. 특히 RAG(검색 증강 생성) 시스템에서 검색된 문서로부터 답변에 필요한 핵심 인자만을 발라내거나, 고객 지원 챗봇에서 주문 정보를 구조화하여 API로 넘길 때 매우 유용합니다.
 
-## 결론
+## 결론 {#conclusion}
 
 Google LangExtract는 LLM을 단순한 챗봇이 아닌, **신뢰할 수 있는 데이터 처리 엔진**으로 바꿔줍니다. 지금 바로 설치하여 여러분의 프로젝트에 도입해 보세요. 데이터 전처리의 고통이 획기적으로 줄어들 것입니다.
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.

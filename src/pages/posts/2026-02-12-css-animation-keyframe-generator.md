@@ -44,11 +44,11 @@ CSS 애니메이션 코드를 작성해 주세요. Tailwind CSS를 쓴다면 Tai
 3. **Cubic-bezier:** 단순히 `ease-in-out` 말고, 좀 더 세련된 커스텀 `cubic-bezier` 값을 추천해 주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 애니메이션은 '타이밍'이 생명입니다. AI가 짜준 코드에서 `animation-duration`이나 `cubic-bezier` 값만 살짝씩 조절해 보세요. 저는 특히 "애플(Apple) 스타일의 부드러운 감속(Deceleration) 효과를 내줘"라고 요청하는 걸 좋아합니다. 진짜 고급스러운 느낌이 납니다. 🍎
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. React/Vue의 Transition 라이브러리 코드도 되나요?**
 A. 네, "Framer Motion 코드로 짜줘" 또는 "Vue <Transition> 컴포넌트로 짜줘"라고 하면 해당 라이브러리 문법에 맞춰 줍니다.

@@ -161,23 +161,23 @@ inputs = tokenizer(
 outputs = model.generate(**inputs, max_new_tokens = 64, use_cache = True)
 tokenizer.batch_decode(outputs)
 
-# 저장 (LoRA 어댑터만 저장)
+# 저장 (LoRA 어댑터만 저장) {#lora}
 model.save_pretrained("lora_model")
 # GGUF로 저장 (선택 사항)
 # model.save_pretrained_gguf("model", tokenizer, quantization_method = "q4_k_m")
 ```
 
-## 결론
+## 결론 {#conclusion}
 
 Unsloth는 개인 개발자나 연구자가 고성능 GPU 클러스터 없이도 최신 LLM을 커스텀 데이터로 파인튜닝할 수 있는 길을 열어주었습니다. 지금 바로 Colab을 열고 나만의 모델을 만들어보세요.
 
 더 자세한 정보는 [Unsloth GitHub](https://github.com/unslothai/unsloth)를 참고하세요.
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.

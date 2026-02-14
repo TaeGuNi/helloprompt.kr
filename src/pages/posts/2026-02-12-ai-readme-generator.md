@@ -49,11 +49,11 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 5. **Emoji:** 적절한 이모지를 사용해 가독성을 높여주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 생성된 README는 '초안'입니다. 데모 스크린샷이나 GIF(움짤)는 AI가 만들어줄 수 없으니, 직접 찍어서 넣으면 화룡점정! 📸 프로젝트 로고가 없다면 DALL-E나 Midjourney로 생성해서 넣어보세요.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 파일 트리가 너무 길어요.**
 A. `node_modules`나 빌드 아티팩트(`dist`, `build`)는 제외하고 핵심 소스 코드(`src`) 위주로 복사하세요. `tree -I 'node_modules|dist'` 명령어를 쓰면 편합니다.

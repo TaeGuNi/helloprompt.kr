@@ -25,7 +25,7 @@ tags: ["Jira", "지라", "PM", "기획", "애자일"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  기획서(PRD) 텍스트를 복사한다.
 2.  AI에게 **"이거 Epic, Story, Task로 쪼개서 CSV로 만들어줘"**라고 한다.
@@ -44,7 +44,7 @@ tags: ["Jira", "지라", "PM", "기획", "애자일"]
 
 <br>
 
-### 🥇 Pro Version (Jira Import용 CSV 생성)
+### 🥇 Pro Version (Jira Import용 CSV 생성) {#jira-import-csv}
 
 이게 진짜입니다. 바로 업로드 가능한 파일 만들기.
 
@@ -71,14 +71,14 @@ tags: ["Jira", "지라", "PM", "기획", "애자일"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 개발자들이 가장 좋아하는 기획서는 **"AC(Acceptance Criteria, 인수 조건)가 명확한 티켓"**입니다.
 AI에게 "모든 Story의 설명(Description)에 **Given-When-Then** 형식의 인수 조건을 써줘"라고 시키면, 개발자가 되묻는 일이 획기적으로 줄어듭니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 엑셀로 받을 수 있나요?**
   - A: 네, AI가 마크다운 표(Table)로 주면 그걸 엑셀에 붙여넣고 CSV로 저장하면 됩니다.
@@ -88,7 +88,7 @@ AI에게 "모든 Story의 설명(Description)에 **Given-When-Then** 형식의 �
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Jira CSV 포맷:** 지라가 인식하는 헤더(`Issue Type`, `Summary` 등)를 정확히 명시해야 나중에 임포트할 때 에러가 안 납니다.
 2.  **계층 구조(Hierarchy):** Epic -> Story -> Task 구조를 이해하고 쪼개달라고 해야, 엉뚱하게 기능 단위가 아닌 작업 단위로만 쪼개지는 걸 막을 수 있습니다.
@@ -111,7 +111,7 @@ AI에게 "모든 Story의 설명(Description)에 **Given-When-Then** 형식의 �
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 기획자의 실력은 '문서 두께'가 아니라 **'개발자가 일하기 편하게 쪼개주는 능력'**입니다.
 AI를 당신의 **비서 PM**으로 쓰세요.

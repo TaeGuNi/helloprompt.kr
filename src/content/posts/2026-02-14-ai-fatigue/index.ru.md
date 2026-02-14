@@ -1,8 +1,8 @@
 ---
 title: "Эпоха усталости от ИИ"
-description: "Critical analysis of ai-fatigue: Users are exhausted by low-quality AI slop everywhere."
+description: "Critical analysis of ai-fatigue: Users are tired of AI features they didn't ask for."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/ai-fatigue/800/400"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]
 ---
 
@@ -12,7 +12,7 @@ The tech world is drowning in noise. We call it innovation; users call it exhaus
 ## The Problem
 This post explores the critical issue of **ai-fatigue**. While executives cheer for metrics, the reality on the ground is different. We are seeing a massive disconnect between promise and delivery. 
 
-> "Users are exhausted by low-quality AI slop everywhere."
+> "Users are tired of AI features they didn't ask for."
 
 This isn't just a glitch. It's a systemic failure.
 

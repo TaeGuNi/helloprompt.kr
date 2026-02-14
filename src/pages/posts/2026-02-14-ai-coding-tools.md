@@ -29,7 +29,7 @@ tags: ["개발자", "코딩", "생산성", "VSCode"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **GitHub Copilot:** 가장 무난하고 방대한 생태계, Enterprise 보안 강점.
 2. **Cursor:** VSCode 포크 기반의 강력한 통합, 'Composer' 기능으로 프로젝트 전체 수정 탁월.
@@ -82,7 +82,7 @@ tags: ["개발자", "코딩", "생산성", "VSCode"]
 
 <!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 개인적으로 **Cursor**의 'Composer' 기능을 애용합니다. 파일 하나가 아니라 프로젝트 전체의 맥락을 이해하고 수정해주기 때문에, 대규모 리팩토링 시 생산성이 압도적입니다. 하지만 회사 정책상 코드가 외부로 유출되는 것이 우려된다면, **GitHub Copilot Enterprise**가 안전한 선택이 될 수 있습니다.
 
@@ -90,7 +90,7 @@ tags: ["개발자", "코딩", "생산성", "VSCode"]
 
 <!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 무료 버전도 쓸만합니까?**
   - A: Codeium은 개인에게 무료로 강력한 기능을 제공합니다. Cursor도 제한된 횟수의 무료 사용이 가능합니다.
@@ -100,7 +100,7 @@ tags: ["개발자", "코딩", "생산성", "VSCode"]
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Role 부여:** "아키텍트"라는 역할을 주어 단순 코드 작성이 아닌 설계 관점의 조언을 유도합니다.
 2.  **Context 제공:** "레거시 코드", "유지보수 어려움"이라는 맥락을 주어 AI가 문제의 심각성을 인지하게 합니다.
@@ -129,7 +129,7 @@ function calc(a, b) {
  */
 function calculateValue(value, multiplier) {
   const THRESHOLD = 10;
-  
+
   if (value > THRESHOLD) {
     return value * multiplier;
   }
@@ -139,7 +139,7 @@ function calculateValue(value, multiplier) {
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 도구는 도구일 뿐입니다. 가장 중요한 것은 개발자의 **설계 능력**입니다. AI에게 주도권을 넘기지 말고, AI를 똑똑한 비서로 부리세요.
 

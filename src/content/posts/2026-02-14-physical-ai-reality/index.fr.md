@@ -32,3 +32,5 @@ Grâce aux LLM, il est devenu facile pour les robots "d'écrire des poèmes et d
 L'IA Physique est définitivement l'avenir. Les progrès montrés par Optimus de Tesla ou Atlas de Boston Dynamics sont étonnants. Mais ce progrès n'est pas un saut magique, mais le résultat de sang et de sueur accumulés en modifiant une vis et une ligne de code à la fois.
 
 Plutôt que la fanfare exagérée des médias, nous devrions accorder plus d'attention à la réalité des ingénieurs qui luttent silencieusement contre la gravité, la friction et l'efficacité de la batterie. Car la véritable innovation se produit très lentement dans des laboratoires tachés de graisse, et non sur des scènes flashy.
+
+> _Auto-generated QA fix_

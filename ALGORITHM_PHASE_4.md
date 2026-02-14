@@ -54,3 +54,21 @@ Instead of just showing the result, show the equation.
 
 Phase 4 hands over a _justified_ decision to Phase 5.
 `{ Selected_Treatment: "Titanium", Justification: "High Fear + Sagging", Excluded_Treatments: ["Ulthera (Pain)", "InMode (Downtime)"] }`
+
+## 6. BDD Logic Analysis (Test Cases)
+
+**Scenario: Safety Exclusion Transparency**
+
+- **Given** Phase 3 Output includes `{ Excluded_For_Safety: "Ulthera" }`
+- **When** Phase 4 renders the Logic Canvas
+- **Then** Display "Exclusion Zone" distinct from "Recommended Zone"
+- **And** Show message: "울쎄라는 현재 고객님의 컨디션(임신 가능성/통증 민감도)을 고려하여 제외되었습니다."
+- **And** Highlight: "안전(Safety) > 효과(Effect)" prioritization logic.
+
+**Scenario: Budget/Downtime Logic Check**
+
+- **Given** User prefers "No Downtime" (Zero Bruising)
+- **When** Algorithm considers "InMode FX" (Bruising Risk: High)
+- **Then** Auto-Exclude "InMode FX" from Primary Recommendation
+- **And** Swap with "Titanium Lifting" or "Tuneface" (Zero Downtime)
+- **And** Explain: "일상 생활에 지장이 없는 시술을 최우선으로 선택했습니다."

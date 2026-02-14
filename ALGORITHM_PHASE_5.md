@@ -43,11 +43,17 @@ _New Concept:_ **"Secure Your Appointment"**
 >
 > _(Note: 가격 정보는 투명하게 하단에 '예상 진료비'로 작게 표기하되, 메인 강조점은 '시간 확보'와 '해결'에 둠)_
 
-### C. Post-Action (Concierge Care)
+### C. Logic Transparency (Why This?)
+
+> "제안드린 프로토콜은 고객님의 '민감도'와 '피부 장벽 상태'를 고려하여, 무리한 자극 없이 최대의 효율을 내도록 설계되었습니다."
+>
+> - **제외된 시술:** 울쎄라 (통증 민감도 반영), 인모드 (멍 발생 가능성 고려)
+
+### D. Post-Action (Concierge Care)
 
 > "예약이 확정되면, 시술 전 주의사항(Pre-care guide)을 미리 보내드립니다. 편안한 방문이 되도록 준비하겠습니다."
 
 ## 3. Final Vibe Check
 
 - **Deleted:** "110% Price Match", "Hurry Up", "Limited Time Offer".
-- **Added:** "Diagnosis", "Protocol", "Prescription", "Secure Slot", "Pre-care".
+- **Added:** "Diagnosis", "Protocol", "Prescription", "Logic Transparency", "Secure Slot", "Pre-care".

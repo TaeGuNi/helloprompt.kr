@@ -57,3 +57,13 @@ Phase 3 passes a structured diagnosis to Phase 4 (Mapping):
 - **Then** Diagnosis is "Active Sebum & Textural Irregularity"
 - **And** Strategy is "Sebum Control + Resurfacing"
 - **And** Recommended Category is "Potenza + Exosome"
+
+**Scenario: Ambiguous Pregnancy Status (Hard-Gate)**
+
+- **Given** Phase 1 returns `{ Safety_Status: Caution, User_Note: "Preparing/Unknown" }`
+- **When** Phase 3 processes the data
+- **Then** Diagnosis is "Safety First / Hormonal Uncertainty"
+- **And** Strategy is "Zero-Risk Protocol"
+- **And** Force Exclude: "All Energy Devices" (Ulthera, Thermage, Laser)
+- **And** Recommend ONLY: "LDM Water Drop", "Oxygen Therapy"
+- **And** Note: "안전을 위해 확실해질 때까지는 자극 없는 관리만 진행합니다."

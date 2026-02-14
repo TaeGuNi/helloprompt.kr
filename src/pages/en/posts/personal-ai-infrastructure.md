@@ -1,11 +1,12 @@
 ---
-title: 'Building Personal AI Infrastructure: Why You Should Own Your AI Stack'
+title: "Building Personal AI Infrastructure: Why You Should Own Your AI Stack"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'Learn about building a personal AI infrastructure to gain freedom in data privacy and customization, moving away from SaaS dependency.'
-author: 'Hello Prompt'
+description: "Learn about building a personal AI infrastructure to gain freedom in data privacy and customization, moving away from SaaS dependency."
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ Security expert and AI influencer Daniel Miessler emphasizes the message "Own yo
 
 The key points are:
 
-*   **Self-hosted LLMs:** Run open-source models (Llama 3, Mistral, etc.) locally using tools like Ollama or LM Studio.
-*   **Vector Database:** Provide context to the AI by linking it with your personal knowledge base (Obsidian, Logseq, etc.).
-*   **Automation:** Connect the AI to perform actual tasks using n8n, LangChain, etc.
+- **Self-hosted LLMs:** Run open-source models (Llama 3, Mistral, etc.) locally using tools like Ollama or LM Studio.
+- **Vector Database:** Provide context to the AI by linking it with your personal knowledge base (Obsidian, Logseq, etc.).
+- **Automation:** Connect the AI to perform actual tasks using n8n, LangChain, etc.
 
 ## Benefits of Personal AI Infrastructure
 

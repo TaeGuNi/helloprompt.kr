@@ -1,12 +1,13 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: 'LLMアプリとRAG構築のための完全ガイド'
+title: "LLMアプリとRAG構築のための完全ガイド"
+date: 2024-02-13
 pubDate: 2024-02-13
-description: 'awesome-llm-appsコレクションを活用して、強力なLLMアプリケーションとRAGパイプラインを構築する方法を学びましょう。'
-author: 'Hello Prompt'
+description: "awesome-llm-appsコレクションを活用して、強力なLLMアプリケーションとRAGパイプラインを構築する方法を学びましょう。"
+author: "Hello Prompt"
 image:
-    url: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop'
-    alt: 'AI Neural Network'
+  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
+  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -23,6 +24,7 @@ RAGは、LLMの知識を外部データベースやドキュメントと接続�
 GitHubの`awesome-llm-apps`は、RAG、エージェント、そして様々なLLMアプリケーションを構築するための最高のオープンソースプロジェクトを集めたキュレーションです。
 
 このコレクションで見つけられるもの：
+
 - **RAGパイプライン**：ドキュメントを検索し、回答を生成する全体の流れ。
 - **AIエージェント**：自律的にツールを使用し、タスクを実行するボット。
 - **業界別アプリケーション**：法律、医療、コーディングなど特定のドメインに特化したソリューション。

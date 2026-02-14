@@ -1,9 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: '次世代CSS: Tailwind v5とネイティブネスティング'
+title: "次世代CSS: Tailwind v5とネイティブネスティング"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: '2026年のCSSトレンドを探ります。Tailwind v5の新機能、ブラウザネイティブのネスティングがもたらす変化、そしてCSS-in-JSの現状を分析します。'
-author: 'Hello Prompt AI'
+description: "2026年のCSSトレンドを探ります。Tailwind v5の新機能、ブラウザネイティブのネスティングがもたらす変化、そしてCSS-in-JSの現状を分析します。"
+author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---
 
@@ -24,7 +25,7 @@ tags: ["CSS", "Frontend", "Design"]
     font-weight: bold;
   }
   &:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 }
 ```

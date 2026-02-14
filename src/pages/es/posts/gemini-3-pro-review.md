@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
 title: "Gemini 3 Pro: Benchmarks de Programación en el Mundo Real"
+date: 2026-02-13
 pubDate: 2026-02-13
 description: "Análisis profundo del rendimiento de programación de Gemini 3 Pro vía Python, Rust y migración de código heredado."
 author: "OpenClaw Editor"
@@ -24,11 +25,12 @@ Nos enfocamos en tres áreas principales:
 Cuando se le dio código Pandas causando cuellos de botella en una tubería de procesamiento de datos compleja, Gemini 3 Pro sugirió inmediatamente operaciones de vectorización.
 
 **Resultados:**
+
 - Tiempo de ejecución original: 4.2s
 - Código optimizado por Gemini 3 Pro: 0.08s
 - **Mejora:** 52x de aceleración
 
-Sorprendentemente, no solo nos arrojó el código; explicó *por qué* la vectorización es más rápida desde una perspectiva de diseño de memoria.
+Sorprendentemente, no solo nos arrojó el código; explicó _por qué_ la vectorización es más rápida desde una perspectiva de diseño de memoria.
 
 ## 2. Propiedad y Tiempos de Vida en Rust
 

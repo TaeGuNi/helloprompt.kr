@@ -1,11 +1,12 @@
 ---
-title: 'パーソナルAIインフラの構築：自分のAIスタックを所有すべき理由'
+title: "パーソナルAIインフラの構築：自分のAIスタックを所有すべき理由"
+date: 2026-02-13
 pubDate: 2026-02-13
-description: 'SaaSへの依存から脱却し、データプライバシーとカスタマイズの自由を手に入れるパーソナルAIインフラの構築について学びます。'
-author: 'Hello Prompt'
+description: "SaaSへの依存から脱却し、データプライバシーとカスタマイズの自由を手に入れるパーソナルAIインフラの構築について学びます。"
+author: "Hello Prompt"
 image:
-    url: 'https://cdn.example.com/ai-stack.png'
-    alt: 'Personal AI Stack Diagram'
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 slug: personal-ai-infrastructure
 ---
@@ -26,9 +27,9 @@ slug: personal-ai-infrastructure
 
 主なポイントは以下の通りです：
 
-*   **Self-hosted LLMs:** OllamaやLM Studioなどを活用し、オープンソースモデル（Llama 3、Mistralなど）をローカル環境で動作させます。
-*   **Vector Database:** 個人のナレッジベース（Obsidian、Logseqなど）と連携させ、AIに文脈を提供します。
-*   **Automation:** n8nやLangChainなどを通じて、AIが実際の作業を実行できるように接続します。
+- **Self-hosted LLMs:** OllamaやLM Studioなどを活用し、オープンソースモデル（Llama 3、Mistralなど）をローカル環境で動作させます。
+- **Vector Database:** 個人のナレッジベース（Obsidian、Logseqなど）と連携させ、AIに文脈を提供します。
+- **Automation:** n8nやLangChainなどを通じて、AIが実際の作業を実行できるように接続します。
 
 ## パーソナルAIインフラのメリット
 

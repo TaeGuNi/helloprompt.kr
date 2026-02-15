@@ -13,19 +13,23 @@ author: "Assistant"
 
 ## 主要功能
 
-### 1. 文本生成 (Text Generation)
+### 1. 文本生成 (Text Generation) {#text-generation}
+
 支持最新的轻量级模型，如 Qwen 3、Llama 3.2、Gemma 3 和 Phi-4，还可以加载 `.gguf` 文件格式的自定义模型。在旗舰设备上，它以每秒 15-30 个 token 的速度快速响应，支持流式响应和“思考模式”。
 
-### 2. 图像生成 (Image Generation)
+### 2. 图像生成 (Image Generation) {#image-generation}
+
 在设备上运行 Stable Diffusion，提供实时预览。利用 Snapdragon 芯片组的 NPU 加速，可以在 5-10 秒内生成图像（iOS 使用 Core ML），支持包括 Absolute Reality 和 DreamShaper 在内的 20 多个模型。
 
-### 3. 视觉 AI (Vision AI)
+### 3. 视觉 AI (Vision AI) {#vision-ai}
+
 您可以将相机对准物体或文档，然后向 AI 提问。使用 SmolVLM、Qwen3-VL 等，可以分析文档、阅读收据和描述场景。
 
 ### 4. 语音输入和文档分析
+
 内置 OpenAI 的 Whisper 模型，支持语音转文本，您还可以将 PDF、代码文件、CSV 等附加到对话中，以分析和总结内容。
 
-## 性能 (Performance)
+## 性能 (Performance) {#performance}
 
 在配备 Snapdragon 8 Gen 2/3 或 Apple A17 Pro 芯片组的旗舰设备上的性能如下：
 

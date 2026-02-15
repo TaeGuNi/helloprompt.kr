@@ -9,7 +9,7 @@ description: "복잡한 데이터 처리 흐름, 코딩하느라 시간 쓰지 �
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 ---
 
-# 🌪️ 데이터 파이프라인(ETL): Airflow DAG 작성 자동화
+# 🌪️ 데이터 파이프라인(ETL): Airflow DAG 작성 자동화 {#etl}
 
 - **🎯 추천 대상:** 매일 새벽에 크론탭(Crontab) 터질까 봐 잠 못 자는 데이터 엔지니어, 스파게티처럼 꼬인 배치 작업을 정리하고 싶은 개발자
 - **⏱️ 소요 시간:** 10분 (DAG 작성)
@@ -25,7 +25,7 @@ tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Extract:** 데이터를 어디서 가져올지(DB, API) 말한다.
 2.  **Transform:** 어떻게 가공할지(필터링, 계산) 말한다.
@@ -63,7 +63,7 @@ tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 Airflow의 핵심은 **'멱등성(Idempotency)'**입니다.
 어제 돌린 걸 오늘 다시 돌려도 결과가 똑같아야 합니다.
@@ -71,7 +71,7 @@ AI에게 "이 DAG가 멱등성을 보장하도록 날짜 파라미터(`execution
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: Airflow 설치가 어려워요.**
   - A: 로컬에서는 `docker-compose`로 띄우는 게 정신 건강에 좋습니다. AI에게 "Airflow docker-compose.yaml 파일 줘"라고 하세요.
@@ -81,7 +81,7 @@ AI에게 "이 DAG가 멱등성을 보장하도록 날짜 파라미터(`execution
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **의존성(Dependency) 명시:** "A 끝나면 B, 실패하면 D"라는 흐름을 명확히 주면, AI가 `A >> B >> C`, `[A, B, C] >> D` 같은 연산자 로직을 정확히 구현합니다.
 2.  **Operator 지정:** `BashOperator`, `PythonOperator` 등 구체적인 오퍼레이터를 지정하면, 내 환경에 맞는 최적의 코드가 나옵니다.
@@ -100,7 +100,7 @@ AI에게 "이 DAG가 멱등성을 보장하도록 날짜 파라미터(`execution
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 데이터는 흐물흐물합니다. 파이프가 없으면 다 샙니다.
 튼튼한 파이프라인을 구축하세요.

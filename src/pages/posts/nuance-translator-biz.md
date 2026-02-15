@@ -27,7 +27,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  한글로 대충 씁니다. ("이거 좀 빨리 해줘")
 2.  AI에게 **"비즈니스 톤으로 바꿔줘"**라고 시킵니다.
@@ -70,7 +70,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Sandwich 기법:** 칭찬(빵) - 거절/요구(고기) - 칭찬(빵)으로 감싸는 화법을 AI에게 지시했습니다. 냅다 "깎아줘"라고 하는 것보다 훨씬 성공률이 높습니다.
 2.  **3가지 옵션 요청:** 톤에 따라 골라 쓸 수 있게 선택지를 달라고 하는 게 좋습니다. (Casual / Formal / Urgent 등)
@@ -86,21 +86,21 @@ _"Send me the file ASAP."_
 **Me:** "Please check attached file. If error, tell me."
 **Receiver:** (뭐야, 명령하는 거야?)
 
-### ✅ After (AI 교정)
+### ✅ After (AI 교정) {#ai}
 
 **AI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
 **Receiver:** (오, 배우신 분이군. 바로 확인해드려야지.)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -110,7 +110,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 영어를 못하는 건 죄가 아니지만, **무례한 건 죄**가 됩니다.
 단어장은 덮어두고, AI에게 물어보세요.

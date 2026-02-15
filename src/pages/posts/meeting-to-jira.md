@@ -25,7 +25,7 @@ tags: ["PM", "Jira", "회의록", "생산성"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 클로바노트/Zoom/Teams 등의 스크립트(STT)를 준비한다.
 2. AI에게 "Action Item"만 추출하여 "티켓 포맷"으로 변환하라고 시킨다.
@@ -70,7 +70,7 @@ tags: ["PM", "Jira", "회의록", "생산성"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 Claude 3.5 Sonnet은 긴 컨텍스트(Long Context)를 잘 다루기 때문에, 1시간짜리 회의 녹취록을 통째로 넣어도 핵심을 기가 막히게 잡아냅니다.
 

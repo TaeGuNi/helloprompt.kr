@@ -25,7 +25,7 @@ tags: ["Cursor", "Windsurf", "OpenClaw", "생산성", "개발도구"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **Cursor:** 압도적인 점유율, 가장 자연스러운 UX. (입문자 추천)
 2. **Windsurf:** 문맥(Context) 이해도가 미쳤음. 복잡한 프로젝트에 강함.
@@ -35,7 +35,7 @@ tags: ["Cursor", "Windsurf", "OpenClaw", "생산성", "개발도구"]
 
 ## 🚀 비교 분석: 승자는?
 
-### 🥉 3위: Windsurf (Codeium)
+### 🥉 3위: Windsurf (Codeium) {#codeium}
 
 **"깊이가 다르다."**
 Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 의존성을 파악합니다.
@@ -46,7 +46,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 <br>
 
-### 🥈 2위: OpenClaw (The Agent)
+### 🥈 2위: OpenClaw (The Agent) {#the-agent}
 
 **"코딩을 넘어 배포까지."**
 엄밀히 말해 에디터라기보다 **'CLI 기반 자율 에이전트'**입니다. "이 기능 만들어서 배포하고 PR 날려"라고 하면 진짜로 다 합니다.
@@ -57,7 +57,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 <br>
 
-### 🥇 1위: Cursor (The King)
+### 🥇 1위: Cursor (The King) {#the-king}
 
 **"여전히 왕좌를 지키다."**
 2026년 버전의 Cursor는 'Composer' 기능이 완성형에 도달했습니다. `Cmd+K` 하나면 못 만드는 게 없습니다.
@@ -68,7 +68,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 개인적으로 **기획 및 초안 작성은 Cursor**, **복잡한 버그 수정은 Windsurf**, **반복적인 배포/문서 작업은 OpenClaw**로 3-Tier 시스템을 구축했습니다. 하나만 고집하지 마세요. 도구는 상황에 맞게 골라 쓰는 게 진짜 '시니어'입니다.
 
@@ -76,7 +76,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 회사 보안 때문에 클라우드 못 쓰는데 어떡하죠?**
   - A: 3가지 도구 모두 'Local LLM' 연결 모드를 지원합니다. 성능은 떨어지지만 보안은 완벽합니다.
@@ -86,7 +86,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 ---
 
-## 🧬 프롬프트 해부 (How to use well?)
+## 🧬 프롬프트 해부 (How to use well?) {#how-to-use-well}
 
 도구가 아무리 좋아도 **'질문'**이 엉망이면 결과도 엉망입니다.
 
@@ -103,7 +103,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 - 단위 테스트 작성: 2시간
 - **총 6시간**
 
-### ✅ After (AI 에디터 활용)
+### ✅ After (AI 에디터 활용) {#ai}
 
 - 로그인 페이지 스캐폴딩 (Cursor): 10분
 - 비즈니스 로직 보완 (Windsurf): 20분
@@ -112,7 +112,7 @@ Windsurf의 'Cascade' 기능은 파일 수천 개를 순식간에 읽어들여 �
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 도구 탓을 할 시간이 없습니다. 지금 당장 설치하고, 동료들보다 9배 빨리 퇴근하세요.
 

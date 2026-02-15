@@ -21,7 +21,7 @@ tags: ["Scrum", "Agile", "Standup", "Communication"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **자동 요약:** 메모장에 적어둔 키워드만 던져주면 문장으로 변환.
 2. **포맷 통일:** Yesterday / Today / Blockers 표준 형식 준수.
@@ -76,13 +76,13 @@ tags: ["Scrum", "Agile", "Standup", "Communication"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 스탠드업은 '나 어제 야근했어요'를 자랑하는 자리가 아니라, '팀이 알아야 할 정보'를 공유하는 자리입니다. AI를 통해 사족을 쳐내고 핵심만 남기면, 동료들이 당신의 말을 더 경청하게 될 것입니다.
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 스탠드업 준비 시간을 줄이고, 그 시간에 커피 한 잔 더 하세요. ☕
 

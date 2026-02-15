@@ -9,7 +9,7 @@ description: "한 번 배포하면 수정 불가. 내 코드가 해킹당할 확
 tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 ---
 
-# ⛓️ 블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit)
+# ⛓️ 블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit) {#audit}
 
 - **🎯 추천 대상:** "코인 하나 만들어볼까?" 생각하는 호기심 많은 개발자, NFT 프로젝트를 준비 중인 기획자
 - **⏱️ 소요 시간:** 5분 (ERC-20 토큰 생성)
@@ -25,7 +25,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  만들고 싶은 토큰/NFT의 스펙을 말한다.
 2.  AI가 **Solidity 코드**를 짜준다.
@@ -35,7 +35,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 ## 🚀 해결책: "Smart Contract Developer Prompt"
 
-### 🥉 Basic Version (ERC-20 토큰 생성)
+### 🥉 Basic Version (ERC-20 토큰 생성) {#erc-20}
 
 나만의 코인 만들기.
 
@@ -60,7 +60,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 절대 바닥부터 짜지 마세요.
 **OpenZeppelin** 같은 검증된 라이브러리를 상속받아 쓰는 게 국룰입니다.
@@ -68,7 +68,7 @@ AI에게 "OpenZeppelin 최신 버전을 import 해서 짜줘"라고 해야 해�
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 배포는 돈 드나요?**
   - A: 메인넷은 비쌉니다(몇만 원~몇십만 원). `Sepolia` 같은 테스트넷에서 충분히 연습하세요. 테스트넷 이더리움은 공짜입니다.
@@ -78,7 +78,7 @@ AI에게 "OpenZeppelin 최신 버전을 import 해서 짜줘"라고 해야 해�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **OpenZeppelin 강제:** 보안의 핵심입니다. 표준 라이브러리를 쓰도록 명시해야 엉터리 코드가 안 나옵니다.
 2.  **재진입 공격(Re-entrancy):** 블록체인 해킹의 90%입니다. 이 단어를 언급하면 AI가 `nonReentrant` 수식어를 붙여서 방어 코드를 짜줍니다.
@@ -91,14 +91,14 @@ AI에게 "OpenZeppelin 최신 버전을 import 해서 짜줘"라고 해야 해�
 
 `balances[msg.sender] -= amount;` (순서 잘못 써서 돈 무한 복사 버그 발생 💸)
 
-### ✅ After (AI 감사)
+### ✅ After (AI 감사) {#ai}
 
 > **AI:** "출금 로직 순서가 위험합니다. **Checks-Effects-Interactions** 패턴을 따르세요. 상태를 먼저 변경하고 송금해야 재진입 공격을 막을 수 있습니다."
 > (코드 수정 -> 철통 방어 🛡️)
 
 ---
 
-## 🎯 결론
+## 🎯 결론 {#conclusion}
 
 코드는 법(Code is Law)입니다.
 판사님(AI)에게 미리 검사받으세요.

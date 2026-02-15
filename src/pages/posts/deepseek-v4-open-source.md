@@ -45,7 +45,7 @@ DeepSeek-V4는 기존의 Transformer Attention 메커니즘을 개선한 **Linea
 DeepSeek-V4의 또 다른 강점은 **접근성**입니다.
 671B(6710억) 파라미터의 거대 모델이지만, 고도로 최적화된 FP4(4-bit Floating Point) 양자화 기술 덕분에, **듀얼 RTX 5090** 또는 **Mac Studio (M4 Ultra)** 환경에서도 로컬 구동이 가능합니다. 이는 연구자와 개발자들이 클라우드 API에 의존하지 않고도, SOTA(State-of-the-Art) 모델을 자신의 장비에서 직접 실험하고 파이튜닝할 수 있음을 의미합니다.
 
-## 결론: 오픈소스의 승리인가?
+## 결론: 오픈소스의 승리인가? {#conclusion}
 
 DeepSeek-V4는 단순한 모델 업데이트가 아닙니다. 이는 "폐쇄형 AI만이 최고 성능을 낼 수 있다"는 통념을 완전히 깨부순 사건입니다.
 

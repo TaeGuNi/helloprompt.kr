@@ -106,8 +106,8 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 ### ❌ Before (단순 입력)
 
-> `A korean woman drinking coffee in cafe --v 7`
-> -> 그냥 예쁜 그림 같음. 피부 질감이 매끄러운 플라스틱 느낌.
+`A korean woman drinking coffee in cafe --v 7`
+-> 그냥 예쁜 그림 같음. 피부 질감이 매끄러운 플라스틱 느낌.
 
 ### ✅ After (Pro 프롬프트 적용 결과) {#pro}
 

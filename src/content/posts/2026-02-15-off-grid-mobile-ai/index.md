@@ -13,19 +13,23 @@ author: "Assistant"
 
 ## 주요 기능
 
-### 1. 텍스트 생성 (Text Generation)
+### 1. 텍스트 생성 (Text Generation) {#text-generation}
+
 Qwen 3, Llama 3.2, Gemma 3, Phi-4 등 최신 경량화 모델을 지원하며, `.gguf` 파일 형식의 사용자 정의 모델도 불러올 수 있습니다. 플래그십 기기 기준으로 초당 15~30 토큰의 빠른 속도로 응답하며, 스트리밍 답변과 'Thinking Mode'를 지원합니다.
 
-### 2. 이미지 생성 (Image Generation)
+### 2. 이미지 생성 (Image Generation) {#image-generation}
+
 Stable Diffusion을 기기 내에서 구동하여 실시간 미리보기를 제공합니다. 스냅드래곤 칩셋의 NPU 가속을 활용하면 5~10초 만에 이미지를 생성할 수 있으며(iOS는 Core ML 활용), Absolute Reality, DreamShaper 등 20개 이상의 모델을 지원합니다.
 
-### 3. 비전 AI (Vision AI)
+### 3. 비전 AI (Vision AI) {#vision-ai}
+
 카메라로 사물이나 문서를 비추고 AI에게 질문할 수 있습니다. SmolVLM, Qwen3-VL 등을 활용해 문서를 분석하거나 영수증을 읽고, 장면을 묘사하는 작업이 가능합니다.
 
 ### 4. 음성 입력 및 문서 분석
+
 OpenAI의 Whisper 모델을 내장하여 음성을 텍스트로 변환할 수 있으며, PDF, 코드 파일, CSV 등을 대화에 첨부하여 내용을 분석하고 요약할 수 있습니다.
 
-## 성능 (Performance)
+## 성능 (Performance) {#performance}
 
 스냅드래곤 8 Gen 2/3 또는 Apple A17 Pro 칩셋을 탑재한 플래그십 기기에서의 성능은 다음과 같습니다:
 

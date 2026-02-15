@@ -121,7 +121,7 @@ export default function ChatPage() {
 }
 ```
 
-## 결론
+## 결론 {#conclusion}
 
 Tambo SDK를 사용하면 복잡한 로직 없이도 AI가 여러분의 React 컴포넌트를 자유자재로 다루게 할 수 있습니다. 채팅창은 더 이상 텍스트만의 공간이 아닙니다. 이제 앱의 기능을 대화 속으로 가져오세요.
 

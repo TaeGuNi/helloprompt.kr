@@ -43,11 +43,11 @@ tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 4. **주석:** 각 섹션이 어떤 역할을 하는지 간단한 주석을 달아주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 생성된 YAML은 바로 `kubectl apply -f -`로 적용하기 전에 반드시 눈으로 한 번 검증하세요(dry-run). 특히 운영 환경(Production)에서는 보안 설정(SecurityContext)이나 리소스 쿼터(ResourceQuota)를 꼼꼼히 챙겨야 합니다. AI는 '작동하는' 설정을 주지만 '가장 안전한' 설정을 보장하진 않으니까요.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. Helm Chart도 만들어주나요?**
 A. 네! "이 YAML을 Helm Chart 구조로 바꿔줘"라고 추가 요청하면 `values.yaml`과 템플릿 파일로 분리해 줍니다.

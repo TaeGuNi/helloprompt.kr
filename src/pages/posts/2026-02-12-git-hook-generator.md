@@ -44,11 +44,11 @@ Git Hook으로 사용할 쉘 스크립트를 작성해 주세요.
 3. **Husky 설정(선택):** 만약 Husky를 쓴다면 `package.json`이나 `.husky/` 설정 방법도 알려주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 이 프롬프트로 "메인 브랜치(main/master)에 직접 푸시하는 것을 막는 pre-push 훅"을 만들어서 사용합니다. 실수로 `git push origin main`을 입력했을 때, AI가 짜준 스크립트가 "잠깐! PR을 통해서만 병합할 수 있어요."라고 막아줄 때의 안도감이란! 🛡️
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 윈도우(Windows)에서도 작동하나요?**
 A. Git Bash나 WSL을 사용한다면 작동하지만, 팀원들의 OS가 다양하다면 Husky와 같은 Node.js 기반 도구를 사용하는 것이 호환성 면에서 좋습니다.

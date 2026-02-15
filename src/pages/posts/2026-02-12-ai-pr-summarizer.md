@@ -44,11 +44,11 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 개발자 팀원을 위해 전문적이고 간결한 톤으로 작성해 주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 Github Copilot Enterprise나 일부 CI 도구들이 이 기능을 내장하고 있지만, 로컬에서 `git diff | pbcopy` 한 다음 LLM에 던져보는 것만으로도 충분히 강력합니다. 특히 복잡한 리팩토링 PR에서 "내가 뭘 바꿨는지" 스스로 검증할 때도 유용해요!
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. Diff가 너무 길어서 입력이 안 되면 어떡하죠?**
 A. Claude 3.5 Sonnet이나 Gemini 1.5 Pro처럼 컨텍스트 윈도우가 큰 모델을 사용하세요. 그래도 길다면 파일별로 나누거나 중요한 파일만 입력하세요.

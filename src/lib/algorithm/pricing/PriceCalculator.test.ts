@@ -26,4 +26,18 @@ describe("PriceCalculator", () => {
 
     expect(skinny / standard).toBe(0.4);
   });
+
+  it("should calculate Bundle tier correctly", () => {
+    const result = PriceCalculator.calculate("BUNDLE");
+
+    expect(result.tier).toBe("BUNDLE");
+    // Standard 250 * 5 = 1250.
+    // Discount 15% = 187.5.
+    // Total = 1250 - 187.5 = 1062.5.
+    expect(result.total).toBe(1062.5);
+    expect(result.components).toHaveLength(5); // 4 + Discount
+    const discount = result.components.find((c) => c.key === "bundle_discount");
+    expect(discount).toBeDefined();
+    expect(discount?.cost).toBe(-187.5);
+  });
 });

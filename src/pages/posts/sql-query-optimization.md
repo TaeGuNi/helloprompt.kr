@@ -105,10 +105,10 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 ### ✅ After (Index Seek)
 
 > **AI:** "`orders` 테이블의 `user_id`와 `created_at` 컬럼으로 **복합 인덱스(Composite Index)**를 만드세요."
->
-> `CREATE INDEX idx_user_date ON orders(user_id, created_at);`
->
-> (결과: 5초 -> 0.05초 (100배 빨라짐) 🚀)
+
+`CREATE INDEX idx_user_date ON orders(user_id, created_at);`
+
+(결과: 5초 -> 0.05초 (100배 빨라짐) 🚀)
 
 ---
 

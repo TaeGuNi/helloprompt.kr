@@ -19,6 +19,9 @@ describe("TrustReportGenerator", () => {
     // Check Anti-Factory Spec
     expect(report.spec.version).toContain("phase5");
     expect(report.spec.reasoning_steps).toBeGreaterThan(0);
+    expect(report.spec.latency_ms).toBeGreaterThan(0);
+    expect(report.spec.token_usage).toBeDefined();
+    expect(report.spec.token_usage?.input).toBeGreaterThan(0);
   });
 
   it("should respect overrides", () => {

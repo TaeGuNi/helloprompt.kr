@@ -7,6 +7,13 @@ export interface AntiFactorySpec {
   reasoning_steps?: number;
   timestamp: string;
   version: string;
+  // Detailed Output
+  latency_ms?: number;
+  token_usage?: {
+    input: number;
+    output: number;
+    reasoning?: number;
+  };
 }
 
 export interface VirtualReceipt {
@@ -31,6 +38,7 @@ export class TrustReportGenerator {
     overrides?: Partial<AntiFactorySpec>,
   ): TrustReport {
     const isStandard = pricingResult.tier === "STANDARD";
+    const isBundle = pricingResult.tier === "BUNDLE";
 
     // Transform PricingResult to VirtualReceipt
     const receipt: VirtualReceipt = {
@@ -50,13 +58,26 @@ export class TrustReportGenerator {
       currency: pricingResult.currency,
     };
 
+    // Calculate simulated usage based on tier
+    const baseLatency = isStandard ? 2400 : 800;
+    const latency = isBundle ? baseLatency * 5 * 0.8 : baseLatency; // Parallel gains?
+    const tokens = isStandard ? 1200 : 400;
+
     const spec: AntiFactorySpec = {
-      model_name: isStandard ? "DeepSeek-R1-Distill" : "Llama-3-8b-Instant",
-      temperature: isStandard ? 0.6 : 0.8, // Lower temp for precision in Standard
+      model_name:
+        isStandard || isBundle ? "DeepSeek-R1-Distill" : "Llama-3-8b-Instant",
+      temperature: isStandard || isBundle ? 0.6 : 0.8, // Lower temp for precision in Standard/Bundle
       top_p: 0.95,
-      reasoning_steps: isStandard ? Math.floor(Math.random() * 10) + 5 : 0,
+      reasoning_steps:
+        isStandard || isBundle ? Math.floor(Math.random() * 10) + 5 : 0,
       timestamp: new Date().toISOString(),
       version: "v7.5.0-phase5",
+      latency_ms: Math.floor(latency + Math.random() * 200),
+      token_usage: {
+        input: Math.floor(tokens * 0.3),
+        output: Math.floor(tokens * 0.7),
+        reasoning: isStandard || isBundle ? Math.floor(tokens * 0.2) : 0,
+      },
       ...overrides,
     };
 

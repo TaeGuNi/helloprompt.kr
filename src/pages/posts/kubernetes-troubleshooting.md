@@ -102,11 +102,11 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 ### ✅ After (AI 진단) {#ai}
 
 > **AI:** "로그를 보니 `Insufficient cpu`네요. 현재 노드에 CPU 자원이 꽉 찼습니다.
->
-> 1. 불필요한 파드를 끄거나,
-> 2. 오토스케일링(Cluster Autoscaler)을 켜세요.
-> 3. 임시 조치로 이 파드의 `requests.cpu`를 500m에서 200m로 낮춰서 배포해보세요."
->    (결과: YAML 수정 후 1분 만에 정상 가동 ✅)
+
+1. 불필요한 파드를 끄거나,
+2. 오토스케일링(Cluster Autoscaler)을 켜세요.
+3. 임시 조치로 이 파드의 `requests.cpu`를 500m에서 200m로 낮춰서 배포해보세요."
+   (결과: YAML 수정 후 1분 만에 정상 가동 ✅)
 
 ---
 

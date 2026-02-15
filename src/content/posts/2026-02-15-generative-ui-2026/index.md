@@ -6,7 +6,7 @@ image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 
-# 제너레이티브 UI 패턴 (Generative UI Patterns)
+# 제너레이티브 UI 패턴 (Generative UI Patterns) {#generative-ui-patterns}
 
 ## 소개
 
@@ -32,7 +32,7 @@ tags: ["AI", "Tech", "generative-ui-2026"]
 2.  **컴포넌트 레지스트리 (Component Registry):** AI가 호출할 수 있는 "단순(Dumb)" UI 컴포넌트(차트, 폼, 카드)들의 깊이 있게 타입 지정된 라이브러리. AI는 HTML을 환각(hallucinate)해내는 것이 아니라, 사용 가능한 안전한 도구 목록에서 선택합니다.
 3.  **스트리밍 하이드레이션 (Streaming Hydration):** 텍스트와 함께 UI 정의를 스트리밍하는 기능으로, 인터페이스가 점진적으로 "나타나게(pop)" 하여 속도감과 반응성을 유지할 수 있게 합니다.
 
-## 결론
+## 결론 {#conclusion}
 
 제너레이티브 UI는 단순히 화려한 유행이 아닙니다. 이것은 선언적 UI 프레임워크가 확률적 AI와 결합하여 도달한 논리적 귀결입니다. 정적 페이지를 제작하는 것에서 유연한 컴포넌트 시스템을 정의하는 것으로 초점을 옮김으로써, 우리는 사용자가 자신의 경험을 직접 형성할 수 있도록 힘을 실어줍니다.
 

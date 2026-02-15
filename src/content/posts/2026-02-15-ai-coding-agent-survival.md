@@ -29,7 +29,7 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 ---
 
-## 2. 에이전트에게 일을 맡기는 법 (The Delegation Framework)
+## 2. 에이전트에게 일을 맡기는 법 (The Delegation Framework) {#the-delegation-framework}
 
 에이전트는 신입 사원과 같습니다. 똑똑하지만 눈치가 없고, 시키지 않은 일은 안 하거나(혹은 사고를 치거나) 합니다.
 일을 맡길 때는 다음 3가지를 명확히 해야 합니다.

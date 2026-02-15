@@ -6,7 +6,7 @@ image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 ---
 
-# 퀀텀 AI 하이브리드 (Quantum AI Hybrids)
+# 퀀텀 AI 하이브리드 (Quantum AI Hybrids) {#quantum-ai-hybrids}
 
 ## 서론
 
@@ -24,7 +24,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 개발자에게 있어 이는 추상화 계층의 변화를 의미합니다. 우리는 순수한 `cuda`나 `mps` 디바이스 타겟에서 하이브리드 파이프라인으로 이동하고 있습니다. TensorFlow Quantum이나 Qiskit Machine Learning과 같은 프레임워크가 성숙해짐에 따라, 표준 Keras나 PyTorch 모델 내에 "양자 계층(quantum layers)"을 정의할 수 있게 되었습니다. 코드는 익숙해 보이지만, 실행은 확률론적 영역에서 이루어집니다.
 
-    # 하이브리드 계층의 의사 코드(Pseudo-code) 예제
+    # 하이브리드 계층의 의사 코드(Pseudo-code) 예제 {#pseudo-code}
     import tensorflow_quantum as tfq
     import cirq
     import tensorflow as tf
@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 잡음과 오류 수정(NISQ 시대의 제약)이라는 과제가 남아있지만, 양자 힐베르트 공간(Hilbert spaces)의 표현력 덕분에 더 적은 매개변수로 더 높은 정확도를 달성할 수 있는 잠재력은 현재 탐구되고 있는 분명한 이점입니다.
 
-## 결론
+## 결론 {#conclusion}
 
 퀀텀 AI 하이브리드는 하드웨어 전문화의 논리적인 다음 단계입니다. 우리는 전체 OS를 구동할 "범용 양자 컴퓨터"를 기다리고 있는 것이 아닙니다. 우리는 오늘날의 잡음이 있는 중간 규모(NISQ)의 양자 장치를 사용하여 AI의 특정 서브루틴을 가속화하고 있습니다.
 

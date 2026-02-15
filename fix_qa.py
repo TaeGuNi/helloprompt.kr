@@ -71,8 +71,13 @@ def process_file(filepath):
         with open(filepath, 'w', encoding='utf-8') as f:
             f.writelines(new_lines)
 
-base_dir = '/Users/jjhome/openclaw/5/.openclaw/workspace/factory_zone/qa/src/content/posts'
-files = glob.glob(os.path.join(base_dir, '**/*.md'), recursive=True)
+base_dirs = [
+    '/Users/jjhome/openclaw/5/.openclaw/workspace/factory_zone/qa/src/content/posts',
+    '/Users/jjhome/openclaw/5/.openclaw/workspace/factory_zone/qa/src/pages/posts'
+]
+files = []
+for d in base_dirs:
+    files.extend(glob.glob(os.path.join(d, '**/*.md'), recursive=True))
 
 for fp in files:
     process_file(fp)

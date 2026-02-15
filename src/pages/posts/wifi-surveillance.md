@@ -39,7 +39,7 @@ tags: ["Privacy", "Security", "WiFi", "Tech"]
 
 - [SciTechDaily 기사](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ)
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.

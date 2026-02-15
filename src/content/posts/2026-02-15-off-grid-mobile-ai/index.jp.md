@@ -13,16 +13,20 @@ author: "Assistant"
 
 ## 主な機能
 
-### 1. テキスト生成 (Text Generation)
+### 1. テキスト生成 (Text Generation) {#text-generation}
+
 Qwen 3、Llama 3.2、Gemma 3、Phi-4などの最新の軽量モデルをサポートし、`.gguf`ファイル形式のカスタムモデルも読み込むことができます。フラッグシップデバイスでは毎秒15〜30トークンの高速応答が可能で、ストリーミング応答と「Thinking Mode」をサポートしています。
 
-### 2. 画像生成 (Image Generation)
+### 2. 画像生成 (Image Generation) {#image-generation}
+
 Stable Diffusionをデバイス上で実行し、リアルタイムプレビューを提供します。SnapdragonチップセットのNPUアクセラレーションを活用すれば、5〜10秒で画像を生成できます（iOSはCore MLを活用）。Absolute Reality、DreamShaperなど20以上のモデルをサポートしています。
 
 ### 3. ビジョンAI (Vision AI)
+
 カメラで物やドキュメントを映してAIに質問することができます。SmolVLM、Qwen3-VLなどを活用して、ドキュメントを分析したり、レシートを読んだり、シーンを説明する作業が可能です。
 
 ### 4. 音声入力とドキュメント分析
+
 OpenAIのWhisperモデルを内蔵して音声をテキストに変換でき、PDF、コードファイル、CSVなどを会話に添付して内容を分析し要約することができます。
 
 ## パフォーマンス (Performance)

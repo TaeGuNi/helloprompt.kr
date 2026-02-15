@@ -13,7 +13,7 @@ image: "/images/2026/02/15/self-healing-cicd.jpg"
 
 오늘은 GitHub Actions와 AI를 결합해 **'스스로 고치는' CI/CD 파이프라인**을 구축하는 실전 가이드를 공개합니다.
 
-## 1. 단순 자동화(Automation)를 넘어 자율(Autonomous)로
+## 1. 단순 자동화(Automation)를 넘어 자율(Autonomous)로 {#automation}
 
 기존의 CI는 **"테스트 -> 실패 -> 알림"**의 구조였습니다. 개발자가 직접 개입해야 했죠.
 하지만 **에이전틱 워크플로우(Agentic Workflow)**를 적용하면 **"테스트 -> 실패 -> 분석 -> 수정 -> 재검증"**의 루프가 완성됩니다.
@@ -61,7 +61,7 @@ image: "/images/2026/02/15/self-healing-cicd.jpg"
 > }
 > ```
 
-## 3. 🚨 주의사항: 무한 루프의 늪 (Infinite Loops)
+## 3. 🚨 주의사항: 무한 루프의 늪 (Infinite Loops) {#infinite-loops}
 
 AI 에이전트가 코드를 고쳐서 커밋했는데, 그 커밋이 또 CI를 트리거하고, 또 실패해서 AI가 다시 도는... **'좀비 에이전트'** 사태를 겪어본 적 있으신가요?
 

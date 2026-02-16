@@ -5,7 +5,7 @@ description: "了解 Chain-of-Thought 提示如何幫助大型語言模型逐步
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 
-## 什麼是 Chain-of-Thought (CoT) 提示？
+## 什麼是 Chain-of-Thought (CoT) 提示？ {#cot}
 
 **Chain-of-Thought (CoT)** 提示是一種提示工程技術，旨在幫助大型語言模型 (LLM) 執行複雜的推理任務。這種方法不是僅僅要求模型給出最終答案，而是鼓勵模型生成導出解決方案的**中間推理步驟 (intermediate reasoning steps)**。
 
@@ -24,17 +24,20 @@ CoT 的核心是**「讓我們一步步思考 (Let's think step by step)」**。
 ### 範例：數學問題
 
 **標準提示：**
+
 > 問：羅傑有 5 個球。狗吃了 2 個。他給了艾爾 1 個。還剩幾個？
 > 答：2
 
 （模型可能只是看到了數字並進行了錯誤的算術運算。）
 
 **Chain-of-Thought 提示：**
+
 > 問：羅傑有 5 個球。狗吃了 2 個。他給了艾爾 1 個。還剩幾個？
 > 答：羅傑開始有 5 個球。
+>
 > 1. 狗吃了 2 個，所以 5 - 2 = 3。
 > 2. 然後他給了艾爾 1 個，所以 3 - 1 = 2。
-> 答案是 2。
+>    答案是 2。
 
 透過明確說明中間步驟，模型減少了邏輯錯誤的可能性，並產生更準確的結果。
 

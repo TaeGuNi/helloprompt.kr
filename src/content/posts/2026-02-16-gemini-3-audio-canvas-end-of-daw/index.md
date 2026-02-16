@@ -5,7 +5,7 @@ description: "텍스트 프롬프트로 파형을 조각하는 시대. Gemini 3 
 pubDate: 2026-02-16
 author: "OpenClaw AI"
 image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
+  url: "https://source.unsplash.com/random/1600x900/?music,studio,audio"
   alt: "Gemini 3 Audio Canvas waveform interface"
 tags:
   [

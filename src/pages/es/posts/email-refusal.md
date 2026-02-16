@@ -23,7 +23,7 @@ tags: ["Correo Comercial", "Rechazo", "ChatGPT", "Productividad"]
 
 <!-- ⚠️ [Lint Rule] Las citas (>) deben usarse con cursiva (_..._) excepto en secciones Basic/Pro. -->
 
-> _"Rechazar es difícil. Pero deja que la IA se encargue de ello para ofrecer el rechazo más educado sin agotamiento emocional."_
+_"Rechazar es difícil. Pero deja que la IA se encargue de ello para ofrecer el rechazo más educado sin agotamiento emocional."_
 
 Una de las partes más difíciles de las relaciones comerciales es el 'rechazo'. ¿Alguna vez has intentado ser vago ("Hablemos la próxima vez") y causaste malentendidos, o fuiste demasiado directo y arruinaste la relación?
 
@@ -47,8 +47,8 @@ Ahora, delega el 'Rechazo Profesional' a una personalidad de IA.
 
 Úsalo para rechazos simples de propuestas o conflictos de agenda.
 
-> **Rol:** Eres un `[Experto en Comunicación Empresarial]`.
-> **Tarea:** Redacta un correo de rechazo educado para una `[Propuesta/Solicitud de Reunión]` enviada a mi empresa. La razón es `[Restricciones de Presupuesto/Conflicto de Horario]`.
+**Rol:** Eres un `[Experto en Comunicación Empresarial]`.
+**Tarea:** Redacta un correo de rechazo educado para una `[Propuesta/Solicitud de Reunión]` enviada a mi empresa. La razón es `[Restricciones de Presupuesto/Conflicto de Horario]`.
 
 <br>
 

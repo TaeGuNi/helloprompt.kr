@@ -18,7 +18,7 @@ tags: ["Agentes de IA", "Automatización", "Productividad", "Flujo de Trabajo"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Sigues solo chateando con la IA? Deja que trabaje para ti."_
+_"¿Sigues solo chateando con la IA? Deja que trabaje para ti."_
 
 En 2026, la IA ya no solo 'habla'. Planifica, usa herramientas y verifica resultados. Este prompt asigna el rol de un 'Agente' para delegar tareas complejas a la IA.
 
@@ -38,8 +38,8 @@ En 2026, la IA ya no solo 'habla'. Planifica, usa herramientas y verifica result
 
 Para escenarios de automatización simples.
 
-> **Rol:** Eres un `[Experto en Automatización de Negocios]`.
-> **Solicitud:** Diseña un flujo de trabajo para que un agente de IA realice la tarea de `[Resumir boletines de correo electrónico y enviarlos a Slack]`.
+**Rol:** Eres un `[Experto en Automatización de Negocios]`.
+**Solicitud:** Diseña un flujo de trabajo para que un agente de IA realice la tarea de `[Resumir boletines de correo electrónico y enviarlos a Slack]`.
 
 <br>
 

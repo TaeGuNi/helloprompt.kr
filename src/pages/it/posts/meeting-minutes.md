@@ -19,7 +19,7 @@ tags: ["Riunione", "Riassunto", "Produttività"]
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
-> _"Non chiedere 'Di cosa parlavamo?' dopo la riunione. Con un file audio, il riassunto è pronto in 1 minuto."_
+_"Non chiedere 'Di cosa parlavamo?' dopo la riunione. Con un file audio, il riassunto è pronto in 1 minuto."_
 
 Registrare tutto ciò che viene detto in una riunione è inefficiente. Ciò che conta sono le 'decisioni prese' e le 'cose da fare (Action Item)'. Questo prompt trasforma i contenuti sparsi della riunione in un elenco di compiti chiaro.
 
@@ -39,9 +39,9 @@ Registrare tutto ciò che viene detto in una riunione è inefficiente. Ciò che 
 
 Usalo quando vuoi cogliere rapidamente solo i punti essenziali.
 
-> **Ruolo:** Sei un assistente competente.
-> **Richiesta:** Riassumi questo verbale e dimmi solo i 3 punti chiave.
-> **Input:** `[Testo del verbale]`
+**Ruolo:** Sei un assistente competente.
+**Richiesta:** Riassumi questo verbale e dimmi solo i 3 punti chiave.
+**Input:** `[Testo del verbale]`
 
 <br>
 

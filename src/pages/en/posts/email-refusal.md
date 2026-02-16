@@ -23,7 +23,7 @@ tags: ["Business Email", "Refusal", "ChatGPT", "Productivity"]
 
 <!-- ⚠️ [Lint Rule] Blockquotes (>) must be used with italics (_..._) except in Basic/Pro sections. -->
 
-> _"Refusal is hard. But let AI handle it to deliver the most polite rejection without emotional exhaustion."_
+_"Refusal is hard. But let AI handle it to deliver the most polite rejection without emotional exhaustion."_
 
 One of the hardest parts of business relationships is 'refusal'. Have you ever tried to be vague ("Let's see next time") and caused misunderstanding, or been too blunt and ruined the relationship?
 

@@ -15,7 +15,7 @@ tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 - **⏱️ 읽는 시간:** 3분
 - **🤖 관련 기술:** Flutter, C++, Toyota Fluorite
 
-> _"플러터로 게임을? 그것도 콘솔급으로? 토요타가 해냈습니다."_
+_"플러터로 게임을? 그것도 콘솔급으로? 토요타가 해냈습니다."_
 
 토요타(Toyota)가 'Fluorite'라는 이름의 새로운 게임 엔진을 공개했습니다. 놀랍게도 구글의 플러터(Flutter)를 기반으로 합니다.
 

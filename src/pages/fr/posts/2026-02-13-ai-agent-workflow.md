@@ -18,7 +18,7 @@ tags: ["Agents IA", "Automatisation", "Productivité", "Flux de Travail"]
 - ⚡️ **Efficacité:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité:** ⭐⭐⭐⭐⭐
 
-> _"Vous discutez encore juste avec l'IA ? Laissez-la travailler pour vous."_
+_"Vous discutez encore juste avec l'IA ? Laissez-la travailler pour vous."_
 
 En 2026, l'IA ne fait plus que « parler ». Elle planifie, utilise des outils et vérifie les résultats. Ce prompt attribue le rôle d'un « Agent » pour déléguer des tâches complexes à l'IA.
 
@@ -38,8 +38,8 @@ En 2026, l'IA ne fait plus que « parler ». Elle planifie, utilise des outils e
 
 Pour des scénarios d'automatisation simples.
 
-> **Rôle :** Vous êtes un `[Expert en Automatisation Commerciale]`.
-> **Demande :** Concevez un flux de travail pour qu'un agent IA effectue la tâche de `[Résumer les newsletters par e-mail et les envoyer sur Slack]`.
+**Rôle :** Vous êtes un `[Expert en Automatisation Commerciale]`.
+**Demande :** Concevez un flux de travail pour qu'un agent IA effectue la tâche de `[Résumer les newsletters par e-mail et les envoyer sur Slack]`.
 
 <br>
 

@@ -19,7 +19,7 @@ tags: ["Tailwind", "CSS", "프론트엔드", "웹디자인", "코딩"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"아... 글자 가운데 정렬하는 클래스가 `text-center`였나 `align-center`였나?"_
+_"아... 글자 가운데 정렬하는 클래스가 `text-center`였나 `align-center`였나?"_
 
 Tailwind CSS는 빠르지만, 클래스명을 외우는 게 고역입니다. 검색하지 마세요. 그냥 **"CSS 속성"**을 말하거나 **"원하는 모양"**을 설명하세요. AI가 최적의 유틸리티 클래스를 조합해 줍니다.
 
@@ -94,9 +94,9 @@ Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**
 
 ### ✅ After (Tailwind)
 
-> **나:** "카드 컴포넌트 줘. 그림자 있고 둥글게."
-> **AI:** `<div className="rounded-xl shadow-md p-6 bg-white">...</div>`
-> (그 자리에서 바로 확인 🚀)
+**나:** "카드 컴포넌트 줘. 그림자 있고 둥글게."
+**AI:** `<div className="rounded-xl shadow-md p-6 bg-white">...</div>`
+(그 자리에서 바로 확인 🚀)
 
 ---
 

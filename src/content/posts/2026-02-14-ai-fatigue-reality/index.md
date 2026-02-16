@@ -5,7 +5,7 @@ date: "2026-02-14"
 cover: "./cover.jpg"
 ---
 
-## 현실 점검 (Reality Check)
+## 현실 점검 (Reality Check) {#reality-check}
 
 2026년, AI에 대한 초기 경이로움은 사라졌습니다. 업계는 "12시간 업무를 20분 만에"라며 생산성 혁명을 약속했지만, 우리가 현실에서 마주하는 것은 **"AI Slop (디지털 쓰레기)"** 뿐입니다.
 
@@ -25,11 +25,11 @@ cover: "./cover.jpg"
 
 > _Auto-generated QA fix_
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 주제는 향후 5년간 가장 중요한 기술 트렌드가 될 것입니다.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q: 핵심은 무엇인가요?**
 A: AI와 인간의 공존입니다.

@@ -9,7 +9,7 @@ description: "DB 부하를 줄이고 응답 속도를 높이는 Redis 활용법.
 tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 ---
 
-# 🚀 Redis 캐싱 전략: 조회 속도 100배 빠르게 만들기
+# (Updated) 🚀 Redis 캐싱 전략: 조회 속도 100배 빠르게 만들기
 
 - **🎯 추천 대상:** "DB CPU가 100% 쳤어요!" 비명 지르는 백엔드 개발자, 동시 접속자 몰리면 서버 터지는 서비스 운영자
 - **⏱️ 소요 시간:** 5분 (패턴 이해)
@@ -25,7 +25,7 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Look-aside:** "캐시에 있어? (Hit) -> 줘. / 없어? (Miss) -> DB에서 가져와서 캐시에 넣고 줘." (가장 많이 씀)
 2.  **Write-back:** "일단 캐시에 다 적어. 나중에 한꺼번에 DB에 옮길게." (쓰기가 많을 때)
@@ -33,9 +33,9 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 
 ---
 
-## 🚀 해결책: "Cache Strategy Prompt"
+## (Updated) 🚀 해결책: "Cache Strategy Prompt"
 
-### 🥉 Basic Version (기본 캐싱 로직)
+### (Updated) 🥉 Basic Version (기본 캐싱 로직)
 
 함수에 캐시 씌우기.
 
@@ -44,7 +44,7 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 
 <br>
 
-### 🥇 Pro Version (캐시 스탬피드 방지)
+### (Updated) 🥇 Pro Version (캐시 스탬피드 방지)
 
 대규모 트래픽에서의 캐시 운영.
 
@@ -63,7 +63,7 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 Redis는 **'휘발성'**입니다. 전원 꺼지면 날아갑니다.
 절대로 **"영구 보존해야 하는 데이터(결제 내역, 회원 정보)"**를 Redis에만 저장하지 마세요.
@@ -71,7 +71,7 @@ Redis는 잃어버려도 다시 DB에서 가져올 수 있는 데이터만 넣�
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: Memcached랑 뭐가 달라요?**
   - A: Redis는 자료구조(List, Set, Hash)를 지원합니다. 단순 키-값 저장소 이상입니다. 랭킹 서버(Sorted Set) 만들 때 최고입니다.
@@ -81,28 +81,32 @@ Redis는 잃어버려도 다시 DB에서 가져올 수 있는 데이터만 넣�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **패턴 이름 명시:** "Look-aside", "Write-back" 같은 전문 용어를 쓰면 AI가 정확한 로직을 구현해 줍니다.
 2.  **엣지 케이스(Stampede):** 캐시 시스템의 가장 큰 취약점인 '만료 시점의 폭주'를 언급하여, 단순 캐싱 코드가 아닌 **'방탄 조끼 입은 코드'**를 얻어냅니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
-### ❌ Before (No Cache)
+### (Updated) ❌ Before (No Cache)
 
 사용자 1만 명 접속 -> DB 커넥션 풀 고갈 -> `Too many connections` 에러 -> 서버 다운 💣
 
-### ✅ After (Redis Cache)
+### (Updated) ✅ After (Redis Cache)
 
 사용자 1만 명 접속 -> 9,999명은 Redis에서 1ms 만에 데이터 가져감 -> DB는 평온함 🍃
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 DB를 늘리는 건 비싸지만, Redis를 붙이는 건 쌉니다.
 가성비 최고의 성능 튜닝.
 
 **"일단 캐시에 올려보세요."** 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

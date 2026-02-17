@@ -67,7 +67,7 @@ _"아침은 잠자는 동안 흐트러진 뇌를 재정렬하는 시간이다."_
 
 이 글은 생성형 AI가 아닌 제가 직접 뇌과학 지식을 바탕으로 작성했습니다. 하지만 AI에게 다음과 같이 물어보면 더 자세한 논문을 찾아줄 겁니다.
 
-> "Explain the Cortisol Awakening Response (CAR) and its impact on morning productivity based on recent neuroscience papers."
+"Explain the Cortisol Awakening Response (CAR) and its impact on morning productivity based on recent neuroscience papers."
 
 ---
 

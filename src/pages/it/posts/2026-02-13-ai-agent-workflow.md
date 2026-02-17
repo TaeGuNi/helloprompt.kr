@@ -18,7 +18,7 @@ tags: ["Agenti IA", "Automazione", "Produttività", "Flusso di Lavoro"]
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
-> _"Stai ancora solo chattando con l'IA? Lascia che lavori per te."_
+_"Stai ancora solo chattando con l'IA? Lascia che lavori per te."_
 
 Nel 2026, l'IA non si limita più a "parlare". Pianifica, usa strumenti e verifica i risultati. Questo prompt assegna il ruolo di un "Agente" per delegare compiti complessi all'IA.
 
@@ -38,8 +38,8 @@ Nel 2026, l'IA non si limita più a "parlare". Pianifica, usa strumenti e verifi
 
 Per scenari di automazione semplici.
 
-> **Ruolo:** Sei un `[Esperto di Automazione Aziendale]`.
-> **Richiesta:** Progetta un flusso di lavoro per un agente IA per eseguire il compito di `[Riassumere le newsletter via email e inviarle a Slack]`.
+**Ruolo:** Sei un `[Esperto di Automazione Aziendale]`.
+**Richiesta:** Progetta un flusso di lavoro per un agente IA per eseguire il compito di `[Riassumere le newsletter via email e inviarle a Slack]`.
 
 <br>
 

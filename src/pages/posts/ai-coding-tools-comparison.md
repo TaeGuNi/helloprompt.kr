@@ -19,7 +19,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"도구 탓 하지 마라? 웃기는 소리. 장비가 좋으면 퇴근이 빨라진다."_
+_"도구 탓 하지 마라? 웃기는 소리. 장비가 좋으면 퇴근이 빨라진다."_
 
 2026년, 개발자의 IDE는 더 이상 단순한 에디터가 아닙니다. **GitHub Copilot**의 아성에 **Cursor**가 도전했고, 이제 **Windsurf**까지 가세했습니다. 각 도구의 장단점을 파헤쳐 드립니다.
 
@@ -98,9 +98,9 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 
 ### ✅ After (도구 변경)
 
-> **나 (Cursor):** "@Codebase 이 함수랑 연결된 API 타입 다 찾아서 수정해줘."
-> **AI:** "네, `types.ts`, `api.ts`, `component.tsx` 수정했습니다."
-> (광명 찾음 ✨)
+**나 (Cursor):** "@Codebase 이 함수랑 연결된 API 타입 다 찾아서 수정해줘."
+**AI:** "네, `types.ts`, `api.ts`, `component.tsx` 수정했습니다."
+(광명 찾음 ✨)
 
 ---
 

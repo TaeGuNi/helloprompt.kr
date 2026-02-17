@@ -55,4 +55,4 @@ DeepSeek-V4 is not just a model update. It is an event that completely shatters 
 
 With these three weapons, DeepSeek-V4 has become the true 'game changer' of the 2026 AI market. The question must now shift from "Can open source catch up?" to "How will closed-source models survive?"
 
-> _DeepSeek-V4 is currently available for download on HuggingFace and can be run immediately on the latest versions of vLLM and Ollama._
+_DeepSeek-V4 is currently available for download on HuggingFace and can be run immediately on the latest versions of vLLM and Ollama._

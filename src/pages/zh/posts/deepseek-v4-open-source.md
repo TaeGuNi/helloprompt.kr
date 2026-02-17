@@ -55,4 +55,4 @@ DeepSeek-V4 不仅仅是一次模型更新。它彻底打破了“只有闭源 A
 
 手握这三大武器，DeepSeek-V4 已成为 2026 年 AI 市场真正的“游戏规则改变者”。现在的问题不再是“开源能否追赶？”，而是“闭源模型将如何生存？”。
 
-> _DeepSeek-V4 目前已在 HuggingFace 上提供下载，并可通过最新版本的 vLLM 和 Ollama 立即运行。_
+_DeepSeek-V4 目前已在 HuggingFace 上提供下载，并可通过最新版本的 vLLM 和 Ollama 立即运行。_

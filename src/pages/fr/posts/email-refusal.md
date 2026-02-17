@@ -23,7 +23,7 @@ tags: ["Courriel Pro", "Refus", "ChatGPT", "Productivité"]
 
 <!-- ⚠️ [Lint Rule] Les citations (>) doivent être utilisées avec l'italique (_..._) sauf dans les sections Basic/Pro. -->
 
-> _"Refuser est difficile. Mais laissez l'IA s'en charger pour offrir le refus le plus poli sans épuisement émotionnel."_
+_"Refuser est difficile. Mais laissez l'IA s'en charger pour offrir le refus le plus poli sans épuisement émotionnel."_
 
 L'une des parties les plus difficiles des relations commerciales est le 'refus'. Avez-vous déjà essayé d'être vague ("Voyons la prochaine fois") et causé des malentendus, ou été trop direct et ruiné la relation ?
 
@@ -47,8 +47,8 @@ Maintenant, déléguez le 'Refus Professionnel' à une personnalité IA.
 
 Utilisez ceci pour les refus simples de propositions ou les conflits d'agenda.
 
-> **Rôle:** Tu es un `[Expert en Communication d'Entreprise]`.
-> **Tâche:** Rédige un courriel de refus poli pour une `[Proposition/Demande de Réunion]` envoyée à mon entreprise. La raison est `[Contraintes Budgétaires/Conflit d'Horaire]`.
+**Rôle:** Tu es un `[Expert en Communication d'Entreprise]`.
+**Tâche:** Rédige un courriel de refus poli pour une `[Proposition/Demande de Réunion]` envoyée à mon entreprise. La raison est `[Contraintes Budgétaires/Conflit d'Horaire]`.
 
 <br>
 

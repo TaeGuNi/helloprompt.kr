@@ -18,7 +18,7 @@ tags: ["AI Agents", "Automation", "Productivity", "Workflow"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Still just chatting with AI? Let it work for you."_
+_"Still just chatting with AI? Let it work for you."_
 
 In 2026, AI no longer just 'talks'. It plans, uses tools, and verifies results. This prompt assigns the role of an 'Agent' to delegate complex tasks to AI.
 

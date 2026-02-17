@@ -4842,225 +4842,257 @@
   {
     "slug": "2026-02-11-claude-3-5-sonnet-review",
     "path": "src/content/posts/2026-02-11-claude-3-5-sonnet-review/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-09-fastapi-production-boilerplate",
     "path": "src/content/posts/2026-02-09-fastapi-production-boilerplate/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-email-refusal",
     "path": "src/content/posts/2026-02-13-email-refusal/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-daily-writing-challenge-calendar",
     "path": "src/content/posts/2026-02-04-daily-writing-challenge-calendar/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-word-chain-game",
     "path": "src/content/posts/2026-02-12-ai-word-chain-game/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-ai-beginners-guide",
     "path": "src/content/posts/2026-02-04-ai-beginners-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-static-site-generator-guide",
     "path": "src/content/posts/2026-02-12-static-site-generator-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-autogpt-2-agents",
     "path": "src/content/posts/2026-02-14-autogpt-2-agents/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-json-to-typescript-zod",
     "path": "src/content/posts/2026-02-04-json-to-typescript-zod/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-industry-trend-analysis",
     "path": "src/content/posts/2026-02-04-industry-trend-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-chart-indicator-analysis",
     "path": "src/content/posts/2026-02-04-chart-indicator-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-ai-coding-assistants-2026",
     "path": "src/content/posts/2026-02-15-ai-coding-assistants-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-04-calming-tantrums-with-empathy",
     "path": "src/content/posts/2026-02-04-calming-tantrums-with-empathy/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-dall-e-4-integration",
     "path": "src/content/posts/2026-02-14-dall-e-4-integration/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-14-wrapper-startup-bubble",
     "path": "src/content/posts/2026-02-14-wrapper-startup-bubble/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 40
   },
   {
     "slug": "2026-02-15-chain-of-thought",
     "path": "src/content/posts/2026-02-15-chain-of-thought/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-resume-professional-summary-writer",
     "path": "src/content/posts/2026-02-04-resume-professional-summary-writer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-gpt-5-physics.en",
     "path": "src/content/posts/2026-02-15-gpt-5-physics.en/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-04-villain-character-interview-prompt",
     "path": "src/content/posts/2026-02-04-villain-character-interview-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-email-triage-assistant",
     "path": "src/content/posts/2026-02-12-email-triage-assistant/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-indoor-treasure-hunt-clues",
     "path": "src/content/posts/2026-02-04-indoor-treasure-hunt-clues/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-ai-travel-planner",
     "path": "src/content/posts/2026-02-04-ai-travel-planner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-descent-web-port",
     "path": "src/content/posts/2026-02-15-descent-web-port/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-15-multimodal-prompting",
     "path": "src/content/posts/2026-02-15-multimodal-prompting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-13-rust-web",
     "path": "src/content/posts/2026-02-13-rust-web/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-airflow-dag-generator",
     "path": "src/content/posts/2026-02-12-airflow-dag-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-11-notion-finance-tracker",
     "path": "src/content/posts/2026-02-11-notion-finance-tracker/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-homework-motivation-questions-for-kids",
     "path": "src/content/posts/2026-02-04-homework-motivation-questions-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-rust-gpu-driver-arm-mali",
     "path": "src/content/posts/2026-02-13-rust-gpu-driver-arm-mali/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-prompt-injection-defense",
     "path": "src/content/posts/2026-02-14-prompt-injection-defense/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-30-day-home-workout-challenge-with-ai",
     "path": "src/content/posts/2026-02-04-30-day-home-workout-challenge-with-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-ai-fatigue",
     "path": "src/content/posts/2026-02-14-ai-fatigue/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   }
 ]

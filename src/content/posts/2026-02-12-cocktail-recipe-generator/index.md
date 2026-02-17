@@ -9,7 +9,7 @@ description: "남은 소주, 맥주, 위스키... 그냥 먹지 마세요. 집�
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 
-# (Updated) 🍸 칵테일 레시피: 냉장고 술 털어서 바텐더 되기
+# (Updated) 🍸 칵테일 레시피: 냉장고 술 털어서 바텐더 되기 {#updated}
 
 - **🎯 추천 대상:** 술은 좋은데 나가서 마시긴 비싼 홈술족, 냉장고에 정체불명의 양주가 굴러다니는 사람
 - **⏱️ 소요 시간:** 1분 (레시피 생성)
@@ -33,9 +33,9 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Home Bartender Prompt"
+## (Updated) 🚀 해결책: "Home Bartender Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (조합 추천)
+### (Updated) 🥉 Basic Version (조합 추천) {#updated}
 
 간단하게 섞어 마시기.
 
@@ -44,7 +44,7 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (시그니처 메뉴 개발)
+### (Updated) 🥇 Pro Version (시그니처 메뉴 개발) {#updated}
 
 분위기 잡고 싶을 때.
 
@@ -89,9 +89,9 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (폭탄주)
+### (Updated) ❌ Before (폭탄주) {#updated}
 
 소주 + 맥주 + 콜라 대충 섞음 -> "으악, 이게 무슨 맛이야." (숙취 🤕)
 

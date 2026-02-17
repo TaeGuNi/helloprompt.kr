@@ -9,7 +9,7 @@ description: "경제적 자유를 꿈꾸는 당신을 위해 파이어족 달성
 tags: ["파이어족", "조기은퇴", "경제적자유", "재테크"]
 ---
 
-# (Updated) 📝 FIRE족 로드맵: 조기 은퇴를 위한 4%의 법칙
+# (Updated) 📝 FIRE족 로드맵: 조기 은퇴를 위한 4%의 법칙 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"40대에 은퇴하고 싶다면, 지금 얼마를 모아야 할까요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "파이어족 계산기"
+## (Updated) 🚀 해결책: "파이어족 계산기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"40대에 은퇴하고 싶다면, 지금 얼마를 모아야 할까요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,20 +79,20 @@ _"40대에 은퇴하고 싶다면, 지금 얼마를 모아야 할까요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 나 언제 은퇴할 수 있어? 연 3천 저축해.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) 🔥 당신의 파이어족 로드맵
+### (Updated) 🔥 당신의 파이어족 로드맵 {#updated}
 
 **1. 목표 금액 (FIRE Number)**
 - 연 지출 3,600만 원 × 25배 = **9억 원**

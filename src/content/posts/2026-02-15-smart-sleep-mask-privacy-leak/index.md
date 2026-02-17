@@ -6,19 +6,19 @@ image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 ---
 
-# (Updated) 뇌파를 방송하는 스마트 수면 안대
+# (Updated) 뇌파를 방송하는 스마트 수면 안대 {#updated}
 
-## (Updated) 소개
+## (Updated) 소개 {#updated}
 
 최적의 휴식을 추구하는 과정에서 기술 산업은 손목 착용형 트래커에서 더 개인적인 기기인 스마트 수면 안대로 중심을 옮겼습니다. 일주기 리듬을 해킹하고 자각몽을 유도한다고 약속하는 이 기기들은 2026년 현재 흔하게 볼 수 있습니다. 그러나 보안을 중시하는 개발자들에게 이는 사물인터넷(IoT)의 끔찍한 새로운 개척지를 의미합니다.
 
 최근 인기 있는 "뉴로 슬립(neuro-sleep)" 웨어러블에 대한 조사에서 놀라울 정도로 보안 위생이 결여되어 있음이 밝혀졌습니다. 민감한 EEG(뇌전도) 데이터를 기기에 안전하게 보관하거나 암호화된 채널로 전송하는 대신, 몇몇 시장 선도 제품들은 표준 BLE(Bluetooth Low Energy) 프로토콜을 통해 원시 뇌파 데이터를 무방비로 송출하고 있었습니다. 종종 PIN이나 핸드셰이크 과정도 없이 말입니다.
 
-## (Updated) 분석
+## (Updated) 분석 {#updated}
 
 기술적 결함은 이러한 주변 장치의 GATT(Generic Attribute Profile) 서버 구현에 있습니다. 많은 제조사가 배터리 수명과 컴패니언 앱 연결 편의성을 우선시하여, 근처에 있는 모든 중앙 장치가 특성(characteristics)을 읽을 수 있도록 방치했습니다.
 
-### (Updated) BLE 핸드셰이크 실패
+### (Updated) BLE 핸드셰이크 실패 {#updated}
 
 일반적으로 안전한 BLE 구현은 민감한 특성에 접근하기 위해 본딩(bonding)이나 페어링(pairing)을 요구합니다. 하지만 보안이 취약한 기기들에서는 EEG 데이터 스트림이 사용자 지정 서비스 UUID에 할당되어 있음에도 불구하고, 연결된 모든 클라이언트에게 `Read` 및 `Notify` 권한이 설정되어 있습니다.
 
@@ -37,7 +37,7 @@ tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
       characteristic.addEventListener('characteristicvaluechanged', handleBrainwaves);
     });
 
-### (Updated) 생체 인식의 시사점
+### (Updated) 생체 인식의 시사점 {#updated}
 
 이것은 단순히 누군가가 REM 수면 상태인지 아는 것 이상의 문제입니다. 소비자 등급의 저해상도 데이터일지라도 원시 EEG 데이터는 감정 상태, 스트레스 수준, 심지어 신경학적 상태를 추론하는 데 이론적으로 분석될 수 있습니다.
 

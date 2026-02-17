@@ -9,7 +9,7 @@ description: "최종 합격 후 가장 중요한 연봉 협상 테이블. AI를 
 tags: ["연봉협상", "처우협의", "이직", "협상스킬"]
 ---
 
-# (Updated) 📝 연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션'
+# (Updated) 📝 연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션' {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"희망 연봉이 어떻게 되세요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "Salary Negotiation Roleplay"
+## (Updated) 🚀 해결책: "Salary Negotiation Roleplay" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"희망 연봉이 어떻게 되세요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,11 +72,11 @@ _"희망 연봉이 어떻게 되세요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (무논리 호소)
+### (Updated) ❌ Before (무논리 호소) {#updated}
 
 ```text
 나: "5천만 원 받고 싶습니다."
@@ -85,7 +85,7 @@ _"희망 연봉이 어떻게 되세요?"_
 -> 연봉 동결 🥶
 ```
 
-### (Updated) ✅ After (근거 기반 협상)
+### (Updated) ✅ After (근거 기반 협상) {#updated}
 
 ```text
 나: "제 희망 연봉은 5천만 원입니다."

@@ -9,7 +9,7 @@ description: "ChatGPT가 모르는 우리 회사 사내 규정, 매뉴얼을 학
 tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 ---
 
-# (Updated) 🧠 RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기
+# (Updated) 🧠 RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기 {#updated}
 
 - **🎯 추천 대상:** "우리 회사 규정 물어보면 헛소리하는 챗봇"에 지친 담당자, 사내 위키를 AI로 검색하고 싶은 개발자
 - **⏱️ 소요 시간:** 30분 (파이프라인 구축)
@@ -33,9 +33,9 @@ tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 
 ---
 
-## (Updated) 🚀 해결책: "RAG Architect Prompt"
+## (Updated) 🚀 해결책: "RAG Architect Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (개념 설계)
+### (Updated) 🥉 Basic Version (개념 설계) {#updated}
 
 구조를 잡고 싶을 때.
 
@@ -43,7 +43,7 @@ tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (구현 코드 생성)
+### (Updated) 🥇 Pro Version (구현 코드 생성) {#updated}
 
 실제 파이썬 코드가 필요할 때.
 
@@ -88,7 +88,7 @@ RAG의 품질은 **'청크(Chunk) 사이즈'**가 결정합니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (일반 GPT) {#gpt}
 

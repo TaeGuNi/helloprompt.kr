@@ -9,7 +9,7 @@ description: "물건들을 직각으로 반듯하게 나열하여 촬영하는 �
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 
-# (Updated) 📝 정리의 신: Knolling
+# (Updated) 📝 정리의 신: Knolling {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"복잡한 부품이나 소지품들을 한눈에 깔끔하게 보여주고 싶
 
 ---
 
-## (Updated) 🚀 해결책: "Organizer Prompt"
+## (Updated) 🚀 해결책: "Organizer Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"복잡한 부품이나 소지품들을 한눈에 깔끔하게 보여주고 싶
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"복잡한 부품이나 소지품들을 한눈에 깔끔하게 보여주고 싶
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 `Travel items on table.`
 
 (결과: 물건들이 무질서하게 흩어져 있거나 겹쳐져 있는 사진)
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 `Knolling` 프롬프트 적용
 

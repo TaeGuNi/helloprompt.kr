@@ -9,7 +9,7 @@ description: "남들 다 사는 마그넷은 그만. 내 손으로 직접 만드
 tags: ["원데이클래스", "전통공예", "체험여행", "기념품", "이색취미"]
 ---
 
-# (Updated) 📝 기념품 사는 대신 만들어보자! 전통 공예 원데이 클래스 찾기
+# (Updated) 📝 기념품 사는 대신 만들어보자! 전통 공예 원데이 클래스 찾기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"Made in China 기념품 말고, 진짜 이 나라의 색깔을 담아갈 순 �
 
 ---
 
-## (Updated) 🚀 해결책: "공방 큐레이터"
+## (Updated) 🚀 해결책: "공방 큐레이터" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"Made in China 기념품 말고, 진짜 이 나라의 색깔을 담아갈 순 �
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,15 +73,15 @@ _"Made in China 기념품 말고, 진짜 이 나라의 색깔을 담아갈 순 �
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "치앙마이 원데이 클래스."
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 (쿠킹 클래스 외에 '전통 우산 페인팅', '은공예 반지 만들기' 추천 / 소요 시간 3시간, 만든 반지 바로 착용 가능, 아이 동반 가능 여부 포함)
 

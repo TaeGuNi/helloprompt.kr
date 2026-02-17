@@ -9,7 +9,7 @@ description: "CVE-2026-20841, 메모장을 여는 것만으로 해킹될 수 있
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 
-# (Updated) 📝 가장 안전할 줄 알았던 '메모장'의 배신
+# (Updated) 📝 가장 안전할 줄 알았던 '메모장'의 배신 {#updated}
 
 - **🎯 추천 대상:** 윈도우 사용자, 시스템 관리자
 - **⏱️ 읽는 시간:** 2분

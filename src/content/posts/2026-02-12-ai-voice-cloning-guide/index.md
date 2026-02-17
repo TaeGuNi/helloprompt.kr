@@ -34,7 +34,7 @@ tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 
 ---
 
-## (Updated) 🚀 해결책: "Voice Cloner Prompt"
+## (Updated) 🚀 해결책: "Voice Cloner Prompt" {#updated}
 
 ### (Updated) 🥉 Basic Version (상용 TTS 사용) {#tts}
 
@@ -84,9 +84,9 @@ tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (음성 변조기)
+### (Updated) ❌ Before (음성 변조기) {#updated}
 
 "아아, 마이크 테스트." (헬륨 가스 마신 목소리, 기계음 심함 🤖)
 

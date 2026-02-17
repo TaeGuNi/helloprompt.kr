@@ -9,7 +9,7 @@ description: "채용 시스템(ATS)이 좋아하는 키워드를 이력서에 �
 tags: ["ATS", "이력서최적화", "키워드", "채용시스템"]
 ---
 
-# (Updated) 📝 ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트
+# (Updated) 📝 ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## (Updated) 🚀 해결책: "ATS 해킹 프롬프트"
+## (Updated) 🚀 해결책: "ATS 해킹 프롬프트" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -80,11 +80,11 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (키워드 불일치)
+### (Updated) ❌ Before (키워드 불일치) {#updated}
 
 ```text
 - 웹사이트 방문자 데이터를 분석하여 마케팅에 활용함.

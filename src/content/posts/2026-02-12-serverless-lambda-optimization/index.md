@@ -33,9 +33,9 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 ---
 
-## (Updated) 🚀 해결책: "Lambda Tuner Prompt"
+## (Updated) 🚀 해결책: "Lambda Tuner Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (메모리 튜닝)
+### (Updated) 🥉 Basic Version (메모리 튜닝) {#updated}
 
 돈으로 해결하기.
 
@@ -44,7 +44,7 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (코드 레벨 최적화 & 스냅샷)
+### (Updated) 🥇 Pro Version (코드 레벨 최적화 & 스냅샷) {#updated}
 
 근본적인 다이어트.
 
@@ -85,13 +85,13 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (통통한 람다)
+### (Updated) ❌ Before (통통한 람다) {#updated}
 
 `import AWS from 'aws-sdk'` (전체 로드) -> 용량 50MB -> 콜드 스타트 1.5초 🐢
 
-### (Updated) ✅ After (날씬한 람다)
+### (Updated) ✅ After (날씬한 람다) {#updated}
 
 `import { S3Client } from '@aws-sdk/client-s3'` (필요한 것만) -> 용량 1MB -> 콜드 스타트 **0.2초** 🚀
 

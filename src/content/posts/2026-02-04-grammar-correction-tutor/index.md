@@ -9,7 +9,7 @@ description: "단순히 고쳐주는 것을 넘어 '왜' 틀렸는지 원리를 
 tags: ["영어문법", "작문교정", "프롬프트", "이메일작성"]
 ---
 
-# (Updated) 📝 내 문법이 왜 틀렸을까? 1:1 교정 선생님
+# (Updated) 📝 내 문법이 왜 틀렸을까? 1:1 교정 선생님 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"Grammarly가 고쳐주긴 하는데, 왜 고쳤는지 모르고 넘어가니 �
 
 ---
 
-## (Updated) 🚀 해결책: "Why-How 문법 교정기"
+## (Updated) 🚀 해결책: "Why-How 문법 교정기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"Grammarly가 고쳐주긴 하는데, 왜 고쳤는지 모르고 넘어가니 �
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,15 +78,15 @@ _"Grammarly가 고쳐주긴 하는데, 왜 고쳤는지 모르고 넘어가니 �
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "I look forward to hear from you soon." (흔한 실수)
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 **[수정본]**
 "I look forward to **hearing** from you soon."

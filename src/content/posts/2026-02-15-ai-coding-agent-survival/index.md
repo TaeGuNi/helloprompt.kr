@@ -16,12 +16,12 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 ---
 
-## (Updated) 1. Copilot이 아니라 Autopilot입니다
+## (Updated) 1. Copilot이 아니라 Autopilot입니다 {#updated}
 
 과거의 AI(Copilot)는 **부조종사**였습니다. 기장인 내가 조종대를 잡고 있고, 옆에서 지도를 봐주는 역할이었죠.
 지금의 AI(Agent)는 **자율주행 모드**입니다. 목적지만 입력하면 핸들을 놓고 자도 됩니다. (물론, 가끔 낭떠러지로 가는지 감시는 해야 합니다.)
 
-### (Updated) 무엇이 달라졌나?
+### (Updated) 무엇이 달라졌나? {#updated}
 
 - **Context:** 파일 하나가 아니라 리포지토리 전체, 이슈 트래커, CI 로그까지 읽습니다.
 - **Action:** 코드를 제안하는 것뿐만 아니라, 파일을 생성하고, 터미널 명령어를 실행하고, 테스트를 돌려보고, 에러가 나면 스스로 수정합니다.
@@ -40,7 +40,7 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 ---
 
-## (Updated) 3. 실전: 리팩토링 위임 프롬프트
+## (Updated) 3. 실전: 리팩토링 위임 프롬프트 {#updated}
 
 복잡한 레거시 코드를 에이전트에게 리팩토링 시킬 때 사용하는 템플릿입니다. 이 프롬프트를 에이전트(Cursor, Copilot Workspace 등)의 초기 지시사항으로 입력하세요.
 
@@ -74,7 +74,7 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 ---
 
-## (Updated) 4. Writer's Insight: 믿되, 검증하라
+## (Updated) 4. Writer's Insight: 믿되, 검증하라 {#updated}
 
 실제로 제가 이 프롬프트를 사용하여 오픈소스 프로젝트의 인증 모듈을 리팩토링해 보았습니다.
 

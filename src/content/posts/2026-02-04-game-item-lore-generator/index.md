@@ -9,7 +9,7 @@ description: "단순한 '+1 검'은 재미없죠. 서사와 기믹이 살아있�
 tags: ["게임", "아이템", "TRPG", "기획", "판타지"]
 ---
 
-# (Updated) 📝 게임 아이템 도감: 전설의 무기와 저주받은 장신구
+# (Updated) 📝 게임 아이템 도감: 전설의 무기와 저주받은 장신구 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"검을 얻었다. 공격력이 10 올랐다."_
 
 ---
 
-## (Updated) 🚀 해결책: \"레전더리 아이템 대장간\"
+## (Updated) 🚀 해결책: \"레전더리 아이템 대장간\" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"검을 얻었다. 공격력이 10 올랐다."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -81,15 +81,15 @@ _"검을 얻었다. 공격력이 10 올랐다."_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 \"세다. 불 나가는 칼.\"
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 - **이름:** **꺼지지 않는 잿더미의 검 (Blade of Eternal Ash)**
 - **외형:** 검신이 숯처럼 검게 그을려 있으며, 휘두를 때마다 붉은 불티가 흩날린다.

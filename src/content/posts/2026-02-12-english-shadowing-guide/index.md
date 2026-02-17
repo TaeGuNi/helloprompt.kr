@@ -33,9 +33,9 @@ tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Shadowing Coach Prompt"
+## (Updated) 🚀 해결책: "Shadowing Coach Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (해석 및 단어장)
+### (Updated) 🥉 Basic Version (해석 및 단어장) {#updated}
 
 대본 공부.
 
@@ -44,7 +44,7 @@ tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (발음 클리닉 & 억양 가이드)
+### (Updated) 🥇 Pro Version (발음 클리닉 & 억양 가이드) {#updated}
 
 원어민처럼 말하기.
 
@@ -85,13 +85,13 @@ tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (콩글리쉬)
+### (Updated) ❌ Before (콩글리쉬) {#updated}
 
 "왓! 아! 유! 토킹! 어바웃!" (로봇 🤖)
 
-### (Updated) ✅ After (네이티브)
+### (Updated) ✅ After (네이티브) {#updated}
 
 "**와**라유 **토**킹어바웃?" (교포 🇺🇸)
 

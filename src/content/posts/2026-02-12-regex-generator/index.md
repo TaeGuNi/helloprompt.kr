@@ -9,7 +9,7 @@ description: "이메일, 전화번호, 특수문자 검증... 복잡한 정규�
 tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 ---
 
-# (Updated) 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자
+# (Updated) 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자 {#updated}
 
 - **🎯 추천 대상:** `^([a-z0-9_.-]+)@([\da-z.-]+)\.([a-z.]{2,6})$` 이거 보고 토할 것 같은 사람, 입력 폼 검증 짜야 하는 프론트엔드 개발자
 - **⏱️ 소요 시간:** 10초
@@ -33,9 +33,9 @@ tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 
 ---
 
-## (Updated) 🚀 해결책: "Regex Wizard"
+## (Updated) 🚀 해결책: "Regex Wizard" {#updated}
 
-### (Updated) 🥉 Basic Version (패턴 생성)
+### (Updated) 🥉 Basic Version (패턴 생성) {#updated}
 
 간단한 이메일, 전화번호 찾기.
 
@@ -43,7 +43,7 @@ tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (복잡한 텍스트 추출)
+### (Updated) 🥇 Pro Version (복잡한 텍스트 추출) {#updated}
 
 로그 파일에서 특정 데이터만 뽑아낼 때.
 
@@ -91,9 +91,9 @@ AI에게 "음수나 소수점도 포함되나요?"라고 되묻게 시키거나,
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (직접 짬)
+### (Updated) ❌ Before (직접 짬) {#updated}
 
 `\d+` (숫자만 찾으랬더니 날짜까지 다 잡힘 엉망진창 😱)
 

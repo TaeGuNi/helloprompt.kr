@@ -9,7 +9,7 @@ description: "식상한 자기소개는 그만. 직무 역량과 경험을 임�
 tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 ---
 
-# (Updated) 🎤 면접 1분 자기소개 생성기: AI가 써주는 합격 대본
+# (Updated) 🎤 면접 1분 자기소개 생성기: AI가 써주는 합격 대본 {#updated}
 
 - **🎯 추천 대상:** "저는 화목한 가정에서 태어나..." 같은 고리타분한 멘트만 떠오르는 취준생, 경력직 이직 면접 앞둔 대리님
 - **⏱️ 소요 시간:** 1분 (대본 완성)
@@ -33,9 +33,9 @@ tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Interview Script Writer"
+## (Updated) 🚀 해결책: "Interview Script Writer" {#updated}
 
-### (Updated) 🥉 Basic Version (신입 공채용)
+### (Updated) 🥉 Basic Version (신입 공채용) {#updated}
 
 패기와 잠재력을 강조할 때.
 
@@ -45,7 +45,7 @@ tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (경력직 이직용)
+### (Updated) 🥇 Pro Version (경력직 이직용) {#updated}
 
 즉시 전력감을 어필할 때.
 
@@ -93,13 +93,13 @@ AI가 써준 대본을 그대로 외우지 마세요. 키워드 중심으로 흐
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (지루함)
+### (Updated) ❌ Before (지루함) {#updated}
 
 "안녕하십니까. 저는 성실함이 무기인 지원자입니다. 전 직장에서도 열심히 일했고..." (면접관: 하품 🥱)
 
-### (Updated) ✅ After (임팩트)
+### (Updated) ✅ After (임팩트) {#updated}
 
 "안녕하십니까. **데이터로 10억을 아낀 마케터**, OOO입니다. 전 직장에서 100번의 A/B 테스트를 통해 CAC를 30% 낮추는 성과를 냈습니다. 이제 그 노하우를 귀사의 폭발적인 성장에 쏟아붓고 싶습니다." (면접관: 오, 자세히 말해봐요 👀)
 

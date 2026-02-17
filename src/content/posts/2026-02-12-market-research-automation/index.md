@@ -9,7 +9,7 @@ description: "수천 개의 리뷰를 읽지 않고도 고객의 불만과 니�
 tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 ---
 
-# (Updated) 📝 경쟁사 리뷰, 언제 다 읽고 있나요?
+# (Updated) 📝 경쟁사 리뷰, 언제 다 읽고 있나요? {#updated}
 
 - **🎯 추천 대상:** 마케터, 예비 창업자, PM
 - **⏱️ 소요 시간:** 5시간 → 10분
@@ -33,9 +33,9 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 
 ---
 
-## (Updated) 🚀 해결책: "리뷰 광산 채굴기"
+## (Updated) 🚀 해결책: "리뷰 광산 채굴기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 소량의 리뷰(30개 내외)를 분석할 때 좋습니다.
 
@@ -45,7 +45,7 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 대량의 데이터를 심층 분석할 때 사용하세요.
 

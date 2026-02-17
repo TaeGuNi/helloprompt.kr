@@ -9,7 +9,7 @@ description: "습관적으로 쓰는 useMemo, 정말 필요할까? React Profile
 tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 ---
 
-# (Updated) ⚡️ React 성능 최적화: 렌더링 낭비 0%에 도전한다
+# (Updated) ⚡️ React 성능 최적화: 렌더링 낭비 0%에 도전한다 {#updated}
 
 - **🎯 추천 대상:** "앱이 왜 이렇게 버벅대지?" 고민하는 프론트엔드 개발자, `useEffect` 무한 루프에 빠져본 사람
 - **⏱️ 소요 시간:** 10분 (Profiler 분석)
@@ -33,9 +33,9 @@ tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 
 ---
 
-## (Updated) 🚀 해결책: "React Performance Doctor"
+## (Updated) 🚀 해결책: "React Performance Doctor" {#updated}
 
-### (Updated) 🥉 Basic Version (메모이제이션 적용)
+### (Updated) 🥉 Basic Version (메모이제이션 적용) {#updated}
 
 특정 함수나 값이 자꾸 재생성될 때.
 
@@ -44,7 +44,7 @@ tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (근본적인 구조 개선)
+### (Updated) 🥇 Pro Version (근본적인 구조 개선) {#updated}
 
 상태 관리(State Management)부터 뜯어고칠 때.
 
@@ -89,13 +89,13 @@ tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (통짜 리렌더링)
+### (Updated) ❌ Before (통짜 리렌더링) {#updated}
 
 키보드 입력 1회 -> `App` 리렌더링 -> `Header`, `Table`, `Footer` 전부 리렌더링 (30ms 소요 🐢)
 
-### (Updated) ✅ After (상태 분리 + 가상화)
+### (Updated) ✅ After (상태 분리 + 가상화) {#updated}
 
 키보드 입력 1회 -> `SearchInput` 컴포넌트만 리렌더링. (Table은 가만히 있음) (1ms 소요 🚀)
 

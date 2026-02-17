@@ -34,9 +34,9 @@ _"로그 파일 압축해서 백업하고 30일 지난 건 지워야 하는데..
 
 ---
 
-## (Updated) 🚀 해결책: "Bash 마법사"
+## (Updated) 🚀 해결책: "Bash 마법사" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"로그 파일 압축해서 백업하고 30일 지난 건 지워야 하는데..
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,15 +78,15 @@ _"로그 파일 압축해서 백업하고 30일 지난 건 지워야 하는데..
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력 요구사항)
+### (Updated) ❌ Before (입력 요구사항) {#updated}
 
 "현재 폴더에 있는 모든 JPG 파일을 images 폴더로 옮기고, 파일명을 날짜\_원래이름.jpg로 바꿔줘."
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```bash
 #!/bin/bash
@@ -95,13 +95,13 @@ set -e  # (Updated) 에러 발생 시 스크립트 중단
 TARGET_DIR="images"
 DATE_PREFIX=$(date +%Y%m%d)
 
-# (Updated) 1. 대상 디렉토리가 없으면 생성
+# (Updated) 1. 대상 디렉토리가 없으면 생성 {#updated}
 if [ ! -d "$TARGET_DIR" ]; then
     echo "📁 '$TARGET_DIR' 디렉토리를 생성합니다..."
     mkdir -p "$TARGET_DIR"
 fi
 
-# (Updated) 2. JPG 파일 이동 및 이름 변경
+# (Updated) 2. JPG 파일 이동 및 이름 변경 {#updated}
 echo "🚀 파일 이동을 시작합니다..."
 for file in *.jpg; do
     if [ -f "$file" ]; then

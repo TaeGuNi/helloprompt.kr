@@ -9,7 +9,7 @@ description: "내가 짠 코드가 모두를 위한 코드인가요? 접근성 �
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# (Updated) ♿️ 내 코드는 모두에게 친절할까? 접근성 감사 봇
+# (Updated) ♿️ 내 코드는 모두에게 친절할까? 접근성 감사 봇 {#updated}
 
 - **🎯 추천 대상:** 공공기관 프로젝트 개발자, 포트폴리오 퀄리티를 높이고 싶은 취준생, 프론트엔드 개발자
 - **⏱️ 소요 시간:** 체크리스트 확인 2시간 → 5분
@@ -35,7 +35,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ## (Updated) 🚀 해결책: "A11y(Accessibility) 오디터" {#accessibility}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 특정 컴포넌트의 접근성이 의심될 때.
 
@@ -45,7 +45,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 전체 페이지나 복잡한 인터랙션이 있는 UI를 검수할 때.
 
@@ -74,18 +74,18 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```html
 <div class="button" onclick="submit()">전송</div>
 <img src="icon.png" />
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```html
 <!-- 키보드 포커스 가능, 스크린 리더가 '버튼'으로 인식 -->

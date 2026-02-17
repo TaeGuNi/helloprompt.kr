@@ -9,7 +9,7 @@ description: "단순 암기는 이제 그만! 실제 문맥 속에서 단어의 
 tags: ["영어학습", "단어암기", "프롬프트", "교육"]
 ---
 
-# (Updated) 📝 문맥으로 익히는 영단어 마스터기
+# (Updated) 📝 문맥으로 익히는 영단어 마스터기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"단어장만 보면 아는데, 문장에서 만나면 왜 해석이 안 될까
 
 ---
 
-## (Updated) 🚀 해결책: "보카 마스터 프롬프트"
+## (Updated) 🚀 해결책: "보카 마스터 프롬프트" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"단어장만 보면 아는데, 문장에서 만나면 왜 해석이 안 될까
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,17 +77,17 @@ _"단어장만 보면 아는데, 문장에서 만나면 왜 해석이 안 될까
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (단순 검색)
+### (Updated) ❌ Before (단순 검색) {#updated}
 
 Q: "Appreciate 뜻"
 A: "1. 진가를 알아보다 2. 고마워하다 3. (가격이) 오르다"
 -> _그래서 언제 뭘 써야 해?_
 
-### (Updated) ✅ After (프롬프트 결과)
+### (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **단어: Appreciate**
 

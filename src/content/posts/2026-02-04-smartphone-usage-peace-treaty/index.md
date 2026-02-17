@@ -9,7 +9,7 @@ description: "싸우지 않고 유튜브 끄게 만드는 협상과 규칙 정�
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) 📝 유튜브 전쟁 끝! 아이와 맺는 '미디어 사용 계약서'
+# (Updated) 📝 유튜브 전쟁 끝! 아이와 맺는 '미디어 사용 계약서' {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"'10분만 더!'를 외치다 결국 뺏겨서 우는 아이, 언제까지 반�
 
 ---
 
-## (Updated) 🚀 해결책: "가족 평화 협상가"
+## (Updated) 🚀 해결책: "가족 평화 협상가" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"'10분만 더!'를 외치다 결국 뺏겨서 우는 아이, 언제까지 반�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"'10분만 더!'를 외치다 결국 뺏겨서 우는 아이, 언제까지 반�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 스마트폰 규칙 정해줘.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 규칙 1: 학교 숙제와 방 정리를 끝낸 뒤에 스마트폰을 켭니다.

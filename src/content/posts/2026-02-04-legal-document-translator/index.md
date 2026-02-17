@@ -9,7 +9,7 @@ description: "전세 계약서, 약관 등 읽어도 무슨 말인지 모를 어
 tags: ["법률", "계약서", "생활법률"]
 ---
 
-# (Updated) 📝 외계어 같은 법률 용어, 초등학생도 알게 번역하기
+# (Updated) 📝 외계어 같은 법률 용어, 초등학생도 알게 번역하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -35,9 +35,9 @@ _"계약서에 도장은 찍어야 하는데, 깨알 같은 글씨와 '갑', '�
 
 ---
 
-## (Updated) 🚀 해결책: "내 손안의 변호사"
+## (Updated) 🚀 해결책: "내 손안의 변호사" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ _"계약서에 도장은 찍어야 하는데, 깨알 같은 글씨와 '갑', '�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,11 +73,11 @@ _"계약서에 도장은 찍어야 하는데, 깨알 같은 글씨와 '갑', '�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (위 조항 복사) 이거 무슨 뜻이야? 나한테 안 좋은 거야?
@@ -85,7 +85,7 @@ _"계약서에 도장은 찍어야 하는데, 깨알 같은 글씨와 '갑', '�
 
 <br>
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 

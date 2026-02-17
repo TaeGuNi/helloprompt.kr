@@ -9,7 +9,7 @@ description: "이력서의 문체를 비즈니스 매너에 맞게 정제하고,
 tags: ["이력서교정", "문체수정", "비즈니스글쓰기", "맞춤법검사"]
 ---
 
-# (Updated) 📝 이력서 문체 교정: '아마추어' 티를 벗고 '프로'처럼 보이는 법
+# (Updated) 📝 이력서 문체 교정: '아마추어' 티를 벗고 '프로'처럼 보이는 법 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"내용은 좋은데, 뭔가 글이 유치해 보인다면?"_
 
 ---
 
-## (Updated) 🚀 해결책: "Professional Tone Polisher"
+## (Updated) 🚀 해결책: "Professional Tone Polisher" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"내용은 좋은데, 뭔가 글이 유치해 보인다면?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,11 +79,11 @@ _"내용은 좋은데, 뭔가 글이 유치해 보인다면?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (아마추어 느낌)
+### (Updated) ❌ Before (아마추어 느낌) {#updated}
 
 ```text
 제가 팀장이 돼서 프로젝트를 맡았는데요,
@@ -91,7 +91,7 @@ _"내용은 좋은데, 뭔가 글이 유치해 보인다면?"_
 결과적으로 매출이 엄청 많이 올랐어요. (구어체, 모호함)
 ```
 
-### (Updated) ✅ After (프로페셔널 느낌)
+### (Updated) ✅ After (프로페셔널 느낌) {#updated}
 
 ```text
 팀장으로서 프로젝트를 총괄하며 팀원 간의 소통을 주도했습니다.

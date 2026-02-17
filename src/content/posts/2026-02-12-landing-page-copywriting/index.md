@@ -9,7 +9,7 @@ description: "고객이 들어오자마자 나가는 이유는? 히어로 섹션
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 
-# (Updated) 🎣 랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식
+# (Updated) 🎣 랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식 {#updated}
 
 - **🎯 추천 대상:** 광고비는 쓰는데 구매가 안 일어나는 사장님, 홈페이지 문구가 너무 밋밋해서 고민인 마케터
 - **⏱️ 소요 시간:** 10초 (문구 10개 생성)
@@ -33,9 +33,9 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 🚀 해결책: "Conversion Booster Prompt"
+## (Updated) 🚀 해결책: "Conversion Booster Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (메인 카피)
+### (Updated) 🥉 Basic Version (메인 카피) {#updated}
 
 한 줄로 사로잡기.
 
@@ -89,13 +89,13 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (자기소개)
+### (Updated) ❌ Before (자기소개) {#updated}
 
 "최고급 소재로 만든 인체공학 의자입니다. 편안함을 드립니다." (이탈률 90% 📉)
 
-### (Updated) ✅ After (고객 중심)
+### (Updated) ✅ After (고객 중심) {#updated}
 
 > **"허리 통증, 언제까지 참으실 건가요?"**
 > **"하루 10분, 앉아만 계세요. 자세는 의자가 고쳐드립니다."**

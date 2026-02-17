@@ -33,9 +33,9 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 ---
 
-## (Updated) 🚀 해결책: "No-Code Builder Prompt"
+## (Updated) 🚀 해결책: "No-Code Builder Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (기능 구현)
+### (Updated) 🥉 Basic Version (기능 구현) {#updated}
 
 특정 기능을 어떻게 만드는지 모를 때.
 
@@ -45,7 +45,7 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증)
+### (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증) {#updated}
 
 앱의 뼈대(DB)를 잡을 때.
 
@@ -91,9 +91,9 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (개발자 찾아 삼만리)
+### (Updated) ❌ Before (개발자 찾아 삼만리) {#updated}
 
 "개발자님 계신가요...?" (6개월 지남, 아이디어 식음 📉)
 

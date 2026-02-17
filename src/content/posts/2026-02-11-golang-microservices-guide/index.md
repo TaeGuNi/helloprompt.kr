@@ -33,7 +33,7 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 
 ---
 
-## (Updated) 🚀 해결책: "Go Migration Guide"
+## (Updated) 🚀 해결책: "Go Migration Guide" {#updated}
 
 ### (Updated) 🥉 Basic Version (Spring vs Go 비교) {#spring-vs-go}
 
@@ -43,7 +43,7 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (동시성 처리 구현)
+### (Updated) 🥇 Pro Version (동시성 처리 구현) {#updated}
 
 Go의 진가를 확인하는 시나리오.
 
@@ -87,7 +87,7 @@ Go는 **"상속(Inheritance)"이 없습니다.**
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (Spring Boot)
 

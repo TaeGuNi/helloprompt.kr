@@ -9,7 +9,7 @@ description: "주소, 전화번호 형식이 제각각인 엑셀 파일 때문�
 tags: ["Excel", "데이터전처리", "자동화", "Python"]
 ---
 
-# 🧹 엑셀 지옥 탈출: 지저분한 데이터, AI가 정리해드립니다
+# (Updated) 🧹 엑셀 지옥 탈출: 지저분한 데이터, AI가 정리해드립니다
 
 - **🎯 추천 대상:** 데이터 분석가, 인사팀(HR), 영업팀, 엑셀 사용자
 - **⏱️ 소요 시간:** 수작업 2시간 → 3분
@@ -27,7 +27,7 @@ tags: ["Excel", "데이터전처리", "자동화", "Python"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 데이터를 텍스트나 CSV로 붙여넣고 **규칙(Rule)** 말해주기
 2. **"예외 케이스(Edge Case)"** 처리 방식 지정하기
@@ -35,9 +35,9 @@ tags: ["Excel", "데이터전처리", "자동화", "Python"]
 
 ---
 
-## 🚀 해결책: "Data Cleaner Bot"
+## (Updated) 🚀 해결책: "Data Cleaner Bot"
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형)
 
 데이터가 적으면 직접 변환을, 많으면 **변환하는 파이썬 코드**를 짜달라고 하는 게 팁입니다.
 
@@ -66,7 +66,7 @@ tags: ["Excel", "데이터전처리", "자동화", "Python"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트의 강력함은 **'파이썬 코드 생성'**에 있습니다.
 데이터가 100건 정도면 그냥 AI한테 "바꿔줘" 하면 되지만, 1만 건이 넘어가면 AI 채팅창에 다 안 들어갑니다.
@@ -76,7 +76,7 @@ tags: ["Excel", "데이터전처리", "자동화", "Python"]
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 개인정보 올려도 되나요?**
   - A: **절대 안 됩니다!** 이름이나 전화번호는 가명으로 바꾸거나, 일부 샘플 데이터만 패턴 학습용으로 보여주고 "코드를 짜달라"고 해야 안전합니다.
@@ -86,26 +86,30 @@ tags: ["Excel", "데이터전처리", "자동화", "Python"]
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Standardization (표준화):** '서울' -> '서울특별시' 같은 구체적인 매핑 룰을 정의했습니다.
 2.  **Validation (검증):** 이메일 형식 체크 등 유효성 검사 로직을 포함시켰습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력)
 
 `010 1234 5678`, `서울 강남구`
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과)
 
 `"phone": "010-1234-5678"`, `"address": "서울특별시 강남구"`
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 데이터 정제는 사람이 할 일이 아닙니다. 패턴 인식의 천재인 AI에게 넘기세요.
 야근 없는 저녁이 기다립니다. 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

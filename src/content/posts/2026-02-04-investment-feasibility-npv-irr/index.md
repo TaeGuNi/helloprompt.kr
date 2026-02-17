@@ -9,7 +9,7 @@ description: "이 사업, 해도 될까? 투자의사결정의 핵심 지표인 
 tags: ["엑셀", "투자분석", "NPV", "IRR"]
 ---
 
-# 📝 투자 타당성 분석: NPV와 IRR 자동 계산 엑셀
+# (Updated) 📝 투자 타당성 분석: NPV와 IRR 자동 계산 엑셀 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 현금 흐름(Cash Flow) 데이터를 기반으로 NPV와 IRR 개념 이해
 2. 엑셀 `NPV`, `IRR` 함수를 활용한 자동 계산 수식 생성
@@ -33,9 +33,9 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 ---
 
-## 🚀 해결책: "투자 심사역 AI"
+## (Updated) 🚀 해결책: "투자 심사역 AI" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -70,26 +70,26 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 엑셀로 NPV IRR 구하는 법 알려줘.
 ```
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
-### 📊 투자 분석 엑셀 공식
+### (Updated) 📊 투자 분석 엑셀 공식 {#updated}
 
 **1. NPV (순현재가치) 구하기**
 - **수식:** `=B2 + NPV(C2, B3:B7)`
@@ -107,14 +107,14 @@ NPV는 금액(얼마 버나?), IRR은 수익률(몇 % 버나?)을 보여줍니�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -124,8 +124,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 투자는 감이 아니라 과학입니다. 엑셀 수식 두 줄로 수십억짜리 실수를 예방하세요.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

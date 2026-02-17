@@ -9,7 +9,7 @@ description: "API 코드를 붙여넣으면 OpenAPI(Swagger) 스펙이나 마크
 tags: ["API", "문서화", "Swagger", "OpenAPI", "백엔드"]
 ---
 
-# 📝 귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱
+# (Updated) 📝 귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -28,7 +28,7 @@ API 개발보다 문서 작성이 더 싫은 거, 저만 그런가요?
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 코드 기반으로 정확한 파라미터/응답 명세 추출
 2. OpenAPI(Swagger) YAML/JSON 포맷 자동 생성
@@ -36,9 +36,9 @@ API 개발보다 문서 작성이 더 싫은 거, 저만 그런가요?
 
 ---
 
-## 🚀 해결책: "API 문서 생성기"
+## (Updated) 🚀 해결책: "API 문서 생성기" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -47,7 +47,7 @@ API 개발보다 문서 작성이 더 싫은 거, 저만 그런가요?
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,17 +77,17 @@ API 개발보다 문서 작성이 더 싫은 거, 저만 그런가요?
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력 코드 - Node.js Express) {#node-js-express}
+### (Updated) ❌ Before (입력 코드 - Node.js Express) {#node-js-express}
 
 ```javascript
 app.post("/users", (req, res) => {
@@ -98,9 +98,9 @@ app.post("/users", (req, res) => {
 });
 ```
 
-### ✅ After (결과 - Markdown 예시) {#markdown}
+### (Updated) ✅ After (결과 - Markdown 예시) {#markdown}
 
-### **POST /users**
+### (Updated) **POST /users**
 
 사용자 회원가입 API
 
@@ -122,14 +122,14 @@ app.post("/users", (req, res) => {
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -139,7 +139,11 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 문서화는 개발의 끝이 아니라 협업의 시작입니다.
 하지만 그 시작을 위해 너무 많은 에너지를 쓰진 마세요. AI에게 맡기고 여러분은 비즈니스 로직에 집중하세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

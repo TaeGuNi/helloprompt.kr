@@ -9,7 +9,7 @@ description: "작성한 알고리즘의 시간 복잡도와 공간 복잡도를 
 tags: ["알고리즘", "시간복잡도", "Big-O", "성능최적화", "CS지식"]
 ---
 
-# 📝 내 코드의 시간 복잡도(Big O)는 얼마일까? {#big-o}
+# (Updated) 📝 내 코드의 시간 복잡도(Big O)는 얼마일까? {#big-o}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -27,7 +27,7 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 시간 복잡도 및 공간 복잡도 정확히 계산 (Big-O)
 2. 성능 병목 구간(Bottleneck) 식별
@@ -35,9 +35,9 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 ---
 
-## 🚀 해결책: "복잡도 분석기"
+## (Updated) 🚀 해결책: "복잡도 분석기" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,17 +74,17 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력 코드)
+### (Updated) ❌ Before (입력 코드) {#updated}
 
 ```python
 def find_duplicate(nums):
@@ -95,7 +95,7 @@ def find_duplicate(nums):
     return None
 ```
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 **분석:**
 
@@ -121,14 +121,14 @@ def find_duplicate_optimized(nums):
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -138,7 +138,11 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 "돌아가니까 됐어"라는 생각은 이제 그만.
 보이지 않는 성능까지 챙기는 개발자가 진짜 고수입니다. AI 교수님의 피드백으로 알고리즘 근육을 키워보세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -9,7 +9,7 @@ description: "최근 Claude Code 모델의 성능이 떨어졌다는 주장이 �
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 
-# 📝 Claude Code가 멍청해졌다?
+# (Updated) 📝 Claude Code가 멍청해졌다? {#updated}
 
 - **🎯 추천 대상:** Claude 사용자, 개발자
 - **⏱️ 읽는 시간:** 2분
@@ -21,7 +21,7 @@ tags: ["Claude", "Anthropic", "AI", "Coding"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **성능 저하 의혹:** 복잡한 코딩 문제 해결 능력이 떨어졌다는 사용자 제보 잇따름.
 2. **Dumbed Down:** 모델이 경량화되거나 안전 장치가 강화되면서 지능이 낮아진 것 아니냐는 추측.
@@ -29,32 +29,36 @@ tags: ["Claude", "Anthropic", "AI", "Coding"]
 
 ---
 
-## 🚀 논란의 핵심
+## (Updated) 🚀 논란의 핵심 {#updated}
 
-### 1. 복잡도 처리 능력 감소
+### (Updated) 1. 복잡도 처리 능력 감소 {#updated}
 
 사용자들은 특히 복잡한 리팩토링이나 아키텍처 설계 요청 시 Claude가 예전보다 엉뚱한 답을 내놓거나 문맥을 놓치는 경우가 잦아졌다고 지적합니다.
 
-### 2. 안전성 vs 성능
+### (Updated) 2. 안전성 vs 성능 {#updated}
 
 AI 모델의 안전성(Safety) 튜닝이 강화되면서, 창의적이고 유연한 코딩 능력이 억제되었을 가능성도 제기됩니다.
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 모델 성능은 지속적으로 업데이트되지만, 때로는 튜닝 과정에서 특정 능력이 저하되는 'Catastrophic Forgetting'과 유사한 현상이 발생할 수 있습니다. 엔스로픽의 공식 대응이 기다려집니다.
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 여러분의 Claude는 안녕하신가요? 당분간은 코드 리뷰를 더 꼼꼼히 해야겠습니다.
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
 
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
+
+## (Updated) Conclusion
+
+Wait, there is more...

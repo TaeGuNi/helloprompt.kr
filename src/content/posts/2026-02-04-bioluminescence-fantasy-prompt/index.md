@@ -9,7 +9,7 @@ description: "아바타의 판도라 행성처럼 스스로 빛을 내는 생명
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 
-# 📝 환상적인 야광: Bioluminescence
+# (Updated) 📝 환상적인 야광: Bioluminescence {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. `Bioluminescence`는 자체 발광하는 효과를 줍니다.
 2. `Neon blue`, `Glowing green` 등 구체적인 발광 색상을 지정하세요.
@@ -33,9 +33,9 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## 🚀 해결책: "Glowing Nature Prompt"
+## (Updated) 🚀 해결책: "Glowing Nature Prompt" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -62,23 +62,23 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 `Forest at night with lights.`
 
 (결과: 가로등이 켜진 숲이나 손전등 불빛 같은 인공적인 느낌)
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 `Bioluminescence` 프롬프트 적용
 
@@ -86,14 +86,14 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -103,8 +103,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 현실에 없는 몽환적인 빛을 원한다면 생체 발광 키워드가 정답입니다.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

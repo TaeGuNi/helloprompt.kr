@@ -9,7 +9,7 @@ description: "어려운 원서, 논문, 기술 블로그를 3배 빠르게 읽�
 tags: ["독서", "요약", "학습", "지식관리"]
 ---
 
-# 📝 초고속 독서 소화제 (Smart Reading) {#smart-reading}
+# (Updated) 📝 초고속 독서 소화제 (Smart Reading) {#smart-reading}
 
 - **🎯 추천 대상:** 읽어야 할 자료는 산더미인데 시간이 없는 대학원생, 개발자
 - **⏱️ 소요 시간:** 1시간 → 15분 단축
@@ -25,7 +25,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 텍스트를 입력하면 핵심 내용 구조화 (개요/핵심/결론)
 2. 어려운 용어는 쉬운 비유(Analogy)로 설명
@@ -33,9 +33,9 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 ---
 
-## 🚀 해결책: "Smart Reading Assistant"
+## (Updated) 🚀 해결책: "Smart Reading Assistant" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 내용 파악만 필요할 때.
 
@@ -45,7 +45,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 깊이 있는 이해와 학습이 필요할 때.
 
@@ -74,13 +74,13 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"거나 "반론을 제기해달라"고 요청하면, 훨씬 더 입체적인 이해가 가능해집니다. 특히 'Action Item'을 요청하면 지식이 행동으로 연결됩니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 책 전체를 넣을 수 있나요?**
   - A: AI 모델의 토큰 제한(Context Window)에 따라 다릅니다. Gemini 1.5 Pro나 Claude 3는 책 한 권 분량도 처리 가능합니다.
@@ -90,22 +90,22 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Analogy (비유):** 추상적인 개념을 구체적인 이미지로 치환하여 장기 기억을 돕습니다.
 2.  **Critical Thinking (비판적 사고):** 수동적인 읽기에서 능동적인 사유로 전환시킵니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (어려운 양자역학 텍스트)
 ```
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 | 구분     | 내용                                                                               |
 | :------- | :--------------------------------------------------------------------------------- |
@@ -115,8 +115,12 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 책장을 덮었을 때 머리에 남는 것이 진짜 독서입니다.
 
 이제 뇌섹남녀가 되어보세요! 📚
+
+## (Updated) Conclusion
+
+Wait, there is more...

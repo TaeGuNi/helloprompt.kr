@@ -9,7 +9,7 @@ description: "내가 짠 코드가 모두를 위한 코드인가요? 접근성 �
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ 내 코드는 모두에게 친절할까? 접근성 감사 봇
+# (Updated) ♿️ 내 코드는 모두에게 친절할까? 접근성 감사 봇 {#updated}
 
 - **🎯 추천 대상:** 공공기관 프로젝트 개발자, 포트폴리오 퀄리티를 높이고 싶은 취준생, 프론트엔드 개발자
 - **⏱️ 소요 시간:** 체크리스트 확인 2시간 → 5분
@@ -25,7 +25,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **시멘틱 태그(Semantic Tag)** 사용 여부를 검사합니다.
 2. 이미지 `alt` 속성, 폼 라벨(Label), 키보드 포커스 이동을 체크합니다.
@@ -33,9 +33,9 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## 🚀 해결책: "A11y(Accessibility) 오디터" {#accessibility}
+## (Updated) 🚀 해결책: "A11y(Accessibility) 오디터" {#accessibility}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 특정 컴포넌트의 접근성이 의심될 때.
 
@@ -45,7 +45,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 전체 페이지나 복잡한 인터랙션이 있는 UI를 검수할 때.
 
@@ -66,7 +66,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **규정 기반:** 모호한 "좋게 고쳐줘"가 아니라 "WCAG 2.2"라는 명확한 기준을 제시합니다.
 2.  **First Rule of ARIA:** "가장 좋은 ARIA는 ARIA를 쓰지 않는 것(시멘틱 태그 사용)"이라는 원칙을 상기시킵니다.
@@ -74,18 +74,18 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```html
 <div class="button" onclick="submit()">전송</div>
 <img src="icon.png" />
 ```
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```html
 <!-- 키보드 포커스 가능, 스크린 리더가 '버튼'으로 인식 -->
@@ -97,14 +97,14 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -114,8 +114,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 좋은 개발자는 코드를 잘 짜는 사람이 아니라, 사용자를 생각하는 사람입니다.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

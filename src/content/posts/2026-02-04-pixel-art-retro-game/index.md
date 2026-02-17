@@ -9,7 +9,7 @@ description: "고전 게임의 향수를 불러일으키는 8비트, 16비트 �
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 
-# 📝 도트 장인: Pixel Art
+# (Updated) 📝 도트 장인: Pixel Art {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"슈퍼 마리오나 포켓몬스터 골드 버전 같은 도트 그래픽이 �
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. `Pixel art`, `8-bit` (단순), `16-bit` (디테일) 키워드를 구분해 쓰세요.
 2. `Isometric`과 결합하면 고전 RPG 게임 맵을 만들 수 있습니다.
@@ -33,9 +33,9 @@ _"슈퍼 마리오나 포켓몬스터 골드 버전 같은 도트 그래픽이 �
 
 ---
 
-## 🚀 해결책: "Retro Game Prompt"
+## (Updated) 🚀 해결책: "Retro Game Prompt" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"슈퍼 마리오나 포켓몬스터 골드 버전 같은 도트 그래픽이 �
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -62,23 +62,23 @@ _"슈퍼 마리오나 포켓몬스터 골드 버전 같은 도트 그래픽이 �
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 `Knight vs Dragon game.`
 
 (결과: 현대적인 3D 모바일 게임 그래픽)
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 `Pixel art` 프롬프트 적용
 
@@ -86,14 +86,14 @@ _"슈퍼 마리오나 포켓몬스터 골드 버전 같은 도트 그래픽이 �
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -103,8 +103,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 때로는 낮은 해상도가 가장 높은 힙함을 보여줍니다. 도트의 매력에 빠져보세요.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) Conclusion
+
+Wait, there is more...

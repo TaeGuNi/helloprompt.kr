@@ -5,19 +5,19 @@ tags: [anthropic, claude, ai]
 image: https://source.unsplash.com/random/1600x900/?book,library
 ---
 
-# Claude 4.5 Opus: 100만 토큰의 미학
+# (Updated) Claude 4.5 Opus: 100만 토큰의 미학 {#updated}
 
 Anthropic의 Claude 4.5 Opus는 더욱 거대해진 컨텍스트 윈도우와 함께 돌아왔습니다. 100만 토큰(1M)이라는 압도적인 처리 용량은 책 수십 권 분량을 한 번에 기억하고 분석할 수 있음을 의미합니다.
 
-## 1. 완벽한 기억력 (Recall) {#recall}
+## (Updated) 1. 완벽한 기억력 (Recall) {#recall}
 
 긴 문맥에서도 정보를 잃어버리지 않는 '니들 인 어 헤이스택(Needle In A Haystack)' 테스트에서 100%에 가까운 정확도를 보여줍니다. 법률 문서 분석, 대규모 코드베이스 리팩토링, 역사적 데이터 연구 등 방대한 자료를 다루는 전문가들에게 최고의 도구입니다.
 
-## 2. 뉘앙스의 이해
+## (Updated) 2. 뉘앙스의 이해 {#updated}
 
 Claude 특유의 문학적이고 섬세한 표현력은 더욱 강화되었습니다. 4.5 버전은 인간의 감정과 뉘앙스를 깊이 있게 이해하며, 공감 능력 있는 대화를 이끌어냅니다. 창작 글쓰기나 고객 상담 분야에서 탁월한 성능을 발휘합니다.
 
-## 3. 윤리적 AI (Constitutional AI) {#constitutional-ai}
+## (Updated) 3. 윤리적 AI (Constitutional AI) {#constitutional-ai}
 
 Anthropic의 철학인 '유익하고 해롭지 않으며 정직한(Helpful, Harmless, Honest)' AI를 구현하기 위한 안전 장치가 더욱 정교해졌습니다. 기업 환경에서도 안심하고 도입할 수 있는 가장 신뢰할 수 있는 모델입니다.
 
@@ -25,7 +25,7 @@ Claude 4.5 Opus는 단순한 정보 처리를 넘어, 깊이 있는 통찰과 �
 
 ---
 
-### Summaries
+### (Updated) Summaries
 
 **English**
 **Claude 4.5 Opus: The Aesthetics of 1M Tokens**
@@ -62,3 +62,7 @@ Claude 4.5 Opus от Anthropic возвращается с массивным к
 **Portuguese (Português)**
 **Claude 4.5 Opus: A Estética de 1M Tokens**
 Claude 4.5 Opus da Anthropic regressa com uma janela de contexto massiva de 1 milhão de tokens. A sua recordação quase perfeita em grandes conjuntos de dados torna-o ideal para análise jurídica e programação. A compreensão melhorada de nuances, combinada com funcionalidades de segurança robustas, torna-o o parceiro mais fiável.
+
+## (Updated) Conclusion
+
+Wait, there is more...

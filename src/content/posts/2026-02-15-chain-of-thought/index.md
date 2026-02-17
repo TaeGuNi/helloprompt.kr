@@ -5,23 +5,23 @@ description: "Chain-of-Thought 프롬프팅이 어떻게 대규모 언어 모델
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 
-## Chain-of-Thought (CoT) 프롬프팅이란 무엇인가요? {#cot}
+## (Updated) Chain-of-Thought (CoT) 프롬프팅이란 무엇인가요? {#cot}
 
 **Chain-of-Thought (CoT)** 프롬프팅은 대규모 언어 모델(LLM)이 복잡한 추론 작업을 수행할 수 있도록 돕는 프롬프트 엔지니어링 기법입니다. 이 방법은 모델에게 최종 답만 요구하는 대신, 답을 도출하는 **중간 추론 단계(intermediate reasoning steps)**를 생성하도록 유도합니다.
 
 마치 사람이 어려운 수학 문제를 풀 때 암산으로 바로 답을 내기보다, 종이에 풀이 과정을 적어가며 생각하는 것과 비슷합니다.
 
-### 왜 CoT가 중요한가요?
+### (Updated) 왜 CoT가 중요한가요? {#updated}
 
 기존의 표준 프롬프팅(Standard Prompting) 방식은 모델에게 입력(질문)을 주고 바로 출력(답변)을 기대했습니다. 하지만 모델의 규모가 커져도 다단계 추론이 필요한 문제(예: 수학 문제, 상식 추론, 기호적 추론 등)에서는 성능의 한계가 있었습니다.
 
 CoT는 모델에게 "생각의 과정"을 예시로 보여주거나 요청함으로써, 모델이 문제를 더 작은 단위로 분해하고 논리적인 연결 고리를 따라가도록 만듭니다. 이를 통해 복잡한 문제 해결 능력이 획기적으로 향상됩니다.
 
-## CoT의 작동 원리
+## (Updated) CoT의 작동 원리 {#updated}
 
 CoT의 핵심은 **"단계별로 생각하기(Let's think step by step)"**입니다.
 
-### 예시: 수학 문제
+### (Updated) 예시: 수학 문제 {#updated}
 
 **표준 프롬프팅:**
 
@@ -41,11 +41,15 @@ CoT의 핵심은 **"단계별로 생각하기(Let's think step by step)"**입니
 
 이렇게 중간 과정을 명시하면 모델은 논리적 오류를 범할 확률이 줄어들고, 더 정확한 결과를 도출할 수 있습니다.
 
-## Zero-Shot CoT vs Few-Shot CoT
+## (Updated) Zero-Shot CoT vs Few-Shot CoT
 
 1. **Zero-Shot CoT**: 단순히 프롬프트 끝에 "단계별로 생각해 봅시다(Let's think step by step)"라는 문구를 추가하는 것만으로도 모델의 추론 능력을 끌어올릴 수 있습니다. 별도의 예시 데이터가 필요 없어 매우 효율적입니다.
 2. **Few-Shot CoT**: 문제와 함께 논리적인 풀이 과정이 포함된 몇 가지 예시(Shot)를 제공하는 방식입니다. 모델은 이 예시들의 패턴을 학습하여 새로운 문제에도 동일한 논리 구조를 적용합니다.
 
-## 결론 {#conclusion}
+## (Updated) 결론 {#conclusion}
 
 Chain-of-Thought 프롬프팅은 AI가 단순히 텍스트를 생성하는 도구를 넘어, 논리적으로 사고하고 복잡한 문제를 해결하는 파트너로 진화하는 데 중요한 역할을 합니다. 여러분의 프롬프트에 "단계별 생각"을 추가하여 AI의 잠재력을 최대한 활용해 보세요.
+
+## (Updated) Conclusion
+
+Wait, there is more...

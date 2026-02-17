@@ -1,0 +1,139 @@
+
+> helloprompt.kr@1.5.3 qa
+> npx tsx scripts/qa/check.ts
+
+🔍 Scanning all markdown posts...
+Checking 3673 files...
+
+📄 src/pages/posts/tarot-reading-ai-fortune.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 98. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/tailwind-css-master.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 99. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/startup-pitch-deck.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 107. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/software-architecture-guide.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 23. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/slack-lunch-bot.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 107. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/security-vulnerability-scanner.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 99. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/reading-note-automation.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 23. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/react-native-vs-flutter-2026.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 110. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/presentation-speech-coach.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 98. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/novel-plot-generator-what-if.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 95. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/notion-finance-tracker.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 95. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/newsletter-curation-bot.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 107. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/midjourney-logo-design.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 97. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/meeting-interpreter-guide.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 104. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/mbti-analysis-chat.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 106. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/linux-shell-script-guide.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 103. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/landing-page-copywriting.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 102. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/kpop-idol-concept-lyric-draft.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 99. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/jeju-food-map-generator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 100. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/interior-design-consulting.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 100. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/habit-tracker-routine.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 106. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/gift-recommendation-generator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 100. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/fashion-style-recommender.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 102. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/english-roleplay-tutor.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 99. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/developer-burnout-check.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 95. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/cursor-editor-guide.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 96. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/coding-test-tutor.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 99. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/cocktail-recipe-generator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 101. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/bubble-nocode-mvp.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 104. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/blockchain-solidity-audit.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 97. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/balance-game-generator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 102. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/alternative-history-simulator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 101. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-workout-form-check.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 97. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-word-chain-game.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 100. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-plant-diagnosis.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 101. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-pet-behavior-training.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 101. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-emoticon-generator.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 98. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-dream-interpretation-psychology.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 97. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-copywriting-master.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 103. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-coding-tools-comparison.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 103. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/ai-asset-portfolio-manager.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 105. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/2026-02-15-webgpu-local-llm.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 125. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+📄 src/pages/posts/2026-02-12-board-game-rule-explainer.md
+   ⚠️ [FORMAT_BLOCKQUOTE_MISUSE] Invalid blockquote (>) usage at line 106. Blockquotes generate "COPY THIS PROMPT" boxes and are ONLY allowed in Basic/Pro/Prompt sections.
+
+--------------------------------------------------
+✅ QA Passed! (3673 files checked)
+   (with 43 warnings)

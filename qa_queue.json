@@ -3242,352 +3242,402 @@
   {
     "slug": "2026-02-12-ai-pr-summarizer",
     "path": "src/content/posts/2026-02-12-ai-pr-summarizer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-smart-breakfast-nutritionist",
     "path": "src/content/posts/2026-02-12-smart-breakfast-nutritionist/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 70
   },
   {
     "slug": "2026-02-13-personal-ai-infrastructure",
     "path": "src/content/posts/2026-02-13-personal-ai-infrastructure/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-personal-trainer-routine",
     "path": "src/content/posts/2026-02-04-personal-trainer-routine/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-sql-query-builder",
     "path": "src/content/posts/2026-02-12-sql-query-builder/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-10-svelte-5-migration-guide",
     "path": "src/content/posts/2026-02-10-svelte-5-migration-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-finding-local-hidden-gems-travel-guide",
     "path": "src/content/posts/2026-02-04-finding-local-hidden-gems-travel-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-slack-lunch-bot",
     "path": "src/content/posts/2026-02-12-slack-lunch-bot/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-winter-travel-packing-strategy-warmth-volume",
     "path": "src/content/posts/2026-02-04-winter-travel-packing-strategy-warmth-volume/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-internet-unarchivable",
     "path": "src/content/posts/2026-02-15-internet-unarchivable/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-14-infra-truth",
     "path": "src/content/posts/2026-02-14-infra-truth/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-overcoming-dental-fear-story-for-kids",
     "path": "src/content/posts/2026-02-04-overcoming-dental-fear-story-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-10-brand-voice-consistency",
     "path": "src/content/posts/2026-02-10-brand-voice-consistency/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-one-day-city-tour-itinerary-with-ai",
     "path": "src/content/posts/2026-02-04-one-day-city-tour-itinerary-with-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-newsletter-draft-generator",
     "path": "src/content/posts/2026-02-04-newsletter-draft-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-presentation-script-generator",
     "path": "src/content/posts/2026-02-04-presentation-script-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-16-junior-dev-crisis",
     "path": "src/content/posts/2026-02-16-junior-dev-crisis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-language-learning-roleplay",
     "path": "src/content/posts/2026-02-04-language-learning-roleplay/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-investment-tendency-test",
     "path": "src/content/posts/2026-02-04-investment-tendency-test/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-ai-focus-music-dj",
     "path": "src/content/posts/2026-02-12-ai-focus-music-dj/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-tarot-reading-ai-fortune",
     "path": "src/content/posts/2026-02-04-tarot-reading-ai-fortune/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-variable-naming-assistant",
     "path": "src/content/posts/2026-02-04-variable-naming-assistant/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-linkedin-personal-branding-post-generator",
     "path": "src/content/posts/2026-02-04-linkedin-personal-branding-post-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-08-stock-chart-analysis",
     "path": "src/content/posts/2026-02-08-stock-chart-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-letter-writing-assistant-love-apology",
     "path": "src/content/posts/2026-02-04-letter-writing-assistant-love-apology/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-blog-post-title-generator",
     "path": "src/content/posts/2026-02-04-blog-post-title-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-git-hook-generator",
     "path": "src/content/posts/2026-02-12-git-hook-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-business-email-reminder",
     "path": "src/content/posts/2026-02-04-business-email-reminder/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-budget-planner",
     "path": "src/content/posts/2026-02-04-budget-planner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-macro-photography-prompt",
     "path": "src/content/posts/2026-02-04-macro-photography-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-interview-star-answer-structuring",
     "path": "src/content/posts/2026-02-04-interview-star-answer-structuring/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-ai-emoticon-generator",
     "path": "src/content/posts/2026-02-12-ai-emoticon-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 70
   },
   {
     "slug": "2026-02-16-self-healing-code-agent",
     "path": "src/content/posts/2026-02-16-self-healing-code-agent/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-04-solo-backpacking-safe-route-guide",
     "path": "src/content/posts/2026-02-04-solo-backpacking-safe-route-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-gratitude-journal-prompt",
     "path": "src/content/posts/2026-02-04-gratitude-journal-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-interior-design-consulting",
     "path": "src/content/posts/2026-02-12-interior-design-consulting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-13-meeting-minutes",
     "path": "src/content/posts/2026-02-13-meeting-minutes/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-project-scheduling-wbs-generator",
     "path": "src/content/posts/2026-02-04-project-scheduling-wbs-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-resume-gap-year-explanation",
     "path": "src/content/posts/2026-02-04-resume-gap-year-explanation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-linkedin-post-reformatter",
     "path": "src/content/posts/2026-02-12-linkedin-post-reformatter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-claude-game.ko",
     "path": "src/content/posts/2026-02-15-claude-game.ko/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-ai-cbt-i-insomnia-therapy",
     "path": "src/content/posts/2026-02-04-ai-cbt-i-insomnia-therapy/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-dependency-conflict-resolver",
     "path": "src/content/posts/2026-02-12-dependency-conflict-resolver/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-habit-tracker-routine",
     "path": "src/content/posts/2026-02-12-habit-tracker-routine/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-10-legacy-code-refactoring",
     "path": "src/content/posts/2026-02-10-legacy-code-refactoring/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-cyberpunk-neon-lighting",
     "path": "src/content/posts/2026-02-04-cyberpunk-neon-lighting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-philosophy-debate-partner",
     "path": "src/content/posts/2026-02-04-philosophy-debate-partner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-16-fast-llm-inference-tradeoffs",
     "path": "src/content/posts/2026-02-16-fast-llm-inference-tradeoffs/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-salary-raise-request-email",
     "path": "src/content/posts/2026-02-04-salary-raise-request-email/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-legacy-code-ai",
     "path": "src/content/posts/2026-02-15-legacy-code-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-04-resume-ats-keyword-optimization",

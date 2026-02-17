@@ -9,7 +9,7 @@ description: "물가 상승률보다 무서운 등록금 인상률. 우리 아�
 tags: ["교육비", "학자금", "저축", "자녀계획"]
 ---
 
-# (Updated) 📝 자녀 학자금 플랜: 10년 장기 프로젝트
+# (Updated) 📝 자녀 학자금 플랜: 10년 장기 프로젝트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"아이 대학 등록금, 그때 가서 월급으로 감당할 수 있을까요
 
 ---
 
-## (Updated) 🚀 해결책: "에듀 펀드 매니저"
+## (Updated) 🚀 해결책: "에듀 펀드 매니저" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아이 대학 등록금, 그때 가서 월급으로 감당할 수 있을까요
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,20 +77,20 @@ _"아이 대학 등록금, 그때 가서 월급으로 감당할 수 있을까요
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 애 대학 갈 때 돈 얼마나 들어?
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) 🎓 5세 자녀 대학 학자금 플랜
+### (Updated) 🎓 5세 자녀 대학 학자금 플랜 {#updated}
 
 **1. 15년 뒤 필요 자금 (Future Value)**
 - 현재 가치: 연 800만 원 × 4년 = 3,200만 원

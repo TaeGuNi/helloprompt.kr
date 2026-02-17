@@ -9,7 +9,7 @@ description: "GPT-4o를 위협하는 코딩 실력. 앤스로픽(Anthropic)의 C
 tags: ["Claude", "클로드", "AI코딩", "LLM", "개발자"]
 ---
 
-# (Updated) 🤖 Claude 3.5 Sonnet: 왜 개발자들은 클로드에 열광하나?
+# (Updated) 🤖 Claude 3.5 Sonnet: 왜 개발자들은 클로드에 열광하나? {#updated}
 
 - **🎯 추천 대상:** GPT-4가 짜준 코드가 자꾸 에러 나서 화난 개발자, "더 사람 같은" 글쓰기를 원하는 에디터
 - **⏱️ 소요 시간:** 3분 (가입 및 체험)
@@ -33,9 +33,9 @@ tags: ["Claude", "클로드", "AI코딩", "LLM", "개발자"]
 
 ---
 
-## (Updated) 🚀 해결책: "Claude Coding Prompt"
+## (Updated) 🚀 해결책: "Claude Coding Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (코드 설명)
+### (Updated) 🥉 Basic Version (코드 설명) {#updated}
 
 남이 짠 코드가 이해 안 될 때.
 
@@ -86,7 +86,7 @@ tags: ["Claude", "클로드", "AI코딩", "LLM", "개발자"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (GPT-4)
 

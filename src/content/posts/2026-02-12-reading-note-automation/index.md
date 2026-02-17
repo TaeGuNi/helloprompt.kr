@@ -34,7 +34,7 @@ tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 
 ---
 
-## (Updated) 🚀 해결책: "Reading Mate Prompt"
+## (Updated) 🚀 해결책: "Reading Mate Prompt" {#updated}
 
 ### (Updated) 🥉 Basic Version (OCR 및 요약) {#ocr}
 
@@ -45,7 +45,7 @@ tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (서평 생성 및 확장)
+### (Updated) 🥇 Pro Version (서평 생성 및 확장) {#updated}
 
 읽은 척(?) 할 수 있는 고퀄리티 독서 노트.
 
@@ -87,9 +87,9 @@ AI가 던진 질문("당신이라면 이 상황에서 어떻게 했을까요?")�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (눈으로만 읽음)
+### (Updated) ❌ Before (눈으로만 읽음) {#updated}
 
 "좋은 말이네." (책 덮음) -> 3일 뒤: "그 책 내용이 뭐였더라?" (백지 📄)
 

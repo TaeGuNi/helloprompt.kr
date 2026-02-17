@@ -9,7 +9,7 @@ description: "사업의 운명을 가르는 브랜드 이름! AI와 함께 부�
 tags: ["네이밍", "브랜딩", "스타트업", "마케팅", "아이디어"]
 ---
 
-# (Updated) 📝 스타트업/브랜드 네이밍: 기억에 남는 이름 만들기
+# (Updated) 📝 스타트업/브랜드 네이밍: 기억에 남는 이름 만들기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"서비스는 다 만들었는데... 이름을 뭘로 하지?"_
 
 ---
 
-## (Updated) 🚀 해결책: \"브랜드 네이밍 연구소\"
+## (Updated) 🚀 해결책: \"브랜드 네이밍 연구소\" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"서비스는 다 만들었는데... 이름을 뭘로 하지?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -81,15 +81,15 @@ _"서비스는 다 만들었는데... 이름을 뭘로 하지?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 \"냉장고 파먹기 앱 이름 지어줘.\"
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 1. **[직관형] 냉파고 (Naeng-Pa-Go)**
    - 냉장고 파먹기 + Go/AI(알파고). 직관적이고 친근함.

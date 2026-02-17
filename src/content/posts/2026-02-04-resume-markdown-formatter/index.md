@@ -33,9 +33,9 @@ _"내용 채우기도 바쁜데, 줄 간격이랑 폰트 크기 맞추다가 밤
 
 ---
 
-## (Updated) 🚀 해결책: "Clean Resume Formatter"
+## (Updated) 🚀 해결책: "Clean Resume Formatter" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"내용 채우기도 바쁜데, 줄 간격이랑 폰트 크기 맞추다가 밤
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,11 +77,11 @@ _"내용 채우기도 바쁜데, 줄 간격이랑 폰트 크기 맞추다가 밤
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (메모장 초안)
+### (Updated) ❌ Before (메모장 초안) {#updated}
 
 ```text
 경력
@@ -90,10 +90,10 @@ _"내용 채우기도 바쁜데, 줄 간격이랑 폰트 크기 맞추다가 밤
 스킬: 포토샵, 엑셀, 파워포인트
 ```
 
-### (Updated) ✅ After (마크다운 변환)
+### (Updated) ✅ After (마크다운 변환) {#updated}
 
 ```markdown
-# (Updated) 📄 이력서
+# (Updated) 📄 이력서 {#updated}
 
 ---
 

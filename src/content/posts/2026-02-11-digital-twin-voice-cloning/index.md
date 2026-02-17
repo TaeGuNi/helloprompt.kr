@@ -33,7 +33,7 @@ tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Style Cloner Protocol"
+## (Updated) 🚀 해결책: "Style Cloner Protocol" {#updated}
 
 이 과정은 2단계로 나뉩니다. **1단계: 분석** -> **2단계: 생성**
 
@@ -102,7 +102,7 @@ tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (일반 AI) {#ai}
 

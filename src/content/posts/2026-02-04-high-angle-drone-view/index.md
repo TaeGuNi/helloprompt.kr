@@ -9,7 +9,7 @@ description: "하늘에서 내려다보는 시점으로 전체적인 지형이�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 
-# (Updated) 📝 신의 시선: High Angle & Drone View
+# (Updated) 📝 신의 시선: High Angle & Drone View {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"이 복잡한 도시의 구조를 한눈에 보여주고 싶어."_
 
 ---
 
-## (Updated) 🚀 해결책: "Aerial City Prompt"
+## (Updated) 🚀 해결책: "Aerial City Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"이 복잡한 도시의 구조를 한눈에 보여주고 싶어."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"이 복잡한 도시의 구조를 한눈에 보여주고 싶어."_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 `Future eco city.`
 
 (결과: 건물의 일부나 거리 풍경만 보임, 도시 전체 구조 파악 불가)
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 `Drone view` 프롬프트 적용
 

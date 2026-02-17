@@ -15,11 +15,11 @@ LLM(대규모 언어 모델) 애플리케이션의 세계는 빠르게 진화하
 
 이 글에서는 개발자가 혁신적인 LLM 앱을 구축하는 데 도움이 되는 리소스인 `awesome-llm-apps` 컬렉션과 주요 도구들을 소개합니다.
 
-## (Updated) 왜 RAG인가요?
+## (Updated) 왜 RAG인가요? {#updated}
 
 RAG는 LLM의 지식을 외부 데이터베이스나 문서와 연결하여, 모델이 학습하지 않은 최신 정보나 비공개 데이터를 기반으로 답변할 수 있게 합니다. 이를 통해 환각(Hallucination) 현상을 줄이고 신뢰성을 높일 수 있습니다.
 
-## (Updated) Awesome LLM Apps 컬렉션
+## (Updated) Awesome LLM Apps 컬렉션 {#updated}
 
 GitHub의 `awesome-llm-apps`는 RAG, 에이전트, 그리고 다양한 LLM 응용 프로그램을 구축하기 위한 최고의 오픈 소스 프로젝트들을 모아둔 큐레이션입니다.
 
@@ -29,7 +29,7 @@ GitHub의 `awesome-llm-apps`는 RAG, 에이전트, 그리고 다양한 LLM 응�
 - **AI 에이전트**: 자율적으로 도구를 사용하고 작업을 수행하는 봇.
 - **산업별 애플리케이션**: 법률, 의료, 코딩 등 특정 도메인에 특화된 솔루션.
 
-## (Updated) 구축을 위한 핵심 도구
+## (Updated) 구축을 위한 핵심 도구 {#updated}
 
 성공적인 LLM 앱을 만들기 위해 다음과 같은 도구들이 필수적입니다:
 
@@ -37,7 +37,7 @@ GitHub의 `awesome-llm-apps`는 RAG, 에이전트, 그리고 다양한 LLM 응�
 2.  **Vector Databases (Pinecone, Weaviate, Chroma)**: 텍스트 임베딩을 저장하고 고속으로 검색하기 위한 데이터베이스.
 3.  **Streamlit / Chainlit**: 빠르게 프로토타입을 만들고 UI를 배포할 수 있는 도구.
 
-## (Updated) 시작하기
+## (Updated) 시작하기 {#updated}
 
 지금 바로 나만의 LLM 앱을 만들어보세요! `awesome-llm-apps` 리포지토리를 방문하여 관심 있는 프로젝트를 클론하고 코드를 분석해 보는 것이 가장 좋은 학습 방법입니다.
 

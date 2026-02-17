@@ -9,7 +9,7 @@ description: "해야 할 일은 많은데 정리가 안 되나요? 우선순위 
 tags: ["계획표", "스케줄러", "시간관리", "생산성"]
 ---
 
-# (Updated) 📝 갓생 살기 프로젝트! AI 주간 계획표(위클리 플래너) 작성
+# (Updated) 📝 갓생 살기 프로젝트! AI 주간 계획표(위클리 플래너) 작성 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 ---
 
-## (Updated) 🚀 해결책: "스마트 스케줄러"
+## (Updated) 🚀 해결책: "스마트 스케줄러" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,15 +78,15 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "이번 주 계획 짜줘."
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 (화요일 반차 쓰고 치과 가는 일정, 목요일 마감 보고서를 위해 월/화/수 저녁에 분산 배치, 주말에 몰아서 대청소 등 밸런스 잡힌 시간표)
 

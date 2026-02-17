@@ -9,7 +9,7 @@ description: "OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본을 블�
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 
-# (Updated) 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기
+# (Updated) 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기 {#updated}
 
 - **🎯 추천 대상:** 유튜브 하느라 블로그는 방치한 크리에이터, 콘텐츠 하나 만들어서 뽕을 뽑고 싶은 마케터
 - **⏱️ 소요 시간:** 1분 (변환)
@@ -33,9 +33,9 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Content Recycler Prompt"
+## (Updated) 🚀 해결책: "Content Recycler Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (단순 변환)
+### (Updated) 🥉 Basic Version (단순 변환) {#updated}
 
 말을 글로 바꾸기.
 
@@ -44,7 +44,7 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (채널별 멀티 유즈)
+### (Updated) 🥇 Pro Version (채널별 멀티 유즈) {#updated}
 
 하나의 소스로 3가지 콘텐츠 뽑기.
 
@@ -84,13 +84,13 @@ AI에게 **"소제목(Subheading)을 달아줘"**, **"불렛 포인트(Bullet po
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (방치)
+### (Updated) ❌ Before (방치) {#updated}
 
 유튜브 영상 1개 업로드 -> 끝. (조회수 1,000회)
 
-### (Updated) ✅ After (재가공)
+### (Updated) ✅ After (재가공) {#updated}
 
 영상 1개 -> 블로그 글(검색 유입) + 인스타(팔로워 유입) + 트위터(RT 확산)
 -> **총 도달(Reach) 10,000회** (10배 상승 📈)

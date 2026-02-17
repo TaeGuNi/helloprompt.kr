@@ -9,7 +9,7 @@ description: "AI가 제시하는 엉뚱한 상황을 그리고 이야기를 연�
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) 📝 종이 한 장으로 1시간 순삭! '릴레이 그림 스토리'
+# (Updated) 📝 종이 한 장으로 1시간 순삭! '릴레이 그림 스토리' {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"매번 똑같은 공주님, 로봇 그림만 그리는 아이, 상상력을 �
 
 ---
 
-## (Updated) 🚀 해결책: "상상력 대장 시나리오 작가"
+## (Updated) 🚀 해결책: "상상력 대장 시나리오 작가" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"매번 똑같은 공주님, 로봇 그림만 그리는 아이, 상상력을 �
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"매번 똑같은 공주님, 로봇 그림만 그리는 아이, 상상력을 �
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 그림 주제 추천해줘.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 1. 우주복을 입은 펭귄이 달나라에서 떡볶이를 먹고 있는 장면

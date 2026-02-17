@@ -33,9 +33,9 @@ tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 
 ---
 
-## (Updated) 🚀 해결책: "Speech Coach Prompt"
+## (Updated) 🚀 해결책: "Speech Coach Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (대본 다듬기)
+### (Updated) 🥉 Basic Version (대본 다듬기) {#updated}
 
 문어체를 구어체로.
 
@@ -85,13 +85,13 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (국어책 읽기)
+### (Updated) ❌ Before (국어책 읽기) {#updated}
 
 "안녕하십니까. 발표를 시작하겠습니다. 목차는 다음과 같습니다." (청중: 폰 봄 📱)
 
-### (Updated) ✅ After (스토리텔링)
+### (Updated) ✅ After (스토리텔링) {#updated}
 
 > **나:** "(3초 침묵) ...여러분은 하루에 플라스틱을 얼마나 드시고 계십니까?"
 > **나:** "우리는 알게 모르게 신용카드 한 장 분량의 플라스틱을 먹습니다."

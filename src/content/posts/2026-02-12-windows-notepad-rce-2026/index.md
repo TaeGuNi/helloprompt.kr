@@ -9,7 +9,7 @@ description: "CVE-2026-20841. 가장 단순한 앱인 메모장에서 발견된 
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---
 
-# (Updated) 📝 메모장으로 해킹을? CVE-2026-20841
+# (Updated) 📝 메모장으로 해킹을? CVE-2026-20841 {#updated}
 
 - **🎯 추천 대상:** 윈도우 사용자, 시스템 관리자
 - **⏱️ 읽는 시간:** 1분
@@ -29,7 +29,7 @@ tags: ["Windows", "Security", "RCE", "Vulnerability"]
 
 ---
 
-## (Updated) 🚀 왜 위험한가?
+## (Updated) 🚀 왜 위험한가? {#updated}
 
 메모장은 누구나 의심 없이 사용하는 프로그램입니다. "텍스트 파일이니까 안전하겠지"라는 방심을 노리기 때문에 피싱 공격에 악용될 가능성이 매우 높습니다.
 

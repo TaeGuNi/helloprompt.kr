@@ -35,9 +35,9 @@ _"배포 서버에 Node.js 버전이 달라서 에러가 나요..."_
 
 ---
 
-## (Updated) 🚀 해결책: "도커라이징 전문가"
+## (Updated) 🚀 해결책: "도커라이징 전문가" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ _"배포 서버에 Node.js 버전이 달라서 에러가 나요..."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,11 +78,11 @@ _"배포 서버에 Node.js 버전이 달라서 에러가 나요..."_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력 스택)
+### (Updated) ❌ Before (입력 스택) {#updated}
 
 "Python 3.9, Django, PostgreSQL 사용해."
 
@@ -98,13 +98,13 @@ RUN pip install --user -r requirements.txt
 # (Updated) 2. Production Stage
 FROM python:3.9-slim
 WORKDIR /app
-# (Updated) 빌드 스테이지에서 설치한 패키지만 복사
+# (Updated) 빌드 스테이지에서 설치한 패키지만 복사 {#updated}
 COPY --from=builder /root/.local /root/.local
 COPY . .
 
-# (Updated) 환경 변수 설정
+# (Updated) 환경 변수 설정 {#updated}
 ENV PATH=/root/.local/bin:$PATH
-# (Updated) 보안을 위해 non-root 유저 생성 및 전환
+# (Updated) 보안을 위해 non-root 유저 생성 및 전환 {#updated}
 RUN useradd -m myuser
 USER myuser
 

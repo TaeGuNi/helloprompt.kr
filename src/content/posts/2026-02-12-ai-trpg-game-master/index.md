@@ -9,7 +9,7 @@ description: "친구도, 주사위도 필요 없다. AI가 진행하는 1인용 
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 
-# (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
+# (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기 {#updated}
 
 - **🎯 추천 대상:** 발더스 게이트 3를 재밌게 했지만 같이 할 친구가 없는 사람, 나만의 판타지 모험을 떠나고 싶은 사람
 - **⏱️ 소요 시간:** 30분 (1회 세션)
@@ -33,9 +33,9 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) 🚀 해결책: "Dungeon Master Prompt"
+## (Updated) 🚀 해결책: "Dungeon Master Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (텍스트 어드벤처)
+### (Updated) 🥉 Basic Version (텍스트 어드벤처) {#updated}
 
 가볍게 즐기기.
 
@@ -89,9 +89,9 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (게임 불감증)
+### (Updated) ❌ Before (게임 불감증) {#updated}
 
 최신 그래픽 게임도 10분 하면 질림. "맨날 똑같은 퀘스트..." 🎮
 

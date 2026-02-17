@@ -9,7 +9,7 @@ description: "작성하기 번거로운 단위 테스트(Unit Test) 코드를 �
 tags: ["테스트코드", "TDD", "Jest", "JUnit"]
 ---
 
-# (Updated) 📝 테스트 코드 짜기 귀찮죠? AI가 대신 짜드립니다
+# (Updated) 📝 테스트 코드 짜기 귀찮죠? AI가 대신 짜드립니다 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"기능 구현하기도 바쁜데 테스트 코드까지? 하지만 테스트�
 
 ---
 
-## (Updated) 🚀 해결책: "테스트 커버리지 가디언"
+## (Updated) 🚀 해결책: "테스트 커버리지 가디언" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"기능 구현하기도 바쁜데 테스트 코드까지? 하지만 테스트�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -71,11 +71,11 @@ _"기능 구현하기도 바쁜데 테스트 코드까지? 하지만 테스트�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력: 간단한 계산 함수)
+### (Updated) ❌ Before (입력: 간단한 계산 함수) {#updated}
 
 ```javascript
 function divide(a, b) {
@@ -86,7 +86,7 @@ function divide(a, b) {
 
 <br>
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```javascript
 // Jest 프레임워크 사용 예시

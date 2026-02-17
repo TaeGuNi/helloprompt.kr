@@ -9,7 +9,7 @@ description: "어떤 지표를 봐야 할까? 대시보드 구성 요소와 레�
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# (Updated) 📝 한눈에 들어오는 KPI 대시보드 기획하기
+# (Updated) 📝 한눈에 들어오는 KPI 대시보드 기획하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"대시보드에 그래프만 20개... 정작 중요한 건 어디 있나요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "BI 대시보드 디자이너"
+## (Updated) 🚀 해결책: "BI 대시보드 디자이너" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"대시보드에 그래프만 20개... 정작 중요한 건 어디 있나요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"대시보드에 그래프만 20개... 정작 중요한 건 어디 있나요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 영업팀 대시보드 만들 건데 뭐 넣어야 돼?
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 1. 월간 매출 달성률 (게이지 차트)

@@ -33,7 +33,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 ---
 
-## (Updated) 🚀 해결책: "Smart Contract Developer Prompt"
+## (Updated) 🚀 해결책: "Smart Contract Developer Prompt" {#updated}
 
 ### (Updated) 🥉 Basic Version (ERC-20 토큰 생성) {#erc-20}
 
@@ -43,7 +43,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (보안 감사 및 가스비 최적화)
+### (Updated) 🥇 Pro Version (보안 감사 및 가스비 최적화) {#updated}
 
 실제 돈이 오가는 계약.
 
@@ -85,9 +85,9 @@ AI에게 "OpenZeppelin 최신 버전을 import 해서 짜줘"라고 해야 해�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (그냥 짬)
+### (Updated) ❌ Before (그냥 짬) {#updated}
 
 `balances[msg.sender] -= amount;` (순서 잘못 써서 돈 무한 복사 버그 발생 💸)
 

@@ -33,9 +33,9 @@ _"공백기 동안 뭐 하셨나요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "Gap Year Re-framer"
+## (Updated) 🚀 해결책: "Gap Year Re-framer" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"공백기 동안 뭐 하셨나요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,18 +78,18 @@ _"공백기 동안 뭐 하셨나요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (소극적 답변)
+### (Updated) ❌ Before (소극적 답변) {#updated}
 
 ```text
 "아... 전 직장이 너무 힘들어서 그만두고 좀 쉬었습니다.
 여행 좀 다니고... 생각 정리하느라 시간이 좀 흘렀네요." (지쳐 보임)
 ```
 
-### (Updated) ✅ After (긍정적 재해석)
+### (Updated) ✅ After (긍정적 재해석) {#updated}
 
 ```text
 "지난 6개월은 '더 멀리 가기 위한 도움닫기' 시간이었습니다.

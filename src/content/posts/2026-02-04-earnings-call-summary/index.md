@@ -33,9 +33,9 @@ _"CEO의 목소리 톤까지 분석할 순 없어도, 그가 말한 '행간'은 
 
 ---
 
-## (Updated) 🚀 해결책: "어닝 콜 통역사"
+## (Updated) 🚀 해결책: "어닝 콜 통역사" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"CEO의 목소리 톤까지 분석할 순 없어도, 그가 말한 '행간'은 
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,21 +74,21 @@ _"CEO의 목소리 톤까지 분석할 순 없어도, 그가 말한 '행간'은 
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (테슬라 어닝 콜 스크립트 전체 붙여넣기)
 이거 요약해줘.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) 🚗 Tesla Q4 어닝 콜 분석
+### (Updated) 🚗 Tesla Q4 어닝 콜 분석 {#updated}
 
 **1. 핵심 성과 (Mixed)**
 - 매출은 예상치 부합했으나, **자동차 총마진(Gross Margin)이 하락**하여 수익성 우려 발생.

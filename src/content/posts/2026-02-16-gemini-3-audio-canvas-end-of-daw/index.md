@@ -24,35 +24,35 @@ Google의 **Gemini 3**가 멀티모달 기능을 오디오 영역으로 확장�
 
 오늘은 Logic Pro나 Ableton Live 같은 전통적인 **DAW(Digital Audio Workstation)**가 과연 살아남을 수 있을지, 그리고 프롬프트 엔지니어링이 어떻게 '작곡'의 영역을 대체하고 있는지 심층 분석합니다.
 
-## 🎯 Target Audience (누구를 위한 글인가)
+## (Updated) 🎯 Target Audience (누구를 위한 글인가)
 
 - **크리에이터 & 유튜버:** 저작권 걱정 없는 맞춤형 BGM이 필요한 분.
 - **뮤지션 & 프로듀서:** AI 도구가 자신의 직업에 미칠 영향이 궁금한 전문가.
 - **프롬프트 엔지니어:** 텍스트-오디오(Text-to-Audio) 제어 기술을 익히고 싶은 분.
 
-## 💡 Intent (이 글의 목적)
+## (Updated) 💡 Intent (이 글의 목적)
 
 이 글은 Gemini 3 Audio Canvas의 기술적 기능을 넘어, **'오디오 편집의 민주화'**라는 거대한 흐름을 조명합니다. 텍스트 명령어로 파형(Waveform)을 직접 제어하는 구체적인 프롬프트 전략을 제시하고, 이것이 현존하는 DAW 워크플로우와 어떻게 공존(혹은 경쟁)할지 냉철하게 판단합니다.
 
 ---
 
-## 🛠 Pragmatic Utility (실전 활용성)
+## (Updated) 🛠 Pragmatic Utility (실전 활용성)
 
 Gemini 3 Audio Canvas의 핵심은 **'생성(Generation)'이 아닌 '제어(Control)'**에 있습니다. 기존의 AI 음악 생성기(Suno, Udio 등)는 결과물을 수정하기 어려웠습니다. 마음에 안 들면 다시 생성 버튼을 눌러야 했죠.
 
 하지만 Audio Canvas는 다릅니다.
 
-### 1. 인페인팅 & 아웃페인팅 (In-painting & Out-painting)
+### (Updated) 1. 인페인팅 & 아웃페인팅 (In-painting & Out-painting)
 
 이미지 생성 AI에서 쓰던 용어 그대로입니다. 트랙의 특정 구간(예: 1분 20초~1분 30초)을 드래그한 뒤 프롬프트를 입력하면, 그 부분만 수정됩니다.
 
 > "드럼 비트를 걷어내고, 몽환적인 신디사이저 패드로 채워줘."
 
-### 2. 스템 분리 및 리믹스 (Stem Separation)
+### (Updated) 2. 스템 분리 및 리믹스 (Stem Separation)
 
 업로드한 오디오 파일에서 보컬, 베이스, 드럼, 기타를 자동으로 분리합니다. 그리고 각 레이어에 대해 별도의 효과를 주문할 수 있습니다.
 
-### 3. Prompt Craftsmanship (프롬프트 장인정신)
+### (Updated) 3. Prompt Craftsmanship (프롬프트 장인정신)
 
 단순한 명령어보다는 구조화된 프롬프트가 훨씬 더 정교한 결과를 만들어냅니다. 다음은 Lo-Fi 힙합 비트를 생성할 때 사용하는 RTFC(Role, Task, Format, Context) 프롬프트 예시입니다.
 
@@ -72,7 +72,7 @@ Gemini 3 Audio Canvas의 핵심은 **'생성(Generation)'이 아닌 '제어(Cont
 
 ---
 
-## 4. Human Touch: Writer's Insight (작성자 코멘트)
+## (Updated) 4. Human Touch: Writer's Insight (작성자 코멘트)
 
 **💡 작성자 코멘트 (Insight)**
 
@@ -83,16 +83,20 @@ Gemini 3 Audio Canvas의 핵심은 **'생성(Generation)'이 아닌 '제어(Cont
 
 ---
 
-## 5. Integrity & Ethics (윤리 및 저작권)
+## (Updated) 5. Integrity & Ethics (윤리 및 저작권)
 
 AI 생성 음악의 저작권은 여전히 뜨거운 감자입니다. Gemini 3로 만든 음악의 소유권은 누구에게 있을까요?
 현재 구글의 약관에 따르면 유료 사용자에게 상업적 이용 권한을 부여하지만, **'AI가 학습한 원본 데이터'**에 대한 논쟁은 끝나지 않았습니다. 특히 유명 아티스트의 목소리나 스타일을 모방하는 것은 법적 분쟁의 소지가 큽니다. 상업적 프로젝트에 사용할 때는 반드시 최신 약관을 확인하고, 가능한 한 독창적인 프롬프트를 사용하세요.
 
 ---
 
-## 결론 (Conclusion)
+## (Updated) 결론 (Conclusion)
 
 Audio Canvas는 DAW를 죽이지 않습니다. 오히려 **DAW의 새로운 플러그인**이 될 것입니다.
 우리는 이제 '마우스 클릭'이 아니라 '언어'로 음악을 믹싱하는 시대를 맞이했습니다. 변화를 두려워하기보다, 이 새로운 악기를 어떻게 연주할지 고민해야 할 때입니다.
 
 **지금 바로 Gemini 3를 열고, 당신만의 교향곡을 지휘해보세요.**
+
+## (Updated) Conclusion
+
+Wait, there is more...

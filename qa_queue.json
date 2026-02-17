@@ -1,0 +1,4516 @@
+[
+  {
+    "slug": "2026-02-15-storage-2025.en",
+    "path": "src/content/posts/2026-02-15-storage-2025.en/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 0
+  },
+  {
+    "slug": "2026-02-12-api-mock-server-generator",
+    "path": "src/content/posts/2026-02-12-api-mock-server-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 30
+  },
+  {
+    "slug": "2026-02-04-python-bug-fixer-prompt",
+    "path": "src/content/posts/2026-02-04-python-bug-fixer-prompt/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-silhouette-backlighting",
+    "path": "src/content/posts/2026-02-04-silhouette-backlighting/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-12-autogen-multi-agent-guide",
+    "path": "src/content/posts/2026-02-12-autogen-multi-agent-guide/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-rag-chatbot-guide",
+    "path": "src/content/posts/2026-02-12-rag-chatbot-guide/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-13-gpt-5-3-codex-spark",
+    "path": "src/content/posts/2026-02-13-gpt-5-3-codex-spark/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-resume-proofreading-professional-tone",
+    "path": "src/content/posts/2026-02-04-resume-proofreading-professional-tone/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-off-grid-mobile-ai",
+    "path": "src/content/posts/2026-02-15-off-grid-mobile-ai/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 30
+  },
+  {
+    "slug": "2026-02-07-excel-macro-generator",
+    "path": "src/content/posts/2026-02-07-excel-macro-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-weekly-meal-planner-ai",
+    "path": "src/content/posts/2026-02-04-weekly-meal-planner-ai/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-14-meta-smart-glasses",
+    "path": "src/content/posts/2026-02-14-meta-smart-glasses/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-09-wcag-accessibility-auditor",
+    "path": "src/content/posts/2026-02-09-wcag-accessibility-auditor/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-13-midjourney-character",
+    "path": "src/content/posts/2026-02-13-midjourney-character/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-fridge-cleanup-recipe",
+    "path": "src/content/posts/2026-02-04-fridge-cleanup-recipe/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-14-ai-fatigue-reality",
+    "path": "src/content/posts/2026-02-14-ai-fatigue-reality/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-caffeine-tracker-bot",
+    "path": "src/content/posts/2026-02-12-caffeine-tracker-bot/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-weekly-planner-scheduler",
+    "path": "src/content/posts/2026-02-04-weekly-planner-scheduler/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-agentic-workflow-design",
+    "path": "src/content/posts/2026-02-15-agentic-workflow-design/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-14-ai-agents-swarms",
+    "path": "src/content/posts/2026-02-14-ai-agents-swarms/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-ai-nutritionist-weekly-meal-plan",
+    "path": "src/content/posts/2026-02-04-ai-nutritionist-weekly-meal-plan/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-12-morning-pages-journaling",
+    "path": "src/content/posts/2026-02-12-morning-pages-journaling/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-16-intent-based-agents",
+    "path": "src/content/posts/2026-02-16-intent-based-agents/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-04-risograph-print-style",
+    "path": "src/content/posts/2026-02-04-risograph-print-style/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-fantasy-world-naming-generator",
+    "path": "src/content/posts/2026-02-04-fantasy-world-naming-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-code-refactoring-assistant",
+    "path": "src/content/posts/2026-02-12-code-refactoring-assistant/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-04-interview-technical-question-generator",
+    "path": "src/content/posts/2026-02-04-interview-technical-question-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-11-digital-twin-voice-cloning",
+    "path": "src/content/posts/2026-02-11-digital-twin-voice-cloning/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-home-garden-planner",
+    "path": "src/content/posts/2026-02-12-home-garden-planner/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-13-waymo-6th-gen",
+    "path": "src/content/posts/2026-02-13-waymo-6th-gen/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 30
+  },
+  {
+    "slug": "2026-02-04-friendly-gestures-and-greetings-guide",
+    "path": "src/content/posts/2026-02-04-friendly-gestures-and-greetings-guide/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-16-gemini-3-audio-canvas-end-of-daw",
+    "path": "src/content/posts/2026-02-16-gemini-3-audio-canvas-end-of-daw/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-linux-shell-script-guide",
+    "path": "src/content/posts/2026-02-12-linux-shell-script-guide/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-14-physical-ai-robot",
+    "path": "src/content/posts/2026-02-14-physical-ai-robot/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-13-slm-edge",
+    "path": "src/content/posts/2026-02-13-slm-edge/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 0
+  },
+  {
+    "slug": "2026-02-04-customer-feedback-sentiment-analysis",
+    "path": "src/content/posts/2026-02-04-customer-feedback-sentiment-analysis/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-initial-consonant-quiz-game",
+    "path": "src/content/posts/2026-02-04-initial-consonant-quiz-game/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-local-llm-ollama",
+    "path": "src/content/posts/2026-02-15-local-llm-ollama/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 0
+  },
+  {
+    "slug": "2026-02-14-physical-ai-reality",
+    "path": "src/content/posts/2026-02-14-physical-ai-reality/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-home-training-routine-generator",
+    "path": "src/content/posts/2026-02-04-home-training-routine-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-relay-drawing-story-game",
+    "path": "src/content/posts/2026-02-04-relay-drawing-story-game/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-interview-1min-self-introduction",
+    "path": "src/content/posts/2026-02-04-interview-1min-self-introduction/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-12-ai-mock-data-generator",
+    "path": "src/content/posts/2026-02-12-ai-mock-data-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 0
+  },
+  {
+    "slug": "2026-02-11-midjourney-logo-design",
+    "path": "src/content/posts/2026-02-11-midjourney-logo-design/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-ukiyo-e-art-style",
+    "path": "src/content/posts/2026-02-04-ukiyo-e-art-style/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-role-playing-personas",
+    "path": "src/content/posts/2026-02-15-role-playing-personas/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-meditation-script-writer",
+    "path": "src/content/posts/2026-02-04-meditation-script-writer/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-12-productivity-before-sunrise",
+    "path": "src/content/posts/2026-02-12-productivity-before-sunrise/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-04-game-item-lore-generator",
+    "path": "src/content/posts/2026-02-04-game-item-lore-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-apple-intel-2",
+    "path": "src/content/posts/2026-02-15-apple-intel-2/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-cognitive-reframing-practice-with-ai",
+    "path": "src/content/posts/2026-02-04-cognitive-reframing-practice-with-ai/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-mystery-trick-generator",
+    "path": "src/content/posts/2026-02-04-mystery-trick-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-04-balance-game-generator",
+    "path": "src/content/posts/2026-02-04-balance-game-generator/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-04-meeting-minutes-automation",
+    "path": "src/content/posts/2026-02-04-meeting-minutes-automation/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 100
+  },
+  {
+    "slug": "2026-02-13-generative-ui-tambo",
+    "path": "src/content/posts/2026-02-13-generative-ui-tambo/index.md",
+    "status": "DONE",
+    "retries": 0,
+    "last_error": null,
+    "score": 60
+  },
+  {
+    "slug": "2026-02-15-tui-dev.en",
+    "path": "src/content/posts/2026-02-15-tui-dev.en/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-local-legends-and-ghost-stories-finder",
+    "path": "src/content/posts/2026-02-04-local-legends-and-ghost-stories-finder/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-competitor-analysis-framework-market-research",
+    "path": "src/content/posts/2026-02-04-competitor-analysis-framework-market-research/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-eu-ai-act-2",
+    "path": "src/content/posts/2026-02-15-eu-ai-act-2/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-child-education-fund-planner",
+    "path": "src/content/posts/2026-02-04-child-education-fund-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-meeting-to-jira",
+    "path": "src/content/posts/2026-02-12-meeting-to-jira/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-recipe-substituter",
+    "path": "src/content/posts/2026-02-12-ai-recipe-substituter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-micro-frontends",
+    "path": "src/content/posts/2026-02-13-micro-frontends/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-aionui-cowork",
+    "path": "src/content/posts/2026-02-13-aionui-cowork/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-meeting-minutes-generator",
+    "path": "src/content/posts/2026-02-12-meeting-minutes-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-css-animation-keyframe-generator",
+    "path": "src/content/posts/2026-02-12-css-animation-keyframe-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-midjourney-v7-consistency",
+    "path": "src/content/posts/2026-02-15-midjourney-v7-consistency/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-startup-brand-naming-ideas",
+    "path": "src/content/posts/2026-02-04-startup-brand-naming-ideas/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-debt-repayment-strategy",
+    "path": "src/content/posts/2026-02-04-debt-repayment-strategy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-css-trends-2026",
+    "path": "src/content/posts/2026-02-13-css-trends-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-self-healing-cicd",
+    "path": "src/content/posts/2026-02-15-self-healing-cicd/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-sora-2-video-revolution",
+    "path": "src/content/posts/2026-02-13-sora-2-video-revolution/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-coding-tools",
+    "path": "src/content/posts/2026-02-14-ai-coding-tools/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-local-llm-mobile",
+    "path": "src/content/posts/2026-02-14-local-llm-mobile/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-5-year-career-roadmap-design",
+    "path": "src/content/posts/2026-02-04-5-year-career-roadmap-design/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-pronunciation-intonation-coach",
+    "path": "src/content/posts/2026-02-04-pronunciation-intonation-coach/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-rust-language-guide",
+    "path": "src/content/posts/2026-02-11-rust-language-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-data-structure-advisor",
+    "path": "src/content/posts/2026-02-04-data-structure-advisor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-agentic-workflow-basics",
+    "path": "src/content/posts/2026-02-11-agentic-workflow-basics/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-fixed-expense-diet",
+    "path": "src/content/posts/2026-02-04-fixed-expense-diet/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-openai-o3-reasoning",
+    "path": "src/content/posts/2026-02-14-openai-o3-reasoning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-roleplay-conversation-coach",
+    "path": "src/content/posts/2026-02-04-roleplay-conversation-coach/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-gemini-3-pelican-svg",
+    "path": "src/content/posts/2026-02-15-gemini-3-pelican-svg/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-gift-recommendation-generator",
+    "path": "src/content/posts/2026-02-04-gift-recommendation-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-reading-note-automation",
+    "path": "src/content/posts/2026-02-12-reading-note-automation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-unsloth-finetuning",
+    "path": "src/content/posts/2026-02-13-unsloth-finetuning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ppt-outline-gen",
+    "path": "src/content/posts/2026-02-12-ppt-outline-gen/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-gratitude-journal-challenge",
+    "path": "src/content/posts/2026-02-04-ai-gratitude-journal-challenge/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-landing-page-copywriting",
+    "path": "src/content/posts/2026-02-12-landing-page-copywriting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-kafka-vs-rabbitmq",
+    "path": "src/content/posts/2026-02-12-kafka-vs-rabbitmq/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-golang-microservices-guide",
+    "path": "src/content/posts/2026-02-11-golang-microservices-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-idiom-slang-converter",
+    "path": "src/content/posts/2026-02-04-idiom-slang-converter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-religious-sites-dress-code-guide",
+    "path": "src/content/posts/2026-02-04-religious-sites-dress-code-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-jeju-food-map-generator",
+    "path": "src/content/posts/2026-02-12-jeju-food-map-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-nuance-translator-biz",
+    "path": "src/content/posts/2026-02-08-nuance-translator-biz/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-local-live-music-bar-finder",
+    "path": "src/content/posts/2026-02-04-local-live-music-bar-finder/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-report-table-of-contents-generator",
+    "path": "src/content/posts/2026-02-04-report-table-of-contents-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-analyze-dreams-with-ai",
+    "path": "src/content/posts/2026-02-12-analyze-dreams-with-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-seo-blog-post-outline",
+    "path": "src/content/posts/2026-02-04-seo-blog-post-outline/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-generative-movies-hollywood",
+    "path": "src/content/posts/2026-02-14-generative-movies-hollywood/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-fire-roadmap",
+    "path": "src/content/posts/2026-02-04-fire-roadmap/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-monster-ecology-report",
+    "path": "src/content/posts/2026-02-04-monster-ecology-report/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-bug-hunter-debugging-guide",
+    "path": "src/content/posts/2026-02-04-bug-hunter-debugging-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-unit-test-generator-prompt",
+    "path": "src/content/posts/2026-02-04-unit-test-generator-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ui-component-generator",
+    "path": "src/content/posts/2026-02-04-ui-component-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-bento-planner",
+    "path": "src/content/posts/2026-02-12-ai-bento-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-serverless-lambda-optimization",
+    "path": "src/content/posts/2026-02-12-serverless-lambda-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-debugging-helper",
+    "path": "src/content/posts/2026-02-04-debugging-helper/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-dream-journal-analyzer",
+    "path": "src/content/posts/2026-02-12-dream-journal-analyzer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-clean-code-refactoring-guide",
+    "path": "src/content/posts/2026-02-04-clean-code-refactoring-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-question-generator",
+    "path": "src/content/posts/2026-02-04-interview-question-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-smartphone-usage-peace-treaty",
+    "path": "src/content/posts/2026-02-04-smartphone-usage-peace-treaty/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-review-schedule-generator",
+    "path": "src/content/posts/2026-02-04-review-schedule-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-meditation-script",
+    "path": "src/content/posts/2026-02-12-ai-meditation-script/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-data-cleaning-assistant",
+    "path": "src/content/posts/2026-02-10-data-cleaning-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-presentation-speech-coach",
+    "path": "src/content/posts/2026-02-12-presentation-speech-coach/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-vba-macro-generator",
+    "path": "src/content/posts/2026-02-04-excel-vba-macro-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-animal-kingdom-exploration-story",
+    "path": "src/content/posts/2026-02-04-animal-kingdom-exploration-story/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-personal-color-test",
+    "path": "src/content/posts/2026-02-12-ai-personal-color-test/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-improving-llm-coding-harness",
+    "path": "src/content/posts/2026-02-13-improving-llm-coding-harness/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-macro-nutrient-calculator",
+    "path": "src/content/posts/2026-02-04-ai-macro-nutrient-calculator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-meeting-minutes-summarizer",
+    "path": "src/content/posts/2026-02-04-meeting-minutes-summarizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-wasm-cloud-2026",
+    "path": "src/content/posts/2026-02-13-wasm-cloud-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-landmark-history-crash-course",
+    "path": "src/content/posts/2026-02-04-landmark-history-crash-course/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-smart-glasses-meta",
+    "path": "src/content/posts/2026-02-14-smart-glasses-meta/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-freelancer-tax-guide",
+    "path": "src/content/posts/2026-02-04-freelancer-tax-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-commit-message-generator",
+    "path": "src/content/posts/2026-02-04-commit-message-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-storytelling-technique",
+    "path": "src/content/posts/2026-02-04-storytelling-technique/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-journaling-prompt-for-self-discovery",
+    "path": "src/content/posts/2026-02-04-ai-journaling-prompt-for-self-discovery/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-meeting-minutes-secretary",
+    "path": "src/content/posts/2026-02-04-meeting-minutes-secretary/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-hero-vs-hero-comparison",
+    "path": "src/content/posts/2026-02-04-hero-vs-hero-comparison/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-regex-generator",
+    "path": "src/content/posts/2026-02-12-regex-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-story-plot-generator",
+    "path": "src/content/posts/2026-02-04-story-plot-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-rembrandt-lighting-portrait",
+    "path": "src/content/posts/2026-02-04-rembrandt-lighting-portrait/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-wine-food-pairing-guide",
+    "path": "src/content/posts/2026-02-12-wine-food-pairing-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-one-week-healing-travel-plan-for-burnout",
+    "path": "src/content/posts/2026-02-04-one-week-healing-travel-plan-for-burnout/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-stoic-morning-reflection",
+    "path": "src/content/posts/2026-02-12-ai-stoic-morning-reflection/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-asset-portfolio-manager",
+    "path": "src/content/posts/2026-02-12-ai-asset-portfolio-manager/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-personalized-hero-story-for-kids",
+    "path": "src/content/posts/2026-02-04-personalized-hero-story-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-skill-gap-analysis",
+    "path": "src/content/posts/2026-02-04-resume-skill-gap-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-obsidian-second-brain-setup",
+    "path": "src/content/posts/2026-02-11-obsidian-second-brain-setup/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-multi-agent-orchestration-2026",
+    "path": "src/content/posts/2026-02-11-multi-agent-orchestration-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-travel-conversation-cheatsheet",
+    "path": "src/content/posts/2026-02-04-travel-conversation-cheatsheet/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-weakness-defense-strategy",
+    "path": "src/content/posts/2026-02-04-interview-weakness-defense-strategy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-legacy-code-interpreter",
+    "path": "src/content/posts/2026-02-04-legacy-code-interpreter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-developer-burnout-check",
+    "path": "src/content/posts/2026-02-11-developer-burnout-check/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-city-history-timeline-summarizer",
+    "path": "src/content/posts/2026-02-04-city-history-timeline-summarizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-generative-ui-design",
+    "path": "src/content/posts/2026-02-13-generative-ui-design/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-content-repurposing",
+    "path": "src/content/posts/2026-02-11-content-repurposing/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-travel-itinerary-planner",
+    "path": "src/content/posts/2026-02-04-travel-itinerary-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ketogenic-diet-starter-guide",
+    "path": "src/content/posts/2026-02-04-ketogenic-diet-starter-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-isometric-view-3d",
+    "path": "src/content/posts/2026-02-04-isometric-view-3d/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-personalized-ai-tutors",
+    "path": "src/content/posts/2026-02-14-personalized-ai-tutors/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-samsung-s26-vs-apple",
+    "path": "src/content/posts/2026-02-14-samsung-s26-vs-apple/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-board-game-rule-explainer",
+    "path": "src/content/posts/2026-02-12-board-game-rule-explainer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-tech-pouch-setup-for-digital-nomads",
+    "path": "src/content/posts/2026-02-04-tech-pouch-setup-for-digital-nomads/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-paper-cutout-origami-style",
+    "path": "src/content/posts/2026-02-04-paper-cutout-origami-style/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-hallucinations-journalism",
+    "path": "src/content/posts/2026-02-15-ai-hallucinations-journalism/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-data-eng-book.ko",
+    "path": "src/content/posts/2026-02-15-data-eng-book.ko/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-bokeh-depth-of-field",
+    "path": "src/content/posts/2026-02-04-bokeh-depth-of-field/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-family-travel-itinerary-with-kids",
+    "path": "src/content/posts/2026-02-04-family-travel-itinerary-with-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ars-technica-ai-fake-quotes",
+    "path": "src/content/posts/2026-02-15-ars-technica-ai-fake-quotes/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-morning-routine-checklist-for-kids",
+    "path": "src/content/posts/2026-02-04-morning-routine-checklist-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-product-naming-generator",
+    "path": "src/content/posts/2026-02-04-product-naming-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-personal-finance-tracker-prompt",
+    "path": "src/content/posts/2026-02-04-personal-finance-tracker-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-local-food-guide",
+    "path": "src/content/posts/2026-02-04-local-food-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-generated-hiit-workout-routine",
+    "path": "src/content/posts/2026-02-04-ai-generated-hiit-workout-routine/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-cliche-twisting-plot-twist",
+    "path": "src/content/posts/2026-02-04-cliche-twisting-plot-twist/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-morning-meditation-developers",
+    "path": "src/content/posts/2026-02-12-morning-meditation-developers/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-global-business-etiquette-guide",
+    "path": "src/content/posts/2026-02-04-global-business-etiquette-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-docker-vs-podman-2026",
+    "path": "src/content/posts/2026-02-11-docker-vs-podman-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-midjourney-v8-style",
+    "path": "src/content/posts/2026-02-14-midjourney-v8-style/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-prompt-injection-security",
+    "path": "src/content/posts/2026-02-15-prompt-injection-security/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-07-ai-pet-behavior-training",
+    "path": "src/content/posts/2026-02-07-ai-pet-behavior-training/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-youtube-script-structure",
+    "path": "src/content/posts/2026-02-04-youtube-script-structure/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-threejs-r3f-guide",
+    "path": "src/content/posts/2026-02-12-threejs-r3f-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-time-complexity-analyzer",
+    "path": "src/content/posts/2026-02-04-time-complexity-analyzer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-quantum-ai-2026",
+    "path": "src/content/posts/2026-02-14-quantum-ai-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-ai-copywriting-master",
+    "path": "src/content/posts/2026-02-11-ai-copywriting-master/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-gemini-1-5-pro-guide",
+    "path": "src/content/posts/2026-02-11-gemini-1-5-pro-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-email-drafter",
+    "path": "src/content/posts/2026-02-12-ai-email-drafter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-mlops-kubeflow-guide",
+    "path": "src/content/posts/2026-02-12-mlops-kubeflow-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-gpt-6-leak",
+    "path": "src/content/posts/2026-02-15-gpt-6-leak/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-excel-formula-liberation",
+    "path": "src/content/posts/2026-02-08-excel-formula-liberation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-morning-news-brief",
+    "path": "src/content/posts/2026-02-12-ai-morning-news-brief/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-50-30-20-rule",
+    "path": "src/content/posts/2026-02-04-50-30-20-rule/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-design-system-guide",
+    "path": "src/content/posts/2026-02-11-design-system-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-intermittent-fasting-schedule",
+    "path": "src/content/posts/2026-02-04-ai-intermittent-fasting-schedule/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-github-copilot-x2",
+    "path": "src/content/posts/2026-02-14-github-copilot-x2/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ott-content-curator",
+    "path": "src/content/posts/2026-02-04-ott-content-curator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-midjourney-v7-thumbnail",
+    "path": "src/content/posts/2026-02-08-midjourney-v7-thumbnail/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-swot-analysis-generator",
+    "path": "src/content/posts/2026-02-04-swot-analysis-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-dream-analysis-with-ai",
+    "path": "src/content/posts/2026-02-12-dream-analysis-with-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-supplement-scheduler",
+    "path": "src/content/posts/2026-02-04-supplement-scheduler/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-vocabulary-context-learning",
+    "path": "src/content/posts/2026-02-04-vocabulary-context-learning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sex-education-guide-for-kids",
+    "path": "src/content/posts/2026-02-04-sex-education-guide-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-wedding-budget-planner",
+    "path": "src/content/posts/2026-02-04-wedding-budget-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-novel-character-naming-generator",
+    "path": "src/content/posts/2026-02-04-novel-character-naming-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-classic-text-interpreter",
+    "path": "src/content/posts/2026-02-04-classic-text-interpreter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-sleep-routine-generator",
+    "path": "src/content/posts/2026-02-04-ai-sleep-routine-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-healthcare-diagnosis",
+    "path": "src/content/posts/2026-02-14-ai-healthcare-diagnosis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-coding-agent-survival",
+    "path": "src/content/posts/2026-02-15-ai-coding-agent-survival/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-historical-event-simulator",
+    "path": "src/content/posts/2026-02-04-historical-event-simulator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-dream-interpretation-psychology",
+    "path": "src/content/posts/2026-02-04-ai-dream-interpretation-psychology/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-silly-questions-wise-answers",
+    "path": "src/content/posts/2026-02-04-silly-questions-wise-answers/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-5-minute-mindfulness-meditation-script",
+    "path": "src/content/posts/2026-02-04-5-minute-mindfulness-meditation-script/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-art-fusion",
+    "path": "src/content/posts/2026-02-13-ai-art-fusion/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-code-explainer",
+    "path": "src/content/posts/2026-02-04-code-explainer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ibm-ai-hiring-limits",
+    "path": "src/content/posts/2026-02-15-ibm-ai-hiring-limits/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-agents-open-source-etiquette",
+    "path": "src/content/posts/2026-02-13-ai-agents-open-source-etiquette/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-openai-o2-reasoning",
+    "path": "src/content/posts/2026-02-13-openai-o2-reasoning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-api-documentation-generator",
+    "path": "src/content/posts/2026-02-04-api-documentation-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-data-eng-book.en",
+    "path": "src/content/posts/2026-02-15-data-eng-book.en/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-salary-negotiation-sim",
+    "path": "src/content/posts/2026-02-08-salary-negotiation-sim/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-art-gallery-guide-for-beginners",
+    "path": "src/content/posts/2026-02-04-art-gallery-guide-for-beginners/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-openclaw-local-agents",
+    "path": "src/content/posts/2026-02-14-openclaw-local-agents/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-power-nap-strategy-for-productivity",
+    "path": "src/content/posts/2026-02-04-power-nap-strategy-for-productivity/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-investment-feasibility-npv-irr",
+    "path": "src/content/posts/2026-02-04-investment-feasibility-npv-irr/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-notion-ai-secretary",
+    "path": "src/content/posts/2026-02-08-notion-ai-secretary/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-mental-health-counselor",
+    "path": "src/content/posts/2026-02-04-mental-health-counselor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-guilt-free-healthy-snack-list",
+    "path": "src/content/posts/2026-02-04-guilt-free-healthy-snack-list/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-diet-meal-planner",
+    "path": "src/content/posts/2026-02-04-diet-meal-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-emotion-guessing-charades-game",
+    "path": "src/content/posts/2026-02-04-emotion-guessing-charades-game/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-startup-pitch-deck",
+    "path": "src/content/posts/2026-02-11-startup-pitch-deck/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-docker-environment-setup",
+    "path": "src/content/posts/2026-02-04-docker-environment-setup/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-hand-washing-germs-story-for-kids",
+    "path": "src/content/posts/2026-02-04-hand-washing-germs-story-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-museum-audio-guide-maker",
+    "path": "src/content/posts/2026-02-04-ai-museum-audio-guide-maker/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-data-cleansing-guide",
+    "path": "src/content/posts/2026-02-04-excel-data-cleansing-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-crewai-automation-guide",
+    "path": "src/content/posts/2026-02-12-crewai-automation-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-newsletter-curation-bot",
+    "path": "src/content/posts/2026-02-12-newsletter-curation-bot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-email-auto-reply-bot",
+    "path": "src/content/posts/2026-02-10-email-auto-reply-bot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-meeting-minutes-summary",
+    "path": "src/content/posts/2026-02-12-meeting-minutes-summary/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-data-format-converter",
+    "path": "src/content/posts/2026-02-04-data-format-converter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-vibe-coding-trap",
+    "path": "src/content/posts/2026-02-16-vibe-coding-trap/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-low-angle-worms-eye-view",
+    "path": "src/content/posts/2026-02-04-low-angle-worms-eye-view/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-habit-tracker-design",
+    "path": "src/content/posts/2026-02-04-habit-tracker-design/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-gemini-agent",
+    "path": "src/content/posts/2026-02-15-gemini-agent/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-linkedin-profile-optimization",
+    "path": "src/content/posts/2026-02-04-linkedin-profile-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-readme-generator",
+    "path": "src/content/posts/2026-02-12-ai-readme-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-bioluminescence-fantasy-prompt",
+    "path": "src/content/posts/2026-02-04-bioluminescence-fantasy-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-07-youtube-thumbnail-title-generator",
+    "path": "src/content/posts/2026-02-07-youtube-thumbnail-title-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-writing-polishing-guide",
+    "path": "src/content/posts/2026-02-12-writing-polishing-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-grammar-correction-tutor",
+    "path": "src/content/posts/2026-02-04-grammar-correction-tutor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-journaling-prompt-generator",
+    "path": "src/content/posts/2026-02-12-journaling-prompt-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-meeting-minutes-pro",
+    "path": "src/content/posts/2026-02-11-meeting-minutes-pro/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-fatigue",
+    "path": "src/content/posts/2026-02-15-ai-fatigue/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-travel-budget-calculator",
+    "path": "src/content/posts/2026-02-04-travel-budget-calculator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-workout-form-check",
+    "path": "src/content/posts/2026-02-12-ai-workout-form-check/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-daily-standup-generator",
+    "path": "src/content/posts/2026-02-12-daily-standup-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-diary-sentiment-analysis",
+    "path": "src/content/posts/2026-02-12-diary-sentiment-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-data-interpretation-tutor",
+    "path": "src/content/posts/2026-02-04-data-interpretation-tutor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-prompt-engineering-zero-shot-vs-few-shot",
+    "path": "src/content/posts/2026-02-15-prompt-engineering-zero-shot-vs-few-shot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sensory-description-generator-4d",
+    "path": "src/content/posts/2026-02-04-sensory-description-generator-4d/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-scraping-block",
+    "path": "src/content/posts/2026-02-15-ai-scraping-block/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-video-generation",
+    "path": "src/content/posts/2026-02-14-ai-video-generation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-insta-poetry-generator",
+    "path": "src/content/posts/2026-02-04-insta-poetry-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-prompt-chaining-2026",
+    "path": "src/content/posts/2026-02-15-prompt-chaining-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-no-code-data-cleaning",
+    "path": "src/content/posts/2026-02-11-no-code-data-cleaning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-support-ticket-triage",
+    "path": "src/content/posts/2026-02-12-support-ticket-triage/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-llm-finetuning-guide",
+    "path": "src/content/posts/2026-02-11-llm-finetuning-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-english-shadowing-guide",
+    "path": "src/content/posts/2026-02-12-english-shadowing-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-vegan-meal-prep-guide-for-beginners",
+    "path": "src/content/posts/2026-02-04-vegan-meal-prep-guide-for-beginners/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-agentic-workflows-prompt-engineering",
+    "path": "src/content/posts/2026-02-13-agentic-workflows-prompt-engineering/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-code-review-assistant",
+    "path": "src/content/posts/2026-02-12-code-review-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-volumetric-lighting-god-rays",
+    "path": "src/content/posts/2026-02-04-volumetric-lighting-god-rays/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-bubble-nocode-mvp",
+    "path": "src/content/posts/2026-02-10-bubble-nocode-mvp/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-bug-report-formatter",
+    "path": "src/content/posts/2026-02-12-ai-bug-report-formatter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-beginner-gym-routine-guide",
+    "path": "src/content/posts/2026-02-04-beginner-gym-routine-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-travel-budget-calculator-with-ai",
+    "path": "src/content/posts/2026-02-04-travel-budget-calculator-with-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-teaching-sharing-and-caring-story",
+    "path": "src/content/posts/2026-02-04-teaching-sharing-and-caring-story/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-k8s-manifest-generator",
+    "path": "src/content/posts/2026-02-12-ai-k8s-manifest-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sleep-pattern-analyzer",
+    "path": "src/content/posts/2026-02-04-sleep-pattern-analyzer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-meeting-interpreter-guide",
+    "path": "src/content/posts/2026-02-12-meeting-interpreter-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-seo-blog-writing-guide",
+    "path": "src/content/posts/2026-02-11-seo-blog-writing-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-portfolio-rebalancing",
+    "path": "src/content/posts/2026-02-04-portfolio-rebalancing/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-english-roleplay-tutor",
+    "path": "src/content/posts/2026-02-11-english-roleplay-tutor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-tailwind-css-master",
+    "path": "src/content/posts/2026-02-11-tailwind-css-master/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-essay-outline-maker",
+    "path": "src/content/posts/2026-02-04-essay-outline-maker/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-gemini-3-deep-think",
+    "path": "src/content/posts/2026-02-13-gemini-3-deep-think/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-pain-free-morning-wake-up-routine",
+    "path": "src/content/posts/2026-02-04-pain-free-morning-wake-up-routine/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-cinematic-lighting-prompt",
+    "path": "src/content/posts/2026-02-04-cinematic-lighting-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-fashion-style-recommender",
+    "path": "src/content/posts/2026-02-12-fashion-style-recommender/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-stress-relief-techniques-by-situation",
+    "path": "src/content/posts/2026-02-04-stress-relief-techniques-by-situation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-minimalist-packing-list-carry-on",
+    "path": "src/content/posts/2026-02-04-minimalist-packing-list-carry-on/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-windows-notepad-rce",
+    "path": "src/content/posts/2026-02-12-windows-notepad-rce/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-error-log-analysis",
+    "path": "src/content/posts/2026-02-04-error-log-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-storage-2025.ko",
+    "path": "src/content/posts/2026-02-15-storage-2025.ko/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-okr-goal-setting-guide",
+    "path": "src/content/posts/2026-02-04-okr-goal-setting-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-claude-4-5-context",
+    "path": "src/content/posts/2026-02-14-claude-4-5-context/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-generative-ui-2026",
+    "path": "src/content/posts/2026-02-15-generative-ui-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-tui-dev.ko",
+    "path": "src/content/posts/2026-02-15-tui-dev.ko/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-webgpu-local-llm",
+    "path": "src/content/posts/2026-02-15-webgpu-local-llm/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-post-run-stretching-guide",
+    "path": "src/content/posts/2026-02-04-post-run-stretching-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-feynman-technique-bot",
+    "path": "src/content/posts/2026-02-04-feynman-technique-bot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-ootd-weather-stylist",
+    "path": "src/content/posts/2026-02-12-ai-ootd-weather-stylist/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-agentic-ides-2026",
+    "path": "src/content/posts/2026-02-13-agentic-ides-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-code-complexity-analyzer",
+    "path": "src/content/posts/2026-02-12-code-complexity-analyzer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-symmetrical-composition-wes-anderson",
+    "path": "src/content/posts/2026-02-04-symmetrical-composition-wes-anderson/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-nvidia-b200",
+    "path": "src/content/posts/2026-02-15-nvidia-b200/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-math-problem-solver",
+    "path": "src/content/posts/2026-02-04-math-problem-solver/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-physics-problem-translator",
+    "path": "src/content/posts/2026-02-04-physics-problem-translator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-coffee-chat-cold-email",
+    "path": "src/content/posts/2026-02-04-coffee-chat-cold-email/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-local-llms-apple-m6",
+    "path": "src/content/posts/2026-02-13-local-llms-apple-m6/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-swot-analysis",
+    "path": "src/content/posts/2026-02-04-swot-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-daily-goal-prioritizer",
+    "path": "src/content/posts/2026-02-12-daily-goal-prioritizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-youtube-channel-naming-ideas",
+    "path": "src/content/posts/2026-02-04-youtube-channel-naming-ideas/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-knitting-pattern-interpreter",
+    "path": "src/content/posts/2026-02-12-knitting-pattern-interpreter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-zig-io-updates",
+    "path": "src/content/posts/2026-02-15-zig-io-updates/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-cocktail-recipe-generator",
+    "path": "src/content/posts/2026-02-12-cocktail-recipe-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-markdown-formatter",
+    "path": "src/content/posts/2026-02-04-resume-markdown-formatter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-trpg-game-master",
+    "path": "src/content/posts/2026-02-12-ai-trpg-game-master/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-samsung-galaxy-s26-ai",
+    "path": "src/content/posts/2026-02-14-samsung-galaxy-s26-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-local-llm-mac",
+    "path": "src/content/posts/2026-02-14-local-llm-mac/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-senior-reviewer-prompt",
+    "path": "src/content/posts/2026-02-15-senior-reviewer-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-hiphop-rhyme-punchline-generator",
+    "path": "src/content/posts/2026-02-04-hiphop-rhyme-punchline-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-performance-review-feedback-generator",
+    "path": "src/content/posts/2026-02-04-performance-review-feedback-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-formula-generator-natural-language",
+    "path": "src/content/posts/2026-02-04-excel-formula-generator-natural-language/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-midjourney-product-photography",
+    "path": "src/content/posts/2026-02-10-midjourney-product-photography/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-global-tipping-etiquette-guide",
+    "path": "src/content/posts/2026-02-04-global-tipping-etiquette-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-insurance-remodeling",
+    "path": "src/content/posts/2026-02-04-insurance-remodeling/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-npc-generator-instant-profile",
+    "path": "src/content/posts/2026-02-04-npc-generator-instant-profile/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-landing-page-headline-generator",
+    "path": "src/content/posts/2026-02-04-landing-page-headline-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-market-research-automation",
+    "path": "src/content/posts/2026-02-12-market-research-automation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-code-snippet-manager",
+    "path": "src/content/posts/2026-02-12-ai-code-snippet-manager/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-serverless-edge",
+    "path": "src/content/posts/2026-02-13-serverless-edge/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-rust-2026",
+    "path": "src/content/posts/2026-02-14-rust-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-glm-5-agentic-engineering",
+    "path": "src/content/posts/2026-02-12-glm-5-agentic-engineering/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-lyric-writing-ballad-keywords",
+    "path": "src/content/posts/2026-02-04-lyric-writing-ballad-keywords/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-anki-card-generator",
+    "path": "src/content/posts/2026-02-04-anki-card-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-graphrag-second-brain",
+    "path": "src/content/posts/2026-02-15-graphrag-second-brain/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-sustainable-ai-computing",
+    "path": "src/content/posts/2026-02-14-sustainable-ai-computing/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-novel-first-sentence-brainstorming",
+    "path": "src/content/posts/2026-02-04-novel-first-sentence-brainstorming/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-global-dining-etiquette-guide",
+    "path": "src/content/posts/2026-02-04-global-dining-etiquette-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-refactoring",
+    "path": "src/content/posts/2026-02-13-ai-refactoring/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-dawn-ai-alarm",
+    "path": "src/content/posts/2026-02-12-dawn-ai-alarm/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-watercolor-sketch-prompt",
+    "path": "src/content/posts/2026-02-04-watercolor-sketch-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-social-crisis",
+    "path": "src/content/posts/2026-02-14-ai-social-crisis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-double-exposure-effect",
+    "path": "src/content/posts/2026-02-04-double-exposure-effect/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-diy-history-walking-tour-guide",
+    "path": "src/content/posts/2026-02-04-diy-history-walking-tour-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-journalism-ethics",
+    "path": "src/content/posts/2026-02-13-ai-journalism-ethics/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-balance-game-questions-for-kids",
+    "path": "src/content/posts/2026-02-04-balance-game-questions-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-reducing-hallucinations",
+    "path": "src/content/posts/2026-02-15-reducing-hallucinations/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-proposal-outline-generator",
+    "path": "src/content/posts/2026-02-04-proposal-outline-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-knolling-flat-lay-composition",
+    "path": "src/content/posts/2026-02-04-knolling-flat-lay-composition/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-vim-9-2-released",
+    "path": "src/content/posts/2026-02-15-vim-9-2-released/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-staycation-planner",
+    "path": "src/content/posts/2026-02-12-ai-staycation-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-foreign-language-menu-reading-guide",
+    "path": "src/content/posts/2026-02-04-foreign-language-menu-reading-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-studio-lighting-product-shot",
+    "path": "src/content/posts/2026-02-04-studio-lighting-product-shot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-emergency-fund-calculator",
+    "path": "src/content/posts/2026-02-04-emergency-fund-calculator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-interview-introduction-generator",
+    "path": "src/content/posts/2026-02-11-interview-introduction-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-blockchain-solidity-audit",
+    "path": "src/content/posts/2026-02-12-blockchain-solidity-audit/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-travel-packing-checklist",
+    "path": "src/content/posts/2026-02-04-travel-packing-checklist/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-optimizing-context-windows",
+    "path": "src/content/posts/2026-02-15-optimizing-context-windows/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-openai-should-build-slack",
+    "path": "src/content/posts/2026-02-15-openai-should-build-slack/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-agent-swarms-2026",
+    "path": "src/content/posts/2026-02-15-ai-agent-swarms-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-low-poly-voxel-art",
+    "path": "src/content/posts/2026-02-04-low-poly-voxel-art/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-golden-hour-lighting",
+    "path": "src/content/posts/2026-02-04-golden-hour-lighting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-multimodal-reasoning-2026",
+    "path": "src/content/posts/2026-02-15-multimodal-reasoning-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-relationship-ethics",
+    "path": "src/content/posts/2026-02-14-ai-relationship-ethics/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-rust-web-2026",
+    "path": "src/content/posts/2026-02-13-rust-web-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-deepseek-r1-local-guide",
+    "path": "src/content/posts/2026-02-08-deepseek-r1-local-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-salary-negotiation-simulation-roleplay",
+    "path": "src/content/posts/2026-02-04-salary-negotiation-simulation-roleplay/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-voice-cloning-guide",
+    "path": "src/content/posts/2026-02-12-ai-voice-cloning-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-kubernetes-troubleshooting",
+    "path": "src/content/posts/2026-02-12-kubernetes-troubleshooting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-security-vulnerability-scanner",
+    "path": "src/content/posts/2026-02-04-security-vulnerability-scanner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-offline-edge-ai-mobile",
+    "path": "src/content/posts/2026-02-15-offline-edge-ai-mobile/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sleep-hygiene-checklist-by-ai",
+    "path": "src/content/posts/2026-02-04-sleep-hygiene-checklist-by-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-fantasy-nation-politics-setting",
+    "path": "src/content/posts/2026-02-04-fantasy-nation-politics-setting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-coding-interview-simulator",
+    "path": "src/content/posts/2026-02-04-coding-interview-simulator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-retirement-fund-calculator",
+    "path": "src/content/posts/2026-02-04-retirement-fund-calculator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-prompt-chaining",
+    "path": "src/content/posts/2026-02-15-prompt-chaining/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-newpipe-algorithm-free",
+    "path": "src/content/posts/2026-02-15-newpipe-algorithm-free/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-dreamy-sleep-story-for-kids",
+    "path": "src/content/posts/2026-02-04-dreamy-sleep-story-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-data-insight-extractor",
+    "path": "src/content/posts/2026-02-04-data-insight-extractor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-software-architecture-guide",
+    "path": "src/content/posts/2026-02-12-software-architecture-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-mock-simulator-ai",
+    "path": "src/content/posts/2026-02-04-interview-mock-simulator-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-sql-query-optimization",
+    "path": "src/content/posts/2026-02-12-sql-query-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-google-langextract",
+    "path": "src/content/posts/2026-02-13-google-langextract/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-kpop-idol-concept-lyric-draft",
+    "path": "src/content/posts/2026-02-04-kpop-idol-concept-lyric-draft/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-morning-affirmation-generator",
+    "path": "src/content/posts/2026-02-12-morning-affirmation-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-gpt-5-physics.ko",
+    "path": "src/content/posts/2026-02-15-gpt-5-physics.ko/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-vim-shortcuts-master",
+    "path": "src/content/posts/2026-02-12-vim-shortcuts-master/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-youtube-shorts-factory",
+    "path": "src/content/posts/2026-02-08-youtube-shorts-factory/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-chrome-extensions-spying",
+    "path": "src/content/posts/2026-02-12-chrome-extensions-spying/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-novel-plot-generator-what-if",
+    "path": "src/content/posts/2026-02-04-novel-plot-generator-what-if/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-ai-code-editor-battle-2026",
+    "path": "src/content/posts/2026-02-11-ai-code-editor-battle-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-meeting-notes",
+    "path": "src/content/posts/2026-02-15-ai-meeting-notes/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-agent-workflow",
+    "path": "src/content/posts/2026-02-13-ai-agent-workflow/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-expert-delimiters",
+    "path": "src/content/posts/2026-02-04-expert-delimiters/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-midjourney-v7-photorealism",
+    "path": "src/content/posts/2026-02-11-midjourney-v7-photorealism/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-quantum-ai-breakthroughs",
+    "path": "src/content/posts/2026-02-14-quantum-ai-breakthroughs/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-smart-sleep-mask-leak",
+    "path": "src/content/posts/2026-02-15-smart-sleep-mask-leak/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-unit-test-generation",
+    "path": "src/content/posts/2026-02-04-unit-test-generation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-regex-generator-korean",
+    "path": "src/content/posts/2026-02-04-regex-generator-korean/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-grounding-technique-for-anxiety",
+    "path": "src/content/posts/2026-02-04-grounding-technique-for-anxiety/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-steampunk-aesthetic",
+    "path": "src/content/posts/2026-02-04-steampunk-aesthetic/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-chrome-devtools-mcp",
+    "path": "src/content/posts/2026-02-13-chrome-devtools-mcp/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-social-skills-coaching-for-kids",
+    "path": "src/content/posts/2026-02-04-social-skills-coaching-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-llm-apps-rag-guide",
+    "path": "src/content/posts/2026-02-13-llm-apps-rag-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-python-excel-automation",
+    "path": "src/content/posts/2026-02-11-python-excel-automation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-learning-roadmap-maker",
+    "path": "src/content/posts/2026-02-12-learning-roadmap-maker/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-slop-fatigue",
+    "path": "src/content/posts/2026-02-14-ai-slop-fatigue/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-book-toc-planning",
+    "path": "src/content/posts/2026-02-04-book-toc-planning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-midjourney-v7-guide",
+    "path": "src/content/posts/2026-02-14-midjourney-v7-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-job-description-tailored-cover-letter",
+    "path": "src/content/posts/2026-02-04-job-description-tailored-cover-letter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-pr-summarizer",
+    "path": "src/content/posts/2026-02-12-ai-pr-summarizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-smart-breakfast-nutritionist",
+    "path": "src/content/posts/2026-02-12-smart-breakfast-nutritionist/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-personal-ai-infrastructure",
+    "path": "src/content/posts/2026-02-13-personal-ai-infrastructure/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-personal-trainer-routine",
+    "path": "src/content/posts/2026-02-04-personal-trainer-routine/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-sql-query-builder",
+    "path": "src/content/posts/2026-02-12-sql-query-builder/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-svelte-5-migration-guide",
+    "path": "src/content/posts/2026-02-10-svelte-5-migration-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-finding-local-hidden-gems-travel-guide",
+    "path": "src/content/posts/2026-02-04-finding-local-hidden-gems-travel-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-slack-lunch-bot",
+    "path": "src/content/posts/2026-02-12-slack-lunch-bot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-winter-travel-packing-strategy-warmth-volume",
+    "path": "src/content/posts/2026-02-04-winter-travel-packing-strategy-warmth-volume/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-internet-unarchivable",
+    "path": "src/content/posts/2026-02-15-internet-unarchivable/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-infra-truth",
+    "path": "src/content/posts/2026-02-14-infra-truth/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-overcoming-dental-fear-story-for-kids",
+    "path": "src/content/posts/2026-02-04-overcoming-dental-fear-story-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-brand-voice-consistency",
+    "path": "src/content/posts/2026-02-10-brand-voice-consistency/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-one-day-city-tour-itinerary-with-ai",
+    "path": "src/content/posts/2026-02-04-one-day-city-tour-itinerary-with-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-newsletter-draft-generator",
+    "path": "src/content/posts/2026-02-04-newsletter-draft-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-presentation-script-generator",
+    "path": "src/content/posts/2026-02-04-presentation-script-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-junior-dev-crisis",
+    "path": "src/content/posts/2026-02-16-junior-dev-crisis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-language-learning-roleplay",
+    "path": "src/content/posts/2026-02-04-language-learning-roleplay/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-investment-tendency-test",
+    "path": "src/content/posts/2026-02-04-investment-tendency-test/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-focus-music-dj",
+    "path": "src/content/posts/2026-02-12-ai-focus-music-dj/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-tarot-reading-ai-fortune",
+    "path": "src/content/posts/2026-02-04-tarot-reading-ai-fortune/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-variable-naming-assistant",
+    "path": "src/content/posts/2026-02-04-variable-naming-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-linkedin-personal-branding-post-generator",
+    "path": "src/content/posts/2026-02-04-linkedin-personal-branding-post-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-stock-chart-analysis",
+    "path": "src/content/posts/2026-02-08-stock-chart-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-letter-writing-assistant-love-apology",
+    "path": "src/content/posts/2026-02-04-letter-writing-assistant-love-apology/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-blog-post-title-generator",
+    "path": "src/content/posts/2026-02-04-blog-post-title-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-git-hook-generator",
+    "path": "src/content/posts/2026-02-12-git-hook-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-business-email-reminder",
+    "path": "src/content/posts/2026-02-04-business-email-reminder/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-budget-planner",
+    "path": "src/content/posts/2026-02-04-budget-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-macro-photography-prompt",
+    "path": "src/content/posts/2026-02-04-macro-photography-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-star-answer-structuring",
+    "path": "src/content/posts/2026-02-04-interview-star-answer-structuring/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-emoticon-generator",
+    "path": "src/content/posts/2026-02-12-ai-emoticon-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-self-healing-code-agent",
+    "path": "src/content/posts/2026-02-16-self-healing-code-agent/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-solo-backpacking-safe-route-guide",
+    "path": "src/content/posts/2026-02-04-solo-backpacking-safe-route-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-gratitude-journal-prompt",
+    "path": "src/content/posts/2026-02-04-gratitude-journal-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-interior-design-consulting",
+    "path": "src/content/posts/2026-02-12-interior-design-consulting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-meeting-minutes",
+    "path": "src/content/posts/2026-02-13-meeting-minutes/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-project-scheduling-wbs-generator",
+    "path": "src/content/posts/2026-02-04-project-scheduling-wbs-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-gap-year-explanation",
+    "path": "src/content/posts/2026-02-04-resume-gap-year-explanation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-linkedin-post-reformatter",
+    "path": "src/content/posts/2026-02-12-linkedin-post-reformatter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-claude-game.ko",
+    "path": "src/content/posts/2026-02-15-claude-game.ko/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-cbt-i-insomnia-therapy",
+    "path": "src/content/posts/2026-02-04-ai-cbt-i-insomnia-therapy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-dependency-conflict-resolver",
+    "path": "src/content/posts/2026-02-12-dependency-conflict-resolver/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-habit-tracker-routine",
+    "path": "src/content/posts/2026-02-12-habit-tracker-routine/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-legacy-code-refactoring",
+    "path": "src/content/posts/2026-02-10-legacy-code-refactoring/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-cyberpunk-neon-lighting",
+    "path": "src/content/posts/2026-02-04-cyberpunk-neon-lighting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-philosophy-debate-partner",
+    "path": "src/content/posts/2026-02-04-philosophy-debate-partner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-fast-llm-inference-tradeoffs",
+    "path": "src/content/posts/2026-02-16-fast-llm-inference-tradeoffs/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-salary-raise-request-email",
+    "path": "src/content/posts/2026-02-04-salary-raise-request-email/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-legacy-code-ai",
+    "path": "src/content/posts/2026-02-15-legacy-code-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-ats-keyword-optimization",
+    "path": "src/content/posts/2026-02-04-resume-ats-keyword-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-privacy-leaks",
+    "path": "src/content/posts/2026-02-15-ai-privacy-leaks/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-mbti-analysis-chat",
+    "path": "src/content/posts/2026-02-12-mbti-analysis-chat/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-personal-study-planner",
+    "path": "src/content/posts/2026-02-04-personal-study-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-email-subject-line-generator",
+    "path": "src/content/posts/2026-02-04-email-subject-line-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-commute-optimizer",
+    "path": "src/content/posts/2026-02-12-ai-commute-optimizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-automated-report-gemini-3",
+    "path": "src/content/posts/2026-02-11-automated-report-gemini-3/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-toy-story-style-bedtime-tale",
+    "path": "src/content/posts/2026-02-04-toy-story-style-bedtime-tale/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-trpg-scenario-hook-generator",
+    "path": "src/content/posts/2026-02-04-trpg-scenario-hook-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-press-release-generator",
+    "path": "src/content/posts/2026-02-12-press-release-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-09-reasoning-model-cot-optimizer",
+    "path": "src/content/posts/2026-02-09-reasoning-model-cot-optimizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-breaking-vibe-coding-spell",
+    "path": "src/content/posts/2026-02-15-breaking-vibe-coding-spell/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-synthwave-retrowave-style",
+    "path": "src/content/posts/2026-02-04-synthwave-retrowave-style/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-code-reviewer",
+    "path": "src/content/posts/2026-02-04-ai-code-reviewer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-explaining-blue-sky-to-5-year-old",
+    "path": "src/content/posts/2026-02-04-explaining-blue-sky-to-5-year-old/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-midjourney-v7-guide",
+    "path": "src/content/posts/2026-02-11-midjourney-v7-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-interop-2026",
+    "path": "src/content/posts/2026-02-15-interop-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-formula-memorization-mnemonic",
+    "path": "src/content/posts/2026-02-04-formula-memorization-mnemonic/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-discord-performance",
+    "path": "src/content/posts/2026-02-15-discord-performance/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-cursor-editor-guide",
+    "path": "src/content/posts/2026-02-10-cursor-editor-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-claude-game.en",
+    "path": "src/content/posts/2026-02-15-claude-game.en/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-expert-cot",
+    "path": "src/content/posts/2026-02-04-expert-cot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-redis-caching-strategy",
+    "path": "src/content/posts/2026-02-12-redis-caching-strategy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-singularity-trap",
+    "path": "src/content/posts/2026-02-14-singularity-trap/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-pixel-art-retro-game",
+    "path": "src/content/posts/2026-02-04-pixel-art-retro-game/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ethical-ai-regulation",
+    "path": "src/content/posts/2026-02-13-ethical-ai-regulation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-portfolio-project-description-polish",
+    "path": "src/content/posts/2026-02-04-portfolio-project-description-polish/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-socratic-tutor",
+    "path": "src/content/posts/2026-02-11-socratic-tutor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-react-performance-optimization",
+    "path": "src/content/posts/2026-02-11-react-performance-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-todo-list-prioritizer",
+    "path": "src/content/posts/2026-02-12-todo-list-prioritizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-earnings-call-summary",
+    "path": "src/content/posts/2026-02-04-earnings-call-summary/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-morning-routine-optimizer",
+    "path": "src/content/posts/2026-02-12-morning-routine-optimizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-card-news-copywriting",
+    "path": "src/content/posts/2026-02-04-card-news-copywriting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-wide-angle-fisheye-lens",
+    "path": "src/content/posts/2026-02-04-wide-angle-fisheye-lens/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-ai-coding-tools-comparison",
+    "path": "src/content/posts/2026-02-11-ai-coding-tools-comparison/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-salary-market-rate-researcher",
+    "path": "src/content/posts/2026-02-04-salary-market-rate-researcher/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-graphql-schema-design",
+    "path": "src/content/posts/2026-02-12-graphql-schema-design/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-morning-standup-gen",
+    "path": "src/content/posts/2026-02-12-morning-standup-gen/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-sleep-story-generator-for-adults",
+    "path": "src/content/posts/2026-02-04-ai-sleep-story-generator-for-adults/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-ethics-deepfake",
+    "path": "src/content/posts/2026-02-14-ai-ethics-deepfake/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-quantum-ai-hybrids-2026",
+    "path": "src/content/posts/2026-02-15-quantum-ai-hybrids-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ax-reality",
+    "path": "src/content/posts/2026-02-14-ax-reality/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-city-architecture-tour-guide",
+    "path": "src/content/posts/2026-02-04-city-architecture-tour-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-job-description-writer",
+    "path": "src/content/posts/2026-02-04-job-description-writer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-sovereign-ai-edge-computing",
+    "path": "src/content/posts/2026-02-13-sovereign-ai-edge-computing/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-toyota-fluorite-engine",
+    "path": "src/content/posts/2026-02-12-toyota-fluorite-engine/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-fridge-cleanup-recipe-generator",
+    "path": "src/content/posts/2026-02-04-fridge-cleanup-recipe-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-habit-stacking-architect",
+    "path": "src/content/posts/2026-02-12-habit-stacking-architect/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-smart-sleep-mask-privacy-leak",
+    "path": "src/content/posts/2026-02-15-smart-sleep-mask-privacy-leak/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-simon-says-game-variation-for-kids",
+    "path": "src/content/posts/2026-02-04-simon-says-game-variation-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-cs-response-automation",
+    "path": "src/content/posts/2026-02-12-cs-response-automation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-sensitivity-analysis-scenario",
+    "path": "src/content/posts/2026-02-04-excel-sensitivity-analysis-scenario/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-reasoning-model-prompting",
+    "path": "src/content/posts/2026-02-16-reasoning-model-prompting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-enterprise-ai-reality",
+    "path": "src/content/posts/2026-02-14-enterprise-ai-reality/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-daily-planner-assistant",
+    "path": "src/content/posts/2026-02-12-daily-planner-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-jira-ticket-generator",
+    "path": "src/content/posts/2026-02-12-jira-ticket-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-miracle-morning-routine-planner",
+    "path": "src/content/posts/2026-02-12-miracle-morning-routine-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-shadow-puppet-theater-script",
+    "path": "src/content/posts/2026-02-04-shadow-puppet-theater-script/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-cron-schedule-generator",
+    "path": "src/content/posts/2026-02-12-ai-cron-schedule-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-xlookup-financial-data-matching",
+    "path": "src/content/posts/2026-02-04-excel-xlookup-financial-data-matching/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-software-architecture-advisor",
+    "path": "src/content/posts/2026-02-04-software-architecture-advisor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-cold-email-personalization",
+    "path": "src/content/posts/2026-02-12-cold-email-personalization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-google-sheets-formula-guide",
+    "path": "src/content/posts/2026-02-12-google-sheets-formula-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-system-prompts",
+    "path": "src/content/posts/2026-02-15-system-prompts/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-dream-house-floor-plan",
+    "path": "src/content/posts/2026-02-12-dream-house-floor-plan/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-llm-distributed-systems",
+    "path": "src/content/posts/2026-02-15-llm-distributed-systems/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-human-premium",
+    "path": "src/content/posts/2026-02-14-human-premium/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-c-vector-database",
+    "path": "src/content/posts/2026-02-15-c-vector-database/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-dinner-menu-recommender",
+    "path": "src/content/posts/2026-02-04-dinner-menu-recommender/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-code-agents-evolution",
+    "path": "src/content/posts/2026-02-14-code-agents-evolution/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-coding-test-tutor",
+    "path": "src/content/posts/2026-02-12-coding-test-tutor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-hidden-gems-finder",
+    "path": "src/content/posts/2026-02-04-hidden-gems-finder/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-diy-home-repair-guide",
+    "path": "src/content/posts/2026-02-12-diy-home-repair-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-history-timeline-generator",
+    "path": "src/content/posts/2026-02-04-history-timeline-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-youtube-video-summarizer",
+    "path": "src/content/posts/2026-02-11-youtube-video-summarizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-09-webassembly-porting-assistant",
+    "path": "src/content/posts/2026-02-09-webassembly-porting-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-aws-cost-optimization",
+    "path": "src/content/posts/2026-02-11-aws-cost-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-email-reply-gen",
+    "path": "src/content/posts/2026-02-12-email-reply-gen/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-science-of-miracle-mornings",
+    "path": "src/content/posts/2026-02-12-science-of-miracle-mornings/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-langchain-vs-llamaindex",
+    "path": "src/content/posts/2026-02-12-langchain-vs-llamaindex/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-ai-healthcare-personalized",
+    "path": "src/content/posts/2026-02-13-ai-healthcare-personalized/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-explaining-death-to-children",
+    "path": "src/content/posts/2026-02-04-explaining-death-to-children/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-alternative-history-simulator",
+    "path": "src/content/posts/2026-02-12-alternative-history-simulator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-smart-reading-assistant",
+    "path": "src/content/posts/2026-02-12-smart-reading-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-deepseek-v4-open-source",
+    "path": "src/content/posts/2026-02-13-deepseek-v4-open-source/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-react-native-vs-flutter-2026",
+    "path": "src/content/posts/2026-02-12-react-native-vs-flutter-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-language-learning-buddy",
+    "path": "src/content/posts/2026-02-04-language-learning-buddy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-morning-news-summarizer",
+    "path": "src/content/posts/2026-02-12-morning-news-summarizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-stealth-office-stretching-exercises",
+    "path": "src/content/posts/2026-02-04-stealth-office-stretching-exercises/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-excel-financial-dashboard-sparkline",
+    "path": "src/content/posts/2026-02-04-excel-financial-dashboard-sparkline/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-it-concept-metaphor",
+    "path": "src/content/posts/2026-02-04-it-concept-metaphor/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-gemini-3-pro-prompting",
+    "path": "src/content/posts/2026-02-14-gemini-3-pro-prompting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-essential-travel-medicine-kit-checklist",
+    "path": "src/content/posts/2026-02-04-essential-travel-medicine-kit-checklist/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-search-wars",
+    "path": "src/content/posts/2026-02-14-ai-search-wars/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-why-4am-is-golden",
+    "path": "src/content/posts/2026-02-12-why-4am-is-golden/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-star-method-achievement",
+    "path": "src/content/posts/2026-02-04-resume-star-method-achievement/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-high-angle-drone-view",
+    "path": "src/content/posts/2026-02-04-high-angle-drone-view/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-open-source-llama4",
+    "path": "src/content/posts/2026-02-14-open-source-llama4/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-korean-to-english-translator",
+    "path": "src/content/posts/2026-02-04-resume-korean-to-english-translator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-16-mcp-server-tutorial",
+    "path": "src/content/posts/2026-02-16-mcp-server-tutorial/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-meeting-minutes-automation",
+    "path": "src/content/posts/2026-02-10-meeting-minutes-automation/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-cultural-etiquette-guide",
+    "path": "src/content/posts/2026-02-04-cultural-etiquette-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-k8s-edge-2026",
+    "path": "src/content/posts/2026-02-13-k8s-edge-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-10-ai-agent-security-guide",
+    "path": "src/content/posts/2026-02-10-ai-agent-security-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-deep-work-scheduler",
+    "path": "src/content/posts/2026-02-12-deep-work-scheduler/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sql-query-tuner",
+    "path": "src/content/posts/2026-02-04-sql-query-tuner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-kpi-dashboard-planner",
+    "path": "src/content/posts/2026-02-04-kpi-dashboard-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-reverse-question-generator",
+    "path": "src/content/posts/2026-02-04-interview-reverse-question-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-zero-vs-few-shot",
+    "path": "src/content/posts/2026-02-15-zero-vs-few-shot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-job-offer-comparison-counter-offer",
+    "path": "src/content/posts/2026-02-04-job-offer-comparison-counter-offer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-windows-notepad-rce-2026",
+    "path": "src/content/posts/2026-02-12-windows-notepad-rce-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-gamified-cleaning-missions-for-kids",
+    "path": "src/content/posts/2026-02-04-gamified-cleaning-missions-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-gemini-3-pro-review",
+    "path": "src/content/posts/2026-02-13-gemini-3-pro-review/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-7zip-malware-alert",
+    "path": "src/content/posts/2026-02-15-7zip-malware-alert/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-python-3-14",
+    "path": "src/content/posts/2026-02-13-python-3-14/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-legal-document-translator",
+    "path": "src/content/posts/2026-02-04-legal-document-translator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-content-repurposing-workflow",
+    "path": "src/content/posts/2026-02-12-content-repurposing-workflow/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-brainstorming-partner-scamper",
+    "path": "src/content/posts/2026-02-04-brainstorming-partner-scamper/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-shell-script-generator",
+    "path": "src/content/posts/2026-02-04-shell-script-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-long-term-travel-survival-items",
+    "path": "src/content/posts/2026-02-04-long-term-travel-survival-items/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-context-window-optimization",
+    "path": "src/content/posts/2026-02-15-context-window-optimization/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ad-copy-generator",
+    "path": "src/content/posts/2026-02-04-ad-copy-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-interview-thank-you-email-writer",
+    "path": "src/content/posts/2026-02-04-interview-thank-you-email-writer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-stoat-removes-llm-code",
+    "path": "src/content/posts/2026-02-15-stoat-removes-llm-code/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-clean-code-refactoring",
+    "path": "src/content/posts/2026-02-04-clean-code-refactoring/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-startup-business-plan",
+    "path": "src/content/posts/2026-02-12-startup-business-plan/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-instagram-caption-generator",
+    "path": "src/content/posts/2026-02-04-instagram-caption-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-deepfake-ethics-consent",
+    "path": "src/content/posts/2026-02-13-deepfake-ethics-consent/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-08-crisis-apology-letter",
+    "path": "src/content/posts/2026-02-08-crisis-apology-letter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-wifi-surveillance-risk",
+    "path": "src/content/posts/2026-02-12-wifi-surveillance-risk/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-edge-ai-privacy-2026",
+    "path": "src/content/posts/2026-02-15-edge-ai-privacy-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-expert-few-shot",
+    "path": "src/content/posts/2026-02-04-expert-few-shot/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-chrome-devtools-mcp-agents",
+    "path": "src/content/posts/2026-02-13-chrome-devtools-mcp-agents/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-09-terraform-iac-generator",
+    "path": "src/content/posts/2026-02-09-terraform-iac-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-plant-diagnosis",
+    "path": "src/content/posts/2026-02-12-ai-plant-diagnosis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-wifi-surveillance",
+    "path": "src/content/posts/2026-02-12-wifi-surveillance/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-sibling-conflict-resolution-guide",
+    "path": "src/content/posts/2026-02-04-sibling-conflict-resolution-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-financial-statement-analysis",
+    "path": "src/content/posts/2026-02-04-financial-statement-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-context-windows-2026",
+    "path": "src/content/posts/2026-02-15-context-windows-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-context-windows",
+    "path": "src/content/posts/2026-02-15-context-windows/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-diary-to-essay-converter",
+    "path": "src/content/posts/2026-02-04-diary-to-essay-converter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-science-concept-visualizer",
+    "path": "src/content/posts/2026-02-04-science-concept-visualizer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-claude-code-performance",
+    "path": "src/content/posts/2026-02-12-claude-code-performance/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-loan-repayment-schedule-calculator",
+    "path": "src/content/posts/2026-02-04-loan-repayment-schedule-calculator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-personalized-yoga-sequence-for-stiff-bodies",
+    "path": "src/content/posts/2026-02-04-personalized-yoga-sequence-for-stiff-bodies/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-prompt-engineering-3-intent",
+    "path": "src/content/posts/2026-02-13-prompt-engineering-3-intent/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-youtube-to-blog-converter",
+    "path": "src/content/posts/2026-02-12-youtube-to-blog-converter/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-nestjs-vs-express-guide",
+    "path": "src/content/posts/2026-02-12-nestjs-vs-express-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-kids-economic-education-guide",
+    "path": "src/content/posts/2026-02-04-kids-economic-education-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-chain-of-thought-reasoning",
+    "path": "src/content/posts/2026-02-15-chain-of-thought-reasoning/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-claude-3-5-sonnet-review",
+    "path": "src/content/posts/2026-02-11-claude-3-5-sonnet-review/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-09-fastapi-production-boilerplate",
+    "path": "src/content/posts/2026-02-09-fastapi-production-boilerplate/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-email-refusal",
+    "path": "src/content/posts/2026-02-13-email-refusal/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-daily-writing-challenge-calendar",
+    "path": "src/content/posts/2026-02-04-daily-writing-challenge-calendar/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-ai-word-chain-game",
+    "path": "src/content/posts/2026-02-12-ai-word-chain-game/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-beginners-guide",
+    "path": "src/content/posts/2026-02-04-ai-beginners-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-static-site-generator-guide",
+    "path": "src/content/posts/2026-02-12-static-site-generator-guide/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-autogpt-2-agents",
+    "path": "src/content/posts/2026-02-14-autogpt-2-agents/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-json-to-typescript-zod",
+    "path": "src/content/posts/2026-02-04-json-to-typescript-zod/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-industry-trend-analysis",
+    "path": "src/content/posts/2026-02-04-industry-trend-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-chart-indicator-analysis",
+    "path": "src/content/posts/2026-02-04-chart-indicator-analysis/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-ai-coding-assistants-2026",
+    "path": "src/content/posts/2026-02-15-ai-coding-assistants-2026/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-calming-tantrums-with-empathy",
+    "path": "src/content/posts/2026-02-04-calming-tantrums-with-empathy/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-dall-e-4-integration",
+    "path": "src/content/posts/2026-02-14-dall-e-4-integration/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-wrapper-startup-bubble",
+    "path": "src/content/posts/2026-02-14-wrapper-startup-bubble/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-chain-of-thought",
+    "path": "src/content/posts/2026-02-15-chain-of-thought/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-resume-professional-summary-writer",
+    "path": "src/content/posts/2026-02-04-resume-professional-summary-writer/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-gpt-5-physics.en",
+    "path": "src/content/posts/2026-02-15-gpt-5-physics.en/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-villain-character-interview-prompt",
+    "path": "src/content/posts/2026-02-04-villain-character-interview-prompt/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-email-triage-assistant",
+    "path": "src/content/posts/2026-02-12-email-triage-assistant/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-indoor-treasure-hunt-clues",
+    "path": "src/content/posts/2026-02-04-indoor-treasure-hunt-clues/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-ai-travel-planner",
+    "path": "src/content/posts/2026-02-04-ai-travel-planner/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-descent-web-port",
+    "path": "src/content/posts/2026-02-15-descent-web-port/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-15-multimodal-prompting",
+    "path": "src/content/posts/2026-02-15-multimodal-prompting/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-rust-web",
+    "path": "src/content/posts/2026-02-13-rust-web/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-12-airflow-dag-generator",
+    "path": "src/content/posts/2026-02-12-airflow-dag-generator/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-11-notion-finance-tracker",
+    "path": "src/content/posts/2026-02-11-notion-finance-tracker/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-homework-motivation-questions-for-kids",
+    "path": "src/content/posts/2026-02-04-homework-motivation-questions-for-kids/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-13-rust-gpu-driver-arm-mali",
+    "path": "src/content/posts/2026-02-13-rust-gpu-driver-arm-mali/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-prompt-injection-defense",
+    "path": "src/content/posts/2026-02-14-prompt-injection-defense/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-04-30-day-home-workout-challenge-with-ai",
+    "path": "src/content/posts/2026-02-04-30-day-home-workout-challenge-with-ai/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  },
+  {
+    "slug": "2026-02-14-ai-fatigue",
+    "path": "src/content/posts/2026-02-14-ai-fatigue/index.md",
+    "status": "PENDING",
+    "retries": 0,
+    "last_error": null
+  }
+]

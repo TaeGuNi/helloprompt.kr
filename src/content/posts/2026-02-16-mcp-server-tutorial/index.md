@@ -24,7 +24,7 @@ In 2026, the **Model Context Protocol (MCP)** has become the de-facto standard f
 
 Today, we're building your first custom MCP server in TypeScript. It will take 5 minutes.
 
-## (Updated) 1. Why Build Your Own?
+## (Updated) (Updated) 1. Why Build Your Own?
 
 Pre-built MCP servers (like the Filesystem or GitHub servers) are great. But the real power unlocks when you expose **your specific business logic**.
 
@@ -32,11 +32,11 @@ Pre-built MCP servers (like the Filesystem or GitHub servers) are great. But the
 - **Log Files:** Let the LLM read the last 50 lines of `error.log` in real-time.
 - **Custom calculations:** Offload complex math to Python, let the LLM just ask for the result.
 
-## (Updated) 2. The "Hello World" Server
+## (Updated) (Updated) 2. The "Hello World" Server
 
 We'll use the official TypeScript SDK. We're going to build a simple tool that lets the LLM **fetch the current weather** (mocked) for a given city.
 
-### (Updated) Step 1: Initialize
+### (Updated) (Updated) Step 1: Initialize
 
 ```bash
 mkdir my-first-mcp-server
@@ -45,7 +45,7 @@ npm init -y
 npm install @modelcontextprotocol/sdk zod
 ```
 
-### (Updated) Step 2: The Code (`index.ts`)
+### (Updated) (Updated) Step 2: The Code (`index.ts`)
 
 Create an `index.ts` file. This 30-line script defines a tool called `get_weather`.
 
@@ -114,7 +114,7 @@ const transport = new StdioServerTransport();
 await server.connect(transport);
 ```
 
-### (Updated) Step 3: Connect to Claude (or Ollama)
+### (Updated) (Updated) Step 3: Connect to Claude (or Ollama)
 
 Add this to your Claude Desktop config (or `openclaw config`):
 
@@ -131,19 +131,19 @@ Add this to your Claude Desktop config (or `openclaw config`):
 
 Now, just ask the model: _"What's the weather in Seoul?"_. It will call your tool and answer.
 
-## (Updated) 3. The "Scaffolder" Prompt
+## (Updated) (Updated) 3. The "Scaffolder" Prompt
 
 Writing boilerplate is boring. Use this prompt to generate a custom MCP server for _any_ use case.
 
-> ### (Updated) 🛠️ The MCP Server Scaffolder
+> ### (Updated) (Updated) 🛠️ The MCP Server Scaffolder
 >
-> **# (Updated) Role**
+> **# (Updated) (Updated) Role**
 > You are a Senior TypeScript Engineer specializing in the Model Context Protocol (MCP).
 >
-> **# (Updated) Task**
+> **# (Updated) (Updated) Task**
 > Create a complete, single-file `index.ts` for an MCP server based on the user's requirements.
 >
-> **# (Updated) Constraints**
+> **# (Updated) (Updated) Constraints**
 >
 > - Use `@modelcontextprotocol/sdk`.
 > - Use `zod` for schema validation if complex inputs are needed (optional but good practice).
@@ -151,10 +151,10 @@ Writing boilerplate is boring. Use this prompt to generate a custom MCP server f
 > - Include error handling (try/catch) inside the tool handler.
 > - **Output ONLY code.**
 >
-> **# (Updated) User Requirement**
+> **# (Updated) (Updated) User Requirement**
 > I need an MCP server that [INSERT YOUR GOAL HERE, e.g., "reads the last n lines of a specific log file"].
 >
-> **# (Updated) Expected Output Format**
+> **# (Updated) (Updated) Expected Output Format**
 >
 > ```typescript
 > // imports...
@@ -164,7 +164,7 @@ Writing boilerplate is boring. Use this prompt to generate a custom MCP server f
 > // connection...
 > ```
 
-## (Updated) 4. 🧠 Writer's Insight: Privacy First
+## (Updated) (Updated) 4. 🧠 Writer's Insight: Privacy First
 
 The biggest advantage of running your own MCP server is **privacy**.
 
@@ -172,10 +172,14 @@ When you use a generic "Web Search" tool, your query leaves your machine. But wh
 
 You aren't uploading your CSV to a random website to analyze it. You are **streaming** it directly to the model's context window.
 
-### (Updated) Key Takeaway
+### (Updated) (Updated) Key Takeaway
 
 Don't copy-paste data. **Expose capabilities.**
 Start with a simple read-only tool (like reading a log file). Once you trust it, add write capabilities (like appending to a todo list).
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

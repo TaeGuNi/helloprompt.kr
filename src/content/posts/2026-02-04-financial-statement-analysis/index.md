@@ -9,7 +9,7 @@ description: "복잡한 재무제표를 1분 만에 핵심만 요약해주는 �
 tags: ["주식", "재무제표", "기본적분석", "투자"]
 ---
 
-# (Updated) 📝 기업 재무제표 초고속 분석 프롬프트
+# (Updated) (Updated) 📝 기업 재무제표 초고속 분석 프롬프트
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"재무제표, 숫자만 봐도 머리 아프지 않나요? 핵심만 쏙 뽑�
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 복잡한 재무 숫자를 핵심 지표 위주로 요약
 2. 3년 치 데이터를 비교하여 성장 추세 파악
@@ -33,9 +33,9 @@ _"재무제표, 숫자만 봐도 머리 아프지 않나요? 핵심만 쏙 뽑�
 
 ---
 
-## (Updated) 🚀 해결책: "재무제표 엑스레이"
+## (Updated) (Updated) 🚀 해결책: "재무제표 엑스레이"
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"재무제표, 숫자만 봐도 머리 아프지 않나요? 핵심만 쏙 뽑�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -69,23 +69,23 @@ _"재무제표, 숫자만 봐도 머리 아프지 않나요? 핵심만 쏙 뽑�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력)
 
 ```text
 애플 재무제표 좀 봐줘.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과)
 
 ```text
 | 구분 | 2023 | 2024 | 2025 (E) | 추세 |
@@ -102,14 +102,14 @@ _"재무제표, 숫자만 봐도 머리 아프지 않나요? 핵심만 쏙 뽑�
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -119,11 +119,15 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 숫자의 늪에 빠지지 말고, 흐름을 읽으세요. 이 프롬프트 하나면 워런 버핏 부럽지 않은 기본적 분석이 1분 만에 끝납니다.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

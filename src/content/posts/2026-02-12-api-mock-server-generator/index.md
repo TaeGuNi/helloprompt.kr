@@ -9,19 +9,19 @@ description: API 명세서만 던져주면 Express/Hono 기반의 Mock 서버 �
 tags: [AI, Backend, Frontend, Testing]
 ---
 
-## (Updated) (Updated) (Updated) (Updated) 1. Intro
+## (Updated) (Updated) (Updated) (Updated) (Updated) 1. Intro
 
 프론트엔드 개발자들의 영원한 고통: "백엔드 API 아직 안 나왔나요?" 🐢
 기획은 나왔고 화면도 그렸는데, 데이터를 받아올 API가 없어서 더미 데이터(Dummy Data)를 하드코딩하고 계신가요? 나중에 실제 API 연동할 때 그 코드를 다시 다 뜯어고쳐야 하죠.
 이제 기다리지 마세요. API 명세(Swagger, Notion 문서, 텍스트 설명 등)만 있으면 AI가 1분 만에 돌아가는 Mock Server를 만들어줍니다.
 
-## (Updated) (Updated) (Updated) (Updated) 2. TL;DR
+## (Updated) (Updated) (Updated) (Updated) (Updated) 2. TL;DR
 
 - **핵심:** API 명세서를 기반으로 실제 응답을 주는 가짜 서버(Mock Server) 코드를 생성합니다.
 - **준비물:** API 명세 내용, 선호하는 프레임워크(Express, Hono, Next.js API Routes 등).
 - **효과:** 백엔드 개발 병목 없이 프론트엔드 로직 구현 가능, 에러 케이스 테스트 용이.
 
-## (Updated) (Updated) (Updated) (Updated) 3. Solution (The Prompt)
+## (Updated) (Updated) (Updated) (Updated) (Updated) 3. Solution (The Prompt)
 
 간단한 텍스트 명세라도 괜찮습니다.
 
@@ -49,17 +49,21 @@ tags: [AI, Backend, Frontend, Testing]
 3. **지연 시간 시뮬레이션(선택):** 실제 네트워크처럼 500ms~1000ms 정도 랜덤 딜레이를 추가해 주세요. (로딩 스피너 테스트용)
 ```
 
-## (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 이 프롬프트를 사용할 때 꼭 **"랜덤 딜레이(Random Delay)와 에러 케이스(Random Error 5%)를 넣어줘"**라고 요청합니다. 로컬에서는 너무 빨라서 안 보이던 로딩 상태(Skeleton UI)나 에러 처리 UI를 미리 완벽하게 테스트할 수 있거든요. 백엔드 개발자분이 "API 나왔어요" 했을 때, "네, 연동 끝났습니다"라고 답하는 쾌감을 느껴보세요. 😎
 
-## (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. Swagger JSON 파일이 있는데 이걸로도 되나요?**
 A. 네! Swagger(OpenAPI) JSON을 텍스트로 붙여넣으면 훨씬 더 정교한 타입과 스키마를 가진 Mock Server를 만들어줍니다.
 
 **Q. 데이터가 유지되나요?**
 A. 기본적으로는 메모리에 저장되므로 재시작하면 초기화됩니다. 데이터 유지가 필요하면 "lowdb나 json-server를 사용해서 파일에 저장해줘"라고 요청해 보세요.
+
+## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) (Updated) (Updated) Conclusion
 

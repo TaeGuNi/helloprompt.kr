@@ -5,19 +5,19 @@ tags: [openai, ai, reasoning]
 image: https://source.unsplash.com/random/1600x900/?math,logic
 ---
 
-# (Updated) (Updated) OpenAI O3: 추론의 깊이를 더하다
+# (Updated) (Updated) (Updated) OpenAI O3: 추론의 깊이를 더하다
 
 OpenAI의 새로운 모델 O3는 '추론(Reasoning)'에 초점을 맞춘 모델로, 기존 LLM의 한계를 뛰어넘는 논리적 사고 능력을 보여줍니다. 복잡한 수학 문제 해결, 과학적 가설 검증, 그리고 코딩 난제 해결에 특화되어 있습니다.
 
-## (Updated) (Updated) 1. 생각의 사슬 (Chain of Thought) {#chain-of-thought}
+## (Updated) (Updated) (Updated) 1. 생각의 사슬 (Chain of Thought) {#chain-of-thought}
 
 O3는 답변을 내놓기 전에 내부적으로 '생각의 사슬' 과정을 거칩니다. 이는 사람이 어려운 문제를 풀 때 머릿속으로 단계를 나누어 생각하는 것과 유사합니다. 이 과정을 통해 할루시네이션(환각) 현상을 획기적으로 줄이고 정답률을 높였습니다.
 
-## (Updated) (Updated) 2. 과학 및 연구 분야의 혁신
+## (Updated) (Updated) (Updated) 2. 과학 및 연구 분야의 혁신
 
 단순한 정보 검색을 넘어, 기존 데이터를 바탕으로 새로운 가설을 세우고 이를 검증하는 논리적 구조를 생성할 수 있습니다. 이는 신약 개발, 재료 공학 등 연구 분야에서 강력한 보조 도구로 활용될 것입니다.
 
-## (Updated) (Updated) 3. 자율 에이전트의 두뇌
+## (Updated) (Updated) (Updated) 3. 자율 에이전트의 두뇌
 
 O3의 추론 능력은 자율 에이전트(Autonomous Agents)의 핵심 두뇌 역할을 합니다. 복잡한 환경에서 스스로 목표를 설정하고, 계획을 수립하며, 돌발 상황에 대처하는 능력이 크게 향상되었습니다.
 
@@ -25,7 +25,7 @@ OpenAI O3는 인공지능이 단순한 언어 모델을 넘어, 진정한 '지�
 
 ---
 
-### (Updated) (Updated) Summaries
+### (Updated) (Updated) (Updated) Summaries
 
 **English**
 **OpenAI O3: Deepening the Reasoning**
@@ -62,6 +62,10 @@ Il nuovo modello di OpenAI, O3, si concentra sul 'Ragionamento', superando gli L
 **Portuguese (Português)**
 **OpenAI O3: Aprofundando o raciocínio**
 O novo modelo da OpenAI, O3, foca-se no 'Raciocínio', superando os LLM existentes em pensamento lógico. É especializado na resolução de problemas matemáticos complexos, na verificação de hipóteses científicas e na abordagem de desafios de programação.
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) Conclusion
 

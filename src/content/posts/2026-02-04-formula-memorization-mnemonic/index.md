@@ -9,7 +9,7 @@ description: "복잡한 수학, 과학 공식을 스토리텔링과 기억술(Mn
 tags: ["암기법", "기억술", "공부법", "프롬프트"]
 ---
 
-# (Updated) 📝 안 외워지는 공식, 뇌에 문신 새기기
+# (Updated) (Updated) 📝 안 외워지는 공식, 뇌에 문신 새기기
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 공식의 각 변수에 캐릭터나 의미 부여 (Storytelling)
 2. 입에 착 붙는 말장난이나 노래 가사로 변환 (Mnemonic)
@@ -33,9 +33,9 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## (Updated) 🚀 해결책: "암기왕 생성기"
+## (Updated) (Updated) 🚀 해결책: "암기왕 생성기"
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -70,21 +70,21 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력)
 
 "근의 공식: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$"
 
-### (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과)
 
 **[스토리 암기법]**
 "**이(2)** **아(a)**파서 병원에 갔더니, **마(min)**이너스 **비(b)**타민을 주더라. **풀(plus)**었다 **마(minus)**셨다 하면서 **루트** 안을 보니, **비(b)**가 **두(2)** 번 오고 **사(4)** **아(a)** **치(c)**가 있네?"
@@ -102,14 +102,14 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -119,11 +119,15 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 공부에는 왕도가 없지만, 암기에는 요령이 있습니다. 남들이 깜지 쓰며 외울 때, 당신은 랩을 흥얼거리며 외우세요.
 
 이제 칼퇴하고 코노(코인노래방) 가세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

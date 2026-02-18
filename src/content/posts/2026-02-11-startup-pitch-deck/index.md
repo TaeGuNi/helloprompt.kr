@@ -9,7 +9,7 @@ description: "내 사업이 왜 대박인지 설명 못 하겠다면? 문제-해
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 
-# (Updated) 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링
+# (Updated) (Updated) 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링
 
 - **🎯 추천 대상:** "우리 기술 진짜 좋은데..." 말만 하면 투자자가 하품하는 대표님, 예비창업패키지 서류 광탈자
 - **⏱️ 소요 시간:** 10분 (스토리라인 구성)
@@ -25,7 +25,7 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Problem:** 세상에 이런 끔찍한 문제가 있다. (공감)
 2.  **Solution:** 우리가 기가 막히게 해결했다. (솔루션)
@@ -33,9 +33,9 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 
 ---
 
-## (Updated) 🚀 해결책: "Pitch Deck Storyteller"
+## (Updated) (Updated) 🚀 해결책: "Pitch Deck Storyteller"
 
-### (Updated) 🥉 Basic Version (엘리베이터 피치)
+### (Updated) (Updated) 🥉 Basic Version (엘리베이터 피치)
 
 1분 안에 말로 설명할 때.
 
@@ -44,7 +44,7 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (10장 슬라이드 구성)
+### (Updated) (Updated) 🥇 Pro Version (10장 슬라이드 구성)
 
 IR 자료를 만들 때.
 
@@ -69,7 +69,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 가장 중요한 건 **'Why Now(왜 지금인가)'**입니다.
 "왜 3년 전에는 안 됐고, 왜 3년 뒤면 늦는가?"
@@ -77,7 +77,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 디자인은 어떻게 하죠?**
   - A: **Gamma**나 **Canva** 같은 AI 툴을 쓰세요. 텍스트만 넣으면 PPT가 나옵니다. 내용은 이 프롬프트로 짜고, 디자인은 툴에게 맡기세요.
@@ -87,20 +87,20 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **YC 스타일:** "Y-Combinator"를 언급하면, AI가 가장 표준적이고 직관적인 구조(세쿼이아 캐피탈 스타일)를 따릅니다.
 2.  **TAM/SAM/SOM:** 시장 규모를 3단계로 쪼개는 전문 용어를 쓰면, AI도 그에 맞춰 구체적인 수치를 추정해 줍니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (나열식)
+### (Updated) (Updated) ❌ Before (나열식)
 
 "저희는 영양제를 팔고요, AI도 쓰고요, 팀원은 서울대 나왔고요..." (지루함 🥱)
 
-### (Updated) ✅ After (스토리텔링)
+### (Updated) (Updated) ✅ After (스토리텔링)
 
 > **"매일 10만 명이 영양제를 먹지만, 그중 90%는 효과를 못 봅니다. (Problem)"**
 > **"우리는 소변 검사 한 번으로 당신에게 딱 맞는 알약 3개를 찾아냅니다. (Solution)"**
@@ -108,13 +108,17 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 사업은 '설득'의 연속입니다.
 투자자, 직원, 고객을 설득해야 합니다.
 
 AI에게 당신의 비전을 이야기하세요.
 **가장 매혹적인 이야기**로 바꿔줄 겁니다. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

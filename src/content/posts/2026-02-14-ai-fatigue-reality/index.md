@@ -9,7 +9,7 @@ cover: "./cover.jpg"
 
 2026년, AI에 대한 초기 경이로움은 사라졌습니다. 업계는 "12시간 업무를 20분 만에"라며 생산성 혁명을 약속했지만, 우리가 현실에서 마주하는 것은 **"AI Slop (디지털 쓰레기)"** 뿐입니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Hype Score: 92/100
+### (Updated) Hype Score: 92/100
 
 내부 지표는 위험 수준의 거품을 가리키고 있습니다. 시장 가치는 치솟고 있지만, 사용자 정서는 바닥을 치고 있습니다.
 
@@ -34,25 +34,17 @@ _Auto-generated QA fix_
 **Q: 핵심은 무엇인가요?**
 A: AI와 인간의 공존입니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

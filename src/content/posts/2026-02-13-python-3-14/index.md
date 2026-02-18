@@ -30,18 +30,12 @@ match point:
 
 `typing` 모듈에 새로운 제네릭 기능이 추가되었습니다. 특히 `TypeVar`의 기본값을 지정할 수 있게 되어, 더 유연한 API 설계가 가능해졌습니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 Python 3.14는 성능과 생산성 두 마리 토끼를 모두 잡은 업데이트입니다. 특히 대규모 데이터 처리나 웹 서버 환경에서 즉각적인 성능 이점을 누릴 수 있을 것입니다. 지금 바로 업그레이드해보세요!
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

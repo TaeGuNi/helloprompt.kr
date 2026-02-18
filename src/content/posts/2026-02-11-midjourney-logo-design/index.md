@@ -25,7 +25,7 @@ _"심플하면서도 힙하고, 모던하면서도 클래식하게... 아시죠?
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **키워드:** `minimal vector logo`, `flat design` 같은 핵심 단어를 쓴다.
 2.  **스타일:** 애플 스타일? 나이키 스타일? 유명 브랜드를 레퍼런스로 던진다.
@@ -61,14 +61,14 @@ _"심플하면서도 힙하고, 모던하면서도 클래식하게... 아시죠?
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 미드저니는 아직 **텍스트(글씨)**를 잘 못 씁니다. 로고에 회사 이름을 넣으려고 하지 마세요.
 **심볼(그림)**만 AI로 뽑고, 텍스트(타이포그래피)는 캔바(Canva)나 피그마(Figma)에서 무료 폰트로 붙이는 게 훨씬 깔끔합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 저작권 문제 없나요?**
   - A: 미드저니 유료 플랜 사용자는 생성물에 대한 상업적 권리를 가집니다. 단, 상표권 등록은 복잡할 수 있으니 변리사와 상담하세요.
@@ -78,7 +78,7 @@ _"심플하면서도 힙하고, 모던하면서도 클래식하게... 아시죠?
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Vector Graphics:** 이 단어를 넣으면 AI가 '사진'이 아니라 '일러스트'처럼 깔끔한 선으로 그립니다. 나중에 확대해도 안 깨지는 느낌을 줍니다.
 2.  **Negative Prompt (--no):** `realistic`, `shading` 같은 걸 빼버림으로써, 로고 특유의 **단순함(Simplicity)**을 강제합니다.
@@ -98,32 +98,24 @@ _"심플하면서도 힙하고, 모던하면서도 클래식하게... 아시죠?
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 디자인 감각이 없어도 됩니다.
 **"어떤 느낌"**인지만 말하세요.
 
 10초 뒤, 당신의 브랜드는 **명품**이 됩니다. 🍷
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

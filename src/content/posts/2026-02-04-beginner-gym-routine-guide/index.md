@@ -25,7 +25,7 @@ _"쭈뼛쭈뼛 눈치 보며 덤벨만 들었다 놨다... 이제 그만! 당당
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 전신을 골고루 발달시키는 '무분할(Full Body)' 또는 '2분할' 루틴을 추천합니다.
 2. 초보자가 다치지 않고 자극을 느낄 수 있는 머신 위주의 운동을 선정합니다.
@@ -68,7 +68,7 @@ _"쭈뼛쭈뼛 눈치 보며 덤벨만 들었다 놨다... 이제 그만! 당당
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -95,14 +95,14 @@ _"쭈뼛쭈뼛 눈치 보며 덤벨만 들었다 놨다... 이제 그만! 당당
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -112,18 +112,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 헬스장은 더 이상 무서운 곳이 아닙니다. AI가 만들어준 루틴표를 핸드폰에 띄워두고 당당하게 운동하세요. 꾸준함이 정답입니다! 🏋️‍♂️
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

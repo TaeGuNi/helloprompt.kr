@@ -25,7 +25,7 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  숏폼 흥행 공식(Hook - Body - CTA)을 이해한다.
 2.  AI에게 이 공식을 지키라고 시킨다.
@@ -68,7 +68,7 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **구조 강제 (Hook-Body-CTA):** 숏폼의 생명인 '구조'를 프롬프트 단계에서 고정했습니다. AI가 주저리주저리 서론을 쓰는 것을 막습니다.
 2.  **비주얼/오디오 분리:** 유튜버에게 필요한 건 단순히 '말할 내용'뿐만 아니라 **'화면에 뭘 보여줄지'**입니다. 표 형식으로 화면 연출까지 지시하여 편집 시간을 단축합니다.
@@ -83,7 +83,7 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 안녕하세요 여러분~ 오늘은 다이소에서 좋은 물건을 소개해드릴게요. 첫 번째는... (이미 시청자는 스크롤 넘김 👋)
 
-### (Updated) (Updated) (Updated) ✅ After (AI 공장 가동) {#ai}
+### ✅ After (AI 공장 가동) {#ai}
 
 **[0~3초]**
 
@@ -97,14 +97,14 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -114,7 +114,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 크리에이터의 적은 '귀차니즘'입니다.
 이제 기획과 대본은 AI에게 외주 주세요. 당신은 **'연기'**와 **'편집'**에만 집중하세요.
@@ -122,14 +122,8 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 이 프롬프트 저장해두면, 1시간에 쇼츠 10개 분량도 뽑습니다.
 **지금 바로 카메라 켜세요. 🎬**
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

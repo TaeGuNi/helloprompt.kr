@@ -34,14 +34,8 @@ Somnium Labs 측은 해당 기기가 "코골이 및 수면 무호흡증 감지"�
 
 이번 사건은 IoT 기기, 특히 침실과 같은 지극히 개인적인 공간에서 사용되는 기기의 보안이 얼마나 중요한지 다시 한번 일깨워줍니다. 스마트 홈 기기를 선택할 때는 편의성뿐만 아니라, 해당 제조사의 보안 정책과 데이터 처리 방식을 꼼꼼히 따져봐야 할 것입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

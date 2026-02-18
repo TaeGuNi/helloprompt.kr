@@ -45,14 +45,8 @@ _Auto-generated QA fix_
 **Q: 핵심은 무엇인가요?**
 A: AI와 인간의 공존입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -26,7 +26,7 @@ _"아니야, 리액트 네이티브가 생태계가 깡패야."_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **웹 개발자(React)가 있다?** -> 무조건 **React Native**.
 2.  **화려한 UI/애니메이션이 중요하다?** -> **Flutter**.
@@ -72,7 +72,7 @@ _"아니야, 리액트 네이티브가 생태계가 깡패야."_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 React Native의 **New Architecture(Fabric)** 도입 이후 성능 이슈는 거의 사라졌습니다.
 Flutter는 구글의 지원 축소 루머 때문에 살짝 주춤하는 추세입니다.
@@ -80,7 +80,7 @@ Flutter는 구글의 지원 축소 루머 때문에 살짝 주춤하는 추세�
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 네이티브(Swift/Kotlin)는 안 쓰나요?**
   - A: 자본과 시간이 넘쳐난다면 네이티브가 최고입니다. 하지만 스타트업은 '속도'가 생명입니다.
@@ -90,7 +90,7 @@ Flutter는 구글의 지원 축소 루머 때문에 살짝 주춤하는 추세�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **구체적 명세 제공:** "배달 앱" vs "주식 앱"은 기술 요구사항이 천지 차이입니다. 구체적일수록 AI는 정교한 판단을 내립니다.
 2.  **비즈니스 관점:** 기술뿐만 아니라 **'채용(Hiring)'**과 **'리스크(Risk)'**를 물어봄으로써, CTO 관점의 균형 잡힌 조언을 얻습니다.
@@ -104,28 +104,22 @@ Flutter는 구글의 지원 축소 루머 때문에 살짝 주춤하는 추세�
 "요즘 플러터가 뜬다니까 플러터로 가자!"
 (결과: React 개발자들 다트(Dart) 배우느라 2달 허비 🐢)
 
-### (Updated) (Updated) (Updated) ✅ After (AI 컨설팅) {#ai}
+### ✅ After (AI 컨설팅) {#ai}
 
 **AI:** "팀원들이 React에 익숙하다면 **React Native**가 압도적으로 유리합니다. MVP 출시 속도를 위해 RN을 강력 추천합니다."
 (결과: 1달 만에 MVP 출시 🚀)
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 기술 선택에 정답은 없습니다. **'우리 팀에 맞는 답'**만 있을 뿐입니다.
 CTO가 없어도 걱정 마세요.
 
 이 프롬프트 한 방이면, 당신이 바로 CTO입니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

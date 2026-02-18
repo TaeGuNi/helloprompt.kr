@@ -24,18 +24,12 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 토큰 사용량을 효과적으로 관리하는 것은 비용을 절감하고 LLM의 집중력을 높이는 핵심입니다. 더 간결한 컨텍스트 윈도우는 모델이 진정으로 중요한 것에 집중하게 하여, 더 날카롭고 정확한 응답을 이끌어냅니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 거대한 컨텍스트 윈도우가 새로운 가능성을 열어주긴 하지만, 그것이 만병통치약은 아닙니다. 컨텍스트 윈도우를 무한한 버킷이 아닌 희소 자원으로 다룸으로써, 우리는 더 빠르고, 저렴하며, 지능적인 애플리케이션을 구축할 수 있습니다. 컨텍스트 큐레이션(context curation)의 기술을 마스터하십시오. 그러면 큰 비용을 들이거나 사용자 경험을 해치지 않으면서도 LLM의 잠재력을 최대한 활용할 수 있을 것입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -21,7 +21,7 @@ _"카메라는 가릴 수 있지만, 와이파이는 끄지 않는 한 피할 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **와이파이 센싱:** 와이파이 전파의 반사/굴절을 분석해 공간 내 사람의 위치와 움직임을 파악.
 2. **투시 능력:** 벽 너머의 움직임까지 감지 가능.
@@ -35,17 +35,17 @@ _"카메라는 가릴 수 있지만, 와이파이는 끄지 않는 한 피할 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 기술은 양날의 검입니다. 독거 노인 돌봄이나 침입 탐지 같은 긍정적 용도로도 쓰일 수 있지만, 무단 감시의 도구가 될 위험도 큽니다. '와이파이 보안'의 개념이 데이터 암호화를 넘어 '물리적 신호 보호'로 확장되어야 할 시점입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 집에 있는 공유기, 다시 보게 되네요.
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -53,14 +53,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

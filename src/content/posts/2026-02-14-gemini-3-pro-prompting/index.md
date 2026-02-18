@@ -25,7 +25,7 @@ Gemini 3 Pro는 단순한 도구를 넘어, 인간의 사고를 확장하는 파
 
 ---
 
-### (Updated) (Updated) (Updated) Summaries
+### Summaries
 
 **English**
 **Gemini 3 Pro: A New Prompting Paradigm**
@@ -63,14 +63,8 @@ L'ultimo modello di Google, Gemini 3 Pro, stabilisce un nuovo standard nelle cap
 **Gemini 3 Pro: Um novo paradigma de prompting**
 O modelo mais recente da Google, Gemini 3 Pro, define um novo padrão em capacidades de raciocínio, mudando fundamentalmente o paradigma da engenharia de prompts. Além de seguir instruções, a sua capacidade de compreender contextos complexos e realizar raciocínios em várias etapas melhorou drasticamente.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -27,7 +27,7 @@ AI(LLM)는 기본적으로 **"직관적인 확률"**에 의존합니다. 그래�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. AI는 복잡한 문제에서 직관에 의존하여 오답을 내기 쉽습니다.
 2. "생각의 사슬(CoT)" 기법은 AI에게 생각할 시간을 주어 논리적 추론을 유도합니다.
@@ -72,7 +72,7 @@ AI(LLM)는 기본적으로 **"직관적인 확률"**에 의존합니다. 그래�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -89,7 +89,7 @@ AI: (단순 덧셈: 3+5+2 = 10일) "프로젝트는 총 10일 걸려서 다음 �
 
 <br>
 
-### (Updated) (Updated) (Updated) ✅ After (CoT 적용 결과) {#cot}
+### ✅ After (CoT 적용 결과) {#cot}
 
 AI가 사람처럼 달력을 그려가며 생각합니다.
 
@@ -112,14 +112,14 @@ AI가 사람처럼 달력을 그려가며 생각합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -129,7 +129,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 복잡한 엑셀 수식이 꼬였거나, 얽히고설킨 일정을 정리할 때 AI가 멍청해 보인다면?
 AI의 지능 탓이 아닙니다. **생각할 시간을 안 준 당신 탓**입니다.
@@ -137,14 +137,8 @@ AI의 지능 탓이 아닙니다. **생각할 시간을 안 준 당신 탓**입�
 지금 바로 프롬프트 끝에 이 한 마디를 붙이세요.
 **"단계별로 생각하고, 네 논리를 검증해줘."**
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

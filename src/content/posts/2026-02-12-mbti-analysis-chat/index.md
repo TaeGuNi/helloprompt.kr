@@ -25,7 +25,7 @@ _"이 사람 말투가 좀 차가운데... 혹시 INTJ인가? 아니면 그냥 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  상대방과의 카톡/문자 내용을 복사한다. (개인정보는 지우고!)
 2.  AI에게 **"이 사람 MBTI 추측해줘"**라고 한다.
@@ -35,7 +35,7 @@ _"이 사람 말투가 좀 차가운데... 혹시 INTJ인가? 아니면 그냥 �
 
 ## (Updated) (Updated) (Updated) 🚀 해결책: "MBTI Scanner Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (T/F 판별) {#t-f}
+### 🥉 Basic Version (T/F 판별) {#t-f}
 
 가장 중요한 척도.
 
@@ -68,7 +68,7 @@ _"이 사람 말투가 좀 차가운데... 혹시 INTJ인가? 아니면 그냥 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트의 진짜 목적은 '맞히기'가 아니라 **'이해하기'**입니다.
 AI가 "B는 계획(J)을 중요하게 생각하네요. 불확실한 상황을 싫어합니다"라고 해석해주면,
@@ -76,7 +76,7 @@ AI가 "B는 계획(J)을 중요하게 생각하네요. 불확실한 상황을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 정확도가 높나요?**
   - A: 텍스트만으로 완벽하게 알 순 없지만, AI는 수많은 대화 데이터를 학습했기 때문에 꽤 그럴듯한 추론을 내놓습니다. (특히 T/F, J/P는 잘 맞힙니다.)
@@ -86,7 +86,7 @@ AI가 "B는 계획(J)을 중요하게 생각하네요. 불확실한 상황을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **4가지 척도 분리:** 단순히 "MBTI 뭐야?"라고 묻는 것보다, E/I, S/N 등 각 지표별 근거를 대라고 하면 훨씬 설득력 있는 분석이 나옵니다.
 2.  **공략법(Tips):** 분석에서 끝내지 않고 "그래서 어떻게 해야 해?"를 물어봄으로써, 관계 개선을 위한 실질적인 조언을 얻습니다.
@@ -107,7 +107,7 @@ AI가 "B는 계획(J)을 중요하게 생각하네요. 불확실한 상황을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 사람은 누구나 다릅니다. 틀린 게 아닙니다.
 MBTI는 그 다름을 이해하는 도구일 뿐입니다.
@@ -115,14 +115,8 @@ MBTI는 그 다름을 이해하는 도구일 뿐입니다.
 AI 돋보기로 상대를 들여다보세요.
 **이해하면, 사랑하게 됩니다.** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

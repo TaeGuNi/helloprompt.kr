@@ -28,18 +28,12 @@ tags:
 
 이러한 발전에도 불구하고 인간 개발자는 여전히 아키텍트로 남습니다. 우리는 리팩토링의 _목표_(예: "이 모듈을 마이크로서비스용으로 준비해")를 정의하고, AI는 전술적인 변경을 실행합니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 리팩토링은 더 이상 귀찮은 일이 아닙니다. 그것은 우리의 코드베이스를 건강하게 유지하고 미래를 준비하게 하는 지속적이고 자동화된 프로세스입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

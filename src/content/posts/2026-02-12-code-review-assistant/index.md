@@ -25,7 +25,7 @@ _"이 코드, 돌아가긴 하는데 뭔가 찝찝하지 않나요? AI에게 한
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 코드를 복사해서 AI에게 주고 **"리뷰해줘"**라고 하세요.
 2. **목적(버그 찾기, 최적화, 보안)**을 구체적으로 말하세요.
@@ -78,13 +78,13 @@ _"이 코드, 돌아가긴 하는데 뭔가 찝찝하지 않나요? AI에게 한
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 **"내가 짠 코드에 대한 확신이 없을 때"** 정신적인 안정감을 줍니다. 특히 "보안 취약점" 체크는 인간도 놓치기 쉬운 부분이라 AI의 도움을 받으면 큰 사고를 미리 막을 수 있습니다. 하지만 AI가 가끔 엉뚱한 코드를 짜줄 때도 있으니(환각), **검증**은 필수입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 전체 프로젝트 코드를 다 줘도 되나요?**
   - A: 토큰 제한 때문에 힘들 수 있습니다. 핵심 함수나 파일 단위로 끊어서 주는 게 좋습니다.
@@ -94,7 +94,7 @@ _"이 코드, 돌아가긴 하는데 뭔가 찝찝하지 않나요? AI에게 한
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Perspective(관점):** '수석 엔지니어' 역할을 주어 엄격한 기준(Clean Code, Performance)을 적용하게 했습니다.
 2.  **Specific Goals(구체적 목표):** 버그, 보안, 가독성, 성능 4가지 측면을 명시하여 입체적인 리뷰를 유도했습니다.
@@ -125,20 +125,14 @@ def get_user(user_id):
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 버그 없는 코드는 없습니다. 하지만 버그가 적은 코드는 만들 수 있습니다. AI와 함께라면요.
 
 이제 칼퇴하세요! 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

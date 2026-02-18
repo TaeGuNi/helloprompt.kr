@@ -51,17 +51,17 @@ LLM 기술이 성숙기에 접어들면서, 모델 자체의 지능 향상 속�
 - **AutoGen:** 마이크로소프트가 개발한 멀티 에이전트 프레임워크로, 에이전트 간의 대화만으로 복잡한 작업을 해결하는 데 강점이 있습니다.
 - **CrewAI:** 역할 기반(Role-based) 에이전트 설계를 직관적으로 할 수 있어 최근 인기를 끌고 있습니다.
 
-## (Updated) (Updated) (Updated) 결론: 프롬프트 엔지니어에서 AI 아키텍트로 {#conclusion}
+## 결론: 프롬프트 엔지니어에서 AI 아키텍트로 {#conclusion}
 
 프롬프트 엔지니어링 3.0 시대의 엔지니어는 더 이상 '말 잘하는 법'만 연구하지 않습니다. 그들은 에이전트가 활동할 수 있는 환경을 설계하고, 도구를 쥐여주며, 서로 협력하는 **시스템을 설계하는 아키텍트**가 되어야 합니다.
 
 AI의 미래는 더 똑똑한 모델뿐만 아니라, 더 똑똑한 워크플로우에 있습니다. 지금 바로 당신의 AI 파이프라인에 '에이전틱'한 요소를 도입해 보세요.
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -69,14 +69,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

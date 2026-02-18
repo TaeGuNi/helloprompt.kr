@@ -25,7 +25,7 @@ _"기러기" -> "기차" -> "차표" -> "표... 표...?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  AI에게 **"끝말잇기 하자"**고 한다.
 2.  룰(두음법칙 적용 등)을 정한다.
@@ -43,7 +43,7 @@ _"기러기" -> "기차" -> "차표" -> "표... 표...?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (AI 조련하기 & 학습용) {#ai}
+### 🥇 Pro Version (AI 조련하기 & 학습용) {#ai}
 
 어휘력 향상 게임.
 
@@ -60,14 +60,14 @@ _"기러기" -> "기차" -> "차표" -> "표... 표...?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 AI는 가끔 없는 단어를 지어내기도 합니다(Hallucination). "꿈터", "별나라" 같은 거요.
 그럴 땐 **"그거 사전에 있는 말이야? 뜻이 뭐야?"**라고 역공을 날리세요. AI가 "죄송합니다. 없는 단어네요" 하고 꼬리를 내립니다. 이게 꿀잼 포인트입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 쿵쿵따도 되나요?**
   - A: 네, "3글자 단어만 써야 해"라고 제약을 걸면 됩니다. "산기슭" -> "슭곰발" -> "발냄새".
@@ -77,7 +77,7 @@ AI는 가끔 없는 단어를 지어내기도 합니다(Hallucination). "꿈터"
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **한방 단어 금지:** AI의 압도적인 DB를 제한하는 장치입니다. 이걸 안 걸면 AI는 재미가 아니라 '승리'를 위해 "이리듐"을 내뱉습니다. 밸런스 패치입니다.
 2.  **뜻 설명 요청:** 단순한 놀이를 '학습'으로 바꾸는 장치입니다. 모르는 단어가 나와도 뜻을 같이 보면서 배우게 됩니다.
@@ -101,7 +101,7 @@ AI: "나트륨."
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 이기는 건 중요하지 않습니다.
 AI와 티키타카 하면서 시간을 보내는 것, 그 자체가 **놀이**입니다.
@@ -109,14 +109,8 @@ AI와 티키타카 하면서 시간을 보내는 것, 그 자체가 **놀이**�
 가끔은 머리 식힐 겸, AI에게 말을 거세요.
 **"끝말잇기 한 판?"** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -9,7 +9,7 @@ description: "여러 회사에서 합격 통보를 받았을 때 조건을 비�
 tags: ["오퍼조율", "카운터오퍼", "이직고민", "연봉비교"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 이직 오퍼(Offer) 비교 및 '카운터 오퍼' 전략 프롬프트 {#offer}
+# 📝 이직 오퍼(Offer) 비교 및 '카운터 오퍼' 전략 프롬프트 {#offer}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"A사는 연봉이 높고, B사는 워라밸이 좋고... 현 직장은 연봉 
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 받은 오퍼들의 조건(연봉, 복지, 성장성 등)을 입력해 비교 분석합니다.
 2. 1순위 회사에 "다른 곳에서도 오퍼가 왔는데..."라며 조건을 상향 조정하는 메일을 씁니다.
@@ -69,7 +69,7 @@ _"A사는 연봉이 높고, B사는 워라밸이 좋고... 현 직장은 연봉 
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -97,14 +97,14 @@ _"A사는 연봉이 높고, B사는 워라밸이 좋고... 현 직장은 연봉 
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -114,20 +114,14 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 이직은 비즈니스입니다. 의리가 아니라 이익을 따르는 것이 당연합니다.
 
 당신의 패를 가장 비싸게 파는 법, AI와 상의하세요. 🃏
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

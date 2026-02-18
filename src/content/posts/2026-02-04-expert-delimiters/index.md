@@ -25,7 +25,7 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. AI는 긴 텍스트에서 명령어와 데이터를 구분하는 데 어려움을 겪을 수 있습니다.
 2. XML 태그(`< >`)나 특수 기호(`"""`)를 사용해 명확한 경계를 설정하세요.
@@ -61,7 +61,7 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -91,14 +91,14 @@ AI는 `<text>` 안의 내용만 **"처리할 데이터"**로 인식하고, 나�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -108,7 +108,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 전문가들은 프롬프트를 짤 때 습관적으로 **구획(Section)**을 나눕니다.
 
@@ -118,14 +118,8 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 이 작은 습관 하나가 프롬프트의 에러율을 0%로 만듭니다. 🧱
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

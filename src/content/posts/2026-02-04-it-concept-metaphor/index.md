@@ -26,7 +26,7 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 어려운 IT 용어를 사용자 지정 상황(식당, 도서관, 축구팀 등)에 맞춰 비유
 2. 비유 속 요소와 실제 기술 요소 1:1 매칭 (Mapping)
@@ -34,7 +34,7 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "ELI5 (Explain Like I'm 5) 생성기" {#explain-like-i-m-5}
+## 🚀 해결책: "ELI5 (Explain Like I'm 5) 생성기" {#explain-like-i-m-5}
 
 ### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
@@ -70,7 +70,7 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -107,14 +107,14 @@ API는 **'식당 웨이터(점원)'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -124,20 +124,14 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 이해하지 못하면 쓸 수 없습니다. 비유는 이해의 지름길입니다. 이제 개발자에게 쫄지 말고 대화하세요. "아, 그 웨이터가 주문을 잘못 받았군요?"
 
 이제 칼퇴하고 맛집 가서 웨이터... 아니 API를 호출하세요! 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

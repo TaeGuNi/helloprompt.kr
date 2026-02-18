@@ -26,14 +26,8 @@ A: 일상적인 작업의 자동화와 개인화된 서비스 경험이 크게 �
 
 _Auto-generated QA fix_
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

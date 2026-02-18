@@ -18,7 +18,7 @@ tags: ["AI", "Tech", "newpipe-algorithm-free"]
 
 이러한 변화의 핵심 동인은 피로감입니다. 개인화를 약속했던 알고리즘 큐레이션은 획일화와 광고 포화 상태로 전락했습니다. 사용자는 도파민 수용체를 착취하도록 설계된 시스템에 맞서 통제권을 얻기 위해 싸우는 것에 지쳤습니다.
 
-### (Updated) (Updated) (Updated) 인사이트: 조용한 소비 (Quiet Consumption) {#quiet-consumption}
+### 인사이트: 조용한 소비 (Quiet Consumption) {#quiet-consumption}
 
 데이터는 이러한 경험적 느낌을 뒷받침합니다. **알고리즘 피드 없는 조용한 미디어 소비에 대한 사용자 수요가 증가하고 있습니다.** 우리는 "구식" 기술의 부활과 새로운 탈중앙화 프로토콜의 아키텍처에서 이를 확인할 수 있습니다.
 
@@ -30,20 +30,14 @@ tags: ["AI", "Tech", "newpipe-algorithm-free"]
 
 개발자들에게 이것은 새로운 도전 과제입니다. 우리는 더 이상 사용자를 붙잡아두기 위해 "고착성(stickiness)" 꼼수에 의존할 수 없습니다. 우리는 진정한 효용을 제공하고 사용자의 의도를 존중하는 제품을 만들어야 합니다. 성공의 척도는 "체류 시간(Time Spent)"에서 "얻은 가치(Value Gained)"로 이동하고 있습니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 알고리즘 없는 미디어의 부상은 퇴보가 아닙니다. 그것은 디지털 환경의 성숙입니다. 사용자가 더 정교해짐에 따라, 그들은 플랫폼의 광고주가 아닌 자신에게 봉사하는 도구를 요구합니다.
 
 엔지니어인 우리에게 이것은 더 나은 것을 만들 기회입니다. 우리는 신뢰, 투명성, 사용자 주체성에 기반한 시스템을 설계할 기회를 가졌습니다. 미디어의 미래는 우리가 무엇을 원하는지 예측하는 더 나은 알고리즘에 있는 것이 아니라, 우리 스스로 결정할 수 있는 도구를 제공하는 것에 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

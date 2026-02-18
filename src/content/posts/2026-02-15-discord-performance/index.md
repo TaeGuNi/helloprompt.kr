@@ -9,7 +9,7 @@ Discord는 겉보기에는 평범한 채팅 앱처럼 보이지만, 그 이면�
 
 이 글에서는 Discord가 어떻게 기술적 한계를 극복하고 성능을 최적화했는지 주요 사례를 통해 살펴봅니다.
 
-## (Updated) (Updated) (Updated) 1. 아키텍처의 핵심: 액터 모델 (The Actor Model) {#the-actor-model}
+## 1. 아키텍처의 핵심: 액터 모델 (The Actor Model) {#the-actor-model}
 
 Discord 아키텍처의 기반은 1970년대에 제안된 **액터 모델(Actor Model)**입니다.
 
@@ -46,7 +46,7 @@ GCP(Google Cloud Platform) 환경에서 디스크 성능 문제에 직면했습�
 - **Passive Sessions:** 사용자가 보고 있지 않은 탭의 트래픽을 줄이는 'Passive Session' 개념을 도입하여 대역폭을 20% 절감했습니다.
 - **Snowflake ID:** 시간순 정렬이 가능한 고유 ID 생성 체계인 Snowflake를 도입하여 DB 없이도 ID만으로 생성 시간을 유추하고 정렬할 수 있게 했습니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 Discord의 사례는 단순히 좋은 도구를 쓰는 것을 넘어, **"현재의 병목이 무엇인가?"**를 정확히 파악하고 창의적인 해결책을 찾아가는 엔지니어링의 정수를 보여줍니다. MongoDB에서 시작해 Cassandra를 거쳐 ScyllaDB로, Python에서 Go를 거쳐 Rust로 진화해 온 그들의 여정은 사용자 경험을 최우선으로 하는 집요한 성능 최적화의 결과물입니다.
 
@@ -54,14 +54,8 @@ Discord의 사례는 단순히 좋은 도구를 쓰는 것을 넘어, **"현재�
 
 이것이 Discord가 10년이 넘도록 빠르고 쾌적한 서비스를 유지하는 비결일 것입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

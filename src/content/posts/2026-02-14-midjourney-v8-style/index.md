@@ -25,7 +25,7 @@ Midjourney v8은 단순한 이미지 생성기를 넘어, 종합적인 비주얼
 
 ---
 
-### (Updated) (Updated) (Updated) Summaries
+### Summaries
 
 **English**
 **Midjourney v8: Mastery of Style**
@@ -63,14 +63,8 @@ Midjourney v8 открывает новые горизонты в ИИ-иску�
 **Midjourney v8: Domínio do Estilo**
 Midjourney v8 abre novos horizontes na arte da IA. Com as funcionalidades melhoradas de 'Sintonizador de Estilo' e 'Referência de Estilo', os utilizadores podem replicar com precisão estilos artísticos subtis. A renderização de texto perfeita e a geração de vídeo integrada transformam-no numa plataforma criativa visual completa.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

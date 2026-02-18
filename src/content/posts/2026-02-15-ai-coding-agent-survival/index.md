@@ -29,7 +29,7 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 ---
 
-## (Updated) (Updated) (Updated) 2. 에이전트에게 일을 맡기는 법 (The Delegation Framework) {#the-delegation-framework}
+## 2. 에이전트에게 일을 맡기는 법 (The Delegation Framework) {#the-delegation-framework}
 
 에이전트는 신입 사원과 같습니다. 똑똑하지만 눈치가 없고, 시키지 않은 일은 안 하거나(혹은 사고를 치거나) 합니다.
 일을 맡길 때는 다음 3가지를 명확히 해야 합니다.
@@ -44,33 +44,27 @@ GitHub Copilot X2, Devin Pro 같은 **자율 코딩 에이전트(Autonomous Codi
 
 복잡한 레거시 코드를 에이전트에게 리팩토링 시킬 때 사용하는 템플릿입니다. 이 프롬프트를 에이전트(Cursor, Copilot Workspace 등)의 초기 지시사항으로 입력하세요.
 
-> **# (Updated) (Updated) (Updated) Role**
-> 당신은 10년 차 시니어 백엔드 개발자이자 'Clean Code'의 신봉자입니다.
->
-> **# (Updated) (Updated) (Updated) Task**
-> 현재 프로젝트의 `src/legacy/auth.ts` 파일을 리팩토링하여 모듈화하고 테스트 가능하게 만드세요.
->
-> **# (Updated) (Updated) (Updated) Context**
->
-> - 이 파일은 3년 전 작성되었으며, 비즈니스 로직과 DB 접근 코드가 뒤섞여 있습니다.
-> - 현재 `User` 클래스가 2000줄이 넘습니다.
->
-> **# (Updated) (Updated) (Updated) Constraints (절대 준수)**
->
-> 1. **기능 유지:** 외부에서 호출하는 API 시그니처는 절대 변경하지 마세요. (하위 호환성 유지)
-> 2. **스타일:** 함수형 프로그래밍 스타일을 선호합니다. 상태 변경을 최소화하세요.
-> 3. **라이브러리:** 새로운 라이브러리를 설치하지 마세요.
->
-> **# (Updated) (Updated) (Updated) Process**
->
-> 1. 먼저 코드를 분석하여 의존성 그래프를 시각화(텍스트 설명)하세요.
-> 2. 리팩토링 계획(Plan)을 3단계로 나누어 제시하고, 내 승인을 받으세요.
-> 3. 승인 후, 단계별로 코드를 수정하고 각 단계마다 단위 테스트를 작성하세요.
->
-> **# (Updated) (Updated) (Updated) Definition of Done**
->
-> - `npm test` 실행 시 모든 테스트가 통과해야 합니다.
-> - Cyclomatic Complexity(순환 복잡도)가 10 이하로 떨어져야 합니다.
+**# (Updated) (Updated) (Updated) Role**
+당신은 10년 차 시니어 백엔드 개발자이자 'Clean Code'의 신봉자입니다.
+**# (Updated) (Updated) (Updated) Task**
+현재 프로젝트의 `src/legacy/auth.ts` 파일을 리팩토링하여 모듈화하고 테스트 가능하게 만드세요.
+**# (Updated) (Updated) (Updated) Context**
+
+- 이 파일은 3년 전 작성되었으며, 비즈니스 로직과 DB 접근 코드가 뒤섞여 있습니다.
+- 현재 `User` 클래스가 2000줄이 넘습니다.
+  **# (Updated) (Updated) (Updated) Constraints (절대 준수)**
+
+1. **기능 유지:** 외부에서 호출하는 API 시그니처는 절대 변경하지 마세요. (하위 호환성 유지)
+2. **스타일:** 함수형 프로그래밍 스타일을 선호합니다. 상태 변경을 최소화하세요.
+3. **라이브러리:** 새로운 라이브러리를 설치하지 마세요.
+   **# (Updated) (Updated) (Updated) Process**
+4. 먼저 코드를 분석하여 의존성 그래프를 시각화(텍스트 설명)하세요.
+5. 리팩토링 계획(Plan)을 3단계로 나누어 제시하고, 내 승인을 받으세요.
+6. 승인 후, 단계별로 코드를 수정하고 각 단계마다 단위 테스트를 작성하세요.
+   **# (Updated) (Updated) (Updated) Definition of Done**
+
+- `npm test` 실행 시 모든 테스트가 통과해야 합니다.
+- Cyclomatic Complexity(순환 복잡도)가 10 이하로 떨어져야 합니다.
 
 ---
 
@@ -88,14 +82,8 @@ AI 시대, 개발자의 실력은 '타자를 얼마나 빨리 치느냐'가 아�
 
 지금 바로 에이전트에게 작은 이슈 하나를 던져보세요. 그리고 커피 한 잔의 여유를 즐기시길 바랍니다. (물론, PR 리뷰는 꼼꼼히 하세요!)
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

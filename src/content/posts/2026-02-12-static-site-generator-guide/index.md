@@ -9,7 +9,7 @@ description: "블로그, 포트폴리오를 만들 건데 서버비 내기 싫�
 tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 ---
 
-# (Updated) (Updated) (Updated) 🚀 정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby {#ssg}
+# 🚀 정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby {#ssg}
 
 - **🎯 추천 대상:** "서버비 0원으로 블로그 운영하고 싶어요" 묻는 학생, React로 포트폴리오 만들려는 취준생
 - **⏱️ 소요 시간:** 5분 (기술 스택 결정)
@@ -25,7 +25,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Next.js:** 웹앱(Web App) 만들 거면 이거 써라. (기능 많음, 무거움)
 2.  **Astro:** 콘텐츠(블로그) 만들 거면 이거 써라. (가볍고 빠름, JS 0kB)
@@ -61,7 +61,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 블로그(`helloprompt.kr`)도 **Astro**로 만들어졌습니다.
 왜냐고요? 글 읽는 데 리액트가 필요 없으니까요.
@@ -70,7 +70,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 배포는 어디에 해요?**
   - A: **Vercel**이나 **Netlify**를 쓰면 무료입니다. 깃허브에 푸시만 하면 알아서 빌드해서 배포해 줍니다. (서버비 0원)
@@ -80,7 +80,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **아일랜드 아키텍처:** Astro의 핵심 기술인 "부분적 수화(Partial Hydration)"를 언급하면, AI가 단순히 HTML을 뿌리는 걸 넘어 **"필요한 곳에만 JS를 쓰는"** 고급 패턴을 알려줍니다.
 2.  **비교 우위:** Next.js와 비교를 요청하면, 각 프레임워크가 추구하는 철학(앱 vs 콘텐츠)의 차이를 명확히 이해할 수 있습니다.
@@ -89,17 +89,17 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (Next.js 블로그) {#next-js}
+### ❌ Before (Next.js 블로그) {#next-js}
 
 Lighthouse 점수: 70점. (JS 번들 500KB 로딩하느라 모바일에서 버벅거림 🐢)
 
-### (Updated) (Updated) (Updated) ✅ After (Astro 블로그) {#astro}
+### ✅ After (Astro 블로그) {#astro}
 
 Lighthouse 점수: **100점**. (JS 번들 0KB. HTML만 옴. 클릭하자마자 뜸 🚀)
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 웹은 다시 **문서(Document)**로 돌아가고 있습니다.
 복잡한 앱이 아니라면, 무거운 갑옷(React)을 벗으세요.
@@ -107,14 +107,8 @@ Lighthouse 점수: **100점**. (JS 번들 0KB. HTML만 옴. 클릭하자마자 �
 가벼운 몸으로 날아오르세요.
 **To the Moon (with Astro).** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

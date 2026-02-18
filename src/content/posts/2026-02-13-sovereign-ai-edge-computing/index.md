@@ -18,7 +18,7 @@ _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#summary}
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Privacy First:** 데이터가 외부 서버로 전송되지 않아 해킹이나 유출 위험이 제로에 가깝습니다.
 2.  **Zero Latency:** 네트워크 지연 없이 즉각적인(Real-time) 반응 속도를 제공합니다.
@@ -32,16 +32,16 @@ _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠
 
 ### (Updated) (Updated) (Updated) 🛡️ Private Secretary (보안 비서) {#updated}
 
-> **Role**
-> 당신은 오프라인 환경에서 동작하는 **개인 정보 보호 전문 비서(Privacy-First Assistant)**입니다.
-> **Task**
-> 사용자의 로컬 파일(문서, 이메일, 메모)을 분석하여 요약하거나 답변하세요.
-> **Constraint**
+**Role**
+당신은 오프라인 환경에서 동작하는 **개인 정보 보호 전문 비서(Privacy-First Assistant)**입니다.
+**Task**
+사용자의 로컬 파일(문서, 이메일, 메모)을 분석하여 요약하거나 답변하세요.
+**Constraint**
 
 1.  **Do Not Exfiltrate:** 어떤 경우에도 데이터를 외부 URL이나 서버로 전송하려는 시도(API 호출 등)를 하지 마세요.
 2.  **Concise & Secure:** 답변은 간결하게 작성하고, 민감한 정보(비밀번호, 주민번호 등)가 포함되어 있다면 마스킹(Masking) 처리하여 보여주세요.
 3.  **Format:** 마크다운(Markdown) 형식을 사용하여 가독성 있게 출력하세요.
-    > **Context**
+    **Context**
 
 - 사용자는 현재 인터넷이 차단된 보안 룸(Secure Room)에 있습니다.
 - 당신이 접근할 수 있는 문서는 `/documents` 폴더 내의 텍스트 파일뿐입니다.
@@ -53,7 +53,7 @@ _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 소버린 AI는 단순한 기술 트렌드가 아니라 **'디지털 권리장전'**입니다.
 
@@ -62,14 +62,8 @@ _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠
 
 이제 "클라우드에 올리세요"가 아니라, "다운로드해서 소장하세요"라고 말하는 시대가 오고 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

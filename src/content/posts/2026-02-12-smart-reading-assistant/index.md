@@ -9,7 +9,7 @@ description: "어려운 원서, 논문, 기술 블로그를 3배 빠르게 읽�
 tags: ["독서", "요약", "학습", "지식관리"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 초고속 독서 소화제 (Smart Reading) {#smart-reading}
+# 📝 초고속 독서 소화제 (Smart Reading) {#smart-reading}
 
 - **🎯 추천 대상:** 읽어야 할 자료는 산더미인데 시간이 없는 대학원생, 개발자
 - **⏱️ 소요 시간:** 1시간 → 15분 단축
@@ -25,7 +25,7 @@ _"읽기만 하고 남는 게 없다면, 그것은 독서가 아니라 안구 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 텍스트를 입력하면 핵심 내용 구조화 (개요/핵심/결론)
 2. 어려운 용어는 쉬운 비유(Analogy)로 설명
@@ -74,13 +74,13 @@ _"읽기만 하고 남는 게 없다면, 그것은 독서가 아니라 안구 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"거나 "반론을 제기해달라"고 요청하면, 훨씬 더 입체적인 이해가 가능해집니다. 특히 'Action Item'을 요청하면 지식이 행동으로 연결됩니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 책 전체를 넣을 수 있나요?**
   - A: AI 모델의 토큰 제한(Context Window)에 따라 다릅니다. Gemini 1.5 Pro나 Claude 3는 책 한 권 분량도 처리 가능합니다.
@@ -90,7 +90,7 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Analogy (비유):** 추상적인 개념을 구체적인 이미지로 치환하여 장기 기억을 돕습니다.
 2.  **Critical Thinking (비판적 사고):** 수동적인 읽기에서 능동적인 사유로 전환시킵니다.
@@ -115,20 +115,14 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 책장을 덮었을 때 머리에 남는 것이 진짜 독서입니다.
 
 이제 뇌섹남녀가 되어보세요! 📚
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

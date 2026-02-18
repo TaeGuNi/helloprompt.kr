@@ -28,20 +28,14 @@ tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 
 **휴대전화의 로컬 AI 모델은 마침내 일상적인 작업을 위해 클라우드 서비스를 대체할 만큼 강력해졌습니다.** 우리는 더 이상 단순한 분류 작업에 대해 이야기하는 것이 아닙니다. 온디바이스(on-device) 모델이 복잡한 요약, 자연어 번역, 심지어 코드 생성까지 놀라운 정확도로 처리하는 것을 보고 있습니다. 특정 미세 조정(fine-tuned) 작업의 경우, 양자화된 8B 로컬 모델과 GPT-3.5 간의 격차는 빠르게 좁혀지고 있습니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 클라우드와의 연결 고리가 끊어지고 있습니다. 대규모 파운데이션 모델은 고도화된 추론이나 창의적인 생성을 위해 항상 자리를 지키겠지만, AI의 일상적인 효용성은 엣지로 이동하고 있습니다.
 
 개발자들에게 주어진 과제는 명확합니다. 오늘 바로 온디바이스 추론 실험을 시작하십시오. 모바일 하드웨어의 제약은 더 이상 장벽이 아니라, 더 빠르고, 더 사적이며, 믿을 수 없을 정도로 탄력적인 애플리케이션을 만들어내는 창의적인 도전 과제입니다. 모바일 앱의 미래는 단순히 AI에 연결하는 것이 아니라, AI를 사용자 경험의 본질(fabric)에 직접 내장하는 것에 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

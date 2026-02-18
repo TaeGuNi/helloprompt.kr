@@ -13,15 +13,15 @@ author: "Assistant"
 
 ## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 주요 기능 {#updated}
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 1. 텍스트 생성 (Text Generation) {#text-generation}
+### (Updated) 1. 텍스트 생성 (Text Generation) {#text-generation}
 
 Qwen 3, Llama 3.2, Gemma 3, Phi-4 등 최신 경량화 모델을 지원하며, `.gguf` 파일 형식의 사용자 정의 모델도 불러올 수 있습니다. 플래그십 기기 기준으로 초당 15~30 토큰의 빠른 속도로 응답하며, 스트리밍 답변과 'Thinking Mode'를 지원합니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 2. 이미지 생성 (Image Generation) {#image-generation}
+### (Updated) 2. 이미지 생성 (Image Generation) {#image-generation}
 
 Stable Diffusion을 기기 내에서 구동하여 실시간 미리보기를 제공합니다. 스냅드래곤 칩셋의 NPU 가속을 활용하면 5~10초 만에 이미지를 생성할 수 있으며(iOS는 Core ML 활용), Absolute Reality, DreamShaper 등 20개 이상의 모델을 지원합니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 3. 비전 AI (Vision AI) {#vision-ai}
+### (Updated) 3. 비전 AI (Vision AI) {#vision-ai}
 
 카메라로 사물이나 문서를 비추고 AI에게 질문할 수 있습니다. SmolVLM, Qwen3-VL 등을 활용해 문서를 분석하거나 영수증을 읽고, 장면을 묘사하는 작업이 가능합니다.
 
@@ -29,7 +29,7 @@ Stable Diffusion을 기기 내에서 구동하여 실시간 미리보기를 제�
 
 OpenAI의 Whisper 모델을 내장하여 음성을 텍스트로 변환할 수 있으며, PDF, 코드 파일, CSV 등을 대화에 첨부하여 내용을 분석하고 요약할 수 있습니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 성능 (Performance) {#performance}
+## (Updated) 성능 (Performance) {#performance}
 
 스냅드래곤 8 Gen 2/3 또는 Apple A17 Pro 칩셋을 탑재한 플래그십 기기에서의 성능은 다음과 같습니다:
 
@@ -46,25 +46,17 @@ OpenAI의 Whisper 모델을 내장하여 음성을 텍스트로 변환할 수 �
 
 Off Grid는 클라우드 의존 없이 내 손안의 기기에서 강력한 AI 기능을 활용할 수 있게 해줍니다. 데이터 프라이버시가 중요하거나 인터넷 연결이 어려운 환경에서 AI를 활용하고 싶다면 꼭 한번 사용해 보시기를 권장합니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

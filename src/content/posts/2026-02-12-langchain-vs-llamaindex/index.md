@@ -25,7 +25,7 @@ _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **LangChain:** "다목적 맥가이버 칼". 챗봇, 에이전트, 툴 연결 등 모든 게 가능하지만 복잡하다.
 2.  **LlamaIndex:** "데이터 전문 드릴". 문서를 쪼개고 검색하고 인덱싱하는 데 특화되어 있다. RAG 성능이 더 좋다.
@@ -62,14 +62,14 @@ _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 라마인덱스의 강력한 무기는 **'계층적 인덱스(Hierarchical Index)'**입니다.
 문서를 단순히 쪼개는 게 아니라, 요약본(Summary)을 먼저 검색하고 세부 내용으로 들어가는 방식이 가능해서, 긴 문서 검색에서 압도적인 성능을 보여줍니다. "법률, 의학, 논문" 분야라면 무조건 라마인덱스입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 둘 다 배워야 하나요?**
   - A: 하나만 깊게 파세요. 어차피 서로의 장점을 베끼며 진화하고 있어서 기능이 비슷해지고 있습니다.
@@ -79,7 +79,7 @@ _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **프로젝트 성격 정의:** "법률 판례 검색"이라는 구체적인 시나리오를 주면, AI가 "아, 이건 정밀도가 중요하구나"라고 판단하여 데이터 처리에 강한 라마인덱스를 추천하게 됩니다.
 2.  **하이브리드 전략:** 흑백논리가 아니라 "섞어 쓰는 법"을 물어봄으로써, 실무에서 마주할 유연한 아키텍처 설계를 얻어냅니다.
@@ -99,7 +99,7 @@ _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 장인은 도구를 가리지 않지만, 명장은 도구의 특성을 꿰뚫고 있습니다.
 망치로 나사를 박지 마세요.
@@ -107,14 +107,8 @@ _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG�
 **데이터엔 라마, 대화엔 랭체인.**
 이 공식만 기억하면 반은 성공입니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

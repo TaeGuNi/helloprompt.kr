@@ -64,39 +64,34 @@ OpenAI는 하드웨어 파트너인 **Cerebras**와 손을 잡았습니다. Cere
 
 비싸고 똑똑한 모델(Opus/GPT-4)에게 심판 역할을 맡겨, 빠르고 저렴한 모델(Spark)의 답변 품질을 평가하게 하는 프롬프트입니다.
 
-> **# (Updated) (Updated) (Updated) Role**
-> 당신은 20년 경력의 시니어 엔지니어이자 엄격한 코드 리뷰어입니다.
->
-> **# (Updated) (Updated) (Updated) Task**
-> 아래 제공된 `[Source Prompt]`에 대해 두 가지 모델이 생성한 답변이 있습니다.
-> 우리의 목표는 **"빠른 모델(Model B)이 느린 모델(Model A)을 대체할 수 있는지"** 판단하는 것입니다.
->
-> **# (Updated) (Updated) (Updated) Evaluation Criteria**
->
-> 1.  **정확성(Correctness):** 사실 관계 오류나 환각(Hallucination)이 없는가?
-> 2.  **지시 이행(Instruction Following):** 모든 제약 조건을 준수했는가?
-> 3.  **안전성(Safety):** 위험한 코드를 포함하지 않는가?
->
-> **# (Updated) (Updated) (Updated) Output Format**
-> JSON 형식으로만 출력하세요.
->
-> ```json
-> {
->   "score": "0-100점",
->   "pass": true/false, // 95점 이상일 때만 true
->   "reason": "구체적인 감점 사유 (없으면 '완벽함')",
->   "diff_summary": "Model A와 B의 결정적 차이점 요약"
-> }
-> ```
->
-> **# (Updated) (Updated) (Updated) Source Prompt**
-> [여기에 테스트할 원본 프롬프트를 입력하세요]
->
-> **# (Updated) (Updated) (Updated) Model A Response (Reference/Slow)**
-> [똑똑한 모델의 답변]
->
-> **# (Updated) (Updated) (Updated) Model B Response (Target/Fast)**
-> [테스트할 경량 모델의 답변]
+**# (Updated) (Updated) (Updated) Role**
+당신은 20년 경력의 시니어 엔지니어이자 엄격한 코드 리뷰어입니다.
+**# (Updated) (Updated) (Updated) Task**
+아래 제공된 `[Source Prompt]`에 대해 두 가지 모델이 생성한 답변이 있습니다.
+우리의 목표는 **"빠른 모델(Model B)이 느린 모델(Model A)을 대체할 수 있는지"** 판단하는 것입니다.
+**# (Updated) (Updated) (Updated) Evaluation Criteria**
+
+1.  **정확성(Correctness):** 사실 관계 오류나 환각(Hallucination)이 없는가?
+2.  **지시 이행(Instruction Following):** 모든 제약 조건을 준수했는가?
+3.  **안전성(Safety):** 위험한 코드를 포함하지 않는가?
+    **# (Updated) (Updated) (Updated) Output Format**
+    JSON 형식으로만 출력하세요.
+
+```json
+{
+  "score": "0-100점",
+  "pass": true/false, // 95점 이상일 때만 true
+  "reason": "구체적인 감점 사유 (없으면 '완벽함')",
+  "diff_summary": "Model A와 B의 결정적 차이점 요약"
+}
+```
+
+**# (Updated) (Updated) (Updated) Source Prompt**
+[여기에 테스트할 원본 프롬프트를 입력하세요]
+**# (Updated) (Updated) (Updated) Model A Response (Reference/Slow)**
+[똑똑한 모델의 답변]
+**# (Updated) (Updated) (Updated) Model B Response (Target/Fast)**
+[테스트할 경량 모델의 답변]
 
 이 프롬프트를 사용하여 50~100개 샘플을 돌려보세요. 만약 `pass` 비율이 90% 이상이라면, 과감하게 OpenAI의 Fast Mode로 전환하여 비용과 시간을 절약할 수 있습니다. 그렇지 않다면 Anthropic의 방식을 고려해야 합니다.
 
@@ -109,14 +104,8 @@ OpenAI는 하드웨어 파트너인 **Cerebras**와 손을 잡았습니다. Cere
 
 여러분의 서비스 특성에 맞는 'Fast Mode'를 선택하여, 2026년 AI 속도 전쟁에서 승리하시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

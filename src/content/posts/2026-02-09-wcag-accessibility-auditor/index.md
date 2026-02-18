@@ -25,7 +25,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **시멘틱 태그(Semantic Tag)** 사용 여부를 검사합니다.
 2. 이미지 `alt` 속성, 폼 라벨(Label), 키보드 포커스 이동을 체크합니다.
@@ -33,7 +33,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "A11y(Accessibility) 오디터" {#accessibility}
+## (Updated) 🚀 해결책: "A11y(Accessibility) 오디터" {#accessibility}
 
 ### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
@@ -66,7 +66,7 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **규정 기반:** 모호한 "좋게 고쳐줘"가 아니라 "WCAG 2.2"라는 명확한 기준을 제시합니다.
 2.  **First Rule of ARIA:** "가장 좋은 ARIA는 ARIA를 쓰지 않는 것(시멘틱 태그 사용)"이라는 원칙을 상기시킵니다.
@@ -97,14 +97,14 @@ _"접근성은 '배려'가 아니라 '기본'입니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -114,31 +114,23 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 좋은 개발자는 코드를 잘 짜는 사람이 아니라, 사용자를 생각하는 사람입니다.
 
 이제 칼퇴하세요! 🍷
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

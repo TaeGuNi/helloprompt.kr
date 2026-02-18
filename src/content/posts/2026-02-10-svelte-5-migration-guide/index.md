@@ -25,7 +25,7 @@ React의 **Virtual DOM**은 혁명이었지만, 이제는 무겁습니다. Svelt
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Virtual DOM 없음:** 런타임이 가볍고 빠르다.
 2.  **Runes (`$state`):** `useState`, `useEffect`보다 훨씬 쉽고 직관적이다.
@@ -61,7 +61,7 @@ React 코드를 Svelte 5로 바꾸고 싶을 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 React 생태계가 워낙 거대해서 Svelte로 넘어가는 게 두려울 수 있습니다.
 하지만 **사내 어드민, 대시보드, 랜딩 페이지** 같은 작은 프로젝트부터 시작해보세요.
@@ -69,7 +69,7 @@ React 생태계가 워낙 거대해서 Svelte로 넘어가는 게 두려울 수 
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 기존 Svelte 4 프로젝트는 어떻게 하나요?**
   - A: Svelte 5는 하위 호환성을 보장합니다. 당장 Runes를 안 써도 돌아갑니다. 천천히 하나씩 바꾸면 됩니다.
@@ -79,7 +79,7 @@ React 생태계가 워낙 거대해서 Svelte로 넘어가는 게 두려울 수 
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Fine-grained Reactivity:** Svelte 5의 핵심 키워드입니다. React는 상태가 변하면 컴포넌트 전체를 재실행(Re-render)하지만, Svelte는 **"변한 그 변수를 쓰는 DOM 노드만"** 콕 집어서 업데이트합니다. 이걸 이해해야 Svelte를 쓰는 의미가 있습니다.
 2.  **Compiler:** Svelte는 프레임워크가 아니라 **컴파일러**입니다. 빌드 타임에 최적화된 JS 코드를 만들어내기 때문에 런타임 오버헤드가 없습니다.
@@ -88,14 +88,14 @@ React 생태계가 워낙 거대해서 Svelte로 넘어가는 게 두려울 수 
 
 ## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (React)
+### ❌ Before (React)
 
 ```jsx
 const [count, setCount] = useState(0);
 const double = useMemo(() => count * 2, [count]); // 의존성 배열 관리 귀찮음
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (Svelte 5)
+### ✅ After (Svelte 5)
 
 ```javascript
 let count = $state(0);
@@ -104,7 +104,7 @@ let double = $derived(count * 2); // 의존성 배열? 그게 뭐죠? 알아서 
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 React는 훌륭하지만, Svelte는 **'우아'**합니다.
 코드가 줄어들면 버그도 줄어듭니다.
@@ -112,14 +112,8 @@ React는 훌륭하지만, Svelte는 **'우아'**합니다.
 지금 바로 `$state`를 선언해보세요.
 **프론트엔드의 봄(Spring)**이 다시 옵니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

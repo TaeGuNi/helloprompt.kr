@@ -76,14 +76,8 @@ Claude는 `Obstacle` 클래스와 레벨 설정 배열을 도입했습니다. �
 
 Happy coding!
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

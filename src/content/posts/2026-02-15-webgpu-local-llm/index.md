@@ -31,7 +31,7 @@ _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **WebGPU** 기술 덕분에 브라우저에서 플러그인 없이 고성능 AI 추론이 가능해졌습니다.
 2. **WebLLM** 라이브러리를 사용하면 Llama-3, Gemma-2 같은 모델을 클라이언트 사이드에서 바로 돌릴 수 있습니다.
@@ -86,7 +86,7 @@ _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침
 
 <!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 방식의 가장 큰 장점은 **"데이터가 사용자의 기기를 벗어나지 않는다"**는 점입니다. 민감한 개인정보나 사내 기밀을 다루는 앱을 만들 때, 서버로 데이터를 전송할 필요가 없으므로 보안 이슈에서 자유롭습니다.
 
@@ -96,7 +96,7 @@ _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침
 
 <!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 모든 브라우저에서 되나요?**
   - A: Chrome, Edge 등 Chromium 기반 브라우저는 잘 지원합니다. Safari와 Firefox도 WebGPU 지원이 안정화되었지만, 최신 버전 업데이트를 확인하세요.
@@ -106,7 +106,7 @@ _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Role 부여:** "WebGPU/WASM 전문가"라고 지정하여 일반적인 React 개발자가 놓칠 수 있는 성능/메모리 이슈를 고려하게 했습니다.
 2.  **Context(상황):** "프라이버시 중심"이라는 목표를 주어 불필요한 서버 통신 코드를 배제했습니다.
@@ -124,7 +124,7 @@ _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침
 
 (결과: 구형 라이브러리를 쓰거나, WebGPU 설정이 누락된 껍데기 코드만 줌)
 
-### (Updated) (Updated) (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
+### ✅ After (Pro 프롬프트 사용) {#pro}
 
 ```typescript
 // useWebLLM.ts (생성된 코드 예시)
@@ -151,20 +151,14 @@ export const useWebLLM = () => {
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 더 이상 비싼 GPU 서버를 임대하지 마세요. 사용자의 브라우저가 이미 준비된 서버입니다. 지금 바로 로컬 AI 앱을 시작해보세요!
 
 이제 칼퇴하세요! 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

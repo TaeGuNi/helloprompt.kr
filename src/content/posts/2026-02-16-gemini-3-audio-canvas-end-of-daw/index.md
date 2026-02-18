@@ -97,25 +97,17 @@ Audio Canvas는 DAW를 죽이지 않습니다. 오히려 **DAW의 새로운 플�
 
 **지금 바로 Gemini 3를 열고, 당신만의 교향곡을 지휘해보세요.**
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

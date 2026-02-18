@@ -14,7 +14,7 @@ tags:
 image: "/images/placeholder.jpg"
 ---
 
-# (Updated) (Updated) (Updated) 바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다 {#vibe-coding}
+# 바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다 {#vibe-coding}
 
 "바이브 코딩(Vibe Coding)"은 최근 실리콘밸리의 새로운 유행어입니다. 코드를 직접 짜는 대신, AI에게 프롬프트를 던지고 결과물이 그럴듯해 보이면("Vibe"가 맞으면) 그대로 사용하는 방식을 말합니다. 안드레 카파시(Andrej Karpathy)조차 이를 언급할 정도로 핫한 트렌드죠. 마법 같고, 빠르고, 편리해 보입니다.
 
@@ -26,7 +26,7 @@ image: "/images/placeholder.jpg"
 
 바이브 코딩의 늪에서 빠져나와, AI를 활용하면서도 엔지니어링 마스터가 되는 방법을 소개합니다.
 
-## (Updated) (Updated) (Updated) AI 코딩의 "나쁜 몰입(Junk Flow)" {#junk-flow}
+## AI 코딩의 "나쁜 몰입(Junk Flow)" {#junk-flow}
 
 심리학자 칙센트미하이(Mihaly Csikszentmihalyi)는 "몰입(Flow)"을 기술과 도전 과제가 균형을 이룰 때 오는 깊은 집중 상태라고 정의했습니다.
 
@@ -105,14 +105,8 @@ AI에게 코드를 *짜달라*고만 하지 말고, 내 코드를 *공격해달�
 
 _Source: [Breaking the spell of vibe coding – fast.ai](https://www.fast.ai/posts/2026-01-28-dark-flow/)_
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

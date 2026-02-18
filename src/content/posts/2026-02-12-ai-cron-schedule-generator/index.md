@@ -9,19 +9,19 @@ description: "* * * * * 이게 대체 언제 실행되는 거야? 매주 월요�
 tags: [Linux, Cron, Automation, Server, AI]
 ---
 
-## (Updated) (Updated) (Updated) 1. Intro
+## 1. Intro
 
 "매월 1일 새벽 4시 30분에 백업 스크립트 실행해 줘."
 이걸 크론 표현식으로 바꾸려면? `30 4 1 * *`? 아니면 `30 4 * * 1`? 🤔
 순서도 헷갈리고, 특수문자(`/`, `,`, `-`) 사용법도 가물가물합니다. 잘못 설정하면 서버가 폭주하거나 중요한 작업을 건너뛸 수도 있죠. AI는 크론 표현식의 통역사입니다.
 
-## (Updated) (Updated) (Updated) 2. TL;DR
+## 2. TL;DR
 
 - **핵심:** 인간의 언어(Natural Language)를 정확한 Cron 표현식으로 변환하고 설명을 듣습니다.
 - **준비물:** ChatGPT.
 - **효과:** 스케줄링 실수 방지, 동료들이 이해하기 쉬운 주석 작성 가능.
 
-## (Updated) (Updated) (Updated) 3. Solution (The Prompt)
+## 3. Solution (The Prompt)
 
 **⏰ 크론 표현식 생성 및 설명 프롬프트**
 
@@ -38,11 +38,11 @@ tags: [Linux, Cron, Automation, Server, AI]
 3. **다음 실행 시간:** 오늘 날짜 기준으로 향후 3번의 실행 예정 시간을 알려주세요(검증용).
 ```
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 반대로 기존에 설정된 크론 식을 해석할 때도 유용합니다. `0 0 */3 * *` 같은 코드를 AI에게 주면 "3일마다 자정에 실행됩니다"라고 친절하게 알려주죠. [Crontab.guru](https://crontab.guru/) 같은 사이트도 좋지만, 복잡한 조건(예: "매월 마지막 금요일")은 AI가 훨씬 잘 처리합니다.
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. UTC/KST 시간대는 어떻게 하나요?**
 A. 크론 자체는 서버 시간을 따릅니다. 프롬프트에 "서버는 UTC 기준이고 나는 한국 시간(KST) 9시를 원해"라고 말하면 AI가 시간을 계산(-9시간)해서 알려줍니다.
@@ -50,14 +50,8 @@ A. 크론 자체는 서버 시간을 따릅니다. 프롬프트에 "서버는 UT
 **Q. Jenkins Cron 문법도 되나요?**
 A. 네, Jenkins는 `H` (Hash) 기호를 사용하는데, "Jenkins용으로 H를 사용해서 분산시켜 줘"라고 하면 됩니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

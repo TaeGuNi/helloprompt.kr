@@ -25,7 +25,7 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **약어 해독:** K(겉뜨기), P(안뜨기), YO(바늘비우기) 등 약어를 한글 용어로 자동 변환합니다.
 2. **서술형 변환:** 복잡한 기호 차트를 "겉뜨기 2번 하고, 실 감고, 2코 모아뜨세요"처럼 말로 풀어줍니다.
@@ -70,14 +70,14 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 뜨개질에서 가장 어려운 장벽인 **'영문 약어'**와 **'게이지 계산'**을 AI가 완벽하게 해결해줍니다. 특히 `ssk`(Slip Slip Knit)나 `k2tog`(Knit 2 Together) 같은 미묘한 차이를 정확한 한국어 용어(왼코 겹치기 vs 오른코 겹치기)로 번역해주는 것이 놀라웠습니다.
 기호로 된 차트(그림)를 찍어 올리면, AI가 OCR(광학 문자 인식)처럼 기호를 읽어서 "1단: 겉, 안, 겉, 바늘비우기..." 이렇게 텍스트로 풀어주는데, 눈이 침침할 때 정말 유용합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 코바늘(Crochet)도 되나요?**
   - A: 네! US 용어(sc, dc)와 UK 용어(dc, tr)가 달라서 헷갈리는데, "이거 US 용어야 UK 용어야?"라고 물어보면 문맥을 보고 구분해줍니다.
@@ -87,7 +87,7 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **전문 용어 매핑:** Knitting Abbreviations(약어) 데이터를 학습하여 정확한 대칭 용어를 찾습니다.
 2.  **수학적 계산:** 게이지 비례식을 사용하여 콧수 계산 실수를 방지합니다.
@@ -95,20 +95,14 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 이제 언어의 장벽 때문에 예쁜 도안을 포기하지 마세요.
 Ravelry의 수만 가지 무료 도안이 모두 당신의 것입니다.
 실과 바늘, 그리고 AI만 있다면 무엇이든 뜰 수 있습니다. 🧶
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

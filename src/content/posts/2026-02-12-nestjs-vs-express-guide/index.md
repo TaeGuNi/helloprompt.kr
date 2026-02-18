@@ -25,7 +25,7 @@ Express는 자유롭지만 방종합니다. 반면 **NestJS**는 엄격합니다
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Express:** 작고 빠른 거 만들 때. (토이 프로젝트, MVP)
 2.  **NestJS:** 크고 유지보수 가능한 거 만들 때. (엔터프라이즈, 협업)
@@ -63,14 +63,14 @@ Express에서 NestJS로 갈아탈 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 NestJS의 꽃은 **'데코레이터(@)'**입니다.
 `@Get()`, `@Post()`, `@Body()` 같은 데코레이터를 쓰면 코드가 선언적(Declarative)으로 바뀝니다. "어떻게(How)"가 아니라 "무엇(What)"을 하는지 명확해집니다. 이 맛을 보면 Express로 못 돌아갑니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 너무 무겁지 않나요?**
   - A: Express보다 무겁긴 합니다. 하지만 TypeScript 지원, 테스트 용이성, 구조적 안정성을 생각하면 그만한 가치가 있습니다. Fastify 어댑터를 쓰면 속도도 빠릅니다.
@@ -80,7 +80,7 @@ NestJS의 꽃은 **'데코레이터(@)'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **DI(의존성 주입) 강조:** NestJS의 핵심 철학인 DI를 언급하면, AI가 단순히 코드를 옮기는 게 아니라 "테스트하기 좋은 구조"로 짜줍니다.
 2.  **DTO/Guard 등 구체적 기능 요청:** Express에는 없는 NestJS만의 강력한 기능들을 콕 집어 물어봄으로써, 프레임워크의 장점을 100% 활용하는 코드를 얻어냅니다.
@@ -89,7 +89,7 @@ NestJS의 꽃은 **'데코레이터(@)'**입니다.
 
 ## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (Express)
+### ❌ Before (Express)
 
 ```javascript
 app.post("/users", (req, res) => {
@@ -98,7 +98,7 @@ app.post("/users", (req, res) => {
 });
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (NestJS)
+### ✅ After (NestJS)
 
 ```typescript
 @Post()
@@ -109,7 +109,7 @@ create(@Body() createUserDto: CreateUserDto) { // 검증 자동 완료
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 혼자 짜면 Express가 빠릅니다.
 하지만 **"우리가"** 짜면 NestJS가 빠릅니다.
@@ -117,14 +117,8 @@ create(@Body() createUserDto: CreateUserDto) { // 검증 자동 완료
 스파게티 코드를 끊어내고,
 **건축(Architecture)**을 하세요. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

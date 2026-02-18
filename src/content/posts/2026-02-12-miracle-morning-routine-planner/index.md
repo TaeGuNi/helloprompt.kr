@@ -9,7 +9,7 @@ description: 작심삼일로 끝나는 미라클 모닝은 이제 그만! ChatGP
 tags: [AI, ChatGPT, Prompt]
 ---
 
-## (Updated) (Updated) (Updated) 1. Intro
+## 1. Intro
 
 "내일 아침 5시에 일어나서 조깅하고, 영어 공부하고, 명상까지 해야지!"
 ...라고 다짐했지만, 눈을 떠보니 출근 10분 전이었던 경험. 다들 한 번쯤 있으시죠? 😅
@@ -18,35 +18,29 @@ tags: [AI, ChatGPT, Prompt]
 
 중요한 건 '몇 시에 일어나는가'가 아니라 **'일어난 후 무엇을 하는가'**입니다. 그리고 이 과정을 가장 스마트하게 도와줄 파트너가 바로 AI입니다. 오늘은 여러분의 MBTI나 생활 패턴은 몰라도, 목표만큼은 확실하게 챙겨주는 ChatGPT 프롬프트를 준비했습니다. 여러분만의 완벽한 아침을 설계해 보세요. ☀️
 
-## (Updated) (Updated) (Updated) 2. TL;DR
+## 2. TL;DR
 
 - **핵심:** 남의 루틴 카피하지 말고, AI에게 내 상황을 입력해 맞춤형 루틴을 받으세요.
 - **준비물:** ChatGPT (무료 버전도 OK), 이루고 싶은 아침 목표 3가지.
 - **효과:** 무리한 계획으로 인한 포기를 방지하고, 현실적인 성취감을 맛볼 수 있습니다.
 
-## (Updated) (Updated) (Updated) 3. Solution (The Prompt)
+## 3. Solution (The Prompt)
 
 아래 프롬프트를 복사해서 ChatGPT에게 입력하세요. 대괄호 `[ ]` 부분만 본인의 상황에 맞게 수정하면 됩니다.
 
 **📋 미라클 모닝 루틴 설계 프롬프트**
 
-### (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+### 💡 작성자 코멘트 (Insight) {#insight}
 
 AI를 활용하여 효율성을 극대화하세요.
 
-### (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+### 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 이 프롬프트는 무료인가요?**
   - A: 네, 무료로 사용할 수 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -28,14 +28,8 @@ Interop 프로젝트는 모든 주요 브라우저에서 웹 기술이 일관되
 
 우리는 2026년 한 해 동안 테스트 통과율이 어떻게 변화하는지 면밀히 지켜볼 것입니다. 웹의 미래는 밝습니다!
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

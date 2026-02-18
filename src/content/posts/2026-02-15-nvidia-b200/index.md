@@ -33,14 +33,8 @@ RTX 6090 Ti는 단순한 그래픽 카드가 아닌, AI 시대의 개인용 슈�
 
 더 자세한 소식이 들어오는 대로 빠르게 업데이트해 드리겠습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -25,7 +25,7 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  집에 있는 술과 음료수(콜라, 주스 등)를 다 적는다.
 2.  AI에게 **"이걸로 만들 수 있는 칵테일 레시피 알려줘"**라고 한다.
@@ -64,7 +64,7 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 칵테일의 맛은 **'비율(Ratio)'**이 좌우합니다.
 "적당히" 말고 "위스키 1oz, 진저에일 3oz" 처럼 **정량**을 요구하세요.
@@ -72,7 +72,7 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 안주는요?**
   - A: "이 칵테일에 어울리는 편의점 안주 추천해줘"라고 추가 질문하세요. (페어링)
@@ -82,7 +82,7 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **카테고리화:** "도수 높은 거 / 달달한 거"로 나눠서 요청하면, 그날의 기분에 따라 골라 마실 수 있는 메뉴판이 완성됩니다.
 2.  **스토리텔링:** 칵테일은 이름 맛으로 마시는 겁니다. "선셋 비치(Sunset Beach)" 같은 이름을 지어달라고 하면 홈파티 분위기가 확 삽니다.
@@ -95,14 +95,14 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 
 소주 + 맥주 + 콜라 대충 섞음 -> "으악, 이게 무슨 맛이야." (숙취 🤕)
 
-### (Updated) (Updated) (Updated) ✅ After (AI 칵테일) {#ai}
+### ✅ After (AI 칵테일) {#ai}
 
 **AI:** "**[Golden Hour]** 위스키 1 : 오렌지 주스 2 : 진저에일 1 비율로 섞고, 레몬 껍질을 비틀어 향을 입히세요."
 (결과: "와, 이거 파는 것보다 맛있다!" 🍹)
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 비싼 바(Bar)에 갈 필요 없습니다.
 당신의 냉장고가 보물창고입니다.
@@ -110,14 +110,8 @@ _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고
 오늘 밤, 당신은 **마스터 바텐더**입니다.
 **"한 잔 말아드릴까요?"** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

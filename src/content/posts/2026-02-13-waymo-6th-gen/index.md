@@ -24,25 +24,17 @@ Waymo가 6세대 자율 주행 시스템(6th-generation driver)을 탑재한 차
 
 Waymo의 이번 6세대 시스템 도입은 자율 주행 기술의 상용화를 앞당기는 중요한 이정표가 될 것으로 보입니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

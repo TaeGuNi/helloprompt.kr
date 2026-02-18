@@ -6,17 +6,17 @@ image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 ---
 
-# (Updated) (Updated) (Updated) 제로 샷(Zero Shot) vs 퓨 샷(Few Shot) 프롬프팅 {#zero-shot}
+# 제로 샷(Zero Shot) vs 퓨 샷(Few Shot) 프롬프팅 {#zero-shot}
 
-## (Updated) (Updated) (Updated) 소개 (Introduction) {#introduction}
+## 소개 (Introduction) {#introduction}
 
 대규모 언어 모델(LLM) 엔지니어링의 급격히 진화하는 환경에서, 프롬프트를 구성하는 방식은 우리가 선택하는 모델만큼이나 중요합니다. AI 기반 애플리케이션을 구축하는 개발자에게 있어 **제로 샷(Zero Shot)**과 **퓨 샷(Few Shot)** 프롬프팅 사이의 미묘한 차이를 이해하는 것은 성능과 정확도를 최적화하는 데 필수적입니다. GPT-4나 Gemini와 같은 최신 모델들이 원시적인 지침(raw instructions)을 이해하는 능력이 점점 향상되고 있지만, 모델에 쿼리를 보내는 기법은 결과물의 품질을 크게 변화시킬 수 있습니다.
 
 이 글에서는 두 가지 접근 방식의 메커니즘을 살펴보고, 언제 모델의 내재된 지식에 의존해야 할지, 그리고 언제 구체적인 예시를 제공해야 할지 결정하는 데 도움을 드리고자 합니다.
 
-## (Updated) (Updated) (Updated) 분석 (Analysis) {#analysis}
+## 분석 (Analysis) {#analysis}
 
-### (Updated) (Updated) (Updated) 제로 샷(Zero Shot) 프롬프팅 {#zero-shot}
+### 제로 샷(Zero Shot) 프롬프팅 {#zero-shot}
 
 제로 샷 프롬프팅은 사전 예시 없이 모델에 작업을 제시하는 방식입니다. 본질적으로 모델의 사전 학습된 지식 기반과 지침을 즉각적으로("cold") 따르는 능력에 전적으로 의존하는 것입니다.
 
@@ -35,7 +35,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 - **모호성:** 모델이 원하는 형식이나 톤을 잘못 해석할 수 있습니다.
 - **일관성 부족:** 복잡한 출력에 대해 엄격한 스키마 준수를 강제하기 어렵습니다.
 
-### (Updated) (Updated) (Updated) 퓨 샷(Few Shot) 프롬프팅 {#few-shot}
+### 퓨 샷(Few Shot) 프롬프팅 {#few-shot}
 
 퓨 샷 프롬프팅(인컨텍스트 러닝이라고도 함)은 실제 쿼리 전에 작업을 설명하는 일련의 예시(shots)를 모델에 제공하는 것을 포함합니다. 이러한 예시들은 모델이 따라야 할 패턴 역할을 합니다.
 
@@ -62,20 +62,14 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 
 제로 샷은 일반적인 대화나 간단한 분류에는 충분하지만, 다단계 추론이 필요한 로직에서는 어려움을 겪는 경우가 많습니다. 이는 프롬프트 엔지니어링에서 중요한 깨달음을 줍니다: **퓨 샷 프롬프팅은 복잡한 추론 작업의 신뢰성을 획기적으로 향상시킵니다.** 단순히 '말하는' 것이 아니라 '보여줌'으로써, 모델의 추론 과정을 근거 있게 만들고 요구 사항에서 벗어날 가능성을 훨씬 낮춥니다.
 
-## (Updated) (Updated) (Updated) 결론 (Conclusion) {#conclusion}
+## 결론 (Conclusion) {#conclusion}
 
 제로 샷과 퓨 샷 프롬프팅 중 하나를 선택하는 것은 효율성과 신뢰성 사이의 트레이드오프(trade-off)입니다. 창의성이나 일반적인 지식으로 충분한 간단하고 개방형 작업에는 **제로 샷**으로 시작하십시오. 그러나 엄격한 형식, 복잡한 로직 또는 높은 신뢰성을 요구하는 프로덕션급 애플리케이션을 구축할 때는 **퓨 샷** 프롬프팅이 더 우수한 선택입니다.
 
 모델이 계속 발전함에 따라 제로 샷 성능도 향상되겠지만, 현재로서는 잘 선택된 몇 가지 예시가 AI의 행동을 제어하기 위한 개발자의 무기 중 가장 강력한 도구로 남아 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

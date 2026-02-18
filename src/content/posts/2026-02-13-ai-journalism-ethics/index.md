@@ -18,7 +18,7 @@ _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#summary}
+## ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Trust but Verify:** AI가 생성한 모든 사실(Fact)은 반드시 교차 검증해야 합니다.
 2.  **Bias Awareness:** AI는 학습 데이터의 편향을 그대로 반영할 수 있음을 인지하고, 이를 탐지하는 프로세스를 갖춰야 합니다.
@@ -53,7 +53,7 @@ _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
+## 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 
@@ -62,14 +62,8 @@ AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 
 결국 저널리즘의 가치는 '진실을 추구하는 태도'에 있으며, 이는 알고리즘이 아닌 인간만이 가질 수 있는 덕목입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -32,20 +32,14 @@ tags: ["AI", "Tech", "ai-privacy-leaks"]
 
 음성 비서(Voice assistants)는 우리 사적 공간에 '핫 마이크(hot-mics)'가 존재하는 것을 일상화했습니다. 대부분의 공급업체는 처리가 로컬에서 이루어지거나 호출어(wake words)에 의해서만 트리거된다고 주장하지만, 호출어 없이 기기가 녹음하는 "오인식(false accepts)"의 실제 발생 빈도는 통계적으로 유의미합니다. 개발자 입장에서 이는 스마트 스피커 근처에서 독점 코드나 영업 비밀에 대해 논의하는 것이 정보 유출의 위험을 내포하고 있음을 의미합니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 현대 스마트 디바이스의 아키텍처는 종종 "먼저 수집하고, 나중에 묻는" 방식을 기본으로 합니다. 개발자로서 우리는 이러한 패러다임을 뒤집을 책임이 있습니다. 우리는 민감한 데이터가 사용자의 LAN을 벗어나지 않도록 하는 **설계 단계에서의 프라이버시(Privacy by Design)**와 로컬 우선 처리(Edge AI)를 옹호해야 합니다.
 
 AI와 심층 생체 센서의 결합은 피할 수 없지만, 그 데이터의 노출은 피할 수 있습니다. 우리는 사용자의 물리적, 정신적 공간의 신성함을 존중하는 시스템을 구축해야 합니다. 그렇지 않다면, 우리는 기기가 우리 자신보다 우리를 더 잘 알고, 그 지식을 가장 높은 가격을 부르는 입찰자에게 판매하는 미래를 만들게 될 위험이 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

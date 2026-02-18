@@ -38,14 +38,8 @@ AI 도구는 다음과 같은 작업도 도와줍니다:
 
 지루한 스크립트는 이제 그만두세요. 멋진 경험을 만드세요.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

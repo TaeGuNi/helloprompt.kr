@@ -25,7 +25,7 @@ _"고객의 불평 속에 돈이 숨어 있다."_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 경쟁사 리뷰 데이터를 긁어온다. (크롤링 툴 or 텍스트 복사)
 2. AI에게 "불만 사항"과 "칭찬 사항"을 분류하고 요약하라고 시킨다.
@@ -73,13 +73,13 @@ _"고객의 불평 속에 돈이 숨어 있다."_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 특히 **크롤링한 엑셀 데이터**와 함께 쓸 때 강력합니다. Claude나 GPT-4의 Code Interpreter(Advanced Data Analysis) 기능을 켜고 엑셀 파일을 업로드한 뒤 이 프롬프트를 사용해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -87,14 +87,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

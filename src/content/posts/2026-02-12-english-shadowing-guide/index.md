@@ -9,7 +9,7 @@ description: "미드 보면서 영어 공부? 그냥 보면 안 늘어요. 대�
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 🗣️ 영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기 {#shadowing}
+# 🗣️ 영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기 {#shadowing}
 
 - **🎯 추천 대상:** 자막 없이 미드 보는 게 소원인 사람, 쉐도잉 좋다는 건 아는데 귀찮아서 안 하는 사람
 - **⏱️ 소요 시간:** 5분 (스크립트 분석)
@@ -25,7 +25,7 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  넷플릭스 확장 프로그램(Language Reactor)으로 대사를 복사한다.
 2.  AI에게 **"이 문장 발음이랑 뉘앙스 분석해줘"**라고 한다.
@@ -61,14 +61,14 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 쉐도잉의 핵심은 **'연음(Linking)'**입니다.
 단어를 하나하나 끊어 읽으면 로봇 같습니다. "Check it out"을 "체크 잇 아웃"이 아니라 **"체키라웃"**으로 읽어야 들립니다. AI에게 "이거 한국어로 소리 나는 대로 적어줘"라고 시키는 게 치트키입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 넷플릭스 대본은 어떻게 따나요?**
   - A: 크롬 확장 프로그램 **'Language Reactor'**를 설치하면 자막 전체를 엑셀로 내보낼 수 있습니다.
@@ -78,7 +78,7 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **연음 법칙 요청:** 한국인이 가장 어려워하는 '여름(Summer) 말고 연음'을 콕 집어 물어봄으로써, 실질적인 리스닝 실력을 향상시킵니다.
 2.  **감정선 분석:** 언어는 감정입니다. "화난 말투로"라는 가이드를 받으면, 단순히 글자를 읽는 게 아니라 **'연기'**를 하게 되어 기억에 오래 남습니다.
@@ -97,21 +97,15 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 미드는 보는 게 아닙니다. **입으로 하는 겁니다.**
 오늘 밤, 넷플릭스를 켜고 AI 코치와 함께 연기 수업을 시작하세요.
 
 **"You talking to me?"** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

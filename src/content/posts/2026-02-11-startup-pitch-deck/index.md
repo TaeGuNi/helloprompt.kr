@@ -25,7 +25,7 @@ _"그래서 한마디로 뭡니까? 구글입니까, 배민입니까?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Problem:** 세상에 이런 끔찍한 문제가 있다. (공감)
 2.  **Solution:** 우리가 기가 막히게 해결했다. (솔루션)
@@ -69,7 +69,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 가장 중요한 건 **'Why Now(왜 지금인가)'**입니다.
 "왜 3년 전에는 안 됐고, 왜 3년 뒤면 늦는가?"
@@ -77,7 +77,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 디자인은 어떻게 하죠?**
   - A: **Gamma**나 **Canva** 같은 AI 툴을 쓰세요. 텍스트만 넣으면 PPT가 나옵니다. 내용은 이 프롬프트로 짜고, 디자인은 툴에게 맡기세요.
@@ -87,7 +87,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **YC 스타일:** "Y-Combinator"를 언급하면, AI가 가장 표준적이고 직관적인 구조(세쿼이아 캐피탈 스타일)를 따릅니다.
 2.  **TAM/SAM/SOM:** 시장 규모를 3단계로 쪼개는 전문 용어를 쓰면, AI도 그에 맞춰 구체적인 수치를 추정해 줍니다.
@@ -108,7 +108,7 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 사업은 '설득'의 연속입니다.
 투자자, 직원, 고객을 설득해야 합니다.
@@ -116,14 +116,8 @@ IR 자료를 만들 때.
 AI에게 당신의 비전을 이야기하세요.
 **가장 매혹적인 이야기**로 바꿔줄 겁니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

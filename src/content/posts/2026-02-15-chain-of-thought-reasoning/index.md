@@ -6,7 +6,7 @@ image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 ---
 
-# (Updated) (Updated) (Updated) 생각의 사슬(Chain of Thought) 추론 {#chain-of-thought}
+# 생각의 사슬(Chain of Thought) 추론 {#chain-of-thought}
 
 ## (Updated) (Updated) (Updated) 소개 {#updated}
 
@@ -35,20 +35,14 @@ AI 기반 애플리케이션을 구축하는 개발자에게 CoT는 몇 가지 �
 - **표준 프롬프트:** "개발자가 시간당 10줄의 코드를 작성하고 6시간 동안 일하지만, 디버깅에 2시간을 소비한다면(이때 새로운 코드는 작성되지 않음), 작성된 코드는 몇 줄인가?" -> 모델이 환각을 일으키거나 잘못 계산할 수 있음.
 - **CoT 프롬프트:** "개발자가 시간당 10줄의 코드를 작성하고 6시간 동안 일하지만, 디버깅에 2시간을 소비한다면(이때 새로운 코드는 작성되지 않음), 작성된 코드는 몇 줄인가? **단계별로 생각해 보자.**" -> 모델이 작업 시간을 분석하고(6-2=4) 계산함(4\*10=40).
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 생각의 사슬 추론은 단순한 영리한 요령 그 이상입니다. 이는 현대 LLM의 진정한 잠재력을 깨우는 근본적인 기술입니다. 더 복잡한 에이전트와 시스템을 구축함에 따라, 모델을 논리적 순서로 안내하는 능력은 모델의 원시 파라미터 수만큼이나 중요해질 것입니다.
 
 개발자에게 있어 CoT를 마스터하는 것은 명확하고 모듈화된 코드를 작성하는 법을 배우는 것과 유사합니다. 이는 여러분의 AI 통합이 단순히 강력할 뿐만 아니라 논리적이고 투명하며 신뢰할 수 있음을 보장합니다. 단순히 모델에게 풀이 과정을 보여달라고 요청함으로써, 우리는 그들을 텍스트 예측기에서 추론 파트너로 격상시킬 수 있습니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

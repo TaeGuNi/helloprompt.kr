@@ -9,7 +9,7 @@ description: "서버비 아끼려다 속도 느려져서 욕먹는 당신. 람�
 tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 ---
 
-# (Updated) (Updated) (Updated) ⚡️ 서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법 {#serverless}
+# ⚡️ 서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법 {#serverless}
 
 - **🎯 추천 대상:** "처음 접속할 때만 느려요"라는 VOC에 시달리는 개발자, 서버 관리하기 귀찮아서 람다로 도망친 사람
 - **⏱️ 소요 시간:** 10분 (설정 변경)
@@ -25,7 +25,7 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **메모리:** 메모리를 늘리면 CPU도 같이 늘어서 빨라진다.
 2.  **언어:** 자바(Java)보다 **Go**나 **Node.js**가 시동이 빠르다.
@@ -33,9 +33,9 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Lambda Tuner Prompt" {#updated}
+## 🚀 해결책: "Lambda Tuner Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (메모리 튜닝) {#updated}
+### 🥉 Basic Version (메모리 튜닝) {#updated}
 
 돈으로 해결하기.
 
@@ -44,7 +44,7 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (코드 레벨 최적화 & 스냅샷) {#updated}
+### 🥇 Pro Version (코드 레벨 최적화 & 스냅샷) {#updated}
 
 근본적인 다이어트.
 
@@ -60,7 +60,7 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 가장 확실한 방법은 **'Provisioned Concurrency'**입니다.
 "서버 1개는 항상 켜놔"라고 돈을 내고 예약하는 겁니다. (서버리스의 취지와 좀 안 맞지만...)
@@ -68,7 +68,7 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: VPC 안에 넣으면 느려지나요?**
   - A: 옛날엔 그랬습니다(ENI 생성 시간). 하지만 최근 AWS 업데이트로 거의 차이 없어졌습니다. 안심하고 넣으세요.
@@ -78,26 +78,26 @@ _"서버리스라며? 왜 이렇게 느려?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **번들 사이즈:** 콜드 스타트의 주범은 '코드 다운로드 시간'입니다. AI에게 "트리 쉐이킹(Tree Shaking)"을 요구해서 뚱뚱한 코드를 다이어트시키는 게 핵심입니다.
 2.  **SnapStart:** 최신 기술(SnapStart)을 언급하면, AI가 단순 튜닝을 넘어선 고급 기능(CRaC 등)을 제안해 줍니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (통통한 람다) {#updated}
+### ❌ Before (통통한 람다) {#updated}
 
 `import AWS from 'aws-sdk'` (전체 로드) -> 용량 50MB -> 콜드 스타트 1.5초 🐢
 
-### (Updated) (Updated) (Updated) ✅ After (날씬한 람다) {#updated}
+### ✅ After (날씬한 람다) {#updated}
 
 `import { S3Client } from '@aws-sdk/client-s3'` (필요한 것만) -> 용량 1MB -> 콜드 스타트 **0.2초** 🚀
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 서버리스는 공짜 점심이 아닙니다.
 게으른 개발자에게는 느린 속도를, 부지런한 개발자에게는 무한한 확장을 줍니다.
@@ -105,14 +105,8 @@ _"서버리스라며? 왜 이렇게 느려?"_
 AI와 함께 람다를 튜닝하세요.
 **당신의 서버는 빛의 속도로 켜져야 합니다.** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

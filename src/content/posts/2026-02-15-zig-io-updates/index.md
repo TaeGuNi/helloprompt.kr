@@ -18,7 +18,7 @@ Zig 언어의 I/O 시스템은 그동안 꾸준히 발전해 왔습니다. 이�
 
 오랫동안 기다려온 `std.io` 모듈의 안정화 작업이 마무리 단계에 접어들었습니다. 이제 파일 시스템 조작과 네트워크 소켓 처리가 더욱 일관된 API를 제공합니다.
 
-### (Updated) (Updated) (Updated) 2. 비동기 I/O (Async I/O) 개선 {#async-i-o}
+### 2. 비동기 I/O (Async I/O) 개선 {#async-i-o}
 
 Linux의 `io_uring`과 Windows의 `IOCP`를 아우르는 통합 이벤트 루프가 더욱 강력해졌습니다.
 
@@ -36,14 +36,8 @@ Zig 팀은 1.0 버전을 향해 달려가고 있으며, I/O 시스템의 안정�
 
 더 자세한 내용은 공식 Zig 뉴스레터나 GitHub 저장소를 참고해 주세요.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

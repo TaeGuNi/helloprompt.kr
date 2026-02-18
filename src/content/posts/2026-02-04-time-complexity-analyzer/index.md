@@ -9,7 +9,7 @@ description: "작성한 알고리즘의 시간 복잡도와 공간 복잡도를 
 tags: ["알고리즘", "시간복잡도", "Big-O", "성능최적화", "CS지식"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 내 코드의 시간 복잡도(Big O)는 얼마일까? {#big-o}
+# 📝 내 코드의 시간 복잡도(Big O)는 얼마일까? {#big-o}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -27,7 +27,7 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 시간 복잡도 및 공간 복잡도 정확히 계산 (Big-O)
 2. 성능 병목 구간(Bottleneck) 식별
@@ -74,7 +74,7 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -121,14 +121,14 @@ def find_duplicate_optimized(nums):
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -138,19 +138,13 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 "돌아가니까 됐어"라는 생각은 이제 그만.
 보이지 않는 성능까지 챙기는 개발자가 진짜 고수입니다. AI 교수님의 피드백으로 알고리즘 근육을 키워보세요! 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

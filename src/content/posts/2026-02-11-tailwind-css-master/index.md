@@ -25,7 +25,7 @@ Tailwind CSS는 빠르지만, 클래스명을 외우는 게 고역입니다. 검
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  만들고 싶은 UI를 말로 설명한다. ("파란색 동그란 버튼")
 2.  AI가 `bg-blue-500 rounded-full` 같은 코드를 준다.
@@ -62,14 +62,14 @@ CSS를 Tailwind로 바꾸고 싶을 때.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**입니다.
 직접 짜려면 미디어 쿼리(`@media`) 쓰고 난리 나지만, Tailwind는 `md:flex`, `dark:bg-black` 접두어만 붙이면 됩니다. AI에게 "모바일 대응해줘", "다크 모드 넣어줘"라고 꼭 시키세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 클래스가 너무 길어져서 보기 싫어요.**
   - A: `cva` (Class Variance Authority)나 `clsx` 라이브러리를 써서 정리하거나, AI에게 "코드가 너무 기니까 커스텀 클래스(`@apply`)로 묶어줘"라고 요청하세요.
@@ -79,7 +79,7 @@ Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **반응형 요구:** `PC`와 `모바일` 레이아웃을 따로 명시하면, AI가 `md:`, `lg:` 같은 브레이크포인트 접두어를 알아서 붙여줍니다. (이게 진짜 편합니다.)
 2.  **인터랙션(Hover):** 정적인 디자인뿐만 아니라 "마우스 올리면" 같은 동적 효과를 요구하면 `hover:`, `active:`, `focus:` 클래스까지 챙겨줍니다.
@@ -88,11 +88,11 @@ Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**
 
 ## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (CSS 파일 왔다 갔다) {#css}
+### ❌ Before (CSS 파일 왔다 갔다) {#css}
 
 `styles.css` 열어서 `.card { ... }` 작성하고, `App.js` 가서 `className="card"` 넣고... (왔다 갔다 하느라 정신없음 🤯)
 
-### (Updated) (Updated) (Updated) ✅ After (Tailwind)
+### ✅ After (Tailwind)
 
 **나:** "카드 컴포넌트 줘. 그림자 있고 둥글게."
 **AI:** `<div className="rounded-xl shadow-md p-6 bg-white">...</div>`
@@ -100,7 +100,7 @@ Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 CSS 파일을 만들지 않는 자유.
 클래스명 짓기 고민에서 해방되는 자유.
@@ -108,14 +108,8 @@ CSS 파일을 만들지 않는 자유.
 Tailwind와 AI가 만나면,
 **디자인이 곧 코드**가 됩니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

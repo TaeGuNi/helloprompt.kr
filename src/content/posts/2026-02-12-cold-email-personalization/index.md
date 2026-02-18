@@ -25,7 +25,7 @@ _"스팸함으로 직행하지 않는 유일한 방법은 '진짜 편지'를 쓰
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 타겟 고객의 링크드인/뉴스 기사를 긁어온다.
 2. AI에게 "이 사람이 최근 관심을 갖는 주제"와 "내 제품의 접점"을 연결하라고 시킨다.
@@ -71,13 +71,13 @@ AIDA 모델(Attention-Interest-Desire-Action)을 적용합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 "미팅 요청"보다 "가치 제공(자료 공유)"으로 접근했을 때 응답률이 3배 이상 높았습니다. AI에게는 "판매하지 말고, 도와줘라(Help, Don't Sell)"라고 지시하세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -85,14 +85,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

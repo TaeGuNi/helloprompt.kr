@@ -121,17 +121,17 @@ export default function ChatPage() {
 }
 ```
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 결론 {#conclusion}
+## (Updated) 결론 {#conclusion}
 
 Tambo SDK를 사용하면 복잡한 로직 없이도 AI가 여러분의 React 컴포넌트를 자유자재로 다루게 할 수 있습니다. 채팅창은 더 이상 텍스트만의 공간이 아닙니다. 이제 앱의 기능을 대화 속으로 가져오세요.
 
 더 자세한 내용은 [Tambo 공식 문서](https://tambo.dev)를 참고하세요.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -139,25 +139,17 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

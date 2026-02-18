@@ -9,7 +9,7 @@ description: "RAG로는 부족할 때. Llama 3나 Mistral 모델을 내 데이�
 tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 ---
 
-# (Updated) (Updated) (Updated) 🧠 LLM 파인튜닝(Fine-tuning) 가이드: 나만의 뇌 만들기 {#fine-tuning}
+# 🧠 LLM 파인튜닝(Fine-tuning) 가이드: 나만의 뇌 만들기 {#fine-tuning}
 
 - **🎯 추천 대상:** "우리 회사는 보안 때문에 외부 AI 못 써요" 하는 CTO, 특정 도메인(법률, 의료)에 특화된 AI가 필요한 개발자
 - **⏱️ 소요 시간:** 1시간 (코랩 무료 GPU 기준)
@@ -25,7 +25,7 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **데이터 준비:** 질문(Input)과 답변(Output) 쌍을 100개 이상 만든다.
 2.  **학습:** 구글 코랩에서 `Unsloth`로 Llama 3 모델을 로드하고 데이터를 먹인다.
@@ -63,14 +63,14 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 파인튜닝의 핵심은 **'데이터의 질'**입니다.
 쓰레기를 넣으면 쓰레기가 나옵니다(GIGO). 1만 개의 엉터리 데이터보다, 사람이 직접 검수한 **100개의 고품질 데이터**가 훨씬 똑똑한 모델을 만듭니다. 처음엔 50개로 시작해서 조금씩 늘려가세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: GPU 없어도 되나요?**
   - A: 학습(Training)은 GPU가 필수입니다. 코랩 무료 버전(T4)으로도 8B 모델 정도는 가능합니다.
@@ -80,7 +80,7 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Unsloth 추천:** 현재 파인튜닝 생태계에서 가장 빠르고 메모리를 적게 먹는 라이브러리입니다. 이걸 명시하면 AI가 최신 트렌드에 맞는 효율적인 코드를 짜줍니다.
 2.  **4비트 양자화:** "4bit"를 언급함으로써, 고가의 장비 없이도 무료 GPU에서 돌아가는 현실적인 코드를 얻을 수 있습니다.
@@ -89,7 +89,7 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 
 ## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (기본 Llama 3) {#llama-3}
+### ❌ Before (기본 Llama 3) {#llama-3}
 
 "운동 좀 알려줘." -> "운동은 건강에 좋습니다. 유산소와 근력을 병행하세요." (교과서 답변 🤖)
 
@@ -99,7 +99,7 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 나만의 AI를 갖는다는 것.
 그것은 **"나의 분신"**을 만드는 일입니다.
@@ -107,14 +107,8 @@ _"RAG(검색 증강)도 좋은데... 말투나 사고방식 자체를 바꾸고 
 내 말투, 내 지식, 내 철학을 담은 AI.
 오늘 밤, 코랩에서 태어나게 하세요. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -25,7 +25,7 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 책 쓰기의 가장 큰 장벽은 '어떻게 구성할까'라는 막막함입니다.
 2. 베스트셀러 편집장 페르소나를 활용해 매력적인 컨셉과 목차를 기획하세요.
@@ -65,7 +65,7 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -89,15 +89,14 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 ---
 
-
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -106,19 +105,13 @@ A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘�
 A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합니다.
 
 ---
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 목차만 봐도 벌써 책 한 권 다 쓴 기분이 들지 않나요? 이제 하루에 한 꼭지씩 채우기만 하면 됩니다.
 ```
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

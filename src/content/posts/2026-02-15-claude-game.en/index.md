@@ -5,11 +5,11 @@ date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---
 
-# (Updated) (Updated) (Updated) Building a Golf Game with Claude Code
+# Building a Golf Game with Claude Code
 
 The landscape of game development is shifting rapidly. With tools like **Claude Code**, the barrier to entry for creating complex, interactive experiences has never been lower. In this post, I'll walk you through how I built a 2D golf game using Claude Code as my primary development partner.
 
-## (Updated) (Updated) (Updated) Why Claude Code?
+## Why Claude Code?
 
 Claude Code isn't just an autocomplete engine; it's a reasoning agent capable of understanding architectural patterns in game development. For this project, I wanted to test its ability to handle:
 
@@ -17,7 +17,7 @@ Claude Code isn't just an autocomplete engine; it's a reasoning agent capable of
 - Game state management (scores, turns, levels)
 - Rendering logic (HTML5 Canvas)
 
-## (Updated) (Updated) (Updated) The Setup
+## The Setup
 
 I started with a simple prompt:
 
@@ -29,7 +29,7 @@ Claude didn't just spit out a snippet; it provided a structured setup:
 2. `game.js` encapsulation the game loop.
 3. `physics.js` for handling the vector math.
 
-## (Updated) (Updated) (Updated) Step 1: The Physics Engine
+## Step 1: The Physics Engine
 
 The core of any golf game is the "feel" of the ball. I asked Claude to implement a simple friction model.
 
@@ -50,25 +50,25 @@ update() {
 
 It correctly identified the need for damping velocity over time to simulate grass resistance.
 
-## (Updated) (Updated) (Updated) Step 2: Input Handling
+## Step 2: Input Handling
 
 Implementing the "drag-to-shoot" mechanic usually involves tedious event listener management. Claude suggested a visual indicator line to show power and direction before the shot.
 
 It handled `mousedown`, `mousemove`, and `mouseup` events seamlessly, calculating the angle between the mouse pointer and the ball to determine the impulse vector.
 
-## (Updated) (Updated) (Updated) Step 3: Level Design
+## Step 3: Level Design
 
 Here is where it got interesting. I asked, "Generate 3 distinct levels with increasing difficulty, adding obstacles."
 
 Claude introduced an `Obstacle` class and an array of level configurations. Level 1 was an open field. Level 2 added a central block. Level 3 created a narrow corridor. The code was modular enough that adding Level 4 took me seconds.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
 Building this golf game took less than an hour. The code is clean, commented, and easy to extend. Claude Code didn't just write the code; it acted as a senior developer pairing with me, suggesting improvements to the game loop and modularizing the physics logic.
 
 If you haven't tried AI-assisted game dev yet, now is the time.
 
-## (Updated) (Updated) (Updated) Future Improvements
+## Future Improvements
 
 - Adding wind mechanics.
 - Multiplayer support via WebSockets.
@@ -76,14 +76,8 @@ If you haven't tried AI-assisted game dev yet, now is the time.
 
 Happy coding!
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

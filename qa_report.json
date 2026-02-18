@@ -1,0 +1,1622 @@
+[
+  {
+    "slug": "2026-02-13-ai-art-fusion",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-ai-art-fusion",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-ai-art-fusion.png"
+  },
+  {
+    "slug": "2026-02-13-ai-healthcare-personalized",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-ai-healthcare-personalized",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-ai-healthcare-personalized.png"
+  },
+  {
+    "slug": "2026-02-13-ai-journalism-ethics",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-ai-journalism-ethics",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-ai-journalism-ethics.png"
+  },
+  {
+    "slug": "2026-02-13-ai-refactoring",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-ai-refactoring",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-ai-refactoring.png"
+  },
+  {
+    "slug": "2026-02-13-deepfake-ethics-consent.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-deepfake-ethics-consent.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-deepfake-ethics-consent.md.png"
+  },
+  {
+    "slug": "2026-02-13-ethical-ai-regulation",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-ethical-ai-regulation",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-ethical-ai-regulation.png"
+  },
+  {
+    "slug": "2026-02-13-generative-ui-design",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-generative-ui-design",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-generative-ui-design.png"
+  },
+  {
+    "slug": "2026-02-13-micro-frontends",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-micro-frontends",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-micro-frontends.png"
+  },
+  {
+    "slug": "2026-02-13-prompt-engineering-3-intent",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-prompt-engineering-3-intent",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-prompt-engineering-3-intent.png"
+  },
+  {
+    "slug": "2026-02-13-python-3-14",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-python-3-14",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-python-3-14.png"
+  },
+  {
+    "slug": "2026-02-13-rust-web",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-rust-web",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-rust-web.png"
+  },
+  {
+    "slug": "2026-02-13-serverless-edge",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-serverless-edge",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-serverless-edge.png"
+  },
+  {
+    "slug": "2026-02-13-slm-edge",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-slm-edge",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-slm-edge.png"
+  },
+  {
+    "slug": "2026-02-13-sora-2-video-revolution",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-sora-2-video-revolution",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-sora-2-video-revolution.png"
+  },
+  {
+    "slug": "2026-02-13-sovereign-ai-edge-computing",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-sovereign-ai-edge-computing",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-sovereign-ai-edge-computing.png"
+  },
+  {
+    "slug": "2026-02-13-waymo-6th-gen",
+    "url": "https://www.helloprompt.kr/posts/2026-02-13-waymo-6th-gen",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-13-waymo-6th-gen.png"
+  },
+  {
+    "slug": "2026-02-14-ai-agents-swarms",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-agents-swarms",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-agents-swarms.png"
+  },
+  {
+    "slug": "2026-02-14-ai-ethics-deepfake",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-ethics-deepfake",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-ethics-deepfake.png"
+  },
+  {
+    "slug": "2026-02-14-ai-fatigue",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-fatigue",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-fatigue.png"
+  },
+  {
+    "slug": "2026-02-14-ai-fatigue-reality",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-fatigue-reality",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-fatigue-reality.png"
+  },
+  {
+    "slug": "2026-02-14-ai-healthcare-diagnosis",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-healthcare-diagnosis",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-healthcare-diagnosis.png"
+  },
+  {
+    "slug": "2026-02-14-ai-relationship-ethics",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-relationship-ethics",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-relationship-ethics.png"
+  },
+  {
+    "slug": "2026-02-14-ai-search-wars",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-search-wars",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-search-wars.png"
+  },
+  {
+    "slug": "2026-02-14-ai-slop-fatigue",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-slop-fatigue",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-slop-fatigue.png"
+  },
+  {
+    "slug": "2026-02-14-ai-social-crisis",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ai-social-crisis",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ai-social-crisis.png"
+  },
+  {
+    "slug": "2026-02-14-autogpt-2-agents.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-autogpt-2-agents.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-autogpt-2-agents.md.png"
+  },
+  {
+    "slug": "2026-02-14-ax-reality",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-ax-reality",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-ax-reality.png"
+  },
+  {
+    "slug": "2026-02-14-claude-4-5-context.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-claude-4-5-context.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-claude-4-5-context.md.png"
+  },
+  {
+    "slug": "2026-02-14-code-agents-evolution",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-code-agents-evolution",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-code-agents-evolution.png"
+  },
+  {
+    "slug": "2026-02-14-dall-e-4-integration.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-dall-e-4-integration.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-dall-e-4-integration.md.png"
+  },
+  {
+    "slug": "2026-02-14-gemini-3-pro-prompting.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-gemini-3-pro-prompting.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-gemini-3-pro-prompting.md.png"
+  },
+  {
+    "slug": "2026-02-14-generative-movies-hollywood",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-generative-movies-hollywood",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-generative-movies-hollywood.png"
+  },
+  {
+    "slug": "2026-02-14-github-copilot-x2.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-github-copilot-x2.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-github-copilot-x2.md.png"
+  },
+  {
+    "slug": "2026-02-14-infra-truth",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-infra-truth",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-infra-truth.png"
+  },
+  {
+    "slug": "2026-02-14-local-llm-mobile",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-local-llm-mobile",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-local-llm-mobile.png"
+  },
+  {
+    "slug": "2026-02-14-meta-smart-glasses",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-meta-smart-glasses",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-meta-smart-glasses.png"
+  },
+  {
+    "slug": "2026-02-14-midjourney-v8-style.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-midjourney-v8-style.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-midjourney-v8-style.md.png"
+  },
+  {
+    "slug": "2026-02-14-open-source-llama4",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-open-source-llama4",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-open-source-llama4.png"
+  },
+  {
+    "slug": "2026-02-14-openai-o3-reasoning.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-openai-o3-reasoning.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-openai-o3-reasoning.md.png"
+  },
+  {
+    "slug": "2026-02-14-openclaw-local-agents.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-openclaw-local-agents.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-openclaw-local-agents.md.png"
+  },
+  {
+    "slug": "2026-02-14-personalized-ai-tutors",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-personalized-ai-tutors",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-personalized-ai-tutors.png"
+  },
+  {
+    "slug": "2026-02-14-physical-ai-reality",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-physical-ai-reality",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-physical-ai-reality.png"
+  },
+  {
+    "slug": "2026-02-14-physical-ai-robot",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-physical-ai-robot",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-physical-ai-robot.png"
+  },
+  {
+    "slug": "2026-02-14-quantum-ai-2026.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-quantum-ai-2026.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-quantum-ai-2026.md.png"
+  },
+  {
+    "slug": "2026-02-14-quantum-ai-breakthroughs",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-quantum-ai-breakthroughs",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-quantum-ai-breakthroughs.png"
+  },
+  {
+    "slug": "2026-02-14-rust-2026.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-rust-2026.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-rust-2026.md.png"
+  },
+  {
+    "slug": "2026-02-14-samsung-galaxy-s26-ai",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-samsung-galaxy-s26-ai",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-samsung-galaxy-s26-ai.png"
+  },
+  {
+    "slug": "2026-02-14-samsung-s26-vs-apple",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-samsung-s26-vs-apple",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-samsung-s26-vs-apple.png"
+  },
+  {
+    "slug": "2026-02-14-singularity-trap",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-singularity-trap",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-singularity-trap.png"
+  },
+  {
+    "slug": "2026-02-14-smart-glasses-meta",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-smart-glasses-meta",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-smart-glasses-meta.png"
+  },
+  {
+    "slug": "2026-02-14-sustainable-ai-computing",
+    "url": "https://www.helloprompt.kr/posts/2026-02-14-sustainable-ai-computing",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-14-sustainable-ai-computing.png"
+  },
+  {
+    "slug": "2026-02-15-7zip-malware-alert",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-7zip-malware-alert",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-7zip-malware-alert.png"
+  },
+  {
+    "slug": "2026-02-15-agentic-workflow-design",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-agentic-workflow-design",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-agentic-workflow-design.png"
+  },
+  {
+    "slug": "2026-02-15-ai-agent-swarms-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-agent-swarms-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-agent-swarms-2026.png"
+  },
+  {
+    "slug": "2026-02-15-ai-coding-agent-survival.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-coding-agent-survival.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-coding-agent-survival.md.png"
+  },
+  {
+    "slug": "2026-02-15-ai-hallucinations-journalism",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-hallucinations-journalism",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-hallucinations-journalism.png"
+  },
+  {
+    "slug": "2026-02-15-ai-meeting-notes",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-meeting-notes",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-meeting-notes.png"
+  },
+  {
+    "slug": "2026-02-15-ai-privacy-leaks",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-privacy-leaks",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-privacy-leaks.png"
+  },
+  {
+    "slug": "2026-02-15-ai-scraping-block",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ai-scraping-block",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ai-scraping-block.png"
+  },
+  {
+    "slug": "2026-02-15-apple-intel-2",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-apple-intel-2",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-apple-intel-2.png"
+  },
+  {
+    "slug": "2026-02-15-ars-technica-ai-fake-quotes",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ars-technica-ai-fake-quotes",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ars-technica-ai-fake-quotes.png"
+  },
+  {
+    "slug": "2026-02-15-breaking-vibe-coding-spell",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-breaking-vibe-coding-spell",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-breaking-vibe-coding-spell.png"
+  },
+  {
+    "slug": "2026-02-15-c-vector-database",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-c-vector-database",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-c-vector-database.png"
+  },
+  {
+    "slug": "2026-02-15-chain-of-thought",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-chain-of-thought",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-chain-of-thought.png"
+  },
+  {
+    "slug": "2026-02-15-chain-of-thought-reasoning",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-chain-of-thought-reasoning",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-chain-of-thought-reasoning.png"
+  },
+  {
+    "slug": "2026-02-15-claude-game.en.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-claude-game.en.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-claude-game.en.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-claude-game.ko.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-claude-game.ko.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-claude-game.ko.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-context-window-optimization",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-context-window-optimization",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-context-window-optimization.png"
+  },
+  {
+    "slug": "2026-02-15-context-windows",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-context-windows",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-context-windows.png"
+  },
+  {
+    "slug": "2026-02-15-context-windows-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-context-windows-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-context-windows-2026.png"
+  },
+  {
+    "slug": "2026-02-15-data-eng-book.en.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-data-eng-book.en.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-data-eng-book.en.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-data-eng-book.ko.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-data-eng-book.ko.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-data-eng-book.ko.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-descent-web-port",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-descent-web-port",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-descent-web-port.png"
+  },
+  {
+    "slug": "2026-02-15-discord-performance",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-discord-performance",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-discord-performance.png"
+  },
+  {
+    "slug": "2026-02-15-edge-ai-privacy-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-edge-ai-privacy-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-edge-ai-privacy-2026.png"
+  },
+  {
+    "slug": "2026-02-15-eu-ai-act-2",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-eu-ai-act-2",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-eu-ai-act-2.png"
+  },
+  {
+    "slug": "2026-02-15-gemini-3-pelican-svg",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-gemini-3-pelican-svg",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-gemini-3-pelican-svg.png"
+  },
+  {
+    "slug": "2026-02-15-gemini-agent",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-gemini-agent",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-gemini-agent.png"
+  },
+  {
+    "slug": "2026-02-15-generative-ui-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-generative-ui-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-generative-ui-2026.png"
+  },
+  {
+    "slug": "2026-02-15-gpt-5-physics.en.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-gpt-5-physics.en.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-gpt-5-physics.en.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-gpt-5-physics.ko.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-gpt-5-physics.ko.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-gpt-5-physics.ko.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-gpt-6-leak",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-gpt-6-leak",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-gpt-6-leak.png"
+  },
+  {
+    "slug": "2026-02-15-graphrag-second-brain",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-graphrag-second-brain",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-graphrag-second-brain.png"
+  },
+  {
+    "slug": "2026-02-15-ibm-ai-hiring-limits",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-ibm-ai-hiring-limits",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-ibm-ai-hiring-limits.png"
+  },
+  {
+    "slug": "2026-02-15-internet-unarchivable",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-internet-unarchivable",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-internet-unarchivable.png"
+  },
+  {
+    "slug": "2026-02-15-interop-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-interop-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-interop-2026.png"
+  },
+  {
+    "slug": "2026-02-15-legacy-code-ai",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-legacy-code-ai",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-legacy-code-ai.png"
+  },
+  {
+    "slug": "2026-02-15-llm-distributed-systems",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-llm-distributed-systems",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-llm-distributed-systems.png"
+  },
+  {
+    "slug": "2026-02-15-local-llm-ollama",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-local-llm-ollama",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-local-llm-ollama.png"
+  },
+  {
+    "slug": "2026-02-15-midjourney-v7-consistency",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-midjourney-v7-consistency",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-midjourney-v7-consistency.png"
+  },
+  {
+    "slug": "2026-02-15-multimodal-prompting",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-multimodal-prompting",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-multimodal-prompting.png"
+  },
+  {
+    "slug": "2026-02-15-multimodal-reasoning-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-multimodal-reasoning-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-multimodal-reasoning-2026.png"
+  },
+  {
+    "slug": "2026-02-15-newpipe-algorithm-free",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-newpipe-algorithm-free",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-newpipe-algorithm-free.png"
+  },
+  {
+    "slug": "2026-02-15-nvidia-b200",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-nvidia-b200",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-nvidia-b200.png"
+  },
+  {
+    "slug": "2026-02-15-off-grid-mobile-ai",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-off-grid-mobile-ai",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-off-grid-mobile-ai.png"
+  },
+  {
+    "slug": "2026-02-15-offline-edge-ai-mobile",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-offline-edge-ai-mobile",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-offline-edge-ai-mobile.png"
+  },
+  {
+    "slug": "2026-02-15-openai-should-build-slack",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-openai-should-build-slack",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-openai-should-build-slack.png"
+  },
+  {
+    "slug": "2026-02-15-optimizing-context-windows",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-optimizing-context-windows",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-optimizing-context-windows.png"
+  },
+  {
+    "slug": "2026-02-15-prompt-chaining",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-prompt-chaining",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-prompt-chaining.png"
+  },
+  {
+    "slug": "2026-02-15-prompt-chaining-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-prompt-chaining-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-prompt-chaining-2026.png"
+  },
+  {
+    "slug": "2026-02-15-prompt-engineering-zero-shot-vs-few-shot",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-prompt-engineering-zero-shot-vs-few-shot",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-prompt-engineering-zero-shot-vs-few-shot.png"
+  },
+  {
+    "slug": "2026-02-15-prompt-injection-security",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-prompt-injection-security",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-prompt-injection-security.png"
+  },
+  {
+    "slug": "2026-02-15-quantum-ai-hybrids-2026",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-quantum-ai-hybrids-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-quantum-ai-hybrids-2026.png"
+  },
+  {
+    "slug": "2026-02-15-reducing-hallucinations",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-reducing-hallucinations",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-reducing-hallucinations.png"
+  },
+  {
+    "slug": "2026-02-15-role-playing-personas",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-role-playing-personas",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-role-playing-personas.png"
+  },
+  {
+    "slug": "2026-02-15-self-healing-cicd",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-self-healing-cicd",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-self-healing-cicd.png"
+  },
+  {
+    "slug": "2026-02-15-senior-reviewer-prompt",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-senior-reviewer-prompt",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-senior-reviewer-prompt.png"
+  },
+  {
+    "slug": "2026-02-15-smart-sleep-mask-leak",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-smart-sleep-mask-leak",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-smart-sleep-mask-leak.png"
+  },
+  {
+    "slug": "2026-02-15-smart-sleep-mask-privacy-leak",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-smart-sleep-mask-privacy-leak",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-smart-sleep-mask-privacy-leak.png"
+  },
+  {
+    "slug": "2026-02-15-stoat-removes-llm-code",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-stoat-removes-llm-code",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-stoat-removes-llm-code.png"
+  },
+  {
+    "slug": "2026-02-15-storage-2025.en.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-storage-2025.en.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-storage-2025.en.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-storage-2025.ko.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-storage-2025.ko.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-storage-2025.ko.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-system-prompts",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-system-prompts",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-system-prompts.png"
+  },
+  {
+    "slug": "2026-02-15-tui-dev.en.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-tui-dev.en.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-tui-dev.en.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-tui-dev.ko.mdx",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-tui-dev.ko.mdx",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-tui-dev.ko.mdx.png"
+  },
+  {
+    "slug": "2026-02-15-vim-9-2-released",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-vim-9-2-released",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-vim-9-2-released.png"
+  },
+  {
+    "slug": "2026-02-15-zero-vs-few-shot",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-zero-vs-few-shot",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-zero-vs-few-shot.png"
+  },
+  {
+    "slug": "2026-02-15-zig-io-updates",
+    "url": "https://www.helloprompt.kr/posts/2026-02-15-zig-io-updates",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-15-zig-io-updates.png"
+  },
+  {
+    "slug": "2026-02-16-fast-llm-inference-tradeoffs",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-fast-llm-inference-tradeoffs",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-fast-llm-inference-tradeoffs.png"
+  },
+  {
+    "slug": "2026-02-16-gemini-3-audio-canvas-end-of-daw",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-gemini-3-audio-canvas-end-of-daw",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-gemini-3-audio-canvas-end-of-daw.png"
+  },
+  {
+    "slug": "2026-02-16-junior-dev-crisis.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-junior-dev-crisis.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-junior-dev-crisis.md.png"
+  },
+  {
+    "slug": "2026-02-16-mcp-server-tutorial",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-mcp-server-tutorial",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-mcp-server-tutorial.png"
+  },
+  {
+    "slug": "2026-02-16-reasoning-model-prompting.md",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-reasoning-model-prompting.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-reasoning-model-prompting.md.png"
+  },
+  {
+    "slug": "2026-02-16-self-healing-code-agent",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-self-healing-code-agent",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-self-healing-code-agent.png"
+  },
+  {
+    "slug": "2026-02-16-vibe-coding-trap",
+    "url": "https://www.helloprompt.kr/posts/2026-02-16-vibe-coding-trap",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/2026-02-16-vibe-coding-trap.png"
+  },
+  {
+    "slug": "ai-coding-assistants-2026",
+    "url": "https://www.helloprompt.kr/posts/ai-coding-assistants-2026",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/ai-coding-assistants-2026.png"
+  },
+  {
+    "slug": "ai-fatigue",
+    "url": "https://www.helloprompt.kr/posts/ai-fatigue",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/ai-fatigue.png"
+  },
+  {
+    "slug": "ai-slop-fatigue.md",
+    "url": "https://www.helloprompt.kr/posts/ai-slop-fatigue.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/ai-slop-fatigue.md.png"
+  },
+  {
+    "slug": "anthropic-series-g",
+    "url": "https://www.helloprompt.kr/posts/anthropic-series-g",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/anthropic-series-g.png"
+  },
+  {
+    "slug": "enterprise-ai-reality.md",
+    "url": "https://www.helloprompt.kr/posts/enterprise-ai-reality.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/enterprise-ai-reality.md.png"
+  },
+  {
+    "slug": "gemini-3-deep",
+    "url": "https://www.helloprompt.kr/posts/gemini-3-deep",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/gemini-3-deep.png"
+  },
+  {
+    "slug": "gpt-5-3-codex",
+    "url": "https://www.helloprompt.kr/posts/gpt-5-3-codex",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/gpt-5-3-codex.png"
+  },
+  {
+    "slug": "human-premium.md",
+    "url": "https://www.helloprompt.kr/posts/human-premium.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/human-premium.md.png"
+  },
+  {
+    "slug": "macos-tahoe",
+    "url": "https://www.helloprompt.kr/posts/macos-tahoe",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/macos-tahoe.png"
+  },
+  {
+    "slug": "wrapper-startup-bubble.md",
+    "url": "https://www.helloprompt.kr/posts/wrapper-startup-bubble.md",
+    "status": "WARN",
+    "structure": {
+      "h2": 0,
+      "h3": 0,
+      "quotes": 0
+    },
+    "issues": ["Weak Structure (H2 < 3)"],
+    "screenshot": "qa_snapshots/wrapper-startup-bubble.md.png"
+  }
+]

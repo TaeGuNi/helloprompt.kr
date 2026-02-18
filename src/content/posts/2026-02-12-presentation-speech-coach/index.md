@@ -9,7 +9,7 @@ description: "발표만 하면 염소 목소리가 되는 당신. 대본 교정�
 tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 🎤 발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너 {#pt}
+# 🎤 발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너 {#pt}
 
 - **🎯 추천 대상:** 중요한 프레젠테이션 앞두고 심장이 터질 것 같은 사람, 대본을 외우긴 했는데 로봇처럼 말하는 사람
 - **⏱️ 소요 시간:** 10분 (대본 교정 및 리허설)
@@ -25,7 +25,7 @@ _"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  발표 대본을 AI에게 보여준다.
 2.  **"스티브 잡스 스타일로 임팩트 있게 고쳐줘"**라고 한다.
@@ -33,9 +33,9 @@ _"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Speech Coach Prompt" {#updated}
+## 🚀 해결책: "Speech Coach Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (대본 다듬기) {#updated}
+### 🥉 Basic Version (대본 다듬기) {#updated}
 
 문어체를 구어체로.
 
@@ -44,7 +44,7 @@ _"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (모의 리허설 & Q&A) {#q-a}
+### 🥇 Pro Version (모의 리허설 & Q&A) {#q-a}
 
 발표 전날 밤 실전 훈련.
 
@@ -60,7 +60,7 @@ _"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 발표의 신은 **'침묵(Pause)'**을 씁니다.
 계속 떠들면 지루합니다. 중요한 말 직전에 **3초만 멈추세요.**
@@ -68,7 +68,7 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 목소리 톤도 교정되나요?**
   - A: Voice Mode를 켜고 AI에게 발표를 들려주세요. "너무 빨라요", "톤이 너무 일정해요" 같은 피드백을 줍니다.
@@ -78,20 +78,20 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **비언어적 요소 요청:** 발표는 내용 7%, 태도 93%입니다(메라비언의 법칙). 지시문(`(웃으며)`)을 요청하면 단순 낭독이 아닌 **'퍼포먼스'**가 됩니다.
 2.  **Q&A 방어:** 발표자가 제일 두려워하는 건 질문입니다. 예상 질문을 미리 받아보면 자신감이 생깁니다. ("아, 이거 AI랑 연습한 거네.")
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (국어책 읽기) {#updated}
+### ❌ Before (국어책 읽기) {#updated}
 
 "안녕하십니까. 발표를 시작하겠습니다. 목차는 다음과 같습니다." (청중: 폰 봄 📱)
 
-### (Updated) (Updated) (Updated) ✅ After (스토리텔링) {#updated}
+### ✅ After (스토리텔링) {#updated}
 
 **나:** "(3초 침묵) ...여러분은 하루에 플라스틱을 얼마나 드시고 계십니까?"
 **나:** "우리는 알게 모르게 신용카드 한 장 분량의 플라스틱을 먹습니다."
@@ -99,7 +99,7 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 발표는 '정보 전달'이 아닙니다. **'쇼(Show)'**입니다.
 무대 공포증을 이기는 유일한 방법은 **철저한 리허설**뿐입니다.
@@ -107,14 +107,8 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 AI 코치 앞에서 10번만 연습하세요.
 무대가 당신의 것이 됩니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

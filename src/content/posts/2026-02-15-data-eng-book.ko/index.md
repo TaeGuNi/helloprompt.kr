@@ -33,14 +33,8 @@ Airflow나 Dagster 같은 오케스트레이션 도구부터 최신 데이터 �
 
 인프라 기술을 한 단계 업그레이드하고자 하는 AI 엔지니어라면, 이 오픈소스 가이드는 필독서입니다. 실험실의 노트북 환경과 프로덕션급 데이터 시스템 사이의 간극을 메워주는 훌륭한 길잡이가 될 것입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

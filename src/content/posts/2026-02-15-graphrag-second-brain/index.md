@@ -14,7 +14,7 @@ AI는 이렇게 대답합니다. _"두 주제에 대한 노트는 찾았지만, 
 
 당신처럼 생각하고 추론하는 진정한 "제2의 뇌(Second Brain)"를 만들기 위해서는 **GraphRAG**가 필요합니다.
 
-## (Updated) (Updated) (Updated) 🧠 벡터(Vectors) vs 그래프(Graphs): 잃어버린 연결고리 {#vectors}
+## 🧠 벡터(Vectors) vs 그래프(Graphs): 잃어버린 연결고리 {#vectors}
 
 - **벡터 검색 (의미론적):** "이 쿼리와 비슷하게 생긴 덩어리를 찾아줘." (사실 검색에 유리)
 - **그래프 검색 (관계적):** "이 개념과 연결된 노드를 찾아줘." (다단계 추론 및 이질적인 아이디어 연결에 유리)
@@ -61,7 +61,26 @@ GraphRAG의 가장 어려운 부분은 비정형 텍스트를 정형화된 **노
 2. **일관된 ID:** "LLM", "거대언어모델", "LLMs"는 모두 "Large Language Model"이라는 단일 ID로 매핑되어야 합니다.
 3. **의미 있는 관계:** "HAS" 같은 모호한 관계 대신 구체적인 동사를 사용하세요.
 
-## (Updated) (Updated) (Updated) 💻 2단계: 데이터 수집 스크립트 (Python) {#python}
+```json
+{
+  "nodes": [{ "id": "Entity Name", "type": "Concept|Person|Tool|Event" }],
+  "relationships": [
+    {
+      "source": "Entity Name",
+      "target": "Entity Name",
+      "type": "RELATES_TO|CAUSES|PART_OF|AUTHORED_BY"
+    }
+  ]
+}
+```
+
+**# (Updated) (Updated) (Updated) Constraints**
+
+1. **원자적 엔티티(Atomic Entities):** "2025년의 생산성 역설" 같은 복합 노드를 만들지 마세요. "생산성 역설"(개념) -> "2025"(시간)으로 분해하세요.
+2. **일관된 ID:** "LLM", "거대언어모델", "LLMs"는 모두 "Large Language Model"이라는 단일 ID로 매핑되어야 합니다.
+3. **의미 있는 관계:** "HAS" 같은 모호한 관계 대신 구체적인 동사를 사용하세요.
+
+## 💻 2단계: 데이터 수집 스크립트 (Python) {#python}
 
 `langchain-community`와 `neo4j-driver`를 사용하여 이 과정을 자동화할 수 있습니다.
 
@@ -77,10 +96,10 @@ graph = Neo4jGraph(
     password="password"
 )
 
-# (Updated) (Updated) (Updated) 2. LLM 초기화 (로컬 Llama 4 또는 OpenAI) {#llama-4-openai}
+# 2. LLM 초기화 (로컬 Llama 4 또는 OpenAI) {#llama-4-openai}
 llm = ChatOpenAI(temperature=0, model="gpt-4-turbo")
 
-# (Updated) (Updated) (Updated) 3. 변환기(Transformer) 정의 {#transformer}
+# 3. 변환기(Transformer) 정의 {#transformer}
 llm_transformer = LLMGraphTransformer(llm=llm)
 
 # (Updated) (Updated) (Updated) 4. 문서 처리 {#updated}
@@ -137,14 +156,8 @@ RETURN c.id
 
 가장 통찰력 있는 노트 10개를 골라 위 추출 프롬프트에 넣어보세요. 결과에 놀라실 겁니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

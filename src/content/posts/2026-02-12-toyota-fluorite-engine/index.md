@@ -21,7 +21,7 @@ _"플러터로 게임을? 그것도 콘솔급으로? 토요타가 해냈습니�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **Fluorite 공개:** 토요타가 개발한 플러터 기반 게임 엔진.
 2. **콘솔급 성능:** 단순 UI가 아닌 고사양 게임 구동을 목표로 최적화.
@@ -40,17 +40,17 @@ _"플러터로 게임을? 그것도 콘솔급으로? 토요타가 해냈습니�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 플러터는 앱 개발용이라는 편견을 깨는 사례입니다. 차량용 OS와 게임 엔진의 경계가 흐려지는 미래 모빌리티 환경을 미리 엿볼 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 플러터 개발자라면 한번쯤 찍어먹어볼 만한 흥미로운 기술이 등장했습니다.
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -58,14 +58,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

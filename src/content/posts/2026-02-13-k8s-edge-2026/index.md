@@ -16,11 +16,11 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 기존의 데이터 센터 쿠버네티스와 달리, 엣지 환경은 다음과 같은 가혹한 제약 조건을 가집니다.
 
-### (Updated) (Updated) (Updated) 1. 간헐적 네트워크 연결성 (Intermittent Connectivity) {#intermittent-connectivity}
+### 1. 간헐적 네트워크 연결성 (Intermittent Connectivity) {#intermittent-connectivity}
 
 엣지 디바이스는 항상 안정적인 네트워크에 연결되어 있지 않습니다. 해상 풍력 발전소나 이동 중인 물류 트럭의 서버는 네트워크 단절이 일상입니다. 따라서 엣지 클러스터는 제어 평면(Control Plane)과의 연결이 끊긴 상태에서도 자율적으로(autonomously) 동작할 수 있어야 하며, 연결이 복구되었을 때 상태를 효율적으로 동기화하는 메커니즘이 필수적입니다.
 
-### (Updated) (Updated) (Updated) 2. 리소스 제약 (Resource Constraints) {#resource-constraints}
+### 2. 리소스 제약 (Resource Constraints) {#resource-constraints}
 
 데이터 센터의 서버가 수백 GB의 RAM을 가진다면, 엣지 노드는 종종 4GB, 심지어 2GB의 RAM과 저전력 ARM 프로세서에서 동작합니다. etcd와 같은 무거운 데이터 저장소나 과도한 사이드카 컨테이너는 엣지 환경에서 사치입니다.
 
@@ -40,7 +40,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 수천 개의 클러스터를 수동으로 `kubectl`을 통해 관리하는 것은 불가능합니다. 엣지 관리의 핵심은 **Fleet Management(선단 관리)**이며, 이를 실현하는 방법론이 바로 GitOps입니다.
 
-### (Updated) (Updated) (Updated) 풀(Pull) 기반 아키텍처의 승리 {#pull}
+### 풀(Pull) 기반 아키텍처의 승리 {#pull}
 
 ArgoCD나 Flux와 같은 GitOps 도구는 엣지 환경에서 빛을 발합니다. 특히, 중앙에서 엣지로 명령을 내리는 푸시(Push) 방식보다는, 엣지 클러스터 내부의 에이전트가 Git 저장소의 상태를 주기적으로 확인하고 가져오는 **풀(Pull) 방식**이 선호됩니다.
 
@@ -53,17 +53,17 @@ ArgoCD나 Flux와 같은 GitOps 도구는 엣지 환경에서 빛을 발합니�
 
 모든 엣지 디바이스가 동일한 설정을 가지지는 않습니다. 지역별, 기기 모델별로 설정이 다를 수 있습니다. Kustomize나 Helm을 활용한 계층적 구조 설계를 통해, 공통된 설정(Base)은 공유하되 특정 클러스터 그룹에 맞는 설정(Overlay)을 동적으로 적용하는 패턴이 표준화되었습니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 2026년의 쿠버네티스는 더 이상 클라우드만의 전유물이 아닙니다. 엣지 컴퓨팅은 인프라 관리의 패러다임을 중앙 집중형에서 분산형 자율 운영으로 변화시키고 있습니다.
 
 제한된 리소스, 불안정한 네트워크, 보안 위협이라는 과제를 극복하기 위해 K3s와 같은 경량화 배포판과 GitOps 기반의 Fleet 관리 전략은 선택이 아닌 필수가 되었습니다. 우리는 이제 "클러스터 관리"를 넘어 "수천 개의 클러스터를 하나의 유기체처럼 관리"하는 시대로 진입했습니다. 기술은 준비되었습니다. 이제 여러분의 인프라가 엣지로 확장될 차례입니다.
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 글은 최신 기술 동향을 반영하여 작성되었습니다. 실무에 바로 적용 가능한 핵심 내용을 담고 있으며, 추가적인 질문은 언제든 환영합니다.
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -71,14 +71,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

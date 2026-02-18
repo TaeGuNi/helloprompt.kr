@@ -41,20 +41,14 @@ Stoat의 슬로건은 **"The best code is no code"**입니다. 사용자들은 S
 한 시니어 개발자는 트위터(X)에 이렇게 남겼습니다.
 _"어제 Stoat를 돌려서 레거시 코드의 30%를 날려버렸습니다. 기능은 똑같고, 버그는 줄었고, 읽기는 훨씬 편해졌습니다. 이게 진짜 AI의 축복이죠."_
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 코드를 생성하는 것은 이제 누구나 할 수 있습니다. 하지만 불필요한 코드를 삭제하고 본질만 남기는 것은 여전히 높은 수준의 통찰력을 요구합니다. Stoat는 그 통찰력을 자동화하려는 첫 번째 시도입니다.
 
 여러분의 코드베이스는 안녕하십니까? 지금 Stoat에게 청소를 부탁해보세요.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

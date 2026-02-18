@@ -22,18 +22,12 @@ tags: ["AI", "Tech", "llm-distributed-systems"]
 
 이 하이브리드 접근 방식을 통해 우리는 분산 프로토콜의 안전한 범위 내에서 LLM의 "창의성"을 제어할 수 있습니다. 이는 모델의 확률적 특성을 결정론적 제어 계층으로 효과적으로 감싸, 시스템을 관찰 가능하고 디버깅 가능하게 만듭니다.
 
-## (Updated) (Updated) (Updated) 결론 {#conclusion}
+## 결론 {#conclusion}
 
 분산 앱에서 LLM의 미래는 단순히 더 나은 모델에 관한 것이 아니라, 더 나은 아키텍처에 관한 것입니다. 현대 AI의 확률적 능력을 페트리 넷과 같은 정형 기법의 입증된 신뢰성에 기반을 둠으로써, 우리는 지능적일 뿐만 아니라 회복 탄력성 있는 시스템을 구축할 수 있습니다. 개발자에게 이는 프롬프트 엔지니어링에서 시스템 엔지니어링으로 초점을 옮겨, AI 구성 요소가 분산 컴퓨팅의 규칙을 따르도록 보장하는 것을 의미합니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -13,7 +13,7 @@ image: https://source.unsplash.com/random/1600x900/?computer,code
 
 OpenClaw는 모든 데이터 처리를 로컬에서 수행합니다. 민감한 문서, 개인적인 사진, 회사 기밀 자료를 외부 서버로 전송할 필요가 없습니다. '내 데이터는 내 컴퓨터에'라는 원칙을 지키며 AI의 편리함을 누릴 수 있습니다.
 
-## (Updated) (Updated) (Updated) 2. 무한한 확장성 (Skills) {#skills}
+## 2. 무한한 확장성 (Skills) {#skills}
 
 OpenClaw의 스킬 시스템은 마치 앱스토어처럼 다양한 기능을 추가할 수 있게 해줍니다. 이메일 정리, 캘린더 관리, 코딩 보조, 심지어 홈 오토메이션까지. 사용자가 필요한 스킬을 직접 만들거나 커뮤니티에서 다운로드하여 에이전트를 성장시킬 수 있습니다.
 
@@ -25,7 +25,7 @@ OpenClaw는 단순한 비서가 아닙니다. 당신의 디지털 생활을 함�
 
 ---
 
-### (Updated) (Updated) (Updated) Summaries
+### Summaries
 
 **English**
 **Local Agents: AI Legion in Your PC, OpenClaw**
@@ -63,14 +63,8 @@ L'era degli agenti locali è arrivata con OpenClaw. Eseguito direttamente sulla 
 **Local Agents: Legião de IA no seu PC, OpenClaw**
 A era dos Agentes Locais chegou com o OpenClaw. Executando diretamente na sua máquina, garante privacidade total e automação poderosa. Com um sistema de habilidades modular, zero custos de API e inferência local instantânea, é o seu parceiro digital seguro.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

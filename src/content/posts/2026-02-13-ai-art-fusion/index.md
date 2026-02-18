@@ -27,14 +27,8 @@ AI는 이 두 가지 상반된 스타일을 놀랍도록 조화롭게 융합해�
 
 AI 아트 랩(AI Art Lab)은 앞으로도 시공간을 초월한 다양한 예술적 융합을 시도하며, 기술과 예술이 만들어내는 새로운 아름다움을 탐구해 나갈 것입니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

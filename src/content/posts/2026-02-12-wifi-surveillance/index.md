@@ -21,7 +21,7 @@ _"카메라가 없다고 안심하지 마세요. 당신의 공유기가 당신�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **원리**: WiFi 신호가 물체에 반사되어 돌아오는 패턴(CSI)을 AI로 분석.
 2. **정확도**: 벽 뒤에 있는 사람의 자세(서있음, 앉음, 쓰러짐)까지 판별 가능.
@@ -29,17 +29,17 @@ _"카메라가 없다고 안심하지 마세요. 당신의 공유기가 당신�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 기술은 가치 중립적이지만, 사용 방법은 그렇지 않습니다. 이 기술이 상용화된다면 **"보이지 않는 감시"**가 일상이 될 수 있습니다. 공공장소의 와이파이가 당신의 행동을 추적하는 쿠키(Cookie)가 되는 셈이죠. 물리적 보안과 디지털 보안의 경계가 무너지고 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🔗 참고 링크 {#references}
+## 🔗 참고 링크 {#references}
 
 - [SciTechDaily 기사](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -47,14 +47,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

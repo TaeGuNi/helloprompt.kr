@@ -9,7 +9,7 @@ description: "개발자, 마케터, 디자이너 등 내 직무와 연차에 딱
 tags: ["기술면접", "전공면접", "예상질문", "직무면접"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 직무별 '기술 면접(Technical Interview)' 예상 질문 생성기 {#technical-interview}
+# (Updated) 📝 직무별 '기술 면접(Technical Interview)' 예상 질문 생성기 {#technical-interview}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 지원하는 직무와 연차, 핵심 스킬셋을 입력합니다.
 2. 기본기(CS)부터 심화 응용 질문까지 난이도별로 리스트를 받습니다.
@@ -66,7 +66,7 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
@@ -94,14 +94,14 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -111,31 +111,23 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 기술 면접은 정답을 맞히는 시험이기도 하지만, **아는 것을 얼마나 조리 있게 설명하는지** 보는 자리이기도 합니다.
 
 AI가 뽑아준 예상 질문 리스트를 들고, 스터디원들과 서로 물어보세요. 적중률에 놀라게 될 것입니다. 📚
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

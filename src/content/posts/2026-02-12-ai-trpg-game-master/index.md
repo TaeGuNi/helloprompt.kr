@@ -9,7 +9,7 @@ description: "친구도, 주사위도 필요 없다. AI가 진행하는 1인용 
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 
-# (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
+# (Updated) (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
 
 - **🎯 추천 대상:** 발더스 게이트 3를 재밌게 했지만 같이 할 친구가 없는 사람, 나만의 판타지 모험을 떠나고 싶은 사람
 - **⏱️ 소요 시간:** 30분 (1회 세션)
@@ -25,7 +25,7 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  AI에게 **"너는 D&D 게임 마스터야"**라고 한다.
 2.  내 캐릭터(직업, 종족)를 만든다.
@@ -33,9 +33,9 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) 🚀 해결책: "Dungeon Master Prompt"
+## (Updated) (Updated) 🚀 해결책: "Dungeon Master Prompt"
 
-### (Updated) 🥉 Basic Version (텍스트 어드벤처)
+### (Updated) (Updated) 🥉 Basic Version (텍스트 어드벤처)
 
 가볍게 즐기기.
 
@@ -43,7 +43,7 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 <br>
 
-### (Updated) 🥇 Pro Version (D&D 5판 룰 적용) {#d-d-5}
+### (Updated) (Updated) 🥇 Pro Version (D&D 5판 룰 적용) {#d-d-5}
 
 본격적인 TRPG.
 
@@ -65,14 +65,14 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트의 재미는 **'DALL-E'**와의 연동입니다.
 "지금 마주친 보스 몬스터의 모습을 그려줘"라고 하면, 텍스트로만 상상하던 공포가 눈앞에 나타납니다. 몰입감이 500% 상승합니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 주사위는 어떻게 굴려요?**
   - A: 구글에 "roll d20"을 치거나, 집에 있는 주사위를 굴리고 AI에게 "15 나왔어"라고 말하면 됩니다. (거짓말하면 재미없음!)
@@ -82,33 +82,37 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **룰셋 명시(D&D 5e):** 특정 규칙을 지정하면 AI가 HP, AC(방어력), 주문 슬롯 같은 시스템을 적용해 게임의 균형을 맞춥니다.
 2.  **판정 요구:** AI가 혼자 다 결정하면 소설이지 게임이 아닙니다. "유저에게 주사위를 굴리게 해"라는 지침이 상호작용(Interaction)을 만듭니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (게임 불감증)
+### (Updated) (Updated) ❌ Before (게임 불감증)
 
 최신 그래픽 게임도 10분 하면 질림. "맨날 똑같은 퀘스트..." 🎮
 
-### (Updated) ✅ After (TRPG)
+### (Updated) (Updated) ✅ After (TRPG)
 
 > **GM:** "당신은 왕을 설득하려 했지만 주사위가 1이 나왔습니다. 왕이 격노하여 당신을 지하 감옥에 가둡니다. 탈출하시겠습니까?"
 > **나:** "와... 망했다. 숟가락으로 땅 파자." (새벽 4시까지 함 🌙)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 그래픽 카드는 필요 없습니다.
 당신의 **상상력**이 최고의 그래픽입니다.
 
 주사위를 던지세요.
 **모험이 시작됩니다.** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

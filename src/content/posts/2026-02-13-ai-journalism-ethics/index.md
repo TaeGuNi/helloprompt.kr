@@ -8,7 +8,7 @@ categories: ["AI Ethics", "Journalism"]
 tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 ---
 
-# (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이
+# (Updated) (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이
 
 > _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-in-Chief)이 될 수도 있습니다."_
 
@@ -18,7 +18,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#summary}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#summary}
 
 1.  **Trust but Verify:** AI가 생성한 모든 사실(Fact)은 반드시 교차 검증해야 합니다.
 2.  **Bias Awareness:** AI는 학습 데이터의 편향을 그대로 반영할 수 있음을 인지하고, 이를 탐지하는 프로세스를 갖춰야 합니다.
@@ -26,11 +26,11 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기
+## (Updated) (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기
 
 여러분이 작성한(혹은 AI가 초안을 쓴) 기사가 윤리적으로 문제가 없는지 점검해주는 프롬프트입니다.
 
-### (Updated) 🛡️ Ethical Guardian (윤리적 가디언)
+### (Updated) (Updated) 🛡️ Ethical Guardian (윤리적 가디언)
 
 > **Role**
 > 당신은 20년 경력의 저널리즘 교수이자, 엄격한 **팩트 체커(Fact Checker)**입니다.
@@ -57,7 +57,7 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Writer's Insight) {#writer-s-insight}
 
 AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 
@@ -65,6 +65,10 @@ AI 저널리즘의 핵심은 **'투명성(Transparency)'**입니다.
 - **도구로만 사용하기:** AI에게 "기사를 써줘"라고 맡기지 말고, "이 데이터에서 인사이트를 뽑아줘" 혹은 "이 문장의 논리적 비약이 있는지 봐줘"라고 **구체적인 작업**을 시키세요.
 
 결국 저널리즘의 가치는 '진실을 추구하는 태도'에 있으며, 이는 알고리즘이 아닌 인간만이 가질 수 있는 덕목입니다.
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

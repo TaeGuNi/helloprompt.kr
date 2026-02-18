@@ -2002,352 +2002,402 @@
   {
     "slug": "2026-02-04-data-interpretation-tutor",
     "path": "src/content/posts/2026-02-04-data-interpretation-tutor/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-prompt-engineering-zero-shot-vs-few-shot",
     "path": "src/content/posts/2026-02-15-prompt-engineering-zero-shot-vs-few-shot/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-sensory-description-generator-4d",
     "path": "src/content/posts/2026-02-04-sensory-description-generator-4d/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-ai-scraping-block",
     "path": "src/content/posts/2026-02-15-ai-scraping-block/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-ai-video-generation",
     "path": "src/content/posts/2026-02-14-ai-video-generation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-insta-poetry-generator",
     "path": "src/content/posts/2026-02-04-insta-poetry-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-prompt-chaining-2026",
     "path": "src/content/posts/2026-02-15-prompt-chaining-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-no-code-data-cleaning",
     "path": "src/content/posts/2026-02-11-no-code-data-cleaning/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-support-ticket-triage",
     "path": "src/content/posts/2026-02-12-support-ticket-triage/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-llm-finetuning-guide",
     "path": "src/content/posts/2026-02-11-llm-finetuning-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-english-shadowing-guide",
     "path": "src/content/posts/2026-02-12-english-shadowing-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-vegan-meal-prep-guide-for-beginners",
     "path": "src/content/posts/2026-02-04-vegan-meal-prep-guide-for-beginners/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-agentic-workflows-prompt-engineering",
     "path": "src/content/posts/2026-02-13-agentic-workflows-prompt-engineering/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-code-review-assistant",
     "path": "src/content/posts/2026-02-12-code-review-assistant/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-volumetric-lighting-god-rays",
     "path": "src/content/posts/2026-02-04-volumetric-lighting-god-rays/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-10-bubble-nocode-mvp",
     "path": "src/content/posts/2026-02-10-bubble-nocode-mvp/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-bug-report-formatter",
     "path": "src/content/posts/2026-02-12-ai-bug-report-formatter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-beginner-gym-routine-guide",
     "path": "src/content/posts/2026-02-04-beginner-gym-routine-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-travel-budget-calculator-with-ai",
     "path": "src/content/posts/2026-02-04-travel-budget-calculator-with-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-teaching-sharing-and-caring-story",
     "path": "src/content/posts/2026-02-04-teaching-sharing-and-caring-story/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-k8s-manifest-generator",
     "path": "src/content/posts/2026-02-12-ai-k8s-manifest-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-sleep-pattern-analyzer",
     "path": "src/content/posts/2026-02-04-sleep-pattern-analyzer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-meeting-interpreter-guide",
     "path": "src/content/posts/2026-02-12-meeting-interpreter-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-11-seo-blog-writing-guide",
     "path": "src/content/posts/2026-02-11-seo-blog-writing-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-portfolio-rebalancing",
     "path": "src/content/posts/2026-02-04-portfolio-rebalancing/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-english-roleplay-tutor",
     "path": "src/content/posts/2026-02-11-english-roleplay-tutor/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-11-tailwind-css-master",
     "path": "src/content/posts/2026-02-11-tailwind-css-master/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-essay-outline-maker",
     "path": "src/content/posts/2026-02-04-essay-outline-maker/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-13-gemini-3-deep-think",
     "path": "src/content/posts/2026-02-13-gemini-3-deep-think/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-pain-free-morning-wake-up-routine",
     "path": "src/content/posts/2026-02-04-pain-free-morning-wake-up-routine/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-cinematic-lighting-prompt",
     "path": "src/content/posts/2026-02-04-cinematic-lighting-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-fashion-style-recommender",
     "path": "src/content/posts/2026-02-12-fashion-style-recommender/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-stress-relief-techniques-by-situation",
     "path": "src/content/posts/2026-02-04-stress-relief-techniques-by-situation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-minimalist-packing-list-carry-on",
     "path": "src/content/posts/2026-02-04-minimalist-packing-list-carry-on/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-windows-notepad-rce",
     "path": "src/content/posts/2026-02-12-windows-notepad-rce/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-error-log-analysis",
     "path": "src/content/posts/2026-02-04-error-log-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-storage-2025.ko",
     "path": "src/content/posts/2026-02-15-storage-2025.ko/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-okr-goal-setting-guide",
     "path": "src/content/posts/2026-02-04-okr-goal-setting-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-claude-4-5-context",
     "path": "src/content/posts/2026-02-14-claude-4-5-context/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-15-generative-ui-2026",
     "path": "src/content/posts/2026-02-15-generative-ui-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-tui-dev.ko",
     "path": "src/content/posts/2026-02-15-tui-dev.ko/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-webgpu-local-llm",
     "path": "src/content/posts/2026-02-15-webgpu-local-llm/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-post-run-stretching-guide",
     "path": "src/content/posts/2026-02-04-post-run-stretching-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-feynman-technique-bot",
     "path": "src/content/posts/2026-02-04-feynman-technique-bot/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-ai-ootd-weather-stylist",
     "path": "src/content/posts/2026-02-12-ai-ootd-weather-stylist/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-13-agentic-ides-2026",
     "path": "src/content/posts/2026-02-13-agentic-ides-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-code-complexity-analyzer",
     "path": "src/content/posts/2026-02-12-code-complexity-analyzer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-symmetrical-composition-wes-anderson",
     "path": "src/content/posts/2026-02-04-symmetrical-composition-wes-anderson/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-nvidia-b200",
     "path": "src/content/posts/2026-02-15-nvidia-b200/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-math-problem-solver",
     "path": "src/content/posts/2026-02-04-math-problem-solver/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-physics-problem-translator",

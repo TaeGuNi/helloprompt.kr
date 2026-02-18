@@ -9,7 +9,7 @@ description: "API 키 없이, 내 브라우저가 AI 서버가 됩니다. WebGPU
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 
-# (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
+# (Updated) (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -31,7 +31,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **WebGPU** 기술 덕분에 브라우저에서 플러그인 없이 고성능 AI 추론이 가능해졌습니다.
 2. **WebLLM** 라이브러리를 사용하면 Llama-3, Gemma-2 같은 모델을 클라이언트 사이드에서 바로 돌릴 수 있습니다.
@@ -39,13 +39,13 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기"
+## (Updated) (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기"
 
 이 프롬프트는 복잡한 WebLLM 초기화 코드와 UI 로직을 한 번에 작성해줍니다.
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 프로토타입 코드가 필요할 때 사용하세요.
 
@@ -54,7 +54,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 실제 프로젝트에 바로 투입 가능한 React 컴포넌트 구조가 필요할 때 사용하세요.
 
@@ -86,7 +86,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 방식의 가장 큰 장점은 **"데이터가 사용자의 기기를 벗어나지 않는다"**는 점입니다. 민감한 개인정보나 사내 기밀을 다루는 앱을 만들 때, 서버로 데이터를 전송할 필요가 없으므로 보안 이슈에서 자유롭습니다.
 
@@ -96,7 +96,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 모든 브라우저에서 되나요?**
   - A: Chrome, Edge 등 Chromium 기반 브라우저는 잘 지원합니다. Safari와 Firefox도 WebGPU 지원이 안정화되었지만, 최신 버전 업데이트를 확인하세요.
@@ -106,7 +106,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Role 부여:** "WebGPU/WASM 전문가"라고 지정하여 일반적인 React 개발자가 놓칠 수 있는 성능/메모리 이슈를 고려하게 했습니다.
 2.  **Context(상황):** "프라이버시 중심"이라는 목표를 주어 불필요한 서버 통신 코드를 배제했습니다.
@@ -114,9 +114,9 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (일반적인 질문)
+### (Updated) (Updated) ❌ Before (일반적인 질문)
 
 ```text
 웹에서 LLM 돌리는 코드 짜줘.
@@ -124,7 +124,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 > (결과: 구형 라이브러리를 쓰거나, WebGPU 설정이 누락된 껍데기 코드만 줌)
 
-### (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
+### (Updated) (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
 
 ```typescript
 // useWebLLM.ts (생성된 코드 예시)
@@ -151,11 +151,15 @@ export const useWebLLM = () => {
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 더 이상 비싼 GPU 서버를 임대하지 마세요. 사용자의 브라우저가 이미 준비된 서버입니다. 지금 바로 로컬 AI 앱을 시작해보세요!
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

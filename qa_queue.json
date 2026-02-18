@@ -2370,7 +2370,7 @@
   {
     "slug": "2026-02-12-code-complexity-analyzer",
     "path": "src/content/posts/2026-02-12-code-complexity-analyzer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -2386,7 +2386,7 @@
   {
     "slug": "2026-02-15-nvidia-b200",
     "path": "src/content/posts/2026-02-15-nvidia-b200/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -2394,7 +2394,7 @@
   {
     "slug": "2026-02-04-math-problem-solver",
     "path": "src/content/posts/2026-02-04-math-problem-solver/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2402,7 +2402,7 @@
   {
     "slug": "2026-02-04-physics-problem-translator",
     "path": "src/content/posts/2026-02-04-physics-problem-translator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2410,7 +2410,7 @@
   {
     "slug": "2026-02-04-coffee-chat-cold-email",
     "path": "src/content/posts/2026-02-04-coffee-chat-cold-email/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2418,7 +2418,7 @@
   {
     "slug": "2026-02-13-local-llms-apple-m6",
     "path": "src/content/posts/2026-02-13-local-llms-apple-m6/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2426,7 +2426,7 @@
   {
     "slug": "2026-02-04-swot-analysis",
     "path": "src/content/posts/2026-02-04-swot-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2450,7 +2450,7 @@
   {
     "slug": "2026-02-12-knitting-pattern-interpreter",
     "path": "src/content/posts/2026-02-12-knitting-pattern-interpreter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2458,7 +2458,7 @@
   {
     "slug": "2026-02-15-zig-io-updates",
     "path": "src/content/posts/2026-02-15-zig-io-updates/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -2466,7 +2466,7 @@
   {
     "slug": "2026-02-12-cocktail-recipe-generator",
     "path": "src/content/posts/2026-02-12-cocktail-recipe-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 70
@@ -2474,7 +2474,7 @@
   {
     "slug": "2026-02-04-resume-markdown-formatter",
     "path": "src/content/posts/2026-02-04-resume-markdown-formatter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2482,7 +2482,7 @@
   {
     "slug": "2026-02-12-ai-trpg-game-master",
     "path": "src/content/posts/2026-02-12-ai-trpg-game-master/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2490,7 +2490,7 @@
   {
     "slug": "2026-02-14-samsung-galaxy-s26-ai",
     "path": "src/content/posts/2026-02-14-samsung-galaxy-s26-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2498,7 +2498,7 @@
   {
     "slug": "2026-02-14-local-llm-mac",
     "path": "src/content/posts/2026-02-14-local-llm-mac/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2506,7 +2506,7 @@
   {
     "slug": "2026-02-15-senior-reviewer-prompt",
     "path": "src/content/posts/2026-02-15-senior-reviewer-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 0
@@ -2522,7 +2522,7 @@
   {
     "slug": "2026-02-04-performance-review-feedback-generator",
     "path": "src/content/posts/2026-02-04-performance-review-feedback-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2530,7 +2530,7 @@
   {
     "slug": "2026-02-04-excel-formula-generator-natural-language",
     "path": "src/content/posts/2026-02-04-excel-formula-generator-natural-language/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2546,7 +2546,7 @@
   {
     "slug": "2026-02-04-global-tipping-etiquette-guide",
     "path": "src/content/posts/2026-02-04-global-tipping-etiquette-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2554,7 +2554,7 @@
   {
     "slug": "2026-02-04-insurance-remodeling",
     "path": "src/content/posts/2026-02-04-insurance-remodeling/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2570,7 +2570,7 @@
   {
     "slug": "2026-02-04-landing-page-headline-generator",
     "path": "src/content/posts/2026-02-04-landing-page-headline-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2578,7 +2578,7 @@
   {
     "slug": "2026-02-12-market-research-automation",
     "path": "src/content/posts/2026-02-12-market-research-automation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2586,7 +2586,7 @@
   {
     "slug": "2026-02-12-ai-code-snippet-manager",
     "path": "src/content/posts/2026-02-12-ai-code-snippet-manager/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -2594,7 +2594,7 @@
   {
     "slug": "2026-02-13-serverless-edge",
     "path": "src/content/posts/2026-02-13-serverless-edge/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2602,7 +2602,7 @@
   {
     "slug": "2026-02-14-rust-2026",
     "path": "src/content/posts/2026-02-14-rust-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 0
@@ -2610,7 +2610,7 @@
   {
     "slug": "2026-02-12-glm-5-agentic-engineering",
     "path": "src/content/posts/2026-02-12-glm-5-agentic-engineering/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2626,7 +2626,7 @@
   {
     "slug": "2026-02-04-anki-card-generator",
     "path": "src/content/posts/2026-02-04-anki-card-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2634,7 +2634,7 @@
   {
     "slug": "2026-02-15-graphrag-second-brain",
     "path": "src/content/posts/2026-02-15-graphrag-second-brain/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2642,7 +2642,7 @@
   {
     "slug": "2026-02-14-sustainable-ai-computing",
     "path": "src/content/posts/2026-02-14-sustainable-ai-computing/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2658,7 +2658,7 @@
   {
     "slug": "2026-02-04-global-dining-etiquette-guide",
     "path": "src/content/posts/2026-02-04-global-dining-etiquette-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2666,7 +2666,7 @@
   {
     "slug": "2026-02-13-ai-refactoring",
     "path": "src/content/posts/2026-02-13-ai-refactoring/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2682,7 +2682,7 @@
   {
     "slug": "2026-02-04-watercolor-sketch-prompt",
     "path": "src/content/posts/2026-02-04-watercolor-sketch-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2690,7 +2690,7 @@
   {
     "slug": "2026-02-14-ai-social-crisis",
     "path": "src/content/posts/2026-02-14-ai-social-crisis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 70
@@ -2698,7 +2698,7 @@
   {
     "slug": "2026-02-04-double-exposure-effect",
     "path": "src/content/posts/2026-02-04-double-exposure-effect/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2706,7 +2706,7 @@
   {
     "slug": "2026-02-04-diy-history-walking-tour-guide",
     "path": "src/content/posts/2026-02-04-diy-history-walking-tour-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2714,7 +2714,7 @@
   {
     "slug": "2026-02-13-ai-journalism-ethics",
     "path": "src/content/posts/2026-02-13-ai-journalism-ethics/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2722,7 +2722,7 @@
   {
     "slug": "2026-02-04-balance-game-questions-for-kids",
     "path": "src/content/posts/2026-02-04-balance-game-questions-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2730,7 +2730,7 @@
   {
     "slug": "2026-02-15-reducing-hallucinations",
     "path": "src/content/posts/2026-02-15-reducing-hallucinations/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2738,7 +2738,7 @@
   {
     "slug": "2026-02-04-proposal-outline-generator",
     "path": "src/content/posts/2026-02-04-proposal-outline-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2746,7 +2746,7 @@
   {
     "slug": "2026-02-04-knolling-flat-lay-composition",
     "path": "src/content/posts/2026-02-04-knolling-flat-lay-composition/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2754,7 +2754,7 @@
   {
     "slug": "2026-02-15-vim-9-2-released",
     "path": "src/content/posts/2026-02-15-vim-9-2-released/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 0
@@ -2770,7 +2770,7 @@
   {
     "slug": "2026-02-04-foreign-language-menu-reading-guide",
     "path": "src/content/posts/2026-02-04-foreign-language-menu-reading-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2778,7 +2778,7 @@
   {
     "slug": "2026-02-04-studio-lighting-product-shot",
     "path": "src/content/posts/2026-02-04-studio-lighting-product-shot/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2794,7 +2794,7 @@
   {
     "slug": "2026-02-11-interview-introduction-generator",
     "path": "src/content/posts/2026-02-11-interview-introduction-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2802,7 +2802,7 @@
   {
     "slug": "2026-02-12-blockchain-solidity-audit",
     "path": "src/content/posts/2026-02-12-blockchain-solidity-audit/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2810,7 +2810,7 @@
   {
     "slug": "2026-02-04-travel-packing-checklist",
     "path": "src/content/posts/2026-02-04-travel-packing-checklist/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2818,7 +2818,7 @@
   {
     "slug": "2026-02-15-optimizing-context-windows",
     "path": "src/content/posts/2026-02-15-optimizing-context-windows/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2834,7 +2834,7 @@
   {
     "slug": "2026-02-15-ai-agent-swarms-2026",
     "path": "src/content/posts/2026-02-15-ai-agent-swarms-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2842,7 +2842,7 @@
   {
     "slug": "2026-02-04-low-poly-voxel-art",
     "path": "src/content/posts/2026-02-04-low-poly-voxel-art/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2850,7 +2850,7 @@
   {
     "slug": "2026-02-04-golden-hour-lighting",
     "path": "src/content/posts/2026-02-04-golden-hour-lighting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2858,7 +2858,7 @@
   {
     "slug": "2026-02-15-multimodal-reasoning-2026",
     "path": "src/content/posts/2026-02-15-multimodal-reasoning-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60

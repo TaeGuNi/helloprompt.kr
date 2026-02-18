@@ -9,7 +9,7 @@ description: "식상한 자기소개는 그만. 직무 역량과 경험을 임�
 tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 🎤 면접 1분 자기소개 생성기: AI가 써주는 합격 대본 {#updated}
+# (Updated) (Updated) (Updated) 🎤 면접 1분 자기소개 생성기: AI가 써주는 합격 대본
 
 - **🎯 추천 대상:** "저는 화목한 가정에서 태어나..." 같은 고리타분한 멘트만 떠오르는 취준생, 경력직 이직 면접 앞둔 대리님
 - **⏱️ 소요 시간:** 1분 (대본 완성)
@@ -25,7 +25,7 @@ _"자기소개 준비하셨죠? 1분 내로 짧게 부탁드립니다."_
 
 ---
 
-## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  내 경험(Experience)과 지원 직무(Job Description)를 AI에게 던진다.
 2.  **"두괄식으로 강렬하게 써줘"**라고 시킨다.
@@ -33,9 +33,9 @@ _"자기소개 준비하셨죠? 1분 내로 짧게 부탁드립니다."_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Interview Script Writer" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Interview Script Writer"
 
-### (Updated) (Updated) 🥉 Basic Version (신입 공채용) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (신입 공채용)
 
 패기와 잠재력을 강조할 때.
 
@@ -45,7 +45,7 @@ _"자기소개 준비하셨죠? 1분 내로 짧게 부탁드립니다."_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (경력직 이직용) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (경력직 이직용)
 
 즉시 전력감을 어필할 때.
 
@@ -69,14 +69,14 @@ _"자기소개 준비하셨죠? 1분 내로 짧게 부탁드립니다."_
 
 ---
 
-## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 자기소개는 '외워서 읊는' 게 아닙니다. '대화의 물꼬를 트는' 겁니다.
 AI가 써준 대본을 그대로 외우지 마세요. 키워드 중심으로 흐름만 익히고, 면접장에서는 **아이 컨택**을 하며 자연스럽게 말해야 합니다. AI에게 "이걸 구어체(Spoken Word)로 바꿔줘"라고 요청하면 더 자연스러워집니다.
 
 ---
 
-## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 너무 길면 어떡하죠?**
   - A: AI에게 "400자 이내로 줄여줘" 혹은 "말하는 속도로 50초 분량으로 맞춰줘"라고 하세요.
@@ -86,32 +86,36 @@ AI가 써준 대본을 그대로 외우지 마세요. 키워드 중심으로 흐
 
 ---
 
-## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **오프닝(Hook) 강제:** 첫 문장에서 승부가 납니다. "저는 ~입니다" 같은 평범한 시작을 막고, "저는 [별명/수식어]입니다"로 시작하게 하여 면접관의 고개를 들게 만듭니다.
 2.  **구체적 수치 요구:** 경력직은 숫자로 말해야 합니다. 프롬프트에 성과 지표(30%)를 넣음으로써 신뢰도를 높입니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) (Updated) ❌ Before (지루함) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (지루함)
 
 "안녕하십니까. 저는 성실함이 무기인 지원자입니다. 전 직장에서도 열심히 일했고..." (면접관: 하품 🥱)
 
-### (Updated) (Updated) ✅ After (임팩트) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (임팩트)
 
 "안녕하십니까. **데이터로 10억을 아낀 마케터**, OOO입니다. 전 직장에서 100번의 A/B 테스트를 통해 CAC를 30% 낮추는 성과를 냈습니다. 이제 그 노하우를 귀사의 폭발적인 성장에 쏟아붓고 싶습니다." (면접관: 오, 자세히 말해봐요 👀)
 
 ---
 
-## (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 면접은 '나'라는 상품을 파는 세일즈입니다.
 AI가 써준 세일즈 스크립트를 들고 가세요.
 
 떨지 마세요. 당신은 이미 준비되었습니다.
 **"합격입니다."** 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) Conclusion
 

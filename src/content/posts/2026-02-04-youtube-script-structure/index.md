@@ -9,7 +9,7 @@ description: "초반 5초 이탈을 막고 끝까지 시청하게 만드는 유�
 tags: ["유튜브", "대본", "영상제작"]
 ---
 
-# (Updated) 📝 조회수 떡상을 부르는 유튜브 대본 구조화 비법
+# (Updated) (Updated) 📝 조회수 떡상을 부르는 유튜브 대본 구조화 비법
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 유튜브 성공의 핵심은 시청 지속 시간을 늘리는 것입니다.
 2. AI에게 100만 유튜버 PD 역할을 맡겨 오프닝 훅부터 클로징까지 구조화된 대본을 받으세요.
@@ -33,9 +33,9 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 ---
 
-## (Updated) 🚀 해결책: "유튜브 스크립트 디렉터"
+## (Updated) (Updated) 🚀 해결책: "유튜브 스크립트 디렉터"
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -64,17 +64,17 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력)
 
 ```text
 혼자 영어 공부하는 법 영상 찍을 거야. 미드 쉐도잉하고, 영어 일기 쓰고, 혼잣말하기. 대본 써줘.
@@ -82,21 +82,21 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 <br>
 
-### (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과)
 
 ```text
 
 ---
 
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -105,10 +105,14 @@ A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘�
 A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합니다.
 
 ---
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 영상은 촬영보다 기획입니다. 편집으로 살릴 수 없는 영상, 대본으로 미리 심폐소생술 하세요.
 ```
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

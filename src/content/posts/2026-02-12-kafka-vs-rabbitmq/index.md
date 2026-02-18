@@ -9,7 +9,7 @@ description: "메시지 큐(Message Queue) 도입을 고민 중이라면? 처리
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 ---
 
-# (Updated) 📨 Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심
+# (Updated) (Updated) 📨 Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심
 
 - **🎯 추천 대상:** MSA 도입 후 서비스 간 통신이 꼬여버린 백엔드 개발자, 실시간 로그 처리가 필요한 데이터 엔지니어
 - **⏱️ 소요 시간:** 5분 (비교 분석)
@@ -25,7 +25,7 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Kafka:** "댐". 물(데이터)이 미친 듯이 쏟아져도 다 받아낸다. (대용량 로그, 스트리밍)
 2.  **RabbitMQ:** "우체국". 편지를 정확한 주소로 분류해서 배달한다. (복잡한 라우팅, 주문 처리)
@@ -33,9 +33,9 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 🚀 해결책: "MQ Architect Prompt"
+## (Updated) (Updated) 🚀 해결책: "MQ Architect Prompt"
 
-### (Updated) 🥉 Basic Version (개념 비교)
+### (Updated) (Updated) 🥉 Basic Version (개념 비교)
 
 뭘 써야 할지 감이 안 올 때.
 
@@ -43,7 +43,7 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (아키텍처 설계)
+### (Updated) (Updated) 🥇 Pro Version (아키텍처 설계)
 
 실제 시스템에 도입할 때.
 
@@ -65,7 +65,7 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 카프카는 메시지를 **"지우지 않습니다."** (설정 기간 동안)
 그래서 소비자가 데이터를 다시 읽을 수 있습니다(Replay).
@@ -74,7 +74,7 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: Redis도 큐로 쓸 수 있나요?**
   - A: 네, `Redis Pub/Sub`이나 `List`로 가능합니다. 하지만 메시지 유실 가능성이 높아서 중요하지 않은 알림 정도에만 쓰세요.
@@ -84,33 +84,37 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **하이브리드 설계:** "둘 중 하나만 골라"가 아니라 "섞어 써보자"고 제안함으로써, 각 도구의 장단점을 명확히 대조하는 답변을 끌어냅니다.
 2.  **구체적 기능 언급:** `Exchange`, `Partition` 등 핵심 용어를 프롬프트에 넣으면, AI가 수박 겉핥기 식 답변을 피하고 기술적인 깊이가 있는 설계를 내놓습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (HTTP 통신) {#http}
+### (Updated) (Updated) ❌ Before (HTTP 통신) {#http}
 
 주문 서버 -> (네트워크 오류) -> 배송 서버 (요청 실패, 주문 증발 😱)
 
-### (Updated) ✅ After (메시지 큐)
+### (Updated) (Updated) ✅ After (메시지 큐)
 
 주문 서버 -> **MQ(보관)** -> (나중에) -> 배송 서버
 "배송 서버가 죽었네? 살아나면 그때 줄게." (데이터 유실 0건 🛡️)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 트래픽이 무서운가요?
 그건 당신의 서버가 **'받아 적을 준비'**가 안 돼서 그렇습니다.
 
 메시지 큐를 도입하세요.
 **서버가 죽어도, 비즈니스는 돌아갑니다.** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

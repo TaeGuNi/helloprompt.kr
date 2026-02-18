@@ -7,11 +7,11 @@ tags: ["tui", "dev-tools", "cli"]
 
 In the fast-paced world of software development, the terminal has remained a constant companion. But gone are the days when terminal applications had to be stark, monochromatic, and difficult to navigate. Welcome to the era of **Modern TUI (Text User Interface) Development**.
 
-## (Updated) Why TUI? Why Now?
+## (Updated) (Updated) Why TUI? Why Now?
 
 Text User Interfaces offer a unique blend of efficiency and aesthetics. They consume fewer resources than GUIs, work over SSH, and are often faster for power users who prefer keyboard navigation. In 2026, we are seeing a renaissance in TUI development, driven by two key factors: **powerful new libraries** and **AI acceleration**.
 
-## (Updated) The Modern Stack
+## (Updated) (Updated) The Modern Stack
 
 Building a TUI used to require wrestling with ncurses or raw escape codes. Today, we have robust ecosystems across major languages:
 
@@ -20,7 +20,7 @@ Building a TUI used to require wrestling with ncurses or raw escape codes. Today
 - **Python**: [Textual](https://github.com/textualize/textual) brings a web-like development experience (with CSS!) to the terminal.
 - **Node.js**: [Ink](https://github.com/vadimdemedes/ink) allows you to build CLIs using React components.
 
-## (Updated) AI as an Accelerator
+## (Updated) (Updated) AI as an Accelerator
 
 The biggest game-changer, however, is AI. Large Language Models (LLMs) excel at generating the boilerplate code often required for UI layouts.
 
@@ -32,11 +32,15 @@ AI tools can also help with:
 - **Refactoring**: Converting legacy CLI flags into interactive TUI forms.
 - **Testing**: Writing simulation tests for user interactions.
 
-## (Updated) Conclusion
+## (Updated) (Updated) Conclusion
 
 There has never been a better time to build for the terminal. Whether you are building internal tools for your team or a public-facing CLI product, modern libraries combined with AI workflows allow you to ship polished, beautiful experiences in record time.
 
 Stop building boring scripts. Start building experiences.
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

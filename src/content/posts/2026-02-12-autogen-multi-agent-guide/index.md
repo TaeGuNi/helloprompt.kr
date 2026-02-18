@@ -9,7 +9,7 @@ description: "MS가 만든 멀티 에이전트 프레임워크 AutoGen. 개발�
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 
-# 🤖 AutoGen 입문: AI 에이전트끼리 대화하게 만들기
+# (Updated) 🤖 AutoGen 입문: AI 에이전트끼리 대화하게 만들기
 
 - **🎯 추천 대상:** 혼자 일하기 심심한 1인 개발자, 복잡한 업무를 여러 단계로 나눠서 처리하고 싶은 자동화 덕후
 - **⏱️ 소요 시간:** 20분 (환경 설정 및 데모 실행)
@@ -25,7 +25,7 @@ _"AI 하나로는 부족해. 코딩하는 놈, 검수하는 놈, 기획하는 �
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **UserProxy:** 사용자(나)를 대신해 명령을 내리고 코드를 실행하는 대리인.
 2.  **Assistant:** 명령을 수행하는 전문가 AI (개발자, 작가 등).
@@ -33,9 +33,9 @@ _"AI 하나로는 부족해. 코딩하는 놈, 검수하는 놈, 기획하는 �
 
 ---
 
-## 🚀 해결책: "Multi-Agent Setup Prompt"
+## (Updated) 🚀 해결책: "Multi-Agent Setup Prompt"
 
-### 🥉 Basic Version (코딩 듀오)
+### (Updated) 🥉 Basic Version (코딩 듀오)
 
 개발자와 관리자 2명 만들기.
 
@@ -47,7 +47,7 @@ _"AI 하나로는 부족해. 코딩하는 놈, 검수하는 놈, 기획하는 �
 
 <br>
 
-### 🥇 Pro Version (가상 회사 놀이)
+### (Updated) 🥇 Pro Version (가상 회사 놀이)
 
 기획자, 개발자, 디자이너 3인 체제.
 
@@ -66,14 +66,14 @@ _"AI 하나로는 부족해. 코딩하는 놈, 검수하는 놈, 기획하는 �
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 AutoGen의 백미는 **'코드 실행(Code Execution)'**입니다.
 UserProxy 에이전트는 도커(Docker) 컨테이너 안에서 실제로 코드를 돌려보고, 에러가 나면 **"야, 에러 났어. 고쳐와"**라고 개발자 에이전트를 갈굽니다. 인간이 개입할 필요가 없습니다. (무한 동력 ⚙️)
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 토큰 비용 많이 나오나요?**
   - A: 네, 에이전트끼리 말이 많아지면 토큰이 녹습니다. `max_consecutive_auto_reply` 옵션으로 대화 횟수를 제한하세요.
@@ -83,20 +83,20 @@ UserProxy 에이전트는 도커(Docker) 컨테이너 안에서 실제로 코드
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **GroupChat 활용:** 1:1 대화를 넘어 '단톡방'을 만들면, 에이전트끼리 순서를 정해서 말해야 합니다. 이를 제어하는 `GroupChatManager` 설정을 요청해야 엉망진창이 안 됩니다.
 2.  **역할 분담 명확화:** "비평가(Critic)"를 따로 두는 게 핵심입니다. 개발자 혼자 북 치고 장구 치면 퀄리티가 안 나옵니다. 쓴소리하는 놈이 있어야 결과물이 좋아집니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
-### ❌ Before (혼자 코딩)
+### (Updated) ❌ Before (혼자 코딩)
 
 GPT-4에게 "뱀 게임 짜줘" -> 코드 줌 -> 실행 안 됨 -> 내가 디버깅함 -> 귀찮아서 포기. 🤯
 
-### ✅ After (AutoGen 팀) {#autogen}
+### (Updated) ✅ After (AutoGen 팀) {#autogen}
 
 PM: "뱀 게임 기획서야."
 Dev: "코드 짰어."
@@ -107,7 +107,7 @@ UserProxy: "오, 잘 돌아가네. `snake.html`로 저장했어."
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 이제 혼자 일하지 마세요.
 API 키 몇 개만 있으면 **나만의 드림팀**을 꾸릴 수 있습니다.
@@ -115,14 +115,18 @@ API 키 몇 개만 있으면 **나만의 드림팀**을 꾸릴 수 있습니다.
 팀장님, 지시만 내리세요.
 **나머지는 AutoGen 아이들이 알아서 합니다.** 🍷
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
+
+## (Updated) Conclusion
+
+Wait, there is more...

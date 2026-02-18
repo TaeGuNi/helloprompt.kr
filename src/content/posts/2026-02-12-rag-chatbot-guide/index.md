@@ -9,7 +9,7 @@ description: "ChatGPT가 모르는 우리 회사 사내 규정, 매뉴얼을 학
 tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 ---
 
-# 🧠 RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기
+# (Updated) 🧠 RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기
 
 - **🎯 추천 대상:** "우리 회사 규정 물어보면 헛소리하는 챗봇"에 지친 담당자, 사내 위키를 AI로 검색하고 싶은 개발자
 - **⏱️ 소요 시간:** 30분 (파이프라인 구축)
@@ -25,7 +25,7 @@ _"GPT는 똑똑한데, 우리 회사 연차 규정은 몰라요."_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **임베딩(Embedding):** 문서를 쪼개서 숫자로 변환해 벡터 DB(Pinecone 등)에 저장한다.
 2.  **검색(Retrieval):** 질문이 들어오면 관련된 문서를 DB에서 찾아온다.
@@ -33,9 +33,9 @@ _"GPT는 똑똑한데, 우리 회사 연차 규정은 몰라요."_
 
 ---
 
-## 🚀 해결책: "RAG Architect Prompt"
+## (Updated) 🚀 해결책: "RAG Architect Prompt"
 
-### 🥉 Basic Version (개념 설계)
+### (Updated) 🥉 Basic Version (개념 설계)
 
 구조를 잡고 싶을 때.
 
@@ -43,7 +43,7 @@ _"GPT는 똑똑한데, 우리 회사 연차 규정은 몰라요."_
 
 <br>
 
-### 🥇 Pro Version (구현 코드 생성)
+### (Updated) 🥇 Pro Version (구현 코드 생성)
 
 실제 파이썬 코드가 필요할 때.
 
@@ -63,7 +63,7 @@ _"GPT는 똑똑한데, 우리 회사 연차 규정은 몰라요."_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 RAG의 품질은 **'청크(Chunk) 사이즈'**가 결정합니다.
 너무 잘게 쪼개면 문맥이 끊기고, 너무 크게 쪼개면 정확도가 떨어집니다.
@@ -71,7 +71,7 @@ RAG의 품질은 **'청크(Chunk) 사이즈'**가 결정합니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 한국어도 잘 되나요?**
   - A: 네, OpenAI의 `text-embedding-3-small` 모델은 한국어 성능도 훌륭합니다. 더 정교한 걸 원하면 `Upstage`의 솔라(Solar) 임베딩을 쓰세요.
@@ -81,28 +81,28 @@ RAG의 품질은 **'청크(Chunk) 사이즈'**가 결정합니다.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **구체적 라이브러리 명시:** `PyPDFLoader`, `ChromaDB` 등 사용할 도구를 콕 집어주면 AI가 뜬구름 잡는 소리 대신 바로 복붙 가능한 코드를 줍니다.
 2.  **파라미터 지정:** 청크 사이즈나 오버랩 같은 디테일한 설정값을 언급함으로써, "이 사람 좀 아는구나" 하고 AI가 더 전문적인 코드를 뱉게 유도합니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
-### ❌ Before (일반 GPT) {#gpt}
+### (Updated) ❌ Before (일반 GPT) {#gpt}
 
 **Q:** "우리 회사 경조사비 규정 알려줘."
 **A:** "죄송합니다. 저는 귀하의 회사 규정을 알 수 없습니다." (당연함)
 
-### ✅ After (RAG 봇) {#rag}
+### (Updated) ✅ After (RAG 봇) {#rag}
 
 **Q:** "우리 회사 경조사비 규정 알려줘."
 **A:** "(검색된 '2026\_사내규정.pdf' 참조) 결혼 시 축하금 100만 원과 화환이 지급됩니다. 신청은 인사팀에 1주일 전까지 해야 합니다." (완벽함 ✨)
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 AI는 만능이 아닙니다. 공부를 시켜야 똑똑해집니다.
 하지만 교과서를 통째로 외우게 할 필요는 없습니다.
@@ -111,14 +111,18 @@ AI는 만능이 아닙니다. 공부를 시켜야 똑똑해집니다.
 지금 바로 PDF를 모으세요.
 **당신의 데이터가 곧 AI의 지능입니다.** 🍷
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
+
+## (Updated) Conclusion
+
+Wait, there is more...

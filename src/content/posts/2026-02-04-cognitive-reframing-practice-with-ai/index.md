@@ -9,7 +9,7 @@ description: "'나는 망했어'라는 생각이 들 때, AI가 상황을 다른
 tags: ["멘탈케어", "인지행동치료", "리프레이밍", "자기긍정", "ChatGPT"]
 ---
 
-# 🔄 부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습 {#reframing}
+# (Updated) 🔄 부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습 {#reframing}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"실수 하나 했다고 '난 역시 안 돼'라며 스스로를 깎아내리�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 사용자의 부정적인 생각(자동적 사고)을 입력받아 분석합니다.
 2. 그 생각에 숨어 있는 인지적 오류(과잉 일반화, 독심술 등)를 찾아냅니다.
@@ -33,9 +33,9 @@ _"실수 하나 했다고 '난 역시 안 돼'라며 스스로를 깎아내리�
 
 ---
 
-## 🚀 해결책: "생각 고쳐쓰기 도우미"
+## (Updated) 🚀 해결책: "생각 고쳐쓰기 도우미"
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"실수 하나 했다고 '난 역시 안 돼'라며 스스로를 깎아내리�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,21 +68,21 @@ _"실수 하나 했다고 '난 역시 안 돼'라며 스스로를 깎아내리�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력)
 
 "나 실수했어. 죽고 싶어." -> (위로만 해줌, 근본적 해결 X)
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과)
 
 **[인지적 왜곡 분석]**
 
@@ -99,14 +99,14 @@ _"실수 하나 했다고 '난 역시 안 돼'라며 스스로를 깎아내리�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -116,18 +116,22 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 생각은 사실이 아닙니다. 단지 뇌가 만들어낸 신호일 뿐이죠. AI와 함께 생각의 방향을 살짝 틀어보세요. 세상이 다르게 보일 겁니다. 안경을 닦아 드릴게요. 👓
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
+
+## (Updated) Conclusion
+
+Wait, there is more...

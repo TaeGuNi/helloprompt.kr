@@ -9,7 +9,7 @@ description: "해야 할 일은 많은데 정리가 안 되나요? 우선순위 
 tags: ["계획표", "스케줄러", "시간관리", "생산성"]
 ---
 
-# 📝 갓생 살기 프로젝트! AI 주간 계획표(위클리 플래너) 작성
+# (Updated) 📝 갓생 살기 프로젝트! AI 주간 계획표(위클리 플래너) 작성
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 이번 주에 해야 할 일(To-Do)을 무작위로 나열.
 2. 중요도와 긴급도에 따라 우선순위 분류 (아이젠하워 매트릭스).
@@ -33,9 +33,9 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 ---
 
-## 🚀 해결책: "스마트 스케줄러"
+## (Updated) 🚀 해결책: "스마트 스케줄러"
 
-### 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,34 +72,34 @@ _"계획만 세우다 일주일이 다 갔나요? 중요한 일(Big Rock)부터 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) ❌ Before (입력)
 
 "이번 주 계획 짜줘."
 
-### ✅ After (결과)
+### (Updated) ✅ After (결과)
 
 (화요일 반차 쓰고 치과 가는 일정, 목요일 마감 보고서를 위해 월/화/수 저녁에 분산 배치, 주말에 몰아서 대청소 등 밸런스 잡힌 시간표)
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -109,20 +109,24 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 시간을 지배하는 자가 인생을 지배합니다. 완벽하지 않아도 좋습니다. 일단 적으세요.
 
 이제 칼퇴하세요! 🍷
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
 
-## Conclusion
+## (Updated) Conclusion
+
+## (Updated) Conclusion
+
+Wait, there is more...

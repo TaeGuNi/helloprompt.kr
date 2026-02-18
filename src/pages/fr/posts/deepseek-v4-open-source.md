@@ -55,4 +55,4 @@ DeepSeek-V4 n'est pas seulement une mise à jour de modèle. C'est un événemen
 
 Avec ces trois armes, DeepSeek-V4 est devenu le véritable "game changer" du marché de l'IA en 2026. La question doit maintenant passer de "L'open source peut-il rattraper son retard ?" à "Comment les modèles propriétaires vont-ils survivre ?".
 
-> _DeepSeek-V4 est actuellement disponible au téléchargement sur HuggingFace et peut être exécuté immédiatement sur les dernières versions de vLLM et Ollama._
+_DeepSeek-V4 est actuellement disponible au téléchargement sur HuggingFace et peut être exécuté immédiatement sur les dernières versions de vLLM et Ollama._

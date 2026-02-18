@@ -18,7 +18,7 @@ tags: ["KI-Agenten", "Automatisierung", "Produktivität", "Workflow"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nützlichkeit:** ⭐⭐⭐⭐⭐
 
-> _"Chatten Sie immer noch nur mit KI? Lassen Sie sie für sich arbeiten."_
+_"Chatten Sie immer noch nur mit KI? Lassen Sie sie für sich arbeiten."_
 
 Im Jahr 2026 „spricht“ KI nicht mehr nur. Sie plant, nutzt Werkzeuge und überprüft Ergebnisse. Dieser Prompt weist die Rolle eines „Agenten“ zu, um komplexe Aufgaben an die KI zu delegieren.
 
@@ -38,8 +38,8 @@ Im Jahr 2026 „spricht“ KI nicht mehr nur. Sie plant, nutzt Werkzeuge und üb
 
 Für einfache Automatisierungsszenarien.
 
-> **Rolle:** Du bist ein `[Geschäftsautomatisierungsexperte]`.
-> **Anfrage:** Entwirf einen Workflow für einen KI-Agenten, um die Aufgabe `[E-Mail-Newsletter zusammenfassen und an Slack senden]` auszuführen.
+**Rolle:** Du bist ein `[Geschäftsautomatisierungsexperte]`.
+**Anfrage:** Entwirf einen Workflow für einen KI-Agenten, um die Aufgabe `[E-Mail-Newsletter zusammenfassen und an Slack senden]` auszuführen.
 
 <br>
 

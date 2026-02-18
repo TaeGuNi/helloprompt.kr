@@ -802,352 +802,402 @@
   {
     "slug": "2026-02-04-fire-roadmap",
     "path": "src/content/posts/2026-02-04-fire-roadmap/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-monster-ecology-report",
     "path": "src/content/posts/2026-02-04-monster-ecology-report/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-bug-hunter-debugging-guide",
     "path": "src/content/posts/2026-02-04-bug-hunter-debugging-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-unit-test-generator-prompt",
     "path": "src/content/posts/2026-02-04-unit-test-generator-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-ui-component-generator",
     "path": "src/content/posts/2026-02-04-ui-component-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-bento-planner",
     "path": "src/content/posts/2026-02-12-ai-bento-planner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-serverless-lambda-optimization",
     "path": "src/content/posts/2026-02-12-serverless-lambda-optimization/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-debugging-helper",
     "path": "src/content/posts/2026-02-04-debugging-helper/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-dream-journal-analyzer",
     "path": "src/content/posts/2026-02-12-dream-journal-analyzer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-clean-code-refactoring-guide",
     "path": "src/content/posts/2026-02-04-clean-code-refactoring-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-interview-question-generator",
     "path": "src/content/posts/2026-02-04-interview-question-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-smartphone-usage-peace-treaty",
     "path": "src/content/posts/2026-02-04-smartphone-usage-peace-treaty/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-review-schedule-generator",
     "path": "src/content/posts/2026-02-04-review-schedule-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-meditation-script",
     "path": "src/content/posts/2026-02-12-ai-meditation-script/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-10-data-cleaning-assistant",
     "path": "src/content/posts/2026-02-10-data-cleaning-assistant/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-presentation-speech-coach",
     "path": "src/content/posts/2026-02-12-presentation-speech-coach/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-excel-vba-macro-generator",
     "path": "src/content/posts/2026-02-04-excel-vba-macro-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-animal-kingdom-exploration-story",
     "path": "src/content/posts/2026-02-04-animal-kingdom-exploration-story/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-personal-color-test",
     "path": "src/content/posts/2026-02-12-ai-personal-color-test/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-improving-llm-coding-harness",
     "path": "src/content/posts/2026-02-13-improving-llm-coding-harness/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-ai-macro-nutrient-calculator",
     "path": "src/content/posts/2026-02-04-ai-macro-nutrient-calculator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-meeting-minutes-summarizer",
     "path": "src/content/posts/2026-02-04-meeting-minutes-summarizer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-13-wasm-cloud-2026",
     "path": "src/content/posts/2026-02-13-wasm-cloud-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-landmark-history-crash-course",
     "path": "src/content/posts/2026-02-04-landmark-history-crash-course/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-smart-glasses-meta",
     "path": "src/content/posts/2026-02-14-smart-glasses-meta/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-freelancer-tax-guide",
     "path": "src/content/posts/2026-02-04-freelancer-tax-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-commit-message-generator",
     "path": "src/content/posts/2026-02-04-commit-message-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-storytelling-technique",
     "path": "src/content/posts/2026-02-04-storytelling-technique/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-ai-journaling-prompt-for-self-discovery",
     "path": "src/content/posts/2026-02-04-ai-journaling-prompt-for-self-discovery/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-meeting-minutes-secretary",
     "path": "src/content/posts/2026-02-04-meeting-minutes-secretary/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-hero-vs-hero-comparison",
     "path": "src/content/posts/2026-02-04-hero-vs-hero-comparison/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-regex-generator",
     "path": "src/content/posts/2026-02-12-regex-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-story-plot-generator",
     "path": "src/content/posts/2026-02-04-story-plot-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-rembrandt-lighting-portrait",
     "path": "src/content/posts/2026-02-04-rembrandt-lighting-portrait/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-wine-food-pairing-guide",
     "path": "src/content/posts/2026-02-12-wine-food-pairing-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-one-week-healing-travel-plan-for-burnout",
     "path": "src/content/posts/2026-02-04-one-week-healing-travel-plan-for-burnout/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-stoic-morning-reflection",
     "path": "src/content/posts/2026-02-12-ai-stoic-morning-reflection/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 70
   },
   {
     "slug": "2026-02-12-ai-asset-portfolio-manager",
     "path": "src/content/posts/2026-02-12-ai-asset-portfolio-manager/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-personalized-hero-story-for-kids",
     "path": "src/content/posts/2026-02-04-personalized-hero-story-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-resume-skill-gap-analysis",
     "path": "src/content/posts/2026-02-04-resume-skill-gap-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-obsidian-second-brain-setup",
     "path": "src/content/posts/2026-02-11-obsidian-second-brain-setup/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-multi-agent-orchestration-2026",
     "path": "src/content/posts/2026-02-11-multi-agent-orchestration-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-travel-conversation-cheatsheet",
     "path": "src/content/posts/2026-02-04-travel-conversation-cheatsheet/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-interview-weakness-defense-strategy",
     "path": "src/content/posts/2026-02-04-interview-weakness-defense-strategy/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-legacy-code-interpreter",
     "path": "src/content/posts/2026-02-04-legacy-code-interpreter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-developer-burnout-check",
     "path": "src/content/posts/2026-02-11-developer-burnout-check/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-city-history-timeline-summarizer",
     "path": "src/content/posts/2026-02-04-city-history-timeline-summarizer/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-13-generative-ui-design",
     "path": "src/content/posts/2026-02-13-generative-ui-design/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-content-repurposing",
     "path": "src/content/posts/2026-02-11-content-repurposing/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-travel-itinerary-planner",
     "path": "src/content/posts/2026-02-04-travel-itinerary-planner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-ketogenic-diet-starter-guide",

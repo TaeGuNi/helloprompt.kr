@@ -9,7 +9,7 @@ description: "노션이 느려졌다면? 로컬 기반, 마크다운, 무한 연
 tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 ---
 
-# (Updated) 🧠 Obsidian 생산성 셋업: 제2의 뇌 만들기 (Second Brain) {#second-brain}
+# (Updated) (Updated) 🧠 Obsidian 생산성 셋업: 제2의 뇌 만들기 (Second Brain) {#second-brain}
 
 - **🎯 추천 대상:** 노션(Notion)의 로딩 속도에 지친 기록 덕후, 나만의 위키(Wiki)를 만들고 싶은 지식 근로자
 - **⏱️ 소요 시간:** 10분 (플러그인 설치)
@@ -25,7 +25,7 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **설치:** Obsidian을 깔고 '새 보관소(Vault)'를 만든다.
 2.  **연결:** `[[대괄호]]`를 써서 문서끼리 링크를 건다. (위키 방식)
@@ -33,9 +33,9 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 
 ---
 
-## (Updated) 🚀 해결책: "Obsidian Architect Prompt"
+## (Updated) (Updated) 🚀 해결책: "Obsidian Architect Prompt"
 
-### (Updated) 🥉 Basic Version (일기장 템플릿)
+### (Updated) (Updated) 🥉 Basic Version (일기장 템플릿)
 
 매일 쓰는 데일리 노트(Daily Note) 서식.
 
@@ -43,7 +43,7 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (제2의 뇌 구조 설계)
+### (Updated) (Updated) 🥇 Pro Version (제2의 뇌 구조 설계)
 
 PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
@@ -59,7 +59,7 @@ PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 옵시디언의 진가는 **Dataview** 플러그인에서 나옵니다.
 노트들을 마치 데이터베이스처럼 쿼리(SQL)할 수 있습니다.
@@ -68,7 +68,7 @@ PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 모바일 동기화는 어떻게 하나요?**
   - A: 공식 유료 싱크($8/월)가 편하지만, 무료인 `iCloud`(애플)나 `Syncthing`, `Git`을 써도 됩니다.
@@ -78,31 +78,35 @@ PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **방법론 적용:** 단순히 "폴더 어떻게 만들까?"보다 "PARA 방법론으로 짜줘"라고 하면 훨씬 체계적인 구조가 나옵니다. AI는 유명한 프레임워크를 잘 이해하고 있으니까요.
 2.  **타겟 맞춤:** "개발자"라고 명시해서 코드 블럭이나 깃허브 연동 같은 꿀팁을 끌어냅니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (메모장)
+### (Updated) (Updated) ❌ Before (메모장)
 
 "그때 그 아이디어 어디 적어놨더라..." (메모장, 카톡, 노션 뒤지다가 포기 🤯)
 
-### (Updated) ✅ After (옵시디언)
+### (Updated) (Updated) ✅ After (옵시디언)
 
 검색창에 키워드 입력 -> 관련 문서들이 줄줄이 비엔나처럼 연결되어 나옴. -> **"아, 이거랑 저거랑 연결하면 되겠다!"** (인사이트 폭발 💡)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 도구는 생각의 속도를 결정합니다.
 로딩 없는 쾌적함, 내 데이터에 대한 통제권.
 
 옵시디언으로 당신만의 **우주**를 건설하세요. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

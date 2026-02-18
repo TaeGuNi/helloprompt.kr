@@ -25,7 +25,7 @@ _“想让主人公清晰，背景梦幻地飞走。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Bokeh`, `Blurry background` 关键词是必须的。
 2. 请使用 `Shallow depth of field` (浅景深) 或 `f/1.8` 这样的光圈值。
@@ -62,7 +62,7 @@ _“想让主人公清晰，背景梦幻地飞走。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

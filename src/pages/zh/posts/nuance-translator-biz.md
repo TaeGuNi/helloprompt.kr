@@ -27,7 +27,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## ⚡️ 3行总结 (TL;DR)
+## ⚡️ 3行总结 (TL;DR) {#tl-dr}
 
 1.  用母语随便写。（“把这个快点搞定”）
 2.  告诉AI **“改成商务语气”**。
@@ -70,7 +70,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 1.  **三明治话术:** 指示AI用 称赞(面包) - 拒绝/要求(肉) - 称赞(面包) 的方式包裹话术。比直接说“便宜点”成功率高得多。
 2.  **要求3个选项:** 根据语气轻重给选项是很好的习惯。(Casual / Formal / Urgent 等)
@@ -84,7 +84,7 @@ _"Send me the file ASAP."_
 **Me:** "Please check attached file. If error, tell me."
 **Receiver:** (什么鬼，在命令我吗？)
 
-### ✅ After (AI 矫正)
+### ✅ After (AI 矫正) {#ai}
 
 **AI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
 **Receiver:** (噢，是个有教养的人。马上帮他确认。)

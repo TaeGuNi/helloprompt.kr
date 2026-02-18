@@ -25,7 +25,7 @@ _"不想用 'I'm good to go' 或 'Couldn't be better' 代替 'I'm fine thank you
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 输入平凡的句子转换为母语者常用的惯用语/俚语
 2. 说明相应表达的由来 (Origin) 和准确语感
@@ -66,7 +66,7 @@ _"不想用 'I'm good to go' 或 'Couldn't be better' 代替 'I'm fine thank you
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

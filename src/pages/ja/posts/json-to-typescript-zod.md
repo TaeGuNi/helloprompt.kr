@@ -9,7 +9,7 @@ description: "複雑なJSONデータをTypeScriptインターフェースやZod�
 tags: ["TypeScript", "Zod", "JSON", "型定義", "生産性"]
 ---
 
-# 📝 JSONだけ投げればTypeScript型定義がパッ！(feat. Zod)
+# 📝 JSONだけ投げればTypeScript型定義がパッ！(feat. Zod) {#feat-zod}
 
 **🎯 推奨対象:** 誰でも
 **⏱️ 所要時間:** 5分
@@ -27,7 +27,7 @@ APIレスポンスJSONだけコピーして入れてください。完璧なType
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. JSONデータをTypeScript Interface/Typeに変換
 2. ランタイム有効性検査のためのZod/Yupスキーマ生成
@@ -74,13 +74,13 @@ APIレスポンスJSONだけコピーして入れてください。完璧なType
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 
 ## 📊 証明: Before & After
 
-### ❌ Before (入力JSON)
+### ❌ Before (入力JSON) {#json}
 
 ```text
 {

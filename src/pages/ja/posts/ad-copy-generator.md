@@ -31,7 +31,7 @@ Meta(Facebook/Instagram)広告マネージャーで素材セッティングす�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. ターゲット顧客のペインポイント(Pain Point)に触れるフッキング文句を作ります。
 2. 製品/サービスの核心USP(Unique Selling Point)を自然に溶け込ませます。
@@ -78,7 +78,7 @@ Meta(Facebook/Instagram)広告マネージャーで素材セッティングす�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

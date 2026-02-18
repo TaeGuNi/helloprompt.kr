@@ -25,7 +25,7 @@ _「Back to the Future 感じの紫色の夕日とグリッド床が必要だ。
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. `Synthwave`、`Retrowave`、`80s aesthetics`キーワードを使用してください。
 2. `Neon grid`、`Retro sun`、`Palm trees`は必須要素です。
@@ -62,7 +62,7 @@ _「Back to the Future 感じの紫色の夕日とグリッド床が必要だ。
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

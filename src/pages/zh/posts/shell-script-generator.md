@@ -9,7 +9,7 @@ description: "不需要背诵复杂的 Linux 命令。只要说出想要的操�
 tags: ["Linux", "Shell脚本", "DevOps", "自动化", "Bash"]
 ---
 
-# 📝 服务器管理之神，Shell 脚本 (Shell Script) 自动生成器
+# 📝 服务器管理之神，Shell 脚本 (Shell Script) 自动生成器 {#shell-script}
 
 **🎯 推荐对象:** 所有人
 **⏱️ 所需时间:** 5 分钟
@@ -26,7 +26,7 @@ _“要压缩日志文件备份，删除 30 天前的... 命令是什么来着�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 将复杂的系统管理作业转换为自动化脚本
 2. 包含错误处理 (Error Handling) 及日志记录功能
@@ -72,7 +72,7 @@ _“要压缩日志文件备份，删除 30 天前的... 命令是什么来着�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

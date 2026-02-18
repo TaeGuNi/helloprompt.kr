@@ -25,7 +25,7 @@ _"说好以后再改，结果一年过去了。现在根本不敢碰它。"_
 
 ---
 
-## ⚡️ 3句话总结 (TL;DR)
+## ⚡️ 3句话总结 (TL;DR) {#tl-dr}
 
 1. 消除重复代码并分离函数 (Extract Method)
 2. 改进含义不明的变量/函数名 (Naming Convention)
@@ -72,7 +72,7 @@ _"说好以后再改，结果一年过去了。现在根本不敢碰它。"_
 
 ---
 
-## 🧬 提示词剖析 (Why it works?)
+## 🧬 提示词剖析 (Why it works?) {#why-it-works}
 
 该提示词通过结合明确的角色设定和具体的指示事项 (Task)，旨在让 AI 准确把握意图。引导分步思考 (Chain of Thought)，从而获得符合逻辑的回答。
 
@@ -120,14 +120,14 @@ def calculate_discounted_price(age, price):
 
 ---
 
-## 💡 作者评论 (Insight)
+## 💡 作者评论 (Insight) {#insight}
 
 该提示词重点在于可以在实际工作中立即使用的实用性。
 如果结果不满意，请尝试更具体地设置输入变量或情况 (Context)。
 
 ---
 
-## 🙋 常见问题 (FAQ)
+## 🙋 常见问题 (FAQ) {#faq}
 
 **Q. 结果不满意。**
 A. 请添加具体的示例，或更详细地描述情况 (Context)。

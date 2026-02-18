@@ -25,7 +25,7 @@ _“想做出以前学校讲义或 Hip 的海报一样的，稍微粗糙的印�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 请使用 `Risograph style`, `Riso print` 关键词。
 2. `Misaligned colors` (颜色错位) 是孔版印刷的生命。
@@ -62,7 +62,7 @@ _“想做出以前学校讲义或 Hip 的海报一样的，稍微粗糙的印�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

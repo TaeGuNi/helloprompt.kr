@@ -24,7 +24,7 @@ _"还在只和 AI 聊天吗？让它为你工作吧。"_
 
 ---
 
-## ⚡️ 3行摘要 (TL;DR)
+## ⚡️ 3行摘要 (TL;DR) {#tl-dr}
 
 1. 为 AI 定义明确的“角色”和“工具”。
 2. 将任务分步（Step-by-step）分解执行。
@@ -34,7 +34,7 @@ _"还在只和 AI 聊天吗？让它为你工作吧。"_
 
 ## 🚀 解决方案: "Agentic Workflow Designer"
 
-### 🥉 基础版 (Basic Version)
+### 🥉 基础版 (Basic Version) {#basic-version}
 
 用于简单的自动化场景。
 
@@ -43,7 +43,7 @@ _"还在只和 AI 聊天吗？让它为你工作吧。"_
 
 <br>
 
-### 🥇 专业版 (Pro Version)
+### 🥇 专业版 (Pro Version) {#pro-version}
 
 需要复杂的多步推理和工具使用时。
 
@@ -72,20 +72,20 @@ _"还在只和 AI 聊天吗？让它为你工作吧。"_
 
 ---
 
-## 💡 作者见解 (Insight)
+## 💡 作者见解 (Insight) {#insight}
 
 代理工作流的核心是“错误处理”。设计 AI 在受阻时不仅仅是停止，而是绕道或寻求人工帮助，这才是真正的自动化完成。
 
 ---
 
-## 🙋 常见问题 (FAQ)
+## 🙋 常见问题 (FAQ) {#faq}
 
 - **Q: 我需要懂代码吗？**
   - A: 不需要，此提示词处于绘制“蓝图”阶段。实际实施可以使用无代码工具 (Zapier, Make) 或 AI 编程工具。
 
 ---
 
-## 🧬 提示词剖析 (Why it works?)
+## 🧬 提示词剖析 (Why it works?) {#why-it-works}
 
 1.  **Tools Definition:** 明确 AI 能做什么（工具），减少幻觉。
 2.  **Fallback Strategy:** 提前规划失败场景，提高稳定性。

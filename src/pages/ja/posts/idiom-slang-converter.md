@@ -25,7 +25,7 @@ _"I'm fine thank you" の代わりに "I'm good to go" や "Couldn't be better" 
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. 平凡な文章を入力すればネイティブがよく使う慣用句/スラングに変換
 2. 該当表現の由来(Origin)と正確なニュアンス説明
@@ -66,7 +66,7 @@ _"I'm fine thank you" の代わりに "I'm good to go" や "Couldn't be better" 
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

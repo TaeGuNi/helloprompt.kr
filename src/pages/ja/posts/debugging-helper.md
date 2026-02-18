@@ -25,7 +25,7 @@ _"NullPointerException? 一体どこがNullだと言うんだ？"_
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. エラーメッセージと関連コードを分析して問題原因(Root Cause)識別
 2. 修正されたコード(Fixed Code)と共になぜ直すべきか理由説明
@@ -70,7 +70,7 @@ _"NullPointerException? 一体どこがNullだと言うんだ？"_
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

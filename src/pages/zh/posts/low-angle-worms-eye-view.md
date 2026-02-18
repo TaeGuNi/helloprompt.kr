@@ -26,7 +26,7 @@ _“想让角色看起来更强更伟大。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 请使用 `Low angle shot`, `Worm's eye view`。
 2. 用 `Looking up` 关键词明确视线处理。
@@ -63,7 +63,7 @@ _“想让角色看起来更强更伟大。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

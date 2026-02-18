@@ -9,7 +9,7 @@ description: "RVC(Retrieval-based Voice Conversion) 기술로 목소리를 변�
 tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 ---
 
-# (Updated) (Updated) 🎤 AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법 {#tts}
+# (Updated) (Updated) (Updated) 🎤 AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법 {#tts}
 
 - **🎯 추천 대상:** 버추얼 유튜버를 꿈꾸는 사람, 내 목소리가 맘에 안 들어서 녹음을 꺼리는 크리에이터
 - **⏱️ 소요 시간:** 20분 (모델 학습 및 변환)
@@ -26,7 +26,7 @@ _"내 목소리는 너무 낮은데... 좀 더 밝고 귀여운 목소리로 방
 
 ---
 
-## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  바꾸고 싶은 대상의 깨끗한 목소리 파일(10분 분량)을 구한다.
 2.  Google Colab에서 RVC 모델을 학습시킨다.
@@ -34,9 +34,9 @@ _"내 목소리는 너무 낮은데... 좀 더 밝고 귀여운 목소리로 방
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Voice Cloner Prompt" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Voice Cloner Prompt"
 
-### (Updated) (Updated) 🥉 Basic Version (상용 TTS 사용) {#tts}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (상용 TTS 사용) {#tts}
 
 텍스트를 읽어주는 고퀄리티 성우.
 
@@ -45,7 +45,7 @@ _"내 목소리는 너무 낮은데... 좀 더 밝고 귀여운 목소리로 방
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (RVC 실시간 변조) {#rvc}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (RVC 실시간 변조) {#rvc}
 
 실시간 방송이나 디스코드 채팅용.
 
@@ -61,13 +61,13 @@ _"내 목소리는 너무 낮은데... 좀 더 밝고 귀여운 목소리로 방
 
 ---
 
-## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 가장 중요한 건 **'데이터 정제'**입니다. 배경음악(BGM)이 섞인 목소리로 학습하면 AI가 노래를 부를 때 배경음악도 같이 흥얼거립니다. **UVR5(Ultimate Vocal Remover)** 같은 도구로 반주를 완벽하게 제거한 목소리(Acappella)만 써야 합니다.
 
 ---
 
-## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 연예인 목소리 써도 되나요?**
   - A: 개인 소장은 괜찮지만, 상업적 이용(유튜브 수익 창출 등)은 **퍼블리시티권 침해** 소지가 큽니다. 조심하세요.
@@ -77,31 +77,35 @@ _"내 목소리는 너무 낮은데... 좀 더 밝고 귀여운 목소리로 방
 
 ---
 
-## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **도구 구체화(UVR5, VB-Audio):** 목소리 변조의 핵심은 '깨끗한 입력'과 '송출 경로'입니다. 전문 도구를 언급하며 질문하면, 단순한 "신기하네요" 수준을 넘어 **실전 세팅법**을 알려줍니다.
 2.  **윤리적 경고:** 연예인 목소리 사용에 대한 주의사항을 짚어줌으로써, 사용자가 법적 리스크를 인지하게 합니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) (Updated) ❌ Before (음성 변조기) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (음성 변조기)
 
 "아아, 마이크 테스트." (헬륨 가스 마신 목소리, 기계음 심함 🤖)
 
-### (Updated) (Updated) ✅ After (RVC AI)
+### (Updated) (Updated) (Updated) ✅ After (RVC AI)
 
 "안녕하세요~ 반가워요!" (숨소리까지 리얼한, 진짜 사람 같은 목소리 👩)
 
 ---
 
-## (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 목소리는 제2의 얼굴입니다.
 AI를 통해 새로운 페르소나를 입으세요.
 
 당신이 누구든, **원하는 목소리**가 될 수 있습니다. 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) Conclusion
 

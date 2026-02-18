@@ -9,7 +9,7 @@ description: "엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# (Updated) (Updated) 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템 {#updated}
+# (Updated) (Updated) (Updated) 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템
 
 - **🎯 추천 대상:** 뱅크샐러드, 토스만 보고 돈 관리가 안 되는 사람, 내 돈이 어디로 새는지 직접 눈으로 확인하고 싶은 사람
 - **⏱️ 소요 시간:** 10분 (템플릿 복제 및 설정)
@@ -25,7 +25,7 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  노션에 '수입/지출' 데이터베이스를 만든다.
 2.  AI에게 **"이번 달 잔액 구하는 노션 수식(Formula) 짜줘"**라고 시킨다.
@@ -33,9 +33,9 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Notion Formula Architect" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Notion Formula Architect"
 
-### (Updated) (Updated) 🥉 Basic Version (수식 생성) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (수식 생성)
 
 노션 수식이 어려울 때.
 
@@ -43,7 +43,7 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (관계형 DB & 대시보드 구축) {#db}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (관계형 DB & 대시보드 구축) {#db}
 
 가계부를 넘어선 자산 관리 시스템.
 
@@ -58,7 +58,7 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 노션 가계부의 핵심은 **'Progress Bar(진행률 바)'**입니다.
 단순히 숫자만 있는 것보다, 예산이 줄어드는 게 시각적으로 보이면 지출 통제 효과가 확실합니다.
@@ -66,7 +66,7 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 카드 내역 자동 연동 되나요?**
   - A: 노션은 보안상 은행 연동이 안 됩니다. 하지만 이게 장점입니다. 직접 쓰면서 '아픔'을 느껴야 절약이 됩니다.
@@ -76,20 +76,20 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **시각화(Visual) 요청:** 노션 수식의 꽃은 시각화입니다. "퍼센트 바", "이모지"를 넣어달라고 구체적으로 요구해야 AI가 `repeat("▓", ...)` 같은 고급 함수를 써서 예쁜 화면을 만들어줍니다.
 2.  **관계형(Relation) 설계:** 가계부의 끝판왕은 '통계'입니다. `월별 DB`와 `지출 DB`를 연결(Relation)하고 롤업(Rollup)하는 구조를 AI에게 맡기면, 복잡한 데이터 모델링을 대신 해줍니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) (Updated) ❌ Before (카드 명세서) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (카드 명세서)
 
 "아... 지난달에 배달 음식 50만 원 썼네? 미쳤다." (이미 늦음 💸)
 
-### (Updated) (Updated) ✅ After (노션 가계부) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (노션 가계부)
 
 **대시보드:** [식비 예산: ▓▓▓▓▓░░░░░ 50%]
 "어? 벌써 예산 절반 썼네? 오늘은 집밥 먹자."
@@ -97,13 +97,17 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 돈을 모으는 건 머리가 아니라 **시스템**입니다.
 내 통장을 갉아먹는 구멍을 막으세요.
 
 노션 한 페이지면 충분합니다.
 **"오늘부터 내 돈은 내가 관리한다."** 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) Conclusion
 

@@ -9,7 +9,7 @@ description: "보조지표 볼 줄 모르는 주린이를 위한 AI 애널리스
 tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
 ---
 
-# (Updated) (Updated) 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기 {#updated}
+# (Updated) (Updated) (Updated) 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기
 
 - **🎯 추천 대상:** "이거 지금 들어가도 돼?" 맨날 친구한테 묻는 주린이, 차트만 보면 까막눈이 되는 투자자
 - **⏱️ 소요 시간:** 10초 (캡처 -> 업로드)
@@ -26,7 +26,7 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 ---
 
-## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  MTS(증권 앱)에서 차트를 캡처한다.
 2.  ChatGPT에게 이미지를 올린다.
@@ -34,9 +34,9 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Chart Vision Analyst" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Chart Vision Analyst"
 
-### (Updated) (Updated) 🥉 Basic Version (단순 패턴 인식) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 패턴 인식)
 
 지금 추세가 상승인지 하락인지 궁금할 때.
 
@@ -45,7 +45,7 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가급 기술적 분석) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가급 기술적 분석)
 
 매수/매도 시점을 정밀하게 잡고 싶을 때.
 
@@ -66,36 +66,36 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 ---
 
-## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Vision 기능 활용:** 최신 LLM(GPT-4o, Gemini 1.5)은 이미지를 텍스트만큼 잘 이해합니다. 캔들(봉)의 모양과 추세선을 기가 막히게 읽어냅니다.
 2.  **시나리오 경영:** "오른다/내린다"를 맞히는 게 투자가 아닙니다. "오르면 어떻게, 내리면 어떻게 대응할지" 계획을 세우는 게 투자입니다. AI에게 두 가지 시나리오를 모두 요구하여 대응 전략을 짭니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (뇌동매매) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (뇌동매매)
 
 "오, 빨간 불기둥! 뜬다! 가즈아!" (시장가 매수 -> 1분 뒤 폭락)
 
-### (Updated) (Updated) ✅ After (AI 분석) {#ai}
+### (Updated) (Updated) (Updated) ✅ After (AI 분석) {#ai}
 
 **AI:** "현재 차트는 급격한 상승 후 조정받는 '눌림목' 구간입니다. 하지만 거래량이 줄어들고 있어 추가 하락 가능성이 있습니다. **60,000원 지지선을 지키는지 확인하고 진입**하는 것을 추천합니다."
 (결과: 6만원 깨지는 거 보고 매수 보류 -> 손실 방어 🛡️)
 
 ---
 
-## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -105,13 +105,17 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 AI는 점쟁이가 아닙니다. 미래를 볼 순 없습니다.
 하지만 **우리가 놓친 현재의 신호**를 누구보다 잘 봅니다.
 
 매수 버튼 누르기 전에 딱 10초만 참으세요.
 AI에게 스크린샷 한번 보여주고 눌러도 늦지 않습니다. 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) Conclusion
 

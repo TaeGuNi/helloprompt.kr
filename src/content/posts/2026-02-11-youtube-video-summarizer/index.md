@@ -9,7 +9,7 @@ description: "긴 영상 볼 시간 없는 당신을 위해. 자막(Transcript)�
 tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 ---
 
-# (Updated) 📺 유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법 {#summary}
+# (Updated) (Updated) 📺 유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법 {#summary}
 
 - **🎯 추천 대상:** 2배속으로 봐도 시간이 모자란 현대인, 정보 습득이 목적인데 썸네일 낚시 당하기 싫은 사람
 - **⏱️ 소요 시간:** 10초
@@ -25,7 +25,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  유튜브 영상 더보기란 -> **'스크립트 표시(Show Transcript)'** 클릭.
 2.  스크립트를 전체 복사한다. (타임스탬프 포함돼도 상관없음)
@@ -33,9 +33,9 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 ---
 
-## (Updated) 🚀 해결책: "Video Summarizer Prompt"
+## (Updated) (Updated) 🚀 해결책: "Video Summarizer Prompt"
 
-### (Updated) 🥉 Basic Version (핵심 요약)
+### (Updated) (Updated) 🥉 Basic Version (핵심 요약)
 
 내용 파악만 빠르게 하고 싶을 때.
 
@@ -43,7 +43,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (타임스탬프 학습 노트)
+### (Updated) (Updated) 🥇 Pro Version (타임스탬프 학습 노트)
 
 강의나 정보성 영상을 공부할 때.
 
@@ -61,13 +61,13 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 PC에서는 **'YouTube Summary with ChatGPT'** 같은 크롬 확장 프로그램을 쓰면 복사/붙여넣기 과정조차 필요 없습니다. 버튼 하나 누르면 옆에 요약이 뜹니다. 하지만 모바일에서는 이 프롬프트 방식이 유일한 구원입니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 자막이 없는 영상은요?**
   - A: 요즘 유튜브는 자동 자막 생성 기능이 좋아져서 대부분 있습니다. 정 없다면... 그건 AI도 어쩔 수 없습니다. (Whisper를 써야죠!)
@@ -77,20 +77,20 @@ PC에서는 **'YouTube Summary with ChatGPT'** 같은 크롬 확장 프로그램
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **타임스탬프 요청:** 단순히 요약만 하면 나중에 "이 내용이 영상 어디에 있었지?" 하고 찾기 힘듭니다. 타임스탬프를 같이 달라고 하면, 해당 부분만 다시 돌려볼 수 있어 학습 효율이 극대화됩니다.
 2.  **액션 아이템:** 정보성 영상의 목적은 '행동'입니다. "그래서 뭐 하라고?"를 명확히 뽑아냄으로써 영상의 가치를 내 것으로 만듭니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (20분 시청)
+### (Updated) (Updated) ❌ Before (20분 시청)
 
 (딴짓하다가 놓쳐서 되감기... 광고 보고... 결국 다 보고 나니 "별거 없네" 🤬)
 
-### (Updated) ✅ After (10초 요약)
+### (Updated) (Updated) ✅ After (10초 요약)
 
 > **AI:** "이 영상은 `옵시디언` 설치법을 다룹니다.
 
@@ -100,12 +100,16 @@ PC에서는 **'YouTube Summary with ChatGPT'** 같은 크롬 확장 프로그램
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 시간은 금입니다. 유튜브 알고리즘에 시간을 뺏기지 마세요.
 정보의 주도권을 되찾아오세요.
 
 **"요약해 줘."** 이 한마디가 당신의 시간을 지켜줍니다. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

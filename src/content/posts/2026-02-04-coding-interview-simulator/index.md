@@ -9,7 +9,7 @@ description: "네카라쿠배 코딩 테스트와 기술 면접을 대비하기 
 tags: ["코딩테스트", "기술면접", "알고리즘", "취업준비"]
 ---
 
-# 📝 개발자 면접 프리패스: 알고리즘 인터뷰 모의고사
+# (Updated) (Updated) (Updated) 📝 개발자 면접 프리패스: 알고리즘 인터뷰 모의고사 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"문제를 풀긴 풀었는데, 왜 이렇게 풀었냐고 물어보면 뭐라�
 
 ---
 
-## 🚀 해결책: "AI 면접관 시뮬레이터"
+## (Updated) (Updated) (Updated) 🚀 해결책: "AI 면접관 시뮬레이터" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"문제를 풀긴 풀었는데, 왜 이렇게 풀었냐고 물어보면 뭐라�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"문제를 풀긴 풀었는데, 왜 이렇게 풀었냐고 물어보면 뭐라�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (내 풀이)
+### (Updated) (Updated) (Updated) ❌ Before (내 풀이) {#updated}
 
 이중 for문을 써서 O(N^2)으로 풀었음. "답 맞았으니 넘어가야지~"
 
-### ✅ After (프롬프트 결과)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **[복잡도 분석]**
 당신의 코드는 $O(N^2)$입니다. 입력값 N이 10,000개만 넘어가도 타임아웃(Time Limit Exceeded)이 발생할 겁니다. 실무에서는 절대 쓸 수 없는 코드입니다.

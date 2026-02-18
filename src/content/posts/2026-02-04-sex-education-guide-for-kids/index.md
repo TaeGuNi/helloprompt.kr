@@ -9,7 +9,7 @@ description: "성교육, 피하지 말고 정확하고 아름답게 설명하는
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# 📝 더 이상 '다리 밑에서 주워왔다'고 하지 마세요
+# (Updated) (Updated) (Updated) 📝 더 이상 '다리 밑에서 주워왔다'고 하지 마세요 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"'엄마, 아기는 어디로 나와?' 아이의 순수한 질문에 얼굴이 
 
 ---
 
-## 🚀 해결책: "우리 아이 첫 성교육 가이드"
+## (Updated) (Updated) (Updated) 🚀 해결책: "우리 아이 첫 성교육 가이드" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"'엄마, 아기는 어디로 나와?' 아이의 순수한 질문에 얼굴이 
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"'엄마, 아기는 어디로 나와?' 아이의 순수한 질문에 얼굴이 
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 아기 어떻게 생기냐고 물으면?
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 엄마 몸속에는 아기씨가 자라는 따뜻한 아기방(자궁)이 있어. 아빠가 사랑의 씨앗을 나눠주면 엄마의 아기씨랑 만나서 아기가 되는 거야...

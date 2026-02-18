@@ -9,7 +9,7 @@ description: "AI가 특정 철학자의 페르소나를 쓰고 나와 끊임없�
 tags: ["철학", "논리력", "토론", "사고실험"]
 ---
 
-# 📝 소크라테스와 말싸움하기: 철학 논쟁 파트너
+# (Updated) (Updated) (Updated) 📝 소크라테스와 말싸움하기: 철학 논쟁 파트너 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"트롤리 딜레마, 과연 1명을 희생해서 5명을 구하는 게 옳을�
 
 ---
 
-## 🚀 해결책: "필로소피 배틀 그라운드"
+## (Updated) (Updated) (Updated) 🚀 해결책: "필로소피 배틀 그라운드" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"트롤리 딜레마, 과연 1명을 희생해서 5명을 구하는 게 옳을�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,16 +72,16 @@ _"트롤리 딜레마, 과연 1명을 희생해서 5명을 구하는 게 옳을�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (일반 챗봇)
+### (Updated) (Updated) (Updated) ❌ Before (일반 챗봇) {#updated}
 
 나: "사형 제도는 나빠."
 AI: "사형 제도의 반대 근거는 인권 침해, 오심 가능성 등이 있습니다." (재미없음)
 
-### ✅ After (프롬프트: 소크라테스 빙의)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트: 소크라테스 빙의) {#updated}
 
 **나:** "사형 제도는 나빠. 사람을 죽이는 건 무조건 잘못이니까."
 

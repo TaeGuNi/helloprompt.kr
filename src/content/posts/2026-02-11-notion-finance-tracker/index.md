@@ -9,7 +9,7 @@ description: "엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템
+# (Updated) (Updated) (Updated) 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템 {#updated}
 
 - **🎯 추천 대상:** 뱅크샐러드, 토스만 보고 돈 관리가 안 되는 사람, 내 돈이 어디로 새는지 직접 눈으로 확인하고 싶은 사람
 - **⏱️ 소요 시간:** 10분 (템플릿 복제 및 설정)
@@ -33,9 +33,9 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## 🚀 해결책: "Notion Formula Architect"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Notion Formula Architect" {#updated}
 
-### 🥉 Basic Version (수식 생성)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (수식 생성) {#updated}
 
 노션 수식이 어려울 때.
 
@@ -83,13 +83,13 @@ _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (카드 명세서)
+### (Updated) (Updated) (Updated) ❌ Before (카드 명세서) {#updated}
 
 "아... 지난달에 배달 음식 50만 원 썼네? 미쳤다." (이미 늦음 💸)
 
-### ✅ After (노션 가계부)
+### (Updated) (Updated) (Updated) ✅ After (노션 가계부) {#updated}
 
 **대시보드:** [식비 예산: ▓▓▓▓▓░░░░░ 50%]
 "어? 벌써 예산 절반 썼네? 오늘은 집밥 먹자."

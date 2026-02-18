@@ -9,7 +9,7 @@ description: "내 사업이 왜 대박인지 설명 못 하겠다면? 문제-해
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 
-# 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링
+# (Updated) (Updated) (Updated) 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링 {#updated}
 
 - **🎯 추천 대상:** "우리 기술 진짜 좋은데..." 말만 하면 투자자가 하품하는 대표님, 예비창업패키지 서류 광탈자
 - **⏱️ 소요 시간:** 10분 (스토리라인 구성)
@@ -33,9 +33,9 @@ _"그래서 한마디로 뭡니까? 구글입니까, 배민입니까?"_
 
 ---
 
-## 🚀 해결책: "Pitch Deck Storyteller"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Pitch Deck Storyteller" {#updated}
 
-### 🥉 Basic Version (엘리베이터 피치)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (엘리베이터 피치) {#updated}
 
 1분 안에 말로 설명할 때.
 
@@ -44,7 +44,7 @@ _"그래서 한마디로 뭡니까? 구글입니까, 배민입니까?"_
 
 <br>
 
-### 🥇 Pro Version (10장 슬라이드 구성)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (10장 슬라이드 구성) {#updated}
 
 IR 자료를 만들 때.
 
@@ -94,13 +94,13 @@ IR 자료를 만들 때.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (나열식)
+### (Updated) (Updated) (Updated) ❌ Before (나열식) {#updated}
 
 "저희는 영양제를 팔고요, AI도 쓰고요, 팀원은 서울대 나왔고요..." (지루함 🥱)
 
-### ✅ After (스토리텔링)
+### (Updated) (Updated) (Updated) ✅ After (스토리텔링) {#updated}
 
 **"매일 10만 명이 영양제를 먹지만, 그중 90%는 효과를 못 봅니다. (Problem)"**
 **"우리는 소변 검사 한 번으로 당신에게 딱 맞는 알약 3개를 찾아냅니다. (Solution)"**

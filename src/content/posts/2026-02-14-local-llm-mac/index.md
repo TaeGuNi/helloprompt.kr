@@ -9,7 +9,7 @@ description: "클라우드 비용 걱정 없이, 내 로컬 컴퓨터에서 강�
 tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 ---
 
-# 💻 내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법
+# (Updated) (Updated) (Updated) 💻 내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법 {#updated}
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -37,11 +37,11 @@ _"인터넷 연결 없이도 작동하는 나만의 AI 비서, 보안 걱정은 
 
 ---
 
-## 🚀 해결책: "Ollama 설치 및 실행 가이드"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Ollama 설치 및 실행 가이드" {#updated}
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### 🥉 Basic Version (설치)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (설치) {#updated}
 
 터미널을 열고 아래 명령어를 입력하세요.
 
@@ -50,7 +50,7 @@ _"인터넷 연결 없이도 작동하는 나만의 AI 비서, 보안 걱정은 
 
 <br>
 
-### 🥇 Pro Version (모델 실행)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (모델 실행) {#updated}
 
 Llama 3 8B 모델을 다운로드하고 대화를 시작합니다.
 
@@ -98,7 +98,7 @@ Llama 3 8B 모델을 다운로드하고 대화를 시작합니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### ❌ Before (클라우드 API) {#api}
 

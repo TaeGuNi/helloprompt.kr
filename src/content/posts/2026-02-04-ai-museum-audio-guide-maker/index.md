@@ -9,7 +9,7 @@ description: "오디오 가이드 대여료 10유로 아끼는 법. 작품 사�
 tags: ["박물관", "미술관", "오디오가이드", "도슨트", "예술감상"]
 ---
 
-# 📝 내 손안의 큐레이터: AI로 만드는 박물관 오디오 가이드
+# (Updated) (Updated) (Updated) 📝 내 손안의 큐레이터: AI로 만드는 박물관 오디오 가이드 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"루브르 박물관에 갔는데 한국어 가이드 기계가 매진이라면
 
 ---
 
-## 🚀 해결책: "AI 미술 해설사"
+## (Updated) (Updated) (Updated) 🚀 해결책: "AI 미술 해설사" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"루브르 박물관에 갔는데 한국어 가이드 기계가 매진이라면
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"루브르 박물관에 갔는데 한국어 가이드 기계가 매진이라면
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 (모나리자 사진 업로드) "이거 설명해줘."
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ("이 작품은 레오나르도 다빈치의 <모나리자>입니다. 눈썹이 없는 이유에 대한 여러 설이 있죠. 특히 스푸마토 기법으로 처리된 입가와 눈매를 자세히 보세요. 신비로운 미소의 비밀이 거기에 있습니다...")
 

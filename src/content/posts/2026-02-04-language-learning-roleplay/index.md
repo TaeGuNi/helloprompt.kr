@@ -9,7 +9,7 @@ description: "원하는 상황과 난이도를 설정하여 AI와 실전처럼 �
 tags: ["영어회화", "외국어공부", "롤플레잉"]
 ---
 
-# 📝 비싼 전화영어 대신, 24시간 대기 중인 AI 원어민
+# (Updated) (Updated) (Updated) 📝 비싼 전화영어 대신, 24시간 대기 중인 AI 원어민 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"외국인 앞에만 서면 머릿속이 하얗게 되나요? 하루 10분, AI�
 
 ---
 
-## 🚀 해결책: "랭귀지 롤플레잉 파트너"
+## (Updated) (Updated) (Updated) 🚀 해결책: "랭귀지 롤플레잉 파트너" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"외국인 앞에만 서면 머릿속이 하얗게 되나요? 하루 10분, AI�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,11 +72,11 @@ _"외국인 앞에만 서면 머릿속이 하얗게 되나요? 하루 10분, AI�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 나 영어 공부하고 싶어. 카페 상황극 하자. 네가 직원 해.
@@ -84,7 +84,7 @@ _"외국인 앞에만 서면 머릿속이 하얗게 되나요? 하루 10분, AI�
 
 <br>
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 **AI (직원):** "Hi there! What can I get for you today?" (안녕하세요! 오늘 뭐 드시겠어요?)

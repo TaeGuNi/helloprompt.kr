@@ -21,7 +21,7 @@ AI는 이렇게 대답합니다. _"두 주제에 대한 노트는 찾았지만, 
 
 벡터 검색이 뇌의 _해마_(기억 인출)라면, 그래프 검색은 _대뇌피질_(패턴 인식 및 논리)입니다. 둘 다 필요합니다.
 
-## 🛠️ 2026년형 개인용 GraphRAG 기술 스택
+## (Updated) (Updated) (Updated) 🛠️ 2026년형 개인용 GraphRAG 기술 스택 {#updated}
 
 엔터프라이즈 도구는 필요 없습니다. 로컬이나 무료 티어로 충분히 구축할 수 있습니다.
 
@@ -30,7 +30,7 @@ AI는 이렇게 대답합니다. _"두 주제에 대한 노트는 찾았지만, 
 3.  **그래프 데이터베이스:** Neo4j Aura (무료 티어) 또는 Kùzu (로컬 임베디드).
 4.  **LLM:** Llama 4 (Ollama 로컬 구동) 또는 GPT-5/Gemini 3 (API).
 
-## 🚀 1단계: 추출 프롬프트 (핵심 비법)
+## (Updated) (Updated) (Updated) 🚀 1단계: 추출 프롬프트 (핵심 비법) {#updated}
 
 GraphRAG의 가장 어려운 부분은 비정형 텍스트를 정형화된 **노드(Nodes)**와 **엣지(Edges)**로 변환하는 것입니다. 이를 위해 LLM이 필요합니다.
 
@@ -61,6 +61,25 @@ GraphRAG의 가장 어려운 부분은 비정형 텍스트를 정형화된 **노
 2. **일관된 ID:** "LLM", "거대언어모델", "LLMs"는 모두 "Large Language Model"이라는 단일 ID로 매핑되어야 합니다.
 3. **의미 있는 관계:** "HAS" 같은 모호한 관계 대신 구체적인 동사를 사용하세요.
 
+```json
+{
+  "nodes": [{ "id": "Entity Name", "type": "Concept|Person|Tool|Event" }],
+  "relationships": [
+    {
+      "source": "Entity Name",
+      "target": "Entity Name",
+      "type": "RELATES_TO|CAUSES|PART_OF|AUTHORED_BY"
+    }
+  ]
+}
+```
+
+**# (Updated) (Updated) (Updated) Constraints**
+
+1. **원자적 엔티티(Atomic Entities):** "2025년의 생산성 역설" 같은 복합 노드를 만들지 마세요. "생산성 역설"(개념) -> "2025"(시간)으로 분해하세요.
+2. **일관된 ID:** "LLM", "거대언어모델", "LLMs"는 모두 "Large Language Model"이라는 단일 ID로 매핑되어야 합니다.
+3. **의미 있는 관계:** "HAS" 같은 모호한 관계 대신 구체적인 동사를 사용하세요.
+
 ## 💻 2단계: 데이터 수집 스크립트 (Python) {#python}
 
 `langchain-community`와 `neo4j-driver`를 사용하여 이 과정을 자동화할 수 있습니다.
@@ -70,7 +89,7 @@ from langchain_community.graphs import Neo4jGraph
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_openai import ChatOpenAI
 
-# 1. Neo4j 연결
+# (Updated) (Updated) (Updated) 1. Neo4j 연결 {#updated}
 graph = Neo4jGraph(
     url="bolt://localhost:7687",
     username="neo4j",
@@ -83,7 +102,7 @@ llm = ChatOpenAI(temperature=0, model="gpt-4-turbo")
 # 3. 변환기(Transformer) 정의 {#transformer}
 llm_transformer = LLMGraphTransformer(llm=llm)
 
-# 4. 문서 처리
+# (Updated) (Updated) (Updated) 4. 문서 처리 {#updated}
 from langchain_core.documents import Document
 
 text = """
@@ -92,16 +111,16 @@ GraphRAG는 관계 데이터를 주입하여 기존 RAG를 개선합니다.
 """
 docs = [Document(page_content=text)]
 
-# 5. 그래프 문서로 변환
+# (Updated) (Updated) (Updated) 5. 그래프 문서로 변환 {#updated}
 graph_documents = llm_transformer.convert_to_graph_documents(docs)
 
-# 6. Neo4j에 저장
+# (Updated) (Updated) (Updated) 6. Neo4j에 저장 {#updated}
 graph.add_graph_documents(graph_documents)
 print(f"생성된 노드: {len(graph_documents[0].nodes)}")
 print(f"생성된 관계: {len(graph_documents[0].relationships)}")
 ```
 
-## 🔍 3단계: 제2의 뇌 쿼리하기
+## (Updated) (Updated) (Updated) 🔍 3단계: 제2의 뇌 쿼리하기 {#updated}
 
 이제 단순히 "GraphRAG"를 검색하는 대신, 이렇게 물어볼 수 있습니다: _"GraphRAG의 발전에 영향을 준 개념은 무엇인가?"_
 
@@ -114,7 +133,7 @@ RETURN c.id
 
 이 방식은 환각(Hallucination)에 의존한 추측이 아니라, 엄격하게 연결된 개념만을 검색하여 답변의 근거를 제공합니다.
 
-## 💡 작성자의 인사이트: 정말 그만한 가치가 있을까?
+## (Updated) (Updated) (Updated) 💡 작성자의 인사이트: 정말 그만한 가치가 있을까? {#updated}
 
 제 옵시디언 볼트(노트 12,000개)에 이 시스템을 3개월간 적용해 보았습니다.
 
@@ -133,7 +152,7 @@ RETURN c.id
 
 ---
 
-### 직접 만들어 볼 준비가 되셨나요?
+### (Updated) (Updated) (Updated) 직접 만들어 볼 준비가 되셨나요? {#updated}
 
 가장 통찰력 있는 노트 10개를 골라 위 추출 프롬프트에 넣어보세요. 결과에 놀라실 겁니다.
 

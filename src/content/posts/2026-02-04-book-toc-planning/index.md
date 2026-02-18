@@ -9,7 +9,7 @@ description: "막연한 출판의 꿈을 현실로 만들어주는 책 기획 �
 tags: ["책쓰기", "출판기획", "전자책"]
 ---
 
-# 📝 나도 작가가 될 수 있다? 팔리는 책 목차 기획하기
+# (Updated) (Updated) (Updated) 📝 나도 작가가 될 수 있다? 팔리는 책 목차 기획하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 ---
 
-## 🚀 해결책: "베스트셀러 기획자"
+## (Updated) (Updated) (Updated) 🚀 해결책: "베스트셀러 기획자" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -71,11 +71,11 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 직장인 재테크 책 쓸 건데 목차 짜줘. 주식 부동산 안 하고 절약이랑 부업으로 1억 모음.
@@ -83,7 +83,7 @@ _"내 이름으로 된 책 한 권 내는 꿈, 다들 있으시죠? 하지만 '�
 
 <br>
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 

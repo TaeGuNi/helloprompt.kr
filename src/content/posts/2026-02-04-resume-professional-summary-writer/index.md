@@ -35,7 +35,7 @@ _"채용 담당자가 이력서를 보는 시간은 평균 6초입니다. 맨 �
 
 ## 🚀 해결책: "프로필 요약 생성기" {#summary}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"채용 담당자가 이력서를 보는 시간은 평균 6초입니다. 맨 �
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,11 +77,11 @@ _"채용 담당자가 이력서를 보는 시간은 평균 6초입니다. 맨 �
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (흔한 소개)
+### (Updated) (Updated) (Updated) ❌ Before (흔한 소개) {#updated}
 
 ```text
 안녕하세요. 마케팅 업무를 5년 동안 해왔습니다.
@@ -89,7 +89,7 @@ _"채용 담당자가 이력서를 보는 시간은 평균 6초입니다. 맨 �
 맡겨주시면 열심히 하겠습니다.
 ```
 
-### ✅ After (성과 강조형 결과)
+### (Updated) (Updated) (Updated) ✅ After (성과 강조형 결과) {#updated}
 
 ```text
 데이터 분석 역량을 갖춘 5년 차 퍼포먼스 마케터입니다.

@@ -33,9 +33,9 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## 🚀 해결책: "Shadowing Coach Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Shadowing Coach Prompt" {#updated}
 
-### 🥉 Basic Version (해석 및 단어장)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (해석 및 단어장) {#updated}
 
 대본 공부.
 
@@ -44,7 +44,7 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 <br>
 
-### 🥇 Pro Version (발음 클리닉 & 억양 가이드)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (발음 클리닉 & 억양 가이드) {#updated}
 
 원어민처럼 말하기.
 
@@ -85,13 +85,13 @@ _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 단어 찾기 너�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (콩글리쉬)
+### (Updated) (Updated) (Updated) ❌ Before (콩글리쉬) {#updated}
 
 "왓! 아! 유! 토킹! 어바웃!" (로봇 🤖)
 
-### ✅ After (네이티브)
+### (Updated) (Updated) (Updated) ✅ After (네이티브) {#updated}
 
 "**와**라유 **토**킹어바웃?" (교포 🇺🇸)
 

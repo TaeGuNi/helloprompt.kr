@@ -9,7 +9,7 @@ description: "PPT 슬라이드 별로 자연스러운 발표 스크립트 생성
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# 📝 발표 공포증 극복! 프레젠테이션 대본짜기
+# (Updated) (Updated) (Updated) 📝 발표 공포증 극복! 프레젠테이션 대본짜기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 ---
 
-## 🚀 해결책: "스피치 라이터"
+## (Updated) (Updated) (Updated) 🚀 해결책: "스피치 라이터" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 1번 슬라이드: 시장 현황, 2번 슬라이드: 문제점. 대본 써줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 Slide 1: 여러분, 이 그래프를 보시죠. 시장이 급변하고 있습니다. 그런데 여기서 우리가 주목해야 할 점은 무엇일까요?

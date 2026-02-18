@@ -9,7 +9,7 @@ description: "Z.ai가 GLM-5를 공개했습니다. 단순한 코딩 보조를 �
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---
 
-# 📝 GLM-5: 에이전트 엔지니어링의 서막
+# (Updated) (Updated) (Updated) 📝 GLM-5: 에이전트 엔지니어링의 서막 {#updated}
 
 - **🎯 추천 대상:** AI 엔지니어, LLM 연구자
 - **⏱️ 읽는 시간:** 3분
@@ -29,9 +29,9 @@ Z.ai가 최신 모델 GLM-5를 공개했습니다. 이번 모델의 슬로건은
 
 ---
 
-## 🚀 주요 특징
+## (Updated) (Updated) (Updated) 🚀 주요 특징 {#updated}
 
-### 1. Agentic Capabilities (에이전트 능력)
+### (Updated) (Updated) (Updated) 1. Agentic Capabilities (에이전트 능력) {#updated}
 
 기존 모델들이 사용자의 지시에 따라 코드를 짜는 '수동적' 역할에 머물렀다면, GLM-5는 스스로 문제를 정의하고 해결책을 설계하는 '능동적' 에이전트 능력을 대폭 강화했습니다.
 

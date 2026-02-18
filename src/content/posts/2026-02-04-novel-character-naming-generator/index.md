@@ -9,7 +9,7 @@ description: "캐릭터의 성격, 국적, 시대를 반영하여 의미와 어�
 tags: ["네이밍", "캐릭터", "소설", "작명", "설정"]
 ---
 
-# 📝 소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름)
+# (Updated) (Updated) (Updated) 📝 소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름) {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"주인공 이름 짓는데만 3일 걸렸어요..."_
 
 ---
 
-## 🚀 해결책: \"캐릭터 작명소\"
+## (Updated) (Updated) (Updated) 🚀 해결책: \"캐릭터 작명소\" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"주인공 이름 짓는데만 3일 걸렸어요..."_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -80,15 +80,15 @@ _"주인공 이름 짓는데만 3일 걸렸어요..."_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 \"싸움 잘하는 기사 이름 추천해줘.\"
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 1. **칼리안 (Kalian)**
    - **의미:** 켈트어로 '전투'를 뜻하는 단어에서 파생.

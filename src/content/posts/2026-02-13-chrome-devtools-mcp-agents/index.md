@@ -9,11 +9,11 @@ image: ""
 
 AI 코딩 에이전트가 웹 브라우저의 내부를 들여다볼 수 있다면 어떨까요? 'chrome-devtools-mcp'가 바로 그 가능성을 열어줍니다.
 
-## 무엇인가요?
+## (Updated) (Updated) (Updated) 무엇인가요? {#updated}
 
 Model Context Protocol (MCP)을 통해 AI 에이전트가 Chrome DevTools에 접근할 수 있게 해주는 도구입니다.
 
-## 기능
+## (Updated) (Updated) (Updated) 기능 {#updated}
 
 - **콘솔 로그 확인:** 에이전트가 브라우저 콘솔의 에러를 직접 읽고 분석합니다.
 - **네트워크 요청 검사:** API 호출이 실패했는지, 어떤 데이터가 오가는지 확인합니다.

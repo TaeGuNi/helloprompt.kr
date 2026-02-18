@@ -9,7 +9,7 @@ description: "내 월급과 고정 지출을 입력하면 딱 맞는 월간 예�
 tags: ["가계부", "예산", "절약", "재테크"]
 ---
 
-# 📝 월급 로그아웃 방지: AI 가계부 플래너
+# (Updated) (Updated) (Updated) 📝 월급 로그아웃 방지: AI 가계부 플래너 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"숨만 쉬어도 나가는 돈 때문에 저축은 꿈도 못 꾸시나요?"_
 
 ---
 
-## 🚀 해결책: "짠테크 비서"
+## (Updated) (Updated) (Updated) 🚀 해결책: "짠테크 비서" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"숨만 쉬어도 나가는 돈 때문에 저축은 꿈도 못 꾸시나요?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -80,20 +80,20 @@ _"숨만 쉬어도 나가는 돈 때문에 저축은 꿈도 못 꾸시나요?"_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 월급 300인데 예산 좀 짜줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### 💰 300만 원 직장인 맞춤 예산안
+### (Updated) (Updated) (Updated) 💰 300만 원 직장인 맞춤 예산안 {#updated}
 
 **1. 자금 흐름 요약**
 - **수입:** 300만 원

@@ -9,7 +9,7 @@ description: "복잡한 수학, 과학 공식을 스토리텔링과 기억술(Mn
 tags: ["암기법", "기억술", "공부법", "프롬프트"]
 ---
 
-# 📝 안 외워지는 공식, 뇌에 문신 새기기
+# (Updated) (Updated) (Updated) 📝 안 외워지는 공식, 뇌에 문신 새기기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## 🚀 해결책: "암기왕 생성기"
+## (Updated) (Updated) (Updated) 🚀 해결책: "암기왕 생성기" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,15 +76,15 @@ _"근의 공식이 뭐였더라? b제곱 마이너스... 4ac였나 2ac였나?"_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "근의 공식: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$"
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[스토리 암기법]**
 "**이(2)** **아(a)**파서 병원에 갔더니, **마(min)**이너스 **비(b)**타민을 주더라. **풀(plus)**었다 **마(minus)**셨다 하면서 **루트** 안을 보니, **비(b)**가 **두(2)** 번 오고 **사(4)** **아(a)** **치(c)**가 있네?"

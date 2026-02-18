@@ -9,7 +9,7 @@ description: "AI가 정답을 알려주는 대신 질문을 통해 스스로 깨
 tags: ["학습", "자기계발", "메타인지", "튜터링"]
 ---
 
-# 📝 나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트
+# (Updated) (Updated) (Updated) 📝 나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 새로운 개념을 깊이 있게 공부하고 싶은 학생, 개발자, 기획자
 - **⏱️ 소요 시간:** 지속적 (학습 속도에 맞춤)
@@ -35,7 +35,7 @@ AI에게 "양자역학이 뭐야?"라고 물으면 위키피디아처럼 줄줄 
 
 ## 🚀 해결책: "소크라테스 튜터(Socratic Tutor) 프롬프트" {#socratic-tutor}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 개념 이해를 돕는 질문형 봇입니다.
 
@@ -44,7 +44,7 @@ AI에게 "양자역학이 뭐야?"라고 물으면 위키피디아처럼 줄줄 
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 사용자의 메타인지(Meta-cognition)를 자극하여 깊은 이해를 돕는 구조화된 프롬프트입니다.
 
@@ -98,14 +98,14 @@ AI에게 "양자역학이 뭐야?"라고 물으면 위키피디아처럼 줄줄 
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (일반 질문)
+### (Updated) (Updated) (Updated) ❌ Before (일반 질문) {#updated}
 
 **나:** "블록체인이 뭐야?"
 **AI:** "블록체인은 분산 원장 기술로서..." (읽고 나서 5분 뒤 까먹음)
 
-### ✅ After (소크라테스 튜터)
+### (Updated) (Updated) (Updated) ✅ After (소크라테스 튜터) {#updated}
 
 **AI:** "블록체인을 이해하려면 먼저 '신뢰'에 대해 이야기해야 합니다. 당신은 은행을 왜 믿고 돈을 맡기나요?"
 **나:** "음.. 국가가 보증하니까?"

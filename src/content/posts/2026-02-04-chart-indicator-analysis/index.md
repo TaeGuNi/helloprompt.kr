@@ -9,7 +9,7 @@ description: "RSI, MACD, 볼린저밴드 등 어려운 차트 지표를 AI가 �
 tags: ["주식", "차트분석", "기술적분석", "트레이딩"]
 ---
 
-# 📝 차트 보조지표 해석기: 매수 타이밍 포착
+# (Updated) (Updated) (Updated) 📝 차트 보조지표 해석기: 매수 타이밍 포착 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"골든크로스? 과매도? 차트 용어 때문에 매수 타이밍을 놓치
 
 ---
 
-## 🚀 해결책: "차트 시그널 탐지기"
+## (Updated) (Updated) (Updated) 🚀 해결책: "차트 시그널 탐지기" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"골든크로스? 과매도? 차트 용어 때문에 매수 타이밍을 놓치
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,26 +74,26 @@ _"골든크로스? 과매도? 차트 용어 때문에 매수 타이밍을 놓치
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 지금 삼성전자 사도 돼? 차트 좀 봐줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### 📊 기술적 분석 리포트: 삼성전자
+### (Updated) (Updated) (Updated) 📊 기술적 분석 리포트: 삼성전자 {#updated}
 
 - **RSI (14):** 28 (과매도 구간) → **강력한 매수 신호**
 - **MACD:** 시그널 선을 상향 돌파 직전 (골든크로스 임박)
 - **이동평균선:** 20일선이 하락세이나, 주가가 120일선 지지를 받고 반등 중
 
-### 🚦 종합 판단: 매수 우위 (확률 75%)
+### (Updated) (Updated) (Updated) 🚦 종합 판단: 매수 우위 (확률 75%) {#updated}
 현재 기술적 반등이 유력한 구간입니다. 단기 낙폭 과대에 따른 저가 매수세 유입이 기대됩니다.
 
 - **🎯 1차 목표가:** 78,000원 (20일선 저항)

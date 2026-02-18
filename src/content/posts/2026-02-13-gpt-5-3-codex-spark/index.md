@@ -11,9 +11,9 @@ image: "/images/posts/gpt-5-3.png"
 
 지난 몇 년간 우리는 "거대함"의 경쟁을 지켜봤습니다. 하지만 현장의 개발자들이 진정으로 원했던 것은 수천억 개의 파라미터보다, IDE에서 탭을 누르는 순간 즉시 반응하는 **속도**와 **정확성**의 균형이었습니다. Codex Spark는 바로 그 지점을 정조준합니다.
 
-## (Updated) 핵심 기능: 무엇이 달라졌나?
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 핵심 기능: 무엇이 달라졌나? {#updated}
 
-### (Updated) 1. Neural Spark 아키텍처
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 1. Neural Spark 아키텍처 {#updated}
 
 기존 GPT-5 모델 대비 파라미터 사이즈를 70% 줄였음에도 불구하고, 코딩 작업에 특화된 증류(Distillation) 기법을 통해 코딩 능력은 GPT-5의 99% 수준을 유지합니다. 로컬 IDE 플러그인에서 실행될 때의 레이턴시는 50ms 미만으로, 마치 내 생각이 코드로 바로 변환되는 듯한 느낌을 줍니다.
 
@@ -25,7 +25,7 @@ Spark는 코드를 제안하기 전, 내부 샌드박스에서 수 밀리초 단
 
 200만 토큰의 컨텍스트 윈도우는 이제 기본입니다. 하지만 Spark는 단순히 많이 읽는 것이 아니라, 프로젝트의 의존성 그래프를 이해합니다. 함수 하나를 수정할 때, 다른 파일에 미칠 영향을 실시간으로 경고합니다.
 
-## (Updated) 벤치마크 대결: 왕좌의 주인은?
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 벤치마크 대결: 왕좌의 주인은? {#updated}
 
 우리는 Codex Spark를 현재 시장의 주요 경쟁자들과 비교해 보았습니다: **Claude 4.5 Sonnet**, **Gemini 2.0 Ultra**, 그리고 **GitHub Copilot X2**.
 

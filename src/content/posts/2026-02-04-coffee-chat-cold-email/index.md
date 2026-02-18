@@ -33,9 +33,9 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 ---
 
-## 🚀 해결책: "Cold DM Writer"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Cold DM Writer" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -82,18 +82,18 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (나만 생각함)
+### (Updated) (Updated) (Updated) ❌ Before (나만 생각함) {#updated}
 
 ```text
 "안녕하세요. 저 취준생인데 조언 좀 해주세요.
 언제 시간 되세요?" (읽씹 확정)
 ```
 
-### ✅ After (상대를 배려함)
+### (Updated) (Updated) (Updated) ✅ After (상대를 배려함) {#updated}
 
 ```text
 "안녕하세요, OO님. 최근 브런치에 올리신 '주니어 성장기' 글을 읽고 큰 영감을 받아 연락드렸습니다.

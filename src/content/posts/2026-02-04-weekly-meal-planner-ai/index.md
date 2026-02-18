@@ -9,7 +9,7 @@ description: "검색엔진에 노출될 매력적인 한 줄 요약을 적어주
 tags: ["태그1", "태그2"]
 ---
 
-# (Updated) 📝 여기에 메인 제목을 입력하세요
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 여기에 메인 제목을 입력하세요 {#updated}
 
 - **🎯 추천 대상:** 마케터, 기획자, 1년 차 신입사원
 - **⏱️ 소요 시간:** 30분 → 1분 단축
@@ -33,9 +33,9 @@ _"여기에 독자의 고통을 건드리는 훅(Hook) 한 문장을 적으세�
 
 ---
 
-## (Updated) 🚀 해결책: "프롬프트 이름"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "프롬프트 이름" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"여기에 독자의 고통을 건드리는 훅(Hook) 한 문장을 적으세�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -94,15 +94,15 @@ _"여기에 독자의 고통을 건드리는 훅(Hook) 한 문장을 적으세�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (엉망인 텍스트)
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 (완벽한 결과물)

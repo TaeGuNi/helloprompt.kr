@@ -33,9 +33,9 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 ---
 
-## 🚀 해결책: "Native Resume Translator"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Native Resume Translator" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,11 +77,11 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (직역 스타일)
+### (Updated) (Updated) (Updated) ❌ Before (직역 스타일) {#updated}
 
 ```text
 I was a team leader. I made a new sales strategy.
@@ -89,7 +89,7 @@ So sales went up by 20%. It was a good result.
 (초등학생 일기 같은 문장)
 ```
 
-### ✅ After (원어민 레주메 스타일)
+### (Updated) (Updated) (Updated) ✅ After (원어민 레주메 스타일) {#updated}
 
 ```text
 • **Spearheaded** a new sales strategy as a Team Lead, resulting in a **20% increase** in annual revenue.

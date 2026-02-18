@@ -9,7 +9,7 @@ description: "건축가가 없어도 됩니다. 평수, 방 개수, 스타일만
 tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 ---
 
-# 🏠 꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계
+# (Updated) (Updated) (Updated) 🏠 꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계 {#updated}
 
 - **🎯 추천 대상:** 내 집 마련의 꿈을 꾸는 신혼부부, 전원주택 짓고 싶은 은퇴 예정자, 심즈(Sims) 건축 장인
 - **⏱️ 소요 시간:** 1분 (이미지 생성)
@@ -33,9 +33,9 @@ _"거실은 넓게, 주방은 아일랜드 식탁, 그리고 다락방이 있었
 
 ---
 
-## 🚀 해결책: "Architect AI Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Architect AI Prompt" {#updated}
 
-### 🥉 Basic Version (조감도)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (조감도) {#updated}
 
 집의 외관 보기.
 
@@ -44,7 +44,7 @@ _"거실은 넓게, 주방은 아일랜드 식탁, 그리고 다락방이 있었
 
 <br>
 
-### 🥇 Pro Version (정밀 평면도)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (정밀 평면도) {#updated}
 
 구조와 동선 짜기.
 
@@ -85,9 +85,9 @@ _"거실은 넓게, 주방은 아일랜드 식탁, 그리고 다락방이 있었
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (손그림)
+### (Updated) (Updated) (Updated) ❌ Before (손그림) {#updated}
 
 이면지에 삐뚤빼뚤 그림. "여기가 안방이고... 여기가 화장실..." (남편: "감옥이야?" 🏚️)
 

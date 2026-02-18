@@ -9,7 +9,7 @@ description: "추상적이고 어려운 IT 개념을 일상생활 속 사물이�
 tags: ["코딩기초", "비유", "IT용어", "쉽게설명"]
 ---
 
-# 📝 API를 식당에 비유하면? 코딩 개념 비유 자판기
+# (Updated) (Updated) (Updated) 📝 API를 식당에 비유하면? 코딩 개념 비유 자판기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -36,7 +36,7 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 ## 🚀 해결책: "ELI5 (Explain Like I'm 5) 생성기" {#explain-like-i-m-5}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,15 +76,15 @@ _"API 연동? 그게 뭔데 2주나 걸려?"_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (사전적 정의)
+### (Updated) (Updated) (Updated) ❌ Before (사전적 정의) {#updated}
 
 **API (Application Programming Interface)**: 응용 프로그램에서 사용할 수 있도록, 운영 체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만든 인터페이스... (졸림)
 
-### ✅ After (프롬프트 결과: 식당 비유)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트 결과: 식당 비유) {#updated}
 
 **[상황 비유]**
 API는 **'식당 웨이터(점원)'**입니다.

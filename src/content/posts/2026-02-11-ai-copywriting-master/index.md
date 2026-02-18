@@ -33,9 +33,9 @@ _"이 제품 진짜 좋은데... 사람들이 클릭을 안 해."_
 
 ---
 
-## 🚀 해결책: "Copywriter Bot"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Copywriter Bot" {#updated}
 
-### 🥉 Basic Version (블로그 제목)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (블로그 제목) {#updated}
 
 검색에도 걸리고 클릭도 부르는 제목.
 
@@ -44,7 +44,7 @@ _"이 제품 진짜 좋은데... 사람들이 클릭을 안 해."_
 
 <br>
 
-### 🥇 Pro Version (상세페이지 헤드카피)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (상세페이지 헤드카피) {#updated}
 
 지갑을 열게 만드는 마법의 문장.
 
@@ -91,13 +91,13 @@ AI에게 "추상적인 형용사 빼고, 눈에 보이듯이 묘사해"라고 �
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (밋밋함)
+### (Updated) (Updated) (Updated) ❌ Before (밋밋함) {#updated}
 
 "수면 귀마개 팝니다. 조용하고 편해요." (클릭률 0.5%)
 
-### ✅ After (자극적)
+### (Updated) (Updated) (Updated) ✅ After (자극적) {#updated}
 
 **"당신의 수면을 방해하는 건 소음이 아니라, 이 귀마개를 모르는 당신의 무관심입니다."**
 (클릭률 5.2% -> 매출 10배 떡상 📈)

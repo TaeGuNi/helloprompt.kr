@@ -9,7 +9,7 @@ description: "복잡한 지방 비율 계산 없이, AI를 활용해 키토제�
 tags: ["키토제닉", "저탄고지", "다이어트", "건강", "ChatGPT"]
 ---
 
-# 🥑 키토제닉(저탄고지) 다이어트, AI와 함께 완벽하게 시작하기
+# (Updated) (Updated) (Updated) 🥑 키토제닉(저탄고지) 다이어트, AI와 함께 완벽하게 시작하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"지방을 먹어서 지방을 태운다? 원리는 알겠는데, 당장 오늘
 
 ---
 
-## 🚀 해결책: "키토 코치 봇"
+## (Updated) (Updated) (Updated) 🚀 해결책: "키토 코치 봇" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"지방을 먹어서 지방을 태운다? 원리는 알겠는데, 당장 오늘
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -75,15 +75,15 @@ _"지방을 먹어서 지방을 태운다? 원리는 알겠는데, 당장 오늘
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "저탄고지 식단 알려줘." -> (버터만 퍼먹으라는 식의 극단적 조언 가능성)
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[일일 목표 매크로]**
 

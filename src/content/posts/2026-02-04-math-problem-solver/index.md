@@ -9,7 +9,7 @@ description: "정답만 알려주는 불친절한 답지 대신, 생각하는 �
 tags: ["수학공부", "문제풀이", "프롬프트", "튜터링"]
 ---
 
-# 📝 수포자 구원 투수: 친절한 수학 문제 해설기
+# (Updated) (Updated) (Updated) 📝 수포자 구원 투수: 친절한 수학 문제 해설기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 ---
 
-## 🚀 해결책: "Step-by-Step 솔루션"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Step-by-Step 솔루션" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,16 +77,16 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (일반 질문)
+### (Updated) (Updated) (Updated) ❌ Before (일반 질문) {#updated}
 
 Q: "x^2 - 5x + 6 = 0 풀어줘"
 A: "x = 2 또는 x = 3입니다." (끝)
 
-### ✅ After (프롬프트 결과)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **[핵심 개념]**
 이차방정식의 근을 구하기 위해 '인수분해(Factorization)'를 사용합니다.

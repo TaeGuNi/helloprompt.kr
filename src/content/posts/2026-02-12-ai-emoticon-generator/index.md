@@ -9,7 +9,7 @@ description: "그림 못 그려도 됩니다. DALL-E와 미드저니로 '멈춰�
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 
-# 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기
+# (Updated) (Updated) (Updated) 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기 {#updated}
 
 - **🎯 추천 대상:** 끄적거리는 거 좋아하는 사람, 카카오 이모티콘 승인받아서 연금 만들고 싶은 부업 러
 - **⏱️ 소요 시간:** 10분 (캐릭터 시트 생성)
@@ -33,9 +33,9 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## 🚀 해결책: "Emoticon Factory Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Emoticon Factory Prompt" {#updated}
 
-### 🥉 Basic Version (캐릭터 시트)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (캐릭터 시트) {#updated}
 
 캐릭터 디자인 잡기.
 
@@ -43,7 +43,7 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 <br>
 
-### 🥇 Pro Version (감정 표현 세트)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (감정 표현 세트) {#updated}
 
 24종 세트 만들기.
 
@@ -85,9 +85,9 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (낙서)
+### (Updated) (Updated) (Updated) ❌ Before (낙서) {#updated}
 
 동그라미에 점 두 개 찍음. (친구들한테만 씀 🥲)
 

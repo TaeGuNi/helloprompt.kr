@@ -9,7 +9,7 @@ description: "토요타가 만든 콘솔급 플러터 게임 엔진 Fluorite. �
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 
-# 📝 자동차 회사가 게임 엔진을? 토요타 Fluorite
+# (Updated) (Updated) (Updated) 📝 자동차 회사가 게임 엔진을? 토요타 Fluorite {#updated}
 
 - **🎯 추천 대상:** 플러터 개발자, 게임 개발자
 - **⏱️ 읽는 시간:** 3분
@@ -29,11 +29,11 @@ _"플러터로 게임을? 그것도 콘솔급으로? 토요타가 해냈습니�
 
 ---
 
-## 🚀 왜 토요타인가?
+## (Updated) (Updated) (Updated) 🚀 왜 토요타인가? {#updated}
 
 토요타는 이미 차량용 인포테인먼트 시스템에 플러터를 적극적으로 도입해왔습니다. Fluorite는 그 연장선상에서, 차량 내 엔터테인먼트 경험을 극대화하기 위한 시도로 보입니다.
 
-### 특징
+### (Updated) (Updated) (Updated) 특징 {#updated}
 
 - **Flutter 기반:** 다트(Dart) 언어로 개발 가능.
 - **고성능 렌더링:** 커스텀 임베더를 통해 하드웨어 가속을 최대한 활용.

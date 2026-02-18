@@ -9,7 +9,7 @@ description: "손전등 하나로 만드는 환상의 세계, AI가 짜주는 �
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# 📝 잠자리 독립을 돕는 '그림자 극장' 시나리오
+# (Updated) (Updated) (Updated) 📝 잠자리 독립을 돕는 '그림자 극장' 시나리오 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"밤만 되면 '무서워, 불 끄지 마'라고 떼쓰는 아이 때문에 힘
 
 ---
 
-## 🚀 해결책: "꿈나라 스토리텔러"
+## (Updated) (Updated) (Updated) 🚀 해결책: "꿈나라 스토리텔러" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"밤만 되면 '무서워, 불 끄지 마'라고 떼쓰는 아이 때문에 힘
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"밤만 되면 '무서워, 불 끄지 마'라고 떼쓰는 아이 때문에 힘
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 그림자 놀이 이야기 지어줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 내레이션: (손으로 입 모양을 만들며) '안녕? 나는 꼬마 티라노야. 밤이 되니까 별님이 보고 싶어. 우리 같이 별님을 불러볼까?'

@@ -26,11 +26,11 @@ It's time to wake up. The bubble isn't bursting; it's leaking toxic sludge every
 
 (Generated for Korean)
 
-## 💡 작성자 코멘트 (Insight)
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#updated}
 
 이 주제는 향후 5년간 가장 중요한 기술 트렌드가 될 것입니다.
 
-## 🙋 자주 묻는 질문 (FAQ)
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#updated}
 
 **Q: 핵심은 무엇인가요?**
 A: AI와 인간의 공존입니다.

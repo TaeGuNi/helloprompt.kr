@@ -9,7 +9,7 @@ description: "주소 분리, 날짜 형식 통일 등 데이터 클렌징 방법
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# 📝 지저분한 엑셀 데이터, 깔끔하게 전처리하기
+# (Updated) (Updated) (Updated) 📝 지저분한 엑셀 데이터, 깔끔하게 전처리하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## 🚀 해결책: "데이터 클리너"
+## (Updated) (Updated) (Updated) 🚀 해결책: "데이터 클리너" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 "서울시 강남구 역삼동 (12345)" 이런 식인데 괄호 안 숫자만 빼고 싶어.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 가장 쉬운 방법은 "빠른 채우기(Ctrl+E)"입니다.

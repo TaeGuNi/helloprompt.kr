@@ -9,7 +9,7 @@ description: "조회수가 2배 오르는 마법의 블로그 타이틀, 키워�
 tags: ["블로그", "콘텐츠마케팅", "SEO", "카피라이팅"]
 ---
 
-# 📝 클릭을 부르는 블로그 글 제목 생성기
+# (Updated) (Updated) (Updated) 📝 클릭을 부르는 블로그 글 제목 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"본문이 아무리 좋아도, 제목이 별로면 아무도 읽지 않습니�
 
 ---
 
-## 🚀 해결책: "클릭 마그넷 타이틀"
+## (Updated) (Updated) (Updated) 🚀 해결책: "클릭 마그넷 타이틀" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"본문이 아무리 좋아도, 제목이 별로면 아무도 읽지 않습니�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,15 +79,15 @@ _"본문이 아무리 좋아도, 제목이 별로면 아무도 읽지 않습니�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "영어 공부하는 방법"
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 - **호기심:** 당신의 영어 실력이 10년째 제자리인 진짜 이유?
 - **숫자/방법:** 하루 30분 투자로 원어민처럼 말하는 3가지 루틴

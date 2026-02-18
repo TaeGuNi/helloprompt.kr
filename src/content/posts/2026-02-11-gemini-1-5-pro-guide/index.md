@@ -9,7 +9,7 @@ description: "긴 문맥(Long Context) 처리에 강한 Gemini. 100만 토큰을
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 
-# ♊ Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지
+# (Updated) (Updated) (Updated) ♊ Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지 {#updated}
 
 - **🎯 추천 대상:** 300페이지짜리 PDF 문서를 요약해야 하는 대학원생, 방대한 로그 파일을 분석해야 하는 개발자
 - **⏱️ 소요 시간:** 3분 (문서 업로드 및 질문)
@@ -33,9 +33,9 @@ GPT-4o도 훌륭하지만, **'양(Quantity)'**에서는 Gemini를 이길 수 없
 
 ---
 
-## 🚀 해결책: "Gemini Long-Context Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Gemini Long-Context Prompt" {#updated}
 
-### 🥉 Basic Version (문서 요약)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (문서 요약) {#updated}
 
 두꺼운 보고서 읽기 싫을 때.
 
@@ -44,7 +44,7 @@ GPT-4o도 훌륭하지만, **'양(Quantity)'**에서는 Gemini를 이길 수 없
 
 <br>
 
-### 🥇 Pro Version (코드베이스 전체 분석)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (코드베이스 전체 분석) {#updated}
 
 남의 코드 뜯어볼 때.
 
@@ -85,7 +85,7 @@ Gemini의 진가는 **"Needle in a Haystack (건초더미에서 바늘 찾기)"*
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### ❌ Before (GPT-4)
 

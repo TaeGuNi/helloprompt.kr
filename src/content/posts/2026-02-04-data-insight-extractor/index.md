@@ -9,7 +9,7 @@ description: "숫자만 가득한 엑셀 데이터, AI에게 분석시키고 시
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# 📝 날것의 데이터에서 인사이트 뽑아내기
+# (Updated) (Updated) (Updated) 📝 날것의 데이터에서 인사이트 뽑아내기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"숫자는 많은데 여기서 뭘 보고해야 할지 막막하신가요?"_
 
 ---
 
-## 🚀 해결책: "데이터 분석가"
+## (Updated) (Updated) (Updated) 🚀 해결책: "데이터 분석가" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"숫자는 많은데 여기서 뭘 보고해야 할지 막막하신가요?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"숫자는 많은데 여기서 뭘 보고해야 할지 막막하신가요?"_
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (1월~12월 매출표) 이거 분석해줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 1. 여름 시즌(7-8월)에 매출이 30% 급증함 -> 계절성 상품 마케팅 강화 필요

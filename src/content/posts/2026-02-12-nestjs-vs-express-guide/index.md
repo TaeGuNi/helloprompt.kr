@@ -9,7 +9,7 @@ description: "자유로운 영혼 Express와 엄격한 관리자 NestJS. 대규�
 tags: ["NestJS", "Express", "Node.js", "백엔드", "프레임워크"]
 ---
 
-# 🛡️ NestJS vs Express: 백엔드 프레임워크 2026년 생존 가이드
+# (Updated) (Updated) (Updated) 🛡️ NestJS vs Express: 백엔드 프레임워크 2026년 생존 가이드 {#updated}
 
 - **🎯 추천 대상:** "Express 코드가 스파게티가 됐어요" 우는 개발자, 엔터프라이즈급 백엔드 구조를 잡고 싶은 CTO
 - **⏱️ 소요 시간:** 5분 (비교 및 아키텍처 이해)
@@ -33,9 +33,9 @@ Express는 자유롭지만 방종합니다. 반면 **NestJS**는 엄격합니다
 
 ---
 
-## 🚀 해결책: "Backend Architect Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Backend Architect Prompt" {#updated}
 
-### 🥉 Basic Version (보일러플레이트 생성)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (보일러플레이트 생성) {#updated}
 
 NestJS 시작하기.
 
@@ -43,7 +43,7 @@ NestJS 시작하기.
 
 <br>
 
-### 🥇 Pro Version (마이그레이션 및 패턴 적용)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (마이그레이션 및 패턴 적용) {#updated}
 
 Express에서 NestJS로 갈아탈 때.
 
@@ -87,7 +87,7 @@ NestJS의 꽃은 **'데코레이터(@)'**입니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### ❌ Before (Express)
 

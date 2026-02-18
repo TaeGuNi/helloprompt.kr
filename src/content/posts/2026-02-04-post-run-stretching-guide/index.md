@@ -9,7 +9,7 @@ description: "달리기보다 중요한 건 마무리입니다. 부상을 방지
 tags: ["러닝", "마라톤", "스트레칭", "쿨다운", "부상방지"]
 ---
 
-# 🏃‍♂️ 러너 무릎 통증 예방! AI가 알려주는 러닝 후 필수 스트레칭
+# (Updated) (Updated) (Updated) 🏃‍♂️ 러너 무릎 통증 예방! AI가 알려주는 러닝 후 필수 스트레칭 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"오늘 기록 갱신했다고 기분 좋게 집에 갔는데, 다음 날 걷�
 
 ---
 
-## 🚀 해결책: "러닝 리커버리 코치"
+## (Updated) (Updated) (Updated) 🚀 해결책: "러닝 리커버리 코치" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"오늘 기록 갱신했다고 기분 좋게 집에 갔는데, 다음 날 걷�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"오늘 기록 갱신했다고 기분 좋게 집에 갔는데, 다음 날 걷�
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "운동 후 스트레칭 알려줘." -> (국민체조 순서 나열)
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[10분 러닝 리커버리 루틴]**
 

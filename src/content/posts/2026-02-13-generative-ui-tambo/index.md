@@ -12,7 +12,7 @@ tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]
 
 오늘은 React 환경에서 제너레이티브 UI를 가장 쉽게 구현할 수 있도록 도와주는 도구인 **Tambo SDK**에 대해 알아보고, 간단한 예제를 통해 직접 구현해보겠습니다.
 
-## (Updated) 제너레이티브 UI란 무엇인가요?
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 제너레이티브 UI란 무엇인가요? {#updated}
 
 기존의 UI 개발 방식은 개발자가 모든 화면과 컴포넌트를 미리 정의하고, 데이터에 따라 조건부 렌더링을 하는 방식이었습니다. 하지만 제너레이티브 UI는 다릅니다.
 
@@ -20,7 +20,7 @@ tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]
 - **개인화:** 사용자마다, 혹은 상황마다 전혀 다른 맞춤형 인터페이스를 제공할 수 있습니다.
 - **유연성:** 미리 정의되지 않은 시나리오에도 AI의 판단에 따라 대응할 수 있습니다.
 
-## (Updated) 왜 Tambo인가요?
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 왜 Tambo인가요? {#updated}
 
 Tambo는 이러한 제너레이티브 UI를 복잡한 설정 없이 바로 애플리케이션에 통합할 수 있게 해주는 SDK입니다.
 
@@ -28,11 +28,11 @@ Tambo는 이러한 제너레이티브 UI를 복잡한 설정 없이 바로 애�
 2.  **타입 안전성:** TypeScript를 기본 지원하여 안전하게 개발할 수 있습니다.
 3.  **간편한 연동:** Vercel AI SDK 등 주요 AI 라이브러리와 쉽게 연동됩니다.
 
-## (Updated) Tambo SDK로 시작하기
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Tambo SDK로 시작하기 {#updated}
 
 간단한 여행 계획 도우미 챗봇을 만든다고 상상해봅시다. 사용자가 "제주도 여행 일정 짜줘"라고 하면, 단순히 텍스트로 답하는 것이 아니라, **지도, 항공권 예약 카드, 호텔 리스트** 등 풍부한 UI를 보여주고 싶습니다.
 
-### (Updated) 1. 설치
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 1. 설치 {#updated}
 
 먼저 패키지를 설치합니다.
 
@@ -40,7 +40,7 @@ Tambo는 이러한 제너레이티브 UI를 복잡한 설정 없이 바로 애�
 npm install @tambo/sdk ai
 ```
 
-### (Updated) 2. 컴포넌트 정의
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 2. 컴포넌트 정의 {#updated}
 
 AI가 사용할 수 있는 UI 컴포넌트들을 정의합니다. 예를 들어, 추천 장소를 보여주는 카드 컴포넌트입니다.
 
@@ -62,7 +62,7 @@ export function PlaceCard({ name, description, rating }) {
 }
 ```
 
-### (Updated) 3. Tambo 레지스트리 설정
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 3. Tambo 레지스트리 설정 {#updated}
 
 이제 이 컴포넌트를 AI에게 "도구(Tool)"로 알려줘야 합니다. Tambo는 이 과정을 매우 직관적으로 만들어줍니다.
 
@@ -87,7 +87,7 @@ export const tambo = createTambo({
 });
 ```
 
-### (Updated) 4. AI 응답에서 UI 렌더링
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 4. AI 응답에서 UI 렌더링 {#updated}
 
 마지막으로 챗봇 인터페이스에서 Tambo를 사용해 AI의 응답을 UI로 변환합니다.
 

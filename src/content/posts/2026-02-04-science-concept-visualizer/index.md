@@ -9,7 +9,7 @@ description: "추상적인 과학 원리나 수학 개념을 텍스트 다이어
 tags: ["과학공부", "시각화", "이해력", "ASCII아트"]
 ---
 
-# 📝 보이지 않는 개념을 보이게: 개념 시각화 도우미
+# (Updated) (Updated) (Updated) 📝 보이지 않는 개념을 보이게: 개념 시각화 도우미 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"양자 역학? 상대성 이론? 글자는 읽겠는데 머릿속에 그림이
 
 ---
 
-## 🚀 해결책: "멘탈 모델 빌더"
+## (Updated) (Updated) (Updated) 🚀 해결책: "멘탈 모델 빌더" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"양자 역학? 상대성 이론? 글자는 읽겠는데 머릿속에 그림이
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,15 +76,15 @@ _"양자 역학? 상대성 이론? 글자는 읽겠는데 머릿속에 그림이
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "TCP/IP 3-way Handshake 설명해줘."
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[ASCII 다이어그램]**
 

@@ -9,7 +9,7 @@ description: "복잡한 엑셀 함수를 외우지 마세요. 자연어(Natural 
 tags: ["엑셀", "데이터분석", "ChatGPT", "VLOOKUP", "업무효율"]
 ---
 
-# 📊 엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다
+# (Updated) (Updated) (Updated) 📊 엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다 {#updated}
 
 - **🎯 추천 대상:** 엑셀 함수만 보면 현기증이 나는 문과생, 데이터 가공에 1시간씩 쓰는 마케터
 - **⏱️ 소요 시간:** 10초
@@ -33,9 +33,9 @@ _"김대리, 이 시트에서 B열이랑 F열 비교해서 중복되는 것만 �
 
 ---
 
-## 🚀 해결책: "Excel Wizard Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Excel Wizard Prompt" {#updated}
 
-### 🥉 Basic Version (수식 생성기)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (수식 생성기) {#updated}
 
 단순히 함수가 생각 안 날 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"김대리, 이 시트에서 B열이랑 F열 비교해서 중복되는 것만 �
 
 <br>
 
-### 🥇 Pro Version (데이터 분석가 모드)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (데이터 분석가 모드) {#updated}
 
 복잡한 가공이나 매크로(VBA)가 필요할 때 사용하세요.
 
@@ -76,11 +76,11 @@ _"김대리, 이 시트에서 B열이랑 F열 비교해서 중복되는 것만 �
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (인간의 뇌)
+### (Updated) (Updated) (Updated) ❌ Before (인간의 뇌) {#updated}
 
 `=IF(ISERROR(VLOOKUP(A2, Sheet2!A:B, 2, 0)), "없음", VLOOKUP(A2, Sheet2!A:B, 2, 0))`
 (괄호 하나 빼먹어서 에러 남 → 30분 동안 찾음 → 야근)

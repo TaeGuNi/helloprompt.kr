@@ -9,7 +9,7 @@ description: "돈의 가치와 노동의 의미를 쉽게 가르치는 설명 �
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# 📝 '이거 사줘!' 떼쓰는 아이 경제 교육 프롬프트
+# (Updated) (Updated) (Updated) 📝 '이거 사줘!' 떼쓰는 아이 경제 교육 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"카드를 긁으면 장난감이 공짜로 생긴다고 생각하는 아이, �
 
 ---
 
-## 🚀 해결책: "어린이 경제 멘토"
+## (Updated) (Updated) (Updated) 🚀 해결책: "어린이 경제 멘토" {#updated}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"카드를 긁으면 장난감이 공짜로 생긴다고 생각하는 아이, �
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"카드를 긁으면 장난감이 공짜로 생긴다고 생각하는 아이, �
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 돈의 가치 설명해줘.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 카드는 돈이 들어있는 지갑이 아니라, '은행아, 내가 나중에 돈 줄게, 먼저 계산해줘'라고 약속하는 종이 쪼가리일 뿐이야. 나중에 돈을 못 주면 경찰 아저씨가 올 수도 있어.

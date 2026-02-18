@@ -9,7 +9,7 @@ description: "비싼 PT 받기 전에 AI에게 먼저 물어보자. GPT-4o Visio
 tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 🏋️ 운동 자세 교정: 스쿼트 영상 보고 피드백 받기 (Vision) {#vision}
+# 🏋️ 운동 자세 교정: 스쿼트 영상 보고 피드백 받기 (Vision) {#vision}
 
 - **🎯 추천 대상:** 홈트 하는데 무릎이 아픈 사람, 헬스장 가서 PT 받기엔 지갑이 얇은 대학생
 - **⏱️ 소요 시간:** 1분 (영상 촬영 및 업로드)
@@ -25,7 +25,7 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  내 운동 영상을 찍는다. (전신이 나오게, 옆모습 추천)
 2.  ChatGPT 앱에 업로드한다.
@@ -33,9 +33,9 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "AI Personal Trainer"
+## 🚀 해결책: "AI Personal Trainer"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (자세 체크)
+### 🥉 Basic Version (자세 체크)
 
 어디가 틀렸는지 확인.
 
@@ -44,7 +44,7 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (교정 및 루틴 추천)
+### 🥇 Pro Version (교정 및 루틴 추천)
 
 전문적인 코칭.
 
@@ -61,14 +61,14 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 AI는 뼈와 관절의 위치를 추정(Pose Estimation)할 수 있습니다.
 하지만 옷이 너무 헐렁하면 인식을 잘 못 합니다. **몸의 라인이 드러나는 옷**을 입고 찍어야 정확한 피드백을 받을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 동영상도 되나요?**
   - A: 네, GPT-4o는 짧은 동영상도 볼 수 있습니다. 너무 길면 잘라서 올리세요.
@@ -78,27 +78,27 @@ AI는 뼈와 관절의 위치를 추정(Pose Estimation)할 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **재활 의학 지식:** 단순히 "근육 키우기"가 아니라 "안 다치기"가 목표라면, 재활 관점의 페르소나를 부여해야 합니다. 그래야 관절 건강을 챙겨줍니다.
 2.  **큐잉(Queuing):** 트레이너들의 비법입니다. 복잡한 설명보다 "가슴을 펴라" 같은 짧은 한마디가 몸을 움직이게 합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (무릎 파괴)
+### ❌ Before (무릎 파괴)
 
 무릎이 발끝보다 10cm는 더 나감. (다음 날 계단 못 내려감 🏥)
 
-### (Updated) (Updated) (Updated) ✅ After (AI 코칭) {#ai}
+### ✅ After (AI 코칭) {#ai}
 
 **AI:** "무릎이 너무 나갑니다. 의자에 앉는다는 느낌으로 엉덩이를 뒤로 더 빼세요."
 (결과: 엉덩이에 자극 팍 옴. 무릎 안 아픔 🍑)
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 운동은 정직합니다.
 하지만 잘못된 정직함은 부상을 부릅니다.
@@ -106,14 +106,8 @@ AI는 뼈와 관절의 위치를 추정(Pose Estimation)할 수 있습니다.
 AI의 눈으로 내 몸을 바라보세요.
 **건강한 몸**이 최고의 자산입니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

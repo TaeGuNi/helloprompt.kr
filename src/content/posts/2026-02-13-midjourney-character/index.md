@@ -9,7 +9,7 @@ description: "매번 달라지는 AI 캐릭터 얼굴 때문에 고민이신가�
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기
+# (Updated) 📝 Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -31,7 +31,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **캐릭터 시트**를 먼저 만들어 디자인 기준점을 확보하세요.
 2. **Pro 프롬프트**를 사용해 전/후/좌/우 뷰(View)를 한 번에 생성합니다.
@@ -39,11 +39,11 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "Midjourney Character Sheet Prompt"
+## (Updated) 🚀 해결책: "Midjourney Character Sheet Prompt"
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형)
 
 빠르게 캐릭터의 대략적인 느낌을 보고 싶을 때 사용하세요.
 
@@ -52,7 +52,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형)
 
 게임 원화나 상세한 설정화가 필요할 때 사용하는 전문가용 프롬프트입니다. Midjourney는 영어 프롬프트를 더 잘 이해하므로 영문 버전을 추천합니다.
 
@@ -89,7 +89,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 <!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트가 강력한 이유는 **`--ar` (Aspect Ratio, 종횡비)**와 **`--v 6.0`**의 조합에 있습니다.
 
@@ -102,7 +102,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 <!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 캐릭터의 의상을 나중에 바꿀 수 있나요?**
   - A: 시트가 생성된 후에는 Midjourney의 **'Vary Region (Inpainting)'** 기능을 사용하여 얼굴은 유지한 채 의상 부분만 선택해 수정할 수 있습니다.
@@ -112,7 +112,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Multiple Views 명시:** "Front, Side, Back view"를 명확히 요청하여 AI가 한 장면에 여러 각도를 그리도록 유도했습니다.
 2.  **A-pose/T-pose:** 게임 및 모델링 업계 표준 포즈를 지정하여 팔다리가 몸을 가리지 않게 했습니다.
@@ -120,9 +120,9 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (단순 입력)
+### (Updated) ❌ Before (단순 입력)
 
 ```text
 make a character sheet of a warrior --v 6.0
@@ -130,7 +130,7 @@ make a character sheet of a warrior --v 6.0
 
 **결과:** 캐릭터의 크기가 제각각이거나, 신체 일부가 잘려 있고, 포즈가 역동적이라 디자인을 파악하기 힘듦. 배경이 복잡하여 캐릭터와 분리가 어려움.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
+### (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
 
 ```text
 (Pro Version Prompt with "Cyberpunk Warrior") --v 6.0 --ar 16:9
@@ -140,7 +140,7 @@ make a character sheet of a warrior --v 6.0
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) 🎯 결론 {#conclusion}
 
 캐릭터 시트는 AI 아트 작업의 설계도와 같습니다. 잘 만든 시트 한 장이면, 이후 시드(Seed) 고정이나 캐릭터 참조(Character Reference, `--cref`) 기능을 사용할 때 훨씬 더 강력한 일관성을 유지할 수 있습니다.
 
@@ -148,25 +148,17 @@ make a character sheet of a warrior --v 6.0
 
 이제 칼퇴하세요! 🍷
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
+## (Updated) Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## (Updated) Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
+## (Updated) Conclusion
 
 ## (Updated) Conclusion
 

@@ -9,7 +9,7 @@ description: "AI가 쓴 글 티가 난다고요? 프롬프트 한 방으로 '~�
 tags: ["ChatGPT", "브랜딩", "카피라이팅", "페르소나"]
 ---
 
-# (Updated) (Updated) (Updated) 🗣️ ChatGPT에게 우리 브랜드 말투(Tone & Manner) 입히기 {#tone-manner}
+# 🗣️ ChatGPT에게 우리 브랜드 말투(Tone & Manner) 입히기 {#tone-manner}
 
 - **🎯 추천 대상:** 브랜드 마케터, 뉴스레터 에디터, 1인 크리에이터
 - **⏱️ 소요 시간:** 수정 시간 30분 → 0분
@@ -27,7 +27,7 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **Role(역할)**만 주지 말고 **Tone(말투)** 구체적으로 묘사하기
 2. **Few-Shot(예시)** 기법으로 우리 브랜드 글 3개만 먹이기
@@ -35,9 +35,9 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Brand Persona Cloner"
+## 🚀 해결책: "Brand Persona Cloner"
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 이 프롬프트를 'Custom Instructions(맞춤 설정)'에 넣어두면 더 좋습니다.
 
@@ -68,7 +68,7 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 이 프롬프트를 뉴스레터 작성할 때 매주 씁니다.
 가장 중요한 건 **'Reference Examples(참고 예시)'**입니다.
@@ -78,7 +78,7 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 긴 글(블로그)에도 적용되나요?**
   - A: 네, 하지만 긴 글일수록 호흡 조절이 필요합니다. 중간중간 "잠깐!" 같은 추임새를 넣으라고 지시하면 더 자연스럽습니다.
@@ -88,41 +88,35 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Imitation (모방):** 예시를 제공하여 AI가 패턴을 분석하게 만들었습니다.
 2.  **Negative Constraints (부정 제약):** "딱딱한 표현 금지"를 통해 AI 특유의 번역투를 사전에 차단했습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (일반 요청)
+### ❌ Before (일반 요청)
 
 "신제품 베개를 홍보해줘."
 → "저희 회사의 새로운 베개를 소개합니다. 이 베개는 편안함을 제공하며 수면의 질을 높여줍니다." (재미없음)
 
-### (Updated) (Updated) (Updated) ✅ After (Pro 프롬프트) {#pro}
+### ✅ After (Pro 프롬프트) {#pro}
 
 → "요즘 잠 설치는 분들 주목! 🙋‍♀️ 드디어 나왔습니다. 눕자마자 기절한다는 전설의 '꿀잠 베개'! 🛌 이번 주말까지만 할인하는 거 안 비밀~ 🤫"
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 브랜딩은 결국 **'한결같은 목소리'**에서 나옵니다.
 매번 고민하지 말고, 프롬프트 하나로 우리 브랜드의 페르소나를 지키세요.
 
 여러분의 브랜드는 어떤 목소리를 가지고 있나요? 🎤
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -9,7 +9,7 @@ description: "정부지원사업 합격의 8할은 목차. PSST(문제-해결-�
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계
+# 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계
 
 - **🎯 추천 대상:** 아이디어는 있는데 문서 작업이 막막한 예비 창업가, "PSST가 뭐예요?" 묻는 초보 대표님
 - **⏱️ 소요 시간:** 10분 (초안 완성)
@@ -25,7 +25,7 @@ _"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Problem:** 고객이 겪는 문제의 심각성을 강조한다.
 2.  **Solution:** 내 아이템이 그걸 어떻게 해결하는지 보여준다.
@@ -33,9 +33,9 @@ _"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Government Grant Writer"
+## 🚀 해결책: "Government Grant Writer"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (아이디어 구체화)
+### 🥉 Basic Version (아이디어 구체화)
 
 내 생각이 말이 되는지 확인.
 
@@ -44,7 +44,7 @@ _"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (PSST 목차 완성) {#psst}
+### 🥇 Pro Version (PSST 목차 완성) {#psst}
 
 실제 제출용 초안 작성.
 
@@ -64,7 +64,7 @@ _"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 심사위원은 **'객관적 데이터'**를 좋아합니다.
 "사람들이 불편해합니다" (X) -> "연간 음식물 쓰레기 처리 비용 1조 원" (O)
@@ -72,7 +72,7 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: AI가 쓴 거 베껴도 되나요?**
   - A: 문장 구조나 논리를 참고하되, 핵심 내용은 본인의 언어로 다듬으세요. 표절 검사에 걸릴 수도 있습니다.
@@ -82,20 +82,20 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **평가위원 페르소나:** "평가위원 출신"이라고 설정하면, AI가 심사 기준(차별성, 시장성)에 맞춰서 점수 따기 좋은 포인트를 부각합니다.
 2.  **PSST 구조 강제:** 정부 사업의 표준 목차인 PSST를 명시하여, 엉뚱한 소리를 하지 않고 양식에 딱 맞는 글을 쓰게 합니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (일기장)
+### ❌ Before (일기장)
 
 "제가 자취를 하는데 음식물 쓰레기 버리는 게 너무 귀찮아서 이 앱을 만들고 싶습니다." (광탈 📉)
 
-### (Updated) (Updated) (Updated) ✅ After (사업계획서)
+### ✅ After (사업계획서)
 
 **[1-1. 문제 인식]**
 
@@ -109,21 +109,15 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 사업계획서는 **'설득의 문서'**입니다.
 내 열정을 보여주는 게 아니라, **심사위원을 납득시키는 것**입니다.
 
 AI와 함께라면, 당신도 **1억 원**의 주인공이 될 수 있습니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -9,7 +9,7 @@ description: "친구 관계에서 상처받은 아이를 위한 사회성 코칭
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 '왕따 당했어?' 묻기 전에, 아이 마음 단단하게 만들기
+# 📝 '왕따 당했어?' 묻기 전에, 아이 마음 단단하게 만들기
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 타인의 감정과 의사 존중
 2. 거절에 대한 회복 탄력성(Resilience)
@@ -33,9 +33,9 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "어린이 인간관계 코치"
+## 🚀 해결책: "어린이 인간관계 코치"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -66,23 +66,23 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### ❌ Before (입력)
 
 ```text
 친구한테 거절 당했을 때 조언.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### ✅ After (결과)
 
 ```text
 친구가 지금은 혼자 있고 싶거나 다른 놀이가 더 재미있을 수도 있어. 그건 네가 미워서가 아니야. 그럴 땐 '알겠어, 나중에 같이 놀자!' 하고 너도 장난감을 가지고 신나게 놀아보렴.
@@ -90,14 +90,14 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -107,20 +107,14 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 아이가 스스로의 감정을 지킬 수 있는 단단한 마음을 가지게 될 것입니다.
 
 이제 아이와 더 즐거운 시간을 보내세요! 👨‍👩‍👧‍👦
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -9,7 +9,7 @@ description: "매력적인 악역은 이야기의 핵심입니다. 악당에게 
 tags: ["캐릭터설정", "소설쓰기", "악당", "인터뷰"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 입체적인 악당 만들기: 3단계 심층 인터뷰
+# 📝 입체적인 악당 만들기: 3단계 심층 인터뷰
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"악당이 그냥 '나쁘니까 나쁜 짓을 한다'는 건 재미없잖아요
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. AI에게 악당 역할을 부여하고 심층 인터뷰를 진행합니다.
 2. 과거의 상처, 왜곡된 신념, 주인공에 대한 집착을 묻습니다.
@@ -33,9 +33,9 @@ _"악당이 그냥 '나쁘니까 나쁜 짓을 한다'는 건 재미없잖아요
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "악당 심층 청문회"
+## 🚀 해결책: "악당 심층 청문회"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"악당이 그냥 '나쁘니까 나쁜 짓을 한다'는 건 재미없잖아요
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,35 +76,35 @@ _"악당이 그냥 '나쁘니까 나쁜 짓을 한다'는 건 재미없잖아요
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (설정)
+### ❌ Before (설정)
 
 "이름: 자크. 그냥 사람 죽이는 걸 좋아하는 사이코패스 살인마." (매력 없음)
 
-### (Updated) (Updated) (Updated) ✅ After (인터뷰 결과)
+### ✅ After (인터뷰 결과)
 
 **Q. 넌 왜 살인을 하나?**
 **A (자크):** "살인? 아니, 난 그들을 구원하는 거야. 이 썩어빠진 세상에서 숨 쉬는 고통을 끝내주는 거지. 놈들은 죽는 순간에야 비로소 평온한 표정을 짓더군. 내가 아니면 누가 이런 자비를 베풀겠어?" (왜곡된 신념 발견)
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -114,18 +114,12 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 악당이 매력적일수록 주인공의 승리는 더 빛납니다. 지금 바로 당신의 악당을 심문 의자에 앉혀보세요! 😈
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

@@ -2866,7 +2866,7 @@
   {
     "slug": "2026-02-14-ai-relationship-ethics",
     "path": "src/content/posts/2026-02-14-ai-relationship-ethics/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2874,7 +2874,7 @@
   {
     "slug": "2026-02-13-rust-web-2026",
     "path": "src/content/posts/2026-02-13-rust-web-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2890,7 +2890,7 @@
   {
     "slug": "2026-02-04-salary-negotiation-simulation-roleplay",
     "path": "src/content/posts/2026-02-04-salary-negotiation-simulation-roleplay/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2898,7 +2898,7 @@
   {
     "slug": "2026-02-12-ai-voice-cloning-guide",
     "path": "src/content/posts/2026-02-12-ai-voice-cloning-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2906,7 +2906,7 @@
   {
     "slug": "2026-02-12-kubernetes-troubleshooting",
     "path": "src/content/posts/2026-02-12-kubernetes-troubleshooting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2914,7 +2914,7 @@
   {
     "slug": "2026-02-04-security-vulnerability-scanner",
     "path": "src/content/posts/2026-02-04-security-vulnerability-scanner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2922,7 +2922,7 @@
   {
     "slug": "2026-02-15-offline-edge-ai-mobile",
     "path": "src/content/posts/2026-02-15-offline-edge-ai-mobile/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2946,7 +2946,7 @@
   {
     "slug": "2026-02-04-coding-interview-simulator",
     "path": "src/content/posts/2026-02-04-coding-interview-simulator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2954,7 +2954,7 @@
   {
     "slug": "2026-02-04-retirement-fund-calculator",
     "path": "src/content/posts/2026-02-04-retirement-fund-calculator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2962,7 +2962,7 @@
   {
     "slug": "2026-02-15-prompt-chaining",
     "path": "src/content/posts/2026-02-15-prompt-chaining/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2970,7 +2970,7 @@
   {
     "slug": "2026-02-15-newpipe-algorithm-free",
     "path": "src/content/posts/2026-02-15-newpipe-algorithm-free/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2986,7 +2986,7 @@
   {
     "slug": "2026-02-04-data-insight-extractor",
     "path": "src/content/posts/2026-02-04-data-insight-extractor/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -2994,7 +2994,7 @@
   {
     "slug": "2026-02-12-software-architecture-guide",
     "path": "src/content/posts/2026-02-12-software-architecture-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3002,7 +3002,7 @@
   {
     "slug": "2026-02-04-interview-mock-simulator-ai",
     "path": "src/content/posts/2026-02-04-interview-mock-simulator-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3010,7 +3010,7 @@
   {
     "slug": "2026-02-12-sql-query-optimization",
     "path": "src/content/posts/2026-02-12-sql-query-optimization/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3050,7 +3050,7 @@
   {
     "slug": "2026-02-12-vim-shortcuts-master",
     "path": "src/content/posts/2026-02-12-vim-shortcuts-master/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3058,7 +3058,7 @@
   {
     "slug": "2026-02-08-youtube-shorts-factory",
     "path": "src/content/posts/2026-02-08-youtube-shorts-factory/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3066,7 +3066,7 @@
   {
     "slug": "2026-02-12-chrome-extensions-spying",
     "path": "src/content/posts/2026-02-12-chrome-extensions-spying/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -3090,7 +3090,7 @@
   {
     "slug": "2026-02-15-ai-meeting-notes",
     "path": "src/content/posts/2026-02-15-ai-meeting-notes/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 0
@@ -3106,7 +3106,7 @@
   {
     "slug": "2026-02-04-expert-delimiters",
     "path": "src/content/posts/2026-02-04-expert-delimiters/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3122,7 +3122,7 @@
   {
     "slug": "2026-02-14-quantum-ai-breakthroughs",
     "path": "src/content/posts/2026-02-14-quantum-ai-breakthroughs/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3130,7 +3130,7 @@
   {
     "slug": "2026-02-15-smart-sleep-mask-leak",
     "path": "src/content/posts/2026-02-15-smart-sleep-mask-leak/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3138,7 +3138,7 @@
   {
     "slug": "2026-02-04-unit-test-generation",
     "path": "src/content/posts/2026-02-04-unit-test-generation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3146,7 +3146,7 @@
   {
     "slug": "2026-02-04-regex-generator-korean",
     "path": "src/content/posts/2026-02-04-regex-generator-korean/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3162,7 +3162,7 @@
   {
     "slug": "2026-02-04-steampunk-aesthetic",
     "path": "src/content/posts/2026-02-04-steampunk-aesthetic/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3170,7 +3170,7 @@
   {
     "slug": "2026-02-13-chrome-devtools-mcp",
     "path": "src/content/posts/2026-02-13-chrome-devtools-mcp/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3178,7 +3178,7 @@
   {
     "slug": "2026-02-04-social-skills-coaching-for-kids",
     "path": "src/content/posts/2026-02-04-social-skills-coaching-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3186,7 +3186,7 @@
   {
     "slug": "2026-02-13-llm-apps-rag-guide",
     "path": "src/content/posts/2026-02-13-llm-apps-rag-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -3194,7 +3194,7 @@
   {
     "slug": "2026-02-11-python-excel-automation",
     "path": "src/content/posts/2026-02-11-python-excel-automation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3210,7 +3210,7 @@
   {
     "slug": "2026-02-14-ai-slop-fatigue",
     "path": "src/content/posts/2026-02-14-ai-slop-fatigue/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3218,7 +3218,7 @@
   {
     "slug": "2026-02-04-book-toc-planning",
     "path": "src/content/posts/2026-02-04-book-toc-planning/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3226,7 +3226,7 @@
   {
     "slug": "2026-02-14-midjourney-v7-guide",
     "path": "src/content/posts/2026-02-14-midjourney-v7-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3234,7 +3234,7 @@
   {
     "slug": "2026-02-04-job-description-tailored-cover-letter",
     "path": "src/content/posts/2026-02-04-job-description-tailored-cover-letter/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3250,7 +3250,7 @@
   {
     "slug": "2026-02-12-smart-breakfast-nutritionist",
     "path": "src/content/posts/2026-02-12-smart-breakfast-nutritionist/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 70
@@ -3274,7 +3274,7 @@
   {
     "slug": "2026-02-12-sql-query-builder",
     "path": "src/content/posts/2026-02-12-sql-query-builder/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3282,7 +3282,7 @@
   {
     "slug": "2026-02-10-svelte-5-migration-guide",
     "path": "src/content/posts/2026-02-10-svelte-5-migration-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3306,7 +3306,7 @@
   {
     "slug": "2026-02-04-winter-travel-packing-strategy-warmth-volume",
     "path": "src/content/posts/2026-02-04-winter-travel-packing-strategy-warmth-volume/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3314,7 +3314,7 @@
   {
     "slug": "2026-02-15-internet-unarchivable",
     "path": "src/content/posts/2026-02-15-internet-unarchivable/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 0
@@ -3322,7 +3322,7 @@
   {
     "slug": "2026-02-14-infra-truth",
     "path": "src/content/posts/2026-02-14-infra-truth/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -3330,7 +3330,7 @@
   {
     "slug": "2026-02-04-overcoming-dental-fear-story-for-kids",
     "path": "src/content/posts/2026-02-04-overcoming-dental-fear-story-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3338,7 +3338,7 @@
   {
     "slug": "2026-02-10-brand-voice-consistency",
     "path": "src/content/posts/2026-02-10-brand-voice-consistency/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3354,7 +3354,7 @@
   {
     "slug": "2026-02-04-newsletter-draft-generator",
     "path": "src/content/posts/2026-02-04-newsletter-draft-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3362,7 +3362,7 @@
   {
     "slug": "2026-02-04-presentation-script-generator",
     "path": "src/content/posts/2026-02-04-presentation-script-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3378,7 +3378,7 @@
   {
     "slug": "2026-02-04-language-learning-roleplay",
     "path": "src/content/posts/2026-02-04-language-learning-roleplay/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3426,7 +3426,7 @@
   {
     "slug": "2026-02-08-stock-chart-analysis",
     "path": "src/content/posts/2026-02-08-stock-chart-analysis/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3442,7 +3442,7 @@
   {
     "slug": "2026-02-04-blog-post-title-generator",
     "path": "src/content/posts/2026-02-04-blog-post-title-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3450,7 +3450,7 @@
   {
     "slug": "2026-02-12-git-hook-generator",
     "path": "src/content/posts/2026-02-12-git-hook-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 30
@@ -3458,7 +3458,7 @@
   {
     "slug": "2026-02-04-business-email-reminder",
     "path": "src/content/posts/2026-02-04-business-email-reminder/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3466,7 +3466,7 @@
   {
     "slug": "2026-02-04-budget-planner",
     "path": "src/content/posts/2026-02-04-budget-planner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60
@@ -3474,7 +3474,7 @@
   {
     "slug": "2026-02-04-macro-photography-prompt",
     "path": "src/content/posts/2026-02-04-macro-photography-prompt/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
     "last_error": null,
     "score": 60

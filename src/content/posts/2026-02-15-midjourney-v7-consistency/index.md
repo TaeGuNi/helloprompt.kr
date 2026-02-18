@@ -12,7 +12,7 @@ tags: ["AI", "Tech", "midjourney-v7-consistency"]
 
 The landscape of AI is shifting rapidly. Today, we discuss **Midjourney Character Consistency**.
 
-> "Using character references changes storytelling"
+"Using character references changes storytelling"
 
 ## (Updated) (Updated) (Updated) Analysis
 

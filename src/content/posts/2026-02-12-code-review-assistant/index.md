@@ -9,7 +9,7 @@ description: "주니어 개발자의 든든한 사수, AI 코드 리뷰어 프�
 tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 ---
 
-# (Updated) (Updated) 📝 AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)
+# (Updated) (Updated) 📝 AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼) {#updated}
 
 - **🎯 추천 대상:** 사수 없이 혼자 일하는 주니어 개발자, 내 코드가 의심스러운 사람
 - **⏱️ 소요 시간:** 디버깅 3시간 → 10분 단축
@@ -19,7 +19,7 @@ tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 코드, 돌아가긴 하는데 뭔가 찝찝하지 않나요? AI에게 한번 검사 맡겨보세요."_
+_"이 코드, 돌아가긴 하는데 뭔가 찝찝하지 않나요? AI에게 한번 검사 맡겨보세요."_
 
 혼자 코딩하다 보면 "내가 뭘 모르는지 모르는" 상태에 빠지기 쉽습니다. AI는 지치지 않는 코드 리뷰어입니다. 당신의 코드를 훑어보고 잠재적인 버그, 비효율적인 로직, 보안 취약점까지 콕 집어낼 수 있습니다.
 
@@ -33,9 +33,9 @@ tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "AI 코드 리뷰어"
+## (Updated) (Updated) 🚀 해결책: "AI 코드 리뷰어" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 문제점을 찾고 싶을 때 사용하세요.
 
@@ -45,7 +45,7 @@ tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 코드 품질을 높이고, 리팩토링까지 고려할 때 추천합니다.
 
@@ -102,9 +102,9 @@ tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```python
 def get_user(id):
@@ -112,16 +112,16 @@ def get_user(id):
     cursor.execute(sql)
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```python
 def get_user(user_id):
-    # (Updated) (Updated) [Security] SQL Injection 방지를 위해 Parameterized Query 사용
+    # (Updated) (Updated) [Security] SQL Injection 방지를 위해 Parameterized Query 사용 {#updated}
     sql = "SELECT * FROM users WHERE id = %s"
     cursor.execute(sql, (user_id,))
 ```
 
-> **리뷰:** 입력받은 `id`를 쿼리에 직접 연결하면 SQL 인젝션 공격에 취약합니다. 바인딩 변수(`%s`)를 사용하여 보안을 강화했습니다.
+**리뷰:** 입력받은 `id`를 쿼리에 직접 연결하면 SQL 인젝션 공격에 취약합니다. 바인딩 변수(`%s`)를 사용하여 보안을 강화했습니다.
 
 ---
 

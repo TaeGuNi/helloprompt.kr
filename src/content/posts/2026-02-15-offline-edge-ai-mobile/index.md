@@ -6,15 +6,15 @@ image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 ---
 
-# (Updated) (Updated) 모바일에서의 진정한 오프라인 AI
+# (Updated) (Updated) 모바일에서의 진정한 오프라인 AI {#updated}
 
-## (Updated) (Updated) 서론
+## (Updated) (Updated) 서론 {#updated}
 
 지난 몇 년간 'AI'는 '클라우드'와 동의어였습니다. 사용자가 챗봇에게 질문을 하면, 그 쿼리는 수백 마일 떨어진 데이터 센터로 전송되어 거대한 H100 GPU 클러스터에서 처리된 후 응답으로 반환되었습니다. 이 방식은 효과적이었지만, 지연 시간(latency), 개인정보 보호 문제, 그리고 인터넷 연결에 대한 의존성을 야기했습니다.
 
 그러나 우리 주머니 속에서는 조용한 혁명이 일어나고 있습니다. Apple의 A-시리즈나 Qualcomm의 Snapdragon 8 Gen 3와 같은 현대식 SoC에 특화된 신경망 처리 장치(NPU)가 등장함에 따라, 하드웨어는 더 이상 병목 현상의 원인이 아닙니다. 우리는 추론(inference) 레이어가 서버에서 엣지(edge)로 이동하는 패러다임의 전환을 목격하고 있습니다. 진정한 오프라인 AI의 시대는 단순한 이론적 로드맵이 아니라 이미 우리 곁에 와 있습니다.
 
-## (Updated) (Updated) 분석
+## (Updated) (Updated) 분석 {#updated}
 
 오프라인 AI의 주요 동력은 모델 압축 기술과 하드웨어 효율성의 비약적인 발전입니다. 우리는 더 이상 전체 정밀도(full-precision)의 700억(70B) 파라미터 모델을 폰에 억지로 집어넣으려 하지 않습니다. 대신, 4비트 양자화(quantization), 지식 증류(knowledge distillation), 아키텍처 최적화(예: Mixture-of-Experts)와 같은 기술들을 통해 제한된 RAM(8GB - 16GB)을 가진 기기에서도 고품질의 소형 언어 모델(SLM)이 효율적으로 실행될 수 있게 되었습니다.
 

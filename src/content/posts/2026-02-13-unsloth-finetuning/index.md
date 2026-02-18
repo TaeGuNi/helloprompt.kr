@@ -13,7 +13,7 @@ Unsloth는 Llama, Mistral, Gemma 등의 모델을 기존보다 **2배 더 빠르
 
 이 가이드에서는 Unsloth를 사용하여 나만의 모델을 효율적으로 학습시키는 방법을 단계별로 알아봅니다.
 
-## (Updated) (Updated) (Updated) Unsloth란 무엇인가요?
+## (Updated) (Updated) (Updated) Unsloth란 무엇인가요? {#updated}
 
 Unsloth는 PyTorch와 Transformers 위에서 동작하는 경량화 및 최적화 라이브러리입니다. 핵심적인 특징은 다음과 같습니다:
 
@@ -21,11 +21,11 @@ Unsloth는 PyTorch와 Transformers 위에서 동작하는 경량화 및 최적�
 - **메모리 효율성**: 그라디언트 체크포인팅과 양자화(Quantization) 기술을 개선하여 16GB VRAM(예: T4, 3060, 4060)에서도 7B 모델을 여유롭게 학습할 수 있습니다.
 - **정확도 유지**: QLoRA나 LoRA와 같은 기법을 사용할 때 정확도 손실 없이(0%) 학습이 가능합니다.
 
-## (Updated) (Updated) (Updated) 시작하기
+## (Updated) (Updated) (Updated) 시작하기 {#updated}
 
 Google Colab의 무료 T4 GPU 인스턴스에서도 충분히 실행 가능합니다.
 
-### (Updated) (Updated) (Updated) 1. 설치
+### (Updated) (Updated) (Updated) 1. 설치 {#updated}
 
 먼저 필요한 패키지를 설치합니다. Unsloth는 최신 PyTorch 환경을 권장합니다.
 
@@ -34,7 +34,7 @@ pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 pip install --no-deps "xformers<0.0.26" trl peft accelerate bitsandbytes
 ```
 
-### (Updated) (Updated) (Updated) 2. 모델 로드
+### (Updated) (Updated) (Updated) 2. 모델 로드 {#updated}
 
 Unsloth는 `FastLanguageModel` 클래스를 제공하여 모델 로딩을 간소화합니다. 여기서는 `Llama-3-8b` 모델을 4비트로 로드해 보겠습니다.
 
@@ -54,7 +54,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 )
 ```
 
-### (Updated) (Updated) (Updated) 3. LoRA 어댑터 추가
+### (Updated) (Updated) (Updated) 3. LoRA 어댑터 추가 {#updated}
 
 파인튜닝을 위해 LoRA(Low-Rank Adaptation) 어댑터를 모델에 부착합니다. 이는 전체 모델을 학습하는 대신 일부 파라미터만 학습하여 효율성을 극대화합니다.
 
@@ -74,7 +74,7 @@ model = FastLanguageModel.get_peft_model(
 )
 ```
 
-### (Updated) (Updated) (Updated) 4. 데이터셋 준비
+### (Updated) (Updated) (Updated) 4. 데이터셋 준비 {#updated}
 
 Hugging Face Datasets 라이브러리를 사용하여 데이터를 로드하고 전처리합니다. 여기서는 간단한 예시로 Alpaca 데이터셋 형식을 사용합니다.
 
@@ -107,7 +107,7 @@ dataset = load_dataset("yahma/alpaca-cleaned", split = "train")
 dataset = dataset.map(formatting_prompts_func, batched = True)
 ```
 
-### (Updated) (Updated) (Updated) 5. 학습 시작
+### (Updated) (Updated) (Updated) 5. 학습 시작 {#updated}
 
 `SFTTrainer`를 사용하여 학습을 시작합니다. Unsloth 덕분에 `per_device_train_batch_size`를 늘려도 메모리 오류가 잘 발생하지 않습니다.
 
@@ -142,12 +142,12 @@ trainer = SFTTrainer(
 trainer.train()
 ```
 
-### (Updated) (Updated) (Updated) 6. 추론 및 저장
+### (Updated) (Updated) (Updated) 6. 추론 및 저장 {#updated}
 
 학습된 모델로 추론을 하거나 GGUF(llama.cpp용) 또는 VLLM 형식으로 저장할 수 있습니다.
 
 ```python
-# (Updated) (Updated) (Updated) 추론
+# (Updated) (Updated) (Updated) 추론 {#updated}
 FastLanguageModel.for_inference(model)
 inputs = tokenizer(
 [
@@ -163,7 +163,7 @@ tokenizer.batch_decode(outputs)
 
 # (Updated) (Updated) (Updated) 저장 (LoRA 어댑터만 저장) {#lora}
 model.save_pretrained("lora_model")
-# (Updated) (Updated) (Updated) GGUF로 저장 (선택 사항)
+# (Updated) (Updated) (Updated) GGUF로 저장 (선택 사항) {#updated}
 # (Updated) (Updated) (Updated) model.save_pretrained_gguf("model", tokenizer, quantization_method = "q4_k_m")
 ```
 

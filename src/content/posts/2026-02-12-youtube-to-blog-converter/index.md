@@ -9,7 +9,7 @@ description: "OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본을 블�
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기
+# (Updated) (Updated) 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기 {#updated}
 
 - **🎯 추천 대상:** 유튜브 하느라 블로그는 방치한 크리에이터, 콘텐츠 하나 만들어서 뽕을 뽑고 싶은 마케터
 - **⏱️ 소요 시간:** 1분 (변환)
@@ -19,7 +19,7 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
+_"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
 
 따로 쓰지 마세요. 이미 영상 대본(Script)에 모든 내용이 있습니다. **"형식(Format)"**만 바꾸면 됩니다. AI에게 대본을 던져주고 **"블로그 말투로 바꿔줘"**라고 하면 끝입니다.
 
@@ -33,9 +33,9 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Content Recycler Prompt"
+## (Updated) (Updated) 🚀 해결책: "Content Recycler Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (단순 변환)
+### (Updated) (Updated) 🥉 Basic Version (단순 변환) {#updated}
 
 말을 글로 바꾸기.
 
@@ -44,7 +44,7 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (채널별 멀티 유즈)
+### (Updated) (Updated) 🥇 Pro Version (채널별 멀티 유즈) {#updated}
 
 하나의 소스로 3가지 콘텐츠 뽑기.
 
@@ -84,13 +84,13 @@ AI에게 **"소제목(Subheading)을 달아줘"**, **"불렛 포인트(Bullet po
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (방치)
+### (Updated) (Updated) ❌ Before (방치) {#updated}
 
 유튜브 영상 1개 업로드 -> 끝. (조회수 1,000회)
 
-### (Updated) (Updated) ✅ After (재가공)
+### (Updated) (Updated) ✅ After (재가공) {#updated}
 
 영상 1개 -> 블로그 글(검색 유입) + 인스타(팔로워 유입) + 트위터(RT 확산)
 -> **총 도달(Reach) 10,000회** (10배 상승 📈)

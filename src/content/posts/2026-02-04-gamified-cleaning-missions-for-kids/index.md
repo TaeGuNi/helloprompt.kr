@@ -9,7 +9,7 @@ description: "지저분한 방을 10분 만에 치우게 만드는 게임화(Gam
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) (Updated) 📝 치워라 잔소리 대신 '청소 특공대' 출동!
+# (Updated) (Updated) 📝 치워라 잔소리 대신 '청소 특공대' 출동! {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"매일 밤 장난감 정리하느라 소리 지르고 등짝 스매싱 날리�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "놀이 육아 기획자"
+## (Updated) (Updated) 🚀 해결책: "놀이 육아 기획자" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"매일 밤 장난감 정리하느라 소리 지르고 등짝 스매싱 날리�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"매일 밤 장난감 정리하느라 소리 지르고 등짝 스매싱 날리�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 청소 게임 추천.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 미션 1: '색깔 요정 구출 작전!' 엄마가 '빨강!' 외치면 빨간 장난감을 먼저 바구니에 넣는 사람이 승리!

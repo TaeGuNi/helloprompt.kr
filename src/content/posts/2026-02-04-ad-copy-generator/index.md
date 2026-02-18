@@ -9,7 +9,7 @@ description: "스크롤을 멈추게 하는 SNS 광고 메인 텍스트(Primary 
 tags: ["페이스북광고", "인스타그램광고", "퍼포먼스마케팅", "카피라이팅"]
 ---
 
-# (Updated) (Updated) 📝 클릭을 부르는 페이스북/인스타 광고 카피 생성기
+# (Updated) (Updated) 📝 클릭을 부르는 페이스북/인스타 광고 카피 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"광고 성과(ROAS)를 올리는 가장 쉬운 방법은 타겟팅이 아니�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "ROAS 부스터"
+## (Updated) (Updated) 🚀 해결책: "ROAS 부스터" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"광고 성과(ROAS)를 올리는 가장 쉬운 방법은 타겟팅이 아니�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,15 +78,15 @@ _"광고 성과(ROAS)를 올리는 가장 쉬운 방법은 타겟팅이 아니�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "저희 요가 매트 좋아요. 지금 사면 할인해 드립니다."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[버전 A: 스토리텔링형]**
 무릎 아파서 홈트 포기하셨나요? 😢

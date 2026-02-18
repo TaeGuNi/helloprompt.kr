@@ -24,4 +24,4 @@ This technology is not just a tool; it is a catalyst for change. By leveraging t
 
 Looking ahead, we expect to see further integration and more sophisticated applications. The boundary between human and machine capabilities will continue to blur, creating new opportunities for collaboration.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

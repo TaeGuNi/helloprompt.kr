@@ -9,7 +9,7 @@ description: "개발자의 로망, 빔(Vim). hjkl부터 매크로까지, 손가�
 tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 ---
 
-# (Updated) (Updated) ⌨️ Vim 단축키 마스터: 마우스 없이 코딩하는 법
+# (Updated) (Updated) ⌨️ Vim 단축키 마스터: 마우스 없이 코딩하는 법 {#updated}
 
 - **🎯 추천 대상:** 코딩하다가 마우스 잡으러 손 뻗는 0.5초가 아까운 괴짜 개발자, 터미널에서 `vi` 켰다가 못 빠져나와서 컴퓨터 껐다 켠 사람
 - **⏱️ 소요 시간:** 평생 (하지만 10분이면 기본은 함)
@@ -19,7 +19,7 @@ tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐ (익숙해지면 빛의 속도)
 - 🚀 **활용도:** ⭐⭐⭐☆☆
 
-> _"어떻게 나가요? `:q`? `:wq`? 아, 살려줘..."_
+_"어떻게 나가요? `:q`? `:wq`? 아, 살려줘..."_
 
 Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w`(단어) -> `d2w` (단어 두 개 삭제). 이 문법을 깨우치는 순간, 당신은 텍스트를 편집하는 게 아니라 **지휘**하게 됩니다.
 
@@ -33,9 +33,9 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Vim Tutor Prompt"
+## (Updated) (Updated) 🚀 해결책: "Vim Tutor Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (생존 키트)
+### (Updated) (Updated) 🥉 Basic Version (생존 키트) {#updated}
 
 일단 파일 수정하고 저장하고 끄기.
 
@@ -43,7 +43,7 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (매크로 & 레지스터)
+### (Updated) (Updated) 🥇 Pro Version (매크로 & 레지스터) {#updated}
 
 반복 작업 자동화.
 
@@ -91,9 +91,9 @@ Vim을 억지로 쓰진 마세요. 하지만 **VS Code에 Vim 확장을 깔아�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (마우스)
+### (Updated) (Updated) ❌ Before (마우스) {#updated}
 
 마우스 잡고 드래그 -> 키보드로 수정 -> 다시 마우스 잡고 다음 줄 클릭 -> (손목 터널 증후군 🏥)
 

@@ -9,7 +9,7 @@ description: "AI가 만드는 기상천외한 미션으로 아이의 집중력�
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) (Updated) 📝 집중력 200% 향상! 업그레이드 '가라사대' 게임
+# (Updated) (Updated) 📝 집중력 200% 향상! 업그레이드 '가라사대' 게임 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"아이가 말 귀를 잘 못 알아듣거나 잠시도 가만히 있지 못하
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "두뇌 발달 놀이 기획자"
+## (Updated) (Updated) 🚀 해결책: "두뇌 발달 놀이 기획자" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아이가 말 귀를 잘 못 알아듣거나 잠시도 가만히 있지 못하
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"아이가 말 귀를 잘 못 알아듣거나 잠시도 가만히 있지 못하
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 가라사대 미션 추천해줘.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 난이도 상: '가라사대, 한 발로 서서 코끼리 코를 하고 빙글 한 바퀴 도세요!'

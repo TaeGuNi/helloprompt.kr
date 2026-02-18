@@ -9,7 +9,7 @@ description: "오늘 커피 몇 잔 마셨나요? 카페인 반감기를 계산�
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 커피 섭취량에 따른 집중력 예측 봇 만들기
+# (Updated) (Updated) (Updated) 📝 커피 섭취량에 따른 집중력 예측 봇 만들기 {#updated}
 
 - **🎯 추천 대상:** 밤에 잠 안 와서 유튜브 보다가 늦게 자는 악순환러
 - **⏱️ 소요 시간:** 1분
@@ -19,7 +19,7 @@ tags: ["커피", "집중력", "건강관리", "카페인"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐☆
 - 🚀 **활용도:** ⭐⭐⭐☆☆
 
-> _"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아야 하죠."_
+_"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아야 하죠."_
 
 무작정 때려 붓는 커피는 오히려 불안감과 수면 장애를 유발합니다. 내 몸속 카페인 농도를 계산하고, 언제 커피를 끊어야(Cut-off) 꿀잠을 잘 수 있는지 알아봅니다.
 
@@ -33,15 +33,15 @@ tags: ["커피", "집중력", "건강관리", "카페인"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "카페인 매니저"
+## (Updated) (Updated) (Updated) 🚀 해결책: "카페인 매니저" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 계산)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 계산) {#updated}
 
 > **요청:** 아메리카노 2잔 마셨어. 나 오늘 밤에 잠 잘 올까?
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (과학적 분석)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (과학적 분석) {#updated}
 
 > **역할 (Role):** 너는 약리학 지식이 있는 건강 컨설턴트야.
 >

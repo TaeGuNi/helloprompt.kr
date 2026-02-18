@@ -15,7 +15,7 @@ tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 - **⏱️ 읽는 시간:** 3분
 - **🤖 관련 모델:** GLM-5
 
-> _"단순한 코딩 비서가 아닙니다. 이제 AI가 직접 엔지니어링을 수행합니다."_
+_"단순한 코딩 비서가 아닙니다. 이제 AI가 직접 엔지니어링을 수행합니다."_
 
 Z.ai가 최신 모델 GLM-5를 공개했습니다. 이번 모델의 슬로건은 "From Vibe Coding to Agentic Engineering"입니다.
 

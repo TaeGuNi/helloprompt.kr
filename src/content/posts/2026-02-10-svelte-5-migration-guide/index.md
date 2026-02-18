@@ -9,7 +9,7 @@ description: "Virtual DOM 없는 세상. Svelte 5의 핵심 'Runes'를 이해하
 tags: ["Svelte", "Svelte5", "React", "프론트엔드", "웹개발"]
 ---
 
-# (Updated) (Updated) ⚡️ Svelte 5 실전 도입: React보다 가볍고 빠른 이유
+# (Updated) (Updated) ⚡️ Svelte 5 실전 도입: React보다 가볍고 빠른 이유 {#updated}
 
 - **🎯 추천 대상:** `useEffect` 의존성 배열 때문에 머리 빠지는 React 개발자, 번들 사이즈 줄이고 싶은 프론트엔드 엔지니어
 - **⏱️ 소요 시간:** 10분 (개념 이해)
@@ -19,7 +19,7 @@ tags: ["Svelte", "Svelte5", "React", "프론트엔드", "웹개발"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"Svelte 5 나왔다던데... 뭐가 바뀐 거야? Runes가 뭐야?"_
+_"Svelte 5 나왔다던데... 뭐가 바뀐 거야? Runes가 뭐야?"_
 
 React의 **Virtual DOM**은 혁명이었지만, 이제는 무겁습니다. Svelte는 **"가상 돔을 버리고, 컴파일러가 되자"**고 선언했습니다. 그리고 버전 5에서 **Runes($state, $derived)**를 도입하며 React의 훅(Hook)보다 더 직관적인 반응성 모델을 완성했습니다.
 
@@ -33,9 +33,9 @@ React의 **Virtual DOM**은 혁명이었지만, 이제는 무겁습니다. Svelt
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Migration Prompt"
+## (Updated) (Updated) 🚀 해결책: "Migration Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (문법 비교)
+### (Updated) (Updated) 🥉 Basic Version (문법 비교) {#updated}
 
 React 코드를 Svelte 5로 바꾸고 싶을 때.
 
@@ -45,7 +45,7 @@ React 코드를 Svelte 5로 바꾸고 싶을 때.
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (심층 분석)
+### (Updated) (Updated) 🥇 Pro Version (심층 분석) {#updated}
 
 왜 Svelte가 더 나은지 기술적으로 설득할 때.
 
@@ -86,7 +86,7 @@ React 생태계가 워낙 거대해서 Svelte로 넘어가는 게 두려울 수 
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) ❌ Before (React)
 

@@ -9,7 +9,7 @@ description: "답장 없는 거래처, 화내지 않고 세련되게 리마인�
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 📝 무례하지 않게 독촉하는 비즈니스 이메일 작성법
+# (Updated) (Updated) 📝 무례하지 않게 독촉하는 비즈니스 이메일 작성법 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"거래처 답장이 늦어서 속 터지는데, 뭐라고 보내야 할지 고
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "젠틀 리마인드 봇"
+## (Updated) (Updated) 🚀 해결책: "젠틀 리마인드 봇" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"거래처 답장이 늦어서 속 터지는데, 뭐라고 보내야 할지 고
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,17 +74,17 @@ _"거래처 답장이 늦어서 속 터지는데, 뭐라고 보내야 할지 고
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 답장 좀 빨리 주세요. 급해요.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 제목: [리마인드] [프로젝트명] 관련 자료 요청 건

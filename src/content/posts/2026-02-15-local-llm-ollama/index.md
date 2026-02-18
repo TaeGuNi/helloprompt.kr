@@ -12,7 +12,7 @@ tags: ["AI", "Tech", "local-llm-ollama"]
 
 The landscape of AI is shifting rapidly. Today, we discuss **Local LLMs Guide**.
 
-> "Privacy focused AI accessible to all"
+"Privacy focused AI accessible to all"
 
 ## (Updated) (Updated) (Updated) Analysis
 

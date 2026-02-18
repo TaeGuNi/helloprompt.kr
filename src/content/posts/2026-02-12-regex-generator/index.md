@@ -9,7 +9,7 @@ description: "이메일, 전화번호, 특수문자 검증... 복잡한 정규�
 tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 ---
 
-# (Updated) (Updated) (Updated) 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자
+# (Updated) (Updated) (Updated) 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자 {#updated}
 
 - **🎯 추천 대상:** `^([a-z0-9_.-]+)@([\da-z.-]+)\.([a-z.]{2,6})$` 이거 보고 토할 것 같은 사람, 입력 폼 검증 짜야 하는 프론트엔드 개발자
 - **⏱️ 소요 시간:** 10초
@@ -19,7 +19,7 @@ tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정규식으로 어떻게 짜더라?"_
+_"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정규식으로 어떻게 짜더라?"_
 
 정규표현식(Regex)은 개발자도 매번 구글링합니다. 외우는 게 미련한 겁니다. 이제 **자연어(Natural Language)**로 설명하세요. "이메일 형식 찾아줘"라고 하면 AI가 알아서 기호들을 조합해 줍니다.
 
@@ -33,9 +33,9 @@ tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Regex Wizard"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Regex Wizard" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (패턴 생성)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (패턴 생성) {#updated}
 
 간단한 이메일, 전화번호 찾기.
 
@@ -43,7 +43,7 @@ tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (복잡한 텍스트 추출)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (복잡한 텍스트 추출) {#updated}
 
 로그 파일에서 특정 데이터만 뽑아낼 때.
 
@@ -91,17 +91,17 @@ AI에게 "음수나 소수점도 포함되나요?"라고 되묻게 시키거나,
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (직접 짬)
+### (Updated) (Updated) (Updated) ❌ Before (직접 짬) {#updated}
 
 `\d+` (숫자만 찾으랬더니 날짜까지 다 잡힘 엉망진창 😱)
 
 ### (Updated) (Updated) (Updated) ✅ After (AI 생성) {#ai}
 
-> **패턴:** `^\[(.*?)\] INFO \[User:(\d+)\] .* \(IP: ([\d\.]+)\)$`
+**패턴:** `^\[(.*?)\] INFO \[User:(\d+)\] .* \(IP: ([\d\.]+)\)$`
 
-> **설명:**
+**설명:**
 
 - `(.*?)`: 대괄호 안의 시간
 - `(\d+)`: User: 뒤의 숫자 ID

@@ -9,7 +9,7 @@ description: "관광객용 식당은 가라. 현지인들이 줄 서는 진짜 �
 tags: ["여행", "맛집", "먹방", "현지인맛집"]
 ---
 
-# (Updated) (Updated) 📝 현지인처럼 먹자! AI 로컬 맛집 내비게이터
+# (Updated) (Updated) 📝 현지인처럼 먹자! AI 로컬 맛집 내비게이터 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"네이버 블로그에 나온 맛집, 가보면 한국인만 바글바글하�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "로컬 미식 가이드"
+## (Updated) (Updated) 🚀 해결책: "로컬 미식 가이드" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"네이버 블로그에 나온 맛집, 가보면 한국인만 바글바글하�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"네이버 블로그에 나온 맛집, 가보면 한국인만 바글바글하�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "파리 맛집 추천해줘."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 (마레 지구 골목에 숨겨진, 현지 직장인들이 점심에 찾는 가성비 훌륭한 비스트로 3곳과 추천 메뉴 '오리 콩피' 정보)
 

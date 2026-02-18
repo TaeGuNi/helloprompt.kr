@@ -9,7 +9,7 @@ description: "AI를 활용해 급성장하는 산업 트렌드를 분석하고 �
 tags: ["주식", "산업분석", "트렌드", "시장조사"]
 ---
 
-# (Updated) (Updated) 📝 산업 트렌드 분석: 뜨는 시장 찾기
+# (Updated) (Updated) 📝 산업 트렌드 분석: 뜨는 시장 찾기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "미래 산업 네비게이터"
+## (Updated) (Updated) 🚀 해결책: "미래 산업 네비게이터" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,20 +74,20 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 로봇 산업 전망 어때? 관련주 추천해줘.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) (Updated) 🤖 휴머노이드 로봇 산업 심층 분석
+### (Updated) (Updated) 🤖 휴머노이드 로봇 산업 심층 분석 {#updated}
 
 **1. 핵심 성장 동력**
 - 노동력 부족 심화 및 임금 상승

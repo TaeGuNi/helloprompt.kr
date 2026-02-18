@@ -34,4 +34,4 @@ L'IA non scomparirà. Tuttavia, la distinzione tra usare l'IA come strumento e l
 
 Nel web del futuro, la risorsa più costosa non sarà l'informazione in sé, ma la _fiducia_ che l'informazione sia passata attraverso un filtro umano. Paradossalmente, al culmine del progresso tecnologico, stiamo entrando in un'era che brama il tocco umano più che mai.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

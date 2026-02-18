@@ -44,4 +44,4 @@ cover: "./cover.jpg"
 
 Galaxy S26は、**「すべてをデバイス内で処理したい」**というパワーユーザー向けです。一方、iPhone 17は**「自分を最もよく知るアシスタント」**を目指しており、OSとハードウェアの密接な統合を重視しています。
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

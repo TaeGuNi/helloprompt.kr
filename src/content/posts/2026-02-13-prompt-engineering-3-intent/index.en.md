@@ -11,9 +11,9 @@ Modifiers like "Explain in detail" or "Tell me step-by-step" are no longer neces
 
 ## The Evolution of Prompts
 
-*   **1.0**: Keyword-centric. Listing words like entering search terms.
-*   **2.0**: Structured instructions. Using complex templates like Role assignment and Constraints.
-*   **3.0**: Intent-centric. AI understands context and proposes the optimal result on its own.
+- **1.0**: Keyword-centric. Listing words like entering search terms.
+- **2.0**: Structured instructions. Using complex templates like Role assignment and Constraints.
+- **3.0**: Intent-centric. AI understands context and proposes the optimal result on its own.
 
 ## What is Intent-Based Prompting?
 
@@ -22,10 +22,10 @@ It's AI understanding perfectly even if the user speaks poorly. For example, if 
 ### Practical Example
 
 **Past (2.0):**
-> "You are a professional marketer. Write an Instagram promotional caption based on the product description below. Use emojis, include 5 hashtags, and keep the tone friendly."
+"You are a professional marketer. Write an Instagram promotional caption based on the product description below. Use emojis, include 5 hashtags, and keep the tone friendly."
 
 **Present (3.0):**
-> (After uploading product photo) "For Insta promo."
+(After uploading product photo) "For Insta promo."
 
 With just this short input, the AI analyzes the mood of the image, infers the target audience, and generates the optimal copy.
 

@@ -9,7 +9,7 @@ description: "엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# (Updated) (Updated) 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템
+# (Updated) (Updated) 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템 {#updated}
 
 - **🎯 추천 대상:** 뱅크샐러드, 토스만 보고 돈 관리가 안 되는 사람, 내 돈이 어디로 새는지 직접 눈으로 확인하고 싶은 사람
 - **⏱️ 소요 시간:** 10분 (템플릿 복제 및 설정)
@@ -19,7 +19,7 @@ tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
+_"카드값 왜 이렇게 많이 나왔지? 분명 아껴 썼는데..."_
 
 자동으로 기록해 주는 앱은 편하지만, '반성'이 없습니다. 직접 입력해야 돈을 덜 씁니다. 하지만 엑셀은 너무 못생겼죠? **노션(Notion)**으로 예쁘고 똑똑한 가계부를 만드세요. 수입/지출을 입력하면 **'남은 예산'**과 **'무지출 챌린지 달성률'**이 자동으로 계산됩니다.
 
@@ -33,9 +33,9 @@ tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Notion Formula Architect"
+## (Updated) (Updated) 🚀 해결책: "Notion Formula Architect" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (수식 생성)
+### (Updated) (Updated) 🥉 Basic Version (수식 생성) {#updated}
 
 노션 수식이 어려울 때.
 
@@ -83,17 +83,17 @@ tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (카드 명세서)
+### (Updated) (Updated) ❌ Before (카드 명세서) {#updated}
 
 "아... 지난달에 배달 음식 50만 원 썼네? 미쳤다." (이미 늦음 💸)
 
-### (Updated) (Updated) ✅ After (노션 가계부)
+### (Updated) (Updated) ✅ After (노션 가계부) {#updated}
 
-> **대시보드:** [식비 예산: ▓▓▓▓▓░░░░░ 50%]
-> "어? 벌써 예산 절반 썼네? 오늘은 집밥 먹자."
-> (결과: 월 30만 원 저축 성공 💰)
+**대시보드:** [식비 예산: ▓▓▓▓▓░░░░░ 50%]
+"어? 벌써 예산 절반 썼네? 오늘은 집밥 먹자."
+(결과: 월 30만 원 저축 성공 💰)
 
 ---
 

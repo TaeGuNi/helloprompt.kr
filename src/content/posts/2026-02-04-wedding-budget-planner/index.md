@@ -9,7 +9,7 @@ description: "스드메부터 혼수까지, 결혼 준비 과정에서 발생하
 tags: ["결혼", "예산", "웨딩", "신혼부부"]
 ---
 
-# (Updated) (Updated) 📝 결혼 예산 엑셀: 추가금 폭탄 막는 체크리스트
+# (Updated) (Updated) 📝 결혼 예산 엑셀: 추가금 폭탄 막는 체크리스트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"결혼식 비용, 처음에 생각한 것보다 2배는 더 나온다는 말 �
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "웨딩 버짓 가디언"
+## (Updated) (Updated) 🚀 해결책: "웨딩 버짓 가디언" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"결혼식 비용, 처음에 생각한 것보다 2배는 더 나온다는 말 �
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -75,20 +75,20 @@ _"결혼식 비용, 처음에 생각한 것보다 2배는 더 나온다는 말 �
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 결혼식 3천만 원으로 가능해? 예산 짜줘.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) (Updated) 👰‍♀️ 3,000만 원 웨딩 예산 분배표
+### (Updated) (Updated) 👰‍♀️ 3,000만 원 웨딩 예산 분배표 {#updated}
 
 | 구분 | 예산 금액 | 상세 내역 및 추가금 주의사항 |
 | :--- | :--- | :--- |

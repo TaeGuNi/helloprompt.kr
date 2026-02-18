@@ -23,4 +23,4 @@ We need to move beyond the "Wrapper" era. Real value will come from solving actu
 
 **Data Source:** Internal Trend API (2026-02-14)
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

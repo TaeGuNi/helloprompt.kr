@@ -9,7 +9,7 @@ description: "스팸함으로 직행하는 뉴스레터는 그만. 고객이 열
 tags: ["이메일마케팅", "CRM", "카피라이팅", "뉴스레터"]
 ---
 
-# (Updated) (Updated) 📝 오픈율 떡상하는 이메일 제목 생성기
+# (Updated) (Updated) 📝 오픈율 떡상하는 이메일 제목 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"이메일 마케팅의 성공 여부는 제목이 90%를 결정합니다."_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "오픈 더 메일"
+## (Updated) (Updated) 🚀 해결책: "오픈 더 메일" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"이메일 마케팅의 성공 여부는 제목이 90%를 결정합니다."_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,15 +79,15 @@ _"이메일 마케팅의 성공 여부는 제목이 90%를 결정합니다."_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "여름 정기 세일 안내입니다."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 | 전략          | 제목                                 | 미리보기 텍스트                                 |
 | :------------ | :----------------------------------- | :---------------------------------------------- |

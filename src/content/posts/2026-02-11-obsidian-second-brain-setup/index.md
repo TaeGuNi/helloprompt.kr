@@ -19,7 +19,7 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"노션은 예쁜데... 데이터가 내 게 아니잖아. 서버 터지면 끝이고."_
+_"노션은 예쁜데... 데이터가 내 게 아니잖아. 서버 터지면 끝이고."_
 
 **옵시디언(Obsidian)**은 다릅니다. 모든 데이터는 내 컴퓨터에 `.md` 파일로 저장됩니다. 인터넷이 끊겨도, 회사가 망해도 내 지식은 안전합니다. 게다가 **그래프 뷰(Graph View)**로 지식의 연결 고리를 시각화할 수 있죠.
 
@@ -33,9 +33,9 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Obsidian Architect Prompt"
+## (Updated) (Updated) 🚀 해결책: "Obsidian Architect Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (일기장 템플릿)
+### (Updated) (Updated) 🥉 Basic Version (일기장 템플릿) {#updated}
 
 매일 쓰는 데일리 노트(Daily Note) 서식.
 
@@ -43,7 +43,7 @@ tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (제2의 뇌 구조 설계)
+### (Updated) (Updated) 🥇 Pro Version (제2의 뇌 구조 설계) {#updated}
 
 PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
@@ -85,13 +85,13 @@ PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (메모장)
+### (Updated) (Updated) ❌ Before (메모장) {#updated}
 
 "그때 그 아이디어 어디 적어놨더라..." (메모장, 카톡, 노션 뒤지다가 포기 🤯)
 
-### (Updated) (Updated) ✅ After (옵시디언)
+### (Updated) (Updated) ✅ After (옵시디언) {#updated}
 
 검색창에 키워드 입력 -> 관련 문서들이 줄줄이 비엔나처럼 연결되어 나옴. -> **"아, 이거랑 저거랑 연결하면 되겠다!"** (인사이트 폭발 💡)
 

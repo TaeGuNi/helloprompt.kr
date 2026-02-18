@@ -33,9 +33,9 @@ _"남들은 링크드인으로 이직 잘만 한다던데, 왜 내 메일함은 
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "LinkedIn Profile Optimizer"
+## (Updated) (Updated) 🚀 해결책: "LinkedIn Profile Optimizer" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"남들은 링크드인으로 이직 잘만 한다던데, 왜 내 메일함은 
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,18 +79,18 @@ _"남들은 링크드인으로 이직 잘만 한다던데, 왜 내 메일함은 
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (기본 설정)
+### (Updated) (Updated) ❌ Before (기본 설정) {#updated}
 
 ```text
 Headline: 삼성전자 대리
 About: (비어 있음)
 ```
 
-### (Updated) (Updated) ✅ After (최적화)
+### (Updated) (Updated) ✅ After (최적화) {#updated}
 
 ```text
 Headline: 🚀 Senior Frontend Engineer | React & TypeScript Expert | Obsessed with Web Performance

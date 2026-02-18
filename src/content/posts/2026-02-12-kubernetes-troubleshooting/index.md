@@ -19,7 +19,7 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
+_"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 쿠버네티스는 복잡합니다. 하지만 에러 패턴은 뻔합니다. 파드가 왜 죽었는지, 왜 안 뜨는지, AI에게 로그를 던져보세요. **쿠버네티스 자격증(CKA) 보유자**보다 더 빠르게 원인을 찾아줍니다.
 
@@ -33,9 +33,9 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt"
+## (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (에러 해석)
+### (Updated) (Updated) 🥉 Basic Version (에러 해석) {#updated}
 
 로그가 무슨 말인지 모를 때.
 
@@ -45,7 +45,7 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성)
+### (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성) {#updated}
 
 장애를 빠르게 복구하고 싶을 때.
 
@@ -93,15 +93,15 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (무한 삽질)
+### (Updated) (Updated) ❌ Before (무한 삽질) {#updated}
 
 "어... 왜 안 뜨지? 노드 재부팅 해볼까?" (서비스 중단 🚨)
 
 ### (Updated) (Updated) ✅ After (AI 진단) {#ai}
 
-> **AI:** "로그를 보니 `Insufficient cpu`네요. 현재 노드에 CPU 자원이 꽉 찼습니다.
+**AI:** "로그를 보니 `Insufficient cpu`네요. 현재 노드에 CPU 자원이 꽉 찼습니다.
 
 1. 불필요한 파드를 끄거나,
 2. 오토스케일링(Cluster Autoscaler)을 켜세요.

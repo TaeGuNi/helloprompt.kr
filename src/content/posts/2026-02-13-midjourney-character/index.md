@@ -9,7 +9,7 @@ description: "매번 달라지는 AI 캐릭터 얼굴 때문에 고민이신가�
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기
+# (Updated) (Updated) (Updated) 📝 Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기 {#updated}
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -23,7 +23,7 @@ tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
-> _"AI 그림을 그릴 때마다 캐릭터 얼굴이 미묘하게 바뀌어서, 마치 다른 사람처럼 보여 당황스러우셨나요?"_
+_"AI 그림을 그릴 때마다 캐릭터 얼굴이 미묘하게 바뀌어서, 마치 다른 사람처럼 보여 당황스러우셨나요?"_
 
 AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(Consistency)' 유지입니다. 웹툰이나 게임 리소스를 만들 때, 컷마다 주인공의 얼굴이 달라진다면 실무에 사용하기 어렵죠. 이 문제를 해결하는 가장 확실하고 고전적인 방법은 바로 **'캐릭터 시트(Character Sheet)'**를 먼저 생성하는 것입니다.
 
@@ -39,11 +39,11 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Midjourney Character Sheet Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Midjourney Character Sheet Prompt" {#updated}
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 캐릭터의 대략적인 느낌을 보고 싶을 때 사용하세요.
 
@@ -52,7 +52,7 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 게임 원화나 상세한 설정화가 필요할 때 사용하는 전문가용 프롬프트입니다. Midjourney는 영어 프롬프트를 더 잘 이해하므로 영문 버전을 추천합니다.
 
@@ -120,15 +120,15 @@ AI 아트를 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(C
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (단순 입력)
+### (Updated) (Updated) (Updated) ❌ Before (단순 입력) {#updated}
 
 ```text
 make a character sheet of a warrior --v 6.0
 ```
 
-> **결과:** 캐릭터의 크기가 제각각이거나, 신체 일부가 잘려 있고, 포즈가 역동적이라 디자인을 파악하기 힘듦. 배경이 복잡하여 캐릭터와 분리가 어려움.
+**결과:** 캐릭터의 크기가 제각각이거나, 신체 일부가 잘려 있고, 포즈가 역동적이라 디자인을 파악하기 힘듦. 배경이 복잡하여 캐릭터와 분리가 어려움.
 
 ### (Updated) (Updated) (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
 

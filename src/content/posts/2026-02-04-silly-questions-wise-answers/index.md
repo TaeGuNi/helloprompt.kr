@@ -9,7 +9,7 @@ description: "엉뚱한 질문을 던져보세요. AI가 소크라테스 뺨치�
 tags: ["유머", "잡학", "철학", "과학", "창의력"]
 ---
 
-# (Updated) (Updated) 📝 멍청한 질문에 현명하게 답하기: 우문현답 생성기
+# (Updated) (Updated) 📝 멍청한 질문에 현명하게 답하기: 우문현답 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"지구는 둥근데 왜 사람들은 안 미끄러져요?", "개미는 왜 뚠
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: \"유쾌한 철학자\"
+## (Updated) (Updated) 🚀 해결책: \"유쾌한 철학자\" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"지구는 둥근데 왜 사람들은 안 미끄러져요?", "개미는 왜 뚠
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,15 +77,15 @@ _"지구는 둥근데 왜 사람들은 안 미끄러져요?", "개미는 왜 뚠
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (질문: 펭귄은 왜 무릎이 없나요?)
+### (Updated) (Updated) ❌ Before (질문: 펭귄은 왜 무릎이 없나요?) {#updated}
 
 "다리가 짧아서 그래." (재미없음)
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 - **과학적 접근:** 사실 펭귄도 무릎이 있습니다! 다만 털과 지방 속에 숨겨져 있고, 항상 쪼그려 앉은 자세(스쿼트 자세)로 걷기 때문에 겉보기에 없어 보일 뿐이죠. 엑스레이를 찍으면 아주 튼튼한 무릎 뼈가 보인답니다.
 - **철학적 접근:** 펭귄은 춥고 미끄러운 빙판 위에서 넘어지지 않기 위해 스스로 무릎을 굽혔습니다. 겸손하게 자신을 낮추는 자만이 가장 혹독한 환경에서 살아남는다는 것을 보여주는 게 아닐까요?

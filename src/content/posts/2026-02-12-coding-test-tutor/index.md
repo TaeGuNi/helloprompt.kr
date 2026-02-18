@@ -19,7 +19,7 @@ tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 답지 보자."_
+_"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 답지 보자."_
 
 잠깐만요. 답을 바로 보면 실력이 안 늡니다. **"힌트만 줘"**라고 AI에게 부탁하세요. **소크라테스**처럼 질문을 던져서 당신이 스스로 답을 찾게 도와줍니다.
 
@@ -33,9 +33,9 @@ tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Algo Tutor Prompt"
+## (Updated) (Updated) 🚀 해결책: "Algo Tutor Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (힌트 요청)
+### (Updated) (Updated) 🥉 Basic Version (힌트 요청) {#updated}
 
 스스로 풀고 싶을 때.
 
@@ -45,7 +45,7 @@ tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (단계별 코칭)
+### (Updated) (Updated) 🥇 Pro Version (단계별 코칭) {#updated}
 
 과외 선생님 모드.
 
@@ -86,17 +86,17 @@ AI에게 "이 문제랑 비슷한 유형의 기출문제 3개만 더 추천해�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (시간 초과)
+### (Updated) (Updated) ❌ Before (시간 초과) {#updated}
 
 `O(N^2)`으로 짰다가 효율성 테스트 탈락. "왜 틀렸는지 모르겠음." (멘붕 🤯)
 
 ### (Updated) (Updated) ✅ After (AI 힌트) {#ai}
 
-> **AI:** "N이 10만이면 `O(N^2)`은 시간 초과입니다. `O(NlogN)`이나 `O(N)`으로 줄여야 합니다. **스택(Stack)**을 써보세요."
-> **나:** "아! 스택으로 짝 맞추기 하면 되네!"
-> (결과: 통과 🚀)
+**AI:** "N이 10만이면 `O(N^2)`은 시간 초과입니다. `O(NlogN)`이나 `O(N)`으로 줄여야 합니다. **스택(Stack)**을 써보세요."
+**나:** "아! 스택으로 짝 맞추기 하면 되네!"
+(결과: 통과 🚀)
 
 ---
 

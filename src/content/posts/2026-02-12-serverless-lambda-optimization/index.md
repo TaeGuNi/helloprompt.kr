@@ -19,7 +19,7 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"서버리스라며? 왜 이렇게 느려?"_
+_"서버리스라며? 왜 이렇게 느려?"_
 
 서버가 없다는 건, **"필요할 때만 켠다"**는 뜻입니다. 꺼져 있던 서버를 켜는 시간, 그게 바로 **콜드 스타트(Cold Start)**입니다. 3초가 걸릴 수도 있죠. 이걸 0.1초로 줄이는 마법, AI에게 물어보세요.
 
@@ -33,9 +33,9 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Lambda Tuner Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Lambda Tuner Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (메모리 튜닝)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (메모리 튜닝) {#updated}
 
 돈으로 해결하기.
 
@@ -44,7 +44,7 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (코드 레벨 최적화 & 스냅샷)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (코드 레벨 최적화 & 스냅샷) {#updated}
 
 근본적인 다이어트.
 
@@ -85,13 +85,13 @@ tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (통통한 람다)
+### (Updated) (Updated) (Updated) ❌ Before (통통한 람다) {#updated}
 
 `import AWS from 'aws-sdk'` (전체 로드) -> 용량 50MB -> 콜드 스타트 1.5초 🐢
 
-### (Updated) (Updated) (Updated) ✅ After (날씬한 람다)
+### (Updated) (Updated) (Updated) ✅ After (날씬한 람다) {#updated}
 
 `import { S3Client } from '@aws-sdk/client-s3'` (필요한 것만) -> 용량 1MB -> 콜드 스타트 **0.2초** 🚀
 

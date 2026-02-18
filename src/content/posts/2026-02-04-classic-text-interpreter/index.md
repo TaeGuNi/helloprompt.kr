@@ -9,7 +9,7 @@ description: "어렵고 난해한 고문서나 1차 사료를 현대어로 쉽�
 tags: ["역사", "고전", "문해력", "사료분석"]
 ---
 
-# (Updated) (Updated) 📝 사료(史料) 읽어주는 AI: 고전 텍스트 해석기
+# (Updated) (Updated) 📝 사료(史料) 읽어주는 AI: 고전 텍스트 해석기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -34,9 +34,9 @@ _"플라톤의 국가론 원문을 읽는데 한국어 번역본도 이해가 �
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "고전 해독기"
+## (Updated) (Updated) 🚀 해결책: "고전 해독기" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"플라톤의 국가론 원문을 읽는데 한국어 번역본도 이해가 �
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,15 +73,15 @@ _"플라톤의 국가론 원문을 읽는데 한국어 번역본도 이해가 �
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력 - 미국 독립선언서 중)
+### (Updated) (Updated) ❌ Before (입력 - 미국 독립선언서 중) {#updated}
 
 "We hold these truths to be self-evident, that all men are created equal..."
 
-### (Updated) (Updated) ✅ After (프롬프트 결과)
+### (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **[현대어 번역]**
 "우리는 다음의 진실들이 설명이 필요 없을 만큼 뻔하다고 믿습니다. 즉, 모든 사람은 태어날 때부터 평등하며..."

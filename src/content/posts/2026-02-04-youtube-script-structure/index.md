@@ -9,7 +9,7 @@ description: "초반 5초 이탈을 막고 끝까지 시청하게 만드는 유�
 tags: ["유튜브", "대본", "영상제작"]
 ---
 
-# (Updated) (Updated) 📝 조회수 떡상을 부르는 유튜브 대본 구조화 비법
+# (Updated) (Updated) 📝 조회수 떡상을 부르는 유튜브 대본 구조화 비법 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "유튜브 스크립트 디렉터"
+## (Updated) (Updated) 🚀 해결책: "유튜브 스크립트 디렉터" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -70,11 +70,11 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 혼자 영어 공부하는 법 영상 찍을 거야. 미드 쉐도잉하고, 영어 일기 쓰고, 혼잣말하기. 대본 써줘.
@@ -82,7 +82,7 @@ _"영상 시작 10초 만에 사람들이 나간다면? 내용은 좋은데 전�
 
 <br>
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 

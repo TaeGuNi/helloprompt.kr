@@ -19,7 +19,7 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이번에 신제품 나왔는데, 기사 어떻게 쓰지? '대박 났습니다'라고 쓰면 안 실어주겠지?"_
+_"이번에 신제품 나왔는데, 기사 어떻게 쓰지? '대박 났습니다'라고 쓰면 안 실어주겠지?"_
 
 기자들은 바쁩니다. 홍보성 멘트로 도배된 글은 쓰레기통행입니다. 기자가 **'복사+붙여넣기'**만 해도 기사가 되는 **스트레이트(Straight) 형식**으로 써서 보내야 합니다. AI가 가장 잘하는 분야 중 하나입니다.
 
@@ -33,9 +33,9 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Press Release Generator"
+## (Updated) (Updated) 🚀 해결책: "Press Release Generator" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (단신 기사)
+### (Updated) (Updated) 🥉 Basic Version (단신 기사) {#updated}
 
 간단한 소식 알리기.
 
@@ -44,7 +44,7 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (기획 기사 / 투자 유치)
+### (Updated) (Updated) 🥇 Pro Version (기획 기사 / 투자 유치) {#updated}
 
 중요한 마일스톤 발표.
 
@@ -94,15 +94,15 @@ AI에게 "형용사 빼고 팩트 위주로 써"라고 시키는 게 포인트�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (광고)
+### (Updated) (Updated) ❌ Before (광고) {#updated}
 
 "저희 헬로프롬프트가 진짜 대박 투자를 받았습니다! 이제 세계 1등 할 거예요!" (기자: 삭제 🗑️)
 
-### (Updated) (Updated) ✅ After (기사)
+### (Updated) (Updated) ✅ After (기사) {#updated}
 
-> **[제목] 헬로프롬프트, 100억 규모 시리즈 A 투자 유치... 글로벌 진출 본격화**
+**[제목] 헬로프롬프트, 100억 규모 시리즈 A 투자 유치... 글로벌 진출 본격화**
 
 생성형 AI 스타트업 헬로프롬프트(대표 홍길동)가 100억 원 규모의 시리즈 A 투자를 유치했다고 11일 밝혔다. 이번 투자에는 OO벤처스 등이 참여했다... (중략)
 홍길동 대표는 "이번 자금 확보를 통해..."라고 말했다.

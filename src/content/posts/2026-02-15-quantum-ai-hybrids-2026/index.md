@@ -8,13 +8,13 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 # (Updated) (Updated) 퀀텀 AI 하이브리드 (Quantum AI Hybrids) {#quantum-ai-hybrids}
 
-## (Updated) (Updated) 서론
+## (Updated) (Updated) 서론 {#updated}
 
 개발자로서 우리는 종종 "양자 컴퓨팅(Quantum Computing)"과 "인공지능(Artificial Intelligence)"이라는 용어를 서로 다른 거대한 유행어처럼 듣곤 합니다. 우리는 이들을 별개의 영역으로 취급합니다. 하나는 계산을 위해 물리학의 법칙을 다시 쓰는 것이고, 다른 하나는 논리와 패턴 인식의 규칙을 다시 쓰는 것이라고 말이죠. 하지만 2026년은 불과 몇 년 전만 해도 이론에 불과했던 융합의 가장자리로 우리를 이끌었습니다. 우리는 바야흐로 **퀀텀 AI 하이브리드(Quantum AI Hybrids)**의 시대로 접어들고 있습니다. 이는 고전적인 신경망이 계산 비용이 가장 많이 드는 작업을 양자 프로세서(QPU)로 오프로딩(위임)하는 패러다임의 전환입니다.
 
 이것은 GPU를 완전히 대체하는 것이 아닙니다. 이는 특화된 공생 관계에 가깝습니다. 텐서 연산을 위해 TPU를 사용하고 일반적인 로직 처리를 위해 CPU를 사용하는 것처럼, 기존 실리콘 칩이 효율적으로 해결하기 힘든 고차원 최적화 문제를 위한 전용 가속기로서 QPU가 부상하는 것을 목격하고 있습니다.
 
-## (Updated) (Updated) 분석
+## (Updated) (Updated) 분석 {#updated}
 
 현대 AI, 특히 대규모 언어 모델(LLM)과 복잡한 생성형 시스템의 핵심 병목 현상은 '최적화'입니다. 모델을 학습시키는 것은 본질적으로 다차원 에너지 지형에서 가장 낮은 지점을 찾는 과정입니다. 고전적인 컴퓨터는 단계별로 내려가는 방식(경사 하강법)을 사용하며, 종종 국소 최저점(local minima)에 갇히곤 합니다.
 
@@ -29,11 +29,11 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
     import cirq
     import tensorflow as tf
 
-    # (Updated) (Updated) 양자 회로(큐비트) 정의
+    # (Updated) (Updated) 양자 회로(큐비트) 정의 {#updated}
     qubit = cirq.GridQubit(0, 0)
     circuit = cirq.Circuit(cirq.rx(0.5)(qubit))
 
-    # (Updated) (Updated) 고전적 모델에 통합
+    # (Updated) (Updated) 고전적 모델에 통합 {#updated}
     model = tf.keras.Sequential([
         tf.keras.layers.Dense(64, activation='relu'),
         tfq.layers.PQC(circuit, ...), # (Updated) (Updated) 매개변수화된 양자 회로(PQC) 계층

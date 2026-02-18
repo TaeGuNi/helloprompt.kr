@@ -10,11 +10,11 @@ tags: ["CSS", "Frontend", "Design"]
 
 2026년 현재, 프론트엔드 생태계는 그 어느 때보다 빠르게 변화하고 있습니다. 특히 스타일링 영역에서는 브라우저 자체 기능의 발전과 도구의 성숙이 맞물려 새로운 패러다임을 형성하고 있습니다. 이번 글에서는 올해 가장 주목해야 할 CSS 트렌드인 **Tailwind CSS v5**와 **네이티브 CSS 네스팅(Native Nesting)**, 그리고 변화하는 **CSS-in-JS**의 위상에 대해 깊이 있게 다뤄보겠습니다.
 
-## (Updated) (Updated) (Updated) 1. 네이티브 네스팅과 스코핑의 완성
+## (Updated) (Updated) (Updated) 1. 네이티브 네스팅과 스코핑의 완성 {#updated}
 
 Sass나 Less 같은 전처리기(Preprocessor)의 전유물이었던 '네스팅(Nesting)'이 이제 모든 최신 브라우저에서 기본적으로 지원됩니다. 2023년부터 도입되기 시작한 CSS Nesting 모듈은 2026년 현재 완벽하게 표준으로 자리 잡았습니다.
 
-### (Updated) (Updated) (Updated) 전처리기 없는 깨끗한 워크플로우
+### (Updated) (Updated) (Updated) 전처리기 없는 깨끗한 워크플로우 {#updated}
 
 이제 별도의 빌드 단계 없이도 다음과 같은 문법을 브라우저가 직접 해석합니다.
 
@@ -32,23 +32,23 @@ Sass나 Less 같은 전처리기(Preprocessor)의 전유물이었던 '네스팅(
 
 이러한 변화는 빌드 도구의 복잡성을 크게 줄여주었습니다. Vite나 Turbopack 같은 번들러들은 CSS 전처리 과정을 생략함으로써 더욱 빠른 HMR(Hot Module Replacement) 속도를 제공하게 되었습니다. 또한 `@scope` 규칙의 도입으로 컴포넌트 단위의 스타일 격리가 언어 차원에서 지원되면서, BEM과 같은 복잡한 작명 규칙의 필요성도 점차 줄어들고 있습니다.
 
-## (Updated) (Updated) (Updated) 2. Tailwind CSS v5: 엔진의 진화
+## (Updated) (Updated) (Updated) 2. Tailwind CSS v5: 엔진의 진화 {#updated}
 
 Tailwind CSS는 v4에서 JIT(Just-In-Time) 엔진을 완성형으로 만들었다면, 이번 v5에서는 **"스타일링의 런타임 제로화"**와 **"지능형 디자인 토큰"**에 초점을 맞췄습니다.
 
-### (Updated) (Updated) (Updated) 자동화된 디자인 토큰 동기화
+### (Updated) (Updated) (Updated) 자동화된 디자인 토큰 동기화 {#updated}
 
 Tailwind v5의 가장 큰 특징은 Figma와 같은 디자인 도구의 변수(Variables)를 `tailwind.config.js` 설정 없이 직접 CSS 변수로 매핑하는 기능입니다. 디자인 시스템의 변경 사항이 코드에 즉시 반영되며, 개발자는 클래스 이름을 고민할 필요 없이 의미론적 토큰을 그대로 사용할 수 있게 되었습니다.
 
-### (Updated) (Updated) (Updated) 하이브리드 모드
+### (Updated) (Updated) (Updated) 하이브리드 모드 {#updated}
 
 순수 유틸리티 클래스의 한계를 극복하기 위해, v5는 네이티브 CSS 문법과의 혼합 사용을 공식적으로 장려합니다. `@apply` 지시어의 성능 오버헤드를 완전히 제거하여, 복잡한 애니메이션이나 특수 효과는 CSS 파일에 작성하고 레이아웃과 반응형 스타일은 유틸리티 클래스로 처리하는 패턴이 표준으로 자리 잡았습니다.
 
-## (Updated) (Updated) (Updated) 3. CSS-in-JS의 현주소: 런타임은 이제 그만
+## (Updated) (Updated) (Updated) 3. CSS-in-JS의 현주소: 런타임은 이제 그만 {#updated}
 
 한때 리액트 생태계를 지배했던 런타임 기반 CSS-in-JS(Styled-components, Emotion 등)는 2026년 현재, '레거시'로 취급받기 시작했습니다. 가장 큰 이유는 **React Server Components(RSC)**의 보편화입니다.
 
-### (Updated) (Updated) (Updated) Zero-Runtime의 시대
+### (Updated) (Updated) (Updated) Zero-Runtime의 시대 {#updated}
 
 서버 컴포넌트 환경에서는 런타임에 스타일을 주입하는 것이 불가능하거나 비효율적입니다. 이에 따라 StyleX, Panda CSS, Vanilla Extract와 같이 빌드 타임에 정적 CSS를 생성하는 라이브러리들이 주류가 되었습니다. 이들은 타입 안전성(Type Safety)을 제공하면서도 런타임 오버헤드가 '0'에 수렴합니다.
 

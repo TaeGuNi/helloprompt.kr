@@ -8,9 +8,9 @@ categories: ["AI Ethics", "Journalism"]
 tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 ---
 
-# (Updated) (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이
+# (Updated) (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이 {#updated}
 
-> _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-in-Chief)이 될 수도 있습니다."_
+_"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-in-Chief)이 될 수도 있습니다."_
 
 2026년, 이제 뉴스룸에서 AI 에이전트를 사용하는 것은 선택이 아닌 필수가 되었습니다. 하지만 AI가 작성한 기사에서 심각한 편향이 발견되거나, 존재하지 않는 사실을 지어내는 '할루시네이션(Hallucination)' 문제는 여전히 뜨거운 감자입니다.
 
@@ -26,34 +26,30 @@ tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 
 ---
 
-## (Updated) (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기
+## (Updated) (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기 {#updated}
 
 여러분이 작성한(혹은 AI가 초안을 쓴) 기사가 윤리적으로 문제가 없는지 점검해주는 프롬프트입니다.
 
-### (Updated) (Updated) 🛡️ Ethical Guardian (윤리적 가디언)
+### (Updated) (Updated) 🛡️ Ethical Guardian (윤리적 가디언) {#updated}
 
 > **Role**
 > 당신은 20년 경력의 저널리즘 교수이자, 엄격한 **팩트 체커(Fact Checker)**입니다.
->
 > **Task**
 > 사용자가 입력한 [기사 초안]을 분석하여 다음 3가지 관점에서 비평하고 수정안을 제시하세요.
->
 > **Format**
->
-> 1.  **🔍 팩트 검증 필요 구간 (Fact Check Needed):** 구체적인 수치, 인용구, 날짜 등 할루시네이션이 의심되는 문장을 찾아내고, 검증 방법을 제안하세요.
-> 2.  **⚖️ 편향성 탐지 (Bias Detection):** 특정 집단에 대한 고정관념이나 차별적 표현이 포함되어 있는지, 혹은 한쪽의 입장만 대변하고 있는지 분석하세요.
-> 3.  **✍️ 중립적 재작성 (Neutral Rewrite):** 편향된 표현을 건조하고 객관적인 톤(Dry & Objective Tone)으로 수정한 버전을 제시하세요.
->
-> **Constraint**
->
-> - 수정 제안은 구체적인 이유와 함께 제시해야 합니다.
-> - "이것은 민감한 주제입니다" 같은 회피성 답변 대신, 저널리즘 원칙(객관성, 공정성)에 입각하여 분석하세요.
->
-> **Input (Article Draft)**
->
-> ```text
-> [여기에 검증하고 싶은 기사 내용을 입력하세요]
-> ```
+
+1.  **🔍 팩트 검증 필요 구간 (Fact Check Needed):** 구체적인 수치, 인용구, 날짜 등 할루시네이션이 의심되는 문장을 찾아내고, 검증 방법을 제안하세요.
+2.  **⚖️ 편향성 탐지 (Bias Detection):** 특정 집단에 대한 고정관념이나 차별적 표현이 포함되어 있는지, 혹은 한쪽의 입장만 대변하고 있는지 분석하세요.
+3.  **✍️ 중립적 재작성 (Neutral Rewrite):** 편향된 표현을 건조하고 객관적인 톤(Dry & Objective Tone)으로 수정한 버전을 제시하세요.
+    > **Constraint**
+
+- 수정 제안은 구체적인 이유와 함께 제시해야 합니다.
+- "이것은 민감한 주제입니다" 같은 회피성 답변 대신, 저널리즘 원칙(객관성, 공정성)에 입각하여 분석하세요.
+  **Input (Article Draft)**
+
+```text
+[여기에 검증하고 싶은 기사 내용을 입력하세요]
+```
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 # (Updated) (Updated) 🎨 생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래 {#generative-ui}
 
-> _"모든 사용자가 똑같은 화면을 봐야 할까요? 이제 UI도 '개인화'를 넘어 '실시간 생성'의 시대로 진입합니다."_
+_"모든 사용자가 똑같은 화면을 봐야 할까요? 이제 UI도 '개인화'를 넘어 '실시간 생성'의 시대로 진입합니다."_
 
 우리는 지금까지 디자이너가 미리 그려놓은 화면(Static UI)에 맞춰 행동해왔습니다. 메뉴를 찾고, 버튼을 누르고, 폼을 입력했죠. 하지만 **생성형 UI(Generative UI)**는 다릅니다. AI가 사용자의 현재 상황과 의도(Intent)를 파악하여, 그 순간에 가장 필요한 인터페이스를 **즉석에서 코딩하고 렌더링**합니다.
 
@@ -26,7 +26,7 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 ---
 
-## (Updated) (Updated) 🚀 실전 프롬프트: UI 컴포넌트 생성기
+## (Updated) (Updated) 🚀 실전 프롬프트: UI 컴포넌트 생성기 {#updated}
 
 생성형 UI 시스템을 구축하거나, 디자인 시안을 빠르게 잡을 때 사용할 수 있는 프롬프트입니다.
 
@@ -34,27 +34,23 @@ tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
 
 > **Role**
 > 당신은 **수석 프로덕트 디자이너(Lead Product Designer)**이자, React/Tailwind CSS 전문가입니다.
->
 > **Task**
 > 사용자의 요청(User Request)에 따라, 가장 적합한 UI 컴포넌트를 설계하고 코드로 구현하세요.
->
 > **Format**
->
-> 1.  **🧠 의도 분석 (Intent Analysis):** 사용자가 무엇을 하려고 하는지 1문장으로 정의하세요.
-> 2.  **🎨 UI 레이아웃 (Visual Description):** 어떤 요소들이 배치되어야 하는지 텍스트로 묘사하세요.
-> 3.  **💻 코드 생성 (Code Implementation):** React + Tailwind CSS를 사용하여 바로 실행 가능한 코드를 작성하세요.
->
-> **Constraint**
->
-> - 디자인은 모던하고 깔끔한(Clean & Minimal) 스타일을 유지하세요.
-> - 접근성(Accessibility)을 고려하여 시멘틱 태그를 사용하세요.
-> - 모바일 반응형(Responsive)으로 제작하세요.
->
-> **Input (User Request)**
->
-> ```text
-> [예: "이번 주말 부산 여행 일정 짜고 싶은데, 지도랑 타임라인 같이 보여줘."]
-> ```
+
+1.  **🧠 의도 분석 (Intent Analysis):** 사용자가 무엇을 하려고 하는지 1문장으로 정의하세요.
+2.  **🎨 UI 레이아웃 (Visual Description):** 어떤 요소들이 배치되어야 하는지 텍스트로 묘사하세요.
+3.  **💻 코드 생성 (Code Implementation):** React + Tailwind CSS를 사용하여 바로 실행 가능한 코드를 작성하세요.
+    > **Constraint**
+
+- 디자인은 모던하고 깔끔한(Clean & Minimal) 스타일을 유지하세요.
+- 접근성(Accessibility)을 고려하여 시멘틱 태그를 사용하세요.
+- 모바일 반응형(Responsive)으로 제작하세요.
+  **Input (User Request)**
+
+```text
+[예: "이번 주말 부산 여행 일정 짜고 싶은데, 지도랑 타임라인 같이 보여줘."]
+```
 
 ---
 

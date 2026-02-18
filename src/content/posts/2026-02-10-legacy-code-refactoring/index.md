@@ -9,7 +9,7 @@ description: "남이 짠 레거시 코드, 보기만 해도 머리 아프다면?
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 
-# (Updated) (Updated) 🧹 레거시 코드 청소기: 리팩토링 & 테스트 자동화
+# (Updated) (Updated) 🧹 레거시 코드 청소기: 리팩토링 & 테스트 자동화 {#updated}
 
 - **🎯 추천 대상:** 주니어 개발자, 레거시 프로젝트 유지보수 담당자
 - **⏱️ 소요 시간:** 코드 분석 1시간 → 5분
@@ -19,7 +19,7 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
+_"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
 
 복잡한 `if-else` 중첩, 알 수 없는 변수명... 건드리기 무서운 **레거시 코드(Legacy Code)**.
 이제 두려워하지 마세요. AI를 여러분의 **Pair Programmer**로 고용하여 안전하게 리팩토링하는 방법을 소개합니다.
@@ -34,9 +34,9 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Senior Dev Simulator"
+## (Updated) (Updated) 🚀 해결책: "Senior Dev Simulator" {#updated}
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 이 프롬프트는 단계별로 진행됩니다. (Chain of Thought)
 
@@ -87,25 +87,25 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```python
 def calc(a, b, t):
     if t == 1: return a + b
     elif t == 2: return a - b
-    # (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버
+    # (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버 {#updated}
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```python
 def calculate_transaction(amount, tax, type):
     """거래 유형에 따라 최종 금액을 계산합니다."""
     if type == TransactionType.DEPOSIT:
         return amount + tax
-    # (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가
+    # (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가 {#updated}
 ```
 
 `test_calculate_transaction.py` 파일까지 생성됨.

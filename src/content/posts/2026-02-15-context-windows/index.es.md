@@ -12,8 +12,8 @@ En este artículo, exploraremos qué son las ventanas de contexto y cómo gestio
 
 La ventana de contexto es la cantidad de texto (incluyendo entradas y salidas) que un modelo de IA puede procesar a la vez. Piense en ello como la "memoria a corto plazo" del modelo.
 
-*   **Tokens:** Las computadoras leen texto en fragmentos llamados "tokens". Aproximadamente 1,000 tokens equivalen a unas 750 palabras en inglés.
-*   **Tamaño de la Ventana:** Esto varía según el modelo. Los primeros modelos tenían límites de alrededor de 4k tokens, mientras que los modelos modernos como Gemini 1.5 Pro pueden manejar más de 1 millón de tokens.
+- **Tokens:** Las computadoras leen texto en fragmentos llamados "tokens". Aproximadamente 1,000 tokens equivalen a unas 750 palabras en inglés.
+- **Tamaño de la Ventana:** Esto varía según el modelo. Los primeros modelos tenían límites de alrededor de 4k tokens, mientras que los modelos modernos como Gemini 1.5 Pro pueden manejar más de 1 millón de tokens.
 
 ## ¿Por qué importa?
 
@@ -26,14 +26,17 @@ Es por eso que las instrucciones específicas de personalidad o las restriccione
 Aquí hay algunos consejos para mantener a su IA encaminada durante proyectos largos o sesiones de programación.
 
 ### 1. Resumir y Reiniciar (Summarize and Reset)
+
 La estrategia más efectiva es pedirle a la IA que resuma la conversación hasta el momento, capturando decisiones clave y fragmentos de código. Luego, tome ese resumen y comience un **Nuevo Chat**.
 
-> "Resume los requisitos clave y la estructura de código que hemos decidido hasta ahora. Excluye la charla trivial."
+"Resume los requisitos clave y la estructura de código que hemos decidido hasta ahora. Excluye la charla trivial."
 
 ### 2. Mantener el Contexto Fresco
+
 Si necesita acceso persistente a documentación, use herramientas que soporten RAG (Generación Aumentada por Recuperación) o pegue manualmente el material de referencia crítico en el chat periódicamente.
 
 ### 3. Sea Conciso
+
 La cortesía es agradable, pero la verbosidad quema tokens. Ser directo y conciso deja más espacio en la ventana para el trabajo real y el razonamiento.
 
 ## Conclusión

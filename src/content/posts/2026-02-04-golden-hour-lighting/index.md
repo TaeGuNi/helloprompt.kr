@@ -9,7 +9,7 @@ description: "따뜻하고 감성적인 사진의 치트키, 골든 아워(Golde
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 
-# (Updated) (Updated) 📝 마법의 시간: Golden Hour
+# (Updated) (Updated) 📝 마법의 시간: Golden Hour {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"사진이 가장 예쁘게 나오는 시간은 언제일까?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Warm Sunset Prompt"
+## (Updated) (Updated) 🚀 해결책: "Warm Sunset Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"사진이 가장 예쁘게 나오는 시간은 언제일까?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"사진이 가장 예쁘게 나오는 시간은 언제일까?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 `Woman in wheat field.`
 
 (결과: 대낮의 쨍하고 평범한 기록용 사진)
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 `Golden hour` 프롬프트 적용
 

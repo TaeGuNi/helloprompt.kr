@@ -35,9 +35,9 @@ _"이메일 검증 정규식이 뭐였더라... 아, 전화번호 하이픈 넣�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "정규표현식 통역사"
+## (Updated) (Updated) 🚀 해결책: "정규표현식 통역사" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ _"이메일 검증 정규식이 뭐였더라... 아, 전화번호 하이픈 넣�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -80,15 +80,15 @@ _"이메일 검증 정규식이 뭐였더라... 아, 전화번호 하이픈 넣�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 **패턴:** "비밀번호는 8자 이상, 영문 대소문자, 숫자, 특수문자를 각각 하나 이상 포함해야 해."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 **정규표현식 (JavaScript):**
 

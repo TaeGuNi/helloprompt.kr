@@ -35,7 +35,7 @@ _"브라우저는 이제 단순한 문서 뷰어가 아닙니다. OS입니다."_
 
 ## (Updated) (Updated) 🚀 해결책: "Wasm 포터(Porter)" {#porter}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 단순한 함수 하나를 변환할 때.
 
@@ -45,7 +45,7 @@ _"브라우저는 이제 단순한 문서 뷰어가 아닙니다. OS입니다."_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 프로젝트 단위의 모듈을 이식하거나 복잡한 데이터 구조를 넘겨야 할 때.
 
@@ -74,18 +74,18 @@ _"브라우저는 이제 단순한 문서 뷰어가 아닙니다. OS입니다."_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```c
 // 복잡한 이미지 필터링 C 함수
 void applyFilter(unsigned char* data, int width, int height) { ... }
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```rust
 // Rust + wasm-bindgen

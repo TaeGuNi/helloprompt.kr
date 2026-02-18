@@ -19,7 +19,7 @@ tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각됩니다."_
+_"저... 그... 이번 프로젝트는... 음... 효과적일 것으로 생각됩니다."_
 
 자신감 없는 발표는 내용을 죽입니다. 내용은 AI가 썼어도, 말은 당신이 해야 합니다. AI를 청중석에 앉히세요. **스티브 잡스**처럼 말하는 법, **TED 강연자**처럼 제스처 쓰는 법을 알려줍니다.
 
@@ -33,9 +33,9 @@ tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Speech Coach Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Speech Coach Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (대본 다듬기)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (대본 다듬기) {#updated}
 
 문어체를 구어체로.
 
@@ -85,17 +85,17 @@ AI에게 "어디서 멈춰야 효과적일지 표시해줘"라고 하면 대본�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (국어책 읽기)
+### (Updated) (Updated) (Updated) ❌ Before (국어책 읽기) {#updated}
 
 "안녕하십니까. 발표를 시작하겠습니다. 목차는 다음과 같습니다." (청중: 폰 봄 📱)
 
-### (Updated) (Updated) (Updated) ✅ After (스토리텔링)
+### (Updated) (Updated) (Updated) ✅ After (스토리텔링) {#updated}
 
-> **나:** "(3초 침묵) ...여러분은 하루에 플라스틱을 얼마나 드시고 계십니까?"
-> **나:** "우리는 알게 모르게 신용카드 한 장 분량의 플라스틱을 먹습니다."
-> (청중: "헉..." 집중 모드 😳)
+**나:** "(3초 침묵) ...여러분은 하루에 플라스틱을 얼마나 드시고 계십니까?"
+**나:** "우리는 알게 모르게 신용카드 한 장 분량의 플라스틱을 먹습니다."
+(청중: "헉..." 집중 모드 😳)
 
 ---
 

@@ -21,4 +21,4 @@ The data suggests a pivot point. We are moving from hype to practical applicatio
 
 **Data Source:** Internal Trend API (2026-02-14)
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

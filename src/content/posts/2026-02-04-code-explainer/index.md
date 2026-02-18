@@ -9,7 +9,7 @@ description: "남이 짠 복잡한 코드를 한 줄 한 줄 주석(Comment)을 
 tags: ["코딩공부", "코드리뷰", "파이썬", "자바스크립트"]
 ---
 
-# (Updated) (Updated) 📝 이 코드, 무슨 뜻이죠? 친절한 코드 해설사
+# (Updated) (Updated) 📝 이 코드, 무슨 뜻이죠? 친절한 코드 해설사 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"돌아는 가는데... 왜 돌아가는 거지?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "코드 난독화 해제기"
+## (Updated) (Updated) 🚀 해결책: "코드 난독화 해제기" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"돌아는 가는데... 왜 돌아가는 거지?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,7 +77,7 @@ _"돌아는 가는데... 왜 돌아가는 거지?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
@@ -87,7 +87,7 @@ _"돌아는 가는데... 왜 돌아가는 거지?"_
 result = [x * 2 for x in range(10) if x % 2 == 0]
 ```
 
-### (Updated) (Updated) ✅ After (프롬프트 결과)
+### (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **[요약]**
 0부터 9까지의 숫자 중 짝수만 골라내어, 그 값을 2배로 만든 뒤 새로운 리스트에 저장하는 코드입니다.
@@ -97,7 +97,7 @@ result = [x * 2 for x in range(10) if x % 2 == 0]
 ```python
 # (Updated) (Updated) 0부터 9까지(range(10)) 숫자를 하나씩 꺼내 변수 x에 담습니다. {#range-10}
 # (Updated) (Updated) 만약(if) x를 2로 나눈 나머지가 0이라면(짝수라면), {#if}
-# (Updated) (Updated) x에 2를 곱한 값을 리스트에 담습니다.
+# (Updated) (Updated) x에 2를 곱한 값을 리스트에 담습니다. {#updated}
 result = [x * 2 for x in range(10) if x % 2 == 0]
 ```
 

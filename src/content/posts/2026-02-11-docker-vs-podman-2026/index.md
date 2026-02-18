@@ -9,7 +9,7 @@ description: "도커 유료화 이후 대안으로 떠오른 Podman. 데몬리�
 tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 ---
 
-# (Updated) (Updated) 🐳 Docker vs Podman: 2026년 컨테이너 승자는?
+# (Updated) (Updated) 🐳 Docker vs Podman: 2026년 컨테이너 승자는? {#updated}
 
 - **🎯 추천 대상:** 도커 데스크탑 유료화에 분노한 개발자, 더 가볍고 안전한 컨테이너 환경을 찾는 시스템 엔지니어
 - **⏱️ 소요 시간:** 5분 (설치 및 비교)
@@ -19,7 +19,7 @@ tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"도커 데몬이 또 죽었어... 메모리는 왜 이렇게 많이 먹어?"_
+_"도커 데몬이 또 죽었어... 메모리는 왜 이렇게 많이 먹어?"_
 
 도커는 훌륭하지만 무겁습니다. 그리고 루트 권한(Root Privilege) 보안 이슈가 항상 따라다닙니다. 이제 **Podman(파드맨)**을 주목하세요. 데몬 없이(Daemonless), 루트 없이(Rootless) 돌아가는 차세대 표준입니다.
 
@@ -33,9 +33,9 @@ tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Migration Assistant Prompt"
+## (Updated) (Updated) 🚀 해결책: "Migration Assistant Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (명령어 호환성 체크)
+### (Updated) (Updated) 🥉 Basic Version (명령어 호환성 체크) {#updated}
 
 기존 도커 명령어가 파드맨에서도 먹히는지 궁금할 때.
 
@@ -89,7 +89,7 @@ Podman은 `podman generate kube` 명령어 한 방이면 **K8s YAML 파일**을 
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) ❌ Before (Docker)
 

@@ -12,7 +12,7 @@ tags: ["AI", "Tech", "legacy-code-ai"]
 
 The landscape of AI is shifting rapidly. Today, we discuss **Modernizing Legacy Code**.
 
-> "AI rescuing developers from debt"
+"AI rescuing developers from debt"
 
 ## (Updated) (Updated) Analysis
 

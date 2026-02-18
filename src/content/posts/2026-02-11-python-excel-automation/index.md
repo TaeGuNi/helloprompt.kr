@@ -9,7 +9,7 @@ description: "매일 반복되는 엑셀 복붙, 파일 이름 변경... 파이�
 tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 ---
 
-# (Updated) (Updated) 🐍 Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷
+# (Updated) (Updated) 🐍 Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷 {#updated}
 
 - **🎯 추천 대상:** 월말마다 엑셀 파일 100개 열어서 복붙하는 총무팀 대리, 단순 반복 업무에 영혼이 털린 인턴
 - **⏱️ 소요 시간:** 10분 (환경 설정 포함)
@@ -19,7 +19,7 @@ tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"지점별 매출 보고서 50개... 이거 언제 다 합치지?"_
+_"지점별 매출 보고서 50개... 이거 언제 다 합치지?"_
 
 엑셀 매크로(VBA)도 좋지만, 파일이 수십 개로 쪼개져 있다면 **파이썬(Python)**이 답입니다. 프로그래밍 몰라도 됩니다. AI가 짜준 코드를 '실행'만 하면 됩니다. 폴더 내의 모든 엑셀을 빨아들여서 하나의 파일로 뱉어줍니다.
 
@@ -33,9 +33,9 @@ tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Excel Merger Bot"
+## (Updated) (Updated) 🚀 해결책: "Excel Merger Bot" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (단순 파일 병합)
+### (Updated) (Updated) 🥉 Basic Version (단순 파일 병합) {#updated}
 
 형식이 똑같은 파일들을 합칠 때.
 
@@ -44,7 +44,7 @@ tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (데이터 가공 및 전처리)
+### (Updated) (Updated) 🥇 Pro Version (데이터 가공 및 전처리) {#updated}
 
 합치면서 특정 데이터만 뽑거나 계산할 때.
 
@@ -91,13 +91,13 @@ tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (수작업)
+### (Updated) (Updated) ❌ Before (수작업) {#updated}
 
 파일 열기 -> Ctrl+A -> Ctrl+C -> 마스터 파일 이동 -> Ctrl+V -> 닫기 (x 50회 반복, 2시간 소요, 손목 터널 증후군 🏥)
 
-### (Updated) (Updated) ✅ After (파이썬)
+### (Updated) (Updated) ✅ After (파이썬) {#updated}
 
 `python merge.py` 엔터. (3초 뒤 `summary_report.xlsx` 생성 완료 ☕️)
 

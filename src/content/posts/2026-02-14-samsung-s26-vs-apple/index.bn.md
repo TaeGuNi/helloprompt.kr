@@ -39,4 +39,4 @@ cover: "./cover.jpg"
 
 Galaxy S26 তাদের জন্য যারা ডিভাইসেই সব প্রসেসিং চান। আর iPhone 17 হতে চায় আপনার **"সবচেয়ে কাছের সহকারী"**।
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

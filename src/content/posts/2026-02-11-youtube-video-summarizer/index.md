@@ -19,7 +19,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 영상... 핵심만 알고 싶은데 20분 동안 떠드네."_
+_"이 영상... 핵심만 알고 싶은데 20분 동안 떠드네."_
 
 영상은 정보 밀도가 낮습니다. 텍스트로 읽으면 3분이면 될 걸 영상으로는 20분을 봐야 하죠. 이제 **스크립트(자막)**만 쏙 뽑아서 AI에게 던지세요. 영상의 엑기스만 글로 읽을 수 있습니다.
 
@@ -33,9 +33,9 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Video Summarizer Prompt"
+## (Updated) (Updated) 🚀 해결책: "Video Summarizer Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (핵심 요약)
+### (Updated) (Updated) 🥉 Basic Version (핵심 요약) {#updated}
 
 내용 파악만 빠르게 하고 싶을 때.
 
@@ -43,7 +43,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (타임스탬프 학습 노트)
+### (Updated) (Updated) 🥇 Pro Version (타임스탬프 학습 노트) {#updated}
 
 강의나 정보성 영상을 공부할 때.
 
@@ -84,15 +84,15 @@ PC에서는 **'YouTube Summary with ChatGPT'** 같은 크롬 확장 프로그램
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (20분 시청)
+### (Updated) (Updated) ❌ Before (20분 시청) {#updated}
 
 (딴짓하다가 놓쳐서 되감기... 광고 보고... 결국 다 보고 나니 "별거 없네" 🤬)
 
-### (Updated) (Updated) ✅ After (10초 요약)
+### (Updated) (Updated) ✅ After (10초 요약) {#updated}
 
-> **AI:** "이 영상은 `옵시디언` 설치법을 다룹니다.
+**AI:** "이 영상은 `옵시디언` 설치법을 다룹니다.
 
 - **[02:15]** 테마 설정 방법
 - **[05:30]** 필수 플러그인 3선 추천"

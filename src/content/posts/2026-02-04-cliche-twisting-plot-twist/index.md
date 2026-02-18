@@ -9,7 +9,7 @@ description: "익숙한 클리셰를 비틀어 독자의 뒤통수를 치는 충
 tags: ["소설", "반전", "아이디어", "스토리텔링"]
 ---
 
-# (Updated) (Updated) 📝 클리셰 비틀기: 뻔한 엔딩을 충격 반전으로
+# (Updated) (Updated) 📝 클리셰 비틀기: 뻔한 엔딩을 충격 반전으로 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"범인은 집사였다... 라고 하면 독자가 책을 던져버리겠죠?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "클리셰 파괴자"
+## (Updated) (Updated) 🚀 해결책: "클리셰 파괴자" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"범인은 집사였다... 라고 하면 독자가 책을 던져버리겠죠?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,15 +76,15 @@ _"범인은 집사였다... 라고 하면 독자가 책을 던져버리겠죠?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "용사가 마왕을 죽이고 세상을 구했다."
 
-### (Updated) (Updated) ✅ After (반전 제안)
+### (Updated) (Updated) ✅ After (반전 제안) {#updated}
 
 **아이디어 1: 순환의 굴레**
 

@@ -22,7 +22,7 @@ Somnium Labs claimed the device processed audio locally only for "snoring and sl
 
 An anonymous security researcher, 'SleepWalker', noticed Somnium X transmitting large amounts of data at a specific time every night during network traffic analysis. Analyzing the packets revealed `.wav` format audio files being stored in an AWS S3 bucket accessible without authentication.
 
-> "This is not just a simple mistake. It is equivalent to thousands of users being surveilled during their most vulnerable sleep time." - SleepWalker
+"This is not just a simple mistake. It is equivalent to thousands of users being surveilled during their most vulnerable sleep time." - SleepWalker
 
 ### Company Response
 

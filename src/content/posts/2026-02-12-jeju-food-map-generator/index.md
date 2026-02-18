@@ -9,7 +9,7 @@ description: "광고성 블로그에 속지 않는 법. 현지인 추천과 구�
 tags: ["맛집", "제주도", "카페", "여행", "지도"]
 ---
 
-# (Updated) (Updated) (Updated) 🗺️ 맛집 지도 생성: "제주도 서쪽 해안도로 카페 리스트"
+# (Updated) (Updated) (Updated) 🗺️ 맛집 지도 생성: "제주도 서쪽 해안도로 카페 리스트" {#updated}
 
 - **🎯 추천 대상:** "맛집 추천 좀" 검색했다가 광고글만 100개 보고 지친 사람, 여행 동선 짤 때 먹는 게 제일 중요한 돼지 보스
 - **⏱️ 소요 시간:** 3분 (리스트업)
@@ -19,7 +19,7 @@ tags: ["맛집", "제주도", "카페", "여행", "지도"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"인스타 맛집 갔는데... 사진만 예쁘고 맛은 없고 비싸기만 하네."_
+_"인스타 맛집 갔는데... 사진만 예쁘고 맛은 없고 비싸기만 하네."_
 
 더 이상 속지 마세요. 진짜 맛집은 인스타 해시태그 속에 숨어있지 않습니다. AI에게 **"광고 거르고, 현지인 평점 높은 곳만 찾아줘"**라고 시키세요. 네이버 블로그, 구글 맵, 트립어드바이저를 교차 검증해서 **'찐 맛집'**만 골라냅니다.
 
@@ -33,9 +33,9 @@ tags: ["맛집", "제주도", "카페", "여행", "지도"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Gourmet Map Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Gourmet Map Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (지역별 추천)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (지역별 추천) {#updated}
 
 급하게 찾을 때.
 
@@ -43,7 +43,7 @@ tags: ["맛집", "제주도", "카페", "여행", "지도"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (테마별 지도 만들기)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (테마별 지도 만들기) {#updated}
 
 여행 일정에 맞춘 완벽한 동선.
 
@@ -88,16 +88,16 @@ AI에게 "웨이팅 1시간 이상인 곳은 빼줘", "가성비 안 좋은 곳�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (검색 지옥)
+### (Updated) (Updated) (Updated) ❌ Before (검색 지옥) {#updated}
 
 "애월 카페" 검색 -> 뷰는 좋은데 커피가 9천 원이고 맛없음. (기분 잡침 😡)
 
 ### (Updated) (Updated) (Updated) ✅ After (AI 큐레이션) {#ai}
 
-> **AI:** "**[카페 A]**는 뷰도 좋지만 '당근 케이크'가 현지인들에게 유명합니다. 커피 가격도 6천 원대로 합리적입니다."
-> (결과: 인생 케이크 만남. 바다 보며 힐링 🍰🌊)
+**AI:** "**[카페 A]**는 뷰도 좋지만 '당근 케이크'가 현지인들에게 유명합니다. 커피 가격도 6천 원대로 합리적입니다."
+(결과: 인생 케이크 만남. 바다 보며 힐링 🍰🌊)
 
 ---
 

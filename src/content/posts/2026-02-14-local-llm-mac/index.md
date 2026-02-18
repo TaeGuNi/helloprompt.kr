@@ -9,7 +9,7 @@ description: "클라우드 비용 걱정 없이, 내 로컬 컴퓨터에서 강�
 tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 ---
 
-# (Updated) (Updated) 💻 내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법
+# (Updated) (Updated) 💻 내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법 {#updated}
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -23,7 +23,7 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
-> _"인터넷 연결 없이도 작동하는 나만의 AI 비서, 보안 걱정은 이제 그만."_
+_"인터넷 연결 없이도 작동하는 나만의 AI 비서, 보안 걱정은 이제 그만."_
 
 최근 기업 보안 이슈로 인해 ChatGPT 사용이 제한되는 경우가 많습니다. 하지만 오픈소스 LLM의 발전으로 이제 개인 노트북에서도 충분히 강력한 AI를 구동할 수 있게 되었습니다. Ollama는 복잡한 설정 없이 터미널 명령어 한 줄로 로컬 LLM을 실행할 수 있게 해주는 마법 같은 도구입니다.
 
@@ -37,11 +37,11 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Ollama 설치 및 실행 가이드"
+## (Updated) (Updated) 🚀 해결책: "Ollama 설치 및 실행 가이드" {#updated}
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) (Updated) 🥉 Basic Version (설치)
+### (Updated) (Updated) 🥉 Basic Version (설치) {#updated}
 
 터미널을 열고 아래 명령어를 입력하세요.
 
@@ -50,7 +50,7 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (모델 실행)
+### (Updated) (Updated) 🥇 Pro Version (모델 실행) {#updated}
 
 Llama 3 8B 모델을 다운로드하고 대화를 시작합니다.
 
@@ -98,7 +98,7 @@ Llama 3 8B 모델을 다운로드하고 대화를 시작합니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) ❌ Before (클라우드 API) {#api}
 

@@ -9,7 +9,7 @@ description: "비싼 진단비 아끼는 법. 내 사진을 AI에게 보여주�
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 🎨 AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기
+# (Updated) (Updated) (Updated) 🎨 AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기 {#updated}
 
 - **🎯 추천 대상:** 내 톤이 뭔지 몰라서 맨날 무채색 옷만 입는 사람, 10만 원 넘는 진단비가 아까운 알뜰족
 - **⏱️ 소요 시간:** 1분 (사진 업로드)
@@ -19,7 +19,7 @@ tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐☆
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"나는 핑크가 안 어울려... 얼굴이 누렇게 떠."_
+_"나는 핑크가 안 어울려... 얼굴이 누렇게 떠."_
 
 그건 당신이 웜톤인데 쿨톤 핑크를 입어서 그렇습니다. AI는 색채학 전문가입니다. 당신의 민낯 사진을 보여주면 피부톤, 눈동자 색, 머리카락 색을 분석해서 **"당신은 가을 웜톤 뮤트입니다"**라고 알려줍니다.
 
@@ -33,9 +33,9 @@ tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Color Analyst Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Color Analyst Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (톤 진단)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (톤 진단) {#updated}
 
 웜톤인지 쿨톤인지부터 알자.
 
@@ -44,7 +44,7 @@ tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (스타일링 컨설팅)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (스타일링 컨설팅) {#updated}
 
 화장품, 옷, 염색 컬러까지.
 
@@ -87,13 +87,13 @@ AI가 "가을 웜톤"이라고 했다면, 구글에 "가을 웜톤 연예인"을
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (톤그로)
+### (Updated) (Updated) (Updated) ❌ Before (톤그로) {#updated}
 
 쿨톤인데 카키색 야상 입음 -> "너 어디 아파? 얼굴이 흙빛이야." 🧟‍♂️
 
-### (Updated) (Updated) (Updated) ✅ After (형광등 켜짐)
+### (Updated) (Updated) (Updated) ✅ After (형광등 켜짐) {#updated}
 
 AI: "겨울 쿨톤입니다. 쨍한 로얄 블루를 입으세요."
 -> (입자마자) "오, 오늘 뭐 했어? 얼굴이 확 사네!" ✨

@@ -9,7 +9,7 @@ description: "쿼리가 느려서 서버가 뻗는다면? EXPLAIN 실행 계획 
 tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 ---
 
-# (Updated) (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법
+# (Updated) (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법 {#updated}
 
 - **🎯 추천 대상:** "쿼리가 왜 느린지 모르겠어요" 우는 백엔드 개발자, 데이터베이스 비용 줄이고 싶은 스타트업 대표
 - **⏱️ 소요 시간:** 3분 (쿼리 튜닝)
@@ -19,7 +19,7 @@ tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"게시판 조회가 3초나 걸려요... 인덱스는 걸었는데..."_
+_"게시판 조회가 3초나 걸려요... 인덱스는 걸었는데..."_
 
 DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 뿐입니다. DBA(DB 관리자) 채용할 돈이 없다면, AI에게 **실행 계획(Explain Plan)**을 던져주세요. 어디서 병목이 생기는지 1초 만에 찾아냅니다.
 
@@ -33,9 +33,9 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Slow Query Hunter"
+## (Updated) (Updated) 🚀 해결책: "Slow Query Hunter" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (쿼리 다이어트)
+### (Updated) (Updated) 🥉 Basic Version (쿼리 다이어트) {#updated}
 
 복잡한 쿼리를 좀 더 깔끔하게.
 
@@ -45,7 +45,7 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석)
+### (Updated) (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석) {#updated}
 
 근본적인 원인을 찾아 해결할 때.
 
@@ -96,7 +96,7 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) ❌ Before (Full Scan)
 
@@ -104,7 +104,7 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ### (Updated) (Updated) ✅ After (Index Seek)
 
-> **AI:** "`orders` 테이블의 `user_id`와 `created_at` 컬럼으로 **복합 인덱스(Composite Index)**를 만드세요."
+**AI:** "`orders` 테이블의 `user_id`와 `created_at` 컬럼으로 **복합 인덱스(Composite Index)**를 만드세요."
 
 `CREATE INDEX idx_user_date ON orders(user_id, created_at);`
 

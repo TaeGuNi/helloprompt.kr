@@ -29,4 +29,4 @@ In contrast, the market for large, heavy MR/VR headsets is seeing slowing growth
 
 The success of Meta smart glasses suggests that the future of wearables lies in 'invisibility' and 'convenience.' Technology is evolving not to disconnect us from the world, but to connect us more deeply with it. 2026 will be remembered as the year smart glasses took the leap to become the essential device after the smartphone.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

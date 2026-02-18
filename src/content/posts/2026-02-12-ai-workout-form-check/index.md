@@ -19,7 +19,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못하고 있는 건가요?"_
+_"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못하고 있는 건가요?"_
 
 잘못하고 있는 겁니다. 자세가 무너지면 운동이 아니라 노동입니다. 심하면 병원비가 더 나옵니다. 거울 봐도 모르겠다면 **AI 트레이너**에게 보여주세요. 당신의 관절 각도를 분석해서 "무릎이 너무 앞으로 나갔어요"라고 지적해 줍니다.
 
@@ -33,9 +33,9 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "AI Personal Trainer"
+## (Updated) (Updated) 🚀 해결책: "AI Personal Trainer" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (자세 체크)
+### (Updated) (Updated) 🥉 Basic Version (자세 체크) {#updated}
 
 어디가 틀렸는지 확인.
 
@@ -44,7 +44,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (교정 및 루틴 추천)
+### (Updated) (Updated) 🥇 Pro Version (교정 및 루틴 추천) {#updated}
 
 전문적인 코칭.
 
@@ -85,16 +85,16 @@ AI는 뼈와 관절의 위치를 추정(Pose Estimation)할 수 있습니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (무릎 파괴)
+### (Updated) (Updated) ❌ Before (무릎 파괴) {#updated}
 
 무릎이 발끝보다 10cm는 더 나감. (다음 날 계단 못 내려감 🏥)
 
 ### (Updated) (Updated) ✅ After (AI 코칭) {#ai}
 
-> **AI:** "무릎이 너무 나갑니다. 의자에 앉는다는 느낌으로 엉덩이를 뒤로 더 빼세요."
-> (결과: 엉덩이에 자극 팍 옴. 무릎 안 아픔 🍑)
+**AI:** "무릎이 너무 나갑니다. 의자에 앉는다는 느낌으로 엉덩이를 뒤로 더 빼세요."
+(결과: 엉덩이에 자극 팍 옴. 무릎 안 아픔 🍑)
 
 ---
 

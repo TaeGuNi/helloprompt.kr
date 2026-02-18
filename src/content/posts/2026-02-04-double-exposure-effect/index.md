@@ -9,7 +9,7 @@ description: "두 개의 서로 다른 이미지를 겹쳐서 신비롭고 몽�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 
-# (Updated) (Updated) 📝 중첩된 세계: Double Exposure
+# (Updated) (Updated) 📝 중첩된 세계: Double Exposure {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"인물 실루엣 안에 숲이 들어있는 그 느낌, 어떻게 만들지?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Nature Within Prompt"
+## (Updated) (Updated) 🚀 해결책: "Nature Within Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"인물 실루엣 안에 숲이 들어있는 그 느낌, 어떻게 만들지?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"인물 실루엣 안에 숲이 들어있는 그 느낌, 어떻게 만들지?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 `Woman and forest mixed.`
 
 (결과: 여자가 숲에 서 있거나, 얼굴 위에 나무가 그려진 기괴한 사진)
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 `Double exposure` 프롬프트 적용
 

@@ -9,7 +9,7 @@ description: "감정 노동은 이제 그만. 환불 거절, 배송 지연, 악�
 tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 ---
 
-# (Updated) (Updated) 🎧 CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼
+# (Updated) (Updated) 🎧 CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼 {#updated}
 
 - **🎯 추천 대상:** "환불해줘!" 소리만 들으면 가슴이 뛰는 쇼핑몰 사장님, 하루 종일 같은 말 반복하는 CS 상담원
 - **⏱️ 소요 시간:** 1분 (상황 복사 -> 답변 생성)
@@ -19,7 +19,7 @@ tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"고객님, 그건 규정상 안 됩니다... (아, 또 욕 먹겠네)"_
+_"고객님, 그건 규정상 안 됩니다... (아, 또 욕 먹겠네)"_
 
 거절은 어렵습니다. 특히 화난 고객에게는 더더욱요. AI에게 **"정중하지만 단호하게 거절해줘"**라고 시키세요. 감정 소모 없이, 가장 완벽한 쿠션어(Cushion Language)를 구사해 줍니다.
 
@@ -33,9 +33,9 @@ tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "CS Empathy Bot"
+## (Updated) (Updated) 🚀 해결책: "CS Empathy Bot" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (단순 문의)
+### (Updated) (Updated) 🥉 Basic Version (단순 문의) {#updated}
 
 배송, 재입고 등 반복 질문.
 
@@ -44,7 +44,7 @@ tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (악성 민원 / 환불 거절)
+### (Updated) (Updated) 🥇 Pro Version (악성 민원 / 환불 거절) {#updated}
 
 고난도 감정 노동.
 
@@ -91,9 +91,9 @@ CS 답변의 핵심은 **'안 된다'를 '어렵다'로 바꾸는 것**입니다
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (단답형)
+### (Updated) (Updated) ❌ Before (단답형) {#updated}
 
 "착용하셔서 환불 안 됩니다. 규정 확인하세요." (고객: "뭐 이런 데가 다 있어! 악플 달 거야!" 🤬)
 

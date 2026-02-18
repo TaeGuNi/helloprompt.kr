@@ -9,7 +9,7 @@ description: "복잡한 엑셀 수식, VBA 매크로... AI에게 말만 하면 �
 tags: ["엑셀", "업무자동화", "VBA", "칼퇴"]
 ---
 
-# (Updated) (Updated) (Updated) 📊 "김 대리, 이거 엑셀로 정리해놔." (네, 1분 만에요.)
+# (Updated) (Updated) (Updated) 📊 "김 대리, 이거 엑셀로 정리해놔." (네, 1분 만에요.) {#updated}
 
 - **🎯 추천 대상:** 엑셀 초보(컴활 2급 미만), 반복 작업에 지친 직장인
 - **⏱️ 소요 시간:** 1시간 (수작업) → 30초 (자동화)
@@ -34,9 +34,9 @@ VLOOKUP, 피벗 테이블, 조건부 서식... 매번 검색하고 계신가요?
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "엑셀 마법사"
+## (Updated) (Updated) (Updated) 🚀 해결책: "엑셀 마법사" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (함수 생성)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (함수 생성) {#updated}
 
 간단한 수식이 필요할 때 사용하세요.
 
@@ -79,11 +79,11 @@ VLOOKUP, 피벗 테이블, 조건부 서식... 매번 검색하고 계신가요?
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (수작업)
+### (Updated) (Updated) (Updated) ❌ Before (수작업) {#updated}
 
 ```text
 파일 열고 -> 복사하고 -> 붙여넣고 -> 끄고 -> (무한반복 100번) -> 야근 확정 🌙

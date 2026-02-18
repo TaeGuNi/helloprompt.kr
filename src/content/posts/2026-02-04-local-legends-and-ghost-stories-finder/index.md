@@ -9,7 +9,7 @@ description: "이 호수에 용이 살았다고? 여행지에 얽힌 민담과 �
 tags: ["전설", "민담", "괴담", "스토리텔링", "이색여행"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 현지인들만 아는 오싹하고 신비한 전설 & 괴담 찾기
+# (Updated) (Updated) (Updated) 📝 현지인들만 아는 오싹하고 신비한 전설 & 괴담 찾기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"아름다운 성벽 아래에 묻힌 유령 이야기를 아시나요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "미스터리 스토리텔러"
+## (Updated) (Updated) (Updated) 🚀 해결책: "미스터리 스토리텔러" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아름다운 성벽 아래에 묻힌 유령 이야기를 아시나요?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"아름다운 성벽 아래에 묻힌 유령 이야기를 아시나요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "프라하 전설 알려줘."
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 (카를 교에 얽힌 성 요한 네포무크의 비극, 유대인 지구의 골렘 이야기, 밤 12시에 나타나는 머리 없는 기사 괴담 등을 흥미진진하게 서술)
 

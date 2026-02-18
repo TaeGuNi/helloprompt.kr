@@ -19,7 +19,7 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"자바(Java)는 너무 무거워... 노드(Node.js)는 싱글 스레드라 불안하고..."_
+_"자바(Java)는 너무 무거워... 노드(Node.js)는 싱글 스레드라 불안하고..."_
 
 이 고민의 끝에 **Go(Golang)**가 있습니다. 구글이 만든 언어답게 **"단순함"**과 **"성능"**에 몰빵했습니다. 배달의민족, 당근마켓, 토스 등 트래픽이 터지는 곳들이 왜 Go를 선택했는지, 코드로 확인해 보시죠.
 
@@ -33,7 +33,7 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Go Migration Guide"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Go Migration Guide" {#updated}
 
 ### (Updated) (Updated) (Updated) 🥉 Basic Version (Spring vs Go 비교) {#spring-vs-go}
 
@@ -43,7 +43,7 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (동시성 처리 구현)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (동시성 처리 구현) {#updated}
 
 Go의 진가를 확인하는 시나리오.
 
@@ -87,7 +87,7 @@ Go는 **"상속(Inheritance)"이 없습니다.**
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (Spring Boot)
 

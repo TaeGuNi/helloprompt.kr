@@ -19,7 +19,7 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"앱 하나 만드는데 3천만 원 달라고요? 전 그냥 버튼 누르면 결제되는 기능만 있으면 되는데요..."_
+_"앱 하나 만드는데 3천만 원 달라고요? 전 그냥 버튼 누르면 결제되는 기능만 있으면 되는데요..."_
 
 개발 외주 주지 마세요. MVP(최소 기능 제품)는 예쁘게 만드는 게 아니라 **"작동하게"** 만드는 게 목표입니다. **Bubble.io**를 쓰면 개발자 없이도 에어비앤비, 당근마켓 같은 기능을 구현할 수 있습니다.
 
@@ -33,9 +33,9 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "No-Code Builder Prompt"
+## (Updated) (Updated) 🚀 해결책: "No-Code Builder Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기능 구현)
+### (Updated) (Updated) 🥉 Basic Version (기능 구현) {#updated}
 
 특정 기능을 어떻게 만드는지 모를 때.
 
@@ -45,7 +45,7 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증)
+### (Updated) (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증) {#updated}
 
 앱의 뼈대(DB)를 잡을 때.
 
@@ -91,17 +91,17 @@ tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (개발자 찾아 삼만리)
+### (Updated) (Updated) ❌ Before (개발자 찾아 삼만리) {#updated}
 
 "개발자님 계신가요...?" (6개월 지남, 아이디어 식음 📉)
 
 ### (Updated) (Updated) ✅ After (노코드 MVP) {#mvp}
 
-> **나:** "GPT야, 당근마켓 DB 구조 짜줘."
-> **AI:** "User, Product, ChatRoom 테이블 이렇게 만드세요."
-> (결과: 3일 뒤 앱 스토어 심사 넣음 🚀)
+**나:** "GPT야, 당근마켓 DB 구조 짜줘."
+**AI:** "User, Product, ChatRoom 테이블 이렇게 만드세요."
+(결과: 3일 뒤 앱 스토어 심사 넣음 🚀)
 
 ---
 

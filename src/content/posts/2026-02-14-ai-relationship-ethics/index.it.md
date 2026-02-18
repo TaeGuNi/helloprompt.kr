@@ -24,4 +24,4 @@ Gli amanti IA sono perfetti. Ecco perché sono pericolosi. Le vere relazioni uma
 
 Le relazioni con l'IA sono ormai una realtà inevitabile. Invece di trattarle semplicemente come tabù, dobbiamo trovare un modo sano di coesistere.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

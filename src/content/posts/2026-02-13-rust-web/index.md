@@ -8,15 +8,15 @@ tags: ["rust", "web development", "backend", "performance"]
 
 2026년, Rust는 웹 개발을 위한 최고의 언어로 확고히 자리 잡았습니다. 간단한 HTTP 핸들러를 위해 "대여 검사기(borrow checker)와 싸우던" 시절은 지났습니다. 성숙한 프레임워크와 놀라운 생태계를 통해 Rust는 안전성과 속도를 동시에 제공합니다.
 
-## (Updated) (Updated) 생태계의 성숙
+## (Updated) (Updated) 생태계의 성숙 {#updated}
 
 **Axum**과 **Actix-web** 같은 프레임워크는 오래전 안정적인 버전에 도달했습니다. 이들은 TypeScript나 Go에서 온 개발자들에게 친숙한 인체공학적 API를 제공하면서도, Rust만이 제공할 수 있는 컴파일 타임 보장을 제공합니다.
 
-## (Updated) (Updated) 성능과 안전성의 만남
+## (Updated) (Updated) 성능과 안전성의 만남 {#updated}
 
 도입의 주된 이유는 여전히 성능입니다. 컴퓨팅 비용이 중요한 클라우드 네이티브 세상에서, Rust의 효율성은 기업이 동일한 부하에 대해 더 적은 인스턴스를 운영할 수 있게 해줍니다. 하지만 C++와 달리, 이러한 성능은 메모리 안전성을 희생하지 않습니다.
 
-## (Updated) (Updated) 비동기 기반
+## (Updated) (Updated) 비동기 기반 {#updated}
 
 Tokio는 사실상의 표준 런타임이 되었으며, 강력하고 검증되었습니다. `async/await` 문법은 이제 자연스럽게 느껴지며, `Result` 타입을 이용한 에러 처리는 제어 흐름을 예측 가능하고 견고하게 만듭니다.
 

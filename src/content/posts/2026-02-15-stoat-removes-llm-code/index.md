@@ -15,15 +15,15 @@ cover: ./cover.png
 
 최근 개발자 커뮤니티에서 화제가 되고 있는 **Stoat**는 기존의 AI 도구들과 정반대의 길을 걷습니다. GitHub Copilot이나 Cursor가 "더 많은 코드"를 빠르게 작성하는 데 집중했다면, Stoat의 목표는 단 하나입니다.
 
-> **"코드를 지우는 것."**
+**"코드를 지우는 것."**
 
-## (Updated) (Updated) AI가 만든 기술 부채, AI가 갚는다
+## (Updated) (Updated) AI가 만든 기술 부채, AI가 갚는다 {#updated}
 
 LLM 기반 코딩 도구의 대중화로 생산성은 폭발적으로 증가했지만, 부작용도 만만치 않았습니다. AI가 작성한 코드는 종종 필요 이상으로 장황하거나, 중복된 로직을 포함하거나, 컨텍스트에 맞지 않는 과도한 추상화를 도입하곤 했습니다. 개발자들은 이제 "코드를 짜는 시간"보다 "AI가 짠 코드를 리뷰하고 정리하는 시간"을 더 많이 쓰게 되었습니다.
 
 Stoat는 바로 이 지점을 파고듭니다.
 
-### (Updated) (Updated) Stoat의 주요 기능
+### (Updated) (Updated) Stoat의 주요 기능 {#updated}
 
 1.  **Semantic De-duplication (의미론적 중복 제거):**
     단순히 텍스트가 같은 코드를 찾는 것이 아니라, 하는 일이 같은 로직을 찾아내어 하나의 함수로 통합하거나 더 간결한 문법으로 대체합니다.
@@ -34,7 +34,7 @@ Stoat는 바로 이 지점을 파고듭니다.
 3.  **Dead Code Hunting (죽은 코드 사냥):**
     프로젝트 전체의 의존성을 분석하여, AI가 생성했지만 실제로는 호출되지 않는 '유령 함수'들을 찾아내 과감하게 삭제를 제안합니다.
 
-## (Updated) (Updated) "Less is More"의 귀환
+## (Updated) (Updated) "Less is More"의 귀환 {#updated}
 
 Stoat의 슬로건은 **"The best code is no code"**입니다. 사용자들은 Stoat를 실행한 후 줄어든 라인 수(LOC)를 보며 희열을 느낍니다.
 

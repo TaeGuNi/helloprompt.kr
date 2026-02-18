@@ -29,6 +29,6 @@ Codex Spark는 'Spark'라는 이름에 걸맞게 **15ms 미만의 지연 시간*
 
 GPT-5.3 Codex Spark는 오늘부터 API 및 주요 IDE 플러그인을 통해 사용할 수 있습니다.
 
-> "Codex Spark는 개발자가 생각하는 속도로 코드를 작성할 수 있게 해주는 진정한 파트너입니다." - OpenAI Engineering Team
+"Codex Spark는 개발자가 생각하는 속도로 코드를 작성할 수 있게 해주는 진정한 파트너입니다." - OpenAI Engineering Team
 
 더 자세한 내용은 공식 문서를 참조하세요.

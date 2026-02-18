@@ -9,7 +9,7 @@ description: "친구 관계에서 상처받은 아이를 위한 사회성 코칭
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) (Updated) 📝 '왕따 당했어?' 묻기 전에, 아이 마음 단단하게 만들기
+# (Updated) (Updated) 📝 '왕따 당했어?' 묻기 전에, 아이 마음 단단하게 만들기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "어린이 인간관계 코치"
+## (Updated) (Updated) 🚀 해결책: "어린이 인간관계 코치" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"아이가 '00이가 나랑 안 논대' 하며 시무룩하게 집에 왔을 �
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 친구한테 거절 당했을 때 조언.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 친구가 지금은 혼자 있고 싶거나 다른 놀이가 더 재미있을 수도 있어. 그건 네가 미워서가 아니야. 그럴 땐 '알겠어, 나중에 같이 놀자!' 하고 너도 장난감을 가지고 신나게 놀아보렴.

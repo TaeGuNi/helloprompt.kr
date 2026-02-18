@@ -9,7 +9,7 @@ description: "성과 리뷰, 피드백 작성의 고통을 덜어주는 프롬�
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 📝 상처 주지 않고 성장시키는 인사평가 코멘트
+# (Updated) (Updated) 📝 상처 주지 않고 성장시키는 인사평가 코멘트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"팀원 평가 시즌, 빈칸 채우기가 세상에서 제일 힘드시죠?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "피드백 코치"
+## (Updated) (Updated) 🚀 해결책: "피드백 코치" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"팀원 평가 시즌, 빈칸 채우기가 세상에서 제일 힘드시죠?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"팀원 평가 시즌, 빈칸 채우기가 세상에서 제일 힘드시죠?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 일은 잘하는데 지각이 잦음. 평가 써줘.
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 [이름]님은 이번 프로젝트에서 탁월한 성과를 보여주었습니다. 다만, 근태 관리 부분에서는 조금 더 책임감 있는 모습이 보완된다면 팀에 더 큰 긍정적 영향을 줄 것입니다...

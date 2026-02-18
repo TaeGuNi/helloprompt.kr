@@ -9,7 +9,7 @@ description: "무조건 MSA가 답일까? 트래픽 규모, 팀 크기, 배포 �
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 
-# (Updated) (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다
+# (Updated) (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다 {#updated}
 
 - **🎯 추천 대상:** "우리도 넷플릭스처럼 MSA 해야 하나요?" 묻는 스타트업 CTO, 서비스가 커지면서 배포가 무서워진 개발 팀장
 - **⏱️ 소요 시간:** 10분 (진단 및 결정)
@@ -19,8 +19,8 @@ tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"남들 다 하니까 우리도 마이크로서비스(MSA)로 가자!"_
-> (결과: 서비스 3개 띄우는 데 개발자 5명이 붙어서 허덕임 🤯)
+_"남들 다 하니까 우리도 마이크로서비스(MSA)로 가자!"_
+(결과: 서비스 3개 띄우는 데 개발자 5명이 붙어서 허덕임 🤯)
 
 MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀리스(Distributed Monolith)'**라는 끔찍한 혼종이 됩니다. 현재 우리 팀의 상황을 AI에게 설명하고, 냉정한 진단을 받아보세요.
 
@@ -34,9 +34,9 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Architecture Advisor Prompt"
+## (Updated) (Updated) 🚀 해결책: "Architecture Advisor Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (개념 비교)
+### (Updated) (Updated) 🥉 Basic Version (개념 비교) {#updated}
 
 장단점 파악하기.
 
@@ -44,7 +44,7 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (우리 팀 맞춤 진단)
+### (Updated) (Updated) 🥇 Pro Version (우리 팀 맞춤 진단) {#updated}
 
 의사결정 돕기.
 
@@ -90,13 +90,13 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) ❌ Before (무지성 MSA) {#msa}
 
 개발자 4명이서 서비스 10개 관리 -> 로깅, 모니터링 하느라 기능 개발 못 함. (망함 📉)
 
-### (Updated) (Updated) ✅ After (모듈러 모놀리스)
+### (Updated) (Updated) ✅ After (모듈러 모놀리스) {#updated}
 
 하나의 프로젝트 안에서 `Order`, `Payment`, `Delivery` 폴더를 완벽히 격리 -> 서로 참조 못 하게 막음 -> **"나중에 트래픽 터지면 `Payment` 폴더만 떼어내서 서버 만들자."** (유연함 🧘)
 

@@ -5,19 +5,19 @@ tags: [culture, design]
 image: https://source.unsplash.com/random/1600x900/?hand,art
 ---
 
-# (Updated) (Updated) The Human Premium: 'No-AI'가 새로운 럭셔리가 되다
+# (Updated) (Updated) The Human Premium: 'No-AI'가 새로운 럭셔리가 되다 {#updated}
 
 생성형 AI가 텍스트, 이미지, 영상, 음악까지 모든 것을 만들어내는 시대입니다. 누구나 몇 초 만에 그럴듯한 결과물을 만들어낼 수 있게 되면서, 오히려 역설적인 현상이 나타나고 있습니다. 바로 **'인간의 손길(Human Touch)'이 프리미엄이 되는 현상**, 즉 '휴먼 프리미엄(The Human Premium)'입니다.
 
-## (Updated) (Updated) 1. 결핍이 가치를 만든다
+## (Updated) (Updated) 1. 결핍이 가치를 만든다 {#updated}
 
 과거에는 매끄럽고 완벽한 디지털 결과물이 선호되었습니다. 하지만 AI가 만든 매끄러움이 범람하면서, 사람들은 이제 불완전함 속의 온기를 갈망합니다. 붓자국이 느껴지는 그림, 타자기가 아닌 펜으로 쓴 편지, 미세한 떨림이 있는 라이브 연주가 다시 각광받고 있습니다.
 
-## (Updated) (Updated) 2. 'Made by Humans'라는 새로운 라벨
+## (Updated) (Updated) 2. 'Made by Humans'라는 새로운 라벨 {#updated}
 
 유기농 식품이 화학 비료를 쓰지 않았음을 증명하듯, 이제 콘텐츠와 제품에도 'AI를 사용하지 않음'을 인증하는 것이 마케팅 포인트가 되고 있습니다. "100% 사람이 썼습니다", "순수 인간 창작물"이라는 문구는 단순한 정보 전달을 넘어 신뢰와 희소성을 상징하는 럭셔리 마크가 되었습니다.
 
-## (Updated) (Updated) 3. 진정성의 시대
+## (Updated) (Updated) 3. 진정성의 시대 {#updated}
 
 AI는 평균적인 아름다움과 정답을 제시하는 데 탁월합니다. 하지만 예술과 문화의 가치는 종종 '평균에서의 이탈'과 '고유한 시각'에서 나옵니다. 인간의 고뇌와 시간, 그리고 실수마저도 포함된 창작물은 AI가 흉내 낼 수 없는 고유의 아우라(Aura)를 가집니다.
 

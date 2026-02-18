@@ -9,13 +9,13 @@ description: "최근 Claude Code 모델의 성능이 떨어졌다는 주장이 �
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 
-# (Updated) (Updated) 📝 Claude Code가 멍청해졌다?
+# (Updated) (Updated) 📝 Claude Code가 멍청해졌다? {#updated}
 
 - **🎯 추천 대상:** Claude 사용자, 개발자
 - **⏱️ 읽는 시간:** 2분
 - **🤖 관련 모델:** Claude 3.7 Sonnet (추정)
 
-> _"예전엔 한 번에 짰는데, 요즘은 왜 자꾸 틀릴까?"_
+_"예전엔 한 번에 짰는데, 요즘은 왜 자꾸 틀릴까?"_
 
 최근 해커뉴스(Hacker News)와 레딧 등 개발자 커뮤니티를 중심으로 "Claude Code의 성능이 예전만 못하다"는 주장이 제기되고 있습니다.
 
@@ -29,13 +29,13 @@ tags: ["Claude", "Anthropic", "AI", "Coding"]
 
 ---
 
-## (Updated) (Updated) 🚀 논란의 핵심
+## (Updated) (Updated) 🚀 논란의 핵심 {#updated}
 
-### (Updated) (Updated) 1. 복잡도 처리 능력 감소
+### (Updated) (Updated) 1. 복잡도 처리 능력 감소 {#updated}
 
 사용자들은 특히 복잡한 리팩토링이나 아키텍처 설계 요청 시 Claude가 예전보다 엉뚱한 답을 내놓거나 문맥을 놓치는 경우가 잦아졌다고 지적합니다.
 
-### (Updated) (Updated) 2. 안전성 vs 성능
+### (Updated) (Updated) 2. 안전성 vs 성능 {#updated}
 
 AI 모델의 안전성(Safety) 튜닝이 강화되면서, 창의적이고 유연한 코딩 능력이 억제되었을 가능성도 제기됩니다.
 

@@ -9,7 +9,7 @@ description: "친구도, 주사위도 필요 없다. AI가 진행하는 1인용 
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
+# (Updated) (Updated) 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기 {#updated}
 
 - **🎯 추천 대상:** 발더스 게이트 3를 재밌게 했지만 같이 할 친구가 없는 사람, 나만의 판타지 모험을 떠나고 싶은 사람
 - **⏱️ 소요 시간:** 30분 (1회 세션)
@@ -19,7 +19,7 @@ tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"오크가 나타났다! 공격할까, 도망갈까?"_
+_"오크가 나타났다! 공격할까, 도망갈까?"_
 
 TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 **게임 마스터(GM)**로 고용하세요. 웅장한 묘사, 매력적인 NPC, 그리고 무자비한 주사위 굴림까지. 텍스트만으로 엘더스크롤급 자유도를 누릴 수 있습니다.
 
@@ -33,9 +33,9 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Dungeon Master Prompt"
+## (Updated) (Updated) 🚀 해결책: "Dungeon Master Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (텍스트 어드벤처)
+### (Updated) (Updated) 🥉 Basic Version (텍스트 어드벤처) {#updated}
 
 가볍게 즐기기.
 
@@ -89,16 +89,16 @@ TRPG(Table-talk RPG)의 핵심은 **'선택'**과 **'우연'**입니다. AI를 *
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (게임 불감증)
+### (Updated) (Updated) ❌ Before (게임 불감증) {#updated}
 
 최신 그래픽 게임도 10분 하면 질림. "맨날 똑같은 퀘스트..." 🎮
 
 ### (Updated) (Updated) ✅ After (TRPG)
 
-> **GM:** "당신은 왕을 설득하려 했지만 주사위가 1이 나왔습니다. 왕이 격노하여 당신을 지하 감옥에 가둡니다. 탈출하시겠습니까?"
-> **나:** "와... 망했다. 숟가락으로 땅 파자." (새벽 4시까지 함 🌙)
+**GM:** "당신은 왕을 설득하려 했지만 주사위가 1이 나왔습니다. 왕이 격노하여 당신을 지하 감옥에 가둡니다. 탈출하시겠습니까?"
+**나:** "와... 망했다. 숟가락으로 땅 파자." (새벽 4시까지 함 🌙)
 
 ---
 

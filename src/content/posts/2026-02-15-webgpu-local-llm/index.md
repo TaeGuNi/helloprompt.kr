@@ -9,7 +9,7 @@ description: "API 키 없이, 내 브라우저가 AI 서버가 됩니다. WebGPU
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 
-# (Updated) (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
+# (Updated) (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법 {#updated}
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -23,7 +23,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
-> _"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침 하던 날들은 잊으세요. 이제 당신의 브라우저가 곧 서버입니다."_
+_"API 키 발급받고, 카드 등록하고, 사용량 걱정하며 새로고침 하던 날들은 잊으세요. 이제 당신의 브라우저가 곧 서버입니다."_
 
 2026년 현재, WebGPU는 이제 모든 모던 브라우저에서 기본적으로 지원됩니다. 더 이상 무거운 Python 환경을 설정하거나, Docker 컨테이너를 띄울 필요가 없습니다. `WebLLM` 같은 라이브러리를 사용하면, 사용자의 그래픽 카드(GPU)를 사용하여 브라우저 탭 안에서 직접 거대 언어 모델(LLM)을 구동할 수 있습니다.
 
@@ -39,13 +39,13 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기"
+## (Updated) (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기" {#updated}
 
 이 프롬프트는 복잡한 WebLLM 초기화 코드와 UI 로직을 한 번에 작성해줍니다.
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 프로토타입 코드가 필요할 때 사용하세요.
 
@@ -54,7 +54,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 실제 프로젝트에 바로 투입 가능한 React 컴포넌트 구조가 필요할 때 사용하세요.
 
@@ -114,15 +114,15 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (일반적인 질문)
+### (Updated) (Updated) ❌ Before (일반적인 질문) {#updated}
 
 ```text
 웹에서 LLM 돌리는 코드 짜줘.
 ```
 
-> (결과: 구형 라이브러리를 쓰거나, WebGPU 설정이 누락된 껍데기 코드만 줌)
+(결과: 구형 라이브러리를 쓰거나, WebGPU 설정이 누락된 껍데기 코드만 줌)
 
 ### (Updated) (Updated) ✅ After (Pro 프롬프트 사용) {#pro}
 

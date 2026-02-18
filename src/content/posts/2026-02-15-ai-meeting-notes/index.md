@@ -12,7 +12,7 @@ tags: ["AI", "Tech", "ai-meeting-notes"]
 
 The landscape of AI is shifting rapidly. Today, we discuss **Automated Meeting Notes**.
 
-> "Efficiency vs Privacy concerns"
+"Efficiency vs Privacy concerns"
 
 ## (Updated) (Updated) Analysis
 

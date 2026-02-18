@@ -9,7 +9,7 @@ description: "글로 된 물리 문제를 읽고 상황을 분석하여, 어떤 
 tags: ["물리", "공학", "문제해결", "프롬프트"]
 ---
 
-# (Updated) (Updated) 📝 물리 문제 번역기: 상황 판단부터 식 세우기까지
+# (Updated) (Updated) 📝 물리 문제 번역기: 상황 판단부터 식 세우기까지 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"공식은 다 외웠는데, 이 문제에 F=ma를 써야 할지 에너지 보�
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "피직스 솔루션 아키텍트"
+## (Updated) (Updated) 🚀 해결책: "피직스 솔루션 아키텍트" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"공식은 다 외웠는데, 이 문제에 F=ma를 써야 할지 에너지 보�
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,15 +77,15 @@ _"공식은 다 외웠는데, 이 문제에 F=ma를 써야 할지 에너지 보�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "높이 45m 건물 옥상에서 공을 떨어뜨렸다. 지면에 닿을 때 속력은?"
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[변수 추출]**
 

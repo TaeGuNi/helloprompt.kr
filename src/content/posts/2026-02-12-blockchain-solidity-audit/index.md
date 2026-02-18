@@ -19,7 +19,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"버그가 있어서 100억 원이 해킹당했습니다."_
+_"버그가 있어서 100억 원이 해킹당했습니다."_
 
 블록체인의 세계에서 버그는 곧 파산입니다. 수정(Patch)도 불가능합니다. 배포 전에 **완벽에 가까운 코드**를 짜야 합니다. AI는 Solidity 문법뿐만 아니라, **알려진 해킹 패턴(Re-entrancy 등)**을 이미 다 알고 있습니다.
 
@@ -33,7 +33,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Smart Contract Developer Prompt"
+## (Updated) (Updated) 🚀 해결책: "Smart Contract Developer Prompt" {#updated}
 
 ### (Updated) (Updated) 🥉 Basic Version (ERC-20 토큰 생성) {#erc-20}
 
@@ -43,7 +43,7 @@ tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (보안 감사 및 가스비 최적화)
+### (Updated) (Updated) 🥇 Pro Version (보안 감사 및 가스비 최적화) {#updated}
 
 실제 돈이 오가는 계약.
 
@@ -85,16 +85,16 @@ AI에게 "OpenZeppelin 최신 버전을 import 해서 짜줘"라고 해야 해�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (그냥 짬)
+### (Updated) (Updated) ❌ Before (그냥 짬) {#updated}
 
 `balances[msg.sender] -= amount;` (순서 잘못 써서 돈 무한 복사 버그 발생 💸)
 
 ### (Updated) (Updated) ✅ After (AI 감사) {#ai}
 
-> **AI:** "출금 로직 순서가 위험합니다. **Checks-Effects-Interactions** 패턴을 따르세요. 상태를 먼저 변경하고 송금해야 재진입 공격을 막을 수 있습니다."
-> (코드 수정 -> 철통 방어 🛡️)
+**AI:** "출금 로직 순서가 위험합니다. **Checks-Effects-Interactions** 패턴을 따르세요. 상태를 먼저 변경하고 송금해야 재진입 공격을 막을 수 있습니다."
+(코드 수정 -> 철통 방어 🛡️)
 
 ---
 

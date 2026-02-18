@@ -9,7 +9,7 @@ description: "넷플릭스 메인 화면만 1시간째? 당신의 취향을 분�
 tags: ["넷플릭스", "영화추천", "OTT", "드라마"]
 ---
 
-# (Updated) (Updated) 📝 주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드
+# (Updated) (Updated) 📝 주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"풍요 속의 빈곤, OTT의 저주를 아시나요? AI가 당신의 인생 �
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "방구석 영화 평론가"
+## (Updated) (Updated) 🚀 해결책: "방구석 영화 평론가" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"풍요 속의 빈곤, OTT의 저주를 아시나요? AI가 당신의 인생 �
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,15 +78,15 @@ _"풍요 속의 빈곤, OTT의 저주를 아시나요? AI가 당신의 인생 �
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "재밌는 영화 추천해줘."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 (크리스토퍼 놀란 취향을 저격하는 넷플릭스의 '다크(Dark)' 시리즈 추천, "타임 루프물의 끝판왕"이라는 코멘트와 함께 시즌 3까지 총 26시간 소요된다고 안내)
 

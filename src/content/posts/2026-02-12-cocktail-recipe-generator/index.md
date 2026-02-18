@@ -9,7 +9,7 @@ description: "남은 소주, 맥주, 위스키... 그냥 먹지 마세요. 집�
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 
-# (Updated) (Updated) 🍸 칵테일 레시피: 냉장고 술 털어서 바텐더 되기
+# (Updated) (Updated) 🍸 칵테일 레시피: 냉장고 술 털어서 바텐더 되기 {#updated}
 
 - **🎯 추천 대상:** 술은 좋은데 나가서 마시긴 비싼 홈술족, 냉장고에 정체불명의 양주가 굴러다니는 사람
 - **⏱️ 소요 시간:** 1분 (레시피 생성)
@@ -19,7 +19,7 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고 뭐 없나?"_
+_"앱솔루트 보드카 한 병 있는데... 토닉워터 타 먹는 거 말고 뭐 없나?"_
 
 술도 요리입니다. 섞는 비율에 따라 맛이 천차만별이죠. 바텐더 자격증 없어도 됩니다. **"내 냉장고에 있는 재료"**만 말하면, AI가 당신만을 위한 시그니처 칵테일을 만들어줍니다. 이름까지 지어줍니다.
 
@@ -33,9 +33,9 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Home Bartender Prompt"
+## (Updated) (Updated) 🚀 해결책: "Home Bartender Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (조합 추천)
+### (Updated) (Updated) 🥉 Basic Version (조합 추천) {#updated}
 
 간단하게 섞어 마시기.
 
@@ -44,7 +44,7 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (시그니처 메뉴 개발)
+### (Updated) (Updated) 🥇 Pro Version (시그니처 메뉴 개발) {#updated}
 
 분위기 잡고 싶을 때.
 
@@ -89,16 +89,16 @@ tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (폭탄주)
+### (Updated) (Updated) ❌ Before (폭탄주) {#updated}
 
 소주 + 맥주 + 콜라 대충 섞음 -> "으악, 이게 무슨 맛이야." (숙취 🤕)
 
 ### (Updated) (Updated) ✅ After (AI 칵테일) {#ai}
 
-> **AI:** "**[Golden Hour]** 위스키 1 : 오렌지 주스 2 : 진저에일 1 비율로 섞고, 레몬 껍질을 비틀어 향을 입히세요."
-> (결과: "와, 이거 파는 것보다 맛있다!" 🍹)
+**AI:** "**[Golden Hour]** 위스키 1 : 오렌지 주스 2 : 진저에일 1 비율로 섞고, 레몬 껍질을 비틀어 향을 입히세요."
+(결과: "와, 이거 파는 것보다 맛있다!" 🍹)
 
 ---
 

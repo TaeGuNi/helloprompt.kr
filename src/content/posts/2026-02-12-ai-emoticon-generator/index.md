@@ -9,7 +9,7 @@ description: "그림 못 그려도 됩니다. DALL-E와 미드저니로 '멈춰�
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 
-# (Updated) (Updated) 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기
+# (Updated) (Updated) 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기 {#updated}
 
 - **🎯 추천 대상:** 끄적거리는 거 좋아하는 사람, 카카오 이모티콘 승인받아서 연금 만들고 싶은 부업 러
 - **⏱️ 소요 시간:** 10분 (캐릭터 시트 생성)
@@ -19,7 +19,7 @@ tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리겠어."_
+_"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리겠어."_
 
 이제 AI가 대신 그려줍니다. 중요한 건 **'일관성(Consistency)'**입니다. 1번 그림이랑 2번 그림의 캐릭터가 다르면 탈락입니다. 시드(Seed) 고정 기술을 써서 똑같이 생긴 캐릭터가 표정만 바꾸게 만드세요.
 
@@ -33,9 +33,9 @@ tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Emoticon Factory Prompt"
+## (Updated) (Updated) 🚀 해결책: "Emoticon Factory Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (캐릭터 시트)
+### (Updated) (Updated) 🥉 Basic Version (캐릭터 시트) {#updated}
 
 캐릭터 디자인 잡기.
 
@@ -43,7 +43,7 @@ tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (감정 표현 세트)
+### (Updated) (Updated) 🥇 Pro Version (감정 표현 세트) {#updated}
 
 24종 세트 만들기.
 
@@ -85,17 +85,17 @@ tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (낙서)
+### (Updated) (Updated) ❌ Before (낙서) {#updated}
 
 동그라미에 점 두 개 찍음. (친구들한테만 씀 🥲)
 
 ### (Updated) (Updated) ✅ After (AI 생성) {#ai}
 
-> **AI:** (프로 작가가 그린 듯한 6가지 표정의 오리 캐릭터 생성)
-> **나:** "와, 이거 대박이다. 바로 승인 신청!"
-> (결과: 미승인되더라도 OQ(오큐) 마켓이나 굿즈로 활용 가능 🛍️)
+**AI:** (프로 작가가 그린 듯한 6가지 표정의 오리 캐릭터 생성)
+**나:** "와, 이거 대박이다. 바로 승인 신청!"
+(결과: 미승인되더라도 OQ(오큐) 마켓이나 굿즈로 활용 가능 🛍️)
 
 ---
 

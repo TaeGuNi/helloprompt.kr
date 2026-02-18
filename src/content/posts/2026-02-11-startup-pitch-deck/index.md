@@ -9,7 +9,7 @@ description: "내 사업이 왜 대박인지 설명 못 하겠다면? 문제-해
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 
-# (Updated) (Updated) 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링
+# (Updated) (Updated) 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링 {#updated}
 
 - **🎯 추천 대상:** "우리 기술 진짜 좋은데..." 말만 하면 투자자가 하품하는 대표님, 예비창업패키지 서류 광탈자
 - **⏱️ 소요 시간:** 10분 (스토리라인 구성)
@@ -19,7 +19,7 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"그래서 한마디로 뭡니까? 구글입니까, 배민입니까?"_
+_"그래서 한마디로 뭡니까? 구글입니까, 배민입니까?"_
 
 투자자는 바쁩니다. 당신의 기술적 디테일은 관심 없습니다. **"누구의 어떤 문제를 어떻게 풀어서 얼마나 벌 건지"**만 궁금합니다. 이 흐름을 10장 내외의 슬라이드로 압축하는 **'실리콘밸리식 피치덱'** 공식을 알려드립니다.
 
@@ -33,9 +33,9 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Pitch Deck Storyteller"
+## (Updated) (Updated) 🚀 해결책: "Pitch Deck Storyteller" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (엘리베이터 피치)
+### (Updated) (Updated) 🥉 Basic Version (엘리베이터 피치) {#updated}
 
 1분 안에 말로 설명할 때.
 
@@ -44,7 +44,7 @@ tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (10장 슬라이드 구성)
+### (Updated) (Updated) 🥇 Pro Version (10장 슬라이드 구성) {#updated}
 
 IR 자료를 만들 때.
 
@@ -94,17 +94,17 @@ IR 자료를 만들 때.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (나열식)
+### (Updated) (Updated) ❌ Before (나열식) {#updated}
 
 "저희는 영양제를 팔고요, AI도 쓰고요, 팀원은 서울대 나왔고요..." (지루함 🥱)
 
-### (Updated) (Updated) ✅ After (스토리텔링)
+### (Updated) (Updated) ✅ After (스토리텔링) {#updated}
 
-> **"매일 10만 명이 영양제를 먹지만, 그중 90%는 효과를 못 봅니다. (Problem)"**
-> **"우리는 소변 검사 한 번으로 당신에게 딱 맞는 알약 3개를 찾아냅니다. (Solution)"**
-> (투자자: "재밌네. 계속해봐." 👀)
+**"매일 10만 명이 영양제를 먹지만, 그중 90%는 효과를 못 봅니다. (Problem)"**
+**"우리는 소변 검사 한 번으로 당신에게 딱 맞는 알약 3개를 찾아냅니다. (Solution)"**
+(투자자: "재밌네. 계속해봐." 👀)
 
 ---
 

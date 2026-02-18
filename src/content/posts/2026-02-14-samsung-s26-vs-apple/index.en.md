@@ -52,4 +52,4 @@ The iPhone 17 aims to be the **"Assistant that knows you best."** Instead of raw
 
 In 2026, what is your choice? The extreme of hardware, or the magic of software?
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

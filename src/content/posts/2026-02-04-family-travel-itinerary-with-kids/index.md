@@ -9,7 +9,7 @@ description: "아이들의 체력과 부모님의 멘탈을 모두 지키는 마
 tags: ["가족여행", "육아", "키즈존", "여행계획"]
 ---
 
-# (Updated) (Updated) 📝 아이와 함께라도 평화로운 가족 여행 일정 짜기
+# (Updated) (Updated) 📝 아이와 함께라도 평화로운 가족 여행 일정 짜기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"아이 컨디션 맞추랴, 짐 챙기랴... 여행 전부터 지치시나요?
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "슈퍼 대디/맘 트래블 매니저"
+## (Updated) (Updated) 🚀 해결책: "슈퍼 대디/맘 트래블 매니저" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"아이 컨디션 맞추랴, 짐 챙기랴... 여행 전부터 지치시나요?
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"아이 컨디션 맞추랴, 짐 챙기랴... 여행 전부터 지치시나요?
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "다낭 가족 여행 코스 짜줘."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 (오전: 키즈 클럽 / 점심: 맵지 않은 쌀국수집(아기의자 O) / 오후: 호텔 수영장 / 비고: 근처 소아과 위치 포함)
 

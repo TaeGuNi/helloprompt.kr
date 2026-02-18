@@ -9,7 +9,7 @@ description: "한방 단어(듐, 튬, 녘)를 쓰는 AI를 이겨라. 끝말잇�
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---
 
-# (Updated) (Updated) 🗣️ AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수
+# (Updated) (Updated) 🗣️ AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수 {#updated}
 
 - **🎯 추천 대상:** 심심할 때 시간 때우고 싶은 사람, AI의 한국어 실력을 테스트해보고 싶은 사람, 조카랑 놀아줘야 하는 삼촌
 - **⏱️ 소요 시간:** 무한대 (질릴 때까지)
@@ -19,7 +19,7 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐☆
 - 🚀 **활용도:** ⭐⭐⭐☆☆
 
-> _"기러기" -> "기차" -> "차표" -> "표... 표...?"_
+_"기러기" -> "기차" -> "차표" -> "표... 표...?"_
 
 인간의 어휘력은 한계가 있습니다. 하지만 AI는 국어사전을 통째로 외우고 있죠. AI와 끝말잇기 대결을 해보세요. 팁을 하나 드리자면, AI에게 **"한방 단어 쓰지 마"**라고 미리 경고해야 합니다. 안 그러면 3턴 만에 집니다.
 
@@ -33,9 +33,9 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Word Chain Game Prompt"
+## (Updated) (Updated) 🚀 해결책: "Word Chain Game Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (단순 게임)
+### (Updated) (Updated) 🥉 Basic Version (단순 게임) {#updated}
 
 심심풀이용.
 
@@ -84,20 +84,20 @@ AI는 가끔 없는 단어를 지어내기도 합니다(Hallucination). "꿈터"
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (규칙 없음)
+### (Updated) (Updated) ❌ Before (규칙 없음) {#updated}
 
 AI: "나트륨."
 나: "늄... 늄...? ㅠㅠ" (게임 끝)
 
-### (Updated) (Updated) ✅ After (룰 적용)
+### (Updated) (Updated) ✅ After (룰 적용) {#updated}
 
-> **AI:** "가로수 (길가에 줄지어 심은 나무)"
-> **나:** "수박"
-> **AI:** "박수 (손바닥을 마주 침)"
-> **나:** "수영"
-> (결과: 30분째 이어지는 핑퐁 🏓)
+**AI:** "가로수 (길가에 줄지어 심은 나무)"
+**나:** "수박"
+**AI:** "박수 (손바닥을 마주 침)"
+**나:** "수영"
+(결과: 30분째 이어지는 핑퐁 🏓)
 
 ---
 

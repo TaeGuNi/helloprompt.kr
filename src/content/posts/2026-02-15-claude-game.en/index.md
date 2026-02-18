@@ -21,7 +21,7 @@ Claude Code isn't just an autocomplete engine; it's a reasoning agent capable of
 
 I started with a simple prompt:
 
-> "Create a browser-based 2D golf game using HTML5 Canvas. It should have a ball, a hole, and drag-to-shoot mechanics."
+"Create a browser-based 2D golf game using HTML5 Canvas. It should have a ball, a hole, and drag-to-shoot mechanics."
 
 Claude didn't just spit out a snippet; it provided a structured setup:
 

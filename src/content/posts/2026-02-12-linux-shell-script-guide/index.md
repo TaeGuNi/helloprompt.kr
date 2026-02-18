@@ -9,7 +9,7 @@ description: "마우스로 클릭해서 하는 일은 죄악이다. 파일 정�
 tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 ---
 
-# (Updated) (Updated) (Updated) 🐚 리눅스 쉘 스크립트: 자동화의 끝판왕 Bash/Zsh
+# (Updated) (Updated) (Updated) 🐚 리눅스 쉘 스크립트: 자동화의 끝판왕 Bash/Zsh {#updated}
 
 - **🎯 추천 대상:** 바탕화면에 파일 1000개 쌓여있는 사람, 서버 로그 보려고 `cat` 치다가 눈 빠지는 개발자
 - **⏱️ 소요 시간:** 5분 (스크립트 작성)
@@ -19,7 +19,7 @@ tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 파일들 날짜별로 폴더 만들어서 정리 좀 해줘."_
+_"이 파일들 날짜별로 폴더 만들어서 정리 좀 해줘."_
 
 이걸 손으로 하면 1시간, 파이썬으로 하면 10분, **쉘 스크립트로 하면 10초**입니다. 리눅스(Linux)는 개발자의 고향입니다. 터미널을 지배하는 자가 서버를 지배합니다.
 
@@ -33,9 +33,9 @@ tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Shell Script Generator"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Shell Script Generator" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (파일 정리)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (파일 정리) {#updated}
 
 다운로드 폴더 청소.
 
@@ -43,7 +43,7 @@ tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (서버 로그 분석 및 알림)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (서버 로그 분석 및 알림) {#updated}
 
 데브옵스 꿈나무를 위한 로그 감시.
 
@@ -89,18 +89,18 @@ tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (수동 감시)
+### (Updated) (Updated) (Updated) ❌ Before (수동 감시) {#updated}
 
 개발자가 24시간 모니터 앞에 앉아서 `F5` 누르며 로그 봄. (화장실도 못 감 🚽)
 
-### (Updated) (Updated) (Updated) ✅ After (쉘 스크립트)
+### (Updated) (Updated) (Updated) ✅ After (쉘 스크립트) {#updated}
 
 `monitor.sh`가 백그라운드에서 돌다가...
 
-> **[Slack]** 🚨 "서버 에러 15건 발생! 확인 바람."
-> (개발자: "아, 밥 먹다 알림 왔네. 폰으로 서버 재시작." 📱)
+**[Slack]** 🚨 "서버 에러 15건 발생! 확인 바람."
+(개발자: "아, 밥 먹다 알림 왔네. 폰으로 서버 재시작." 📱)
 
 ---
 

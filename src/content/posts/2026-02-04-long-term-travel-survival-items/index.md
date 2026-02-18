@@ -9,7 +9,7 @@ description: "집 떠나면 고생? 이것만 있으면 어디든 내 집. 장�
 tags: ["장기여행", "한달살기", "세계여행", "생활용품"]
 ---
 
-# (Updated) (Updated) 📝 한 달 살기 & 장기 여행자를 위한 생존 아이템 가이드
+# (Updated) (Updated) 📝 한 달 살기 & 장기 여행자를 위한 생존 아이템 가이드 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"여행이 길어지면 여행은 곧 생활이 됩니다."_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "장기 체류 솔루션 컨설턴트"
+## (Updated) (Updated) 🚀 해결책: "장기 체류 솔루션 컨설턴트" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"여행이 길어지면 여행은 곧 생활이 됩니다."_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"여행이 길어지면 여행은 곧 생활이 됩니다."_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "유럽 한 달 살기 준비물."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 (석회수 필터 샤워기 헤드, 동전 육수, 실리콘 접이식 용기, 다이소 빨랫줄 등 경험에서 우러나온 리스트)
 

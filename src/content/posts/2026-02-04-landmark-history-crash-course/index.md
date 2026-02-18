@@ -9,7 +9,7 @@ description: "돌덩이가 살아있는 역사로 변하는 순간. 어려운 �
 tags: ["역사여행", "인문학", "랜드마크", "지식여행"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 아는 만큼 보인다! 3분 만에 끝내는 랜드마크 역사 속성 과외
+# (Updated) (Updated) (Updated) 📝 아는 만큼 보인다! 3분 만에 끝내는 랜드마크 역사 속성 과외 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"파리 에펠탑, 그냥 철로 만든 탑 아니냐고요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "스토리텔링 역사 도슨트"
+## (Updated) (Updated) (Updated) 🚀 해결책: "스토리텔링 역사 도슨트" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"파리 에펠탑, 그냥 철로 만든 탑 아니냐고요?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"파리 에펠탑, 그냥 철로 만든 탑 아니냐고요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "콜로세움 설명해줘."
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ("여기서 5만 명이 목숨을 걸고 싸웠다고? 검투사들의 대기실이었던 지하 미로를 주목하세요. 황제의 엄지손가락 하나에 생사가 갈렸던 현장입니다.")
 

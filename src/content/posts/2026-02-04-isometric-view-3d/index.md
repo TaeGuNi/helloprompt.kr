@@ -9,7 +9,7 @@ description: "3D 게임이나 아이콘처럼 입체적이고 귀여운 뷰, 아
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 
-# (Updated) (Updated) 📝 귀여운 3D 세상: Isometric View
+# (Updated) (Updated) 📝 귀여운 3D 세상: Isometric View {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"심시티나 타이쿤 게임처럼 위에서 내려다보는 귀여운 방을
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Isometric Room Prompt"
+## (Updated) (Updated) 🚀 해결책: "Isometric Room Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"심시티나 타이쿤 게임처럼 위에서 내려다보는 귀여운 방을
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"심시티나 타이쿤 게임처럼 위에서 내려다보는 귀여운 방을
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 `Gamer room 3d.`
 
 (결과: 일반적인 방 사진 앵글, 벽에 가려져 내부가 잘 안 보일 수 있음)
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 `Isometric view` 프롬프트 적용
 

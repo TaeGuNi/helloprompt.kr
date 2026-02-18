@@ -9,7 +9,7 @@ description: "LLM 프레임워크 양대 산맥 비교. 범용성은 랭체인, 
 tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 ---
 
-# (Updated) (Updated) ⛓️ LangChain vs LlamaIndex: 도대체 뭘 써야 할까?
+# (Updated) (Updated) ⛓️ LangChain vs LlamaIndex: 도대체 뭘 써야 할까? {#updated}
 
 - **🎯 추천 대상:** "둘 다 비슷해 보이는데..." 고민하는 AI 엔지니어, RAG 프로젝트를 시작하려는 개발 팀장
 - **⏱️ 소요 시간:** 5분 (비교 분석)
@@ -19,7 +19,7 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG엔 더 좋다던데?"_
+_"랭체인이 유명하니까 랭체인 쓸까? 근데 라마인덱스가 RAG엔 더 좋다던데?"_
 
 개발자의 영원한 난제, 도구 선택입니다. 결론부터 말하면 **"뭘 만들 거냐"**에 따라 다릅니다. 다양한 툴을 연결하는 **'만능 에이전트'**를 원한다면 랭체인, 방대한 문서를 검색하는 **'전문 검색 봇'**을 원한다면 라마인덱스입니다.
 
@@ -33,9 +33,9 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Framework Selector Prompt"
+## (Updated) (Updated) 🚀 해결책: "Framework Selector Prompt" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (특징 비교)
+### (Updated) (Updated) 🥉 Basic Version (특징 비교) {#updated}
 
 핵심 차이점 파악.
 
@@ -43,7 +43,7 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (아키텍처 설계 조언)
+### (Updated) (Updated) 🥇 Pro Version (아키텍처 설계 조언) {#updated}
 
 실제 프로젝트에 적용할 때.
 
@@ -86,13 +86,13 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (무조건 랭체인)
+### (Updated) (Updated) ❌ Before (무조건 랭체인) {#updated}
 
 "랭체인이 짱이래." -> PDF 10만 개 로드하다가 메모리 터지고, 검색 정확도 떨어짐. 🤯
 
-### (Updated) (Updated) ✅ After (적재적소)
+### (Updated) (Updated) ✅ After (적재적소) {#updated}
 
 "검색은 라마인덱스, 대화는 랭체인."
 -> **LlamaIndex**가 정확한 판례를 찾아오고, **LangChain**이 친절하게 답변을 생성. (환상의 콤비 🤝)

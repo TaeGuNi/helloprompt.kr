@@ -9,7 +9,7 @@ description: "긴 글을 요약하거나 코드를 수정할 때 AI가 헷갈려
 tags: ["구분자", "가독성", "XML태그"]
 ---
 
-# (Updated) (Updated) 🚧 AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요
+# (Updated) (Updated) 🚧 AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "XML 태그나 특수기호 활용하기"
+## (Updated) (Updated) 🚀 해결책: "XML 태그나 특수기호 활용하기" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -67,11 +67,11 @@ AI에게 긴 글을 던져주면서 "이거 요약해줘"라고 하면, AI는 �
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (구분 없이 입력)
+### (Updated) (Updated) ❌ Before (구분 없이 입력) {#updated}
 
 AI: "요약해줘"라는 말까지 요약에 포함시켜 버리거나, 글의 앞부분만 읽고 대충 끝내버릴 수 있습니다.
 
@@ -81,7 +81,7 @@ AI: "요약해줘"라는 말까지 요약에 포함시켜 버리거나, 글의 �
 
 <br>
 
-### (Updated) (Updated) ✅ After (태그로 감싸기)
+### (Updated) (Updated) ✅ After (태그로 감싸기) {#updated}
 
 AI는 `<text>` 안의 내용만 **"처리할 데이터"**로 인식하고, 나머지는 **"명령어"**로 명확히 구분합니다.
 

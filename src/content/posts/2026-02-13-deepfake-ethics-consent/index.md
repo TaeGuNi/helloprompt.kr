@@ -11,7 +11,7 @@ tags: [Ethics, Security, Deepfake]
 
 우리가 목격하고 있는 것은 기술적 공백(Technological Gap)이 만들어낸 무법지대입니다. 법과 규제가 기술의 속도를 따라잡지 못하는 사이, 피해자들의 얼굴과 인격은 디지털 공간에서 무단으로 도용되고 착취당하고 있습니다. "이러다 우리 뇌가 다 타버릴 것 같다(Fry our brains)"는 한탄은 과장이 아닙니다. 실재와 가상의 경계가 무너진 곳에서, 인간의 존엄성마저 데이터 조각처럼 취급받고 있기 때문입니다.
 
-### (Updated) (Updated) 기술적 공백과 책임의 부재
+### (Updated) (Updated) 기술적 공백과 책임의 부재 {#updated}
 
 누구나 쉽게 접근할 수 있는 오픈소스 모델과 원클릭 생성 툴은 악의적인 의도를 가진 이들에게 너무나 강력한 힘을 부여했습니다. 플랫폼 기업들은 '중립성'이라는 방패 뒤에 숨거나 사후 약방문식 대처에 급급했고, 입법기관은 기술의 복잡성을 이해하는 데 너무 오랜 시간을 허비했습니다.
 
@@ -28,12 +28,12 @@ tags: [Ethics, Security, Deepfake]
 **Deepfake Ethics: The Non-Consensual Hell**
 The rise of generative AI has unleashed a "non-consensual hell" through deepfake pornography. This ethical crisis thrives in the technological gap where laws lag behind innovation. It's not just about distinguishing fake from real; it is a direct assault on the fundamental value of **consent**. As the sentiment "fry our brains" suggests, the erosion of the boundary between reality and fabrication threatens human dignity itself. We need urgent legal frameworks and a restoration of ethical sensitivity to prevent technology from consuming our humanity.
 
-### (Updated) (Updated) Japanese (日本語)
+### (Updated) (Updated) Japanese (日本語) {#updated}
 
 **ディープフェイクの倫理：同意なき地獄**
 生成AIの進化は、ディープフェイク・ポルノという「同意なき地獄」を生み出しました。法整備が技術革新に追いつかない技術的空白の中で、この倫理的危機は深刻化しています。これは単に偽物を見分ける問題ではなく、**同意**という普遍的価値への攻撃です。「脳が焼き尽くされる」という嘆きは、現実と虚構の境界崩壊が人間の尊厳を脅かしていることを示しています。技術が人間性を飲み込む前に、法的規制と倫理的感性の回復が急務です。
 
-### (Updated) (Updated) Chinese (中文)
+### (Updated) (Updated) Chinese (中文) {#updated}
 
 **深度伪造伦理：未经同意的地狱**
 生成式人工智能的兴起通过深度伪造色情内容通过制造了一个“未经同意的地狱”。这种伦理危机在法律滞后于创新的技术空白中愈演愈烈。这不仅仅是区分真假的问题，更是对**同意**这一基本价值观的直接攻击。“烧毁我们的大脑”这一情绪表明，现实与虚构界限的侵蚀正威胁着人类的尊严。我们需要紧急的法律框架和伦理敏感性的恢复，以防止技术吞噬我们的人性。

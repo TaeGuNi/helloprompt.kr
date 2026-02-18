@@ -19,7 +19,7 @@ tags: ["ChatGPT", "브랜딩", "카피라이팅", "페르소나"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"ChatGPT가 쓴 글은 다 똑같아 보여요... 영혼이 없달까?"_
+_"ChatGPT가 쓴 글은 다 똑같아 보여요... 영혼이 없달까?"_
 
 AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 "~하였습니다." 같은 딱딱한 번역투, 지겨우시죠?
@@ -35,9 +35,9 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Brand Persona Cloner"
+## (Updated) (Updated) 🚀 해결책: "Brand Persona Cloner" {#updated}
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 이 프롬프트를 'Custom Instructions(맞춤 설정)'에 넣어두면 더 좋습니다.
 
@@ -95,9 +95,9 @@ AI를 쓰면서 가장 고민되는 점, 바로 **'말투'**입니다.
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (일반 요청)
+### (Updated) (Updated) ❌ Before (일반 요청) {#updated}
 
 "신제품 베개를 홍보해줘."
 → "저희 회사의 새로운 베개를 소개합니다. 이 베개는 편안함을 제공하며 수면의 질을 높여줍니다." (재미없음)

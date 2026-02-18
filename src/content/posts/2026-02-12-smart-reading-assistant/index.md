@@ -19,7 +19,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"읽기만 하고 남는 게 없다면, 그것은 독서가 아니라 안구 운동이다."_
+_"읽기만 하고 남는 게 없다면, 그것은 독서가 아니라 안구 운동이다."_
 
 정보의 홍수 속에서 우리는 '읽는 속도'보다 '이해하는 속도'가 중요합니다. 특히 어려운 전문 서적이나 외국어 논문은 읽다가 지치기 십상이죠. 이 프롬프트는 AI를 당신의 전용 '독서 튜터'로 고용하여, 핵심 내용을 씹어서 떠먹여 줍니다. 단순히 요약하는 것을 넘어, 당신의 배경지식 수준에 맞춰 설명해줍니다.
 
@@ -33,9 +33,9 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "Smart Reading Assistant"
+## (Updated) (Updated) 🚀 해결책: "Smart Reading Assistant" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 내용 파악만 필요할 때.
 
@@ -45,7 +45,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 깊이 있는 이해와 학습이 필요할 때.
 
@@ -97,15 +97,15 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (어려운 양자역학 텍스트)
 ```
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 | 구분     | 내용                                                                               |
 | :------- | :--------------------------------------------------------------------------------- |

@@ -12,8 +12,8 @@ Dans cet article, nous explorerons ce que sont les fenêtres de contexte et comm
 
 La fenêtre de contexte est la quantité de texte (entrées et sorties comprises) qu'un modèle d'IA peut traiter en une seule fois. Pensez-y comme à la "mémoire à court terme" du modèle.
 
-*   **Tokens (Jetons) :** Les ordinateurs lisent le texte par morceaux appelés "tokens". 1 000 tokens équivalent environ à 750 mots en anglais.
-*   **Taille de la Fenêtre :** Cela varie selon le modèle. Les premiers modèles avaient des limites d'environ 4 000 tokens, tandis que les modèles modernes comme Gemini 1.5 Pro peuvent gérer plus d'un million de tokens.
+- **Tokens (Jetons) :** Les ordinateurs lisent le texte par morceaux appelés "tokens". 1 000 tokens équivalent environ à 750 mots en anglais.
+- **Taille de la Fenêtre :** Cela varie selon le modèle. Les premiers modèles avaient des limites d'environ 4 000 tokens, tandis que les modèles modernes comme Gemini 1.5 Pro peuvent gérer plus d'un million de tokens.
 
 ## Pourquoi est-ce important ?
 
@@ -26,14 +26,17 @@ C'est pourquoi les instructions spécifiques de personnalité ou les contraintes
 Voici quelques conseils pour garder votre IA sur la bonne voie lors de longs projets ou sessions de codage.
 
 ### 1. Résumer et Réinitialiser (Summarize and Reset)
+
 La stratégie la plus efficace consiste à demander à l'IA de résumer la conversation jusqu'à présent, en capturant les décisions clés et les extraits de code. Ensuite, prenez ce résumé et commencez une **Nouvelle Discussion**.
 
-> "Résume les exigences clés et la structure du code que nous avons décidées jusqu'à présent. Exclus les bavardages."
+"Résume les exigences clés et la structure du code que nous avons décidées jusqu'à présent. Exclus les bavardages."
 
 ### 2. Garder le Contexte Frais
+
 Si vous avez besoin d'un accès persistant à la documentation, utilisez des outils prenant en charge la RAG (Génération Augmentée par la Récupération) ou collez manuellement les documents de référence critiques dans le chat périodiquement.
 
 ### 3. Soyez Concis
+
 La politesse est agréable, mais le verbiage brûle des tokens. Être direct et concis laisse plus d'espace dans la fenêtre pour le travail réel et le raisonnement.
 
 ## Conclusion

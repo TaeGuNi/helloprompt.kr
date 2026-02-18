@@ -9,7 +9,7 @@ description: "건축가의 시선으로 도시를 걷다. 고딕부터 현대 �
 tags: ["건축여행", "도시재생", "랜드마크", "건축디자인", "인문학"]
 ---
 
-# (Updated) (Updated) 📝 도시의 스카이라인을 읽다: 건축물 하이라이트 투어
+# (Updated) (Updated) 📝 도시의 스카이라인을 읽다: 건축물 하이라이트 투어 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"이 건물은 왜 이렇게 생겼을까? 누가 지었을까?"_
 
 ---
 
-## (Updated) (Updated) 🚀 해결책: "건축 도슨트"
+## (Updated) (Updated) 🚀 해결책: "건축 도슨트" {#updated}
 
-### (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"이 건물은 왜 이렇게 생겼을까? 누가 지었을까?"_
 
 <br>
 
-### (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,15 +73,15 @@ _"이 건물은 왜 이렇게 생겼을까? 누가 지었을까?"_
 
 ---
 
-## (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "바르셀로나 건축물 추천."
 
-### (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과) {#updated}
 
 (가우디의 '사그라다 파밀리아'는 기본, 장 누벨의 '아그바 타워'와 미스 반 데어 로에의 '바르셀로나 파빌리온' 추천. 미니멀리즘의 정수를 느끼는 법 가이드)
 

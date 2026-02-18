@@ -19,8 +19,8 @@ tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 페이지 진짜 좋은데... 타이핑하기 귀찮다. 그냥 접어두자."_
-> (결과: 다시는 안 펼쳐봄)
+_"이 페이지 진짜 좋은데... 타이핑하기 귀찮다. 그냥 접어두자."_
+(결과: 다시는 안 펼쳐봄)
 
 감동적인 문구, 손으로 치지 말고 **찍으세요.** AI가 텍스트로 바꿔주고(OCR), 그 문장의 숨은 의미를 해석해 주고, 심지어 **"이 내용을 삶에 어떻게 적용할지"** 액션 플랜까지 짜줍니다.
 
@@ -34,7 +34,7 @@ tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Reading Mate Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Reading Mate Prompt" {#updated}
 
 ### (Updated) (Updated) (Updated) 🥉 Basic Version (OCR 및 요약) {#ocr}
 
@@ -45,7 +45,7 @@ tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (서평 생성 및 확장)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (서평 생성 및 확장) {#updated}
 
 읽은 척(?) 할 수 있는 고퀄리티 독서 노트.
 
@@ -87,17 +87,17 @@ AI가 던진 질문("당신이라면 이 상황에서 어떻게 했을까요?")�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (눈으로만 읽음)
+### (Updated) (Updated) (Updated) ❌ Before (눈으로만 읽음) {#updated}
 
 "좋은 말이네." (책 덮음) -> 3일 뒤: "그 책 내용이 뭐였더라?" (백지 📄)
 
 ### (Updated) (Updated) (Updated) ✅ After (AI 독서 노트) {#ai}
 
-> **AI:** "이 챕터의 핵심은 '실행력'입니다. 오늘 당장 작은 목표 하나를 세워보세요."
-> **나:** "그래, 오늘부터 블로그 글 하나 쓰자."
-> (결과: 인생이 바뀜 🚀)
+**AI:** "이 챕터의 핵심은 '실행력'입니다. 오늘 당장 작은 목표 하나를 세워보세요."
+**나:** "그래, 오늘부터 블로그 글 하나 쓰자."
+(결과: 인생이 바뀜 🚀)
 
 ---
 

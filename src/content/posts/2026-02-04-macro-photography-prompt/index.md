@@ -9,7 +9,7 @@ description: "눈에 보이지 않는 미세한 디테일까지 포착하는 접
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 
-# (Updated) 📝 작은 우주: Macro Photography
+# (Updated) (Updated) 📝 작은 우주: Macro Photography
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"곤충의 눈이나 물방울 속의 세상을 아주 크게 보고 싶어."_
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. `Macro photography`, `Macro shot`이 핵심 키워드입니다.
 2. `Extreme close-up`으로 거리를 더 좁히세요.
@@ -33,9 +33,9 @@ _"곤충의 눈이나 물방울 속의 세상을 아주 크게 보고 싶어."_
 
 ---
 
-## (Updated) 🚀 해결책: "Insect Eye Prompt"
+## (Updated) (Updated) 🚀 해결책: "Insect Eye Prompt"
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"곤충의 눈이나 물방울 속의 세상을 아주 크게 보고 싶어."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -62,23 +62,23 @@ _"곤충의 눈이나 물방울 속의 세상을 아주 크게 보고 싶어."_
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) (Updated) ❌ Before (입력)
 
 `Dragonfly eye.`
 
 (결과: 잠자리 얼굴 전체가 보이거나 몸통까지 나오는 일반적인 사진)
 
-### (Updated) ✅ After (결과)
+### (Updated) (Updated) ✅ After (결과)
 
 `Macro photography` 프롬프트 적용
 
@@ -86,14 +86,14 @@ _"곤충의 눈이나 물방울 속의 세상을 아주 크게 보고 싶어."_
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -103,11 +103,15 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 작은 것일수록 크게 보면 아름답습니다. 매크로 렌즈로 새로운 세상을 발견하세요.
 
 이제 칼퇴하세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

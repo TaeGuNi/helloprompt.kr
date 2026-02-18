@@ -33,9 +33,9 @@ tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 
 ---
 
-## (Updated) 🚀 해결책: "Fine-tuning Master Prompt"
+## (Updated) 🚀 해결책: "Fine-tuning Master Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (데이터셋 생성)
+### (Updated) 🥉 Basic Version (데이터셋 생성) {#updated}
 
 학습시킬 데이터가 없을 때 AI에게 시키기.
 
@@ -45,7 +45,7 @@ tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (학습 파이프라인 구축)
+### (Updated) 🥇 Pro Version (학습 파이프라인 구축) {#updated}
 
 코랩에서 돌릴 학습 코드 생성.
 
@@ -87,13 +87,13 @@ tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (기본 Llama 3) {#llama-3}
 
 "운동 좀 알려줘." -> "운동은 건강에 좋습니다. 유산소와 근력을 병행하세요." (교과서 답변 🤖)
 
-### (Updated) ✅ After (파인튜닝 헬스 봇)
+### (Updated) ✅ After (파인튜닝 헬스 봇) {#updated}
 
 "운동 좀 알려줘." -> "회원님! 오늘 컨디션은 어떠세요? 일단 스쿼트 20개부터 하고 이야기합시다. 할 수 있어요! 🔥" (PT 쌤 빙의 💪)
 

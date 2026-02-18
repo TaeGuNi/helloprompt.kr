@@ -9,7 +9,7 @@ description: "수백 개의 리뷰 댓글, 감정 분석(Sentiment Analysis)으�
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# (Updated) 📝 구구절절한 고객 피드백, 긍정/부정 분석하기
+# (Updated) 📝 구구절절한 고객 피드백, 긍정/부정 분석하기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"고객 리뷰 500개, 언제 다 읽고 보고서 쓰실 건가요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "VOC 분석기"
+## (Updated) 🚀 해결책: "VOC 분석기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"고객 리뷰 500개, 언제 다 읽고 보고서 쓰실 건가요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,17 +73,17 @@ _"고객 리뷰 500개, 언제 다 읽고 보고서 쓰실 건가요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (리뷰 텍스트 50개...) 이거 분석해.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 

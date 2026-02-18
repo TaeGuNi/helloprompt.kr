@@ -9,7 +9,7 @@ description: "메시지 큐(Message Queue) 도입을 고민 중이라면? 처리
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 ---
 
-# (Updated) 📨 Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심
+# (Updated) 📨 Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심 {#updated}
 
 - **🎯 추천 대상:** MSA 도입 후 서비스 간 통신이 꼬여버린 백엔드 개발자, 실시간 로그 처리가 필요한 데이터 엔지니어
 - **⏱️ 소요 시간:** 5분 (비교 분석)
@@ -33,9 +33,9 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 🚀 해결책: "MQ Architect Prompt"
+## (Updated) 🚀 해결책: "MQ Architect Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (개념 비교)
+### (Updated) 🥉 Basic Version (개념 비교) {#updated}
 
 뭘 써야 할지 감이 안 올 때.
 
@@ -43,7 +43,7 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (아키텍처 설계)
+### (Updated) 🥇 Pro Version (아키텍처 설계) {#updated}
 
 실제 시스템에 도입할 때.
 
@@ -91,13 +91,13 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (HTTP 통신) {#http}
 
 주문 서버 -> (네트워크 오류) -> 배송 서버 (요청 실패, 주문 증발 😱)
 
-### (Updated) ✅ After (메시지 큐)
+### (Updated) ✅ After (메시지 큐) {#updated}
 
 주문 서버 -> **MQ(보관)** -> (나중에) -> 배송 서버
 "배송 서버가 죽었네? 살아나면 그때 줄게." (데이터 유실 0건 🛡️)

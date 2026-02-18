@@ -9,7 +9,7 @@ description: "영상 하나 찍고 끝? 스크립트를 추출해서 블로그, 
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 
-# (Updated) 📝 유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈)
+# (Updated) 📝 유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈) {#updated}
 
 - **🎯 추천 대상:** 유튜브 크리에이터, 브랜드 마케터, 지식 창업가
 - **⏱️ 소요 시간:** 4시간 → 20분
@@ -35,7 +35,7 @@ tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 
 ## (Updated) 🚀 해결책: "콘텐츠 연금술사(Content Alchemist) 프롬프트" {#content-alchemist}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 스크립트를 블로그 글로 단순히 변환합니다.
 
@@ -46,7 +46,7 @@ tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 하나의 소스를 여러 채널에 맞는 톤과 형식으로 동시에 변환합니다.
 
@@ -106,13 +106,13 @@ tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (스크립트 원본)
+### (Updated) ❌ Before (스크립트 원본) {#updated}
 
 "자, 여러분, 오늘은 제가 진짜 꿀팁 하나 가져왔는데요, 이게 뭐냐면..." (산만함)
 
-### (Updated) ✅ After (블로그/인스타 변환)
+### (Updated) ✅ After (블로그/인스타 변환) {#updated}
 
 > **[블로그]** 오늘 소개할 핵심 전략은 다음과 같습니다.
 > **[인스타]** 🔥 오늘 꿀팁 요약! (저장 필수 📌)

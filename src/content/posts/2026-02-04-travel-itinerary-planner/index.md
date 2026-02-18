@@ -9,7 +9,7 @@ description: "취향, 동선, 체력까지 고려한 완벽한 여행 계획표�
 tags: ["여행", "일정", "플래너", "해외여행"]
 ---
 
-# (Updated) 📝 J보다 꼼꼼한 AI 초개인화 여행 일정 플래너
+# (Updated) 📝 J보다 꼼꼼한 AI 초개인화 여행 일정 플래너 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"비행기 티켓은 끊었는데 계획이 없으신가요? 맛집 줄 서다 
 
 ---
 
-## (Updated) 🚀 해결책: "퍼스널 트래블 메이커"
+## (Updated) 🚀 해결책: "퍼스널 트래블 메이커" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"비행기 티켓은 끊었는데 계획이 없으신가요? 맛집 줄 서다 
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,15 +79,15 @@ _"비행기 티켓은 끊었는데 계획이 없으신가요? 맛집 줄 서다 
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "오사카 2박 3일 일정 짜줘."
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 (부모님 체력을 고려해 오전에 주요 관광, 오후엔 온천/쇼핑, 저녁엔 예약 가능한 맛집으로 구성된 여유로운 동선표)
 

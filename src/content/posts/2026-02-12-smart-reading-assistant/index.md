@@ -33,9 +33,9 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 ---
 
-## (Updated) 🚀 해결책: "Smart Reading Assistant"
+## (Updated) 🚀 해결책: "Smart Reading Assistant" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 내용 파악만 필요할 때.
 
@@ -45,7 +45,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 깊이 있는 이해와 학습이 필요할 때.
 
@@ -97,15 +97,15 @@ AI에게 요약만 시키면 뻔한 말만 합니다. "비유를 들어달라"�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 (어려운 양자역학 텍스트)
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 | 구분     | 내용                                                                               |
 | :------- | :--------------------------------------------------------------------------------- |

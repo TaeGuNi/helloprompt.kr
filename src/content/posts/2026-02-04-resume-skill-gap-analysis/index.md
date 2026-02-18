@@ -33,9 +33,9 @@ _"이 회사, 지원해도 될까? 내가 부족한 게 뭘까?"_
 
 ---
 
-## (Updated) 🚀 해결책: "스킬 갭 분석기"
+## (Updated) 🚀 해결책: "스킬 갭 분석기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"이 회사, 지원해도 될까? 내가 부족한 게 뭘까?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,18 +77,18 @@ _"이 회사, 지원해도 될까? 내가 부족한 게 뭘까?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (막연한 고민)
+### (Updated) ❌ Before (막연한 고민) {#updated}
 
 ```text
 "아, 이 회사는 영어를 잘해야 하네? 난 토익 점수 없는데... 떨어지려나?
 일단 그냥 지원해보자." (대비 없음)
 ```
 
-### (Updated) ✅ After (분석 결과)
+### (Updated) ✅ After (분석 결과) {#updated}
 
 ```text
 [분석 결과]

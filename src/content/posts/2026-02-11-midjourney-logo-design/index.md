@@ -9,7 +9,7 @@ description: "스타트업 로고, 앱 아이콘, 유튜브 프로필... 디자�
 tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 ---
 
-# (Updated) 🎨 Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기
+# (Updated) 🎨 Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기 {#updated}
 
 - **🎯 추천 대상:** 로고 하나에 50만 원 태우기 아까운 초기 창업가, 내 사이드 프로젝트에 그럴싸한 간판을 달고 싶은 개발자
 - **⏱️ 소요 시간:** 1분
@@ -33,9 +33,9 @@ tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 
 ---
 
-## (Updated) 🚀 해결책: "Logo Generator Prompt"
+## (Updated) 🚀 해결책: "Logo Generator Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (심플 심볼)
+### (Updated) 🥉 Basic Version (심플 심볼) {#updated}
 
 앱 아이콘이나 파비콘용.
 
@@ -44,7 +44,7 @@ tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (브랜드 아이덴티티)
+### (Updated) 🥇 Pro Version (브랜드 아이덴티티) {#updated}
 
 스타트업 메인 로고.
 
@@ -85,13 +85,13 @@ tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (그림판)
+### (Updated) ❌ Before (그림판) {#updated}
 
 (동그라미 그리고 페인트통 부은 듯한 처참한 결과물 🎨)
 
-### (Updated) ✅ After (미드저니)
+### (Updated) ✅ After (미드저니) {#updated}
 
 > **AI:** (황금비율이 적용된 세련된 기하학적 로고 4개 투척)
 > "이 중에 골라보세요 주인님."

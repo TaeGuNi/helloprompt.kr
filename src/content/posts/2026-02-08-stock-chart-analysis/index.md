@@ -9,7 +9,7 @@ description: "보조지표 볼 줄 모르는 주린이를 위한 AI 애널리스
 tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
 ---
 
-# (Updated) 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기
+# (Updated) 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기 {#updated}
 
 - **🎯 추천 대상:** "이거 지금 들어가도 돼?" 맨날 친구한테 묻는 주린이, 차트만 보면 까막눈이 되는 투자자
 - **⏱️ 소요 시간:** 10초 (캡처 -> 업로드)
@@ -34,9 +34,9 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 ---
 
-## (Updated) 🚀 해결책: "Chart Vision Analyst"
+## (Updated) 🚀 해결책: "Chart Vision Analyst" {#updated}
 
-### (Updated) 🥉 Basic Version (단순 패턴 인식)
+### (Updated) 🥉 Basic Version (단순 패턴 인식) {#updated}
 
 지금 추세가 상승인지 하락인지 궁금할 때.
 
@@ -45,7 +45,7 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가급 기술적 분석)
+### (Updated) 🥇 Pro Version (전문가급 기술적 분석) {#updated}
 
 매수/매도 시점을 정밀하게 잡고 싶을 때.
 
@@ -73,11 +73,11 @@ _"삼성전자 차트가... 이게 쌍바닥인가? 헤드앤숄더인가? 모�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (뇌동매매)
+### (Updated) ❌ Before (뇌동매매) {#updated}
 
 "오, 빨간 불기둥! 뜬다! 가즈아!" (시장가 매수 -> 1분 뒤 폭락)
 

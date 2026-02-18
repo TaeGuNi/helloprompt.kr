@@ -9,7 +9,7 @@ description: "MS가 만든 멀티 에이전트 프레임워크 AutoGen. 개발�
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 
-# (Updated) 🤖 AutoGen 입문: AI 에이전트끼리 대화하게 만들기
+# (Updated) 🤖 AutoGen 입문: AI 에이전트끼리 대화하게 만들기 {#updated}
 
 - **🎯 추천 대상:** 혼자 일하기 심심한 1인 개발자, 복잡한 업무를 여러 단계로 나눠서 처리하고 싶은 자동화 덕후
 - **⏱️ 소요 시간:** 20분 (환경 설정 및 데모 실행)
@@ -33,9 +33,9 @@ tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 
 ---
 
-## (Updated) 🚀 해결책: "Multi-Agent Setup Prompt"
+## (Updated) 🚀 해결책: "Multi-Agent Setup Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (코딩 듀오)
+### (Updated) 🥉 Basic Version (코딩 듀오) {#updated}
 
 개발자와 관리자 2명 만들기.
 
@@ -47,7 +47,7 @@ tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (가상 회사 놀이)
+### (Updated) 🥇 Pro Version (가상 회사 놀이) {#updated}
 
 기획자, 개발자, 디자이너 3인 체제.
 
@@ -90,9 +90,9 @@ UserProxy 에이전트는 도커(Docker) 컨테이너 안에서 실제로 코드
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (혼자 코딩)
+### (Updated) ❌ Before (혼자 코딩) {#updated}
 
 GPT-4에게 "뱀 게임 짜줘" -> 코드 줌 -> 실행 안 됨 -> 내가 디버깅함 -> 귀찮아서 포기. 🤯
 

@@ -9,7 +9,7 @@ description: "이직만이 답은 아닙니다. 현 직장에서 나의 성과�
 tags: ["연봉인상", "협상메일", "성과공유", "승진요청"]
 ---
 
-# (Updated) 📝 현 직장에서 연봉 올리기: '연봉 인상 요청' 이메일 작성법
+# (Updated) 📝 현 직장에서 연봉 올리기: '연봉 인상 요청' 이메일 작성법 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"알아서 올려주겠지... 라고 생각하다가 3년째 동결이신가요
 
 ---
 
-## (Updated) 🚀 해결책: "Salary Review Requester"
+## (Updated) 🚀 해결책: "Salary Review Requester" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"알아서 올려주겠지... 라고 생각하다가 3년째 동결이신가요
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,18 +79,18 @@ _"알아서 올려주겠지... 라고 생각하다가 3년째 동결이신가요
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (감정 호소)
+### (Updated) ❌ Before (감정 호소) {#updated}
 
 ```text
 "팀장님, 저 요즘 진짜 힘들게 일하는데 연봉 좀 올려주시면 안 될까요?
 옆 팀 민수는 이번에 올랐다던데..." (최악의 비교질)
 ```
 
-### (Updated) ✅ After (논리적 설득)
+### (Updated) ✅ After (논리적 설득) {#updated}
 
 ```text
 제목: [성과 리뷰 요청] 2025년도 상반기 업무 성과 및 연봉 조정 면담 요청 건

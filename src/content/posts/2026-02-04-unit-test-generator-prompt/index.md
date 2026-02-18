@@ -9,7 +9,7 @@ description: "지루하고 귀찮은 유닛 테스트(Unit Test) 작성을 AI에
 tags: ["테스트코드", "TDD", "Jest", "PyTest", "QA"]
 ---
 
-# (Updated) 📝 테스트 코드 작성, 5분 만에 끝내는 프롬프트
+# (Updated) 📝 테스트 코드 작성, 5분 만에 끝내는 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -35,9 +35,9 @@ _"코드 짜기도 바쁜데 테스트 코드를 언제 다 만들어요?"_
 
 ---
 
-## (Updated) 🚀 해결책: "유닛 테스트 생성기"
+## (Updated) 🚀 해결책: "유닛 테스트 생성기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ _"코드 짜기도 바쁜데 테스트 코드를 언제 다 만들어요?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -81,11 +81,11 @@ _"코드 짜기도 바쁜데 테스트 코드를 언제 다 만들어요?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력 코드)
+### (Updated) ❌ Before (입력 코드) {#updated}
 
 ```javascript
 function divide(a, b) {
@@ -94,7 +94,7 @@ function divide(a, b) {
 }
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```javascript
 describe("divide 함수 테스트", () => {

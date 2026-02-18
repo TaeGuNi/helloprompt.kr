@@ -9,7 +9,7 @@ description: "React, Vue, Tailwind CSS 등 원하는 기술 스택으로 UI 컴�
 tags: ["프론트엔드", "React", "Vue", "Tailwind", "UI컴포넌트"]
 ---
 
-# (Updated) 📝 프론트엔드 컴포넌트, 디자인만 설명하면 코드 완성
+# (Updated) 📝 프론트엔드 컴포넌트, 디자인만 설명하면 코드 완성 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -35,9 +35,9 @@ _"카드 UI 하나 만드는 데 div를 몇 번 감싸야 하는 거야?"_
 
 ---
 
-## (Updated) 🚀 해결책: "UI 컴포넌트 공장"
+## (Updated) 🚀 해결책: "UI 컴포넌트 공장" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ _"카드 UI 하나 만드는 데 div를 몇 번 감싸야 하는 거야?"_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,11 +79,11 @@ _"카드 UI 하나 만드는 데 div를 몇 번 감싸야 하는 거야?"_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력 설명)
+### (Updated) ❌ Before (입력 설명) {#updated}
 
 "상품 카드 만들어줘. 위에는 상품 사진, 그 밑에 상품명과 가격. 그리고 장바구니 담기 버튼이랑 하트 버튼 넣어줘."
 

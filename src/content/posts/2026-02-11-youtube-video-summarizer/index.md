@@ -33,9 +33,9 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 ---
 
-## (Updated) 🚀 해결책: "Video Summarizer Prompt"
+## (Updated) 🚀 해결책: "Video Summarizer Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (핵심 요약)
+### (Updated) 🥉 Basic Version (핵심 요약) {#updated}
 
 내용 파악만 빠르게 하고 싶을 때.
 
@@ -43,7 +43,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (타임스탬프 학습 노트)
+### (Updated) 🥇 Pro Version (타임스탬프 학습 노트) {#updated}
 
 강의나 정보성 영상을 공부할 때.
 
@@ -84,13 +84,13 @@ PC에서는 **'YouTube Summary with ChatGPT'** 같은 크롬 확장 프로그램
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (20분 시청)
+### (Updated) ❌ Before (20분 시청) {#updated}
 
 (딴짓하다가 놓쳐서 되감기... 광고 보고... 결국 다 보고 나니 "별거 없네" 🤬)
 
-### (Updated) ✅ After (10초 요약)
+### (Updated) ✅ After (10초 요약) {#updated}
 
 > **AI:** "이 영상은 `옵시디언` 설치법을 다룹니다.
 

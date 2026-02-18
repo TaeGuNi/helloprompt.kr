@@ -9,7 +9,7 @@ description: "원하는 말투나 형식이 안 나와서 답답하신가요? �
 tags: ["Few-Shot", "고급팁", "예시"]
 ---
 
-# (Updated) 🎯 백 마디 설명보다 강력한 "예시"의 힘
+# (Updated) 🎯 백 마디 설명보다 강력한 "예시"의 힘 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -39,7 +39,7 @@ AI를 가르칠 때 가장 흔한 실수는 **"설명(Instruction)"만 길게 �
 
 ## (Updated) 🚀 해결책: "입력과 출력 쌍(Pair) 보여주기" {#pair}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -48,7 +48,7 @@ AI를 가르칠 때 가장 흔한 실수는 **"설명(Instruction)"만 길게 �
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -78,11 +78,11 @@ AI에게 "이런 식으로 해"라고 샘플을 1~3개 정도 보여주세요.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (설명만 했을 때)
+### (Updated) ❌ Before (설명만 했을 때) {#updated}
 
 입력: "어벤져스 엔드게임 한 줄 평 써줘. 좀 감성적으로."
 
@@ -92,7 +92,7 @@ AI: 어벤져스 엔드게임은 정말 감동적인 영화입니다. 영웅들�
 
 <br>
 
-### (Updated) ✅ After (퓨샷 예시를 줬을 때)
+### (Updated) ✅ After (퓨샷 예시를 줬을 때) {#updated}
 
 AI가 예시의 '톤앤매너'를 완벽하게 복제합니다.
 

@@ -9,7 +9,7 @@ description: "도커 유료화 이후 대안으로 떠오른 Podman. 데몬리�
 tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 ---
 
-# (Updated) 🐳 Docker vs Podman: 2026년 컨테이너 승자는?
+# (Updated) 🐳 Docker vs Podman: 2026년 컨테이너 승자는? {#updated}
 
 - **🎯 추천 대상:** 도커 데스크탑 유료화에 분노한 개발자, 더 가볍고 안전한 컨테이너 환경을 찾는 시스템 엔지니어
 - **⏱️ 소요 시간:** 5분 (설치 및 비교)
@@ -33,9 +33,9 @@ tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 
 ---
 
-## (Updated) 🚀 해결책: "Migration Assistant Prompt"
+## (Updated) 🚀 해결책: "Migration Assistant Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (명령어 호환성 체크)
+### (Updated) 🥉 Basic Version (명령어 호환성 체크) {#updated}
 
 기존 도커 명령어가 파드맨에서도 먹히는지 궁금할 때.
 
@@ -89,7 +89,7 @@ Podman은 `podman generate kube` 명령어 한 방이면 **K8s YAML 파일**을 
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (Docker)
 

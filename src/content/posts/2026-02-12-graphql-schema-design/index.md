@@ -9,7 +9,7 @@ description: "오버페칭(Over-fetching) 없는 깔끔한 API. 프론트엔드�
 tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
 ---
 
-# (Updated) 🕸️ GraphQL 스키마 설계: REST API에서 넘어오기
+# (Updated) 🕸️ GraphQL 스키마 설계: REST API에서 넘어오기 {#updated}
 
 - **🎯 추천 대상:** "API 명세서 좀 그만 고치고 싶다" 외치는 백엔드 개발자, "데이터가 너무 많이 와서 앱이 느려요" 불평하는 프론트엔드 개발자
 - **⏱️ 소요 시간:** 10분 (스키마 작성)
@@ -33,7 +33,7 @@ REST API의 고질병, **오버페칭(Over-fetching)**입니다. GraphQL을 쓰�
 
 ---
 
-## (Updated) 🚀 해결책: "Schema Designer Prompt"
+## (Updated) 🚀 해결책: "Schema Designer Prompt" {#updated}
 
 ### (Updated) 🥉 Basic Version (REST 변환) {#rest}
 
@@ -90,7 +90,7 @@ AI에게 **"쿼리 복잡도 제한(Query Complexity Limit) 설정하는 법"**�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (REST)
 

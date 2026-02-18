@@ -9,7 +9,7 @@ description: "정부지원사업 합격의 8할은 목차. PSST(문제-해결-�
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# (Updated) 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계
+# (Updated) 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계 {#updated}
 
 - **🎯 추천 대상:** 아이디어는 있는데 문서 작업이 막막한 예비 창업가, "PSST가 뭐예요?" 묻는 초보 대표님
 - **⏱️ 소요 시간:** 10분 (초안 완성)
@@ -33,9 +33,9 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 
 ---
 
-## (Updated) 🚀 해결책: "Government Grant Writer"
+## (Updated) 🚀 해결책: "Government Grant Writer" {#updated}
 
-### (Updated) 🥉 Basic Version (아이디어 구체화)
+### (Updated) 🥉 Basic Version (아이디어 구체화) {#updated}
 
 내 생각이 말이 되는지 확인.
 
@@ -89,13 +89,13 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (일기장)
+### (Updated) ❌ Before (일기장) {#updated}
 
 "제가 자취를 하는데 음식물 쓰레기 버리는 게 너무 귀찮아서 이 앱을 만들고 싶습니다." (광탈 📉)
 
-### (Updated) ✅ After (사업계획서)
+### (Updated) ✅ After (사업계획서) {#updated}
 
 > **[1-1. 문제 인식]**
 

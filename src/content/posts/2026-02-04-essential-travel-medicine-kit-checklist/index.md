@@ -9,7 +9,7 @@ description: "현지 약국 찾아 헤매지 마세요. 상황별/증상별 필�
 tags: ["비상약", "응급키트", "해외여행준비", "건강관리"]
 ---
 
-# (Updated) 📝 아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트
+# (Updated) 📝 아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"해외에서 배탈 났는데 약 이름도 모르고 약국 문도 닫았다�
 
 ---
 
-## (Updated) 🚀 해결책: "트래블 닥터"
+## (Updated) 🚀 해결책: "트래블 닥터" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"해외에서 배탈 났는데 약 이름도 모르고 약국 문도 닫았다�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"해외에서 배탈 났는데 약 이름도 모르고 약국 문도 닫았다�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "여행 비상약 뭐 챙겨?"
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 (지사제(로페라미드), 해열진통제(아세트아미노펜), 벌레 물린 데 바르는 약, 방수 밴드, 그리고 "I have a stomach ache(배가 아파요)" 같은 영어 문장 카드)
 

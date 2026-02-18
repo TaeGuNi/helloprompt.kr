@@ -9,7 +9,7 @@ description: "복잡한 칼로리 어플 입력은 이제 그만! AI에게 텍�
 tags: ["매크로", "영양소", "다이어트", "ChatGPT", "식단기록"]
 ---
 
-# (Updated) 📊 먹은 음식 사진만 찍으면 끝? AI 매크로 영양소 계산기
+# (Updated) 📊 먹은 음식 사진만 찍으면 끝? AI 매크로 영양소 계산기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"닭가슴살 100g, 고구마 150g... 매번 저울에 달고 어플에 검색�
 
 ---
 
-## (Updated) 🚀 해결책: "매크로 추적 비서"
+## (Updated) 🚀 해결책: "매크로 추적 비서" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"닭가슴살 100g, 고구마 150g... 매번 저울에 달고 어플에 검색�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -75,15 +75,15 @@ _(이미지 업로드가 가능한 AI 모델을 사용하면 더 좋습니다)_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "제육덮밥 칼로리 얼마야?" -> (단순히 700kcal라고 대답)
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 **[영양 성분 분석]**
 | 항목 | 섭취량 | 목표량 | 잔여량 |

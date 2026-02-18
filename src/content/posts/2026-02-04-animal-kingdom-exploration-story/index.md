@@ -9,7 +9,7 @@ description: "생태 지식과 상상력을 동시에 잡는 동물 친구들의
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) 📝 잠들기 전 떠나는 '신비한 동물 사전' 여행
+# (Updated) 📝 잠들기 전 떠나는 '신비한 동물 사전' 여행 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"사자는 잘 때 어떻게 잘까? 기린은 꿈을 꿀까? 아이의 호기�
 
 ---
 
-## (Updated) 🚀 해결책: "숲속 마을 이야기꾼"
+## (Updated) 🚀 해결책: "숲속 마을 이야기꾼" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"사자는 잘 때 어떻게 잘까? 기린은 꿈을 꿀까? 아이의 호기�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"사자는 잘 때 어떻게 잘까? 기린은 꿈을 꿀까? 아이의 호기�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 ```text
 북극곰 이야기 해줘.
 ```
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 ```text
 포비는 차가운 바닷물 속에 '첨벙!' 뛰어들었어요. 북극곰은 수영 선수만큼 수영을 잘하거든요. 앞발로 물살을 '휘익 휘익' 가르며 나아갔죠.

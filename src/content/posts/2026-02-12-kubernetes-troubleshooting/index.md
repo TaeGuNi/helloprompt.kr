@@ -33,9 +33,9 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 ---
 
-## (Updated) 🚀 해결책: "K8s Doctor Prompt"
+## (Updated) 🚀 해결책: "K8s Doctor Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (에러 해석)
+### (Updated) 🥉 Basic Version (에러 해석) {#updated}
 
 로그가 무슨 말인지 모를 때.
 
@@ -45,7 +45,7 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (복구 스크립트 생성)
+### (Updated) 🥇 Pro Version (복구 스크립트 생성) {#updated}
 
 장애를 빠르게 복구하고 싶을 때.
 
@@ -93,9 +93,9 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (무한 삽질)
+### (Updated) ❌ Before (무한 삽질) {#updated}
 
 "어... 왜 안 뜨지? 노드 재부팅 해볼까?" (서비스 중단 🚨)
 

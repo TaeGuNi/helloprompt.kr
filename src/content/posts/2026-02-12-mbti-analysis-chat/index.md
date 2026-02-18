@@ -9,7 +9,7 @@ description: "썸남썸녀의 카톡 말투, AI가 분석하면 성격이 보인
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---
 
-# (Updated) 🧩 MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기
+# (Updated) 🧩 MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기 {#updated}
 
 - **🎯 추천 대상:** 소개팅 상대의 MBTI가 궁금해 미치겠는 사람, 친구랑 카톡 하다가 "너 T야?" 소리 들은 사람
 - **⏱️ 소요 시간:** 1분 (텍스트 분석)
@@ -33,7 +33,7 @@ tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 
 ---
 
-## (Updated) 🚀 해결책: "MBTI Scanner Prompt"
+## (Updated) 🚀 해결책: "MBTI Scanner Prompt" {#updated}
 
 ### (Updated) 🥉 Basic Version (T/F 판별) {#t-f}
 
@@ -44,7 +44,7 @@ tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (16가지 유형 추론)
+### (Updated) 🥇 Pro Version (16가지 유형 추론) {#updated}
 
 종합 분석 리포트.
 
@@ -93,13 +93,13 @@ AI가 "B는 계획(J)을 중요하게 생각하네요. 불확실한 상황을 �
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (오해)
+### (Updated) ❌ Before (오해) {#updated}
 
 "왜 자꾸 꼬치꼬치 캐묻지? 피곤한 스타일이네." (손절 각 💔)
 
-### (Updated) ✅ After (이해)
+### (Updated) ✅ After (이해) {#updated}
 
 > **AI:** "상대방은 ESTJ 성향이 강합니다. 효율을 중시해서 정보를 확실히 하고 싶은 거예요. 구체적인 계획을 제안하면 좋아할 겁니다."
 > **나:** "아하! 그럼 맛집 리스트를 보내줘야겠다."

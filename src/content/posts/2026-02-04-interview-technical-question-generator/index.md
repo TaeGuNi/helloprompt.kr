@@ -33,9 +33,9 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 ---
 
-## (Updated) 🚀 해결책: "Tech Interview Q&A Generator"
+## (Updated) 🚀 해결책: "Tech Interview Q&A Generator" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,18 +72,18 @@ _"CS 지식, 마케팅 용어, 디자인 툴... 도대체 어디까지 물어볼
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (막연한 준비)
+### (Updated) ❌ Before (막연한 준비) {#updated}
 
 ```text
 "자바 질문 나오겠지? 책이나 좀 읽어보자."
 (범위가 너무 넓어서 집중이 안 됨)
 ```
 
-### (Updated) ✅ After (타겟팅된 준비)
+### (Updated) ✅ After (타겟팅된 준비) {#updated}
 
 ```text
 [질문 1] Spring Boot의 Auto Configuration 원리에 대해 설명해보세요.

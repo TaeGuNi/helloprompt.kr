@@ -9,7 +9,7 @@ description: "특별한 기구 없이 집에서 내 몸만으로 만드는 기�
 tags: ["홈트", "운동루틴", "30일챌린지", "ChatGPT", "맨몸운동"]
 ---
 
-# (Updated) 🏠 작심삼일 탈출! AI와 함께하는 30일 홈트 챌린지
+# (Updated) 🏠 작심삼일 탈출! AI와 함께하는 30일 홈트 챌린지 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"비싼 옷걸이가 된 실내 자전거는 이제 그만. 내 의지력을 AI
 
 ---
 
-## (Updated) 🚀 해결책: "30일 홈트 코치"
+## (Updated) 🚀 해결책: "30일 홈트 코치" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"비싼 옷걸이가 된 실내 자전거는 이제 그만. 내 의지력을 AI
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -75,15 +75,15 @@ _"비싼 옷걸이가 된 실내 자전거는 이제 그만. 내 의지력을 AI
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력)
+### (Updated) ❌ Before (입력) {#updated}
 
 "집에서 할 운동 추천해줘." -> (무턱대고 버피 100개 추천 -> 층간소음 민원 발생)
 
-### (Updated) ✅ After (결과)
+### (Updated) ✅ After (결과) {#updated}
 
 **[1주 차 루틴]**
 | Day | 운동 프로그램 (20분) | 세트/횟수 |

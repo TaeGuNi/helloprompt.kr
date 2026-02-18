@@ -9,7 +9,7 @@ description: "조회수 터지는 숏폼 공식(Hook-Body-CTA)을 AI에게 학�
 tags: ["유튜브", "쇼츠", "대본작성", "크리에이터", "숏폼"]
 ---
 
-# (Updated) 🎬 유튜브 쇼츠 공장: 주제만 주면 대본+장면 묘사 30초 컷
+# (Updated) 🎬 유튜브 쇼츠 공장: 주제만 주면 대본+장면 묘사 30초 컷 {#updated}
 
 - **🎯 추천 대상:** 1일 1영상 하고 싶은데 아이디어가 고갈된 유튜버, 부업으로 쇼츠 채널 키우는 직장인
 - **⏱️ 소요 시간:** 30초
@@ -33,9 +33,9 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 ---
 
-## (Updated) 🚀 해결책: "Viral Shorts Generator"
+## (Updated) 🚀 해결책: "Viral Shorts Generator" {#updated}
 
-### (Updated) 🥉 Basic Version (아이디어 발상)
+### (Updated) 🥉 Basic Version (아이디어 발상) {#updated}
 
 소재가 없을 때 브레인스토밍용.
 
@@ -45,7 +45,7 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (촬영용 큐시트 생성)
+### (Updated) 🥇 Pro Version (촬영용 큐시트 생성) {#updated}
 
 카메라만 켜고 바로 읽으면 되는 완벽한 대본.
 
@@ -75,11 +75,11 @@ _"아... 내일 올릴 쇼츠 뭐 찍지? 대본 언제 쓰냐..."_
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (그냥 씀)
+### (Updated) ❌ Before (그냥 씀) {#updated}
 
 안녕하세요 여러분~ 오늘은 다이소에서 좋은 물건을 소개해드릴게요. 첫 번째는... (이미 시청자는 스크롤 넘김 👋)
 

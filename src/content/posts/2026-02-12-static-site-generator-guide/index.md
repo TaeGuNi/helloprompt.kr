@@ -33,9 +33,9 @@ tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 
 ---
 
-## (Updated) 🚀 해결책: "SSG Picker Prompt"
+## (Updated) 🚀 해결책: "SSG Picker Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (블로그 구축)
+### (Updated) 🥉 Basic Version (블로그 구축) {#updated}
 
 빠르게 시작하기.
 
@@ -43,7 +43,7 @@ tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (하이브리드 아키텍처)
+### (Updated) 🥇 Pro Version (하이브리드 아키텍처) {#updated}
 
 동적인 기능이 필요할 때.
 
@@ -87,7 +87,7 @@ tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (Next.js 블로그) {#next-js}
 

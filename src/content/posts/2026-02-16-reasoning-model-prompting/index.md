@@ -9,7 +9,7 @@ description: "추론 모델(Reasoning Model) 시대, 기존 프롬프트 방식�
 tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
 ---
 
-# (Updated) 🧠 생각하는 AI의 시대: Chain-of-Thought는 잊으세요
+# (Updated) 🧠 생각하는 AI의 시대: Chain-of-Thought는 잊으세요 {#updated}
 
 - **🎯 추천 대상:** 3년 차 이하 개발자, 테크니컬 마케터, AI 얼리어답터
 - **⏱️ 소요 시간:** 읽는 데 5분, 적용하는 데 1분
@@ -38,11 +38,11 @@ tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드
 
 ---
 
-## (Updated) 🚀 해결책: "XML 구조화 프롬프트"
+## (Updated) 🚀 해결책: "XML 구조화 프롬프트" {#updated}
 
 추론 모델은 문맥을 명확히 구분해줄 때 가장 잘 작동합니다. 마크다운보다 XML 태그가 모델이 정보를 파싱하는 데 훨씬 유리합니다.
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 복잡한 지시 없이 데이터만 명확히 전달할 때 사용하세요.
 
@@ -56,7 +56,7 @@ tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 복잡한 비즈니스 로직이나 정교한 코딩 작업에 적합합니다. **GCC (Goal-Context-Constraints)** 프레임워크를 XML로 감싼 형태입니다.
 
@@ -117,7 +117,7 @@ tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) ❌ Before (기존 CoT 방식) {#cot}
 

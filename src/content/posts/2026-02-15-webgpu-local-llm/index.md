@@ -9,7 +9,7 @@ description: "API 키 없이, 내 브라우저가 AI 서버가 됩니다. WebGPU
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 
-# (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
+# (Updated) 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법 {#updated}
 
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
@@ -39,13 +39,13 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기"
+## (Updated) 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기" {#updated}
 
 이 프롬프트는 복잡한 WebLLM 초기화 코드와 UI 로직을 한 번에 작성해줍니다.
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
-### (Updated) 🥉 Basic Version (기본형)
+### (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 프로토타입 코드가 필요할 때 사용하세요.
 
@@ -54,7 +54,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형)
+### (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 실제 프로젝트에 바로 투입 가능한 React 컴포넌트 구조가 필요할 때 사용하세요.
 
@@ -114,9 +114,9 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (일반적인 질문)
+### (Updated) ❌ Before (일반적인 질문) {#updated}
 
 ```text
 웹에서 LLM 돌리는 코드 짜줘.

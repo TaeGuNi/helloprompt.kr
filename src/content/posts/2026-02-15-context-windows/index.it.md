@@ -12,8 +12,8 @@ In questo post, esploreremo cosa sono le finestre di contesto e come gestirle ef
 
 La finestra di contesto è la quantità di testo (inclusi input e output) che un modello AI può elaborare in una sola volta. Pensala come la "memoria a breve termine" del modello.
 
-*   **Token:** I computer leggono il testo in blocchi chiamati "token". 1.000 token equivalgono a circa 750 parole in inglese.
-*   **Dimensione della Finestra:** Varia in base al modello. I primi modelli avevano limiti di circa 4.000 token, mentre i modelli moderni come Gemini 1.5 Pro possono gestire oltre 1 milione di token.
+- **Token:** I computer leggono il testo in blocchi chiamati "token". 1.000 token equivalgono a circa 750 parole in inglese.
+- **Dimensione della Finestra:** Varia in base al modello. I primi modelli avevano limiti di circa 4.000 token, mentre i modelli moderni come Gemini 1.5 Pro possono gestire oltre 1 milione di token.
 
 ## Perché è importante?
 
@@ -26,14 +26,17 @@ Ecco perché le istruzioni specifiche sulla personalità o i vincoli del progett
 Ecco alcuni suggerimenti per mantenere la tua AI sulla strada giusta durante lunghi progetti o sessioni di codifica.
 
 ### 1. Riassumere e Resettare (Summarize and Reset)
+
 La strategia più efficace è chiedere all'AI di riassumere la conversazione fino a quel punto, catturando decisioni chiave e frammenti di codice. Poi, prendi quel riassunto e inizia una **Nuova Chat**.
 
-> "Riassumi i requisiti chiave e la struttura del codice che abbiamo deciso finora. Escludi le chiacchiere."
+"Riassumi i requisiti chiave e la struttura del codice che abbiamo deciso finora. Escludi le chiacchiere."
 
 ### 2. Mantenere il Contesto Fresco
+
 Se hai bisogno di un accesso persistente alla documentazione, usa strumenti che supportano RAG (Retrieval-Augmented Generation) o incolla manualmente il materiale di riferimento critico nella chat periodicamente.
 
 ### 3. Sii Conciso
+
 La cortesia è bella, ma la verbosità brucia token. Essere diretti e concisi lascia più spazio nella finestra per il lavoro effettivo e il ragionamento.
 
 ## Conclusione

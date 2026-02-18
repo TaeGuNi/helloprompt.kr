@@ -29,6 +29,6 @@ Más allá de la simple generación de código, detecta posibles errores en el c
 
 GPT-5.3 Codex Spark está disponible a partir de hoy a través de API y los principales complementos de IDE.
 
-> "Codex Spark es un verdadero socio que permite a los desarrolladores escribir código a la velocidad del pensamiento." - OpenAI Engineering Team
+"Codex Spark es un verdadero socio que permite a los desarrolladores escribir código a la velocidad del pensamiento." - OpenAI Engineering Team
 
 Para más detalles, consulte la documentación oficial.

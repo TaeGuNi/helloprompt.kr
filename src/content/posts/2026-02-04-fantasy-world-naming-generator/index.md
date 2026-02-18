@@ -9,7 +9,7 @@ description: "엘프의 숲부터 드워프의 광산까지, 판타지 세계관
 tags: ["네이밍", "판타지", "소설", "TRPG", "세계관"]
 ---
 
-# (Updated) 📝 판타지 세계관 속 유니크한 지역명/도시 이름 짓기 {#updated}
+# (Updated) (Updated) (Updated) 📝 판타지 세계관 속 유니크한 지역명/도시 이름 짓기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"서쪽 숲 이름이 뭐였지? 그냥 '서쪽 숲'이라고 할까..."_
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 지역의 특징(지형, 문화, 종족)을 입력합니다.
 2. AI가 특정 언어(라틴어, 노르드어 등) 어원을 섞어 그럴듯한 이름을 만듭니다.
@@ -33,9 +33,9 @@ _"서쪽 숲 이름이 뭐였지? 그냥 '서쪽 숲'이라고 할까..."_
 
 ---
 
-## (Updated) 🚀 해결책: "판타지 지명 생성소" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "판타지 지명 생성소" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"서쪽 숲 이름이 뭐였지? 그냥 '서쪽 숲'이라고 할까..."_
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,21 +73,21 @@ _"서쪽 숲 이름이 뭐였지? 그냥 '서쪽 숲'이라고 할까..."_
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 \"얼음 산맥 이름 지어줘.\"
 
-### (Updated) ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 1. **Krak-Vora (크라크-보라)**
    - **어원:** 고대 드워프어로 'Krak(뼈)' + 'Vora(얼어붙은)'. "얼어붙은 뼈의 산"이라는 뜻.
@@ -99,14 +99,14 @@ _"서쪽 숲 이름이 뭐였지? 그냥 '서쪽 숲'이라고 할까..."_
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -116,9 +116,17 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 이름은 세계를 창조하는 첫 번째 주문입니다. 이제 '북쪽 숲' 대신 전설이 살아 숨 쉬는 이름을 지도에 새겨보세요! 🗺️
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

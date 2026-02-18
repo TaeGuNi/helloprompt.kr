@@ -23,7 +23,6 @@ def process_file(filepath):
     for line in lines:
         stripped = line.strip()
         
-        # Track code blocks
         if stripped.startswith('```'):
             in_code_block = not in_code_block
             new_lines.append(line)
@@ -33,29 +32,18 @@ def process_file(filepath):
             new_lines.append(line)
             continue
         
-        # Track current header
         if stripped.startswith('#'):
             current_header = stripped
             new_lines.append(line)
             continue
             
-        # Check blockquote usage
+        # Check for blockquote usage
         if stripped.startswith('>'):
-            # If we are in a code block, ignore (though > in code block is rare unless diff)
-            # Actually, > in markdown is blockquote.
-            # We assume > at start of line is blockquote.
-            
             if not is_allowed_section(current_header):
-                # Invalid blockquote. Remove '> '
-                # Use regex to replace only the leading '> ' or '>'
-                # Be careful not to break nested blockquotes if any (usually > >)
-                # But here we just want to remove the top level one.
-                
-                # Check if it's a blockquote
-                if line.lstrip().startswith('>'):
-                    # Replace strictly the first > and optional space
-                    line = re.sub(r'^\s*>\s?', '', line)
-                    modified = True
+                # Remove blockquote marker
+                # Handle cases like "> Text" -> "Text"
+                line = re.sub(r'^\s*>\s?', '', line)
+                modified = True
         
         new_lines.append(line)
         
@@ -64,19 +52,11 @@ def process_file(filepath):
         with open(filepath, 'w', encoding='utf-8') as f:
             f.writelines(new_lines)
 
-# Scan src/pages/posts
-target_dir = 'src/pages/posts'
-if not os.path.exists(target_dir):
-    print(f"Directory not found: {target_dir}")
-    exit(1)
-
-count = 0
-for root, dirs, files in os.walk(target_dir):
-    for file in files:
-        if file.endswith('.md'):
-            process_file(os.path.join(root, file))
-            count += 1
-            if count % 100 == 0:
-                print(f"Scanned {count} files...", end='\r')
-
-print(f"\nScanning complete. Processed {count} files.")
+# Scan directories
+base_dirs = ['src/content/posts', 'src/pages/posts']
+for d in base_dirs:
+    if os.path.exists(d):
+        for root, dirs, files in os.walk(d):
+            for file in files:
+                if file.endswith('.md'):
+                    process_file(os.path.join(root, file))

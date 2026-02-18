@@ -15,7 +15,7 @@ If 2024 and 2025 were the years of the 'AI Coding Assistant', 2026 might be the 
 
 **Stoat**, a tool making waves in the developer community, is taking a path completely opposite to existing AI tools. While GitHub Copilot or Cursor focused on writing "more code" quickly, Stoat's goal is singular:
 
-> **"Deleting code."**
+**"Deleting code."**
 
 ## AI Pays Back the Technical Debt Created by AI
 

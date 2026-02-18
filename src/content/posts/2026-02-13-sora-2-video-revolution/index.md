@@ -23,7 +23,7 @@ tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 
 <!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
-> _"촬영 장비, 조명, 배우 없이 헐리우드급 영상을 만드는 시대가 왔습니다."_
+_"촬영 장비, 조명, 배우 없이 헐리우드급 영상을 만드는 시대가 왔습니다."_
 
 2024년, 세상을 놀라게 했던 Sora가 2.0 버전으로 돌아왔습니다. 단순히 화질만 좋아진 것이 아닙니다. 물리 법칙을 이해하는 시뮬레이션 능력, 정확한 오디오 싱크, 그리고 전문가 수준의 카메라 제어 기능까지. 이제 텍스트 몇 줄로 여러분의 상상을 스크린에 구현할 수 있습니다.
 
@@ -62,10 +62,12 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > Create a luxurious [Target Duration: 10-second] commercial video for a new [Product Category: high-end perfume brand] called '[Brand Name: Midnight Bloom]'.
 >
 > **Format**
+>
 > - High resolution, photorealistic 8k video.
 > - Slow-motion close-up shots.
 >
 > **Constraint**
+>
 > - Ensure the lighting is moody and cinematic (purple and gold tones).
 > - No text overlays.
 
@@ -79,12 +81,14 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > You are an award-winning cinematographer specializing in sci-fi genres.
 >
 > **Context**
+>
 > - **Genre:** [Genre: Cyberpunk / Sci-Fi]
 > - **Setting:** [Setting: A rainy neon-lit street in Neo-Seoul, year 2050].
 > - **Subject:** [Character: A humanoid robot looking at a stray cat with curiosity].
 >
 > **Task**
 > Create a [Duration: 15-second] cinematic sequence with the following camera movements:
+>
 > 1. Start with a **Low Angle Shot** focusing on the robot's boots stepping into a puddle.
 > 2. Smoothly **Tilt Up** to reveal the robot's face.
 > 3. Perform a **Dolly In** towards the robot's eyes as it notices the cat.
@@ -93,6 +97,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 > Include the sound of heavy rain, distant futuristic sirens, and the mechanical whirring of the robot's joints.
 >
 > **Constraint**
+>
 > - Maintain consistent character details (silver metallic skin, glowing blue eyes).
 > - Aspect Ratio: 16:9
 
@@ -104,21 +109,18 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 
 > **Role**
 > You are a visual artist specializing in abstract 3D motion graphics.
->
 > **Task**
 > Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
->
 > **Visuals**
-> - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
-> - Floating particles that glow and fade like fireflies.
-> - Color Palette: Deep indigo, bioluminescent blue, and warm amber.
->
-> **Camera**
-> - Continuous **Orbit Shot** around the central melting clock.
->
-> **Constraint**
-> - Seamless loop.
-> - Dreamy and ethereal atmosphere.
+
+- Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
+- Floating particles that glow and fade like fireflies.
+- Color Palette: Deep indigo, bioluminescent blue, and warm amber.
+  **Camera**
+- Continuous **Orbit Shot** around the central melting clock.
+  > **Constraint**
+- Seamless loop.
+- Dreamy and ethereal atmosphere.
 
 ---
 
@@ -129,6 +131,7 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 Sora 2.0을 써보며 가장 놀라웠던 점은 **'디렉팅의 부활'**입니다. 1.0 버전이 랜덤 박스에 가까웠다면, 2.0은 감독(사용자)의 의도를 꽤 정확하게 반영합니다.
 
 **팁 (Tips):**
+
 1.  **카메라 용어를 공부하세요:** 'Pan', 'Tilt', 'Dolly', 'Truck' 같은 용어를 섞어 쓰면 결과물이 확연히 달라집니다.
 2.  **오디오 프롬프트도 중요합니다:** 시각 정보뿐만 아니라 청각 정보(비 오는 소리, 웅성거리는 소리 등)를 구체적으로 묘사하면 몰입감이 배가 됩니다.
 3.  **윤리적 사용:** 생성된 영상에는 C2PA 워터마크가 포함됩니다. 이를 지우거나 실제 영상인 것처럼 속여서는 안 됩니다. 딥페이크 악용은 법적 처벌 대상임을 명심하세요.

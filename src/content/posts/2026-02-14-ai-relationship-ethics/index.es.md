@@ -24,4 +24,4 @@ Los amantes de IA son perfectos. Por eso son peligrosos. Las relaciones humanas 
 
 Las relaciones con la IA son ahora una realidad inevitable. En lugar de simplemente tratarlas como tabú, debemos encontrar una forma saludable de coexistir.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

@@ -9,7 +9,7 @@ description: "더 이상 '손가락 6개'는 없다. 텍스트 렌더링부터 3
 tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 ---
 
-# (Updated) 🎨 Midjourney 2026: V7 버전 완벽 가이드 {#updated}
+# (Updated) (Updated) 🎨 Midjourney 2026: V7 버전 완벽 가이드 {#updated}
 
 - **🎯 추천 대상:** v5, v6 쓰다가 멈춘 사람, AI 그림의 퀄리티를 한 단계 높이고 싶은 크리에이터
 - **⏱️ 소요 시간:** 10분 (튜토리얼 실습)
@@ -19,13 +19,13 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"V7 나왔다는데 뭐가 달라진 거야?"_
+_"V7 나왔다는데 뭐가 달라진 거야?"_
 
 모든 것이 달라졌습니다. 이제 미드저니는 단순한 '그림 생성기'가 아닙니다. **텍스트를 완벽하게 쓰고**, **3D 모델을 뽑아내며**, **영상(Video)까지 생성**합니다. 변화된 파라미터와 숨겨진 꿀기능들을 정리해 드립니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **텍스트:** `--text "Hello"` 파라미터로 그림 안에 글자를 박을 수 있다.
 2.  **일관성:** `--cref` (Character Reference)가 더 강력해져서 웹툰 연재가 가능하다.
@@ -33,9 +33,9 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 
 ---
 
-## (Updated) 🚀 해결책: "V7 Master Prompt" {#updated}
+## (Updated) (Updated) 🚀 해결책: "V7 Master Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (텍스트 렌더링) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (텍스트 렌더링) {#updated}
 
 로고나 포스터 만들 때.
 
@@ -44,7 +44,7 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (캐릭터 일관성 유지) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (캐릭터 일관성 유지) {#updated}
 
 나만의 AI 인플루언서 만들기.
 
@@ -61,7 +61,7 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 V7의 가장 큰 혁명은 **'인페인팅(Inpainting)의 정교함'**입니다.
 `Vary (Region)` 버튼을 누르고, 마음에 안 드는 부분만 선택한 뒤 프롬프트를 고치면 감쪽같이 수정됩니다.
@@ -69,7 +69,7 @@ V7의 가장 큰 혁명은 **'인페인팅(Inpainting)의 정교함'**입니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 웹사이트에서만 되나요?**
   - A: 이제 디스코드 없이 웹(Midjourney Alpha)에서도 생성 가능합니다. UI가 훨씬 편합니다.
@@ -79,32 +79,36 @@ V7의 가장 큰 혁명은 **'인페인팅(Inpainting)의 정교함'**입니다.
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Style Raw:** V7은 기본적으로 '미드저니 스타일(화려함)'이 강합니다. 사진처럼 리얼한 걸 원하면 `--style raw`를 붙여서 AI의 해석을 줄여야 합니다.
 2.  **CW 값 조절:** 옷을 갈아입히고 싶다면 `--cw 0`을 주세요. 얼굴(`cref`)은 유지하되 옷은 바뀝니다. 이걸로 패션 룩북을 찍을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (V5)
+### (Updated) (Updated) ❌ Before (V5)
 
 "카페 간판에 'COFFEE'라고 써줘" -> (외계어: C0FFEE, GOFFEE... 🤯)
 
-### (Updated) ✅ After (V7)
+### (Updated) (Updated) ✅ After (V7)
 
 "카페 간판에 'COFFEE'라고 써줘" -> **선명한 고딕체로 "COFFEE"** (포토샵 필요 없음 📸)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 미드저니는 이제 '도구'가 아니라 **'스튜디오'**입니다.
 사진관, 디자인 에이전시, 3D 공장이 이 안에 다 있습니다.
 
 월 10달러로 이 모든 걸 누리세요.
 **상상력만 준비하세요.** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

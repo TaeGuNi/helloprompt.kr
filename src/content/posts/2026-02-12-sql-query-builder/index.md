@@ -9,7 +9,7 @@ description: "JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제
 tags: ["SQL", "데이터분석", "쿼리"]
 ---
 
-# (Updated) 📝 복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다 {#updated}
+# (Updated) (Updated) 📝 복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다 {#updated}
 
 - **🎯 추천 대상:** 데이터 분석가, 마케터, 개발자
 - **⏱️ 소요 시간:** 30분 → 1분 단축
@@ -19,13 +19,13 @@ tags: ["SQL", "데이터분석", "쿼리"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제 검색하지 마세요."_
+_"JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제 검색하지 마세요."_
 
 데이터 추출이 필요한데 SQL 문법이 기억나지 않아 고생한 적 있나요? 이 프롬프트는 자연어로 요청하면 정확한 SQL 쿼리를 생성해주고, 쿼리의 작동 원리까지 설명해줍니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 자연어 문장 → 실행 가능한 SQL 코드로 변환
 2. 복잡한 JOIN, 서브쿼리, 윈도우 함수 자동 생성
@@ -33,9 +33,9 @@ tags: ["SQL", "데이터분석", "쿼리"]
 
 ---
 
-## (Updated) 🚀 해결책: "SQL Wizard" {#updated}
+## (Updated) (Updated) 🚀 해결책: "SQL Wizard" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 간단한 SELECT 문이 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ tags: ["SQL", "데이터분석", "쿼리"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 복잡한 데이터 추출이나 최적화된 쿼리가 필요할 때 사용하세요.
 
@@ -75,13 +75,13 @@ tags: ["SQL", "데이터분석", "쿼리"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 생성된 쿼리는 실행 전 반드시 `EXPLAIN` (실행 계획) 단계를 거치는 것이 좋습니다. AI가 짠 쿼리가 항상 최적의 성능을 보장하는 것은 아니므로, 데이터 양이 많을 때는 주의해서 실행하세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 테이블 스키마를 일일이 다 적어야 하나요?**
   - A: 핵심적인 컬럼명과 타입만 적어주면 충분합니다. `SHOW CREATE TABLE` 결과를 복사해서 붙여넣으면 가장 정확합니다.
@@ -91,22 +91,22 @@ tags: ["SQL", "데이터분석", "쿼리"]
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Schema Context:** 테이블 구조(Schema)를 제공하여 AI가 실제 실행 가능한 쿼리를 짜도록 유도했습니다.
 2.  **Explicit DB Dialect:** "MySQL", "PostgreSQL" 등 특정 DB를 지정하여 문법 오류를 줄였습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (입력 질문) {#updated}
+### (Updated) (Updated) ❌ Before (입력 질문) {#updated}
 
 ```text
 users 테이블이랑 orders 테이블 합쳐서, 2024년에 가입한 유저 중에 주문 금액이 10만원 이상인 사람 이름이랑 총 주문금액 보여줘.
 ```
 
-### (Updated) ✅ After (결과 SQL) {#sql}
+### (Updated) (Updated) ✅ After (결과 SQL) {#sql}
 
 ```sql
 SELECT
@@ -123,9 +123,13 @@ HAVING SUM(o.amount) >= 100000;
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 데이터가 필요할 땐, 코딩하지 말고 질문하세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

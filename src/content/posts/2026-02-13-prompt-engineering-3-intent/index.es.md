@@ -11,9 +11,9 @@ Modificadores como "Explica en detalle" o "Dime paso a paso" ya no son necesario
 
 ## La Evolución de los Prompts
 
-*   **1.0**: Centrado en palabras clave. Listar palabras como ingresar términos de búsqueda.
-*   **2.0**: Instrucciones estructuradas. Uso de plantillas complejas como asignación de Roles y Restricciones.
-*   **3.0**: Centrado en la intención. La IA entiende el contexto y propone el resultado óptimo por sí misma.
+- **1.0**: Centrado en palabras clave. Listar palabras como ingresar términos de búsqueda.
+- **2.0**: Instrucciones estructuradas. Uso de plantillas complejas como asignación de Roles y Restricciones.
+- **3.0**: Centrado en la intención. La IA entiende el contexto y propone el resultado óptimo por sí misma.
 
 ## ¿Qué es el Prompting Basado en Intención?
 
@@ -22,10 +22,10 @@ Es la IA entendiendo perfectamente incluso si el usuario se expresa mal. Por eje
 ### Ejemplo Práctico
 
 **Pasado (2.0):**
-> "Eres un comercializador profesional. Escribe un pie de foto promocional para Instagram basado en la descripción del producto a continuación. Usa emojis, incluye 5 hashtags y mantén un tono amigable."
+"Eres un comercializador profesional. Escribe un pie de foto promocional para Instagram basado en la descripción del producto a continuación. Usa emojis, incluye 5 hashtags y mantén un tono amigable."
 
 **Presente (3.0):**
-> (Después de subir la foto del producto) "Para promo de Insta."
+(Después de subir la foto del producto) "Para promo de Insta."
 
 Con solo esta breve entrada, la IA analiza el estado de ánimo de la imagen, infiere el público objetivo y genera el texto óptimo.
 

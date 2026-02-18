@@ -9,7 +9,7 @@ description: "정부지원사업 합격의 8할은 목차. PSST(문제-해결-�
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# (Updated) 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계 {#updated}
+# (Updated) (Updated) 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계 {#updated}
 
 - **🎯 추천 대상:** 아이디어는 있는데 문서 작업이 막막한 예비 창업가, "PSST가 뭐예요?" 묻는 초보 대표님
 - **⏱️ 소요 시간:** 10분 (초안 완성)
@@ -19,13 +19,13 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 쓰겠네."_
+_"내 머릿속엔 다 있는데... 이걸 글로 쓰려니까 한 줄도 못 쓰겠네."_
 
 정부지원사업(예창패, 초창패)은 글짓기 대회입니다. 심사위원은 당신의 아이디어를 모릅니다. 오직 **문서**로만 평가합니다. 합격하는 사업계획서에는 공식이 있습니다. **PSST(Problem-Solution-Scaleup-Team)**. 이 틀에 맞춰 AI에게 내용을 채우라고 시키세요.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Problem:** 고객이 겪는 문제의 심각성을 강조한다.
 2.  **Solution:** 내 아이템이 그걸 어떻게 해결하는지 보여준다.
@@ -33,9 +33,9 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 
 ---
 
-## (Updated) 🚀 해결책: "Government Grant Writer" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Government Grant Writer" {#updated}
 
-### (Updated) 🥉 Basic Version (아이디어 구체화) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (아이디어 구체화) {#updated}
 
 내 생각이 말이 되는지 확인.
 
@@ -44,7 +44,7 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 
 <br>
 
-### (Updated) 🥇 Pro Version (PSST 목차 완성) {#psst}
+### (Updated) (Updated) 🥇 Pro Version (PSST 목차 완성) {#psst}
 
 실제 제출용 초안 작성.
 
@@ -64,7 +64,7 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 심사위원은 **'객관적 데이터'**를 좋아합니다.
 "사람들이 불편해합니다" (X) -> "연간 음식물 쓰레기 처리 비용 1조 원" (O)
@@ -72,7 +72,7 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: AI가 쓴 거 베껴도 되나요?**
   - A: 문장 구조나 논리를 참고하되, 핵심 내용은 본인의 언어로 다듬으세요. 표절 검사에 걸릴 수도 있습니다.
@@ -82,39 +82,43 @@ AI에게 "**통계 자료나 수치**를 포함해서 써줘"라고 하면 훨�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **평가위원 페르소나:** "평가위원 출신"이라고 설정하면, AI가 심사 기준(차별성, 시장성)에 맞춰서 점수 따기 좋은 포인트를 부각합니다.
 2.  **PSST 구조 강제:** 정부 사업의 표준 목차인 PSST를 명시하여, 엉뚱한 소리를 하지 않고 양식에 딱 맞는 글을 쓰게 합니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (일기장) {#updated}
+### (Updated) (Updated) ❌ Before (일기장) {#updated}
 
 "제가 자취를 하는데 음식물 쓰레기 버리는 게 너무 귀찮아서 이 앱을 만들고 싶습니다." (광탈 📉)
 
-### (Updated) ✅ After (사업계획서) {#updated}
+### (Updated) (Updated) ✅ After (사업계획서) {#updated}
 
-> **[1-1. 문제 인식]**
+**[1-1. 문제 인식]**
 
 - 1인 가구 증가에 따른 소포장 식재료 니즈 증대 및 음식물 쓰레기 처리 비용 급증 (연간 8천억 원 추산).
 - 기존 관리 방식의 부재로 인한 식재료 폐기율 30% 육박.
 
-> **[1-2. 해결 방안]**
+**[1-2. 해결 방안]**
 
 - AI Vision 기술을 활용한 '촬영 한 번으로 냉장고 스캔 및 유통기한 자동 등록' 솔루션 제공.
   (합격 🚀)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 사업계획서는 **'설득의 문서'**입니다.
 내 열정을 보여주는 게 아니라, **심사위원을 납득시키는 것**입니다.
 
 AI와 함께라면, 당신도 **1억 원**의 주인공이 될 수 있습니다. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

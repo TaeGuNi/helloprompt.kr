@@ -9,7 +9,7 @@ description: "상대방의 최근 활동을 기반으로 '나만을 위한 제�
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---
 
-# (Updated) 📝 "제안서입니다" 메일은 이제 그만. {#updated}
+# (Updated) (Updated) 📝 "제안서입니다" 메일은 이제 그만. {#updated}
 
 - **🎯 추천 대상:** B2B 영업 사원, SDR, 대표
 - **⏱️ 소요 시간:** 10분/통 → 10초/통
@@ -19,13 +19,13 @@ tags: ["세일즈", "콜드메일", "B2B", "영업"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"스팸함으로 직행하지 않는 유일한 방법은 '진짜 편지'를 쓰는 것입니다."_
+_"스팸함으로 직행하지 않는 유일한 방법은 '진짜 편지'를 쓰는 것입니다."_
 
 복사-붙여넣기 한 메일은 귀신같이 티가 납니다. "최근 링크드인 포스트 잘 봤습니다"라는 멘트 하나가 응답률을 바꿉니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 타겟 고객의 링크드인/뉴스 기사를 긁어온다.
 2. AI에게 "이 사람이 최근 관심을 갖는 주제"와 "내 제품의 접점"을 연결하라고 시킨다.
@@ -33,9 +33,9 @@ tags: ["세일즈", "콜드메일", "B2B", "영업"]
 
 ---
 
-## (Updated) 🚀 해결책: "아이스 브레이킹 봇" {#updated}
+## (Updated) (Updated) 🚀 해결책: "아이스 브레이킹 봇" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 > **역할:** 너는 `[영업 사원]`이야.
 > **요청:** 이 사람이 쓴 글을 보고, 자연스럽게 대화를 시작할 수 있는 첫 문장을 3개 추천해줘.
@@ -43,7 +43,7 @@ tags: ["세일즈", "콜드메일", "B2B", "영업"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 AIDA 모델(Attention-Interest-Desire-Action)을 적용합니다.
 
@@ -71,19 +71,23 @@ AIDA 모델(Attention-Interest-Desire-Action)을 적용합니다.
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 "미팅 요청"보다 "가치 제공(자료 공유)"으로 접근했을 때 응답률이 3배 이상 높았습니다. AI에게는 "판매하지 말고, 도와줘라(Help, Don't Sell)"라고 지시하세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
 
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

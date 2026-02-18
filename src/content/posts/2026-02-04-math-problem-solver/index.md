@@ -9,7 +9,7 @@ description: "정답만 알려주는 불친절한 답지 대신, 생각하는 �
 tags: ["수학공부", "문제풀이", "프롬프트", "튜터링"]
 ---
 
-# (Updated) 📝 수포자 구원 투수: 친절한 수학 문제 해설기 {#updated}
+# (Updated) (Updated) 📝 수포자 구원 투수: 친절한 수학 문제 해설기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 단순히 답만 내놓는 것이 아니라 '생각의 흐름(Chain of Thought)'을 보여줌
 2. 각 단계마다 사용된 공식과 원리를 괄호 안에 명시
@@ -33,9 +33,9 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 ---
 
-## (Updated) 🚀 해결책: "Step-by-Step 솔루션" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Step-by-Step 솔루션" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -71,22 +71,22 @@ _"답지는 너무 불친절해. 중간 과정이 왜 이렇게 되는지 모르
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (일반 질문) {#updated}
+### (Updated) (Updated) ❌ Before (일반 질문) {#updated}
 
 Q: "x^2 - 5x + 6 = 0 풀어줘"
 A: "x = 2 또는 x = 3입니다." (끝)
 
-### (Updated) ✅ After (프롬프트 결과) {#updated}
+### (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 **[핵심 개념]**
 이차방정식의 근을 구하기 위해 '인수분해(Factorization)'를 사용합니다.
@@ -112,14 +112,14 @@ x=2를 원래 식에 대입: $$2^2 - 5(2) + 6 = 4 - 10 + 6 = 0$$ (성립함)
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -129,11 +129,15 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 수학은 눈으로 푸는 게 아니라 손으로 푸는 것입니다. 이 프롬프트가 알려준 과정을 노트에 직접 따라 적어보세요.
 
 이제 칼퇴하고 뇌 좀 식히세요! 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

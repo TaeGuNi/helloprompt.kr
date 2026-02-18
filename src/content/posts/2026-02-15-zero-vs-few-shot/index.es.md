@@ -12,7 +12,7 @@ El prompting **Zero-Shot** implica pedirle al modelo que realice una tarea sin p
 
 **Ejemplo:**
 
-> "Traduce la siguiente frase al español: 'The weather is nice today.'"
+"Traduce la siguiente frase al español: 'The weather is nice today.'"
 
 Aquí, no le has mostrado al modelo _cómo_ traducir; simplemente le has dicho _que_ traduzca.
 
@@ -29,16 +29,13 @@ El prompting **Few-Shot** (a menudo llamado "Aprendizaje en Contexto") implica p
 
 **Ejemplo:**
 
-> Traduce del inglés a una jerga pirata específica.
->
-> Inglés: "Hello, how are you?"
-> Pirata: "Ahoy matey, how be ye fairin'?"
->
-> Inglés: "Where is the bathroom?"
-> Pirata: "Where be the head?"
->
-> Inglés: "I would like some water."
-> Pirata:
+Traduce del inglés a una jerga pirata específica.
+Inglés: "Hello, how are you?"
+Pirata: "Ahoy matey, how be ye fairin'?"
+Inglés: "Where is the bathroom?"
+Pirata: "Where be the head?"
+Inglés: "I would like some water."
+Pirata:
 
 Al ver los pares anteriores, el modelo entiende no solo que necesita traducir, sino el **tono** y **estilo** específicos requeridos.
 

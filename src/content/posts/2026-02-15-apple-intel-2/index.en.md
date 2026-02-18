@@ -28,7 +28,7 @@ The headline feature of Apple Intelligence 2.0 is its ability to run a 7-billion
 
 Siri is no longer just a command-and-control voice interface; it's a proactive agent. It can read your screen (via the new on-screen awareness API) and take actions across apps.
 
-> "Hey Siri, find that podcast Greg sent me last week about coffee and summarize the main points."
+"Hey Siri, find that podcast Greg sent me last week about coffee and summarize the main points."
 
 Previously, this was a pipe dream. Now, it's a standard command.
 

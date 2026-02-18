@@ -9,7 +9,7 @@ description: "단순 번역이 아닙니다. 영미권 채용 문화에 맞는 �
 tags: ["영문이력서", "Resume", "영어면접", "외국계취업", "번역"]
 ---
 
-# (Updated) 📝 한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트 {#resume}
+# (Updated) (Updated) 📝 한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트 {#resume}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 한글 이력서 내용을 입력합니다.
 2. 영미권 표준 레주메 형식(주어 생략, 과거형 동사 시작)으로 변환합니다.
@@ -33,9 +33,9 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 ---
 
-## (Updated) 🚀 해결책: "Native Resume Translator" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Native Resume Translator" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -71,17 +71,17 @@ _"파파고 돌려서 낸 이력서, 원어민이 보면 '콩글리시' 작렬�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) ❌ Before (직역 스타일) {#updated}
+### (Updated) (Updated) ❌ Before (직역 스타일) {#updated}
 
 ```text
 I was a team leader. I made a new sales strategy.
@@ -89,7 +89,7 @@ So sales went up by 20%. It was a good result.
 (초등학생 일기 같은 문장)
 ```
 
-### (Updated) ✅ After (원어민 레주메 스타일) {#updated}
+### (Updated) (Updated) ✅ After (원어민 레주메 스타일) {#updated}
 
 ```text
 • **Spearheaded** a new sales strategy as a Team Lead, resulting in a **20% increase** in annual revenue.
@@ -98,14 +98,14 @@ So sales went up by 20%. It was a good result.
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -115,11 +115,15 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 영어를 못해도 영어 이력서는 잘 쓸 수 있습니다. 언어의 장벽 때문에 당신의 뛰어난 커리어가 평가절하되지 않도록 하세요.
 
 이제 글로벌 인재로 거듭날 시간입니다! 🌏
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

@@ -12,7 +12,7 @@ In the world of Large Language Models (LLMs), how you ask is just as important a
 
 **Example:**
 
-> "Translate the following sentence into Spanish: 'The weather is nice today.'"
+"Translate the following sentence into Spanish: 'The weather is nice today.'"
 
 Here, you haven't shown the model _how_ to translate; you've simply told it _to_ translate.
 
@@ -29,16 +29,13 @@ Here, you haven't shown the model _how_ to translate; you've simply told it _to_
 
 **Example:**
 
-> Translate English to specific pirate slang.
->
-> English: "Hello, how are you?"
-> Pirate: "Ahoy matey, how be ye fairin'?"
->
-> English: "Where is the bathroom?"
-> Pirate: "Where be the head?"
->
-> English: "I would like some water."
-> Pirate:
+Translate English to specific pirate slang.
+English: "Hello, how are you?"
+Pirate: "Ahoy matey, how be ye fairin'?"
+English: "Where is the bathroom?"
+Pirate: "Where be the head?"
+English: "I would like some water."
+Pirate:
 
 By seeing the previous pairs, the model understands not just that it needs to translate, but the specific _tone_ and _style_ required.
 

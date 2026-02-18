@@ -8,13 +8,13 @@ tags: ["python", "programming", "tech-trends"]
 
 Python 3.14가 드디어 출시되었습니다. 이번 릴리스는 3.13에서 도입된 JIT(Just-In-Time) 컴파일러의 성능을 대폭 개선하고, 개발자 경험을 향상시키는 다양한 기능을 포함하고 있습니다.
 
-## (Updated) 주요 변경 사항 {#updated}
+## (Updated) (Updated) 주요 변경 사항 {#updated}
 
-### (Updated) 1. JIT 컴파일러: 티어 3 최적화 {#updated}
+### (Updated) (Updated) 1. JIT 컴파일러: 티어 3 최적화 {#updated}
 
 Python 3.13의 실험적인 JIT 도입 이후, 3.14에서는 '티어 3' 최적화 단계가 정식으로 포함되었습니다. 이를 통해 반복적인 루프와 수학 연산에서 기존 대비 최대 30%의 성능 향상을 기대할 수 있습니다.
 
-### (Updated) 2. 패턴 매칭 v3 {#updated}
+### (Updated) (Updated) 2. 패턴 매칭 v3 {#updated}
 
 `match` 구문이 더욱 간결해졌습니다. 이제 복잡한 중첩 객체를 분해할 때 불필요한 변수 할당을 줄일 수 있는 새로운 문법이 도입되었습니다.
 
@@ -26,13 +26,17 @@ match point:
         print(f"X={x}")
 ```
 
-### (Updated) 3. 향상된 타입 힌트 {#updated}
+### (Updated) (Updated) 3. 향상된 타입 힌트 {#updated}
 
 `typing` 모듈에 새로운 제네릭 기능이 추가되었습니다. 특히 `TypeVar`의 기본값을 지정할 수 있게 되어, 더 유연한 API 설계가 가능해졌습니다.
 
-## (Updated) 결론 {#conclusion}
+## (Updated) (Updated) 결론 {#conclusion}
 
 Python 3.14는 성능과 생산성 두 마리 토끼를 모두 잡은 업데이트입니다. 특히 대규모 데이터 처리나 웹 서버 환경에서 즉각적인 성능 이점을 누릴 수 있을 것입니다. 지금 바로 업그레이드해보세요!
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

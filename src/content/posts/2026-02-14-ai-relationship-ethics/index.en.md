@@ -24,4 +24,4 @@ AI lovers are perfect. That is why they are dangerous. Real human relationships 
 
 Relationships with AI are now an unavoidable reality. Instead of merely treating them as taboo, we must find a healthy way to coexist. Alongside technical regulations, a social discussion on human alienation is urgently needed.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

@@ -5,19 +5,19 @@ tags: [midjourney, art, ai]
 image: https://source.unsplash.com/random/1600x900/?art,paint
 ---
 
-# (Updated) Midjourney v8: 스타일의 정복 {#updated}
+# (Updated) (Updated) Midjourney v8: 스타일의 정복 {#updated}
 
 Midjourney v8은 AI 아트의 새로운 지평을 엽니다. 특히 '스타일 튜너(Style Tuner)'와 '스타일 참조(SREF)' 기능이 강화되어, 사용자가 원하는 미묘한 화풍을 정확하게 재현할 수 있습니다.
 
-## (Updated) 1. 개인화된 스타일 튜닝 {#updated}
+## (Updated) (Updated) 1. 개인화된 스타일 튜닝 {#updated}
 
 사용자는 이제 자신만의 스타일 코드를 생성하고 공유할 수 있습니다. 수많은 스타일 중에서 원하는 것을 선택하고 조합하여, 세상에 하나뿐인 독창적인 화풍을 만들어낼 수 있습니다. 이는 AI 아티스트들에게 강력한 브랜딩 도구가 될 것입니다.
 
-## (Updated) 2. 텍스트 렌더링의 완벽함 {#updated}
+## (Updated) (Updated) 2. 텍스트 렌더링의 완벽함 {#updated}
 
 v8은 그동안 약점으로 지적되었던 텍스트 렌더링 능력을 완벽에 가깝게 구현했습니다. 로고 디자인, 포스터 제작 등 텍스트가 포함된 디자인 작업에서 이제 Midjourney는 필수적인 도구가 되었습니다.
 
-## (Updated) 3. 비디오 생성의 통합 {#updated}
+## (Updated) (Updated) 3. 비디오 생성의 통합 {#updated}
 
 정지된 이미지를 넘어 짧은 비디오 클립을 생성하는 기능이 통합되었습니다. 일관된 스타일을 유지하며 움직이는 아트를 만들 수 있어, 영상 제작자들에게 새로운 영감을 제공합니다.
 
@@ -25,7 +25,7 @@ Midjourney v8은 단순한 이미지 생성기를 넘어, 종합적인 비주얼
 
 ---
 
-### (Updated) Summaries
+### (Updated) (Updated) Summaries
 
 **English**
 **Midjourney v8: Mastery of Style**
@@ -62,6 +62,10 @@ Midjourney v8 открывает новые горизонты в ИИ-иску�
 **Portuguese (Português)**
 **Midjourney v8: Domínio do Estilo**
 Midjourney v8 abre novos horizontes na arte da IA. Com as funcionalidades melhoradas de 'Sintonizador de Estilo' e 'Referência de Estilo', os utilizadores podem replicar com precisão estilos artísticos subtis. A renderização de texto perfeita e a geração de vídeo integrada transformam-no numa plataforma criativa visual completa.
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

@@ -9,7 +9,7 @@ description: "한방 단어(듐, 튬, 녘)를 쓰는 AI를 이겨라. 끝말잇�
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---
 
-# (Updated) 🗣️ AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수 {#updated}
+# (Updated) (Updated) 🗣️ AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수 {#updated}
 
 - **🎯 추천 대상:** 심심할 때 시간 때우고 싶은 사람, AI의 한국어 실력을 테스트해보고 싶은 사람, 조카랑 놀아줘야 하는 삼촌
 - **⏱️ 소요 시간:** 무한대 (질릴 때까지)
@@ -19,13 +19,13 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐☆
 - 🚀 **활용도:** ⭐⭐⭐☆☆
 
-> _"기러기" -> "기차" -> "차표" -> "표... 표...?"_
+_"기러기" -> "기차" -> "차표" -> "표... 표...?"_
 
 인간의 어휘력은 한계가 있습니다. 하지만 AI는 국어사전을 통째로 외우고 있죠. AI와 끝말잇기 대결을 해보세요. 팁을 하나 드리자면, AI에게 **"한방 단어 쓰지 마"**라고 미리 경고해야 합니다. 안 그러면 3턴 만에 집니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  AI에게 **"끝말잇기 하자"**고 한다.
 2.  룰(두음법칙 적용 등)을 정한다.
@@ -33,9 +33,9 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 
 ---
 
-## (Updated) 🚀 해결책: "Word Chain Game Prompt" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Word Chain Game Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (단순 게임) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (단순 게임) {#updated}
 
 심심풀이용.
 
@@ -43,7 +43,7 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (AI 조련하기 & 학습용) {#ai}
+### (Updated) (Updated) 🥇 Pro Version (AI 조련하기 & 학습용) {#ai}
 
 어휘력 향상 게임.
 
@@ -60,14 +60,14 @@ tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 AI는 가끔 없는 단어를 지어내기도 합니다(Hallucination). "꿈터", "별나라" 같은 거요.
 그럴 땐 **"그거 사전에 있는 말이야? 뜻이 뭐야?"**라고 역공을 날리세요. AI가 "죄송합니다. 없는 단어네요" 하고 꼬리를 내립니다. 이게 꿀잼 포인트입니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 쿵쿵따도 되나요?**
   - A: 네, "3글자 단어만 써야 해"라고 제약을 걸면 됩니다. "산기슭" -> "슭곰발" -> "발냄새".
@@ -77,37 +77,41 @@ AI는 가끔 없는 단어를 지어내기도 합니다(Hallucination). "꿈터"
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **한방 단어 금지:** AI의 압도적인 DB를 제한하는 장치입니다. 이걸 안 걸면 AI는 재미가 아니라 '승리'를 위해 "이리듐"을 내뱉습니다. 밸런스 패치입니다.
 2.  **뜻 설명 요청:** 단순한 놀이를 '학습'으로 바꾸는 장치입니다. 모르는 단어가 나와도 뜻을 같이 보면서 배우게 됩니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (규칙 없음) {#updated}
+### (Updated) (Updated) ❌ Before (규칙 없음) {#updated}
 
 AI: "나트륨."
 나: "늄... 늄...? ㅠㅠ" (게임 끝)
 
-### (Updated) ✅ After (룰 적용) {#updated}
+### (Updated) (Updated) ✅ After (룰 적용) {#updated}
 
-> **AI:** "가로수 (길가에 줄지어 심은 나무)"
-> **나:** "수박"
-> **AI:** "박수 (손바닥을 마주 침)"
-> **나:** "수영"
-> (결과: 30분째 이어지는 핑퐁 🏓)
+**AI:** "가로수 (길가에 줄지어 심은 나무)"
+**나:** "수박"
+**AI:** "박수 (손바닥을 마주 침)"
+**나:** "수영"
+(결과: 30분째 이어지는 핑퐁 🏓)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 이기는 건 중요하지 않습니다.
 AI와 티키타카 하면서 시간을 보내는 것, 그 자체가 **놀이**입니다.
 
 가끔은 머리 식힐 겸, AI에게 말을 거세요.
 **"끝말잇기 한 판?"** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

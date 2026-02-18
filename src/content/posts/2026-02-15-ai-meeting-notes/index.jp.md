@@ -9,17 +9,21 @@ tags: ["AI", "Tech", "ai-meeting-notes"]
 # Automated Meeting Notes (Japanese)
 
 ## Introduction
+
 The landscape of AI is shifting rapidly. Today, we discuss **Automated Meeting Notes**.
 
-> "Efficiency vs Privacy concerns"
+"Efficiency vs Privacy concerns"
 
 ## Analysis
+
 Why does this matter?
+
 1. **Efficiency**: It changes how we work.
 2. **Impact**: It affects everyone.
 3. **Future**: This is just the beginning.
 
 ## Conclusion
+
 Stay tuned for more updates on ai-meeting-notes.
 
-*(Generated Content for Japanese)*
+_(Generated Content for Japanese)_

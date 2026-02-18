@@ -11,9 +11,9 @@ Modifikatoren wie "Erkläre im Detail" oder "Sag es mir Schritt für Schritt" si
 
 ## Die Evolution der Prompts
 
-*   **1.0**: Schlüsselwort-zentriert. Wörter auflisten wie bei der Eingabe von Suchbegriffen.
-*   **2.0**: Strukturierte Anweisungen. Verwendung komplexer Vorlagen wie Rollenzuweisung und Einschränkungen.
-*   **3.0**: Absicht-zentriert. KI versteht den Kontext und schlägt das optimale Ergebnis von selbst vor.
+- **1.0**: Schlüsselwort-zentriert. Wörter auflisten wie bei der Eingabe von Suchbegriffen.
+- **2.0**: Strukturierte Anweisungen. Verwendung komplexer Vorlagen wie Rollenzuweisung und Einschränkungen.
+- **3.0**: Absicht-zentriert. KI versteht den Kontext und schlägt das optimale Ergebnis von selbst vor.
 
 ## Was ist Absicht-basiertes Prompting?
 
@@ -22,10 +22,10 @@ Es bedeutet, dass die KI perfekt versteht, auch wenn der Benutzer sich schlecht 
 ### Praktisches Beispiel
 
 **Vergangenheit (2.0):**
-> "Du bist ein professioneller Vermarkter. Schreibe eine Instagram-Werbeunterschrift basierend auf der Produktbeschreibung unten. Verwende Emojis, füge 5 Hashtags hinzu und halte den Ton freundlich."
+"Du bist ein professioneller Vermarkter. Schreibe eine Instagram-Werbeunterschrift basierend auf der Produktbeschreibung unten. Verwende Emojis, füge 5 Hashtags hinzu und halte den Ton freundlich."
 
 **Gegenwart (3.0):**
-> (Nach dem Hochladen des Produktfotos) "Für Insta-Promo."
+(Nach dem Hochladen des Produktfotos) "Für Insta-Promo."
 
 Mit nur dieser kurzen Eingabe analysiert die KI die Stimmung des Bildes, leitet die Zielgruppe ab und generiert den optimalen Text.
 

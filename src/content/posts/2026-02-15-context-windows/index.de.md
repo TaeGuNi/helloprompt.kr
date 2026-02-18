@@ -12,8 +12,8 @@ In diesem Beitrag werden wir untersuchen, was Kontextfenster sind und wie man si
 
 Das Kontextfenster ist die Menge an Text (einschließlich Ein- und Ausgaben), die ein KI-Modell auf einmal verarbeiten kann. Stellen Sie es sich als das "Kurzzeitgedächtnis" des Modells vor.
 
-*   **Token:** Computer lesen Text in Stücken, die "Token" genannt werden. 1.000 Token entsprechen etwa 750 Wörtern im Englischen.
-*   **Fenstergröße:** Diese variiert je nach Modell. Frühe Modelle hatten Limits von etwa 4.000 Token, während moderne Schwergewichte wie Gemini 1.5 Pro über 1 Million Token verarbeiten können.
+- **Token:** Computer lesen Text in Stücken, die "Token" genannt werden. 1.000 Token entsprechen etwa 750 Wörtern im Englischen.
+- **Fenstergröße:** Diese variiert je nach Modell. Frühe Modelle hatten Limits von etwa 4.000 Token, während moderne Schwergewichte wie Gemini 1.5 Pro über 1 Million Token verarbeiten können.
 
 ## Warum ist das wichtig?
 
@@ -26,14 +26,17 @@ Deshalb können die spezifischen Persona-Anweisungen oder Projektbeschränkungen
 Hier sind einige Tipps, um Ihre KI bei langen Projekten oder Programmiersitzungen auf Kurs zu halten.
 
 ### 1. Zusammenfassen und Zurücksetzen (Summarize and Reset)
+
 Die effektivste Strategie besteht darin, die KI zu bitten, die bisherige Unterhaltung zusammenzufassen und dabei wichtige Entscheidungen und Code-Schnipsel festzuhalten. Nehmen Sie dann diese Zusammenfassung und starten Sie einen **Neuen Chat**.
 
-> "Fasse die wichtigsten Anforderungen und die Code-Struktur zusammen, die wir bisher beschlossen haben. Lass den Smalltalk weg."
+"Fasse die wichtigsten Anforderungen und die Code-Struktur zusammen, die wir bisher beschlossen haben. Lass den Smalltalk weg."
 
 ### 2. Kontext frisch halten
+
 Wenn Sie dauerhaften Zugriff auf Dokumentation benötigen, verwenden Sie Tools, die RAG (Retrieval-Augmented Generation) unterstützen, oder fügen Sie wichtiges Referenzmaterial regelmäßig manuell wieder in den Chat ein.
 
 ### 3. Seien Sie prägnant
+
 Höflichkeit ist nett, aber Wortreichtum verbrennt Token. Direkt und prägnant zu sein, lässt mehr Platz im Fenster für die eigentliche Arbeit und das logische Denken.
 
 ## Fazit

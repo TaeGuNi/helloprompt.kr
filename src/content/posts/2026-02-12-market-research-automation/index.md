@@ -9,7 +9,7 @@ description: "수천 개의 리뷰를 읽지 않고도 고객의 불만과 니�
 tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 ---
 
-# (Updated) 📝 경쟁사 리뷰, 언제 다 읽고 있나요? {#updated}
+# (Updated) (Updated) 📝 경쟁사 리뷰, 언제 다 읽고 있나요? {#updated}
 
 - **🎯 추천 대상:** 마케터, 예비 창업자, PM
 - **⏱️ 소요 시간:** 5시간 → 10분
@@ -19,13 +19,13 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"고객의 불평 속에 돈이 숨어 있다."_
+_"고객의 불평 속에 돈이 숨어 있다."_
 
 경쟁사 제품의 단점은 곧 내 제품의 기회입니다. 하지만 수천 개의 리뷰를 일일이 읽는 건 불가능하죠. AI에게 이 지루한 작업을 맡기고, 우리는 **인사이트**만 가져갑시다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 경쟁사 리뷰 데이터를 긁어온다. (크롤링 툴 or 텍스트 복사)
 2. AI에게 "불만 사항"과 "칭찬 사항"을 분류하고 요약하라고 시킨다.
@@ -33,9 +33,9 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 
 ---
 
-## (Updated) 🚀 해결책: "리뷰 광산 채굴기" {#updated}
+## (Updated) (Updated) 🚀 해결책: "리뷰 광산 채굴기" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 소량의 리뷰(30개 내외)를 분석할 때 좋습니다.
 
@@ -45,7 +45,7 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 대량의 데이터를 심층 분석할 때 사용하세요.
 
@@ -73,19 +73,23 @@ tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 특히 **크롤링한 엑셀 데이터**와 함께 쓸 때 강력합니다. Claude나 GPT-4의 Code Interpreter(Advanced Data Analysis) 기능을 켜고 엑셀 파일을 업로드한 뒤 이 프롬프트를 사용해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
 
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

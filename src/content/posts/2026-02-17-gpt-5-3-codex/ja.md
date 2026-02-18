@@ -29,6 +29,6 @@ Codex Sparkは「Spark」という名にふさわしく、**15ms未満のレイ�
 
 GPT-5.3 Codex Sparkは、本日からAPIおよび主要なIDEプラグインを通じて利用可能です。
 
-> 「Codex Sparkは、開発者が思考する速度でコードを書くことを可能にする真のパートナーです。」 - OpenAI Engineering Team
+「Codex Sparkは、開発者が思考する速度でコードを書くことを可能にする真のパートナーです。」 - OpenAI Engineering Team
 
 詳細は公式ドキュメントを参照してください。

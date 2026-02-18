@@ -6,15 +6,15 @@ image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]
 ---
 
-# (Updated) Automated Meeting Notes (Korean)
+# (Updated) (Updated) Automated Meeting Notes (Korean)
 
-## (Updated) Introduction
+## (Updated) (Updated) Introduction
 
 The landscape of AI is shifting rapidly. Today, we discuss **Automated Meeting Notes**.
 
-> "Efficiency vs Privacy concerns"
+"Efficiency vs Privacy concerns"
 
-## (Updated) Analysis
+## (Updated) (Updated) Analysis
 
 Why does this matter?
 
@@ -22,11 +22,15 @@ Why does this matter?
 2. **Impact**: It affects everyone.
 3. **Future**: This is just the beginning.
 
-## (Updated) Conclusion
+## (Updated) (Updated) Conclusion
 
 Stay tuned for more updates on ai-meeting-notes.
 
 _(Generated Content for Korean)_
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

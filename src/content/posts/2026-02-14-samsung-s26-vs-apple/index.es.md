@@ -44,4 +44,4 @@ Apple se centró en la 'Eficiencia' y la 'Integración'.
 
 El Galaxy S26 es para el **Usuario Avanzado** que busca potencia bruta. El iPhone 17 aspira a ser el **"Asistente que mejor te conoce"** mediante la integración de software y hardware.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

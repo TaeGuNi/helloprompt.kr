@@ -11,9 +11,9 @@ Des modificateurs comme "Explique en détail" ou "Dis-le moi étape par étape" 
 
 ## L'Évolution des Prompts
 
-*   **1.0** : Centré sur les mots-clés. Lister des mots comme on tape des termes de recherche.
-*   **2.0** : Instructions structurées. Utilisation de modèles complexes comme l'attribution de Rôles et de Contraintes.
-*   **3.0** : Centré sur l'intention. L'IA comprend le contexte et propose d'elle-même le résultat optimal.
+- **1.0** : Centré sur les mots-clés. Lister des mots comme on tape des termes de recherche.
+- **2.0** : Instructions structurées. Utilisation de modèles complexes comme l'attribution de Rôles et de Contraintes.
+- **3.0** : Centré sur l'intention. L'IA comprend le contexte et propose d'elle-même le résultat optimal.
 
 ## Qu'est-ce que le Prompting Basé sur l'Intention ?
 
@@ -22,10 +22,10 @@ C'est l'IA qui comprend parfaitement même si l'utilisateur s'exprime mal. Par e
 ### Exemple Pratique
 
 **Passé (2.0) :**
-> "Tu es un marketeur professionnel. Écris une légende promotionnelle pour Instagram basée sur la description du produit ci-dessous. Utilise des émojis, inclus 5 hashtags et garde un ton amical."
+"Tu es un marketeur professionnel. Écris une légende promotionnelle pour Instagram basée sur la description du produit ci-dessous. Utilise des émojis, inclus 5 hashtags et garde un ton amical."
 
 **Présent (3.0) :**
-> (Après avoir téléchargé la photo du produit) "Pour promo Insta."
+(Après avoir téléchargé la photo du produit) "Pour promo Insta."
 
 Avec juste cette courte entrée, l'IA analyse l'ambiance de l'image, déduit le public cible et génère le texte optimal.
 

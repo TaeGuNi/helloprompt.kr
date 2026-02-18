@@ -33,4 +33,4 @@ layout: "../../layouts/BlogPost.astro"
 
 与其关注媒体夸张的宣传，我们更应该关注那些默默与重力、摩擦力以及电池效率作斗争的工程师们的现实。因为真正的创新不是发生在华丽的舞台上，而是在沾满油污的实验室里非常缓慢地发生的。
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

@@ -24,4 +24,4 @@ KI-Liebhaber sind perfekt. Deshalb sind sie gefährlich. Echte menschliche Bezie
 
 Beziehungen zu KI sind heute eine unvermeidliche Realität. Anstatt sie nur als Tabu zu behandeln, müssen wir einen gesunden Weg der Koexistenz finden.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

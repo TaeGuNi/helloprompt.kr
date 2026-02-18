@@ -39,4 +39,4 @@ cover: "./cover.jpg"
 
 Galaxy S26 उन **पावर यूज़र्स** के लिए है जो डिवाइस पर ही सब कुछ प्रोसेस करना चाहते हैं। iPhone 17 का लक्ष्य **"सबसे समझदार सहायक"** बनना है।
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

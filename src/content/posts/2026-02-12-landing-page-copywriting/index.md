@@ -9,7 +9,7 @@ description: "고객이 들어오자마자 나가는 이유는? 히어로 섹션
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 
-# (Updated) 🎣 랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식 {#updated}
+# (Updated) (Updated) (Updated) 🎣 랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식 {#updated}
 
 - **🎯 추천 대상:** 광고비는 쓰는데 구매가 안 일어나는 사장님, 홈페이지 문구가 너무 밋밋해서 고민인 마케터
 - **⏱️ 소요 시간:** 10초 (문구 10개 생성)
@@ -19,13 +19,13 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"우리 서비스 좋아요. 진짜 좋은데... 뭐라고 설명할 방법이 없네."_
+_"우리 서비스 좋아요. 진짜 좋은데... 뭐라고 설명할 방법이 없네."_
 
 설명하지 마세요. **유혹하세요.** 고객은 당신의 서비스가 좋은지 관심 없습니다. **"내 문제를 해결해 줄까?"** 이것만 궁금합니다. 랜딩 페이지의 첫 화면(Hero Section)에서 고객의 멱살을 잡는 카피, AI에게 맡기세요.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Pain Point:** 고객의 고통을 찌른다. ("아직도 엑셀로 노가다 하세요?")
 2.  **Solution:** 해결책을 제시한다. ("클릭 한 번이면 끝납니다.")
@@ -33,9 +33,9 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 🚀 해결책: "Conversion Booster Prompt" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Conversion Booster Prompt" {#updated}
 
-### (Updated) 🥉 Basic Version (메인 카피) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (메인 카피) {#updated}
 
 한 줄로 사로잡기.
 
@@ -45,7 +45,7 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 <br>
 
-### (Updated) 🥇 Pro Version (AIDA 모델 적용) {#aida}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (AIDA 모델 적용) {#aida}
 
 설득의 정석.
 
@@ -64,7 +64,7 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 카피라이팅의 황금률은 **"You(당신)"**입니다.
 "저희 제품은(We)..."으로 시작하지 마세요.
@@ -72,7 +72,7 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 길게 쓰는 게 좋나요, 짧게 쓰는 게 좋나요?**
   - A: 헤드라인은 짧고 강렬하게(15자 이내), 본문은 설득력 있게(스토리텔링). AI에게 "헤드라인은 임팩트 있게, 본문은 친절하게"라고 톤을 분리해서 주문하세요.
@@ -82,34 +82,42 @@ tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **AIDA 프레임워크:** 마케팅의 고전인 AIDA를 적용하면, 두서없는 글이 아니라 **"설득의 논리적 흐름"**을 갖춘 페이지가 나옵니다.
 2.  **CTA 강조:** Action 단계에서 구체적인 버튼 문구를 요청하여, 단순히 "좋다"로 끝나는 게 아니라 **"행동(구매)"**으로 이어지게 설계했습니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (자기소개) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (자기소개) {#updated}
 
 "최고급 소재로 만든 인체공학 의자입니다. 편안함을 드립니다." (이탈률 90% 📉)
 
-### (Updated) ✅ After (고객 중심) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (고객 중심) {#updated}
 
-> **"허리 통증, 언제까지 참으실 건가요?"**
-> **"하루 10분, 앉아만 계세요. 자세는 의자가 고쳐드립니다."**
-> (체류 시간 2배 증가, 구매 전환율 20% 상승 🚀)
+**"허리 통증, 언제까지 참으실 건가요?"**
+**"하루 10분, 앉아만 계세요. 자세는 의자가 고쳐드립니다."**
+(체류 시간 2배 증가, 구매 전환율 20% 상승 🚀)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 랜딩 페이지는 **24시간 일하는 영업사원**입니다.
 말주변 없는 사원(Before)을 해고하고,
 말 잘하는 에이스(AI)를 고용하세요.
 
 **매출 그래프가 달라집니다.** 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

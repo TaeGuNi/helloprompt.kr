@@ -11,9 +11,9 @@ Modificatori come "Spiega in dettaglio" o "Dimmelo passo dopo passo" non sono pi
 
 ## L'Evoluzione dei Prompt
 
-*   **1.0**: Centrato sulle parole chiave. Elencare parole come inserire termini di ricerca.
-*   **2.0**: Istruzioni strutturate. Uso di modelli complessi come assegnazione di Ruoli e Vincoli.
-*   **3.0**: Centrato sull'intenzione. L'IA comprende il contesto e propone il risultato ottimale da sola.
+- **1.0**: Centrato sulle parole chiave. Elencare parole come inserire termini di ricerca.
+- **2.0**: Istruzioni strutturate. Uso di modelli complessi come assegnazione di Ruoli e Vincoli.
+- **3.0**: Centrato sull'intenzione. L'IA comprende il contesto e propone il risultato ottimale da sola.
 
 ## Cos'è il Prompting Basato sull'Intenzione?
 
@@ -22,10 +22,10 @@ Modificatori come "Spiega in dettaglio" o "Dimmelo passo dopo passo" non sono pi
 ### Esempio Pratico
 
 **Passato (2.0):**
-> "Sei un marketer professionista. Scrivi una didascalia promozionale per Instagram basata sulla descrizione del prodotto qui sotto. Usa emoji, includi 5 hashtag e mantieni un tono amichevole."
+"Sei un marketer professionista. Scrivi una didascalia promozionale per Instagram basata sulla descrizione del prodotto qui sotto. Usa emoji, includi 5 hashtag e mantieni un tono amichevole."
 
 **Presente (3.0):**
-> (Dopo aver caricato la foto del prodotto) "Per promo Insta."
+(Dopo aver caricato la foto del prodotto) "Per promo Insta."
 
 Con solo questo breve input, l'IA analizza l'atmosfera dell'immagine, deduce il pubblico di destinazione e genera il testo ottimale.
 

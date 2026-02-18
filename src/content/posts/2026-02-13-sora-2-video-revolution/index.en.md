@@ -23,7 +23,7 @@ tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 
 <!-- ⚠️ [Lint Rule] Blockquotes (>) must be used with italics (_..._) outside of Basic/Pro sections to avoid errors. -->
 
-> _"The era of creating Hollywood-grade videos without camera equipment, lighting, or actors has arrived."_
+_"The era of creating Hollywood-grade videos without camera equipment, lighting, or actors has arrived."_
 
 Sora, which surprised the world in 2024, has returned with version 2.0. It's not just about better picture quality. It features simulation capabilities that understand physical laws, precise audio syncing, and expert-level camera control functions. Now, you can bring your imagination to the screen with just a few lines of text.
 
@@ -62,10 +62,12 @@ Use this when you need a high-quality product teaser video quickly.
 > Create a luxurious 10-second commercial video for a new high-end perfume brand called 'Midnight Bloom'.
 >
 > **Format**
+>
 > - High resolution, photorealistic 8k video.
 > - Slow-motion close-up shots.
 >
 > **Constraint**
+>
 > - Ensure the lighting is moody and cinematic (purple and gold tones).
 > - No text overlays.
 
@@ -79,12 +81,14 @@ Suitable for short-form content requiring specific camera work and storytelling.
 > You are an award-winning cinematographer specializing in sci-fi genres.
 >
 > **Context**
+>
 > - **Genre:** Cyberpunk / Sci-Fi
 > - **Setting:** A rainy neon-lit street in Neo-Seoul, year 2050.
 > - **Subject:** A humanoid robot looking at a stray cat with curiosity.
 >
 > **Task**
 > Create a 15-second cinematic sequence with the following camera movements:
+>
 > 1. Start with a **Low Angle Shot** focusing on the robot's boots stepping into a puddle.
 > 2. Smoothly **Tilt Up** to reveal the robot's face.
 > 3. Perform a **Dolly In** towards the robot's eyes as it notices the cat.
@@ -93,6 +97,7 @@ Suitable for short-form content requiring specific camera work and storytelling.
 > Include the sound of heavy rain, distant futuristic sirens, and the mechanical whirring of the robot's joints.
 >
 > **Constraint**
+>
 > - Maintain consistent character details (silver metallic skin, glowing blue eyes).
 > - Aspect Ratio: 16:9
 
@@ -104,21 +109,18 @@ Try using this for music video backgrounds or artistic intro videos.
 
 > **Role**
 > You are a visual artist specializing in abstract 3D motion graphics.
->
 > **Task**
 > Generate a mesmerizing loop video representing the concept of 'Time and Memory'.
->
 > **Visuals**
-> - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
-> - Floating particles that glow and fade like fireflies.
-> - Color Palette: Deep indigo, bioluminescent blue, and warm amber.
->
-> **Camera**
-> - Continuous **Orbit Shot** around the central melting clock.
->
-> **Constraint**
-> - Seamless loop.
-> - Dreamy and ethereal atmosphere.
+
+- Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
+- Floating particles that glow and fade like fireflies.
+- Color Palette: Deep indigo, bioluminescent blue, and warm amber.
+  **Camera**
+- Continuous **Orbit Shot** around the central melting clock.
+  > **Constraint**
+- Seamless loop.
+- Dreamy and ethereal atmosphere.
 
 ---
 
@@ -129,6 +131,7 @@ Try using this for music video backgrounds or artistic intro videos.
 What surprised me most while using Sora 2.0 is the **'Revival of Directing'**. If version 1.0 was close to a random box, 2.0 reflects the director's (user's) intent quite accurately.
 
 **Tips:**
+
 1.  **Study Camera Terminology:** Using terms like 'Pan', 'Tilt', 'Dolly', 'Truck' makes a significant difference in the result.
 2.  **Audio Prompts are Important too:** Describing auditory information (sound of rain, murmuring crowds, etc.) in detail along with visual information doubles the immersion.
 3.  **Ethical Use:** Generated videos include a C2PA watermark. Do not remove this or deceive others into thinking it's real footage. Remember that malicious use of deepfakes is subject to legal punishment.

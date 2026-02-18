@@ -29,6 +29,6 @@ Codex Spark 名副其实，拥有**低于 15ms 的延迟**。这意味着它可�
 
 GPT-5.3 Codex Spark 从今天起可以通过 API 和主要 IDE 插件使用。
 
-> “Codex Spark 是一个真正的合作伙伴，让开发者能够以思考的速度编写代码。” - OpenAI Engineering Team
+“Codex Spark 是一个真正的合作伙伴，让开发者能够以思考的速度编写代码。” - OpenAI Engineering Team
 
 更多详情请参阅官方文档。

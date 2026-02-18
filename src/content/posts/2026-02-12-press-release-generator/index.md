@@ -9,7 +9,7 @@ description: "신제품 출시, 투자 유치... 알리고 싶은데 글 솜씨�
 tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 ---
 
-# (Updated) 📰 보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 기사' 뽑기 {#pr}
+# (Updated) (Updated) 📰 보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 기사' 뽑기 {#pr}
 
 - **🎯 추천 대상:** "우리 회사 기사 좀 내고 싶은데..." 고민하는 스타트업 대표, 보도자료 쓰느라 하루 다 보내는 홍보 담당자
 - **⏱️ 소요 시간:** 5분 (팩트 입력 -> 기사 생성)
@@ -19,13 +19,13 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이번에 신제품 나왔는데, 기사 어떻게 쓰지? '대박 났습니다'라고 쓰면 안 실어주겠지?"_
+_"이번에 신제품 나왔는데, 기사 어떻게 쓰지? '대박 났습니다'라고 쓰면 안 실어주겠지?"_
 
 기자들은 바쁩니다. 홍보성 멘트로 도배된 글은 쓰레기통행입니다. 기자가 **'복사+붙여넣기'**만 해도 기사가 되는 **스트레이트(Straight) 형식**으로 써서 보내야 합니다. AI가 가장 잘하는 분야 중 하나입니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **팩트(Fact):** 누가, 언제, 무엇을, 어떻게 했는지 정리한다.
 2.  **인용(Quote):** 대표님 코멘트("이번 출시는...")를 준비한다.
@@ -33,9 +33,9 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 
 ---
 
-## (Updated) 🚀 해결책: "Press Release Generator" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Press Release Generator" {#updated}
 
-### (Updated) 🥉 Basic Version (단신 기사) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (단신 기사) {#updated}
 
 간단한 소식 알리기.
 
@@ -44,7 +44,7 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (기획 기사 / 투자 유치) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (기획 기사 / 투자 유치) {#updated}
 
 중요한 마일스톤 발표.
 
@@ -68,7 +68,7 @@ tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 보도자료의 생명은 **'객관성'**입니다.
 "최고의", "놀라운", "혁신적인" 같은 형용사는 다 빼세요.
@@ -77,7 +77,7 @@ AI에게 "형용사 빼고 팩트 위주로 써"라고 시키는 게 포인트�
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 사진은요?**
   - A: 기사에 들어갈 고화질 사진(대표 사진, 제품 누끼컷)을 메일에 첨부해야 합니다. 캡션(사진 설명)도 꼭 쓰세요.
@@ -87,22 +87,22 @@ AI에게 "형용사 빼고 팩트 위주로 써"라고 시키는 게 포인트�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **기자 출신 페르소나:** "경제 신문 기자"라고 설정하면, AI가 딱딱하고 건조한 문체("~라고 밝혔다", "~로 풀이된다")를 구사합니다. 이게 바로 기사체입니다.
 2.  **Boilerplate(회사 소개):** 기사 마지막에 항상 들어가는 회사 소개 문구를 요청하여, 기자가 우리 회사를 따로 검색할 필요 없게 만듭니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (광고) {#updated}
+### (Updated) (Updated) ❌ Before (광고) {#updated}
 
 "저희 헬로프롬프트가 진짜 대박 투자를 받았습니다! 이제 세계 1등 할 거예요!" (기자: 삭제 🗑️)
 
-### (Updated) ✅ After (기사) {#updated}
+### (Updated) (Updated) ✅ After (기사) {#updated}
 
-> **[제목] 헬로프롬프트, 100억 규모 시리즈 A 투자 유치... 글로벌 진출 본격화**
+**[제목] 헬로프롬프트, 100억 규모 시리즈 A 투자 유치... 글로벌 진출 본격화**
 
 생성형 AI 스타트업 헬로프롬프트(대표 홍길동)가 100억 원 규모의 시리즈 A 투자를 유치했다고 11일 밝혔다. 이번 투자에는 OO벤처스 등이 참여했다... (중략)
 홍길동 대표는 "이번 자금 확보를 통해..."라고 말했다.
@@ -110,12 +110,16 @@ AI에게 "형용사 빼고 팩트 위주로 써"라고 시키는 게 포인트�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 기사는 '자랑'이 아니라 **'정보'**입니다.
 기자가 쓸 시간을 아껴주세요. 그러면 기사가 나갑니다.
 
 당신의 소식이 **세상의 뉴스**가 되는 순간입니다. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

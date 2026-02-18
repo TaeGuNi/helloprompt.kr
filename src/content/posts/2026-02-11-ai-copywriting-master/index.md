@@ -9,7 +9,7 @@ description: "상세페이지, 블로그, 이메일 제목... 아직도 머리 �
 tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 ---
 
-# (Updated) ✍️ 카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기 {#copywriting}
+# (Updated) (Updated) ✍️ 카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기 {#copywriting}
 
 - **🎯 추천 대상:** 상세페이지 전환율이 안 나와서 고민인 셀러, 뉴스레터 오픈율 10% 미만인 마케터
 - **⏱️ 소요 시간:** 10초 (제목 10개 생성)
@@ -19,13 +19,13 @@ tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"이 제품 진짜 좋은데... 사람들이 클릭을 안 해."_
+_"이 제품 진짜 좋은데... 사람들이 클릭을 안 해."_
 
 제품이 안 좋아서가 아닙니다. **제목이 구려서**입니다. 고객은 0.3초 만에 읽을지 말지를 결정합니다. 뇌를 자극하는 **'후킹(Hooking)'** 기술, AI에게 전수받으세요.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  제품의 핵심 장점(USP)과 타겟 고객을 AI에게 말한다.
 2.  "자극적으로 / 감성적으로 / 논리적으로" 3가지 톤으로 제목 10개씩 뽑아달라고 한다.
@@ -33,9 +33,9 @@ tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 
 ---
 
-## (Updated) 🚀 해결책: "Copywriter Bot" {#updated}
+## (Updated) (Updated) 🚀 해결책: "Copywriter Bot" {#updated}
 
-### (Updated) 🥉 Basic Version (블로그 제목) {#updated}
+### (Updated) (Updated) 🥉 Basic Version (블로그 제목) {#updated}
 
 검색에도 걸리고 클릭도 부르는 제목.
 
@@ -44,7 +44,7 @@ tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 
 <br>
 
-### (Updated) 🥇 Pro Version (상세페이지 헤드카피) {#updated}
+### (Updated) (Updated) 🥇 Pro Version (상세페이지 헤드카피) {#updated}
 
 지갑을 열게 만드는 마법의 문장.
 
@@ -66,7 +66,7 @@ tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 카피라이팅의 핵심은 **'구체성'**입니다.
 "편안한 잠" (X) -> "배개에 머리 대자마자 3초 컷" (O)
@@ -74,7 +74,7 @@ AI에게 "추상적인 형용사 빼고, 눈에 보이듯이 묘사해"라고 �
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: AI가 쓴 건 티 나지 않나요?**
   - A: 그냥 "써줘" 하면 티 납니다. "사람 냄새나게, 유행어 섞어서, 구어체로" 같은 디테일한 지시를 줘야 합니다.
@@ -84,33 +84,37 @@ AI에게 "추상적인 형용사 빼고, 눈에 보이듯이 묘사해"라고 �
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **프레임워크 적용:** 공포/이득/사회적 증거는 마케팅 불변의 법칙입니다. 이 틀을 AI에게 주면, 아무 말 대잔치 대신 **'팔리는 구조'**의 글을 씁니다.
 2.  **거장 소환:** "데이비드 오길비" 같은 거장을 언급하면, AI가 그의 문체나 철학을 흉내 내어 더 고급스러운 표현을 씁니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (밋밋함) {#updated}
+### (Updated) (Updated) ❌ Before (밋밋함) {#updated}
 
 "수면 귀마개 팝니다. 조용하고 편해요." (클릭률 0.5%)
 
-### (Updated) ✅ After (자극적) {#updated}
+### (Updated) (Updated) ✅ After (자극적) {#updated}
 
-> **"당신의 수면을 방해하는 건 소음이 아니라, 이 귀마개를 모르는 당신의 무관심입니다."**
-> (클릭률 5.2% -> 매출 10배 떡상 📈)
+**"당신의 수면을 방해하는 건 소음이 아니라, 이 귀마개를 모르는 당신의 무관심입니다."**
+(클릭률 5.2% -> 매출 10배 떡상 📈)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 글 한 줄 바꾸는 데 돈 들지 않습니다.
 하지만 그 한 줄이 매출의 0을 하나 더 붙입니다.
 
 지금 바로 AI를 고문하세요.
 **"더 자극적으로! 더 사고 싶게!"** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

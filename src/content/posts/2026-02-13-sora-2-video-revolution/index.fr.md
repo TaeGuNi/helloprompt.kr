@@ -14,15 +14,16 @@ tags: ["Sora 2.0", "AI Video", "Generative AI", "Content Creation"]
 Alors que le Sora initial se limitait à de courts clips, la version 2.0 prend en charge des vidéos longues capables de raconter une histoire.
 
 ### Fonctionnalités Clés
-*   **Cohérence (Consistency)** : Les personnages et les arrière-plans restent inchangés tout au long de la vidéo.
-*   **Synchro Audio** : Les effets sonores et la musique de fond sont générés et synchronisés automatiquement.
-*   **Contrôle de la Caméra** : Des mouvements de caméra professionnels comme le zoom avant/arrière, le panoramique et l'inclinaison peuvent être dirigés par texte.
+
+- **Cohérence (Consistency)** : Les personnages et les arrière-plans restent inchangés tout au long de la vidéo.
+- **Synchro Audio** : Les effets sonores et la musique de fond sont générés et synchronisés automatiquement.
+- **Contrôle de la Caméra** : Des mouvements de caméra professionnels comme le zoom avant/arrière, le panoramique et l'inclinaison peuvent être dirigés par texte.
 
 ## Changements dans l'Écosystème des Créateurs
 
 Les marchés de contenu court comme YouTube, TikTok et Instagram sont déjà inondés de vidéos IA. Les créateurs individuels peuvent désormais produire des effets visuels à la hauteur des studios hollywoodiens.
 
-> "Désormais, quiconque a une idée et des compétences en planification peut être réalisateur."
+"Désormais, quiconque a une idée et des compétences en planification peut être réalisateur."
 
 Cependant, cela constitue une menace importante pour les monteurs vidéo et les artistes CG existants. Le fossé entre ceux qui utilisent la technologie comme un outil et ceux qui sont remplacés par elle ne fera que se creuser.
 

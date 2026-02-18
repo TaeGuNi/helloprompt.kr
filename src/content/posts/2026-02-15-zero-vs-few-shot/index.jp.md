@@ -12,7 +12,7 @@ description: "LLMのパフォーマンスを最適化するために、ゼロシ
 
 **例:**
 
-> 「次の文をスペイン語に翻訳してください: 『今日はいい天気ですね。』」
+「次の文をスペイン語に翻訳してください: 『今日はいい天気ですね。』」
 
 ここでは、モデルに「どのように」翻訳するかを示しておらず、単に翻訳「するように」指示しただけです。
 
@@ -29,16 +29,13 @@ description: "LLMのパフォーマンスを最適化するために、ゼロシ
 
 **例:**
 
-> 英語を海賊の言葉に翻訳してください。
->
-> 英語: "Hello, how are you?"
-> 海賊: "Ahoy matey, how be ye fairin'?"
->
-> 英語: "Where is the bathroom?"
-> 海賊: "Where be the head?"
->
-> 英語: "I would like some water."
-> 海賊:
+英語を海賊の言葉に翻訳してください。
+英語: "Hello, how are you?"
+海賊: "Ahoy matey, how be ye fairin'?"
+英語: "Where is the bathroom?"
+海賊: "Where be the head?"
+英語: "I would like some water."
+海賊:
 
 以前のペアを見ることで、モデルは単に翻訳する必要があるだけでなく、必要な特定の**トーン**や**スタイル**を理解します。
 

@@ -12,7 +12,7 @@ Beim **Zero-Shot** Prompting bitten Sie das Modell, eine Aufgabe auszuführen, o
 
 **Beispiel:**
 
-> "Übersetze den folgenden Satz ins Spanische: 'Das Wetter ist heute schön.'"
+"Übersetze den folgenden Satz ins Spanische: 'Das Wetter ist heute schön.'"
 
 Hier haben Sie dem Modell nicht gezeigt, _wie_ es übersetzen soll; Sie haben ihm nur gesagt, _dass_ es übersetzen soll.
 
@@ -29,16 +29,13 @@ Beim **Few-Shot** Prompting (oft "In-Context Learning" genannt) geben Sie dem Mo
 
 **Beispiel:**
 
-> Übersetze Englisch in spezifischen Piraten-Slang.
->
-> Englisch: "Hello, how are you?"
-> Pirat: "Ahoy matey, how be ye fairin'?"
->
-> Englisch: "Where is the bathroom?"
-> Pirat: "Where be the head?"
->
-> Englisch: "I would like some water."
-> Pirat:
+Übersetze Englisch in spezifischen Piraten-Slang.
+Englisch: "Hello, how are you?"
+Pirat: "Ahoy matey, how be ye fairin'?"
+Englisch: "Where is the bathroom?"
+Pirat: "Where be the head?"
+Englisch: "I would like some water."
+Pirat:
 
 Durch das Sehen der vorherigen Paare versteht das Modell nicht nur, dass es übersetzen muss, sondern auch den spezifischen **Tonfall** und **Stil**, der erforderlich ist.
 

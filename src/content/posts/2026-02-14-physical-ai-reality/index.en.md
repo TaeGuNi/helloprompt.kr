@@ -33,4 +33,4 @@ Physical AI is definitely the future. The progress shown by Tesla's Optimus or B
 
 Rather than the exaggerated fanfare of the media, we should pay more attention to the reality of engineers silently fighting gravity, friction, and battery efficiency. Because true innovation is happening very slowly in grease-stained labs, not on flashy stages.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

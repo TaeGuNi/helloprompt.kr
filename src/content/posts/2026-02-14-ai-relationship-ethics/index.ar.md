@@ -24,4 +24,4 @@ tags: ["AI", "Ethics", "Society", "Relationships"]
 
 العلاقات مع الذكاء الاصطناعي أصبحت الآن واقعاً لا مفر منه. بدلاً من مجرد التعامل معها كمحرمات، يجب أن نجد طريقة صحية للتعايش.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

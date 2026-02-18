@@ -9,7 +9,7 @@ description: "PPT 슬라이드 디자인보다 중요한 건 '논리적인 구�
 tags: ["PPT", "발표", "기획"]
 ---
 
-# (Updated) 📝 발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트 {#intro}
+# (Updated) (Updated) (Updated) 📝 발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트 {#intro}
 
 - **🎯 추천 대상:** 기획자, 마케터, 대학생
 - **⏱️ 소요 시간:** 60분 → 5분 단축
@@ -19,13 +19,13 @@ tags: ["PPT", "발표", "기획"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-> _"PPT 슬라이드 디자인보다 중요한 건 '논리적인 구조'입니다. 기획 단계에서 30분을 절약하세요."_
+_"PPT 슬라이드 디자인보다 중요한 건 '논리적인 구조'입니다. 기획 단계에서 30분을 절약하세요."_
 
 PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 전개할까?'입니다. 이 프롬프트는 주제만 입력하면 논리적인 목차와 슬라이드별 핵심 메시지를 자동으로 구성해줍니다.
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 주제 입력 시 목차 자동 생성
 2. 슬라이드별 핵심 내용 및 시각화 아이디어 제안
@@ -33,9 +33,9 @@ PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 
 
 ---
 
-## (Updated) 🚀 해결책: "PPT Architect" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "PPT Architect" {#updated}
 
-### (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 목차만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 
 
 <br>
 
-### (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 기획과 시각화 가이드가 필요할 때 사용하세요.
 
@@ -77,13 +77,13 @@ PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트로 초안을 잡고 시작하면, "무슨 내용을 넣지?" 고민하는 시간을 줄이고 디자인 작업이나 리허설에 더 집중할 수 있습니다. 생성된 내용을 바탕으로 슬라이드 마스터를 먼저 잡는 것을 추천합니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 슬라이드 개수 지정 가능한가요?**
   - A: 네, 제약사항에 "총 10장 이내로 구성해줘"와 같이 추가하면 됩니다.
@@ -93,22 +93,22 @@ PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Role 부여:** "컨설턴트" 역할을 주어 논리적인 구조를 강조했습니다.
 2.  **Visual Idea:** 단순히 텍스트만 주는 것이 아니라, 시각화 아이디어까지 제안받아 실제 슬라이드 제작에 도움을 줍니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 그냥 우리 회사 신제품 소개 PPT 만들어줘.
 ```
 
-### (Updated) ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 | 슬라이드 | 제목 | 핵심 메시지 | 시각화 아이디어 |
@@ -121,9 +121,17 @@ PPT 작성을 시작할 때 가장 어려운 것은 '어떤 순서로 내용을 
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 발표 준비의 8할은 기획입니다. AI에게 기획을 맡기고, 당신은 발표 연습에 집중하세요! 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

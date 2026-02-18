@@ -33,4 +33,4 @@ L'IA Physique est définitivement l'avenir. Les progrès montrés par Optimus de
 
 Plutôt que la fanfare exagérée des médias, nous devrions accorder plus d'attention à la réalité des ingénieurs qui luttent silencieusement contre la gravité, la friction et l'efficacité de la batterie. Car la véritable innovation se produit très lentement dans des laboratoires tachés de graisse, et non sur des scènes flashy.
 
-> _Auto-generated QA fix_
+_Auto-generated QA fix_

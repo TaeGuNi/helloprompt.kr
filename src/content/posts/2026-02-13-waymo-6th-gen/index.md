@@ -8,21 +8,25 @@ heroImage: "/images/blog/default-auto.jpg"
 
 Waymo가 6세대 자율 주행 시스템(6th-generation driver)을 탑재한 차량으로 완전 자율 주행 운영을 시작했습니다. 이번 업데이트는 하드웨어와 소프트웨어 모두에서 상당한 진전을 이루었으며, 승객에게 더욱 안전하고 편안한 경험을 제공하는 것을 목표로 합니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) 주요 특징
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 주요 특징
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) 1. 향상된 센서 시스템
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 1. 향상된 센서 시스템
 
 새로운 6세대 드라이버는 이전 세대보다 더욱 정밀하고 강력한 센서 제품군을 자랑합니다. 더 넓은 시야각과 높은 해상도를 제공하여 복잡한 도시 환경에서도 주변 사물과 보행자를 더욱 정확하게 인식할 수 있습니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) 2. 악천후 대응 능력 강화
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 2. 악천후 대응 능력 강화
 
 비, 안개, 눈과 같은 좋지 않은 날씨 조건에서도 안정적인 주행이 가능하도록 성능이 대폭 개선되었습니다. 센서 클리닝 시스템과 향상된 인지 알고리즘을 통해 기상 상황에 관계없이 일관된 서비스를 제공합니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) 3. 더 부드러운 승차감
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 3. 더 부드러운 승차감
 
 급정거가 줄어들고 가속과 감속이 더욱 자연스러워졌습니다. Waymo는 수백만 마일의 주행 데이터를 바탕으로 주행 로직을 최적화하여, 마치 숙련된 인간 운전자가 운전하는 듯한 부드러운 승차감을 구현했습니다.
 
 Waymo의 이번 6세대 시스템 도입은 자율 주행 기술의 상용화를 앞당기는 중요한 이정표가 될 것으로 보입니다.
+
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 

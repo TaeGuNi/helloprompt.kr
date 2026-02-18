@@ -9,7 +9,7 @@ description: "오늘 커피 몇 잔 마셨나요? 카페인 반감기를 계산�
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) 📝 커피 섭취량에 따른 집중력 예측 봇 만들기
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 커피 섭취량에 따른 집중력 예측 봇 만들기
 
 - **🎯 추천 대상:** 밤에 잠 안 와서 유튜브 보다가 늦게 자는 악순환러
 - **⏱️ 소요 시간:** 1분
@@ -25,7 +25,7 @@ _"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 내가 마신 커피의 종류와 시간을 입력한다.
 2. 카페인 반감기(약 5시간)를 고려해 현재 체내 잔류량을 계산한다.
@@ -33,15 +33,15 @@ _"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "카페인 매니저"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "카페인 매니저"
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (단순 계산)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (단순 계산)
 
 > **요청:** 아메리카노 2잔 마셨어. 나 오늘 밤에 잠 잘 올까?
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (과학적 분석)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (과학적 분석)
 
 > **역할 (Role):** 너는 약리학 지식이 있는 건강 컨설턴트야.
 >
@@ -61,13 +61,13 @@ _"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 저는 오후 2시 이후에는 디카페인만 마십니다. 이 원칙을 지키고 나서 수면의 질이 완전히 달라졌습니다. AI에게 "지금 마셔도 돼?"라고 물어보고 "안 돼"라는 말을 들으면 컵을 내려놓게 됩니다.
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 디카페인에도 카페인이 있나요?**
   - A: 소량(10mg 이하) 들어있을 수 있습니다.
@@ -76,9 +76,13 @@ _"카페인은 빌려 쓰는 에너지입니다. 이자는 수면으로 갚아�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 건강한 각성이 최고의 생산성입니다. 카페인, 지배당하지 말고 지배하세요! ☕️
+
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 

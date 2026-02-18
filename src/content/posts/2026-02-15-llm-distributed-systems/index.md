@@ -6,15 +6,15 @@ image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]
 ---
 
-# (Updated) (Updated) (Updated) 분산 앱에서의 LLM
+# (Updated) (Updated) (Updated) 분산 앱에서의 LLM {#updated}
 
-## (Updated) (Updated) (Updated) 소개
+## (Updated) (Updated) (Updated) 소개 {#updated}
 
 대규모 언어 모델(LLM)의 소프트웨어 아키텍처 통합은 실험적인 챗봇 단계에서 복잡한 시스템의 핵심 구성 요소로 빠르게 이동했습니다. 분산 애플리케이션을 구축하는 개발자에게 이는 독특한 역설을 제시합니다. LLM은 비정형 데이터 처리와 의사 결정에 있어 전례 없는 유연성을 제공하지만, 높은 신뢰성과 일관성을 요구하는 시스템에 비결정론적 동작을 도입하기 때문입니다.
 
 단순한 API 호출을 넘어설 때, 마이크로서비스 전반에 걸친 에이전트 워크플로우의 일관성을 어떻게 보장하느냐가 과제가 됩니다. 그 해답은 확립된 정형 기법(formal methods)을 재검토하는 데 있을 수 있습니다.
 
-## (Updated) (Updated) (Updated) 분석
+## (Updated) (Updated) (Updated) 분석 {#updated}
 
 표준 분산 시스템에서 상태 관리는 매우 중요합니다. LLM이 트래픽 라우팅, 로그 요약 또는 서비스 간 협상과 같은 에이전트나 의사 결정 노드로 작동할 때, 이들은 사실상 상태 전이 함수가 됩니다. 그러나 전통적인 함수와 달리, 그들의 출력은 가변적일 수 있습니다.
 

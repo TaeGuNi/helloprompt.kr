@@ -25,7 +25,7 @@ _「人物のシルエットの中に森が入っているあの感じ、どう�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. `Double exposure`キーワードが核心です。
 2. `Silhouette of [A] combined with [B]` 構造を使用してください。
@@ -62,7 +62,7 @@ _「人物のシルエットの中に森が入っているあの感じ、どう�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

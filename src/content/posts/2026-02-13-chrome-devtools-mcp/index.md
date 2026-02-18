@@ -13,13 +13,13 @@ AI 코딩 에이전트가 단순히 코드를 작성하는 것을 넘어, 이제
 
 이 글에서는 Chrome DevTools용 MCP 서버가 무엇이며, 이것이 AI 에이전트의 개발 워크플로우를 어떻게 혁신하는지 살펴봅니다.
 
-## (Updated) (Updated) (Updated) Chrome DevTools MCP 서버란?
+## (Updated) (Updated) (Updated) Chrome DevTools MCP 서버란? {#updated}
 
 Chrome DevTools MCP 서버(`@modelcontextprotocol/server-chrome-devtools`)는 AI 에이전트와 크롬 브라우저를 연결해주는 다리 역할을 합니다. 이 서버를 사용하면 Claude Desktop이나 다른 MCP 호환 클라이언트가 여러분의 브라우저 탭에 직접 접근하여 개발자 도구(DevTools)의 기능을 사용할 수 있습니다.
 
 기존에는 AI에게 "웹사이트가 깨졌다"고 말하면, AI는 코드를 추측해서 수정해야 했습니다. 하지만 이제는 AI가 직접 브라우저를 들여다보고 원인을 파악할 수 있습니다.
 
-## (Updated) (Updated) (Updated) 주요 기능 및 활용 사례
+## (Updated) (Updated) (Updated) 주요 기능 및 활용 사례 {#updated}
 
 이 MCP 서버를 통해 AI 에이전트는 다음과 같은 강력한 기능을 수행할 수 있습니다:
 
@@ -41,7 +41,7 @@ Chrome DevTools MCP 서버(`@modelcontextprotocol/server-chrome-devtools`)는 AI
 
 - **활용:** UI 상태를 강제로 변경하거나, 특정 함수를 테스트 호출하여 로직이 정상 작동하는지 확인할 수 있습니다.
 
-## (Updated) (Updated) (Updated) 왜 이것이 중요한가요?
+## (Updated) (Updated) (Updated) 왜 이것이 중요한가요? {#updated}
 
 이 기술은 AI 에이전트를 단순한 '코드 생성기'에서 진정한 '자율 디버거'로 진화시킵니다.
 
@@ -49,7 +49,7 @@ Chrome DevTools MCP 서버(`@modelcontextprotocol/server-chrome-devtools`)는 AI
 - **정확도 향상:** AI가 렌더링된 실제 결과를 보고 판단하기 때문에 환각(Hallucination)이 줄어들고 더 정확한 솔루션을 제공합니다.
 - **엔드투엔드(E2E) 개발:** 기획부터 구현, 그리고 시각적 검증까지 AI가 개발의 전 과정을 더 깊이 있게 보조할 수 있게 됩니다.
 
-## (Updated) (Updated) (Updated) 시작하기
+## (Updated) (Updated) (Updated) 시작하기 {#updated}
 
 Chrome DevTools MCP 서버는 오픈 소스로 제공되며, 누구나 쉽게 설정하여 사용할 수 있습니다. AI와 함께하는 웹 개발의 미래, 지금 바로 경험해보세요.
 

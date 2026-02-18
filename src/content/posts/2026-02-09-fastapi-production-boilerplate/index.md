@@ -9,7 +9,7 @@ description: "Flask는 느리고 Django는 무겁다. 빠르고 현대적인 Fas
 tags: ["FastAPI", "Python", "백엔드", "비동기", "API"]
 ---
 
-# (Updated) (Updated) (Updated) ⚡️ FastAPI 프로덕션 레벨 보일러플레이트: 비동기 파이썬의 정점
+# (Updated) (Updated) (Updated) ⚡️ FastAPI 프로덕션 레벨 보일러플레이트: 비동기 파이썬의 정점 {#updated}
 
 - **🎯 추천 대상:** "파이썬은 느려"라는 편견을 깨고 싶은 개발자, AI 모델 서빙 서버가 필요한 ML 엔지니어
 - **⏱️ 소요 시간:** 10분 (프로젝트 세팅)
@@ -33,7 +33,7 @@ _"AI 모델은 파이썬으로 짰는데, 서버는 Node.js로 다시 짜야 하
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "FastAPI Generator Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "FastAPI Generator Prompt" {#updated}
 
 ### (Updated) (Updated) (Updated) 🥉 Basic Version (Hello World)
 
@@ -43,7 +43,7 @@ _"AI 모델은 파이썬으로 짰는데, 서버는 Node.js로 다시 짜야 하
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (프로덕션 아키텍처)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (프로덕션 아키텍처) {#updated}
 
 실제 서비스 가능한 구조 잡기.
 
@@ -84,7 +84,7 @@ AI에게 코드를 짜달라고 할 때 "Type Hint 꼼꼼하게 넣어줘"라고
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (Flask)
 

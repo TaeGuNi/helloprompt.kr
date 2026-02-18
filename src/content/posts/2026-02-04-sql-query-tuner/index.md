@@ -9,7 +9,7 @@ description: "복잡하고 비효율적인 SQL 쿼리를 분석하여 성능을 
 tags: ["SQL", "DB튜닝", "쿼리최적화", "데이터베이스"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 느려터진 SQL 쿼리, 3초 만에 튜닝하는 비법
+# (Updated) (Updated) (Updated) 📝 느려터진 SQL 쿼리, 3초 만에 튜닝하는 비법 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -35,9 +35,9 @@ AI에게 쿼리를 보여주면 비효율적인 부분을 찾아내고, 마법 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "SQL 쿼리 튜너"
+## (Updated) (Updated) (Updated) 🚀 해결책: "SQL 쿼리 튜너" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -46,7 +46,7 @@ AI에게 쿼리를 보여주면 비효율적인 부분을 찾아내고, 마법 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -82,11 +82,11 @@ AI에게 쿼리를 보여주면 비효율적인 부분을 찾아내고, 마법 �
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력 쿼리)
+### (Updated) (Updated) (Updated) ❌ Before (입력 쿼리) {#updated}
 
 ```sql
 SELECT * FROM users
@@ -95,7 +95,7 @@ WHERE id IN (SELECT user_id FROM orders WHERE price > 10000);
 
 _문제점: 서브쿼리가 매 행마다 실행될 수 있음(Dependent Subquery)._
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **최적화된 쿼리 (JOIN 사용):**
 

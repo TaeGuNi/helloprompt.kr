@@ -9,7 +9,7 @@ description: "이 사업, 해도 될까? 투자의사결정의 핵심 지표인 
 tags: ["엑셀", "투자분석", "NPV", "IRR"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 투자 타당성 분석: NPV와 IRR 자동 계산 엑셀
+# (Updated) (Updated) (Updated) 📝 투자 타당성 분석: NPV와 IRR 자동 계산 엑셀 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "투자 심사역 AI"
+## (Updated) (Updated) (Updated) 🚀 해결책: "투자 심사역 AI" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,20 +76,20 @@ _"지금 1억을 투자해서 5년 뒤 2억을 버는 게 이득일까요? 금�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 엑셀로 NPV IRR 구하는 법 알려줘.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) (Updated) (Updated) 📊 투자 분석 엑셀 공식
+### (Updated) (Updated) (Updated) 📊 투자 분석 엑셀 공식 {#updated}
 
 **1. NPV (순현재가치) 구하기**
 - **수식:** `=B2 + NPV(C2, B3:B7)`

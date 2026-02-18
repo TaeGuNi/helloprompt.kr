@@ -33,9 +33,9 @@ _"앱 하나 만드는데 3천만 원 달라고요? 전 그냥 버튼 누르면 
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "No-Code Builder Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "No-Code Builder Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기능 구현)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기능 구현) {#updated}
 
 특정 기능을 어떻게 만드는지 모를 때.
 
@@ -45,7 +45,7 @@ _"앱 하나 만드는데 3천만 원 달라고요? 전 그냥 버튼 누르면 
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (데이터베이스 설계 & 로직 검증) {#updated}
 
 앱의 뼈대(DB)를 잡을 때.
 
@@ -91,9 +91,9 @@ _"앱 하나 만드는데 3천만 원 달라고요? 전 그냥 버튼 누르면 
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (개발자 찾아 삼만리)
+### (Updated) (Updated) (Updated) ❌ Before (개발자 찾아 삼만리) {#updated}
 
 "개발자님 계신가요...?" (6개월 지남, 아이디어 식음 📉)
 

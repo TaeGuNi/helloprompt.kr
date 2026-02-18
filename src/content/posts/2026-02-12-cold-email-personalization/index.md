@@ -9,7 +9,7 @@ description: "상대방의 최근 활동을 기반으로 '나만을 위한 제�
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 "제안서입니다" 메일은 이제 그만.
+# (Updated) (Updated) (Updated) 📝 "제안서입니다" 메일은 이제 그만. {#updated}
 
 - **🎯 추천 대상:** B2B 영업 사원, SDR, 대표
 - **⏱️ 소요 시간:** 10분/통 → 10초/통
@@ -33,9 +33,9 @@ _"스팸함으로 직행하지 않는 유일한 방법은 '진짜 편지'를 쓰
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "아이스 브레이킹 봇"
+## (Updated) (Updated) (Updated) 🚀 해결책: "아이스 브레이킹 봇" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 > **역할:** 너는 `[영업 사원]`이야.
 > **요청:** 이 사람이 쓴 글을 보고, 자연스럽게 대화를 시작할 수 있는 첫 문장을 3개 추천해줘.
@@ -43,7 +43,7 @@ _"스팸함으로 직행하지 않는 유일한 방법은 '진짜 편지'를 쓰
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 AIDA 모델(Attention-Interest-Desire-Action)을 적용합니다.
 

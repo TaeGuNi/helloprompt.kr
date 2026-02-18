@@ -16,11 +16,11 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 与传统的数据中心 Kubernetes 不同，边缘环境面临着严峻的制约条件。
 
-### 1. 间歇性网络连接 (Intermittent Connectivity)
+### 1. 间歇性网络连接 (Intermittent Connectivity) {#intermittent-connectivity}
 
 边缘设备并不总是连接到稳定的网络。海上风力发电场或移动中的物流卡车的服务器经常会遇到网络中断。因此，边缘集群必须能够在与控制平面（Control Plane）断开连接的情况下自主运行（autonomously），并且需要具备在连接恢复时高效同步状态的机制。
 
-### 2. 资源受限 (Resource Constraints)
+### 2. 资源受限 (Resource Constraints) {#resource-constraints}
 
 数据中心的服务器可能拥有数百 GB 的 RAM，而边缘节点通常在 4GB 甚至 2GB RAM 和低功耗 ARM 处理器上运行。像 etcd 这样沉重的数据存储或过多的 Sidecar 容器在边缘环境中是奢侈品。
 
@@ -36,7 +36,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 - **单二进制文件分发**：打包为没有复杂依赖关系的单个二进制文件，简化了更新和管理。这为带宽受限网络上的无线（OTA）更新提供了显著优势。
 - **WASM (WebAssembly) 集成**：比容器更轻、启动时间更快的 WASM 工作负载已成为边缘端的主流。现代边缘 Kubernetes 发行版默认支持 WASM 运行时，最大限度地提高了资源效率。
 
-## 边缘端的 GitOps：舰队管理 (Fleet Management)
+## 边缘端的 GitOps：舰队管理 (Fleet Management) {#fleet-management}
 
 通过 `kubectl` 手动管理数千个集群是不可能的。边缘管理的核心是 **Fleet Management（舰队管理）**，而实现这一目标的方法论正是 GitOps。
 
@@ -49,7 +49,7 @@ ArgoCD 和 Flux 等 GitOps 工具在边缘环境中大放异彩。特别是，**
 - **安全性**：边缘设备无需打开入站端口。仅凭出站连接即可进行更新，简化了防火墙配置。
 - **连接恢复能力**：即使网络中断，连接一旦恢复，代理就会立即拉取最新配置并同步状态。
 
-### 模板与覆盖 (Overlays)
+### 模板与覆盖 (Overlays) {#overlays}
 
 并非所有边缘设备都具有相同的配置。设置可能因地区或设备型号而异。通过使用 Kustomize 或 Helm 进行分层结构设计，共享通用设置（Base）并动态应用特定于某些集群组的设置（Overlay）的模式已标准化。
 

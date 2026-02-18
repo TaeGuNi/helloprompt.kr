@@ -9,7 +9,7 @@ description: "웹사이트에 3D 모델을 띄우고 싶다면? React Three Fibe
 tags: ["Three.js", "R3F", "3D웹", "React", "프론트엔드"]
 ---
 
-# (Updated) (Updated) (Updated) 🧊 Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터랙션
+# (Updated) (Updated) (Updated) 🧊 Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터랙션 {#updated}
 
 - **🎯 추천 대상:** "우리 사이트는 너무 밋밋해" 고민하는 디자이너, 포트폴리오에 3D 하나쯤 넣고 싶은 프론트엔드 개발자
 - **⏱️ 소요 시간:** 15분 (기본 씬 구성)
@@ -33,9 +33,9 @@ _"애플 홈페이지처럼 막 제품이 빙글빙글 돌게 하고 싶어요."
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "3D Web Builder Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "3D Web Builder Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (회전하는 큐브)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (회전하는 큐브) {#updated}
 
 R3F 찍먹하기.
 
@@ -43,7 +43,7 @@ R3F 찍먹하기.
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (제품 쇼케이스 페이지)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (제품 쇼케이스 페이지) {#updated}
 
 애플 스타일 랜딩 페이지.
 
@@ -83,7 +83,7 @@ AI에게 "Draco 압축된 모델 로드하는 코드 줘"라고 하면 알려줍
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (2D 이미지) {#2d}
 

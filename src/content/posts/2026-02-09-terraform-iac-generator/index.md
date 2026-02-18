@@ -9,7 +9,7 @@ description: "클라우드 인프라를 코드로 관리(IaC)하기 위한 Terra
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 
-# (Updated) (Updated) (Updated) 🏗️ 인프라, 이제 클릭질 그만! Terraform 생성기
+# (Updated) (Updated) (Updated) 🏗️ 인프라, 이제 클릭질 그만! Terraform 생성기 {#updated}
 
 - **🎯 추천 대상:** AWS 콘솔에서 길을 잃은 개발자, 인프라 관리가 귀찮은 백엔드 개발자
 - **⏱️ 소요 시간:** 문서 찾기 1시간 → 3분
@@ -33,9 +33,9 @@ _"인프라는 애완동물이 아니라 가축처럼 다뤄야 합니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "IaC 빌더"
+## (Updated) (Updated) (Updated) 🚀 해결책: "IaC 빌더" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 리소스 하나가 급하게 필요할 때.
 
@@ -45,7 +45,7 @@ _"인프라는 애완동물이 아니라 가축처럼 다뤄야 합니다."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 프로덕션 환경을 구축할 때.
 
@@ -75,17 +75,17 @@ _"인프라는 애완동물이 아니라 가축처럼 다뤄야 합니다."_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 AWS에 VPC 만들고 퍼블릭 서브넷 2개랑 프라이빗 2개 만들어줘.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```hcl
 # (Updated) (Updated) (Updated) main.tf
@@ -100,7 +100,7 @@ module "vpc" {
   public_subnets  = ["10.0.101.0/24", "10.0.102.0/24"]
 
   enable_nat_gateway = true
-  # (Updated) (Updated) (Updated) ... (보안 설정 및 태그 포함)
+  # (Updated) (Updated) (Updated) ... (보안 설정 및 태그 포함) {#updated}
 }
 ```
 

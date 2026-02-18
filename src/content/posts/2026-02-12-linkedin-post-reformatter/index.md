@@ -9,7 +9,7 @@ description: "개발자의 딱딱한 회고록을 '좋아요'를 부르는 링�
 tags: ["LinkedIn", "Writing", "PersonalBranding", "Viral"]
 ---
 
-# (Updated) (Updated) (Updated) ✍️ "나도 퍼스널 브랜딩 하고 싶은데..." 글쓰기가 막막하다면?
+# (Updated) (Updated) (Updated) ✍️ "나도 퍼스널 브랜딩 하고 싶은데..." 글쓰기가 막막하다면? {#updated}
 
 - **🎯 추천 대상:** 퍼스널 브랜딩이 필요한 직장인, 이직 준비생
 - **⏱️ 소요 시간:** 글쓰기 2시간 → 5분
@@ -29,9 +29,9 @@ _"일은 잘하는데, 그걸 알릴 방법이 없네."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "LinkedIn Ghostwriter"
+## (Updated) (Updated) (Updated) 🚀 해결책: "LinkedIn Ghostwriter" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 기존에 썼던 블로그 글이나 메모를 다듬고 싶을 때.
 
@@ -41,7 +41,7 @@ _"일은 잘하는데, 그걸 알릴 방법이 없네."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 내 경험을 '스토리텔링'으로 풀어내어 바이럴을 노릴 때.
 

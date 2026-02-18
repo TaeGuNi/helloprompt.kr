@@ -27,7 +27,7 @@ _「このExcelファイルの内容をJSONに変えてAPIで送ってくださ�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. JSON ↔ CSV ↔ XML など自由なフォーマット変換
 2. 不要なフィールド除去およびデータ構造変更(マッピング)
@@ -74,13 +74,13 @@ _「このExcelファイルの内容をJSONに変えてAPIで送ってくださ�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 
 ## 📊 証明: Before & After
 
-### ❌ Before (入力 CSV)
+### ❌ Before (入力 CSV) {#csv}
 
 ```csv
 名前,年齢,職業
@@ -88,7 +88,7 @@ _「このExcelファイルの内容をJSONに変えてAPIで送ってくださ�
 キム・チョルス,25,デザイナー
 ```
 
-### ✅ After (結果 - JSON + フィールド名変更)
+### ✅ After (結果 - JSON + フィールド名変更) {#json}
 
 **リクエスト:** CSVをJSONに変えるが、英語フィールド名に変更して。
 
@@ -107,7 +107,7 @@ _「このExcelファイルの内容をJSONに変えてAPIで送ってくださ�
 ]
 ```
 
-### ✅ After (結果 - SQL Insert文)
+### ✅ After (結果 - SQL Insert文) {#sql-insert}
 
 **リクエスト:** MySQL `users`テーブルに入れられるINSERT文に変えて。
 

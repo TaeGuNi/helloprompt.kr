@@ -25,7 +25,7 @@ _“森林里树木之间倾泻的那神圣的光，怎么画？”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 请使用 `Volumetric lighting` 或 `God rays` 关键词。
 2. 描写 `Foggy`, `Dusty`, `Hazy` 等大气状态，效果加倍。
@@ -62,7 +62,7 @@ _“森林里树木之间倾泻的那神圣的光，怎么画？”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

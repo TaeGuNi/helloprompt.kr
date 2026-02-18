@@ -12,7 +12,7 @@ Gemini 3 Pro가 드디어 공개되었습니다. 이번 모델은 단순한 추�
 
 본 포스팅에서는 단순한 "Hello World" 수준의 테스트가 아닌, 실제 현업에서 마주할 법한 복잡한 시나리오를 통해 Gemini 3 Pro의 코딩 능력을 검증해 보았습니다.
 
-## (Updated) (Updated) (Updated) 테스트 환경 및 방법론
+## (Updated) (Updated) (Updated) 테스트 환경 및 방법론 {#updated}
 
 우리는 다음과 같은 세 가지 주요 영역에 집중했습니다.
 
@@ -20,7 +20,7 @@ Gemini 3 Pro가 드디어 공개되었습니다. 이번 모델은 단순한 추�
 2.  **시스템 프로그래밍**: Rust의 비동기 런타임 디버깅 및 소유권 문제 해결
 3.  **레거시 마이그레이션**: Java 8 기반의 모놀리식 코드를 Java 21 및 마이크로서비스 패턴으로 리팩토링
 
-## (Updated) (Updated) (Updated) 1. Python 알고리즘 최적화
+## (Updated) (Updated) (Updated) 1. Python 알고리즘 최적화 {#updated}
 
 복잡한 데이터 처리 파이프라인에서 병목을 일으키는 Pandas 코드를 주어졌을 때, Gemini 3 Pro는 즉각적으로 벡터화(Vectorization) 연산을 제안했습니다.
 
@@ -32,7 +32,7 @@ Gemini 3 Pro가 드디어 공개되었습니다. 이번 모델은 단순한 추�
 
 놀라운 점은 단순히 코드만 던져주는 것이 아니라, _왜_ 벡터화가 더 빠른지 메모리 레이아웃 관점에서 설명해 주었다는 것입니다.
 
-## (Updated) (Updated) (Updated) 2. Rust 소유권 및 라이프타임
+## (Updated) (Updated) (Updated) 2. Rust 소유권 및 라이프타임 {#updated}
 
 Rust 초심자들이 가장 어려워하는 라이프타임(Lifetime) 오류를 의도적으로 삽입한 코드를 제시했습니다.
 

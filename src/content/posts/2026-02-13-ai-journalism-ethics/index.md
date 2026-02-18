@@ -8,7 +8,7 @@ categories: ["AI Ethics", "Journalism"]
 tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 ---
 
-# (Updated) (Updated) (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이
+# (Updated) (Updated) (Updated) 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이 {#updated}
 
 _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-in-Chief)이 될 수도 있습니다."_
 
@@ -26,11 +26,11 @@ _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기
+## (Updated) (Updated) (Updated) 🚀 실전 프롬프트: 윤리적 팩트 체커 & 편향 탐지기 {#updated}
 
 여러분이 작성한(혹은 AI가 초안을 쓴) 기사가 윤리적으로 문제가 없는지 점검해주는 프롬프트입니다.
 
-### (Updated) (Updated) (Updated) 🛡️ Ethical Guardian (윤리적 가디언)
+### (Updated) (Updated) (Updated) 🛡️ Ethical Guardian (윤리적 가디언) {#updated}
 
 > **Role**
 > 당신은 20년 경력의 저널리즘 교수이자, 엄격한 **팩트 체커(Fact Checker)**입니다.

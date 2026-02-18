@@ -9,7 +9,7 @@ description: "유통기한 임박한 재료로 만드는 5성급 건강식 레�
 tags: ["요리", "레시피", "식단", "냉장고파먹기"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 냉장고 파먹기! AI 건강 레시피 생성기
+# (Updated) (Updated) (Updated) 📝 냉장고 파먹기! AI 건강 레시피 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"냉장고 구석에서 시들어가는 야채들... 버리지 마세요. 미�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "잔반 구조대 셰프"
+## (Updated) (Updated) (Updated) 🚀 해결책: "잔반 구조대 셰프" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"냉장고 구석에서 시들어가는 야채들... 버리지 마세요. 미�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"냉장고 구석에서 시들어가는 야채들... 버리지 마세요. 미�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "계란이랑 두부로 뭐 해먹을까?"
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 (두부 계란 덮밥 vs 시금치 두부 스크램블 중 선택 -> 조리 시간 10분 컷 상세 레시피 + 굴소스 활용 팁 제공)
 

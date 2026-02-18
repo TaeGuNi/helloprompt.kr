@@ -25,7 +25,7 @@ _"Hello... I'm fine... thank you... and you?" 要只说这句话到什么时候�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 完美体现用户想要的特定情况 (酒店入住, 入境审查, 商务会议等)
 2. AI 成为对话对方，实时进行 Tiki-Taka
@@ -70,7 +70,7 @@ _"Hello... I'm fine... thank you... and you?" 要只说这句话到什么时候�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

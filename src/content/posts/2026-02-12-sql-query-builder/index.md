@@ -9,7 +9,7 @@ description: "JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제
 tags: ["SQL", "데이터분석", "쿼리"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다
+# (Updated) (Updated) (Updated) 📝 복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다 {#updated}
 
 - **🎯 추천 대상:** 데이터 분석가, 마케터, 개발자
 - **⏱️ 소요 시간:** 30분 → 1분 단축
@@ -33,9 +33,9 @@ _"JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제 검색하�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "SQL Wizard"
+## (Updated) (Updated) (Updated) 🚀 해결책: "SQL Wizard" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 간단한 SELECT 문이 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제 검색하�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 복잡한 데이터 추출이나 최적화된 쿼리가 필요할 때 사용하세요.
 
@@ -98,9 +98,9 @@ _"JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제 검색하�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (입력 질문)
+### (Updated) (Updated) (Updated) ❌ Before (입력 질문) {#updated}
 
 ```text
 users 테이블이랑 orders 테이블 합쳐서, 2024년에 가입한 유저 중에 주문 금액이 10만원 이상인 사람 이름이랑 총 주문금액 보여줘.

@@ -9,7 +9,7 @@ description: "QUERY 함수부터 AppScript 자동화까지. 구글 시트를 데
 tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 ---
 
-# (Updated) (Updated) (Updated) 📊 Google Sheets 함수 마법사: 엑셀보다 강력한 클라우드 시트 활용법
+# (Updated) (Updated) (Updated) 📊 Google Sheets 함수 마법사: 엑셀보다 강력한 클라우드 시트 활용법 {#updated}
 
 - **🎯 추천 대상:** 팀원들과 엑셀 파일 주고받다가 버전 꼬여서 화난 사람, 구글 시트를 그냥 '온라인 엑셀'로만 쓰는 사람
 - **⏱️ 소요 시간:** 5분 (함수 적용)
@@ -33,9 +33,9 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Sheets Formula Wizard"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Sheets Formula Wizard" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (데이터 쿼리)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (데이터 쿼리) {#updated}
 
 필터링 기능을 함수로 구현하기.
 
@@ -85,9 +85,9 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (필터 기능)
+### (Updated) (Updated) (Updated) ❌ Before (필터 기능) {#updated}
 
 데이터 바뀔 때마다 필터 다시 걸고, 복사해서 다른 시트에 붙여넣고... (귀찮음 🐢)
 

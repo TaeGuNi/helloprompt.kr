@@ -9,7 +9,7 @@ description: "flex, grid, center... CSS 속성을 말하면 Tailwind 클래스�
 tags: ["Tailwind", "CSS", "프론트엔드", "웹디자인", "코딩"]
 ---
 
-# (Updated) (Updated) (Updated) 🌬️ Tailwind CSS 마스터: 클래스명 외우지 마세요
+# (Updated) (Updated) (Updated) 🌬️ Tailwind CSS 마스터: 클래스명 외우지 마세요 {#updated}
 
 - **🎯 추천 대상:** `justify-content: center`가 테일윈드로 뭔지 매번 검색하는 사람, `div` 지옥에 빠진 퍼블리셔
 - **⏱️ 소요 시간:** 5초 (변환)
@@ -33,9 +33,9 @@ Tailwind CSS는 빠르지만, 클래스명을 외우는 게 고역입니다. 검
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Tailwind Converter"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Tailwind Converter" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (속성 변환)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (속성 변환) {#updated}
 
 CSS를 Tailwind로 바꾸고 싶을 때.
 
@@ -44,7 +44,7 @@ CSS를 Tailwind로 바꾸고 싶을 때.
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (컴포넌트 생성)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (컴포넌트 생성) {#updated}
 
 복잡한 UI를 통째로 만들 때.
 
@@ -86,7 +86,7 @@ Tailwind의 꽃은 **'반응형(Responsive)'**과 **'다크 모드(Dark Mode)'**
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (CSS 파일 왔다 갔다) {#css}
 

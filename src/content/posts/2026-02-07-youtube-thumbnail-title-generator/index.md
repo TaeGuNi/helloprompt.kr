@@ -9,7 +9,7 @@ description: "AI에게 '클릭할 수밖에 없는' 제목과 썸네일 아이�
 tags: ["유튜브", "썸네일", "제목짓기", "어그로", "조회수"]
 ---
 
-# (Updated) (Updated) (Updated) 📺 "영상이 아무리 좋아도, 클릭 안 하면 0원입니다."
+# (Updated) (Updated) (Updated) 📺 "영상이 아무리 좋아도, 클릭 안 하면 0원입니다." {#updated}
 
 - **🎯 추천 대상:** 하꼬 유튜버, 소재 고갈된 크리에이터, 썸네일 고민만 3시간째인 편집자
 - **⏱️ 소요 시간:** 1시간 (기획) → 3분 (아이디어 10개)
@@ -35,9 +35,9 @@ AI에게 "인간의 호기심을 자극하는 법"을 가르치고, 매력적인
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "유튜브 어그로 장인"
+## (Updated) (Updated) (Updated) 🚀 해결책: "유튜브 어그로 장인" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (제목 생성기)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (제목 생성기) {#updated}
 
 빠르게 제목 아이디어만 필요할 때.
 
@@ -47,7 +47,7 @@ AI에게 "인간의 호기심을 자극하는 법"을 가르치고, 매력적인
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (썸네일 & 제목 패키지)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (썸네일 & 제목 패키지) {#updated}
 
 기획 단계부터 아예 맡겨버리는 강력한 프롬프트입니다.
 
@@ -83,11 +83,11 @@ AI에게 "인간의 호기심을 자극하는 법"을 가르치고, 매력적인
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (노잼)
+### (Updated) (Updated) (Updated) ❌ Before (노잼) {#updated}
 
 ```text
 제목: 다이소 꿀템 10가지 소개합니다.

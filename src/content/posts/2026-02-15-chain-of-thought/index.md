@@ -11,17 +11,17 @@ tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 
 마치 사람이 어려운 수학 문제를 풀 때 암산으로 바로 답을 내기보다, 종이에 풀이 과정을 적어가며 생각하는 것과 비슷합니다.
 
-### (Updated) (Updated) (Updated) 왜 CoT가 중요한가요?
+### (Updated) (Updated) (Updated) 왜 CoT가 중요한가요? {#updated}
 
 기존의 표준 프롬프팅(Standard Prompting) 방식은 모델에게 입력(질문)을 주고 바로 출력(답변)을 기대했습니다. 하지만 모델의 규모가 커져도 다단계 추론이 필요한 문제(예: 수학 문제, 상식 추론, 기호적 추론 등)에서는 성능의 한계가 있었습니다.
 
 CoT는 모델에게 "생각의 과정"을 예시로 보여주거나 요청함으로써, 모델이 문제를 더 작은 단위로 분해하고 논리적인 연결 고리를 따라가도록 만듭니다. 이를 통해 복잡한 문제 해결 능력이 획기적으로 향상됩니다.
 
-## (Updated) (Updated) (Updated) CoT의 작동 원리
+## (Updated) (Updated) (Updated) CoT의 작동 원리 {#updated}
 
 CoT의 핵심은 **"단계별로 생각하기(Let's think step by step)"**입니다.
 
-### (Updated) (Updated) (Updated) 예시: 수학 문제
+### (Updated) (Updated) (Updated) 예시: 수학 문제 {#updated}
 
 **표준 프롬프팅:**
 

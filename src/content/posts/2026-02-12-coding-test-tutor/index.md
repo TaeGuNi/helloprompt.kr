@@ -33,9 +33,9 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Algo Tutor Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Algo Tutor Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (힌트 요청)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (힌트 요청) {#updated}
 
 스스로 풀고 싶을 때.
 
@@ -45,7 +45,7 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (단계별 코칭)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (단계별 코칭) {#updated}
 
 과외 선생님 모드.
 
@@ -86,9 +86,9 @@ AI에게 "이 문제랑 비슷한 유형의 기출문제 3개만 더 추천해�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (시간 초과)
+### (Updated) (Updated) (Updated) ❌ Before (시간 초과) {#updated}
 
 `O(N^2)`으로 짰다가 효율성 테스트 탈락. "왜 틀렸는지 모르겠음." (멘붕 🤯)
 

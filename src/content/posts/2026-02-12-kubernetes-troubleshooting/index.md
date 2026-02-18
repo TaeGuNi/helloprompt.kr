@@ -33,9 +33,9 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (에러 해석)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (에러 해석) {#updated}
 
 로그가 무슨 말인지 모를 때.
 
@@ -45,7 +45,7 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성) {#updated}
 
 장애를 빠르게 복구하고 싶을 때.
 
@@ -93,9 +93,9 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (무한 삽질)
+### (Updated) (Updated) (Updated) ❌ Before (무한 삽질) {#updated}
 
 "어... 왜 안 뜨지? 노드 재부팅 해볼까?" (서비스 중단 🚨)
 

@@ -9,7 +9,7 @@ description: "긴 텍스트나 강의 노트를 입력하면 Anki, Quizlet 등�
 tags: ["암기", "플래시카드", "Anki", "Quizlet"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 손목 아픈 깜지 대신: 암기 카드 자동 생성기
+# (Updated) (Updated) (Updated) 📝 손목 아픈 깜지 대신: 암기 카드 자동 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"카드를 만드는 시간에 공부를 했으면 서울대 갔겠다."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Q&A 팩토리"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Q&A 팩토리" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"카드를 만드는 시간에 공부를 했으면 서울대 갔겠다."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,15 +77,15 @@ _"카드를 만드는 시간에 공부를 했으면 서울대 갔겠다."_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (텍스트 입력)
+### (Updated) (Updated) (Updated) ❌ Before (텍스트 입력) {#updated}
 
 "미토콘드리아는 세포의 발전소라고 불리며, ATP를 생성한다. 자체 DNA를 가지고 있다."
 
-### (Updated) (Updated) (Updated) ✅ After (프롬프트 결과)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트 결과) {#updated}
 
 ```text
 미토콘드리아의 별명은?;세포의 발전소

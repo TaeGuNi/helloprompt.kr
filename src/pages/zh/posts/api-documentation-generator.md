@@ -28,7 +28,7 @@ _“啊... 请稍等。（还没写一行）”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 基于代码提取准确的参数/响应明细
 2. 自动生成 OpenAPI (Swagger) YAML/JSON 格式
@@ -77,13 +77,13 @@ _“啊... 请稍等。（还没写一行）”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 
 ## 📊 证明: Before & After
 
-### ❌ Before (输入代码 - Node.js Express)
+### ❌ Before (输入代码 - Node.js Express) {#node-js-express}
 
 ```javascript
 app.post("/users", (req, res) => {
@@ -94,7 +94,7 @@ app.post("/users", (req, res) => {
 });
 ```
 
-### ✅ After (结果 - Markdown 示例)
+### ✅ After (结果 - Markdown 示例) {#markdown}
 
 ### **POST /users**
 

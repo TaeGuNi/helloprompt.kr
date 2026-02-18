@@ -9,7 +9,7 @@ description: "내가 만약 이순신 장군이었다면? 텍스트 어드벤처
 tags: ["역사공부", "게임화", "시뮬레이션", "대체역사"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 역사 속에 뛰어들다: 역사적 사건 시뮬레이터
+# (Updated) (Updated) (Updated) 📝 역사 속에 뛰어들다: 역사적 사건 시뮬레이터 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"임진왜란 1592년 발발... 외우기 싫다. 내가 직접 싸워보면 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "인터랙티브 히스토리 메이커"
+## (Updated) (Updated) (Updated) 🚀 해결책: "인터랙티브 히스토리 메이커" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"임진왜란 1592년 발발... 외우기 싫다. 내가 직접 싸워보면 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,15 +79,15 @@ _"임진왜란 1592년 발발... 외우기 싫다. 내가 직접 싸워보면 �
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (교과서)
+### (Updated) (Updated) (Updated) ❌ Before (교과서) {#updated}
 
 "명량해전에서 이순신은 13척의 배로 133척의 왜군을 물리쳤다. (울돌목의 조류 이용)"
 
-### (Updated) (Updated) (Updated) ✅ After (프롬프트 게임)
+### (Updated) (Updated) (Updated) ✅ After (프롬프트 게임) {#updated}
 
 **[상황]**
 당신은 통제사 이순신입니다. 남은 배는 단 13척. 저 멀리 수평선 가득 왜군 함대가 몰려옵니다. 부하들은 두려움에 떨고 있습니다.

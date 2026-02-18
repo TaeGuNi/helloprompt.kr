@@ -9,7 +9,7 @@ description: "무조건 MSA가 답일까? 트래픽 규모, 팀 크기, 배포 �
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 
-# (Updated) (Updated) (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다
+# (Updated) (Updated) (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다 {#updated}
 
 - **🎯 추천 대상:** "우리도 넷플릭스처럼 MSA 해야 하나요?" 묻는 스타트업 CTO, 서비스가 커지면서 배포가 무서워진 개발 팀장
 - **⏱️ 소요 시간:** 10분 (진단 및 결정)
@@ -34,9 +34,9 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Architecture Advisor Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Architecture Advisor Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (개념 비교)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (개념 비교) {#updated}
 
 장단점 파악하기.
 
@@ -44,7 +44,7 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (우리 팀 맞춤 진단)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (우리 팀 맞춤 진단) {#updated}
 
 의사결정 돕기.
 
@@ -90,13 +90,13 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (무지성 MSA) {#msa}
 
 개발자 4명이서 서비스 10개 관리 -> 로깅, 모니터링 하느라 기능 개발 못 함. (망함 📉)
 
-### (Updated) (Updated) (Updated) ✅ After (모듈러 모놀리스)
+### (Updated) (Updated) (Updated) ✅ After (모듈러 모놀리스) {#updated}
 
 하나의 프로젝트 안에서 `Order`, `Payment`, `Delivery` 폴더를 완벽히 격리 -> 서로 참조 못 하게 막음 -> **"나중에 트래픽 터지면 `Payment` 폴더만 떼어내서 서버 만들자."** (유연함 🧘)
 

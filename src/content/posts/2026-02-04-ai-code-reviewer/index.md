@@ -9,7 +9,7 @@ description: "시니어 개발자가 없어도 괜찮아. AI에게 코드 리뷰
 tags: ["코드리뷰", "개발자", "클린코드", "리팩토링", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 💻 AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로
+# (Updated) (Updated) (Updated) 💻 AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로 {#updated}
 
 - **🎯 추천 대상:** 사수 없이 혼자 일하는 주니어 개발자, 스파게티 코드에 고통받는 유지보수 담당자
 - **⏱️ 소요 시간:** 1분
@@ -33,9 +33,9 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Code Reviewer Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Code Reviewer Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (버그 찾기)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (버그 찾기) {#updated}
 
 급하게 에러만 잡고 싶을 때.
 
@@ -45,7 +45,7 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (구글 스타일 리팩토링)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (구글 스타일 리팩토링) {#updated}
 
 변수명부터 아키텍처까지 싹 뜯어고칠 때.
 
@@ -76,11 +76,11 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (스파게티 코드)
+### (Updated) (Updated) (Updated) ❌ Before (스파게티 코드) {#updated}
 
 ```javascript
 function c(x) {
@@ -89,7 +89,7 @@ function c(x) {
 }
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (클린 코드)
+### (Updated) (Updated) (Updated) ✅ After (클린 코드) {#updated}
 
 ```javascript
 /**

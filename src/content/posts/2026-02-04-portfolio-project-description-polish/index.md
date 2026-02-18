@@ -9,7 +9,7 @@ description: "단순한 프로젝트 나열이 아니라, 문제 해결 과정�
 tags: ["포트폴리오", "프로젝트설명", "경력기술서", "스토리텔링"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 평범한 프로젝트 경험을 '매력적인 포트폴리오'로 만드는 프롬프트
+# (Updated) (Updated) (Updated) 📝 평범한 프로젝트 경험을 '매력적인 포트폴리오'로 만드는 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"이 프로젝트 진짜 열심히 했는데, 글로 쓰니까 왜 이렇게 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Project Polish Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Project Polish Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"이 프로젝트 진짜 열심히 했는데, 글로 쓰니까 왜 이렇게 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -79,11 +79,11 @@ _"이 프로젝트 진짜 열심히 했는데, 글로 쓰니까 왜 이렇게 �
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (기능 나열)
+### (Updated) (Updated) (Updated) ❌ Before (기능 나열) {#updated}
 
 ```text
 쇼핑몰 웹사이트 제작 프로젝트
@@ -92,10 +92,10 @@ _"이 프로젝트 진짜 열심히 했는데, 글로 쓰니까 왜 이렇게 �
 - 열심히 만들었습니다.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (문제 해결 중심)
+### (Updated) (Updated) (Updated) ✅ After (문제 해결 중심) {#updated}
 
 ```markdown
-### (Updated) (Updated) (Updated) 🛍️ 대용량 트래픽 처리가 가능한 커머스 플랫폼 구축
+### (Updated) (Updated) (Updated) 🛍️ 대용량 트래픽 처리가 가능한 커머스 플랫폼 구축 {#updated}
 
 **Background:** 블랙 프라이데이 등 트래픽 급증 시 서버가 다운되는 문제를 해결하고자 시작했습니다.
 

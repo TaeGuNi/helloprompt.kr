@@ -9,7 +9,7 @@ description: "감정 분석을 통해 '화난 고객'을 먼저 찾아내는 CS 
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 화난 고객을 기다리게 하지 마세요.
+# (Updated) (Updated) (Updated) 📝 화난 고객을 기다리게 하지 마세요. {#updated}
 
 - **🎯 추천 대상:** CS 매니저, 쇼핑몰 운영자
 - **⏱️ 소요 시간:** 1시간 → 1분
@@ -33,9 +33,9 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "CS 응급실 트리아지"
+## (Updated) (Updated) (Updated) 🚀 해결책: "CS 응급실 트리아지" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 > **역할:** 너는 `[CS 팀장]`이야.
 > **요청:** 아래 문의 내용을 보고 [카테고리]와 [긴급도(상/중/하)]를 판단해서 알려줘.
@@ -43,7 +43,7 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 감정 분석을 결합하여 리스크를 관리합니다.
 

@@ -9,7 +9,7 @@ description: "남이 짠 레거시 코드, 보기만 해도 머리 아프다면?
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 
-# (Updated) (Updated) (Updated) 🧹 레거시 코드 청소기: 리팩토링 & 테스트 자동화
+# (Updated) (Updated) (Updated) 🧹 레거시 코드 청소기: 리팩토링 & 테스트 자동화 {#updated}
 
 - **🎯 추천 대상:** 주니어 개발자, 레거시 프로젝트 유지보수 담당자
 - **⏱️ 소요 시간:** 코드 분석 1시간 → 5분
@@ -34,9 +34,9 @@ _"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Senior Dev Simulator"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Senior Dev Simulator" {#updated}
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 이 프롬프트는 단계별로 진행됩니다. (Chain of Thought)
 
@@ -87,25 +87,25 @@ _"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```python
 def calc(a, b, t):
     if t == 1: return a + b
     elif t == 2: return a - b
-    # (Updated) (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버
+    # (Updated) (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버 {#updated}
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```python
 def calculate_transaction(amount, tax, type):
     """거래 유형에 따라 최종 금액을 계산합니다."""
     if type == TransactionType.DEPOSIT:
         return amount + tax
-    # (Updated) (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가
+    # (Updated) (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가 {#updated}
 ```
 
 `test_calculate_transaction.py` 파일까지 생성됨.

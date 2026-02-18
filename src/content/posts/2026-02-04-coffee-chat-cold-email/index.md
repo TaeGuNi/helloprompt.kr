@@ -9,7 +9,7 @@ description: "현직자에게 조언을 구하거나 네트워킹을 하고 싶�
 tags: ["커피챗", "콜드메일", "네트워킹", "멘토링"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트 {#coffee-chat}
+# 📝 거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트 {#coffee-chat}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 상대방의 프로필이나 최근 활동(글, 프로젝트)을 언급하며 관심을 표현합니다.
 2. 내가 누구이며 왜 '하필 당신'에게 연락했는지 명확한 이유를 밝힙니다.
@@ -33,9 +33,9 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Cold DM Writer"
+## 🚀 해결책: "Cold DM Writer"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -76,24 +76,24 @@ _"모르는 사람한테 다짜고짜 연락해도 될까? 읽씹 당하면 어�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (나만 생각함)
+### ❌ Before (나만 생각함)
 
 ```text
 "안녕하세요. 저 취준생인데 조언 좀 해주세요.
 언제 시간 되세요?" (읽씹 확정)
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (상대를 배려함)
+### ✅ After (상대를 배려함)
 
 ```text
 "안녕하세요, OO님. 최근 브런치에 올리신 '주니어 성장기' 글을 읽고 큰 영감을 받아 연락드렸습니다.
@@ -105,14 +105,14 @@ OO님의 경험담이 제 커리어 방향성에 큰 이정표가 될 것 같습
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -122,20 +122,14 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 콜드 메일의 성공률은 낮습니다. 하지만 10명에게 보내서 1명이라도 연결된다면, 그 1명이 당신의 인생을 바꿀 멘토가 될 수 있습니다.
 
 용기 내어 '전송'을 누르세요. 잃을 건 없습니다. ☕️
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

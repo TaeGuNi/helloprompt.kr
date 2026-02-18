@@ -9,7 +9,7 @@ description: "CVE-2026-20841, 메모장을 여는 것만으로 해킹될 수 있
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 가장 안전할 줄 알았던 '메모장'의 배신
+# 📝 가장 안전할 줄 알았던 '메모장'의 배신
 
 - **🎯 추천 대상:** 윈도우 사용자, 시스템 관리자
 - **⏱️ 읽는 시간:** 2분
@@ -21,7 +21,7 @@ _"텍스트 파일 하나 열었을 뿐인데 해킹당할 수 있다니, 믿기
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **취약점**: 윈도우 메모장 앱의 파싱 오류를 이용한 원격 코드 실행.
 2. **위험성**: 이메일 첨부파일이나 다운로드한 텍스트 파일을 여는 것만으로 감염 가능.
@@ -29,17 +29,17 @@ _"텍스트 파일 하나 열었을 뿐인데 해킹당할 수 있다니, 믿기
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 "메모장은 단순해서 안전하다"는 통념이 깨졌습니다. 레거시 코드와 새로운 기능(탭 기능 등)이 섞이면서 예상치 못한 버그가 발생한 것으로 보입니다. **출처가 불분명한 .txt 파일도 이제는 의심해야 하는 시대**입니다. 즉시 업데이트하세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🔗 참고 링크 {#references}
+## 🔗 참고 링크 {#references}
 
 - [CVE-2026-20841 상세 정보](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -47,14 +47,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

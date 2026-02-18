@@ -9,7 +9,7 @@ description: "그림 못 그려도 됩니다. DALL-E와 미드저니로 '멈춰�
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 
-# (Updated) (Updated) (Updated) 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기
+# 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기
 
 - **🎯 추천 대상:** 끄적거리는 거 좋아하는 사람, 카카오 이모티콘 승인받아서 연금 만들고 싶은 부업 러
 - **⏱️ 소요 시간:** 10분 (캐릭터 시트 생성)
@@ -25,7 +25,7 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  캐릭터의 외형(흰색 곰, 빨간 목도리 등)을 정의한다.
 2.  AI에게 **"이 캐릭터의 [웃는/우는/화난] 표정을 그려줘"**라고 시킨다.
@@ -33,9 +33,9 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Emoticon Factory Prompt"
+## 🚀 해결책: "Emoticon Factory Prompt"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (캐릭터 시트)
+### 🥉 Basic Version (캐릭터 시트)
 
 캐릭터 디자인 잡기.
 
@@ -43,7 +43,7 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (감정 표현 세트)
+### 🥇 Pro Version (감정 표현 세트)
 
 24종 세트 만들기.
 
@@ -61,14 +61,14 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이모티콘 승인의 핵심은 **'멈춰있는 이모티콘'**입니다. (움직이는 건 난이도가 높아요)
 대신 **'메시지(텍스트)'**가 중요합니다. 그림 밑에 "넵!", "감사합니다", "퇴근각" 같은 직장인 필수 멘트를 포토샵으로 넣어주세요. AI는 그림만 그리고, 멘트는 사람이 넣어야 맛이 삽니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 저작권은요?**
   - A: DALL-E 3 유료 사용자는 상업적 이용이 가능합니다. 단, 카카오는 AI 생성물에 대한 심사가 까다로울 수 있으니, AI 그림을 밑바탕(Tracer)으로 두고 아이패드로 다시 그리는 걸 추천합니다. (리터칭)
@@ -78,20 +78,20 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **그리드 뷰(Grid View):** "한 번에 보여줘"라고 하면 캐릭터 시트(Character Sheet)처럼 여러 표정을 한 장에 그려줍니다. 이렇게 해야 캐릭터가 안 변하고 똑같이 나옵니다.
 2.  **굵은 외곽선:** 이모티콘은 작게 보이기 때문에 선이 굵어야 잘 보입니다. "Thick Outline"은 필수 키워드입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (낙서)
+### ❌ Before (낙서)
 
 동그라미에 점 두 개 찍음. (친구들한테만 씀 🥲)
 
-### (Updated) (Updated) (Updated) ✅ After (AI 생성) {#ai}
+### ✅ After (AI 생성) {#ai}
 
 **AI:** (프로 작가가 그린 듯한 6가지 표정의 오리 캐릭터 생성)
 **나:** "와, 이거 대박이다. 바로 승인 신청!"
@@ -99,7 +99,7 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 이모티콘 작가는 '그림 잘 그리는 사람'이 아닙니다.
 **'공감 가는 상황'**을 잘 포착하는 사람입니다.
@@ -107,14 +107,8 @@ _"내 강아지로 이모티콘 만들고 싶은데... 똥손이라 못 그리�
 그림은 AI에게 맡기고, 당신은 **기획**을 하세요.
 **"이 오리는 월요병에 걸린 직장인이야."** 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

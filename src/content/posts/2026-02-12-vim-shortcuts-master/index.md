@@ -9,7 +9,7 @@ description: "개발자의 로망, 빔(Vim). hjkl부터 매크로까지, 손가�
 tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 ---
 
-# (Updated) (Updated) (Updated) ⌨️ Vim 단축키 마스터: 마우스 없이 코딩하는 법
+# ⌨️ Vim 단축키 마스터: 마우스 없이 코딩하는 법
 
 - **🎯 추천 대상:** 코딩하다가 마우스 잡으러 손 뻗는 0.5초가 아까운 괴짜 개발자, 터미널에서 `vi` 켰다가 못 빠져나와서 컴퓨터 껐다 켠 사람
 - **⏱️ 소요 시간:** 평생 (하지만 10분이면 기본은 함)
@@ -25,7 +25,7 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Normal Mode:** 명령을 내리는 상태. (ESC 누르면 됨)
 2.  **Insert Mode:** 글을 쓰는 상태. (`i` 누르면 됨)
@@ -33,9 +33,9 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Vim Tutor Prompt"
+## 🚀 해결책: "Vim Tutor Prompt"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (생존 키트)
+### 🥉 Basic Version (생존 키트)
 
 일단 파일 수정하고 저장하고 끄기.
 
@@ -43,7 +43,7 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (매크로 & 레지스터)
+### 🥇 Pro Version (매크로 & 레지스터)
 
 반복 작업 자동화.
 
@@ -67,14 +67,14 @@ Vim은 에디터가 아니라 **'언어'**입니다. `d`(삭제) `2`(두 번) `w
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 Vim을 억지로 쓰진 마세요. 하지만 **VS Code에 Vim 확장을 깔아서** 쓰는 건 강력 추천합니다.
 이동은 `hjkl`로 하고, 다중 커서나 리팩토링은 VS Code 기능을 쓰는 **하이브리드** 방식이 현대 개발자의 국룰입니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: `hjkl`이 왜 방향키죠?**
   - A: 옛날 키보드엔 화살표 키가 없었거든요. (진짜임) 오른손이 기본 자리(Home Row)에서 벗어나지 않게 하기 위함입니다.
@@ -84,27 +84,27 @@ Vim을 억지로 쓰진 마세요. 하지만 **VS Code에 Vim 확장을 깔아�
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **반복 작업 예시:** "100줄 수정"이라는 구체적 상황을 주면, AI가 단순 단축키 나열이 아니라 **'매크로(녹화 및 재생)'**라는 Vim의 꽃을 설명해 줍니다.
 2.  **환경 설정(VS Code):** 순수 Vim은 너무 하드코어합니다. 대중적인 VS Code 환경을 전제로 팁을 달라고 하면 훨씬 실용적인 답변이 나옵니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (마우스)
+### ❌ Before (마우스)
 
 마우스 잡고 드래그 -> 키보드로 수정 -> 다시 마우스 잡고 다음 줄 클릭 -> (손목 터널 증후군 🏥)
 
-### (Updated) (Updated) (Updated) ✅ After (Vim)
+### ✅ After (Vim)
 
 `qa` (녹화 시작) -> `^cw` (수정) -> `j` (아래로) -> `q` (녹화 끝) -> `99@a` (99번 반복)
 (타다닥! 1초 만에 100줄 수정 완료 ⚡️)
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 마우스를 버리라는 게 아닙니다.
 키보드만으로 할 수 있는 일은 키보드로 끝내라는 겁니다.
@@ -112,14 +112,8 @@ Vim을 억지로 쓰진 마세요. 하지만 **VS Code에 Vim 확장을 깔아�
 남들이 마우스 커서 찾느라 휘적거릴 때,
 당신은 이미 코딩을 끝내고 커피를 마십니다. 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

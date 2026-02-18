@@ -9,7 +9,7 @@ description: "감정 분석을 통해 '화난 고객'을 먼저 찾아내는 CS 
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 화난 고객을 기다리게 하지 마세요.
+# 📝 화난 고객을 기다리게 하지 마세요.
 
 - **🎯 추천 대상:** CS 매니저, 쇼핑몰 운영자
 - **⏱️ 소요 시간:** 1시간 → 1분
@@ -25,7 +25,7 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 고객 문의 내역을 모은다.
 2. AI에게 "감정 점수"와 "카테고리"를 분류시킨다.
@@ -33,9 +33,9 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "CS 응급실 트리아지"
+## 🚀 해결책: "CS 응급실 트리아지"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### 🥉 Basic Version (기본형)
 
 > **역할:** 너는 `[CS 팀장]`이야.
 > **요청:** 아래 문의 내용을 보고 [카테고리]와 [긴급도(상/중/하)]를 판단해서 알려줘.
@@ -43,7 +43,7 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 감정 분석을 결합하여 리스크를 관리합니다.
 
@@ -70,13 +70,13 @@ CS 게시판에 쌓인 수백 개의 글. 순서대로 답변하다가 정말 �
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트의 결과값(JSON)을 자피어(Zapier)나 메이크(Make)와 연동하면, **"감정 점수 5점인 문의가 오면 슬랙으로 즉시 알림"**을 보낼 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -84,14 +84,8 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

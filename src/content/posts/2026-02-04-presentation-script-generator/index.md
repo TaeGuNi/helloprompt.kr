@@ -9,7 +9,7 @@ description: "PPT 슬라이드 별로 자연스러운 발표 스크립트 생성
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 발표 공포증 극복! 프레젠테이션 대본짜기
+# 📝 발표 공포증 극복! 프레젠테이션 대본짜기
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 복잡한 업무를 프롬프트 하나로 해결합니다.
 2. 엑셀, 보고서, 이메일 등 실무에 즉시 적용 가능합니다.
@@ -33,9 +33,9 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "스피치 라이터"
+## 🚀 해결책: "스피치 라이터"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -66,23 +66,23 @@ _"PPT는 다 만들었는데, 앞에만 서면 머리가 하얘지시나요?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### ❌ Before (입력)
 
 ```text
 1번 슬라이드: 시장 현황, 2번 슬라이드: 문제점. 대본 써줘.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### ✅ After (결과)
 
 ```text
 Slide 1: 여러분, 이 그래프를 보시죠. 시장이 급변하고 있습니다. 그런데 여기서 우리가 주목해야 할 점은 무엇일까요?
@@ -91,14 +91,14 @@ Slide 1: 여러분, 이 그래프를 보시죠. 시장이 급변하고 있습니
 
 ---
 
-## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -108,20 +108,14 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+## 🎯 결론 {#conclusion}
 
 완벽한 대본이 있으면 발표는 연기가 됩니다.
 
 이제 칼퇴하세요! 🍷
 
-## (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

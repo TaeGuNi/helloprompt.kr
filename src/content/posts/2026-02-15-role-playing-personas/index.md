@@ -6,13 +6,13 @@ image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 효과적인 역할 프롬프팅 (Role Prompting) {#role-prompting}
+# 효과적인 역할 프롬프팅 (Role Prompting) {#role-prompting}
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 소개 (Introduction) {#introduction}
+## 소개 (Introduction) {#introduction}
 
 대규모 언어 모델(LLM) 엔지니어링의 진화하는 환경에서, 입력의 정밀도는 종종 출력의 품질을 결정짓습니다. 개발자로서 우리는 API를 결정론적인 시스템으로 취급하는 데 익숙하지만, LLM은 확률적인 계층을 도입하므로 다른 접근 방식이 필요합니다. 우리의 도구 상자에서 가장 강력한 기술 중 하나는 **역할 프롬프팅(Role Prompting)**입니다. 이는 작업을 할당하기 전에 모델에게 "수석 파이썬 아키텍트", "테크니컬 라이터", 또는 "QA 엔지니어"와 같은 특정 정체성을 가정하도록 명시적으로 지시하는 것을 의미합니다. 이 겉보기에 단순한 문맥적 앵커(Contextual Anchor)는 모호성을 대폭 줄이고 모델의 응답을 복잡한 프로젝트 요구 사항에 일치시킬 수 있습니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 분석 (Analysis) {#analysis}
+## 분석 (Analysis) {#analysis}
 
 페르소나 없이 LLM에 쿼리를 보내면 모델은 기본적으로 제너럴리스트(Generalist) 모드로 작동하며, 방대한 학습 데이터를 평균화하여 "안전하고" 일반적인 답변을 제공합니다. 이는 종종 사실적으로는 정확할지라도, 전문적인 작업에 필요한 뉘앙스가 결여되어 있습니다.
 
@@ -28,30 +28,18 @@ tags: ["AI", "Tech", "role-playing-personas"]
 
 두 번째 프롬프트는 페르소나를 활용하여 주니어 개발자나 일반적인 모델이 간과할 수 있는 명시되지 않은 요구 사항들—탄력성, 특정 알고리즘(지수 백오프), 리소스 관리(풀링)—을 추론해냅니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 결론 (Conclusion) {#conclusion}
+## 결론 (Conclusion) {#conclusion}
 
 효과적인 역할 프롬프팅은 단순한 의미론적 속임수 그 이상입니다. 이는 모델의 확률적 생성을 여러분의 특정 엔지니어링 표준에 일치시키는 문맥 설정 메커니즘입니다. 모델이 **누구**인지를 정의함으로써, 여러분은 모델이 문제를 **어떻게** 해결해야 하는지를 암시적으로 정의하게 됩니다. LLM을 개발 워크플로에 더 깊이 통합함에 따라, 이 기술을 마스터하는 것은 단순한 코드 생성을 넘어 전문적인 코드베이스에 매끄럽게 통합될 수 있는 전문적이고 고품질의 솔루션을 얻는 데 필수적입니다.
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
+## Conclusion
 
-## (Updated) (Updated) (Updated) (Updated) Conclusion
+## Conclusion
 
-Wait, there is more...
-
-## (Updated) (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) (Updated) Conclusion
-
-Wait, there is more...
-
-## (Updated) Conclusion
-
-Wait, there is more...
+## Conclusion

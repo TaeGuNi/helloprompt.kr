@@ -2802,352 +2802,402 @@
   {
     "slug": "2026-02-12-blockchain-solidity-audit",
     "path": "src/content/posts/2026-02-12-blockchain-solidity-audit/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-travel-packing-checklist",
     "path": "src/content/posts/2026-02-04-travel-packing-checklist/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-optimizing-context-windows",
     "path": "src/content/posts/2026-02-15-optimizing-context-windows/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-openai-should-build-slack",
     "path": "src/content/posts/2026-02-15-openai-should-build-slack/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-ai-agent-swarms-2026",
     "path": "src/content/posts/2026-02-15-ai-agent-swarms-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-low-poly-voxel-art",
     "path": "src/content/posts/2026-02-04-low-poly-voxel-art/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-golden-hour-lighting",
     "path": "src/content/posts/2026-02-04-golden-hour-lighting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-multimodal-reasoning-2026",
     "path": "src/content/posts/2026-02-15-multimodal-reasoning-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-14-ai-relationship-ethics",
     "path": "src/content/posts/2026-02-14-ai-relationship-ethics/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-rust-web-2026",
     "path": "src/content/posts/2026-02-13-rust-web-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-08-deepseek-r1-local-guide",
     "path": "src/content/posts/2026-02-08-deepseek-r1-local-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-salary-negotiation-simulation-roleplay",
     "path": "src/content/posts/2026-02-04-salary-negotiation-simulation-roleplay/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-ai-voice-cloning-guide",
     "path": "src/content/posts/2026-02-12-ai-voice-cloning-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-kubernetes-troubleshooting",
     "path": "src/content/posts/2026-02-12-kubernetes-troubleshooting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-security-vulnerability-scanner",
     "path": "src/content/posts/2026-02-04-security-vulnerability-scanner/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-offline-edge-ai-mobile",
     "path": "src/content/posts/2026-02-15-offline-edge-ai-mobile/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-sleep-hygiene-checklist-by-ai",
     "path": "src/content/posts/2026-02-04-sleep-hygiene-checklist-by-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-fantasy-nation-politics-setting",
     "path": "src/content/posts/2026-02-04-fantasy-nation-politics-setting/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-coding-interview-simulator",
     "path": "src/content/posts/2026-02-04-coding-interview-simulator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-retirement-fund-calculator",
     "path": "src/content/posts/2026-02-04-retirement-fund-calculator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-prompt-chaining",
     "path": "src/content/posts/2026-02-15-prompt-chaining/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-newpipe-algorithm-free",
     "path": "src/content/posts/2026-02-15-newpipe-algorithm-free/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-dreamy-sleep-story-for-kids",
     "path": "src/content/posts/2026-02-04-dreamy-sleep-story-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-data-insight-extractor",
     "path": "src/content/posts/2026-02-04-data-insight-extractor/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-software-architecture-guide",
     "path": "src/content/posts/2026-02-12-software-architecture-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-interview-mock-simulator-ai",
     "path": "src/content/posts/2026-02-04-interview-mock-simulator-ai/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-sql-query-optimization",
     "path": "src/content/posts/2026-02-12-sql-query-optimization/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-google-langextract",
     "path": "src/content/posts/2026-02-13-google-langextract/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-kpop-idol-concept-lyric-draft",
     "path": "src/content/posts/2026-02-04-kpop-idol-concept-lyric-draft/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-morning-affirmation-generator",
     "path": "src/content/posts/2026-02-12-morning-affirmation-generator/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-gpt-5-physics.ko",
     "path": "src/content/posts/2026-02-15-gpt-5-physics.ko/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-12-vim-shortcuts-master",
     "path": "src/content/posts/2026-02-12-vim-shortcuts-master/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-08-youtube-shorts-factory",
     "path": "src/content/posts/2026-02-08-youtube-shorts-factory/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-chrome-extensions-spying",
     "path": "src/content/posts/2026-02-12-chrome-extensions-spying/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-04-novel-plot-generator-what-if",
     "path": "src/content/posts/2026-02-04-novel-plot-generator-what-if/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-11-ai-code-editor-battle-2026",
     "path": "src/content/posts/2026-02-11-ai-code-editor-battle-2026/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-15-ai-meeting-notes",
     "path": "src/content/posts/2026-02-15-ai-meeting-notes/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 0
   },
   {
     "slug": "2026-02-13-ai-agent-workflow",
     "path": "src/content/posts/2026-02-13-ai-agent-workflow/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-expert-delimiters",
     "path": "src/content/posts/2026-02-04-expert-delimiters/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-11-midjourney-v7-photorealism",
     "path": "src/content/posts/2026-02-11-midjourney-v7-photorealism/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-14-quantum-ai-breakthroughs",
     "path": "src/content/posts/2026-02-14-quantum-ai-breakthroughs/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-15-smart-sleep-mask-leak",
     "path": "src/content/posts/2026-02-15-smart-sleep-mask-leak/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-unit-test-generation",
     "path": "src/content/posts/2026-02-04-unit-test-generation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-regex-generator-korean",
     "path": "src/content/posts/2026-02-04-regex-generator-korean/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-grounding-technique-for-anxiety",
     "path": "src/content/posts/2026-02-04-grounding-technique-for-anxiety/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 100
   },
   {
     "slug": "2026-02-04-steampunk-aesthetic",
     "path": "src/content/posts/2026-02-04-steampunk-aesthetic/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-chrome-devtools-mcp",
     "path": "src/content/posts/2026-02-13-chrome-devtools-mcp/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-04-social-skills-coaching-for-kids",
     "path": "src/content/posts/2026-02-04-social-skills-coaching-for-kids/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-13-llm-apps-rag-guide",
     "path": "src/content/posts/2026-02-13-llm-apps-rag-guide/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 30
   },
   {
     "slug": "2026-02-11-python-excel-automation",
     "path": "src/content/posts/2026-02-11-python-excel-automation/index.md",
-    "status": "PENDING",
+    "status": "DONE",
     "retries": 0,
-    "last_error": null
+    "last_error": null,
+    "score": 60
   },
   {
     "slug": "2026-02-12-learning-roadmap-maker",

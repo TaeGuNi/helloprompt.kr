@@ -9,7 +9,7 @@ description: "무조건 MSA가 답일까? 트래픽 규모, 팀 크기, 배포 �
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 
-# (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다
+# (Updated) (Updated) 🏛️ 시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다
 
 - **🎯 추천 대상:** "우리도 넷플릭스처럼 MSA 해야 하나요?" 묻는 스타트업 CTO, 서비스가 커지면서 배포가 무서워진 개발 팀장
 - **⏱️ 소요 시간:** 10분 (진단 및 결정)
@@ -26,7 +26,7 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **팀 규모가 작다(10명 이하)?** -> **모놀리식(Monolithic)**으로 시작해라.
 2.  **배포가 너무 오래 걸린다?** -> 도메인별로 쪼개는 **MSA**를 고려해라.
@@ -34,9 +34,9 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) 🚀 해결책: "Architecture Advisor Prompt"
+## (Updated) (Updated) 🚀 해결책: "Architecture Advisor Prompt"
 
-### (Updated) 🥉 Basic Version (개념 비교)
+### (Updated) (Updated) 🥉 Basic Version (개념 비교)
 
 장단점 파악하기.
 
@@ -44,7 +44,7 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 <br>
 
-### (Updated) 🥇 Pro Version (우리 팀 맞춤 진단)
+### (Updated) (Updated) 🥇 Pro Version (우리 팀 맞춤 진단)
 
 의사결정 돕기.
 
@@ -66,14 +66,14 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 **"모듈러 모놀리스(Modular Monolith)"**를 주목하세요.
 배포 단위는 하나(Monolith)지만, 내부 코드는 패키지별로 엄격하게 격리(Modular)하는 방식입니다. 우아한형제들(배민)도 처음엔 이렇게 시작했습니다. 나중에 찢기 쉽습니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: DB는 하나로 써도 되나요?**
   - A: MSA의 핵심은 **'DB 분리'**입니다. DB를 공유하면 그건 MSA가 아닙니다. 트랜잭션 관리가 지옥이 되니 신중하세요.
@@ -83,31 +83,35 @@ MSA는 만병통치약이 아닙니다. 잘못 도입하면 **'분산된 모놀�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **팀 규모(4명) 명시:** 개발자 수를 알려주면 AI가 "4명으로 MSA 하면 운영하다 죽습니다"라는 현실적인 조언을 해줍니다. 인프라 관리 비용을 계산해주기 때문입니다.
 2.  **도메인 분리(DDD):** 무작정 찢는 게 아니라 "결제는 독립적이어야 해" 같은 **비즈니스 경계(Bounded Context)**를 기준으로 제안해 줍니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (무지성 MSA) {#msa}
+### (Updated) (Updated) ❌ Before (무지성 MSA) {#msa}
 
 개발자 4명이서 서비스 10개 관리 -> 로깅, 모니터링 하느라 기능 개발 못 함. (망함 📉)
 
-### (Updated) ✅ After (모듈러 모놀리스)
+### (Updated) (Updated) ✅ After (모듈러 모놀리스)
 
 하나의 프로젝트 안에서 `Order`, `Payment`, `Delivery` 폴더를 완벽히 격리 -> 서로 참조 못 하게 막음 -> **"나중에 트래픽 터지면 `Payment` 폴더만 떼어내서 서버 만들자."** (유연함 🧘)
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 아키텍처는 유행이 아니라 **생존 전략**입니다.
 남의 옷을 입지 말고, 우리 몸에 맞는 옷을 입으세요.
 
 AI가 당신의 **재단사**가 되어줄 겁니다. 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

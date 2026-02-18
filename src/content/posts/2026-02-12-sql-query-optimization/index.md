@@ -9,7 +9,7 @@ description: "쿼리가 느려서 서버가 뻗는다면? EXPLAIN 실행 계획 
 tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 ---
 
-# (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법
+# (Updated) (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법
 
 - **🎯 추천 대상:** "쿼리가 왜 느린지 모르겠어요" 우는 백엔드 개발자, 데이터베이스 비용 줄이고 싶은 스타트업 대표
 - **⏱️ 소요 시간:** 3분 (쿼리 튜닝)
@@ -25,7 +25,7 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  느린 쿼리 앞에 `EXPLAIN`을 붙여 실행한다.
 2.  나온 결과(JSON 또는 표)를 복사한다.
@@ -33,9 +33,9 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 ---
 
-## (Updated) 🚀 해결책: "Slow Query Hunter"
+## (Updated) (Updated) 🚀 해결책: "Slow Query Hunter"
 
-### (Updated) 🥉 Basic Version (쿼리 다이어트)
+### (Updated) (Updated) 🥉 Basic Version (쿼리 다이어트)
 
 복잡한 쿼리를 좀 더 깔끔하게.
 
@@ -45,7 +45,7 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 <br>
 
-### (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석)
+### (Updated) (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석)
 
 근본적인 원인을 찾아 해결할 때.
 
@@ -71,7 +71,7 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 **복합 인덱스(Composite Index)**는 순서가 생명입니다.
 `(A, B)` 순서로 인덱스를 걸면 `WHERE B = 1` 조건에서는 인덱스를 못 탑니다.
@@ -79,7 +79,7 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 인덱스 많이 걸면 좋나요?**
   - A: 아니요. 조회는 빨라지지만 `INSERT/UPDATE` 속도가 느려집니다. 꼭 필요한 것만 거세요.
@@ -89,20 +89,20 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **DDL(스키마) 제공:** 쿼리만으로는 부족합니다. "어떤 인덱스가 이미 걸려있는지"를 알아야 AI가 "이 인덱스는 안 타고 있네요"라고 진단할 수 있습니다.
 2.  **데이터 규모 명시:** "100만 건" vs "1000만 건"은 전략이 다릅니다. 규모를 알려주면 AI가 파티셔닝(Partitioning)이나 샤딩(Sharding) 같은 고급 조언도 해줍니다.
 
 ---
 
-## (Updated) 📊 증명: Before & After
+## (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) ❌ Before (Full Scan)
+### (Updated) (Updated) ❌ Before (Full Scan)
 
 `type: ALL`, `rows: 50000000` (5천만 건 다 뒤짐 😱)
 
-### (Updated) ✅ After (Index Seek)
+### (Updated) (Updated) ✅ After (Index Seek)
 
 > **AI:** "`orders` 테이블의 `user_id`와 `created_at` 컬럼으로 **복합 인덱스(Composite Index)**를 만드세요."
 
@@ -112,13 +112,17 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) 🎯 결론 {#conclusion}
 
 느린 쿼리는 죄악입니다. (서버 비용을 갉아먹으니까요.)
 SQL 몰라도 됩니다. `EXPLAIN`만 알면 됩니다.
 
 나머지는 AI가 다 해줍니다.
 **오늘 서버비 아껴서 소고기 사 드세요.** 🍷
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

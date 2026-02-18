@@ -33,9 +33,9 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "SSG Picker Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "SSG Picker Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (블로그 구축)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (블로그 구축) {#updated}
 
 빠르게 시작하기.
 
@@ -43,7 +43,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (하이브리드 아키텍처)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (하이브리드 아키텍처) {#updated}
 
 동적인 기능이 필요할 때.
 
@@ -87,7 +87,7 @@ _"블로그 하나 만드는데 React 전체를 다 로딩해야 해?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (Next.js 블로그) {#next-js}
 

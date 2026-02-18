@@ -9,7 +9,7 @@ description: "현대 미술은 난해하다? 갤러리 문턱을 낮춰주는 �
 tags: ["미술관", "갤러리", "예술감상", "취향찾기"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드
+# (Updated) (Updated) (Updated) 📝 미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"점 하나 찍어놓고 예술이라니, 도대체 뭘 느껴야 하죠?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "아트 테라피스트"
+## (Updated) (Updated) (Updated) 🚀 해결책: "아트 테라피스트" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"점 하나 찍어놓고 예술이라니, 도대체 뭘 느껴야 하죠?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,15 +73,15 @@ _"점 하나 찍어놓고 예술이라니, 도대체 뭘 느껴야 하죠?"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "미술관 관람법 알려줘."
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 (질문 1: 이 그림 속에 내가 들어간다면 어디에 서 있을까? / 행동: 작품과 30cm 거리에서 붓 터치 관찰하기 / 기록: 내가 유독 '파란색'에 반응하는지 체크)
 

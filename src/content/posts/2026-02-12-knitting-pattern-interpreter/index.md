@@ -9,7 +9,7 @@ description: "K1, P1, YO... 영문 약어와 기호로 가득 찬 뜨개질 도�
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 
-# (Updated) (Updated) (Updated) 🧶 암호문 같은 뜨개질 도안, AI가 해석해드립니다
+# (Updated) (Updated) (Updated) 🧶 암호문 같은 뜨개질 도안, AI가 해석해드립니다 {#updated}
 
 - **🎯 추천 대상:** 영문 도안(Ravelry)만 보면 현기증 나는 니터(Knitter), 기호 도안을 서술형으로 풀고 싶은 분
 - **⏱️ 소요 시간:** 30초
@@ -33,9 +33,9 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "AI 니팅 번역기 프롬프트"
+## (Updated) (Updated) (Updated) 🚀 해결책: "AI 니팅 번역기 프롬프트" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (영문 약어 번역)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (영문 약어 번역) {#updated}
 
 텍스트로 된 영문 도안을 한글 서술형으로 바꿉니다.
 
@@ -50,7 +50,7 @@ _"예쁜 도안은 왜 다 영어일까요? 그리고 왜 암호처럼 써놨을
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (기호 도안 해석 & 게이지 계산)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (기호 도안 해석 & 게이지 계산) {#updated}
 
 그림(차트)으로 된 도안을 해석하거나, 내 실에 맞춰 사이즈를 조절합니다.
 

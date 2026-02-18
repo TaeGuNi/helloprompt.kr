@@ -5,19 +5,19 @@ tags: [ai, google, gemini]
 image: https://source.unsplash.com/random/1600x900/?code,screen
 ---
 
-# (Updated) (Updated) (Updated) Gemini 3 Pro: 새로운 프롬프트 패러다임
+# (Updated) (Updated) (Updated) Gemini 3 Pro: 새로운 프롬프트 패러다임 {#updated}
 
 Google의 최신 모델인 Gemini 3 Pro는 추론 능력에서 새로운 기준을 제시하며, 프롬프트 엔지니어링의 패러다임을 근본적으로 변화시키고 있습니다. 단순히 지시를 따르는 것을 넘어, 복잡한 문맥을 이해하고 다단계 추론을 수행하는 능력이 비약적으로 향상되었습니다.
 
-## (Updated) (Updated) (Updated) 1. 다단계 추론과 컨텍스트 유지
+## (Updated) (Updated) (Updated) 1. 다단계 추론과 컨텍스트 유지 {#updated}
 
 Gemini 3 Pro는 긴 대화에서도 문맥을 놓치지 않으며, 이전의 미묘한 뉘앙스까지 기억하여 답변에 반영합니다. 이는 챗봇 개발자들에게 특히 중요한 변화로, 사용자의 의도를 더 정확하게 파악하고 개인화된 경험을 제공할 수 있게 합니다.
 
-## (Updated) (Updated) (Updated) 2. 코드 생성의 진화
+## (Updated) (Updated) (Updated) 2. 코드 생성의 진화 {#updated}
 
 코드 생성 능력 또한 향상되어, 단순히 문법적으로 올바른 코드를 작성하는 것을 넘어, 전체 시스템 아키텍처를 고려한 최적화된 코드를 제안합니다. 이는 개발자들의 생산성을 크게 높여줄 것입니다.
 
-## (Updated) (Updated) (Updated) 3. 멀티모달 이해력
+## (Updated) (Updated) (Updated) 3. 멀티모달 이해력 {#updated}
 
 텍스트뿐만 아니라 이미지, 영상, 오디오를 동시에 이해하고 처리하는 멀티모달 능력은 Gemini 3 Pro의 가장 큰 강점 중 하나입니다. 이를 통해 더욱 창의적이고 복합적인 콘텐츠 생성이 가능해졌습니다.
 

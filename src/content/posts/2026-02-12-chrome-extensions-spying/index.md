@@ -9,7 +9,7 @@ description: "브라우징 데이터를 몰래 수집하는 악성 확장프로�
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 브라우저 속의 스파이, 확장프로그램
+# (Updated) (Updated) (Updated) 📝 브라우저 속의 스파이, 확장프로그램 {#updated}
 
 - **🎯 추천 대상:** 크롬 사용자, 웹 서핑을 많이 하는 사람
 - **⏱️ 읽는 시간:** 2분

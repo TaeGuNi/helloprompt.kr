@@ -9,7 +9,7 @@ description: "시간은 없지만 살은 빼고 싶다면? AI가 매일 새로�
 tags: ["HIIT", "타바타", "다이어트", "운동", "ChatGPT"]
 ---
 
-# (Updated) (Updated) (Updated) 🔥 짧고 굵게! 20분 만에 땀 범벅 만드는 AI HIIT 생성기
+# (Updated) (Updated) (Updated) 🔥 짧고 굵게! 20분 만에 땀 범벅 만드는 AI HIIT 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ HIIT(High-Intensity Interval Training)는 짧은 시간 동안 고강도 운동�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "무한 HIIT 생성기"
+## (Updated) (Updated) (Updated) 🚀 해결책: "무한 HIIT 생성기" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ HIIT(High-Intensity Interval Training)는 짧은 시간 동안 고강도 운동�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ HIIT(High-Intensity Interval Training)는 짧은 시간 동안 고강도 운동�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "HIIT 운동 알려줘." -> (그냥 버피만 하라고 함)
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[20분 지옥의 루틴 (층간소음 주의 버전)]**
 

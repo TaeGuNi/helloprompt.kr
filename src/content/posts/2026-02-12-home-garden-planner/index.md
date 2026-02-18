@@ -9,7 +9,7 @@ description: "식물킬러 탈출! 우리 집 채광과 통풍에 딱 맞는 식
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🌿 베란다를 숲으로: AI 홈가드닝 플래너
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🌿 베란다를 숲으로: AI 홈가드닝 플래너 {#updated}
 
 - **🎯 추천 대상:** 선인장도 말려 죽이는 '연쇄살식마', 플랜테리어 입문자, 베란다 텃밭 꿈나무
 - **⏱️ 소요 시간:** 5분 (환경 분석 포함)
@@ -33,9 +33,9 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "AI 식물 집사 프롬프트"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "AI 식물 집사 프롬프트" {#updated}
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (식물 추천)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (식물 추천) {#updated}
 
 우리 집 환경을 묘사하고 추천받는 단계입니다.
 
@@ -52,7 +52,7 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (질병 진단 & 케어 가이드)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (질병 진단 & 케어 가이드) {#updated}
 
 이미 키우고 있는 식물이 아프거나, 체계적인 관리가 필요할 때 사용합니다.
 

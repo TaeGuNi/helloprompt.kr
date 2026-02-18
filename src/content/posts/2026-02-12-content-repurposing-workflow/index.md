@@ -9,7 +9,7 @@ description: "AI로 콘텐츠를 5가지 포맷으로 변환하는 원소스 멀
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 콘텐츠 하나 만들고 끝내기 아깝지 않나요?
+# (Updated) (Updated) (Updated) 📝 콘텐츠 하나 만들고 끝내기 아깝지 않나요? {#updated}
 
 - **🎯 추천 대상:** 콘텐츠 마케터, 1인 기업가
 - **⏱️ 소요 시간:** 2시간 → 5분
@@ -33,9 +33,9 @@ _"하나만 낳아 다섯으로 기르자."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "콘텐츠 트랜스포머"
+## (Updated) (Updated) (Updated) 🚀 해결책: "콘텐츠 트랜스포머" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 > **역할:** 너는 `[SNS 전문가]`야.
 > **요청:** 아래 글을 읽고 1. 인스타그램 캡션용, 2. 트위터(X) 스레드용, 3. 링크드인 전문적인 글용으로 각각 변환해줘.
@@ -43,7 +43,7 @@ _"하나만 낳아 다섯으로 기르자."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 각 플랫폼의 알고리즘 특성을 반영합니다.
 

@@ -33,9 +33,9 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "AI Personal Trainer"
+## (Updated) (Updated) (Updated) 🚀 해결책: "AI Personal Trainer" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (자세 체크)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (자세 체크) {#updated}
 
 어디가 틀렸는지 확인.
 
@@ -44,7 +44,7 @@ _"스쿼트 100개 했는데 허벅지보다 허리가 더 아파요. 저 잘못
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (교정 및 루틴 추천)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (교정 및 루틴 추천) {#updated}
 
 전문적인 코칭.
 
@@ -85,9 +85,9 @@ AI는 뼈와 관절의 위치를 추정(Pose Estimation)할 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (무릎 파괴)
+### (Updated) (Updated) (Updated) ❌ Before (무릎 파괴) {#updated}
 
 무릎이 발끝보다 10cm는 더 나감. (다음 날 계단 못 내려감 🏥)
 

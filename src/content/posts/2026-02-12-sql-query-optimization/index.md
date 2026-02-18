@@ -9,7 +9,7 @@ description: "쿼리가 느려서 서버가 뻗는다면? EXPLAIN 실행 계획 
 tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 ---
 
-# (Updated) (Updated) (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법
+# (Updated) (Updated) (Updated) 🐢 SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법 {#updated}
 
 - **🎯 추천 대상:** "쿼리가 왜 느린지 모르겠어요" 우는 백엔드 개발자, 데이터베이스 비용 줄이고 싶은 스타트업 대표
 - **⏱️ 소요 시간:** 3분 (쿼리 튜닝)
@@ -33,9 +33,9 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Slow Query Hunter"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Slow Query Hunter" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (쿼리 다이어트)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (쿼리 다이어트) {#updated}
 
 복잡한 쿼리를 좀 더 깔끔하게.
 
@@ -45,7 +45,7 @@ DB는 거짓말을 하지 않습니다. 당신이 짠 쿼리가 비효율적일 
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (인덱스 설계 & 실행 계획 분석) {#updated}
 
 근본적인 원인을 찾아 해결할 때.
 
@@ -96,7 +96,7 @@ AI에게 "인덱스 컬럼 순서(Cardinality 고려)"를 물어보는 게 튜�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 ### (Updated) (Updated) (Updated) ❌ Before (Full Scan)
 

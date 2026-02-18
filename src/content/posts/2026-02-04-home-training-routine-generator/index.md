@@ -9,7 +9,7 @@ description: "내 운동 수행 능력과 장비 유무에 맞춘 최적의 홈�
 tags: ["홈트", "운동", "헬스", "루틴"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"집에 덤벨 하나 없어도 괜찮습니다. 맨몸으로 가능한 최고�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "방구석 1:1 PT 선생님"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "방구석 1:1 PT 선생님" {#updated}
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"집에 덤벨 하나 없어도 괜찮습니다. 맨몸으로 가능한 최고�
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -75,15 +75,15 @@ _"집에 덤벨 하나 없어도 괜찮습니다. 맨몸으로 가능한 최고�
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "홈트 루틴 추천해줘."
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 (층간 소음 없는 동작 위주로, 보유한 덤벨을 활용한 구체적인 30분 시퀀스 표)
 

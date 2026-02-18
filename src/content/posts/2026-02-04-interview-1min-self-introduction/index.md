@@ -9,7 +9,7 @@ description: "식상한 비유 대신, 나만의 컨셉과 핵심 역량을 각�
 tags: ["1분자기소개", "면접준비", "엘리베이터피치", "자기소개"]
 ---
 
-# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 면접의 첫 단추, 매력적인 '1분 자기소개' 작성 프롬프트
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 면접의 첫 단추, 매력적인 '1분 자기소개' 작성 프롬프트 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"안녕하십니까, 저는 양파 같은 지원자... (면접관: 하아...)"_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "Elevator Pitch Generator"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "Elevator Pitch Generator" {#updated}
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"안녕하십니까, 저는 양파 같은 지원자... (면접관: 하아...)"_
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -80,11 +80,11 @@ _"안녕하십니까, 저는 양파 같은 지원자... (면접관: 하아...)"_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (진부함)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (진부함) {#updated}
 
 ```text
 "안녕하십니까! 저는 스펀지 같은 지원자 김철수입니다.
@@ -92,7 +92,7 @@ _"안녕하십니까, 저는 양파 같은 지원자... (면접관: 하아...)"_
 어릴 때부터 부모님 말씀을 잘 듣고..." (너무 김, 지루함)
 ```
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (임팩트)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (임팩트) {#updated}
 
 ```text
 "안녕하십니까. '데이터로 고객의 마음을 읽는 마케터' 김철수입니다.

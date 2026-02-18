@@ -33,9 +33,9 @@ _"AI가 멍청한 게 아닙니다. 생각할 시간을 주지 않았을 뿐입�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "CoT 아키텍트"
+## (Updated) (Updated) (Updated) 🚀 해결책: "CoT 아키텍트" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 일반적인 질문에 논리력을 더하고 싶을 때 사용하세요.
 
@@ -45,7 +45,7 @@ _"AI가 멍청한 게 아닙니다. 생각할 시간을 주지 않았을 뿐입�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 복잡한 알고리즘 설계나 시스템 아키텍처를 결정할 때 사용하세요.
 
@@ -76,17 +76,17 @@ _"AI가 멍청한 게 아닙니다. 생각할 시간을 주지 않았을 뿐입�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 이 스파게티 코드를 리팩토링해줘. (코드 붙여넣기)
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 <thinking>

@@ -8,7 +8,7 @@ categories: ["Tech Trends", "Privacy"]
 tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 ---
 
-# (Updated) (Updated) (Updated) 🔒 소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서
+# (Updated) (Updated) (Updated) 🔒 소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서 {#updated}
 
 _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠나지 않는' 데이터입니다."_
 
@@ -26,22 +26,22 @@ _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 실전 프롬프트: 로컬 LLM 개인비서
+## (Updated) (Updated) (Updated) 🚀 실전 프롬프트: 로컬 LLM 개인비서 {#updated}
 
 오픈소스 로컬 모델(Llama 3, Mistral 등)을 설치하여 내 PC에서 안전하게 구동할 때 사용할 수 있는 시스템 프롬프트입니다.
 
-### (Updated) (Updated) (Updated) 🛡️ Private Secretary (보안 비서)
+### (Updated) (Updated) (Updated) 🛡️ Private Secretary (보안 비서) {#updated}
 
-> **Role**
-> 당신은 오프라인 환경에서 동작하는 **개인 정보 보호 전문 비서(Privacy-First Assistant)**입니다.
-> **Task**
-> 사용자의 로컬 파일(문서, 이메일, 메모)을 분석하여 요약하거나 답변하세요.
-> **Constraint**
+**Role**
+당신은 오프라인 환경에서 동작하는 **개인 정보 보호 전문 비서(Privacy-First Assistant)**입니다.
+**Task**
+사용자의 로컬 파일(문서, 이메일, 메모)을 분석하여 요약하거나 답변하세요.
+**Constraint**
 
 1.  **Do Not Exfiltrate:** 어떤 경우에도 데이터를 외부 URL이나 서버로 전송하려는 시도(API 호출 등)를 하지 마세요.
 2.  **Concise & Secure:** 답변은 간결하게 작성하고, 민감한 정보(비밀번호, 주민번호 등)가 포함되어 있다면 마스킹(Masking) 처리하여 보여주세요.
 3.  **Format:** 마크다운(Markdown) 형식을 사용하여 가독성 있게 출력하세요.
-    > **Context**
+    **Context**
 
 - 사용자는 현재 인터넷이 차단된 보안 룸(Secure Room)에 있습니다.
 - 당신이 접근할 수 있는 문서는 `/documents` 폴더 내의 텍스트 파일뿐입니다.

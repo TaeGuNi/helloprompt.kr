@@ -9,7 +9,7 @@ description: "비싼 투어 신청 없이도 알차게. 내가 원하는 테마�
 tags: ["워킹투어", "셀프가이드", "역사산책", "도보여행"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 가이드 없이 즐기는 나만의 역사 워킹 투어 만들기
+# (Updated) (Updated) (Updated) 📝 가이드 없이 즐기는 나만의 역사 워킹 투어 만들기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"우르르 몰려다니는 깃발 부대는 싫고, 그렇다고 그냥 걷기�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "셀프 워킹 투어 기획자"
+## (Updated) (Updated) (Updated) 🚀 해결책: "셀프 워킹 투어 기획자" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"우르르 몰려다니는 깃발 부대는 싫고, 그렇다고 그냥 걷기�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,15 +74,15 @@ _"우르르 몰려다니는 깃발 부대는 싫고, 그렇다고 그냥 걷기�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "런던 걸어서 여행 코스."
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 (테마: 셜록 홈즈와 빅토리아 시대 / 코스: 221B 베이커 가 -> 리전트 파크 -> 대영박물관 / 각 스팟 별 홈즈 관련 트리비아 제공)
 

@@ -9,7 +9,7 @@ description: "기획서 읽고 티켓 쪼개는 게 일인 PM들을 위한 프�
 tags: ["Jira", "지라", "PM", "기획", "애자일"]
 ---
 
-# (Updated) (Updated) (Updated) 🎫 Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱
+# (Updated) (Updated) (Updated) 🎫 Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱 {#updated}
 
 - **🎯 추천 대상:** 하루 종일 "티켓 만들어주세요" 소리 듣는 PM/PO, 백로그 정리가 귀찮은 스크럼 마스터
 - **⏱️ 소요 시간:** 1분 (기획서 입력 -> CSV 변환)
@@ -33,9 +33,9 @@ _"기획서 다 나왔으니까, 이제 지라(Jira)에 옮겨 적어야지... �
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Backlog Generator Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Backlog Generator Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 리스트)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 리스트) {#updated}
 
 할 일 목록 뽑기.
 
@@ -95,15 +95,15 @@ AI에게 "모든 Story의 설명(Description)에 **Given-When-Then** 형식의 �
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (통짜 티켓)
+### (Updated) (Updated) (Updated) ❌ Before (통짜 티켓) {#updated}
 
 티켓명: "장바구니 기능 개발"
 설명: "기획서 참고하세요."
 (개발자: "뭘 하라는 거야? 어디서부터 해?")
 
-### (Updated) (Updated) (Updated) ✅ After (구조화된 티켓)
+### (Updated) (Updated) (Updated) ✅ After (구조화된 티켓) {#updated}
 
 - **[Epic]** 장바구니 시스템 구축
   - **[Story]** 사용자는 상품을 장바구니에 담을 수 있다. - **[Sub-task]** (BE) 장바구니 추가 API 구현 (`POST /cart`) - **[Sub-task]** (FE) 상품 상세 페이지 '담기' 버튼 UI 및 인터랙션 구현

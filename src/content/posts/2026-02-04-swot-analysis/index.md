@@ -9,7 +9,7 @@ description: "내가 투자하려는 회사의 강점, 약점, 기회, 위협을
 tags: ["주식", "기업분석", "SWOT", "전략"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 기업 분석의 정석: AI SWOT 분석기
+# (Updated) (Updated) (Updated) 📝 기업 분석의 정석: AI SWOT 분석기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"지피지기면 백전불태. 내가 살 주식의 약점까지 알고 계신�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "기업 스캐너"
+## (Updated) (Updated) (Updated) 🚀 해결책: "기업 스캐너" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"지피지기면 백전불태. 내가 살 주식의 약점까지 알고 계신�
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -77,20 +77,20 @@ _"지피지기면 백전불태. 내가 살 주식의 약점까지 알고 계신�
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 현대차 장단점 알려줘.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
-### (Updated) (Updated) (Updated) 🚘 현대자동차 SWOT 분석
+### (Updated) (Updated) (Updated) 🚘 현대자동차 SWOT 분석 {#updated}
 
 | 구분 | 내용 |
 | :--- | :--- |

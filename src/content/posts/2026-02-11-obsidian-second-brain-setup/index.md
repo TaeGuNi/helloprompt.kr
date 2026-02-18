@@ -33,9 +33,9 @@ _"노션은 예쁜데... 데이터가 내 게 아니잖아. 서버 터지면 끝
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Obsidian Architect Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Obsidian Architect Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (일기장 템플릿)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (일기장 템플릿) {#updated}
 
 매일 쓰는 데일리 노트(Daily Note) 서식.
 
@@ -43,7 +43,7 @@ _"노션은 예쁜데... 데이터가 내 게 아니잖아. 서버 터지면 끝
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (제2의 뇌 구조 설계)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (제2의 뇌 구조 설계) {#updated}
 
 PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
@@ -85,13 +85,13 @@ PARA 방법론이나 제텔카스텐(Zettelkasten) 구축.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (메모장)
+### (Updated) (Updated) (Updated) ❌ Before (메모장) {#updated}
 
 "그때 그 아이디어 어디 적어놨더라..." (메모장, 카톡, 노션 뒤지다가 포기 🤯)
 
-### (Updated) (Updated) (Updated) ✅ After (옵시디언)
+### (Updated) (Updated) (Updated) ✅ After (옵시디언) {#updated}
 
 검색창에 키워드 입력 -> 관련 문서들이 줄줄이 비엔나처럼 연결되어 나옴. -> **"아, 이거랑 저거랑 연결하면 되겠다!"** (인사이트 폭발 💡)
 

@@ -9,7 +9,7 @@ description: "변기 뚫기부터 전등 교체, 실리콘 쏘기까지. 똥손�
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 
-# (Updated) (Updated) (Updated) 🛠️ 출장비 아끼는 AI 집수리 가이드 (초보자용)
+# (Updated) (Updated) (Updated) 🛠️ 출장비 아끼는 AI 집수리 가이드 (초보자용) {#updated}
 
 - **🎯 추천 대상:** 자취생, 신혼부부, 전구 갈아끼우는 것도 무서운 '똥손', 출장비가 아까운 분
 - **⏱️ 소요 시간:** 진단 5분 + 작업 시간
@@ -33,9 +33,9 @@ _"사람 부르면 기본 5만원, 재료비 별도? 내가 하고 말지!"_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "AI 맥가이버 프롬프트"
+## (Updated) (Updated) (Updated) 🚀 해결책: "AI 맥가이버 프롬프트" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (증상 설명)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (증상 설명) {#updated}
 
 간단한 고장이나 유지보수 방법을 물어볼 때 사용합니다.
 
@@ -49,7 +49,7 @@ _"사람 부르면 기본 5만원, 재료비 별도? 내가 하고 말지!"_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (이미지 진단 & 실시간 코칭)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (이미지 진단 & 실시간 코칭) {#updated}
 
 가장 강력한 기능입니다. 파손 부위나 배선 사진을 찍어서 물어보세요.
 
@@ -90,9 +90,9 @@ _"사람 부르면 기본 5만원, 재료비 별도? 내가 하고 말지!"_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### (Updated) (Updated) (Updated) ❌ Before (무작정 시도)
+### (Updated) (Updated) (Updated) ❌ Before (무작정 시도) {#updated}
 
 "일단 나사 풀면 되겠지? 어... 이거 왜 물이 솟구쳐? 밸브 안 잠갔나? 으악!" (거실 물바다)
 

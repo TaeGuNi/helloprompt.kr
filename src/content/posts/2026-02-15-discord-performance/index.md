@@ -17,28 +17,28 @@ Discord 아키텍처의 기반은 1970년대에 제안된 **액터 모델(Actor 
 - **Elixir와 Erlang:** Discord는 이 모델을 완벽하게 지원하는 Elixir 언어를 채택했습니다. 사용자, 길드(서버), 음성 세션 등 모든 것이 하나의 '프로세스(액터)'로 취급됩니다.
 - **Fan-out:** 사용자가 메시지를 보내면 길드 프로세스가 이를 받아 연결된 수천, 수만 개의 세션 프로세스로 메시지를 복사(Fan-out)하여 실시간성을 보장합니다.
 
-## (Updated) (Updated) (Updated) 2. 데이터베이스의 진화: Cassandra에서 ScyllaDB로
+## (Updated) (Updated) (Updated) 2. 데이터베이스의 진화: Cassandra에서 ScyllaDB로 {#updated}
 
 메시지 처리 레이어가 해결되자, 다음 병목은 데이터베이스였습니다.
 
 - **Cassandra의 한계:** 초기에는 확장성이 좋은 Cassandra를 사용했지만, 데이터가 수조 건으로 늘어나자 'Hot Partition' 문제와 Java 기반의 Garbage Collection(GC)으로 인한 멈춤 현상(Stop-the-world)이 발생했습니다.
 - **ScyllaDB 도입:** Discord는 C++로 작성된 ScyllaDB로 마이그레이션했습니다. ScyllaDB는 Cassandra와 호환되면서도 코어별 샤딩, GC 없음, 더 효율적인 캐시 관리를 통해 획기적인 성능 향상을 이뤄냈습니다.
 
-## (Updated) (Updated) (Updated) 3. Rust와 데이터 서비스: Thundering Herd 문제 해결
+## (Updated) (Updated) (Updated) 3. Rust와 데이터 서비스: Thundering Herd 문제 해결 {#updated}
 
 인기 있는 서버에서 `@everyone` 멘션이 발생하면 수천 명의 클라이언트가 동시에 API를 호출하여 데이터베이스에 과부하를 주는 **Thundering Herd** 문제가 발생했습니다.
 
 - **Request Coalescing:** 이를 해결하기 위해 Rust로 작성된 데이터 서비스를 도입했습니다. 이 서비스는 동시에 들어오는 동일한 요청들을 하나로 묶어(Coalescing) 데이터베이스에는 단 한 번만 쿼리를 날리고, 그 결과를 기다리던 모든 요청에 반환합니다.
 - **Rust의 위력:** 메모리 안전성과 GC가 없는 Rust의 특성 덕분에 예측 가능한 성능과 높은 처리량을 달성했습니다.
 
-## (Updated) (Updated) (Updated) 4. 하드웨어의 한계 극복: Super-Disk
+## (Updated) (Updated) (Updated) 4. 하드웨어의 한계 극복: Super-Disk {#updated}
 
 GCP(Google Cloud Platform) 환경에서 디스크 성능 문제에 직면했습니다.
 
 - **문제:** 로컬 SSD는 빠르지만 데이터 유실 위험이 있고, Persistent Disk는 안전하지만 느렸습니다.
 - **해결책:** 엔지니어들은 리눅스의 RAID와 쓰기 방식(Write-through cache)을 활용하여 로컬 SSD의 속도와 Persistent Disk의 안정성을 모두 잡는 'Super-Disk'라는 추상화 계층을 직접 구현했습니다.
 
-## (Updated) (Updated) (Updated) 5. 클라이언트 및 기타 최적화
+## (Updated) (Updated) (Updated) 5. 클라이언트 및 기타 최적화 {#updated}
 
 백엔드뿐만 아니라 클라이언트와 네트워크 단에서도 다양한 최적화가 이루어졌습니다.
 

@@ -9,7 +9,7 @@ description: "잔소리 없이 아이를 세면대로 보내는 과학적 설득
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 손 씻기 싫어하는 아이에게 '세균 괴물' 보여주기
+# (Updated) (Updated) (Updated) 📝 손 씻기 싫어하는 아이에게 '세균 괴물' 보여주기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"손 좀 씻으라고 하면 '깨끗한데 왜?'라고 반문하는 아이, 논
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "위생 교육 스토리텔러"
+## (Updated) (Updated) (Updated) 🚀 해결책: "위생 교육 스토리텔러" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"손 좀 씻으라고 하면 '깨끗한데 왜?'라고 반문하는 아이, 논
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -72,17 +72,17 @@ _"손 좀 씻으라고 하면 '깨끗한데 왜?'라고 반문하는 아이, 논
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 ```text
 손 씻어야 하는 이유 설명.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 ```text
 네 손에는 투명 망토를 쓴 세균 꼬마들이 100마리나 있어! 녀석들은 네가 과자 먹을 때 몰래 뱃속으로 들어가서 똥을 싼대. 비누 거품으로 녀석들을 씻겨 보내자!

@@ -9,7 +9,7 @@ description: "아바타의 판도라 행성처럼 스스로 빛을 내는 생명
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 환상적인 야광: Bioluminescence
+# (Updated) (Updated) (Updated) 📝 환상적인 야광: Bioluminescence {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -33,9 +33,9 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Glowing Nature Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Glowing Nature Prompt" {#updated}
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,17 +68,17 @@ _"밤이 되면 보석처럼 빛나는 숲을 표현하고 싶어."_
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 `Forest at night with lights.`
 
 (결과: 가로등이 켜진 숲이나 손전등 불빛 같은 인공적인 느낌)
 
-### (Updated) (Updated) (Updated) ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 `Bioluminescence` 프롬프트 적용
 

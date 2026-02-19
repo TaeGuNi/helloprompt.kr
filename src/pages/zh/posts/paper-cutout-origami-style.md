@@ -25,7 +25,7 @@ _“想做出剪纸重叠制作的立体绘本感觉。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Paper cutout art`, `Layered paper` 是剪纸重叠的感觉。
 2. `Origami` 是折纸制作的有棱角的造型物感觉。
@@ -62,7 +62,7 @@ _“想做出剪纸重叠制作的立体绘本感觉。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

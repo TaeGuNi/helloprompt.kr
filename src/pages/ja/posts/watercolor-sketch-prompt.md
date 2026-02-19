@@ -25,7 +25,7 @@ _「建築家のダイアリーに描かれた、絵の具が少しにじんだ�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1. `Watercolor painting`、`Pencil sketch`を組み合わせてください。
 2. `Wet-on-wet`、`Splatter`キーワードで水にじみ効果を与えます。
@@ -62,7 +62,7 @@ _「建築家のダイアリーに描かれた、絵の具が少しにじんだ�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 ---
 

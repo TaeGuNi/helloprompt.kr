@@ -25,7 +25,7 @@ _“想一眼展示这复杂城市的结构。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Drone view`, `Aerial photography` 是最确切的关键词。
 2. `Top-down view` 是垂直俯视的 90 度角度。
@@ -62,7 +62,7 @@ _“想一眼展示这复杂城市的结构。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

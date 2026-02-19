@@ -116,7 +116,7 @@ def get_user(id):
 
 ```python
 def get_user(user_id):
-    # (Updated) (Updated) (Updated) [Security] SQL Injection 방지를 위해 Parameterized Query 사용
+    # (Updated) (Updated) (Updated) [Security] SQL Injection 방지를 위해 Parameterized Query 사용 {#updated}
     sql = "SELECT * FROM users WHERE id = %s"
     cursor.execute(sql, (user_id,))
 ```

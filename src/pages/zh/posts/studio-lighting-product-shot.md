@@ -25,7 +25,7 @@ _“需要像杂志上出现的那样干净且高级的产品照片。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Studio lighting` 提供干净且受控的光线。
 2. 请用 `Solid background` 或 `White background` 使其易于抠图。
@@ -62,7 +62,7 @@ _“需要像杂志上出现的那样干净且高级的产品照片。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

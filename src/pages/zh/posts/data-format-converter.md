@@ -27,7 +27,7 @@ _“请把这个 Excel 文件内容转成 JSON 用 API 发过来。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. JSON ↔ CSV ↔ XML 等自由的格式转换
 2. 除去不必要的字段及更改数据结构 (映射)
@@ -74,13 +74,13 @@ _“请把这个 Excel 文件内容转成 JSON 用 API 发过来。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 
 ## 📊 证明: Before & After
 
-### ❌ Before (输入 CSV)
+### ❌ Before (输入 CSV) {#csv}
 
 ```csv
 名字,年龄,职业
@@ -88,7 +88,7 @@ _“请把这个 Excel 文件内容转成 JSON 用 API 发过来。”_
 金哲秀,25,设计师
 ```
 
-### ✅ After (结果 - JSON + 字段名变更)
+### ✅ After (结果 - JSON + 字段名变更) {#json}
 
 **请求:** 把 CSV 换成 JSON，但变更为英语字段名。
 
@@ -107,7 +107,7 @@ _“请把这个 Excel 文件内容转成 JSON 用 API 发过来。”_
 ]
 ```
 
-### ✅ After (结果 - SQL Insert 语句)
+### ✅ After (结果 - SQL Insert 语句) {#sql-insert}
 
 **请求:** 换成能放入 MySQL `users` 表的 INSERT 语句。
 

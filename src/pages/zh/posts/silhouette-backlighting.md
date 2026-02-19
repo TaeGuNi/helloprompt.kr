@@ -25,7 +25,7 @@ _“比起细节，想制作以形态和氛围压倒的图像。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 用 `Silhouette`, `Backlit` 关键词把被摄体表现为黑色。
 2. 背景必须是 `Sunset`, `Bright moon`, `Explosion` 等明亮的光源。
@@ -62,7 +62,7 @@ _“比起细节，想制作以形态和氛围压倒的图像。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

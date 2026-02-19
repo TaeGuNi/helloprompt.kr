@@ -25,7 +25,7 @@ _“想把这巨大的风景装在一张里，但总是被切掉。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Wide angle lens`, `Ultra-wide shot` 确保宽阔的视野。
 2. `Fisheye lens` 把图像圆圆地扭曲，给予动感。
@@ -62,7 +62,7 @@ _“想把这巨大的风景装在一张里，但总是被切掉。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

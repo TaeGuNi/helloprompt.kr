@@ -27,7 +27,7 @@ _“刚开始很简单... 加了几个功能后代码就乱七八糟混在一起
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. 推荐适合项目要求的架构模式 (MVC, MVVM, Clean Architecture 等)
 2. 定义文件夹结构 (Directory Structure) 及文件角色
@@ -72,7 +72,7 @@ _“刚开始很简单... 加了几个功能后代码就乱七八糟混在一起
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

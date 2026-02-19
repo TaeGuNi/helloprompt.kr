@@ -25,7 +25,7 @@ _“人物剪影里有森林的那种感觉，怎么做？”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Double exposure` 关键词是核心。
 2. 请使用 `Silhouette of [A] combined with [B]` 结构。
@@ -62,7 +62,7 @@ _“人物剪影里有森林的那种感觉，怎么做？”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

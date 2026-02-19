@@ -29,11 +29,11 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
     import cirq
     import tensorflow as tf
 
-    # (Updated) (Updated) (Updated) 양자 회로(큐비트) 정의
+    # (Updated) (Updated) (Updated) 양자 회로(큐비트) 정의 {#updated}
     qubit = cirq.GridQubit(0, 0)
     circuit = cirq.Circuit(cirq.rx(0.5)(qubit))
 
-    # (Updated) (Updated) (Updated) 고전적 모델에 통합
+    # (Updated) (Updated) (Updated) 고전적 모델에 통합 {#updated}
     model = tf.keras.Sequential([
         tf.keras.layers.Dense(64, activation='relu'),
         tfq.layers.PQC(circuit, ...), # (Updated) (Updated) (Updated) 매개변수화된 양자 회로(PQC) 계층

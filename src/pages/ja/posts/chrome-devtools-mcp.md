@@ -23,15 +23,15 @@ Chrome DevTools MCPサーバー（`@modelcontextprotocol/server-chrome-devtools`
 
 このMCPサーバーを通じて、AIエージェントは以下のような強力な機能を実行できます。
 
-### 1. コンソールログ分析 (Console Logs)
+### 1. コンソールログ分析 (Console Logs) {#console-logs}
 エージェントは、ブラウザのコンソールに表示されるエラー、警告、ログメッセージをリアルタイムで読み取ることができます。
 *   **活用:** 「Uncaught TypeError」が発生した際、エージェントが即座にエラースタックを確認し、問題の原因となるコード行を特定して修正案を提示します。
 
-### 2. DOM構造の検査 (DOM Inspection)
+### 2. DOM構造の検査 (DOM Inspection) {#dom-inspection}
 現在レンダリングされているページのHTML構造とCSSスタイルを照会できます。
 *   **活用:** 「ボタンがなぜ中央揃えにならないのか？」という質問に対し、エージェントは該当要素のcomputed styleを確認し、`display: flex`や`margin`プロパティが正しく適用されているか検証します。
 
-### 3. JavaScript実行 (JavaScript Execution)
+### 3. JavaScript実行 (JavaScript Execution) {#javascript-execution}
 ページコンテキスト内でJavaScriptコードを実行できます。
 *   **活用:** UIの状態を強制的に変更したり、特定の関数をテスト呼び出ししてロジックが正常に動作するか確認したりできます。
 

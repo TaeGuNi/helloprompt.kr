@@ -25,7 +25,7 @@ _“想用葛饰北斋的‘波浪’一样的感觉画画。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR)
+## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
 
 1. `Ukiyo-e style`, `Woodblock print` 关键词是核心。
 2. 添加 `Hokusai style` 就会出现那有名的波浪画风。
@@ -62,7 +62,7 @@ _“想用葛饰北斋的‘波浪’一样的感觉画画。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?)
+## 🧬 提示词解剖 (Why it works?) {#why-it-works}
 
 ---
 

@@ -25,7 +25,7 @@ _"会社のセキュリティポリシーのせいでChatGPTにコードを貼�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR)
+## ⚡️ 3行要約 (TL;DR) {#tl-dr}
 
 1.  **Ollama** をインストール (LLM実行ランナー)
 2.  ターミナルでコマンドを1行入力 (`ollama run deepseek-r1`)
@@ -55,7 +55,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 次に、モデルをダウンロードして実行します。PCのスペックに合わせて選んでください。
 
-### 🥉 Basic: 8Bモデル (一般ノートPC用)
+### 🥉 Basic: 8Bモデル (一般ノートPC用) {#pc}
 
 M1/M2 MacBook Air、一般的なゲーミングノートPCなどでサクサク動きます。
 
@@ -63,7 +63,7 @@ M1/M2 MacBook Air、一般的なゲーミングノートPCなどでサクサク�
 ollama run deepseek-r1:8b
 ```
 
-### 🥇 Pro: 70Bモデル (ハイスペックPC/M3 Max用)
+### 🥇 Pro: 70Bモデル (ハイスペックPC/M3 Max用) {#pc-m3-max}
 
 メモリ32GB以上推奨。GPT-4クラスの推論能力を発揮します。
 
@@ -75,7 +75,7 @@ ollama run deepseek-r1:70b
 
 ---
 
-## 🚀 Step 3: 実践活用 (VS Code連携)
+## 🚀 Step 3: 実践活用 (VS Code連携) {#vs-code}
 
 ターミナルでチャットするのは味気ないですよね。**VS Code** に連携させて、真のCopilotにしましょう。
 
@@ -90,7 +90,7 @@ ollama run deepseek-r1:70b
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?)
+## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
 
 「あれ、これインストールガイドじゃないの？ プロンプトは？」
 お待たせしました。**DeepSeekに仕事をさせる時に最も効果的なプロンプト**です。DeepSeekは「思考プロセス(Chain of Thought)」を重視するため、**「考えてみて」**と指示するのが鍵です。
@@ -111,7 +111,7 @@ ollama run deepseek-r1:70b
 
 ## 📊 証明: Before & After
 
-### ❌ Before (無料版ChatGPT)
+### ❌ Before (無料版ChatGPT) {#chatgpt}
 
 「このコードは... うーん... よくわかりません。もう一度質問してください。」(またはありきたりな回答)
 

@@ -23,15 +23,15 @@ Chrome DevTools MCP 服务器 (`@modelcontextprotocol/server-chrome-devtools`) �
 
 通过此 MCP 服务器，AI 智能体可以执行以下强大功能：
 
-### 1. 控制台日志分析 (Console Logs)
+### 1. 控制台日志分析 (Console Logs) {#console-logs}
 智能体可以实时读取浏览器控制台中出现的错误、警告和日志消息。
 *   **应用:** 当发生 "Uncaught TypeError" 时，智能体可以立即检查错误堆栈，精确定位有问题的代码行，并提出修复建议。
 
-### 2. DOM 结构检查 (DOM Inspection)
+### 2. DOM 结构检查 (DOM Inspection) {#dom-inspection}
 智能体可以查询当前渲染页面的 HTML 结构和 CSS 样式。
 *   **应用:** 对于“为什么按钮没有居中？”这样的问题，智能体可以检查该元素的计算样式 (computed style)，并验证 `display: flex` 或 `margin` 属性是否正确应用。
 
-### 3. JavaScript 执行 (JavaScript Execution)
+### 3. JavaScript 执行 (JavaScript Execution) {#javascript-execution}
 智能体可以在页面上下文中执行 JavaScript 代码。
 *   **应用:** 强制更改 UI 状态，或测试调用特定函数以验证逻辑是否正常运行。
 

@@ -1,9 +1,10 @@
 ---
-layout: /src/layouts/Layout.astro
-title: Waymo, 6세대 드라이버로 완전 자율 주행 시작
+date: "2026-02-13"
 description: 향상된 센서와 악천후 대응 능력, 더 부드러운 승차감을 갖춘 Waymo의 새로운 6세대 드라이버가 도입됩니다.
+heroImage: /images/blog/default-auto.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo, 6세대 드라이버로 완전 자율 주행 시작
 ---
 
 Waymo가 6세대 자율 주행 시스템(6th-generation driver)을 탑재한 차량으로 완전 자율 주행 운영을 시작했습니다. 이번 업데이트는 하드웨어와 소프트웨어 모두에서 상당한 진전을 이루었으며, 승객에게 더욱 안전하고 편안한 경험을 제공하는 것을 목표로 합니다.

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 건강
+date: "2026-02-04"
+description: 내 운동 수행 능력과 장비 유무에 맞춘 최적의 홈트 루틴을 설계하세요.
 layout: /src/layouts/Layout.astro
-title: "헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.110Z"
+tags:
+  - 홈트
+  - 운동
+  - 헬스
+  - 루틴
+title: 헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기
 updatedDate: "2026-02-07T09:10:33.110Z"
-category: "건강"
-description: "내 운동 수행 능력과 장비 유무에 맞춘 최적의 홈트 루틴을 설계하세요."
-tags: ["홈트", "운동", "헬스", "루틴"]
 ---
 
 # (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기

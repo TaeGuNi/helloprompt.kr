@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 아이의 감정 뇌를 진정시키는 부모의 마법 같은 말하기
 layout: /src/layouts/Layout.astro
-title: "떼쓰는 아이 진정시키는 '공감 대화' 스크립트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.154Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 떼쓰는 아이 진정시키는 '공감 대화' 스크립트
 updatedDate: "2026-02-07T09:10:33.154Z"
-category: "육아 & 교육"
-description: "아이의 감정 뇌를 진정시키는 부모의 마법 같은 말하기"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 마트에서 드러누운 아이, 1분 만에 일으키는 대화법

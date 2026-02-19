@@ -1,10 +1,17 @@
 ---
-title: "IA Physique : Hype vs Réalité"
-description: "Les médias présentent les robots de LG et Samsung comme révolutionnaires, mais la réalité de l'ingénierie se heurte toujours aux lois de la physique."
+date: "2026-02-14"
+description:
+  Les médias présentent les robots de LG et Samsung comme révolutionnaires,
+  mais la réalité de l'ingénierie se heurte toujours aux lois de la physique.
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: "IA Physique : Hype vs Réalité"
 ---
 
 Lorsque la saison des salons technologiques comme le CES arrive, les fils d'actualité sont inondés d'histoires de robots. Les robots domestiques intelligents de LG et Samsung font des expressions mignonnes, semblant prêts à prendre en charge nos tâches ménagères immédiatement. Les médias appellent cela l'arrivée de "l'IA Physique" (Physical AI), louant le fait que les grands modèles de langage (LLM) ont enfin gagné un corps.

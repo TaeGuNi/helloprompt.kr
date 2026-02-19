@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 성교육, 피하지 말고 정확하고 아름답게 설명하는 가이드
 layout: /src/layouts/Layout.astro
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
 title: "당황스런 질문 1위: '아기는 어떻게 생겨?' 대처법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
-category: "육아 & 교육"
-description: "성교육, 피하지 말고 정확하고 아름답게 설명하는 가이드"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 더 이상 '다리 밑에서 주워왔다'고 하지 마세요

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 수학/과학
+date: "2026-02-04"
+description: 정답만 알려주는 불친절한 답지 대신, 생각하는 과정을 단계별로 풀어서 설명해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 수학공부
+  - 문제풀이
+  - 프롬프트
+  - 튜터링
 title: "수포자 구원 투수: 친절한 수학 문제 해설기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.156Z"
 updatedDate: "2026-02-07T09:10:33.156Z"
-category: "수학/과학"
-description: "정답만 알려주는 불친절한 답지 대신, 생각하는 과정을 단계별로 풀어서 설명해주는 프롬프트입니다."
-tags: ["수학공부", "문제풀이", "프롬프트", "튜터링"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 수포자 구원 투수: 친절한 수학 문제 해설기

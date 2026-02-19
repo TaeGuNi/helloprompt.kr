@@ -1,9 +1,10 @@
 ---
-layout: /src/layouts/Layout.astro
-title: Waymo inizia le operazioni completamente autonome con il driver di sesta generazione
+date: "2026-02-13"
 description: Sensori migliorati, migliore gestione del meteo e guida più fluida.
+heroImage: /images/blog/default-auto.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo inizia le operazioni completamente autonome con il driver di sesta generazione
 ---
 
 Waymo ha iniziato ufficialmente le operazioni completamente autonome utilizzando il suo sistema di guida di sesta generazione (6th-generation driver). Questo aggiornamento segna un progresso significativo sia nell'hardware che nel software, con l'obiettivo di fornire un'esperienza più sicura e confortevole per i passeggeri.

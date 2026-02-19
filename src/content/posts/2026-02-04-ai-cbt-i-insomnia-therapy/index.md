@@ -1,12 +1,19 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description:
+  수면제 없이 불면증을 치료하는 가장 확실한 방법, CBT-I(Cognitive Behavioral Therapy for Insomnia)를
+  AI와 함께 실천해 보세요.
 layout: /src/layouts/Layout.astro
-title: "약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.153Z"
+tags:
+  - 불면증
+  - CBT-I
+  - 수면치료
+  - 멘탈케어
+  - ChatGPT
+title: 약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트
 updatedDate: "2026-02-07T09:10:33.153Z"
-category: "건강 & 웰니스"
-description: "수면제 없이 불면증을 치료하는 가장 확실한 방법, CBT-I(Cognitive Behavioral Therapy for Insomnia)를 AI와 함께 실천해 보세요."
-tags: ["불면증", "CBT-I", "수면치료", "멘탈케어", "ChatGPT"]
 ---
 
 # 💊 약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트 {#cbt-i}

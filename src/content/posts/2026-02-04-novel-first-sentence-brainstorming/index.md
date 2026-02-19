@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 창작 및 취미
+date: "2026-02-04"
+description: 첫 문장에서 독자를 사로잡아야 합니다. 강렬한 훅(Hook)이 있는 첫 문장 10가지를 추천받으세요.
 layout: /src/layouts/Layout.astro
-title: "소설 첫 문장 10가지 버전 브레인스토밍"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.167Z"
+tags:
+  - 소설
+  - 첫문장
+  - 글쓰기
+  - 도입부
+  - 브레인스토밍
+title: 소설 첫 문장 10가지 버전 브레인스토밍
 updatedDate: "2026-02-07T09:10:33.167Z"
-category: "창작 및 취미"
-description: "첫 문장에서 독자를 사로잡아야 합니다. 강렬한 훅(Hook)이 있는 첫 문장 10가지를 추천받으세요."
-tags: ["소설", "첫문장", "글쓰기", "도입부", "브레인스토밍"]
 ---
 
 # 📝 소설 첫 문장 10가지 버전 브레인스토밍

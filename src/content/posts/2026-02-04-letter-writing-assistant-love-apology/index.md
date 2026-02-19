@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 창작 및 취미
+date: "2026-02-04"
+description: 말로는 전하기 힘든 진심, 글로 전하세요. 상황과 상대에 맞는 최적의 편지를 AI가 대신 써드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 글쓰기
+  - 편지
+  - 연애
+  - 사과
+  - 거절
 title: "편지 대필 서비스: 짝사랑 고백부터 정중한 거절까지"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.125Z"
 updatedDate: "2026-02-07T09:10:33.125Z"
-category: "창작 및 취미"
-description: "말로는 전하기 힘든 진심, 글로 전하세요. 상황과 상대에 맞는 최적의 편지를 AI가 대신 써드립니다."
-tags: ["글쓰기", "편지", "연애", "사과", "거절"]
 ---
 
 # 📝 편지 대필 서비스: 짝사랑 고백부터 정중한 거절까지

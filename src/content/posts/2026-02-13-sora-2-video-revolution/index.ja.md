@@ -1,10 +1,17 @@
 ---
-title: "Sora 2.0とAI映像革命：想像を現実に"
-description: "OpenAIによるSora 2.0の発表は、映像制作業界の常識を覆しました。たった一行のテキストで映画のような映像を作る時代、クリエイターに訪れた機会と危機を分析します。"
+categories:
+  - AI News
+  - Creative
+date: "2026-02-13"
+description: OpenAIによるSora 2.0の発表は、映像制作業界の常識を覆しました。たった一行のテキストで映画のような映像を作る時代、クリエイターに訪れた機会と危機を分析します。
+heroImage: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/sora-2.jpg"
-categories: ["AI News", "Creative"]
-tags: ["Sora 2.0", "AI Video", "Generative AI", "Content Creation"]
+tags:
+  - Sora 2.0
+  - AI Video
+  - Generative AI
+  - Content Creation
+title: Sora 2.0とAI映像革命：想像を現実に
 ---
 
 「言った通りに見える」。Sora 2.0が一般公開されたことで、この言葉はもはや比喩ではなく現実となりました。初期バージョンの物珍しさを超え、今や実際の放送や映画制作に投入できるレベルのクオリティを見せています。

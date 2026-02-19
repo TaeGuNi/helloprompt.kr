@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 오늘 하루 어땠나요? 그냥 '좋았다'로 끝내지 마세요. AI가 던지는 심오한 질문으로 내면을 깊이 탐구해 봅니다.
 layout: /src/layouts/Layout.astro
-title: "나도 몰랐던 내 마음을 발견하는 AI 일기 쓰기 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.161Z"
+tags:
+  - 일기
+  - 저널링
+  - 멘탈케어
+  - 자기계발
+  - ChatGPT
+title: 나도 몰랐던 내 마음을 발견하는 AI 일기 쓰기 프롬프트
 updatedDate: "2026-02-07T09:10:33.161Z"
-category: "건강 & 웰니스"
-description: "오늘 하루 어땠나요? 그냥 '좋았다'로 끝내지 마세요. AI가 던지는 심오한 질문으로 내면을 깊이 탐구해 봅니다."
-tags: ["일기", "저널링", "멘탈케어", "자기계발", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 나도 몰랐던 내 마음을 발견하는 AI 일기 쓰기 프롬프트 {#updated}

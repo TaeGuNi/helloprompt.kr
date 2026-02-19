@@ -1,9 +1,10 @@
 ---
-layout: /src/layouts/Layout.astro
-title: Waymo beginnt vollautonomen Betrieb mit Fahrer der 6. Generation
+date: "2026-02-13"
 description: Verbesserte Sensoren, besseres Wetterhandling und sanfteres Fahrverhalten.
+heroImage: /images/blog/default-auto.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo beginnt vollautonomen Betrieb mit Fahrer der 6. Generation
 ---
 
 Waymo hat offiziell den vollautonomen Betrieb mit seinem Fahrersystem der 6. Generation (6th-generation driver) aufgenommen. Dieses Update markiert einen bedeutenden Fortschritt sowohl bei der Hardware als auch bei der Software und zielt darauf ab, den Fahrgästen ein sichereres und komfortableres Erlebnis zu bieten.

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 답장 없는 거래처, 화내지 않고 세련되게 리마인드하는 이메일 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "무례하지 않게 독촉하는 비즈니스 이메일 작성법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.167Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 무례하지 않게 독촉하는 비즈니스 이메일 작성법
 updatedDate: "2026-02-07T09:10:33.167Z"
-category: "업무 자동화"
-description: "답장 없는 거래처, 화내지 않고 세련되게 리마인드하는 이메일 프롬프트입니다."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 무례하지 않게 독촉하는 비즈니스 이메일 작성법

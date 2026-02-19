@@ -1,9 +1,13 @@
 ---
-title: "Anthropic 完成 G 轮融资"
-description: "Anthropic 以 300 亿美元的估值完成 G 轮融资，专注于 AI 安全。"
+date: "2026-02-17"
+description: Anthropic 以 300 亿美元的估值完成 G 轮融资，专注于 AI 安全。
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic 完成 G 轮融资
 ---
 
 Anthropic 在最近的 G 轮融资中获得了 **300 亿美元** 的估值，并筹集了大量资金。这笔投资将加速 Anthropic 的 AI 模型开发和安全研究。

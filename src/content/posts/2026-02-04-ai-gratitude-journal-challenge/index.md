@@ -1,12 +1,17 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "행복 회로를 돌리는 가장 쉬운 방법, AI 감사 일기 챌린지"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.142Z"
-updatedDate: "2026-02-07T09:10:33.142Z"
-category: "건강 & 웰니스"
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
 description: "'감사합니다'라는 말 한마디가 뇌 구조를 바꿉니다. AI와 함께 사소한 행복을 찾아 기록하는 습관을 만들어보세요."
-tags: ["감사일기", "행복", "긍정심리학", "습관", "ChatGPT"]
+layout: /src/layouts/Layout.astro
+tags:
+  - 감사일기
+  - 행복
+  - 긍정심리학
+  - 습관
+  - ChatGPT
+title: 행복 회로를 돌리는 가장 쉬운 방법, AI 감사 일기 챌린지
+updatedDate: "2026-02-07T09:10:33.142Z"
 ---
 
 # 🙏 행복 회로를 돌리는 가장 쉬운 방법, AI 감사 일기 챌린지

@@ -1,9 +1,13 @@
 ---
-title: "Python 3.14：速度与类型安全的新飞跃"
-description: "探索 Python 3.14 的新功能，包括 JIT 编译器改进和模式匹配 v3。"
+date: "2026-02-13"
+description: 探索 Python 3.14 的新功能，包括 JIT 编译器改进和模式匹配 v3。
+heroImage: ./cover.jpg
 pubDate: "2026-02-13"
-heroImage: "./cover.jpg"
-tags: ["python", "programming", "tech-trends"]
+tags:
+  - python
+  - programming
+  - tech-trends
+title: Python 3.14：速度与类型安全的新飞跃
 ---
 
 Python 3.14 终于发布了。此版本显著改进了 3.13 中引入的 JIT（即时）编译器，并包含了多种功能以增强开发者体验。

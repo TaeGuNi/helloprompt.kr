@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 항공권부터 현지 식비까지, 여행지 물가를 반영해 오차 범위 10% 이내의 예산을 짜줍니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 여행
+  - 예산
+  - 여행계획
+  - 경비
 title: "여행 경비 견적서: 예산 초과 없는 완벽 플랜"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.089Z"
 updatedDate: "2026-02-07T09:10:33.090Z"
-category: "재테크 & 투자"
-description: "항공권부터 현지 식비까지, 여행지 물가를 반영해 오차 범위 10% 이내의 예산을 짜줍니다."
-tags: ["여행", "예산", "여행계획", "경비"]
 ---
 
 # 📝 여행 경비 견적서: 예산 초과 없는 완벽 플랜

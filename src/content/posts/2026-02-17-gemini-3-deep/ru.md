@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini 3: Новые горизонты глубокого мышления (Deep Think)"
-description: "Изучаем мощные возможности рассуждения и функции глубокого мышления (Deep Think) новейшей модели ИИ от Google, Gemini 3."
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description:
+  Изучаем мощные возможности рассуждения и функции глубокого мышления (Deep
+  Think) новейшей модели ИИ от Google, Gemini 3.
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: Новые горизонты глубокого мышления (Deep Think)"
 ---
 
 Google наконец представила Gemini 3. Суть этого обновления заключается в значительном улучшении способностей **«Глубокого мышления» (Deep Think)**. Выходя за рамки простой генерации текста, модель значительно улучшила способность анализировать сложные задачи шаг за шагом и логически их решать.

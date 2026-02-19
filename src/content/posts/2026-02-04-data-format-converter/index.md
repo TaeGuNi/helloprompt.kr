@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description: JSON을 CSV로, XML을 JSON으로. 귀찮은 데이터 포맷 변환 작업을 AI에게 맡겨보세요. 복잡한 중첩 구조도 문제없습니다.
 layout: /src/layouts/Layout.astro
-title: "엑셀, JSON, CSV... 데이터 포맷 변환 노가다 탈출"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.178Z"
+tags:
+  - 데이터변환
+  - JSON
+  - CSV
+  - Excel
+  - 생산성
+title: 엑셀, JSON, CSV... 데이터 포맷 변환 노가다 탈출
 updatedDate: "2026-02-07T09:10:33.178Z"
-category: "코딩/개발"
-description: "JSON을 CSV로, XML을 JSON으로. 귀찮은 데이터 포맷 변환 작업을 AI에게 맡겨보세요. 복잡한 중첩 구조도 문제없습니다."
-tags: ["데이터변환", "JSON", "CSV", "Excel", "생산성"]
 ---
 
 # 📝 엑셀, JSON, CSV... 데이터 포맷 변환 노가다 탈출

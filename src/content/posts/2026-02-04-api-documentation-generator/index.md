@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description: API 코드를 붙여넣으면 OpenAPI(Swagger) 스펙이나 마크다운 문서로 자동 변환해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.165Z"
+tags:
+  - API
+  - 문서화
+  - Swagger
+  - OpenAPI
+  - 백엔드
+title: 귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱
 updatedDate: "2026-02-07T09:10:33.165Z"
-category: "코딩/개발"
-description: "API 코드를 붙여넣으면 OpenAPI(Swagger) 스펙이나 마크다운 문서로 자동 변환해주는 프롬프트입니다."
-tags: ["API", "문서화", "Swagger", "OpenAPI", "백엔드"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱

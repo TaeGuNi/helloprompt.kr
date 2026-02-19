@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 여행 & 문화
+date: "2026-02-04"
+description: 현지인처럼 즐기는 알찬 하루! 동선 낭비 없는 최적의 당일치기 여행 계획을 AI에게 맡겨보세요.
 layout: /src/layouts/Layout.astro
-title: "AI로 1분 만에 짜는 완벽한 당일치기 시티 투어 일정"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.158Z"
+tags:
+  - 여행계획
+  - 당일치기
+  - 시티투어
+  - GPT프롬프트
+title: AI로 1분 만에 짜는 완벽한 당일치기 시티 투어 일정
 updatedDate: "2026-02-07T09:10:33.158Z"
-category: "여행 & 문화"
-description: "현지인처럼 즐기는 알찬 하루! 동선 낭비 없는 최적의 당일치기 여행 계획을 AI에게 맡겨보세요."
-tags: ["여행계획", "당일치기", "시티투어", "GPT프롬프트"]
 ---
 
 # 📝 AI로 1분 만에 짜는 완벽한 당일치기 시티 투어 일정

@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini 3: أفق جديد للتفكير العميق (Deep Think)"
-description: "استكشاف قدرات الاستدلال القوية وميزات التفكير العميق (Deep Think) في أحدث نموذج ذكاء اصطناعي من Google، Gemini 3."
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description:
+  استكشاف قدرات الاستدلال القوية وميزات التفكير العميق (Deep Think) في
+  أحدث نموذج ذكاء اصطناعي من Google، Gemini 3.
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: أفق جديد للتفكير العميق (Deep Think)"
 ---
 
 كشفت Google أخيرًا عن Gemini 3. جوهر هذا التحديث هو التحسن الكبير في قدرات **'التفكير العميق' (Deep Think)**. فإلى جانب توليد النصوص البسيط، تم تعزيز القدرة على تحليل المشكلات المعقدة خطوة بخطوة وحلها منطقيًا بشكل كبير.

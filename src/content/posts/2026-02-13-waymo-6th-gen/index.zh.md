@@ -1,9 +1,10 @@
 ---
-layout: /src/layouts/Layout.astro
-title: Waymo 开始使用第六代驱动系统进行完全自动驾驶
+date: "2026-02-13"
 description: 增强的传感器、更好的天气处理能力以及更平稳的乘坐体验。
+heroImage: /images/blog/default-auto.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo 开始使用第六代驱动系统进行完全自动驾驶
 ---
 
 Waymo 正式开始使用其第六代驱动系统（6th-generation driver）进行完全自动驾驶运营。此次更新标志着硬件和软件方面的重大进步，旨在为乘客提供更安全、更舒适的体验。

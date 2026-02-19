@@ -1,9 +1,13 @@
 ---
-title: "Anthropic、シリーズG資金調達を実施"
-description: "Anthropicは300億ドルの評価額でシリーズG資金調達を行い、AIの安全性に注力します。"
+date: "2026-02-17"
+description: Anthropicは300億ドルの評価額でシリーズG資金調達を行い、AIの安全性に注力します。
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic、シリーズG資金調達を実施
 ---
 
 Anthropicは最近のシリーズG資金調達ラウンドで、**300億ドル**の企業価値評価を受け、大規模な投資を誘致しました。この投資は、AnthropicのAIモデル開発と安全性研究をさらに加速させるでしょう。

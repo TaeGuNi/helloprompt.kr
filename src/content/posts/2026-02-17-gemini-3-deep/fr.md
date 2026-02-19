@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini 3 : Un nouvel horizon pour la Pensée Profonde (Deep Think)"
-description: "Exploration des puissantes capacités de raisonnement et des fonctionnalités Deep Think du dernier modèle d'IA de Google, Gemini 3."
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description:
+  Exploration des puissantes capacités de raisonnement et des fonctionnalités
+  Deep Think du dernier modèle d'IA de Google, Gemini 3.
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3 : Un nouvel horizon pour la Pensée Profonde (Deep Think)"
 ---
 
 Google a enfin dévoilé Gemini 3. Le cœur de cette mise à jour est l'amélioration spectaculaire des capacités de **'Pensée Profonde' (Deep Think)**. Au-delà de la simple génération de texte, il a considérablement renforcé la capacité d'analyser des problèmes complexes étape par étape et de les résoudre logiquement.

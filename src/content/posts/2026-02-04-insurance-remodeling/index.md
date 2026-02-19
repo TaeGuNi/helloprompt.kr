@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 내 보험, 과연 안전할까요? 보장은 그대로 두면서 불필요한 보험료만 쏙 빼는 분석법을 소개합니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 보험
+  - 재테크
+  - 절약
+  - 보장분석
 title: "보험 다이어트: 중복 보장 찾고 보험료 반토막 내기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.106Z"
 updatedDate: "2026-02-07T09:10:33.107Z"
-category: "재테크 & 투자"
-description: "내 보험, 과연 안전할까요? 보장은 그대로 두면서 불필요한 보험료만 쏙 빼는 분석법을 소개합니다."
-tags: ["보험", "재테크", "절약", "보장분석"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 보험 다이어트: 중복 보장 찾고 보험료 반토막 내기

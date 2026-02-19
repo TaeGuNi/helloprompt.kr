@@ -1,10 +1,20 @@
 ---
-title: "Etica e Regolamentazione dell'IA 2026: Regole per la Coesistenza"
-description: "Il rapido progresso dell'IA ha generato nuovi dilemmi etici. Un approfondimento sullo stato attuale della regolamentazione globale dell'IA e sull''etica digitale' che dobbiamo sostenere."
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description:
+  Il rapido progresso dell'IA ha generato nuovi dilemmi etici. Un approfondimento
+  sullo stato attuale della regolamentazione globale dell'IA e sull''etica digitale'
+  che dobbiamo sostenere.
+heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: "Etica e Regolamentazione dell'IA 2026: Regole per la Coesistenza"
 ---
 
 "L'IA sostituirà gli esseri umani o li completerà?" Questa domanda si è ora spostata su "Come controlliamo l'IA?". Nel 2026, il mondo è impegnato a stabilire linee guida per impedire che la tecnologia IA vada fuori controllo e per garantire una coesistenza sicura.

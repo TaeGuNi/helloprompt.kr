@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description: 복잡한 JSON 데이터를 TypeScript 인터페이스나 Zod 스키마로 자동 변환해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "JSON만 던지면 TypeScript 타입 정의가 짠! (feat. Zod)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.144Z"
+tags:
+  - TypeScript
+  - Zod
+  - JSON
+  - 타입정의
+  - 생산성
+title: JSON만 던지면 TypeScript 타입 정의가 짠! (feat. Zod)
 updatedDate: "2026-02-07T09:10:33.144Z"
-category: "코딩/개발"
-description: "복잡한 JSON 데이터를 TypeScript 인터페이스나 Zod 스키마로 자동 변환해주는 프롬프트입니다."
-tags: ["TypeScript", "Zod", "JSON", "타입정의", "생산성"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 JSON만 던지면 TypeScript 타입 정의가 짠! (feat. Zod) {#feat-zod}

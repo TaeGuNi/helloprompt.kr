@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 내 방은 과연 잠자기 좋은 환경일까요? AI가 내 침실과 생활 습관을 점검하고 꿀잠 솔루션을 드립니다.
 layout: /src/layouts/Layout.astro
-title: "잠 못 드는 밤은 이제 그만! AI가 진단하는 수면 위생 체크리스트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.125Z"
+tags:
+  - 수면
+  - 불면증
+  - 건강
+  - 수면위생
+  - ChatGPT
+title: 잠 못 드는 밤은 이제 그만! AI가 진단하는 수면 위생 체크리스트
 updatedDate: "2026-02-07T09:10:33.126Z"
-category: "건강 & 웰니스"
-description: "내 방은 과연 잠자기 좋은 환경일까요? AI가 내 침실과 생활 습관을 점검하고 꿀잠 솔루션을 드립니다."
-tags: ["수면", "불면증", "건강", "수면위생", "ChatGPT"]
 ---
 
 # 🛌 잠 못 드는 밤은 이제 그만! AI가 진단하는 수면 위생 체크리스트

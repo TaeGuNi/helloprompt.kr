@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 여행 & 문화
+date: "2026-02-04"
+description: 카페가 사무실이 되는 마법. 노트북부터 케이블까지, 효율 200% 원격 근무 장비 리스트.
 layout: /src/layouts/Layout.astro
-title: "일과 여행을 동시에! 디지털 노마드를 위한 테크 파우치 셋업"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.168Z"
+tags:
+  - 디지털노마드
+  - 워케이션
+  - 테크기어
+  - 원격근무
+title: 일과 여행을 동시에! 디지털 노마드를 위한 테크 파우치 셋업
 updatedDate: "2026-02-07T09:10:33.168Z"
-category: "여행 & 문화"
-description: "카페가 사무실이 되는 마법. 노트북부터 케이블까지, 효율 200% 원격 근무 장비 리스트."
-tags: ["디지털노마드", "워케이션", "테크기어", "원격근무"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 일과 여행을 동시에! 디지털 노마드를 위한 테크 파우치 셋업

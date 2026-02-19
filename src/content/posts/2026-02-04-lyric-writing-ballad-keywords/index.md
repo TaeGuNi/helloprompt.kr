@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 창작 및 취미
+date: "2026-02-04"
+description: 떠오르는 단어 3개만 있으면 AI가 작사가 수준의 감성적인 가사 초안을 만들어줍니다.
 layout: /src/layouts/Layout.astro
-title: "작사가 데뷔? 키워드 3개로 감성 발라드 가사 쓰기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.158Z"
+tags:
+  - 작사
+  - 가사
+  - 발라드
+  - 음악
+title: 작사가 데뷔? 키워드 3개로 감성 발라드 가사 쓰기
 updatedDate: "2026-02-07T09:10:33.158Z"
-category: "창작 및 취미"
-description: "떠오르는 단어 3개만 있으면 AI가 작사가 수준의 감성적인 가사 초안을 만들어줍니다."
-tags: ["작사", "가사", "발라드", "음악"]
 ---
 
 # 📝 작사가 데뷔? 키워드 3개로 감성 발라드 가사 쓰기

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 일상
+date: "2026-02-04"
+description: 매일 반복되는 "오늘 뭐 먹지?" 고민. 날씨, 기분, 냉장고 상황에 맞춰 딱 정해드립니다.
 layout: /src/layouts/Layout.astro
-title: "결정 장애 해결! AI 저녁 메뉴 추천기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.143Z"
+tags:
+  - 메뉴추천
+  - 결정장애
+  - 오늘뭐먹지
+  - 저녁메뉴
+title: 결정 장애 해결! AI 저녁 메뉴 추천기
 updatedDate: "2026-02-07T09:10:33.143Z"
-category: "일상"
-description: '매일 반복되는 "오늘 뭐 먹지?" 고민. 날씨, 기분, 냉장고 상황에 맞춰 딱 정해드립니다.'
-tags: ["메뉴추천", "결정장애", "오늘뭐먹지", "저녁메뉴"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 결정 장애 해결! AI 저녁 메뉴 추천기

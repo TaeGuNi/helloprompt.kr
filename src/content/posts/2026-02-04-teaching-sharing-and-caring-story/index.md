@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 잔소리 대신 이야기로 배우는 인성 교육 프롬프트
 layout: /src/layouts/Layout.astro
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
 title: "교훈이 있는 이야기: '나눔'과 '배려' 배우기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.134Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
-category: "육아 & 교육"
-description: "잔소리 대신 이야기로 배우는 인성 교육 프롬프트"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 욕심쟁이 아이가 달라지는 '마법의 사탕' 이야기

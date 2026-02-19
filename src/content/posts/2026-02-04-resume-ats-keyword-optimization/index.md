@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 채용 시스템(ATS)이 좋아하는 키워드를 이력서에 자연스럽게 녹여내어 서류 자동 탈락을 방지합니다.
 layout: /src/layouts/Layout.astro
-title: "ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.160Z"
+tags:
+  - ATS
+  - 이력서최적화
+  - 키워드
+  - 채용시스템
+title: ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트
 updatedDate: "2026-02-07T09:10:33.160Z"
-category: "취업 & 이직"
-description: "채용 시스템(ATS)이 좋아하는 키워드를 이력서에 자연스럽게 녹여내어 서류 자동 탈락을 방지합니다."
-tags: ["ATS", "이력서최적화", "키워드", "채용시스템"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트

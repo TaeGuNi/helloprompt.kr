@@ -1,10 +1,17 @@
 ---
-title: "提示工程 3.0：意图（Intent）即命令"
-description: "不再需要复杂的提示词。AI掌握用户隐藏意图的“基于意图的提示（Intent-Based Prompting）”时代已经到来。介绍一种更简洁、更强大的沟通方式。"
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description: 不再需要复杂的提示词。AI掌握用户隐藏意图的“基于意图的提示（Intent-Based Prompting）”时代已经到来。介绍一种更简洁、更强大的沟通方式。
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: 提示工程 3.0：意图（Intent）即命令
 ---
 
 像“详细解释”或“一步一步告诉我”这样的修饰语不再必要。提示工程 3.0 时代的核心不是“语法（Syntax）”，而是“意图（Intent）”。

@@ -1,9 +1,15 @@
 ---
-title: "2026年主权人工智能与边缘计算革命：数据主权时代"
-description: "主权人工智能和端侧SLM（小型语言模型）的兴起，减少了对云端的依赖并增强了数据隐私。"
+date: "2026-02-13"
+description: 主权人工智能和端侧SLM（小型语言模型）的兴起，减少了对云端的依赖并增强了数据隐私。
+heroImage: /images/sovereign-ai-2026.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/sovereign-ai-2026.jpg"
-tags: ["AI", "Edge Computing", "Sovereign AI", "Privacy", "2026 Trends"]
+tags:
+  - AI
+  - Edge Computing
+  - Sovereign AI
+  - Privacy
+  - 2026 Trends
+title: 2026年主权人工智能与边缘计算革命：数据主权时代
 ---
 
 ## 数据主权的兴起
@@ -15,6 +21,7 @@ tags: ["AI", "Edge Computing", "Sovereign AI", "Privacy", "2026 Trends"]
 这一转变的核心是SLM（Small Language Models，小型语言模型）。虽然过去的大型语言模型（LLM）需要巨大的计算能力，但最新的SLM可以在智能手机、笔记本电脑甚至汽车的本地芯片组上流畅运行。
 
 ### 主要优势：
+
 1.  **增强隐私**：敏感数据不会发送到外部服务器。
 2.  **减少延迟**：无需网络连接即可即时响应。
 3.  **降低成本**：可以大幅降低云API调用成本。

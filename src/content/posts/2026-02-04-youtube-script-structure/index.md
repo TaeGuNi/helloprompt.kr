@@ -1,12 +1,15 @@
 ---
+author: Zzabbis
+category: 글쓰기
+date: "2026-02-04"
+description: 초반 5초 이탈을 막고 끝까지 시청하게 만드는 유튜브 영상 스크립트 구조를 짜주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "조회수 떡상을 부르는 유튜브 대본 구조화 비법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.177Z"
+tags:
+  - 유튜브
+  - 대본
+  - 영상제작
+title: 조회수 떡상을 부르는 유튜브 대본 구조화 비법
 updatedDate: "2026-02-07T09:10:33.177Z"
-category: "글쓰기"
-description: "초반 5초 이탈을 막고 끝까지 시청하게 만드는 유튜브 영상 스크립트 구조를 짜주는 프롬프트입니다."
-tags: ["유튜브", "대본", "영상제작"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 조회수 떡상을 부르는 유튜브 대본 구조화 비법

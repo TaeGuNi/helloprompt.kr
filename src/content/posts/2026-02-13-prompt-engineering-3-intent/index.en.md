@@ -1,10 +1,20 @@
 ---
-title: "Prompt Engineering 3.0: Intent Is Command"
-description: "Stop writing complex prompts. The era of 'Intent-Based Prompting', where AI grasps the user's hidden intent, has arrived. Introducing a simpler, more powerful way to communicate."
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description:
+  Stop writing complex prompts. The era of 'Intent-Based Prompting', where
+  AI grasps the user's hidden intent, has arrived. Introducing a simpler, more powerful
+  way to communicate.
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: "Prompt Engineering 3.0: Intent Is Command"
 ---
 
 Modifiers like "Explain in detail" or "Tell me step-by-step" are no longer necessary. The core of the Prompt Engineering 3.0 era is not 'Syntax', but 'Intent'.

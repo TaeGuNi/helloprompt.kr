@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: RSI, MACD, 볼린저밴드 등 어려운 차트 지표를 AI가 쉽게 해석해줍니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 주식
+  - 차트분석
+  - 기술적분석
+  - 트레이딩
 title: "차트 보조지표 해석기: 매수 타이밍 포착"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
-category: "재테크 & 투자"
-description: "RSI, MACD, 볼린저밴드 등 어려운 차트 지표를 AI가 쉽게 해석해줍니다."
-tags: ["주식", "차트분석", "기술적분석", "트레이딩"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 차트 보조지표 해석기: 매수 타이밍 포착

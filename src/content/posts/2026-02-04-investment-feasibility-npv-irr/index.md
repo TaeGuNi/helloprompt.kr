@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 이 사업, 해도 될까? 투자의사결정의 핵심 지표인 순현재가치(NPV)와 내부수익률(IRR)을 엑셀로 쉽게 구하세요.
 layout: /src/layouts/Layout.astro
+tags:
+  - 엑셀
+  - 투자분석
+  - NPV
+  - IRR
 title: "투자 타당성 분석: NPV와 IRR 자동 계산 엑셀"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.103Z"
 updatedDate: "2026-02-07T09:10:33.103Z"
-category: "업무 자동화"
-description: "이 사업, 해도 될까? 투자의사결정의 핵심 지표인 순현재가치(NPV)와 내부수익률(IRR)을 엑셀로 쉽게 구하세요."
-tags: ["엑셀", "투자분석", "NPV", "IRR"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 투자 타당성 분석: NPV와 IRR 자동 계산 엑셀

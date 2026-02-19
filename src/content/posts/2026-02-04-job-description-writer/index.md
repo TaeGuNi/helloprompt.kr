@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 인재를 끌어당기는 매력적인 직무 기술서 작성법.
 layout: /src/layouts/Layout.astro
-title: "채용 공고(JD), 지원자가 몰리게 쓰기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.139Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 채용 공고(JD), 지원자가 몰리게 쓰기
 updatedDate: "2026-02-07T09:10:33.139Z"
-category: "업무 자동화"
-description: "인재를 끌어당기는 매력적인 직무 기술서 작성법."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # 📝 채용 공고(JD), 지원자가 몰리게 쓰기 {#jd}

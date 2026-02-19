@@ -1,12 +1,18 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description:
+  검색에 잘 걸리는 헤드라인(Headline)과 나를 매력적으로 소개하는 요약(About) 섹션을 작성하여 이직 제안을 10배
+  늘립니다.
 layout: /src/layouts/Layout.astro
-title: "헤드헌터가 줄을 서는 '링크드인(LinkedIn)' 프로필 최적화 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.166Z"
+tags:
+  - 링크드인
+  - 프로필최적화
+  - 헤드헌팅
+  - 퍼스널브랜딩
+title: 헤드헌터가 줄을 서는 '링크드인(LinkedIn)' 프로필 최적화 프롬프트
 updatedDate: "2026-02-07T09:10:33.166Z"
-category: "취업 & 이직"
-description: "검색에 잘 걸리는 헤드라인(Headline)과 나를 매력적으로 소개하는 요약(About) 섹션을 작성하여 이직 제안을 10배 늘립니다."
-tags: ["링크드인", "프로필최적화", "헤드헌팅", "퍼스널브랜딩"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 헤드헌터가 줄을 서는 '링크드인(LinkedIn)' 프로필 최적화 프롬프트 {#linkedin}

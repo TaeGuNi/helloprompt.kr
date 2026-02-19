@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 어려운 과학 원리를 아이 눈높이 비유로 풀어내는 프롬프트
 layout: /src/layouts/Layout.astro
-title: "5살 아이에게 '하늘은 왜 파래?' 설명하기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.166Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 5살 아이에게 '하늘은 왜 파래?' 설명하기
 updatedDate: "2026-02-07T09:10:33.166Z"
-category: "육아 & 교육"
-description: "어려운 과학 원리를 아이 눈높이 비유로 풀어내는 프롬프트"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 과학 포기자 부모를 위한 '하늘색의 비밀' 설명법

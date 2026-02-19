@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 신규 사업 아이디어, 마케팅 전략 수립의 기본 SWOT 분석을 AI와 함께.
 layout: /src/layouts/Layout.astro
-title: "SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.151Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기
 updatedDate: "2026-02-07T09:10:33.151Z"
-category: "업무 자동화"
-description: "신규 사업 아이디어, 마케팅 전략 수립의 기본 SWOT 분석을 AI와 함께."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기

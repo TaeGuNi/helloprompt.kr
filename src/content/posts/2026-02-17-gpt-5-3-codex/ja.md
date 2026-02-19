@@ -1,10 +1,16 @@
 ---
-title: "GPT-5.3 Codex Spark: 開発者のための超高速コーディングAI"
-description: "OpenAIは、開発者の生産性のために設計された軽量高性能モデルGPT-5.3 Codex Sparkを公開しました。15ms未満のレイテンシと強化されたコンテキスト理解を備えています。"
-published: 2026-02-13
-category: "Technology"
-tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
+category: Technology
+date: "2026-02-17"
+description: OpenAIは、開発者の生産性のために設計された軽量高性能モデルGPT-5.3 Codex Sparkを公開しました。15ms未満のレイテンシと強化されたコンテキスト理解を備えています。
 draft: false
+published: 2026-02-13
+tags:
+  - AI
+  - GPT-5.3
+  - Codex
+  - OpenAI
+  - Development
+title: "GPT-5.3 Codex Spark: 開発者のための超高速コーディングAI"
 ---
 
 # GPT-5.3 Codex Spark: 開発生産性の新しい基準

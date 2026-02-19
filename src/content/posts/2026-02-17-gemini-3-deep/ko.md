@@ -1,10 +1,18 @@
 ---
-title: "Google Gemini 3: 심층 사고(Deep Think)의 새로운 지평"
-description: "Google의 최신 AI 모델 Gemini 3가 보여주는 강력한 추론 능력과 심층 사고 기능에 대해 알아봅니다."
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description: Google의 최신 AI 모델 Gemini 3가 보여주는 강력한 추론 능력과 심층 사고 기능에 대해 알아봅니다.
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: 심층 사고(Deep Think)의 새로운 지평"
 ---
 
 Google이 마침내 Gemini 3를 공개했습니다. 이번 업데이트의 핵심은 단연 **'심층 사고(Deep Think)'** 능력의 비약적인 향상입니다. 단순히 텍스트를 생성하는 것을 넘어, 복잡한 문제를 단계별로 분석하고 논리적으로 해결하는 능력이 크게 강화되었습니다.

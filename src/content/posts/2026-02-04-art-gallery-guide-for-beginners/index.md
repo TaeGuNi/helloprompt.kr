@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 여행 & 문화
+date: "2026-02-04"
+description: 현대 미술은 난해하다? 갤러리 문턱을 낮춰주는 초보자용 감상 프롬프트.
 layout: /src/layouts/Layout.astro
-title: "미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.157Z"
+tags:
+  - 미술관
+  - 갤러리
+  - 예술감상
+  - 취향찾기
+title: 미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드
 updatedDate: "2026-02-07T09:10:33.157Z"
-category: "여행 & 문화"
-description: "현대 미술은 난해하다? 갤러리 문턱을 낮춰주는 초보자용 감상 프롬프트."
-tags: ["미술관", "갤러리", "예술감상", "취향찾기"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드

@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 두 개의 서로 다른 이미지를 겹쳐서 신비롭고 몽환적인 스토리를 만드는 이중 노출 기법입니다.
 layout: /src/layouts/Layout.astro
-title: "두 이미지를 하나로 'Double Exposure' (이중 노출)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.161Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Effect
+  - Surrealism
+title: 두 이미지를 하나로 'Double Exposure' (이중 노출)
 updatedDate: "2026-02-07T09:10:33.161Z"
-category: "이미지 생성"
-description: "두 개의 서로 다른 이미지를 겹쳐서 신비롭고 몽환적인 스토리를 만드는 이중 노출 기법입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 중첩된 세계: Double Exposure

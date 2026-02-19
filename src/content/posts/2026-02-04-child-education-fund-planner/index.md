@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 물가 상승률보다 무서운 등록금 인상률. 우리 아이 대학 갈 때 얼마가 필요할까요?
 layout: /src/layouts/Layout.astro
+tags:
+  - 교육비
+  - 학자금
+  - 저축
+  - 자녀계획
 title: "자녀 학자금 플랜: 10년 장기 프로젝트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.146Z"
-category: "재테크 & 투자"
-description: "물가 상승률보다 무서운 등록금 인상률. 우리 아이 대학 갈 때 얼마가 필요할까요?"
-tags: ["교육비", "학자금", "저축", "자녀계획"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 자녀 학자금 플랜: 10년 장기 프로젝트 {#updated}

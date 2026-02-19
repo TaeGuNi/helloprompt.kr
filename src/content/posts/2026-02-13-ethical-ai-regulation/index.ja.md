@@ -1,10 +1,17 @@
 ---
-title: "AI倫理と規制2026：共存のためのルール"
-description: "AIの急激な発展は新たな倫理的ジレンマを生みました。世界のAI規制の現状と、私たちが守るべき「デジタル倫理」について深く議論します。"
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description: AIの急激な発展は新たな倫理的ジレンマを生みました。世界のAI規制の現状と、私たちが守るべき「デジタル倫理」について深く議論します。
+heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: AI倫理と規制2026：共存のためのルール
 ---
 
 「AIは人間を代替するのか、それとも補完するのか？」この問いは今、「AIをどう制御するのか？」に変わりました。2026年、世界はAI技術の暴走を防ぎ、安全な共存のためのガイドライン作りに奔走しています。

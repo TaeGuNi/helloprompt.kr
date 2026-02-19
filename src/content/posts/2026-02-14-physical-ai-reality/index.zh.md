@@ -1,10 +1,15 @@
 ---
-title: "具身智能：炒作与现实"
-description: "媒体大肆宣扬LG和三星的机器人即将改变世界，但工程现实仍在与物理定律作斗争。"
+date: "2026-02-14"
+description: 媒体大肆宣扬LG和三星的机器人即将改变世界，但工程现实仍在与物理定律作斗争。
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: 具身智能：炒作与现实
 ---
 
 每当CES等技术博览会季到来，新闻流就会被机器人话题刷屏。LG和三星推出的智能家居机器人做出可爱的表情，仿佛马上就能接管我们的家务。媒体称之为“具身智能（Physical AI）”的到来，称赞大语言模型（LLM）终于拥有了身体。

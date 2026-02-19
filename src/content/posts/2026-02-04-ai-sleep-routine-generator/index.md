@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 파블로프의 개처럼, 특정 행동만 하면 졸음이 쏟아지게 만드는 마법의 루틴을 설계해 드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 수면루틴
+  - 불면증
+  - 습관
+  - 건강
+  - ChatGPT
 title: "뇌에게 '잘 시간' 알려주기: AI가 짜주는 기적의 취침 루틴"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
-category: "건강 & 웰니스"
-description: "파블로프의 개처럼, 특정 행동만 하면 졸음이 쏟아지게 만드는 마법의 루틴을 설계해 드립니다."
-tags: ["수면루틴", "불면증", "습관", "건강", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 🧠 뇌에게 '잘 시간' 알려주기: AI가 짜주는 기적의 취침 루틴

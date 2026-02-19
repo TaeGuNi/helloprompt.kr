@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 손전등 하나로 만드는 환상의 세계, AI가 짜주는 그림자극 대본
 layout: /src/layouts/Layout.astro
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
 title: "그림자 인형 극장: 잠자리 들기 전 차분한 놀이"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
-category: "육아 & 교육"
-description: "손전등 하나로 만드는 환상의 세계, AI가 짜주는 그림자극 대본"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 잠자리 독립을 돕는 '그림자 극장' 시나리오

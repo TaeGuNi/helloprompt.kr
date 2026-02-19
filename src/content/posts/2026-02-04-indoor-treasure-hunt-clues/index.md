@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: AI와 함께 5분 만에 준비하는 우리 집 맞춤형 보물찾기 단서 만들기
 layout: /src/layouts/Layout.astro
-title: "비오는 날 집에서 하는 실내 보물찾기 게임 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.117Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 비오는 날 집에서 하는 실내 보물찾기 게임 프롬프트
 updatedDate: "2026-02-07T09:10:33.117Z"
-category: "육아 & 교육"
-description: "AI와 함께 5분 만에 준비하는 우리 집 맞춤형 보물찾기 단서 만들기"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # 📝 아이들이 환장하는 '실내 보물찾기' 단서 1분 만에 짜기

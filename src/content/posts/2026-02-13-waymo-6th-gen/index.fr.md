@@ -1,9 +1,12 @@
 ---
+date: "2026-02-13"
+description:
+  Capteurs améliorés, meilleure gestion des conditions météorologiques
+  et conduite plus fluide.
+heroImage: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
-title: Waymo lance des opérations entièrement autonomes avec le conducteur de 6e génération
-description: Capteurs améliorés, meilleure gestion des conditions météorologiques et conduite plus fluide.
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo lance des opérations entièrement autonomes avec le conducteur de 6e génération
 ---
 
 Waymo a officiellement lancé ses opérations entièrement autonomes en utilisant son système de conducteur de 6e génération (6th-generation driver). Cette mise à jour marque une avancée significative tant au niveau matériel que logiciel, visant à offrir une expérience plus sûre et plus confortable aux passagers.

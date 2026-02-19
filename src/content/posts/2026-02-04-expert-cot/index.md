@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 프롬프트 엔지니어링
+date: "2026-02-04"
+description:
+  단순한 질문에는 잘 대답하던 AI가, 복잡한 논리 문제만 만나면 헛소리를 하나요? 상위 1% 프롬프트 엔지니어들이 쓰는 CoT
+  기법의 진짜 활용법.
 layout: /src/layouts/Layout.astro
+tags:
+  - CoT
+  - 논리적사고
+  - 문제해결
 title: 'AI가 자꾸 멍청한 답을 할 때: "생각의 사슬(CoT)" 걸기'
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.163Z"
 updatedDate: "2026-02-07T09:10:33.163Z"
-category: "프롬프트 엔지니어링"
-description: "단순한 질문에는 잘 대답하던 AI가, 복잡한 논리 문제만 만나면 헛소리를 하나요? 상위 1% 프롬프트 엔지니어들이 쓰는 CoT 기법의 진짜 활용법."
-tags: ["CoT", "논리적사고", "문제해결"]
 ---
 
 # (Updated) (Updated) (Updated) 🧠 AI가 자꾸 멍청한 답을 할 때

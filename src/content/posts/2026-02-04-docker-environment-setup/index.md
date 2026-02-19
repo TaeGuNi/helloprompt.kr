@@ -1,12 +1,19 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description:
+  애플리케이션 실행 환경을 컨테이너로 만들기 위한 Dockerfile과 docker-compose.yml을 자동으로 생성해주는
+  프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.157Z"
+tags:
+  - Docker
+  - 도커
+  - 컨테이너
+  - 배포
+  - DevOps
+title: 도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷
 updatedDate: "2026-02-07T09:10:33.157Z"
-category: "코딩/개발"
-description: "애플리케이션 실행 환경을 컨테이너로 만들기 위한 Dockerfile과 docker-compose.yml을 자동으로 생성해주는 프롬프트입니다."
-tags: ["Docker", "도커", "컨테이너", "배포", "DevOps"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷 {#docker}

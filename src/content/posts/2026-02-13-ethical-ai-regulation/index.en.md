@@ -1,10 +1,20 @@
 ---
-title: "AI Ethics and Regulation 2026: Rules for Coexistence"
-description: "The rapid advancement of AI has spawned new ethical dilemmas. A deep dive into the current state of global AI regulation and the 'digital ethics' we must uphold."
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description:
+  The rapid advancement of AI has spawned new ethical dilemmas. A deep
+  dive into the current state of global AI regulation and the 'digital ethics' we
+  must uphold.
+heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: "AI Ethics and Regulation 2026: Rules for Coexistence"
 ---
 
 "Will AI replace humans, or complement them?" This question has now shifted to "How do we control AI?" In 2026, the world is busy establishing guidelines to prevent AI technology from running amok and to ensure safe coexistence.

@@ -1,9 +1,15 @@
 ---
-title: "2026年ソブリンAIとエッジコンピューティング革命：データ主権の時代"
-description: "クラウド依存を減らし、データプライバシーを強化するソブリンAIとオンデバイスSLM（小規模言語モデル）の台頭。"
+date: "2026-02-13"
+description: クラウド依存を減らし、データプライバシーを強化するソブリンAIとオンデバイスSLM（小規模言語モデル）の台頭。
+heroImage: /images/sovereign-ai-2026.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/sovereign-ai-2026.jpg"
-tags: ["AI", "Edge Computing", "Sovereign AI", "Privacy", "2026 Trends"]
+tags:
+  - AI
+  - Edge Computing
+  - Sovereign AI
+  - Privacy
+  - 2026 Trends
+title: 2026年ソブリンAIとエッジコンピューティング革命：データ主権の時代
 ---
 
 ## データ主権の台頭
@@ -15,6 +21,7 @@ tags: ["AI", "Edge Computing", "Sovereign AI", "Privacy", "2026 Trends"]
 この変化の中心にはSLM（Small Language Models、小規模言語モデル）があります。かつての大規模言語モデル（LLM）は莫大な計算能力を必要としましたが、最新のSLMはスマートフォン、ノートPC、さらには自動車のローカルチップセットでもスムーズに動作します。
 
 ### 主な利点：
+
 1.  **プライバシー強化**：機密データが外部サーバーに送信されません。
 2.  **遅延の削減**：ネットワーク接続なしで即座に応答が可能です。
 3.  **コスト削減**：クラウドAPIの呼び出しコストを劇的に削減できます。

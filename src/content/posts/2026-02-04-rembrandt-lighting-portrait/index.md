@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 거장의 초상화처럼 깊이 있고 진중한 인물 사진을 만드는 조명 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "인물의 품격을 높이는 'Rembrandt Lighting' 기법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.171Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Portrait
+  - Lighting
+title: 인물의 품격을 높이는 'Rembrandt Lighting' 기법
 updatedDate: "2026-02-07T09:10:33.171Z"
-category: "이미지 생성"
-description: "거장의 초상화처럼 깊이 있고 진중한 인물 사진을 만드는 조명 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 거장의 손길: Rembrandt Lighting {#updated}

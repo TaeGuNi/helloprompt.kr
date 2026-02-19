@@ -1,12 +1,15 @@
 ---
+author: Zzabbis
+category: 생활
+date: "2026-02-04"
+description: 유통기한 임박한 자투리 재료들을 입력하면 그럴싸한 요리 레시피를 제안해주는 알뜰 살림 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "냉장고 파먹기, 셰프의 레시피로 재탄생하다"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.174Z"
+tags:
+  - 요리
+  - 레시피
+  - 자취꿀팁
+title: 냉장고 파먹기, 셰프의 레시피로 재탄생하다
 updatedDate: "2026-02-07T09:10:33.174Z"
-category: "생활"
-description: "유통기한 임박한 자투리 재료들을 입력하면 그럴싸한 요리 레시피를 제안해주는 알뜰 살림 프롬프트입니다."
-tags: ["요리", "레시피", "자취꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 냉장고 파먹기, 셰프의 레시피로 재탄생하다

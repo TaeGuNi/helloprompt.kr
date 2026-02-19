@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 매운 떡볶이 먹기 말고 다른 방법은 없을까? 과학적으로 증명된 스트레스 해소 테크닉을 알려드립니다.
 layout: /src/layouts/Layout.astro
-title: "터지기 일보 직전! AI가 제안하는 상황별 스트레스 해소법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.093Z"
+tags:
+  - 스트레스
+  - 번아웃
+  - 멘탈관리
+  - 힐링
+  - ChatGPT
+title: 터지기 일보 직전! AI가 제안하는 상황별 스트레스 해소법
 updatedDate: "2026-02-07T09:10:33.093Z"
-category: "건강 & 웰니스"
-description: "매운 떡볶이 먹기 말고 다른 방법은 없을까? 과학적으로 증명된 스트레스 해소 테크닉을 알려드립니다."
-tags: ["스트레스", "번아웃", "멘탈관리", "힐링", "ChatGPT"]
 ---
 
 # 🤯 터지기 일보 직전! AI가 제안하는 상황별 스트레스 해소법

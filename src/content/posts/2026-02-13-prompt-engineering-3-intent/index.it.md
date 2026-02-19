@@ -1,10 +1,20 @@
 ---
-title: "Prompt Engineering 3.0: L'Intenzione è Comando"
-description: "Smetti di scrivere prompt complessi. È arrivata l'era del 'Prompting Basato sull'Intenzione', in cui l'IA coglie l'intenzione nascosta dell'utente. Presentiamo un modo più semplice e potente di comunicare."
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description:
+  Smetti di scrivere prompt complessi. È arrivata l'era del 'Prompting
+  Basato sull'Intenzione', in cui l'IA coglie l'intenzione nascosta dell'utente. Presentiamo
+  un modo più semplice e potente di comunicare.
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: "Prompt Engineering 3.0: L'Intenzione è Comando"
 ---
 
 Modificatori come "Spiega in dettaglio" o "Dimmelo passo dopo passo" non sono più necessari. Il nucleo dell'era del Prompt Engineering 3.0 non è la 'Sintassi', ma l''Intenzione'.

@@ -1,12 +1,19 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description:
+  프로젝트 규모와 요구사항을 입력하면 MVC, Clean Architecture, MSA 등 최적의 소프트웨어 아키텍처를 설계해주는
+  프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "스파게티 코드는 이제 그만! 내 프로젝트에 딱 맞는 아키텍처 추천"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.129Z"
+tags:
+  - 아키텍처
+  - 설계
+  - 디자인패턴
+  - 시스템설계
+  - MSA
+title: 스파게티 코드는 이제 그만! 내 프로젝트에 딱 맞는 아키텍처 추천
 updatedDate: "2026-02-07T09:10:33.129Z"
-category: "코딩/개발"
-description: "프로젝트 규모와 요구사항을 입력하면 MVC, Clean Architecture, MSA 등 최적의 소프트웨어 아키텍처를 설계해주는 프롬프트입니다."
-tags: ["아키텍처", "설계", "디자인패턴", "시스템설계", "MSA"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 스파게티 코드는 이제 그만! 내 프로젝트에 딱 맞는 아키텍처 추천

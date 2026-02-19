@@ -1,10 +1,17 @@
 ---
-title: "AI与个性化医疗：为您量身定制的处方"
-description: "千篇一律的治疗已成过去。探索“精准医疗”的现状，AI分析基因组信息，为每个人提供最佳治疗方案。"
+categories:
+  - AI News
+  - Healthcare
+date: "2026-02-13"
+description: 千篇一律的治疗已成过去。探索“精准医疗”的现状，AI分析基因组信息，为每个人提供最佳治疗方案。
+heroImage: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-health.jpg"
-categories: ["AI News", "Healthcare"]
-tags: ["AI Healthcare", "Personalized Medicine", "Genomics", "Future Tech"]
+tags:
+  - AI Healthcare
+  - Personalized Medicine
+  - Genomics
+  - Future Tech
+title: AI与个性化医疗：为您量身定制的处方
 ---
 
 想象一下去医院买感冒药，医生查看你的基因信息，给你开出完全适合你的药物。这就是2026年AI技术正在实现的医疗未来。
@@ -14,9 +21,10 @@ tags: ["AI Healthcare", "Personalized Medicine", "Genomics", "Future Tech"]
 精准医疗是一种综合分析个人基因组信息、环境和生活习惯以预防和治疗疾病的方法。AI充当分析这海量数据的核心引擎。
 
 ### AI的作用
-*   **基因组分析**：分析数十亿个序列数据点，找出致病基因。
-*   **药物开发**：预测临床试验成功率并快速识别候选物质，大幅缩短新药开发周期。
-*   **早期诊断**：通过精密分析医学影像数据，早期发现癌症等严重疾病。
+
+- **基因组分析**：分析数十亿个序列数据点，找出致病基因。
+- **药物开发**：预测临床试验成功率并快速识别候选物质，大幅缩短新药开发周期。
+- **早期诊断**：通过精密分析医学影像数据，早期发现癌症等严重疾病。
 
 ## 可穿戴设备与AI的结合
 

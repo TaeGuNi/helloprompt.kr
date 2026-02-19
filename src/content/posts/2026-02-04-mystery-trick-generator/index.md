@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 창작 및 취미
+date: "2026-02-04"
+description: 코난, 김전일도 울고 갈 기발한 밀실 트릭과 알리바이를 AI가 설계해드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 추리
+  - 미스터리
+  - 트릭
+  - 소설
+  - 시나리오
 title: "미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.159Z"
-category: "창작 및 취미"
-description: "코난, 김전일도 울고 갈 기발한 밀실 트릭과 알리바이를 AI가 설계해드립니다."
-tags: ["추리", "미스터리", "트릭", "소설", "시나리오"]
 ---
 
 # (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator) {#mystery-trick-generator}

@@ -1,10 +1,17 @@
 ---
-title: "AIと個別化医療：あなただけの処方箋"
-description: "画一的な治療はもう過去の話です。AIがゲノム情報を分析し、個々人に最適な治療法を提示する「精密医療」の現在地を探ります。"
+categories:
+  - AI News
+  - Healthcare
+date: "2026-02-13"
+description: 画一的な治療はもう過去の話です。AIがゲノム情報を分析し、個々人に最適な治療法を提示する「精密医療」の現在地を探ります。
+heroImage: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-health.jpg"
-categories: ["AI News", "Healthcare"]
-tags: ["AI Healthcare", "Personalized Medicine", "Genomics", "Future Tech"]
+tags:
+  - AI Healthcare
+  - Personalized Medicine
+  - Genomics
+  - Future Tech
+title: AIと個別化医療：あなただけの処方箋
 ---
 
 病院に行って「風邪薬ください」と言うと、医師が私の遺伝子情報を確認し、私にぴったりの薬を処方してくれる想像。これが2026年現在、AI技術が実現している医療の未来です。
@@ -14,9 +21,10 @@ tags: ["AI Healthcare", "Personalized Medicine", "Genomics", "Future Tech"]
 精密医療は、個人のゲノム情報、環境、生活習慣などを総合的に分析し、病気を予防・治療するアプローチです。AIはこの膨大なデータを分析する核心エンジンの役割を果たします。
 
 ### AIの役割
-*   **ゲノム解析**：数十億の塩基配列データを分析し、病気の原因遺伝子を見つけ出します。
-*   **創薬**：臨床試験の成功確率を予測し、候補物質を迅速に発掘して新薬開発期間を画期的に短縮します。
-*   **早期診断**：画像医学データを精密分析し、がんのような重症疾患を早期に発見します。
+
+- **ゲノム解析**：数十億の塩基配列データを分析し、病気の原因遺伝子を見つけ出します。
+- **創薬**：臨床試験の成功確率を予測し、候補物質を迅速に発掘して新薬開発期間を画期的に短縮します。
+- **早期診断**：画像医学データを精密分析し、がんのような重症疾患を早期に発見します。
 
 ## ウェアラブルとAIの出会い
 

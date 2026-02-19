@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 논리적인 흐름(Logic Flow)을 잡아주는 보고서 아웃라인 프롬프트.
 layout: /src/layouts/Layout.astro
-title: "상사가 좋아하는 보고서 목차 구성하기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.124Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 상사가 좋아하는 보고서 목차 구성하기
 updatedDate: "2026-02-07T09:10:33.124Z"
-category: "업무 자동화"
-description: "논리적인 흐름(Logic Flow)을 잡아주는 보고서 아웃라인 프롬프트."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # 📝 상사가 좋아하는 보고서 목차 구성하기

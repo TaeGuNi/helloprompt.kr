@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description: tmp, data, a... 의미 없는 변수명은 그만. 문맥에 딱 맞는 영어 변수명과 함수명을 추천해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: '개발자의 평생 난제 "변수명 짓기", AI가 대신 해드립니다'
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.149Z"
+tags:
+  - 네이밍
+  - 클린코드
+  - 변수명
+  - 영어공부
+title: 개발자의 평생 난제 "변수명 짓기", AI가 대신 해드립니다
 updatedDate: "2026-02-07T09:10:33.149Z"
-category: "코딩/개발"
-description: "tmp, data, a... 의미 없는 변수명은 그만. 문맥에 딱 맞는 영어 변수명과 함수명을 추천해주는 프롬프트입니다."
-tags: ["네이밍", "클린코드", "변수명", "영어공부"]
 ---
 
 # 📝 개발자의 평생 난제 "변수명 짓기", AI가 대신 해드립니다

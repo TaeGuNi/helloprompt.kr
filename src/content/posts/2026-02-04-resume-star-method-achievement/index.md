@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 밋밋한 이력서 줄글을 STAR 기법(상황-과제-행동-결과)을 적용해 매력적인 성과 중심 불렛 포인트로 바꿔줍니다.
 layout: /src/layouts/Layout.astro
-title: "이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.122Z"
+tags:
+  - 이력서
+  - STAR기법
+  - 취업준비
+  - 성과수치화
+title: 이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트
 updatedDate: "2026-02-07T09:10:33.122Z"
-category: "취업 & 이직"
-description: "밋밋한 이력서 줄글을 STAR 기법(상황-과제-행동-결과)을 적용해 매력적인 성과 중심 불렛 포인트로 바꿔줍니다."
-tags: ["이력서", "STAR기법", "취업준비", "성과수치화"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트

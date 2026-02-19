@@ -1,9 +1,15 @@
 ---
-title: "Anthropic ने सीरीज G फंडिंग जुटाई"
-description: "Anthropic ने $30 बिलियन के मूल्यांकन पर सीरीज G फंडिंग सुरक्षित की, जो AI सुरक्षा पर केंद्रित है।"
+date: "2026-02-17"
+description:
+  Anthropic ने $30 बिलियन के मूल्यांकन पर सीरीज G फंडिंग सुरक्षित की, जो
+  AI सुरक्षा पर केंद्रित है।
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic ने सीरीज G फंडिंग जुटाई
 ---
 
 Anthropic ने अपने सीरीज G फंडिंग राउंड में एक महत्वपूर्ण राशि जुटाई है, जो **$30 बिलियन** के मूल्यांकन तक पहुंच गई है। यह निवेश Anthropic के AI मॉडल विकास और सुरक्षा अनुसंधान में तेजी लाएगा।

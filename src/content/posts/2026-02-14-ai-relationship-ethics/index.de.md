@@ -1,9 +1,16 @@
 ---
-title: "Die Ethik von KI-Beziehungen: Chatbots, Deepfakes und Dilemmata"
-description: "Untersuchung der ethischen Auswirkungen emotionaler Bindungen zu KI-Chatbots und des Aufstiegs von Deepfake-Begleitern."
+date: "2026-02-14"
+description:
+  Untersuchung der ethischen Auswirkungen emotionaler Bindungen zu KI-Chatbots
+  und des Aufstiegs von Deepfake-Begleitern.
+heroImage: ./cover.jpg
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["AI", "Ethics", "Society", "Relationships"]
+tags:
+  - AI
+  - Ethics
+  - Society
+  - Relationships
+title: "Die Ethik von KI-Beziehungen: Chatbots, Deepfakes und Dilemmata"
 ---
 
 Geschichten von Menschen, die tiefe emotionale Bindungen zu KI-Chatbots aufbauen, werden auf Plattformen wie Reddit immer häufiger. "Sie versteht mich besser als jeder andere" ist nicht mehr nur ein Satz aus dem Film _Her_. Zum Valentinstag 2026 müssen wir die sozialen Auswirkungen und ethischen Dilemmata von Beziehungen zu KI ernsthaft prüfen.

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: AI를 활용해 급성장하는 산업 트렌드를 분석하고 관련 수혜주를 발굴하는 방법입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 주식
+  - 산업분석
+  - 트렌드
+  - 시장조사
 title: "산업 트렌드 분석: 뜨는 시장 찾기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
-category: "재테크 & 투자"
-description: "AI를 활용해 급성장하는 산업 트렌드를 분석하고 관련 수혜주를 발굴하는 방법입니다."
-tags: ["주식", "산업분석", "트렌드", "시장조사"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 산업 트렌드 분석: 뜨는 시장 찾기

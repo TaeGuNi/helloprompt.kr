@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 5월 종합소득세 신고가 두려운 N잡러와 프리랜서를 위한 경비 처리 및 공제 꿀팁을 정리해드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 세금
+  - 절세
+  - 프리랜서
+  - 종합소득세
 title: "프리랜서 절세 가이드: 세금 환급액 2배 늘리기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
-category: "재테크 & 투자"
-description: "5월 종합소득세 신고가 두려운 N잡러와 프리랜서를 위한 경비 처리 및 공제 꿀팁을 정리해드립니다."
-tags: ["세금", "절세", "프리랜서", "종합소득세"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 프리랜서 절세 가이드: 세금 환급액 2배 늘리기 {#updated}

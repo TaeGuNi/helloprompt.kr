@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 코딩/개발
+date: "2026-02-04"
+description: 로그만 봐서는 도저히 모르겠는 버그, 스택 트레이스와 코드 조각만 있으면 AI가 원인을 찾아줍니다.
 layout: /src/layouts/Layout.astro
-title: "원인을 알 수 없는 버그, AI 탐정에게 맡기세요"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.092Z"
+tags:
+  - 디버깅
+  - 버그수정
+  - 트러블슈팅
+  - 에러해결
+title: 원인을 알 수 없는 버그, AI 탐정에게 맡기세요
 updatedDate: "2026-02-07T09:10:33.092Z"
-category: "코딩/개발"
-description: "로그만 봐서는 도저히 모르겠는 버그, 스택 트레이스와 코드 조각만 있으면 AI가 원인을 찾아줍니다."
-tags: ["디버깅", "버그수정", "트러블슈팅", "에러해결"]
 ---
 
 # 📝 원인을 알 수 없는 버그, AI 탐정에게 맡기세요

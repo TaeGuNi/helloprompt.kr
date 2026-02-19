@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 여행 & 문화
+date: "2026-02-04"
+description: 현지 약국 찾아 헤매지 마세요. 상황별/증상별 필수 상비약과 응급처치 키트 구성법.
 layout: /src/layouts/Layout.astro
-title: "아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.178Z"
+tags:
+  - 비상약
+  - 응급키트
+  - 해외여행준비
+  - 건강관리
+title: 아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트
 updatedDate: "2026-02-07T09:10:33.179Z"
-category: "여행 & 문화"
-description: "현지 약국 찾아 헤매지 마세요. 상황별/증상별 필수 상비약과 응급처치 키트 구성법."
-tags: ["비상약", "응급키트", "해외여행준비", "건강관리"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트

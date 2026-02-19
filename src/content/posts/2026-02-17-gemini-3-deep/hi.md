@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini 3: डीप थिंक (Deep Think) के लिए एक नया क्षितिज"
-description: "Google के नवीनतम AI मॉडल Gemini 3 की शक्तिशाली तर्क क्षमताओं और डीप थिंक (Deep Think) सुविधाओं की खोज।"
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description:
+  Google के नवीनतम AI मॉडल Gemini 3 की शक्तिशाली तर्क क्षमताओं और डीप थिंक
+  (Deep Think) सुविधाओं की खोज।
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: डीप थिंक (Deep Think) के लिए एक नया क्षितिज"
 ---
 
 Google ने आखिरकार Gemini 3 का अनावरण कर दिया है। इस अपडेट का मूल **'डीप थिंक' (Deep Think)** क्षमताओं में नाटकीय सुधार है। केवल टेक्स्ट जनरेट करने से आगे बढ़ते हुए, जटिल समस्याओं का चरण-दर-चरण विश्लेषण करने और उन्हें तार्किक रूप से हल करने की क्षमता को काफी बढ़ाया गया है।

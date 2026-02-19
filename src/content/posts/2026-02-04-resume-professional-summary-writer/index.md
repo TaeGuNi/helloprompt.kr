@@ -1,12 +1,18 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description:
+  이력서 최상단에 들어갈 3-5줄의 강력한 프로필 요약(Professional Summary)을 작성하여 스크리닝 통과 확률을
+  높입니다.
 layout: /src/layouts/Layout.astro
-title: "이력서의 첫인상, '핵심 요약(Summary)' 작성 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.159Z"
+tags:
+  - 이력서
+  - Summary
+  - 프로필요약
+  - 자기소개
+title: 이력서의 첫인상, '핵심 요약(Summary)' 작성 프롬프트
 updatedDate: "2026-02-07T09:10:33.159Z"
-category: "취업 & 이직"
-description: "이력서 최상단에 들어갈 3-5줄의 강력한 프로필 요약(Professional Summary)을 작성하여 스크리닝 통과 확률을 높입니다."
-tags: ["이력서", "Summary", "프로필요약", "자기소개"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 이력서의 첫인상, '핵심 요약(Summary)' 작성 프롬프트 {#summary}

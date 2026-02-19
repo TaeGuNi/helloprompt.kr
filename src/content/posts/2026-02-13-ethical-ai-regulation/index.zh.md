@@ -1,10 +1,17 @@
 ---
-title: "AI伦理与法规2026：共存的规则"
-description: "AI的飞速发展催生了新的伦理困境。深入探讨全球AI法规的现状以及我们必须遵守的“数字伦理”。"
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description: AI的飞速发展催生了新的伦理困境。深入探讨全球AI法规的现状以及我们必须遵守的“数字伦理”。
+heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: AI伦理与法规2026：共存的规则
 ---
 
 “AI会取代人类，还是辅助人类？”这个问题现在已经变成了“我们该如何控制AI？”。2026年，全世界都在忙于制定指导方针，以防止AI技术失控并确保安全共存。

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 인문/역사
+date: "2026-02-04"
+description: 복잡한 사건의 순서와 인과관계를 깔끔한 연표(Timeline)로 정리해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 역사정리
+  - 연표
+  - 타임라인
+  - 요약
 title: "흐름이 한눈에: 역사 연표 생성기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.173Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
-category: "인문/역사"
-description: "복잡한 사건의 순서와 인과관계를 깔끔한 연표(Timeline)로 정리해주는 프롬프트입니다."
-tags: ["역사정리", "연표", "타임라인", "요약"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 흐름이 한눈에: 역사 연표 생성기

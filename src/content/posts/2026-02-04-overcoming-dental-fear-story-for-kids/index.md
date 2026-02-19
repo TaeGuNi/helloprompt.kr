@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 병원을 무서워하는 아이를 위한 두려움 극복 시뮬레이션
 layout: /src/layouts/Layout.astro
-title: "치과 가기 전 읽는 용기 충전 스토리"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.160Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 치과 가기 전 읽는 용기 충전 스토리
 updatedDate: "2026-02-07T09:10:33.160Z"
-category: "육아 & 교육"
-description: "병원을 무서워하는 아이를 위한 두려움 극복 시뮬레이션"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 치과 공포증 싹~ '충치 세균 물리치기' 대작전

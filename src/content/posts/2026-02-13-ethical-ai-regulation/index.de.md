@@ -1,10 +1,20 @@
 ---
-title: "KI-Ethik und Regulierung 2026: Regeln für die Koexistenz"
-description: "Der rasante Fortschritt der KI hat neue ethische Dilemmata hervorgebracht. Ein tiefer Einblick in den aktuellen Stand der globalen KI-Regulierung und die 'digitale Ethik', die wir wahren müssen."
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description:
+  Der rasante Fortschritt der KI hat neue ethische Dilemmata hervorgebracht.
+  Ein tiefer Einblick in den aktuellen Stand der globalen KI-Regulierung und die 'digitale
+  Ethik', die wir wahren müssen.
+heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: "KI-Ethik und Regulierung 2026: Regeln für die Koexistenz"
 ---
 
 "Wird KI den Menschen ersetzen oder ergänzen?" Diese Frage hat sich nun zu "Wie kontrollieren wir KI?" gewandelt. Im Jahr 2026 ist die Welt damit beschäftigt, Richtlinien festzulegen, um zu verhindern, dass die KI-Technologie außer Kontrolle gerät, und um eine sichere Koexistenz zu gewährleisten.

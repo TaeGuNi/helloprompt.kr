@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 외국어 학습
+date: "2026-02-04"
+description: 비싼 전화 영어 대신 AI와 무제한으로 롤플레잉하며 회화 실력을 키우는 방법입니다.
 layout: /src/layouts/Layout.astro
-title: "방구석 원어민 회화 파트너 (무료)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.100Z"
+tags:
+  - 영어회화
+  - 롤플레잉
+  - 프롬프트
+  - 자기계발
+title: 방구석 원어민 회화 파트너 (무료)
 updatedDate: "2026-02-07T09:10:33.100Z"
-category: "외국어 학습"
-description: "비싼 전화 영어 대신 AI와 무제한으로 롤플레잉하며 회화 실력을 키우는 방법입니다."
-tags: ["영어회화", "롤플레잉", "프롬프트", "자기계발"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 방구석 원어민 회화 파트너 (무료) {#updated}

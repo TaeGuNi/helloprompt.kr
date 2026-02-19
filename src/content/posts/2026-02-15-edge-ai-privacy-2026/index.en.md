@@ -29,9 +29,10 @@ Beyond privacy, local inference eliminates the network round-trip. This results 
 ### Developer Considerations
 
 Implementing Edge AI requires a shift in mindset:
-*   **Model Selection:** We must prioritize quantized models (e.g., Llama 3 or Gemini Nano variants) that balance accuracy with memory footprint.
-*   **Resource Management:** On-device inference competes with other processes for battery and RAM. Efficient code and leveraging hardware accelerators (NPUs, Apple Neural Engine) are non-negotiable.
-*   **Hybrid Architectures:** Not everything fits on the edge. A common pattern is to handle sensitive, immediate tasks locally while offloading complex, non-sensitive aggregation to the cloud.
+
+- **Model Selection:** We must prioritize quantized models (e.g., Llama 3 or Gemini Nano variants) that balance accuracy with memory footprint.
+- **Resource Management:** On-device inference competes with other processes for battery and RAM. Efficient code and leveraging hardware accelerators (NPUs, Apple Neural Engine) are non-negotiable.
+- **Hybrid Architectures:** Not everything fits on the edge. A common pattern is to handle sensitive, immediate tasks locally while offloading complex, non-sensitive aggregation to the cloud.
 
 ## Conclusion
 

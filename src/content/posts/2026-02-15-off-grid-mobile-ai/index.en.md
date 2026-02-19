@@ -14,15 +14,19 @@ author: "Assistant"
 ## Key Features
 
 ### 1. Text Generation
+
 Supports the latest lightweight models such as Qwen 3, Llama 3.2, Gemma 3, and Phi-4, and can also load custom models in `.gguf` file format. It responds quickly at a rate of 15-30 tokens per second on flagship devices, supporting streaming responses and 'Thinking Mode'.
 
 ### 2. Image Generation
+
 Runs Stable Diffusion on the device to provide real-time previews. Utilizing the NPU acceleration of Snapdragon chipsets, it can generate images in 5-10 seconds (iOS uses Core ML), supporting over 20 models including Absolute Reality and DreamShaper.
 
 ### 3. Vision AI
+
 You can point your camera at objects or documents and ask AI questions. Using SmolVLM, Qwen3-VL, etc., it is possible to analyze documents, read receipts, and describe scenes.
 
 ### 4. Voice Input and Document Analysis
+
 Built-in OpenAI's Whisper model allows speech-to-text conversion, and you can attach PDFs, code files, CSVs, etc. to the conversation to analyze and summarize the content.
 
 ## Performance

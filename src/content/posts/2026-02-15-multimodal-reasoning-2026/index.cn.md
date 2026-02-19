@@ -22,12 +22,12 @@ Consider a video clip of a person speaking sarcastically. A text-only model anal
 
 We are observing a massive leap in capability: **Models now reason across video audio and text simultaneously in real time.** This real-time synchronization opens doors for latency-sensitive applications that were previously impossible, such as:
 
-*   **Live Accessibility Assistants:** Agents that describe physical surroundings while interpreting spoken dialogue and street signs instantly.
-*   **Advanced Robotics:** Robots that can follow complex, unstructured instructions like "Pick up the red tool that made the clanging sound when it fell."
-*   **Context-Aware Code Assistants:** IDEs that understand your codebase not just as text, but potentially through whiteboard diagrams or architectural sketches you present to the camera.
+- **Live Accessibility Assistants:** Agents that describe physical surroundings while interpreting spoken dialogue and street signs instantly.
+- **Advanced Robotics:** Robots that can follow complex, unstructured instructions like "Pick up the red tool that made the clanging sound when it fell."
+- **Context-Aware Code Assistants:** IDEs that understand your codebase not just as text, but potentially through whiteboard diagrams or architectural sketches you present to the camera.
 
 ## Conclusion
 
 Multimodal reasoning is not merely a feature update; it is the next standard for AI interaction. As developers, our focus must shift from data preprocessing and pipeline orchestration to prompt engineering and fine-tuning across multiple dimensions of data. The future belongs to applications that can see, hear, and understand as fluidly as we do, and the tools to build them are finally in our hands.
 
-*(Automated translation to Simplified Chinese pending)*
+_(Automated translation to Simplified Chinese pending)_

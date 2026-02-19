@@ -11,11 +11,12 @@ L'era della ricerca di "Un Prompt per domarli tutti" è finita. L'ingegneria del
 ### Dividi e Conquista
 
 Tentare di gestire compiti complessi in un'unica chiamata degrada inevitabilmente le prestazioni del modello. Il prompt chaining previene questo scomponendo compiti massicci in unità più piccole ed elaborandole sequenzialmente.
+
 1. Riassumere il documento
 2. Estrarre parole chiave principali dal riassunto
 3. Redigere una bozza basata sulle parole chiave
 4. Rifinitura e correzione dello stile
-Utilizzando prompt ottimizzati per ogni passaggio, la qualità del risultato finale è massimizzata.
+   Utilizzando prompt ottimizzati per ogni passaggio, la qualità del risultato finale è massimizzata.
 
 ### Flussi di Lavoro Agentici
 

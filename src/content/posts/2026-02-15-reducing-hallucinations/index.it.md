@@ -15,11 +15,12 @@ Le tecniche che costringono i modelli a fondare (Grounding) le loro risposte su 
 ### Chain of Verification (CoVe)
 
 La tecnica CoVe è un processo in cui il modello rivede criticamente e corregge la propria risposta dopo averla generata.
+
 1. Generazione della risposta iniziale
 2. Generazione di domande di verifica dei fatti sulla risposta
 3. Verifica delle risposte a quelle domande
 4. Generazione di una risposta finale rivista se vengono trovate contraddizioni
-Tutti questi passaggi avvengono istantaneamente in background, invisibili all'utente.
+   Tutti questi passaggi avvengono istantaneamente in background, invisibili all'utente.
 
 ### Marker di Incertezza
 

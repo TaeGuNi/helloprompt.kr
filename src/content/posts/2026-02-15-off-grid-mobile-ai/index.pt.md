@@ -14,15 +14,19 @@ author: "Assistant"
 ## Principais Recursos
 
 ### 1. Geração de Texto
+
 Suporta os modelos leves mais recentes, como Qwen 3, Llama 3.2, Gemma 3 e Phi-4, e também pode carregar modelos personalizados no formato `.gguf`. Ele responde rapidamente a uma taxa de 15-30 tokens por segundo em dispositivos principais, suportando respostas em streaming e "Modo Pensamento".
 
 ### 2. Geração de Imagem
+
 Executa o Stable Diffusion no dispositivo para fornecer pré-visualizações em tempo real. Utilizando a aceleração NPU dos chipsets Snapdragon, pode gerar imagens em 5-10 segundos (iOS usa Core ML), suportando mais de 20 modelos, incluindo Absolute Reality e DreamShaper.
 
 ### 3. IA de Visão
+
 Você pode apontar sua câmera para objetos ou documentos e fazer perguntas à IA. Usando SmolVLM, Qwen3-VL, etc., é possível analisar documentos, ler recibos e descrever cenas.
 
 ### 4. Entrada de Voz e Análise de Documentos
+
 O modelo Whisper da OpenAI integrado permite a conversão de voz em texto, e você pode anexar PDFs, arquivos de código, CSVs, etc. à conversa para analisar e resumir o conteúdo.
 
 ## Desempenho

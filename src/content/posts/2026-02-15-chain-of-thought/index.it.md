@@ -24,17 +24,20 @@ Il nucleo del CoT è **"Pensiamo passo dopo passo (Let's think step by step)"**.
 ### Esempio: Problema Matematico
 
 **Prompting Standard:**
+
 > D: Roger aveva 5 palline. 2 sono state mangiate da un cane. 1 è stata data ad Al. Quante palline sono rimaste?
 > R: 2
 
 (Il modello potrebbe semplicemente vedere i numeri ed eseguire un'aritmetica errata.)
 
 **Chain-of-Thought Prompting:**
+
 > D: Roger aveva 5 palline. 2 sono state mangiate da un cane. 1 è stata data ad Al. Quante palline sono rimaste?
 > R: Roger aveva 5 palline all'inizio.
+>
 > 1. 2 palline sono state mangiate, quindi 5 - 2 = 3.
 > 2. Poi 1 pallina è stata data ad Al, quindi 3 - 1 = 2.
-> La risposta è 2.
+>    La risposta è 2.
 
 Dichiarando esplicitamente i passaggi intermedi, il modello riduce la possibilità di errori logici e produce risultati più accurati.
 

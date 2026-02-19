@@ -21,6 +21,7 @@ The primary driver for offline AI is the dramatic improvement in model compressi
 For developers, this changes the game. Frameworks like `llama.cpp`, MLC LLM, and ExecuTorch allow us to deploy models like Llama 3 (8B) or Google's Gemini Nano directly inside iOS and Android applications.
 
 The benefits of this local-first approach are threefold:
+
 1.  **Zero Latency:** Without the network round-trip, interactions feel instant. This is critical for real-time applications like voice assistants or predictive typing.
 2.  **Privacy by Design:** Personal data—health metrics, journals, private chats—never leaves the device. This opens up categories of apps that were previously risky to build due to GDPR or HIPAA compliance issues with cloud APIs.
 3.  **Cost Reduction:** Offloading inference to the user's device reduces the massive operational overhead of maintaining GPU servers.
@@ -33,4 +34,4 @@ The tether to the cloud is breaking. While massive foundation models will always
 
 For developers, the mandate is clear: start experimenting with on-device inference today. The constraints of mobile hardware are no longer a barrier but a creative challenge that yields faster, more private, and incredibly resilient applications. The future of mobile apps isn't just about connecting to an AI; it's about embedding the AI directly into the fabric of the user experience.
 
-*(Automated translation to Russian pending)*
+_(Automated translation to Russian pending)_

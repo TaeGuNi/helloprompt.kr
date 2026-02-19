@@ -32,8 +32,8 @@ For developers building AI-driven applications, CoT offers several tangible bene
 
 Consider the difference in these prompts:
 
-*   **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
-*   **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4*10=40).
+- **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
+- **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4\*10=40).
 
 ## Conclusion
 
@@ -41,4 +41,4 @@ Chain of Thought reasoning is more than just a clever trick; it is a fundamental
 
 For developers, mastering CoT is akin to learning how to write clear, modular code. It ensures that your AI integrations are not just powerful, but also logical, transparent, and reliable. By simply asking our models to show their work, we elevate them from text predictors to reasoning partners.
 
-*(Automated translation to Japanese pending)*
+_(Automated translation to Japanese pending)_

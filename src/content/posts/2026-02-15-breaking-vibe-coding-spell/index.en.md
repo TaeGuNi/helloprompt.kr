@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 
 ## Introduction
 
-For the past few years, the software industry has been enchanted by what can only be described as "Vibe Coding." We've all been there: you type a vague prompt into an LLM, it spits out a chunk of code that *mostly* works, and you tweak the prompt until the output "feels" right. It’s the modern, AI-assisted equivalent of "coding by coincidence"—if the UI renders and no errors pop up immediately, we ship it.
+For the past few years, the software industry has been enchanted by what can only be described as "Vibe Coding." We've all been there: you type a vague prompt into an LLM, it spits out a chunk of code that _mostly_ works, and you tweak the prompt until the output "feels" right. It’s the modern, AI-assisted equivalent of "coding by coincidence"—if the UI renders and no errors pop up immediately, we ship it.
 
 But as we settle into 2026, the enchantment is fading. The initial rush of generating entire applications in minutes is giving way to the sobering reality of maintenance, scalability, and security. We are discovering that software engineering requires more than just good vibes; it requires structure, predictability, and understanding.
 

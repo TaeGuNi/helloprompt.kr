@@ -26,17 +26,25 @@ A simplified scan using a standard tool like `hcitool` or a mobile BLE scanner r
 
 ```typescript
 // Hypothetical attack vector using Web Bluetooth API
-navigator.bluetooth.requestDevice({
-  filters: [{ namePrefix: 'DreamWeaver' }],
-  optionalServices: ['0000ffe0-0000-1000-8000-00805f9b34fb'] // Custom EEG Service
-})
-.then(device => device.gatt.connect())
-.then(server => server.getPrimaryService('0000ffe0-0000-1000-8000-00805f9b34fb'))
-.then(service => service.getCharacteristic('0000ffe1-0000-1000-8000-00805f9b34fb'))
-.then(characteristic => characteristic.startNotifications())
-.then(characteristic => {
-  characteristic.addEventListener('characteristicvaluechanged', handleBrainwaves);
-});
+navigator.bluetooth
+  .requestDevice({
+    filters: [{ namePrefix: "DreamWeaver" }],
+    optionalServices: ["0000ffe0-0000-1000-8000-00805f9b34fb"], // Custom EEG Service
+  })
+  .then((device) => device.gatt.connect())
+  .then((server) =>
+    server.getPrimaryService("0000ffe0-0000-1000-8000-00805f9b34fb"),
+  )
+  .then((service) =>
+    service.getCharacteristic("0000ffe1-0000-1000-8000-00805f9b34fb"),
+  )
+  .then((characteristic) => characteristic.startNotifications())
+  .then((characteristic) => {
+    characteristic.addEventListener(
+      "characteristicvaluechanged",
+      handleBrainwaves,
+    );
+  });
 ```
 
 ### The Biometric Implication
@@ -51,4 +59,4 @@ As developers, we must treat biometric data with the same rigor (or higher) as f
 
 If you are building for the IoT space, enforce strict pairing protocols, encrypt data at rest and in transit, and minimize the data resolution broadcasted over the air. The sleep mask incident serves as a wake-up call: if we don't secure the neural interface today, we surrender our cognitive privacy tomorrow.
 
-*(Automated translation to Simplified Chinese pending)*
+_(Automated translation to Simplified Chinese pending)_

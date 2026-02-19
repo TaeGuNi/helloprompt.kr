@@ -1,0 +1,49 @@
+---
+title: "Optimizing for Million-Token Context Windows (Korean)"
+description: "Structure large inputs with clear delimiters; use retrieval patterns."
+date: "2026-02-15"
+image: "/images/blog/default-ai.jpg"
+tags: ["AI", "Tech", "context-window-optimization"]
+---
+
+# (Updated) (Updated) (Updated) 100만 토큰 컨텍스트 윈도우 최적화
+
+## (Updated) (Updated) (Updated) 서론
+
+100만 토큰 컨텍스트 윈도우를 지원하는 모델의 출시는 AI 개발에 있어 패러다임의 전환을 의미합니다. 우리는 모든 글자 수가 중요했던 4k, 8k 윈도우의 제약이 심했던 시절에서, 이제는 소설 전체, 코드베이스, 법률 기록 보관소 전체를 단일 프롬프트에 입력할 수 있는 시대로 빠르게 이동했습니다.
+
+하지만 이러한 공간의 풍요로움은 새로운 엔지니어링 과제인 '어텐션(Attention) 관리'를 야기합니다. 모델이 100만 토큰을 수용할 수 있다고 해서, 별도의 가이드 없이 그 모든 정보에 대해 효과적으로 추론할 수 있다는 의미는 아닙니다. 개발자에게 있어 초점은 이제 '컨텍스트 절약'에서 '컨텍스트 아키텍처'로 전환되어야 합니다.
+
+## (Updated) (Updated) (Updated) 분석
+
+"무한한 컨텍스트" 시대의 핵심적인 오류는 입력 구조와 관계없이 모델이 완벽한 회상 능력을 가지고 있다고 가정하는 것입니다. "건초 더미 속 바늘 찾기(needle in a haystack)" 벤치마크가 인상적인 결과를 보여주기는 하지만, 실제 애플리케이션은 단순한 검색 그 이상을 요구합니다. 바로 종합과 복잡한 추론입니다.
+
+이러한 거대한 환경에서 성능을 극대화하기 위해, 우리는 규율 있는 프롬프팅 전략을 채택해야 합니다. 가장 효과적인 접근 방식은 **명확한 구분자를 사용하여 대규모 입력을 구조화하고, 검색 패턴을 활용하는 것입니다.**
+
+### (Updated) (Updated) (Updated) 컨텍스트 구분하기 (Delimit Your Context) {#delimit-your-context}
+
+50,000줄의 코드베이스를 프롬프트에 입력할 때, 단순한 텍스트 나열은 불리하게 작용합니다. 컨텍스트의 각기 다른 섹션을 명확한 XML 스타일 태그나 의미론적(semantic) 헤더로 감쌀 때 모델의 성능은 현저히 향상됩니다. 예를 들어, 문서는 `<docs>` 태그로, 소스 코드는 `<source>` 태그로 감싸는 것은 모델의 어텐션 메커니즘을 위한 내비게이션 지도를 생성하는 것과 같습니다. 이는 대규모 프롬프트의 중앙에 위치한 정보가 간과되는 "중간 손실(lost in the middle)" 현상을 줄여줍니다.
+
+### (Updated) (Updated) (Updated) RAG의 진화 (The Evolution of RAG) {#the-evolution-of-rag}
+
+단순히 컨텍스트 윈도우를 가득 채우는 방식을 선호하여 검색 증강 생성(RAG)을 배제하려는 유혹이 존재합니다. 하지만 이는 종종 실수입니다. 데이터를 모두 입력할 수는 있겠지만, 모든 쿼리에 대해 100만 토큰을 처리하는 지연 시간(latency)과 비용은 프로덕션 환경에서 감당하기 어렵습니다.
+
+대신, 개발자는 "컨텍스트 캐싱"이나 하이브리드 패턴을 사용해야 합니다. 거대한 컨텍스트 윈도우는 "작업 세트(working set)"—즉시 관련된 파일과 문서—를 유지하는 데 사용하고, 필요한 주변 데이터만 가져오는 데는 검색 메커니즘을 활용하십시오. 이것이 모델의 추론 능력과 시스템 효율성 사이의 균형을 맞춰줍니다.
+
+## (Updated) (Updated) (Updated) 결론 {#conclusion}
+
+100만 토큰 컨텍스트 윈도우는 강력한 도구이지만, 엔지니어링의 필요성을 제거하는 만능 해결책(magic bullet)은 아닙니다. 이는 최적화 문제의 본질을 변화시킵니다.
+
+이 새로운 시대에서의 성공은 제공하는 정보를 얼마나 잘 조직화하느냐에 달려 있습니다. 구분자를 사용하여 엄격한 구조적 위생을 유지하고 스마트한 검색 패턴을 지속적으로 활용함으로써, 개발자는 지연 시간이나 혼란에 빠지지 않고 이러한 거대 모델의 진정한 추론 잠재력을 이끌어낼 수 있습니다. 컨텍스트는 더 커졌지만, 명확성에 대한 필요성은 변함이 없습니다.
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

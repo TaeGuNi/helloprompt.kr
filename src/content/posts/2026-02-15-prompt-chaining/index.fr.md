@@ -11,11 +11,12 @@ L'ère de la recherche d'une "Invite Unique pour les Gouverner Tous" est révolu
 ### Diviser pour Régner
 
 Tenter de gérer des tâches complexes en un seul appel dégrade inévitablement les performances du modèle. Le chaînage d'invites empêche cela en décomposant les tâches massives en unités plus petites et en les traitant séquentiellement.
+
 1. Résumer le document
 2. Extraire les mots-clés principaux du résumé
 3. Rédiger un brouillon basé sur les mots-clés
 4. Peaufinage et correction de style
-En utilisant des invites optimisées pour chaque étape, la qualité du résultat final est maximisée.
+   En utilisant des invites optimisées pour chaque étape, la qualité du résultat final est maximisée.
 
 ### Flux de Travail Agentiques
 

@@ -11,11 +11,12 @@ The era of seeking "One Prompt to Rule Them All" is over. AI engineering in 2026
 ### Divide and Conquer
 
 Attempting to handle complex tasks in a single call inevitably degrades model performance. Prompt chaining prevents this by breaking massive tasks into smaller units and processing them sequentially.
+
 1. Summarize document
 2. Extract core keywords from summary
 3. Draft based on keywords
 4. Polish and style correction
-By using optimized prompts for each step, the quality of the final output is maximized.
+   By using optimized prompts for each step, the quality of the final output is maximized.
 
 ### Agentic Workflows
 

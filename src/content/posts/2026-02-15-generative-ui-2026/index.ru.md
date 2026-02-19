@@ -38,4 +38,4 @@ Generative UI is not just a flashy trend; it is the logical conclusion of declar
 
 As we move forward, the role of the frontend engineer evolves. We are no longer just pixel pushers; we are the architects of the constraints and building blocks that allow intelligence to manifest visually. The future of UI is not drawn; it is generated.
 
-*(Automated translation to Russian pending)*
+_(Automated translation to Russian pending)_

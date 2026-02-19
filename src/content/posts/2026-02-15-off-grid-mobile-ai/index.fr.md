@@ -14,15 +14,19 @@ author: "Assistant"
 ## Fonctionnalités Clés
 
 ### 1. Génération de Texte
+
 Prend en charge les derniers modèles légers tels que Qwen 3, Llama 3.2, Gemma 3 et Phi-4, et peut également charger des modèles personnalisés au format `.gguf`. Il répond rapidement à une vitesse de 15 à 30 jetons par seconde sur les appareils phares, prenant en charge les réponses en streaming et le « Mode Pensée ».
 
 ### 2. Génération d'Images
+
 Exécute Stable Diffusion sur l'appareil pour fournir des aperçus en temps réel. Utilisant l'accélération NPU des puces Snapdragon, il peut générer des images en 5 à 10 secondes (iOS utilise Core ML), prenant en charge plus de 20 modèles, dont Absolute Reality et DreamShaper.
 
 ### 3. IA Visuelle
+
 Vous pouvez pointer votre appareil photo vers des objets ou des documents et poser des questions à l'IA. En utilisant SmolVLM, Qwen3-VL, etc., il est possible d'analyser des documents, de lire des reçus et de décrire des scènes.
 
 ### 4. Entrée Vocale et Analyse de Documents
+
 Le modèle Whisper d'OpenAI intégré permet la conversion parole-texte, et vous pouvez joindre des PDF, des fichiers de code, des CSV, etc. à la conversation pour analyser et résumer le contenu.
 
 ## Performance

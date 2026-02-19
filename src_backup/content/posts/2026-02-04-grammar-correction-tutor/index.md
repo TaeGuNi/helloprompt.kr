@@ -1,0 +1,142 @@
+---
+author: Zzabbis
+category: 외국어 학습
+date: "2026-02-04"
+description: 단순히 고쳐주는 것을 넘어 '왜' 틀렸는지 원리를 설명해주는 AI 튜터 프롬프트입니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - 영어문법
+  - 작문교정
+  - 프롬프트
+  - 이메일작성
+title: 내 문법이 왜 틀렸을까? 1:1 교정 선생님
+updatedDate: "2026-02-07T09:10:33.154Z"
+---
+
+# (Updated) (Updated) (Updated) 📝 내 문법이 왜 틀렸을까? 1:1 교정 선생님
+
+- **🎯 추천 대상:** 누구나
+- **⏱️ 소요 시간:** 5분
+- **🤖 추천 모델:** 모든 AI 모델
+
+- **📊 난이도:** ⭐⭐☆☆☆
+- **⚡️ 효과성:** ⭐⭐⭐⭐⭐
+- **🛠️ 활용도:** ⭐⭐⭐⭐☆
+
+_"Grammarly가 고쳐주긴 하는데, 왜 고쳤는지 모르고 넘어가니 실력이 안 늘어요."_
+
+맞춤법 검사기는 결과만 던져줍니다. "이게 틀렸어, 이걸로 바꿔." 하지만 우리는 "왜?"가 궁금합니다. 전치사 `at` 대신 `in`을 써야 하는 이유, `the`를 빼야 하는 이유를 알아야 다음에 안 틀리죠. 이 프롬프트는 빨간펜 선생님처럼 친절하게 이유를 설명해줍니다.
+
+---
+
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+
+1. 문법 오류 수정과 함께 수정된 이유(문법적 근거)를 상세히 설명
+2. 더 원어민스러운(Natural) 표현으로 업그레이드 제안
+3. 중요 문법 포인트는 별도 요약 정리
+
+---
+
+## (Updated) (Updated) (Updated) 🚀 해결책: "Why-How 문법 교정기"
+
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
+
+빠르게 결과만 필요할 때 사용하세요.
+
+> **역할:** 너는 꼼꼼하고 친절한 `[영어 작문 전문 첨삭 튜터]`야.
+> **요청:** 단순히 고쳐주는 것을 넘어 '왜' 틀렸는지 원리를 설명해주는 AI 튜터 프롬프트해줘.
+
+<br>
+
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
+
+디테일한 퀄리티가 필요할 때 사용하세요.
+
+아래 **PROMPT** 내용을 복사해서 사용하세요.
+
+> **역할 (Role):** 너는 꼼꼼하고 친절한 `[영어 작문 전문 첨삭 튜터]`야.
+>
+> **상황 (Context):** 내가 쓴 영어 문장에 오류가 있거나 어색한 부분이 있어. 나는 단순히 고쳐주는 것뿐만 아니라, 공부를 위해 '이유'를 알고 싶어.
+>
+> **요청 (Task):**
+>
+> 1. **[수정본]**: 문법 오류와 오타를 완벽하게 고친 문장을 제시해줘.
+> 2. **[교정 노트]**: 내가 틀린 부분과 수정한 부분을 1:1로 비교하며, **문법적 이유**를 한국어로 쉽게 설명해줘. (예: 주어-동사 수 일치, 관사 사용 등)
+> 3. **[원어민 표현]**: 문법적으로는 맞더라도, 원어민이 더 자주 쓰는 자연스러운 표현(Alternative)이 있다면 2가지 정도 추천해줘.
+> 4. **[평가]**: 내 작문 실력을 10점 만점으로 평가하고, 개선할 점 한 문장을 남겨줘.
+>
+> **제약사항 (Constraints):**
+>
+> - 설명은 언어학 용어보다는 예시 위주로 쉽게 해줘.
+> - 교정 노트는 글 머리 기호(Bullet points)를 써서 보기 좋게 정리해줘.
+>
+> **내가 쓴 문장:**
+
+> [여기에 교정받고 싶은 문장을 붙여넣으세요]
+
+---
+
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+
+이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
+
+---
+
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
+
+단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
+
+### (Updated) (Updated) (Updated) ❌ Before (입력)
+
+"I look forward to hear from you soon." (흔한 실수)
+
+### (Updated) (Updated) (Updated) ✅ After (결과)
+
+**[수정본]**
+"I look forward to **hearing** from you soon."
+
+**[교정 노트]**
+
+- **To hear → To hearing**: 여기서 'look forward to'의 'to'는 부정사가 아니라 **전치사**입니다. 전치사 뒤에는 명사나 동명사(-ing)가 와야 하므로 'hearing'이 맞습니다.
+
+**[원어민 표현]**
+
+1. "I hope to hear from you soon." (조금 더 캐주얼함)
+2. "Your prompt response would be appreciated." (더 격식 있음)
+
+---
+
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+
+이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
+결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
+
+---
+
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+
+**Q. 결과가 마음에 들지 않아요.**
+A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
+
+**Q. 다른 언어로도 가능한가요?**
+A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합니다.
+
+---
+
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
+
+이메일 보내기 전 1분만 투자해서 이 프롬프트를 돌려보세요. 거래처의 신뢰도가 올라가고, 당신의 영어 실력도 같이 올라갑니다.
+
+이제 칼퇴하고 맥주 한 잔 하세요! 🍷
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -15,11 +15,12 @@ Techniken, die Modelle zwingen, ihre Antworten auf bereitgestellte Dokumente ode
 ### Chain of Verification (CoVe)
 
 Die CoVe-Technik ist ein Prozess, bei dem das Modell seine eigene Antwort nach der Generierung kritisch überprüft und überarbeitet.
+
 1. Generierung der initialen Antwort
 2. Generierung von Fragen zur Faktenüberprüfung der Antwort
 3. Überprüfung der Antworten auf diese Fragen
 4. Generierung einer überarbeiteten endgültigen Antwort, falls Widersprüche gefunden werden
-All diese Schritte laufen im Hintergrund blitzschnell ab, für den Benutzer unsichtbar.
+   All diese Schritte laufen im Hintergrund blitzschnell ab, für den Benutzer unsichtbar.
 
 ### Unsicherheitsmarker
 

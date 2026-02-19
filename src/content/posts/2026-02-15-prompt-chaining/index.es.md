@@ -11,11 +11,12 @@ La era de buscar "Un Prompt para Gobernar a Todos" ha terminado. La ingeniería 
 ### Divide y Vencerás
 
 Intentar manejar tareas complejas en una sola llamada degrada inevitablemente el rendimiento del modelo. El encadenamiento de prompts evita esto dividiendo tareas masivas en unidades más pequeñas y procesándolas secuencialmente.
+
 1. Resumir documento
 2. Extraer palabras clave centrales del resumen
 3. Redactar borrador basado en palabras clave
 4. Pulido y corrección de estilo
-Al utilizar prompts optimizados para cada paso, se maximiza la calidad del resultado final.
+   Al utilizar prompts optimizados para cada paso, se maximiza la calidad del resultado final.
 
 ### Flujos de Trabajo Agénticos
 

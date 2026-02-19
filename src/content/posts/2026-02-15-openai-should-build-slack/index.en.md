@@ -27,6 +27,7 @@ If OpenAI owned the communication layer, the "context window" would effectively 
 Current AI integrations in Slack are effectively guests. They have limited permissions and react only when tagged. A communication platform built by OpenAI would treat AI agents as first-class citizens.
 
 Imagine a workflow where:
+
 1.  **Incident Response:** An error log is pasted into a channel. The platform automatically highlights the stack trace, cross-references it with recent commits discussed in `#engineering-deploy`, and suggests a revert PR—before a human even replies.
 2.  **Meeting Synthesis:** Instead of a third-party bot joining a huddle, the platform itself structures the audio data, generating action items and creating Jira tickets directly via internal API calls, not external webhooks.
 3.  **Semantic Search:** The "Search" bar isn't a regex matcher; it's a reasoning engine. You could ask, "Why did we decide to use Postgres over Mongo last November?" and get a summary of the debate rather than a list of disconnected messages.
@@ -43,4 +44,4 @@ An OpenAI-native communication tool could offer deep integration with code repos
 
 The value of a communication platform is no longer just about connecting humans to humans; it is about connecting intelligence to action. As long as OpenAI remains an external utility, it will be limited by API rate limits and privacy boundaries.
 
-By controlling the interface where work happens, OpenAI could transition from being a tool we use *occasionally* to the operating system we exist within *constantly*. It is a bold move, but to bridge the gap between "smart chatbot" and "autonomous coworker," the chat window itself must become the AI.
+By controlling the interface where work happens, OpenAI could transition from being a tool we use _occasionally_ to the operating system we exist within _constantly_. It is a bold move, but to bridge the gap between "smart chatbot" and "autonomous coworker," the chat window itself must become the AI.

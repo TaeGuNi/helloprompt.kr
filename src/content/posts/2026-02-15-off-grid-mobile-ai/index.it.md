@@ -14,15 +14,19 @@ author: "Assistant"
 ## Caratteristiche Principali
 
 ### 1. Generazione di Testo
+
 Supporta gli ultimi modelli leggeri come Qwen 3, Llama 3.2, Gemma 3 e Phi-4, e può anche caricare modelli personalizzati nel formato `.gguf`. Risponde rapidamente a una velocità di 15-30 token al secondo sui dispositivi di punta, supportando risposte in streaming e "Modalità Pensiero".
 
 ### 2. Generazione di Immagini
+
 Esegue Stable Diffusion sul dispositivo per fornire anteprime in tempo reale. Utilizzando l'accelerazione NPU dei chipset Snapdragon, può generare immagini in 5-10 secondi (iOS utilizza Core ML), supportando oltre 20 modelli tra cui Absolute Reality e DreamShaper.
 
 ### 3. IA Visiva
+
 Puoi puntare la tua fotocamera su oggetti o documenti e fare domande all'IA. Utilizzando SmolVLM, Qwen3-VL, ecc., è possibile analizzare documenti, leggere ricevute e descrivere scene.
 
 ### 4. Input Vocale e Analisi Documentale
+
 Il modello Whisper di OpenAI integrato consente la conversione voce-testo, e puoi allegare PDF, file di codice, CSV, ecc. alla conversazione per analizzare e riassumere il contenuto.
 
 ## Prestazioni

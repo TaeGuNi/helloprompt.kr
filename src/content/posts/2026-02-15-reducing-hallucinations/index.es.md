@@ -15,11 +15,12 @@ Se han estandarizado las técnicas que obligan a los modelos a basar (Grounding)
 ### Cadena de Verificación (CoVe)
 
 La técnica CoVe es un proceso donde el modelo revisa críticamente y corrige su propia respuesta después de generarla.
+
 1. Generar respuesta inicial
 2. Generar preguntas de verificación de hechos sobre la respuesta
 3. Verificar las respuestas a esas preguntas
 4. Generar una respuesta final revisada si se encuentran contradicciones
-Todos estos pasos ocurren instantáneamente en segundo plano, invisibles para el usuario.
+   Todos estos pasos ocurren instantáneamente en segundo plano, invisibles para el usuario.
 
 ### Marcadores de Incertidumbre
 

@@ -9,6 +9,7 @@ tags: ["AI", "Tech", "prompt-chaining-2026"]
 I will list the contents of `src/pages/posts` and `posts` to determine the correct location for the new blog post, and read the `docs/POST_TEMPLATE.md` to ensure I follow the project's frontmatter conventions.
 I'll read `posts/2026-02-15-openclaw-agents.md` to see if it strictly follows the template or if the user's requested structure is the norm for today's files. Then, I'll create the new blog post in the `posts/` directory with the appropriate frontmatter and the requested content.
 I'll create the file `posts/2026-02-15-prompt-chaining-2026.md` with the specified content, adhering to the project's frontmatter conventions and the requested structure.
+
 # Prompt Chaining in 2026: Building Complex AI Workflows
 
 ## Introduction
@@ -32,4 +33,4 @@ This granular control allows for the injection of programmatic logic between ste
 
 Prompt chaining is not just a workaround for model limitations; it is an architectural paradigm. By mastering the art of decomposing tasks and effectively managing context flow, developers can build AI workflows that are reliable, transparent, and capable of tackling the sophisticated challenges of modern software engineering.
 
-*(Automated translation to Italian pending)*
+_(Automated translation to Italian pending)_

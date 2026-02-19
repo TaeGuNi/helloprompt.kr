@@ -40,7 +40,7 @@ tags: ["CSS", "Frontend", "Design"]
 
 Tailwind v5 最显著的特点是能够将 Figma 等设计工具中的变量 (Variables) 直接映射为 CSS 变量，而无需在 `tailwind.config.js` 中手动配置。设计系统的变更会立即反映在代码中，开发者可以直接使用语义化的令牌，而无需为类名烦恼。
 
-### 混合模式 (Hybrid Mode) {#hybrid-mode}
+### 混合模式 (Hybrid Mode)
 
 为了克服纯实用工具类 (Utility Classes) 的局限性，v5 官方鼓励与原生 CSS 语法混合使用。通过完全消除 `@apply` 指令的性能开销，一种新的标准模式已经确立：复杂的动画或特殊效果编写在 CSS 文件中，而布局和响应式样式则通过实用工具类处理。
 
@@ -48,13 +48,13 @@ Tailwind v5 最显著的特点是能够将 Figma 等设计工具中的变量 (Va
 
 曾经主导 React 生态系统的基于运行时的 CSS-in-JS（如 Styled-components, Emotion 等），在 2026 年开始被视为“遗留技术”。推动这一转变的最大原因是 **React Server Components (RSC)** 的普及。
 
-### 零运行时 (Zero-Runtime) 时代 {#zero-runtime}
+### 零运行时 (Zero-Runtime) 时代
 
 在服务器组件环境中，在运行时注入样式不仅不可能，而且效率低下。因此，StyleX、Panda CSS 和 Vanilla Extract 等在构建时生成静态 CSS 的库成为了主流。这些解决方案在提供类型安全 (Type Safety) 的同时，将运行时开销降至几近于“零”。
 
 开发者们现在更倾向于“用 TS 生成类型安全的 CSS”，而不是“把 CSS 放进 JS 里”。这已成为优化浏览器渲染性能的必要选择。
 
-## 结论：回归基础 (Back to Basics) {#back-to-basics}
+## 结论：回归基础 (Back to Basics)
 
 如果用一句话总结 2026 年的 CSS 趋势，那就是 **“拥抱平台原生功能”**。随着浏览器提供的功能越来越强大，我们正在逐步剔除对第三方库的依赖。
 

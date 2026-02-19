@@ -16,11 +16,11 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 従来のデータセンターのKubernetesとは異なり、エッジ環境には以下のような過酷な制約があります。
 
-### 1. 断続的なネットワーク接続 (Intermittent Connectivity) {#intermittent-connectivity}
+### 1. 断続的なネットワーク接続 (Intermittent Connectivity)
 
 エッジデバイスは常に安定したネットワークに接続されているわけではありません。洋上風力発電所や移動中の物流トラックのサーバーでは、ネットワークの切断が日常茶飯事です。そのため、エッジクラスターはコントロールプレーン（Control Plane）との接続が切れた状態でも自律的（autonomously）に動作できなければならず、接続が復旧した際に状態を効率的に同期するメカニズムが不可欠です。
 
-### 2. リソースの制約 (Resource Constraints) {#resource-constraints}
+### 2. リソースの制約 (Resource Constraints)
 
 データセンターのサーバーが数百GBのRAMを持つのに対し、エッジノードは多くの場合、4GB、あるいは2GBのRAMと低電力ARMプロセッサで動作します。etcdのような重いデータストアや過剰なサイドカーコンテナは、エッジ環境では贅沢品です。
 
@@ -36,7 +36,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 - **シングルバイナリ配信**: 複雑な依存関係なしに単一のバイナリとしてパッケージ化され、更新と管理が簡素化されました。これは、帯域幅が制限されたネットワークでOTA（Over-The-Air）アップデートを実行する際に大きな利点となります。
 - **WASM（WebAssembly）の統合**: コンテナよりも軽量で起動時間が速いWASMワークロードが、エッジの主流となりました。最新のエッジKubernetesディストリビューションはWASMランタイムをデフォルトでサポートし、リソース効率を最大化しています。
 
-## エッジでのGitOps: フリート管理 (Fleet Management) {#fleet-management}
+## エッジでのGitOps: フリート管理 (Fleet Management)
 
 数千のクラスターを手動で `kubectl` を介して管理することは不可能です。エッジ管理の核心は **Fleet Management（船団管理）** であり、これを実現する方法論こそがGitOpsです。
 

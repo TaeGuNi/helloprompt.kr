@@ -25,7 +25,7 @@ _「ウェス・アンダーソン映画のように強迫的なくらいきっ�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR) {#tl-dr}
+## ⚡️ 3行要約 (TL;DR)
 
 1. `Symmetrical composition`、`Centered view`が核心です。
 2. `Wes Anderson style`を追加するとパステルトーンの対称美学が生き返ります。
@@ -62,7 +62,7 @@ _「ウェス・アンダーソン映画のように強迫的なくらいきっ�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
+## 🧬 プロンプト解剖 (Why it works?)
 
 ---
 

@@ -25,7 +25,7 @@ _“提高广告成果 (ROAS) 最简单的方法不是目标定位，而是改�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 制作触及目标顾客痛点 (Pain Point) 的钩子文案。
 2. 自然地融入产品/服务的核心 USP (Unique Selling Point)。
@@ -72,7 +72,7 @@ _“提高广告成果 (ROAS) 最简单的方法不是目标定位，而是改�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

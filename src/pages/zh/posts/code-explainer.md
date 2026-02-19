@@ -25,7 +25,7 @@ _"能运行是能运行... 为什么能运行？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 摘要说明代码的整体逻辑和目的
 2. 给每个难懂的部分加上 **注释 (Comment)** 进行逐行解释
@@ -71,13 +71,13 @@ _"能运行是能运行... 为什么能运行？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
 ## 📊 证明: Before & After
 
-### ❌ Before (输入 - Python) {#python}
+### ❌ Before (输入 - Python)
 
 ```python
 result = [x * 2 for x in range(10) if x % 2 == 0]
@@ -91,8 +91,8 @@ result = [x * 2 for x in range(10) if x % 2 == 0]
 **[逐行分析]**
 
 ```python
-# 从 0 到 9 (range(10)) 逐个取出数字放入变量 x。 {#range-10}
-# 如果 (if) x 除以 2 的余数是 0 (是偶数的话)， {#if}
+# 从 0 到 9 (range(10)) 逐个取出数字放入变量 x。
+# 如果 (if) x 除以 2 的余数是 0 (是偶数的话)，
 # 把 x 乘以 2 的值放入列表。
 result = [x * 2 for x in range(10) if x % 2 == 0]
 ```

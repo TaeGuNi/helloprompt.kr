@@ -25,7 +25,7 @@ _"因为公司安全政策不能把代码贴到ChatGPT？但又不想用那些�
 
 ---
 
-## ⚡️ 3行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3行总结 (TL;DR)
 
 1.  安装 **Ollama** (LLM 运行器)
 2.  在终端输入一行命令 (`ollama run deepseek-r1`)
@@ -63,7 +63,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama run deepseek-r1:8b
 ```
 
-### 🥇以此专业版：70B 模型 (高性能台式机/M3 Max) {#m3-max}
+### 🥇以此专业版：70B 模型 (高性能台式机/M3 Max)
 
 建议 32GB 以上内存。拥有媲美 GPT-4 的推理能力。
 
@@ -75,7 +75,7 @@ ollama run deepseek-r1:70b
 
 ---
 
-## 🚀 第三步：实战应用 (VS Code 集成) {#vs-code}
+## 🚀 第三步：实战应用 (VS Code 集成)
 
 在终端里聊天太极客了。让我们把它集成到 **VS Code** 中，打造真正的 Copilot。
 
@@ -90,7 +90,7 @@ ollama run deepseek-r1:70b
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 “等等，这不是安装指南吗？提示词在哪里？”
 别急，这里提供 **DeepSeek 最强编程提示词**。由于 DeepSeek 重视“思维链 (Chain of Thought)”，关键在于让它**“先思考”**。
@@ -111,11 +111,11 @@ ollama run deepseek-r1:70b
 
 ## 📊 效果证明：Before & After
 
-### ❌ Before (免费版 ChatGPT) {#chatgpt}
+### ❌ Before (免费版 ChatGPT)
 
 “这段代码... 嗯... 我不太确定。请重新提问。” (或者给出模棱两可的回答)
 
-### ✅ After (DeepSeek R1 本地版) {#deepseek-r1}
+### ✅ After (DeepSeek R1 本地版)
 
 ```text
 <think>

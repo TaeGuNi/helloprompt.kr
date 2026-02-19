@@ -25,7 +25,7 @@ _"填内容都忙，还在对行间距和字体大小熬夜吗？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 把没整理的简历文本扔给 AI
 2. 转换成可读性高的 Markdown 形式 (标题, 项目符号, 强调)
@@ -71,7 +71,7 @@ _"填内容都忙，还在对行间距和字体大小熬夜吗？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
@@ -86,7 +86,7 @@ _"填内容都忙，还在对行间距和字体大小熬夜吗？"_
 技能: Photoshop, Excel, PowerPoint
 ```
 
-### ✅ After (Markdown 转换) {#markdown}
+### ✅ After (Markdown 转换)
 
 ```markdown
 # 📄 简历

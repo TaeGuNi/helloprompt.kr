@@ -14,11 +14,11 @@ pubDate: "2026-02-13"
 
 M6 芯片不仅仅是 CPU/GPU 性能的提升，更展示了专为神经网络处理而设计的架构变革。
 
-### 1. 下一代神经网络引擎 (Neural Engine) {#neural-engine}
+### 1. 下一代神经网络引擎 (Neural Engine)
 
 M6 搭载的全新神经网络引擎，其运算处理速度相比上一代提升了 40% 以上。它内置了专为 Transformer 模型核心运算——矩阵乘法 (Matrix Multiplication) 优化的加速器，能够以极低的功耗实时运行 7B (70亿) 参数级别的模型。
 
-### 2. 扩展的统一内存带宽 (Unified Memory Bandwidth) {#unified-memory-bandwidth}
+### 2. 扩展的统一内存带宽 (Unified Memory Bandwidth)
 
 运行 LLM 的最大瓶颈往往不是运算速度，而是“内存带宽”。因为必须将模型的权重 (Weight) 快速传输到处理器。M6 大幅扩展了内存带宽，使得更大规模的模型 (13B-30B) 无需量化 (Quantization)，或者仅需极低损耗即可快速加载和推理。
 

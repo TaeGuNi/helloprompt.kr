@@ -25,7 +25,7 @@ _「ブレードランナーのようなディストピア的で派手な夜景�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR) {#tl-dr}
+## ⚡️ 3行要約 (TL;DR)
 
 1. `Cyberpunk`、`Neon noir` キーワードが核心です。
 2. `Pink and blue lighting` (または Purple/Cyan) 色の組み合わせを指定してください。
@@ -62,7 +62,7 @@ _「ブレードランナーのようなディストピア的で派手な夜景�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
+## 🧬 プロンプト解剖 (Why it works?)
 
 ---
 

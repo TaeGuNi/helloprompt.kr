@@ -25,7 +25,7 @@ _“想要像银翼杀手那样反乌托邦且华丽的夜景。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. `Cyberpunk`, `Neon noir` 关键词是核心。
 2. 请指定 `Pink and blue lighting` (或 Purple/Cyan) 颜色组合。
@@ -62,7 +62,7 @@ _“想要像银翼杀手那样反乌托邦且华丽的夜景。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

@@ -25,7 +25,7 @@ _"我的简历，人读之前被机器过滤了的话？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 从招聘公告 (JD) 提取 ATS 可能探测的核心关键词
 2. 检查我的简历是否包含相应关键词
@@ -74,7 +74,7 @@ _"我的简历，人读之前被机器过滤了的话？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
@@ -87,7 +87,7 @@ _"我的简历，人读之前被机器过滤了的话？"_
 - 和队员们协力进行项目。
 ```
 
-### ✅ After (JD 关键词: GA4, Cross-functional Team) {#jd-ga4-cross-functional-team}
+### ✅ After (JD 关键词: GA4, Cross-functional Team)
 
 ```text
 - 活用 **GA4 (Google Analytics 4)** 的网站流量分析导出洞察及树立营销战略。

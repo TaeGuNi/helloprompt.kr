@@ -25,7 +25,7 @@ K-POP 现在超越音乐是‘世界观 (Universe)’游戏。像 Aespa 的旷�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 输入组合的基本信息和想要的关键词
 2. AI 策划专辑标题、视觉概念、世界观故事
@@ -73,7 +73,7 @@ K-POP 现在超越音乐是‘世界观 (Universe)’游戏。像 Aespa 的旷�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

@@ -25,7 +25,7 @@ _“红色错误信息占满屏幕时的那种茫然... 在翻 Stack Overflow �
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 在数千行复杂的错误日志中找到核心原因很难。
 2. AI 学习了庞大的日志模式，比人类更快地识别 Root Cause。
@@ -33,7 +33,7 @@ _“红色错误信息占满屏幕时的那种茫然... 在翻 Stack Overflow �
 
 ---
 
-## 🚀 解决方案：“Bug 猎人 (Bug Hunter)” {#bug-hunter}
+## 🚀 解决方案：“Bug 猎人 (Bug Hunter)”
 
 ### 🥉 Basic Version (基础版)
 
@@ -65,7 +65,7 @@ _“红色错误信息占满屏幕时的那种茫然... 在翻 Stack Overflow �
 
 ---
 
-## 🧬 提示解剖 (Why it works?) {#why-it-works}
+## 🧬 提示解剖 (Why it works?)
 
 ---
 

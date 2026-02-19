@@ -92,6 +92,7 @@ Exception in thread "main" java.lang.NullPointerException
 
 ---
 
+
 ## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.

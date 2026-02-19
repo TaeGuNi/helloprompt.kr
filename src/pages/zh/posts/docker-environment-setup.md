@@ -27,7 +27,7 @@ _“因为部署服务器上的 Node.js 版本不同而出错...”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 生成针对语言/框架优化的 `Dockerfile`
 2. 编写包含 DB、缓存等的 `docker-compose.yml`
@@ -72,7 +72,7 @@ _“因为部署服务器上的 Node.js 版本不同而出错...”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
@@ -82,7 +82,7 @@ _“因为部署服务器上的 Node.js 版本不同而出错...”_
 
 “用 Python 3.9, Django, PostgreSQL。”
 
-### ✅ After (结果 - Dockerfile 部分) {#dockerfile}
+### ✅ After (结果 - Dockerfile 部分)
 
 ```dockerfile
 # 1. Build Stage

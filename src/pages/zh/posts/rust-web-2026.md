@@ -24,7 +24,7 @@ tags: ["Rust", "Web Dev", "Backend"]
 
 用 Rust 开发前端不再缓慢或繁琐。**Leptos** 利用细粒度响应式（Fine-grained Reactivity）模型消除了虚拟 DOM 的开销，提供了由于 Svelte 或 SolidJS 相媲美（甚至超越）的性能。服务器端渲染（SSR）和水合（Hydration）功能现在开箱即用，完美运行，而像 `cargo-leptos` 这样的工具则提供了包括热重载在内的现代开发体验。
 
-## 2. 性能与开发体验 (DX) {#dx}
+## 2. 性能与开发体验 (DX)
 
 “Rust 很快但很难写”这句老话在 2026 年只对了一半。
 

@@ -9,7 +9,7 @@ description: "将复杂的 JSON 数据自动转换为 TypeScript 接口或 Zod �
 tags: ["TypeScript", "Zod", "JSON", "类型定义", "生产力"]
 ---
 
-# 📝 只要扔 JSON，TypeScript 类型定义就出来了！(feat. Zod) {#feat-zod}
+# 📝 只要扔 JSON，TypeScript 类型定义就出来了！(feat. Zod)
 
 **🎯 推荐对象:** 所有人
 **⏱️ 所需时间:** 5 分钟
@@ -27,7 +27,7 @@ _“后端 API 响应这么复杂，这些什么时候才能都做成接口啊�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 将 JSON 数据转换为 TypeScript Interface/Type
 2. 生成用于运行时有效性检查的 Zod/Yup 架构
@@ -74,13 +74,13 @@ _“后端 API 响应这么复杂，这些什么时候才能都做成接口啊�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
 ## 📊 证明: Before & After
 
-### ❌ Before (输入 JSON) {#json}
+### ❌ Before (输入 JSON)
 
 ```text
 {

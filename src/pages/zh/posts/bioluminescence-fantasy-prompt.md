@@ -25,7 +25,7 @@ _“想表现一到晚上就像宝石一样发光的森林。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. `Bioluminescence` 给予自体发光的效果。
 2. 请指定 `Neon blue`, `Glowing green` 等具体的发光颜色。
@@ -62,7 +62,7 @@ _“想表现一到晚上就像宝石一样发光的森林。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

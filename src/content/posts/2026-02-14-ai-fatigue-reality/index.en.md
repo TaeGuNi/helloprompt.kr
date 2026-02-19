@@ -1,6 +1,6 @@
 ---
 title: "AI Fatigue: Revolution or Digital Slop?"
-description: "In 2026, the public is tired of AI hype. We analyze the gap between the promise and the reality of "AI Slop"."
+description: 'In 2026, the public is tired of AI hype. We analyze the gap between the promise and the reality of "AI Slop".'
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

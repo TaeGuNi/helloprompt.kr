@@ -9,7 +9,7 @@ description: "코난, 김전일도 울고 갈 기발한 밀실 트릭과 알리�
 tags: ["추리", "미스터리", "트릭", "소설", "시나리오"]
 ---
 
-# (Updated) 📝 미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator) {#mystery-trick-generator}
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator) {#mystery-trick-generator}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"범인은 이 안에 있어! ...근데 트릭이 뭐더라?"_
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 사건 현장(밀실 등)과 피해자 정보를 입력합니다.
 2. AI가 물리적/심리적 트릭을 활용한 살인 방법 3가지를 제안합니다.
@@ -33,9 +33,9 @@ _"범인은 이 안에 있어! ...근데 트릭이 뭐더라?"_
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: \"명탐정의 사건 수첩\" {#updated}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: \"명탐정의 사건 수첩\"
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"범인은 이 안에 있어! ...근데 트릭이 뭐더라?"_
 
 <br>
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -73,21 +73,21 @@ _"범인은 이 안에 있어! ...근데 트릭이 뭐더라?"_
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ❌ Before (입력)
 
 \"밀실 살인 트릭 추천해줘.\"
 
-### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ✅ After (결과)
 
 - **범인:** 가정부
 - **트릭:** 얼음 탄환? NO. **'열팽창'**을 이용. 피해자는 사실 방 안이 아니라 창문 밖에서 저격당함. 범인은 범행 전날 창틀의 나사를 헐겁게 해두고, 난방을 최대로 틀어 창틀이 팽창해서 꽉 끼게 만듦(밀실 완성).
@@ -96,14 +96,14 @@ _"범인은 이 안에 있어! ...근데 트릭이 뭐더라?"_
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -113,21 +113,29 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 범인은 당신의 상상력 안에 있습니다. 이제 독자들을 완벽하게 속일 준비가 되셨나요? 🕵️‍♀️
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

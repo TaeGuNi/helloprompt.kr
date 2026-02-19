@@ -8,33 +8,39 @@ tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]
 
 드디어 기다리던 소식이 전해졌습니다. NVIDIA가 차세대 소비자용 GPU 아키텍처인 **Blackwell(블랙웰)** 기반의 플래그십 모델, **RTX 6090 Ti**의 출시일을 공식 확정했습니다. 이번 발표는 전 세계 게이머와 크리에이터들의 이목을 집중시키고 있습니다.
 
-## (Updated) (Updated) (Updated) 🚀 RTX 6090 Ti, 무엇이 달라지나? {#updated}
+## (Updated) (Updated) (Updated) 🚀 RTX 6090 Ti, 무엇이 달라지나?
 
 NVIDIA의 B200 코어를 기반으로 한 RTX 6090 Ti는 기존 RTX 50 시리즈를 뛰어넘는 압도적인 성능을 예고하고 있습니다.
 
-### (Updated) (Updated) (Updated) 1. 혁신적인 블랙웰 아키텍처 {#updated}
+### (Updated) (Updated) (Updated) 1. 혁신적인 블랙웰 아키텍처
 
 블랙웰 아키텍처는 데이터 센터용으로 먼저 공개되어 세상을 놀라게 했지만, 이제 그 강력한 성능이 소비자용 데스크톱으로 내려옵니다.
 
 - **향상된 레이 트레이싱 코어**: 4세대 RT 코어를 통해 더욱 사실적인 빛 반사 및 그림자 처리가 가능해졌습니다.
 - **AI 성능의 극대화**: 새로운 텐서 코어(Tensor Core) 탑재로 DLSS 4.0과 같은 차세대 AI 업스케일링 기술을 완벽하게 지원합니다.
 
-### (Updated) (Updated) (Updated) 2. 압도적인 메모리 대역폭 {#updated}
+### (Updated) (Updated) (Updated) 2. 압도적인 메모리 대역폭
 
 RTX 6090 Ti는 차세대 GDDR7 메모리를 탑재하여, 4K를 넘어 8K 게이밍 환경에서도 끊김 없는 성능을 제공할 것으로 기대됩니다. 대역폭의 비약적인 상승은 고해상도 텍스처 로딩 속도를 획기적으로 단축시킬 것입니다.
 
-## (Updated) (Updated) (Updated) 📅 출시일 및 가격 정보 {#updated}
+## (Updated) (Updated) (Updated) 📅 출시일 및 가격 정보
 
 가장 중요한 출시일은 **2026년 하반기**로 예정되어 있습니다. 구체적인 날짜는 다가오는 GTC 2026에서 추가 공개될 가능성이 높습니다. 가격은 전작 대비 소폭 상승할 것으로 예상되지만, 성능 향상 폭을 고려하면 합리적인 수준이 될 것이라는 분석이 지배적입니다.
 
-## (Updated) (Updated) (Updated) 💡 마치며 {#updated}
+## (Updated) (Updated) (Updated) 💡 마치며
 
 RTX 6090 Ti는 단순한 그래픽 카드가 아닌, AI 시대의 개인용 슈퍼컴퓨팅 도구로 자리매김할 것입니다. 6090 Ti가 열어갈 새로운 게이밍 경험과 크리에이티브 작업의 혁신을 기대해 봅니다.
 
 더 자세한 소식이 들어오는 대로 빠르게 업데이트해 드리겠습니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

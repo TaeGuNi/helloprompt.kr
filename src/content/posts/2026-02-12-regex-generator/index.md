@@ -9,7 +9,7 @@ description: "이메일, 전화번호, 특수문자 검증... 복잡한 정규�
 tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 ---
 
-# 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자 {#updated}
+# (Updated) (Updated) (Updated) 🧩 Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자 {#updated}
 
 - **🎯 추천 대상:** `^([a-z0-9_.-]+)@([\da-z.-]+)\.([a-z.]{2,6})$` 이거 보고 토할 것 같은 사람, 입력 폼 검증 짜야 하는 프론트엔드 개발자
 - **⏱️ 소요 시간:** 10초
@@ -25,7 +25,7 @@ _"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  찾고 싶은 문자열 패턴을 말로 설명한다.
 2.  AI가 정규식(`regex`)을 준다.
@@ -33,9 +33,9 @@ _"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정�
 
 ---
 
-## 🚀 해결책: "Regex Wizard" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Regex Wizard" {#updated}
 
-### 🥉 Basic Version (패턴 생성) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (패턴 생성) {#updated}
 
 간단한 이메일, 전화번호 찾기.
 
@@ -43,7 +43,7 @@ _"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정�
 
 <br>
 
-### 🥇 Pro Version (복잡한 텍스트 추출) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (복잡한 텍스트 추출) {#updated}
 
 로그 파일에서 특정 데이터만 뽑아낼 때.
 
@@ -66,7 +66,7 @@ _"비밀번호는 영문, 숫자, 특수문자 포함 8자 이상... 이걸 정�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 정규식의 천적은 **'예외 케이스'**입니다.
 "숫자만 찾아줘"라고 하면 `123`은 찾지만 `-123`이나 `123.45`는 놓칠 수 있습니다.
@@ -74,7 +74,7 @@ AI에게 "음수나 소수점도 포함되나요?"라고 되묻게 시키거나,
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 언어마다 정규식이 다른가요?**
   - A: 네, 미묘하게 다릅니다. (JS, Python, Java...) AI에게 "자바스크립트용으로 줘"라고 언어를 꼭 말해야 합니다.
@@ -84,20 +84,20 @@ AI에게 "음수나 소수점도 포함되나요?"라고 되묻게 시키거나,
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **예시 데이터 제공:** 정규식은 문맥에 따라 천차만별입니다. 실제 로그나 텍스트 예시를 보여주면 정확도가 100%에 가까워집니다.
 2.  **캡처 그룹(Group) 지정:** 단순히 "찾아줘"가 아니라 "이거랑 저거만 뽑아줘"라고 하면, AI가 `()` 괄호를 써서 데이터를 예쁘게 발라줍니다.
 
 ---
 
-## 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
-### ❌ Before (직접 짬) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (직접 짬) {#updated}
 
 `\d+` (숫자만 찾으랬더니 날짜까지 다 잡힘 엉망진창 😱)
 
-### ✅ After (AI 생성) {#ai}
+### (Updated) (Updated) (Updated) ✅ After (AI 생성) {#ai}
 
 **패턴:** `^\[(.*?)\] INFO \[User:(\d+)\] .* \(IP: ([\d\.]+)\)$`
 
@@ -111,7 +111,7 @@ AI에게 "음수나 소수점도 포함되나요?"라고 되묻게 시키거나,
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 정규식은 외계어입니다. 인간이 쓰는 언어가 아닙니다.
 AI는 외계어를 잘합니다.
@@ -119,8 +119,14 @@ AI는 외계어를 잘합니다.
 머리 쥐어뜯지 마세요.
 **"이거 찾아줘"** 한마디면 됩니다. 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -9,19 +9,19 @@ description: 머리 아픈 베지에 곡선과 키프레임 계산, 이제 AI에
 tags: [AI, CSS, Design, Frontend]
 ---
 
-## 1. Intro
+## (Updated) (Updated) (Updated) 1. Intro
 
 "버튼을 누르면 부드럽게 커지면서 젤리처럼 튕기고, 무지개빛으로 빛나게 해주세요." 🌈
 디자이너의 이런 요청, 듣자마자 `Keyframe` 짤 생각에 머리가 아프신가요? CSS 애니메이션은 조금만 수치가 어색해도 로봇처럼 딱딱해 보입니다. 자연스러운 '물리법칙'을 코드로 구현하려면 많은 시행착오가 필요하죠.
 이제 큐빅 베지에(Cubic-bezier) 곡선을 직접 깎지 마세요. 원하는 느낌을 말하면 AI가 60프레임처럼 부드러운 CSS 코드를 뱉어냅니다.
 
-## 2. TL;DR
+## (Updated) (Updated) (Updated) 2. TL;DR
 
 - **핵심:** 복잡한 CSS Keyframe 애니메이션 코드를 자연어 설명만으로 생성합니다.
 - **준비물:** 원하는 애니메이션의 느낌에 대한 구체적인 묘사.
 - **효과:** 고퀄리티 마이크로 인터랙션 구현, 개발 시간 단축, UX 경험 향상.
 
-## 3. Solution (The Prompt)
+## (Updated) (Updated) (Updated) 3. Solution (The Prompt)
 
 "부드럽게", "쫀득하게", "통통 튀게" 같은 형용사를 적극적으로 사용하세요.
 
@@ -44,11 +44,11 @@ CSS 애니메이션 코드를 작성해 주세요. Tailwind CSS를 쓴다면 Tai
 3. **Cubic-bezier:** 단순히 `ease-in-out` 말고, 좀 더 세련된 커스텀 `cubic-bezier` 값을 추천해 주세요.
 ```
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 애니메이션은 '타이밍'이 생명입니다. AI가 짜준 코드에서 `animation-duration`이나 `cubic-bezier` 값만 살짝씩 조절해 보세요. 저는 특히 "애플(Apple) 스타일의 부드러운 감속(Deceleration) 효과를 내줘"라고 요청하는 걸 좋아합니다. 진짜 고급스러운 느낌이 납니다. 🍎
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. React/Vue의 Transition 라이브러리 코드도 되나요?**
 A. 네, "Framer Motion 코드로 짜줘" 또는 "Vue <Transition> 컴포넌트로 짜줘"라고 하면 해당 라이브러리 문법에 맞춰 줍니다.
@@ -56,8 +56,14 @@ A. 네, "Framer Motion 코드로 짜줘" 또는 "Vue <Transition> 컴포넌트�
 **Q. 성능 문제는 없나요?**
 A. AI에게 "GPU 가속을 사용하도록 `transform`과 `opacity` 속성만 사용해서 최적화해줘"라고 덧붙이면, 리페인트(Repaint)를 방지하는 최적화된 코드를 줍니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -9,7 +9,7 @@ description: "교과서에는 절대 안 나오는 찐 원어민 표현, 유행�
 tags: ["영어회화", "슬랭", "이디엄", "미드영어"]
 ---
 
-# 📝 미드 주인공처럼 말하기: 이디엄 & 슬랭 자판기 {#updated}
+# (Updated) (Updated) (Updated) 📝 미드 주인공처럼 말하기: 이디엄 & 슬랭 자판기 {#updated}
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 평범한 문장을 입력하면 원어민이 자주 쓰는 관용구/슬랭으로 변환
 2. 해당 표현의 유래(Origin)와 정확한 뉘앙스 설명
@@ -33,9 +33,9 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## 🚀 해결책: "Flavor Text 변환기" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Flavor Text 변환기" {#updated}
 
-### 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 <br>
 
-### 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -66,21 +66,21 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
 
 "I am very tired."
 
-### ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
 
 **[버전 1: Trendy Slang]**
 "I'm totally **fried**." / "I'm **beat**."
@@ -99,14 +99,14 @@ _"I'm fine thank you" 대신 "I'm good to go"나 "Couldn't be better"를 쓰고 
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -116,14 +116,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 언어는 문화입니다. 이디엄을 하나 배울 때마다 그들의 문화를 하나 이해하는 셈입니다. 오늘부터 "Very hungry" 대신 "I could eat a horse"를 써보세요.
 
 이제 칼퇴하고 치맥 하러 가세요! (It's time to hit the road!) 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

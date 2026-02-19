@@ -9,7 +9,7 @@ description: "밋밋한 이력서 줄글을 STAR 기법(상황-과제-행동-결
 tags: ["이력서", "STAR기법", "취업준비", "성과수치화"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트 {#updated}
+# (Updated) (Updated) (Updated) 📝 이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"열심히 일했는데, 이력서에 쓰려니 '참여함', '담당함'밖에 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 모호한 업무 경험을 STAR 프레임워크로 구조화합니다.
 2. 정성적 성과를 가능한 정량적 수치(%)로 변환합니다.
@@ -33,9 +33,9 @@ _"열심히 일했는데, 이력서에 쓰려니 '참여함', '담당함'밖에 
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "STAR 성과 변환기" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "STAR 성과 변환기"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"열심히 일했는데, 이력서에 쓰려니 '참여함', '담당함'밖에 
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -71,24 +71,24 @@ _"열심히 일했는데, 이력서에 쓰려니 '참여함', '담당함'밖에 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (입력)
 
 ```text
 마케팅 팀에서 인스타그램 이벤트를 기획해서 진행했습니다.
 사람들이 많이 참여했고 팔로워도 늘어서 팀장님께 칭찬받았습니다.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (결과)
 
 ```text
 • 인스타그램 참여형 이벤트 기획 및 운영으로 전월 대비 팔로워 **150% 증대** 달성
@@ -98,14 +98,14 @@ _"열심히 일했는데, 이력서에 쓰려니 '참여함', '담당함'밖에 
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -115,14 +115,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 이력서는 겸손 떠는 곳이 아닙니다. 당신의 땀방울을 숫자로 증명하세요. 이 프롬프트 하나면 당신의 경력 기술서는 '참여'에서 '주도'와 '달성'으로 바뀔 것입니다.
 
 이제 서류 합격하러 가시죠! 🚀
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

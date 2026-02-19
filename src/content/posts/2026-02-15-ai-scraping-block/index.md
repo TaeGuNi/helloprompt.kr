@@ -6,15 +6,15 @@ image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]
 ---
 
-# (Updated) (Updated) (Updated) 퍼블리셔들의 AI 스크래핑 차단 {#updated}
+# (Updated) (Updated) (Updated) 퍼블리셔들의 AI 스크래핑 차단
 
-## (Updated) (Updated) (Updated) 서론 {#updated}
+## (Updated) (Updated) (Updated) 서론
 
 지난 10년 넘게 인터넷은 머신러닝 모델을 위한 무한한 오픈소스 데이터셋으로 취급되었습니다. 웹 크롤러들은 뉴스 기사부터 포럼 토론까지 모든 것을 인덱싱하며 자유롭게 돌아다녔습니다. 하지만 2024년과 2025년은 결정적인 전환점이 되었습니다. 주요 콘텐츠 퍼블리셔들은 생성형 AI 시대에 자신들의 지적 재산이 가진 막대한 가치를 깨닫고, AI 스크래퍼를 적극적으로 차단하기 시작했습니다.
 
 OpenAI를 고소한 *뉴욕타임스*부터 엄격한 API 요금제를 신설한 레딧에 이르기까지, 메시지는 분명합니다. "공짜 점심은 끝났다"는 것입니다. 개발자와 AI 연구원들에게 이는 데이터셋 구축 및 유지 관리 방식에 거대한 변화가 일어남을 시사합니다. 우리는 무분별한 추출의 시대에서 폐쇄적인 정원(Walled Gardens)과 라이선스 계약의 시대로 이동하고 있습니다.
 
-## (Updated) (Updated) (Updated) 분석 {#updated}
+## (Updated) (Updated) (Updated) 분석
 
 이러한 차단의 기술적 구현은 광범위하게 이루어지고 있습니다. 주요 미디어 매체의 `robots.txt` 파일을 잠깐만 살펴봐도 `GPTBot`, `CCBot`(Common Crawl), `ClaudeBot` 등을 구체적으로 타겟팅하여 허용하지 않는 User-Agent 목록이 늘어나고 있음을 알 수 있습니다. 단순한 텍스트 파일 지시문을 넘어, 동적 IP 차단, 고빈도 요청에 대한 CAPTCHA 챌린지, 로그인 전용 콘텐츠로의 전환 등 정교한 스크래핑 방지 조치들이 목격되고 있습니다.
 
@@ -26,12 +26,18 @@ OpenAI를 고소한 *뉴욕타임스*부터 엄격한 API 요금제를 신설한
 2.  **라이선스 전쟁:** 거대 기술 기업들은 아카이브 독점 접근권(예: 구글과 레딧의 계약)을 위해 수백만 달러를 지불하고 있으며, 이는 소규모 오픈소스 개발자들이 넘을 수 없는 해자를 만들고 있습니다.
 3.  **데이터의 "다크 웹"화:** 웹의 상당 부분이 크롤러에게 비공개로 전환되고 있습니다. 이는 미래의 파운데이션 모델들이 유료 접근 권한이 없다면 이전 모델들보다 현재의 사건들에 대해 더 적게 알게 될 수도 있음을 의미합니다.
 
-## 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 결론 {#conclusion}
 
 웹 스크래핑의 "서부 개척 시대"는 사실상 끝났습니다. AI 기반 애플리케이션을 구축하는 개발자들에게 무차별적인 크롤링에 의존하는 것은 더 이상 실행 가능한 장기 전략이 아닙니다. 업계는 합의된 데이터 사용, 공식 API, 그리고 무엇보다도 단순한 양보다 질을 우선시하는 작고 정제된 데이터셋으로 방향을 틀고 있습니다. 아카이브가 잠기면서, 더 적은 데이터로 더 많은 것을 해내는 능력은 차세대 AI 엔지니어링의 결정적인 과제가 될 것입니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

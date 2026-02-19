@@ -9,7 +9,7 @@ description: "채용 시스템(ATS)이 좋아하는 키워드를 이력서에 �
 tags: ["ATS", "이력서최적화", "키워드", "채용시스템"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트 {#updated}
+# (Updated) (Updated) (Updated) 📝 ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 채용공고(JD)에서 ATS가 탐지할만한 핵심 키워드를 추출합니다.
 2. 내 이력서에 해당 키워드가 포함되어 있는지 검사합니다.
@@ -33,9 +33,9 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "ATS 해킹 프롬프트" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "ATS 해킹 프롬프트"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -74,24 +74,24 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (키워드 불일치) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (키워드 불일치)
 
 ```text
 - 웹사이트 방문자 데이터를 분석하여 마케팅에 활용함.
 - 팀원들과 협력하여 프로젝트를 진행함.
 ```
 
-### ✅ After (JD 키워드: GA4, Cross-functional Team) {#jd-ga4-cross-functional-team}
+### (Updated) (Updated) (Updated) ✅ After (JD 키워드: GA4, Cross-functional Team) {#jd-ga4-cross-functional-team}
 
 ```text
 - **GA4(Google Analytics 4)**를 활용한 웹사이트 트래픽 분석으로 인사이트 도출 및 마케팅 전략 수립.
@@ -100,14 +100,14 @@ _"내 이력서, 사람이 읽기도 전에 기계한테 걸러지고 있다면?
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -117,14 +117,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 ATS 최적화는 '꼼수'가 아니라, 채용 담당자에게 "우리가 찾던 사람이 바로 여기 있어요"라고 명확한 신호를 보내는 '배려'입니다.
 
 기계의 문을 통과해야 사람을 만날 수 있습니다. 문을 열어보세요! 🔓
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

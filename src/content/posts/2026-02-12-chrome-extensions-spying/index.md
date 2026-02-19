@@ -9,7 +9,7 @@ description: "브라우징 데이터를 몰래 수집하는 악성 확장프로�
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 브라우저 속의 스파이, 확장프로그램 {#updated}
+# (Updated) (Updated) (Updated) 📝 브라우저 속의 스파이, 확장프로그램
 
 - **🎯 추천 대상:** 크롬 사용자, 웹 서핑을 많이 하는 사람
 - **⏱️ 읽는 시간:** 2분
@@ -21,7 +21,7 @@ _"편리하려고 깐 확장프로그램이, 내 모든 방문 기록을 팔아�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **현황**: 280개 이상의 악성 확장프로그램 적발 (PDF 변환, VPN, 날씨 앱 등).
 2. **수법**: 정상적인 기능을 제공하는 척하면서 백그라운드에서 URL, 쿠키, 검색어 수집.
@@ -29,17 +29,17 @@ _"편리하려고 깐 확장프로그램이, 내 모든 방문 기록을 팔아�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 "무료"에는 항상 대가가 따릅니다. 특히 **"너무 많은 권한을 요구하는"** 간단한 도구들을 조심해야 합니다. PDF 뷰어가 왜 '모든 웹사이트 방문 기록'을 원할까요? 주기적으로 확장프로그램 목록을 정리하는 습관이 필요합니다.
 
 ---
 
-## 🔗 참고 링크 {#references}
+## (Updated) (Updated) (Updated) 🔗 참고 링크 {#references}
 
 - [상세 분석 보고서 (Google 검색)](https://www.google.com/search?q=Q+Continuum+Spying+Chrome+Extensions)
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 Q: 이 내용은 최신 정보인가요?
 A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석하였습니다.
@@ -47,8 +47,14 @@ A: 네, 작성 시점 기준으로 가장 최신 정보를 바탕으로 분석�
 Q: 추가적인 자료는 어디서 볼 수 있나요?
 A: 본문 내 포함된 링크나 관련 포스트를 참고해주시기 바랍니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -107,18 +107,18 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 
 뮤직비디오 배경이나 예술적인 인트로 영상 제작에 활용해보세요.
 
-**Role**
-You are a visual artist specializing in abstract 3D motion graphics.
-**Task**
-Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
-**Visuals**
+> **Role**
+> You are a visual artist specializing in abstract 3D motion graphics.
+> **Task**
+> Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
+> **Visuals**
 
 - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
 - Floating particles that glow and fade like fireflies.
 - Color Palette: Deep indigo, bioluminescent blue, and warm amber.
   **Camera**
 - Continuous **Orbit Shot** around the central melting clock.
-  **Constraint**
+  > **Constraint**
 - Seamless loop.
 - Dreamy and ethereal atmosphere.
 

@@ -1,12 +1,18 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description:
+  현직자에게 조언을 구하거나 네트워킹을 하고 싶을 때, 예의 바르면서도 답변을 유도하는 콜드 DM(Direct Message)을
+  보냅니다.
 layout: /src/layouts/Layout.astro
-title: "거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.171Z"
+tags:
+  - 커피챗
+  - 콜드메일
+  - 네트워킹
+  - 멘토링
+title: 거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트
 updatedDate: "2026-02-07T09:10:33.171Z"
-category: "취업 & 이직"
-description: "현직자에게 조언을 구하거나 네트워킹을 하고 싶을 때, 예의 바르면서도 답변을 유도하는 콜드 DM(Direct Message)을 보냅니다."
-tags: ["커피챗", "콜드메일", "네트워킹", "멘토링"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트 {#coffee-chat}

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 마케팅/카피라이팅
+date: "2026-02-04"
+description: 스크롤을 멈추게 하는 SNS 광고 메인 텍스트(Primary Text) 작성법.
 layout: /src/layouts/Layout.astro
-title: "클릭을 부르는 페이스북/인스타 광고 카피 생성기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.176Z"
+tags:
+  - 페이스북광고
+  - 인스타그램광고
+  - 퍼포먼스마케팅
+  - 카피라이팅
+title: 클릭을 부르는 페이스북/인스타 광고 카피 생성기
 updatedDate: "2026-02-07T09:10:33.176Z"
-category: "마케팅/카피라이팅"
-description: "스크롤을 멈추게 하는 SNS 광고 메인 텍스트(Primary Text) 작성법."
-tags: ["페이스북광고", "인스타그램광고", "퍼포먼스마케팅", "카피라이팅"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 클릭을 부르는 페이스북/인스타 광고 카피 생성기

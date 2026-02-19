@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 따뜻하고 감성적인 사진의 치트키, 골든 아워(Golden Hour)를 프롬프트에 적용해보세요.
 layout: /src/layouts/Layout.astro
-title: "가장 아름다운 시간 'Golden Hour' 조명 활용법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.109Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Photography
+  - Lighting
+title: 가장 아름다운 시간 'Golden Hour' 조명 활용법
 updatedDate: "2026-02-07T09:10:33.109Z"
-category: "이미지 생성"
-description: "따뜻하고 감성적인 사진의 치트키, 골든 아워(Golden Hour)를 프롬프트에 적용해보세요."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 마법의 시간: Golden Hour

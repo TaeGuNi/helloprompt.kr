@@ -1,12 +1,15 @@
 ---
+author: Zzabbis
+category: 프롬프트 엔지니어링
+date: "2026-02-04"
+description: 원하는 말투나 형식이 안 나와서 답답하신가요? 설명을 길게 쓰는 것보다 확실한 방법, 퓨샷(Few-Shot) 기법을 알려드립니다.
 layout: /src/layouts/Layout.astro
-title: '백 마디 설명보다 강력한 "예시"의 힘 (Few-Shot Prompting)'
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.128Z"
+tags:
+  - Few-Shot
+  - 고급팁
+  - 예시
+title: 백 마디 설명보다 강력한 "예시"의 힘 (Few-Shot Prompting)
 updatedDate: "2026-02-07T09:10:33.128Z"
-category: "프롬프트 엔지니어링"
-description: "원하는 말투나 형식이 안 나와서 답답하신가요? 설명을 길게 쓰는 것보다 확실한 방법, 퓨샷(Few-Shot) 기법을 알려드립니다."
-tags: ["Few-Shot", "고급팁", "예시"]
 ---
 
 # (Updated) (Updated) (Updated) 🎯 백 마디 설명보다 강력한 "예시"의 힘

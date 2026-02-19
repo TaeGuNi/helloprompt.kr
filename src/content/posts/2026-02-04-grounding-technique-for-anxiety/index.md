@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 갑작스러운 불안감이나 공황 증세가 올 때, 5-4-3-2-1 기법으로 빠르게 현실로 돌아오는 방법을 안내합니다.
 layout: /src/layouts/Layout.astro
-title: "심장이 쿵쾅거릴 때, AI가 알려주는 그라운딩(Grounding) 기법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.152Z"
+tags:
+  - 불안
+  - 공황장애
+  - 그라운딩
+  - 멘탈케어
+  - 심리안정
+title: 심장이 쿵쾅거릴 때, AI가 알려주는 그라운딩(Grounding) 기법
 updatedDate: "2026-02-07T09:10:33.152Z"
-category: "건강 & 웰니스"
-description: "갑작스러운 불안감이나 공황 증세가 올 때, 5-4-3-2-1 기법으로 빠르게 현실로 돌아오는 방법을 안내합니다."
-tags: ["불안", "공황장애", "그라운딩", "멘탈케어", "심리안정"]
 ---
 
 # ⚓ 심장이 쿵쾅거릴 때, AI가 알려주는 그라운딩(Grounding) 기법 {#grounding}

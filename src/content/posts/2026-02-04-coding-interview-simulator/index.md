@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 코딩/IT
+date: "2026-02-04"
+description: 네카라쿠배 코딩 테스트와 기술 면접을 대비하기 위해 AI 면접관과 실전처럼 연습하는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 코딩테스트
+  - 기술면접
+  - 알고리즘
+  - 취업준비
 title: "개발자 면접 프리패스: 알고리즘 인터뷰 모의고사"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
-category: "코딩/IT"
-description: "네카라쿠배 코딩 테스트와 기술 면접을 대비하기 위해 AI 면접관과 실전처럼 연습하는 프롬프트입니다."
-tags: ["코딩테스트", "기술면접", "알고리즘", "취업준비"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 개발자 면접 프리패스: 알고리즘 인터뷰 모의고사

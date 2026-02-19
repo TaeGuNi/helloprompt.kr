@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 경제적 자유를 꿈꾸는 당신을 위해 파이어족 달성 시기와 필요 자산을 시뮬레이션해드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 파이어족
+  - 조기은퇴
+  - 경제적자유
+  - 재테크
 title: "FIRE족 로드맵: 조기 은퇴를 위한 4%의 법칙"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.111Z"
 updatedDate: "2026-02-07T09:10:33.111Z"
-category: "재테크 & 투자"
-description: "경제적 자유를 꿈꾸는 당신을 위해 파이어족 달성 시기와 필요 자산을 시뮬레이션해드립니다."
-tags: ["파이어족", "조기은퇴", "경제적자유", "재테크"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 FIRE족 로드맵: 조기 은퇴를 위한 4%의 법칙 {#updated}

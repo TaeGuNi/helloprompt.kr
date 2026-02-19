@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 코딩/IT
+date: "2026-02-04"
+description: 추상적이고 어려운 IT 개념을 일상생활 속 사물이나 상황에 빗대어 초등학생도 이해하게 설명해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "API를 식당에 비유하면? 코딩 개념 비유 자판기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.140Z"
+tags:
+  - 코딩기초
+  - 비유
+  - IT용어
+  - 쉽게설명
+title: API를 식당에 비유하면? 코딩 개념 비유 자판기
 updatedDate: "2026-02-07T09:10:33.140Z"
-category: "코딩/IT"
-description: "추상적이고 어려운 IT 개념을 일상생활 속 사물이나 상황에 빗대어 초등학생도 이해하게 설명해주는 프롬프트입니다."
-tags: ["코딩기초", "비유", "IT용어", "쉽게설명"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 API를 식당에 비유하면? 코딩 개념 비유 자판기

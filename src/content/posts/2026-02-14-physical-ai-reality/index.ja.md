@@ -1,10 +1,15 @@
 ---
-title: "フィジカルAI：過剰な期待と冷徹な現実"
-description: "メディアはLGやサムスンのロボットが世界を変えるかのように騒ぎ立てますが、エンジニアリングの現実は依然として物理法則と戦っています。"
+date: "2026-02-14"
+description: メディアはLGやサムスンのロボットが世界を変えるかのように騒ぎ立てますが、エンジニアリングの現実は依然として物理法則と戦っています。
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: フィジカルAI：過剰な期待と冷徹な現実
 ---
 
 CESのような技術展示会のシーズンになると、ニュースフィードはロボットの話で埋め尽くされます。LGやサムスンが発表したスマートホームロボットは可愛らしい表情を見せ、今すぐにでも私たちの家事を引き受けてくれるかのように見えます。メディアはこれを「フィジカルAI（Physical AI）」の到来と呼び、大規模言語モデル（LLM）がついに身体を手に入れたと称賛します。

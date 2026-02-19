@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 수학/과학
+date: "2026-02-04"
+description: 복잡한 수학, 과학 공식을 스토리텔링과 기억술(Mnemonic)로 절대 까먹지 않게 만드는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "안 외워지는 공식, 뇌에 문신 새기기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.113Z"
+tags:
+  - 암기법
+  - 기억술
+  - 공부법
+  - 프롬프트
+title: 안 외워지는 공식, 뇌에 문신 새기기
 updatedDate: "2026-02-07T09:10:33.113Z"
-category: "수학/과학"
-description: "복잡한 수학, 과학 공식을 스토리텔링과 기억술(Mnemonic)로 절대 까먹지 않게 만드는 프롬프트입니다."
-tags: ["암기법", "기억술", "공부법", "프롬프트"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 안 외워지는 공식, 뇌에 문신 새기기

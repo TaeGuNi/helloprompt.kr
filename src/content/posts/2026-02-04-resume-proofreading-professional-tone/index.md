@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 이력서의 문체를 비즈니스 매너에 맞게 정제하고, 오타와 비문을 완벽하게 잡아내어 신뢰도를 높이는 교정 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 이력서교정
+  - 문체수정
+  - 비즈니스글쓰기
+  - 맞춤법검사
 title: "이력서 문체 교정: '아마추어' 티를 벗고 '프로'처럼 보이는 법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.108Z"
 updatedDate: "2026-02-07T09:10:33.108Z"
-category: "취업 & 이직"
-description: "이력서의 문체를 비즈니스 매너에 맞게 정제하고, 오타와 비문을 완벽하게 잡아내어 신뢰도를 높이는 교정 프롬프트입니다."
-tags: ["이력서교정", "문체수정", "비즈니스글쓰기", "맞춤법검사"]
 ---
 
 # (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 📝 이력서 문체 교정: '아마추어' 티를 벗고 '프로'처럼 보이는 법

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 녹음 파일을 텍스트로 바꿨는데 너무 길다면? 핵심만 쏙 뽑아주는 요약 프롬프트.
 layout: /src/layouts/Layout.astro
-title: "두서없는 회의록, 깔끔하게 요약 정리하기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.152Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 두서없는 회의록, 깔끔하게 요약 정리하기
 updatedDate: "2026-02-07T09:10:33.152Z"
-category: "업무 자동화"
-description: "녹음 파일을 텍스트로 바꿨는데 너무 길다면? 핵심만 쏙 뽑아주는 요약 프롬프트."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # 📝 두서없는 회의록, 깔끔하게 요약 정리하기 {#summary}

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 건강
+date: "2026-02-04"
+description: 내 상황과 감정에 딱 맞는 나만의 명상 가이드 대본을 만들어보세요.
 layout: /src/layouts/Layout.astro
-title: "뇌 휴식 5분, AI 명상 및 마인드풀니스 스크립트 작성"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.116Z"
+tags:
+  - 명상
+  - 마인드풀니스
+  - 스트레스
+  - 휴식
+title: 뇌 휴식 5분, AI 명상 및 마인드풀니스 스크립트 작성
 updatedDate: "2026-02-07T09:10:33.116Z"
-category: "건강"
-description: "내 상황과 감정에 딱 맞는 나만의 명상 가이드 대본을 만들어보세요."
-tags: ["명상", "마인드풀니스", "스트레스", "휴식"]
 ---
 
 # 📝 뇌 휴식 5분, AI 명상 및 마인드풀니스 스크립트 작성

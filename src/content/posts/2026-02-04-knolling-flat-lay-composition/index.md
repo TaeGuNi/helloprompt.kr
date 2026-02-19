@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 물건들을 직각으로 반듯하게 나열하여 촬영하는 놀링(Knolling) 기법 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "정리 정돈의 미학 'Knolling' 스타일"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.170Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Composition
+  - Design
+title: 정리 정돈의 미학 'Knolling' 스타일
 updatedDate: "2026-02-07T09:10:33.170Z"
-category: "이미지 생성"
-description: "물건들을 직각으로 반듯하게 나열하여 촬영하는 놀링(Knolling) 기법 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 정리의 신: Knolling

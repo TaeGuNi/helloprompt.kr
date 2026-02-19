@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 좁은 공간을 넓게, 웅장한 풍경을 한눈에 담는 광각(Wide Angle)과 어안(Fisheye) 렌즈 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "압도적인 공간감 'Wide Angle & Fisheye' 렌즈 효과"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.114Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Camera Angle
+  - Landscape
+title: 압도적인 공간감 'Wide Angle & Fisheye' 렌즈 효과
 updatedDate: "2026-02-07T09:10:33.114Z"
-category: "이미지 생성"
-description: "좁은 공간을 넓게, 웅장한 풍경을 한눈에 담는 광각(Wide Angle)과 어안(Fisheye) 렌즈 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 압도적 공간감: Wide Angle & Fisheye

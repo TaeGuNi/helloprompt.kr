@@ -1,10 +1,20 @@
 ---
-title: "Prompt Engineering 3.0 : L'Intention est Loi"
-description: "Arrêtez d'écrire des prompts complexes. L'ère du 'Prompting Basé sur l'Intention', où l'IA saisit l'intention cachée de l'utilisateur, est arrivée. Présentation d'une méthode de communication plus simple et plus puissante."
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description:
+  Arrêtez d'écrire des prompts complexes. L'ère du 'Prompting Basé sur
+  l'Intention', où l'IA saisit l'intention cachée de l'utilisateur, est arrivée. Présentation
+  d'une méthode de communication plus simple et plus puissante.
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: "Prompt Engineering 3.0 : L'Intention est Loi"
 ---
 
 Des modificateurs comme "Explique en détail" ou "Dis-le moi étape par étape" ne sont plus nécessaires. Le cœur de l'ère du Prompt Engineering 3.0 n'est pas la 'Syntaxe', mais l''Intention'.

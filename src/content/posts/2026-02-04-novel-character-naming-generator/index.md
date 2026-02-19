@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 창작 및 취미
+date: "2026-02-04"
+description: 캐릭터의 성격, 국적, 시대를 반영하여 의미와 어감이 완벽한 이름을 지어보세요.
 layout: /src/layouts/Layout.astro
-title: "소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.138Z"
+tags:
+  - 네이밍
+  - 캐릭터
+  - 소설
+  - 작명
+  - 설정
+title: 소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름)
 updatedDate: "2026-02-07T09:10:33.138Z"
-category: "창작 및 취미"
-description: "캐릭터의 성격, 국적, 시대를 반영하여 의미와 어감이 완벽한 이름을 지어보세요."
-tags: ["네이밍", "캐릭터", "소설", "작명", "설정"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름)

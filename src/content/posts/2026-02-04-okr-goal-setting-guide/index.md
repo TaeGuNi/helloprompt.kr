@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 가슴 뛰는 목표(Objective)와 측정 가능한 결과(Key Result) 수립하기.
 layout: /src/layouts/Layout.astro
-title: "목표 달성을 위한 OKR 설정 가이드"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.134Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 목표 달성을 위한 OKR 설정 가이드
 updatedDate: "2026-02-07T09:10:33.134Z"
-category: "업무 자동화"
-description: "가슴 뛰는 목표(Objective)와 측정 가능한 결과(Key Result) 수립하기."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 목표 달성을 위한 OKR 설정 가이드

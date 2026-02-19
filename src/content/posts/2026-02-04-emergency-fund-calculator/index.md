@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 갑작스러운 실직이나 사고에도 흔들리지 않는 최적의 비상금 규모를 계산해드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 비상금
+  - 재무관리
+  - 리스크관리
+  - 저축
 title: "비상금 안전벨트: 나만의 비상금 적정액 계산"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.094Z"
 updatedDate: "2026-02-07T09:10:33.094Z"
-category: "재테크 & 투자"
-description: "갑작스러운 실직이나 사고에도 흔들리지 않는 최적의 비상금 규모를 계산해드립니다."
-tags: ["비상금", "재무관리", "리스크관리", "저축"]
 ---
 
 # 📝 비상금 안전벨트: 나만의 비상금 적정액 계산

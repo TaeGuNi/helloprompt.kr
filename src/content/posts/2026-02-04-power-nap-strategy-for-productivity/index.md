@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 점심 먹고 쏟아지는 식곤증, 참지 마세요. 딱 20분 자고 개운하게 일어나는 '커피 냅(Coffee Nap)' 기술.
 layout: /src/layouts/Layout.astro
-title: "커피보다 강력하다! 오후의 생산성을 2배 높이는 '파워 낮잠' 전략"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.116Z"
+tags:
+  - 낮잠
+  - 생산성
+  - 수면
+  - 커피냅
+  - ChatGPT
+title: 커피보다 강력하다! 오후의 생산성을 2배 높이는 '파워 낮잠' 전략
 updatedDate: "2026-02-07T09:10:33.116Z"
-category: "건강 & 웰니스"
-description: "점심 먹고 쏟아지는 식곤증, 참지 마세요. 딱 20분 자고 개운하게 일어나는 '커피 냅(Coffee Nap)' 기술."
-tags: ["낮잠", "생산성", "수면", "커피냅", "ChatGPT"]
 ---
 
 # ⚡ 커피보다 강력하다! 오후의 생산성을 2배 높이는 '파워 낮잠' 전략

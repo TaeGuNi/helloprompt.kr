@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 뒤죽박죽인 이력서 내용을 깔끔한 마크다운(Markdown) 형식으로 변환하여 PDF 변환이나 노션 이력서 제작을 돕습니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 이력서양식
+  - 마크다운
+  - 노션이력서
+  - 문서정리
 title: "이력서 포맷팅 지옥 탈출: 마크다운(Markdown) 변환기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.104Z"
 updatedDate: "2026-02-07T09:10:33.104Z"
-category: "취업 & 이직"
-description: "뒤죽박죽인 이력서 내용을 깔끔한 마크다운(Markdown) 형식으로 변환하여 PDF 변환이나 노션 이력서 제작을 돕습니다."
-tags: ["이력서양식", "마크다운", "노션이력서", "문서정리"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 이력서 포맷팅 지옥 탈출: 마크다운(Markdown) 변환기 {#markdown}

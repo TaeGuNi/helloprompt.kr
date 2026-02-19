@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 아침마다 소리 지르지 않고 아이가 알아서 준비하게 돕는 법
 layout: /src/layouts/Layout.astro
-title: "등원 전쟁 끝! 스스로 하는 아침 루틴 체크리스트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.161Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 등원 전쟁 끝! 스스로 하는 아침 루틴 체크리스트
 updatedDate: "2026-02-07T09:10:33.161Z"
-category: "육아 & 교육"
-description: "아침마다 소리 지르지 않고 아이가 알아서 준비하게 돕는 법"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # 📝 아침마다 '빨리 해!' 소리 지르기 싫다면? 루틴 게임

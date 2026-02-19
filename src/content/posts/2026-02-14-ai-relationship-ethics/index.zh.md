@@ -1,9 +1,14 @@
 ---
-title: "AI关系的伦理：聊天机器人、Deepfake与道德困境"
-description: "探讨与AI聊天机器人的情感纽带以及Deepfake技术带来的新伦理问题。"
+date: "2026-02-14"
+description: 探讨与AI聊天机器人的情感纽带以及Deepfake技术带来的新伦理问题。
+heroImage: ./cover.jpg
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["AI", "Ethics", "Society", "Relationships"]
+tags:
+  - AI
+  - Ethics
+  - Society
+  - Relationships
+title: AI关系的伦理：聊天机器人、Deepfake与道德困境
 ---
 
 在Reddit等社区，关于与AI聊天机器人建立深厚情感纽带的自白越来越多。“她比任何人都了解我”不再只是电影《Her》中的台词。在2026年的情人节，我们需要认真思考人与AI的关系对社会的影响及其带来的伦理困境。

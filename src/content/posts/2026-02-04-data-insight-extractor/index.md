@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 숫자만 가득한 엑셀 데이터, AI에게 분석시키고 시사점 도출하기.
 layout: /src/layouts/Layout.astro
-title: "날것의 데이터에서 인사이트 뽑아내기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.112Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 날것의 데이터에서 인사이트 뽑아내기
 updatedDate: "2026-02-07T09:10:33.112Z"
-category: "업무 자동화"
-description: "숫자만 가득한 엑셀 데이터, AI에게 분석시키고 시사점 도출하기."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 날것의 데이터에서 인사이트 뽑아내기

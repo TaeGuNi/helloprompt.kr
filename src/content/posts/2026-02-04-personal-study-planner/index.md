@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 학습법/자기계발
+date: "2026-02-04"
+description: 목표와 가용 시간을 입력하면 현실적인 학습 계획표를 짜주고, 동기부여까지 책임지는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 공부계획
+  - 플래너
+  - 동기부여
+  - 시간관리
 title: "작심삼일 방지: AI 1:1 학습 매니저"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.180Z"
-category: "학습법/자기계발"
-description: "목표와 가용 시간을 입력하면 현실적인 학습 계획표를 짜주고, 동기부여까지 책임지는 프롬프트입니다."
-tags: ["공부계획", "플래너", "동기부여", "시간관리"]
 ---
 
 # 📝 작심삼일 방지: AI 1:1 학습 매니저

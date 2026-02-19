@@ -1,9 +1,16 @@
 ---
+author: HelloPrompt
+date: "2026-02-15"
+description:
+  GitHub Copilot X2와 같은 자율 에이전트 시대, 코드를 직접 짜던 개발자에서 'AI 매니저'로 진화하는 구체적인
+  방법과 프롬프트 가이드를 소개합니다.
+tags:
+  - AI
+  - DevOps
+  - Coding Agents
+  - Prompt Engineering
+  - Career
 title: "AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략"
-date: "2026-02-15T17:30:00"
-description: "GitHub Copilot X2와 같은 자율 에이전트 시대, 코드를 직접 짜던 개발자에서 'AI 매니저'로 진화하는 구체적인 방법과 프롬프트 가이드를 소개합니다."
-author: "HelloPrompt"
-tags: ["AI", "DevOps", "Coding Agents", "Prompt Engineering", "Career"]
 ---
 
 2026년 2월, 이제 IDE에서 'Tab' 키를 누르는 것은 구식입니다. 우리는 이제 채팅창에 이슈 번호를 던지고 커피를 마시러 갑니다.

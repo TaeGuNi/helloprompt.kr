@@ -1,9 +1,13 @@
 ---
-title: "Python 3.14：速度と型安全性の新たな飛躍"
-description: "JITコンパイラの改善やパターンマッチング v3など、Python 3.14の新機能を紹介します。"
+date: "2026-02-13"
+description: JITコンパイラの改善やパターンマッチング v3など、Python 3.14の新機能を紹介します。
+heroImage: ./cover.jpg
 pubDate: "2026-02-13"
-heroImage: "./cover.jpg"
-tags: ["python", "programming", "tech-trends"]
+tags:
+  - python
+  - programming
+  - tech-trends
+title: Python 3.14：速度と型安全性の新たな飛躍
 ---
 
 Python 3.14がついにリリースされました。このリリースでは、3.13で導入されたJIT（Just-In-Time）コンパイラが大幅に改善され、開発者体験を向上させるさまざまな機能が含まれています。

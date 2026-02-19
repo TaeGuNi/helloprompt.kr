@@ -1,10 +1,19 @@
 ---
-title: "GPT-5.3 Codex Spark: डेवलपर्स के लिए अल्ट्रा-फास्ट कोडिंग एआई"
-description: "OpenAI ने GPT-5.3 Codex Spark का अनावरण किया है, जो डेवलपर उत्पादकता के लिए डिज़ाइन किया गया एक हल्का उच्च-प्रदर्शन मॉडल है। इसमें 15ms से कम विलंबता और उन्नत संदर्भ समझ की सुविधा है।"
-published: 2026-02-13
-category: "Technology"
-tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
+category: Technology
+date: "2026-02-17"
+description:
+  OpenAI ने GPT-5.3 Codex Spark का अनावरण किया है, जो डेवलपर उत्पादकता
+  के लिए डिज़ाइन किया गया एक हल्का उच्च-प्रदर्शन मॉडल है। इसमें 15ms से कम विलंबता
+  और उन्नत संदर्भ समझ की सुविधा है।
 draft: false
+published: 2026-02-13
+tags:
+  - AI
+  - GPT-5.3
+  - Codex
+  - OpenAI
+  - Development
+title: "GPT-5.3 Codex Spark: डेवलपर्स के लिए अल्ट्रा-फास्ट कोडिंग एआई"
 ---
 
 # GPT-5.3 Codex Spark: डेवलपर उत्पादकता के लिए एक नया मानक

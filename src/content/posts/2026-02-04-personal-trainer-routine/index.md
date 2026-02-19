@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 생활
+date: "2026-02-04"
+description: 내 신체 조건과 목표에 딱 맞는 주간 운동 루틴과 식단을 짜주는 헬스 가이드 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "PT 선생님 몰래 쓰세요, AI 퍼스널 트레이너"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.099Z"
+tags:
+  - 운동
+  - 다이어트
+  - 헬스
+  - 홈트
+title: PT 선생님 몰래 쓰세요, AI 퍼스널 트레이너
 updatedDate: "2026-02-07T09:10:33.099Z"
-category: "생활"
-description: "내 신체 조건과 목표에 딱 맞는 주간 운동 루틴과 식단을 짜주는 헬스 가이드 프롬프트입니다."
-tags: ["운동", "다이어트", "헬스", "홈트"]
 ---
 
 # 📝 PT 선생님 몰래 쓰세요, AI 퍼스널 트레이너

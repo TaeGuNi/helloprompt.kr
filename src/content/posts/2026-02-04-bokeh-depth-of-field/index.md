@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 배경을 흐릿하게 날려서 피사체를 돋보이게 하고, 감성적인 빛망울(보케)을 만드는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "감성적인 배경 흐림 'Bokeh & Depth of Field'"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.152Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Photography
+  - Effect
+title: 감성적인 배경 흐림 'Bokeh & Depth of Field'
 updatedDate: "2026-02-07T09:10:33.152Z"
-category: "이미지 생성"
-description: "배경을 흐릿하게 날려서 피사체를 돋보이게 하고, 감성적인 빛망울(보케)을 만드는 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 
 # 📝 빛망울의 마법: Bokeh & Depth of Field

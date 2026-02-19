@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 외국어 학습
+date: "2026-02-04"
+description: 소리를 들을 수 없는 환경에서도 발음기호, 강세, 억양을 시각적으로 학습하는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "텍스트로 배우는 원어민 발음 코칭"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.156Z"
+tags:
+  - 영어발음
+  - 쉐도잉
+  - 프롬프트
+  - 스피킹
+title: 텍스트로 배우는 원어민 발음 코칭
 updatedDate: "2026-02-07T09:10:33.156Z"
-category: "외국어 학습"
-description: "소리를 들을 수 없는 환경에서도 발음기호, 강세, 억양을 시각적으로 학습하는 프롬프트입니다."
-tags: ["영어발음", "쉐도잉", "프롬프트", "스피킹"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 텍스트로 배우는 원어민 발음 코칭 {#updated}

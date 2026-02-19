@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 아이의 공감 능력과 감정 표현력을 길러주는 AI 상황극 제안
 layout: /src/layouts/Layout.astro
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
 title: "감정 맞추기 '표정 연기' 게임: 정서 지능 키우기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.141Z"
 updatedDate: "2026-02-07T09:10:33.141Z"
-category: "육아 & 교육"
-description: "아이의 공감 능력과 감정 표현력을 길러주는 AI 상황극 제안"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 우리 아이 정서 지능 UP! '내가 어떤 기분이게?' 게임

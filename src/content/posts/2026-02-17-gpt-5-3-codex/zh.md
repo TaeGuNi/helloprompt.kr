@@ -1,10 +1,18 @@
 ---
-title: "GPT-5.3 Codex Spark：专为开发者打造的超高速编程 AI"
-description: "OpenAI 发布了 GPT-5.3 Codex Spark，这是一款专为提高开发者生产力而设计的轻量级高性能模型。它具有低于 15ms 的延迟和增强的上下文理解能力。"
-published: 2026-02-13
-category: "Technology"
-tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
+category: Technology
+date: "2026-02-17"
+description:
+  OpenAI 发布了 GPT-5.3 Codex Spark，这是一款专为提高开发者生产力而设计的轻量级高性能模型。它具有低于 15ms
+  的延迟和增强的上下文理解能力。
 draft: false
+published: 2026-02-13
+tags:
+  - AI
+  - GPT-5.3
+  - Codex
+  - OpenAI
+  - Development
+title: GPT-5.3 Codex Spark：专为开发者打造的超高速编程 AI
 ---
 
 # GPT-5.3 Codex Spark：开发生产力的新标准

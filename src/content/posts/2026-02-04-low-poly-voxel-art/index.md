@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 종이접기나 마인크래프트처럼 단순화된 다각형으로 이루어진 로우 폴리(Low Poly) 아트 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "각진 매력 'Low Poly & Voxel Art' 스타일"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.157Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - 3D
+  - Art Style
+title: 각진 매력 'Low Poly & Voxel Art' 스타일
 updatedDate: "2026-02-07T09:10:33.157Z"
-category: "이미지 생성"
-description: "종이접기나 마인크래프트처럼 단순화된 다각형으로 이루어진 로우 폴리(Low Poly) 아트 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 단순함의 미학: Low Poly & Voxel Art

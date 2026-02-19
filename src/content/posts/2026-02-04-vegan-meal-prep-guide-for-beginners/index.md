@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
+description: 고기 없이도 맛있고 든든하게! AI가 제안하는 영양 만점 비건 밀프렙 레시피와 준비 과정을 소개합니다.
 layout: /src/layouts/Layout.astro
-title: "초보 비건을 위한 완벽한 밀프렙(Meal Prep) 가이드"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.141Z"
+tags:
+  - 비건
+  - 채식
+  - 밀프렙
+  - 건강
+  - ChatGPT
+title: 초보 비건을 위한 완벽한 밀프렙(Meal Prep) 가이드
 updatedDate: "2026-02-07T09:10:33.141Z"
-category: "건강 & 웰니스"
-description: "고기 없이도 맛있고 든든하게! AI가 제안하는 영양 만점 비건 밀프렙 레시피와 준비 과정을 소개합니다."
-tags: ["비건", "채식", "밀프렙", "건강", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 🥗 초보 비건을 위한 완벽한 밀프렙(Meal Prep) 가이드 {#meal-prep}

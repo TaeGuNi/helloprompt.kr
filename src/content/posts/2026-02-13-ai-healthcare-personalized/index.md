@@ -1,10 +1,17 @@
 ---
-title: "AI와 개인 맞춤형 의료: 당신만을 위한 처방전"
-description: "획일화된 치료는 이제 옛말입니다. AI가 유전체 정보를 분석하여 개인별 최적의 치료법을 제시하는 '정밀 의료'의 현주소를 살펴봅니다."
+categories:
+  - AI News
+  - Healthcare
+date: "2026-02-13"
+description: 획일화된 치료는 이제 옛말입니다. AI가 유전체 정보를 분석하여 개인별 최적의 치료법을 제시하는 '정밀 의료'의 현주소를 살펴봅니다.
+heroImage: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-health.jpg"
-categories: ["AI News", "Healthcare"]
-tags: ["AI Healthcare", "Personalized Medicine", "Genomics", "Future Tech"]
+tags:
+  - AI Healthcare
+  - Personalized Medicine
+  - Genomics
+  - Future Tech
+title: "AI와 개인 맞춤형 의료: 당신만을 위한 처방전"
 ---
 
 병원에 가서 "감기약 주세요"라고 말하면, 의사가 내 유전자 정보를 확인하고 나에게 딱 맞는 약을 처방해주는 상상. 이것이 2026년 현재, AI 기술이 실현하고 있는 의료의 미래입니다.

@@ -1,9 +1,10 @@
 ---
-layout: /src/layouts/Layout.astro
-title: Waymo、第6世代ドライバーで完全自動運転を開始
+date: "2026-02-13"
 description: 強化されたセンサー、悪天候への対応力向上、そしてよりスムーズな乗り心地を実現。
+heroImage: /images/blog/default-auto.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/default-auto.jpg"
+title: Waymo、第6世代ドライバーで完全自動運転を開始
 ---
 
 Waymoは、第6世代の自動運転システム（6th-generation driver）を搭載した車両による完全自動運転の運用を開始しました。このアップデートは、ハードウェアとソフトウェアの両方で大きな進歩を遂げており、乗客により安全で快適な体験を提供することを目的としています。

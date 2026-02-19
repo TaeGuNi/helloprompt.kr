@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 친구 관계에서 상처받은 아이를 위한 사회성 코칭
 layout: /src/layouts/Layout.astro
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
 title: "친구가 나랑 안 놀아줘: 관계와 거절 설명하기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
-category: "육아 & 교육"
-description: "친구 관계에서 상처받은 아이를 위한 사회성 코칭"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 '왕따 당했어?' 묻기 전에, 아이 마음 단단하게 만들기

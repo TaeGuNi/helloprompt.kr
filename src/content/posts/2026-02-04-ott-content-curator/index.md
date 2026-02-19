@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 일상
+date: "2026-02-04"
+description: 넷플릭스 메인 화면만 1시간째? 당신의 취향을 분석해 실패 없는 인생작을 찾아드립니다.
 layout: /src/layouts/Layout.astro
-title: "주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.173Z"
+tags:
+  - 넷플릭스
+  - 영화추천
+  - OTT
+  - 드라마
+title: 주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드
 updatedDate: "2026-02-07T09:10:33.173Z"
-category: "일상"
-description: "넷플릭스 메인 화면만 1시간째? 당신의 취향을 분석해 실패 없는 인생작을 찾아드립니다."
-tags: ["넷플릭스", "영화추천", "OTT", "드라마"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드

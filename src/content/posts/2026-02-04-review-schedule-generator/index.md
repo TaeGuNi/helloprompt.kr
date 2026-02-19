@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 학습법/자기계발
+date: "2026-02-04"
+description: 에빙하우스의 망각 곡선 이론에 기반하여, 공부한 내용을 절대 잊지 않도록 최적의 복습 타이밍을 알려주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 공부계획
+  - 망각곡선
+  - 복습
+  - 스케줄링
 title: "망각 곡선을 역주행하라: 복습 스케줄 생성기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.170Z"
 updatedDate: "2026-02-07T09:10:33.170Z"
-category: "학습법/자기계발"
-description: "에빙하우스의 망각 곡선 이론에 기반하여, 공부한 내용을 절대 잊지 않도록 최적의 복습 타이밍을 알려주는 프롬프트입니다."
-tags: ["공부계획", "망각곡선", "복습", "스케줄링"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 망각 곡선을 역주행하라: 복습 스케줄 생성기 {#updated}

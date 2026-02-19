@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 잔소리 없이 아이를 세면대로 보내는 과학적 설득
 layout: /src/layouts/Layout.astro
-title: "왜 손을 씻어야 해? 눈에 안 보이는 세균 설명"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.121Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 왜 손을 씻어야 해? 눈에 안 보이는 세균 설명
 updatedDate: "2026-02-07T09:10:33.121Z"
-category: "육아 & 교육"
-description: "잔소리 없이 아이를 세면대로 보내는 과학적 설득"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 손 씻기 싫어하는 아이에게 '세균 괴물' 보여주기

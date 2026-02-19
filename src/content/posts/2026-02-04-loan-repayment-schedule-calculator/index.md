@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 은행 사이트 들어갈 필요 없이 엑셀에서 바로 만드는 대출 이자 계산기 템플릿입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 엑셀
+  - 대출이자
+  - 재무함수
+  - PMT
 title: "대출 상환 스케줄표: 원리금 균등 vs 원금 균등"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.100Z"
 updatedDate: "2026-02-07T09:10:33.100Z"
-category: "업무 자동화"
-description: "은행 사이트 들어갈 필요 없이 엑셀에서 바로 만드는 대출 이자 계산기 템플릿입니다."
-tags: ["엑셀", "대출이자", "재무함수", "PMT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 대출 상환 스케줄표: 원리금 균등 vs 원금 균등

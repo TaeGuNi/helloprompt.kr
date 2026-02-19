@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 물이 번지는 듯한 효과와 연필 스케치 라인이 어우러진 감성적인 수채화 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "맑고 투명한 'Watercolor Sketch' 수채화 기법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.117Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Art Style
+  - Traditional
+title: 맑고 투명한 'Watercolor Sketch' 수채화 기법
 updatedDate: "2026-02-07T09:10:33.117Z"
-category: "이미지 생성"
-description: "물이 번지는 듯한 효과와 연필 스케치 라인이 어우러진 감성적인 수채화 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 투명한 감성: Watercolor Sketch

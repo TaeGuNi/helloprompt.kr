@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 미국 상원의원 엘리자베스 워런이 주창한 가장 심플하고 강력한 예산 관리 법칙을 적용해드립니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 예산관리
+  - 재테크
+  - "503020"
+  - 저축
 title: "돈 관리의 황금 비율: 50/30/20 법칙 계산기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.138Z"
 updatedDate: "2026-02-07T09:10:33.138Z"
-category: "재테크 & 투자"
-description: "미국 상원의원 엘리자베스 워런이 주창한 가장 심플하고 강력한 예산 관리 법칙을 적용해드립니다."
-tags: ["예산관리", "재테크", "503020", "저축"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 돈 관리의 황금 비율: 50/30/20 법칙 계산기

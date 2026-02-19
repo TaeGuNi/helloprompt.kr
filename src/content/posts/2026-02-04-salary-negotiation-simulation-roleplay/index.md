@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 최종 합격 후 가장 중요한 연봉 협상 테이블. AI를 까다로운 인사팀장으로 설정하여 내 몸값을 방어하고 인상하는 연습을 합니다.
 layout: /src/layouts/Layout.astro
-title: "연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션'"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.135Z"
+tags:
+  - 연봉협상
+  - 처우협의
+  - 이직
+  - 협상스킬
+title: 연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션'
 updatedDate: "2026-02-07T09:10:33.135Z"
-category: "취업 & 이직"
-description: "최종 합격 후 가장 중요한 연봉 협상 테이블. AI를 까다로운 인사팀장으로 설정하여 내 몸값을 방어하고 인상하는 연습을 합니다."
-tags: ["연봉협상", "처우협의", "이직", "협상스킬"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션'

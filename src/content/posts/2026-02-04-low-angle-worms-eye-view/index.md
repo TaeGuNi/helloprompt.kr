@@ -1,13 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 피사체를 아래에서 위로 올려다보며 압도적인 위엄과 크기를 강조하는 로우 앵글 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "웅장함을 더하는 'Low Angle' (Worm's Eye View)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.165Z"
-updatedDate: "2026-02-07T09:10:33.165Z"
-category: "이미지 생성"
-description: "피사체를 아래에서 위로 올려다보며 압도적인 위엄과 크기를 강조하는 로우 앵글 프롬프트입니다."
 tags:
-  ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Camera Angle
+  - Composition
+title: 웅장함을 더하는 'Low Angle' (Worm's Eye View)
+updatedDate: "2026-02-07T09:10:33.165Z"
 ---
 
 # (Updated) (Updated) (Updated) 📝 거인의 시선: Low Angle

@@ -1,10 +1,17 @@
 ---
-title: "Physical AI: Hype vs. Reality"
-description: "Media hypes LG and Samsung robots as world-changers, but engineering reality still struggles with physics."
+date: "2026-02-14"
+description:
+  Media hypes LG and Samsung robots as world-changers, but engineering
+  reality still struggles with physics.
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: "Physical AI: Hype vs. Reality"
 ---
 
 When tech expo season like CES arrives, newsfeeds get flooded with robots. Smart home robots from LG and Samsung make cute expressions, looking like they're ready to take over our household chores immediately. The media calls this the arrival of "Physical AI," praising that Large Language Models (LLMs) have finally gained a body.

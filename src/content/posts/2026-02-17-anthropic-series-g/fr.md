@@ -1,9 +1,15 @@
 ---
-title: "Anthropic Lève des Fonds de Série G"
-description: "Anthropic sécurise un financement de série G avec une valorisation de 30 milliards de dollars, en se concentrant sur la sécurité de l'IA."
+date: "2026-02-17"
+description:
+  Anthropic sécurise un financement de série G avec une valorisation de
+  30 milliards de dollars, en se concentrant sur la sécurité de l'IA.
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic Lève des Fonds de Série G
 ---
 
 Anthropic a levé un montant important lors de son tour de table de série G, atteignant une valorisation de **30 milliards de dollars**. Ce financement accélérera le développement des modèles d'IA et la recherche sur la sécurité d'Anthropic.

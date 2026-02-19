@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 코딩/IT
+date: "2026-02-04"
+description: 남이 짠 복잡한 코드를 한 줄 한 줄 주석(Comment)을 달아 설명해주는 초보자용 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "이 코드, 무슨 뜻이죠? 친절한 코드 해설사"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.120Z"
+tags:
+  - 코딩공부
+  - 코드리뷰
+  - 파이썬
+  - 자바스크립트
+title: 이 코드, 무슨 뜻이죠? 친절한 코드 해설사
 updatedDate: "2026-02-07T09:10:33.120Z"
-category: "코딩/IT"
-description: "남이 짠 복잡한 코드를 한 줄 한 줄 주석(Comment)을 달아 설명해주는 초보자용 프롬프트입니다."
-tags: ["코딩공부", "코드리뷰", "파이썬", "자바스크립트"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 이 코드, 무슨 뜻이죠? 친절한 코드 해설사

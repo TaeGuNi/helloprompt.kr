@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 학습법/자기계발
+date: "2026-02-04"
+description: 긴 텍스트나 강의 노트를 입력하면 Anki, Quizlet 등에 넣을 수 있는 플래시카드(Q&A) 쌍으로 변환해주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 암기
+  - 플래시카드
+  - Anki
+  - Quizlet
 title: "손목 아픈 깜지 대신: 암기 카드 자동 생성기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.098Z"
 updatedDate: "2026-02-07T09:10:33.098Z"
-category: "학습법/자기계발"
-description: "긴 텍스트나 강의 노트를 입력하면 Anki, Quizlet 등에 넣을 수 있는 플래시카드(Q&A) 쌍으로 변환해주는 프롬프트입니다."
-tags: ["암기", "플래시카드", "Anki", "Quizlet"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 손목 아픈 깜지 대신: 암기 카드 자동 생성기

@@ -1,9 +1,15 @@
 ---
-title: "Anthropic Recauda Financiación de Serie G"
-description: "Anthropic asegura financiación de Serie G con una valoración de $30 mil millones, enfocándose en la seguridad de la IA."
+date: "2026-02-17"
+description:
+  Anthropic asegura financiación de Serie G con una valoración de $30 mil
+  millones, enfocándose en la seguridad de la IA.
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic Recauda Financiación de Serie G
 ---
 
 Anthropic ha recaudado una cantidad significativa en su ronda de financiación de Serie G, alcanzando una valoración de **$30 mil millones**. Esta inversión acelerará el desarrollo de modelos de IA y la investigación de seguridad de Anthropic.

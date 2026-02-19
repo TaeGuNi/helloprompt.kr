@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 웨스 앤더슨 영화처럼 좌우가 완벽하게 대칭되는 안정적이고 기이한 구도 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "완벽한 균형미 'Symmetrical Composition' (대칭 구도)"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.132Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Composition
+  - Art Style
+title: 완벽한 균형미 'Symmetrical Composition' (대칭 구도)
 updatedDate: "2026-02-07T09:10:33.132Z"
-category: "이미지 생성"
-description: "웨스 앤더슨 영화처럼 좌우가 완벽하게 대칭되는 안정적이고 기이한 구도 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 ---
 
 # 📝 강박적인 대칭: Symmetrical Composition

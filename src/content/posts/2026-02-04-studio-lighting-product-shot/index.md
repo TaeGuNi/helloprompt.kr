@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 깔끔하고 전문적인 제품 사진이나 프로필을 원한다면 스튜디오 조명을 세팅하세요.
 layout: /src/layouts/Layout.astro
-title: "제품 사진의 정석 'Studio Lighting' 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.159Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Product
+  - Lighting
+title: 제품 사진의 정석 'Studio Lighting' 프롬프트
 updatedDate: "2026-02-07T09:10:33.159Z"
-category: "이미지 생성"
-description: "깔끔하고 전문적인 제품 사진이나 프로필을 원한다면 스튜디오 조명을 세팅하세요."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 프로의 스튜디오: Studio Lighting

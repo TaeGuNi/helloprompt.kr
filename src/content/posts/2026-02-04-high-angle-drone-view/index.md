@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 이미지 생성
+date: "2026-02-04"
+description: 하늘에서 내려다보는 시점으로 전체적인 지형이나 배치를 보여주는 하이 앵글/드론 샷 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "전지적 시점 'High Angle' (Drone View) 활용법"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.105Z"
+tags:
+  - Midjourney
+  - DALL-E
+  - Stable Diffusion
+  - Camera Angle
+  - Landscape
+title: 전지적 시점 'High Angle' (Drone View) 활용법
 updatedDate: "2026-02-07T09:10:33.105Z"
-category: "이미지 생성"
-description: "하늘에서 내려다보는 시점으로 전체적인 지형이나 배치를 보여주는 하이 앵글/드론 샷 프롬프트입니다."
-tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 신의 시선: High Angle & Drone View

@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 은행 창구에서 하는 지루한 설문조사는 그만. AI가 당신의 진짜 위험 감수 성향을 파악해줍니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 투자성향
+  - 심리테스트
+  - 자산배분
+  - 멘탈관리
 title: "내 투자 성향 테스트: 쫄보인가 야수인가?"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.118Z"
 updatedDate: "2026-02-07T09:10:33.118Z"
-category: "재테크 & 투자"
-description: "은행 창구에서 하는 지루한 설문조사는 그만. AI가 당신의 진짜 위험 감수 성향을 파악해줍니다."
-tags: ["투자성향", "심리테스트", "자산배분", "멘탈관리"]
 ---
 
 # 📝 내 투자 성향 테스트: 쫄보인가 야수인가?

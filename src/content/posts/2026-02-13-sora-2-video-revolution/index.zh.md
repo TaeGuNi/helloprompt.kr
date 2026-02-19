@@ -1,10 +1,17 @@
 ---
-title: "Sora 2.0与AI视频革命：让想象成为现实"
-description: "OpenAI发布的Sora 2.0彻底颠覆了视频制作行业。分析在只需一行文本即可制作电影级视频的时代，创作者面临的机遇与危机。"
+categories:
+  - AI News
+  - Creative
+date: "2026-02-13"
+description: OpenAI发布的Sora 2.0彻底颠覆了视频制作行业。分析在只需一行文本即可制作电影级视频的时代，创作者面临的机遇与危机。
+heroImage: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/sora-2.jpg"
-categories: ["AI News", "Creative"]
-tags: ["Sora 2.0", "AI Video", "Generative AI", "Content Creation"]
+tags:
+  - Sora 2.0
+  - AI Video
+  - Generative AI
+  - Content Creation
+title: Sora 2.0与AI视频革命：让想象成为现实
 ---
 
 “所言即所见。”随着Sora 2.0向公众发布，这句话不再是比喻，而是现实。超越了早期版本的新奇感，它现在展示了足以用于实际广播和电影制作的质量。

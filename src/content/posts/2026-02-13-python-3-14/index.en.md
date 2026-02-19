@@ -1,9 +1,15 @@
 ---
-title: "Python 3.14: A Leap Forward in Speed and Type Safety"
-description: "Exploring the new features of Python 3.14, including JIT compiler improvements and Pattern Matching v3."
+date: "2026-02-13"
+description:
+  Exploring the new features of Python 3.14, including JIT compiler improvements
+  and Pattern Matching v3.
+heroImage: ./cover.jpg
 pubDate: "2026-02-13"
-heroImage: "./cover.jpg"
-tags: ["python", "programming", "tech-trends"]
+tags:
+  - python
+  - programming
+  - tech-trends
+title: "Python 3.14: A Leap Forward in Speed and Type Safety"
 ---
 
 Python 3.14 has finally arrived. This release significantly improves upon the JIT (Just-In-Time) compiler introduced in 3.13 and includes various features to enhance the developer experience.

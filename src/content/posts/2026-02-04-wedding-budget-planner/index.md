@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 재테크 & 투자
+date: "2026-02-04"
+description: 스드메부터 혼수까지, 결혼 준비 과정에서 발생하는 모든 비용을 예측하고 아껴주는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 결혼
+  - 예산
+  - 웨딩
+  - 신혼부부
 title: "결혼 예산 엑셀: 추가금 폭탄 막는 체크리스트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.118Z"
 updatedDate: "2026-02-07T09:10:33.118Z"
-category: "재테크 & 투자"
-description: "스드메부터 혼수까지, 결혼 준비 과정에서 발생하는 모든 비용을 예측하고 아껴주는 프롬프트입니다."
-tags: ["결혼", "예산", "웨딩", "신혼부부"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 결혼 예산 엑셀: 추가금 폭탄 막는 체크리스트

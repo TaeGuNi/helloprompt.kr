@@ -1,10 +1,19 @@
 ---
-title: "GPT-5.3 Codex Spark: ذكاء اصطناعي فائق السرعة في البرمجة للمطورين"
-description: "كشفت OpenAI عن GPT-5.3 Codex Spark، وهو نموذج عالي الأداء وخفيف الوزن مصمم لزيادة إنتاجية المطورين. يتميز بزمن انتقال أقل من 15 مللي ثانية وفهم محسّن للسياق."
-published: 2026-02-13
-category: "Technology"
-tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
+category: Technology
+date: "2026-02-17"
+description:
+  كشفت OpenAI عن GPT-5.3 Codex Spark، وهو نموذج عالي الأداء وخفيف الوزن
+  مصمم لزيادة إنتاجية المطورين. يتميز بزمن انتقال أقل من 15 مللي ثانية وفهم محسّن
+  للسياق.
 draft: false
+published: 2026-02-13
+tags:
+  - AI
+  - GPT-5.3
+  - Codex
+  - OpenAI
+  - Development
+title: "GPT-5.3 Codex Spark: ذكاء اصطناعي فائق السرعة في البرمجة للمطورين"
 ---
 
 # GPT-5.3 Codex Spark: معيار جديد لإنتاجية المطورين

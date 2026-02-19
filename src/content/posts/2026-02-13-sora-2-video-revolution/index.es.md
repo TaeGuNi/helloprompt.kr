@@ -1,10 +1,20 @@
 ---
-title: "Sora 2.0 y la Revolución del Video con IA: De la Imaginación a la Realidad"
-description: "El anuncio de Sora 2.0 por parte de OpenAI ha trastocado la industria de la producción de video. Analizamos las oportunidades y crisis que enfrentan los creadores en una era donde una sola línea de texto crea video cinematográfico."
+categories:
+  - AI News
+  - Creative
+date: "2026-02-13"
+description:
+  El anuncio de Sora 2.0 por parte de OpenAI ha trastocado la industria
+  de la producción de video. Analizamos las oportunidades y crisis que enfrentan los
+  creadores en una era donde una sola línea de texto crea video cinematográfico.
+heroImage: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/sora-2.jpg"
-categories: ["AI News", "Creative"]
-tags: ["Sora 2.0", "AI Video", "Generative AI", "Content Creation"]
+tags:
+  - Sora 2.0
+  - AI Video
+  - Generative AI
+  - Content Creation
+title: "Sora 2.0 y la Revolución del Video con IA: De la Imaginación a la Realidad"
 ---
 
 "Lo que dices es lo que ves". Con el lanzamiento público de Sora 2.0, esta frase ya no es una metáfora sino una realidad. Más allá de la novedad de las primeras versiones, ahora demuestra una calidad adecuada para la transmisión real y la producción cinematográfica.

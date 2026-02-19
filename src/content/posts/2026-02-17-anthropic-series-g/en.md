@@ -1,9 +1,15 @@
 ---
-title: "Anthropic Raises Series G Funding"
-description: "Anthropic secures Series G funding at a $30B valuation, focusing on AI safety."
+date: "2026-02-17"
+description:
+  Anthropic secures Series G funding at a $30B valuation, focusing on AI
+  safety.
+heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
-heroImage: "/images/anthropic-series-g.jpg"
-tags: ["AI", "Investment", "Safety"]
+tags:
+  - AI
+  - Investment
+  - Safety
+title: Anthropic Raises Series G Funding
 ---
 
 Anthropic has raised a significant amount in its Series G funding round, reaching a valuation of **$30 billion**. This investment will accelerate Anthropic's AI model development and safety research.

@@ -1,12 +1,17 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.174Z"
-updatedDate: "2026-02-07T09:10:33.175Z"
-category: "건강 & 웰니스"
+author: Zzabbis
+category: 건강 & 웰니스
+date: "2026-02-04"
 description: "'나는 망했어'라는 생각이 들 때, AI가 상황을 다른 관점으로 해석하여 긍정적인 에너지로 바꿔드립니다."
-tags: ["멘탈케어", "인지행동치료", "리프레이밍", "자기긍정", "ChatGPT"]
+layout: /src/layouts/Layout.astro
+tags:
+  - 멘탈케어
+  - 인지행동치료
+  - 리프레이밍
+  - 자기긍정
+  - ChatGPT
+title: 부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습
+updatedDate: "2026-02-07T09:10:33.175Z"
 ---
 
 # (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🔄 부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습 {#reframing}

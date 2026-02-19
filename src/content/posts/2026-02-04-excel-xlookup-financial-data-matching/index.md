@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 오류 나고 느려터진 VLOOKUP 때문에 야근하시나요? 더 강력하고 쉬운 XLOOKUP으로 갈아타세요.
 layout: /src/layouts/Layout.astro
+tags:
+  - 엑셀
+  - 함수
+  - XLOOKUP
+  - 데이터정리
 title: "엑셀 VLOOKUP은 잊으세요: 재무 데이터 매칭의 신, XLOOKUP"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
-category: "업무 자동화"
-description: "오류 나고 느려터진 VLOOKUP 때문에 야근하시나요? 더 강력하고 쉬운 XLOOKUP으로 갈아타세요."
-tags: ["엑셀", "함수", "XLOOKUP", "데이터정리"]
 ---
 
 # 📝 엑셀 VLOOKUP은 잊으세요: 재무 데이터 매칭의 신, XLOOKUP

@@ -1,10 +1,18 @@
 ---
-title: "IA Física: Exageración vs. Realidad"
-description: "Los medios exageran los robots de LG y Samsung como si fueran a cambiar el mundo, pero la realidad de la ingeniería sigue luchando contra las leyes de la física."
+date: "2026-02-14"
+description:
+  Los medios exageran los robots de LG y Samsung como si fueran a cambiar
+  el mundo, pero la realidad de la ingeniería sigue luchando contra las leyes de la
+  física.
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: "IA Física: Exageración vs. Realidad"
 ---
 
 Cuando llega la temporada de exposiciones tecnológicas como el CES, las noticias se inundan de historias sobre robots. Los robots domésticos inteligentes de LG y Samsung hacen expresiones lindas, pareciendo listos para encargarse de nuestras tareas domésticas de inmediato. Los medios llaman a esto la llegada de la "IA Física" (Physical AI), elogiando que los Grandes Modelos de Lenguaje (LLM) finalmente han ganado un cuerpo.

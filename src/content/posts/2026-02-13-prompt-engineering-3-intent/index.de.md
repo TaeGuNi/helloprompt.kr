@@ -1,10 +1,20 @@
 ---
-title: "Prompt Engineering 3.0: Die Absicht ist Befehl"
-description: "Hören Sie auf, komplexe Prompts zu schreiben. Die Ära des 'Absicht-basierten Promptings', in der die KI die verborgene Absicht des Benutzers erfasst, ist angebrochen. Eine einfachere, mächtigere Art der Kommunikation."
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description:
+  Hören Sie auf, komplexe Prompts zu schreiben. Die Ära des 'Absicht-basierten
+  Promptings', in der die KI die verborgene Absicht des Benutzers erfasst, ist angebrochen.
+  Eine einfachere, mächtigere Art der Kommunikation.
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: "Prompt Engineering 3.0: Die Absicht ist Befehl"
 ---
 
 Modifikatoren wie "Erkläre im Detail" oder "Sag es mir Schritt für Schritt" sind nicht mehr notwendig. Der Kern der Ära des Prompt Engineering 3.0 ist nicht 'Syntax', sondern 'Absicht'.

@@ -1,9 +1,16 @@
 ---
-title: "L'Éthique des Relations avec l'IA : Chatbots, Deepfakes et Dilemmes"
-description: "Exploration des implications éthiques des liens émotionnels avec les chatbots IA et l'essor des compagnons deepfake."
+date: "2026-02-14"
+description:
+  Exploration des implications éthiques des liens émotionnels avec les
+  chatbots IA et l'essor des compagnons deepfake.
+heroImage: ./cover.jpg
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["AI", "Ethics", "Society", "Relationships"]
+tags:
+  - AI
+  - Ethics
+  - Society
+  - Relationships
+title: "L'Éthique des Relations avec l'IA : Chatbots, Deepfakes et Dilemmes"
 ---
 
 Les histoires de personnes formant des liens émotionnels profonds avec des chatbots IA deviennent de plus en plus courantes sur des plateformes comme Reddit. « Elle me comprend mieux que quiconque » n'est plus seulement une réplique du film _Her_. En ce jour de la Saint-Valentin 2026, nous devons sérieusement considérer l'impact social et les dilemmes éthiques des relations avec l'IA.

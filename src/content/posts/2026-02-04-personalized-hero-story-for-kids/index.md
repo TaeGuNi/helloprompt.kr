@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 육아 & 교육
+date: "2026-02-04"
+description: 자존감을 높여주는 마법, 아이 이름을 넣은 맞춤형 모험 이야기
 layout: /src/layouts/Layout.astro
-title: "우리 아이가 주인공인 영웅 동화 만들기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.146Z"
+tags:
+  - 육아
+  - 교육
+  - AI프롬프트
+  - ChatGPT
+  - 육아꿀팁
+title: 우리 아이가 주인공인 영웅 동화 만들기
 updatedDate: "2026-02-07T09:10:33.146Z"
-category: "육아 & 교육"
-description: "자존감을 높여주는 마법, 아이 이름을 넣은 맞춤형 모험 이야기"
-tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 자존감 뿜뿜! 내 아이가 주인공인 '슈퍼 히어로' 동화

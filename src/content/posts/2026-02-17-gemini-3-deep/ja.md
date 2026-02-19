@@ -1,10 +1,18 @@
 ---
-title: "Google Gemini 3: 深層思考 (Deep Think) の新たな地平"
-description: "Googleの最新AIモデルGemini 3が示す強力な推論能力と深層思考機能について探ります。"
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description: Googleの最新AIモデルGemini 3が示す強力な推論能力と深層思考機能について探ります。
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: 深層思考 (Deep Think) の新たな地平"
 ---
 
 GoogleがついにGemini 3を公開しました。今回のアップデートの核心は、間違いなく **「深層思考 (Deep Think)」** 能力の飛躍的な向上です。単にテキストを生成するだけでなく、複雑な問題を段階的に分析し、論理的に解決する能力が大幅に強化されました。

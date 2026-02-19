@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 크리에이터
+date: "2026-02-07"
+description: AI에게 '클릭할 수밖에 없는' 제목과 썸네일 아이디어를 맡기세요. 조회수가 달라집니다.
 layout: /src/layouts/Layout.astro
+tags:
+  - 유튜브
+  - 썸네일
+  - 제목짓기
+  - 어그로
+  - 조회수
 title: "망한 채널 심폐소생: 100만 유튜버의 어그로 공식"
-author: "Zzabbis"
-date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
-category: "크리에이터"
-description: "AI에게 '클릭할 수밖에 없는' 제목과 썸네일 아이디어를 맡기세요. 조회수가 달라집니다."
-tags: ["유튜브", "썸네일", "제목짓기", "어그로", "조회수"]
 ---
 
 # (Updated) (Updated) (Updated) 📺 "영상이 아무리 좋아도, 클릭 안 하면 0원입니다."

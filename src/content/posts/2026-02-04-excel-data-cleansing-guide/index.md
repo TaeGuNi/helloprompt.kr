@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: 주소 분리, 날짜 형식 통일 등 데이터 클렌징 방법 찾기.
 layout: /src/layouts/Layout.astro
-title: "지저분한 엑셀 데이터, 깔끔하게 전처리하기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.142Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 지저분한 엑셀 데이터, 깔끔하게 전처리하기
 updatedDate: "2026-02-07T09:10:33.143Z"
-category: "업무 자동화"
-description: "주소 분리, 날짜 형식 통일 등 데이터 클렌징 방법 찾기."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 지저분한 엑셀 데이터, 깔끔하게 전처리하기

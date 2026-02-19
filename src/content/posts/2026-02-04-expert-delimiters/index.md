@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 프롬프트 엔지니어링
+date: "2026-02-04"
+description:
+  긴 글을 요약하거나 코드를 수정할 때 AI가 헷갈려하나요? 특수기호로 구획을 나눠주는 Delimiter 기법으로 정확도를 2배
+  높이세요.
 layout: /src/layouts/Layout.astro
-title: 'AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요 (Delimiters)'
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.132Z"
+tags:
+  - 구분자
+  - 가독성
+  - XML태그
+title: AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요 (Delimiters)
 updatedDate: "2026-02-07T09:10:33.132Z"
-category: "프롬프트 엔지니어링"
-description: "긴 글을 요약하거나 코드를 수정할 때 AI가 헷갈려하나요? 특수기호로 구획을 나눠주는 Delimiter 기법으로 정확도를 2배 높이세요."
-tags: ["구분자", "가독성", "XML태그"]
 ---
 
 # (Updated) (Updated) (Updated) 🚧 AI가 내 말을 못 알아듣는다면? "울타리"를 쳐주세요

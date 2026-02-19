@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 외국어 학습
+date: "2026-02-04"
+description: 단순 암기는 이제 그만! 실제 문맥 속에서 단어의 뉘앙스까지 완벽하게 익히는 프롬프트입니다.
 layout: /src/layouts/Layout.astro
-title: "문맥으로 익히는 영단어 마스터기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.095Z"
+tags:
+  - 영어학습
+  - 단어암기
+  - 프롬프트
+  - 교육
+title: 문맥으로 익히는 영단어 마스터기
 updatedDate: "2026-02-07T09:10:33.096Z"
-category: "외국어 학습"
-description: "단순 암기는 이제 그만! 실제 문맥 속에서 단어의 뉘앙스까지 완벽하게 익히는 프롬프트입니다."
-tags: ["영어학습", "단어암기", "프롬프트", "교육"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 문맥으로 익히는 영단어 마스터기

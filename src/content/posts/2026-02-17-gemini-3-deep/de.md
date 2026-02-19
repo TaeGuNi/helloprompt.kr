@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini 3: Ein neuer Horizont für Deep Think"
-description: "Erkundung der leistungsstarken Argumentationsfähigkeiten und Deep Think-Funktionen von Googles neuestem KI-Modell, Gemini 3."
+categories:
+  - AI
+  - Technology
+date: "2026-02-17"
+description:
+  Erkundung der leistungsstarken Argumentationsfähigkeiten und Deep Think-Funktionen
+  von Googles neuestem KI-Modell, Gemini 3.
+heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/blog-placeholder-3.jpg"
-categories: ["AI", "Technology"]
-tags: ["Google", "Gemini", "Deep Think", "LLM", "Reasoning"]
+tags:
+  - Google
+  - Gemini
+  - Deep Think
+  - LLM
+  - Reasoning
+title: "Google Gemini 3: Ein neuer Horizont für Deep Think"
 ---
 
 Google hat endlich Gemini 3 enthüllt. Der Kern dieses Updates ist die dramatische Verbesserung der **'Deep Think'**-Fähigkeiten. Über die einfache Textgenerierung hinaus wurde die Fähigkeit, komplexe Probleme schrittweise zu analysieren und logisch zu lösen, erheblich verbessert.

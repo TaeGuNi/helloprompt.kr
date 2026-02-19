@@ -1,9 +1,16 @@
 ---
-title: "The Ethics of AI Relationships: Chatbots, Deepfakes, and Dilemmas"
-description: "Exploring the ethical implications of emotional bonds with AI chatbots and the rise of deepfake companions."
+date: "2026-02-14"
+description:
+  Exploring the ethical implications of emotional bonds with AI chatbots
+  and the rise of deepfake companions.
+heroImage: ./cover.jpg
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["AI", "Ethics", "Society", "Relationships"]
+tags:
+  - AI
+  - Ethics
+  - Society
+  - Relationships
+title: "The Ethics of AI Relationships: Chatbots, Deepfakes, and Dilemmas"
 ---
 
 Stories of people forming deep emotional bonds with AI chatbots are becoming increasingly common on platforms like Reddit. "She understands me better than anyone" is no longer just a line from the movie _Her_. As we observe Valentine's Day in 2026, we must seriously consider the social impact and ethical dilemmas of relationships with AI.

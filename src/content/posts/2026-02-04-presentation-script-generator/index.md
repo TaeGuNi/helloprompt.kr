@@ -1,12 +1,16 @@
 ---
+author: Zzabbis
+category: 업무 자동화
+date: "2026-02-04"
+description: PPT 슬라이드 별로 자연스러운 발표 스크립트 생성하기.
 layout: /src/layouts/Layout.astro
-title: "발표 공포증 극복! 프레젠테이션 대본짜기"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.140Z"
+tags:
+  - 업무효율
+  - 엑셀
+  - 보고서
+  - ChatGPT
+title: 발표 공포증 극복! 프레젠테이션 대본짜기
 updatedDate: "2026-02-07T09:10:33.140Z"
-category: "업무 자동화"
-description: "PPT 슬라이드 별로 자연스러운 발표 스크립트 생성하기."
-tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 발표 공포증 극복! 프레젠테이션 대본짜기

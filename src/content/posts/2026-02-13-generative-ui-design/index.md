@@ -1,11 +1,20 @@
 ---
+categories:
+  - UI/UX Design
+  - Generative AI
+date: "2026-02-13"
+description:
+  고정된 메뉴와 버튼의 시대는 끝났습니다. 사용자의 의도를 실시간으로 파악하여 화면을 그려내는 '생성형 UI'의 개념과 디자인
+  프롬프트를 소개합니다.
+heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
-title: "생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래"
-description: "고정된 메뉴와 버튼의 시대는 끝났습니다. 사용자의 의도를 실시간으로 파악하여 화면을 그려내는 '생성형 UI'의 개념과 디자인 프롬프트를 소개합니다."
 pubDate: "2026-02-13"
-heroImage: "/images/blog/2026-02-13-generative-ui.jpg"
-categories: ["UI/UX Design", "Generative AI"]
-tags: ["Generative UI", "Adaptive Design", "No-UI", "UX Trends"]
+tags:
+  - Generative UI
+  - Adaptive Design
+  - No-UI
+  - UX Trends
+title: "생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래"
 ---
 
 # (Updated) (Updated) (Updated) 🎨 생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래 {#generative-ui}

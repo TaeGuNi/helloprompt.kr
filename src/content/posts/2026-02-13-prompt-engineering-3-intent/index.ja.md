@@ -1,10 +1,17 @@
 ---
-title: "プロンプトエンジニアリング3.0：意図（Intent）こそが命令だ"
-description: "複雑なプロンプトはもう不要。AIがユーザーの隠れた意図を把握する「インテントベース・プロンプティング」の時代が到来しました。より簡潔で強力なコミュニケーション方法を紹介します。"
+categories:
+  - Prompt Engineering
+  - AI Tips
+date: "2026-02-13"
+description: 複雑なプロンプトはもう不要。AIがユーザーの隠れた意図を把握する「インテントベース・プロンプティング」の時代が到来しました。より簡潔で強力なコミュニケーション方法を紹介します。
+heroImage: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "AI Tips"]
-tags: ["Prompt Engineering", "Intent-Based", "AI Interaction", "Future of Work"]
+tags:
+  - Prompt Engineering
+  - Intent-Based
+  - AI Interaction
+  - Future of Work
+title: プロンプトエンジニアリング3.0：意図（Intent）こそが命令だ
 ---
 
 「詳しく説明して」「ステップバイステップで教えて」といった修飾語はもう必要ありません。プロンプトエンジニアリング3.0時代の核心は「構文（Syntax）」ではなく「意図（Intent）」です。

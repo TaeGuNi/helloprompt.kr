@@ -1,12 +1,17 @@
 ---
+author: Zzabbis
+category: 취업 & 이직
+date: "2026-02-04"
+description: 단순 번역이 아닙니다. 영미권 채용 문화에 맞는 표현과 형식으로 한글 이력서를 완벽하게 변환해줍니다.
 layout: /src/layouts/Layout.astro
-title: "한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트"
-author: "Zzabbis"
-date: "2026-02-07T09:10:33.172Z"
+tags:
+  - 영문이력서
+  - Resume
+  - 영어면접
+  - 외국계취업
+  - 번역
+title: 한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트
 updatedDate: "2026-02-07T09:10:33.173Z"
-category: "취업 & 이직"
-description: "단순 번역이 아닙니다. 영미권 채용 문화에 맞는 표현과 형식으로 한글 이력서를 완벽하게 변환해줍니다."
-tags: ["영문이력서", "Resume", "영어면접", "외국계취업", "번역"]
 ---
 
 # (Updated) (Updated) (Updated) 📝 한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트 {#resume}

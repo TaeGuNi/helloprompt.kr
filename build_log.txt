@@ -1,0 +1,19 @@
+
+> helloprompt.kr@1.5.3 build /Users/jjhome/openclaw/5/.openclaw/workspace
+> astro check && astro build
+
+16:09:59 [content] Syncing content
+[InvalidContentEntryDataError] posts → 2026-02-13-ai-healthcare-personalized/indexde data does not match collection schema.
+
+  date**: **date: Invalid date
+
+  Hint:
+    See https://docs.astro.build/en/guides/content-collections/ for more information on content schemas.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/invalid-content-entry-data-error/
+  Location:
+    /Users/jjhome/openclaw/5/.openclaw/workspace/src/content/posts/2026-02-13-ai-healthcare-personalized/index.de.md:0:0
+  Stack trace:
+    at getEntryDataAndImages (file:///Users/jjhome/openclaw/5/.openclaw/workspace/node_modules/.pnpm/astro@5.17.1_@types+node@20.11.0_@vercel+blob@1.0.2_jiti@2.6.1_rollup@2.79.2_terser@5.4_675315ea375052358357135858ea18c7/node_modules/astro/dist/content/utils.js:168:26)
+    at async syncData (/Users/jjhome/openclaw/5/.openclaw/workspace/node_modules/.pnpm/astro@5.17.1_@types+node@20.11.0_@vercel+blob@1.0.2_jiti@2.6.1_rollup@2.79.2_terser@5.4_675315ea375052358357135858ea18c7/node_modules/astro/dist/content/loaders/glob.js:97:28)
+ ELIFECYCLE  Command failed with exit code 1.

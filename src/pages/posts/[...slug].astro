@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => {
+    // Convert YYYY-MM-DD-slug/index.md to YYYY-MM-DD-slug
+    const slug = post.id.replace(/\/index\.md$/, "");
+    return {
+      params: { slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<Content />

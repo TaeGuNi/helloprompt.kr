@@ -9,8 +9,6 @@ description: "배경을 흐릿하게 날려서 피사체를 돋보이게 하고,
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 
-# 📝 빛망울의 마법: Bokeh & Depth of Field
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

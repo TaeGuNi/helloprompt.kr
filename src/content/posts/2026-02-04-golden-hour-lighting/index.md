@@ -9,8 +9,6 @@ description: "따뜻하고 감성적인 사진의 치트키, 골든 아워(Golde
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 
-# 📝 마법의 시간: Golden Hour
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

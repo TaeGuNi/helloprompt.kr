@@ -7,8 +7,6 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
-# Der KI-Arzt betritt die Klinik
-
 KI expandiert über die Radiologie hinaus. Wir beleuchten KI nicht als Ersatz, sondern als Partner, der die Fähigkeiten der Ärzte erweitert.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

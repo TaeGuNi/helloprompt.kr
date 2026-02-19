@@ -9,8 +9,6 @@ description: "와이파이 신호만으로 사람의 움직임을 추적하는 �
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 
-# 📝 벽 너머를 보는 눈, 와이파이 감시
-
 - **🎯 추천 대상:** 보안 전문가, 프라이버시 관심 있는 분
 - **⏱️ 읽는 시간:** 2분
 - **🤖 관련 기술:** WiFi Sensing, CSI (Channel State Information)

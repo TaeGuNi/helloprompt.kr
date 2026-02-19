@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 ---
 
-# 생각의 사슬(Chain of Thought) 추론 {#chain-of-thought}
-
 ## 소개
 
 급변하는 대규모 언어 모델(LLM) 환경에서, 개발자들은 끊임없이 더 정확하고 신뢰할 수 있는 응답을 이끌어낼 방법을 모색하고 있습니다. GPT-4나 Claude 3와 같은 모델들은 기술적 위업이라 할 수 있지만, 표준적인 "입력-출력" 프롬프트 전략으로 접근할 때 다단계 추론 작업에서 종종 어려움을 겪습니다.

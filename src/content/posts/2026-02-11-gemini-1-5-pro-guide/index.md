@@ -9,8 +9,6 @@ description: "긴 문맥(Long Context) 처리에 강한 Gemini. 100만 토큰을
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 
-# ♊ Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지
-
 - **🎯 추천 대상:** 300페이지짜리 PDF 문서를 요약해야 하는 대학원생, 방대한 로그 파일을 분석해야 하는 개발자
 - **⏱️ 소요 시간:** 3분 (문서 업로드 및 질문)
 - **🤖 추천 모델:** Gemini 1.5 Pro (Google AI Studio)

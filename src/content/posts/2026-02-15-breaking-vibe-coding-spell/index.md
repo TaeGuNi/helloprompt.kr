@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 ---
 
-# 바이브 코딩(Vibe Coding)의 주술 깨기 {#vibe-coding}
-
 ## 들어가며 {#intro}
 
 지난 몇 년간 소프트웨어 업계는 이른바 '바이브 코딩(Vibe Coding)'이라는 것에 매료되어 있었습니다. 우리 모두 경험해 보았을 것입니다. LLM에 모호한 프롬프트를 입력하면 _대충_ 작동하는 코드가 튀어나오고, 결과물이 '느낌상' 괜찮아질 때까지 프롬프트를 수정하는 과정 말입니다. 이는 UI가 렌더링되고 당장 오류가 발생하지 않으면 배포해 버리는, 현대적이고 AI가 보조하는 형태의 '우연에 의한 코딩(coding by coincidence)'입니다.

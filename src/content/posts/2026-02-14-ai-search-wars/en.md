@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# AI Search Wars: Google vs OpenAI
-
 Traditional keyword search is ending. We analyze how conversational AI search is fundamentally changing how we find information.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

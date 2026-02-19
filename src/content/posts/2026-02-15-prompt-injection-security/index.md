@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]
 ---
 
-# 프롬프트 인젝션 보안 위험 (Prompt Injection Security Risks) {#prompt-injection-security-risks}
-
 ## 개요 (Introduction) {#introduction}
 
 급변하는 생성형 AI(Generative AI) 환경에서, 거대 언어 모델(LLM)은 단순한 챗봇을 넘어 복잡한 애플리케이션을 구동하는 강력한 엔진으로 진화했습니다. 하지만 이러한 능력의 확장은 새로운 유형의 보안 위협을 동반합니다. 그중 가장 만연하고 기만적인 위협 중 하나가 바로 **프롬프트 인젝션(Prompt Injection)**입니다. AI 통합 시스템을 구축하는 개발자에게 이 취약점을 이해하는 것은 더 이상 선택 사항이 아니며, 애플리케이션 계층을 보호하기 위한 필수 요건입니다.

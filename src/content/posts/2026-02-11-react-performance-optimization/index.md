@@ -9,8 +9,6 @@ description: "습관적으로 쓰는 useMemo, 정말 필요할까? React Profile
 tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 ---
 
-# ⚡️ React 성능 최적화: 렌더링 낭비 0%에 도전한다
-
 - **🎯 추천 대상:** "앱이 왜 이렇게 버벅대지?" 고민하는 프론트엔드 개발자, `useEffect` 무한 루프에 빠져본 사람
 - **⏱️ 소요 시간:** 10분 (Profiler 분석)
 - **🤖 추천 모델:** Claude 3.5 Sonnet (코드 문맥 이해)

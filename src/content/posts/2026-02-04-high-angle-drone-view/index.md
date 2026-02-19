@@ -9,8 +9,6 @@ description: "하늘에서 내려다보는 시점으로 전체적인 지형이�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 
-# 📝 신의 시선: High Angle & Drone View
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

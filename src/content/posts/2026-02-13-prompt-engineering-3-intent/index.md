@@ -8,8 +8,6 @@ categories: ["Prompt Engineering", "Advanced"]
 tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 ---
 
-# 🎯 프롬프트 엔지니어링 3.0: 의도(Intent)가 곧 명령이다 {#intent}
-
 _"GPT-3 시절의 복잡한 주문(Spell)은 잊으세요. 이제는 감독(Director)처럼 지시할 때입니다."_
 
 초기 프롬프트 엔지니어링이 마치 주문을 외우듯 특정 키워드나 문법을 맞추는 데 집중했다면(1.0, 2.0), 이제는 AI가 문맥을 파악하고 사용자의 숨은 의도를 읽어내는 '인텐트(Intent) 기반' 상호작용(3.0)이 핵심입니다.

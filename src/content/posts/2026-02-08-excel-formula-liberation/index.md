@@ -9,8 +9,6 @@ description: "복잡한 엑셀 함수를 외우지 마세요. 자연어(Natural 
 tags: ["엑셀", "데이터분석", "ChatGPT", "VLOOKUP", "업무효율"]
 ---
 
-# 📊 엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다
-
 - **🎯 추천 대상:** 엑셀 함수만 보면 현기증이 나는 문과생, 데이터 가공에 1시간씩 쓰는 마케터
 - **⏱️ 소요 시간:** 10초
 - **🤖 추천 모델:** ChatGPT-4o (Advanced Data Analysis) 또는 Claude 3.5 Sonnet

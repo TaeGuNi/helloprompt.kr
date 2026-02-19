@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# KI-Suchkriege: Google vs OpenAI
-
 Die traditionelle Stichwortsuche geht zu Ende. Wir analysieren, wie die konversationelle KI-Suche die Art und Weise, wie wir Informationen finden, grundlegend verändert.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

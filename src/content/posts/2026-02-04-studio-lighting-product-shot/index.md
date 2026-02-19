@@ -9,8 +9,6 @@ description: "깔끔하고 전문적인 제품 사진이나 프로필을 원한�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 
-# 📝 프로의 스튜디오: Studio Lighting
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

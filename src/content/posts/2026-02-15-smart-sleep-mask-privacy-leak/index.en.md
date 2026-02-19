@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 ---
 
-# Smart Sleep Masks Broadcasting Brainwaves
-
 ## Introduction
 
 In the pursuit of optimized rest, the tech industry has pivoted from wrist-worn trackers to something more intimate: smart sleep masks. These devices, promising to hack our circadian rhythms and induce lucid dreaming, are now commonplace in 2026. However, for the security-minded developer, they represent a terrifying new frontier in the Internet of Things (IoT).
@@ -26,17 +24,25 @@ A simplified scan using a standard tool like `hcitool` or a mobile BLE scanner r
 
 ```typescript
 // Hypothetical attack vector using Web Bluetooth API
-navigator.bluetooth.requestDevice({
-  filters: [{ namePrefix: 'DreamWeaver' }],
-  optionalServices: ['0000ffe0-0000-1000-8000-00805f9b34fb'] // Custom EEG Service
-})
-.then(device => device.gatt.connect())
-.then(server => server.getPrimaryService('0000ffe0-0000-1000-8000-00805f9b34fb'))
-.then(service => service.getCharacteristic('0000ffe1-0000-1000-8000-00805f9b34fb'))
-.then(characteristic => characteristic.startNotifications())
-.then(characteristic => {
-  characteristic.addEventListener('characteristicvaluechanged', handleBrainwaves);
-});
+navigator.bluetooth
+  .requestDevice({
+    filters: [{ namePrefix: "DreamWeaver" }],
+    optionalServices: ["0000ffe0-0000-1000-8000-00805f9b34fb"], // Custom EEG Service
+  })
+  .then((device) => device.gatt.connect())
+  .then((server) =>
+    server.getPrimaryService("0000ffe0-0000-1000-8000-00805f9b34fb"),
+  )
+  .then((service) =>
+    service.getCharacteristic("0000ffe1-0000-1000-8000-00805f9b34fb"),
+  )
+  .then((characteristic) => characteristic.startNotifications())
+  .then((characteristic) => {
+    characteristic.addEventListener(
+      "characteristicvaluechanged",
+      handleBrainwaves,
+    );
+  });
 ```
 
 ### The Biometric Implication

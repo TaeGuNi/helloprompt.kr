@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# Guerre de la recherche IA : Google vs OpenAI
-
 La recherche par mots-clés traditionnelle touche à sa fin. Nous analysons comment la recherche IA conversationnelle change fondamentalement la façon dont nous trouvons l'information.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

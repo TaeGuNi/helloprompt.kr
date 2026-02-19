@@ -9,8 +9,6 @@ description: "황동 톱니바퀴와 증기 기관이 지배하는 19세기 미�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 ---
 
-# 📝 놋쇠와 증기: Steampunk
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

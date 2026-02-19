@@ -7,8 +7,6 @@ tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
 image: "/images/2026/02/13/monet-beauty.jpg"
 ---
 
-# Le Portrait d'une Beauté de Shin Yun-bok renaît sous la lumière de Monet
-
 Deux maîtres de l'histoire de l'art, qui n'auraient jamais pu se rencontrer en réalité, se sont croisés grâce à l'IA. Quelle œuvre naîtrait si les styles de **Shin Yun-bok**, maître de la peinture de genre de la fin de Joseon, et de **Claude Monet**, père de l'impressionnisme, fusionnaient ?
 
 ## La rencontre des lignes orientales et de la lumière occidentale

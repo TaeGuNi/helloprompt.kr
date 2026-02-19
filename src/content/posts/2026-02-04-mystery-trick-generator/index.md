@@ -9,8 +9,6 @@ description: "코난, 김전일도 울고 갈 기발한 밀실 트릭과 알리�
 tags: ["추리", "미스터리", "트릭", "소설", "시나리오"]
 ---
 
-# (Updated) 📝 미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator) {#mystery-trick-generator}
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

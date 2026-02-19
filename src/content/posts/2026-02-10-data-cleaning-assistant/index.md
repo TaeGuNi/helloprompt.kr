@@ -9,8 +9,6 @@ description: "주소, 전화번호 형식이 제각각인 엑셀 파일 때문�
 tags: ["Excel", "데이터전처리", "자동화", "Python"]
 ---
 
-# 🧹 엑셀 지옥 탈출: 지저분한 데이터, AI가 정리해드립니다 {#updated}
-
 - **🎯 추천 대상:** 데이터 분석가, 인사팀(HR), 영업팀, 엑셀 사용자
 - **⏱️ 소요 시간:** 수작업 2시간 → 3분
 - **🤖 추천 모델:** ChatGPT (Advanced Data Analysis), Claude 3

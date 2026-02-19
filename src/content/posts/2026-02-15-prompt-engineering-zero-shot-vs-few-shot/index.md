@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 ---
 
-# 제로 샷(Zero Shot) vs 퓨 샷(Few Shot) 프롬프팅 {#zero-shot}
-
 ## 소개 (Introduction) {#introduction}
 
 대규모 언어 모델(LLM) 엔지니어링의 급격히 진화하는 환경에서, 프롬프트를 구성하는 방식은 우리가 선택하는 모델만큼이나 중요합니다. AI 기반 애플리케이션을 구축하는 개발자에게 있어 **제로 샷(Zero Shot)**과 **퓨 샷(Few Shot)** 프롬프팅 사이의 미묘한 차이를 이해하는 것은 성능과 정확도를 최적화하는 데 필수적입니다. GPT-4나 Gemini와 같은 최신 모델들이 원시적인 지침(raw instructions)을 이해하는 능력이 점점 향상되고 있지만, 모델에 쿼리를 보내는 기법은 결과물의 품질을 크게 변화시킬 수 있습니다.

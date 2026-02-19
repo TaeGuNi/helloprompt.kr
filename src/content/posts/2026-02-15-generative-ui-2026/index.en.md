@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 
-# Generative UI Patterns
-
 ## Introduction
 
 For decades, frontend development has been governed by a deterministic contract: developers design screens, and users navigate them. We build navigation bars, hamburger menus, and static dashboards, hoping our information architecture matches the user's mental model. But what if the interface could build itself?

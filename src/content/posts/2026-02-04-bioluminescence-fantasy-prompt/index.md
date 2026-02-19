@@ -9,8 +9,6 @@ description: "아바타의 판도라 행성처럼 스스로 빛을 내는 생명
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 
-# 📝 환상적인 야광: Bioluminescence
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

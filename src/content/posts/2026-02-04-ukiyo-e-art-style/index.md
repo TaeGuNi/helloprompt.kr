@@ -9,8 +9,6 @@ description: "가장 일본적인 미학, 우키요에(Ukiyo-e) 스타일로 파
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 
-# (Updated) 📝 파도의 미학: Ukiyo-e Style
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

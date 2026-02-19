@@ -9,8 +9,6 @@ description: "3D 게임이나 아이콘처럼 입체적이고 귀여운 뷰, 아
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 
-# 📝 귀여운 3D 세상: Isometric View
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

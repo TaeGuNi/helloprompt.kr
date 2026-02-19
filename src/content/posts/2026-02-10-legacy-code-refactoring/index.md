@@ -9,8 +9,6 @@ description: "남이 짠 레거시 코드, 보기만 해도 머리 아프다면?
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 
-# 🧹 레거시 코드 청소기: 리팩토링 & 테스트 자동화
-
 - **🎯 추천 대상:** 주니어 개발자, 레거시 프로젝트 유지보수 담당자
 - **⏱️ 소요 시간:** 코드 분석 1시간 → 5분
 - **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (코딩은 Claude 추천)

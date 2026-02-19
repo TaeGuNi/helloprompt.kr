@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]
 ---
 
-# (Updated) 효과적인 역할 프롬프팅 (Role Prompting) {#role-prompting}
-
 ## (Updated) 소개 (Introduction) {#introduction}
 
 대규모 언어 모델(LLM) 엔지니어링의 진화하는 환경에서, 입력의 정밀도는 종종 출력의 품질을 결정짓습니다. 개발자로서 우리는 API를 결정론적인 시스템으로 취급하는 데 익숙하지만, LLM은 확률적인 계층을 도입하므로 다른 접근 방식이 필요합니다. 우리의 도구 상자에서 가장 강력한 기술 중 하나는 **역할 프롬프팅(Role Prompting)**입니다. 이는 작업을 할당하기 전에 모델에게 "수석 파이썬 아키텍트", "테크니컬 라이터", 또는 "QA 엔지니어"와 같은 특정 정체성을 가정하도록 명시적으로 지시하는 것을 의미합니다. 이 겉보기에 단순한 문맥적 앵커(Contextual Anchor)는 모호성을 대폭 줄이고 모델의 응답을 복잡한 프로젝트 요구 사항에 일치시킬 수 있습니다.

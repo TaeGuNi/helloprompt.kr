@@ -9,8 +9,6 @@ description: "Sora 2.0의 혁신적인 기능과 마케터, 크리에이터를 �
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 
-# 🎬 Sora 2.0: 비디오 혁명, 상상이 현실이 되는 순간
-
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 주니어/시니어 마케터, 콘텐츠 크리에이터, 영상 제작자

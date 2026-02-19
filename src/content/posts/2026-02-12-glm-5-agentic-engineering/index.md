@@ -9,8 +9,6 @@ description: "Z.ai가 GLM-5를 공개했습니다. 단순한 코딩 보조를 �
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---
 
-# 📝 GLM-5: 에이전트 엔지니어링의 서막
-
 - **🎯 추천 대상:** AI 엔지니어, LLM 연구자
 - **⏱️ 읽는 시간:** 3분
 - **🤖 관련 모델:** GLM-5

@@ -9,8 +9,6 @@ description: "최근 Claude Code 모델의 성능이 떨어졌다는 주장이 �
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 
-# 📝 Claude Code가 멍청해졌다?
-
 - **🎯 추천 대상:** Claude 사용자, 개발자
 - **⏱️ 읽는 시간:** 2분
 - **🤖 관련 모델:** Claude 3.7 Sonnet (추정)

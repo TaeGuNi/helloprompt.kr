@@ -9,8 +9,6 @@ description: "토요타가 만든 콘솔급 플러터 게임 엔진 Fluorite. �
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 
-# 📝 자동차 회사가 게임 엔진을? 토요타 Fluorite
-
 - **🎯 추천 대상:** 플러터 개발자, 게임 개발자
 - **⏱️ 읽는 시간:** 3분
 - **🤖 관련 기술:** Flutter, C++, Toyota Fluorite

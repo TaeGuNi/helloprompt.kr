@@ -7,8 +7,6 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
-# ИИ-врач входит в клинику
-
 ИИ выходит за рамки радиологии. Мы рассматриваем ИИ не как замену, а как партнера, усиливающего способности врачей.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

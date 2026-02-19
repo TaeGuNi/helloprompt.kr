@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 
-# Generative UI Patterns
-
 ## Introduction
 
 For decades, frontend development has been governed by a deterministic contract: developers design screens, and users navigate them. We build navigation bars, hamburger menus, and static dashboards, hoping our information architecture matches the user's mental model. But what if the interface could build itself?
@@ -38,4 +36,4 @@ Generative UI is not just a flashy trend; it is the logical conclusion of declar
 
 As we move forward, the role of the frontend engineer evolves. We are no longer just pixel pushers; we are the architects of the constraints and building blocks that allow intelligence to manifest visually. The future of UI is not drawn; it is generated.
 
-*(Automated translation to French pending)*
+_(Automated translation to French pending)_

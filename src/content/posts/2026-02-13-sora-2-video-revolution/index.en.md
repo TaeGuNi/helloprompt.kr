@@ -9,8 +9,6 @@ description: "Introducing the innovative features of Sora 2.0 and 3 practical pr
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 
-# 🎬 Sora 2.0: The Video Revolution, Where Imagination Becomes Reality
-
 <!-- ⚠️ [Lint Rule] Use emoji lists. Tables may break on mobile. -->
 
 - **🎯 Recommended For:** Junior/Senior Marketers, Content Creators, Video Producers

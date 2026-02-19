@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# AI 검색 전쟁: 구글 vs OpenAI
-
 전통적인 키워드 검색이 종말을 고하고 있습니다. 대화형 AI 검색이 정보를 찾는 방식을 어떻게 근본적으로 바꾸고 있는지 분석합니다.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

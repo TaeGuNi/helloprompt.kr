@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]
 ---
 
-# (Updated) Local LLMs Guide (Korean)
-
 ## (Updated) Introduction
 
 The landscape of AI is shifting rapidly. Today, we discuss **Local LLMs Guide**.

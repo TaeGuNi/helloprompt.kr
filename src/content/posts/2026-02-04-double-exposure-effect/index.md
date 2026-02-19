@@ -9,8 +9,6 @@ description: "두 개의 서로 다른 이미지를 겹쳐서 신비롭고 몽�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 
-# 📝 중첩된 세계: Double Exposure
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

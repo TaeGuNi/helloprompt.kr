@@ -9,8 +9,6 @@ description: "특유의 망점과 색 어긋남이 매력적인 리소그래프(
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 
-# (Updated) 📝 잉크의 맛: Risograph Print
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

@@ -7,8 +7,6 @@ tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
 image: "/images/2026/02/13/monet-beauty.jpg"
 ---
 
-# 在莫奈的光影中重生的申润福《美人图》
-
 艺术史上从未相遇的两位大师，通过AI技术相遇了。如果朝鲜后期风俗画大家**申润福（Shin Yun-bok）**与印象派之父**克劳德·莫奈（Claude Monet）**的风格融合在一起，会诞生怎样的作品呢？
 
 ## 东方的线条与西方的光影相遇

@@ -7,8 +7,6 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
-# AI 의사, 진료실에 들어오다
-
 영상의학을 넘어 내과, 정신과까지 영역을 확장하는 AI. 의사를 대체하는 것이 아니라 의사의 능력을 증강시키는 파트너로서의 AI를 조명합니다.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

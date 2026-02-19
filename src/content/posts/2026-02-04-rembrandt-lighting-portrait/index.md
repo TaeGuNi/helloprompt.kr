@@ -9,8 +9,6 @@ description: "거장의 초상화처럼 깊이 있고 진중한 인물 사진을
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 
-# 📝 거장의 손길: Rembrandt Lighting {#updated}
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

@@ -9,8 +9,6 @@ description: "물이 번지는 듯한 효과와 연필 스케치 라인이 어�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 
-# 📝 투명한 감성: Watercolor Sketch
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

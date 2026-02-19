@@ -10,8 +10,6 @@ tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 ---
 
-# 📝 거인의 시선: Low Angle
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

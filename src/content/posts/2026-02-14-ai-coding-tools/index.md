@@ -9,8 +9,6 @@ description: "개발자의 퇴근 시간을 앞당겨줄 2026년 최강의 AI �
 tags: ["개발자", "코딩", "생산성", "VSCode"]
 ---
 
-# 📝 2026 AI 코딩 도구 비교: GitHub Copilot vs Cursor vs Codeium
-
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 시니어 개발자, 스타트업 CTO, 주니어 개발자

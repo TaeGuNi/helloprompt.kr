@@ -5,8 +5,6 @@ date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---
 
-# Building a Golf Game with Claude Code
-
 The landscape of game development is shifting rapidly. With tools like **Claude Code**, the barrier to entry for creating complex, interactive experiences has never been lower. In this post, I'll walk you through how I built a 2D golf game using Claude Code as my primary development partner.
 
 ## Why Claude Code?

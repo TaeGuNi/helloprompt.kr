@@ -7,8 +7,6 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
-# Superordinateur dans votre main : Révolution de l'IA sur appareil
-
 L'IA sur appareil redéfinit l'expérience mobile. Présentation de fonctionnalités étonnantes possibles sans connexion Internet.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

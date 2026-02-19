@@ -7,8 +7,6 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
-# Le médecin IA entre dans la clinique
-
 L'IA s'étend au-delà de la radiologie. Nous soulignons l'IA non pas comme un remplaçant, mais comme un partenaire augmentant les capacités.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

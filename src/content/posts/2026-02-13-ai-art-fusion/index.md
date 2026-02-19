@@ -7,8 +7,6 @@ tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
 image: "/images/2026/02/13/monet-beauty.jpg"
 ---
 
-# 모네의 빛으로 다시 태어난 신윤복의 미인도
-
 예술의 역사에서 만날 수 없었던 두 거장이 AI 기술을 통해 조우했습니다. 조선 후기 풍속화의 대가 **신윤복(Shin Yun-bok)**과 인상주의의 아버지 **클로드 모네(Claude Monet)**의 스타일이 융합된다면 어떤 작품이 탄생할까요?
 
 ## 동양의 선과 서양의 빛의 만남

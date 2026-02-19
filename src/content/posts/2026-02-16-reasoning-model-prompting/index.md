@@ -9,8 +9,6 @@ description: "추론 모델(Reasoning Model) 시대, 기존 프롬프트 방식�
 tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
 ---
 
-# 🧠 생각하는 AI의 시대: Chain-of-Thought는 잊으세요
-
 - **🎯 추천 대상:** 3년 차 이하 개발자, 테크니컬 마케터, AI 얼리어답터
 - **⏱️ 소요 시간:** 읽는 데 5분, 적용하는 데 1분
 - **🤖 추천 모델:** OpenAI o1 (Pro/Preview), DeepSeek-R1, Google Gemini 2.0 Flash Thinking

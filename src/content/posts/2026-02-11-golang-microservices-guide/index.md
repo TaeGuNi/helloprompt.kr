@@ -9,8 +9,6 @@ description: "Java/Spring 개발자를 위한 Go 언어 입문 가이드. 고루
 tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 ---
 
-# 🐹 Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까? {#golang}
-
 - **🎯 추천 대상:** 무거운 Spring Boot 시동 시간에 지친 자바 개발자, MSA(Microservices) 도입을 고민하는 테크 리드
 - **⏱️ 소요 시간:** 15분 (개념 이해 및 Hello World)
 - **🤖 추천 모델:** Perplexity (최신 기술 스택 비교)

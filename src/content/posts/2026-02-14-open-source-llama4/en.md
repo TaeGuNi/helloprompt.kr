@@ -7,8 +7,6 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
-# Counterattack of Open Source AI: The Llama 4 Shock
-
 With the release of Meta's Llama 4, AI democratization is accelerating. A world where anyone can own their own high-performance AI has opened.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

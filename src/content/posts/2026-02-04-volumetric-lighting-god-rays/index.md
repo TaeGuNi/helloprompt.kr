@@ -9,8 +9,6 @@ description: "공기 중의 먼지까지 비추는 신비로운 빛줄기, 갓�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 
-# 📝 신비로운 빛줄기: Volumetric Lighting
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

@@ -5,8 +5,6 @@ tags: [anthropic, claude, ai]
 image: https://source.unsplash.com/random/1600x900/?book,library
 ---
 
-# Claude 4.5 Opus: 100만 토큰의 미학
-
 Anthropic의 Claude 4.5 Opus는 더욱 거대해진 컨텍스트 윈도우와 함께 돌아왔습니다. 100만 토큰(1M)이라는 압도적인 처리 용량은 책 수십 권 분량을 한 번에 기억하고 분석할 수 있음을 의미합니다.
 
 ## 1. 완벽한 기억력 (Recall) {#recall}

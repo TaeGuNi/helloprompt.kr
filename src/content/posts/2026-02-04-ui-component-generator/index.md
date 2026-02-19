@@ -9,8 +9,6 @@ description: "React, Vue, Tailwind CSS 등 원하는 기술 스택으로 UI 컴�
 tags: ["프론트엔드", "React", "Vue", "Tailwind", "UI컴포넌트"]
 ---
 
-# 📝 프론트엔드 컴포넌트, 디자인만 설명하면 코드 완성 {#updated}
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

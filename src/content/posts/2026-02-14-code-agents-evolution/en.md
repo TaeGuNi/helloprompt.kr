@@ -7,8 +7,6 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
-# Evolution of Coding Agents: Changing Developer Roles
-
 AI agents going beyond simple assistance to implement full features. Developers must now become architects, not coders.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

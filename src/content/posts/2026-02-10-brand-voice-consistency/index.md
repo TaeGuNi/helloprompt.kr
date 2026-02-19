@@ -9,8 +9,6 @@ description: "AI가 쓴 글 티가 난다고요? 프롬프트 한 방으로 '~�
 tags: ["ChatGPT", "브랜딩", "카피라이팅", "페르소나"]
 ---
 
-# 🗣️ ChatGPT에게 우리 브랜드 말투(Tone & Manner) 입히기 {#tone-manner}
-
 - **🎯 추천 대상:** 브랜드 마케터, 뉴스레터 에디터, 1인 크리에이터
 - **⏱️ 소요 시간:** 수정 시간 30분 → 0분
 - **🤖 추천 모델:** ChatGPT (GPT-4), Claude 3.5 Sonnet

@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# AI検索戦争：Google対OpenAI
-
 従来のキーワード検索が終わりを告げています。対話型AI検索が情報の探し方をどのように根本的に変えているのかを分析します。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

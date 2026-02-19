@@ -7,8 +7,6 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
-# Суперкомпьютер в руке: Революция ИИ на устройстве
-
 ИИ на устройстве переопределяет мобильный опыт. Представляем удивительные функции, возможные без подключения к интернету.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

@@ -9,8 +9,6 @@ description: "좁은 공간을 넓게, 웅장한 풍경을 한눈에 담는 광�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 
-# 📝 압도적 공간감: Wide Angle & Fisheye
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

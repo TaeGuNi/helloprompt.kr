@@ -7,8 +7,6 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
-# AI医生进入诊室
-
 AI正在从放射科扩展到内科和精神科。我们强调AI不是医生的替代品，而是增强其能力的合作伙伴。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

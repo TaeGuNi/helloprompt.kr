@@ -9,8 +9,6 @@ description: "물건들을 직각으로 반듯하게 나열하여 촬영하는 �
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 
-# 📝 정리의 신: Knolling
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

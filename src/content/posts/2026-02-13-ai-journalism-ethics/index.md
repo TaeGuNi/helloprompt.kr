@@ -8,8 +8,6 @@ categories: ["AI Ethics", "Journalism"]
 tags: ["AI Journalism", "Fact Check", "Bias Detection", "Media Ethics"]
 ---
 
-# 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이
-
 _"AI는 훌륭한 리서치 조수(Assistant)지만, 최악의 편집장(Editor-in-Chief)이 될 수도 있습니다."_
 
 2026년, 이제 뉴스룸에서 AI 에이전트를 사용하는 것은 선택이 아닌 필수가 되었습니다. 하지만 AI가 작성한 기사에서 심각한 편향이 발견되거나, 존재하지 않는 사실을 지어내는 '할루시네이션(Hallucination)' 문제는 여전히 뜨거운 감자입니다.

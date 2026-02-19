@@ -9,8 +9,6 @@ description: "클라우드 인프라를 코드로 관리(IaC)하기 위한 Terra
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 
-# 🏗️ 인프라, 이제 클릭질 그만! Terraform 생성기
-
 - **🎯 추천 대상:** AWS 콘솔에서 길을 잃은 개발자, 인프라 관리가 귀찮은 백엔드 개발자
 - **⏱️ 소요 시간:** 문서 찾기 1시간 → 3분
 - **🤖 추천 모델:** Claude 3.5 Sonnet (코딩 특화)

@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 ---
 
-# Chain of Thought Reasoning
-
 ## Introduction
 
 In the rapidly evolving landscape of Large Language Models (LLMs), developers are constantly seeking ways to extract more accurate and reliable responses. While models like GPT-4 and Claude 3 are feats of engineering, they often stumble on multi-step reasoning tasks when approached with a standard "input-output" prompting strategy.
@@ -32,8 +30,8 @@ For developers building AI-driven applications, CoT offers several tangible bene
 
 Consider the difference in these prompts:
 
-*   **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
-*   **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4*10=40).
+- **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
+- **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4\*10=40).
 
 ## Conclusion
 

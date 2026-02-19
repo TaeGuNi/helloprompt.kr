@@ -9,8 +9,6 @@ description: "Gemini 3, DeepSeek 등 추론형 AI의 성능을 극대화하는 C
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---
 
-# 🧠 추론 모델(Reasoning Model) 성능 극대화하기 {#reasoning-model}
-
 - **🎯 추천 대상:** AI 엔지니어, 복잡한 로직을 해결해야 하는 개발자
 - **⏱️ 소요 시간:** 10분 → 1분
 - **🤖 추천 모델:** Gemini 3 Pro, DeepSeek R1, o3-mini

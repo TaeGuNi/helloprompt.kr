@@ -9,8 +9,6 @@ description: "자율 에이전트가 API 키를 유출하거나 악성 코드를
 tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
 
-# 🛡️ AI 에이전트 보안 가이드: 내 봇이 해킹당하지 않으려면
-
 - **🎯 추천 대상:** "그냥 돌리면 되겠지" 하고 API 키 하드코딩하는 개발자, AI가 맘대로 서버 포맷할까 봐 무서운 관리자
 - **⏱️ 소요 시간:** 10분 (보안 프롬프트 적용 및 점검)
 - **🤖 추천 도구:** Python `os.getenv`, OWASP LLM Top 10 Checklist

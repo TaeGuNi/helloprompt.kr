@@ -9,8 +9,6 @@ description: "와이파이 신호만으로 사람의 위치와 동작을 탐지�
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 
-# 📝 벽을 뚫고 보는 눈, WiFi 감시
-
 - **🎯 추천 대상:** 프라이버시 중시자, 네트워크 엔지니어
 - **⏱️ 읽는 시간:** 3분
 - **🤖 관련 기술:** WiFi Sensing, CSI (Channel State Information)

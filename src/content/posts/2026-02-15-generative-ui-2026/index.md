@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 
-# 제너레이티브 UI 패턴 (Generative UI Patterns) {#generative-ui-patterns}
-
 ## 소개
 
 수십 년 동안 프론트엔드 개발은 결정론적 계약에 의해 지배되었습니다. 개발자는 화면을 설계하고, 사용자는 이를 탐색하는 방식이었습니다. 우리는 내비게이션 바, 햄버거 메뉴, 정적 대시보드를 구축하며 우리의 정보 구조가 사용자의 멘탈 모델과 일치하기를 희망했습니다. 하지만 인터페이스가 스스로 구축될 수 있다면 어떨까요?

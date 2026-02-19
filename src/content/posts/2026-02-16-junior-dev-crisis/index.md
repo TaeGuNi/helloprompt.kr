@@ -8,8 +8,6 @@ layout: /src/layouts/Layout.astro
 category: "개발 커리어"
 ---
 
-# 🛑 "신입 뽑느니 Claude 5 씁니다"
-
 2026년 2월, 테크 업계의 채용 공고에서 'Junior', 'Entry-level'이라는 단어가 멸종 위기종이 되었습니다. GitHub Copilot X2와 Gemini 3 Pro가 주니어 개발자의 업무(단순 구현, 테스트 작성, 리팩토링)를 99% 대체했기 때문입니다.
 
 하지만 절망하기엔 이릅니다. 개발자의 역할이 'Writer(작성자)'에서 'Editor(편집자)'이자 'Architect(설계자)'로 바뀌었을 뿐입니다. 이제 신입 개발자가 갖춰야 할 핵심 역량은 **"AI가 짠 코드를 검증하고 개선하는 능력"**입니다.

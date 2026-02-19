@@ -9,8 +9,6 @@ description: "두서없는 어제의 일과를 깔끔한 '어제 한 일 / 오�
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 
-# 🗣️ "어... 어제 뭐 했더라?" 스탠드업 공포증 해결
-
 - **🎯 추천 대상:** 애자일(Agile) 조직 개발자, 기획자, 디자이너
 - **⏱️ 소요 시간:** 10분 고민 → 1분 컷
 - **🤖 추천 모델:** ChatGPT, Claude, Gemini (모두 잘함)

@@ -9,8 +9,6 @@ description: "밋밋한 이미지를 헐리우드 영화의 한 장면처럼 만
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 ---
 
-# 📝 영화 같은 분위기: Cinematic Lighting
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

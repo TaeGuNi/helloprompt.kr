@@ -7,8 +7,6 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
-# 오픈소스 AI의 반격: Llama 4의 충격
-
 Meta의 Llama 4가 공개되면서 AI 민주화가 가속화되고 있습니다. 누구나 자신만의 고성능 AI를 가질 수 있는 세상이 열렸습니다.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

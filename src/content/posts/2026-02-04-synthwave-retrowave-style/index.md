@@ -9,8 +9,6 @@ description: "80년대의 네온빛 향수, 야자수, 그리드 바닥이 특�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 
-# 📝 80년대 네온: Synthwave & Retrowave
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

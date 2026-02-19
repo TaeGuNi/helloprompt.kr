@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 ---
 
-# 멀티모달 추론 (Multimodal Reasoning) {#multimodal-reasoning}
-
 ## 소개
 
 인공지능의 지형은 전문화된 단일 모달리티 시스템에서 통합적이고 전체론적인 사고체계로 변화하고 있습니다. 수년 동안 우리는 텍스트, 이미지, 오디오 처리를 별개의 영역(silo)으로 취급했으며, 복잡하고 종종 손실이 많은 파이프라인으로만 연결해왔습니다. 오늘날 우리는 진정한 **멀티모달 추론(Multimodal Reasoning)**의 부상을 목격하고 있습니다. 이는 모델이 단순히 "보거나" "읽는" 것이 아니라, 감각 데이터의 융합을 통해 세상을 이해하는 아키텍처 패러다임입니다.

@@ -9,8 +9,6 @@ description: "무엇이든 빠르게 배우고 싶은 당신을 위한 맞춤형
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---
 
-# 🎓 "이거 배우고 싶은데 어디서부터 시작하지?"
-
 - **🎯 추천 대상:** 새로운 기술을 빨리 익혀야 하는 개발자, 취미 부자
 - **⏱️ 소요 시간:** 구글링 3시간 → 로드맵 생성 10초
 - **🤖 추천 모델:** ChatGPT (GPT-4o), Gemini Pro (최신 정보 반영 유리)

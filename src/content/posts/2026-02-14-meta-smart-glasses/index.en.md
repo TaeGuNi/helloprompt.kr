@@ -5,8 +5,6 @@ date: 2026-02-14
 cover: "./cover.jpg"
 ---
 
-# Meta Smart Glasses: The Triumph of Wearable AI
-
 In 2026, the landscape of wearable technology has shifted dramatically. Once considered a niche market, smart glasses have now emerged into the mainstream, taking the consumer tech market by storm. In particular, Meta's latest lineup of smart glasses is posting record sales, cementing its position as the true winner of "Wearable AI."
 
 ## Surging Sales and Market Response

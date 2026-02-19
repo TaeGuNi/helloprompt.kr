@@ -6,8 +6,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 ---
 
-# OpenAI 'o2': 추론 능력의 새로운 지평
-
 2024년, OpenAI가 처음으로 'o1'을 통해 시스템 2(System 2)적 사고를 하는 AI를 선보였을 때, AI 커뮤니티는 큰 충격을 받았습니다. 그리고 오늘, 우리는 그 진화형인 **OpenAI o2**를 마주하고 있습니다. 이번 글에서는 o2가 보여주는 비약적인 추론(Reasoning) 능력의 향상과 기술적 특징들을 깊이 있게 살펴보겠습니다.
 
 ## 1. 더 깊고 빠른 사고 사슬 (Deep Chain of Thought) {#deep-chain-of-thought}

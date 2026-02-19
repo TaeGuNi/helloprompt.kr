@@ -9,8 +9,6 @@ description: "JOIN, GROUP BY, Window Function... 헷갈리는 SQL 문법, 이제
 tags: ["SQL", "데이터분석", "쿼리"]
 ---
 
-# 📝 복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다
-
 - **🎯 추천 대상:** 데이터 분석가, 마케터, 개발자
 - **⏱️ 소요 시간:** 30분 → 1분 단축
 - **🤖 추천 모델:** ChatGPT (GPT-4), Claude 3 (데이터 이해도 우수)

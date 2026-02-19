@@ -7,8 +7,6 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
-# Supercomputador na sua mão: Revolução da IA no dispositivo
-
 A IA no dispositivo redefine a experiência móvel. Apresentando recursos incríveis possíveis sem conexão com a internet.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

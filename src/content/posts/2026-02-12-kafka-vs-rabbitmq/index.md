@@ -9,8 +9,6 @@ description: "메시지 큐(Message Queue) 도입을 고민 중이라면? 처리
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 ---
 
-# 📨 Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심 {#updated}
-
 - **🎯 추천 대상:** MSA 도입 후 서비스 간 통신이 꼬여버린 백엔드 개발자, 실시간 로그 처리가 필요한 데이터 엔지니어
 - **⏱️ 소요 시간:** 5분 (비교 분석)
 - **🤖 추천 모델:** Perplexity (아키텍처 비교)

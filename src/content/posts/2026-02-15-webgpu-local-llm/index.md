@@ -9,8 +9,6 @@ description: "API 키 없이, 내 브라우저가 AI 서버가 됩니다. WebGPU
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 
-# 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
-
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 프론트엔드 개발자, 데이터 프라이버시가 중요한 분, 토큰 비용이 부담되는 분

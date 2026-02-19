@@ -9,8 +9,6 @@ description: "고전 게임의 향수를 불러일으키는 8비트, 16비트 �
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 
-# 📝 도트 장인: Pixel Art
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

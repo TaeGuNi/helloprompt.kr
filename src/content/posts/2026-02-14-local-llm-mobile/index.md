@@ -7,8 +7,6 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
-# 손안의 슈퍼컴퓨터: 온디바이스 AI 혁명 {#updated}
-
 프라이버시와 속도를 모두 잡은 온디바이스 AI가 모바일 경험을 재정의합니다. 인터넷 연결 없이도 가능한 놀라운 기능들을 소개합니다.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

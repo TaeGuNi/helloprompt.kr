@@ -9,8 +9,6 @@ description: "LLM 프레임워크 양대 산맥 비교. 범용성은 랭체인, 
 tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 ---
 
-# ⛓️ LangChain vs LlamaIndex: 도대체 뭘 써야 할까?
-
 - **🎯 추천 대상:** "둘 다 비슷해 보이는데..." 고민하는 AI 엔지니어, RAG 프로젝트를 시작하려는 개발 팀장
 - **⏱️ 소요 시간:** 5분 (비교 분석)
 - **🤖 추천 모델:** Perplexity (최신 문서 비교)

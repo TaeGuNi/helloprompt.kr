@@ -7,8 +7,6 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
-# Войны ИИ-поиска: Google против OpenAI
-
 Традиционный поиск по ключевым словам уходит в прошлое. Мы анализируем, как разговорный ИИ-поиск фундаментально меняет то, как мы находим информацию.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

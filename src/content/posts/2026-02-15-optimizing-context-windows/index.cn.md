@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]
 ---
 
-# Optimizing Context Windows
-
 ## Introduction
 
 As developers working with Large Language Models (LLMs), we often find ourselves dazzled by the rapidly increasing size of context windows. From 32k to 128k, and now even up to 2 million tokens, the ability to feed massive amounts of data into a model is enticing. However, with great power comes great responsibility—and often, significant latency and cost. "Stuffing" the context window is not always the best strategy. In this post, we will explore why optimization matters and how to achieve it.
@@ -28,4 +26,4 @@ Effectively managing token usage is key to reducing costs and improving LLM focu
 
 While large context windows enable new possibilities, they are not a silver bullet. By treating the context window as a scarce resource rather than an infinite bucket, we can build applications that are faster, cheaper, and more intelligent. Master the art of context curation, and you will unlock the full potential of LLMs without breaking the bank or the user experience.
 
-*(Automated translation to Simplified Chinese pending)*
+_(Automated translation to Simplified Chinese pending)_

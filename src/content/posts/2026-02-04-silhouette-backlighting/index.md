@@ -9,8 +9,6 @@ description: "피사체를 어둡게 처리하여 형태미와 분위기를 강�
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 
-# 📝 빛과 그림자: Silhouette & Backlighting
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

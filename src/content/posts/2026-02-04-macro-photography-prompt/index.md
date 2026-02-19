@@ -9,8 +9,6 @@ description: "눈에 보이지 않는 미세한 디테일까지 포착하는 접
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 
-# 📝 작은 우주: Macro Photography
-
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

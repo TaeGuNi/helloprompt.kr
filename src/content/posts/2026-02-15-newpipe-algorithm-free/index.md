@@ -6,8 +6,6 @@ image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]
 ---
 
-# 알고리즘 없는 미디어의 부상
-
 ## 서론
 
 지난 10년 동안 인터넷은 "피드(Feed)"에 의해 정의되었습니다. Facebook의 EdgeRank부터 TikTok의 초최적화된 추천 시스템에 이르기까지, 알고리즘은 우리가 무엇을 보고, 언제 보고, 그것에 대해 어떻게 느낄지를 지시해 왔습니다. 개발자로서 우리는 참여를 극대화하고, 유지율을 최적화하며, 사용자의 시선을 화면에 고정시키기 위해 이러한 시스템을 설계했습니다.

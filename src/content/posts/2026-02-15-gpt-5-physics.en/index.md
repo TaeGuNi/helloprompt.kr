@@ -5,8 +5,6 @@ date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---
 
-# A New Era for Scientific Discovery
-
 The scientific community is buzzing today following the release of OpenAI's latest paper detailing a breakthrough by GPT-5.2. For the first time, an AI model hasn't just synthesized existing knowledge—it has derived a novel, verifiable result in theoretical physics.
 
 ## The Discovery: Bridging Quantum Gravity

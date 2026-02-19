@@ -26,7 +26,7 @@ _"API 联动？那是什么要花 2 周？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 把难懂的 IT 术语配合用户指定状况 (食堂, 图书馆, 足球队等) 比喻
 2. 比喻中的要素和实际技术要素 1:1 匹配 (Mapping)
@@ -34,7 +34,7 @@ _"API 联动？那是什么要花 2 周？"_
 
 ---
 
-## 🚀 解决方案：“ELI5 (Explain Like I'm 5) 生成器” {#explain-like-i-m-5}
+## 🚀 解决方案：“ELI5 (Explain Like I'm 5) 生成器”
 
 ### 🥉 Basic Version (基础版)
 
@@ -70,7 +70,7 @@ _"API 联动？那是什么要花 2 周？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

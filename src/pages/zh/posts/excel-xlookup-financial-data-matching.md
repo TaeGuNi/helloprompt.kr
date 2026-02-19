@@ -25,7 +25,7 @@ _"还在数列号 (Column Index) 吗？在 2026 年？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. VLOOKUP 的局限 (无法左找, 列插入时错误) 完美解决
 2. 无需 `IFERROR` 函数也能自动处理错误值 (0 或“无”)
@@ -69,7 +69,7 @@ _"还在数列号 (Column Index) 吗？在 2026 年？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

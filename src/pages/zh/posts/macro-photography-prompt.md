@@ -25,7 +25,7 @@ _“想非常大得看昆虫的眼睛或水滴里的世界。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. `Macro photography`, `Macro shot` 是核心关键词。
 2. 用 `Extreme close-up` 更加缩小距离。
@@ -62,7 +62,7 @@ _“想非常大得看昆虫的眼睛或水滴里的世界。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

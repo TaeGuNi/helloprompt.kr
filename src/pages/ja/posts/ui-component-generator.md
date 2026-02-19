@@ -27,7 +27,7 @@ _「カードUI一つ作るのにdivを何回包まなきゃいけないんだ�
 
 ---
 
-## ⚡️ 3行要約 (TL;DR) {#tl-dr}
+## ⚡️ 3行要約 (TL;DR)
 
 1. 希望するUI形態をテキストで描写してコード生成
 2. React/Vue + Tailwind CSSなど最新スタックサポート
@@ -73,7 +73,7 @@ _「カードUI一つ作るのにdivを何回包まなきゃいけないんだ�
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
+## 🧬 プロンプト解剖 (Why it works?)
 
 ---
 
@@ -83,7 +83,7 @@ _「カードUI一つ作るのにdivを何回包まなきゃいけないんだ�
 
 「商品カード作って。上には商品写真、その下に商品名と価格。そして買い物かご追加ボタンとハートボタン入れて。」
 
-### ✅ After (結果 - React + Tailwind 例示) {#react-tailwind}
+### ✅ After (結果 - React + Tailwind 例示)
 
 ```jsx
 import React from "react";

@@ -95,7 +95,7 @@ _"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
 def calc(a, b, t):
     if t == 1: return a + b
     elif t == 2: return a - b
-    # (Updated) (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버 {#updated}
+    # (Updated) (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버
 ```
 
 ### (Updated) (Updated) (Updated) ✅ After (결과)
@@ -105,7 +105,7 @@ def calculate_transaction(amount, tax, type):
     """거래 유형에 따라 최종 금액을 계산합니다."""
     if type == TransactionType.DEPOSIT:
         return amount + tax
-    # (Updated) (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가 {#updated}
+    # (Updated) (Updated) (Updated) ... 명확한 변수명과 Enum 사용, Docstring 추가
 ```
 
 `test_calculate_transaction.py` 파일까지 생성됨.

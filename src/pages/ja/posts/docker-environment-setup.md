@@ -27,7 +27,7 @@ Docker(ドッカー)を使えば解決されるということは知っていま
 
 ---
 
-## ⚡️ 3行要約 (TL;DR) {#tl-dr}
+## ⚡️ 3行要約 (TL;DR)
 
 1. 言語/フレームワークに最適化された`Dockerfile`生成
 2. DB、キャッシュなどを含む`docker-compose.yml`作成
@@ -72,7 +72,7 @@ Docker(ドッカー)を使えば解決されるということは知っていま
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
+## 🧬 プロンプト解剖 (Why it works?)
 
 ---
 
@@ -82,7 +82,7 @@ Docker(ドッカー)を使えば解決されるということは知っていま
 
 「Python 3.9, Django, PostgreSQL使うよ。」
 
-### ✅ After (結果 - Dockerfile 一部) {#dockerfile}
+### ✅ After (結果 - Dockerfile 一部)
 
 ```dockerfile
 # 1. Build Stage

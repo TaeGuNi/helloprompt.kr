@@ -11,15 +11,15 @@ def has_korean(text):
     return bool(re.search(r'[\u3131-\uD79D]', text))
 
 def process_file(filepath):
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-    except Exception as e:
-        print(f"Error reading {filepath}: {e}")
-        return
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
 
     new_lines = []
     modified = False
+    
+    # Simple state machine for prompt blocks could be complex, 
+    # but let's stick to the requested "Wrap prompt sections"
+    # We'll target specific keywords at the start of lines.
     
     prompt_keywords = ['**Role**', '**Task**', '**Context**', '**Format**', '**Constraint**', '**Input**', '**Output**', '**Goal**']
 
@@ -28,16 +28,21 @@ def process_file(filepath):
         stripped = line.strip()
         
         # 1. Heading IDs
+        # Look for headers # ... that have Korean and no ID
         if stripped.startswith('#') and '{#' not in line:
+            # Check if it has Korean
             if has_korean(line):
+                # Try to find English in parens: "## 제목 (Title)"
                 match = re.search(r'\(([^)]+)\)', line)
                 if match:
                     eng_text = match.group(1)
+                    # Ensure it contains English (not just more Korean)
                     if re.search(r'[a-zA-Z]', eng_text):
                         pid = slugify(eng_text)
                         line = line.rstrip() + f" {{#{pid}}}\n"
                         modified = True
                 else:
+                    # Common mappings based on Korean text
                     if '결론' in line:
                         line = line.rstrip() + " {#conclusion}\n"
                         modified = True
@@ -52,6 +57,7 @@ def process_file(filepath):
                          modified = True
 
         # 2. Blockquotes for Prompts
+        # If line starts with a keyword and not >, add >
         for kw in prompt_keywords:
             if stripped.startswith(kw) and not line.startswith('>'):
                 line = '> ' + line
@@ -62,21 +68,16 @@ def process_file(filepath):
 
     if modified:
         print(f"Fixing {filepath}")
-        try:
-            with open(filepath, 'w', encoding='utf-8') as f:
-                f.writelines(new_lines)
-        except Exception as e:
-            print(f"Error writing {filepath}: {e}")
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
 
-base_dir = os.path.dirname(os.path.abspath(__file__))
-# Looking for src/**/*.md
-search_path = os.path.join(base_dir, 'src/**/*.md')
-files = glob.glob(search_path, recursive=True)
-# Filter for actual posts directory
-files = [f for f in files if '/posts/' in f]
-
-if not files:
-    print("No post files found to scan.")
+base_dirs = [
+    '/Users/jjhome/openclaw/5/.openclaw/workspace/factory_zone/qa/src/content/posts',
+    '/Users/jjhome/openclaw/5/.openclaw/workspace/factory_zone/qa/src/pages/posts'
+]
+files = []
+for d in base_dirs:
+    files.extend(glob.glob(os.path.join(d, '**/*.md'), recursive=True))
 
 for fp in files:
     process_file(fp)

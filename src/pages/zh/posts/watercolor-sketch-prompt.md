@@ -25,7 +25,7 @@ _“想要画在建筑师日记里，颜料稍微晕开的素描感觉。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 请组合 `Watercolor painting`, `Pencil sketch`。
 2. 用 `Wet-on-wet`, `Splatter` 关键词给予水晕染效果。
@@ -62,7 +62,7 @@ _“想要画在建筑师日记里，颜料稍微晕开的素描感觉。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

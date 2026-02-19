@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 
 ## Introduction
 
-For the past few years, the software industry has been enchanted by what can only be described as "Vibe Coding." We've all been there: you type a vague prompt into an LLM, it spits out a chunk of code that _mostly_ works, and you tweak the prompt until the output "feels" right. It’s the modern, AI-assisted equivalent of "coding by coincidence"—if the UI renders and no errors pop up immediately, we ship it.
+For the past few years, the software industry has been enchanted by what can only be described as "Vibe Coding." We've all been there: you type a vague prompt into an LLM, it spits out a chunk of code that *mostly* works, and you tweak the prompt until the output "feels" right. It’s the modern, AI-assisted equivalent of "coding by coincidence"—if the UI renders and no errors pop up immediately, we ship it.
 
 But as we settle into 2026, the enchantment is fading. The initial rush of generating entire applications in minutes is giving way to the sobering reality of maintenance, scalability, and security. We are discovering that software engineering requires more than just good vibes; it requires structure, predictability, and understanding.
 
@@ -26,4 +26,4 @@ This is where the shift happens. **Moving beyond vibe based AI coding to rigorou
 
 The era of Vibe Coding was a necessary phase of exploration, showing us the raw potential of generative AI. However, to build the critical infrastructure of tomorrow, we must break the spell. We need to return to the core principles of software engineering—determinism, verification, and design—and wield AI as a precision instrument rather than a magic wand. It is time to stop coding by feel and start engineering with intent.
 
-_(Automated translation to Traditional Chinese pending)_
+*(Automated translation to Traditional Chinese pending)*

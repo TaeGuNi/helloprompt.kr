@@ -25,7 +25,7 @@ _"NullPointerException? 到底哪里是 Null 啊？"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 分析错误信息和相关代码识别问题原因 (Root Cause)
 2. 与修改后的代码 (Fixed Code) 一起说明为什么要改
@@ -70,7 +70,7 @@ _"NullPointerException? 到底哪里是 Null 啊？"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

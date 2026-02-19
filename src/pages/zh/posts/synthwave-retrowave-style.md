@@ -25,7 +25,7 @@ _“需要 Back to the Future 感觉的紫色夕阳和网格地板。”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 请使用 `Synthwave`, `Retrowave`, `80s aesthetics` 关键词。
 2. `Neon grid`, `Retro sun`, `Palm trees` 是必备要素。
@@ -62,7 +62,7 @@ _“需要 Back to the Future 感觉的紫色夕阳和网格地板。”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

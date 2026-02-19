@@ -9,7 +9,7 @@ description: "呼唤订阅者的有魅力的频道名！AI 给取能受算法选
 tags: ["YouTube", "频道名", "昵称", "创作者", "命名"]
 ---
 
-# 📝 YouTube 频道名 & 昵称推荐 (YouTube Channel Naming) {#youtube-channel-naming}
+# 📝 YouTube 频道名 & 昵称推荐 (YouTube Channel Naming)
 
 **🎯 推荐对象:** 所有人
 **⏱️ 所需时间:** 5 分钟
@@ -25,7 +25,7 @@ YouTube 频道名是品牌也是招牌。听一次就不忘，搜索时出现在
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 输入频道主题和目标观众层
 2. AI 提议关键词组合、语言游戏、感性的名字等多种风格
@@ -75,7 +75,7 @@ YouTube 频道名是品牌也是招牌。听一次就不忘，搜索时出现在
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

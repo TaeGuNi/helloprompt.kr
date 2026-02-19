@@ -25,7 +25,7 @@ _“想要像韦斯·安德森电影一样强迫性地恰好吻合的对称。�
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. `Symmetrical composition`, `Centered view` 是核心。
 2. 添加 `Wes Anderson style` 柔和色调的对称美学就会复活。
@@ -62,7 +62,7 @@ _“想要像韦斯·安德森电影一样强迫性地恰好吻合的对称。�
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

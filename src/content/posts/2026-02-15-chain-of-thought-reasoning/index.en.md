@@ -32,8 +32,8 @@ For developers building AI-driven applications, CoT offers several tangible bene
 
 Consider the difference in these prompts:
 
-- **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
-- **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4\*10=40).
+*   **Standard Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written?" -> Model might hallucinate or miscalculate.
+*   **CoT Prompt:** "If a developer writes 10 lines of code per hour and works for 6 hours but spends 2 hours debugging (where no new code is written), how many lines are written? **Let's think step by step.**" -> Model breaks down working hours (6-2=4) and calculates (4*10=40).
 
 ## Conclusion
 

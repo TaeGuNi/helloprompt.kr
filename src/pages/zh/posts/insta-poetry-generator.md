@@ -9,7 +9,7 @@ description: "请在 10 秒内创作在 SNS 呼唤点赞的短而感性的诗 (P
 tags: ["Instagram", "诗", "感性文", "SNS", "内容"]
 ---
 
-# 📝 Shorts/Reels 用短诗 (Insta Poetry) 生成器 {#insta-poetry}
+# 📝 Shorts/Reels 用短诗 (Insta Poetry) 生成器
 
 **🎯 推荐对象:** 所有人
 **⏱️ 所需时间:** 5 分钟
@@ -25,7 +25,7 @@ _"不读长文。正好需要进一画面的感性。"_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 输入素材和想要的感情线
 2. AI 写有反转或引起共鸣的短诗 (3~5 行)
@@ -73,7 +73,7 @@ _"不读长文。正好需要进一画面的感性。"_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 

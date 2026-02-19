@@ -27,7 +27,7 @@ _“做一个卡片 UI 到底要包几层 div 啊？”_
 
 ---
 
-## ⚡️ 3 行总结 (TL;DR) {#tl-dr}
+## ⚡️ 3 行总结 (TL;DR)
 
 1. 用文本描述想要的 UI 形态并生成代码
 2. 支持 React/Vue + Tailwind CSS 等最新技术栈
@@ -73,7 +73,7 @@ _“做一个卡片 UI 到底要包几层 div 啊？”_
 
 ---
 
-## 🧬 提示词解剖 (Why it works?) {#why-it-works}
+## 🧬 提示词解剖 (Why it works?)
 
 ---
 
@@ -83,7 +83,7 @@ _“做一个卡片 UI 到底要包几层 div 啊？”_
 
 “做个商品卡片。上面是商品照片，下面是商品名和价格。还有放个加入购物车按钮和爱心按钮。”
 
-### ✅ After (结果 - React + Tailwind 示例) {#react-tailwind}
+### ✅ After (结果 - React + Tailwind 示例)
 
 ```jsx
 import React from "react";

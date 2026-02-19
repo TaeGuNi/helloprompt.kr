@@ -27,7 +27,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## ⚡️ 3行要約 (TL;DR) {#tl-dr}
+## ⚡️ 3行要約 (TL;DR)
 
 1.  日本語で適当に書く。（「これ早くやって」）
 2.  AIに **「ビジネストーンに変えて」** と指示する。
@@ -70,7 +70,7 @@ _"Send me the file ASAP."_
 
 ---
 
-## 🧬 プロンプト解剖 (Why it works?) {#why-it-works}
+## 🧬 プロンプト解剖 (Why it works?)
 
 1.  **サンドイッチ話法:** 称賛(パン) - 拒絶/要求(具) - 称賛(パン)で包む話法をAIに指示しました。いきなり「まけて」と言うよりはるかに成功率が高いです。
 2.  **3つのオプション要求:** トーンによって選べるように選択肢をもらうのが良いです。(Casual / Formal / Urgentなど)
@@ -84,7 +84,7 @@ _"Send me the file ASAP."_
 **Me:** "Please check attached file. If error, tell me."
 **Receiver:** (何だこいつ、命令してるのか？)
 
-### ✅ After (AI矯正) {#ai}
+### ✅ After (AI矯正)
 
 **AI:** "Kindly review the attached file at your convenience. Should you identify any discrepancies, please do not hesitate to let me know."
 **Receiver:** (お、教養のある人だな。すぐに確認してあげよう。)

@@ -21,26 +21,22 @@ This post explores the mechanics of both approaches, helping you decide when to 
 Zero Shot prompting is the practice of presenting a task to the model without any prior examples. You are essentially relying entirely on the model's pre-trained knowledge base and its ability to follow instructions "cold."
 
 **Example:**
-
 > "Classify the sentiment of this text: 'The service was slow, but the food was excellent.' Output only Positive, Negative, or Neutral."
 
 **Pros:**
-
-- **Token Efficiency:** Uses fewer input tokens, reducing cost and latency.
-- **Simplicity:** easier to implement and maintain; no need to curate a dataset of examples.
-- **Generalization:** Relies on the model's broad understanding of language.
+*   **Token Efficiency:** Uses fewer input tokens, reducing cost and latency.
+*   **Simplicity:** easier to implement and maintain; no need to curate a dataset of examples.
+*   **Generalization:** Relies on the model's broad understanding of language.
 
 **Cons:**
-
-- **Ambiguity:** The model may misinterpret the desired format or tone.
-- **Inconsistency:** Harder to enforce strict schema adherence for complex outputs.
+*   **Ambiguity:** The model may misinterpret the desired format or tone.
+*   **Inconsistency:** Harder to enforce strict schema adherence for complex outputs.
 
 ### Few Shot Prompting
 
 Few Shot prompting (also known as in-context learning) involves providing the model with a set of examples (shots) demonstrating the task before the actual query. These examples serve as a pattern for the model to follow.
 
 **Example:**
-
 > "Classify the sentiment of the text.
 > Text: 'I loved the movie!' -> Sentiment: Positive
 > Text: 'The plot was boring.' -> Sentiment: Negative
@@ -48,15 +44,13 @@ Few Shot prompting (also known as in-context learning) involves providing the mo
 > Text: 'The service was slow, but the food was excellent.' -> Sentiment:"
 
 **Pros:**
-
-- **Pattern Recognition:** clearly defines the expected output format and style.
-- **Nuance:** Helps the model understand edge cases or specific domain logic.
-- **Performance:** Significantly reduces hallucination rates for structured tasks.
+*   **Pattern Recognition:** clearly defines the expected output format and style.
+*   **Nuance:** Helps the model understand edge cases or specific domain logic.
+*   **Performance:** Significantly reduces hallucination rates for structured tasks.
 
 **Cons:**
-
-- **Token Cost:** Requires more input tokens, which can scale up costs.
-- **Context Window:** Examples consume valuable context window space.
+*   **Token Cost:** Requires more input tokens, which can scale up costs.
+*   **Context Window:** Examples consume valuable context window space.
 
 ### The Critical Difference
 
@@ -68,4 +62,4 @@ Choosing between Zero Shot and Few Shot prompting is a trade-off between efficie
 
 As models continue to advance, Zero Shot performance will improve, but for now, a few well-chosen examples remain one of the most powerful tools in a developer's arsenal for controlling AI behavior.
 
-_(Automated translation to Russian pending)_
+*(Automated translation to Russian pending)*

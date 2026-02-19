@@ -16,12 +16,15 @@ Tradicionalmente, las funciones serverless se ejecutaban en centros de datos cen
 ## Beneficios Clave
 
 ### 1. Latencia Ultrabaja
+
 Al procesar datos más cerca de la fuente, los tiempos de ida y vuelta se reducen drásticamente. Esto es crítico para aplicaciones en tiempo real como AR/VR, juegos y operaciones financieras.
 
 ### 2. Reducción de Costos de Ancho de Banda
+
 Filtrar y procesar datos en el borde significa que se necesita enviar menos datos a la nube central, lo que reduce significativamente las tarifas de entrada/salida.
 
 ### 3. Seguridad Mejorada
+
 La computación en el borde permite el procesamiento local de datos, lo cual puede ser crucial para el cumplimiento de las leyes de soberanía de datos (como el GDPR) al mantener los datos del usuario dentro de jurisdicciones específicas.
 
 ## Casos de Uso en el Mundo Real

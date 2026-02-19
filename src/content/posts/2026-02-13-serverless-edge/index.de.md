@@ -16,12 +16,15 @@ Traditionell liefen Serverless-Funktionen in zentralisierten Rechenzentren. Dies
 ## Hauptvorteile
 
 ### 1. Ultraniedrige Latenz
+
 Durch die Verarbeitung von Daten näher an der Quelle werden die Round-Trip-Zeiten drastisch reduziert. Dies ist entscheidend für Echtzeitanwendungen wie AR/VR, Gaming und Finanzhandel.
 
 ### 2. Reduzierte Bandbreitenkosten
+
 Das Filtern und Verarbeiten von Daten am Edge bedeutet, dass weniger Daten an die zentrale Cloud gesendet werden müssen, was die Ingress-/Egress-Gebühren erheblich senkt.
 
 ### 3. Verbesserte Sicherheit
+
 Edge Computing ermöglicht die lokale Datenverarbeitung, was für die Einhaltung von Datensouveränitätsgesetzen (wie der DSGVO) entscheidend sein kann, indem Benutzerdaten innerhalb bestimmter Gerichtsbarkeiten gehalten werden.
 
 ## Anwendungsfälle in der Praxis

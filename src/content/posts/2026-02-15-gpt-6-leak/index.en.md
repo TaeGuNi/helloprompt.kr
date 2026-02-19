@@ -15,12 +15,13 @@ We are no longer looking at a model that simply predicts the next token. We are 
 For years, "reasoning" in LLMs was a polite fiction—a side effect of massive pattern matching. Chain-of-Thought (CoT) prompting helped, but it was still a linear, forward-pass approximation of thinking.
 
 GPT-6 appears to integrate a **recursive simulation layer**. Before outputting a single character, the model reportedly:
+
 1.  **Drafts** multiple potential future trajectories.
 2.  **Evaluates** the outcome of those trajectories against the user's implicit goal.
 3.  **Backtracks** and refines its strategy.
 4.  **Executes** the optimal path.
 
-This isn't just "slow thinking" (System 2); it's *long-horizon planning*.
+This isn't just "slow thinking" (System 2); it's _long-horizon planning_.
 
 ## Why This Matters
 
@@ -28,13 +29,13 @@ If GPT-4 was an improv artist, GPT-6 is a chess grandmaster.
 
 In complex domains—coding, legal strategy, architectural design—improvisation is dangerous. You don't want a lawyer who "vibes" with the law; you want one who anticipates the counter-arguments three moves ahead.
 
-The leak suggests GPT-6 excels precisely here. It doesn't just write code; it simulates the runtime environment to check for edge cases *before* showing you the snippet.
+The leak suggests GPT-6 excels precisely here. It doesn't just write code; it simulates the runtime environment to check for edge cases _before_ showing you the snippet.
 
 ## The Cost of Intelligence
 
 This capability comes with a cost: **latency**. The "instant" response era might be over for high-stakes queries. We might be moving toward a future where we submit a prompt and wait 30 seconds—or 30 minutes—for a computed, verified, and strategized response.
 
-And honestly? If the answer is actually *right*, the wait is worth it.
+And honestly? If the answer is actually _right_, the wait is worth it.
 
 ## Conclusion
 

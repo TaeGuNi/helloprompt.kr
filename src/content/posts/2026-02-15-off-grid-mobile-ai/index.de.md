@@ -14,15 +14,19 @@ author: "Assistant"
 ## Hauptfunktionen
 
 ### 1. Textgenerierung
+
 Unterstützt die neuesten Leichtgewichtsmodelle wie Qwen 3, Llama 3.2, Gemma 3 und Phi-4 und kann auch benutzerdefinierte Modelle im `.gguf`-Format laden. Auf Flaggschiff-Geräten antwortet es schnell mit einer Geschwindigkeit von 15-30 Token pro Sekunde und unterstützt Streaming-Antworten und den „Thinking Mode“.
 
 ### 2. Bildgenerierung
+
 Führt Stable Diffusion auf dem Gerät aus, um Echtzeit-Vorschauen bereitzustellen. Durch die Nutzung der NPU-Beschleunigung von Snapdragon-Chipsätzen können Bilder in 5-10 Sekunden generiert werden (iOS verwendet Core ML), wobei über 20 Modelle unterstützt werden, darunter Absolute Reality und DreamShaper.
 
 ### 3. Vision-KI
+
 Sie können Ihre Kamera auf Objekte oder Dokumente richten und der KI Fragen stellen. Mit SmolVLM, Qwen3-VL usw. ist es möglich, Dokumente zu analysieren, Quittungen zu lesen und Szenen zu beschreiben.
 
 ### 4. Spracheingabe und Dokumentenanalyse
+
 Das integrierte Whisper-Modell von OpenAI ermöglicht die Umwandlung von Sprache in Text, und Sie können PDFs, Codedateien, CSVs usw. an die Konversation anhängen, um den Inhalt zu analysieren und zusammenzufassen.
 
 ## Leistung

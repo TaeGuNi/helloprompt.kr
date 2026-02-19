@@ -24,17 +24,20 @@ Le cœur du CoT est **"Pensons étape par étape (Let's think step by step)"**.
 ### Exemple : Problème Mathématique
 
 **Prompting Standard :**
+
 > Q : Roger a commencé avec 5 balles. 2 ont été mangées par un chien. 1 a été donnée à Al. Combien de balles reste-t-il ?
 > R : 2
 
 (Le modèle pourrait simplement voir des chiffres et effectuer une arithmétique incorrecte.)
 
 **Prompting Chain-of-Thought :**
+
 > Q : Roger a commencé avec 5 balles. 2 ont été mangées par un chien. 1 a été donnée à Al. Combien de balles reste-t-il ?
 > R : Roger a commencé avec 5 balles.
+>
 > 1. 2 balles ont été mangées, donc 5 - 2 = 3.
 > 2. Ensuite, 1 balle a été donnée à Al, donc 3 - 1 = 2.
-> La réponse est 2.
+>    La réponse est 2.
 
 En énonçant explicitement les étapes intermédiaires, le modèle réduit le risque d'erreurs logiques et produit des résultats plus précis.
 

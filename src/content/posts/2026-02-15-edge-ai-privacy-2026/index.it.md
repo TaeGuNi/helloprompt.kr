@@ -29,12 +29,13 @@ Beyond privacy, local inference eliminates the network round-trip. This results 
 ### Developer Considerations
 
 Implementing Edge AI requires a shift in mindset:
-*   **Model Selection:** We must prioritize quantized models (e.g., Llama 3 or Gemini Nano variants) that balance accuracy with memory footprint.
-*   **Resource Management:** On-device inference competes with other processes for battery and RAM. Efficient code and leveraging hardware accelerators (NPUs, Apple Neural Engine) are non-negotiable.
-*   **Hybrid Architectures:** Not everything fits on the edge. A common pattern is to handle sensitive, immediate tasks locally while offloading complex, non-sensitive aggregation to the cloud.
+
+- **Model Selection:** We must prioritize quantized models (e.g., Llama 3 or Gemini Nano variants) that balance accuracy with memory footprint.
+- **Resource Management:** On-device inference competes with other processes for battery and RAM. Efficient code and leveraging hardware accelerators (NPUs, Apple Neural Engine) are non-negotiable.
+- **Hybrid Architectures:** Not everything fits on the edge. A common pattern is to handle sensitive, immediate tasks locally while offloading complex, non-sensitive aggregation to the cloud.
 
 ## Conclusion
 
 Privacy First Edge AI is not merely a trend; it is the necessary evolution of a mature software ecosystem. By decoupling intelligence from connectivity, we empower users with control over their digital lives while delivering superior performance. As developers, embracing local-first AI is the most effective way to build trust and resilience into the next generation of software. The future of AI isn't just in the cloud; it's right here, on the edge.
 
-*(Automated translation to Italian pending)*
+_(Automated translation to Italian pending)_

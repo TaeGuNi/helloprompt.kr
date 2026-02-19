@@ -15,11 +15,12 @@ Techniques that force models to ground their answers in provided documents or re
 ### Chain of Verification (CoVe)
 
 The CoVe technique is a process where the model critically reviews and revises its own answer after generating it.
+
 1. Generate initial answer
 2. Generate fact-checking questions about the answer
 3. Verify answers to those questions
 4. Generate a revised final answer if contradictions are found
-All these steps happen instantly in the background, invisible to the user.
+   All these steps happen instantly in the background, invisible to the user.
 
 ### Uncertainty Markers
 

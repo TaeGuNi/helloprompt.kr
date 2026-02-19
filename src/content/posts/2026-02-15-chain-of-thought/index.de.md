@@ -24,17 +24,20 @@ Der Kern von CoT ist **"Lass uns Schritt für Schritt denken (Let's think step b
 ### Beispiel: Mathematisches Problem
 
 **Standard Prompting:**
+
 > F: Roger hatte 5 Bälle. 2 wurden von einem Hund gefressen. 1 wurde Al gegeben. Wie viele Bälle sind übrig?
 > A: 2
 
 (Das Modell sieht vielleicht nur Zahlen und führt falsche Arithmetik durch.)
 
 **Chain-of-Thought Prompting:**
+
 > F: Roger hatte 5 Bälle. 2 wurden von einem Hund gefressen. 1 wurde Al gegeben. Wie viele Bälle sind übrig?
 > A: Roger hatte am Anfang 5 Bälle.
+>
 > 1. 2 Bälle wurden gefressen, also 5 - 2 = 3.
 > 2. Dann wurde 1 Ball Al gegeben, also 3 - 1 = 2.
-> Die Antwort ist 2.
+>    Die Antwort ist 2.
 
 Durch das explizite Angeben der Zwischenschritte reduziert das Modell die Wahrscheinlichkeit logischer Fehler und liefert genauere Ergebnisse.
 

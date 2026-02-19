@@ -16,12 +16,15 @@ Traditionnellement, les fonctions sans serveur s'exécutaient dans des centres d
 ## Avantages clés
 
 ### 1. Latence ultra-faible
+
 En traitant les données plus près de la source, les temps d'aller-retour sont considérablement réduits. C'est essentiel pour les applications en temps réel comme la RA/RV, les jeux et les transactions financières.
 
 ### 2. Réduction des coûts de bande passante
+
 Le filtrage et le traitement des données à la périphérie signifient que moins de données doivent être envoyées vers le cloud central, ce qui réduit considérablement les frais d'entrée/sortie.
 
 ### 3. Sécurité renforcée
+
 L'informatique en périphérie permet le traitement local des données, ce qui peut être crucial pour la conformité aux lois sur la souveraineté des données (comme le RGPD) en conservant les données des utilisateurs au sein de juridictions spécifiques.
 
 ## Cas d'utilisation réels

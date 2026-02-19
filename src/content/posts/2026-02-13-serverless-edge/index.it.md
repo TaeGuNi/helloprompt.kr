@@ -16,12 +16,15 @@ Tradizionalmente, le funzioni serverless venivano eseguite in data center centra
 ## Vantaggi Principali
 
 ### 1. Latenza Ultra-Bassa
+
 Elaborando i dati più vicino alla fonte, i tempi di andata e ritorno sono drasticamente ridotti. Questo è fondamentale per applicazioni in tempo reale come AR/VR, giochi e trading finanziario.
 
 ### 2. Costi di Larghezza di Banda Ridotti
+
 Filtrare ed elaborare i dati all'edge significa che meno dati devono essere inviati al cloud centrale, riducendo significativamente le tariffe di ingresso/uscita.
 
 ### 3. Sicurezza Migliorata
+
 L'edge computing consente l'elaborazione locale dei dati, che può essere cruciale per la conformità alle leggi sulla sovranità dei dati (come il GDPR) mantenendo i dati degli utenti all'interno di specifiche giurisdizioni.
 
 ## Casi d'Uso nel Mondo Reale

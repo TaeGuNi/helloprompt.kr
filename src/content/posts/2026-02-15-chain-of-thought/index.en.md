@@ -24,17 +24,20 @@ The core of CoT is **"Let's think step by step."**
 ### Example: Math Problem
 
 **Standard Prompting:**
+
 > Q: Roger started with 5 balls. 2 were eaten by a dog. 1 was given to Al. How many balls are left?
 > A: 2
 
 (The model might simply see numbers and perform incorrect arithmetic.)
 
 **Chain-of-Thought Prompting:**
+
 > Q: Roger started with 5 balls. 2 were eaten by a dog. 1 was given to Al. How many balls are left?
 > A: Roger started with 5 balls.
+>
 > 1. 2 balls were eaten, so 5 - 2 = 3.
 > 2. Then 1 ball was given to Al, so 3 - 1 = 2.
-> The answer is 2.
+>    The answer is 2.
 
 By explicitly stating the intermediate steps, the model reduces the chance of logical errors and produces more accurate results.
 

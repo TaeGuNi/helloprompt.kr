@@ -16,12 +16,15 @@ Traditionally, serverless functions ran in centralized data centers. While this 
 ## Key Benefits
 
 ### 1. Ultra-Low Latency
+
 By processing data closer to the source, round-trip times are drastically reduced. This is critical for real-time applications like AR/VR, gaming, and financial trading.
 
 ### 2. Reduced Bandwidth Costs
+
 Filtering and processing data at the edge means less data needs to be sent to the central cloud, significantly lowering ingress/egress fees.
 
 ### 3. Enhanced Security
+
 Edge computing allows for local data processing, which can be crucial for compliance with data sovereignty laws (like GDPR) by keeping user data within specific jurisdictions.
 
 ## Real-World Use Cases

@@ -28,4 +28,4 @@ Effectively managing token usage is key to reducing costs and improving LLM focu
 
 While large context windows enable new possibilities, they are not a silver bullet. By treating the context window as a scarce resource rather than an infinite bucket, we can build applications that are faster, cheaper, and more intelligent. Master the art of context curation, and you will unlock the full potential of LLMs without breaking the bank or the user experience.
 
-*(Automated translation to Italian pending)*
+_(Automated translation to Italian pending)_

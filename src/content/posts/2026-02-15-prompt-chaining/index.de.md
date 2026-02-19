@@ -11,11 +11,12 @@ Die Ära der Suche nach dem "Einen Prompt, sie alle zu knechten" ist vorbei. KI-
 ### Teile und Herrsche
 
 Der Versuch, komplexe Aufgaben in einem einzigen Aufruf zu bewältigen, verschlechtert zwangsläufig die Modellleistung. Prompt Chaining verhindert dies, indem massive Aufgaben in kleinere Einheiten zerlegt und sequenziell verarbeitet werden.
+
 1. Dokument zusammenfassen
 2. Kern-Schlüsselwörter aus der Zusammenfassung extrahieren
 3. Entwurf basierend auf Schlüsselwörtern erstellen
 4. Polieren und Stilkorrektur
-Durch die Verwendung optimierter Prompts für jeden Schritt wird die Qualität des Endergebnisses maximiert.
+   Durch die Verwendung optimierter Prompts für jeden Schritt wird die Qualität des Endergebnisses maximiert.
 
 ### Agentische Workflows
 

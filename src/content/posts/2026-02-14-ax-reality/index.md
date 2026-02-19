@@ -1,9 +1,15 @@
 ---
-title: "AX 현실의 진실: 기업들의 환각 파티"
-description: "Critical analysis of ax-reality: AX is often just corporate hallucination without value."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/ax-reality/800/400"
-tags: ["AI", "Trend", "2026"]
+description:
+  "Critical analysis of ax-reality: AX is often just corporate hallucination
+  without value."
+image: https://picsum.photos/seed/ax-reality/800/400
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Trend
+  - "2026"
+title: "AX 현실의 진실: 기업들의 환각 파티"
 ---
 
 The tech world is drowning in noise. We call it innovation; users call it exhaustion.

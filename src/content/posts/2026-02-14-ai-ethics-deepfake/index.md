@@ -1,8 +1,9 @@
 ---
-title: "AI 윤리와 딥페이크: 동의 없는 가상 세계"
-description: "AI 포르노와 딥페이크 문제. 기술 발전 이면의 어두운 그림자와 규제의 필요성."
+cover: ./cover.jpg
 date: "2026-02-14"
-cover: "./cover.jpg"
+description: AI 포르노와 딥페이크 문제. 기술 발전 이면의 어두운 그림자와 규제의 필요성.
+layout: /src/layouts/Layout.astro
+title: "AI 윤리와 딥페이크: 동의 없는 가상 세계"
 ---
 
 ## 인사이트 및 분석

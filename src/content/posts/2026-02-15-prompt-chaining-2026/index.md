@@ -1,16 +1,18 @@
 ---
-title: "Prompt Chaining in 2026: Building Complex AI Workflows (Korean)"
-description: "Decompose tasks into atomic steps; use intermediate outputs as context."
 date: "2026-02-15"
-image: "/images/blog/default-ai.jpg"
-tags: ["AI", "Tech", "prompt-chaining-2026"]
+description: Decompose tasks into atomic steps; use intermediate outputs as context.
+image: /images/blog/default-ai.jpg
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - prompt-chaining-2026
+title: "Prompt Chaining in 2026: Building Complex AI Workflows (Korean)"
 ---
 
 `src/pages/posts`와 `posts`의 내용을 나열하여 새 블로그 포스트의 정확한 위치를 파악하고, `docs/POST_TEMPLATE.md`를 읽어 프로젝트의 Frontmatter 규칙을 준수하는지 확인하겠습니다.
 `posts/2026-02-15-openclaw-agents.md`를 읽어 템플릿을 엄격히 따르는지, 아니면 사용자가 요청한 구조가 오늘 날짜 파일들의 일반적인 형식인지 확인하겠습니다. 그 후, 적절한 Frontmatter와 요청된 내용을 포함하여 `posts/` 디렉토리에 새 블로그 포스트를 생성하겠습니다.
 프로젝트의 Frontmatter 규칙과 요청된 구조를 준수하여 지정된 내용으로 `posts/2026-02-15-prompt-chaining-2026.md` 파일을 생성하겠습니다.
-
-# 2026년의 프롬프트 체이닝: 복잡한 AI 워크플로우 구축하기
 
 ## 서론
 

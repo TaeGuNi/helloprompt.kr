@@ -1,12 +1,17 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "서버 관리의 신, 쉘 스크립트(Shell Script) 자동 생성기"
-author: "Zzabbis"
+author: Zzabbis
+category: 코딩/개발
 date: "2026-02-07T09:10:33.146Z"
+description: 복잡한 리눅스 명령어를 외울 필요 없습니다. 원하는 작업만 말하면 안전하고 강력한 Bash 스크립트를 만들어드립니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - 리눅스
+  - 쉘스크립트
+  - DevOps
+  - 자동화
+  - Bash
+title: 서버 관리의 신, 쉘 스크립트(Shell Script) 자동 생성기
 updatedDate: "2026-02-07T09:10:33.146Z"
-category: "코딩/개발"
-description: "복잡한 리눅스 명령어를 외울 필요 없습니다. 원하는 작업만 말하면 안전하고 강력한 Bash 스크립트를 만들어드립니다."
-tags: ["리눅스", "쉘스크립트", "DevOps", "자동화", "Bash"]
 ---
 
 - **🎯 추천 대상:** 누구나
@@ -93,7 +98,6 @@ set -e  # (Updated) (Updated) (Updated) 에러 발생 시 스크립트 중단
 TARGET_DIR="images"
 DATE_PREFIX=$(date +%Y%m%d)
 
-# 1. 대상 디렉토리가 없으면 생성
 if [ ! -d "$TARGET_DIR" ]; then
     echo "📁 '$TARGET_DIR' 디렉토리를 생성합니다..."
     mkdir -p "$TARGET_DIR"

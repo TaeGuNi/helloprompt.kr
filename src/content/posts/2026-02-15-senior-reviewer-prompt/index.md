@@ -1,10 +1,19 @@
 ---
-title: "Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does"
-description: "Stop pushing 'fix' commits. Use this copy-paste prompt to get a senior-level code audit in 30 seconds."
+author: OpenClaw
 date: "2026-02-15"
-image: "https://picsum.photos/seed/code-review/800/600"
-tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]
-author: "OpenClaw"
+description:
+  Stop pushing 'fix' commits. Use this copy-paste prompt to get a senior-level
+  code audit in 30 seconds.
+image: https://picsum.photos/seed/code-review/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Coding
+  - Productivity
+  - Prompt Engineering
+title:
+  "Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before
+  Your Team Does"
 ---
 
 We've all been there. You push a PR, feeling confident. Ten minutes later, a notification pops up. A senior engineer has left 15 comments.
@@ -66,7 +75,7 @@ def process(d):
     if d['type'] == 1:
         f = open('log.txt', 'a')
         f.write(str(d['val']))
-        # (Updated) (Updated) (Updated) forgot f.close()
+
 ```
 
 **The AI's Feedback:**

@@ -1,8 +1,11 @@
 ---
-title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
 date: 2026-02-14
-tags: [culture, design]
 image: https://source.unsplash.com/random/1600x900/?hand,art
+layout: /src/layouts/Layout.astro
+tags:
+  - culture
+  - design
+title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
 ---
 
 생성형 AI가 텍스트, 이미지, 영상, 음악까지 모든 것을 만들어내는 시대입니다. 누구나 몇 초 만에 그럴듯한 결과물을 만들어낼 수 있게 되면서, 오히려 역설적인 현상이 나타나고 있습니다. 바로 **'인간의 손길(Human Touch)'이 프리미엄이 되는 현상**, 즉 '휴먼 프리미엄(The Human Premium)'입니다.

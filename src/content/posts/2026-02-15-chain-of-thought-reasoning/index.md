@@ -1,9 +1,15 @@
 ---
-title: "Chain of Thought Reasoning (Korean)"
-description: "Asking models to 'think step by step' unlocks significantly higher performance on logic puzzles"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/prompt3/800/600"
-tags: ["AI", "Tech", "chain-of-thought-reasoning"]
+description:
+  Asking models to 'think step by step' unlocks significantly higher performance
+  on logic puzzles
+image: https://picsum.photos/seed/prompt3/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - chain-of-thought-reasoning
+title: Chain of Thought Reasoning (Korean)
 ---
 
 ## 소개

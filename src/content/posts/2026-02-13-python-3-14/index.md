@@ -1,9 +1,14 @@
 ---
-title: "Python 3.14: 속도와 타입 안전성의 새로운 도약"
-description: "JIT 컴파일러 개선, 패턴 매칭 v3 등 Python 3.14의 새로운 기능을 살펴봅니다."
+date: "2026-02-13"
+description: JIT 컴파일러 개선, 패턴 매칭 v3 등 Python 3.14의 새로운 기능을 살펴봅니다.
+heroImage: ./cover.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "./cover.jpg"
-tags: ["python", "programming", "tech-trends"]
+tags:
+  - python
+  - programming
+  - tech-trends
+title: "Python 3.14: 속도와 타입 안전성의 새로운 도약"
 ---
 
 Python 3.14가 드디어 출시되었습니다. 이번 릴리스는 3.13에서 도입된 JIT(Just-In-Time) 컴파일러의 성능을 대폭 개선하고, 개발자 경험을 향상시키는 다양한 기능을 포함하고 있습니다.

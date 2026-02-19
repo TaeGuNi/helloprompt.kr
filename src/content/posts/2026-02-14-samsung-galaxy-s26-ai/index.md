@@ -1,8 +1,9 @@
 ---
-title: "갤럭시 S26: 괴물 스펙과 AI의 결합"
-description: "엑시노스 2600 탑재. 3D 옥외 광고로 보는 갤럭시 AI의 진화."
+cover: ./cover.jpg
 date: "2026-02-14"
-cover: "./cover.jpg"
+description: 엑시노스 2600 탑재. 3D 옥외 광고로 보는 갤럭시 AI의 진화.
+layout: /src/layouts/Layout.astro
+title: "갤럭시 S26: 괴물 스펙과 AI의 결합"
 ---
 
 ## 인사이트 및 분석

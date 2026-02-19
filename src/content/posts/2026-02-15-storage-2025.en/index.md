@@ -1,8 +1,12 @@
 ---
-title: "Backblaze Drive Stats 2025: The Reality of AI Storage"
-description: "An analysis of drive reliability in the era of massive AI datasets."
 date: "2026-02-15"
-tags: ["storage", "hardware", "data"]
+description: An analysis of drive reliability in the era of massive AI datasets.
+layout: /src/layouts/Layout.astro
+tags:
+  - storage
+  - hardware
+  - data
+title: "Backblaze Drive Stats 2025: The Reality of AI Storage"
 ---
 
 2025 was a pivotal year for data storage. With the explosion of multimodal AI models and video generation tools, the demand for raw capacity has skyrocketed. But how did the hardware hold up?

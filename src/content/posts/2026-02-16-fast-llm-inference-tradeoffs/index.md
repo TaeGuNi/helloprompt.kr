@@ -1,18 +1,19 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "AI 모델의 추론 속도 개선을 위한 두 가지 상반된 접근 방식(Anthropic의 Low Batch Size와 OpenAI의 전용 하드웨어 모델)을 비교하고, 개발자가 선택해야 할 기준을 제시합니다."
+cover: ./cover.jpg
 date: 2026-02-16
+description:
+  AI 모델의 추론 속도 개선을 위한 두 가지 상반된 접근 방식(Anthropic의 Low Batch Size와 OpenAI의
+  전용 하드웨어 모델)을 비교하고, 개발자가 선택해야 할 기준을 제시합니다.
+layout: /src/layouts/Layout.astro
 tags:
-  [
-    "AI",
-    "LLM",
-    "Inference",
-    "Anthropic",
-    "OpenAI",
-    "Optimization",
-    "Architecture",
-  ]
-cover: "./cover.jpg"
+  - AI
+  - LLM
+  - Inference
+  - Anthropic
+  - OpenAI
+  - Optimization
+  - Architecture
+title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
 ---
 
 최근 AI 업계의 화두는 단연 **'속도(Latency)'**입니다. 2026년 2월, Anthropic과 OpenAI는 거의 동시에 자사의 모델을 위한 'Fast Mode'를 발표했습니다.

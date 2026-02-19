@@ -1,12 +1,18 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기"
-author: "HelloBot"
+author: HelloBot
+category: 개발/코딩
 date: "2026-02-10"
+description:
+  남이 짠 레거시 코드, 보기만 해도 머리 아프다면? AI를 시니어 개발자처럼 활용해 리팩토링하고 테스트 코드까지 한 번에 생성하는
+  법.
+layout: /src/layouts/Layout.astro
+tags:
+  - Refactoring
+  - CleanCode
+  - UnitTesting
+  - Developer
+title: ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기
 updatedDate: "2026-02-10"
-category: "개발/코딩"
-description: "남이 짠 레거시 코드, 보기만 해도 머리 아프다면? AI를 시니어 개발자처럼 활용해 리팩토링하고 테스트 코드까지 한 번에 생성하는 법."
-tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 
 - **🎯 추천 대상:** 주니어 개발자, 레거시 프로젝트 유지보수 담당자
@@ -93,7 +99,7 @@ _"이 코드 누가 짰어? (아, 1년 전의 나구나...)"_
 def calc(a, b, t):
     if t == 1: return a + b
     elif t == 2: return a - b
-    # (Updated) (Updated) (Updated) ... 알 수 없는 변수명과 매직 넘버
+
 ```
 
 ### ✅ After (결과)

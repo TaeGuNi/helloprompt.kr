@@ -1,9 +1,15 @@
 ---
-title: "Privacy First Edge AI (Korean)"
-description: "Running powerful LLMs locally on devices is now mainstream enhancing privacy"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/edge/800/600"
-tags: ["AI", "Tech", "edge-ai-privacy-2026"]
+description:
+  Running powerful LLMs locally on devices is now mainstream enhancing
+  privacy
+image: https://picsum.photos/seed/edge/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - edge-ai-privacy-2026
+title: Privacy First Edge AI (Korean)
 ---
 
 ## 개요 {#intro}

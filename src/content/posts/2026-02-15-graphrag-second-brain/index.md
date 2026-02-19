@@ -1,9 +1,19 @@
 ---
-title: "GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유"
-description: "벡터 검색은 유사성 찾기에는 좋지만, 복잡한 추론에는 약합니다. Neo4j와 LangChain으로 개인 지식 그래프(GraphRAG)를 구축하여 노트 속의 숨겨진 연결고리를 찾는 법을 소개합니다."
+cover: ./cover.png
 date: 2026-02-15
-tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
-cover: "./cover.png"
+description:
+  벡터 검색은 유사성 찾기에는 좋지만, 복잡한 추론에는 약합니다. Neo4j와 LangChain으로 개인 지식 그래프(GraphRAG)를
+  구축하여 노트 속의 숨겨진 연결고리를 찾는 법을 소개합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - ai
+  - rag
+  - graphrag
+  - neo4j
+  - langchain
+  - pkm
+  - obsidian
+title: "GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유"
 ---
 
 옵시디언(Obsidian)에 5,000개의 마크다운 노트를 쌓아두었다고 가정해 봅시다. 벡터 데이터베이스(Chroma/Pinecone)에 모든 인덱싱을 마쳤습니다. 그리고 AI에게 묻습니다. _"내가 작년에 쓴 '생산성의 역설'에 대한 글과 '어텐션 메커니즘' 연구가 어떤 연관이 있지?"_
@@ -70,7 +80,6 @@ from langchain_community.graphs import Neo4jGraph
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_openai import ChatOpenAI
 
-# 1. Neo4j 연결
 graph = Neo4jGraph(
     url="bolt://localhost:7687",
     username="neo4j",

@@ -1,9 +1,14 @@
 ---
-title: "마이크로 프론트엔드 아키텍처: 프론트엔드 개발의 확장"
-description: "2026년 대규모 웹 앱 개발 방식을 변화시키고 있는 마이크로 프론트엔드에 대한 심층 분석."
+cover: ./cover.jpg
 date: "2026-02-13"
-cover: "./cover.jpg"
-tags: ["architecture", "frontend", "microservices", "web-development"]
+description: 2026년 대규모 웹 앱 개발 방식을 변화시키고 있는 마이크로 프론트엔드에 대한 심층 분석.
+layout: /src/layouts/Layout.astro
+tags:
+  - architecture
+  - frontend
+  - microservices
+  - web-development
+title: "마이크로 프론트엔드 아키텍처: 프론트엔드 개발의 확장"
 ---
 
 급변하는 웹 개발 환경에서 모놀리식(Monolithic) 프론트엔드는 오랫동안 대규모 조직의 병목 현상이었습니다. 백엔드 아키텍처가 독립적인 확장과 배포를 가능하게 하는 마이크로서비스로 전환되는 동안, 프론트엔드 개발은 여전히 거대한 단일 코드베이스에 갇혀 있는 경우가 많았습니다. 여기서 **마이크로 프론트엔드 아키텍처(Micro-Frontend Architecture)**가 등장합니다.

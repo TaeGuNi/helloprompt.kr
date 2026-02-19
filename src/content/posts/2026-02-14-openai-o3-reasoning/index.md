@@ -1,8 +1,12 @@
 ---
-title: "OpenAI O3: 추론의 깊이를 더하다"
 date: 2026-02-14
-tags: [openai, ai, reasoning]
 image: https://source.unsplash.com/random/1600x900/?math,logic
+layout: /src/layouts/Layout.astro
+tags:
+  - openai
+  - ai
+  - reasoning
+title: "OpenAI O3: 추론의 깊이를 더하다"
 ---
 
 OpenAI의 새로운 모델 O3는 '추론(Reasoning)'에 초점을 맞춘 모델로, 기존 LLM의 한계를 뛰어넘는 논리적 사고 능력을 보여줍니다. 복잡한 수학 문제 해결, 과학적 가설 검증, 그리고 코딩 난제 해결에 특화되어 있습니다.

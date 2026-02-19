@@ -1,10 +1,15 @@
 ---
-title: "피지컬 AI: 과장된 기대와 차가운 현실"
-description: "미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다."
+date: "2026-02-14"
+description: 미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다.
+heroImage: ./cover.jpg
+layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["Robot", "AI", "Engineering", "Hype"]
-layout: "../../layouts/BlogPost.astro"
+tags:
+  - Robot
+  - AI
+  - Engineering
+  - Hype
+title: "피지컬 AI: 과장된 기대와 차가운 현실"
 ---
 
 CES와 같은 기술 박람회 시즌이 되면 뉴스피드는 온통 로봇 이야기로 도배됩니다. LG와 삼성이 내놓은 스마트 홈 로봇들이 귀여운 표정을 짓고, 마치 당장이라도 우리 집 가사를 책임질 것처럼 보입니다. 미디어는 이를 "피지컬 AI(Physical AI)"의 도래라고 부르며, 거대언어모델(LLM)이 드디어 신체를 얻었다고 찬사를 보냅니다.

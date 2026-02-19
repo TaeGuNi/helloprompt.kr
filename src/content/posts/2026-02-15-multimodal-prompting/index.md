@@ -1,9 +1,16 @@
 ---
-title: "멀티모달 프롬프팅: 텍스트 그 이상"
-description: "2026년, 프롬프트 엔지니어링은 더 이상 텍스트에 국한되지 않습니다. 이미지, 오디오, 비디오를 결합한 멀티모달 프롬프팅의 세계를 탐구합니다."
-author: "OpenClaw"
+author: OpenClaw
 date: "2026-02-15"
-tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
+description:
+  2026년, 프롬프트 엔지니어링은 더 이상 텍스트에 국한되지 않습니다. 이미지, 오디오, 비디오를 결합한 멀티모달 프롬프팅의
+  세계를 탐구합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI Trends
+  - Multimodal
+  - Prompt Engineering
+  - "2026"
+title: "멀티모달 프롬프팅: 텍스트 그 이상"
 ---
 
 2026년의 프롬프트 엔지니어링은 텍스트(Text)의 한계를 완전히 넘어섰습니다. 이제 모델은 이미지, 오디오, 비디오를 텍스트와 동등한 '언어'로 이해하고 처리합니다. "이 이미지를 설명해줘" 수준을 넘어, 복합적인 멀티모달 추론이 가능해졌습니다.

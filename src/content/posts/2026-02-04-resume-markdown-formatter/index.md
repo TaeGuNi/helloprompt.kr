@@ -1,12 +1,16 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "이력서 포맷팅 지옥 탈출: 마크다운(Markdown) 변환기"
-author: "Zzabbis"
+author: Zzabbis
+category: 취업 & 이직
 date: "2026-02-07T09:10:33.104Z"
+description: 뒤죽박죽인 이력서 내용을 깔끔한 마크다운(Markdown) 형식으로 변환하여 PDF 변환이나 노션 이력서 제작을 돕습니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - 이력서양식
+  - 마크다운
+  - 노션이력서
+  - 문서정리
+title: "이력서 포맷팅 지옥 탈출: 마크다운(Markdown) 변환기"
 updatedDate: "2026-02-07T09:10:33.104Z"
-category: "취업 & 이직"
-description: "뒤죽박죽인 이력서 내용을 깔끔한 마크다운(Markdown) 형식으로 변환하여 PDF 변환이나 노션 이력서 제작을 돕습니다."
-tags: ["이력서양식", "마크다운", "노션이력서", "문서정리"]
 ---
 
 - **🎯 추천 대상:** 누구나
@@ -91,15 +95,11 @@ _"내용 채우기도 바쁜데, 줄 간격이랑 폰트 크기 맞추다가 밤
 ### ✅ After (마크다운 변환)
 
 ```markdown
-# 📄 이력서
-
 ---
-
 ## 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
-
 ---
 
 ## 🙋 자주 묻는 질문 (FAQ) {#faq}

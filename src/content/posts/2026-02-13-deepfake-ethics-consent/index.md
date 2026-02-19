@@ -1,8 +1,12 @@
 ---
-title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
-tags: [Ethics, Security, Deepfake]
+image: https://source.unsplash.com/random/1200x630/?mask,cybersecurity
+layout: /src/layouts/Layout.astro
+tags:
+  - Ethics
+  - Security
+  - Deepfake
+title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
 ---
 
 ## 동의 없는 지옥 (The Non-Consensual Hell) {#the-non-consensual-hell}

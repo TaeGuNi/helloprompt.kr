@@ -1,11 +1,20 @@
 ---
+categories:
+  - Tech Trends
+  - Privacy
+date: "2026-02-13"
+description:
+  클라우드로 데이터를 보내지 않고, 내 스마트폰과 PC에서 직접 돌아가는 AI. 소버린 AI(Sovereign AI)와 온디바이스(On-Device)
+  기술이 가져올 프라이버시 혁명을 다룹니다.
+heroImage: /images/blog/2026-02-13-sovereign-ai.jpg
 layout: /src/layouts/Layout.astro
-title: "소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서"
-description: "클라우드로 데이터를 보내지 않고, 내 스마트폰과 PC에서 직접 돌아가는 AI. 소버린 AI(Sovereign AI)와 온디바이스(On-Device) 기술이 가져올 프라이버시 혁명을 다룹니다."
 pubDate: "2026-02-13"
-heroImage: "/images/blog/2026-02-13-sovereign-ai.jpg"
-categories: ["Tech Trends", "Privacy"]
-tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
+tags:
+  - Sovereign AI
+  - Edge Computing
+  - On-Device AI
+  - Privacy
+title: "소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서"
 ---
 
 _"인터넷 연결 없이도 작동하는 AI. 가장 안전한 데이터는 '떠나지 않는' 데이터입니다."_

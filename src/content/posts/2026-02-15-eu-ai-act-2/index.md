@@ -1,9 +1,15 @@
 ---
-title: "Eu Ai Act 2 (Korean)"
-description: "Critical analysis of eu-ai-act-2: Strict enforcement begins for generative video."
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=EU+AI+Act"
-tags: ["AI", "Trend", "2026"]
+description:
+  "Critical analysis of eu-ai-act-2: Strict enforcement begins for generative
+  video."
+image: https://via.placeholder.com/800x400?text=EU+AI+Act
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Trend
+  - "2026"
+title: Eu Ai Act 2 (Korean)
 ---
 
 The tech world is drowning in noise. We call it innovation; users call it exhaustion.

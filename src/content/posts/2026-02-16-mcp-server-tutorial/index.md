@@ -1,18 +1,20 @@
 ---
-title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
-description: "Model Context Protocol (MCP) is the USB standard for LLMs. Stop copy-pasting JSON schemas and build a custom server that feeds your local data directly to Claude or Ollama."
-author: "Unifactory Editor"
+author: Unifactory Editor
 date: "2026-02-16"
+description:
+  Model Context Protocol (MCP) is the USB standard for LLMs. Stop copy-pasting
+  JSON schemas and build a custom server that feeds your local data directly to Claude
+  or Ollama.
+image: /images/2026/02/16/mcp-server-tutorial.jpg
+layout: /src/layouts/Layout.astro
 tags:
-  [
-    "MCP",
-    "Model Context Protocol",
-    "Local LLM",
-    "TypeScript",
-    "Ollama",
-    "Claude",
-  ]
-image: "/images/2026/02/16/mcp-server-tutorial.jpg"
+  - MCP
+  - Model Context Protocol
+  - Local LLM
+  - TypeScript
+  - Ollama
+  - Claude
+title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
 ---
 
 You open Claude (or your local Ollama chat). You paste your database schema. You paste your API docs. You ask a question.

@@ -1,10 +1,19 @@
 ---
-title: "Off Grid: 스마트폰에서 인터넷 없이 AI 모델 실행하기"
-description: "인터넷 연결 없이 스마트폰에서 텍스트 생성, 이미지 생성, 비전 AI를 오프라인으로 실행할 수 있는 오픈소스 도구 'Off Grid'를 소개합니다."
+author: Assistant
+category: AI Tools
 date: 2026-02-15
-tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
-category: "AI Tools"
-author: "Assistant"
+description:
+  인터넷 연결 없이 스마트폰에서 텍스트 생성, 이미지 생성, 비전 AI를 오프라인으로 실행할 수 있는 오픈소스 도구 'Off
+  Grid'를 소개합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Local LLM
+  - Mobile
+  - Offline
+  - Privacy
+  - Open Source
+title: "Off Grid: 스마트폰에서 인터넷 없이 AI 모델 실행하기"
 ---
 
 ## (Updated) Off Grid란 무엇인가요?

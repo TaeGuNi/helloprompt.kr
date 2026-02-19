@@ -1,8 +1,12 @@
 ---
-title: "Midjourney v8: 스타일의 정복"
 date: 2026-02-14
-tags: [midjourney, art, ai]
 image: https://source.unsplash.com/random/1600x900/?art,paint
+layout: /src/layouts/Layout.astro
+tags:
+  - midjourney
+  - art
+  - ai
+title: "Midjourney v8: 스타일의 정복"
 ---
 
 Midjourney v8은 AI 아트의 새로운 지평을 엽니다. 특히 '스타일 튜너(Style Tuner)'와 '스타일 참조(SREF)' 기능이 강화되어, 사용자가 원하는 미묘한 화풍을 정확하게 재현할 수 있습니다.

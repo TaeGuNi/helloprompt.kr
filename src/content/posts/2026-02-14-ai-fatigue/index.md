@@ -1,9 +1,15 @@
 ---
-title: "AI 피로감의 시대: 디지털 공해와 스팸"
-description: "Critical analysis of ai-fatigue: Users are tired of AI features they didn't ask for."
 date: "2026-02-14"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop"
-tags: ["AI", "Trend", "2026"]
+description:
+  "Critical analysis of ai-fatigue: Users are tired of AI features they
+  didn't ask for."
+image: https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Trend
+  - "2026"
+title: "AI 피로감의 시대: 디지털 공해와 스팸"
 ---
 
 The tech world is drowning in noise. We call it innovation; users call it exhaustion.

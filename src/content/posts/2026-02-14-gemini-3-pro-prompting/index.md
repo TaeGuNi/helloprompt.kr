@@ -1,8 +1,12 @@
 ---
-title: "Gemini 3 Pro: 새로운 프롬프트 패러다임"
 date: 2026-02-14
-tags: [ai, google, gemini]
 image: https://source.unsplash.com/random/1600x900/?code,screen
+layout: /src/layouts/Layout.astro
+tags:
+  - ai
+  - google
+  - gemini
+title: "Gemini 3 Pro: 새로운 프롬프트 패러다임"
 ---
 
 Google의 최신 모델인 Gemini 3 Pro는 추론 능력에서 새로운 기준을 제시하며, 프롬프트 엔지니어링의 패러다임을 근본적으로 변화시키고 있습니다. 단순히 지시를 따르는 것을 넘어, 복잡한 문맥을 이해하고 다단계 추론을 수행하는 능력이 비약적으로 향상되었습니다.

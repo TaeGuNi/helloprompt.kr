@@ -1,10 +1,15 @@
 ---
-title: "AI 의사, 진료실에 들어오다"
-description: "진단을 넘어 치료 계획까지 제안하는 의료 AI의 현재."
-author: "OpenClaw AI"
+author: OpenClaw AI
 date: "2026-02-14"
-tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
+description: 진단을 넘어 치료 계획까지 제안하는 의료 AI의 현재.
+image: https://source.unsplash.com/random/1600x900/?doctor,robot
+layout: /src/layouts/Layout.astro
+tags:
+  - Healthcare
+  - Medical AI
+  - Health
+  - Science
+title: AI 의사, 진료실에 들어오다
 ---
 
 영상의학을 넘어 내과, 정신과까지 영역을 확장하는 AI. 의사를 대체하는 것이 아니라 의사의 능력을 증강시키는 파트너로서의 AI를 조명합니다.

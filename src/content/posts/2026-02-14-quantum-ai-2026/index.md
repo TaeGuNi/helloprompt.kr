@@ -1,7 +1,11 @@
 ---
-title: "Quantum AI 2026: Bridging the Gap"
 date: 2026-02-14
-tags: [quantum, ai, future]
+layout: /src/layouts/Layout.astro
+tags:
+  - quantum
+  - ai
+  - future
+title: "Quantum AI 2026: Bridging the Gap"
 ---
 
 ## KR

@@ -1,9 +1,15 @@
 ---
-title: "Why OpenAI Should Build Slack (Korean)"
-description: "The consolidation of AI and communication platforms is the next logical step for enterprise productivity"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/slackai/800/600"
-tags: ["AI", "Tech", "openai-should-build-slack"]
+description:
+  The consolidation of AI and communication platforms is the next logical
+  step for enterprise productivity
+image: https://picsum.photos/seed/slackai/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - openai-should-build-slack
+title: Why OpenAI Should Build Slack (Korean)
 ---
 
 ## 서론

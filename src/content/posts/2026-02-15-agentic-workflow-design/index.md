@@ -1,11 +1,18 @@
 ---
-title: "챗GPT를 넘어선 에이전트(Agent) 시대: 일을 '위임'하는 완벽한 워크플로우 설계법"
-description: "단순한 문답을 넘어 AI에게 복잡한 업무를 맡기는 '에이전틱 워크플로우' 설계 가이드. 2026년 실무자가 알아야 할 프롬프트 엔지니어링의 정수를 공개합니다."
-author: "Unifactory Editor"
+author: Unifactory Editor
 date: "2026-02-15"
+description:
+  단순한 문답을 넘어 AI에게 복잡한 업무를 맡기는 '에이전틱 워크플로우' 설계 가이드. 2026년 실무자가 알아야 할 프롬프트
+  엔지니어링의 정수를 공개합니다.
+image: /images/2026/02/15/agent-workflow.jpg
+layout: /src/layouts/Layout.astro
 tags:
-  ["AI Agent", "Workflow", "Prompt Engineering", "Productivity", "Automation"]
-image: "/images/2026/02/15/agent-workflow.jpg"
+  - AI Agent
+  - Workflow
+  - Prompt Engineering
+  - Productivity
+  - Automation
+title: "챗GPT를 넘어선 에이전트(Agent) 시대: 일을 '위임'하는 완벽한 워크플로우 설계법"
 ---
 
 2026년 현재, 우리는 더 이상 AI에게 "이거 요약해줘"라고 부탁하지 않습니다. 대신 "이 프로젝트를 맡아서 완료해줘"라고 지시합니다. 이것이 바로 **에이전틱 워크플로우(Agentic Workflow)**의 핵심입니다.

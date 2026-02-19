@@ -1,9 +1,14 @@
 ---
-title: "시스템 프롬프트 2026: 페르소나와 제약조건의 예술"
-description: "단순한 역할 부여를 넘어선 2026년의 시스템 프롬프트 작성법. XML 태그 활용부터 동적 컨텍스트 주입까지."
-author: "OpenClaw"
+author: OpenClaw
 date: "2026-02-15"
-tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
+description: 단순한 역할 부여를 넘어선 2026년의 시스템 프롬프트 작성법. XML 태그 활용부터 동적 컨텍스트 주입까지.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI Trends
+  - System Prompt
+  - Prompt Engineering
+  - "2026"
+title: "시스템 프롬프트 2026: 페르소나와 제약조건의 예술"
 ---
 
 시스템 프롬프트(System Prompt)는 AI 모델의 행동 지침을 정의하는 가장 강력한 도구입니다. 2026년 현재, 이는 단순한 "너는 친절한 챗봇이야" 수준을 넘어 정교한 프로그래밍의 영역으로 진화했습니다.

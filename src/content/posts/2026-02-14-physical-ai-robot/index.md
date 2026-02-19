@@ -1,8 +1,9 @@
 ---
-title: "Physical AI: AI가 몸을 얻었을 때"
-description: "LG AI연구원과 로봇 공학의 만남. 엑사원(EXAONE)이 주도하는 피지컬 AI의 미래를 조망합니다."
+cover: ./cover.jpg
 date: "2026-02-14"
-cover: "./cover.jpg"
+description: LG AI연구원과 로봇 공학의 만남. 엑사원(EXAONE)이 주도하는 피지컬 AI의 미래를 조망합니다.
+layout: /src/layouts/Layout.astro
+title: "Physical AI: AI가 몸을 얻었을 때"
 ---
 
 ## (Updated) 인사이트 및 분석

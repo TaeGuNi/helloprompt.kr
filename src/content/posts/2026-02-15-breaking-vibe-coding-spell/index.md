@@ -1,9 +1,15 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Korean)"
-description: "Moving beyond vibe based AI coding to rigorous engineering practices is the trend for 2026"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/coding/800/600"
-tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
+description:
+  Moving beyond vibe based AI coding to rigorous engineering practices
+  is the trend for 2026
+image: https://picsum.photos/seed/coding/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - breaking-vibe-coding-spell
+title: Breaking the Spell of Vibe Coding (Korean)
 ---
 
 ## 들어가며 {#intro}

@@ -1,9 +1,15 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Korean)"
-description: "Few shot prompting drastically improves reliability for complex reasoning tasks"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/prompt1/800/600"
-tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
+description:
+  Few shot prompting drastically improves reliability for complex reasoning
+  tasks
+image: https://picsum.photos/seed/prompt1/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - prompt-engineering-zero-shot-vs-few-shot
+title: Zero Shot vs Few Shot Prompting (Korean)
 ---
 
 ## 소개 (Introduction) {#introduction}

@@ -1,13 +1,14 @@
 ---
-title: "Zig I/O 업데이트: 2026년 2월 현황"
+cover: ./cover.png
 date: 2026-02-15
+layout: /src/layouts/Layout.astro
 tags:
   - zig
   - programming
   - io
   - async
   - low-level
-cover: ./cover.png
+title: "Zig I/O 업데이트: 2026년 2월 현황"
 ---
 
 Zig 언어의 I/O 시스템은 그동안 꾸준히 발전해 왔습니다. 이번 2026년 2월 업데이트에서는 특히 비동기 런타임 통합과 크로스 플랫폼 I/O 추상화에 대한 중요한 진전이 있었습니다.

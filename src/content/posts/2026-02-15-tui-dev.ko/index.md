@@ -1,8 +1,14 @@
 ---
-title: "현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게"
-description: "최신 라이브러리와 AI 도구가 어떻게 TUI(Text User Interface) 개발을 혁신하고 누구나 쉽게 만들 수 있게 되었는지 알아봅니다."
 date: "2026-02-15"
-tags: ["tui", "dev-tools", "cli"]
+description:
+  최신 라이브러리와 AI 도구가 어떻게 TUI(Text User Interface) 개발을 혁신하고 누구나 쉽게 만들 수 있게
+  되었는지 알아봅니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - tui
+  - dev-tools
+  - cli
+title: "현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게"
 ---
 
 소프트웨어 개발의 빠른 변화 속에서도 터미널은 언제나 개발자의 곁을 지켜왔습니다. 하지만 터미널 앱이 딱딱하고, 흑백이며, 사용하기 불편했던 시절은 이제 지났습니다. 바야흐로 **현대적인 TUI(Text User Interface) 개발**의 시대가 도래했습니다.

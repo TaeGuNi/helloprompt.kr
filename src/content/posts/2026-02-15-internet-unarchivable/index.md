@@ -1,8 +1,15 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "Dynamic content, single-page apps, and walled gardens are making it increasingly difficult for digital archivists to preserve the open web history."
 date: 2026-02-15
-tags: ["Internet", "Archiving", "History", "Web"]
+description:
+  Dynamic content, single-page apps, and walled gardens are making it increasingly
+  difficult for digital archivists to preserve the open web history.
+layout: /src/layouts/Layout.astro
+tags:
+  - Internet
+  - Archiving
+  - History
+  - Web
+title: The Internet is Becoming Unarchivable
 ---
 
 ## The Internet is Becoming Unarchivable

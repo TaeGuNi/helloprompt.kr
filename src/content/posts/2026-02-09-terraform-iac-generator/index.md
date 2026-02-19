@@ -1,12 +1,15 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "테라폼(Terraform) IaC 코드 생성기"
-author: "Zzabbis"
+author: Zzabbis
+category: DevOps
 date: "2026-02-09"
+description: 클라우드 인프라를 코드로 관리(IaC)하기 위한 Terraform 모듈을 안전하게 생성합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - DevOps
+  - Terraform
+  - AWS
+title: 테라폼(Terraform) IaC 코드 생성기
 updatedDate: "2026-02-09"
-category: "DevOps"
-description: "클라우드 인프라를 코드로 관리(IaC)하기 위한 Terraform 모듈을 안전하게 생성합니다."
-tags: ["DevOps", "Terraform", "AWS"]
 ---
 
 - **🎯 추천 대상:** AWS 콘솔에서 길을 잃은 개발자, 인프라 관리가 귀찮은 백엔드 개발자
@@ -86,7 +89,7 @@ AWS에 VPC 만들고 퍼블릭 서브넷 2개랑 프라이빗 2개 만들어줘.
 ### ✅ After (결과)
 
 ```hcl
-# main.tf
+
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 

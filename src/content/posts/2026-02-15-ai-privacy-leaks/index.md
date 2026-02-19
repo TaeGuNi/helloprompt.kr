@@ -1,9 +1,13 @@
 ---
-title: "Smart Device Privacy Risks (Korean)"
-description: "Your brainwaves might be public AI data collection knows no bounds"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/privacy/800/600"
-tags: ["AI", "Tech", "ai-privacy-leaks"]
+description: Your brainwaves might be public AI data collection knows no bounds
+image: https://picsum.photos/seed/privacy/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - ai-privacy-leaks
+title: Smart Device Privacy Risks (Korean)
 ---
 
 ## 도입

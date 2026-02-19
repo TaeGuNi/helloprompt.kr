@@ -1,11 +1,20 @@
 ---
+categories:
+  - Prompt Engineering
+  - Advanced
+date: "2026-02-13"
+description:
+  AI 모델이 똑똑해질수록 프롬프트는 더 짧고 명확해집니다. 복잡한 구조 대신, AI에게 정확한 의도를 전달하는 새로운 소통
+  방식을 소개합니다.
+heroImage: /images/blog/prompt-3.jpg
 layout: /src/layouts/Layout.astro
-title: "프롬프트 엔지니어링 3.0: 문법(Syntax)을 넘어 의도(Intent)로"
-description: "AI 모델이 똑똑해질수록 프롬프트는 더 짧고 명확해집니다. 복잡한 구조 대신, AI에게 정확한 의도를 전달하는 새로운 소통 방식을 소개합니다."
 pubDate: "2026-02-13"
-heroImage: "/images/blog/prompt-3.jpg"
-categories: ["Prompt Engineering", "Advanced"]
-tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
+tags:
+  - Intent-Based
+  - Less is More
+  - Context Window
+  - Chain-of-Thought
+title: "프롬프트 엔지니어링 3.0: 문법(Syntax)을 넘어 의도(Intent)로"
 ---
 
 _"GPT-3 시절의 복잡한 주문(Spell)은 잊으세요. 이제는 감독(Director)처럼 지시할 때입니다."_

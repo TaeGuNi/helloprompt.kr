@@ -1,14 +1,21 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
-title: "Google LangExtract로 구조화된 데이터 추출 마스터하기"
+author: Hello Prompt
 date: 2024-05-20
-pubDate: 2024-05-20
-description: "Google의 새로운 LangExtract 라이브러리를 사용하여 LLM에서 정확한 JSON 및 구조화된 데이터를 추출하는 방법을 알아봅니다."
-author: "Hello Prompt"
+description:
+  Google의 새로운 LangExtract 라이브러리를 사용하여 LLM에서 정확한 JSON 및 구조화된 데이터를 추출하는 방법을
+  알아봅니다.
 image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
-tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
+  alt: Google LangExtract Logo
+  url: https://docs.astro.build/assets/full-logo-light.png
+layout: ../../layouts/MarkdownPostLayout.astro
+pubDate: 2024-05-20
+tags:
+  - Google
+  - LLM
+  - Data Extraction
+  - Python
+  - AI
+title: Google LangExtract로 구조화된 데이터 추출 마스터하기
 ---
 
 대규모 언어 모델(LLM)은 시를 쓰거나 코드를 작성하는 데는 훌륭하지만, 비즈니스 애플리케이션에서 가장 필요한 '구조화된 데이터 추출' 작업에서는 종종 어려움을 겪습니다. 텍스트에서 특정 정보를 뽑아내 JSON 형식으로 정확하게 맞추는 것은 프롬프트 엔지니어링만으로는 한계가 있었습니다.
@@ -34,7 +41,6 @@ from google.langextract import DataExtractor
 from pydantic import BaseModel, Field
 from datetime import datetime
 
-# 1. 추출할 데이터의 스키마 정의
 class MeetingInfo(BaseModel):
     topic: str = Field(description="회의 주제")
     participants: list[str] = Field(description="참석자 이름 목록")

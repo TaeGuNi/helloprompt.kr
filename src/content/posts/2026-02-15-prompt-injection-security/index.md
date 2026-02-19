@@ -1,9 +1,15 @@
 ---
-title: "Prompt Injection Security Risks (Korean)"
-description: "As LLMs integrate with tools, prompt injection becomes a critical security vulnerability"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/prompt4/800/600"
-tags: ["AI", "Tech", "prompt-injection-security"]
+description:
+  As LLMs integrate with tools, prompt injection becomes a critical security
+  vulnerability
+image: https://picsum.photos/seed/prompt4/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - prompt-injection-security
+title: Prompt Injection Security Risks (Korean)
 ---
 
 ## 개요 (Introduction) {#introduction}

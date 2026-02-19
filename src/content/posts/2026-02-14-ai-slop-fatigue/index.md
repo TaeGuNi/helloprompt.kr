@@ -1,9 +1,15 @@
 ---
-title: "AI 'Slop' 피로감: 왜 'No AI'가 새로운 프리미엄이 되는가"
-description: "질 낮은 AI 생성 콘텐츠가 웹을 뒤덮으면서 사용자들은 피로감을 호소하고 있습니다. 'No AI'가 새로운 품질의 척도가 되는 현상을 분석합니다."
+cover: ./cover.jpg
 date: 2026-02-14
-cover: "./cover.jpg"
-tags: ["AI", "Tech Trends", "Culture"]
+description:
+  질 낮은 AI 생성 콘텐츠가 웹을 뒤덮으면서 사용자들은 피로감을 호소하고 있습니다. 'No AI'가 새로운 품질의 척도가 되는
+  현상을 분석합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech Trends
+  - Culture
+title: "AI 'Slop' 피로감: 왜 'No AI'가 새로운 프리미엄이 되는가"
 ---
 
 2026년에 들어서며 인터넷 풍경은 극적으로 변화했습니다. 한때는 정보의 바다였던 웹이 이제는 소위 'AI Slop(질 낮은 AI 오물)'이라 불리는 생성형 콘텐츠의 늪이 되어버렸습니다.

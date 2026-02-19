@@ -1,9 +1,13 @@
 ---
-title: "AI Agent Swarms (Korean)"
-description: "Multi agent collaboration is the new standard for complex problem solving"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/swarm/800/600"
-tags: ["AI", "Tech", "ai-agent-swarms-2026"]
+description: Multi agent collaboration is the new standard for complex problem solving
+image: https://picsum.photos/seed/swarm/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - ai-agent-swarms-2026
+title: AI Agent Swarms (Korean)
 ---
 
 ## 소개

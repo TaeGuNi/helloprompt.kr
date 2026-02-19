@@ -1,9 +1,13 @@
 ---
-title: "Local LLMs Guide (Korean)"
-description: "Privacy focused AI accessible to all"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/ollama/800/600"
-tags: ["AI", "Tech", "local-llm-ollama"]
+description: Privacy focused AI accessible to all
+image: https://picsum.photos/seed/ollama/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - local-llm-ollama
+title: Local LLMs Guide (Korean)
 ---
 
 ## (Updated) Introduction

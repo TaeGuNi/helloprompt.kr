@@ -1,18 +1,19 @@
 ---
-title: "저널리즘의 위기: Ars Technica, 가짜 인용구로 기사 철회"
 date: "2026-02-15"
-image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
+description:
+  Ars Technica가 Matplotlib 관리자의 가짜 인용구가 포함된 기사를 철회했습니다. 이 사건은 저널리즘에서 AI
+  사용의 위험성을 극명하게 보여줍니다.
+image: /images/2026-02-15-ars-technica-ai-fake-quotes.jpg
+lang: ko
+layout: /src/layouts/Layout.astro
 tags:
-  [
-    "Journalism",
-    "Ethics",
-    "Ars Technica",
-    "Fake Quotes",
-    "AI Hallucination",
-    "Matplotlib",
-  ]
-description: "Ars Technica가 Matplotlib 관리자의 가짜 인용구가 포함된 기사를 철회했습니다. 이 사건은 저널리즘에서 AI 사용의 위험성을 극명하게 보여줍니다."
-lang: "ko"
+  - Journalism
+  - Ethics
+  - Ars Technica
+  - Fake Quotes
+  - AI Hallucination
+  - Matplotlib
+title: "저널리즘의 위기: Ars Technica, 가짜 인용구로 기사 철회"
 ---
 
 저명한 테크 뉴스 사이트인 **Ars Technica**가 Matplotlib 관리자의 가짜 인용구가 포함된 기사를 철회했습니다. 이 사건은 저널리즘에서 AI 사용의 위험성을 극명하게 보여주는 사례로 주목받고 있습니다.

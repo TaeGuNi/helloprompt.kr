@@ -1,7 +1,11 @@
 ---
-title: "AutoGPT 2.0: The Rise of Agent Swarms"
 date: 2026-02-14
-tags: [agents, autogpt, automation]
+layout: /src/layouts/Layout.astro
+tags:
+  - agents
+  - autogpt
+  - automation
+title: "AutoGPT 2.0: The Rise of Agent Swarms"
 ---
 
 (Korean)

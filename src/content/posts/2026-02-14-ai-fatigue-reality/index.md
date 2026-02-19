@@ -1,8 +1,9 @@
 ---
-title: "AI 피로감: 혁명인가, 디지털 쓰레기인가?"
-description: "2026년, 우리는 AI 과대광고에 지쳤습니다. Hype Score 92점, 현실과 거품 사이의 진실을 파헤칩니다."
+cover: ./cover.jpg
 date: "2026-02-14"
-cover: "./cover.jpg"
+description: 2026년, 우리는 AI 과대광고에 지쳤습니다. Hype Score 92점, 현실과 거품 사이의 진실을 파헤칩니다.
+layout: /src/layouts/Layout.astro
+title: "AI 피로감: 혁명인가, 디지털 쓰레기인가?"
 ---
 
 ## (Updated) 현실 점검 (Reality Check)

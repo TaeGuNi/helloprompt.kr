@@ -1,8 +1,14 @@
 ---
-title: "Claude Code로 골프 게임 만들기: AI 게임 개발의 새로운 시대"
-description: "Claude Code를 사용하여 기록적인 시간 안에 완전한 기능을 갖춘 골프 게임을 만드는 방법을 알아보세요. AI를 활용한 게임 개발 단계별 튜토리얼입니다."
 date: "2026-02-15"
-tags: ["ai", "gamedev", "claude"]
+description:
+  Claude Code를 사용하여 기록적인 시간 안에 완전한 기능을 갖춘 골프 게임을 만드는 방법을 알아보세요. AI를 활용한
+  게임 개발 단계별 튜토리얼입니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - ai
+  - gamedev
+  - claude
+title: "Claude Code로 골프 게임 만들기: AI 게임 개발의 새로운 시대"
 ---
 
 게임 개발의 풍경이 급격하게 변화하고 있습니다. **Claude Code**와 같은 도구 덕분에 복잡하고 인터랙티브한 경험을 만드는 진입 장벽이 그 어느 때보다 낮아졌습니다. 이 포스트에서는 제가 Claude Code를 주요 개발 파트너로 삼아 2D 골프 게임을 만든 과정을 단계별로 소개합니다.

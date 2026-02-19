@@ -1,9 +1,17 @@
 ---
-title: "Descent, 웹으로 이식되다"
+categories:
+  - Web
+  - GameDev
+  - WASM
+cover: ./cover.png
 date: 2026-02-15
-categories: ["Web", "GameDev", "WASM"]
-tags: ["Three.js", "WebGL", "Descent", "Retro"]
-cover: "./cover.png"
+layout: /src/layouts/Layout.astro
+tags:
+  - Three.js
+  - WebGL
+  - Descent
+  - Retro
+title: Descent, 웹으로 이식되다
 ---
 
 1995년 출시된 클래식 게임 Descent가 Three.js와 WASM을 사용하여 웹으로 이식되었습니다.

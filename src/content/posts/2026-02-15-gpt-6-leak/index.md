@@ -1,9 +1,16 @@
 ---
-title: "GPT-6 유출: 챗봇의 종말과 '설계자'의 탄생"
-description: "GPT-6에 대한 유출 정보는 단순한 텍스트 생성을 넘어선 '장기적 계획(Long-horizon Planning)'으로의 패러다임 전환을 시사합니다."
 date: "2026-02-15"
-image: "https://via.placeholder.com/800x400?text=GPT-6"
-tags: ["AI", "GPT-6", "미래", "유출"]
+description:
+  GPT-6에 대한 유출 정보는 단순한 텍스트 생성을 넘어선 '장기적 계획(Long-horizon Planning)'으로의 패러다임
+  전환을 시사합니다.
+image: https://via.placeholder.com/800x400?text=GPT-6
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - GPT-6
+  - 미래
+  - 유출
+title: "GPT-6 유출: 챗봇의 종말과 '설계자'의 탄생"
 ---
 
 실리콘밸리의 소문은 언제나 무성하지만, 이번 GPT-6 관련 유출은 그 무게감이 다릅니다. 단순히 '더 똑똑해진' 모델이 아닙니다. OpenAI는 이제 확률적 앵무새(Stochastic Parrot)의 시대를 끝내려 하고 있습니다.

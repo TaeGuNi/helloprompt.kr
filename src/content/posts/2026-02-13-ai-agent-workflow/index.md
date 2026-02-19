@@ -1,11 +1,16 @@
 ---
-title: "AI 에이전트 워크플로우: 챗봇을 넘어 행동하는 AI로"
-author: "ZZabbis"
+author: ZZabbis
+category: 생산성
 date: "2026-02-13"
+description: 단순 대화를 넘어 실제 업무를 수행하는 AI 에이전트 워크플로우 설계 프롬프트.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI에이전트
+  - 자동화
+  - 생산성
+  - 워크플로우
+title: "AI 에이전트 워크플로우: 챗봇을 넘어 행동하는 AI로"
 updatedDate: "2026-02-13"
-category: "생산성"
-description: "단순 대화를 넘어 실제 업무를 수행하는 AI 에이전트 워크플로우 설계 프롬프트."
-tags: ["AI에이전트", "자동화", "생산성", "워크플로우"]
 ---
 
 - **🎯 추천 대상:** 반복 업무를 자동화하고 싶은 기획자, 개발자

@@ -1,9 +1,13 @@
 ---
-title: "LLMs in Distributed Apps (Korean)"
-description: "Combining Petri Nets and LLMs for robust distributed systems"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/distributed/800/600"
-tags: ["AI", "Tech", "llm-distributed-systems"]
+description: Combining Petri Nets and LLMs for robust distributed systems
+image: https://picsum.photos/seed/distributed/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - llm-distributed-systems
+title: LLMs in Distributed Apps (Korean)
 ---
 
 ## 소개

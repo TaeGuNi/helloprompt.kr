@@ -1,9 +1,15 @@
 ---
-title: "AI의 유일한 진실은 인프라다"
-description: "Critical analysis of infra-truth: NVIDIA is the only one making real money."
 date: "2026-02-14"
-image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
-tags: ["AI", "Trend", "2026"]
+description:
+  "Critical analysis of infra-truth: NVIDIA is the only one making real
+  money."
+image: https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Trend
+  - "2026"
+title: AI의 유일한 진실은 인프라다
 ---
 
 The tech world is drowning in noise. We call it innovation; users call it exhaustion.

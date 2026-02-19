@@ -1,7 +1,8 @@
 ---
-title: "교육의 미래: 개인화된 AI 튜터"
-description: "교육의 미래: 개인화된 AI 튜터에 대한 심층 분석."
 date: "2026-02-14"
+description: "교육의 미래: 개인화된 AI 튜터에 대한 심층 분석."
+layout: /src/layouts/Layout.astro
+title: "교육의 미래: 개인화된 AI 튜터"
 ---
 
 교육의 미래: 개인화된 AI 튜터는 2026년 AI 트렌드의 핵심입니다. (자동 생성된 콘텐츠)

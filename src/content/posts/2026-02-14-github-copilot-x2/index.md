@@ -1,7 +1,11 @@
 ---
-title: "GitHub Copilot X2: The Next Evolution"
 date: 2026-02-14
-tags: [coding, ai, github]
+layout: /src/layouts/Layout.astro
+tags:
+  - coding
+  - ai
+  - github
+title: "GitHub Copilot X2: The Next Evolution"
 ---
 
 ## KR

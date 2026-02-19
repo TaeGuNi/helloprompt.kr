@@ -1,9 +1,15 @@
 ---
-title: "소셜 AI 위기: 파괴되는 인간 관계"
-description: "Critical analysis of ai-social-crisis: AI substitutes are breaking real human bonds."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/social-crisis/800/400"
-tags: ["AI", "Trend", "2026"]
+description:
+  "Critical analysis of ai-social-crisis: AI substitutes are breaking real
+  human bonds."
+image: https://picsum.photos/seed/social-crisis/800/400
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Trend
+  - "2026"
+title: "소셜 AI 위기: 파괴되는 인간 관계"
 ---
 
 The tech world is drowning in noise. We call it innovation; users call it exhaustion.

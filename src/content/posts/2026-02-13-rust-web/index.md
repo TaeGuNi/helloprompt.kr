@@ -1,9 +1,14 @@
 ---
-title: "웹 개발을 위한 Rust: 2026년의 관점"
 date: 2026-02-13
-description: "2026년, 고성능 웹 서비스의 지배적인 선택이 된 Rust에 대해 알아봅니다."
-image: "./cover.jpg"
-tags: ["rust", "web development", "backend", "performance"]
+description: 2026년, 고성능 웹 서비스의 지배적인 선택이 된 Rust에 대해 알아봅니다.
+image: ./cover.jpg
+layout: /src/layouts/Layout.astro
+tags:
+  - rust
+  - web development
+  - backend
+  - performance
+title: "웹 개발을 위한 Rust: 2026년의 관점"
 ---
 
 2026년, Rust는 웹 개발을 위한 최고의 언어로 확고히 자리 잡았습니다. 간단한 HTTP 핸들러를 위해 "대여 검사기(borrow checker)와 싸우던" 시절은 지났습니다. 성숙한 프레임워크와 놀라운 생태계를 통해 Rust는 안전성과 속도를 동시에 제공합니다.

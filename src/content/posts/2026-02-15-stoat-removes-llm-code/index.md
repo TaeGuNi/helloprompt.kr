@@ -1,14 +1,17 @@
 ---
-title: "Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿"
-description: "더 이상 코드를 생성하지 마세요. Stoat는 AI가 작성한 비대하고 중복된 코드를 찾아내어 제거하고, 코드베이스를 다이어트시키는 '안티-코파일럿'입니다."
+cover: ./cover.png
 date: 2026-02-15
+description:
+  더 이상 코드를 생성하지 마세요. Stoat는 AI가 작성한 비대하고 중복된 코드를 찾아내어 제거하고, 코드베이스를 다이어트시키는
+  '안티-코파일럿'입니다.
+layout: /src/layouts/Layout.astro
 tags:
   - AI
   - Stoat
   - Refactoring
   - Developer Tools
   - Clean Code
-cover: ./cover.png
+title: "Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿"
 ---
 
 2024년과 2025년이 'AI 코딩 어시스턴트'의 해였다면, 2026년은 'AI 클리너'의 해가 될지도 모릅니다.

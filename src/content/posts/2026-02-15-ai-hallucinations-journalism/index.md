@@ -1,8 +1,16 @@
 ---
-title: "AI Hallucinations in Journalism"
-description: "Ars Technica retracts a story after discovering that AI-generated quotes were falsely attributed to a software maintainer, highlighting the risks of LLMs in newsrooms."
 date: 2026-02-15
-tags: ["AI", "Ethics", "Journalism", "Fake News"]
+description:
+  Ars Technica retracts a story after discovering that AI-generated quotes
+  were falsely attributed to a software maintainer, highlighting the risks of LLMs
+  in newsrooms.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Ethics
+  - Journalism
+  - Fake News
+title: AI Hallucinations in Journalism
 ---
 
 ## AI Hallucinations in Journalism

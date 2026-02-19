@@ -1,9 +1,13 @@
 ---
-title: "Publishers Block AI Scraping (Korean)"
-description: "Data scarcity is becoming real as publishers lock down archives"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/archive/800/600"
-tags: ["AI", "Tech", "ai-scraping-block"]
+description: Data scarcity is becoming real as publishers lock down archives
+image: https://picsum.photos/seed/archive/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - ai-scraping-block
+title: Publishers Block AI Scraping (Korean)
 ---
 
 ## 서론

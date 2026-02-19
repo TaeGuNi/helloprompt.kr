@@ -1,8 +1,9 @@
 ---
-title: "메타 스마트 안경: 판매량 3배 급증의 비밀"
-description: "웨어러블 AI가 일상에 스며들고 있습니다. 메타의 성공 요인 분석."
+cover: ./cover.jpg
 date: "2026-02-14"
-cover: "./cover.jpg"
+description: 웨어러블 AI가 일상에 스며들고 있습니다. 메타의 성공 요인 분석.
+layout: /src/layouts/Layout.astro
+title: "메타 스마트 안경: 판매량 3배 급증의 비밀"
 ---
 
 ## 인사이트 및 분석 {#updated}

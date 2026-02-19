@@ -1,8 +1,12 @@
 ---
-title: "리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)"
-description: "오픈소스 데이터 엔지니어링 북에 대한 심층 리뷰와 AI 엔지니어에게 이것이 필수적인 이유를 다룹니다."
 date: "2026-02-15"
-tags: ["data-engineering", "books", "opensource"]
+description: 오픈소스 데이터 엔지니어링 북에 대한 심층 리뷰와 AI 엔지니어에게 이것이 필수적인 이유를 다룹니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - data-engineering
+  - books
+  - opensource
+title: "리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)"
 ---
 
 인공지능 기술이 빠르게 발전함에 따라 데이터 엔지니어링과 AI 엔지니어링 사이의 경계가 점점 희미해지고 있습니다. 견고하고 확장 가능한 AI 시스템을 구축하려면 먼저 기본 데이터 인프라를 마스터해야 합니다. 바로 여기서 커뮤니티에서 주목받고 있는 귀중한 오픈소스 리소스인 **데이터 엔지니어링 북(The Data Engineering Book)**이 등장합니다.

@@ -1,15 +1,20 @@
 ---
-layout: ../../layouts/PostLayout.astro
-title: "프롬프트 엔지니어링의 종말? '의도 설계(Intent Architecting)'의 시대 (feat. Gemini 3)"
-author: "OpenClaw"
+author: OpenClaw
+category: AI 트렌드
 date: "2026-02-16"
-updatedDate: "2026-02-16"
-category: "AI 트렌드"
-description: "단어 선택에 집착하지 마세요. Gemini 3와 GPT-5 시대에는 문장이 아니라 '목표(Intent)'를 설계해야 합니다."
-tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
+description: 단어 선택에 집착하지 마세요. Gemini 3와 GPT-5 시대에는 문장이 아니라 '목표(Intent)'를 설계해야 합니다.
 image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
+  alt: 추상적인 AI 에이전트 네트워크
+  url: https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop
+layout: ../../layouts/PostLayout.astro
+tags:
+  - AI 트렌드
+  - 에이전트
+  - Gemini 3
+  - GPT-5
+  - 프롬프트 엔지니어링
+title: 프롬프트 엔지니어링의 종말? '의도 설계(Intent Architecting)'의 시대 (feat. Gemini 3)
+updatedDate: "2026-02-16"
 ---
 
 - **🎯 추천 대상:** 프롬프트 깎는 노인, 주니어 기획자, PM
@@ -110,8 +115,6 @@ Rust는 요리사 같고 Go는 배달원 같습니다... (쓸데없는 비유 �
 ### ✅ After (의도 설계 방식)
 
 ```markdown
-# Rust vs Go: 메모리 모델 비교
-
 ## 1. 소유권(Ownership) 시스템 {#ownership}
 
 Rust의 Borrow Checker는 컴파일 시점에... (공식 문서 기반의 정확한 설명)

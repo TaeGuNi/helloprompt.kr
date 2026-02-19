@@ -1,9 +1,15 @@
 ---
-title: "Generative UI Patterns (Korean)"
-description: "Interfaces that adapt and generate themselves based on user intent are replacing static menus"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/genui/800/600"
-tags: ["AI", "Tech", "generative-ui-2026"]
+description:
+  Interfaces that adapt and generate themselves based on user intent are
+  replacing static menus
+image: https://picsum.photos/seed/genui/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - generative-ui-2026
+title: Generative UI Patterns (Korean)
 ---
 
 ## 소개

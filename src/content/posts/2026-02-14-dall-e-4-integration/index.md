@@ -1,7 +1,11 @@
 ---
-title: "Dall-E 4: Mastering Text and Light"
 date: 2026-02-14
-tags: [dalle, image-gen, openai]
+layout: /src/layouts/Layout.astro
+tags:
+  - dalle
+  - image-gen
+  - openai
+title: "Dall-E 4: Mastering Text and Light"
 ---
 
 ## KR

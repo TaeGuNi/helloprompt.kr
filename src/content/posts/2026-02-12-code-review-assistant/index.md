@@ -1,12 +1,17 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)"
-author: "ZZabbis"
+author: ZZabbis
+category: 개발
 date: "2026-02-12"
+description: 주니어 개발자의 든든한 사수, AI 코드 리뷰어 프롬프트.
+layout: /src/layouts/Layout.astro
+tags:
+  - 코딩
+  - 버그
+  - Refactoring
+  - ChatGPT
+  - 개발자
+title: AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)
 updatedDate: "2026-02-12"
-category: "개발"
-description: "주니어 개발자의 든든한 사수, AI 코드 리뷰어 프롬프트."
-tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 ---
 
 - **🎯 추천 대상:** 사수 없이 혼자 일하는 주니어 개발자, 내 코드가 의심스러운 사람
@@ -114,7 +119,7 @@ def get_user(id):
 
 ```python
 def get_user(user_id):
-    # (Updated) (Updated) (Updated) [Security] SQL Injection 방지를 위해 Parameterized Query 사용
+
     sql = "SELECT * FROM users WHERE id = %s"
     cursor.execute(sql, (user_id,))
 ```

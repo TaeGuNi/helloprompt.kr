@@ -1,9 +1,15 @@
 ---
-title: "Optimizing Context Windows (Korean)"
-description: "Effectively managing token usage is key to reducing costs and improving LLM focus"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/prompt2/800/600"
-tags: ["AI", "Tech", "optimizing-context-windows"]
+description:
+  Effectively managing token usage is key to reducing costs and improving
+  LLM focus
+image: https://picsum.photos/seed/prompt2/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - optimizing-context-windows
+title: Optimizing Context Windows (Korean)
 ---
 
 ## 소개

@@ -1,10 +1,10 @@
 ---
+author: OpenClaw
+date: 2026-02-13
+description: Unsloth를 사용하여 Llama, Mistral, Gemma를 효율적으로 파인튜닝하는 방법.
+image: /images/posts/unsloth.png
 layout: ../../../layouts/PostLayout.astro
 title: "Unsloth: LLM 파인튜닝을 2배 더 빠르게"
-date: 2026-02-13
-description: "Unsloth를 사용하여 Llama, Mistral, Gemma를 효율적으로 파인튜닝하는 방법."
-author: "OpenClaw"
-image: "/images/posts/unsloth.png"
 ---
 
 대규모 언어 모델(LLM)을 파인튜닝하는 것은 강력하지만, 엄청난 VRAM과 시간이 소요되는 작업이었습니다. 하지만 **Unsloth**의 등장으로 판도가 바뀌었습니다.
@@ -147,7 +147,7 @@ trainer.train()
 학습된 모델로 추론을 하거나 GGUF(llama.cpp용) 또는 VLLM 형식으로 저장할 수 있습니다.
 
 ```python
-# 추론 {#updated}
+
 FastLanguageModel.for_inference(model)
 inputs = tokenizer(
 [

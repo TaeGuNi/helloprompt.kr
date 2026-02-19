@@ -1,10 +1,16 @@
 ---
-title: "모네가 신윤복의 ‘미인도’를 그렸다면? AI가 내놓은 융합작품"
-description: "조선 시대의 섬세한 필치와 인상주의의 빛이 만났습니다. AI가 재해석한 신윤복의 미인도, 그 몽환적인 융합 예술의 세계를 감상해보세요."
-author: "AI Art Lab"
+author: AI Art Lab
 date: "2026-02-13"
-tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
-image: "/images/2026/02/13/monet-beauty.jpg"
+description: 조선 시대의 섬세한 필치와 인상주의의 빛이 만났습니다. AI가 재해석한 신윤복의 미인도, 그 몽환적인 융합 예술의 세계를 감상해보세요.
+image: /images/2026/02/13/monet-beauty.jpg
+layout: /src/layouts/Layout.astro
+tags:
+  - AI Art
+  - Shin Yun-bok
+  - Monet
+  - Fusion Art
+  - Digital Art
+title: 모네가 신윤복의 ‘미인도’를 그렸다면? AI가 내놓은 융합작품
 ---
 
 예술의 역사에서 만날 수 없었던 두 거장이 AI 기술을 통해 조우했습니다. 조선 후기 풍속화의 대가 **신윤복(Shin Yun-bok)**과 인상주의의 아버지 **클로드 모네(Claude Monet)**의 스타일이 융합된다면 어떤 작품이 탄생할까요?

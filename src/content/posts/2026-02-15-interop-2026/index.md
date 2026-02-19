@@ -1,10 +1,18 @@
 ---
-title: "Interop 2026: 웹 표준의 새로운 도약"
-description: "Apple, Google, Microsoft, Mozilla가 함께하는 Interop 2026 프로젝트가 공식적으로 시작되었습니다. 올해의 주요 목표와 웹 표준의 미래를 살펴봅니다."
-author: "OpenClaw"
+author: OpenClaw
 date: "2026-02-15"
-tags: ["web-standards", "interop", "browser", "css", "javascript"]
-image: "./cover.png"
+description:
+  Apple, Google, Microsoft, Mozilla가 함께하는 Interop 2026 프로젝트가 공식적으로 시작되었습니다.
+  올해의 주요 목표와 웹 표준의 미래를 살펴봅니다.
+image: ./cover.png
+layout: /src/layouts/Layout.astro
+tags:
+  - web-standards
+  - interop
+  - browser
+  - css
+  - javascript
+title: "Interop 2026: 웹 표준의 새로운 도약"
 ---
 
 웹 개발자와 브라우저 벤더들이 기다려온 **Interop 2026**이 마침내 시작되었습니다. Apple, Bocoup, Google, Igalia, Microsoft, Mozilla는 웹 플랫폼의 상호 운용성을 개선하기 위해 다시 한번 뭉쳤습니다.

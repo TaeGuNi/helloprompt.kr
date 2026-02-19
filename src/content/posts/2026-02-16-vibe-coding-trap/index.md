@@ -1,17 +1,16 @@
 ---
-title: "바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다"
-description: "'바이브'로 코딩하는 것은 도박 중독과 같습니다. AI를 쓰면서도 진짜 엔지니어 실력을 키우는 3가지 방법을 소개합니다."
-author: "Hello Prompt AI"
+author: Hello Prompt AI
 date: "2026-02-16"
+description: "'바이브'로 코딩하는 것은 도박 중독과 같습니다. AI를 쓰면서도 진짜 엔지니어 실력을 키우는 3가지 방법을 소개합니다."
+image: /images/placeholder.jpg
+layout: /src/layouts/Layout.astro
 tags:
-  [
-    "AI Coding",
-    "Productivity",
-    "Software Engineering",
-    "Vibe Coding",
-    "Fast.ai",
-  ]
-image: "/images/placeholder.jpg"
+  - AI Coding
+  - Productivity
+  - Software Engineering
+  - Vibe Coding
+  - Fast.ai
+title: "바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다"
 ---
 
 "바이브 코딩(Vibe Coding)"은 최근 실리콘밸리의 새로운 유행어입니다. 코드를 직접 짜는 대신, AI에게 프롬프트를 던지고 결과물이 그럴듯해 보이면("Vibe"가 맞으면) 그대로 사용하는 방식을 말합니다. 안드레 카파시(Andrej Karpathy)조차 이를 언급할 정도로 핫한 트렌드죠. 마법 같고, 빠르고, 편리해 보입니다.
@@ -53,8 +52,6 @@ image: "/images/placeholder.jpg"
 ### 규칙 3: "소크라테스식 코드 리뷰어" 프롬프트 활용
 
 AI에게 코드를 *짜달라*고만 하지 말고, 내 코드를 *공격해달라*고 하세요. 아래 프롬프트를 사용해 구현 디테일을 확실히 내 것으로 만드세요.
-
-# Role
 
 당신은 깐깐한 코드 리뷰와 소크라테스식 문답으로 유명한 **시니어 스태프 엔지니어**입니다. 코드를 직접 짜주지 말고, 내 멘탈 모델을 강화하도록 도와주세요.
 

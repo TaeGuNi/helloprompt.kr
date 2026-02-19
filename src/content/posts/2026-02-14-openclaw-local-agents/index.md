@@ -1,8 +1,12 @@
 ---
-title: "Local Agents: 내 컴퓨터 속 AI 군단, OpenClaw"
 date: 2026-02-14
-tags: [openclaw, local-llm, agents]
 image: https://source.unsplash.com/random/1600x900/?computer,code
+layout: /src/layouts/Layout.astro
+tags:
+  - openclaw
+  - local-llm
+  - agents
+title: "Local Agents: 내 컴퓨터 속 AI 군단, OpenClaw"
 ---
 
 클라우드 기반 AI의 시대가 가고, 이제 '로컬 에이전트(Local Agents)'의 시대가 오고 있습니다. 그 중심에 OpenClaw가 있습니다. 내 컴퓨터(Local Machine)에서 직접 구동되는 AI 에이전트는 프라이버시를 완벽하게 보호하며, 인터넷 연결 없이도 강력한 자동화를 수행합니다.

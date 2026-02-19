@@ -1,8 +1,11 @@
 ---
-title: "Enterprise AI Reality: Myths vs. Tools"
 date: 2026-02-14
-tags: ["business", "productivity"]
-image: "https://source.unsplash.com/random/1600x900/?office,computer"
+image: https://source.unsplash.com/random/1600x900/?office,computer
+layout: /src/layouts/Layout.astro
+tags:
+  - business
+  - productivity
+title: "Enterprise AI Reality: Myths vs. Tools"
 ---
 
 최근 기업용 AI(Enterprise AI) 시장은 마케팅 용어와 현실적인 효용 사이에서 줄다리기를 하고 있습니다. "AI가 모든 것을 해결해 줄 것"이라는 과대광고(Hype)와 실제로 업무 현장에서 겪는 한계점 사이의 간극은 여전히 존재합니다.

@@ -1,8 +1,15 @@
 ---
-title: "Chain-of-Thought (CoT) 프롬프팅: AI 추론 능력 극대화하기"
 date: "2026-02-15"
-description: "Chain-of-Thought 프롬프팅이 어떻게 대규모 언어 모델이 복잡한 문제를 단계별로 해결하도록 돕는지 알아보고, 이를 통해 AI의 추론 능력을 향상시키는 방법을 소개합니다."
-tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
+description:
+  Chain-of-Thought 프롬프팅이 어떻게 대규모 언어 모델이 복잡한 문제를 단계별로 해결하도록 돕는지 알아보고, 이를
+  통해 AI의 추론 능력을 향상시키는 방법을 소개합니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - Prompt Engineering
+  - AI
+  - Chain-of-Thought
+  - Reasoning
+title: "Chain-of-Thought (CoT) 프롬프팅: AI 추론 능력 극대화하기"
 ---
 
 ## Chain-of-Thought (CoT) 프롬프팅이란 무엇인가요? {#cot}

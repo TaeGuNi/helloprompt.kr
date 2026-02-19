@@ -1,12 +1,16 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "이 코드, 무슨 뜻이죠? 친절한 코드 해설사"
-author: "Zzabbis"
+author: Zzabbis
+category: 코딩/IT
 date: "2026-02-07T09:10:33.120Z"
+description: 남이 짠 복잡한 코드를 한 줄 한 줄 주석(Comment)을 달아 설명해주는 초보자용 프롬프트입니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - 코딩공부
+  - 코드리뷰
+  - 파이썬
+  - 자바스크립트
+title: 이 코드, 무슨 뜻이죠? 친절한 코드 해설사
 updatedDate: "2026-02-07T09:10:33.120Z"
-category: "코딩/IT"
-description: "남이 짠 복잡한 코드를 한 줄 한 줄 주석(Comment)을 달아 설명해주는 초보자용 프롬프트입니다."
-tags: ["코딩공부", "코드리뷰", "파이썬", "자바스크립트"]
 ---
 
 - **🎯 추천 대상:** 누구나
@@ -93,7 +97,7 @@ result = [x * 2 for x in range(10) if x % 2 == 0]
 **[라인 바이 라인 분석]**
 
 ```python
-# 0부터 9까지(range(10)) 숫자를 하나씩 꺼내 변수 x에 담습니다. {#range-10}
+
 # 만약(if) x를 2로 나눈 나머지가 0이라면(짝수라면), {#if}
 # x에 2를 곱한 값을 리스트에 담습니다.
 result = [x * 2 for x in range(10) if x % 2 == 0]

@@ -1,8 +1,9 @@
 ---
-title: "서버리스 엣지 컴퓨팅의 부상"
-description: "2026년, 서버리스 아키텍처가 엣지로 이동하며 지연 시간을 줄이고 애플리케이션 제공 방식을 혁신하는 방법을 알아봅니다."
+cover: ./cover.jpg
 date: 2026-02-13
-cover: "./cover.jpg"
+description: 2026년, 서버리스 아키텍처가 엣지로 이동하며 지연 시간을 줄이고 애플리케이션 제공 방식을 혁신하는 방법을 알아봅니다.
+layout: /src/layouts/Layout.astro
+title: 서버리스 엣지 컴퓨팅의 부상
 ---
 
 ## 소개

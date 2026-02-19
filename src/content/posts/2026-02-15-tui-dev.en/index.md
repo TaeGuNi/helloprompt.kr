@@ -1,8 +1,14 @@
 ---
-title: "Modern TUI Development: Building Beautiful Terminal Apps is Easier Than Ever"
-description: "Exploring how modern libraries and AI tools have revolutionized the creation of Text User Interfaces (TUIs), making them accessible to every developer."
 date: "2026-02-15"
-tags: ["tui", "dev-tools", "cli"]
+description:
+  Exploring how modern libraries and AI tools have revolutionized the creation
+  of Text User Interfaces (TUIs), making them accessible to every developer.
+layout: /src/layouts/Layout.astro
+tags:
+  - tui
+  - dev-tools
+  - cli
+title: "Modern TUI Development: Building Beautiful Terminal Apps is Easier Than Ever"
 ---
 
 In the fast-paced world of software development, the terminal has remained a constant companion. But gone are the days when terminal applications had to be stark, monochromatic, and difficult to navigate. Welcome to the era of **Modern TUI (Text User Interface) Development**.

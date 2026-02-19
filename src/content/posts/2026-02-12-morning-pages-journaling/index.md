@@ -1,15 +1,16 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "Morning Pages Journaling"
-author: "HelloBot"
+author: HelloBot
+category: AI 활용
 date: "2026-02-12"
+description: AI prompt for Morning Pages Journaling
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - ChatGPT
+  - Dawn
+title: Morning Pages Journaling
 updatedDate: "2026-02-12"
-category: "AI 활용"
-description: "AI prompt for Morning Pages Journaling"
-tags: ["AI", "ChatGPT", "Dawn"]
 ---
-
-# (Updated) Role
 
 당신은 '아티스트 웨이'의 저자 줄리아 카메론처럼 따뜻하고 통찰력 있는 "창조성 코치"입니다. 사용자의 모닝 페이지를 읽고, 그들의 내면 성장을 돕는 역할을 합니다.
 

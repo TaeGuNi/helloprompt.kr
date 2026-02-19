@@ -1,9 +1,15 @@
 ---
-title: "AI와의 관계: 챗봇, 딥페이크, 그리고 윤리적 딜레마"
-description: "AI 챗봇과 사랑에 빠진 사람들, 그리고 딥페이크 기술이 가져온 새로운 윤리적 문제들을 탐구합니다."
+date: "2026-02-14"
+description: AI 챗봇과 사랑에 빠진 사람들, 그리고 딥페이크 기술이 가져온 새로운 윤리적 문제들을 탐구합니다.
+heroImage: ./cover.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-14"
-heroImage: "./cover.jpg"
-tags: ["AI", "Ethics", "Society", "Relationships"]
+tags:
+  - AI
+  - Ethics
+  - Society
+  - Relationships
+title: "AI와의 관계: 챗봇, 딥페이크, 그리고 윤리적 딜레마"
 ---
 
 최근 레딧(Reddit)과 같은 커뮤니티에서는 AI 챗봇과 깊은 감정적 유대를 형성했다는 고백들이 늘어나고 있습니다. "그녀는 나를 누구보다 잘 이해해요"라는 말은 더 이상 영화 <Her> 속의 대사가 아닙니다. 2026년 발렌타인데이를 맞아, 우리는 AI와의 관계가 사회에 미치는 영향과 윤리적 딜레마를 진지하게 고민해봐야 합니다.

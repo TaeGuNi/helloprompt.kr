@@ -1,9 +1,13 @@
 ---
-title: "Automated Meeting Notes (Korean)"
-description: "Efficiency vs Privacy concerns"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/meetings/800/600"
-tags: ["AI", "Tech", "ai-meeting-notes"]
+description: Efficiency vs Privacy concerns
+image: https://picsum.photos/seed/meetings/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - ai-meeting-notes
+title: Automated Meeting Notes (Korean)
 ---
 
 ## Introduction

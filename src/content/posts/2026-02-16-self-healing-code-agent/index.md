@@ -1,10 +1,20 @@
 ---
-title: "Self-Healing Code: Building an Agent That Fixes Its Own Bugs"
-description: "Stop babying your AI code generator. Learn how to build a 'Self-Healing' workflow where agents write, run, and fix their own errors automatically. A guide to Reflection loops."
-author: "Unifactory Editor"
+author: Unifactory Editor
 date: "2026-02-16"
-tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]
-image: "/images/2026/02/16/self-healing-code.jpg"
+description:
+  Stop babying your AI code generator. Learn how to build a 'Self-Healing'
+  workflow where agents write, run, and fix their own errors automatically. A guide
+  to Reflection loops.
+image: /images/2026/02/16/self-healing-code.jpg
+layout: /src/layouts/Layout.astro
+tags:
+  - AI Agent
+  - Coding
+  - Automation
+  - Python
+  - Local LLM
+  - Workflow
+title: "Self-Healing Code: Building an Agent That Fixes Its Own Bugs"
 ---
 
 You generate a Python script with AI. You run it. `SyntaxError`. You copy the error, paste it back to the AI, and ask it to fix it. It works.
@@ -70,7 +80,7 @@ You don't need a complex framework. A simple Python script can orchestrate this.
 
 ```python
 import subprocess
-# Assume you have a local LLM or OpenAI client setup
+
 # from openai import OpenAI
 # client = OpenAI()
 

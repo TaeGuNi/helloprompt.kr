@@ -1,9 +1,13 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Korean)"
-description: "Structure large inputs with clear delimiters; use retrieval patterns."
 date: "2026-02-15"
-image: "/images/blog/default-ai.jpg"
-tags: ["AI", "Tech", "context-window-optimization"]
+description: Structure large inputs with clear delimiters; use retrieval patterns.
+image: /images/blog/default-ai.jpg
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - context-window-optimization
+title: Optimizing for Million-Token Context Windows (Korean)
 ---
 
 ## 서론

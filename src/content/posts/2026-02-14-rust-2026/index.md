@@ -1,7 +1,11 @@
 ---
-title: "Rust 2026: Why It Matters"
 date: 2026-02-14
-tags: [rust, programming, systems]
+layout: /src/layouts/Layout.astro
+tags:
+  - rust
+  - programming
+  - systems
+title: "Rust 2026: Why It Matters"
 ---
 
 ## Rust 2026 (KR)

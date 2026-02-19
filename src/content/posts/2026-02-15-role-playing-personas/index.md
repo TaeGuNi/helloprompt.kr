@@ -1,9 +1,15 @@
 ---
-title: "Effective Role Prompting (Korean)"
-description: "Assigning specific personas helps models adopt the right tone and domain expertise"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/prompt5/800/600"
-tags: ["AI", "Tech", "role-playing-personas"]
+description:
+  Assigning specific personas helps models adopt the right tone and domain
+  expertise
+image: https://picsum.photos/seed/prompt5/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - role-playing-personas
+title: Effective Role Prompting (Korean)
 ---
 
 ## (Updated) 소개 (Introduction) {#introduction}

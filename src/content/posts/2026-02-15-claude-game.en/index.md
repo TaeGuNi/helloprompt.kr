@@ -1,8 +1,14 @@
 ---
-title: "Building a Golf Game with Claude Code: A New Era of AI Game Dev"
-description: "Discover how I built a fully functional golf game using Claude Code in record time. A step-by-step tutorial on leveraging AI for game development."
 date: "2026-02-15"
-tags: ["ai", "gamedev", "claude"]
+description:
+  Discover how I built a fully functional golf game using Claude Code in
+  record time. A step-by-step tutorial on leveraging AI for game development.
+layout: /src/layouts/Layout.astro
+tags:
+  - ai
+  - gamedev
+  - claude
+title: "Building a Golf Game with Claude Code: A New Era of AI Game Dev"
 ---
 
 The landscape of game development is shifting rapidly. With tools like **Claude Code**, the barrier to entry for creating complex, interactive experiences has never been lower. In this post, I'll walk you through how I built a 2D golf game using Claude Code as my primary development partner.

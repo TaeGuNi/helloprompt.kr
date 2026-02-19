@@ -1,10 +1,20 @@
 ---
-title: "AI 윤리와 규제 2026: 공존을 위한 규칙"
-description: "AI의 급격한 발전은 새로운 윤리적 딜레마를 낳았습니다. 글로벌 AI 규제의 현황과 우리가 지켜야 할 '디지털 윤리'에 대해 심도 있게 논의합니다."
+categories:
+  - AI News
+  - Ethics
+date: "2026-02-13"
+description:
+  AI의 급격한 발전은 새로운 윤리적 딜레마를 낳았습니다. 글로벌 AI 규제의 현황과 우리가 지켜야 할 '디지털 윤리'에 대해
+  심도 있게 논의합니다.
+heroImage: /images/blog/ai-ethics.jpg
+layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-heroImage: "/images/blog/ai-ethics.jpg"
-categories: ["AI News", "Ethics"]
-tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
+tags:
+  - AI Ethics
+  - Regulation
+  - AI Governance
+  - Society
+title: "AI 윤리와 규제 2026: 공존을 위한 규칙"
 ---
 
 "AI는 인간을 대체할 것인가, 아니면 보완할 것인가?" 이 질문은 이제 "AI를 어떻게 통제할 것인가?"로 바뀌었습니다. 2026년, 전 세계는 AI 기술의 폭주를 막고 안전한 공존을 위한 가이드라인 마련에 분주합니다.

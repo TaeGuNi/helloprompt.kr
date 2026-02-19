@@ -1,8 +1,16 @@
 ---
-title: "프롬프트 엔지니어링 3.0: 에이전틱 워크플로우의 시대"
 date: "2026-02-13"
-description: "프롬프트 엔지니어링이 단일 턴 최적화에서 다단계 에이전트 시스템 설계로 진화하고 있습니다. 에이전틱 워크플로우(Agentic Workflows)의 개념과 구현 전략을 심도 있게 다룹니다."
-tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
+description:
+  프롬프트 엔지니어링이 단일 턴 최적화에서 다단계 에이전트 시스템 설계로 진화하고 있습니다. 에이전틱 워크플로우(Agentic
+  Workflows)의 개념과 구현 전략을 심도 있게 다룹니다.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Agentic Workflow
+  - Prompt Engineering
+  - LLM
+  - Tech
+title: "프롬프트 엔지니어링 3.0: 에이전틱 워크플로우의 시대"
 ---
 
 인공지능(AI)과 상호작용하는 방식이 급격히 변화하고 있습니다. 초기의 단순한 명령어 입력 방식에서 복잡한 추론 과정을 거치는 단계를 지나, 이제는 AI가 스스로 도구를 사용하고 계획을 수립하여 작업을 수행하는 '에이전틱 워크플로우(Agentic Workflows)'의 시대로 진입했습니다. 이것이 바로 프롬프트 엔지니어링 3.0입니다.

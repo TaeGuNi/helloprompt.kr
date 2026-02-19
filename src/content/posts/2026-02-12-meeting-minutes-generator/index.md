@@ -1,12 +1,17 @@
 ---
-layout: /src/layouts/Layout.astro
-title: "AI로 두서없는 회의록, 깔끔한 요약본으로 변신"
-author: "ZZabbis"
+author: ZZabbis
+category: 업무 자동화
 date: "2026-02-12"
-updatedDate: "2026-02-12"
-category: "업무 자동화"
 description: "'누가 무슨 말 했지?' 걱정 마세요. AI 서기가 다 정리해줍니다."
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+layout: /src/layouts/Layout.astro
+tags:
+  - 회의록
+  - 요약
+  - ChatGPT
+  - Notion
+  - 생산성
+title: AI로 두서없는 회의록, 깔끔한 요약본으로 변신
+updatedDate: "2026-02-12"
 ---
 
 - **🎯 추천 대상:** 회의록 정리 담당 막내, 회의 내용을 기억 못하는 팀장님
@@ -114,7 +119,7 @@ _"회의는 1시간 했는데, 회의록 쓰는 데 2시간 걸린 적 있나요
 ### ✅ After (결과)
 
 ```text
-# [주간 회의록]
+
 
 ## 1. 주요 안건
 - 프로젝트 진행 방향 결정 (A안 vs B안)

@@ -1,15 +1,16 @@
 ---
-title: "애플 인텔리전스 2.0: 아이폰 17에서 구동되는 로컬 LLM Siri"
+category: Tech
 date: "2026-02-15"
-slug: "apple-intel-2"
-category: "Tech"
+description: 아이폰 17과 함께 공개된 애플 인텔리전스 2.0은 강력한 LLM을 온디바이스로 완벽하게 구동합니다.
+heroImage: https://via.placeholder.com/800x400?text=Apple+Intelligence
+layout: /src/layouts/Layout.astro
+slug: apple-intel-2
 tags:
-  - "Apple"
-  - "AI"
-  - "Siri"
-  - "iPhone 17"
-heroImage: "https://via.placeholder.com/800x400?text=Apple+Intelligence"
-description: "아이폰 17과 함께 공개된 애플 인텔리전스 2.0은 강력한 LLM을 온디바이스로 완벽하게 구동합니다."
+  - Apple
+  - AI
+  - Siri
+  - iPhone 17
+title: "애플 인텔리전스 2.0: 아이폰 17에서 구동되는 로컬 LLM Siri"
 ---
 
 **아이폰 17**과 **애플 인텔리전스 2.0(Apple Intelligence 2.0)**의 출시로 모바일 AI 환경이 급격하게 변화하고 있습니다. 수년간 진정한 대화형 비서의 약속은 클라우드에 묶여 있었고, 지연 시간과 프라이버시 문제와 싸워야 했습니다. 하지만 오늘, 모든 것이 바뀝니다.

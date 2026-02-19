@@ -1,9 +1,15 @@
 ---
-title: "Quantum AI Hybrids (Korean)"
-description: "Early experiments with quantum processors are speeding up specific AI training tasks"
 date: "2026-02-15"
-image: "https://picsum.photos/seed/quantum/800/600"
-tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
+description:
+  Early experiments with quantum processors are speeding up specific AI
+  training tasks
+image: https://picsum.photos/seed/quantum/800/600
+layout: /src/layouts/Layout.astro
+tags:
+  - AI
+  - Tech
+  - quantum-ai-hybrids-2026
+title: Quantum AI Hybrids (Korean)
 ---
 
 ## 서론
@@ -22,7 +28,6 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 개발자에게 있어 이는 추상화 계층의 변화를 의미합니다. 우리는 순수한 `cuda`나 `mps` 디바이스 타겟에서 하이브리드 파이프라인으로 이동하고 있습니다. TensorFlow Quantum이나 Qiskit Machine Learning과 같은 프레임워크가 성숙해짐에 따라, 표준 Keras나 PyTorch 모델 내에 "양자 계층(quantum layers)"을 정의할 수 있게 되었습니다. 코드는 익숙해 보이지만, 실행은 확률론적 영역에서 이루어집니다.
 
-    # (Updated) (Updated) (Updated) 하이브리드 계층의 의사 코드(Pseudo-code) 예제 {#pseudo-code}
     import tensorflow_quantum as tfq
     import cirq
     import tensorflow as tf

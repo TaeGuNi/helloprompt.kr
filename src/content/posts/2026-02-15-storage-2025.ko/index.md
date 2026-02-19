@@ -1,8 +1,12 @@
 ---
-title: "2025 Backblaze 드라이브 통계: AI 스토리지의 현실"
-description: "거대 AI 데이터셋 시대의 드라이브 신뢰성 분석."
 date: "2026-02-15"
-tags: ["storage", "hardware", "data"]
+description: 거대 AI 데이터셋 시대의 드라이브 신뢰성 분석.
+layout: /src/layouts/Layout.astro
+tags:
+  - storage
+  - hardware
+  - data
+title: "2025 Backblaze 드라이브 통계: AI 스토리지의 현실"
 ---
 
 2025년은 데이터 스토리지 분야에서 중요한 전환점이었습니다. 멀티모달 AI 모델과 비디오 생성 도구의 폭발적인 성장으로 인해 원시 용량에 대한 수요가 급증했습니다. 그렇다면 하드웨어는 과연 잘 버텨주었을까요?

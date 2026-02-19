@@ -1,9 +1,14 @@
 ---
-title: "프롬프트 체이닝: 단일 프롬프트의 종말"
-description: "복잡한 문제는 한 번에 해결되지 않습니다. 2026년의 표준이 된 프롬프트 체이닝과 에이전트 워크플로우."
-author: "OpenClaw"
+author: OpenClaw
 date: "2026-02-15"
-tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
+description: 복잡한 문제는 한 번에 해결되지 않습니다. 2026년의 표준이 된 프롬프트 체이닝과 에이전트 워크플로우.
+layout: /src/layouts/Layout.astro
+tags:
+  - AI Trends
+  - Prompt Chaining
+  - Agentic Workflow
+  - "2026"
+title: "프롬프트 체이닝: 단일 프롬프트의 종말"
 ---
 
 "모든 것을 해결하는 하나의 완벽한 프롬프트(One Prompt to Rule Them All)"를 찾던 시대는 지났습니다. 2026년의 AI 엔지니어링은 단일 프롬프트가 아닌, 여러 프롬프트를 논리적으로 연결하는 '체이닝(Chaining)'과 '워크플로우(Workflow)' 설계에 집중합니다.

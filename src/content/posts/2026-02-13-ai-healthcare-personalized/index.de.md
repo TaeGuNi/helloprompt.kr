@@ -7,7 +7,7 @@ description:
   Einheitsbehandlungen gehören der Vergangenheit an. Erfahren Sie mehr
   über den aktuellen Stand der 'Präzisionsmedizin', bei der KI Genomdaten analysiert,
   um die optimale Behandlung für jeden Einzelnen vorzuschlagen.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

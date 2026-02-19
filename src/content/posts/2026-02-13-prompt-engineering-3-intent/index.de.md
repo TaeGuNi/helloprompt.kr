@@ -7,7 +7,7 @@ description:
   Hören Sie auf, komplexe Prompts zu schreiben. Die Ära des 'Absicht-basierten
   Promptings', in der die KI die verborgene Absicht des Benutzers erfasst, ist angebrochen.
   Eine einfachere, mächtigere Art der Kommunikation.
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

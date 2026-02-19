@@ -1,7 +1,7 @@
 ---
 date: "2026-02-14"
 description: メディアはLGやサムスンのロボットが世界を変えるかのように騒ぎ立てますが、エンジニアリングの現実は依然として物理法則と戦っています。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
 tags:

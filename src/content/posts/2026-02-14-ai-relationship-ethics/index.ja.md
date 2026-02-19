@@ -1,7 +1,7 @@
 ---
 date: "2026-02-14"
 description: AIチャットボットとの感情的な絆や、ディープフェイク技術がもたらす新たな倫理的問題について探求します。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
   - AI

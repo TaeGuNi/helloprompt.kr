@@ -7,7 +7,7 @@ description:
   Le traitement unique pour tous appartient au passé. Explorez l'état actuel
   de la 'Médecine de Précision', où l'IA analyse les données génomiques pour suggérer
   le traitement optimal pour chaque individu.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

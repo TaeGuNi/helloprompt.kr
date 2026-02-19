@@ -1,14 +1,14 @@
 ---
 date: "2026-02-13"
 description: クラウド依存を減らし、データプライバシーを強化するソブリンAIとオンデバイスSLM（小規模言語モデル）の台頭。
-heroImage: /images/sovereign-ai-2026.jpg
+image: /images/sovereign-ai-2026.jpg
 pubDate: "2026-02-13"
 tags:
   - AI
   - Edge Computing
   - Sovereign AI
   - Privacy
-  - 2026 Trends
+  - "2026 Trends"
 title: 2026年ソブリンAIとエッジコンピューティング革命：データ主権の時代
 ---
 

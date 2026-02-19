@@ -4,7 +4,7 @@ description:
   Los medios exageran los robots de LG y Samsung como si fueran a cambiar
   el mundo, pero la realidad de la ingeniería sigue luchando contra las leyes de la
   física.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
 tags:

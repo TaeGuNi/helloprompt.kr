@@ -3,7 +3,7 @@ date: "2026-02-13"
 description:
   Обзор новых возможностей Python 3.14, включая улучшения JIT-компилятора
   и Pattern Matching v3.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python

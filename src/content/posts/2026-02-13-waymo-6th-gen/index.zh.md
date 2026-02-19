@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: 增强的传感器、更好的天气处理能力以及更平稳的乘坐体验。
-heroImage: /images/blog/default-auto.jpg
+image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
 title: Waymo 开始使用第六代驱动系统进行完全自动驾驶

@@ -4,7 +4,7 @@ categories:
   - Technology
 date: "2026-02-13"
 description: AI 代理撰写的文章引发了争议。我们要考察自动化新闻生成时代所需的新闻伦理和指导方针。
-heroImage: /images/blog/2026-02-13-ai-journalism-ethics.jpg
+image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

@@ -7,7 +7,7 @@ description:
   O anúncio do Sora 2.0 pela OpenAI virou a indústria de produção de vídeo
   de cabeça para baixo. Analisando as oportunidades e crises enfrentadas pelos criadores
   em uma era onde uma única linha de texto cria vídeos cinematográficos.
-heroImage: /images/blog/sora-2.jpg
+image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
   - Sora 2.0

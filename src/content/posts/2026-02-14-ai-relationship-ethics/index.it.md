@@ -3,7 +3,7 @@ date: "2026-02-14"
 description:
   Esplorando le implicazioni etiche dei legami emotivi con i chatbot IA
   e l'ascesa dei compagni deepfake.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
   - AI

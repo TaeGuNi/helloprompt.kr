@@ -7,7 +7,7 @@ description:
   One-size-fits-all treatment is a thing of the past. Explore the current
   state of 'Precision Medicine', where AI analyzes genomic data to suggest the optimal
   treatment for each individual.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

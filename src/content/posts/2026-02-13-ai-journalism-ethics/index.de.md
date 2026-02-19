@@ -7,7 +7,7 @@ description:
   Von KI-Agenten verfasste Artikel sorgen für Kontroversen. Wir untersuchen
   die journalistische Ethik und die Richtlinien, die im Zeitalter der automatisierten
   Nachrichtenerstellung erforderlich sind.
-heroImage: /images/blog/2026-02-13-ai-journalism-ethics.jpg
+image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

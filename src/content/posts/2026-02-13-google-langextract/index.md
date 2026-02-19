@@ -1,13 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Google LangExtract로 구조화된 데이터 추출 마스터하기"
 date: 2024-05-20
 pubDate: 2024-05-20
 description: "Google의 새로운 LangExtract 라이브러리를 사용하여 LLM에서 정확한 JSON 및 구조화된 데이터를 추출하는 방법을 알아봅니다."
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
+image: "https://docs.astro.build/assets/full-logo-light.png"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 

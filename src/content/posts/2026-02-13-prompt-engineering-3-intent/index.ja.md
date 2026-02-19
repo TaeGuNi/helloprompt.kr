@@ -4,7 +4,7 @@ categories:
   - AI Tips
 date: "2026-02-13"
 description: 複雑なプロンプトはもう不要。AIがユーザーの隠れた意図を把握する「インテントベース・プロンプティング」の時代が到来しました。より簡潔で強力なコミュニケーション方法を紹介します。
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

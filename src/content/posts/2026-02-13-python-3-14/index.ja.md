@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: JITコンパイラの改善やパターンマッチング v3など、Python 3.14の新機能を紹介します。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python

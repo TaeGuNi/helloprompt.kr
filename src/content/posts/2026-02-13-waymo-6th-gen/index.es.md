@@ -3,7 +3,7 @@ date: "2026-02-13"
 description:
   Sensores mejorados, mejor manejo del clima y una capacidad de conducción
   más suave.
-heroImage: /images/blog/default-auto.jpg
+image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
 title: Waymo comienza operaciones totalmente autónomas con el conductor de sexta generación

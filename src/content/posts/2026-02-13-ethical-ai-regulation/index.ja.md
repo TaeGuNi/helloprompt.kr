@@ -4,7 +4,7 @@ categories:
   - Ethics
 date: "2026-02-13"
 description: AIの急激な発展は新たな倫理的ジレンマを生みました。世界のAI規制の現状と、私たちが守るべき「デジタル倫理」について深く議論します。
-heroImage: /images/blog/ai-ethics.jpg
+image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

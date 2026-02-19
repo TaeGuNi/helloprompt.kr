@@ -4,7 +4,7 @@ categories:
   - Creative
 date: "2026-02-13"
 description: OpenAI发布的Sora 2.0彻底颠覆了视频制作行业。分析在只需一行文本即可制作电影级视频的时代，创作者面临的机遇与危机。
-heroImage: /images/blog/sora-2.jpg
+image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
   - Sora 2.0

@@ -9,7 +9,12 @@ const posts = defineCollection({
     date: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     author: z.string().default("Hello Prompt"),
-    image: z.string().optional(),
+    image: z
+      .union([
+        z.string(),
+        z.object({ url: z.string(), alt: z.string().optional() }),
+      ])
+      .optional(),
     tags: z.array(z.string()).default([]),
     category: z.string().optional(),
   }),

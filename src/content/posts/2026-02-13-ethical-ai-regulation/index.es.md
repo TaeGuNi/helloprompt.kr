@@ -7,7 +7,7 @@ description:
   El rápido avance de la IA ha generado nuevos dilemas éticos. Una inmersión
   profunda en el estado actual de la regulación global de la IA y la 'ética digital'
   que debemos defender.
-heroImage: /images/blog/ai-ethics.jpg
+image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

@@ -3,7 +3,7 @@ date: "2026-02-14"
 description:
   Media hypes LG and Samsung robots as world-changers, but engineering
   reality still struggles with physics.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
 tags:

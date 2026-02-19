@@ -7,7 +7,7 @@ description:
   Stop writing complex prompts. The era of 'Intent-Based Prompting', where
   AI grasps the user's hidden intent, has arrived. Introducing a simpler, more powerful
   way to communicate.
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

@@ -7,7 +7,7 @@ description:
   Лечение «одно для всех» осталось в прошлом. Исследуйте текущее состояние
   «Точной Медицины», где ИИ анализирует геномные данные, чтобы предложить оптимальное
   лечение для каждого человека.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

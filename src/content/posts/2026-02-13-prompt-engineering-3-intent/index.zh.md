@@ -4,7 +4,7 @@ categories:
   - AI Tips
 date: "2026-02-13"
 description: 不再需要复杂的提示词。AI掌握用户隐藏意图的“基于意图的提示（Intent-Based Prompting）”时代已经到来。介绍一种更简洁、更强大的沟通方式。
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

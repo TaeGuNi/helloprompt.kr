@@ -4,7 +4,7 @@ categories:
   - Healthcare
 date: "2026-02-13"
 description: 千篇一律的治疗已成过去。探索“精准医疗”的现状，AI分析基因组信息，为每个人提供最佳治疗方案。
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

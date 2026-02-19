@@ -4,7 +4,7 @@ categories:
   - Healthcare
 date: "2026-02-13"
 description: 画一的な治療はもう過去の話です。AIがゲノム情報を分析し、個々人に最適な治療法を提示する「精密医療」の現在地を探ります。
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

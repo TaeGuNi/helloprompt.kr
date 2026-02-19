@@ -4,7 +4,7 @@ categories:
   - Technology
 date: "2026-02-13"
 description: AIエージェントが作成した記事が物議を醸しています。自動化されたニュース生成時代に必要なジャーナリズムの倫理とガイドラインを考察します。
-heroImage: /images/blog/2026-02-13-ai-journalism-ethics.jpg
+image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

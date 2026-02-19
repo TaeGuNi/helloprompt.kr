@@ -4,7 +4,7 @@ categories:
   - Ethics
 date: "2026-02-13"
 description: AI的飞速发展催生了新的伦理困境。深入探讨全球AI法规的现状以及我们必须遵守的“数字伦理”。
-heroImage: /images/blog/ai-ethics.jpg
+image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

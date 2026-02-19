@@ -7,7 +7,7 @@ description:
   O tratamento único para todos é coisa do passado. Explore o estado atual
   da 'Medicina de Precisão', onde a IA analisa dados genômicos para sugerir o tratamento
   ideal para cada indivíduo.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

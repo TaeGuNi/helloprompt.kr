@@ -7,7 +7,7 @@ description:
   Smetti di scrivere prompt complessi. È arrivata l'era del 'Prompting
   Basato sull'Intenzione', in cui l'IA coglie l'intenzione nascosta dell'utente. Presentiamo
   un modo più semplice e potente di comunicare.
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

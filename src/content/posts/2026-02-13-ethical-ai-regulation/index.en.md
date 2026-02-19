@@ -7,7 +7,7 @@ description:
   The rapid advancement of AI has spawned new ethical dilemmas. A deep
   dive into the current state of global AI regulation and the 'digital ethics' we
   must uphold.
-heroImage: /images/blog/ai-ethics.jpg
+image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

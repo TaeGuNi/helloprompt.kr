@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: Улучшенные датчики, лучшая работа в плохую погоду и более плавная езда.
-heroImage: /images/blog/default-auto.jpg
+image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
 title: Waymo начинает полностью автономные операции с драйвером 6-го поколения

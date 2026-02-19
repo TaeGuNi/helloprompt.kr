@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: Sensori migliorati, migliore gestione del meteo e guida più fluida.
-heroImage: /images/blog/default-auto.jpg
+image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
 title: Waymo inizia le operazioni completamente autonome con il driver di sesta generazione

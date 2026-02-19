@@ -3,7 +3,7 @@ date: "2026-02-14"
 description:
   Les médias présentent les robots de LG et Samsung comme révolutionnaires,
   mais la réalité de l'ingénierie se heurte toujours aux lois de la physique.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
 tags:

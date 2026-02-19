@@ -7,7 +7,7 @@ description:
   Il trattamento uguale per tutti è un ricordo del passato. Esplora lo
   stato attuale della 'Medicina di Precisione', in cui l'IA analizza i dati genomici
   per suggerire il trattamento ottimale per ogni individuo.
-heroImage: /images/blog/ai-health.jpg
+image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Healthcare

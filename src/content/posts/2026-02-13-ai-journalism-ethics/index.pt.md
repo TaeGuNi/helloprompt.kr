@@ -7,7 +7,7 @@ description:
   Artigos escritos por agentes de IA estão causando controvérsia. Examinamos
   a ética jornalística e as diretrizes necessárias na era da geração automatizada
   de notícias.
-heroImage: /images/blog/2026-02-13-ai-journalism-ethics.jpg
+image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

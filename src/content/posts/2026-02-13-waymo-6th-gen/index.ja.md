@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: 強化されたセンサー、悪天候への対応力向上、そしてよりスムーズな乗り心地を実現。
-heroImage: /images/blog/default-auto.jpg
+image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
 title: Waymo、第6世代ドライバーで完全自動運転を開始

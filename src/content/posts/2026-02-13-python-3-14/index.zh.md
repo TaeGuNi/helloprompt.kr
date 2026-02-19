@@ -1,7 +1,7 @@
 ---
 date: "2026-02-13"
 description: 探索 Python 3.14 的新功能，包括 JIT 编译器改进和模式匹配 v3。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python

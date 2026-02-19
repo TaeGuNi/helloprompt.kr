@@ -7,7 +7,7 @@ description:
   Der rasante Fortschritt der KI hat neue ethische Dilemmata hervorgebracht.
   Ein tiefer Einblick in den aktuellen Stand der globalen KI-Regulierung und die 'digitale
   Ethik', die wir wahren müssen.
-heroImage: /images/blog/ai-ethics.jpg
+image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics

@@ -1,7 +1,7 @@
 ---
 date: "2026-02-14"
 description: 探讨与AI聊天机器人的情感纽带以及Deepfake技术带来的新伦理问题。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
   - AI

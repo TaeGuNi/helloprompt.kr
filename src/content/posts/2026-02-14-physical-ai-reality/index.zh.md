@@ -1,7 +1,7 @@
 ---
 date: "2026-02-14"
 description: 媒体大肆宣扬LG和三星的机器人即将改变世界，但工程现实仍在与物理定律作斗争。
-heroImage: ./cover.jpg
+image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
 tags:

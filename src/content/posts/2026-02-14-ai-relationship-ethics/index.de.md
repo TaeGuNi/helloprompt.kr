@@ -3,7 +3,7 @@ date: "2026-02-14"
 description:
   Untersuchung der ethischen Auswirkungen emotionaler Bindungen zu KI-Chatbots
   und des Aufstiegs von Deepfake-Begleitern.
-heroImage: ./cover.jpg
+image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
   - AI

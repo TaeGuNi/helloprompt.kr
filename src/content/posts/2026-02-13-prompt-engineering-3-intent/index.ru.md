@@ -7,7 +7,7 @@ description:
   Хватит писать сложные промпты. Наступила эра «Промптинга на основе намерений»,
   когда ИИ улавливает скрытое намерение пользователя. Представляем более простой и
   мощный способ общения.
-heroImage: /images/blog/prompt-3.jpg
+image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
   - Prompt Engineering

@@ -8,32 +8,32 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 
 급변하는 웹 개발 환경에서 모놀리식(Monolithic) 프론트엔드는 오랫동안 대규모 조직의 병목 현상이었습니다. 백엔드 아키텍처가 독립적인 확장과 배포를 가능하게 하는 마이크로서비스로 전환되는 동안, 프론트엔드 개발은 여전히 거대한 단일 코드베이스에 갇혀 있는 경우가 많았습니다. 여기서 **마이크로 프론트엔드 아키텍처(Micro-Frontend Architecture)**가 등장합니다.
 
-## 마이크로 프론트엔드란 무엇인가? {#updated}
+## (Updated) (Updated) (Updated) 마이크로 프론트엔드란 무엇인가? {#updated}
 
 마이크로 프론트엔드는 마이크로서비스의 개념을 프론트엔드 세계로 확장한 것입니다. 아이디어는 간단합니다. 웹사이트나 웹 앱을 독립적인 팀이 소유한 기능들의 조합으로 나누는 것입니다. 각 팀은 고유한 임무를 가지며 특정 비즈니스 도메인이나 사용자 여정을 책임집니다.
 
-### 핵심 개념 {#updated}
+### (Updated) (Updated) (Updated) 핵심 개념 {#updated}
 
 1.  **기술 무관성 (Technology Agnostic)**: 각 팀은 다른 팀과 조율하지 않고도 자체 스택을 선택하고 업그레이드할 수 있어야 합니다.
 2.  **팀 코드 격리**: 모든 팀이 동일한 프레임워크를 사용하더라도 런타임을 공유하지 마십시오. 자체 포함된 독립적인 앱을 구축하십시오.
 3.  **팀 접두사 설정**: 격리가 불가능한 경우(CSS, 로컬 스토리지, 이벤트) 충돌을 방지하기 위해 명명 규칙에 동의하십시오.
 4.  **네이티브 브라우저 기능 선호**: 글로벌 PubSub 시스템을 구축하는 대신 통신을 위해 브라우저 이벤트를 사용하십시오.
 
-## 왜 마이크로 프론트엔드를 도입하는가? {#updated}
+## (Updated) (Updated) (Updated) 왜 마이크로 프론트엔드를 도입하는가? {#updated}
 
-### 1. 독립적인 배포 {#updated}
+### (Updated) (Updated) (Updated) 1. 독립적인 배포 {#updated}
 
 이것이 가장 큰 장점입니다. A팀은 B팀의 검색 페이지 업데이트가 준비될 때까지 기다리지 않고 체크아웃 페이지 수정사항을 배포할 수 있습니다. 이러한 결합 해제는 릴리스 주기를 크게 가속화합니다.
 
-### 2. 팀의 확장성 {#updated}
+### (Updated) (Updated) (Updated) 2. 팀의 확장성 {#updated}
 
 조직이 커짐에 따라 단일 프론트엔드 저장소를 조정하는 것은 악몽이 됩니다. 마이크로 프론트엔드를 사용하면 팀을 더 작고 자율적인 단위로 나누어 빠르게 움직일 수 있습니다.
 
-### 3. 점진적 업그레이드 {#updated}
+### (Updated) (Updated) (Updated) 3. 점진적 업그레이드 {#updated}
 
 거대한 모놀리스를 재작성하는 것은 위험하고 느립니다. 마이크로 프론트엔드를 사용하면 UI의 한 부분을 한 번에 재작성하거나 앱의 작은 섹션에서 새로운 프레임워크를 실험할 수도 있습니다.
 
-## 2026년의 구현 전략 {#updated}
+## (Updated) (Updated) (Updated) 2026년의 구현 전략 {#updated}
 
 2026년 현재, 몇 가지 패턴이 성숙했습니다:
 
@@ -41,7 +41,7 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 - **웹 컴포넌트 (Web Components)**: 표준 사용자 정의 요소를 사용하면 프레임워크 중립적인 인터페이스가 가능합니다. React 컴포넌트를 웹 컴포넌트로 래핑하여 Angular 셸에서 사용할 수 있습니다.
 - **서버 사이드 구성 (Islands Architecture)**: Astro 및 Qwik과 같은 프레임워크는 서버에서 조각을 구성하고 클라이언트에 최소한의 JS를 전송하는 아이디어를 대중화했습니다.
 
-## 과제 {#updated}
+## (Updated) (Updated) (Updated) 과제 {#updated}
 
 장점만 있는 것은 아닙니다. 마이크로 프론트엔드는 복잡성을 야기합니다:
 
@@ -49,12 +49,18 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 - **일관성**: 독립적인 팀 간에 UI/UX 일관성을 유지하려면 강력한 디자인 시스템이 필요합니다.
 - **운영 복잡성**: 이제 하나가 아닌 여러 빌드 파이프라인과 배포 대상을 관리해야 합니다.
 
-## 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 결론 {#conclusion}
 
 마이크로 프론트엔드는 만능 해결책이 아닙니다. 소규모 프로젝트의 경우 과도한 엔지니어링일 수 있습니다. 그러나 여러 팀이 있는 엔터프라이즈 규모의 애플리케이션의 경우, 모놀리스가 단순히 제공할 수 없는 확장성과 민첩성을 제공합니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

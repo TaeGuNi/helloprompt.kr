@@ -9,7 +9,7 @@ description: "오버페칭(Over-fetching) 없는 깔끔한 API. 프론트엔드�
 tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
 ---
 
-# (Updated) (Updated) (Updated) 🕸️ GraphQL 스키마 설계: REST API에서 넘어오기 {#updated}
+# (Updated) (Updated) (Updated) 🕸️ GraphQL 스키마 설계: REST API에서 넘어오기
 
 - **🎯 추천 대상:** "API 명세서 좀 그만 고치고 싶다" 외치는 백엔드 개발자, "데이터가 너무 많이 와서 앱이 느려요" 불평하는 프론트엔드 개발자
 - **⏱️ 소요 시간:** 10분 (스키마 작성)
@@ -25,7 +25,7 @@ REST API의 고질병, **오버페칭(Over-fetching)**입니다. GraphQL을 쓰�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **Schema:** 데이터의 모양(Type)을 정의한다.
 2.  **Query:** "이거 이거 줘"라고 요청한다.
@@ -33,9 +33,9 @@ REST API의 고질병, **오버페칭(Over-fetching)**입니다. GraphQL을 쓰�
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "Schema Designer Prompt" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "Schema Designer Prompt"
 
-### 🥉 Basic Version (REST 변환) {#rest}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (REST 변환) {#rest}
 
 기존 API를 GraphQL로.
 
@@ -44,7 +44,7 @@ REST API의 고질병, **오버페칭(Over-fetching)**입니다. GraphQL을 쓰�
 
 <br>
 
-### 🥇 Pro Version (N+1 문제 해결 & 엣지 케이스) {#n-1}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (N+1 문제 해결 & 엣지 케이스) {#n-1}
 
 성능까지 고려한 설계.
 
@@ -63,7 +63,7 @@ REST API의 고질병, **오버페칭(Over-fetching)**입니다. GraphQL을 쓰�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 GraphQL은 **'그래프(Graph)'**입니다.
 유저 -> 글 -> 댓글 -> 작성자 -> 또 글...
@@ -73,7 +73,7 @@ AI에게 **"쿼리 복잡도 제한(Query Complexity Limit) 설정하는 법"**�
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 캐싱은 어떻게 해요?**
   - A: REST는 URL만 보면 캐싱이 되지만, GraphQL은 `POST` 요청 하나라 어렵습니다. **Apollo Client** 같은 클라이언트 라이브러리가 로컬 캐싱을 기가 막히게 해줍니다.
@@ -83,20 +83,20 @@ AI에게 **"쿼리 복잡도 제한(Query Complexity Limit) 설정하는 법"**�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **N+1 문제 언급:** GraphQL의 아킬레스건을 먼저 지적하면, AI가 단순히 작동하는 코드가 아니라 **'성능 최적화된 코드(DataLoader)'**를 줍니다.
 2.  **Relay 표준:** 페이지네이션은 제각각 구현하면 나중에 피 봅니다. "Relay 표준"을 따르라고 하면, 페이스북이 만든 검증된 구조(`edges`, `cursor`)를 가져옵니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### ❌ Before (REST)
+### (Updated) (Updated) (Updated) ❌ Before (REST)
 
 API 3번 호출: `/user`, `/posts`, `/comments` (네트워크 왕복 3회 🐢)
 
-### ✅ After (GraphQL)
+### (Updated) (Updated) (Updated) ✅ After (GraphQL)
 
 쿼리 1번:
 
@@ -116,7 +116,7 @@ query {
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 API 명세서 쓰느라 밤새지 마세요.
 GraphQL은 스키마 자체가 명세서입니다.
@@ -124,8 +124,14 @@ GraphQL은 스키마 자체가 명세서입니다.
 프론트엔드와 백엔드의 평화 협정.
 **GraphQL**에 서명하세요. 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

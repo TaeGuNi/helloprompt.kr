@@ -9,7 +9,7 @@ description: "AI를 활용해 급성장하는 산업 트렌드를 분석하고 �
 tags: ["주식", "산업분석", "트렌드", "시장조사"]
 ---
 
-# (Updated) (Updated) (Updated) 📝 산업 트렌드 분석: 뜨는 시장 찾기 {#updated}
+# (Updated) (Updated) (Updated) 📝 산업 트렌드 분석: 뜨는 시장 찾기
 
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
@@ -25,7 +25,7 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 특정 산업의 최신 기술 트렌드와 시장 규모 전망 파악
 2. 산업 내 밸류체인(Value Chain) 분석 및 핵심 기업 식별
@@ -33,9 +33,9 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "미래 산업 네비게이터" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "미래 산업 네비게이터"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -44,7 +44,7 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -68,26 +68,26 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### (Updated) (Updated) (Updated) ❌ Before (입력) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (입력)
 
 ```text
 로봇 산업 전망 어때? 관련주 추천해줘.
 ```
 
-### (Updated) (Updated) (Updated) ✅ After (결과) {#updated}
+### (Updated) (Updated) (Updated) ✅ After (결과)
 
 ```text
-### (Updated) (Updated) (Updated) 🤖 휴머노이드 로봇 산업 심층 분석 {#updated}
+### (Updated) (Updated) (Updated) 🤖 휴머노이드 로봇 산업 심층 분석
 
 **1. 핵심 성장 동력**
 - 노동력 부족 심화 및 임금 상승
@@ -109,14 +109,14 @@ _"남들이 다 아는 뉴스는 정보가 아닙니다. 넥스트 빅 씽(Next 
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -126,14 +126,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 투자는 타이밍이 아니라 '방향'입니다. 이 프롬프트로 바람이 불어오는 방향을 먼저 읽으세요.
 
 이제 칼퇴하세요! 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

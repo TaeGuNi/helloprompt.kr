@@ -9,7 +9,7 @@ description: "CrashLoopBackOff, Pending... 쿠버네티스 에러 로그를 해�
 tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 ---
 
-# ☸️ Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법 {#k8s}
+# (Updated) (Updated) (Updated) ☸️ Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법 {#k8s}
 
 - **🎯 추천 대상:** "쿠버네티스는 너무 어려워요"라며 도커 컴포즈만 쓰는 개발자, 새벽 3시에 서버 알람 받고 깬 당직자
 - **⏱️ 소요 시간:** 3분 (로그 분석)
@@ -25,7 +25,7 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  `kubectl describe pod [파드명]` 과 `kubectl logs [파드명]` 실행.
 2.  나온 외계어 같은 텍스트를 긁어서 AI에게 던진다.
@@ -33,9 +33,9 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 ---
 
-## (Updated) (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt" {#updated}
+## (Updated) (Updated) (Updated) 🚀 해결책: "K8s Doctor Prompt"
 
-### (Updated) (Updated) (Updated) 🥉 Basic Version (에러 해석) {#updated}
+### (Updated) (Updated) (Updated) 🥉 Basic Version (에러 해석)
 
 로그가 무슨 말인지 모를 때.
 
@@ -45,7 +45,7 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 <br>
 
-### (Updated) (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성) {#updated}
+### (Updated) (Updated) (Updated) 🥇 Pro Version (복구 스크립트 생성)
 
 장애를 빠르게 복구하고 싶을 때.
 
@@ -68,7 +68,7 @@ _"Pod 상태가 `CrashLoopBackOff`입니다. 로그를 봐도 모르겠어요."_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 가장 무서운 건 **`OOMKilled` (메모리 부족)**입니다.
 이건 로그에도 안 남고 그냥 조용히 죽습니다.
@@ -76,7 +76,7 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 로그가 너무 길어서 복사가 안 돼요.**
   - A: `kubectl logs --tail=50`으로 뒤쪽 50줄만 잘라서 복사하세요. 핵심은 항상 끝에 있습니다.
@@ -86,20 +86,20 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **SRE 페르소나:** "구글 SRE"라고 지정하면, 단순히 "재시작하세요"가 아니라 **"근본 원인(Root Cause)"**과 **"재발 방지 대책"**까지 알려줍니다.
 2.  **증상 구체화:** `Pending`, `CrashLoopBackOff`, `ImagePullBackOff` 등 상태 메시지를 정확히 주면, AI가 해당 에러에 맞는 솔루션(리소스 증설, 시크릿 확인 등)을 딱 내놓습니다.
 
 ---
 
-## (Updated) (Updated) (Updated) 📊 증명: Before & After {#updated}
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### (Updated) (Updated) (Updated) ❌ Before (무한 삽질) {#updated}
+### (Updated) (Updated) (Updated) ❌ Before (무한 삽질)
 
 "어... 왜 안 뜨지? 노드 재부팅 해볼까?" (서비스 중단 🚨)
 
-### ✅ After (AI 진단) {#ai}
+### (Updated) (Updated) (Updated) ✅ After (AI 진단) {#ai}
 
 **AI:** "로그를 보니 `Insufficient cpu`네요. 현재 노드에 CPU 자원이 꽉 찼습니다.
 
@@ -110,7 +110,7 @@ AI에게 "이 파드가 죽은 이유를 `dmesg`나 `kubectl get events`로 찾�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 인프라는 '무서운 것'이 아닙니다. '로그를 읽을 줄 모르는 것'이 무서운 겁니다.
 AI는 최고의 로그 번역기입니다.
@@ -118,8 +118,14 @@ AI는 최고의 로그 번역기입니다.
 새벽에 서버 터지면 당황하지 마세요.
 프롬프트부터 켜세요. **"살려줘."** 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -1,0 +1,14 @@
+---
+layout: /src/layouts/Layout.astro
+title: "파이썬 버그 해결사: 10초 디버깅 프롬프트"
+author: "ZZabbis"
+date: "2026-02-11"
+updatedDate: "2026-02-11"
+category: "업무 자동화"
+description: "검색엔진에 노출될 매력적인 한 줄 요약을 적어주세요."
+tags: ["태그1", "태그2"]
+---
+
+# 🚧 Translation in Progress
+
+This article is currently being translated. Please check back later.

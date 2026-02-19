@@ -1,0 +1,68 @@
+{
+  "rules": [
+    {
+      "targetId": "ULTHERA",
+      "keywords": ["울쎄라", "Ulthera"]
+    },
+    {
+      "targetId": "SHURINK_UNIVERSE",
+      "keywords": ["슈링크 유니버스", "Shurink Universe"]
+    },
+    {
+      "targetId": "SHURINK",
+      "keywords": ["슈링크", "Shurink"]
+    },
+    {
+      "targetId": "INMODE",
+      "keywords": ["인모드", "Inmode"]
+    },
+    {
+      "targetId": "TITANIUM",
+      "keywords": ["티타늄", "Titanium"]
+    },
+    {
+      "targetId": "THERMAGE",
+      "keywords": ["써마지", "Thermage"]
+    },
+    {
+      "targetId": "OLIGIO",
+      "keywords": ["올리지오", "Oligio"]
+    },
+    {
+      "targetId": "TUNEFACE",
+      "keywords": ["튠페이스", "Tune"]
+    },
+    {
+      "targetId": "REJURAN",
+      "keywords": ["리쥬란", "Rejuran"]
+    },
+    {
+      "targetId": "JUVELOOK",
+      "keywords": ["쥬베룩", "Juvelook"]
+    },
+    {
+      "targetId": "BOTOX",
+      "keywords": ["보톡스", "Botox"]
+    },
+    {
+      "targetId": "FILLER",
+      "keywords": ["필러", "Filler"]
+    },
+    {
+      "targetId": "LHALALA",
+      "keywords": ["라라필", "Lhalala"]
+    },
+    {
+      "targetId": "AQUAPEEL",
+      "keywords": ["아쿠아필", "Aqua"]
+    },
+    {
+      "targetId": "LDM",
+      "keywords": ["LDM"]
+    },
+    {
+      "targetId": "PICO_TONING",
+      "keywords": ["피코", "Pico"]
+    }
+  ]
+}

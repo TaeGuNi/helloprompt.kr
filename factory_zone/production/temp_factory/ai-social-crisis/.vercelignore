@@ -1,0 +1,14 @@
+# Vercel Ignore files
+.git
+.github
+.husky
+.vscode
+.idea
+node_modules
+coverage
+tests
+docs
+test-results
+playwright-report
+README.md
+CHANGELOG.md

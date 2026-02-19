@@ -1,0 +1,19 @@
+{
+  "entry": [
+    "engine/index.ts",
+    "engine/EngineFactory.ts",
+    "jobs/runner.ts",
+    "scripts/**/*.ts",
+    "scripts/**/*.cjs"
+  ],
+  "project": [
+    "**/*.{ts,js,cjs,mjs}"
+  ],
+  "ignore": [
+    "**/*.d.ts",
+    "coverage/**"
+  ],
+  "ignoreDependencies": [
+    "lint-staged"
+  ]
+}

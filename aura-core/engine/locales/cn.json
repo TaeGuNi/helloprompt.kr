@@ -1,0 +1,10 @@
+{
+  "q_event": {
+    "question": "两周内有重要的日程（如婚礼、拍摄）吗？",
+    "intent": "Downtime Check"
+  },
+  "q_flight": {
+    "question": "术后3天内有乘机计划吗？",
+    "intent": "Pressure Change Check"
+  }
+}

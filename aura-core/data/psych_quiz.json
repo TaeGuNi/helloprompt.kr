@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "type": "psych_preference_questionnaire",
+    "languages": ["en", "kr"]
+  },
+  "sections": [
+    {
+      "id": "preferences",
+      "title": "Treatment Preferences",
+      "questions": [
+        {
+          "id": "Q_Pain",
+          "targetKey": "painTolerance",
+          "locales": {
+            "en": {
+              "text": "How do you handle pain during treatments?",
+              "options": [
+                { "text": "I'm very sensitive (Scared)", "value": "Low" },
+                { "text": "I can tolerate some pain (Average)", "value": "Medium" },
+                { "text": "I'm good with pain (Brave)", "value": "High" }
+              ]
+            },
+            "kr": {
+              "text": "시술 통증을 얼마나 참을 수 있나요?",
+              "options": [
+                { "text": "아픈 건 질색이에요 (겁 많음)", "value": "Low" },
+                { "text": "어느 정도는 참을 수 있어요 (보통)", "value": "Medium" },
+                { "text": "예뻐질 수 있다면 잘 참아요 (잘 참음)", "value": "High" }
+              ]
+            }
+          }
+        },
+        {
+          "id": "Q_Down",
+          "targetKey": "downtimePreference",
+          "locales": {
+            "en": {
+              "text": "How much downtime (recovery time) can you accept?",
+              "options": [
+                { "text": "None! I need to go to work immediately", "value": "NoDowntime" },
+                { "text": "A few days (Redness/Swelling OK)", "value": "Short" },
+                { "text": "I don't mind long recovery if effective", "value": "LongOK" }
+              ]
+            },
+            "kr": {
+              "text": "회복 기간(다운타임)은 어느 정도까지 괜찮으신가요?",
+              "options": [
+                { "text": "전혀 없어야 해요 (바로 출근/일상생활)", "value": "NoDowntime" },
+                { "text": "2~3일 정도 붉어지는 건 괜찮아요", "value": "Short" },
+                { "text": "효과만 좋다면 일주일 이상도 괜찮아요", "value": "LongOK" }
+              ]
+            }
+          }
+        },
+        {
+          "id": "Q_Budget",
+          "targetKey": "budgetLevel",
+          "locales": {
+            "en": {
+              "text": "What is your preferred budget range?",
+              "options": [
+                { "text": "Economy (Cost-effective)", "value": "Economy" },
+                { "text": "Standard (Average market price)", "value": "Standard" },
+                { "text": "Premium (High-end/Best results)", "value": "Premium" }
+              ]
+            },
+            "kr": {
+              "text": "선호하시는 예산대는 어느 정도인가요?",
+              "options": [
+                { "text": "가성비가 가장 중요해요 (실속형)", "value": "Economy" },
+                { "text": "평균적인 가격대면 적당해요 (표준형)", "value": "Standard" },
+                { "text": "비싸더라도 확실한 효과와 서비스를 원해요 (프리미엄)", "value": "Premium" }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

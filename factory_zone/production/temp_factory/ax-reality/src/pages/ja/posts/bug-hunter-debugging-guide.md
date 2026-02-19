@@ -1,0 +1,14 @@
+---
+layout: /src/layouts/Layout.astro
+title: "原因不明のバグ、AI探偵に任せてください"
+author: "Zzabbis"
+date: "2026-02-04"
+updatedDate: "2026-02-04"
+category: "コーディング/開発"
+description: "ログだけ見ても全くわからないバグ、スタックトレースとコードスニペットさえあればAIが原因を見つけてくれます。"
+tags: ["デバッグ", "バグ修正", "トラブルシューティング", "エラー解決"]
+---
+
+# 🚧 Translation in Progress
+
+This article is currently being translated. Please check back later.

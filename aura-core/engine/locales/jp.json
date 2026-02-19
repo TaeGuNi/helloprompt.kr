@@ -1,0 +1,10 @@
+{
+  "q_event": {
+    "question": "2週間以内に大切なご予定（結婚式や撮影など）はありますか？",
+    "intent": "Downtime Check"
+  },
+  "q_flight": {
+    "question": "施術直後（3日以内）に飛行機に乗る予定はありますか？",
+    "intent": "Pressure Change Check"
+  }
+}

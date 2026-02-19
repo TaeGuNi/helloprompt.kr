@@ -1,0 +1,588 @@
+---
+import type { Page } from "astro";
+import Layout from "../../layouts/Layout.astro";
+import { LANGUAGES } from "../../i18n/languages";
+import { formatDate } from "../../utils/dateUtils";
+import type { Post } from "../../utils/postUtils";
+
+interface GetStaticPathsOptions {
+  paginate: (
+    data: Post[],
+    options: { params: { lang: string }; pageSize: number },
+  ) => unknown[];
+}
+
+interface Props {
+  page: Page<Post>;
+}
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  // 1. 외국어 포스트 동적 로딩
+  const globResult = import.meta.glob("../**/posts/*.md", { eager: true });
+
+  // 2. 언어별 포스트 컬렉션 생성
+  const collections = LANGUAGES.map((lang) => {
+    // 해당 언어 폴더(src/pages/{lang}/posts/)의 포스트만 필터링
+    const posts = Object.entries(globResult)
+      .filter(([path]) => path.includes(`/${lang}/posts/`))
+      .map(([, post]) => post as Post);
+
+    return { lang, posts };
+  });
+
+  // 3. 페이지네이션 경로 생성
+  return collections.flatMap(({ lang, posts }) => {
+    const sortedPosts = posts.sort(
+      (a, b) =>
+        new Date(b.frontmatter.date).valueOf() -
+        new Date(a.frontmatter.date).valueOf(),
+    );
+
+    return paginate(sortedPosts, {
+      params: { lang },
+      pageSize: 12,
+    });
+  });
+}
+
+const { page } = Astro.props as Props;
+const { lang } = Astro.params;
+
+// 다국어 슬로건
+const SLOGANS: Record<string, string> = {
+  en: "The Friendliest AI Guide for Beginners",
+  es: "La guía de IA más amable para principiantes",
+  ja: "AI初心者のための最も親切なガイド",
+  zh: "为AI初学者准备的最贴心指南",
+  fr: "Le guide IA le plus convivial pour les débutants",
+  de: "Der freundlichste KI-Leitfaden für Anfänger",
+  pt: "O guia de IA mais amigável para iniciantes",
+  ru: "Самое дружелюбное руководство по ИИ для новичков",
+  it: "La guida AI più amichevole per principianti",
+};
+
+const currentSlogan =
+  SLOGANS[lang as string] || "The Friendliest AI Guide for Beginners";
+
+const frontmatter = {
+  title: "HOME",
+  description: currentSlogan,
+  date: new Date().toISOString().split("T")[0],
+  author: "Jay & ZZABBIS",
+  lang: lang as string,
+};
+---
+
+<Layout frontmatter={frontmatter} isHome={true}>
+  <!-- HERO -->
+  <div class="hero">
+    <h1 class="ai-title">HELLO PROMPT</h1>
+    <div class="tech-line"></div>
+    <p class="subtitle">{currentSlogan}</p>
+
+    <!-- 검색창 추가 -->
+    <div class="search-container">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="SEARCH INTELLIGENCE..."
+        autocomplete="off"
+      />
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
+
+  <style is:global>
+    .search-container {
+      position: relative;
+      width: 100%;
+      max-width: 800px;
+      margin: 40px auto 0;
+      z-index: 50;
+    }
+
+    #search-input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 16px 24px;
+      background: rgba(10, 15, 20, 0.8);
+      border: 1px solid rgba(0, 243, 255, 0.5);
+      border-radius: 12px;
+      color: #fff;
+      font-family: "Noto Sans KR", sans-serif;
+      font-size: 1rem;
+      text-align: left;
+      transition: all 0.2s ease;
+      backdrop-filter: blur(10px);
+    }
+    #search-input:focus {
+      outline: none;
+      border-color: #00f3ff;
+      box-shadow: 0 0 0 4px rgba(0, 243, 255, 0.1);
+      background: rgba(10, 15, 20, 0.95);
+    }
+    #search-input::placeholder {
+      color: #666;
+      text-align: center;
+    }
+
+    /* 검색 결과창 (입력창과 너비 1:1 일치) */
+    .search-results {
+      position: absolute;
+      top: calc(100% + 10px);
+      left: 0;
+      right: 0;
+      width: 100%;
+      box-sizing: border-box;
+
+      background: #0a0f14;
+      border: 1px solid #333;
+      border-radius: 12px;
+      max-height: 400px;
+      overflow-y: auto;
+      z-index: 100;
+      display: none;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+    }
+
+    /* 검색 항목 (리스트 아이템) */
+    .search-item {
+      display: block;
+      padding: 16px 20px;
+      border-bottom: 1px solid #1a1f25;
+      text-decoration: none;
+      transition: background 0.1s ease;
+    }
+    .search-item:last-child {
+      border-bottom: none;
+    }
+
+    .search-item:hover {
+      background: rgba(0, 243, 255, 0.05);
+    }
+
+    .search-item h4 {
+      margin: 0 0 6px 0;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+    .search-item p {
+      margin: 0;
+      color: #999;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .search-results::-webkit-scrollbar {
+      width: 6px;
+    }
+    .search-results::-webkit-scrollbar-thumb {
+      background: #333;
+      border-radius: 3px;
+    }
+  </style>
+
+  <script>
+    /**
+     * 검색 기능 제어 스크립트 (다국어 지원)
+     * - Fuse.js를 이용한 Fuzzy Search
+     */
+    import Fuse from "fuse.js";
+
+    interface SearchItem {
+      title: string;
+      description: string;
+      url: string;
+      tags?: string[];
+    }
+
+    // DOM 요소 참조 (Null Safety)
+    const searchInput = document.getElementById(
+      "search-input",
+    ) as HTMLInputElement;
+    const searchResults = document.getElementById("search-results");
+
+    // Fuse.js 인스턴스
+    let fuse: Fuse<SearchItem> | null = null;
+
+    // 현재 언어 추출 (URL 경로 기반: /en/, /ja/ 등)
+    const currentPath = window.location.pathname;
+    const currentLang = currentPath.split("/")[1] || "ko";
+
+    /**
+     * 초기 데이터 로드 (비동기)
+     * 빌드 타임에 생성된 search.json을 가져옴
+     */
+    async function loadSearchIndex() {
+      try {
+        const response = await fetch("/search.json");
+        const allPosts: SearchItem[] = await response.json();
+
+        // 현재 언어에 해당하는 포스트만 필터링
+        // (search.json에는 모든 언어의 포스트가 들어있음)
+        let targetPosts = allPosts;
+
+        if (currentLang !== "ko") {
+          // 해당 언어 코드로 시작하는 URL만 필터링
+          targetPosts = allPosts.filter((post) =>
+            post.url.startsWith(`/${currentLang}/`),
+          );
+        } else {
+          // 한국어는 언어 프리픽스가 없거나 ko가 아님 (보통 루트 경로 바로 아래 posts)
+          // 명시적으로 다른 언어 코드가 없는 것들을 선택
+          const langs = ["en", "ja", "zh", "de", "fr", "es", "it", "pt", "ru"];
+          targetPosts = allPosts.filter(
+            (post) => !langs.some((lang) => post.url.startsWith(`/${lang}/`)),
+          );
+        }
+
+        // Fuse.js 초기화
+        fuse = new Fuse(targetPosts, {
+          keys: [
+            { name: "title", weight: 0.6 },
+            { name: "tags", weight: 0.3 },
+            { name: "description", weight: 0.1 },
+          ],
+          threshold: 0.4,
+          ignoreLocation: true,
+        });
+      } catch (error) {
+        console.error("Failed to load search index:", error);
+      }
+    }
+    loadSearchIndex();
+
+    /**
+     * 디바운스 함수 (성능 최적화)
+     * 연속된 이벤트 호출을 제어하여 마지막 호출만 실행
+     */
+    function debounce<T extends (...args: unknown[]) => void>(
+      func: T,
+      delay: number,
+    ) {
+      let timeoutId: number | undefined;
+      return (...args: Parameters<T>) => {
+        clearTimeout(timeoutId);
+        timeoutId = window.setTimeout(() => func(...args), delay);
+      };
+    }
+
+    /**
+     * 검색 실행 및 UI 업데이트
+     */
+    function handleSearch(event: Event) {
+      const target = event.target as HTMLInputElement;
+      const query = target.value.trim();
+
+      if (!searchResults) return;
+
+      // 검색어 초기화 시 숨김
+      if (query.length < 1) {
+        searchResults.style.display = "none";
+        searchResults.innerHTML = "";
+        return;
+      }
+
+      if (!fuse) return;
+
+      // Fuse.js 검색 실행
+      const results = fuse.search(query);
+      const matchedPosts = results.map((result) => result.item);
+
+      renderResults(matchedPosts);
+    }
+
+    /**
+     * 결과 렌더링 (DOM 조작)
+     */
+    function renderResults(posts: SearchItem[]) {
+      if (!searchResults) return;
+
+      searchResults.innerHTML = "";
+      searchResults.style.display = "block";
+
+      if (posts.length === 0) {
+        searchResults.innerHTML = `
+                            <div style="padding: 20px; color: #888; text-align: center;">
+                                NO DATA FOUND
+                            </div>
+                        `;
+        return;
+      }
+
+      // DocumentFragment를 사용하여 리플로우 최소화
+      const fragment = document.createDocumentFragment();
+
+      posts.forEach((post) => {
+        const link = document.createElement("a");
+        link.className = "search-item";
+        link.href = post.url;
+        link.innerHTML = `
+                            <h4>${post.title}</h4>
+                            <p>${post.description}</p>
+                        `;
+        fragment.appendChild(link);
+      });
+
+      searchResults.appendChild(fragment);
+    }
+
+    // 이벤트 리스너 등록 (300ms 디바운스 적용)
+    if (searchInput) {
+      searchInput.addEventListener("input", debounce(handleSearch, 300));
+    }
+
+    // 외부 클릭 시 닫기 (UX 개선)
+    document.addEventListener("click", (event: MouseEvent) => {
+      const target = event.target as HTMLElement;
+      const isClickInside = target.closest(".search-container");
+
+      if (!isClickInside && searchResults) {
+        searchResults.style.display = "none";
+      }
+    });
+  </script>
+
+  <!-- POST LIST (Card Grid Style) -->
+  <div class="grid-label">
+    <span>LATEST INTELLIGENCE</span>
+    <span class="grid-count">PAGE {page.currentPage} / {page.lastPage}</span>
+  </div>
+
+  <div class="post-grid">
+    {
+      page.data.map((post: Post) => (
+        <a href={post.url} class="post-card">
+          <h2>{post.frontmatter.title}</h2>
+          <p>{post.frontmatter.description}</p>
+          <div class="post-meta">
+            <span>
+              {formatDate(post.frontmatter.date, lang as string, {
+                dateOnly: true,
+              })}
+            </span>
+            {post.frontmatter.tags &&
+              post.frontmatter.tags
+                .slice(0, 2)
+                .map((tag: string) => <span class="tag-pill">#{tag}</span>)}
+          </div>
+        </a>
+      ))
+    }
+  </div>
+
+  <!-- 페이지네이션 컨트롤 -->
+  <div class="pagination">
+    {
+      page.url.prev ? (
+        <a href={page.url.prev} class="nav-btn">
+          &lt; PREV
+        </a>
+      ) : null
+    }
+    <span class="nav-info">{page.currentPage} / {page.lastPage}</span>
+    {
+      page.url.next ? (
+        <a href={page.url.next} class="nav-btn">
+          NEXT &gt;
+        </a>
+      ) : null
+    }
+  </div>
+</Layout>
+
+<style>
+  /* --- HERO SECTION (Refined) --- */
+  .hero {
+    margin-bottom: 120px; /* 하단 여백 대폭 추가 */
+    position: relative;
+    text-align: center;
+    padding-top: 60px; /* 상단 여백 추가 */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 확실한 중앙 정렬 */
+  }
+
+  .ai-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 5rem; /* PC에서 더 크게 */
+    font-weight: 900;
+    letter-spacing: 4px;
+    margin: 0 0 30px 0;
+    line-height: 1.1;
+    color: #fff;
+    text-transform: uppercase;
+
+    /* 네온 효과 강화 */
+    text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
+    background: linear-gradient(180deg, #fff, #aaa); /* 메탈릭 그라데이션 */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .tech-line {
+    width: 150px;
+    height: 4px;
+    background: #00f3ff;
+    margin: 0 auto 30px; /* 중앙 정렬 및 여백 */
+    box-shadow: 0 0 20px #00f3ff;
+    border-radius: 2px;
+  }
+
+  p.subtitle {
+    font-size: 1.4rem;
+    color: #ccc;
+    margin: 0 0 60px 0; /* 검색창과의 간격 */
+    font-weight: 300;
+    letter-spacing: 1px;
+    opacity: 0.8;
+  }
+
+  @media (max-width: 768px) {
+    .ai-title {
+      font-size: 3rem;
+      letter-spacing: 1px;
+    }
+    .hero {
+      margin-bottom: 80px;
+      padding-top: 40px;
+    }
+    p.subtitle {
+      font-size: 1.1rem;
+      margin-bottom: 40px;
+    }
+  }
+
+  /* --- POST GRID SECTION --- */
+  .grid-label {
+    text-align: left;
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid-count {
+    background: #00f3ff;
+    color: #000;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    text-align: left;
+  }
+
+  .post-card {
+    background: rgba(10, 20, 30, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+  }
+
+  .post-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: #333;
+    transition: background 0.3s;
+  }
+
+  .post-card:hover {
+    transform: translateY(-5px);
+    border-color: #00f3ff;
+    box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+  }
+  .post-card:hover::before {
+    background: #00f3ff;
+  }
+
+  .post-card h2 {
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  .post-card p {
+    color: #aaa;
+    font-size: 0.9rem;
+    flex-grow: 1;
+    margin-bottom: 20px;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    font-family: "JetBrains Mono", monospace;
+    color: #666;
+  }
+
+  .tag-pill {
+    background: rgba(0, 243, 255, 0.1);
+    color: #00f3ff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 243, 255, 0.2);
+  }
+
+  /* --- PAGINATION --- */
+  .pagination {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .nav-btn {
+    background: transparent;
+    border: 1px solid #00f3ff;
+    color: #00f3ff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: "Orbitron", sans-serif;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+  .nav-btn:hover {
+    background: #00f3ff;
+    color: #000;
+    box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
+  }
+  .nav-info {
+    color: #666;
+    font-family: "JetBrains Mono", monospace;
+    align-self: center;
+  }
+
+  @media (max-width: 600px) {
+    .ai-title {
+      font-size: 2.5rem;
+    }
+  }
+</style>

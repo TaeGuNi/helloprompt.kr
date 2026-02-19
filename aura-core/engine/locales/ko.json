@@ -1,0 +1,22 @@
+{
+  "q_event": {
+    "question": "혹시 2주 이내에 촬영이나 결혼식 같은 중요한 약속이 있으신가요? (화장이 잘 먹어야 하는 날이 있다면 알려주세요!)",
+    "intent": "중요한 일정 확인 (다운타임 필터링)"
+  },
+  "q_flight": {
+    "question": "시술 직후 3일 이내에 비행기를 타실 계획이 있나요? ✈️",
+    "intent": "기압차/건조함 주의 (압출, MTS 제한)"
+  },
+  "shield_pregnancy": {
+    "message": "임신 중이시군요! 레이저 대신 태아에게 안전한 '맘스 케어(Mom's Care)' 프로그램으로 안내해 드릴게요. 👶",
+    "alternative": "Mom's Care (LDM, Oxygen Therapy)"
+  },
+  "shield_medication": {
+    "message": "복용 중인 약물이 있으시네요. 피부가 건조할 수 있으니 자극 없는 '보습/재생 케어'를 추천해 드립니다. 💧",
+    "alternative": "Recovery Care (Cryo, LED)"
+  },
+  "shield_infection": {
+    "message": "현재 염증 소견이 보입니다. 시술보다 먼저 전문의 선생님의 진료와 처방을 받으실 수 있도록 안내해 드릴게요. 👨‍⚕️",
+    "alternative": "Medical Consult (Prescription First)"
+  }
+}

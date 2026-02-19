@@ -1,0 +1,412 @@
+---
+import Layout from "../layouts/Layout.astro";
+import type { Post } from "../utils/postUtils";
+import { formatDate } from "../utils/dateUtils";
+import Search from "../components/Search.astro";
+
+interface Page<T = Post> {
+  data: T[];
+  start: number;
+  end: number;
+  total: number;
+  currentPage: number;
+  size: number;
+  lastPage: number;
+  url: {
+    current: string;
+    prev: string | undefined;
+    next: string | undefined;
+  };
+}
+
+interface GetStaticPathsOptions {
+  paginate: (data: Post[], options: { pageSize: number }) => unknown[];
+}
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  // 1. 한국어 포스트만 가져오기 (eager load)
+  const krPosts = Object.values(
+    import.meta.glob("./posts/*.md", { eager: true }),
+  ) as Post[];
+
+  // 2. 날짜순 정렬
+  const sortedPosts = krPosts.sort(
+    (a, b) =>
+      new Date(b.frontmatter.date).valueOf() -
+      new Date(a.frontmatter.date).valueOf(),
+  );
+
+  // 3. 페이지네이션 (루트 경로 /)
+  return paginate(sortedPosts, { pageSize: 12 });
+}
+
+const { page } = Astro.props as { page: Page<Post> };
+
+// --- 태그 집계 로직 추가 ---
+const allPosts = Object.values(
+  import.meta.glob("./posts/*.md", { eager: true }),
+) as Post[];
+
+const tagCounts: Record<string, number> = {};
+allPosts.forEach((post) => {
+  if (post.frontmatter.tags) {
+    post.frontmatter.tags.forEach((tag) => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
+  }
+});
+
+const popularTags = Object.entries(tagCounts)
+  .sort(([, a], [, b]) => b - a) // 빈도수 내림차순 정렬
+  .slice(0, 10) // 상위 10개만 추출
+  .map(([tag]) => tag);
+
+const frontmatter = {
+  title: "HOME",
+  description: "AI가 낯선 당신을 위한 가장 친절한 가이드",
+  date: new Date().toISOString().split("T")[0],
+  author: "Jay & ZZABBIS",
+};
+---
+
+<Layout frontmatter={frontmatter} isHome={true}>
+  <!-- HERO -->
+  <div class="hero">
+    <h1 class="ai-title">HELLO PROMPT</h1>
+    <div class="tech-line"></div>
+    <p class="subtitle">AI가 낯선 당신을 위한 가장 친절한 가이드</p>
+
+    <!-- 검색창 -->
+    <Search variant="hero" />
+
+    <!-- 🔥 POPULAR TAGS (New Section) -->
+    <div class="popular-tags">
+      <span class="tag-label">🔥 TRENDING:</span>
+      <div class="tag-list">
+        {
+          popularTags.map((tag) => (
+            <a href={`/tags/${tag}`} class="pop-tag">
+              #{tag}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+
+  <style is:global>
+    /* ... (기존 검색 스타일 유지) ... */
+
+    /* Post Grid & Other Styles will remain, but search styles are removed as they are now in the component */
+  </style>
+
+  <!-- POST LIST (Card Grid Style) -->
+  <div class="grid-label">
+    <span>LATEST INTELLIGENCE</span>
+    <span class="grid-count">PAGE {page.currentPage} / {page.lastPage}</span>
+  </div>
+
+  <div class="post-grid">
+    {
+      page.data.map((post) => (
+        <a href={post.url} class="post-card">
+          <h2>{post.frontmatter.title}</h2>
+          <p>{post.frontmatter.description}</p>
+          <div class="post-meta">
+            <span>
+              {formatDate(post.frontmatter.date, "ko", { dateOnly: true })}
+            </span>
+            {post.frontmatter.tags &&
+              post.frontmatter.tags
+                .slice(0, 2)
+                .map((tag) => <span class="tag-pill">#{tag}</span>)}
+          </div>
+        </a>
+      ))
+    }
+  </div>
+
+  <!-- 페이지네이션 컨트롤 -->
+  <div class="pagination">
+    {
+      page.url.prev ? (
+        <a href={page.url.prev} class="nav-btn">
+          &lt; PREV
+        </a>
+      ) : null
+    }
+    <span class="nav-info">{page.currentPage} / {page.lastPage}</span>
+    {
+      page.url.next ? (
+        <a href={page.url.next} class="nav-btn">
+          NEXT &gt;
+        </a>
+      ) : null
+    }
+  </div>
+
+  <script is:inline>
+    document.addEventListener("DOMContentLoaded", () => {
+      // @ts-expect-error -- External script
+      const trackEvent = (action, params) => {
+        // @ts-expect-error -- External script
+        if (typeof window.gtag === "function") {
+          // @ts-expect-error -- External script
+          window.gtag("event", action, params);
+        }
+      };
+
+      // Popular Tags Tracking
+      const popTags = document.querySelectorAll(".pop-tag");
+      popTags.forEach((tag) => {
+        tag.addEventListener("click", (e) => {
+          const target = e.target;
+          // @ts-expect-error -- External script
+          const tagName = target.innerText || target.textContent;
+          trackEvent("click_tag", {
+            tag_name: tagName,
+            location: "home_trending",
+          });
+        });
+      });
+    });
+  </script>
+</Layout>
+
+<style>
+  /* --- HERO SECTION (Refined) --- */
+  .hero {
+    margin-bottom: 80px; /* 여백 조정 */
+    position: relative;
+    text-align: center;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* ... (기존 스타일 유지) ... */
+  .ai-title {
+    font-family: "Orbitron", sans-serif;
+    font-size: 5rem;
+    font-weight: 900;
+    letter-spacing: 4px;
+    margin: 0 0 30px 0;
+    line-height: 1.1;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
+    background: linear-gradient(180deg, #fff, #aaa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .tech-line {
+    width: 150px;
+    height: 4px;
+    background: #00f3ff;
+    margin: 0 auto 30px;
+    box-shadow: 0 0 20px #00f3ff;
+    border-radius: 2px;
+  }
+
+  p.subtitle {
+    font-size: 1.4rem;
+    color: #ccc;
+    margin: 0 0 40px 0;
+    font-weight: 300;
+    letter-spacing: 1px;
+    opacity: 0.8;
+  }
+
+  /* --- POPULAR TAGS STYLE --- */
+  .popular-tags {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  .tag-label {
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    opacity: 0.8;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .pop-tag {
+    background: rgba(0, 243, 255, 0.05);
+    border: 1px solid rgba(0, 243, 255, 0.3);
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .pop-tag:hover {
+    background: rgba(0, 243, 255, 0.2);
+    border-color: #00f3ff;
+    box-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 768px) {
+    .ai-title {
+      font-size: 3rem;
+      letter-spacing: 1px;
+    }
+    .hero {
+      margin-bottom: 60px;
+      padding-top: 40px;
+    }
+    p.subtitle {
+      font-size: 1.1rem;
+      margin-bottom: 30px;
+    }
+    .popular-tags {
+      padding: 0 20px; /* 모바일 좌우 여백 */
+    }
+  }
+
+  /* --- POST GRID SECTION --- */
+  .grid-label {
+    text-align: left;
+    font-family: "Orbitron", sans-serif;
+    color: #00f3ff;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid-count {
+    background: #00f3ff;
+    color: #000;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    text-align: left;
+  }
+
+  .post-card {
+    background: rgba(10, 20, 30, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+  }
+
+  .post-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: #333;
+    transition: background 0.3s;
+  }
+
+  .post-card:hover {
+    transform: translateY(-5px);
+    border-color: #00f3ff;
+    box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+  }
+  .post-card:hover::before {
+    background: #00f3ff;
+  }
+
+  .post-card h2 {
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  .post-card p {
+    color: #aaa;
+    font-size: 0.9rem;
+    flex-grow: 1;
+    margin-bottom: 20px;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    font-family: "JetBrains Mono", monospace;
+    color: #666;
+  }
+
+  .tag-pill {
+    background: rgba(0, 243, 255, 0.1);
+    color: #00f3ff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 243, 255, 0.2);
+  }
+
+  /* --- PAGINATION --- */
+  .pagination {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .nav-btn {
+    background: transparent;
+    border: 1px solid #00f3ff;
+    color: #00f3ff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: "Orbitron", sans-serif;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+  .nav-btn:hover {
+    background: #00f3ff;
+    color: #000;
+    box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
+  }
+  .nav-info {
+    color: #666;
+    font-family: "JetBrains Mono", monospace;
+    align-self: center;
+  }
+
+  @media (max-width: 600px) {
+    .ai-title {
+      font-size: 2.5rem;
+    }
+  }
+</style>

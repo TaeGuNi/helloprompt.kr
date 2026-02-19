@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ULTHERA",
+    "name": "울쎄라피 프라임",
+    "category": "General",
+    "methodType": "Laser",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Nohd Clinic",
+        "optionName": "울쎄라피 프라임",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://nohdclinic.com/ko/products",
+        "hospitalId": "nohd"
+      }
+    ]
+  },
+  {
+    "id": "THERMAGE",
+    "name": "써마지 FLX",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Nohd Clinic",
+        "optionName": "써마지 FLX",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://nohdclinic.com/ko/products",
+        "hospitalId": "nohd"
+      }
+    ]
+  },
+  {
+    "id": "nohd_8c9e49eb-dc56-4979-8865-e800c07427a3",
+    "name": "온다리프팅",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Nohd Clinic",
+        "optionName": "온다리프팅",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://nohdclinic.com/ko/products",
+        "hospitalId": "nohd"
+      }
+    ]
+  },
+  {
+    "id": "nohd_963bbaae-8d8a-4e07-be36-9a1418d7a17c",
+    "name": "포텐자 (DIA)",
+    "category": "General",
+    "methodType": "Other",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Nohd Clinic",
+        "optionName": "포텐자 (DIA)",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://nohdclinic.com/ko/products",
+        "hospitalId": "nohd"
+      }
+    ]
+  },
+  {
+    "id": "SHURINK",
+    "name": "슈링크유니버스",
+    "category": "General",
+    "methodType": "Laser",
+    "targetArea": "Face",
+    "painLevel": 2,
+    "safetyLevel": "Caution",
+    "downtimeLevel": 1,
+    "baumannTarget": [],
+    "goals": [],
+    "contraindications": [],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "KRW"
+    },
+    "standardPrice": 0,
+    "durationMinutes": 30,
+    "availableHospitals": [
+      {
+        "name": "Nohd Clinic",
+        "optionName": "슈링크유니버스",
+        "price": 0,
+        "currency": "KRW",
+        "url": "https://nohdclinic.com/ko/products",
+        "hospitalId": "nohd"
+      }
+    ]
+  }
+]

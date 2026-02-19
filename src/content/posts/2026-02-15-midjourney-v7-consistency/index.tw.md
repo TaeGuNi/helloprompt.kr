@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]
 ---
 
+# Midjourney Character Consistency (Traditional Chinese)
+
 ## Introduction
 
 The landscape of AI is shifting rapidly. Today, we discuss **Midjourney Character Consistency**.

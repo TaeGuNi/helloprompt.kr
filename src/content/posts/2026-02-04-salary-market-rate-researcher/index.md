@@ -9,6 +9,8 @@ description: "카더라 통신 말고, 데이터 기반으로 내 연차와 직�
 tags: ["연봉검색", "시장가조사", "몸값측정", "이직준비"]
 ---
 
+# (Updated) (Updated) (Updated) 📝 "내 몸값, 얼마가 적당할까?\" 직무별 연봉 시장가(Market Rate) 조사 프롬프트 {#market-rate}
+
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델
@@ -23,7 +25,7 @@ _"옆자리 김 대리는 5천 받는다던데... 나는?"_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 내 직무, 연차, 산업군, 기업 규모를 입력합니다.
 2. AI가 채용 사이트와 커뮤니티 데이터를 기반으로 연봉 범위(최소-중위-최대)를 추정합니다.
@@ -31,9 +33,9 @@ _"옆자리 김 대리는 5천 받는다던데... 나는?"_
 
 ---
 
-## 🚀 해결책: "Salary Market Researcher"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Salary Market Researcher"
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -42,7 +44,7 @@ _"옆자리 김 대리는 5천 받는다던데... 나는?"_
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -65,24 +67,24 @@ _"옆자리 김 대리는 5천 받는다던데... 나는?"_
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (감으로 지르기)
+### (Updated) (Updated) (Updated) ❌ Before (감으로 지르기)
 
 ```text
 "음... 친구가 5천 받으니까 저도 5천 주세요."
 (인사팀: "그건 그 회사 사정이고요.")
 ```
 
-### ✅ After (데이터로 설득하기)
+### (Updated) (Updated) (Updated) ✅ After (데이터로 설득하기)
 
 ```text
 "최근 채용 시장 데이터를 분석해보니, 동종 업계 5년 차 PO의 평균 연봉은 6,000만 원 선으로 형성되어 있습니다.
@@ -91,14 +93,14 @@ _"옆자리 김 대리는 5천 받는다던데... 나는?"_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -108,14 +110,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 아는 만큼 받습니다. 내 몸값을 스스로 모르면, 남이 정해주는 대로 살아야 합니다.
 
 지금 바로 당신의 가격표를 확인해보세요. 생각보다 비쌀지도 모릅니다. 💎
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -1,21 +1,16 @@
 ---
-cover: ./cover.png
+title: "Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란"
 date: 2026-02-15
-description: 인기 스마트 수면 안대 Somnium X가 사용자의 수면 중 대화를 무단으로 클라우드에 업로드한 사실이 밝혀졌습니다.
-layout: /src/layouts/Layout.astro
-tags:
-  - IoT
-  - Privacy
-  - Security
-  - Wearables
-title: Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란
+tags: ["IoT", "Privacy", "Security", "Wearables"]
+cover: ./cover.png
+description: "인기 스마트 수면 안대 Somnium X가 사용자의 수면 중 대화를 무단으로 클라우드에 업로드한 사실이 밝혀졌습니다."
 ---
 
-## 꿈을 기록한다더니, 사생활을 기록했나?
+## (Updated) (Updated) (Updated) 꿈을 기록한다더니, 사생활을 기록했나?
 
 최근 킥스타터에서 큰 성공을 거두며 출시된 **Somnium X** 스마트 수면 안대가 심각한 보안 문제에 휘말렸습니다. 보안 연구원들은 이 기기가 사용자의 수면 패턴 분석을 위해 수집한 오디오 데이터 중 일부를 암호화되지 않은 채로 공용 클라우드 서버에 전송하고 있다는 사실을 발견했습니다.
 
-### 무엇이 문제인가?
+### (Updated) (Updated) (Updated) 무엇이 문제인가?
 
 Somnium Labs 측은 해당 기기가 "코골이 및 수면 무호흡증 감지"를 위해 로컬에서만 오디오를 처리한다고 주장해왔습니다. 하지만 실제로는 다음과 같은 데이터가 외부 서버로 전송되고 있었습니다:
 
@@ -23,24 +18,30 @@ Somnium Labs 측은 해당 기기가 "코골이 및 수면 무호흡증 감지"�
 2.  **주변 소음**: 침실 내에서 발생하는 대화나 TV 소리 등이 포함될 수 있음.
 3.  **메타데이터**: 사용자의 위치, 수면 시간, 기기 고유 ID.
 
-### 보안 연구원의 발견
+### (Updated) (Updated) (Updated) 보안 연구원의 발견
 
 익명의 보안 연구원 'SleepWalker'는 네트워크 트래픽 분석 중 Somnium X가 매일 밤 특정 시간대에 대용량 데이터를 전송하는 것을 포착했습니다. 해당 패킷을 분석한 결과, `.wav` 형식의 오디오 파일들이 인증 절차 없이 접근 가능한 AWS S3 버킷에 저장되고 있었습니다.
 
 "이것은 단순한 실수가 아닙니다. 수천 명의 사용자가 가장 무방비한 상태인 수면 시간 동안 감시당한 것과 다름없습니다." - SleepWalker
 
-### 회사의 대응
+### (Updated) (Updated) (Updated) 회사의 대응
 
 논란이 확산되자 Somnium Labs는 즉각 서버를 비공개로 전환하고 사과문을 발표했습니다. 그들은 이를 "베타 테스트 중 남겨진 디버깅 기능이 실수로 정식 펌웨어에 포함된 것"이라고 해명하며, 즉시 펌웨어 업데이트를 배포하겠다고 밝혔습니다.
 
 하지만 이미 유출된 데이터의 규모와 정확한 피해 범위는 아직 파악되지 않고 있어, 사용자들의 불안감은 쉽게 가라앉지 않을 전망입니다.
 
-### 우리의 교훈
+### (Updated) (Updated) (Updated) 우리의 교훈
 
 이번 사건은 IoT 기기, 특히 침실과 같은 지극히 개인적인 공간에서 사용되는 기기의 보안이 얼마나 중요한지 다시 한번 일깨워줍니다. 스마트 홈 기기를 선택할 때는 편의성뿐만 아니라, 해당 제조사의 보안 정책과 데이터 처리 방식을 꼼꼼히 따져봐야 할 것입니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

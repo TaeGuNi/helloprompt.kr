@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]
 ---
 
+# Publishers Block AI Scraping
+
 ## Introduction
 
 For over a decade, the internet was treated as a limitless, open-source dataset for machine learning models. Web crawlers roamed freely, indexing everything from news articles to forum discussions. However, 2024 and 2025 marked a definitive turning point. Major content publishers, realizing the immense value of their intellectual property in the age of Generative AI, have aggressively moved to block AI scrapers.

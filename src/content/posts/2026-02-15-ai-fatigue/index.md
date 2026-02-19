@@ -1,18 +1,11 @@
 ---
-authors:
-  - HelloPrompt Team
-categories:
-  - Society
-  - Opinion
-date: 2026-02-14
-description: 하루가 멀다 하고 쏟아지는 '혁신' 뉴스에 대중은 지쳤습니다. 과대광고(Hype)와 현실(Reality)의 괴리를 진단합니다.
-image: https://source.unsplash.com/random/800x600?tired,tech
-layout: /src/layouts/Layout.astro
-tags:
-  - AI Fatigue
-  - Hype Cycle
-  - Tech Burnout
 title: "AI Fatigue: 우리는 지쳤다"
+description: "하루가 멀다 하고 쏟아지는 '혁신' 뉴스에 대중은 지쳤습니다. 과대광고(Hype)와 현실(Reality)의 괴리를 진단합니다."
+date: 2026-02-14
+image: "https://source.unsplash.com/random/800x600?tired,tech"
+categories: ["Society", "Opinion"]
+authors: ["HelloPrompt Team"]
+tags: ["AI Fatigue", "Hype Cycle", "Tech Burnout"]
 ---
 
 ## "또 AI야?"

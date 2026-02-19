@@ -7,6 +7,8 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
+# Evolution der Coding-Agenten
+
 KI-Agenten gehen über einfache Assistenz hinaus. Entwickler müssen jetzt Architekten werden.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

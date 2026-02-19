@@ -1,21 +1,15 @@
 ---
-author: ZZabbis
-category: 보안/AI
-date: "2026-02-13"
-description:
-  자율 에이전트가 API 키를 유출하거나 악성 코드를 실행하지 않도록 막는 실전 가이드. OWASP LLM Top 10 기반
-  보안 프롬프트 제공.
 layout: /src/layouts/Layout.astro
-tags:
-  - AI에이전트
-  - 보안
-  - PromptInjection
-  - 해킹방지
-  - LLM
-  - OWASP
 title: "AI 에이전트 보안 가이드: 내 봇이 해킹당하지 않으려면"
+author: "ZZabbis"
+date: "2026-02-13"
 updatedDate: "2026-02-13"
+category: "보안/AI"
+description: "자율 에이전트가 API 키를 유출하거나 악성 코드를 실행하지 않도록 막는 실전 가이드. OWASP LLM Top 10 기반 보안 프롬프트 제공."
+tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
+
+# 🛡️ AI 에이전트 보안 가이드: 내 봇이 해킹당하지 않으려면
 
 - **🎯 추천 대상:** "그냥 돌리면 되겠지" 하고 API 키 하드코딩하는 개발자, AI가 맘대로 서버 포맷할까 봐 무서운 관리자
 - **⏱️ 소요 시간:** 10분 (보안 프롬프트 적용 및 점검)
@@ -95,7 +89,7 @@ XML 태그를 활용해 시스템 영역과 사용자 영역을 명확히 분리
 
 ```python
 import os
-
+# ❌ 나쁜 예
 # api_key = "sk-12345..."
 
 # ✅ 좋은 예

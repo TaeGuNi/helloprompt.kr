@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 ---
 
+# Smart Sleep Masks Broadcasting Brainwaves
+
 ## Introduction
 
 In the pursuit of optimized rest, the tech industry has pivoted from wrist-worn trackers to something more intimate: smart sleep masks. These devices, promising to hack our circadian rhythms and induce lucid dreaming, are now commonplace in 2026. However, for the security-minded developer, they represent a terrifying new frontier in the Internet of Things (IoT).

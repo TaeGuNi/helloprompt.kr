@@ -9,6 +9,8 @@ description: "시니어 개발자가 없어도 괜찮아. AI에게 코드 리뷰
 tags: ["코드리뷰", "개발자", "클린코드", "리팩토링", "ChatGPT"]
 ---
 
+# (Updated) (Updated) (Updated) 💻 AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로
+
 - **🎯 추천 대상:** 사수 없이 혼자 일하는 주니어 개발자, 스파게티 코드에 고통받는 유지보수 담당자
 - **⏱️ 소요 시간:** 1분
 - **🤖 추천 모델:** Claude 3.5 Sonnet (코드 분석력 최상)
@@ -23,7 +25,7 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  리뷰받고 싶은 코드를 복사한다.
 2.  AI에게 **"코드 리뷰 해줘"**라고 던진다.
@@ -31,9 +33,9 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 ---
 
-## 🚀 해결책: "Code Reviewer Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Code Reviewer Prompt"
 
-### 🥉 Basic Version (버그 찾기)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (버그 찾기)
 
 급하게 에러만 잡고 싶을 때.
 
@@ -43,7 +45,7 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 <br>
 
-### 🥇 Pro Version (구글 스타일 리팩토링)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (구글 스타일 리팩토링)
 
 변수명부터 아키텍처까지 싹 뜯어고칠 때.
 
@@ -67,18 +69,18 @@ _"이 코드가 돌아가는 건 알겠는데... 변수명이 `a`, `b`, `temp`�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **페르소나 부여:** "구글 엔지니어"라는 권위를 부여하여 AI가 더 엄격한 기준으로 코드를 보게 만듭니다.
 2.  **구체적 기준 제시:** 단순히 "고쳐줘"가 아니라, 가독성/효율성/안전성이라는 3가지 잣대를 들이대어 리뷰의 품질을 높입니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (스파게티 코드)
+### (Updated) (Updated) (Updated) ❌ Before (스파게티 코드)
 
 ```javascript
 function c(x) {
@@ -87,7 +89,7 @@ function c(x) {
 }
 ```
 
-### ✅ After (클린 코드)
+### (Updated) (Updated) (Updated) ✅ After (클린 코드)
 
 ```javascript
 /**
@@ -103,14 +105,14 @@ const isValidInput = (inputVal) => {
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -120,7 +122,7 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 좋은 코드는 시(Poem)와 같습니다. 읽기 편해야 합니다.
 AI 리뷰어는 지치지 않습니다. 100번 물어봐도 화내지 않습니다.
@@ -128,8 +130,14 @@ AI 리뷰어는 지치지 않습니다. 100번 물어봐도 화내지 않습니�
 지금 바로 당신의 코드를 던져보세요.
 **"LGTM (Looks Good To Me)"**를 받을 때까지! 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

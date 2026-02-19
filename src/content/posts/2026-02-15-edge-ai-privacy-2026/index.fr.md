@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 ---
 
+# Privacy First Edge AI
+
 ## Introduction
 
 In the rapid evolution of artificial intelligence, the pendulum is swinging back from centralized cloud behemoths to the devices right in our pockets and on our desks. For years, the narrative was that meaningful AI required massive data centers and endless GPU clusters. However, we are witnessing a paradigm shift. "Edge AI" is no longer just a buzzword for low-power IoT sensors; it has matured into a robust architectural choice for sophisticated applications.

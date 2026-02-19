@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]
 ---
 
+# Automated Meeting Notes (Japanese)
+
 ## Introduction
 
 The landscape of AI is shifting rapidly. Today, we discuss **Automated Meeting Notes**.

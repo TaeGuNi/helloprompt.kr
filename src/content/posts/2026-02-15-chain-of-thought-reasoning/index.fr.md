@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 ---
 
+# Chain of Thought Reasoning
+
 ## Introduction
 
 In the rapidly evolving landscape of Large Language Models (LLMs), developers are constantly seeking ways to extract more accurate and reliable responses. While models like GPT-4 and Claude 3 are feats of engineering, they often stumble on multi-step reasoning tasks when approached with a standard "input-output" prompting strategy.

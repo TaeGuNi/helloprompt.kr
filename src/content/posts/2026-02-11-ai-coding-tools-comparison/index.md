@@ -9,6 +9,8 @@ description: "코딩 AI 춘추전국시대. 나에게 맞는 도구는? 기능, 
 tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 ---
 
+# ⚔️ GitHub Copilot vs Cursor vs Windsurf: AI 코딩 3대장 비교
+
 - **🎯 추천 대상:** "코파일럿 쓰고 있는데 커서로 갈아타야 하나?" 고민하는 개발자, AI 코딩 툴 유목민
 - **⏱️ 소요 시간:** 5분 (비교 분석)
 - **🤖 추천 모델:** 본인 취향 (직접 써봐야 암)

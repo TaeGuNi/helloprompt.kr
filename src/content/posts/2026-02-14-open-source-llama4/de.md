@@ -7,6 +7,8 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
+# Gegenangriff der Open-Source-KI
+
 Mit der Veröffentlichung von Llama 4 beschleunigt sich die KI-Demokratisierung. Eine Welt, in der jeder seine eigene KI besitzen kann, hat sich geöffnet.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

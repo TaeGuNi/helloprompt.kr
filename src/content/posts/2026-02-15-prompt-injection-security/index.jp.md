@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]
 ---
 
+# Prompt Injection Security Risks
+
 ## Introduction
 
 In the rapidly evolving landscape of Generative AI, Large Language Models (LLMs) have moved beyond simple chatbots to become powerful engines driving complex applications. However, this increased capability brings a new class of security threats. Among the most pervasive and deceptive is **Prompt Injection**. For developers building AI-integrated systems, understanding this vulnerability is no longer optional—it is a fundamental requirement for securing the application layer.

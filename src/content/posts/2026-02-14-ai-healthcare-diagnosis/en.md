@@ -7,6 +7,8 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
+# AI Doctor Enters the Clinic
+
 AI expanding beyond radiology to internal medicine and psychiatry. We highlight AI not as a replacement for doctors, but as a partner augmenting their abilities.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

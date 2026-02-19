@@ -7,6 +7,8 @@ tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
 image: "/images/2026/02/13/monet-beauty.jpg"
 ---
 
+# Shin Yun-boks Porträt einer Schönheit wiedergeboren in Monets Licht
+
 Zwei Meister der Kunstgeschichte, die sich in Wirklichkeit niemals hätten treffen können, sind sich durch KI-Technologie begegnet. Welches Kunstwerk würde entstehen, wenn die Stile von **Shin Yun-bok**, einem Meister der Genremalerei der späten Joseon-Dynastie, und **Claude Monet**, dem Vater des Impressionismus, miteinander verschmelzen würden?
 
 ## Das Treffen von östlichen Linien und westlichem Licht

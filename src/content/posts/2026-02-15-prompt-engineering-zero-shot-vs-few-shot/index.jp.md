@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 ---
 
+# Zero Shot vs Few Shot Prompting
+
 ## Introduction
 
 In the rapidly evolving landscape of Large Language Model (LLM) engineering, the way we structure our prompts is as critical as the model we choose. For developers building AI-driven applications, understanding the nuance between **Zero Shot** and **Few Shot** prompting is fundamental to optimizing performance and accuracy. While modern models like GPT-4 and Gemini are increasingly capable of understanding raw instructions, the technique used to query them can significantly alter the quality of the output.

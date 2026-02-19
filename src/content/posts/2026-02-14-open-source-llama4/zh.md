@@ -7,6 +7,8 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
+# 开源AI的反击：Llama 4的冲击
+
 随着Meta Llama 4的发布，AI民主化正在加速。任何人都可以拥有自己高性能AI的世界已经开启。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

@@ -1,24 +1,20 @@
 ---
+title: "Prompt Injection Security Risks (Korean)"
+description: "As LLMs integrate with tools, prompt injection becomes a critical security vulnerability"
 date: "2026-02-15"
-description:
-  As LLMs integrate with tools, prompt injection becomes a critical security
-  vulnerability
-image: https://picsum.photos/seed/prompt4/800/600
-layout: /src/layouts/Layout.astro
-tags:
-  - AI
-  - Tech
-  - prompt-injection-security
-title: Prompt Injection Security Risks (Korean)
+image: "https://picsum.photos/seed/prompt4/800/600"
+tags: ["AI", "Tech", "prompt-injection-security"]
 ---
 
-## 개요 (Introduction) {#introduction}
+# (Updated) (Updated) (Updated) 프롬프트 인젝션 보안 위험 (Prompt Injection Security Risks) {#prompt-injection-security-risks}
+
+## (Updated) (Updated) (Updated) 개요 (Introduction) {#introduction}
 
 급변하는 생성형 AI(Generative AI) 환경에서, 거대 언어 모델(LLM)은 단순한 챗봇을 넘어 복잡한 애플리케이션을 구동하는 강력한 엔진으로 진화했습니다. 하지만 이러한 능력의 확장은 새로운 유형의 보안 위협을 동반합니다. 그중 가장 만연하고 기만적인 위협 중 하나가 바로 **프롬프트 인젝션(Prompt Injection)**입니다. AI 통합 시스템을 구축하는 개발자에게 이 취약점을 이해하는 것은 더 이상 선택 사항이 아니며, 애플리케이션 계층을 보호하기 위한 필수 요건입니다.
 
 프롬프트 인젝션은 단순히 챗봇이 엉뚱한 말을 하게 만드는 '장난'이 아닙니다. 이는 악의적인 입력이 모델의 로직을 조작하여 원래 지시를 무시하고 공격자의 명령을 실행하게 만드는 체계적인 공격 벡터입니다.
 
-## 분석 (Analysis) {#analysis}
+## (Updated) (Updated) (Updated) 분석 (Analysis) {#analysis}
 
 문제의 핵심은 LLM이 정보를 처리하는 방식에 있습니다. 코드(쿼리)와 데이터(입력)를 엄격히 분리하는 전통적인 SQL 데이터베이스와 달리, LLM은 종종 지시 사항과 사용자 데이터를 하나의 텍스트 스트림으로 처리합니다. 이러한 '연결(concatenation)' 구조는 공격자가 악용할 수 있는 모호한 경계를 형성합니다.
 
@@ -35,12 +31,18 @@ title: Prompt Injection Security Risks (Korean)
 - **출력 검증 (Output Validation):** 모델의 응답이나 도구 호출이 예상된 형식과 안전 정책을 준수하는지 확인합니다.
 - **인간 개입 (Human in the Loop):** 민감한 작업, 특히 외부 도구나 데이터 수정과 관련된 작업에 대해서는 사용자 확인을 요구합니다.
 
-## 결론 (Conclusion) {#conclusion}
+## (Updated) (Updated) (Updated) 결론 (Conclusion) {#conclusion}
 
 프롬프트 인젝션은 사회 공학(Social Engineering)과 코드 인젝션 사이의 경계를 흐리게 하며 소프트웨어 보안의 패러다임 전환을 보여줍니다. LLM에 더 많은 자율성과 외부 세계와의 연결성을 부여할수록, 성공적인 인젝션의 피해 반경은 넓어집니다. 개발자는 사용자 입력이든 검색된 문서든 모든 LLM 입력을 신뢰할 수 없는 것으로 간주해야 합니다. LLM이 본질적으로 암시에 취약하다는 점을 인정하고 강력한 검증 계층을 구현함으로써, 우리는 취약한 공범이 되지 않으면서도 유용한 시스템을 구축할 수 있습니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

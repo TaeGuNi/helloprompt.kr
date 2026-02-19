@@ -1,22 +1,17 @@
 ---
-date: "2026-02-14"
-description: 미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다.
-heroImage: ./cover.jpg
-layout: ../../layouts/BlogPost.astro
-pubDate: "2026-02-14"
-tags:
-  - Robot
-  - AI
-  - Engineering
-  - Hype
 title: "피지컬 AI: 과장된 기대와 차가운 현실"
+description: "미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다."
+pubDate: "2026-02-14"
+heroImage: "./cover.jpg"
+tags: ["Robot", "AI", "Engineering", "Hype"]
+layout: "../../layouts/BlogPost.astro"
 ---
 
 CES와 같은 기술 박람회 시즌이 되면 뉴스피드는 온통 로봇 이야기로 도배됩니다. LG와 삼성이 내놓은 스마트 홈 로봇들이 귀여운 표정을 짓고, 마치 당장이라도 우리 집 가사를 책임질 것처럼 보입니다. 미디어는 이를 "피지컬 AI(Physical AI)"의 도래라고 부르며, 거대언어모델(LLM)이 드디어 신체를 얻었다고 찬사를 보냅니다.
 
 하지만 화려한 데모 영상 뒤에 가려진 엔지니어링의 현실은 훨씬 더 차갑고 딱딱합니다.
 
-## (Updated) 미디어의 환상 vs. 엔지니어링의 현실
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 미디어의 환상 vs. 엔지니어링의 현실
 
 미디어는 로봇을 '아이언맨의 자비스'나 '스타워즈의 C-3PO'처럼 묘사하고 싶어 합니다. "알아서 판단하고 움직이는 AI"라는 문구는 투자자와 대중을 흥분시키기에 충분하죠. 하지만 소프트웨어 AI와 피지컬 AI 사이에는 건널 수 없는 '물리적 강'이 존재합니다.
 
@@ -26,13 +21,13 @@ ChatGPT에게 "사과를 깎아줘"라고 말하는 것은 쉽습니다. 하지�
 2.  **제어의 복잡성:** 사과 껍질의 두께, 과육의 단단함에 따라 칼을 쥐는 힘(토크)을 밀리초 단위로 조절해야 합니다.
 3.  **배터리와 열:** 이 모든 연산을 처리하고 모터를 돌리려면 막대한 전력이 필요합니다. 데모 로봇들이 종종 15분 만에 방전되거나 과열로 멈추는 이유입니다.
 
-## (Updated) 모라벡의 역설은 여전하다
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 모라벡의 역설은 여전하다
 
 1980년대 한스 모라벡이 지적한 "인간에게 쉬운 것은 컴퓨터에게 어렵고, 인간에게 어려운 것은 컴퓨터에게 쉽다"는 역설은 2026년인 지금도 유효합니다.
 
 LLM 덕분에 로봇이 "시를 쓰고 코딩을 하는 것"은 쉬워졌습니다. 하지만 "빨래를 개거나 설거지를 하는 것"은 여전히 로봇공학의 에베레스트입니다. LG와 삼성의 로봇들이 보여주는 '반려 가전'으로서의 기능은 훌륭하지만, 그것이 미디어가 암시하는 '만능 가사 도우미'와는 거리가 멉니다. 바퀴 달린 태블릿과 손이 달린 집사는 완전히 다른 차원의 문제입니다.
 
-## (Updated) 기대치를 조정해야 할 때
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 기대치를 조정해야 할 때
 
 피지컬 AI는 분명 미래입니다. 테슬라의 옵티머스나 보스턴 다이내믹스의 아틀라스가 보여주는 진보는 놀랍습니다. 하지만 그 진보는 마법 같은 도약이 아니라, 나사 하나, 코드 한 줄을 수정하며 쌓아 올린 피와 땀의 결과물입니다.
 
@@ -40,26 +35,34 @@ LLM 덕분에 로봇이 "시를 쓰고 코딩을 하는 것"은 쉬워졌습니�
 
 _Auto-generated QA fix_
 
-## (Updated) 💡 작성자 코멘트 (Insight)
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight)
 
 이 주제는 향후 5년간 가장 중요한 기술 트렌드가 될 것입니다.
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ)
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ)
 
 **Q: 핵심은 무엇인가요?**
 A: AI와 인간의 공존입니다.
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

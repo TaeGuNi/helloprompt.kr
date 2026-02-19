@@ -9,6 +9,8 @@ description: "나의 바이오리듬과 목표에 맞춘 최적의 모닝 루틴
 tags: ["Productivity", "Routine", "Morning", "Planning"]
 ---
 
+# ☀️ 내 인생을 바꾸는 아침 1시간, AI와 설계하기
+
 - **🎯 추천 대상:** 아침 시간이 항상 바쁜 직장인, 갓생 살고 싶은 대학생
 - **⏱️ 소요 시간:** 5분 설계 → 매일 아침 여유 확보
 - **🤖 추천 모델:** ChatGPT (GPT-4), Claude 3.5 Sonnet

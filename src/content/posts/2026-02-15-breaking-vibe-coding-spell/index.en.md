@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 ---
 
+# Breaking the Spell of Vibe Coding
+
 ## Introduction
 
 For the past few years, the software industry has been enchanted by what can only be described as "Vibe Coding." We've all been there: you type a vague prompt into an LLM, it spits out a chunk of code that _mostly_ works, and you tweak the prompt until the output "feels" right. It’s the modern, AI-assisted equivalent of "coding by coincidence"—if the UI renders and no errors pop up immediately, we ship it.

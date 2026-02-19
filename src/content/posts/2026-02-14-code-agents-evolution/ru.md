@@ -7,6 +7,8 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
+# Эволюция агентов кодирования
+
 ИИ-агенты выходят за рамки простой помощи. Разработчики теперь должны стать архитекторами.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

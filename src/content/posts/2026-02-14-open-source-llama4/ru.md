@@ -7,6 +7,8 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
+# Контратака ИИ с открытым исходным кодом
+
 С выпуском Llama 4 демократизация ИИ ускоряется. Открылся мир, где каждый может владеть собственным высокопроизводительным ИИ.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

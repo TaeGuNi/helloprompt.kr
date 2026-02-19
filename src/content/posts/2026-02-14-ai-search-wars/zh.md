@@ -7,6 +7,8 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
+# AI搜索战争：谷歌 vs OpenAI
+
 传统的关键词搜索正在终结。我们分析对话式AI搜索如何从根本上改变我们要寻找信息的方式。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)

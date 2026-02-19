@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]
 ---
 
+# Smart Device Privacy Risks
+
 ## Introduction
 
 In the era of ubiquitous computing, "smart" has become synonymous with "connected." for developers, this shift represents a golden age of programmable interactivity—fridges that debug network traffic, watches that deploy containers, and glasses that overlay API documentation on reality. However, this convenience comes with a hidden cost that is accumulating largely unpaid: user privacy.

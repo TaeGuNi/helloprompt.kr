@@ -7,6 +7,8 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
+# コーディングエージェントの進化：開発者の役割の変化
+
 単なる補助を超えて全機能を実装するAIエージェントたち。開発者は今やコーダーではなくアーキテクトになる必要があります。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

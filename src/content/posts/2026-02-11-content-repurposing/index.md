@@ -9,6 +9,8 @@ description: "영상 하나 찍고 끝? 스크립트를 추출해서 블로그, 
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 
+# (Updated) (Updated) (Updated) 📝 유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈)
+
 - **🎯 추천 대상:** 유튜브 크리에이터, 브랜드 마케터, 지식 창업가
 - **⏱️ 소요 시간:** 4시간 → 20분
 - **🤖 추천 모델:** Claude 3.5 Sonnet (긴 글쓰기에 최적화), GPT-4o
@@ -23,7 +25,7 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  **트랜스크립트 추출:** 유튜브 자막을 텍스트로 추출합니다. (유튜브 기본 기능 or 별도 툴)
 2.  **매체별 최적화:** 블로그용, 인스타용, 링크드인용 프롬프트를 따로 써야 합니다.
@@ -31,9 +33,9 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 ---
 
-## 🚀 해결책: "콘텐츠 연금술사(Content Alchemist) 프롬프트" {#content-alchemist}
+## (Updated) (Updated) (Updated) 🚀 해결책: "콘텐츠 연금술사(Content Alchemist) 프롬프트" {#content-alchemist}
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 스크립트를 블로그 글로 단순히 변환합니다.
 
@@ -44,7 +46,7 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 하나의 소스를 여러 채널에 맞는 톤과 형식으로 동시에 변환합니다.
 
@@ -80,13 +82,13 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 전략을 '콘텐츠 리퍼포징(Content Repurposing)'이라고 합니다. 제 경험상 영상 스크립트를 그대로 블로그에 올리면 가독성이 떨어져 이탈률이 높습니다. 반드시 AI에게 "구어체를 문어체로 바꿔라"는 지시를 해야 합니다. 그리고 링크드인이나 트위터는 '정보'보다 '의견(Opinion)'이 중요하므로, 프롬프트에 "작성자의 인사이트를 강조해"라는 문구를 추가하면 더 좋습니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 자막은 어떻게 추출하나요?**
   - A: 유튜브 영상 하단 '더보기' -> '스크립트 표시'에서 복사하거나, 'YouTube Summary with ChatGPT' 같은 크롬 확장을 쓰면 1초 만에 됩니다.
@@ -96,7 +98,7 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **Channel Optimization:** 플랫폼별(블로그, 인스타, 링크드인) 성격에 맞춰 포맷을 다르게 지정했습니다.
 2.  **Tone & Manner:** 구어체 → 문어체 변환을 명시하여 텍스트 콘텐츠로서의 완성도를 높였습니다.
@@ -104,28 +106,34 @@ _"영상 조회수가 안 나와서 실망하셨나요? 그 콘텐츠를 글로 
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### ❌ Before (스크립트 원본)
+### (Updated) (Updated) (Updated) ❌ Before (스크립트 원본)
 
 "자, 여러분, 오늘은 제가 진짜 꿀팁 하나 가져왔는데요, 이게 뭐냐면..." (산만함)
 
-### ✅ After (블로그/인스타 변환)
+### (Updated) (Updated) (Updated) ✅ After (블로그/인스타 변환)
 
 **[블로그]** 오늘 소개할 핵심 전략은 다음과 같습니다.
 **[인스타]** 🔥 오늘 꿀팁 요약! (저장 필수 📌)
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 콘텐츠는 '일회용'이 아닙니다. 잘 만든 콘텐츠 하나로 일주일치 업로드 분량을 확보하세요.
 효율이 곧 실력입니다.
 
 이제 칼퇴하세요! 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

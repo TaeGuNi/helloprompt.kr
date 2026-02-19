@@ -1,19 +1,14 @@
 ---
-author: Hello Prompt
-date: 2026-02-13
-description: SaaS 의존에서 벗어나 데이터 프라이버시와 커스터마이징의 자유를 얻는 개인 AI 인프라 구축에 대해 알아봅니다.
-image:
-  alt: Personal AI Stack Diagram
-  url: https://cdn.example.com/ai-stack.png
-layout: /src/layouts/Layout.astro
-pubDate: 2026-02-13
-slug: personal-ai-infrastructure
-tags:
-  - AI
-  - Infrastructure
-  - Privacy
-  - Daniel Miessler
 title: "개인 AI 인프라 구축하기: 나만의 AI 스택을 소유해야 하는 이유"
+date: 2026-02-13
+pubDate: 2026-02-13
+description: "SaaS 의존에서 벗어나 데이터 프라이버시와 커스터마이징의 자유를 얻는 개인 AI 인프라 구축에 대해 알아봅니다."
+author: "Hello Prompt"
+image:
+  url: "https://cdn.example.com/ai-stack.png"
+  alt: "Personal AI Stack Diagram"
+tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
+slug: personal-ai-infrastructure
 ---
 
 ## AI, 왜 직접 구축해야 할까요?

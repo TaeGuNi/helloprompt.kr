@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]
 ---
 
+# LLMs in Distributed Apps
+
 ## Introduction
 
 The integration of Large Language Models (LLMs) into software architecture has shifted rapidly from experimental chatbots to core components of complex systems. For developers building distributed applications, this presents a unique paradox: LLMs offer unprecedented flexibility in handling unstructured data and decision-making, but they introduce non-deterministic behavior into systems that demand high reliability and consistency.

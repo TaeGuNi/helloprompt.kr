@@ -1,21 +1,14 @@
 ---
-categories:
-  - Prompt Engineering
-  - Advanced
-date: "2026-02-13"
-description:
-  AI 모델이 똑똑해질수록 프롬프트는 더 짧고 명확해집니다. 복잡한 구조 대신, AI에게 정확한 의도를 전달하는 새로운 소통
-  방식을 소개합니다.
-heroImage: /images/blog/prompt-3.jpg
 layout: /src/layouts/Layout.astro
-pubDate: "2026-02-13"
-tags:
-  - Intent-Based
-  - Less is More
-  - Context Window
-  - Chain-of-Thought
 title: "프롬프트 엔지니어링 3.0: 문법(Syntax)을 넘어 의도(Intent)로"
+description: "AI 모델이 똑똑해질수록 프롬프트는 더 짧고 명확해집니다. 복잡한 구조 대신, AI에게 정확한 의도를 전달하는 새로운 소통 방식을 소개합니다."
+pubDate: "2026-02-13"
+heroImage: "/images/blog/prompt-3.jpg"
+categories: ["Prompt Engineering", "Advanced"]
+tags: ["Intent-Based", "Less is More", "Context Window", "Chain-of-Thought"]
 ---
+
+# 🎯 프롬프트 엔지니어링 3.0: 의도(Intent)가 곧 명령이다 {#intent}
 
 _"GPT-3 시절의 복잡한 주문(Spell)은 잊으세요. 이제는 감독(Director)처럼 지시할 때입니다."_
 
@@ -37,16 +30,16 @@ _"GPT-3 시절의 복잡한 주문(Spell)은 잊으세요. 이제는 감독(Dire
 
 여러분의 모호하거나 장황한 지시사항을 입력하면, AI가 명확한 의도를 담은 최적의 프롬프트로 바꿔줍니다.
 
-**Role**
-당신은 10년차 **프롬프트 아키텍트(Prompt Architect)**이자, 커뮤니케이션 컨설턴트입니다.
-**Task**
-사용자가 입력한 [원래의 프롬프트]를 분석하여, 다음 3가지 버전으로 업그레이드하세요.
-**Format**
+> **Role**
+> 당신은 10년차 **프롬프트 아키텍트(Prompt Architect)**이자, 커뮤니케이션 컨설턴트입니다.
+> **Task**
+> 사용자가 입력한 [원래의 프롬프트]를 분석하여, 다음 3가지 버전으로 업그레이드하세요.
+> **Format**
 
 1.  **🧹 군더더기 제거 (Clean Version):** 불필요한 형용사나 중언부언을 삭제하고, 핵심 동사 위주로 간결하게 다듬으세요.
 2.  **🧠 의도 명확화 (Intent-Focused):** 사용자가 *진짜로 원하는 결과물*이 무엇인지 추론하여, 구체적인 목표를 명시하세요.
 3.  **✨ 맥락 추가 (Context-Enriched):** AI가 더 잘 이해할 수 있도록 필요한 배경 정보나 제약 조건을 가상의 시나리오로 추가하세요.
-    **Constraint**
+    > **Constraint**
 
 - 업그레이드된 프롬프트는 즉시 복사해서 사용할 수 있도록 코드 블록(` ``` `) 안에 넣으세요.
 - 각 버전마다 *왜 이렇게 수정했는지*에 대한 짧은 해설을 덧붙이세요.

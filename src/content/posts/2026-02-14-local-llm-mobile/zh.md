@@ -7,6 +7,8 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
+# 手中的超级计算机：端侧AI革命
+
 兼顾隐私和速度的端侧AI正在重新定义移动体验。介绍无需互联网连接即可实现的惊人功能。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

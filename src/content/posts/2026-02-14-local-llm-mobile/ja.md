@@ -7,6 +7,8 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
+# 手のひらのスーパーコンピューター：オンデバイスAI革命
+
 プライバシーと速度の両方を捉えたオンデバイスAIがモバイル体験を再定義します。インターネット接続なしでも可能な驚くべき機能を紹介します。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

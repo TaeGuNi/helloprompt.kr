@@ -7,6 +7,8 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
+# Contrattacco dell'IA open source
+
 Con il rilascio di Llama 4, la democratizzazione dell'IA sta accelerando. Si è aperto un mondo in cui chiunque può possedere la propria IA.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

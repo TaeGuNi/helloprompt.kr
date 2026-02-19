@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 ---
 
+# Multimodal Reasoning
+
 ## Introduction
 
 The landscape of Artificial Intelligence is shifting from specialized, single-modality systems to integrated, holistic thinkers. For years, we treated text, image, and audio processing as distinct silos, bridged only by complex and often lossy pipelines. Today, we are witnessing the rise of true **Multimodal Reasoning**—an architectural paradigm where models don't just "see" or "read," but understand the world through a confluence of sensory data.

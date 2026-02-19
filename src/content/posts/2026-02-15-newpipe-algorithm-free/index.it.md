@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]
 ---
 
+# The Rise of Algorithm Free Media
+
 ## Introduction
 
 For the past decade, the internet has been defined by the "Feed." From Facebook's EdgeRank to TikTok's hyper-optimized recommendations, algorithms have dictated what we see, when we see it, and how we feel about it. As developers, we engineered these systems to maximize engagement, optimize retention, and keep eyes on screens.

@@ -1,20 +1,18 @@
 ---
-author: Unifactory Editor
-date: "2026-02-16"
-description:
-  Model Context Protocol (MCP) is the USB standard for LLMs. Stop copy-pasting
-  JSON schemas and build a custom server that feeds your local data directly to Claude
-  or Ollama.
-image: /images/2026/02/16/mcp-server-tutorial.jpg
-layout: /src/layouts/Layout.astro
-tags:
-  - MCP
-  - Model Context Protocol
-  - Local LLM
-  - TypeScript
-  - Ollama
-  - Claude
 title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
+description: "Model Context Protocol (MCP) is the USB standard for LLMs. Stop copy-pasting JSON schemas and build a custom server that feeds your local data directly to Claude or Ollama."
+author: "Unifactory Editor"
+date: "2026-02-16"
+tags:
+  [
+    "MCP",
+    "Model Context Protocol",
+    "Local LLM",
+    "TypeScript",
+    "Ollama",
+    "Claude",
+  ]
+image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 ---
 
 You open Claude (or your local Ollama chat). You paste your database schema. You paste your API docs. You ask a question.
@@ -26,7 +24,7 @@ In 2026, the **Model Context Protocol (MCP)** has become the de-facto standard f
 
 Today, we're building your first custom MCP server in TypeScript. It will take 5 minutes.
 
-## 1. Why Build Your Own?
+## (Updated) (Updated) (Updated) 1. Why Build Your Own?
 
 Pre-built MCP servers (like the Filesystem or GitHub servers) are great. But the real power unlocks when you expose **your specific business logic**.
 
@@ -34,11 +32,11 @@ Pre-built MCP servers (like the Filesystem or GitHub servers) are great. But the
 - **Log Files:** Let the LLM read the last 50 lines of `error.log` in real-time.
 - **Custom calculations:** Offload complex math to Python, let the LLM just ask for the result.
 
-## 2. The "Hello World" Server
+## (Updated) (Updated) (Updated) 2. The "Hello World" Server
 
 We'll use the official TypeScript SDK. We're going to build a simple tool that lets the LLM **fetch the current weather** (mocked) for a given city.
 
-### Step 1: Initialize
+### (Updated) (Updated) (Updated) Step 1: Initialize
 
 ```bash
 mkdir my-first-mcp-server
@@ -47,7 +45,7 @@ npm init -y
 npm install @modelcontextprotocol/sdk zod
 ```
 
-### Step 2: The Code (`index.ts`)
+### (Updated) (Updated) (Updated) Step 2: The Code (`index.ts`)
 
 Create an `index.ts` file. This 30-line script defines a tool called `get_weather`.
 
@@ -116,7 +114,7 @@ const transport = new StdioServerTransport();
 await server.connect(transport);
 ```
 
-### Step 3: Connect to Claude (or Ollama)
+### (Updated) (Updated) (Updated) Step 3: Connect to Claude (or Ollama)
 
 Add this to your Claude Desktop config (or `openclaw config`):
 
@@ -133,7 +131,7 @@ Add this to your Claude Desktop config (or `openclaw config`):
 
 Now, just ask the model: _"What's the weather in Seoul?"_. It will call your tool and answer.
 
-## 3. The "Scaffolder" Prompt
+## (Updated) (Updated) (Updated) 3. The "Scaffolder" Prompt
 
 Writing boilerplate is boring. Use this prompt to generate a custom MCP server for _any_ use case.
 
@@ -166,7 +164,7 @@ Writing boilerplate is boring. Use this prompt to generate a custom MCP server f
 > // connection...
 > ```
 
-## 4. 🧠 Writer's Insight: Privacy First
+## (Updated) (Updated) (Updated) 4. 🧠 Writer's Insight: Privacy First
 
 The biggest advantage of running your own MCP server is **privacy**.
 
@@ -174,13 +172,19 @@ When you use a generic "Web Search" tool, your query leaves your machine. But wh
 
 You aren't uploading your CSV to a random website to analyze it. You are **streaming** it directly to the model's context window.
 
-### Key Takeaway
+### (Updated) (Updated) (Updated) Key Takeaway
 
 Don't copy-paste data. **Expose capabilities.**
 Start with a simple read-only tool (like reading a log file). Once you trust it, add write capabilities (like appending to a todo list).
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

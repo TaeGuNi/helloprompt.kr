@@ -7,6 +7,8 @@ tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
 draft: false
 ---
 
+# GPT-5.3 Codex Spark: Un nuevo estándar para la productividad del desarrollador
+
 OpenAI ha lanzado oficialmente **GPT-5.3 Codex Spark**, un nuevo modelo optimizado específicamente para desarrolladores. Este lanzamiento se centra en revolucionar la experiencia de codificación en tiempo real en entornos IDE, con velocidades de inferencia tres veces más rápidas que los modelos anteriores y una comprensión del código significativamente mejorada.
 
 ## Características principales

@@ -9,6 +9,8 @@ description: "Introducing the innovative features of Sora 2.0 and 3 practical pr
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 
+# 🎬 Sora 2.0: The Video Revolution, Where Imagination Becomes Reality
+
 <!-- ⚠️ [Lint Rule] Use emoji lists. Tables may break on mobile. -->
 
 - **🎯 Recommended For:** Junior/Senior Marketers, Content Creators, Video Producers
@@ -105,18 +107,18 @@ Suitable for short-form content requiring specific camera work and storytelling.
 
 Try using this for music video backgrounds or artistic intro videos.
 
-**Role**
-You are a visual artist specializing in abstract 3D motion graphics.
-**Task**
-Generate a mesmerizing loop video representing the concept of 'Time and Memory'.
-**Visuals**
+> **Role**
+> You are a visual artist specializing in abstract 3D motion graphics.
+> **Task**
+> Generate a mesmerizing loop video representing the concept of 'Time and Memory'.
+> **Visuals**
 
 - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
 - Floating particles that glow and fade like fireflies.
 - Color Palette: Deep indigo, bioluminescent blue, and warm amber.
   **Camera**
 - Continuous **Orbit Shot** around the central melting clock.
-  **Constraint**
+  > **Constraint**
 - Seamless loop.
 - Dreamy and ethereal atmosphere.
 

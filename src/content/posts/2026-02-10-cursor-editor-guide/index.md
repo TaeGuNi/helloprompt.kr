@@ -9,6 +9,8 @@ description: "AI가 탑재된 차세대 에디터 Cursor. 단순 자동 완성�
 tags: ["Cursor", "IDE", "코딩", "AI", "생산성"]
 ---
 
+# 🖱️ Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?
+
 - **🎯 추천 대상:** Copilot보다 더 똑똑한 AI를 원하는 개발자, 남의 코드 분석하느라 야근하는 신입
 - **⏱️ 소요 시간:** 5분 (설치 및 적응)
 - **🤖 추천 모델:** Cursor (Claude 3.5 Sonnet 내장)

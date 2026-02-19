@@ -1,24 +1,22 @@
 ---
-date: "2026-02-15"
-description: Decompose tasks into atomic steps; use intermediate outputs as context.
-image: /images/blog/default-ai.jpg
-layout: /src/layouts/Layout.astro
-tags:
-  - AI
-  - Tech
-  - prompt-chaining-2026
 title: "Prompt Chaining in 2026: Building Complex AI Workflows (Korean)"
+description: "Decompose tasks into atomic steps; use intermediate outputs as context."
+date: "2026-02-15"
+image: "/images/blog/default-ai.jpg"
+tags: ["AI", "Tech", "prompt-chaining-2026"]
 ---
 
 `src/pages/posts`와 `posts`의 내용을 나열하여 새 블로그 포스트의 정확한 위치를 파악하고, `docs/POST_TEMPLATE.md`를 읽어 프로젝트의 Frontmatter 규칙을 준수하는지 확인하겠습니다.
 `posts/2026-02-15-openclaw-agents.md`를 읽어 템플릿을 엄격히 따르는지, 아니면 사용자가 요청한 구조가 오늘 날짜 파일들의 일반적인 형식인지 확인하겠습니다. 그 후, 적절한 Frontmatter와 요청된 내용을 포함하여 `posts/` 디렉토리에 새 블로그 포스트를 생성하겠습니다.
 프로젝트의 Frontmatter 규칙과 요청된 구조를 준수하여 지정된 내용으로 `posts/2026-02-15-prompt-chaining-2026.md` 파일을 생성하겠습니다.
 
-## 서론
+# (Updated) (Updated) (Updated) 2026년의 프롬프트 체이닝: 복잡한 AI 워크플로우 구축하기
+
+## (Updated) (Updated) (Updated) 서론
 
 급변하는 인공지능 환경에서 단발성(Single-shot) 프롬프팅은 복잡한 문제 해결에 충분하지 않은 경우가 많습니다. 2026년을 맞이하며, **프롬프트 체이닝(Prompt Chaining)**은 견고한 AI 애플리케이션을 구축하기 위한 핵심 디자인 패턴으로 부상했습니다. 이 기법은 크고 복잡한 작업을 작고 관리 가능한 하위 작업의 연속으로 분해하는 것을 포함하며, 한 단계의 출력이 다음 단계의 입력이 됩니다.
 
-## 분석
+## (Updated) (Updated) (Updated) 분석
 
 효과적인 프롬프트 체이닝의 핵심 철학은 단순하면서도 강력합니다: **작업을 원자 단위 단계로 분해하고, 중간 산출물을 컨텍스트로 사용하십시오.**
 
@@ -31,12 +29,18 @@ title: "Prompt Chaining in 2026: Building Complex AI Workflows (Korean)"
 
 이러한 세밀한 제어를 통해 검증 확인이나 외부 API 호출과 같은 프로그래밍 로직을 단계 사이에 주입할 수 있으며, 이는 LLM의 창의성과 전통적인 코드의 결정론적 특성을 결합한 하이브리드 워크플로우를 생성합니다.
 
-## 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 결론 {#conclusion}
 
 프롬프트 체이닝은 단순히 모델의 한계를 극복하기 위한 우회책이 아니라, 하나의 아키텍처 패러다임입니다. 작업을 분해하고 컨텍스트 흐름을 효과적으로 관리하는 기술을 마스터함으로써, 개발자는 신뢰할 수 있고 투명하며 현대 소프트웨어 공학의 정교한 과제를 해결할 수 있는 AI 워크플로우를 구축할 수 있습니다.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

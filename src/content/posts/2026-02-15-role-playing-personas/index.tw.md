@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]
 ---
 
+# Effective Role Prompting
+
 ## Introduction
 
 In the evolving landscape of Large Language Model (LLM) engineering, the precision of your input often dictates the quality of the output. As developers, we treat APIs as deterministic systems, but LLMs introduce a probabilistic layer that requires a different approach. One of the most powerful techniques in our toolkit is **Role Prompting**. It involves explicitly instructing the model to assume a specific identity—be it a "Senior Python Architect," a "Technical Writer," or a "QA Engineer"—before assigning a task. This seemingly simple contextual anchor can drastically reduce ambiguity and align the model's responses with complex project requirements.

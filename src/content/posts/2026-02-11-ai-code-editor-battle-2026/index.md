@@ -9,6 +9,8 @@ description: "아직도 VS Code에 플러그인만 덕지덕지 붙여 쓰시나
 tags: ["Cursor", "Windsurf", "OpenClaw", "생산성", "개발도구"]
 ---
 
+# 📝 코딩은 이제 '타이핑'이 아니라 '지시'다
+
 - **🎯 추천 대상:** 생산성에 목마른 개발자, 레거시 코드와 싸우는 유지보수 담당자
 - **⏱️ 소요 시간:** 10분 읽독
 - **🤖 추천 모델:** Cursor (Claude 3.7), Windsurf (Cascade Flow), OpenClaw (Autonomous)

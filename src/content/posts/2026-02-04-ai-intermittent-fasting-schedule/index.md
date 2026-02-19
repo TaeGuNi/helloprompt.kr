@@ -9,6 +9,8 @@ description: "내 생활 패턴에 딱 맞는 간헐적 단식 스케줄을 짜�
 tags: ["간헐적단식", "다이어트", "건강", "ChatGPT", "루틴"]
 ---
 
+# ⏰ AI로 간헐적 단식(Intermittent Fasting) 성공률 200% 높이기 {#intermittent-fasting}
+
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

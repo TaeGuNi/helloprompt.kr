@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 ---
 
+# True Offline AI on Mobile
+
 ## Introduction
 
 For the past few years, "AI" has been synonymous with "Cloud". When a user asked a chatbot a question, that query traveled hundreds of miles to a data center, processed on a massive H100 GPU cluster, and returned a response. While effective, this architecture introduced latency, privacy concerns, and a dependency on internet connectivity.

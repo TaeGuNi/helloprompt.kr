@@ -1,20 +1,10 @@
 ---
-author: Unifactory Editor
-date: "2026-02-16"
-description:
-  Stop babying your AI code generator. Learn how to build a 'Self-Healing'
-  workflow where agents write, run, and fix their own errors automatically. A guide
-  to Reflection loops.
-image: /images/2026/02/16/self-healing-code.jpg
-layout: /src/layouts/Layout.astro
-tags:
-  - AI Agent
-  - Coding
-  - Automation
-  - Python
-  - Local LLM
-  - Workflow
 title: "Self-Healing Code: Building an Agent That Fixes Its Own Bugs"
+description: "Stop babying your AI code generator. Learn how to build a 'Self-Healing' workflow where agents write, run, and fix their own errors automatically. A guide to Reflection loops."
+author: "Unifactory Editor"
+date: "2026-02-16"
+tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]
+image: "/images/2026/02/16/self-healing-code.jpg"
 ---
 
 You generate a Python script with AI. You run it. `SyntaxError`. You copy the error, paste it back to the AI, and ask it to fix it. It works.
@@ -23,7 +13,7 @@ But why are **you** the middleman?
 
 In 2026, the most effective engineers aren't just using AI to write code; they are building **Self-Healing Systems**. Today, we'll explore how to automate the "Write → Run → Fix" loop, turning a passive code generator into an autonomous problem solver.
 
-## 1. The "One-Shot" Fallacy
+## (Updated) (Updated) (Updated) 1. The "One-Shot" Fallacy
 
 We often expect LLMs to get it right the first time (One-Shot). But even senior engineers make typos. The difference is, engineers **run their code and fix it**.
 
@@ -35,7 +25,7 @@ To make an AI truly useful, we need to give it the ability to **Reflect**. It ne
 2.  **Executor:** System runs code and captures `stderr` (errors).
 3.  **Healer:** If error > 0, AI reads the error + original code → rewrites.
 
-## 2. The Healer Prompt (Prompt Engineering)
+## (Updated) (Updated) (Updated) 2. The Healer Prompt (Prompt Engineering)
 
 The core of this system is the "Healer" agent. It doesn't just write; it **debugs**.
 
@@ -74,15 +64,15 @@ Here is a production-ready prompt template for a Self-Healing Agent.
 > {{error_message}}
 > ```
 
-## 3. Implementing the Loop (Python Workflow)
+## (Updated) (Updated) (Updated) 3. Implementing the Loop (Python Workflow)
 
 You don't need a complex framework. A simple Python script can orchestrate this.
 
 ```python
 import subprocess
-
-# from openai import OpenAI
-# client = OpenAI()
+# (Updated) (Updated) (Updated) Assume you have a local LLM or OpenAI client setup
+# (Updated) (Updated) (Updated) from openai import OpenAI
+# (Updated) (Updated) (Updated) client = OpenAI()
 
 def generate_fix(prompt):
     # (Updated) (Updated) (Updated) This function calls your LLM (GPT-4, Claude, or Local Llama 3)
@@ -136,7 +126,7 @@ def run_and_heal(script_path, max_retries=3):
     return None
 ```
 
-## 4. 🧠 Writer's Insight: Why This Changes Everything
+## (Updated) (Updated) (Updated) 4. 🧠 Writer's Insight: Why This Changes Everything
 
 I built a simple CLI tool using this pattern to automate data scraping. Initially, the AI would hallucinate CSS selectors that didn't exist.
 
@@ -144,18 +134,24 @@ By adding a "Validation Loop" (checking if the scraped list was empty and treati
 
 It wasn't just fixing syntax; it was **adapting to the environment**.
 
-### Key Takeaway
+### (Updated) (Updated) (Updated) Key Takeaway
 
 Don't just ask AI for code. Ask AI to **be responsible** for the code it writes. The loop—not the model—is the secret sauce of 2026.
 
 ---
 
-### 🚀 Try It Yourself
+### (Updated) (Updated) (Updated) 🚀 Try It Yourself
 
 Copy the "Code Healer" prompt above and use it manually next time you hit a bug. Paste your code + error, and watch it fix itself. Then, automate it.
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

@@ -7,6 +7,8 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
+# 代码代理的进化：开发者角色的转变
+
 AI代理超越了简单的辅助，实现了完整的功能。开发者现在必须成为架构师，而不是编码员。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

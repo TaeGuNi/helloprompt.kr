@@ -7,6 +7,8 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
+# Supercomputer in Your Hand: On-Device AI Revolution
+
 On-device AI capturing both privacy and speed redefines the mobile experience. Introducing amazing features possible without internet connection.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

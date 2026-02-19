@@ -1,18 +1,9 @@
 ---
-date: "2026-02-15"
-description:
-  구글이 새롭게 선보인 제미나이 에이전트 생태계(Gemini Agent Ecosystem)는 단순한 AI 비서를 넘어, 안드로이드와
-  크롬, 워크스페이스를 아우르는 진정한 자율 협업의 시대를 엽니다.
-heroImage: https://via.placeholder.com/800x400?text=Gemini+Agent
-layout: /src/layouts/Layout.astro
-pubDate: "2026-02-15T09:00:00Z"
-tags:
-  - Google
-  - Gemini
-  - AI Agent
-  - Automation
-  - Tech News
 title: "구글의 새로운 자율 에이전트 프레임워크: 제미나이 에이전트 생태계"
+description: "구글이 새롭게 선보인 제미나이 에이전트 생태계(Gemini Agent Ecosystem)는 단순한 AI 비서를 넘어, 안드로이드와 크롬, 워크스페이스를 아우르는 진정한 자율 협업의 시대를 엽니다."
+pubDate: "2026-02-15T09:00:00Z"
+heroImage: "https://via.placeholder.com/800x400?text=Gemini+Agent"
+tags: ["Google", "Gemini", "AI Agent", "Automation", "Tech News"]
 ---
 
 2026년 2월, 구글이 마침내 베일을 벗은 **제미나이 에이전트 생태계(Gemini Agent Ecosystem)**는 우리가 AI와 상호작용하는 방식을 근본적으로 재정의합니다. 기존의 거대 언어 모델(LLM)이 단순히 질문에 답하거나 텍스트를 생성하는 데 그쳤다면, 이번에 공개된 에이전트 프레임워크는 '행동하는 AI'의 표준을 제시하고 있습니다.

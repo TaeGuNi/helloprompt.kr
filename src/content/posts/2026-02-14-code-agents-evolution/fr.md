@@ -7,6 +7,8 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
+# Évolution des agents de codage
+
 Les agents IA vont au-delà de la simple assistance. Les développeurs doivent désormais devenir des architectes.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)

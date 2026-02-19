@@ -7,6 +7,8 @@ tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
 image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
+# Supercomputer in Ihrer Hand: On-Device-KI-Revolution
+
 On-Device-KI definiert das mobile Erlebnis neu. Wir stellen erstaunliche Funktionen vor, die ohne Internetverbindung möglich sind.
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)

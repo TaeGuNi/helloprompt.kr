@@ -9,6 +9,8 @@ description: "백준, 프로그래머스 풀다가 막혔을 때. 바로 답 보
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 
+# (Updated) (Updated) (Updated) 🧩 코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지 {#algorithm}
+
 - **🎯 추천 대상:** 알고리즘 문제만 보면 머리가 하얘지는 문과 출신 개발자, 혼자 공부하다가 벽에 부딪힌 취준생
 - **⏱️ 소요 시간:** 10분 (문제 해결)
 - **🤖 추천 모델:** ChatGPT-4o (논리적 추론 및 코드 설명)
@@ -23,7 +25,7 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  문제를 복사해서 AI에게 준다.
 2.  **"답은 주지 말고, 접근 방식(힌트)만 알려줘"**라고 한다.
@@ -31,9 +33,9 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 ---
 
-## 🚀 해결책: "Algo Tutor Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Algo Tutor Prompt"
 
-### 🥉 Basic Version (힌트 요청)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (힌트 요청)
 
 스스로 풀고 싶을 때.
 
@@ -43,7 +45,7 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 <br>
 
-### 🥇 Pro Version (단계별 코칭)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (단계별 코칭)
 
 과외 선생님 모드.
 
@@ -60,14 +62,14 @@ _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 모르겠다 �
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 코딩 테스트는 **'패턴 싸움'**입니다.
 AI에게 "이 문제랑 비슷한 유형의 기출문제 3개만 더 추천해줘"라고 하면, 그 유형을 완벽하게 마스터할 수 있습니다. (예: "이건 전형적인 DP 문제네요. '계단 오르기' 문제도 풀어보세요.")
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 파이썬 말고 자바로도 되나요?**
   - A: 네, AI는 언어를 가리지 않습니다. "Java로 설명해줘"라고 하세요.
@@ -77,20 +79,20 @@ AI에게 "이 문제랑 비슷한 유형의 기출문제 3개만 더 추천해�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **답 금지(No Solution):** 학습의 핵심은 '고민하는 시간'입니다. 답을 주지 말라는 제약을 걸어야 뇌가 성장합니다.
 2.  **반례 찾기:** 대부분의 초보자는 예제 입력만 통과하면 맞는 줄 압니다. 엣지 케이스(Edge Case)를 찾아달라고 하면, 내 코드의 구멍이 보입니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### ❌ Before (시간 초과)
+### (Updated) (Updated) (Updated) ❌ Before (시간 초과)
 
 `O(N^2)`으로 짰다가 효율성 테스트 탈락. "왜 틀렸는지 모르겠음." (멘붕 🤯)
 
-### ✅ After (AI 힌트) {#ai}
+### (Updated) (Updated) (Updated) ✅ After (AI 힌트) {#ai}
 
 **AI:** "N이 10만이면 `O(N^2)`은 시간 초과입니다. `O(NlogN)`이나 `O(N)`으로 줄여야 합니다. **스택(Stack)**을 써보세요."
 **나:** "아! 스택으로 짝 맞추기 하면 되네!"
@@ -98,7 +100,7 @@ AI에게 "이 문제랑 비슷한 유형의 기출문제 3개만 더 추천해�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 알고리즘은 외우는 게 아니라 **깨닫는 것**입니다.
 AI는 정답 자판기가 아닙니다. **러닝메이트**입니다.
@@ -106,8 +108,14 @@ AI는 정답 자판기가 아닙니다. **러닝메이트**입니다.
 오늘 한 문제, 제대로 부셔보세요.
 **"힌트 하나만 더 줘."** 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

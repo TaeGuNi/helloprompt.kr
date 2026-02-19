@@ -9,6 +9,8 @@ description: "OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본을 블�
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 
+# (Updated) (Updated) (Updated) 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기
+
 - **🎯 추천 대상:** 유튜브 하느라 블로그는 방치한 크리에이터, 콘텐츠 하나 만들어서 뽕을 뽑고 싶은 마케터
 - **⏱️ 소요 시간:** 1분 (변환)
 - **🤖 추천 모델:** ChatGPT-4o (긴 텍스트 처리 및 포맷 변환)
@@ -23,7 +25,7 @@ _"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1.  유튜브 영상의 스크립트(자막)를 추출한다.
 2.  AI에게 **"이걸 블로그 글로 바꿔줘"**라고 시킨다.
@@ -31,9 +33,9 @@ _"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
 
 ---
 
-## 🚀 해결책: "Content Recycler Prompt"
+## (Updated) (Updated) (Updated) 🚀 해결책: "Content Recycler Prompt"
 
-### 🥉 Basic Version (단순 변환)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (단순 변환)
 
 말을 글로 바꾸기.
 
@@ -42,7 +44,7 @@ _"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
 
 <br>
 
-### 🥇 Pro Version (채널별 멀티 유즈)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (채널별 멀티 유즈)
 
 하나의 소스로 3가지 콘텐츠 뽑기.
 
@@ -58,14 +60,14 @@ _"영상 찍는 것도 힘든데... 블로그까지 언제 써?"_
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 영상 스크립트는 보통 '흐름' 중심이라 호흡이 깁니다. 블로그 글은 '구조' 중심이라 호흡이 짧아야 합니다.
 AI에게 **"소제목(Subheading)을 달아줘"**, **"불렛 포인트(Bullet point)로 요약해줘"**라고 지시해서 가독성을 높이는 게 핵심입니다.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 자막 파일은 어떻게 얻나요?**
   - A: 유튜브 스튜디오에서 자막을 다운로드하거나, 영상 페이지 '스크립트 표시'에서 복사하세요.
@@ -75,27 +77,27 @@ AI에게 **"소제목(Subheading)을 달아줘"**, **"불렛 포인트(Bullet po
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **포맷 다각화:** 블로그, 인스타, 트위터 등 각 매체의 특성(SEO, 이미지, 단문)에 맞게 변환을 요청하여 효율을 극대화합니다.
 2.  **구조화:** 스크립트의 줄글을 그대로 쓰면 읽기 힘듭니다. "H2 태그 써줘"라고 하면 AI가 알아서 문단을 나누고 제목을 달아줍니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
-### ❌ Before (방치)
+### (Updated) (Updated) (Updated) ❌ Before (방치)
 
 유튜브 영상 1개 업로드 -> 끝. (조회수 1,000회)
 
-### ✅ After (재가공)
+### (Updated) (Updated) (Updated) ✅ After (재가공)
 
 영상 1개 -> 블로그 글(검색 유입) + 인스타(팔로워 유입) + 트위터(RT 확산)
 -> **총 도달(Reach) 10,000회** (10배 상승 📈)
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 콘텐츠는 '일회용'이 아닙니다.
 잘 만든 대본 하나, 열 아들 안 부럽습니다.
@@ -103,8 +105,14 @@ AI에게 **"소제목(Subheading)을 달아줘"**, **"불렛 포인트(Bullet po
 갈아 넣으세요.
 **형태만 바꿔서.** 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

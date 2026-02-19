@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]
 ---
 
+# Modernizing Legacy Code (English)
+
 ## Introduction
 
 The landscape of AI is shifting rapidly. Today, we discuss **Modernizing Legacy Code**.

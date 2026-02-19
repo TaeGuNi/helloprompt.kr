@@ -7,6 +7,8 @@ tags: ["Healthcare", "Medical AI", "Health", "Science"]
 image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
+# AI医師、診察室に入る
+
 放射線科を超えて内科、精神科まで領域を拡張するAI。医師を代替するのではなく、医師の能力を増強させるパートナーとしてのAIに光を当てます。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)

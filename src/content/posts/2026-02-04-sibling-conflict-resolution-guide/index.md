@@ -9,6 +9,8 @@ description: "매일 싸우는 아이들, 공정하게 화해시키고 우애 �
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 
+# (Updated) (Updated) (Updated) 📝 맨날 싸우는 형제, 판사님 대신 AI가 판결해 드립니다
+
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델
@@ -23,7 +25,7 @@ _"'오빠가 때렸어!', '얘가 먼저 그랬어!' 하루에도 열두 번 들
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 갈등 해결 능력 배양
 2. 서로의 입장 이해(역지사지)
@@ -31,9 +33,9 @@ _"'오빠가 때렸어!', '얘가 먼저 그랬어!' 하루에도 열두 번 들
 
 ---
 
-## 🚀 해결책: "우리 집 평화 지킴이"
+## (Updated) (Updated) (Updated) 🚀 해결책: "우리 집 평화 지킴이"
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -42,7 +44,7 @@ _"'오빠가 때렸어!', '얘가 먼저 그랬어!' 하루에도 열두 번 들
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -64,23 +66,23 @@ _"'오빠가 때렸어!', '얘가 먼저 그랬어!' 하루에도 열두 번 들
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력)
 
 ```text
 형제 싸움 중재 멘트.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과)
 
 ```text
 자, 이제 형아 변호사님 말씀해보세요. 억울한 게 뭐였죠?... 그렇군요. 이번엔 동생 변호사님 말씀하세요... 그럼 우리 어떻게 하면 둘 다 TV를 볼 수 있을까?
@@ -88,14 +90,14 @@ _"'오빠가 때렸어!', '얘가 먼저 그랬어!' 하루에도 열두 번 들
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -105,14 +107,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 싸움은 아이들이 사회성을 배우는 가장 좋은 기회입니다. 잘 싸우고 잘 화해하게 도와주세요.
 
 이제 아이와 더 즐거운 시간을 보내세요! 👨‍👩‍👧‍👦
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

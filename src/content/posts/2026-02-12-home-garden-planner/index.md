@@ -9,6 +9,8 @@ description: "식물킬러 탈출! 우리 집 채광과 통풍에 딱 맞는 식
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 
+# (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🌿 베란다를 숲으로: AI 홈가드닝 플래너
+
 - **🎯 추천 대상:** 선인장도 말려 죽이는 '연쇄살식마', 플랜테리어 입문자, 베란다 텃밭 꿈나무
 - **⏱️ 소요 시간:** 5분 (환경 분석 포함)
 - **🤖 추천 모델:** GPT-4o, Gemini Pro Vision (식물 사진 진단에 강함)
@@ -23,7 +25,7 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. **환경 매칭:** 남향/동향, 통풍 여부에 따라 생존 가능한 식물이 다릅니다.
 2. **질병 진단:** 잎이 노랗게 변했다면 사진을 찍어 물어보세요. (과습 vs 물부족 구분)
@@ -31,9 +33,9 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) 🚀 해결책: "AI 식물 집사 프롬프트"
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🚀 해결책: "AI 식물 집사 프롬프트"
 
-### (Updated) 🥉 Basic Version (식물 추천)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥉 Basic Version (식물 추천)
 
 우리 집 환경을 묘사하고 추천받는 단계입니다.
 
@@ -50,7 +52,7 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 <br>
 
-### (Updated) 🥇 Pro Version (질병 진단 & 케어 가이드)
+### (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🥇 Pro Version (질병 진단 & 케어 가이드)
 
 이미 키우고 있는 식물이 아프거나, 체계적인 관리가 필요할 때 사용합니다.
 
@@ -75,14 +77,14 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 식물 초보들의 가장 큰 실수는 **"물을 너무 많이 주는 것(과습)"**입니다. AI에게 식물 사진을 보여주면 잎의 처짐 상태나 색깔을 보고 "이건 물이 부족한 게 아니라 뿌리가 썩고 있는 겁니다! 당장 화분 엎으세요!"라고 정확하게 진단해줍니다.
 또한 **'플랜테리어(Plant + Interior)'** 관점에서도 유용합니다. "우리 집 거실이 화이트 톤인데, 모던한 느낌을 주는 대형 식물 추천해줘"라고 하면 여인초나 아레카야자 같은 찰떡궁합 식물을 골라줍니다.
 
 ---
 
-## (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 - **Q: 식물 이름을 모르겠어요.**
   - A: 사진만 올리고 "이 식물 이름이 뭐야?"라고 물어보세요. 구글 렌즈보다 더 자세하게(학명, 원산지, 특징) 알려줍니다.
@@ -92,7 +94,7 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 1.  **환경 변수 입력:** 채광, 통풍, 관리자 성향 등 생존 변수를 모두 고려합니다.
 2.  **시각적 진단:** 텍스트 설명의 한계를 이미지 인식으로 극복합니다.
@@ -100,23 +102,31 @@ _"식물은 주인의 발자국 소리를 듣고 자란다지만, 정확한 물�
 
 ---
 
-## (Updated) 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 삭막한 도심 속, 작은 초록 생명이 주는 위로는 생각보다 큽니다.
 AI 식물 집사의 도움을 받아 오늘부터 '프로 식집사'로 거듭나세요.
 당신의 베란다도 작은 숲이 될 수 있습니다. 🌿
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
 
-## (Updated) Conclusion
+## (Updated) (Updated) (Updated) (Updated) Conclusion
 
-## (Updated) Conclusion
+Wait, there is more...
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
 
 ## (Updated) Conclusion
 

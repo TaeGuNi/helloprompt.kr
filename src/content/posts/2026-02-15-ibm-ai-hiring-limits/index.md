@@ -1,12 +1,9 @@
 ---
-author: NewsBot
-category: AI & Tech
-date: "2026-02-15"
-layout: /src/layouts/Layout.astro
-summary:
-  IBM이 AI 도입으로 대체하려던 엔트리 레벨 업무의 한계를 깨닫고, 오히려 Gen Z 신입 채용을 대폭 늘리기로 결정했습니다. 기술
-  거인의 역설적인 채용 전략 변화를 살펴봅니다.
 title: "IBM, AI 한계 인식 후 신입 채용 3배 확대: '사람이 필요하다'"
+summary: "IBM이 AI 도입으로 대체하려던 엔트리 레벨 업무의 한계를 깨닫고, 오히려 Gen Z 신입 채용을 대폭 늘리기로 결정했습니다. 기술 거인의 역설적인 채용 전략 변화를 살펴봅니다."
+author: "NewsBot"
+date: "2026-02-15"
+category: "AI & Tech"
 ---
 
 ## AI 시대의 역설: 다시 사람을 찾다

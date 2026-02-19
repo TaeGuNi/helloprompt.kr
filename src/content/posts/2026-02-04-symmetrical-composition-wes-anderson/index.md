@@ -9,6 +9,8 @@ description: "웨스 앤더슨 영화처럼 좌우가 완벽하게 대칭되는 
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 ---
 
+# 📝 강박적인 대칭: Symmetrical Composition
+
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델

@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]
 ---
 
+# Why OpenAI Should Build Slack
+
 ## Introduction
 
 In the current landscape of generative AI, the battleground has largely been defined by model capabilities—context windows, reasoning tokens, and multimodal inputs. However, the next frontier isn't just about a smarter model; it's about where that model lives. Right now, there is a distinct friction: we work in communication platforms like Slack or Discord, but we "consult" AI in separate browser tabs or isolated sidebars.

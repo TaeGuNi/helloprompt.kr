@@ -9,6 +9,8 @@ description: "주소 분리, 날짜 형식 통일 등 데이터 클렌징 방법
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 
+# (Updated) (Updated) (Updated) 📝 지저분한 엑셀 데이터, 깔끔하게 전처리하기
+
 - **🎯 추천 대상:** 누구나
 - **⏱️ 소요 시간:** 5분
 - **🤖 추천 모델:** 모든 AI 모델
@@ -23,7 +25,7 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
+## (Updated) (Updated) (Updated) ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
 
 1. 복잡한 업무를 프롬프트 하나로 해결합니다.
 2. 엑셀, 보고서, 이메일 등 실무에 즉시 적용 가능합니다.
@@ -31,9 +33,9 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## 🚀 해결책: "데이터 클리너"
+## (Updated) (Updated) (Updated) 🚀 해결책: "데이터 클리너"
 
-### 🥉 Basic Version (기본형)
+### (Updated) (Updated) (Updated) 🥉 Basic Version (기본형)
 
 빠르게 결과만 필요할 때 사용하세요.
 
@@ -42,7 +44,7 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### (Updated) (Updated) (Updated) 🥇 Pro Version (전문가형)
 
 디테일한 퀄리티가 필요할 때 사용하세요.
 
@@ -64,23 +66,23 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## (Updated) (Updated) (Updated) 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
 
 이 프롬프트는 명확한 페르소나 설정과 구체적인 지시사항(Task)을 조합하여 AI의 의도를 정확히 파악하도록 설계되었습니다. 단계별 사고(Chain of Thought)를 유도하여 논리적인 답변을 얻을 수 있습니다.
 
 ---
 
-## 📊 증명: Before & After
+## (Updated) (Updated) (Updated) 📊 증명: Before & After
 
 단순한 명령어와 최적화된 프롬프트의 차이는 명확합니다. 제공된 프롬프트를 사용했을 때 더 구체적이고 구조화된 답변을 얻을 수 있으며, 재수정(Re-prompting)에 드는 시간을 절약할 수 있습니다.
 
-### ❌ Before (입력)
+### (Updated) (Updated) (Updated) ❌ Before (입력)
 
 ```text
 "서울시 강남구 역삼동 (12345)" 이런 식인데 괄호 안 숫자만 빼고 싶어.
 ```
 
-### ✅ After (결과)
+### (Updated) (Updated) (Updated) ✅ After (결과)
 
 ```text
 가장 쉬운 방법은 "빠른 채우기(Ctrl+E)"입니다.
@@ -90,14 +92,14 @@ _"주소랑 우편번호가 한 셀에 섞여 있어서 하나씩 지우고 계�
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## (Updated) (Updated) (Updated) 💡 작성자 코멘트 (Insight) {#insight}
 
 이 프롬프트는 실무에서 즉시 활용할 수 있는 실용성에 중점을 두었습니다.
 결과가 만족스럽지 않다면 입력 변수나 상황(Context)을 조금 더 구체적으로 설정해보세요.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
+## (Updated) (Updated) (Updated) 🙋 자주 묻는 질문 (FAQ) {#faq}
 
 **Q. 결과가 마음에 들지 않아요.**
 A. 구체적인 예시를 추가하거나, 상황(Context)을 더 자세히 묘사해보세요.
@@ -107,14 +109,20 @@ A. 네, 프롬프트의 지시사항을 해당 언어로 번역하면 가능합�
 
 ---
 
-## 🎯 결론 {#conclusion}
+## (Updated) (Updated) (Updated) 🎯 결론 {#conclusion}
 
 야근의 주범 데이터 전처리, 스마트하게 해결하세요.
 
 이제 칼퇴하세요! 🍷
 
-## Conclusion
+## (Updated) (Updated) (Updated) Conclusion
 
-## Conclusion
+Wait, there is more...
 
-## Conclusion
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

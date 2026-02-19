@@ -9,6 +9,8 @@ description: "Ollama로 DeepSeek R1을 로컬에 설치하고 무제한 무료 �
 tags: ["DeepSeek", "Ollama", "Local LLM", "코딩", "생산성"]
 ---
 
+# 💻 내 PC에 심는 무료 코딩 노예: DeepSeek R1 로컬 설치 가이드
+
 - **🎯 추천 대상:** 회사 코드를 외부에 올리기 찜찜한 개발자, API 비용이 아까운 학생, 오프라인 환경에서 작업하는 분
 - **⏱️ 소요 시간:** 10분 컷
 - **🤖 추천 모델:** DeepSeek-R1-Distill-Llama-8B (또는 70B)

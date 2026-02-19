@@ -7,6 +7,8 @@ tags: ["Open Source", "LLM", "Meta", "Llama"]
 image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
+# オープンソースAIの反撃：Llama 4の衝撃
+
 MetaのLlama 4が公開され、AIの民主化が加速しています。誰もが自分だけの高性能AIを持てる世界が開かれました。
 
 ![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)

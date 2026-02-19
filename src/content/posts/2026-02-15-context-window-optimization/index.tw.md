@@ -6,6 +6,8 @@ image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]
 ---
 
+# Optimizing for Million-Token Context Windows
+
 ## Introduction
 
 The release of models supporting million-token context windows marks a paradigm shift in AI development. We have moved rapidly from the constraint-heavy days of 4k and 8k windows—where every character count mattered—to an era where we can feed entire novels, codebases, and legal archives into a single prompt.

@@ -9,6 +9,8 @@ description: "Sora 2.0의 혁신적인 기능과 마케터, 크리에이터를 �
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 
+# 🎬 Sora 2.0: 비디오 혁명, 상상이 현실이 되는 순간
+
 <!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 주니어/시니어 마케터, 콘텐츠 크리에이터, 영상 제작자
@@ -105,18 +107,18 @@ Sora 2.0은 단순한 비디오 생성기를 넘어 '월드 시뮬레이터'로 
 
 뮤직비디오 배경이나 예술적인 인트로 영상 제작에 활용해보세요.
 
-**Role**
-You are a visual artist specializing in abstract 3D motion graphics.
-**Task**
-Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
-**Visuals**
+> **Role**
+> You are a visual artist specializing in abstract 3D motion graphics.
+> **Task**
+> Generate a mesmerizing loop video representing the concept of '[Abstract Concept: Time and Memory]'.
+> **Visuals**
 
 - Fluid simulations of melting clocks resembling Salvador Dali's style but in modern 3D glass texture.
 - Floating particles that glow and fade like fireflies.
 - Color Palette: Deep indigo, bioluminescent blue, and warm amber.
   **Camera**
 - Continuous **Orbit Shot** around the central melting clock.
-  **Constraint**
+  > **Constraint**
 - Seamless loop.
 - Dreamy and ethereal atmosphere.
 

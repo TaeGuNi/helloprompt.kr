@@ -1,8 +1,20 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import type { Post } from "../utils/postUtils";
+import { getCollection } from "astro:content";
 import { formatDate } from "../utils/dateUtils";
 import Search from "../components/Search.astro";
+
+// Post 타입 정의 (Content Collection 스키마와 호환되도록 수정)
+interface Post {
+  id: string;
+  data: {
+    title: string;
+    description?: string;
+    date: Date;
+    tags?: string[];
+  };
+  url: string;
+}
 
 interface Page<T = Post> {
   data: T[];
@@ -24,33 +36,43 @@ interface GetStaticPathsOptions {
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  // 1. 한국어 포스트만 가져오기 (eager load)
-  const krPosts = Object.values(
-    import.meta.glob("./posts/*.md", { eager: true }),
-  ) as Post[];
+  // 1. Content Collections에서 모든 포스트 가져오기
+  const allPosts = await getCollection("posts");
 
-  // 2. 날짜순 정렬
-  const sortedPosts = krPosts.sort(
-    (a, b) =>
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf(),
+  // 2. 한국어 포스트만 필터링 (id가 index.md로 끝나는 파일)
+  // 예: "2026-02-12-slug/index.md" -> 한국어
+  // 예: "2026-02-12-slug/index.en.md" -> 영어 (제외)
+  const krPosts = allPosts.filter((post) => post.id.endsWith("/index.md"));
+
+  // 3. 데이터 매핑 (기존 템플릿과 호환되도록)
+  const formattedPosts = krPosts.map((post) => ({
+    id: post.id,
+    data: post.data,
+    frontmatter: post.data, // 기존 코드 호환성 (frontmatter 접근용)
+    url: `/posts/${post.id.replace(/\/index\.md$/, "")}`, // URL 생성
+  }));
+
+  // 4. 날짜순 정렬
+  const sortedPosts = formattedPosts.sort(
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
   );
 
-  // 3. 페이지네이션 (루트 경로 /)
+  // 5. 페이지네이션 (루트 경로 /)
   return paginate(sortedPosts, { pageSize: 12 });
 }
 
-const { page } = Astro.props as { page: Page<Post> };
+const { page } = Astro.props as { page: Page<any> };
 
-// --- 태그 집계 로직 추가 ---
-const allPosts = Object.values(
-  import.meta.glob("./posts/*.md", { eager: true }),
-) as Post[];
+// --- 태그 집계 로직 (getCollection 사용) ---
+const allContentPosts = await getCollection("posts");
+const krContentPosts = allContentPosts.filter((post) =>
+  post.id.endsWith("/index.md"),
+);
 
 const tagCounts: Record<string, number> = {};
-allPosts.forEach((post) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag) => {
+krContentPosts.forEach((post) => {
+  if (post.data.tags) {
+    post.data.tags.forEach((tag) => {
       tagCounts[tag] = (tagCounts[tag] || 0) + 1;
     });
   }
@@ -110,14 +132,12 @@ const frontmatter = {
     {
       page.data.map((post) => (
         <a href={post.url} class="post-card">
-          <h2>{post.frontmatter.title}</h2>
-          <p>{post.frontmatter.description}</p>
+          <h2>{post.data.title}</h2>
+          <p>{post.data.description}</p>
           <div class="post-meta">
-            <span>
-              {formatDate(post.frontmatter.date, "ko", { dateOnly: true })}
-            </span>
-            {post.frontmatter.tags &&
-              post.frontmatter.tags
+            <span>{formatDate(post.data.date, "ko", { dateOnly: true })}</span>
+            {post.data.tags &&
+              post.data.tags
                 .slice(0, 2)
                 .map((tag) => <span class="tag-pill">#{tag}</span>)}
           </div>

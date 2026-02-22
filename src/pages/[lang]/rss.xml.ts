@@ -14,6 +14,7 @@ export const GET: APIRoute = async (context) => {
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
   });
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const posts: any[] = [];
 
   allPosts.forEach((post) => {

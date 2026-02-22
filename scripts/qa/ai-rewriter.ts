@@ -16,12 +16,12 @@ async function loadQueue() {
   try {
     const data = await fs.readFile(QUEUE_FILE, "utf-8");
     return JSON.parse(data);
-  } catch (e) {
+  } catch {
     return { completed: [], pending: [], errors: [] };
   }
 }
 
-async function saveQueue(queue: Record<string, any>) {
+async function saveQueue(queue: Record<string, unknown>) {
   await fs.writeFile(QUEUE_FILE, JSON.stringify(queue, null, 2), "utf-8");
 }
 
@@ -114,7 +114,7 @@ async function runRewriter() {
 
   const qualityModel = await getDoc("QUALITY_MODEL.md");
   const postTemplate = await getDoc("POST_TEMPLATE.md");
-  let queue = await initQueue();
+  const queue = await initQueue();
 
   console.log(
     `Queue Status: ${queue.pending.length} pending, ${queue.completed.length} completed.`,
@@ -146,8 +146,8 @@ async function runRewriter() {
         }
         await fs.writeFile(file, rewrittenContent, "utf-8");
         return { file, success: true };
-      } catch (e: any) {
-        return { file, success: false, error: e.message };
+      } catch (e: unknown) {
+        return { file, success: false, error: (e as Error).message };
       }
     });
 

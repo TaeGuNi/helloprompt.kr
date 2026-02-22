@@ -4,7 +4,7 @@ description: "Eine massive Welle des Open-Source-Ökosystems bedroht geschlossen
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
+image: "https://picsum.photos/seed/llama-tech/1600/900"
 ---
 
 # 📝 Gegenangriff der Open-Source-KI: Wie offene Modelle die KI-Welt revolutionieren
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 
 Mit der Veröffentlichung von Llama 4 und anderen rasant fortschreitenden Open-Source-Modellen beschleunigt sich die Demokratisierung der Künstlichen Intelligenz immens. Eine Welt, in der jeder Entwickler und jedes Unternehmen eine eigene, maßgeschneiderte KI besitzen kann, hat sich geöffnet. Geschlossene Ökosysteme geraten dadurch zunehmend unter Zugzwang.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)
+![Visual Prompt](https://picsum.photos/seed/llama-tech/1600/900)
 
 ---
 

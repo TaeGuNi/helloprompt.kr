@@ -2,7 +2,7 @@
 title: "The Wrapper Startup Bubble"
 date: 2026-02-14
 tags: [startup, tech]
-image: https://source.unsplash.com/random/1600x900/?bubble,code
+image: https://picsum.photos/seed/bubble-code/1600/900
 ---
 
 # 📝 AI 래퍼(Wrapper) 스타트업 진단 및 해자(Moat) 구축 프롬프트

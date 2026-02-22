@@ -4,7 +4,7 @@ date: "2026-02-16"
 description: 텍스트 프롬프트로 파형을 조각하는 시대. Gemini 3 Audio Canvas가 음악 제작과 사운드 디자인의 워크플로우를 어떻게 혁신하는지, 그리고 전통적인 DAW(Digital Audio Workstation)의 미래는 어떻게 될지 분석합니다.
 image:
   alt: Gemini 3 Audio Canvas waveform interface
-  url: https://source.unsplash.com/random/1600x900/?music,studio,audio
+  url: https://picsum.photos/seed/music-studio-audio/1600/900
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

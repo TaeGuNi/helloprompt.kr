@@ -2,7 +2,7 @@
 title: "Eu Ai Act 2 (English)"
 description: "A critical analysis of the EU AI Act 2.0: Strict enforcement begins for generative video."
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=EU+AI+Act"
+image: "https://picsum.photos/seed/EU-AI-Act/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

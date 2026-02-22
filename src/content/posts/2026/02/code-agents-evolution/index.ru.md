@@ -4,7 +4,7 @@ description: "Автономные ИИ-агенты меняют экосист
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]
-image: "https://source.unsplash.com/random/1600x900/?code,screen"
+image: "https://picsum.photos/seed/code-screen/1600/900"
 ---
 
 # 📝 Эволюция агентов кодирования: Как стать архитектором, а не кодером

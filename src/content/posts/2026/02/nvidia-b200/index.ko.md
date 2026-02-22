@@ -2,7 +2,7 @@
 title: "NVIDIA B200 (RTX 6090 Ti) 출시일 확정: 소비자용 블랙웰의 시작"
 description: "NVIDIA의 차세대 소비자용 GPU 아키텍처인 B200 기반 RTX 6090 Ti의 출시일이 드디어 확정되었습니다. 블랙웰 아키텍처가 가져올 혁신적인 성능 향상과 주요 사양을 미리 살펴봅니다."
 date: 2026-02-15
-cover: "https://via.placeholder.com/800x400?text=NVIDIA+B200"
+cover: "https://picsum.photos/seed/NVIDIA-B200/800/400"
 tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]
 ---
 

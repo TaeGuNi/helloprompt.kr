@@ -2,7 +2,7 @@
 title: "Enterprise AI Reality: Myths vs. Tools"
 date: 2026-02-14
 tags: ["business", "productivity"]
-image: "https://source.unsplash.com/random/1600x900/?office,computer"
+image: "https://picsum.photos/seed/office-computer/1600/900"
 ---
 
 # 📝 B2B AI 솔루션 도입, 과대광고(Hype)에 속지 않는 타당성 검토 프롬프트

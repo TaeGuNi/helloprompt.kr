@@ -2,7 +2,7 @@
 title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
 date: 2026-02-14
 tags: [culture, design]
-image: https://source.unsplash.com/random/1600x900/?hand,art
+image: https://picsum.photos/seed/hand-art/1600/900
 description: "AI가 생성한 차가운 텍스트에 인간의 온기와 진정성을 불어넣어 '휴먼 프리미엄'을 완성하는 카피라이팅 프롬프트를 소개합니다."
 ---
 

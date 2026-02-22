@@ -4,7 +4,7 @@ description: "Le choc des géants pour l'avenir de la recherche a commencé."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 Guerre de la recherche IA : Google vs OpenAI
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?search,technology"
 
 La recherche par mots-clés traditionnelle touche à sa fin. Avec l'affrontement entre Google (Gemini/SGE) et OpenAI (SearchGPT), la recherche conversationnelle change fondamentalement notre façon de trouver et d'analyser l'information.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)
+![Visual Prompt](https://picsum.photos/seed/search-technology/1600/900)
 
 Pour survivre à ce changement de paradigme, il ne suffit plus de taper des mots-clés bout à bout. Découvrez comment formuler la requête parfaite pour transformer ces IA en véritables analystes de recherche personnels.
 

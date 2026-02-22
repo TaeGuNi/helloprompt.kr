@@ -2,7 +2,7 @@
 title: "Eu Ai Act 2 (Simplified Chinese)"
 description: "对《欧盟人工智能法案2.0》（EU AI Act 2）的深度解析：生成式视频的严格监管正式拉开帷幕。"
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=EU+AI+Act"
+image: "https://picsum.photos/seed/EU-AI-Act/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

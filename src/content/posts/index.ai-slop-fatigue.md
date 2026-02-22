@@ -2,7 +2,7 @@
 title: "AI Slop Fatigue: 기계적 콘텐츠의 범람과 피로감"
 date: 2026-02-14
 tags: [ai, culture]
-image: https://source.unsplash.com/random/1600x900/?chaos,glitch
+image: https://picsum.photos/seed/chaos-glitch/1600/900
 ---
 
 # 📝 AI Slop Fatigue: 기계적 콘텐츠의 범람과 피로감

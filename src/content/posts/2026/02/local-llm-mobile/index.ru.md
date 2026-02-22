@@ -4,7 +4,7 @@ description: "Эра высокопроизводительных локальн
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
+image: "https://picsum.photos/seed/smartphone-future/1600/900"
 ---
 
 # 📱 Суперкомпьютер в руке: Революция ИИ на устройстве

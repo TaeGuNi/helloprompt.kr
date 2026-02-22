@@ -2,7 +2,7 @@
 title: "Gemini 3 Pro: 새로운 프롬프트 패러다임"
 date: 2026-02-14
 tags: [ai, google, gemini]
-image: https://source.unsplash.com/random/1600x900/?code,screen
+image: https://picsum.photos/seed/code-screen/1600/900
 ---
 
 # 📝 Gemini 3 Pro: 다단계 추론 마스터하기

@@ -2,7 +2,7 @@
 title: "AI Fatigue (Summary)"
 description: "Descubre qué es la 'fatiga de la IA', por qué estamos agotados del exceso de promesas tecnológicas y cómo sobrevivir a esta sobrecarga informativa."
 date: 2026-02-14
-image: "https://source.unsplash.com/random/800x600?tired,tech"
+image: "https://picsum.photos/seed/tired-tech/800/600"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

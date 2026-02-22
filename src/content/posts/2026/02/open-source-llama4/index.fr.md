@@ -4,7 +4,7 @@ description: "Une vague massive de l'écosystème open source qui menace les mod
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
+image: "https://picsum.photos/seed/llama-tech/1600/900"
 ---
 
 # 📝 Contre-attaque de l'IA open source : Choisir son modèle
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 
 Avec la sortie de Llama 4, la démocratisation de l'IA s'accélère. Un monde où chacun peut posséder sa propre IA s'est ouvert. Mais comment savoir si l'open source est adapté à votre cas d'usage précis sans vous ruiner en serveurs ?
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?llama,tech)
+![Visual Prompt](https://picsum.photos/seed/llama-tech/1600/900)
 
 ---
 

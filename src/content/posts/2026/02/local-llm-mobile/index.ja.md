@@ -4,12 +4,12 @@ description: "クラウドなしで動作する高性能なローカルLLMの時
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
+image: "https://picsum.photos/seed/smartphone-future/1600/900"
 ---
 
 # 📱 手のひらのスーパーコンピューター：オンデバイスAI革命
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
+![Visual Prompt](https://picsum.photos/seed/smartphone-future/1600/900)
 
 - **🎯 おすすめの対象:** 企画者、プロダクトマネージャー、新規事業開発担当者
 - **⏱️ 所要時間:** 数時間 → 3分に短縮

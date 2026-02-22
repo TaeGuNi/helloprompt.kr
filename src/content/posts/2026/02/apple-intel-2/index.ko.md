@@ -7,7 +7,7 @@ tags:
   - "AI"
   - "Siri"
   - "iPhone 17"
-heroImage: "https://via.placeholder.com/800x400?text=Apple+Intelligence"
+heroImage: "https://picsum.photos/seed/Apple-Intelligence/800/400"
 description: "아이폰 17과 함께 공개된 애플 인텔리전스 2.0은 강력한 LLM을 온디바이스로 완벽하게 구동합니다."
 ---
 

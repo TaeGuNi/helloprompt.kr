@@ -4,7 +4,7 @@ description: "医疗AI的现状：超越初步诊断，为您提供个性化治�
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
+image: "https://picsum.photos/seed/doctor-robot/1600/900"
 ---
 
 # 📝 AI医生进入诊室：高效解析症状与就诊提问清单指南

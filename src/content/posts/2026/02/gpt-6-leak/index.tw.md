@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (Traditional Chinese)"
 description: "針對 GPT-6 洩漏事件的深度解析：OpenAI 的新模型專注於長期規劃能力。"
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=GPT-6"
+image: "https://picsum.photos/seed/GPT/800/400-6"
 tags: ["AI", "Trend", "2026"]
 ---
 

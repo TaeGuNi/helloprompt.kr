@@ -3,7 +3,7 @@ date: "2026-02-15"
 description:
   구글이 새롭게 선보인 제미나이 에이전트 생태계(Gemini Agent Ecosystem)는 단순한 AI 비서를 넘어, 안드로이드와
   크롬, 워크스페이스를 아우르는 진정한 자율 협업의 시대를 엽니다.
-heroImage: https://via.placeholder.com/800x400?text=Gemini+Agent
+heroImage: https://picsum.photos/seed/Gemini-Agent/800/400
 pubDate: "2026-02-15T09:00:00Z"
 tags:
   - Google

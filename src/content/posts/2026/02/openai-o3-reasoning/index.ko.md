@@ -2,7 +2,7 @@
 title: "OpenAI O3: 추론의 깊이를 더하다"
 date: 2026-02-14
 tags: [openai, ai, reasoning]
-image: https://source.unsplash.com/random/1600x900/?math,logic
+image: https://picsum.photos/seed/math-logic/1600/900
 ---
 
 # 📝 OpenAI O3: 추론의 깊이를 더하다

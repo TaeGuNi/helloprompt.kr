@@ -4,7 +4,7 @@ description: "Массивная волна экосистемы с открыт
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
+image: "https://picsum.photos/seed/llama-tech/1600/900"
 ---
 
 # Контратака ИИ с открытым исходным кодом

@@ -4,7 +4,7 @@ description: "Der Kampf der Giganten um die Zukunft der Suche hat begonnen."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 KI-Suchkriege: Google vs OpenAI
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?search,technology"
 
 Die traditionelle Stichwortsuche geht zu Ende. KI-gestützte Suchmaschinen wie SearchGPT und Google AI Overviews verändern grundlegend die Art und Weise, wie Nutzer Informationen finden. Anstatt Links anzuklicken, erhalten sie direkte, aufbereitete Antworten. Wie stellst du sicher, dass deine Marke in diesen KI-generierten Overviews als Quelle zitiert wird? Dieser Prompt verwandelt deinen bestehenden Content in ein Format, das von KI-Suchmaschinen geliebt und priorisiert wird.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)
+![Visual Prompt](https://picsum.photos/seed/search-technology/1600/900)
 
 ---
 

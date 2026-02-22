@@ -4,7 +4,7 @@ description: "L'era degli LLM locali ad alte prestazioni che funzionano senza cl
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
+image: "https://picsum.photos/seed/smartphone-future/1600/900"
 ---
 
 # 📝 Supercomputer nella tua mano: Ottimizzare i Prompt per l'IA On-Device
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 
 L'IA on-device sta letteralmente ridefinendo l'esperienza mobile e desktop. Lavorare offline con modelli eseguiti in locale significa privacy assoluta e zero latenza. Tuttavia, i modelli più compatti che girano sui nostri telefoni o laptop (Small Language Models come Llama 3 8B, Gemma o Phi-3) richiedono un approccio radicalmente diverso: i prompt devono essere iper-ottimizzati e privi di rumore. Questo post ti mostrerà come "comprimere" le tue richieste per renderle digeribili ed estremamente efficaci per qualsiasi modello locale.
 
-![Edge AI Revolution](https://source.unsplash.com/random/1600x900/?smartphone,future)
+![Edge AI Revolution](https://picsum.photos/seed/smartphone-future/1600/900)
 
 ---
 

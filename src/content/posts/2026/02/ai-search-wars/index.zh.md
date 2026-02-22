@@ -4,7 +4,7 @@ description: "关于搜索未来的巨头之战已经开始。使用此提示词
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 AI搜索战争：谷歌 vs OpenAI

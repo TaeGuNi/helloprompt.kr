@@ -2,7 +2,7 @@
 title: "AI Fatigue (Summary)"
 description: "Discover how to identify, manage, and overcome 'AI Fatigue'—the growing exhaustion from constant AI hype and overwhelming tool updates in your daily workflow."
 date: 2026-02-14
-image: "https://source.unsplash.com/random/800x600?tired,tech"
+image: "https://picsum.photos/seed/tired-tech/800/600"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

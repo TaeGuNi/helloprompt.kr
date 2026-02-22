@@ -4,7 +4,7 @@ description: "The clash of giants over the future of search has begun."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 AI Search Wars: Audit Your Content for the New Era
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?search,technology"
 
 Traditional keyword search is dying. As Google and OpenAI battle for dominance with conversational AI search engines, the way users find information is fundamentally changing. It's no longer about keyword density; it's about becoming the definitive, most easily extractable source of truth for an AI to cite.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?search,technology)
+![Visual Prompt](https://picsum.photos/seed/search-technology/1600/900)
 
 ---
 

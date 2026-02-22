@@ -4,7 +4,7 @@ description: "自律型コーディングエージェントが開発エコシス
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]
-image: "https://source.unsplash.com/random/1600x900/?code,screen"
+image: "https://picsum.photos/seed/code-screen/1600/900"
 ---
 
 # 📝 コーディングエージェントの進化：開発者の役割の変化

@@ -2,7 +2,7 @@
 title: "AI Fatigue: 우리는 지쳤다"
 description: "하루가 멀다 하고 쏟아지는 '혁신' 뉴스에 대중은 지쳤습니다. 과대광고(Hype)와 현실(Reality)의 괴리를 진단합니다."
 date: 2026-02-14
-image: "https://source.unsplash.com/random/800x600?tired,tech"
+image: "https://picsum.photos/seed/tired-tech/800/600"
 categories: ["Society", "Opinion"]
 authors: ["HelloPrompt Team"]
 tags: ["AI Fatigue", "Hype Cycle", "Tech Burnout"]

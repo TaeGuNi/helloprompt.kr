@@ -4,7 +4,7 @@ description: "검색의 미래를 둔 거인들의 격돌이 시작되었습니�
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 AI 검색 전쟁: 구글 vs OpenAI

@@ -3,7 +3,7 @@ date: "2026-02-15"
 description:
   Google's newly unveiled Gemini Agent Ecosystem redefines automation across
   Android, Chrome, and Workspace, marking a true era of autonomous collaboration.
-image: https://via.placeholder.com/800x400?text=Gemini+Agent
+image: https://picsum.photos/seed/Gemini-Agent/800/400
 pubDate: "2026-02-15T09:00:00Z"
 tags:
   - Google

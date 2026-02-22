@@ -4,7 +4,7 @@ description: "診断を超えて治療計画まで提案する医療AIの現在�
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
+image: "https://picsum.photos/seed/doctor-robot/1600/900"
 ---
 
 # 📝 AI医師、診察室に入る

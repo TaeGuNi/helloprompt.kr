@@ -2,7 +2,7 @@
 title: "AI Fatigue (Summary)"
 description: "Eine Zusammenfassung der KI-Müdigkeit (AI Fatigue) und pragmatische Strategien, um dem Hype zu entkommen."
 date: 2026-02-14
-image: "https://source.unsplash.com/random/800x600?tired,tech"
+image: "https://picsum.photos/seed/tired-tech/800/600"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

@@ -4,7 +4,7 @@ description: "Анализируем столкновение гигантов �
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
+image: "https://picsum.photos/seed/search-technology/1600/900"
 ---
 
 # 📝 Войны ИИ-поиска: Google против OpenAI

@@ -4,7 +4,7 @@ description: "진단을 넘어 치료 계획까지 제안하는 의료 AI의 현
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
+image: "https://picsum.photos/seed/doctor-robot/1600/900"
 ---
 
 # 📝 AI 의사, 진료실에 들어오다: 의료 데이터 요약 및 진단 보조 프롬프트
@@ -23,7 +23,7 @@ image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 
 이 글에서는 복잡한 환자의 병력과 증상을 바탕으로 감별 진단(Differential Diagnosis) 목록과 최신 의학 가이드라인 기반의 처방 초안을 빠르게 도출해 내는 프롬프트를 소개합니다.
 
-![의료 AI 시각화](https://source.unsplash.com/random/1600x900/?doctor,robot)
+![의료 AI 시각화](https://picsum.photos/seed/doctor-robot/1600/900)
 
 ---
 

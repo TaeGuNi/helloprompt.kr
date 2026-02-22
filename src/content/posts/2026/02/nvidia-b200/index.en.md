@@ -2,7 +2,7 @@
 title: "NVIDIA B200 (RTX 6090 Ti) Release Date Confirmed: The Era of Consumer Blackwell Begins"
 description: "The release date for NVIDIA's next-gen consumer GPU, the B200-based RTX 6090 Ti, has finally been confirmed. We take a look at the revolutionary performance improvements and key specs of the Blackwell architecture."
 date: 2026-02-15
-cover: "https://via.placeholder.com/800x400?text=NVIDIA+B200"
+cover: "https://picsum.photos/seed/NVIDIA-B200/800/400"
 tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]
 ---
 

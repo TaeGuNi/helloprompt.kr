@@ -7,7 +7,7 @@ tags:
   - "AI"
   - "Siri"
   - "iPhone 17"
-image: "https://via.placeholder.com/800x400?text=Apple+Intelligence"
+image: "https://picsum.photos/seed/Apple-Intelligence/800/400"
 description: "With the iPhone 17, Apple introduces Apple Intelligence 2.0, running powerful LLMs entirely on-device."
 ---
 

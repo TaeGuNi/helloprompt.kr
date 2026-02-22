@@ -4,7 +4,7 @@ description: "L'ère des LLM locaux à haute performance fonctionnant sans aucun
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
+image: "https://picsum.photos/seed/smartphone-future/1600/900"
 ---
 
 # 📱 Superordinateur dans votre main : Révolution de l'IA sur appareil
@@ -21,7 +21,7 @@ image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 
 L'IA sur appareil (On-Device AI) est en train de redéfinir radicalement notre expérience mobile. Fini le temps où chaque requête nécessitait un aller-retour risqué et chronophage vers des serveurs distants. Aujourd'hui, nous entrons dans une ère où les modèles de langage de grande taille (LLM) fonctionnent localement, offrant des performances fulgurantes, une confidentialité absolue et une disponibilité même hors ligne.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
+![Visual Prompt](https://picsum.photos/seed/smartphone-future/1600/900)
 
 ---
 

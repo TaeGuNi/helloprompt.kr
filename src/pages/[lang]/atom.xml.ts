@@ -1,4 +1,5 @@
 import type { APIRoute } from "astro";
+import { getCollection } from "astro:content";
 import { uiStrings } from "../../utils/ui-translation";
 import { getLangStaticPaths } from "../../i18n/languages";
 
@@ -6,7 +7,10 @@ export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
-  const allPosts = import.meta.glob("../*/posts/*.md");
+  const now = new Date();
+  const allPosts = await getCollection("posts", ({ data }) => {
+    return data.date <= now;
+  });
 
   interface AtomPost {
     title: string;
@@ -19,30 +23,22 @@ export const GET: APIRoute = async (context) => {
 
   const posts: AtomPost[] = [];
 
-  for (const path in allPosts) {
-    if (path.includes(`/${lang}/posts/`)) {
-      const post = (await allPosts[path]()) as {
-        frontmatter: {
-          title: string;
-          description: string;
-          date: string;
-          updatedDate?: string;
-          author: string;
-        };
-        url: string;
-      };
+  allPosts.forEach((post) => {
+    if (post.id.endsWith(`index${lang}`)) {
+      const parts = post.id.split("/");
+      const slug = parts[parts.length - 2];
       posts.push({
-        title: post.frontmatter.title,
-        description: post.frontmatter.description,
-        pubDate: new Date(post.frontmatter.date),
-        updatedDate: post.frontmatter.updatedDate
-          ? new Date(post.frontmatter.updatedDate)
+        title: post.data.title,
+        description: post.data.description || "",
+        pubDate: new Date(post.data.date),
+        updatedDate: post.data.updatedDate
+          ? new Date(post.data.updatedDate)
           : null,
-        link: `${context.site}${lang}${post.url}`,
-        author: post.frontmatter.author,
+        link: `${context.site}${lang}/posts/${slug}`,
+        author: post.data.author || "Hello Prompt",
       });
     }
-  }
+  });
 
   // 날짜순 정렬
   posts.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());

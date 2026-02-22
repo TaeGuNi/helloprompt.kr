@@ -1,9 +1,0 @@
-
-> helloprompt.kr@1.5.3 qa
-> npx tsx scripts/qa/check.ts
-
-🔍 Scanning all markdown posts...
-Checking 3673 files...
-
---------------------------------------------------
-✅ QA Passed! (3673 files checked)

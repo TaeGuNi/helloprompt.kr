@@ -1,5 +1,6 @@
 import rss from "@astrojs/rss";
 import type { APIRoute } from "astro";
+import { getCollection } from "astro:content";
 import { uiStrings } from "../../utils/ui-translation";
 import { getLangStaticPaths } from "../../i18n/languages";
 
@@ -8,35 +9,27 @@ export const getStaticPaths = getLangStaticPaths;
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
 
-  // 해당 언어의 포스트만 글로빙
-  // 참고: import.meta.glob은 동적 변수를 사용할 수 없어서 전체를 가져온 뒤 필터링해야 함
-  // 하지만 Astro 5에서는 pagesGlobToRssItems가 glob 결과를 요구하므로,
-  // 여기서는 각 언어별로 별도 처리하거나, 전체를 가져와서 수동으로 RSS 아이템을 빌드해야 함.
+  // 수동 빌드 방식 채택 (Content Collections 기반)
+  const now = new Date();
+  const allPosts = await getCollection("posts", ({ data }) => {
+    return data.date <= now;
+  });
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const posts: any[] = [];
 
-  // 수동 빌드 방식 채택
-  const allPosts = import.meta.glob("../*/posts/*.md"); // [lang]/posts/*.md
-  const posts = [];
-
-  for (const path in allPosts) {
-    if (path.includes(`/${lang}/posts/`)) {
-      const post = (await allPosts[path]()) as {
-        frontmatter: {
-          title: string;
-          date: string;
-          description: string;
-          author: string;
-        };
-        url: string;
-      };
+  allPosts.forEach((post) => {
+    if (post.id.endsWith(`index${lang}`)) {
+      const parts = post.id.split("/");
+      const slug = parts[parts.length - 2];
       posts.push({
-        link: `/${lang}${post.url}`, // 언어별 경로
-        title: post.frontmatter.title,
-        pubDate: new Date(post.frontmatter.date),
-        description: post.frontmatter.description,
-        customData: `<author>${post.frontmatter.author}</author>`,
+        link: `/${lang}/posts/${slug}`, // 언어별 경로
+        title: post.data.title,
+        pubDate: new Date(post.data.date),
+        description: post.data.description || "",
+        customData: `<author>${post.data.author}</author>`,
       });
     }
-  }
+  });
 
   // 날짜순 정렬
   posts.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());

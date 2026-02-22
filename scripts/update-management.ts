@@ -3,7 +3,7 @@ import path from "node:path";
 import { glob } from "glob";
 
 const MANAGEMENT_DOC_PATH = path.join(process.cwd(), "docs/MANAGEMENT.md");
-const POSTS_GLOB_PATTERN = "src/pages/posts/*.md";
+const POSTS_GLOB_PATTERN = "src/content/posts/**/*.md";
 const GOAL_TARGET = 100;
 
 async function updateManagementDoc() {

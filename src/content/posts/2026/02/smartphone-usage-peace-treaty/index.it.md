@@ -125,8 +125,8 @@ Io, [Nome del Bambino], e i miei genitori promettiamo di rispettare queste regol
 🌟 **Premio Super:** Se spengo da solo, guadagno 1 Stellina (10 stelline = un giornalino in edicola o un gelato!).
 ⚠️ **Regola del tempo:** Se non riesco a spegnere da solo, domani avrò 15 minuti in meno per giocare.
 
-Firma del Bambino: ******\_\_\_******
-Firma dei Genitori: ******\_\_\_******
+Firma del Bambino: **\*\***\_\_\_**\*\***
+Firma dei Genitori: **\*\***\_\_\_**\*\***
 ```
 
 ---

@@ -19,9 +19,9 @@ async function runQa() {
       process.exit(0);
     }
   } else {
-    // Scan all posts
-    console.log("🔍 Scanning all markdown posts...");
-    files = await glob("src/pages/**/posts/*.md");
+    // Scan only primary Korean posts (index.md)
+    console.log("🔍 Scanning primary Korean markdown posts...");
+    files = await glob("src/content/posts/**/index.md");
   }
 
   console.log(`Checking ${files.length} files...`);

@@ -1,0 +1,38 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../../../layouts/Layout.astro";
+import { LANGUAGES } from "../../../i18n/languages";
+
+export async function getStaticPaths() {
+  const now = new Date();
+  const posts = await getCollection("posts", ({ data }) => {
+    return data.date <= now;
+  });
+  const paths: any[] = [];
+
+  for (const lang of LANGUAGES) {
+    const langPosts = posts.filter((post) => post.id.endsWith(`index${lang}`));
+
+    langPosts.forEach((post) => {
+      const parts = post.id.split("/");
+      const slug = parts[parts.length - 2];
+      paths.push({
+        params: { lang, slug },
+        props: { post },
+      });
+    });
+  }
+
+  return paths;
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+---
+
+<Layout
+  frontmatter={{ ...post.data, lang: Astro.params.lang }}
+  headings={headings}
+>
+  <Content />
+</Layout>

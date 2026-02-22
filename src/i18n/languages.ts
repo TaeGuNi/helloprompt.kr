@@ -1,8 +1,19 @@
 // Supported languages
-export const LANGUAGES = ["en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"];
+export const LANGUAGES = [
+  "ko",
+  "en",
+  "de",
+  "es",
+  "fr",
+  "it",
+  "ja",
+  "pt",
+  "ru",
+  "zh",
+];
 
 // Fallback language
-export const DEFAULT_LANGUAGE = "en";
+export const DEFAULT_LANGUAGE = "ko";
 
 // Helper to check if a language is supported
 export function isSupportedLang(lang: string) {

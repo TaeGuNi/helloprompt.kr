@@ -3,39 +3,50 @@ import type { Page } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import { LANGUAGES } from "../../i18n/languages";
 import { formatDate } from "../../utils/dateUtils";
+import { getCollection } from "astro:content";
 import type { Post } from "../../utils/postUtils";
 
 interface GetStaticPathsOptions {
   paginate: (
-    data: Post[],
+    data: any[],
     options: { params: { lang: string }; pageSize: number },
   ) => unknown[];
 }
 
 interface Props {
-  page: Page<Post>;
+  page: Page<any>;
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  // 1. 외국어 포스트 동적 로딩
-  const globResult = import.meta.glob("../**/posts/*.md", { eager: true });
+  // 1. Content Collections에서 모든 포스트 가져오기
+  const now = new Date();
+  const allPosts = await getCollection("posts", ({ data }) => {
+    return data.date <= now;
+  });
 
   // 2. 언어별 포스트 컬렉션 생성
   const collections = LANGUAGES.map((lang) => {
-    // 해당 언어 폴더(src/pages/{lang}/posts/)의 포스트만 필터링
-    const posts = Object.entries(globResult)
-      .filter(([path]) => path.includes(`/${lang}/posts/`))
-      .map(([, post]) => post as Post);
-
+    const posts = allPosts.filter((post) => post.id.endsWith(`index${lang}`));
     return { lang, posts };
   });
 
   // 3. 페이지네이션 경로 생성
   return collections.flatMap(({ lang, posts }) => {
-    const sortedPosts = posts.sort(
+    const formattedPosts = posts.map((post) => {
+      // YYYY/MM/slug/index.[lang] 에서 base slug 추출
+      const parts = post.id.split("/");
+      const slug = parts[parts.length - 2];
+      return {
+        id: post.id,
+        data: post.data,
+        frontmatter: post.data,
+        url: `/${lang}/posts/${slug}`,
+      };
+    });
+
+    const sortedPosts = formattedPosts.sort(
       (a, b) =>
-        new Date(b.frontmatter.date).valueOf() -
-        new Date(a.frontmatter.date).valueOf(),
+        new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
     );
 
     return paginate(sortedPosts, {

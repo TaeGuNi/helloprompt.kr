@@ -182,7 +182,8 @@ const { variant = "hero" } = Astro.props;
   async function loadSearchIndex() {
     if (isIndexLoaded) return;
     try {
-      const response = await fetch("/search.json");
+      const lang = document.documentElement.lang || "ko";
+      const response = await fetch(`/${lang}/search.json`);
       const searchIndex: SearchItem[] = await response.json();
 
       fuse = new Fuse(searchIndex, {

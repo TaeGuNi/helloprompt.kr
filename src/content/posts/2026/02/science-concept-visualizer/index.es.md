@@ -58,9 +58,9 @@ Se dice que el cerebro humano procesa imágenes hasta 60.000 veces más rápido 
 >
 > **Instrucciones (Task):**
 >
-> 1. **[Diagrama ASCII]:** Diseña un esquema estructural o de funcionamiento de este concepto empleando exclusivamente símbolos de texto (como `=`, `-`, `|`, `>`, `[]`, etc.). Debes envolver este diagrama en un bloque de código para preservar el formato.
-> 2. **[Analogía Cotidiana]:** Explica este concepto comparándolo con situaciones u objetos del día a día que incluso un niño de primaria podría entender. Utiliza la estructura: "A es exactamente como B porque...".
-> 3. **[Relación Clave]:** Sintetiza cómo interactúan los componentes principales entre sí utilizando un flujo lógico con flechas (`→`).
+> 1. \***\*[Diagrama ASCII]**:\*\* Diseña un esquema estructural o de funcionamiento de este concepto empleando exclusivamente símbolos de texto (como `=`, `-`, `|`, `>`, `[]`, etc.). Debes envolver este diagrama en un bloque de código para preservar el formato.
+> 2. \***\*[Analogía Cotidiana]**:\*\* Explica este concepto comparándolo con situaciones u objetos del día a día que incluso un niño de primaria podría entender. Utiliza la estructura: "A es exactamente como B porque...".
+> 3. \***\*[Relación Clave]**:\*\* Sintetiza cómo interactúan los componentes principales entre sí utilizando un flujo lógico con flechas (`→`).
 >
 > **Restricciones (Constraints):**
 >

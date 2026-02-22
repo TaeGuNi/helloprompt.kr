@@ -57,9 +57,9 @@ Use this when you need a comprehensive, highly accurate breakdown for work, stud
 >
 > **Task:**
 >
-> 1. **[Situation Metaphor]:** Explain this concept by drawing a parallel to `[Desired Situation, e.g., a restaurant / building with Lego / a library]`.
-> 2. **[1:1 Component Mapping]:** Provide a clear breakdown mapping the elements of the metaphor to the actual technical components.
-> 3. **[One-Sentence Summary]:** Conclude with a punchy, one-line definition of what this concept ultimately does.
+> 1. \***\*[Situation Metaphor]**:\*\* Explain this concept by drawing a parallel to `[Desired Situation, e.g., a restaurant / building with Lego / a library]`.
+> 2. \***\*[1:1 Component Mapping]**:\*\* Provide a clear breakdown mapping the elements of the metaphor to the actual technical components.
+> 3. \***\*[One-Sentence Summary]**:\*\* Conclude with a punchy, one-line definition of what this concept ultimately does.
 >
 > **Constraints:**
 >

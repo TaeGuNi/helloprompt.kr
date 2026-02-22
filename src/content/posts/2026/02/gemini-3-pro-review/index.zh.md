@@ -110,7 +110,7 @@ Gemini 3 Pro 终于震撼发布。这款模型不仅在逻辑推理能力上实�
 result = []
 for i in range(len(data)):
     for j in range(len(data)):
-        if data[i]['id'] == data[j]['ref_id']:
+        if data[i]['id'] == data[j]**['ref_id']**:
             result.append((data[i], data[j]))
 ```
 
@@ -120,7 +120,7 @@ _(执行时间：4.2秒)_
 
 ```python
 # 利用字典进行空间换时间的 O(n) 级优化
-ref_map = {item['ref_id']: item for item in data}
+ref_map = {item**['ref_id']**: item for item in data}
 result = [(item, ref_map[item['id']]) for item in data if item['id'] in ref_map]
 ```
 

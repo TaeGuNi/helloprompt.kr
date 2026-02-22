@@ -91,7 +91,7 @@ Dieser Prompt ist ein absoluter Gamechanger für das Onboarding in neue Projekte
   - A: Absolut! Egal ob COBOL, Fortran oder eine obskure Skriptsprache – moderne LLMs haben riesige Mengen an Code gesehen. Passen Sie einfach das Level von `[Anfänger/Junior]` an Ihre tatsächliche Erfahrung an.
 
 - **Q: Erkennt die KI auch Sicherheitslücken in diesem Code?**
-  - A: Dieser spezifische Prompt ist auf _Verständnis_ optimiert. Wenn Sie Bugs oder Sicherheitsprobleme finden wollen, sollten Sie die Aufgabe (Task) um den Punkt "4. [Sicherheits-Check]: Weise auf mögliche Schwachstellen hin" erweitern.
+  - A: Dieser spezifische Prompt ist auf _Verständnis_ optimiert. Wenn Sie Bugs oder Sicherheitsprobleme finden wollen, sollten Sie die Aufgabe (Task) um den Punkt "4. **[Sicherheits-Check]**: Weise auf mögliche Schwachstellen hin" erweitern.
 
 ---
 

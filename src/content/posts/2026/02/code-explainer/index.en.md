@@ -57,9 +57,9 @@ Use this when you need deep, meticulous analysis and actionable insights.
 >
 > **Task:**
 >
-> 1. **[Summary]:** Summarize the core functionality and data flow of this code in 3 concise sentences.
-> 2. **[Line-by-Line Analysis]:** Rewrite the code by injecting detailed **comments** above every significant line or block.
-> 3. **[Syntax & Grammar]:** If there are any language-specific idioms, advanced syntax (e.g., List Comprehensions, Closures, Pointers), or specialized library functions used, isolate and explain them separately.
+> 1. \***\*[Summary]**:\*\* Summarize the core functionality and data flow of this code in 3 concise sentences.
+> 2. \***\*[Line-by-Line Analysis]**:** Rewrite the code by injecting detailed **comments\*\* above every significant line or block.
+> 3. \***\*[Syntax & Grammar]**:\*\* If there are any language-specific idioms, advanced syntax (e.g., List Comprehensions, Closures, Pointers), or specialized library functions used, isolate and explain them separately.
 >
 > **Constraints:**
 >

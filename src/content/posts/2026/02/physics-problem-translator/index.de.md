@@ -57,10 +57,10 @@ Verwenden Sie diese Version für eine präzise und detaillierte Herleitung.
 >
 > **Aufgabe (Task):**
 >
-> 1. **[Variablenextraktion]:** Identifiziere alle in der Aufgabe gegebenen Werte (Bekannt) sowie die gesuchten Werte (Unbekannt) und weise ihnen die korrekten physikalischen Formelzeichen zu (z. B. $v_0 = 0\,m/s$).
-> 2. **[Versteckte Bedingungen]:** Decke physikalische Rahmenbedingungen auf, die im Text nicht explizit genannt, aber zwingend erforderlich sind (z. B. "Freier Fall" -> $a = 9,81\,m/s^2$).
-> 3. **[Strategieerstellung]:** Erkläre, welches **physikalische Gesetz** am besten zur Lösung geeignet ist und warum.
-> 4. **[Aufstellen der Gleichung]:** Entwickle ein reines **mathematisches Modell** (die Grundgleichung), bevor irgendwelche Zahlen eingesetzt werden.
+> 1. \***\*[Variablenextraktion]**:\*\* Identifiziere alle in der Aufgabe gegebenen Werte (Bekannt) sowie die gesuchten Werte (Unbekannt) und weise ihnen die korrekten physikalischen Formelzeichen zu (z. B. $v_0 = 0\,m/s$).
+> 2. \***\*[Versteckte Bedingungen]**:\*\* Decke physikalische Rahmenbedingungen auf, die im Text nicht explizit genannt, aber zwingend erforderlich sind (z. B. "Freier Fall" -> $a = 9,81\,m/s^2$).
+> 3. \***\*[Strategieerstellung]**:** Erkläre, welches **physikalische Gesetz\*\* am besten zur Lösung geeignet ist und warum.
+> 4. \***\*[Aufstellen der Gleichung]**:** Entwickle ein reines **mathematisches Modell\*\* (die Grundgleichung), bevor irgendwelche Zahlen eingesetzt werden.
 >
 > **Einschränkungen (Constraints):**
 >

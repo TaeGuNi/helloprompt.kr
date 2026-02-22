@@ -64,7 +64,7 @@ La **Fotografía Macro** es una técnica fascinante que magnifica enormemente a 
 > **Prompt Base:**
 > `Macro photography of [Sujeto], extreme close-up, sharp focus on intricate details, shallow depth of field, blurred bokeh background, dramatic natural lighting, National Geographic style, 8k resolution, photorealistic.`
 >
-> **Ejemplo de [Sujeto]:** `the eye of a dragonfly with hexagonal patterns and morning dew drops`
+> **Ejemplo de **[Sujeto]**:** `the eye of a dragonfly with hexagonal patterns and morning dew drops`
 >
 > **Parámetros recomendados (Midjourney):** `--ar 16:9 --style raw --v 6.0`
 

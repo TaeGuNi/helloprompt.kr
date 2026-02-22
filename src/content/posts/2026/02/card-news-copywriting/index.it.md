@@ -115,13 +115,13 @@ _(Risultato tipico: "Esercizi di stretching per il collo", "Come alleviare il do
 ### ✅ Dopo (Risultato con la Versione Pro)
 
 ```text
-🔥 [Curiosità]: "Il tuo cuscino non c'entra niente: la vera causa del torcicollo da ufficio."
+🔥 **[Curiosità]**: "Il tuo cuscino non c'entra niente: la vera causa del torcicollo da ufficio."
 (Perché funziona: Rompe una credenza comune e crea un gap informativo che l'utente vuole colmare.)
 
-😨 [Paura/FOMO]: "Se lavori 8 ore al PC, la tua cervicale sta invecchiando di 10 anni."
+😨 **[Paura/FOMO]**: "Se lavori 8 ore al PC, la tua cervicale sta invecchiando di 10 anni."
 (Perché funziona: Usa dati specifici per creare urgenza in un target preciso.)
 
-🎁 [Beneficio]: "Sblocca il collo in 3 minuti (senza alzarti dalla sedia)."
+🎁 **[Beneficio]**: "Sblocca il collo in 3 minuti (senza alzarti dalla sedia)."
 (Perché funziona: Promette un grande risultato con il minimo sforzo e zero frizioni.)
 ```
 

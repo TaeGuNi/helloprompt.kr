@@ -109,7 +109,7 @@ Hola, les escribí hace 3 días pidiendo los datos y aún no me mandan nada. Por
 ```text
 Asunto: [Recordatorio] Solicitud pendiente de información para [Nombre del Proyecto]
 
-Estimado/a [Nombre del Cliente]:
+Estimado/a **[Nombre del Cliente]**:
 
 Espero que se encuentre muy bien y que esté teniendo una excelente semana.
 

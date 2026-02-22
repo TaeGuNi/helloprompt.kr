@@ -55,10 +55,10 @@ Esta estructura convierte a tu LLM en un equipo de alto rendimiento. Úsala para
 >
 > **Instrucciones (Task):**
 >
-> 1. **[Fase PM - Planificación]:** Desglosa la tarea principal en 3-5 subtareas lógicas. Explica el enfoque metodológico.
-> 2. **[Fase SME - Ejecución]:** Desarrolla una solución profunda y detallada para cada subtarea. Actúa como el máximo experto mundial en este tema.
-> 3. **[Fase QA - Reflexión y Crítica]:** Critica severamente la solución propuesta por el SME. Busca activamente vulnerabilidades, sesgos, lagunas lógicas o áreas de mejora. Sé duro y analítico.
-> 4. **[Fase SME - Refinamiento Final]:** Reescribe y perfecciona la solución final incorporando todo el feedback del QA.
+> 1. \***\*[Fase PM - Planificación]**:\*\* Desglosa la tarea principal en 3-5 subtareas lógicas. Explica el enfoque metodológico.
+> 2. \***\*[Fase SME - Ejecución]**:\*\* Desarrolla una solución profunda y detallada para cada subtarea. Actúa como el máximo experto mundial en este tema.
+> 3. \***\*[Fase QA - Reflexión y Crítica]**:\*\* Critica severamente la solución propuesta por el SME. Busca activamente vulnerabilidades, sesgos, lagunas lógicas o áreas de mejora. Sé duro y analítico.
+> 4. \***\*[Fase SME - Refinamiento Final]**:\*\* Reescribe y perfecciona la solución final incorporando todo el feedback del QA.
 >
 > **Restricciones (Constraints):**
 >

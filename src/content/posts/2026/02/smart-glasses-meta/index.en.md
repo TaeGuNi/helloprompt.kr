@@ -114,7 +114,7 @@ The integration of seamless, voice-activated AI (specifically context-aware real
 **2. The Invisible Form Factor:**
 Partnering with established eyewear brands (like Ray-Ban) allowed Meta to Trojan-horse advanced tech into an aesthetically pleasing, socially acceptable form factor. The barrier to entry was eliminated because they look like normal sunglasses.
 
-**3. Actionable Lessons for [Software Teams]:**
+**3. Actionable Lessons for **[Software Teams]**:**
 - **Prioritize Frictionless Onboarding:** Just as Meta removed the friction of opening an app, software tools must eliminate clicks to access core AI features.
 - **Design for the 'Invisible':** Technology should fade into the background. Focus on the output rather than highlighting the complexity of the AI behind it.
 ```

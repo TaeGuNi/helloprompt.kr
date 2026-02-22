@@ -111,11 +111,11 @@ _(Result: A standard story without staging instructions, often too long or with 
 ### ✅ After (Pro Prompt)
 
 ```text
-[Action]: Make a simple mouth shape with your hand and slowly open and close it.
-[Narration]: (Softly) Hello there. I'm Tiny the T-Rex.
-[Dialogue - Tiny]: *Yawn* I've been playing all day, and now I'm looking for the sleepy stars. Do you see any stars?
-[Action]: Shine the flashlight around the ceiling slowly.
-[Narration]: Tiny's eyes are getting heavy... so heavy. It's time to rest.
+**[Action]**: Make a simple mouth shape with your hand and slowly open and close it.
+**[Narration]**: (Softly) Hello there. I'm Tiny the T-Rex.
+**[Dialogue - Tiny]**: *Yawn* I've been playing all day, and now I'm looking for the sleepy stars. Do you see any stars?
+**[Action]**: Shine the flashlight around the ceiling slowly.
+**[Narration]**: Tiny's eyes are getting heavy... so heavy. It's time to rest.
 ```
 
 ---

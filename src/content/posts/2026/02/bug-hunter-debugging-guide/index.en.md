@@ -65,9 +65,9 @@ Copy the **PROMPT** content below and paste it into ChatGPT, Claude, or Gemini.
 >
 > **Inputs:**
 >
-> - **[Error Log]:**
+> - \***\*[Error Log]**:\*\*
 >   `[Paste your error message, stack trace, or unexpected output here]`
-> - **[Code Snippet]:**
+> - \***\*[Code Snippet]**:\*\*
 >   `[Paste the suspected function, class, or surrounding logic here]`
 >
 > **Constraints (Constraints):**

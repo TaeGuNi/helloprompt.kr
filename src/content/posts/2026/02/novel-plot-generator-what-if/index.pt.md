@@ -110,15 +110,15 @@ Este prompt é uma das ferramentas mais valiosas no meu arsenal de escrita. O ve
 ### ✅ After (Resultado)
 
 ```text
-1. [Acordo Inesperado]: E se o vilão oferecer uma informação crucial sobre o passado do protagonista em troca de uma trégua de 24 horas?
+1. **[Acordo Inesperado]**: E se o vilão oferecer uma informação crucial sobre o passado do protagonista em troca de uma trégua de 24 horas?
    - Impacto: Gera tensão contínua.
    - Risco: Pode parecer conveniente demais se a informação não for genuinamente valiosa.
 
-2. [Inimigo Comum]: E se uma ameaça de nível superior invadir a cena naquele exato momento, forçando ambos a uma aliança de sobrevivência relutante?
+2. **[Inimigo Comum]**: E se uma ameaça de nível superior invadir a cena naquele exato momento, forçando ambos a uma aliança de sobrevivência relutante?
    - Impacto: Eleva as apostas e muda a dinâmica de poder.
    - Risco: Risco de clichê shounen; a nova ameaça precisa ser construída logicamente.
 
-3. [Colapso Psicológico]: E se o vilão, em vez de atacar, tiver um colapso mental, revelando que ele próprio está sendo manipulado e implorar por ajuda?
+3. **[Colapso Psicológico]**: E se o vilão, em vez de atacar, tiver um colapso mental, revelando que ele próprio está sendo manipulado e implorar por ajuda?
    - Impacto: Subverte a expectativa de uma batalha épica com um choque emocional.
    - Risco: Pode frustrar leitores que esperavam ação, requerendo um diálogo extremamente bem escrito.
 ```

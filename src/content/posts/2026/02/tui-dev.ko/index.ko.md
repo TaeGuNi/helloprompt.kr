@@ -60,8 +60,8 @@ tags: ["tui", "dev-tools", "cli"]
 >
 > **입력 변수:**
 >
-> - [기술 스택]: (예: Python Textual, Go Bubble Tea, Rust Ratatui, Node.js Ink)
-> - [요구사항]: (예: 좌측에는 선택 가능한 디렉토리 트리 목록, 우측에는 선택된 파일의 로그를 실시간으로 보여주는 화면)
+> - **[기술 스택]**: (예: Python Textual, Go Bubble Tea, Rust Ratatui, Node.js Ink)
+> - **[요구사항]**: (예: 좌측에는 선택 가능한 디렉토리 트리 목록, 우측에는 선택된 파일의 로그를 실시간으로 보여주는 화면)
 >
 > **제약사항 (Constraints):**
 >

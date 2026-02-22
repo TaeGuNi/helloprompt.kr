@@ -103,9 +103,9 @@ IA: "Aquí tienes un plan: 1. Idea, 2. Desarrollo, 3. Lanzamiento..." (Respuesta
 ### ✅ Después (Con Enjambre Simulado)
 
 ```text
-[Arquitecto de Software]: "Propongo usar React con Next.js y un backend en Node.js."
-[Ingeniero de QA]: "Esa pila está bien, pero necesitamos definir un pipeline de CI/CD desde el día 1 con pruebas E2E en Playwright."
-[Orquestador]: "De acuerdo, integrando ambas visiones, aquí está el plan arquitectónico final..." (Plan técnico, profundo y validado)
+**[Arquitecto de Software]**: "Propongo usar React con Next.js y un backend en Node.js."
+**[Ingeniero de QA]**: "Esa pila está bien, pero necesitamos definir un pipeline de CI/CD desde el día 1 con pruebas E2E en Playwright."
+**[Orquestador]**: "De acuerdo, integrando ambas visiones, aquí está el plan arquitectónico final..." (Plan técnico, profundo y validado)
 ```
 
 ---

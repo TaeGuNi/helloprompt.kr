@@ -62,8 +62,7 @@ Diese Version generiert eine umfassende Analyse, ideal für Investorenberichte, 
 > - Ziel: Ich benötige ein detailliertes strategisches Briefing, das über die Pressemitteilung hinausgeht und die wirtschaftlichen Auswirkungen auf den Gesamtmarkt beleuchtet.
 >
 > **Aufgabe (Task):**
-> Analysiere die folgende Unternehmensnachricht und erstelle einen strukturierten Bericht.
-> **[Nachricht]:** `[Fügen Sie hier die Nachricht ein, z.B.: Anthropic sichert sich Serie-G-Finanzierung bei einer Bewertung von 30 Mrd. $, mit Fokus auf KI-Sicherheit und Constitutional AI.]`
+> Analysiere die folgende Unternehmensnachricht und erstelle einen strukturierten Bericht. \***\*[Nachricht]**:\*\* `[Fügen Sie hier die Nachricht ein, z.B.: Anthropic sichert sich Serie-G-Finanzierung bei einer Bewertung von 30 Mrd. $, mit Fokus auf KI-Sicherheit und Constitutional AI.]`
 >
 > Der Bericht muss folgende Punkte umfassen:
 >

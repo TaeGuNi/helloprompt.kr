@@ -57,9 +57,9 @@ Use this when you need an expert-level, meticulously detailed blueprint.
 >
 > **Task:**
 >
-> 1. **[Outline Creation]:** Design a standard but powerful outline consisting of an Introduction, a 3-part Body, and a Conclusion.
-> 2. **[Paragraph Guide]:** Provide specific keywords, talking points, and suggested examples for each paragraph.
-> 3. **[Hook & Closing]:** Draft a captivating first sentence for the introduction (a "Hook" to grab attention) and a profound last sentence for the conclusion (a closing thought that leaves a lingering impact).
+> 1. \***\*[Outline Creation]**:\*\* Design a standard but powerful outline consisting of an Introduction, a 3-part Body, and a Conclusion.
+> 2. \***\*[Paragraph Guide]**:\*\* Provide specific keywords, talking points, and suggested examples for each paragraph.
+> 3. \***\*[Hook & Closing]**:\*\* Draft a captivating first sentence for the introduction (a "Hook" to grab attention) and a profound last sentence for the conclusion (a closing thought that leaves a lingering impact).
 >
 > **Constraints:**
 >

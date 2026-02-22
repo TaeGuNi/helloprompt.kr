@@ -114,7 +114,7 @@ _(L'AI fornisce script Python generici con BeautifulSoup, trascurando del tutto 
 ```text
 🔴 RISCHIO ALTO: Lo scraping non autorizzato di testate giornalistiche viola direttamente i loro Termini di Servizio e le normative sul copyright correnti.
 
-Ecco una roadmap legale e sostenibile per il settore [Notizie e Finanza]:
+Ecco una roadmap legale e sostenibile per il settore **[Notizie e Finanza]**:
 1. API Ufficiali: Utilizza aggregatori di notizie B2B con licenze API commerciali (es. Bloomberg, Reuters API).
 2. Dataset Open Source: Sfrutta i dataset su HuggingFace già purificati e liberi da copyright (es. Wikipedia dumps filtrati).
 3. Dati Sintetici (Pipeline): Addestra un modello "Teacher" più piccolo per simulare report di analisi di mercato a partire da puri input numerici estratti legalmente dai database finanziari pubblici.

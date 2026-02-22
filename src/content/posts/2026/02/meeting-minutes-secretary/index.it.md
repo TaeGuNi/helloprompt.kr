@@ -59,7 +59,7 @@ Usala per ottenere un verbale di altissima qualità. È ideale se combinata con 
 >
 > 1. **Executive Summary:** Riassumi il focus della riunione in massimo 3 punti elenco.
 > 2. **Decisioni e Discussioni:** Elenca chiaramente le "Decisioni Prese" e separa le "Questioni in Sospeso" (argomenti da riprendere in futuro).
-> 3. **Action Items (Fondamentale):** Estrai le attività da svolgere utilizzando esattamente questo formato: `- [Nome Responsabile]: [Azione specifica e misurabile] (Entro: [Data/Ora])`.
+> 3. **Action Items (Fondamentale):** Estrai le attività da svolgere utilizzando esattamente questo formato: `- **[Nome Responsabile]**: [Azione specifica e misurabile] (Entro: [Data/Ora])`.
 > 4. **Tono:** Usa un linguaggio professionale, aziendale (Corporate), oggettivo e conciso.
 >
 > **Testo (Input):**
@@ -96,7 +96,7 @@ Questo prompt è un vero salvavita per i Project Manager e per chi gestisce team
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
 1. **Role Playing (Ruolo):** Definire l'IA come "Segretaria Direzionale Senior" imposta automaticamente un registro linguistico formale e orientato al business.
-2. **Struttura dei Dati (Action Items):** Aver imposto il formato `- [Nome]: [Azione] (Entro: [Data])` forza il modello a cercare attivamente questi tre elementi, riducendo il rischio che ometta informazioni cruciali e costringendolo alla precisione.
+2. **Struttura dei Dati (Action Items):** Aver imposto il formato `- **[Nome]**: [Azione] (Entro: [Data])` forza il modello a cercare attivamente questi tre elementi, riducendo il rischio che ometta informazioni cruciali e costringendolo alla precisione.
 3. **Gestione dell'Ambiguità (Constraints):** La direttiva sul non inventare dati ("[Da definire]") impedisce all'IA di completare frasi mancanti con assunzioni errate, garantendo l'assoluta integrità del verbale.
 
 ---

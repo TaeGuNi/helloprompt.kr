@@ -57,9 +57,9 @@ Use this when you need detailed quality, structured learning, and mobile-friendl
 >
 > **Task:**
 >
-> 1. **[ASCII Diagram]:** Illustrate the structure, architecture, or operating mechanism of this concept using text symbols (`=`, `-`, `|`, `>`, `[]`, etc.). Enclose the diagram in a code block.
-> 2. **[Everyday Analogy]:** Explain the concept by comparing it to a familiar, everyday object or situation that even a middle school student would understand. Use the format "A is exactly like B because...".
-> 3. **[Component Flow]:** Summarize how each part interacts with the others using a step-by-step arrow (`→`) flowchart.
+> 1. \***\*[ASCII Diagram]**:\*\* Illustrate the structure, architecture, or operating mechanism of this concept using text symbols (`=`, `-`, `|`, `>`, `[]`, etc.). Enclose the diagram in a code block.
+> 2. \***\*[Everyday Analogy]**:\*\* Explain the concept by comparing it to a familiar, everyday object or situation that even a middle school student would understand. Use the format "A is exactly like B because...".
+> 3. \***\*[Component Flow]**:\*\* Summarize how each part interacts with the others using a step-by-step arrow (`→`) flowchart.
 >
 > **Constraints:**
 >

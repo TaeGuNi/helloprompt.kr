@@ -115,7 +115,7 @@ Segmentation fault (core dumped) 💥
 컴파일 타임에 모든 위험 요소를 사전 차단 (안전 보장)
 
 ```text
-error[E0382]: borrow of moved value: `s1`
+error**[E0382]**: borrow of moved value: `s1`
   --> src/main.rs:4:28
    |
  2 |     let s1 = String::from("hello");

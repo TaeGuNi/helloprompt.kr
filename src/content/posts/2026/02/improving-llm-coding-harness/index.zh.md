@@ -120,7 +120,7 @@ import json
 from datetime import datetime
 from typing import Dict, Any, List
 
-def extract_and_format_dates(data: Dict[str, Any]) -> List[str]:
+def extract_and_format_dates(data: Dict[str, Any]) -> List**[str]**:
     """
     递归提取JSON数据中的所有日期并转换为ISO标准格式。
     """

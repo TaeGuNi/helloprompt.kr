@@ -115,8 +115,8 @@ Make a strong fire sword.
 ```text
 - **Name:** The Obsidian Emberblade
 - **Appearance:** Forged from a single, jagged shard of black volcanic glass. The core of the blade pulses with a faint, dying orange glow, as if a star is trapped within. When swung, it leaves a trail of scorching ash in the air.
-- **Ability [Ignition Protocol]:** Striking an enemy sears their flesh, inflicting stacking burn damage that ignores standard armor. If the target drops below 10% HP, the blade causes them to violently combust.
-- **Curse [The Smoldering Toll]:** The weapon feeds on the wielder's vitality to sustain its heat. For every minute the blade is drawn in combat, the wielder suffers a cumulative, unmitigable burn damage to themselves. If sheathed while "hungry" (having not claimed a life), it severely burns the wielder's hand, inflicting a temporary debuff to dexterity.
+- **Ability **[Ignition Protocol]**:** Striking an enemy sears their flesh, inflicting stacking burn damage that ignores standard armor. If the target drops below 10% HP, the blade causes them to violently combust.
+- **Curse **[The Smoldering Toll]**:** The weapon feeds on the wielder's vitality to sustain its heat. For every minute the blade is drawn in combat, the wielder suffers a cumulative, unmitigable burn damage to themselves. If sheathed while "hungry" (having not claimed a life), it severely burns the wielder's hand, inflicting a temporary debuff to dexterity.
 - **Lore:** Originally crafted to slay a rogue Frost Wyrm, the blade was left in the primordial forge too long, absorbing the soul of its overly ambitious creator. It now seeks to reduce everything—including its wielder—to a pile of fine gray ash.
 ```
 

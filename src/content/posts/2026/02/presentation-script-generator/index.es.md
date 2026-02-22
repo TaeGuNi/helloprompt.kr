@@ -117,7 +117,7 @@ Diapositiva 2: El nuevo competidor 'TechX' ha lanzado un producto más barato. N
 **Diapositiva 1:**
 "Buenos días a todos. Si miramos directamente a los números de este trimestre, hay un dato que nos salta a la vista: hemos experimentado una caída del 15% en las ventas durante el Q3. [Pausa breve] Sé que no es la cifra que esperábamos ver hoy. Pero, ¿qué está causando exactamente esta desviación?"
 
-**[Transición a Diapositiva 2]:**
+****[Transición a Diapositiva 2]**:**
 "La respuesta no está en lo que estamos haciendo mal internamente, sino en lo que está pasando fuera de nuestras oficinas. Pasemos a la siguiente diapositiva."
 
 **Diapositiva 2:**

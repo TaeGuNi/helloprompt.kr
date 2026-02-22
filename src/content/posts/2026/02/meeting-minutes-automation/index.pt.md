@@ -62,11 +62,11 @@ A estrutura definitiva quando você precisa compartilhar a ata oficial com a dir
 >
 > **Tarefa (Task):** Analise a transcrição fornecida e gere um documento contendo estritamente as seguintes seções:
 >
-> 1. **[Visão Geral]:** Data da reunião, Participantes (identifique pelos nomes citados) e o Tópico Principal.
-> 2. **[Decisões Chave]:** Uma lista numerada com os acordos e decisões finais confirmadas. (Esta é a parte mais crítica).
-> 3. **[Action Items - Próximos Passos]:** Crie uma tabela Markdown contendo as colunas: "Responsável", "Tarefa (O que fazer)" e "Prazo (Quando)". Se o prazo não foi dito, sugira "A definir".
-> 4. **[Tópicos em Aberto]:** Questões importantes que foram debatidas, mas não chegaram a uma conclusão.
-> 5. **[Rascunho de E-mail]:** Escreva um e-mail profissional e cordial de "Follow-up e Compartilhamento de Ata" destinado à equipe, resumindo os pontos acima de forma executiva para que eu possa apenas copiar, colar e enviar.
+> 1. \***\*[Visão Geral]**:\*\* Data da reunião, Participantes (identifique pelos nomes citados) e o Tópico Principal.
+> 2. \***\*[Decisões Chave]**:\*\* Uma lista numerada com os acordos e decisões finais confirmadas. (Esta é a parte mais crítica).
+> 3. \***\*[Action Items - Próximos Passos]**:\*\* Crie uma tabela Markdown contendo as colunas: "Responsável", "Tarefa (O que fazer)" e "Prazo (Quando)". Se o prazo não foi dito, sugira "A definir".
+> 4. \***\*[Tópicos em Aberto]**:\*\* Questões importantes que foram debatidas, mas não chegaram a uma conclusão.
+> 5. \***\*[Rascunho de E-mail]**:\*\* Escreva um e-mail profissional e cordial de "Follow-up e Compartilhamento de Ata" destinado à equipe, resumindo os pontos acima de forma executiva para que eu possa apenas copiar, colar e enviar.
 >
 > **Restrições (Constraints):**
 >

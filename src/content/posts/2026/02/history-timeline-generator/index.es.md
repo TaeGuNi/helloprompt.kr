@@ -57,9 +57,9 @@ La historia no se trata de puntos aislados, sino de una línea continua. Si te l
 >
 > **Solicitud (Task):**
 >
-> 1. **[Creación de la Línea de Tiempo]:** Selecciona los 10 eventos más críticos del período y organízalos en una tabla Markdown con las siguientes columnas: [Año | Nombre del Evento | Resumen Clave | Nota/Impacto].
-> 2. **[Relación Causal]:** Redacta un resumen narrativo que conecte estos eventos usando flechas (→) para ilustrar claramente la causa y el efecto. (Ejemplo: Evento A → Desencadenó B).
-> 3. **[Contexto Global Simultáneo]:** (Opcional) Menciona brevemente al menos 2 eventos históricos cruciales que estaban ocurriendo en otras partes del mundo (ej. Europa, Asia, América) durante el mismo período para dar una perspectiva tridimensional.
+> 1. \***\*[Creación de la Línea de Tiempo]**:\*\* Selecciona los 10 eventos más críticos del período y organízalos en una tabla Markdown con las siguientes columnas: [Año | Nombre del Evento | Resumen Clave | Nota/Impacto].
+> 2. \***\*[Relación Causal]**:\*\* Redacta un resumen narrativo que conecte estos eventos usando flechas (→) para ilustrar claramente la causa y el efecto. (Ejemplo: Evento A → Desencadenó B).
+> 3. \***\*[Contexto Global Simultáneo]**:\*\* (Opcional) Menciona brevemente al menos 2 eventos históricos cruciales que estaban ocurriendo en otras partes del mundo (ej. Europa, Asia, América) durante el mismo período para dar una perspectiva tridimensional.
 >
 > **Restricciones (Constraints):**
 >

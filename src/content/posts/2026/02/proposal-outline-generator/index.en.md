@@ -131,7 +131,7 @@ Unlike traditional agencies that use stock photos, our team consists of speciali
 
 ## 4. Building Trust (Social Proof Required)
 *Recommendation: Insert a case study here.*
-> "[Insert Case Study]: How we helped [Local Cafe Name] increase weekend table bookings by 40% in 60 days using short-form video."
+> "**[Insert Case Study]**: How we helped [Local Cafe Name] increase weekend table bookings by 40% in 60 days using short-form video."
 ```
 
 ---

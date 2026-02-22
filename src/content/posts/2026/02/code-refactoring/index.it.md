@@ -57,10 +57,10 @@ Utilizzala per refactoring complessi dove è fondamentale capire la logica e il 
 >
 > **Richiesta (Task):**
 >
-> 1. **[Senso del Naming]:** Rinomina variabili e funzioni in modo che siano semanticamente autoesplicativi (es. da `a` a `userAge`).
-> 2. **[Miglioramento Strutturale]:** Suddividi le funzioni monolitiche delegando le responsabilità specifiche (Single Responsibility Principle) e consolida la logica duplicata.
-> 3. **[Modernizzazione]:** Applica i costrutti sintattici più moderni e idiomatici del linguaggio di programmazione (es. ES6+, Python 3.10+).
-> 4. **[Before & After]:** Genera un confronto dettagliato tra il vecchio e il nuovo codice, motivando chiaramente le scelte architetturali adottate.
+> 1. \***\*[Senso del Naming]**:\*\* Rinomina variabili e funzioni in modo che siano semanticamente autoesplicativi (es. da `a` a `userAge`).
+> 2. \***\*[Miglioramento Strutturale]**:\*\* Suddividi le funzioni monolitiche delegando le responsabilità specifiche (Single Responsibility Principle) e consolida la logica duplicata.
+> 3. \***\*[Modernizzazione]**:\*\* Applica i costrutti sintattici più moderni e idiomatici del linguaggio di programmazione (es. ES6+, Python 3.10+).
+> 4. \***\*[Before & After]**:\*\* Genera un confronto dettagliato tra il vecchio e il nuovo codice, motivando chiaramente le scelte architetturali adottate.
 >
 > **Vincoli (Constraints):**
 >

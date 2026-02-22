@@ -54,9 +54,9 @@ Pasamos, en promedio, el 80% de nuestro tiempo de desarrollo depurando código. 
 >
 > **Tarea (Task):**
 >
-> 1. **[Análisis de la Causa Raíz]:** Interpreta el mensaje de error y señala la línea o bloque exacto que está fallando. Explica si es un error de lógica, sintaxis o concurrencia.
-> 2. **[Solución Optimizada]:** Proporciona el código corregido. Comenta claramente las líneas que han sido modificadas para que pueda entender el cambio.
-> 3. **[Prevención y Código Defensivo]:** Sugiéreme buenas prácticas, manejo de excepciones o aserciones que debería implementar para evitar que este error se repita en el futuro.
+> 1. \***\*[Análisis de la Causa Raíz]**:\*\* Interpreta el mensaje de error y señala la línea o bloque exacto que está fallando. Explica si es un error de lógica, sintaxis o concurrencia.
+> 2. \***\*[Solución Optimizada]**:\*\* Proporciona el código corregido. Comenta claramente las líneas que han sido modificadas para que pueda entender el cambio.
+> 3. \***\*[Prevención y Código Defensivo]**:\*\* Sugiéreme buenas prácticas, manejo de excepciones o aserciones que debería implementar para evitar que este error se repita en el futuro.
 >
 > **Restricciones (Constraints):**
 >

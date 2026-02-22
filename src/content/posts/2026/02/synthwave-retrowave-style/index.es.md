@@ -60,10 +60,10 @@ Dominar este prompt te permitirá generar fondos de pantalla, portadas de álbum
 > **Solicitud (Task):**
 > Utiliza exactamente este prompt en inglés para obtener el mejor resultado en generadores de imágenes:
 >
-> `[Subject]: A sleek 80s sports car (like a DeLorean or Countach) driving on an endless glowing digital neon grid highway towards a massive, segmented retro sunset.`
-> `[Background]: Silhouette of palm trees against a vibrant purple and magenta gradient sky, distant retro-futuristic synthwave city skyline in cyan.`
-> `[Style]: Synthwave digital art, retrowave aesthetic, outrun style, highly detailed, 8K resolution, lo-fi VHS glitch effect subtle overlay, glowing neon lighting.`
-> `[Parameters]: --ar 16:9 --v 6.0 --stylize 500 --c 10`
+> `**[Subject]**: A sleek 80s sports car (like a DeLorean or Countach) driving on an endless glowing digital neon grid highway towards a massive, segmented retro sunset.`
+> `**[Background]**: Silhouette of palm trees against a vibrant purple and magenta gradient sky, distant retro-futuristic synthwave city skyline in cyan.`
+> `**[Style]**: Synthwave digital art, retrowave aesthetic, outrun style, highly detailed, 8K resolution, lo-fi VHS glitch effect subtle overlay, glowing neon lighting.`
+> `**[Parameters]**: --ar 16:9 --v 6.0 --stylize 500 --c 10`
 >
 > **Restricciones (Constraints):**
 >

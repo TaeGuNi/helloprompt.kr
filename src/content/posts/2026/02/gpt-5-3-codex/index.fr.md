@@ -123,7 +123,7 @@ def process_data(items):
 
 ```python
 # Optimisé, lisible et performant
-def process_data(items: list[Item]) -> list[Data]:
+def process_data(items: list[Item]) -> list**[Data]**:
     """Récupère les données pour les éléments actifs en filtrant les valeurs nulles."""
     active_ids = [item.id for item in items if item and item.status == 'active']
 

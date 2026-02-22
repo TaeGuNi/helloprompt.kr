@@ -61,9 +61,9 @@ Usala per un'analisi approfondita, dettagliata e ricca di sfumature psicologiche
 > **Richiesta (Instructions):**
 >
 > 1. Simula l'estrazione casuale di 3 carte corrispondenti a **Passato / Presente / Futuro**.
-> 2. **[Nome della Carta]:** Indica chiaramente quale carta è uscita (specificando se è Dritta o Rovesciata).
-> 3. **[Interpretazione]:** Interpreta il significato della carta con calore, perspicacia e saggezza, collegandola direttamente alla mia domanda.
-> 4. **[Consiglio Finale]:** Riassumi in una singola, potente frase la mentalità che dovrei adottare da ora in poi.
+> 2. \***\*[Nome della Carta]**:\*\* Indica chiaramente quale carta è uscita (specificando se è Dritta o Rovesciata).
+> 3. \***\*[Interpretazione]**:\*\* Interpreta il significato della carta con calore, perspicacia e saggezza, collegandola direttamente alla mia domanda.
+> 4. \***\*[Consiglio Finale]**:\*\* Riassumi in una singola, potente frase la mentalità che dovrei adottare da ora in poi.
 >
 > **Vincoli (Constraints):**
 >

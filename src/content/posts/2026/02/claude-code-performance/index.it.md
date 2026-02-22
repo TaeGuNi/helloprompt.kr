@@ -157,7 +157,7 @@ export const loginUser = async (req, res) => {
       user: { id: user._id, email: user.email }
     });
   } catch (error) {
-    console.error("[Auth Error]:", error);
+    console.error("**[Auth Error]**:", error);
     return res.status(500).json({ error: "Errore interno del server." });
   }
 };

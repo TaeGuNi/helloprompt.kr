@@ -57,9 +57,9 @@ Use this when you need high-quality, exam-ready flashcards formatted precisely f
 >
 > **Task:**
 >
-> 1. **[Q&A Extraction]:** Extract vital definitions, dates, formulas, and causal relationships from the text. Formulate clear 'Questions' and accurate 'Answers'.
-> 2. **[Cloze Deletion]:** Do not limit yourself to basic "What is X?" questions. Include fill-in-the-blank (cloze) formats, such as "X caused Y due to [ ]."
-> 3. **[Formatting]:** Output the results strictly in a `Question;Answer` format (CSV style) to allow for seamless bulk importing. Use a semicolon (`;`) as the delimiter.
+> 1. \***\*[Q&A Extraction]**:\*\* Extract vital definitions, dates, formulas, and causal relationships from the text. Formulate clear 'Questions' and accurate 'Answers'.
+> 2. \***\*[Cloze Deletion]**:\*\* Do not limit yourself to basic "What is X?" questions. Include fill-in-the-blank (cloze) formats, such as "X caused Y due to [ ]."
+> 3. \***\*[Formatting]**:\*\* Output the results strictly in a `Question;Answer` format (CSV style) to allow for seamless bulk importing. Use a semicolon (`;`) as the delimiter.
 >
 > **Constraints:**
 >

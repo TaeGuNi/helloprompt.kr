@@ -106,7 +106,7 @@ El verdadero poder de Python 3.14 radica en su compilador JIT de Nivel 3. Aunque
 def procesar_respuesta_api(respuesta: dict):
     if "estado" in respuesta and respuesta["estado"] == "exito":
         datos = respuesta.get("datos", {})
-        if "usuario" in datos and "email" in datos["usuario"]:
+        if "usuario" in datos and "email" in datos**["usuario"]**:
             return datos["usuario"]["email"]
     return "Email no encontrado"
 ```

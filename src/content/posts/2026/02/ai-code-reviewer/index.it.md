@@ -132,7 +132,7 @@ Cosa succederebbe se passassi una stringa o una lista alla funzione? Il programm
 
 from typing import Union
 
-def calculate_square(number: Union[int, float]) -> Union[int, float]:
+def calculate_square(number: Union[int, float]) -> Union**[int, float]**:
     """
     Calcola e restituisce il quadrato del numero fornito.
 

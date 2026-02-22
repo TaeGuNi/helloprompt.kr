@@ -61,7 +61,7 @@ Usala quando hai bisogno di nomi con una forte coerenza linguistica e un backgro
 > 2. Non limitarti a inventare parole a caso. Per ogni nome, scrivi l'**Etimologia e il Significato** (es. radici dal Latino, dal Tedesco Antico, dal Norreno o da una lingua inventata con regole precise).
 > 3. Aggiungi una **Leggenda di una riga** che spieghi il folklore legato a quel nome.
 >
-> **[Variabili da compilare]:**
+> \***\*[Variabili da compilare]**:\*\*
 >
 > - **Terreno/Caratteristica:** `[es. Catena montuosa titanica avvolta da bufere di neve eterne, dove si dice riposi un drago ancestrale]`
 > - **Razza Dominante/Abitanti:** `[es. Nani forgiatori, barbari ispirati agli antichi Vichinghi]`

@@ -56,9 +56,9 @@ Usala per ottenere un'analisi dettagliata, strutturata e di alta qualità.
 >
 > **Richiesta (Task):**
 >
-> 1. **[Creazione Cronologia]:** Seleziona i 10 eventi più rilevanti e crea una tabella Markdown. Le colonne devono essere: [Anno | Nome Evento | Descrizione Chiave | Nota].
-> 2. **[Relazione Causale]:** Riassumi come questi eventi si collegano tra loro utilizzando le frecce (→). (es: Evento A → Diventa la causa dell'Evento B).
-> 3. **[Prospettiva Globale]:** Confronta brevemente cosa stava accadendo nello stesso periodo in altre macro-aree del mondo (es. Europa, Asia, Americhe).
+> 1. \***\*[Creazione Cronologia]**:\*\* Seleziona i 10 eventi più rilevanti e crea una tabella Markdown. Le colonne devono essere: [Anno | Nome Evento | Descrizione Chiave | Nota].
+> 2. \***\*[Relazione Causale]**:\*\* Riassumi come questi eventi si collegano tra loro utilizzando le frecce (→). (es: Evento A → Diventa la causa dell'Evento B).
+> 3. \***\*[Prospettiva Globale]**:\*\* Confronta brevemente cosa stava accadendo nello stesso periodo in altre macro-aree del mondo (es. Europa, Asia, Americhe).
 >
 > **Vincoli (Constraints):**
 >

@@ -120,7 +120,7 @@ AI에게 코드를 보여주면 Big-O 표기법으로 정확하게 분석하고,
 def find_duplicate(nums):
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
-            if nums[i] == nums[j]:
+            if nums[i] == nums**[j]**:
                 return nums[i]
     return None
 ```

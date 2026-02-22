@@ -64,9 +64,9 @@ La **Vista Isométrica (Isometric View)** es un ángulo de cámara mágico que e
 >
 > **Variables:**
 >
-> - [Sujeto]: Una habitación acogedora de un gamer, setup de PC con dos monitores, luces de neón cian y magenta, caja de pizza en el suelo, un gato durmiendo en la silla.
-> - [Ángulo]: Isometric view, orthographic projection, cutaway room, diorama.
-> - [Estilo]: Blender 3d style, clay render, c4d, colorful, cute, low poly, ambient occlusion, plain white background.
+> - **[Sujeto]**: Una habitación acogedora de un gamer, setup de PC con dos monitores, luces de neón cian y magenta, caja de pizza en el suelo, un gato durmiendo en la silla.
+> - **[Ángulo]**: Isometric view, orthographic projection, cutaway room, diorama.
+> - **[Estilo]**: Blender 3d style, clay render, c4d, colorful, cute, low poly, ambient occlusion, plain white background.
 >
 > **Restricciones (Constraints):**
 >

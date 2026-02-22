@@ -74,7 +74,7 @@ Nutzen Sie diese detaillierte Vorlage für perfekt formatierte und professionell
 >
 > - Erfinde keine Aufgaben oder Probleme, die nicht in meinen Notizen erwähnt wurden. Halte dich streng an meine Fakten (Schutz vor Halluzinationen).
 >
-> **[Meine Notizen]:**
+> \***\*[Meine Notizen]**:\*\*
 > (Füge hier deine unstrukturierten Stichpunkte ein)
 
 ---

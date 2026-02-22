@@ -59,9 +59,9 @@ Per chi cerca una qualità letteraria superiore e sfumature perfette per il prop
 >
 > 1. Partendo dalla **[Frase di Input]**, genera 3 diverse versioni descrittive, mobilitando i **Cinque Sensi (Vista, Udito, Olfatto, Tatto, Gusto)**.
 > 2. Ogni versione deve riflettere una specifica atmosfera tra le **[Opzioni Atmosfera]** elencate di seguito.
-> 3. **[Frase di Input]:** `[Es: Sono entrato in una vecchia casa abbandonata. C'era molta polvere e un cattivo odore.]`
+> 3. \***\*[Frase di Input]**:\*\* `[Es: Sono entrato in una vecchia casa abbandonata. C'era molta polvere e un cattivo odore.]`
 >
-> **[Opzioni Atmosfera]:**
+> \***\*[Opzioni Atmosfera]**:\*\*
 >
 > - Versione 1 (Horror/Thriller): Tensione palpabile, minaccia, disagio viscerale.
 > - Versione 2 (Malinconico/Nostalgico): Segni dello scorrere del tempo, solitudine, ricordi sbiaditi.

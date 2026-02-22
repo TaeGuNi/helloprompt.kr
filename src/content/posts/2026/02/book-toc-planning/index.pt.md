@@ -64,7 +64,7 @@ Use quando precisar de uma estrutura detalhada, comercialmente viável e pronta 
 >
 > **Variáveis:**
 >
-> - **[O tema principal do seu livro]:** `[Ex: A jornada de sucesso financeiro de um profissional comum de 30 anos (Sem ações, sem imóveis, apenas poupança e renda extra estratégica)]`
+> - \***\*[O tema principal do seu livro]**:\*\* `[Ex: A jornada de sucesso financeiro de um profissional comum de 30 anos (Sem ações, sem imóveis, apenas poupança e renda extra estratégica)]`
 >
 > **Restrições (Constraints):**
 >

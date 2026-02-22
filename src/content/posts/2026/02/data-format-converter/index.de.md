@@ -65,9 +65,9 @@ Nutze diesen Prompt, wenn du verschachtelte Daten umstrukturieren, Felder umbene
 >
 > **Variablen:**
 >
-> - **[Quellformat]:** `[z.B. CSV mit Semikolon-Trennung]`
-> - **[Zielformat]:** `[z.B. PostgreSQL INSERT Statements für die Tabelle 'users']`
-> - **[Konvertierungsregeln]:**
+> - \***\*[Quellformat]**:\*\* `[z.B. CSV mit Semikolon-Trennung]`
+> - \***\*[Zielformat]**:\*\* `[z.B. PostgreSQL INSERT Statements für die Tabelle 'users']`
+> - \***\*[Konvertierungsregeln]**:\*\*
 >   1. `[z.B. Ändere Spalte 'Benutzername' zu 'username']`
 >   2. `[z.B. Wandle das Datum 'TT.MM.JJJJ' in das ISO 8601 Format 'JJJJ-MM-TT' um]`
 >   3. `[z.B. Ignoriere die Spalte 'GeheimesPasswort' vollständig]`

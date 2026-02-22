@@ -109,8 +109,8 @@ _(Risultato: Un'immagine piatta dove l'armatura del samurai è perfettamente ill
 ### ✅ Dopo (Applicando la Versione Pro)
 
 ```text
-[Soggetto]: Un samurai solitario con katana estratta.
-[Sfondo]: Enorme luna di sangue.
+**[Soggetto]**: Un samurai solitario con katana estratta.
+**[Sfondo]**: Enorme luna di sangue.
 (Applicando i modificatori di illuminazione e stile della Versione Pro)
 ```
 

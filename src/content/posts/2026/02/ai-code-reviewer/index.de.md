@@ -129,7 +129,7 @@ def s(x):
 > ```python
 > from typing import Union
 >
-> def calculate_square(number: Union[int, float]) -> Union[int, float]:
+> def calculate_square(number: Union[int, float]) -> Union**[int, float]**:
 >     """
 >     Berechnet das Quadrat einer gegebenen Zahl.
 >

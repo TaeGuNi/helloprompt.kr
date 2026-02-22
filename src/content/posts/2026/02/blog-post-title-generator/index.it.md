@@ -105,8 +105,8 @@ _Un consiglio pratico:_ Se il risultato del "Tipo C (Avversione alla perdita)" s
 
 ### ❌ Prima (Input)
 
-- `[Argomento/Parola chiave]:` "Come studiare l'inglese"
-- `[Riassunto]:` "Metodi per migliorare l'ascolto guardando le serie TV"
+- `**[Argomento/Parola chiave]**:` "Come studiare l'inglese"
+- `**[Riassunto]**:` "Metodi per migliorare l'ascolto guardando le serie TV"
 
 ### ✅ Dopo (Risultato)
 

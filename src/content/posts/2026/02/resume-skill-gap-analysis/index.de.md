@@ -64,8 +64,8 @@ Nutzen Sie diese Variante für maximale Präzision und handlungsorientierte Erge
 >
 > **Daten (Input):**
 >
-> - **[Ziel-Stellenbeschreibung]:** (Fügen Sie hier den Text der Stellenausschreibung ein)
-> - **[Aktueller Lebenslauf]:** (Fügen Sie hier den Text Ihres Lebenslaufs ein)
+> - \***\*[Ziel-Stellenbeschreibung]**:\*\* (Fügen Sie hier den Text der Stellenausschreibung ein)
+> - \***\*[Aktueller Lebenslauf]**:\*\* (Fügen Sie hier den Text Ihres Lebenslaufs ein)
 >
 > **Einschränkungen (Constraints):**
 >

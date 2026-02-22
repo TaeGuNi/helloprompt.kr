@@ -59,9 +59,9 @@ Verwenden Sie dies, wenn Sie eine detaillierte und tiefgründige Deutung wünsch
 >
 > 1. Bitte ziehe zufällig drei virtuelle Tarotkarten, die für **Vergangenheit**, **Gegenwart** und **Zukunft** stehen.
 > 2. Meine aktuelle Frage lautet: `[z. B.: Werde ich erfolgreich sein, wenn ich meinem Schwarm meine Gefühle gestehe?]`
-> 3. **[Kartenname]:** Nenne die gezogene Karte (inklusive der Position: Aufrecht oder Umgekehrt).
-> 4. **[Interpretation]:** Deute die Bedeutung jeder Karte warmherzig und tiefgründig in Bezug auf meine spezifische Frage.
-> 5. **[Rat]:** Fasse in einem abschließenden Satz zusammen, welche positive innere Einstellung ich aus dieser Lesung mitnehmen sollte.
+> 3. \***\*[Kartenname]**:\*\* Nenne die gezogene Karte (inklusive der Position: Aufrecht oder Umgekehrt).
+> 4. \***\*[Interpretation]**:\*\* Deute die Bedeutung jeder Karte warmherzig und tiefgründig in Bezug auf meine spezifische Frage.
+> 5. \***\*[Rat]**:\*\* Fasse in einem abschließenden Satz zusammen, welche positive innere Einstellung ich aus dieser Lesung mitnehmen sollte.
 >
 > **Einschränkungen (Constraints):**
 >

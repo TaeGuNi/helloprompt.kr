@@ -57,10 +57,10 @@ Use esta versão para um estudo profundo de _shadowing_ e domínio do ritmo nati
 >
 > **Tarefa (Task):**
 >
-> 1. **[IPA]:** Forneça a transcrição exata no Alfabeto Fonético Internacional (IPA) para o sotaque americano padrão.
-> 2. **[Leitura Simulada]:** Escreva como a frase realmente soa na fala fluente, utilizando aproximações intuitivas. Destaque as sílabas tônicas (mais fortes) em **negrito**.
-> 3. **[Ritmo & Ênfase]:** Mapeie visualmente a intensidade da frase usando emojis (🔴 para sílabas fortes/tônicas, ⚪️ para sílabas fracas/átonas).
-> 4. **[Dicas de Conexão (Linking Sounds)]:** Explique especificamente o que acontece quando as palavras se juntam (ex: Flap T, sons omitidos, consoantes fundidas).
+> 1. \***\*[IPA]**:\*\* Forneça a transcrição exata no Alfabeto Fonético Internacional (IPA) para o sotaque americano padrão.
+> 2. \***\*[Leitura Simulada]**:** Escreva como a frase realmente soa na fala fluente, utilizando aproximações intuitivas. Destaque as sílabas tônicas (mais fortes) em **negrito\*\*.
+> 3. \***\*[Ritmo & Ênfase]**:\*\* Mapeie visualmente a intensidade da frase usando emojis (🔴 para sílabas fortes/tônicas, ⚪️ para sílabas fracas/átonas).
+> 4. \***\*[Dicas de Conexão (Linking Sounds)]**:\*\* Explique especificamente o que acontece quando as palavras se juntam (ex: Flap T, sons omitidos, consoantes fundidas).
 >
 > **Restrições (Constraints):**
 >

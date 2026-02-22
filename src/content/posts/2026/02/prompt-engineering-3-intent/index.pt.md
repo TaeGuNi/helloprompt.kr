@@ -96,7 +96,7 @@ Quando você fornece uma diretriz hiper-rígida (como no Prompt 2.0), você não
 ### ❌ Antes (Abordagem 2.0 - 5 minutos de elaboração)
 
 ```text
-[Usuário gastando minutos estruturando o pensamento]:
+**[Usuário gastando minutos estruturando o pensamento]**:
 "Aja como um analista de dados sênior. Analise esta planilha CSV de vendas trimestrais.
 Identifique os 3 produtos mais vendidos e os 3 com pior desempenho.
 Gere um relatório executivo em formato de bullet points.
@@ -106,10 +106,10 @@ Use um tom estritamente profissional e objetivo."
 ### ✅ Depois (Abordagem 3.0 - 10 segundos de elaboração)
 
 ```text
-[Usuário anexa o CSV e digita imediatamente]:
+**[Usuário anexa o CSV e digita imediatamente]**:
 "Resuma o que importou nas vendas desse tri. Quais foram os top 3 e os piores?"
 
-[Resultado da IA]:
+**[Resultado da IA]**:
 (A IA analisa os dados, cria a estrutura mentalmente, entende o contexto comercial padrão para "resumo trimestral" e entrega o relatório impecável, superando o prompt engessado).
 ```
 

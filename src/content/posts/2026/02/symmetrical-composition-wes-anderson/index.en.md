@@ -62,11 +62,11 @@ Use this when you demand gallery-ready, pixel-perfect symmetry and detailed atmo
 >
 > **Prompt:**
 >
-> **[Subject]:** The grand lobby of a vintage pink hotel, a receptionist standing exactly in the middle behind the front desk.
+> \***\*[Subject]**:\*\* The grand lobby of a vintage pink hotel, a receptionist standing exactly in the middle behind the front desk.
 >
-> **[Composition]:** Perfectly symmetrical composition, centered shot, mirror image balance, front view, one-point perspective.
+> \***\*[Composition]**:\*\* Perfectly symmetrical composition, centered shot, mirror image balance, front view, one-point perspective.
 >
-> **[Style]:** Wes Anderson style, pastel colors, whimsical, flat lighting, highly detailed, 8k resolution, cinematic lighting.
+> \***\*[Style]**:\*\* Wes Anderson style, pastel colors, whimsical, flat lighting, highly detailed, 8k resolution, cinematic lighting.
 >
 > **[Parameters] (for Midjourney):** --ar 16:9 --v 6.0 --stylize 250 --chaos 0
 >

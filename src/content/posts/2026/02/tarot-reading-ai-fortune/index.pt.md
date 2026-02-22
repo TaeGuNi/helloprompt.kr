@@ -58,9 +58,9 @@ Use esta versão para obter uma leitura profunda, detalhada e com conselhos acio
 > **Tarefa (Task):**
 >
 > 1. Simule o sorteio aleatório de 3 cartas, representando **Passado, Presente e Futuro**.
-> 2. **[Nome da Carta]:** Revele claramente qual carta foi tirada em cada posição (indicando se está Normal ou Invertida).
-> 3. **[Interpretação]:** Interprete o significado profundo de cada carta, conectando os símbolos de forma empática e perspicaz com a minha pergunta.
-> 4. **[Conselho de Ouro]:** Sintetize a leitura em uma única frase poderosa de aconselhamento, indicando a melhor mentalidade a ser adotada.
+> 2. \***\*[Nome da Carta]**:\*\* Revele claramente qual carta foi tirada em cada posição (indicando se está Normal ou Invertida).
+> 3. \***\*[Interpretação]**:\*\* Interprete o significado profundo de cada carta, conectando os símbolos de forma empática e perspicaz com a minha pergunta.
+> 4. \***\*[Conselho de Ouro]**:\*\* Sintetize a leitura em uma única frase poderosa de aconselhamento, indicando a melhor mentalidade a ser adotada.
 >
 > **Restrições (Constraints):**
 >

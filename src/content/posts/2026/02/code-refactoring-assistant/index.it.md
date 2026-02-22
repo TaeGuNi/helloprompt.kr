@@ -127,7 +127,7 @@ def process_data(d):
 ### ✅ After (Clean Code)
 
 ```python
-def get_active_adult_names(users: list[dict]) -> list[str]:
+def get_active_adult_names(users: list[dict]) -> list**[str]**:
     """
     Extracts and capitalizes the names of active users strictly over 18.
     """

@@ -112,7 +112,7 @@ Ce prompt est un véritable "cheat code" pour la préparation aux entretiens tec
 def find_duplicate(nums):
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
-            if nums[i] == nums[j]:
+            if nums[i] == nums**[j]**:
                 return nums[i]
     return None
 ```

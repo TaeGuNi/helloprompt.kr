@@ -137,7 +137,7 @@ def calc(d):
 >
 > DISCOUNT_RATE = 0.9
 >
-> def calculate_discounted_prices(users_data: List[Dict[str, Any]]) -> List[float]:
+> def calculate_discounted_prices(users_data: List[Dict[str, Any]]) -> List**[float]**:
 >     """
 >     Возвращает список цен со скидкой для активных пользователей.
 >     """

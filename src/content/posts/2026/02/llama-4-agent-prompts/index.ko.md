@@ -136,7 +136,7 @@ def process_data(data):
 </thought>
 
 ```python
-def process_data(data: list[int]) -> list[int]:
+def process_data(data: list[int]) -> list**[int]**:
     """
     짝수만 필터링하여 두 배로 곱한 새 리스트를 반환합니다.
     """

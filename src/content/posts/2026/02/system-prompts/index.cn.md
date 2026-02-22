@@ -71,8 +71,8 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 >
 >   <dynamic_context>
 >     <!-- 此处将由系统自动注入用户的历史偏好或项目特定的上下文 -->
->     [User_Preference_Level]: [Expert]
->     [Current_Framework]: [FastAPI]
+>     **[User_Preference_Level]**: [Expert]
+>     **[Current_Framework]**: [FastAPI]
 >   </dynamic_context>
 >
 >   <output_format>

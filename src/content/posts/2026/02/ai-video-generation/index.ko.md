@@ -68,10 +68,10 @@ tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 >
 > 1. 위 주제를 바탕으로 타겟 AI 툴이 가장 잘 이해할 수 있는 영문 프롬프트를 3가지 앵글 버전(익스트림 클로즈업, 롱샷, 드론샷)으로 작성해줘.
 > 2. 각 프롬프트에는 반드시 다음 연출 요소가 포함되어야 해:
->    - [Camera Movement]: Pan, Zoom, Tracking, Dolly in 등 구체적인 카메라 무빙
->    - [Lighting & Color]: Cinematic, Teal and Orange, Golden Hour 등 시각적 톤앤매너
->    - [Subject Action]: 피사체의 미세한 표정 변화나 동적인 움직임
->    - [Environment]: 배경의 질감, 날씨, 날아다니는 파편이나 연기 등 입자 디테일
+>    - **[Camera Movement]**: Pan, Zoom, Tracking, Dolly in 등 구체적인 카메라 무빙
+>    - **[Lighting & Color]**: Cinematic, Teal and Orange, Golden Hour 등 시각적 톤앤매너
+>    - **[Subject Action]**: 피사체의 미세한 표정 변화나 동적인 움직임
+>    - **[Environment]**: 배경의 질감, 날씨, 날아다니는 파편이나 연기 등 입자 디테일
 >
 > **제약사항 (Constraints):**
 >

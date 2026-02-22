@@ -113,7 +113,7 @@ Potenzielle Revolution:
 1. Molekularbiologie: Extrem schnelle Simulation von Proteinfaltungen zur Medikamentenentwicklung.
 2. Finanzwesen: Echtzeit-Risikoanalyse komplexer globaler Portfolios.
 
-Auswirkung auf [Logistik]: Für aktuelle Routenplanungssysteme bringt dies kurzfristig keine Änderung, da die Hardwarekosten noch zu hoch sind. Mittelfristig könnten jedoch globale Lieferketten in Echtzeit optimiert werden.
+Auswirkung auf **[Logistik]**: Für aktuelle Routenplanungssysteme bringt dies kurzfristig keine Änderung, da die Hardwarekosten noch zu hoch sind. Mittelfristig könnten jedoch globale Lieferketten in Echtzeit optimiert werden.
 ```
 
 ---

@@ -56,9 +56,9 @@ tags: ["Tarot", "Fortuna", "Adivinación", "Consejería", "Pasatiempo"]
 > **Solicitud (Task):**
 >
 > 1. Asume que estás barajando y sacando **3 cartas (Pasado / Presente / Futuro)** de forma aleatoria para mi situación.
-> 2. **[Carta Seleccionada]:** Menciona exactamente qué carta ha salido en cada posición (indicando si está al derecho o invertida).
-> 3. **[Interpretación]:** Analiza el simbolismo de cada carta con profundidad, empatía y sabiduría, conectándolo directamente con mi pregunta.
-> 4. **[Consejo Final]:** Resume en una sola frase poderosa la actitud o mentalidad que debo adoptar a partir de ahora.
+> 2. \***\*[Carta Seleccionada]**:\*\* Menciona exactamente qué carta ha salido en cada posición (indicando si está al derecho o invertida).
+> 3. \***\*[Interpretación]**:\*\* Analiza el simbolismo de cada carta con profundidad, empatía y sabiduría, conectándolo directamente con mi pregunta.
+> 4. \***\*[Consejo Final]**:\*\* Resume en una sola frase poderosa la actitud o mentalidad que debo adoptar a partir de ahora.
 >
 > **Pregunta del Consultante:**
 > `[Escribe aquí tu pregunta, ej.: ¿Debería cambiar de trabajo este año o esperar una mejor oportunidad?]`

@@ -111,7 +111,7 @@ Result: Race conditions, unpredictable database locks, and chaotic, unobservable
 
 ```text
 Place (P1): Payment Received
-Transition (T1) [LLM Evaluates Fraud Risk]: Approved
+Transition (T1) **[LLM Evaluates Fraud Risk]**: Approved
 Place (P2): Ready for Fulfillment
 Result: The LLM only provides the boolean/categorical trigger for T1. The system deterministically moves the token from P1 to P2. Safe, observable, and strictly controlled.
 ```

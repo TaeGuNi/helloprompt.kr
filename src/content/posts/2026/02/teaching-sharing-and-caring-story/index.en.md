@@ -117,7 +117,7 @@ One day, he heard a tiny *knock, knock* at his door...
 
 (Story continues with Totori sharing and feeling a warmth in his heart that no blanket could provide.)
 
-**Question for [Child's Name]:** "If you were Totori, how would you feel when you saw your friends smiling because you shared your acorns?"
+**Question for **[Child's Name]**:** "If you were Totori, how would you feel when you saw your friends smiling because you shared your acorns?"
 ```
 
 ---

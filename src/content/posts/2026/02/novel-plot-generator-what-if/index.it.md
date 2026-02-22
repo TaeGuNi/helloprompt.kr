@@ -118,12 +118,12 @@ Il protagonista ha incrociato la strada del cattivo nel vicolo, ma si è accorto
 ### ✅ Dopo (Output del Prompt)
 
 ```text
-Opzione 1 [Bluff Psicologico]:
+Opzione 1 **[Bluff Psicologico]**:
 E se il protagonista si mettesse a ridere a crepapelle, fingendo di aver attirato il cattivo in una trappola preparata da tempo?
 - Effetto: Tensione altissima, il lettore trattiene il fiato.
 - Rischio: Se il cattivo è descritto come un genio diffidente, potrebbe non cascarci facilmente.
 
-Opzione 2 [La Rivelazione Accidentale]:
+Opzione 2 **[La Rivelazione Accidentale]**:
 E se il cattivo, vedendo il protagonista disarmato, cogliesse l'occasione non per ucciderlo, ma per rivelargli una scomoda verità sul loro mentore comune?
 - Effetto: Capovolgimento di prospettiva, frena l'azione e sposta il focus sul mistero.
 - Rischio: Rischia di trasformarsi in un "infodump" (spiegone) se il dialogo si dilunga troppo.

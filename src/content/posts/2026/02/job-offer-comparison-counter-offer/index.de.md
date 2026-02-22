@@ -59,8 +59,8 @@ Für eine detaillierte, maßgeschneiderte Verhandlungsstrategie inklusive eines 
 > **Kontext (Context):**
 > Ich habe in meinem aktuellen Bewerbungsprozess folgende Angebote erhalten:
 >
-> - **[Firma A]:** Gehalt `[60k]`, inkl. Aktienoptionen, hohe Arbeitsintensität, sehr hohes Renommee.
-> - **[Firma B]:** Gehalt `[55k]`, exzellente Work-Life-Balance, stark wachsendes Startup.
+> - \***\*[Firma A]**:\*\* Gehalt `[60k]`, inkl. Aktienoptionen, hohe Arbeitsintensität, sehr hohes Renommee.
+> - \***\*[Firma B]**:\*\* Gehalt `[55k]`, exzellente Work-Life-Balance, stark wachsendes Startup.
 >
 > **Aufgabe (Task):**
 >

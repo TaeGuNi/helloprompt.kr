@@ -57,10 +57,10 @@ Verwenden Sie diese Version für detailliertes Feedback, Lernnotizen und mutters
 >
 > **Aufgabe (Task):**
 >
-> 1. **[Revidierte Version]:** Präsentiere den Text komplett frei von Grammatik- und Tippfehlern.
-> 2. **[Korrekturnotiz]:** Vergleiche meinen fehlerhaften Teil 1:1 mit der Korrektur und erkläre den **grammatikalischen Grund** so einfach wie möglich (z. B. Subjekt-Prädikat-Kongruenz, falsche Artikel etc.).
-> 3. **[Muttersprachlicher Ausdruck]:** Selbst wenn mein Satz grammatikalisch korrekt ist, schlage bitte 2 alternative Formulierungen vor, die von Muttersprachlern natürlicher und häufiger verwendet werden.
-> 4. **[Bewertung]:** Bewerte meine Schreibfähigkeiten auf einer Skala von 1 bis 10 und gib mir in einem Satz einen konkreten Tipp zur Verbesserung.
+> 1. \***\*[Revidierte Version]**:\*\* Präsentiere den Text komplett frei von Grammatik- und Tippfehlern.
+> 2. \***\*[Korrekturnotiz]**:** Vergleiche meinen fehlerhaften Teil 1:1 mit der Korrektur und erkläre den **grammatikalischen Grund\*\* so einfach wie möglich (z. B. Subjekt-Prädikat-Kongruenz, falsche Artikel etc.).
+> 3. \***\*[Muttersprachlicher Ausdruck]**:\*\* Selbst wenn mein Satz grammatikalisch korrekt ist, schlage bitte 2 alternative Formulierungen vor, die von Muttersprachlern natürlicher und häufiger verwendet werden.
+> 4. \***\*[Bewertung]**:\*\* Bewerte meine Schreibfähigkeiten auf einer Skala von 1 bis 10 und gib mir in einem Satz einen konkreten Tipp zur Verbesserung.
 >
 > **Einschränkungen (Constraints):**
 >

@@ -63,11 +63,11 @@ Ideal para reuniones estratégicas, reportes a la directiva o seguimiento de pro
 >
 > **Tarea (Task):**
 >
-> 1. **[Resumen Ejecutivo]:** Fecha, Asistentes (si se deducen del texto) y Tema principal.
-> 2. **[Decisiones Clave]:** Lista numerada con los acuerdos definitivos. (¡Esto es lo más importante!).
-> 3. **[Action Items]:** Crea una tabla estructurada con "Responsable", "Fecha Límite" y "Tarea".
-> 4. **[Temas Abiertos / Discusiones]:** Puntos importantes que se debatieron pero no llegaron a una conclusión.
-> 5. **[Borrador de Email]:** Redacta un correo profesional y cortés para "Compartir los resultados de la reunión" basado en los puntos anteriores.
+> 1. \***\*[Resumen Ejecutivo]**:\*\* Fecha, Asistentes (si se deducen del texto) y Tema principal.
+> 2. \***\*[Decisiones Clave]**:\*\* Lista numerada con los acuerdos definitivos. (¡Esto es lo más importante!).
+> 3. \***\*[Action Items]**:\*\* Crea una tabla estructurada con "Responsable", "Fecha Límite" y "Tarea".
+> 4. \***\*[Temas Abiertos / Discusiones]**:\*\* Puntos importantes que se debatieron pero no llegaron a una conclusión.
+> 5. \***\*[Borrador de Email]**:\*\* Redacta un correo profesional y cortés para "Compartir los resultados de la reunión" basado en los puntos anteriores.
 >
 > **Restricciones (Constraints):**
 >

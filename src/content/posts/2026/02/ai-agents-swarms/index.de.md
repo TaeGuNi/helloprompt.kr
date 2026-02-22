@@ -108,9 +108,9 @@ Schreibe eine Marketingstrategie für unser neues SaaS-Tool und prüfe sie auf F
 ### ✅ After (Ergebnis durch den Schwarm-Prompt)
 
 ```text
-[Kreativer Stratege]: Schlägt eine aggressive, content-lastige Inbound-Marketing-Kampagne mit täglichen Videos vor.
-[Kritischer Analyst]: Veto. Identifiziert, dass das Budget für Video-Produktion bei unserem 3-Personen-Team zu knapp ist. Schlägt vor, den Fokus auf extrem zielgerichtetes B2B-Cold-Outreach via LinkedIn zu wechseln, was fast kostenlos ist.
-[Orchestrator]: Fasst den Konsens zusammen: "Fokus auf B2B-Outreach via LinkedIn für sofortigen, kosteneffizienten ROI, ergänzt durch lediglich einen High-Quality-Blogpost pro Woche für langfristiges SEO."
+**[Kreativer Stratege]**: Schlägt eine aggressive, content-lastige Inbound-Marketing-Kampagne mit täglichen Videos vor.
+**[Kritischer Analyst]**: Veto. Identifiziert, dass das Budget für Video-Produktion bei unserem 3-Personen-Team zu knapp ist. Schlägt vor, den Fokus auf extrem zielgerichtetes B2B-Cold-Outreach via LinkedIn zu wechseln, was fast kostenlos ist.
+**[Orchestrator]**: Fasst den Konsens zusammen: "Fokus auf B2B-Outreach via LinkedIn für sofortigen, kosteneffizienten ROI, ergänzt durch lediglich einen High-Quality-Blogpost pro Woche für langfristiges SEO."
 
 (Ergebnis: Eine realistische, budgetbewusste, durchdachte und sofort anwendbare Strategie.)
 ```

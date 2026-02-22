@@ -114,7 +114,7 @@ Outcome: The team builds the tool, only to realize months later that it penalize
 ### ✅ After (Using the Pro Prompt)
 
 ```text
-[Product Details]: An AI tool that screens resumes to speed up hiring, trained on 10 years of internal company hiring data.
+**[Product Details]**: An AI tool that screens resumes to speed up hiring, trained on 10 years of internal company hiring data.
 
 [AI Auditor Output]
 - Risk Level: HIGH RISK (Employment & Worker Management).

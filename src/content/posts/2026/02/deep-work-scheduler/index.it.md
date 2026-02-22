@@ -113,14 +113,14 @@ Fammi un piano per lavorare bene alle 5 del mattino.
 ```text
 Ecco il tuo protocollo di Deep Work scientificamente ottimizzato (05:30 - 07:30):
 
-• 05:30 - 05:40 [Rituale di Avvio]:
+• 05:30 - 05:40 **[Rituale di Avvio]**:
   Idratazione immediata (500ml di acqua). Esposizione alla luce naturale o accensione di luci intense. Nessuna email o social media.
 
-• 05:40 - 07:10 [Blocco Ultradiano di 90 Minuti - Focus Assoluto]:
+• 05:40 - 07:10 **[Blocco Ultradiano di 90 Minuti - Focus Assoluto]**:
   Fase di picco cognitivo. Focus esclusivo sulla stesura dell'architettura del codice.
   Metti lo smartphone in un'altra stanza. Utilizza cuffie con rumore bianco.
 
-• 07:10 - 07:30 [Decompressione e Setup per domani]:
+• 07:10 - 07:30 **[Decompressione e Setup per domani]**:
   10 minuti di stretching visivo (guarda lontano fuori dalla finestra per rilassare gli occhi).
   10 minuti per commentare il lavoro svolto e appuntare esattamente da dove ripartire domani.
 ```

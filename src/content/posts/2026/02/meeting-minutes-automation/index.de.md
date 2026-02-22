@@ -62,11 +62,11 @@ Wenn das Protokoll an das gesamte Team oder an das Management geschickt werden m
 >
 > **Aufgabe (Task):**
 >
-> 1. **[Meeting-Überblick]:** Datum, (erkennbare) Teilnehmer und das Hauptthema.
-> 2. **[Kernentscheidungen]:** Eine nummerierte Liste der final beschlossenen Punkte. (Dies ist der wichtigste Teil!)
-> 3. **[Action Items]:** Erstelle eine übersichtliche Markdown-Tabelle mit den Spalten "Wer", "Bis Wann" und "Was genau".
-> 4. **[Offene Punkte / Diskussionen]:** Wichtige Aspekte, die intensiv diskutiert, aber noch nicht final entschieden wurden.
-> 5. **[E-Mail-Entwurf]:** Verfasse eine höfliche, professionelle E-Mail, um die Meeting-Ergebnisse mit dem Team zu teilen, basierend auf den obigen Punkten.
+> 1. \***\*[Meeting-Überblick]**:\*\* Datum, (erkennbare) Teilnehmer und das Hauptthema.
+> 2. \***\*[Kernentscheidungen]**:\*\* Eine nummerierte Liste der final beschlossenen Punkte. (Dies ist der wichtigste Teil!)
+> 3. \***\*[Action Items]**:\*\* Erstelle eine übersichtliche Markdown-Tabelle mit den Spalten "Wer", "Bis Wann" und "Was genau".
+> 4. \***\*[Offene Punkte / Diskussionen]**:\*\* Wichtige Aspekte, die intensiv diskutiert, aber noch nicht final entschieden wurden.
+> 5. \***\*[E-Mail-Entwurf]**:\*\* Verfasse eine höfliche, professionelle E-Mail, um die Meeting-Ergebnisse mit dem Team zu teilen, basierend auf den obigen Punkten.
 >
 > **Einschränkungen (Constraints):**
 >

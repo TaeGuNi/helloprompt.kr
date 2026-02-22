@@ -58,10 +58,10 @@ El código espagueti es el mayor enemigo de la productividad de cualquier desarr
 >
 > **Tarea (Task):**
 >
-> 1. **[Nomenclatura Semántica]:** Cambia los nombres de variables y funciones para que revelen su intención de forma clara e inequívoca (Ej: `a` -> `userAge`).
-> 2. **[Estructura y Modularidad]:** Divide las funciones que hacen demasiadas cosas (SRP) y consolida la lógica duplicada extrayendo métodos (DRY).
-> 3. **[Modernización]:** Aplica la sintaxis más moderna e idiomática del lenguaje (ej. ES6+ en JavaScript, Python 3.10+, etc.) para mejorar el rendimiento y la seguridad.
-> 4. **[Análisis Before & After]:** Proporciona un breve desglose explicando exactamente qué cambiaste y, lo más importante, _por qué_ lo cambiaste basándote en principios de diseño de software.
+> 1. \***\*[Nomenclatura Semántica]**:\*\* Cambia los nombres de variables y funciones para que revelen su intención de forma clara e inequívoca (Ej: `a` -> `userAge`).
+> 2. \***\*[Estructura y Modularidad]**:\*\* Divide las funciones que hacen demasiadas cosas (SRP) y consolida la lógica duplicada extrayendo métodos (DRY).
+> 3. \***\*[Modernización]**:\*\* Aplica la sintaxis más moderna e idiomática del lenguaje (ej. ES6+ en JavaScript, Python 3.10+, etc.) para mejorar el rendimiento y la seguridad.
+> 4. \***\*[Análisis Before & After]**:\*\* Proporciona un breve desglose explicando exactamente qué cambiaste y, lo más importante, _por qué_ lo cambiaste basándote en principios de diseño de software.
 >
 > **Restricciones (Constraints):**
 >

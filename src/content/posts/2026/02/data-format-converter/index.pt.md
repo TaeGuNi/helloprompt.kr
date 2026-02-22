@@ -71,9 +71,9 @@ Use esta versão quando precisar mapear campos específicos, filtrar dados ou ge
 >
 > **Regras de Conversão:**
 >
-> - **[Formato Fonte]:** CSV (separado por vírgulas)
-> - **[Formato Alvo]:** Array de Objetos JSON
-> - **[Regras de Alteração de Campos]:** Renomear 'Nome Completo' para 'fullName', 'Idade' para 'age', 'Profissão' para 'jobTitle'. Excluir o campo 'Endereço'.
+> - \***\*[Formato Fonte]**:\*\* CSV (separado por vírgulas)
+> - \***\*[Formato Alvo]**:\*\* Array de Objetos JSON
+> - \***\*[Regras de Alteração de Campos]**:\*\* Renomear 'Nome Completo' para 'fullName', 'Idade' para 'age', 'Profissão' para 'jobTitle'. Excluir o campo 'Endereço'.
 >
 > **Dados (Data):**
 > `[Cole seus dados brutos aqui]`

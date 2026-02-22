@@ -57,9 +57,9 @@ Use esta versão para estudos aprofundados ou para criar materiais didáticos de
 >
 > **Tarefa (Task):**
 >
-> 1. **[Diagrama ASCII]:** Crie um diagrama estrutural ou de fluxo do princípio de funcionamento usando caracteres de texto (como `=`, `-`, `|`, `>`, `[]`). Coloque este diagrama dentro de um bloco de código.
-> 2. **[Analogia do Mundo Real]:** Explique este conceito comparando-o a situações do nosso cotidiano que qualquer pessoa consiga entender. Use o formato "Isso é como [Analogia]".
-> 3. **[Mapeamento de Relações]:** Resuma como os componentes interagem entre si usando um fluxo lógico de setas (`A → B → C`).
+> 1. \***\*[Diagrama ASCII]**:\*\* Crie um diagrama estrutural ou de fluxo do princípio de funcionamento usando caracteres de texto (como `=`, `-`, `|`, `>`, `[]`). Coloque este diagrama dentro de um bloco de código.
+> 2. \***\*[Analogia do Mundo Real]**:\*\* Explique este conceito comparando-o a situações do nosso cotidiano que qualquer pessoa consiga entender. Use o formato "Isso é como [Analogia]".
+> 3. \***\*[Mapeamento de Relações]**:\*\* Resuma como os componentes interagem entre si usando um fluxo lógico de setas (`A → B → C`).
 >
 > **Restrições (Constraints):**
 >

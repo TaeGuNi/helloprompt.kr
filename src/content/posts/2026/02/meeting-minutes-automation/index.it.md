@@ -62,11 +62,11 @@ Perfetta per rendicontare ai superiori o inviare un follow-up ufficiale a tutto 
 >
 > **Richiesta (Task):**
 >
-> 1. **[Panoramica]:** Indica Data, Partecipanti (se deducibili dal testo) e Argomento principale.
-> 2. **[Decisioni Chiave]:** Fornisci un elenco numerato delle decisioni definitive prese. (Questa è la parte più importante).
-> 3. **[Action Items]:** Crea una tabella markdown con le colonne: "Chi", "Cosa", "Entro Quando".
-> 4. **[Questioni Aperte]:** Elenca i punti importanti discussi su cui non si è raggiunta una conclusione.
-> 5. **[Bozza Email]:** Scrivi un'email professionale e cortese di 'Follow-up Riunione' pronta per essere inviata al team, basata sui punti precedenti.
+> 1. \***\*[Panoramica]**:\*\* Indica Data, Partecipanti (se deducibili dal testo) e Argomento principale.
+> 2. \***\*[Decisioni Chiave]**:\*\* Fornisci un elenco numerato delle decisioni definitive prese. (Questa è la parte più importante).
+> 3. \***\*[Action Items]**:\*\* Crea una tabella markdown con le colonne: "Chi", "Cosa", "Entro Quando".
+> 4. \***\*[Questioni Aperte]**:\*\* Elenca i punti importanti discussi su cui non si è raggiunta una conclusione.
+> 5. \***\*[Bozza Email]**:\*\* Scrivi un'email professionale e cortese di 'Follow-up Riunione' pronta per essere inviata al team, basata sui punti precedenti.
 >
 > **Vincoli (Constraints):**
 >

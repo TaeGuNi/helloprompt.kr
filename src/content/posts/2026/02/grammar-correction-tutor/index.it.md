@@ -57,10 +57,10 @@ Usa questa versione per un'analisi approfondita, alternative native e una valuta
 >
 > **Richiesta (Task):**
 >
-> 1. **[Versione Rivista]:** Fornisci il testo corretto, privo di errori grammaticali e refusi.
-> 2. **[Nota di Correzione]:** Confronta 1:1 la mia frase originale con quella corretta. Spiega in modo semplice il **Motivo Grammaticale** dell'errore (es. accordo soggetto-verbo, uso degli articoli, preposizioni).
-> 3. **[Espressioni Native]:** Anche se la mia grammatica fosse corretta, suggerisci 2 o 3 alternative più naturali e usate comunemente dai madrelingua.
-> 4. **[Valutazione]:** Valuta la mia competenza scritta con un voto da 1 a 10 e lasciami un consiglio pratico per migliorare.
+> 1. \***\*[Versione Rivista]**:\*\* Fornisci il testo corretto, privo di errori grammaticali e refusi.
+> 2. \***\*[Nota di Correzione]**:** Confronta 1:1 la mia frase originale con quella corretta. Spiega in modo semplice il **Motivo Grammaticale\*\* dell'errore (es. accordo soggetto-verbo, uso degli articoli, preposizioni).
+> 3. \***\*[Espressioni Native]**:\*\* Anche se la mia grammatica fosse corretta, suggerisci 2 o 3 alternative più naturali e usate comunemente dai madrelingua.
+> 4. \***\*[Valutazione]**:\*\* Valuta la mia competenza scritta con un voto da 1 a 10 e lasciami un consiglio pratico per migliorare.
 >
 > **Vincoli (Constraints):**
 >

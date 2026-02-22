@@ -118,9 +118,9 @@ Result: A disjointed, generic blog post that hallucinates the financial data and
 ### ✅ After (The Chained Workflow Approach)
 
 ```text
-[Phase 1 Output]: Extracted 5 core data points with 100% accuracy.
-[Phase 2 Output]: Identified missing context regarding Q3 earnings; retrieved and added.
-[Final Phase Output]: A highly structured, meticulously formatted blog post that naturally integrates all required data points with a flawless professional tone. No hallucinations.
+**[Phase 1 Output]**: Extracted 5 core data points with 100% accuracy.
+**[Phase 2 Output]**: Identified missing context regarding Q3 earnings; retrieved and added.
+**[Final Phase Output]**: A highly structured, meticulously formatted blog post that naturally integrates all required data points with a flawless professional tone. No hallucinations.
 ```
 
 ---

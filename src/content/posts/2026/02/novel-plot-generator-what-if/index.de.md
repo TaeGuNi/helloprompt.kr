@@ -108,9 +108,9 @@ Mein Protagonist steht dem Schurken gegenüber, weigert sich aber zu kämpfen. W
 ### ✅ After (Ergebnis)
 
 ```text
-1. [Der Faustische Pakt]: Was wäre, wenn der Schurke gar nicht kämpfen will, sondern ein Bündnis anbietet, das der Protagonist aufgrund einer fatalen Schwäche nicht ablehnen kann?
-2. [Der unsichtbare Dritte]: Was wäre, wenn in genau diesem Moment eine übermächtige, noch unbekannte Fraktion angreift und die beiden Todfeinde zwingt, Seite an Seite zu überleben?
-3. [Die tragische Verwechslung]: Was wäre, wenn der Schurke den wehrlosen Protagonisten fälschlicherweise für den lang verschollenen Erben des Imperiums hält und sich plötzlich unterwirft?
+1. **[Der Faustische Pakt]**: Was wäre, wenn der Schurke gar nicht kämpfen will, sondern ein Bündnis anbietet, das der Protagonist aufgrund einer fatalen Schwäche nicht ablehnen kann?
+2. **[Der unsichtbare Dritte]**: Was wäre, wenn in genau diesem Moment eine übermächtige, noch unbekannte Fraktion angreift und die beiden Todfeinde zwingt, Seite an Seite zu überleben?
+3. **[Die tragische Verwechslung]**: Was wäre, wenn der Schurke den wehrlosen Protagonisten fälschlicherweise für den lang verschollenen Erben des Imperiums hält und sich plötzlich unterwirft?
 ```
 
 ---

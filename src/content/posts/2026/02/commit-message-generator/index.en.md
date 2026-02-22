@@ -75,7 +75,7 @@ Use this when you need a highly detailed, perfectly formatted commit message for
 >
 > - Do not invent or hallucinate changes that are not explicitly present in the provided `[Changes]`. If the diff is unclear, ask for clarification.
 >
-> **[Changes]:**
+> \***\*[Changes]**:\*\*
 >
 > - (Paste your `git diff` output or a brief summary of your changes here)
 

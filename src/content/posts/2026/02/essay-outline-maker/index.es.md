@@ -58,9 +58,9 @@ La fase más difícil de cualquier proceso de escritura es, sin duda, el comienz
 >
 > **Solicitud (Task):**
 >
-> 1. **[Creación del Esquema]:** Diseña un esquema estándar compuesto por Introducción, Desarrollo (dividido en 3 fases lógicas) y Conclusión.
-> 2. **[Guía por Párrafo]:** Proporciona palabras clave concretas, qué contenido específico abordar y qué tipo de ejemplos o datos usar en cada párrafo.
-> 3. **[Gancho y Cierre]:** Redacta la primera oración de la introducción (un "Gancho" que capture inmediatamente la atención del lector) y la última oración de la conclusión (un cierre memorable que deje una fuerte impresión).
+> 1. \***\*[Creación del Esquema]**:\*\* Diseña un esquema estándar compuesto por Introducción, Desarrollo (dividido en 3 fases lógicas) y Conclusión.
+> 2. \***\*[Guía por Párrafo]**:\*\* Proporciona palabras clave concretas, qué contenido específico abordar y qué tipo de ejemplos o datos usar en cada párrafo.
+> 3. \***\*[Gancho y Cierre]**:\*\* Redacta la primera oración de la introducción (un "Gancho" que capture inmediatamente la atención del lector) y la última oración de la conclusión (un cierre memorable que deje una fuerte impresión).
 >
 > **Restricciones (Constraints):**
 >

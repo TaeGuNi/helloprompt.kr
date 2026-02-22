@@ -147,7 +147,7 @@ export const submitLogin = async (data: LoginFormData): Promise<void> => {
       throw new Error("Validación fallida: " + error.errors[0].message);
     }
     // Registro y propagación adecuada de errores de red o servidor
-    console.error("[AuthError]:", error);
+    console.error("**[AuthError]**:", error);
     throw new Error("La autenticación falló. Por favor, inténtelo de nuevo.");
   }
 };

@@ -118,7 +118,7 @@ def process_data(items):
 ### ✅ بعد (معالجة سريعة وفعالة وموثقة بواسطة Codex Spark)
 
 ```python
-def process_data(items: list[int]) -> list[int]:
+def process_data(items: list[int]) -> list**[int]**:
     """يعالج قائمة من الأرقام ويعيد ضعف القيم الموجبة بطريقة محسنة."""
     return [item * 2 for item in items if item > 0]
 ```

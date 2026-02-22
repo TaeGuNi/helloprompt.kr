@@ -122,7 +122,7 @@ import urllib.request
 import urllib.error
 from typing import Optional
 
-def download_file(url: str, save_path: str) -> Optional[bool]:
+def download_file(url: str, save_path: str) -> Optional**[bool]**:
     """
     Скачивает файл по указанному URL и сохраняет его локально.
     Использует только стандартную библиотеку urllib.
@@ -132,7 +132,7 @@ def download_file(url: str, save_path: str) -> Optional[bool]:
         save_path (str): Локальный путь для сохранения.
 
     Returns:
-        Optional[bool]: True при успешном скачивании, None при ошибке.
+        Optional**[bool]**: True при успешном скачивании, None при ошибке.
     """
     try:
         urllib.request.urlretrieve(url, save_path)

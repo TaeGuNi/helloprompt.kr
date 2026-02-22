@@ -57,9 +57,9 @@ Verwenden Sie diese Variante für detaillierte, didaktisch hochwertige Erklärun
 >
 > **Aufgabe (Task):**
 >
-> 1. **[ASCII-Diagramm]:** Erstelle ein übersichtliches Textdiagramm, das die Struktur oder Funktionsweise des Konzepts veranschaulicht (nutze Symbole wie =, -, |, >, [] etc.). Platziere es in einem Codeblock.
-> 2. **[Einfache Analogie]:** Erkläre das Konzept durch einen Vergleich mit einem alltäglichen Gegenstand oder einer Situation, die bereits ein Grundschüler versteht (Format: "A verhält sich wie B").
-> 3. **[Schlüsselbeziehungen]:** Zeige die Interaktionen der einzelnen Komponenten in Form eines kurzen, prägnanten Flussdiagramms mit Pfeilen (→) auf.
+> 1. \***\*[ASCII-Diagramm]**:\*\* Erstelle ein übersichtliches Textdiagramm, das die Struktur oder Funktionsweise des Konzepts veranschaulicht (nutze Symbole wie =, -, |, >, [] etc.). Platziere es in einem Codeblock.
+> 2. \***\*[Einfache Analogie]**:\*\* Erkläre das Konzept durch einen Vergleich mit einem alltäglichen Gegenstand oder einer Situation, die bereits ein Grundschüler versteht (Format: "A verhält sich wie B").
+> 3. \***\*[Schlüsselbeziehungen]**:\*\* Zeige die Interaktionen der einzelnen Komponenten in Form eines kurzen, prägnanten Flussdiagramms mit Pfeilen (→) auf.
 >
 > **Einschränkungen (Constraints):**
 >

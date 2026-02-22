@@ -55,10 +55,10 @@ Use this for complex, multi-step problems where identifying the underlying physi
 >
 > **Task:**
 >
-> 1. **[Variable Extraction]:** Systematically list all the given values (Knowns) and the value to be found (Unknown) using standard physics symbols (e.g., $v_0 = 0 \text{ m/s}$).
-> 2. **[Hidden Conditions]:** Identify and state any physical conditions implied by the text but not explicitly quantified (e.g., "dropped" implies $v_0 = 0$, "free fall" implies $a = g \approx 9.8 \text{ m/s}^2$).
-> 3. **[Strategy Establishment]:** Determine the most appropriate **Physics Law or Principle** required to solve this problem and explain _why_ it is the best approach based on the given variables.
-> 4. **[Setting Up the Equation]:** Construct a pure **Mathematical Model** using variables before substituting any numerical values.
+> 1. \***\*[Variable Extraction]**:\*\* Systematically list all the given values (Knowns) and the value to be found (Unknown) using standard physics symbols (e.g., $v_0 = 0 \text{ m/s}$).
+> 2. \***\*[Hidden Conditions]**:\*\* Identify and state any physical conditions implied by the text but not explicitly quantified (e.g., "dropped" implies $v_0 = 0$, "free fall" implies $a = g \approx 9.8 \text{ m/s}^2$).
+> 3. \***\*[Strategy Establishment]**:** Determine the most appropriate **Physics Law or Principle\*\* required to solve this problem and explain _why_ it is the best approach based on the given variables.
+> 4. \***\*[Setting Up the Equation]**:** Construct a pure **Mathematical Model\*\* using variables before substituting any numerical values.
 >
 > **Constraints:**
 >

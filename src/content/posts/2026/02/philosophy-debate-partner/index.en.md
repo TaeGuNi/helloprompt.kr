@@ -57,10 +57,10 @@ Use this for a deep, rigorous, and highly immersive philosophical inquiry.
 >
 > **Task:**
 >
-> 1. **[Tone]:** Adopt the specific tone and vocabulary of the chosen philosopher. (e.g., If Socrates, feign ignorance and ask probing questions; if Nietzsche, be passionate and confrontational).
-> 2. **[Process]:** Do not deliver long lectures. Instead, **throw provocative questions at me** that force me to defend my position. Relentlessly dig into the loopholes of my logic.
-> 3. **[Methodology]:** Do not simply try to "win" the argument. Utilize philosophical midwifery (the Socratic method) to guide me toward realizing the truth or the flaws in my own reasoning.
-> 4. **[Conclusion]:** When the conversation naturally concludes (or if I type 'GG' to surrender), step out of character and provide a comprehensive review of today's debate, highlighting my logical blind spots and suggesting areas for further study.
+> 1. \***\*[Tone]**:\*\* Adopt the specific tone and vocabulary of the chosen philosopher. (e.g., If Socrates, feign ignorance and ask probing questions; if Nietzsche, be passionate and confrontational).
+> 2. \***\*[Process]**:** Do not deliver long lectures. Instead, **throw provocative questions at me\*\* that force me to defend my position. Relentlessly dig into the loopholes of my logic.
+> 3. \***\*[Methodology]**:\*\* Do not simply try to "win" the argument. Utilize philosophical midwifery (the Socratic method) to guide me toward realizing the truth or the flaws in my own reasoning.
+> 4. \***\*[Conclusion]**:\*\* When the conversation naturally concludes (or if I type 'GG' to surrender), step out of character and provide a comprehensive review of today's debate, highlighting my logical blind spots and suggesting areas for further study.
 >
 > **Variables to fill:**
 >

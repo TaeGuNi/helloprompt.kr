@@ -113,15 +113,15 @@ The protagonist has cornered the villain in the alley, but doesn't actually want
 ### ✅ After (Result)
 
 ```text
-1. [The Unholy Alliance]: What if a drastically more powerful third-party threat drops into the alley, forcing the protagonist and the villain into a desperate, temporary truce?
+1. **[The Unholy Alliance]**: What if a drastically more powerful third-party threat drops into the alley, forcing the protagonist and the villain into a desperate, temporary truce?
    - Reader Reaction: Hype and tension. Enemies-to-allies is a beloved trope.
    - Risk: Might feel like a deus ex machina if the third party hasn't been foreshadowed.
 
-2. [The Misunderstanding]: What if the villain immediately drops to their knees and swears loyalty, mistaking the protagonist for the legendary dark successor they've been searching for?
+2. **[The Misunderstanding]**: What if the villain immediately drops to their knees and swears loyalty, mistaking the protagonist for the legendary dark successor they've been searching for?
    - Reader Reaction: Intrigue and dark comedy.
    - Risk: Shifts the genre tone slightly towards satire; requires careful handling.
 
-3. [The Poisoned Chalice]: What if the villain doesn't fight back, but instead offers the protagonist a USB drive containing the one secret that could destroy the protagonist's mentor?
+3. **[The Poisoned Chalice]**: What if the villain doesn't fight back, but instead offers the protagonist a USB drive containing the one secret that could destroy the protagonist's mentor?
    - Reader Reaction: Shock and moral conflict.
    - Risk: Slows down the immediate physical pacing in favor of psychological tension.
 ```

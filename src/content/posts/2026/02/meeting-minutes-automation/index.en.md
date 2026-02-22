@@ -58,11 +58,11 @@ Use this when you need to share official, structured meeting minutes with your t
 >
 > **Task:**
 >
-> 1. **[Meeting Overview]:** Extract and clearly state the Date, Expected Attendees (infer from the text), and Main Topic.
-> 2. **[Key Decisions]:** Create a numbered list of all finalized decisions. This is the most crucial part.
-> 3. **[Action Items]:** Generate a Markdown table detailing "Assignee", "Deadline", and "Specific Task".
-> 4. **[Unresolved Issues / Parking Lot]:** Highlight any important topics that were discussed but require further deliberation.
-> 5. **[Email Draft]:** Based on the structured minutes, draft a polite and professional 'Meeting Recap & Next Steps' email ready to be sent to the team.
+> 1. \***\*[Meeting Overview]**:\*\* Extract and clearly state the Date, Expected Attendees (infer from the text), and Main Topic.
+> 2. \***\*[Key Decisions]**:\*\* Create a numbered list of all finalized decisions. This is the most crucial part.
+> 3. \***\*[Action Items]**:\*\* Generate a Markdown table detailing "Assignee", "Deadline", and "Specific Task".
+> 4. \***\*[Unresolved Issues / Parking Lot]**:\*\* Highlight any important topics that were discussed but require further deliberation.
+> 5. \***\*[Email Draft]**:\*\* Based on the structured minutes, draft a polite and professional 'Meeting Recap & Next Steps' email ready to be sent to the team.
 >
 > **Input:**
 > `[Paste your full raw transcript here]`

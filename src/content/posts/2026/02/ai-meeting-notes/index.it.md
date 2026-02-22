@@ -137,7 +137,7 @@ La riunione si è concentrata sull'ottimizzazione del budget pubblicitario, con 
 **Action Items:**
 
 - **Anna:** Preparare le nuove creatività per la campagna TikTok. (Scadenza: Venerdì)
-- **[Da Assegnare]:** Procedere con il pagamento della fattura dell'agenzia SEO.
+- \***\*[Da Assegnare]**:\*\* Procedere con il pagamento della fattura dell'agenzia SEO.
 ```
 
 ---

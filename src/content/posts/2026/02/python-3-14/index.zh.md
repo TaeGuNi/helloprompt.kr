@@ -123,7 +123,7 @@ class ItemList(Generic[T]):
 
 def process_data(data: dict):
     # 冗长的嵌套解析与多重条件判断
-    if "user" in data and "profile" in data["user"]:
+    if "user" in data and "profile" in data**["user"]**:
         profile = data["user"]["profile"]
         if "role" in profile and profile["role"] == "admin":
             return "Admin Access"

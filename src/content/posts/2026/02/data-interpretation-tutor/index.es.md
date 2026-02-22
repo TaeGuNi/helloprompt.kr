@@ -58,10 +58,10 @@ La alfabetización de datos es una habilidad de supervivencia esencial en el ent
 >
 > **Solicitud (Task):**
 >
-> 1. **[Verificación de Hechos]:** Señala las secciones más notables con números exactos (Máximos, Mínimos, Cambios abruptos como picos o caídas).
-> 2. **[Insights]:** Resume lo que estos datos sugieren en 3 puntos clave. Interpreta el "significado" estratégico en lugar de hacer una simple lista de observaciones.
-> 3. **[Precaución de Trampas]:** Verifica si hay partes donde el rango o la escala del eje del gráfico está distorsionada y podría causar malentendidos o si faltan datos de contexto.
-> 4. **[Pregunta Esperada]:** Formula 1 pregunta incisiva y crítica que un directivo, inversor o cliente podría hacer al ver estos datos.
+> 1. \***\*[Verificación de Hechos]**:\*\* Señala las secciones más notables con números exactos (Máximos, Mínimos, Cambios abruptos como picos o caídas).
+> 2. \***\*[Insights]**:\*\* Resume lo que estos datos sugieren en 3 puntos clave. Interpreta el "significado" estratégico en lugar de hacer una simple lista de observaciones.
+> 3. \***\*[Precaución de Trampas]**:\*\* Verifica si hay partes donde el rango o la escala del eje del gráfico está distorsionada y podría causar malentendidos o si faltan datos de contexto.
+> 4. \***\*[Pregunta Esperada]**:\*\* Formula 1 pregunta incisiva y crítica que un directivo, inversor o cliente podría hacer al ver estos datos.
 >
 > **Restricciones (Constraints):**
 >

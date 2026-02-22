@@ -57,9 +57,9 @@ Use this advanced prompt when you need a comprehensive, deeply analytical breakd
 >
 > **Task:**
 >
-> 1. **[Comparison Table]:** Create a structured Markdown table summarizing their birth, historical background, major achievements, final fate, and core leadership keywords.
-> 2. **[Commonalities & Differences]:** Identify and analyze the 2 most significant similarities and the 2 most decisive differences between the two figures.
-> 3. **[Virtual Conversation]:** Write a short, engaging script simulating a conversation between these two figures if they were to meet at a modern-day cafe.
+> 1. \***\*[Comparison Table]**:\*\* Create a structured Markdown table summarizing their birth, historical background, major achievements, final fate, and core leadership keywords.
+> 2. \***\*[Commonalities & Differences]**:\*\* Identify and analyze the 2 most significant similarities and the 2 most decisive differences between the two figures.
+> 3. \***\*[Virtual Conversation]**:\*\* Write a short, engaging script simulating a conversation between these two figures if they were to meet at a modern-day cafe.
 >
 > **Constraints:**
 >

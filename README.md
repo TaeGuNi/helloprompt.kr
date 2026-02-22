@@ -92,7 +92,7 @@ Hello Prompt는 오픈소스 커뮤니티의 기여를 환영합니다.
 
 ## 📂 폴더 구조
 
-- `src/pages/posts/`: 블로그 글 (Markdown)
+- `src/content/posts/`: 블로그 글 (Markdown) (Master Collection)
 - `src/layouts/`: 레이아웃 및 디자인
 - `src/components/`: 재사용 가능한 UI 컴포넌트 (`RelatedPosts`, `AdUnit` 등)
 - `scripts/qa/`: 품질 검수 스크립트

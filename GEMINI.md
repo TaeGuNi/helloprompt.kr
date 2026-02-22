@@ -32,7 +32,7 @@
 - **메인:** `src/pages/[...page].astro` (한국어), `src/pages/[lang]/[...page].astro` (다국어)
 - **콘텐츠:** `src/content/posts/YYYY/MM/slug/index.ko.md` (한국어 원본), `index.[lang].md` (번역본)
 - **레이아웃:** `src/layouts/Layout.astro` (CSS, OG Tag, Analytics)
-- **데이터:** `src/pages/search.json.ts`, `src/pages/rss.xml.ts`, `src/pages/atom.xml.ts`
+- **데이터:** `src/pages/search.json.ts`, `src/pages/[lang]/rss.xml.ts`, `src/pages/[lang]/atom.xml.ts`
 - **테스트:** `tests/home.spec.ts` (Playwright), `src/utils.test.ts` (Vitest)
 - **QA:** `scripts/qa/` (Audit, Check, Sitemap)
 - **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵), `docs/ANALYTICS.md` (데이터 분석)

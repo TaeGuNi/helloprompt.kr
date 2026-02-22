@@ -59,11 +59,10 @@ src/
 ├── layouts/          # 페이지 레이아웃 (Layout.astro)
 ├── pages/            # 파일 기반 라우팅
 │   ├── [lang]/       # 다국어 지원 라우트
-│   │   ├── posts/    # 번역된 블로그 포스트
+│   │   ├── rss.xml.ts    # 다국어 RSS 피드 생성기
+│   │   ├── atom.xml.ts   # 다국어 Atom 피드 생성기
 │   │   └── ...
 │   ├── api/          # 서버리스/엣지 함수 (OG 이미지 생성 등)
-│   ├── posts/        # 한국어 블로그 포스트 (Source of Truth)
-│   ├── rss.xml.ts    # RSS 피드 생성기
 │   └── search.json.ts # 검색 인덱스 생성기
 └── utils/            # 비즈니스 로직 및 헬퍼 함수
     ├── dateUtils.ts  # 날짜 처리
@@ -74,11 +73,11 @@ src/
 
 ## 4. 데이터 흐름 (Data Flow)
 
-1.  **작성:** 작가가 `src/pages/posts/*.md`에 글을 작성합니다.
-2.  **빌드:** Astro가 마크다운 파일을 파싱하여 메타데이터와 본문을 추출합니다.
-3.  **인덱싱:** `search.json.ts`가 모든 글의 정보를 모아 검색 인덱스 파일(`search.json`)을 생성합니다.
-4.  **렌더링:** `[...page].astro`가 글 목록을 페이지네이션하여 정적 HTML로 만듭니다.
-5.  **배포:** Vercel이 최종 산출물(`dist/`)을 전 세계 CDN에 배포합니다.
+1. **작성:** 작가가 `src/pages/posts/*.md`에 글을 작성합니다.
+2. **빌드:** Astro가 마크다운 파일을 파싱하여 메타데이터와 본문을 추출합니다.
+3. **인덱싱:** `search.json.ts`가 모든 글의 정보를 모아 검색 인덱스 파일(`search.json`)을 생성합니다.
+4. **렌더링:** `[...page].astro`가 글 목록을 페이지네이션하여 정적 HTML로 만듭니다.
+5. **배포:** Vercel이 최종 산출물(`dist/`)을 전 세계 CDN에 배포합니다.
 
 ---
 

@@ -41,13 +41,13 @@ test.describe("i18n Navigation Persistence", () => {
     page,
   }) => {
     // 1. Visit a Korean post
-    await page.goto("/posts/interview-reverse-question-generator");
+    await page.goto("/ko/posts/interview-reverse-question-generator");
 
     // 2. Click the Logo
     await page.locator(".home-link").click();
-    await page.waitForURL(/\/$/);
+    await page.waitForURL(/.*\/ko\/$/);
 
     // 3. Assert URL is Korean Home (/)
-    await expect(page).toHaveURL(/\/$/);
+    await expect(page).toHaveURL(/.*\/ko\/$/);
   });
 });

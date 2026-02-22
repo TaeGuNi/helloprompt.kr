@@ -5,11 +5,11 @@ test.describe("i18n and Feeds", () => {
     await page.goto("/");
 
     // Footer RSS link check
-    const rssLink = page.locator('footer a[href="/rss.xml"]');
+    const rssLink = page.locator('footer a[href="/ko/rss.xml"]');
     await expect(rssLink).toBeVisible();
 
     // Footer Atom link check
-    const atomLink = page.locator('footer a[href="/atom.xml"]');
+    const atomLink = page.locator('footer a[href="/ko/atom.xml"]');
     await expect(atomLink).toBeVisible();
   });
 
@@ -33,7 +33,7 @@ test.describe("i18n and Feeds", () => {
   });
 
   test("RSS Feed content is valid", async ({ page }) => {
-    const response = await page.request.get("/rss.xml");
+    const response = await page.request.get("/ko/rss.xml");
     const text = await response.text();
 
     // Check for standard RSS tags

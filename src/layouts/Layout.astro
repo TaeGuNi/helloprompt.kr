@@ -97,13 +97,13 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
       rel="alternate"
       type="application/rss+xml"
       title="Hello Prompt RSS Feed"
-      href="/rss.xml"
+      href={`/${currentLang}/rss.xml`}
     />
     <link
       rel="alternate"
       type="application/atom+xml"
       title="Hello Prompt Atom Feed"
-      href="/atom.xml"
+      href={`/${currentLang}/atom.xml`}
     />
 
     <!-- [Social] Open Graph (SNS 공유 미리보기) -->
@@ -853,13 +853,11 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         </p>
         <p style="margin-top:10px; font-size: 0.7rem;">
           <a
-            href={currentLang === "ko" ? "/rss.xml" : `/${currentLang}/rss.xml`}
+            href={`/${currentLang}/rss.xml`}
             style="color:#666; text-decoration:none; margin-right:10px;">RSS</a
           >
           <a
-            href={currentLang === "ko"
-              ? "/atom.xml"
-              : `/${currentLang}/atom.xml`}
+            href={`/${currentLang}/atom.xml`}
             style="color:#666; text-decoration:none; margin-right:10px;">ATOM</a
           >
           <a

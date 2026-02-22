@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (Italian)"
 description: "Analisi critica del leak di GPT-6: come sfruttare il focus di OpenAI sulla pianificazione a lungo termine senza farsi travolgere dall'hype."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

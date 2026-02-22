@@ -81,7 +81,7 @@ Verwenden Sie diesen Prompt für eine detaillierte, durchdachte und strategische
 
 Beim Naming tappen viele Gründer in die "Beschreibungs-Falle" – sie wollen genau erklären, was das Produkt macht (z.B. "Auto-Reparatur-Müller"). Das ist zwar verständlich, aber selten einprägsam. Dieser Prompt zwingt die KI dazu, über den Tellerrand hinauszuschauen und systematisch verschiedene _Kategorien_ von Namen zu generieren.
 
-_Mein Tipp aus der Praxis:_ Wenn Sie eine Liste mit 10 Vorschlägen erhalten, verwerfen Sie die ersten drei meist sofort. Die KI liefert anfangs oft die offensichtlichsten Ideen. Bitten Sie die KI stattdessen im nächsten Schritt: _"Nimm Vorschlag Nr. 4 und generiere 10 ähnliche, aber etwas abstraktere Variationen."_ Genau so stoßen Sie auf die wahren Goldnuggets. Vergessen Sie nicht, Ihre Favoriten direkt im Anschluss auf [Namecheap](https://www.namecheap.com/) (für Domains) oder im [DPMAregister](https://register.dpma.de/DPMAregister/marke/einsteiger) (für deutsche Markenrechte) zu überprüfen!
+_Mein Tipp aus der Praxis:_ Wenn Sie eine Liste mit 10 Vorschlägen erhalten, verwerfen Sie die ersten drei meist sofort. Die KI liefert anfangs oft die offensichtlichsten Ideen. Bitten Sie die KI stattdessen im nächsten Schritt: _"Nimm Vorschlag Nr. 4 und generiere 10 ähnliche, aber etwas abstraktere Variationen."_ Genau so stoßen Sie auf die wahren Goldnuggets. Vergessen Sie nicht, Ihre Favoriten direkt im Anschluss auf [Namecheap](https://example.com/) (für Domains) oder im [DPMAregister](https://register.dpma.de/DPMAregister/marke/einsteiger) (für deutsche Markenrechte) zu überprüfen!
 
 ---
 

@@ -2,7 +2,7 @@
 title: "GPT-6 유출: 챗봇의 종말과 '설계자'의 탄생"
 description: "GPT-6에 대한 유출 정보는 단순한 텍스트 생성을 넘어선 '장기적 계획(Long-horizon Planning)'으로의 패러다임 전환을 시사합니다."
 date: "2026-02-15"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "GPT-6", "미래", "유출"]
 ---
 

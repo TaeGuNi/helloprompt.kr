@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (Spanish)"
 description: "Análisis crítico de la filtración de GPT-6 y cómo aplicar la planificación a largo plazo en tus proyectos hoy mismo."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

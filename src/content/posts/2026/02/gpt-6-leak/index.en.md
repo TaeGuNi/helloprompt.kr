@@ -2,7 +2,7 @@
 title: "GPT-6 Leak: The End of the Chatbot, The Rise of the Planner"
 description: "Leaked details about GPT-6 suggest a paradigm shift from next-token prediction to long-horizon strategic planning."
 date: "2026-02-15"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "GPT-6", "Future", "Leak"]
 ---
 

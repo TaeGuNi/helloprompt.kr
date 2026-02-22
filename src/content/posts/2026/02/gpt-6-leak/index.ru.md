@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (Russian)"
 description: "Критический анализ утечки GPT-6: как использовать фокус новой модели от OpenAI на долгосрочное планирование для вашей бизнес-стратегии."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

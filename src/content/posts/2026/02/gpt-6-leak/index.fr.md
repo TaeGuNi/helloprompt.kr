@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (French)"
 description: "Analyse critique de la fuite sur GPT-6 : comment le nouveau modèle d'OpenAI se concentre sur la planification à long terme."
 date: "2026-02-14"
-image: "https://picsum.photos/seed/GPT/800/400-6"
+image: "https://picsum.photos/seed/GPT-6/800/400"
 tags: ["AI", "Trend", "2026"]
 ---
 

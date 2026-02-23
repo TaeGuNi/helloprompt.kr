@@ -102,7 +102,7 @@ If you are on a PC, I highly recommend installing free Chrome extensions like **
 
 ## 🧬 Prompt Anatomy (Why it works)
 
-1.  **Timestamp-Driven Structuring:** Unlike generic summaries that just condense text, this maps *when* specific content appears in the video. This enables "cherry-pick learning"—you can scan the text and click the timestamp to watch only the parts you want to dive deeper into, maximizing your learning efficiency.
+1.  **Timestamp-Driven Structuring:** Unlike generic summaries that just condense text, this maps _when_ specific content appears in the video. This enables "cherry-pick learning"—you can scan the text and click the timestamp to watch only the parts you want to dive deeper into, maximizing your learning efficiency.
 2.  **Action Item Extraction:** The true value of informative content lies in the "execution" after watching. By forcing the AI to extract a clear To-Do list answering "So what should I do now?", you transition from merely consuming information to truly making it your own.
 
 ---

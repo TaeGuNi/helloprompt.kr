@@ -5,126 +5,132 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 크리에이팅"
-description: "OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본 하나로 블로그, 인스타그램, 트위터용 콘텐츠를 무한 복제하는 자동화 파이프라인을 구축하세요."
+description: "The ultimate OSMU (One Source Multi Use) strategy. Build an automated pipeline that infinitely clones a single YouTube script into content for your blog, Instagram, and Twitter."
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 
-# 📝 유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기
+# 📝 YouTube Script to Blog: Turn One Video into 10 Posts
 
-- **🎯 추천 대상:** 영상 제작에 에너지를 다 써서 블로그는 방치 중인 크리에이터, 잘 터진 콘텐츠 하나로 플랫폼 장악을 노리는 퍼포먼스 마케터
-- **⏱️ 소요 시간:** 3시간 → 1분 단축
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (긴 문맥 유지 및 매체별 톤앤매너 변환에 탁월)
+- **🎯 Target Audience:** Creators exhausted from video production neglecting their blogs, Performance marketers aiming for platform dominance with a single viral piece.
+- **⏱️ Time Saved:** 3 hours → 1 minute
+- **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet (Excellent at maintaining long contexts and adapting tone-and-manner per platform)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"영상 하나 찍기도 벅찬데, 언제 블로그 쓰고 인스타 카드뉴스까지 만드나요?"_
+> _"Struggling to just shoot a video? Who has the time to write a blog post and design an Instagram carousel on top of that?"_
 
-따로 기획하고 쓰지 마세요. 이미 심혈을 기울여 작성한 '유튜브 대본(Script)' 안에 모든 핵심 소재가 담겨 있습니다. 우리가 해야 할 일은 단 하나, 각 플랫폼의 문법에 맞게 **'형식(Format)'**만 변환하는 것입니다. AI에게 잘 짜인 프롬프트와 대본을 던져주면, 단 1분 만에 검색 엔진을 장악할 블로그 글과 바이럴을 일으킬 SNS 콘텐츠가 쏟아집니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **소스 확보:** 유튜브 스튜디오나 확장 프로그램을 통해 기존 영상의 스크립트(자막)를 원문 그대로 추출합니다.
-2. **AI 변환 지시:** "이 대본을 SEO에 최적화된 블로그 포스팅으로 구조화해 줘"라고 AI에게 명령합니다.
-3. **OSMU 무한 증식:** 동일한 소스를 활용해 인스타그램, 트위터, 링크드인 등 각 채널에 맞는 포맷으로 재가공하여 도달률을 극대화합니다.
+Don't write from scratch. The 'YouTube Script' you poured your heart into already contains all the core material. The only thing left to do is **'Format'** it according to the grammar of each platform. By feeding the AI a well-crafted prompt along with your script, you can generate an SEO-dominating blog post and highly viral social media content in just one minute.
 
 ---
 
-## 🚀 해결책: "Content Recycler Prompt"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본 변환형)
+1. **Source Extraction:** Use YouTube Studio or a Chrome extension to extract the raw transcript (subtitles) of your existing video.
+2. **AI Conversion Command:** Instruct the AI: "Structure this script into an SEO-optimized blog post."
+3. **Infinite OSMU Multiplication:** Repurpose the identical source into platform-specific formats (Instagram, Twitter/X, LinkedIn) to maximize your reach.
 
-가장 빠르게 영상 대본을 읽기 편한 줄글로 다듬고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[10년 차 전문 에디터]`야.
-> **요청:** `[아래의 유튜브 영상 대본]`을 읽기 편한 블로그 포스팅으로 변환해 줘. 말하는 듯한 구어체는 자연스러운 문어체로 다듬고, 문단 나누기를 통해 가독성을 높여줘.
+## 🚀 The Solution: "Content Recycler Prompt"
+
+### 🥉 Basic Version
+
+Use this when you quickly need to refine a video script into highly readable prose.
+
+> **Role:** You are a `[10-year experienced professional editor]`.
+> **Task:** Convert the following `[YouTube video script]` into an easy-to-read blog post. Refine the conversational spoken language into natural written prose, and improve readability by structuring the paragraphs.
 >
-> [유튜브 영상 대본 입력]
+> `[Insert YouTube Video Script Here]`
 
 <br>
 
-### 🥇 Pro Version (플랫폼별 멀티 유즈 마스터)
+### 🥇 Pro Version
 
-하나의 소스에서 블로그 검색 유입, 인스타 비주얼 바이럴, 트위터 확산까지 동시에 노릴 때 사용하세요.
+Use this when you want to simultaneously target blog search traffic, visual virality on Instagram, and rapid distribution on Twitter/X from a single source.
 
-> **역할 (Role):** 너는 트렌드를 선도하는 `[콘텐츠 마케팅 전문가이자 10년 차 테크 카피라이터]`야.
+> **Role:** You are a trendsetting `[Content Marketing Expert and 10-year Tech Copywriter]`.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 방금 유익한 정보가 담긴 유튜브 영상을 하나 업로드했어. 이 영상의 대본을 활용해 타 플랫폼으로 트래픽을 분산시키고 싶어.
-> - 목표: 원본 대본의 핵심 메시지는 유지하되, 각 플랫폼의 특성에 완벽하게 최적화된 3가지 형태의 파생 콘텐츠를 만들어야 해.
+> - Background: I have just uploaded a highly informative YouTube video. I want to use its script to drive distributed traffic across multiple platforms.
+> - Goal: Maintain the core message of the original script, but create 3 distinct derivative content pieces flawlessly optimized for the specific characteristics of each platform.
 >
-> **소스 (Source):**
+> **Source:**
 >
-> - 대본 원문: `[여기에 유튜브 대본 전체를 붙여넣으세요]`
+> - Original Script: `[Paste the entire YouTube script here]`
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **SEO 최적화 블로그 글:** 검색 엔진 상위 노출을 위해 `<H2>`, `<H3>` 태그를 활용하여 정보성 글로 구조화해. 불릿 포인트(Bullet point)를 적극 사용하여 가독성을 극대화해.
-> 2. **인스타그램 카드뉴스 텍스트:** 핵심 인사이트 5가지를 뽑아내어, 5장의 슬라이드에 각각 들어갈 짧고 임팩트 있는 문구로 요약해. 첫 장은 시선을 끄는 강력한 후킹 멘트로 작성해.
-> 3. **트위터(X) 바이럴 스레드:** 도파민을 자극하는 흥미로운 첫 문장으로 시작하여, 140자 이내의 짧고 강렬한 문장 5~7개로 이어지는 타래(Thread)를 작성해.
+> 1. **SEO-Optimized Blog Post:** Structure it as an informative article using `<H2>` and `<H3>` tags for high search engine ranking. Actively use bullet points to maximize readability.
+> 2. **Instagram Carousel Text:** Extract 5 key insights and summarize them into short, impactful phrases suitable for 5 slide images. The first slide must feature a powerful, attention-grabbing hook.
+> 3. **Twitter (X) Viral Thread:** Start with an intriguing, dopamine-inducing opening sentence, followed by a thread of 5 to 7 short, punchy sentences (under 140 characters each).
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 원문에 없는 사실을 절대로 지어내지 마. (할루시네이션 엄격 금지)
-> - 출력 형식은 블로그, 인스타그램, 트위터 3가지 섹션으로 명확히 구분해서 마크다운 형식으로 보여줘.
-> - 각 매체에 어울리는 적절한 이모지를 포함해 줘.
+> - Never invent facts that are not present in the original text. (Strictly no hallucinations).
+> - Present the output clearly separated into 3 sections (Blog, Instagram, Twitter) using Markdown format.
+> - Include appropriate emojis tailored to the vibe of each platform.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 진정한 가치는 **'구조화의 힘'**에 있습니다. 영상 스크립트는 시청자를 붙잡아 두기 위해 '흐름'과 '스토리텔링' 위주로 길게 늘어져 있습니다. 반면 텍스트 기반 플랫폼 독자들은 원하는 정보만 빠르게 스캐닝하기를 원하죠.
+The true value of this prompt lies in the **'power of structuring'**. Video scripts are typically elongated, focusing on 'flow' and 'storytelling' to retain viewer retention. In contrast, readers on text-based platforms want to quickly scan for the exact information they need.
 
-따라서 AI에게 단순히 "글로 바꿔줘"라고 지시하면, 여전히 호흡이 긴 지루한 글이 나옵니다. 반드시 `H2/H3 태그 적용`, `불릿 포인트 요약`, `카드뉴스 텍스트화`처럼 **정확한 포맷팅(Formatting)**을 요구해야 합니다. 실제로 현업에서 이 파이프라인을 도입한 후, 하나의 영상 기획으로 1주일 치 SNS 콘텐츠 캘린더를 채우는 데 단 10분밖에 걸리지 않았습니다. 시간을 돈으로 바꾸는 가장 확실한 방법입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 유튜브 대본(자막)은 어디서 가장 쉽게 추출하나요?**
-  - A: 크롬 확장 프로그램인 'YouTube Summary with ChatGPT & Claude'를 사용하면 클릭 한 번에 대본 전체를 타임스탬프 없이 깔끔하게 복사할 수 있어 가장 추천합니다. 본인 영상이라면 유튜브 스튜디오의 '자막' 탭에서 .txt 형식으로 다운로드하는 것도 좋습니다.
-
-- **Q: 같은 내용을 여러 플랫폼에 올리면 어뷰징이나 중복 문서로 걸리지 않나요?**
-  - A: 전혀 걱정하지 않으셔도 됩니다. 유튜브(구글), 인스타그램(메타), 트위터(X)는 서로 다른 알고리즘과 검색 엔진을 가진 독립된 생태계입니다. 오히려 각 플랫폼 유저들의 검색 의도에 맞게 톤앤매너를 다르게 가공했기 때문에, 어뷰징이 아닌 훌륭한 크로스 미디어 전략으로 작동합니다. 검색 포털 최적화가 목표라면 블로그 글 제목만 영상과 조금 다르게 변주를 주면 완벽합니다.
-
-- **Q: 대본이 너무 길어서 AI가 중간에 끊기거나 에러가 납니다.**
-  - A: ChatGPT-4o나 Claude 3.5 Sonnet 같은 최신 모델은 긴 컨텍스트 창을 지원하지만, 30분이 넘어가는 긴 영상이라면 대본을 절반으로 나누어 입력하는 것을 권장합니다. "1부 먼저 요약해 줘", "이어서 2부 요약해 줘" 방식으로 진행하면 디테일을 놓치지 않습니다.
+Therefore, simply instructing the AI to "turn this into an article" will yield a tedious, long-winded wall of text. You must demand **precise formatting**, such as `apply H2/H3 tags`, `summarize with bullet points`, and `format for a carousel`. Since implementing this exact pipeline in my own workflow, it now takes me merely 10 minutes to fill an entire week's social media calendar from a single video concept. This is the most definitive way to convert time into money.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **페르소나 기반 타겟팅 (Role):** AI에게 단순한 요약 봇이 아닌 '콘텐츠 마케팅 전문가'라는 정체성을 부여하여, 마케팅적 글쓰기 관점(후킹, 바이럴, 가독성)이 결과물에 녹아들도록 유도했습니다.
-2. **다차원 포맷 지시 (Task):** 두루뭉술한 재가공이 아닌, SEO 블로그, 인스타 텍스트, 트위터 스레드라는 명확한 플랫폼별 산출물 형태를 규정하여 즉시 실무에 투입 가능한 결과물을 얻어냅니다.
-3. **제약사항을 통한 안정성 확보 (Constraints):** '원문에 없는 사실 지어내기 금지'를 명시하여 AI 특유의 환각 현상(Hallucination)을 원천 차단했습니다. 정보의 신뢰성은 콘텐츠의 생명입니다.
+- **Q: Where is the easiest place to extract a YouTube script (subtitles)?**
+  - A: I highly recommend the Chrome extension 'YouTube Summary with ChatGPT & Claude'. It allows you to cleanly copy the entire script without timestamps in a single click. If it's your own video, downloading the `.txt` file directly from the 'Subtitles' tab in YouTube Studio is also a great option.
 
----
+- **Q: Won't posting the same content across multiple platforms be penalized as duplicate content?**
+  - A: Not at all. YouTube (Google), Instagram (Meta), and Twitter (X) are independent ecosystems with completely different algorithms and search engines. Because you are tailoring the tone and format to match the specific search intent of users on each platform, it functions as an excellent cross-media strategy, not spam. If SEO is your primary concern, simply giving the blog post a slightly different title than the video is perfect.
 
-## 📊 증명: Before & After
-
-### ❌ Before (방치된 원소스)
-
-> "네 안녕하세요 오늘은 마케팅 자동화에 대해 알아볼 건데요, 어... 일단 화면을 보시면..."
-> (두서없는 스크립트 그대로 방치, 유튜브 조회수 1,000회에서 트래픽 성장이 멈춤)
-
-### ✅ After (OSMU 재가공 완료)
-
-> **[블로그]** H2: 마케팅 자동화로 퇴근 시간 3시간 앞당기는 법 (검색 상위 노출)
-> **[인스타그램]** (슬라이드 1) "마케터님, 아직도 노가다 하시나요?" (저장 및 공유 발생)
-> **[트위터]** 마케팅 툴 5개만 알면 혼자서 3명 몫을 합니다. 타래로 풉니다 👇 (RT 확산)
->
-> 📈 **총 도달(Reach) 10배 이상 상승, 각 채널이 서로 트래픽을 밀어주는 선순환 고리 완성**
+- **Q: My script is too long, and the AI cuts off or throws an error halfway through.**
+  - A: While modern models like ChatGPT-4o and Claude 3.5 Sonnet support massive context windows, if your video exceeds 30 minutes, it's best to feed the script in halves. Instructing it with "Summarize Part 1 first," followed by "Now summarize Part 2," ensures you don't lose any critical details.
 
 ---
 
-## 🎯 결론
+## 🧬 Prompt Anatomy (Why it works?)
 
-잘 기획된 콘텐츠는 절대 '일회용'으로 소모되어서는 안 됩니다.
-하나의 마스터피스(Masterpiece) 대본을 만들었다면, 그것을 끝까지 쥐어짜 내어 모든 플랫폼에 흩뿌리세요.
+1. **Persona-Based Targeting (Role):** By assigning the AI the identity of a 'Content Marketing Expert' rather than a basic summarization bot, we force it to apply marketing copywriting principles (hooks, virality, readability) to the final output.
+2. **Multi-Dimensional Format Directives (Task):** Instead of a vague request to "repurpose," we define strict, platform-specific deliverables (SEO blog, Insta text, Twitter thread) to obtain results that are instantly ready for production.
+3. **Ensuring Safety via Constraints (Constraints):** Explicitly stating "Do not invent facts" effectively eliminates the AI's tendency to hallucinate. Information reliability is the lifeblood of content.
 
-영혼을 갈아 넣는 것은 한 번으로 족합니다.
-나머지는 **AI와 시스템**에 맡기고, 우리는 다음 기획을 준비합시다. 🍷
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Neglected Raw Source)
+
+```text
+"Uh, hello everyone. Today we're going to look at marketing automation, and... well... if you look at the screen..."
+(Rambling script left as-is; traffic growth flatlines after 1,000 YouTube views)
+```
+
+### ✅ After (OSMU Repurposing Complete)
+
+```text
+[Blog] H2: How to Leave Work 3 Hours Early with Marketing Automation (Ranks high on search)
+
+[Instagram] (Slide 1) "Marketers, are you still doing manual labor?" (Triggers saves and shares)
+
+[Twitter] Master these 5 marketing tools to do the work of 3 people. Thread below 👇 (Rapid RT spread)
+
+📈 Total reach increases 10x+, creating a virtuous cycle where each channel drives traffic to the others.
+```
+
+---
+
+## 🎯 Conclusion
+
+A well-planned piece of content should never be treated as 'disposable'.
+Once you've crafted a masterpiece script, squeeze every ounce of value out of it and distribute it across every platform.
+
+Pouring your soul into the creation process once is enough.
+Let **AI and systems** handle the rest, while we prepare for the next big idea. 🍷

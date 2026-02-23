@@ -9,138 +9,138 @@ description: "1시간짜리 유튜브 영상, 20분 동안 보고 계신가요? 
 tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 ---
 
-# 📺 유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법
+# 📺 Résumé YouTube en 3 Secondes : Comment Lire une Vidéo d'une Heure en Texte
 
-- **🎯 추천 대상:** 2배속으로 봐도 시간이 모자란 현대인, 썸네일 낚시 없이 정보의 핵심만 빠르게 습득하고 싶은 직장인 및 학생
-- **⏱️ 소요 시간:** 영상 시청 시간 20분 → 단 10초로 단축
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (긴 컨텍스트 처리 능력 필수)
+- **🎯 Recommandé pour :** Les professionnels et étudiants en manque de temps (même en vitesse x2), souhaitant extraire l'essentiel sans tomber dans les pièges des miniatures trompeuses (clickbait).
+- **⏱️ Temps requis :** 20 minutes de visionnage → Réduit à seulement 10 secondes.
+- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Capacité de traitement de long contexte indispensable).
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"1시간짜리 영상, 핵심만 알고 싶은데 서론만 20분째 듣고 계신가요?"_
+> _"Vous voulez juste l'essentiel d'une vidéo d'une heure, mais vous subissez déjà 20 minutes d'introduction ?"_
 
-영상 매체는 정보 밀도가 현저히 낮습니다. 텍스트로 읽으면 3분이면 끝날 내용을, 영상으로는 불필요한 사담과 반복을 견디며 20분 넘게 시청해야 하죠. 이제 더 이상 유튜브 알고리즘과 유튜버의 시청 시간 늘리기에 소중한 시간을 뺏기지 마세요.
+Le format vidéo présente souvent une très faible densité d'informations. Un contenu qui prendrait 3 minutes à lire sous forme de texte vous oblige souvent à subir plus de 20 minutes de bavardages et de répétitions en vidéo. Ne laissez plus l'algorithme de YouTube ou les créateurs avides de temps de visionnage monopoliser votre temps précieux.
 
-유튜브의 **스크립트(자막)** 기능과 AI 프롬프트를 결합하면, 어떤 긴 영상이든 단 10초 만에 가장 중요한 엑기스만 텍스트로 추출할 수 있습니다. 바쁜 현대인을 위한 최고의 시간 압축 워크플로우를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 유튜브 영상 하단의 '더보기'를 눌러 **'스크립트 표시(Show Transcript)'**를 클릭합니다.
-2. 화면 우측에 나타난 스크립트를 전체 복사합니다. (타임스탬프가 포함되어도 AI가 완벽히 필터링합니다)
-3. 복사한 텍스트를 AI 모델에 붙여넣고 "이 자막의 핵심 주제와 타임스탬프를 요약해 줘"라고 요청합니다.
+En combinant la fonction **Transcription (Sous-titres)** de YouTube avec un prompt IA ciblé, vous pouvez extraire l'essence absolue de n'importe quelle longue vidéo en seulement 10 secondes. Voici le workflow ultime de compression du temps pour les professionnels pressés.
 
 ---
 
-## 🚀 해결책: "Video Summarizer Prompt"
+## ⚡️ Résumé en 3 Lignes (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Cliquez sur « Plus » sous la vidéo YouTube, puis sélectionnez **« Afficher la transcription » (Show Transcript)**.
+2. Copiez l'intégralité du texte apparu sur le panneau latéral. (L'IA filtrera parfaitement les horodatages inclus).
+3. Collez le texte dans votre modèle IA avec la consigne : "Résume les thèmes clés et les horodatages de cette transcription."
 
-이동 중이거나 단순히 이 영상이 볼 가치가 있는지(Clickbait 검증) 빠르게 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 빠르고 정확한 콘텐츠 요약 전문가야.
-> **요청:** 아래 텍스트는 유튜브 영상 자막이야. 불필요한 사담은 제외하고, 이 영상의 핵심 주제와 가장 중요한 결론을 딱 3줄로 명확하게 요약해 줘.
+## 🚀 La Solution : Le Prompt "Video Summarizer"
+
+### 🥉 Version Basique
+
+À utiliser en déplacement ou pour vérifier rapidement si une vidéo vaut la peine d'être regardée (détection de clickbait).
+
+> **Rôle :** Tu es un expert en résumé de contenu, rapide et précis.
+> **Tâche :** Le texte ci-dessous est la transcription d'une vidéo YouTube. En ignorant les bavardages inutiles, résume le sujet principal et la conclusion la plus importante de cette vidéo en exactement 3 lignes claires.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro
 
-강의, 세미나, 튜토리얼 등 정보성 영상을 시청하며 나만의 학습 노트를 만들고 싶을 때 사용하세요.
+Idéale pour les conférences, les webinaires ou les tutoriels lorsque vous souhaitez créer vos propres notes d'apprentissage structurées.
 
-> **역할 (Role):** 너는 핵심 내용을 완벽하게 구조화하는 최고의 노트 필기 전문가야.
+> **Rôle (Role) :** Tu es l'expert ultime en prise de notes, capable de structurer parfaitement les informations clés.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 나는 시간이 부족하여 긴 유튜브 영상을 모두 시청할 수 없어.
-> - 목표: 영상의 전체적인 흐름을 파악하고, 필요한 정보만 골라서 학습하거나 즉시 실행에 옮기고 싶어.
+> - Contexte : Je manque de temps et je ne peux pas regarder cette longue vidéo YouTube en entier.
+> - Objectif : Je veux comprendre le flux global de la vidéo, extraire uniquement les informations nécessaires pour apprendre ou les mettre en pratique immédiatement.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 제공된 `[유튜브 자막 텍스트]`를 분석하여 다음 항목을 작성해 줘.
+> Analyse le `[Texte de la transcription YouTube]` fourni et rédige les éléments suivants :
 >
-> 1. **핵심 키워드:** 이 영상을 관통하는 가장 중요한 키워드 3개를 해시태그 형식으로 추출해.
-> 2. **타임스탬프별 챕터 요약:** 내용의 주제가 전환되는 주요 지점을 파악하여, `[00:00] 챕터 제목: 세부 내용 1줄 요약` 형식으로 정리해.
-> 3. **액션 아이템 (Action Item):** 시청자가 이 영상을 보고 당장 실무나 일상에 적용할 수 있는 구체적인 행동 지침을 1~2가지 명시해.
+> 1. **Mots-clés clés :** Extrais les 3 mots-clés les plus importants de cette vidéo sous forme de hashtags.
+> 2. **Résumé par chapitres avec horodatages :** Identifie les points de transition majeurs et organise-les au format `[00:00] Titre du Chapitre : Résumé en 1 ligne`.
+> 3. **Plan d'action (Action Items) :** Spécifie 1 à 2 directives concrètes que le spectateur peut appliquer immédiatement dans son travail ou sa vie quotidienne après avoir vu cette vidéo.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 출력 형식은 가독성 높은 마크다운 리스트 및 볼드체를 적절히 사용해.
-> - 자막에 포함된 불필요한 추임새나 인사말은 철저히 배제해.
+> - Utilise des listes Markdown très lisibles et mets en gras les éléments pertinents.
+> - Exclus strictement les mots de remplissage, les tics de langage et les salutations.
 >
-> **주의사항 (Warning):**
+> **Avertissement (Warning) :**
 >
-> - 자막에 명확히 등장하지 않은 정보는 임의로 지어내지 말고, 확실한 팩트만 요약해. (환각 방지)
+> - N'invente aucune information qui n'apparaît pas explicitement dans la transcription. Limite-toi aux faits avérés. (Évite les hallucinations).
 >
-> **입력 (Transcript):**
-> `[여기에 복사한 유튜브 자막을 붙여넣으세요]`
+> **Entrée (Transcript) :**
+> `[Collez la transcription YouTube copiée ici]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Auteur (Insight)
 
-이 워크플로우는 단순한 '시간 절약'을 넘어 '정보의 주도권'을 되찾는 강력한 방법입니다. 특히 외국어(영어 등)로 된 최신 기술 컨퍼런스나 튜토리얼 영상을 볼 때 압도적인 효율을 발휘합니다. 자막을 그대로 긁어서 번역과 요약을 동시에 요청하면 언어 장벽마저 완벽히 허물어지죠.
+Ce workflow va bien au-delà du simple "gain de temps" : c'est un moyen puissant de reprendre le contrôle sur votre consommation d'informations. Il est particulièrement redoutable pour les conférences techniques ou les tutoriels dans des langues étrangères (comme l'anglais). En copiant la transcription brute et en demandant simultanément une traduction et un résumé, la barrière de la langue disparaît complètement.
 
-PC 환경이라면 **'YouTube Summary with ChatGPT & Claude'** 같은 무료 크롬 익스텐션을 설치하는 것을 강력히 추천합니다. 스크립트 복사/붙여넣기 과정조차 생략되고 버튼 클릭 한 번에 우측 패널에서 즉시 요약본을 확인할 수 있습니다. 하지만 모바일로 유튜브를 보다가 급하게 내용을 파악해야 할 때는 이 프롬프트를 복사해 두었다가 활용하는 것이 유일하고도 가장 확실한 해결책입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 자막이 제공되지 않는 영상은 어떻게 하나요?**
-  - A: 최근 유튜브의 자동 자막 생성 기술이 비약적으로 발전하여 대부분의 영상에 자막이 존재합니다. 만약 자막이 전혀 없다면, 해당 영상의 오디오를 추출하여 OpenAI의 Whisper API나 별도의 STT(Speech-to-Text) 툴을 사용해 스크립트를 먼저 생성해야 합니다.
-
-- **Q: 1시간이 넘는 너무 긴 영상의 자막을 통째로 넣어도 AI가 뻗지 않나요?**
-  - A: GPT-4o나 Claude 3.5 Sonnet, Gemini 1.5 Pro와 같은 최신 모델들은 컨텍스트 윈도우(Context Window)가 매우 커서 1~2시간 분량의 텍스트는 거뜬히 처리합니다. 단, 구형 모델(예: GPT-3.5)을 사용하실 경우 텍스트가 잘릴 수 있으니 절반씩 나누어 요약하는 것을 권장합니다.
-
-- **Q: 자막에 있는 타임스탬프 숫자들까지 같이 복사되는데 지우고 넣어야 하나요?**
-  - A: 전혀 지울 필요 없습니다. 그대로 붙여넣으세요. 오히려 AI가 그 타임스탬프 정보를 바탕으로 챕터를 나누고 특정 시간대의 링크를 생성하는 데 유용하게 활용합니다.
+Sur PC, je vous recommande vivement d'installer une extension Chrome gratuite comme **"YouTube Summary with ChatGPT & Claude"**. Elle élimine même l'étape du copier-coller, vous donnant un résumé immédiat dans le panneau latéral en un seul clic. Cependant, lorsque vous regardez YouTube sur mobile et que vous devez comprendre le contenu en urgence, garder ce prompt à portée de main est la solution la plus fiable et universelle.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **타임스탬프 기반 구조화:** 단순히 글을 줄이는 일반 요약과 달리, 영상의 어느 시점에 해당 내용이 등장하는지 매핑합니다. 텍스트를 쭉 훑어보다가 깊게 파고들고 싶은 내용만 해당 타임스탬프를 클릭해 영상으로 확인하는 '발췌 수강'이 가능해져 학습 효율이 극대화됩니다.
-2.  **액션 아이템 (Action Item) 도출:** 정보성 콘텐츠의 진정한 가치는 시청 후의 '실행'에 있습니다. "그래서 내가 지금 뭘 해야 하지?"라는 질문에 대한 명확한 To-Do 리스트를 AI가 강제로 뽑아내도록 설계하여, 정보를 단순히 소비하는 데 그치지 않고 내 것으로 만들 수 있게 합니다.
+- **Q : Comment faire si la vidéo ne propose pas de sous-titres ?**
+  - R : La technologie de génération automatique de sous-titres de YouTube s'est considérablement améliorée, couvrant désormais la grande majorité des vidéos. Si aucun sous-titre n'est disponible, vous devrez d'abord extraire l'audio et utiliser l'API Whisper d'OpenAI ou un outil de reconnaissance vocale (Speech-to-Text) dédié pour générer la transcription.
+
+- **Q : Si je colle la transcription d'une vidéo de plus d'une heure, l'IA risque-t-elle de planter ?**
+  - R : Les modèles récents tels que GPT-4o, Claude 3.5 Sonnet et Gemini 1.5 Pro disposent d'une immense fenêtre de contexte (Context Window) et peuvent traiter sans effort 1 à 2 heures de texte. Toutefois, si vous utilisez un modèle plus ancien (ex: GPT-3.5), le texte risque d'être tronqué. Dans ce cas, il est conseillé de le diviser en deux parties.
+
+- **Q : Les horodatages sont copiés avec le texte. Dois-je les effacer avant de coller ?**
+  - R : Surtout pas. Collez tout tel quel. L'IA utilise intelligemment ces horodatages pour structurer les chapitres et vous fournir des repères temporels précis.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-### ❌ Before (기존 방식)
+1.  **Structuration par horodatage :** Contrairement à un simple résumé textuel, ce prompt cartographie précisément les moments où les sujets sont abordés. Vous pouvez scanner le texte et ne cliquer que sur les horodatages des sections qui méritent un approfondissement, maximisant ainsi l'efficacité de votre apprentissage.
+2.  **Génération de plan d'action (Action Items) :** La véritable valeur du contenu informatif réside dans la "mise en pratique" post-visionnage. En forçant l'IA à extraire une liste de tâches claires répondant à la question "Et maintenant, que dois-je faire ?", ce prompt vous évite la simple consommation passive et transforme l'information en action concrète.
+
+---
+
+## 📊 Preuve : Avant & Après
+
+### ❌ Avant (Méthode classique)
 
 ```text
-영상 플레이 ▶️ (서론 5분 시청) "아 본론 언제 나와..."
-⏩ (10초 건너뛰기 연타) ⏩ (광고 시청) ⏩ "어, 방금 지나갔나?" ⏪ (다시 되감기)
+Lecture de la vidéo ▶️ (Visionne 5 min d'intro) "Bon, il arrive quand au sujet principal..."
+⏩ (Spam la touche +10s) ⏩ (Se mange une pub) ⏩ "Attends, j'ai raté le truc ?" ⏪ (Retour en arrière)
 
-결과: 20분을 허비했지만 남은 건 파편화된 정보와 썸네일에 낚였다는 허탈함뿐.
+Résultat : 20 minutes gaspillées pour ne retenir que des informations fragmentées et un sentiment de frustration face à un titre trompeur.
 ```
 
-### ✅ After (프롬프트 활용 방식)
+### ✅ Après (Avec le Prompt)
 
 ```text
-이 영상은 옵시디언(Obsidian) 초보자를 위한 초기 세팅 가이드입니다.
+Cette vidéo est un guide de configuration initiale d'Obsidian pour les débutants.
 
-# 핵심 키워드: #제텔카스텐 #마크다운 #플러그인
+# Mots-clés clés : #Zettelkasten #Markdown #Plugins
 
-# 챕터별 요약:
-- [01:15] 테마 및 단축키 기본 설정 방법
-- [05:30] 필수 코어 플러그인 3선 추천 (Dataview, Templater 등)
-- [12:40] 백업 및 동기화 전략
+# Résumé par chapitres :
+- [01:15] Configuration de base des thèmes et des raccourcis clavier
+- [05:30] Recommandation de 3 plugins essentiels (Dataview, Templater, etc.)
+- [12:40] Stratégie de sauvegarde et de synchronisation
 
-# 액션 아이템:
-1. 당장 설정 창(Ctrl+,)을 열고 '다크 모드'를 켜세요.
-2. [05:30] 구간을 참고하여 Dataview 플러그인을 설치해 보세요.
+# Plan d'action :
+1. Ouvrez immédiatement les paramètres (Ctrl+,) et activez le "Mode Sombre".
+2. Fiez-vous au segment [05:30] pour installer le plugin Dataview.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-현대 사회에서 가장 비싼 자원은 '시간'과 '집중력'입니다. 유튜브 알고리즘의 늪에 빠져 타인의 영상 템포에 내 귀중한 시간을 맡기지 마세요.
+Dans la société moderne, le "temps" et la "concentration" sont nos ressources les plus précieuses. Ne vous enlisez pas dans l'algorithme de YouTube en confiant votre temps au rythme dicté par d'autres.
 
-스크립트 추출과 AI 요약 프롬프트는 단순한 꼼수가 아니라, 넘쳐나는 정보 속에서 내게 진짜 필요한 지식만 효율적으로 채굴하는 가장 강력한 무기입니다. 지금 바로 긴 영상을 텍스트로 전환하여 정보 소비의 주도권을 되찾으세요!
+L'extraction de transcription couplée aux prompts de résumé IA n'est pas une simple astuce. C'est votre arme la plus puissante pour extraire efficacement les connaissances dont vous avez réellement besoin au milieu d'un flot d'informations. Transformez vos longues vidéos en texte dès aujourd'hui et reprenez le contrôle de votre consommation de contenu !
 
-이제 칼퇴하세요! 🍷
+Vous pouvez maintenant quitter le bureau plus tôt ! 🍷

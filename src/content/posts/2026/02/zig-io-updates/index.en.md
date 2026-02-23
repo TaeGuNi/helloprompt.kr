@@ -109,7 +109,7 @@ To prevent this, the Constraints strictly enforce the use of the latest `std.io`
 Write an async socket server in the latest version of Zig.
 ```
 
-*(Result: Outputs uncompilable code mixing old `std.event.Loop` syntax with newer syntax, or simply throws a single-threaded synchronous socket server lacking any platform-specific optimization.)*
+_(Result: Outputs uncompilable code mixing old `std.event.Loop` syntax with newer syntax, or simply throws a single-threaded synchronous socket server lacking any platform-specific optimization.)_
 
 ### ✅ After (Result)
 
@@ -117,7 +117,7 @@ Write an async socket server in the latest version of Zig.
 (After applying the prompt)
 ```
 
-*(Result: Outputs pristine Zig code starting from perfect initialization utilizing `std.os.linux.io_uring` to a modern callback-based asynchronous runtime. It also includes an architectural breakdown explaining how overhead was reduced by injecting the appropriate memory allocator (`std.mem.Allocator`).)*
+_(Result: Outputs pristine Zig code starting from perfect initialization utilizing `std.os.linux.io_uring` to a modern callback-based asynchronous runtime. It also includes an architectural breakdown explaining how overhead was reduced by injecting the appropriate memory allocator (`std.mem.Allocator`).)_
 
 ---
 

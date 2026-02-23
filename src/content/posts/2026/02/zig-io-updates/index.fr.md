@@ -109,7 +109,7 @@ Pour contrer cela, les contraintes (Constraints) forcent l'utilisation exclusive
 Écris un serveur socket asynchrone avec la dernière version de Zig.
 ```
 
-*(Résultat : L'IA génère un code incompilable mélangeant l'ancienne syntaxe `std.event.Loop` avec de nouvelles structures, ou propose un serveur socket synchrone monothread sans aucune optimisation liée à la plateforme.)*
+_(Résultat : L'IA génère un code incompilable mélangeant l'ancienne syntaxe `std.event.Loop` avec de nouvelles structures, ou propose un serveur socket synchrone monothread sans aucune optimisation liée à la plateforme.)_
 
 ### ✅ Après (Avec notre prompt)
 
@@ -117,7 +117,7 @@ Pour contrer cela, les contraintes (Constraints) forcent l'utilisation exclusive
 (Exécution du prompt Pro)
 ```
 
-*(Résultat : L'IA fournit un code Zig propre, appliquant le runtime asynchrone basé sur les callbacks et exploitant parfaitement `std.os.linux.io_uring` dès la phase d'initialisation. Elle ajoute une explication détaillée de l'architecture, démontrant comment l'injection correcte de l'allocateur mémoire (`std.mem.Allocator`) réduit la surcharge du système.)*
+_(Résultat : L'IA fournit un code Zig propre, appliquant le runtime asynchrone basé sur les callbacks et exploitant parfaitement `std.os.linux.io_uring` dès la phase d'initialisation. Elle ajoute une explication détaillée de l'architecture, démontrant comment l'injection correcte de l'allocateur mémoire (`std.mem.Allocator`) réduit la surcharge du système.)_
 
 ---
 

@@ -53,27 +53,27 @@ Usalo quando guardi video informativi come lezioni, seminari o tutorial e vuoi c
 > **Ruolo (Role):** Sei il miglior esperto di appunti, capace di strutturare perfettamente i concetti chiave.
 >
 > **Contesto (Context):**
-> 
+>
 > - Contesto: Non ho tempo sufficiente per guardare per intero questo lungo video su YouTube.
 > - Obiettivo: Voglio comprendere il flusso generale del video, estrarre solo le informazioni necessarie per imparare e metterle in pratica immediatamente.
-> 
+>
 > **Azione (Task):**
-> 
+>
 > Analizza il `[Testo della trascrizione di YouTube]` fornito e compila i seguenti punti:
-> 
+>
 > 1. **Parole Chiave Principali:** Estrai i 3 termini più importanti che attraversano l'intero video sotto forma di hashtag.
 > 2. **Riassunto dei Capitoli per Timestamp:** Identifica i punti di transizione principali dell'argomento e organizzali in questo formato: `[00:00] Titolo del Capitolo: Riassunto di 1 riga dei dettagli`.
 > 3. **Action Item (Azioni da Intraprendere):** Specifica 1 o 2 azioni concrete che lo spettatore può applicare immediatamente al proprio lavoro o alla vita quotidiana dopo aver compreso il video.
-> 
+>
 > **Vincoli (Constraints):**
-> 
+>
 > - Per l'output, usa elenchi Markdown ben leggibili e applica il grassetto dove appropriato.
 > - Escludi rigorosamente i saluti, i riempitivi vocali e le chiacchiere irrilevanti presenti nella trascrizione.
-> 
+>
 > **Attenzione (Warning):**
-> 
+>
 > - Non inventare informazioni che non sono chiaramente presenti nella trascrizione; riassumi solo fatti accertati (per prevenire allucinazioni).
-> 
+>
 > **Input (Transcript):**
 > `[Incolla qui la trascrizione di YouTube copiata]`
 

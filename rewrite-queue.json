@@ -9,9 +9,7 @@
     "src/content/posts/2026/02/zig-io-updates/index.pt.md",
     "src/content/posts/2026/02/zig-io-updates/index.ru.md",
     "src/content/posts/2026/02/zig-io-updates/index.zh.md",
-    "src/content/posts/2026/02/youtube-video-summarizer/index.de.md"
-  ],
-  "pending": [
+    "src/content/posts/2026/02/youtube-video-summarizer/index.de.md",
     "src/content/posts/2026/02/youtube-video-summarizer/index.en.md",
     "src/content/posts/2026/02/youtube-video-summarizer/index.es.md",
     "src/content/posts/2026/02/youtube-video-summarizer/index.fr.md",
@@ -21,7 +19,9 @@
     "src/content/posts/2026/02/youtube-video-summarizer/index.ru.md",
     "src/content/posts/2026/02/youtube-video-summarizer/index.zh.md",
     "src/content/posts/2026/02/youtube-to-blog-converter/index.de.md",
-    "src/content/posts/2026/02/youtube-to-blog-converter/index.en.md",
+    "src/content/posts/2026/02/youtube-to-blog-converter/index.en.md"
+  ],
+  "pending": [
     "src/content/posts/2026/02/youtube-to-blog-converter/index.es.md",
     "src/content/posts/2026/02/youtube-to-blog-converter/index.fr.md",
     "src/content/posts/2026/02/youtube-to-blog-converter/index.it.md",

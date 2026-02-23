@@ -1,7 +1,7 @@
 ---
 title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
+image: "https://picsum.photos/1200/630
 tags: [Ethics, Security, Deepfake]
 ---
 

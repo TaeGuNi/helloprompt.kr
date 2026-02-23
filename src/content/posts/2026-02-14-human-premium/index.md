@@ -2,7 +2,7 @@
 title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
 date: 2026-02-14
 tags: [culture, design]
-image: https://source.unsplash.com/random/1600x900/?hand,art
+image: https://picsum.photos/1600/900
 ---
 
 # (Updated) (Updated) (Updated) The Human Premium: 'No-AI'가 새로운 럭셔리가 되다

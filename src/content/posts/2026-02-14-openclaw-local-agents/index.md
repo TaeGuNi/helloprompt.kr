@@ -2,7 +2,7 @@
 title: "Local Agents: 내 컴퓨터 속 AI 군단, OpenClaw"
 date: 2026-02-14
 tags: [openclaw, local-llm, agents]
-image: https://source.unsplash.com/random/1600x900/?computer,code
+image: https://picsum.photos/1600/900
 ---
 
 # (Updated) (Updated) (Updated) Local Agents: 내 컴퓨터 속 AI 군단, OpenClaw

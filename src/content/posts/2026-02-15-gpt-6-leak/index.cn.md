@@ -2,7 +2,7 @@
 title: "Gpt 6 Leak (Simplified Chinese)"
 description: "Critical analysis of gpt-6-leak: OpenAI's new model focuses on long-horizon planning."
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=GPT-6"
+image: "https://picsum.photos/800/400
 tags: ["AI", "Trend", "2026"]
 ---
 

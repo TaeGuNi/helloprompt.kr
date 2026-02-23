@@ -6,7 +6,7 @@ description:
   어떻게 혁신하는지, 그리고 전통적인 DAW(Digital Audio Workstation)의 미래는 어떻게 될지 분석합니다.
 image:
   alt: Gemini 3 Audio Canvas waveform interface
-  url: https://source.unsplash.com/random/1600x900/?music,studio,audio
+  url: https://picsum.photos/1600/900
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 slug: gemini-3-audio-canvas-review

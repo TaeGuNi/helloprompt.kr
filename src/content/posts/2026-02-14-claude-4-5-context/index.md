@@ -2,7 +2,7 @@
 title: "Claude 4.5 Opus: 100만 토큰의 미학"
 date: 2026-02-14
 tags: [anthropic, claude, ai]
-image: https://source.unsplash.com/random/1600x900/?book,library
+image: https://picsum.photos/1600/900
 ---
 
 # (Updated) (Updated) (Updated) Claude 4.5 Opus: 100만 토큰의 미학

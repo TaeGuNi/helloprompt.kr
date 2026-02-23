@@ -2,7 +2,7 @@
 title: "AI Slop Fatigue: 기계적 콘텐츠의 범람과 피로감"
 date: 2026-02-14
 tags: [ai, culture]
-image: https://source.unsplash.com/random/1600x900/?chaos,glitch
+image: https://picsum.photos/1600/900
 ---
 
 최근 인터넷 공간은 'AI Slop(슬롭)'이라고 불리는, 질 낮은 AI 생성 콘텐츠로 뒤덮이고 있습니다. 마치 가축에게 주는 꿀꿀이죽처럼, 의미 없이 대량 생산되어 쏟아지는 이미지와 텍스트들은 사용자들에게 깊은 피로감을 안겨주고 있습니다.

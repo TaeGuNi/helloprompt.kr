@@ -103,7 +103,7 @@ Output ONLY the raw markdown content. No explanatory text.
     : trend.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 
   // Remove the artificial slug field from the YAML structure since it's not actually in POST_TEMPLATE
-  let cleanContent = content.replace(/^slug:.*$/m, "").replace(/\n\n/g, "\n");
+  const cleanContent = content.replace(/^slug:.*$/m, "").replace(/\n\n/g, "\n");
 
   return { slug, content: cleanContent };
 }

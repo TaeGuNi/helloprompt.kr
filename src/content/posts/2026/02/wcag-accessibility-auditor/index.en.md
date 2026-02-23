@@ -5,133 +5,133 @@ author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"
-description: "내가 짠 코드가 모두를 위한 코드인가요? 접근성 표준(WCAG)을 준수하는지 점검해줍니다."
+description: "Is the code you write accessible to everyone? This prompt audits your code to ensure strict compliance with WCAG 2.2 accessibility standards."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ 내 코드는 모두에게 친절할까? 웹 접근성(WCAG) 자동 감사 봇
+# ♿️ Is Your Code Kind to Everyone? The Automated WCAG Accessibility Auditor
 
-- **🎯 추천 대상:** 공공기관/대기업 프로젝트 개발자, 포트폴리오의 디테일을 높이고 싶은 취준생, 시니어 프론트엔드 개발자
-- **⏱️ 소요 시간:** 접근성 체크리스트 수동 확인 2시간 → AI 자동 진단 1분
-- **🤖 추천 모델:** Claude 3.5 Sonnet (코드 분석 압도적), GPT-4o
+- **🎯 Recommended for:** Developers in public/enterprise projects, job seekers polishing their portfolios, and senior frontend engineers.
+- **⏱️ Time Saved:** 2 hours of manual checklist verification → 1 minute of automated AI auditing.
+- **🤖 Recommended AI:** Claude 3.5 Sonnet (exceptional at code analysis), GPT-4o.
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"화려한 애니메이션을 구현했지만, 정작 누군가는 로그인 버튼조차 누를 수 없다면 그 코드는 실패한 것입니다."_
+> _"You can build the most dazzling animations, but if someone cannot even press the login button, your code has failed."_
 
-웹 접근성(Web Accessibility)은 단순히 '배려'가 아니라 서비스의 '기본'이자 법적 의무가 되어가고 있습니다. 하지만 방대하고 복잡한 WCAG(Web Content Accessibility Guidelines) 2.2 가이드라인을 매번 외워서 코딩하는 것은 불가능에 가깝습니다. 이 프롬프트는 당신이 작성한 마크업과 컴포넌트 코드를 스캔하여, 스크린 리더와 키보드 탐색 환경에서 발생할 수 있는 치명적인 접근성 결함을 1분 만에 찾아내고 완벽한 시멘틱 코드로 리팩토링해 줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **시멘틱 마크업 전환:** 무분별한 `<div>` 떡칠을 의미 있는 HTML5 시멘틱 태그로 자동 변환합니다.
-2. **WCAG 2.2 완벽 준수:** 명도 대비, 초점(Focus) 이동, WAI-ARIA 오남용 등 까다로운 접근성 기준을 꼼꼼하게 검증합니다.
-3. **실전 테스트 가이드:** 스크린 리더(VoiceOver, NVDA) 및 키보드(Tab)만으로 검증할 수 있는 구체적인 테스트 방법까지 제공합니다.
+Web accessibility (A11y) is no longer just a "nice-to-have" courtesy; it is the fundamental baseline of a service and increasingly a strict legal requirement. However, memorizing and perfectly applying the massive, complex WCAG (Web Content Accessibility Guidelines) 2.2 during every coding session is nearly impossible. This prompt scans your markup and component code to identify critical accessibility flaws that occur in screen readers and keyboard navigation, refactoring them into flawless semantic code in just 60 seconds.
 
 ---
 
-## 🚀 해결책: "A11y(Accessibility) 오디터"
+## ⚡️ TL;DR
 
-### 🥉 Basic Version (기본형)
+1. **Semantic Markup Conversion:** Automatically transforms a messy soup of `<div>` tags into meaningful HTML5 semantic tags.
+2. **Strict WCAG 2.2 Compliance:** Thoroughly verifies complex accessibility standards, including color contrast, focus management, and WAI-ARIA misuse.
+3. **Actionable Testing Guide:** Provides specific, hands-on testing scenarios using only a screen reader (VoiceOver, NVDA) and a keyboard (Tab key).
 
-특정 버튼이나 폼(Form) 요소의 접근성이 의심될 때 빠르게 점검하세요.
+---
 
-> **역할:** 너는 웹 접근성(A11y) 전문가야.
-> **요청:** 아래 HTML 코드에서 스크린 리더나 키보드 탐색 시 발생할 수 있는 접근성 문제가 있는지 확인하고, 시멘틱하게 수정해줘.
-> **코드:**
+## 🚀 The Solution: "The A11y Auditor"
+
+### 🥉 Basic Version
+
+Use this for a quick check when you suspect an accessibility issue in a specific button or form element.
+
+> **Role:** You are a Web Accessibility (A11y) Expert.
+> **Task:** Review the following HTML code for potential accessibility issues during screen reader or keyboard navigation, and refactor it semantically.
+> **Code:**
 >
 > ```html
-> [여기에 코드를 붙여넣으세요]
+> [Paste your code here]
 > ```
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-복잡한 모달(Modal), 드롭다운(Dropdown), 탭(Tab) 인터랙션 등 고난도 UI 컴포넌트를 검수할 때 사용하세요.
+Use this to inspect highly complex UI components like modals, dropdowns, and tab interactions.
 
-> **역할 (Role):** 너는 엄격한 WCAG 2.2 인증 심사원이자 10년 차 시니어 프론트엔드 개발자야.
+> **Role:** You are a strict WCAG 2.2 Certification Auditor and a Senior Frontend Engineer with 10 years of experience.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 대상: 나는 지금 `[컴포넌트 이름, 예: 회원가입 폼 모달]` 컴포넌트를 개발했어.
-> - 목표: 마우스 사용이 불가능한 키보드 사용자 및 시각장애인(스크린 리더 사용자)도 아무런 장벽 없이 이 UI를 조작할 수 있어야 해.
+> - Target: I have just developed the `[Component Name, e.g., Sign-up Form Modal]` component.
+> - Goal: Keyboard-only users and visually impaired users (relying on screen readers) must be able to interact with this UI without encountering any barriers.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **WCAG 2.2 진단:** 제공된 코드에서 WCAG 2.2 기준(Level AA 이상)에 위배되는 사항(명도, 초점 이동, 폼 레이블, 대체 텍스트 등)을 샅샅이 찾아내.
-> 2. **시멘틱 리팩토링:** 의미 없는 `<div>`나 `<span>` 남발을 제거하고, HTML5 시멘틱 태그를 활용해 코드를 재작성해.
-> 3. **WAI-ARIA 최적화:** '가장 좋은 ARIA는 ARIA를 쓰지 않는 것'이라는 원칙(First Rule of ARIA)을 지켜. 기본 HTML로 해결 안 되는 필수적인 경우에만 `aria-*` 속성과 `role`을 부여해.
-> 4. **초점(Focus) 트랩:** 모달이나 팝업일 경우, 내부에서 키보드 초점이 벗어나지 않도록(Focus Trap) 논리적인 흐름을 설계해.
-> 5. **검증 가이드:** 내가 직접 키보드(Tab/Shift+Tab, Space/Enter)와 스크린 리더로 이 코드를 테스트할 수 있는 구체적인 시나리오를 3줄로 알려줘.
+> 1. **WCAG 2.2 Audit:** Thoroughly inspect the provided code for any violations of WCAG 2.2 Level AA standards (e.g., color contrast, focus management, form labels, alternative text).
+> 2. **Semantic Refactoring:** Eliminate the excessive use of meaningless `<div>` or `<span>` tags. Rewrite the code utilizing appropriate HTML5 semantic tags.
+> 3. **WAI-ARIA Optimization:** Adhere strictly to the "First Rule of ARIA" (No ARIA is better than bad ARIA). Apply `aria-*` attributes and `role` only when absolutely necessary and native HTML cannot solve the problem.
+> 4. **Focus Trap:** If the component is a modal or popup, design a logical focus flow to ensure keyboard focus remains trapped inside the component while it is active.
+> 5. **Verification Guide:** Provide exactly 3 lines of specific, actionable scenarios detailing how I can manually test this code using a keyboard (Tab/Shift+Tab, Space/Enter) and a screen reader.
 >
-> **코드 (Code):**
+> **Code:**
 >
-> ```[언어, 예: tsx]
-> [여기에 컴포넌트 코드를 붙여넣으세요]
+> ```[Language, e.g., tsx]
+> [Paste your component code here]
 > ```
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 시각적으로는 숨기되 스크린 리더는 읽어야 하는 요소(`sr-only`)가 필요한 지점을 반드시 체크해서 반영해 줘.
+> - You must identify and implement screen-reader-only (`sr-only`) utility classes where elements need to be visually hidden but read aloud by screen readers.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-웹 접근성 개선 작업은 종종 'WAI-ARIA 떡칠'로 이어지기 쉽습니다. 하지만 잘못된 `aria-label`이나 `role` 부여는 오히려 스크린 리더 사용자에게 치명적인 혼란을 줍니다.
-이 프롬프트의 핵심은 AI에게 **"First Rule of ARIA(가능한 기본 HTML 태그를 우선 사용할 것)"** 원칙을 강제하는 것입니다.
-실무에서 복잡한 커스텀 셀렉트 박스(Select Box)나 모달(Modal)을 만들 때 이 프롬프트를 통과시키면, 예상치 못했던 키보드 포커스 유실 문제나 폼 레이블 누락을 기가 막히게 잡아냅니다. 특히 Claude 3.5 Sonnet 모델과 함께 사용했을 때, 마치 옆자리에 깐깐한 접근성 전문가가 앉아 꼼꼼하게 코드 리뷰를 해주는 것 같은 압도적인 퀄리티를 보여줍니다.
+Improving web accessibility often degenerates into randomly slapping WAI-ARIA attributes everywhere. However, incorrectly assigning `aria-label` or `role` creates catastrophic confusion for screen reader users.
 
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 화면 디자인(UI) 이미지로도 접근성 감사가 가능한가요?**
-  - A: 네, 가능합니다. GPT-4o나 Claude 3.5 Sonnet에 컴포넌트 캡처 이미지를 함께 첨부하며 "명도 대비(Color Contrast)가 WCAG AA 기준을 충족하는지 확인해 줘"라고 추가로 요청해 보세요. 숨겨진 디자인 결함까지 찾아냅니다.
-
-- **Q: Tailwind CSS를 사용 중인데, 클래스명도 알아서 수정해 주나요?**
-  - A: 프롬프트 상황(Context)에 "Tailwind CSS를 사용하여 스크린 리더 전용 유틸리티(`sr-only`) 클래스를 적용해 줘"라고 명시하면 여러분의 스택에 딱 맞는 코드를 뱉어냅니다.
+The core strength of this prompt is forcing the AI to strictly abide by the **"First Rule of ARIA"** (use native HTML elements whenever possible). When you run a complex custom Select Box or Modal through this prompt in a real-world project, it flawlessly catches unexpected keyboard focus losses and missing form labels. Especially when paired with Claude 3.5 Sonnet, it feels exactly like having an uncompromising accessibility expert sitting next to you, conducting an exhaustive code review.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **명확한 심사 기준 제시:** 단순히 "접근성을 좋게 해줘"가 아니라 "WCAG 2.2 Level AA"라는 국제 표준 규격을 페르소나에 주입하여 AI의 할루시네이션(거짓 정보)을 완벽하게 통제합니다.
-2.  **First Rule of ARIA 강제:** AI가 무분별하게 ARIA 속성을 남발하는 것을 막고, HTML 기본 스펙을 최대한 활용한 근본적인 시멘틱 마크업을 유도합니다.
-3.  **액셔너블(Actionable) 테스트 가이드:** 단순히 정답 코드를 주는 데 그치지 않고, 개발자가 직접 키보드로 눌러보며 체감하고 검증할 수 있는 테스트 시나리오를 요구하여 실무 효용성을 극대화했습니다.
+- **Q: Can I audit accessibility using just a UI design image?**
+  - A: Yes! You can attach a screenshot of your component to GPT-4o or Claude 3.5 Sonnet and add, "Check if the color contrast meets WCAG AA standards." It will uncover hidden design flaws before you even write a single line of code.
+
+- **Q: I use Tailwind CSS. Will it update the class names accordingly?**
+  - A: Absolutely. Just specify in the Context section: "Please use Tailwind CSS and apply `sr-only` utility classes where appropriate." The AI will output code perfectly tailored to your tech stack.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (입력: `div`로 빚어낸 최악의 버튼)
+1. **Clear Evaluation Standards:** Instead of a vague "make this accessible," injecting the international standard "WCAG 2.2 Level AA" into the AI's persona completely neutralizes hallucinations and guarantees accurate results.
+2. **Enforcing the First Rule of ARIA:** It prevents the AI from recklessly overusing ARIA attributes, guiding it toward fundamental, semantic markup leveraging native HTML specs.
+3. **Actionable Testing Guide:** Rather than simply handing over the correct code, it demands practical test scenarios. This allows developers to manually verify the UI with their keyboards, maximizing real-world utility and learning.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input: The Worst Button, Built with `div`)
 
 ```html
 <div class="submit-btn" onclick="sendData()">
   <img src="send-icon.png" />
-  <span>전송</span>
+  <span>Send</span>
 </div>
 ```
 
-### ✅ After (결과: 키보드 포커스 & 스크린 리더 완벽 대응)
+### ✅ After (Result: Flawless Keyboard & Screen Reader Support)
 
 ```html
-<!-- 의미 없는 장식용 이미지는 스크린 리더가 무시하도록 빈 alt 제공 또는 aria-hidden 처리 -->
-<!-- onClick뿐만 아니라 키보드 Enter/Space 대응이 기본 제공되는 button 태그 사용 -->
+<!-- Meaningless decorative images are ignored by screen readers using empty alt or aria-hidden -->
+<!-- Uses the <button> tag, natively supporting keyboard Enter/Space interactions alongside onClick -->
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
-  <span>전송</span>
+  <span>Send</span>
 </button>
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-접근성(A11y)은 누군가에게는 '조금 더 편리한 기능'일지 모르지만, 누군가에게는 '서비스를 이용할 수 있느냐 없느냐'를 결정짓는 거대한 장벽입니다. 좋은 개발자는 단순히 돌아가는 코드를 짜는 사람이 아니라, 단 한 명의 사용자도 소외시키지 않는 코드를 짜는 사람입니다.
+Accessibility (A11y) might seem like a "convenient extra feature" to some, but to others, it is an insurmountable wall dictating whether they can use a service at all. A great developer doesn't just write code that works; they write code that leaves no user behind.
 
-이제, 모두에게 친절한 코드를 작성하고 당당하게 칼퇴하세요! 🍷
+Now, go write some kind code, and clock out on time! 🍷

@@ -5,131 +5,132 @@ author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "재테크/투자"
-description: "보조지표를 볼 줄 모르는 주린이를 위한 AI 애널리스트. 차트 이미지를 업로드하면 객관적인 기술적 분석과 매매 시나리오를 제공합니다."
+description: "Ein KI-Analyst für Anfänger, die technische Indikatoren nicht lesen können. Laden Sie ein Chartbild hoch, um eine objektive technische Analyse und konkrete Handelsszenarien zu erhalten."
 tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
 ---
 
-# 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기
+# 📈 Aktienchart-Analyse: "Soll ich kaufen?" Einfach per Screenshot die KI fragen
 
-- **🎯 추천 대상:** "이거 지금 들어가도 돼?"라며 매번 종토방을 기웃거리는 주린이, 캔들과 거래량만 보면 머리가 하얘지는 초보 투자자
-- **⏱️ 소요 시간:** 10초 (차트 캡처 후 업로드)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (Vision 기능 필수)
+- **🎯 Zielgruppe:** Anfänger, die sich ständig fragen: "Kann ich jetzt noch einsteigen?" und bei Kerzen oder Volumen nur Bahnhof verstehen.
+- **⏱️ Zeitaufwand:** 10 Sekunden (Screenshot erstellen und hochladen)
+- **🤖 Empfohlene Modelle:** ChatGPT-4o, Claude 3.5 Sonnet (Vision-Funktion zwingend erforderlich)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeit:** ⭐☆☆☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐☆
+- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-> _"내가 사면 귀신같이 고점이고, 내가 팔면 기가 막히게 날아가는 '인간 지표'의 굴레에서 벗어나고 싶으신가요?"_
+> _"Möchten Sie dem Fluch des 'menschlichen Kontraindikators' entkommen – wo der Kurs verlässlich fällt, sobald Sie kaufen, und explodiert, sobald Sie verkaufen?"_
 
-투자의 모든 책임은 본인에게 있지만, 감정을 배제한 냉철한 조언은 AI에게 받을 수 있습니다. 복잡한 기술적 보조지표(RSI, MACD, 일목균형표, 볼린저밴드 등)의 계산 공식이나 원리를 완벽하게 외울 필요는 없습니다. **그저 관심 종목의 차트를 캡처해서 AI에게 던져주기만 하세요.** 월스트리트의 노련한 애널리스트처럼, 객관적인 데이터에 기반한 기술적 분석과 대응 시나리오를 즉각적으로 뽑아줍니다. 뇌동매매를 막아주는 가장 훌륭한 안전장치입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 사용 중인 MTS(증권 앱)나 HTS에서 분석하고 싶은 종목의 차트를 캡처합니다. (거래량과 이평선이 보이게)
-2. Vision(이미지 인식) 기능이 있는 AI(ChatGPT-4o 등)에 이미지를 업로드합니다.
-3. 제공된 **전문가형 프롬프트**를 복사해 붙여넣고, 감정이 섞이지 않은 객관적 지지/저항선과 매매 시나리오를 확인합니다.
+Sie tragen zwar die volle Verantwortung für Ihre Investitionen, aber für objektiven, emotionslosen Rat können Sie sich auf KI verlassen. Sie müssen die komplexen Formeln technischer Indikatoren (RSI, MACD, Ichimoku, Bollinger-Bänder usw.) nicht auswendig lernen. **Machen Sie einfach einen Screenshot Ihres gewünschten Charts und übergeben Sie ihn der KI.** Wie ein erfahrener Wall-Street-Analyst liefert sie sofort eine objektive, datengestützte technische Analyse und konkrete Handelsszenarien. Das ist der beste Schutz gegen impulsives FOMO-Trading (Fear of Missing Out).
 
 ---
 
-## 🚀 해결책: "Chart Vision Analyst"
+## ⚡️ 3-Punkte-Zusammenfassung (TL;DR)
 
-### 🥉 Basic Version (단순 패턴 및 추세 확인)
+1. Erstellen Sie einen Screenshot des Charts Ihres gewünschten Assets in Ihrer Trading-App oder Broker-Software (Volumen und gleitende Durchschnitte müssen sichtbar sein).
+2. Laden Sie das Bild in eine KI mit Vision-Funktion (wie ChatGPT-4o) hoch.
+3. Kopieren Sie den **Pro-Prompt**, fügen Sie ihn ein und erhalten Sie objektive Unterstützungs-/Widerstandslinien sowie klare Handelsszenarien ohne emotionale Verzerrung.
 
-복잡한 분석보다는 현재의 전반적인 흐름(상승장인지 하락장인지)만 빠르게 짚고 넘어가고 싶을 때 사용하세요.
+---
 
-> **(차트 이미지 업로드 후)**
+## 🚀 Lösung: "Chart Vision Analyst"
+
+### 🥉 Basic Version (Einfacher Trend & Muster)
+
+Verwenden Sie diese Version, wenn Sie schnell den aktuellen Gesamttrend (Bullen- oder Bärenmarkt) erfassen möchten, ohne tief in komplexe Analysen einzusteigen.
+
+> **(Nach dem Hochladen des Chart-Bildes)**
 >
-> **역할:** 너는 객관적인 주식 차트 분석가야.
-> **요청:** 첨부한 주식 차트의 현재 단기 및 중장기 추세를 분석해줘. 상승 추세인지, 하락 추세인지, 아니면 횡보 중인지 알려주고 가장 뚜렷하게 보이는 주요 지지선과 저항선의 가격대를 짚어줘.
+> **Rolle:** Du bist ein objektiver Aktienchart-Analyst.
+> **Aufgabe:** Analysiere den aktuellen kurz- und mittelfristigen Trend des beigefügten Aktiencharts. Sag mir, ob es sich um einen Aufwärtstrend, Abwärtstrend oder eine Seitwärtsbewegung handelt, und identifiziere die deutlichsten Unterstützungs- und Widerstandszonen.
 
 <br>
 
-### 🥇 Pro Version (전문가급 기술적 분석 및 시나리오 도출)
+### 🥇 Pro Version (Expertenanalyse & Szenarien)
 
-본격적인 매수/매도 타이밍을 재고 있거나, 손절 기준을 명확히 세워 리스크를 관리하고 싶을 때 사용하세요.
+Verwenden Sie diese Version, wenn Sie konkretes Timing für Kauf/Verkauf planen oder klare Stop-Loss-Regeln zur Risikominimierung festlegen möchten.
 
-> **역할 (Role):** 너는 월스트리트의 전설적인 프랍 트레이더(Prop Trader)이자 기술적 분석(Technical Analysis)의 대가야. 감정에 휘둘리지 않고 철저히 차트의 캔들, 거래량, 패턴만을 기반으로 시장의 심리를 읽어내지.
+> **Rolle (Role):** Du bist ein legendärer Prop-Trader an der Wall Street und ein Meister der technischen Analyse (Technical Analysis). Du lässt dich nicht von Emotionen leiten, sondern liest die Marktpsychologie ausschließlich anhand von Kerzen (Candles), Volumen und Chartmustern.
 >
-> **상황 (Context):**
+> **Kontext (Context):**
 >
-> - 배경: 나는 첨부한 차트의 종목에 투자를 고려하고 있거나 이미 보유 중인 개인 투자자야.
-> - 목표: 뇌동매매를 방지하고, 기계적이고 객관적인 기준에 따라 매수/매도/손절 타점을 잡기 위해 너의 정밀한 시나리오 분석이 필요해.
+> - Hintergrund: Ich bin ein Privatanleger, der erwägt, in das Asset auf dem beigefügten Chart zu investieren, oder es bereits hält.
+> - Ziel: Ich benötige deine präzise Szenarioanalyse, um impulsives Trading zu vermeiden und Kauf-, Verkaufs- sowie Stop-Loss-Punkte nach objektiven, mechanischen Kriterien festzulegen.
 >
-> **요청 (Task):**
-> 첨부된 차트 이미지를 바탕으로 다음 세 가지 관점에서 심층 분석 리포트를 작성해줘.
+> **Aufgabe (Task):**
 >
-> 1. **패턴 및 캔들 분석 (Patterns & Candles):** 현재 차트에서 유의미한 패턴(예: 쌍바닥, 헤드앤숄더, 삼각수렴, 불플래그 등)이 형성되고 있는지 판단해줘. 최근 캔들의 꼬리와 몸통의 의미도 해석해줘.
-> 2. **지표 및 거래량 해석 (Indicators & Volume):** 차트상에 보이는 이동평균선의 배열 상태(정배열/역배열)와 최근 가격 변동 시점의 거래량 변화가 시사하는 바를 설명해줘.
-> 3. **대응 시나리오 (Scenarios):**
->    - **[Bullish 상승 관점]:** 만약 현재 자리에서 지지받고 상승한다면, 1차적으로 도달 가능한 목표가(저항선)는 어디인가?
->    - **[Bearish 하락 관점]:** 만약 현재 추세가 꺾이고 하락한다면, 절대 이탈해서는 안 되는 마지노선(손절가 및 강한 지지선)은 어디인가?
+> Erstelle basierend auf dem beigefügten Chartbild einen detaillierten Analysebericht unter Berücksichtigung der folgenden drei Aspekte:
 >
-> **제약사항 (Constraints):**
+> 1. **Muster & Kerzen (Patterns & Candles):** Beurteile, ob sich im aktuellen Chart signifikante Muster (z. B. Double Bottom, Head and Shoulders, Dreiecksformation, Bull Flag etc.) bilden. Interpretiere auch die Bedeutung der Dochte und Körper der jüngsten Kerzen.
+> 2. **Indikatoren & Volumen (Indicators & Volume):** Erkläre die Anordnung der sichtbaren gleitenden Durchschnitte (Moving Averages) und was die Volumenänderungen bei den jüngsten Preisbewegungen signalisieren.
+> 3. **Handelsszenarien (Scenarios):**
+>    - **[Bullish - Aufwärtsszenario]:** Wenn der Kurs auf dem aktuellen Niveau Unterstützung findet und steigt, wo liegt das erste realistische Kursziel (Widerstand)?
+>    - **[Bearish - Abwärtsszenario]:** Wenn der aktuelle Trend bricht und der Kurs fällt, wo liegt die absolute Schmerzgrenze (Stop-Loss und starke Unterstützung), die keinesfalls unterschritten werden darf?
 >
-> - 출력 형식은 마크다운 불릿 포인트와 번호 매기기를 사용하여 가독성 좋게 정리해줘.
-> - 특정 종목에 대한 **절대적인 매수/매도 추천(리딩)은 절대 하지 마.** 오직 차트에 나타난 객관적 팩트와 통계적 확률에 기반한 분석만 제공해.
-> - 차트의 해상도가 낮아 특정 지표를 읽기 어렵다면, 억지로 지어내지 말고 "판별 불가"라고 명시해. (환각 방지)
+> **Einschränkungen (Constraints):**
+>
+> - Formatiere die Ausgabe lesefreundlich mit Markdown-Aufzählungszeichen und Nummerierungen.
+> - Gib **niemals** eine absolute Kauf- oder Verkaufsempfehlung (kein Trading-Signal) für ein bestimmtes Asset. Liefere ausschließlich Analysen, die auf objektiven Fakten und statistischen Wahrscheinlichkeiten basieren, die im Chart ablesbar sind.
+> - Wenn die Auflösung des Charts zu niedrig ist, um bestimmte Indikatoren sicher zu erkennen, erfinde nichts, sondern gib klar an: "Nicht identifizierbar". (Vermeidung von Halluzinationen)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Autorenkommentar (Insight)
 
-이 프롬프트의 핵심 가치는 **'강제적인 객관화'**에 있습니다. 투자자가 특정 종목에 꽂히면(소위 '확증 편향'에 빠지면) 차트에서 자신이 보고 싶은 긍정적인 신호만 보게 됩니다. 하지만 AI는 감정이 없습니다. 철저하게 이미지에 찍힌 픽셀의 형태(캔들)와 숫자(거래량)만을 기반으로 냉정한 평가를 내립니다.
+Der wahre Wert dieses Prompts liegt in der **"erzwungenen Objektivität"**. Wenn sich Anleger auf ein bestimmtes Asset fixieren (so genannter Confirmation Bias), sehen sie im Chart oft nur noch die positiven Signale, die sie sehen wollen. Die KI hingegen hat keine Emotionen. Sie bewertet die Situation eiskalt und ausschließlich anhand der Form der Pixel (Kerzen) und der Zahlen (Volumen) auf dem hochgeladenen Bild.
 
-실제 현업 전업 트레이더들도 진입 전 반드시 상승 시나리오와 하락 시나리오(손절 라인)를 동시에 세웁니다. AI가 제시하는 Bearish(하락 관점) 시나리오의 지지선을 여러분의 **기계적 손절가**로 설정해 보세요. 이 프롬프트 하나만으로도 큰 손실을 막아주는 훌륭한 리스크 관리 툴을 얻은 셈입니다. 특히, 캡처할 때 **거래량 지표**가 반드시 화면에 포함되도록 하는 것이 분석의 정확도를 비약적으로 높이는 꿀팁입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 한국 주식(코스피/코스닥) 차트뿐만 아니라 미국 주식이나 코인 차트도 분석 가능한가요?**
-  - A: 물론입니다. 기술적 분석의 근간이 되는 캔들스틱 차트는 전 세계 금융 시장(주식, 가상화폐, 선물 등)에서 공통으로 사용되는 언어입니다. 비트코인 15분봉이든, 테슬라 주봉이든 동일하게 정확한 분석을 제공합니다.
-
-- **Q: 분석 결과가 너무 뻔한 소리만 하는 것 같아요. 더 깊이 있는 분석을 원하면 어떡하죠?**
-  - A: 차트 캡처 시 화면에 나타나는 보조지표(RSI, MACD 등)를 추가로 띄운 상태에서 캡처해 보세요. 그리고 프롬프트 요청 부분에 "이미지 하단의 RSI 다이버전스 여부를 집중적으로 체크해줘"와 같이 구체적인 지표 확인을 추가로 지시하면 훨씬 심도 있는 결과를 얻을 수 있습니다.
-
-- **Q: AI가 분석한 지지선 가격이 실제 차트 호가와 약간 다릅니다. 왜 그런가요?**
-  - A: AI는 이미지의 y축 눈금을 보고 가격을 추론합니다. 캡처된 화면의 해상도나 비율에 따라 미세한 오차가 발생할 수 있습니다. 따라서 AI가 제시한 대략적인 가격대(예: "60,000원 부근")를 참고하되, 실제 HTS/MTS에서 정확한 호가창의 매물대를 본인이 직접 한 번 더 더블 체크하는 것이 안전합니다.
+Professionelle Daytrader erstellen vor jedem Einstieg grundsätzlich sowohl ein Aufwärtsszenario als auch ein Abwärtsszenario (Stop-Loss-Linie). Versuchen Sie, die von der KI im Bearish-Szenario vorgeschlagene Unterstützungslinie als Ihren **mechanischen Stop-Loss** festzulegen. Allein durch diesen Prompt erhalten Sie ein hervorragendes Risikomanagement-Tool, das Sie vor großen Verlusten bewahrt. Ein besonderer Tipp: Stellen Sie sicher, dass der **Volumen-Indikator** auf dem Screenshot deutlich sichtbar ist – das erhöht die Genauigkeit der Analyse enorm.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1. **상황 및 페르소나 부여 (Prop Trader):** AI에게 단순 봇이 아닌 '전설적인 프랍 트레이더'라는 페르소나를 부여하여, 학술적인 설명보다는 실제 시장의 매수/매도 심리를 읽어내는 실전적인 답변을 유도합니다.
-2. **양방향 시나리오 강제 (Bullish & Bearish):** "오를까 내릴까"를 묻는 것은 하수입니다. 상승과 하락 두 가지 모든 경우의 수에 대한 대응 전략(목표가와 손절가)을 요구함으로써, 리스크 관리에 최적화된 결과물을 강제합니다.
-3. **엄격한 제약 (할루시네이션 방지):** AI가 모호한 픽셀을 보고 억지로 보조지표를 지어내어 잘못된 분석을 하는 것을 막기 위해, 보이지 않으면 "판별 불가"라고 명시하도록 제약을 걸어 분석의 신뢰도를 높였습니다.
+- **F: Kann die KI neben Aktien auch Krypto- oder internationale Charts analysieren?**
+  - A: Absolut. Der Candlestick-Chart als Grundlage der technischen Analyse ist eine universelle Sprache auf den globalen Finanzmärkten (Aktien, Krypto, Futures usw.). Die Analyse ist beim 15-Minuten-Chart von Bitcoin genauso präzise wie beim Wochenchart von Tesla.
 
----
+- **F: Die Analyseergebnisse scheinen zu oberflächlich. Was tun, wenn ich mehr Tiefe brauche?**
+  - A: Lassen Sie bei der Aufnahme des Screenshots zusätzliche technische Indikatoren (wie RSI, MACD) auf dem Bildschirm anzeigen. Fügen Sie dann im Aufgaben-Teil des Prompts eine spezifische Anweisung hinzu, z. B.: "Achte besonders auf eine mögliche RSI-Divergenz im unteren Bildrand." Dadurch erhalten Sie deutlich tiefere Einblicke.
 
-## 📊 증명: Before & After
-
-### ❌ Before (뇌동매매 및 희망회로)
-
-**나 (속마음):** "와, 이거 장대양봉 떴다! 거래량 터지면서 전고점 돌파하네. 무조건 더 간다! 묻고 더블로 가!"
-_(결과: 전형적인 불트랩(Bull Trap, 상승 속임수)에 걸려 고점 최고가 매수 후 다음 날 -15% 급락 📉)_
-
-### ✅ After (AI 객관적 분석 적용)
-
-**나:** (Pro Version 프롬프트와 차트 입력)
-
-**AI (Chart Vision Analyst):**
-
-- **패턴 및 캔들:** 단기 급상승하며 장대양봉이 발생했으나, 이전 매물대 저항선에 부딪히며 긴 위꼬리를 달고 내려오는 형태입니다.
-- **지표 및 거래량:** 상승 돌파 시도 시 거래량이 이전 고점 대비 턱없이 부족합니다. 이는 추가 상승 동력이 약하다는 것을 시사합니다.
-- **대응 시나리오:**
-  - **[Bullish]:** 종가 기준으로 위꼬리를 잡아먹고 85,000원에 안착한다면 추가 상승 가능성이 열립니다.
-  - **[Bearish]:** 거래량 없는 상승이므로 단기 조정 확률이 높습니다. 단기 이평선이 깨지는 78,000원을 이탈 시 즉각적인 손절 혹은 관망을 권장합니다.
-
-_(결과: AI의 분석을 보고 추격 매수를 참은 뒤 78,000원 지지 여부를 관망함. 결국 다음 날 하락하는 것을 보며 계좌 방어 성공 🛡️)_
+- **F: Der von der KI genannte Preis für die Unterstützungslinie weicht leicht vom tatsächlichen Chart ab. Warum?**
+  - A: Die KI leitet den Preis aus der Y-Achse des Bildes ab. Je nach Auflösung und Proportionen des Screenshots kann es zu minimalen Abweichungen kommen. Nutzen Sie den von der KI genannten Preisbereich (z. B. "um die 60.000 €") als Richtwert, aber überprüfen Sie das genaue Orderbuch in Ihrer Handelsplattform noch einmal manuell.
 
 ---
 
-## 🎯 결론
+## 🧬 Prompt-Anatomie (Why it works?)
 
-AI는 내일 당장 오를 종목을 찍어주는 신내림 받은 점쟁이가 아닙니다.
-하지만 **우리의 탐욕과 공포에 가려져 보이지 않던 객관적이고 차가운 차트의 신호**를 누구보다 정확하게 읽어주는 훌륭한 파트너입니다.
+1. **Rolle & Kontext (Prop Trader):** Indem wir der KI die Persona eines "legendären Prop-Traders" anstelle eines einfachen Bots zuweisen, provozieren wir praxisnahe Antworten, die die Marktpsychologie widerspiegeln, anstatt nur akademische Theorien zu liefern.
+2. **Erzwungene Dual-Szenarien (Bullish & Bearish):** Nur Anfänger fragen: "Wird es steigen oder fallen?". Durch die Forderung nach Strategien für beide Richtungen (Kursziel und Stop-Loss) erzwingen wir ein Ergebnis, das auf optimales Risikomanagement ausgelegt ist.
+3. **Strenge Einschränkungen (Halluzinations-Prävention):** Um zu verhindern, dass die KI bei unscharfen Bildern Indikatoren erfindet, wird ihr explizit befohlen, unklare Elemente als "Nicht identifizierbar" zu deklarieren. Das erhöht die Zuverlässigkeit der Analyse massiv.
 
-FOMO(나만 소외될 것 같은 두려움)에 휩싸여 '매수' 버튼을 다급하게 누르기 전에, 딱 10초만 숨을 고르세요.
-AI에게 스크린샷 한번 보여주고 냉정한 조언을 들은 뒤 버튼을 눌러도 절대 늦지 않습니다. 성공적인 투자의 핵심은 잃지 않는 것입니다. 🍷
+---
+
+## 📊 Beweis: Vorher & Nachher
+
+### ❌ Vorher (Impulsives Trading & Wunschdenken)
+
+**Ich (innerer Monolog):** "Wow, eine riesige grüne Kerze! Das Volumen explodiert und wir durchbrechen das letzte Hoch. Das Ding geht durch die Decke! All in!"
+_(Ergebnis: In eine klassische Bullenfalle (Bull Trap) getappt. Zum absoluten Höchststand gekauft und am nächsten Tag ein Minus von 15 % kassiert 📉)_
+
+### ✅ Nachher (Mit objektiver KI-Analyse)
+
+**Ich:** (Gebe den Pro-Prompt und das Chart-Bild ein)
+
+**KI (Chart Vision Analyst):**
+
+- **Muster & Kerzen:** Ein kurzfristiger Anstieg mit einer großen grünen Kerze, die jedoch an der vorherigen Widerstandszone abprallte und einen langen oberen Docht hinterlässt.
+- **Indikatoren & Volumen:** Das Volumen beim Ausbruchsversuch ist im Vergleich zum vorherigen Hoch deutlich zu gering. Dies deutet auf mangelnde Aufwärtsdynamik hin.
+- **Szenarien:**
+  - **[Bullish]:** Wenn der Kurs auf Tagesschlussbasis den oberen Docht "auffrisst" und sich über 85.000 hält, ist weiteres Aufwärtspotenzial gegeben.
+  - **[Bearish]:** Da der Anstieg ohne ausreichendes Volumen stattfand, ist eine kurzfristige Korrektur sehr wahrscheinlich. Fällt der Kurs unter die Marke von 78.000 (wo der kurzfristige gleitende Durchschnitt bricht), wird ein sofortiger Stop-Loss oder eine abwartende Haltung empfohlen.
+
+_(Ergebnis: Nach dem Lesen der KI-Analyse dem FOMO-Drang widerstanden und abgewartet, ob die 78.000 halten. Am nächsten Tag fiel der Kurs, und das Portfolio blieb geschützt 🛡️)_
+
+---
+
+## 🎯 Fazit
+
+Die KI ist keine magische Wahrsagerin, die Ihnen todsicher verrät, welche Aktie morgen explodiert.
+Sie ist jedoch ein hervorragender, emotionsloser Partner, der die **kalten, objektiven Signale des Charts** besser liest als jeder Anleger, dessen Blick durch Gier und Angst vernebelt ist.
+
+Bevor Sie also aus reiner FOMO hastig auf den "Kaufen"-Button klicken, atmen Sie für genau 10 Sekunden durch.
+Zeigen Sie der KI kurz Ihren Screenshot und holen Sie sich eine objektive Zweitmeinung ein. Für diesen Schritt ist es nie zu spät. Denn die wichtigste Regel beim erfolgreichen Investieren lautet: Verliere kein Geld. 🍷

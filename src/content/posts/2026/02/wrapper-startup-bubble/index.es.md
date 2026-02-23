@@ -5,132 +5,132 @@ tags: [startup, tech]
 image: https://source.unsplash.com/random/1600x900/?bubble,code
 ---
 
-# 📝 AI 래퍼(Wrapper) 스타트업 진단 및 해자(Moat) 구축 프롬프트
+# 📝 Prompt de Diagnóstico para Startups "Wrapper" de IA y Construcción de Fosos (Moats)
 
-- **🎯 추천 대상:** 예비 창업가, 스타트업 대표(CEO), 프로덕트 오너(PO), VC 투자심사역
-- **⏱️ 소요 시간:** 사업 모델 점검 1시간 → 3분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Recomendado para:** Futuros fundadores, CEOs de startups, Product Owners (PO), Analistas de Venture Capital (VC)
+- **⏱️ Tiempo requerido:** Revisión del modelo de negocio de 1 hora → Reducido a 3 minutos
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"우리 서비스, 내일 OpenAI가 똑같은 기능을 무료로 출시하면 당장 망하나요?"_
+> _"Si OpenAI lanza mañana la misma función gratis, ¿nuestro servicio desaparece al instante?"_
 
-최근 AI 스타트업 붐이 일고 있지만, 실상을 들여다보면 많은 기업들이 단순히 OpenAI나 Anthropic의 API를 포장한 '래퍼(Wrapper)' 서비스에 불과합니다. 거대 기술 기업(Big Tech)이 해당 기능을 내재화하는 순간, 순식간에 경쟁력을 잃고 폐업 위기에 처하게 됩니다. 진정한 혁신과 방어 가능한 '기술적 해자(Moat)' 없이 마케팅에만 의존하는 비즈니스는 결코 지속될 수 없습니다.
+Aunque vivimos un boom de startups de Inteligencia Artificial, la realidad es que muchas de estas empresas son simples servicios "Wrapper" (envoltorios) que se limitan a empaquetar las APIs de OpenAI o Anthropic. En el momento en que una gran tecnológica (Big Tech) integra esa misma función de forma nativa, estas startups pierden su competitividad en un abrir y cerrar de ojos, enfrentándose a la quiebra. Un negocio que depende exclusivamente del marketing, sin una verdadera innovación ni un "foso tecnológico" (Moat) defendible, jamás será sostenible.
 
-여러분의 비즈니스 모델이 단순 껍데기인지 진단하고, 빅테크의 공세에도 살아남을 수 있는 독창적인 가치 제안(UVP)과 기술적 해자를 발굴해 주는 뼈 때리는 진단 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 단순 API 호출만 하는 '래퍼(Wrapper)' 모델은 빅테크의 기능 업데이트 한 번에 무너질 위험이 매우 큽니다.
-2. 이 프롬프트는 현재 비즈니스 모델의 취약점을 분석하고, 방어 가능한 기술적/데이터 해자를 진단합니다.
-3. 객관적이고 냉혹한 피드백을 통해 뻔한 AI 서비스에서 벗어나 대체 불가능한 프로덕트로 피벗(Pivot)할 아이디어를 얻을 수 있습니다.
+A continuación, te presentamos un prompt de diagnóstico crudo y directo. Te ayudará a descubrir si tu modelo de negocio es un simple cascarón vacío y te guiará para encontrar una Propuesta de Valor Única (UVP) y un foso tecnológico que te permita sobrevivir incluso ante el implacable avance de las Big Tech.
 
 ---
 
-## 🚀 해결책: "스타트업 해자(Moat) 감별사"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Los modelos "Wrapper" basados en simples llamadas a una API corren un altísimo riesgo de colapsar con una sola actualización de las Big Tech.
+2. Este prompt analiza las vulnerabilidades de tu modelo de negocio actual y diagnostica la viabilidad de tus fosos tecnológicos y de datos.
+3. A través de un feedback objetivo y despiadado, obtendrás ideas para pivotar y transformar un servicio de IA genérico en un producto verdaderamente irremplazable.
 
-빠르게 현재 아이템의 위험도를 진단하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 실리콘밸리의 냉철한 1티어 벤처캐피탈(VC) 심사역이야.
-> **요청:** 내가 기획 중인 AI 서비스 `[서비스 아이디어]`가 단순 API Wrapper인지 진단하고, OpenAI가 이 기능을 직접 출시했을 때 살아남을 수 있는 방어 전략 3가지를 제시해줘.
+## 🚀 Solución: "El Detector de Fosos (Moats) para Startups"
+
+### 🥉 Versión Básica (Basic)
+
+Úsala cuando necesites evaluar rápidamente el nivel de riesgo de tu idea actual.
+
+> **Rol:** Eres un analista implacable de un fondo de Venture Capital (VC) de primer nivel en Silicon Valley.
+> **Tarea:** Diagnostica si el servicio de IA que estoy diseñando, `[Idea de servicio]`, es un simple API Wrapper. Además, propón 3 estrategias de defensa para asegurar nuestra supervivencia en caso de que OpenAI lance esta misma función de forma nativa.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro)
 
-비즈니스 모델(BM)을 깊이 있게 분석하고, 구체적인 해자 구축 전략이 필요할 때 사용하세요.
+Úsala para realizar un análisis profundo de tu modelo de negocio (BM) y cuando necesites estrategias concretas para construir tu foso defensivo.
 
-> **역할 (Role):** 너는 Y Combinator 파트너급의 AI 비즈니스 전략가이자 날카로운 벤처 투자자야.
+> **Rol:** Eres un estratega de negocios de IA al nivel de un socio de Y Combinator y un inversor de riesgo sumamente perspicaz.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 우리는 현재 `[타겟 고객층]`을 위한 `[핵심 기능 및 서비스 설명]` 서비스를 운영(또는 기획) 중이야.
-> - 기반 기술: 주로 `[사용 중인 AI 모델, 예: GPT-4o, Claude 3.5 Sonnet]`의 API를 활용하고 있어.
-> - 목표: 단순한 'Wrapper'라는 한계를 극복하고, 우리만의 독보적인 기술적/데이터 해자(Moat)를 구축하고 싶어.
+> - **Fondo:** Actualmente operamos (o estamos diseñando) un servicio de `[Descripción de la función principal y el servicio]` dirigido a `[Público objetivo]`.
+> - **Tecnología base:** Principalmente utilizamos la API de `[Modelo de IA que utilizas, ej: GPT-4o, Claude 3.5 Sonnet]`.
+> - **Objetivo:** Queremos superar las limitaciones de ser un simple "Wrapper" y construir nuestro propio y exclusivo foso (Moat) tecnológico y de datos.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. **생존 가능성 진단:** 현재 비즈니스 모델이 빅테크(Google, OpenAI 등)의 자체 기능 업데이트 시 받을 타격과 생존 가능성을 %로 냉정하게 평가해 줘.
-> 2. **취약점 분석:** 우리의 서비스가 단순 래퍼(Wrapper)로 보일 수 있는 치명적인 약점 3가지를 지적해 줘.
-> 3. **해자(Moat) 구축 전략 제안:** 다음 세 가지 관점에서 우리가 집중해야 할 방어 전략을 구체적으로 제시해 줘.
->    - 데이터 해자 (독점적으로 수집/가공할 수 있는 데이터)
->    - 워크플로우 통합 (고객의 기존 업무 프로세스에 깊게 스며드는 방법)
->    - 네트워크 효과 또는 커뮤니티
-> 4. `[핵심 기능 및 서비스 설명]` 부분의 특성을 완벽히 반영해서 답변을 작성해.
+> 1. **Diagnóstico de viabilidad:** Evalúa fríamente en porcentaje (%) nuestra probabilidad de supervivencia y el impacto que sufriríamos si las Big Tech (Google, OpenAI, etc.) actualizan sus propias funciones nativas.
+> 2. **Análisis de vulnerabilidades:** Señala 3 debilidades críticas que hacen que nuestro servicio parezca un simple "Wrapper".
+> 3. **Propuesta de estrategias para construir un Moat:** Propón estrategias de defensa concretas en las que debamos enfocarnos, desde estas tres perspectivas:
+>    - Foso de datos (Datos que podemos recopilar y procesar de forma exclusiva)
+>    - Integración en el flujo de trabajo (Cómo arraigarnos profundamente en los procesos de trabajo existentes del cliente)
+>    - Efectos de red o comunidad
+> 4. Redacta tu respuesta reflejando a la perfección las características de la `[Descripción de la función principal y el servicio]`.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 모바일 가독성을 위해 마크다운 리스트(Bullet Point) 형식으로 해줘. (표 사용 금지)
-> - 무조건 긍정적인 말이나 영혼 없는 칭찬은 배제하고, 뼈를 때리는 현실적이고 냉혹한 피드백을 우선해.
+> - El formato de salida debe ser en listas de viñetas (Bullet Points) en Markdown para asegurar la legibilidad en dispositivos móviles. (Prohibido usar tablas).
+> - Excluye cualquier comentario incondicionalmente positivo o elogios vacíos. Prioriza el feedback realista, crudo y despiadado.
 >
-> **주의사항 (Warning):**
+> **Advertencias (Warning):**
 >
-> - 허황된 기술이나 초기 스타트업이 당장 구현할 수 없는 막대한 자본이 드는 전략(예: 자체 파운데이션 모델 스크래치 학습)은 제안하지 마.
+> - No propongas tecnologías ilusorias o estrategias que requieran un capital inmenso, imposibles de implementar de inmediato para una startup en fase inicial (por ejemplo, entrenar un modelo fundacional propio desde cero).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-이 프롬프트는 제가 직접 수많은 AI 서비스 기획안을 리뷰할 때 사용하는 '뼈 때리는' 진단기입니다.
-GPT API가 처음 공개된 직후 수많은 PDF 요약 서비스들이 우후죽순 등장했지만, 결국 ChatGPT 내에 자체 문서 분석 기능이 생기면서 대부분 자취를 감췄습니다. AI는 훌륭한 '엔진'이지만, 여러분의 서비스가 엔진 그 자체가 되어서는 안 됩니다.
+Este prompt es la herramienta de diagnóstico "implacable" que yo mismo utilizo al revisar innumerables propuestas de servicios de IA.
+Justo después de que se hiciera pública la API de GPT, aparecieron de la nada muchísimos servicios de resumen de PDFs. Sin embargo, cuando ChatGPT integró su propia función de análisis de documentos, la mayoría desapareció sin dejar rastro. La IA es un motor excelente, pero tu servicio no debe limitarse a ser solo el motor.
 
-이 프롬프트를 통해 얻은 답변 중 **"워크플로우 통합(Workflow Integration)"** 파트를 특히 주의 깊게 살펴보세요. 고객이 매일 사용하는 슬랙(Slack), 지라(Jira), 혹은 사내 레거시 시스템과 얼마나 끈끈하게 결합하느냐가 초기 AI 스타트업이 가질 수 있는 가장 강력하고 현실적인 무기입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 너무 부정적인 평가만 내려서 의욕이 떨어집니다. 어떻게 하죠?**
-  - A: 프롬프트 제약사항에 명시된 '냉혹한 피드백' 조건 때문입니다. 런칭 후 시장에서 처참하게 외면받는 것보다 기획 단계에서 AI에게 먼저 팩트 폭행을 당하는 것이 훨씬 안전합니다. 진단 결과를 바탕으로 "이 약점을 보완할 피벗(Pivot) 아이디어를 3가지 제시해 줘"라고 이어서 질문해 보세요.
-
-- **Q: B2B SaaS가 아닌 일반 B2C 앱에도 이 프롬프트를 쓸 수 있나요?**
-  - A: 네, 충분히 가능합니다. B2C의 경우 상황(Context) 섹션에 여러분이 보유한 '유저 획득 채널'이나 '커뮤니티 기반'을 추가로 적어주시면, 모델이 '네트워크 효과' 중심의 해자 전략을 아주 훌륭하게 도출해 냅니다.
+Presta especial atención a la sección de **"Integración en el flujo de trabajo (Workflow Integration)"** de las respuestas generadas por este prompt. La forma en que te conectas y te integras estrechamente con las herramientas que tus clientes usan a diario, como Slack, Jira o sus sistemas internos legacy, es el arma más poderosa y realista que puede tener una startup de IA en sus etapas iniciales.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **Role 부여:** 'Y Combinator 파트너'라는 페르소나를 씌워, 단순히 듣기 좋은 말이 아닌 실제 투자 유치 및 생존 관점에서의 날카로운 피드백을 강제했습니다.
-2. **명확한 진단 기준 제시:** 데이터 해자, 워크플로우 통합, 네트워크 효과라는 입증된 3가지 비즈니스 평가 프레임워크를 지정하여 두루뭉술한 답변이 나오는 것을 방지했습니다.
-3. **현실적 제약 (Constraints):** "자체 파운데이션 모델 학습" 같은 초기 스타트업이 실행 불가능한 조언을 사전에 차단하여 실용성을 극대화하고 환각(Hallucination)을 줄였습니다.
+- **P: La IA es demasiado negativa y me desmotiva. ¿Qué debo hacer?**
+  - **R:** Esto se debe a la restricción de "feedback crudo" especificada en el prompt. Es infinitamente más seguro recibir un baño de realidad de la IA en la fase de planificación que ser brutalmente ignorado por el mercado después del lanzamiento. Basándote en el diagnóstico, intenta continuar la conversación preguntando: "Dame 3 ideas de pivote para mitigar estas debilidades".
+
+- **P: ¿Puedo usar este prompt para una aplicación B2C normal y no solo para un SaaS B2B?**
+  - **R:** Sí, por supuesto. En el caso de B2C, si añades información sobre tus "canales de adquisición de usuarios" o tu "base de comunidad" en la sección de Contexto (Context), el modelo generará de manera brillante estrategias de fosos centradas en los "efectos de red".
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (단순한 질문)
+1. **Asignación de Rol:** Al imponer la persona de un "Socio de Y Combinator", obligamos a la IA a dar un feedback incisivo desde la perspectiva real de la supervivencia y la captación de inversiones, en lugar de simples halagos.
+2. **Criterios de Diagnóstico Claros:** Al especificar tres marcos de evaluación empresarial comprobados (foso de datos, integración de flujo de trabajo y efectos de red), evitamos respuestas vagas o genéricas.
+3. **Restricciones Realistas (Constraints):** Al bloquear de antemano consejos inejecutables para una startup temprana, como "entrenar un modelo fundacional propio", maximizamos la viabilidad práctica y reducimos las alucinaciones de la IA.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Pregunta simple)
 
 ```text
-우리는 ChatGPT API를 써서 블로그 글을 자동으로 써주는 서비스를 만들고 있어. 이거 괜찮은 아이디어야?
+Estamos creando un servicio que escribe automáticamente artículos de blog usando la API de ChatGPT. ¿Es una buena idea?
 ```
 
-### ✅ After (Pro 프롬프트 적용 결과 예시)
+### ✅ Después (Ejemplo de resultado aplicando el Prompt Pro)
 
 ```text
-[냉혹한 생존 가능성 진단]
-- 생존 가능성: 15% 미만
-- 이유: 이미 수많은 유사 서비스가 존재하며, Notion AI나 ChatGPT 자체가 블로그 작성 기능을 완벽히 수행합니다. 단순 텍스트 생성 기능만으로는 빅테크의 UI 업데이트 한 번에 모든 고객을 잃게 됩니다.
+[Diagnóstico Crudo de Viabilidad]
+- Probabilidad de supervivencia: Menos del 15%
+- Razón: Ya existen innumerables servicios similares. Notion AI o el propio ChatGPT realizan la redacción de blogs a la perfección. Con una simple función de generación de texto, perderán a todos sus clientes con una sola actualización de la interfaz de las Big Tech.
 
-[치명적인 약점 3가지]
-1. 대체 불가능성 제로: 유저가 굳이 여러분의 서비스를 거쳐야 할 이유가 부족합니다.
-2. 진입 장벽 부재: 컴퓨터공학과 대학생이 주말 이틀이면 똑같은 데모를 만들 수 있습니다.
-3. 마진 압박: API 호출 비용은 계속 나가는데, 차별성이 없어 가격 경쟁이 심화되고 결국 수익화가 불가능해집니다.
+[3 Debilidades Críticas]
+1. Cero irremplazabilidad: Faltan motivos reales por los que el usuario deba pasar obligatoriamente por su servicio.
+2. Ausencia de barreras de entrada: Un estudiante de ingeniería informática podría crear la misma demo en un fin de semana.
+3. Presión sobre los márgenes: Los costos de llamadas a la API son constantes, pero al no haber diferenciación, la guerra de precios se intensifica y la monetización se vuelve imposible.
 
-[해자(Moat) 구축 전략 제안]
-- 데이터 해자: 단순 글쓰기가 아니라, 고객사의 '기존 고성과 블로그 글들의 문체와 전환율 데이터'를 수집하여 특정 브랜드만의 톤앤매너를 100% 복제하는 데 집중하세요.
-- 워크플로우 통합: 글쓰기에서 끝내지 말고, 워드프레스/티스토리 자동 발행 시스템 및 SEO 모니터링 대시보드까지 콘텐츠 파이프라인 전체를 장악하세요.
+[Propuesta de Estrategias para Construir un Moat]
+- Foso de Datos: No se limiten a escribir. Enfóquense en recopilar "datos de estilo y tasas de conversión de artículos de blog anteriores de alto rendimiento" de la empresa cliente para clonar al 100% el tono y estilo de su marca en particular.
+- Integración en el flujo de trabajo: No se detengan en la redacción; dominen todo el flujo de contenido integrando sistemas de publicación automática para WordPress y dashboards de monitorización SEO.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-단순 API 껍데기(Wrapper)로 시작하는 것을 두려워하지 마세요. 현존하는 많은 위대한 AI 서비스들의 첫 번째 프로토타입 역시 래퍼에서 출발했습니다.
+No temas empezar como un simple envoltorio (Wrapper) de una API. Los primeros prototipos de muchos de los grandes servicios de IA que existen hoy en día también comenzaron como wrappers.
 
-정말 중요한 것은 그 껍데기 안에 **'우리만의 고유한 뼈대와 피(데이터, 고객 워크플로우)'**를 얼마나 빠르고 단단하게 채워 넣느냐입니다. 이 프롬프트를 통해 빅테크의 공세에도 흔들리지 않는 여러분만의 견고한 성(Castle)을 설계해 보시길 바랍니다! 🚀
+Lo verdaderamente importante es con qué rapidez y solidez logras llenar ese cascarón con **"nuestra propia sangre y huesos (datos y flujo de trabajo del cliente)"**. ¡Espero que a través de este prompt logres diseñar tu propia fortaleza inquebrantable, resistente incluso a los embates de las Big Tech! 🚀

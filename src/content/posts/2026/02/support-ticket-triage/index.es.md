@@ -5,153 +5,153 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "고객의 감정을 분석하여 우선적으로 대응해야 할 '화난 고객'을 찾아내는 CS 분류 프롬프트입니다."
+description: "Un prompt de clasificación de CS (Atención al Cliente) que analiza el sentimiento del cliente para identificar a los 'clientes enojados' que requieren atención prioritaria."
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 
-# 📝 화난 고객을 기다리게 하지 마세요.
+# 📝 No Hagas Esperar a un Cliente Enojado
 
-- **🎯 추천 대상:** CS 매니저, 쇼핑몰 운영자, 고객 경험(CX) 담당자
-- **⏱️ 소요 시간:** 1시간 → 1분
-- **🤖 추천 모델:** GPT-3.5 Turbo (빠름), GPT-4o (정확함)
+- **🎯 Público Objetivo:** Gerentes de CS, Operadores de E-commerce, Especialistas en Experiencia del Cliente (CX)
+- **⏱️ Tiempo Ahorrado:** De 1 hora → a 1 minuto
+- **🤖 Modelo Recomendado:** GPT-3.5 Turbo (Rápido), GPT-4o (Preciso)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐☆☆
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐☆☆
 
-> _"속도가 곧 친절입니다. 분노한 고객의 골든타임을 지켜주세요."_
+> _"La velocidad es empatía. Protege el 'minuto de oro' de un cliente frustrado."_
 
-수백 개의 CS 문의가 쌓인 게시판 앞에서 막막했던 적 있으신가요? 순서대로 답변하다가 정작 가장 시급한 '배송 사고'나 '중복 결제 오류' 문의를 놓쳐 고객의 불만이 폭발한 경험이 한 번쯤은 있을 겁니다. 이제 AI를 활용해 고객의 감정 상태와 문의의 긴급도를 먼저 걸러내어 응급실의 '트리아지(환자 분류)'처럼 CS 업무의 우선순위를 재편해보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
-
-1. **데이터 수집:** 고객 문의 내역을 모아 AI에게 전달합니다.
-2. **AI 트리아지:** AI가 각 문의의 "감정 점수"와 "카테고리"를 분석하고 분류합니다.
-3. **우선순위 대응:** 감정 점수가 높고(분노/불만), 긴급한 카테고리(결제/배송)인 문의부터 신속하게 처리합니다.
+¿Alguna vez te has sentido abrumado frente a un panel de control con cientos de consultas de atención al cliente? Es probable que, al responderlas en orden de llegada, hayas pasado por alto un "error de envío" urgente o un "cargo duplicado", provocando que la frustración del cliente estalle. Ahora, puedes utilizar la IA para filtrar el estado emocional de tus clientes y la urgencia de sus consultas, reorganizando las prioridades de tu equipo de CS como si fuera el "triaje" de una sala de emergencias.
 
 ---
 
-## 🚀 해결책: "CS 응급실 트리아지 프롬프트"
+## ⚡️ Resumen en 3 Puntos (TL;DR) {#tl-dr}
 
-### 🥉 Basic Version (기본형)
+1. **Recopilación de Datos:** Reúne el historial de consultas de los clientes y transfiérelo a la IA.
+2. **Triaje con IA:** La IA analiza y clasifica la "puntuación de sentimiento" y la "categoría" de cada consulta.
+3. **Respuesta Prioritaria:** Atiende rápidamente las consultas con alta puntuación de sentimiento (ira/insatisfacción) y categorías urgentes (pagos/envíos).
 
-빠르게 카테고리만 분류하고 싶을 때 사용하세요.
+---
 
-> **역할 (Role):** 너는 빠르고 정확한 `[CS 팀장]`이야.
-> **요청 (Task):** 아래 문의 내용을 읽고 `[카테고리]`와 `[긴급도(상/중/하)]`를 판단해서 답변해 줘.
-> **문의 (Input):** `[여기에 고객 문의 내용 복사/붙여넣기]`
+## 🚀 Solución: "Prompt de Triaje de Emergencia para CS"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites clasificar categorías rápidamente.
+
+> **Rol (Role):** Eres un `[Líder de Equipo de CS]` rápido y preciso.
+> **Tarea (Task):** Lee la siguiente consulta, determina la `[Categoría]` y la `[Urgencia (Alta/Media/Baja)]`, y entrégame el resultado.
+> **Consulta (Input):** `[Copia y pega la consulta del cliente aquí]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-고객의 감정 분석을 결합하여 이탈 리스크를 관리하고 우선순위를 명확히 할 때 사용하세요. 자동화 파이프라인(Zapier, Make 등)과 연동하기 좋은 구조입니다.
+Úsala para combinar el análisis de sentimiento del cliente, gestionar el riesgo de abandono (churn) y establecer prioridades claras. Esta estructura es ideal para integrarse con pipelines de automatización (Zapier, Make, etc.).
 
-> **역할 (Role):** 너는 냉철한 판단력과 깊은 공감 능력을 갖춘 `[수석 고객 경험(CX) 전문가]`야.
+> **Rol (Role):** Eres un `[Especialista Senior en Experiencia del Cliente (CX)]` con juicio analítico y profunda empatía.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - **배경:** 한정된 CS 인력으로 폭주하는 문의를 처리해야 하므로 명확한 우선순위 설정이 시급해.
-> - **목표:** 불만 고객(Churn Risk)의 문의를 최우선으로 감지하고 케어하여 서비스 이탈을 방지하는 것이 핵심 목표야.
+> - **Fondo:** Tenemos personal de CS limitado para manejar una avalancha de consultas, por lo que es urgente establecer prioridades claras.
+> - **Objetivo:** El objetivo principal es detectar y atender primero a los clientes insatisfechos (Riesgo de Abandono) para evitar que dejen el servicio.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 제공된 `[문의 리스트]`를 분석하여 다음 세 가지 작업을 수행해 줘:
+> Analiza la `[Lista de Consultas]` proporcionada y realiza las siguientes tres tareas:
 >
-> 1. **감정 점수(Sentiment Score):** 각 문의의 감정 상태를 1~5점으로 평가해. (1점: 매우 만족/기쁨 ~ 5점: 매우 분노/불만)
-> 2. **문의 유형 분류:** 배송 / 환불 / 제품 결함 / 단순 문의 / 기타 중 하나로 카테고리를 지정해.
-> 3. **우선순위 및 사유:** 감정 점수와 유형을 종합하여 처리 우선순위(High/Medium/Low)를 지정하고, 그 이유를 한 문장으로 명확히 설명해.
+> 1. **Puntuación de Sentimiento (Sentiment Score):** Evalúa el estado emocional de cada consulta en una escala del 1 al 5. (1: Muy satisfecho/Feliz ~ 5: Muy enojado/Insatisfecho)
+> 2. **Clasificación de Categoría:** Asigna una categoría entre: Envío / Reembolso / Defecto del Producto / Consulta Simple / Otros.
+> 3. **Prioridad y Justificación:** Combinando la puntuación de sentimiento y la categoría, asigna una prioridad de atención (High/Medium/Low) y explica el motivo claramente en una sola oración.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - **출력 형식:** 반드시 JSON 배열(Array) 형식으로만 출력할 것. (시스템 연동용이므로 다른 부연 설명은 절대 추가하지 마)
-> - **JSON 구조 예시:** `[{"id": 1, "sentiment": 5, "category": "환불", "priority": "High", "reason": "환불 지연에 대한 강력한 항의 및 법적 조치 언급"}]`
+> - **Formato de Salida:** Debes generar la salida EXCLUSIVAMENTE en formato de matriz (Array) JSON. (Esto es para integración de sistemas, por lo que NO debes agregar ninguna otra explicación adicional).
+> - **Ejemplo de Estructura JSON:** `[{"id": 1, "sentiment": 5, "category": "Reembolso", "priority": "High", "reason": "Fuerte queja por retraso en el reembolso y mención de acciones legales"}]`
 >
-> **입력 데이터 (Input):**
-> `[여기에 분석할 문의 리스트 전체를 붙여넣기]`
+> **Datos de Entrada (Input):**
+> `[Pega la lista completa de consultas a analizar aquí]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 Comentario del Autor (Insight) {#insight}
 
-이 프롬프트의 진정한 가치는 단순한 텍스트 답변이 아니라 **'자동화 워크플로우'**를 구축할 때 빛을 발합니다. 출력 형식을 JSON으로 제한했기 때문에, Zapier나 Make 같은 자동화 툴과 완벽하게 연동됩니다. 예를 들어, **"AI가 분석한 감정 점수가 5점(매우 분노)인 문의가 접수되면, 즉시 CS 팀의 Slack 채널로 [긴급 알림] 메시지를 전송"**하도록 세팅해 보세요. 고객의 불만이 SNS나 커뮤니티로 확산되기 전에 골든타임을 확보할 수 있습니다. 저는 이 방식을 도입한 후, 악성 클레임으로 번질 뻔한 건수를 크게 줄일 수 있었습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
-
-- **Q: 한 번에 몇 개의 문의까지 분석할 수 있나요?**
-  - A: GPT-4o 기준으로 한 번에 50~100개 정도의 문의는 거뜬히 처리합니다. 단, 토큰 제한을 고려하여 한꺼번에 너무 많은 양(수천 개)을 넣기보다는, 1시간 또는 반나절 단위로 끊어서 입력하는 것을 추천합니다.
-
-- **Q: 고객이 반어법을 쓰거나 돌려 말하는 경우도 잘 캐치하나요?**
-  - A: GPT-4o와 같은 최신 모델은 "이거 참 빨리도 오네요^^" 같은 비꼬는 표현(Sarcasm)도 문맥을 파악해 불만으로 잘 캐치합니다. 다만, 업계 특유의 은어가 많다면 `상황 (Context)` 부분에 "우리 업계에서는 'ㅇㅇ'라는 표현이 심각한 오류를 의미해"라고 덧붙여주시면 정확도가 훨씬 올라갑니다.
+El verdadero valor de este prompt no reside en obtener una simple respuesta de texto, sino que brilla al construir un **'Flujo de Trabajo Automatizado'**. Al restringir el formato de salida a JSON, se integra perfectamente con herramientas de automatización como Zapier o Make. Por ejemplo, puedes configurarlo para que: **"Si se recibe una consulta con una puntuación de sentimiento de 5 (muy enojado) analizada por la IA, envíe inmediatamente un mensaje de [Alerta Urgente] al canal de Slack del equipo de CS"**. Esto te permite asegurar ese 'minuto de oro' antes de que la queja del cliente se viralice en redes sociales o comunidades. Después de implementar este método, logré reducir significativamente los casos que estaban a punto de convertirse en reclamos severos (escalamientos maliciosos).
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ) {#faq}
 
-1.  **감정의 수치화 (Sentiment Scoring):** 모호한 고객의 기분을 1~5점이라는 정량적 데이터로 변환하여 기계적인 분류와 필터링이 가능하게 만들었습니다.
-2.  **명확한 제약 (Constraints):** JSON 형식 외의 다른 말을 일절 하지 못하도록 강제하여, API나 노코드 툴 연동 시 파싱 에러가 나지 않도록 설계했습니다.
-3.  **행동의 근거 요구 (Reasoning):** 왜 이 문의를 High로 분류했는지 사유를 한 문장으로 적게 만들어, CS 담당자가 문의를 열어보기 전에 상황을 미리 파악할 수 있도록 '예측 가능성'을 부여했습니다.
+- **P: ¿Cuántas consultas se pueden analizar a la vez?**
+  - R: Usando GPT-4o, puedes procesar fácilmente entre 50 y 100 consultas a la vez. Sin embargo, considerando el límite de tokens, recomiendo ingresar los datos en lotes (por ejemplo, cada hora o medio día) en lugar de enviar una cantidad masiva (miles) de una sola vez.
+
+- **P: ¿La IA puede detectar si un cliente usa sarcasmo o lenguaje indirecto?**
+  - R: Sí. Los modelos más recientes como GPT-4o son excelentes para captar el contexto y entender el sarcasmo (por ejemplo, "Vaya, qué 'rápido' llegó esto ^^") como una queja. No obstante, si hay mucha jerga específica de tu industria, agregar al `Contexto (Context)` algo como: _"En nuestra industria, la expresión 'XYZ' significa un error crítico"_ aumentará enormemente la precisión.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (기존 방식: 시간순 정렬)
+1.  **Cuantificación del Sentimiento (Sentiment Scoring):** Transforma el estado de ánimo ambiguo del cliente en datos cuantitativos (del 1 al 5), lo que permite un filtrado y clasificación mecánica.
+2.  **Restricciones Claras (Constraints):** Obliga a la IA a no emitir ninguna palabra fuera del formato JSON, evitando así errores de análisis (parsing errors) al integrarlo con APIs o herramientas No-Code.
+3.  **Exigencia de Justificación (Reasoning):** Al pedir que explique en una sola oración por qué clasificó una consulta como "High", otorga "previsibilidad", permitiendo que el agente de CS comprenda la situación antes de abrir el ticket.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Método Tradicional: Orden Cronológico)
 
 ```text
-[문의1 - 09:00] 안녕하세요. 사이즈 교환 가능한가요?
-[문의2 - 09:02] 배송 언제 되나요?
-[문의3 - 09:05] 야 이거 어제 결제 취소했는데 왜 돈 또 빠져나가? 장난해 지금? 고소할거야.
-[문의4 - 09:10] 비밀번호를 까먹었어요.
+[Consulta1 - 09:00] Hola. ¿Es posible hacer un cambio de talla?
+[Consulta2 - 09:02] ¿Cuándo se realizará el envío?
+[Consulta3 - 09:05] Oye, cancelé el pago ayer, ¿por qué me cobraron de nuevo? ¿Es una broma? Los voy a demandar.
+[Consulta4 - 09:10] Olvidé mi contraseña.
 ```
 
-_문제점: 09:05에 접수된 초긴급 폭발 직전의 문의가 다른 단순 문의에 밀려 처리가 지연됨._
+_Problema: La consulta del 09:05, que es extremadamente urgente y está a punto de explotar, se retrasa por quedar detrás de consultas simples._
 
-### ✅ After (AI 트리아지 적용)
+### ✅ Después (Aplicando el Triaje con IA)
 
 ```json
 [
   {
     "id": 3,
     "sentiment": 5,
-    "category": "환불",
+    "category": "Reembolso",
     "priority": "High",
-    "reason": "중복 결제로 인한 심각한 분노 및 법적 대응 언급"
+    "reason": "Mención de acciones legales y enojo severo debido a un cargo duplicado"
   },
   {
     "id": 2,
     "sentiment": 3,
-    "category": "배송",
+    "category": "Envío",
     "priority": "Medium",
-    "reason": "일반적인 배송 일정 문의"
+    "reason": "Consulta general sobre el cronograma de envío"
   },
   {
     "id": 1,
     "sentiment": 2,
-    "category": "기타",
+    "category": "Otros",
     "priority": "Low",
-    "reason": "단순 사이즈 교환 문의"
+    "reason": "Consulta simple de cambio de talla"
   },
   {
     "id": 4,
     "sentiment": 2,
-    "category": "기타",
+    "category": "Otros",
     "priority": "Low",
-    "reason": "단순 계정 정보 문의"
+    "reason": "Consulta simple sobre información de la cuenta"
   }
 ]
 ```
 
-_결과: AI가 `id: 3` 문의의 심각성을 즉시 인지하여 최우선 처리 목록(High) 상단으로 끌어올림._
+_Resultado: La IA reconoce de inmediato la gravedad de la consulta `id: 3` y la eleva a la parte superior de la lista de máxima prioridad (High)._
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-수많은 문의를 모두 똑같은 속도로 처리할 수는 없습니다. 중요한 것은 **'누구를 먼저 구출할 것인가'**를 결정하는 시스템입니다.
+Es imposible atender una montaña de consultas a la misma velocidad. Lo importante es tener un sistema que decida **"a quién rescatar primero"**.
 
-오늘 바로 이 프롬프트를 복사해서 여러분의 CS 채널에 적용해 보세요. 불필요한 감정 소모는 줄이고, 진짜 위기 상황에 집중할 수 있을 것입니다. 여러분의 평화로운 퇴근을 응원합니다! 🍷
+Copia este prompt hoy mismo y aplícalo en tus canales de atención al cliente. Reducirás el desgaste emocional innecesario y podrás concentrarte en las verdaderas situaciones de crisis. ¡Brindo por que puedas terminar tu jornada laboral en paz! 🍷

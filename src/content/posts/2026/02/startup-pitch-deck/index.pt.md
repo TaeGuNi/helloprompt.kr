@@ -5,136 +5,136 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "내 아이템이 왜 대박인지 설명하기 어렵다면? 문제-해결-시장규모 순으로 완벽하게 정리하는 실리콘밸리식 IR 피치덱 프롬프트."
+description: "Dificuldade para explicar por que sua ideia é incrível? Prompt de Pitch Deck estilo Vale do Silício que organiza o Problema-Solução-Mercado perfeitamente."
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 
-# 🎤 스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링
+# 🎤 Pitch Deck para Startups: O Storytelling que Conquista Investidores em 30 Segundos
 
-- **🎯 추천 대상:** "우리 기술 진짜 좋은데..." 기술 설명만 하다 투자자를 하품하게 만드는 대표님, 예비창업패키지 서류 광탈자
-- **⏱️ 소요 시간:** 10분 (스토리라인 완벽 구성)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (논리적 구조화 및 글쓰기에 탁월), GPT-4o
+- **🎯 Recomendado para:** Fundadores que entediam investidores falando apenas de tecnologia ("Nossa tecnologia é muito boa..."), candidatos rejeitados em rodadas de investimento inicial.
+- **⏱️ Tempo necessário:** 10 minutos (para estruturar perfeitamente o storytelling)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (excelente em estruturação lógica e redação), GPT-4o
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"그래서 한마디로 뭡니까? 이 시장의 구글입니까, 아니면 배민입니까?"_
+> _"Então, em poucas palavras, o que é isso? Vocês são o Google desse mercado ou o Uber?"_
 
-투자자는 바쁩니다. 당신이 밤새워 개발한 기술적 디테일에는 당장 관심이 없습니다. 그들이 알고 싶은 건 단 하나, **"누구의 어떤 문제를 어떻게 풀어서 얼마나 벌 건지"**입니다. 이 흐름을 10장 내외의 슬라이드로 압축하는 **'실리콘밸리식 피치덱'** 공식을 AI를 통해 단 10분 만에 완성하는 방법을 알려드립니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Problem (문제):** 세상에 이런 끔찍한 문제가 존재한다는 것을 명확하게 공감시킨다.
-2. **Solution (해결책):** 우리가 그 문제를 얼마나 기가 막히고 쉽게 해결했는지 보여준다.
-3. **Market (시장):** 이 솔루션이 타겟하는 시장이 100조 원짜리임을 증명하여 욕망을 자극한다.
+Investidores são pessoas ocupadas. Eles não estão imediatamente interessados nos detalhes técnicos que você passou noites em claro desenvolvendo. A única coisa que eles querem saber é: **"O problema de quem você está resolvendo, como vai resolver e quanto dinheiro vai ganhar com isso."** Vamos te mostrar como usar a IA para condensar esse fluxo em uma fórmula de **"Pitch Deck do Vale do Silício"** com cerca de 10 slides em apenas 10 minutos.
 
 ---
 
-## 🚀 해결책: "Pitch Deck Storyteller"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (엘리베이터 피치)
+1. **Problema (Problem):** Faça o investidor simpatizar claramente com a existência de um problema terrível no mundo.
+2. **Solução (Solution):** Mostre como você resolveu esse problema de forma brilhante e simples.
+3. **Mercado (Market):** Estimule o desejo provando que o mercado-alvo para essa solução vale bilhões.
 
-투자자나 심사역을 우연히 만났을 때, 혹은 콜드 메일을 보낼 때 1분 안에 매력을 어필해야 할 때 사용하세요.
+---
 
-> **역할:** 너는 실리콘밸리의 전설적인 엔젤 투자자야.
-> **요청:** 내 사업 아이디어를 투자자에게 30초 만에 설명할 수 있는 **'엘리베이터 피치(Elevator Pitch)'** 대본을 작성해 줘. 첫 문장에 강력한 훅(Hook)을 넣고, 문제-해결-시장-팀의 순서로 아주 간결하게 구성해.
-> **내 아이디어:** `[AI로 강아지 짖는 소리를 분석해서 감정과 건강 상태를 알려주는 앱]`
+## 🚀 A Solução: "Pitch Deck Storyteller"
+
+### 🥉 Versão Básica (Elevator Pitch)
+
+Use isso quando precisar vender sua ideia em 1 minuto ao encontrar um investidor por acaso ou ao enviar um cold email.
+
+> **Role (Papel):** Você é um lendário investidor anjo do Vale do Silício.
+> **Task (Tarefa):** Escreva o roteiro de um **'Elevator Pitch'** para explicar minha ideia de negócio a um investidor em 30 segundos. Comece com um "Hook" (gancho) poderoso na primeira frase e estruture o discurso de forma extremamente concisa na ordem: Problema-Solução-Mercado-Equipe.
+> **Minha ideia:** `[Um aplicativo que usa IA para analisar o latido de cachorros e informar sobre seu estado emocional e de saúde]`
 
 <br>
 
-### 🥇 Pro Version (10장 슬라이드 구성)
+### 🥇 Versão Pro (Estrutura de 10 Slides)
 
-본격적인 IR 자료나 사업계획서를 작성하기 전, 전체 스토리라인(Storyline)의 뼈대를 잡을 때 사용하세요.
+Use isso para criar a estrutura (Storyline) principal antes de redigir um Pitch Deck ou plano de negócios completo.
 
-> **역할 (Role):** 너는 Y-Combinator 출신의 탑티어 스타트업 엑셀러레이터이자 IR 피치덱 전문 전략가야.
+> **Role (Papel):** Você é um estrategista especialista em Pitch Decks e um acelerador de startups de alto nível formado pela Y-Combinator.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 목표: Seed 혹은 Pre-A 단계 투자 유치를 위한 10장짜리 피치덱 핵심 스토리라인 구성
-> - 사업 아이템: `[AI 기반 맞춤형 영양제 구독 서비스]`
-> - 타겟 고객: `[매달 영양제에 5만 원 이상 쓰지만 효과를 전혀 체감하지 못하는 3040 직장인]`
+> - Objetivo: Criar a narrativa (storyline) principal para um Pitch Deck de 10 slides voltado para captação de recursos nas fases Seed ou Pre-A.
+> - Ideia de negócio: `[Serviço de assinatura de suplementos nutricionais personalizados baseados em IA]`
+> - Público-alvo: `[Profissionais de 30 a 40 anos que gastam mais de US$ 50 por mês em suplementos, mas não sentem nenhum efeito prático]`
 >
-> **요청 (Task):**
-> 투자 심사역을 완벽하게 설득할 수 있는 **10슬라이드 피치덱 목차**를 짜줘. 각 장표에 들어갈 핵심 메시지(Key Message)를 한 줄로 명확하고 임팩트 있게 적어줘.
+> **Task (Tarefa):**
+> Crie um **índice de Pitch Deck de 10 slides** capaz de persuadir perfeitamente um comitê de investimentos. Escreva a Mensagem-Chave (Key Message) de cada slide em uma única linha, de forma clara e impactante.
 >
-> 1. Problem (고객의 끔찍한 문제)
-> 2. Solution (우리의 압도적인 해결책)
-> 3. Market Size (시장 규모 - TAM/SAM/SOM)
-> 4. Product (제품/서비스의 핵심 기능)
-> 5. Business Model (어떻게 돈을 벌 것인가)
-> 6. Competition (경쟁사 분석 및 우리의 압도적 차별점)
-> 7. Go-to-Market (고객 획득 및 시장 진출 전략)
-> 8. Team (왜 우리가 이 문제를 풀 수 있는 유일한 팀인가)
-> 9. Financial Projection (향후 3년 재무 및 마일스톤 추정)
-> 10. Ask (투자 유치 희망액 및 명확한 자금 사용 계획)
+> 1. Problem (O problema terrível do cliente)
+> 2. Solution (Nossa solução avassaladora)
+> 3. Market Size (Tamanho do mercado - TAM/SAM/SOM)
+> 4. Product (Principais recursos do produto/serviço)
+> 5. Business Model (Como vamos ganhar dinheiro)
+> 6. Competition (Análise da concorrência e nosso diferencial competitivo absoluto)
+> 7. Go-to-Market (Estratégia de aquisição de clientes e entrada no mercado)
+> 8. Team (Por que somos a única equipe capaz de resolver esse problema)
+> 9. Financial Projection (Projeções financeiras e marcos para os próximos 3 anos)
+> 10. Ask (Valor de investimento desejado e plano claro de uso dos recursos)
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 각 슬라이드의 Key Message는 추상적인 단어('최고의', '혁신적인')를 철저히 배제하고, 구체적인 숫자나 직관적인 비유를 사용할 것.
-> - 1번부터 10번까지의 흐름이 단절되지 않고 하나의 매끄러운 이야기(Narrative)처럼 연결되도록 작성할 것.
-> - 확실하지 않은 정보는 지어내지 말 것.
+> - Elimine completamente palavras abstratas (como 'o melhor', 'inovador') nas Key Messages de cada slide; use números específicos ou analogias intuitivas.
+> - O fluxo dos slides de 1 a 10 deve ser contínuo, conectando-se como uma única narrativa (Narrative) fluida.
+> - Não invente informações das quais você não tem certeza (evite alucinações).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-피치덱을 구성할 때 대표님들이 가장 놓치기 쉬우면서도, 심사역들이 가장 예리하게 파고드는 항목이 바로 **'Why Now(왜 지금인가)'**입니다.
-"왜 3년 전에는 이 사업이 불가능했고, 왜 3년 뒤에 시작하면 너무 늦는가?" 이 타이밍에 대한 명확한 답변이 없다면 투자자를 설득하기 어렵습니다.
+Ao estruturar um Pitch Deck, o item que os fundadores mais costumam ignorar — e que os investidores analisam com mais rigor — é o **'Why Now' (Por que agora)**.
+"Por que esse negócio era impossível há 3 anos e por que será tarde demais se começarmos daqui a 3 anos?" Sem uma resposta clara sobre o _timing_, é muito difícil convencer um investidor.
 
-프롬프트를 실행한 후, 추가로 AI에게 이렇게 질문해 보세요. _"이 사업이 지금 당장 떠야만 하는 거시적 트렌드나 기술적/사회적 변화(PEST 분석)를 3가지로 정리해 줘."_ 이 내용을 Problem이나 Solution 슬라이드 초반에 배치하면 논리적인 설득력이 기하급수적으로 올라갑니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 목차는 완벽하게 나왔는데, 슬라이드 디자인은 어떻게 하나요?**
-  - A: 만들어진 목차와 핵심 메시지를 **Gamma**나 **Canva**의 AI 프레젠테이션 생성 기능에 그대로 복사해서 붙여넣으세요. 텍스트를 기반으로 초안 PPT를 순식간에 만들어 줍니다. 내용은 이 프롬프트로 탄탄하게 짜고, 시각화는 AI 툴의 힘을 빌려 시간을 극적으로 단축하세요.
-
-- **Q: 우리 시장 규모(TAM/SAM/SOM)를 정확한 숫자로 모르겠어요.**
-  - A: AI에게 *"국내 건강기능식품 시장 규모 관련 최신 통계나 보고서 요약을 찾아줘"*라고 시키거나, 여러분이 알고 있는 기초 데이터를 주고 *"이 데이터를 바탕으로 페르미 추정(Fermi Estimation) 기법을 사용해 SAM과 SOM을 합리적으로 계산해 줘"*라고 요청하면 꽤 논리적인 추정치를 얻을 수 있습니다.
-
-- **Q: 아이디어가 너무 초기 단계라 프롬프트의 빈칸에 적을 내용이 부족합니다.**
-  - A: 그럴수록 이 프롬프트가 더욱 필요합니다. 빈칸을 채우기 위해 AI와 티키타카(대화)를 하다 보면, 내 사업 모델에서 치명적으로 비어있는 부분(예: 수익 모델의 부재, 타겟 고객의 불명확성)이 무엇인지 메타인지가 명확해집니다.
+Após executar o prompt, faça a seguinte pergunta adicional à IA: _"Liste 3 tendências macroeconômicas ou mudanças tecnológicas/sociais (Análise PEST) que explicam por que este negócio precisa decolar exatamente agora."_ Inserir esse conteúdo no início dos slides de "Problema" ou "Solução" aumentará exponencialmente o seu poder de persuasão lógica.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **Y-Combinator 페르소나 부여:** "Y-Combinator 출신의 엑셀러레이터"라는 역할을 부여하면, AI가 군더더기를 빼고 가장 표준적이면서도 직관적인 실리콘밸리(세쿼이아 캐피탈) 스타일의 설득 구조를 따르게 됩니다.
-2. **구체적인 10단계 목차 제시:** AI에게 마음대로 쓰라고 방치하지 않고, IR 피치덱의 정석인 10단계 프레임워크를 강제함으로써 결과물의 퀄리티와 일관성을 완벽하게 통제합니다.
-3. **추상적 단어 배제 제약:** "혁신적인", "최초의" 같은 속 빈 강정 단어 대신, 실제 비즈니스 씬에서 통하는 숫자와 비유를 사용하도록 제약조건을 걸어 실질적인 설득력을 극대화했습니다.
+- **P: A estrutura ficou perfeita, mas como faço o design dos slides?**
+  - R: Copie a estrutura e as mensagens-chave geradas e cole nas ferramentas de criação de apresentações com IA, como o **Gamma** ou o **Canva**. Elas criarão um rascunho visual instantaneamente com base no texto. Use este prompt para construir uma base sólida de conteúdo e aproveite as ferramentas de IA visual para reduzir drasticamente o tempo de design.
+
+- **P: Não sei os números exatos do tamanho do nosso mercado (TAM/SAM/SOM).**
+  - R: Peça à IA: _"Encontre estatísticas recentes ou resumos de relatórios sobre o tamanho do mercado de suplementos alimentares"_. Alternativamente, forneça os dados básicos que você já conhece e peça: _"Com base nestes dados, use a técnica de Estimativa de Fermi (Fermi Estimation) para calcular o SAM e o SOM de forma lógica"_. Você obterá estimativas bastante razoáveis.
+
+- **P: Minha ideia está em uma fase muito inicial, então não tenho muito o que preencher nos colchetes do prompt.**
+  - R: É exatamente por isso que você precisa deste prompt. Ao interagir com a IA para preencher as lacunas, você desenvolverá uma clareza (metacognição) sobre o que está fatalmente ausente no seu modelo de negócios (ex: falta de modelo de receita, público-alvo vago).
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (나열식 설명)
+1. **Atribuição de Persona da Y-Combinator:** Ao atribuir o papel de "Acelerador da Y-Combinator", a IA remove o excesso de informações e adota a estrutura de persuasão mais padrão e intuitiva no estilo do Vale do Silício (ex: Sequoia Capital).
+2. **Estrutura de 10 Passos Específicos:** Em vez de deixar a IA escrever livremente, impomos o framework clássico de 10 passos para Pitch Decks de RI. Isso garante controle total sobre a qualidade e a consistência do resultado.
+3. **Restrição Contra Palavras Abstratas:** Proibimos termos vazios como "inovador" ou "o primeiro", forçando a IA a usar números e metáforas que realmente funcionam no mundo dos negócios para maximizar a persuasão prática.
+
+---
+
+## 📊 Prova: Antes & Depois
+
+### ❌ Antes (Explicação em lista)
 
 ```text
-"저희는 맞춤형 영양제를 파는 회사고요, AI 기술을 접목해서 기술력이 매우 혁신적입니다. 팀원들은 서울대 출신이고 관련 경험이 많습니다. 앞으로 글로벌 시장에 진출할 계획이며 열심히 하겠습니다."
-(투자자 반응: 지루함 🥱, 그래서 남들과 뭐가 다르다는 거지?)
+"Nós somos uma empresa que vende suplementos personalizados. Incorporamos tecnologia de IA, o que torna nossa tecnologia muito inovadora. Os membros da equipe são graduados em universidades de ponta e têm muita experiência na área. Planejamos expandir para o mercado global no futuro e trabalharemos duro."
+(Reação do investidor: Tédio 🥱. E daí? O que os torna diferentes dos outros?)
 ```
 
-### ✅ After (스토리텔링 적용)
+### ✅ Depois (Aplicação de Storytelling)
 
 ```text
-- Problem: "매일 10만 명의 직장인이 영양제를 챙겨 먹지만, 그중 90%는 피로 회복 효과를 전혀 체감하지 못하고 돈만 버립니다."
-- Solution: "우리는 단 한 번의 소변 검사 키트로, 당신의 현재 결핍 영양소를 정확히 찾아내어 필요한 알약 딱 3개만 매달 문 앞으로 배송해 드립니다."
-- Market: "건강검진에 돈을 아끼지 않는 3040 직장인 타겟의 프리미엄 맞춤형 헬스케어 시장은 연 5조 원 규모의 거대한 블루오션입니다."
-(투자자 반응: "재밌네. 비즈니스 모델이 확실하군. 다음 장 넘겨봐요." 👀)
+- Problem: "Todos os dias, 100.000 profissionais tomam suplementos, mas 90% deles não sentem nenhum efeito na recuperação da fadiga e apenas desperdiçam dinheiro."
+- Solution: "Com um único kit de exame de urina, identificamos com precisão as suas deficiências nutricionais atuais e entregamos exatamente as 3 pílulas que você precisa na sua porta todos os meses."
+- Market: "O mercado premium de saúde personalizada, voltado para profissionais de 30 a 40 anos que não economizam em exames de saúde, é um oceano azul gigantesco que movimenta US$ 5 bilhões anuais."
+(Reação do investidor: "Interessante. O modelo de negócios é sólido. Vá para a próxima página." 👀)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-사업의 본질은 결국 **'설득'**의 연속입니다.
-투자자를 설득해야 자금을 얻고, 뛰어난 직원을 설득해야 팀이 꾸려지며, 고객을 설득해야 비로소 매출이 일어납니다.
+A essência dos negócios, no fim das contas, é uma série contínua de **'persuasão'**.
+Você deve persuadir os investidores para conseguir capital, persuadir funcionários talentosos para montar uma equipe e persuadir clientes para gerar receita.
 
-장황한 기술 설명과 기능 자랑은 뒤로 미루고, AI에게 당신의 비전과 고객의 문제를 먼저 이야기하세요.
-가장 뾰족하고 매혹적인 투자 유치 스토리로 변환해 줄 것입니다.
+Deixe as explicações técnicas prolixas e o excesso de orgulho pelos recursos para depois. Fale primeiro sobre a sua visão e o problema do cliente para a IA.
+Ela transformará isso na história de atração de investimentos mais afiada e cativante possível.
 
-지금 바로 복사해서 여러분의 아이디어를 피칭해 보세요! 🍷
+Copie isso agora mesmo e comece a fazer o pitch da sua ideia! 🍷

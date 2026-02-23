@@ -5,153 +5,155 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "고객의 감정을 분석하여 우선적으로 대응해야 할 '화난 고객'을 찾아내는 CS 분류 프롬프트입니다."
+description: "A CS triage prompt that analyzes customer sentiment to identify and prioritize 'angry customers' who need immediate attention."
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 
-# 📝 화난 고객을 기다리게 하지 마세요.
+# 📝 Don't Keep Angry Customers Waiting
 
-- **🎯 추천 대상:** CS 매니저, 쇼핑몰 운영자, 고객 경험(CX) 담당자
-- **⏱️ 소요 시간:** 1시간 → 1분
-- **🤖 추천 모델:** GPT-3.5 Turbo (빠름), GPT-4o (정확함)
+- **🎯 Target Audience:** CS Managers, E-commerce Operators, Customer Experience (CX) Specialists
+- **⏱️ Time Saved:** 1 Hour → 1 Minute
+- **🤖 Recommended AI:** GPT-3.5 Turbo (Fast), GPT-4o (Accurate)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐☆☆
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐☆
+- 🚀 **Utility:** ⭐⭐⭐☆☆
 
-> _"속도가 곧 친절입니다. 분노한 고객의 골든타임을 지켜주세요."_
+> _"Speed is kindness. Protect the golden hour for your furious customers."_
 
-수백 개의 CS 문의가 쌓인 게시판 앞에서 막막했던 적 있으신가요? 순서대로 답변하다가 정작 가장 시급한 '배송 사고'나 '중복 결제 오류' 문의를 놓쳐 고객의 불만이 폭발한 경험이 한 번쯤은 있을 겁니다. 이제 AI를 활용해 고객의 감정 상태와 문의의 긴급도를 먼저 걸러내어 응급실의 '트리아지(환자 분류)'처럼 CS 업무의 우선순위를 재편해보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
-
-1. **데이터 수집:** 고객 문의 내역을 모아 AI에게 전달합니다.
-2. **AI 트리아지:** AI가 각 문의의 "감정 점수"와 "카테고리"를 분석하고 분류합니다.
-3. **우선순위 대응:** 감정 점수가 높고(분노/불만), 긴급한 카테고리(결제/배송)인 문의부터 신속하게 처리합니다.
+Have you ever felt overwhelmed staring at a dashboard piled up with hundreds of customer support tickets? You've probably experienced the nightmare of answering tickets chronologically, only to miss an urgent "shipping accident" or "duplicate billing error" until the customer's frustration completely boiled over. Now, use AI to filter customers' emotional states and the urgency of their inquiries first. It's time to restructure your CS workflow priorities like an emergency room triage.
 
 ---
 
-## 🚀 해결책: "CS 응급실 트리아지 프롬프트"
+## ⚡️ 3-Line Summary (TL;DR) {#tl-dr}
 
-### 🥉 Basic Version (기본형)
+1. **Data Collection:** Gather customer inquiry logs and feed them to the AI.
+2. **AI Triage:** The AI analyzes and categorizes each ticket based on "sentiment score" and "category."
+3. **Priority Response:** Swiftly resolve high-priority tickets first—those with high emotional volatility (anger/dissatisfaction) and urgent categories (billing/shipping).
 
-빠르게 카테고리만 분류하고 싶을 때 사용하세요.
+---
 
-> **역할 (Role):** 너는 빠르고 정확한 `[CS 팀장]`이야.
-> **요청 (Task):** 아래 문의 내용을 읽고 `[카테고리]`와 `[긴급도(상/중/하)]`를 판단해서 답변해 줘.
-> **문의 (Input):** `[여기에 고객 문의 내용 복사/붙여넣기]`
+## 🚀 The Solution: "CS ER Triage Prompt"
+
+### 🥉 Basic Version
+
+Use this when you just need quick and simple categorization.
+
+> **Role:** You are a fast and highly accurate `[CS Team Lead]`.
+> **Task:** Read the following inquiry, determine its `[Category]` and `[Urgency (High/Medium/Low)]`, and provide the result.
+> **Input:** `[Paste the customer's inquiry here]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-고객의 감정 분석을 결합하여 이탈 리스크를 관리하고 우선순위를 명확히 할 때 사용하세요. 자동화 파이프라인(Zapier, Make 등)과 연동하기 좋은 구조입니다.
+Use this to combine customer sentiment analysis for churn risk management and clear prioritization. This structure is perfectly optimized for automated pipelines (Zapier, Make, etc.).
 
-> **역할 (Role):** 너는 냉철한 판단력과 깊은 공감 능력을 갖춘 `[수석 고객 경험(CX) 전문가]`야.
+> **Role (Role):** You are a `[Senior Customer Experience (CX) Specialist]` equipped with sharp judgment and deep empathy.
 >
-> **상황 (Context):**
+> **Context (Context):**
 >
-> - **배경:** 한정된 CS 인력으로 폭주하는 문의를 처리해야 하므로 명확한 우선순위 설정이 시급해.
-> - **목표:** 불만 고객(Churn Risk)의 문의를 최우선으로 감지하고 케어하여 서비스 이탈을 방지하는 것이 핵심 목표야.
+> - **Background:** We are dealing with an overwhelming surge of inquiries with limited CS staff. Establishing clear priorities is absolutely critical.
+> - **Goal:** The primary objective is to identify and prioritize inquiries from highly dissatisfied customers (Churn Risk) to prevent service abandonment.
 >
-> **요청 (Task):**
+> **Task (Task):**
 >
-> 제공된 `[문의 리스트]`를 분석하여 다음 세 가지 작업을 수행해 줘:
+> Analyze the provided `[Inquiry List]` and execute the following three tasks:
 >
-> 1. **감정 점수(Sentiment Score):** 각 문의의 감정 상태를 1~5점으로 평가해. (1점: 매우 만족/기쁨 ~ 5점: 매우 분노/불만)
-> 2. **문의 유형 분류:** 배송 / 환불 / 제품 결함 / 단순 문의 / 기타 중 하나로 카테고리를 지정해.
-> 3. **우선순위 및 사유:** 감정 점수와 유형을 종합하여 처리 우선순위(High/Medium/Low)를 지정하고, 그 이유를 한 문장으로 명확히 설명해.
+> 1. **Sentiment Score:** Evaluate the emotional state of each inquiry on a scale of 1 to 5. (1: Highly Satisfied/Joyful ~ 5: Furious/Highly Dissatisfied)
+> 2. **Categorization:** Classify each inquiry into one of the following categories: Shipping / Refund / Product Defect / Simple Question / Other.
+> 3. **Priority & Reasoning:** Based on the sentiment score and category, assign a processing priority (High/Medium/Low) and provide a clear, one-sentence explanation for your decision.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Constraints):**
 >
-> - **출력 형식:** 반드시 JSON 배열(Array) 형식으로만 출력할 것. (시스템 연동용이므로 다른 부연 설명은 절대 추가하지 마)
-> - **JSON 구조 예시:** `[{"id": 1, "sentiment": 5, "category": "환불", "priority": "High", "reason": "환불 지연에 대한 강력한 항의 및 법적 조치 언급"}]`
+> - **Output Format:** You MUST output the result EXCLUSIVELY as a JSON array. (This is for system integration, so absolutely NO additional conversational text or markdown outside the JSON).
+> - **JSON Structure Example:** `[{"id": 1, "sentiment": 5, "category": "Refund", "priority": "High", "reason": "Strong complaint about delayed refund and mention of legal action"}]`
 >
-> **입력 데이터 (Input):**
-> `[여기에 분석할 문의 리스트 전체를 붙여넣기]`
+> **Input Data (Input):**
+> `[Paste the entire list of inquiries to be analyzed here]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 Writer's Insight {#insight}
 
-이 프롬프트의 진정한 가치는 단순한 텍스트 답변이 아니라 **'자동화 워크플로우'**를 구축할 때 빛을 발합니다. 출력 형식을 JSON으로 제한했기 때문에, Zapier나 Make 같은 자동화 툴과 완벽하게 연동됩니다. 예를 들어, **"AI가 분석한 감정 점수가 5점(매우 분노)인 문의가 접수되면, 즉시 CS 팀의 Slack 채널로 [긴급 알림] 메시지를 전송"**하도록 세팅해 보세요. 고객의 불만이 SNS나 커뮤니티로 확산되기 전에 골든타임을 확보할 수 있습니다. 저는 이 방식을 도입한 후, 악성 클레임으로 번질 뻔한 건수를 크게 줄일 수 있었습니다.
+The true value of this prompt isn't just generating text responses—it shines brightest when building **"Automated Workflows"**. Because the output format is strictly constrained to JSON, it seamlessly integrates with no-code automation tools like Zapier or Make.
 
----
-
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
-
-- **Q: 한 번에 몇 개의 문의까지 분석할 수 있나요?**
-  - A: GPT-4o 기준으로 한 번에 50~100개 정도의 문의는 거뜬히 처리합니다. 단, 토큰 제한을 고려하여 한꺼번에 너무 많은 양(수천 개)을 넣기보다는, 1시간 또는 반나절 단위로 끊어서 입력하는 것을 추천합니다.
-
-- **Q: 고객이 반어법을 쓰거나 돌려 말하는 경우도 잘 캐치하나요?**
-  - A: GPT-4o와 같은 최신 모델은 "이거 참 빨리도 오네요^^" 같은 비꼬는 표현(Sarcasm)도 문맥을 파악해 불만으로 잘 캐치합니다. 다만, 업계 특유의 은어가 많다면 `상황 (Context)` 부분에 "우리 업계에서는 'ㅇㅇ'라는 표현이 심각한 오류를 의미해"라고 덧붙여주시면 정확도가 훨씬 올라갑니다.
+For instance, try setting up a trigger: **"When the AI detects an inquiry with a sentiment score of 5 (Furious), immediately send an [URGENT] alert message to the CS team's Slack channel."** This allows you to secure the golden hour before a customer's frustration spills over onto social media or community forums. After implementing this exact method, I significantly reduced the number of cases that almost escalated into malicious claims.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ) {#faq}
 
-1.  **감정의 수치화 (Sentiment Scoring):** 모호한 고객의 기분을 1~5점이라는 정량적 데이터로 변환하여 기계적인 분류와 필터링이 가능하게 만들었습니다.
-2.  **명확한 제약 (Constraints):** JSON 형식 외의 다른 말을 일절 하지 못하도록 강제하여, API나 노코드 툴 연동 시 파싱 에러가 나지 않도록 설계했습니다.
-3.  **행동의 근거 요구 (Reasoning):** 왜 이 문의를 High로 분류했는지 사유를 한 문장으로 적게 만들어, CS 담당자가 문의를 열어보기 전에 상황을 미리 파악할 수 있도록 '예측 가능성'을 부여했습니다.
+- **Q: How many inquiries can I analyze at once?**
+  - A: Using GPT-4o, you can easily process about 50 to 100 inquiries per batch. However, considering token limits and context windows, it is highly recommended to input data in smaller, time-based chunks (e.g., hourly or half-day batches) rather than dumping thousands at once.
+
+- **Q: Does the AI catch sarcasm or passive-aggressive tones?**
+  - A: Yes. Modern models like GPT-4o are excellent at understanding context and will accurately flag sarcastic remarks like, "Wow, this sure arrived _super_ fast ^^" as dissatisfied. However, if your industry uses specific jargon, simply add a line in the `Context` section like, "In our industry, the phrase 'XYZ' implies a critical error," to drastically improve accuracy.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (기존 방식: 시간순 정렬)
+1. **Sentiment Scoring:** By quantifying ambiguous human emotions into a hard 1-5 scale, we enable mechanical filtering and systemic sorting.
+2. **Strict Constraints:** Forcing the AI to output _only_ JSON prevents it from adding unnecessary pleasantries, which completely eliminates parsing errors when connecting to APIs or no-code tools.
+3. **Mandatory Reasoning:** Demanding a one-sentence justification for why a ticket is marked "High" priority grants CS agents predictability. They understand the severity of the situation before even opening the ticket.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Traditional Method: Chronological Sorting)
 
 ```text
-[문의1 - 09:00] 안녕하세요. 사이즈 교환 가능한가요?
-[문의2 - 09:02] 배송 언제 되나요?
-[문의3 - 09:05] 야 이거 어제 결제 취소했는데 왜 돈 또 빠져나가? 장난해 지금? 고소할거야.
-[문의4 - 09:10] 비밀번호를 까먹었어요.
+[Ticket 1 - 09:00] Hello, is it possible to exchange the size?
+[Ticket 2 - 09:02] When will my order be shipped?
+[Ticket 3 - 09:05] Hey, I canceled my payment yesterday but you charged me again? Are you kidding me? I'm suing you.
+[Ticket 4 - 09:10] I forgot my password.
 ```
 
-_문제점: 09:05에 접수된 초긴급 폭발 직전의 문의가 다른 단순 문의에 밀려 처리가 지연됨._
+_The Problem: The highly volatile, urgent ticket received at 09:05 gets buried under simple, routine inquiries and its resolution is delayed._
 
-### ✅ After (AI 트리아지 적용)
+### ✅ After (AI Triage Applied)
 
 ```json
 [
   {
     "id": 3,
     "sentiment": 5,
-    "category": "환불",
+    "category": "Refund",
     "priority": "High",
-    "reason": "중복 결제로 인한 심각한 분노 및 법적 대응 언급"
+    "reason": "Severe anger over duplicate billing and explicit threat of legal action."
   },
   {
     "id": 2,
     "sentiment": 3,
-    "category": "배송",
+    "category": "Shipping",
     "priority": "Medium",
-    "reason": "일반적인 배송 일정 문의"
+    "reason": "Standard inquiry regarding shipping schedule."
   },
   {
     "id": 1,
     "sentiment": 2,
-    "category": "기타",
+    "category": "Other",
     "priority": "Low",
-    "reason": "단순 사이즈 교환 문의"
+    "reason": "Simple size exchange request."
   },
   {
     "id": 4,
     "sentiment": 2,
-    "category": "기타",
+    "category": "Other",
     "priority": "Low",
-    "reason": "단순 계정 정보 문의"
+    "reason": "Simple account password inquiry."
   }
 ]
 ```
 
-_결과: AI가 `id: 3` 문의의 심각성을 즉시 인지하여 최우선 처리 목록(High) 상단으로 끌어올림._
+_The Result: The AI immediately recognizes the severity of `id: 3` and escalates it to the very top of the High-priority queue._
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-수많은 문의를 모두 똑같은 속도로 처리할 수는 없습니다. 중요한 것은 **'누구를 먼저 구출할 것인가'**를 결정하는 시스템입니다.
+You simply cannot process every single ticket at the exact same speed. What truly matters is having a system that decides **"Who do we rescue first?"**
 
-오늘 바로 이 프롬프트를 복사해서 여러분의 CS 채널에 적용해 보세요. 불필요한 감정 소모는 줄이고, 진짜 위기 상황에 집중할 수 있을 것입니다. 여러분의 평화로운 퇴근을 응원합니다! 🍷
+Copy this prompt today and apply it to your CS channels. You will drastically reduce unnecessary emotional burnout and be able to focus your energy entirely on genuine crises. Here's to leaving work on time! 🍷

@@ -1,139 +1,141 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 감시 카메라가 될 수 있다"
+title: "Tu señal WiFi podría ser una cámara de vigilancia invisible"
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개인정보보호"
-description: "와이파이 신호만으로 사람의 위치와 동작을 탐지하는 기술의 위험성."
+description: "Descubre el peligro de la tecnología que detecta la ubicación y el movimiento humano basándose únicamente en señales WiFi y cómo protegerte."
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 
-# 📝 벽을 뚫고 보는 눈, WiFi 감시
+# 📝 Ojos que atraviesan paredes: El WiFi como herramienta de vigilancia
 
-- **🎯 추천 대상:** 프라이버시 중시자, 네트워크 엔지니어, 보안 담당자
-- **⏱️ 소요 시간:** 30분 → 1분 단축
-- **🤖 추천 모델:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Flash
+- **🎯 Recomendado para:** Defensores de la privacidad, ingenieros de redes, responsables de ciberseguridad
+- **⏱️ Tiempo estimado:** De 30 minutos → a solo 1 minuto
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Flash
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"카메라가 없다고 안심하지 마세요. 당신의 공유기가 당신을 보고 있습니다."_
+> _"No te sientas seguro solo porque no ves cámaras a tu alrededor. Tu propio router podría estar observándote en este preciso instante."_
 
-최근 연구에 따르면, 일반적인 **와이파이(WiFi)** 신호의 변화를 분석하여 실내에 있는 사람의 위치, 이동 경로, 심지어 **호흡과 심박수**까지 탐지할 수 있다는 경고가 나왔습니다. 카메라도, 마이크도 필요 없습니다. 오직 전파만 있으면 됩니다. 이 놀라운 기술이 가져올 프라이버시 침해 위험을 평가하고 대응책을 마련하는 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **원리**: WiFi 신호가 물체에 반사되어 돌아오는 패턴(CSI)을 AI로 분석하여 3D 움직임 포착.
-2. **위험성**: 벽 뒤에 있는 사람의 생체 신호까지 판별 가능하여 완벽히 은밀한 감시 도구로 악용 가능.
-3. **해결책**: AI 프롬프트를 활용해 내 환경(가정/사무실)의 WiFi 센싱 취약점을 진단하고 방어 가이드라인 수립.
+Estudios recientes han lanzado una seria advertencia: mediante el análisis de las variaciones en las señales **WiFi** cotidianas, es posible detectar la ubicación exacta de una persona en una habitación, su ruta de movimiento e incluso **su respiración y ritmo cardíaco**. No se necesitan cámaras ni micrófonos; las ondas de radio son más que suficientes. En este artículo, te presentamos un prompt diseñado para evaluar el riesgo de esta invasión a la privacidad y establecer contramedidas efectivas en tu propio entorno.
 
 ---
 
-## 🚀 해결책: "WiFi 프라이버시 방패 프롬프트"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **El principio:** La inteligencia artificial analiza los patrones de las señales WiFi que rebotan en los objetos (CSI) para capturar movimientos en 3D.
+2. **El peligro:** Es posible identificar signos vitales de personas incluso a través de las paredes, convirtiéndolo en una herramienta de vigilancia indetectable y perfecta.
+3. **La solución:** Utiliza nuestro prompt de IA para diagnosticar las vulnerabilidades de detección WiFi en tu entorno (casa u oficina) y crear pautas sólidas de defensa.
 
-빠르게 위험성과 기본 대응책만 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[사이버 보안 전문가]`야.
-> **요청:** 최근 이슈가 된 `[WiFi 센싱(CSI 분석)을 통한 감시 기술]`의 위험성을 요약하고, 일반인이 당장 실천할 수 있는 방어책 3가지를 알려줘.
+## 🚀 Solución: "Prompt de Escudo de Privacidad WiFi"
+
+### 🥉 Versión Básica (Basic Version)
+
+Ideal si necesitas comprender rápidamente los riesgos y conocer las medidas defensivas fundamentales.
+
+> **Rol:** Eres un `[Experto en Ciberseguridad]`.
+> **Tarea:** Resume los peligros de la reciente tecnología de `[Vigilancia mediante detección WiFi (Análisis CSI)]` y proporciona 3 medidas defensivas inmediatas que cualquier persona pueda implementar hoy mismo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-특정 공간(사무실, 스마트홈)의 취약점을 상세히 분석하고 체계적인 보안 정책을 세울 때 사용하세요.
+Utiliza esta versión para analizar a fondo las vulnerabilidades de un espacio específico (como una oficina o un hogar inteligente) y establecer políticas de seguridad sistemáticas.
 
-> **역할 (Role):** 너는 `[프라이버시 침해 방지 및 네트워크 보안 수석 엔지니어]`야.
+> **Rol (Role):** Eres un `[Ingeniero Principal de Seguridad de Redes y Prevención de Invasión a la Privacidad]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: WiFi CSI(Channel State Information)를 활용한 실내 인체 감지 기술이 고도화되면서 불법 감시 우려가 커지고 있음.
-> - 목표: 특정 환경에 맞춘 WiFi 센싱 감시 취약점 분석 및 종합 방어 매뉴얼 작성.
+> - Antecedentes: Existe una creciente preocupación por la vigilancia ilegal debido al avance de la tecnología de detección del cuerpo humano en interiores que utiliza CSI (Información del Estado del Canal) del WiFi.
+> - Objetivo: Analizar las vulnerabilidades de vigilancia por detección WiFi adaptadas a un entorno específico y redactar un manual de defensa integral.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. `[분석 대상 공간]`의 특성을 고려하여, WiFi 센싱 기술로 노출될 수 있는 민감 정보 시나리오 3가지를 도출해 줘.
-> 2. 이를 방어하기 위한 기술적/물리적 조치 가이드라인을 단계별로 제시해 줘.
-> 3. `[공간의 주요 목적]`과 밸런스를 맞춘 현실적인 보안 정책 가이드를 작성해 줘.
+> 1. Teniendo en cuenta las características del `[Espacio a analizar]`, elabora 3 escenarios en los que información altamente sensible podría quedar expuesta mediante la tecnología de detección WiFi.
+> 2. Proporciona una guía paso a paso con medidas técnicas y físicas para defenderse de estos escenarios.
+> 3. Redacta una política de seguridad realista que mantenga un equilibrio lógico con el `[Propósito principal del espacio]`.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운을 사용하고, 핵심 내용은 표(Table)가 아닌 불릿 리스트(-)와 인용구(>)로 정리해 줘.
-> - 모바일 환경에서도 가독성이 좋도록 짧은 문장과 이모지를 적극 활용해 줘.
+> - El formato de salida debe ser Markdown. Organiza los puntos clave utilizando listas con viñetas (-) y bloques de citas (>), sin usar tablas.
+> - Emplea oraciones cortas y emojis de forma estratégica para garantizar una legibilidad óptima en dispositivos móviles.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 실현 불가능한 전파 차단 기술(예: 납 차폐막 설치 등 일반적이지 않은 방법)은 제외하고, 공유기 설정 및 일상적 조치 위주로 답변해 줘.
+> - Excluye tecnologías de bloqueo de radiofrecuencia que sean poco realistas (como instalar escudos de plomo en las paredes u otros métodos poco convencionales). Enfoca tus respuestas en la configuración del router y en medidas prácticas cotidianas.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-이 기술은 독거노인 돌봄이나 스마트홈 자동화 등 긍정적인 목적(WiFi Sensing)으로 개발되었지만, 해킹될 경우 가장 끔찍한 사생활 침해 도구가 됩니다. 공유기 해킹 한 번으로 내 집 안의 모든 움직임이 3D 데이터로 전송될 수 있다는 뜻이죠. 이 프롬프트는 단순한 호기심 충족을 넘어, 우리 주변에 널려있는 IoT 기기와 라우터의 '숨겨진 센서 역할'을 인지하고, 기업 보안 담당자나 개인이 선제적으로 네트워크 장비 설정(게스트 네트워크 분리, 출력 조절 등)을 점검하는 데 매우 유용합니다. 물리적 보안과 디지털 보안의 경계가 완전히 무너진 시대에 필수적인 고민입니다.
+Esta tecnología fue desarrollada originalmente con fines nobles, como el cuidado de personas mayores que viven solas o la automatización de hogares inteligentes (Sensing WiFi). Sin embargo, si cae en manos de piratas informáticos, se transforma en la peor pesadilla para la privacidad. Un simple hackeo de tu router significa que cada uno de tus movimientos en casa podría ser transmitido como datos 3D.
 
----
-
-## 🔗 참고 링크
-
-- [SciTechDaily: 와이파이 보이지 않는 감시 시스템 경고](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
+Este prompt va más allá de satisfacer la curiosidad técnica; es una herramienta vital para tomar consciencia de la función de "sensor oculto" que tienen los dispositivos IoT y los routers que nos rodean. Es sumamente útil para que los responsables de seguridad corporativa o incluso usuarios individuales revisen de forma proactiva la configuración de sus equipos de red (como la separación de redes de invitados o el ajuste de la potencia de transmisión). En una era donde la línea entre la seguridad física y la digital ha desaparecido por completo, esta es una reflexión obligatoria.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🔗 Enlaces de Referencia
 
-- **Q: 저희 집 일반 공유기로도 진짜 사람 움직임을 볼 수 있나요?**
-  - A: 네, 펌웨어 변조나 CSI 데이터를 추출할 수 있는 특정 악성코드가 공유기에 감염되면, 일반 가정용 공유기도 강력한 레이더 시스템으로 돌변할 수 있습니다.
-
-- **Q: 비밀번호만 복잡하게 설정하면 안전한가요?**
-  - A: 강력한 WPA3 암호화와 복잡한 비밀번호는 기본 중의 기본입니다. 추가로 안 쓰는 2.4GHz/5GHz 대역을 끄거나, 공유기 펌웨어를 항상 최신으로 유지하고, 관리자 페이지 외부 접속(원격 관리) 기능을 반드시 차단해야 합니다.
-
-- **Q: 위 프롬프트에서 `[분석 대상 공간]`에는 어떤 것을 넣나요?**
-  - A: "1인 가구 원룸", "기밀을 다루는 스타트업 회의실", "스마트 가전이 많은 30평대 아파트" 등 구체적인 장소를 입력할수록 AI가 정확한 맞춤형 시나리오를 제시합니다.
+- [SciTechDaily: Investigadores advierten que el WiFi podría convertirse en un sistema de vigilancia masiva e invisible](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **Role 부여 (보안 수석 엔지니어):** AI에게 단순 정보 전달자가 아닌, 위협을 분석하고 정책을 수립하는 최고 수준의 보안 전문가 페르소나를 부여하여 답변의 깊이를 더했습니다.
-2. **Context (CSI 기술 명시):** 막연한 해킹이 아니라 'CSI(채널 상태 정보)'라는 구체적인 기술 원리를 컨텍스트에 포함시켜, AI가 환각(딴소리) 없이 정확한 기술적 맥락에서 답변하도록 유도했습니다.
-3. **Warning (현실성 제약):** 비현실적인 대응책(모든 벽에 은박지 바르기 등)을 사전에 차단하여, 내일 당장 적용할 수 있는 실용적인 가이드만 도출하도록 설계했습니다.
+- **P: ¿Realmente pueden ver mis movimientos con el router estándar que tengo en casa?**
+  - R: Sí. Si el firmware de tu router es alterado o se infecta con malware específico capaz de extraer datos CSI, un router doméstico común puede transformarse en un potente sistema de radar.
 
----
+- **P: ¿Es suficiente con poner una contraseña muy complicada para estar seguro?**
+  - R: Una contraseña compleja y un cifrado fuerte (como WPA3) son la base de la seguridad, pero no bastan. Además, debes desactivar las bandas de 2.4GHz o 5GHz que no utilices, mantener el firmware siempre actualizado y bloquear el acceso externo (gestión remota) a la página de administración del router.
 
-## 📊 증명: Before & After
-
-### ❌ Before (일반적인 질문)
-
-> **사용자:** 와이파이로 사람 감시할 수 있다는데, 어떻게 막아?
->
-> **AI:** 와이파이 해킹을 막기 위해서는 비밀번호를 복잡하게 설정하고, 알 수 없는 네트워크에 접속하지 마세요. (원론적이고 초점이 빗나간 답변)
-
-### ✅ After (Pro 프롬프트 사용)
-
-> **AI:**
-> 🛡️ **[기밀을 다루는 스타트업 회의실] WiFi 센싱 취약점 분석 및 방어 가이드**
->
-> 🚨 **예상되는 민감 정보 노출 시나리오**
->
-> - **임원진 독대 감지:** 특정 시간대 회의실 내 인원 수 및 동선을 파악해 중요 의사결정 시점 유추.
-> - **키보드 타이핑 패턴 분석:** 미세한 손가락 움직임 반사파를 분석해 비밀번호나 핵심 키워드 유추 시도.
-> - **스트레스 지수 측정:** 참석자의 호흡 및 심박수 변화 패턴을 감지하여 협상 중 심리 상태 프로파일링.
->
-> 🛠️ **단계별 기술적/물리적 방어 조치**
->
-> - **공유기 출력(Tx Power) 최적화:** 신호가 회의실 외부로 새어나가지 않도록 최소 필요 출력으로 제한 설정.
-> - **AP 분리 및 메시 구조화:** 회의실 내부 전용 폐쇄형 AP와 외부 손님용 망을 물리적으로 철저히 분리.
-> - **AP 펌웨어 무결성 모니터링:** CSI 데이터 불법 추출 펌웨어 변조 방지를 위한 주기적 해시값 검사.
+- **P: ¿Qué debo escribir en el campo `[Espacio a analizar]` del prompt profesional?**
+  - R: Cuanto más específico seas, mejor. Puedes ingresar descripciones como "Estudio de una sola persona", "Sala de conferencias de una startup que maneja datos confidenciales" o "Apartamento de 100 metros cuadrados con múltiples electrodomésticos inteligentes". La IA generará escenarios personalizados de alta precisión.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-눈에 보이지 않는 전파가 우리를 비추는 조명이 되었습니다. 편리함을 대가로 내어준 프라이버시가 없는지, 오늘 퇴근 후 집 안의 공유기 설정부터 다시 한번 점검해 보세요.
+1. **Asignación de Rol (Ingeniero Principal de Seguridad):** Al otorgar a la IA la personalidad de un experto de élite en ciberseguridad, en lugar de un simple transmisor de datos, logramos una profundidad analítica muy superior y políticas de mitigación reales.
+2. **Contexto (Especificación de la tecnología CSI):** Al no hablar de un "hackeo" genérico, sino de incluir el principio técnico específico de "CSI (Información del Estado del Canal)", guiamos a la IA para que responda con un marco técnico riguroso, eliminando el riesgo de alucinaciones.
+3. **Advertencia (Restricción de realismo):** Al bloquear de antemano las soluciones inútiles o exageradas (como forrar las paredes con papel de aluminio), nos aseguramos de que la IA genere únicamente protocolos prácticos y viables para aplicar desde hoy mismo.
 
-안전한 디지털 라이프 되세요! 🛡️
+---
+
+## 📊 Evidencia: Antes y Después
+
+### ❌ Antes (Pregunta genérica)
+
+> **Usuario:** Escuché que te pueden espiar por WiFi. ¿Cómo lo evito?
+>
+> **IA:** Para evitar el hackeo de su WiFi, asegúrese de establecer una contraseña segura y evite conectarse a redes desconocidas. _(Respuesta genérica, superficial y desenfocada)_
+
+### ✅ Después (Usando el Prompt Pro)
+
+> **IA:**
+> 🛡️ **Guía de Análisis y Defensa de Vulnerabilidades WiFi Sensing para [Sala de conferencias de startup confidencial]**
+>
+> 🚨 **Escenarios de exposición de información crítica:**
+>
+> - **Detección de reuniones ejecutivas a puerta cerrada:** Monitoreo del número de personas y sus patrones de movimiento para inferir el momento exacto de decisiones clave.
+> - **Análisis de patrones de escritura:** Captura de los micro-rebotes generados por el movimiento de los dedos en el teclado para deducir contraseñas o palabras clave del proyecto.
+> - **Medición de niveles de estrés:** Perfilamiento del estado psicológico durante una negociación detectando alteraciones sutiles en la respiración y el ritmo cardíaco de los asistentes.
+>
+> 🛠️ **Medidas defensivas técnicas y físicas paso a paso:**
+>
+> - **Optimización de la potencia de transmisión (Tx Power):** Configurar el router al nivel mínimo necesario para evitar que las señales atraviesen las paredes de la sala.
+> - **Aislamiento de AP y estructuración en malla:** Separación física y lógica estricta entre los puntos de acceso internos exclusivos de la sala de reuniones y la red para invitados.
+> - **Monitorización de integridad del firmware del AP:** Escaneo periódico de valores hash para prevenir la inyección de malware especializado en la extracción ilegal de datos CSI.
+
+---
+
+## 🎯 Conclusión
+
+Las ondas de radio invisibles que nos conectan al mundo también pueden convertirse en focos que nos iluminan en la oscuridad. Tómate un momento hoy, después del trabajo, para revisar la configuración de tu router y asegurarte de no haber sacrificado tu intimidad en el altar de la comodidad.
+
+¡Te deseamos una vida digital segura y privada! 🛡️

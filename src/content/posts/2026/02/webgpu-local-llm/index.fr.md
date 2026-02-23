@@ -9,117 +9,117 @@ description: "API 키 없이, 내 브라우저가 AI 서버가 됩니다. WebGPU
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 
-# 📝 서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법
+# 📝 Zéro frais de serveur ! Comment faire tourner Llama-3 dans votre navigateur avec WebGPU
 
-- **🎯 추천 대상:** 프론트엔드 개발자, 데이터 프라이버시가 중요한 분, 토큰 비용이 부담되는 분
-- **⏱️ 소요 시간:** 1시간 → 10분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Recommandé pour :** Développeurs frontend, passionnés de confidentialité des données, personnes soucieuses des coûts liés aux tokens.
+- **⏱️ Temps requis :** De 1 heure → réduit à 10 minutes.
+- **🤖 Modèle recommandé :** Toute IA conversationnelle (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficulté :** ⭐⭐⭐☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"API 키 발급, 카드 등록, 아슬아슬한 토큰 사용량에 지치셨나요? 이제 당신의 브라우저가 세상에서 가장 안전하고 무료인 AI 서버가 됩니다."_
+> _"Fatigué de générer des clés API, d'enregistrer des cartes bancaires et de surveiller anxieusement votre consommation de tokens ? Aujourd'hui, votre navigateur devient le serveur IA le plus sûr et le plus gratuit au monde."_
 
-2026년 현재, WebGPU는 모든 모던 브라우저의 기본 표준으로 자리 잡았습니다. 무거운 Python 백엔드 환경을 세팅하거나 복잡한 Docker 컨테이너를 띄울 필요가 전혀 없습니다. `WebLLM`과 같은 경량화 라이브러리를 활용하면, 사용자의 로컬 그래픽 카드(GPU) 자원만으로 브라우저 탭 안에서 거대 언어 모델(LLM)을 매끄럽게 구동할 수 있습니다.
+En cette année 2026, WebGPU s'est imposé comme le standard de base de tous les navigateurs modernes. Il n'est plus du tout nécessaire de configurer de lourds environnements backend en Python ou de déployer des conteneurs Docker complexes. En exploitant des bibliothèques allégées telles que `WebLLM`, vous pouvez faire tourner de manière fluide un grand modèle linguistique (LLM) directement dans un onglet de votre navigateur, en utilisant uniquement les ressources de la carte graphique (GPU) locale de l'utilisateur.
 
-이 글에서는 프론트엔드 개발자가 단 몇 분 만에 완벽한 **"WebGPU 기반 로컬 LLM 애플리케이션"**의 뼈대를 완성할 수 있는 최적화된 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **WebGPU의 진화:** 별도의 플러그인이나 서버 없이 브라우저 단에서 고성능 AI 모델 추론이 가능해졌습니다.
-2. **클라이언트 사이드 LLM:** WebLLM 라이브러리를 통해 Llama-3, Gemma-2 등을 사용자 기기에서 직접 실행하여 데이터 프라이버시를 완벽히 보호합니다.
-3. **1분 스캐폴딩:** 아래의 프롬프트 하나면 Vite, React, WebLLM 조합의 상용구 코드를 즉시 생성하여 개발 시간을 압도적으로 단축할 수 있습니다.
+Cet article présente des prompts optimisés qui permettront aux développeurs frontend de concevoir le squelette d'une parfaite **"Application LLM locale basée sur WebGPU"** en seulement quelques minutes.
 
 ---
 
-## 🚀 해결책: "WebGPU LLM 스캐폴딩 생성기"
+## ⚡️ En Bref (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **L'évolution de WebGPU :** L'inférence de modèles d'IA haute performance est désormais possible directement dans le navigateur, sans serveur ni plugin supplémentaire.
+2. **LLM côté client :** Exécutez directement Llama-3, Gemma-2 et d'autres modèles sur l'appareil de l'utilisateur via la bibliothèque WebLLM, garantissant une protection absolue de la confidentialité des données.
+3. **Scaffolding en 1 minute :** Un seul prompt suffit pour générer instantanément le code boilerplate (Vite, React, WebLLM), réduisant drastiquement votre temps de développement.
 
-빠르게 프로토타입 코드가 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 WebGPU에 능숙한 시니어 프론트엔드 개발자야.
-> **요청:** `@mlc-ai/web-llm` 라이브러리를 활용해 브라우저에서 Llama-3-8B 모델을 구동하는 가장 미니멀한 HTML/JS 예제 코드를 작성해 줘. CDN 방식을 적용해.
+## 🚀 La Solution : "Générateur de Scaffolding LLM WebGPU"
+
+### 🥉 Version Basique (Basic Version)
+
+À utiliser lorsque vous avez besoin d'un code prototype rapidement.
+
+> **Rôle :** Tu es un développeur frontend senior expert en WebGPU.
+> **Tâche :** Rédige le code d'exemple HTML/JS le plus minimaliste possible pour faire tourner le modèle Llama-3-8B dans le navigateur en utilisant la bibliothèque `@mlc-ai/web-llm`. Applique une approche via CDN.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro (Expert)
 
-실제 상용 프로젝트에 즉시 투입할 수 있는 탄탄한 React 컴포넌트 아키텍처가 필요할 때 사용하세요.
+À utiliser lorsque vous avez besoin d'une architecture de composants React robuste, prête à être déployée immédiatement dans un projet commercial.
 
-> **역할 (Role):** 너는 WebGPU, WASM 최적화, 그리고 React 아키텍처 설계에 통달한 시니어 프론트엔드 엔지니어야.
+> **Rôle (Role) :** Tu es un ingénieur frontend senior maîtrisant WebGPU, l'optimisation WASM et la conception d'architectures React.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 서버 통신 없이 클라이언트 사이드에서만 100% 동작하는 최고 수준의 프라이버시 중심 채팅 애플리케이션을 개발하려고 해.
-> - 목표: `Vite` + `React 19` + `TypeScript` 환경에서 `@mlc-ai/web-llm`을 활용해 Llama-3(또는 이에 준하는 경량 모델)를 구동하는 완성도 높은 앱 구조를 설계해야 해.
+> - Contexte : Je souhaite développer une application de chat axée sur la confidentialité de haut niveau, fonctionnant à 100 % côté client sans aucune communication avec le serveur.
+> - Objectif : Je dois concevoir une structure d'application complète exécutant Llama-3 (ou un modèle léger équivalent) à l'aide de `@mlc-ai/web-llm` dans un environnement `Vite` + `React 19` + `TypeScript`.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. **프로젝트 구조:** 최적화된 폴더 구조와 필수 패키지가 포함된 `package.json` 설정을 명확히 제시해.
-> 2. **엔진 초기화 훅:** `useWebLLM`이라는 커스텀 훅을 설계하여, 모델 로딩 상태(Loading, Ready, Error) 관리와 텍스트 스트리밍 추론 기능을 완벽히 분리해.
-> 3. **UI/UX 구현:** 수 GB에 달하는 모델 로딩 시 사용자가 이탈하지 않도록 정교한 진행률(Progress Bar) UI를 제공하고, 로딩 완료 시 부드럽게 채팅창으로 전환되도록 해.
-> 4. **캐싱 및 최적화 전략:** 한 번 다운로드된 모델이 브라우저 캐시에 안전하게 저장되어, 재접속 시 즉시 실행될 수 있도록 설정해.
+> 1. **Structure du projet :** Présente clairement une structure de dossiers optimisée et la configuration `package.json` incluant les paquets essentiels.
+> 2. **Hook d'initialisation du moteur :** Conçois un hook personnalisé nommé `useWebLLM` pour séparer parfaitement la gestion de l'état de chargement du modèle (Loading, Ready, Error) et la fonctionnalité d'inférence de streaming de texte.
+> 3. **Implémentation UI/UX :** Fournis une UI de barre de progression (Progress Bar) sophistiquée pour éviter que l'utilisateur ne quitte la page pendant le chargement des gigaoctets du modèle. Assure une transition fluide vers la fenêtre de chat une fois le chargement terminé.
+> 4. **Stratégie de mise en cache et d'optimisation :** Configure le système de sorte qu'une fois téléchargé, le modèle soit stocké en toute sécurité dans le cache du navigateur, permettant une exécution instantanée lors des reconnexions.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 코드는 최신 React 19의 기능(Hooks, Suspense 등)을 적극적으로 활용하여 작성할 것.
-> - WebGPU 미지원 브라우저에 대한 우아한 에러 핸들링 로직을 반드시 포함할 것.
-> - 스타일링은 Tailwind CSS를 사용할 것.
+> - Le code doit exploiter activement les fonctionnalités les plus récentes de React 19 (Hooks, Suspense, etc.).
+> - Tu dois impérativement inclure une logique de gestion des erreurs élégante pour les navigateurs ne prenant pas en charge WebGPU.
+> - Utilise Tailwind CSS pour le style.
 >
-> **주의사항 (Warning):**
+> **Avertissements (Warning) :**
 >
-> - 모델 ID는 `Llama-3-8B-Instruct-q4f32_1`와 같이 구동 가능한 Quantized(양자화) 버전을 정확히 명시할 것.
-> - 존재하지 않는 API를 지어내지 말고, 확실한 공식 API만 사용할 것. (환각 방지)
+> - Spécifie avec précision une version quantifiée (Quantized) exécutable pour l'ID du modèle, par exemple `Llama-3-8B-Instruct-q4f32_1`.
+> - N'invente pas d'API inexistantes ; utilise uniquement l'API officielle vérifiée. (Prévention des hallucinations)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'avis de l'auteur (Insight)
 
-이 접근법의 가장 치명적인 매력은 바로 **"절대적인 데이터 보안"**입니다. 사용자의 입력 데이터가 외부 서버로 단 한 바이트도 전송되지 않기 때문에, 사내 기밀 문서 분석이나 개인의 민감한 의료 및 금융 데이터를 다루는 AI 서비스를 기획할 때 완벽한 해답이 됩니다.
+Le charme absolu de cette approche réside dans sa **"sécurité absolue des données"**. Étant donné que pas un seul octet des données saisies par l'utilisateur n'est transmis à un serveur externe, c'est la solution parfaite pour concevoir des services d'IA traitant de l'analyse de documents confidentiels d'entreprise ou de données médicales et financières sensibles.
 
-게다가 토큰 사용에 따른 **서버 유지비가 완벽하게 '0원'**이라는 점이 압도적입니다. 초기 모델 로딩 시 수십 초에서 몇 분의 다운로드 시간이 발생하지만, 브라우저 캐싱 덕분에 두 번째 접속부터는 즉시 실행됩니다. 최근 `Gemma-2-2B`나 `Phi-3-mini` 같은 초경량화 모델이 속속 등장하면서, 최신 스마트폰의 모바일 웹 브라우저에서도 꽤나 쾌적한 AI 경험을 제공할 수 있는 시대가 열렸습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: WebGPU를 지원하지 않는 구형 브라우저에서는 아예 작동하지 않나요?**
-  - A: 네, WebGPU 하드웨어 가속이 필수적입니다. 실무에서는 프롬프트 지시사항처럼 WebGPU 지원 여부를 먼저 체크하고, 미지원 기기일 경우 클라우드 API(예: OpenAI)로 우회하는 하이브리드 아키텍처를 설계하는 것이 정석입니다.
-
-- **Q: 모델 다운로드 용량이 너무 커서 부담스럽지 않을까요?**
-  - A: Llama-3 8B의 4비트 양자화 모델은 대략 4~5GB 정도입니다. 최초 진입 시 Wi-Fi 연결을 권장하는 친절한 안내를 띄우고, 다운로드 진행률을 시각적으로 아름답게 보여주어 사용자의 이탈을 방지하는 UX 설계가 핵심입니다.
-
-- **Q: 답변 생성 속도(TPS)는 실사용이 가능한 수준인가요?**
-  - A: Apple M2/M3 칩셋을 탑재한 Mac이나 최신 외장 그래픽카드가 있는 환경에서는 초당 30~50 토큰 이상의 놀라운 속도를 보여줍니다. 클라우드 API 못지않은 쾌적함을 체감할 수 있습니다.
+De plus, l'avantage majeur est que **les frais de maintenance du serveur liés à l'utilisation des tokens sont de "0 €"**. Bien que le chargement initial du modèle prenne de quelques dizaines de secondes à plusieurs minutes, la mise en cache du navigateur permet une exécution instantanée dès la deuxième visite. Avec l'apparition récente de modèles ultra-légers tels que `Gemma-2-2B` ou `Phi-3-mini`, une nouvelle ère s'est ouverte où il est possible d'offrir une expérience IA tout à fait fluide même sur les navigateurs web mobiles des smartphones de dernière génération.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **Role 부여:** 단순히 코더가 아닌 "WebGPU, WASM 최적화 전문가"라는 정체성을 부여하여, 일반적인 웹 개발자가 놓치기 쉬운 메모리 누수 방지 및 성능 최적화 관점의 코드를 유도했습니다.
-2.  **Context(상황):** "프라이버시 중심"이라는 명확한 비즈니스 목표를 주입하여, 불필요한 서버 통신 로직이 추가되는 것을 원천 차단했습니다.
-3.  **Task(구체적 지시):** 덩어리진 코드가 아닌 `useWebLLM` 커스텀 훅 분리, 진행률 UI, 캐싱 전략 등 프로덕션 레벨에서 필수적인 요소들을 핀셋처럼 집어내어 지시했습니다.
+- **Q : Cela ne fonctionne-t-il pas du tout sur les anciens navigateurs ne prenant pas en charge WebGPU ?**
+  - R : En effet, l'accélération matérielle WebGPU est indispensable. Dans la pratique, comme indiqué dans le prompt, la norme est de concevoir une architecture hybride qui vérifie d'abord la prise en charge de WebGPU et redirige vers une API Cloud (ex. OpenAI) pour les appareils non compatibles.
+
+- **Q : La taille de téléchargement du modèle n'est-elle pas trop lourde ?**
+  - R : Le modèle quantifié 4 bits de Llama-3 8B pèse environ 4 à 5 Go. La clé réside dans la conception de l'UX : afficher un message convivial recommandant une connexion Wi-Fi lors de la première visite, et présenter la progression du téléchargement de manière visuellement attrayante pour éviter que l'utilisateur ne quitte la page.
+
+- **Q : La vitesse de génération des réponses (TPS) est-elle suffisante pour une utilisation réelle ?**
+  - R : Sur un Mac équipé d'une puce Apple M2/M3 ou dans un environnement doté d'une carte graphique externe récente, la vitesse est impressionnante, dépassant les 30 à 50 tokens par seconde. Vous ferez l'expérience d'une fluidité comparable à celle des API Cloud.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-### ❌ Before (입력)
+1.  **Attribution du rôle (Role) :** En attribuant l'identité d'"Expert en WebGPU et optimisation WASM" plutôt que de simple codeur, nous avons induit un code axé sur la prévention des fuites de mémoire et l'optimisation des performances, aspects souvent négligés par les développeurs web classiques.
+2.  **Contexte (Context) :** En insufflant l'objectif commercial clair d'être "axé sur la confidentialité", nous avons bloqué à la source l'ajout de toute logique de communication serveur inutile.
+3.  **Tâche (Task) :** Au lieu de demander un bloc de code monolithique, nous avons exigé avec précision des éléments indispensables au niveau production, tels que l'extraction du hook personnalisé `useWebLLM`, l'UI de progression et la stratégie de mise en cache.
+
+---
+
+## 📊 Preuve : Avant & Après (Before & After)
+
+### ❌ Avant (Entrée basique)
 
 ```text
-웹에서 LLM 돌리는 코드 짜줘.
+Écris du code pour faire tourner un LLM sur le web.
 ```
 
-(결과: WebGPU가 아닌 느린 구형 CPU 기반 라이브러리를 추천하거나, 로딩 상태 관리 및 에러 핸들링이 전혀 없는 빈약한 코드를 반환합니다.)
+_(Résultat : Recommande des bibliothèques obsolètes basées sur le CPU, lentes, au lieu de WebGPU, ou renvoie un code médiocre sans aucune gestion de l'état de chargement ni des erreurs.)_
 
-### ✅ After (결과)
+### ✅ Après (Résultat généré par le prompt)
 
 ```tsx
-// useWebLLM.ts (프롬프트가 생성한 프로덕션 레벨 코드 일부)
+// useWebLLM.ts (Extrait du code de niveau production généré par le prompt)
 import { useState, useEffect } from "react";
 import { CreateMLCEngine } from "@mlc-ai/web-llm";
 
@@ -132,7 +132,7 @@ export const useWebLLM = (modelId = "Llama-3-8B-Instruct-q4f32_1") => {
   useEffect(() => {
     const initEngine = async () => {
       if (!navigator.gpu) {
-        setError("현재 브라우저는 WebGPU를 지원하지 않습니다.");
+        setError("Votre navigateur actuel ne prend pas en charge WebGPU.");
         return;
       }
       try {
@@ -144,7 +144,7 @@ export const useWebLLM = (modelId = "Llama-3-8B-Instruct-q4f32_1") => {
         setEngine(mlcEngine);
         setIsReady(true);
       } catch (err) {
-        setError("모델 로딩 중 오류가 발생했습니다.");
+        setError("Une erreur est survenue lors du chargement du modèle.");
       }
     };
     initEngine();
@@ -156,10 +156,10 @@ export const useWebLLM = (modelId = "Llama-3-8B-Instruct-q4f32_1") => {
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-클라우드 벤더에 의존하며 비싼 API 사용료를 지불하던 시대는 저물고 있습니다. 이제 당신의 브라우저는 그 자체로 완벽하고 강력한 AI 서버입니다.
+L'ère de la dépendance aux fournisseurs de Cloud et du paiement de frais d'API onéreux est révolue. Aujourd'hui, votre navigateur est en soi un serveur IA complet et puissant.
 
-위의 프롬프트를 활용하여 서버비 걱정 없는 나만의 프라이빗 AI 애플리케이션을 당장 구축해 보세요.
+Utilisez les prompts ci-dessus pour concevoir dès maintenant votre propre application IA privée, sans jamais vous soucier des frais de serveur.
 
-이제 칼퇴하세요! 🍷
+Finissez votre journée plus tôt et profitez ! 🍷

@@ -1,119 +1,119 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "이용약관 (Terms of Service)"
-description: "Hello Prompt 서비스 이용에 관한 약관입니다."
+description: "Conditions d'utilisation des services de Hello Prompt."
 date: "2026-02-09"
 ---
 
-# 📜 이용약관 (Terms of Service)
+# 📜 Conditions d'utilisation (Terms of Service)
 
-- **🎯 추천 대상:** Hello Prompt의 모든 방문자 및 구독자
-- **⏱️ 소요 시간:** 3분
-- **🤖 추천 모델:** 인간 지능 (Human Intelligence)
+- **🎯 Recommandé pour :** Tous les visiteurs et abonnés de Hello Prompt
+- **⏱️ Temps requis :** 3 minutes
+- **🤖 Modèle recommandé :** Intelligence Humaine (Human Intelligence)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **중요도:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Importance :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"안전하고 영감 넘치는 AI 라이프를 위해, 우리가 서로 지켜야 할 최소한의 약속입니다."_
+> _"Pour une vie avec l'IA sûre et inspirante, voici les engagements minimaux que nous devons respecter mutuellement."_
 
-Hello Prompt에 오신 것을 환영합니다! 이 공간은 AI 초보자부터 전문가까지 모두가 유용한 프롬프트를 나누고 함께 성장하는 곳입니다. 여러분의 안전하고 쾌적한 서비스 이용을 위해 마련된 아래의 그라운드 룰(이용약관)을 가벼운 마음으로, 하지만 주의 깊게 읽어주시기 바랍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **개인 사용은 자유, 상업적 무단 복제는 금지:** 업무나 개인 프로젝트에 마음껏 활용하세요. 단, 콘텐츠를 그대로 긁어다 판매하는 행위는 안 됩니다.
-2. **AI 결과물의 최종 책임은 본인에게:** AI가 제시하는 정보는 '참조용'입니다. 최종적인 실무 적용 및 법적 판단은 여러분의 몫입니다.
-3. **상호 존중과 규칙 준수:** 건강한 AI 커뮤니티 문화를 위해 관련 법령과 기본적인 상식을 지켜주세요.
+Bienvenue sur Hello Prompt ! Cet espace est dédié au partage de prompts utiles et à la croissance collective, des débutants aux experts en IA. Pour garantir une expérience sûre et agréable à tous, nous vous invitons à lire ces règles de base (conditions d'utilisation) avec un esprit ouvert, mais attentif.
 
 ---
 
-## 🚀 해결책: "안전한 Hello Prompt 가이드라인"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (핵심 요약)
+1. **Usage personnel libre, reproduction commerciale interdite :** Utilisez librement le contenu pour votre travail ou vos projets personnels. Cependant, le copier-coller pur et simple pour le revendre est strictement interdit.
+2. **Vous êtes responsable des résultats de l'IA :** Les informations fournies par l'IA sont à titre "indicatif". L'application finale sur le terrain et le jugement légal vous incombent.
+3. **Respect mutuel et conformité :** Pour maintenir une culture communautaire saine autour de l'IA, merci de respecter la législation en vigueur et le bon sens élémentaire.
 
-바쁘신 분들을 위한 1분 요약본입니다. 이것만은 꼭 기억해 주세요!
+---
 
-> **제1조 (목적):** 이 약관은 Hello Prompt(이하 "사이트")와 여러분 간의 서비스 이용 조건, 권리, 의무를 명확히 하는 것을 목적으로 합니다.
-> **제2조 (저작권):** 사이트 내 모든 프롬프트와 콘텐츠의 저작권은 Hello Prompt에 귀속됩니다.
-> **제3조 (책임 한계):** 사이트의 정보는 참고용일 뿐이며, AI 실행 결과로 인한 법적 책임은 사이트가 지지 않습니다.
+## 🚀 La solution : "Lignes directrices de sécurité Hello Prompt"
+
+### 🥉 Version Basique (Résumé essentiel)
+
+Un résumé d'une minute pour les plus pressés. Retenez au moins ceci !
+
+> **Article 1 (Objectif) :** Clarifier les conditions d'utilisation, les droits et les obligations entre Hello Prompt (le "Site") et vous.
+> **Article 2 (Droits d'auteur) :** Les droits d'auteur de tous les prompts et contenus du site appartiennent à Hello Prompt.
+> **Article 3 (Limitation de responsabilité) :** Les informations du site sont fournies à titre indicatif. Le site décline toute responsabilité légale quant aux résultats de l'exécution de l'IA.
 
 <br>
 
-### 🥇 Pro Version (상세 약관)
+### 🥇 Version Pro (Conditions détaillées)
 
-서비스를 보다 깊이 이해하고 분쟁을 예방하기 위한 상세 규정입니다.
+Des règles détaillées pour comprendre le service en profondeur et prévenir les litiges.
 
-> **제1조 (목적)**
-> 본 약관은 Hello Prompt(이하 "사이트")가 제공하는 서비스의 이용 조건 및 절차, 이용자와 사이트의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다.
+> **Article 1 (Objectif)**
+> Les présentes conditions visent à définir les conditions et procédures d'utilisation des services fournis par Hello Prompt (ci-après dénommé le "Site"), ainsi que les droits, obligations et responsabilités des utilisateurs et du Site.
 >
-> **제2조 (저작권 및 라이선스)**
+> **Article 2 (Droits d'auteur et Licence)**
 >
-> 1. 본 사이트에서 제공하는 프롬프트 및 콘텐츠의 저작권은 사이트에 귀속됩니다.
-> 2. 사용자는 개인적인 목적으로 콘텐츠를 자유롭게 사용할 수 있으나, 허가 없이 상업적으로 재배포하거나 복제하는 것은 금지됩니다.
+> 1. Les droits d'auteur des prompts et contenus fournis sur ce site appartiennent au Site.
+> 2. Les utilisateurs peuvent utiliser librement le contenu à des fins personnelles ou professionnelles internes, mais toute redistribution ou reproduction commerciale sans autorisation est interdite.
 >
-> **제3조 (책임의 한계)**
+> **Article 3 (Limite de responsabilité)**
 >
-> 1. 본 사이트가 제공하는 정보는 참고용이며, 그 정확성이나 완전성을 보장하지 않습니다.
-> 2. 사이트에서 제공된 프롬프트를 사용하여 발생한 결과에 대해 사이트는 법적인 책임을 지지 않습니다.
+> 1. Les informations fournies par ce site le sont à titre consultatif et leur exactitude ou exhaustivité n'est pas garantie.
+> 2. Le Site n'assume aucune responsabilité légale quant aux résultats découlant de l'utilisation des prompts fournis.
 >
-> **제4조 (약관의 개정)**
-> 사이트는 필요한 경우 관련 법령을 위배하지 않는 범위 내에서 본 약관을 개정할 수 있습니다.
+> **Article 4 (Modification des conditions)**
+> Le Site se réserve le droit de modifier ces conditions si nécessaire, dans les limites permises par la loi applicable.
 >
-> **시행일자:** 2026년 2월 9일
+> **Date d'entrée en vigueur :** 9 février 2026
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Commentaire de l'auteur (Insight)
 
-이용약관이라고 하면 흔히 길고 지루한 텍스트 덩어리를 떠올리기 쉽습니다. 하지만 Hello Prompt의 약관은 **"우리가 이 지식의 공간을 어떻게 보호하고 가꿀 것인가?"**에 대한 짧은 약속에 가깝습니다.
+Lorsqu'on évoque les conditions d'utilisation, on pense souvent à un long bloc de texte ennuyeux. Cependant, les conditions de Hello Prompt s'apparentent davantage à une courte promesse répondant à la question : **"Comment allons-nous protéger et cultiver cet espace de connaissances ?"**
 
-특히 **제3조(책임의 한계)**는 AI 시대를 살아가는 우리 모두가 뼈저리게 명심해야 할 부분입니다. AI는 지치지 않는 훌륭한 조수(Copilot)이지만, 최종 의사결정권자이자 책임을 지는 기장(Pilot)은 결국 사람, 즉 여러분 자신이라는 점을 잊지 마세요. 제공된 프롬프트를 맹신하기보다 자신의 상황에 맞게 튜닝하고 검증하는 습관을 들이는 것이야말로 진정한 '프롬프트 엔지니어링'의 시작입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 이곳에 있는 프롬프트를 제 회사 업무에 써도 되나요?**
-  - A: 물론입니다! 회사 업무의 효율을 높이는 데 사용하는 것은 '개인적/실무적 목적의 사용'에 해당하므로 적극 권장합니다. (단, 프롬프트를 모아 유료 전자책이나 강의 등으로 재판매하는 행위는 엄격히 금지됩니다.)
-
-- **Q: AI 모델이 프롬프트를 엉뚱하게 이해하면 어떻게 하죠?**
-  - A: AI 모델(GPT-4, Claude, Gemini 등)의 특성이나 버전에 따라 결과가 다르게 출력될 수 있습니다. 각 포스트에 안내된 '작성자 코멘트'와 '프롬프트 해부' 섹션을 참고하여 변수를 조금씩 조정해 보세요. 오류가 지속된다면 환각(Hallucination) 현상일 수 있으니 팩트 체크가 필수입니다.
-
-- **Q: 약관이 변경되면 어떻게 알 수 있나요?**
-  - A: 중요한 약관 개정이 있을 경우, 효력 발생일 이전에 블로그 메인 화면 공지사항이나 이메일 뉴스레터를 통해 충분한 기간을 두고 안내해 드릴 예정입니다.
+L'**Article 3 (Limitation de responsabilité)** est particulièrement crucial à l'ère de l'IA. L'intelligence artificielle est un excellent copilote qui ne se fatigue jamais, mais n'oubliez pas que le pilote (celui qui prend la décision finale et en assume la responsabilité), c'est vous. Prendre l'habitude d'ajuster et de vérifier les prompts fournis en fonction de votre situation, plutôt que de les suivre aveuglément, constitue le véritable point de départ du "Prompt Engineering".
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-딱딱한 법적 문서임에도 불구하고 가독성을 최대로 끌어올린 비밀은 다음과 같습니다.
+- **Q : Puis-je utiliser les prompts d'ici pour mon travail en entreprise ?**
+  - R : Absolument ! L'utilisation pour améliorer l'efficacité de votre travail relève d'un "usage personnel/professionnel" et est fortement encouragée. (Toutefois, compiler ces prompts pour les revendre sous forme d'e-book ou de formation payante est strictement interdit.)
 
-1.  **명확성 (Clarity):** 불필요한 법률용어와 한자어를 걷어내고 누구나 직관적으로 이해할 수 있는 일상어로 풀어 썼습니다.
-2.  **구조화 (Structure):** Basic(요약)과 Pro(상세)로 레이어를 나누어, 독자가 자신의 상황과 시간에 맞게 정보를 취사선택할 수 있도록 설계했습니다.
+- **Q : Que faire si le modèle d'IA comprend mal le prompt ?**
+  - R : Les résultats peuvent varier en fonction des caractéristiques ou de la version du modèle d'IA (GPT-4, Claude, Gemini, etc.). Consultez les sections "Commentaire de l'auteur" et "Anatomie du prompt" de chaque article pour ajuster légèrement les variables. Si l'erreur persiste, il peut s'agir d'une hallucination de l'IA : la vérification des faits (fact-checking) est indispensable.
+
+- **Q : Comment serai-je informé des modifications des conditions d'utilisation ?**
+  - R : En cas de modification importante, nous vous en informerons suffisamment à l'avance via une annonce sur la page d'accueil du blog ou par notre newsletter, avant la date d'entrée en vigueur.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du document (Why it works?)
 
-### ❌ Before (일반적인 빽빽한 약관)
+Le secret d'une lisibilité maximale, même pour un document juridique formel, réside dans ces points :
+
+1.  **Clarté (Clarity) :** Nous avons éliminé le jargon juridique superflu pour utiliser un langage quotidien intuitif et accessible à tous.
+2.  **Structuration (Structure) :** En divisant le texte en versions Basic (résumé) et Pro (détaillé), nous permettons au lecteur de sélectionner l'information adaptée à son contexte et au temps dont il dispose.
+
+---
+
+## 📊 Preuve : Avant & Après
+
+### ❌ Avant (Des conditions générales denses et classiques)
 
 ```text
-제 1 장 총칙
-제 1 조 (목적) 본 약관은 주식회사 OOO가 제공하는 서비스의 이용과 관련하여 회사와 회원 간의 권리, 의무 및 책임사항, 기타 필요한 사항을 규정함을 목적으로 합니다. 제 2 조 (용어의 정의) 이 약관에서 사용하는 용어의 정의는 다음과 같습니다... (이하 생략, 가독성 제로)
+Chapitre 1 Dispositions générales
+Article 1 (Objectif) Les présentes conditions ont pour but de définir les droits, obligations et responsabilités entre la société OOO et ses membres concernant l'utilisation des services fournis. Article 2 (Définition des termes) Les termes utilisés dans ces conditions sont définis comme suit... (La suite est omise, lisibilité nulle)
 ```
 
-### ✅ After (Hello Prompt 스타일 약관)
+### ✅ Après (Le style Hello Prompt)
 
 ```text
-핵심만 짚어드립니다! 개인 실무 적용은 대환영, 상업적 무단 복제는 절대 금지! 최종 책임은 기장(Pilot)인 여러분에게 있습니다. (10초 컷 이해 완료)
+L'essentiel en bref ! L'application personnelle et professionnelle est la bienvenue, la copie commerciale non autorisée est absolument interdite ! La responsabilité finale vous incombe, en tant que Pilote. (Compris en 10 secondes chrono)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-건강한 규칙은 우리를 얽매기 위해 있는 것이 아닙니다. 오히려 우리가 더 자유롭고 창의적으로 활동할 수 있도록 지켜주는 **가장 든든한 안전망(Safety Net)**입니다.
+Les bonnes règles ne sont pas là pour nous restreindre. Au contraire, elles constituent le **filet de sécurité (Safety Net)** le plus fiable pour nous permettre d'agir avec plus de liberté et de créativité.
 
-Hello Prompt의 울타리 안에서, 여러분만의 멋진 AI 활용법을 마음껏 펼치고 업무의 자유를 얻으시길 응원합니다! 🍷
+Au sein de l'écosystème Hello Prompt, nous vous encourageons à déployer vos propres méthodes d'utilisation de l'IA et à gagner en liberté dans votre travail ! 🍷

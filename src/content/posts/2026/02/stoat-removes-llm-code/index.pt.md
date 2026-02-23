@@ -1,6 +1,6 @@
 ---
-title: "Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿"
-description: "더 이상 코드를 생성하지 마세요. Stoat는 AI가 작성한 비대하고 중복된 코드를 찾아내어 제거하고, 코드베이스를 다이어트시키는 '안티-코파일럿'입니다."
+title: "Stoat: O Anti-Copilot que Exclui Códigos Escritos por LLMs"
+description: "Pare de gerar código. O Stoat é um 'anti-copilot' que detecta, remove códigos inflados e redundantes criados por IA, e coloca sua base de código em uma dieta rigorosa."
 date: 2026-02-15
 tags:
   - AI
@@ -11,107 +11,107 @@ tags:
 cover: ./cover.png
 ---
 
-# 📝 Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿
+# 📝 Stoat: O Anti-Copilot que Exclui Códigos Escritos por LLMs
 
-- **🎯 추천 대상:** 레거시 코드에 고통받는 개발자, 코드 리뷰어, 시니어 엔지니어
-- **⏱️ 소요 시간:** 1시간 → 5분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (코딩 특화 모델 권장)
+- **🎯 Recomendado para:** Desenvolvedores que sofrem com código legado, revisores de código e engenheiros seniores
+- **⏱️ Tempo necessário:** De 1 hora → Reduzido para 5 minutos
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (Modelos especializados em codificação são recomendados)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"어제 짠 AI 코드, 오늘 보니 스파게티가 되어 있지 않나요? 이제 코드를 '생성'할 때가 아니라 '삭제'할 때입니다."_
+> _"Aquele código que a IA gerou ontem não se transformou num prato de espaguete hoje? Chegou a hora de parar de 'gerar' e começar a 'excluir'."_
 
-2024년과 2025년이 'AI 코딩 어시스턴트'의 해였다면, 2026년은 'AI 클리너'의 해가 될지도 모릅니다. 최근 개발자 커뮤니티에서 화제가 되고 있는 **Stoat**는 기존의 AI 도구들과 정반대의 길을 걷습니다. GitHub Copilot이나 Cursor가 "더 많은 코드"를 빠르게 작성하는 데 집중했다면, Stoat의 목표는 단 하나입니다. 바로 **"코드를 지우는 것"**입니다.
+Se 2024 e 2025 foram os anos dos "Assistentes de Codificação por IA", 2026 pode muito bem ser o ano dos "Limpadores de IA" (AI Cleaners). O **Stoat**, que vem ganhando grande destaque nas comunidades de desenvolvedores, segue o caminho inverso das ferramentas de IA tradicionais. Enquanto o GitHub Copilot ou o Cursor focam em escrever "mais código" rapidamente, o Stoat tem um único objetivo: **"apagar código"**.
 
-LLM 기반 코딩 도구의 대중화로 생산성은 폭발적으로 증가했지만, AI가 작성한 코드는 종종 필요 이상으로 장황하거나 중복된 로직을 포함합니다. 이 포스트에서는 Stoat의 철학을 벤치마킹하여, 여러분의 LLM을 '잔혹한 코드 청소부(Stoat)'로 변신시키는 강력한 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI 코딩 어시스턴트의 남용으로 인해 코드베이스가 비대해지는 '기술 부채'가 폭증하고 있습니다.
-2. Stoat는 의미론적 중복 제거, 보일러플레이트 축소, 데드 코드 삭제를 통해 코드 다이어트를 수행합니다.
-3. 아래의 '안티-코파일럿 프롬프트'를 사용하면 어떤 LLM이든 즉시 강력한 코드 리팩토링 도구로 활용할 수 있습니다.
+A popularização das ferramentas de codificação baseadas em LLM aumentou a produtividade de forma explosiva, mas o código gerado pela IA muitas vezes é excessivamente verboso ou contém lógicas redundantes. Neste post, inspirados na filosofia do Stoat, apresentaremos um prompt poderoso que transformará seu LLM em um 'implacável faxineiro de código' (Stoat).
 
 ---
 
-## 🚀 해결책: "Stoat 안티-코파일럿 다이어트 프롬프트"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. O abuso de assistentes de codificação por IA está causando uma explosão de 'dívida técnica' devido ao inchaço das bases de código.
+2. O Stoat realiza uma "dieta de código" por meio da eliminação de redundâncias semânticas, redução de código boilerplate e exclusão de código morto (dead code).
+3. Ao usar o 'Prompt Anti-Copilot' abaixo, você pode transformar instantaneamente qualquer LLM em uma poderosa ferramenta de refatoração de código.
 
-빠르게 코드 라인 수(LOC)를 줄이고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 세상에서 가장 깐깐한 '안티-코파일럿(Anti-Copilot)' 시니어 개발자야.
-> **요청:** 아래 코드를 리뷰하고, 기능은 100% 동일하게 유지하면서 코드 라인 수를 최소한으로 줄여서 다시 작성해줘. 불필요한 추상화, 중복 로직, 데드 코드는 가차 없이 삭제해.
-> **코드:** `[여기에 리팩토링할 코드 붙여넣기]`
+## 🚀 A Solução: "Prompt de Dieta Anti-Copilot do Stoat"
+
+### 🥉 Versão Basic (Básica)
+
+Use quando precisar reduzir rapidamente o número de linhas de código (LOC).
+
+> **Role (Papel):** Você é o desenvolvedor sênior 'Anti-Copilot' mais rigoroso do mundo.
+> **Task (Tarefa):** Revise o código abaixo e reescreva-o reduzindo o número de linhas ao mínimo absoluto, mantendo a funcionalidade 100% idêntica. Elimine impiedosamente abstrações desnecessárias, lógicas redundantes e códigos mortos.
+> **Código:** `[Cole o código a ser refatorado aqui]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Especialista)
 
-프로덕션 레벨의 코드에서 안전하게 기술 부채를 청산하고 싶을 때 사용하세요.
+Use quando quiser eliminar com segurança a dívida técnica em códigos de nível de produção.
 
-> **역할 (Role):** 너는 코드 다이어트의 장인이자, 불필요한 코드를 혐오하는 'Stoat(안티-코파일럿)' 수석 엔지니어입니다. "최고의 코드는 코드가 없는 것(The best code is no code)"이라는 철학을 맹신합니다.
+> **Role (Papel):** Você é um mestre da dieta de código e um engenheiro chefe 'Stoat' (Anti-Copilot) que abomina códigos desnecessários. Você acredita cegamente na filosofia de que "o melhor código é a ausência de código" (The best code is no code).
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 배경: 주니어 개발자와 AI 코딩 어시스턴트가 무분별하게 작성하여 비대해진 `[사용 언어 및 프레임워크]` 프로젝트입니다.
-> - 목표: 코드의 가독성을 높이고, 유지보수성을 극대화하며, 전체 라인 수(LOC)를 극단적으로 줄이는 것입니다.
+> - Cenário: Este é um projeto em `[Linguagem/Framework]` que ficou inchado devido ao uso indiscriminado por desenvolvedores juniores e assistentes de codificação por IA.
+> - Objetivo: Melhorar a legibilidade do código, maximizar a manutenibilidade e reduzir drasticamente o número total de linhas de código (LOC).
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. **Semantic De-duplication (의미론적 중복 제거):** 겉모습은 달라도 같은 역할을 하는 로직을 찾아 통합하세요.
-> 2. **Boilerplate Reduction (보일러플레이트 축소):** 최신 언어 문법을 활용하여 장황한 패턴을 제거하세요.
-> 3. **Dead Code Hunting (죽은 코드 사냥):** 호출되지 않거나 불필요한 방어적 코딩, 과도한 타입 선언을 모두 제거하세요.
-> 4. 리팩토링된 코드와 함께 **삭제된 코드의 비율(%)** 및 **주요 최적화 포인트**를 리포트로 작성하세요.
+> 1. **Semantic De-duplication (Desduplicação Semântica):** Encontre e integre lógicas que possuem a mesma função, mesmo que pareçam diferentes.
+> 2. **Boilerplate Reduction (Redução de Boilerplate):** Utilize a sintaxe mais recente da linguagem para eliminar padrões excessivamente longos.
+> 3. **Dead Code Hunting (Caça ao Código Morto):** Remova completamente códigos defensivos desnecessários, declarações de tipos excessivas e funções não chamadas.
+> 4. Escreva um relatório contendo a **porcentagem (%) de código excluído** e os **principais pontos de otimização**, juntamente com o código refatorado.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 기존 코드의 비즈니스 로직과 시간/공간 복잡도를 훼손하거나 저하시켜서는 절대 안 됩니다.
-> - 출력 형식은 마크다운 코드블럭을 사용하고, 리팩토링 전후의 주요 차이점은 불릿 포인트로 정리해 주세요.
-> - 확실하지 않은 최적화는 억지로 진행하지 말고 코멘트를 남겨주세요.
+> - Você NUNCA deve comprometer ou degradar a lógica de negócios original ou a complexidade de tempo/espaço do código.
+> - O formato de saída deve usar blocos de código em Markdown, e as principais diferenças antes e depois da refatoração devem ser listadas em bullet points.
+> - Não force otimizações se não tiver certeza; em vez disso, deixe um comentário.
 >
-> **입력 변수:**
+> **Variáveis de Entrada:**
 >
-> - 언어/프레임워크: `[예: React, TypeScript]`
-> - 원본 코드:
+> - Linguagem/Framework: `[Exemplo: React, TypeScript]`
+> - Código Original:
 >   ```
->   [여기에 최적화할 스파게티 코드를 붙여넣으세요]
+>   [Cole o código espaguete a ser otimizado aqui]
 >   ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 프롬프트는 설계 당시 "어떻게 하면 AI가 짠 뻔하고 장황한 코드를, AI가 스스로 부끄러워하며 지우게 만들까?"라는 고민에서 출발했습니다.
+A concepção deste prompt nasceu da seguinte reflexão: "Como fazer com que a IA sinta vergonha do código óbvio e verboso que ela mesma gerou, e o apague por conta própria?".
 
-컨텍스트를 제한하고 '안티-코파일럿'이라는 명확한 페르소나를 부여함으로써, AI의 쓸데없는 창의성을 통제하고 오직 **'최적화'와 '삭제'**에만 집중하게 만들었습니다. 실제로 현업에서 수백 줄짜리 뚱뚱한 레거시 컴포넌트를 이 프롬프트에 넣었을 때, 기능 손실 없이 코드가 40% 이상 증발하는 마법을 경험했습니다. 코드 리뷰의 피로도를 획기적으로 줄여주는 최고의 무기입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 코드를 너무 많이 지워서 숨겨진 버그가 터지면 어떡하나요?**
-  - A: Pro 프롬프트의 '제약사항'에 비즈니스 로직 보존을 강력하게 명시해 두었지만, AI의 결과물은 맹신해선 안 됩니다. 반드시 기존에 작성된 단위 테스트(Unit Test)를 돌려 엣지 케이스가 누락되지 않았는지 2차 검증을 거쳐야 합니다.
-
-- **Q: 어떤 언어 모델에서 가장 성능이 좋나요?**
-  - A: 코드의 문맥 구조를 깊이 이해하고 리팩토링하는 작업이므로, 논리적 추론 능력이 압도적인 **Claude 3.5 Sonnet**이나 **GPT-4o**의 사용을 강력히 권장합니다.
+Ao limitar o contexto e atribuir uma persona clara de 'anti-copilot', conseguimos controlar a criatividade inútil da IA e fazê-la focar exclusivamente em **'otimização' e 'exclusão'**. Na prática, ao inserir um componente legado inflado com centenas de linhas neste prompt, presenciei a mágica de mais de 40% do código evaporar sem qualquer perda de funcionalidade. É a arma definitiva para reduzir drasticamente a fadiga durante as revisões de código.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **역할 역전 (Role Reversal):** AI에게 '코드를 무한히 뱉어내는 조수'가 아닌, '코드를 삭제하는 깐깐한 수석 엔지니어' 역할을 부여하여 기존의 행동 패턴을 완전히 뒤집었습니다.
-2. **구체적인 타격 지점 설정 (Targeting):** 중복 제거, 보일러플레이트 축소, 데드 코드 사냥이라는 3가지 명확한 Action Item을 지시하여, AI가 코드를 두루뭉술하게 건드려 망가뜨리는 것을 방지했습니다.
-3. **심리적 철학 주입:** "The best code is no code"라는 극단적인 슬로건을 페르소나에 주입하여, 무조건 코드 라인 수를 줄이는 것을 지상 과제로 삼도록 유도했습니다.
+- **P: E se eu apagar código demais e um bug oculto aparecer?**
+  - R: Embora tenhamos especificado rigidamente nas 'Restrições' do prompt Pro a preservação da lógica de negócios, você nunca deve confiar cegamente no resultado da IA. É imprescindível executar os Testes Unitários (Unit Tests) existentes como uma verificação secundária para garantir que nenhum edge case tenha sido perdido.
+
+- **P: Quais modelos de linguagem oferecem o melhor desempenho para isso?**
+  - R: Como se trata de uma tarefa que exige compreensão profunda da estrutura contextual do código e refatoração, recomendo fortemente o uso do **Claude 3.5 Sonnet** ou do **GPT-4o**, que possuem capacidades avassaladoras de raciocínio lógico e análise estrutural.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Why it works?)
 
-### ❌ Before (입력: AI가 무분별하게 짠 React 코드)
+1. **Inversão de Papel (Role Reversal):** Em vez de tratar a IA como uma 'assistente que cospe código infinitamente', atribuímos o papel de 'engenheiro chefe rigoroso que apaga códigos', invertendo completamente seu padrão de comportamento tradicional.
+2. **Direcionamento Específico (Targeting):** Ao ditar três itens de ação claros (desduplicação, redução de boilerplate e caça ao código morto), evitamos que a IA altere o código de forma genérica e potencialmente o quebre.
+3. **Injeção Filosófica e Psicológica:** Embutimos o slogan extremo "The best code is no code" na persona, induzindo a IA a considerar a redução do número de linhas de código como sua missão suprema inegociável.
+
+---
+
+## 📊 Comprovação: Antes e Depois (Before & After)
+
+### ❌ Antes (Entrada: Código React gerado de forma desleixada pela IA)
 
 ```typescript
 import React, { useState, useEffect } from 'react';
@@ -153,13 +153,13 @@ const UserProfile = ({ user }) => {
 export default UserProfile;
 ```
 
-### ✅ After (결과: Stoat 프롬프트 적용 후)
+### ✅ Depois (Resultado: Após aplicar o prompt Stoat)
 
 ```typescript
 import React from 'react';
 
 const UserProfile = ({ user }) => {
-  // Early return으로 불필요한 조건부 렌더링 깊이 제거
+  // Remoção da profundidade de renderização condicional desnecessária via Early return
   if (!user) return <div>Loading...</div>;
 
   return (
@@ -175,15 +175,15 @@ const UserProfile = ({ user }) => {
 export default UserProfile;
 ```
 
-> **[Stoat 리포트]**
+> **[Relatório do Stoat]**
 >
-> - **코드 감소율:** 원본 대비 약 **55% 삭제 완료** (36줄 → 16줄)
-> - **주요 최적화:** 불필요한 `useState` 및 `useEffect` 상태 동기화 완벽 제거, Early Return 패턴 적용을 통한 Depth 감소, 단축 평가(`||`)를 활용한 삼항 연산자 보일러플레이트 축소.
+> - **Redução de Código:** Aproximadamente **55% do código original excluído** (de 36 linhas → para 16 linhas).
+> - **Principais Otimizações:** Remoção completa de sincronizações de estado desnecessárias com `useState` e `useEffect`, diminuição de profundidade (Depth) através do padrão Early Return, e redução de boilerplate usando avaliação de curto-circuito (`||`) no lugar de operadores ternários verbosos.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-코드를 끝없이 생성하는 것은 이제 누구나, 어떤 AI나 할 수 있는 가장 쉬운 일이 되었습니다. 하지만 파편화된 로직을 꿰어맞추고, 불필요한 코드를 걷어내어 본질만 남기는 것은 여전히 높은 수준의 통찰력을 요구합니다.
+Gerar código infinitamente tornou-se a tarefa mais fácil, algo que qualquer pessoa ou IA pode fazer hoje em dia. No entanto, unir lógicas fragmentadas e remover códigos desnecessários para deixar apenas a essência continua exigindo um alto nível de discernimento e perspicácia arquitetônica.
 
-Stoat의 철학을 담은 이 프롬프트를 통해, 무거워진 코드베이스에 강력한 다이어트를 선사해 보세요. 더 얇고 가벼운 코드가 당신의 퇴근 시간을 앞당겨 줄 것입니다. 이제 과감하게 지우세요! 🍷
+Experimente aplicar uma dieta rigorosa à sua base de código pesada utilizando este prompt inspirado na filosofia do Stoat. Um código mais limpo e leve fará com que você termine seu expediente mais cedo e evitará dores de cabeça futuras. Agora, exclua sem medo! 🍷

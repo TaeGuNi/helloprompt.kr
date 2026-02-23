@@ -698,10 +698,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
         !isHome && (
           <header>
             <div class="nav-left">
-              <a
-                href={currentLang === "ko" ? "/" : `/${currentLang}/`}
-                class="home-link"
-              >
+              <a href={`/${currentLang}/`} class="home-link">
                 HELLO PROMPT
               </a>
             </div>
@@ -710,9 +707,7 @@ const t = uiStrings[currentLang] || uiStrings["ko"];
               style="display: flex; align-items: center; gap: 15px;"
             >
               <div class="breadcrumbs">
-                <a href={currentLang === "ko" ? "/" : `/${currentLang}/`}>
-                  {t.home}
-                </a>
+                <a href={`/${currentLang}/`}>{t.home}</a>
                 <span class="sep">/</span>
                 {frontmatter.tags && frontmatter.tags[0] && (
                   <>

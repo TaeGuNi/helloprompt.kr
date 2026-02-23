@@ -10,7 +10,7 @@ test.describe("i18n Navigation Persistence", () => {
     console.log("Navigating to English post...");
     // Using the file we definitely fixed
     const response = await page.goto(
-      "/en/posts/interview-reverse-question-generator",
+      "/en/posts/nbc-olympics-figure-skating-content-prompt",
     );
     console.log(`Response status: ${response?.status()}`);
 
@@ -21,7 +21,7 @@ test.describe("i18n Navigation Persistence", () => {
 
     // 2. Verify we are on the post page
     await expect(page).toHaveURL(
-      /.*\/en\/posts\/interview-reverse-question-generator/,
+      /.*\/en\/posts\/nbc-olympics-figure-skating-content-prompt/,
     );
     console.log("On post page. Clicking logo...");
 
@@ -41,7 +41,7 @@ test.describe("i18n Navigation Persistence", () => {
     page,
   }) => {
     // 1. Visit a Korean post
-    await page.goto("/ko/posts/interview-reverse-question-generator");
+    await page.goto("/ko/posts/nbc-olympics-figure-skating-content-prompt");
 
     // 2. Click the Logo
     await page.locator(".home-link").click();

@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 
 test.describe("i18n and Feeds", () => {
   test("Korean Homepage has correct Footer links", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/ko/");
 
     // Footer RSS link check
     const rssLink = page.locator('footer a[href="/ko/rss.xml"]');

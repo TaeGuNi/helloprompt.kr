@@ -28,14 +28,9 @@ export async function auditFile(filePath: string): Promise<AuditResult> {
   try {
     const content = await fs.readFile(fullPath, "utf-8");
     const isKorean =
-      !filePath.includes("/en/") &&
-      !filePath.includes("/ja/") &&
-      !filePath.includes("/zh/") &&
-      !filePath
-        .split("/")
-        .some((part) =>
-          ["es", "fr", "de", "it", "pt", "ru", "hi"].includes(part),
-        );
+      filePath.endsWith(".ko.md") ||
+      (filePath.endsWith(".md") &&
+        !filePath.match(/\.(en|de|es|fr|it|ja|pt|ru|zh)\.md$/));
 
     // 1. Structure Check (Table vs List)
     if (CHECKS.HAS_TABLE_STYLE.test(content)) {

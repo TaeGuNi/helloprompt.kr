@@ -1,0 +1,39 @@
+---
+title: "LLMs in Distributed Apps (Korean)"
+description: "Combining Petri Nets and LLMs for robust distributed systems"
+date: "2026-02-15"
+image: "https://picsum.photos/seed/distributed/800/600"
+tags: ["AI", "Tech", "llm-distributed-systems"]
+---
+
+# (Updated) (Updated) (Updated) 분산 앱에서의 LLM
+
+## (Updated) (Updated) (Updated) 소개
+
+대규모 언어 모델(LLM)의 소프트웨어 아키텍처 통합은 실험적인 챗봇 단계에서 복잡한 시스템의 핵심 구성 요소로 빠르게 이동했습니다. 분산 애플리케이션을 구축하는 개발자에게 이는 독특한 역설을 제시합니다. LLM은 비정형 데이터 처리와 의사 결정에 있어 전례 없는 유연성을 제공하지만, 높은 신뢰성과 일관성을 요구하는 시스템에 비결정론적 동작을 도입하기 때문입니다.
+
+단순한 API 호출을 넘어설 때, 마이크로서비스 전반에 걸친 에이전트 워크플로우의 일관성을 어떻게 보장하느냐가 과제가 됩니다. 그 해답은 확립된 정형 기법(formal methods)을 재검토하는 데 있을 수 있습니다.
+
+## (Updated) (Updated) (Updated) 분석
+
+표준 분산 시스템에서 상태 관리는 매우 중요합니다. LLM이 트래픽 라우팅, 로그 요약 또는 서비스 간 협상과 같은 에이전트나 의사 결정 노드로 작동할 때, 이들은 사실상 상태 전이 함수가 됩니다. 그러나 전통적인 함수와 달리, 그들의 출력은 가변적일 수 있습니다.
+
+이를 관리하기 위해 AI 오케스트레이션에 적용되는 정형 모델링 기법에 대한 관심이 되살아나고 있습니다. **견고한 분산 시스템을 위해 페트리 넷(Petri Nets)과 LLM을 결합하는 것**이 강력한 패턴으로 부상하고 있습니다. LLM 상호작용을 페트리 넷의 장소(places)와 전이(transitions)에 매핑함으로써, 개발자는 정보의 흐름을 수학적으로 검증할 수 있습니다. LLM은 전이가 발생해야 하는지(_if_) 결정하기 위한 의미론적 이해를 제공하며, 페트리 넷 구조는 시스템이 불법적인 상태(예: 교착 상태나 경쟁 조건)에 진입하지 않도록 보장합니다.
+
+이 하이브리드 접근 방식을 통해 우리는 분산 프로토콜의 안전한 범위 내에서 LLM의 "창의성"을 제어할 수 있습니다. 이는 모델의 확률적 특성을 결정론적 제어 계층으로 효과적으로 감싸, 시스템을 관찰 가능하고 디버깅 가능하게 만듭니다.
+
+## (Updated) (Updated) (Updated) 결론 {#conclusion}
+
+분산 앱에서 LLM의 미래는 단순히 더 나은 모델에 관한 것이 아니라, 더 나은 아키텍처에 관한 것입니다. 현대 AI의 확률적 능력을 페트리 넷과 같은 정형 기법의 입증된 신뢰성에 기반을 둠으로써, 우리는 지능적일 뿐만 아니라 회복 탄력성 있는 시스템을 구축할 수 있습니다. 개발자에게 이는 프롬프트 엔지니어링에서 시스템 엔지니어링으로 초점을 옮겨, AI 구성 요소가 분산 컴퓨팅의 규칙을 따르도록 보장하는 것을 의미합니다.
+
+## (Updated) (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) (Updated) Conclusion
+
+Wait, there is more...
+
+## (Updated) Conclusion
+
+Wait, there is more...

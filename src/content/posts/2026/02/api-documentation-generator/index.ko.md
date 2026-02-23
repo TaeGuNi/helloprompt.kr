@@ -118,12 +118,10 @@ API 개발보다 문서 작성이 더 싫은 거, 저만 그런가요?
 app.post("/api/v1/users", (req, res) => {
   const { username, email, age } = req.body;
   if (!email || !username) {
-    return res
-      .status(400)
-      .json({
-        error: "BAD_REQUEST",
-        message: "Username and Email are required",
-      });
+    return res.status(400).json({
+      error: "BAD_REQUEST",
+      message: "Username and Email are required",
+    });
   }
   if (age && typeof age !== "number") {
     return res
@@ -131,15 +129,13 @@ app.post("/api/v1/users", (req, res) => {
       .json({ error: "INVALID_TYPE", message: "Age must be a number" });
   }
   // DB 저장 로직 (생략)
-  res
-    .status(201)
-    .json({
-      id: 1042,
-      username,
-      email,
-      age: age || null,
-      createdAt: new Date().toISOString(),
-    });
+  res.status(201).json({
+    id: 1042,
+    username,
+    email,
+    age: age || null,
+    createdAt: new Date().toISOString(),
+  });
 });
 ```
 

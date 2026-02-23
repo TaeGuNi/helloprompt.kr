@@ -2,7 +2,7 @@
 title: "Eu Ai Act 2 (Russian)"
 description: "Критический анализ Закона ЕС об ИИ (EU AI Act 2): начало строгого контроля за генеративным видео."
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=EU+AI+Act"
+image: "https://picsum.photos/1600/900
 tags: ["AI", "Trend", "2026"]
 ---
 

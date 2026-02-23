@@ -124,14 +124,12 @@ app.post("/api/v1/users", async (req, res) => {
     return res.status(400).send({ error: "Age must be a number" });
 
   // DB logic here...
-  res
-    .status(201)
-    .send({
-      id: "usr_12345",
-      username,
-      email,
-      createdAt: new Date().toISOString(),
-    });
+  res.status(201).send({
+    id: "usr_12345",
+    username,
+    email,
+    createdAt: new Date().toISOString(),
+  });
 });
 ```
 

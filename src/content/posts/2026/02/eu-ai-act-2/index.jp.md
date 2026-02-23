@@ -2,7 +2,7 @@
 title: "Eu Ai Act 2 (Japanese)"
 description: "EU AI Act 2.0の徹底解説：生成AIビデオに対する厳格な規制が本格化"
 date: "2026-02-14"
-image: "https://via.placeholder.com/800x400?text=EU+AI+Act"
+image: "https://picsum.photos/1600/900
 tags: ["AI", "Trend", "2026"]
 ---
 

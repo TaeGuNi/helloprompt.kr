@@ -42,7 +42,7 @@ async function initQueue() {
   return queue;
 }
 
-async function rewriteWithLocalCLI(
+export async function rewriteWithLocalCLI(
   content: string,
   qualityModel: string,
   postTemplate: string,
@@ -173,4 +173,7 @@ async function runRewriter() {
   console.log(`\n🎉 Queue completely exhausted!`);
 }
 
-runRewriter();
+// Only run queue normally if executed directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  runRewriter();
+}

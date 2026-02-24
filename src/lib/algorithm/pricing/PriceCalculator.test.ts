@@ -1,9 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { PriceCalculator } from "./PriceCalculator";
+import { calculatePrice } from "./PriceCalculator";
 
 describe("PriceCalculator", () => {
   it("should calculate Standard tier correctly", () => {
-    const result = PriceCalculator.calculate("STANDARD");
+    const result = calculatePrice("STANDARD");
 
     expect(result.tier).toBe("STANDARD");
     expect(result.total).toBe(250); // 100 + 80 + 50 + 20
@@ -12,7 +12,7 @@ describe("PriceCalculator", () => {
   });
 
   it("should calculate Skinny tier correctly", () => {
-    const result = PriceCalculator.calculate("SKINNY");
+    const result = calculatePrice("SKINNY");
 
     expect(result.tier).toBe("SKINNY");
     expect(result.total).toBe(100); // 80 + 20
@@ -21,14 +21,14 @@ describe("PriceCalculator", () => {
   });
 
   it("should maintain the 0.4x ratio roughly", () => {
-    const standard = PriceCalculator.calculate("STANDARD").total;
-    const skinny = PriceCalculator.calculate("SKINNY").total;
+    const standard = calculatePrice("STANDARD").total;
+    const skinny = calculatePrice("SKINNY").total;
 
     expect(skinny / standard).toBe(0.4);
   });
 
   it("should calculate Bundle tier correctly", () => {
-    const result = PriceCalculator.calculate("BUNDLE");
+    const result = calculatePrice("BUNDLE");
 
     expect(result.tier).toBe("BUNDLE");
     // Standard 250 * 5 = 1250.

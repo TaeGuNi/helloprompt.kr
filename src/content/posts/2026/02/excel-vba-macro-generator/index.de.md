@@ -116,7 +116,7 @@ Manuelle Schritte:
 
 ### ✅ Nachher (Ergebnis nach Ausführung des KI-Makros)
 
-```vba
+```vb
 ' Das Makro erledigt all das in 0,1 Sekunden vollautomatisch
 Sub CleanAndFormatData()
     Application.ScreenUpdating = False

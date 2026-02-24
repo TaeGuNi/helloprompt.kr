@@ -118,7 +118,7 @@ O verdadeiro "pulo do gato" deste prompt Pro está nas **Restrições (Constrain
 
 Basta pressionar um botão ou usar um atalho configurado no Excel e, em **0.2 segundos**, o Excel executa o trabalho perfeitamente e sem estresse:
 
-```vba
+```vb
 Sub CleanAndFormatData()
     ' Otimização de Velocidade
     Application.ScreenUpdating = False

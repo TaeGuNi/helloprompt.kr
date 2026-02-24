@@ -107,7 +107,7 @@ Every time raw data is added, you manually clear the filter, re-apply it, drag t
 
 ### ✅ After (QUERY Function Automation)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)
 ```
 

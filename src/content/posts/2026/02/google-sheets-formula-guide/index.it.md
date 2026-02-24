@@ -107,7 +107,7 @@ Ogni volta che vengono aggiunti nuovi dati originali, devi togliere e rimettere 
 
 ### ✅ Dopo (Automazione con funzione QUERY)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)
 ```
 

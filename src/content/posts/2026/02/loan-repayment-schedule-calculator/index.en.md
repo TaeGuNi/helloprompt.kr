@@ -111,7 +111,7 @@ How do I calculate my loan in Excel?
 Here are the precise Excel formulas for your Equal Principal and Interest amortization schedule:
 
 **1. Total Monthly Payment (Principal + Interest)**
-```excel
+```plaintext
 =PMT($B$2/12, $B$3*12, -$B$1)
 ````
 
@@ -120,13 +120,13 @@ _(Result: Approximately $1,036.38 - This is your fixed monthly obligation)_
 **2. Interest Portion (`IPMT`)**
 Assuming your payment period (1, 2, 3...) is listed in Column A, starting at cell A5:
 
-```excel
+```plaintext
 =IPMT($B$2/12, A5, $B$3*12, -$B$1)
 ```
 
 **3. Principal Portion (`PPMT`)**
 
-```excel
+```plaintext
 =PPMT($B$2/12, A5, $B$3*12, -$B$1)
 ```
 

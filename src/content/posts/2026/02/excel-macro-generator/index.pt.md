@@ -128,7 +128,7 @@ O verdadeiro "pulo do gato" da _Pro Version_ está na seção de **Tratamento de
 
 ### ✅ Depois (Mágica da Automação via IA)
 
-```vba
+```vb
 ' Exemplo de trecho gerado pela IA (Comentado e Seguro!)
 Sub ConsolidarRelatorios()
     On Error GoTo ErrorHandler ' Tratamento de erro ativado: não trava o Excel!

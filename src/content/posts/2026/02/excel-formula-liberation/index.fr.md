@@ -103,7 +103,7 @@ _Astuce de pro :_ Ne donnez **jamais** de données confidentielles (noms de clie
 
 ### ❌ Avant (Le cauchemar des formules imbriquées)
 
-```excel
+```plaintext
 =SI(ESTERREUR(RECHERCHEV(A2, Feuil2!A:B, 2, FAUX)), "Aucun", RECHERCHEV(A2, Feuil2!A:B, 2, FAUX))
 ```
 
@@ -111,7 +111,7 @@ _(Oubli d'une parenthèse -> Erreur `#N/A` -> 30 minutes perdues à chercher l'e
 
 ### ✅ Après (La magie de l'IA)
 
-```excel
+```plaintext
 =XRECHERCHE(A2, Feuil2!A:A, Feuil2!B:B, "Aucun")
 ```
 

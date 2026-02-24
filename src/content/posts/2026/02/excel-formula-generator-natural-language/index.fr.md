@@ -109,7 +109,7 @@ Je veux trouver le même nom de produit qui est dans la colonne A depuis la colo
 
 ### ✅ Après (La réponse de l'IA)
 
-```excel
+```plaintext
 =SIERREUR(RECHERCHEV(A2; B:C; 2; FAUX); "Non trouvé")
 ```
 

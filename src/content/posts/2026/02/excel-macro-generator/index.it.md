@@ -121,7 +121,7 @@ Apri il file 2 -> Seleziona A1:G50 -> Copia -> Vai al file Master -> Incolla -> 
 
 ### ✅ Dopo (Automazione con IA)
 
-```vba
+```vb
 ' Unisci 100 file in un solo clic!
 Sub CombineSheets()
     Dim Path As String, Filename As String

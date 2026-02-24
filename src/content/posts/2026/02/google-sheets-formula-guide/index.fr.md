@@ -107,7 +107,7 @@ Chaque fois qu'une nouvelle donnée est ajoutée, vous devez désactiver puis r�
 
 ### ✅ Après (Automatisation totale via QUERY)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)
 ```
 

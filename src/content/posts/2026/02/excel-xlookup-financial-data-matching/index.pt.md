@@ -112,7 +112,7 @@ _(A IA forneceria uma resposta teórica e genérica, sem a fórmula exata para o
 
 **1. A Fórmula de Solução Definitiva:**
 
-```excel
+```plaintext
 =PESQUISEX(A2; Planilha1!B:B; Planilha1!C:C; "Sem Dados")
 ```
 

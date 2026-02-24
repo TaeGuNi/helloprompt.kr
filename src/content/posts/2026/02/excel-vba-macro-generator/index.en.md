@@ -113,7 +113,7 @@ _Pro Tip:_ Always test the generated macro on a _copy_ of your workbook first! A
 
 ### ✅ After (AI Generated VBA)
 
-```vba
+```vb
 Sub CleanAndTransferData()
     ' Optimize performance
     Application.ScreenUpdating = False

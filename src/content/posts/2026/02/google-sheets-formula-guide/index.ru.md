@@ -107,7 +107,7 @@ tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 
 ### ✅ После (Автоматизация с QUERY)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Маркетинг' and D >= 80", 1)
 ```
 

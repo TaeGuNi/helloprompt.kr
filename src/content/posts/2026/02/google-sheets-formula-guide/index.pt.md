@@ -107,7 +107,7 @@ Toda vez que novos dados originais são adicionados, você remove o filtro, apli
 
 ### ✅ Depois (Automação com Função QUERY)
 
-```excel
+```plaintext
 =QUERY(Dados!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)
 ```
 

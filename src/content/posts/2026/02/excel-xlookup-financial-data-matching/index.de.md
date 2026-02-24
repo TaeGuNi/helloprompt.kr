@@ -106,7 +106,7 @@ Aus meiner Erfahrung im Performance Marketing und in der Datenanalyse ist der We
 
 **1. Ihre maßgeschneiderte XLOOKUP-Formel:**
 
-```excel
+```plaintext
 =XLOOKUP(A2; Blatt1!B:B; Blatt1!C:C; "Keine Daten")
 ```
 

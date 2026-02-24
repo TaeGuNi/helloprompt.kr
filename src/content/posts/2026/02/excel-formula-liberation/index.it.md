@@ -97,7 +97,7 @@ Il vero superpotere di questo approccio non è generare formule, ma **strutturar
 
 ### ❌ Prima (Frustrazione Umana)
 
-```excel
+```plaintext
 =SE(VAL.ERRORE(CERCA.VERT(A2; Foglio2!A:B; 2; FALSO)); "Nessuno"; CERCA.VERT(A2; Foglio2!A:B; 2; FALSO))
 ```
 
@@ -107,7 +107,7 @@ _(Manca una parentesi nascosta -> Risultato rotto -> 30 minuti persi a contare l
 
 "Certamente! Invece del vecchio e pesante CERCA.VERT, ti consiglio di usare la funzione moderna CERCA.X. È più veloce e gestisce automaticamente gli errori se non trova una corrispondenza."
 
-```excel
+```plaintext
 =CERCA.X(A2; Foglio2!A:A; Foglio2!B:B; "Nessuno")
 ```
 

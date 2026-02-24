@@ -107,7 +107,7 @@ Jedes Mal, wenn neue Daten hinzugefügt werden, müssen Filter mühsam entfernt 
 
 ### ✅ Nachher (QUERY-Automatisierung)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)
 ```
 

@@ -110,7 +110,7 @@ Abres el archivo de ventas diario. Seleccionas la columna A, buscas y eliminas l
 
 ### ✅ Después (Ejecución de Macro)
 
-```vba
+```vb
 Sub ConsolidarYLimpiarVentas()
     On Error GoTo ManejadorErrores
     Application.ScreenUpdating = False

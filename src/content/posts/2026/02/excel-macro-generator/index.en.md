@@ -124,7 +124,7 @@ Open File 1 -> Copy Range A1:G50 -> Open Master File -> Paste Values -> Close Fi
 
 ### ✅ After (AI Automation)
 
-```vba
+```vb
 ' Merge 100 files with a single click!
 Sub CombineSheets()
     Dim Path As String, Filename As String

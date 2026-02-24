@@ -113,7 +113,7 @@ VBAのコードをAIに書かせる際、最も重要なのは「エラー処理
 
 AIが生成した以下のコードを一度登録するだけで、明日からは**ショートカットキー（またはボタン）を1回押すだけ**で、全く同じ作業が**1秒**で完了します。
 
-```vba
+```vb
 Sub OptimizeDataProcess()
     ' パフォーマンス最適化
     Application.ScreenUpdating = False

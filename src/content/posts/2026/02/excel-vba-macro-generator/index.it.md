@@ -110,7 +110,7 @@ Sposta i dati dal Foglio1 al Foglio2 ed elimina tutte le righe che hanno celle v
 
 ### ✅ Dopo (Codice VBA Generato dall'IA)
 
-```vba
+```vb
 Sub CopyAndCleanData()
     ' Ottimizzazione della velocità di esecuzione
     Application.ScreenUpdating = False

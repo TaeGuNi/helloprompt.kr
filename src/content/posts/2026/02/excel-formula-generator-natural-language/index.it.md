@@ -115,7 +115,7 @@ Voglio cercare il Nome Prodotto che sta nella colonna A usando il Codice Prodott
 
 ### ✅ Dopo (Il risultato dell'IA)
 
-```excel
+```plaintext
 =INDICE(C:C; CONFRONTA(B2; A:A; 0))
 
 Spiegazione:

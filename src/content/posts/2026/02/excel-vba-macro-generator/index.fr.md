@@ -118,7 +118,7 @@ Mettre en rouge les montants négatifs.
 
 ### ✅ Après (Résultat en 1 clic)
 
-```vba
+```vb
 Sub ConsoliderEtNettoyerRapports()
     ' Optimisation extrême des performances
     Application.ScreenUpdating = False

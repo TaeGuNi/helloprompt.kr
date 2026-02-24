@@ -106,7 +106,7 @@ A verdadeira mágica deste prompt não está apenas em sua capacidade de gerar a
 
 ### ✅ Depois (O resultado perfeito da IA)
 
-```excel
+```plaintext
 =PROCX(A2; Vendas!B:B; Vendas!F:F; "Não Encontrado")
 ```
 

@@ -109,7 +109,7 @@ GoogleスプレッドシートがExcelを圧倒するポイントは、まさに
 
 ### ✅ After (QUERY関数による自動化)
 
-```excel
+```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'マーケティング' and D >= 80", 1)
 ```
 

@@ -119,7 +119,7 @@ tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 
 ### ✅ After (AI 输出结果)
 
-```excel
+```plaintext
 =IFERROR(VLOOKUP(A2, Sheet1!A:B, 2, FALSE), "缺货")
 ```
 

@@ -108,7 +108,7 @@ Como calcular juros de empréstimo no Excel?
 
 **1. Parcela Mensal Total (Principal + Juros)**
 
-```excel
+```plaintext
 =PGTO($B$2/12; $B$3*12; -$B$1)
 ```
 
@@ -116,13 +116,13 @@ _(Resultado aproximado: R$ 1.036,38 - O valor fixo que você pagará todos os me
 
 **2. Qual é o valor dos Juros? (Exemplo da linha 5, assumindo que seja a 1ª parcela)**
 
-```excel
+```plaintext
 =IPGTO($B$2/12; A5; $B$3*12; -$B$1)
 ```
 
 **3. Qual é o valor da Amortização do Principal?**
 
-```excel
+```plaintext
 =PPGTO($B$2/12; A5; $B$3*12; -$B$1)
 ```
 

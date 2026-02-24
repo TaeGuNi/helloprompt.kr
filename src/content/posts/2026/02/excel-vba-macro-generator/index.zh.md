@@ -107,7 +107,7 @@ tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 
 ### ✅ After (AI 生成的专家级输出)
 
-```vba
+```vb
 Sub 汇总数据并清理()
     ' 优化运行速度与性能
     Application.ScreenUpdating = False

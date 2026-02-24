@@ -118,7 +118,7 @@ tags: ["Excel", "Автоматизация", "VBA", "Лайфхаки"]
 
 ### ✅ After (Магия ИИ)
 
-```vba
+```vb
 ' Объединение 100 файлов за пару секунд!
 Sub CombineSheets()
     Dim Path As String, Filename As String

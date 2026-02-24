@@ -1,8 +1,6 @@
 ---
 date: "2026-02-13"
-description: "El auge de la IA Soberana y los SLM (Modelos de Lenguaje Pequeños) en"
-  dispositivos, reduciendo la dependencia de la nube y mejorando la privacidad de
-  los datos.
+description: "El auge de la IA Soberana y los SLM (Modelos de Lenguaje Pequeños) en dispositivos, reduciendo la dependencia de la nube y mejorando la privacidad de los datos."
 image: /images/sovereign-ai-2026.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,8 +9,7 @@ tags:
   - Sovereign AI
   - Privacy
   - "2026 Trends"
-title: " \"La revolución de la IA Soberana y la Computación en el Borde de 2026: La Era"
-  de la Soberanía de Datos"
+title: " \"La revolución de la IA Soberana y la Computación en el Borde de 2026: La Era de la Soberanía de Datos\""
 ---
 
 # 📝 La revolución de la IA Soberana y la Computación en el Borde de 2026: La Era de la Soberanía de Datos

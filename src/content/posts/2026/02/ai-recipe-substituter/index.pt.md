@@ -5,131 +5,131 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Life Hacks
-description: "요리하다가 재료 하나가 없어서 당황한 적 있나요? 마트에 뛰어갈 필요 없이 AI가 냉장고 속 재료로 완벽한 대체 레시피를 찾아드립니다."
+description: "Você já se desesperou por faltar um ingrediente enquanto cozinhava? Não corra para o supermercado; a IA encontrará a receita de substituição perfeita com os ingredientes da sua geladeira."
 tags: [AI, Cooking, LifeHack, Food]
 ---
 
-# 📝 없는 재료는 없다! AI 요리 재료 대체 가이드 (AI Recipe Substituter)
+# 📝 Sem ingredientes? Sem problemas! Guia de Substituição de Ingredientes com IA (AI Recipe Substituter)
 
-- **🎯 추천 대상:** 퇴근 후 요리하는 직장인, 자취생, 요리 초보자
-- **⏱️ 소요 시간:** 왕복 30분 마트행 → 1분으로 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Público-Alvo:** Profissionais que cozinham após o trabalho, pessoas que moram sozinhas, iniciantes na cozinha
+- **⏱️ Tempo Economizado:** De 30 minutos de ida ao mercado → Reduzido para 1 minuto
+- **🤖 Modelo Recomendado:** Qualquer IA conversacional (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"파스타 소스는 끓고 있는데 생크림이 똑 떨어졌을 때, 다시 옷 입고 마트에 가시나요?"_
+> _"O molho da massa está fervendo, mas o creme de leite acabou. Você realmente vai se vestir e correr para o mercado?"_
 
-퇴근 후 지친 몸을 이끌고 겨우 요리를 시작했는데, 레시피의 핵심 재료가 없어 당황한 경험이 한 번쯤은 있으실 겁니다. 요리를 멈추고 마트에 다녀오자니 너무 귀찮고, 그냥 빼고 만들자니 밍밍해서 맛이 없을 것 같아 망설여지죠.
+Você já deve ter passado por isso: depois de um dia cansativo de trabalho, você finalmente começa a cozinhar, mas percebe que falta um ingrediente essencial. Parar tudo e ir ao mercado é exaustivo demais, mas simplesmente ignorar o ingrediente pode deixar o prato sem graça e sem sabor.
 
-하지만 요리는 과학이자 응용입니다. 완벽하게 똑같지는 않아도 빈자리를 훌륭하게 채워줄 '대체 선수'들은 항상 우리집 냉장고 어딘가에 숨어 있습니다. 우유와 버터로 생크림을 흉내 내거나, 요거트로 마요네즈를 대신하는 식입니다. 요리 지식이 전혀 없어도 괜찮습니다. AI 셰프에게 물어보면 단 1초 만에 우리집 냉장고 맞춤형 해결책을 제시해 주니까요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **시간 절약:** 재료 하나 때문에 요리를 멈추고 마트에 갈 필요가 없습니다.
-2. **맞춤형 대안:** 현재 냉장고에 있는 자투리 식재료를 활용해 최적의 대체 비율을 찾아냅니다.
-3. **요리 스킬 업:** 재료 간의 화학 작용과 맛의 밸런스를 배우며 요리 응용력을 키울 수 있습니다.
+No entanto, cozinhar é pura ciência e adaptação. Mesmo que não seja exatamente igual, os "substitutos perfeitos" para preencher esse vazio geralmente estão escondidos em algum lugar da sua geladeira. Pode ser usar leite e manteiga para imitar o creme de leite, ou iogurte no lugar da maionese. Não tem problema se você não tiver nenhum conhecimento culinário. Basta perguntar ao seu Chef IA, e em apenas um segundo, ele fornecerá a solução perfeita e personalizada baseada no que você já tem em casa.
 
 ---
 
-## 🚀 해결책: "AI 요리 재료 대체 가이드"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Economia de Tempo:** Não há necessidade de parar de cozinhar e ir ao mercado por causa de um único ingrediente.
+2. **Alternativas Personalizadas:** Encontre a proporção de substituição ideal usando as sobras e os ingredientes que você já tem na geladeira.
+3. **Melhoria nas Habilidades Culinárias:** Aprenda sobre as reações químicas e o equilíbrio de sabores entre os ingredientes, expandindo sua criatividade na cozinha.
 
-빠르게 대체할 수 있는 재료 이름만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 미슐랭 3스타 셰프야.
-> **요청:** 내가 지금 `[크림 파스타]`를 만들고 있는데 `[생크림]`이 없어. 당장 대체할 수 있는 흔한 재료 3가지만 짧게 알려줘.
+## 🚀 A Solução: "Guia de Substituição de Ingredientes com IA"
+
+### 🥉 Basic Version (Versão Básica)
+
+Use quando precisar apenas de sugestões rápidas de ingredientes substitutos.
+
+> **Role (Papel):** Você é um Chef com 3 estrelas Michelin.
+> **Task (Tarefa):** Estou preparando `[macarrão ao molho branco]`, mas não tenho `[creme de leite]`. Diga-me rapidamente 3 ingredientes comuns que posso usar como substitutos imediatos.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Versão Profissional)
 
-정확한 비율 조절과 맛의 차이까지 고려한 완벽한 요리가 필요할 때 사용하세요.
+Use quando precisar de proporções exatas e quiser entender a diferença no sabor para garantir um prato perfeito.
 
-> **역할 (Role):** 너는 재료의 화학적 특성과 맛의 밸런스를 완벽하게 이해하고 있는 20년 경력의 수석 셰프이자 요리 연구가야.
+> **Role (Papel):** Você é um Chef Executivo e pesquisador culinário com 20 anos de experiência, que entende perfeitamente as propriedades químicas e o equilíbrio de sabores dos ingredientes.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 배경: 나는 지금 `[만들려는 요리, 예: 크림 파스타]`를 요리하는 중이야.
-> - 문제: 레시피에 필수적인 `[없는 재료, 예: 생크림]`이 떨어졌어. 지금 당장 마트에 갈 수 없는 상황이야.
-> - 내 냉장고 상태: 현재 내 주방에는 `[보유 중인 재료, 예: 우유, 슬라이스 치즈, 버터, 계란, 그릭 요거트]`가 있어.
+> - Cenário: Estou cozinhando `[prato que está preparando, ex: macarrão ao molho branco]`.
+> - Problema: Acabou um ingrediente essencial para a receita: `[ingrediente que falta, ex: creme de leite]`. Não posso ir ao mercado agora.
+> - O que tenho na geladeira: Atualmente, tenho `[ingredientes disponíveis, ex: leite, queijo fatiado, manteiga, ovos, iogurte grego]` na minha cozinha.
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. 내 주방에 있는 재료들을 조합하여 `[없는 재료]`를 완벽하게 대체할 수 있는 최적의 레시피 3가지를 제안해 줘.
-> 2. 각 대안별로 정확한 **배합 비율**과 **조리 방법**(예: 우유 100ml에 버터 10g을 넣고 약불에서 녹이세요)을 알려줘.
-> 3. 대체 재료를 사용했을 때 원본 요리와 비교하여 맛, 식감, 풍미에 어떤 차이가 생기는지 설명해 줘.
+> 1. Sugira as 3 melhores receitas alternativas que substituam perfeitamente o `[ingrediente que falta]`, combinando os ingredientes que já tenho na minha cozinha.
+> 2. Para cada alternativa, forneça a **proporção exata** e o **método de preparo** (ex: adicione 10g de manteiga a 100ml de leite e derreta em fogo baixo).
+> 3. Explique como o sabor, a textura e o aroma mudarão em comparação com o prato original ao usar esses substitutos.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 출력 형식은 마크다운으로 가독성 좋게 정리해 줘.
-> - 구하기 어려운 특수 식재료는 철저히 배제하고, 일반 가정집에 있을 법한 흔한 재료만 활용해.
+> - Formate a saída em Markdown com tabelas ou listas para facilitar a leitura.
+> - Exclua estritamente ingredientes especiais difíceis de encontrar; use apenas ingredientes comuns que geralmente estão presentes em uma casa.
 >
-> **주의사항 (Warning):**
+> **Warning (Avisos):**
 >
-> - 조리 시 질감이 분리되거나 망칠 위험이 있는 조합이라면 반드시 사전 경고를 해줘.
+> - Se houver alguma combinação que possa separar a textura ou arruinar o prato durante o cozimento, você deve me avisar com antecedência.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 프롬프트의 진가는 단순히 "A 대신 B를 쓰세요"라고 말하는 것을 넘어, **'맛이나 식감의 차이점'과 '정확한 비율'을 설명해 준다는 점**입니다.
+O verdadeiro valor deste prompt vai muito além de simplesmente dizer "use B em vez de A". O grande diferencial é que ele **explica a 'diferença no sabor e na textura' e fornece a 'proporção exata'**.
 
-예를 들어 베이킹에서 버터를 식용유로 대체할 때 수분량이 달라져 빵이 망가지는 경우가 많은데, AI는 이런 화학적 특성까지 계산하여 "식용유를 80%만 넣고 질감을 확인하세요"라고 조언해 줍니다. 요리 초보자가 자칫 망칠 수 있는 포인트를 짚어주어 실패 확률을 획기적으로 낮춰주죠. 냉장고 파먹기(잔반 처리)를 할 때도 이 프롬프트를 응용하면 남은 재료들을 근사한 요리로 탈바꿈시킬 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 정말로 맛이 이상해지지 않나요? 괴식이 나올까 봐 걱정됩니다.**
-  - A: AI는 전 세계의 검증된 요리 데이터베이스를 기반으로 작동하기 때문에, 화학적으로 맞지 않는 기상천외한 괴식을 추천할 확률은 매우 낮습니다. 다만 미각은 주관적이므로 처음에는 간을 보며 조금씩 첨가하는 것을 권장합니다.
-
-- **Q: 베이킹처럼 계량이 생명인 요리에도 사용할 수 있나요?**
-  - A: 네, 가능합니다. 단, 베이킹은 재료의 화학 반응(팽창, 응고 등)이 중요하므로 프롬프트의 `[만들려는 요리]` 부분에 "오븐을 사용하는 베이킹"임을 명확히 적어주시면, 수분량과 지방 비율을 고려한 훨씬 정교한 대체 비율을 알려줍니다.
+Por exemplo, na confeitaria, quando você substitui a manteiga por óleo, o teor de umidade muda, o que muitas vezes estraga a massa. A IA calcula até mesmo essas propriedades químicas e aconselha: "Adicione apenas 80% de óleo e verifique a textura". Isso aponta as armadilhas comuns para iniciantes, reduzindo drasticamente as chances de falha. Você também pode aplicar este prompt para aproveitar as sobras da geladeira (o famoso "limpa-geladeira"), transformando ingredientes aleatórios em uma refeição espetacular e criativa.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **가용 자원 제한 (Context):** `내 냉장고 상태`를 미리 인풋으로 제공하여, 당장 구할 수 없는 고급 식재료를 추천하는 환각(Hallucination) 현상을 원천 차단했습니다.
-2. **구체적인 Action 유도 (Task):** 배합 비율과 조리 방법, 그리고 '맛의 차이'까지 구체적으로 요구함으로써 단순 검색으로는 얻기 힘든 입체적인 요리 팁을 끌어냈습니다.
-3. **리스크 매니지먼트 (Warning):** 요리가 망가질 수 있는 위험(예: 크림소스가 분리되는 현상)을 미리 경고하게 하여 초보자의 실패를 막았습니다.
+- **P: O sabor não vai ficar muito estranho? Tenho medo de criar uma gororoba.**
+  - R: A IA opera com base em um vasto banco de dados global de receitas testadas, portanto, a chance de recomendar uma combinação bizarra e quimicamente incompatível é muito baixa. No entanto, o paladar é subjetivo, então recomendamos que você prove e ajuste os temperos aos poucos.
+
+- **P: Posso usá-lo para receitas onde as medidas são cruciais, como na confeitaria?**
+  - R: Sim, é perfeitamente possível. Porém, como as reações químicas (crescimento, coagulação, etc.) são fundamentais na confeitaria, certifique-se de especificar claramente na seção `[prato que está preparando]` do prompt que é uma "receita de confeitaria que usa forno". Assim, a IA fornecerá proporções de substituição muito mais precisas, considerando o teor de umidade e gordura.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (일반적인 질문)
+1. **Restrição de Recursos (Context):** Ao fornecer `O que tenho na geladeira` como dado de entrada antecipado, evitamos completamente a alucinação (Hallucination) de a IA recomendar ingredientes premium ou indisponíveis no momento.
+2. **Indução a Ações Específicas (Task):** Ao exigir proporções, métodos de preparo e as "diferenças de sabor" de forma detalhada, conseguimos extrair dicas culinárias valiosas e multidimensionais que seriam difíceis de encontrar em uma pesquisa simples no Google.
+3. **Gestão de Riscos (Warning):** Ao obrigar a IA a alertar antecipadamente sobre os riscos que podem arruinar o prato (ex: a separação do molho branco quando ferve), evitamos que cozinheiros inexperientes cometam erros críticos.
+
+---
+
+## 📊 Prova: Antes e Depois (Before & After)
+
+### ❌ Antes (Pergunta genérica)
 
 ```text
-질문: 크림 파스타 만들 건데 생크림이 없어. 어떡해?
-결과: 생크림 대신 우유를 사용해 보세요. 우유와 버터를 섞거나 치즈를 추가하면 비슷한 맛을 낼 수 있습니다. (비율이나 구체적인 방법이 없어 막막함)
+Pergunta: Vou fazer macarrão ao molho branco, mas não tenho creme de leite. O que eu faço?
+Resultado: Tente usar leite em vez de creme de leite. Você pode misturar leite e manteiga ou adicionar queijo para obter um sabor semelhante. (Vago, sem proporções ou métodos específicos que geram insegurança na hora de cozinhar)
 ```
 
-### ✅ After (Pro Version 적용 결과)
+### ✅ Depois (Resultado aplicando a Pro Version)
 
 ```text
-주방에 있는 재료를 활용한 생크림 완벽 대체 레시피 3가지를 제안합니다.
+Aqui estão 3 receitas substitutas perfeitas para o creme de leite, usando os ingredientes da sua cozinha:
 
-1. 우유 + 버터 (가장 클래식한 대체법)
-- 비율: 우유 3 : 버터 1 (예: 우유 150ml, 버터 50g)
-- 조리법: 약불에서 버터를 녹인 후 우유를 천천히 붓고 거품기로 잘 섞어주세요. 끓이지 말고 따뜻하게 데우는 것이 핵심입니다.
-- 맛의 차이: 생크림과 가장 유사한 고소함과 풍미를 냅니다. 단, 생크림보다 약간 묽을 수 있으니 파스타 면수를 적게 넣으세요.
+1. Leite + Manteiga (O substituto mais clássico)
+- Proporção: 3 partes de leite para 1 parte de manteiga (ex: 150ml de leite, 50g de manteiga)
+- Preparo: Derreta a manteiga em fogo baixo, despeje o leite lentamente e misture bem com um batedor (fouet). O segredo é aquecer sem deixar ferver.
+- Diferença no sabor: Proporciona uma riqueza e um sabor muito semelhantes aos do creme de leite. Como pode ficar um pouco mais ralo, adicione menos água do cozimento do macarrão.
 
-2. 우유 + 슬라이스 체다 치즈 (꾸덕함이 필요할 때)
-- 비율: 우유 200ml당 슬라이스 치즈 2장
-- 조리법: 우유 소스가 가볍게 끓을 때 치즈를 잘게 찢어 넣고 걸쭉해질 때까지 저어줍니다.
-- 맛의 차이: 치즈 특유의 짭짤함이 더해져 감칠맛이 폭발합니다. 치즈에 염분이 있으니 소금 간은 마지막에 하세요.
+2. Leite + Queijo Cheddar Fatiado (Quando precisar de cremosidade extrema)
+- Proporção: 2 fatias de queijo para cada 200ml de leite
+- Preparo: Quando o molho de leite estiver fervendo levemente, rasgue o queijo em pedaços e mexa até engrossar.
+- Diferença no sabor: O toque salgado característico do queijo trará uma explosão de umami. Como o queijo já contém sódio, ajuste o sal apenas no final da receita.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-요리하다가 핵심 재료가 없다고 더 이상 당황하거나 좌절할 필요 없습니다. AI 셰프에게 현재의 냉장고 상황을 솔직하게 털어놓고 구조 요청을 보내보세요.
+Não há mais necessidade de entrar em pânico ou se frustrar por não ter um ingrediente essencial enquanto cozinha. Seja honesto com seu Chef IA sobre o estado atual da sua geladeira e envie um pedido de socorro com confiança.
 
-오히려 우연히 시도한 대체 재료가 나만의 시그니처 레시피를 탄생시킬지도 모릅니다. 오늘 저녁 메뉴, 걱정 없이 요리를 시작해 보세요! 🍷
+Você pode até descobrir que um ingrediente substituto tentado por acaso acabe se tornando sua nova receita assinatura. Comece a preparar o jantar de hoje sem preocupações e com muito mais criatividade! 🍷

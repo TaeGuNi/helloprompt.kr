@@ -9,127 +9,127 @@ description: "보조지표를 볼 줄 모르는 주린이를 위한 AI 애널리
 tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
 ---
 
-# 📈 주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기
+# 📈 Stock Chart Analysis: Ask "Should I Buy This?" with a Screenshot
 
-- **🎯 추천 대상:** "이거 지금 들어가도 돼?"라며 매번 종토방을 기웃거리는 주린이, 캔들과 거래량만 보면 머리가 하얘지는 초보 투자자
-- **⏱️ 소요 시간:** 10초 (차트 캡처 후 업로드)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (Vision 기능 필수)
+- **🎯 Recommended for:** Novice investors constantly asking "Is it safe to enter now?" on forums, beginners who freeze up at the sight of candles and trading volume.
+- **⏱️ Time Required:** 10 seconds (Capture and upload)
+- **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet (Vision capability is required)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐☆
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"내가 사면 귀신같이 고점이고, 내가 팔면 기가 막히게 날아가는 '인간 지표'의 굴레에서 벗어나고 싶으신가요?"_
+> _"Tired of being the 'human indicator'—where the price plummets the moment you buy and skyrockets the moment you sell?"_
 
-투자의 모든 책임은 본인에게 있지만, 감정을 배제한 냉철한 조언은 AI에게 받을 수 있습니다. 복잡한 기술적 보조지표(RSI, MACD, 일목균형표, 볼린저밴드 등)의 계산 공식이나 원리를 완벽하게 외울 필요는 없습니다. **그저 관심 종목의 차트를 캡처해서 AI에게 던져주기만 하세요.** 월스트리트의 노련한 애널리스트처럼, 객관적인 데이터에 기반한 기술적 분석과 대응 시나리오를 즉각적으로 뽑아줍니다. 뇌동매매를 막아주는 가장 훌륭한 안전장치입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 사용 중인 MTS(증권 앱)나 HTS에서 분석하고 싶은 종목의 차트를 캡처합니다. (거래량과 이평선이 보이게)
-2. Vision(이미지 인식) 기능이 있는 AI(ChatGPT-4o 등)에 이미지를 업로드합니다.
-3. 제공된 **전문가형 프롬프트**를 복사해 붙여넣고, 감정이 섞이지 않은 객관적 지지/저항선과 매매 시나리오를 확인합니다.
+All investment decisions are entirely your responsibility, but you can always rely on AI for cold, emotionless advice. You don't need to memorize complex formulas or the underlying mechanics of technical indicators (RSI, MACD, Ichimoku Cloud, Bollinger Bands, etc.). **Simply take a screenshot of the chart you're interested in and toss it to the AI.** Just like a seasoned Wall Street analyst, it will instantly generate a technical analysis and trading scenarios based on objective data. It's the ultimate safety net to prevent impulsive, emotion-driven trades (FOMO buying).
 
 ---
 
-## 🚀 해결책: "Chart Vision Analyst"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (단순 패턴 및 추세 확인)
+1. Capture a screenshot of the stock chart you want to analyze from your trading app (ensure trading volume and moving averages are visible).
+2. Upload the image to an AI with Vision capabilities (like ChatGPT-4o or Claude 3.5 Sonnet).
+3. Copy and paste the provided **Pro Version Prompt** to get objective support/resistance levels and emotion-free trading scenarios.
 
-복잡한 분석보다는 현재의 전반적인 흐름(상승장인지 하락장인지)만 빠르게 짚고 넘어가고 싶을 때 사용하세요.
+---
 
-> **(차트 이미지 업로드 후)**
+## 🚀 The Solution: "Chart Vision Analyst"
+
+### 🥉 Basic Version (Simple Pattern & Trend Check)
+
+Use this when you want a quick read on the overall market flow (bullish or bearish) rather than a complex, in-depth analysis.
+
+> **(After uploading the chart image)**
 >
-> **역할:** 너는 객관적인 주식 차트 분석가야.
-> **요청:** 첨부한 주식 차트의 현재 단기 및 중장기 추세를 분석해줘. 상승 추세인지, 하락 추세인지, 아니면 횡보 중인지 알려주고 가장 뚜렷하게 보이는 주요 지지선과 저항선의 가격대를 짚어줘.
+> **Role:** You are an objective stock chart analyst.
+> **Task:** Analyze the current short-term and mid-to-long-term trends of the attached stock chart. Tell me if it's in an uptrend, downtrend, or moving sideways, and point out the most distinct support and resistance price levels.
 
 <br>
 
-### 🥇 Pro Version (전문가급 기술적 분석 및 시나리오 도출)
+### 🥇 Pro Version (Expert Technical Analysis & Scenario Derivation)
 
-본격적인 매수/매도 타이밍을 재고 있거나, 손절 기준을 명확히 세워 리스크를 관리하고 싶을 때 사용하세요.
+Use this when you are seriously considering buying/selling, or when you need to establish strict stop-loss criteria to manage your risk effectively.
 
-> **역할 (Role):** 너는 월스트리트의 전설적인 프랍 트레이더(Prop Trader)이자 기술적 분석(Technical Analysis)의 대가야. 감정에 휘둘리지 않고 철저히 차트의 캔들, 거래량, 패턴만을 기반으로 시장의 심리를 읽어내지.
+> **Role:** You are a legendary Wall Street Prop Trader and a master of Technical Analysis. You never let emotions cloud your judgment; you read market psychology strictly based on the chart's candles, volume, and patterns.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 첨부한 차트의 종목에 투자를 고려하고 있거나 이미 보유 중인 개인 투자자야.
-> - 목표: 뇌동매매를 방지하고, 기계적이고 객관적인 기준에 따라 매수/매도/손절 타점을 잡기 위해 너의 정밀한 시나리오 분석이 필요해.
+> - Background: I am a retail investor who is either considering investing in the asset shown in the attached chart or currently holding it.
+> - Goal: I need your precise scenario analysis to prevent impulsive trading and to set exact entry, exit, and stop-loss targets based on mechanical, objective criteria.
 >
-> **요청 (Task):**
-> 첨부된 차트 이미지를 바탕으로 다음 세 가지 관점에서 심층 분석 리포트를 작성해줘.
+> **Task:**
+> Based on the attached chart image, provide an in-depth analysis report from the following three perspectives:
 >
-> 1. **패턴 및 캔들 분석 (Patterns & Candles):** 현재 차트에서 유의미한 패턴(예: 쌍바닥, 헤드앤숄더, 삼각수렴, 불플래그 등)이 형성되고 있는지 판단해줘. 최근 캔들의 꼬리와 몸통의 의미도 해석해줘.
-> 2. **지표 및 거래량 해석 (Indicators & Volume):** 차트상에 보이는 이동평균선의 배열 상태(정배열/역배열)와 최근 가격 변동 시점의 거래량 변화가 시사하는 바를 설명해줘.
-> 3. **대응 시나리오 (Scenarios):**
->    - **[Bullish 상승 관점]:** 만약 현재 자리에서 지지받고 상승한다면, 1차적으로 도달 가능한 목표가(저항선)는 어디인가?
->    - **[Bearish 하락 관점]:** 만약 현재 추세가 꺾이고 하락한다면, 절대 이탈해서는 안 되는 마지노선(손절가 및 강한 지지선)은 어디인가?
+> 1. **Patterns & Candles:** Determine if there are any significant patterns forming on the current chart (e.g., Double Bottom, Head and Shoulders, Symmetrical Triangle, Bull Flag, etc.). Interpret the meaning behind the wicks and bodies of the recent candlesticks.
+> 2. **Indicators & Volume:** Explain the arrangement of the moving averages (golden cross/death cross alignment) visible on the chart and what the recent changes in trading volume during price fluctuations signify.
+> 3. **Scenarios:**
+>    - **[Bullish Perspective]:** If the price finds support at the current level and bounces back, what is the primary target price (resistance level)?
+>    - **[Bearish Perspective]:** If the current trend breaks down and declines, what is the absolute bottom line (stop-loss price and strong support level) that must not be breached?
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 출력 형식은 마크다운 불릿 포인트와 번호 매기기를 사용하여 가독성 좋게 정리해줘.
-> - 특정 종목에 대한 **절대적인 매수/매도 추천(리딩)은 절대 하지 마.** 오직 차트에 나타난 객관적 팩트와 통계적 확률에 기반한 분석만 제공해.
-> - 차트의 해상도가 낮아 특정 지표를 읽기 어렵다면, 억지로 지어내지 말고 "판별 불가"라고 명시해. (환각 방지)
+> - Format the output using Markdown bullet points and numbered lists for readability.
+> - **DO NOT give absolute buy/sell recommendations or financial advice.** Provide analysis strictly based on the objective facts and statistical probabilities shown on the chart.
+> - If the chart's resolution is too low to read specific indicators, do not hallucinate data; explicitly state "Cannot be determined."
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 핵심 가치는 **'강제적인 객관화'**에 있습니다. 투자자가 특정 종목에 꽂히면(소위 '확증 편향'에 빠지면) 차트에서 자신이 보고 싶은 긍정적인 신호만 보게 됩니다. 하지만 AI는 감정이 없습니다. 철저하게 이미지에 찍힌 픽셀의 형태(캔들)와 숫자(거래량)만을 기반으로 냉정한 평가를 내립니다.
+The core value of this prompt lies in **'Forced Objectivity'**. When investors get too attached to a specific stock (confirmation bias), they tend to only see the positive signals they want to see on the chart. However, AI has no emotions. It delivers a cold, calculated assessment based entirely on the shape of the pixels (candles) and the numbers (volume) in the image.
 
-실제 현업 전업 트레이더들도 진입 전 반드시 상승 시나리오와 하락 시나리오(손절 라인)를 동시에 세웁니다. AI가 제시하는 Bearish(하락 관점) 시나리오의 지지선을 여러분의 **기계적 손절가**로 설정해 보세요. 이 프롬프트 하나만으로도 큰 손실을 막아주는 훌륭한 리스크 관리 툴을 얻은 셈입니다. 특히, 캡처할 때 **거래량 지표**가 반드시 화면에 포함되도록 하는 것이 분석의 정확도를 비약적으로 높이는 꿀팁입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 한국 주식(코스피/코스닥) 차트뿐만 아니라 미국 주식이나 코인 차트도 분석 가능한가요?**
-  - A: 물론입니다. 기술적 분석의 근간이 되는 캔들스틱 차트는 전 세계 금융 시장(주식, 가상화폐, 선물 등)에서 공통으로 사용되는 언어입니다. 비트코인 15분봉이든, 테슬라 주봉이든 동일하게 정확한 분석을 제공합니다.
-
-- **Q: 분석 결과가 너무 뻔한 소리만 하는 것 같아요. 더 깊이 있는 분석을 원하면 어떡하죠?**
-  - A: 차트 캡처 시 화면에 나타나는 보조지표(RSI, MACD 등)를 추가로 띄운 상태에서 캡처해 보세요. 그리고 프롬프트 요청 부분에 "이미지 하단의 RSI 다이버전스 여부를 집중적으로 체크해줘"와 같이 구체적인 지표 확인을 추가로 지시하면 훨씬 심도 있는 결과를 얻을 수 있습니다.
-
-- **Q: AI가 분석한 지지선 가격이 실제 차트 호가와 약간 다릅니다. 왜 그런가요?**
-  - A: AI는 이미지의 y축 눈금을 보고 가격을 추론합니다. 캡처된 화면의 해상도나 비율에 따라 미세한 오차가 발생할 수 있습니다. 따라서 AI가 제시한 대략적인 가격대(예: "60,000원 부근")를 참고하되, 실제 HTS/MTS에서 정확한 호가창의 매물대를 본인이 직접 한 번 더 더블 체크하는 것이 안전합니다.
+In the real world, professional day traders always establish both a bullish scenario and a bearish scenario (stop-loss line) before entering a trade. Try setting the support line from the AI's Bearish scenario as your **mechanical stop-loss price**. With just this one prompt, you've acquired a phenomenal risk management tool that can prevent massive losses. 
+*Pro Tip: Ensure the **trading volume indicator** is visible when taking your screenshot; this dramatically increases the accuracy of the AI's analysis.*
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **상황 및 페르소나 부여 (Prop Trader):** AI에게 단순 봇이 아닌 '전설적인 프랍 트레이더'라는 페르소나를 부여하여, 학술적인 설명보다는 실제 시장의 매수/매도 심리를 읽어내는 실전적인 답변을 유도합니다.
-2. **양방향 시나리오 강제 (Bullish & Bearish):** "오를까 내릴까"를 묻는 것은 하수입니다. 상승과 하락 두 가지 모든 경우의 수에 대한 대응 전략(목표가와 손절가)을 요구함으로써, 리스크 관리에 최적화된 결과물을 강제합니다.
-3. **엄격한 제약 (할루시네이션 방지):** AI가 모호한 픽셀을 보고 억지로 보조지표를 지어내어 잘못된 분석을 하는 것을 막기 위해, 보이지 않으면 "판별 불가"라고 명시하도록 제약을 걸어 분석의 신뢰도를 높였습니다.
+- **Q: Can it analyze US stocks or crypto charts, in addition to local stock markets?**
+  - A: Absolutely. Candlestick charts are the universal language of global financial markets (stocks, crypto, futures, etc.). Whether it's a 15-minute Bitcoin chart or a weekly Tesla chart, the AI provides equally accurate technical analysis.
+
+- **Q: The analysis seems a bit too generic. How can I get deeper insights?**
+  - A: Try capturing the screenshot with additional technical indicators (like RSI or MACD) turned on. Then, add a specific instruction to the prompt, such as: *"Pay close attention to the bottom of the image and check for any RSI divergence."* This will yield much more profound results.
+
+- **Q: The support price given by the AI is slightly different from the actual order book. Why?**
+  - A: The AI estimates the price by reading the y-axis scale from the image. Slight discrepancies can occur depending on the resolution or aspect ratio of your screenshot. Therefore, use the AI's suggested price range (e.g., "around $150") as a reference, but always double-check the actual order book on your trading app for precision.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (뇌동매매 및 희망회로)
+1. **Setting Context & Persona (Prop Trader):** By assigning the persona of a "legendary prop trader" rather than a simple bot, we guide the AI to provide practical, real-world answers that read market psychology, rather than textbook definitions.
+2. **Forcing Two-Way Scenarios (Bullish & Bearish):** Asking "Will it go up or down?" is an amateur move. By demanding strategies for both upward and downward movements (target price vs. stop-loss), we force an output optimized for risk management.
+3. **Strict Constraints (Anti-Hallucination):** To prevent the AI from making up indicators based on blurry pixels, we added a constraint to explicitly say "Cannot be determined" if something isn't visible, significantly boosting the reliability of the analysis.
 
-**나 (속마음):** "와, 이거 장대양봉 떴다! 거래량 터지면서 전고점 돌파하네. 무조건 더 간다! 묻고 더블로 가!"
-_(결과: 전형적인 불트랩(Bull Trap, 상승 속임수)에 걸려 고점 최고가 매수 후 다음 날 -15% 급락 📉)_
+---
 
-### ✅ After (AI 객관적 분석 적용)
+## 📊 Proof: Before & After
 
-**나:** (Pro Version 프롬프트와 차트 입력)
+### ❌ Before (Impulsive Trading & Hopium)
+
+**Me (Inner Monologue):** "Wow, a massive bullish candle just formed! It's breaking the previous high with huge volume. It's definitely going higher! All in!"
+*(Result: Caught in a classic Bull Trap, bought at the absolute peak, and suffered a -15% plunge the next day 📉)*
+
+### ✅ After (Applying AI's Objective Analysis)
+
+**Me:** *(Inputs the Pro Version Prompt and the chart)*
 
 **AI (Chart Vision Analyst):**
 
-- **패턴 및 캔들:** 단기 급상승하며 장대양봉이 발생했으나, 이전 매물대 저항선에 부딪히며 긴 위꼬리를 달고 내려오는 형태입니다.
-- **지표 및 거래량:** 상승 돌파 시도 시 거래량이 이전 고점 대비 턱없이 부족합니다. 이는 추가 상승 동력이 약하다는 것을 시사합니다.
-- **대응 시나리오:**
-  - **[Bullish]:** 종가 기준으로 위꼬리를 잡아먹고 85,000원에 안착한다면 추가 상승 가능성이 열립니다.
-  - **[Bearish]:** 거래량 없는 상승이므로 단기 조정 확률이 높습니다. 단기 이평선이 깨지는 78,000원을 이탈 시 즉각적인 손절 혹은 관망을 권장합니다.
+- **Patterns & Candles:** The stock surged short-term, forming a large bullish candle, but hit the previous resistance block, leaving a long upper wick before pulling back.
+- **Indicators & Volume:** The trading volume during this breakout attempt is significantly lower than the previous peak. This indicates weak momentum for further upward movement.
+- **Scenarios:**
+  - **[Bullish]:** If it engulfs the upper wick on a closing basis and settles above $85, the door for further upside is open.
+  - **[Bearish]:** Since the rise lacks volume, a short-term correction is highly likely. If it breaks below the short-term moving average at $78, immediate stop-loss or observing from the sidelines is recommended.
 
-_(결과: AI의 분석을 보고 추격 매수를 참은 뒤 78,000원 지지 여부를 관망함. 결국 다음 날 하락하는 것을 보며 계좌 방어 성공 🛡️)_
+*(Result: Read the AI's analysis, suppressed the urge to FOMO buy, and waited to see if $78 would hold. The price dropped the next day, successfully protecting the account balance 🛡️)*
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-AI는 내일 당장 오를 종목을 찍어주는 신내림 받은 점쟁이가 아닙니다.
-하지만 **우리의 탐욕과 공포에 가려져 보이지 않던 객관적이고 차가운 차트의 신호**를 누구보다 정확하게 읽어주는 훌륭한 파트너입니다.
+AI is not a psychic that can divine which stock will skyrocket tomorrow.
+However, it is a brilliant partner that reads the **cold, objective signals on a chart that are often obscured by our own greed and fear.**
 
-FOMO(나만 소외될 것 같은 두려움)에 휩싸여 '매수' 버튼을 다급하게 누르기 전에, 딱 10초만 숨을 고르세요.
-AI에게 스크린샷 한번 보여주고 냉정한 조언을 들은 뒤 버튼을 눌러도 절대 늦지 않습니다. 성공적인 투자의 핵심은 잃지 않는 것입니다. 🍷
+Before you succumb to FOMO and frantically smash the 'Buy' button, take a 10-second breather. It's never too late to show a screenshot to your AI, get some emotionless advice, and then make your decision. The core of successful investing is not losing money. 🍷

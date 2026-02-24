@@ -5,158 +5,155 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: '"안 돼요"라고만 말하면 개발자는 웁니다. 😭 두서없는 버그 제보를 개발자가 바로 착수할 수 있는 깔끔한 리포트로 변환해 주는 AI 프롬프트입니다.'
+description: 'Dire simplement « Ça ne marche pas » fait pleurer les développeurs. 😭 Voici un prompt IA qui transforme un signalement de bug confus en un rapport clair et exploitable immédiatement par les développeurs.'
 tags: [AI, BugReport, QA, Communication]
 ---
 
-# 📝 개발자가 사랑하는 버그 리포트 작성법 (AI Bug Report Formatter)
+# 📝 Comment Rédiger le Rapport de Bug que les Développeurs Adorent (AI Bug Report Formatter)
 
-- **🎯 추천 대상:** QA 엔지니어, 서비스 기획자, CS 매니저, 주니어 개발자
-- **⏱️ 소요 시간:** 15분 → 1분 단축
-- **🤖 추천 모델:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
+- **🎯 Public cible :** Ingénieurs QA, Chefs de produit, Managers Service Client, Développeurs Junior
+- **⏱️ Temps gagné :** 15 minutes → Réduit à 1 minute
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"안 돼요. 그냥 안 돼요." 이 한마디에 개발자의 혈압은 오르고, 버그 수정 시간은 무한정 길어집니다._
+> _"« Ça ne marche pas. Ça ne marche juste pas. » Avec cette seule phrase, la tension artérielle du développeur grimpe en flèche et le temps de correction du bug s'allonge indéfiniment."_
 
-"로그인이 안 돼요." 개발자가 세상에서 가장 두려워하는 문장입니다. 어떤 브라우저를 사용했는지, 어떤 에러 코드가 발생했는지, 정확히 어떤 버튼을 클릭했는지 알 수 없기 때문입니다. 반대로 QA 팀이나 기획자 입장에서는, 버그를 마주했을 때 당황하여 상황 설명이 장황해지거나 핵심을 놓치기 쉽습니다.
+"La connexion est impossible." C'est la phrase que les développeurs redoutent le plus au monde. Pourquoi ? Parce qu'il est impossible de savoir quel navigateur a été utilisé, quel code d'erreur est apparu, ou sur quel bouton l'utilisateur a précisément cliqué. À l'inverse, du point de vue de l'équipe QA ou du chef de produit, la panique face à un bug peut rendre les explications verbeuses et faire perdre de vue l'essentiel.
 
-"아니, 제가 결제 버튼을 눌렀는데 갑자기 화면이 하얗게 되더니 뱅글뱅글 돌면서..."
-이런 구구절절한 사연을 **[재현 경로 - 기대 결과 - 실제 결과]**의 황금 비율을 갖춘 완벽한 버그 리포트로 순식간에 정리해 주는 AI 비서가 있다면 어떨까요? 커뮤니케이션 비용을 획기적으로 줄이고, 개발팀에 평화를 가져다줄 마법의 프롬프트를 소개합니다. 🕊️
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 두서없는 구어체 버그 설명을 표준화된 버그 리포트 포맷으로 즉시 변환합니다.
-2. 개발자가 가장 필요로 하는 필수 정보(재현 경로, 기대/실제 결과)를 구조화하여 도출합니다.
-3. 불필요한 핑퐁(Ping-pong) 커뮤니케이션을 없애고, 버그 수정 착수 시간을 획기적으로 단축합니다.
+« Non mais, j'ai cliqué sur le bouton de paiement et soudainement l'écran est devenu tout blanc et ça s'est mis à tourner... »
+Et si un assistant IA pouvait instantanément structurer ces récits laborieux en un rapport de bug parfait, respectant la règle d'or **[Étapes de reproduction - Résultat attendu - Résultat réel]** ? Voici le prompt magique qui réduira drastiquement vos coûts de communication et ramènera la paix au sein de votre équipe de développement. 🕊️
 
 ---
 
-## 🚀 해결책: "AI 버그 리포터 (AI Bug Report Formatter)"
+## ⚡️ En résumé (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Transforme instantanément une description de bug confuse et familière en un format de rapport standardisé.
+2. Structure et extrait les informations essentielles dont les développeurs ont le plus besoin (étapes de reproduction, résultat attendu/réel).
+3. Élimine les allers-retours inutiles (ping-pong) et réduit considérablement le temps nécessaire pour commencer à corriger le bug.
 
-빠르게 기본적인 버그 리포트 틀만 잡고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 QA 엔지니어야.
+## 🚀 La Solution : "Formateur de Rapport de Bug IA"
+
+### 🥉 Basic Version (Version Basique)
+
+Utilisez cette version lorsque vous souhaitez obtenir rapidement la structure de base d'un rapport de bug.
+
+> **Rôle :** Tu es un Ingénieur QA Senior.
 >
-> **요청:** 다음 두서없는 설명을 읽고, 개발자가 바로 이해할 수 있는 깔끔한 개조식 버그 리포트로 정리해 줘.
+> **Tâche :** Lis la description confuse suivante et résume-la sous forme de rapport de bug clair, structuré par points, qu'un développeur peut comprendre et exploiter immédiatement.
 >
-> **설명:** `[여기에 발생한 버그 상황을 생각나는 대로 적어주세요]`
+> **Description :** `[Décrivez ici la situation du bug telle qu'elle vous vient à l'esprit]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Version Expert)
 
-개발자가 질문 없이 바로 디버깅을 시작할 수 있는 완벽한 수준의 리포트가 필요할 때 사용하세요.
+Utilisez cette version lorsque vous avez besoin d'un rapport parfait permettant aux développeurs de commencer le débogage immédiatement, sans poser de questions supplémentaires.
 
-> **역할 (Role):** 너는 실리콘밸리 IT 기업의 10년 차 시니어 QA 엔지니어야.
+> **Rôle (Role) :** Tu es un Ingénieur QA Senior avec 10 ans d'expérience dans une entreprise de la Silicon Valley.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 서비스 테스트 중 치명적이거나 성가신 버그를 발견함.
-> - 목표: 개발자가 추가 질문 없이 즉시 원인 파악 및 디버깅에 착수할 수 있도록, 나의 구어체 설명을 완벽한 표준 버그 리포트 양식으로 변환하는 것.
+> - Contexte : Découverte d'un bug critique ou gênant lors du test d'un service.
+> - Objectif : Convertir ma description familière et non structurée en un rapport de bug standard et parfait, afin que le développeur puisse immédiatement identifier la cause et commencer le débogage sans question supplémentaire.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. 아래 `[버그 설명]`을 주의 깊게 분석하세요.
-> 2. 분석한 내용을 바탕으로, 개발 친화적인 전문 버그 리포트를 작성하세요.
-> 3. 누락된 정보(예: 브라우저 버전 등)가 있다면 "추가 확인 필요"라고 명시하세요.
+> 1. Analyse attentivement la `[Description du bug]` ci-dessous.
+> 2. Sur la base de cette analyse, rédige un rapport de bug professionnel, orienté développeur.
+> 3. S'il manque des informations (ex : version du navigateur, etc.), mentionne explicitement "Vérification supplémentaire requise".
 >
-> **[버그 설명]:**
-> `[여기에 겪은 상황을 날것 그대로 적으세요. 예: 회원가입 하려고 이메일 치고 비번 치고 확인 눌렀는데, 갑자기 빨간 글씨로 '알 수 없는 오류'라고 뜨고 아무것도 안 넘어가요. 아이폰 사파리 썼어요.]`
+> **[Description du bug] :**
+> `[Décrivez ici la situation telle que vous l'avez vécue, de manière brute. Ex : J'ai voulu m'inscrire, j'ai tapé mon email et mon mot de passe, j'ai cliqué sur valider, et là, un texte rouge "Erreur inconnue" est apparu et rien ne s'est passé. J'utilisais Safari sur un iPhone.]`
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 출력 형식은 마크다운(Markdown)으로 작성해 줘.
-> - 말투는 간결하고 건조한 기술 문서 스타일(명사형 종결, 개조식)을 엄격히 유지해.
-> - 반드시 아래 제공된 템플릿 구조를 100% 준수해.
+> - Le format de sortie doit être rédigé en Markdown.
+> - Le ton doit être strictement celui d'un document technique, concis et neutre (phrases nominales, liste à puces).
+> - Tu dois respecter à 100 % la structure du modèle fourni ci-dessous.
 >
-> **템플릿 (Template):**
+> **Modèle (Template) :**
 >
-> - **Title:** [버그 핵심을 한 줄로 요약]
-> - **Severity:** [Critical / Major / Minor 중 추정하여 선택]
-> - **Environment:** [OS, 기기, 브라우저 등 환경 정보]
-> - **Steps to Reproduce:**
->   1. [행동 1]
->   2. [행동 2]
-> - **Expected Result:** [정상 동작 시 기대되는 결과]
-> - **Actual Result:** [현재 발생하고 있는 오류 현상]
-> - **Additional Notes:** [그 외 개발에 도움 될 만한 추측이나 단서]
+> - **Title :** [Le cœur du bug résumé en une seule ligne]
+> - **Severity :** [Estimer et choisir parmi Critical / Major / Minor]
+> - **Environment :** [Informations sur l'environnement : OS, appareil, navigateur, etc.]
+> - **Steps to Reproduce :**
+>   1. [Action 1]
+>   2. [Action 2]
+> - **Expected Result :** [Résultat attendu lors d'un fonctionnement normal]
+> - **Actual Result :** [Le phénomène d'erreur tel qu'il se produit actuellement]
+> - **Additional Notes :** [Toute autre supposition ou indice susceptible d'aider au développement]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Le mot de l'auteur (Insight)
 
-이 프롬프트는 비개발 직군(기획자, 디자이너, CS 매니저)에게 말 그대로 '빛'과 같은 도구입니다. 개발자에게 메신저로 "이거 안 돼요, 확인 부탁드려요"라고 말하기 전에, 이 프롬프트를 딱 한 번만 거쳐보세요. 전달하는 정보의 밀도가 달라집니다.
+Ce prompt est un véritable « sauveur » pour les profils non techniques (chefs de produit, designers, managers du service client). Avant d'envoyer un message sur Slack à un développeur en disant : « Ça ne marche pas, tu peux vérifier ? », passez simplement votre explication dans ce prompt. La densité et la qualité de l'information transmise seront métamorphosées.
 
-작성된 리포트를 건네는 순간, 당신의 기술적 커뮤니케이션 역량에 대한 신뢰도가 급상승하며, 개발자로부터 "리포트 정리 진짜 잘해주셨네요"라는 감사 인사를 받게 될 것입니다. 특히 **'Steps to Reproduce(재현 경로)'**를 AI가 논리적인 순서로 분해해 주는 기능이 압도적으로 유용합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 스크린샷이나 화면 녹화 영상은 어떻게 처리하나요?**
-  - A: 텍스트 기반 프롬프트이므로 이미지를 직접 넣을 순 없습니다. 대신 AI가 생성한 리포트의 `Additional Notes` 하단에 `[첨부파일: 에러화면_캡처.png 참고]`라고 덧붙인 뒤 이미지를 함께 전달하시면 완벽합니다. 멀티모달(GPT-4o 등)을 지원한다면, 에러 화면 스크린샷을 프롬프트와 함께 업로드하면 AI가 에러 코드까지 읽어내어 훨씬 더 정확한 리포트를 작성해 줍니다.
-
-- **Q: 모바일 앱 환경에서 발생한 버그도 정리가 되나요?**
-  - A: 물론입니다. 프롬프트의 `[버그 설명]` 부분에 "갤럭시 S24 울트라 안드로이드 14 버전을 썼고, 앱 최신 버전이에요"라고 구어체로 남기기만 하면, AI가 알아서 `Environment` 섹션에 깔끔하게 파싱하여 기입해 줍니다.
+Dès l'instant où vous remettrez ce rapport, votre crédibilité en matière de communication technique montera en flèche, et vous recevrez des remerciements du type : « Merci d'avoir si bien structuré le ticket ! ». La fonctionnalité où l'IA décompose logiquement les **« Étapes de reproduction (Steps to Reproduce) »** est particulièrement redoutable et utile.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1. **Role 부여:** '10년 차 시니어 QA 엔지니어'라는 명확한 페르소나를 부여하여, 텍스트의 톤앤매너를 구어체에서 건조하고 전문적인 기술 문서체로 강제 전환시킵니다.
-2. **Template 강제화:** 버그 리포트의 글로벌 표준 구조(Title, Severity, Steps, Expected/Actual Result)를 프롬프트 내에 템플릿으로 박아두어, AI가 임의로 포맷을 변경하지 못하도록 강력하게 통제했습니다.
-3. **누락 정보 처리(Constraints):** 정보가 부족할 때 AI가 임의로 지어내는 환각(Hallucination) 현상을 막기 위해, "누락된 정보는 '추가 확인 필요'로 명시하라"는 제약을 걸어 리포트의 신뢰성을 보장했습니다.
+- **Q : Comment gérer les captures d'écran ou les enregistrements vidéo ?**
+  - R : S'agissant d'un prompt textuel, vous ne pouvez pas insérer d'images directement. L'astuce consiste à ajouter manuellement `[Pièce jointe : Voir capture_ecran_erreur.png]` dans la section `Additional Notes` du rapport généré par l'IA, puis d'envoyer l'image avec le texte. Si vous utilisez un modèle multimodal (comme GPT-4o ou Claude 3.5 Sonnet), vous pouvez uploader la capture d'écran de l'erreur avec le prompt ; l'IA lira même le code d'erreur et rédigera un rapport encore plus précis.
+
+- **Q : Est-ce que cela fonctionne aussi pour les bugs survenus sur une application mobile ?**
+  - R : Absolument. Il vous suffit de préciser dans la section `[Description du bug]` des éléments tels que : « J'ai utilisé un Galaxy S24 Ultra sous Android 14, et l'application est à la dernière version. » L'IA s'occupera d'extraire et de formater proprement ces données dans la section `Environment`.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Why it works?)
 
-### ❌ Before (입력: 장황하고 두서없는 설명)
+1. **Attribution d'un Rôle (Role) :** En attribuant le persona très clair d'un « Ingénieur QA Senior avec 10 ans d'expérience », nous forçons le ton du texte à passer d'un langage familier à un style documentaire technique, neutre et professionnel.
+2. **Imposition d'un Modèle (Template) :** En intégrant directement dans le prompt la structure standard mondiale d'un rapport de bug (Title, Severity, Steps, Expected/Actual Result), nous contrôlons rigoureusement l'IA pour l'empêcher de modifier le format de manière arbitraire.
+3. **Gestion des informations manquantes (Constraints) :** Pour éviter les hallucinations (où l'IA invente des informations manquantes), nous avons ajouté une contrainte stipulant que « toute information manquante doit être signalée par "Vérification supplémentaire requise" », garantissant ainsi la fiabilité totale du rapport.
+
+---
+
+## 📊 Preuve : Avant & Après
+
+### ❌ Avant (Entrée : Description longue et brouillonne)
 
 ```text
-아니 제가 아까 장바구니에 물건 3개 담아놓고 결제하기 버튼 눌렀거든요? 근데 갑자기 화면이 하얘지더니 아무것도 안 눌러져요. 뒤로 가기 눌러도 안 되고 앱 껐다 켜야 겨우 다시 되네요. 아, 그리고 할인 쿠폰 적용하려고 했을 때부터 좀 버벅거렸어요. 아이폰 15 프로 쓰고 있습니다. 진짜 짜증 나네요 빨리 고쳐주세요.
+Non mais tout à l'heure, j'ai mis 3 articles dans mon panier et j'ai cliqué sur le bouton de paiement, vous voyez ? Et là d'un coup, l'écran est devenu tout blanc et je ne pouvais plus rien toucher. Même le bouton retour ne fonctionnait pas, j'ai dû forcer la fermeture de l'appli et la relancer pour que ça remarche. Ah, et ça avait commencé à ramer au moment où j'ai essayé d'appliquer mon code promo. J'utilise un iPhone 15 Pro. C'est vraiment agaçant, réparez ça vite s'il vous plaît.
 ```
 
-### ✅ After (결과: 전문가 수준의 리포트)
+### ✅ Après (Résultat : Rapport de niveau expert)
 
 ```markdown
-**Title:** 장바구니 결제 진행 시 화이트 스크린 발생 및 앱 멈춤 현상
+**Title:** Écran blanc (White Screen) et gel de l'application lors du paiement depuis le panier
 **Severity:** Critical
 **Environment:**
-
 - Device: iPhone 15 Pro
-- OS: (추가 확인 필요)
-- App Version: (추가 확인 필요)
+- OS: (Vérification supplémentaire requise)
+- App Version: (Vérification supplémentaire requise)
 
 **Steps to Reproduce:**
-
-1. 장바구니에 상품을 3개 담는다.
-2. 결제 전 할인 쿠폰을 적용한다. (이 단계에서 UI 지연 발생 추정)
-3. '결제하기' 버튼을 탭 한다.
+1. Ajouter 3 articles dans le panier.
+2. Appliquer un code de réduction avant le paiement. (Ralentissement de l'interface présumé à cette étape)
+3. Appuyer sur le bouton "Payer".
 
 **Expected Result:**
-정상적으로 결제 수단 선택 또는 결제 진행 화면으로 전환되어야 함.
+Le système doit basculer normalement vers l'écran de sélection du moyen de paiement ou poursuivre le processus de commande.
 
 **Actual Result:**
-화면이 하얗게 변하며(White Screen) 터치 이벤트가 전혀 응답하지 않는 프리징(Freezing) 상태 발생. '뒤로 가기' 등 시스템 네비게이션 무반응. 앱을 강제 종료 후 재실행해야만 정상화됨.
+L'écran devient entièrement blanc (White Screen) et l'interface subit un gel total (Freezing) sans répondre à aucun événement tactile. La navigation système (comme le bouton retour) ne répond plus. Un redémarrage forcé de l'application est nécessaire pour rétablir le fonctionnement normal.
 
 **Additional Notes:**
-
-- 할인 쿠폰 적용 시점부터 성능 저하(버벅거림)가 관찰되었으므로, 쿠폰 계산 로직 메모리 누수 또는 렌더링 충돌 가능성 확인 요망.
+- Une dégradation des performances (ralentissement) a été observée à partir du moment où le code promo a été appliqué. Il est recommandé de vérifier d'éventuelles fuites de mémoire (memory leak) ou des conflits de rendu dans la logique de calcul de la réduction.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-잘 쓰인 버그 리포트 하나가 버그 픽스 시간을 절반으로 줄입니다.
-더 이상 "이거 왜 안 되죠?"라며 빈손으로 개발자를 찾아가지 마세요. 이 프롬프트와 함께라면 여러분도 훌륭한 QA 전문가처럼 소통할 수 있습니다.
+Un seul rapport de bug bien rédigé permet de réduire de moitié le temps nécessaire à sa résolution.
+Ne retournez plus voir vos développeurs les mains vides en demandant : « Pourquoi ça ne marche pas ? ». Avec ce prompt, vous aussi pouvez communiquer avec l'excellence d'un professionnel de la QA.
 
-이제 평화로운 협업을 시작하세요! ☕️
+Place à une collaboration sereine et efficace ! ☕️

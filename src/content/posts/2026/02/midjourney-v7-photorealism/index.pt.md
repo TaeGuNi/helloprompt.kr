@@ -5,138 +5,138 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/생성형 AI"
-description: "미드저니 v7 완벽 가이드! 전문 사진작가가 스튜디오에서 촬영한 듯한 극사실주의(Hyper-Realism) 이미지를 단숨에 뽑아내는 비법 프롬프트를 소개합니다."
+description: "Guia completo do Midjourney v7! Descubra a fórmula secreta de prompts para gerar imagens hiper-realistas que parecem ter sido tiradas por um fotógrafo profissional em estúdio."
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 
-# 📝 셔터 누를 시간에 프롬프트를 쳐라: 미드저니 v7 실사 공략집
+# 📝 Digite Prompts em Vez de Apertar o Obturador: O Guia Definitivo de Fotorrealismo no Midjourney v7
 
-- **🎯 추천 대상:** 디자이너, 콘텐츠 마케터, 스튜디오 촬영 비용을 아끼고 싶은 대표님
-- **⏱️ 소요 시간:** 5분 → 1분 단축 (프롬프트 복붙 기준)
-- **🤖 추천 모델:** ChatGPT-4o (프롬프트 생성용) + Midjourney v7
+- **🎯 Público-Alvo:** Designers, profissionais de marketing de conteúdo, empreendedores que desejam economizar com estúdios fotográficos
+- **⏱️ Tempo Necessário:** De 5 minutos → Reduzido para 1 minuto (copiando e colando o prompt)
+- **🤖 Modelo Recomendado:** ChatGPT-4o (para criar os prompts) + Midjourney v7
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"수백만 원의 스튜디오 렌탈비, 모델 섭외비, 조명 세팅비... 이 모든 예산을 0원으로 만들 수 있다면 믿으시겠습니까?"_
+> _"Você acreditaria se eu dissesse que é possível zerar o orçamento de milhares de reais gastos em aluguel de estúdio, contratação de modelos e equipamentos de iluminação?"_
 
-미드저니(Midjourney) v7의 등장으로 픽셀에 'AI 특유의 플라스틱 느낌'이 묻어나는 시대는 완전히 끝났습니다. 이제는 현업 사진작가조차 진짜와 가짜를 구분하기 힘든 극사실주의(Photorealism)의 영역에 진입했습니다. 하지만 v7의 압도적인 렌더링 성능을 100% 끌어내려면, 프롬프트 역시 그에 걸맞게 정교해져야 합니다.
+Com a chegada do Midjourney v7, a era em que os pixels denunciavam aquela "textura de plástico típica de IA" acabou definitivamente. Agora, entramos no reino do fotorrealismo extremo, onde até mesmo fotógrafos profissionais têm dificuldade em distinguir o que é real do que foi gerado. No entanto, para extrair 100% do poder de renderização do v7, os seus prompts precisam ser igualmente sofisticados.
 
-오늘 소개할 프롬프트는 직접 미드저니에 치는 것이 아닙니다. **ChatGPT를 '20년 차 상업 사진작가'로 세팅하여, 완벽한 미드저니 v7 영문 프롬프트를 자동으로 뽑아내는 '메타 프롬프트(Meta-Prompt)'입니다.**
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 미드저니 v7은 빛(Lighting)의 산란과 피부 질감(Texture) 표현이 실사 수준으로 비약적으로 상승했습니다.
-2. '예쁜 사진'을 넘어 '진짜 사진'을 원한다면 카메라 렌즈, 필름 종류, 조명 세팅값을 구체적으로 명시해야 합니다.
-3. 복잡한 카메라 용어를 몰라도 괜찮습니다. 아래 프롬프트를 ChatGPT에 붙여넣기만 하면 전문가 수준의 파라미터가 완성됩니다.
+O prompt que apresentaremos hoje não é para ser digitado diretamente no Midjourney. **Trata-se de um 'Meta-Prompt': vamos configurar o ChatGPT para agir como um fotógrafo comercial com 20 anos de experiência, gerando automaticamente prompts perfeitos em inglês para o Midjourney v7.**
 
 ---
 
-## 🚀 해결책: "AI 포토그래퍼 마스터 프롬프트"
+## ⚡️ Resumo em 3 Pontos (TL;DR)
 
-이 프롬프트를 복사하여 **ChatGPT(혹은 Claude)**에 입력하세요. 미드저니에 바로 입력하는 것이 아닙니다!
+1. O Midjourney v7 deu um salto colossal no fotorrealismo, especialmente na dispersão da luz (Lighting) e na textura da pele (Texture).
+2. Para ir além de uma "foto bonita" e criar uma "foto real", você deve especificar lentes de câmera, tipos de filme e configurações de iluminação.
+3. Não se preocupe se você não entende termos técnicos de fotografia. Basta colar o prompt abaixo no ChatGPT para obter parâmetros de nível profissional.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 그럴싸한 실사 이미지 프롬프트를 얻고 싶을 때 사용하세요.
+## 🚀 A Solução: "O Prompt Mestre do Fotógrafo de IA"
 
-> **역할:** 너는 전문 상업 사진작가이자 미드저니 v7 프롬프트 메이커야.
-> **요청:** 내가 제시하는 `[주제]`를 바탕으로, 미드저니 v7에서 가장 사실적인 사진이 나올 수 있는 영문 프롬프트를 1줄로 작성해 줘.
+Copie este prompt e cole no **ChatGPT (ou Claude)**. Não o insira diretamente no Midjourney!
+
+### 🥉 Versão Basic (Básica)
+
+Use esta versão quando precisar de um prompt rápido para uma imagem realista convincente.
+
+> **Função:** Você é um fotógrafo comercial profissional e um criador de prompts para o Midjourney v7.
+> **Tarefa:** Com base no `[TEMA]` que eu fornecer, escreva um prompt em inglês de apenas uma linha que gere a fotografia mais realista possível no Midjourney v7.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Profissional)
 
-피부의 솜털과 모공, 공기 중의 먼지 입자까지 표현하는 하이엔드 스튜디오급 퀄리티가 필요할 때 사용하세요.
+Use esta versão quando precisar de qualidade de estúdio de alto nível, com detalhes como penugem da pele, poros e até partículas de poeira no ar.
 
-> **역할 (Role):** 너는 20년 경력의 글로벌 상업 사진작가이자, 극사실주의 렌더링에 특화된 **'Midjourney v7 프롬프트 엔지니어'**야.
+> **Função (Role):** Você é um fotógrafo comercial global com 20 anos de experiência e um **'Engenheiro de Prompts do Midjourney v7'** especializado em renderização hiper-realista.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 나는 `[원하는 피사체와 분위기를 입력하세요. 예: 카페에서 커피를 마시는 20대 한국인 여성]`을 묘사한 초고해상도 실사 사진이 필요해.
-> - 이 사진은 하이엔드 룩북이나 럭셔리 매거진 광고의 메인 컷으로 사용될 예정이야.
+> - Preciso de uma fotografia fotorrealista de altíssima resolução retratando `[INSIRA O SUJEITO E A ATMOSFERA DESEJADA. Ex: Uma mulher coreana de 20 e poucos anos tomando café em uma cafeteria]`.
+> - Esta foto será usada como imagem principal em um lookbook de alta costura ou em um anúncio de revista de luxo.
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. 다음 5가지 요소를 완벽하게 조합하여 미드저니 영문 프롬프트를 작성해라.
->    - **Subject (피사체):** 인물의 미세한 표정, 시선 처리, 의상의 재질감(Texture), 피부의 솜털과 모공 디테일 묘사
->    - **Camera Gear (장비):** 렌즈 화각과 조리개 값(예: 85mm f/1.2), 카메라 기종(예: Sony A7R V, Hasselblad X2D)
->    - **Lighting (조명):** 광원의 방향과 종류(예: Cinematic lighting, Rembrandt lighting, Softbox, Golden hour)
->    - **Atmosphere (분위기/색감):** 필름 스톡 기반의 색감 보정(예: Moody tone, Kodak Portra 400, Fujifilm Superia)
->    - **Parameters (파라미터):** 프롬프트 맨 끝에 `--ar 16:9 --v 7 --style raw --q 2 --stylize 100` 필수 포함
-> 2. 생성된 영문 프롬프트를 코드 블록 안에 넣어줘.
-> 3. 네가 왜 이런 카메라 렌즈와 조명 세팅을 선택했는지 전문가의 시선에서 한글로 짧게 해설해 줘.
+> 1. Escreva um prompt em inglês para o Midjourney combinando perfeitamente os 5 elementos a seguir:
+>    - **Subject (Sujeito):** Expressões faciais sutis, direção do olhar, textura das roupas, detalhes microscópicos da pele (poros e penugem).
+>    - **Camera Gear (Equipamento):** Distância focal da lente e abertura (ex: 85mm f/1.2), modelo da câmera (ex: Sony A7R V, Hasselblad X2D).
+>    - **Lighting (Iluminação):** Direção e tipo da fonte de luz (ex: Cinematic lighting, Rembrandt lighting, Softbox, Golden hour).
+>    - **Atmosphere (Atmosfera/Cor):** Correção de cores baseada em rolos de filme (ex: Moody tone, Kodak Portra 400, Fujifilm Superia).
+>    - **Parameters (Parâmetros):** O prompt DEVE terminar obrigatoriamente com `--ar 16:9 --v 7 --style raw --q 2 --stylize 100`.
+> 2. Coloque o prompt em inglês gerado dentro de um bloco de código.
+> 3. Explique brevemente, em português e sob a perspectiva de um especialista, por que você escolheu essas configurações específicas de lente e iluminação.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 문법적인 완벽함보다 쉼표(,)로 구분된 직관적인 키워드 나열 방식을 사용해.
-> - 불필요한 미사여구는 빼고 명사 위주로 핵심만 전달해.
+> - Em vez de frases gramaticalmente perfeitas, use uma lista intuitiva de palavras-chave separadas por vírgulas.
+> - Evite adjetivos desnecessários; concentre-se na essência usando principalmente substantivos.
 >
-> **주의사항 (Warning):**
+> **Aviso (Warning):**
 >
-> - '3D render', 'illustration', 'painting', 'unreal engine'과 같이 그림이나 CG 느낌을 주는 단어는 절대 포함하지 마. 무조건 실제 촬영된 사진(photograph)이어야 해.
+> - NUNCA inclua palavras que deem um aspecto de desenho ou computação gráfica, como '3D render', 'illustration', 'painting' ou 'unreal engine'. O resultado deve ser estritamente uma fotografia real (photograph).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-미드저니 v7 실사화의 핵심 치트키는 다름 아닌 **'조명(Lighting)'**과 **'렌즈 화각(Lens focal length)'**입니다. 단순히 "beautiful lighting(아름다운 조명)"이라고 뭉뚱그려 요청하면 AI 특유의 뽀샤시한 플라스틱 피부가 나옵니다.
+O grande segredo para o realismo no Midjourney v7 está na **'Iluminação (Lighting)'** e na **'Distância focal da lente (Lens focal length)'**. Se você pedir genericamente por "beautiful lighting" (iluminação bonita), a IA entregará aquela pele de plástico excessivamente suavizada.
 
-대신 "Rembrandt lighting(렘브란트 조명)"이나 "Window blind shadows(블라인드 그림자)"처럼 빛의 성질을 구체적으로 통제하세요. 또한, `85mm f/1.2` 같은 망원 렌즈와 얕은 피사계 심도(Shallow depth of field) 키워드를 넣으면 배경이 자연스럽게 날아가면서 인물에 시선이 꽂히는 극적인 결과물을 얻을 수 있습니다. 카메라 용어에 약하시다고요? 걱정 마세요. 위 Pro 버전을 사용하면 ChatGPT가 알아서 찰떡같은 렌즈를 골라줍니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 마지막에 붙는 `--style raw` 파라미터는 어떤 역할을 하나요?**
-  - A: 미드저니 모델이 기본적으로 적용하는 '과장되고 예쁜 미학적 보정'을 제거해 주는 파라미터입니다. 이것을 넣어야 후보정을 거치지 않은 카메라 원본(Raw) 파일처럼 날것의 리얼한 느낌이 살아납니다. 실사 사진 생성 시에는 선택이 아닌 필수입니다.
-
-- **Q: v6에서는 손가락이 6개로 나오거나 인체 비율이 무너지는 오류가 잦았는데 v7은 어떤가요?**
-  - A: 미드저니 v7에서는 손가락 기형이나 관절 구조의 오류가 99% 해결되었습니다. 이제는 머리카락 한 올, 손등의 미세한 힘줄까지 사실적으로 묘사되니 디테일에 대한 스트레스는 내려놓으셔도 좋습니다.
-
-- **Q: 프롬프트에 한국어로 피사체를 입력해도 미드저니가 이해하나요?**
-  - A: 미드저니 본체는 여전히 영어를 가장 잘 이해합니다. 따라서 이 포스팅에서 제공한 방식처럼 **"ChatGPT를 번역기 겸 프롬프트 엔지니어로 활용"**하여 한국어 아이디어를 고품질의 영문 프롬프트로 변환하는 것이 핵심입니다.
+Em vez disso, controle as propriedades da luz especificando termos como "Rembrandt lighting" (iluminação de Rembrandt) ou "Window blind shadows" (sombras de persianas). Além disso, ao adicionar uma lente teleobjetiva como `85mm f/1.2` e a palavra-chave "shallow depth of field" (profundidade de campo rasa), o fundo ficará naturalmente desfocado (bokeh), criando um resultado dramático que atrai o olhar diretamente para o sujeito. Não entende de vocabulário fotográfico? Sem problemas. Ao usar a Versão Pro acima, o ChatGPT escolherá a lente perfeita para você.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **전문가 페르소나 (Role Play):** ChatGPT에게 '20년 차 글로벌 상업 사진작가'라는 구체적인 역할을 부여하여, 뻔한 단어가 아닌 전문적인 촬영 장비(Camera Gear) 및 조명(Lighting) 어휘를 이끌어냅니다.
-2.  **구조화된 변수 통제 (Structured Variables):** 피사체, 장비, 조명, 분위기 등 사진을 구성하는 핵심 요소를 5가지로 명확히 분리하여 AI가 각 요소를 빠짐없이 묘사하도록 강제했습니다.
-3.  **네거티브 가이드 (Negative Prompting):** '3D render'나 'CG' 같은 단어를 절대 쓰지 못하게 제약을 걸어(Constraints), 결과물이 일러스트레이션으로 빠지는 사고(환각)를 원천 차단했습니다.
+- **P: Para que serve o parâmetro `--style raw` no final do prompt?**
+  - R: Este parâmetro remove o 'embelezamento estético exagerado' que o Midjourney aplica por padrão. É essencial incluí-lo para obter aquela sensação crua e autêntica de um arquivo de câmera não editado (Raw). Para gerar fotos fotorrealistas, não é uma opção, é uma obrigação.
+
+- **P: Na versão v6, era comum ver mãos com 6 dedos ou proporções corporais distorcidas. Como o v7 lida com isso?**
+  - R: O Midjourney v7 resolveu 99% das anomalias de dedos e estruturas articulares. Agora, ele renderiza realisticamente cada fio de cabelo e até as veias sutis nas costas das mãos. Você pode finalmente relaxar quanto aos detalhes anatômicos.
+
+- **P: O Midjourney entende se eu descrever o sujeito em português no prompt?**
+  - R: O núcleo do Midjourney ainda compreende o inglês de forma muito mais eficaz. É por isso que o segredo deste artigo é **"usar o ChatGPT como tradutor e engenheiro de prompts"** para transformar suas ideias em português em prompts de alta qualidade em inglês.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Why it works?)
 
-### ❌ Before (단순 입력)
+1.  **Personificação de Especialista (Role Play):** Ao atribuir ao ChatGPT o papel de "fotógrafo comercial global com 20 anos de experiência", forçamos a IA a usar vocabulário profissional de equipamentos e iluminação, fugindo das palavras clichês.
+2.  **Controle Estruturado de Variáveis (Structured Variables):** Separamos claramente os componentes fundamentais de uma foto em 5 elementos (sujeito, equipamento, luz, atmosfera, parâmetros), obrigando a IA a descrever cada um sem omissões.
+3.  **Prompt Negativo (Negative Prompting):** Através das restrições (Constraints), proibimos expressamente termos como '3D render' ou 'CG'. Isso corta pela raiz o risco de alucinações que transformariam a imagem em uma ilustração.
 
-아무런 장비나 조명 설정 없이, 생각나는 대로 쳤을 때 발생하는 전형적인 "AI 느낌"입니다.
+---
+
+## 📊 Prova: Antes e Depois
+
+### ❌ Antes (Entrada Simples)
+
+Este é o típico "visual de IA" que aparece quando você digita o que vem à cabeça, sem especificar equipamentos ou iluminação.
 
 ```text
 A korean woman drinking coffee in cafe --v 7
 ```
 
-- **결과:** 피부 모공이 전혀 없는 마네킹 같은 텍스처. 빛이 어디서 오는지 알 수 없는 밋밋하고 평면적인 구도.
+- **Resultado:** Uma textura de pele parecida com a de um manequim, sem nenhum poro visível. Composição plana e sem vida, onde é impossível determinar a origem da luz.
 
-### ✅ After (Pro 프롬프트 적용 결과)
+### ✅ Depois (Resultado da Versão Pro)
 
-ChatGPT가 뱉어낸 전문가용 영문 프롬프트를 미드저니에 그대로 복사해 넣은 결과입니다.
+Este é o resultado de copiar e colar no Midjourney o prompt profissional em inglês gerado pelo ChatGPT.
 
 ```text
 Cinematic shot of a Korean woman in her 20s sipping an iced latte, natural sunlight hitting her face through window blinds, dust particles floating in the air, shot on Sony A7R V, 85mm f/1.2 lens, shallow depth of field, hyper-realistic skin texture, microscopic pore details visible, subtle peach fuzz, Kodak Portra 400 film grain, moody cinematic vibe --ar 16:9 --v 7 --style raw --q 2 --stylize 100
 ```
 
-- **결과:** 블라인드 사이로 떨어지는 빛줄기, 공기 중의 먼지 입자, 솜털까지 표현된 극도의 디테일. 유명 룩북에서나 볼 법한 완벽한 실사 사진이 단숨에 렌더링 됩니다.
+- **Resultado:** Um nível extremo de detalhes que exibe raios de luz filtrados pelas persianas, partículas de poeira no ar e até penugem no rosto. Uma fotografia real, digna de um lookbook famoso, renderizada em instantes.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-상상 속의 이미지를 현실로 인화(Print)하는 데 더 이상 비싼 스튜디오와 무거운 카메라가 필요하지 않습니다. 프롬프트 한 줄을 어떻게 다루느냐가 곧 당신의 렌즈이자 조명이 되는 시대입니다.
+Você não precisa mais de um estúdio caro ou de uma câmera pesada para materializar as imagens da sua imaginação. Vivemos na era em que a forma como você escreve uma única linha de prompt se torna a sua lente e a sua iluminação.
 
-지금 바로 프롬프트를 복사해서 나만의 AI 포토 스튜디오를 차려보세요.
-이제 칼퇴하세요! 🍷
+Copie o prompt agora mesmo e monte o seu próprio estúdio fotográfico de IA.
+Agora, pode encerrar o expediente mais cedo! 🍷

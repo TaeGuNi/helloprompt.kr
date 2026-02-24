@@ -5,123 +5,123 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "썸남썸녀의 카톡 대화, AI가 분석하면 진짜 성향이 보입니다. 텍스트 뉘앙스로 상대의 MBTI를 추론하고 맞춤형 공략법까지 알아내는 프롬프트를 확인해 보세요."
+description: "Les conversations de votre crush, analysées par l'IA, révèlent sa véritable personnalité. Découvrez le prompt pour déduire le MBTI via les nuances textuelles et obtenir des stratégies d'approche sur mesure."
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---
 
-# 🧩 MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기
+# 🧩 Analyseur MBTI : Devinez le MBTI de l'autre grâce à vos conversations
 
-- **🎯 추천 대상:** 썸남썸녀의 속마음과 성향이 궁금한 사람, 상대방의 건조한 카톡에 "혹시 나한테 관심 없나?" 상처받은 경험이 있는 사람
-- **⏱️ 소요 시간:** 1분 (텍스트 복사 및 분석)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (미묘한 언어적 뉘앙스와 문맥 파악에 탁월)
+- **🎯 Public Cible :** Ceux qui veulent décrypter les intentions de leur crush, ou ceux qui ont déjà été blessés par des réponses froides se demandant : « Est-ce qu'il/elle s'en fiche de moi ? »
+- **⏱️ Temps Requis :** 1 minute (Copier-coller le texte et analyser)
+- **🤖 Modèles Recommandés :** ChatGPT-4o, Claude 3.5 Sonnet (excellents pour saisir les nuances linguistiques et le contexte)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐☆
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"읽씹은 아닌데 칼단답하는 이 사람, 날 싫어하는 걸까요? 아니면 그냥 극 'T'인 걸까요?"_
+> _« Ce n'est pas un vu ignoré, mais ses réponses sont glaciales et expéditives... Est-ce qu'il me déteste, ou est-il simplement un "T" pur et dur ? »_
 
-혼자 스마트폰만 바라보며 전전긍긍하지 마세요. 상대방과 나눈 카톡 대화 내용만 있으면 AI가 숨겨진 성격 유형을 객관적으로 분석해 줍니다. 단순한 말투뿐만 아니라 이모지의 활용 빈도, 문장 구조, 대화의 전개 방식을 종합적으로 추론하여 **"상대방은 85% 확률로 ISTP이며, 이런 화법으로 다가가야 합니다"**라는 명쾌한 해답과 맞춤형 공략법을 제시합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 상대방과 나눈 카톡이나 메신저 대화의 텍스트를 그대로 복사합니다. (이름 등 민감한 개인정보는 익명 처리 권장)
-2. AI에게 프롬프트를 입력하여 대화 속 텍스트 뉘앙스를 바탕으로 상대의 MBTI 4가지 척도(E/I, S/N, T/F, J/P)를 분석하게 합니다.
-3. 도출된 성격 유형과 '대화 꿀팁'을 활용하여 상대방의 성향에 딱 맞는 맞춤형 소통 전략을 세웁니다.
+Ne restez plus seul(e) à fixer votre smartphone en vous rongeant les sangs. Si vous avez l'historique de vos conversations (SMS, WhatsApp, etc.), l'Intelligence Artificielle peut analyser objectivement la personnalité cachée de votre interlocuteur. Au-delà du simple ton employé, l'IA décortique la fréquence d'utilisation des émojis, la structure des phrases et la dynamique de l'échange pour vous livrer un verdict clair : **« Votre interlocuteur est un ISTP à 85 %, voici comment vous devez communiquer avec lui. »** Obtenez enfin des réponses limpides et une stratégie d'approche sur mesure.
 
 ---
 
-## 🚀 해결책: "MBTI 스캐너 프롬프트 (MBTI Scanner)"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형: T/F 성향 빠른 판별)
+1. Copiez le texte brut de votre conversation (SMS ou messagerie) avec la personne ciblée. (Il est recommandé d'anonymiser les prénoms et données sensibles).
+2. Utilisez le prompt fourni pour demander à l'IA d'analyser les nuances du texte et d'en déduire les 4 dimensions du MBTI (E/I, S/N, T/F, J/P).
+3. Servez-vous du profil psychologique obtenu et des « astuces de communication » pour élaborer une stratégie d'interaction parfaitement adaptée à sa personnalité.
 
-상대방의 반응이 논리적인지, 감정적인지 가장 헷갈리는 'T와 F'의 성향을 빠르게 파악하고 싶을 때 사용하세요.
+---
 
-> **역할 (Role):** 너는 인간관계 심리 분석 전문가야.
+## 🚀 La Solution : "Prompt Scanner MBTI"
+
+### 🥉 Version Basique (Basic Version)
+
+Utilisez cette version si vous souhaitez une réponse rapide pour trancher le dilemme le plus courant : l'approche Logique (T) versus Émotionnelle (F).
+
+> **Rôle :** Tu es un expert en psychologie des relations humaines.
 >
-> **상황 (Context):**
-> 아래는 내가 상대방과 나눈 짧은 대화 내용이야.
-> 대화: "나 오늘 너무 피곤해서 점심도 거르고 일했어 ㅠㅠ" -> "헐, 일 많았구나. 저녁엔 맛있는 거 꼭 챙겨 먹어!"
+> **Contexte :**
+> Voici un court extrait d'une conversation que j'ai eue avec quelqu'un.
+> Échange : "Je suis tellement fatigué(e) aujourd'hui, j'ai même sauté le déjeuner pour travailler ㅠㅠ" -> "Ah mince, tu as eu beaucoup de boulot. Assure-toi de manger un bon truc ce soir !"
 >
-> **요청 (Task):**
-> 이 대답을 한 사람은 사고형(T)과 감정형(F) 중 어느 쪽에 더 가까운지 분석해 줘. 그리고 내가 다음 답변으로 어떻게 말해야 상대방과 더 깊은 유대감을 형성할 수 있을지 2가지 예시를 제안해 줘.
+> **Tâche :**
+> Analyse si la personne qui a répondu a plutôt un profil axé sur la Pensée (T - Thinking) ou sur le Sentiment (F - Feeling). Ensuite, propose-moi 2 exemples de réponses que je pourrais envoyer pour créer un lien émotionnel plus profond avec cette personne.
 
 <br>
 
-### 🥇 Pro Version (전문가형: 16가지 유형 정밀 추론 및 공략법)
+### 🥇 Version Pro (Expert Version)
 
-단편적인 성향을 넘어 종합적인 MBTI 분석과 구체적인 관계 발전 전략이 필요할 때 사용하는 심층 프롬프트입니다. 대화 내용을 길게 넣을수록 정확도가 올라갑니다.
+Ce prompt approfondi est idéal lorsqu'une analyse MBTI complète et une stratégie de développement relationnel sont nécessaires. Plus vous fournissez de texte, plus l'analyse sera précise.
 
-> **역할 (Role):** 너는 10년 차 프로 파일러이자 MBTI 행동 심리학 전문가야. 텍스트의 미세한 뉘앙스와 문맥을 분석하여 사람의 성격을 정확히 추론하는 능력이 있어.
+> **Rôle (Role) :** Tu es un profiler chevronné avec 10 ans d'expérience et un expert en psychologie comportementale MBTI. Tu possèdes un talent exceptionnel pour déduire avec précision la personnalité d'un individu en analysant les moindres nuances et le contexte d'un texte.
 >
-> **상황 (Context):**
-> 아래는 내가 상대방('B')과 나눈 대화 내용이야.
+> **Contexte (Context) :**
+> Voici une conversation que j'ai eue avec mon interlocuteur ('B').
 >
-> 대화 내용:
-> `[여기에 카톡 대화 내용을 복사해서 붙여넣으세요. 예: A: 이번 주말에 뭐 해? B: 아직 계획 없는데. 무슨 전시회? 어디서 해? A: 그냥 만나서 정할까? B: 미리 예매해야 할인받지, 동선도 짜야 하고.]`
+> Contenu de la conversation :
+> `[Collez ici le contenu de votre conversation. Exemple : A : Tu fais quoi ce week-end ? B : Pas encore de plan. C'est quoi comme expo ? C'est où ? A : On se rejoint et on décide sur place ? B : Faut réserver à l'avance pour avoir des réduc, et faut aussi qu'on prévoie notre itinéraire.]`
 >
-> **요청 (Task):**
-> 위 대화를 바탕으로 'B'의 MBTI 성격 유형을 심층 분석해 줘.
+> **Tâche (Task) :**
+> En te basant sur cet échange, réalise une analyse psychologique approfondie du type MBTI de 'B'.
 >
-> 1. **4가지 척도 분석:** 대화 내용을 근거로 아래 4가지 지표가 각각 어느 쪽에 가까운지 퍼센트(%)와 함께 추론해 줘.
->    - E(외향) vs I(내향): 주도적인가, 수동/반응적인가?
->    - S(감각) vs N(직관): 현실/구체적인가, 추상/개념적인가?
->    - T(사고) vs F(감정): 논리/팩트 중심인가, 공감/관계 중심인가?
->    - J(판단) vs P(인식): 계획/통제적인가, 즉흥/유연한가?
-> 2. **최종 결론:** 가장 확률이 높은 최종 MBTI 유형 하나를 제시해 줘.
-> 3. **맞춤형 공략법:** B와 같은 성향의 사람과 성공적으로 관계를 발전시키기 위해 내가 반드시 지켜야 할 '대화 꿀팁' 3가지와 절대 피해야 할 '금기어' 1가지를 알려줘.
+> 1. **Analyse des 4 dimensions :** En t'appuyant sur des éléments concrets de la conversation, évalue avec des pourcentages (%) de quel côté penche chaque indicateur :
+>    - E (Extraversion) vs I (Introversion) : Est-il proactif ou passif/réactif ?
+>    - S (Sensation) vs N (Intuition) : Est-il pragmatique/concret ou abstrait/conceptuel ?
+>    - T (Pensée) vs F (Sentiment) : Est-il centré sur la logique/les faits ou sur l'empathie/les relations ?
+>    - J (Jugement) vs P (Perception) : Est-il organisé/dans le contrôle ou spontané/flexible ?
+> 2. **Conclusion finale :** Donne-moi le type MBTI final le plus probable.
+> 3. **Stratégie d'approche sur mesure :** Pour développer une relation réussie avec une personne de ce profil, donne-moi 3 « astuces de communication » (Do's) indispensables à respecter et 1 « sujet tabou » (Don't) à éviter absolument.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 정보가 부족해 확신할 수 없는 지표가 있다면, 무리하게 추측하지 말고 "판단 보류"라고 명시할 것.
-> - 분석 결과는 가독성 높은 마크다운 형식으로 정리해서 출력할 것.
+> - Si les informations sont insuffisantes pour déterminer un indicateur avec certitude, ne fais pas de suppositions hasardeuses et indique clairement "Jugement suspendu".
+> - Présente les résultats sous forme de Markdown bien structuré et facile à lire.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Expert (Insight)
 
-이 프롬프트의 진정한 가치는 단순히 상대의 MBTI를 '맞히는' 것에 있지 않고, 상대를 **'깊이 이해하는'** 데 있습니다.
+La véritable valeur de ce prompt ne réside pas dans le fait de simplement "deviner" le MBTI de l'autre, mais bien dans la capacité à le **comprendre en profondeur**.
 
-실제 현업이나 일상에서 우리는 텍스트만으로 상대의 의도를 오해하는 경우가 많습니다. 예를 들어, 상대방이 끊임없이 질문을 던질 때 누군가는 이를 '나를 귀찮게 취조한다'고 느끼지만, AI의 객관적인 시선(예: "J 성향이 강해 불확실성을 통제하려는 자연스러운 행동입니다")을 빌리면 "아, 이 사람은 철저한 계획을 좋아하는 성격이구나" 하고 단번에 오해를 풀 수 있습니다. 상대의 언어 방식을 이해하면 감정 소모를 줄이고 훨씬 더 성숙한 대화를 이끌어갈 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 텍스트 몇 줄만으로 정말 MBTI를 정확히 알 수 있나요?**
-  - A: 짧은 대화 한두 마디로는 한계가 있습니다. 하지만 특정 상황(예: 갈등 상황, 약속을 잡는 과정, 고민 상담 등)이 담긴 A4 반 장 분량 이상의 대화라면 AI는 꽤 높은 적중률을 보여줍니다. 특히 T/F와 J/P 성향은 대화 패턴에 명확히 드러나기 때문에 추론의 신뢰도가 매우 높습니다.
-
-- **Q: 제 카톡 말투를 넣어서 제 자신의 객관적인 이미지를 평가받아도 되나요?**
-  - A: 물론입니다! 오히려 자기 객관화(Metacognition)를 위한 훌륭한 도구가 됩니다. 본인이 자주 쓰는 이메일이나 메신저 대화를 넣고 "사람들이 내 말투를 어떻게 느낄까? 개선점은?"이라고 물어보시면, 본인도 몰랐던 커뮤니케이션의 맹점을 발견할 수 있습니다.
+Dans la vie professionnelle comme personnelle, nous interprétons souvent mal les intentions d'autrui à travers de simples textes. Par exemple, face à quelqu'un qui pose beaucoup de questions, vous pourriez vous sentir "interrogé et harcelé". Mais avec l'éclairage objectif de l'IA (ex. : "C'est un comportement naturel pour un profil 'J' qui cherche à contrôler l'incertitude"), vous réalisez instantanément : "Ah, cette personne a simplement besoin de planifier les choses". Comprendre le langage de l'autre permet d'économiser une énergie émotionnelle précieuse et de mener des conversations beaucoup plus matures et apaisées.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1. **4가지 척도의 개별적 근거 요구 (Chain-of-Thought):** 단순히 "MBTI가 뭐야?"라고 묻지 않고 E/I, S/N 등 4가지 지표를 각각 쪼개어 판단의 '근거'를 대화 속에서 찾도록 강제했습니다. 이 과정이 AI의 논리적 사고(추론) 능력을 극대화하여 환각(Hallucination)을 줄여줍니다.
-2. **실행 가능한 액션 플랜 (Actionable Advice) 제시:** 성격 분석에서 그치지 않고, 그 성격에 맞춘 '공략법(Do)'과 '금기어(Don't)'를 요구했습니다. 이를 통해 단순한 심리테스트를 넘어 실제 관계 개선에 즉시 적용할 수 있는 실용성을 확보했습니다.
+- **Q : Peut-on vraiment déterminer un profil MBTI précis avec seulement quelques lignes de texte ?**
+  - R : Il est difficile d'être catégorique avec un seul échange. Cependant, si vous fournissez l'équivalent d'une demi-page d'une conversation liée à une situation spécifique (une dispute, la planification d'un rendez-vous, une confidence), l'IA affiche un taux de réussite bluffant. Les dimensions T/F et J/P, en particulier, transparaissent très clairement dans les schémas de communication.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (오해와 단절)
-
-- **상황:** 데이트 코스를 제안했는데 상대방이 구체적인 정보만 꼬치꼬치 묻는 상황.
-- **나의 속마음:** _"왜 자꾸 캐묻지? 나랑 만나는 게 피곤하고 싫은가 보네."_ (서운함 누적, 결국 연락 빈도 감소 💔)
-
-### ✅ After (이해와 공략)
-
-- **AI 분석 결과:** _"상대방은 'ESTJ' 성향이 강합니다. 감정이 상한 것이 아니라, 효율을 중시하여 불확실한 동선을 미리 통제하고 싶어 하는 방어 기제입니다. 감정적 서운함을 토로하기보다 확실하고 구체적인 시간표를 제시해 주면 매우 깊은 안정감과 호감을 느낄 것입니다."_
-- **나의 대처:** _"아하! 그럼 A코스부터 B코스까지의 맛집 리스트와 이동 시간을 정리해서 보내줘야겠다."_
-- **결과:** 상대방으로부터 "오, 준비성 완벽한데? 진짜 센스 있다"라는 긍정적인 피드백을 받으며 관계 진전 💖
+- **Q : Puis-je utiliser mes propres messages pour obtenir une évaluation objective de mon image ?**
+  - R : Absolument ! C'est même un excellent outil de métacognition. Soumettez vos propres e-mails ou messages et demandez : « Comment les gens perçoivent-ils mon ton ? Quels sont mes axes d'amélioration ? » Vous découvrirez des angles morts de votre communication que vous ne soupçonniez pas.
 
 ---
 
-## 🎯 결론
+## 🧬 Décryptage du Prompt (Why it works?)
 
-사람의 마음은 언제나 복잡하고, 우리는 종종 내 기준표로 타인을 채점하려다 관계를 그르치곤 합니다. MBTI는 사람을 완벽히 규정짓는 정답지가 아니라, 서로의 '다름'을 인정하기 위한 훌륭한 번역기입니다.
+1. **Exigence de preuves pour les 4 dimensions (Chain-of-Thought) :** Au lieu de demander brutalement « Quel est son MBTI ? », le prompt force l'IA à chercher des « preuves » contextuelles pour chaque axe (E/I, S/N, etc.). Ce processus décompose la réflexion et maximise les capacités de raisonnement logique de l'IA, réduisant drastiquement les risques d'hallucination.
+2. **Plan d'action applicable (Actionable Advice) :** L'analyse ne s'arrête pas au profilage psychologique. Elle exige des conseils pratiques et ciblés (les « Do's » et les « Don'ts »). Cela transforme un simple test de personnalité ludique en un véritable outil pragmatique pour améliorer vos relations instantanément.
 
-도무지 속을 알 수 없는 그 사람 때문에 답답함을 느끼고 있다면, 조용히 AI 돋보기로 대화의 이면을 들여다보세요. **상대방의 언어를 이해하는 순간, 진정한 소통은 시작됩니다.** 🍷
+---
+
+## 📊 La Preuve : Avant & Après
+
+### ❌ Avant (Incompréhension et Rupture)
+
+- **Situation :** Vous proposez un itinéraire pour un rendez-vous et l'autre personne ne fait que poser des questions sur les moindres détails pratiques.
+- **Ce que vous pensez :** _« Pourquoi il/elle me pose autant de questions ? Il/elle n'a pas envie de me voir, ça le/la saoule ? »_ (Accumulation de rancœur, qui finit par espacer les messages 💔)
+
+### ✅ Après (Compréhension et Séduction)
+
+- **Analyse de l'IA :** _« Votre interlocuteur présente de forts traits "ESTJ". Ce n'est pas qu'il est contrarié, mais il a besoin d'optimiser son temps et de contrôler l'incertitude par pur mécanisme de défense. Au lieu d'exprimer de la frustration, proposez-lui un emploi du temps clair et précis. Il se sentira en confiance et sera beaucoup plus attiré par vous. »_
+- **Votre réaction :** _« Eurêka ! Je vais lui envoyer une liste claire des restaurants entre l'étape A et l'étape B, avec les temps de trajet estimés. »_
+- **Résultat :** L'autre vous répond : "Wow, tu as tout prévu ! Tu gères grave." La relation franchit un cap 💖
+
+---
+
+## 🎯 Conclusion
+
+L'esprit humain est complexe et nous avons trop souvent tendance à noter les autres selon notre propre grille de lecture, ce qui finit par gâcher nos relations. Le MBTI n'est pas une étiquette absolue pour définir quelqu'un, mais plutôt un excellent traducteur pour accepter nos « différences ».
+
+Si vous vous sentez frustré(e) par une personne indéchiffrable, sortez discrètement la loupe de l'IA pour examiner l'envers du décor. **C'est lorsque l'on comprend la langue de l'autre que la véritable communication commence.** 🍷

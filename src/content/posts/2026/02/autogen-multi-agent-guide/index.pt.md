@@ -5,136 +5,136 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "MS가 만든 멀티 에이전트 프레임워크 AutoGen. 개발자 봇과 관리자 봇이 서로 피드백을 주고받으며 코드를 완성하는 자동화 협업 구축 가이드입니다."
+description: "O AutoGen, framework multi-agente da Microsoft. Um guia para construir uma colaboração automatizada onde bots desenvolvedores e gerentes trocam feedback para concluir o código."
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 
-# 🤖 AutoGen 입문: AI 에이전트끼리 대화하게 만들기
+# 🤖 Introdução ao AutoGen: Fazendo Agentes de IA Conversarem Entre Si
 
-- **🎯 추천 대상:** 혼자 일하기 버거운 1인 개발자, 복잡한 업무를 자동화 시스템으로 구축하고 싶은 테크 긱(Tech Geek)
-- **⏱️ 소요 시간:** 20분 (환경 설정 및 데모 실행)
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (에이전트 간 논리적 대화 품질이 매우 중요함)
+- **🎯 Público-Alvo:** Desenvolvedores solo sobrecarregados, Tech Geeks que desejam construir sistemas de automação para tarefas complexas.
+- **⏱️ Tempo Estimado:** 20 minutos (Configuração do ambiente e execução da demonstração)
+- **🤖 Modelo Recomendado:** GPT-4o, Claude 3.5 Sonnet (A qualidade da conversa lógica entre os agentes é crucial)
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"AI 하나에게 모든 걸 맡기니 한계가 보이지 않나요? 기획하는 AI, 코딩하는 AI, 검수하는 AI로 당신만의 완벽한 가상 개발팀을 꾸려보세요."_
+> _"Você não vê os limites de deixar tudo nas mãos de uma única IA? Monte a sua própria equipe virtual de desenvolvimento perfeita com uma IA que planeja, uma que codifica e outra que revisa."_
 
-마이크로소프트(MS)가 개발한 **AutoGen**은 이러한 상상을 현실로 만들어주는 강력한 멀티 에이전트 프레임워크입니다. 여러 개의 AI 페르소나를 생성하고 하나의 작업 공간에 배치하면, 그들끼리 스스로 대화하고 피드백을 주고받으며 최종 결과물을 완성해 냅니다. 진정한 의미의 **'자율 협업(Autonomous Collaboration)'** 시대가 열린 것입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **역할 분담의 마법:** 복잡한 단일 프롬프트를 기획, 개발, 리뷰 등 역할별 에이전트로 쪼개어 작업 퀄리티를 극대화합니다.
-2. **코드 자율 실행 (Code Execution):** AI가 작성한 코드를 컨테이너 환경에서 직접 실행하고, 발생한 에러를 스스로 디버깅합니다.
-3. **무한 루프 제어:** 인간 관리자(Human-in-the-loop)의 개입 시점을 설정하여 토큰 낭비를 막고 방향성을 통제할 수 있습니다.
+O **AutoGen**, desenvolvido pela Microsoft (MS), é um poderoso framework multi-agente que transforma essa imaginação em realidade. Ao criar várias personas de IA e colocá-las em um único espaço de trabalho, elas conversam, trocam feedback e finalizam o produto sozinhas. A verdadeira era da **'Colaboração Autônoma'** começou.
 
 ---
 
-## 🚀 해결책: "멀티 에이전트 팀 구축 프롬프트"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (코딩 듀오: 개발자 & 실행자)
+1. **A Magia da Divisão de Papéis:** Maximize a qualidade do trabalho dividindo um prompt único e complexo entre agentes com funções específicas: planejamento, desenvolvimento, revisão, etc.
+2. **Execução Autônoma de Código:** A IA executa diretamente o código que escreveu em um ambiente de contêiner e depura os erros que surgem por conta própria.
+3. **Controle de Loop Infinito:** Ao configurar o momento da intervenção do gerente humano (Human-in-the-loop), você evita o desperdício de tokens e controla a direção do projeto.
 
-가장 기초적인 형태의 1:1 에이전트 상호작용 코드를 생성하는 프롬프트입니다.
+---
 
-> **역할:** 너는 `[파이썬 시니어 개발자]`야.
+## 🚀 Solução: "Prompt para Construção de Equipe Multi-Agente"
+
+### 🥉 Basic Version (Duo de Programação: Desenvolvedor & Executor)
+
+Este é um prompt que gera um código de interação 1:1 entre agentes na sua forma mais básica.
+
+> **Papel:** Você é um `[Desenvolvedor Python Sênior]`.
 >
-> **요청:** AutoGen을 사용하여 두 명의 에이전트가 협업하는 파이썬 스크립트를 작성해 줘.
+> **Tarefa:** Escreva um script em Python usando o AutoGen onde dois agentes colaboram entre si.
 >
-> 1. **AssistantAgent (Coder):** 파이썬 코드를 작성하는 역할.
-> 2. **UserProxyAgent (Executor):** Coder가 작성한 코드를 로컬 환경에서 실행하고, 그 결과를 다시 Coder에게 피드백하는 역할.
+> 1. **AssistantAgent (Coder):** O papel de escrever o código em Python.
+> 2. **UserProxyAgent (Executor):** O papel de executar o código escrito pelo Coder no ambiente local e enviar o feedback dos resultados de volta ao Coder.
 >
-> **목표:** '1부터 100까지의 숫자 중 소수(Prime Number)를 찾아 txt 파일로 저장'하는 과제를 두 에이전트가 완수하도록 설정해.
+> **Objetivo:** Configure os dois agentes para completarem a tarefa de 'encontrar números primos (Prime Numbers) entre 1 e 100 e salvá-los em um arquivo txt'.
 
 <br>
 
-### 🥇 Pro Version (가상 IT 기업 구축: PM, Dev, QA)
+### 🥇 Pro Version (Construindo uma Empresa de TI Virtual: PM, Dev, QA)
 
-실제 실무 환경과 유사한 3인 체제의 그룹 채팅(Group Chat) 시스템을 구축합니다.
+Constrói um sistema de bate-papo em grupo (Group Chat) com 3 membros, semelhante a um ambiente de trabalho real.
 
-> **역할 (Role):** 너는 `[마이크로소프트 출신의 AutoGen 프레임워크 아키텍트]`야.
+> **Papel (Role):** Você é um `[Arquiteto do Framework AutoGen com experiência na Microsoft]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 혼자서 토이 프로젝트를 진행하기엔 시간이 부족하여, AI 에이전트로 구성된 가상 개발팀을 구축하려 해.
-> - 목표: 파이썬 기반의 간단한 '스네이크 웹 게임(Snake Game)'을 기획부터 테스트까지 자동화하는 것.
+> - Cenário: Não tenho tempo suficiente para desenvolver um projeto pessoal sozinho, então quero construir uma equipe de desenvolvimento virtual composta por agentes de IA.
+> - Objetivo: Automatizar desde o planejamento até o teste de um simples 'Jogo da Cobrinha (Snake Game)' baseado em Python.
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> AutoGen의 `GroupChat`과 `GroupChatManager`를 활용하여 다음 3명의 에이전트가 협업하는 완전한 파이썬 코드를 작성해 줘.
+> Utilizando o `GroupChat` e o `GroupChatManager` do AutoGen, escreva o código Python completo onde os 3 agentes a seguir irão colaborar:
 >
-> 1. **PM (Product Manager):** 게임의 핵심 규칙과 UI/UX 기획을 담당하고 작업 지시를 내림.
-> 2. **Coder (Developer):** PM의 기획을 바탕으로 HTML/CSS/JS 코드를 작성함.
-> 3. **Reviewer (QA/Critic):** Coder의 코드를 검토하여 버그나 로직의 허점을 찾아내고 수정 방향을 비평함.
+> 1. **PM (Product Manager):** Responsável por planejar as regras principais do jogo, UI/UX e dar as instruções de trabalho.
+> 2. **Coder (Developer):** Escreve os códigos HTML/CSS/JS com base no planejamento do PM.
+> 3. **Reviewer (QA/Critic):** Revisa o código do Coder, encontra bugs ou falhas de lógica e faz críticas direcionando as correções.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 워크플로우 순서: PM의 기획안 제시 ➔ Coder의 코드 작성 ➔ Reviewer의 피드백 ➔ Coder의 코드 수정 루프가 명확히 형성되어야 해.
-> - 최대 대화 턴 수(`max_round`)는 10회로 제한해 줘.
-> - 코드는 즉시 실행할 수 있도록 에러 없이 완성된 형태로 제공하고, 각 에이전트의 `system_message`를 역할에 맞게 아주 구체적으로 설정해 줘.
+> - Fluxo de Trabalho: Deve haver um loop claro: PM apresenta o plano ➔ Coder escreve o código ➔ Reviewer dá feedback ➔ Coder corrige o código.
+> - Limite o número máximo de turnos de conversa (`max_round`) para 10 vezes.
+> - Forneça o código em uma forma completa e sem erros, pronto para ser executado imediatamente. Configure o `system_message` de cada agente de forma bem específica, de acordo com seu papel.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-AutoGen의 진정한 파괴력은 LLM의 텍스트 생성 능력과 **'코드 실행(Code Execution)'** 기능이 결합되었을 때 나타납니다. 기존에는 챗봇이 코드를 짜주면 인간이 직접 복사해서 IDE에 붙여넣고, 에러가 나면 다시 에러 로그를 긁어다 챗봇에게 물어보는 번거로운 과정을 거쳐야 했습니다.
+O verdadeiro poder destrutivo do AutoGen aparece quando a capacidade de geração de texto do LLM se combina com a função de **'Execução de Código (Code Execution)'**. Anteriormente, se o chatbot escrevesse um código, o humano precisava copiá-lo, colar na IDE e, se houvesse um erro, copiar o log de erro e perguntar ao chatbot novamente — um processo muito trabalhoso.
 
-하지만 `UserProxyAgent`를 도커(Docker) 컨테이너와 연결하면, AI가 스스로 코드를 돌려보고 에러 로그를 분석해 코드를 재작성합니다. 즉, 당신은 그저 AI들이 치열하게 일하며 디버깅하는 로그를 지켜보며 완성된 최종 결과물만 수확하면 됩니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: OpenAI API 대신 오픈소스 로컬 모델(Llama 3 등)도 연결할 수 있나요?**
-  - A: 네, 완벽하게 지원합니다. LM Studio나 Ollama를 활용하여 로컬 서버를 띄운 뒤, AutoGen의 `llm_config`에서 `base_url`을 로컬 API 주소로 변경해주면 토큰 비용 걱정 없이 무제한으로 에이전트 군단을 운영할 수 있습니다.
-
-- **Q: 에이전트들이 대화하다가 결론을 못 내고 무한 루프에 빠지면 어떻게 하나요?**
-  - A: 멀티 에이전트 시스템에서 가장 흔하게 겪는 문제입니다. `max_consecutive_auto_reply` 속성으로 최대 응답 횟수를 엄격하게 제한하거나, `human_input_mode="TERMINATE"` 설정을 통해 특정 키워드(예: "작업 완료")가 등장하면 즉시 대화를 멈추고 인간 관리자에게 제어권을 넘기도록 설계해야 합니다.
-
-- **Q: CrewAI 프레임워크와는 어떤 차이가 있나요?**
-  - A: AutoGen은 에이전트 간의 **'자유로운 대화(Conversation)'**와 코드 실행에 강점이 있습니다. 반면 CrewAI는 정해진 파이프라인과 **'프로세스(Process)'**를 순차적으로 수행하는 데 최적화되어 있습니다. 창의적인 문제 해결이나 코딩은 AutoGen이, 정형화된 리서치나 마케팅 업무는 CrewAI가 조금 더 유리합니다.
+No entanto, ao conectar o `UserProxyAgent` a um contêiner Docker, a IA executa o código por si mesma, analisa o log de erros e reescreve o código. Ou seja, você só precisa observar os logs da IA trabalhando duro e depurando, e depois colher o produto final concluído.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **인지적 과부하 분산 (Cognitive Load Distribution):** 하나의 프롬프트에 모든 기획과 코딩, 리뷰 조건을 때려 넣으면 AI가 중간 지시를 잊어버리는 현상(Lost in the middle)이 쉽게 발생합니다. 역할을 분리하고 각자에게 명확한 `system_message`를 부여하면, AI는 자신의 롤(Role)에만 온전히 집중하므로 퀄리티가 비약적으로 상승합니다.
-2. **비판적 사고 메커니즘 (Critic-in-the-loop):** 코드 작성자(Coder)와 비평가(Reviewer)를 분리한 것은 실제 실무 개발팀의 코드 리뷰 문화를 그대로 모방한 것입니다. LLM은 자신이 쓴 결과물을 스스로 객관적으로 비판하기 어려워하므로, 독립된 QA 에이전트를 두어 코드의 무결성을 강제로 끌어올립니다.
+- **Q: Posso conectar um modelo local de código aberto (como o Llama 3) em vez da API da OpenAI?**
+  - R: Sim, é perfeitamente suportado. Usando o LM Studio ou Ollama para iniciar um servidor local e alterando o `base_url` no `llm_config` do AutoGen para o endereço da API local, você pode operar seu exército de agentes ilimitadamente, sem se preocupar com o custo dos tokens.
+
+- **Q: O que eu faço se os agentes ficarem presos em um loop infinito conversando sem chegar a uma conclusão?**
+  - R: Esse é o problema mais comum em sistemas multi-agentes. Você deve projetar o sistema limitando estritamente o número máximo de respostas com o atributo `max_consecutive_auto_reply`, ou configurando `human_input_mode="TERMINATE"` para que a conversa pare imediatamente e o controle passe para o gerente humano quando uma palavra-chave específica (ex: "Tarefa concluída") aparecer.
+
+- **Q: Qual é a diferença para o framework CrewAI?**
+  - R: O AutoGen se destaca na **'Conversação (Conversation)'** livre entre agentes e na execução de código. Por outro lado, o CrewAI é otimizado para executar tarefas sequenciais e seguir **'Processos (Process)'** e pipelines predefinidos. O AutoGen é ligeiramente melhor para resolução criativa de problemas ou codificação, enquanto o CrewAI é mais vantajoso para tarefas padronizadas de pesquisa ou marketing.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Why it works?)
 
-### ❌ Before (단일 프롬프트 의존)
+1. **Distribuição da Carga Cognitiva (Cognitive Load Distribution):** Se você colocar todas as condições de planejamento, codificação e revisão em um único prompt, é fácil a IA esquecer as instruções do meio (Lost in the middle). Ao separar os papéis e dar a cada um um `system_message` claro, a IA foca inteiramente no seu próprio Papel (Role), aumentando a qualidade drasticamente.
+2. **Mecanismo de Pensamento Crítico (Critic-in-the-loop):** Separar o criador do código (Coder) do crítico (Reviewer) simula a cultura de revisão de código de uma equipe de desenvolvimento real. Como o LLM tem dificuldade em criticar objetivamente o seu próprio trabalho, ter um agente de QA independente força o aumento da integridade do código.
+
+---
+
+## 📊 Prova: Antes e Depois
+
+### ❌ Antes (Dependência de um único prompt)
 
 ```text
-[사용자] "뱀 게임 코드를 완벽하게 짜줘."
-[AI] (150줄짜리 코드 뱉음)
-[사용자] (브라우저에서 실행해봄) -> 동작 안 함. 콘솔 로그 복사.
-[사용자] "Uncaught TypeError: Cannot read properties of null... 이거 해결해 줘."
-[AI] (수정된 코드 뱉음) -> 이번엔 키보드 방향키가 안 먹힘. 또 질문.
-(결국 지쳐서 사용자가 직접 디버깅하거나 포기함 🤯)
+[Usuário] "Crie o código de um Jogo da Cobrinha perfeito."
+[IA] (Cospe 150 linhas de código)
+[Usuário] (Tenta executar no navegador) -> Não funciona. Copia o log do console.
+[Usuário] "Uncaught TypeError: Cannot read properties of null... resolve isso para mim."
+[IA] (Cospe código modificado) -> Desta vez as setas do teclado não funcionam. Pergunta novamente.
+(Eventualmente, o usuário fica exausto e depura sozinho ou desiste 🤯)
 ```
 
-### ✅ After (AutoGen 멀티 에이전트 팀)
+### ✅ Depois (Equipe Multi-Agente do AutoGen)
 
 ```text
-[PM] "뱀 게임의 기본 캔버스 크기는 400x400, 사과를 먹으면 뱀 길이가 늘어나게 기획합니다."
-[Coder] "PM의 기획에 맞춰 HTML과 JS 코드를 작성했습니다. (코드 첨부)"
-[UserProxy] (로컬 환경 자동 실행) "실행 중 15번째 줄에서 충돌 판정 에러가 발생했습니다."
-[Reviewer] "Coder님, 뱀이 자기 몸통에 닿았을 때의 예외 처리가 누락되었습니다. 배열 로직을 수정하세요."
-[Coder] "지적 감사합니다. 예외 처리를 추가하여 코드를 재작성했습니다. (수정된 코드 첨부)"
-[UserProxy] "성공적으로 실행되었습니다. 결과물을 'snake_game.html'로 저장했습니다."
-(사용자는 커피를 마시며 완성된 파일이 생성되는 것을 구경만 하면 됩니다 ☕️)
+[PM] "O tamanho padrão do canvas do Jogo da Cobrinha é 400x400. Planejo que o tamanho da cobra aumente ao comer a maçã."
+[Coder] "Escrevi o código HTML e JS de acordo com o planejamento do PM. (Código anexado)"
+[UserProxy] (Execução automática no ambiente local) "Durante a execução, ocorreu um erro de colisão na linha 15."
+[Reviewer] "Coder, faltou o tratamento de exceção para quando a cobra toca no próprio corpo. Corrija a lógica do array."
+[Coder] "Obrigado por apontar. Adicionei o tratamento de exceção e reescrevi o código. (Código modificado anexado)"
+[UserProxy] "Executado com sucesso. O resultado foi salvo em 'snake_game.html'."
+(O usuário apenas bebe café e observa o arquivo final ser gerado ☕️)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-더 이상 1인 개발의 외로움과 무한 디버깅의 고통을 혼자 감내할 필요가 없습니다. 약간의 파이썬 기초 지식과 API 키만 있다면, 24시간 지치지 않고 불평도 하지 않는 당신만의 정예 IT 부대를 창설할 수 있습니다.
+Você não precisa mais suportar sozinho a solidão de um desenvolvedor solo e a dor da depuração infinita. Com apenas um conhecimento básico de Python e uma chave de API, você pode criar suas próprias tropas de elite de TI, que não se cansam 24 horas por dia e não reclamam.
 
-이제 팀장님처럼 우아하게 작업 지시만 내리세요.
-**나머지 골치 아픈 코딩과 디버깅은 AutoGen의 에이전트들이 알아서 해결할 것입니다.** 🍷
+Agora, basta dar as ordens com elegância, como um gerente de equipe de verdade.
+**O resto do código e depuração chatos serão resolvidos automaticamente pelos agentes do AutoGen.** 🍷

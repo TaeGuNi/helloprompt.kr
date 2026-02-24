@@ -5,127 +5,126 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "멘탈 케어"
-description: "키보드만 잡으면 한숨부터 나오는 당신. MBI(Maslach Burnout Inventory) 기반으로 내 상태를 진단하고 처방받는 프롬프트."
+description: "Wenn Sie beim bloßen Anblick der Tastatur seufzen müssen. Ein Prompt, der Ihren Zustand basierend auf dem MBI (Maslach Burnout Inventory) diagnostiziert und Lösungen bietet."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 
-# 🩺 개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?
+# 🩺 Entwickler-Burnout-Selbstdiagnose: Bin ich faul oder krank?
 
-- **🎯 추천 대상:** "요즘 왜 이렇게 의욕이 없지?" 자책하는 개발자, 주말에 아무것도 안 하고 누워만 있는 직장인
-- **⏱️ 소요 시간:** 3분 (진단 및 처방)
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Zielgruppe:** Entwickler, die sich fragen: "Warum bin ich in letzter Zeit so unmotiviert?", Büroangestellte, die am Wochenende nur noch erschöpft im Bett liegen
+- **⏱️ Zeitaufwand:** 3 Minuten (Diagnose und Verschreibung)
+- **🤖 Empfohlenes Modell:** Alle konversationellen KIs (ChatGPT, Claude, Gemini etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Nutzen:** ⭐⭐⭐⭐☆
 
-> _"예전엔 밤새워 코딩해도 재밌었는데... 이젠 IDE 켜는 것조차 끔찍합니다. 제가 나태해진 걸까요?"_
+> _"Früher hat es Spaß gemacht, die ganze Nacht durchzucoden... Jetzt ist es schon eine Qual, die IDE auch nur zu öffnen. Bin ich einfach faul geworden?"_
 
-아니요, 나태해진 게 아니라 **마음의 배터리가 완전히 방전된 겁니다.** 번아웃(Burnout)은 단순한 피로가 아닙니다. 뇌가 파업을 선언한 의학적 상태에 가깝습니다. 혼자 자책하며 억지로 커피를 들이켜는 대신, AI 상담사에게 당신의 솔직한 상태를 털어놓고 객관적인 진단을 받아보세요. "힘내세요"라는 영혼 없는 위로 대신, 철저한 심리학적 척도에 기반한 구체적인 회복 처방전을 내려줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI를 10년 차 IT 전문 심리 상담사 페르소나로 설정한다.
-2. MBI(Maslach Burnout Inventory) 3가지 차원을 기준으로 현재 내 상태를 정밀 분석하게 한다.
-3. 막연한 휴식 권고가 아닌, 당장 내일부터 실천 가능한 '현실적인 개발자 맞춤형 루틴'을 처방받는다.
+Nein, Sie sind nicht faul geworden – **der Akku Ihrer Psyche ist schlichtweg komplett leer.** Burnout ist nicht einfach nur Erschöpfung. Es ist ein beinahe medizinischer Zustand, in dem Ihr Gehirn den Streik ausruft. Anstatt sich selbst Vorwürfe zu machen und sich mit noch mehr Kaffee zu zwingen, vertrauen Sie sich einem KI-Berater an und lassen Sie sich objektiv diagnostizieren. Statt leerer Phrasen wie "Kopf hoch!" erhalten Sie ein konkretes, auf fundierten psychologischen Skalen basierendes Rezept für Ihre Erholung.
 
 ---
 
-## 🚀 해결책: "Burnout Doctor Prompt"
+## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-### 🥉 Basic Version (간이 진단)
+1. Versetzen Sie die KI in die Rolle eines psychologischen IT-Fachberaters mit 10 Jahren Erfahrung.
+2. Lassen Sie Ihren aktuellen Zustand präzise anhand der drei Dimensionen des MBI (Maslach Burnout Inventory) analysieren.
+3. Erhalten Sie keine vagen Ruheempfehlungen, sondern realistische, auf den Entwickleralltag zugeschnittene Routinen, die Sie sofort umsetzen können.
 
-지금 내 상태가 심각한지 빠르게 가늠해보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[IT 전문 심리 상담사]`야.
-> **요청:** "나 요즘 코딩하는 게 너무 싫고 무기력해. 이게 단순 슬럼프인지 번아웃인지 5가지 핵심 질문을 던져서 진단해줘."
+## 🚀 Lösung: "Burnout Doctor Prompt"
+
+### 🥉 Basic Version (Schnelldiagnose)
+
+Verwenden Sie diese Version, wenn Sie schnell einschätzen möchten, ob Ihr aktueller Zustand kritisch ist.
+
+> **Rolle:** Du bist ein `[auf IT spezialisierter psychologischer Berater]`.
+> **Aufgabe:** "Ich habe in letzter Zeit absolut keine Lust mehr zu programmieren und fühle mich völlig antriebslos. Stelle mir 5 Schlüsselfragen, um zu diagnostizieren, ob das nur ein einfaches Tief oder ein echtes Burnout ist."
 
 <br>
 
-### 🥇 Pro Version (MBI 기반 정밀 분석)
+### 🥇 Pro Version (Detaillierte MBI-basierte Analyse)
 
-체계적인 분석과 실질적인 솔루션이 필요할 때 사용하세요.
+Verwenden Sie diese Version, wenn Sie eine systematische Analyse und konkrete, wirksame Lösungsansätze benötigen.
 
-> **역할 (Role):** 너는 10년 이상 IT 업계 종사자들의 멘탈 케어를 전담해 온 `[전문 심리 상담사]`야.
+> **Rolle (Role):** Du bist ein `[professioneller psychologischer Berater]`, der sich seit über 10 Jahren ausschließlich um die mentale Gesundheit von Fachkräften in der IT-Branche kümmert.
 >
-> **상황 (Context):**
+> **Kontext (Context):**
 >
-> - 배경: 나는 `[5]`년 차 `[백엔드 개발자]`야. 최근 `[잦은 야근과 무리한 프로젝트 일정]` 때문에 심신이 많이 지쳐있어.
-> - 증상: 코드를 짜도 성취감이 없고, 동료들과 메신저로 대화하는 것조차 버거워. 주말에는 아무것도 안 하고 누워만 있어.
+> - Hintergrund: Ich bin ein `[Backend-Entwickler]` mit `[5]` Jahren Berufserfahrung. In letzter Zeit bin ich aufgrund von `[häufigen Überstunden und unrealistischen Projektzeitplänen]` körperlich und mental extrem erschöpft.
+> - Symptome: Selbst wenn ich Code schreibe, verspüre ich kein Erfolgserlebnis mehr. Es fällt mir schwer, überhaupt über Messenger mit Kollegen zu kommunizieren. Am Wochenende liege ich nur noch erschöpft im Bett und tue gar nichts.
 >
-> **요청 (Task):**
+> **Aufgabe (Task):**
 >
-> 1. **심층 분석:** 내 증상을 심리학의 대표적인 번아웃 척도인 MBI의 3가지 차원(정서적 고갈, 비인격화, 성취감 저하)을 기준으로 분석해줘.
-> 2. **객관적 진단:** 현재 내 번아웃 위험도를 10점 만점 기준으로 수치화하여 평가해줘.
-> 3. **맞춤형 처방 (Prescription):** "무조건 쉬어라" 같은 비현실적인 조언 말고, 당장 내일 출근해서, 혹은 퇴근 직후에 실천할 수 있는 현실적인 '개발자 맞춤형 회복 루틴' 3가지를 구체적인 액션 플랜으로 제시해줘.
+> 1. **Tiefenanalyse:** Analysiere meine Symptome basierend auf den 3 Dimensionen des MBI (Maslach Burnout Inventory) – dem Standardmaßstab für Burnout in der Psychologie: emotionale Erschöpfung, Depersonalisation und reduzierte persönliche Leistungsfähigkeit.
+> 2. **Objektive Diagnose:** Bewerte mein aktuelles Burnout-Risiko objektiv auf einer Skala von 1 bis 10.
+> 3. **Maßgeschneiderte Verschreibung (Prescription):** Gib mir keine unrealistischen Ratschläge wie "Ruh dich einfach aus". Erstelle stattdessen eine realistische, auf Entwickler zugeschnittene "Erholungsroutine" mit 3 konkreten Aktionsplänen, die ich sofort morgen auf der Arbeit oder direkt nach Feierabend umsetzen kann.
 >
-> **제약사항 (Constraints):**
+> **Einschränkungen (Constraints):**
 >
-> - 지나치게 감상적이거나 영혼 없는 위로는 배제하고, 분석적이고 실용적인 톤을 유지해줘.
-> - 전문적인 의학적 진단을 대체할 수 없다는 면책 조항을 마지막에 짧게 덧붙여줘.
+> - Vermeide übermäßig sentimentale oder leere Floskeln. Behalte einen analytischen, professionellen und pragmatischen Tonfall bei.
+> - Füge am Ende einen kurzen Disclaimer hinzu, dass dies keine professionelle medizinische Diagnose ersetzen kann.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Kommentar des Autors (Insight)
 
-현업에서 수많은 동료들을 지켜본 결과, 번아웃은 대충 일하는 사람에게는 결코 오지 않습니다. 무언가에 치열하게 몰입하고 책임감을 가졌던 사람들에게만 찾아오는 일종의 '영광의 상처'와도 같죠.
+Aus der Beobachtung vieler Kollegen in der Praxis lässt sich eines klar sagen: Burnout trifft niemals diejenigen, die ihre Arbeit nur halbherzig erledigen. Es ist gewissermaßen eine "Narbenmedaille", die nur denjenigen verliehen wird, die sich mit Leidenschaft und hohem Verantwortungsbewusstsein einer Sache verschrieben haben.
 
-따라서 지금 무기력하다면 그것은 당신이 무능해서가 아니라, 너무 오랫동안 과속했기 때문입니다. 이 프롬프트의 진정한 가치는 단순히 상태를 진단하는 것을 넘어, **'내 잘못이 아니다'라는 객관적인 인식을 심어주는 데 있습니다.** AI가 건네는 차분하고 구조화된 분석을 읽어 내려가는 것만으로도, 막연했던 불안감과 자책감이 크게 줄어드는 경험을 하실 수 있을 겁니다. 당장 이번 주말, 딱 3분만 투자해서 스스로의 마음을 점검해 보세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI의 심리 진단 결과를 정말 믿어도 되나요?**
-  - A: AI는 전문의를 대체할 수 없습니다. 하지만 이 프롬프트는 실제 심리학에서 사용하는 MBI(Maslach Burnout Inventory) 프레임워크를 기반으로 작동하도록 설계되었기 때문에, 현재 내 상태의 심각성을 가늠하는 훌륭한 '1차 스크리닝 도구'로는 충분히 가치가 있습니다.
-
-- **Q: 처방전으로 받은 루틴이 너무 사소해 보이는데요?**
-  - A: 번아웃 상태에서는 의지력 자체가 고갈되어 있습니다. "매일 1시간 헬스장 가기" 같은 거창한 목표는 오히려 독이 됩니다. "모니터 밝기 낮추기", "점심시간 10분 햇볕 쬐기" 같은 아주 사소하고 실천 가능한 마이크로 루틴부터 시작하는 것이 회복의 핵심입니다.
-
-- **Q: 결과가 너무 심각하게 나오면 어떻게 해야 하죠?**
-  - A: 진단 결과 위험도가 8점 이상으로 높게 나오고 일상생활에 지장이 있다면, AI의 조언에 머물지 말고 반드시 사내 심리 상담 프로그램(EAP)이나 외부 전문의를 찾아가셔야 합니다. 회사에 휴가를 요청할 때도 AI의 객관적 분석 결과를 참고하면 도움이 됩니다.
+Wenn Sie sich also gerade antriebslos fühlen, liegt das nicht an Ihrer Inkompetenz, sondern daran, dass Sie zu lange auf der Überholspur gefahren sind. Der wahre Wert dieses Prompts liegt nicht nur in der Diagnose Ihres Zustands, sondern darin, Ihnen die objektive Erkenntnis zu vermitteln: **"Es ist nicht meine Schuld."** Allein das Lesen der ruhigen, strukturierten Analyse der KI kann das unbestimmte Gefühl von Angst und Selbstvorwürfen massiv lindern. Nehmen Sie sich dieses Wochenende einfach 3 Minuten Zeit und überprüfen Sie den Status Ihres inneren Systems.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1.  **과학적 프레임워크 적용 (MBI):** AI에게 단순히 진단을 요구하지 않고, '정서적 고갈', '비인격화', '성취감 저하'라는 명확한 심리학적 척도를 강제했습니다. 이로 인해 AI가 뻔한 위로 대신 논리적이고 입체적인 분석을 내놓게 됩니다.
-2.  **현실적인 제약조건 (Constraints):** 개발자들의 성향과 현실을 고려하여 "무조건 푹 쉬세요"라는 식의 불가능한 조언을 사전에 차단하고, 당장 실천 가능한 '마이크로 액션 플랜'을 요구하여 효용성을 극대화했습니다.
+- **F: Kann ich den psychologischen Diagnoseergebnissen der KI wirklich vertrauen?**
+  - A: Eine KI kann niemals einen Facharzt ersetzen. Da dieser Prompt jedoch so konzipiert ist, dass er auf dem in der realen Psychologie verwendeten MBI-Framework (Maslach Burnout Inventory) basiert, eignet er sich hervorragend als "erstes Screening-Tool", um den Ernst Ihrer aktuellen Lage abzuschätzen.
+
+- **F: Die als Rezept erhaltenen Routinen scheinen mir zu trivial zu sein?**
+  - A: In einem Burnout-Zustand ist die Willenskraft selbst erschöpft. Großspurige Ziele wie "Jeden Tag 1 Stunde ins Fitnessstudio gehen" wirken dann eher wie Gift. Der Schlüssel zur Genesung liegt darin, mit winzigen, machbaren Mikro-Routinen zu beginnen – wie "Die Bildschirmhelligkeit reduzieren" oder "In der Mittagspause 10 Minuten Sonne tanken".
+
+- **F: Was soll ich tun, wenn das Ergebnis zu alarmierend ausfällt?**
+  - A: Wenn Ihr Risiko mit 8 oder höher bewertet wird und Ihr Alltag beeinträchtigt ist, sollten Sie es nicht bei den Ratschlägen der KI belassen. Suchen Sie unbedingt das psychologische Beratungsprogramm (EAP) Ihres Unternehmens oder einen externen Facharzt auf. Die objektive Analyse der KI kann auch sehr hilfreich sein, wenn Sie bei Ihrem Arbeitgeber eine Auszeit beantragen müssen.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie des Prompts (Why it works?)
 
-### ❌ Before (자기 착취 모드)
+1.  **Anwendung eines wissenschaftlichen Frameworks (MBI):** Anstatt die KI einfach nur um eine Diagnose zu bitten, wurden ihr klare psychologische Maßstäbe aufgezwungen: 'Emotionale Erschöpfung', 'Depersonalisation' und 'Reduzierte persönliche Leistungsfähigkeit'. Dies zwingt die KI dazu, logische und vielschichtige Analysen anstelle von banalen Trostworten zu liefern.
+2.  **Realistische Einschränkungen (Constraints):** Unter Berücksichtigung der Neigungen und Realitäten von Entwicklern wurden unmögliche Ratschläge wie "Ruhen Sie sich einfach gut aus" von vornherein blockiert. Durch die Forderung nach sofort umsetzbaren 'Mikro-Aktionsplänen' wurde der praktische Nutzen maximiert.
+
+---
+
+## 📊 Beweis: Vorher & Nachher (Before & After)
+
+### ❌ Vorher (Modus der Selbstausbeutung)
 
 ```text
-나: "아, 요즘 진짜 코드 한 줄 치기가 싫네. 집중력도 떨어지고. 내가 요새 너무 해이해졌나 봐.
-정신 차리게 핫식스 하나 더 마시고 빡코딩 해야겠다. 남들은 다 잘하는데 나만 왜 이러지?"
+Ich: "Ah, in letzter Zeit habe ich wirklich keine Lust, auch nur eine einzige Zeile Code zu schreiben. Meine Konzentration lässt auch nach. Wahrscheinlich lasse ich mich gerade zu sehr hängen. Ich sollte noch einen Energy-Drink trinken und mich zusammenreißen. Alle anderen schaffen es doch auch, warum bin ich so?"
 
-(결과: 수면 부족 -> 집중력 추가 하락 -> 극심한 자기 혐오 및 번아웃 악화 📉)
+(Ergebnis: Schlafmangel -> Weiterer Konzentrationsverlust -> Extreme Selbstverachtung und Verschlimmerung des Burnouts 📉)
 ```
 
-### ✅ After (자기 수용 및 회복 모드)
+### ✅ Nachher (Modus der Selbstakzeptanz und Erholung)
 
 ```text
-AI: "분석 결과, 현재 당신의 번아웃 위험도는 8.5/10점 수준입니다. 특히 '정서적 고갈'이 심각합니다.
-이는 나태함이 아니라 시스템 과부하를 막기 위한 뇌의 방어 기제입니다. 자책할 필요가 전혀 없습니다.
+KI: "Die Analyse zeigt, dass Ihr aktuelles Burnout-Risiko bei 8,5 von 10 Punkten liegt. Besonders die 'emotionale Erschöpfung' ist gravierend.
+Dies ist keine Faulheit, sondern ein Schutzmechanismus Ihres Gehirns, um eine Systemüberlastung zu verhindern. Es gibt absolut keinen Grund für Selbstvorwürfe.
 
-당장 실천할 마이크로 루틴:
-1. 슬랙 알림을 1시간 단위로 몰아서 확인하기
-2. 퇴근길 15분간 이어폰 빼고 주변 소리 들으며 걷기..."
+Mikro-Routinen für die sofortige Umsetzung:
+1. Slack-Benachrichtigungen bündeln und nur einmal pro Stunde checken.
+2. Auf dem Heimweg 15 Minuten lang ohne Kopfhörer spazieren gehen und auf die Umgebungsgeräusche achten..."
 
-(결과: 막연한 자책감을 덜어내고, 아주 작은 행동 변화부터 시작하여 점진적인 멘탈 회복 🧘)
+(Ergebnis: Linderung der unbestimmten Selbstvorwürfe und schrittweise mentale Erholung, beginnend mit kleinsten Verhaltensänderungen 🧘)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-최고 사양의 서버도 트래픽이 몰리면 디스크와 CPU가 과부하되어 다운됩니다. 하물며 복잡한 감정을 지닌 인간의 뇌는 오죽할까요.
-당신의 마음에도 반드시 쿨링 타임이 필요합니다.
+Selbst der leistungsstärkste Server stürzt ab, wenn bei einem Traffic-Anstieg Festplatte und CPU überlastet werden. Wie viel mehr gilt das für das menschliche Gehirn mit seinen komplexen Emotionen?
+Auch Ihre Psyche braucht zwingend eine Abkühlphase (Cooling Time).
 
-지금 하던 코딩을 잠시 멈추고, 스스로에게 물어보세요.
-**"내 마음의 서버는 지금 안녕한가요?"** 🍷
+Legen Sie das Coding für einen Moment beiseite und fragen Sie sich selbst:
+**"Ist der Server meiner Seele gerade online und gesund?"** 🍷

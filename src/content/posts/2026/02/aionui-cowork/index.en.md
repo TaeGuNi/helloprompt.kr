@@ -2,134 +2,130 @@
 layout: ../../layouts/PostLayout.astro
 title: "AionUi: AI 에이전트를 위한 로컬 워크스페이스"
 date: 2026-02-13
-description: "Gemini CLI, Claude Code 등 터미널 기반 AI 코딩 에이전트의 블랙박스 문제를 해결하는 오픈소스 UI, AionUi를 소개합니다."
+description: "Introducing AionUi: an open-source UI that solves the black-box problem of terminal-based AI coding agents like Gemini CLI and Claude Code."
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---
 
-# 📝 AionUi: AI 에이전트를 위한 로컬 워크스페이스 구축하기
+# 📝 Building a Local Workspace for AI Agents with AionUi
 
-- **🎯 추천 대상:** 주니어 개발자, AI 코딩 도구(Gemini CLI, Claude Code 등)를 실무에 도입하려는 개발자
-- **⏱️ 소요 시간:** 10분 내외 (환경 구축 및 프롬프트 테스트)
-- **🤖 추천 모델:** Gemini CLI, Claude Code 등 터미널 기반 에이전트
+- **🎯 Target Audience:** Junior developers, engineers looking to integrate AI coding tools (Gemini CLI, Claude Code, etc.) into practical workflows
+- **⏱️ Time Required:** ~10 minutes (Environment setup & prompt testing)
+- **🤖 Recommended Models:** Terminal-based agents like Gemini CLI, Claude Code
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"터미널 창에 쉴 새 없이 올라가는 로그 스트림... 내 AI 에이전트가 지금 내 프로젝트를 망치고 있는 건 아닐까 불안하신 적 없나요?"_
+> _"Watching an endless stream of logs scroll by in the terminal... Have you ever felt that creeping anxiety that your AI agent might be quietly ruining your project?"_
 
-코딩 에이전트의 시대가 도래했습니다. 터미널에서 실행되는 **Gemini CLI**나 **Claude Code**와 같은 도구들은 단순한 자동완성을 넘어, 전체 프로젝트를 리팩토링하고 기능을 구현하는 자율적인 동료로 진화했습니다.
+The era of the coding agent is here. Tools running in the terminal, such as **Gemini CLI** and **Claude Code**, have evolved far beyond simple code completion—they are now autonomous teammates capable of refactoring entire projects and implementing complex features from scratch.
 
-하지만 CLI 도구들은 종종 심리적인 **"블랙박스"**처럼 느껴집니다. 텍스트 스트림만으로는 에이전트가 어떤 파일을 훑어보고 있는지, 전체 문맥을 어떻게 이해하고 있는지 한눈에 파악하기 어렵기 때문이죠. 이 불안감을 잠재우고 완벽한 협업 환경을 만들어줄 로컬 오픈소스 UI, **AionUi**와 이를 200% 활용하는 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **터미널의 한계 극복:** 텍스트 기반 에이전트의 활동을 직관적인 GUI 기반 "코워크(Cowork)" 환경으로 변환합니다.
-2. **실시간 모니터링:** 에이전트의 사고 과정과 파일 단위의 코드 Diff를 브라우저에서 실시간으로 시각화합니다.
-3. **100% 로컬 보안:** 외부 서버를 거치지 않고 오프라인(Local-First)으로 동작하여 기업의 소스코드 유출을 원천 차단합니다.
+However, these CLI tools often feel like psychological **"black boxes."** Relying on a fast-moving text stream makes it nearly impossible to grasp at a glance which files the agent is scanning or how it's interpreting your project's context. To eliminate this anxiety and create a flawless collaborative environment, let me introduce **AionUi**—a local, open-source UI—along with the exact prompts you need to leverage it at 200% capacity.
 
 ---
 
-## 🚀 해결책: "AionUi 투명성 확보 프롬프트"
+## ⚡️ TL;DR
 
-단순히 UI를 띄우는 것만으로는 부족합니다. 에이전트가 AionUi에서 보기 좋게, 그리고 안전하게 작업하도록 유도하는 전용 프롬프트가 필요합니다.
+1. **Overcome Terminal Limits:** Transforms the opaque activity of text-based agents into an intuitive, GUI-based "Cowork" environment.
+2. **Real-Time Monitoring:** Visually tracks the agent's thought process and file-level code diffs directly in your browser, in real time.
+3. **100% Local Security:** Operates completely offline (Local-First) without passing through external servers, fundamentally preventing enterprise source code leaks.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 에이전트에게 단일 작업을 지시하고 결과를 UI로 모니터링할 때 사용하세요.
+## 🚀 The Solution: "AionUi Transparency Prompt"
 
-> **역할:** 너는 `[시니어 개발자]`야.
-> **요청:** 현재 프로젝트의 `[특정 기능/버그]`를 해결해줘. 작업 전 반드시 어떤 파일을 수정할지 계획을 먼저 브리핑하고, 변경 사항은 AionUi에서 확인하기 쉽게 단계별로 출력해줘.
+Simply launching the UI isn't enough. You need a dedicated prompt to guide the agent to work cleanly and safely within AionUi.
+
+### 🥉 Basic Version
+
+Use this when you want to assign a single task quickly and monitor the results via the UI.
+
+> **Role:** You are a `[Senior Developer]`.
+> **Task:** Fix the `[Specific Feature/Bug]` in the current project. Before making any changes, you must brief me on exactly which files you plan to modify. Output your changes step-by-step so they are easy to verify in AionUi.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-대규모 리팩토링이나 복잡한 아키텍처 변경 등, 에이전트의 자율성을 높이되 통제력을 잃고 싶지 않을 때 사용하세요.
+Use this for large-scale refactoring or complex architectural changes, where you want to maximize the agent's autonomy without losing control.
 
-> **역할 (Role):** 너는 10년 차 `[웹 프론트엔드/백엔드]` 아키텍처 전문가이자 나의 코딩 파트너야.
->
-> **상황 (Context):**
->
-> - 배경: 현재 레거시 코드를 최신 스택으로 마이그레이션 중이며, 작업의 투명성을 위해 AionUi를 통해 너의 활동을 모니터링하고 있어.
-> - 목표: `[src/components]` 디렉토리의 구조를 재사용성이 높고 결합도가 낮게 리팩토링하는 것.
->
-> **요청 (Task):**
->
-> 1. **작업 계획 수립:** 코드를 수정하기 전에, 분석한 파일 목록과 수정 플랜을 마크다운 불릿 포인트로 요약해서 제시해.
-> 2. **단계별 실행:** 한 번에 모든 것을 바꾸지 말고, 논리적인 단위(예: UI 컴포넌트 분리 -> 상태 관리 연결 -> 테스트 코드 작성)로 쪼개서 작업을 진행해.
-> 3. **명시적 보고:** 각 단계가 끝날 때마다 어떤 파일의 몇 번째 라인이 어떻게 변경되었는지 명확히 알 수 있도록 커밋 메시지 스타일로 보고해.
->
-> **제약사항 (Constraints):**
->
-> - 기존의 핵심 비즈니스 로직은 절대 건드리지 마.
-> - 새로운 라이브러리를 추가해야 할 경우, 반드시 나에게 먼저 필요성과 대안을 설명하고 허락을 구해.
->
-> **주의사항 (Warning):**
->
-> - 코드를 덮어쓰기 전, 사이드 이펙트가 발생할 여지가 1%라도 있다면 즉시 실행을 멈추고 나에게 질문해. (안전 및 프라이버시 최우선)
+> **Role:** You are a 10-year veteran `[Web Frontend/Backend]` architecture expert and my primary coding partner.
+> 
+> **Context:**
+> - Background: We are currently migrating legacy code to a modern stack. To ensure total transparency, I am monitoring your activities via AionUi.
+> - Goal: Refactor the `[src/components]` directory structure to maximize reusability and minimize coupling.
+> 
+> **Task:**
+> 1. **Establish a Plan:** Before modifying any code, present a markdown bulleted list summarizing the files you have analyzed and your exact modification plan.
+> 2. **Step-by-Step Execution:** Do not change everything at once. Break the work down into logical units (e.g., Separate UI components -> Connect state management -> Write test codes) and proceed sequentially.
+> 3. **Explicit Reporting:** At the end of each step, report exactly which lines of which files were changed, using a clear, commit-message style format.
+> 
+> **Constraints:**
+> - Never alter the existing core business logic.
+> - If a new library needs to be added, you must first explain the necessity and alternatives to me, and ask for explicit permission.
+> 
+> **Warning:**
+> - Before overwriting any code, if there is even a 1% chance of side effects, stop execution immediately and ask me for clarification. (Safety and privacy are the top priorities).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트와 AionUi의 조합은 제가 주니어 개발자분들께 강력히 추천하는 워크플로우입니다. AI 에이전트에게 "알아서 다 해줘"라고 던져놓으면 코드가 스파게티가 되기 십상입니다. 하지만 이 프롬프트를 통해 **에이전트가 자신의 작업 단계를 강제로 시각화하고 보고하도록 통제**하면, AionUi의 실시간 Diff 기능과 맞물려 완벽한 '페어 프로그래밍' 경험을 할 수 있습니다. 마치 내 옆자리에 앉은 시니어 사수가 화면을 띄워놓고 친절하게 코드를 고쳐주는 느낌을 받으실 수 있을 겁니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AionUi는 유료인가요?**
-  - A: 아니요, 100% 오픈소스 프로젝트이며 무료로 사용할 수 있습니다. 기업 내부 프로젝트에도 제한 없이 도입 가능합니다.
-
-- **Q: 회사 보안 정책상 코드를 외부로 유출하면 안 되는데 사용 가능한가요?**
-  - A: 네, 완벽히 가능합니다. AionUi 자체는 로컬 우선(Local-First) 원칙으로 설계되어 여러분의 코드를 외부 서버로 전송하지 않습니다. (단, 연동하는 AI 모델(Gemini, Claude)의 데이터 정책은 별도로 확인하셔야 합니다. 로컬 LLM과 연동하면 100% 오프라인 망분리 환경에서도 구축 가능합니다.)
-
-- **Q: Gemini CLI 외에 다른 도구도 연동되나요?**
-  - A: 오픈소스의 장점을 살려 플러그인 형태로 확장이 가능합니다. 커뮤니티 주도하에 다양한 에이전트 워크플로우가 지속적으로 추가되고 있습니다.
+The combination of this prompt and AionUi is a workflow I strongly recommend, especially for junior developers. If you just throw a vague "handle this for me" at an AI agent, your codebase will inevitably turn into spaghetti. However, by using this prompt to **force the agent to visualize and report its work steps**, paired with AionUi's real-time diff feature, you unlock a perfect 'pair programming' experience. It genuinely feels like having a senior mentor sitting right next to you, patiently fixing the code on a shared screen.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **시각화 최적화 (Task 1 & 3):** AI가 무작위로 파일을 수정하는 것을 막고, AionUi 화면에서 사용자가 변경 사항을 쉽게 트래킹할 수 있도록 '계획 수립'과 '단계별 보고'를 강제했습니다.
-2.  **안전장치 마련 (Constraints & Warning):** 블랙박스의 가장 큰 공포인 '무단 로직 수정'과 '라이브러리 오남용'을 원천 차단했습니다. AI가 스스로 멈출 수 있는 제동 장치를 걸어준 셈입니다.
+- **Q: Is AionUi a paid tool?**
+  - A: No, it is a 100% open-source project and completely free to use. You can adopt it for internal enterprise projects without any licensing restrictions.
+
+- **Q: My company has strict security policies against leaking code. Can I still use it?**
+  - A: Yes, absolutely. AionUi itself is designed with a Local-First principle and does not transmit your code to any external servers. (Note: You must separately verify the data policies of the AI models you connect to, such as Gemini or Claude. If you integrate a local LLM, you can achieve a 100% offline, air-gapped environment).
+
+- **Q: Does it support other tools besides Gemini CLI?**
+  - A: Thanks to its open-source nature, it is highly extensible via plugins. Various agent workflows are continuously being added and refined by the community.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (단순 CLI 환경)
+1. **Optimized for Visualization (Tasks 1 & 3):** Prevents the AI from randomly modifying files in the dark. By forcing "planning" and "step-by-step reporting," it allows the user to easily track and verify changes on the AionUi dashboard.
+2. **Built-in Safety Nets (Constraints & Warning):** Fundamentally blocks the biggest fears of the black box: "unauthorized logic changes" and "library abuse." It installs a braking system that the AI can trigger on its own before doing any damage.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Standard CLI Environment)
 
 ```text
-> 에이전트 실행 중...
-[Log] 파일 검색 중: src/utils/api.ts
-[Log] 코드 수정 중...
-[Log] 완료되었습니다. (도대체 뭘 어떻게 바꾼 거지...?)
+> Agent running...
+[Log] Scanning file: src/utils/api.ts
+[Log] Modifying code...
+[Log] Task completed. (Wait, what exactly did it change...?)
 ```
 
-### ✅ After (AionUi + 투명성 프롬프트 적용)
+### ✅ After (AionUi + Transparency Prompt)
 
 ```text
-> 📋 작업 계획 브리핑:
-1. `src/utils/api.ts`의 에러 핸들링 로직 리팩토링
-2. `src/hooks/useFetch.ts`에 타임아웃 기능 추가
+> 📋 Work Plan Briefing:
+1. Refactor error handling logic in `src/utils/api.ts`
+2. Add timeout functionality to `src/hooks/useFetch.ts`
 
-> 🛠️ Step 1 작업 중...
-[AionUi 화면에서 api.ts의 실시간 Diff 코드(녹색 추가, 빨간색 삭제)가 시각적으로 표시됨]
+> 🛠️ Executing Step 1...
+[AionUi visually displays real-time diffs for api.ts (green for additions, red for deletions)]
 
-> ⚠️ 질문: `useFetch.ts`에 `axios-retry` 라이브러리를 추가해도 될까요?
-(사용자가 내용을 확인하고 안전하게 승인 또는 거절)
+> ⚠️ Question: May I add the `axios-retry` library to `useFetch.ts`?
+(User reviews the context and safely approves or rejects)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-AI 에이전트는 뛰어난 코더지만, 그들을 통제하고 감시하는 것은 결국 인간의 몫입니다.
-AionUi라는 훌륭한 시각화 도구와 오늘 배운 '투명성 확보 프롬프트'를 결합하여, 통제력을 잃지 않는 안전한 AI 협업 환경을 구축해 보세요.
+AI agents are phenomenal coders, but it ultimately falls on us humans to control and audit them. 
+By combining an excellent visualization tool like AionUi with the 'Transparency Prompt' you learned today, you can build a safe AI collaboration environment where you never lose control.
 
-이제 불안감 없이 에이전트에게 일을 맡기고 칼퇴하세요! 🍷
+Now, hand the hard work over to your agent with peace of mind, and clock out on time! 🍷

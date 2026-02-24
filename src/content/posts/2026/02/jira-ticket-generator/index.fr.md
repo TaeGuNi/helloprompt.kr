@@ -5,132 +5,132 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "기획서 읽고 티켓 쪼개는 게 일인 PM들을 위한 프롬프트. Epic, Story, Task 구조화 자동화."
+description: "Un prompt incontournable pour les PM : transformez instantanément vos spécifications (PRD) en tickets Jira (Epic, Story, Task) prêts à l'emploi."
 tags: ["Jira", "지라", "PM", "기획", "애자일"]
 ---
 
-# 🎫 Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱
+# 🎫 Génération Automatique de Tickets Jira : Transformez vos Spécifications en Backlog en 1 Clic
 
-- **🎯 추천 대상:** 하루 종일 "티켓 만들어주세요" 소리 듣는 PM/PO, 백로그 정리가 귀찮은 스크럼 마스터
-- **⏱️ 소요 시간:** 1분 (기획서 입력 -> CSV 변환)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (문서 구조화 및 논리적 분할 능력 탁월)
+- **🎯 Recommandé pour :** PM/PO fatigués de créer des tickets manuellement, Scrum Masters cherchant à optimiser le backlog.
+- **⏱️ Temps requis :** 1 minute (Copier-coller des specs -> Conversion CSV)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet (Excellent pour la structuration de documents et la division logique)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"기획서 다 나왔으니까, 이제 지라(Jira)에 옮겨 적어야지... 하아..."_
+> _"Les spécifications sont prêtes... Super, il ne me reste plus qu'à copier-coller tout ça dans Jira un par un... L'enfer."_
 
-기획서에 있는 내용을 복사해서 지라에 하나씩 붙여넣기. 이 단순 노동을 왜 아직도 사람이 하고 있나요? 개발자와의 소통을 위해 기획을 티켓으로 쪼개는 일은 필수적이지만, 그 과정 자체는 100% 자동화할 수 있는 기계적인 업무입니다.
+Copier-coller le contenu d'un document de spécifications (PRD) pour créer des tickets Jira un par un. Pourquoi les humains font-ils encore ce travail répétitif ? Découper les fonctionnalités en tickets de développement est essentiel pour la communication, mais le processus en lui-même est une tâche mécanique qui peut être automatisée à 100 %.
 
-이제 AI에게 기획서를 던져주고 **"개발자가 바로 작업에 착수할 수 있는 단위(Task)로 쪼개줘"**라고 지시하세요. 하루 종일 걸리던 백로그 생성 작업이 단 1분 만에 끝납니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 완성된 기획서(PRD) 텍스트를 그대로 복사한다.
-2. AI에게 "이 내용을 Epic, Story, Task로 쪼개서 Jira Import용 CSV로 만들어줘"라고 지시한다.
-3. 생성된 결과물을 파일로 저장하여 Jira의 'CSV 가져오기' 기능으로 업로드하면 수십 개의 티켓이 한 번에 생성된다.
+Désormais, confiez vos spécifications à l'IA et donnez-lui cette instruction : **"Découpe ce document en tâches (Tasks) prêtes à être développées."** Ce qui vous prenait une journée entière pour générer un backlog se règle désormais en une minute.
 
 ---
 
-## 🚀 해결책: "Jira Backlog Generator"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Copiez l'intégralité du texte de vos spécifications produit (PRD).
+2. Demandez à l'IA : "Divise ce contenu en Epic, Story et Task pour générer un fichier CSV compatible avec l'importation Jira."
+3. Enregistrez le résultat sous forme de fichier et utilisez la fonction "Importer des tickets depuis un fichier CSV" de Jira pour créer des dizaines de tickets en un seul clic.
 
-빠르게 할 일 목록(To-Do List)만 뽑아보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 기획자 겸 스크럼 마스터]`야.
-> **기획서:** `[기획 내용 전체 붙여넣기]`
-> **요청:** 이 기획을 개발자가 즉시 작업할 수 있는 **상세 업무(Task)** 단위로 쪼개서 체크리스트로 만들어줘. 프론트엔드와 백엔드 작업을 명확히 구분해.
+## 🚀 La Solution : "Jira Backlog Generator"
+
+### 🥉 Version Basique
+
+Utilisez cette version lorsque vous souhaitez générer rapidement une simple liste de tâches (To-Do List).
+
+> **Rôle :** Tu es un `[Product Manager Senior / Scrum Master]`.
+> **Spécifications :** `[Collez l'intégralité de vos spécifications ici]`
+> **Tâche :** Découpe ces spécifications en **tâches détaillées (Tasks)** prêtes à être développées. Présente-les sous forme de checklist. Fais une distinction claire entre les tâches Front-end et Back-end.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro
 
-Jira에 바로 업로드 가능한 완벽한 CSV 파일을 만들 때 사용하세요. AC(인수 조건)까지 꼼꼼하게 작성해 줍니다.
+Utilisez cette version pour générer un fichier CSV parfait, prêt à être uploadé dans Jira. Elle inclut même les critères d'acceptation (AC) de manière exhaustive.
 
-> **역할 (Role):** 너는 애자일(Agile) 프로세스에 능통한 시니어 스크럼 마스터(Scrum Master)이자 테크니컬 PM이야.
+> **Rôle (Role) :** Tu es un Scrum Master Senior et Technical PM, expert en méthodologie Agile.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 새로운 기능에 대한 기획안(PRD)이 완료되었으며, 이를 바탕으로 스프린트 플래닝을 진행해야 함.
-> - 목표: 기획 내용을 Jira에 즉시 등록할 수 있는 완벽한 구조의 CSV 파일 데이터로 변환하는 것.
+> - Contexte : Un document de spécifications produit (PRD) pour une nouvelle fonctionnalité vient d'être achevé, et nous devons planifier le prochain sprint à partir de celui-ci.
+> - Objectif : Convertir le contenu du PRD en un ensemble de données CSV parfaitement structuré, prêt à être importé directement dans Jira.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. 아래 제공된 기획서를 분석하여 필요한 개발 티켓들을 **Jira CSV 포맷**으로 작성해줘.
-> 2. 다음 컬럼을 반드시 순서대로 포함해: `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`
-> 3. `Assignee`는 비워둬.
-> 4. `Description`에는 개발자가 테스트할 수 있도록 **Given-When-Then 형식의 인수 조건(Acceptance Criteria, AC)**을 반드시 포함해.
+> 1. Analyse le PRD fourni ci-dessous et rédige les tickets de développement nécessaires au **format CSV Jira**.
+> 2. Tu dois obligatoirement inclure les colonnes suivantes, dans cet ordre : `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`.
+> 3. Laisse la colonne `Assignee` vide.
+> 4. Dans la colonne `Description`, tu dois obligatoirement rédiger des **critères d'acceptation (Acceptance Criteria, AC) au format Given-When-Then** pour permettre aux développeurs d'effectuer leurs tests.
 >
-> **기획서 (PRD):**
-> `[여기에 기획안 전체 내용을 붙여넣으세요]`
+> **Spécifications (PRD) :**
+> `[Collez l'intégralité de vos spécifications ici]`
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 계층 구조는 반드시 1. Epic -> 2. Story -> 3. Sub-task(FE/BE 구분) 순서로 명확하게 떨어져야 해.
-> - 출력 형식은 마크다운 표(Table)가 아닌, 복사해서 엑셀에 붙여넣기 좋은 **쉼표로 구분된 텍스트(CSV 원시 데이터)**로만 출력해줘. 코드 블록 안에 담아줘.
+> - La hiérarchie doit être strictement respectée dans cet ordre : 1. Epic -> 2. Story -> 3. Sub-task (avec distinction FE/BE).
+> - Le format de sortie ne doit pas être un tableau Markdown, mais **uniquement du texte brut séparé par des virgules (données CSV brutes)**, facile à copier-coller dans Excel. Encadre le résultat dans un bloc de code.
 >
-> **주의사항 (Warning):**
+> **Avertissement (Warning) :**
 >
-> - 기획서에 없는 기능이나 정책을 임의로 지어내지 마. 불확실한 부분은 Description에 "[확인 필요]"라고 명시해.
+> - N'invente aucune fonctionnalité ou règle de gestion qui ne figure pas dans le PRD. Pour toute zone d'incertitude, ajoute explicitement "[À CONFIRMER]" dans la Description.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Expert (Insight)
 
-개발자들이 가장 환호하는 기획서는 화려한 화면 정의서가 아니라 **"AC(Acceptance Criteria, 인수 조건)가 명확한 티켓"**입니다. 이 프롬프트의 핵심은 단순한 작업 분할을 넘어, AI가 `Description` 영역에 **Given-When-Then** 형식의 인수 조건을 작성하도록 강제한 점입니다.
+Les développeurs ne sautent pas de joie face à des maquettes visuelles complexes, mais face à **"des tickets dotés de critères d'acceptation (AC) limpides"**. Le véritable pouvoir de ce prompt ne réside pas seulement dans le découpage des tâches, mais dans l'obligation imposée à l'IA de rédiger des AC au format **Given-When-Then** directement dans la `Description`.
 
-실제 현업에서 이 방식을 도입한 후, "이 버튼 누르면 어떻게 되나요?" 혹은 "예외 처리는 어떻게 하죠?"와 같은 개발자의 핑퐁 질문이 획기적으로 줄어들었습니다. 티켓의 퀄리티가 스프린트의 속도를 결정합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 준 결과를 어떻게 지라에 올리나요?**
-  - A: AI가 출력한 CSV 원시 데이터를 복사하여 메모장(또는 텍스트 편집기)에 붙여넣고 `jira_tickets.csv`로 저장하세요. 그 후 Jira 메뉴에서 [이슈(Issues)] -> [CSV에서 이슈 가져오기(Import issues from CSV)]를 선택하여 해당 파일을 업로드하면 됩니다.
-
-- **Q: 기획서 내용이 너무 길어서 토큰 제한에 걸리면 어떻게 하나요?**
-  - A: 문서 전체를 한 번에 넣기보다는, 핵심 기능 단위(예: '로그인/회원가입', '결제 모듈')로 나누어서 여러 번 프롬프트를 실행하는 것을 권장합니다. 훨씬 더 디테일하고 정확한 티켓이 생성됩니다.
-
-- **Q: 태그(Labels)나 스토리 포인트(Story Points)도 자동으로 넣을 수 있나요?**
-  - A: 네! 프롬프트의 '요청 (Task)' 부분에 "Labels 컬럼을 추가하고 프론트엔드는 'frontend', 백엔드는 'backend' 태그를 달아줘. Story Points 컬럼을 추가하고 예상 난이도에 따라 1, 2, 3, 5, 8 중 하나를 배정해 줘"라고 추가 지시를 내리면 됩니다.
+Depuis l'adoption de cette méthode dans nos équipes, les allers-retours habituels du type "Que se passe-t-il si je clique ici ?" ou "Comment gère-t-on cette erreur ?" ont drastiquement diminué. La qualité de vos tickets détermine directement la vélocité de votre sprint.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **계층 구조(Hierarchy) 강제:** Epic -> Story -> Sub-task로 이어지는 애자일의 표준 구조를 명시하여, AI가 엉뚱하게 기능 단위가 아닌 작업 단위로 파편화하는 것을 방지했습니다.
-2.  **AC(인수 조건) 자동화:** 개발 품질을 결정짓는 BDD(Behavior-Driven Development) 기반의 Given-When-Then 문법을 강제하여, 티켓의 실용성을 극대화했습니다.
-3.  **데이터 포맷 최적화:** 마크다운 표가 아닌 CSV 원시 데이터 포맷을 요구하여, 복사 후 파일로 저장하여 즉시 임포트(Import) 할 수 있도록 사용자 경험(UX)을 고려했습니다.
+- **Q : Comment puis-je importer le résultat de l'IA dans Jira ?**
+  - R : Copiez les données CSV brutes générées par l'IA, collez-les dans un éditeur de texte (comme le Bloc-notes) et enregistrez le fichier sous le nom `jira_tickets.csv`. Ensuite, dans Jira, allez dans le menu [Filtres] ou [Tickets] -> [Importer des tickets depuis un fichier CSV] et uploadez votre fichier.
+
+- **Q : Que faire si mon PRD est trop long et dépasse la limite de tokens de l'IA ?**
+  - R : Au lieu de soumettre le document entier d'un coup, il est fortement recommandé de le diviser par fonctionnalités clés (ex. : 'Connexion/Inscription', 'Module de paiement') et d'exécuter le prompt plusieurs fois. Vous obtiendrez des tickets beaucoup plus précis et détaillés.
+
+- **Q : Est-il possible d'ajouter automatiquement des étiquettes (Labels) ou des Story Points ?**
+  - R : Absolument ! Dans la section 'Tâche (Task)' du prompt, ajoutez simplement : "Ajoute une colonne 'Labels' avec la valeur 'frontend' ou 'backend'. Ajoute une colonne 'Story Points' et attribue une valeur (1, 2, 3, 5 ou 8) en fonction de la complexité estimée."
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Décryptage du Prompt (Why it works?)
 
-### ❌ Before (입력: 통짜 기획)
+1.  **Hiérarchie forcée (Hierarchy) :** En imposant la structure standard Agile (Epic -> Story -> Sub-task), on empêche l'IA de fragmenter les tâches de manière chaotique hors du contexte des fonctionnalités.
+2.  **Automatisation des AC :** L'utilisation obligatoire de la syntaxe BDD (Behavior-Driven Development) Given-When-Then garantit des tests clairs et maximise l'utilité pratique du ticket pour les développeurs.
+3.  **Optimisation du format de données :** En exigeant un format CSV brut (et non un tableau Markdown), on privilégie l'expérience utilisateur (UX) en permettant un export et un import immédiats sans manipulation supplémentaire.
+
+---
+
+## 📊 Preuve à l'appui : Avant vs Après
+
+### ❌ Avant (Input : Requête floue)
 
 ```text
-티켓명: 장바구니 기능 개발
-설명: 첨부된 기획서(장바구니_v1.0.pdf) 참고해서 화면이랑 API 만들어주세요. 수량 변경, 삭제, 전체 선택 기능 필요합니다.
+Nom du ticket : Développement du panier d'achat
+Description : Veuillez créer l'interface et l'API en vous basant sur les spécifications ci-jointes (panier_v1.0.pdf). Il faut inclure la modification des quantités, la suppression et la sélection de tous les articles.
 ```
 
-### ✅ After (결과: 완벽하게 구조화된 백로그)
+### ✅ Après (Résultat : Backlog parfaitement structuré)
 
 ```csv
 Issue Type,Summary,Description,Priority,Assignee
-Epic,장바구니 시스템 구축,"장바구니 담기, 조회, 수정, 삭제 기능 일체",High,
-Story,사용자는 상품을 장바구니에 담을 수 있다.,"장바구니 추가 스토리",High,
-Sub-task,[FE] 상품 상세 페이지 '장바구니 담기' 버튼 UI 구현,"**Given** 사용자가 상품 상세 페이지에 있을 때, **When** '장바구니 담기' 버튼을 클릭하면, **Then** 하단에 성공 토스트 메시지가 노출되어야 한다.",High,
-Sub-task,[BE] 장바구니 추가 API 구현 (POST /cart),"**Given** 유효한 세션이 있을 때, **When** POST /cart 요청이 들어오면, **Then** DB에 데이터를 저장하고 200 OK를 반환해야 한다.",High,
+Epic,Création du système de panier,"Ensemble des fonctionnalités pour ajouter, consulter, modifier et supprimer des articles dans le panier",High,
+Story,L'utilisateur peut ajouter un article à son panier,"Story d'ajout au panier",High,
+Sub-task,[FE] Implémentation de l'UI du bouton 'Ajouter au panier' sur la page produit,"**Given** que l'utilisateur est sur la page de détail d'un produit, **When** il clique sur le bouton 'Ajouter au panier', **Then** un message de succès (toast) doit s'afficher en bas de l'écran.",High,
+Sub-task,[BE] Création de l'API d'ajout au panier (POST /cart),"**Given** une session utilisateur valide, **When** une requête POST /cart est reçue, **Then** les données doivent être enregistrées en base et l'API doit retourner une réponse 200 OK.",High,
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-기획자나 PM의 진짜 실력은 '문서의 두께'가 아니라 **'개발자가 일하기 편하게 작업을 쪼개주는 능력'**에 있습니다. 번거롭고 반복적인 문서 변환 작업은 AI 비서에게 맡기세요.
+La véritable compétence d'un Product Manager ne se mesure pas à l'épaisseur de ses documents, mais à **sa capacité à structurer le travail pour faciliter la vie des développeurs**. Confiez les tâches répétitives de conversion de documents à votre assistant IA.
 
-기획서만 던져주면 백로그가 완벽하게 정리됩니다. 이제 티켓 생성 스트레스에서 벗어나 칼퇴하세요! 🍷
+Il suffit de lui fournir les spécifications, et votre backlog sera organisé à la perfection. Libérez-vous du stress de la création de tickets et terminez votre journée à l'heure ! 🍷

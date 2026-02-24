@@ -5,128 +5,125 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "개발자의 로망, 빔(Vim). hjkl부터 매크로까지, 손가락이 뇌보다 빨라지는 단축키 정복 가이드."
+description: "Le rêve de tout développeur : Vim. De hjkl aux macros, ce guide vous aide à maîtriser les raccourcis pour que vos doigts soient plus rapides que votre cerveau."
 tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 ---
 
-# ⌨️ Vim 단축키 마스터: 마우스 없이 코딩하는 법
+# ⌨️ Maîtriser les Raccourcis Vim : Comment Coder Sans Souris
 
-- **🎯 추천 대상:** 코딩 중 마우스로 손을 뻗는 0.5초의 흐름 끊김이 견딜 수 없는 개발자, 터미널에서 `vi`에 갇혀 컴퓨터 전원을 꺼본 경험이 있는 분
-- **⏱️ 소요 시간:** 프롬프트 작성 1분, 평생의 생산성 향상
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (복잡한 키 조합 및 매크로 설명에 탁월)
+- **🎯 Recommandé pour :** Les développeurs qui ne supportent pas la micro-coupure de 0,5 seconde pour attraper leur souris, ou ceux qui ont déjà dû redémarrer leur ordinateur après s'être retrouvés coincés dans `vi`.
+- **⏱️ Temps requis :** 1 minute pour le prompt, une vie entière de productivité gagnée.
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o (excellents pour expliquer les combinaisons de touches complexes et les macros).
 
-- ⭐ **난이도:** ⭐⭐⭐⭐⭐
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐⭐⭐⭐⭐
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"마우스를 잡기 위해 키보드에서 손을 떼는 순간, 당신의 코딩 몰입도는 정확히 50% 하락합니다."_
+> _"À l'instant où vous lâchez le clavier pour attraper votre souris, votre concentration de codage chute d'exactement 50 %."_
 
-Vim은 단순한 텍스트 에디터가 아닙니다. 그것은 개발자와 코드 사이의 **'언어'**입니다. `d`(삭제하라) `2`(두 개의) `w`(단어를) → `d2w`. 이 직관적인 문법을 손가락이 기억하는 순간, 당신은 텍스트를 '편집'하는 것이 아니라 코드를 **'지휘'**하게 됩니다. 이 가이드는 진입 장벽 높은 Vim의 세계를 AI의 도움으로 가장 빠르게 돌파하는 방법을 제시합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Vim은 언어다:** 동사(Action)와 명사(Object)의 결합(`dw`, `ciw` 등)으로 작동 방식을 이해해야 합니다.
-2. **AI를 튜터로 활용하라:** 복잡한 정규식이나 반복 작업은 AI에게 "Vim 매크로 키 조합"을 물어보는 것이 가장 빠릅니다.
-3. **하이브리드 전략:** 순수 Vim 대신 VS Code나 IntelliJ의 Vim 플러그인을 사용하여 현대적 IDE의 이점과 Vim의 속도를 동시에 취하세요.
+Vim n'est pas un simple éditeur de texte. C'est un véritable **"langage"** entre le développeur et le code. `d` (supprimer) `2` (deux) `w` (mots) → `d2w`. Dès que vos doigts mémorisent cette grammaire intuitive, vous ne "modifiez" plus le texte, vous **"dirigez"** le code. Ce guide vous montre comment franchir la courbe d'apprentissage abrupte de Vim le plus rapidement possible, avec l'aide de l'IA.
 
 ---
 
-## 🚀 해결책: "Vim Tutor Prompt"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (생존 키트)
+1. **Vim est un langage :** Vous devez comprendre son fonctionnement par la combinaison de verbes (Action) et de noms (Objet) (ex. `dw`, `ciw`).
+2. **Utilisez l'IA comme tuteur :** Pour les expressions régulières complexes ou les tâches répétitives, le moyen le plus rapide est de demander à l'IA la "combinaison de touches pour une macro Vim".
+3. **La stratégie hybride :** Au lieu d'utiliser Vim pur, utilisez une extension Vim pour VS Code ou IntelliJ afin de combiner les avantages d'un IDE moderne avec la vitesse fulgurante de Vim.
 
-서버에 접속해서 긴급하게 설정 파일을 수정하고 나와야 할 때, AI에게 정확한 생존 키 조합을 요구하세요.
+---
 
-> **역할:** 너는 리눅스 서버 환경에 능숙한 시니어 데브옵스 엔지니어입니다.
->
-> **요청:** 터미널에서 `[파일명]` 파일을 Vim으로 열고, `[검색할 단어]`를 찾아 `[수정할 내용]`으로 변경한 뒤, 저장하고 안전하게 종료하는 가장 빠르고 정확한 키 입력 순서를 단계별로 알려주세요. 각 키 입력은 백틱(`)으로 강조해 주세요.
+## 🚀 La Solution : "Le Prompt du Tuteur Vim"
+
+### 🥉 Basic Version (Kit de Survie)
+
+Utilisez ceci lorsque vous êtes connecté à un serveur et que vous devez modifier un fichier de configuration en urgence avant de sortir.
+
+> **Rôle :** Tu es un Ingénieur DevOps Senior expert dans l'environnement des serveurs Linux.
+> 
+> **Tâche :** Donne-moi les instructions étape par étape, précises et rapides, pour ouvrir le fichier `[NomDuFichier]` avec Vim dans le terminal, rechercher le mot `[MotARechercher]`, le remplacer par `[NouveauContenu]`, puis sauvegarder et quitter en toute sécurité. Mets en évidence chaque touche à presser avec des backticks (`).
 
 <br>
 
-### 🥇 Pro Version (생산성 마스터 - 매크로 & 레지스터)
+### 🥇 Pro Version (Maître de la Productivité - Macros & Registres)
 
-수십, 수백 줄의 반복적인 텍스트 수정 작업을 단 1초 만에 끝내는 Vim의 꽃, '매크로(Macro)'를 설계해 달라고 요청하세요.
+Demandez de concevoir une "Macro", le joyau de Vim, capable de terminer en une seconde des modifications répétitives sur des dizaines ou centaines de lignes.
 
-> **역할 (Role):** 너는 Vim을 20년 이상 사용해 온 전설적인 'Vim 고인물'이자 생산성 마스터입니다.
->
-> **상황 (Context):**
->
-> - 현재 100줄이 넘는 대용량 JSON 데이터 파일(`[파일명.json]`)을 VS Code의 Vim 확장 프로그램을 통해 편집하고 있습니다.
-> - 데이터 구조 예시: `{ "id": 1, "name": "a" }`
-> - 목표: 모든 줄의 `id` 값을 현재 값에서 `[더할 숫자, 예: 100]`만큼 증가시켜야 합니다. (예: 1 -> 101)
->
-> **요청 (Task):**
->
-> 1. **매크로(Macro) 설계:** `q` 키를 사용하여 단일 줄의 숫자를 증가시키고 다음 줄의 올바른 위치로 이동하는 매크로를 특정 레지스터(예: `a`)에 녹화(`qa`)하고, 이를 나머지 99줄에 일괄 적용(`99@a`)하는 완벽하고 오류 없는 키 입력 시퀀스를 단계별로 설명해 주세요. (Ctrl+A 등 숫자 증가 단축키 활용)
-> 2. **레지스터(Register) 활용 팁:** 작업 중 복사한 텍스트가 날아가는 것을 방지하기 위해, 특정 알파벳 레지스터에 명시적으로 복사(`"ayw`)하고 붙여넣는(`"ap`) 실전 노하우를 예시와 함께 알려주세요.
-> 3. **VS Code Vim 최적화:** `settings.json`에 반드시 추가해야 할 Vim 확장 프로그램 필수 설정(예: `vim.useCtrlKeys`, `vim.hlsearch` 등) 3가지를 추천하고 그 이유를 설명해 주세요.
->
-> **제약사항 (Constraints):**
->
-> - 답변은 초보자도 그대로 따라 칠 수 있도록 명확해야 합니다.
-> - 장황한 역사 설명은 배제하고, 실무에서 바로 적용 가능한 액션 아이템 위주로 마크다운 형식으로 작성해 주세요.
-> - `<Esc>`, `<CR>`(엔터) 등의 특수 키는 명확한 기호로 표기해 주세요.
+> **Rôle (Role) :** Tu es un vétéran légendaire de Vim avec plus de 20 ans d'expérience, et un véritable maître de la productivité.
+> 
+> **Contexte (Context) :**
+> - J'édite actuellement un fichier de données JSON volumineux (`[NomDuFichier.json]`) de plus de 100 lignes en utilisant l'extension Vim pour VS Code.
+> - Exemple de structure de données : `{ "id": 1, "name": "a" }`
+> - Objectif : Je dois incrémenter la valeur de `id` sur chaque ligne en y ajoutant `[NombreAajouter, ex : 100]` (ex : 1 -> 101).
+> 
+> **Tâche (Task) :**
+> 1. **Conception de la Macro :** Explique-moi étape par étape une séquence de touches parfaite et sans erreur pour enregistrer (`qa`) dans un registre spécifique (ex : `a`) une macro qui incrémente le nombre sur une seule ligne et déplace le curseur au bon endroit sur la ligne suivante, puis applique-la en une fois aux 99 lignes restantes (`99@a`). (N'hésite pas à utiliser le raccourci d'incrémentation Ctrl+A).
+> 2. **Astuce d'utilisation des Registres :** Pour éviter de perdre le texte copié pendant le travail, donne-moi des conseils pratiques avec des exemples sur la façon de copier explicitement (`"ayw`) et de coller (`"ap`) dans un registre alphabétique spécifique.
+> 3. **Optimisation Vim pour VS Code :** Recommande 3 paramètres indispensables à ajouter absolument au fichier `settings.json` pour l'extension Vim (ex : `vim.useCtrlKeys`, `vim.hlsearch`, etc.) et explique pourquoi.
+> 
+> **Contraintes (Constraints) :**
+> - Ta réponse doit être suffisamment claire pour qu'un débutant puisse la suivre à la lettre.
+> - Évite les longues explications historiques ; concentre-toi sur des actions applicables immédiatement, formatées en Markdown.
+> - Représente les touches spéciales comme `<Esc>`, `<CR>` (Entrée) avec des symboles clairs.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Expert (Insight)
 
-Vim을 배우겠다고 당장 쓰던 IDE를 지우고 터미널로 들어가는 것은 추천하지 않습니다. 학습 곡선이 너무 가파르기 때문입니다. **가장 현실적이고 강력한 방법은 VS Code나 IntelliJ에 Vim 플러그인을 설치하는 '하이브리드(Hybrid)' 방식입니다.**
+Je ne recommande pas de supprimer votre IDE actuel pour basculer exclusivement sur le terminal sous prétexte d'apprendre Vim. La courbe d'apprentissage est tout simplement trop abrupte. **La méthode la plus réaliste et puissante est l'approche "hybride" : installer un plugin Vim dans VS Code ou IntelliJ.**
 
-파일 탐색, 다중 커서, 디버깅, Git 연동은 현대적인 IDE의 편리한 GUI에 맡기고, 오직 편집기 창 내부에서의 텍스트 이동과 수정에만 Vim 단축키를 적용하세요. AI에게 "VS Code Vim 플러그인에서 `[특정 작업]`을 하는 법"을 물어보며 하나씩 손에 익히다 보면, 어느새 마우스에 손이 가지 않는 자신을 발견하게 될 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 방향키 대신 굳이 `hjkl`을 써야 하는 이유가 있나요?**
-  - A: 핵심은 '손의 위치'입니다. 타자를 칠 때 검지손가락이 위치하는 기본 자리(Home Row)에서 손목을 이동시키지 않고 상하좌우로 이동하기 위함입니다. 초기에는 어색하지만, 익숙해지면 방향키로 손을 뻗는 시간조차 아깝게 느껴집니다.
-
-- **Q: 한글 타이핑 시에 명령어 입력이 꼬여서 너무 불편합니다. 해결책이 있나요?**
-  - A: Vim 사용자들의 영원한 숙제인 '한영 전환' 문제입니다. 한글 상태에서 명령을 내리면 인식이 안 되기 때문입니다. Mac 사용자라면 `macism`이나 `im-select` 같은 도구를 활용해, 'Insert 모드에서 빠져나올 때(ESC) 자동으로 영문 키보드로 전환'되도록 설정하는 스크립트를 적용하는 것이 필수적입니다. AI에게 이 자동화 스크립트 작성을 요청해 보세요.
-
-- **Q: 단축키가 너무 많은데 다 외워야 하나요?**
-  - A: 절대 아닙니다. 가장 자주 쓰는 '이동(`w`, `b`, `e`)'과 '조작(`c`, `d`, `y`, `p`)', 그리고 '텍스트 오브젝트(`i`, `a`)'의 조합 규칙만 이해하면 됩니다. 특수한 작업은 외우지 말고 위 프롬프트처럼 그때그때 AI에게 물어보고 복사해서 적용하세요.
+Laissez la navigation dans les fichiers, les curseurs multiples, le débogage et l'intégration Git à l'interface graphique intuitive de votre IDE moderne. Réservez les raccourcis Vim uniquement à la navigation et à l'édition de texte *à l'intérieur* de la fenêtre de l'éditeur. En demandant à l'IA "Comment faire `[TâcheSpécifique]` avec le plugin Vim pour VS Code", vous développerez progressivement votre mémoire musculaire jusqu'à réaliser que vous ne touchez presque plus jamais à votre souris.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1. **구체적인 Context 제공:** 단순히 "매크로 알려줘"가 아니라, 현재 편집 중인 데이터의 형태(`{ "id": 1... }`)와 달성하고자 하는 수치적 목표(`+100`)를 정확히 제시하여, AI가 추상적인 설명이 아닌 당장 입력할 수 있는 **정확한 키 스트로크(Key Stroke)**를 생성하도록 유도했습니다.
-2. **도구 최적화 요구 (VS Code):** 순수 Vim 환경과 IDE의 Vim 플러그인 환경은 미묘하게 다릅니다. 사용 환경(VS Code)을 명시하여 해당 환경의 설정 파일(`settings.json`) 수정 팁까지 함께 얻어내어 실용성을 극대화했습니다.
+- **Q : Pourquoi devrais-je utiliser `hjkl` au lieu des touches directionnelles ?**
+  - R : Tout est une question de "position des mains". L'objectif est de se déplacer (haut/bas/gauche/droite) sans jamais avoir à déplacer vos poignets depuis la rangée de base (Home Row) où reposent vos index lors de la frappe. C'est gênant au début, mais une fois maîtrisé, tendre le bras vers les flèches directionnelles vous semblera être une perte de temps intolérable.
 
----
+- **Q : Les commandes Vim se bloquent quand je tape dans une autre langue (comme le coréen ou le français avec des accents). Y a-t-il une solution ?**
+  - R : C'est le problème éternel de la commutation de clavier dans Vim. Si vous passez une commande alors que votre clavier est configuré sur une autre langue d'entrée, cela ne fonctionnera pas. Si vous êtes sur Mac, il est essentiel d'utiliser des outils comme `macism` ou `im-select` et d'appliquer un script d'automatisation qui "bascule automatiquement sur le clavier anglais par défaut lorsque vous quittez le mode Insertion (ESC)". Demandez à l'IA de vous écrire ce script d'automatisation.
 
-## 📊 증명: Before & After
-
-### ❌ Before (마우스와 방향키의 늪)
-
-1. 마우스로 1번 줄 `id` 값 더블클릭
-2. 백스페이스로 지우고 `101` 입력
-3. 마우스로 스크롤하여 2번 줄 클릭 (또는 방향키 연타)
-4. 백스페이스로 지우고 `102` 입력
-5. _(이 작업을 99번 반복... 손목 터널 증후군 예약 🏥)_
-
-### ✅ After (Vim 매크로 + AI 가이드)
-
-프롬프트 결과를 그대로 따라친 결과:
-
-1. `qa` (매크로 녹화 시작, 'a' 레지스터에 저장)
-2. `j` (아래 줄로 이동)
-3. `^` (줄의 맨 처음으로 이동)
-4. `f:` (':' 문자로 커서 이동)
-5. `l` (오른쪽으로 한 칸 이동하여 숫자 위치)
-6. `100<Ctrl+A>` (숫자를 100만큼 증가)
-7. `q` (매크로 녹화 종료)
-8. **`98@a` (방금 녹화한 작업을 98번 반복 실행)**
-   _(타다닥! 1초 만에 100줄의 숫자가 완벽하게 증가하며 수정 완료 ⚡️)_
+- **Q : Il y a tellement de raccourcis... Dois-je tous les apprendre par cœur ?**
+  - R : Absolument pas. Il vous suffit de comprendre les règles de combinaison des mouvements les plus courants (`w`, `b`, `e`), des opérateurs (`c`, `d`, `y`, `p`) et des objets textuels (`i`, `a`). Pour les tâches plus spécifiques, ne vous forcez pas à les mémoriser : demandez simplement à l'IA (comme avec le prompt ci-dessus), copiez et appliquez.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomie du Prompt (Why it works?)
 
-마우스를 아예 버리라는 극단적인 주장이 아닙니다. 핵심은 **키보드 위에서 끝낼 수 있는 작업은 키보드 위에서 끝내는 압도적인 속도감**을 경험해 보라는 것입니다.
+1. **Contexte très spécifique :** Au lieu de demander vaguement "montre-moi une macro", le prompt décrit précisément le format des données actuelles (`{ "id": 1... }`) et l'objectif chiffré visé (`+100`). Cela force l'IA à générer des **frappes de touches exactes (Key Strokes)** immédiatement utilisables, plutôt que des explications abstraites.
+2. **Optimisation pour l'outil (VS Code) :** L'environnement Vim natif et celui d'un plugin d'IDE sont subtilement différents. En précisant l'environnement (VS Code), nous obtenons des conseils spécifiques pour modifier le fichier de configuration (`settings.json`), maximisant ainsi l'utilité pratique.
 
-처음 일주일은 오히려 생산성이 떨어질 수 있습니다. 하지만 답답할 때마다 AI 튜터에게 프롬프트를 던지며 손가락의 근육 메모리를 단련해 보세요. 동료가 마우스 커서를 찾느라 화면을 휘적거릴 때, 당신은 이미 리팩토링을 끝내고 여유롭게 커피를 마시고 있을 것입니다. ☕️
+---
+
+## 📊 Preuve à l'appui : Avant / Après
+
+### ❌ Avant (Le cauchemar de la souris et des flèches)
+
+1. Double-cliquer sur la valeur de `id` à la ligne 1 avec la souris.
+2. Effacer avec Retour arrière, taper `101`.
+3. Faire défiler et cliquer sur la ligne 2 avec la souris (ou marteler la flèche du bas).
+4. Effacer avec Retour arrière, taper `102`.
+5. *(Répéter cela 99 fois... Prise de rendez-vous pour un syndrome du canal carpien imminente 🏥)*
+
+### ✅ Après (Macro Vim + Guide IA)
+
+En tapant exactement le résultat du prompt :
+
+1. `qa` (Débute l'enregistrement de la macro dans le registre 'a')
+2. `j` (Descend d'une ligne)
+3. `^` (Va au tout début de la ligne)
+4. `f:` (Déplace le curseur sur le caractère ':')
+5. `l` (Se déplace d'un cran vers la droite sur le chiffre)
+6. `100<Ctrl+A>` (Incrémente le chiffre de 100)
+7. `q` (Arrête l'enregistrement)
+8. **`98@a` (Répète l'action fraîchement enregistrée 98 fois)**
+   *(Clac clac clac ! En moins d'une seconde, les 100 lignes sont parfaitement mises à jour ⚡️)*
+
+---
+
+## 🎯 Conclusion
+
+L'idée n'est pas de vous dire de jeter définitivement votre souris à la poubelle. L'objectif est de vous faire expérimenter **la vitesse écrasante qui consiste à accomplir des tâches sur votre clavier sans jamais avoir à le quitter**.
+
+La première semaine, votre productivité risque paradoxalement de baisser. Mais à chaque moment de frustration, lancez le prompt à votre tuteur IA et entraînez votre mémoire musculaire. Pendant que vos collègues chercheront encore leur curseur de souris à l'écran, vous aurez déjà terminé votre refactoring et serez en train de siroter tranquillement votre café. ☕️

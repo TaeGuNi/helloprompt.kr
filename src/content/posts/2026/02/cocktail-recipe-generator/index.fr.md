@@ -5,122 +5,122 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/취미"
-description: "남은 소주, 맥주, 위스키... 그냥 먹지 마세요. 집에 있는 재료로 만드는 AI 홈텐딩(Home-tending) 레시피."
+description: "Des restes de vodka, bière, whisky... Ne les buvez pas n'importe comment. Créez des cocktails dignes d'un bar (Home-tending) avec l'IA en utilisant les ingrédients de votre frigo."
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 
-# 🍸 칵테일 레시피: 냉장고 술 털어서 바텐더 되기
+# 🍸 Recettes de Cocktails : Devenez Barman avec les Restes de Votre Frigo
 
-- **🎯 추천 대상:** 술은 좋은데 나가서 마시긴 비싼 홈술족, 냉장고에 정체불명의 양주가 굴러다니는 사람
-- **⏱️ 소요 시간:** 10분 고민 → 1분 컷 (레시피 생성)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (창작 및 믹솔로지 특화)
+- **🎯 Recommandé pour :** Les amateurs de verres à la maison trouvant les bars trop chers, et ceux qui possèdent des bouteilles d'alcool oubliées au fond du frigo.
+- **⏱️ Temps requis :** 10 minutes d'hésitation → 1 minute (Génération de la recette)
+- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet (Spécialisés en création et mixologie)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"선물 받은 위스키, 냉장고 구석에 방치된 소주… 매번 똑같이 드시나요? 당신의 주방을 근사한 프라이빗 바(Bar)로 만들어 드립니다."_
+> _"Un whisky reçu en cadeau, une bouteille de vodka abandonnée au fond du frigo... Vous les buvez toujours de la même manière ? Transformez votre cuisine en un speakeasy privé et exclusif."_
 
-술도 요리입니다. 섞는 비율과 온도에 따라 맛의 퀄리티가 천차만별로 달라지죠. 조주기능사 자격증이나 화려한 쉐이킹 기술은 필요 없습니다. **"내 냉장고에 있는 재료"**만 정확히 알려주면, AI가 당신의 기분과 취향에 완벽하게 맞춘 시그니처 칵테일을 제안합니다. 이름부터 그럴싸한 스토리텔링까지 덤으로 말이죠.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 냉장고에 잠자고 있는 자투리 술(기주)과 음료수(주스, 탄산 등)의 목록을 파악합니다.
-2. AI에게 재료를 입력하고, 오늘 원하는 취향(도수, 단맛 등)을 반영한 칵테일 레시피를 요청합니다.
-3. 소주잔이나 텀블러 등 집에 있는 도구로 간편하게 제조하여 완벽한 홈술을 즐깁니다.
+La mixologie est un art culinaire. La qualité et les nuances d'un cocktail varient considérablement selon les proportions et la température. Oubliez les diplômes de barman ou les techniques de shaker spectaculaires. Indiquez simplement à l'IA **"les ingrédients présents dans votre frigo"**, et elle vous proposera un cocktail signature parfaitement équilibré, adapté à votre humeur du moment. En prime, vous obtiendrez un nom élégant et un storytelling captivant pour épater vos invités (ou vous-même).
 
 ---
 
-## 🚀 해결책: "Home Bartender Prompt"
+## ⚡️ Résumé en 3 Lignes (TL;DR)
 
-### 🥉 Basic Version (조합 추천)
+1. Faites l'inventaire des restes d'alcools (bases) et de boissons (jus, sodas, etc.) qui dorment dans votre réfrigérateur.
+2. Fournissez cette liste à l'IA et demandez une recette de cocktail qui correspond à vos envies du jour (degré d'alcool, niveau de sucre, etc.).
+3. Préparez facilement votre boisson avec les ustensiles que vous avez sous la main (verre à shot, gobelet, cuillère) et profitez d'une dégustation parfaite à la maison.
 
-빠르게 가벼운 한 잔이 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 센스 있는 바텐더야.
-> **상황:** 내 냉장고에 소주, 사이다, 오렌지 주스가 있어.
-> **요청:** 이 재료들을 활용해서 가볍고 달콤하게 마실 수 있는 홈 칵테일 제조 비율을 알려줘. (예: 소주잔 기준)
+## 🚀 La Solution : "Prompt du Barman à Domicile"
+
+### 🥉 Version Basique (Basic Version)
+
+Utilisez cette version pour obtenir rapidement une recommandation légère et facile à boire.
+
+> **Rôle :** Tu es un barman astucieux et créatif.
+> **Contexte :** J'ai de la vodka, de la limonade et du jus d'orange dans mon frigo.
+> **Tâche :** Utilise ces ingrédients pour me donner les proportions d'un cocktail maison léger et sucré. (Exemple : proportions basées sur un verre à shot ou une cuillère à soupe).
 
 <br>
 
-### 🥇 Pro Version (시그니처 메뉴 개발)
+### 🥇 Version Pro (Pro Version)
 
-분위기를 제대로 잡고 싶은 홈파티나 주말 저녁에 사용하세요.
+Idéale pour les soirées à la maison, les dîners romantiques ou les week-ends où vous souhaitez vraiment créer une atmosphère de bar lounge.
 
-> **역할 (Role):** 너는 월드 클래스 믹솔로지스트(Mixologist)야. 고객의 취향과 제한된 재료만으로도 환상적인 밸런스를 찾아내는 전문가지.
+> **Rôle (Role) :** Tu es un mixologue de classe mondiale. Tu es un expert pour trouver l'équilibre parfait des saveurs en te basant sur les goûts de tes clients et des ingrédients limités.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - **보유 주류 (Base):** [남은 짐빔 위스키 반 병, 보드카]
-> - **음료 (Mixer):** [진저에일, 토닉워터, 우유]
-> - **가니쉬 및 부재료:** [레몬 1개, 시나몬 파우더, 각얼음]
-> - **원하는 스타일:** [도수가 높고 타격감 있는 스타일 1잔, 달콤하고 부드러운 스타일 1잔]
+> - **Alcools de base (Base) :** [Une demi-bouteille de whisky Bourbon, de la Vodka]
+> - **Allongeurs (Mixer) :** [Ginger Ale, Eau Tonique, Lait]
+> - **Garnitures et extras :** [1 Citron, Poudre de cannelle, Glaçons]
+> - **Style désiré :** [1 verre fort et percutant, 1 verre doux, onctueux et sucré]
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. **시그니처 레시피:** 위 재료를 조합하여 내가 요청한 스타일에 맞는 2가지 칵테일 레시피를 개발해 줘.
-> 2. **계량 기준:** 전문 도구(지거)가 없으므로 '소주잔(약 50ml)' 또는 '아빠 숟가락'을 기준으로 정확한 비율을 명시해.
-> 3. **네이밍 & 스토리:** 각 칵테일에 어울리는 매력적인 이름과, 마실 때 곁들이기 좋은 스토리텔링(또는 건배사)을 짧게 지어줘.
-> 4. **제조 기법:** 텀블러나 젓가락 등 집에서 흔히 구할 수 있는 도구를 활용한 믹싱 방법(Building, Stirring 등)을 친절하게 설명해.
+> 1. **Recettes Signatures :** Combine les ingrédients ci-dessus pour développer 2 recettes de cocktails qui correspondent exactement aux styles demandés.
+> 2. **Mesures :** Comme je n'ai pas d'outils professionnels de barman (comme un jigger), indique les proportions exactes en utilisant un "verre à shot (environ 50ml)" ou une "cuillère à soupe" comme référence de mesure.
+> 3. **Nom & Storytelling :** Invente un nom très attrayant pour chaque cocktail et rédige un court storytelling (ou un toast d'accompagnement) pour sublimer la dégustation.
+> 4. **Technique de préparation :** Explique clairement la méthode de mixage (Building, Stirring, etc.) en utilisant uniquement des objets courants de la maison, comme un gobelet thermos ou des baguettes chinoises.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 절대 내가 없는 재료(예: 앙고스투라 비터스, 라임즙, 그레나딘 시럽 등)를 레시피에 포함하지 마.
-> - 출력 형식은 읽기 편하도록 마크다운 리스트 형태로 정리해 줘.
+> - N'inclus absolument AUCUN ingrédient que je n'ai pas listé (ex: Angostura Bitters, jus de citron vert frais, sirop de grenadine, Cointreau, etc.).
+> - Présente le résultat sous forme de liste Markdown pour que ce soit facile et rapide à lire.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Commentaire de l'Auteur (Insight)
 
-이 프롬프트의 핵심은 단순한 '섞기'를 넘어 **'정확한 계량(비율)'**과 **'대체 도구의 활용'**을 AI에게 강제하는 것입니다. 바텐딩의 생명은 밸런스입니다. "적당히 섞으세요"라는 무책임한 답변을 피하기 위해, 우리가 흔히 쓰는 '소주잔'을 계량 기준으로 명확히 제시했습니다.
+Le véritable pouvoir de ce prompt ne réside pas dans le simple fait de "mélanger des boissons", mais dans sa capacité à imposer à l'IA un **"dosage précis (proportions)"** tout en exploitant des **"outils alternatifs du quotidien"**. L'âme d'un cocktail, c'est son équilibre. Pour éviter de recevoir une réponse frustrante et floue du type "mélangez selon votre goût", nous avons défini le "verre à shot" (ou la cuillère) comme unité de mesure standard et stricte.
 
-또한, `'없는 재료는 쓰지 말 것'`이라는 제약(Constraint)을 걸어두지 않으면 AI는 자꾸만 지금 당장 마트에서 사 와야 하는 민트 잎이나 코앵트로(Cointreau) 같은 리큐르를 추천하곤 합니다. 이 프롬프트를 저장해 두면, 금요일 밤 어떤 재료가 남아있든 단 1분 만에 근사한 홈파티를 시작할 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 칵테일에 어울리는 안주도 추천받을 수 있나요?**
-  - A: 물론입니다. 프롬프트 마지막에 `"이 칵테일들과 페어링하기 좋은 편의점 1만 원 이하 안주를 추천해 줘"`라는 문장을 추가해 보세요. 주종의 산미나 당도에 딱 맞는 기가 막힌 스낵을 골라줍니다.
-
-- **Q: 얼음이나 쉐이커가 없어도 칵테일이 될까요?**
-  - A: 얼음(Chilling)은 칵테일의 맛을 좌우하는 중요한 요소지만, 없다면 상황에 맞게 변형할 수 있습니다. AI에게 `"얼음이 없는 상황이야. 재료들을 차갑게 마실 수 있는 냉동실 보관 팁이나, 미지근해도 맛있는 비율을 알려줘"`라고 요청해 보세요. 쉐이커 대신 텀블러나 락앤락 밀폐용기를 활용하는 방법도 AI가 친절하게 안내해 줍니다.
+De plus, la contrainte `'N'utiliser aucun ingrédient non listé'` est vitale. Sans cela, l'IA a la fâcheuse tendance d'halluciner des recettes en recommandant des liqueurs spécialisées ou des feuilles de menthe fraîche qui vous obligeraient à sortir faire des courses à 22h. En gardant ce prompt dans vos favoris, peu importe ce qu'il reste dans votre frigo un vendredi soir, vous serez capable de lancer une soirée cocktail premium en seulement une minute.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1. **제약 조건(Constraints)의 활용:** 보유한 재료 내에서만 레시피를 구성하도록 강제하여, 당장 실현 불가능한 레시피(환각)를 철저히 차단했습니다.
-2. **현실적인 도구 매핑:** 전문 바텐딩 도구(지거, 바스푼) 대신 소주잔과 숟가락, 젓가락 등 일상적인 도구를 입력값으로 주어 실용성을 극대화했습니다.
-3. **스토리텔링 부여:** 단순히 액체를 섞는 행위를 넘어, 이름과 스토리를 부여해 홈술의 경험적 가치(UX)를 높였습니다. 술은 분위기로 마시는 거니까요.
+- **Q : L'IA peut-elle aussi me recommander des snacks pour accompagner mes cocktails ?**
+  - R : Absolument ! Il vous suffit d'ajouter cette phrase à la fin de votre prompt : `"Recommande-moi des snacks à moins de 5 euros, faciles à trouver en supérette de quartier, qui s'accordent parfaitement avec les profils aromatiques de ces cocktails."` L'IA sélectionnera des en-cas qui complètent à merveille l'acidité ou la douceur de votre boisson.
+
+- **Q : Est-il possible de faire un cocktail correct si je n'ai ni glaçons ni shaker ?**
+  - R : Le refroidissement (Chilling) est généralement crucial pour la texture et le goût d'un cocktail, mais l'IA peut s'adapter. Demandez-lui : `"Je n'ai pas de glace. Donne-moi des astuces de refroidissement rapide au congélateur pour les ingrédients, ou propose des proportions qui sont délicieuses même à température ambiante."` Pour remplacer le shaker, l'IA vous expliquera comment utiliser un gobelet thermos étanche ou même une boîte hermétique (type Tupperware) avec beaucoup de style.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Why it works?)
 
-### ❌ Before (폭탄주 제조)
+1. **Utilisation Rigoureuse des Contraintes (Constraints) :** En obligeant l'IA à composer exclusivement avec l'inventaire fourni, nous éliminons totalement les recettes irréalisables et les hallucinations de l'IA. Vous obtenez du sur-mesure hyper-pragmatique.
+2. **Adaptation des Outils à la Réalité :** Au lieu d'exiger du matériel de bar professionnel (jigger, cuillère de bar), le prompt intègre des objets du quotidien (verre à shot, cuillère, baguettes). L'accessibilité est maximale.
+3. **L'Intégration du Storytelling :** Dépassant le simple mélange de liquides, l'attribution d'un nom et d'une histoire élève l'expérience utilisateur (UX). Boire un cocktail, c'est d'abord consommer une atmosphère.
 
-> 남은 위스키랑 주스를 대충 눈대중으로 섞어 마심.
-> **결과:** "으악, 밍밍하고 니 맛도 내 맛도 아니네." (결국 싱크대에 버리고 숙취만 남음 🤕)
+---
 
-### ✅ After (AI 바텐더의 처방)
+## 📊 La Preuve : Avant & Après (Before & After)
 
-> **AI:** "당신을 위한 시그니처 칵테일, **[미드나잇 오아시스]**를 제안합니다."
+### ❌ Avant (Le mélange hasardeux et raté)
+
+> Mélanger au pifomètre un fond de whisky avec du vieux jus d'orange.
+> **Résultat :** "Beurk, c'est fade, amer et ça n'a aucun sens." (Le verre finit dans l'évier, et vous ne gardez que le mal de crâne 🤕)
+
+### ✅ Après (La prescription de l'IA Mixologue)
+
+> **IA :** "Je vous propose votre cocktail signature exclusif, le **[Midnight Oasis]**."
 >
-> - **비율:** 위스키 1 소주잔 + 오렌지 주스 2 소주잔 + 진저에일 1 소주잔
-> - **제조법:** 얼음을 채운 잔에 위스키와 주스를 먼저 넣고 젓가락으로 5회 가볍게 젓습니다. 마지막에 진저에일을 천천히 부어 탄산을 살려주세요.
-> - **스토리:** 지친 하루의 끝, 사막 같은 퍽퍽한 일상에서 만난 달콤한 오아시스 같은 한 잔입니다.
+> - **Proportions :** 1 verre à shot de Whisky + 2 verres à shot de Jus d'orange + 1 verre à shot de Ginger Ale
+> - **Préparation :** Dans un verre rempli de glaçons, versez d'abord le whisky et le jus, puis remuez doucement 5 fois avec une baguette chinoise. Versez lentement le Ginger Ale à la toute fin pour préserver le pétillant.
+> - **Storytelling :** À la fin d'une longue journée épuisante, ce verre agit comme une douce oasis rafraîchissante au milieu du désert de votre quotidien.
 >
-> **결과:** "와, 이거 밖에서 파는 것보다 맛있다!" (완벽한 밸런스와 분위기 🍹)
+> **Résultat :** "Wow, c'est encore meilleur et plus équilibré que dans un bar !" (L'ambiance et le goût sont au rendez-vous 🍹)
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-비싼 바(Bar)의 화려한 조명과 두꺼운 메뉴판이 부럽지 않습니다.
-여러분의 주방과 냉장고가 곧 세상에서 가장 프라이빗한 스피크이지 바(Speakeasy Bar)입니다.
+Plus besoin d'envier les lumières tamisées, la musique jazz et les menus hors de prix des bars chics.
+Votre propre cuisine et votre réfrigérateur viennent de se transformer en un bar clandestin (Speakeasy) des plus prisés.
 
-오늘 밤, AI 바텐더를 고용해 보세요.
-**"어떤 기분으로 한 잔 말아드릴까요?"** 🥃
+Ce soir, embauchez votre propre barman IA.
+**"Alors, dans quel état d'esprit êtes-vous pour votre verre de ce soir ?"** 🥃

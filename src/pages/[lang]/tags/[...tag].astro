@@ -1,7 +1,7 @@
 ---
+import { getCollection } from "astro:content";
 import BaseHtml from "../../../components/BaseHtml.astro";
 import { LANGUAGES } from "../../../i18n/languages";
-import { getCollection } from "astro:content";
 import type { Post } from "../../../utils/postUtils";
 
 export async function getStaticPaths() {
@@ -39,10 +39,7 @@ export async function getStaticPaths() {
     // 해당 언어의 모든 태그 수집
     const uniqueTags = [
       ...new Set(
-        posts
-          .map((post) => post.frontmatter.tags)
-          .flat()
-          .filter(Boolean),
+        posts.flatMap((post) => post.frontmatter.tags).filter(Boolean),
       ),
     ];
 

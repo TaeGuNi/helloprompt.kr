@@ -1,5 +1,5 @@
 // 테스트 코드 (검증부)
-import { describe, it, expect } from "vitest";
+import { describe, expect, it } from "vitest";
 import { formatDate } from "./utils";
 
 describe("Utility: 날짜 포맷터", () => {

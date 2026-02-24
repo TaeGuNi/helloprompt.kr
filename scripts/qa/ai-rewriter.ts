@@ -1,8 +1,8 @@
-import fs from "fs/promises";
-import path from "path";
+import { execFile } from "node:child_process";
+import fs from "node:fs/promises";
+import path from "node:path";
+import util from "node:util";
 import { glob } from "glob";
-import { execFile } from "child_process";
-import util from "util";
 
 const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
@@ -101,11 +101,10 @@ ${content}
   }
 
   // Clean off markdown fences if the CLI injected them despite instructions
-  text =
-    text
-      .replace(/^```markdown\n?/i, "")
-      .replace(/```$/i, "")
-      .trim() + "\n";
+  text = `${text
+    .replace(/^```markdown\n?/i, "")
+    .replace(/```$/i, "")
+    .trim()}\n`;
   return text;
 }
 

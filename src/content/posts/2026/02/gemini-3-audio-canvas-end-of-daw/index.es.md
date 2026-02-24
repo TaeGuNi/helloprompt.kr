@@ -1,7 +1,7 @@
 ---
 author: OpenClaw AI
 date: "2026-02-16"
-description: 텍스트 프롬프트로 파형을 조각하는 시대. Gemini 3 Audio Canvas가 음악 제작과 사운드 디자인의 워크플로우를 어떻게 혁신하는지, 그리고 전통적인 DAW(Digital Audio Workstation)의 미래는 어떻게 될지 분석합니다.
+description: "La era de esculpir ondas sonoras con prompts de texto. Analizamos cómo Gemini 3 Audio Canvas revoluciona el flujo de trabajo en la producción musical y el diseño sonoro, y cuál será el futuro de las estaciones de trabajo de audio digital (DAW) tradicionales."
 image:
   alt: Gemini 3 Audio Canvas waveform interface
   url: https://source.unsplash.com/random/1600x900/?music,studio,audio
@@ -16,129 +16,129 @@ tags:
 title: "Gemini 3 Audio Canvas: DAW의 종말인가?"
 ---
 
-# 🎵 Gemini 3 Audio Canvas: 프롬프트로 파형을 조각하다 (DAW의 종말?)
+# 🎵 Gemini 3 Audio Canvas: Esculpiendo ondas con prompts (¿El fin de los DAW?)
 
-- **🎯 추천 대상:** 크리에이터, 유튜버, 뮤지션, 사운드 디자이너, 프롬프트 엔지니어
-- **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** Gemini 3 (Audio Canvas 활성화 필요)
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- **🎯 Público objetivo:** Creadores, YouTubers, Músicos, Diseñadores de sonido, Ingenieros de prompts
+- **⏱️ Tiempo estimado:** 1 hora → reducido a 3 minutos
+- **🤖 Modelo recomendado:** Gemini 3 (Requiere activar Audio Canvas)
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"수천 달러짜리 신디사이저와 복잡한 EQ 노브 없이, 오직 텍스트만으로 완벽한 믹싱을 완성할 수 있다면 어떨까요?"_
+> _"¿Qué pasaría si pudieras lograr una mezcla perfecta usando solo texto, sin necesidad de sintetizadores de miles de dólares ni complejas perillas de ecualización?"_
 
-Google의 **Gemini 3**가 선보인 **'Audio Canvas'**는 단순한 텍스트-오디오(Text-to-Audio) 생성기를 넘어섰습니다. "노래를 만들어줘"라는 막연한 요청 대신, 시각적인 스펙트로그램 인터페이스 위에서 소리의 레이어를 포토샵처럼 편집하고 변형할 수 있는 혁신적인 기능을 제공합니다.
+El **'Audio Canvas'** introducido por **Gemini 3** de Google va mucho más allá de ser un simple generador de texto a audio. En lugar de una petición vaga como "crea una canción", ofrece una interfaz de espectrograma visual donde puedes editar y transformar capas de sonido con la misma precisión con la que usas Photoshop en imágenes.
 
-이 글에서는 Gemini 3 Audio Canvas를 활용해 텍스트 명령어로 파형(Waveform)을 직접 제어하는 구체적인 프롬프트 전략을 알아보고, 이것이 기존 DAW(Logic Pro, Ableton Live 등) 생태계에 어떤 변화를 가져올지 분석합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **단순 생성을 넘어선 제어:** 텍스트 프롬프트로 특정 구간의 악기를 교체하거나(In-painting), 트랙을 연장(Out-painting)할 수 있습니다.
-2. **스템 분리 및 개별 믹싱:** 업로드한 오디오에서 보컬, 베이스 등을 분리하여 각 레이어별로 프롬프트 명령을 내릴 수 있습니다.
-3. **DAW의 대체재가 아닌 보조자:** 세밀한 튜닝에는 한계가 있지만, 아이디어 스케치와 샘플 생성 시간을 혁신적으로 단축합니다.
+En este artículo, exploraremos estrategias específicas de prompts para controlar directamente las formas de onda (waveforms) utilizando comandos de texto en Gemini 3 Audio Canvas, y analizaremos cómo esto transformará el ecosistema de los DAW tradicionales (como Logic Pro, Ableton Live, FL Studio, etc.).
 
 ---
 
-## 🚀 해결책: "Audio Canvas 정밀 제어 프롬프트"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Control más allá de la simple generación:** Usa prompts de texto para reemplazar instrumentos en secciones específicas (In-painting) o extender pistas (Out-painting).
+2. **Separación de stems y mezcla individual:** Extrae voces, bajos y otros elementos del audio subido para aplicar comandos a cada capa por separado.
+3. **Un asistente, no un reemplazo del DAW:** Aunque tiene límites en la afinación fina, reduce drásticamente el tiempo de esbozo de ideas y generación de samples.
 
-빠르게 특정 구간의 소리를 변형하거나 아이디어를 스케치할 때 사용하세요.
+---
 
-> **역할:** 너는 `[장르]` 전문 사운드 디자이너야.
-> **요청:** 업로드한 트랙의 `[시작 시간]`부터 `[종료 시간]` 구간에서 `[특정 악기/소리]`를 제거하고 `[새로운 소리]`로 채워줘.
+## 🚀 Solución: "Prompt de control preciso para Audio Canvas"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites resultados rápidos para transformar sonidos en secciones específicas o esbozar una idea fugaz.
+
+> **Rol (Role):** Eres un diseñador de sonido experto en `[género]`.
+> **Tarea (Task):** En la pista subida, desde el `[tiempo de inicio]` hasta el `[tiempo de finalización]`, elimina el `[instrumento/sonido específico]` y reemplázalo con `[nuevo sonido]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Pro Version)
 
-정확한 BPM, Key, 악기 구성 및 믹싱 상태까지 디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala cuando requieras calidad detallada, incluyendo BPM exacto, clave musical (Key), instrumentación específica y el estado general de la mezcla.
 
-> **역할 (Role):** 너는 10년 차 수석 사운드 엔지니어이자 `[장르, 예: 로파이(Lofi)]` 전문 프로듀서야.
+> **Rol (Role):** Eres un ingeniero de sonido principal con 10 años de experiencia y un productor experto en `[género, ej: Lofi]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: `[콘텐츠 목적, 예: 비 오는 날 창밖을 바라보며 듣기 좋은 유튜브 브이로그 배경 음악]`
-> - 목표: `[최종 결과물의 느낌, 예: 차분하고 감성적인 비트 완성]`
+> - Fondo: `[Propósito del contenido, ej: Música de fondo para un vlog de YouTube ideal para mirar por la ventana en un día lluvioso]`
+> - Objetivo: `[Sensación del resultado final, ej: Crear un beat tranquilo y emocional]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 제공된 오디오 소스를 분석하여 메인 테마에 맞게 스템(Stem)을 분리해줘.
-> 2. 지정된 제약 조건에 맞춰 새로운 트랙을 믹싱 및 마스터링해줘.
-> 3. `[시간/구간]` 변수 부분은 내가 직접 지정한 대로 인페인팅 작업을 수행해.
+> 1. Analiza el audio proporcionado y separa los stems de acuerdo con el tema principal.
+> 2. Mezcla y masteriza la nueva pista siguiendo las restricciones indicadas.
+> 3. Realiza el in-painting exactamente en el `[tiempo/sección]` que he especificado.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - **BPM:** `[예: 80-85]`
-> - **Key:** `[예: C Major 또는 A Minor]`
-> - **악기 구성:** `[예: Tremolo가 걸린 Rhodes Piano, 배경 노이즈용 Vinyl Crackle, Soft Kick, Reverb가 추가된 Snare]`
-> - **길이:** `[예: 3분 30초]`
-> - **전체 분위기(Vibe):** `[예: Melancholic, Chill, Nostalgic]`
-> - 출력은 반드시 스펙트로그램 시각화와 함께 320kbps MP3 포맷으로 제공해줘.
+> - **BPM:** `[ej: 80-85]`
+> - **Clave (Key):** `[ej: C Major o A Minor]`
+> - **Instrumentos:** `[ej: Piano Rhodes con Tremolo, crujido de vinilo para ruido de fondo, Soft Kick, Snare con Reverb]`
+> - **Duración:** `[ej: 3 minutos y 30 segundos]`
+> - **Vibra general (Vibe):** `[ej: Melancólico, Chill, Nostálgico]`
+> - El resultado debe entregarse en formato MP3 a 320 kbps, acompañado de una visualización del espectrograma.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 물리적으로 불가능한 주파수 대역의 믹싱 요청이나 저작권이 있는 특정 아티스트의 목소리(Voice) 모방은 거절하고 대안을 제시해. (할루시네이션 및 저작권 침해 방지)
+> - Rechaza cualquier petición de mezcla en rangos de frecuencia físicamente imposibles o que imite la voz de un artista específico con derechos de autor, y en su lugar ofrece alternativas seguras. (Prevención de alucinaciones y violación del copyright).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-직접 실무에 적용해 보니, **아직 기존의 무거운 DAW를 완벽히 대체하기엔 이릅니다.**
-"킥 드럼의 어택감을 2ms만 줄여줘"라던가 "보컬의 3kHz 대역을 1.5dB 깎아줘" 같은 고도의 디테일한 엔지니어링 요청은 Gemini가 완벽히 이해하지 못하고 뭉뚱그려 처리할 때가 많았습니다. 전문가의 '귀'와 '손맛'을 온전히 코딩하기엔 한계가 명확하죠.
+Tras aplicarlo exhaustivamente en un entorno profesional, **todavía es pronto para decir que reemplaza por completo a los pesados DAW tradicionales.** 
+Peticiones de ingeniería altamente detalladas como "reduce el ataque del bombo en 2ms" o "atenúa 1.5dB en el rango de los 3kHz de la voz" a menudo no son comprendidas a la perfección por Gemini, resultando en un procesamiento generalizado y aproximado. Existe un límite claro a la hora de codificar el "oído" y el "toque" de un ingeniero experto.
 
-**하지만 '스케치 도구'와 '샘플 소싱' 측면에서는 그야말로 혁명적입니다.**
-머릿속에 맴도는 아이디어를 가장 빠르게 시각화·청각화할 수 있고, Splice 같은 플랫폼에서 원하는 샘플을 뒤지는 데 낭비했던 수많은 시간을 획기적으로 줄여줍니다. Audio Canvas는 DAW의 적이 아니라, 마감 시간을 절반으로 줄여주는 **'가장 유능하고 빠른 보조 작곡가(Co-pilot)'**로 활용할 때 진정한 가치를 발휘합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Gemini 3로 만든 음악은 상업적으로 유튜브에 써도 되나요?**
-  - A: 구글의 최신 약관에 따르면 유료(Advanced) 사용자의 경우 상업적 이용이 가능합니다. 단, 기존 아티스트의 목소리나 특정 곡의 스타일을 '직접적으로 모방(Clone)'하는 프롬프트를 사용할 경우 법적 분쟁의 소지가 있으니 독창적인 파라미터를 사용하세요.
-
-- **Q: Audio Canvas 기능을 다른 AI 모델(Claude, ChatGPT)에서도 쓸 수 있나요?**
-  - A: 현재 시각적인 스펙트로그램 제어(Canvas)와 인페인팅 기능은 Gemini 3 멀티모달 환경에 최적화되어 있습니다. 다른 모델에서는 텍스트 기반의 음악 생성(Suno, Udio 플러그인 연동 등)까지만 가능하며 정밀한 구간 편집은 불가능합니다.
-
-- **Q: 프롬프트를 입력했는데 원하는 악기 소리가 안 납니다. 어떻게 수정하나요?**
-  - A: 제약사항(Constraints)의 악기 구성 묘사를 더 구체적으로 적어주세요. 단순한 "피아노" 대신 "어택이 강하고 리버브가 약간 들어간 90년대 하우스 스타일의 Korg M1 피아노"처럼 시그니처 톤을 명시하면 훨씬 정확하게 렌더링됩니다.
+**Sin embargo, como 'herramienta de bocetado' y para la 'búsqueda de samples', es absolutamente revolucionario.**
+Te permite visualizar y escuchar las ideas que rondan tu cabeza casi al instante, reduciendo drásticamente las horas perdidas buscando el sample perfecto en plataformas como Splice. Audio Canvas no es el enemigo del DAW; muestra su verdadero valor cuando se utiliza como el **'copiloto (Co-pilot) musical más rápido y capaz'** que te ayuda a reducir tus tiempos de entrega a la mitad.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **상세한 제약 조건(Constraints):** BPM, Key, 사용할 악기의 질감(Tremolo, Reverb 등)을 명확하게 수치화하여 AI가 '무작위 생성'을 하는 것을 막고 통제된 결과를 내도록 유도했습니다.
-2. **할루시네이션 방지 설계:** '주의사항' 섹션을 통해 기술적으로 불가능하거나 저작권에 위배되는 요청을 필터링하도록 지시하여, 결과물의 상업적 안전성을 확보했습니다.
+- **Q: ¿Puedo usar comercialmente en YouTube la música creada con Gemini 3?**
+  - A: Según los términos más recientes de Google, los usuarios de la versión de pago (Advanced) pueden hacer uso comercial. Sin embargo, ten mucho cuidado: usar prompts que "clonen" directamente el estilo de una canción específica o la voz de un artista existente puede generar disputas legales. Utiliza siempre parámetros creativos y originales.
+
+- **Q: ¿Puedo usar la función Audio Canvas en otros modelos de IA (Claude, ChatGPT)?**
+  - A: Actualmente, el control visual del espectrograma (Canvas) y la función de in-painting están optimizados exclusivamente para el entorno multimodal nativo de Gemini 3. Otros modelos se limitan a la generación de música basada en texto (mediante plugins externos como Suno o Udio) y no permiten una edición precisa de los fragmentos de audio.
+
+- **Q: Ingresé el prompt pero no suena el instrumento que quiero. ¿Cómo lo soluciono?**
+  - A: Sé mucho más específico al describir la instrumentación en la sección de Restricciones (Constraints). En lugar de decir simplemente "un piano", especifica el tono y los efectos característicos como "Piano Korg M1 estilo house de los 90 con un ataque fuerte y un toque de reverb". Esto generará un renderizado inmensamente más preciso.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Análisis del Prompt (¿Por qué funciona?)
 
-### ❌ Before (기존 방식의 막연한 입력)
+1. **Restricciones detalladas (Constraints):** Al cuantificar claramente el BPM, la clave y la textura de los instrumentos (Tremolo, Reverb, etc.), evitamos que la IA realice una "generación aleatoria" y la obligamos a producir un resultado estructurado y controlado.
+2. **Diseño anti-alucinaciones:** La sección de 'Advertencia' instruye a la IA a filtrar peticiones técnicamente imposibles o que violen derechos de autor, garantizando que el archivo final sea seguro para su uso comercial.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Entrada vaga tradicional)
 
 ```text
-비 오는 날 듣기 좋은 로파이 음악 만들어줘. 피아노 소리 들어가게.
+Hazme música lofi para escuchar en un día lluvioso. Que tenga sonido de piano.
 ```
 
-> **결과:** BPM이 제각각이고, 멜로디가 촌스러우며, 내가 원하는 악기를 추가하거나 뺄 수 없는 통제 불능의 생성 결과물.
+> **Resultado:** Un archivo de audio incontrolable con BPM inconsistente, una melodía poco atractiva y sin ninguna posibilidad de aislar o modificar instrumentos posteriormente.
 
-### ✅ After (Audio Canvas 프롬프트 적용)
+### ✅ Después (Aplicando el prompt de Audio Canvas)
 
 ```text
-[Pro Version 프롬프트 입력 후 추가 명령]
-1분 20초부터 1분 30초 사이의 드럼 비트를 걷어내고, 몽환적인 신디사이저 패드로 채워줘.
+[Comando adicional tras introducir el prompt Pro Version]
+Elimina el beat de batería entre el minuto 1:20 y 1:30, y rellénalo con un pad de sintetizador de ensueño.
 ```
 
-> **결과:** 지정한 C Major, 80 BPM의 완벽한 칠(Chill) 바이브 비트 생성. 정확히 지정한 10초 구간만 매끄럽게 신디사이저 패드로 교체된(In-painting) 고품질 MP3 파일 획득.
+> **Resultado:** Se genera un beat lo-fi perfecto con la vibra 'Chill' a 80 BPM y en C Major. Se obtiene un archivo MP3 de alta calidad donde, de manera impecable y sin cortes abruptos, exactamente esa sección de 10 segundos ha sido reemplazada por el pad de sintetizador (In-painting).
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-Gemini 3 Audio Canvas는 DAW를 죽이지 않습니다. 오히려 DAW 안에서 가장 자주 쓰이게 될 **강력한 플러그인**에 가깝습니다.
+Gemini 3 Audio Canvas no acabará con el DAW. Más bien, está destinado a convertirse en el **plugin más poderoso** que utilizarás en tu flujo de trabajo diario.
 
-우리는 이제 마우스를 클릭하며 파형을 자르는 물리적 노동을 넘어, **'언어'로 음악을 믹싱하고 조각하는 새로운 시대**를 맞이했습니다. 이 변화를 두려워하기보다 프롬프트라는 새로운 악기를 어떻게 연주할지 고민할 때입니다.
+Hemos superado la labor física de hacer cientos de clics y cortar ondas diminutas con el ratón; ahora entramos en una **nueva era donde mezclamos y esculpimos la música a través del 'lenguaje'**. En lugar de temer a este cambio, es hora de aprender a tocar este nuevo y fascinante instrumento llamado "prompt".
 
-지금 바로 프롬프트를 복사하여 당신만의 교향곡을 지휘해 보세요! 칼퇴를 부르는 사운드 디자인, 이제 여러분의 텍스트 끝에 있습니다. 🎧
+¡Copia este prompt ahora mismo y dirige tu propia sinfonía! El diseño de sonido que te permitirá salir temprano del estudio ya está en la punta de tus dedos. 🎧

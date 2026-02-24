@@ -5,122 +5,122 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "정부지원사업 합격의 8할은 목차. PSST(문제-해결-성장-팀) 구조에 맞춰 빈칸만 채우면 되는 AI 프롬프트."
+description: "80% da aprovação em editais de fomento está na estrutura. Preencha as lacunas com este prompt de IA baseado no framework PSST (Problema, Solução, Escala, Equipe)."
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# 📑 사업계획서 작성: 예비창업패키지 합격하는 목차 설계
+# 📑 Plano de Negócios: Como Estruturar seu Pitch para Editais de Fomento
 
-- **🎯 추천 대상:** 아이디어는 있지만 문서화가 막막한 예비 창업가, "PSST가 뭔가요?"라고 묻는 초기 스타트업 대표
-- **⏱️ 소요 시간:** 10분 (초안 완성 기준)
-- **🤖 추천 모델:** ChatGPT-4o (논리적 글쓰기 및 구조화에 탁월)
+- **🎯 Público-Alvo:** Empreendedores iniciantes com ideias brilhantes mas travados na documentação, fundadores de startups em estágio inicial (Early-Stage) que precisam entender o framework PSST.
+- **⏱️ Tempo Estimado:** 10 minutos (para o primeiro rascunho)
+- **🤖 Modelo Recomendado:** ChatGPT-4o (Excelente em estruturação lógica e escrita executiva)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"머릿속에는 세상을 바꿀 아이디어가 가득한데, 막상 한글 파일을 열면 커서만 10분째 깜빡이고 있지 않나요?"_
+> _"Sua mente está cheia de ideias que podem mudar o mundo, mas quando você abre um documento em branco, o cursor fica piscando por 10 minutos sem sair do lugar?"_
 
-정부지원사업(예비창업패키지, 초기창업패키지 등)은 본질적으로 **글짓기 대회**이자 **설득의 예술**입니다. 심사위원은 당신의 빛나는 아이디어를 미리 알지 못하며, 오직 제출된 **'문서'** 하나로 모든 것을 평가합니다. 합격하는 사업계획서에는 불문율 같은 공식이 존재합니다. 바로 **PSST(Problem - Solution - Scale-up - Team)** 프레임워크입니다. 이 견고한 뼈대 위에 AI를 활용해 설득력 있는 살을 붙이는 방법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Problem (문제 인식):** 고객이 겪고 있는 페인 포인트(Pain Point)의 심각성을 객관적 수치로 타격감 있게 제시합니다.
-2. **Solution (해결 방안):** 나의 아이템이 그 문제를 어떻게 독창적이고 현실적으로 해결하는지 증명합니다.
-3. **Scale-up (성장 전략):** 이 비즈니스가 어떻게 돈을 벌고(BM), 시장을 장악해 나갈 것인지 구체적으로 그립니다.
+Conseguir financiamento governamental ou aprovação em editais de inovação é, essencialmente, uma **competição de redação** e a **arte da persuasão**. Os avaliadores não conhecem a sua ideia brilhante de antemão; eles julgam o seu potencial baseados em um único **documento**. Existe uma fórmula quase inflexível para planos de negócios aprovados: o framework **PSST (Problem - Solution - Scale-up - Team)**. Aqui, mostraremos como usar a IA para dar corpo, lógica e persuasão a essa estrutura sólida.
 
 ---
 
-## 🚀 해결책: "Government Grant Writer"
+## ⚡️ Resumo em 3 Pontos (TL;DR)
 
-### 🥉 Basic Version (아이디어 구체화)
+1. **Problem (Problema):** Apresente a dor do cliente (Pain Point) com impacto, utilizando dados objetivos e métricas reais que comprovem a gravidade da situação.
+2. **Solution (Solução):** Prove de forma analítica como o seu produto/serviço resolve esse problema de maneira única, inovadora e realista.
+3. **Scale-up (Escala e Crescimento):** Desenhe especificamente como o negócio vai monetizar (Modelo de Negócios) e dominar o mercado (Estratégia GTM).
 
-내 머릿속 아이디어가 정부지원사업의 결에 맞는지 빠르게 테스트하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 예비창업패키지 전문 컨설턴트야.
-> **요청:** 내 아이디어인 `[반려견 산책 친구 매칭 앱]`의 **'문제 인식(Problem)'**과 **'해결 방안(Solution)'** 파트를 실제 사업계획서에 쓰이는 개조식 문체("~함", "~임")로 3줄씩 요약해 줘.
+## 🚀 A Solução: "Government Grant Writer"
+
+### 🥉 Versão Básica (Validação de Ideia)
+
+Use isto quando quiser testar rapidamente se a sua ideia tem o formato adequado para um edital de fomento à inovação.
+
+> **Role (Papel):** Você é um consultor especialista em editais de inovação e fomento para startups.
+> **Task (Tarefa):** Resuma as seções de **'Problema (Problem)'** e **'Solução (Solution)'** para a minha ideia de `[Aplicativo de match para passeadores de cães]` em tópicos curtos (bullet points) com uma linguagem corporativa e objetiva, usando no máximo 3 linhas para cada seção.
 
 <br>
 
-### 🥇 Pro Version (PSST 목차 완성)
+### 🥇 Versão Pro (Estrutura PSST Completa)
 
-실제 서류 제출을 위한 고도화된 초안을 작성할 때 사용하세요.
+Use isto para criar um rascunho altamente sofisticado, pronto para ser lapidado e submetido oficialmente.
 
-> **역할 (Role):** 너는 정부지원사업 평가위원 출신의 10년 차 스타트업 전문 컨설턴트야. 너의 목표는 심사위원을 단숨에 설득할 수 있는 논리적이고 타당성 높은 사업계획서를 작성하는 거야.
+> **Role (Papel):** Você é um consultor de startups com 10 anos de experiência e ex-avaliador de bancas de editais governamentais de fomento (ex: FAPESP, Finep, Startup Brasil). Seu objetivo é redigir um plano de negócios lógico, altamente viável e capaz de persuadir os jurados instantaneamente.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - **아이템:** `[AI 기반 음식물 쓰레기 스캔 및 식재료 재고 관리 앱]`
-> - **타겟 고객:** `[1인 가구 및 바쁜 맞벌이 부부]`
+> - **Produto:** `[Aplicativo com IA para escanear desperdício de alimentos e gerenciar estoque de ingredientes]`
+> - **Público-Alvo:** `[Pessoas que moram sozinhas e casais que trabalham fora e têm pouco tempo livre]`
 >
-> **요청 (Task):**
-> 예비창업패키지 표준 양식인 **PSST** 프레임워크에 맞춰 각 항목의 핵심 내용을 개조식으로 명확하게 작성해 줘.
+> **Task (Tarefa):**
+> Estruture os pontos-chave de cada item utilizando o framework padrão **PSST**, adotando um formato de tópicos objetivos (bullet points).
 >
-> 1. **Problem (문제 인식):** 음식물 쓰레기로 인한 환경 오염 및 개인의 비용 손실과 관련된 객관적인 통계(수치)를 반드시 인용할 것.
-> 2. **Solution (실현 가능성):** 비전 AI를 통한 식재료 자동 인식 기술의 구체적인 작동 원리와 경쟁사 대비 압도적인 차별점(USP)을 강조할 것.
-> 3. **Scale-up (성장 전략):** 명확한 수익 모델(구독료, 데이터 판매 등)과 초기 1,000명의 유저를 확보하기 위한 구체적인 GTM(Go-To-Market) 전략을 제시할 것.
-> 4. **Team (팀 구성):** 이 아이템을 실현하기 위해 필요한 핵심 인력(개발자, 기획자 등)의 필수 역량을 가상으로 작성할 것.
+> 1. **Problem (Problema):** É obrigatório citar estatísticas objetivas (números) relacionadas à poluição ambiental causada pelo desperdício de alimentos e o prejuízo financeiro individual.
+> 2. **Solution (Solução):** Destaque o mecanismo de funcionamento da tecnologia de reconhecimento automático de ingredientes via IA Visual e sua proposta única de valor (USP) em relação aos concorrentes.
+> 3. **Scale-up (Crescimento):** Apresente um modelo de monetização claro (ex: assinaturas, venda de dados) e uma estratégia Go-To-Market (GTM) robusta para adquirir os primeiros 1.000 usuários.
+> 4. **Team (Equipe):** Crie perfis fictícios delineando as competências essenciais necessárias (ex: Desenvolvedor Especialista em Visão Computacional, Product Manager) para tirar essa ideia do papel.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 모든 문장은 "~함", "~임", "~할 계획임" 등 사업계획서 표준 개조식 문체를 사용할 것.
-> - 추상적인 형용사(예: "매우 좋은", "혁신적인") 사용을 지양하고, 전문 용어를 적절히 혼용하여 신뢰감을 줄 것.
+> - Use uma linguagem técnica, formal e direta, padrão de documentos executivos e editais (ex: "Implementação de...", "Redução projetada em...").
+> - Evite adjetivos vagos ou emocionais (ex: "muito bom", "revolucionário"). Substitua-os por jargões do setor para transmitir autoridade e credibilidade.
 >
-> **주의사항 (Warning):**
+> **Warning (Avisos):**
 >
-> - 존재하지 않는 가짜 통계 자료(Hallucination)를 지어내지 마. 정확한 출처가 확인된 팩트 기반의 논리만 전개해.
+> - Não invente estatísticas falsas (Alucinação). Construa seus argumentos baseados apenas em fatos lógicos.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-수백 건의 사업계획서를 검토해 본 심사위원들의 시선을 끄는 것은 화려한 수사가 아닌 **'객관적 데이터'**입니다. "많은 사람들이 음식물 쓰레기 처리에 불편함을 느낍니다"라는 감성적인 문장 대신, "연간 음식물 쓰레기 처리 비용 1조 원, 1인 가구 평균 월 3만 원의 식재료 폐기 비용 발생"과 같이 숫자로 타격해야 합니다. AI에게 프롬프트를 입력할 때 **"통계 자료나 수치를 반드시 포함할 것"**이라는 조건을 달면 문서의 설득력이 기하급수적으로 올라갑니다. 단, AI가 생성한 수치는 반드시 교차 검증(Fact Check)을 거쳐 실제 출처를 기재해야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 써준 내용을 그대로 제출해도 불이익(표절 등)이 없나요?**
-  - A: AI의 결과물은 완벽한 뼈대이자 초안입니다. 이를 그대로 복사/붙여넣기 하기보다는, 제안된 논리 흐름과 문장 구조를 참고하여 대표님만의 '진짜 경험'과 '인사이트'를 녹여내어 본인의 언어로 윤문하는 과정이 반드시 필요합니다.
-
-- **Q: 텍스트만 빽빽하면 심사위원이 안 읽지 않을까요?**
-  - A: 정확합니다. 텍스트 위주의 문서는 가독성이 떨어집니다. AI에게 *"Solution 파트의 핵심 기술을 시각적으로 설명하고 싶은데, PPT에 어떤 다이어그램(도식)을 그리면 좋을지 아이디어를 줘"*라고 요청해 보세요. 훌륭한 시각 자료 기획안을 얻을 수 있습니다.
+O que captura a atenção de avaliadores que leem centenas de projetos não são promessas grandiosas, mas sim os **'dados objetivos'**. Em vez da frase emocional e fraca "Muitas pessoas acham ruim jogar comida fora", você precisa impactar com métricas reais: "O custo anual de descarte de lixo orgânico ultrapassa X bilhões, gerando um prejuízo médio mensal de Y reais por residência". Ao instruir a IA com o comando estrito **"É obrigatório incluir estatísticas"**, o poder de persuasão do seu documento cresce exponencialmente. No entanto, lembre-se: você deve fazer o *Fact Check* (verificação de fatos) rigoroso dos números gerados pela IA e inserir as fontes oficiais antes de submeter o projeto.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **평가위원 페르소나 부여:** AI에게 "평가위원 출신 컨설턴트"라는 역할을 명시함으로써, 심사 기준(차별성, 시장성, 실현 가능성)에 입각하여 가점을 받을 수 있는 핵심 포인트를 스스로 부각하게 만듭니다.
-2. **PSST 구조의 강제화:** 정부지원사업의 절대적인 평가 기준인 PSST 목차를 정확히 지정해 주어, AI가 핵심에서 벗어나 장황한 소설을 쓰는 것을 방지하고 실무에 즉시 적용 가능한 포맷을 출력하도록 통제했습니다.
+- **P: Posso simplesmente enviar o texto gerado pela IA sem fazer alterações?**
+  - R: Absolutamente não. A IA fornece uma excelente estrutura lógica e um primeiro rascunho poderoso. No entanto, enviar exatamente como foi gerado é um erro. Você deve usar o fluxo proposto, mas reescrever com suas próprias palavras, inserindo sua "verdadeira experiência", paixão e os dados mercadológicos reais da sua startup.
+
+- **P: Um documento apenas com textos densos não vai cansar o avaliador?**
+  - R: Exatamente. Documentos baseados apenas em blocos de texto têm péssima legibilidade. Experimente pedir à IA: *"Eu quero explicar a tecnologia principal da seção de Solução visualmente. Me dê ideias de diagramas de arquitetura ou fluxogramas que eu poderia criar no meu Pitch Deck."* Isso te dará ótimas diretrizes para os seus materiais visuais.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (일기장 같은 서술)
+1. **Atribuição da Persona de Avaliador:** Ao definir o papel da IA como um "ex-avaliador de editais de fomento", forçamos o modelo a destacar naturalmente os pontos críticos que garantem pontuação extra em avaliações reais (diferenciação clara, tamanho factível do mercado, viabilidade técnica).
+2. **Imposição da Estrutura PSST:** Ao exigir estritamente o formato PSST (critério absoluto na maioria das bancas), impedimos que a IA fuja do tema e escreva um texto longo e inútil, garantindo um formato cirúrgico e pronto para o uso corporativo.
+
+---
+
+## 📊 Prova Social: Antes & Depois
+
+### ❌ Antes (Relato pessoal e amador)
 
 ```text
-제가 자취를 해보니까 음식물 쓰레기 버리는 게 너무 귀찮고 냄새도 나서 불편했습니다. 그래서 냉장고에 있는 재료를 사진 찍으면 유통기한을 알려주고, 남은 재료로 요리법도 알려주는 앱을 만들고 싶습니다.
+Como eu moro sozinho, acho muito chato jogar comida fora, além de dar mau cheiro. Por isso, quero criar um aplicativo que, quando você tira uma foto da geladeira, ele mostra a validade das coisas e dá dicas de receitas para aproveitar o que sobrou.
 ```
 
-### ✅ After (합격하는 사업계획서 문체)
+### ✅ Depois (Linguagem Executiva de Plano de Negócios)
 
 ```text
-[1-1. 문제 인식 (Problem)]
-- 1인 가구 증가에 따른 소포장 식재료 니즈 증대 및 연간 음식물 쓰레기 처리 비용 1조 원 돌파.
-- 기존 수기 기반 재고 관리 방식의 한계로 인해, 1인 가구 식재료 폐기율 30% 육박 및 경제적 손실 지속 발생.
+[1-1. Problem (Problema)]
+- Aumento da necessidade de alimentos em pequenas porções devido ao crescimento de domicílios unipessoais, com o custo anual de tratamento de resíduos alimentares ultrapassando a marca de [X] Bilhões.
+- Limitações do atual controle manual de estoque residencial resultam em uma taxa de desperdício de 30% em lares de uma pessoa, gerando perdas financeiras contínuas e ineficiência de consumo.
 
-[1-2. 해결 방안 (Solution)]
-- AI Vision 객체 인식 기술을 활용한 '촬영 1회 기반 냉장고 스캔 및 유통기한 자동 DB화' 솔루션 구축.
-- 사용 기한 임박 식재료 기반의 맞춤형 레시피 추천 알고리즘을 통한 푸드 업사이클링(Food Upcycling) 실현.
+[1-2. Solution (Solução)]
+- Desenvolvimento de uma solução de 'Digitalização de Geladeira e Banco de Dados Automático de Validade' baseada em tecnologia de reconhecimento de objetos via IA Visual (Computer Vision), processada em apenas 1 clique.
+- Realização de 'Food Upcycling' (Reaproveitamento Inteligente) através de um algoritmo de recomendação de receitas personalizadas, priorizando o consumo de ingredientes com data de vencimento iminente.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-사업계획서는 나의 열정을 뽐내는 일기장이 아니라, **'투자자와 심사위원을 납득시키는 치밀한 설득의 문서'**입니다.
+Um plano de negócios não é um diário para exibir suas paixões; é um **documento de persuasão meticuloso projetado para convencer investidores e bancas de avaliação**.
 
-가장 어려운 첫 문장을 시작하는 고통, 이제 AI에게 맡기세요. 탄탄하게 설계된 프롬프트와 함께라면 여러분의 아이디어는 **1억 원의 가치를 지닌 정부지원사업 합격증**으로 돌아올 것입니다. 오늘 바로 초안을 완성해 보세요! 🍷
+Deixe o sofrimento de escrever a primeira frase nas mãos da IA. Com um prompt bem arquitetado, o esboço das suas ideias pode se transformar no **passaporte para conquistar aquele financiamento ou seed money que sua startup precisa**. Finalize seu primeiro rascunho hoje mesmo e saia na frente! 🍷

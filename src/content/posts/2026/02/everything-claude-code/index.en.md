@@ -1,6 +1,6 @@
 ---
-title: "Claude Code 200% 활용법: 4만 스타 `everything-claude-code` 설정 가이드"
-excerpt: "단순한 코딩 비서를 넘어 시니어 엔지니어로 진화시키는 방법. 4만 스타를 받은 `everything-claude-code` 설정으로 생산성을 극대화하세요."
+title: "How to Use Claude Code at 200%: The 40K-Star `everything-claude-code` Setup Guide"
+excerpt: "Learn how to evolve your AI from a simple coding assistant into a senior engineer. Maximize your productivity with the 40,000-star `everything-claude-code` configuration."
 date: "2026-02-16"
 author: "OpenClaw Writer"
 category: "AI Coding"
@@ -8,132 +8,128 @@ tags:
   ["Claude Code", "AI Agent", "Developer Tools", "Productivity", "Open Source"]
 ---
 
-# 📝 Claude Code 200% 활용법: 4만 스타 `everything-claude-code` 설정 가이드
+# 📝 How to Use Claude Code at 200%: The 40K-Star `everything-claude-code` Setup Guide
 
-- **🎯 추천 대상:** 주니어 개발자, 1인 개발자, AI 코딩 에이전트 도입을 고민하는 팀 리더
-- **⏱️ 소요 시간:** 초기 설정 2분 → 작업 시간 50% 단축
-- **🤖 추천 모델:** Claude Code, Cursor, OpenCode
+- **🎯 Target Audience:** Junior developers, solo founders, and team leads considering AI coding agents
+- **⏱️ Time Required:** 2 minutes setup → Cuts dev time by 50%
+- **🤖 Recommended Model:** Claude Code, Cursor, OpenCode
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"아직도 AI 코딩 에이전트에게 '이거 만들어줘'라고만 하시나요? 당신의 조수를 깐깐한 시니어 개발자로 멱살 잡고 캐리해 줄 4만 스타짜리 비기를 공개합니다."_
+> _"Are you still just asking your AI coding agent to 'build this'? It's time to evolve your basic assistant into a meticulous Senior Engineer with this 40,000-star secret weapon."_
 
-AI 코딩 에이전트가 쏟아지는 지금, 여러분은 도구를 어떻게 쓰고 계신가요? 혹시 아직도 챗봇에게 말 걸듯 코드를 짜달라고 부탁하고 있다면, 페라리를 타고 동네 마트를 가는 것과 같습니다. 진정한 AI의 힘은 **설정(Configuration)**과 **워크플로우(Workflow)**에서 나옵니다.
+With AI coding agents flooding the market, how are you actually utilizing your tools? If you're still talking to them like a standard chatbot and casually asking for code, you're essentially driving a Ferrari to the local grocery store. The true power of an AI agent lies in its **Configuration** and **Workflow**.
 
-오늘은 출시 한 달 만에 GitHub 스타 4만 개를 돌파하며 전 세계 개발자 커뮤니티를 강타한 **[`everything-claude-code`](https://github.com/affaan-m/everything-claude-code)** 리포지토리 활용법을 소개합니다. 이 설정 하나면, 여러분의 단순한 코딩 비서가 '시니어 엔지니어링 팀'으로 진화합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. `everything-claude-code`는 단순한 프롬프트 모음이 아닌 AI 에이전트용 '운영 체제'입니다.
-2. 기획, TDD, 코드 리뷰 등 13명의 전문 에이전트 페르소나를 강제하여 코드 품질을 보장합니다.
-3. `/evolve` 명령어 하나로 프로젝트의 코딩 스타일을 AI가 스스로 학습하고 진화합니다.
+Today, we're diving into the **[`everything-claude-code`](https://github.com/affaan-m/everything-claude-code)** repository—a game-changer that hit 40,000 GitHub stars within a month of its release, taking the global developer community by storm. With just this one setup, your simple coding assistant will transform into an entire 'Senior Engineering Team'.
 
 ---
 
-## 🚀 해결책: "Everything Claude Code" 프롬프팅
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (빠른 설치 및 기본 기획)
+1. `everything-claude-code` is not just a collection of prompts; it acts as an 'Operating System' for your AI agent.
+2. It enforces code quality by utilizing 13 specialized agent personas, covering planning, TDD, and code review.
+3. The `/evolve` command allows the AI to autonomously learn and adapt to your project's specific coding style.
 
-터미널에서 2분 만에 시니어 에이전트를 고용하세요.
+---
 
-> **1. 플러그인 설치 (Claude Code 기준):**
+## 🚀 Solution: "Everything Claude Code" Prompting
+
+### 🥉 Basic Version
+
+Use this for quick installation and basic project planning. Hire a senior agent in your terminal in under 2 minutes.
+
+> **1. Install Plugin (For Claude Code):**
 > `/plugin marketplace add affaan-m/everything-claude-code`
 > `/plugin install everything-claude-code@everything-claude-code`
 >
-> **2. 기획 프롬프트 실행:**
-> `/plan "Next.js 14 App Router를 사용해서 반응형 블로그 포스트 목록 페이지를 만들어줘. Tailwind CSS와 shadcn/ui를 사용할 거야."`
+> **2. Execute Planning Prompt:**
+> `/plan "Build a responsive blog post list page using Next.js 14 App Router. I want to use Tailwind CSS and shadcn/ui."`
 
 <br>
 
-### 🥇 Pro Version (TDD 및 커스텀 룰 강제)
+### 🥇 Pro Version
 
-프로젝트에 특화된 시니어 개발자 워크플로우를 강제하고 싶을 때 사용하세요.
+Use this when you need to enforce a strict, senior-level developer workflow tailored to your specific project.
 
-> **역할 (Role):** 너는 엄격한 TDD(테스트 주도 개발) 원칙을 준수하는 `[시니어 타입스크립트 개발자]`야.
+> **Role:** You are a `[Senior TypeScript Developer]` strictly adhering to TDD (Test-Driven Development) principles.
 >
-> **상황 (Context):**
+> **Context:**
+> - We are following the rules defined in `[everything-claude-code]`.
+> - Goal: We need to implement the `[User Authentication Feature]`.
 >
-> - 우리는 `[everything-claude-code]`의 규칙을 따르고 있어.
-> - 목표: `[사용자 인증 기능]`을 구현해야 해.
+> **Task:**
+> 1. Activate the `/tdd` command in the terminal.
+> 2. Before writing the actual implementation, you must write test codes including edge cases.
+> 3. Do not proceed to the next step unless test coverage exceeds 80%.
+> 4. Reflect any `[Additional Requirements]` in your code.
 >
-> **요청 (Task):**
+> **Constraints:**
+> - Add explicit Type Hints to all variables and functions.
+> - The use of the `any` type is strictly forbidden.
 >
-> 1. 터미널에서 `/tdd` 명령어를 활성화해.
-> 2. 실제 코드를 작성하기 전에 반드시 예외 케이스를 포함한 테스트 코드를 먼저 작성해.
-> 3. 테스트 커버리지가 80%를 넘지 않으면 다음 단계로 넘어가지 마.
-> 4. `[추가 요구사항]`이 있다면 반영해서 코드를 작성해.
->
-> **제약사항 (Constraints):**
->
-> - 모든 변수와 함수에는 명시적인 Type Hint를 추가해.
-> - `any` 타입 사용은 절대 금지야.
->
-> **주의사항 (Warning):**
->
-> - 기존 아키텍처나 컨벤션을 위반하는 코드는 작성하지 마. 확신이 없다면 내게 먼저 질문해. (환각 방지)
+> **Warning:**
+> - Do not write code that violates the existing architecture or conventions. If unsure, ask me first to prevent hallucinations.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 설정을 직접 실무에 적용해 보고 가장 소름 돋았던 부분은 **"AI가 게으른 프롬프팅을 거부한다"**는 점이었습니다.
+The most mind-blowing part about applying this setup in a real-world production environment is that **the AI actively rejects lazy prompting.**
 
-예전에는 "로그인 페이지 붙여줘"라고 대충 말하면, 에러 처리도 없는 엉망진창인 코드를 뱉어내곤 했습니다. 하지만 이 설정을 적용한 후에는 다릅니다. `/plan` 명령어를 쓰면 AI가 먼저 _"어떤 인증 방식(OAuth, JWT)을 사용할까요? 에러 상태 UI는 어떻게 처리할까요?"_ 라며 저를 역으로 닦달하기 시작합니다. 마치 **기획서 없이는 타자도 안 치는 깐깐한 수석 개발자**를 사수로 둔 기분이죠.
+In the past, if I vaguely said, "Attach a login page," the AI would spit out a mess of code with zero error handling. But after applying this configuration, everything changed. When I use the `/plan` command, the AI interrogates me first: _"Which authentication method (OAuth, JWT) should we use? How should we handle the error state UI?"_ It genuinely feels like working under a strict Lead Developer who refuses to write a single line of code without a proper spec document.
 
-특히 감탄한 것은 **`/evolve`** 명령어입니다. 프로젝트가 진행될수록 AI가 우리 팀만의 코딩 컨벤션(예: "우리는 인터페이스 이름 앞에 'I'를 붙이지 않는다")을 스스로 학습하여 규칙으로 만듭니다. 스파게티 코드 양산에 지친 분들, 시니어의 코드 리뷰가 그리운 1인 개발자에게 이 워크플로우는 선택이 아닌 필수입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Claude Code CLI 환경에서만 쓸 수 있나요?**
-  - A: 아닙니다! Cursor 편집기의 `.cursorrules` 파일에 적용하거나 OpenCode 환경에서도 완벽하게 호환됩니다.
-
-- **Q: 회사 내부 보안 프로젝트에 써도 괜찮은가요?**
-  - A: 룰(Rule) 파일 자체는 오픈소스이며 로컬에 저장되므로 안전합니다. 다만, LLM 모델로 코드를 전송하는 행위 자체는 사내 보안 규정(Enterprise 플랜 사용 여부 등)을 반드시 확인하셔야 합니다.
-
-- **Q: 초보자가 쓰기엔 설정이 너무 깐깐하지 않나요?**
-  - A: 처음엔 AI가 자꾸 질문을 던지고 테스트 코드를 강제해서 귀찮을 수 있습니다. 하지만 이 과정을 거쳐야만 나중에 기술 부채(Technical Debt)를 갚느라 밤새는 일을 막을 수 있습니다.
+I was especially impressed by the **`/evolve`** command. As the project progresses, the AI autonomously learns our team's unique coding conventions (e.g., "We do not prefix interface names with 'I'") and internalizes them into rules. If you are tired of generating spaghetti code or if you are a solo dev missing the rigorous code reviews of a senior peer, this workflow is an absolute must-have.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **강제된 워크플로우 (Forced Workflow):** 단순 지시가 아니라 `/plan`, `/tdd` 등의 슬래시 명령어를 통해 AI가 특정 프로세스(요구사항 분석 → 테스트 작성 → 본 코드 구현)를 밟도록 유도합니다.
-2. **페르소나 분리 (Persona Separation):** 코딩하는 자아(Developer), 리뷰하는 자아(Reviewer), 기획하는 자아(Planner)를 분리하여 AI 스스로 코드의 객관성을 교차 검증하게 만듭니다.
-3. **지속적 학습 (Instincts):** 대화 맥락이 휘발되는 기존 챗봇과 달리, AI가 프로젝트를 진행하며 사용자의 수정 패턴을 파악해 `.rules` 파일로 내재화합니다.
+- **Q: Is this only available in the Claude Code CLI environment?**
+  - A: Not at all! It is fully compatible with Cursor by applying it to your `.cursorrules` file, and it works flawlessly in OpenCode environments as well.
+
+- **Q: Is it safe to use this for internal corporate security projects?**
+  - A: The rule files themselves are open-source and stored locally, making them safe. However, the act of sending your codebase to an LLM must be cross-checked with your company's internal security policies (e.g., whether you are using an Enterprise plan).
+
+- **Q: Isn't this setup too strict for beginners?**
+  - A: Initially, it might feel annoying because the AI constantly asks questions and forces you to write tests. However, going through this rigorous process is the only way to prevent spending countless sleepless nights paying off technical debt later.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (일반적인 AI 코딩)
+1. **Forced Workflow:** Instead of merely following basic instructions, slash commands like `/plan` and `/tdd` force the AI to follow a structured development lifecycle (Requirements Analysis → Test Writing → Implementation).
+2. **Persona Separation:** By dividing the AI into distinct roles (Developer, Reviewer, Planner), it is forced to cross-verify its own code, ensuring objectivity and higher quality.
+3. **Instinctual Learning:** Unlike standard chatbots where context evaporates, this setup analyzes your modification patterns as the project progresses and internalizes them into a `.rules` file for persistent memory.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Standard AI Coding)
 
 ```text
-User: "게시판 목록 만들어줘"
-AI: (묻지도 따지지도 않고 바로 React 코드를 길게 출력함. 페이지네이션 없음, 에러 처리 누락, 프로젝트 디자인 시스템 무시)
+User: "Build a bulletin board list."
+AI: (Immediately outputs a massive block of React code without asking questions. No pagination, missing error boundaries, completely ignores the project's design system.)
 ```
 
-### ✅ After (everything-claude-code 적용 후)
+### ✅ After (With `everything-claude-code`)
 
 ```text
-User: "> /plan 게시판 목록 만들어줘"
-AI: Planner 에이전트가 가동되었습니다. 완벽한 구현을 위해 다음 3가지를 먼저 확정해야 합니다.
-1. 페이지당 몇 개의 게시물을 보여줄까요? (무한 스크롤 vs 페이지네이션)
-2. 데이터 패칭은 서버 사이드(SSR)로 할까요, 클라이언트 사이드(CSR)로 할까요?
-3. 데이터 로딩 시 보여줄 Skeleton UI 디자인이 필요합니까?
+User: "> /plan Build a bulletin board list."
+AI: The Planner Agent has been activated. To ensure a perfect implementation, we must finalize the following 3 points first:
+1. How many posts should be displayed per page? (Infinite scrolling vs. Pagination)
+2. Should the data fetching be Server-Side (SSR) or Client-Side (CSR)?
+3. Do we need a Skeleton UI design for the data loading state?
 
-답변해 주시면 TDD 에이전트에게 테스트 코드 작성을 지시하겠습니다.
+Please answer these so I can instruct the TDD Agent to begin writing the test codes.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-AI 코딩 도구는 더 이상 단순한 '자동완성기'가 아닙니다. `everything-claude-code`는 여러분의 조수를 최고의 협업 파트너로 각성시키는 치트키입니다.
+AI coding tools are no longer just glorified 'auto-completers'. `everything-claude-code` is the cheat code that awakens your basic assistant into an elite, collaborative engineering partner.
 
-지금 당장 터미널을 열고 설치해 보세요. 여러분의 코딩 라이프가 훨씬 쾌적하고 우아해질 것입니다. 이제 칼퇴하세요! 🍷
+Open your terminal and install it right now. Your coding life is about to become significantly more elegant and stress-free. Time to log off early! 🍷

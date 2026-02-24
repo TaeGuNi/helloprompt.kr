@@ -5,126 +5,126 @@ tags: [openclaw, local-llm, agents]
 image: https://source.unsplash.com/random/1600x900/?computer,code
 ---
 
-# 📝 Local Agents: 내 컴퓨터 속 AI 군단, OpenClaw
+# 📝 Local Agent: L'Esercito IA nel Tuo Computer con OpenClaw
 
-- **🎯 추천 대상:** 프라이버시를 중시하는 개발자, 로컬 환경에서 AI를 활용하고 싶은 기획자
-- **⏱️ 소요 시간:** 10분 → 1분 단축
-- **🤖 추천 모델:** 로컬 LLM (Ollama, LM Studio 등) 및 OpenClaw 환경
+- **🎯 Consigliato per:** Sviluppatori attenti alla privacy, Project Manager che vogliono sfruttare l'IA in locale
+- **⏱️ Tempo richiesto:** Da 10 minuti → a 1 minuto
+- **🤖 Modello consigliato:** LLM Locali (Ollama, LM Studio, ecc.) e ambiente OpenClaw
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficoltà:** ⭐⭐⭐☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
-> _"클라우드에 민감한 회사 코드를 올리기 불안하신가요? 내 컴퓨터에서 완벽하게 오프라인으로 작동하는 나만의 최고 보안 AI 에이전트를 구축해 보세요."_
+> _"Hai il terrore di caricare codice aziendale sensibile sul cloud? Costruisci il tuo agente IA personale ad altissima sicurezza, funzionante al 100% offline direttamente sul tuo computer."_
 
-클라우드 기반 AI의 시대가 가고, 이제 '로컬 에이전트(Local Agents)'의 시대가 오고 있습니다. 그 중심에 OpenClaw와 같은 로컬 기반 에이전트 프레임워크가 있습니다. 내 컴퓨터(Local Machine)에서 직접 구동되는 AI 에이전트는 프라이버시를 완벽하게 보호하며, 인터넷 연결 없이도 이메일 정리, 로컬 파일 분석, 코딩 보조 등의 강력한 자동화를 수행합니다. 이 가이드에서는 로컬 에이전트에게 완벽한 시스템 프롬프트를 부여하여 '프라이빗 AI 비서'로 세팅하는 방법을 알아봅니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **완벽한 프라이버시 보장:** 오프라인으로 동작하여 민감한 기업 데이터나 개인 파일 유출 걱정이 없습니다.
-2. **무제한 무료 사용:** 로컬 GPU/NPU를 활용하므로 비싼 API 호출 비용이 전혀 발생하지 않습니다.
-3. **무한한 스킬 확장:** 시스템 프롬프트 하나로 내 로컬 환경에 딱 맞는 맞춤형 비서를 생성할 수 있습니다.
+L'era dell'IA basata esclusivamente sul cloud sta tramontando, lasciando spazio alla rivoluzione dei **Local Agent** (Agenti Locali). Al centro di questo cambiamento troviamo framework all'avanguardia come OpenClaw. Un agente IA in esecuzione diretta sulla tua macchina locale (Local Machine) garantisce una privacy assoluta e automatizza operazioni complesse—come l'organizzazione delle email, l'analisi di file locali e l'assistenza alla programmazione—senza alcuna necessità di connessione internet. In questa guida, scopriremo come configurare il prompt di sistema perfetto per trasformare il tuo agente locale nel tuo "assistente IA privato e inespugnabile".
 
 ---
 
-## 🚀 해결책: "프라이빗 로컬 에이전트(OpenClaw) 마스터 세팅"
+## ⚡️ 3 Sintesi Rapida (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Privacy Assoluta:** Funziona offline, eliminando qualsiasi rischio di fuga di dati aziendali sensibili o file personali.
+2. **Gratuito e Illimitato:** Sfrutta la GPU/NPU del tuo computer locale, azzerando i costi elevati delle chiamate API.
+3. **Espandibilità Infinita:** Con un singolo prompt di sistema, crei un assistente su misura perfettamente integrato nel tuo ecosistema locale.
 
-로컬 AI를 빠르게 개인 비서로 설정하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 내 로컬 컴퓨터에서만 동작하는 프라이빗 AI 비서 'OpenClaw'야.
-> **요청:** 내 로컬 시스템의 파일 정리와 코드 리뷰를 도와주고, 절대 외부 네트워크로 데이터를 전송하지 마.
+## 🚀 La Soluzione: "Setup Master per l'Agente Locale Privato (OpenClaw)"
+
+### 🥉 Versione Base (Basic Version)
+
+Usa questa versione per configurare rapidamente un'IA locale come assistente personale.
+
+> **Ruolo:** Sei 'OpenClaw', il mio assistente IA privato che opera esclusivamente sul mio computer locale.
+> **Azione:** Aiutami a organizzare i file e a fare la code review sul mio sistema locale. Non inviare mai e in nessun caso dati su reti esterne.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versione Pro (Professional Version)
 
-OpenClaw 같은 로컬 에이전트에게 명확한 보안 규칙과 스킬 활용 권한을 부여하는 시스템 프롬프트입니다.
+Questo è il prompt di sistema definitivo per conferire regole di sicurezza ferree e permessi di esecuzione avanzati ad agenti locali come OpenClaw.
 
-> **역할 (Role):** 너는 내 로컬 환경(Local Machine)에서 구동되는 최고 보안 등급의 AI 에이전트, 'OpenClaw'야.
+> **Ruolo (Role):** Sei 'OpenClaw', un Agente IA con il massimo livello di sicurezza, in esecuzione esclusivamente nel mio ambiente locale (Local Machine).
 >
-> **상황 (Context):**
+> **Contesto (Context):**
 >
-> - 배경: 사용자는 클라우드 유출 위험이 있는 사내 기밀 코드와 민감한 개인 문서를 로컬에서만 처리하길 원함.
-> - 목표: 로컬 디바이스의 리소스만을 활용하여, 안전하고 신속하게 작업을 자동화하는 완벽한 개인 비서 역할 수행.
+> - Background: L'utente desidera elaborare codice aziendale riservato e documenti personali sensibili solo in locale, evitando i rischi di fuga di dati legati al cloud.
+> - Obiettivo: Agire come un assistente personale infallibile, automatizzando le attività in modo rapido e sicuro utilizzando unicamente le risorse del dispositivo locale.
 >
-> **요청 (Task):**
+> **Azione (Task):**
 >
-> 1. 사용자의 요청(예: `[디렉토리 경로]` 내의 파일 분류, `[언어]` 코드 리뷰)을 분석하여 최적의 로컬 스킬을 실행해.
-> 2. `[작업 목표]`를 달성하기 위해 필요한 쉘(Shell) 명령어 커맨드나 파이썬 스크립트를 작성하여 제안해.
-> 3. 실행 결과에 대한 요약 리포트를 마크다운 형식으로 작성해.
+> 1. Analizza le richieste dell'utente (es. classificare i file nella `[Percorso Directory]`, eseguire una code review in `[Linguaggio]`) ed esegui la skill locale più appropriata.
+> 2. Scrivi e proponi i comandi Shell o gli script Python necessari per raggiungere l' `[Obiettivo Operativo]`.
+> 3. Redigi un report di riepilogo in formato Markdown con i risultati dell'esecuzione.
 >
-> **제약사항 (Constraints):**
+> **Vincoli (Constraints):**
 >
-> - **[절대 보안]** 어떠한 경우에도 인터넷을 통한 외부 API 호출이나 데이터 전송을 시도하지 마.
-> - **[리소스 제한]** 로컬 PC의 메모리를 과도하게 점유하는 무한 루프나 무거운 연산은 실행 전 반드시 사용자 승인을 받아.
-> - 출력 형식은 마크다운을 사용하고, 코드는 반드시 코드블럭(```)으로 감싸.
+> - **[Sicurezza Assoluta]** In nessun caso devi tentare di chiamare API esterne o trasmettere dati tramite Internet.
+> - **[Limite Risorse]** Per loop infiniti o calcoli pesanti che potrebbero monopolizzare la RAM del PC locale, devi assolutamente ottenere l'approvazione dell'utente prima dell'esecuzione.
+> - L'output deve essere formattato in Markdown e tutto il codice deve essere racchiuso all'interno di blocchi di codice (```).
 >
-> **주의사항 (Warning):**
+> **Avvertenze (Warning):**
 >
-> - 확실하지 않은 파일 제어나 시스템 폴더 접근 요청은 즉시 거절하고 "권한 없음" 경고 메시지를 출력해. (안전성 최우선)
+> - Rifiuta immediatamente qualsiasi richiesta ambigua di controllo dei file o di accesso alle cartelle di sistema, stampando il messaggio di avviso "Accesso Negato". (La sicurezza ha la priorità assoluta)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Intuizione dell'Autore (Insight)
 
-이 프롬프트는 로컬 에이전트를 구축할 때 **가장 중요한 '보안 가드레일'과 '로컬 권한'**을 확실하게 설정하는 데 초점을 맞췄습니다. 클라우드 기반 AI(예: ChatGPT, Claude)는 강력하지만, 보안 서약이 필요한 회사 문서나 개인적인 영수증을 올리기엔 리스크가 큽니다. 반면, OpenClaw나 Ollama를 활용한 로컬 에이전트에 이 시스템 프롬프트를 적용하면, 네트워크 연결을 완전히 끊은 상태에서도 내 컴퓨터 안의 파일들을 안전하게 요약하고 분석할 수 있습니다. 특히 `[절대 보안]` 제약 조건은 AI가 임의로 외부 패키지를 다운로드하거나 웹 검색을 시도하는 환각(Hallucination)성 행동을 원천 차단하는 핵심입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 제 컴퓨터(노트북) 사양이 낮은데 로컬 에이전트를 돌릴 수 있나요?**
-  - A: 최근에는 7B ~ 8B 수준의 경량화된 모델(Llama 3 8B, Gemma 2 9B 등)과 최적화(Quantization) 기술 덕분에 일반적인 M1/M2 맥북이나 16GB 램을 가진 윈도우 PC에서도 충분히 쾌적하게 구동 가능합니다.
-
-- **Q: OpenClaw 같은 로컬 에이전트에게 새로운 기능을 학습시킬 수 있나요?**
-  - A: 네, 로컬 에이전트는 '스킬(Skill)' 형태의 파이썬 스크립트나 JSON 설정을 통해 무한히 확장할 수 있습니다. 위 프롬프트를 활용해 "나만의 이메일 요약 스킬을 만들어줘"라고 지시해 보세요.
-
-- **Q: 오프라인 상태인데 코딩 관련 질문에 잘 대답하나요?**
-  - A: 로컬 모델 내부에는 이미 방대한 양의 코딩 지식이 압축되어 있습니다. 실시간 웹 검색은 불가능하지만, 대부분의 코드 리뷰나 알고리즘 작성은 오프라인 환경에서도 훌륭하게 수행합니다.
+Questo prompt è focalizzato sull'impostazione dei **"guardrail di sicurezza" e dei "permessi locali"**, che sono le fondamenta per la costruzione di un agente locale affidabile. Le IA basate su cloud (come ChatGPT o Claude) sono potenti, ma presentano rischi enormi se utilizzate per documenti aziendali soggetti a NDA o scontrini personali. Al contrario, applicando questo prompt di sistema ad agenti locali basati su OpenClaw o Ollama, puoi riassumere e analizzare i file all'interno del tuo computer in totale sicurezza, anche scollegando fisicamente il cavo di rete. In particolare, il vincolo `[Sicurezza Assoluta]` è il nucleo vitale che impedisce all'IA di compiere azioni "allucinate", come il download arbitrario di pacchetti esterni o tentativi non autorizzati di ricerca sul web.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1.  **Role 부여:** '최고 보안 등급의 로컬 에이전트'라는 강력한 페르소나를 부여하여, 외부 의존도를 낮추고 철저하게 로컬 환경에 집중하도록 유도했습니다.
-2.  **Constraints(제약):** "외부 API 호출 금지"와 "사용자 승인 필수" 조건을 명확히 명시하여, AI가 로컬 환경을 임의로 수정하거나 망가뜨리는 치명적인 사고를 예방했습니다.
-3.  **Format 지정:** 쉘 스크립트와 마크다운 리포트를 강제함으로써, 사용자가 즉시 복사해서 실행(Copy & Paste)할 수 있는 실용적인 결과물을 보장합니다.
+- **Q: Posso far girare un agente locale anche se il mio computer (laptop) ha specifiche basse?**
+  - A: Assolutamente sì. Grazie ai recenti modelli alleggeriti (come Llama 3 8B o Gemma 2 9B) e alle tecniche di ottimizzazione (Quantizzazione), l'esecuzione è fluida anche su normali MacBook M1/M2 o PC Windows con soli 16 GB di RAM.
+
+- **Q: È possibile insegnare nuove funzioni ad agenti locali come OpenClaw?**
+  - A: Certamente. Gli agenti locali sono infinitamente espandibili tramite configurazioni JSON o script Python sotto forma di "Skill" (Competenze). Usa il prompt qui sopra e ordina: "Crea una skill personalizzata per riassumere le mie email".
+
+- **Q: Risponde bene alle domande di programmazione pur essendo offline?**
+  - A: I modelli locali contengono già al loro interno una vasta mole di conoscenza sulla programmazione compressa durante l'addestramento. Sebbene la ricerca web in tempo reale non sia disponibile, svolgono un lavoro eccellente nella code review e nella stesura di algoritmi anche in un ambiente totalmente offline.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia del Prompt (Perché funziona?)
 
-### ❌ Before (일반 클라우드 챗봇 프롬프트)
+1.  **Assegnazione del Ruolo:** Imponendo la forte persona di "Agente IA con il massimo livello di sicurezza", riduciamo la dipendenza da strumenti esterni, forzando l'IA a concentrarsi rigorosamente sull'ecosistema locale.
+2.  **Vincoli (Constraints):** Dichiarando esplicitamente le condizioni "Divieto di chiamate API esterne" e "Approvazione dell'utente obbligatoria", preveniamo incidenti catastrofici in cui l'IA potrebbe alterare o danneggiare in modo autonomo l'ambiente locale.
+3.  **Formattazione Specifica:** Imporre script bash/shell e report in Markdown garantisce un output altamente pratico e pulito, pronto per essere copiato ed eseguito (Copy & Paste) istantaneamente dall'utente.
+
+---
+
+## 📊 La Prova: Before & After
+
+### ❌ Before (Classico Prompt per Chatbot Cloud)
 
 ```text
-User: 내 다운로드 폴더에 있는 영수증 이미지들 좀 정리해 줄래?
-AI: 저는 사용자의 로컬 파일 시스템에 직접 접근할 권한이 없습니다.
-하지만 이미지를 하나씩 업로드해 주시면 내용을 분석해 드릴 수 있습니다. (외부 전송 요구 및 수작업 발생)
+Utente: Puoi riordinare le immagini degli scontrini nella mia cartella Download?
+IA: Non ho l'autorizzazione per accedere direttamente al file system locale del tuo computer.
+Tuttavia, se carichi le immagini una ad una, posso analizzarne il contenuto per te. (Richiede trasferimento dati esterno e lavoro manuale)
 ```
 
-### ✅ After (로컬 에이전트 마스터 프롬프트 적용)
+### ✅ After (Applicazione del Prompt Master per Agente Locale)
 
 ```text
-User: 내 다운로드 폴더에 있는 영수증 이미지들 좀 정리해 줄래?
-AI: 네, 로컬 파일 시스템 제어 스킬을 사용하여 작업을 시작합니다.
-외부 네트워크 연결 없이 로컬 비전 모델로 영수증을 안전하게 분석하겠습니다.
+Utente: Puoi riordinare le immagini degli scontrini nella mia cartella Download?
+IA: Certamente. Avvio l'operazione utilizzando la mia skill di controllo del file system locale.
+Analizzerò gli scontrini in totale sicurezza utilizzando il modello di visione locale, senza alcuna connessione di rete.
 
-아래의 파이썬 스크립트를 실행하여 다운로드 폴더 내의 `.jpg`, `.png` 파일을 `Receipts_2026` 폴더로 자동 분류할 수 있습니다.
+Eseguendo lo script Python sottostante, i file `.jpg` e `.png` nella cartella Download verranno automaticamente classificati e spostati in una nuova cartella denominata `Scontrini_2026`.
 
-[Python 스크립트 코드 블럭 제공됨]
+[Blocco di codice dello script Python fornito]
 
-작업을 승인하고 스크립트를 실행하시겠습니까? (Y/N)
+Approvi l'operazione e desideri eseguire lo script? (Y/N)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusione
 
-보안과 비용 문제로 AI 도입을 망설였다면, 이제 로컬 에이전트가 그 완벽한 해답입니다.
-당신의 PC 속에 나만을 위해 철저하게 통제되는, 안전하고 똑똑한 AI 군단을 직접 구축해 보세요.
+Se hai esitato ad adottare l'IA per problemi di costi e sicurezza aziendale, i Local Agent rappresentano la risposta definitiva.
+Inizia subito a costruire il tuo personale esercito IA sul tuo PC: intelligente, privato e sotto il tuo totale controllo.
 
-이제 데이터 유출 걱정 없이 칼퇴하세요! 🍷
+Ora chiudi tutto e goditi la tua serata senza preoccuparti delle fughe di dati! 🍷

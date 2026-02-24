@@ -5,135 +5,139 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: API 명세서만 던져주면 Express/Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 2배로 올리세요.
+description: Just hand over the API specs, and AI will instantly generate an Express/Hono-based Mock Server. Double your frontend development speed.
 tags: [AI, Backend, Frontend, Testing]
 ---
 
-# 📝 백엔드 기다리지 마세요! AI Mock Server 생성기 (API Mock Gen)
+# 📝 Stop Waiting for the Backend! AI Mock Server Generator
 
-- **🎯 추천 대상:** 프론트엔드 개발자, 풀스택 개발자, 기획자
-- **⏱️ 소요 시간:** 1일 → 1분 단축
-- **🤖 추천 모델:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Flash
+- **🎯 Target Audience:** Frontend Developers, Full-Stack Developers, Product Managers
+- **⏱️ Time Saved:** 1 day → 1 minute
+- **🤖 Recommended AI:** All conversational AIs (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"기획은 나왔고 화면도 그렸는데, 데이터를 받아올 API가 없어서 더미 데이터만 하드코딩하고 계신가요?"_
+> *"Are the designs ready and the logic planned, but you're stuck hardcoding dummy data because the backend API isn't finished yet?"*
 
-프론트엔드 개발자들의 영원한 고통, "백엔드 API 아직 안 나왔나요?" 🐢
-API가 완성될 때까지 기다리며 임시 코드를 짜고, 나중에 실제 API가 연동될 때 그 코드를 다시 다 뜯어고치는 비효율적인 반복 작업은 이제 그만하셔도 됩니다. API 명세서(Swagger, Notion 문서, 텍스트 설명 등)만 있으면 AI가 단 1분 만에 완벽하게 돌아가는 Mock Server를 만들어줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **병목 현상 해소:** 백엔드 개발을 기다릴 필요 없이 프론트엔드 로직과 UI를 완벽하게 구현할 수 있습니다.
-2. **실전 같은 테스트 환경:** 네트워크 지연(Delay)과 에러 상태 코드를 시뮬레이션하여 로딩 스피너 및 에러 처리 UI를 검증합니다.
-3. **복사 및 붙여넣기 실행:** 복잡한 설정 없이 `node server.js` 한 줄로 즉시 실행되는 코드를 얻을 수 있습니다.
+The eternal struggle of frontend developers: "Is the backend API ready yet?" 🐢
+You no longer need to waste time writing temporary code while waiting for the API, only to tear it all down and rewrite it when the real endpoints are finally integrated. If you have an API specification (Swagger, Notion docs, or even a text description), AI can build a fully functional Mock Server for you in just one minute.
 
 ---
 
-## 🚀 해결책: "API Mock Server 제너레이터"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Eliminate Bottlenecks:** Develop your frontend logic and UI flawlessly without being blocked by backend dependencies.
+2. **Realistic Test Environment:** Simulate network delays and error status codes to thoroughly test loading spinners and error-handling UIs.
+3. **Copy, Paste, and Run:** Get a ready-to-use script that launches instantly with a single `node server.js` command—no complex configurations required.
 
-빠르게 기본적인 Mock API가 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 백엔드 개발자]`야.
-> **요청:** 내가 제공하는 `[API 명세]`를 바탕으로 `[Express.js]` 환경에서 바로 실행 가능한 Mock Server 전체 코드를 작성해 줘.
+## 🚀 The Solution: "API Mock Server Generator"
+
+### 🥉 Basic Version
+
+Use this when you need a basic mock API up and running instantly.
+
+> **Role:** You are a `[Senior Backend Developer]`.
+>
+> **Task:** Based on the `[API Specification]` I provide, write the complete, immediately runnable code for a Mock Server in an `[Express.js]` environment.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-랜덤 딜레이, 에러 케이스, 대량의 더미 데이터 등 디테일한 퀄리티가 필요할 때 사용하세요.
+Use this when you need high-quality details like random network delays, edge-case errors, and a large volume of realistic dummy data.
 
-> **역할 (Role):** 너는 `[시니어 백엔드 개발자]`이자 `[테스트 환경 구축 전문가]`야.
+> **Role:** You are a `[Senior Backend Developer]` and a `[Test Environment Setup Expert]`.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: `[백엔드 API 개발이 지연되어 프론트엔드 로직 테스트가 막혀있는 상황]`
-> - 목표: `[API 명세를 바탕으로 실제와 유사하게 동작하는 완벽한 Mock Server 구축]`
+> - Background: `[Frontend development and testing are blocked because the backend API is delayed.]`
+> - Goal: `[Build a perfect, realistically behaving Mock Server based on the provided API specification.]`
 >
-> **요청 (Task):**
-> 아래 API 명세를 바탕으로 실행 가능한 Mock Server 전체 코드를 작성해 줘.
+> **Task:**
 >
-> **기술 스택:**
+> Write the complete, executable Mock Server code based on the API specification below.
 >
-> - 언어: `[TypeScript / JavaScript]`
-> - 프레임워크: `[Express.js / Hono / Next.js Route Handler 등 선택]`
+> **Tech Stack:**
 >
-> **API 명세:**
+> - Language: `[TypeScript / JavaScript]`
+> - Framework: `[Choose Express.js / Hono / Next.js Route Handler, etc.]`
 >
-> 1. GET /users: 사용자 목록 반환 (페이지네이션 포함, id, name, email 필드)
-> 2. GET /users/:id: 특정 사용자 상세 정보
-> 3. POST /users: 신규 사용자 등록 (유효성 검사 실패 시 400 에러 응답 예시 포함)
-> 4. DELETE /users/:id: 사용자 삭제 (권한 없음 403 에러 예시 포함)
+> **API Specification:**
 >
-> **필수 요구사항:**
+> 1. GET /users: Return a list of users (Include pagination, fields: id, name, email)
+> 2. GET /users/:id: Get specific user details
+> 3. POST /users: Register a new user (Include a 400 Bad Request error example for validation failure)
+> 4. DELETE /users/:id: Delete a user (Include a 403 Forbidden error example for unauthorized access)
 >
-> 1. **더미 데이터:** `faker.js` 등을 사용하거나, 현실적인 하드코딩 데이터를 10~20개 정도 생성해.
-> 2. **지연 시간 시뮬레이션:** 실제 네트워크처럼 500ms~1500ms 정도의 랜덤 딜레이를 추가해 (로딩 스피너 테스트용).
-> 3. **에러 케이스 주입:** 약 5~10%의 확률로 500 Internal Server Error를 반환하도록 로직을 구성해 (에러 처리 UI 테스트용).
-> 4. **코드 작성:** 복사해서 바로 실행(`node server.js` 또는 `ts-node server.ts`)하면 3000번 포트에서 돌아가도록 하나의 파일로 완성해 줘.
+> **Core Requirements:**
 >
-> **제약사항 (Constraints):**
+> 1. **Dummy Data:** Use a library like `faker.js` or generate 10-20 pieces of highly realistic hardcoded data.
+> 2. **Delay Simulation:** Add a random network delay of 500ms~1500ms to mimic real-world latency (crucial for testing loading spinners).
+> 3. **Error Injection:** Configure the logic to return a 500 Internal Server Error with about a 5-10% probability (crucial for testing error fallback UIs).
+> 4. **Execution-Ready Code:** Consolidate everything into a single file so it can be run immediately on port 3000 using `node server.js` (or `ts-node server.ts`).
 >
-> - 출력 형식은 마크다운 코드 블록(` ``` `)으로 감싸서 제공해.
-> - 추가적인 패키지 설치가 필요하다면 명령어(`npm install ...`)를 코드 상단 주석으로 명시해.
+> **Constraints:**
 >
-> **주의사항 (Warning):**
+> - Provide the output wrapped in a Markdown code block (` ``` `).
+> - If any external packages need to be installed, specify the exact installation command (e.g., `npm install ...`) as a comment at the top of the code.
 >
-> - 프론트엔드 개발자가 서버 설정으로 고민하지 않도록, CORS 설정(`cors` 패키지 또는 헤더)을 반드시 포함시켜 줘.
+> **Warning:**
+>
+> - You MUST include CORS configuration (using the `cors` package or headers) so the frontend developer doesn't run into cross-origin issues.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트를 사용할 때 가장 중요한 꿀팁은 **"랜덤 딜레이(Random Delay)"**와 **"에러 케이스(Random Error)"**를 반드시 포함해 달라고 요청하는 것입니다.
-로컬 환경의 Mock Server는 응답 속도가 0.01초 단위로 너무 빠르기 때문에, 자칫하면 스켈레톤 UI(Skeleton UI)나 로딩 스피너의 렌더링 상태를 놓치기 쉽습니다. 또한, 5% 확률로 500 에러가 떨어지게 설정해 두면 엣지 케이스에서의 에러 토스트(Toast) 팝업이나 Fallback UI가 제대로 동작하는지 미리 완벽하게 테스트할 수 있습니다.
+The absolute game-changer when using this prompt is explicitly requesting **"Random Delay"** and **"Random Error"** injections. 
+Local mock servers usually respond in milliseconds—way too fast to accurately test your Skeleton UIs or loading spinners. By introducing artificial latency, you can perfectly calibrate your frontend's visual feedback. 
 
-백엔드 개발자분이 "API 나왔어요!" 했을 때, "네, 연동 및 에러 테스트 끝났습니다"라고 쿨하게 답하는 쾌감을 느껴보세요. 😎
+Furthermore, configuring a 5% chance of a 500 Internal Server Error allows you to rigorously test your edge cases. You can verify if your error toast notifications or Fallback boundary UIs trigger correctly without manually breaking your code. 
 
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Swagger JSON 파일이 있는데 이걸로도 되나요?**
-  - A: 네! 프롬프트의 'API 명세' 부분에 Swagger(OpenAPI) JSON을 텍스트로 그대로 붙여넣으면, 훨씬 더 정교한 타입과 응답 스키마를 가진 Mock Server를 만들어줍니다.
-
-- **Q: POST나 PUT으로 추가/수정한 데이터가 유지되나요?**
-  - A: 기본적으로 메모리(배열)에 저장되므로 서버를 재시작하면 초기화됩니다. 만약 데이터 유지가 필요하다면 프롬프트에 *"lowdb나 json-server를 사용해서 로컬 파일(db.json)에 데이터를 저장해 줘"*라고 추가로 요청해 보세요.
-
-- **Q: Next.js를 쓰고 있는데 Express 말고 다른 걸로도 되나요?**
-  - A: 물론입니다! '기술 스택' 부분에 `Next.js API Routes (App Router의 Route Handler)`로 지정해 주면, Next.js 프로젝트 내에 바로 넣어서 쓸 수 있는 코드를 짜줍니다.
+When the backend developer finally says, "The API is ready!", you get the ultimate satisfaction of replying, "Great, my integration and error-handling tests are already done." 😎
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **Role(역할) 및 Context(상황) 부여:** AI에게 단순한 코더가 아닌 '테스트 환경 구축 전문가' 페르소나를 씌워, 프론트엔드 개발자가 실제로 겪는 불편함(CORS, 로딩 딜레이 등)을 선제적으로 해결하게 만들었습니다.
-2. **현실적인 제약조건 추가:** 무의미한 'test1', 'test2' 데이터 대신 `faker.js`나 현실적인 더미 데이터를 요구하여 UI의 시각적 완성도를 실제 프로덕션 수준으로 확인할 수 있습니다.
-3. **엣지 케이스 시뮬레이션:** 에러 응답 확률과 랜덤 네트워크 지연 시간을 명시적으로 요구하여, 단순히 성공(200 OK) 케이스뿐만 아니라 에러 핸들링까지 강제로 검증할 수 있는 환경을 만들었습니다.
+- **Q: I have a Swagger JSON file. Can I use that?**
+  - A: Absolutely! Just paste the raw Swagger (OpenAPI) JSON text directly into the 'API Specification' section of the prompt. The AI will generate a Mock Server with much more precise types and response schemas.
+
+- **Q: If I create or update data using POST/PUT, will it be saved?**
+  - A: By default, the mock server stores data in memory (like an array), so it resets whenever the server restarts. If you need persistent data, add this instruction to your prompt: *"Use `lowdb` or `json-server` to persist data in a local file (e.g., db.json)."*
+
+- **Q: I'm using Next.js. Can it generate code for something other than Express?**
+  - A: Of course! Just change the 'Tech Stack' framework variable to `Next.js API Routes (App Router Route Handlers)`. The AI will output code tailored to drop right into your Next.js project's `app/api` directory.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (기존 방식: 하드코딩)
+1. **Role and Context Assignment:** By assigning the persona of a 'Test Environment Setup Expert' rather than just a coder, the AI proactively addresses real-world frontend pain points (like CORS issues and latency simulation).
+2. **Realistic Constraints:** Instead of returning useless data like 'test1' or 'test2', demanding `faker.js` or realistic dummy data ensures your UI looks exactly as it would in production.
+3. **Edge Case Simulation:** Explicitly requiring error probabilities and random network delays forces the creation of an environment that tests not just the "happy path" (200 OK), but the robustness of your error handling.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (The Old Way: Hardcoding)
 
 ```javascript
-// 프론트엔드 컴포넌트 내부에 의미 없는 데이터를 직접 작성
+// Hardcoding meaningless data directly inside the frontend component
 const [users, setUsers] = useState([
   { id: 1, name: "test1", email: "test@test.com" },
   { id: 2, name: "test2", email: "test2@test.com" },
 ]);
 
-// 로딩 상태나 에러 상태를 테스트하려면 코드를 일일이 주석 처리하며 수동으로 바꿔야 함
+// To test loading or error states, you have to manually comment out code and change state flags
 ```
 
-### ✅ After (결과물: AI가 작성한 Mock Server)
+### ✅ After (The Result: AI-Generated Mock Server)
 
 ```javascript
 // npm install express cors @faker-js/faker
@@ -145,7 +149,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// 현실적인 더미 데이터 15개 자동 생성
+// Automatically generates 15 pieces of highly realistic dummy data
 let users = Array.from({ length: 15 }).map(() => ({
   id: faker.string.uuid(),
   name: faker.person.fullName(),
@@ -153,13 +157,13 @@ let users = Array.from({ length: 15 }).map(() => ({
   createdAt: faker.date.recent(),
 }));
 
-// 실전 대비용: 랜덤 딜레이 미들웨어 (500ms ~ 1500ms 지연)
+// Real-world simulation: Random delay middleware (500ms ~ 1500ms latency)
 const randomDelay = (req, res, next) => {
   const delay = Math.floor(Math.random() * 1000) + 500;
   setTimeout(next, delay);
 };
 
-// 실전 대비용: 랜덤 에러 발생 미들웨어 (5% 확률로 500 에러)
+// Real-world simulation: Random error middleware (5% chance of 500 Error)
 const randomError = (req, res, next) => {
   if (Math.random() < 0.05) {
     return res.status(500).json({ error: "Internal Server Error Simulation" });
@@ -181,9 +185,9 @@ app.listen(3000, () => {
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-API 명세서만 있다면 백엔드를 무작정 기다릴 필요가 없습니다.
-AI가 1분 만에 만들어준 똑똑한 Mock Server로 로딩 스피너부터 엣지 케이스의 에러 팝업까지 완벽하게 테스트하세요. 프론트엔드 개발 속도와 UI 완성도를 동시에 끌어올릴 수 있습니다.
+As long as you have an API specification, you never have to sit idly waiting for the backend again. 
+Use the smart Mock Server generated by AI in just one minute to perfectly test everything from loading spinners to edge-case error popups. It's the ultimate way to simultaneously boost your development speed and the polish of your UI.
 
-이제 마음 편히 칼퇴하세요! 🍷
+Now, log off early and enjoy your evening! 🍷

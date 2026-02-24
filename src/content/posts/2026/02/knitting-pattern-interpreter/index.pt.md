@@ -5,112 +5,128 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "K1, P1, YO... 영문 약어와 기호로 가득 찬 뜨개질 도안을 쉬운 한글 서술형 설명으로 변환하세요. Ravelry 도안도 문제없습니다."
+description: "Traduza receitas de tricô em inglês cheias de abreviações (K1, P1, YO) para instruções claras e descritivas em português. Funciona perfeitamente com padrões do Ravelry e resolve o cálculo de amostras (gauge)."
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 
-# 🧶 암호문 같은 뜨개질 도안, AI가 해석해드립니다
+# 🧶 Deixe a IA Decifrar suas Receitas de Tricô em Inglês
 
-- **🎯 추천 대상:** 영문 도안(Ravelry)만 보면 현기증 나는 니터(Knitter), 게이지 계산이 귀찮은 다이아손
-- **⏱️ 소요 시간:** 30분 (사전 찾고 계산하는 시간) → 30초 단축
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (이미지 인식 및 수학적 추론 최상)
+- **🎯 Público-alvo:** Tricoteiros (Knitters) que sofrem com receitas em inglês (Ravelry), artesãos cansados de calcular amostras (gauge).
+- **⏱️ Tempo economizado:** 30 minutos (procurando no dicionário e calculando) → Reduzido para 30 segundos
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (Excelentes em reconhecimento de imagem e raciocínio matemático)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificuldade:** ⭐⭐☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"핀터레스트에서 첫눈에 반한 스웨터, 호기롭게 도안을 열었지만 외계어 같은 영문 약어에 창을 닫아본 적 있으신가요?"_
+> _"Você já se apaixonou por um suéter no Pinterest, abriu a receita cheia de empolgação, mas fechou na mesma hora ao se deparar com uma sopa de letrinhas em inglês?"_
 
-`Row 1: *K1, P1* rep to end.` 뜨개질 입문자에게는 마치 암호문이나 외계어처럼 보입니다. 하지만 이 규칙만 알면 전 세계의 수많은 무료 도안을 마음껏 즐길 수 있죠. 이제 눈 빠지게 영한사전을 뒤질 필요 없습니다. AI 번역기가 아닌, 완벽한 나만의 **'뜨개질 통역사 겸 설계자'**를 고용해 보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **영문 약어 완벽 해독:** K(겉뜨기), P(안뜨기), YO(바늘비우기) 등 복잡한 영문 뜨개질 약어를 직관적인 한글 서술형으로 자동 번역합니다.
-2. **맞춤형 게이지(Gauge) 계산:** 내 실과 바늘 게이지에 맞춰 시작 콧수와 단수를 찰떡같이 재계산해 줍니다.
-3. **복잡한 기호 차트 리딩:** 눈 아픈 기호 도안을 사진으로 찍어 올리면, AI가 한 단씩 친절하게 말로 풀어서 설명해 줍니다.
+`Row 1: *K1, P1* rep to end.` Para iniciantes no tricô, isso parece um código alienígena. Mas, ao dominar essa linguagem, você ganha acesso a milhares de receitas gratuitas do mundo todo. Chega de sofrer com o dicionário ou errar os pontos! Contrate o seu próprio **'Intérprete e Designer de Tricô'** movido a IA, que não apenas traduz, mas adapta o projeto perfeitamente para você.
 
 ---
 
-## 🚀 해결책: "AI 니팅 번역기 프롬프트"
+## ⚡️ Resumo em 3 Passos (TL;DR)
 
-### 🥉 Basic Version (영문 약어 번역형)
+1. **Tradução Perfeita de Abreviações:** Converte siglas complexas em inglês como K (Meia), P (Tricô) e YO (Laçada) para instruções claras e descritivas em português.
+2. **Cálculo de Amostra (Gauge) Sob Medida:** Recalcula automaticamente o número de pontos e carreiras iniciais para se adaptar perfeitamente ao seu fio e agulha.
+3. **Leitura de Gráficos Complexos:** Envie a foto de um gráfico confuso e a IA explicará, carreira por carreira, o que você precisa fazer.
 
-텍스트로 된 영문 도안을 빠르게 한글 서술형으로 바꿀 때 사용하세요.
+---
 
-> **역할 (Role):** 너는 뜨개질(대바늘 및 코바늘) 경력 20년의 친절한 `[니팅 마스터]`야.
+## 🚀 A Solução: "Prompt Tradutor de Tricô"
+
+### 🥉 Versão Basic (Tradução de Abreviações)
+
+Use esta versão para transformar rapidamente uma receita em inglês em instruções descritivas em português.
+
+> **Role (Papel):** Você é um `[Mestre em Tricô]` amigável, com 20 anos de experiência em tricô e crochê.
 >
-> **요청 (Task):**
-> 다음 영문 뜨개질 도안을 초보자도 이해하기 쉬운 한국어 서술형 도안으로 번역해 줘.
-> 단순히 직역하지 말고, 뜨개질에 실제로 쓰이는 정확한 한국어 전문 용어(예: yo -> 바늘비우기, ssk -> 왼코 겹치기)로 변환해 줘.
+> **Task (Tarefa):**
+> Traduza a receita de tricô em inglês a seguir para instruções descritivas em português, fáceis de entender para um iniciante.
+> Não faça uma tradução literal; utilize os termos técnicos corretos em português (ex: "yo" -> laçada, "ssk" -> mate simples inclinado à esquerda, "k" -> ponto meia).
 >
-> **입력 도안 (Input):**
-> `[여기에 복사한 영문 도안 텍스트를 붙여넣으세요]`
+> **Input (Receita Original):**
+> `[Cole o texto da receita em inglês aqui]`
 >
-> **출력 형식 (Format):**
-> 각 단(Row/Round)별로 줄바꿈을 해서 헷갈리지 않고 읽기 편하게 정리해 줘.
+> **Format (Formato de Saída):**
+> Organize o texto com quebras de linha para cada carreira (Row/Round), tornando a leitura clara e sem confusões.
 
 <br>
 
-### 🥇 Pro Version (기호 도안 해석 & 맞춤형 사이즈 계산)
+### 🥇 Versão Pro (Interpretação de Gráficos e Cálculo de Medidas)
 
-그림(차트)으로 된 도안을 해석하거나, 내가 가진 실의 굵기에 맞춰 사이즈(콧수)를 전면 재조정해야 할 때 사용하세요.
+Ideal para quando você precisa decifrar gráficos visuais (charts) ou recalcular completamente o tamanho (número de pontos) com base na espessura do seu fio.
 
-> **역할 (Role):** 너는 수식 계산에 능통하고 도안 설계 경험이 풍부한 `[수석 니팅 디자이너]`야.
+> **Role (Papel):** Você é um `[Designer Chefe de Tricô]`, especialista em cálculos matemáticos e modelagem de peças.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 만들고자 하는 작품: `[예: 여성용 M 사이즈 탑다운 스웨터]`
-> - 원본 도안 게이지: `[예: 20코 28단 (10cm x 10cm 메리야스 뜨기 기준)]`
-> - 내 스와치(Swatch) 게이지: `[예: 22코 30단 (내 실이 원작보다 더 얇음)]`
-> - 원본 시작 콧수(Cast On): `[예: 100코]`
+> - Peça a ser feita: `[Ex: Suéter feminino tamanho M, top-down]`
+> - Amostra (Gauge) da receita original: `[Ex: 20 pontos e 28 carreiras (10cm x 10cm em ponto jersey)]`
+> - Minha amostra (Gauge) atual: `[Ex: 22 pontos e 30 carreiras (meu fio é mais fino que o original)]`
+> - Número de pontos iniciais na receita (Cast On): `[Ex: 100 pontos]`
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. **사이즈 재계산 (Gauge Math):** 내 게이지 수치에 맞춰서 시작 콧수와 전체 비율을 다시 계산해 줘. 계산 과정도 간략히 설명해 줘.
-> 2. **차트 해독 (Chart Reading):** `[첨부할 기호 차트 이미지 업로드]` 이 무늬 뜨기 부분을 1단부터 순서대로 한글 서술형으로 텍스트화해 줘.
-> 3. **전문가의 팁 (Pro Tip):** 원작과 다른 굵기의 실을 사용할 때 핏(Fit)이 어떻게 달라질지, 그리고 이 무늬를 예쁘게 살리기 위한 장력(Tension) 조절 팁을 알려줘.
+> 1. **Cálculo de Medidas (Gauge Math):** Recalcule o número de pontos iniciais e as proporções gerais da peça para se adequar à minha amostra. Explique brevemente o cálculo.
+> 2. **Leitura de Gráfico (Chart Reading):** `[Faça o upload da imagem do gráfico]` Transforme o padrão deste gráfico em texto corrido, carreira por carreira (começando da 1ª).
+> 3. **Dicas de Especialista (Pro Tip):** Explique como o caimento (fit) mudará ao usar um fio diferente do original e dê dicas de tensão para que o ponto fique perfeito.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 콧수 계산 결과는 소수점을 반올림하여 정확한 정수로 제시해.
-> - 차트 기호가 헷갈리거나 불분명한 경우, 맘대로 추측하지 말고 "확인이 필요하다"고 명시해. (환각 방지)
+> - O resultado dos cálculos de pontos deve ser arredondado para números inteiros exatos.
+> - Se algum símbolo do gráfico estiver confuso ou ilegível, não tente adivinhar. Diga explicitamente "necessita de confirmação". (Evite alucinações).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight do Autor
 
-뜨개질의 가장 큰 진입 장벽은 단연 **'영문 도안 해독'**과 **'게이지 계산'**입니다. 이 프롬프트를 활용하면 Ravelry(레이블리)에 널려 있는 수만 개의 아름다운 무료 영문 도안들이 전부 내 것이 됩니다.
+A maior barreira no tricô é, sem dúvida, **"decifrar receitas em inglês"** e **"calcular a amostra (gauge)"**. Com este prompt, dezenas de milhares de receitas lindas e gratuitas disponíveis no Ravelry passam a ser totalmente acessíveis.
 
-특히 원작과 똑같은 실을 구하기 힘든 한국의 특성상, 내가 가진 '대체실'의 스와치 게이지만 입력하면 AI가 비례식을 세워 콧수를 싹 다시 계산해 주는 기능은 감동적이기까지 합니다. `ssk`(Slip Slip Knit)와 `k2tog`(Knit 2 Together)의 코 방향 차이까지 정확히 한국어로 짚어내는 것을 보면, 웬만한 뜨개 공방 선생님보다 든든합니다. 기호로 된 차트를 텍스트로 풀어주니 도안을 확대해가며 눈 아프게 쳐다볼 일도 줄어듭니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 코바늘(Crochet) 도안도 해석이 되나요?**
-  - A: 네, 완벽하게 지원합니다. 코바늘은 미국(US) 용어와 영국(UK) 용어가 달라서(예: 똑같은 'dc'가 미국은 한길긴뜨기, 영국은 짧은뜨기) 대참사가 나기 쉬운데요. 프롬프트 시작에 *"이 도안이 US 기준인지 UK 기준인지 먼저 파악해 줘"*라고 추가하면 문맥을 읽고 정확히 번역해 줍니다.
-
-- **Q: 영문 도안이 PDF 파일로 되어 있는데 어떡하나요?**
-  - A: 텍스트를 복사해서 'Basic Version'에 붙여넣기 하거나, 유료 버전(GPT-4o, Claude 3.5 Sonnet 등)의 경우 PDF 파일 자체를 통째로 업로드하고 'Pro Version' 프롬프트를 입력하면 전체 도안을 한 번에 번역 및 계산해 줍니다.
-
-- **Q: 인형(Amigurumi) 도안 같은 입체 뜨기도 가능한가요?**
-  - A: 물론입니다. "Magic ring 6sc (매직링에 짧은뜨기 6코)"부터 시작하는 코 늘림/줄임 공식을 아주 정확하게 번역하고 계산해 주므로 콧수 헷갈릴 일이 없어집니다.
+No Brasil e em Portugal, muitas vezes é difícil encontrar o fio exato pedido na receita estrangeira. A capacidade da IA de usar regra de três para recalcular toda a base de pontos a partir da sua "amostra substituta" é simplesmente mágica. Ver a IA diferenciar perfeitamente a inclinação entre um `ssk` (Slip Slip Knit) e um `k2tog` (Knit 2 Together) em português transmite mais confiança do que muitos professores por aí. Além disso, transformar gráficos em texto poupa seus olhos de forçar a visão em imagens minúsculas.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **전문 용어 매핑 (Term Mapping):** AI는 방대한 글로벌 뜨개질 커뮤니티 데이터를 학습했기 때문에, 단순 영한사전이 아닌 실제 뜨개인들이 사용하는 '정확한 매칭 용어'를 출력합니다.
-2.  **수학적 추론 (Mathematical Reasoning):** 단순 번역을 넘어, 게이지 비례식이라는 수학적 규칙을 적용해 나만의 맞춤형 도안으로 재설계(Redesign)하는 역할을 수행합니다.
-3.  **환각 방지 (Hallucination Control):** 제약사항에 "모르면 추측하지 말라"고 명시하여, 콧수 하나 틀리면 옷 전체를 '푸르시오(다시 풀기)' 해야 하는 대참사를 미연에 방지했습니다.
+- **P: Isso também funciona para receitas de Crochê?**
+  - R: Sim, funciona perfeitamente! No crochê, é muito comum a confusão entre os termos dos EUA e do Reino Unido (ex: `dc` nos EUA é ponto alto, mas no Reino Unido é ponto baixo). Adicione ao início do prompt: *"Por favor, identifique primeiro se esta receita usa terminologia US ou UK"*, e a IA fará a tradução correta sem desastres.
+
+- **P: O que eu faço se a receita em inglês estiver em PDF?**
+  - R: Você pode copiar o texto e colar na "Versão Basic". Se estiver usando versões pagas (como GPT-4o ou Claude 3.5 Sonnet), pode fazer o upload do PDF inteiro e usar o prompt da "Versão Pro" para que a IA traduza e calcule a receita inteira de uma só vez.
+
+- **P: Posso usar para peças 3D, como Amigurumis?**
+  - R: Com certeza. Fórmulas clássicas como "Magic ring 6sc (Anel mágico com 6 pontos baixos)" e regras complexas de aumentos/diminuições são traduzidas com precisão cirúrgica, evitando que você perca a conta dos pontos.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-이제 더 이상 "K1, P1, YO" 같은 외계어 앞에서 좌절하거나, 비싼 번역 도안만 찾아 헤맬 필요가 없습니다.
-실, 바늘, 그리고 이 AI 프롬프트만 있다면 전 세계 모든 니팅 디자이너의 작품이 당신의 옷장이 됩니다.
+1.  **Mapeamento de Termos Técnicos (Term Mapping):** Como a IA foi treinada com um vasto volume de dados de comunidades globais de artesanato, ela não entrega uma tradução de dicionário comum, mas sim os jargões exatos usados por tricoteiros reais.
+2.  **Raciocínio Matemático (Mathematical Reasoning):** Vai além da tradução ao aplicar regras matemáticas (proporções de gauge) para atuar como uma verdadeira ferramenta de redesenho (redesign) sob medida.
+3.  **Controle de Alucinações (Hallucination Control):** A restrição "não tente adivinhar o que não sabe" previne tragédias – no tricô, um único ponto errado pode forçá-lo a desmanchar a peça inteira.
 
-지금 바로 묵혀뒀던 핀터레스트 도안을 꺼내보세요. 해피 니팅! 🧶
+---
+
+## 📊 Prova: Antes e Depois
+
+### ❌ Antes (Entrada em Inglês)
+
+```text
+Row 1 (RS): K3, *yo, ssk, k1, k2tog, yo, k1; rep from * to last 2 sts, k2.
+```
+
+### ✅ Depois (Resultado da IA)
+
+```text
+Carreira 1 (Lado Direito): 3 meias, *1 laçada, mate simples inclinado à esquerda, 1 meia, 2 pontos juntos em meia, 1 laçada, 1 meia; repita de * até os últimos 2 pontos, 2 meias.
+```
+
+---
+
+## 🎯 Conclusão
+
+Você não precisa mais fugir de padrões cheios de "K1, P1, YO", nem pagar caro por traduções.
+Com fios, agulhas e este prompt de IA, o portfólio de qualquer designer internacional se transforma no seu próximo projeto.
+
+Tire aquela receita do Pinterest da gaveta hoje mesmo. Feliz tricô! 🧶

@@ -5,127 +5,127 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "멘탈 케어"
-description: "키보드만 잡으면 한숨부터 나오는 당신. MBI(Maslach Burnout Inventory) 기반으로 내 상태를 진단하고 처방받는 프롬프트."
+description: "Sighing as soon as you touch the keyboard? Diagnose your mental state and get a customized prescription based on the Maslach Burnout Inventory (MBI) with this prompt."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 
-# 🩺 개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?
+# 🩺 Developer Burnout Self-Test: Am I Lazy, or Am I Sick?
 
-- **🎯 추천 대상:** "요즘 왜 이렇게 의욕이 없지?" 자책하는 개발자, 주말에 아무것도 안 하고 누워만 있는 직장인
-- **⏱️ 소요 시간:** 3분 (진단 및 처방)
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Target Audience:** Developers blaming themselves for lack of motivation, professionals spending weekends stuck in bed
+- **⏱️ Time Required:** 3 minutes (Diagnosis & Prescription)
+- **🤖 Recommended AI:** All conversational AIs (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"예전엔 밤새워 코딩해도 재밌었는데... 이젠 IDE 켜는 것조차 끔찍합니다. 제가 나태해진 걸까요?"_
+> _"I used to love pulling all-nighters to code... Now, just opening my IDE fills me with dread. Have I just become lazy?"_
 
-아니요, 나태해진 게 아니라 **마음의 배터리가 완전히 방전된 겁니다.** 번아웃(Burnout)은 단순한 피로가 아닙니다. 뇌가 파업을 선언한 의학적 상태에 가깝습니다. 혼자 자책하며 억지로 커피를 들이켜는 대신, AI 상담사에게 당신의 솔직한 상태를 털어놓고 객관적인 진단을 받아보세요. "힘내세요"라는 영혼 없는 위로 대신, 철저한 심리학적 척도에 기반한 구체적인 회복 처방전을 내려줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI를 10년 차 IT 전문 심리 상담사 페르소나로 설정한다.
-2. MBI(Maslach Burnout Inventory) 3가지 차원을 기준으로 현재 내 상태를 정밀 분석하게 한다.
-3. 막연한 휴식 권고가 아닌, 당장 내일부터 실천 가능한 '현실적인 개발자 맞춤형 루틴'을 처방받는다.
+No, you haven't become lazy—**your mental battery is completely depleted.** Burnout isn't just everyday fatigue; it's a medical state where your brain essentially goes on strike. Instead of blaming yourself and forcing down another cup of coffee, confide your honest feelings to an AI counselor and get an objective diagnosis. Rather than hollow words of encouragement like "cheer up," this prompt delivers a specific, actionable recovery prescription based on rigorous psychological scales.
 
 ---
 
-## 🚀 해결책: "Burnout Doctor Prompt"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (간이 진단)
+1. Set the AI's persona as an IT-specialized psychological counselor with 10 years of experience.
+2. Have the AI precisely analyze your current state based on the 3 core dimensions of the Maslach Burnout Inventory (MBI).
+3. Receive a realistic, developer-tailored recovery routine that you can start implementing tomorrow, rather than vague advice like "just take a break."
 
-지금 내 상태가 심각한지 빠르게 가늠해보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[IT 전문 심리 상담사]`야.
-> **요청:** "나 요즘 코딩하는 게 너무 싫고 무기력해. 이게 단순 슬럼프인지 번아웃인지 5가지 핵심 질문을 던져서 진단해줘."
+## 🚀 Solution: "Burnout Doctor Prompt"
+
+### 🥉 Basic Version
+
+Use this when you want a quick gauge of how serious your current condition is.
+
+> **Role:** You are an `[IT-specialized psychological counselor]`.
+> **Task:** "I hate coding lately, and I feel incredibly lethargic. Ask me 5 core questions to diagnose whether this is just a temporary slump or actual burnout."
 
 <br>
 
-### 🥇 Pro Version (MBI 기반 정밀 분석)
+### 🥇 Pro Version
 
-체계적인 분석과 실질적인 솔루션이 필요할 때 사용하세요.
+Use this when you need a systematic analysis and practical, actionable solutions.
 
-> **역할 (Role):** 너는 10년 이상 IT 업계 종사자들의 멘탈 케어를 전담해 온 `[전문 심리 상담사]`야.
+> **Role:** You are a `[professional psychological counselor]` who has exclusively handled mental care for IT industry professionals for over 10 years.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 `[5]`년 차 `[백엔드 개발자]`야. 최근 `[잦은 야근과 무리한 프로젝트 일정]` 때문에 심신이 많이 지쳐있어.
-> - 증상: 코드를 짜도 성취감이 없고, 동료들과 메신저로 대화하는 것조차 버거워. 주말에는 아무것도 안 하고 누워만 있어.
+> - Background: I am a `[5]`-year `[backend developer]`. Recently, I've been physically and mentally exhausted due to `[frequent overtime and unreasonable project deadlines]`.
+> - Symptoms: Even when I write code, I feel zero sense of accomplishment, and even chatting with colleagues on messenger feels overwhelming. On weekends, I just lie in bed doing absolutely nothing.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **심층 분석:** 내 증상을 심리학의 대표적인 번아웃 척도인 MBI의 3가지 차원(정서적 고갈, 비인격화, 성취감 저하)을 기준으로 분석해줘.
-> 2. **객관적 진단:** 현재 내 번아웃 위험도를 10점 만점 기준으로 수치화하여 평가해줘.
-> 3. **맞춤형 처방 (Prescription):** "무조건 쉬어라" 같은 비현실적인 조언 말고, 당장 내일 출근해서, 혹은 퇴근 직후에 실천할 수 있는 현실적인 '개발자 맞춤형 회복 루틴' 3가지를 구체적인 액션 플랜으로 제시해줘.
+> 1. **In-depth Analysis:** Analyze my symptoms based on the 3 dimensions of the Maslach Burnout Inventory (MBI), a representative psychological burnout scale: emotional exhaustion, depersonalization, and reduced personal accomplishment.
+> 2. **Objective Diagnosis:** Quantify and evaluate my current burnout risk level on a scale of 1 to 10.
+> 3. **Customized Prescription:** Do not give unrealistic advice like "just rest unconditionally." Instead, provide 3 highly realistic, "developer-tailored" recovery routines that I can execute immediately tomorrow at work or right after clocking out, formulated as concrete action plans.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 지나치게 감상적이거나 영혼 없는 위로는 배제하고, 분석적이고 실용적인 톤을 유지해줘.
-> - 전문적인 의학적 진단을 대체할 수 없다는 면책 조항을 마지막에 짧게 덧붙여줘.
+> - Maintain an analytical and highly practical tone, strictly excluding overly sentimental or hollow condolences.
+> - Briefly add a disclaimer at the very end stating that this cannot replace a professional medical diagnosis.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-현업에서 수많은 동료들을 지켜본 결과, 번아웃은 대충 일하는 사람에게는 결코 오지 않습니다. 무언가에 치열하게 몰입하고 책임감을 가졌던 사람들에게만 찾아오는 일종의 '영광의 상처'와도 같죠.
+Having watched numerous colleagues in the tech industry, I've realized one absolute truth: burnout *never* happens to people who half-ass their jobs. It is essentially a "badge of honor" that only strikes those who were fiercely immersed and carried a deep sense of responsibility.
 
-따라서 지금 무기력하다면 그것은 당신이 무능해서가 아니라, 너무 오랫동안 과속했기 때문입니다. 이 프롬프트의 진정한 가치는 단순히 상태를 진단하는 것을 넘어, **'내 잘못이 아니다'라는 객관적인 인식을 심어주는 데 있습니다.** AI가 건네는 차분하고 구조화된 분석을 읽어 내려가는 것만으로도, 막연했던 불안감과 자책감이 크게 줄어드는 경험을 하실 수 있을 겁니다. 당장 이번 주말, 딱 3분만 투자해서 스스로의 마음을 점검해 보세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI의 심리 진단 결과를 정말 믿어도 되나요?**
-  - A: AI는 전문의를 대체할 수 없습니다. 하지만 이 프롬프트는 실제 심리학에서 사용하는 MBI(Maslach Burnout Inventory) 프레임워크를 기반으로 작동하도록 설계되었기 때문에, 현재 내 상태의 심각성을 가늠하는 훌륭한 '1차 스크리닝 도구'로는 충분히 가치가 있습니다.
-
-- **Q: 처방전으로 받은 루틴이 너무 사소해 보이는데요?**
-  - A: 번아웃 상태에서는 의지력 자체가 고갈되어 있습니다. "매일 1시간 헬스장 가기" 같은 거창한 목표는 오히려 독이 됩니다. "모니터 밝기 낮추기", "점심시간 10분 햇볕 쬐기" 같은 아주 사소하고 실천 가능한 마이크로 루틴부터 시작하는 것이 회복의 핵심입니다.
-
-- **Q: 결과가 너무 심각하게 나오면 어떻게 해야 하죠?**
-  - A: 진단 결과 위험도가 8점 이상으로 높게 나오고 일상생활에 지장이 있다면, AI의 조언에 머물지 말고 반드시 사내 심리 상담 프로그램(EAP)이나 외부 전문의를 찾아가셔야 합니다. 회사에 휴가를 요청할 때도 AI의 객관적 분석 결과를 참고하면 도움이 됩니다.
+Therefore, if you are feeling lethargic right now, it's not because you're incompetent—it's because you've been speeding for way too long. The true value of this prompt isn't just in diagnosing your state; it's in planting the objective realization that **"this is not my fault."** Simply reading through the AI's calm, structured analysis will help significantly reduce the vague anxiety and guilt you've been carrying. Take just 3 minutes this weekend to check in on your own mind.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **과학적 프레임워크 적용 (MBI):** AI에게 단순히 진단을 요구하지 않고, '정서적 고갈', '비인격화', '성취감 저하'라는 명확한 심리학적 척도를 강제했습니다. 이로 인해 AI가 뻔한 위로 대신 논리적이고 입체적인 분석을 내놓게 됩니다.
-2.  **현실적인 제약조건 (Constraints):** 개발자들의 성향과 현실을 고려하여 "무조건 푹 쉬세요"라는 식의 불가능한 조언을 사전에 차단하고, 당장 실천 가능한 '마이크로 액션 플랜'을 요구하여 효용성을 극대화했습니다.
+- **Q: Can I really trust an AI's psychological diagnosis?**
+  - A: AI cannot replace a licensed psychiatrist. However, because this prompt is designed to operate based on the Maslach Burnout Inventory (MBI) framework actually used in clinical psychology, it holds immense value as an excellent "first-line screening tool" to gauge the severity of your current state.
+
+- **Q: The routines I got in my prescription seem too trivial. Is this right?**
+  - A: When you're in a state of burnout, your sheer willpower is depleted. Grand goals like "go to the gym for 1 hour every day" will only act as poison. Starting with incredibly small, executable micro-routines like "lowering your monitor brightness" or "getting 10 minutes of sunlight during lunch" is the absolute core of the recovery process.
+
+- **Q: What should I do if the results say my condition is severe?**
+  - A: If your risk level comes out exceptionally high (e.g., 8 or above out of 10) and is disrupting your daily life, do not stop at the AI's advice. You must seek out your company's Employee Assistance Program (EAP) or a professional therapist. You can even use the AI's objective analysis as supporting context when requesting time off or a lighter workload from your employer.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (자기 착취 모드)
+1.  **Applying a Scientific Framework (MBI):** By not just asking for a generic diagnosis, we forced the AI to use clear psychological metrics: 'emotional exhaustion', 'depersonalization', and 'reduced personal accomplishment'. This compels the AI to output a logical, multi-dimensional analysis instead of cliché comfort.
+2.  **Realistic Constraints:** Considering the nature and reality of developers, we proactively blocked impossible advice like "just take a long vacation" and demanded an immediately executable "micro-action plan," maximizing real-world utility.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Self-Exploitation Mode)
 
 ```text
-나: "아, 요즘 진짜 코드 한 줄 치기가 싫네. 집중력도 떨어지고. 내가 요새 너무 해이해졌나 봐.
-정신 차리게 핫식스 하나 더 마시고 빡코딩 해야겠다. 남들은 다 잘하는데 나만 왜 이러지?"
+Me: "Ugh, I really don't want to type a single line of code lately. My focus is shot. I guess I've just gotten lazy.
+I should chug another energy drink and code harder to snap out of it. Everyone else is doing fine, why am I like this?"
 
-(결과: 수면 부족 -> 집중력 추가 하락 -> 극심한 자기 혐오 및 번아웃 악화 📉)
+(Result: Sleep deprivation -> Further drop in focus -> Extreme self-hatred and worsened burnout 📉)
 ```
 
-### ✅ After (자기 수용 및 회복 모드)
+### ✅ After (Self-Acceptance & Recovery Mode)
 
 ```text
-AI: "분석 결과, 현재 당신의 번아웃 위험도는 8.5/10점 수준입니다. 특히 '정서적 고갈'이 심각합니다.
-이는 나태함이 아니라 시스템 과부하를 막기 위한 뇌의 방어 기제입니다. 자책할 필요가 전혀 없습니다.
+AI: "Based on my analysis, your current burnout risk level is 8.5/10. Your 'emotional exhaustion' is particularly severe.
+This is not laziness; it is a defensive mechanism of the brain to prevent system overload. There is absolutely no need to blame yourself.
 
-당장 실천할 마이크로 루틴:
-1. 슬랙 알림을 1시간 단위로 몰아서 확인하기
-2. 퇴근길 15분간 이어폰 빼고 주변 소리 들으며 걷기..."
+Micro-routines to execute immediately:
+1. Batch-check your Slack notifications only once per hour.
+2. Walk for 15 minutes on your commute home without earphones, just listening to ambient sounds..."
 
-(결과: 막연한 자책감을 덜어내고, 아주 작은 행동 변화부터 시작하여 점진적인 멘탈 회복 🧘)
+(Result: Relieves vague guilt and initiates gradual mental recovery starting from tiny behavioral changes 🧘)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-최고 사양의 서버도 트래픽이 몰리면 디스크와 CPU가 과부하되어 다운됩니다. 하물며 복잡한 감정을 지닌 인간의 뇌는 오죽할까요.
-당신의 마음에도 반드시 쿨링 타임이 필요합니다.
+Even the highest-spec servers crash from disk and CPU overload when hit with massive traffic spikes. How much more vulnerable is the human brain, with all its complex emotions?
+Your mind absolutely requires a cooling period.
 
-지금 하던 코딩을 잠시 멈추고, 스스로에게 물어보세요.
-**"내 마음의 서버는 지금 안녕한가요?"** 🍷
+Pause the code you're writing right now, and ask yourself:
+**"Is my mind's server status currently okay?"** 🍷

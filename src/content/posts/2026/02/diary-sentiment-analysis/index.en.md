@@ -5,128 +5,128 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/회고"
-description: "나도 모르는 내 마음. 일기장을 데이터화해서 감정 흐름, 주요 키워드, 스트레스 원인을 시각화하는 법."
+description: "Discover the hidden patterns of your mind. Learn how to turn your diary into data, visualize emotional flows, extract key topics, and pinpoint stress triggers using AI."
 tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 ---
 
-# 📔 일기 분석: 한 달치 일기 넣으면 내 심리 변화 그래프 그리기
+# 📔 Diary Analysis: Plotting Your Psychological Shifts with a Month of Entries
 
-- **🎯 추천 대상:** 매일 일기는 쓰지만 다시 읽어보진 않는 분, "요즘 왜 이렇게 번아웃이 오지?"라며 원인을 찾고 싶은 직장인
-- **⏱️ 소요 시간:** 5분 (텍스트 추출 및 AI 분석)
-- **🤖 추천 모델:** ChatGPT Plus (GPT-4o, Advanced Data Analysis 기능 활용)
+- **🎯 Recommended for:** Those who write diaries daily but rarely re-read them, or professionals wondering "Why am I so burned out lately?" and seeking the root cause.
+- **⏱️ Time Required:** 5 minutes (Text extraction & AI analysis)
+- **🤖 Recommended AI:** ChatGPT Plus (Utilizing GPT-4o Advanced Data Analysis)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"매일 밤 일기를 쓰며 하루를 털어내지만, 정작 내 마음이 어떤 패턴으로 무너지고 회복되는지 객관적으로 들여다본 적이 있나요?"_
+> _"You pour your heart into your diary every night to shake off the day, but have you ever objectively examined the patterns of how your mind breaks down and recovers?"_
 
-기록은 쌓일수록 자산이 되지만, 그저 서랍 속에 쌓아두기만 한다면 무거운 짐일 뿐입니다. 이제 **한 달 치 일기 데이터**를 AI에게 맡겨보세요. 강력한 텍스트 마이닝(Text Mining) 기술을 통해 텍스트 속에 숨겨진 당신의 진짜 감정 그래프를 그려내고, 무의식적으로 가장 많이 반복한 단어를 워드 클라우드로 시각화해 줍니다. 나도 몰랐던 내 마음의 알고리즘을 해킹할 시간입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 사용 중인 일기장 앱이나 노션 등에서 한 달 치 일기를 `txt` 또는 `csv` 파일로 내보냅니다.
-2. ChatGPT에 파일을 업로드하고 **데이터 시각화 및 감정 분석** 프롬프트를 입력합니다.
-3. AI가 생성한 감정 변화 그래프와 스트레스 유발 키워드 리포트를 보며 생산적인 회고를 진행합니다.
+Records become assets as they accumulate, but if left untouched in a drawer, they are nothing more than a heavy burden. Now, it's time to entrust **a month's worth of diary data** to AI. Through powerful text mining technology, AI will draw the true emotional graph hidden within your text and visualize your most unconsciously repeated words into a word cloud. It is time to hack the algorithm of your mind that even you were unaware of.
 
 ---
 
-## 🚀 해결책: "Mind Tracker Analysis Prompt"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (핵심 키워드 추출)
+1. Export a month's worth of entries from your diary app or Notion as a `.txt` or `.csv` file.
+2. Upload the file to ChatGPT and input the **Data Visualization & Sentiment Analysis** prompt.
+3. Conduct a productive retrospective by reviewing the AI-generated emotional flow chart and stress-trigger keyword report.
 
-내 무의식 속 주요 관심사와 감정 상태를 빠르게 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 데이터 분석가이자 심리 상담사야.
-> **요청:** 내가 업로드한 일주일 치 일기 텍스트에서 가장 많이 등장한 명사와 형용사 Top 5를 각각 뽑아줘. 이 단어들을 바탕으로 현재 내 심리 상태가 어떤지 한 줄로 요약해 줘.
+## 🚀 The Solution: "Mind Tracker Analysis Prompt"
+
+### 🥉 Basic Version
+
+Use this when you want to quickly grasp your primary subconscious interests and current emotional state.
+
+> **Role:** You are a data analyst and a psychological counselor.
+> **Task:** Extract the top 5 most frequently used nouns and adjectives from the week of diary text I uploaded. Based on these words, summarize my current psychological state in a single sentence.
 
 <br>
 
-### 🥇 Pro Version (감정 시계열 분석 & 시각화 리포트)
+### 🥇 Pro Version
 
-단순한 요약을 넘어, 날짜별 감정의 등락 폭과 그 원인을 과학적으로 시각화하는 전문가용 프롬프트입니다.
+Beyond a simple summary, this expert prompt scientifically visualizes the daily fluctuations of your emotions and their root causes.
 
-> **역할 (Role):** 너는 10년 차 데이터 사이언티스트이자 임상 심리학자야. 사용자의 텍스트 데이터를 분석해 심리적 패턴을 찾아내고 시각화하는 데 탁월한 능력이 있어.
+> **Role:** You are a data scientist and clinical psychologist with 10 years of experience. You excel at analyzing user text data to identify and visualize psychological patterns.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 매일 일기를 쓰고 있지만, 감정의 기복이 심해 그 원인을 객관적인 데이터로 파악하고 싶어.
-> - 목표: 내 일기 데이터를 바탕으로 한 달간의 심리 변화 그래프를 그리고, 스트레스의 근본 원인과 회복 패턴을 도출하는 것.
+> - Background: I write a diary every day, but I experience severe emotional swings and want to identify the objective, data-driven causes behind them.
+> - Goal: To draw a psychological change graph for the past month based on my diary data, and to derive the root causes of my stress along with my recovery patterns.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **감정 점수화:** 제공된 일기 데이터를 분석하여 매일의 감정 상태를 -10(극도의 우울/스트레스)부터 +10(최고의 행복/성취감)까지 수치화해 줘.
-> 2. **시각화 (Python 실행):** 날짜별 감정 변화를 **꺾은선 그래프(Line Chart)**로 시각화해 줘.
->    - x축은 '날짜', y축은 '감정 점수'로 설정할 것.
->    - 파이썬 `matplotlib` 또는 `seaborn` 라이브러리를 사용해 한눈에 보기 좋은 이미지 렌더링.
-> 3. **심층 원인 분석:** 감정 점수가 최하점(Valley)을 기록한 날과 최고점(Peak)을 기록한 날의 일기 내용을 분석해, 어떤 사건이나 키워드가 감정에 가장 큰 영향을 미쳤는지 설명해 줘.
-> 4. **행동 처방:** 다음 달의 멘탈 관리를 위해 내가 의도적으로 '늘려야 할 행동'과 '피해야 할 행동'을 데이터 기반으로 3가지씩 제안해 줘.
+> 1. **Sentiment Scoring:** Analyze the provided diary data and quantify my daily emotional state on a scale from -10 (extreme depression/stress) to +10 (peak happiness/fulfillment).
+> 2. **Visualization (Run Python):** Visualize the daily emotional shifts using a **Line Chart**.
+>    - Set the x-axis to 'Date' and the y-axis to 'Emotional Score'.
+>    - Render a clean, easy-to-read image using Python's `matplotlib` or `seaborn` libraries.
+> 3. **In-Depth Cause Analysis:** Analyze the diary entries on the days when the emotional score hit its lowest (Valley) and highest (Peak). Explain which events or keywords had the most significant impact on my emotions.
+> 4. **Behavioral Prescription:** Propose 3 data-driven "actions to increase" and 3 "actions to avoid" for my mental management next month.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 모든 분석은 사용자가 제공한 텍스트 데이터에만 근거해야 해.
-> - 시각화 그래프에는 반드시 한국어 폰트가 깨지지 않도록 처리해 줘.
-> - 결과물은 분석 리포트 형식의 마크다운(Markdown)으로 깔끔하게 정리해 줘.
+> - All analysis must be strictly based on the text data I provide.
+> - Ensure that the font used in the visualization graph displays properly and does not break.
+> - Organize the final output neatly in Markdown format as a professional analysis report.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 일기 내용에 대한 도덕적, 가치 판단은 절대 하지 마. 철저히 분석적이고 지지적인 태도를 유지해.
+> - Never make moral or value judgments about the contents of the diary. Maintain a strictly analytical and supportive attitude. (Prevent hallucination)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 진정한 가치는 **'메타 인지(Meta-cognition)'**를 데이터로 구현한다는 점입니다. 저 역시 일에 치여 매일 "힘들다"는 말만 일기장에 쏟아내던 시기가 있었습니다. 하지만 이 프롬프트로 한 달 치 일기를 분석해 보니, 제 감정이 바닥을 치는 날의 공통점은 '수면 부족'과 '특정 클라이언트와의 미팅'이 겹치는 날이었습니다.
+The true value of this prompt lies in implementing **"Meta-cognition"** through data. I, too, had a period where I was so overwhelmed by work that I just poured out complaints of "I'm exhausted" into my diary every day. However, when I analyzed a month's worth of entries using this prompt, I discovered that the common denominator on my absolute worst days was a combination of "lack of sleep" and "meetings with a specific client."
 
-만약 일기를 쓰지 않는다면, **'나와의 카카오톡 채팅방'** 대화 내용을 내보내기 해서 분석해 보세요. 혹은 업무용 메신저(슬랙 등)에서 내가 보낸 메시지들을 분석해 보는 것도 좋습니다. 내가 어느 시간대에 가장 공격적으로 변하는지, 어떤 업무를 할 때 가장 긍정적인 어휘를 쓰는지 적나라하게 드러납니다. 데이터는 거짓말을 하지 않습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 아날로그 노트에 손으로 쓴 일기는 어떻게 분석하나요?**
-  - A: 스마트폰으로 일기장을 촬영한 뒤 ChatGPT에 이미지를 그대로 업로드하세요. GPT-4o의 강력한 OCR(광학 문자 인식) 기능이 악필도 텍스트로 정확히 읽어내어 동일하게 분석해 줍니다.
-
-- **Q: 개인적인 일기를 AI에게 넘기는 게 보안상 불안합니다.**
-  - A: 충분히 공감합니다. 분석을 진행하기 전, 반드시 ChatGPT 설정(Settings) > 데이터 컨트롤(Data Controls)에서 **'모델 학습에 내 콘텐츠 사용(Improve the model for everyone)'** 옵션을 꺼두세요. 더 안전하게 하려면 실명이나 민감한 고유명사는 'A', 'B' 등으로 마스킹한 후 업로드하는 것을 권장합니다.
-
-- **Q: 그래프 폰트가 자꾸 깨져서 네모(□)로 나옵니다.**
-  - A: ChatGPT 환경에서 파이썬 그래프를 그릴 때 흔히 발생하는 문제입니다. 프롬프트 요청사항에 _"그래프를 그릴 때 `plt.rcParams['font.family'] = 'NanumGothic'` 등을 설정하여 한글 폰트가 깨지지 않게 해줘"_ 라고 구체적으로 지시하면 해결됩니다.
+If you don't keep a diary, try exporting and analyzing your **"Chat with Me" history** on messaging apps like WhatsApp or KakaoTalk. Alternatively, analyze the messages you've sent on work messengers like Slack. It blatantly reveals what time of day you become most aggressive and during which tasks you use the most positive vocabulary. Data does not lie.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **Python 시각화 지시 (`시각화 (Python 실행)`):** AI에게 단순히 글을 쓰게 하는 것이 아니라, 내장된 파이썬 환경(Advanced Data Analysis)을 강제로 실행시켜 이미지를 생성하도록 만들었습니다. 줄글로 읽는 것보다 직관적인 그래프 한 장이 회고에 훨씬 강력한 임팩트를 줍니다.
-2. **정량적 스케일링 (`-10부터 +10까지 수치화`):** 주관적인 텍스트 데이터를 AI가 분석 가능한 정량적 데이터로 변환하는 핵심 장치입니다. 이 기준이 명확해야 신뢰성 있는 그래프가 도출됩니다.
-3. **액션 아이템 도출 (`행동 처방`):** 단순한 과거 분석에 머물지 않고, 다음 달을 위한 구체적인 To-Do/Not-To-Do 리스트를 요구하여 프롬프트의 실용적 효용성(Pragmatic Utility)을 극대화했습니다.
+- **Q: How do I analyze a handwritten diary from an analog notebook?**
+  - A: Take photos of your diary pages with your smartphone and upload the images directly to ChatGPT. GPT-4o's powerful OCR (Optical Character Recognition) capability will accurately read even messy handwriting and analyze it just the same.
+
+- **Q: I'm concerned about the security of handing over my private diary to AI.**
+  - A: I completely understand. Before proceeding with the analysis, be sure to go to ChatGPT Settings > Data Controls and turn off the **"Improve the model for everyone"** option. For even greater security, we recommend masking real names or sensitive proper nouns with 'A', 'B', etc., before uploading.
+
+- **Q: The text on the generated graph appears as broken squares (□).**
+  - A: This is a common issue when drawing graphs via Python in the ChatGPT environment. You can fix this by explicitly instructing it in your prompt: *"When drawing the graph, set the font family to a universally supported sans-serif font to ensure the text doesn't break."*
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (막연한 감정적 소모)
+1. **Python Visualization Command (`Visualization (Run Python)`):** Instead of just having the AI write text, it forces the execution of the built-in Python environment (Advanced Data Analysis) to generate an image. A single intuitive graph delivers a much stronger impact for a retrospective than reading paragraphs of text.
+2. **Quantitative Scaling (`Quantify from -10 to +10`):** This is the core mechanism that converts subjective text data into quantitative data that the AI can analyze. A clear standard here ensures a reliable graph.
+3. **Deriving Action Items (`Behavioral Prescription`):** It maximizes the pragmatic utility of the prompt by moving beyond simple past analysis and demanding concrete To-Do/Not-To-Do lists for the upcoming month.
 
-> "이번 달은 정말 끔찍했어. 매일이 피곤하고 짜증 났던 것 같아. 왜 이렇게 우울하지?"
-> (정확한 원인을 모른 채 막연한 무력감에 빠짐)
+---
 
-### ✅ After (데이터 기반의 객관적 회고)
+## 📊 Proof: Before & After
 
-> **[📈 AI 감정 분석 리포트]**
+### ❌ Before (Vague Emotional Drain)
+
+> "This month was absolutely terrible. I felt tired and annoyed every single day. Why am I so depressed?"
+> (Falling into a vague sense of helplessness without knowing the exact cause)
+
+### ✅ After (Data-Driven Objective Retrospective)
+
+> **[📈 AI Emotional Analysis Report]**
 >
-> - **감정 최하점 (2월 15일, 22일):** 감정 점수 -8점.
->   - 핵심 원인 키워드: `야근`, `배달음식`, `자기 혐오`
->   - 분석: 스트레스를 통제하지 못하고 야근 후 폭식을 한 날, 다음 날까지 부정적 감정이 강하게 이어지는 패턴이 확인됩니다.
-> - **💡 데이터 기반 조언:** 야근이 불가피한 날에는 배달 앱을 차단하고, 10분이라도 가벼운 산책을 하는 것이 감정 방어에 유리합니다.
+> - **Lowest Emotional Score (Feb 15, 22):** Emotional Score -8.
+>   - Core Root Keywords: `overtime`, `delivery food`, `self-loathing`
+>   - Analysis: A pattern is identified where, on days you fail to manage stress and binge-eat late after working overtime, strong negative emotions carry over into the following day.
+> - **💡 Data-Driven Advice:** On days when overtime is unavoidable, blocking food delivery apps and taking even a 10-minute light walk is highly effective for emotional defense.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-나를 정확히 아는 것이 모든 긍정적인 변화의 첫걸음입니다.
-인간의 기억은 편향되기 쉽지만, 당신이 남긴 텍스트 데이터와 AI는 당신을 누구보다 객관적으로 바라봅니다.
+Knowing yourself accurately is the first step toward any positive change.
+Human memory is easily biased, but the text data you leave behind and AI can observe you more objectively than anyone else.
 
-이번 달, 당신의 마음 상태 데이터는 어떤 궤적을 그리고 있나요?
-지금 바로 데이터가 이끄는 **나만의 회고(Retrospective)**를 시작해 보세요. 🍷
+What trajectory does your mental state data trace this month?
+Start your very own data-driven **Retrospective** right now. 🍷

@@ -5,114 +5,114 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/식물"
-description: "식물 킬러들을 위한 구세주! 잎 색깔, 반점, 축 늘어진 줄기 등 사진 한 장으로 정확한 병명과 맞춤형 처방전을 받아보세요."
+description: "¡El salvavidas para los asesinos de plantas! Obtén un diagnóstico preciso y una receta personalizada con solo una foto de hojas marchitas, manchas o tallos caídos."
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---
 
-# 🌿 반려 식물 진단: 시들한 잎 사진 보고 살려내기
+# 🌿 Diagnóstico de Plantas de Interior: Revive a tu Planta con una Sola Foto
 
-- **🎯 추천 대상:** 선인장도 말려 죽이는 '마이너스의 손', "물 줬는데 왜 죽어!" 억울한 초보 식집사
-- **⏱️ 소요 시간:** 1분 (사진 촬영 후 즉시 진단 및 처방)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (Vision 이미지 인식 기능 필수)
+- **🎯 Recomendado para:** Principiantes con "mano negra" que matan hasta los cactus, y aquellos frustrados que se preguntan: "¡Si le di agua, ¿por qué se muere?!".
+- **⏱️ Tiempo requerido:** 1 minuto (diagnóstico y receta inmediatos tras tomar la foto).
+- **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (Es indispensable la función de reconocimiento de imágenes Vision).
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"어제까진 분명 멀쩡했는데... 자고 일어나니 잎이 노랗게 뜨고 축 늘어졌다면?"_
+> _"Ayer estaba en perfecto estado... pero ¿qué haces si al despertar descubres que sus hojas están amarillas y caídas?"_
 
-식물은 말을 하지 못합니다. 대신 온몸으로 구조 신호를 보냅니다. 잎의 색깔 변화, 줄기의 처짐, 흙의 마름 정도가 바로 그 신호입니다. 이 미세한 단서를 제때 읽어내지 못하면 반려 식물은 결국 시들어버리고 맙니다.
+Las plantas no pueden hablar, pero envían señales de auxilio con todo su cuerpo. Un cambio en el color de las hojas, un tallo marchito o la sequedad de la tierra son su forma de comunicarse. Si no logras interpretar estas sutiles pistas a tiempo, tu planta terminará marchitándose.
 
-이제 더 이상 인터넷 카페나 지식인에 사진을 올리고 답글을 기다릴 필요가 없습니다. **AI 식물 의사(Plant Doctor)**에게 증상이 담긴 사진 한 장만 보여주세요. "과습입니다", "해충 피해입니다" 등 정확한 진단부터 죽어가는 식물을 다시 살려내는 심폐소생술까지 단숨에 알려줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 아픈 식물의 부위(잎, 줄기, 흙 등)가 잘 보이도록 선명하게 사진을 찍습니다.
-2. 이미지 인식(Vision)이 가능한 AI에 사진을 업로드합니다.
-3. **"현재 증상과 원인을 분석하고, 살리기 위한 단계별 조치법을 알려줘"**라고 구체적으로 요청합니다.
+Ya no necesitas publicar fotos en foros o en grupos de internet esperando respuestas. Simplemente muéstrale una foto de los síntomas a tu **Doctor de Plantas con IA (Plant Doctor)**. Desde un diagnóstico preciso como "exceso de riego" o "plaga", hasta la reanimación paso a paso para revivir a tu planta moribunda; te lo dirá todo en un instante.
 
 ---
 
-## 🚀 해결책: "Plant Doctor Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본 원인 파악형)
+1. Toma una foto clara donde se aprecien bien las partes afectadas de la planta (hojas, tallo, tierra, etc.).
+2. Sube la foto a una IA con capacidad de reconocimiento visual (Vision).
+3. Solicita de forma específica: **"Analiza los síntomas actuales y la causa, y dame los pasos a seguir para salvarla."**
 
-당장 급하게 증상의 원인만 파악해야 할 때 사용하세요.
+---
 
-> **(식물의 아픈 부위 사진 업로드)**
+## 🚀 Solución: "Prompt Plant Doctor"
+
+### 🥉 Versión Básica (Identificación rápida)
+
+Úsalo cuando necesites descubrir la causa de los síntomas con urgencia.
+
+> **(Sube la foto de la parte enferma de la planta)**
 >
-> **요청:** 사진 속 몬스테라 잎 끝이 갈색으로 타들어가고 있어. 물이 부족한 걸까, 아니면 너무 과한 걸까? 혹시 병에 걸린 건지 원인과 대처법을 짧게 알려줘.
+> **Petición:** Las puntas de las hojas de la Monstera en la foto se están quemando y volviendo marrones. ¿Le falta agua o me he pasado? Dime brevemente la causa y qué debo hacer por si está enferma.
 
 <br>
 
-### 🥇 Pro Version (전문 소생 솔루션형)
+### 🥇 Versión Pro (Solución experta de reanimación)
 
-식물이 생사의 기로에 놓인 응급 상황일 때 사용하세요.
+Úsalo en situaciones de emergencia donde la vida de la planta pende de un hilo.
 
-> **역할 (Role):** 너는 수많은 병든 식물을 살려낸 식물 병리학자이자 베테랑 가드너야.
+> **Rol (Role):** Eres un fitopatólogo y un jardinero veterano que ha salvado la vida de innumerables plantas enfermas.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - **[식물 종류]:** 알로카시아
-> - **[현재 증상]:** 잎이 전체적으로 힘없이 축 늘어졌고, 끝부분이 누렇게 변함. 흙을 찔러보면 속까지 축축한 상태야.
-> - **[생육 환경]:** 거실 창가(직사광선이 닿음), 물은 3일에 한 번씩 흠뻑 줌.
+> - **[Tipo de planta]:** Alocasia
+> - **[Síntomas actuales]:** Las hojas han perdido fuerza, están caídas y las puntas se han vuelto amarillas. Al introducir un dedo en la tierra, se siente húmeda hasta el fondo.
+> - **[Entorno de cultivo]:** Cerca de la ventana del salón (recibe luz solar directa), la riego abundantemente cada 3 días.
 >
-> **요청 (Task):**
+> **Petición (Task):**
 >
-> 1.  **정확한 진단:** 제공된 사진과 상황을 바탕으로 과습(Overwatering), 화상(Sunburn), 해충(Pest) 등 가장 유력한 원인을 정확히 짚어줘.
-> 2.  **응급 처방전:** 당장 물주기를 멈춰야 하는지, 그늘로 옮겨야 하는지, 분갈이가 시급한지 당장 실행해야 할 조치들을 단계별로 알려줘.
-> 3.  **예방 및 관리법:** 이 식물이 다시 건강해지기 위한 앞으로의 이상적인 물주기 스케줄과 최적의 위치(빛 요구도)를 추천해줘.
+> 1.  **Diagnóstico preciso:** Basándote en la foto proporcionada y el contexto, identifica la causa más probable: exceso de riego (Overwatering), quemadura solar (Sunburn), plaga (Pest), etc.
+> 2.  **Receta de emergencia:** Indícame paso a paso las medidas que debo tomar de inmediato. ¿Debo dejar de regarla ya?, ¿tengo que moverla a la sombra? o ¿necesita un trasplante urgente?
+> 3.  **Prevención y cuidados:** Recomiéndame un calendario de riego ideal y la mejor ubicación (necesidad de luz) para que esta planta recupere su salud en el futuro.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 식물을 살리는 것이 최우선이므로, 확실하지 않은 정보는 추측하지 말고 검증된 원예학적 사실에 기반해서만 답변해.
+> - Salvar a la planta es la máxima prioridad. No adivines información de la que no estés seguro; responde basándote únicamente en datos hortícolas comprobados para evitar alucinaciones.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-초보 식집사들이 식물을 죽이는 가장 큰 원인 중 90%는 바로 **'과습(Overwatering)'**입니다. 애정을 담아 물을 자주 준 것이 오히려 뿌리를 썩게 만드는 독이 된 것이죠.
+El 90% de las veces que un principiante mata a una planta, la causa principal es el **'exceso de riego (Overwatering)'**. Irónicamente, regarla con frecuencia por exceso de cariño se convierte en el veneno que pudre sus raíces.
 
-이 프롬프트를 사용하면 AI가 단순히 "물을 줄이세요"라고 답하는 데 그치지 않고, "나무젓가락으로 흙을 찔러 손가락 두 마디 깊이까지 흙이 바짝 말랐을 때 흠뻑 주세요"와 같이 아주 구체적이고 명확한 행동 기준(Rule)을 제시해 줍니다. 어설픈 감이 아닌 AI의 데이터에 의존해 보세요. 식물의 생존율이 극적으로 올라갑니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 선물 받은 식물이라 이름조차 모르는데 진단이 가능한가요?**
-  - A: 네, 가능합니다. 사진을 먼저 업로드한 후 "이 식물의 정확한 이름(학명 포함)과 현재 상태를 알려줘"라고 질문하면, 시중의 식물 검색 앱보다 훨씬 더 정확하고 상세하게 품종과 생육 특징을 알려줍니다.
-
-- **Q: 잎에 붙은 징그러운 벌레 사진을 올려도 되나요?**
-  - A: 물론입니다. 깍지벌레, 응애, 뿌리파리 등 해충의 사진을 가까이서 찍어 올리면, 해당 해충의 정확한 종류를 식별하고 집에서 당장 만들 수 있는 천연 살충제 제조법이나 효과적인 시판 약제를 즉각적으로 처방해 줍니다.
+Al usar este prompt, la IA no se limitará a decir "reduce el riego". Te proporcionará reglas de acción extremadamente claras y específicas, como: "Introduce un palillo de madera en la tierra y riega abundantemente solo cuando esté completamente seca a una profundidad de dos nudillos de tu dedo". Deja de depender de tu intuición de principiante y confía en los datos objetivos de la IA. Verás cómo la tasa de supervivencia de tus plantas aumenta drásticamente.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **구체적인 생육 환경 제공:** 단순히 사진만 올리는 것이 아니라, "3일에 한 번 물을 준다"는 핵심 컨텍스트를 제공했습니다. 이를 통해 AI는 "알로카시아에게 3일에 한 번은 너무 잦은 주기이므로 과습이 확실합니다"라는 확신에 찬 진단을 내릴 수 있습니다.
-2.  **골든타임을 위한 단계별 처방:** 죽어가는 식물에게는 응급 조치 순서가 중요합니다. 요청 사항에 '당장 해야 할 일'과 '앞으로의 예방책'을 분리하여 지시함으로써, 사용자가 혼란 없이 즉각적인 행동을 취할 수 있도록 유도했습니다.
+- **P: Me han regalado la planta y ni siquiera sé cómo se llama. ¿Se puede diagnosticar?**
+  - R: Sí, es perfectamente posible. Primero sube la foto y añade a tu pregunta: "Dime el nombre exacto de esta planta (incluyendo su nombre científico) y su estado actual". La IA te dará detalles de la especie y características de cultivo de manera mucho más precisa y detallada que la mayoría de aplicaciones de reconocimiento de plantas del mercado.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (짐작에 의존)
-
-> "어? 잎이 시들었네? 물이 부족해서 목이 마른가 보다." (물을 한 바가지 더 줌 ➡️ 이미 썩어가던 뿌리가 완전히 부패함 ➡️ 돌이킬 수 없는 식물 사망 ⚰️)
-
-### ✅ After (AI의 객관적 진단)
-
-> **AI:** "현재 증상과 물주기 주기로 보아 **심각한 과습**입니다! 당장 물주기를 멈추시고, 화분을 통풍이 잘 되는 서늘한 반음지로 옮기세요. 흙이 완전히 바짝 마를 때까지 최소 1주일 이상 기다려야 합니다."
-> (결과: AI의 처방대로 즉각 조치한 지 3일 뒤, 썩어가던 줄기가 멈추고 빳빳한 새순이 돋아남 🌱)
+- **P: ¿Puedo subir fotos de los bichos raros que están en las hojas?**
+  - R: Por supuesto. Si tomas una foto de cerca a plagas como cochinillas, ácaros o moscas del sustrato, la IA identificará la especie exacta de la plaga y te recetará de inmediato cómo hacer un insecticida natural en casa o te recomendará el producto comercial más efectivo.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-식물을 곁에 두고 키우는 것은 하나의 '생명'을 온전히 책임지는 숭고한 일입니다.
-모르거나 헷갈릴 때는 짐작으로 행동하기보다 전문가에게 물어봐야 합니다.
+1.  **Proporcionar un entorno de cultivo específico:** No solo se sube la foto, sino que se aporta un contexto clave como "la riego cada 3 días". Gracias a esto, la IA puede dar un diagnóstico firme: "Para una Alocasia, regar cada 3 días es un ciclo demasiado frecuente; sin duda es exceso de riego".
+2.  **Prescripción paso a paso para aprovechar el tiempo de oro:** En una planta moribunda, el orden de los primeros auxilios es crucial. Al separar en la petición "lo que hay que hacer ahora mismo" de las "medidas preventivas futuras", el usuario puede actuar de inmediato sin confusiones.
 
-이제 더 이상 죄 없는 식물들을 초록별로 떠나보내지 마세요.
-내 스마트폰 안의 든든한 **AI 주치의**가 당신의 작은 정원을 언제나 푸르게 지켜줄 것입니다. 🌿
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Dependiendo de suposiciones)
+
+> "Mmm... ¿las hojas están marchitas? Seguro que tiene sed y le falta agua." (Le echas un litro más de agua ➡️ Las raíces, que ya se estaban pudriendo, colapsan por completo ➡️ Muerte irreversible de la planta ⚰️)
+
+### ✅ Después (Diagnóstico objetivo de la IA)
+
+> **IA:** "¡Considerando los síntomas actuales y la frecuencia de riego, se trata de un **exceso de riego severo**! Detén el riego de inmediato y traslada la maceta a un lugar fresco, en semisombra y bien ventilado. Debes esperar al menos una semana hasta que la tierra esté completamente seca."
+> (Resultado: A los 3 días de seguir las medidas indicadas por la IA, el tallo detuvo su pudrición y comenzaron a brotar nuevos brotes firmes 🌱).
+
+---
+
+## 🎯 Conclusión
+
+Tener plantas a tu lado y cuidarlas es el acto noble de responsabilizarse plenamente de una "vida".
+Cuando no sepas qué hacer o estés confundido, en lugar de actuar por intuición, debes consultar a un experto.
+
+No envíes a más plantas inocentes al cielo de las plantas.
+Tu confiable **médico de cabecera con IA**, justo en tu smartphone, mantendrá tu pequeño jardín siempre verde. 🌿

@@ -5,123 +5,123 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/여행"
-description: "광고성 블로그에 속지 않는 법. 현지인 추천과 구글 맵 평점을 기반으로 나만의 찐 맛집 지도를 만드는 AI 프롬프트 큐레이션."
+description: "Cómo no dejarse engañar por blogs publicitarios. Una selección de prompts de IA para crear tu propio mapa de restaurantes auténticos basado en recomendaciones locales y valoraciones de Google Maps."
 tags: ["맛집", "제주도", "카페", "여행", "지도"]
 ---
 
-# 🗺️ 맛집 지도 생성: "제주도 서쪽 해안도로 카페 리스트"
+# 🗺️ Creación de Mapas Gastronómicos: "Lista de Cafeterías en la Costa Oeste de la Isla de Jeju"
 
-- **🎯 추천 대상:** "맛집 추천" 검색했다가 광고글만 100개 보고 지친 분, 여행 동선 짤 때 먹는 게 제일 중요한 프로 여행러
-- **⏱️ 소요 시간:** 30분 → 3분 단축
-- **🤖 추천 모델:** Perplexity (실시간 검색 및 출처 제공 최적화), ChatGPT Plus
+- **🎯 Recomendado para:** Aquellos cansados de leer cientos de posts patrocinados tras buscar "recomendaciones de restaurantes", y viajeros expertos para quienes comer bien es la prioridad al planificar su ruta.
+- **⏱️ Tiempo requerido:** De 30 minutos → reducido a 3 minutos
+- **🤖 Modelo recomendado:** Perplexity (optimizado para búsquedas en tiempo real y citación de fuentes), ChatGPT Plus
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"인스타 핫플이라고 해서 갔는데... 뷰만 좋고 커피는 맛없고 비싸기만 했던 경험, 다들 있으시죠?"_
+> _"¿Alguna vez fuiste a ese lugar tan popular en Instagram solo para descubrir que la vista era buena, pero el café pésimo y carísimo? Todos hemos pasado por eso."_
 
-더 이상 광고성 블로그와 영혼 없는 리뷰에 속지 마세요. 진짜 맛집은 화려한 해시태그 속에 숨어있지 않습니다. 이제 AI에게 "광고는 거르고, 현지인 평점이 높은 곳만 교차 검증해서 찾아줘"라고 지시하세요. 네이버 블로그의 협찬 글을 배제하고, 구글 맵과 카카오맵의 냉정한 평점을 종합해 오직 **'찐 맛집'**만 골라내는 완벽한 큐레이션 비법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 가고 싶은 지역(동/읍/면 단위)과 구체적인 테마(예: 오션뷰, 디저트)를 명확히 정합니다.
-2. AI에게 "광고를 제외하고 구글 맵 평점 4.2 이상인 곳만 추려줘"라고 플랫폼 교차 검증을 지시합니다.
-3. 출력된 알짜배기 결과를 지도 앱에 저장하고 완벽한 미식 여행을 떠납니다.
+No te dejes engañar más por blogs publicitarios y reseñas sin alma. Los verdaderos tesoros gastronómicos no se esconden detrás de hashtags llamativos. Ahora puedes ordenarle a la IA: "Filtra la publicidad y cruza datos para mostrarme solo lugares con altas valoraciones de los lugareños". Te presentamos el secreto de curación definitivo para descartar artículos patrocinados de plataformas de blogs, y sintetizar las valoraciones objetivas de Google Maps y aplicaciones locales para seleccionar únicamente los **'auténticos restaurantes'**.
 
 ---
 
-## 🚀 해결책: "Gourmet Map Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Define claramente la zona que deseas visitar (a nivel de barrio/pueblo) y una temática específica (ej. vistas al mar, postres).
+2. Ordena a la IA que realice una validación cruzada de plataformas con la instrucción: "Excluye la publicidad y filtra solo los lugares con una puntuación superior a 4.2 en Google Maps".
+3. Guarda los resultados seleccionados en tu aplicación de mapas y prepárate para un viaje gastronómico perfecto.
 
-빠르게 근처 맛집을 찾고 싶을 때 사용하세요.
+---
 
-> **요청:** `[제주도 애월읍]` 근처에서 `[오션뷰]`가 끝내주는 `[카페]` 3곳만 추천해 줘. 사람 너무 많지 않고 주차 편한 곳으로 부탁해.
+## 🚀 La Solución: "Prompt de Mapa Gourmet"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites encontrar rápidamente un buen restaurante cercano.
+
+> **Petición:** Recomiéndame solo 3 `[cafeterías]` cerca de `[Aewol-eup, Isla de Jeju]` que tengan unas `[vistas al mar]` increíbles. Por favor, que sean lugares sin demasiada gente y con facilidad para aparcar.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-여행 일정에 맞춘 완벽한 동선과 철저하게 검증된 맛집 리스트가 필요할 때 사용하세요.
+Úsala cuando necesites una ruta perfecta adaptada a tu itinerario y una lista de restaurantes rigurosamente verificada.
 
-> **역할 (Role):** 너는 미슐랭 가이드의 깐깐한 평가원이자 현지 데이터 분석 전문가야.
+> **Rol (Role):** Eres un estricto inspector de la Guía Michelin y un experto local en análisis de datos.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 타겟 지역: `[제주도 서쪽 (협재~애월~한림) 해안도로 라인]`
-> - 카테고리: `[카페 (디저트가 맛있는 곳)]`
+> - Zona objetivo: `[Ruta costera del oeste de la Isla de Jeju (Hyeopjae - Aewol - Hallim)]`
+> - Categoría: `[Cafetería (lugares con postres deliciosos)]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 구글 맵 평점 4.2 이상 또는 카카오맵 평점 4.0 이상인 곳만 엄선해 줘.
-> 2. '소정의 원고료', '협찬', '제공받아' 등의 키워드가 포함된 블로그 리뷰가 많은 곳은 철저히 제외해.
-> 3. 각 장소의 '노키즈존 여부'와 '주차 가능 여부'를 반드시 포함해 줘.
+> 1. Selecciona cuidadosamente solo aquellos lugares que tengan una puntuación de 4.2 o superior en Google Maps, o 4.0 o superior en KakaoMap.
+> 2. Excluye estrictamente los lugares con muchas reseñas de blogs que contengan palabras clave como 'tarifa de redacción', 'patrocinado' o 'proporcionado por'.
+> 3. Asegúrate de incluir si cada lugar es 'No Kids Zone' (libre de niños) y si dispone de 'aparcamiento'.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운 표(Table)로 해줘. (컬럼: 가게명 | 한줄평 | 추천 메뉴 | 주차 및 키즈)
-> - 폐업했거나 최근 3개월 내 리뷰가 없는 곳은 제외해.
+> - El formato de salida debe ser una tabla (Table) en Markdown. (Columnas: Nombre del local | Reseña breve | Menú recomendado | Aparcamiento y Niños).
+> - Excluye los lugares que hayan cerrado permanentemente o que no tengan reseñas en los últimos 3 meses.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 확실하지 않은 정보는 지어내지 말고 "정보 없음"으로 표기해. (환각 방지)
+> - No inventes información de la que no estés seguro; si no lo sabes, indica "Sin información". (Para evitar alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-맛집 검색 프롬프트의 핵심 필살기는 바로 **'부정어 제외(Negative Prompting)'**와 **'교차 검증'**입니다. 단순히 "좋은 곳 추천해 줘"라고 하면 AI도 인터넷에 가장 많이 노출된 마케팅 글을 먼저 가져옵니다.
+El arma secreta definitiva de los prompts para buscar restaurantes es el uso de **'Prompts Negativos' (Negative Prompting)** y la **'Validación Cruzada'**. Si simplemente pides "Recomiéndame un buen lugar", la IA te devolverá primero los artículos de marketing con mayor exposición en internet.
 
-따라서 "웨이팅 1시간 이상인 곳 제외", "가성비 안 좋은 곳 제외", "구글과 카카오맵 평점 동시 충족" 등의 뾰족한 조건을 걸어야 합니다. 특히 Perplexity와 같은 실시간 검색 AI를 활용하면, 블로그 리뷰의 '협찬' 멘트까지 필터링하여 인스타용 핫플레이스가 아닌 진짜 로컬 맛집을 효과적으로 찾아낼 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 알려준 식당이 막상 가보니 폐업했으면 어떡하죠?**
-  - A: AI의 학습 데이터가 실시간 상황을 100% 반영하지 못할 수 있습니다. 완벽한 계획을 위해 프롬프트 결과물에 나온 식당 이름을 네이버 지도나 카카오맵에서 한 번 더 검색하여 '현재 영업 중'인지 꼭 확인하시길 권장합니다.
-
-- **Q: 해외여행 갈 때도 이 프롬프트를 쓸 수 있나요?**
-  - A: 물론입니다! 변수만 `[도쿄 시부야]`, `[야키토리]` 등으로 바꾸면 됩니다. 단, 일본은 '타베로그(Tabelog)', 미국은 '옐프(Yelp)' 등 현지에서 주로 쓰는 지도 앱의 평점을 기준으로 삼으라고 조건을 추가하면 훨씬 더 정확한 로컬 맛집을 찾을 수 있습니다.
+Por lo tanto, debes establecer condiciones precisas y agudas como "excluir lugares con más de 1 hora de espera", "excluir lugares con mala relación calidad-precio" y "cumplir simultáneamente las puntuaciones de Google y mapas locales". Especialmente al utilizar una IA de búsqueda en tiempo real como Perplexity, puedes filtrar incluso las menciones de 'patrocinio' en las reseñas de blogs, descubriendo así los verdaderos restaurantes locales en lugar de simples trampas para turistas de Instagram.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **플랫폼 교차 검증:** 구글 맵과 카카오맵 등 각기 다른 플랫폼의 평점 기준을 동시에 충족하도록 강제하여, 특정 플랫폼의 평점 조작 식당을 완벽하게 걸러냅니다.
-2.  **광고 필터링 조건 명시:** '소정의 원고료', '협찬' 등의 구체적인 광고성 키워드를 제외하라고 지시하여 AI가 스팸성 리뷰 데이터를 학습하는 것을 사전에 차단합니다.
-3.  **실용적인 메타데이터 요구:** 맛뿐만 아니라 '주차장 유무', '노키즈존' 등 여행자에게 실제 필요한 동선 정보를 강제 출력하도록 설계하여 실용성을 극대화했습니다.
+- **P: ¿Qué hago si el restaurante que me recomendó la IA resulta estar cerrado cuando llego?**
+  - R: Los datos de entrenamiento de la IA pueden no reflejar la situación en tiempo real al 100%. Para un plan perfecto, te recomendamos encarecidamente que busques el nombre del restaurante obtenido en el prompt en tu aplicación de mapas preferida una vez más para confirmar si "actualmente está abierto".
+
+- **P: ¿Puedo usar este prompt cuando viajo al extranjero?**
+  - R: ¡Por supuesto! Solo tienes que cambiar las variables a `[Shibuya, Tokio]`, `[Yakitori]`, etc. Sin embargo, si agregas la condición de basarse en las puntuaciones de las aplicaciones de mapas utilizadas localmente, como 'Tabelog' en Japón o 'Yelp' en EE. UU., podrás encontrar restaurantes locales de manera mucho más precisa.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (검색 지옥)
+1.  **Validación Cruzada de Plataformas:** Obliga a cumplir simultáneamente los criterios de puntuación de diferentes plataformas como Google Maps y KakaoMap, filtrando perfectamente los restaurantes que manipulan sus valoraciones en una plataforma específica.
+2.  **Especificación de Condiciones de Filtrado de Publicidad:** Al ordenar la exclusión de palabras clave publicitarias específicas como 'tarifa de redacción' o 'patrocinado', se evita de antemano que la IA aprenda y devuelva datos de reseñas tipo spam.
+3.  **Solicitud de Metadatos Prácticos:** Se ha diseñado para forzar la salida de información de movilidad realmente necesaria para el viajero, como 'disponibilidad de aparcamiento' o 'No Kids Zone', además del sabor, maximizando así su utilidad práctica.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Infierno de Búsqueda)
 
 ```text
-"애월 카페" 검색 결과:
-뷰는 좋지만 커피 한 잔에 9천 원, 디저트는 어디서나 파는 공장제 조각 케이크.
-주차장은 만차에 사람만 붐벼서 웨이팅 1시간. (결국 광고 블로그에 속아 기분만 상함 😡)
+Resultados de búsqueda para "Cafetería en Aewol":
+Las vistas son buenas, pero una taza de café cuesta 9,000 wones y los postres son pasteles industriales que venden en cualquier lado.
+El estacionamiento está lleno, hay demasiada gente y la espera es de 1 hora. (Al final, te engañó un blog patrocinado y solo te arruinó el humor 😡)
 ```
 
-### ✅ After (AI 큐레이션)
+### ✅ Después (Curación por IA)
 
 ```text
-AI의 깐깐한 교차 분석 결과:
-[카페 A] 구글 평점 4.5 / 카카오 4.4
-- 한줄평: 뷰는 기본, 현지인들이 '당근 케이크' 먹으러 오픈런하는 찐 맛집.
-- 추천 메뉴: 수제 당근 케이크, 시그니처 핸드드립 커피 (6,000원대)
-- 주차 및 키즈: 전용 주차장 완비, 케어 키즈존 운영.
-(결과: 바다를 보며 합리적인 가격에 인생 디저트를 즐기며 힐링! 🍰🌊)
+Resultado del riguroso análisis cruzado de la IA:
+[Cafetería A] Puntuación Google 4.5 / Kakao 4.4
+- Reseña breve: Las vistas son un estándar, pero es un restaurante auténtico donde los lugareños hacen fila antes de abrir para comer el 'Pastel de Zanahoria'.
+- Menú recomendado: Pastel de zanahoria artesanal, café de goteo exclusivo (rango de 6,000 wones).
+- Aparcamiento y Niños: Aparcamiento exclusivo disponible, opera como 'Care Kids Zone'.
+(Resultado: ¡Sanación disfrutando del mejor postre de tu vida a un precio razonable mientras miras el mar! 🍰🌊)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-맛집은 더 이상 포털 사이트에서 '검색'하는 것이 아니라, 방대한 데이터의 바다에서 **'발굴'**해 내는 것입니다.
+Encontrar un buen restaurante ya no consiste en 'buscar' en portales de internet, sino en **'excavar'** en un vasto océano de datos.
 
-광고와 마케팅에 속아 소중한 여행 일정을 망치지 마세요. 똑똑하게 설계된 프롬프트 하나로 당신의 여행을 맛있고 완벽한 추억으로만 채워보시길 바랍니다. 이제 진짜 맛집만 골라가세요! 🍷
+No dejes que la publicidad y el marketing arruinen tu valioso itinerario de viaje. Con un solo prompt diseñado de manera inteligente, podrás llenar tu viaje solo con recuerdos deliciosos y perfectos. ¡A partir de ahora, visita solo los restaurantes auténticos! 🍷

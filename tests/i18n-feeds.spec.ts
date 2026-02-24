@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("i18n and Feeds", () => {
   test("Korean Homepage has correct Footer links", async ({ page }) => {

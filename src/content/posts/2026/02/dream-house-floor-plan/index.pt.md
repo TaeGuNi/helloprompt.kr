@@ -5,118 +5,124 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/리빙"
-description: "건축가가 없어도 됩니다. 평수, 방 개수, 스타일만 말하면 AI가 평면도(Floor Plan)를 그려주는 마법."
+description: "Você não precisa de um arquiteto agora. Apenas informe o tamanho, o número de quartos e o estilo, e a IA desenhará a planta baixa (Floor Plan) como mágica."
 tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 ---
 
-# 🏠 꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계
+# 🏠 Desenhando a Casa dos Sonhos: Crie a Planta Baixa do Espaço Onde Você Quer Viver
 
-- **🎯 추천 대상:** 내 집 마련의 꿈을 꾸는 신혼부부, 전원주택 짓고 싶은 은퇴 예정자, 공간 디자이너 지망생
-- **⏱️ 소요 시간:** 1분
-- **🤖 추천 모델:** Midjourney v6.0 (건축 도면 및 인테리어 렌더링에 압도적 성능)
+- **🎯 Recomendado para:** Recém-casados sonhando com a casa própria, futuros aposentados planejando uma casa de campo, aspirantes a designers de interiores.
+- **⏱️ Tempo estimado:** 1 minuto
+- **🤖 Modelo recomendado:** Midjourney v6.0 (Desempenho insuperável para plantas arquitetônicas e renderização de interiores)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificuldade:** ⭐⭐☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"머릿속에만 있던 완벽한 우리 집, 말 몇 마디로 1분 만에 도면으로 뽑아낼 수 있다면?"_
+> _"E se você pudesse transformar aquela casa perfeita que só existe na sua cabeça em uma planta arquitetônica detalhada em apenas 1 minuto, usando apenas algumas palavras?"_
 
-머릿속에 그리는 완벽한 공간을 말로만 설명하기란 쉽지 않습니다. "거실은 좀 더 넓게, 주방은 대면형 아일랜드 식탁으로, 그리고 채광이 좋은 다락방이 있었으면 좋겠어요."
+Explicar verbalmente o espaço perfeito que você imagina nem sempre é fácil. "Eu queria uma sala de estar mais ampla, uma cozinha em conceito aberto com ilha e um sótão com bastante luz natural."
 
-하지만 이제는 수백만 원짜리 건축 설계 상담을 받기 전, AI를 통해 10초 만에 완벽한 초안을 그려볼 수 있습니다. **평면도(Floor Plan)**부터 생생한 **조감도(Perspective View)**까지, 전문가 수준의 도면을 직접 설계해 보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 원하는 집의 구체적인 스펙(평수, 방 개수, 스타일)을 텍스트로 정리합니다.
-2. Midjourney에 건축 도면에 최적화된 **"Floor plan"** 및 **"Isometric"** 프롬프트를 입력합니다.
-3. 생성된 고품질 도면을 바탕으로 실제 인테리어나 건축 상담에 즉시 활용합니다.
+No entanto, agora você não precisa gastar milhares de reais em consultorias arquitetônicas iniciais. Com a IA, você pode gerar um rascunho visual perfeito em apenas 10 segundos. Desde uma **planta baixa (Floor Plan)** até uma **perspectiva realista (Perspective View)**, comece a projetar plantas de nível profissional por conta própria.
 
 ---
 
-## 🚀 해결책: "Architect AI Prompt"
+## ⚡️ Resumo em 3 Passos (TL;DR)
 
-### 🥉 Basic Version (기본 조감도)
+1. Defina em texto as especificações da casa dos seus sonhos (tamanho, número de quartos, estilo arquitetônico).
+2. Insira no Midjourney prompts otimizados para arquitetura, como **"Floor plan"** e **"Isometric"**.
+3. Utilize os designs de alta qualidade gerados como referência visual direta para consultorias reais de arquitetura ou design de interiores.
 
-전체적인 외관 분위기와 건축 스타일을 시각화할 때 사용하세요.
+---
 
-> **역할:** 너는 세계적인 `[건축가]`야.
-> **요청:** `[모던 미니멀 하우스]`의 외관을 사실적인 조감도로 그려줘.
+## 🚀 A Solução: "Prompt Arquiteto de IA"
+
+### 🥉 Versão Básica (Basic Version)
+
+Use esta versão para visualizar rapidamente a atmosfera exterior e o estilo arquitetônico.
+
+> **Função (Role):** Você é um `[arquiteto]` de renome mundial.
+> **Tarefa (Task):** Crie uma perspectiva realista e fotorrealista do exterior de uma `[casa moderna e minimalista]`.
 >
-> **프롬프트:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
+> **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
 <br>
 
-### 🥇 Pro Version (전문가형 평면도 & 아이소메트릭)
+### 🥇 Versão Pro (Pro Version - Planta Baixa & Isométrica)
 
-구조, 동선, 가구 배치까지 정밀하게 기획할 때 사용하세요.
+Use esta versão para um planejamento preciso de estrutura, fluxo de movimento e disposição dos móveis.
 
-> **역할 (Role):** 너는 디테일에 강한 `[수석 인테리어 디자이너]`야.
+> **Função (Role):** Você é um `[designer de interiores sênior]` com foco extremo em detalhes.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: `[30평대 3룸 아파트]` 리모델링을 앞두고 있음
-> - 목표: `[효율적인 동선과 개방감]`을 극대화한 평면도 및 공간 구성 시각화
+> - Cenário: Prestes a iniciar a reforma de um `[apartamento de 3 quartos com cerca de 100m²]`.
+> - Objetivo: Visualizar a planta baixa e a disposição espacial para maximizar `[o fluxo eficiente e a sensação de amplitude]`.
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. `[3-bedroom apartment]`의 건축 평면도를 위에서 내려다본 2D 탑다운 뷰로 그려줘.
-> 2. 청사진(Blueprint) 스타일을 적용하고, 상세한 가구 레이아웃을 포함해 줘.
-> 3. 다음 `[디테일 옵션]`을 반드시 반영해 줘:
->    - large living room connected to open kitchen (거실과 주방이 연결된 대면형 구조)
->    - master bedroom with walk-in closet (넓은 드레스룸이 있는 안방)
->    - balcony with indoor plants (플랜테리어가 적용된 발코니)
+> 1. Desenhe a planta arquitetônica de um `[apartamento de 3 quartos]` em uma visão 2D de cima para baixo (top-down view).
+> 2. Aplique um estilo de projeto técnico (Blueprint) e inclua um layout detalhado dos móveis.
+> 3. Você deve obrigatoriamente incorporar as seguintes `[opções detalhadas]`:
+>    - large living room connected to open kitchen (sala de estar ampla conectada a uma cozinha aberta)
+>    - master bedroom with walk-in closet (quarto principal com um closet espaçoso)
+>    - balcony with indoor plants (varanda com paisagismo interno / plantas)
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 선이 깔끔해야 하며, 배경은 흰색으로 처리할 것. (clean lines, white background)
-> - 이미지 퀄리티는 최상으로 설정할 것. (high quality)
+> - As linhas devem ser nítidas e o fundo deve ser branco. (clean lines, white background)
+> - A qualidade da imagem deve ser configurada para o nível máximo. (high quality)
 >
-> **프롬프트 적용 예시:** architectural floor plan of a 3-bedroom apartment, top-down view, 2d, blueprint style, detailed furniture layout, large living room connected to open kitchen, master bedroom with walk-in closet, balcony with indoor plants, clean lines, white background, high quality --v 6.0
+> **Exemplo de Prompt a ser aplicado:** architectural floor plan of a 3-bedroom apartment, top-down view, 2d, blueprint style, detailed furniture layout, large living room connected to open kitchen, master bedroom with walk-in closet, balcony with indoor plants, clean lines, white background, high quality --v 6.0
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Visão do Autor (Insight)
 
-단순한 2D 평면도만으로는 공간의 깊이감을 느끼기 어려울 수 있습니다. 이럴 때는 **"3D Isometric View (아이소메트릭 뷰)"** 프롬프트를 적극 활용해 보세요.
+Apenas uma planta baixa 2D pode dificultar a percepção da profundidade e do volume do espaço. Nesses casos, recomendo fortemente o uso do prompt **"3D Isometric View" (Visão Isométrica 3D)**.
 
-지붕을 걷어내고 대각선 위에서 비스듬히 내려다보는 미니어처 하우스 형태의 컷어웨이(Cutaway) 뷰가 생성됩니다. 벽의 높이, 가구의 부피감, 창문으로 들어오는 빛의 방향까지 한눈에 파악할 수 있어, 실제 시공 업체와 미팅할 때 **"제가 원하는 느낌이 정확히 이거예요"**라고 소통하는 최고의 레퍼런스 자료가 됩니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 생성된 도면으로 실제 건축이나 시공이 가능한가요?**
-  - A: 아닙니다. AI가 생성한 도면은 어디까지나 '시각적 컨셉'입니다. 실제 시공을 위해서는 정확한 치수, 하중, 배관 및 전기 설계를 다루는 전문 건축가와의 상담이 반드시 필요합니다. 단, 초기 기획안이나 상담용 레퍼런스로는 이보다 완벽할 수 없습니다.
-
-- **Q: 도면 안의 방 이름 텍스트가 깨져서 나옵니다. 어떻게 하죠?**
-  - A: 현재 이미지 생성 AI 모델들은 이미지 내 텍스트 렌더링에 취약합니다. 방 이름(Living Room, Kitchen 등)이나 치수 표기가 필요하다면, 텍스트가 없는 깔끔한 도면을 생성한 뒤 포토샵이나 캔바(Canva)를 이용해 직접 타이포그래피를 얹는 방식을 추천합니다.
+Isso gerará uma visão em corte (cutaway) estilo maquete, como se o teto tivesse sido removido e você estivesse olhando diagonalmente de cima. Você conseguirá ver a altura das paredes, o volume dos móveis e até a direção da luz que entra pelas janelas. É o material de referência perfeito para levar a uma reunião com empreiteiros e dizer: **"É exatamente essa a sensação que eu quero"**, garantindo uma comunicação sem falhas.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **Top-down view (탑다운 뷰):** AI에게 카메라의 시점을 명확하게 지정해 줌으로써, 왜곡 없는 정확한 수직 평면도를 얻을 수 있습니다.
-2. **Blueprint style (청사진 스타일):** 단순한 그림이 아닌, 전문적인 건축 설계 도면 특유의 정교한 선과 분위기를 연출하도록 유도하는 핵심 키워드입니다.
-3. **Isometric View (아이소메트릭 뷰):** 3D 공간의 X, Y, Z축을 동일한 비율로 표현하여, 공간감과 입체감을 극대화하는 마법의 키워드입니다.
+- **P: Posso usar essas imagens geradas para construir ou reformar a casa diretamente?**
+  - R: Não. Os designs gerados pela IA servem puramente como um "conceito visual". Para a construção real, é indispensável consultar um arquiteto ou engenheiro profissional que lidará com medidas exatas, cálculos estruturais, encanamento e rede elétrica. No entanto, como ponto de partida ou referência para o seu projeto, não há ferramenta melhor.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (손그림 의존)
-
-이면지에 삐뚤빼뚤 대충 그린 구조도. "여기가 안방이고... 여기가 화장실..." (가족 반응: "그래서 대체 어떤 느낌이라는 건데? 🏚️")
-
-### ✅ After (AI 도면 생성)
-
-가구 배치와 동선까지 완벽하게 고려된 하이엔드 3D 도면. (가족 반응: "우와, 여기 진짜 살고 싶다! 인테리어 당장 시작하자! 💰")
+- **P: O texto com os nomes dos cômodos na planta sai distorcido ou ilegível. O que eu faço?**
+  - R: Atualmente, os modelos de IA para geração de imagens ainda têm dificuldades em renderizar textos precisos. Se você precisa de rótulos (como "Living Room", "Kitchen") ou medidas específicas, a melhor abordagem é gerar uma planta limpa (sem texto) e, em seguida, adicionar a tipografia manualmente usando ferramentas como Photoshop ou Canva.
 
 ---
 
-## 🎯 결론
+## 🧬 Dissecando o Prompt (Why it works?)
 
-집을 짓고 인테리어를 완성하는 데는 많은 시간과 비용이 들지만, 내가 살고 싶은 완벽한 집을 꿈꾸고 시각화하는 것은 단 1분이면 충분합니다.
+1. **Top-down view (Visão de cima para baixo):** Ao especificar claramente o ângulo da câmera para a IA, garantimos uma planta vertical precisa e sem distorções de perspectiva.
+2. **Blueprint style (Estilo de projeto técnico):** Esta é a palavra-chave central que impede a IA de criar um "desenho comum" e a força a reproduzir as linhas refinadas e a estética profissional típica de uma planta arquitetônica real.
+3. **Isometric View (Visão Isométrica):** Uma palavra-chave mágica que representa os eixos X, Y e Z do espaço 3D em proporções iguais, maximizando a percepção de espaço e tridimensionalidade.
 
-당신의 머릿속에만 있던 꿈의 공간을 눈앞에 꺼내보세요. **꿈이 선명하게 그려질수록, 그곳에 사는 현실은 더 빨리 다가옵니다.** 🍷
+---
+
+## 📊 Comprovação: Antes e Depois
+
+### ❌ Antes (Dependendo de desenhos à mão)
+
+```text
+Um rascunho torto feito no verso de um papel qualquer. "Aqui é o quarto principal... e aqui é o banheiro..." 
+(Reação da família: "Tá, mas como isso vai ficar na vida real? 🏚️")
+```
+
+### ✅ Depois (Gerando a planta com IA)
+
+```text
+Uma planta 3D de alto padrão com layout de móveis e fluxo de movimento perfeitamente calculados. 
+(Reação da família: "Uau, eu realmente quero morar aqui! Vamos começar essa reforma agora! 💰")
+```
+
+---
+
+## 🎯 Conclusão
+
+Construir uma casa e finalizar a decoração exige muito tempo e dinheiro, mas sonhar e visualizar a casa perfeita onde você quer viver leva apenas um minuto.
+
+Tire aquele espaço dos sonhos que só existia na sua cabeça e coloque-o diante dos seus olhos. **Quanto mais nítido for o seu sonho, mais rápido essa realidade baterá à sua porta.** 🍷

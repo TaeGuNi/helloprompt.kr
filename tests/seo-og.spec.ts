@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("SEO & OG Image", () => {
   test("Homepage has JSON-LD Structured Data", async ({ page }) => {

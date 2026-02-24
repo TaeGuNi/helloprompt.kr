@@ -5,131 +5,131 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "친구도, 주사위도 필요 없다. AI가 진행하는 1인용 D&D(Dungeons & Dragons) 모험."
+description: "No friends or dice needed. A solo D&D (Dungeons & Dragons) adventure hosted entirely by AI."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 
-# 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
+# 🎲 TRPG Game Master: Explore Dungeons with Rolls of the Dice
 
-- **🎯 추천 대상:** 발더스 게이트 3의 자유도를 텍스트로 느끼고 싶은 게이머, 나만의 판타지 세계관을 구축하고 싶은 스토리텔러
-- **⏱️ 소요 시간:** 10분 준비 → 무한한 플레이
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (풍부한 세계관 묘사 및 룰 숙지 능력이 뛰어난 모델 추천)
+- **🎯 Target Audience:** Gamers who want to experience the absolute freedom of Baldur's Gate 3 through text, and storytellers looking to build their own fantasy universes.
+- **⏱️ Time Required:** 10 minutes setup → Infinite gameplay
+- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet (Models excelling at rich world-building and rule comprehension)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"오크 무리가 당신을 둘러쌌습니다. 검을 뽑으시겠습니까, 아니면 협상을 시도하시겠습니까?"_
+> _"A horde of goblins has surrounded you in the dark. Will you draw your sword, or attempt to negotiate?"_
 
-TRPG(Table-talk Role Playing Game)의 진정한 묘미는 플레이어의 **'선택'**과 주사위가 빚어내는 **'우연'**에 있습니다. 이제 복잡한 룰북을 외우거나, 시간을 맞춰 모일 파티원을 구할 필요가 없습니다. 생성형 AI를 **전속 게임 마스터(Game Master)**로 고용하세요. 생동감 넘치는 세계관 묘사, 매력적인 NPC와의 상호작용, 그리고 무자비한 주사위 판정까지. 텍스트만으로 엘더스크롤을 뛰어넘는 압도적인 자유도를 경험할 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI에게 명확한 **세계관과 TRPG 룰셋(예: D&D 5판) 마스터 역할**을 부여합니다.
-2. 플레이어의 **캐릭터 시트(직업, 종족, 스탯)**를 입력하여 초기 설정을 완료합니다.
-3. 상황에 맞는 행동을 자유롭게 선언하고, **주사위 판정**을 통해 모험을 전개합니다.
+The true thrill of a TRPG (Tabletop Role-Playing Game) lies in the **'choices'** made by the player and the **'chance'** dictated by the dice. Now, you no longer need to memorize complex rulebooks or coordinate schedules to gather a party of friends. Hire a generative AI as your **personal Game Master (GM)**. Experience vivid world-building, engaging NPC interactions, and ruthless dice rolls. Through text alone, you can unlock an overwhelming level of freedom that surpasses even the most expansive open-world games.
 
 ---
 
-## 🚀 해결책: "Dungeon Master Prompt"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형 텍스트 어드벤처)
+1. Assign the AI a clear role as a **Dungeon Master well-versed in your chosen TRPG ruleset (e.g., D&D 5e)** and the game's universe.
+2. Complete your initial setup by inputting your **character sheet (Class, Race, Stats)**.
+3. Freely declare your actions based on the situation, and let the **dice rolls** unfold your epic adventure.
 
-복잡한 룰 없이 가벼운 스토리텔링 위주의 모험을 원할 때 사용하세요.
+---
 
-> **역할:** 너는 판타지 텍스트 어드벤처 게임의 게임 마스터(GM)야.
-> **요청:** 중세 판타지 배경의 게임을 시작해 줘. 나는 1레벨 전사 캐릭터로 플레이할게. 고블린 소굴에 잠입하여 인질을 구출하는 시나리오로 진행해. 매 턴마다 상황을 구체적으로 묘사하고, 내가 선택할 수 있는 3가지 행동 옵션을 제시해 줘.
+## 🚀 Solution: The "Dungeon Master" Prompt
+
+### 🥉 Basic Version (Light Text Adventure)
+
+Use this when you want a casual, storytelling-focused adventure without complex mechanics.
+
+> **Role:** You are the Game Master (GM) of a fantasy text adventure game.
+> **Task:** Start a game set in a medieval fantasy world. I will play as a Level 1 Warrior. Run a scenario where I infiltrate a goblin lair to rescue hostages. Describe the situation in detail for every turn, and provide me with 3 action options to choose from.
 
 <br>
 
-### 🥇 Pro Version (D&D 5판 하드코어 룰 적용)
+### 🥇 Pro Version (Hardcore D&D 5e Ruleset)
 
-본격적인 스탯 계산과 주사위 판정이 포함된 정통 TRPG를 원할 때 사용하세요.
+Use this when you want an authentic, immersive TRPG experience, complete with stat calculations and strict dice checks.
 
-> **역할 (Role):** 너는 '던전 앤 드래곤(D&D) 5판' 규칙을 완벽히 숙지한 베테랑 게임 마스터(GM)야.
+> **Role:** You are a veteran Game Master (GM) who has fully mastered the rules of 'Dungeons & Dragons (D&D) 5th Edition'.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 잊혀진 렐름(Forgotten Realms) 세계관의 어두운 지하 던전.
-> - 목표: 잃어버린 고대 아티팩트 회수 및 무사 귀환.
+> - Setting: A dark underground dungeon in the Forgotten Realms universe.
+> - Objective: Retrieve a lost ancient artifact and return safely.
 >
-> **내 캐릭터 정보:**
+> **My Character Info:**
 >
-> - 이름: 아라곤
-> - 종족/직업: 인간 / 레인저 (무기: 양손검)
-> - 능력치: 힘 16, 민첩 14, 체력 15, 지능 10, 지혜 12, 매력 8
+> - Name: Aragon
+> - Race/Class: Human / Ranger (Weapon: Greatsword)
+> - Stats: STR 16, DEX 14, CON 15, INT 10, WIS 12, CHA 8
 >
-> **요청 (Task):**
-> 지금부터 이 캠페인을 시작해 줘.
+> **Task:**
+> Start the campaign right now based on the following instructions:
 >
-> 1. **상황 묘사:** 현재 위치, 시각적 요소, 들리는 소리, 심지어 공기의 냄새까지 텍스트로 생생하게 묘사해 줘.
-> 2. **판정 시스템:** 내가 특정 행동(공격, 설득, 함정 해제 등)을 선언할 때마다, D&D 5e 규칙에 기반하여 나에게 **20면체 주사위(d20)** 굴림을 요구해. (네가 임의로 결과를 정하지 말고, 내가 주사위 값을 입력할 때까지 기다려.)
-> 3. **결과 처리:** 내가 굴린 주사위 값에 캐릭터 보정치를 계산하여 명중 여부와 데미지, 또는 행동의 성공/실패 여부를 драматиically(극적으로) 알려줘.
-> 4. **자유도 보장:** 정해진 선택지 외에도 내가 상상하는 모든 창의적인 행동("천장 샹들리에에 매달려서 적을 덮친다")을 허용하고 룰에 맞게 판정해 줘.
+> 1. **Scene Description:** Vividly describe my current location, visual elements, sounds, and even the smell of the air in text.
+> 2. **Check System:** Whenever I declare a specific action (attack, persuade, disarm trap, etc.), demand a **20-sided die (d20)** roll from me based on D&D 5e rules. (Do not arbitrarily decide the outcome yourself; wait until I input the dice value.)
+> 3. **Result Processing:** Calculate my character's modifiers against the dice value I rolled, and dramatically narrate whether it's a hit, the damage dealt, or the success/failure of my action.
+> 4. **Ensure Freedom:** Beyond standard options, allow any creative action I imagine ("I swing from the chandelier to ambush the enemy") and adjudicate it fairly according to the rules.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 출력 형식은 대화형으로 하되, NPC의 대사와 시스템 메시지(HP 변화, 획득 아이템 등)를 마크다운 리스트로 명확히 구분해 줘.
+> - Output in an interactive dialogue format, but clearly separate NPC dialogues and system messages (HP changes, acquired items, etc.) using Markdown lists.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 플레이어 캐릭터를 네가 임의로 조종하지 마. 오직 환경과 NPC만 조종해.
+> - Do not control my player character under any circumstances. You only control the environment and the NPCs.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 진정한 잠재력은 **이미지 생성 AI(DALL-E 3, Midjourney 등)와의 연동**에 있습니다. 게임을 진행하다가 "지금 마주친 보스 몬스터의 외형과 현재 전투 중인 방의 풍경을 이미지로 생성해 줘"라고 지시해 보세요. 텍스트로만 상상하던 압도적인 공포와 판타지 세계가 눈앞에 시각화되면서 몰입감이 폭발적으로 상승합니다. 또한, ChatGPT의 음성 대화 기능(Voice Mode)을 활용하면 실제 GM과 대화하듯 플레이할 수 있어 타의 추종을 불허하는 현실감을 경험할 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 주사위는 실제로 어떻게 굴리나요? 집에 주사위가 없는데요.**
-  - A: 구글 검색창에 "roll d20"을 입력하면 디지털 주사위를 굴릴 수 있습니다. 그 결과를 AI에게 "15가 나왔어"라고 텍스트로 입력하면 됩니다. (단, 몰입을 위해 AI에게 거짓말을 하지는 마세요!)
-
-- **Q: 꼭 서양 중세 판타지만 가능한가요? 배경을 바꿀 수도 있나요?**
-  - A: 프롬프트의 배경(Context) 설정만 바꾸면 무한한 확장이 가능합니다. "조선시대 배경, 귀신을 쫓는 착호갑사 시나리오", "2077년 사이버펑크 디스토피아 기업 스파이" 등 원하는 모든 세계관을 텍스트로 구현할 수 있습니다.
-
-- **Q: 대화 내역이 너무 길어지면 AI가 이전 상황을 잊어버리지 않나요?**
-  - A: 맞습니다. 컨텍스트 윈도우 한계로 인해 긴 세션에서는 초기 설정을 잊을 수 있습니다. 게임 중간중간 "현재 내 캐릭터의 HP, 소지품, 진행 중인 퀘스트 요약을 표로 보여줘"라고 요청하여 메모리를 새로고침(Refresh) 해주는 것이 좋습니다.
+The true potential of this prompt lies in its **integration with image generation AIs (like DALL-E 3 or Midjourney)**. As you play, try commanding: "Generate an image of the boss monster I just encountered and the room we are fighting in." The overwhelming terror and the fantasy world you could only imagine via text will suddenly materialize before your eyes, explosively elevating your immersion. Furthermore, by utilizing ChatGPT's Voice Mode, you can play as if you're talking to a real GM across the table, experiencing an unparalleled sense of reality.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **룰셋의 명확한 지정 (D&D 5e):** 단순히 "게임을 해보자"가 아니라 특정 TRPG 룰을 지정함으로써, AI가 HP, AC(방어도), 주문 슬롯과 같은 게임 시스템의 밸런스를 스스로 붕괴시키지 않도록 강력한 기준점을 제공합니다.
-2. **권한의 분리 (판정 요구):** AI가 결과를 독단적으로 결정하게 두면 이는 게임이 아닌 '인터랙티브 소설'로 전락합니다. "결과를 플레이어의 주사위 굴림으로 결정한다"는 지침이 이 프롬프트를 진정한 '게임'으로 만들어주는 핵심 상호작용(Interaction) 설계입니다.
+- **Q: How do I actually roll the dice if I don't own any physical ones?**
+  - A: Simply type "roll d20" into Google to use a digital die. Then, type the result to the AI, like "I rolled a 15." (Just don't lie to the AI; it ruins the fun and immersion!)
+
+- **Q: Does it have to be Western medieval fantasy? Can I change the setting?**
+  - A: You have infinite possibilities just by tweaking the 'Context' in the prompt. You can create a "Cyberpunk dystopia corporate spy scenario in 2077" or a "Space exploration mission on an alien planet" entirely through text.
+
+- **Q: Won't the AI forget past events if the conversation gets too long?**
+  - A: Yes, that is correct. Due to context window limits, the AI might forget early setups in long sessions. It is highly recommended to periodically "refresh" its memory by asking: "Show me a table summarizing my character's current HP, inventory, and active quests."
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works)
 
-### ❌ Before (선형적이고 지루한 전개)
+1. **Clear Specification of the Ruleset (D&D 5e):** By explicitly stating a specific TRPG rule system instead of a vague "let's play a game," you provide a strong baseline that prevents the AI from breaking the game's balance regarding HP, AC (Armor Class), and spell slots.
+2. **Separation of Authority (Demanding Checks):** If you let the AI unilaterally decide the outcomes, it devolves from a 'game' into a predictable 'interactive novel'. The instruction to "wait for the player's dice rolls to determine outcomes" is the core interactive design that transforms this prompt into a genuine, unpredictable game.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Linear and Boring Progression)
 
 ```text
-나: 고블린을 공격할게.
-AI: 당신의 공격이 성공했습니다. 고블린이 쓰러졌습니다. 방 안에는 상자가 하나 있습니다. 어떻게 하시겠습니까?
-(결과가 너무 뻔하게 결정되어 긴장감이 전혀 없음)
+Me: I'll attack the goblin.
+AI: Your attack is successful. The goblin falls. There is a chest in the room. What will you do next?
+(The outcome is dictated instantly, leaving absolutely no tension or sense of risk)
 ```
 
-### ✅ After (룰 기반의 다이나믹한 전개)
+### ✅ After (Dynamic, Rule-Based Progression)
 
 ```text
-나: 고블린을 향해 양손검을 강하게 휘두릅니다!
-AI: 아라곤의 맹렬한 공격입니다! 먼저 공격의 정확도를 확인하기 위해 1d20(20면체 주사위)을 굴리고, 근력 보정치(+3)를 더한 값을 알려주세요.
-나: 주사위에서 2가 나왔어... 총합 5.
-AI: 아아, 아라곤이 크게 휘두른 검은 둔탁한 소리와 함께 던전의 돌벽을 강타하고 맙니다! 고블린은 당신의 빈틈을 놓치지 않고 날카로운 단검으로 반격합니다. (고블린의 공격 주사위 굴림 중...)
+Me: I swing my greatsword hard at the goblin!
+AI: A fierce attack by Aragon! First, to determine the accuracy of your strike, please roll 1d20 (a 20-sided die) and give me the result plus your Strength modifier (+3).
+Me: The die rolled a 2... total is 5.
+AI: Ah, Aragon's wide swing strikes the dungeon's stone wall with a dull thud! The goblin seizes your moment of vulnerability and counterattacks with its sharp dagger. (Rolling the goblin's attack die...)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-수십만 원짜리 최신 그래픽 카드도, 고해상도 모니터도 필요 없습니다.
-규칙을 이해하는 든든한 AI와 당신의 **창의적인 상상력**만 있다면 그곳이 곧 최고의 그래픽을 자랑하는 판타지 세계입니다.
+You don't need a thousand-dollar graphics card or a high-resolution monitor. 
+With a reliable AI that understands the rules and your **creative imagination**, wherever you are instantly becomes a living, breathing fantasy world.
 
-자, 주사위를 손에 쥐세요.
-**당신만의 위대한 모험이 지금 시작됩니다.** 🍷
+Now, grab your dice.
+**Your epic adventure begins now.** 🍷

@@ -1,5 +1,5 @@
-import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import type { APIRoute } from "astro";
 import { getLangStaticPaths } from "../../i18n/languages";
 
 export const getStaticPaths = getLangStaticPaths;

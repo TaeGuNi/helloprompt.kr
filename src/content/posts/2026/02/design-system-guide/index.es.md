@@ -5,109 +5,109 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/UX"
-description: "Figma 변수와 CSS 변수를 동기화하는 방법. 토큰(Token) 기반 디자인 시스템 구축 가이드."
+description: "Cómo sincronizar las variables de Figma con las de CSS. Guía experta para construir un sistema de diseño basado en Design Tokens y evitar conflictos."
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 ---
 
-# 🎨 디자인 시스템 구축: 디자이너와 개발자가 안 싸우는 법
+# 🎨 Construcción de un Sistema de Diseño: Cómo evitar que Diseñadores y Desarrolladores se peleen
 
-- **🎯 추천 대상:** "버튼 색깔이 시안이랑 달라요"라며 피드백받는 개발자, "개발자가 내 디자인을 망쳤어"라며 좌절하는 디자이너
-- **⏱️ 소요 시간:** 10분 → 1분 단축 (초기 토큰 설계 및 코드 자동 변환)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (아키텍처 설계 및 코드 생성)
+- **🎯 Público objetivo:** Desarrolladores que reciben comentarios como "el color del botón no coincide con el diseño", diseñadores frustrados pensando "el desarrollador arruinó mi diseño".
+- **⏱️ Tiempo estimado:** 10 minutos → Reducido a 1 minuto (Diseño inicial de tokens y conversión automática de código)
+- **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (Diseño de arquitectura y generación de código)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Primary Color가 `#0055FF` 아니었나요? 왜 여기 반영된 건 `#0050FF`죠?"_
+> _"¿No era el Primary Color `#0055FF`? ¿Por qué aquí en producción dice `#0050FF`?"_
 
-코드 베이스 곳곳에 흩어진 하드코딩된 색상과 여백 값은 유지보수를 지옥으로 만드는 주범입니다. **디자인 토큰(Design Token)**을 도입하세요. 색상, 폰트, 여백, 그림자 등 모든 시각적 요소를 의미 있는 변수로 정의하고 공유하는 가장 확실한 약속입니다. 토큰 기반의 시스템이 구축되면, 디자이너가 Figma에서 값을 수정하는 순간 개발자의 코드도 자동으로 동기화되는 마법을 경험할 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **디자인 토큰화:** 절대적인 헥스(Hex) 값인 `#0055FF` 대신, 의미를 담은 `primary-500`이라는 공통의 언어를 사용합니다.
-2. **Figma Variables 적용:** Figma의 Variables 및 Styles 기능을 활용하여 시각적 속성을 체계적인 토큰으로 정의합니다.
-3. **코드 동기화:** 추출된 토큰 데이터를 바탕으로 `tailwind.config.ts` 또는 글로벌 CSS 변수로 자동 변환하여 프로젝트 코드에 적용합니다.
+Los colores y márgenes codificados (hardcoded) que están dispersos por toda la base de código son los principales culpables de convertir el mantenimiento en un verdadero infierno. Es hora de implementar **Design Tokens (Tokens de Diseño)**. Definir todos los elementos visuales —como colores, tipografías, márgenes y sombras— en variables semánticas compartidas es la garantía más sólida para alinear a tu equipo. Una vez que se establece un ecosistema basado en tokens, experimentarás la magia de que el código del desarrollador se sincronice automáticamente en el instante en que el diseñador modifica un valor en Figma.
 
 ---
 
-## 🚀 해결책: "Design Token Generator Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Tokenización del diseño:** En lugar de usar valores Hexadecimales absolutos como `#0055FF`, utilizamos un lenguaje común y semántico como `primary-500`.
+2. **Aplicación de variables en Figma:** Aprovechamos las funciones de Variables y Styles de Figma para definir las propiedades visuales como tokens bien estructurados.
+3. **Sincronización de código:** Basándonos en los datos extraídos, los convertimos automáticamente en `tailwind.config.ts` o variables CSS globales para aplicarlos al proyecto frontend.
 
-초기 컬러 팔레트를 구성하고 변수명을 어떻게 지을지 막막할 때 활용하는 프롬프트입니다.
+---
 
-> **요청 (Task):**
-> 나는 지금 새로운 프로덕트의 디자인 시스템 컬러 팔레트를 기획하고 있어.
-> `[Primary(파랑)]`, `[Secondary(회색)]`, `[Error(빨강)]` 색상을 각각 100부터 900까지 9단계로 나누고 싶어.
-> 이 색상들을 코드에 바로 적용할 수 있도록, 직관적이고 시멘틱(Semantic)한 이름(예: `text-primary`, `bg-surface-default`)과 함께 각 단계별 헥스(Hex) 코드를 표로 정리해서 추천해 줘.
+## 🚀 Solución: "Prompt Generador de Design Tokens"
+
+### 🥉 Versión Básica (Basic Version)
+
+Utiliza este prompt cuando necesites estructurar la paleta de colores inicial y no sepas por dónde empezar para nombrar las variables.
+
+> **Tarea (Task):**
+> Estoy planificando la paleta de colores del sistema de diseño para un nuevo producto.
+> Quiero dividir los colores `[Primary (Azul)]`, `[Secondary (Gris)]` y `[Error (Rojo)]` en 9 niveles cada uno, desde el 100 hasta el 900.
+> Recomiéndame en una tabla los códigos Hex para cada nivel, acompañados de nombres semánticos e intuitivos (por ejemplo, `text-primary`, `bg-surface-default`) para que pueda aplicarlos directamente a nuestro código.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-Figma에서 추출한 토큰 JSON 데이터를 실제 프론트엔드 환경에 맞게 완벽한 코드로 변환할 때 사용합니다.
+Úsalo para convertir los datos JSON de los tokens extraídos de Figma en un código perfecto, escalable y listo para tu entorno de desarrollo.
 
-> **역할 (Role):** 너는 10년 차 시니어 디자인 옵스(Design Ops) 엔지니어이자 프론트엔드 아키텍트야.
+> **Rol (Role):** Eres un Ingeniero de Design Ops Senior con 10 años de experiencia y un Arquitecto Frontend experto.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 디자이너가 Figma에서 디자인 토큰을 정의하고 JSON 형태로 추출했어.
-> - 목표: 이 JSON 데이터를 프론트엔드 프로젝트에 즉시 적용 가능한 코드로 완벽하게 변환해야 해.
+> - Antecedentes: Un diseñador ha definido los Design Tokens en Figma y los ha extraído en formato JSON.
+> - Objetivo: Debes transformar este JSON en un código perfectamente aplicable de inmediato en nuestro proyecto frontend.
 >
-> **입력 데이터:**
+> **Datos de Entrada:**
 >
-> `[여기에 Figma에서 추출한 토큰 JSON 데이터를 붙여넣으세요]`
+> `[Pega aquí el JSON de los tokens extraídos de Figma]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 입력 데이터를 분석하여 최신 **Tailwind CSS 설정 파일(`tailwind.config.ts`)** 형식으로 변환해.
-> 2. 특정 CSS 프레임워크에 종속되지 않도록 **CSS Variables(`:root { --color-blue-500: ... }`)** 코드도 함께 작성해.
-> 3. 시스템 테마에 맞춰 변경될 수 있도록, 다크 모드(`@media (prefers-color-scheme: dark)` 또는 `.dark` 클래스) 대응 전략과 예시 코드를 추가해.
+> 1. Analiza los datos de entrada y conviértelos al formato del archivo de configuración de **Tailwind CSS (`tailwind.config.ts`)** más reciente.
+> 2. Para no depender exclusivamente de un framework CSS, escribe también el código equivalente en **Variables CSS nativas (`:root { --color-blue-500: ... }`)**.
+> 3. Añade una estrategia y código de ejemplo para soportar el modo oscuro (`@media (prefers-color-scheme: dark)` o mediante la clase `.dark`), asegurando que se adapte automáticamente al tema del sistema del usuario.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운 코드블럭(`ts`, `css`)으로만 제공해.
-> - 모든 변수명은 케밥 케이스(kebab-case)를 엄격하게 유지해.
+> - Proporciona el resultado **únicamente** en bloques de código Markdown (`ts`, `css`).
+> - Mantén estrictamente el formato kebab-case para todos los nombres de las variables.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 제공된 JSON 구조 외에 임의의 색상 값이나 단계를 지어내지 마. (환각 방지)
+> - No inventes valores de colores ni niveles arbitrarios que estén fuera de la estructura JSON proporcionada. (Prevención estricta de alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-디자인 시스템 구축은 거대한 마스터플랜을 세우고 한 번에 완성하는 것이 아닙니다. 처음부터 모든 컴포넌트와 타이포그래피를 완벽하게 토큰화하려고 하면 높은 확률로 지쳐서 포기하게 됩니다.
-**'가장 많이, 반복적으로 쓰이는 요소(예: Primary Button의 배경색, 본문 텍스트 색상)'**부터 하나씩 변수로 치환해 나가는 **점진적 채택(Incremental Adoption)** 전략을 강력히 권장합니다.
-작은 토큰 하나가 디자이너와 개발자 사이의 불필요한 커뮤니케이션 비용을 극적으로 줄여주는 첫 단추가 될 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Figma에서 토큰을 추출하려면 어떤 플러그인을 써야 하나요?**
-  - A: 실무에서는 **'Tokens Studio for Figma'**가 사실상 표준(De facto)으로 쓰입니다. 이를 통해 JSON을 추출하고 GitHub 리포지토리와 직접 동기화(Sync)할 수 있습니다. 최근에는 Figma 네이티브 Variables 기능도 강력해져서 REST API를 통한 연동도 많이 사용되는 추세입니다.
-
-- **Q: 2~3명 규모의 작은 스타트업인데도 디자인 시스템이 필요한가요?**
-  - A: 팀원이 2명 이상이거나, 프로젝트 유지보수 기간이 3개월을 넘어간다면 무조건 도입해야 합니다. "나중에 시간 날 때 정리하자"는 기술 부채는 결국 프로젝트 속도를 현저히 늦추는 폭탄으로 돌아옵니다. 미래의 나(Future Self)도 결국엔 타인입니다.
+Construir un sistema de diseño no significa trazar un plan maestro gigantesco y terminarlo de una sola vez. Si intentas tokenizar a la perfección todos los componentes y la tipografía desde el primer día, es muy probable que te agotes, el equipo pierda el impulso y abandonen la iniciativa.
+Recomiendo encarecidamente una estrategia de **Adopción Incremental (Incremental Adoption)**: comienza reemplazando con variables los elementos **"más utilizados y repetitivos"** (por ejemplo, el color de fondo del Botón Primario o el color principal del texto del cuerpo).
+Ese pequeño primer token será el paso fundamental que reducirá drásticamente los costos de comunicación y los roces innecesarios entre diseñadores y desarrolladores.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **시멘틱 네이밍 강제:** "밝은 파란색" 대신 "주요 버튼 배경색(`bg-primary-default`)"이라는 의미 기반의 네이밍을 유도합니다. 이렇게 하면 나중에 브랜드 컬러가 파란색에서 보라색으로 전면 수정되더라도, 헥스(Hex) 값 하나만 변경하면 프로젝트 전체에 즉시 반영됩니다.
-2. **반복적인 포맷 변환 위임:** JSON 포맷을 Tailwind 설정 객체나 CSS 변수 문법으로 일일이 타이핑하여 옮기는 것은 인간에게 매우 고역입니다. AI는 이러한 패턴 기반의 단순 코드 변환과 구조화 작업에 있어 압도적인 정확도와 속도를 자랑하며, 휴먼 에러(Human Error)를 원천 차단합니다.
+- **P: ¿Qué plugin de Figma debo usar para extraer y exportar tokens?**
+  - R: En la industria actual, **'Tokens Studio for Figma'** se utiliza como el estándar de facto. Permite extraer el JSON y sincronizarlo directamente con tu repositorio de GitHub mediante PRs. Recientemente, la función nativa de Variables de Figma ha madurado muchísimo, por lo que la integración directa a través de su API REST también es una tendencia al alza.
+
+- **P: Somos una startup muy pequeña de 2 o 3 personas, ¿realmente necesitamos invertir tiempo en un sistema de diseño?**
+  - R: Si el equipo tiene 2 o más personas construyendo la UI, o si el mantenimiento del proyecto se extenderá por más de 3 meses, es absolutamente necesario. La deuda técnica de "lo ordenamos luego cuando tengamos tiempo" terminará convirtiéndose en una bomba de tiempo que paralizará la velocidad del proyecto. Recuerda que tu "yo del futuro" también es, a efectos prácticos, otro desarrollador al que le estás dejando el problema.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (입력)
+1. **Obligación de nomenclatura semántica:** Fomenta el uso de nombres basados en el contexto y significado, como "color de fondo del botón principal (`bg-primary-default`)", en lugar de descripciones visuales literales como "azul claro". De esta manera, si el branding cambia de azul a morado en el futuro, solo necesitarás actualizar un valor Hex base para que se refleje instantáneamente en todo el producto.
+2. **Delegación de la conversión repetitiva de formatos:** Escribir y formatear manualmente un JSON inmenso para pasarlo a un objeto de Tailwind o a la sintaxis de variables CSS es una tortura para cualquier humano. La IA brilla con luz propia en este tipo de transformación de código estructurado, ofreciendo una velocidad y precisión implacables que eliminan por completo el error humano (Human Error).
 
-디자인이 변경될 때마다 100개가 넘는 파일에서 헥스 코드를 하나하나 검색하고 교체해야 합니다. 😱
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Entrada)
+
+Cada vez que cambia el diseño, el equipo tiene que buscar y reemplazar los códigos Hexadecimales uno por uno en más de 100 archivos diferentes. Un proceso propenso a errores y omisiones. 😱
 
 ```css
 .button-primary {
@@ -119,9 +119,9 @@ Figma에서 추출한 토큰 JSON 데이터를 실제 프론트엔드 환경에 
 }
 ```
 
-### ✅ After (결과)
+### ✅ Después (Resultado)
 
-변수 값 단 하나만 수정하면 전체 프로덕트의 UI가 완벽하게 업데이트됩니다. 🚀
+Modificas un único valor central y la interfaz de usuario de todo el ecosistema de la aplicación se actualiza con una consistencia perfecta. 🚀
 
 ```css
 :root {
@@ -136,9 +136,9 @@ Figma에서 추출한 토큰 JSON 데이터를 실제 프론트엔드 환경에 
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-디자인과 개발 사이의 통역사는 감정적인 '사람'이 아니라, 명확한 규칙을 가진 **'시스템'**이어야 합니다.
-더 이상 픽셀과 색상 값으로 다투지 마세요. 토큰이라는 공통의 언어로 대화하시길 바랍니다.
+El traductor ideal entre diseño y desarrollo no debe ser una 'persona' mediando emociones y malentendidos, sino un **'sistema'** robusto con reglas claras.
+No discutan más por píxeles sueltos y valores de color. Empiecen a comunicarse usando el idioma común e inequívoco de los tokens.
 
-**"개발자님, 이건 `gray-200`이 아니라 `surface-subtle`입니다. 토큰 확인 부탁드려요."** 🍷
+**"Estimado desarrollador, el fondo de esta tarjeta no es `gray-200`, es `surface-subtle`. Por favor, revisa los tokens actualizados."** 🍷

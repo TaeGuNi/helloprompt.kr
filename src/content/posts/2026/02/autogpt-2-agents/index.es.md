@@ -4,123 +4,123 @@ date: 2026-02-14
 tags: [agents, autogpt, automation]
 ---
 
-# 📝 AutoGPT 2.0: 에이전트 스웜(Agent Swarms)의 부상
+# 📝 AutoGPT 2.0: El Ascenso de los Enjambres de Agentes (Agent Swarms)
 
-- **🎯 추천 대상:** AI 엔지니어, 자동화 기획자, 테크 리더
-- **⏱️ 소요 시간:** 10분
-- **🤖 추천 모델:** AutoGPT 2.0, CrewAI, LangGraph 환경
+- **🎯 Público Objetivo:** Ingenieros de IA, Especialistas en Automatización, Líderes Tecnológicos
+- **⏱️ Tiempo Estimado:** 10 minutos
+- **🤖 Modelos Recomendados:** Entornos AutoGPT 2.0, CrewAI, LangGraph
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐⭐☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"혼자 일하는 슈퍼 AI를 기대하는 시대는 끝났습니다. 이제는 작고 똑똑한 AI들이 완벽한 팀워크를 이루는 '스웜(Swarm)'의 시대입니다."_
+> *"La era de esperar que una súper IA solitaria haga todo ha terminado. Bienvenidos a la era de los 'Enjambres' (Swarms), donde IAs pequeñas y especializadas trabajan con una sincronización perfecta."*
 
-AutoGPT 2.0은 단일 에이전트의 한계를 넘어, 여러 에이전트가 협력하는 '스웜(Swarm)' 아키텍처를 도입했습니다. 과거 하나의 AI 비서에게 모든 짐을 지웠을 때 발생하던 맥락 이탈, 환각, 그리고 무한 루프의 늪에서 벗어나, 이제는 복잡한 작업을 빠르고 안정적으로 수행할 수 있게 되었습니다.
+AutoGPT 2.0 ha superado las limitaciones de un agente individual al introducir la arquitectura de 'Enjambre' (Swarm), donde múltiples agentes colaboran entre sí. Al delegar toda la carga a un solo asistente de IA, a menudo nos enfrentábamos a pérdidas de contexto, alucinaciones y bucles infinitos. Ahora, podemos ejecutar tareas inmensamente complejas de forma rápida, estable y autónoma.
 
-당신의 프로젝트를 완벽하게 자동화해 줄 'AI 어벤져스'를 구축하는 방법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **분업의 마법:** 단일 AI의 한계를 극복한 다중 에이전트 협업 시스템(Swarm)의 등장.
-2. **병렬 처리 능력:** 복잡하고 거대한 태스크를 여러 에이전트가 쪼개어 동시에 안정적으로 처리.
-3. **자가 치유 (Self-Healing):** 결과물에 오류가 발생하면 검수 에이전트가 이를 짚어내어 스스로 수정하는 견고한 구조.
+Descubre cómo construir a tus propios 'Avengers de la IA' para automatizar tu proyecto de principio a fin sin fallos.
 
 ---
 
-## 🚀 해결책: "다중 에이전트 스웜 아키텍처 설계 프롬프트"
+## ⚡️ Resumen en 3 Líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **La Magia de la División del Trabajo:** Surge el sistema de colaboración multi-agente (Swarm) para superar los límites de una IA solitaria.
+2. **Capacidad de Procesamiento Paralelo:** Tareas masivas y complejas se dividen y son ejecutadas simultáneamente por varios agentes de forma estable.
+3. **Auto-Sanación (Self-Healing):** Una estructura robusta donde agentes revisores detectan errores y exigen correcciones de forma autónoma.
 
-빠르게 기본적인 에이전트 팀 구조의 초안을 잡을 때 사용하세요.
+---
 
-> **역할:** 너는 `[AutoGPT 2.0 스웜 마스터]`야.
-> **요청:** `[복잡한 리서치 작업]`을 완벽하게 수행하기 위해 필요한 3명의 에이전트 역할과 업무 흐름을 제안해 줘.
+## 🚀 Solución: "Prompt de Diseño de Arquitectura Multi-Agente (Swarm)"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsalo para esbozar rápidamente la estructura de un equipo básico de agentes.
+
+> **Rol:** Eres un `[Maestro de Enjambres AutoGPT 2.0]`.
+> **Tarea:** Para ejecutar perfectamente la `[tarea compleja de investigación]`, propón los roles de 3 agentes necesarios y su flujo de trabajo colaborativo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-디테일한 역할 분담과 완벽한 파이프라인 상호 작용이 필요할 때 사용하세요.
+Úsalo cuando necesites una división de roles meticulosa y una interacción perfecta en el pipeline.
 
-> **역할 (Role):** 너는 `[최고의 AI 자동화 시스템 아키텍트]`야.
+> **Rol (Role):** Eres el `[Mejor Arquitecto de Sistemas de Automatización con IA]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: `[대규모 글로벌 시장 동향 데이터 수집 및 심층 분석 프로젝트 진행 중]`
-> - 목표: `[사람의 개입 없이 에러를 스스로 수정하며 24시간 자율 동작하는 스웜 네트워크 구축]`
+> - Antecedentes: `[Proyecto en curso para la recopilación de datos de tendencias del mercado global a gran escala y análisis profundo]`
+> - Objetivo: `[Construir una red de enjambre (Swarm) que opere de forma autónoma 24/7, corrigiendo sus propios errores sin intervención humana]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 스웜 내에 필수적인 3개의 에이전트 페르소나(데이터 수집가, 데이터 분석가, 품질 검수자)를 명확히 정의해.
-> 2. `[작업의 종류]`에 따라 각 에이전트가 어떤 순서로 데이터를 주고받을지 파이프라인(Workflow)을 단계별로 설계해.
-> 3. 에이전트 간의 통신 시 발생할 수 있는 교착 상태(Deadlock)를 방지하는 로직을 구체적으로 추가해.
+> 1. Define claramente 3 perfiles esenciales de agentes dentro del enjambre (Recolector de Datos, Analista de Datos y Auditor de Calidad).
+> 2. Diseña un flujo de trabajo (Workflow) paso a paso detallando en qué orden los agentes intercambiarán datos según el `[tipo de tarea]`.
+> 3. Añade una lógica específica para prevenir bloqueos mutuos (Deadlocks) que puedan surgir durante la comunicación entre los agentes.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 결과물은 마크다운 형태의 명확한 리스트와 코드블럭(JSON 형식의 에이전트 프롬프트 설정값)으로 출력해 줘.
-> - 품질 검수자 에이전트는 분석가의 결과물이 논리적 기준 미달일 경우, 구체적인 피드백과 함께 재작업을 요청하는 루프(Feedback Loop)를 반드시 포함해야 해.
+> - El resultado debe entregarse como una lista clara en formato Markdown y bloques de código (configuraciones de los prompts de los agentes en formato JSON).
+> - El agente Auditor de Calidad DEBE incluir un ciclo de retroalimentación (Feedback Loop) para solicitar un reprocesamiento con comentarios específicos si el resultado del analista no cumple con los criterios lógicos.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 에이전트들이 서로 대화하다 무한 루프에 빠지지 않도록 최대 실행 횟수(Max Iterations) 제약 조건을 명시해. (비용 폭탄 및 리소스 낭비 방지)
+> - Para evitar que los agentes entren en un bucle infinito conversando entre sí, especifica estrictamente un límite máximo de iteraciones (Max Iterations). (Evita el consumo excesivo de tokens y pérdida de recursos)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-단일 에이전트에게 "시장 조사를 하고 보고서를 써줘"라고 명령하면 십중팔구 중간에 맥락을 잃거나 환각(Hallucination)에 빠집니다. 하지만 스웜 아키텍처를 활용하여 '조사원', '분석가', '편집장'으로 역할을 쪼개면 놀라울 정도로 안정적이고 날카로운 결과물을 얻을 수 있습니다.
+Si le pides a un solo agente: "Haz una investigación de mercado y escribe un informe", nueve de cada diez veces perderá el contexto a mitad de camino o sufrirá alucinaciones (Hallucinations). Sin embargo, al utilizar la arquitectura de enjambre para dividir los roles en 'Investigador', 'Analista' y 'Editor Jefe', obtendrás resultados sorprendentemente precisos y estables.
 
-현업에서 가장 중요한 팁은 **'품질 검수자(편집장)' 에이전트를 가장 깐깐하게 세팅하는 것**입니다. 컨텍스트를 제한하고 역할을 뾰족하게 깎아주는 것이 스웜 기반 자동화의 핵심 성공 요인입니다. 비용 최적화를 위해 각 에이전트의 대화가 길어질 경우를 대비한 무한 루프 방지 장치는 선택이 아닌 필수입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 에이전트들이 서로 무한 루프에 빠지며 빙빙 돌기만 하면 어떡하나요?**
-  - A: 아주 흔한 현상입니다. Pro 프롬프트의 주의사항처럼 최대 반복 횟수(Max Iterations)를 엄격하게 설정하거나, '최종 매니저(Manager)' 에이전트를 두어 특정 조건(예: 3번 이상 피드백이 오간 경우)에서 강제로 대화를 종료시키고 결론을 도출하도록 설계해야 합니다.
-
-- **Q: 출력된 프롬프트 결과가 기대와 다릅니다. 어떻게 수정하나요?**
-  - A: 에이전트 간에 주고받는 데이터의 '포맷'이 통일되지 않았을 확률이 높습니다. 요구사항(Task) 부분에 "에이전트 간 통신은 반드시 JSON 형식으로 해"라고 구체적으로 명시하면 오류가 크게 줄어듭니다.
-
-- **Q: 이 논리 구조를 다른 다중 에이전트 프레임워크(CrewAI 등)에 써도 되나요?**
-  - A: 네, 완벽히 작동합니다. AutoGPT 2.0뿐만 아니라 CrewAI, LangGraph 등 대부분의 최신 프레임워크에서 코어 로직으로 활용되도록 설계된 범용 아키텍처 프롬프트입니다.
+El consejo más valioso en la práctica es **configurar al agente 'Auditor de Calidad (Editor Jefe)' de la manera más estricta posible**. Limitar el contexto y afinar drásticamente sus responsabilidades es el factor clave de éxito en la automatización basada en enjambres. Para optimizar los costos y evitar conversaciones interminables entre agentes, implementar un mecanismo de prevención de bucles infinitos no es una opción, es una obligación absoluta.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **세분화된 페르소나 (Specialized Personas):** 혼자 다 하는 제너럴리스트가 아닌, 특정 업무에 깊게 특화된 스페셜리스트 페르소나를 부여하여 각 파이프라인 단계의 정보 처리 전문성을 극대화했습니다.
-2.  **안전망 장착 (Feedback & Constraints):** 검수자가 에러를 발견하면 스스로 고치도록 설계하여 사람의 개입(Human-in-the-loop)을 최소화했고, 무한 루프 방지 제약을 통해 과도한 API 토큰 소모를 원천 차단했습니다.
+- **Q: ¿Qué pasa si los agentes se atascan en un bucle infinito debatiendo entre ellos?**
+  - A: Es un problema muy común. Debes establecer estrictamente el número máximo de iteraciones (Max Iterations), tal como se indica en la advertencia del Prompt Pro. Alternativamente, diseña un agente 'Manager Final' que fuerce la finalización de la conversación y tome una decisión bajo ciertas condiciones (ej. si ha habido más de 3 intercambios de feedback).
+
+- **Q: El prompt generado no coincide con mis expectativas. ¿Cómo lo soluciono?**
+  - A: Lo más probable es que el 'formato' de los datos intercambiados entre agentes no esté estandarizado. Si especificas en la sección de Tareas (Task): "La comunicación entre agentes debe ser estrictamente en formato JSON", los errores se reducirán drásticamente.
+
+- **Q: ¿Puedo usar esta estructura lógica en otros frameworks multi-agente (como CrewAI)?**
+  - A: Sí, funcionará a la perfección. Este prompt arquitectónico universal está diseñado para ser la lógica central no solo en AutoGPT 2.0, sino también en la mayoría de los frameworks modernos como CrewAI y LangGraph.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (Why it works?)
 
-### ❌ Before (단일 에이전트의 한계)
+1.  **Personas Especializadas (Specialized Personas):** En lugar de un generalista que intenta hacer todo, asignamos perfiles de especialistas profundamente enfocados en tareas específicas. Esto maximiza la experiencia en el procesamiento de información en cada etapa del pipeline.
+2.  **Red de Seguridad Incorporada (Feedback & Constraints):** Al diseñar un auditor que corrige errores por sí mismo, minimizamos la necesidad de intervención humana (Human-in-the-loop) y erradicamos el consumo masivo de tokens bloqueando los bucles infinitos desde el principio.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Los límites de un agente individual)
 
 ```text
-[Human]: 2026년 전기차 시장 동향 리서치하고 결론 내줘.
-[Agent]: 데이터를 수집했습니다. 분석도 해볼게요... (메모리 초과로 인해 앞부분의 핵심 데이터 망각) 결론은 전기차보다 내연기관이 유망하다는 것입니다.
-결과: 방대한 데이터를 감당하지 못해 부정확한 데이터에 기반한 엉뚱한 결론 도출.
+[Human]: Investiga las tendencias del mercado de vehículos eléctricos para 2026 y dame una conclusión.
+[Agent]: He recopilado los datos. Ahora los analizaré... (Olvida los datos clave del principio debido al desbordamiento de memoria) La conclusión es que los motores de combustión interna son más prometedores que los vehículos eléctricos.
+Resultado: Incapacidad para manejar datos masivos, lo que lleva a una conclusión absurda basada en información inexacta e incompleta.
 ```
 
-### ✅ After (스웜 아키텍처 도입)
+### ✅ Después (Con la Arquitectura Swarm)
 
 ```text
-[수집가 Agent]: 최신 데이터 10만 건 수집 및 전처리 완료. (JSON 포맷으로 전송)
-[분석가 Agent]: 수집가로부터 받은 데이터 분석 완료. 향후 5년 전기차 배터리 효율 증가에 따른 시장 지배력 강화 전망 도출. (초안 전송)
-[검수자 Agent]: 분석 결과 중 '보조금 축소'라는 변수가 누락됨. 해당 변수를 반영하여 재분석 요망. (피드백 전송)
-[분석가 Agent]: 보조금 축소 변수 반영하여 재분석 완료. 단기적 침체, 장기적 상승으로 결론 수정. (최종본 전송)
-[검수자 Agent]: 논리적 무결성 확인. 최종 보고서 생성 승인.
+[Agent Recolector]: 100,000 puntos de datos recientes recopilados y preprocesados. (Enviados en formato JSON)
+[Agent Analista]: Análisis de datos recibido completado. Se proyecta un mayor dominio del mercado debido a un aumento en la eficiencia de las baterías de vehículos eléctricos durante los próximos 5 años. (Borrador enviado)
+[Agent Auditor]: El análisis omitió la variable 'reducción de subsidios'. Se solicita reevaluación incorporando esta variable. (Feedback enviado)
+[Agent Analista]: Reevaluación completada con la variable de reducción de subsidios. Conclusión ajustada: recesión a corto plazo, crecimiento a largo plazo. (Versión final enviada)
+[Agent Auditor]: Integridad lógica confirmada. Aprobada la generación del informe final.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-AutoGPT 2.0의 스웜 기능은 AI를 단순한 개인 비서에서, 유기적으로 소통하고 독립적인 업무를 수행하는 '전문가 팀'으로 격상시켰습니다. 이제 프롬프트 엔지니어링의 본질은 단일 문장을 잘 쓰는 것이 아니라, AI 조직 구조와 소통 방식을 설계하는 '시스템 엔지니어링'이 되었습니다.
+La función de enjambre de AutoGPT 2.0 ha elevado la IA de ser un simple asistente personal a un 'equipo de expertos' que se comunica orgánicamente y ejecuta tareas de forma independiente. Hoy, la verdadera esencia de la ingeniería de prompts no es escribir una buena oración, sino la 'ingeniería de sistemas': diseñar la estructura organizativa y los métodos de comunicación de tu fuerza laboral de IA.
 
-준비되셨나요? 이제 당신만의 AI 어벤져스를 지휘할 시간입니다! 🚀
+¿Estás listo? ¡Es hora de dirigir a tus propios Avengers de la IA! 🚀

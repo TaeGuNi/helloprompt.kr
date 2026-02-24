@@ -6,146 +6,147 @@ category: "Agent Engineering"
 tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 ---
 
-# 📝 AI 에이전트가 실패하는 이유: Gemini 3 Pro의 '자가 수정 루프' 프롬프트 패턴
+# 📝 Pourquoi vos agents IA échouent : Le modèle de prompt "Boucle d'Auto-Correction" avec Gemini 3 Pro
 
-- **🎯 추천 대상:** AI 에이전트를 개발하는 백엔드 엔지니어, 프롬프트 엔지니어, 기획자
-- **⏱️ 소요 시간:** 코드 디버깅 15분 → 1분 단축
-- **🤖 추천 모델:** Gemini 3 Pro, GPT-4o, Claude 3.5 Sonnet (추론 능력이 뛰어난 모델)
+- **🎯 Public cible :** Ingénieurs backend développant des agents IA, Prompt Engineers, Product Managers
+- **⏱️ Gain de temps :** 15 minutes de débogage → réduites à 1 minute
+- **🤖 Modèles recommandés :** Gemini 3 Pro, GPT-4o, Claude 3.5 Sonnet (modèles avec une forte capacité de raisonnement)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficulté :** ⭐⭐⭐☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"완벽해 보이던 AI 에이전트가 똑같은 오류를 반복하며 API 토큰만 태우고 있나요? 이제 '코드 작성'이 아닌 '작성, 비판, 수정'을 지시할 때입니다."_
+> _"Votre agent IA, pourtant si prometteur, tourne en boucle sur les mêmes erreurs en brûlant vos tokens API ? Il est grand temps d'arrêter de lui demander simplement d'« écrire du code », et de l'obliger à « écrire, critiquer, puis corriger »."_
 
-Gemini 3 Pro나 GPT-4와 같은 고성능 모델로 에이전트를 구축해 본 경험이 있으실 겁니다. 코드를 생성하는 능력은 탁월하지만, 스스로 버그를 고치는 데는 끔찍할 정도로 서툰 경우가 많습니다. 한 번 시도하고 실패하면 동일한 코드를 반복해서 뱉어내며 이른바 '죽음의 나선(Death Spiral)'에 빠져 아까운 토큰 예산만 낭비하곤 하죠.
+Vous avez probablement déjà essayé de construire des agents avec des modèles très performants comme Gemini 3 Pro ou GPT-4o. Leur capacité à générer du code est exceptionnelle, mais ils sont souvent d'une maladresse déconcertante lorsqu'il s'agit de corriger leurs propres bugs. Après un premier échec, ils ont tendance à recracher le même code défectueux, s'enfermant dans une « spirale de la mort » (Death Spiral) qui vide votre budget de tokens sans aucun résultat.
 
-이 문제는 모델의 지능이 부족해서가 아닙니다. 바로 **'자가 수정 루프(Self-Correction Loop)'**가 빠져 있기 때문입니다. 대부분의 개발자는 에이전트를 '발사 후 망각(Fire and Forget)' 방식으로 다룹니다. 하지만 진정한 에이전틱 워크플로우(Agentic Workflow)에는 모델이 결과물을 사용자에게 보여주기 전에 스스로 비판하는 '에디터(Editor)' 단계가 필수적입니다.
+Ce problème ne vient pas d'un manque d'intelligence du modèle, mais de l'absence d'une **« boucle d'auto-correction » (Self-Correction Loop)**. La plupart des développeurs déploient leurs agents selon le principe du « Fire and Forget » (tirer et oublier). Or, dans un véritable flux de travail agentique (Agentic Workflow), il est indispensable d'intégrer une étape d'« Éditeur », où le modèle critique lui-même son travail avant de vous présenter le résultat final.
 
-오늘은 실제 프로덕션 환경에서 에이전트의 오류율을 60% 이상 획기적으로 낮춰준 **자가 수정 프롬프트 패턴(Self-Correction Prompt Pattern)**을 공유합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI 에이전트의 무한 에러 루프는 모델의 한계가 아닌 검증 단계의 부재 때문입니다.
-2. AI에게 '생성자(Creator)'와 '비평가(Critic)' 역할을 동시에 부여하여 스스로 논리적 오류를 찾게 만드세요.
-3. 초안 작성, 자체 비판, 최종 수정의 3단계 프로세스를 하나의 프롬프트에 녹여내면 환각(Hallucination)을 극적으로 줄일 수 있습니다.
+Aujourd'hui, je partage avec vous le **modèle de prompt d'auto-correction (Self-Correction Prompt Pattern)** qui a permis de réduire drastiquement (de plus de 60 %) le taux d'erreur de nos agents en environnement de production.
 
 ---
 
-## 🚀 해결책: "비평가-실행자 (Critic-Actor) 패턴"
+## ⚡️ 3 points clés (TL;DR)
 
-초안 작성(Drafting) 단계와 비판(Critique) 단계를 명확하게 분리하는 것이 이 프롬프트의 핵심입니다.
+1. Les boucles d'erreurs infinies des agents IA ne sont pas dues aux limites du modèle, mais à l'absence d'une étape de validation rigoureuse.
+2. Attribuez simultanément les rôles de « Créateur » et de « Critique » à l'IA pour l'obliger à déceler ses propres failles logiques.
+3. En fusionnant les étapes de brouillon, d'auto-critique et de révision finale dans un seul prompt, vous pouvez réduire les hallucinations de manière spectaculaire.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 자가 수정 결과만 확인하고 싶을 때 사용하세요.
+## 🚀 Solution : Le modèle "Critique-Acteur" (Critic-Actor Pattern)
 
-> **역할:** 너는 `[시니어 백엔드 엔지니어]`야.
-> **요청:** `[정렬된 두 개의 리스트를 병합하는 함수]`를 작성해 줘. 코드를 작성한 후, 스스로 잠재적인 버그나 비효율적인 부분을 찾아 비판하고, 그 비판을 바탕으로 수정된 최종 코드를 제시해.
+Séparer clairement la phase de rédaction (Drafting) de la phase de critique (Critique) est le cœur de cette stratégie.
+
+### 🥉 Version Basique
+
+Idéale lorsque vous souhaitez obtenir rapidement un résultat auto-corrigé sans configuration complexe.
+
+> **Rôle :** Tu es un `[Ingénieur Backend Senior]`.
+> **Tâche :** Rédige `[une fonction permettant de fusionner deux listes triées]`. Après avoir écrit le code, recherche toi-même les bugs potentiels ou les inefficacités pour critiquer ton travail, puis propose le code final corrigé en te basant sur cette critique.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro
 
-디테일한 코드 퀄리티와 엣지 케이스(Edge Case) 방어가 필요할 때 사용하세요.
+À utiliser lorsque la qualité du code et la gestion des cas extrêmes (Edge Cases) sont primordiales.
 
-> **역할 (Role):** 너는 10년 차 시니어 파이썬 백엔드 엔지니어이자 꼼꼼한 코드 리뷰어(Code Reviewer)야. 너는 깔끔하고 효율적이며 버그가 없는 코드를 최우선으로 생각해.
+> **Rôle (Role) :** Tu es un Ingénieur Backend Python Senior avec 10 ans d'expérience, et un Code Reviewer extrêmement méticuleux. Ta priorité absolue est de produire un code propre, performant et sans aucun bug.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 현재 프로덕션 환경에서 대규모 데이터를 처리하기 위한 신뢰성 높은 코드가 필요해.
-> - 목표: 스스로 코드의 논리적 허점을 찾고 보완하는 완벽한 함수를 작성하는 것.
+> - Contexte : Nous avons besoin d'un code hautement fiable pour traiter des données à grande échelle dans notre environnement de production actuel.
+> - Objectif : Écrire une fonction parfaite qui identifie et corrige elle-même ses propres failles logiques.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. **초안 (Draft):** `[정렬된 두 개의 리스트를 병합하는 파이썬 함수]`를 작성해.
-> 2. **비판 (Critique):** 작성한 초안 코드를 스스로 리뷰해. 다음 항목들을 집중적으로 찾아내:
->    - 엣지 케이스 (예: 빈 리스트 입력, 음수 포함 등)
->    - 성능 병목 현상 (시간/공간 복잡도)
->    - 잠재적인 런타임 에러
-> 3. **수정 (Refine):** 비판 단계에서 발견한 문제점을 바탕으로 코드를 완벽하게 다시 작성해.
+> 1. **Brouillon (Draft) :** Rédige `[une fonction Python qui fusionne deux listes triées]`.
+> 2. **Critique (Critique) :** Effectue une revue de code rigoureuse sur ton propre brouillon. Identifie en priorité les points suivants :
+>    - Les cas extrêmes (Edge Cases : ex. listes vides, nombres négatifs, etc.)
+>    - Les goulots d'étranglement de performance (complexité temporelle et spatiale)
+>    - Les erreurs d'exécution potentielles (Runtime Errors)
+> 3. **Correction (Refine) :** Réécris entièrement et parfaitement le code en te basant sur les problèmes identifiés lors de l'étape de critique.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 출력 형식은 아래 제공된 마크다운 구조를 엄격하게 따라야 해.
-> - '3. 최종 완성 코드' 섹션에서는 코드에 대한 부연 설명을 절대 하지 마. 코드 블럭만 제공해.
-> - 최종 완성 코드에는 비판 단계에서 식별된 엣지 케이스에 대한 예외 처리 로직이 반드시 포함되어야 해.
+> - Le format de sortie doit suivre strictement la structure Markdown fournie ci-dessous.
+> - Dans la section « 3. Code final optimisé », ne fournis absolument aucune explication textuelle supplémentaire. Renvoie uniquement le bloc de code.
+> - Le code final doit impérativement inclure la gestion des exceptions et des cas extrêmes identifiés lors de la critique.
 >
-> **출력 형식 (Format):**
+> **Format de sortie (Format) :**
 >
-> ## 1. 초기 초안 (Initial Draft)
->
-> \`\`\`python
-> (초안 코드)
-> \`\`\`
->
-> ## 2. 자체 비판 (Self-Critique)
->
-> - **비판 1:** (발견한 문제점 및 원인)
-> - **비판 2:** (발견한 문제점 및 원인)
->
-> ## 3. 최종 완성 코드 (Final Polished Code)
+> ## 1. Brouillon initial (Initial Draft)
 >
 > \`\`\`python
-> (최종 수정된 코드)
+> (Code du brouillon)
+> \`\`\`
+>
+> ## 2. Auto-critique (Self-Critique)
+>
+> - **Critique 1 :** (Problème identifié et sa cause)
+> - **Critique 2 :** (Problème identifié et sa cause)
+>
+> ## 3. Code final optimisé (Final Polished Code)
+>
+> \`\`\`python
+> (Code final corrigé)
 > \`\`\`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Expert (Insight)
 
-이 프롬프트 패턴은 단순한 코드 생성을 넘어, SQL 쿼리 작성이나 비즈니스 이메일 카피라이팅 등 논리적 검증이 필요한 모든 작업에 강력한 효과를 발휘합니다. '자체 비판(Self-Critique)' 단계는 AI의 무의미한 환각(Hallucination)을 막아주는 든든한 방파제 역할을 합니다.
+Ce modèle de prompt va bien au-delà de la simple génération de code. Il est d'une puissance redoutable pour toute tâche nécessitant une validation logique, comme la rédaction de requêtes SQL complexes ou le copywriting d'e-mails professionnels. L'étape d'« Auto-critique » agit comme un pare-feu infranchissable contre les hallucinations absurdes de l'IA.
 
-특히 **Gemini 3 Pro**와 같이 컨텍스트 윈도우가 거대한 모델을 사용할 때는, 비판 단계에서 기존 코드베이스의 특정 라인을 직접 인용하여 리뷰하도록 지시하면 코드의 정확도와 맥락 일치율을 극한으로 끌어올릴 수 있습니다.
+Notamment, lorsque vous utilisez des modèles dotés d'une gigantesque fenêtre de contexte comme **Gemini 3 Pro**, vous pouvez lui demander de citer des lignes spécifiques de votre base de code existante lors de la phase de critique. Cela pousse la précision et la cohérence contextuelle à leur paroxysme.
 
-다만 주의할 점이 있습니다. '잘못된 초안'과 '비판' 과정을 거치며 텍스트를 추가 생성하기 때문에 기존 프롬프트 대비 약 2배의 토큰(비용)이 소모됩니다. 따라서 단순한 텍스트 변환 작업보다는 **'비용보다 정확도(Accuracy > Cost)'가 훨씬 중요한 복잡한 로직 처리**에 이 패턴을 도입하는 것을 강력히 추천합니다. 직접 해보니 이 과정에서 절약되는 디버깅 시간이 토큰 비용을 아득히 뛰어넘습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 토큰 소모량이 걱정됩니다. 비용을 줄일 방법이 있나요?**
-  - A: 내부 로직을 처리할 때는 상대적으로 저렴한 모델(예: Gemini 3 Flash)을 사용해 초안을 작성하고, '비판 및 수정' 단계의 검수 역할만 Gemini 3 Pro에게 맡기는 멀티 에이전트 라우팅(Multi-Agent Routing) 방식을 구축하면 퀄리티를 유지하면서 비용을 크게 절감할 수 있습니다.
-
-- **Q: 비판 단계에서도 AI가 문제점을 찾지 못하면 어떻게 하나요?**
-  - A: 프롬프트의 Task 부분에 구체적인 체크리스트를 주입하세요. 예를 들어 "메모리 누수 가능성", "비동기 처리 데드락", "SQL 인젝션 취약점" 등 AI가 검토해야 할 포인트를 명시적으로 짚어주면 비판의 해상도가 훨씬 날카로워집니다.
-
-- **Q: 코딩 이외의 기획이나 블로그 글쓰기 작업에도 적용할 수 있나요?**
-  - A: 물론입니다. "초안 작성 -> 논리적 모순 및 독자 페르소나 불일치 비판 -> 최종 원고 수정" 구조로 응용하면, 사람의 개입 없이도 전문가가 퇴고한 듯한 훌륭한 수준의 결과물을 얻을 수 있습니다.
+Il y a cependant un point de vigilance. Étant donné que le modèle génère du texte supplémentaire via le « mauvais brouillon » et la « critique », ce processus consomme environ deux fois plus de tokens (et donc de budget) qu'un prompt classique. C'est pourquoi je recommande vivement de réserver ce modèle aux **traitements logiques complexes où « la précision prime sur le coût » (Accuracy > Cost)**, plutôt qu'aux simples tâches de conversion de texte. À l'usage, vous constaterez que le temps colossal économisé en débogage compense largement le surcoût en tokens.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **Role & Context 분리:** AI에게 '개발자'와 '리뷰어'라는 두 가지 상반된 페르소나를 강제 부여하여 스스로 코드의 결함을 찾아내는 메타 인지(Meta-cognition) 능력을 활성화했습니다.
-2.  **단계적 추론 (Chain-of-Thought) 유도:** 곧바로 완벽한 정답을 내놓게 하지 않고, '초안 -> 비판 -> 수정'이라는 사고의 과정을 마크다운 구조로 명시화하여 논리적 비약과 헛소리를 방지했습니다.
-3.  **Constraints (제약) 통제:** 최종 출력에서는 불필요한 설명을 모두 제거하게 강제하여, 이후 자동화 파이프라인(CI/CD 등)에서 코드를 파싱(Parsing)하고 바로 테스트하기 쉽도록 설계했습니다.
+- **Q : La consommation de tokens m'inquiète. Y a-t-il un moyen de réduire les coûts ?**
+  - R : Oui. Vous pouvez mettre en place un système de routage multi-agents (Multi-Agent Routing). Confiez la rédaction du brouillon à un modèle très rapide et moins onéreux (comme Gemini 3 Flash), et réservez l'étape cruciale de « Critique et Correction » à Gemini 3 Pro. Cela permet de diviser les coûts de manière drastique tout en maintenant un niveau de qualité irréprochable.
+
+- **Q : Que faire si l'IA ne trouve aucun problème lors de l'étape de critique ?**
+  - R : Injectez une checklist spécifique dans la section "Tâche" (Task) de votre prompt. En forçant le modèle à vérifier explicitement des points précis comme « risque de fuite mémoire », « deadlock asynchrone » ou « vulnérabilité aux injections SQL », vous augmentez considérablement la finesse et la pertinence de son regard critique.
+
+- **Q : Ce pattern est-il applicable à d'autres tâches que le code, comme la rédaction d'articles de blog ou de documents de conception ?**
+  - R : Absolument. En appliquant la structure « Rédaction du brouillon -> Critique des incohérences logiques et du ton -> Révision finale », vous obtiendrez des résultats d'une qualité équivalente à ceux d'un relecteur humain professionnel, le tout sans aucune intervention de votre part.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Décryptage du Prompt (Pourquoi ça marche ?)
 
-**테스트 조건:** "정렬된 두 개의 리스트를 병합하는 함수 작성"
+1.  **Séparation du Rôle et du Contexte :** En forçant l'IA à adopter les deux personas opposés de « Développeur » et de « Reviewer », on active sa capacité de métacognition (Meta-cognition), l'obligeant ainsi à traquer de façon objective ses propres failles.
+2.  **Induction d'un Raisonnement par Étapes (Chain-of-Thought) :** Au lieu d'exiger la réponse parfaite immédiatement, le formatage Markdown en « Brouillon -> Critique -> Correction » structure sa pensée, la ralentit, et empêche les sauts logiques hasardeux.
+3.  **Contrôle strict par les Contraintes (Constraints) :** En interdisant toute explication superflue dans la sortie finale, le code généré est prêt à être parsé et testé directement et automatiquement par vos pipelines (CI/CD).
 
-### ❌ Before (입력)
+---
 
-표준 프롬프트로 지시했을 때, 단순히 `list1 + list2` 후 `sorted()`를 호출하는 비효율적인 코드를 생성했습니다.
+## 📊 Preuve : Avant & Après
+
+**Condition de test :** "Rédiger une fonction permettant de fusionner deux listes triées"
+
+### ❌ Avant (Entrée)
+
+Avec un prompt standard, le modèle s'est contenté de concaténer les listes (`list1 + list2`) puis d'appeler `sorted()`. Une approche incroyablement inefficace qui n'exploite pas le fait que les listes soient déjà triées.
 
 ```python
 def merge_lists(list1, list2):
-    # O(N log N)의 시간 복잡도 발생. 대규모 데이터에서 심각한 성능 저하 우려.
+    # Entraîne une complexité temporelle de O(N log N).
+    # Risque de dégradation sévère des performances sur de grands volumes de données.
     return sorted(list1 + list2)
 ```
 
-### ✅ After (결과)
+### ✅ Après (Résultat)
 
-자가 수정 프롬프트를 적용하자, 자체 비판 단계에서 "이미 정렬된 리스트에 `sorted()`를 사용하는 것은 비효율적이며, O(N) 복잡도를 위해 투 포인터(Two-pointer) 접근법을 써야 한다"고 스스로 지적한 뒤 완벽히 최적화된 코드를 도출했습니다. 15분의 코드 리뷰와 리팩토링 시간이 단 1초로 단축되었습니다.
+Avec le prompt d'auto-correction, le modèle a signalé lui-même dans sa phase de critique : *"Utiliser `sorted()` sur des listes déjà triées est inefficace ; il faut utiliser l'approche des deux pointeurs (Two-pointer) pour atteindre une complexité de O(N)."* Il a ensuite généré le code parfaitement optimisé ci-dessous. Les 15 minutes habituelles de code review et de refactoring ont été réduites à 1 seconde.
 
 ```python
 def merge_lists(list1, list2):
-    # O(N)의 시간 복잡도로 최적화 및 빈 리스트 엣지 케이스 완벽 방어
+    # Optimisé avec une complexité de O(N) et une défense parfaite contre les cas extrêmes (listes vides)
     merged = []
     i, j = 0, 0
 
@@ -157,7 +158,7 @@ def merge_lists(list1, list2):
             merged.append(list2[j])
             j += 1
 
-    # 남은 요소들 병합
+    # Fusion des éléments restants de manière sécurisée
     merged.extend(list1[i:])
     merged.extend(list2[j:])
 
@@ -166,10 +167,10 @@ def merge_lists(list1, list2):
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-AI 모델에게 단 한 번의 시도로 완벽한 정답을 기대하는 것은 요행을 바라는 것과 같습니다. LLM 호출을 단순한 '정답 자판기'가 아니라, 논리적인 '과정(Process)'을 설계하는 엔지니어링 작업으로 대해야 합니다.
+Espérer qu'un modèle d'IA produise la réponse parfaite du premier coup relève de la pensée magique. Il est temps d'arrêter de considérer les appels aux LLMs comme de simples « distributeurs automatiques de réponses », et de commencer à les traiter comme de véritables processus d'ingénierie (Process Engineering) à concevoir et à encadrer.
 
-지금 당장 여러분의 에이전트 워크플로우에 이 '비평가-실행자' 패턴을 복사해서 붙여넣어 보세요. 원인을 알 수 없던 지긋지긋한 디버깅 지옥에서 탈출할 수 있을 것입니다.
+Copiez et collez ce modèle "Critique-Acteur" dans vos workflows d'agents dès aujourd'hui. Vous sortirez enfin de cet enfer du débogage à l'aveugle.
 
-이제 에이전트에게 꼼꼼한 검수를 맡기고 칼퇴하세요! 🍷
+Déléguez la relecture méticuleuse à vos agents, et rentrez chez vous plus tôt ! 🍷

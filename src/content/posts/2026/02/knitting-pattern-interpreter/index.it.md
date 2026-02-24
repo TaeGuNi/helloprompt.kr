@@ -5,112 +5,112 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "K1, P1, YO... 영문 약어와 기호로 가득 찬 뜨개질 도안을 쉬운 한글 서술형 설명으로 변환하세요. Ravelry 도안도 문제없습니다."
+description: "Traduci i complessi schemi di maglia ricchi di abbreviazioni come K1, P1, YO in spiegazioni semplici e discorsive in italiano. Perfetto anche per i modelli su Ravelry."
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 
-# 🧶 암호문 같은 뜨개질 도안, AI가 해석해드립니다
+# 🧶 L'AI decifra gli schemi di maglia come fossero codici segreti
 
-- **🎯 추천 대상:** 영문 도안(Ravelry)만 보면 현기증 나는 니터(Knitter), 게이지 계산이 귀찮은 다이아손
-- **⏱️ 소요 시간:** 30분 (사전 찾고 계산하는 시간) → 30초 단축
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (이미지 인식 및 수학적 추론 최상)
+- **🎯 Consigliato per:** Knitter a cui gira la testa leggendo gli schemi in inglese (es. Ravelry), appassionati del fai-da-te stanchi di calcolare i campioni (gauge).
+- **⏱️ Tempo risparmiato:** Da 30 minuti (per cercare termini e calcolare) → a 30 secondi.
+- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet (eccellenti nel riconoscimento delle immagini e nel ragionamento matematico).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficoltà:** ⭐⭐☆☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilità:** ⭐⭐⭐⭐☆
 
-> _"핀터레스트에서 첫눈에 반한 스웨터, 호기롭게 도안을 열었지만 외계어 같은 영문 약어에 창을 닫아본 적 있으신가요?"_
+> _"Ti è mai capitato di innamorarti di un maglione su Pinterest, aprire lo schema con entusiasmo e chiuderlo subito dopo perché le abbreviazioni in inglese sembravano arabo?"_
 
-`Row 1: *K1, P1* rep to end.` 뜨개질 입문자에게는 마치 암호문이나 외계어처럼 보입니다. 하지만 이 규칙만 알면 전 세계의 수많은 무료 도안을 마음껏 즐길 수 있죠. 이제 눈 빠지게 영한사전을 뒤질 필요 없습니다. AI 번역기가 아닌, 완벽한 나만의 **'뜨개질 통역사 겸 설계자'**를 고용해 보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **영문 약어 완벽 해독:** K(겉뜨기), P(안뜨기), YO(바늘비우기) 등 복잡한 영문 뜨개질 약어를 직관적인 한글 서술형으로 자동 번역합니다.
-2. **맞춤형 게이지(Gauge) 계산:** 내 실과 바늘 게이지에 맞춰 시작 콧수와 단수를 찰떡같이 재계산해 줍니다.
-3. **복잡한 기호 차트 리딩:** 눈 아픈 기호 도안을 사진으로 찍어 올리면, AI가 한 단씩 친절하게 말로 풀어서 설명해 줍니다.
+`Row 1: *K1, P1* rep to end.` Per un principiante, questo sembra un messaggio in codice o una lingua aliena. Ma conoscendo queste regole, puoi accedere a migliaia di schemi gratuiti in tutto il mondo. Ora non c'è più bisogno di sfogliare faticosamente dizionari di maglia dall'inglese all'italiano. Assumi il tuo **"traduttore e designer personale di maglia"** tramite l'AI, un assistente infallibile che va ben oltre la semplice traduzione letterale.
 
 ---
 
-## 🚀 해결책: "AI 니팅 번역기 프롬프트"
+## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-### 🥉 Basic Version (영문 약어 번역형)
+1. **Decodifica perfetta delle abbreviazioni:** Traduce automaticamente termini complessi come K (diritto), P (rovescio) e YO (gettato) in chiare istruzioni in italiano, passo dopo passo.
+2. **Calcolo personalizzato del campione (Gauge):** Ricalcola perfettamente il numero di maglie di avvio e i ferri in base al filato e ai ferri che stai utilizzando.
+3. **Lettura dei grafici complessi:** Carica la foto di uno schema grafico e l'AI te lo spiegherà a parole, ferro dopo ferro, in modo semplice e discorsivo.
 
-텍스트로 된 영문 도안을 빠르게 한글 서술형으로 바꿀 때 사용하세요.
+---
 
-> **역할 (Role):** 너는 뜨개질(대바늘 및 코바늘) 경력 20년의 친절한 `[니팅 마스터]`야.
+## 🚀 La Soluzione: "Prompt per il Traduttore di Maglia AI"
+
+### 🥉 Versione Base (Traduzione delle Abbreviazioni)
+
+Usalo per convertire rapidamente gli schemi di testo in inglese in spiegazioni narrative in italiano.
+
+> **Ruolo (Role):** Sei un `[Maestro di Maglia]` amichevole con 20 anni di esperienza nel lavoro a maglia (ferri e uncinetto).
 >
-> **요청 (Task):**
-> 다음 영문 뜨개질 도안을 초보자도 이해하기 쉬운 한국어 서술형 도안으로 번역해 줘.
-> 단순히 직역하지 말고, 뜨개질에 실제로 쓰이는 정확한 한국어 전문 용어(예: yo -> 바늘비우기, ssk -> 왼코 겹치기)로 변환해 줘.
+> **Compito (Task):**
+> Traduci il seguente schema di maglia dall'inglese in uno schema discorsivo in italiano, facile da capire anche per un principiante.
+> Non tradurre letteralmente, ma utilizza la terminologia tecnica corretta del lavoro a maglia in italiano (es. yo -> gettato, ssk -> due maglie insieme a diritto ritorto, k2tog -> due maglie insieme a diritto).
 >
-> **입력 도안 (Input):**
-> `[여기에 복사한 영문 도안 텍스트를 붙여넣으세요]`
+> **Input (Schema):**
+> `[Incolla qui il testo dello schema in inglese]`
 >
-> **출력 형식 (Format):**
-> 각 단(Row/Round)별로 줄바꿈을 해서 헷갈리지 않고 읽기 편하게 정리해 줘.
+> **Formato (Format):**
+> Vai a capo per ogni ferro/giro (Row/Round) in modo che sia ordinato e facile da leggere senza confondersi.
 
 <br>
 
-### 🥇 Pro Version (기호 도안 해석 & 맞춤형 사이즈 계산)
+### 🥇 Versione Pro (Interpretazione dei Grafici & Calcolo delle Taglie)
 
-그림(차트)으로 된 도안을 해석하거나, 내가 가진 실의 굵기에 맞춰 사이즈(콧수)를 전면 재조정해야 할 때 사용하세요.
+Usalo quando devi interpretare uno schema grafico (chart) o ricalcolare completamente le taglie (numero di maglie) in base allo spessore del filato che possiedi.
 
-> **역할 (Role):** 너는 수식 계산에 능통하고 도안 설계 경험이 풍부한 `[수석 니팅 디자이너]`야.
+> **Ruolo (Role):** Sei un `[Senior Knit Designer]` esperto in calcoli matematici e progettazione di schemi.
 >
-> **상황 (Context):**
+> **Contesto (Context):**
 >
-> - 만들고자 하는 작품: `[예: 여성용 M 사이즈 탑다운 스웨터]`
-> - 원본 도안 게이지: `[예: 20코 28단 (10cm x 10cm 메리야스 뜨기 기준)]`
-> - 내 스와치(Swatch) 게이지: `[예: 22코 30단 (내 실이 원작보다 더 얇음)]`
-> - 원본 시작 콧수(Cast On): `[예: 100코]`
+> - Progetto da realizzare: `[es. Maglione top-down da donna taglia M]`
+> - Campione dello schema originale: `[es. 20 maglie e 28 ferri (in 10x10 cm a maglia rasata)]`
+> - Il mio campione (Swatch): `[es. 22 maglie e 30 ferri (il mio filato è più sottile dell'originale)]`
+> - Numero di maglie di avvio originale (Cast On): `[es. 100 maglie]`
 >
-> **요청 (Task):**
+> **Compito (Task):**
 >
-> 1. **사이즈 재계산 (Gauge Math):** 내 게이지 수치에 맞춰서 시작 콧수와 전체 비율을 다시 계산해 줘. 계산 과정도 간략히 설명해 줘.
-> 2. **차트 해독 (Chart Reading):** `[첨부할 기호 차트 이미지 업로드]` 이 무늬 뜨기 부분을 1단부터 순서대로 한글 서술형으로 텍스트화해 줘.
-> 3. **전문가의 팁 (Pro Tip):** 원작과 다른 굵기의 실을 사용할 때 핏(Fit)이 어떻게 달라질지, 그리고 이 무늬를 예쁘게 살리기 위한 장력(Tension) 조절 팁을 알려줘.
+> 1. **Ricalcolo delle Misure (Gauge Math):** Ricalcola il numero di maglie di avvio e le proporzioni totali in base al mio campione. Spiega brevemente il processo di calcolo.
+> 2. **Lettura del Grafico (Chart Reading):** `[Carica l'immagine del grafico]` Trasforma questo schema grafico in testo descrittivo in italiano, partendo dal ferro 1 in ordine cronologico.
+> 3. **Consigli dell'Esperto (Pro Tip):** Spiegami come cambierà la vestibilità (fit) utilizzando un filato di spessore diverso e dammi consigli su come regolare la tensione per far risaltare il motivo.
 >
-> **제약사항 (Constraints):**
+> **Vincoli (Constraints):**
 >
-> - 콧수 계산 결과는 소수점을 반올림하여 정확한 정수로 제시해.
-> - 차트 기호가 헷갈리거나 불분명한 경우, 맘대로 추측하지 말고 "확인이 필요하다"고 명시해. (환각 방지)
+> - Arrotonda i risultati dei calcoli delle maglie per fornire numeri interi esatti.
+> - Se i simboli del grafico sono confusi o poco chiari, non tirare a indovinare, ma specifica chiaramente che "è necessaria una verifica". (Prevenzione delle allucinazioni)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 I Consigli dell'Autore (Insight)
 
-뜨개질의 가장 큰 진입 장벽은 단연 **'영문 도안 해독'**과 **'게이지 계산'**입니다. 이 프롬프트를 활용하면 Ravelry(레이블리)에 널려 있는 수만 개의 아름다운 무료 영문 도안들이 전부 내 것이 됩니다.
+Gli ostacoli più grandi nel lavoro a maglia sono, senza dubbio, la **decodifica degli schemi in inglese** e il **calcolo del campione**. Utilizzando questo prompt, potrai accedere a decine di migliaia di bellissimi schemi gratuiti disponibili su piattaforme come Ravelry.
 
-특히 원작과 똑같은 실을 구하기 힘든 한국의 특성상, 내가 가진 '대체실'의 스와치 게이지만 입력하면 AI가 비례식을 세워 콧수를 싹 다시 계산해 주는 기능은 감동적이기까지 합니다. `ssk`(Slip Slip Knit)와 `k2tog`(Knit 2 Together)의 코 방향 차이까지 정확히 한국어로 짚어내는 것을 보면, 웬만한 뜨개 공방 선생님보다 든든합니다. 기호로 된 차트를 텍스트로 풀어주니 도안을 확대해가며 눈 아프게 쳐다볼 일도 줄어듭니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 코바늘(Crochet) 도안도 해석이 되나요?**
-  - A: 네, 완벽하게 지원합니다. 코바늘은 미국(US) 용어와 영국(UK) 용어가 달라서(예: 똑같은 'dc'가 미국은 한길긴뜨기, 영국은 짧은뜨기) 대참사가 나기 쉬운데요. 프롬프트 시작에 *"이 도안이 US 기준인지 UK 기준인지 먼저 파악해 줘"*라고 추가하면 문맥을 읽고 정확히 번역해 줍니다.
-
-- **Q: 영문 도안이 PDF 파일로 되어 있는데 어떡하나요?**
-  - A: 텍스트를 복사해서 'Basic Version'에 붙여넣기 하거나, 유료 버전(GPT-4o, Claude 3.5 Sonnet 등)의 경우 PDF 파일 자체를 통째로 업로드하고 'Pro Version' 프롬프트를 입력하면 전체 도안을 한 번에 번역 및 계산해 줍니다.
-
-- **Q: 인형(Amigurumi) 도안 같은 입체 뜨기도 가능한가요?**
-  - A: 물론입니다. "Magic ring 6sc (매직링에 짧은뜨기 6코)"부터 시작하는 코 늘림/줄임 공식을 아주 정확하게 번역하고 계산해 주므로 콧수 헷갈릴 일이 없어집니다.
+In particolare, considerando che spesso è difficile reperire lo stesso identico filato dell'autore originale, la funzione dell'AI di ricalcolare le maglie semplicemente inserendo i dati del tuo "filato alternativo" è davvero rivoluzionaria. Vedere come l'AI distingue perfettamente in italiano la direzione dell'inclinazione tra un `ssk` (Slip Slip Knit) e un `k2tog` (Knit 2 Together) ti darà più sicurezza rispetto all'avere accanto un insegnante di maglia in carne ed ossa. Trasformare i grafici in testo, inoltre, ti eviterà l'affaticamento visivo di dover zoomare continuamente lo schermo per decifrare simboli minuscoli.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1.  **전문 용어 매핑 (Term Mapping):** AI는 방대한 글로벌 뜨개질 커뮤니티 데이터를 학습했기 때문에, 단순 영한사전이 아닌 실제 뜨개인들이 사용하는 '정확한 매칭 용어'를 출력합니다.
-2.  **수학적 추론 (Mathematical Reasoning):** 단순 번역을 넘어, 게이지 비례식이라는 수학적 규칙을 적용해 나만의 맞춤형 도안으로 재설계(Redesign)하는 역할을 수행합니다.
-3.  **환각 방지 (Hallucination Control):** 제약사항에 "모르면 추측하지 말라"고 명시하여, 콧수 하나 틀리면 옷 전체를 '푸르시오(다시 풀기)' 해야 하는 대참사를 미연에 방지했습니다.
+- **D: Funziona anche per gli schemi all'uncinetto (Crochet)?**
+  - R: Assolutamente sì. Nell'uncinetto, i termini americani (US) e britannici (UK) sono diversi (ad esempio, lo stesso `dc` significa maglia alta negli USA e maglia bassa nel Regno Unito), il che causa spesso disastri. Aggiungendo all'inizio del prompt *"Prima determina se questo schema utilizza i termini US o UK"*, l'AI capirà il contesto e tradurrà in modo impeccabile.
+
+- **D: Cosa faccio se lo schema è in formato PDF?**
+  - R: Puoi semplicemente copiare il testo e incollarlo nella 'Versione Base'. Se utilizzi versioni a pagamento (come GPT-4o o Claude 3.5 Sonnet), puoi caricare direttamente l'intero file PDF e utilizzare il prompt della 'Versione Pro' per tradurre e ricalcolare l'intero schema in un solo colpo.
+
+- **D: Può tradurre schemi tridimensionali come gli Amigurumi?**
+  - R: Certamente. L'AI traduce e calcola con estrema precisione le formule di aumenti e diminuzioni, partendo dal classico "Magic ring 6sc (6 maglie basse nell'anello magico)", eliminando qualsiasi confusione nel conteggio dei punti.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomia del Prompt (Perché funziona?)
 
-이제 더 이상 "K1, P1, YO" 같은 외계어 앞에서 좌절하거나, 비싼 번역 도안만 찾아 헤맬 필요가 없습니다.
-실, 바늘, 그리고 이 AI 프롬프트만 있다면 전 세계 모든 니팅 디자이너의 작품이 당신의 옷장이 됩니다.
+1.  **Mappatura della Terminologia (Term Mapping):** Poiché l'AI è stata addestrata sull'enorme database delle community globali di knitting, non fornisce una traduzione letterale, ma utilizza il 'gergo esatto' adoperato dai veri appassionati italiani.
+2.  **Ragionamento Matematico (Mathematical Reasoning):** Va oltre la semplice traduzione: applica le regole matematiche delle proporzioni per riprogettare (Redesign) uno schema personalizzato e su misura per te.
+3.  **Controllo delle Allucinazioni (Hallucination Control):** Specificando nel vincolo "non tirare a indovinare se non lo sai", previene disastri colossali, dato che l'errore in una sola maglia potrebbe costringerti a disfare (froggiare) l'intero lavoro.
 
-지금 바로 묵혀뒀던 핀터레스트 도안을 꺼내보세요. 해피 니팅! 🧶
+---
+
+## 🎯 Conclusione
+
+Non c'è più motivo di scoraggiarsi di fronte a geroglifici come "K1, P1, YO", o di limitarsi ad acquistare costosi schemi tradotti.
+Con un po' di filato, dei ferri e questo prompt AI, le creazioni di tutti i knit designer del mondo diventeranno parte del tuo guardaroba.
+
+Vai a recuperare quello schema che avevi salvato su Pinterest e lasciato nel cassetto. Buon sferruzzamento! 🧶

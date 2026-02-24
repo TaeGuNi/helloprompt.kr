@@ -5,147 +5,147 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "한 번 배포하면 수정이 불가능한 스마트 컨트랙트, 당신의 코드는 안전합니까? AI 코드 감사(Audit)를 통해 치명적인 취약점을 사전에 완벽히 차단하는 프롬프트 엔지니어링 가이드."
+description: "Los smart contracts son inmutables una vez desplegados. ¿Es seguro tu código? Una guía de ingeniería de prompts para prevenir vulnerabilidades críticas mediante auditorías de código con IA."
 tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 ---
 
-# ⛓️ 블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit) {#audit}
+# ⛓️ Smart Contracts en Blockchain: Generación y Auditoría de Código Solidity {#audit}
 
-- **🎯 추천 대상:** 웹3 프로젝트를 준비하는 기획자, DApp 개발에 입문하는 시니어 백엔드 개발자
-- **⏱️ 소요 시간:** 3시간 → 10분 단축
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (논리적 코드 생성 및 깊이 있는 보안 분석 특화)
+- **🎯 Público Objetivo:** Product managers preparando proyectos Web3, desarrolladores backend senior iniciándose en DApps.
+- **⏱️ Tiempo Ahorrado:** De 3 horas → a solo 10 minutos.
+- **🤖 Modelo Recomendado:** GPT-4o, Claude 3.5 Sonnet (Especializados en generación lógica de código y análisis profundo de seguridad).
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificultad:** ⭐⭐⭐⭐☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"단 한 줄의 코드 실수로 100억 원의 고객 자산이 증발했습니다. 그리고, 이를 되돌릴 방법은 영원히 없습니다."_
+> _"Un simple error de una línea de código esfumó 10 millones de dólares en activos de clientes. Y no hay forma de revertirlo, nunca."_
 
-블록체인 생태계에서 '버그'는 곧 돌이킬 수 없는 '파산'을 의미합니다. 기존의 웹 서비스처럼 치명적인 버그가 터졌을 때 서버를 내리고 긴급 패치(Patch)를 배포하는 것은 불가능에 가깝습니다. 배포되는 순간 당신의 코드는 영구적으로 블록체인 네트워크에 박제되기 때문입니다. 따라서 메인넷 배포 전 **완벽에 가까운 무결점 코드**를 검증해 내는 과정은 선택이 아닌 필수입니다. 다행히 AI는 Solidity의 복잡한 문법은 물론, 재진입 공격(Re-entrancy)과 같은 치명적이고 널리 알려진 해킹 패턴을 꿰뚫고 있는 최고의 보안 감사관(Auditor)이 되어줄 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
-
-1. **기획 명시:** 발행하고자 하는 토큰이나 NFT의 핵심 스펙과 비즈니스 로직을 명확히 정의합니다.
-2. **코드 생성:** AI를 활용해 검증된 라이브러리(OpenZeppelin 등) 기반의 안전하고 최적화된 초안 코드를 빠르게 생성합니다.
-3. **무자비한 감사(Audit):** AI에게 '해커의 시선' 또는 '엄격한 보안 감사관'의 페르소나를 부여하여 잠재적 취약점을 영혼까지 끌어모아 방어합니다.
+En el ecosistema blockchain, un "bug" es sinónimo de "bancarrota" irreversible. A diferencia de los servicios web tradicionales, donde puedes apagar el servidor y lanzar un parche de emergencia si ocurre un error crítico, aquí es casi imposible. En el momento en que se despliega, tu código queda grabado permanentemente en la red blockchain. Por lo tanto, el proceso de verificar un **código casi perfecto y sin defectos** antes del despliegue en la mainnet no es una opción, es una obligación absoluta. Afortunadamente, la IA puede convertirse en tu mejor auditor de seguridad (Auditor), dominando no solo la compleja sintaxis de Solidity, sino también los patrones de hackeo más críticos y conocidos, como los ataques de reentrada (Re-entrancy).
 
 ---
 
-## 🚀 해결책: "Smart Contract Developer & Auditor Prompt"
+## ⚡️ Resumen en 3 Puntos (TL;DR) {#tl-dr}
 
-### 🥉 Basic Version (표준 규격 토큰 초안 생성) {#erc-20}
+1. **Claridad en la Planificación:** Define claramente las especificaciones clave y la lógica de negocio del token o NFT que deseas emitir.
+2. **Generación de Código:** Utiliza la IA para generar rápidamente un borrador de código seguro y optimizado, basado en bibliotecas verificadas (como OpenZeppelin).
+3. **Auditoría Implacable:** Asigna a la IA la persona de un "hacker" o un "auditor de seguridad estricto" para identificar y mitigar hasta la última vulnerabilidad potencial.
 
-빠르고 안전하게 표준 규격의 토큰 코드가 필요할 때 활용하세요.
+---
 
-> **역할:** 너는 시니어 블록체인 스마트 컨트랙트 개발자야.
-> **요청:** 이더리움 메인넷에서 안전하게 구동되는 **ERC-20 토큰**의 Solidity 코드를 작성해 줘. 토큰 이름은 'PizzaCoin', 심볼은 'PZ', 총 발행량은 100만 개로 설정해. 반드시 최신 버전의 `OpenZeppelin` 라이브러리를 상속받아 보안성을 극대화해야 해.
+## 🚀 Solución: Prompt para "Desarrollador y Auditor de Smart Contracts"
+
+### 🥉 Versión Básica (Basic) {#erc-20}
+
+Úsala cuando necesites un código de token estándar de forma rápida y segura.
+
+> **Rol:** Eres un desarrollador senior de smart contracts en blockchain.
+> **Tarea:** Escribe el código en Solidity para un **token ERC-20** que se ejecute de manera segura en la mainnet de Ethereum. El nombre del token es 'PizzaCoin', el símbolo es 'PZ' y el suministro total es de 1 millón. Debes heredar obligatoriamente de la última versión de la biblioteca `OpenZeppelin` para maximizar la seguridad.
 
 <br>
 
-### 🥇 Pro Version (하드코어 보안 감사 및 극한 최적화)
+### 🥇 Versión Pro (Auditoría de Seguridad Hardcore y Optimización Extrema)
 
-실제 거액의 자산이 오가는 메인넷 배포 전, 필수적으로 거쳐야 하는 심층 감사 프롬프트입니다.
+Este es el prompt de auditoría profunda que debes usar obligatoriamente antes de desplegar en la mainnet, donde se manejan activos reales de gran valor.
 
-> **역할 (Role):** 너는 수천억 원 규모의 스마트 컨트랙트 취약점을 찾아내고 방어하는 세계 최고의 '블록체인 보안 감사관(Smart Contract Auditor)'이야.
+> **Rol (Role):** Eres el mejor 'Auditor de Seguridad Blockchain' (Smart Contract Auditor) del mundo, experto en descubrir y mitigar vulnerabilidades en smart contracts que manejan cientos de millones de dólares.
 >
-> **코드 (Code):**
-> `[여기에 검사받을 Solidity 코드 전문을 붙여넣으세요]`
+> **Código (Code):**
+> `[Pega aquí el código completo de Solidity que deseas auditar]`
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 이 코드는 실제 이더리움 메인넷에 배포될 예정이며, 유저들의 실제 자산이 보관되고 이동하는 핵심 비즈니스 로직을 담고 있어.
-> - 사소한 가스비(Gas Fee) 낭비나 미처 발견하지 못한 보안 취약점 하나가 프로젝트의 존폐를 결정지을 수 있는 긴박한 상황이야.
+> - Este código se desplegará en la mainnet de Ethereum e incluye la lógica de negocio central donde se almacenan y transfieren los activos reales de los usuarios.
+> - Es una situación crítica donde un pequeño desperdicio de tarifas de gas (Gas Fee) o una vulnerabilidad de seguridad no detectada puede determinar la supervivencia del proyecto.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. **치명적 취약점 색출:** 재진입 공격(Re-entrancy Attack), 정수 오버플로우/언더플로우, 권한 탈취(Access Control 취약점), 프론트 러닝(Front-running) 가능성이 단 0.1%라도 있다면 모두 찾아내고 원인과 해결 코드를 제시해 줘.
-> 2. **가스비(Gas) 극한 최적화:** `memory`, `calldata`, `storage`의 사용을 세밀하게 분석하고, 불필요한 연산을 줄여 컨트랙트 배포 및 트랜잭션 실행 가스비를 최소화할 수 있는 구체적인 리팩토링 방안을 제안해 줘.
-> 3. **검증을 위한 테스트 코드:** 이 취약점들이 완벽히 방어되었음을 입증할 수 있는 `Hardhat` 또는 `Foundry` 기반의 엣지 케이스(Edge Case) 방어 테스트 코드를 작성해 줘.
+> 1. **Detección de Vulnerabilidades Críticas:** Si existe un 0.1% de posibilidad de ataques de reentrada (Re-entrancy Attack), overflow/underflow de enteros, secuestro de permisos (Vulnerabilidades de Access Control) o Front-running, identifícalos todos y proporciona la causa junto con el código de solución.
+> 2. **Optimización Extrema de Gas:** Analiza detalladamente el uso de `memory`, `calldata` y `storage`, y propón medidas de refactorización concretas para reducir cálculos innecesarios y minimizar las tarifas de gas en el despliegue del contrato y la ejecución de transacciones.
+> 3. **Código de Prueba para Verificación:** Escribe código de prueba defensivo para casos extremos (Edge Cases) basado en `Hardhat` o `Foundry` para demostrar que estas vulnerabilidades han sido mitigadas por completo.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 취약점 분석 결과는 [취약점 명 / 위험도(상, 중, 하) / 원인 / 방어된 전체 코드] 형태의 마크다운 리스트로 명확히 정리할 것.
-> - `OpenZeppelin`의 표준 모듈로 대체할 수 있는 자체 구현 로직이 있다면 무조건 표준 모듈을 사용하도록 강제할 것.
-> - 확실하지 않은 취약점을 지어내지 말고, 실제 이더리움 네트워크에서 재현 가능한 공격 벡터만을 다룰 것. (환각 방지)
+> - Organiza los resultados del análisis de vulnerabilidades claramente en una lista Markdown con el formato: [Nombre de la vulnerabilidad / Nivel de riesgo (Alto, Medio, Bajo) / Causa / Código completo mitigado].
+> - Si hay lógica implementada de forma personalizada que puede ser reemplazada por módulos estándar de `OpenZeppelin`, fuerza el uso de los módulos estándar incondicionalmente.
+> - No inventes vulnerabilidades inciertas; aborda únicamente vectores de ataque reproducibles en la red real de Ethereum. (Prevención de alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 Comentario del Autor (Insight) {#insight}
 
-스마트 컨트랙트 개발의 제1원칙은 **"절대 바퀴를 다시 발명하지 마라"**입니다. 아무리 뛰어난 개발자라도 처음부터 끝까지 직접 구현한 보안 로직은 전 세계 해커들의 훌륭한 먹잇감이 되기 십상입니다. **OpenZeppelin**과 같이 내로라하는 보안 전문가들이 수년간 검증하고 지속적으로 업데이트하는 표준 라이브러리를 적극적으로 상속받아 사용해야 합니다.
+La primera regla del desarrollo de smart contracts es: **"Nunca reinventes la rueda"**. Por muy brillante que sea un desarrollador, la lógica de seguridad implementada desde cero suele ser una presa fácil para los hackers de todo el mundo. Debes heredar y utilizar activamente bibliotecas estándar como **OpenZeppelin**, que han sido verificadas durante años y actualizadas continuamente por expertos en seguridad de primer nivel.
 
-프롬프트에 `OpenZeppelin 사용`을 명시하는 것만으로도 작성될 코드의 생존 확률은 99% 이상 치솟습니다. 더불어, AI가 완벽하다고 검증해 준 코드라 할지라도 맹신은 금물입니다. 반드시 방대한 양의 시나리오별 테스트 코드를 돌려보고, 테스트넷(Testnet) 환경에서 프론트엔드와 연동하여 예상치 못한 사이드 이펙트가 없는지 직접 확인해야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
-
-- **Q: 컨트랙트 배포 테스트를 직접 해보고 싶은데 가스비(이더리움)가 너무 비쌉니다. 무료로 해볼 방법은 없나요?**
-  - A: 메인넷에 직접 배포하는 것은 엄청난 비용과 리스크를 동반합니다. 개발 및 검증 단계에서는 `Sepolia`나 `Holesky` 같은 **테스트넷(Testnet)**을 이용하는 것이 표준입니다. 테스트넷 Faucet(수도꼭지) 웹사이트를 통해 무료로 테스트용 가짜 이더리움을 받아 실제 메인넷 환경과 100% 동일하게 배포 및 테스트를 무제한으로 진행할 수 있습니다.
-
-- **Q: 배포 후 정말 치명적인 버그를 발견했습니다. 서버 업데이트처럼 코드를 덮어씌우거나 패치할 수 있는 백도어는 전혀 없나요?**
-  - A: 블록체인의 핵심 철학인 '불변성' 때문에 한 번 배포된 스마트 컨트랙트 자체의 코드는 절대 수정할 수 없습니다. 하지만 실무에서는 **업그레이더블 컨트랙트(Proxy Pattern)** 구조를 도입하여 이를 우회합니다. 데이터(Storage)를 담는 컨트랙트와 로직(Logic)을 처리하는 컨트랙트를 분리하여, 버그 발생 시 로직 컨트랙트의 연결 주소만 갈아끼우는 방식으로 사실상의 패치 업데이트를 진행합니다. AI에게 "Proxy 패턴을 적용한 업그레이더블 컨트랙트로 설계해 줘"라고 요청하면 구현 방식을 안내해 줄 것입니다. (단, 난이도가 높고 구조가 복잡해지므로 철저한 학습이 필요합니다.)
+El simple hecho de especificar `Usar OpenZeppelin` en tu prompt eleva la tasa de supervivencia de tu código a más del 99%. Además, incluso si la IA verifica que el código es perfecto, no confíes ciegamente. Es imperativo ejecutar una cantidad masiva de código de prueba para diferentes escenarios y verificar personalmente en una red de prueba (Testnet) que no haya efectos secundarios inesperados al integrarlo con el frontend.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🙋 Preguntas Frecuentes (FAQ) {#faq}
 
-1.  **'최고의 감사관(Auditor)' 페르소나 주입:** AI를 단순한 코드 생성기가 아닌 '보안 감사관'으로 명명하여, 단순히 기능이 동작하는지가 아니라 악의적인 공격을 어떻게 방어할 것인지에 대한 '방어적 프로그래밍(Defensive Programming)'에 역량을 집중하도록 유도했습니다.
-2.  **구체적인 해킹 벡터 지목:** '재진입 공격(Re-entrancy)', '프론트 러닝' 등 블록체인 생태계의 실제적이고 대표적인 해킹 기법을 프롬프트에 직접 타겟팅함으로써, AI가 해당 취약점에 대한 코드 검열 우선순위를 최고 수준으로 끌어올렸습니다.
-3.  **검증 가능성(Test) 요구:** 취약점을 텍스트로만 나열하는 것에 그치지 않고, 이를 실제로 증명할 수 있는 '테스트 코드(Hardhat/Foundry)' 생성을 의무화했습니다. 이는 인간 개발자가 로컬 환경에서 취약점이 완전히 해결되었음을 눈으로 직접 확인할 수 있게 만듭니다.
+- **P: Quiero probar el despliegue del contrato yo mismo, pero el costo del gas (Ethereum) es muy alto. ¿Hay alguna forma de hacerlo gratis?**
+  - R: Desplegar directamente en la mainnet conlleva costos y riesgos enormes. Durante las fases de desarrollo y verificación, el estándar es utilizar una **Testnet** como `Sepolia` o `Holesky`. A través de sitios web conocidos como Faucets (grifos), puedes obtener Ethereum falso de prueba de forma gratuita y realizar despliegues y pruebas ilimitadas en un entorno 100% idéntico a la mainnet real.
+
+- **P: Descubrí un error realmente crítico después del despliegue. ¿No hay ninguna puerta trasera para sobrescribir o parchear el código como en una actualización de servidor?**
+  - R: Debido a la 'inmutabilidad', que es la filosofía central de la blockchain, el código de un smart contract en sí mismo nunca puede ser modificado una vez desplegado. Sin embargo, en la práctica, esto se elude introduciendo una estructura de **Contrato Actualizable (Patrón Proxy)**. Al separar el contrato que almacena los datos (Storage) del contrato que procesa la lógica (Logic), si ocurre un error, solo se cambia la dirección de conexión del contrato de lógica, realizando efectivamente una actualización tipo parche. Si le pides a la IA: "Diseña un contrato actualizable aplicando el patrón Proxy", te guiará sobre cómo implementarlo. (Pero ten en cuenta que la dificultad es alta y la estructura se vuelve compleja, por lo que requiere un estudio exhaustivo).
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?) {#why-it-works}
 
-### ❌ Before (단순 구현에만 급급한 위험천만한 코드)
+1.  **Inyección de la Persona 'Mejor Auditor' (Auditor):** Al nombrar a la IA no solo como un generador de código, sino como un 'auditor de seguridad', inducimos a que enfoque sus capacidades en la 'programación defensiva' (Defensive Programming), centrándose en cómo defenderse de ataques maliciosos y no solo en si la función se ejecuta.
+2.  **Señalamiento de Vectores de Hackeo Específicos:** Al apuntar directamente en el prompt a técnicas de hackeo reales y representativas del ecosistema blockchain, como 'Re-entrancy' y 'Front-running', elevamos al máximo nivel la prioridad de la IA para auditar esas vulnerabilidades en el código.
+3.  **Exigencia de Verificabilidad (Test):** No nos limitamos a enumerar vulnerabilidades en texto, sino que obligamos a generar 'código de prueba (Hardhat/Foundry)' que pueda demostrarlas en la práctica. Esto permite que el desarrollador humano verifique visualmente y de forma directa en su entorno local que la vulnerabilidad se ha resuelto por completo.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Código peligroso enfocado solo en la implementación simple)
 
 ```solidity
-// 치명적인 재진입 공격(Re-entrancy) 취약점이 도사리고 있는 출금 함수
+// Función de retiro que esconde una vulnerabilidad crítica de ataque de reentrada (Re-entrancy)
 function withdraw(uint _amount) public {
-    require(balances[msg.sender] >= _amount, "Insufficient balance");
+    require(balances[msg.sender] >= _amount, "Saldo insuficiente");
 
-    // 이더(Ether)를 먼저 외부로 송금함 (해커가 악성 fallback 함수로 이 지점에서 무한 재진입 가능)
+    // Envía Ether al exterior primero (Un hacker puede reingresar infinitamente en este punto con una función fallback maliciosa)
     (bool success, ) = msg.sender.call{value: _amount}("");
-    require(success, "Transfer failed");
+    require(success, "Transferencia fallida");
 
-    // 송금이 끝난 후에야 유저 잔고를 깎음 (이미 돈은 다 털린 후임!)
+    // Reduce el saldo del usuario solo después de que finaliza la transferencia (¡El dinero ya fue robado!)
     balances[msg.sender] -= _amount;
 }
 ```
 
-### ✅ After (AI 감사를 통과한 철통 방어 코드) {#ai}
+### ✅ Después (Código blindado que pasó la auditoría de IA) {#ai}
 
 ```solidity
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
-// OpenZeppelin의 검증된 ReentrancyGuard 상속
+// Hereda ReentrancyGuard verificado de OpenZeppelin
 contract SecureVault is ReentrancyGuard {
 
-    // ... 상태 변수 등 생략 ...
+    // ... variables de estado, etc. omitidas ...
 
-    // nonReentrant 수식어를 통한 재진입 원천 차단 및 CEI 디자인 패턴 엄격 적용
+    // Bloqueo absoluto de reentradas mediante el modificador nonReentrant y aplicación estricta del patrón de diseño CEI
     function withdraw(uint _amount) public nonReentrant {
-        require(balances[msg.sender] >= _amount, "Insufficient balance");
+        require(balances[msg.sender] >= _amount, "Saldo insuficiente");
 
-        // 1. 상태 변경 우선 (Checks-Effects-Interactions 패턴의 핵심)
+        // 1. Prioriza el cambio de estado (El núcleo del patrón Checks-Effects-Interactions)
         balances[msg.sender] -= _amount;
 
-        // 2. 외부 호출(송금)은 모든 내부 상태 변경이 끝난 가장 마지막에 안전하게 실행
+        // 2. La llamada externa (transferencia) se ejecuta de forma segura al final, después de que terminen todos los cambios de estado internos
         (bool success, ) = msg.sender.call{value: _amount}("");
-        require(success, "Transfer failed");
+        require(success, "Transferencia fallida");
     }
 }
 ```
 
 ---
 
-## 🎯 결론 {#conclusion}
+## 🎯 Conclusión {#conclusion}
 
-블록체인 세상에서는 **"코드가 곧 법(Code is Law)"**입니다.
-법전에 치명적인 허점이 있다면, 아무리 선량한 유저의 자산이라도 '합법적(?)'으로 해커에게 탈취당하게 됩니다.
+En el mundo blockchain, **"el código es la ley" (Code is Law)**.
+Si hay una falla crítica en la ley, los activos de los usuarios, por muy inocentes que sean, serán "legalmente(?)" arrebatados por los hackers.
 
-메인넷 배포 버튼을 누르기 전, 냉혹하고 깐깐한 AI 판사님께 당신의 코드를 샅샅이 검사받으세요.
-수번의 교차 검증을 거친 당신의 코드가 수많은 유저의 **디지털 자산**을 완벽하게 수호하는 견고한 금고가 되기를 바랍니다. 🍷
+Antes de presionar el botón de despliegue en la mainnet, deja que un juez de IA implacable y meticuloso inspeccione a fondo tu código.
+Espero que tu código, después de múltiples verificaciones cruzadas, se convierta en una caja fuerte impenetrable que proteja perfectamente los **activos digitales** de innumerables usuarios. 🍷

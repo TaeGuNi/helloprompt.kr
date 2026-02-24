@@ -5,131 +5,131 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "복잡한 데이터 파이프라인(ETL), 코딩하느라 밤새지 마세요. Airflow DAG 코드를 1분 만에 자동 완성하는 AI 프롬프트를 공개합니다."
+description: "Olvídate de pasar la noche programando complejos pipelines de datos (ETL). Descubre el prompt de IA que autocompleta código DAG de Airflow en 1 minuto."
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 ---
 
-# 🌪️ 데이터 파이프라인(ETL): Airflow DAG 작성 자동화
+# 🌪️ Pipeline de Datos (ETL): Automatización de Creación de DAGs en Airflow
 
-- **🎯 추천 대상:** 매일 새벽 크론탭(Crontab) 에러로 잠 못 이루는 데이터 엔지니어, 스파게티처럼 꼬인 배치 작업을 우아하게 관리하고 싶은 백엔드 개발자
-- **⏱️ 소요 시간:** 2시간 → 1분 단축
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (복잡한 파이썬 로직 및 의존성 관리에 탁월)
+- **🎯 Recomendado para:** Ingenieros de datos que no pueden dormir por errores nocturnos de crontab, y desarrolladores backend que desean gestionar elegantemente trabajos por lotes enredados como espaguetis.
+- **⏱️ Tiempo estimado:** 2 horas → Reducido a 1 minuto
+- **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (Excelentes para la lógica compleja de Python y la gestión de dependencias)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"A 작업 끝나면 B 실행하고, B가 실패하면 C로 폴백해. 아, 주말과 공휴일엔 돌리지 말고." 이 복잡한 워크플로우를 아직도 쉘 스크립트와 크론탭으로 버티고 계신가요?_
+> _"Ejecuta B cuando A termine, y si B falla, haz un fallback a C. Ah, y no lo ejecutes los fines de semana ni festivos". ¿Sigues soportando este complejo flujo de trabajo con scripts de shell y crontab?_
 
-데이터 엔지니어링의 꽃, ETL 파이프라인 구축은 논리의 싸움입니다. Apache Airflow는 이 복잡한 흐름을 DAG(Directed Acyclic Graph)라는 코드로 시각화하고 제어하게 해주는 강력한 도구죠. 하지만 매번 `Operator`를 수동으로 연결하고 재시도(Retry) 로직을 짜는 것은 지루한 반복 작업입니다.
+La construcción de pipelines ETL, la joya de la corona de la ingeniería de datos, es una batalla de lógica. Apache Airflow es una poderosa herramienta que te permite visualizar y controlar este flujo complejo mediante código llamado DAG (Directed Acyclic Graph). Sin embargo, conectar manualmente los `Operator` y programar la lógica de reintento (Retry) cada vez es una tarea repetitiva y tediosa.
 
-이제 AI에게 **"순서도(Flowchart)"**와 **"조건"**만 말해주세요. 복잡한 파이프라인 코드가 단 1분 만에 완성됩니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Extract (추출):** 데이터 소스(DB, API)와 접근 방식을 명확히 지시합니다.
-2. **Transform (변환):** 비즈니스 로직(필터링, 조인, 정제)을 단계별로 설명합니다.
-3. **Load (적재):** 최종 데이터가 저장될 타겟(S3, BigQuery)과 적재 방식을 정의합니다.
+Ahora, simplemente dile a la IA el **"Diagrama de flujo (Flowchart)"** y las **"Condiciones"**. El complejo código del pipeline estará listo en solo 1 minuto.
 
 ---
 
-## 🚀 해결책: "DAG Generator Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Extract (Extracción):** Indica claramente la fuente de datos (DB, API) y el método de acceso.
+2. **Transform (Transformación):** Explica paso a paso la lógica de negocio (filtrado, uniones, limpieza).
+3. **Load (Carga):** Define el destino final donde se almacenarán los datos (S3, BigQuery) y el método de carga.
 
-단순한 스케줄링과 단일 작업을 자동화할 때 사용하세요.
+---
 
-> **역할:** 너는 데이터 엔지니어 파이썬 봇이야.
-> **요청:** 매일 아침 6시(KST)에 MySQL DB를 덤프 떠서 S3 버킷에 업로드하는 Airflow DAG 코드를 작성해줘. `BashOperator`를 사용하고, 실패 시 2번 재시도하도록 설정해.
+## 🚀 Solución: "Prompt Generador de DAGs"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsalo cuando necesites automatizar rápidamente una programación simple y una tarea única.
+
+> **Rol:** Eres un bot ingeniero de datos experto en Python.
+> **Tarea:** Escribe el código de un DAG de Airflow que realice un volcado (dump) de una base de datos MySQL y lo suba a un bucket de S3 todos los días a las 6:00 AM (KST). Utiliza `BashOperator` y configúralo para que lo intente 2 veces en caso de fallo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-복잡한 의존성 관리, 분기 처리, 슬랙 알림 등 프로덕션 레벨의 파이프라인을 구축할 때 사용하세요.
+Úsalo para construir pipelines a nivel de producción, gestionando dependencias complejas, bifurcaciones y notificaciones de Slack.
 
-> **역할 (Role):** 너는 대용량 트래픽을 다루는 10년 차 시니어 데이터 엔지니어야.
+> **Rol (Role):** Eres un ingeniero de datos senior con 10 años de experiencia manejando tráfico masivo.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 매일 자정에 여러 소스에서 데이터를 모아 데이터 웨어하우스에 적재하는 ETL 파이프라인을 구축해야 해.
-> - 목표: 장애 발생 시 즉각 대응할 수 있는 견고한 Airflow DAG 코드를 작성하는 것.
+> - Fondo: Necesito construir un pipeline ETL que recoja datos de múltiples fuentes cada medianoche y los cargue en un Data Warehouse.
+> - Objetivo: Escribir un código de DAG de Airflow robusto que permita una respuesta inmediata en caso de fallos.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 다음 흐름에 따라 Airflow DAG 파이프라인 코드를 작성해 줘. 괄호 `[ ]` 안의 변수는 코드를 생성할 때 내가 입력한 값으로 채워 넣을 수 있도록 주석으로 가이드를 달아줘.
+> Escribe el código del pipeline de DAG de Airflow siguiendo este flujo. Añade comentarios guiando sobre cómo rellenar las variables entre corchetes `[ ]` con los valores que yo introduzca al generar el código.
 >
-> 1. **[Task A]**: 외부 API에서 `[데이터 주제(예: 환율 정보)]`를 가져온다. (`PythonOperator` 사용)
-> 2. **[Task B]**: (A 성공 시) 가져온 데이터를 정제하여 `[파일 포맷(예: Parquet)]`으로 `[중간 스토리지(예: S3)]`에 저장한다. (데이터 처리가 무거우면 `KubernetesPodOperator` 할당)
-> 3. **[Task C]**: (B 성공 시) `[중간 스토리지]`의 데이터를 `[데이터 웨어하우스(예: Redshift)]`에 적재한다.
-> 4. **[Task D]**: (A, B, C 중 하나라도 실패 시) `[알림 채널(예: Slack)]`을 통해 에러 메시지와 실패한 태스크 이름을 전송한다. (`on_failure_callback` 사용)
+> 1. **[Task A]**: Obtener `[Tema de los datos (ej: información de tipos de cambio)]` de una API externa. (Usa `PythonOperator`)
+> 2. **[Task B]**: (Si A tiene éxito) Limpiar los datos obtenidos y guardarlos en `[Formato de archivo (ej: Parquet)]` en `[Almacenamiento intermedio (ej: S3)]`. (Si el procesamiento de datos es pesado, asigna `KubernetesPodOperator`)
+> 3. **[Task C]**: (Si B tiene éxito) Cargar los datos del `[Almacenamiento intermedio]` en el `[Data Warehouse (ej: Redshift)]`.
+> 4. **[Task D]**: (Si A, B o C fallan) Enviar un mensaje de error y el nombre de la tarea fallida a través del `[Canal de notificación (ej: Slack)]`. (Usa `on_failure_callback`)
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - **재시도 (Retry):** 실패 시 `[재시도 간격]`분 간격으로 `[재시도 횟수]`번 재시도하도록 `default_args`에 설정해 줘.
-> - **멱등성 (Idempotency):** 언제 재실행하더라도 동일한 결과를 보장하도록 `execution_date` 파라미터를 철저히 활용해서 코드를 짜.
-> - **코드 스타일:** PEP-8을 준수하고, 태스크 간 의존성(`>>`, `<<`)을 하단에 명확하게 표현해.
+> - **Reintentos (Retry):** En caso de fallo, configura `default_args` para reintentar `[Número de reintentos]` veces con un intervalo de `[Intervalo de reintento]` minutos.
+> - **Idempotencia (Idempotency):** Escribe el código utilizando estrictamente el parámetro `execution_date` para garantizar el mismo resultado sin importar cuándo se vuelva a ejecutar.
+> - **Estilo de código:** Cumple con PEP-8 y expresa claramente las dependencias entre tareas (`>>`, `<<`) en la parte inferior.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - deprecated된 Airflow 1.x 문법은 절대 사용하지 마. 반드시 Airflow 2.x 최신 기준으로 작성해.
+> - Nunca utilices la sintaxis obsoleta de Airflow 1.x. Asegúrate de escribirlo basándote en la última versión de Airflow 2.x.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-Airflow DAG를 설계할 때 가장 중요한 핵심은 바로 **'멱등성(Idempotency)'**입니다. 어제 실패한 배치를 오늘 다시 돌렸을 때, 데이터가 중복으로 쌓이거나 꼬이면 안 됩니다. AI에게 코드를 요구할 때 "멱등성을 보장하도록 `execution_date`(혹은 `data_interval_start`) 파라미터를 활용해 줘"라고 명시하는 것만으로도, 주니어 수준의 스크립트가 시니어 수준의 견고한 파이프라인 코드로 탈바꿈합니다.
+El núcleo más importante al diseñar un DAG de Airflow es la **'Idempotencia (Idempotency)'**. Si vuelves a ejecutar hoy un lote que falló ayer, los datos no deben duplicarse ni enredarse. Con solo especificar a la IA "Utiliza el parámetro `execution_date` (o `data_interval_start`) para garantizar la idempotencia" al solicitar el código, un script de nivel junior se transforma en un código de pipeline robusto de nivel senior.
 
-또한, 태스크별로 적절한 Operator(`PythonOperator`, `BashOperator`, `KubernetesPodOperator` 등)를 명확히 지정해주면 인프라 리소스 낭비도 획기적으로 막을 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 저희 팀은 커스텀 Operator를 많이 쓰는데, 이것도 AI가 짜줄 수 있나요?**
-  - A: 네, 가능합니다. 프롬프트의 상황(Context) 섹션에 커스텀 Operator의 작동 방식이나 필요한 파라미터 구조를 간단히 설명해 주면, AI가 해당 형태에 맞춰 DAG를 구성해 줍니다.
-
-- **Q: Airflow 설치부터 막막합니다.**
-  - A: 로컬 환경이라면 `docker-compose`로 구성하는 것이 가장 깔끔합니다. AI에게 "Airflow 2.x 로컬 테스트를 위한 최적의 docker-compose.yaml 파일을 만들어줘"라고 요청해 보세요.
-
-- **Q: 실시간 스트리밍 데이터 처리도 Airflow로 짜달라고 해도 되나요?**
-  - A: Airflow는 철저히 **배치(Batch)** 중심의 스케줄러입니다. 1분 미만의 실시간 처리가 필요하다면 Airflow 대신 Apache Kafka나 Flink 구조를 묻는 것이 올바른 아키텍처 설계입니다.
+Además, si especificas claramente el Operator adecuado (`PythonOperator`, `BashOperator`, `KubernetesPodOperator`, etc.) para cada tarea, puedes evitar drásticamente el desperdicio de recursos de infraestructura.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **명확한 의존성 정의 (Dependency):** "A 성공 시 B, 실패 시 D"와 같은 워크플로우 시나리오를 구체적으로 묘사하여, AI가 `A >> B >> C`, `[A, B, C] >> D` 형태의 DAG 논리 연산자를 완벽히 구현하도록 유도했습니다.
-2. **운영 환경 고려 (Constraints):** 재시도(Retry), 알림(Alert), 멱등성(Idempotency) 등 실제 프로덕션 환경에서 반드시 필요한 제약 조건을 명시하여 코드의 안정성을 극대화했습니다.
-3. **버전 고정 (Warning):** 오픈소스 특성상 버전업에 따른 문법 변화가 큽니다. Airflow 2.x 기준이라는 제약을 두어 레거시 코드가 생성되는 오류를 사전에 차단했습니다.
+- **P: Mi equipo usa muchos Operator personalizados, ¿puede la IA programar esto también?**
+  - R: Sí, es posible. Si explicas brevemente cómo funciona el Operator personalizado o la estructura de parámetros necesaria en la sección de Contexto (Context) del prompt, la IA configurará el DAG de acuerdo con ese formato.
+
+- **P: No sé por dónde empezar con la instalación de Airflow.**
+  - R: Si es un entorno local, configurarlo con `docker-compose` es lo más limpio. Pídele a la IA: "Crea el archivo docker-compose.yaml óptimo para pruebas locales de Airflow 2.x".
+
+- **P: ¿Puedo pedirle a Airflow que procese datos en streaming en tiempo real?**
+  - R: Airflow es estrictamente un programador centrado en **lotes (Batch)**. Si necesitas procesamiento en tiempo real de menos de 1 minuto, el diseño de arquitectura correcto sería preguntar por la estructura de Apache Kafka o Flink en lugar de Airflow.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (Why it works?)
 
-### ❌ Before (기존 방식: 쉘 스크립트와 Crontab)
+1. **Definición Clara de Dependencias (Dependency):** Al describir específicamente escenarios de flujo de trabajo como "B si A tiene éxito, D si falla", inducimos a la IA a implementar perfectamente los operadores lógicos del DAG en forma de `A >> B >> C`, `[A, B, C] >> D`.
+2. **Consideración del Entorno Operativo (Constraints):** Maximizamos la estabilidad del código al especificar restricciones que son absolutamente necesarias en un entorno de producción real, como Reintentos (Retry), Alertas (Alert) e Idempotencia (Idempotency).
+3. **Fijación de Versión (Warning):** Debido a la naturaleza del código abierto, hay grandes cambios de sintaxis con las actualizaciones de versión. Al establecer la restricción de usar el estándar Airflow 2.x, evitamos de antemano el error de generar código heredado.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Método tradicional: Scripts de Shell y Crontab)
 
 ```bash
-# 에러가 나도 조용히 죽음, 재시도 불가, 과거 데이터 재처리(Backfill) 지옥
+# Muere silenciosamente incluso si hay un error, sin reintentos, el infierno del reprocesamiento de datos pasados (Backfill)
 0 6 * * * /path/to/backup_script.sh
 30 6 * * * /path/to/transform_script.sh
 0 7 * * * /path/to/load_script.sh
 ```
 
-### ✅ After (AI가 작성한 Airflow 파이프라인 로직)
+### ✅ Después (Lógica de pipeline de Airflow escrita por IA)
 
 ```python
-# 실패 시 슬랙 알림, 자동 재시도, 직관적인 UI 모니터링 지원
+# Alertas de Slack en caso de fallo, reintentos automáticos, soporte de monitorización de UI intuitiva
 task_extract >> task_transform >> task_load
 [task_extract, task_transform, task_load] >> task_slack_alert
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-흩어져 있는 데이터는 그저 쓰레기 더미에 불과하지만, 튼튼한 파이프라인을 타고 흐르는 데이터는 강력한 **비즈니스 자산**이 됩니다.
+Los datos dispersos son solo un montón de basura, pero los datos que fluyen a través de un pipeline robusto se convierten en un **activo empresarial** poderoso.
 
-더 이상 스파게티처럼 꼬인 의존성과 밤샘 에러 수정에 시달리지 마세요. AI와 함께 견고한 데이터 파이프라인을 단숨에 구축하고, 두 다리 뻗고 편안하게 주무시길 바랍니다! 🍷
+Ya no sufras más por dependencias enredadas como espaguetis y arreglando errores toda la noche. ¡Construye un pipeline de datos robusto de una vez con la IA y duerme tranquilo con las piernas estiradas! 🍷

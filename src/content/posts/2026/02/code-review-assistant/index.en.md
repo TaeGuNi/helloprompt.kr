@@ -5,160 +5,161 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발"
-description: "사수 없이 일하는 주니어 개발자를 위한 완벽한 AI 코드 리뷰어 프롬프트 가이드입니다."
+description: "A perfect AI code reviewer prompt guide for junior developers working without a mentor."
 tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 ---
 
-# 📝 AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)
+# 📝 Find the Holes in Your Code with AI! (Bug Hunter)
 
-- **🎯 추천 대상:** 사수 없이 홀로 분투하는 주니어 개발자, 자신의 코드가 배포 전 불안한 실무자
-- **⏱️ 소요 시간:** 디버깅 3시간 → 10분으로 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (코드 분석 최강자), ChatGPT (GPT-4o)
+- **🎯 Recommended for:** Junior developers struggling without a mentor, professionals anxious before deployment
+- **⏱️ Time Required:** 3 hours of debugging → Reduced to 10 minutes
+- **🤖 Recommended AI:** Claude 3.5 Sonnet (Best for code analysis), ChatGPT (GPT-4o)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"내 PC에서는 잘 돌아가는데... 실서버에 올리면 터지지 않을까?"_
+> _"It works fine on my local machine... but will it crash in production?"_
 
-혼자 코딩하다 보면 '내가 뭘 모르는지조차 모르는' 무서운 맹점에 빠지기 쉽습니다. 작동은 하지만 속도가 느리거나, 해킹에 취약하거나, 남이 읽기 힘든 스파게티 코드일 수 있죠.
-이제 24시간 지치지 않는 구글 수석 엔지니어급 AI 리뷰어에게 당신의 코드를 검사받으세요. 잠재적인 버그부터 비효율적인 로직, 치명적인 보안 취약점까지 날카롭게 짚어줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 코드를 무작정 던지지 말고, AI에게 **구글 수석 엔지니어**라는 명확한 페르소나를 부여하세요.
-2. 단순히 "리뷰해 줘"가 아니라 버그, 보안, 가독성, 성능의 **4가지 검토 기준**을 명시하세요.
-3. AI의 제안(Refactoring)을 맹신하지 말고, 변경된 이유를 주석으로 설명받아 스스로 검증하고 학습하세요.
+When coding alone, it’s easy to fall into the terrifying blind spot of "not knowing what you don't know." The code might work, but it could be sluggish, vulnerable to hacks, or an unreadable spaghetti mess.
+Now, you can have your code reviewed by a tireless, Google-level Senior Engineer AI, available 24/7. It sharply identifies everything from potential bugs and inefficient logic to critical security vulnerabilities.
 
 ---
 
-## 🚀 해결책: "AI 코드 리뷰어"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Don't just throw your code at the AI; assign it a clear persona of a **Google Senior Engineer**.
+2. Instead of a vague "review this," explicitly state **four review criteria**: bugs, security, readability, and performance.
+3. Don't blindly trust the AI's refactored code. Ask for comments explaining *why* the changes were made, so you can verify and learn from them.
 
-빠르게 치명적인 문제점만 스캔하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 10년 차 시니어 백엔드/프론트엔드 개발자야.
-> **요청:** 아래 코드에서 치명적인 버그나 당장 개선해야 할 안티 패턴(Anti-pattern)이 있는지 찾아줘.
->
-> ```[언어명]
-> [코드 붙여넣기]
+## 🚀 The Solution: "AI Code Reviewer"
+
+### 🥉 Basic Version
+
+Use this when you need a quick scan for critical issues.
+
+> **Role:** You are a Senior Backend/Frontend Developer with 10 years of experience.
+> **Task:** Review the code below and find any critical bugs or anti-patterns that need immediate improvement.
+> 
+> ```[Language]
+> [Paste your code here]
 > ```
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-코드 품질을 프로덕션(Production) 레벨로 끌어올리고, 객관적인 리팩토링 근거까지 확보할 때 추천합니다.
+Recommended when you want to elevate your code to production-level quality and secure objective reasoning for your refactoring.
 
-> **역할 (Role):** 너는 구글(Google) 출신의 15년 차 수석 소프트웨어 엔지니어야. 클린 코드(Clean Code)와 시스템 최적화의 전문가야.
->
-> **상황 (Context):**
->
-> - 언어: `[Python / JavaScript / Java 등]`
-> - 프레임워크: `[React / Spring / Django 등]`
-> - 목적: 이 함수는 `[사용자 로그인 처리 및 세션 관리]`를 담당해.
->
-> **코드 (Input):**
->
-> ```[언어명]
-> [여기에 검토받을 코드를 붙여넣으세요]
+> **Role:** You are a Lead Software Engineer with 15 years of experience, formerly at Google. You are an expert in Clean Code and system optimization.
+> 
+> **Context:**
+> 
+> - Language: `[Python / JavaScript / Java, etc.]`
+> - Framework: `[React / Spring / Django, etc.]`
+> - Purpose: This function is responsible for `[User login processing and session management]`.
+> 
+> **Input Code:**
+> 
+> ```[Language]
+> [Paste the code to be reviewed here]
 > ```
->
-> **요청 (Task):**
-> 다음 4가지 관점에서 내 코드를 엄격하게 리뷰하고, 개선된 전체 코드를 제공해 줘.
->
-> 1. **버그(Bug):** 예외 처리가 누락되었거나 런타임에 발생할 수 있는 잠재적 오류 (Edge cases)
-> 2. **보안(Security):** SQL 인젝션, XSS, CSRF 등 프레임워크 취약점 여부
-> 3. **가독성(Readability):** 변수/함수명 네이밍 규칙, 단일 책임 원칙(SRP) 위배 여부
-> 4. **성능(Performance):** 불필요한 반복문, 시간 복잡도(Big-O) 측면의 병목 구간
->
-> **제약사항 (Constraints):**
->
-> - 개선된 코드를 제시할 때, **왜(Why)** 그렇게 리팩토링했는지 각 변경점마다 주석(`//` 또는 `#`)으로 상세히 설명해.
-> - 기존 비즈니스 로직의 의도를 절대 훼손하지 마.
-> - 외부 라이브러 추가 없이 해당 언어의 내장 기능만으로 최적화해.
->
-> **주의사항 (Warning):**
->
-> - 확실하지 않은 문법이나 Deprecated된 함수를 제안하지 마. 모르면 모른다고 답해.
+> 
+> **Task:**
+> 
+> Strictly review my code from the following 4 perspectives and provide the fully improved code.
+> 
+> 1. **Bug:** Missing exception handling or potential runtime errors (Edge cases).
+> 2. **Security:** Framework vulnerabilities such as SQL Injection, XSS, CSRF, etc.
+> 3. **Readability:** Variable/function naming conventions, violations of the Single Responsibility Principle (SRP).
+> 4. **Performance:** Inefficient loops, bottlenecks in terms of time complexity (Big-O).
+> 
+> **Constraints:**
+> 
+> - When providing the improved code, meticulously explain **why (Why)** you refactored it using inline comments (`//` or `#`) for each change.
+> - Absolutely do not compromise the original intent of the business logic.
+> - Optimize using only built-in features of the language, without adding external libraries.
+> 
+> **Warning:**
+> 
+> - Do not suggest uncertain syntax or deprecated functions. If you don't know, explicitly state that you don't know. (Prevent hallucinations)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트는 제가 신입 시절 "내 코드에 대한 확신이 없을 때" 엄청난 정신적 안정감을 주었던 비장의 무기입니다.
-특히 '보안(Security)'과 '예외 처리(Edge cases)' 항목은 인간의 눈으로 놓치기 쉬운 부분을 AI가 기계적으로 캐치해 주어 대형 사고를 여러 번 막아주었습니다.
-AI가 수정해 준 코드를 그냥 복사해서 붙여넣지 마세요. 제약사항에 `왜(Why) 리팩토링했는지 주석으로 설명해`라는 조건을 넣은 이유는, AI의 리뷰를 통해 여러분 스스로가 시니어의 시야를 학습하기 위함입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 회사 프로젝트의 전체 코드를 통째로 복사해서 줘도 되나요?**
-  - A: **절대 안 됩니다!** 회사 코드 외부 유출은 중대한 보안 위반입니다. API Key, DB 비밀번호, 회사의 핵심 비즈니스 로직은 반드시 `***` 등으로 마스킹(블라인드) 처리한 후, 리뷰가 필요한 최소한의 함수나 클래스 단위로만 잘라서 질문하세요.
-
-- **Q: AI가 완벽한 정답을 주나요? 테스트 안 해봐도 될까요?**
-  - A: AI도 환각(Hallucination)을 겪습니다. 간혹 존재하지 않는 라이브러리를 쓰라고 하거나 문법을 틀리기도 합니다. AI가 제안한 코드는 반드시 로컬 환경에서 테스트 코드를 돌려보고 작동을 검증해야 합니다.
+This prompt was my secret weapon during my junior days, providing immense mental stability whenever I lacked confidence in my code.
+In particular, the 'Security' and 'Edge cases' criteria mechanically catch flaws that human eyes easily miss, saving me from major disasters on several occasions.
+Never just copy and paste the code the AI modified. The reason I included the constraint `explain why you refactored using comments` is to help you internalize the perspective of a senior developer through the AI's review.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **엄격한 페르소나 부여 (Perspective):** '구글 수석 엔지니어'라는 최고 수준의 기준을 강제하여, 적당히 돌아가는 코드가 아닌 '클린 코드' 관점의 피드백을 유도했습니다.
-2. **다면적 평가 기준 (Specific Goals):** 단순히 리뷰해달라고 하면 AI는 표면적인 오타만 잡습니다. 버그, 보안, 가독성, 성능이라는 4가지 명확한 평가 잣대를 주어 입체적인 진단을 내리도록 설계했습니다.
-3. **학습 유도 설계 (Explanation):** 정답 코드만 받으면 실력이 늘지 않습니다. 변경 사유를 주석으로 요구하여, 사용자 스스로 아키텍처를 고민하게 만드는 튜터링(Tutoring) 효과를 노렸습니다.
+- **Q: Can I just copy and paste the entire codebase of my company's project?**
+  - A: **Absolutely not!** Leaking company code externally is a severe security violation. You must mask (blind) sensitive information like API Keys, DB passwords, and core business logic with `***`, and only ask about the minimal necessary functions or classes.
+
+- **Q: Does the AI provide the perfect answer? Do I still need to test it?**
+  - A: AI experiences hallucinations too. Sometimes it might suggest using a non-existent library or make syntax errors. You must always run test codes in your local environment to verify the functionality of the AI's suggested code.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (입력: 초보적인 DB 조회 로직)
+1. **Strict Persona Assignment (Perspective):** By enforcing the highest standard of a 'Google Senior Engineer', we prompt feedback from a 'Clean Code' perspective rather than just code that "somehow works."
+2. **Multi-dimensional Evaluation Criteria (Specific Goals):** If you simply ask for a review, the AI might only catch superficial typos. By providing four distinct criteria—bugs, security, readability, and performance—it is engineered to deliver a comprehensive diagnosis.
+3. **Learning-Driven Design (Explanation):** You won't improve your skills if you only receive the correct code. By demanding the reasons for changes as comments, it creates a tutoring effect that forces you to think about the architecture yourself.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input: Novice DB query logic)
 
 ```python
 def get_user_data(user_id):
-    # 사용자가 입력한 id를 그대로 쿼리에 연결 (위험!)
+    # Directly concatenating user input into the query (Dangerous!)
     sql = "SELECT * FROM users WHERE id = '" + user_id + "'"
     cursor.execute(sql)
     return cursor.fetchone()
 ```
 
-### ✅ After (결과: 보안과 가독성이 강화된 로직)
+### ✅ After (Result: Logic with enhanced security and readability)
 
 ```python
 def get_user_data(user_id):
     """
-    특정 사용자 정보를 조회합니다.
+    Retrieves specific user information.
     """
-    # [Security] SQL Injection 방지를 위해 Parameterized Query(바인딩 변수) 사용
-    # [Readability] 쿼리문을 분리하여 가독성 향상
+    # [Security] Use Parameterized Query (binding variable) to prevent SQL Injection
+    # [Readability] Separate the query string to improve readability
     query = "SELECT * FROM users WHERE id = %s"
 
     try:
         cursor.execute(query, (user_id,))
         result = cursor.fetchone()
 
-        # [Bug] 결과가 없을 경우의 예외 처리 추가
+        # [Bug] Add exception handling for cases where there is no result
         if not result:
             return None
 
         return result
 
     except Exception as e:
-        # [Bug] 런타임 에러 로깅 처리 (실제 환경에서는 logger 사용 권장)
+        # [Bug] Runtime error logging (Using a logger is recommended in a real environment)
         print(f"Database error occurred: {e}")
         return None
 ```
 
-**리뷰 요약:** 사용자의 입력을 쿼리에 직접 결합하면 치명적인 SQL 인젝션 공격에 노출됩니다. 바인딩 변수(`%s`)를 사용하여 보안을 패치했고, DB 조회 실패 시 서비스가 뻗지 않도록 `try-except` 예외 처리를 추가했습니다.
+**Review Summary:** Directly concatenating user input into a query exposes you to fatal SQL injection attacks. Security was patched using binding variables (`%s`), and `try-except` error handling was added to prevent the service from crashing if the DB lookup fails.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-세상에 완벽한 코드는 없지만, 어제보다 더 나은 코드는 만들 수 있습니다.
-나의 코드를 가장 냉정하게, 그리고 가장 친절하게 비판해 줄 AI 사수와 함께 오늘부터 코드의 퀄리티를 높여보세요.
+There is no such thing as perfect code in the world, but you can always write better code than yesterday.
+Start elevating your code quality today with an AI mentor who will criticize your code most objectively, yet most kindly.
 
-이제 마음 편히 칼퇴하세요! 🍷
+Now, you can clock out with peace of mind! 🍷

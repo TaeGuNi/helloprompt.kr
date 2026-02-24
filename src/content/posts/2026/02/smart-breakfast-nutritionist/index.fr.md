@@ -5,130 +5,130 @@ author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "냉장고 파먹기를 도와주는 AI 영양사 프롬프트로 바쁜 아침 15분 만에 건강한 식단을 완성하세요."
+description: "Préparez un petit-déjeuner sain en 15 minutes grâce à ce prompt d'IA nutritionniste qui optimise les restes de votre frigo."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 
-# 🍳 스마트 아침 식단 영양사 (Smart Breakfast Nutritionist)
+# 🍳 Nutritionniste Intelligent pour le Petit-Déjeuner (Smart Breakfast Nutritionist)
 
-- **🎯 추천 대상:** 자취생, 바쁜 직장인, 다이어터
-- **⏱️ 소요 시간:** 10분 → 1분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Recommandé pour :** Étudiants, professionnels occupés, personnes au régime
+- **⏱️ Temps gagné :** 10 minutes → Réduit à 1 minute
+- **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"오늘 아침도 굶으셨나요? 냉장고에 굴러다니는 식재료만으로 15분 만에 완벽한 밸런스의 조식을 만들어 드립니다."_
+> _"Encore sauté le petit-déjeuner ce matin ? Transformez les restes de votre frigo en un repas parfaitement équilibré en seulement 15 minutes."_
 
-바쁜 아침, 건강한 식사를 챙겨 먹기란 쉽지 않습니다. 배달 음식을 시키자니 부담스럽고, 직접 요리하자니 시간과 메뉴 고민이 앞섭니다. 냉장고 문을 열어봐도 남은 재료로 뭘 만들 수 있을지 막막하기만 하죠. 이제 AI 영양사에게 남은 재료만 툭 던져주세요. 영양 밸런스까지 완벽하게 맞춘 초간단 아침 식단이 단 1분 만에 완성됩니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 냉장고에 남은 자투리 재료를 활용해 식비와 음식물 쓰레기를 동시에 줄입니다.
-2. 바쁜 아침에도 15분 이내로 조리 가능한 '초간단 레시피'만 엄선하여 추천받습니다.
-3. 탄단지(탄수화물, 단백질, 지방) 밸런스와 예상 칼로리까지 계산된 건강한 식단을 제공합니다.
+Le matin, la course contre la montre rend difficile la préparation d'un repas sain. Commander à manger est trop cher, et cuisiner soi-même demande du temps et de l'inspiration. Même en ouvrant le réfrigérateur, il est souvent difficile de savoir quoi faire avec les restes. Désormais, confiez simplement le contenu de votre frigo à votre nutritionniste IA. En une minute chrono, obtenez un menu de petit-déjeuner ultra-rapide et parfaitement équilibré sur le plan nutritionnel.
 
 ---
 
-## 🚀 해결책: "스마트 아침 식단 영양사" 프롬프트
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Zéro gaspillage :** Utilisez les restes de votre réfrigérateur pour réduire à la fois vos dépenses alimentaires et le gaspillage.
+2. **Gain de temps :** Obtenez des suggestions de recettes ultra-simples, réalisables en moins de 15 minutes, idéales pour les matins pressés.
+3. **Équilibre nutritionnel :** Profitez d'un menu sain avec un calcul précis des calories et un équilibre parfait des macronutriments (glucides, protéines, lipides).
 
-빠르게 메뉴 아이디어만 얻고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 창의적인 요리사야.
-> **요청:** 내 냉장고에 `[계란 2개, 식빵 1장, 방울토마토]`가 있어. 이걸로 15분 안에 만들 수 있는 아침 메뉴 3개만 추천해줘.
+## 🚀 La Solution : Prompt "Smart Breakfast Nutritionist"
+
+### 🥉 Version Basique (Basic Version)
+
+À utiliser lorsque vous avez besoin d'une idée de menu rapide.
+
+> **Rôle :** Tu es un chef cuisinier créatif.
+> **Tâche :** Dans mon frigo, j'ai `[2 œufs, 1 tranche de pain de mie, des tomates cerises]`. Recommande-moi 3 menus de petit-déjeuner que je peux préparer en 15 minutes avec ces ingrédients.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro (Pro Version)
 
-정확한 영양 성분 분석과 레시피, 그리고 칼로리 계산까지 한 번에 필요할 때 사용하세요.
+À utiliser lorsque vous avez besoin d'une analyse nutritionnelle précise, d'une recette détaillée et d'un calcul calorique complet.
 
-> **역할 (Role):** 너는 10년 경력의 전문 임상 영양사이자 5성급 호텔의 브런치 셰프야.
+> **Rôle (Role) :** Tu es un diététicien clinicien avec 10 ans d'expérience clinique et un chef spécialisé dans les brunchs pour un hôtel 5 étoiles.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 바쁜 출근 준비 시간(아침)이며, 빠르고 간편하면서도 건강한 식사를 원해.
-> - 목표: 냉장고에 남은 재료를 최대한 활용하여 영양가 높은 아침 식단을 구성하는 것.
+> - Contexte : C'est le matin, je me prépare pour aller travailler et je suis pressé. Je veux un repas rapide, facile mais sain.
+> - Objectif : Créer un petit-déjeuner très nutritif en utilisant au maximum les restes de mon réfrigérateur.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. 내가 제시한 `[냉장고 재료]`를 활용하여 만들 수 있는 아침 식사 메뉴 3가지를 추천해줘.
-> 2. 각 메뉴는 반드시 15분 이내로 완성할 수 있는 초간단 레시피여야 해.
-> 3. 탄수화물, 단백질, 지방의 균형을 고려한 영양 분석을 포함해줘.
-> 4. `[추가 옵션]`에 있는 조미료와 도구는 기본적으로 갖추고 있다고 가정해.
+> 1. Recommande-moi 3 menus de petit-déjeuner réalisables avec les `[Ingrédients du frigo]` que je te fournis.
+> 2. Chaque menu doit impérativement être une recette ultra-simple, réalisable en moins de 15 minutes.
+> 3. Inclus une analyse nutritionnelle tenant compte de l'équilibre entre les glucides, les protéines et les lipides.
+> 4. Pars du principe que je possède déjà les assaisonnements et les ustensiles listés dans les `[Options supplémentaires]`.
 >
-> **입력 변수 (Variables):**
+> **Variables (Variables) :**
 >
-> - `[냉장고 재료]`: 계란 2개, 시금치 한 줌, 식빵 1장, 슬라이스 치즈 1장, 방울토마토 5개 (여기에 실제 재료를 입력하세요)
-> - `[추가 옵션]`: 소금, 후추, 올리브유, 버터, 에어프라이어, 전자레인지
+> - `[Ingrédients du frigo]` : 2 œufs, une poignée d'épinards, 1 tranche de pain de mie, 1 tranche de fromage, 5 tomates cerises (Remplacez ceci par vos vrais ingrédients)
+> - `[Options supplémentaires]` : Sel, poivre, huile d'olive, beurre, friteuse à air (Air Fryer), micro-ondes
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 구하기 힘든 특수 식재료나 복잡한 조리법은 절대 사용하지 마.
-> - 현실적으로 아침에 시도할 수 있는 수준으로만 답변해.
-> - 출력 형식은 아래 형식을 엄격하게 지켜서 마크다운으로 작성해.
+> - N'utilise absolument aucun ingrédient difficile à trouver ni aucune technique de cuisson complexe.
+> - Propose uniquement des recettes réalistes et réalisables un matin de semaine.
+> - Respecte strictement le format de sortie ci-dessous et rédige ta réponse en Markdown.
 >
-> **출력 형식 (Format):**
+> **Format de sortie (Format) :**
 >
-> - **메뉴명:** (입맛을 돋우는 창의적인 이름)
-> - **조리 시간:** (15분 이내)
-> - **간단 레시피:** (3단계 이내로 직관적으로 설명)
-> - **영양 정보:** (예상 총 칼로리 및 주요 영양소 비율)
+> - **Nom du menu :** (Un nom créatif et appétissant)
+> - **Temps de préparation :** (Moins de 15 minutes)
+> - **Recette simple :** (Explication claire et intuitive en 3 étapes maximum)
+> - **Informations nutritionnelles :** (Estimation du total calorique et de la répartition des macronutriments)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'avis de l'expert (Insight)
 
-이 프롬프트는 단순한 레시피 추천을 넘어, '시간 제한(15분)'과 '영양 밸런스'라는 구체적인 제약 조건을 둠으로써 실생활에서의 활용도를 극대화했습니다. 다이어트 중이라면 프롬프트 변수에 `[목표: 300kcal 이하 저탄고지 식단]`을 추가해 보세요. 식비 절약은 물론, 매일 아침 "오늘 뭐 먹지?"를 고민하는 결정 피로(Decision Fatigue)를 획기적으로 줄여줄 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 밥과 국 같은 한국식 식단으로도 추천받을 수 있나요?**
-  - A: 네, 물론입니다! 입력 변수의 재료를 김치, 찌개용 두부, 참치캔 등으로 변경하고, 상황(Context)에 "따뜻하고 든든한 한식 위주로 구성해줘"라고 추가하시면 훌륭한 한식 밥상을 추천해 줍니다.
-
-- **Q: 매일 다른 메뉴를 먹고 싶은데, AI가 자꾸 비슷한 것만 추천해요.**
-  - A: 프롬프트 제약사항 부분에 "어제는 계란 프라이를 먹었으니, 계란이 주재료인 요리는 제외해 줘"와 같이 이전 식단을 미리 알려주면 메뉴가 겹치는 것을 쉽게 방지할 수 있습니다.
+Ce prompt va bien au-delà d'une simple recommandation de recette. En imposant des contraintes spécifiques comme la "limite de temps (15 minutes)" et "l'équilibre nutritionnel", il maximise son utilité au quotidien. Si vous êtes au régime, essayez d'ajouter `[Objectif : Repas cétogène de moins de 300 kcal]` dans les variables du prompt. Cela vous fera non seulement économiser de l'argent sur vos courses, mais réduira également de manière drastique la fatigue décisionnelle ("Que vais-je manger aujourd'hui ?") qui pèse sur vos matins.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1. **페르소나 융합 (Role):** '임상 영양사(건강 및 칼로리)'와 '호텔 셰프(맛과 창의성)'라는 두 가지 전문가 페르소나를 결합하여 맛과 영양을 동시에 충족시키는 퀄리티 높은 답변을 유도했습니다.
-2. **명확한 제약 조건 (Constraints):** '15분 이내', '3단계 조리법' 등 구체적인 제한을 걸어, 아침 시간에 시도조차 할 수 없는 복잡한 레시피가 나오는 환각(Hallucination) 현상을 원천 차단했습니다.
+- **Q : Puis-je obtenir des recommandations pour un petit-déjeuner traditionnel français ou européen ?**
+  - R : Absolument ! Modifiez simplement les ingrédients dans les variables (ex: baguette, jambon, fromage blanc) et ajoutez dans le Contexte : "Propose-moi un petit-déjeuner typiquement français, réconfortant et équilibré". L'IA adaptera parfaitement ses suggestions.
+
+- **Q : Je veux manger un menu différent chaque jour, mais l'IA me recommande souvent la même chose.**
+  - R : Vous pouvez facilement éviter les répétitions en ajoutant une instruction dans les Contraintes. Par exemple : "J'ai mangé des œufs au plat hier, exclus toute recette dont l'œuf est l'ingrédient principal."
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Décryptage du prompt (Why it works?)
 
-### ❌ Before (일반적인 질문)
+1. **Fusion de Personas (Role) :** En combinant l'expertise d'un "diététicien clinicien" (pour la santé et les calories) et d'un "chef d'hôtel" (pour le goût et la créativité), le prompt génère une réponse de haute qualité qui satisfait simultanément les papilles et les besoins nutritionnels.
+2. **Contraintes strictes (Constraints) :** Les limites imposées ("moins de 15 minutes", "recette en 3 étapes") préviennent toute "hallucination" de l'IA qui pourrait proposer des plats gastronomiques irréalisables un matin de semaine.
 
-> "나 집에 계란이랑 식빵, 방울토마토 있는데 아침으로 뭐 해 먹어?"
+---
 
-_(AI의 평범한 답변: 프렌치 토스트나 스크램블 에그를 해 드세요. 계란을 풀고...)_ 👉 영양 정보가 없고 조리 시간이 명확하지 않아 실용성이 떨어짐.
+## 📊 Preuve à l'appui : Avant & Après
 
-### ✅ After (Pro 프롬프트 적용 결과)
+### ❌ Avant (Question classique)
 
-> **메뉴명:** 🍅 토마토 시금치 치즈 웜 샌드위치
-> **조리 시간:** 10분
-> **간단 레시피:**
+> "J'ai des œufs, du pain de mie et des tomates cerises chez moi, qu'est-ce que je peux faire pour le petit-déjeuner ?"
+
+_(Réponse typique de l'IA : Faites du pain perdu ou des œufs brouillés. Battez les œufs...)_ 👉 Aucun apport nutritionnel mentionné, un temps de préparation flou : l'utilité pratique est très faible.
+
+### ✅ Après (Résultat avec le prompt Pro)
+
+> **Nom du menu :** 🍅 Sandwich Chaud aux Épinards, Tomates et Fromage Fondant
+> **Temps de préparation :** 10 minutes
+> **Recette simple :**
 >
-> 1. 방울토마토와 시금치를 올리브유에 가볍게 숨이 죽을 정도로만 볶습니다.
-> 2. 계란을 풀어 에그 스크램블을 만들다가 마지막에 치즈를 올려 녹입니다.
-> 3. 구운 식빵 사이에 볶은 야채와 치즈 스크램블을 듬뿍 넣어 완성합니다.
+> 1. Faites revenir légèrement les tomates cerises et les épinards à l'huile d'olive dans une poêle jusqu'à ce qu'ils soient tendres.
+> 2. Battez les œufs pour en faire des œufs brouillés et ajoutez la tranche de fromage à la fin pour la faire fondre.
+> 3. Garnissez généreusement votre tranche de pain de mie grillée avec les légumes sautés et les œufs brouillés au fromage.
 >
-> **영양 정보:** 약 320kcal (탄수화물 35%, 단백질 25%, 지방 40%)
+> **Informations nutritionnelles :** Environ 320 kcal (Glucides 35 %, Protéines 25 %, Lipides 40 %)
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-더 이상 아침마다 열린 냉장고 문 앞에서 서성이지 마세요. 남은 자투리 식재료가 훌륭한 셰프의 조식으로 변하는 마법! 지금 바로 위 프롬프트를 복사해서 AI에게 여러분의 냉장고를 맡겨보세요.
+Ne restez plus planté devant votre réfrigérateur ouvert le matin ! Voyez comment la magie opère en transformant de simples restes en un petit-déjeuner digne d'un grand chef. Copiez immédiatement le prompt ci-dessus et confiez votre frigo à l'IA.
 
-건강하고 든든한 아침 식사로, 오늘도 활기찬 하루 보내시길 바랍니다! 🍳
+Passez une excellente journée remplie d'énergie grâce à un petit-déjeuner sain et copieux ! 🍳

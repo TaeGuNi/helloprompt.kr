@@ -5,146 +5,146 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 마케팅"
-description: "영상 하나 찍고 끝? 유튜브 스크립트를 추출해서 블로그, 인스타그램, 링크드인 게시물로 무한 증식시키는 OSMU 콘텐츠 자동화 전략을 소개합니다."
+description: "Recorded a video and stopped there? Discover the ultimate OSMU (One Source Multi-Use) automation strategy to extract YouTube scripts and endlessly multiply them into SEO blog posts, Instagram carousels, and LinkedIn threads."
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 
-# 📝 유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈)
+# 📝 The Magic of Splitting One YouTube Video into 10 Blog Posts (One Source Multi-Use)
 
-- **🎯 추천 대상:** 유튜브 크리에이터, 브랜드 마케터, 지식 창업가, 1인 기업가
-- **⏱️ 소요 시간:** 4시간 → 20분 (90% 이상 단축)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (긴 글쓰기 및 문맥 파악에 최적화), GPT-4o
+- **🎯 Recommended for:** YouTube Creators, Brand Marketers, Knowledge Entrepreneurs, Solopreneurs
+- **⏱️ Time Required:** 4 hours → 20 minutes (Over 90% reduction)
+- **🤖 Recommended AI:** Claude 3.5 Sonnet (Optimized for long-form writing and context retention), GPT-4o
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"공들여 만든 유튜브 영상, 조회수가 안 나와서 실망하셨나요? 하나의 웰메이드 콘텐츠를 10개의 텍스트로 연성하여 네이버, 구글, 인스타그램, 링크드인을 동시에 장악하는 고수의 '콘텐츠 리퍼포징' 전략을 공개합니다."_
+> _"Disappointed by the low view count on a YouTube video you poured your heart into? Discover the 'Content Repurposing' strategy used by top-tier marketers to transform a single piece of well-made content into 10 distinct text formats, dominating Google, Instagram, and LinkedIn simultaneously."_
 
-콘텐츠 하나를 기획하고 촬영, 편집하는 데 얼마나 많은 피와 땀이 들어가는지 잘 알고 있습니다. 하지만 그 소중한 결과물을 유튜브에만 덩그러니 올리고 알고리즘의 선택만 기다리기엔 너무 아깝지 않나요? 영상의 스크립트(Script)만 있다면, AI를 활용해 SEO에 최적화된 블로그 포스팅, 시선을 사로잡는 인스타그램 카드뉴스, 전문가 포스가 넘치는 링크드인 스레드까지 순식간에 복제해낼 수 있습니다. 이것이 바로 트래픽을 극대화하는 진정한 원소스 멀티유즈(OSMU)입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **대본 추출의 자동화:** 유튜브 기본 기능이나 크롬 확장 프로그램을 통해 영상 스크립트를 1초 만에 텍스트로 추출합니다.
-2. **플랫폼 맞춤형 프롬프트:** 블로그(SEO), 인스타그램(비주얼 요약), 링크드인(인사이트) 등 각 매체의 특성에 맞는 전용 프롬프트를 설계하여 입력합니다.
-3. **톤앤매너 완벽 변환:** 두서없는 구어체를 전문적인 문어체로 다듬고, 논리적으로 구조화하는 과정을 거쳐 텍스트 콘텐츠의 완성도를 극대화합니다.
+We all know the blood, sweat, and tears that go into planning, shooting, and editing a single piece of content. But isn't it a massive waste to just upload that precious result to YouTube and pray to the algorithm gods? If you have the video's script, you can use AI to instantly clone it into SEO-optimized blog posts, eye-catching Instagram carousels, and highly professional LinkedIn threads. This is the true essence of One Source Multi-Use (OSMU) that maximizes your traffic with minimal extra effort.
 
 ---
 
-## 🚀 해결책: "콘텐츠 연금술사(Content Alchemist) 프롬프트"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본형)
+1. **Automated Script Extraction:** Instantly extract video scripts into text using YouTube's built-in features or Chrome extensions in just one second.
+2. **Platform-Specific Prompts:** Design and input dedicated prompts tailored to the characteristics of each platform—SEO for blogs, visual summaries for Instagram, and professional insights for LinkedIn.
+3. **Flawless Tone & Manner Conversion:** Maximize the quality of your text content by transforming rambling, spoken language into professional, written language with a logical and engaging structure.
 
-단순히 영상 대본을 블로그 글로 빠르게 변환하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[콘텐츠 에디터]`야.
-> **요청:** 아래 유튜브 영상 스크립트를 바탕으로 가독성 좋은 블로그 포스팅 초안을 작성해 줘. 서론-본론-결론의 명확한 구조를 갖춰야 해.
->
-> `[여기에 스크립트 복사 붙여넣기]`
+## 🚀 The Solution: "Content Alchemist Prompt"
+
+### 🥉 Basic Version
+
+Use this when you simply need to quickly convert a video script into a readable blog post.
+
+> **Role:** You are a `[Content Editor]`.
+> **Task:** Based on the YouTube video script below, draft a highly readable blog post. It must have a clear structure with an introduction, body, and conclusion.
+> 
+> `[Paste the script here]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-하나의 원본 소스를 3가지 다른 플랫폼의 성격에 완벽하게 맞춘 톤과 형식으로 동시 발행하고 싶을 때 사용하세요.
+Use this when you want to simultaneously publish a single source material in three different platform-specific tones and formats to maximize reach.
 
-> **역할 (Role):** 너는 10년 차 시니어 콘텐츠 마케팅 전략가이자 전문 에디터야.
+> **Role:** You are a senior content marketing strategist and expert editor with 10 years of experience.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 원본 소스: `[영상 주제 및 핵심 타겟]`에 대한 유튜브 스크립트.
-> - 목표: 이 핵심 내용을 바탕으로 각기 다른 3가지 소셜 플랫폼에 최적화된 콘텐츠를 생성하여 트래픽을 극대화하는 것.
+> - Original Source: A YouTube script about `[Video Topic and Core Target Audience]`.
+> - Objective: To maximize traffic by generating content optimized for three different social platforms based on this core material.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 아래 제공된 스크립트를 깊이 있게 분석한 뒤, 다음 3가지 결과물을 순서대로 작성해.
+> Deeply analyze the provided script and generate the following three deliverables in order:
 >
-> 1. **📝 SEO 최적화 블로그 포스팅 (네이버/티스토리용):**
->    - H2, H3 태그를 사용하여 논리적으로 구조화할 것.
->    - 중언부언하는 구어체를 신뢰감 있는 문어체("~습니다/합니다")로 변환할 것.
->    - `[타겟 메인 키워드]`를 본문에 자연스럽게 5회 이상 배치할 것.
->    - 최소 1,500자 이상의 풍성하고 정보성 짙은 글로 작성할 것.
-> 2. **📱 인스타그램 카드뉴스 캡션 (Instagram용):**
->    - 시선을 끄는 강력한 첫 문장(Hook)으로 시작할 것.
->    - 영상의 핵심 인사이트 5가지를 불릿 포인트로 간결하게 요약할 것.
->    - 각 포인트에 어울리는 이모지를 적극적으로 활용할 것.
->    - 검색 유입을 위한 관련 해시태그 10개를 추천할 것.
-> 3. **💼 링크드인 및 트위터 스레드 (비즈니스/전문가용):**
->    - 정보 전달보다는 '전문가의 인사이트와 오피니언' 위주의 짧고 강렬한 단문(Short-form text)으로 구성할 것.
->    - 마지막 줄에는 "여러분의 생각은 어떠신가요?"와 같은 참여 유도(Call to Action) 질문을 반드시 포함하여 댓글을 유도할 것.
+> 1. **📝 SEO-Optimized Blog Post (For WordPress/Medium):**
+>    - Logically structure the post using H2 and H3 tags.
+>    - Convert the rambling, spoken language into a trustworthy, professional written tone.
+>    - Naturally integrate the `[Target Main Keyword]` into the body at least 5 times.
+>    - Write a rich, highly informative post of at least 1,000 words.
+> 2. **📱 Instagram Carousel Caption (For Instagram):**
+>    - Start with a powerful, attention-grabbing Hook.
+>    - Concisely summarize the video's 5 core insights using bullet points.
+>    - Actively use relevant emojis that match each point.
+>    - Recommend 10 relevant hashtags to drive search traffic.
+> 3. **💼 LinkedIn & X (Twitter) Thread (For Business/Professionals):**
+>    - Instead of just delivering flat information, compose a short, impactful text focusing on 'expert insights and strong opinions'.
+>    - You MUST include a Call to Action (CTA) question at the very end, such as "What are your thoughts on this?", to encourage comments and engagement.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 원문이 전달하고자 하는 핵심 메시지와 팩트를 절대 왜곡하지 마.
-> - 없는 내용을 지어내지 말고(환각 방지), 스크립트에 포함된 내용 안에서만 작성해.
+> - Never distort the core message and facts conveyed in the original text.
+> - Do not invent information (prevent hallucinations); strictly base your writing only on the content provided in the script.
 >
-> **[스크립트 데이터]:**
+> **[Script Data]:**
 >
-> `[여기에 유튜브 스크립트 텍스트 복사 붙여넣기]`
+> `[Paste the YouTube script text here]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 전략은 이른바 '콘텐츠 리퍼포징(Content Repurposing)'의 핵심입니다. 현업에서 수없이 테스트해 본 결과, 영상 스크립트를 그대로 복사해서 블로그에 올리면 체류 시간이 급감하고 이탈률이 치솟습니다. 사람들이 말하는 방식(구어체)과 글을 읽는 방식(문어체)은 완전히 다르기 때문입니다.
+This strategy is the absolute core of 'Content Repurposing'. Through countless field tests, I've found that simply copying and pasting a video script onto a blog causes dwell time to plummet and bounce rates to skyrocket. This is because the way people speak (colloquial, repetitive) is completely different from the way they prefer to read (structured, literary).
 
-따라서 AI에게 단순히 "요약해 줘"라고 하는 대신, **"구어체를 전문가의 문어체로 바꿔라"**, **"플랫폼의 문법에 맞게 재구성하라"**는 명확한 지침을 내리는 것이 퀄리티를 좌우합니다. 특히 링크드인이나 트위터 같은 텍스트 기반 플랫폼은 단순한 정보 나열보다 '주관적인 의견'을 선호하므로, 프롬프트의 Task 3번처럼 인사이트를 강조하는 것이 바이럴에 훨씬 유리합니다. 직접 해보시면 작업 효율이 10배 이상 뛰는 것을 경험하실 수 있을 겁니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 유튜브 영상 자막은 어떻게 쉽게 추출할 수 있나요?**
-  - A: 가장 원시적인 방법은 영상 하단의 '더보기' 메뉴에서 '스크립트 표시'를 눌러 복사하는 것입니다. 하지만 실무에서는 크롬 확장 프로그램인 'YouTube Summary with ChatGPT & Claude'나 'Glasp'를 강력히 추천합니다. 클릭 한 번에 텍스트 전체를 복사하거나 즉시 요약할 수 있어 매우 편리합니다.
-
-- **Q: 다른 사람의 유튜브 영상을 활용해도 저작권 문제가 없나요?**
-  - A: 본인이 제작한 영상이라면 완벽하게 자유롭습니다. 하지만 타인의 영상을 기반으로 블로그 글을 작성할 때는 주의가 필요합니다. 스크립트를 그대로 복사(표절)하는 것은 명백한 저작권 침해입니다. 반드시 AI에게 "자신만의 언어로 완전히 재창조(Rewrite)하라"고 지시하고, 글의 도입부나 하단에 원본 영상의 링크와 출처를 명확히 밝혀 '인용'의 범위를 엄격히 지켜야 합니다.
-
-- **Q: 긴 스크립트를 넣으면 AI가 중간에 끊기거나 내용을 누락하지 않나요?**
-  - A: 1시간 이상의 긴 영상이라면 일반적인 모델에서는 컨텍스트 윈도우 한계로 내용이 잘릴 수 있습니다. 이럴 때는 한 번에 방대한 토큰을 처리할 수 있는 **Claude 3.5 Sonnet**이나 **Gemini 1.5 Pro**를 사용하는 것이 압도적으로 유리합니다. 긴 글의 문맥을 놓치지 않고 끝까지 유지하는 데 특화되어 있습니다.
+Therefore, the quality of your output depends entirely on giving explicit instructions like **"Transform spoken language into professional written language"** and **"Restructure it according to the platform's native grammar,"** rather than just lazily asking the AI to "summarize it." Specifically, text-based platforms like LinkedIn or X prefer 'subjective opinions' over simple lists of facts. Highlighting bold insights, as seen in Task 3 of the prompt, is far more advantageous for going viral. Try it yourself, and you'll experience a 10x boost in your content production efficiency.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **플랫폼 최적화 (Channel Optimization):** 단순히 글의 길이를 줄이는 것이 아니라, 블로그(SEO 중심), 인스타그램(시각적 요약 중심), 링크드인(인사이트 중심) 등 타겟 플랫폼의 생태계와 독자 소비 문법에 맞춰 출력 포맷을 완전히 다르게 지정했습니다.
-2. **구조와 톤앤매너 강제 (Tone & Manner Formatting):** '구어체를 정갈한 문어체로 변환'하고 'H2, H3 태그를 사용한 구조화'를 명시함으로써, AI 특유의 엉성하고 장황한 말투를 걷어내고 당장 퍼블리싱해도 손색없는 실무 수준의 텍스트 콘텐츠로 끌어올렸습니다.
-3. **SEO 및 인게이지먼트 장치 (SEO & Engagement):** 블로그용으로는 타겟 키워드 반복을 통한 검색엔진 최적화를, 소셜 채널용으로는 해시태그와 CTA(Call to Action) 질문을 포함하여 독자의 실제 참여(댓글/공유)를 유도하도록 알고리즘을 설계했습니다.
+- **Q: What is the easiest way to extract YouTube video subtitles?**
+  - A: The most basic method is clicking 'Show transcript' in the video description and copying the text. However, for a professional workflow, I highly recommend Chrome extensions like 'YouTube Summary with ChatGPT & Claude' or 'Glasp'. They are incredibly convenient, allowing you to copy the entire raw text without timestamps or summarize it with a single click.
+
+- **Q: Are there copyright issues if I use someone else's YouTube video?**
+  - A: If it's your own video, you are completely free to use it. However, you must be cautious when writing a blog post based on someone else's video. Copying the script verbatim is a clear copyright violation (plagiarism). You must explicitly instruct the AI to "completely rewrite the concepts in your own words" and strictly adhere to the boundaries of 'fair use' by clearly stating the source and providing a backlink to the original video.
+
+- **Q: Will the AI cut off or omit information if I input a very long podcast or video script?**
+  - A: For videos longer than an hour, standard models might truncate the content due to context window limitations. In such heavy-lifting scenarios, it is overwhelmingly advantageous to use **Claude 3.5 Sonnet** or **Gemini 1.5 Pro**, which can comfortably process massive amounts of tokens at once. They are highly specialized in maintaining the context of long texts right to the very end without suffering from 'amnesia'.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomy of the Prompt (Why it works?)
 
-### ❌ Before (스크립트 원본)
+1. **Channel Optimization:** Rather than just shortening the text, the output formats are completely distinct and tailored to the ecosystem and consumption habits of the target platforms: blogs (SEO-focused), Instagram (visual summary-focused), and LinkedIn (insight-focused).
+2. **Forced Structure and Tone & Manner:** By explicitly demanding the "conversion of spoken language to refined written language" and "structuring with H2 and H3 tags," the prompt strips away the AI's typically clumsy and verbose tone, elevating the text to a professional standard ready for immediate publishing.
+3. **SEO & Engagement Mechanisms:** The algorithm is designed to induce actual reader engagement (comments/shares) by integrating target keyword repetition for blog SEO, and strategic hashtags with CTA questions for social channels.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Original Script)
 
 ```text
-"어.. 자, 여러분! 안녕하세요. 오늘은 제가 진짜.. 엄청난 꿀팁 하나를 가져왔는데요. 이게 뭐냐면, 그.. 영상을 찍고 나서 그냥 두는 게 아니라..."
-(두서없고 산만하며 텍스트로 읽기 힘든 구어체 상태)
+"Uh.. So, hey guys! Hello. Today, I've brought a really.. amazing pro-tip. What this is, is that.. um.. you don't just leave a video after shooting it, but..."
+(A rambling, distracting spoken tone that is hard to read as text and lacks structure)
 ```
 
-### ✅ After (플랫폼별 맞춤형 결과)
+### ✅ After (Platform-Specific Results)
 
 ```text
-[📝 블로그 포스팅]
-## 한 번의 촬영으로 10개의 트래픽을 만드는 OSMU 전략
-오늘 소개할 핵심 마케팅 전략은 단 하나의 유튜브 영상을 다수의 채널로 확산시키는 '콘텐츠 리퍼포징'입니다. 성공적인 마케터는...
+[📝 Blog Post]
+## The OSMU Strategy: Generating 10x Traffic from a Single Shoot
+The core marketing strategy I'm introducing today is 'Content Repurposing', which amplifies a single YouTube video across multiple channels. Successful marketers...
 
-[📱 인스타그램 캡션]
-🔥 4시간 걸리던 콘텐츠 기획, 20분 만에 끝내는 법! (저장 필수 📌)
-영상 하나로 블로그, 인스타, 링크드인까지 우려먹는 비법을 5가지로 정리해 드립니다!
+[📱 Instagram Carousel Caption]
+🔥 How to finish 4 hours of content planning in 20 minutes! (Save this 📌)
+Here are 5 secrets to milking one video for your blog, Instagram, and LinkedIn!
 
-[💼 링크드인 스레드]
-콘텐츠 마케터 여러분, 아직도 각 플랫폼마다 글을 새로 기획하시나요?
-하나의 핵심 메시지를 플랫폼의 문법에 맞게 앵글만 바꿔 배포하는 '리퍼포징'이 생산성의 압도적인 격차를 만듭니다. 여러분은 남는 시간을 어떻게 활용하고 계신가요? 👇
+[💼 LinkedIn Thread]
+Content marketers, are you still planning new posts for every single platform from scratch?
+'Repurposing'—distributing a single core message by just changing the angle to fit the platform's grammar—creates an overwhelming gap in productivity. How are you utilizing your saved time? 👇
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-잘 만든 콘텐츠는 일회용 컵이 아니라, 언제든 다시 꺼내 쓸 수 있는 강력한 무기입니다.
-AI를 활용한 콘텐츠 연금술사 프롬프트로 단 하나의 영상에서 일주일 치 업로드 분량을 복제해 내세요. 압도적인 생산성의 차이가 곧 비즈니스의 성과로 이어집니다.
+A well-crafted piece of content isn't a disposable cup; it's a powerful asset you can pull out and reuse at any time.
+Use this Content Alchemist Prompt to clone a week's worth of multi-platform uploads from just one video. An overwhelming difference in productivity directly translates into business success.
 
-오늘도 스마트하게 일하고, 일찍 퇴근합시다! 🍷
+Work smart today, and clock out early! 🍷

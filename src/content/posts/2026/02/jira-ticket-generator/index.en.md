@@ -5,132 +5,128 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "기획서 읽고 티켓 쪼개는 게 일인 PM들을 위한 프롬프트. Epic, Story, Task 구조화 자동화."
+description: "The ultimate prompt for PMs tired of manually breaking down PRDs. Automate Epic, Story, and Task structuring in seconds."
 tags: ["Jira", "지라", "PM", "기획", "애자일"]
 ---
 
-# 🎫 Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱
+# 🎫 Automate Jira Ticket Creation: Generate Dev Tickets Instantly from a Single PRD
 
-- **🎯 추천 대상:** 하루 종일 "티켓 만들어주세요" 소리 듣는 PM/PO, 백로그 정리가 귀찮은 스크럼 마스터
-- **⏱️ 소요 시간:** 1분 (기획서 입력 -> CSV 변환)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (문서 구조화 및 논리적 분할 능력 탁월)
+- **🎯 Recommended for:** PMs/POs who hear "Please make a ticket" all day, Scrum Masters tired of backlog grooming
+- **⏱️ Time Required:** 1 minute (Paste PRD -> Convert to CSV)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet (Excellent at document structuring and logical breakdown)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"기획서 다 나왔으니까, 이제 지라(Jira)에 옮겨 적어야지... 하아..."_
+> *"The PRD is finally done... now I have to copy and paste it all into Jira... *sigh*."*
 
-기획서에 있는 내용을 복사해서 지라에 하나씩 붙여넣기. 이 단순 노동을 왜 아직도 사람이 하고 있나요? 개발자와의 소통을 위해 기획을 티켓으로 쪼개는 일은 필수적이지만, 그 과정 자체는 100% 자동화할 수 있는 기계적인 업무입니다.
+Copying and pasting requirements from a PRD into Jira one by one—why are humans still doing this manual labor? Breaking down product requirements into actionable tickets for developers is essential for communication, but the process itself is a mechanical task that can be 100% automated.
 
-이제 AI에게 기획서를 던져주고 **"개발자가 바로 작업에 착수할 수 있는 단위(Task)로 쪼개줘"**라고 지시하세요. 하루 종일 걸리던 백로그 생성 작업이 단 1분 만에 끝납니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 완성된 기획서(PRD) 텍스트를 그대로 복사한다.
-2. AI에게 "이 내용을 Epic, Story, Task로 쪼개서 Jira Import용 CSV로 만들어줘"라고 지시한다.
-3. 생성된 결과물을 파일로 저장하여 Jira의 'CSV 가져오기' 기능으로 업로드하면 수십 개의 티켓이 한 번에 생성된다.
+Now, just throw your PRD at an AI and command it: **"Break this down into actionable tasks that developers can start working on immediately."** The backlog creation process that used to take all day will be finished in just one minute.
 
 ---
 
-## 🚀 해결책: "Jira Backlog Generator"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Copy the text of your completed Product Requirements Document (PRD).
+2. Instruct the AI: "Break this content down into Epics, Stories, and Tasks, and format it as a CSV for Jira import."
+3. Save the generated output as a file and upload it using Jira's 'Import from CSV' feature to create dozens of tickets at once.
 
-빠르게 할 일 목록(To-Do List)만 뽑아보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 기획자 겸 스크럼 마스터]`야.
-> **기획서:** `[기획 내용 전체 붙여넣기]`
-> **요청:** 이 기획을 개발자가 즉시 작업할 수 있는 **상세 업무(Task)** 단위로 쪼개서 체크리스트로 만들어줘. 프론트엔드와 백엔드 작업을 명확히 구분해.
+## 🚀 The Solution: "Jira Backlog Generator"
+
+### 🥉 Basic Version
+
+Use this when you quickly need a simple To-Do list extracted from the requirements.
+
+> **Role:** You are a `[Senior Technical PM / Scrum Master]`.
+> **PRD:** `[Paste entire PRD content here]`
+> **Task:** Break down this PRD into a checklist of detailed, actionable **Tasks** that developers can start working on immediately. Clearly distinguish between Frontend and Backend tasks.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-Jira에 바로 업로드 가능한 완벽한 CSV 파일을 만들 때 사용하세요. AC(인수 조건)까지 꼼꼼하게 작성해 줍니다.
+Use this to generate a perfect, ready-to-import CSV file for Jira. It even meticulously drafts Acceptance Criteria (AC).
 
-> **역할 (Role):** 너는 애자일(Agile) 프로세스에 능통한 시니어 스크럼 마스터(Scrum Master)이자 테크니컬 PM이야.
+> **Role:** You are a Senior Scrum Master and Technical PM, highly proficient in Agile processes.
 >
-> **상황 (Context):**
+> **Context:**
+> - Background: A new feature PRD has been finalized, and sprint planning needs to be conducted based on it.
+> - Goal: Convert the PRD into perfectly structured CSV data that can be immediately imported into Jira.
 >
-> - 배경: 새로운 기능에 대한 기획안(PRD)이 완료되었으며, 이를 바탕으로 스프린트 플래닝을 진행해야 함.
-> - 목표: 기획 내용을 Jira에 즉시 등록할 수 있는 완벽한 구조의 CSV 파일 데이터로 변환하는 것.
+> **Task:**
+> 1. Analyze the provided PRD and create the necessary development tickets in **Jira CSV format**.
+> 2. You MUST include the following columns in this exact order: `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`
+> 3. Leave the `Assignee` column blank.
+> 4. In the `Description` column, you MUST include **Given-When-Then formatted Acceptance Criteria (AC)** so developers know exactly how to test the feature.
 >
-> **요청 (Task):**
+> **PRD:**
+> `[Paste the entire PRD content here]`
 >
-> 1. 아래 제공된 기획서를 분석하여 필요한 개발 티켓들을 **Jira CSV 포맷**으로 작성해줘.
-> 2. 다음 컬럼을 반드시 순서대로 포함해: `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`
-> 3. `Assignee`는 비워둬.
-> 4. `Description`에는 개발자가 테스트할 수 있도록 **Given-When-Then 형식의 인수 조건(Acceptance Criteria, AC)**을 반드시 포함해.
+> **Constraints:**
+> - The hierarchy MUST strictly follow this order: 1. Epic -> 2. Story -> 3. Sub-task (Split by FE/BE).
+> - The output format must NOT be a Markdown table. Output ONLY **comma-separated text (Raw CSV data)** inside a code block, making it easy to copy and paste into Excel or a text editor.
 >
-> **기획서 (PRD):**
-> `[여기에 기획안 전체 내용을 붙여넣으세요]`
->
-> **제약사항 (Constraints):**
->
-> - 계층 구조는 반드시 1. Epic -> 2. Story -> 3. Sub-task(FE/BE 구분) 순서로 명확하게 떨어져야 해.
-> - 출력 형식은 마크다운 표(Table)가 아닌, 복사해서 엑셀에 붙여넣기 좋은 **쉼표로 구분된 텍스트(CSV 원시 데이터)**로만 출력해줘. 코드 블록 안에 담아줘.
->
-> **주의사항 (Warning):**
->
-> - 기획서에 없는 기능이나 정책을 임의로 지어내지 마. 불확실한 부분은 Description에 "[확인 필요]"라고 명시해.
+> **Warning:**
+> - Do not invent features or policies that are not in the PRD. If anything is ambiguous, explicitly state "[Needs Clarification]" in the Description.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-개발자들이 가장 환호하는 기획서는 화려한 화면 정의서가 아니라 **"AC(Acceptance Criteria, 인수 조건)가 명확한 티켓"**입니다. 이 프롬프트의 핵심은 단순한 작업 분할을 넘어, AI가 `Description` 영역에 **Given-When-Then** 형식의 인수 조건을 작성하도록 강제한 점입니다.
+The PRDs that developers appreciate most aren't the ones with flashy UI mockups, but rather **tickets with crystal-clear Acceptance Criteria (AC)**. The core value of this prompt goes beyond mere task division; it forces the AI to write Given-When-Then acceptance criteria right into the `Description` field.
 
-실제 현업에서 이 방식을 도입한 후, "이 버튼 누르면 어떻게 되나요?" 혹은 "예외 처리는 어떻게 하죠?"와 같은 개발자의 핑퐁 질문이 획기적으로 줄어들었습니다. 티켓의 퀄리티가 스프린트의 속도를 결정합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 준 결과를 어떻게 지라에 올리나요?**
-  - A: AI가 출력한 CSV 원시 데이터를 복사하여 메모장(또는 텍스트 편집기)에 붙여넣고 `jira_tickets.csv`로 저장하세요. 그 후 Jira 메뉴에서 [이슈(Issues)] -> [CSV에서 이슈 가져오기(Import issues from CSV)]를 선택하여 해당 파일을 업로드하면 됩니다.
-
-- **Q: 기획서 내용이 너무 길어서 토큰 제한에 걸리면 어떻게 하나요?**
-  - A: 문서 전체를 한 번에 넣기보다는, 핵심 기능 단위(예: '로그인/회원가입', '결제 모듈')로 나누어서 여러 번 프롬프트를 실행하는 것을 권장합니다. 훨씬 더 디테일하고 정확한 티켓이 생성됩니다.
-
-- **Q: 태그(Labels)나 스토리 포인트(Story Points)도 자동으로 넣을 수 있나요?**
-  - A: 네! 프롬프트의 '요청 (Task)' 부분에 "Labels 컬럼을 추가하고 프론트엔드는 'frontend', 백엔드는 'backend' 태그를 달아줘. Story Points 컬럼을 추가하고 예상 난이도에 따라 1, 2, 3, 5, 8 중 하나를 배정해 줘"라고 추가 지시를 내리면 됩니다.
+When I introduced this workflow in my actual team, the ping-pong questions from developers like "What happens when I click this button?" or "How should we handle this exception?" dropped dramatically. The quality of your tickets determines the velocity of your sprint.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **계층 구조(Hierarchy) 강제:** Epic -> Story -> Sub-task로 이어지는 애자일의 표준 구조를 명시하여, AI가 엉뚱하게 기능 단위가 아닌 작업 단위로 파편화하는 것을 방지했습니다.
-2.  **AC(인수 조건) 자동화:** 개발 품질을 결정짓는 BDD(Behavior-Driven Development) 기반의 Given-When-Then 문법을 강제하여, 티켓의 실용성을 극대화했습니다.
-3.  **데이터 포맷 최적화:** 마크다운 표가 아닌 CSV 원시 데이터 포맷을 요구하여, 복사 후 파일로 저장하여 즉시 임포트(Import) 할 수 있도록 사용자 경험(UX)을 고려했습니다.
+- **Q: How do I upload the AI's result into Jira?**
+  - A: Copy the raw CSV data generated by the AI, paste it into Notepad (or any text editor), and save it as `jira_tickets.csv`. Then, in Jira, navigate to [Issues] -> [Import issues from CSV] and upload the file.
+
+- **Q: What if the PRD is too long and hits the token limit?**
+  - A: Instead of pasting the entire document at once, I recommend running the prompt multiple times, divided by core feature modules (e.g., 'Login/Signup', 'Payment Module'). This will result in much more detailed and accurate tickets.
+
+- **Q: Can it automatically assign Labels or Story Points?**
+  - A: Yes! Simply add the following to the 'Task' section of the prompt: "Add a 'Labels' column and assign the tag 'frontend' or 'backend' accordingly. Add a 'Story Points' column and assign a value of 1, 2, 3, 5, or 8 based on the estimated complexity."
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (입력: 통짜 기획)
+1. **Forced Hierarchy:** By explicitly defining the standard Agile structure of Epic -> Story -> Sub-task, we prevent the AI from fragmenting the work randomly instead of by functional units.
+2. **Automated Acceptance Criteria:** Forcing the Behavior-Driven Development (BDD) Given-When-Then syntax determines development quality and maximizes the practical utility of the tickets.
+3. **Data Format Optimization:** By demanding raw CSV data instead of a Markdown table, we prioritize the user experience (UX), allowing for immediate saving and importing without formatting headaches.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input: Monolithic Request)
 
 ```text
-티켓명: 장바구니 기능 개발
-설명: 첨부된 기획서(장바구니_v1.0.pdf) 참고해서 화면이랑 API 만들어주세요. 수량 변경, 삭제, 전체 선택 기능 필요합니다.
+Ticket Name: Develop Shopping Cart
+Description: Please refer to the attached PRD (Cart_v1.0.pdf) to build the UI and APIs. We need quantity adjustment, deletion, and select-all features.
 ```
 
-### ✅ After (결과: 완벽하게 구조화된 백로그)
+### ✅ After (Result: Perfectly Structured Backlog)
 
 ```csv
 Issue Type,Summary,Description,Priority,Assignee
-Epic,장바구니 시스템 구축,"장바구니 담기, 조회, 수정, 삭제 기능 일체",High,
-Story,사용자는 상품을 장바구니에 담을 수 있다.,"장바구니 추가 스토리",High,
-Sub-task,[FE] 상품 상세 페이지 '장바구니 담기' 버튼 UI 구현,"**Given** 사용자가 상품 상세 페이지에 있을 때, **When** '장바구니 담기' 버튼을 클릭하면, **Then** 하단에 성공 토스트 메시지가 노출되어야 한다.",High,
-Sub-task,[BE] 장바구니 추가 API 구현 (POST /cart),"**Given** 유효한 세션이 있을 때, **When** POST /cart 요청이 들어오면, **Then** DB에 데이터를 저장하고 200 OK를 반환해야 한다.",High,
+Epic,Build Shopping Cart System,"Complete features for adding, viewing, updating, and deleting items in the cart",High,
+Story,User can add items to the cart,"Add to cart story",High,
+Sub-task,[FE] Implement 'Add to Cart' button UI on product detail page,"**Given** the user is on the product detail page, **When** they click the 'Add to Cart' button, **Then** a success toast message must appear at the bottom.",High,
+Sub-task,[BE] Implement Add to Cart API (POST /cart),"**Given** a valid user session, **When** a POST request is made to /cart, **Then** it must save the data to the DB and return 200 OK.",High,
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-기획자나 PM의 진짜 실력은 '문서의 두께'가 아니라 **'개발자가 일하기 편하게 작업을 쪼개주는 능력'**에 있습니다. 번거롭고 반복적인 문서 변환 작업은 AI 비서에게 맡기세요.
+A PM's true skill isn't measured by the thickness of their documentation, but by their **ability to break down work so developers can execute smoothly**. Leave the tedious, repetitive document conversion to your AI assistant.
 
-기획서만 던져주면 백로그가 완벽하게 정리됩니다. 이제 티켓 생성 스트레스에서 벗어나 칼퇴하세요! 🍷
+Just toss in the PRD, and watch your backlog organize itself perfectly. Now, free yourself from ticket-creation stress and leave work on time! 🍷

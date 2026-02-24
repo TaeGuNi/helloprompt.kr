@@ -5,132 +5,130 @@ author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: "매번 달라지는 AI 캐릭터 얼굴 때문에 고민이신가요? Midjourney 캐릭터 시트 프롬프트 하나로 일관된 캐릭터 디자인을 완성하는 비법을 공개합니다."
+description: "Haben Sie genug von sich ständig ändernden KI-Charaktergesichtern? Entdecken Sie das Geheimnis konsistenter Charakterdesigns mit einem einzigen Midjourney Character Sheet Prompt."
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# 📝 Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기
+# 📝 Midjourney Charakter-Konsistenz: Das perfekte Character Sheet erstellen
 
-- **🎯 추천 대상:** 게임 개발자, 웹툰 작가, 캐릭터 컨셉 아티스트
-- **⏱️ 소요 시간:** 1시간 → 5분 단축
-- **🤖 추천 모델:** ChatGPT (프롬프트 생성용) 및 Midjourney v6.0 이상
+- **🎯 Empfohlen für:** Spieleentwickler, Webtoon-Künstler, Character Concept Artists
+- **⏱️ Zeitaufwand:** 1 Stunde → auf 5 Minuten verkürzt
+- **🤖 Empfohlenes Modell:** ChatGPT (zur Prompt-Erstellung) & Midjourney v6.0+
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"AI로 캐릭터를 생성할 때마다 얼굴이 미묘하게 바뀌어서, 마치 다른 사람처럼 보여 당황스러우셨나요?"_
+> _"Sind Sie auch frustriert, weil sich das Gesicht Ihres Charakters bei jeder KI-Generierung leicht verändert und wie eine völlig andere Person aussieht?"_
 
-AI 아트를 실무에 활용할 때 가장 큰 난제는 바로 '캐릭터의 일관성(Consistency)' 유지입니다. 웹툰이나 게임 리소스를 만들 때, 컷마다 주인공의 얼굴과 복장이 달라진다면 실제 작업물에 적용하기 매우 어렵습니다. 이 문제를 해결하는 가장 확실하고 고전적인 방법은 바로 **'캐릭터 시트(Character Sheet)'**를 먼저 생성하는 것입니다.
+Die größte Herausforderung beim Einsatz von KI-Kunst in der Praxis ist die Wahrung der **Charakter-Konsistenz (Consistency)**. Wenn sich das Gesicht oder die Kleidung des Protagonisten in Webtoons oder Game-Assets von Szene zu Szene ändert, ist das Material für echte Projekte unbrauchbar. Die zuverlässigste und klassischste Methode, dieses Problem zu lösen, ist die Erstellung eines **Character Sheets (Charakterbogens)** als Grundlage.
 
-한 번의 이미지 생성으로 정면, 측면, 후면 뷰(View)를 모두 확보하여, 향후 작업의 완벽한 일관된 기준점을 만드는 프롬프트 엔지니어링 비법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **캐릭터 시트(Character Sheet)**를 먼저 생성하여 디자인의 명확한 기준점을 확보하세요.
-2. **Pro 프롬프트**를 사용해 대화형 AI(ChatGPT 등)를 통해 완벽한 정면/측면/후면 Midjourney 프롬프트를 추출합니다.
-3. **`--ar` (종횡비)** 파라미터를 넓게(16:9 등) 설정하여 캐릭터의 신체 일부가 겹치거나 잘리지 않게 방지하세요.
+Hier stelle ich Ihnen ein Prompt-Engineering-Geheimnis vor, mit dem Sie durch eine einzige Bildgenerierung die Vorder-, Seiten- und Rückansicht erhalten und so einen perfekten, konsistenten Referenzpunkt für all Ihre zukünftigen Arbeiten schaffen.
 
 ---
 
-## 🚀 해결책: "캐릭터 시트 마스터 프롬프트"
+## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Erstellen Sie zuerst ein **Character Sheet**, um einen klaren, verbindlichen Standard für Ihr Design zu definieren.
+2. Nutzen Sie den **Pro-Prompt**, um über eine dialogbasierte KI (wie ChatGPT) perfekte Midjourney-Prompts für alle Ansichten (Front/Side/Back) zu generieren.
+3. Stellen Sie den Parameter **`--ar` (Seitenverhältnis)** breit ein (z. B. 16:9), um zu verhindern, dass sich Körperteile überschneiden oder abgeschnitten werden.
 
-빠르게 캐릭터의 대략적인 분위기만 미드저니에서 직접 확인하고 싶을 때 복사해서 사용하세요.
+---
+
+## 🚀 Die Lösung: Der "Character Sheet Master-Prompt"
+
+### 🥉 Basic Version (Für schnelle Ergebnisse)
+
+Verwenden Sie diesen Prompt, wenn Sie direkt in Midjourney schnell die grobe Atmosphäre eines Charakters testen möchten.
 
 > **Midjourney Prompt:**
-> character sheet of a `[캐릭터 상세 묘사]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
+> character sheet of a `[Detaillierte Charakterbeschreibung]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Für Experten)
 
-게임 원화나 상세한 3D 모델링용 설정화가 필요할 때, ChatGPT나 Claude에 입력하여 최적의 Midjourney 영문 프롬프트를 뽑아내는 전문가용 프롬프트입니다.
+Dies ist ein Experten-Prompt für ChatGPT oder Claude. Er generiert den optimalen englischen Midjourney-Prompt, wenn Sie hochdetaillierte Konzeptzeichnungen für Spiele oder präzise Referenzen für 3D-Modellierungen benötigen.
 
-> **역할 (Role):** 너는 `[AAA급 RPG 게임 수석 캐릭터 디자이너]`야.
+> **Rolle (Role):** Du bist ein `[Lead Character Designer für AAA-Rollenspiele]`.
 >
-> **상황 (Context):**
+> **Kontext (Context):**
 >
-> - 배경: `[3D 모델링 및 웹툰 작화를 위한 일관된 캐릭터 레퍼런스 시트 제작이 필요한 상황]`
-> - 목표: `[Midjourney v6.0에서 완벽하게 작동하는 고품질 컨셉 아트 스타일의 영문 프롬프트 도출]`
+> - Hintergrund: `[Ich benötige ein konsistentes Charakter-Referenzblatt für 3D-Modellierung und Webtoon-Zeichnungen.]`
+> - Ziel: `[Erstelle einen hochwertigen englischen Prompt im Concept-Art-Stil, der perfekt in Midjourney v6.0 funktioniert.]`
 >
-> **요청 (Task):**
+> **Aufgabe (Task):**
 >
-> 1. 아래의 캐릭터 설정을 바탕으로 Midjourney 이미지 생성용 영문 프롬프트를 1개 작성해 줘.
-> 2. 캐릭터 설정: `[여기에 원하는 캐릭터 외형, 의상, 무기, 색상 등을 상세히 묘사하세요]`
-> 3. 반드시 **Character Sheet** 형식이어야 하며, 정면(Front view), 측면(Side view), 후면(Back view) 등 3가지 이상의 각도가 포함되도록 명시해 줘.
+> 1. Schreibe basierend auf den folgenden Charakter-Einstellungen einen englischen Prompt für die Bildgenerierung in Midjourney.
+> 2. Charakter-Einstellungen: `[Beschreibe hier detailliert das Aussehen, die Kleidung, die Waffen, die Farben usw. des Charakters]`
+> 3. Das Format MUSS ein **Character Sheet** sein. Stelle sicher, dass ausdrücklich mindestens drei verschiedene Winkel erwähnt werden: Frontansicht (Front view), Seitenansicht (Side view) und Rückansicht (Back view).
 >
-> **제약사항 (Constraints):**
+> **Einschränkungen (Constraints):**
 >
-> - 피사체를 방해하지 않는 깔끔한 흰색 배경(Plain white background)을 지시해 줘.
-> - 팔다리가 몸을 가리지 않도록 A-pose 또는 T-pose(Standard neutral pose)로 지정해 줘.
-> - 머리부터 발끝까지 온전히 보이는 전신 샷(Full body shot)을 필수로 넣어 줘.
-> - 그림자 때문에 디테일이 가려지지 않도록 평면 조명(Flat lighting, shadowless)을 요청해 줘.
-> - 출력 형식은 마크다운 코드블럭(```text) 안에 영문 프롬프트만 깔끔하게 출력해 줘.
+> - Fordere einen rein weißen Hintergrund (Plain white background), um das Motiv nicht zu stören.
+> - Spezifiziere eine A-Pose oder T-Pose (Standard neutral pose), damit Arme und Beine den Körper nicht verdecken.
+> - Eine Ganzkörperaufnahme (Full body shot) von Kopf bis Fuß ist zwingend erforderlich.
+> - Verlange eine flache Beleuchtung (Flat lighting, shadowless), damit keine Details durch Schatten verborgen werden.
+> - Gib AUSSCHLIESSLICH den englischen Prompt in einem Markdown-Codeblock (```text) aus, ohne zusätzlichen Text.
 >
-> **주의사항 (Warning):**
+> **Warnung (Warning):**
 >
-> - Midjourney 파라미터가 누락되지 않도록 프롬프트 맨 마지막에 반드시 `--v 6.0 --ar 16:9 --stylize 250`를 추가해.
-> - 확실하지 않은 정보는 지어내지 말고, 불필요한 서론이나 부가 설명은 생략해.
+> - Füge am Ende des Prompts unbedingt `--v 6.0 --ar 16:9 --stylize 250` hinzu, damit keine Midjourney-Parameter fehlen.
+> - Erfinde keine unsicheren Informationen und lass unnötige Einleitungen oder zusätzliche Erklärungen weg.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insights des Autors
 
-이 프롬프트 시스템이 강력한 이유는 Midjourney가 가장 어려워하는 '공간적 배치'와 '일관성'을 영리하게 통제하기 때문입니다. 특히 **`--ar` (Aspect Ratio, 종횡비)** 파라미터와 구도 지시어의 조합이 핵심입니다.
+Der Grund, warum dieses Prompt-System so mächtig ist, liegt darin, dass es die räumliche Anordnung und Konsistenz – die größten Schwächen von Midjourney – intelligent kontrolliert. Die Kombination aus dem **`--ar` (Aspect Ratio)** Parameter und den Anweisungen zur Bildkomposition ist hierbei der Schlüssel zum Erfolg.
 
-1. **가로로 넓은 캔버스 (`--ar 16:9`):** 캐릭터 시트는 한 화면에 최소 3개 각도의 전신을 나란히 배치해야 합니다. 기본 비율(1:1)에서는 캐릭터들이 비좁은 공간에 우겨넣어져 서로 겹치거나 신체 일부가 프레임 밖으로 잘려 나갈 확률이 매우 높습니다. 16:9나 3:2 비율을 강제하면 AI가 다각도 캐릭터를 그릴 충분한 가로 공간을 확보하게 됩니다.
-2. **조명 통제 (Flat lighting):** 화려한 조명(Cinematic lighting 등)은 일러스트로는 예쁘지만, 레퍼런스 시트로는 최악입니다. 그림자 때문에 의상의 재질이나 구조를 파악하기 어려워지기 때문입니다. 평면 조명 지시어는 실무 친화적인 결과물을 보장합니다.
+1. **Eine breite Leinwand (`--ar 16:9`):** Ein Character Sheet muss den gesamten Körper aus mindestens drei Perspektiven nebeneinander darstellen. Beim Standardverhältnis (1:1) werden die Figuren in einen zu engen Raum gequetscht, was unweigerlich zu Überschneidungen führt oder Körperteile abschneidet. Wenn Sie ein Verhältnis von 16:9 oder 3:2 erzwingen, geben Sie der KI den nötigen horizontalen Platz.
+2. **Kontrollierte Beleuchtung (Flat lighting):** Dramatische Beleuchtung (wie Cinematic lighting) sieht auf Illustrationen toll aus, ist für Referenzbögen aber eine Katastrophe. Tiefe Schatten machen es unmöglich, die Textur oder Struktur der Kleidung zu erkennen. Der Befehl für flache Beleuchtung garantiert ein praxistaugliches Ergebnis.
 
-**💡 실무 활용 팁:** 위 Pro 프롬프트로 도출한 이미지를 Midjourney의 `--cref` (Character Reference) 기능의 소스 이미지로 활용해 보세요. 캐릭터의 얼굴과 복장 일관성을 극강으로 유지한 채 다양한 포즈의 일러스트를 무한정 뽑아낼 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 캐릭터 시트 생성 후 의상이나 무기만 살짝 바꿀 수 있나요?**
-  - A: 네, 가능합니다. 생성된 시트를 Midjourney 디스코드에서 우클릭 후 **'Vary (Region)'** 기능(Inpainting)을 선택하세요. 얼굴이나 체형은 그대로 둔 채 의상 부분만 올가미 툴로 선택하여 새로운 프롬프트(예: "wearing futuristic heavy armor")를 입력하면 감쪽같이 수정됩니다.
-
-- **Q: 실사 느낌 말고 일본 애니메이션 스타일(웹툰용)로도 뽑을 수 있나요?**
-  - A: 물론입니다. 프롬프트 맨 끝에 있는 파라미터 중 `--v 6.0`을 애니메이션 특화 모델인 `--niji 6`로 변경하기만 하면, 웹툰이나 2D 게임에 바로 쓸 수 있는 셀 애니메이션 스타일의 훌륭한 캐릭터 시트를 얻을 수 있습니다.
+**💡 Praxis-Tipp:** Nutzen Sie das mit dem Pro-Prompt generierte Bild als Quellmaterial für die `--cref` (Character Reference) Funktion in Midjourney. So können Sie unendlich viele Illustrationen in verschiedensten Posen generieren, während Gesicht und Kleidung Ihres Charakters extrem konsistent bleiben.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1. **다중 뷰 명시 (Multiple Views):** "Front, Side, Back view"라는 명확한 지시를 통해, AI가 무작위 포즈를 취하는 대신 기술적인 3면도 레이아웃을 구성하도록 강제했습니다.
-2. **포즈 및 구도 제어 (A-pose / Full body shot):** 게임 및 3D 모델링 업계 표준 포즈를 지정하여 팔다리에 의해 복장 디테일이 가려지는 현상을 막았습니다.
-3. **제약사항 분리:** LLM(ChatGPT)이 Midjourney 프롬프트를 작성할 때 어떤 구조를 가져야 하는지 명확히 하여, 환각이나 쓸데없는 배경 요소가 추가되는 것을 방지했습니다.
+- **F: Kann ich nach der Erstellung des Character Sheets nur die Kleidung oder Waffen leicht ändern?**
+  - A: Ja, absolut. Klicken Sie im Midjourney-Discord mit der rechten Maustaste auf das generierte Sheet und wählen Sie die Funktion **'Vary (Region)'** (Inpainting). Wählen Sie mit dem Lasso-Werkzeug nur die Kleidung aus, lassen Sie Gesicht und Körperform unangetastet, und geben Sie einen neuen Prompt ein (z. B. "wearing futuristic heavy armor"). Die Änderung wird nahtlos eingefügt.
+
+- **F: Kann ich statt des realistischen Stils auch einen japanischen Anime-Stil (für Webtoons) generieren?**
+  - A: Natürlich. Ändern Sie einfach den Parameter `--v 6.0` am Ende des Prompts in `--niji 6` (das auf Anime spezialisierte Modell). So erhalten Sie ein hervorragendes Character Sheet im Cel-Shading-Stil, das Sie direkt für Webtoons oder 2D-Spiele verwenden können.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt-Analyse (Warum funktioniert das?)
 
-### ❌ Before (입력)
+1. **Spezifische Ansichten (Multiple Views):** Durch die klare Anweisung "Front, Side, Back view" wird die KI gezwungen, ein technisches 3-Seiten-Layout zu erstellen, anstatt den Charakter in einer zufälligen Pose darzustellen.
+2. **Kontrolle über Pose und Bildausschnitt (A-pose / Full body shot):** Die Vorgabe einer in der Spiele- und 3D-Industrie üblichen Standardpose verhindert, dass wichtige Details der Kleidung durch verschränkte Arme oder Beine verdeckt werden.
+3. **Isolierte Einschränkungen:** Indem dem LLM (ChatGPT) eine klare Struktur für die Erstellung des Midjourney-Prompts vorgegeben wird, verhindern wir Halluzinationen oder das Hinzufügen nutzloser Hintergrundelemente.
+
+---
+
+## 📊 Beweis: Vorher & Nachher
+
+### ❌ Vorher (Eingabe)
 
 ```text
 make a character sheet of a cyberpunk warrior --v 6.0
 ```
 
-> **결과:** 캐릭터의 크기가 컷마다 제각각이고, 무기에 가려 신체 일부가 안 보이며, 포즈가 너무 역동적이라 디자인 구조를 파악하기 힘듭니다. 배경에 복잡한 사이버펑크 도시가 그려져 있어 캐릭터만 분리(누끼)하기도 어렵습니다.
-
-### ✅ After (결과)
+### ✅ Nachher (Ergebnis)
 
 ```text
 Character sheet of a cyberpunk female warrior with a neon katana and pink hair, front view, side view, back view, full body shot, standard neutral A-pose, plain white background, flat lighting, shadowless, high quality, detailed concept art style --v 6.0 --ar 16:9 --stylize 250
 ```
 
-> **결과:** 순백색(White) 배경 위에 정면, 측면, 후면 모습이 일정한 비율과 크기로 나란히 정렬되어 출력됩니다. 머리부터 발끝까지 잘린 곳 하나 없이 선명하며, 그림자가 없어 의상의 디테일을 즉시 3D 모델링이나 작화 레퍼런스로 사용할 수 있습니다.
+> **Ergebnis:** Auf einem rein weißen Hintergrund (White background) werden Vorder-, Seiten- und Rückansicht in einheitlicher Größe und Proportion nebeneinander aufgereiht. Der Charakter ist von Kopf bis Fuß vollständig sichtbar, und dank der schattenfreien Ausleuchtung können die Details der Kleidung sofort als Referenz für 3D-Modellierung oder Zeichnungen verwendet werden.
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-잘 만들어진 '캐릭터 시트'는 모든 AI 아트 작업의 튼튼한 기초 설계도와 같습니다. 이 뼈대를 먼저 확실하게 잡아두면, 이후 어떤 상황과 배경에 캐릭터를 던져놓아도 디테일이 무너지지 않습니다.
+Ein gut gemachtes "Character Sheet" ist das solide Fundament jedes KI-Kunstprojekts. Wenn Sie dieses Gerüst einmal sauber aufgebaut haben, bleiben die Details Ihres Charakters stabil, egal in welche Situation oder vor welchen Hintergrund Sie ihn später setzen.
 
-오늘 배운 프롬프트로 골치 아팠던 캐릭터 일관성 문제를 해결하고, 여러분만의 매력적인 오리지널 캐릭터 유니버스를 구축해 보세요!
+Lösen Sie mit dem heute gelernten Prompt Ihre Probleme mit der Charakter-Konsistenz und erschaffen Sie Ihr eigenes, faszinierendes Original-Charakter-Universum!
 
-이제 칼퇴하세요! 🍷
+Machen Sie jetzt pünktlich Feierabend! 🍷

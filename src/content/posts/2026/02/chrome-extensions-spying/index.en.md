@@ -5,144 +5,144 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안"
-description: "내 브라우징 데이터를 몰래 수집하는 악성 크롬 확장프로그램을 AI로 판별하는 완벽 가이드."
+description: "The ultimate guide to using AI to detect malicious Chrome extensions secretly collecting your browsing data."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 
-# 📝 내 정보는 내가 지킨다: 크롬 확장프로그램 스파이웨어 판독 프롬프트
+# 📝 Protect Your Data: The Ultimate Chrome Extension Spyware Detector Prompt
 
-- **🎯 추천 대상:** 크롬 사용자, 정보 보안에 민감한 직장인, 개발자
-- **⏱️ 소요 시간:** 10분 → 1분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Recommended for:** Chrome users, security-conscious professionals, developers
+- **⏱️ Time Saved:** 10 mins → 1 min
+- **🤖 Recommended AI:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"무심코 설치한 무료 PDF 변환기, 지금 이 순간에도 당신의 검색 기록과 비밀번호를 해커에게 전송하고 있다면?"_
+> _"What if that free PDF converter you casually installed is silently sending your browsing history and passwords to hackers right at this very moment?"_
 
-크롬 웹 스토어에 등록된 약 280개의 확장프로그램이 사용자의 브라우징 데이터를 몰래 수집하여 제3자에게 판매하거나 스파이웨어로 동작한다는 충격적인 보고서가 나왔습니다. 수백만 명의 사용자가 피해를 입고 있지만, 일반인이 악성 코드를 직접 분석하기란 불가능에 가깝습니다. 하지만 걱정하지 마세요. AI를 활용하면 확장프로그램이 요구하는 '권한(Permissions)'만으로도 위험성을 90% 이상 빠르고 정확하게 걸러낼 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 크롬 웹 스토어의 무료 유틸리티 앱 중 상당수가 백그라운드에서 사용자 데이터를 무단 수집합니다.
-2. 확장프로그램이 요구하는 '권한(Permissions)' 목록을 AI에게 제공하면 위험도를 즉시 판별할 수 있습니다.
-3. 특히 기능과 무관하게 "모든 웹사이트의 데이터 읽기 및 변경" 권한을 요구하는 앱은 즉시 삭제해야 합니다.
+A shocking report recently revealed that around 280 extensions listed on the Chrome Web Store are secretly harvesting user browsing data, either selling it to third parties or acting as outright spyware. While millions of users are compromised, it's nearly impossible for the average person to manually analyze malicious code. But don't worry—by leveraging AI, you can accurately assess the risk of an extension with over 90% accuracy just by looking at the 'Permissions' it requests.
 
 ---
 
-## 🚀 해결책: "확장프로그램 보안 진단기"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본형)
+1. A significant number of free utility apps on the Chrome Web Store covertly collect user data in the background.
+2. By feeding the 'Permissions' list of an extension to an AI, you can instantly determine its threat level.
+3. Extensions demanding "Read and change all your data on all websites" without a valid functional reason should be deleted immediately.
 
-권한 목록만 복사해서 빠르게 위험도를 확인하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 사이버 보안 전문가이자 악성코드 분석가야.
-> **요청:** 아래 내가 설치하려는 크롬 확장프로그램의 이름과 요구 권한 목록을 보고, 이 프로그램이 스파이웨어일 가능성이 있는지 보안 위험도를 1점부터 10점까지 평가해줘. 그리고 왜 위험한지 초보자도 이해하기 쉽게 설명해.
+## 🚀 The Solution: "Extension Security Scanner"
+
+### 🥉 Basic Version
+
+Use this when you need a quick risk assessment by simply pasting the permission list.
+
+> **Role:** You are a cybersecurity expert and malware analyst.
+> **Task:** Based on the name and the list of requested permissions of the Chrome extension I want to install, evaluate its security risk on a scale of 1 to 10 to determine if it could be spyware. Explain why it is dangerous in a way that a beginner can easily understand.
 >
-> **확장프로그램 정보:**
+> **Extension Information:**
 >
-> - 이름: `[확장프로그램 이름]`
-> - 요구 권한: `[웹 스토어에 명시된 요구 권한 목록 복사/붙여넣기]`
+> - Name: `[Extension Name]`
+> - Requested Permissions: `[Copy/Paste the requested permissions listed on the Web Store]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-사내 보안 담당자나 내 개인정보를 완벽하게 지키고 싶은 분들을 위한 심층 분석 프롬프트입니다.
+An in-depth analysis prompt designed for corporate security officers or anyone who wants absolute protection over their personal data.
 
-> **역할 (Role):** 너는 글로벌 IT 기업의 수석 사이버 보안 엔지니어이자 크롬 익스텐션 아키텍처 전문가야.
+> **Role:** You are a Lead Cybersecurity Engineer at a global tech company and an expert in Chrome extension architecture.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 최근 280개가 넘는 크롬 확장프로그램이 사용자 데이터를 탈취하는 스파이웨어로 밝혀졌어. 나는 내가 사용하는 확장프로그램이 안전한지 검증하고 싶어.
-> - 목표: 제공된 확장프로그램의 목적과 요구 권한의 불일치를 찾아내어, 숨겨진 악의적 의도(데이터 수집, 광고 삽입 등)를 파악하는 것.
+> - Background: Over 280 Chrome extensions were recently exposed as spyware stealing user data. I need to verify if the extensions I currently use are safe.
+> - Objective: Identify discrepancies between the extension's stated purpose and its requested permissions to uncover hidden malicious intent (e.g., unauthorized data collection, ad injection).
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. 제공된 `[확장프로그램 이름 및 주요 기능]`과 `[요구 권한 목록]`을 분석해.
-> 2. 해당 앱의 핵심 기능을 구현하는 데 이 권한들이 정말로 필수적인지 평가해.
-> 3. 과도한 권한이 요구되었다면, 이를 통해 발생할 수 있는 구체적인 보안 위협(예: 세션 하이재킹, 키로깅 등)을 시나리오 형태로 설명해.
-> 4. 최종적으로 설치 유지, 삭제, 또는 주의 관찰 중 하나의 행동 지침을 내려줘.
+> 1. Analyze the provided `[Extension Name & Core Function]` and `[List of Requested Permissions]`.
+> 2. Evaluate whether these permissions are strictly necessary to implement the app's core functionality.
+> 3. If excessive permissions are requested, provide specific threat scenarios (e.g., session hijacking, keylogging) detailing the potential security risks.
+> 4. Conclude with a clear action directive: Keep, Delete, or Monitor.
 >
-> **입력 정보 (Input):**
+> **Input:**
 >
-> - 확장프로그램 이름 및 주요 기능: `[예: Super PDF Converter / 웹페이지를 PDF로 변환]`
-> - 요구 권한 목록: `[예: 방문하는 모든 웹사이트의 데이터 읽기 및 변경, 인터넷 사용 기록 등]`
+> - Extension Name & Core Function: `[e.g., Super PDF Converter / Converts webpages to PDF]`
+> - List of Requested Permissions: `[e.g., Read and change all your data on all websites, Browsing history, etc.]`
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 전문적인 보안 용어를 사용하되, 괄호 안에 비유나 쉬운 설명을 덧붙여서 작성해.
-> - 분석 결과는 시각적으로 보기 좋게 마크다운 글머리 기호(리스트)를 활용해 줘. 표(Table)는 절대 사용하지 마.
+> - Use professional cybersecurity terminology, but include analogies or simple explanations in parentheses for clarity.
+> - Format the analysis results using Markdown bullet points for visual readability. Do NOT use tables under any circumstances.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 확실하지 않은 추측은 배제하고, 주어진 권한 목록에서 발생 가능한 기술적 팩트에만 기반해서 답변해. (환각 방지)
+> - Avoid baseless assumptions. Base your answers strictly on the technical facts and potential vulnerabilities derived from the provided permissions list. (Prevent hallucinations)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-"무료"에는 항상 대가가 따릅니다. 특히 VPN, 날씨 위젯, 화면 캡처, PDF 뷰어처럼 단순해 보이는 도구들이 "모든 웹사이트의 데이터 읽기" 권한을 요구한다면 99% 의심해야 합니다. 이 프롬프트는 AI의 '추론 능력'을 활용해, 앱의 본래 목적과 요구 권한 사이의 모순을 찾아내는 데 탁월합니다.
+"Free" always comes with a hidden cost. If seemingly simple tools like VPNs, weather widgets, screen capturers, or PDF viewers demand permission to "read all your data on all websites," you should be 99% suspicious. This prompt leverages the AI's reasoning capabilities to brilliantly expose the contradictions between an app's intended purpose and its demanded access rights.
 
-주기적으로 브라우저 주소창에 `chrome://extensions/`를 입력해 안 쓰는 확장프로그램을 지우고, 남은 것들은 위 프롬프트로 검증하는 습관을 들이세요. 여러분의 디지털 자산과 사생활을 지키는 가장 강력한 방패가 될 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 크롬 스토어에 올라와 있는 건 구글이 검수해서 안전한 거 아닌가요?**
-  - A: 구글이 지속적으로 모니터링하지만, 초기에는 정상 앱으로 위장해 검수를 통과한 뒤 업데이트를 통해 악성 코드를 심는 교묘한 수법이 많습니다. 웹 스토어의 검수를 100% 맹신해서는 안 됩니다.
-
-- **Q: 이미 위험한 걸 설치했던 것 같아요. 어떡하죠?**
-  - A: 즉시 확장프로그램을 삭제하시고, 구글이나 은행 등 주요 계정의 비밀번호를 변경하세요. 또한 브라우저에 저장된 쿠키 및 캐시를 완전히 삭제하여 세션 탈취 위험을 차단하는 것을 권장합니다.
-
-- **Q: 이 프롬프트로 스마트폰 앱의 위험성도 판단할 수 있나요?**
-  - A: 네, 가능합니다. 입력 정보(Input)에 안드로이드 구글 플레이스토어나 애플 앱스토어에 명시된 앱 권한을 복사해 넣으면 모바일 앱의 위험도도 훌륭하게 진단해 냅니다.
+Make it a habit to periodically type `chrome://extensions/` into your browser, delete any extensions you no longer use, and verify the remaining ones with the prompt above. It will serve as the strongest shield for your digital assets and privacy.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **Context(상황)의 명확성:** AI에게 최근의 스파이웨어 사태를 배경 지식으로 주어, 보수적이고 엄격한 보안 잣대로 권한을 평가하도록 유도했습니다.
-2.  **기능과 권한의 교차 검증:** "기능 구현에 이 권한이 필수적인가?"라는 논리적 질문을 던지도록 Task를 설계하여, 겉보기엔 그럴싸하지만 불필요하게 광범위한 권한을 요구하는 앱을 정확히 솎아냅니다.
+- **Q: Aren't extensions on the Chrome Store safe because Google reviews them?**
+  - A: While Google continuously monitors the store, many malicious apps bypass initial reviews by masquerading as legitimate tools, only to inject malware through later updates. You cannot rely 100% on the Web Store's review process.
+
+- **Q: I think I already installed a dangerous extension. What should I do?**
+  - A: Delete the extension immediately and change the passwords for your critical accounts, such as Google and banking. It is also highly recommended to completely clear your browser's cookies and cache to prevent session hijacking.
+
+- **Q: Can this prompt also evaluate the risk of smartphone apps?**
+  - A: Yes, absolutely. Just copy and paste the app permissions listed on the Google Play Store or Apple App Store into the Input section, and the AI will accurately diagnose the risk level of mobile apps as well.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomy of the Prompt (Why it works?)
 
-### ❌ Before (단순한 질문)
+1.  **Contextual Clarity:** By providing the recent spyware incident as background knowledge, the AI is primed to evaluate permissions with a strict, conservative security mindset.
+2.  **Cross-Validation of Features and Permissions:** The task is engineered to ask a logical question: "Are these permissions essential for the features?" This accurately filters out apps that look legitimate but demand unnecessarily broad access.
 
-> 이 PDF 변환기 확장프로그램 안전해? 권한은 '모든 사이트 데이터 읽기'야.
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Simple Question)
+
+> Is this PDF converter extension safe? Its permission is 'Read all site data'.
 
 ```text
-대부분의 PDF 변환기는 웹페이지 전체 내용을 캡처해야 하므로 해당 권한이 필요할 수 있습니다. 하지만 신뢰할 수 있는 개발자인지 리뷰를 확인하는 것이 좋습니다.
+Most PDF converters need to capture the entire content of a webpage, so this permission might be necessary. However, it is advisable to check the reviews to see if the developer is trustworthy.
 ```
 
-_(위험성을 간과하고 일반적이고 무의미한 답변만 제시함)_
+*(Overlooks the risk and provides a generic, unhelpful answer)*
 
-### ✅ After (Pro 프롬프트 사용 시)
+### ✅ After (Using the Pro Prompt)
 
 ```text
-🚨 보안 위험 경고 (위험도: 9/10)
+🚨 Security Risk Alert (Threat Level: 9/10)
 
-분석 결과, 해당 확장프로그램은 강력히 삭제를 권고합니다.
+Based on the analysis, it is strongly recommended to DELETE this extension.
 
-- 권한 불일치 분석: 단순 PDF 변환 작업은 사용자가 확장프로그램을 클릭하여 활성화한 '현재 탭'의 데이터만 읽으면 충분합니다. 백그라운드에서 동작하며 '모든 웹사이트의 데이터'에 상시 접근할 합리적 이유가 전혀 없습니다.
-- 예상되는 보안 위협:
-  * 세션 하이재킹: 로그인된 은행이나 이메일 사이트의 인증 쿠키를 탈취하여 사용자 몰래 접속할 수 있습니다.
-  * 개인정보 유출: 검색어, 결제 정보 등 브라우저 화면에 렌더링되는 모든 텍스트가 암호화되지 않은 채 제3자 서버로 전송될 가능성이 매우 높습니다.
-- 행동 지침: 즉시 삭제 (Delete Immediately)
+- Permission Discrepancy Analysis: A simple PDF conversion task only requires reading the data of the 'current tab' activated by the user. There is absolutely no rational reason for it to run in the background with constant access to 'all your data on all websites'.
+- Expected Security Threats:
+  * Session Hijacking: It can steal authentication cookies from banking or email sites you are logged into, granting unauthorized access.
+  * Privacy Breach: There is a very high probability that all text rendered on your browser, including search queries and payment info, is being transmitted unencrypted to a third-party server.
+- Action Directive: Delete Immediately
 ```
 
-_(앱의 기능과 권한의 모순을 날카롭게 짚어내며, 구체적인 위협 시나리오를 경고함)_
+*(Sharply points out the contradiction between the app's function and permissions, warning of specific threat scenarios)*
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-보안의 가장 큰 적은 '귀찮음'과 '설마'하는 마음입니다.
-당신의 브라우저는 당신의 모든 사생활과 금융 정보를 알고 있습니다.
-지금 당장 AI 보안 전문가를 고용하여, 브라우저 속에 숨어있는 스파이들을 색출해 보세요! 🛡️
+The biggest enemies of cybersecurity are laziness and the "it won't happen to me" mindset.
+Your browser knows everything about your private life and financial data.
+Hire an AI cybersecurity expert right now and root out the spies hiding in your browser! 🛡️

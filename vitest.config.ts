@@ -20,5 +20,5 @@ export default getViteConfig({
       },
     },
   },
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  // biome-ignore lint/suspicious/noExplicitAny: compatibility with vitest setup
 } as any);

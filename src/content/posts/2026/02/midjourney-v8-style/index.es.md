@@ -5,119 +5,119 @@ tags: [midjourney, art, ai]
 image: https://source.unsplash.com/random/1600x900/?art,paint
 ---
 
-# 🎨 Midjourney v8: 완벽한 스타일 제어를 위한 SREF & 튜너 활용 프롬프트
+# 🎨 Midjourney v8: Prompts para el control de estilo perfecto usando SREF y Tuner
 
-- **🎯 추천 대상:** 디자이너, 마케터, AI 아티스트, 콘텐츠 크리에이터
-- **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** ChatGPT (Midjourney 프롬프트 생성용), Midjourney v8
+- **🎯 Recomendado para:** Diseñadores, Marketers, Artistas de IA, Creadores de Contenido
+- **⏱️ Tiempo requerido:** De 1 hora → Reducido a 3 minutos
+- **🤖 Modelo recomendado:** ChatGPT (para generar prompts), Midjourney v8
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"매번 프롬프트를 깎아도 캐릭터 얼굴이나 그림체가 자꾸 달라지시나요? v8의 SREF(스타일 참조)를 알면 더 이상 주사위 굴리기를 할 필요가 없습니다."_
+> _"¿Estás cansado de que el rostro de tu personaje o el estilo artístico cambien cada vez que ajustas el prompt? Con la función SREF (Referencia de Estilo) de la v8, se acabó el lanzar los dados en cada intento."_
 
-Midjourney v8은 AI 아트의 새로운 지평을 열었습니다. 기존에는 프롬프트 텍스트만으로 화풍을 조절하느라 수많은 시행착오를 겪어야 했지만, 이제는 '스타일 튜너(Style Tuner)'와 강화된 '스타일 참조(SREF)' 기능을 통해 미묘한 화풍과 질감까지 완벽하게 통제할 수 있습니다.
+Midjourney v8 ha marcado un antes y un después en el arte generado por IA. En el pasado, afinar un estilo requería incontables horas de ensayo y error modificando textos. Ahora, gracias al 'Style Tuner' (Afinador de Estilo) y a la potente función 'SREF' (Referencia de Estilo), tienes el control absoluto sobre los matices y texturas más sutiles.
 
-단순한 이미지 생성기를 넘어 텍스트 렌더링과 비디오 클립까지 통합된 종합 비주얼 크리에이티브 플랫폼, Midjourney v8을 100% 활용하는 프롬프트 엔지니어링 비법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **SREF(스타일 참조)**를 활용해 단 한 장의 이미지로 전체 작업물의 화풍을 고정할 수 있습니다.
-2. 완벽해진 **텍스트 렌더링**으로 로고와 타이포그래피 포스터를 이미지 내에 직접 생성할 수 있습니다.
-3. 텍스트 프롬프트를 통해 **일관된 브랜드 에셋**과 짧은 비디오 모션까지 원스톱으로 제작 가능합니다.
+Más allá de ser un simple generador de imágenes, Midjourney v8 se ha consolidado como una plataforma creativa visual y completa, integrando renderizado de texto y clips de video. Aquí te revelamos los secretos de la ingeniería de prompts para que la aproveches al 100%.
 
 ---
 
-## 🚀 해결책: "미드저니 v8 마스터 프롬프트"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형: 빠른 스타일 복제)
+1. Utiliza **SREF (Referencia de Estilo)** para fijar la dirección artística de todo tu proyecto con una sola imagen.
+2. Aprovecha el **renderizado de texto** perfeccionado para crear logotipos y carteles tipográficos directamente en tus imágenes.
+3. Genera **activos de marca coherentes** y clips de video cortos en un solo paso utilizando únicamente prompts de texto.
 
-이미 마음에 드는 레퍼런스 이미지가 있고, 그 화풍만 빠르게 뽑아내어 새로운 그림에 적용할 때 Midjourney 디스코드/웹에서 직접 사용하세요.
+---
 
-> **요청:**
-> `/imagine prompt: [그릴 대상, 예: 사이버펑크 도시에서 커피를 마시는 로봇] --sref [참고할 이미지 URL] --sw 800 --v 8`
+## 🚀 La Solución: "Prompt Maestro para Midjourney v8"
+
+### 🥉 Versión Básica (Clonación Rápida de Estilo)
+
+Úsalo directamente en Discord o en la web de Midjourney cuando ya tengas una imagen de referencia que te encante y solo necesites extraer su estilo para aplicarlo rápidamente a una nueva creación.
+
+> **Petición:**
+> `/imagine prompt: [Sujeto a dibujar, ej: Un robot bebiendo café en una ciudad cyberpunk] --sref [URL de la imagen de referencia] --sw 800 --v 8`
 
 <br>
 
-### 🥇 Pro Version (전문가형: 브랜드 에셋용 다중 프롬프트 제너레이터)
+### 🥇 Versión Pro (Generador de Múltiples Prompts para Activos de Marca)
 
-특정 브랜드 캠페인이나 프로젝트를 위해 일관된 톤앤매너를 가진 여러 장의 Midjourney 프롬프트 세트가 필요할 때, 대화형 AI(ChatGPT, Claude 등)에게 아래 프롬프트를 입력하세요.
+Cuando necesites un conjunto de prompts en Midjourney que mantengan una estética coherente para una campaña de marca o un proyecto específico, introduce este prompt en tu IA conversacional favorita (ChatGPT, Claude, etc.).
 
-> **역할 (Role):** 너는 세계 최고의 AI 아티스트이자 Midjourney v8 프롬프트 엔지니어 전문가야.
+> **Rol (Role):** Eres el mejor artista de IA del mundo y un ingeniero de prompts experto en Midjourney v8.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: `[새로운 IT 브랜드 런칭을 위한 소셜 미디어 피드용 이미지 제작]`
-> - 목표: `[레퍼런스 이미지의 팝아트 스타일을 100% 유지하면서, 각기 다른 상황에 있는 메인 캐릭터 이미지 5장 생성]`
+> - Fondo: `[Creación de imágenes para el feed de redes sociales por el lanzamiento de una nueva marca de tecnología]`
+> - Objetivo: `[Generar 5 imágenes del personaje principal en diferentes situaciones, manteniendo al 100% el estilo pop-art de la imagen de referencia]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 제공된 상황과 목표에 맞춰, Midjourney v8에서 바로 복사해 쓸 수 있는 프롬프트 5개를 영어로 작성해줘.
-> 2. 모든 프롬프트에는 사용자가 나중에 실제 URL을 넣을 수 있도록 `--sref [STYLE_IMAGE_URL]` 변수를 포함해야 해.
-> 3. 각 이미지 안에는 어울리는 간판이나 소품을 통해 `["HELLO PROMPT"]`라는 텍스트가 정확하게 타이포그래피로 렌더링되도록 묘사해줘.
+> 1. Redacta 5 prompts en inglés listos para copiar y pegar en Midjourney v8, basándote en el contexto y los objetivos proporcionados.
+> 2. Cada prompt debe incluir el parámetro `--sref [STYLE_IMAGE_URL]` para que el usuario pueda insertar la URL real más adelante.
+> 3. En cada imagen, describe letreros o elementos decorativos pertinentes que muestren el texto `["HELLO PROMPT"]` renderizado de forma tipográficamente exacta.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 사용자가 바로 복사할 수 있도록 마크다운 코드블럭으로 제공해줘.
-> - 각 프롬프트의 끝에는 반드시 영상화 파라미터를 포함하여 `--v 8 --sw 800 --ar 16:9 --video` 가 붙어야 해.
-> - 프롬프트 외에 불필요한 인사말이나 부연 설명은 절대 하지 마.
+> - Proporciona los resultados en bloques de código Markdown para facilitar su copia.
+> - Al final de cada prompt, debes incluir obligatoriamente los parámetros de video y formato: `--v 8 --sw 800 --ar 16:9 --video`.
+> - No incluyas saludos ni explicaciones innecesarias fuera de los prompts.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-Midjourney v8의 가장 큰 혁신은 '랜덤성'을 '통제'로 바꿨다는 점입니다. 과거에는 원하는 톤앤매너가 나올 때까지 무한정 리롤(Reroll)을 돌려야 했지만, 이제는 `--sref` 파라미터와 좋은 레퍼런스 이미지 한 장만 있으면 1인 디자이너도 대형 에이전시 수준의 일관된 브랜드 에셋을 찍어낼 수 있습니다.
+La mayor revolución de Midjourney v8 es haber transformado la 'aleatoriedad' en 'control'. En el pasado, tenías que hacer *reroll* (volver a generar) infinitas veces hasta dar con el tono adecuado. Ahora, con el parámetro `--sref` y una buena imagen de referencia, un diseñador en solitario puede producir activos de marca tan coherentes como los de una gran agencia.
 
-특히 텍스트 렌더링이 비약적으로 발전했기 때문에, 포스터나 유튜브 썸네일을 만들 때 포토샵에서 글자를 따로 얹는 과정이 생략됩니다. 업무에 도입하실 때는 `--sw`(스타일 가중치, 0~1000) 값을 100단위로 조절해보며 원본 프롬프트와 레퍼런스 화풍 사이의 최적의 타협점을 찾는 것을 추천합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: `--sref`에 사용할 이미지 URL은 어떻게 구하나요?**
-  - A: 디스코드 대화방에 본인이 가진 이미지를 직접 업로드한 뒤, 클릭하고 우클릭하여 '이미지 링크 복사'를 선택하시면 됩니다. Midjourney 알파 웹사이트를 사용 중이시라면 프롬프트 입력창에 이미지를 드래그 앤 드롭하는 것만으로 간편하게 적용됩니다.
-
-- **Q: 이미지 안에 한글 텍스트도 깨짐 없이 생성되나요?**
-  - A: v8 기준으로 영문 타이포그래피는 완벽에 가깝게 렌더링되지만, 한글이나 복잡한 획을 가진 아시아권 문자는 아직 글자가 뭉개지거나 외계어처럼 나오는 경우가 있습니다. 중요한 텍스트는 영문 위주로 생성하시는 것을 강력히 권장합니다.
-
-- **Q: `--video` 기능으로 생성된 비디오는 어디서 보나요?**
-  - A: 이미지 생성이 완료되면 봇의 응답 메시지에 동영상 링크가 함께 제공됩니다. 해당 링크를 클릭해 브라우저에서 열면 짧은 생성 과정과 애니메이션 효과가 들어간 비디오 클립을 확인하고 다운로드할 수 있습니다.
+Además, el salto cualitativo en el renderizado de texto permite omitir el tedioso paso de añadir letras en Photoshop al diseñar carteles o miniaturas para YouTube. Al aplicarlo en tu día a día, te sugiero ajustar el valor de `--sw` (peso del estilo, de 0 a 1000) en incrementos de 100 para encontrar el equilibrio perfecto entre tu prompt original y el estilo de referencia.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **변수화된 템플릿(Variables):** ChatGPT가 Midjourney의 복잡한 문법(파라미터)을 완벽하게 맞춘 프롬프트를 대신 쓰게 만들고, 사용자는 `[STYLE_IMAGE_URL]` 부분만 갈아 끼워 무한히 재사용할 수 있도록 설계했습니다.
-2.  **스타일 앵커링 (Style Anchoring):** `--sref` 파라미터는 AI가 마음대로 화풍을 바꾸는 것을 물리적으로 차단하는 닻 역할을 합니다. 이로 인해 여러 장을 뽑아도 마치 한 사람이 그린 것 같은 일관성을 유지합니다.
-3.  **다중 제약 조건 (Constraints):** 비율(`--ar`), 버전(`--v 8`), 영상화(`--video`) 등 필수 파라미터를 강제하여 프롬프트의 무결성을 확보했습니다.
+- **P: ¿De dónde obtengo la URL de la imagen para usar con `--sref`?**
+  - R: Simplemente sube tu imagen directamente al chat de Discord, haz clic en ella, pulsa el botón derecho y selecciona 'Copiar enlace de la imagen'. Si utilizas la web Alpha de Midjourney, basta con arrastrar y soltar la imagen en la barra de prompts para aplicarla al instante.
+
+- **P: ¿El texto se genera sin errores gráficos o letras extrañas?**
+  - R: A partir de la versión 8, la tipografía en inglés se renderiza casi a la perfección. Sin embargo, en el caso del español con tildes, la letra "ñ" o alfabetos no latinos, el texto puede distorsionarse o generar símbolos extraños. Te recomiendo encarecidamente utilizar el inglés para los textos principales de tus composiciones.
+
+- **P: ¿Dónde puedo ver el video generado con la función `--video`?**
+  - R: Una vez finalizada la generación de la imagen, el mensaje de respuesta del bot incluirá un enlace al video. Haz clic en él para abrirlo en tu navegador; allí podrás visualizar y descargar un clip corto que muestra el proceso de creación con suaves efectos de animación.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Análisis del Prompt (¿Por qué funciona?)
 
-### ❌ Before (단순 텍스트 프롬프트 사용 시)
+1.  **Plantillas Parametrizadas (Variables):** Hemos diseñado el prompt para que ChatGPT asimile la compleja sintaxis de Midjourney. Así, solo tienes que sustituir la variable `[STYLE_IMAGE_URL]` y reutilizar la estructura infinitas veces.
+2.  **Anclaje de Estilo (Style Anchoring):** El parámetro `--sref` actúa como un ancla que bloquea físicamente a la IA para que no cambie el estilo artístico a su antojo. Esto garantiza una coherencia impecable, como si un solo artista hubiera ilustrado toda la serie.
+3.  **Restricciones Múltiples (Constraints):** Forzamos el uso de parámetros esenciales como la relación de aspecto (`--ar`), la versión (`--v 8`) y la generación de video (`--video`), asegurando la integridad estructural del prompt.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Usando un prompt de texto simple)
 
 ```text
 /imagine prompt: A cute cat hacker, cyberpunk style, red and blue neon lights --v 6
 ```
 
-_(결과: 매번 명령을 내릴 때마다 고양이의 종이 바뀌고, 그림체도 3D 애니메이션 스타일부터 극사실주의까지 중구난방으로 생성되어 실무에 사용할 수 없음)_
+_(Resultado: Con cada comando, la raza del gato y el estilo artístico cambian drásticamente, oscilando entre el 3D y el fotorrealismo, lo que lo hace inútil para el trabajo profesional)_
 
-### ✅ After (Pro 프롬프트를 통해 생성한 프롬프트 적용 시)
+### ✅ Después (Aplicando el prompt generado por la Versión Pro)
 
 ```text
 /imagine prompt: A cute cat hacker sitting in a cyberpunk alley, neon sign glowing with the words "HELLO PROMPT" above, highly detailed --sref https://url.com/my-brand-style.jpg --v 8 --sw 800 --ar 16:9 --video
 ```
 
-_(결과: 지정한 레퍼런스 이미지의 수채화+팝아트 톤이 완벽히 유지되며, 뒷배경 네온사인에 "HELLO PROMPT" 영문 스펠링이 오타 없이 정확하게 렌더링됨. 덤으로 생성 과정이 담긴 비디오 클립까지 획득)_
+_(Resultado: El tono de acuarela y pop-art de la imagen de referencia se mantiene intacto. El letrero de neón en el fondo muestra el texto "HELLO PROMPT" sin un solo error tipográfico. Además, obtienes un clip de video del proceso de creación)_
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-Midjourney v8은 프롬프트 엔지니어링의 패러다임을 '단어'에서 '참조(Reference)'로 완벽하게 전환했습니다. 이제 길고 복잡한 형용사를 고민할 필요가 없습니다. 확실한 스타일 이미지 한 장과 정확한 파라미터 조합으로 여러분만의 비주얼 세계를 완벽하게 통제해 보세요.
+Midjourney v8 ha cambiado por completo el paradigma de la ingeniería de prompts, pasando de las "palabras" a la "Referencia". Ya no tienes que quebrarte la cabeza buscando adjetivos complejos. Toma el control absoluto de tu propio universo visual combinando una imagen de estilo sólida con los parámetros correctos.
 
-더 이상 운에 맡기는 리롤(Reroll)은 그만! 이제 칼퇴하세요! 🍷
+¡Basta de lanzar los dados con el botón de Reroll! ¡Termina tu trabajo a tiempo y disfruta de tu tarde! 🍷

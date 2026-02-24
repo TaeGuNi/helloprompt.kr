@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("게시글 상세 페이지 BDD 시나리오", () => {
   test("홈 화면에서는 날짜만 보이고, 상세 페이지에서는 시간까지 보여야 한다", async ({

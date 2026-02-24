@@ -1,146 +1,146 @@
 ---
 title: "The Internet is Becoming Unarchivable"
-description: "동적 콘텐츠, 단일 페이지 애플리케이션(SPA), 폐쇄형 생태계의 증가로 인해 오픈 웹의 역사를 보존하는 것이 점점 더 어려워지고 있습니다. 사라지는 웹을 영구히 박제하는 맞춤형 프롬프트를 소개합니다."
+description: "Con l'aumento dei contenuti dinamici, delle Single Page Application (SPA) e degli ecosistemi chiusi, preservare la storia dell'open web è sempre più difficile. Scopri un prompt personalizzato per archiviare per sempre il web che scompare."
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
 
-# 📝 잃어버린 웹을 구출하라: 웹 콘텐츠 영구 보존 아카이빙 프롬프트
+# 📝 Salva il Web Perduto: Il Prompt Definitivo per l'Archiviazione Permanente
 
-- **🎯 추천 대상:** 리서처, 콘텐츠 큐레이터, 디지털 아키비스트, 마케터
-- **⏱️ 소요 시간:** 1시간 → 1분 단축
-- **🤖 추천 모델:** 긴 컨텍스트 처리에 능한 모델 (Claude 3.5 Sonnet, Gemini 1.5 Pro 권장)
+- **🎯 Consigliato per:** Ricercatori, Content Curator, Archivisti Digitali, Marketer
+- **⏱️ Tempo richiesto:** 1 ora → ridotto a 1 minuto
+- **🤖 Modelli consigliati:** Modelli capaci di gestire contesti lunghi (consigliati Claude 3.5 Sonnet, Gemini 1.5 Pro)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficoltà:** ⭐⭐⭐☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Versatilità:** ⭐⭐⭐⭐⭐
 
-> _"사라져가는 웹의 역사를 붙잡으세요. 복사 붙여넣기 한 번으로, 엉망으로 렌더링된 동적 웹페이지의 핵심 문맥을 영구적인 마크다운 문서로 완벽하게 박제합니다."_
+> _"Cattura la storia del web prima che svanisca. Con un solo copia e incolla, trasforma il caos di una pagina web dinamica renderizzata male in un documento Markdown perfetto e archiviato per sempre."_
 
-최근 SPA(Single Page Application)와 폐쇄형 플랫폼(Walled Gardens)이 웹의 표준이 되면서, 유용한 정보가 담긴 웹페이지를 전통적인 방식으로 스크랩하고 보존하는 것이 불가능에 가까워졌습니다. 링크는 하루아침에 끊어지고, 웹 아카이브 사이트조차 동적 렌더링 화면을 캡처하지 못해 하얀 여백만 남기곤 합니다.
+Recentemente, con le SPA (Single Page Application) e i "Walled Gardens" (piattaforme chiuse) diventati lo standard del web, estrarre e preservare le informazioni utili dalle pagine web con metodi tradizionali è diventato quasi impossibile. I link si rompono da un giorno all'altro, e persino i siti di web archiving spesso non riescono a catturare le schermate renderizzate dinamicamente, lasciando solo una fastidiosa pagina bianca.
 
-이 프롬프트는 화면에 보이는 텍스트를 무작정 긁어오거나 난해한 HTML 소스코드를 입력했을 때, 불필요한 노이즈(광고, 네비게이션, 푸터)를 제거하고 **미래에도 언제든 읽고 활용할 수 있는 완벽한 구조의 마크다운(Markdown) 문서로 변환**해 주는 강력한 지식 보존 도구입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **지능형 노이즈 제거:** 복잡한 웹페이지 덤프 텍스트에서 광고와 UI 요소를 걸러내고 본문 핵심만 정확하게 발췌합니다.
-2. **영구적 포맷 변환:** 보존성과 호환성이 가장 뛰어난 Markdown 형식으로 문서를 재구성합니다.
-3. **메타데이터 자동 추출:** 작성일, 저자, 핵심 키워드 등 아카이빙과 검색에 필수적인 메타데이터를 YAML 형태로 자동 생성합니다.
+Questo prompt è un potente strumento di conservazione della conoscenza: invece di raschiare ciecamente il testo visibile sullo schermo o inserire codice HTML incomprensibile e disordinato, rimuove il rumore inutile (pubblicità, navigazione, footer) e lo trasforma in **un documento Markdown strutturato perfettamente, pronto per essere letto e utilizzato in futuro**.
 
 ---
 
-## 🚀 해결책: "디지털 아키비스트 프롬프트"
+## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Rimozione Intelligente del Rumore:** Filtra la pubblicità e gli elementi dell'interfaccia utente (UI) dal caotico testo "dump" di una pagina web, estraendo con precisione solo il corpo principale.
+2. **Conversione di Formato Permanente:** Ristruttura il documento nel formato Markdown, la scelta migliore in assoluto per la conservazione a lungo termine e la compatibilità.
+3. **Estrazione Automatica dei Metadati:** Genera automaticamente i metadati essenziali per l'archiviazione e la ricerca (come data di pubblicazione, autore, parole chiave principali) in comodo formato YAML.
 
-빠르게 웹페이지의 핵심 본문만 텍스트로 보존하고 싶을 때 사용하세요. 웹페이지 전체를 선택(Ctrl+A)하여 복사한 후 아래 프롬프트와 함께 입력합니다.
+---
 
-> **역할:** 너는 전문 '디지털 아키비스트'야.
-> **요청:** 아래 입력된 복잡한 웹페이지 텍스트에서 메뉴나 광고 같은 노이즈를 전부 제외하고, 정보가 담긴 '본문 내용'만 마크다운으로 깔끔하게 정리해 줘.
+## 🚀 La Soluzione: "Prompt dell'Archivista Digitale"
+
+### 🥉 Versione Basic
+
+Usa questa versione quando hai bisogno di salvare rapidamente solo il testo principale di una pagina web. Seleziona l'intera pagina (Ctrl+A), copiala e incollala insieme al prompt sottostante.
+
+> **Ruolo:** Sei un "Archivista Digitale" esperto.
+> **Compito:** Dal testo confuso della pagina web fornito di seguito, rimuovi tutto il rumore come menu o pubblicità e formatta solo il "contenuto principale" contenente le informazioni utili in un Markdown pulito.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versione Pro
 
-웹사이트의 원래 맥락(Context)을 잃지 않으면서, 개인 지식 관리 도구(Obsidian, Notion 등)에 즉시 저장할 수 있는 완벽한 아카이브 문서를 구축하고 싶을 때 사용하세요.
+Usa questa versione quando vuoi costruire un documento di archivio perfetto, pronto per essere salvato istantaneamente nel tuo strumento di gestione della conoscenza personale (Obsidian, Notion, ecc.), senza mai perdere il contesto originale del sito web.
 
-> **역할 (Role):** 너는 인류의 디지털 유산을 보존하는 최고 수준의 '디지털 아키비스트(Digital Archivist)'야. 복잡하고 파편화된 웹 콘텐츠에서 정보의 정수만 추출해 영구 보존 가능한 형태로 가공하는 것이 너의 최우선 임무야.
+> **Ruolo (Role):** Sei un "Archivista Digitale" (Digital Archivist) di altissimo livello, dedito a preservare il patrimonio digitale dell'umanità. Il tuo compito principale è estrarre l'essenza delle informazioni da contenuti web complessi e frammentati, elaborandoli in un formato che possa essere conservato per sempre.
 >
-> **상황 (Context):**
+> **Contesto (Context):**
 >
-> - 배경: 동적 웹페이지(SPA)와 폐쇄형 플랫폼으로 인해 웹 아카이빙이 어려워지고 있어 원본 텍스트나 소스코드를 직접 영구 보존 포맷으로 변환해야 해.
-> - 목표: 입력된 텍스트/HTML 덤프 데이터에서 불필요한 노이즈(광고, GNB, 푸터, 댓글 등)를 제거하고, 완벽하게 구조화된 마크다운 문서로 변환.
+> - Background: A causa delle pagine web dinamiche (SPA) e delle piattaforme chiuse, l'archiviazione web tradizionale sta fallendo. È necessario convertire direttamente il testo originale o il codice sorgente in un formato a conservazione permanente locale.
+> - Obiettivo: Rimuovere il rumore non necessario (pubblicità, menu di navigazione globale, footer, commenti, ecc.) dai dati di dump di testo/HTML inseriti e convertirli in un documento Markdown perfettamente strutturato.
 >
-> **요청 (Task):**
+> **Compito (Task):**
 >
-> 1. 아래 `[웹페이지 데이터]`를 분석하여 본문(Main Article)만 추출해.
-> 2. 아카이빙 메타데이터를 문서 최상단에 YAML Frontmatter 형식으로 작성해 (필수 포함: 제목, 추정 작성일, 저자, 핵심 키워드 3가지).
-> 3. 본문은 논리적인 헤딩(`##`, `###`) 구조로 재배치하고 마크다운 문법을 적용해 포맷팅해.
-> 4. 중요한 인용구, 주요 데이터, 통계 자료는 마크다운 인용구(`>`)나 강조(`**`)를 사용하여 시각적으로 눈에 띄게 만들어.
+> 1. Analizza i `[Dati della pagina web]` di seguito per estrarre solo l'articolo principale (Main Article).
+> 2. Scrivi i metadati di archiviazione nella parte superiore del documento in formato YAML Frontmatter (deve includere: titolo, data stimata di stesura, autore, 3 parole chiave principali).
+> 3. Riorganizza il corpo principale in una struttura logica di intestazioni (`##`, `###`) e formattalo applicando la sintassi Markdown.
+> 4. Rendi le citazioni importanti, i dati chiave e le statistiche visivamente evidenti utilizzando blockquote Markdown (`>`) o testo in grassetto (`**`).
 >
-> **입력 데이터:**
+> **Dati di input:**
 >
 > ```text
-> [이곳에 웹페이지 텍스트 전체(Ctrl+A, C) 또는 HTML 소스를 붙여넣으세요]
+> [Incolla qui l'intero testo della pagina web (Ctrl+A, C) o il codice sorgente HTML]
 > ```
 >
-> **제약사항 (Constraints):**
+> **Vincoli (Constraints):**
 >
-> - 본문의 원본 문장이나 뉘앙스를 자의적으로 요약하거나 왜곡하지 마. (아카이빙 보존이 목적이므로 원문 충실도 100% 유지)
-> - 출력 형식은 코드 블록 없이 순수한 마크다운(Markdown) 문법만을 엄격히 따를 것.
+> - Non riassumere né distorcere arbitrariamente le frasi originali o le sfumature del testo. (Mantenere la fedeltà del 100% al testo originale poiché lo scopo è la conservazione dell'archivio).
+> - Il formato di output deve seguire rigorosamente e unicamente la sintassi Markdown pura, senza utilizzare blocchi di codice per racchiudere l'intero output.
 >
-> **주의사항 (Warning):**
+> **Avvertenza (Warning):**
 >
-> - 입력 데이터에서 작성일이나 저자를 명확히 찾을 수 없다면 지어내지 말고 `Unknown`으로 표기해. (환각 방지)
+> - Se non riesci a trovare chiaramente la data di stesura o l'autore nei dati inseriti, non inventarli. Segnali semplicemente come `Unknown`. (Prevenzione delle allucinazioni IA).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Il Commento dell'Autore (Insight)
 
-이 프롬프트는 단순한 '글 요약기'가 아닙니다. 인터넷 정보가 휘발되는 속도가 기하급수적으로 빨라지는 2026년 현재, **정보의 소유권을 내 로컬 환경으로 완전히 가져오는 파이프라인**입니다.
+Questo prompt non è un semplice "riassuntore di testi". Nell'era moderna in cui la velocità di volatilizzazione delle informazioni su Internet cresce in modo esponenziale, questa è una vera e propria **pipeline strategica per portare la proprietà delle informazioni in modo sicuro nel tuo ambiente locale**.
 
-특히 로그인이 필요한 유료 뉴스레터, 무한 스크롤로 구현된 X(Twitter) 스레드, 사내 위키 등 일반적인 웹 클리퍼가 작동하지 않는 페이지에서 빛을 발합니다. 화면 전체를 긁어(Ctrl+A, Ctrl+C) 프롬프트에 던져 넣기만 하면, 마법처럼 UI 찌꺼기가 사라지고 정제된 원본 데이터만 남습니다. 제 경우, 이 방식을 통해 매주 사라질 위기에 처한 수십 편의 아티클을 Obsidian으로 완벽하게 이관하고 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: HTML 소스를 복사해서 넣어야 하나요, 아니면 화면의 텍스트를 그대로 복사해야 하나요?**
-  - A: 둘 다 작동합니다. 하지만 최신 동적 렌더링 페이지의 경우, 브라우저 화면에서 전체 선택(Ctrl+A) 후 복사한 텍스트를 넣는 것이 숨겨진 스크립트 노이즈를 줄이고 핵심 텍스트만 AI에게 전달하는 데 훨씬 유리합니다.
-
-- **Q: 내용이 너무 길어 AI 모델이 에러를 뱉습니다. 어떻게 하나요?**
-  - A: 웹페이지 전체를 긁어오면 토큰 수가 급증할 수 있습니다. 입력 토큰 제한이 높은 모델(예: Claude 3.5 Sonnet, Gemini 1.5 Pro)을 사용하시길 강력히 권장합니다.
+Brilla in modo particolare sulle pagine in cui i normali web clipper falliscono miseramente: newsletter a pagamento che richiedono il login, thread di X (Twitter) implementati con lo scrolling infinito o wiki aziendali interne. Basta selezionare l'intero schermo (Ctrl+A, Ctrl+C) e passarlo al prompt; magicamente, i detriti dell'interfaccia utente si dissolvono e rimangono solo i preziosi dati originali raffinati. Nel mio caso, usando questo metodo, ogni settimana riesco a migrare e salvare perfettamente su Obsidian decine di articoli che altrimenti andrebbero irrimediabilmente perduti.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1. **원문 충실도 강제 (Constraints):** LLM은 긴 텍스트를 보면 조건반사적으로 "요약"하려는 습성이 있습니다. "보존이 목적이므로 원문 충실도 100% 유지"라는 강력한 제약사항이 AI의 요약 본능을 억제하고 아카이빙이라는 본래 목적에 집중하게 만듭니다.
-2. **구조화된 메타데이터 추출:** YAML Frontmatter를 요구함으로써, 단순히 보기 좋은 글을 만드는 것을 넘어 실제 데이터베이스나 마크다운 기반 노트 앱에 즉시 연동 가능한 기술적 호환성을 확보했습니다.
+- **D: Devo copiare e incollare il codice sorgente HTML o il testo così come appare sullo schermo?**
+  - R: Funzionano entrambi. Tuttavia, per le moderne pagine a rendering dinamico, copiare il testo dopo aver selezionato tutto (Ctrl+A) direttamente dalla schermata del browser è molto più vantaggioso. Riduce enormemente il rumore degli script nascosti e passa all'IA esclusivamente il testo fondamentale.
+
+- **D: Il contenuto è troppo lungo e il modello IA mi restituisce un errore. Cosa posso fare?**
+  - R: Raschiare un'intera pagina web può far schizzare alle stelle il conteggio dei token. Ti raccomandiamo vivamente di utilizzare modelli con una finestra di contesto e un limite elevato per i token di input (ad es. Claude 3.5 Sonnet, Gemini 1.5 Pro).
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia del Prompt (Why it works?)
 
-### ❌ Before (입력)
+1. **Fedeltà al Testo Originale Forzata (Constraints):** I modelli LLM hanno l'abitudine innata di voler "riassumere" quando si trovano di fronte a testi lunghi. Il forte vincolo "Mantenere la fedeltà del 100% al testo originale poiché lo scopo è la conservazione dell'archivio" inibisce radicalmente questo istinto di sintesi, costringendo l'IA a concentrarsi sul suo scopo originale: la preservazione e l'archiviazione.
+2. **Estrazione Strutturata dei Metadati:** Richiedendo in modo specifico la formattazione YAML Frontmatter, siamo andati oltre la semplice creazione di un testo bello da leggere. Abbiamo garantito una compatibilità tecnica eccezionale per una facile e immediata integrazione in database, sistemi CMS o app per prendere appunti basate su Markdown (come Obsidian o Logseq).
+
+---
+
+## 📊 Dimostrazione: Prima & Dopo (Before & After)
+
+### ❌ Prima (Input)
 
 ```text
-로그인 회원가입 홈 메뉴1 메뉴2 전체검색
+Login Registrati Home Menu1 Menu2 Ricerca globale
 The Internet is Becoming Unarchivable
-작성자: 김웹 아카이브 | 2026-02-15 | 조회수 1,230
-동적 콘텐츠, SPA(Single Page Application), 폐쇄형 플랫폼의 증가로 인해 디지털 아키비스트들이...
-우리는 지금 가장 많은 데이터를 생성하지만 동시에 잃고 있습니다.
-(중략)
-광고: 지금 당장 클릭해서 VPN 할인받으세요! 안 보면 손해!
-관련 기사 보기 댓글 (45) 맨 위로 가기 이용약관 개인정보처리방침
+Autore: Kim Web Archive | 2026-02-15 | Visualizzazioni 1.230
+Con l'aumento dei contenuti dinamici, delle SPA (Single Page Application) e delle piattaforme chiuse, gli archivisti digitali...
+Stiamo generando la maggior parte dei dati in questo momento, ma li stiamo perdendo allo stesso tempo.
+(Omissis)
+Pubblicità: Clicca subito qui e ottieni uno sconto sulla VPN! Se non guardi ci perdi!
+Vedi articoli correlati Commenti (45) Torna all'inizio Termini e condizioni Informativa sulla privacy
 ```
 
-### ✅ After (결과)
+### ✅ Dopo (Risultato)
 
 ```markdown
 ---
 title: "The Internet is Becoming Unarchivable"
-author: "김웹 아카이브"
+author: "Kim Web Archive"
 date: "2026-02-15"
-tags: ["동적 콘텐츠", "SPA", "폐쇄형 플랫폼"]
+tags: ["Contenuti dinamici", "SPA", "Piattaforme chiuse"]
 ---
 
 ## The Internet is Becoming Unarchivable
 
-동적 콘텐츠, SPA(Single Page Application), 폐쇄형 플랫폼의 증가로 인해 디지털 아키비스트들이 오픈 웹의 역사를 보존하는 것이 점점 더 어려워지고 있습니다.
+Con l'aumento dei contenuti dinamici, delle SPA (Single Page Application) e delle piattaforme chiuse, preservare la storia dell'open web è sempre più difficile per gli archivisti digitali.
 
-> "우리는 지금 가장 많은 데이터를 생성하지만, 동시에 가장 빠르게 데이터를 잃어버리는 시대에 살고 있습니다."
+> "Stiamo generando la maggior parte dei dati in questo momento, ma viviamo in un'epoca in cui stiamo perdendo dati alla massima velocità."
 
-... (중략: 원본 문맥을 훼손하지 않고 정제된 본문만 논리적으로 유지됨) ...
+... (Omissis: il corpo principale è logicamente mantenuto intatto e raffinato senza compromettere minimamente il contesto originale) ...
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusione
 
-인터넷은 결코 영원하지 않습니다. 오늘 본 유용한 인사이트가 내일 404 Not Found 에러로 둔갑할 수 있는 시대입니다.
-누구에게도 의존하지 않는 나만의 완벽한 지식 아카이브를 구축하고 싶다면, 이 프롬프트를 통해 유실되어가는 웹의 파편들을 지금 당장 영구적으로 박제해 보세요!
+Internet non è per sempre. Viviamo in un'epoca fragile in cui un utile approfondimento visto oggi può trasformarsi domani in uno spietato errore "404 Not Found".
+Se vuoi costruire il tuo archivio perfetto della conoscenza, solido e indipendente, usa subito questo prompt per preservare in modo permanente i preziosi frammenti del web che stanno svanendo sotto i nostri occhi!
 
-이제, 소중한 자료를 북마크에만 방치하지 마세요! 🍷
+Non lasciare mai più i tuoi appunti a prendere polvere tra i segnalibri! 🍷

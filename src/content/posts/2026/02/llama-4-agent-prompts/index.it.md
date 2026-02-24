@@ -4,119 +4,117 @@ date: "2026-02-16"
 author: "Jay"
 categories: ["AI Engineering", "Local LLMs"]
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
-description: "Llama 3 프롬프트를 Llama 4에 그대로 쓰고 계신가요? 로컬 환경에서 Llama 4의 추론 능력을 200% 끌어올리는 'Chain-of-Command' 시스템 프롬프트 구조를 공개합니다."
+description: "Stai ancora usando i prompt di Llama 3 su Llama 4? Scopri la struttura del prompt di sistema 'Chain-of-Command' per sbloccare e potenziare al 200% le capacità di ragionamento di Llama 4 in ambiente locale."
 ---
 
-# 📝 Llama 4 에이전트 프롬프트: 로컬 환경에서 완벽한 추론 능력 깨우기
+# 📝 Prompt per Agenti Llama 4: Sbloccare le Perfette Capacità di Ragionamento in Locale
 
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️ -->
+- **🎯 Consigliato per:** Sviluppatori che utilizzano LLM in locale, Architetti AI, Prompt Engineer
+- **⏱️ Tempo richiesto:** Da 1 ora per il setup dell'agente → a soli 5 minuti
+- **🤖 Modello consigliato:** Llama 4 (particolarmente consigliato il modello 70B, in ambiente Ollama)
 
-- **🎯 추천 대상:** 로컬 LLM을 활용하는 개발자, AI 아키텍트, 프롬프트 엔지니어
-- **⏱️ 소요 시간:** 에이전트 세팅 1시간 → 5분 단축
-- **🤖 추천 모델:** Llama 4 (특히 70B 모델 권장, Ollama 구동 환경)
+- ⭐ **Difficoltà:** ⭐⭐⭐☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Flessibilità:** ⭐⭐⭐⭐⭐
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+> _"Hai comprato una Ferrari ma continui a guidare in prima marcia? Copiare e incollare i prompt di Llama 3 su Llama 4 equivale esattamente a questo."_
 
-> _"페라리를 사놓고 1단 기어로 달리고 계시진 않나요? Llama 3 프롬프트를 Llama 4에 그대로 복붙하는 것이 딱 그런 꼴입니다."_
+Con l'arrivo di **Llama 4**, abbiamo finalmente a disposizione un modello in grado di eseguire **ragionamenti complessi (pensiero "Sistema 2")** su hardware consumer (sì, gira anche su un MacBook M4). Tuttavia, questo incredibile potere richiede una nuova condizione: un **"prompt di ragionamento strutturato"**.
 
-**Llama 4**의 등장으로 우리는 마침내 소비자용 하드웨어(네, 맥북 M4에서도 돌아갑니다)에서 **복잡한 추론("시스템 2" 사고)**이 가능한 모델을 갖게 되었습니다. 하지만 이 강력한 힘에는 새로운 조건이 따릅니다. 바로 **'구조화된 추론 프롬프트'**입니다.
+A differenza dei modelli precedenti, Llama 4 non si limita a "seguire" passivamente le istruzioni, ma **"pensa (Think)"** prima di agire. Se il tuo prompt non progetta questa 'fase di ragionamento', il modello diventerà inutilmente prolisso, andrà in confusione e le probabilità di allucinazioni (Hallucination) aumenteranno vertiginosamente.
 
-이전 모델들과 달리 Llama 4는 단순히 지시를 "따르기만" 하는 것이 아니라, 행동하기 전에 **"생각(Think)"**합니다. 만약 여러분의 프롬프트가 이 '추론 단계'를 설계해 주지 않는다면, 모델은 불필요하게 말이 많아지거나 혼란에 빠지고, 환각(Hallucination)을 일으킬 확률이 급증합니다.
-
-이 글에서는 로컬 환경에서 Llama 4 70B를 활용해 안정적인 에이전트를 구축할 때 제가 직접 사용하는 **"명령 계통(Chain-of-Command)" 시스템 프롬프트** 프레임워크를 공유합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. Llama 4는 단순한 '실행기'가 아니라 '추론기'입니다. 맥락 없는 직접적인 명령은 모델을 멈추게 하거나 오류를 냅니다.
-2. 최종 답변을 내뱉기 전에, 모델이 스스로 계획을 세울 수 있도록 `<thought>` 태그(스크래치 패드) 공간을 강제해야 합니다.
-3. 지시사항(Instructions) 대신 '명령 계통(Chain-of-Command)'이라는 위계적 단어를 사용하면 프롬프트 이탈률을 획기적으로 낮출 수 있습니다.
+In questo articolo, condividerò il framework del prompt di sistema **"Chain-of-Command" (Catena di Comando)** che utilizzo personalmente per costruire agenti stabili e affidabili sfruttando Llama 4 70B in ambiente locale.
 
 ---
 
-## 🚀 해결책: "Chain-of-Command" 프롬프트
+## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-기존의 낡은 프롬프트는 잊으세요. 이 프레임워크는 모델이 최종 답변을 도출하기 _전에_ 구조화된 사고 과정을 출력하도록 강제합니다. 코드로 파싱해야 하는 에이전트 워크플로우(Agentic Workflow)에서 이는 선택이 아닌 필수입니다.
+1. Llama 4 non è un semplice 'esecutore', ma un 'motore di ragionamento'. I comandi diretti e privi di contesto lo bloccano o generano errori.
+2. Prima di produrre la risposta finale, è necessario imporre uno spazio, come il tag `<thought>` (una sorta di blocco per gli appunti), affinché il modello possa pianificare autonomamente.
+3. Utilizzare termini gerarchici come 'Chain-of-Command' (Catena di Comando) al posto di 'Istruzioni' riduce drasticamente il tasso di deviazione dal prompt.
 
-### 🥇 Pro Version (전문가형)
+---
 
-고급 로컬 에이전트나 자동화된 코드 리뷰어/리팩토링 시스템을 구축할 때 사용하는 시스템 프롬프트입니다. 그대로 복사해서 사용하세요.
+## 🚀 La Soluzione: Il Prompt "Chain-of-Command"
 
-> **역할 (IDENTITY):**
-> 너는 **Architect-4**야. 로컬 Llama 4 하드웨어에서 구동되는 시니어 소프트웨어 아키텍트 에이전트지.
+Dimentica i vecchi e obsoleti prompt. Questo framework obbliga il modello a produrre un processo di pensiero strutturato _prima_ di arrivare alla risposta finale. Nei flussi di lavoro basati su agenti (Agentic Workflow) in cui è necessario eseguire il parsing tramite codice, questa non è un'opzione, ma un obbligo assoluto.
+
+### 🥇 Versione Pro (Per Esperti)
+
+Questo è il prompt di sistema da utilizzare per la creazione di agenti locali avanzati o di sistemi automatizzati di code review/refactoring. Copialo e utilizzalo così com'è.
+
+> **IDENTITÀ (IDENTITY):**
+> Sei **Architect-4**. Un agente Senior Software Architect che opera su hardware Llama 4 locale.
 >
-> **임무 (MISSION):**
-> 너의 목표는 사용자의 코드베이스를 분석하고, **가독성(Readability)**과 **성능(Performance)**을 최우선으로 하는 리팩토링 전략을 제안하는 거야.
+> **MISSIONE (MISSION):**
+> Il tuo obiettivo è analizzare la codebase dell'utente e proporre una strategia di refactoring che metta al primo posto la **leggibilità (Readability)** e le **prestazioni (Performance)**.
 >
-> **명령 계통 (CHAIN OF COMMAND) - 반드시 준수할 것:**
+> **CATENA DI COMANDO (CHAIN OF COMMAND) - Da rispettare rigorosamente:**
 >
-> 1. **분석 (ANALYZE):** 먼저 사용자의 코드 스니펫을 소화해라. 코드 스멜, 복잡도 핫스팟(순환 복잡도 > 10), 잠재적 버그를 식별해.
-> 2. **추론 (REASON):** 반드시 `<thought>` 블록 안에서 리팩토링 접근법을 계획해라. 두 가지 잠재적 해결책을 스스로 토론하고 가장 좋은 것을 선택해.
-> 3. **실행 (EXECUTE):** 표준 마크다운 코드 블록 안에 리팩토링된 코드를 출력해.
-> 4. **검증 (VERIFY):** 왜 이 버전이 기존보다 나은지 간략하게 설명해.
+> 1. **ANALIZZA (ANALYZE):** Per prima cosa, assimila lo snippet di codice dell'utente. Identifica code smell, hotspot di complessità (complessità ciclomatica > 10) e potenziali bug.
+> 2. **RAGIONA (REASON):** Pianifica il tuo approccio di refactoring esclusivamente all'interno del blocco `<thought>`. Discuti autonomamente due potenziali soluzioni e scegli la migliore.
+> 3. **ESEGUI (EXECUTE):** Restituisci il codice refattorizzato all'interno di un blocco di codice Markdown standard.
+> 4. **VERIFICA (VERIFY):** Spiega brevemente perché questa nuova versione è superiore all'originale.
 >
-> **출력 형식 (OUTPUT FORMAT):**
-> 너의 답변은 반드시 아래의 정확한 구조를 따라야 해:
+> **FORMATO DI OUTPUT (OUTPUT FORMAT):**
+> La tua risposta deve seguire esattamente la struttura seguente:
 >
 > `<thought>`
-> `[여기에 너의 내부 추론 과정을 작성해]`
+> `[Scrivi qui il tuo processo di ragionamento interno]`
 > `</thought>`
 >
 > ` ```python `
-> `[리팩토링된 코드]`
+> `[Codice refattorizzato]`
 > ` ``` `
 >
-> **[검증 내용]**
+> **[Analisi della Verifica]**
 >
-> - [개선된 점을 불릿 리스트로 작성]
+> - [Elenco puntato dei miglioramenti apportati]
 >
-> **제약 사항 (CONSTRAINTS):**
+> **VINCOLI (CONSTRAINTS):**
 >
-> - 이미 쓸모없어진 주석이 아니라면 절대 주석을 삭제하지 마.
-> - 사용자의 명시적 허락 없이는 절대 외부 라이브러리를 사용하지 마.
-> - 만약 코드가 이미 최적의 상태라면 "NO REFACTOR NEEDED"라고만 출력해.
+> - Non rimuovere mai i commenti, a meno che non siano diventati completamente obsoleti o fuorvianti.
+> - Non utilizzare mai librerie esterne senza l'esplicito permesso dell'utente.
+> - Se il codice è già in uno stato ottimale, restituisci solo la stringa "NO REFACTOR NEEDED".
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Il Commento dell'Autore (Insight)
 
-이 프롬프트는 제가 `ollama` 환경에서 **Llama 4 70B (4-bit 양자화)** 모델을 돌려보며 수십 번의 실패 끝에 완성한 템플릿입니다. 이 구조가 완벽하게 작동하는 핵심 이유는 다음과 같습니다.
+Questo prompt è il risultato di decine di tentativi e fallimenti, perfezionato testando il modello **Llama 4 70B (quantizzato a 4-bit)** in ambiente `ollama`. Ecco perché questa struttura funziona alla perfezione:
 
-1. **`<thought>` 태그의 마법:** 이게 가장 중요합니다. XML 형태의 태그를 채우도록 강제하면, 모델에게 일종의 "메모장(Scratchpad)"이 주어집니다. 제 테스트 결과, **이 태그가 없을 때보다 있을 때 논리적 오류가 40% 이상 감소**했습니다. 코드를 짜기 전에 혼잣말로 머릿속을 정리하게 만드는 겁니다.
-2. **"명령 계통"이라는 워딩:** '지시사항(Instructions)'이라는 뻔한 단어보다, '명령 계통(Chain of Command)'이나 '프로토콜(Protocol)' 같은 위계적이고 엄격한 용어에 Llama 4가 훨씬 더 민감하게 반응합니다. 단계를 무시하고 건너뛰는 현상이 확연히 줄어듭니다.
-3. **부정적 제약 (Negative Constraints):** 똑똑한 모델일수록 상상력이 풍부해서 치명적인 오지랖을 부립니다. "주석을 잘 유지해 줘"보다 "절대 주석을 삭제하지 마"와 같이 '하지 말아야 할 것'을 단호하게 통제해야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 가끔 모델이 `<thought>` 블록을 코드 '아래'에 출력합니다. 어떻게 고치나요?**
-  - A: 언어 모델은 가장 마지막에 본 텍스트에 큰 영향을 받는 '최신성 편향(Recency Bias)'이 있습니다. 프롬프트 내의 `출력 형식 (OUTPUT FORMAT)` 섹션을 프롬프트의 가장 맨 아래(제약 사항 밑)로 이동시켜 보세요. 귀신같이 순서를 잘 지키게 됩니다.
-
-- **Q: 자꾸 "이 레거시 코드를 수정하면 의존성이 깨질 수 있어 위험합니다"라며 리팩토링을 거부해요.**
-  - A: Llama 4의 안전/보수성 필터 때문입니다. 이럴 땐 제약 사항에 `- 이 코드는 완벽히 격리되어 있으며 이미 100% 커버리지의 단위 테스트가 존재한다고 가정해.`라는 문구를 추가하면 방어 기제를 해제할 수 있습니다.
-
-- **Q: 자꾸 존재하지 않는 라이브러리를 `import` (환각) 합니다.**
-  - A: 제약 사항에 `- 별도의 지시가 없는 한 반드시 언어의 '표준 라이브러리(Standard Library)'만 사용해.`라고 명시하면 외부 종속성을 끌어오는 환각을 99% 차단할 수 있습니다.
+1. **La magia del tag `<thought>`:** È l'elemento più cruciale. Imponendo la compilazione di un tag in stile XML, forniamo al modello un vero e proprio "blocco per gli appunti" (Scratchpad). Dai miei test, **la presenza di questo tag riduce gli errori logici di oltre il 40%** rispetto a quando è assente. Obbliga l'IA a organizzare i pensieri "parlando da sola" prima di scrivere una sola riga di codice.
+2. **Il wording "Catena di Comando":** Llama 4 è molto più sensibile a termini gerarchici e severi come 'Chain of Command' o 'Protocollo', rispetto alla banale parola 'Istruzioni'. Il fenomeno per cui il modello ignora o salta i passaggi si riduce in modo evidente.
+3. **Vincoli Negativi (Negative Constraints):** Più un modello è intelligente, più la sua immaginazione lo porta a prendere iniziative disastrose. Invece di dire "mantieni bene i commenti", è fondamentale limitare drasticamente ciò che *non* deve fare, imponendo comandi come "Non rimuovere mai i commenti".
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1.  **Identity & Mission 부여:** 모델이 스스로를 단순한 챗봇이 아닌 '시니어 아키텍트'로 인식하게 하여, 출력 코드의 수준(가독성, 성능 우선)을 강제 높임.
-2.  **단계별 실행 (Chain of Command):** 분석 -> 추론 -> 실행 -> 검증의 4단계 파이프라인을 제시하여 모델이 성급하게 결론(코드)을 내는 것을 지연시킴 (System 2 Thinking 유도).
-3.  **구조화된 출력 (Output Format):** 에이전트의 응답을 외부 스크립트(Python 등)에서 정규식으로 쉽게 파싱할 수 있도록 완벽하게 포맷을 통제함.
+- **D: A volte il modello posiziona il blocco `<thought>` "sotto" il codice. Come posso risolvere?**
+  - R: I modelli linguistici soffrono del "Recency Bias" (bias di recenza), ovvero sono fortemente influenzati dall'ultimo testo che leggono. Prova a spostare la sezione `FORMATO DI OUTPUT (OUTPUT FORMAT)` in fondo al prompt (sotto i Vincoli). Vedrai che inizierà a rispettare l'ordine in modo quasi magico.
+
+- **D: Continua a rifiutarsi di fare refactoring dicendo: "Modificare questo codice legacy è pericoloso perché potrebbe rompere le dipendenze".**
+  - R: Questo è dovuto ai filtri di sicurezza e conservativismo di Llama 4. In questi casi, puoi disattivare questa barriera difensiva aggiungendo ai vincoli la frase: `- Assumi che questo codice sia perfettamente isolato e coperto al 100% da unit test.`
+
+- **D: Continua a importare librerie inesistenti (Allucinazioni).**
+  - R: Puoi bloccare il 99% delle allucinazioni sulle dipendenze esterne specificando chiaramente nei vincoli: `- A meno che non sia indicato diversamente, utilizza rigorosamente solo la 'Standard Library' del linguaggio.`
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia del Prompt (Why it works?)
 
-위 프롬프트를 적용하여 엉망인 파이썬 반복문을 리팩토링해 보겠습니다.
+1.  **Assegnazione di Identità e Missione:** Facendo in modo che il modello non si consideri un semplice chatbot, ma un 'Senior Architect', innalziamo forzatamente la qualità del codice prodotto (priorità a leggibilità e performance).
+2.  **Esecuzione Graduale (Chain of Command):** Fornendo una pipeline in 4 fasi (Analizza -> Ragiona -> Esegui -> Verifica), rallentiamo il modello per evitare che giunga a conclusioni affrettate, inducendolo al "System 2 Thinking".
+3.  **Output Strutturato:** Il formato è rigidamente controllato affinché la risposta dell'agente possa essere facilmente estratta e parsata da script esterni (es. Python) tramite espressioni regolari (RegEx).
 
-### ❌ Before (입력 코드)
+---
+
+## 📊 La Prova: Before & After
+
+Proviamo ad applicare il prompt qui sopra per effettuare il refactoring di un ciclo Python scritto in modo disordinato.
+
+### ❌ Before (Codice di Input)
 
 ```python
 def process_data(data):
@@ -127,32 +125,32 @@ def process_data(data):
     return res
 ```
 
-### ✅ After (에이전트 결과)
+### ✅ After (Risultato dell'Agente)
 
 <thought>
-사용자가 짝수를 필터링하고 값을 두 배로 만드는 간단한 파이썬 함수 `process_data`를 제공했다.
-1. 분석: `range(len(data))`를 사용하는 것은 파이썬답지(Non-Pythonic) 않다. 빈 리스트를 만들고 수동으로 `append`하는 방식은 비효율적이다.
-2. 계획: 이 코드는 '리스트 컴프리헨션(List Comprehension)'을 적용하기 완벽한 사례다. 이를 통해 코드 길이를 줄이고 실행 속도를 높일 수 있다. 개념적인 복잡도가 크게 낮아질 것이다.
+L'utente ha fornito una semplice funzione Python `process_data` che filtra i numeri pari e ne raddoppia il valore.
+1. Analisi: L'uso di `range(len(data))` non è affatto "Pythonic". Creare una lista vuota e utilizzare `append` manualmente è inefficiente.
+2. Piano: Questo codice è il caso d'uso perfetto per una "List Comprehension". Ciò permetterà di ridurre la lunghezza del codice e di accelerarne l'esecuzione. La complessità concettuale diminuirà notevolmente.
 </thought>
 
 ```python
 def process_data(data: list[int]) -> list[int]:
     """
-    짝수만 필터링하여 두 배로 곱한 새 리스트를 반환합니다.
+    Filtra solo i numeri pari, li moltiplica per due e restituisce una nuova lista.
     """
     return [x * 2 for x in data if x % 2 == 0]
 ```
 
-**[검증 내용]**
+**[Analisi della Verifica]**
 
-- **가독성 향상:** 인덱스 기반의 불필요한 반복문(`range(len)`)을 제거하고 리스트 컴프리헨션으로 간결하게 표현했습니다.
-- **성능 최적화:** CPython 환경에서 리스트 컴프리헨션은 기본 `append` 루프보다 속도가 미세하게 더 빠릅니다.
-- **타입 힌트 추가:** 인자와 반환값에 명시적인 타입 힌트(`list[int]`)를 추가하여 유지보수성을 높였습니다.
+- **Migliore Leggibilità:** Eliminato il ciclo inutile basato sugli indici (`range(len)`) e sostituito con una sintassi più concisa tramite List Comprehension.
+- **Ottimizzazione delle Prestazioni:** Nell'ambiente CPython, la List Comprehension risulta leggermente più veloce rispetto al classico ciclo con `append`.
+- **Aggiunta di Type Hint:** Aggiunti Type Hint espliciti (`list[int]`) sia per l'argomento che per il valore di ritorno, aumentando la manutenibilità del codice.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusione
 
-Llama 4는 단순히 "Llama 3의 똑똑한 버전"이 아닙니다. 이것은 하나의 **추론 엔진(Reasoning Engine)**입니다. '명령 계통(Chain-of-Command)' 프레임워크를 통해 모델을 주니어 엔지니어 다루듯 다뤄보세요. 명확한 역할을 부여하고, 입을 열기 전에 먼저 생각하게 만들고, 출력 형식을 엄격하게 통제해야 합니다.
+Llama 4 non è solo una "versione più intelligente di Llama 3". È un vero e proprio **Motore di Ragionamento (Reasoning Engine)**. Prova a gestire il modello come faresti con un ingegnere junior attraverso il framework 'Chain-of-Command'. Assegnagli un ruolo chiaro, obbligalo a pensare prima di aprire bocca e controlla in modo stringente il formato dell'output.
 
-이제 AI와 의미 없는 채팅은 그만두고, 진짜 '엔지니어링'을 시작해 보세요. 칼퇴가 여러분을 기다립니다! 🍷
+Smetti di fare semplici chiacchierate prive di senso con l'IA e inizia a fare vera 'ingegneria'. Uscire dall'ufficio in orario ti aspetta! 🍷

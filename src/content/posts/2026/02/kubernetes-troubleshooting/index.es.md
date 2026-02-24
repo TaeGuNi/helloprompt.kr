@@ -5,135 +5,135 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"
-description: "CrashLoopBackOff, Pending... 쿠버네티스 에러 로그를 빠르고 정확하게 해석하여 장애를 복구하는 실전 프롬프트 가이드입니다."
+description: "CrashLoopBackOff, Pending... Una guía práctica de prompts para interpretar de manera rápida y precisa los logs de error de Kubernetes y recuperar el servicio tras un fallo."
 tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 ---
 
-# ☸️ Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법
+# ☸️ Solución de problemas en Kubernetes (K8s): Qué hacer en 3 minutos cuando un Pod muere
 
-- **🎯 추천 대상:** 인프라 장애 대응이 부담스러운 백엔드 개발자, 새벽 알람에 눈을 뜬 DevOps 엔지니어
-- **⏱️ 소요 시간:** 3분 (로그 분석 및 해결책 도출)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (로그 패턴 분석 및 코드 작성에 탁월함)
+- **🎯 Recomendado para:** Desarrolladores backend intimidados por la respuesta a incidentes de infraestructura, ingenieros DevOps que se despiertan con alarmas de madrugada.
+- **⏱️ Tiempo requerido:** 3 minutos (análisis de logs y obtención de soluciones)
+- **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (excelentes para el análisis de patrones de logs y escritura de código)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Pod 상태가 `CrashLoopBackOff`에 빠졌습니다. 방대한 로그 속에서 원인을 찾느라 30분을 허비하고 계시진 않나요?"_
+> _"El estado de tu Pod ha caído en `CrashLoopBackOff`. ¿Acaso estás perdiendo 30 minutos escarbando en una montaña de logs para encontrar la causa?"_
 
-쿠버네티스(Kubernetes) 환경에서의 트러블슈팅은 언제나 당혹스럽습니다. 수많은 컴포넌트가 얽혀 있어 에러의 근본 원인(Root Cause)을 단번에 파악하기 어렵기 때문입니다. 하지만 발생하는 장애의 패턴은 어느 정도 정해져 있습니다. 의미 없는 삽질을 멈추고, 에러 로그와 상태 메시지를 AI에게 던져보세요. 숙련된 SRE(Site Reliability Engineer)처럼 빠르고 정확하게 원인을 진단하고 복구 명령어를 제시해 줄 것입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. `kubectl describe pod`와 `kubectl logs` 명령어로 파드의 상태와 에러 로그를 확보합니다.
-2. 복잡한 에러 메시지와 이벤트 로그를 복사하여 AI 프롬프트에 그대로 붙여넣습니다.
-3. 발생 원인 진단부터 즉각적인 복구 명령어(`kubectl`), 나아가 근본적인 해결책(YAML 수정)까지 한 번에 얻어냅니다.
+Solucionar problemas en un entorno de Kubernetes (K8s) siempre es desconcertante. Al estar compuesto por cientos de componentes entrelazados, identificar la causa raíz (Root Cause) de un error a simple vista es una tarea ardua. Sin embargo, los patrones de los fallos que ocurren suelen estar bastante definidos. Deja de dar palos de ciego; simplemente lánzale los logs de error y los mensajes de estado a la IA. Como un SRE (Site Reliability Engineer) experimentado, diagnosticará la causa de manera rápida y precisa, proporcionándote los comandos exactos para una recuperación inmediata.
 
 ---
 
-## 🚀 해결책: "K8s Doctor Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (초기 진단용)
+1. Utiliza los comandos `kubectl describe pod` y `kubectl logs` para obtener el estado del Pod y los logs de error.
+2. Copia los complejos mensajes de error y los logs de eventos, y pégalos directamente en el prompt de la IA.
+3. Obtén de una sola vez el diagnóstico de la causa, los comandos de recuperación inmediata (`kubectl`), e incluso la solución definitiva (modificación del archivo YAML).
 
-에러 로그의 의미를 직관적으로 파악하고 방향성을 잡고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 DevOps 엔지니어야.
+## 🚀 Solución: "Prompt K8s Doctor"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites comprender intuitivamente el significado de los logs de error y definir una dirección rápida a seguir para el diagnóstico.
+
+> **Rol:** Eres un Ingeniero DevOps Senior.
 >
-> **에러 로그:**
-> `[여기에 kubectl logs 또는 describe 이벤트를 붙여넣으세요]`
+> **Logs de error:**
+> `[Pega aquí el resultado de kubectl logs o los eventos de describe]`
 >
-> **요청:**
-> 이 에러가 발생한 핵심 원인이 무엇인지 개발자 관점에서 아주 쉽게 요약해 줘. (예: 메모리 부족, 권한 설정 오류, 네트워크 타임아웃 등) 당장 확인해 봐야 할 포인트 2가지를 함께 제시해 줘.
+> **Tarea:**
+> Resume de forma muy sencilla, desde la perspectiva de un desarrollador, cuál es la causa principal de este error (ej: falta de memoria, error de permisos, timeout de red, etc.). Además, indícame 2 puntos clave que deba revisar inmediatamente.
 
 <br>
 
-### 🥇 Pro Version (장애 복구 및 SRE 리포트)
+### 🥇 Versión Pro (Pro Version)
 
-단순한 에러 해석을 넘어, 즉각적인 복구 스크립트와 재발 방지 대책까지 완벽하게 도출해야 할 때 사용하세요.
+Úsala cuando necesites ir más allá de la simple interpretación de errores y requieras deducir perfectamente un script de recuperación inmediata y establecer medidas preventivas sólidas.
 
-> **역할 (Role):**
-> 너는 대규모 트래픽을 처리하는 글로벌 IT 기업의 SRE(Site Reliability Engineer) 팀장이야. 복잡한 시스템 장애를 신속하게 복구하고(Incident Response), 재발 방지 대책을 수립하는 최고 전문가이지.
+> **Rol (Role):**
+> Eres el líder del equipo SRE (Site Reliability Engineer) en una empresa global de TI que maneja tráfico masivo. Eres el máximo experto en restaurar rápidamente fallos complejos en sistemas (Incident Response) y en establecer medidas para prevenir su recurrencia.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 파드 상태: `[현재 상태 예: Pending, CrashLoopBackOff, ImagePullBackOff]`
-> - 시스템 로그/이벤트: `[여기에 kubectl describe pod <pod-name>의 Events 내용 또는 kubectl logs 내용을 붙여넣으세요]`
+> - Estado del Pod: `[Estado actual, ej: Pending, CrashLoopBackOff, ImagePullBackOff]`
+> - Logs/Eventos del sistema: `[Pega aquí el contenido de la sección Events de 'kubectl describe pod <nombre-del-pod>' o el resultado de 'kubectl logs']`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 다음 3단계로 장애 대응 리포트를 작성해 줘.
+> Redacta un informe de respuesta a incidentes dividido en los siguientes 3 pasos:
 >
-> 1. **Root Cause Analysis (원인 분석):** 파드가 정상적으로 배포/실행되지 못하는 근본 원인을 논리적으로 분석해 줘.
-> 2. **Immediate Action (즉시 복구 조치):** 당장 장애를 해결할 수 있는 구체적인 `kubectl` 명령어 셋이나, 즉시 수정해야 할 `deployment.yaml`의 설정값을 정확한 코드로 제공해 줘.
-> 3. **Preventive Measure (재발 방지 대책):** 추후 동일한 장애가 발생하지 않도록 리소스 제한(`resources.requests/limits`), Liveness/Readiness Probe 설정 등 아키텍처 관점의 개선안을 제안해 줘.
+> 1. **Análisis de Causa Raíz (Root Cause Analysis):** Analiza lógicamente la causa fundamental por la cual el Pod no se despliega o ejecuta correctamente.
+> 2. **Acción Inmediata (Immediate Action):** Proporciona el conjunto específico de comandos `kubectl` para resolver el fallo al instante, o el código exacto de los valores de configuración en el `deployment.yaml` que deben modificarse de inmediato.
+> 3. **Medidas Preventivas (Preventive Measure):** Propón mejoras desde una perspectiva arquitectónica para evitar que el mismo fallo ocurra en el futuro, tales como límites de recursos (`resources.requests/limits`), configuración de Liveness/Readiness Probes, etc.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운을 사용하고, 가독성 좋게 구조화해 줘.
-> - 단순히 파드를 삭제(`kubectl delete pod`)하는 임시방편은 지양하고, 원인을 해결하는 접근법을 제시해.
+> - El formato de salida debe usar Markdown y estar estructurado de forma clara para facilitar la lectura de urgencia.
+> - Evita soluciones temporales vagas como simplemente eliminar el Pod (`kubectl delete pod`); debes plantear un enfoque que resuelva el problema de raíz.
 >
-> **주의사항 (Warning):**
+> **Advertencias (Warning):**
 >
-> - 확신할 수 없는 로그에 대해서는 추측하지 말고, 추가로 확인해야 할 명령어를 알려줘. (환각 방지)
+> - No hagas suposiciones sobre logs o eventos de los que no estés seguro; en su lugar, indícame qué comandos adicionales debo ejecutar para investigar. (Evita alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-쿠버네티스 장애 중 가장 잡기 까다로운 것이 바로 **`OOMKilled` (메모리 초과로 인한 강제 종료)**입니다. 애플리케이션 로그에는 에러가 남지 않고 파드가 조용히 죽어버리기 때문입니다.
+Uno de los fallos de Kubernetes más difíciles de atrapar es precisamente el **`OOMKilled` (Terminación forzada por exceso de memoria)**. Esto se debe a que el Pod muere silenciosamente sin dejar ni un solo rastro de error en los logs de la aplicación.
 
-이럴 때는 AI에게 단편적인 애플리케이션 로그만 주면 엉뚱한 답을 내놓습니다. 반드시 `kubectl describe pod [파드명]`의 하단 **Events** 섹션과 `State: Terminated (Reason: OOMKilled)` 부분을 복사해서 전달해야 합니다. "이 파드가 OOM으로 죽었는데, Node의 가용 메모리 문제인지, 컨테이너의 Limits 설정 문제인지 분석할 수 있는 후속 명령어를 알려줘"라고 질문하면, 노련한 탐정처럼 `kubectl top nodes`나 커널 로그(`dmesg`) 확인법을 가이드해 줄 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 에러 로그가 수천 줄이 넘어서 프롬프트에 다 안 들어갑니다. 어떡하죠?**
-  - A: 핵심은 파드가 죽기 직전의 상황입니다. `kubectl logs [파드명] --tail=100` 명령어를 사용해 마지막 100줄만 추출해서 프롬프트에 붙여넣으세요. 대부분의 치명적인 단서는 끝부분에 존재합니다.
-
-- **Q: AI가 알려준 `kubectl` 명령어를 프로덕션(운영) 서버에 바로 쳐도 안전할까요?**
-  - A: **절대 안 됩니다.** AI가 제안한 명령어(특히 `delete`, `scale`, `edit` 등 상태를 변경하는 명령)는 항상 `--dry-run=client` 옵션을 붙여서 어떤 리소스가 변경되는지 먼저 시뮬레이션해 보세요. 변경될 YAML 매니페스트를 먼저 검토하는 것이 SRE의 기본 소양입니다.
+En estos casos, si solo le proporcionas a la IA un fragmento de los logs del contenedor, te dará respuestas completamente irrelevantes. Es imprescindible copiar y proporcionar la sección de **Events** ubicada en la parte inferior de `kubectl describe pod [nombre-del-pod]` y el bloque exacto que dice `State: Terminated (Reason: OOMKilled)`. Si le preguntas: "Este Pod ha muerto por OOM, indícame los comandos de seguimiento para analizar si es un problema de memoria disponible en el Node o un problema de configuración de Limits en el contenedor", la IA te guiará como un detective experimentado para verificar la saturación del clúster con `kubectl top nodes` o investigar los logs del kernel mediante `dmesg`.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **SRE 페르소나와 임무 부여:** AI에게 "SRE 팀장"이라는 명확한 역할을 부여하여, 단순한 답변이 아닌 '원인 분석-즉각 조치-재발 방지'로 이어지는 전문적인 **장애 보고서 프레임워크**를 강제했습니다.
-2. **명확한 컨텍스트 제공:** 파드의 현재 상태(`Pending`, `CrashLoopBackOff` 등)와 실제 시스템 이벤트를 분리하여 입력하도록 설계하여, AI가 상황을 오판하는 환각(Hallucination) 현상을 최소화했습니다.
-3. **위험 행동 제어 (Constraints):** 실무에서 흔히 하는 실수인 '무지성 파드 재시작'을 시스템적으로 차단하고, 아키텍처 레벨의 근본적 해결을 유도했습니다.
+- **Q: Los logs de error superan las miles de líneas y no caben en el prompt de la IA. ¿Qué hago?**
+  - A: La clave de la investigación está en los instantes inmediatamente anteriores a la muerte del Pod. Utiliza el comando `kubectl logs [nombre-del-pod] --tail=100` para extraer solo las últimas 100 líneas y pégalas en el prompt. La inmensa mayoría de las pistas críticas residen en esa cola final.
+
+- **Q: ¿Es seguro ejecutar directamente en el clúster de producción los comandos `kubectl` que me da la IA?**
+  - A: **Absolutamente no.** Para los comandos sugeridos por la IA (especialmente aquellos que mutan el estado como `delete`, `scale`, `edit`, `set image`, etc.), añade siempre la bandera `--dry-run=client` para simular primero qué recursos se verán afectados. Revisar exhaustivamente el manifiesto YAML antes de aplicarlo es la regla de oro de cualquier SRE.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (Why it works?)
 
-### ❌ Before (무한 삽질과 구글링)
+1. **Asignación de Rol y Misión Crítica:** Al otorgarle a la IA el rol inquebrantable de "Líder del equipo SRE", forzamos un **marco profesional de reporte de incidentes** que transiciona desde el "análisis exhaustivo de causas, acciones inmediatas quirúrgicas, hasta la prevención de recaídas", en lugar de conformarnos con un simple parche al error.
+2. **Contexto Claro y Segmentado:** Diseñado para introducir por separado el estado actual del Pod (como `Pending` o `CrashLoopBackOff`) y los eventos reales emitidos por el sistema. Esta segmentación minimiza drásticamente el fenómeno de alucinación (Hallucination) en el que la IA juzga erróneamente la situación por falta de contexto.
+3. **Control de Acciones de Riesgo (Constraints):** Bloquea de manera sistemática el instinto impulsivo de "reiniciar el Pod a ciegas", un antipatrón sumamente común en la práctica operativa, canalizando la respuesta hacia una resolución definitiva a nivel arquitectónico.
 
-- **상황:** 파드가 `Pending` 상태에서 멈춤.
-- **행동:** 구글에 "kubernetes pod pending" 검색 → 수십 개의 스택오버플로우 글을 읽으며 노드 용량, 네트워크 CNI, 퍼시스턴트 볼륨(PV) 등 온갖 가능성을 하나씩 찔러봄.
-- **결과:** 원인 파악에만 40분 소요, 서비스 다운타임 장기화.
+---
 
-### ✅ After (AI 진단 및 3분 복구)
+## 📊 Demostración: Antes y Después (Before & After)
 
-- **상황:** 프롬프트에 `kubectl describe pod` 하단 이벤트를 복사해 넣음.
-- **AI 답변:**
-  > "로그 분석 결과 `Insufficient cpu`로 인한 스케줄링 실패입니다. 현재 클러스터의 워커 노드에 남은 CPU 할당량이 부족합니다.
+### ❌ Antes (Googleando y perdiendo el tiempo crítico)
+
+- **Situación:** El Pod de la aplicación se queda atascado perpetuamente en estado `Pending`.
+- **Acción:** Buscar en Google frenéticamente "kubernetes pod pending" → Leer decenas de hilos interminables en StackOverflow e intentar probar cada posibilidad una por una: capacidad residual del nodo, fallos en el plugin de red CNI, bloqueos en los volúmenes persistentes (PV/PVC), etc.
+- **Resultado:** Se pierden 40 valiosos minutos solo en identificar la verdadera causa del bloqueo, prolongando dramáticamente el tiempo de inactividad del servicio de cara al usuario.
+
+### ✅ Después (Diagnóstico IA y recuperación en 3 minutos)
+
+- **Situación:** Se copian y pegan los eventos inferiores arrojados por `kubectl describe pod` directamente en el prompt.
+- **Respuesta de la IA:**
+  > "El análisis de los eventos revela un fallo de programación (scheduling failure) debido a `Insufficient cpu`. Actualmente, no existe suficiente cuota de CPU asignable en el pool de nodos worker del clúster para acomodar este Pod.
   >
-  > **[즉각 조치]**
-  > 우선 서비스 정상화를 위해 해당 파드의 `resources.requests.cpu`를 500m에서 200m로 임시 하향 조정하여 배포하세요.
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+  > **[Acción Inmediata]**
+  > Para restaurar el servicio con urgencia, reduce temporalmente las peticiones de CPU de dicho Pod en el objeto Deployment de `500m` a `200m`:
+  > `kubectl set resources deployment <nombre-deploy> -c <nombre-contenedor> --requests=cpu=200m`
   >
-  > **[재발 방지 대책]**
-  > 트래픽 스파이크에 대비해 Cluster Autoscaler를 활성화하여 노드가 자동으로 증설되도록 구성해야 합니다."
-- **결과:** 명령어 복사/붙여넣기로 1분 만에 파드 구동 성공. (해결 완료 ✅)
+  > **[Medida Preventiva]**
+  > Para absorber orgánicamente futuros picos de tráfico y demanda de recursos, es imperativo activar e instrumentar el componente Cluster Autoscaler, permitiendo el aprovisionamiento elástico y dinámico de nuevos nodos."
+- **Resultado:** Con solo copiar, auditar y pegar un único comando, el Pod inicia su secuencia de arranque con éxito en apenas 1 minuto. (Incidente resuelto ✅)
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-인프라 장애는 그 자체로 공포가 아닙니다. 쏟아지는 로그 속에서 단서를 찾지 못해 헤매는 '시간'이 진정한 공포입니다.
+Un fallo imprevisto en la infraestructura de producción no es un terror en sí mismo. El verdadero terror reside en el "tiempo muerto" que se escurre entre los dedos mientras vagamos ciegamente intentando descifrar un torrente indescifrable de logs.
 
-이제 새벽 알람에 눈을 뜨더라도 당황하지 마세요. K8s Doctor 프롬프트를 켜고 침착하게 로그를 던지면 됩니다. 가장 빠르고 정확한 동료가 당신의 곁에서 장애 복구를 도와줄 것입니다.
+A partir de ahora, no entres en pánico si te despiertas bruscamente con una alerta de PagerDuty en mitad de la noche. Simplemente abre el prompt de K8s Doctor y aliméntalo con tus logs respirando hondo. El SRE más implacable, rápido y preciso del mundo estará a tu lado para capitanear la recuperación del incidente.
 
-오늘도 서버는 평화롭게, 이제 칼퇴하세요! 🍷
+Que tus servidores y clústeres mantengan la paz hoy. ¡Ya puedes cerrar el portátil y descansar! 🍷

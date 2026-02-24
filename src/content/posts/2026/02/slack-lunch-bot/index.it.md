@@ -9,120 +9,120 @@ description: "개발 지식 없이도 슬랙 워크플로우 빌더와 AI를 연
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Slack 봇 만들기: '점심 뭐 먹지?' 추천해주는 사내 봇
+# 🤖 Creare un Bot per Slack: Il Tuo Assistente Aziendale per il Pranzo
 
-- **🎯 추천 대상:** 매일 점심 메뉴 정하느라 고통받는 막내 사원, 삭막한 사내 메신저에 활력을 불어넣고 싶은 인사팀
-- **⏱️ 소요 시간:** 10분 (슬랙 워크플로우 활용 시)
-- **🤖 추천 모델:** ChatGPT-4o (창의적 메뉴 추천 및 상황 인지 능력 탁월)
+- **🎯 Consigliato per:** Il dipendente junior stanco di dover scegliere il menù ogni giorno o il team HR che vuole vivacizzare le chat aziendali.
+- **⏱️ Tempo richiesto:** 10 minuti (utilizzando Slack Workflow Builder).
+- **🤖 Modello consigliato:** ChatGPT-4o (eccellente per raccomandazioni creative e consapevolezza del contesto).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficoltà:** ⭐⭐☆☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
-> _"오늘 점심 뭐 먹을까요? 아무거나요. 그럼 파스타? 면은 좀... 매일 반복되는 점심 눈치 게임, 이제 AI 비서에게 맡기고 칼퇴 에너지를 비축하세요."_
+> _"Cosa mangiamo oggi a pranzo? Qualsiasi cosa. Allora pasta? Mmm, i carboidrati oggi no... Metti fine all'estenuante gioco di sguardi quotidiano: affida la scelta al tuo assistente IA e risparmia le energie per uscire in orario."_
 
-직장인의 최대 난제, 점심 메뉴 선정. 이제 서로 눈치 보지 말고 사내 메신저 봇에게 물어보세요. "오늘 비 오는데 뭐 먹지?"라고 입력하면 "비 오는 날엔 파전에 막걸... 아니, 뜨끈한 칼국수 어떠세요?"라고 대답해주는 센스 넘치는 봇을 코딩 한 줄 없이 슬랙(Slack) 워크플로우를 통해 구축하는 방법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 코딩 없이 슬랙(Slack)의 **'워크플로우 빌더(Workflow Builder)'**를 활용해 자동화 봇을 세팅합니다.
-2. 특정 단어(예: "점심 추천")나 이모지 반응을 트리거(Trigger)로 설정하여 봇을 호출합니다.
-3. AI 커넥터(예: ChatGPT)를 연동해 상황과 날씨에 맞는 맞춤형 점심 메뉴 프롬프트를 실행합니다.
+Il più grande dilemma di ogni lavoratore: scegliere cosa mangiare a pranzo. Da oggi, basta indecisioni: chiedilo direttamente al bot del messenger aziendale! Scopri come creare un bot geniale capace di rispondere a domande come "Oggi piove, cosa mangiamo?" con suggerimenti del tipo "Con questa pioggia, che ne dici di un bel piatto di ramen fumante?", il tutto senza scrivere una sola riga di codice, sfruttando semplicemente Slack Workflow.
 
 ---
 
-## 🚀 해결책: 점심 메뉴 추천 (Lunch Buddy) 프롬프트
+## ⚡️ In Sintesi (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Configura un bot automatizzato senza alcuna competenza di programmazione utilizzando il **Workflow Builder** di Slack.
+2. Imposta parole chiave (es. "consiglio pranzo") o reazioni con emoji come Trigger per richiamare il bot.
+3. Integra un connettore IA (come ChatGPT) per eseguire un prompt personalizzato che suggerisca il menù perfetto in base alla situazione e al meteo.
 
-빠르게 결정 장애를 해결하고 싶을 때 사용하는 기본 랜덤 추천 프롬프트입니다.
+---
 
-> **역할 (Role):** 너는 사내 점심 메뉴를 골라주는 친절한 비서야.
->
-> **요청 (Task):**
-> 한식, 중식, 일식, 양식, 분식 중에서 하나를 무작위로 고른 뒤, 해당 카테고리 내에서 직장인들이 무난하게 좋아할 만한 대표 메뉴 3가지를 추천해줘.
+## 🚀 La Soluzione: Il Prompt "Lunch Buddy" (Assistente per il Pranzo)
+
+### 🥉 Versione Base
+
+Il prompt di raccomandazione casuale perfetto per sconfiggere rapidamente l'indecisione.
+
+> **Ruolo (Role):** Sei un assistente cordiale e simpatico, incaricato di scegliere il menù del pranzo per i colleghi.
+> 
+> **Richiesta (Task):**
+> Scegli casualmente una categoria tra cucina italiana, asiatica, messicana, fast food o healthy/insalate. Quindi, raccomanda 3 piatti rappresentativi all'interno di quella categoria che siano generalmente apprezzati dai lavoratori in pausa pranzo.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versione Pro
 
-날씨, 기분, 인원수 등 구체적인 상황을 반영하여 센스 있는 점심을 추천받고 싶을 때 사용하세요.
+Ideale per ricevere suggerimenti intelligenti e personalizzati tenendo conto di dettagli specifici come il meteo, l'umore generale e il numero di persone.
 
-> **역할 (Role):** 너는 까다로운 입맛을 가진 미식가이자 회사 근처(`[회사 위치(예: 강남역)]`) 맛집 네비게이션이야.
->
-> **상황 (Context):**
->
-> - 날씨: `[현재 날씨 (예: 비, 맑음, 추움)]`
-> - 기분 및 상황: `[팀 분위기 (예: 스트레스 받음, 월급날, 다이어트 중)]`
-> - 참석 인원: `[인원 구성 (예: 혼밥, 팀 전체 회식, 동기 모임)]`
->
-> **요청 (Task):**
->
-> 1. 위 상황에 가장 완벽하게 부합하는 점심 메뉴 1가지를 추천해줘.
-> 2. 왜 이 메뉴를 추천했는지 직장인의 공감을 이끌어내는 재치 있는 설명(1~2문장)을 덧붙여줘.
-> 3. 출력 형식은 가독성 좋게 이모지를 포함한 마크다운 리스트로 작성해줘.
->
-> **제약사항 (Constraints):**
->
-> - 너무 호불호가 갈리거나(예: 홍어, 고수 듬뿍 쌀국수) 점심시간 내에 다녀오기 힘든 헤비한 메뉴는 제외해줘.
->
-> **주의사항 (Warning):**
->
-> - 확실하지 않은 특정 식당의 상호명을 지어내지 말고, 메뉴 이름 자체에 집중해줘. (환각 방지)
-
----
-
-## 💡 작성자 코멘트 (Insight)
-
-슬랙 봇은 단순한 기술적 '기능'을 넘어, 사내 **'문화'**를 형성하는 강력한 도구입니다. 딱딱한 업무 지시만 오가는 메신저 채널에 소소한 웃음과 대화거리를 제공하는 윤활유 역할을 합니다. 점심 추천 봇으로 시작해서 팀원들의 호응을 얻는다면, 이후 "팀원 칭찬 봇", "생일 축하 봇", "주간 회고 봇" 등으로 확장하며 유연하고 긍정적인 조직 문화를 구축하는 데 크게 기여할 수 있습니다. 특히 이 프롬프트를 Zapier나 Make 같은 자동화 툴과 엮으면 슬랙 워크플로우의 한계를 넘어 훨씬 똑똑한 AI 비서로 진화시킬 수 있습니다.
+> **Ruolo (Role):** Sei un buongustaio dal palato raffinato e un vero "navigatore" per i migliori ristoranti vicino all'ufficio situato in `[Posizione dell'ufficio (es. Centro di Milano)]`.
+> 
+> **Contesto (Context):**
+> 
+> - Meteo: `[Meteo attuale (es. Pioggia, Sole, Freddo)]`
+> - Umore e Situazione: `[Atmosfera del team (es. Molto stressati, Giorno di paga, A dieta)]`
+> - Numero di partecipanti: `[Composizione del gruppo (es. Pausa pranzo da solo, Pranzo di team, Uscita tra colleghi stretti)]`
+> 
+> **Richiesta (Task):**
+> 
+> 1. Consiglia 1 piatto perfetto per il pranzo che si adatti in modo impeccabile alla situazione descritta sopra.
+> 2. Aggiungi una breve spiegazione spiritosa (1-2 frasi) che faccia sorridere i colleghi e spieghi perché hai scelto proprio questo menù.
+> 3. L'output deve essere un elenco puntato in Markdown facilmente leggibile, che includa emoji pertinenti.
+> 
+> **Vincoli (Constraints):**
+> 
+> - Escludi cibi troppo polarizzanti (es. piatti eccessivamente piccanti, aglio crudo) o pasti troppo pesanti e lenti che supererebbero la durata della pausa pranzo.
+> 
+> **Avvertenze (Warning):**
+> 
+> - Concentrati esclusivamente sul nome del piatto o sulla tipologia di cibo. Non inventare nomi di ristoranti specifici se non sei assolutamente certo della loro reale esistenza (Prevenzione allucinazioni).
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 💡 Il Punto di Vista dell'Autore (Insight)
 
-- **Q: 저희 회사는 슬랙 무료 버전을 사용 중인데 워크플로우 빌더를 쓸 수 있나요?**
-  - A: 아쉽게도 슬랙 워크플로우 빌더는 유료 플랜(Pro 이상)에서만 완벽하게 지원됩니다. 무료 플랜이라면 Zapier나 Make.com을 이용해 특정 채널의 메시지를 감지하여 ChatGPT API로 응답을 보내는 방식을 우회적으로 구축할 수 있습니다.
-
-- **Q: 코딩(Python 등)으로 봇을 직접 개발하는 것과 무엇이 다른가요?**
-  - A: 파이썬의 `slack-bolt` 라이브러리를 활용하면 버튼 클릭, 모달 창(Modal) 띄우기, 사내 데이터베이스 연동 등 훨씬 고도화된 인터랙션이 가능합니다. 하지만 유지보수와 서버 비용이 발생하므로, 단순 메뉴 추천이나 가벼운 텍스트 기반 응답은 노코드(No-code) 워크플로우가 압도적으로 효율적입니다.
+Un bot di Slack va ben oltre la sua semplice funzione tecnica: è uno strumento potentissimo per plasmare la **cultura aziendale**. Funge da "lubrificante" sociale, portando un sorriso e argomenti di conversazione leggeri in canali altrimenti dominati da rigide direttive lavorative. Se inizi con un bot per i consigli culinari e ottieni un riscontro positivo dal team, puoi facilmente espanderne l'uso creando bot per "lodare i colleghi", "augurare buon compleanno" o "gestire le retrospettive settimanali", contribuendo attivamente a un ambiente di lavoro flessibile e positivo. Inoltre, se integri questo prompt con strumenti di automazione come Zapier o Make, puoi superare i limiti nativi di Slack Workflow e trasformare il bot in un assistente IA incredibilmente intelligente.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1. **상황 기반 변수 할당 (Contextual Variables):** 단순히 "메뉴 추천해줘"가 아닌 날씨, 기분, 인원수라는 변수(`[ ]`)를 제공함으로써 AI가 뻔한 답변을 피하고 사용자 상황에 깊이 공감하는 맞춤형 답변을 생성하도록 유도합니다.
-2. **환각 및 호불호 제어 (Constraint Setting):** `주의사항(Warning)`을 통해 점심시간의 특수성(시간제한, 호불호)을 인지시키고, 없는 식당을 지어내는 환각(Hallucination) 현상을 원천 차단했습니다.
-3. **페르소나 부여 (Role-playing):** '미식가이자 맛집 네비게이션'이라는 구체적인 페르소나를 설정하여, 답변의 톤앤매너를 딱딱한 정보 전달이 아닌 친근하고 위트 있는 사내 동료처럼 만들었습니다.
+- **D: La mia azienda utilizza la versione gratuita di Slack, posso usare il Workflow Builder?**
+  - R: Purtroppo, lo Slack Workflow Builder è pienamente supportato solo nei piani a pagamento (Pro o superiore). Tuttavia, se utilizzi il piano gratuito, puoi aggirare l'ostacolo creando un'automazione con Zapier o Make.com che intercetti i messaggi in un canale specifico e risponda tramite l'API di ChatGPT.
+
+- **D: Qual è la differenza tra questo metodo e lo sviluppo manuale di un bot tramite codice (es. Python)?**
+  - R: Sviluppare un bot con la libreria `slack-bolt` in Python permette interazioni molto più avanzate, come cliccare bottoni, aprire finestre modali o interfacciarsi con il database aziendale. Tuttavia, questo approccio comporta costi per i server e tempi di manutenzione. Per semplici raccomandazioni di menù e risposte testuali rapide, l'approccio "No-code" tramite workflow è di gran lunga più efficiente e immediato.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia del Prompt (Perché funziona?)
 
-### ❌ Before (침묵의 점심시간)
+1. **Variabili Contestuali (Contextual Variables):** Invece di un banale "consigliami cosa mangiare", l'uso di variabili specifiche (`[ ]`) per meteo, umore e numero di persone costringe l'IA a evitare risposte generiche, generando raccomandazioni altamente personalizzate ed empatiche.
+2. **Controllo dei Vincoli e delle Allucinazioni (Constraint Setting):** La sezione `Avvertenze (Warning)` fornisce chiare linee guida sulle peculiarità della pausa pranzo (limiti di tempo e gusti troppo particolari), bloccando alla radice la tendenza dell'IA a inventare ristoranti inesistenti (Allucinazioni).
+3. **Assegnazione di un Ruolo (Role-playing):** Definire la figura di un "buongustaio e navigatore di ristoranti" stabilisce subito un tono di voce preciso. La risposta non sarà fredda o puramente informativa, ma suonerà come il consiglio amichevole e spiritoso del tuo collega preferito.
+
+---
+
+## 📊 Dimostrazione: Prima e Dopo
+
+### ❌ Prima (La pausa pranzo silenziosa)
 
 ```text
-막내: "오늘 점심 뭐 드실래요?"
-팀원 A: "음... 전 다 좋아요."
-팀장: "아무거나 먹지 뭐."
-(끝없는 눈치 게임과 10분의 정적 🕰️)
+Junior: "Cosa vi va di mangiare oggi a pranzo?"
+Collega A: "Uhm... per me va bene tutto."
+Manager: "Prendiamo qualcosa a caso."
+(Inizia l'infinito gioco di sguardi e 10 minuti di silenzio imbarazzante 🕰️)
 ```
 
-### ✅ After (AI 비서의 중재)
+### ✅ Dopo (L'intervento dell'Assistente IA)
 
 ```text
-나: /점심추천
-봇 (Lunch Buddy): "☔ 비 오고 스트레스 받는 월급날전 팀 회식이시군요!
-이런 날엔 얼큰한 **'차돌 짬뽕과 탕수육 세트'**를 강력 추천합니다.
-매콤한 국물로 업무 스트레스는 날리고, 든든한 고기로 오후 업무 에너지를 채워보세요! 🍜"
-팀장: "오, 오늘은 짬뽕 당기네. 가자!"
+Io: /consigliopranzo
+Bot (Lunch Buddy): "☔ Giornata di pioggia, tanto stress e siamo ancora lontani dal giorno di paga?
+Per oggi vi consiglio caldamente una bella **'Pizza Diavola con doppia mozzarella'**!
+Il sapore deciso scaccerà via lo stress, e i carboidrati vi daranno l'energia giusta per affrontare il pomeriggio! 🍕"
+Manager: "Wow, in effetti oggi ci vuole proprio una pizza. Andiamo!"
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusione
 
-회사는 치열하게 일하는 곳이지만, 밥을 먹는 1시간만큼은 즐겁고 맛있어야 합니다. 작은 봇 하나가 팀의 분위기를 부드럽게 만들고 의사결정의 피로도를 획기적으로 낮춰줄 수 있습니다.
+L'ufficio è sicuramente un luogo dove si lavora duramente, ma quell'ora di pausa pranzo dovrebbe essere sempre un momento piacevole e gustoso. Un semplice e piccolo bot può rilassare l'atmosfera del team e ridurre drasticamente lo stress legato al prendere decisioni.
 
-오늘 점심, 눈치 게임을 멈추고 **AI 비서의 센스 있는 선택**에 팀의 점심을 맡겨보세요. 맛있는 식사 후 기분 좋게 칼퇴하시길 바랍니다! 🍷
+Oggi a pranzo, metti fine all'indecisione: affidati alle **scelte intelligenti del tuo assistente IA**. Goditi un pasto delizioso, ricarica le batterie e preparati a uscire in perfetto orario! 🍷

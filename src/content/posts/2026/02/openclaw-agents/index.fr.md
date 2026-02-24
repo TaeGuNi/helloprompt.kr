@@ -5,127 +5,127 @@ author: "OpenClaw Factory"
 tags: ["AI Agents", "OpenClaw", "Automation"]
 ---
 
-# 🤖 OpenClaw: 2026년 자율 에이전트 워크플로우 설계 프롬프트
+# 🤖 OpenClaw : Prompt pour concevoir un workflow d'agents autonomes en 2026
 
-- **🎯 추천 대상:** AI 개발자, 프롬프트 엔지니어, 자동화 기획자
-- **⏱️ 소요 시간:** 2시간 → 3분 단축
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
+- **🎯 Public cible :** Développeurs IA, Prompt Engineers, Spécialistes de l'automatisation
+- **⏱️ Temps gagné :** De 2 heures à 3 minutes
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐⭐⭐⭐☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"단순한 챗봇을 넘어, 스스로 생각하고 도구를 다루는 자율 에이전트(Autonomous Agent) 시스템을 구축하고 싶으신가요?"_
+> _"Au-delà des simples chatbots, souhaitez-vous concevoir un système d'agents autonomes capables de réfléchir et de manipuler des outils par eux-mêmes ?"_
 
-OpenClaw 2026 에디션은 자율 에이전트의 새로운 가능성을 열었습니다. 멀티 에이전트 협업, 향상된 메모리 관리, 그리고 안전한 도구 실행 환경은 개발자들에게 강력한 워크플로우를 제공합니다. 이제 단순한 자동화를 넘어 복잡한 의사결정까지 지원하는 OpenClaw 에이전트를 가장 완벽하게 설계하는 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. OpenClaw 2026의 핵심인 **멀티 에이전트 협업 체계**를 단숨에 설계합니다.
-2. 향상된 메모리 관리와 도구 실행 환경의 보안 규칙을 프롬프트로 통제합니다.
-3. 복잡한 의사결정을 수행하는 에이전트 워크플로우 아키텍처를 3분 만에 완성합니다.
+L'édition 2026 d'OpenClaw ouvre de nouvelles perspectives pour les agents autonomes. La collaboration multi-agents, la gestion avancée de la mémoire et un environnement d'exécution d'outils sécurisé offrent aux développeurs un flux de travail d'une puissance inédite. Découvrez le prompt ultime pour architecturer des agents OpenClaw capables d'aller bien au-delà de la simple automatisation, jusqu'à la prise de décisions complexes.
 
 ---
 
-## 🚀 해결책: "OpenClaw 아키텍트 프롬프트"
+## ⚡️ En résumé (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Concevez instantanément un **système de collaboration multi-agents**, le cœur d'OpenClaw 2026.
+2. Contrôlez la gestion avancée de la mémoire et les règles de sécurité d'exécution des outils via le prompt.
+3. Bâtissez en 3 minutes l'architecture d'un workflow d'agents capable de prendre des décisions complexes.
 
-빠르게 단일 에이전트의 초안만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 `[OpenClaw 개발 전문가]`야.
-> **요청:** `[특정 작업]`을 자율적으로 수행하는 에이전트의 시스템 프롬프트와 필요한 도구(Tool) 목록을 작성해 줘.
+## 🚀 La solution : Le Prompt "Architecte OpenClaw"
+
+### 🥉 Version Basique
+
+À utiliser lorsque vous avez besoin d'un brouillon rapide pour un agent unique.
+
+> **Rôle :** Tu es un `[Expert en développement OpenClaw]`.
+> **Tâche :** Rédige le prompt système et la liste des outils (Tools) nécessaires pour un agent chargé d'exécuter de manière autonome la tâche suivante : `[Tâche spécifique]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro
 
-멀티 에이전트 기반의 디테일한 시스템 설계와 보안 통제가 필요할 때 사용하세요.
+Idéale pour concevoir un système détaillé basé sur le multi-agents avec un contrôle strict de la sécurité.
 
-> **역할 (Role):** 너는 OpenClaw 2026 프레임워크에 정통한 시니어 AI 아키텍트야.
+> **Rôle (Role) :** Tu es un Architecte IA Senior, expert du framework OpenClaw 2026.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 복잡한 의사결정과 멀티 에이전트 협업이 필수적인 `[프로젝트 목표]`를 달성해야 해.
-> - 목표: OpenClaw 환경에서 안전하게 도구를 실행하고 메모리를 관리하는 자율 에이전트 시스템 구조를 완벽하게 설계하는 것.
+> - Contexte : Nous devons atteindre le `[Objectif du projet]`, ce qui requiert des prises de décisions complexes et une collaboration multi-agents.
+> - Objectif : Concevoir parfaitement l'architecture d'un système d'agents autonomes gérant la mémoire et exécutant des outils de manière sécurisée dans l'environnement OpenClaw.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. `[메인 에이전트 역할]`을 중심으로, 이를 보조하는 서브 에이전트들의 역할과 협업 구조(Workflow)를 정의해 줘.
-> 2. 각 에이전트가 사용할 `[필요한 도구(API, 검색 등)]`의 권한과 실행 환경(Secure Tool Execution) 제약 사항을 명시해 줘.
-> 3. 단기/장기 메모리 관리 전략이 포함된 각 에이전트별 핵심 시스템 프롬프트를 작성해 줘.
+> 1. Définis le rôle de l'`[Agent principal]` et la structure de collaboration (Workflow) avec les sous-agents qui l'assistent.
+> 2. Précise les autorisations et les contraintes d'environnement (Secure Tool Execution) pour les `[Outils nécessaires (API, recherche, etc.)]` que chaque agent utilisera.
+> 3. Rédige les prompts système clés pour chaque agent, en incluant une stratégie de gestion de la mémoire à court et long terme.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 출력 형식은 마크다운을 사용하고, 에이전트 간의 통신 흐름을 단계별 리스트로 정리해 줘.
-> - OpenClaw 2026의 최신 보안 가이드라인(권한 최소화, 도구 실행 전 검증)을 반드시 적용해 줘.
+> - Utilise le format Markdown pour ta réponse et présente le flux de communication entre les agents sous forme de liste par étapes.
+> - Applique rigoureusement les directives de sécurité d'OpenClaw 2026 (principe de moindre privilège, vérification avant exécution de l'outil).
 >
-> **주의사항 (Warning):**
+> **Avertissement (Warning) :**
 >
-> - 확실하지 않거나 존재하지 않는 도구(API) 스펙은 지어내지 말고 "확인 필요"라고 명시해. (환각 방지)
+> - N'invente pas de spécifications pour des outils ou des API qui n'existent pas ou dont tu n'es pas sûr. Indique clairement "À vérifier" le cas échéant (Prévention des hallucinations).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Le point de vue de l'auteur (Insight)
 
-이 프롬프트는 OpenClaw 2026의 가장 강력한 무기인 **'멀티 에이전트 협업'**과 **'안전한 도구 실행 환경'**을 설계하는 데 특화되어 있습니다. 직접 시스템을 구축해 본 결과, 에이전트 간의 역할 분담과 도구 접근 권한을 초기에 명확히 하지 않으면 무한 루프에 빠지거나 엉뚱한 API를 호출하는 문제가 빈번했습니다.
+Ce prompt est spécialement conçu pour exploiter les atouts majeurs d'OpenClaw 2026 : la **"collaboration multi-agents"** et un **"environnement d'exécution d'outils sécurisé"**. Par expérience, si la répartition des rôles et les droits d'accès aux outils ne sont pas clairement définis dès le départ, le système risque de s'enfermer dans des boucles infinies ou d'appeler des API de manière erronée.
 
-이 프롬프트를 사용해 `[프로젝트 목표]`에 '자동화된 버그 수정 및 PR 생성'을 입력해 보세요. 코드를 분석하는 에이전트, 수정안을 작성하는 에이전트, 테스트를 실행하는 에이전트가 완벽하게 맞물려 돌아가는 아키텍처 초안을 얻을 수 있습니다. 시간을 수십 시간 단위로 절약해 주는 강력한 도구입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: OpenClaw 이전 버전 환경에서도 이 프롬프트를 사용할 수 있나요?**
-  - A: 네, 사용 가능합니다. 하지만 2026 버전에 도입된 '향상된 메모리 관리(Advanced Memory Management)' 관련 기능은 하위 버전에서 완벽히 작동하지 않을 수 있으니, 해당 부분은 상황에 맞게 튜닝하여 사용하시기 바랍니다.
-
-- **Q: 에이전트가 통제 범위를 벗어나 너무 많은 도구를 호출하면 어떻게 하나요?**
-  - A: 프롬프트의 제약사항(Constraints) 부분에 "각 에이전트는 부여받은 도구 외에는 절대 접근할 수 없으며, 실행 전 반드시 사용자(Human-in-the-loop)의 승인을 대기할 것"이라는 문구를 추가해 보세요.
+Essayez d'insérer "Correction automatisée de bugs et création de PR" dans la variable `[Objectif du projet]`. Vous obtiendrez l'ébauche d'une architecture où un agent analyse le code, un autre rédige le correctif et un dernier lance les tests, le tout fonctionnant en parfaite harmonie. C'est un outil redoutable qui peut vous faire gagner des dizaines d'heures de conception.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **Role 부여:** AI에게 '시니어 AI 아키텍트'라는 페르소나를 씌워 시스템 설계의 전문성을 극대화했습니다.
-2.  **Context(상황):** 복잡한 의사결정과 멀티 에이전트 협업이라는 OpenClaw 2026의 핵심 기능에 집중하도록 유도했습니다.
-3.  **Constraints(제약):** 권한 최소화와 도구 검증을 강제하여, 자율 에이전트가 일으킬 수 있는 치명적인 보안 사고(예: 원치 않는 데이터 삭제)를 미연에 방지했습니다.
+- **Q : Puis-je utiliser ce prompt avec des versions antérieures d'OpenClaw ?**
+  - R : Oui, c'est possible. Cependant, les fonctionnalités liées à la "Gestion avancée de la mémoire (Advanced Memory Management)" introduites en 2026 pourraient ne pas fonctionner de manière optimale sur des versions plus anciennes. Il vous faudra donc ajuster cette partie en fonction de votre environnement.
+
+- **Q : Que faire si un agent échappe à tout contrôle et appelle trop d'outils de façon excessive ?**
+  - R : Vous pouvez ajouter cette consigne dans la section des Contraintes (Constraints) de votre prompt : "Chaque agent ne doit avoir accès qu'aux outils qui lui ont été explicitement attribués et doit obligatoirement attendre la validation d'un humain (Human-in-the-loop) avant toute exécution."
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
-### ❌ Before (단순한 지시)
+1.  **Attribution d'un rôle (Role) :** En conférant à l'IA le persona d'"Architecte IA Senior", on maximise son niveau d'expertise en conception de systèmes.
+2.  **Contexte (Context) :** Le prompt canalise l'attention de l'IA sur les fonctionnalités phares d'OpenClaw 2026, à savoir la prise de décisions complexes et la collaboration entre de multiples agents.
+3.  **Contraintes (Constraints) :** En imposant le principe de moindre privilège et la vérification des outils, on prévient les failles de sécurité critiques que pourraient engendrer des agents autonomes (par exemple, la suppression accidentelle de données).
+
+---
+
+## 📊 La preuve : Avant & Après
+
+### ❌ Avant (Instruction basique)
 
 ```text
-OpenClaw로 데이터 분석하는 에이전트 만들어줘.
+Crée un agent pour analyser des données avec OpenClaw.
 ```
 
-_(결과: 하나의 에이전트가 모든 작업을 처리하려다 컨텍스트 한계에 부딪혀 실패하거나, 보안이 취약한 범용 프롬프트만 생성됨)_
+*(Résultat : Un seul agent tente de tout faire, se heurte aux limites de contexte et échoue, ou génère un prompt générique avec des failles de sécurité.)*
 
-### ✅ After (이 프롬프트 사용)
+### ✅ Après (Avec notre prompt)
 
 ```text
-[메인 에이전트: 데이터 분석 마스터]
-- 역할: 전체 분석 파이프라인 조율 및 최종 인사이트 도출
-- 권한: 읽기 전용 데이터베이스 접근, 서브 에이전트 작업 할당
+[Agent principal : Maître de l'Analyse de Données]
+- Rôle : Coordonner l'ensemble du pipeline d'analyse et extraire les insights finaux.
+- Autorisations : Accès en lecture seule à la base de données, assignation des tâches aux sous-agents.
 
-[서브 에이전트 1: 데이터 수집기]
-- 역할: 지정된 외부 API에서 실시간 데이터 크롤링
-- 보안 제약: 승인된 API 화이트리스트만 호출 가능 (엄격한 도구 제어)
+[Sous-agent 1 : Collecteur de Données]
+- Rôle : Extraire en temps réel des données depuis des API externes spécifiques.
+- Contraintes de sécurité : Seules les API sur liste blanche approuvée peuvent être appelées (Contrôle strict des outils).
 
-[통신 흐름]
-1. 수집기가 데이터를 가져와 단기 메모리에 적재
-2. 마스터가 단기 메모리 데이터를 분석 후, 핵심 인사이트를 장기 메모리에 저장...
+[Flux de communication]
+1. Le Collecteur récupère les données et les charge dans la mémoire à court terme.
+2. Le Maître analyse les données de la mémoire à court terme et stocke les insights clés dans la mémoire à long terme...
 ```
 
-_(결과: 역할이 분리되고 보안이 통제된 안정적인 멀티 에이전트 아키텍처 도출)_
+*(Résultat : Une architecture multi-agents stable avec une séparation claire des rôles et une sécurité maîtrisée.)*
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-OpenClaw 2026의 진정한 가치는 개발자가 모든 것을 지시하는 것이 아니라, **'어떻게 협업할지 규칙만 정해주면 스스로 문제를 해결하는 것'**에 있습니다.
+La véritable valeur ajoutée d'OpenClaw 2026 ne réside pas dans le fait de tout dicter de A à Z, mais plutôt d'**"établir les règles de collaboration pour laisser les agents résoudre les problèmes par eux-mêmes"**.
 
-이 프롬프트로 여러분만의 강력한 자율 에이전트 군단을 구축해 보세요! 🚀
+Servez-vous de ce prompt pour bâtir votre propre armée d'agents autonomes ! 🚀

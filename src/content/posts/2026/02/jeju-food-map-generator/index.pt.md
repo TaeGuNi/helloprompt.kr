@@ -5,123 +5,123 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/여행"
-description: "광고성 블로그에 속지 않는 법. 현지인 추천과 구글 맵 평점을 기반으로 나만의 찐 맛집 지도를 만드는 AI 프롬프트 큐레이션."
+description: "Como não ser enganado por blogs patrocinados. Curadoria de prompts de IA para criar seu próprio mapa gastronômico autêntico, baseado em recomendações de moradores locais e avaliações rigorosas do Google Maps."
 tags: ["맛집", "제주도", "카페", "여행", "지도"]
 ---
 
-# 🗺️ 맛집 지도 생성: "제주도 서쪽 해안도로 카페 리스트"
+# 🗺️ Criação de Mapa Gourmet: "Lista de Cafés na Costa Oeste de Jeju"
 
-- **🎯 추천 대상:** "맛집 추천" 검색했다가 광고글만 100개 보고 지친 분, 여행 동선 짤 때 먹는 게 제일 중요한 프로 여행러
-- **⏱️ 소요 시간:** 30분 → 3분 단축
-- **🤖 추천 모델:** Perplexity (실시간 검색 및 출처 제공 최적화), ChatGPT Plus
+- **🎯 Público-alvo:** Pessoas cansadas de ler 100 posts patrocinados ao pesquisar "recomendações de restaurantes", viajantes experientes para quem a comida é a parte mais importante do roteiro.
+- **⏱️ Tempo estimado:** 30 minutos → Reduzido para 3 minutos
+- **🤖 Modelo recomendado:** Perplexity (otimizado para pesquisa em tempo real e verificação de fontes), ChatGPT Plus
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"인스타 핫플이라고 해서 갔는데... 뷰만 좋고 커피는 맛없고 비싸기만 했던 경험, 다들 있으시죠?"_
+> *"Quem nunca passou por isso? Você vai num lugar que dizem ser o 'point' do Instagram... mas a vista é a única coisa boa, o café é horrível e super faturado."*
 
-더 이상 광고성 블로그와 영혼 없는 리뷰에 속지 마세요. 진짜 맛집은 화려한 해시태그 속에 숨어있지 않습니다. 이제 AI에게 "광고는 거르고, 현지인 평점이 높은 곳만 교차 검증해서 찾아줘"라고 지시하세요. 네이버 블로그의 협찬 글을 배제하고, 구글 맵과 카카오맵의 냉정한 평점을 종합해 오직 **'찐 맛집'**만 골라내는 완벽한 큐레이션 비법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 가고 싶은 지역(동/읍/면 단위)과 구체적인 테마(예: 오션뷰, 디저트)를 명확히 정합니다.
-2. AI에게 "광고를 제외하고 구글 맵 평점 4.2 이상인 곳만 추려줘"라고 플랫폼 교차 검증을 지시합니다.
-3. 출력된 알짜배기 결과를 지도 앱에 저장하고 완벽한 미식 여행을 떠납니다.
+Pare de cair em armadilhas de blogs patrocinados e avaliações sem alma. Os verdadeiros tesouros culinários não se escondem atrás de hashtags chamativas. Agora, ordene à IA: "Filtre os anúncios e faça uma verificação cruzada apenas de lugares com altas avaliações dos moradores locais". Apresentamos o método perfeito de curadoria para encontrar **"restaurantes autênticos"**, ignorando posts comprados e consolidando as avaliações rigorosas do Google Maps e aplicativos locais.
 
 ---
 
-## 🚀 해결책: "Gourmet Map Prompt"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Defina claramente a região que deseja visitar (nível de bairro/cidade) e um tema específico (ex: vista para o mar, sobremesas).
+2. Instrua a IA a fazer uma verificação cruzada de plataformas: "Exclua anúncios e filtre apenas lugares com nota acima de 4.2 no Google Maps".
+3. Salve os resultados de ouro no seu aplicativo de mapas e embarque na viagem gastronômica perfeita.
 
-빠르게 근처 맛집을 찾고 싶을 때 사용하세요.
+---
 
-> **요청:** `[제주도 애월읍]` 근처에서 `[오션뷰]`가 끝내주는 `[카페]` 3곳만 추천해 줘. 사람 너무 많지 않고 주차 편한 곳으로 부탁해.
+## 🚀 Solução: "Gourmet Map Prompt"
+
+### 🥉 Basic Version (Versão Básica)
+
+Use quando precisar encontrar rapidamente um bom lugar por perto.
+
+> **Tarefa:** Recomende apenas 3 `[cafés]` com uma `[vista incrível para o mar]` perto de `[Aewol-eup, Ilha de Jeju]`. Por favor, escolha lugares que não estejam lotados e que tenham estacionamento fácil.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Versão Profissional)
 
-여행 일정에 맞춘 완벽한 동선과 철저하게 검증된 맛집 리스트가 필요할 때 사용하세요.
+Use quando precisar de um roteiro perfeito alinhado com seu itinerário e uma lista de restaurantes rigorosamente verificada.
 
-> **역할 (Role):** 너는 미슐랭 가이드의 깐깐한 평가원이자 현지 데이터 분석 전문가야.
+> **Papel (Role):** Você é um avaliador rigoroso do Guia Michelin e um especialista local em análise de dados.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 타겟 지역: `[제주도 서쪽 (협재~애월~한림) 해안도로 라인]`
-> - 카테고리: `[카페 (디저트가 맛있는 곳)]`
+> - Região alvo: `[Rota costeira oeste de Jeju (Hyeopjae ~ Aewol ~ Hallim)]`
+> - Categoria: `[Cafés (lugares com sobremesas deliciosas)]`
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. 구글 맵 평점 4.2 이상 또는 카카오맵 평점 4.0 이상인 곳만 엄선해 줘.
-> 2. '소정의 원고료', '협찬', '제공받아' 등의 키워드가 포함된 블로그 리뷰가 많은 곳은 철저히 제외해.
-> 3. 각 장소의 '노키즈존 여부'와 '주차 가능 여부'를 반드시 포함해 줘.
+> 1. Selecione cuidadosamente apenas os lugares com uma avaliação de 4.2 ou superior no Google Maps ou 4.0 ou superior no KakaoMap.
+> 2. Exclua rigorosamente os locais com muitas avaliações em blogs que contenham palavras-chave como 'taxa de redação recebida', 'patrocinado' ou 'parceria paga'.
+> 3. Certifique-se de incluir se cada local 'permite crianças (No-Kids Zone)' e 'tem disponibilidade de estacionamento'.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 출력 형식은 마크다운 표(Table)로 해줘. (컬럼: 가게명 | 한줄평 | 추천 메뉴 | 주차 및 키즈)
-> - 폐업했거나 최근 3개월 내 리뷰가 없는 곳은 제외해.
+> - O formato de saída deve ser uma tabela (Table) em Markdown. (Colunas: Nome do Local | Resumo em uma linha | Menu Recomendado | Estacionamento e Crianças)
+> - Exclua os lugares que fecharam ou que não têm avaliações nos últimos 3 meses.
 >
-> **주의사항 (Warning):**
+> **Aviso (Warning):**
 >
-> - 확실하지 않은 정보는 지어내지 말고 "정보 없음"으로 표기해. (환각 방지)
+> - Não invente informações incertas; se não souber, marque como "Sem informação". (Prevenção de alucinação)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-맛집 검색 프롬프트의 핵심 필살기는 바로 **'부정어 제외(Negative Prompting)'**와 **'교차 검증'**입니다. 단순히 "좋은 곳 추천해 줘"라고 하면 AI도 인터넷에 가장 많이 노출된 마케팅 글을 먼저 가져옵니다.
+A principal estratégia e arma secreta para prompts de busca de restaurantes é o **'Uso de Palavras Negativas (Negative Prompting)'** e a **'Verificação Cruzada'**. Se você simplesmente pedir "recomende um bom lugar", a IA também trará primeiro os textos de marketing mais expostos na internet.
 
-따라서 "웨이팅 1시간 이상인 곳 제외", "가성비 안 좋은 곳 제외", "구글과 카카오맵 평점 동시 충족" 등의 뾰족한 조건을 걸어야 합니다. 특히 Perplexity와 같은 실시간 검색 AI를 활용하면, 블로그 리뷰의 '협찬' 멘트까지 필터링하여 인스타용 핫플레이스가 아닌 진짜 로컬 맛집을 효과적으로 찾아낼 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 알려준 식당이 막상 가보니 폐업했으면 어떡하죠?**
-  - A: AI의 학습 데이터가 실시간 상황을 100% 반영하지 못할 수 있습니다. 완벽한 계획을 위해 프롬프트 결과물에 나온 식당 이름을 네이버 지도나 카카오맵에서 한 번 더 검색하여 '현재 영업 중'인지 꼭 확인하시길 권장합니다.
-
-- **Q: 해외여행 갈 때도 이 프롬프트를 쓸 수 있나요?**
-  - A: 물론입니다! 변수만 `[도쿄 시부야]`, `[야키토리]` 등으로 바꾸면 됩니다. 단, 일본은 '타베로그(Tabelog)', 미국은 '옐프(Yelp)' 등 현지에서 주로 쓰는 지도 앱의 평점을 기준으로 삼으라고 조건을 추가하면 훨씬 더 정확한 로컬 맛집을 찾을 수 있습니다.
+Portanto, você deve estabelecer condições afiadas como "excluir lugares com mais de 1 hora de espera", "excluir lugares com custo-benefício ruim" e "atender simultaneamente às avaliações de diferentes plataformas de mapas". Especialmente usando IAs de busca em tempo real como o Perplexity, você pode até filtrar menções de 'patrocínio' nas entrelinhas de avaliações, descobrindo efetivamente os verdadeiros restaurantes locais em vez de apenas cenários vazios para o Instagram.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **플랫폼 교차 검증:** 구글 맵과 카카오맵 등 각기 다른 플랫폼의 평점 기준을 동시에 충족하도록 강제하여, 특정 플랫폼의 평점 조작 식당을 완벽하게 걸러냅니다.
-2.  **광고 필터링 조건 명시:** '소정의 원고료', '협찬' 등의 구체적인 광고성 키워드를 제외하라고 지시하여 AI가 스팸성 리뷰 데이터를 학습하는 것을 사전에 차단합니다.
-3.  **실용적인 메타데이터 요구:** 맛뿐만 아니라 '주차장 유무', '노키즈존' 등 여행자에게 실제 필요한 동선 정보를 강제 출력하도록 설계하여 실용성을 극대화했습니다.
+- **Q: E se o restaurante sugerido pela IA estiver fechado quando eu chegar lá?**
+  - A: Os dados de treinamento da IA podem não refletir a situação em tempo real 100%. Para um planejamento imbatível, recomendamos pesquisar o nome do restaurante fornecido no resultado do prompt no Google Maps para confirmar se ele está com o status 'Aberto no momento'.
+
+- **Q: Posso usar este prompt quando viajar para o exterior?**
+  - A: Claro! Basta alterar as variáveis para `[Shibuya, Tóquio]`, `[Yakitori]`, etc. A dica de ouro é adicionar a condição de basear-se nas avaliações dos aplicativos de mapas usados principalmente no país destino, como 'Tabelog' no Japão ou 'Yelp' nos EUA. Assim, você encontrará restaurantes locais autênticos com muito mais precisão.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Dissecando o Prompt (Why it works?)
 
-### ❌ Before (검색 지옥)
+1.  **Verificação Cruzada de Plataformas:** Ao forçar o cumprimento simultâneo dos critérios de avaliação de diferentes plataformas, como Google Maps e aplicativos locais, o prompt filtra perfeitamente os restaurantes que manipulam notas em uma única rede.
+2.  **Especificação de Filtro de Anúncios:** Ao instruir a exclusão de palavras-chave promocionais específicas, como 'patrocinado' ou 'parceria paga', impede proativamente que a IA aprenda e use dados de avaliações de spam para gerar a resposta.
+3.  **Exigência de Metadados Práticos:** O prompt maximiza a utilidade ao forçar a IA a fornecer informações logísticas vitais para os viajantes, como 'disponibilidade de estacionamento' e 'política para crianças', indo muito além da simples avaliação de sabor.
+
+---
+
+## 📊 Prova: Antes & Depois
+
+### ❌ Antes (Inferno das Buscas)
 
 ```text
-"애월 카페" 검색 결과:
-뷰는 좋지만 커피 한 잔에 9천 원, 디저트는 어디서나 파는 공장제 조각 케이크.
-주차장은 만차에 사람만 붐벼서 웨이팅 1시간. (결국 광고 블로그에 속아 기분만 상함 😡)
+Resultados da pesquisa padrão por "Cafés em Aewol":
+A vista é boa, mas uma xícara de café custa 9 dólares e a sobremesa é uma fatia de bolo industrializado que se vende em qualquer lugar.
+O estacionamento está lotado e há uma espera de 1 hora. (Acabei caindo em um post patrocinado e arruinei meu humor 😡)
 ```
 
-### ✅ After (AI 큐레이션)
+### ✅ Depois (Curadoria da IA)
 
 ```text
-AI의 깐깐한 교차 분석 결과:
-[카페 A] 구글 평점 4.5 / 카카오 4.4
-- 한줄평: 뷰는 기본, 현지인들이 '당근 케이크' 먹으러 오픈런하는 찐 맛집.
-- 추천 메뉴: 수제 당근 케이크, 시그니처 핸드드립 커피 (6,000원대)
-- 주차 및 키즈: 전용 주차장 완비, 케어 키즈존 운영.
-(결과: 바다를 보며 합리적인 가격에 인생 디저트를 즐기며 힐링! 🍰🌊)
+Resultado da rigorosa análise cruzada da IA:
+[Café A] Avaliação Google 4.5 / Kakao 4.4
+- Resumo: Vista incrível, um verdadeiro achado onde os locais fazem fila antes de abrir para comer o famoso bolo.
+- Menu Recomendado: Bolo de cenoura caseiro, café coado artesanal (preço justo de 6 dólares).
+- Estacionamento e Crianças: Estacionamento privativo disponível, área para crianças com supervisão (Care Kids Zone).
+(Resultado: Cura completa apreciando a melhor sobremesa a um preço razoável de frente para o mar! 🍰🌊)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-맛집은 더 이상 포털 사이트에서 '검색'하는 것이 아니라, 방대한 데이터의 바다에서 **'발굴'**해 내는 것입니다.
+Encontrar um bom restaurante não é mais apenas 'pesquisar' em portais, mas sim **'escavar'** os verdadeiros diamantes no vasto mar de dados.
 
-광고와 마케팅에 속아 소중한 여행 일정을 망치지 마세요. 똑똑하게 설계된 프롬프트 하나로 당신의 여행을 맛있고 완벽한 추억으로만 채워보시길 바랍니다. 이제 진짜 맛집만 골라가세요! 🍷
+Não deixe que anúncios e falso marketing arruínem seu precioso itinerário de viagem. Esperamos que você preencha sua jornada apenas com memórias deliciosas usando um prompt bem projetado e estratégico. Agora, reserve seu tempo e apetite apenas para os lugares que realmente valem a pena! 🍷

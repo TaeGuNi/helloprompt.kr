@@ -1,7 +1,7 @@
-import fs from "fs/promises";
-import path from "path";
-import util from "util";
-import { execFile, exec } from "child_process";
+import { exec, execFile } from "node:child_process";
+import fs from "node:fs/promises";
+import path from "node:path";
+import util from "node:util";
 
 const execAsync = util.promisify(exec);
 const execFileAsync = util.promisify(execFile);
@@ -51,11 +51,10 @@ async function callGemini(prompt: string): Promise<string> {
   }
 
   // Final cleanup of any potential markdown wrapper
-  text =
-    text
-      .replace(/^```markdown\n?/i, "")
-      .replace(/```$/i, "")
-      .trim() + "\n";
+  text = `${text
+    .replace(/^```markdown\n?/i, "")
+    .replace(/```$/i, "")
+    .trim()}\n`;
   return text;
 }
 
@@ -200,9 +199,9 @@ async function main() {
         auditResult.issues.some((i) => i.severity === "error")
       ) {
         console.error("❌ QA Failed! The post did not pass the quality model.");
-        auditResult.issues.forEach((issue) =>
-          console.error(`   - [${issue.code}] ${issue.message}`),
-        );
+        auditResult.issues.forEach((issue) => {
+          console.error(`   - [${issue.code}] ${issue.message}`);
+        });
 
         console.log(`\n🤖 Triggering auto-rewriter...`);
         try {

@@ -5,146 +5,150 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "일주일 동안 뭐 했는지 기억 안 나시나요? 슬랙, 지라, 깃허브 로그만 던져주면 보고서가 나오는 기적을 경험하세요."
+description: "¿No recuerdas qué hiciste en toda la semana? Dale tus registros de Slack, Jira y GitHub a la IA y experimenta el milagro de un reporte generado automáticamente."
 tags: ["Gemini", "보고서", "직장인꿀팁", "생산성"]
 ---
 
-# 📝 주간 보고서는 쓰는 게 아니라 '생성'하는 것이다
+# 📝 Los reportes semanales no se escriben, se "generan"
 
-- **🎯 추천 대상:** 매주 금요일 오후마다 "이번 주에 뭐 했지?" 하며 머리를 쥐어뜯는 직장인
-- **⏱️ 소요 시간:** 1시간 → 10초
-- **🤖 추천 모델:** Google Gemini 3 Pro / 2.5 Pro (압도적인 Context Window 활용)
+- **🎯 Público objetivo:** Oficinistas que se arrancan el cabello cada viernes por la tarde pensando: "¿Qué hice esta semana?"
+- **⏱️ Tiempo ahorrado:** De 1 hora → a 10 segundos
+- **🤖 Modelo recomendado:** Google Gemini 3 Pro / 2.5 Pro (Aprovecha su abrumadora ventana de contexto)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"보고서 양식 맞추고 내용 떠올릴 시간에 본업에 집중했다면 이미 승진하고도 남았을 겁니다. 이제 소모적인 주간 보고서는 AI에게 전적으로 위임하세요."_
+> _"Si hubieras dedicado el tiempo que pasas dando formato y recordando qué poner en los reportes a tu trabajo principal, ya te habrían ascendido. A partir de hoy, delega por completo a la IA estos agotadores reportes semanales."_
 
-Google Gemini가 가진 가장 강력한 무기는 바로 **'무지막지한 문맥(Context) 기억력'**입니다. 수백만 토큰을 한 번에 처리하는 이 능력을 활용하면, 일주일 치 업무 대화, 이메일 내역, 회의록, 심지어 깃허브 커밋 로그까지 통째로 집어넣어도 핵심만 완벽하게 요약해 줍니다.
+El arma más poderosa de Google Gemini es su **'inmensa memoria de contexto'**. Si aprovechas esta capacidad de procesar millones de tokens a la vez, puedes introducir todas las conversaciones de trabajo, correos electrónicos, minutas de reuniones e incluso el registro de commits de GitHub de toda una semana, y la IA extraerá y resumirá perfectamente solo lo esencial.
 
-더 이상 빈 워드 프로세서를 띄워놓고 막막해할 필요가 없습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **데이터 수집:** 이번 주에 내가 일한 기록(Slack 메시지, Jira 티켓, Commit Log 등)을 긁어서 하나의 텍스트 파일로 만드세요.
-2. **AI 업로드:** Gemini에 해당 파일을 업로드한 뒤, 아래의 'Pro Version' 프롬프트를 복사하여 붙여넣으세요.
-3. **즉시 제출:** 상사의 취향을 완벽하게 저격하는, 깔끔한 개조식 형태의 주간 업무 보고서가 10초 만에 완성됩니다.
+Ya no hay necesidad de quedarse mirando un documento en blanco sintiéndose abrumado.
 
 ---
 
-## 🚀 해결책: "Logs to Report"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Recopilación de datos:** Copia todo el registro de tu trabajo de esta semana (mensajes de Slack, tickets de Jira, Commit Logs, etc.) y pégalo en un solo archivo de texto.
+2. **Sube a la IA:** Sube ese archivo a Gemini y luego copia y pega el prompt de la 'Versión Pro' que encontrarás abajo.
+3. **Entrega inmediata:** En solo 10 segundos, obtendrás un reporte de trabajo semanal impecable, estructurado en viñetas, que dará justo en el clavo de lo que tu jefe espera.
 
-빠르게 대략적인 업무 요약만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 내 업무 비서야.
+## 🚀 Solución: "De Registros a Reporte"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando solo necesites un resumen rápido y general de tus tareas.
+
+> **Rol:** Eres mi asistente de trabajo.
 >
-> **데이터:** `[업무 기록 복사 붙여넣기]`
+> **Datos:** `[Pega aquí tus registros de trabajo]`
 >
-> **요청:** 위 데이터를 바탕으로 '이번 주에 내가 한 일'을 가장 중요한 순서대로 5가지만 요약해 줘.
+> **Tarea:** Basándote en los datos anteriores, resume "lo que hice esta semana" en los 5 puntos más importantes, ordenados por prioridad.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Pro Version)
 
-상사에게 즉각 제출해도 손색없는, 완벽하게 구조화된 비즈니스 보고서가 필요할 때 사용하세요.
+Úsala cuando necesites un reporte de negocios perfectamente estructurado, listo para ser entregado inmediatamente a tu jefe.
 
-> **역할 (Role):** 너는 논리적이고 핵심을 찌르는 **'전문 비즈니스 분석가'**이자 **'임원급 비서'**야.
+> **Rol (Role):** Eres un **'Analista de Negocios Experto'** y un **'Asistente Ejecutivo'** altamente lógico que va directo al grano.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 나는 이번 주 업무 성과를 팀장님께 공식적으로 보고해야 해.
-> - 우리 팀장님은 구구절절한 과정 설명보다는 **'결과(Result)'**와 **'인사이트(Insight)'**를 중심으로 빠르게 파악하는 것을 선호해.
-> - 첨부한 파일(또는 아래 텍스트)은 이번 주 나의 슬랙 대화, 지라 티켓, 이메일, 회의록 등의 Raw 데이터야.
+> - Tengo que reportar oficialmente a mi jefe los resultados de mi trabajo de esta semana.
+> - Mi jefe prefiere comprender rápidamente la situación enfocándose en los **'Resultados (Result)'** y los **'Hallazgos (Insight)'**, en lugar de leer explicaciones largas sobre el proceso.
+> - El archivo adjunto (o el texto a continuación) contiene los datos crudos (Raw data) de mis conversaciones de Slack, tickets de Jira, correos y minutas de esta semana.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 첨부된 데이터를 심층적으로 분석하여 **[주간 업무 보고서]**를 작성해.
-> 2. 반드시 다음 4가지 항목으로 구조화해서 작성해 줘.
->    - **✅ 핵심 성과 (Key Achievements):** 정량적 수치(%, 시간, 비용 등)가 있다면 반드시 포함하여 강조할 것.
->    - **🚧 진행 중인 업무 (Ongoing):** 현재 상태와 예상 완료일(또는 다음 마일스톤)을 명시할 것.
->    - **🚨 이슈 및 리스크 (Blockers):** 즉각적인 해결이 필요한 문제점과, 팀장님께 요청하는 지원 사항을 적을 것.
->    - **📅 차주 계획 (Next Week):** 가장 우선순위가 높은 3가지 업무 위주로 작성할 것.
+> 1. Analiza en profundidad los datos adjuntos y redacta un **[Reporte Semanal de Trabajo]**.
+> 2. Estructura obligatoriamente el reporte en las siguientes 4 secciones:
+>    - **✅ Logros Clave (Key Achievements):** Si hay métricas cuantitativas (%, tiempo, costos, etc.), debes incluirlas y destacarlas.
+>    - **🚧 Tareas en Progreso (Ongoing):** Especifica el estado actual y la fecha estimada de finalización (o el próximo hito).
+>    - **🚨 Problemas y Riesgos (Blockers):** Menciona los problemas que requieren resolución inmediata y el apoyo que se le solicita al jefe.
+>    - **📅 Plan para la Próxima Semana (Next Week):** Céntrate en las 3 tareas de mayor prioridad.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 문체는 "했습니다", "했어요" 같은 서술형이 아니라, 철저히 명사형이나 개조식("-함", "-완료", "-예정")으로 작성해.
-> - 시각적 가독성을 위해 가장 중요한 키워드나 수치는 **굵게(Bold)** 처리해.
-> - 사적인 잡담이나 점심 메뉴 등의 무관한 정보는 100% 필터링하고 오직 비즈니스 성과만 남겨.
+> - El tono no debe ser narrativo (como "Hice esto" o "Terminé aquello"). Usa un estilo estrictamente corporativo y esquemático (por ejemplo, formato de viñetas, frases nominales, "- Finalizado", "- Pendiente").
+> - Para facilitar la lectura rápida, resalta en **negrita (Bold)** las palabras clave y las cifras más importantes.
+> - Filtra al 100% la información irrelevante, como charlas informales o qué almorzamos, y deja únicamente los resultados de negocio.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 절대로 내가 하지 않은 일을 지어내지 마(환각 방지). 데이터에 명시된 근거가 없는 내용은 일절 작성하지 마.
+> - Bajo ninguna circunstancia inventes tareas que no hice (prevención de alucinaciones). No escribas absolutamente nada que no esté fundamentado en los datos proporcionados.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-"로그 데이터가 너무 방대하고 지저분한데 괜찮나요?"라고 물으신다면, 정답은 **"오히려 좋습니다"**입니다. Gemini 3 Pro와 같은 최신 모델은 책 수십 권 분량의 텍스트도 한 번에 읽어내며, 정보의 파편이 많을수록 이를 교차 검증하여 훨씬 더 날카롭고 정확한 보고서를 만들어냅니다.
+Si te preguntas: "¿No importa si los datos de mis registros son demasiado extensos y desordenados?", la respuesta correcta es: **"De hecho, es mejor así"**. Los modelos más recientes, como Gemini 3 Pro, pueden leer el equivalente a decenas de libros de una sola vez. Cuantos más fragmentos de información tengan, mejor podrán cruzar datos para crear un reporte mucho más agudo y preciso.
 
-실무적인 팁을 드리자면, 저는 매주 금요일 오후 4시 50분에 이 프롬프트를 실행합니다. 슬랙에서 '내 멘션'을 긁어모으고, 이번 주에 Closed 처리한 Jira 티켓 목록을 텍스트로 복사해서 통째로 던져줍니다. 그리고 5시에 가벼운 마음으로 퇴근합니다. 이것이 바로 AI 시대의 진짜 업무 자동화입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 회사 내부 보안 정책 때문에 데이터를 올려도 될지 걱정됩니다.**
-  - A: 사내 보안 지침이 엄격하다면, 학습에 데이터가 사용되지 않는 'Gemini Advanced'나 기업용 'Gemini Enterprise' 요금제 사용을 강력히 권장합니다. 일반 무료 계정을 사용하신다면, 고객의 개인정보나 핵심 시스템의 비밀번호, 기밀 프로젝트명 등 민감한 정보는 반드시 마스킹 처리(비식별화)한 후 업로드하셔야 합니다.
-
-- **Q: ChatGPT(GPT-4o)나 Claude 3.5 Sonnet으로는 이 프롬프트를 사용할 수 없나요?**
-  - A: 충분히 가능합니다. 하지만 수십 개의 파일이나 몇 달 치의 방대한 슬랙 로그를 한 번에 업로드하여 문맥을 파악하는 '대용량 텍스트 처리 능력(Long Context Window)'에 있어서는 Gemini가 압도적인 우위를 점하고 있습니다. 파일 용량 제한에 걸려 스트레스받고 싶지 않다면 Gemini를 추천합니다.
+Como consejo práctico, yo ejecuto este prompt todos los viernes a las 4:50 p.m. Recopilo mis "menciones" en Slack, copio en texto la lista de tickets de Jira que cerré esta semana y se los lanzo todo de una vez. Y a las 5:00 p.m., salgo del trabajo con la mente tranquila. Esto es lo que significa la verdadera automatización del trabajo en la era de la IA.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **노이즈 필터링 (Noise Filtering):** `사적인 잡담이나 무관한 정보는 100% 필터링해`라는 제약 조건이 핵심입니다. 슬랙 로그의 절반 이상을 차지하는 스몰토크를 AI가 알아서 제거하여 순도 높은 정보만 추출합니다.
-2. **포맷팅 강제 (Format Constraints):** `개조식`, `수치 굵게 처리`, `4가지 항목 구조화` 등의 지시를 통해, AI가 뱉어낸 결과물을 내가 다시 수정할 필요 없이 그대로 복사해서 보고할 수 있도록 만들었습니다.
-3. **환각 원천 차단 (Zero-Hallucination Warning):** `데이터에 명시된 근거가 없는 내용은 일절 작성하지 마`라는 강력한 경고를 두어, AI가 성과를 부풀리거나 거짓말을 하는 치명적인 실수를 방지했습니다.
+- **Q: Me preocupa subir datos debido a las políticas de seguridad interna de mi empresa.**
+  - A: Si las directrices de seguridad de tu empresa son estrictas, te recomiendo encarecidamente usar planes como 'Gemini Advanced' o 'Gemini Enterprise' para empresas, donde tus datos no se utilizan para entrenar el modelo. Si usas una cuenta gratuita normal, es absolutamente necesario que enmascares (anonimices) cualquier información confidencial, como datos personales de clientes, contraseñas de sistemas clave o nombres de proyectos secretos, antes de subirla.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (직접 작성한 평범한 보고서)
-
-> 이번 주는 A 프로젝트 결제 모듈에서 발생한 버그를 고쳤고요. 목요일에는 B 업체 담당자랑 미팅했는데 분위기가 꽤 좋았습니다. 다음 주에는 남은 버그 마저 잡고 미팅 후속 작업 진행하겠습니다.
-
-_(평가: 성의가 부족해 보임. 구체적인 성과나 수치가 없어 무엇을 얼마나 잘했는지 알 수 없음.)_
-
-### ✅ After (Gemini가 생성한 보고서)
-
-> **[2월 2주 차 주간 업무 보고]**
->
-> **✅ 핵심 성과**
->
-> - **A 프로젝트 결제 모듈 버그 수정:** 결제 성공률 **98.5% → 99.9%**로 개선 완료.
-> - **B사 신규 파트너십 미팅 진행:** API 연동 핵심 스펙 확정 및 긍정적 논의 완료 (차주 MOU 체결 예정).
->
-> **🚧 진행 중인 업무**
->
-> - B사 API 연동 가이드 문서 초안 작성 중 (예상 완료일: 2/18).
->
-> **🚨 이슈 및 리스크**
->
-> - **서버 인프라 비용 증가:** 최근 트래픽 급증으로 인해 DB 인스턴스 스케일업 필요 (차주 비용 결재 승인 요청 요망).
->
-> **📅 차주 계획**
->
-> - B사 파트너십 MOU 체결 및 계약서 검토.
-> - 결제 모듈 잔여 마이너 버그(UI 노출 오류) 패치 배포.
-> - 인프라 비용 효율화 방안 1차 리서치.
-
-_(평가: 수치 기반의 명확한 성과 어필, 이슈에 대한 선제적 보고, 체계적인 다음 주 계획까지 완벽한 구조를 갖춰 신뢰도를 극대화함.)_
+- **Q: ¿No puedo usar este prompt con ChatGPT (GPT-4o) o Claude 3.5 Sonnet?**
+  - A: Por supuesto que puedes. Sin embargo, cuando se trata de la 'Capacidad de procesamiento de textos masivos (Long Context Window)' para comprender el contexto subiendo docenas de archivos o registros de Slack de varios meses a la vez, Gemini tiene una ventaja abrumadora. Si no quieres estresarte por los límites de tamaño de archivo, te recomiendo Gemini.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-기억력은 완벽한 기억장치를 가진 AI에게 맡기세요. 여러분은 그 결과물을 읽고 결정하는 '판단력'만 발휘하시면 됩니다. 1시간 넘게 걸리던 고통스러운 주간 보고서 작성 시간, 이제 1분 컷으로 끝내세요.
+1. **Filtrado de Ruido (Noise Filtering):** La restricción `Filtra al 100% la información irrelevante` es clave. La IA elimina automáticamente las conversaciones triviales, que suelen ocupar más de la mitad de los registros de Slack, extrayendo solo información de alta pureza.
+2. **Formato Forzado (Format Constraints):** A través de instrucciones como `estilo esquemático`, `resalta cifras en negrita` y `estructura en 4 secciones`, nos aseguramos de que puedas copiar y pegar el resultado generado por la IA directamente en tu reporte sin necesidad de editarlo.
+3. **Bloqueo Total de Alucinaciones (Zero-Hallucination Warning):** Al incluir la fuerte advertencia `No escribas nada que no esté fundamentado en los datos`, evitamos el error fatal de que la IA infle tus logros o invente información.
 
-오늘도 칼퇴를 응원합니다! 🍷
+---
+
+## 📊 Prueba: Antes y Después (Before & After)
+
+### ❌ Antes (Reporte común escrito manualmente)
+
+```text
+Esta semana corregí un error en el módulo de pagos del proyecto A. El jueves tuve una reunión con el responsable de la empresa B y el ambiente fue bastante bueno. La próxima semana terminaré de corregir los errores restantes y continuaré con el trabajo posterior a la reunión.
+```
+
+_(Evaluación: Parece carecer de esfuerzo. Al no haber resultados ni cifras concretas, es imposible saber qué se hizo bien y cuánto impacto tuvo.)_
+
+### ✅ Después (Reporte generado por Gemini)
+
+```markdown
+**[Reporte Semanal de Trabajo - 2da Semana de Febrero]**
+
+**✅ Logros Clave**
+
+- **Corrección de error en el módulo de pagos (Proyecto A):** Tasa de éxito de pagos mejorada del **98.5% al 99.9%**.
+- **Reunión inicial de asociación con la Empresa B:** Especificaciones clave de integración de API definidas y discusiones positivas completadas (Firma de MOU programada para la próxima semana).
+
+**🚧 Tareas en Progreso**
+
+- Redacción del borrador de la guía de integración de API para la Empresa B (Fecha estimada de finalización: 18/02).
+
+**🚨 Problemas y Riesgos**
+
+- **Aumento de costos de infraestructura de servidores:** Se requiere ampliar (scale-up) la instancia de la base de datos debido a un reciente aumento de tráfico (Se solicita aprobación de presupuesto para la próxima semana).
+
+**📅 Plan para la Próxima Semana**
+
+- Firma de MOU de asociación con la Empresa B y revisión del contrato.
+- Despliegue de parche para errores menores restantes (errores de visualización en UI) en el módulo de pagos.
+- Investigación inicial de estrategias para la optimización de costos de infraestructura.
+```
+
+_(Evaluación: Atractivo claro de los resultados basados en cifras, reporte proactivo de problemas y una estructura perfecta hasta para los planes de la próxima semana, maximizando la confianza.)_
+
+---
+
+## 🎯 Conclusión
+
+Deja la memoria a la IA, que tiene un dispositivo de almacenamiento perfecto. Tú solo necesitas ejercer tu 'capacidad de juicio' para leer los resultados y tomar decisiones. Ese doloroso tiempo de redacción de reportes semanales que solía tomar más de una hora, ahora termínalo en solo 1 minuto.
+
+¡Brindo por que hoy también salgas temprano del trabajo! 🍷

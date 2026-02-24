@@ -5,116 +5,116 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "매일 반복되는 엑셀 복붙과 파일 취합 업무, 파이썬(Python) 10줄로 1초 만에 끝내는 완벽한 프롬프트 가이드입니다."
+description: "Una guía definitiva de prompts para automatizar la tediosa tarea de copiar, pegar y combinar archivos de Excel todos los días. Con solo 10 líneas de Python, resuélvelo en 1 segundo."
 tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 ---
 
-# 🐍 Python 자동화 스크립트: 귀찮은 수십 개의 엑셀 취합, 1초 컷으로 끝내기
+# 🐍 Script de Automatización en Python: Combina Decenas de Archivos Excel en 1 Segundo
 
-- **🎯 추천 대상:** 월말마다 수십 개의 지점별 엑셀 파일을 열고 닫으며 복붙(Ctrl+C, Ctrl+V)하는 기획/총무 담당자, 단순 반복 데이터 취합에 지친 마케터 및 주니어 직장인
-- **⏱️ 소요 시간:** 10분 (환경 설정 포함) → 실행 시 1초 단축
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (코드 생성 및 디버깅에 최적화)
+- **🎯 Recomendado para:** Gerentes de planificación/administración que abren, copian y pegan (Ctrl+C, Ctrl+V) decenas de archivos Excel por sucursal a fin de mes, y cualquier profesional junior o de marketing agotado por la consolidación repetitiva de datos.
+- **⏱️ Tiempo requerido:** 10 minutos (incluyendo la configuración) → Se reduce a 1 segundo al ejecutar.
+- **🤖 Modelos recomendados:** ChatGPT-4o, Claude 3.5 Sonnet (optimizados para generación y depuración de código).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"지점별 매출 보고서 50개... 이거 오늘 야근 각인데, 언제 다 합치지?"_
+> _"Tengo 50 informes de ventas por sucursal... Parece que hoy me quedo haciendo horas extras. ¿Cuándo voy a terminar de juntar todo esto?"_
 
-엑셀 매크로(VBA)를 배우기엔 문법이 너무 낡았고, 수십 개의 파일로 쪼개진 데이터를 하나로 모아야 할 때 **파이썬(Python)**만큼 강력한 도구는 없습니다. 코딩을 전혀 몰라도 괜찮습니다. AI가 작성해 준 코드를 복사해서 '실행' 버튼만 누르면 됩니다. 흩어진 엑셀 파일들을 진공청소기처럼 빨아들여 단 하나의 깔끔한 마스터 파일로 만들어주는 마법 같은 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 파이썬(Python)의 강력한 데이터 분석 라이브러리인 판다스(`pandas`)를 활용하여 반복 작업을 자동화합니다.
-2. 취합할 엑셀 파일들을 하나의 폴더에 모아둡니다.
-3. AI가 생성해 준 스크립트를 실행하면, 단 1초 만에 깔끔하게 병합된 `merged_result.xlsx` 파일이 생성됩니다.
+Aprender macros de Excel (VBA) implica lidiar con una sintaxis obsoleta, y cuando se trata de consolidar datos fragmentados en decenas de archivos, no hay herramienta más poderosa que **Python**. No importa si no sabes programar en absoluto. Solo necesitas copiar el código generado por la IA y presionar el botón de 'ejecutar'. Aquí te presento un prompt mágico que actúa como una aspiradora, absorbiendo archivos de Excel dispersos y convirtiéndolos en un único y ordenado archivo maestro.
 
 ---
 
-## 🚀 해결책: "Excel Merger Bot (엑셀 취합 봇)"
+## ⚡️ Resumen en 3 Líneas (TL;DR)
 
-### 🥉 Basic Version (단순 파일 병합)
+1. Automatiza tareas repetitivas utilizando `pandas`, la potente biblioteca de análisis de datos de Python.
+2. Reúne todos los archivos de Excel que deseas combinar en una sola carpeta.
+3. Ejecuta el script generado por la IA y, en tan solo 1 segundo, obtendrás un archivo `merged_result.xlsx` perfectamente consolidado.
 
-양식과 헤더(첫 줄)가 완전히 동일한 여러 엑셀 파일을 하나로 단순 병합할 때 가장 빠르고 효과적인 프롬프트입니다.
+---
 
-> **상황:** 내 PC의 `C:/reports/` 폴더 안에 `1월.xlsx`, `2월.xlsx` 등 동일한 형식의 엑셀 파일이 12개 있어.
+## 🚀 La Solución: "Excel Merger Bot"
+
+### 🥉 Versión Básica (Basic Version)
+
+El prompt más rápido y efectivo cuando solo necesitas fusionar de manera simple varios archivos de Excel que tienen exactamente el mismo formato y encabezados (primera fila).
+
+> **Contexto:** En mi PC, dentro de la carpeta `C:/reports/`, tengo 12 archivos de Excel con el mismo formato, como `enero.xlsx`, `febrero.xlsx`, etc.
 >
-> **요청:** 이 폴더에 있는 모든 엑셀 파일을 순차적으로 읽어서, 하나의 데이터프레임으로 합친 뒤 `total_merged.xlsx`라는 이름으로 바탕화면에 저장하는 파이썬(Python) 코드를 작성해 줘. 헤더(컬럼명) 구조는 모두 똑같아. 코드에는 친절한 주석을 달아주고, 내가 어떻게 실행해야 하는지 단계별로 설명해 줘.
+> **Tarea:** Escribe un código en Python que lea secuencialmente todos los archivos de Excel en esta carpeta, los combine en un único DataFrame y lo guarde en el escritorio con el nombre `total_merged.xlsx`. La estructura de los encabezados (nombres de las columnas) es idéntica en todos los archivos. Incluye comentarios claros y amigables en el código, y explícame paso a paso cómo debo ejecutarlo.
 
 <br>
 
-### 🥇 Pro Version (데이터 가공 및 집계 전처리)
+### 🥇 Versión Pro (Pro Version)
 
-단순 병합을 넘어, 파일들을 합치면서 특정 조건의 데이터를 추출하거나 서식을 변환(예: 문자형 숫자를 실제 숫자로 변환)하는 등 전처리가 동시에 필요할 때 사용하는 전문가용 프롬프트입니다.
+Un prompt para expertos. Va más allá de una simple fusión: se utiliza cuando necesitas preprocesar los datos simultáneamente, como extraer información bajo ciertas condiciones o convertir formatos (por ejemplo, transformar números en formato de texto a números enteros).
 
-> **역할 (Role):** 너는 데이터 전처리와 업무 자동화에 능통한 시니어 파이썬 데이터 분석가야.
+> **Rol (Role):** Eres un analista de datos senior en Python, experto en preprocesamiento de datos y automatización de tareas.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 대상 폴더: `./data/`
-> - 파일명 패턴: `store_*.xlsx` (예: `store_gangnam.xlsx`, `store_hongdae.xlsx`)
-> - 데이터 구조: B열에 '지점명', E열에 '매출액' 데이터가 존재함.
+> - Carpeta de destino: `./data/`
+> - Patrón de nombres de archivo: `store_*.xlsx` (ej. `store_madrid.xlsx`, `store_barcelona.xlsx`)
+> - Estructura de datos: La columna B contiene el 'Nombre de la Sucursal' y la columna E contiene las 'Ventas'.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 지정된 폴더 내에서 명시된 파일명 패턴을 가진 모든 엑셀 파일을 순회하며 데이터를 읽어와.
-> 2. **전처리:** E열의 '매출액' 데이터에 포함된 콤마(,)와 원화 기호(₩)를 모두 제거하고, 계산이 가능한 정수형(Integer) 숫자로 변환해. 빈 값(Null)이 있다면 0으로 처리해 줘.
-> 3. **데이터 집계:** B열의 '지점명'을 기준으로 그룹화(Groupby)하여, 각 지점별 E열 '매출액'의 총합계를 계산해 줘.
-> 4. **저장:** 최종 집계된 결과물만 `summary_report.xlsx`라는 새로운 파일로 저장해.
-> 5. **사용 라이브러리:** 데이터를 다루기 위해 `pandas`를, 엑셀 파일 입출력을 위해 `openpyxl`을 사용해.
+> 1. Recorre todos los archivos de Excel dentro de la carpeta especificada que coincidan con el patrón de nombre indicado y lee sus datos.
+> 2. **Preprocesamiento:** Elimina todas las comas (,) y los símbolos de moneda (€, $) de los datos de 'Ventas' en la columna E, y conviértelos a números enteros (Integer) para poder realizar cálculos. Si hay valores nulos (Null), conviértelos en 0.
+> 3. **Agregación de datos:** Agrupa los datos (Groupby) utilizando la columna B 'Nombre de la Sucursal' como clave, y calcula la suma total de las 'Ventas' (columna E) para cada sucursal.
+> 4. **Guardado:** Guarda únicamente el resultado final agregado en un nuevo archivo llamado `summary_report.xlsx`.
+> 5. **Bibliotecas a utilizar:** Usa `pandas` para manipular los datos y `openpyxl` para la lectura/escritura de los archivos Excel.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 완성된 파이썬 코드는 마크다운의 `python` 코드 블록 안에 작성해.
-> - 오류 처리를 위한 `try-except` 구문을 포함하여, 특정 파일이 손상되었거나 형식이 달라도 전체 스크립트가 멈추지 않고 건너뛰도록(Skip) 예외 처리를 해 줘.
+> - Escribe el código Python final dentro de un bloque de código markdown `python`.
+> - Incluye bloques `try-except` para el manejo de errores. Si un archivo específico está dañado o tiene un formato diferente, el script debe omitirlo (Skip) y continuar ejecutándose sin detenerse por completo.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Notas del Autor (Insight)
 
-"파이썬 설치부터 환경 변수 설정까지, 시작하기도 전에 막막해요!"라고 생각하시는 분들이 많습니다. 그럴 때는 PC에 직접 설치할 필요 없이 **구글 코랩(Google Colab)**을 적극 활용해 보세요. 구글 계정만 있다면 브라우저 창에서 즉시 파이썬을 실행할 수 있습니다.
+Muchas personas piensan: "¡Desde instalar Python hasta configurar las variables de entorno, es demasiado abrumador antes de empezar!". En esos casos, te recomiendo aprovechar al máximo **Google Colab**. No necesitas instalar nada en tu PC; si tienes una cuenta de Google, puedes ejecutar Python inmediatamente desde tu navegador.
 
-코랩 환경에 엑셀 파일들을 드래그 앤 드롭으로 업로드한 뒤, AI가 짜준 코드를 복사해서 붙여넣고 `Shift + Enter`만 누르면 끝입니다. 현업에서는 특히 결산 시즌에 각 부서에서 취합되는 비용 청구 내역이나, 매일 쌓이는 일일 로그 파일을 주간 단위로 묶을 때 이 방식이 압도적인 시간 단축을 가져다줍니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 엑셀 파일들에 각각 다른 비밀번호가 걸려있으면 어떻게 하나요?**
-  - A: 파이썬의 `msoffcrypto-tool` 라이브러리를 활용하면 비밀번호가 걸린 파일의 락을 풀고 데이터를 읽어올 수 있습니다. AI에게 _"각 파일의 비밀번호 리스트가 ['1234', '5678']일 때, 이를 순차적으로 대입해서 암호를 풀고 취합하는 코드를 추가해 줘"_ 라고 요청해 보세요.
-
-- **Q: 취합해야 할 엑셀 파일들의 컬럼 위치나 양식이 조금씩 다르면 에러가 나지 않나요?**
-  - A: 네, 구조가 다르면 단순 병합 시 데이터가 꼬일 수 있습니다. 이럴 때는 AI에게 _"A 지점 파일은 3번째 줄부터 데이터가 시작되고, B 지점은 컬럼명이 미세하게 달라. '매출'이라는 단어가 포함된 컬럼만 찾아서 하나의 기준 컬럼으로 매핑(Mapping)해 줘"_ 와 같이 구체적인 예외 처리와 데이터 정규화 조건을 프롬프트에 추가해야 합니다.
-
-- **Q: 수십만 행이 넘어가는 대용량 엑셀 파일도 가능한가요?**
-  - A: 엑셀 자체는 100만 행이 넘어가면 버벅거리거나 열리지 않지만, 파이썬의 `pandas`는 수백만 행의 데이터도 메모리만 충분하다면 순식간에 처리합니다. 만약 메모리 부족(OOM) 에러가 발생한다면 AI에게 _"데이터를 한 번에 읽지 말고 chunk 단위로 쪼개서 읽고 저장하는 방식으로 코드를 최적화해 줘"_ 라고 지시하세요.
+Simplemente arrastra y suelta tus archivos de Excel en el entorno de Colab, copia y pega el código que te proporcionó la IA, y presiona `Shift + Enter`. ¡Eso es todo! En el mundo laboral real, especialmente durante la temporada de cierres contables o al consolidar registros diarios en informes semanales, este método te ahorrará una cantidad abrumadora de tiempo.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **명확한 파일명 패턴 지정 (`store_*.xlsx`):** 프롬프트에 정규식 패턴을 명시함으로써, AI가 `glob` 모듈을 사용하도록 유도합니다. 이는 폴더 내에 섞여 있는 이미지나 관련 없는 다른 엑셀 파일까지 실수로 합쳐버리는 대참사를 미연에 방지합니다.
-2.  **구체적인 데이터 타입 변환 (전처리 요구):** 엑셀 상에서는 숫자로 보여도 파이썬이 이를 문자열(String)로 인식하여 합계 계산 시 에러를 뿜는 경우가 매우 빈번합니다. 프롬프트 단계에서 미리 콤마와 기호를 제거하고 숫자형(Integer)으로 변환하라는 지침을 주면 불필요한 디버깅 시간을 크게 줄일 수 있습니다.
-3.  **예외 처리(`try-except`) 강제:** 수십 개의 파일을 돌리다 보면 꼭 하나쯤은 파일이 손상되어 있거나 구조가 깨져 있습니다. 제약사항에 예외 처리를 명시함으로써, 스크립트가 중간에 뻗어버리는 현상을 방지하고 견고한(Robust) 자동화 봇을 완성했습니다.
+- **P: ¿Qué pasa si cada archivo de Excel tiene una contraseña diferente?**
+  - R: Puedes utilizar la biblioteca `msoffcrypto-tool` de Python para desbloquear archivos protegidos y leer sus datos. Pídele a la IA: _"Si la lista de contraseñas para los archivos es ['1234', '5678'], añade código para probarlas secuencialmente, desbloquear los archivos y consolidar los datos."_
 
----
+- **P: ¿Se producirá un error si la posición de las columnas o el formato de los archivos a combinar varían ligeramente?**
+  - R: Sí, si la estructura difiere, una fusión simple puede mezclar y corromper los datos. En este caso, debes añadir condiciones de normalización y manejo de excepciones en tu prompt. Por ejemplo: _"En el archivo de la sucursal A, los datos empiezan en la 3.ª fila, y en la sucursal B el nombre de la columna es ligeramente distinto. Encuentra solo las columnas que contengan la palabra 'Ventas' y mapéalas a una única columna estándar."_
 
-## 📊 증명: Before & After
-
-### ❌ Before (수작업의 늪)
-
-파일 더블 클릭해서 열기 ➡️ 영역 드래그 ➡️ `Ctrl+C` ➡️ 마스터 파일 탭으로 이동 ➡️ 맨 아래 빈칸 찾기 ➡️ `Ctrl+V` ➡️ 원본 닫기 (이 과정을 50번 반복... 약 2시간 소요, 안구 건조증 및 손목 터널 증후군 유발 🏥)
-
-### ✅ After (파이썬 자동화)
-
-터미널이나 코랩에서 `python merge_excel.py` 실행 (엔터 누르고 커피 한 모금 마시는 사이, 3초 만에 `summary_report.xlsx` 생성 완료 및 오차 없는 완벽한 집계 ☕️✨)
+- **P: ¿Es posible procesar archivos de Excel masivos con cientos de miles de filas?**
+  - R: Excel en sí mismo se vuelve lento o ni siquiera abre si superas el millón de filas, pero `pandas` en Python puede procesar millones de filas en segundos, siempre que tengas suficiente memoria (RAM). Si te encuentras con un error de falta de memoria (OOM), indícale a la IA: _"Optimiza el código para leer y procesar los datos en fragmentos (chunks) en lugar de cargar todo en memoria a la vez."_
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-단순 복사 붙여넣기와 같은 기계적인 반복 업무는 실수를 유발할 뿐만 아니라 인간의 창의성과 존엄성을 갉아먹습니다. 기계가 가장 잘하는 일은 기계에게 온전히 맡기세요.
+1.  **Patrón de nombres de archivo claro (`store_*.xlsx`):** Al especificar un patrón de expresión regular en el prompt, inducimos a la IA a utilizar el módulo `glob`. Esto previene el desastre absoluto de combinar por error imágenes u otros archivos de Excel irrelevantes que puedan estar mezclados en la misma carpeta.
+2.  **Conversión de tipos de datos específica (Requisito de preprocesamiento):** Es muy común que Python reconozca como cadenas de texto (String) números que en Excel se ven normales, lo que provoca errores al calcular sumas. Dar la instrucción de eliminar comas/símbolos y convertir a enteros (Integer) desde la fase del prompt reduce drásticamente el tiempo de depuración.
+3.  **Forzar el manejo de excepciones (`try-except`):** Al procesar decenas de archivos, es casi seguro que al menos uno esté dañado o tenga la estructura rota. Al exigir el manejo de errores en las restricciones, evitamos que el script se cuelgue a mitad de camino, logrando un bot de automatización robusto y confiable.
 
-당신은 파이썬이 1초 만에 깔끔하게 취합해 준 그 데이터를 바탕으로, **인사이트를 분석**하고 **비즈니스 의사결정**을 내리는 핵심적인 일에만 귀중한 시간을 쏟아야 합니다. 오늘 당장 당신의 PC에 똑똑한 파이썬 비서 한 명을 고용해 보시는 건 어떨까요? 🍷
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (El infierno del trabajo manual)
+
+Hacer doble clic para abrir el archivo ➡️ Arrastrar para seleccionar ➡️ `Ctrl+C` ➡️ Cambiar a la pestaña del archivo maestro ➡️ Buscar la primera celda vacía al final ➡️ `Ctrl+V` ➡️ Cerrar el archivo original (Repetir este proceso 50 veces... Tarda unas 2 horas, provoca sequedad ocular y síndrome del túnel carpiano 🏥)
+
+### ✅ Después (Automatización con Python)
+
+Ejecutar `python merge_excel.py` en la terminal o en Colab (En lo que tardas en presionar Enter y dar un sorbo a tu café, el archivo `summary_report.xlsx` se genera en 3 segundos con una consolidación perfecta y sin errores ☕️✨)
+
+---
+
+## 🎯 Conclusión
+
+Las tareas repetitivas y mecánicas, como copiar y pegar sin fin, no solo provocan errores humanos, sino que también desgastan tu creatividad y dignidad. Deja que las máquinas hagan lo que mejor saben hacer.
+
+Deberías invertir tu valioso tiempo exclusivamente en las tareas clave: **analizar los insights** y **tomar decisiones de negocio** basadas en esos datos limpios que Python consolidó para ti en 1 segundo. ¿Qué te parece si contratas hoy mismo a un asistente de Python inteligente para tu PC? 🍷

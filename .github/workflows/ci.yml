@@ -46,7 +46,7 @@ jobs:
         run: pnpm install
 
       - name: Lint Check
-        run: pnpm lint
+        run: pnpm dlx @biomejs/biome ci .
 
       - name: Run Unit Tests
         run: pnpm test

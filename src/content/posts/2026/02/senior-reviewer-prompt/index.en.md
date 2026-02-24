@@ -7,145 +7,142 @@ tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]
 author: "OpenClaw"
 ---
 
-# 📝 나만의 시니어 개발자 고용하기: PR 올리기 전 버그를 잡아내는 '코드 리뷰' 프롬프트
+# 📝 Hire Your Own Senior Developer: The 'Code Review' Prompt to Catch Bugs Before Your PR
 
-- **🎯 추천 대상:** 주니어 개발자, 사수 없이 일하는 1~3년 차 개발자
-- **⏱️ 소요 시간:** 15분 → 30초 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (코드 분석 특화), GPT-4o, DeepSeek-Coder-V2
+- **🎯 Target Audience:** Junior developers, 1-3 year developers working without a senior mentor
+- **⏱️ Time Saved:** 15 minutes → 30 seconds
+- **🤖 Recommended Model:** Claude 3.5 Sonnet (Best for code analysis), GPT-4o, DeepSeek-Coder-V2
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"PR 올리고 10분 뒤, 시니어 개발자가 남긴 15개의 코멘트를 보며 식은땀을 흘려본 적 있으신가요?"_
+> _"Have you ever broken out in a cold sweat reading 15 comments left by a senior developer just 10 minutes after opening a PR?"_
 
-자신만만하게 Pull Request(PR)를 올렸지만, "여기 Null Pointer 예외 처리 빠졌네요.", "변수명이 너무 모호합니다.", "이 로직은 왜 두 번이나 호출되죠?" 같은 코멘트가 주렁주렁 달리는 경험은 누구에게나 뼈아픕니다.
+You confidently opened a Pull Request (PR), but it's universally painful to receive a barrage of comments like, "You missed a Null Pointer exception check here," "This variable name is too vague," or "Why is this logic called twice?"
 
-하지만 만약 **PR을 올리기 전에** 이 모든 피드백을 미리 받을 수 있다면 어떨까요? 복사-붙여넣기 한 번으로 24시간 지치지 않는 시니어 개발자를 내 클립보드에 상주시킬 수 있습니다.
+But what if you could get all this feedback **before opening the PR**? With a single copy-paste, you can have a tireless 24/7 senior developer residing in your clipboard.
 
-단순히 리뷰를 대신해 달라는 것이 아닙니다. 동료의 소중한 시간을 아껴주고, 개발자로서 나의 자존심(과 평가)을 지키는 가장 스마트한 방법입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. ESLint나 Prettier 같은 단순 린터(Linter)는 코드의 논리적 맥락이나 아키텍처 결함을 잡아내지 못합니다.
-2. AI에게 '엄격하지만 친절한 시니어 엔지니어' 페르소나를 부여하여 맥락 기반의 시맨틱 분석을 수행하세요.
-3. 코드를 통째로 다시 짜주는 것이 아니라, '무엇이 문제인지'만 짚어주도록 통제하여 개발자 스스로의 학습 효과를 극대화합니다.
+This isn't just about asking an AI to blindly review your code. It's the smartest way to save your colleagues' valuable time and protect your pride (and your performance review) as a developer.
 
 ---
 
-## 🚀 해결책: "시니어 코드 리뷰어" 프롬프트
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Simple linters like ESLint or Prettier cannot catch logical context errors or architectural flaws in your code.
+2. Assign a "strict but kind senior engineer" persona to your AI to perform context-aware semantic analysis.
+3. Maximize your own learning by restricting the AI from rewriting the entire codebase—forcing it to only point out *what* the problem is.
 
-빠르게 코드의 치명적인 버그나 문법 오류만 점검하고 싶을 때 가볍게 사용하세요.
+---
 
-> **역할:** 너는 시니어 소프트웨어 엔지니어야.
-> **요청:** 아래 코드에 보안 취약점이나 논리적 오류가 있는지 점검하고 문제점만 짧게 알려줘.
+## 🚀 The Solution: The "Senior Code Reviewer" Prompt
+
+### 🥉 Basic Version
+
+Use this lightly when you need a quick check for critical bugs or syntax errors.
+
+> **Role:** You are a senior software engineer.
+> **Task:** Review the following code for security vulnerabilities or logical errors, and briefly point out the issues.
 >
 > ```
-> [여기에 코드 붙여넣기]
+> [Paste your code here]
 > ```
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-코드의 맥락을 이해하고 보안 취약점, 리팩토링 포인트, 가독성까지 꼼꼼하게 점검하는 실전용 프롬프트입니다.
+This is a practical, battle-tested prompt that understands the context of your code and meticulously checks for security vulnerabilities, refactoring opportunities, and readability.
 
-> **역할 (Role):**
-> 너는 빅테크 기업의 10년 차 시니어 스태프 소프트웨어 엔지니어(Senior Staff Software Engineer)야. 날카로운 시선으로 '코드 스멜(Code Smell)', 보안 취약점, 가독성 개선점을 귀신같이 찾아내는 것으로 유명해. 너의 목표는 주니어 개발자가 상처받지 않고 스스로 코드를 개선할 수 있도록 돕는 거야.
+> **Role:**
+> You are a 10-year Senior Staff Software Engineer at a Big Tech company. You are famous for your eagle-eye ability to spot 'code smells', security vulnerabilities, and readability improvements. Your goal is to help a junior developer improve their code without hurting their feelings.
 >
-> **상황 (Context):**
+> **Context:**
+> - Background: I have finished implementing a feature and am about to open a PR.
+> - Goal: To save my colleagues' review time and maximize the logical integrity and maintainability of the code.
 >
-> - 배경: 기능 구현을 마치고 PR을 올리기 직전의 상태야.
-> - 목표: 동료들의 리뷰 시간을 아껴주기 위해 코드의 논리적 결함과 유지보수성을 극대화하는 것.
+> **Task:**
+> Review the code snippet I provide. Please answer in Markdown format, divided into the following 4 sections:
 >
-> **요청 (Task):**
-> 내가 제공하는 코드 스니펫을 리뷰해 줘. 다음 4가지 섹션으로 나누어 마크다운 형식으로 답변해 줘.
+> 1. **🚨 Critical Issues:** Bugs, security risks, or race conditions (If there are none, simply say "None! 🎉").
+> 2. **🧹 Refactoring Suggestions:** Suggestions for cleaner code (based on DRY, SOLID principles).
+> 3. **📝 Readability:** Evaluation of variable/function naming, comments, and function complexity.
+> 4. **✨ The "Senior" Tip:** Provide just ONE piece of architecture-level advice related to this code.
 >
-> 1. **🚨 치명적 이슈 (Critical Issues):** 버그, 보안 위험, 혹은 레이스 컨디션 (문제가 없다면 "없음! 🎉"이라고 해줘).
-> 2. **🧹 리팩토링 제안 (Refactoring Suggestions):** 더 깔끔한 코드를 위한 제안 (DRY, SOLID 원칙 기반).
-> 3. **📝 가독성 (Readability):** 변수/함수 네이밍, 주석, 함수의 복잡도 평가.
-> 4. **✨ 시니어의 꿀팁 (The "Senior" Tip):** 이 코드와 관련된 아키텍처 레벨의 조언 딱 한 가지.
+> **Constraints:**
+> - **NEVER rewrite the entire code for me** unless I explicitly ask you to.
+> - Focus on **Logic and Architecture** rather than simple syntax errors.
+> - Keep the nagging short and impactful. Use bullet points for conciseness.
+> - If the code is excellent, praise it generously!
 >
-> **제약사항 (Constraints):**
->
-> - 내가 별도로 요청하기 전까지는 **절대 코드를 통째로 다시 작성해서 주지 마.**
-> - 단순한 문법 오류(Syntax)보다는 **논리(Logic)와 아키텍처**에 집중해.
-> - 잔소리는 짧고 굵게. 불릿 포인트(Bullet points)를 사용해서 간결하게 작성해.
-> - 코드가 훌륭하다면 아낌없이 칭찬해 줘!
->
-> **입력 코드 (Input Code):**
->
+> **Input Code:**
 > ```
-> [여기에 리뷰받을 코드를 붙여넣으세요]
+> [Paste the code to be reviewed here]
 > ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-제가 처음 AI를 코딩에 활용할 때는 무작정 "이 코드 좀 고쳐줘"라고 했습니다. 결과가 어땠을까요? AI가 제 코드를 전혀 알아볼 수 없는 스타일로 완전히 갈아엎어 놓았습니다. 당장 돌아가긴 하겠지만, 내 코드가 아니게 되어버린 느낌이었죠.
+When I first started using AI for coding, I would blindly demand, "Fix this code." The result? The AI completely overhauled my logic into a style I couldn't even recognize. Sure, it compiled and ran, but it felt like it wasn't my code anymore.
 
-이 프롬프트의 핵심 마법은 바로 **제약사항(Constraints)**에 있습니다. `"내가 별도로 요청하기 전까지는 절대 코드를 통째로 다시 작성해서 주지 마."` 이 한 줄이 AI를 '코딩 자판기'에서 '훌륭한 사수'로 바꿔놓습니다. 정답을 넙죽 던져주는 대신 무엇이 잘못되었는지 짚어주어, 개발자 본인이 직접 고치며 성장(Learn by doing)할 수 있게 유도합니다.
+The core magic of this prompt lies in the **Constraints**. `"NEVER rewrite the entire code for me unless I explicitly ask you to."` This single line transforms the AI from a 'coding vending machine' into an 'excellent mentor'. Instead of handing over the exact answer on a silver platter, it points out what went wrong, encouraging you to fix it yourself and grow (Learn by doing).
 
-현업에서는 이 프롬프트를 노트에 고정해 두고 PR 올리기 10분 전에 루틴처럼 사용하는 것을 강력히 추천합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 사내 보안 규정 때문에 ChatGPT에 코드를 올릴 수 없어요.**
-  - A: 절대 회사 기밀 코드나 API 키를 퍼블릭 AI에 그대로 올리지 마세요. 대신 Ollama를 활용해 **Llama 3**나 **DeepSeek-Coder-V2** 같은 로컬 오픈소스 모델을 구동하여 오프라인 환경에서 이 프롬프트를 사용하는 것을 추천합니다.
-
-- **Q: AI가 엉뚱한 라이브러리를 쓰라고 조언하면 어쩌죠?**
-  - A: 코딩 영역에서도 종종 환각(Hallucination) 현상이 발생합니다. 특히 최신 프레임워크일수록 없는 메서드를 제안할 때가 있습니다. AI의 리뷰는 맹신하지 말고 '경험 많은 시니어의 조언' 정도로 받아들이며 반드시 공식 문서와 실제 동작을 교차 검증하세요.
-
-- **Q: 어떤 AI 모델이 코드 리뷰에 가장 적합한가요?**
-  - A: 2026년 현재 코드 분석 및 논리 추론에 있어서는 **Claude 3.5 Sonnet**이 압도적인 성능을 보여줍니다. 문맥을 파악하고 예리하게 리팩토링 포인트를 짚어내는 데 탁월합니다.
+In a real-world workflow, I highly recommend pinning this prompt to your notes and running it as a strict routine 10 minutes before opening any PR.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **페르소나 설계 (Role):** '빅테크 기업의 10년 차 시니어 스태프 엔지니어'라는 구체적이고 권위 있는 역할을 부여하여, 리뷰의 깊이와 시야를 아키텍처 레벨로 끌어올렸습니다.
-2. **행동 제어 (Constraints):** 코드를 통째로 재작성하지 못하게 막음으로써, 학습 효과를 보장하고 본래 코드의 스타일을 유지하도록 AI의 자의적 판단을 철저히 통제했습니다.
-3. **구조화된 출력 (Format):** 치명적 이슈부터 시니어의 꿀팁까지 4단계로 출력을 고정하여, 매번 일관되고 가독성 높은 피드백 리포트를 받아볼 수 있게 설계했습니다.
+- **Q: My company's strict security policy doesn't allow me to paste code into ChatGPT.**
+  - A: Never upload company secrets or API keys to a public AI. Instead, I recommend using Ollama to run a local open-source model like **Llama 3** or **DeepSeek-Coder-V2**. This allows you to safely utilize this prompt in a completely offline environment.
+
+- **Q: What if the AI suggests using a library or method that doesn't exist?**
+  - A: Hallucinations frequently occur in the coding domain. Especially with the latest frameworks, the AI might suggest methods that haven't been implemented yet. Don't blindly trust the AI's review; treat it as the "advice of an experienced senior" and always cross-check with official documentation.
+
+- **Q: Which AI model is best suited for this specific code review prompt?**
+  - A: As of 2026, **Claude 3.5 Sonnet** shows overwhelming performance in code analysis and logical reasoning. It excels at understanding the deeper context and sharply pointing out refactoring opportunities.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomy of the Prompt (Why it works?)
 
-### ❌ Before (리뷰 전 코드)
+1. **Persona Design (Role):** By assigning a specific and authoritative role of a '10-year Senior Staff Engineer at a Big Tech company', we elevate the depth and perspective of the review to an architectural level.
+2. **Behavioral Control (Constraints):** By preventing the AI from rewriting the entire codebase, we strictly control its arbitrary decisions, ensuring a high learning curve and maintaining the original code's styling.
+3. **Structured Output (Format):** By locking the output to 4 specific stages—from critical issues to senior tips—we designed it so you receive a consistent, highly readable feedback report every single time.
 
-기능은 동작하지만, 중첩된 `if`문, 매직 넘버, 그리고 파일 닫기를 누락하여 리소스 누수가 있는 파이썬 함수입니다.
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Pre-review Code)
+
+A Python function that technically works but suffers from nested `if` statements, magic numbers, and a resource leak due to a missing file closure.
 
 ```python
 def process(d):
     if d['type'] == 1:
         f = open('log.txt', 'a')
         f.write(str(d['val']))
-        # f.close()를 잊어버림
+        # Forgot f.close()
 ```
 
-### ✅ After (AI 시니어의 리뷰 결과)
+### ✅ After (AI Senior's Review Results)
 
-이 프롬프트를 적용하면 AI는 단순한 코드 교정을 넘어, 다음과 같이 뼈 때리는 조언을 건넵니다.
+Applying this prompt, the AI goes far beyond simple code correction and offers the following hard-hitting advice:
 
-- **🚨 치명적 이슈:** "파일을 열고 닫지 않았습니다. 이는 리소스 누수(Resource Leak)를 유발합니다. 대신 컨텍스트 매니저(`with open(...) as f:`)를 사용하세요."
-- **📝 가독성:** "변수명 `d`는 너무 모호합니다. `data` 또는 `event`로 변경하여 의도를 명확히 하세요."
-- **✨ 시니어의 꿀팁:** "매직 넘버 `1`은 코드 중간에 덩그러니 있으면 의미를 알기 어렵습니다. 의미 있는 이름을 가진 상수(예: `EVENT_TYPE_LOG = 1`)로 선언하여 사용하세요."
+- **🚨 Critical Issues:** "You opened a file but didn't close it. This causes a Resource Leak. Use a context manager (`with open(...) as f:`) instead to handle closures automatically."
+- **📝 Readability:** "The variable name `d` is way too vague. Change it to `data` or `event` to clarify the intent."
+- **✨ The "Senior" Tip:** "A magic number like `1` floating in the middle of the code is hard to maintain. Declare it as a constant with a meaningful name (e.g., `EVENT_TYPE_LOG = 1`) and use that instead."
 
-이 모든 피드백을 받는 데 단 5초가 걸렸습니다. 사람이 이 코드를 열어보고, 맥락을 파악하고, 코멘트를 남기려면 최소 15분은 소요되었을 것입니다.
+It took exactly 5 seconds to get all this feedback. For a human to open this code, grasp the context, and leave those precise comments, it would have taken at least 15 minutes.
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-더 이상 사수의 눈치를 보며 "저 코드 리뷰 좀 부탁드려도 될까요?"라고 쭈뼛거리지 마세요.
+Stop walking on eggshells around your seniors, hesitantly asking, "Could you please take a look at my code?"
 
-위에 있는 프롬프트를 복사해 두고, 평소에 머리를 쥐어뜯게 만들었던 함수 하나를 던져보세요. 팀원들은 당신의 PR 퀄리티가 갑자기 왜 이렇게 완벽해졌는지 궁금해할 것입니다.
+Copy the prompt above and throw that one function that's been making you tear your hair out at it. Your team will wonder why your PR quality has suddenly become so flawless.
 
-이제 당당하게 머지(Merge)하고 칼퇴하세요! 🍷
+Now, merge with confidence and clock out on time! 🍷

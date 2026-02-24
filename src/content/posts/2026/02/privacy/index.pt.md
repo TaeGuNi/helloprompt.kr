@@ -1,106 +1,107 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "개인정보처리방침 (Privacy Policy)"
-description: "Hello Prompt의 개인정보 수집 및 처리에 관한 투명하고 안전한 정책 안내입니다."
+description: "Guia de política transparente e seguro sobre a coleta e o processamento de informações pessoais do Hello Prompt."
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 개인정보처리방침 (Privacy Policy)
+# 🔒 Política de Privacidade (Privacy Policy)
 
-- **🎯 적용 대상:** Hello Prompt를 이용하는 모든 글로벌 사용자
-- **⏱️ 소요 시간:** 읽는 데 약 3분
-- **🤖 적용 기술:** Google Analytics, Google AdSense 쿠키 기반 맞춤형 분석
+- **🎯 Público-Alvo:** Todos os usuários globais do Hello Prompt
+- **⏱️ Tempo de Leitura:** Cerca de 3 minutos
+- **🤖 Tecnologias Aplicadas:** Análise personalizada baseada em cookies do Google Analytics e Google AdSense
 
-- ⭐ **투명성:** ⭐⭐⭐⭐⭐
-- ⚡️ **안전성:** ⭐⭐⭐⭐⭐
-- 🚀 **신뢰도:** ⭐⭐⭐⭐⭐
+- ⭐ **Transparência:** ⭐⭐⭐⭐⭐
+- ⚡️ **Segurança:** ⭐⭐⭐⭐⭐
+- 🚀 **Confiabilidade:** ⭐⭐⭐⭐⭐
 
-> _"당신의 데이터는 당신의 것입니다. Hello Prompt는 최소한의 데이터만으로 최고의 영감을 제공합니다."_
+> _"Seus dados pertencem a você. O Hello Prompt fornece a máxima inspiração com o mínimo de coleta de dados."_
 
-**Hello Prompt**(이하 "본 사이트")는 글로벌 이용자의 개인정보를 최우선으로 보호하며, "정보통신망 이용촉진 및 정보보호"에 관한 법률 및 구글 애드센스(Google AdSense) 프로그램의 글로벌 정책을 엄격하게 준수합니다. 본 방침은 2026년 2월 9일부터 효력이 발생합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **회원가입 없음:** 서비스 이용을 위한 별도의 가입 절차나 민감한 개인정보를 요구하지 않습니다.
-2. **최소한의 데이터 수집:** 사이트 개선과 맞춤형 광고(AdSense) 제공을 위한 필수적인 쿠키 및 접속 로그만 수집합니다.
-3. **글로벌 스탠다드 준수:** GDPR(유럽) 및 CCPA(캘리포니아) 등 국제적인 개인정보 보호 규격을 철저히 준수합니다.
+O **Hello Prompt** (doravante "este site") prioriza a proteção das informações pessoais dos usuários globais e cumpre rigorosamente as leis de proteção de dados e as políticas globais do programa Google AdSense. Esta política entra em vigor a partir de 9 de fevereiro de 2026.
 
 ---
 
-## 🚀 개인정보 수집 및 이용 안내
+## ⚡️ Resumo de 3 Pontos (TL;DR)
 
-### 🥉 수집하는 필수 정보 (Basic Data)
+1. **Sem Cadastro:** Não exigimos processos de registro ou informações pessoais sensíveis para utilizar nossos serviços.
+2. **Coleta Mínima de Dados:** Coletamos apenas cookies essenciais e logs de acesso necessários para a melhoria do site e a veiculação de anúncios personalizados (AdSense).
+3. **Conformidade Global:** Cumprimos rigorosamente os padrões internacionais de proteção de privacidade, como o GDPR (Europa) e o CCPA (Califórnia).
 
-본 사이트는 쾌적하고 안전한 환경을 제공하기 위해 아래의 정보만을 자동으로 수집합니다.
+---
 
-> **수집 항목:** `[쿠키(Cookie)]`, `[접속 IP 주소]`, `[브라우저 및 기기 정보]`, `[접속 시간 및 방문 기록]`
-> **수집 방법:** 웹사이트 방문 시 자동 수집 도구(Google Analytics 등)를 통한 시스템적 수집
+## 🚀 Informações sobre Coleta e Uso de Dados
+
+### 🥉 Dados Básicos Coletados (Basic Version)
+
+Para fornecer um ambiente rápido e seguro, este site coleta automaticamente apenas as seguintes informações.
+
+> **Itens Coletados:** `[Cookies]`, `[Endereço IP]`, `[Informações do Navegador e Dispositivo]`, `[Horário de Acesso e Histórico de Visitas]`
+>
+> **Método de Coleta:** Coleta sistêmica via ferramentas automáticas (como Google Analytics) durante a visita ao site.
 
 <br>
 
-### 🥇 데이터 활용 목적 (Pro Usage)
+### 🥇 Finalidade dos Dados (Pro Version)
 
-수집된 데이터는 오직 서비스 품질 향상과 보안, 그리고 원활한 운영을 위해서만 엄격하게 사용됩니다.
+Os dados coletados são utilizados estritamente para aprimorar a qualidade do serviço, garantir a segurança e manter as operações fluidas.
 
-> **역할 (Role):** 본 사이트는 철저하고 `[안전한 데이터 관리자]`로서 활동합니다.
+> **Papel (Role):** Este site atua como um `[Gestor de Dados Seguro e Rigoroso]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: `[사용자 경험 최적화 및 안정적인 글로벌 서버 운영]`
-> - 목표: `[사용자에게 가장 빠르고 안전하게 프롬프트 정보 제공]`
+> - Cenário: `[Otimização da experiência do usuário e operação estável de servidores globais]`
+> - Objetivo: `[Fornecer informações de prompts da forma mais rápida e segura aos usuários]`
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. **통계 분석:** Google Analytics를 활용한 트래픽 분석 및 양질의 콘텐츠 개선
-> 2. **맞춤형 광고:** Google AdSense를 통한 적절하고 유용한 광고 게재 (수익 창출 목적)
-> 3. **보안 유지:** 악의적인 봇 접근 차단 및 비정상적인 트래픽(DDoS 등) 방어
+> 1. **Análise Estatística:** Analisar o tráfego via Google Analytics para melhorar a qualidade do conteúdo.
+> 2. **Anúncios Personalizados:** Exibir anúncios relevantes e úteis por meio do Google AdSense (com fins de monetização).
+> 3. **Manutenção da Segurança:** Bloquear acessos maliciosos de bots e defender contra tráfego anormal (ex: DDoS).
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 수집된 모든 로그 데이터는 통계 분석 후 지체 없이 익명화 또는 파기되어야 합니다. (보존 기간 최대 3개월)
+> - Todos os dados de log coletados devem ser anonimizados ou destruídos imediatamente após a análise estatística. (Período máximo de retenção: 3 meses)
 >
-> **주의사항 (Warning):**
+> **Avisos (Warning):**
 >
-> - 사용자의 명시적인 동의 없이 민감한 개인정보(이름, 연락처 등)를 무단으로 수집하거나 제3자에게 판매하지 마세요.
+> - Não colete informações pessoais sensíveis (nome, contato, etc.) sem o consentimento explícito do usuário, nem as venda a terceiros.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 개인정보처리방침은 단순히 법적인 의무를 다하기 위한 형식적인 문서가 아닙니다. AI 시대에는 데이터의 투명한 관리가 곧 서비스의 신뢰도와 직결됩니다. Hello Prompt는 독자 여러분이 안심하고 프롬프트를 복사하고 영감을 얻는 데에만 집중할 수 있도록, 번거로운 회원가입을 없애고 불필요한 데이터 수집을 원천 차단했습니다. 안심하고 마음껏 사이트를 탐색하시기 바랍니다!
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 맞춤형 광고(쿠키)를 보고 싶지 않은데 어떻게 차단하나요?**
-  - A: 사용자는 언제든지 쿠키 제공을 거부할 수 있습니다. [Google 광고 설정](https://www.google.com/settings/ads)에 접속하여 맞춤형 광고를 해제하거나, [www.aboutads.info](https://www.aboutads.info)에서 제3자 공급업체의 쿠키 사용을 즉시 중지할 수 있습니다.
-
-- **Q: 제가 남긴 접속 기록(IP 등)은 언제 완전히 삭제되나요?**
-  - A: 통계적 분석(Google Analytics)이 끝난 직후 익명 처리되며, 원본 로그는 관련 법령에 따라 최대 3개월 보관 후 복구 불가능한 방법으로 영구 파기됩니다.
-
-- **Q: 저는 유럽/미국 캘리포니아 거주자입니다. 제 데이터 권리는 어떻게 보장되나요?**
-  - A: Hello Prompt는 글로벌 사용자 규정을 철저히 준수합니다. **GDPR(유럽)**에 따라 귀하의 데이터에 대한 접근, 정정 및 삭제를 언제든 요청할 수 있으며, **CCPA(캘리포니아)**에 따라 귀하의 정보를 제3자에게 절대 판매(Do Not Sell)하지 않습니다.
+Esta Política de Privacidade não é apenas um documento formal para cumprir obrigações legais. Na era da IA, a gestão transparente de dados está diretamente ligada à confiabilidade do serviço. O Hello Prompt eliminou o incômodo do cadastro e bloqueou a coleta de dados desnecessários na fonte, para que você possa se concentrar apenas em copiar prompts e obter inspiração com total tranquilidade. Explore o site à vontade e com segurança!
 
 ---
 
-## 🧬 정책 해부 (Why this matters?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **Transparency (투명성):** 수집하는 정보가 무엇인지, 어디에 쓰이는지 명확하게 밝혀 글로벌 독자의 데이터 불안감을 해소했습니다.
-2.  **Control (통제권):** 사용자가 스스로 맞춤형 광고를 차단(Opt-out)할 수 있는 실질적이고 구체적인 방법을 명시했습니다.
+- **Q: Como posso bloquear os anúncios personalizados (cookies)?**
+  - A: Você pode recusar o fornecimento de cookies a qualquer momento. Acesse as [Configurações de Anúncios do Google](https://www.google.com/settings/ads) para desativar os anúncios personalizados ou visite [www.aboutads.info](https://www.aboutads.info) para interromper imediatamente o uso de cookies por fornecedores terceirizados.
+
+- **Q: Quando meus registros de acesso (como IP) serão completamente excluídos?**
+  - A: Eles são anonimizados logo após a análise estatística (Google Analytics). Os logs originais são retidos por um máximo de 3 meses, conforme a legislação aplicável, e então permanentemente destruídos de forma irreversível.
+
+- **Q: Sou residente na Europa/Califórnia. Como meus direitos de dados são garantidos?**
+  - A: O Hello Prompt cumpre estritamente as regulamentações globais. De acordo com o **GDPR (Europa)**, você pode solicitar acesso, correção e exclusão de seus dados a qualquer momento. Conforme o **CCPA (Califórnia)**, garantimos que não venderemos (Do Not Sell) suas informações a terceiros sob nenhuma circunstância.
 
 ---
 
-## 🎯 결론 및 문의처
+## 🧬 Análise da Política (Why this matters?)
 
-Hello Prompt에 게시된 외부 링크(Outlink)를 통해 다른 웹사이트로 이동하실 경우, 해당 웹사이트의 정책은 본 사이트와 무관하므로 각별히 주의해 주시기 바랍니다.
+1. **Transparência (Transparency):** Esclarecemos exatamente quais informações são coletadas e para onde vão, aliviando qualquer ansiedade dos nossos leitores globais em relação aos seus dados.
+2. **Controle (Control):** Fornecemos métodos práticos e específicos para que os próprios usuários possam bloquear ativamente os anúncios personalizados (Opt-out).
 
-개인정보와 관련된 추가적인 문의사항이나 데이터 삭제 요청이 있으신 경우, 아래의 공식 채널로 연락해 주시면 신속하고 친절하게 답변해 드리겠습니다.
+---
 
-- **담당자:** Hello Prompt 개인정보 보호 책임팀
-- **이메일:** `support@helloprompt.kr`
+## 🎯 Conclusão e Contato
 
-투명하고 안전한 인터넷 환경 속에서, 당신만의 창의적인 AI 프롬프트 탐험을 계속해 보세요! 🚀
+Caso você seja redirecionado para outros sites através de links externos (Outlinks) postados no Hello Prompt, esteja ciente de que as políticas desses sites são independentes das nossas, portanto, navegue com cautela.
+
+Se você tiver dúvidas adicionais relacionadas à privacidade ou desejar solicitar a exclusão de dados, entre em contato conosco pelos canais oficiais abaixo. Nossa equipe responderá prontamente e com prazer.
+
+- **Responsável:** Equipe de Proteção de Privacidade do Hello Prompt
+- **E-mail:** `support@helloprompt.kr`
+
+Continue sua exploração criativa de prompts de IA em um ambiente de internet transparente e seguro! 🚀

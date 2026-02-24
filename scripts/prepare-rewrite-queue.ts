@@ -1,5 +1,5 @@
-import fs from "fs/promises";
-import path from "path";
+import fs from "node:fs/promises";
+import path from "node:path";
 import { glob } from "glob";
 
 const TARGET_LANGS = [
@@ -27,7 +27,7 @@ async function main() {
     const existingFiles = await glob(path.join(dir, "index*.md"));
 
     // Attempt mapping
-    let existingLangs = existingFiles
+    const existingLangs = existingFiles
       .map((f: string) => {
         const match = f.match(/index\.([a-z]{2})\.md/);
         return match ? match[1] : null;

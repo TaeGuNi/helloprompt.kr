@@ -5,148 +5,148 @@ tags: [ai, google, gemini]
 image: https://source.unsplash.com/random/1600x900/?code,screen
 ---
 
-# 📝 Gemini 3 Pro: 다단계 추론 마스터하기
+# 📝 Gemini 3 Pro: Multi-Step Reasoning meistern
 
-- **🎯 추천 대상:** 프로덕트 매니저(PM), 기획자, 소프트웨어 엔지니어
-- **⏱️ 소요 시간:** 3시간 → 10분 단축
-- **🤖 추천 모델:** Gemini 3 Pro 전용
+- **🎯 Empfohlen für:** Produktmanager (PM), Planer, Software-Ingenieure
+- **⏱️ Zeitaufwand:** 3 Stunden → auf 10 Minuten verkürzt
+- **🤖 Empfohlenes Modell:** Exklusiv für Gemini 3 Pro
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"Gemini 3 Pro의 압도적인 다단계 추론 능력, 아직도 단순 요약이나 텍스트 생성에만 쓰고 계신가요?"_
+> _"Nutzen Sie die überwältigende Multi-Step-Reasoning-Fähigkeit von Gemini 3 Pro immer noch nur für einfache Zusammenfassungen oder Textgenerierung?"_
 
-Google의 최신 모델인 Gemini 3 Pro는 복잡한 문맥을 파악하고 스스로 논리적인 단계를 거쳐 해답을 찾는 '다단계 추론(Multi-step Reasoning)' 능력에서 새로운 패러다임을 제시했습니다. 기존의 단답형 지시에서 벗어나, AI를 완벽한 '전략적 사고 파트너'로 활용하는 프롬프트 엔지니어링 기법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **다단계 추론의 힘:** 결과를 바로 요구하지 않고 사고 과정을 강제하면 결과물의 퀄리티가 기하급수적으로 상승합니다.
-2. **컨텍스트 유지력:** 100만 토큰 이상의 방대한 문맥 속에서도 미묘한 제약 조건과 뉘앙스를 끝까지 기억하고 반영합니다.
-3. **Chain-of-Thought 최적화:** '문제 정의 → 대안 탐색 → 최적안 선정 → 실행 계획'의 프로세스를 프롬프트에 직접 설계하세요.
+Das neueste Modell von Google, Gemini 3 Pro, hat ein völlig neues Paradigma in der Fähigkeit zum "Multi-Step Reasoning" (mehrstufigen Schlussfolgern) geschaffen. Es erfasst komplexe Kontexte und findet selbstständig durch logische Schritte Antworten. Wir stellen Ihnen hier eine Prompt-Engineering-Technik vor, mit der Sie sich von herkömmlichen Kurzbefehlen verabschieden und die KI als perfekten "strategischen Denkpartner" nutzen können.
 
 ---
 
-## 🚀 해결책: "다단계 비즈니스 로직 설계 프롬프트"
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-Gemini 3 Pro의 강력한 추론 능력을 극대화하여, 복잡하고 막막한 비즈니스 요구사항을 탄탄한 시스템 로직이나 기획서로 변환하는 프롬프트입니다.
+1. **Die Macht des Multi-Step Reasoning:** Wenn Sie nicht sofort nach dem Endergebnis fragen, sondern den Denkprozess erzwingen, steigt die Qualität der Ergebnisse exponentiell.
+2. **Beibehaltung des Kontextes:** Selbst in einem riesigen Kontext von über 1 Million Token merkt sich die KI subtile Einschränkungen und Nuancen bis zum Schluss und wendet sie an.
+3. **Chain-of-Thought-Optimierung:** Entwerfen Sie den Prozess von "Problemdefinition → Alternativensuche → Auswahl der besten Option → Aktionsplan" direkt in Ihrem Prompt.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 아이디어의 논리적 뼈대만 잡고 싶을 때 사용하세요.
+## 🚀 Lösung: "Prompt für das Design mehrstufiger Geschäftslogiken"
 
-> **역할:** 너는 시니어 프로덕트 매니저야.
-> **요청:** `[신규 서비스 아이디어]`에 대한 핵심 비즈니스 로직과 발생 가능한 리스크를 3단계로 나누어 설명해줘.
+Dieser Prompt maximiert die leistungsstarke Schlussfolgerungsfähigkeit von Gemini 3 Pro, um komplexe und vage Geschäftsanforderungen in fundierte Systemlogiken oder Projektpläne zu verwandeln.
+
+### 🥉 Basic Version (Basisversion)
+
+Verwenden Sie diese Version, wenn Sie nur schnell das logische Grundgerüst einer Idee erfassen möchten.
+
+> **Rolle:** Du bist ein Senior Product Manager.
+> **Aufgabe:** Erkläre die zentrale Geschäftslogik und mögliche Risiken für `[Idee für neuen Service]`, aufgeteilt in 3 logische Schritte.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Expertenversion)
 
-Gemini 3 Pro의 다단계 추론(Reasoning) 능력과 컨텍스트 유지력을 100% 끌어올리는 심화 프롬프트입니다.
+Dies ist ein fortgeschrittener Prompt, der die Multi-Step-Reasoning-Fähigkeit und die Kontextbeibehaltung von Gemini 3 Pro zu 100 % ausschöpft.
 
-> **역할 (Role):** 너는 10년 차 시니어 소프트웨어 아키텍트이자 비즈니스 전략가야.
+> **Rolle (Role):** Du bist ein Senior Software Architect und Business Strategist mit 10 Jahren Erfahrung.
 >
-> **상황 (Context):**
->
-> - 배경: 우리는 현재 `[현재 비즈니스 문제 또는 직면한 상황]`에 직면해 있어.
-> - 목표: `[최종적으로 달성하고자 하는 구체적 목표]`를 달성하기 위한 최적의 시스템 프로세스를 설계해야 해.
-> - 제약조건: `[예산, 개발 기간, 기술 스택, 인력 등 절대 어기면 안 되는 조건]`
->
-> **요청 (Task):**
-> 다음 4단계를 순차적으로 거치며 깊이 있게 사고(Chain-of-Thought)하고 결론을 도출해 줘:
->
-> 1. **문제 정의 (Problem Definition):** 주어진 상황과 제약조건을 분석하여 가장 치명적인 병목 현상을 파악해.
-> 2. **해결책 탐색 (Solution Exploration):** 제약조건 내에서 실현 가능한 3가지 대안을 제시하고, 각각의 장단점(Trade-off)을 평가해.
-> 3. **최적안 선정 및 논리 전개 (Optimal Selection & Reasoning):** 3가지 중 가장 적합한 하나의 대안을 선택하고, '왜' 그것이 최선인지 논리적 비약 없이 증명해.
-> 4. **실행 계획 (Action Plan):** 선택된 대안을 당장 내일부터 실행하기 위한 구체적인 단계별 로직(Step-by-step logic)을 작성해.
->
-> **출력 형식 (Format):**
->
-> - 각 단계별로 명확한 마크다운 헤딩(`###`)을 사용해 구분해.
-> - 4단계의 '실행 계획'은 개발자나 실무자가 바로 이해할 수 있도록 플로우차트 형태의 텍스트나 명확한 넘버링 리스트로 표현해 줘.
->
-> **주의사항 (Warning):**
->
-> - 앞서 언급한 제약조건을 단 하나라도 위반하는 대안은 절대 제시하지 마. (환각 방지)
-> - 결론을 먼저 내리지 말고, 반드시 1단계부터 순서대로 추론 과정을 모두 출력해.
+> **Kontext (Context):**
+> 
+> - Hintergrund: Wir stehen derzeit vor folgendem Problem: `[Aktuelles Geschäftsproblem oder Situation]`.
+> - Ziel: Wir müssen den optimalen Systemprozess entwerfen, um `[Spezifisches Endziel]` zu erreichen.
+> - Einschränkungen: `[Absolut zwingende Bedingungen wie Budget, Entwicklungszeit, Tech-Stack, Personal etc.]`.
+> 
+> **Aufgabe (Task):**
+> Durchlaufe nacheinander die folgenden 4 Schritte, denke tiefgründig nach (Chain-of-Thought) und leite eine Schlussfolgerung ab:
+> 
+> 1. **Problemdefinition (Problem Definition):** Analysiere die gegebene Situation und die Einschränkungen, um den kritischsten Engpass (Bottleneck) zu identifizieren.
+> 2. **Alternativensuche (Solution Exploration):** Präsentiere 3 realisierbare Alternativen innerhalb der Einschränkungen und bewerte die jeweiligen Vor- und Nachteile (Trade-offs).
+> 3. **Auswahl der besten Option & Logische Begründung (Optimal Selection & Reasoning):** Wähle die am besten geeignete der 3 Alternativen aus und beweise ohne logische Sprünge, "warum" sie die beste ist.
+> 4. **Aktionsplan (Action Plan):** Erstelle eine konkrete Schritt-für-Schritt-Logik (Step-by-step logic), um die gewählte Alternative ab morgen umzusetzen.
+> 
+> **Ausgabeformat (Format):**
+> 
+> - Trenne jeden Schritt klar mit Markdown-Überschriften (`###`).
+> - Stelle den 'Aktionsplan' im 4. Schritt als textbasiertes Flussdiagramm oder als klare nummerierte Liste dar, die Entwickler oder Fachkräfte sofort verstehen können.
+> 
+> **Warnung (Warning):**
+> 
+> - Schlage niemals eine Alternative vor, die auch nur eine der oben genannten Einschränkungen verletzt. (Vermeidung von Halluzinationen)
+> - Ziehe das Fazit nicht vorweg, sondern gib unbedingt den gesamten Schlussfolgerungsprozess der Reihe nach ab Schritt 1 aus.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Anmerkung des Autors (Insight)
 
-이 프롬프트의 핵심은 AI에게 **"생각할 시간과 구조"**를 강제하는 것입니다.
-과거 모델들은 복잡한 요구사항과 제약 조건을 한 번에 던져주면 중간 과정을 생략하고 뻔한 결론을 내거나 제약 조건을 잊어버리는 경우가 많았습니다. 하지만 Gemini 3 Pro는 `요청 (Task)` 섹션에 명시된 4단계 사고 과정을 집요하게 추적합니다. 실제로 사내 레거시 결제 시스템 개편안을 검토할 때 이 프롬프트를 사용하여, 기존 시스템과의 충돌 가능성을 사전에 발견하고 기획 소요 시간을 3일에서 단 10분으로 단축할 수 있었습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: `[상황]` 부분의 제약조건에는 얼마나 자세히 적어야 하나요?**
-  - A: Gemini 3 Pro는 방대한 컨텍스트를 소화할 수 있습니다. 키워드 요약보다는 사내 회의록 원문, 기존 시스템의 에러 로그, 고객 피드백 원본 등을 날것 그대로 길게 붙여넣을수록 훨씬 더 날카롭고 현실적인 해결책을 제시합니다.
-
-- **Q: 왜 굳이 대안을 3개나 탐색하라고 지시하나요?**
-  - A: AI가 가장 첫 번째로 떠오른 편향된 답변을 즉시 채택하는 것을 방지하기 위함입니다. 여러 대안을 강제로 비교하게 만들면 결과물의 논리적 치밀함이 크게 상승합니다.
+Der Kern dieses Prompts besteht darin, der KI **"Zeit und Struktur zum Nachdenken"** aufzuzwingen.
+Frühere Modelle neigten dazu, Zwischenschritte zu überspringen, offensichtliche Schlüsse zu ziehen oder Einschränkungen zu vergessen, wenn man ihnen komplexe Anforderungen auf einmal vorlegte. Gemini 3 Pro verfolgt jedoch hartnäckig den im Abschnitt `Aufgabe (Task)` festgelegten 4-stufigen Denkprozess. Als wir beispielsweise intern einen Plan zur Überarbeitung unseres Legacy-Zahlungssystems prüften, konnten wir mit diesem Prompt mögliche Konflikte mit dem bestehenden System im Voraus erkennen und die Planungszeit von 3 Tagen auf nur 10 Minuten reduzieren!
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1. **강제된 순차적 사고 (Forced Sequential Thinking):** 1단계부터 4단계까지 반드시 순서대로 사고하도록 지시하여 논리적 비약을 완벽히 차단했습니다.
-2. **Trade-off 분석 요구:** '해결책 탐색' 단계에서 장단점을 명시하게 하여, 완벽해 보이는 해결책 이면의 리스크를 담당자가 인지할 수 있도록 돕습니다.
-3. **엄격한 제약조건 추적:** 모델의 뛰어난 컨텍스트 유지력을 활용하여, 초기 상황 설명의 제약조건이 최종 실행 계획까지 일관되게 적용되도록 안전장치를 마련했습니다.
+- **F: Wie detailliert müssen die Einschränkungen im `[Kontext]` sein?**
+  - A: Gemini 3 Pro kann gewaltige Kontextmengen verarbeiten. Anstatt nur Stichwörter zusammenzufassen, fügen Sie am besten rohe Besprechungsprotokolle, originale Fehlerprotokolle des bestehenden Systems oder ungefiltertes Kundenfeedback ein. Je mehr Rohdaten Sie liefern, desto schärfer und realistischer werden die Lösungsvorschläge.
+
+- **F: Warum wird ausdrücklich verlangt, 3 Alternativen zu untersuchen?**
+  - A: Dies verhindert, dass die KI sofort die erste voreingenommene Antwort übernimmt, die ihr einfällt. Indem man sie zwingt, mehrere Alternativen zu vergleichen, steigt die logische Dichte und Präzision des Ergebnisses enorm.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt-Anatomie (Why it works?)
 
-### ❌ Before (단순 지시형 프롬프트 사용 시)
+1. **Erzwungenes sequenzielles Denken (Forced Sequential Thinking):** Durch die Anweisung, zwingend von Schritt 1 bis 4 in der vorgegebenen Reihenfolge zu denken, werden logische Sprünge komplett unterbunden.
+2. **Forderung einer Trade-off-Analyse:** Im Schritt 'Alternativensuche' müssen Vor- und Nachteile explizit benannt werden. So helfen wir den Verantwortlichen, die versteckten Risiken hinter scheinbar perfekten Lösungen zu erkennen.
+3. **Strikte Verfolgung von Einschränkungen:** Unter Ausnutzung der hervorragenden Kontexterhaltung des Modells wurde ein Sicherheitsmechanismus eingebaut, der sicherstellt, dass die Einschränkungen aus der anfänglichen Situationsbeschreibung konsequent bis zum finalen Aktionsplan angewendet werden.
 
-> **입력:** "우리 쇼핑몰에 정기구독 결제 모델을 도입하려고 해. 개발 기간은 2주야. 로직 좀 짜줘."
+---
+
+## 📊 Beweis: Vorher & Nachher (Before & After)
+
+### ❌ Vorher (Bei Verwendung eines einfachen Anweisungs-Prompts)
+
+> **Eingabe:** "Wir wollen ein Abo-Zahlungsmodell in unserem Onlineshop einführen. Die Entwicklungszeit beträgt 2 Wochen. Entwirf mal die Logik."
 
 ```text
-정기구독 결제 모델 도입을 위한 로직입니다.
-1. 구독 상품 데이터베이스를 설계합니다.
-2. 사용자가 정기구독 버튼을 클릭하면 결제 정보를 등록합니다.
-3. 매월 1일에 지정된 카드로 자동 결제되도록 스케줄러를 세팅합니다.
-4. 결제가 성공하면 상품을 배송합니다.
+Hier ist die Logik zur Einführung eines Abo-Zahlungsmodells:
+1. Entwerfen Sie eine Datenbank für Abo-Produkte.
+2. Wenn der Benutzer auf den Abo-Button klickt, werden die Zahlungsdaten registriert.
+3. Richten Sie einen Scheduler ein, der jeden Monat am 1. automatisch über die angegebene Karte abbucht.
+4. Nach erfolgreicher Zahlung wird das Produkt versendet.
 ```
 
-_(결과: 누구나 아는 뻔한 원론적 이야기. 2주라는 제약 조건에 대한 고려나 기존 시스템과의 연동 리스크 분석이 전혀 없음)_
+*(Ergebnis: Offensichtliche, theoretische Phrasen, die jeder kennt. Keinerlei Berücksichtigung der 2-Wochen-Frist oder Risikoanalyse bezüglich der Integration in das bestehende System.)*
 
-### ✅ After (Pro Version 다단계 추론 프롬프트 사용 시)
+### ✅ Nachher (Bei Verwendung des Pro Version Multi-Step-Prompts)
 
-> **입력:** (Pro Version 프롬프트에 `[현재 상황: 기존 단건 결제만 존재]`, `[제약조건: 개발 기간 단 2주, 백엔드 개발자 1명, 기존 DB 구조 변경 최소화]` 등 입력)
+> **Eingabe:** (Eingabe in den Pro-Prompt: `[Aktuelle Situation: Bisher nur Einzelzahlungen vorhanden]`, `[Einschränkungen: Nur 2 Wochen Entwicklungszeit, 1 Backend-Entwickler, Minimierung von Änderungen an der bestehenden DB-Struktur]` etc.)
 
 ```text
-### 1. 문제 정의 (Problem Definition)
-현재 단건 결제 중심의 레거시 환경에서 새로운 정기구독 시스템을 구축할 때, '개발 기간 2주 및 백엔드 인력 1명'이라는 제약 조건이 가장 치명적인 병목입니다. 대대적인 DB 테이블 스키마 변경이나 신규 결제 모듈 스크래치 개발은 불가능합니다.
+### 1. Problemdefinition (Problem Definition)
+Beim Aufbau eines neuen Abo-Systems in der aktuellen, auf Einzelzahlungen ausgerichteten Legacy-Umgebung ist die Einschränkung '2 Wochen Entwicklungszeit und 1 Backend-Entwickler' der kritischste Engpass. Eine weitreichende Änderung des DB-Tabellenschemas oder die komplette Neuentwicklung eines Zahlungsmoduls sind ausgeschlossen.
 
-### 2. 해결책 탐색 (Solution Exploration)
-- 대안 A: 신규 구독 DB 완전 분리 및 새로운 결제 API 구축 (안정성은 높으나 기간 초과, 2주 내 절대 불가)
-- 대안 B: 기존 `Order` 테이블에 `is_subscription` 컬럼만 추가하여 하드코딩 (개발은 빠르나 향후 확장성 최악, 기술 부채 증가)
-- 대안 C: 결제 빌링키 발급 API만 우선 연동하고, 독립된 외부 Cron 워커(Worker)가 기존의 '단건 결제 API'를 매월 호출하도록 처리 (기존 DB 영향 최소화, 1인 개발자로 2주 내 구현 가능)
+### 2. Alternativensuche (Solution Exploration)
+- Alternative A: Vollständige Trennung einer neuen Abo-DB und Aufbau einer neuen Zahlungs-API (Hohe Stabilität, aber sprengt den Zeitrahmen; in 2 Wochen absolut unmöglich).
+- Alternative B: Hardcoding durch einfaches Hinzufügen einer `is_subscription`-Spalte zur bestehenden `Order`-Tabelle (Schnelle Entwicklung, aber katastrophal für zukünftige Skalierbarkeit, Erhöhung der technischen Schulden).
+- Alternative C: Nur die API zur Ausstellung eines Billing Keys anbinden und einen unabhängigen externen Cron-Worker einrichten, der jeden Monat die bestehende 'Einzelzahlungs-API' aufruft (Minimale Auswirkungen auf die bestehende DB, von 1 Entwickler in 2 Wochen realisierbar).
 
-### 3. 최적안 선정 및 논리 전개 (Optimal Selection & Reasoning)
-**대안 C**를 최적안으로 선정합니다.
-기존 시스템의 코어 로직과 DB 스키마를 건드리지 않기 때문에 부작용(Side-effect)을 최소화할 수 있습니다. 또한 스케줄러가 매월 정해진 시간에 PG사 빌링키로 결제를 요청하고, 성공 시 기존 단건 결제 생성 API를 재활용하여 데이터를 밀어 넣는 방식이므로 2주라는 빡빡한 리소스 내에 가장 현실적으로 배포가 가능합니다.
+### 3. Auswahl der besten Option & Logische Begründung (Optimal Selection & Reasoning)
+**Alternative C** wird als beste Option ausgewählt.
+Da die Kernlogik und das DB-Schema des bestehenden Systems nicht angetastet werden, lassen sich Nebenwirkungen (Side-effects) minimieren. Zudem fordert der Scheduler jeden Monat zu einer bestimmten Zeit die Zahlung über den Billing Key des Zahlungsanbieters an und nutzt bei Erfolg die bestehende API zur Erstellung von Einzelzahlungen wieder, um die Daten einzuspeisen. Dies ist der realistischste Weg für ein Deployment innerhalb der knappen Ressourcen von 2 Wochen.
 
-### 4. 실행 계획 (Action Plan)
-1. [D-14] PG사 빌링키(Billing Key) 발급 API 연동 테스트
-2. [D-12] 프론트엔드: '정기구독' 버튼 클릭 시 빌링키 발급 UI 추가
-3. [D-10] 백엔드: 빌링키를 암호화하여 저장하는 `User_Billing` 경량 테이블 1개만 신규 추가
-4. [D-07] 외부 Cron 워커 세팅: 매일 00시에 결제 대상자를 조회하여 빌링키 결제 요청
-5. [D-04] 결제 성공 시 기존 `createOrder` API를 내부적으로 호출하여 주문 데이터 적재
-6. [D-01] 실패(잔액 부족 등) 예외 처리 및 알림톡 발송 로직 테스트
+### 4. Aktionsplan (Action Plan)
+1. [Tag 1] Integrationstest der API zur Ausstellung des Billing Keys (Billing Key) beim Zahlungsanbieter.
+2. [Tag 3] Frontend: UI zur Ausstellung des Billing Keys beim Klick auf den 'Abonnieren'-Button hinzufügen.
+3. [Tag 5] Backend: Nur 1 neue, leichtgewichtige `User_Billing`-Tabelle hinzufügen, um den Billing Key verschlüsselt zu speichern.
+4. [Tag 8] Einrichtung des externen Cron-Workers: Täglich um 00:00 Uhr die zahlungspflichtigen Kunden abfragen und die Zahlung via Billing Key anfordern.
+5. [Tag 11] Bei erfolgreicher Zahlung intern die bestehende `createOrder`-API aufrufen, um die Bestelldaten zu laden.
+6. [Tag 14] Testen der Ausnahmebehandlung (z. B. unzureichendes Guthaben) und der Benachrichtigungslogik.
 ```
 
-_(결과: 제약조건을 완벽히 이해하고 반영한 현실적인 아키텍처 대안, 왜 이 방식을 택해야 하는지에 대한 강력한 논리, 당장 내일부터 수행 가능한 일자별 마일스톤 제공)_
+*(Ergebnis: Eine realistische Architektur-Alternative, die die Einschränkungen perfekt versteht und widerspiegelt, eine starke logische Begründung, warum dieser Ansatz gewählt werden sollte, sowie tagesaktuelle Meilensteine, die ab morgen umsetzbar sind.)*
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-Gemini 3 고성능 모델은 더 이상 단순한 검색 엔진이나 텍스트 생성기가 아닙니다. 어떻게 프롬프트를 구성하느냐에 따라 여러분의 비즈니스 구조를 통째로 리팩토링해 줄 수 있는 최고의 전략가로 변신합니다.
+Das Hochleistungsmodell Gemini 3 ist kein einfaches Suchwerkzeug oder Textgenerator mehr. Je nachdem, wie Sie Ihren Prompt strukturieren, verwandelt es sich in einen erstklassigen Strategen, der Ihre gesamte Geschäftsstruktur refaktorieren kann.
 
-AI에게 단순히 "결과를 내놔"라고 명령하지 마세요. **"나와 함께 이 순서대로 치열하게 고민해 보자"**라고 제안해 보세요. 다단계 추론이라는 새로운 패러다임을 맞이하면, 여러분이 얻게 될 결과물의 차원도 완전히 달라질 것입니다. 이제 직접 테스트해 볼 시간입니다! 🍷
+Befehlen Sie der KI nicht einfach: "Gib mir ein Ergebnis." Schlagen Sie ihr stattdessen vor: **"Lass uns dieses Problem gemeinsam in dieser genauen Reihenfolge intensiv durchdenken."** Wenn Sie dieses neue Paradigma des Multi-Step Reasoning annehmen, wird das Niveau der Ergebnisse, die Sie erzielen, in eine völlig andere Dimension vorstoßen. Jetzt ist es Zeit für Sie, es selbst zu testen! 🍷

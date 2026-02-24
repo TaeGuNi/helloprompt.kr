@@ -5,149 +5,149 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "프로젝트 관리"
-description: "1시간짜리 회의 녹취록을 단 10초 만에 완벽한 Jira 티켓으로 변환하는 마법 같은 프롬프트를 소개합니다."
+description: "Descubre un prompt mágico que transforma una hora de transcripción de reuniones en tickets de Jira perfectos y listos para usar en solo 10 segundos."
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 
-# 📝 회의록을 Jira 티켓으로 10초 만에 자동 변환하는 AI 프롬프트
+# 📝 Transforma Actas de Reuniones en Tickets de Jira en 10 Segundos con IA
 
-- **🎯 추천 대상:** PM, PO, 스크럼 마스터, 기획자, 개발 리더
-- **⏱️ 소요 시간:** 30분 → 10초
-- **🤖 추천 모델:** Claude 3.5 Sonnet (긴 문맥과 맥락 이해 압도적), GPT-4o
+- **🎯 Recomendado para:** Product Managers (PM), Product Owners (PO), Scrum Masters, Planificadores, Líderes de Desarrollo
+- **⏱️ Tiempo requerido:** 30 minutos → 10 segundos
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (Excepcional para contextos largos), GPT-4o
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"회의록 정리하다가 오늘 해야 할 진짜 업무를 놓치고 계시진 않나요?"_
+> _"¿Estás perdiendo tiempo valioso organizando minutas de reuniones en lugar de avanzar con tu trabajo real?"_
 
-회의 중에 쏟아지는 수많은 아이디어와 지시사항들, 막상 회의가 끝나면 누가, 언제까지, 무엇을 해야 하는지 흐지부지되는 경우가 많습니다. 녹음본이나 회의록 스크립트만 덩그러니 남아있고, 이를 다시 Jira 티켓이나 Asana 태스크로 옮기는 데 아까운 시간을 낭비하고 있다면 이 프롬프트가 완벽한 해결책이 될 것입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 클로바노트(CLOVA Note), Zoom, Teams 등에서 추출한 회의 스크립트(STT)를 준비합니다.
-2. AI에게 프롬프트를 입력하여 단순 요약이 아닌 **'실행 가능한 액션 아이템(Action Item)'**과 **'Jira 티켓 포맷'**으로 추출합니다.
-3. 생성된 결과를 복사하여 Jira, Notion, Asana 등에 바로 붙여넣고 업무를 시작합니다.
+Durante las reuniones surgen innumerables ideas e instrucciones, pero a menudo, al finalizar, no queda claro quién debe hacer qué ni para cuándo. Si solo te quedas con una grabación o una transcripción y pierdes un tiempo precioso trasladando todo esto a tickets de Jira o tareas de Asana, este prompt será tu solución definitiva.
 
 ---
 
-## 🚀 해결책: "PM의 완벽한 비서, 자동 티켓 생성기"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Prepara la transcripción (STT) de tu reunión extraída de herramientas como Zoom, Microsoft Teams o aplicaciones de transcripción automática.
+2. Introduce el prompt en la IA para extraer no solo un simple resumen, sino **'Action Items' (Elementos de Acción) ejecutables** en **formato de ticket de Jira**.
+3. Copia los resultados generados, pégalos directamente en Jira, Notion o Asana, y comienza a trabajar de inmediato.
 
-빠르게 누가, 무엇을 해야 하는지 '액션 아이템'만 추출해야 할 때 사용하세요.
+---
 
-> **역할:** 너는 `[10년 차 꼼꼼한 PM]`이야.
-> **요청:** 제공된 회의 스크립트에서 '누가(Assignee)', '언제까지(Due Date)', '무엇을(Task)' 해야 하는지 실행 가능한 액션 아이템만 리스트 형태로 깔끔하게 뽑아줘.
-> **스크립트:** `[여기에 회의 스크립트 붙여넣기]`
+## 🚀 Solución: "El Asistente Perfecto del PM: Generador Automático de Tickets"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites extraer rápidamente solo los 'Action Items' para saber quién debe hacer qué.
+
+> **Rol:** Eres un `[PM meticuloso con 10 años de experiencia]`.
+> **Tarea:** A partir de la transcripción de la reunión proporcionada, extrae de forma clara y en formato de lista los Action Items ejecutables, especificando 'Quién (Assignee)', 'Para cuándo (Due Date)' y 'Qué hacer (Task)'.
+> **Transcripción:** `[Pega aquí la transcripción de la reunión]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Pro Version)
 
-단순 요약을 넘어, 개발팀이 즉시 작업에 착수할 수 있도록 **유저 스토리(User Story)**와 **인수 조건(Acceptance Criteria)**이 포함된 완벽한 Jira 티켓 형태로 변환합니다.
+Va más allá de un simple resumen. Convierte la transcripción en tickets de Jira perfectos, incluyendo **Historias de Usuario (User Stories)** y **Criterios de Aceptación (Acceptance Criteria)**, para que el equipo de desarrollo pueda comenzar a trabajar de inmediato.
 
-> **역할 (Role):** 너는 `[15년 차 애자일 코치이자 수석 스크럼 마스터]`야.
+> **Rol (Role):** Eres un `[Agile Coach y Scrum Master principal con 15 años de experiencia]`.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 방금 신규 기능 기획 회의가 끝났어. 이 회의 내용을 바탕으로 개발자들과 디자이너에게 할당할 명확한 Jira 티켓을 생성해야 해.
-> - 목표: 개발팀이 질문 없이 바로 개발에 착수할 수 있도록, 명확한 인수 조건(Acceptance Criteria)이 포함된 에픽(Epic) 및 스토리(Story) 단위의 티켓을 작성하는 것.
+> - Antecedentes: Acaba de terminar una reunión de planificación de nuevas funcionalidades. A partir de esta reunión, necesito crear tickets de Jira claros para asignar a los desarrolladores y diseñadores.
+> - Objetivo: Redactar tickets a nivel de Épica (Epic) e Historia (Story) que incluyan Criterios de Aceptación (AC) precisos, permitiendo que el equipo de desarrollo inicie su trabajo sin necesidad de hacer preguntas adicionales.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 회의 스크립트를 분석하여 개발 작업(Dev Task)과 디자인 작업(Design Task)을 분리해.
-> 2. 각 작업에 대해 **User Story 포맷**("As a [persona], I want to [action] so that [outcome]")으로 요약해.
-> 3. 각 티켓마다 QA 테스트의 기준이 될 **인수 조건(AC)**을 3가지 이상 구체적이고 엣지 케이스를 포함하여 작성해.
-> 4. 회의 중 특정 담당자가 언급되었다면 할당자(Assignee)로 지정해. 없으면 '미정'으로 남겨둬.
+> 1. Analiza la transcripción de la reunión y separa las tareas de desarrollo (Dev Task) de las tareas de diseño (Design Task).
+> 2. Resume cada tarea utilizando el **formato de User Story** ("Como [persona], quiero [acción] para [resultado]").
+> 3. Para cada ticket, redacta al menos 3 **Criterios de Aceptación (AC)** específicos que sirvan como base para las pruebas de QA, incluyendo casos extremos (edge cases).
+> 4. Si durante la reunión se menciona a un responsable específico, asígnalo como encargado (Assignee). Si no, déjalo como 'Por definir' (TBD).
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력은 반드시 아래의 마크다운 포맷을 엄격하게 지켜줘.
-> - `[티켓 제목 (요약)]`
-> - `**Assignee:** [담당자]` / `**Due Date:** [일정]`
-> - `**User Story:** [내용]`
+> - Debes respetar estrictamente el siguiente formato Markdown para la salida.
+> - `[Título del Ticket (Resumen)]`
+> - `**Assignee:** [Responsable]` / `**Due Date:** [Fecha límite]`
+> - `**User Story:** [Contenido]`
 > - `**Acceptance Criteria:**`
->   - `[조건 1]`
->   - `[조건 2]`
+>   - `[Criterio 1]`
+>   - `[Criterio 2]`
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 회의 스크립트에 없는 내용을 절대 임의로 지어내지 마 (환각 방지).
-> - 불명확한 부분은 티켓 하단에 `**확인 필요 사항(TBD):**` 항목으로 따로 빼서 질문해 줘.
+> - Nunca inventes información que no esté en la transcripción (Evita las alucinaciones de la IA).
+> - Si hay partes ambiguas, agrúpalas al final del ticket bajo la sección `**Elementos por confirmar (TBD):**` en forma de preguntas.
 >
-> **회의 스크립트:**
-> `[여기에 스크립트 전문 붙여넣기]`
+> **Transcripción de la reunión:**
+> `[Pega aquí la transcripción completa]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-이 프롬프트의 핵심은 단순한 '회의 요약'을 넘어 '실행 가능한 구조화된 데이터(Jira 티켓)'로 변환하는 데 있습니다.
-실무에서 AI에게 "회의록 요약해 줘"라고만 하면, 그저 말의 나열을 줄여줄 뿐 개발자에게 바로 전달하기엔 부족한 경우가 많습니다. 하지만 `User Story`와 `Acceptance Criteria`를 명시하도록 강제(Constraint)하면, AI는 모호한 대화 속에서 '작동 조건'을 추론해 냅니다.
+El verdadero valor de este prompt radica en transformar un simple 'resumen de reunión' en **datos estructurados y procesables (Tickets de Jira)**.
+En la práctica, si solo le pides a la IA que "resuma el acta", simplemente acortará el texto, lo cual suele ser insuficiente para entregarlo directamente a un desarrollador. Sin embargo, al imponer la restricción (Constraint) de especificar una `User Story` y los `Acceptance Criteria`, obligamos a la IA a deducir las 'condiciones de funcionamiento' a partir de una conversación ambigua.
 
-**Tip:** 특히 Claude 3.5 Sonnet은 긴 문맥(Long Context)을 처리하는 능력이 압도적입니다. 1시간짜리 회의 녹취록 전체를 그대로 복사해서 넣어도 흐름을 잃지 않고 정확하게 액션 아이템을 짚어냅니다. 회의 중 나왔던 농담이나 잡담은 알아서 필터링하므로 스크립트를 정제할 필요도 없습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 1시간이 넘는 긴 회의 녹취록도 한 번에 처리가 가능한가요?**
-  - A: 네, Claude 3.5 Sonnet이나 GPT-4o는 문맥 창(Context Window)이 매우 커서 1시간 분량(약 1~2만 자)의 텍스트는 가뿐히 처리합니다. 단, 토큰 제한이 있는 구형 모델(GPT-3.5 등)에서는 스크립트가 잘릴 수 있으니 주의하세요.
-
-- **Q: 결과물이 제가 원하는 형태가 아닙니다. 어떻게 튜닝해야 하나요?**
-  - A: 우리 팀만의 고유한 Jira 템플릿이나 상태(Status) 값이 있다면, `[제약사항]` 항목에 해당 템플릿을 복사해서 붙여넣고 "반드시 이 사내 템플릿 양식을 맞춰서 출력해"라고 한 줄만 추가해 보세요. 훨씬 더 팀에 최적화된 결과가 나옵니다.
-
-- **Q: STT(음성 텍스트 변환) 프로그램은 어떤 걸 추천하시나요?**
-  - A: 한국어 회의라면 네이버의 '클로바노트(CLOVA Note)'가 화자 분리 및 인식률 면에서 가장 압도적입니다. 온라인 화상 회의의 경우 Zoom이나 Teams에서 기본 제공하는 스크립트 추출 기능을 활용하셔도 충분합니다.
+**Consejo Pro:** Claude 3.5 Sonnet destaca especialmente por su capacidad para procesar contextos largos (Long Context). Puedes pegar directamente la transcripción completa de una reunión de una hora y no perderá el hilo, identificando los Action Items con total precisión. Además, filtrará automáticamente las bromas o charlas triviales de la reunión, por lo que no necesitas limpiar la transcripción previamente.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **페르소나 최적화:** AI에게 '수석 스크럼 마스터'라는 명확한 역할을 부여하여, 단순 서기가 아닌 개발 업무의 본질을 이해하고 구조화하도록 유도했습니다.
-2. **환각(Hallucination) 억제:** "스크립트에 없는 내용을 지어내지 말 것", "불명확한 부분은 TBD로 빼낼 것"이라는 안전장치를 두어, AI가 임의로 기획을 창작하여 발생하는 리스크를 완벽하게 차단했습니다.
-3. **인수 조건(AC) 강제:** 개발 과정에서 가장 많은 커뮤니케이션 비용이 발생하는 'QA 기준'을 AI가 초안으로 잡아주어, 기획자와 개발자 간의 싱크를 맞추는 시간을 획기적으로 줄여줍니다.
+- **P: ¿Puede procesar transcripciones largas de reuniones de más de una hora de una sola vez?**
+  - R: Sí, modelos como Claude 3.5 Sonnet o GPT-4o tienen ventanas de contexto (Context Window) muy amplias y manejan fácilmente textos de una hora (aprox. 10,000 a 20,000 palabras). Sin embargo, ten cuidado con modelos más antiguos (como GPT-3.5) que tienen límites de tokens más estrictos, ya que la transcripción podría cortarse.
+
+- **P: El resultado no tiene el formato exacto que necesito. ¿Cómo lo ajusto?**
+  - R: Si tu equipo utiliza una plantilla específica de Jira o valores de estado (Status) particulares, simplemente copia tu plantilla y pégala en la sección de `[Restricciones]`, añadiendo una línea que diga: "Debes usar estrictamente esta plantilla interna para la salida". Esto generará resultados mucho más optimizados para tu equipo.
+
+- **P: ¿Qué programa de reconocimiento de voz (STT) recomiendan?**
+  - R: Para reuniones en inglés o español, herramientas como Fathom, Otter.ai, o la transcripción nativa de Zoom y Microsoft Teams ofrecen una precisión excelente y separan muy bien a los hablantes. Puedes descargar fácilmente la transcripción desde estas plataformas una vez finalizada la llamada.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Análisis del Prompt (Why it works?)
 
-### ❌ Before (입력 - 날것의 회의 스크립트)
+1. **Optimización del Persona:** Al asignarle a la IA el rol específico de 'Scrum Master principal', la inducimos a comprender y estructurar la esencia del trabajo de desarrollo, en lugar de actuar como un simple secretario.
+2. **Prevención de Alucinaciones (Hallucination):** Incorporamos mecanismos de seguridad explícitos como "Nunca inventes información" y "Extrae lo ambiguo a una sección TBD". Esto elimina el riesgo de que la IA invente características o requisitos inexistentes.
+3. **Criterios de Aceptación (AC) Obligatorios:** La IA redacta un borrador de los 'Criterios de QA', que es donde suele haber mayores costos de comunicación durante el desarrollo. Esto reduce drásticamente el tiempo necesario para alinear las expectativas entre PMs y desarrolladores.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Entrada - Transcripción en bruto)
 
 ```text
-팀장: "음.. 결제 페이지에서 유저들이 자꾸 이탈하는데, 장바구니에 담아둔 상품이 3일 뒤에 사라져서 그런 것 같아요. 이거 일주일로 늘릴 수 있나요? 김대리님 언제까지 되죠?"
-김대리 (개발): "DB 쪽 만져야 해서 이번 주 금요일까진 해야 할 것 같은데요. 아, 그리고 기간 만료 하루 전에 알림톡 보내는 것도 같이 할까요?"
-팀장: "오, 그거 좋네요. 알림톡 문구는 이주임님이 수요일까지 초안 잡아주세요."
+Product Manager: "Mmm... veo que los usuarios abandonan la página de pago. Creo que es porque los productos en el carrito desaparecen después de 3 días. ¿Podemos extender esto a una semana? Carlos, ¿para cuándo crees que pueda estar listo?"
+Carlos (Desarrollo): "Tendré que tocar la base de datos, así que probablemente me tome hasta este viernes. Ah, ¿y también deberíamos enviar un correo recordatorio un día antes de que expire?"
+Product Manager: "Oh, esa es una gran idea. Ana, por favor, prepara un borrador del texto para el correo y entrégalo el miércoles."
 ```
 
-### ✅ After (결과 - Pro Version 프롬프트 적용)
+### ✅ Después (Resultado - Usando la Versión Pro)
 
 ```text
-[결제/장바구니] 장바구니 보관 기간 연장 및 만료 사전 알림톡 발송
+[Pago/Carrito] Extender retención del carrito de compras y envío de correo de recordatorio
 
-**Assignee:** 김대리 (개발), 이주임 (문구 기획) / **Due Date:** 이번 주 금요일 (알림톡 문구는 수요일)
+**Assignee:** Carlos (Desarrollo), Ana (Copywriting) / **Due Date:** Este viernes (Texto del correo para el miércoles)
 
 **User Story:**
-As a 구매 예정 유저, I want to 장바구니에 담은 상품을 7일 동안 보관하고 만료 전 알림을 받기를 원한다. So that 상품을 잃어버리지 않고 결제를 완료할 수 있다.
+Como usuario con intención de compra, quiero que los productos en mi carrito se guarden por 7 días y recibir un aviso antes de que expiren, para no perder los artículos seleccionados y poder completar mi pago.
 
 **Acceptance Criteria:**
-- [ ] 장바구니 상품의 보관 세션 기간이 기존 3일에서 7일로 연장되어야 한다.
-- [ ] 보관 기간 만료 24시간 전에 유저의 카카오톡(알림톡)으로 만료 예정 안내가 발송되어야 한다.
-- [ ] (문구 기획) 알림톡에 들어갈 텍스트 초안이 수요일까지 전달되어야 한다.
+- [ ] El período de retención de la sesión del carrito de compras debe extenderse de los 3 días actuales a 7 días.
+- [ ] Se debe enviar un correo electrónico de recordatorio al usuario 24 horas antes de que expire el período de retención.
+- [ ] (Tarea de Copywriting) El borrador del texto para el correo de recordatorio debe entregarse a más tardar el miércoles.
 
-**확인 필요 사항(TBD):**
-- 알림톡 발송 시 상품 링크를 포함할지 여부 확인 필요.
+**Elementos por confirmar (TBD):**
+- Se necesita confirmar si el correo electrónico de recordatorio debe incluir enlaces directos a los productos del carrito.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-회의가 길어질수록, 텍스트 스크립트는 방대해지고 이를 정리하는 일은 고통이 됩니다.
-하지만 이 프롬프트를 활용하면 **회의 종료 버튼을 누르는 순간, 우리 팀의 다음 주 스프린트 백로그가 완성**되는 마법을 경험할 수 있습니다.
+A medida que las reuniones se alargan, las transcripciones de texto crecen enormemente y organizarlas se convierte en un verdadero dolor de cabeza.
+Pero con este prompt, **en el instante en que haces clic en finalizar la reunión, tendrás listo el Backlog del Sprint de la próxima semana**. Es pura magia.
 
-지금 바로 어제 했던 회의 스크립트를 복사해서 붙여넣어 보세요.
-칼퇴는 프롬프트 한 줄에서 시작됩니다! 🍷
+Copia y pega la transcripción de tu última reunión ahora mismo.
+¡Salir temprano del trabajo empieza con una sola línea de prompt! 🍷

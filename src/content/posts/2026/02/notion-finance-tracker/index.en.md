@@ -5,130 +5,130 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "재테크/투자"
-description: "엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계형 데이터베이스를 활용해 내 자산 흐름을 한눈에 보는 법."
+description: "Ditch the Excel spreadsheets. Learn how to use Notion formulas and relational databases to visualize and control your cash flow at a glance."
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# 💸 Notion 가계부 템플릿: 돈이 모이는 자동화 시스템
+# 💸 Notion Expense Tracker Template: An Automated System That Builds Wealth
 
-- **🎯 추천 대상:** 뱅크샐러드, 토스 등 자동 가계부 앱의 한계를 느끼고, 내 자산의 흐름을 주도적으로 통제하고 싶은 직장인
-- **⏱️ 소요 시간:** 10분 (AI 프롬프트로 수식 및 DB 구조 생성)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (복잡한 노션 수식 및 관계형 DB 설계에 탁월)
+- **🎯 Recommended for:** Employees who feel limited by automated expense tracking apps and want to proactively control their cash flow.
+- **⏱️ Time Required:** 10 minutes (using AI prompts to generate formulas and DB structures)
+- **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet (excellent for complex Notion formulas and relational DB design)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"카드값 명세서를 볼 때마다 '내가 이렇게 많이 썼다고?' 놀라시나요? 자동으로 기록되는 가계부 앱은 편하지만, 우리의 지출 습관을 바꿔주진 못합니다."_
+> _"Do you gasp every time you look at your credit card bill, wondering 'Did I really spend this much?' Automated expense trackers are convenient, but they rarely change our spending habits."_
 
-우리가 돈을 모으지 못하는 이유는 수입이 적어서가 아니라, 지출을 '통제'하지 못하기 때문입니다. 자동으로 긁어오는 가계부 앱은 편하지만 지출에 대한 '통각(Pain of paying)'을 무디게 만듭니다. 반면 엑셀은 진입 장벽이 높고 모바일에서 보기 불편하죠.
+The reason we fail to save money isn't necessarily because we earn too little, but because we fail to 'control' our expenses. Automated tracking apps are convenient, but they numb the 'pain of paying'. On the other hand, Excel has a high barrier to entry and is cumbersome to view on mobile.
 
-정답은 **노션(Notion)**입니다. 나만의 라이프스타일에 맞춘 예산 퍼센트 바(Progress Bar)와 무지출 챌린지 캘린더를 AI의 도움을 받아 단 10분 만에 구축해 보세요. 복잡한 수식과 데이터베이스 설계는 AI가 모두 해결해 드립니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **지출의 시각화:** 노션 수식을 활용해 남은 예산을 퍼센트 바(Progress Bar)로 한눈에 파악합니다.
-2. **관계형 데이터베이스:** '수입/지출 내역'과 '월별 예산' DB를 연결하여 자동으로 통계가 잡히는 시스템을 구축합니다.
-3. **AI 프롬프트 활용:** 머리 아픈 노션 수식(`if`, `slice`, `prop`)은 AI에게 상황과 목적만 던져주면 완벽하게 짜줍니다.
+The answer is **Notion**. In just 10 minutes, with the help of AI, you can build a customized budget progress bar and a "no-spend challenge" calendar tailored to your lifestyle. Let AI handle the complex formulas and database architecture.
 
 ---
 
-## 🚀 해결책: "Notion Formula Architect"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Visualize Expenses:** Utilize Notion formulas to view your remaining budget at a glance using progress bars.
+2. **Relational Databases:** Connect your 'Income/Expense Tracker' with a 'Monthly Budget' database to build an automated, statistic-generating system.
+3. **Leverage AI Prompts:** Simply provide the context and goal to an AI, and it will perfectly script those headache-inducing Notion formulas (`if`, `slice`, `prop`).
 
-가계부 작성을 위한 기본적인 플러스/마이너스 계산 수식이 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 노션(Notion) 수식 작성 전문가야.
-> **요청:** 노션 데이터베이스에 '금액(숫자)' 속성과 '유형(선택: 수입/지출)' 속성이 있어. 이 두 가지를 조합해서, '유형'이 수입이면 금액을 그대로, '지출'이면 마이너스(-)를 붙여서 '실제 금액'을 계산해 주는 `if` 함수 수식을 작성해 줘.
+## 🚀 The Solution: "Notion Formula Architect"
+
+### 🥉 Basic Version
+
+Use this when you need fundamental plus/minus calculation formulas for basic bookkeeping.
+
+> **Role:** You are a Notion formula expert.
+> **Task:** My Notion database has an 'Amount (Number)' property and a 'Type (Select: Income/Expense)' property. Write an `if` formula that combines these two: if the 'Type' is Income, keep the amount as is; if it's Expense, attach a minus (-) sign to calculate the 'Actual Amount'.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-단순 기입을 넘어, 예산 통제와 자산 흐름 분석이 가능한 완벽한 관계형 데이터베이스를 설계할 때 사용하세요.
+Use this when you want to design a flawless relational database capable of budget control and cash flow analysis, moving beyond simple data entry.
 
-> **역할 (Role):** 너는 노션(Notion) 앰배서더이자 데이터베이스 설계에 능통한 자산 관리 전문가야.
+> **Role:** You are a Notion Ambassador and a wealth management expert highly skilled in database architecture.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 기존 자동 가계부 앱의 한계를 느껴, 노션을 활용해 내 지출을 적극적으로 통제하고 분석할 수 있는 '올인원 가계부 시스템'을 만들려고 해.
-> - 목표: 월별 예산 대비 지출을 시각적으로 확인하고, 카테고리별 통계를 자동으로 산출하는 노션 대시보드 구축
+> - Background: I'm frustrated by the limitations of automated expense tracking apps. I want to build an 'All-in-One Expense System' in Notion to actively control and analyze my spending.
+> - Goal: Build a Notion dashboard that visually compares monthly budgets against actual expenses and automatically generates category-specific statistics.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **DB 구조 설계:** '월별 대시보드(예산)' DB와 '일일 지출 내역' DB를 분리하고, 이 둘을 관계형(Relation)과 롤업(Rollup)으로 어떻게 연결해야 하는지 단계별로 설명해 줘.
-> 2. **예산 진행률 수식 (Progress Bar):** 월별 예산 대비 현재까지의 지출액을 계산하여, 남은 예산을 시각적인 퍼센트 바(예: `▓▓▓▓▓░░░░░ 50%`)로 보여주는 노션 수식을 작성해 줘. (`slice` 및 `repeat` 함수 활용)
-> 3. **무지출 챌린지 캘린더:** '일일 지출 내역' 캘린더 뷰에서, 당일 지출액이 0원이면 날짜 옆에 자동으로 '🎉' 이모지가 표시되는 조건부 수식을 만들어 줘.
+> 1. **Database Architecture:** Explain step-by-step how to separate the 'Monthly Dashboard (Budget)' DB and the 'Daily Expenses' DB, and how to connect them using Relations and Rollups.
+> 2. **Budget Progress Bar Formula:** Write a Notion formula that calculates the spending against the monthly budget and displays the remaining budget as a visual progress bar (e.g., `▓▓▓▓▓░░░░░ 50%`). Utilize the `slice` and `repeat` functions.
+> 3. **No-Spend Challenge Calendar:** Create a conditional formula for the 'Daily Expenses' calendar view so that if the day's spending is $0, a '🎉' emoji automatically appears next to the date.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 노션 수식 2.0(Formula 2.0) 문법에 맞게 최신 기준으로 작성해 줘.
-> - 각 수식의 작동 원리를 초보자도 이해할 수 있도록 주석이나 설명을 덧붙여 줘.
+> - Write the formulas according to the latest Notion Formula 2.0 syntax.
+> - Include comments or explanations for how each formula works so a beginner can understand them.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 복잡한 수식일수록 괄호의 짝이 맞는지, 속성(prop) 이름이 정확하게 매칭되는지 반드시 확인 후 출력해.
+> - Before outputting complex formulas, strictly verify that all parentheses match and that the property (`prop`) names align perfectly.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-노션 가계부를 직접 만들어 쓰는 가장 큰 이유는 **'게임을 하듯 돈을 관리할 수 있다'**는 점입니다.
-AI가 짜준 수식을 활용해 `if(prop("지출") / prop("예산") >= 0.9, "🚨 텅장 주의보", "🟢 안정권")` 처럼 나만의 위트 있는 경고 문구를 넣어보세요. 예산 바가 줄어드는 것을 시각적으로 확인하는 순간, 충동구매를 하려던 손길이 멈추게 됩니다.
+The biggest advantage of building your own Notion expense tracker is that **it turns money management into a game.**
+Using the formulas generated by AI, you can add your own witty warning messages, such as `if(prop("Expense") / prop("Budget") >= 0.9, "🚨 Wallet Alert", "🟢 Safe Zone")`. The moment you visually see your budget progress bar shrinking, you'll hesitate before making that impulse purchase.
 
-또한, 카테고리별 롤업(Rollup) 기능을 활용하면 연말 정산이나 내년도 예산을 계획할 때 엄청난 인사이트를 얻을 수 있습니다. 복잡한 수식 설계는 AI에게 맡기고, 여러분은 자산의 흐름을 읽는 데만 집중하세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 카드 결제 내역을 노션에 자동으로 연동할 수는 없나요?**
-  - A: 노션 API와 재피어(Zapier) 등을 활용해 자동화할 수는 있지만, **추천하지 않습니다.** 가계부의 본질은 '돈을 쓰는 순간의 통각'을 느끼는 것입니다. 매일 저녁 5분씩 직접 입력하며 하루의 지출을 반성하는 과정 자체가 최고의 재테크입니다.
-
-- **Q: 노션 수식이 너무 복잡해서 에러가 납니다. 어떻게 해결하나요?**
-  - A: 에러가 발생한 노션 수식 창의 내용을 그대로 복사해서 AI에게 "이 수식에서 `Syntax error`가 발생했는데 어디가 문제인지 수정해 줘"라고 다시 프롬프트를 입력해 보세요. 괄호 누락이나 데이터 타입(숫자/문자) 충돌 문제를 1초 만에 찾아줍니다.
-
-- **Q: 노션 무료 요금제에서도 이 모든 기능이 가능한가요?**
-  - A: 네, 완벽하게 가능합니다. 관계형 데이터베이스, 롤업, 고급 수식 기능 모두 노션 개인 무료 요금제에서 제한 없이 사용할 수 있습니다.
+Furthermore, leveraging the category Rollup feature provides incredible insights when planning for tax season or next year's budget. Leave the complex formula engineering to AI, and focus entirely on reading the flow of your assets.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **Relation & Rollup 구조화 요구:** 노션의 핵심인 데이터베이스 간의 연결 고리를 AI가 먼저 설계하도록 지시했습니다. 구조가 탄탄해야 수식도 정상적으로 작동합니다.
-2.  **시각화(Visualization) 강제:** 단순히 숫자를 계산하는 것을 넘어, `slice`, `repeat` 함수를 구체적으로 언급하며 시각적 피드백(Progress Bar, 이모지)을 요구했습니다. 이는 지출 통제라는 가계부의 궁극적 목표를 달성하는 핵심 기제입니다.
-3.  **최신 문법(Formula 2.0) 명시:** 노션 수식 문법이 최근 크게 업데이트되었습니다. AI가 과거의 복잡하고 호환되지 않는 수식을 내뱉지 않도록 버전을 명확히 통제했습니다.
+- **Q: Can I automatically sync my credit card transactions to Notion?**
+  - A: While it is possible to automate this using the Notion API and tools like Zapier, **it is highly discouraged.** The essence of an expense tracker is to feel the 'pain of paying' at the moment of spending. The process of manually entering your expenses for 5 minutes every evening and reflecting on your daily spending is the best form of financial management.
+
+- **Q: My Notion formula keeps throwing an error because it's too complex. How do I fix it?**
+  - A: Simply copy the contents of the Notion formula editor where the error occurred, paste it into the AI, and say: "This formula is throwing a `Syntax error`. Please find the issue and fix it." The AI will spot missing parentheses or data type (number/string) conflicts in a second.
+
+- **Q: Are all these features available on the free Notion plan?**
+  - A: Yes, absolutely. Relational databases, rollups, and advanced formulas are all fully accessible without any restrictions on Notion's free personal plan.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomy of the Prompt (Why it works)
 
-### ❌ Before (사후 통보식 자동 가계부)
+1. **Demanding Structure via Relation & Rollup:** We instructed the AI to design the foundational link between databases first, which is the core of Notion. Formulas only work properly when the underlying architecture is solid.
+2. **Forcing Visualization:** Instead of just calculating numbers, the prompt specifically mentions the `slice` and `repeat` functions to demand visual feedback (Progress Bars, Emojis). This is the critical mechanism for achieving the ultimate goal of expense tracking: spending control.
+3. **Specifying the Latest Syntax (Formula 2.0):** Notion recently underwent a massive update to its formula syntax. Specifying the version clearly prevents the AI from generating outdated, incompatible, and overly complex legacy formulas.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Post-Mortem Automated Tracking)
 
 ```text
-(월말 카드 명세서 푸시 알림)
-"이번 달 카드 대금은 1,850,000원입니다."
-나: "아... 배달 음식을 너무 많이 먹었나? 미쳤다 진짜..." (이미 통장은 비워짐 💸)
+(End-of-month credit card push notification)
+"Your credit card bill for this month is $1,850."
+Me: "Ah... Did I order too much takeout? This is insane..." (The bank account is already drained 💸)
 ```
 
-### ✅ After (사전 통제식 노션 대시보드)
+### ✅ After (Proactive Notion Dashboard Control)
 
 ```text
-[이번 주 식비 예산 현황: ▓▓▓▓▓▓▓▓░░ 80% 소진 / 🚨 경고: 2만 원 남음]
-나: "어? 목요일인데 식비 예산이 벌써 간당간당하네. 오늘 저녁과 내일은 무조건 냉장고 파먹기(집밥) 간다."
-(결과: 예산 초과 방어 및 무지출 달성률 증가 💰)
+[This Week's Food Budget: ▓▓▓▓▓▓▓▓░░ 80% Exhausted / 🚨 Warning: $20 Remaining]
+Me: "Wait, it's only Thursday and my food budget is almost gone. I absolutely must cook at home tonight and tomorrow."
+(Result: Successfully defended the budget limit and increased the no-spend success rate 💰)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-돈을 모으는 것은 뛰어난 투자 스킬 이전에, 새는 돈을 막는 **견고한 시스템**을 구축하는 것에서 시작됩니다.
+Building wealth starts not with brilliant investment skills, but with establishing a **bulletproof system** that plugs financial leaks.
 
-단 10분, AI와 노션을 활용해 나만의 재무 컨트롤 타워를 세우세요.
-매일 기록하고 눈으로 확인하는 습관이 여러분의 통장 잔고를 바꿔놓을 것입니다.
+Take just 10 minutes to set up your personal financial control tower using AI and Notion.
+The habit of manually logging and visually checking your spending every day will transform your bank balance.
 
-이제, 당신의 자산을 직접 통제하세요! 🍷
+Now, take control of your assets! 🍷

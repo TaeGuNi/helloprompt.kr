@@ -5,128 +5,128 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 생산성"
-description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트."
+description: "Un prompt mágico que transforma transcripciones de reuniones desorganizadas en Action Items claros y decisiones clave."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 
-# 📝 회의록 지옥 탈출: 1시간 회의를 10초 만에 정리하는 프롬프트
+# 📝 Escapar del Infierno de las Actas: Un Prompt para Resumir una Reunión de 1 Hora en 10 Segundos
 
-- **🎯 추천 대상:** 막내 PM, 회의록 전담 신입사원, 수많은 미팅에 치이는 리더
-- **⏱️ 소요 시간:** 30분 → 10초
-- **🤖 추천 모델:** Claude 3.5 Sonnet (긴 문맥 처리에 압도적), GPT-4o
+- **🎯 Público Objetivo:** Junior PMs, encargados de redactar actas, líderes abrumados por el exceso de reuniones.
+- **⏱️ Tiempo Requerido:** 30 minutos → 10 segundos
+- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet (Excelente para contextos largos), GPT-4o
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"회의는 끝났는데, 회의록을 쓰느라 또 30분 야근하시나요? 이제 '복사+붙여넣기' 한 번으로 회의록 작성에서 완전히 해방되세요."_
+> _"¿Terminó la reunión pero te quedas otra media hora haciendo el acta? Libérate para siempre de redactar minutas con un simple 'Copiar y Pegar'."_
 
-클로바노트나 Zoom 자막으로 스크립트는 확보했지만, 막상 열어보면 "아, 그니까, 저기..." 같은 군더더기와 정적만이 가득합니다. 이 날것의 텍스트를 상사나 팀원들에게 그대로 공유할 수는 없죠. 실무에서 진짜 필요한 것은 **'누가(Who), 언제까지(When), 무엇을 할 것인가(What)'**가 명확히 정리된 액션 아이템입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **날것의 스크립트는 죄악이다:** 잡담과 불필요한 추임새를 완벽하게 걷어내는 전처리 과정이 필수입니다.
-2. **구조화가 생명이다:** 회의의 '결정 사항(Decision)'과 '할 일(Action Item)'을 명확하게 분리하여 가독성을 극대화하세요.
-3. **책임 소재의 명확화:** 모든 Action Item에는 반드시 담당자와 마감 기한(R&R)이 꼬리표처럼 붙어야 실행력이 생깁니다.
+Lograste obtener la transcripción usando herramientas de voz a texto como Zoom, Teams o ClovaNote, pero al revisarla, solo encuentras pausas, titubeos ("Ah, este...", "Bueno...") y silencios incómodos. No puedes compartir este texto crudo directamente con tu jefe o tu equipo. Lo que realmente se necesita en el entorno laboral es un conjunto de **Action Items** claros que definan: **Quién (Who), para Cuándo (When) y Qué debe hacer (What)**.
 
 ---
 
-## 🚀 해결책: "회의록 마스터(Meeting Minutes Master)"
+## ⚡️ Resumen de 3 Puntos (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Las transcripciones crudas son un pecado:** Es imprescindible aplicar un proceso previo para eliminar el ruido, las charlas triviales y las muletillas.
+2. **La estructura lo es todo:** Separa claramente las 'Decisiones' (Decisions) de las 'Tareas' (Action Items) para maximizar la legibilidad del documento.
+3. **Claridad en las responsabilidades:** Todo Action Item debe llevar, sin excepción, el nombre del responsable y una fecha límite (R&R) para garantizar su ejecución real.
 
-복잡한 양식 없이, 빠르게 핵심 내용만 파악해야 할 때 유용합니다.
+---
 
-> **역할:** 너는 `[전문 비서]`야.
-> **요청:** 아래 회의 스크립트를 분석해서 1) 주요 논의 안건, 2) 최종 결정 사항, 3) 향후 계획으로 깔끔하게 요약해 줘.
->
-> `[여기에 회의 스크립트 붙여넣기]`
+## 🚀 Solución: "El Maestro de las Actas (Meeting Minutes Master)"
+
+### 🥉 Versión Básica (Basic Version)
+
+Útil cuando necesitas identificar rápidamente los puntos clave sin aplicar un formato complejo.
+
+> **Rol:** Eres un `[Asistente Ejecutivo Profesional]`.
+> **Tarea:** Analiza la siguiente transcripción de la reunión y resúmela claramente en: 1) Temas principales discutidos, 2) Decisiones finales y 3) Próximos pasos.
+> 
+> `[Pega aquí la transcripción de la reunión]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Profesional (Pro Version)
 
-임원 보고서나 팀 슬랙(Slack)에 그대로 복사해서 붙여넣을 수 있는 완벽한 포맷으로 변환합니다.
+Transforma el texto en un formato perfecto, listo para ser copiado y pegado directamente en un informe ejecutivo o en el canal de Slack del equipo.
 
-> **역할 (Role):** 너는 10년 차 수석 PM이자 핵심을 짚어내는 완벽한 서기(Scribe)야.
+> **Rol (Role):** Eres un Senior PM con 10 años de experiencia y un escriba impecable capaz de captar la esencia absoluta de cualquier tema.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 방금 종료된 `[회의 주제]` 관련 회의의 음성 인식 텍스트(녹취록)야. 내용은 두서가 없고 참석자들의 잡담이 섞여 있어.
-> - 목표: 팀원들이 회의 결과를 즉각적으로 파악하고, 각자의 업무(Action)를 바로 실행에 옮길 수 있는 명확한 '회의 결과 보고서' 작성.
+> - Fondo: Esta es la transcripción (texto dictado) de una reunión que acaba de concluir sobre `[Tema de la reunión]`. El contenido está desorganizado e incluye charlas irrelevantes entre los participantes.
+> - Objetivo: Crear un 'Informe de Resultados de la Reunión' claro y estructurado, para que el equipo pueda comprender de inmediato lo acordado y ejecutar sus respectivas tareas (Action Items).
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 제공된 스크립트를 꼼꼼히 분석하여, 반드시 아래의 마크다운 형식으로 구조화해서 정리해 줘.
+> Analiza cuidadosamente la transcripción proporcionada y estructúrala obligatoriamente utilizando el siguiente formato Markdown:
 >
-> 1.  **🔍 회의 개요**
->     - 일시 및 참석자 (추론 가능할 경우 기재)
->     - 회의 핵심 주제 (1줄 요약)
-> 2.  **✅ 주요 결정 사항 (Decisions)**
->     - 확정된 내용만 간결한 불릿 포인트(`-`)로 나열해.
-> 3.  **🏃‍♂️ 액션 아이템 (Action Items)**
->     - 모바일에서도 읽기 쉬운 체크리스트(`- [ ]`) 형태로 구조화해.
->     - 포맷: `- [ ] **[담당자]**: [구체적인 할 일] (기한: [마감일, 언급 없으면 'TBD'])`
-> 4.  **💬 주요 논의 사항 (Discussion)**
->     - 치열한 쟁점이 되었거나 새롭게 도출된 아이디어를 2~3줄로 요약해.
+> 1.  **🔍 Resumen de la Reunión**
+>     - Fecha/Hora y Asistentes (indícalo si se puede deducir del texto).
+>     - Tema central de la reunión (Resumen de 1 línea).
+> 2.  **✅ Decisiones Clave (Decisions)**
+>     - Enumera solo los acuerdos finales usando viñetas concisas (`-`).
+> 3.  **🏃‍♂️ Tareas Asignadas (Action Items)**
+>     - Estructúralo como una lista de verificación (`- [ ]`) fácil de leer en dispositivos móviles.
+>     - Formato: `- [ ] **[Responsable]**: [Tarea específica a realizar] (Fecha límite: [Fecha, si no se menciona pon 'TBD'])`
+> 4.  **💬 Puntos de Discusión (Discussion)**
+>     - Resume en 2 o 3 líneas los debates más intensos o las nuevas ideas generadas.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - "음...", "저기..." 같은 추임새나 업무와 무관한 사담은 100% 필터링해.
-> - 모호한 표현(예: "잘 해보자", "나중에 보자")은 철저히 배제하고, 구체적인 팩트와 행동 지침만 기록해.
-> - 특정 작업의 담당자가 스크립트상 명확하지 않다면 담당자 란에 'TBD(미정)'라고 정확히 명시해.
-> - 사실이 아닌 내용을 지어내지 마. (환각 방지)
+> - Filtra al 100% las muletillas como "Ehh...", "Mmm..." y cualquier conversación personal no relacionada estrictamente con el trabajo.
+> - Omite expresiones ambiguas (ej. "Vamos a ver", "Hagámoslo bien") y registra únicamente hechos concretos y directrices de acción.
+> - Si el responsable de una tarea no está claro en la transcripción, escribe 'TBD (Por definir)' explícitamente en el campo del responsable.
+> - No inventes información que no sea cierta. (Evita alucinaciones).
 >
-> **스크립트 데이터:**
-> `[여기에 클로바노트/녹취록 텍스트 전체 붙여넣기]`
+> **Datos de la Transcripción:**
+> `[Pega aquí todo el texto de la transcripción]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-이 프롬프트는 제가 실제로 사내 Notion 회의록 템플릿에 연동해 두고 매일같이 사용하는 '비밀 무기'입니다. 특히 **Claude 3.5 Sonnet** 모델은 방대한 양의 텍스트(Long Context)를 처리하는 능력이 현존 최고 수준이라, 1~2시간짜리 긴 회의 녹취록을 통째로 밀어 넣어도 맥락을 놓치지 않고 기가 막히게 핵심을 뽑아냅니다.
+Este prompt es mi 'arma secreta' que utilizo a diario, integrada directamente en mi plantilla de actas de Notion corporativa. El modelo **Claude 3.5 Sonnet**, en particular, tiene una capacidad inigualable para procesar grandes volúmenes de texto (Long Context). Puedes introducir transcripciones enteras de reuniones de 1 a 2 horas de duración, y extraerá los puntos clave sin perder en absoluto el contexto inicial.
 
-**💡 실전 팁:** 스크립트를 AI에게 전달하기 전, 맨 윗줄에 `참석자: 김철수(마케팅), 이영희(개발)`라고 직군이나 이름을 명시해 주면 AI가 발화자의 역할을 인지하여 화자 분리 및 담당자(R&R) 매칭의 정확도가 비약적으로 상승합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 텍스트가 너무 길어서 AI가 입력을 거부하거나 중간에 잘립니다.**
-  - A: 클로바노트 등에서 텍스트를 내보낼 때 '시간 기록 포함' 옵션을 끄고 순수 텍스트만 추출하세요. 그래도 용량 제한에 걸린다면, 스크립트를 절반으로 나누어 "이 내용에 이어서 요약해 줘"라고 순차적으로 프롬프트를 입력하면 완벽하게 해결됩니다.
-
-- **Q: 사내 대외비 회의 내용을 AI에 올려도 안전한가요?**
-  - A: 민감한 정보가 포함된 회의라면 기업용(Enterprise) AI 도입을 강력히 권장합니다. 부득이하게 일반 AI를 사용해야 한다면, 고유명사(특정 기업명, 핵심 프로젝트명, 구체적인 재무 수치 등)를 반드시 'A사', 'B프로젝트', 'X원' 등으로 **비식별화(마스킹)** 처리한 후 입력하셔야 합니다.
+**💡 Consejo Práctico:** Antes de enviar la transcripción a la IA, añade en la primera línea algo como `Asistentes: Juan (Marketing), María (Desarrollo)`. Al especificar los roles o nombres por adelantado, la IA reconocerá quién está hablando, mejorando drásticamente la precisión al separar los diálogos y asignar correctamente a los responsables (R&R).
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **Format Enforcing (강제된 출력 형식):** 액션 아이템을 단순 줄글이나 가로 스크롤이 생기는 표(Table) 대신 '체크리스트(`- [ ]`)와 담당자/기한' 구조로 강제하여, 모바일 환경에서의 가독성을 높이고 업무 누락을 원천 차단했습니다.
-2.  **Noise Filtering (노이즈 제거):** 제약사항에 추임새 및 사담 제거를 명확히 지시하여, 정보의 밀도(Signal-to-Noise Ratio)를 극대화했습니다.
-3.  **TBD Handling (불확실성 통제):** 담당자가 배정되지 않은 업무를 AI가 임의로 배정하지 않고 '미정(TBD)'으로 분류하게 만들어, 실무에서 흔히 발생하는 '책임 공백(Hole)'을 시각적으로 뚜렷하게 드러내 줍니다.
+- **P: El texto es tan largo que la IA rechaza la entrada o la respuesta se corta a la mitad.**
+  - A: Al exportar el texto (por ejemplo, desde Zoom o Teams), desactiva la opción 'Incluir marcas de tiempo' y extrae solo el texto puro. Si aún superas el límite de tokens, divide la transcripción en dos partes y usa un prompt secuencial: "Continuando con la información anterior, resume esta segunda parte". Esto solucionará el problema sin perder el hilo.
+
+- **P: ¿Es seguro subir información confidencial de las reuniones de mi empresa a una IA pública?**
+  - A: Si la reunión incluye datos sensibles, se recomienda encarecidamente utilizar versiones corporativas (Enterprise) de IA. Si por fuerza mayor debes usar una IA pública, es obligatorio **anonimizar (enmascarar)** los nombres propios (empresas específicas, nombres de proyectos clave, cifras financieras, etc.), cambiándolos por 'Empresa A', 'Proyecto B' o 'X dólares' antes de introducirlos.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (입력: 가공되지 않은 녹취록)
+1.  **Format Enforcing (Forzar el Formato de Salida):** Al exigir que los Action Items se presenten como una 'lista de verificación (`- [ ]`) con responsable/fecha' en lugar de texto plano o tablas (que requieren desplazamiento horizontal), mejoramos la legibilidad en móviles y evitamos radicalmente que las tareas se pasen por alto.
+2.  **Noise Filtering (Eliminación de Ruido):** Al indicar explícitamente en las restricciones que se eliminen las muletillas y charlas privadas, maximizamos la densidad de la información útil (Signal-to-Noise Ratio).
+3.  **TBD Handling (Control de Incertidumbre):** Evitamos que la IA asigne tareas arbitrariamente cuando no hay un responsable claro en el audio. Forzar la etiqueta 'Por definir (TBD)' resalta visualmente los vacíos de responsabilidad (Holes) que suelen ocurrir con mucha frecuencia en la práctica.
 
-> "아, 그 김 대리님, 이번 주까지 그... 메인 배너 시안 있잖아요? 그거 좀 부탁드려요. 아 맞다, 오늘 점심 뭐 먹지? (웃음) 아무튼 그거 중요하니까 꼭 좀 일정 맞춰서..."
+---
 
-### ✅ After (결과: AI 요약 보고서)
+## 📊 Demostración: Antes y Después
 
-> **🏃‍♂️ 액션 아이템 (Action Items)**
+### ❌ Antes (Entrada: Transcripción cruda)
+
+> "Ah, oye Carlos, sobre eso... los diseños del banner principal, ¿los tienes para esta semana? Ah, por cierto, ¿qué vamos a comer hoy? (risas) En fin, eso es importante, así que por favor trata de cumplir con la fecha..."
+
+### ✅ Después (Resultado: Informe resumido por la IA)
+
+> **🏃‍♂️ Tareas Asignadas (Action Items)**
 >
-> - [ ] **김 대리**: 메인 배너 시안 제작 및 디자인 공유 (기한: 이번 주 금요일 예상) _※ 중요도 높음_
+> - [ ] **Carlos**: Creación y diseño del banner principal (Fecha límite: Se espera para este viernes) _※ Alta importancia_
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-회의록은 단순히 어제의 대화를 '기록'하는 문서가 아니라, 내일의 '행동'을 이끌어내기 위한 전략 문서입니다.
-이제 10초 만에 완벽한 회의록을 생성하고, 남은 귀중한 시간은 진짜 핵심 업무에 (혹은 달콤한 휴식에) 투자하세요.
+Un acta de reunión no es simplemente un documento para 'registrar' las conversaciones pasadas; es un documento estratégico diseñado estrictamente para impulsar las 'acciones' del mañana.
+Genera un acta perfecta en solo 10 segundos y dedica el resto de tu valioso tiempo al trabajo que realmente importa (o a un merecido descanso).
 
-이제 칼퇴하세요! 🍷
+¡Termina tu jornada a tiempo! 🍷

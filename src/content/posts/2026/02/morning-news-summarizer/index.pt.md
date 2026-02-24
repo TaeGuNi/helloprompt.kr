@@ -5,137 +5,137 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "출근길 1분 투자로 세상의 흐름을 읽는 나만의 맞춤형 AI 뉴스 캐스터 프롬프트입니다."
+description: "Um prompt de IA personalizado para atuar como seu âncora de notícias, ajudando você a se atualizar sobre as tendências do mercado em apenas 1 minuto a caminho do trabalho."
 tags: ["뉴스", "요약", "ChatGPT", "시간절약"]
 ---
 
-# 📝 AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기
+# 📝 Receba o Resumo das Notícias da Madrugada em 1 Minuto com IA
 
-- **🎯 추천 대상:** 출근길 1분이 아쉬운 직장인, 시장의 흐름을 놓치기 싫은 주식 투자자 및 기획자
-- **⏱️ 소요 시간:** 20분 → 1분 단축
-- **🤖 추천 모델:** Perplexity, Bing Chat(Copilot), Gemini (실시간 검색 기능 필수)
+- **🎯 Recomendado para:** Profissionais com o tempo corrido de manhã, investidores e estrategistas que não querem perder as tendências do mercado.
+- **⏱️ Tempo necessário:** De 20 minutos → Reduzido para 1 minuto
+- **🤖 Modelos recomendados:** Perplexity, Bing Chat (Copilot), Gemini (É essencial ter recurso de busca na web em tempo real)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"아침에 눈을 떠 포털 사이트 메인만 대충 훑어보고 계신가요? 수많은 가십성 기사들 사이에서 정작 내 지갑과 커리어에 직결되는 '진짜 정보'는 놓치고 있을지도 모릅니다."_
+> _"Você acorda e apenas passa os olhos pela página inicial dos portais de notícias? No meio de tantas fofocas e artigos genéricos, você pode estar perdendo as 'verdadeiras informações' que impactam diretamente o seu bolso e a sua carreira."_
 
-밤사이 요동친 미국 증시, 오늘 당장 내 업무에 영향을 미칠 IT 업계의 최신 동향, 그리고 챙겨봐야 할 국내 경제 지표까지. 이 모든 것을 일일이 검색하며 낭비할 시간은 우리에게 없습니다. 실시간 검색 기능이 탑재된 AI에게 단 하나의 '정교한 프롬프트'만 입력해 보세요. 나만을 위한 20년 차 베테랑 전담 뉴스 앵커가 1분 만에 핵심만 브리핑해 줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 최신 정보 습득을 위해 반드시 **실시간 웹 검색이 가능한 AI**(Perplexity, Copilot, Gemini 등)를 활용하세요.
-2. 단순히 "뉴스 알려줘"가 아닌, 내 직무와 관심사(예: 미국 증시, IT 트렌드)를 **구체적으로 한정**하여 질문하세요.
-3. 정보의 신뢰성 검증을 위해 반드시 **기사 원문 출처(Source 링크)**를 함께 요구하세요.
+A volatilidade do mercado de ações americano durante a madrugada, as últimas tendências do setor de TI que afetarão o seu trabalho hoje e os indicadores econômicos cruciais que você precisa acompanhar. Não temos tempo a perder pesquisando tudo isso manualmente. Insira apenas um 'prompt refinado' na sua IA equipada com busca em tempo real. Um âncora de notícias veterano com 20 anos de experiência, dedicado exclusivamente a você, resumirá os pontos mais importantes em apenas 1 minuto.
 
 ---
 
-## 🚀 해결책: "나만의 모닝 뉴스 브리핑 프롬프트"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Para obter as informações mais recentes, é obrigatório usar uma IA com **busca na web em tempo real** (como Perplexity, Copilot, Gemini).
+2. Em vez de simplesmente pedir "me dê as notícias", **limite especificamente** a sua área de atuação e interesses (ex: mercado de ações dos EUA, tendências de TI).
+3. Para garantir a confiabilidade das informações, exija sempre os **links das fontes originais (Source)** dos artigos na resposta.
 
-가볍게 간밤의 핵심 이슈만 빠르게 훑어보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 빠르고 정확한 아침 뉴스 브리핑을 담당하는 뉴스 앵커야.
-> **요청:** 어제 저녁부터 오늘 아침까지 발생한 가장 중요한 핵심 뉴스 5가지만 요약해 줘.
+## 🚀 A Solução: "Meu Prompt de Resumo de Notícias Matinais"
+
+### 🥉 Versão Básica (Basic Version)
+
+Use quando precisar apenas dos resultados essenciais rapidamente.
+
+> **Função:** Você é um âncora de notícias responsável por fornecer um resumo matinal rápido e preciso.
+> **Tarefa:** Resuma as 5 notícias mais importantes e críticas que ocorreram entre a noite de ontem e a manhã de hoje.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Profissional (Pro Version)
 
-시장 트렌드 파악이 생존과 직결되는 투자자, 마케터, 기획자에게 강력히 추천합니다. 내 상황에 맞게 `[ ]` 안의 내용을 수정하여 사용하세요.
+Altamente recomendado para investidores, profissionais de marketing e estrategistas, cujas carreiras dependem do entendimento ágil das tendências do mercado. Modifique o conteúdo entre `[ ]` de acordo com a sua realidade.
 
-> **역할 (Role):** 너는 20년 차 베테랑 경제/IT 전문 기자이자 나의 개인 뉴스 큐레이터야.
+> **Função (Role):** Você é um jornalista veterano com 20 anos de experiência especializado em Economia e TI, atuando como meu curador pessoal de notícias.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 나는 출근 중인 30대 `[직장인/투자자]`야.
-> - 특히 `[미국 증시 마감 시황]`과 `[국내 IT 업계 주요 동향]`이 가장 궁금해.
-> - 내 업무와 투자에 직접적인 영향을 줄 수 있는 실용적인 정보가 필요해.
+> - Sou um `[profissional/investidor]` de 30 anos no meu trajeto matinal para o trabalho.
+> - Tenho um interesse especial no `[fechamento do mercado de ações dos EUA]` e nas `[principais tendências do setor de TI]`.
+> - Preciso de informações práticas que impactem diretamente o meu trabalho e os meus investimentos.
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. 밤사이 `[미국 증시(S&P500, 나스닥) 마감 상황]`을 주요 수치, 상승/하락 원인과 함께 요약해 줘.
-> 2. 오늘 `[한국 주식 시장 또는 내 업무]`에 영향을 줄 만한 핵심 경제/비즈니스 이슈 3가지를 선정해 줘.
-> 3. `[IT/테크 분야]`에서 새롭게 화제가 된 트렌드나 신제품 소식이 있다면 1가지만 깊이 있게 다뤄 줘.
+> 1. Resuma o `[fechamento do mercado de ações dos EUA (S&P 500, Nasdaq)]` da noite passada, incluindo os números-chave e os reais motivos das altas ou baixas.
+> 2. Selecione 3 questões econômicas ou de negócios essenciais que possam impactar o `[mercado de ações local ou a minha área de atuação]` no dia de hoje.
+> 3. Aborde com profundidade 1 nova tendência ou lançamento de produto que esteja em grande destaque no `[setor de TI/Tecnologia]`.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 각 뉴스 항목마다 이로 인해 영향을 받을 **[관련 기업/종목/산업군]**을 명시적으로 언급해 줘.
-> - 정보의 신뢰성을 위해 각 뉴스의 끝에 반드시 **출처(기사 링크)**를 달아 줘.
-> - 스마트폰으로 이동 중에 읽기 편하도록 간결한 불릿 포인트(Bullet point) 형식으로 정리해 줘.
+> - Para cada notícia, mencione explicitamente as **[empresas/ações/setores relacionados]** que serão afetados.
+> - Para garantir a confiabilidade da informação, inclua obrigatoriamente a **fonte (link do artigo)** no final de cada notícia.
+> - Formate a resposta em marcadores (bullet points) curtos e concisos para facilitar a leitura na tela do smartphone durante o meu deslocamento.
 >
-> **주의사항 (Warning):**
+> **Avisos (Warning):**
 >
-> - 찌라시, 커뮤니티 루머, 공식적으로 확인되지 않은 낭설은 철저히 배제해. 사실(Fact) 기반의 뉴스만 다뤄.
+> - Exclua rigorosamente fofocas, rumores de fóruns da internet e boatos não confirmados. Cubra apenas notícias baseadas em fatos (Fact-based).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 A Visão do Autor (Insight)
 
-이 프롬프트의 진정한 가치는 단순한 '정보의 나열'을 넘어 '나에게 미칠 영향(Actionable Insight)'을 강제로 도출해 낸다는 점에 있습니다. "그래서 그 뉴스가 내 주식 계좌와 내 회사에 무슨 의미인데?"라는 질문에 AI가 스스로 답하게 만드세요. `[관련 기업/종목/산업군]`을 명시하라는 단 한 줄의 제약사항이, 평범한 뉴스 요약을 강력한 투자 및 기획 인사이트 보고서로 탈바꿈시킵니다. 저는 매일 아침 출근길 지하철에서 Perplexity 앱을 켜고 이 프롬프트를 실행하는 것으로 빈틈없이 하루를 시작하고 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: ChatGPT 무료 버전(GPT-3.5 또는 기본 GPT-4o mini)에서도 작동하나요?**
-  - A: 단순 요약은 가능하지만, '어제 밤부터 오늘 아침까지'의 최신 뉴스를 정확히 가져오려면 실시간 웹 검색 기능이 필수적입니다. 따라서 무료이면서도 검색 기능이 강력한 **Perplexity**, **Microsoft Copilot(Bing Chat)** 사용을 권장합니다.
-- **Q: 특정 언론사나 전문지의 기사만 편식해서 보고 싶다면 어떻게 하나요?**
-  - A: 제약사항(Constraints)에 "반드시 `[매일경제, 한국경제, 블룸버그]`의 기사만을 기반으로 요약해 줘"라고 출처를 제한하는 문장을 추가하시면 됩니다.
-- **Q: 영어 뉴스도 한국어로 번역해서 브리핑해 주나요?**
-  - A: 네, 웹 검색 기능이 있는 AI는 해외 외신(예: 로이터, WSJ)을 실시간으로 검색한 뒤 자연스러운 한국어로 번역하여 브리핑해 줍니다. 글로벌 트렌드를 언어 장벽 없이 가장 먼저 파악하는 데 매우 유용합니다.
+O verdadeiro valor deste prompt vai muito além de uma simples 'lista de notícias' – ele força a IA a extrair os 'Impactos Acionáveis' (Actionable Insights) diretamente para o seu dia a dia. Faça a IA responder à pergunta: "E o que essa notícia significa para a minha carteira de investimentos e para a minha empresa?". A simples restrição de exigir a menção das `[empresas/ações/setores relacionados]` transforma um resumo de notícias comum em um poderoso relatório executivo de investimentos e planejamento estratégico. Todas as manhãs, no transporte a caminho do trabalho, abro o aplicativo do Perplexity e executo este prompt para começar o meu dia um passo à frente da concorrência.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **페르소나 최적화 (Role):** AI에게 '20년 차 베테랑 전문 기자'라는 역할을 부여하여, 피상적인 사실 전달을 넘어 맥락과 통찰이 담긴 분석적 요약을 유도합니다.
-2. **선택과 집중 (Context & Task):** 광범위한 뉴스가 아닌 '미국 증시', '국내 IT 동향' 등으로 관심사를 좁혀 정보의 밀도와 타격감을 극대화했습니다.
-3. **실행 가능성 확보 (Constraints):** 뉴스와 '관련 기업'을 강제로 매칭시켜, 단순히 읽고 끝나는 기사가 아닌 내 투자와 업무 기획의 즉각적인 소스로 활용할 수 있게 설계했습니다.
+- **P: Funciona na versão gratuita do ChatGPT (GPT-3.5 ou GPT-4o mini)?**
+  - R: É possível obter resumos genéricos, mas para capturar com precisão as notícias mais recentes de "ontem à noite até hoje de manhã", a função de busca na web em tempo real é absolutamente essencial. Por isso, recomendo fortemente o uso do **Perplexity** ou do **Microsoft Copilot (Bing Chat)**, que oferecem motores de busca poderosos e gratuitos.
+- **P: E se eu quiser ler apenas artigos de veículos de mídia ou jornais específicos?**
+  - R: Basta adicionar uma frase nas Restrições (Constraints) limitando a fonte: "Baseie o resumo exclusivamente em artigos da `[Bloomberg, Reuters, Valor Econômico]`".
+- **P: A IA também traduz e resume notícias internacionais para o português?**
+  - R: Sim! As IAs com função de busca na web pesquisam a imprensa internacional (ex: Reuters, WSJ) em tempo real e entregam o resumo em um português fluente e natural. É uma ferramenta incrível para captar as tendências globais em primeira mão, derrubando completamente a barreira do idioma.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Dissecando o Prompt (Why it works?)
 
-### ❌ Before (입력)
+1. **Otimização da Persona (Role):** Ao atribuir o papel de 'jornalista veterano com 20 anos de experiência', forçamos a IA a ir além da comunicação superficial de fatos, gerando um resumo analítico rico em contexto e sabedoria de mercado.
+2. **Seleção e Foco (Context & Task):** Em vez de notícias gerais, restringimos o radar para nichos como 'mercado de ações dos EUA' e 'tendências de TI', maximizando a densidade e a relevância da informação entregue.
+3. **Garantia de Aplicabilidade (Constraints):** Ao forçar a conexão direta entre as notícias e as 'empresas e setores relacionados', o resultado deixa de ser uma leitura passiva e se torna uma fonte de dados imediata para decisões de investimentos e planejamento de negócios.
+
+---
+
+## 📊 Comprovação: Antes e Depois
+
+### ❌ Antes (Entrada Simples)
 
 ```text
-오늘 아침 주요 뉴스 좀 요약해 줘.
+Resuma as principais notícias desta manhã.
 ```
 
-### ✅ After (결과)
+### ✅ Depois (Resultado com o Prompt)
 
 ```text
-📊 [베테랑 기자의 모닝 경제/IT 브리핑]
+📊 [Resumo Matinal de Economia/TI do Jornalista Veterano]
 
-1. 🇺🇸 미국 증시 마감 시황
-   - 나스닥 1.5% 상승 마감, S&P 500 최고치 경신
-   - 상승 원인: 주요 빅테크 기업의 깜짝 실적 발표 및 금리 인하 기대감 반영
-   - [관련 기업] 엔비디아(NVDA), 마이크로소프트(MSFT)
-   - 🔗 출처: [블룸버그 통신 (링크)]
+1. 🇺🇸 Fechamento do Mercado de Ações dos EUA
+   - Nasdaq fecha com alta de 1.5%, S&P 500 bate novo recorde histórico.
+   - Motivo da alta: Divulgação de balanços positivos das principais Big Techs e forte expectativa de corte nas taxas de juros.
+   - [Empresas Relacionadas] Nvidia (NVDA), Microsoft (MSFT)
+   - 🔗 Fonte: [Bloomberg (Link)]
 
-2. 🇰🇷 국내 비즈니스 핵심 이슈
-   - 반도체 수출 5개월 연속 두 자릿수 증가세: AI 메모리 수요 폭발적 증가
-   - [관련 기업/산업군] SK하이닉스, 한미반도체 / 반도체 소부장 섹터
-   - 🔗 출처: [한국경제 (링크)]
-   - K-뷰티 수출액 역대 최대치 경신: 북미 시장 점유율 확대
-   - [관련 기업/산업군] 아모레퍼시픽, 코스맥스 / 화장품 제조업
-   - 🔗 출처: [매일경제 (링크)]
+2. 🇧🇷 Principais Questões de Negócios e Economia Local
+   - Exportações de semicondutores crescem a dois dígitos pelo 5º mês consecutivo devido à demanda explosiva por memória para IA.
+   - [Setores/Empresas Relacionadas] Setor de Semicondutores / Empresas locais de tecnologia de ponta.
+   - 🔗 Fonte: [Valor Econômico (Link)]
+   - Exportações do setor de beleza quebram recorde histórico com a expansão do market share na América do Norte.
+   - [Setores/Empresas Relacionadas] Indústria de Cosméticos / Natura &Co, Grupo Boticário.
+   - 🔗 Fonte: [Exame (Link)]
 
-3. 📱 IT/테크 심층 트렌드
-   - 애플, 온디바이스 AI 기능이 대거 탑재된 새로운 OS 공개 임박 루머 확산
-   - [관련 기업/산업군] 애플(AAPL), LG이노텍 / 온디바이스 AI 관련주
-   - 🔗 출처: [테크크런치 (링크)]
+3. 📱 Tendências Profundas em TI/Tecnologia
+   - Fortes rumores sobre o anúncio iminente da Apple de um novo sistema operacional (iOS) com integração massiva de recursos de IA On-Device.
+   - [Setores/Empresas Relacionadas] Apple (AAPL) / Cadeia de suprimentos e ações relacionadas a IA On-Device.
+   - 🔗 Fonte: [TechCrunch (Link)]
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-정보가 넘쳐나는 시대, 진짜 경쟁력은 '정보의 양'이 아니라 '정보의 선별 능력'과 '해석의 깊이'에서 나옵니다. 나만의 전담 AI 뉴스 캐스터와 함께 매일 아침 단 1분을 투자하여 세상의 흐름을 지배하세요.
+Em uma era de sobrecarga de informações, a verdadeira vantagem competitiva não está na "quantidade de informação", mas na sua "capacidade de filtragem" e "profundidade de interpretação". Domine o fluxo do mercado investindo apenas 1 minuto todas as manhãs com o seu próprio âncora de notícias de IA.
 
-이제 완벽하게 파악된 트렌드를 무기 삼아, 당당하게 출근하세요! 🍷
+Agora, armado com as tendências perfeitamente mapeadas, vá para o trabalho com total confiança! 🍷

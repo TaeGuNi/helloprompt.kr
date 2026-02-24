@@ -1,6 +1,6 @@
 ---
 title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
-description: "LLM을 위한 USB 표준, MCP(Model Context Protocol). 매번 JSON 스키마를 복붙하는 대신, 로컬 데이터를 Claude나 Ollama에 직접 연결하는 맞춤형 서버를 구축하는 프롬프트를 확인해 보세요."
+description: "O padrão USB para LLMs, o MCP (Model Context Protocol). Em vez de copiar e colar schemas JSON repetidamente, descubra o prompt para construir um servidor personalizado que conecta seus dados locais diretamente ao Claude ou Ollama."
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags:
@@ -15,133 +15,134 @@ tags:
 image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 ---
 
-# 📝 컨텍스트 복붙은 그만: 5분 만에 첫 MCP 서버 만들기
+# 📝 Chega de Copiar e Colar Contexto: Crie Seu Primeiro Servidor MCP em 5 Minutos
 
-- **🎯 추천 대상:** 프롬프트에 매번 DB 스키마나 API 문서를 복붙하다 지친 개발자, 로컬 데이터 활용자
-- **⏱️ 소요 시간:** 5분 → 영구적인 시간 단축
-- **🤖 추천 모델:** Claude Desktop, Ollama 등 MCP 지원 모델
+- **🎯 Recomendado para:** Desenvolvedores cansados de copiar e colar schemas de banco de dados ou documentações de API nos prompts, e usuários que lidam com dados locais
+- **⏱️ Tempo Necessário:** 5 minutos → Economia de tempo permanente
+- **🤖 Modelos Recomendados:** Modelos com suporte a MCP, como Claude Desktop e Ollama
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"Claude 창을 열고 DB 스키마를 복붙합니다. 10분 뒤 새 창을 열고 또 복붙합니다. 이 지긋지긋한 반복, 이제 끝낼 때가 되었습니다."_
+> _"Você abre a janela do Claude e cola o schema do banco de dados. Dez minutos depois, abre uma nova janela e cola tudo de novo. Já passou da hora de acabar com essa repetição exaustiva."_
 
-2026년 현재, **MCP(Model Context Protocol)**는 LLM과 데이터를 연결하는 사실상의 표준(De-facto standard)으로 자리 잡았습니다. AI 모델을 위한 'USB 포트'라고 생각하시면 됩니다. 매번 수동으로 컨텍스트를 떠먹여 주는 대신, 서버를 한 번만 연결해 두면 모델이 알아서 여러분의 파일, 데이터베이스, 내부 API를 실시간으로 "읽어"옵니다.
+Hoje, em 2026, o **MCP (Model Context Protocol)** consolidou-se como o padrão absoluto (De-facto standard) para conectar LLMs aos seus dados. Pense nele como uma "porta USB" para modelos de IA. Em vez de alimentar o modelo manualmente com contexto a cada nova interação, você conecta o servidor uma única vez, e o modelo passa a "ler" seus arquivos, bancos de dados e APIs internas de forma autônoma e em tempo real.
 
-이미 깃허브(GitHub)나 파일시스템(Filesystem)을 연동하는 훌륭한 범용 MCP 서버들이 존재합니다. 하지만 진짜 강력한 힘은 **'우리 회사만의 고유한 비즈니스 로직'**을 LLM에 연결할 때 발휘됩니다.
+Já existem excelentes servidores MCP de uso geral para integrar o GitHub ou o seu sistema de arquivos local. No entanto, o verdadeiro poder dessa tecnologia se revela quando você conecta a **"lógica de negócios exclusiva da sua empresa"** diretamente ao LLM.
 
-오늘은 지루한 보일러플레이트 코드를 직접 작성하는 대신, AI에게 지시하여 단 5분 만에 완벽한 TypeScript 기반의 맞춤형 MCP 서버를 스캐폴딩(Scaffolding)하는 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **단순한 복붙의 종말:** MCP를 통해 LLM이 내 로컬 데이터(DB, 로그, API)에 직접 접근하도록 만듭니다.
-2. **프롬프트로 서버 구축:** 복잡한 초기 설정 없이 프롬프트 하나로 완벽한 MCP 서버 코드를 자동 생성합니다.
-3. **압도적인 프라이버시 보호:** 데이터를 외부로 유출하지 않고 로컬 환경에서 모델의 컨텍스트 윈도우로 직접 스트리밍합니다.
+Neste post, em vez de fazer você escrever códigos boilerplate tediosos do zero, apresentaremos um prompt que instrui a IA a fazer o scaffolding (estruturação) de um servidor MCP personalizado, robusto e em TypeScript, em apenas 5 minutos.
 
 ---
 
-## 🚀 해결책: "MCP Server Scaffolder"
+## ⚡️ Resumo em 3 Tópicos (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **O Fim do Copia e Cola:** Use o MCP para permitir que o LLM acesse diretamente seus dados locais (Bancos de dados, logs, APIs) sob demanda.
+2. **Criação de Servidor via Prompt:** Gere o código de um servidor MCP completo automaticamente usando apenas um prompt, sem depender de configurações iniciais complexas.
+3. **Privacidade Absoluta:** Transmita dados diretamente para a janela de contexto do modelo a partir do seu ambiente local, sem que eles vazem para a internet.
 
-빠르게 기본적인 MCP 서버 골격만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 TypeScript 개발자야.
-> **요청:** `@modelcontextprotocol/sdk`를 사용하여 `[원하는 목적, 예: 특정 도시의 날씨를 알려주는]` 역할을 하는 간단한 MCP 서버 코드를 작성해 줘.
+## 🚀 A Solução: "MCP Server Scaffolder"
+
+### 🥉 Versão Basic (Básica)
+
+Use esta versão quando precisar apenas de um esqueleto rápido do servidor MCP.
+
+> **Role (Papel):** Você é um desenvolvedor TypeScript Sênior.
+> **Task (Tarefa):** Escreva o código para um servidor MCP simples usando o `@modelcontextprotocol/sdk` que tenha o objetivo de `[insira o objetivo desejado, ex: informar o clima de uma cidade específica]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Profissional)
 
-실무에 바로 투입할 수 있는 견고하고 확장 가능한 서버 코드가 필요할 때 사용하세요.
+Use esta versão quando precisar de um código de servidor robusto, escalável e pronto para uso imediato em um ambiente real.
 
-> **역할 (Role):** 너는 Model Context Protocol(MCP) 생태계에 정통한 시니어 TypeScript 엔지니어입니다.
+> **Role (Papel):** Você é um Engenheiro TypeScript Sênior, especialista no ecossistema do Model Context Protocol (MCP).
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 배경: 로컬 데이터나 내부 API를 LLM과 연동하기 위한 커스텀 MCP 서버가 필요합니다.
-> - 목표: 내 요구사항에 딱 맞는 단일 파일 형태(`index.ts`)의 완전하고 실행 가능한 MCP 서버 코드를 생성해야 합니다.
+> - Cenário: Preciso de um servidor MCP personalizado para integrar dados locais ou APIs internas diretamente a um LLM.
+> - Objetivo: Você deve gerar um código de servidor MCP completo, executável e contido em um único arquivo (`index.ts`), perfeitamente ajustado às minhas necessidades.
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. 다음 요구사항을 충족하는 MCP 서버 코드를 작성해 주세요.
->    - **목적:** `[여기에 원하는 서버의 목적을 구체적으로 적어주세요. 예: 특정 로그 파일의 마지막 50줄을 읽어오는 기능]`
-> 2. 작성된 코드는 사용자가 터미널에서 즉시 실행해 볼 수 있도록 주석과 함께 복사-붙여넣기 친화적으로 구성하세요.
+> 1. Escreva o código do servidor MCP atendendo ao seguinte requisito:
+>    - **Objetivo:** `[Descreva detalhadamente o objetivo do servidor aqui. Ex: Ler e retornar as últimas 50 linhas de um arquivo de log específico]`
+> 2. O código deve ser amigável para ser copiado e colado, incluindo comentários explicativos, para que o usuário possa executá-lo imediatamente no terminal.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 반드시 공식 `@modelcontextprotocol/sdk`를 사용해야 합니다.
-> - 도구의 입력 파라미터가 복잡할 경우, 스키마 검증을 위해 `zod` 패키지를 활용하세요 (권장).
-> - 서버 생성 시 `ListToolsRequestSchema` 및 `CallToolRequestSchema` 인터페이스를 완벽하게 구현해야 합니다.
-> - 도구 핸들러(Handler) 내부에 예외 처리(`try/catch`) 로직을 반드시 포함하여 서버가 죽지 않도록 하세요.
-> - **부연 설명 없이 오직 TypeScript 코드 블럭 하나만 출력하세요.**
+> - Você deve usar obrigatoriamente o pacote oficial `@modelcontextprotocol/sdk`.
+> - Se os parâmetros de entrada da ferramenta forem complexos, utilize a biblioteca `zod` para validação de schema (altamente recomendado).
+> - Ao instanciar o servidor, implemente de forma impecável o tratamento das interfaces `ListToolsRequestSchema` e `CallToolRequestSchema`.
+> - Inclua obrigatoriamente a lógica de tratamento de exceções (`try/catch`) dentro do manipulador (Handler) da ferramenta para evitar que o servidor sofra um crash durante a execução.
+> - **Retorne exclusivamente um único bloco de código TypeScript, sem explicações extras ou textos adicionais.**
 >
-> **주의사항 (Warning):**
+> **Warning (Aviso):**
 >
-> - 실제로 존재하지 않는 SDK 메서드를 지어내지 마세요. 불확실한 경우 기본 Node.js API를 활용하여 우회하세요.
+> - Não invente métodos do SDK que não existem (sem alucinações). Em caso de incerteza, utilize APIs nativas do Node.js como alternativa segura.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 프롬프트의 핵심은 AI에게 "코드를 짜줘"라고 막연하게 부탁하는 것이 아니라, MCP 서버가 반드시 갖춰야 할 **프로토콜의 핵심 규격(ListTools 및 CallTool 요청 처리)**을 강제한 것에 있습니다.
+O grande trunfo deste prompt não é simplesmente pedir à IA "faça um código para mim", mas sim forçá-la a seguir rigorosamente os **padrões essenciais da especificação do protocolo (manipulação das requisições ListTools e CallTool)** que qualquer servidor MCP deve possuir para funcionar corretamente.
 
-직접 MCP 서버를 구축하여 사용할 때 얻는 가장 큰 이점은 바로 **'압도적인 보안(Privacy)'**입니다. 범용 웹 검색 툴을 사용하면 검색 쿼리가 외부 서버를 거치게 되지만, 로컬 PostgreSQL 데이터베이스나 내부 API에 연결된 맞춤형 MCP 서버를 사용하면 데이터는 오직 사용자의 통제하에 안전하게 전송됩니다. 민감한 내부 문서를 복사해서 챗창에 붙여넣을 필요가 전혀 없는 것이죠.
+A maior vantagem de construir e operar seu próprio servidor MCP local é a **'Privacidade Incomparável'**. Ao utilizar ferramentas genéricas de busca web no Claude, suas consultas trafegam por servidores de terceiros. Porém, ao usar um servidor MCP personalizado conectado a um banco de dados PostgreSQL interno ou a uma API privada, os dados são processados e transmitidos com total segurança, sob o seu controle exclusivo. Acaba a necessidade de copiar documentos internos sensíveis e colá-los em uma janela de chat no navegador.
 
-처음에는 이 프롬프트를 이용해 로컬 로그 파일을 읽는 것 같은 단순한 '읽기 전용(Read-only)' 도구부터 만들어 보세요. 그리고 작동 원리가 이해되면, 데이터베이스를 수정하는 기능까지 확장하여 나만의 훌륭한 AI 비서를 완성할 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 코딩 지식이 전혀 없어도 이 프롬프트를 사용할 수 있나요?**
-  - A: 네, 가능합니다! `[목적]` 부분에 "서울의 날씨를 알려주는 기능"처럼 자연어로 적어주면, Claude가 알아서 완벽한 코드를 만들어 줍니다. 생성된 코드를 복사해서 실행 환경에 붙여넣기만 하면 됩니다.
-
-- **Q: 생성된 서버 코드는 어떻게 실행하고 연결하나요?**
-  - A: 코드를 `index.ts`로 저장한 뒤, Claude Desktop 설정 파일(`claude_desktop_config.json`)의 `mcpServers` 항목에 해당 스크립트 경로를 추가해주면 자동으로 연동됩니다.
-
-- **Q: 이 프롬프트로 만든 서버는 Claude에서만 쓸 수 있나요?**
-  - A: 아닙니다. Model Context Protocol은 개방형 표준이므로 Ollama, Cursor 등 MCP를 지원하는 모든 플랫폼과 클라이언트에서 동일하게 작동합니다.
+Para começar, recomendo que você use este prompt para criar uma ferramenta simples do tipo 'Somente Leitura' (Read-only), como um visualizador de logs locais. Quando dominar o fluxo de funcionamento, você pode expandir as funcionalidades para incluir a execução de modificações no banco de dados, criando, em última instância, o seu assistente de IA local definitivo.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **제약조건(Constraints)의 강력한 통제:** `@modelcontextprotocol/sdk`와 `zod`의 사용을 강제하고, 필수 스키마(`ListToolsRequestSchema`, `CallToolRequestSchema`)를 명시하여 AI가 스펙에 어긋나는 할루시네이션(환각)을 일으키는 것을 원천 차단했습니다.
-2.  **단일 파일 및 코드 전용 출력:** 여러 파일로 쪼개진 복잡한 구조 대신 단일 파일(`index.ts`) 구조를 지시하고 부연 설명을 제거함으로써, 사용자의 테스트 속도(Time-to-Value)를 극대화했습니다.
-3.  **예외 처리 강제화:** 도구 실행 중 발생할 수 있는 에러로 인해 MCP 서버 전체가 크래시나는 것을 막기 위해 `try/catch` 로직을 미리 규정했습니다.
+- **Q: Posso usar este prompt mesmo não tendo experiência avançada com programação?**
+  - R: Sim, perfeitamente! Basta descrever a variável `[Objetivo]` em linguagem natural, como "uma função que mostra o clima na cidade de São Paulo", e o Claude criará a lógica TypeScript para você. Depois, é só copiar e executar no seu ambiente Node.js local.
+
+- **Q: Como executo e conecto o código do servidor gerado pelo prompt?**
+  - R: Salve o código gerado em um arquivo chamado `index.ts`. Em seguida, adicione o caminho absoluto desse script na seção `mcpServers` do arquivo de configuração do Claude Desktop (geralmente `claude_desktop_config.json`). A integração ocorrerá de forma transparente assim que o Claude reiniciar.
+
+- **Q: O servidor criado com este prompt funciona apenas no cliente do Claude?**
+  - R: Absolutamente não. O Model Context Protocol é um padrão aberto (Open Standard). Isso significa que o seu servidor recém-criado funcionará de maneira idêntica no Ollama, no Cursor, e em qualquer outra IDE ou plataforma que já tenha suporte nativo ao MCP.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (입력)
+1.  **Controle Rigoroso pelas Restrições (Constraints):** Ao forçar a importação do `@modelcontextprotocol/sdk` junto ao uso do `zod`, e ao especificar os schemas obrigatórios (`ListToolsRequestSchema`, `CallToolRequestSchema`), bloqueamos pela raiz a possibilidade de a IA ter alucinações técnicas que quebrariam a integração do protocolo.
+2.  **Arquivo Único e Foco Exclusivo no Código:** Ao invés de permitir que a IA gere uma estrutura complexa fragmentada em múltiplos arquivos, exigimos um design "Single-File" (`index.ts`) e removemos explicações textuais supérfluas. Isso minimiza a fricção e acelera dramaticamente a fase de testes (Time-to-Value) do desenvolvedor.
+3.  **Tratamento de Exceções Compulsório:** Ao pré-determinar a necessidade de blocos `try/catch` nos Handlers, evitamos o problema mais comum na criação de integrações de IA: o servidor MCP cair completamente devido a um único erro de formatação de parâmetro durante a execução da ferramenta.
+
+---
+
+## 📊 Prova: Antes e Depois
+
+### ❌ Antes (Entrada)
 
 ```text
-User:
-(수천 줄짜리 my_database_schema.sql 파일 전체를 복사해서 붙여넣기)
-(수백 줄짜리 internal_api_docs.md 파일 전체를 복사해서 붙여넣기)
+Usuário:
+(Copia e cola manualmente o arquivo inteiro my_database_schema.sql com 4.500 linhas)
+(Copia e cola manualmente o arquivo inteiro internal_api_docs.md com mais 800 linhas)
 
-이 스키마를 바탕으로 오늘 가입한 유저 수를 조회하는 쿼리를 짜고, 이 API 문서에 맞춰서 어떻게 호출해야 하는지 알려줘.
+Com base neste schema que eu acabei de colar, crie uma query para buscar o número de usuários que se cadastraram hoje, e me mostre como devo chamar a API seguindo a documentação.
 ```
 
-### ✅ After (결과)
+### ✅ Depois (Resultado)
 
 ```text
-User:
-오늘 가입한 유저 수가 몇 명이야? (Claude가 백그라운드에서 MCP 도구를 자동 호출함)
+Usuário:
+Quantos usuários se cadastraram no sistema hoje? 
+(O Claude, de forma autônoma, chama a ferramenta MCP em segundo plano, consulta o banco e interpreta o resultado)
 
 Claude:
-내부 데이터베이스를 조회한 결과, 오늘 새롭게 가입한 유저 수는 총 150명입니다.
+Consultando o seu banco de dados interno diretamente, identifiquei que o número de novos usuários cadastrados hoje é de 150.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-AI 채팅창에 컨텍스트를 기계적으로 밀어 넣는 수동 작업의 시대는 끝났습니다. 이제는 여러분의 데이터를 모델에 직접 '연결(Plug-in)'하여 AI를 진정한 인프라로 활용할 때입니다.
+A era rudimentar do trabalho manual de empurrar "megabytes" de contexto de forma mecânica para a janela de chat da IA chegou ao fim. Agora, é o momento de conectar ('Plug-in') seus sistemas diretamente ao cérebro do modelo de linguagem e utilizá-lo como uma verdadeira camada de infraestrutura inteligente.
 
-단 5분, 복붙에 지친 여러분의 시간을 아껴줄 완벽한 MCP 서버를 지금 바로 스캐폴딩해 보세요. 이제 칼퇴하세요! 🍷
+Pare de perder seu tempo com repetições. Use o prompt agora mesmo e faça o scaffolding do seu servidor MCP em menos de 5 minutos. Aproveite a produtividade e saia mais cedo do trabalho! 🍷

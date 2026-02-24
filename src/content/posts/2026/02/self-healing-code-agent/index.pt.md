@@ -7,202 +7,204 @@ tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]
 image: "/images/2026/02/16/self-healing-code.jpg"
 ---
 
-# 📝 자가 치유 코드(Self-Healing Code): 스스로 버그를 고치는 AI 에이전트 구축하기
+# 📝 Código de Autocura (Self-Healing Code): Criando um Agente de IA que Corrige os Próprios Bugs
 
-- **🎯 추천 대상:** 개발자, 데이터 엔지니어, AI 에이전트 도입을 고민하는 리더
-- **⏱️ 소요 시간:** 무한 디버깅 → 자동화로 0분
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (코딩 특화 모델)
+- **🎯 Público-Alvo:** Desenvolvedores, Engenheiros de Dados, Líderes avaliando a adoção de Agentes de IA
+- **⏱️ Tempo Gasto:** Horas de depuração → 0 minutos com automação
+- **🤖 Modelos Recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modelos especializados em programação)
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"AI가 짠 코드에서 에러가 났을 때, 아직도 에러 메시지를 복사해서 AI에게 다시 물어보고 계신가요?"_
+> _"Você ainda está copiando mensagens de erro de código gerado por IA para colar de volta no chat e pedir correções manuais?"_
 
-AI로 파이썬 스크립트를 생성하고 실행했더니 `SyntaxError`가 발생합니다. 에러를 복사해서 AI에게 다시 붙여넣고 수정을 요청하면 그제야 코드가 작동하죠.
+Você pede para a IA gerar um script em Python, executa e logo depara-se com um `SyntaxError`. Então, você copia o erro, cola de volta para a IA pedir uma correção e, só depois, o código funciona.
 
-그런데 여기서 질문 하나. **왜 '인간'이 그 중간에서 단순 복사/붙여넣기를 하고 있어야 할까요?**
+Mas fica a pergunta: **Por que um 'humano' precisa atuar como um mero intermediário de copiar e colar nesse processo?**
 
-2026년, 가장 앞서가는 엔지니어들은 단순히 AI에게 코드를 짜달라고 부탁하지 않습니다. 그들은 **자가 치유 시스템(Self-Healing Systems)**을 구축합니다. 오늘은 "작성 → 실행 → 수정"으로 이어지는 지루한 디버깅 루프를 자동화하여, 수동적인 코드 생성기를 '자율적인 문제 해결사'로 탈바꿈시키는 방법을 알아보겠습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI가 한 번에 완벽한 코드를 짤 것이라는 'One-Shot'의 환상에서 벗어나세요.
-2. 실행 에러(`stderr`)를 캡처하여 AI에게 다시 피드백으로 주는 '반성(Reflection) 루프'가 핵심입니다.
-3. 파이썬 `subprocess` 모듈을 활용하면 단 50줄의 코드로 자가 치유 에이전트를 만들 수 있습니다.
+Em 2026, os engenheiros de software mais avançados não pedem simplesmente para a IA escrever código. Eles constroem **Sistemas de Autocura (Self-Healing Systems)**. Hoje, vamos descobrir como automatizar o cansativo ciclo de "escrever → executar → corrigir", transformando um gerador de código passivo num "solucionador de problemas autônomo".
 
 ---
 
-## 🚀 해결책: "코드 힐러(Code Healer)" 프롬프트
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Abandone a ilusão do "One-Shot", a crença ingênua de que a IA escreverá um código perfeito logo na primeira tentativa.
+2. O segredo é o 'Ciclo de Reflexão (Reflection Loop)', que captura erros de execução (`stderr`) e os envia de volta à IA como feedback.
+3. Utilizando o módulo `subprocess` do Python, você pode criar um agente de autocura funcional com apenas 50 linhas de código.
 
-단순한 에러를 빠르게 수정할 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 파이썬 개발자]`야.
-> **요청:** 아래 `[에러 메시지]`를 바탕으로 `[원본 코드]`의 버그를 고쳐줘.
+## 🚀 A Solução: Prompt "Curador de Código (Code Healer)"
+
+### 🥉 Versão Basic (Básica)
+
+Use para correções rápidas de erros simples no dia a dia.
+
+> **Role (Papel):** Você é um `[Desenvolvedor Python Sênior]`.
+> **Task (Tarefa):** Corrija os bugs do `[Código Original]` com base na seguinte `[Mensagem de Erro]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Especialista)
 
-에이전트 시스템에 연동하여 자동화된 디버깅 파이프라인을 구축할 때 사용하세요.
+Use para integrar ao seu sistema de agentes autônomos e criar um pipeline de depuração automatizado e resiliente.
 
-> **역할 (Role):**
-> 너는 시스템의 신뢰성을 책임지는 시니어 파이썬 SRE(Site Reliability Engineer)야. 변명이나 부연 설명은 필요 없어. 오직 완벽하게 작동하는 코드로만 말해.
+> **Role (Papel):**
+> Você é um SRE (Site Reliability Engineer) Sênior de Python, responsável pela estabilidade e confiabilidade do sistema. Sem desculpas ou explicações adicionais. Responda apenas com código perfeitamente funcional.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 배경: AI 모델이 생성한 스크립트가 실행 중 실패(Failed)했어.
-> - 목표: 제공된 `[원본 코드]`와 `[에러 로그(Traceback)]`를 분석하여 코드를 자가 치유(Self-Heal)하는 것.
+> - Cenário: Um script gerado por um modelo de IA falhou (Failed) durante a execução.
+> - Objetivo: Analisar o `[Código Original]` fornecido e o `[Log de Erro (Traceback)]` para realizar a autocura (Self-Heal) do código.
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. `[에러 로그]`를 분석하여 근본 원인(문법 오류, 로직 오류, 모듈 임포트 누락 등)을 파악해.
-> 2. `[원본 코드]`를 검토하여 실패가 발생한 지점을 정확히 찾아내.
-> 3. 버그가 수정된 **완성된 형태의 파이썬 코드**를 다시 작성해.
+> 1. Analise o `[Log de Erro]` para identificar a causa raiz (erro de sintaxe, erro de lógica, falta de importação de módulo, etc.).
+> 2. Revise o `[Código Original]` e localize o ponto exato onde a falha ocorreu.
+> 3. Reescreva e devolva o **código Python completo e corrigido**.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 기존 코드의 핵심 기능이나 로직을 임의로 삭제하지 마. 오직 '에러 수정'에만 집중해.
-> - "여기 수정된 코드가 있습니다" 같은 불필요한 대화형 응답(Conversational filler)은 절대 출력하지 마.
-> - 출력은 반드시 마크다운 파이썬 코드 블록(`python ... `) 단 하나로만 구성해.
+> - Não exclua recursos ou lógicas principais do código existente de forma arbitrária. Concentre-se exclusivamente na 'correção do erro'.
+> - Nunca inclua preenchimentos conversacionais (Conversational filler) como "Aqui está o código corrigido".
+> - A saída deve consistir única e exclusivamente num bloco de código Python em Markdown (`python ... `).
 >
-> **입력 데이터 (Input Data):**
-> **원본 코드:**
+> **Input Data (Dados de Entrada):**
+> **Código Original:**
 >
 > ```python
-> [여기에 원본 코드를 입력하세요]
+> [Insira o código original aqui]
 > ```
 >
-> **에러 로그:**
+> **Log de Erro:**
 >
 > ```text
-> [여기에 stderr 에러 메시지를 입력하세요]
+> [Insira a mensagem de erro do stderr aqui]
 > ```
 
 ---
 
-## 💻 파이썬으로 루프 자동화하기 (Implementation)
+## 💻 Automatizando o Ciclo com Python (Implementação)
 
-무거운 AI 프레임워크(LangChain 등) 없이도, 파이썬 기본 라이브러리인 `subprocess`만으로 이 루프를 훌륭하게 오케스트레이션할 수 있습니다.
+Mesmo sem frameworks de IA pesados e complexos (como LangChain ou AutoGen), você pode orquestrar perfeitamente esse ciclo de cura usando apenas a biblioteca padrão `subprocess` do Python.
 
 ```python
 import subprocess
-# OpenAI 또는 다른 LLM 클라이언트 설정이 되어 있다고 가정합니다.
+# Presume-se que o cliente da OpenAI ou outro LLM já esteja configurado.
 # from openai import OpenAI
 # client = OpenAI()
 
 def generate_fix(prompt):
-    # LLM을 호출하여 수정된 코드를 받아오는 함수 (GPT-4, Claude, Llama 3 등)
+    # Função para chamar o LLM e obter o código corrigido (GPT-4o, Claude 3.5, etc.)
     # response = client.chat.completions.create(...)
     # return response.choices[0].message.content
     pass
 
 def run_and_heal(script_path, max_retries=3):
     for attempt in range(max_retries):
-        # 1. 코드 실행: 안전하게 에러를 캡처하기 위해 별도의 프로세스로 실행
+        # 1. Execução do código: Executar num processo isolado para capturar erros com segurança
         process = subprocess.run(
             ['python', script_path],
             capture_output=True, text=True
         )
 
-        # 성공: returncode 0은 에러가 없음을 의미
+        # Sucesso: returncode 0 significa que a execução ocorreu sem erros
         if process.returncode == 0:
-            print(f"✅ 성공! (시도 횟수: {attempt + 1})")
+            print(f"✅ Sucesso! (Tentativa: {attempt + 1})")
             return process.stdout
 
-        # 실패: stderr에서 에러 메시지 추출
+        # Falha: Extrair a última linha da mensagem de erro do stderr
         error_msg = process.stderr
-        print(f"❌ 실패 (시도 횟수: {attempt + 1}): {error_msg.strip().splitlines()[-1]}")
+        print(f"❌ Falha (Tentativa: {attempt + 1}): {error_msg.strip().splitlines()[-1]}")
 
-        # 2. 자가 치유 (Agentic Step)
+        # 2. Autocura (Agentic Step)
         with open(script_path, 'r') as f:
             broken_code = f.read()
 
         healing_prompt = f"""
-        이 에러를 바탕으로 파이썬 코드를 수정해.
+        Corrija o código Python com base neste erro.
 
-        [원본 코드]
+        [Código Original]
         {broken_code}
 
-        [에러 메시지]
+        [Mensagem de Erro]
         {error_msg}
 
-        설명이나 마크다운 없이 오직 '수정된 코드'만 반환해.
+        Retorne APENAS o 'código corrigido', sem explicações ou formatação markdown extra fora do bloco de código.
         """
 
         fixed_code = generate_fix(healing_prompt)
 
-        # 수정된 코드로 원본 스크립트 덮어쓰기
+        # Sobrescrever o script original com o código curado
         with open(script_path, 'w') as f:
             f.write(fixed_code)
 
-        print(f"🩹 코드 치유 완료. 다시 실행합니다...")
+        print(f"🩹 Código curado. Executando novamente...")
 
-    print("💀 최대 재시도 횟수를 초과하여 치유에 실패했습니다.")
+    print("💀 Falha crítica: O número máximo de tentativas de cura foi excedido.")
     return None
 ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight do Autor (Insight)
 
-이 '자가 치유(Self-Healing)' 패턴은 AI를 활용하는 방식을 근본적으로 바꿔놓습니다.
+Este padrão de 'Autocura (Self-Healing)' muda fundamentalmente a arquitetura de como utilizamos a IA em produção.
 
-과거 웹 크롤링 자동화 툴을 만들 때, AI가 존재하지 않는 CSS 셀렉터를 환각(Hallucinate)하여 코드를 작성하는 문제가 있었습니다. 이때 단순히 문법 오류만 잡는 것이 아니라, "크롤링된 리스트가 비어있으면(Empty) 에러로 간주한다"는 **검증 루프(Validation Loop)**를 추가했습니다.
+No passado, ao desenvolver ferramentas autônomas de web scraping, deparei-me frequentemente com o problema da IA ter alucinações (Hallucinate) e inventar seletores CSS que não existiam no DOM, gerando quebras de código constantes. Em vez de focar apenas em corrigir erros de sintaxe tradicionais, adicionei um **Ciclo de Validação (Validation Loop)** lógico que determinava: "Se a lista extraída retornar vazia (Empty), considere isso um erro crítico".
 
-그러자 놀라운 일이 벌어졌습니다. 에이전트가 데이터가 정상적으로 추출될 때까지 **스스로 다른 CSS 셀렉터를 시도하고 코드를 수정**하기 시작한 것입니다. 이는 단순한 버그 수정을 넘어, AI가 주어진 환경(웹페이지 구조)에 **적응(Adaptation)**하는 과정이었습니다. 코드를 생성하는 것보다 중요한 것은, 생성된 코드를 '검증'하고 '책임'지게 만드는 루프를 설계하는 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 코드를 덮어쓰다가 스크립트가 완전히 망가지면 어떡하나요?**
-  - A: 실무에서는 `script_path`를 바로 덮어쓰기보다, `script_v1.py`, `script_v2.py`처럼 버전을 관리하며 저장하거나 Git 커밋을 자동화하여 롤백할 수 있는 안전장치를 마련하는 것이 좋습니다.
-
-- **Q: 무한 루프에 빠질 위험은 없나요?**
-  - A: 그래서 `max_retries` (최대 재시도 횟수) 설정이 필수적입니다. 보통 3~5회 이내에 해결되지 않는 에러는 프롬프트 자체의 한계이거나 인간의 개입이 필요한 아키텍처 결함일 확률이 높습니다.
-
-- **Q: 어떤 LLM 모델을 사용하는 것이 가장 좋나요?**
-  - A: 코드 수정과 로직 추론이 필요하므로 GPT-4o, Claude 3.5 Sonnet, 또는 코딩에 특화된 최신 로컬 모델을 강력히 권장합니다.
+O resultado foi surpreendente. O agente começou a **testar diferentes seletores CSS por conta própria, analisando o HTML, e a modificar o código iterativamente** até conseguir extrair os dados perfeitamente. Isso vai muito além de uma simples correção de bugs (`try/except`); foi o processo empírico da IA **adaptar-se (Adaptation)** ao ambiente dinâmico fornecido. Na engenharia de agentes, desenhar o ciclo que obriga o código gerado a ser validado é infinitamente mais importante do que gerar o código em si.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **에러 원인 분석 강제 (Chain-of-Thought):** 코드를 다짜고짜 고치기 전에, 에러 로그를 먼저 분석하라는 Task를 부여하여 AI가 문제의 본질을 먼저 파악하도록 유도했습니다.
-2. **출력 제어 (Systematic Output):** "설명 없이 코드만 출력하라"는 제약사항을 강하게 걸어두어, 파이썬 코드를 파싱하는 단계에서 불필요한 텍스트로 인해 발생하는 2차 에러를 방지했습니다.
+- **Q: E se o script for completamente destruído ao sobrescrever o código original?**
+  - A: Em ambientes de produção reais, em vez de sobrescrever diretamente o `script_path`, é obrigatório gerenciar versões (salvando como `script_v1.py`, `script_v2.py`) ou automatizar commits via Git antes de cada alteração. Isso cria uma rede de segurança (safeguard) que permite reverter as alterações (rollback) instantaneamente se a cura falhar.
+
+- **Q: Existe o risco de entrar num loop de depuração infinito?**
+  - A: É exatamente por isso que a configuração de `max_retries` (número máximo de tentativas) é indispensável. Um erro que não é resolvido em 3 a 5 iterações geralmente indica uma limitação inerente do próprio prompt, falta de contexto, ou uma falha de arquitetura grave que exige intervenção humana.
+
+- **Q: Qual modelo LLM é o mais indicado para este fluxo de trabalho?**
+  - A: Como o processo exige modificação estrutural de código e raciocínio lógico avançado (reasoning), recomendo fortemente o uso do GPT-4o, Claude 3.5 Sonnet ou os modelos locais de última geração especializados em programação (como o Llama 3 de parâmetros elevados).
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (기존 방식)
+1. **Análise Forçada da Causa (Chain-of-Thought):** Ao atribuir a tarefa de analisar e diagnosticar primeiro o log de erro antes de alterar cegamente o código, induzimos a IA a compreender a essência do problema, reduzindo o "achismo".
+2. **Controle de Saída (Systematic Output):** A forte restrição diretiva de "exibir apenas o código, sem explicações" evita erros colaterais que frequentemente ocorrem durante a etapa de parsing do código Python, causados por textos descritivos desnecessários que quebram o interpretador.
+
+---
+
+## 📊 Prova: Antes e Depois (Before & After)
+
+### ❌ Antes (O Método Tradicional e Passivo)
 
 ```text
-1. 사용자가 AI에게 코드 작성 요청
-2. 코드 실행 후 SyntaxError 등 버그 발생
-3. 사용자가 직접 에러 메시지(Traceback)를 복사
-4. AI에게 디버깅 요청 및 코드 재작성 대기
-5. 코드를 복사해서 다시 실행 (무한 반복)
+1. O desenvolvedor pede à IA para escrever um bloco de código.
+2. Após a execução, ocorre um bug (ex: IndentationError, SyntaxError).
+3. O desenvolvedor copia manualmente o log de erro (Traceback).
+4. Cola no chat da IA, pedindo depuração, e aguarda a reescrita.
+5. Copia o código final, cola na IDE e executa novamente (Loop manual exaustivo).
 ```
 
-### ✅ After (자가 치유 시스템 적용)
+### ✅ Depois (Com o Sistema de Autocura Ativo)
 
 ```text
-1. 사용자가 AI에게 목표를 지시하여 코드 작성
-2. 시스템이 자동 실행 및 에러(stderr) 캡처
-3. AI 에이전트가 스스로 에러 분석 및 재작성 (Self-Healing)
-4. 완벽하게 작동하는 최종 결과물만 사용자에게 전달
+1. O desenvolvedor define o objetivo de alto nível para a IA.
+2. O sistema orquestra a execução e captura proativamente qualquer erro (stderr).
+3. O agente de IA analisa o erro, entende o contexto e reescreve o código por conta própria (Self-Healing).
+4. Apenas o resultado final, validado e perfeitamente funcional é entregue.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-AI에게 단순히 코드를 짜달라고만 부탁하지 마세요. 자신이 짠 코드에 대해 **스스로 책임**지게 만드세요.
+Pare de tratar a sua IA geradora de código como uma ferramenta que precisa de supervisão constante. Faça com que ela se **responsabilize** pela execução e qualidade do código que cria.
 
-2026년 에이전틱 워크플로우(Agentic Workflow)의 진짜 비법은 어떤 거대한 모델을 쓰느냐가 아니라, 얼마나 정교한 '반성(Reflection) 루프'를 설계하느냐에 달려 있습니다. 지금 바로 위 파이썬 코드를 활용해 여러분의 작업 환경에 '힐러 에이전트'를 도입해 보세요!
+A verdadeira revolução do fluxo de trabalho de agentes (Agentic Workflow) em 2026 não reside em qual modelo de linguagem gigante você usa, mas sim na sofisticação e robustez do seu 'Ciclo de Reflexão (Reflection Loop)'. Copie o script Python acima hoje mesmo e introduza o seu primeiro 'Agente Curador' no seu ambiente local!
+
+Agora, feche o terminal e aproveite o seu tempo livre! 🍷

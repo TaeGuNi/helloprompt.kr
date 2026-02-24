@@ -3,159 +3,159 @@ title: "Gemini 3 Pro로 10분 만에 나만의 AI 에이전트 만들기"
 date: "2026-02-16"
 author: "OpenClaw Factory"
 tags: ["AI Agent", "Gemini 3", "Python", "Automation"]
-description: "코딩 초보자도 할 수 있는 Gemini 3 Pro 기반 AI 에이전트 구축 가이드. 프롬프트부터 파이썬 코드까지 완벽 정리."
+description: "Guía paso a paso para construir un agente de IA basado en Gemini 3 Pro en solo 10 minutos. Desde el diseño del prompt hasta el código en Python, ideal incluso para principiantes."
 ---
 
-# 🤖 Gemini 3 Pro로 10분 만에 나만의 AI 에이전트 만들기
+# 🤖 Cómo crear tu propio Agente de IA en 10 minutos con Gemini 3 Pro
 
-- **🎯 추천 대상:** 반복 업무를 자동화하고 싶은 개발자, 나만의 AI 비서를 갖고 싶은 기획자
-- **⏱️ 소요 시간:** 10분
-- **🤖 추천 모델:** Google Gemini 3 Pro
+- **🎯 Audiencia recomendada:** Desarrolladores que buscan automatizar tareas repetitivas, Product Managers y creadores que desean su propio asistente autónomo.
+- **⏱️ Tiempo estimado:** 10 minutos
+- **🤖 Modelo recomendado:** Google Gemini 3 Pro
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"단순한 챗봇의 시대는 끝났습니다. 이제 스스로 판단하고 도구를 다루는 '에이전트(Agent)'를 고용할 때입니다."_
+> _"La era de los chatbots simples ha terminado. Es hora de contratar a un 'Agente' capaz de tomar decisiones y utilizar herramientas por sí mismo."_
 
-2026년 현재, AI는 단순히 질문에 답하는 수준을 넘어 외부 도구를 조작하고 복잡한 워크플로우를 자율적으로 수행하는 '에이전트'로 진화했습니다. 특히 **Gemini 3 Pro**의 압도적인 추론(Reasoning) 능력과 방대한 컨텍스트 윈도우는 에이전트 개발의 진입 장벽을 완전히 무너뜨렸습니다.
+En pleno 2026, la Inteligencia Artificial ha evolucionado mucho más allá de simplemente responder preguntas. Ahora, los "Agentes" pueden operar herramientas externas y ejecutar flujos de trabajo complejos con total autonomía. En particular, la asombrosa capacidad de razonamiento (Reasoning) y la gigantesca ventana de contexto de **Gemini 3 Pro** han derribado por completo las barreras de entrada para el desarrollo de agentes.
 
-이 글에서는 파이썬(Python)과 Gemini 3 Pro를 활용하여, 스스로 웹을 검색하고 최신 정보를 요약해 주는 강력한 **'리서치 에이전트'**를 직접 구축해 보겠습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Gemini 3 Pro의 추론력:** 뛰어난 문맥 이해 능력으로 에이전트의 '두뇌' 역할에 최적화되어 있습니다.
-2. **함수 호출(Function Calling):** AI가 외부 도구(웹 검색, 사내 API 등)를 스스로 판단하여 사용하게 만듭니다.
-3. **완벽한 시스템 프롬프트:** 에이전트의 자율성과 행동 반경을 제어하는 핵심 키(Key)입니다.
+En este artículo, utilizaremos Python y Gemini 3 Pro para construir desde cero un poderoso **'Agente de Investigación' (Research Agent)** que buscará información en la web y resumirá los datos más recientes de forma autónoma.
 
 ---
 
-## 🚀 해결책: "리서치 에이전트 시스템 프롬프트"
+## ⚡️ Resumen de 3 líneas (TL;DR)
 
-에이전트에게 명확한 역할과 규칙을 부여하는 것이 가장 중요합니다. 아래 프롬프트를 Gemini 초기화 시 **시스템 인스트럭션(System Instruction)**으로 삽입하세요.
+1. **El poder de razonamiento de Gemini 3 Pro:** Su excepcional comprensión del contexto lo hace ideal para actuar como el 'cerebro' del agente.
+2. **Llamada a funciones (Function Calling):** Permite que la IA decida cuándo y cómo usar herramientas externas (búsquedas web, APIs internas, etc.).
+3. **El System Prompt perfecto:** Es la clave fundamental para controlar la autonomía, el alcance y las reglas de comportamiento del agente.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠른 테스트와 가벼운 검색이 필요할 때 사용하세요.
+## 🚀 Solución: "Prompt de Sistema para Agente de Investigación"
 
-> **역할:** 너는 `[리서치 에이전트]`야.
-> **요청:** `[사용자 질문]`에 대해 웹 검색을 수행하고 팩트 기반으로 결과를 요약해 줘.
+Asignar un rol y reglas claras al agente es el paso más crítico. Inserta el siguiente prompt como **System Instruction** (Instrucción de Sistema) al inicializar Gemini.
+
+### 🥉 Versión Básica
+
+Úsala para pruebas rápidas y búsquedas ligeras.
+
+> **Rol:** Eres un `[Agente de Investigación]`.
+> **Tarea:** Realiza una búsqueda en la web sobre `[Pregunta del usuario]` y resume los resultados basándote estrictamente en los hechos.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro
 
-환각(Hallucination)을 막고, 프로덕션 레벨의 디테일한 퀄리티가 필요할 때 사용하세요.
+Úsala para evitar alucinaciones (Hallucinations) y obtener resultados detallados con calidad de producción.
 
-> **역할 (Role):** 너는 세계 최고의 **'기술 트렌드 리서치 에이전트'**야.
+> **Rol (Role):** Eres el mejor **'Agente de Investigación de Tendencias Tecnológicas'** del mundo.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 사용자의 질문에 대해 즉각적인 웹 검색을 수행하고, 팩트에 기반한 인사이트를 제공해야 해.
-> - 목표: 수집된 정보를 바탕으로 출처가 명시된 완벽한 답변 작성.
+> - Antecedentes: Debes realizar búsquedas web inmediatas para responder a la pregunta del usuario y proporcionar información basada en hechos reales.
+> - Objetivo: Redactar una respuesta completa y perfectamente estructurada citando las fuentes de toda la información recopilada.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. `[사용자 질문]`을 분석하여 웹 검색에 필요한 핵심 키워드를 추출해.
-> 2. `search_web` 도구를 사용하여 최신 정보를 수집해. 정보가 부족하다면 검색을 여러 번 반복해서라도 답을 찾아내.
-> 3. 수집된 모든 정보를 종합하여 답변을 작성하고, 각 정보의 출처(URL)를 반드시 명시해.
+> 1. Analiza la `[Pregunta del usuario]` y extrae las palabras clave esenciales para la búsqueda web.
+> 2. Utiliza la herramienta `search_web` para recopilar la información más reciente. Si la información es insuficiente, repite la búsqueda las veces que sean necesarias hasta encontrar la respuesta.
+> 3. Sintetiza toda la información recopilada para redactar tu respuesta. Es obligatorio incluir la fuente (URL) de cada dato proporcionado.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 추측성 발언은 절대 금지해. 웹 검색 결과에 없는 내용은 반드시 "모른다"고 답해. (환각 방지)
-> - 답변은 항상 가독성 높은 마크다운(Markdown) 형식으로 작성해.
-> - 모든 답변은 한국어로 작성해.
+> - Prohibido hacer suposiciones. Si no encuentras la información en los resultados de búsqueda, debes responder explícitamente "No lo sé". (Prevención de alucinaciones).
+> - La respuesta debe estar siempre en formato Markdown para garantizar una alta legibilidad.
+> - Todas las respuestas deben redactarse en español fluido y profesional.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 전문적이고 신뢰감 있으면서도 친절한 톤앤매너를 유지해.
-> - 논리적인 기승전결 구조를 갖춰서 설명해.
+> - Mantén un tono de voz profesional, confiable y a la vez amable.
+> - Estructura tu explicación de manera lógica: introducción, desarrollo y conclusión.
 
 ---
 
-## 💻 보너스: 파이썬 에이전트 구현 코드
+## 💻 Bonus: Código de Implementación del Agente en Python
 
-프롬프트를 적용할 파이썬 뼈대 코드입니다. (Python `google-generativeai` 0.9.0 이상 필요)
+Aquí tienes la estructura básica en Python para aplicar este prompt. (Requiere `google-generativeai` 0.9.0 o superior).
 
 ```python
 import google.generativeai as genai
 
-# 1. 도구(Tool) 정의: 에이전트의 '손과 발' (실제 Search API 연결 필요)
+# 1. Definición de la herramienta (Tool): Las 'manos y pies' del agente (Requiere conectar una API de búsqueda real)
 def search_web(query: str) -> dict:
-    """주어진 쿼리로 웹을 검색하고 요약된 결과를 반환합니다."""
-    print(f"🔍 검색 중: {query}")
-    return {"results": f"'{query}'에 대한 최신 2026년 검색 결과입니다..."}
+    """Busca en la web con la consulta proporcionada y devuelve un resumen de los resultados."""
+    print(f"🔍 Buscando: {query}")
+    return {"results": f"Resultados de búsqueda más recientes en 2026 para '{query}'..."}
 
-# 2. 모델 초기화: 도구와 프롬프트를 주입 (The Brain)
+# 2. Inicialización del modelo: Inyección de herramientas y prompt (El Cerebro)
 model = genai.GenerativeModel(
     model_name='gemini-3-pro-preview',
     tools=[search_web],
-    system_instruction="여기에 위 Pro Version 프롬프트를 입력하세요."
+    system_instruction="Inserta aquí el prompt de la Versión Pro de arriba."
 )
 
-# 3. 자동 함수 호출 활성화 및 채팅 시작
+# 3. Activar llamadas a funciones automáticas e iniciar el chat
 chat = model.start_chat(enable_automatic_function_calling=True)
-response = chat.send_message("2026년 AI 에이전트 최신 트렌드를 조사해 줘.")
+response = chat.send_message("Investiga las últimas tendencias de agentes de IA en 2026.")
 print(response.text)
 ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-직접 Gemini 3 Pro로 에이전트를 구축해보며 가장 체감했던 혁신은 압도적인 **'의도 파악 및 도구 선택(Tool Selection) 능력'**이었습니다. 과거 모델들은 주어진 도구를 언제, 어떻게 조합해서 써야 할지 몰라 에러를 뱉는 경우가 잦았습니다. 하지만 Gemini 3 Pro는 "이 정보는 내 내부 지식에 없으니 검색 도구를 호출해야겠다"는 판단을 사람처럼 즉각적으로 내립니다.
+Al construir este agente con Gemini 3 Pro, la innovación más impactante que experimenté fue su abrumadora **capacidad para comprender la intención y seleccionar herramientas (Tool Selection)**. Los modelos anteriores solían fallar o arrojar errores al no saber cómo ni cuándo combinar las herramientas proporcionadas. Sin embargo, Gemini 3 Pro toma decisiones de forma instantánea, casi humana, razonando: *"Esta información no está en mi conocimiento interno, así que debo invocar la herramienta de búsqueda"*.
 
-**실무 적용 팁:** 에이전트가 가끔 엉뚱한 로직으로 빠진다면, 프롬프트의 `Task` 부분을 더 잘게 쪼개어 지시해 보세요. *"1단계: 키워드 추출 -> 2단계: 1차 검색 -> 3단계: 결과 분석 및 2차 검색"*처럼 **단계별 사고(Chain of Thought)**를 프롬프트에 강제하면, 에이전트의 행동 신뢰도가 프로덕션 레벨로 비약적으로 상승합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 실제 프로덕션 환경에서 API 비용 폭탄을 맞지 않을까요?**
-  - A: Gemini 3 Pro는 성능 대비 토큰 비용 효율이 훌륭합니다. 하지만 에이전트가 무한 루프(원하는 답을 찾을 때까지 무의미하게 도구를 계속 호출하는 현상)에 빠지는 것을 방지하기 위해, 코드 단에서 최대 도구 호출 횟수(Max Iterations)를 반드시 제한하는 안전장치가 필요합니다.
-
-- **Q: 파이썬을 전혀 모르는 비개발자도 에이전트를 만들 수 있나요?**
-  - A: 기초적인 파이썬 문법과 API 연동 개념만 익히면 충분히 가능합니다. 복잡한 추론 로직과 예외 처리는 AI가 스스로 해내기 때문에, 파이썬 코딩 실력보다는 **'시스템 프롬프트를 얼마나 정교하게 설계하느냐'**가 에이전트의 지능을 결정합니다.
+**Consejo para el mundo real:** Si notas que tu agente se desvía con una lógica extraña, intenta desglosar aún más la sección `Task` (Tarea) del prompt. Al forzar un **Cadena de Pensamiento (Chain of Thought)** explícito, como *"Paso 1: Extraer palabras clave -> Paso 2: Búsqueda inicial -> Paso 3: Analizar resultados y realizar búsqueda secundaria"*, la fiabilidad del agente se dispara a niveles listos para producción.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **명확한 도구 사용 지시 (Actionable Tool Constraints):** "정보를 수집해"라고 모호하게 지시하지 않고, "`search_web` 도구를 사용하여"라고 에이전트가 사용할 수 있는 무기의 이름을 정확히 명시하여 도구 활용의 성공률을 높였습니다.
-2. **환각 원천 차단 (Zero-Hallucination Policy):** "추측성 발언 금지", "모르면 모른다고 답해"라는 강력한 제약을 통해, 리서치 에이전트의 생명인 '정보의 신뢰성(Fact-based)'을 극대화했습니다.
+- **Q: ¿No recibiré una factura astronómica por el uso de la API en un entorno de producción real?**
+  - A: Gemini 3 Pro ofrece una excelente relación coste-eficiencia de tokens. Sin embargo, para evitar que el agente entre en un bucle infinito (invocando herramientas sin sentido hasta encontrar una respuesta), es imprescindible limitar el número máximo de iteraciones (Max Iterations) directamente en el código como medida de seguridad.
+
+- **Q: ¿Puede alguien que no sabe programar en Python crear este agente?**
+  - A: ¡Totalmente! Con comprender la sintaxis básica de Python y el concepto de integración de APIs es más que suficiente. Dado que la IA se encarga de la lógica compleja de razonamiento y el manejo de excepciones, la inteligencia de tu agente dependerá de **'qué tan bien diseñes el System Prompt'**, no de tus habilidades de programación.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (일반 챗봇에게 질문했을 때)
+1. **Instrucciones claras sobre el uso de herramientas (Actionable Tool Constraints):** En lugar de dar una orden vaga como "recopila información", especificamos exactamente el nombre del arma a su disposición ("Utiliza la herramienta `search_web`"), aumentando drásticamente la tasa de éxito al usarla.
+2. **Tolerancia cero a las alucinaciones (Zero-Hallucination Policy):** A través de restricciones severas como "Prohibido hacer suposiciones" y "Si no lo sabes, di que no lo sabes", maximizamos la 'fiabilidad basada en hechos' (Fact-based), que es el pilar de cualquier agente de investigación.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Preguntando a un chatbot convencional)
 
 ```text
-Q: 2026년 최신 AI 에이전트 트렌드를 알려줘.
+Q: Dime cuáles son las últimas tendencias de los agentes de IA en 2026.
 
-A: (학습된 과거 데이터에 기반하여) AI 에이전트는 향후 자율적으로 행동하는 시스템이 될 것입니다...
-(구체적인 최신 데이터 부족, 외부 출처 및 팩트 체크 없음)
+A: (Basado en datos antiguos de entrenamiento) Los agentes de IA serán sistemas que actuarán de forma autónoma en el futuro...
+(Falta de datos concretos y recientes, sin fuentes externas ni verificación de hechos).
 ```
 
-### ✅ After (리서치 에이전트에게 질문했을 때)
+### ✅ Después (Preguntando a nuestro Agente de Investigación)
 
 ```text
-Q: 2026년 최신 AI 에이전트 트렌드를 알려줘.
+Q: Dime cuáles son las últimas tendencias de los agentes de IA en 2026.
 
-🔍 검색 중: "2026 AI Agent Trends"
-🔍 검색 중: "Gemini 3 Pro Agent capabilities"
+🔍 Buscando: "2026 AI Agent Trends"
+🔍 Buscando: "Gemini 3 Pro Agent capabilities"
 
-A: 2026년 현재 AI 에이전트의 핵심 트렌드는 다음과 같습니다:
-1. **자율적 도구 활용:** Gemini 3 Pro와 같은 최신 모델은 API, 데이터베이스 등 외부 도구를 스스로 선택하고 조작합니다. (출처: AI Trends 2026 Report)
-2. **멀티 에이전트 협업:** 단일 에이전트를 넘어 여러 특화 에이전트가 협업하는 워크플로우가 대세로 자리 잡았습니다. (출처: Tech Innovators 2026)
+A: Las tendencias clave de los agentes de IA en pleno 2026 son las siguientes:
+1. **Uso autónomo de herramientas:** Los modelos más recientes, como Gemini 3 Pro, seleccionan y operan herramientas externas como APIs y bases de datos por sí mismos. (Fuente: AI Trends 2026 Report)
+2. **Colaboración Multi-Agente:** Más allá de un solo agente, los flujos de trabajo donde colaboran varios agentes especializados se han convertido en el estándar. (Fuente: Tech Innovators 2026)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-이제 여러분은 단순히 질문에 수동적으로 답하는 챗봇을 넘어, 스스로 정보를 찾고 정리하는 '나만의 자율 비서'를 가질 준비가 되었습니다. 이 뼈대 코드를 바탕으로 사내 데이터베이스 연동, 이메일 자동 발송, 슬랙 알림 등 다양한 실무 기능을 살에 붙여보세요.
+Ahora estás listo para dejar atrás los chatbots pasivos y tener a tu propio 'asistente autónomo', capaz de buscar y estructurar información por sí mismo. Utiliza este código base para añadir funcionalidades del mundo real, como conectar bases de datos corporativas, enviar correos automáticos o generar alertas en Slack.
 
-**Agentic Workflow**의 시대, 자동화의 시작은 생각보다 훨씬 간단합니다. 지금 바로 에이전트를 고용하고 칼퇴하세요! 🍷
+En la era del **Agentic Workflow**, el primer paso hacia la automatización es mucho más sencillo de lo que parece. ¡Contrata a tu agente hoy mismo y sal temprano del trabajo! 🍷

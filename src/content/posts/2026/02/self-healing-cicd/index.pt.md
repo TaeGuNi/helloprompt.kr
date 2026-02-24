@@ -1,117 +1,117 @@
 ---
 title: "잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유(Self-Healing) CI/CD 파이프라인 구축하기"
-description: "GitHub Actions와 AI 에이전트를 결합하여 린트 오류와 테스트 실패를 자동으로 수정하는 워크플로우를 소개합니다. 무한 커밋 루프 방지 팁까지."
+description: "Apresentamos um fluxo de trabalho que combina GitHub Actions e Agentes de IA para corrigir automaticamente erros de lint e falhas de teste. Inclui dicas essenciais para evitar loops infinitos de commits."
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags: ["DevOps", "CI/CD", "GitHub Actions", "AI Agent", "Automation"]
 image: "/images/2026/02/15/self-healing-cicd.jpg"
 ---
 
-# 📝 잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유 CI/CD 파이프라인 구축하기
+# 📝 Bugs Corrigidos Enquanto Você Dorme? Construindo um Pipeline CI/CD de Autocura em 2026
 
-- **🎯 추천 대상:** DevOps 엔지니어, CI/CD 담당자, 사소한 린트 에러에 지친 모든 개발자
-- **⏱️ 소요 시간:** 에러 디버깅 30분 → 1분 (완전 자동화)
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (코드 분석 및 수정 특화)
+- **🎯 Público-Alvo:** Engenheiros DevOps, Especialistas em CI/CD e qualquer desenvolvedor cansado de debugar erros de lint.
+- **⏱️ Tempo Estimado:** Debugging de erros de 30 minutos → 1 minuto (Totalmente automatizado)
+- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet, GPT-4o (Especializados em análise e correção de código)
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"퇴근 직전 올린 PR, 린트(Lint) 에러나 사소한 타입 불일치로 빨간 엑스(❌)가 떠서 겉옷을 벗고 노트북을 다시 연 적 있으신가요?"_
+> _"Você já abriu um PR logo antes de sair do trabalho, apenas para ver um X vermelho (❌) devido a um erro de linting ou uma pequena inconsistência de tipo, forçando-o a tirar o casaco e reabrir o notebook?"_
 
-2026년, 우리는 이제 **자가 치유(Self-Healing) 파이프라인**의 시대를 살고 있습니다. CI가 실패하면 AI 에이전트가 즉시 에러 로그를 분석하고, 코드를 스스로 수정하여 다시 커밋합니다. 다음 날 아침 출근해보면, 알아서 초록색 체크 표시(✅)가 뜬 PR이 당신을 반겨줄 것입니다.
+Em 2026, estamos vivendo a era dos **pipelines de Autocura (Self-Healing)**. Quando o CI falha, um Agente de IA analisa imediatamente os logs de erro, corrige o código de forma autônoma e faz um novo commit. Na manhã seguinte, ao chegar no trabalho, você será recebido por um PR com um check verde (✅) aprovado automaticamente.
 
-오늘은 GitHub Actions와 AI를 결합해 **'스스로 고치는' CI/CD 파이프라인**을 구축하는 실전 프롬프트와 좀비 에이전트(무한 루프) 방지 노하우를 공개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **자동화를 넘어선 자율성:** 에러 발생 시 알림만 주던 CI에서, 원인을 분석하고 직접 코드를 고치는 AI 에이전틱 워크플로우로 진화했습니다.
-2. **최소 변경의 원칙 (Minimal Change):** AI가 비즈니스 로직을 멋대로 바꾸지 않도록, 타입이나 문법 에러만 수정하도록 강력한 제약을 걸어야 합니다.
-3. **무한 루프 방지 필수:** 봇이 작성한 커밋은 워크플로우를 트리거하지 않도록 설정하여 끝없이 테스트를 반복하는 '좀비 에이전트' 사태를 막아야 합니다.
+Hoje, vamos revelar um prompt prático e dicas cruciais para evitar "agentes zumbis" (loops infinitos) ao construir um **pipeline CI/CD que se corrige sozinho**, combinando GitHub Actions e IA.
 
 ---
 
-## 🚀 해결책: "Self-Healing AI Agent 프롬프트"
+## ⚡️ Resumo em 3 Pontos (TL;DR)
 
-CI 파이프라인(Job 2)에서 테스트(Job 1) 실패 시 호출되는 AI 에이전트의 핵심 프롬프트입니다.
+1. **Autonomia Além da Automação:** Evoluímos de CIs que apenas notificam falhas para workflows de IA que analisam a causa raiz e consertam diretamente o código com falha.
+2. **Princípio da Mudança Mínima (Minimal Change):** Para evitar que a IA altere a lógica de negócios de forma arbitrária, impomos restrições rigorosas para que apenas erros de sintaxe ou tipagem sejam ajustados.
+3. **Prevenção de Loops Infinitos é Essencial:** É obrigatório configurar o pipeline para que os commits automatizados não acionem novos fluxos de trabalho, prevenindo o cenário em que o bot testa e faz commits eternamente.
 
-### 🥉 Basic Version (단순 린트/포맷 픽서)
+---
 
-Prettier나 ESLint의 단순한 문법 오류를 빠르게 고칠 때 사용하세요.
+## 🚀 A Solução: Prompt "Agente de IA de Autocura"
 
-> **역할:** 너는 `[시니어 프론트엔드 개발자]`야.
-> **요청:** 제공된 에러 로그를 보고 코드의 `[린트 오류 및 오타]`만 빠르고 정확하게 수정해서 전체 코드를 반환해줘.
+O prompt principal do Agente de IA que é acionado quando os testes (Job 1) falham no seu pipeline de CI (Job 2).
+
+### 🥉 Versão Básica (Corretor Simples de Lint/Formatação)
+
+Use isto para corrigir rapidamente pequenos erros de sintaxe do Prettier ou ESLint.
+
+> **Papel:** Você é um `[Desenvolvedor Frontend Sênior]`.
+> **Tarefa:** Analise o log de erros fornecido, corrija com rapidez e precisão apenas os `[erros de lint e erros de digitação]` no código e retorne o código completo modificado.
 
 <br>
 
-### 🥇 Pro Version (안전 제일 자가 치유 에이전트)
+### 🥇 Versão Pro (Agente de Autocura Seguro)
 
-비즈니스 로직 훼손 없이, 타입 에러와 구문 오류만 엄격하게 수정하는 실전용 프롬프트입니다.
+Um prompt focado em produção que corrige estritamente erros de tipagem e de sintaxe, protegendo sua lógica de negócios a todo custo.
 
-> **역할 (Role):** 너는 15년 차 시니어 DevOps 엔지니어이자 코드 리뷰어입니다. 코드의 안정성을 최우선으로 하며, 불필요한 변경을 극도로 경계합니다.
+> **Papel (Role):** Você é um Engenheiro DevOps Sênior e Revisor de Código com 15 anos de experiência. A estabilidade do código é a sua maior prioridade e você é extremamente cauteloso contra alterações desnecessárias.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 현재 CI 파이프라인에서 빌드 또는 테스트가 실패했습니다.
-> - 목표: `[Error Log]`와 `[Source Code]`를 분석하여 실패 원인을 파악하고 코드를 수정합니다.
+> - Cenário: Ocorreu uma falha no build ou nos testes no atual pipeline de CI.
+> - Objetivo: Analise o `[Log de Erros]` e o `[Código Fonte]` para diagnosticar a causa raiz da falha e corrigir o código de forma segura.
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. 에러 로그를 기반으로 소스 코드의 문제점을 정확히 진단하세요.
-> 2. 오직 에러를 해결하기 위한 **최소한의 변경(Minimal Change)**만 수행하세요.
-> 3. 코드의 스타일, 주석, 핵심 비즈니스 로직은 **절대** 건드리지 마세요.
-> 4. 수정이 완료된 코드를 JSON 형식으로 반환하세요.
+> 1. Diagnostique com precisão o problema no código-fonte com base no log de erros.
+> 2. Execute apenas a **mudança mínima (Minimal Change)** estritamente necessária para resolver o erro.
+> 3. **Nunca** altere o estilo do código, os comentários ou a lógica principal de negócios.
+> 4. Retorne o código corrigido em formato JSON.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - ⚠️ **비즈니스 로직 수정 금지:** 단순 오타, 누락된 세미콜론, 타입 불일치 등 명백한 기계적/문법적 오류만 수정 대상입니다. 로직 변경이 필요해 보인다면 절대 코드를 수정하지 말고 `"MANUAL_INTERVENTION_REQUIRED"`를 출력한 뒤 즉시 종료하세요.
-> - ⚠️ **할루시네이션 방지:** 원인을 정확히 모르겠거나 확신이 없다면 섣불리 고치지 말고 빈 응답을 반환하세요.
+> - ⚠️ **Proibido Modificar Lógica de Negócios:** Apenas erros mecânicos ou sintáticos óbvios (ex: erros de digitação, pontos e vírgulas ausentes, incompatibilidades de tipo) devem ser corrigidos. Se parecer que uma alteração na lógica é necessária, não modifique o código e gere apenas a string `"MANUAL_INTERVENTION_REQUIRED"`, encerrando o processo imediatamente.
+> - ⚠️ **Prevenção de Alucinações (Hallucinations):** Se você não tiver certeza da causa ou da correção exata, não tente adivinhar. Retorne uma resposta vazia.
 >
-> **출력 형식 (Format):**
+> **Formato de Saída (Format):**
 >
 > ```json
 > {
->   "file_path": "[에러가 발생한 파일 경로]",
->   "fixed_content": "[수정된 전체 코드 내용]"
+>   "file_path": "[Caminho do arquivo onde ocorreu o erro]",
+>   "fixed_content": "[Código completo corrigido]"
 > }
 > ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight do Autor (Writer's Insight)
 
-이 시스템을 실제 현업에 도입했을 때 가장 빛을 발했던 순간은 **'대규모 TypeScript 마이그레이션'** 프로젝트였습니다. 수백 개의 파일에서 쏟아지는 자잘한 `any` 타입 에러나 인터페이스 불일치를 사람이 일일이 고치는 건 고문과도 같았죠.
+O momento em que este sistema mais brilhou na prática foi durante um projeto massivo de **"Migração para TypeScript"**. Corrigir manualmente milhares de pequenos erros de `any` explícitos e incompatibilidades de interface espalhados por centenas de arquivos era uma verdadeira tortura.
 
-하지만 이 프롬프트를 적용한 자가 치유 워크플로우를 도입하자, 단순 반복 수정 작업의 80%가 사라졌습니다. 초기에는 프롬프트에 단순히 "코드를 개선해줘"라고 모호하게 지시했다가, 에이전트가 변수명을 전부 자기 마음대로 바꿔버려 PR 리뷰가 불가능해진 뼈아픈 실패 경험이 있습니다. AI에게 코드를 맡길 때는 **"최소한의 변경(Minimal Change)"**과 **"비즈니스 로직 수정 금지"**라는 제약 조건이 선택이 아닌 필수 생존 전략입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI가 무한히 코드를 고치고 커밋하는 '무한 루프'에 빠지면 어떡하나요?**
-  - A: 아주 중요한 질문입니다. 이를 방지하기 위해 GitHub Actions 설정 파일에 `if: github.actor != 'github-actions[bot]'` 조건을 반드시 추가하여 봇의 커밋이 다시 CI를 트리거하지 않게 막아야 합니다. 또한, 한 PR당 최대 3회까지만 치유를 시도하도록 재시도 카운터를 설정하세요.
-
-- **Q: AI가 비즈니스 로직의 심각한 버그도 고칠 수 있나요?**
-  - A: 기술적으로는 가능하지만 권장하지 않습니다. 로직 버그는 기획 의도와 연관된 경우가 많아 AI가 임의로 판단해서 수정하면 더 큰 장애를 유발할 수 있습니다. 자가 치유는 철저히 '명백한 문법/타입 에러'에만 적용하는 것이 가장 안전합니다.
-
-- **Q: 토큰 비용이 너무 많이 나오지 않을까요?**
-  - A: 실패한 파일의 코드와 에러 로그만 선별하여(Context Window 최소화) API에 전송하도록 파이프라인 스크립트를 최적화해야 합니다. 또한 일일 예산 한도(Budget Limit) 설정은 필수입니다.
+Ao implementar um fluxo de trabalho de autocura com este prompt, 80% do trabalho manual repetitivo evaporou. Inicialmente, tentei simplesmente instruir a IA para "melhorar o código" — um erro amargo. O agente acabou reescrevendo nomes de variáveis por conta própria, tornando a revisão humana do PR quase impossível. Ao confiar a edição autônoma a uma IA, impor restrições como **"Mudança Mínima (Minimal Change)"** e **"Proibição de Modificar Lógica de Negócios"** não são apenas sugestões; são estratégias cruciais de sobrevivência e estabilidade do projeto.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **시니어 엔지니어 페르소나 (Role):** "불필요한 변경을 극도로 경계한다"는 성격을 부여하여, AI 특유의 '과잉 수정(오버엔지니어링)' 본능을 억제했습니다.
-2.  **명확한 행동 지침 (MANUAL_INTERVENTION_REQUIRED):** AI가 스스로 판단하기 어려운 로직 에러일 경우, 억지로 정답을 만들어내지 않고 인간 개발자에게 제어권을 넘기도록 명시적인 탈출구(Escape Hatch)를 마련했습니다.
-3.  **JSON 출력 포맷 규정:** CI 파이프라인의 다음 단계(수정된 코드 덮어쓰기 및 git commit)에서 파싱하기 쉽도록 출력 형식을 엄격한 JSON으로 고정했습니다.
+- **P: E se a IA entrar em um "loop infinito", alterando o código e fazendo novos commits que falham novamente para sempre?**
+  - R: Excelente pergunta! Essa é a preocupação mais crítica. Para evitar isso, você DEVE adicionar uma condicional ao seu fluxo do GitHub Actions (ex: `if: github.actor != 'github-actions[bot]'`). Isso impede que commits iniciados pelo bot desencadeiem novos pipelines. Além disso, certifique-se de configurar um contador de tentativas, limitando a, no máximo, 3 tentativas de autocura por PR.
+
+- **P: Posso permitir que a IA corrija bugs complexos na lógica de negócios?**
+  - R: Embora seja tecnicamente possível hoje em dia, é algo perigoso e não recomendado. Bugs lógicos frequentemente estão atrelados às intenções específicas do produto. Se a IA decidir alterar isso por conta própria, pode acabar introduzindo falhas em cascata ainda piores em produção. A autocura brilha (e permanece segura) quando restrita a erros mecânicos evidentes (sintaxe, tipos lógicos óbvios).
+
+- **P: O custo de consumo da API (tokens) não explodirá fazendo isso em cada falha do CI?**
+  - R: Não, se você otimizar corretamente. O script do pipeline deve extrair e enviar **APENAS** o arquivo específico que falhou em conjunto com o trecho exato do log de erro, assim mantendo a Janela de Contexto super compacta. Adicionar um limite de gastos diário (Budget Limit) no seu provedor LLM também é um passo essencial.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (에러 로그 및 기존 코드)
+1. **Persona Sênior Cautelosa (Role):** Ao estabelecer uma persona de engenheiro sênior "cauteloso contra modificações desnecessárias", controlamos o instinto natural do LLM de aplicar over-engineering, garantindo modificações cirúrgicas.
+2. **Diretriz de Fuga Clara (MANUAL_INTERVENTION_REQUIRED):** Caso a IA enfrente um erro lógico difícil, ela dispõe de uma alternativa explícita para "desistir e passar a bola" para um humano. Isso impede consertos forçados ou alucinações.
+3. **Padrão Estrito de Saída JSON:** Forçar um formato de saída em JSON puro assegura que os próximos passos automatizados do pipeline (que envolvem o overwrite do arquivo e um `git commit`) possam analisar (parse) perfeitamente o caminho do arquivo afetado e a solução.
+
+---
+
+## 📊 Prova: Antes & Depois
+
+### ❌ Antes (Erro de CI e Código Original)
 
 ```typescript
 // src/utils/calculator.ts
@@ -121,11 +121,11 @@ export function addPrice(a: number, b: string) {
 ```
 
 ```bash
-# Error Log
+# Log de Erro
 TS2365: Operator '+' cannot be applied to types 'number' and 'string'.
 ```
 
-### ✅ After (AI 에이전트가 자동 커밋한 결과)
+### ✅ Depois (Código corrigido e comitado pela IA)
 
 ```json
 {
@@ -134,14 +134,14 @@ TS2365: Operator '+' cannot be applied to types 'number' and 'string'.
 }
 ```
 
-_(AI가 타입 불일치 에러를 정확히 인지하고, `b`의 타입을 `number`로 수정한 후 CI 파이프라인이 이를 파일에 반영하여 커밋합니다.)_
+_(A IA detecta perfeitamente o erro de tipo, altera preventivamente o tipo do parâmetro `b` para `number`, e finaliza repassando tudo para o CI que realiza o novo commit salvando o dia.)_
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-2026년의 개발자는 단순히 코드를 짜는 사람이 아닙니다. 이제 우리는 **'코드를 짜고 고치는 시스템'을 설계하는 아키텍트**입니다.
+O desenvolvedor de 2026 não é apenas alguém que escreve código manualmente. Hoje, nós somos verdadeiros **arquitetos que projetam os sistemas que escrevem e consertam os códigos por nós**.
 
-여러분의 팀 CI 파이프라인은 지금 단순히 코드의 잘못을 채점만 하고 있나요, 아니면 스스로 문제를 해결해주고 있나요? 당장 내일 여러분의 `.github/workflows` 폴더를 열고 에이전트에게 자리를 내어주세요. 퇴근길이 한결 가벼워질 것입니다.
+Como o pipeline de CI da sua equipe atua no momento? Como um examinador chato que apenas grifa de vermelho as falhas ou como um colega de equipe invisível que estende a mão para resolver o problema? Amanhã de manhã, abra a pasta `.github/workflows` do seu repositório e ceda algum espaço para o seu mais novo agente de CI. O seu fim de expediente de amanhã será surpreendentemente mais sereno.
 
-이제 안심하고 칼퇴하세요! 🍷
+Aproveite e encerre o dia no horário! 🍷

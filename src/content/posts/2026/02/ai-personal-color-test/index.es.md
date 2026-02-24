@@ -5,124 +5,123 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/뷰티"
-description: "10만 원 훌쩍 넘는 퍼스널 컬러 진단, 이제 집에서 무료로 끝내세요. 사진 한 장으로 웜톤/쿨톤 및 베스트 컬러를 분석하는 AI 프롬프트입니다."
+description: "Termina con los diagnósticos de color personal que superan los 100 dólares, ahora gratis desde casa. Un prompt de IA que analiza si eres de tono cálido o frío y tus mejores colores con solo una foto."
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---
 
-# 🎨 AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기
+# 🎨 Diagnóstico de Color Personal con IA: Encuentra tu Tono Cálido/Frío con una Foto
 
-- **🎯 추천 대상:** 내 피부톤을 몰라 늘 안전한 무채색 옷만 고집하는 사람, 비싼 오프라인 진단 비용이 부담스러운 알뜰족
-- **⏱️ 소요 시간:** 3분 (사진 촬영 및 업로드 포함)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (이미지 분석 기능 필수)
+- **🎯 Recomendado para:** Personas que siempre visten de colores neutros por no conocer su tono de piel, y aquellos que buscan ahorrar en costosos diagnósticos presenciales.
+- **⏱️ Tiempo estimado:** 3 minutos (incluye la toma y subida de la foto).
+- **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (la función de análisis de imágenes es indispensable).
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"왜 내가 핑크색 옷을 입으면 얼굴이 둥둥 떠 보이고, 카키색을 입으면 흙빛이 될까요?"_
+> _"¿Por qué el rosa me hace lucir pálida y sin vida, y el color caqui apaga por completo mi rostro?"_
 
-그 이유는 간단합니다. 본인의 고유한 피부톤(퍼스널 컬러)과 맞지 않는 색을 선택했기 때문입니다. 퍼스널 컬러 진단은 자신을 돋보이게 하는 가장 확실한 투자지만, 오프라인 컨설팅은 시간과 비용 면에서 진입 장벽이 높습니다.
+El motivo es simple: has elegido colores que no armonizan con tu tono de piel natural (color personal). Conocer tu colorimetría es la inversión más segura para realzar tu belleza, pero las consultorías presenciales implican una alta barrera de entrada por su tiempo y costo.
 
-하지만 뛰어난 이미지 인식 능력을 갖춘 AI 모델을 활용하면 이야기가 달라집니다. 자연광 아래서 찍은 민낯 사진 한 장만 있으면, AI가 색채학 전문가처럼 당신의 피부톤, 눈동자, 머리카락 색상을 정밀하게 분석하여 **"당신은 가을 웜톤 뮤트입니다"**라는 명확한 해답을 제시합니다. 지금 바로 AI와 함께 당신만의 '인생 컬러'를 찾아보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **준비물:** 보정이 들어가지 않은, 자연광에서 촬영한 깨끗한 민낯 사진 한 장을 준비합니다.
-2. **분석 요청:** 준비한 사진을 이미지 분석이 가능한 AI(ChatGPT-4o 등)에 업로드합니다.
-3. **결과 활용:** 프롬프트를 통해 세부 톤(라이트/뮤트/딥 등)과 베스트/워스트 컬러 팔레트를 추천받아 패션과 뷰티에 즉각 적용합니다.
+Sin embargo, la historia cambia si utilizamos un modelo de IA con capacidades avanzadas de reconocimiento de imágenes. Con solo una foto sin maquillaje tomada bajo luz natural, la IA analizará con precisión tu tono de piel, color de ojos y cabello, actuando como un experto en colorimetría. Te dará una respuesta clara como: **"Eres Otoño Cálido Suave (Autumn Warm Mute)"**. Descubre tu 'color ideal' ahora mismo con la ayuda de la IA.
 
 ---
 
-## 🚀 해결책: "퍼스널 컬러 애널리스트 프롬프트"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (빠른 톤 진단)
+1. **Preparación:** Prepara una foto nítida de tu rostro sin maquillaje ni filtros, tomada bajo luz natural.
+2. **Solicitud de análisis:** Sube la foto a una IA con capacidad de visión y análisis de imágenes (como ChatGPT-4o).
+3. **Aplicación de resultados:** Utiliza el prompt para recibir tu subtipo exacto (Light, Mute, Deep, etc.) y una paleta de los mejores y peores colores para aplicar de inmediato en tu estilo y maquillaje.
 
-복잡한 분석보다는 당장 내가 웜톤인지 쿨톤인지만 빠르게 확인하고 싶을 때 사용하세요.
+---
 
-> **(사진 업로드 후)**
-> **요청:** 업로드한 사진 속 인물의 피부톤, 머리카락 색, 눈동자 색을 바탕으로 퍼스널 컬러(봄/여름/가을/겨울)를 분석해 줘. 왜 그런 결과가 나왔는지 시각적 특징을 근거로 구체적으로 설명해 줘.
+## 🚀 Solución: "Prompt de Analista de Color Personal"
+
+### 🥉 Basic Version (Diagnóstico rápido)
+
+Úsalo cuando solo necesites saber rápidamente si eres de tono cálido (Warm) o frío (Cool) sin entrar en detalles complejos.
+
+> **(Después de subir la foto)**
+> **Solicitud:** Analiza mi color personal (Primavera/Verano/Otoño/Invierno) basándote en el tono de piel, color de cabello y color de ojos de la persona en la foto adjunta. Explica detalladamente las características visuales que justifican tu conclusión.
 
 <br>
 
-### 🥇 Pro Version (맞춤형 스타일링 컨설팅)
+### 🥇 Pro Version (Consultoría de estilo personalizada)
 
-청담동 뷰티 샵에서 받는 수준의 상세한 진단과 구체적인 스타일링 팁(메이크업, 헤어, 패션)까지 모두 원할 때 사용하세요.
+Úsalo cuando busques un diagnóstico detallado, digno de un salón de belleza premium, que incluya consejos de estilo específicos para maquillaje, cabello y moda.
 
-> **역할 (Role):** 너는 10년 이상의 경력을 가진 청담동 수석 퍼스널 컬러 애널리스트이자 뷰티 컨설턴트야.
+> **Rol (Role):** Eres un consultor de belleza y analista principal de color personal en un exclusivo salón de belleza, con más de 10 años de experiencia.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 나는 나에게 가장 잘 어울리는 색상을 찾아 옷차림과 메이크업을 개선하고 싶어.
-> - 목표: 내 사진을 기반으로 정확한 퍼스널 컬러 세부 톤을 진단받고, 실생활에 적용 가능한 컬러 팔레트와 스타일링 조언을 얻는 것.
+> - Fondo: Quiero descubrir los colores que más me favorecen para mejorar mis conjuntos de ropa y mi maquillaje.
+> - Objetivo: Obtener un diagnóstico preciso de mi subtipo de color personal a partir de mi foto, y recibir una paleta de colores junto con consejos de estilo que pueda aplicar en mi día a día.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. **정밀 진단:** 사진을 분석하여 4계절(봄/여름/가을/겨울)뿐만 아니라, 세부 톤(라이트, 브라이트, 뮤트, 딥 등)까지 정확히 진단해 줘.
-> 2. **컬러 팔레트:** 나를 돋보이게 하는 'Best 컬러' 3가지와 절대 피해야 할 'Worst 컬러' 3가지를 구체적인 색상명과 헥사코드(#RRGGBB)로 함께 제시해.
-> 3. **맞춤형 스타일링 추천:**
->    - **립 메이크업:** 찰떡같이 어울리는 립 컬러 (예: 맥 칠리, 입생로랑 따뜻한 코랄 등 대중적인 예시 포함)
->    - **헤어 염색:** 이목구비를 뚜렷하게 살려주는 헤어 염색 컬러
->    - **패션 팁:** 옷을 고를 때 피해야 할 색상과 패턴, 그리고 추천하는 넥라인 색상
+> 1. **Diagnóstico preciso:** Analiza la foto para diagnosticar con exactitud no solo mi estación (Primavera/Verano/Otoño/Invierno), sino también mi subtipo específico (Light, Bright, Mute, Deep, etc.).
+> 2. **Paleta de colores:** Proporciona mis 3 'Mejores colores' que realzarán mi apariencia y mis 3 'Peores colores' que debo evitar a toda costa. Incluye el nombre específico del color y su código hexadecimal (#RRGGBB).
+> 3. **Recomendaciones de estilo personalizadas:**
+>    - **Maquillaje de labios:** Tonos de labiales que me queden a la perfección (incluye ejemplos populares del mercado, ej. Mac Chili, YSL Coral cálido).
+>    - **Color de cabello:** El tono de tinte que mejor defina y resalte mis facciones.
+>    - **Consejos de moda:** Colores y estampados que debo evitar al vestir, y recomendaciones de tonos para las prendas superiores cerca del rostro.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 모바일 환경에서도 읽기 쉽도록 마크다운 리스트(List) 형태로 가독성 좋게 정리해 줘.
+> - Estructura tu respuesta utilizando listas en formato Markdown (List) para que sea fácil de leer en dispositivos móviles.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 사진의 조명이나 화이트 밸런스 문제로 판단이 모호할 경우, 여러 가능성을 열어두고 객관적으로 분석해. 확신할 수 없는 정보는 지어내지 마.
+> - Si el análisis es ambiguo debido a la iluminación de la foto o el balance de blancos, mantén varias posibilidades abiertas y analiza de forma objetiva. No inventes información de la que no estés seguro para evitar alucinaciones.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del autor (Insight)
 
-이 프롬프트의 정확도는 전적으로 **'사진의 질(Quality)'**에 달려 있습니다. 실내조명(형광등, 노란 텅스텐 조명) 아래서 찍거나 어플로 보정한 사진은 100% 잘못된 결과를 낳습니다. 반드시 맑은 날 낮에 창가에서 들어오는 간접 자연광을 받으며 기본 카메라로 촬영하세요.
+La precisión de este prompt depende íntegramente de la **'Calidad de la foto (Quality)'**. Las imágenes capturadas bajo iluminación interior (luces fluorescentes o bombillas amarillas de tungsteno) o alteradas con filtros darán resultados 100% erróneos. Asegúrate siempre de tomar la foto durante el día, recibiendo luz natural indirecta cerca de una ventana y utilizando la cámara estándar de tu dispositivo sin modificaciones.
 
-또한, AI가 "여름 쿨톤 라이트"라는 결과를 주었다면, 대화를 끝내지 말고 **"여름 쿨톤 라이트에게 잘 어울리는 오피스룩 코디 3가지를 추천해 줘"**처럼 꼬리 질문을 이어가 보세요. 단순한 진단을 넘어 완벽한 맞춤형 퍼스널 쇼퍼로 활용할 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 전문가에게 직접 받는 오프라인 진단만큼 정확한가요?**
-  - A: AI의 색상 분석 알고리즘은 매우 정교하지만, 카메라 렌즈의 왜곡과 디스플레이 색영역의 한계로 인해 오프라인 환경에서의 '드레이프 천' 테스트를 100% 대체하기는 어렵습니다. 하지만 대략적인 본인의 톤을 파악하고 쇼핑 실패 확률을 대폭 줄이는 데는 훌륭한 가이드가 됩니다.
-
-- **Q: 화장을 가볍게 하고 찍은 사진도 괜찮은가요?**
-  - A: 절대 권장하지 않습니다. 파운데이션 등 베이스 메이크업은 본래의 피부 언더톤을 가리기 때문에 AI가 화장품 색상을 피부톤으로 오인하게 만듭니다. 완전한 민낯 상태의 사진을 업로드하거나, 정 부담스러우시다면 눈, 코, 입을 자르고 볼 부분의 피부 톤만 크롭하여 업로드하세요.
+Además, si la IA te diagnostica como "Verano Frío Claro (Summer Cool Light)", no des por terminada la conversación ahí. Continúa con preguntas derivadas como: **"Recomiéndame 3 conjuntos de ropa de oficina que favorezcan a un Verano Frío Claro"**. De esta manera, podrás aprovechar a la IA no solo para un simple diagnóstico, sino como tu propio _personal shopper_ a medida.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1.  **세부 톤(Sub-tone) 강제:** 한국인은 단순히 "웜톤/쿨톤"을 넘어 명도와 채도에 민감합니다. "뮤트", "딥" 같은 세부 톤을 요구함으로써, 뜬구름 잡는 조언이 아닌 실제 쇼핑에 적용 가능한 정밀한 가이드를 얻어냈습니다.
-2.  **Worst 컬러 명시:** 나에게 어울리는 색을 찾는 것보다 중요한 것은 **내 안색을 망치는 색을 피하는 것**입니다. 이를 명확히 지시하여 옷장 속의 '실패 템'을 걸러내는 기준을 마련했습니다.
-3.  **구체적인 메이크업 예시 요구:** 시중에서 쉽게 구할 수 있는 화장품 브랜드나 컬러명(예: 코랄, 칠리 등)으로 추천을 유도하여, 진단 후 바로 화장품 매장으로 달려가 테스트해 볼 수 있도록 실용성을 극대화했습니다.
+- **P: ¿Es tan preciso como un diagnóstico presencial realizado por un experto?**
+  - R: Aunque el algoritmo de análisis de color de la IA es altamente sofisticado, no puede reemplazar al 100% la prueba física con 'telas drapeadas' debido a las distorsiones de la lente de la cámara y las limitaciones de color de las pantallas. No obstante, es una guía extraordinaria para conocer tu tono aproximado y reducir drásticamente el riesgo de cometer errores al ir de compras.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (톤그로 시절)
-
-자신의 톤을 모르고 트렌드만 좇아 입었을 때:
-
-- **상황:** 완벽한 쿨톤임에도 유행하는 카키색 야상 점퍼와 웜한 오렌지 립스틱 매치.
-- **결과:** 주변에서 "어제 잠 못 잤어?", "안색이 왜 이렇게 흙빛이야?"라는 피드백을 들으며 억울하게 피로를 호소해야 함. 🧟‍♀️
-
-### ✅ After (형광등 켜짐)
-
-Pro Version 프롬프트를 통해 진단 및 코디 추천을 받은 후:
-
-- **상황:** 진단받은 "겨울 쿨톤 브라이트"에 맞춰 쨍한 로열 블루 셔츠와 푸른 기가 도는 레드 립스틱으로 변경.
-- **결과:** 화장을 두껍게 하지 않아도 옷 색상만으로 안색이 환해지고 이목구비가 뚜렷해지며 "오늘 유난히 예뻐 보인다!"라는 찬사를 받음. ✨
+- **P: ¿Puedo usar una foto donde tenga un maquillaje ligero?**
+  - R: No te lo recomendamos en absoluto. Los productos base, como la base de maquillaje, ocultan el subtono natural de tu piel, provocando que la IA confunda el color del cosmético con tu verdadera tez. Es imperativo subir una foto con el rostro completamente lavado. Si te sientes incómodo, puedes recortar la imagen y subir únicamente un acercamiento de la piel de tus mejillas, omitiendo ojos, nariz y boca.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-패션의 완성은 얼굴일지 몰라도, 분위기의 완성은 **'색(Color)'**입니다.
-아무리 비싸고 예쁜 옷이라도 내게 맞지 않는 색이라면 최악의 아이템이 됩니다.
+1.  **Forzar el subtipo (Sub-tone):** Las personas no solo se dividen en "cálidos y fríos", la luminosidad y la saturación son cruciales. Al exigir la identificación de subtipos como "Mute" o "Deep", logramos una guía precisa y directamente aplicable en situaciones de compra reales, alejándonos de los consejos vagos.
+2.  **Especificar los peores colores (Worst):** Más importante que encontrar los tonos que te favorecen es **saber qué colores arruinan tu tez y debes evitar**. Al instruir esto con claridad, establecemos un criterio sólido para descartar las 'compras fallidas' de tu armario.
+3.  **Exigir ejemplos de maquillaje reales:** Al solicitar recomendaciones utilizando marcas o nombres de colores ampliamente conocidos (ej. Coral, Chili), maximizamos la utilidad práctica, permitiéndote ir directamente a la tienda de cosméticos a probarlos tras recibir el diagnóstico.
 
-이제 발품 팔고 10만 원씩 내며 오프라인 진단을 받을 필요 없습니다. 지금 당장 스마트폰을 들어 자연광 아래서 사진을 찍고, AI 애널리스트에게 분석을 맡겨보세요. 당신의 숨겨진 매력을 120% 끌어올려 줄 진정한 **인생 컬러**를 찾게 될 것입니다. 실패 없는 쇼핑을 향해, 지금 바로 시도해 보세요! 🛍️
+---
+
+## 📊 Evidencia: Antes y Después (Before & After)
+
+### ❌ Antes (Ignorando tu tono)
+
+Cuando te vistes siguiendo únicamente las tendencias, sin conocer tu verdadera paleta:
+
+- **Situación:** Combinar una chaqueta caqui de moda con un labial naranja cálido, a pesar de tener un tono de piel completamente frío (Cool tone).
+- **Resultado:** Recibir comentarios constantes como "¿Dormiste mal anoche?" o "¿Por qué te ves tan cansada y pálida?", obligándote a justificar una fatiga inexistente. 🧟‍♀️
+
+### ✅ Después (Iluminación natural)
+
+Tras recibir el diagnóstico y las recomendaciones de estilo a través de la Pro Version:
+
+- **Situación:** Cambiar a una blusa azul rey vibrante y un labial rojo con matices azulados, ajustándote a tu diagnóstico de "Invierno Frío Brillante (Winter Cool Bright)".
+- **Resultado:** Tu rostro se ilumina y tus facciones resaltan únicamente por el color de tu ropa, sin necesidad de usar maquillaje pesado, y comienzas a recibir elogios como "¡Qué bien te ves hoy!". ✨
+
+---
+
+## 🎯 Conclusión
+
+La belleza de un atuendo puede depender del diseño, pero la perfección de tu estilo personal se logra a través del **'Color'**. Por más costosa y hermosa que sea una prenda, si su tonalidad no armoniza contigo, se convertirá en la peor elección.
+
+Ya no necesitas invertir tiempo ni gastar más de 100 dólares en diagnósticos presenciales. Toma tu teléfono ahora mismo, hazte una foto con luz natural y confía el análisis a tu analista de IA. Descubrirás tu verdadero **color ideal** que potenciará tu atractivo al 120%. ¡Da el primer paso hacia unas compras sin arrepentimientos hoy mismo! 🛍️

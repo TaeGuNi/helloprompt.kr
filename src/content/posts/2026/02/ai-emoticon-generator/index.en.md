@@ -5,119 +5,116 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "크리에이티브/예술"
-description: "그림을 못 그려도 괜찮습니다. DALL-E와 미드저니로 '일관성 있는' 카카오톡 이모티콘 24종 세트를 기획하고 생성하는 완벽 가이드."
+description: "You don't need to be an artist. A complete guide to planning and generating a consistent 24-piece KakaoTalk emoticon set using DALL-E and Midjourney."
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 
-# 🎨 이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기
+# 🎨 Emoticon Creation: Make Your Own KakaoTalk Emoticon Character
 
-- **🎯 추천 대상:** 카카오 이모티콘으로 파이프라인을 구축하고 싶은 N잡러, 아이디어는 넘치지만 그림 실력이 아쉬운 기획자
-- **⏱️ 소요 시간:** 10분 (캐릭터 시트 초안 생성 기준)
-- **🤖 추천 모델:** DALL-E 3 (캐릭터의 시각적 일관성 유지에 가장 탁월함)
+- **🎯 Target Audience:** Side-hustlers looking to build a passive income pipeline with Kakao emoticons, planners overflowing with ideas but lacking drawing skills
+- **⏱️ Time Required:** 10 minutes (for a character sheet draft)
+- **🤖 Recommended Model:** DALL-E 3 (excellent for maintaining visual consistency)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"머릿속에 완벽한 캐릭터가 있는데, 똥손이라 펜만 잡으면 좌절하시나요? 이제 그림은 AI에게 맡기고 당신은 '기획'에만 집중하세요."_
+> *"Do you have a perfect character in mind but get frustrated the moment you pick up a pen because you can't draw? Leave the drawing to AI and focus entirely on 'planning'."*
 
-이모티콘 시장에서 가장 중요한 것은 화려한 작화가 아니라 **'공감대'**와 **'일관성(Consistency)'**입니다. 1번 감정과 2번 감정에서 캐릭터의 얼굴이 달라진다면 심사를 통과할 수 없습니다. 이 글에서는 AI를 활용해 똑같은 외형의 캐릭터가 다양한 감정을 표현하도록 '시드(Seed)를 고정하는 프롬프트 엔지니어링 기술'을 공개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 캐릭터의 구체적인 외형(색상, 포인트 아이템 등)을 텍스트로 명확히 정의한다.
-2. AI에게 단일 이미지가 아닌, 여러 감정이 포함된 **"분할된 그리드 뷰(Grid View)"** 형태로 그려달라고 요청하여 일관성을 확보한다.
-3. 생성된 이미지를 바탕으로 아이패드 등으로 선을 다시 따고(Tracer 활용), 공감 가는 텍스트를 입혀 심사에 제출한다.
+In the emoticon market, the most important factors aren't flashy illustrations, but **relatability** and **consistency**. If your character's face looks completely different between emotion #1 and emotion #2, it won't pass the review process. In this guide, we'll reveal the 'Seed-fixing Prompt Engineering Technique', allowing you to use AI to generate the exact same character expressing a wide variety of emotions.
 
 ---
 
-## 🚀 해결책: "Emoticon Factory Prompt"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Clearly define the character's specific appearance (colors, key items, etc.) using text.
+2. Ensure consistency by asking the AI for a **"Grid View"** containing multiple emotions, rather than generating single, isolated images.
+3. Use the generated images as a tracer on your tablet, add relatable copy, and submit for review.
 
-캐릭터의 전반적인 디자인과 톤앤매너를 잡을 때 사용하세요.
+---
 
-> **역할:** 너는 10년 차 카카오톡 이모티콘 전문 캐릭터 디자이너야.
-> **요청:** 귀여운 아기 오리 캐릭터의 기본 턴어라운드(Turnaround) 시트를 디자인해줘.
-> **외형:** 노란색 몸통, 주황색 부리, 머리에는 초록색 새싹
-> **스타일:** 2D 벡터 스타일, 단순하고 굵은 선(Thick Outline), 흰색 배경
+## 🚀 The Solution: "Emoticon Factory Prompt"
+
+### 🥉 Basic Version
+
+Use this to establish the overall design, tone, and manner of your character.
+
+> **Role:** You are an expert character designer with 10 years of experience creating KakaoTalk emoticons.
+> **Task:** Design a basic turnaround sheet for a cute baby duck character.
+> **Appearance:** Yellow body, orange beak, green sprout on its head.
+> **Style:** 2D vector style, simple and thick outlines, solid white background.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-일관된 캐릭터로 24종 세트 중 핵심 감정을 도출할 때 사용하세요.
+Use this to extract the core emotions for your 24-piece set while maintaining a consistent character.
 
-> **역할 (Role):** 너는 카카오 이모티콘 샵에 수십 개의 인기 이모티콘을 입점시킨 베테랑 캐릭터 디자이너야.
+> **Role:** You are a veteran character designer who has successfully launched dozens of hit emoticon sets on the Kakao Emoticon Shop.
 >
-> **상황 (Context):**
+> **Context:**
+> - Background: I have zero drawing skills, but I want to plan a highly relatable emoticon set for office workers based on a brilliant idea.
+> - Goal: To perfectly maintain the visual consistency of the 'Sprout Duck' character you designed earlier, while generating a draft of 4 core emotions out of the 24 static emoticons required for the KakaoTalk submission.
 >
-> - 배경: 나는 그림을 전혀 못 그리지만, 기발한 아이디어로 직장인 공감 이모티콘을 기획하고 싶어.
-> - 목표: 앞서 네가 디자인한 '새싹 오리' 캐릭터의 외형적 일관성을 완벽하게 유지하면서, 카카오톡 심사 제출용 '멈춰있는 이모티콘 24종' 중 핵심 감정 4가지를 먼저 시안으로 뽑아내는 것.
+> **Task:**
+> While keeping the character's appearance (yellow body, green sprout on head) exactly as specified, draw an emoticon sticker set expressing the 4 emotions below. You MUST display the 4 images split into a single **Grid View**.
 >
-> **요청 (Task):**
+> 1. **Joy (Clocking Out):** Smiling with half-moon eyes, jumping in the air, and throwing paperwork.
+> 2. **Sadness (Overtime):** Soul leaving the body, dark circles down to the chin, forehead resting on the keyboard.
+> 3. **Anger (Losing Control):** The sprout on the head is burning bright red while flipping a desk.
+> 4. **Rejection (Firm 'No'):** Expressionless face, firmly crossing two short wings to make an 'X' shape.
 >
-> 내가 제시한 캐릭터의 외형(노란 몸통, 머리에 새싹)을 유지하면서, 아래 4가지 감정을 표현하는 이모티콘 스티커 세트를 그려줘. 반드시 **그리드 뷰(Grid View)**로 4개의 이미지를 한 장에 분할해서 보여줘야 해.
->
-> 1. **기쁨 (퇴근):** 눈이 반달이 되게 웃으며 서류를 집어 던지고 점프하는 모습.
-> 2. **슬픔 (야근):** 다크서클이 턱까지 내려온 채로 키보드에 이마를 박고 영혼이 빠져나가는 모습.
-> 3. **분노 (분노 조절 실패):** 머리 위 새싹이 시뻘겋게 불타오르며 책상을 엎는 모습.
-> 4. **거절 (단호박):** 무표정한 얼굴로 짧은 날개 두 개를 교차하여 단호하게 X자를 그리는 모습.
->
-> **제약사항 (Constraints):**
->
-> - [스타일]: 카카오톡 이모티콘 특유의 단순화된 2D 일러스트 스타일.
-> - [선 굵기]: 모바일 화면에서도 뚜렷하게 보이도록 반드시 **굵은 외곽선(Thick Outline)**을 사용할 것.
-> - [배경]: 누끼(배경 제거) 작업이 쉽도록 완벽한 흰색(Solid White) 배경일 것.
-> - [텍스트]: 텍스트(글자)는 이미지 안에 절대 포함하지 말 것. (포토샵으로 따로 작업할 예정임)
+> **Constraints:**
+> - [Style]: Simplified 2D illustration style typical of KakaoTalk emoticons.
+> - [Outline Thickness]: You MUST use **Thick Outlines** so it remains highly visible on mobile screens.
+> - [Background]: Solid White background for easy background removal (clipping).
+> - [Text]: ABSOLUTELY NO TEXT or letters included inside the image. (I will add text later using Photoshop).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-카카오톡 이모티콘 스튜디오는 AI가 단독으로 생성한 이미지를 그대로 제출하는 것에 대해 매우 보수적인 입장을 취하고 있습니다(저작권 및 독창성 이슈). 따라서 AI가 뽑아준 이미지를 **'레퍼런스(Reference)'** 또는 **'밑그림(Tracer)'**으로 활용하는 것을 강력히 권장합니다.
+The KakaoTalk Emoticon Studio is highly conservative about accepting images directly generated by AI due to copyright and originality issues. Therefore, it is strongly recommended that you use the images generated by AI merely as **'References'** or **'Tracers'**.
 
-AI로 일관성 있는 캐릭터 시트와 다양한 포즈 아이디어를 빠르게 도출한 뒤, 아이패드(프로크리에이트)나 일러스트레이터를 사용해 직접 선을 따고 다듬는 '리터칭' 과정을 거치세요. 기획과 스케치에 들어가는 시간을 90% 이상 단축할 수 있습니다. 진짜 승부처는 그림의 화려함이 아니라, 완성된 이미지 옆에 붙는 **"넵!", "퇴근 마렵다" 같은 찰진 카피라이팅**에 있다는 점을 잊지 마세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI로 만든 이미지를 그대로 카카오 이모티콘에 제출해도 승인되나요?**
-  - A: 현재 카카오 이모티콘 스튜디오는 AI 생성물의 저작권과 독창성을 엄격하게 심사합니다. 그대로 제출할 경우 거절당할 확률이 매우 높습니다. AI는 아이디어 스케치와 구도(Pose)를 잡는 기획 도구로만 사용하고, 최종 작업물은 본인의 손을 거쳐 리터칭(트레이싱 후 재창조)하는 것이 가장 안전하고 확실한 방법입니다.
-
-- **Q: 다음 프롬프트를 칠 때마다 캐릭터 얼굴이나 옷이 자꾸 바뀌는데 어떻게 하나요?**
-  - A: DALL-E 3에서 동일한 대화방(세션)을 유지하고, 캐릭터의 외형적 특징(예: "머리의 초록색 새싹, 노란 몸통, 주황색 부리")을 프롬프트마다 반복해서 입력하세요. 또한, 한 번에 여러 표정을 요구하는 '그리드 뷰(Grid View)' 방식을 사용하면 단일 이미지 내에서 AI가 일관성을 억지로라도 유지하려는 성향이 강해져서 결과물이 훨씬 안정적입니다.
+Once you quickly extract a consistent character sheet and various pose ideas with AI, go through a retouching process where you trace and refine the lines yourself using an iPad (Procreate) or Illustrator. You can reduce the time spent on planning and sketching by over 90%. Remember, the real deciding factor isn't how fancy the drawing is, but the **witty copywriting like "Noted!" or "I need to clock out"** that accompanies the image.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **그리드 뷰(Grid View) 활용:** AI에게 한 장씩 따로 그리라고 하면 매번 새로운 시드(Seed)가 적용되어 캐릭터가 미세하게 변합니다. "분할된 그리드 뷰로 한 번에 그려줘"라고 지시하면, AI가 동일한 컨텍스트 내에서 이미지를 생성하므로 캐릭터의 시각적 일관성(Consistency)이 비약적으로 상승합니다.
-2.  **명확한 디테일 통제:** "Thick Outline(굵은 외곽선)"과 "Solid White Background(흰색 배경)"를 강제함으로써, 생성 후 포토샵에서 누끼를 따고 모바일 환경에 맞게 편집하는 후속 작업의 난이도를 획기적으로 낮췄습니다.
+- **Q: Can I submit the AI-generated images directly to the Kakao Emoticon Studio and get approved?**
+  - A: Currently, Kakao Emoticon Studio strictly reviews the copyright and originality of AI-generated content. If you submit them as-is, the chances of rejection are extremely high. The safest and most foolproof method is to use AI solely as a planning tool for idea sketching and poses, and then recreate the final artwork yourself by tracing and retouching.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (아이디어 구상 단계)
-
-머릿속에는 귀여운 오리가 야근하는 눈물겨운 씬이 있는데, 막상 빈 종이에 펜을 대면 동그라미에 점 두 개 찍힌 정체불명의 낙서가 됨. (결국 재능의 벽을 느끼고 포기)
-
-### ✅ After (AI 프롬프트 적용 후)
-
-프로 일러스트레이터가 작업한 것 같은 깔끔한 선화 기반의 캐릭터 감정 시트 4종 즉시 완성! 이를 바탕으로 태블릿에서 선만 쓱쓱 따라 그리고 텍스트를 얹어, 주말 하루 만에 24종 이모티콘 세트 기획 및 스케치를 마칠 수 있었습니다.
+- **Q: Every time I run the next prompt, the character's face or clothes keep changing. What should I do?**
+  - A: Maintain the same chat session in DALL-E 3, and repeatedly input the character's visual traits (e.g., "green sprout on the head, yellow body, orange beak") in every prompt. Also, using the 'Grid View' approach to request multiple expressions at once strongly forces the AI to maintain consistency within a single image, leading to far more stable results.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomy of the Prompt (Why it works?)
 
-이모티콘 시장에서 성공하는 작가는 '그림을 가장 잘 그리는 사람'이 아닙니다.
-대중이 일상과 직장에서 가장 많이 느끼는 **'공감 포인트'**를 예리하게 포착하는 사람입니다.
+1. **Leveraging Grid View:** If you tell the AI to draw images one by one, a new Seed is applied each time, causing subtle changes to the character. By instructing it to "draw them all at once in a split grid view", the AI generates the images within the same context, drastically increasing the character's visual consistency.
+2. **Strict Detail Control:** By enforcing "Thick Outlines" and a "Solid White Background", the subsequent workload of removing backgrounds in Photoshop and editing for mobile environments is significantly reduced.
 
-가장 막막하고 진입 장벽이 높았던 스케치와 캐릭터 디자인은 이제 AI라는 훌륭한 어시스턴트에게 맡기세요.
-당신은 **"이 새싹 오리는 매일 칼퇴를 꿈꾸지만 번번이 실패하는 3년 차 대리야"**라는 매력적인 세계관과 스토리 기획에만 집중하시면 됩니다.
+---
 
-지금 당장 메모장을 열고, 나만의 캐릭터 프로필부터 작성해 보세요! 🍷
+## 📊 Proof: Before & After
+
+### ❌ Before (Idea Conception Phase)
+
+You have a tear-jerking scene of a cute duck working overtime perfectly visualized in your head, but the moment your pen touches the blank paper, it turns into an unrecognizable scribble of a circle with two dots. You ultimately hit the wall of talent and give up.
+
+### ✅ After (Applying the AI Prompt)
+
+A clean, line-art-based character emotion sheet for 4 expressions—looking like it was done by a pro illustrator—is completed instantly! By simply tracing the lines on a tablet and laying over some text, you can finish the planning and sketching of a full 24-piece emoticon set over a single weekend.
+
+---
+
+## 🎯 Conclusion
+
+The creators who succeed in the emoticon market aren't necessarily the 'best artists'.
+They are the ones who sharply capture the **'relatable moments'** that the public experiences most in their daily lives and workplaces.
+
+Leave the sketching and character design—the most daunting tasks with the highest barriers to entry—to your excellent AI assistant.
+You only need to focus on planning an engaging universe and story, such as: **"This sprout duck is a 3rd-year associate who dreams of clocking out on time every day, but fails every single time."**
+
+Open your notepad right now and start writing your very own character profile! 🍷

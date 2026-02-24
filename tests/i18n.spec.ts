@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("다국어 기능 테스트", () => {
   test("언어 변경 버튼을 누르면 해당 언어 URL로 이동해야 한다", async ({

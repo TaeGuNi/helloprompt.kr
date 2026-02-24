@@ -6,127 +6,127 @@ tags: ["Gemini 3 Pro", "Prompt Engineering", "Refactoring", "Productivity"]
 author: "Unifactory Agent"
 ---
 
-# 📝 Gemini 3 Pro: 코딩 실무에서 'Deep Think' 모드 제대로 쓰는 법
+# 📝 How to Properly Use Gemini 3 Pro's 'Deep Think' Mode in Real-World Coding
 
-- **🎯 추천 대상:** 주니어 개발자, 레거시 코드를 유지보수하는 백엔드 엔지니어
-- **⏱️ 소요 시간:** 1시간 → 5분 단축
-- **🤖 추천 모델:** Gemini 3 Pro (Deep Think 모드 필수)
+- **🎯 Recommended for:** Junior developers, Backend engineers maintaining legacy code
+- **⏱️ Time Saved:** 1 hour → Reduced to 5 minutes
+- **🤖 Recommended Model:** Gemini 3 Pro (Deep Think mode required)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Gemini 3 Pro가 코드를 못 짠다고요? 그건 AI에게 '생각할 시간'을 주지 않았기 때문입니다."_
+> _"Think Gemini 3 Pro is bad at coding? That's simply because you haven't given the AI enough 'time to think'."_
 
-2026년 2월, 구글이 공개한 **Gemini 3 Pro**의 핵심은 단연 **'Deep Think'** 모드입니다. OpenAI의 O2 모델이 보여줬던 '추론(Reasoning)' 능력을 훨씬 빠른 속도로 사용할 수 있게 되었죠. 하지만 단순히 "이 코드 리팩토링 해줘"라고 명령하면 엉뚱한 결과물만 내놓고 연산 자원을 낭비하기 일쑤입니다. 오늘 소개할 프롬프트를 통해 주니어 개발자도 시니어급 아키텍처 설계를 뽑아내는 방법을 알아보겠습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. Gemini 3 Pro의 Deep Think 모드는 방향성을 명확히 잡아주지 않으면 성능을 제대로 발휘하지 못합니다.
-2. 코드를 짜라고 지시하기 전에 '코드 감사(Audit)'와 '리팩토링 전략 수립' 단계를 먼저 거치도록 강제해야 합니다.
-3. 복잡한 의존성이 얽힌 레거시 코드를 안전하고 체계적으로 마이그레이션할 때, 이 방식은 압도적인 효율을 보여줍니다.
+Released in February 2026, the absolute core of Google's **Gemini 3 Pro** is undeniably its **'Deep Think'** mode. It allows users to leverage the 'reasoning' capabilities previously showcased by OpenAI's O2 model, but at a significantly faster speed. However, if you simply command it to "refactor this code," you will often end up with irrelevant results and wasted computational resources. Through the prompt introduced today, we will explore how even a junior developer can extract senior-level architectural designs.
 
 ---
 
-## 🚀 해결책: "The 'Architect' Protocol"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본형)
+1. Gemini 3 Pro's Deep Think mode will not perform at its peak unless you provide a crystal-clear direction.
+2. Before instructing it to write code, you must force it to go through a 'Code Audit' and 'Refactoring Strategy' phase.
+3. When migrating legacy code entangled with complex dependencies systematically and safely, this approach demonstrates overwhelming efficiency.
 
-빠르게 코드의 보안 및 성능 문제점만 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[20년 경력의 시니어 백엔드 개발자]`야.
-> **요청:** 아래 `[레거시 코드]`의 보안 및 성능 문제점을 3가지만 분석해서 알려줘.
+## 🚀 The Solution: "The 'Architect' Protocol"
+
+### 🥉 Basic Version
+
+Use this when you quickly want to identify security and performance issues in your code.
+
+> **Role:** You are a `[Senior Backend Developer with 20 years of experience]`.
+> **Task:** Analyze the following `[legacy code]` and identify exactly 3 security and performance issues.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-단순한 코드 수정을 넘어, 아키텍처 수준의 리팩토링과 Edge Case 테스트 코드까지 완벽하게 추출하고 싶을 때 사용하세요.
+Use this when you want to go beyond simple code modifications and extract architecture-level refactoring along with edge-case test codes.
 
-> **역할 (Role):** 너는 20년 경력의 수석 소프트웨어 아키텍트이자 Clean Code 전도사야. 단순한 기능 구현을 넘어 유지보수성, 확장성, 성능을 최우선으로 고려하는 전문가야.
+> **Role:** You are a Lead Software Architect with 20 years of experience and an evangelist for Clean Code. You are an expert who prioritizes maintainability, scalability, and performance above mere feature implementation.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 현재 스파게티처럼 얽힌 `[Python 레거시 코드]`를 유지보수 가능한 구조로 마이그레이션해야 해.
-> - 목표: 단일 책임 원칙(SRP)을 준수하고 의존성을 낮춘 코드로 탈바꿈하는 것이 목표야.
+> - Background: I need to migrate the current spaghetti-like `[Python legacy code]` into a maintainable structure.
+> - Goal: The goal is to transform it into code that adheres to the Single Responsibility Principle (SRP) with low coupling and decoupled dependencies.
 >
-> **요청 (Task):**
-> 사용자가 제공하는 레거시 코드를 분석하여 다음 4단계에 따라 리팩토링을 수행해 줘.
+> **Task:**
+> Analyze the legacy code provided by the user and perform refactoring according to the following 4 steps:
 >
-> 1. **Code Audit:** 현재 코드의 문제점(Anti-patterns, Security Risks, Performance Bottlenecks)을 3가지 이상 분석할 것.
-> 2. **Deep Thinking Strategy:** 리팩토링을 위한 구체적인 전략을 수립할 것. (예: 어떤 디자인 패턴을 적용할지, 왜 그 패턴이 적합한지)
-> 3. **Refactoring:** 개선된 코드를 작성하고, 핵심 로직에 주석으로 변경 사유를 명시할 것.
-> 4. **Test Case Generation:** 리팩토링 된 코드가 안전함을 증명할 수 있는 Edge Case 테스트 코드를 3개 작성할 것.
+> 1. **Code Audit:** Analyze at least 3 critical issues (Anti-patterns, Security Risks, Performance Bottlenecks) in the current code.
+> 2. **Deep Thinking Strategy:** Establish a concrete strategy for refactoring (e.g., which design patterns to apply and why they are appropriate).
+> 3. **Refactoring:** Write the improved code, clearly specifying the reasons for changes as comments in the core logic.
+> 4. **Test Case Generation:** Write 3 edge-case test codes to prove that the refactored code is robust and safe.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 언어 및 버전: `[Python 3.12+]` (Type Hinting 필수 적용)
-> - 스타일 가이드: PEP 8 준수
-> - 외부 라이브러리: 표준 라이브러리만 사용할 것 (외부 의존성 최소화)
-> - 출력 형식: 주니어 개발자도 이해할 수 있도록 마크다운으로 깔끔하게 정리해 줘.
+> - Language & Version: `[Python 3.12+]` (Type Hinting is mandatory)
+> - Style Guide: Strict adherence to PEP 8
+> - External Libraries: Use standard libraries only (Minimize external dependencies)
+> - Output Format: Organize clearly in Markdown so that even a junior developer can easily understand.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 분석 결과가 불확실하거나 모호한 경우, 억지로 코드를 지어내지 말고 "판단 불가"라고 명시해. (환각 방지)
+> - If the analysis results are uncertain or ambiguous, do not force or invent code. Explicitly state "Cannot be determined." (Prevent Hallucination)
 >
-> **입력 데이터 (Input Data):**
-> `[여기에 리팩토링할 코드를 붙여넣으세요]`
+> **Input Data:**
+> `[Paste the code to be refactored here]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-솔직히 고백하자면, 저도 처음엔 단순 스크립트 작성에 빠르고 능한 GPT-5를 더 신뢰했습니다. 하지만 실무에서 수천 줄짜리 레거시 API를 마이그레이션할 때, Gemini 3 Pro의 넓은 Context Window와 Deep Think의 조합은 그야말로 압도적이었습니다.
+To be completely honest, I initially placed more trust in GPT-5, which was fast and proficient at writing simple scripts. However, when migrating thousands of lines of legacy API code in a real-world environment, the combination of Gemini 3 Pro's massive Context Window and Deep Think mode was nothing short of overwhelming.
 
-이 프롬프트의 핵심은 AI의 창의성을 일정 부분 통제하는 데 있습니다. 코드를 무작정 짜라고 하기 전에 **"어떤 패턴을 쓸지 먼저 계획을 세워라"**라고 강제함으로써, AI가 코딩 도중 길을 잃거나 환각(Hallucination)을 일으키는 빈도를 획기적으로 낮출 수 있습니다. 이메일 발송 로직을 분리하면서 트랜잭션 롤백 처리까지 스스로 챙기는 모습을 보면 야근이 절반으로 줄어들 것 같은 든든함마저 듭니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: GPT-5에 이 프롬프트를 넣으면 안 되나요?**
-  - A: GPT-5에서도 훌륭하게 작동합니다. 다만, 코드 베이스가 크고 파일 간 의존성을 깊게 파악해야 하는 '복잡한 리팩토링' 상황에서는 Gemini 3 Pro의 Deep Think 모드가 엣지 케이스를 훨씬 더 잘 찾아냅니다. 반면, 간단한 유틸리티 함수 수정이라면 GPT-5가 더 빠를 수 있습니다.
-
-- **Q: 다른 프로그래밍 언어(Java, TypeScript 등)에 적용하려면 어떻게 하나요?**
-  - A: 제약사항(Constraints) 섹션의 `언어 및 버전`과 `스타일 가이드` 부분을 `[TypeScript 5.0+, ESLint Airbnb 룰 준수]` 등으로 수정하여 사용하시면 완벽하게 작동합니다.
-
-- **Q: AI가 분석 결과를 자꾸 "판단 불가"라고 출력합니다.**
-  - A: Input Data에 제공된 코드의 문맥이 너무 부족하기 때문입니다. 관련된 데이터베이스 스키마나 다른 클래스의 인터페이스 정보를 함께 제공해주면 AI가 훨씬 정확한 설계도를 그려냅니다.
+The core of this prompt lies in controlling the AI's creativity to a certain degree. By forcing the AI to **"plan which pattern to use first"** before blindly generating code, you can drastically reduce the frequency of the AI losing its way or hallucinating during the coding process. Watching it autonomously separate email dispatch logic while independently handling transaction rollback processes gives you the reassuring feeling that your overtime will be cut in half.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **Chain-of-Thought 유도:** `Code Audit -> Strategy -> Refactoring -> Test`의 4단계를 명확히 분리하여 AI가 단계별로 논리적인 사고를 전개하도록 강제했습니다.
-2. **환각(Hallucination) 방지:** `Warning` 블록을 통해 불확실한 상황에서 그럴듯한 거짓 코드를 생성하지 않도록 강력한 제약 조건을 걸었습니다.
-3. **Role 부여의 디테일:** 단순한 '개발자'가 아닌, 'Clean Code 전도사'이자 '수석 아키텍트'라는 뾰족한 페르소나를 부여하여 결과물의 품질 기준(Quality Standard)을 대폭 높였습니다.
+- **Q: Can I use this prompt with GPT-5?**
+  - A: It works wonderfully with GPT-5 as well. However, in "complex refactoring" scenarios where the codebase is massive and deep file dependencies must be understood, Gemini 3 Pro's Deep Think mode is significantly better at identifying edge cases. On the other hand, for modifying simple utility functions, GPT-5 might be faster.
+
+- **Q: How can I apply this to other programming languages (Java, TypeScript, etc.)?**
+  - A: It will work perfectly if you modify the `Language & Version` and `Style Guide` parts in the Constraints section to something like `[TypeScript 5.0+, strict adherence to ESLint Airbnb rules]`.
+
+- **Q: The AI keeps outputting "Cannot be determined" for the analysis results.**
+  - A: This happens because the context of the code provided in the Input Data is insufficient. If you provide related database schemas or interface information of other classes together, the AI will draw a much more accurate architectural blueprint.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works)
 
-### ❌ Before (입력)
+1. **Inducing Chain-of-Thought:** By clearly separating the 4 steps of `Code Audit -> Strategy -> Refactoring -> Test`, we forced the AI to develop logical thinking step-by-step.
+2. **Preventing Hallucination:** Through the `Warning` block, we applied strong constraints to prevent the generation of plausible but false code in uncertain situations.
+3. **Details of Role Assignment:** By assigning a sharp persona of a 'Lead Architect' and 'Clean Code Evangelist' rather than just a 'Developer', we drastically elevated the Quality Standard of the output.
 
-모든 기능이 한 곳에 때려 박힌 전형적인 'God Object' 레거시 코드입니다.
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input)
+
+This is typical 'God Object' legacy code where all functionalities are crammed into a single place.
 
 ```python
 class UserManager:
     def handle_user(self, data, action):
         if action == "create":
-            # DB 연결 로직...
-            # 이메일 발송 로직...
-            # 로그 저장 로직...
+            # DB connection logic...
+            # Email dispatch logic...
+            # Log saving logic...
             pass
         elif action == "delete":
-            # 연관 데이터 삭제...
+            # Delete related data...
             pass
 ```
 
-### ✅ After (결과)
+### ✅ After (Result)
 
-단일 책임 원칙(SRP)을 준수하고 `Service Layer`와 `Repository Pattern`으로 코드를 완벽하게 분리해 냅니다.
+It perfectly adheres to the Single Responsibility Principle (SRP) and separates the code using the `Service Layer` and `Repository Pattern`.
 
 ```python
 # UserCreateService.py
@@ -147,22 +147,22 @@ class UserDTO:
 class UserCreateService:
     """
     [Refactoring Insight]
-    기존 UserManager의 '생성' 책임을 Service Layer로 분리하여 SRP를 준수했습니다.
-    또한 의존성 역전 원칙(DIP)을 적용하여 단위 테스트를 용이하게 만들었습니다.
+    Adhered to SRP by separating the 'creation' responsibility of the existing UserManager into the Service Layer.
+    Also applied the Dependency Inversion Principle (DIP) to facilitate unit testing.
     """
     def __init__(self, user_repo: UserRepository, email_sender: EmailSender):
         self.user_repo = user_repo
         self.email_sender = email_sender
 
     def execute(self, user_dto: UserDTO) -> None:
-        # 트랜잭션 및 실패 시 롤백 로직이 여기에 포함됩니다.
+        # Transaction and failure rollback logic are included here.
         pass
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-Gemini 3 Pro는 명확한 룰과 '생각할 시간'을 주었을 때 비로소 진가를 발휘합니다. 스파게티 코드 앞에서 막막함을 느끼고 계신가요? 오늘 소개한 'Architect' 프롬프트로 AI에게 아키텍트 역할을 맡기고, 여러분은 더 중요한 비즈니스 로직 설계에 집중해 보세요.
+Gemini 3 Pro truly shines only when given clear rules and 'time to think'. Are you feeling overwhelmed in front of spaghetti code? With the 'Architect' prompt introduced today, let the AI play the role of the architect, and you can focus on designing the more important business logic.
 
-이제 칼퇴하세요! 🍷
+Now, go enjoy your evening! 🍷

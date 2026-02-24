@@ -5,126 +5,130 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "외국어/학습"
-description: "미드 시청만으로는 영어가 늘지 않습니다. AI 코치를 활용해 대사 속 연음과 뉘앙스를 완벽하게 분석하고 내 것으로 만드는 넷플릭스 쉐도잉 실전 가이드입니다."
+description: "Regarder des séries ne suffit pas pour améliorer son anglais. Voici un guide pratique pour utiliser l'IA comme coach vocal et maîtriser les liaisons et les nuances grâce au shadowing sur Netflix."
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---
 
-# 🗣️ 영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기
+# 🗣️ Le Shadowing en Anglais : Devenez le Héros de Votre Série Netflix
 
-- **🎯 추천 대상:** 자막 없이 미드 보는 게 소원인 직장인, 쉐도잉이 좋은 건 알지만 대본 구하기가 귀찮아 포기한 사람
-- **⏱️ 소요 시간:** 5분 (대사 분석 및 코칭 세팅)
-- **🤖 추천 모델:** ChatGPT-4o, Gemini 2.5 Flash (음성 대화 모드 강력 추천)
+- **🎯 Recommandé pour :** Les professionnels qui rêvent de regarder des séries américaines sans sous-titres, et ceux qui ont abandonné le shadowing à cause de la difficulté à trouver des scripts.
+- **⏱️ Temps requis :** 5 minutes (pour analyser les dialogues et configurer le coaching)
+- **🤖 Modèles recommandés :** ChatGPT-4o, Gemini 2.5 Flash (Mode vocal fortement recommandé)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"프렌즈 쉐도잉이 국룰이라는데... 대본 뽑고 모르는 단어 찾다가 이미 지쳐버렸어."_
+> _"On dit que le shadowing avec 'Friends' est un classique... mais je suis déjà épuisé rien qu'à chercher le script et le vocabulaire."_
 
-미드로 영어 공부를 결심하고 가장 먼저 마주하는 장벽은 바로 '준비 과정'입니다. 대본을 구하고, 모르는 단어를 사전에서 찾고, 연음이 어떻게 되는지 수백 번 돌려 듣는 과정은 금세 흥미를 떨어뜨립니다.
+Le premier obstacle lorsque l'on décide d'apprendre l'anglais avec des séries télévisées est la "préparation". Trouver le script, chercher les mots inconnus dans le dictionnaire, et réécouter des centaines de fois pour comprendre les liaisons (linking words) fait rapidement perdre tout intérêt.
 
-하지만 AI를 '나만의 할리우드 발음 코치'로 활용하면 이야기가 달라집니다. 여러분은 넷플릭스에서 마음에 드는 대사를 복사해 AI에게 던져주기만 하세요. AI가 단어장부터 문법, 미묘한 뉘앙스, 심지어 한국어 발음 표기까지 1초 만에 떠먹여 줍니다. 당신은 그저 화면을 보고 따라 읽기만 하면 됩니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 크롬 확장 프로그램(Language Reactor)으로 넷플릭스 대사를 손쉽게 복사합니다.
-2. AI에게 프롬프트를 입력하여 발음 기호, 연음 법칙, 뉘앙스 분석을 요청합니다.
-3. ChatGPT 모바일 앱의 '보이스 모드'를 켜고 실제 원어민과 대화하듯 실전 연습을 진행합니다.
+Cependant, si vous utilisez l'IA comme votre "coach personnel de prononciation hollywoodienne", tout change. Il vous suffit de copier votre réplique préférée sur Netflix et de la donner à l'IA. En une seconde, elle vous fournira le vocabulaire, la grammaire, les nuances subtiles, et même une transcription phonétique intuitive. Il ne vous reste plus qu'à regarder l'écran et à répéter.
 
 ---
 
-## 🚀 해결책: "Shadowing Coach Prompt"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. Copiez facilement les répliques de Netflix grâce à l'extension Chrome (Language Reactor).
+2. Utilisez un prompt pour demander à l'IA l'alphabet phonétique, les règles de liaison et une analyse des nuances.
+3. Activez le "Mode Vocal" de l'application mobile ChatGPT et entraînez-vous comme si vous parliez à un vrai locuteur natif.
 
-빠르게 대사의 핵심 의미와 쓰임새만 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[미드 자막 번역가]`야.
-> **대사:** `["I don't know if I can handle this anymore."]`
-> **요청:** 이 문장의 뜻을 상황에 맞게 자연스럽게 해석해주고, `[handle]`과 같은 핵심 단어나 숙어가 사용된 실생활 예문 3가지를 추가로 만들어줘.
+## 🚀 La Solution : "Le Prompt du Coach de Shadowing"
+
+### 🥉 Version Basique (Basic Version)
+
+À utiliser lorsque vous souhaitez comprendre rapidement le sens principal et le contexte d'une réplique.
+
+> **Rôle :** Tu es un `[traducteur de sous-titres de séries américaines]`.
+> **Réplique :** `["I don't know if I can handle this anymore."]`
+> **Tâche :** Traduis cette phrase naturellement en fonction du contexte, et crée 3 exemples concrets d'utilisation de mots-clés ou d'expressions idiomatiques comme `[handle]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro (Pro Version)
 
-발음, 억양, 감정선까지 원어민의 디테일을 완벽하게 모방하고 싶을 때 사용하세요.
+À utiliser lorsque vous souhaitez imiter parfaitement les détails d'un locuteur natif : prononciation, intonation et émotions.
 
-> **역할 (Role):** 너는 할리우드 배우들의 영어 발음 및 연기 코치(Dialect Coach)야.
+> **Rôle (Role) :** Tu es un coach vocal et de jeu d'acteur (Dialect Coach) pour les acteurs hollywoodiens.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 나는 지금 넷플릭스 미드를 보며 쉐도잉 연습을 하고 있어.
-> - 목표: 원어민 특유의 연음과 억양을 완벽하게 따라 하고, 대사 속 미묘한 감정선까지 이해하는 것.
+> - Contexte : Je m'entraîne actuellement au shadowing en regardant une série américaine sur Netflix.
+> - Objectif : Imiter parfaitement les liaisons et l'intonation spécifiques aux locuteurs natifs, et comprendre les nuances émotionnelles subtiles de la réplique.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 1. **대사 분석:** `[대사 입력]`
-> 2. **발음 기호:** 정확한 IPA(국제음성기호)로 표기해줘.
-> 3. **연음 법칙(Linking):** 원어민이 실제 속도로 말할 때 단어와 단어가 어떻게 이어져 소리 나는지 한국어로 직관적으로 적어줘. (예: "What are you" -> "와라유")
-> 4. **강세(Intonation):** 문장에서 가장 힘주어 말해야 하는 핵심 단어를 **볼드체**로 표시해줘.
-> 5. **뉘앙스 코칭:** 화자가 현재 어떤 감정 상태인지, 이 대사를 칠 때 어떤 표정이나 제스처가 어울릴지 연기 디렉팅을 해줘.
+> 1. **Analyse de la réplique :** `[Insérer la réplique]`
+> 2. **Phonétique :** Écris la prononciation exacte en utilisant l'API (Alphabet Phonétique International).
+> 3. **Règles de liaison (Linking) :** Écris de manière très intuitive, comme cela se prononce en français, la façon dont les mots se lient lorsqu'un locuteur natif parle à vitesse réelle. (Ex : "What are you" -> "ouata-you")
+> 4. **Intonation (Stress) :** Mets en **gras** les mots-clés sur lesquels il faut insister le plus dans la phrase.
+> 5. **Coaching des nuances :** Dirige mon jeu d'acteur en m'expliquant l'état émotionnel actuel du personnage et les expressions faciales ou les gestes qui conviendraient à cette réplique.
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> - 출력 형식은 마크다운으로 보기 좋게 정리해줘.
-> - 한국어 발음 표기는 최대한 실제 원어민의 발음에 가깝게 작성해줘.
+> - Organise la sortie au format Markdown pour que ce soit facile à lire.
+> - Écris la prononciation intuitive de manière à ce qu'elle soit le plus proche possible de la prononciation réelle d'un locuteur natif, en l'adaptant pour un francophone.
+>
+> **Avertissement (Warning) :**
+>
+> - N'invente pas d'informations dont tu n'es pas sûr. (Évite les hallucinations)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'Avis de l'Auteur (Insight)
 
-쉐도잉의 핵심은 단어를 또박또박 읽는 것이 아니라, 문장 전체의 리듬과 **'연음(Linking)'**을 체화하는 것입니다. "Check it out"을 "체크 잇 아웃"이라고 정직하게 발음하면 원어민의 "체키라웃"을 절대 알아들을 수 없습니다.
+Le secret du shadowing n'est pas d'articuler chaque mot distinctement, mais d'assimiler le rythme de la phrase entière et les **liaisons (Linking)**. Si vous prononcez honnêtement "Check it out" mot par mot, vous ne comprendrez jamais le "Chekirawt" fluide d'un natif.
 
-AI에게 "이거 한국어로 소리 나는 대로 적어줘"라고 지시하는 것은 발음 교정의 치트키입니다. 더 나아가, AI가 분석해 준 뉘앙스를 바탕으로 주인공의 감정에 이입하여 '연기'하듯 따라 읽어보세요. 뇌는 감정이 실린 정보(Episodic Memory)를 훨씬 더 오래, 강력하게 기억합니다. 단순히 글자를 읽는 것과 캐릭터가 되는 것은 학습 효율에서 엄청난 차이를 만듭니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 넷플릭스 대사는 어떻게 텍스트로 복사하나요?**
-  - A: PC 크롬 브라우저에서 **'Language Reactor(랭귀지 리액터)'** 확장 프로그램을 설치하세요. 넷플릭스 화면 우측에 전체 스크립트가 나타나며, 클릭 한 번으로 대사를 복사하거나 엑셀로 내보낼 수 있습니다.
-
-- **Q: 제가 제대로 발음하고 있는지 어떻게 확인하나요?**
-  - A: 스마트폰에서 ChatGPT 앱을 열고 **보이스 모드(헤드폰 아이콘)**를 실행하세요. "내가 방금 배운 대사를 읽어볼 테니, 발음과 억양을 10점 만점으로 평가하고 어색한 부분을 교정해 줘"라고 말하면, 가장 훌륭한 1:1 원어민 과외 선생님이 됩니다.
-
-- **Q: 모르는 단어가 너무 많으면 어떡하죠?**
-  - A: 프롬프트 Task 영역에 "대사 속 CEFR B1(중급) 이상의 영단어는 뜻과 유의어를 따로 정리해 줘"라는 문장을 추가해 보세요. 나만의 맞춤형 단어장이 즉시 완성됩니다.
+Demander à l'IA d'écrire la prononciation de manière intuitive (comme on l'entend en français) est un véritable cheat code pour corriger sa prononciation. De plus, essayez de lire en "jouant la comédie", en vous imprégnant de l'émotion du personnage grâce à l'analyse des nuances fournie par l'IA. Le cerveau retient beaucoup plus longtemps et plus intensément les informations associées à une émotion (Mémoire épisodique). Il y a une énorme différence d'efficacité d'apprentissage entre simplement lire un texte et devenir le personnage.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **전문가 페르소나 (Role):** 단순한 번역기가 아닌 '할리우드 발음 코치'라는 역할을 부여함으로써, 언어적 해석을 넘어 음성학적 디테일과 연기적 조언까지 끌어냅니다.
-2.  **직관적 연음 표기 요청 (Task):** 한국인 학습자들이 가장 어려워하는 연음 현상을 '한국어 발음'으로 직접 표기하도록 강제하여, 즉각적이고 실질적인 발음 교정 효과를 얻습니다.
-3.  **감정선 연동 (Context & Task):** 대사의 맥락과 화자의 감정을 설명하도록 지시하여, 기계적인 암기를 막고 상황에 맞는 적절한 어조와 뉘앙스를 체득하게 합니다.
+- **Q : Comment puis-je copier les dialogues de Netflix sous forme de texte ?**
+  - R : Installez l'extension Chrome **'Language Reactor'** sur votre ordinateur. Le script complet apparaîtra sur le côté droit de l'écran Netflix, et vous pourrez copier les répliques ou les exporter vers Excel en un seul clic.
+
+- **Q : Comment puis-je vérifier si je prononce correctement ?**
+  - R : Ouvrez l'application ChatGPT sur votre smartphone et lancez le **Mode Vocal (l'icône en forme de casque)**. Dites : "Je vais lire la réplique que je viens d'apprendre. Évalue ma prononciation et mon intonation sur 10 et corrige ce qui ne semble pas naturel". L'IA deviendra alors votre meilleur professeur particulier natif.
+
+- **Q : Que faire s'il y a trop de mots que je ne connais pas ?**
+  - R : Ajoutez cette phrase dans la section Tâche (Task) du prompt : "Fais une liste séparée du sens et des synonymes pour tous les mots anglais de la réplique dont le niveau est supérieur ou égal à B1 (intermédiaire) du CECRL." Vous obtiendrez instantanément votre propre carnet de vocabulaire sur mesure.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Why it works?)
 
-### ❌ Before (단순 리딩)
+1.  **Persona d'Expert (Role) :** En attribuant le rôle de "coach de prononciation hollywoodien" plutôt que celui de simple traducteur, on obtient des détails phonétiques et des conseils de jeu d'acteur qui vont bien au-delà de la simple interprétation linguistique.
+2.  **Demande de Phonétique Intuitive (Task) :** Forcer l'IA à écrire les liaisons (qui sont souvent la plus grande difficulté pour les apprenants) de manière phonétique permet d'obtenir un effet de correction de la prononciation immédiat et pratique.
+3.  **Connexion Émotionnelle (Context & Task) :** Demander d'expliquer le contexte de la réplique et l'émotion du personnage évite la mémorisation mécanique et permet d'assimiler le ton et les nuances appropriés à la situation.
+
+---
+
+## 📊 Preuve : Avant & Après
+
+### ❌ Avant (Lecture simple)
 
 ```text
-대사: "What are you talking about?"
-발음: 왓! 아! 유! 토킹! 어바웃! (모든 단어에 강세를 두는 한국식 끊어 읽기 🤖)
-감정: 무미건조한 교과서 읽기
+Réplique : "What are you talking about?"
+Prononciation : Ouate ! Are ! You ! Tôking ! Aba-oute ! (Lecture robotique en insistant sur chaque mot 🤖)
+Émotion : Lecture monotone et académique
 ```
 
-### ✅ After (AI 코칭 적용)
+### ✅ Après (Avec le Coaching IA)
 
 ```text
-대사: "What are you talking about?"
-연음 및 강세: "와라유 토킹어바웃?" (what과 are가 부드럽게 이어짐 🇺🇸)
-감정 디렉팅: 미간을 살짝 찌푸리며, 상대방의 말도 안 되는 소리에 황당하다는 듯이 'talking'을 강하게 내뱉으세요.
+Réplique : "What are you talking about?"
+Liaisons et Intonation : "Ouata-you tôking-abaoute ?" (Le 'what' et le 'are' sont liés de manière fluide 🇺🇸)
+Direction d'acteur : Froncez légèrement les sourcils et prononcez fermement le mot 'talking', comme si vous étiez abasourdi par l'absurdité de ce que dit l'autre personne.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-미드는 눈으로만 보는 콘텐츠가 아닙니다. **직접 입 밖으로 내뱉어야 내 것이 됩니다.**
-오늘 밤, 넷플릭스를 켜고 마음에 드는 캐릭터의 대사를 하나 골라보세요. AI 코치와 함께하는 5분간의 연기 수업이 여러분의 영어 실력을 한 차원 높여줄 것입니다.
+Les séries américaines ne sont pas faites que pour être regardées. **Vous devez les prononcer à voix haute pour vous les approprier.**
+Ce soir, lancez Netflix et choisissez la réplique d'un personnage qui vous plaît. Une leçon de comédie de 5 minutes avec votre coach IA propulsera votre niveau d'anglais dans une autre dimension.
 
 **"Are you ready to become the star of your own show?"** 🎬

@@ -5,122 +5,122 @@ date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---
 
-# 📝 Claude Code로 2D 골프 게임 만들기: AI 게임 개발의 새로운 시대
+# 📝 Building a 2D Golf Game with Claude Code: A New Era of AI Game Dev
 
-- **🎯 추천 대상:** 게임 개발 입문자, 프론트엔드 개발자, AI 코딩 도구에 관심 있는 분
-- **⏱️ 소요 시간:** 1시간 이내 → 프롬프트 활용 시 5분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (Claude Code), Cursor
+- **🎯 Target Audience:** Beginner Game Developers, Frontend Developers, AI Coding Tool Enthusiasts
+- **⏱️ Time Spent:** Under 1 hour → Reduced by 55 minutes using this prompt
+- **🤖 Recommended Model:** Claude 3.5 Sonnet (Claude Code), Cursor
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"단 1시간 만에 물리 엔진이 탑재된 브라우저 골프 게임을 밑바닥부터 완성할 수 있다면 믿으시겠습니까?"_
+> _"Would you believe me if I told you that you could build a fully playable, browser-based golf game complete with a physics engine from scratch in just one hour?"_
 
-게임 개발의 진입 장벽이 그 어느 때보다 낮아졌습니다. 복잡한 벡터 수학이나 방대한 프레임워크 지식 없이도, **Claude Code**와 같은 AI 에이전트만 있다면 누구나 상상 속 아이디어를 플레이 가능한 훌륭한 게임으로 구현할 수 있는 시대입니다. 이 글에서는 제가 직접 Claude Code를 페어 프로그래밍 파트너로 삼아 HTML5 Canvas 기반의 2D 골프 게임을 개발한 과정을 단계별 프롬프트와 함께 공유합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **AI 기반의 아키텍처 설계:** HTML5 Canvas와 JavaScript를 활용한 게임 루프 및 파일 구조를 AI가 완벽하게 모듈화하여 설계해 줍니다.
-2. **복잡한 물리 엔진 구현:** 마우스 드래그를 이용한 파워 조절, 잔디의 마찰력(속도 감쇠), 벽 충돌 등 핵심 물리 로직을 손쉽게 완성할 수 있습니다.
-3. **초고속 레벨 디자인:** "장애물이 추가된 3개의 레벨을 만들어줘"라는 지시 하나로 게임의 확장성을 단번에 확보했습니다.
+The barrier to entry for game development has never been lower. You no longer need a deep understanding of complex vector mathematics or bulky game frameworks. With an AI agent like **Claude Code**, anyone can turn their imaginative ideas into a highly polished, playable game. In this post, I will share the exact step-by-step prompts I used to build an HTML5 Canvas-based 2D golf game, treating Claude Code as my senior pair-programming partner.
 
 ---
 
-## 🚀 해결책: "Claude Code 2D 게임 제너레이터"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본형)
+1. **AI-Driven Architecture:** AI effortlessly modularized the game loop and file structure using HTML5 Canvas and Vanilla JavaScript.
+2. **Complex Physics Made Easy:** Core physical mechanics like drag-to-shoot power control, grass friction (velocity damping), and wall collision bounces were implemented flawlessly.
+3. **Lightning-Fast Level Design:** A single prompt asking to "create 3 levels with increasing obstacles" instantly established a scalable foundation for the game.
 
-초기 프로젝트 뼈대를 잡고 핵심 메커니즘이 잘 작동하는지 빠르게 테스트할 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 게임 클라이언트 개발자야.
-> **요청:** HTML5 Canvas를 사용해서 브라우저 기반의 2D 골프 게임을 만들어줘. 공, 홀(Hole), 그리고 마우스를 드래그해서 쏘는(drag-to-shoot) 메커니즘이 포함되어야 해.
+## 🚀 The Solution: "Claude Code 2D Game Generator"
+
+### 🥉 Basic Version
+
+Use this prompt to quickly scaffold a project and test if the core mechanics work as intended.
+
+> **Role:** You are a Senior Game Client Developer.
+> **Task:** Create a browser-based 2D golf game using HTML5 Canvas. It must include a ball, a hole, and a drag-to-shoot mechanic.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-물리 엔진부터 레벨 디자인, 모듈화까지 프로덕션 수준에 가까운 게임을 기획할 때 사용하세요.
+Use this when you need production-level architecture, encompassing everything from physics engines to modular level design.
 
-> **역할 (Role):** 너는 10년 차 이상의 시니어 웹 게임 개발자이자 나의 AI 코딩 파트너야.
+> **Role:** You are a Senior Web Game Developer with over 10 years of experience, acting as my AI coding partner.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 별도의 무거운 게임 엔진이나 외부 라이브러리 없이, 순수 HTML5 Canvas와 Vanilla JavaScript만으로 가볍고 빠른 2D 미니 게임을 개발하려고 해.
-> - 목표: 플레이어가 마우스 드래그 앤 드롭으로 공의 궤적과 파워를 조절하여 홀인원하는 2D 골프 게임 구축.
+> - Background: I want to build a lightweight, fast 2D mini-game using purely HTML5 Canvas and Vanilla JavaScript, without any heavy game engines or external libraries.
+> - Goal: Build a 2D golf game where players can control the trajectory and power of the ball using a drag-and-drop interface to hit a hole-in-one.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. 프로젝트를 `index.html` (Canvas 컨테이너), `game.js` (게임 루프 및 상태 관리), `physics.js` (벡터 수학 및 물리 처리)로 완전히 분리해서 모듈화해 줘.
-> 2. `[마찰력(잔디 저항 시뮬레이션)]`과 캔버스 가장자리 `[벽 충돌 바운스]` 등 기본적인 물리 엔진을 정교하게 구현해 줘.
-> 3. 플레이어가 드래그할 때 발사될 파워와 방향을 미리 보여주는 시각적 인디케이터(조준선 가이드)를 추가해 줘.
-> 4. 장애물 요소를 도입하여 난이도가 점진적으로 상승하는 3개의 `[레벨 설정 배열]`을 구성해 줘.
+> 1. Completely modularize the project by separating it into `index.html` (Canvas container), `game.js` (game loop and state management), and `physics.js` (vector math and physics calculations).
+> 2. Implement a precise physics engine that handles `[friction (simulating grass resistance)]` and `[wall collision bounces]` at the canvas edges.
+> 3. Add a visual indicator (aiming guide line) that previews the power and direction of the shot while the player is dragging the mouse.
+> 4. Create an array of `[3 level configurations]` that progressively increase in difficulty by introducing new obstacle elements.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 코드는 즉시 실행 가능해야 하며 누락되는 부분 없이 완전하게 제공해야 해.
-> - 각 핵심 로직(속도 감쇠, 이벤트 리스너 등)에는 향후 수정하기 쉽도록 한글로 상세한 주석을 달아줘.
+> - The code must be immediately runnable and provided in its entirety without any missing logic.
+> - Add detailed comments in English to all core logic (e.g., velocity damping, event listeners) to make future modifications easier.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 과도하게 복잡한 현실 물리 공식보다는, 아케이드 게임 특유의 경쾌하고 직관적인 조작감을 최우선으로 설계해.
+> - Prioritize a snappy, intuitive, arcade-style feel over overly complex real-world physics formulas.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-AI를 활용한 코딩에서 가장 중요한 것은 **'AI를 단순한 자동완성 도구가 아닌, 구조를 논의하고 아키텍처를 설계하는 시니어 파트너로 대하는 것'**입니다.
-처음부터 완벽하고 거대한 게임을 만들려고 하기보다는, 핵심 물리 메커니즘(마찰력, 충돌) -> 입력 처리(드래그 앤 슛 피드백) -> 콘텐츠 확장(레벨 디자인 추가) 순으로 **단계별 빌드업(Step-by-step)**을 거치는 것이 성공 확률을 높이는 비결입니다.
+The most crucial aspect of AI-assisted coding is **treating the AI not as a mere autocomplete tool, but as a senior partner to discuss structure and architecture with.**
+Instead of trying to build a massive, perfect game from the get-go, building it **step-by-step** is the secret to success. Start with the core physics (friction, collisions), move on to input handling (drag-and-shoot feedback), and finally expand the content (level design).
 
-특히 Claude Code는 컨텍스트를 유지하며 코드를 리팩터링하는 능력이 압도적으로 뛰어나기 때문에, 구현 도중 "장애물을 관리하는 별도의 클래스를 따로 빼서 리팩터링해 줘"와 같이 구조적인 개선을 요구하면 훨씬 더 유지보수하기 좋은 결과물을 얻을 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 게임 개발이나 수학(벡터)을 전혀 모르는 초보자도 이 프롬프트로 게임을 만들 수 있나요?**
-  - A: 네, 가능합니다! 프롬프트가 전체적인 아키텍처와 까다로운 수학적 계산을 모두 잡아주기 때문에, 제공된 코드를 구조에 맞게 복사/붙여넣기만 해도 브라우저에서 즉시 실행해 볼 수 있습니다.
-
-- **Q: 장애물이나 새로운 맵을 더 추가하고 싶은데 코드를 직접 고쳐야 하나요?**
-  - A: 직접 코드를 분석해서 고칠 필요가 없습니다. Claude에게 "레벨 3 다음에 중앙에 회전하는 풍차 장애물이 있는 레벨 4를 추가해 줘"라고 자연어로 요청하면, 기존 `Level` 배열 구조를 파악하고 알맞은 코드를 즉시 생성해 줍니다.
-
-- **Q: Claude Code 대신 ChatGPT 환경에서 사용해도 동일한 결과를 얻을 수 있나요?**
-  - A: 네, 최신 모델(GPT-4o 등)에서도 훌륭한 결과를 얻을 수 있습니다. 다만 터미널 기반의 Claude Code나 Cursor 편집기처럼 다중 파일을 자동으로 생성하고 덮어쓰는 기능이 웹에는 없으므로, AI가 출력해 준 코드를 지시에 따라 `game.js`, `physics.js` 등에 직접 나누어 저장해 주셔야 합니다.
+Claude Code is exceptionally good at maintaining context and refactoring code. If you ask it to "refactor the code by extracting obstacle management into a separate class" halfway through development, it will yield a highly maintainable and clean codebase.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **모듈화 강제 (Modularity):** 처음부터 파일을 분리하도록 강제 지시하여, 코드가 길어져도 스파게티 코드가 되지 않고 유지보수와 확장이 쉽도록 아키텍처 뼈대를 세웠습니다.
-2. **시각적 피드백 명시 (Visual Indicator):** 단순한 조작 구현을 넘어, '파워와 방향을 보여주는 선'을 구체적으로 명시함으로써 게임의 조작감(UX)과 직관성을 크게 향상시켰습니다.
-3. **확장성 고려 (Level Design):** 하드코딩된 단일 스테이지가 아닌 '배열 형태의 레벨 데이터 구성'을 유도하여, 향후 개발자가 레벨을 손쉽게 무한히 추가할 수 있는 데이터 기반 구조를 만들었습니다.
+- **Q: Can beginners with zero knowledge of game development or vector math use this prompt?**
+  - A: Absolutely! The prompt handles the overall architecture and tricky mathematical calculations. You just need to copy and paste the provided code into the correct files, and you can play it in your browser immediately.
+
+- **Q: Do I need to modify the code myself if I want to add more obstacles or new maps?**
+  - A: You don't have to analyze the code manually. Simply ask Claude in plain English: "Add a Level 4 after Level 3, featuring a spinning windmill obstacle in the center." It will understand the existing `Level` array structure and generate the appropriate code instantly.
+
+- **Q: Can I achieve the same results using ChatGPT instead of Claude Code?**
+  - A: Yes, modern models like GPT-4o will yield excellent results. However, since the web interface lacks the ability to automatically create and overwrite multiple files (unlike terminal-based Claude Code or the Cursor editor), you will need to manually copy the AI's output into `game.js`, `physics.js`, etc., as instructed.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (단순히 "골프 게임 만들어줘" 입력 시)
+1. **Forced Modularity:** By explicitly instructing the AI to separate files from the start, we established an architectural backbone that prevents spaghetti code and ensures easy maintenance as the project grows.
+2. **Explicit Visual Feedback:** Beyond asking for basic controls, specifically requesting a "line showing power and direction" drastically improves the user experience (UX) and game intuitiveness.
+3. **Scalability by Design:** Guiding the AI to use an "array-based level data structure" rather than a hardcoded single stage creates a data-driven foundation, allowing developers to add infinite levels with ease.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Using a basic "Make a golf game" prompt)
 
 ```text
-공이 벽에 부딪히면 캔버스 밖으로 영원히 사라지거나, 마우스 클릭 이벤트 처리가 꼬여 공이 무한대로 가속하는 버그가 발생함. 바닥 마찰력 개념이 없어 공이 영원히 멈추지 않고 굴러다님.
+When the ball hits a wall, it permanently disappears off the canvas. Tangled mouse click event listeners cause the ball to accelerate infinitely. Because the concept of ground friction is missing, the ball rolls around forever without stopping.
 ```
 
-### ✅ After (Pro Version 적용 후 생성된 물리 로직 예시)
+### ✅ After (Physics logic generated via the Pro Version)
 
 ```javascript
 // Generated by Claude Code
 update() {
-  this.velocity.x *= 0.98; // 마찰력: 잔디의 저항을 시뮬레이션하여 서서히 감속
+  this.velocity.x *= 0.98; // Friction: Simulating grass resistance to gradually slow down
   this.velocity.y *= 0.98;
 
   this.x += this.velocity.x;
   this.y += this.velocity.y;
 
-  // 캔버스 벽면 충돌 처리 (자연스러운 바운스)
+  // Canvas wall collision handling (natural bounce effect)
   if (this.x < 0 || this.x > canvas.width) {
-    this.velocity.x *= -1; // 방향 반전
+    this.velocity.x *= -1; // Reverse direction
   }
   if (this.y < 0 || this.y > canvas.height) {
     this.velocity.y *= -1;
@@ -128,14 +128,14 @@ update() {
 }
 ```
 
-_결과: Claude Code는 시간이 지남에 따라 속도를 줄이는 댐핑(Damping) 수학 개념을 정확히 적용해 '골프장 잔디의 마찰력'을 완벽하게 구현해 냈습니다._
+_Result: Claude Code perfectly implemented the 'friction of golf course grass' by accurately applying mathematical damping concepts to reduce velocity over time._
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-과거라면 복잡한 이벤트 리스너 관리와 벡터 수학을 공부하느라 며칠이 걸렸을 2D 골프 게임을 단 1시간 만에 완성했습니다. AI가 작성해 준 코드는 깔끔하게 모듈화되어 있었고, 당장 실무에 써도 손색없는 아키텍처를 갖추고 있었습니다.
+In the past, building a 2D golf game would have taken days of studying event listener management and vector math. Today, I completed it in under an hour. The code generated by the AI was cleanly modularized and boasted a production-ready architecture.
 
-게임 개발의 가장 큰 진입장벽이었던 '수학과 보일러플레이트 코드'를 AI가 훌륭하게 추상화해 주면서, 이제 개발자는 '어떤 장애물을 놓아야 재미있을까?' 같은 기획과 창의성이라는 본질에 더욱 집중할 수 있게 되었습니다.
+By brilliantly abstracting away the biggest barriers to game development—math and boilerplate code—AI empowers developers to focus on what truly matters: design and creativity. You can now spend your time asking, "What obstacles would make this fun?"
 
-이 코드를 바탕으로 바람(Wind) 저항 메커니즘을 추가하거나, 모바일 환경을 위한 터치 이벤트를 지원하도록 계속 확장해 보세요. 아이디어만 있다면 지금 바로 에디터를 열고 AI 파트너와 함께 첫 게임을 만들어 보시길 바랍니다. 이제 즐겁게 코딩할 시간입니다! ⛳️
+Build upon this code by adding wind resistance mechanics or extending it to support touch events for mobile devices. If you have an idea, open your editor right now and start building your first game with your AI partner. Happy coding! ⛳️

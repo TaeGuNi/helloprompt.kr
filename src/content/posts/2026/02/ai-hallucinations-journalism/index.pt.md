@@ -5,132 +5,132 @@ date: 2026-02-15
 tags: ["AI", "Ethics", "Journalism", "Fake News"]
 ---
 
-# 📝 AI 발작(Hallucination) 완벽 차단: 저널리스트를 위한 팩트 체크 프롬프트
+# 📝 Bloqueio Total de Alucinações de IA: Prompt de Fact-Checking para Jornalistas
 
-- **🎯 추천 대상:** 기자, 콘텐츠 에디터, 뉴스레터 발행인
-- **⏱️ 소요 시간:** 1시간(직접 교열) → 3분(AI 검증)
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (분석력과 지시 이행력이 뛰어난 모델 추천)
+- **🎯 Público-alvo:** Jornalistas, Editores de Conteúdo, Autores de Newsletters
+- **⏱️ Tempo Necessário:** 1 hora (revisão manual) → 3 minutos (verificação por IA)
+- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet, GPT-4o (Recomendados pela alta capacidade de análise e obediência a instruções)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐⭐⭐☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"내 기사에 들어간 인터뷰 인용구가 AI가 지어낸 가짜라면? 당신의 커리어를 지켜줄 완벽한 방패가 필요합니다."_
+> _"E se a citação na sua matéria for uma invenção da IA? Você precisa de um escudo impenetrável para proteger sua credibilidade e sua carreira."_
 
-최근 글로벌 IT 매체 Ars Technica는 기사에 포함된 소프트웨어 메인테이너의 인용구가 AI가 지어낸 '환각(Hallucination)'임을 뒤늦게 발견하고 기사를 전격 철회했습니다. 뉴스룸에 LLM(거대 언어 모델)이 적극적으로 도입되면서, AI의 그럴싸한 거짓말은 이제 단순한 해프닝을 넘어 언론사의 신뢰도와 직결되는 치명적인 리스크가 되었습니다.
+Recentemente, o renomado portal de tecnologia Ars Technica precisou retirar do ar uma matéria inteira após descobrir que citações atribuídas a um mantenedor de software eram, na verdade, 'alucinações' geradas por IA. Com a adoção massiva de LLMs (Grandes Modelos de Linguagem) nas redações, as mentiras convincentes da IA deixaram de ser apenas um erro inofensivo para se tornarem um risco fatal à credibilidade jornalística.
 
-이 글에서는 AI가 임의로 정보를 창작하는 것을 원천 차단하고, 제공된 **원문 데이터(Source)** 내에서만 안전하게 기사 초안을 작성 및 팩트 체크하는 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **치명적인 AI 환각:** AI는 모르는 정보도 그럴듯한 문장과 인용구로 지어내는 치명적인 습성이 있습니다.
-2. **원문(Source) 절대주의:** AI에게 외부 지식을 차단하고, 오직 '제공된 텍스트'만을 근거로 삼도록 강제해야 합니다.
-3. **교차 검증 자동화:** 작성된 기사 초안과 원본 인터뷰 스크립트를 대조하여, 출처가 불분명한 문장을 찾아내는 프롬프트를 활용하세요.
+Neste artigo, apresentamos um prompt definitivo para bloquear completamente a criação arbitrária de informações pela IA. Ele força o modelo a redigir rascunhos e realizar fact-checking de forma segura, baseando-se estritamente nos **dados originais fornecidos (Source)**.
 
 ---
 
-## 🚀 해결책: "무결성 팩트 체커 (Integrity Fact-Checker)"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Alucinações Fatais:** A IA tem o hábito perigoso de inventar frases e citações convincentes para preencher lacunas de informações que desconhece.
+2. **Autoridade Absoluta da Fonte:** É vital proibir que a IA utilize conhecimentos externos, forçando-a a fundamentar-se exclusivamente no texto fornecido.
+3. **Automação do Cruzamento de Dados:** Utilize este prompt para confrontar o rascunho da matéria com a transcrição original, detectando instantaneamente qualquer frase sem origem comprovada.
 
-빠르게 기사 초안의 거짓 정보 포함 여부를 검토할 때 사용하세요.
+---
 
-> **역할:** 너는 까다로운 '수석 팩트 체커(Chief Fact-Checker)'야.
-> **요청:** 아래 `[기사 초안]`과 `[원본 인터뷰 데이터]`를 비교해서, 원본에 없는 내용을 기자가 임의로 추가했거나 인용구를 왜곡한 부분이 있다면 모두 찾아내 줘. 조금이라도 과장된 표현이 있다면 지적해 줘.
+## 🚀 A Solução: "Integrity Fact-Checker"
+
+### 🥉 Versão Basic (Essencial)
+
+Ideal para uma revisão rápida e detecção de informações falsas no rascunho da matéria.
+
+> **Role:** Você é um 'Chefe de Fact-Checking' rigoroso e implacável.
+> **Task:** Compare o `[Rascunho da Matéria]` com os `[Dados Originais da Entrevista]` abaixo. Identifique qualquer conteúdo adicionado arbitrariamente pelo repórter que não conste na fonte original, bem como qualquer distorção em citações. Aponte imediatamente qualquer expressão exagerada ou sem embasamento.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versão Pro (Especialista)
 
-기사 작성 단계부터 AI의 창작을 완벽하게 통제하고, 신뢰할 수 있는 초안을 생성할 때 사용하세요.
+Utilize na fase de redação para assumir o controle total sobre a criatividade da IA e gerar um rascunho 100% confiável.
 
-> **역할 (Role):** 너는 퓰리처상을 수상한 경력이 있는 탐사 보도 저널리스트이자, 팩트 체크에 극도로 집착하는 '편집장(Editor-in-Chief)'이야.
+> **Role (Papel):** Você é um jornalista investigativo vencedor do Prêmio Pulitzer e um 'Editor-Chefe' obcecado de forma doentia por fact-checking.
 >
-> **상황 (Context):**
+> **Context (Contexto):**
 >
-> - 배경: 최근 다른 매체에서 AI가 지어낸 가짜 인터뷰 인용구를 기사에 넣어 큰 논란이 되었어.
-> - 목표: 우리는 제공된 `[취재 원문]` 데이터만을 활용하여, 100% 사실에 기반한 `[기사 초안]`을 작성해야 해.
+> - Cenário: Recentemente, um grande portal de notícias enfrentou uma crise de credibilidade ao publicar citações falsas inventadas por uma IA.
+> - Objetivo: Precisamos redigir um `[Rascunho da Matéria]` baseado 100% em fatos reais, utilizando exclusivamente os dados da `[Fonte Original]` fornecida.
 >
-> **요청 (Task):**
+> **Task (Tarefa):**
 >
-> 1. 아래 제공된 `[취재 원문]`을 바탕으로 독자가 읽기 쉬운 기사 초안을 작성해.
-> 2. 기사 내에 들어가는 모든 '인용구(" ")'는 반드시 `[취재 원문]`에 있는 워딩을 토씨 하나 틀리지 않고 그대로 사용해야 해.
-> 3. 원문에 없는 내용은 절대 너의 사전 지식으로 보충하지 마. 정보가 부족하면 "해당 내용은 원문에서 확인할 수 없습니다"라고 주석을 달아.
-> 4. `[기사 초안]` 작성 후, 사용된 주요 팩트와 인용구가 원문의 어느 단락에서 발췌되었는지 <출처 검증표>를 마크다운 목록(List)으로 정리해 줘.
+> 1. Redija um rascunho de matéria claro e envolvente para os leitores, baseando-se rigorosamente na `[Fonte Original]` abaixo.
+> 2. Todas as citações (" ") incluídas na matéria devem usar as palavras exatas da `[Fonte Original]`, sem alterar uma única vírgula.
+> 3. Nunca complemente o texto com o seu conhecimento prévio. Se faltar alguma informação, insira a nota: "[Esta informação não pôde ser verificada na fonte original]".
+> 4. Após redigir o `[Rascunho da Matéria]`, crie uma <Tabela de Verificação de Fontes> em formato de lista Markdown, indicando de qual parágrafo da fonte original foram extraídos os fatos e citações principais.
 >
-> **제약사항 (Constraints):**
+> **Constraints (Restrições):**
 >
-> - 외부 인터넷 검색이나 너의 내부 지식(Knowledge Base) 사용을 엄격히 금지함.
-> - 문맥을 부드럽게 만들기 위한 약간의 어미 수정은 허용하나, 사실 관계의 뉘앙스를 바꾸는 윤문은 절대 금지함.
+> - É terminantemente proibido o uso de buscas na internet ou da sua base de conhecimento interna.
+> - Pequenos ajustes de concordância são permitidos para fluidez, mas qualquer alteração que modifique a nuance dos fatos é estritamente proibida.
 >
-> **주의사항 (Warning):**
+> **Warning (Aviso):**
 >
-> - 만약 원문에 없는 가짜 인용구를 하나라도 생성한다면, 우리 뉴스룸은 심각한 법적 책임을 지게 돼. 명심해!
+> - Se você inventar uma única citação falsa que não esteja no texto original, nossa redação enfrentará processos judiciais gravíssimos. Tenha isso em mente!
 >
-> **입력 데이터 (Input):**
+> **Input (Dados de Entrada):**
 >
-> - `[취재 원문]`: (여기에 인터뷰 녹취록, 보도자료, 공식 문서 등을 붙여넣으세요)
+> - `[Fonte Original]`: (Cole aqui a transcrição da entrevista, press release, documento oficial, etc.)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 프롬프트의 핵심은 AI를 똑똑한 '창작자'가 아닌 융통성 없는 '번역기 및 요약기'로 강등시키는 데 있습니다. 제 경험상 AI에게 단순히 "기사를 써줘"라고 지시하면 높은 확률로 문맥을 매끄럽게 만들기 위해 가상의 인물이나 인용구를 지어냅니다. (이것이 바로 이번 Ars Technica 사태의 원인입니다.)
+O grande segredo deste prompt é rebaixar a IA da posição de "criadora brilhante" para a de um "tradutor e resumidor" extremamente engessado. Na minha experiência, se você simplesmente pedir "Escreva uma matéria", a IA tem uma tendência enorme de inventar personagens fictícios ou citações genéricas para tornar a leitura mais fluida (exatamente o que causou o desastre no Ars Technica).
 
-따라서 **제약사항(Constraints)**과 **주의사항(Warning)**에 "원문 외 지식 사용 금지", "법적 책임 경고"와 같은 강력한 심리적 안전장치를 걸어두는 것이 필수적입니다. 이 프롬프트를 데스크탑의 메모장이나 사내 스니펫 도구에 저장해 두고, 기사 송고 전 팩트 체크 단계에서 반드시 활용해 보시길 강력히 권장합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AI 모델마다 팩트 체크 성능 차이가 있나요?**
-  - A: 네, 매우 큽니다. 창의성이 뛰어난 모델(예: 일반적인 GPT-4)보다는, 분석 및 지시 이행 능력이 압도적인 **Claude 3.5 Sonnet** 계열이 텍스트 교차 검증과 팩트 체크 작업에 훨씬 더 유리하고 안전합니다.
-
-- **Q: 인터뷰 녹취록 등 취재 원문이 너무 길면 어떻게 하나요?**
-  - A: 최신 모델들은 한 번에 수만 단어 이상(예: Claude 3.5의 경우 200k 토큰)을 거뜬히 처리할 수 있습니다. 웬만한 1~2시간 분량의 텍스트 스크립트는 원문 전체를 통째로 복사해서 붙여넣어도 누락 없이 처리 가능합니다.
+Por isso, o uso de gatilhos psicológicos fortes nas seções de **Constraints (Restrições)** e **Warning (Aviso)** — como "proibido o uso de conhecimento externo" e "processos judiciais gravíssimos" — atua como uma trava de segurança essencial. Recomendo fortemente que você salve este prompt no seu bloco de notas ou na ferramenta de snippets da redação e o aplique religiosamente na etapa de fact-checking antes de publicar qualquer conteúdo.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1.  **Strict Context Bounding (엄격한 컨텍스트 제한):** `[취재 원문]`이라는 명확한 정보의 울타리를 치고, AI가 그 밖의 사전 학습 데이터에 접근하는 것을 시스템적으로 차단했습니다.
-2.  **Self-Verification (자체 검증 메커니즘):** <출처 검증표> 작성을 강제하여, AI 스스로 자신이 출력한 글의 근거를 역추적하고 환각(Hallucination)을 자가 수정하도록 유도했습니다.
-3.  **High-Stakes Warning (고위험 경고):** "법적 책임"이라는 강력한 키워드를 부여함으로써, 모델 내부에 설정된 안전 필터(Safety Alignment)를 강하게 자극해 최대한 보수적이고 안전한 결과물을 생성하게 만들었습니다.
+- **Q: Existe diferença na capacidade de fact-checking entre os modelos de IA?**
+  - A: Sim, a diferença é brutal. Modelos altamente criativos (como as versões padrão do GPT-4) são mais arriscados. Modelos com capacidade analítica superior e estrita obediência a instruções, como a família **Claude 3.5 Sonnet**, são infinitamente mais seguros e precisos para o cruzamento de dados e verificação de fatos.
+
+- **Q: O que faço se a transcrição da entrevista (Fonte Original) for longa demais?**
+  - A: Os modelos de ponta atuais conseguem processar dezenas de milhares de palavras de uma só vez (o Claude 3.5, por exemplo, suporta até 200k tokens). Você pode simplesmente copiar e colar a transcrição inteira de uma entrevista de 1 ou 2 horas, e a IA processará o documento completo sem perder nenhuma informação.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (일반적인 요청)
+1.  **Limitação Estrita de Contexto (Strict Context Bounding):** Ao criar a cerca delimitadora chamada `[Fonte Original]`, nós bloqueamos sistemicamente o acesso da IA aos seus dados de treinamento prévios.
+2.  **Mecanismo de Autoverificação (Self-Verification):** Forçar a criação da <Tabela de Verificação de Fontes> obriga a IA a fazer uma engenharia reversa do próprio texto, incentivando-a a corrigir alucinações (Hallucinations) antes de entregar o resultado.
+3.  **Aviso de Alto Risco (High-Stakes Warning):** A inclusão de palavras-chave de peso, como "processos judiciais", aciona os filtros de segurança e alinhamento (Safety Alignment) internos do modelo, forçando-o a adotar uma postura extremamente conservadora e segura.
+
+---
+
+## 📊 Prova: Antes e Depois
+
+### ❌ Antes (Comando Comum)
 
 ```text
-Prompt: 이 짧은 인터뷰 메모를 바탕으로 기사를 작성해 줘.
+Prompt: Escreva uma matéria baseada nestas breves anotações de entrevista.
 
-(AI의 답변)
-...소프트웨어 메인테이너인 존 도(John Doe)는 "이번 업데이트는 혁명적이며, 모든 보안 취약점을 완벽히 해결했습니다."라고 강조했습니다.
+(Resposta da IA)
+...John Doe, o mantenedor do software, enfatizou: "Esta atualização é revolucionária e resolveu perfeitamente todas as vulnerabilidades de segurança."
 ```
 
-_(결과: 실제 인터뷰 메모에는 '혁명적'이나 '완벽히 해결'이라는 단어가 전혀 없었음. 맥락을 꾸미기 위한 전형적인 AI 환각 발생)_
+_(Resultado: A anotação real da entrevista não continha palavras como "revolucionária" ou "resolveu perfeitamente". Uma clássica alucinação da IA para enfeitar o texto.)_
 
-### ✅ After (Pro Version 프롬프트 적용)
+### ✅ Depois (Aplicando a Versão Pro)
 
 ```text
-(AI의 답변)
-...기사 초안 작성을 완료했습니다.
+(Resposta da IA)
+...Rascunho da matéria concluído.
 
-<출처 검증표>
-- **"보안 패치가 적용되었습니다."** (출처: 원문 3단락 - "어제 서버에 보안 패치를 모두 적용한 상태입니다.")
-- ⚠️ **[주의] 혁신적인 변화에 대한 내용** (해당 내용은 원문에서 확인할 수 없어 초안 작성 시 배제했습니다.)
+<Tabela de Verificação de Fontes>
+- **"Os patches de segurança foram aplicados."** (Fonte: Parágrafo 3 - "Aplicamos todos os patches de segurança no servidor ontem.")
+- ⚠️ **[Aviso] Menção a mudanças revolucionárias** (Esta informação não foi encontrada na fonte original, portanto, foi excluída do rascunho.)
 ```
 
-_(결과: 지어낸 가짜 인용구를 스스로 사전에 차단하고, 100% 원문에 입각한 팩트만으로 안전하게 기사를 구성함)_
+_(Resultado: A IA detectou e bloqueou proativamente citações falsas, construindo uma matéria segura baseada 100% nos fatos fornecidos na fonte original.)_
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-AI는 뉴스룸의 생산성을 극대화할 수 있는 훌륭한 '조수'이지만, 기사의 진실성을 책임질 수 있는 '데스크'는 아닙니다. 최종 발행 버튼을 누르기 전, 원문에 기반한 교차 검증은 이제 선택이 아닌 생존의 필수 조건입니다.
+A IA é um "assistente" fenomenal para multiplicar a produtividade em qualquer redação, mas ela não é o "editor" responsável por garantir a veracidade dos fatos. Antes de apertar o botão de publicar, o cruzamento rigoroso de informações com a fonte original não é mais uma opção — é uma condição de sobrevivência.
 
-무결성 팩트 체커 프롬프트로 AI의 그럴싸한 거짓말로부터 여러분의 커리어와 매체의 신뢰도를 안전하게 지켜내세요! 🍷
+Utilize o Integrity Fact-Checker para blindar a sua carreira e a credibilidade do seu veículo contra as mentiras convincentes da IA! 🍷

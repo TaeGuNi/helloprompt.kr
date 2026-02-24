@@ -5,123 +5,121 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "변기 뚫기부터 전등 교체, 실리콘 쏘기까지. 똥손도 가능한 셀프 수리 프롬프트로 출장비 10만원을 아끼세요."
+description: "Du débouchage de toilettes au remplacement d'ampoules. Économisez sur vos frais de réparation grâce à des prompts de bricolage assistés par l'IA, accessibles même aux grands débutants."
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 
-# 🛠️ 출장비 아끼는 AI 집수리 가이드 (초보자용)
+# 🛠️ Guide de réparation à domicile assisté par l'IA : Économisez vos frais de déplacement (Pour débutants)
 
-- **🎯 추천 대상:** 자취생, 신혼부부, 전구 교체조차 두려운 초보자, 불필요한 출장비를 아끼고 싶은 직장인
-- **⏱️ 소요 시간:** 진단 5분 + 작업 시간 → 출장 기사 대기 시간 1일 단축
-- **🤖 추천 모델:** 모든 대화형 AI (GPT-4o, Gemini 1.5 Pro 등, **이미지 인식 필수**)
+- **🎯 Recommandé pour :** Étudiants, jeunes mariés, grands débutants terrifiés à l'idée de changer une ampoule, ou toute personne souhaitant éviter des frais d'intervention inutiles.
+- **⏱️ Temps requis :** 5 minutes de diagnostic + temps de réparation → Économise 1 jour d'attente pour un technicien.
+- **🤖 Modèles recommandés :** Toute IA conversationnelle (GPT-4o, Gemini 1.5 Pro, etc., **Reconnaissance d'image indispensable**).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐☆☆
+- ⭐ **Difficulté :** ⭐⭐☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐☆☆
 
-> _"사람 부르면 기본 출장비만 5만 원, 부품값은 부르는 게 값? 이제 눈탱이 맞지 말고 AI에게 먼저 물어보세요."_
+> _"Faire appel à un professionnel coûte cher, rien qu'en frais de déplacement. Ne vous faites plus avoir et demandez d'abord l'avis de votre IA."_
 
-막상 셀프 수리를 하려고 유튜브를 켜면 너무 전문가용 장비를 쓴 영상만 가득하고, 블로그는 업체 광고로 도배되어 있습니다. 내 집 상황에 딱 맞는 맞춤형 수리법이 필요하신가요? 사진 한 장으로 AI에게 정확한 진단과 1:1 안전 코칭을 받는 방법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **사진 한 장으로 정확한 진단:** 복잡하게 설명할 필요 없이 고장 난 부위의 사진을 찍어 올리면 AI가 즉시 원인을 파악합니다.
-2. **다이소/철물점 맞춤형 쇼핑 리스트:** 내 주변에서 쉽게 구할 수 있는 부품의 정확한 명칭과 규격을 알려줍니다.
-3. **철저한 안전사고 예방:** 작업 전 반드시 차단해야 할 밸브나 차단기 위치를 알려주며, 위험한 작업은 전문가를 부르도록 선을 그어줍니다.
+Lorsqu'on cherche des tutoriels de bricolage sur YouTube, on tombe souvent sur des vidéos utilisant du matériel de professionnel, ou sur des blogs inondés de publicités. Vous avez besoin d'une solution sur-mesure, parfaitement adaptée à la configuration de votre domicile ? Voici comment obtenir un diagnostic précis et un coaching de sécurité personnalisé grâce à l'IA, à partir d'une simple photo.
 
 ---
 
-## 🚀 해결책: "AI 맥가이버 프롬프트"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Diagnostic précis avec une seule photo :** Inutile de vous perdre en explications techniques. Prenez simplement une photo de la zone défectueuse et l'IA identifiera immédiatement la source du problème.
+2. **Liste de courses sur-mesure (Quincaillerie / Magasin de bricolage) :** Obtenez les noms exacts et les références des pièces dont vous avez besoin, facilement trouvables dans les commerces de proximité.
+3. **Prévention absolue des accidents :** L'IA vous indique précisément quelles vannes ou quels disjoncteurs couper avant de commencer. Pour les tâches trop dangereuses, elle saura tracer la ligne et vous recommander l'intervention d'un expert.
 
-간단한 고장 원인을 파악하거나 유지보수 팁을 얻고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 30년 경력의 베테랑 `[설비/전기/인테리어]` 전문가야.
-> **요청:** 우리 집 `[고장 난 곳 또는 기기명]`에 문제가 생겼어. 증상은 `[구체적인 증상 설명]`이야. 원인이 무엇인지, 사람을 부르지 않고 혼자서 해결할 수 있는 단계별 방법 3가지를 쉬운 순서대로 알려줘. 필요하다면 다이소나 근처 철물점에서 살 수 있는 도구도 추천해 줘.
+## 🚀 La Solution : Le Prompt "IA MacGyver"
+
+### 🥉 Version Basique (Basic Version)
+
+À utiliser pour obtenir rapidement la cause d'une panne ou des astuces d'entretien.
+
+> **Rôle :** Tu es un artisan vétéran avec 30 ans d'expérience en `[Plomberie / Électricité / Aménagement intérieur]`.
+> **Tâche :** J'ai un problème avec mon/ma `[Lieu ou nom de l'appareil défectueux]` à la maison. Les symptômes sont les suivants : `[Description détaillée du problème]`. Explique-moi la cause probable et donne-moi 3 méthodes de résolution, de la plus simple à la plus complexe, que je peux réaliser moi-même sans faire appel à un professionnel. Si nécessaire, recommande-moi des outils basiques que je peux acheter dans une quincaillerie de quartier.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro (Pro Version)
 
-가장 강력한 기능입니다. 파손 부위, 누수 위치, 복잡한 배선 사진을 직접 찍어서 업로드한 뒤 질문하세요.
+La fonctionnalité la plus puissante. Prenez une photo de la pièce cassée, de la fuite ou du câblage complexe, téléchargez-la et posez votre question.
 
-> **역할 (Role):** 너는 친절하고 꼼꼼한 '홈 케어 마스터'야. 초보자도 완벽하게 이해하고 따라 할 수 있도록 전문 용어를 배제하고 아주 쉽게 설명해야 해.
+> **Rôle (Role) :** Tu es un 'Maître du Bricolage à Domicile', patient et méticuleux. Tu dois expliquer les choses de manière très simple, sans jargon technique, pour qu'un grand débutant puisse comprendre et suivre tes instructions à la lettre.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
+> - Objectif : Je veux réparer moi-même ce qui est visible sur la photo.
+> - Équipement disponible : `[Outils en votre possession, ex : perceuse sans fil, clé à molette, etc.]`
+> - Pièce jointe : `[Uploader la photo de la zone à réparer]`
 >
-> - 목표: 사진에 보이는 상태를 스스로 수리하고 싶어.
-> - 보유 장비: `[현재 가지고 있는 공구, 예: 전동 드릴, 몽키스패너 등]`
-> - 첨부 파일: `[수리할 부위의 사진 업로드]`
+> **Tâche (Task) :**
+> 1. **Évaluation des risques (Safety First) :** Précise s'il y a un disjoncteur (tableau électrique) ou une vanne d'eau à couper impérativement avant de commencer. S'il y a un risque important d'électrocution, d'inondation ou d'accident, sois catégorique et avertis-moi : "Faites appel à un professionnel pour cette intervention."
+> 2. **Liste de courses :** Prépare une liste avec les noms exacts et les dimensions des pièces nécessaires, que je peux directement montrer à un vendeur en quincaillerie ou en magasin de bricolage. (Ex : "Cartouche de mitigeur 35mm")
+> 3. **Guide Étape par Étape (Step-by-Step) :** Détaille l'ordre des opérations en les numérotant du début à la fin. Ajoute obligatoirement des 'astuces clés' à surveiller pour chaque étape.
+> 4. **Prévention des erreurs :** Indique quelles sont les erreurs fatales que les débutants commettent le plus souvent lors de cette opération précise.
 >
-> **요청 (Task):**
->
-> 1. **위험성 평가 (Safety First):** 작업 전 반드시 꺼야 할 두꺼비집(차단기)이나 수도 밸브가 있는지 명시해. 감전이나 누수 등 큰 사고 위험이 있다면 단호하게 "이건 전문가를 부르세요"라고 경고해 줘.
-> 2. **쇼핑 리스트:** 철물점이나 다이소 직원에게 보여주면 바로 살 수 있게, 부품의 정확한 명칭과 규격을 정리해 줘. (예: "35mm 수전 카트리지")
-> 3. **Step-by-Step 가이드:** 1번부터 끝까지 작업 순서를 번호로 매겨서 설명해. 각 단계에서 주의해야 할 '핵심 꿀팁'도 반드시 추가해 줘.
-> 4. **실수 방지:** 이 작업을 할 때 초보자들이 가장 많이 저지르는 치명적인 실수가 무엇인지 짚어줘.
->
-> **제약사항 (Constraints):**
->
-> - 전문 용어(예: 플랜지, 앵글밸브 등)를 사용할 수밖에 없다면, 반드시 괄호 안에 쉬운 일상어로 풀어서 설명할 것.
-> - 애매한 정보로 짐작해서 말하지 말고, 사진상으로 식별이 어렵다면 더 가까이서 찍은 사진을 요구할 것.
+> **Contraintes (Constraints) :**
+> - Si l'utilisation de termes techniques (ex : bride, vanne d'équerre, etc.) est inévitable, explique-les toujours entre parenthèses avec des mots de tous les jours.
+> - Ne fais pas de suppositions basées sur des informations vagues. Si la photo n'est pas assez claire, demande-moi de prendre une photo de plus près.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Le point de vue de l'auteur (Insight)
 
-이 프롬프트의 진가는 **'사진 분석'과 '위험도 판별'**에 있습니다. 저 역시 이 방식으로 싱크대 수전 교체를 직접 해냈습니다. 기존 수전 사진을 올리니 AI가 "이건 원홀 수전이네요. 아래쪽 육각 너트가 녹슬어 안 풀릴 수 있으니 WD-40을 먼저 뿌리고 10분 뒤에 작업하세요"라고 알려주더군요.
-유튜브 영상은 내 집의 배관 구조와 다를 때가 많아 헷갈리지만, AI는 **내 사진 속 상황**에 맞춰 정확히 가이드합니다. 무엇보다 AI가 "이 부분은 메인 배관을 건드려야 하니 직접 하지 마세요"라고 선을 그어줄 때 과감히 포기하고 전문가를 부르는 것이, 오히려 더 큰 수리비를 막고 돈을 버는 가장 지혜로운 방법입니다.
+La véritable puissance de ce prompt réside dans **l'analyse visuelle** et **l'évaluation des risques**. J'ai personnellement réussi à remplacer le mitigeur de mon évier grâce à cette méthode. En uploadant une photo de l'ancien mitigeur, l'IA m'a conseillé : "Il s'agit d'un mitigeur monotrou. L'écrou hexagonal en dessous risque d'être rouillé et difficile à dévisser. Vaporisez d'abord du WD-40 et attendez 10 minutes avant de forcer."
 
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 전등 교체나 콘센트 수리 같은 전기 작업도 물어봐도 되나요?**
-  - A: 네, 가능합니다! 천장의 배선 사진을 찍어 올리면, 어떤 색 전선을 어디에 연결해야 하는지(활선, 중성선, 접지선 등) 정확하게 알려줍니다. **단, 작업 전 반드시 메인 차단기(두꺼비집)를 내리고 작업해야 한다는 점을 잊지 마세요.**
-
-- **Q: 사진을 여러 장 올려도 분석이 잘 되나요?**
-  - A: 전체적인 구조가 보이는 사진 1장과, 고장 난 부위를 확대한 근접 사진 1~2장을 함께 올리면 훨씬 더 정교하고 정확한 진단을 받을 수 있습니다.
-
-- **Q: 다이소 제품 이름까지 정확히 알려주나요?**
-  - A: 네, 최신 모델의 경우 다이소에서 판매하는 '보수용 실리콘', '배수구 클리너' 등의 일반적인 품명과 대체 가능한 철물점 도구까지 상세히 안내해 줍니다.
+Les vidéos YouTube sont souvent déroutantes car elles montrent des installations différentes des vôtres. L'IA, en revanche, s'adapte **exactement à la situation présente sur votre photo**. Plus important encore, lorsque l'IA vous dit : "Cette partie touche à la tuyauterie principale, ne le faites pas vous-même", savoir renoncer et appeler un professionnel est la décision la plus sage pour éviter d'aggraver la situation et de payer des réparations exorbitantes.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire Aux Questions (FAQ)
 
-1.  **Safety First (안전 최우선):** 셀프 수리의 가장 큰 리스크인 '사고'를 방지하기 위해, 위험성을 먼저 평가하도록 강제했습니다.
-2.  **맞춤형 쇼핑 리스트:** 초보자가 가장 막막해하는 '부품 구매' 단계의 허들을 낮춰, 정확한 명칭으로 실패 없이 재료를 준비할 수 있게 합니다.
-3.  **보유 장비 고려:** 현재 내가 가진 공구 안에서 가능한 방법을 제시하도록 Context를 부여하여, 배보다 배꼽이 더 커지는 상황(수리비보다 공구값이 더 나오는 상황)을 막습니다.
+- **Q : Puis-je aussi poser des questions sur des travaux électriques, comme changer une ampoule ou réparer une prise ?**
+  - R : Oui, absolument ! Si vous prenez une photo des câbles au plafond, l'IA vous indiquera précisément quel fil de couleur brancher à quel endroit (phase, neutre, terre, etc.). **Cependant, n'oubliez jamais de couper le disjoncteur principal avant toute intervention électrique.**
+
+- **Q : L'analyse est-elle meilleure si j'uploade plusieurs photos ?**
+  - R : Oui. En fournissant une photo montrant la structure globale et 1 ou 2 photos en gros plan de la pièce défectueuse, vous obtiendrez un diagnostic beaucoup plus fin et précis.
+
+- **Q : L'IA peut-elle donner les noms exacts des produits vendus dans les magasins de proximité ?**
+  - R : Oui, les modèles récents peuvent vous orienter vers des produits standards comme du "silicone de réparation" ou du "déboucheur de canalisation", ainsi que vers des alternatives disponibles en quincaillerie.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Décryptage du Prompt (Why it works?)
 
-### ❌ Before (무작정 시도)
+1. **Safety First (La sécurité avant tout) :** Pour prévenir le risque majeur du bricolage – l'accident –, nous avons forcé l'IA à évaluer les dangers en priorité.
+2. **Liste de courses personnalisée :** Cela abaisse la barrière de l'étape "achat de matériel", souvent intimidante pour les débutants, en garantissant l'achat des bonnes pièces grâce à des références précises.
+3. **Prise en compte de votre équipement :** En donnant le contexte des outils dont vous disposez, l'IA vous propose des solutions réalisables sans que vous n'ayez à acheter de nouveaux outils plus chers que la réparation elle-même.
+
+---
+
+## 📊 Preuve à l'appui : Avant / Après
+
+### ❌ Avant (La méthode à l'aveugle)
 
 ```text
-유튜브만 보고 호기롭게 시작. "일단 몽키스패너로 나사부터 풀면 되겠지? 어... 이거 왜 물이 솟구쳐? 밸브 안 잠갔나? 으악!"
-(거실이 물바다가 되고, 결국 야간 출장 수리 기사님을 불러 15만 원을 지출함)
+Vous vous lancez avec courage après avoir regardé une vidéo YouTube. "Bon, je n'ai qu'à dévisser ça avec ma clé à molette... Euh, pourquoi l'eau gicle partout ? Je n'ai pas coupé l'eau ? Aaah !"
+(Le salon est inondé, et vous finissez par appeler un plombier en urgence de nuit pour 150 euros.)
 ```
 
-### ✅ After (AI 가이드 준수)
+### ✅ Après (Avec le guide de l'IA)
 
 ```text
-AI의 지시대로 안전하게 작업 진행:
-"1단계: 현관 밖 양수기함 밸브를 먼저 꽉 잠그세요.
-2단계: 배관에 남은 잔수를 빼고, 스패너를 반시계 방향으로 돌리세요.
-3단계: 연결 부위에 테프론 테이프를 나사산 방향으로 15바퀴 감으세요. (반대로 감으면 누수됩니다!)"
-👉 1시간 만에 안전하고 깔끔하게 교체 완료. 누수 제로, 출장비 10만 원 세이브.
+Le travail se déroule en toute sécurité selon les instructions de l'IA :
+"Étape 1 : Coupez fermement la vanne d'arrivée d'eau principale située à l'extérieur.
+Étape 2 : Purgez l'eau restante dans les tuyaux, puis tournez la clé dans le sens inverse des aiguilles d'une montre.
+Étape 3 : Enroulez le ruban téflon 15 fois dans le sens du filetage sur la zone de raccordement. (Si vous l'enroulez dans l'autre sens, il y aura une fuite !)"
+👉 Remplacement effectué proprement et en toute sécurité en 1 heure. Zéro fuite, et 100 euros de frais de déplacement économisés.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-내 공간을 내 손으로 직접 고쳤을 때의 성취감은 생각보다 훨씬 큽니다. 거기에 덤으로 아낀 출장비 10만 원으로 오늘 저녁 맛있는 배달 음식까지 시켜 먹을 수 있죠.
-망가진 집기를 보며 막막해하지 말고, 일단 사진부터 한 장 찍어보세요. 든든한 AI 맥가이버가 언제든 당신의 질문을 기다리고 있습니다.
+Le sentiment d'accomplissement que l'on ressent en réparant son propre espace de ses mains est immense. Et en prime, avec les 100 euros économisés sur les frais de déplacement, vous pouvez vous offrir un excellent repas en livraison ce soir.
+Ne vous sentez plus démunis face à un équipement cassé : commencez par prendre une photo. Votre IA MacGyver de confiance est toujours prête à répondre à vos questions.
 
-무엇보다 첫째도 안전, 둘째도 안전입니다! 👷
+Mais n'oubliez pas : la sécurité d'abord, et toujours la sécurité ! 👷

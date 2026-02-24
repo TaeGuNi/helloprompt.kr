@@ -5,119 +5,120 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/인프라"
-description: "클라우드 비용이 줄줄 새고 있다면? 1분 만에 끝내는 AWS 비용 최적화 프롬프트."
+description: "¿Se está filtrando tu presupuesto en la nube? Prompt de optimización de costos de AWS en 1 minuto."
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 
-# 💸 AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트
+# 💸 Reduce los costos de AWS en un 50%: Checklist para evitar facturas sorpresa en EC2 y RDS
 
-- **🎯 추천 대상:** 월말마다 AWS 청구서 보고 기절하는 스타트업 대표, "서버비 왜 이렇게 많이 나와요?" 소리 듣는 개발자
-- **⏱️ 소요 시간:** 5분 (Cost Explorer 분석)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet
+- **🎯 Recomendado para:** CEOs de startups que se asustan cada fin de mes con la factura de AWS, y desarrolladores que siempre escuchan la pregunta "¿Por qué los costos del servidor son tan altos?".
+- **⏱️ Tiempo estimado:** 5 minutos (Análisis en Cost Explorer)
+- **🤖 Modelos recomendados:** ChatGPT-4o, Claude 3.5 Sonnet
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"t3.medium 인스턴스 10대... 이거 진짜 다 돌아가고 있는 거 맞나요?"_
+> _"10 instancias t3.medium... ¿De verdad necesitamos todas encendidas?"_
 
-클라우드의 무서운 점은 '쓴 만큼 내는 것'이 아니라, **'켜놓은 만큼 내는 것'**입니다. 복잡한 AWS Cost Explorer 대시보드에서 길을 잃을 필요 없습니다. AI에게 청구서 데이터와 현재 아키텍처를 던지고, **"어디서 피 같은 돈이 새고 있는지 정확히 짚어줘"**라고 지시하세요. 단 5분이면 월 수백만 원을 아낄 수 있는 최적의 FinOps 전략이 나옵니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AWS Cost Explorer에서 '월별 서비스별 비용' CSV 데이터를 추출합니다.
-2. AI에게 데이터와 현재 아키텍처 정보를 제공하고 "비효율적인 지출 내역"을 찾아내도록 지시합니다.
-3. 제안받은 Spot Instance, Auto Scaling, Savings Plan 도입 전략을 실무에 즉시 적용합니다.
+Lo más aterrador de la nube no es "pagar por lo que usas", sino **"pagar por lo que dejas encendido"**. No necesitas perderte en el complejo panel de AWS Cost Explorer. Solo dale a la IA los datos de facturación y tu arquitectura actual, y pídele: **"Señala exactamente dónde se está fugando nuestro valioso presupuesto"**. En solo 5 minutos, obtendrás una estrategia óptima de FinOps que puede ahorrarte miles de dólares al mes.
 
 ---
 
-## 🚀 해결책: "Cloud Cost Cutter" 프롬프트
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (좀비 리소스 색출)
+1. Extrae los datos CSV de 'Costos mensuales por servicio' desde AWS Cost Explorer.
+2. Proporciona los datos y la información de tu arquitectura actual a la IA, y pídele que identifique los "gastos ineficientes".
+3. Aplica inmediatamente las estrategias sugeridas de Spot Instances, Auto Scaling y Savings Plans en tu entorno de producción.
 
-어디서 요금이 새는지 감조차 잡히지 않을 때, 사용하지 않는 잉여 자원을 빠르게 찾습니다.
+---
 
-> **역할:** 너는 시니어 클라우드 아키텍트야.
-> **요청:** AWS 청구 내역을 보니 `[EBS Volume]` 비용이 비정상적으로 높게 나와. 연결되지 않은(Unattached) 볼륨이나 오래된 스냅샷, 할당해 놓고 쓰지 않는 Elastic IP를 모두 찾아내어 삭제할 수 있는 정확한 AWS CLI 명령어와 주의사항을 알려줘.
+## 🚀 Solución: Prompt "Cloud Cost Cutter"
+
+### 🥉 Basic Version (Caza de recursos zombis)
+
+Úsalo cuando no tengas idea de dónde se escapa el dinero y necesites identificar rápidamente recursos inactivos.
+
+> **Rol:** Eres un Arquitecto Cloud Senior.
+> **Tarea:** Revisando la facturación de AWS, el costo de `[EBS Volume]` es anormalmente alto. Identifica todos los volúmenes no adjuntos (Unattached), instantáneas (snapshots) antiguas y direcciones Elastic IP asignadas pero sin uso. Proporciona los comandos exactos de AWS CLI para eliminarlos de forma segura, junto con las precauciones necesarias.
 
 <br>
 
-### 🥇 Pro Version (스팟 인스턴스 & 아키텍처 최적화)
+### 🥇 Pro Version (Optimización de arquitectura e instancias Spot)
 
-구조적인 비용 절감과 자동화된 스케일링 전략이 필요할 때 사용하는 완벽한 프롬프트입니다.
+El prompt definitivo cuando necesitas una reducción de costos estructural y una estrategia de escalado automatizado.
 
-> **역할 (Role):** 너는 엔터프라이즈급 인프라를 다루는 수석 AWS FinOps 컨설턴트야.
+> **Rol (Role):** Eres un Consultor Principal de AWS FinOps especializado en infraestructuras empresariales.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - **현재 아키텍처:** EC2(On-Demand) x 5대 (상시 가동), RDS(MySQL) 1대.
-> - **트래픽 패턴:** 주간 업무 시간(09:00~18:00)에만 트래픽이 집중되며, 야간 및 주말에는 트래픽이 거의 발생하지 않음.
-> - **목표:** 현재 워크로드의 안정성을 유지하면서 인프라 비용을 최소 50% 이상 절감하는 것.
+> - **Arquitectura actual:** 5 instancias EC2 (On-Demand) en ejecución continua (24/7), 1 instancia RDS (MySQL).
+> - **Patrón de tráfico:** El tráfico se concentra exclusivamente durante el horario laboral (09:00~18:00). Casi no hay tráfico por la noche ni los fines de semana.
+> - **Objetivo:** Reducir los costos de infraestructura en al menos un 50% manteniendo la estabilidad de las cargas de trabajo actuales.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. **Spot Instance 도입 전략:** 현재 워크로드에서 스팟 인스턴스를 안전하게 활용해 비용을 70% 이상 줄일 수 있는 아키텍처를 제안해 줘. (중단 시 대비책 포함)
-> 2. **Auto Scaling 및 스케줄링:** 야간에는 서버를 최소한(1대)으로 줄이고 주말에는 개발 환경을 완전히 종료하는 구체적인 `ASG (Auto Scaling Group)` 설정 값과 `Instance Scheduler` 적용 방안을 제시해.
-> 3. **약정 할인 (Savings Plan / RI):** 1년 선결제 약정(Compute Savings Plan)을 적용했을 때와 현재의 온디맨드 방식을 비교하여, 예상 절감액을 마크다운 표(Table)로 정리해 줘.
+> 1. **Estrategia de Spot Instances:** Propón una arquitectura que utilice instancias Spot de forma segura para reducir los costos en más de un 70%, incluyendo planes de contingencia para interrupciones.
+> 2. **Auto Scaling y Programación:** Sugiere configuraciones específicas de `ASG (Auto Scaling Group)` e `Instance Scheduler` para reducir los servidores al mínimo (1 instancia) por la noche y apagar completamente el entorno de desarrollo los fines de semana.
+> 3. **Descuentos por compromiso (Savings Plan / RI):** Compara el modelo actual bajo demanda (On-Demand) con un compromiso de pago inicial a 1 año (Compute Savings Plan) y presenta el ahorro estimado en una tabla de Markdown.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - AWS의 공식 베스트 프랙티스(Well-Architected Framework)를 기반으로 답변할 것.
-> - RDS 데이터베이스는 스팟 인스턴스 적용 대상에서 절대적으로 제외할 것.
+> - Basa tus respuestas estrictamente en el marco oficial de buenas prácticas de AWS (Well-Architected Framework).
+> - Excluye absolutamente la base de datos RDS de cualquier estrategia que involucre instancias Spot.
 >
-> **주의사항 (Warning):**
+> **Advertencias (Warning):**
 >
-> - 막연한 개념 설명은 생략하고, 당장 내일 아침에 엔지니어가 실행할 수 있는 실무적인 Action Item 위주로 작성해 줘.
+> - Omite explicaciones conceptuales vagas. Enfócate exclusivamente en elementos de acción prácticos (Action Items) que un ingeniero pueda ejecutar mañana a primera hora.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del autor (Insight)
 
-가장 흔하면서도 치명적인 실수는 바로 **"개발 서버(Dev/Stage)를 주말과 야간에도 24시간 켜두는 것"**입니다. 업무 외 시간에 인스턴스를 자동으로 종료하는 `Instance Scheduler`만 도입해도 전체 개발 서버 비용의 무려 60% 이상을 즉시 날려버릴 수 있습니다. 이 프롬프트를 통해 얻은 아이디어를 바탕으로, AI에게 **"이 전략을 적용할 수 있는 Terraform 코드(또는 CloudFormation 템플릿)를 작성해 줘"**라고 후속 질문을 던지면 인프라 자동화까지 한 번에 끝낼 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 스팟 인스턴스(Spot Instance)는 갑자기 서버가 꺼진다고 하던데 위험하지 않나요?**
-  - A: 맞습니다. 그래서 상태를 저장하지 않는(Stateless) API 서버, 컨테이너 기반의 워크로드, 또는 비동기 배치 작업(Batch Processing)에만 적용해야 합니다. 중요한 트래픽을 처리하는 메인 서버나 DB에는 절대 사용해서는 안 됩니다.
-
-- **Q: RDS(데이터베이스) 비용이 너무 비싼데, 이건 어떻게 줄이나요?**
-  - A: 온디맨드로 상시 가동하는 대신, 트래픽에 따라 유연하게 확장되는 Aurora Serverless v2를 도입하거나, 부하 분산을 위해 읽기 전용 복제본(Read Replica)을 분리하는 아키텍처 개선이 필요합니다. AI에게 해당 아키텍처 전환 비용과 예상 절감액을 계산해 달라고 요청해 보세요.
+El error más común, y a la vez el más letal, es **"dejar los servidores de desarrollo (Dev/Stage) encendidos las 24 horas, incluyendo noches y fines de semana"**. Simplemente implementando un `Instance Scheduler` para apagar automáticamente las instancias fuera del horario laboral, puedes eliminar instantáneamente más del 60% de los costos de los servidores de desarrollo. 
+A partir de las ideas obtenidas con este prompt, haz una pregunta de seguimiento a la IA: **"Escribe el código de Terraform (o la plantilla de CloudFormation) para aplicar esta estrategia"**. Así, lograrás automatizar la infraestructura de una sola vez y sin esfuerzo.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1. **명확한 트래픽 패턴 제공:** "주간 집중, 야간/주말 유휴"라는 구체적인 비즈니스 컨텍스트를 제공하여, AI가 단순히 '인스턴스 타입 축소'가 아닌 **스케줄링 기반의 동적 최적화** 전략을 도출하도록 유도했습니다.
-2. **구체적인 수치 목표 설정 (50% 절감):** 막연하게 "비용을 줄여줘"라고 하는 대신, 구체적인 목표 수치를 제시함으로써 스팟 인스턴스나 Savings Plan 같은 파격적인 결정을 제안하도록 강제했습니다.
-3. **리스크 통제 (Constraints):** DB에는 스팟 인스턴스를 적용하지 말라는 제약을 걸어, 비용 절감으로 인해 서비스 장애가 발생하는 치명적인 할루시네이션(Hallucination)을 사전에 차단했습니다.
+- **Q: He escuchado que las instancias Spot pueden apagarse de repente. ¿No es peligroso?**
+  - A: Así es. Por eso, solo deben usarse para servidores API sin estado (Stateless), cargas de trabajo basadas en contenedores o procesamiento por lotes asíncrono (Batch Processing). Nunca deben utilizarse en servidores principales o bases de datos que manejen tráfico crítico.
+
+- **Q: Los costos de RDS (Base de datos) son altísimos. ¿Cómo puedo reducirlos?**
+  - A: En lugar de mantenerlos siempre encendidos bajo demanda, considera migrar a Aurora Serverless v2, que escala flexiblemente según el tráfico. Alternativamente, mejora la arquitectura separando réplicas de lectura (Read Replicas) para distribuir la carga. Pídele a la IA que calcule los costos de migración a esta arquitectura y el ahorro estimado.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (온디맨드 무지성 풀가동)
+1. **Patrón de tráfico explícito:** Al proporcionar un contexto comercial específico ("picos diurnos, inactividad nocturna/fines de semana"), forzamos a la IA a deducir una estrategia de **optimización dinámica basada en programación (scheduling)**, en lugar de una simple "reducción del tamaño de la instancia".
+2. **Objetivo numérico concreto (50% de ahorro):** En lugar de un vago "reduce los costos", establecer una meta porcentual obliga a la IA a proponer decisiones más agresivas, como las instancias Spot o los Savings Plans.
+3. **Control de riesgos (Constraints):** Al prohibir estrictamente el uso de instancias Spot en bases de datos, evitamos alucinaciones peligrosas (Hallucination) que podrían causar caídas del servicio en nombre de la reducción de costos.
+
+---
+
+## 📊 Evidencia: Antes y Después
+
+### ❌ Antes (Operación ineficiente On-Demand)
 
 ```text
-- 운영 방식: t3.medium 인스턴스 5대를 24시간 365일 내내 온디맨드로 가동
-- 월 청구액: 약 $1,000 (트래픽이 없는 새벽 시간대에도 동일한 비용 발생)
+- Método de operación: 5 instancias t3.medium encendidas On-Demand las 24 horas, los 365 días del año.
+- Factura mensual: Aprox. $1,000 (el mismo costo se genera de madrugada cuando no hay tráfico).
 ```
 
-### ✅ After (스팟 인스턴스 혼용 + 스케줄링 자동화)
+### ✅ Después (Mix de Spot + Programación automatizada)
 
 ```text
-- 운영 방식: 기본 트래픽은 온디맨드 1대로 방어하고, 주간 피크 타임에는 스팟 인스턴스가 Auto Scaling으로 붙음. 개발/스테이지 환경은 퇴근 시 자동 종료.
-- 월 청구액: 약 $350
-- 결과: 연간 약 $7,800(한화 약 1,000만 원) 이상 절약 💰
+- Método de operación: El tráfico base se maneja con 1 instancia On-Demand, y durante el pico diurno se añaden instancias Spot mediante Auto Scaling. El entorno Dev/Stage se apaga automáticamente al finalizar la jornada.
+- Factura mensual: Aprox. $350.
+- Resultado: ¡Más de $7,800 de ahorro anual! 💰
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-클라우드 비용 최적화(FinOps)는 대단한 고급 기술이 아닙니다. 길바닥에 흩뿌려지고 있는 회사 돈을 주워 담는 가장 확실하고 빠른 방법입니다.
+La optimización de costos en la nube (FinOps) no requiere técnicas de alta ingeniería. Es simplemente la forma más rápida y segura de recuperar el dinero de la empresa que se está desperdiciando.
 
-당장 내일 아침, AI에게 청구서를 던지고 외치세요. **"내 서버비 반토막 내줘."** 🍷
+Mañana a primera hora, entrégale tus facturas a la IA y dile: **"Reduce los costos de mi servidor a la mitad"**. 🍷

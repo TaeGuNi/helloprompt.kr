@@ -1,151 +1,151 @@
 ---
 title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "AI 에이전트 API 비용이 폭발적으로 증가하고 있나요? '단순 덧붙이기(Naive Appending)'가 예산을 갉아먹는 이유와 비용 파산을 막기 위한 3가지 최적화 패턴(컨텍스트 캐싱, 상태 압축, 모델 라우팅)을 알아봅니다."
+description: "¿Los costos de la API de tus agentes de IA están explotando? Descubre por qué el 'Naive Appending' devora tu presupuesto y aprende 3 patrones de optimización (Context Caching, State Compression, Model Routing) para evitar la bancarrota."
 date: 2026-02-16
 author: "OpenClaw"
 tags:
   ["AI Agents", "LLM Optimization", "Cost Management", "System Design", "Tech"]
 ---
 
-# 📝 AI 에이전트 비용 70% 절감 가이드: 2차 함수 함정(Quadratic Trap) 탈출하기
+# 📝 Guía para reducir los costos de agentes de IA en un 70%: Cómo escapar de la Trampa Cuadrática (Quadratic Trap)
 
-- **🎯 추천 대상:** AI 에이전트를 기획/개발하는 엔지니어, 프롬프트 엔지니어, 프로덕트 매니저
-- **⏱️ 소요 시간:** 아키텍처 이해 및 적용에 30분
-- **🤖 추천 모델:** 모든 대화형 AI (Gemini 3.0, GPT-5, Claude 3.5 Sonnet 등)
+- **🎯 Público objetivo:** Ingenieros que diseñan/desarrollan agentes de IA, Prompt Engineers, Product Managers.
+- **⏱️ Tiempo estimado:** 30 minutos para entender e implementar la arquitectura.
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (Gemini 3.0, GPT-5, Claude 3.5 Sonnet, etc.)
 
-- ⭐ **난이도:** ⭐⭐⭐⭐☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐⭐☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"AI 에이전트가 그저 '안녕하세요' 한마디를 하기 위해 하루에 5만 원씩 태우고 있다면, 당신의 아키텍처는 심각하게 잘못된 것입니다."_
+> _"Si tu agente de IA está quemando 50 dólares al día solo para decir 'Hola', tu arquitectura tiene un fallo crítico."_
 
-당신은 방금 끝내주는 자율형 AI 에이전트를 개발했습니다. 추론도 잘하고, 도구도 능숙하게 다루며, 스스로 문제를 해결하죠. 하지만 대화가 10턴에서 50턴으로 길어질수록 API 청구서는 선형(Linear)이 아닌 **2차 함수(Quadratic)** 곡선을 그리며 폭발적으로 치솟기 시작합니다.
+Acabas de desarrollar un agente de IA autónomo increíble. Razona de maravilla, maneja herramientas con destreza y resuelve problemas por sí mismo. Sin embargo, a medida que la conversación se alarga de 10 a 50 turnos, tu factura de API deja de crecer de forma lineal y comienza a trazar una curva **cuadrática** explosiva.
 
-이유가 뭘까요? 아무런 최적화 없이 '단순 덧붙이기(Naive Appending)' 방식으로 루프를 돌리면, 새로운 요청마다 _전체_ 대화 기록을 다시 전송해야 하기 때문입니다. 20번째 턴에 도달하면, 당신은 1~19번째 턴의 텍스트를 처리하는 비용을 20번째 또 지불하고 있는 셈입니다.
+¿Cuál es el motivo? Si ejecutas un bucle con un enfoque de _"Naive Appending"_ (añadir texto de forma ingenua) sin ninguna optimización, estás reenviando _todo_ el historial de la conversación en cada nueva petición. Al llegar al turno 20, estás pagando de nuevo por procesar el texto de los turnos 1 al 19.
 
-2026년, 거대한 컨텍스트 윈도우(200만 토큰 이상)를 지원하는 모델이 등장하면서 "일단 다 때려 넣자"는 유혹에 빠지기 쉽습니다. **절대 그러지 마세요.** 무지성 '컨텍스트 욱여넣기(Context stuffing)'는 프로덕션 환경의 에이전트에게는 재무적 사형 선고나 다름없습니다.
+En 2026, con la llegada de modelos que soportan ventanas de contexto gigantescas (más de 2 millones de tokens), es fácil caer en la tentación de "meterlo todo de golpe". **Bajo ningún concepto hagas eso.** El relleno de contexto injustificado (_Context stuffing_) es una sentencia de muerte financiera para los agentes en entornos de producción.
 
-에이전트를 더 똑똑하게 유지하면서도 비용은 70% 이상 썰어버릴 수 있는 실전 엔지니어링 가이드를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **컨텍스트 캐싱(Context Caching):** 고정된 시스템 프롬프트나 문서는 매번 보내지 말고 캐싱하여 재사용 비용을 극적으로 낮추세요.
-2. **상태 압축(State Compression):** 모든 대화 기록을 들고 다니는 대신, 턴이 끝날 때마다 핵심만 남긴 JSON '상태 카드'로 압축하세요.
-3. **모델 라우팅(Model Routing):** 단순 작업은 가벼운 모델(Flash/Mini)에게, 복잡한 추론만 무거운 모델(Pro/Ultra)에게 맡기세요.
+Aquí tienes una guía de ingeniería práctica para mantener a tus agentes igual de inteligentes mientras recortas sus costos operativos en más de un 70%.
 
 ---
 
-## 🚀 해결책: "Quadratic Trap 회피 아키텍처"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 패턴 1: 컨텍스트 캐싱 (The 2026 Standard)
+1. **Context Caching (Caché de contexto):** Deja de enviar los mismos prompts del sistema o documentos en cada petición; usa la caché para reducir drásticamente el costo de reutilización.
+2. **State Compression (Compresión de estado):** En lugar de arrastrar todo el historial de la conversación, comprímelo en una 'Tarjeta de Estado' en formato JSON al final de cada turno.
+3. **Model Routing (Enrutamiento de modelos):** Delega las tareas sencillas a modelos ligeros (Flash/Mini) y reserva los modelos pesados (Pro/Ultra) exclusivamente para el razonamiento complejo.
 
-최신 API에서 제공하는 **컨텍스트 캐싱(Context Caching)** 기능을 안 쓰고 있다면 돈을 길바닥에 버리는 중입니다. 대부분의 에이전트는 매 턴마다 똑같은 `시스템 프롬프트` + `Few-Shot 예시` + `API 문서`를 재전송합니다. 캐싱을 사용하면 "한 번 업로드하고, 읽을 때는 헐값에" 처리할 수 있습니다.
+---
 
-> **작동 원리 및 적용 기준:**
+## 🚀 La Solución: Arquitectura para evadir la "Quadratic Trap"
+
+### 🥉 Patrón 1: Context Caching (El Estándar de 2026)
+
+Si no estás utilizando la funcionalidad de **Context Caching** que ofrecen las API modernas, estás tirando el dinero a la basura. La mayoría de los agentes reenvían exactamente el mismo `System Prompt` + `Ejemplos Few-Shot` + `Documentación de API` en cada turno. Con la caché, puedes aplicar la regla de "subir una vez, leer a precio de saldo".
+
+> **Cómo funciona y cuándo aplicarlo:**
+> 
+> - Cuando tu System Prompt supera los 1.000 tokens.
+> - Si has cargado documentos PDF extensos o todo tu código fuente en el contexto.
+> - Cuando el agente mantiene conversaciones de múltiples turnos (Multi-turn).
 >
-> - 시스템 프롬프트가 1,000 토큰을 넘어가는 경우.
-> - 방대한 PDF 문서나 코드베이스 전체를 컨텍스트에 올려둔 경우.
-> - 에이전트가 다중 턴(Multi-turn) 대화를 수행하는 경우.
->
-> _Pro Tip:_ 정적인 콘텐츠(규칙, 예시)는 프롬프트 최상단에, 동적인 콘텐츠(사용자 질의, 최근 대화)는 최하단에 배치하세요. 캐싱은 텍스트의 앞부분(Prefix)을 기준으로 작동합니다!
+> _Pro Tip:_ Coloca el contenido estático (reglas, ejemplos) en la parte superior del prompt y el dinámico (consultas del usuario, historial reciente) en la inferior. ¡La caché funciona basándose en el prefijo (Prefix) del texto!
 
 <br>
 
-### 🥇 패턴 2: "요약하고 잊기 (Summarize-and-Forget)" 루프
+### 🥇 Patrón 2: El Bucle de "Resumir y Olvidar" (Summarize-and-Forget)
 
-"생각: X, 행동: Y, 결과: Z..."로 이어지는 날것의 전체 로그를 그대로 끌고 가는 대신, 에이전트가 스스로 **상태 카드(State Card)**를 관리하도록 강제하세요.
+En lugar de arrastrar el registro crudo y completo de "Pensamiento: X, Acción: Y, Resultado: Z...", obliga a tu agente a gestionar de forma autónoma una **Tarjeta de Estado (State Card)**.
 
-> **역할 (Role):** 너는 자원을 극도로 효율적으로 관리하는 상태 머신(State-machine) 에이전트야.
+> **Rol (Role):** Eres un agente de máquina de estados (State-machine) que gestiona los recursos con una eficiencia extrema.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 대화 기록이 무한정 길어져서 API 비용이 폭발하는 것을 방지해야 함.
-> - 목표: 매 턴마다 현재 진행 상황을 압축하여 상태 카드 업데이트.
+> - Situación actual: Debemos evitar que los costos de la API se disparen debido a historiales de conversación infinitamente largos.
+> - Objetivo: Comprimir el progreso actual y actualizar la tarjeta de estado al final de cada turno.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 매 턴이 끝날 때마다 너의 `Internal_State`를 반드시 업데이트해.
-> 2. 다음 턴에서는 전체 대화 기록 대신, 이 `Internal_State`와 방금 일어난 `Observation`(직전 결과)만 받게 될 거야.
-> 3. 아래 JSON 형식에 맞춰 현재 상태를 엄격하게 압축해서 출력해.
+> 1. Al finalizar cada turno, es obligatorio que actualices tu `Internal_State`.
+> 2. En el próximo turno, en lugar de recibir todo el historial de la conversación, solo recibirás este `Internal_State` junto con la última `Observation` (el resultado inmediato).
+> 3. Comprime el estado actual estrictamente en el siguiente formato JSON.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 반드시 아래 JSON 구조를 지킬 것.
->
+> - El formato de salida debe respetar estrictamente la estructura JSON mostrada a continuación.
+> 
 > ```json
 > {
->   "thought": "현재 단계에 대한 논리적 추론...",
->   "action": "function_name(args)",
+>   "thought": "Razonamiento lógico sobre la fase actual...",
+>   "action": "nombre_de_la_funcion(argumentos)",
 >   "new_state": {
->     "goal": "auth.ts 파일에서 버그 찾기",
->     "completed_steps": ["auth.ts 읽기 완료", "누락된 환경변수 발견"],
->     "next_step": ".env 파일 확인하기",
->     "blockers": "없음"
+>     "goal": "Encontrar el bug en el archivo auth.ts",
+>     "completed_steps": ["Lectura de auth.ts finalizada", "Variable de entorno faltante detectada"],
+>     "next_step": "Revisar el archivo .env",
+>     "blockers": "Ninguno"
 >   }
 > }
 > ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-저는 자율형 AI 에이전트 개발자로서, 최근 "Next.js 템플릿"을 찾기 위해 50개의 GitHub 레포지토리를 분석하는 작업을 에이전트에게 맡긴 적이 있습니다.
+Como desarrollador de agentes de IA autónomos, hace poco le asigné a uno de mis agentes la tarea de analizar 50 repositorios de GitHub para encontrar la "plantilla de Next.js perfecta".
 
-처음에는 무작정 모든 `README.md`를 읽고 전체 대화 기록에 누적시키는 **'단순 덧붙이기(Naive Appending)'** 방식을 썼습니다. 결과는 처참했습니다. 12번째 레포지토리를 읽을 때쯤 컨텍스트 한도를 초과했고, API 제공자로부터 과도한 호출로 차단당했습니다. 고작 10분 만에 5달러가 증발했죠.
+Al principio, utilicé el enfoque de **'Naive Appending'**, leyendo todos los archivos `README.md` a la fuerza bruta y acumulándolos en el historial de la conversación. El resultado fue un desastre. Hacia el duodécimo repositorio, superé el límite de contexto y el proveedor de la API bloqueó mi acceso por exceso de llamadas. En solo 10 minutos, había evaporado 5 dólares.
 
-이후 **패턴 2(상태 압축)**를 적용하여 아키텍처를 전면 수정했습니다.
+Después de eso, rediseñé completamente la arquitectura aplicando el **Patrón 2 (State Compression)**.
 
-1. 하나의 README를 읽는다.
-2. 기술 스택 등 핵심 정보만 추출하여 별도의 `results.json`에 저장(압축)한다.
-3. 다음 README를 읽기 전에 **메모리(Messages 배열)를 완전히 초기화**한다.
+1. El agente lee un README.
+2. Extrae solo la información clave, como el stack tecnológico, y la guarda (comprime) en un archivo `results.json` independiente.
+3. Antes de leer el siguiente README, **el agente borra por completo su memoria (el array de Messages)**.
 
-결과는 놀라웠습니다. 50개의 레포지토리를 모두 분석하는 데 든 비용은 단 **0.12달러**였습니다. 결과물의 퀄리티는 완벽히 동일했지만, 비용은 무려 **97%나 절감**되었습니다. 에이전트를 만드는 것은 쉽습니다. 하지만 _경제적인_ 에이전트를 만드는 것은 철저한 엔지니어링의 영역입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 컨텍스트 캐싱을 쓰면 무조건 비용이 줄어드나요?**
-  - A: 아닙니다. 캐싱 자체에도 유지 비용(Storage cost)이 발생합니다. 대화가 1~2턴 만에 끝나는 단순 질의응답이라면 오히려 캐싱 비용이 더 클 수 있습니다. 대화가 길어지는 다중 턴 에이전트에 적용해야 진가가 발휘됩니다.
-
-- **Q: 상태 압축(State Compression)을 하면 디테일한 정보를 잃어버리지 않나요?**
-  - A: 핵심은 '어떤 정보'를 남길 것인가입니다. 에이전트가 10분 전에 어떤 문장으로 검색했는지는 중요하지 않습니다. '무엇을 알아냈는가(결과)'와 '다음에 무엇을 할 것인가(계획)'만 JSON 객체로 명확히 남기면, 컨텍스트가 날아가도 작업의 연속성은 완벽히 유지됩니다.
-
-- **Q: Flash 모델과 Ultra 모델을 섞어 쓰는 라우팅(Routing) 기준은 어떻게 잡나요?**
-  - A: 정규표현식 매칭, 단순 요약, 데이터 포맷팅 등 명확한 규칙이 있는 작업은 무조건 Flash/Mini 모델로 넘깁니다. Ultra/Pro 모델은 코드를 직접 작성하거나 복잡한 논리적 추론이 필요할 때만 호출하도록 라우팅 프롬프트를 설계하세요. 비용이 보통 20배 이상 차이 납니다.
+Los resultados fueron impresionantes. Analizar los 50 repositorios me costó tan solo **0,12 dólares**. La calidad del resultado final fue idéntica, pero el costo se redujo en un asombroso **97%**. Crear un agente es fácil; crear un agente _económicamente viable_ requiere verdadera ingeniería.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **엄격한 포맷팅 제한:** `Internal_State`를 반드시 JSON 형태로 출력하도록 강제하여, 에이전트가 불필요한 사족(토큰 낭비)을 덧붙이지 못하게 원천 차단했습니다.
-2. **명시적인 행동 지침:** "전체 대화 기록 대신, 이 상태값만 받게 될 거야"라는 제약을 두어 에이전트 스스로 현재 정보가 생명줄임을 인지하고 최대한 핵심만 압축하도록 유도했습니다.
+- **Q: ¿El uso de Context Caching siempre reduce los costos?**
+  - A: No. El almacenamiento en caché conlleva su propio costo de mantenimiento (Storage cost). Si la interacción dura solo 1 o 2 turnos (como en preguntas y respuestas simples), el costo de la caché podría ser mayor. Su verdadero valor se nota en agentes con interacciones de múltiples turnos donde la conversación se alarga.
 
----
+- **Q: ¿No se pierde información detallada al usar la compresión de estado (State Compression)?**
+  - A: La clave está en definir 'qué información' se conserva. A tu agente no le importa qué frase exacta usó para buscar algo hace 10 minutos. Siempre y cuando registres claramente en el objeto JSON 'qué descubrió' (resultado) y 'qué hará a continuación' (plan), la continuidad de la tarea se mantendrá intacta aunque se borre el contexto.
 
-## 📊 증명: Before & After
-
-### ❌ Before (단순 덧붙이기, Naive Appending)
-
-- **상황:** 20턴 진행 시 (최신 고성능 모델 기준)
-- **누적 토큰:** 약 150,000 토큰
-- **세션당 비용:** **약 $1.50**
-- **문제점:** 로그가 쌓일수록 응답 속도(Latency)가 기하급수적으로 느려지며 예산이 폭발함.
-
-### ✅ After (상태 압축 및 라우팅 적용)
-
-- **상황:** 동일하게 20턴 진행 시
-- **유지 토큰:** 턴당 약 1,000 토큰으로 고정 (누적 약 20,000 토큰)
-- **세션당 비용:** **약 $0.20**
-- **이점:** 비용 **87% 극적 절감**, 언제나 일정한 응답 속도 보장.
+- **Q: ¿Cómo defino cuándo enrutar (Routing) entre un modelo Flash y uno Ultra?**
+  - A: Cualquier tarea con reglas claras—como el emparejamiento con expresiones regulares, resúmenes simples o el formateo de datos—debe delegarse inmediatamente a un modelo Flash/Mini. Diseña el prompt de enrutamiento para que el modelo Ultra/Pro solo intervenga cuando sea necesario escribir código directamente o realizar un razonamiento lógico complejo. La diferencia de costo suele ser de 20 veces o más.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-비용 폭탄을 피하는 비결은 무조건 더 큰 모델에 텍스트를 때려 넣는 것이 아니라, 모델이 처리할 짐을 가볍게 만들어 주는 시스템 설계에 있습니다.
-오늘 당장 당신의 에이전트 루프에 **상태 압축(State Compression)**을 적용해 보세요. 다음 달 API 청구서를 본 CFO가 당신에게 기립 박수를 보낼 것입니다.
+1. **Restricción estricta de formato:** Al forzar al agente a generar el `Internal_State` exclusivamente en formato JSON, se evita desde la raíz que añada comentarios innecesarios o relleno que desperdicie tokens.
+2. **Directrices de acción explícitas:** La instrucción "en lugar de recibir todo el historial de la conversación, solo recibirás este estado" hace que el agente comprenda que esta información es su único salvavidas, obligándole a comprimir la información esencial de forma precisa.
 
-자, 이제 압축된 에이전트와 함께 안심하고 칼퇴하세요! 🍷
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Naive Appending)
+
+- **Situación:** Progreso de 20 turnos (usando modelos de alto rendimiento recientes).
+- **Tokens acumulados:** Aprox. 150.000 tokens.
+- **Costo por sesión:** **Aprox. $1.50**
+- **Problema:** A medida que se acumulan los registros, el tiempo de respuesta (Latency) aumenta exponencialmente y el presupuesto se descontrola.
+
+### ✅ Después (State Compression y Routing)
+
+- **Situación:** Mismo progreso de 20 turnos.
+- **Tokens mantenidos:** Fijos en aprox. 1.000 tokens por turno (acumulando aprox. 20.000 tokens).
+- **Costo por sesión:** **Aprox. $0.20**
+- **Beneficio:** Reducción drástica del costo en un **87%**, garantizando además un tiempo de respuesta rápido y constante.
+
+---
+
+## 🎯 Conclusión
+
+El secreto para esquivar facturas exorbitantes no es arrojarle más texto a modelos cada vez más grandes, sino diseñar un sistema que aligere la carga de procesamiento del modelo. 
+Aplica la **compresión de estado (State Compression)** hoy mismo en el bucle de tu agente. El CFO de tu empresa te ovacionará cuando vea la factura de la API del mes que viene.
+
+¡Y ahora, con tu agente optimizado, cierra el portátil y disfruta de tu tiempo libre! 🍷

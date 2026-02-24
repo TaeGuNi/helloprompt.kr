@@ -5,116 +5,116 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "스파게티 코드를 분석하고 명확한 리팩토링 포인트를 짚어주는 AI 프롬프트입니다. 복잡한 로직을 단순하고 유지보수하기 쉽게 풀어내세요."
+description: "Analyze spaghetti code and identify clear refactoring points with this AI prompt. Untangle complex logic to make it simple and easy to maintain."
 tags: [AI, Refactoring, Clean Code, Development]
 ---
 
-# 🍝 복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)
+# 🍝 No More Spaghetti Code! AI Code Complexity Analyzer
 
-- **🎯 추천 대상:** 주니어 개발자, 레거시 코드를 물려받은 유지보수 담당자, 코드 리뷰어
-- **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (코드 추론 능력이 뛰어난 모델 권장)
+- **🎯 Target Audience:** Junior developers, maintainers inheriting legacy code, code reviewers
+- **⏱️ Time Saved:** 1 hour → 3 minutes
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet (Models with strong code reasoning skills)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"if문 안에 for문, 그 안에 또 if문... 돌아가긴 하는데 건드리면 터질 것 같은 시한폭탄 코드를 마주하고 절망한 적 있으신가요?"_
+> _"Have you ever stared in despair at a ticking time bomb of a codebase—a `for` loop inside an `if` statement, nested inside yet another `if` statement?"_
 
-개발을 하다 보면 필연적으로 복잡도가 높은 '스파게티 코드'를 마주하게 됩니다. 기능 추가와 버그 수정이 반복되면서 코드는 점점 비대해지고, 순환 복잡도(Cyclomatic Complexity)는 치솟습니다. 이런 코드는 읽기 힘들 뿐만 아니라, 수정 시 사이드 이펙트를 예측하기 어려워 유지보수 악몽의 주범이 됩니다.
+In software development, encountering highly complex "spaghetti code" is inevitable. As features are added and bugs are patched, the codebase swells, and cyclomatic complexity skyrockets. Such code is not only painfully difficult to read, but it also makes predicting side effects nearly impossible, turning maintenance into a living nightmare.
 
-하지만 어디서부터 어떻게 쪼개야 할지 막막하다면? AI에게 코드 복잡도 분석을 맡겨보세요. 객관적인 지표로 문제점을 진단하고, 디자인 패턴과 클린 코드 원칙에 입각한 구체적인 리팩토링 전략을 제시합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 읽기 힘든 중첩 조건문과 거대한 함수를 AI가 구조적으로 분석합니다.
-2. 조기 리턴(Early Return), 함수 추출(Extract Method) 등 실무적인 리팩토링 기법을 제안받습니다.
-3. 로직의 변경 없이 가독성과 유지보수성이 극대화된 깔끔한 코드를 얻을 수 있습니다.
+But what if you don't know where or how to start breaking it down? Let AI handle the complexity analysis for you. It will diagnose issues using objective metrics and provide concrete refactoring strategies grounded in design patterns and clean code principles.
 
 ---
 
-## 🚀 해결책: "코드 복잡도 분석 및 리팩토링 프롬프트"
+## ⚡️ 3-Line Summary (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. AI structurally analyzes unreadable nested conditionals and massive functions.
+2. Receive practical refactoring suggestions like Early Returns (Guard Clauses) and Extract Method.
+3. Obtain clean, highly readable, and maintainable code without altering the original business logic.
 
-빠르게 코드의 문제점만 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 백엔드 개발자]`야.
-> **요청:** 아래 코드의 복잡도를 분석하고, 어떻게 리팩토링하면 좋을지 3가지 포인트로 짚어줘.
+## 🚀 Solution: "Code Complexity Analysis & Refactoring Prompt"
+
+### 🥉 Basic Version
+
+Use this when you need a rapid assessment of code issues.
+
+> **Role:** You are a `[Senior Backend Developer]`.
+> **Task:** Analyze the complexity of the code below and point out 3 specific refactoring strategies to improve it.
 >
 > ```
-> [여기에 코드 붙여넣기]
+> [Paste your code here]
 > ```
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-정확한 지표 분석과 구체적인 디자인 패턴 적용이 필요할 때 사용하세요.
+Use this for precise metric analysis and the application of specific design patterns.
 
-> **역할 (Role):** 너는 클린 코드 아키텍처에 정통한 `[10년 차 시니어 소프트웨어 엔지니어]`야.
+> **Role:** You are a `[10-Year Senior Software Engineer]` who is an expert in Clean Architecture.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 현재 `[언어/프레임워크, 예: TypeScript/NestJS]`로 작성된 레거시 코드를 리팩토링하고 있어.
-> - 목표: 코드의 순환 복잡도를 낮추고 가독성과 유지보수성을 극대화하는 것.
+> - Background: I am currently refactoring legacy code written in `[Language/Framework, e.g., TypeScript/NestJS]`.
+> - Goal: To lower the cyclomatic complexity and maximize readability and maintainability.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **복잡도 진단:** 제공된 코드의 순환 복잡도(Cyclomatic Complexity)와 인지적 복잡도(Cognitive Complexity)를 평가하고 주요 원인(깊은 중첩, 단일 책임 원칙 위배 등)을 분석해 줘.
-> 2. **리팩토링 전략:** 조기 리턴(Guard Clauses), 함수 추출(Extract Method), 다형성(Polymorphism) 활용 등 구체적인 리팩토링 기법을 제안해 줘.
-> 3. **개선된 코드:** 위 전략을 적용하여, 기존 비즈니스 로직은 100% 동일하게 유지하되 구조가 개선된 코드를 작성해 줘.
+> 1. **Complexity Diagnosis:** Evaluate the Cyclomatic Complexity and Cognitive Complexity of the provided code. Analyze the root causes (e.g., deep nesting, violation of the Single Responsibility Principle).
+> 2. **Refactoring Strategy:** Propose specific refactoring techniques such as Guard Clauses (Early Returns), Extract Method, or utilizing Polymorphism.
+> 3. **Improved Code:** Apply the proposed strategies to write improved code. The structure must be enhanced while keeping the existing business logic 100% identical.
 >
-> **코드 입력 (Code):**
+> **Code:**
 >
 > ```
-> [여기에 리팩토링할 코드를 붙여넣으세요]
+> [Paste the code to refactor here]
 > ```
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 개선된 코드에는 각 변경 사항에 대한 짧은 주석을 달아줘.
-> - 설명은 주니어 개발자가 이해할 수 있도록 친절하고 단계적으로 해줘.
+> - Add brief, inline comments for each change made in the improved code.
+> - Explain the changes in a friendly, step-by-step manner so that a junior developer can easily understand.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 원본 코드의 비즈니스 로직(결과값, 사이드 이펙트 등)이 절대 변경되어서는 안 돼.
+> - The original business logic (return values, side effects, etc.) MUST NOT be altered under any circumstances.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-실무에서 남이 짠(혹은 과거의 내가 짠) 레거시 코드를 리뷰하거나 수정해야 할 때 가장 먼저 사용하는 프롬프트입니다. AI가 단순히 코드를 짧게 줄여주는 것을 넘어, "이 조건문은 뎁스(Depth)가 4단계이므로 Guard Clauses로 빼는 것이 낫습니다"처럼 논리적인 명분을 제공해 줍니다.
+This is the very first prompt I reach for when reviewing or modifying legacy code written by someone else (or my past self). The AI goes beyond simply shortening the code; it provides a logical justification, such as, "This conditional has a depth of 4, so it is better to extract it using Guard Clauses."
 
-특히 코드 리뷰를 앞두고 내 코드의 복잡도를 자체 검열할 때 매우 유용합니다. PR(Pull Request)을 올리기 전 이 프롬프트로 한 번만 필터링을 거치면, 동료들로부터 "코드 깔끔하네요"라는 피드백을 받을 확률이 비약적으로 상승합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 파일 전체를 한 번에 넣어서 분석해도 되나요?**
-  - A: LLM의 컨텍스트 윈도우 한계와 집중도 저하로 인해 추천하지 않습니다. 수백 줄이 넘는 파일보다는, 50~150줄 내외의 '특정 함수'나 '단일 클래스' 단위로 쪼개어 프롬프트에 입력하는 것이 훨씬 날카롭고 정확한 리팩토링 결과를 얻을 수 있습니다.
-
-- **Q: AI가 리팩토링한 코드를 그대로 프로덕션에 적용해도 안전한가요?**
-  - A: 절대 그대로 복사해서 붙여넣지 마세요! AI는 가끔 비즈니스 로직의 미묘한 엣지 케이스를 놓치고 로직을 변형(Hallucination)시킬 위험이 있습니다. **반드시 기존 유닛 테스트(Unit Test)를 통과하는지 확인**한 후 반영해야 합니다.
-
-- **Q: 특정 언어나 프레임워크에 맞춰서 개선해 주나요?**
-  - A: 네, Pro 버전에 있는 `[언어/프레임워크]` 변수에 'Java/Spring Boot' 또는 'Python/FastAPI' 등을 명시하면 해당 생태계에서 권장하는 네이밍 컨벤션과 디자인 패턴을 반영하여 코드를 개선해 줍니다.
+It is exceptionally useful for self-auditing your own code's complexity right before a code review. Running your code through this prompt before submitting a Pull Request (PR) drastically increases the chances of receiving a simple "Clean code, approved!" from your peers.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **지표 중심의 진단 요구:** "단순히 예쁘게 짜줘"가 아니라, '순환 복잡도'라는 구체적인 소프트웨어 공학 지표를 요구하여 AI가 구조적인 결함에 집중하도록 유도합니다.
-2. **동작 유지 제약(Constraints):** 리팩토링의 제1원칙인 '외부 동작의 불변성'을 명시하여, AI가 로직 자체를 마음대로 수정하는 위험을 최소화했습니다.
+- **Q: Can I input the entire file for analysis at once?**
+  - A: It is not recommended due to the LLM's context window limits and potential loss of focus. Rather than passing a file with hundreds of lines, breaking it down into specific functions or single classes (around 50-150 lines) will yield much sharper and more accurate refactoring results.
+
+- **Q: Is it safe to deploy the AI-refactored code directly to production?**
+  - A: Never copy and paste it blindly! AI occasionally misses subtle edge cases in business logic and risks introducing hallucinations. **You must always verify that the refactored code passes existing Unit Tests** before applying it.
+
+- **Q: Does it optimize for a specific language or framework?**
+  - A: Yes. If you specify `[Language/Framework]` in the Pro Version as 'Java/Spring Boot' or 'Python/FastAPI', the AI will apply the recommended naming conventions and design patterns specific to that ecosystem.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (입력: 중첩이 심한 스파게티 코드)
+1. **Metric-Driven Diagnosis:** Instead of a vague "make this code look nice," demanding specific software engineering metrics like 'Cyclomatic Complexity' forces the AI to focus on structural flaws.
+2. **Behavior Preservation (Constraints):** By explicitly stating the first rule of refactoring—'immutability of external behavior'—the risk of the AI arbitrarily modifying the core logic is strictly minimized.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input: Heavily nested spaghetti code)
 
 ```javascript
 function processOrder(order) {
@@ -145,21 +145,21 @@ function processOrder(order) {
 }
 ```
 
-### ✅ After (결과: Guard Clauses 및 배열 메서드를 활용한 깔끔한 코드)
+### ✅ After (Result: Clean code utilizing Guard Clauses and array methods)
 
 ```javascript
 function processOrder(order) {
-  // 1. Guard Clauses: 예외 상황 조기 리턴 (중첩 감소)
+  // 1. Guard Clauses: Early return for exceptions (reduces nesting)
   if (!order) throw new Error("Invalid order");
   if (order.status !== "PENDING") throw new Error("Order is not pending");
   if (!order.items || order.items.length === 0) return 0;
 
-  // 2. 고차 함수 활용: 반복문 단순화
+  // 2. Higher-Order Functions: Simplify loops
   const total = order.items
     .filter((item) => item.price > 0)
     .reduce((sum, item) => sum + item.price * item.quantity, 0);
 
-  // 3. 비즈니스 로직 분리 및 단순화
+  // 3. Separate and simplify business logic
   const discount = total > 100 ? total * 0.1 : 0;
   order.discount = discount;
 
@@ -169,8 +169,8 @@ function processOrder(order) {
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-복잡한 코드 앞에서 더 이상 머리를 쥐어뜯지 마세요. AI의 분석을 통해 문제의 핵심을 파악하고, 제안된 리팩토링 전략을 하나씩 적용해 나간다면 유지보수하기 좋은 우아한 코드를 작성할 수 있습니다.
+Stop tearing your hair out over convoluted code. By letting AI analyze the core issues and applying the suggested refactoring strategies one by one, you can consistently write elegant, maintainable software.
 
-이제 테스트 코드를 돌려보고, 가벼운 마음으로 퇴근하세요! 🍷
+Now, run your test suite, and clock out with peace of mind! 🍷

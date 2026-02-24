@@ -5,144 +5,144 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: Husky와 pre-commit을 위한 완벽한 쉘 스크립트를 AI로 1초 만에 만드세요. 코드 품질을 자동으로 사수하는 방법입니다.
+description: Erstellen Sie mit KI in nur 1 Sekunde perfekte Shell-Skripte für Husky und pre-commit. So sichern Sie die Codequalität vollautomatisch.
 tags: [AI, Git, DevOps, Automation]
 ---
 
-# 📝 커밋 전 자동 점검! AI Git Hook 생성기 (Git Hook Generator)
+# 📝 Automatischer Check vor dem Commit! AI Git Hook Generator
 
-- **🎯 추천 대상:** 프론트엔드/백엔드 개발자, DevOps 엔지니어, 테크 리드
-- **⏱️ 소요 시간:** 1시간 → 1분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o (코드 작성에 특화된 모델)
+- **🎯 Empfohlen für:** Frontend-/Backend-Entwickler, DevOps-Ingenieure, Tech Leads
+- **⏱️ Zeitaufwand:** Von 1 Stunde → auf 1 Minute reduziert
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o (spezialisiert auf Code-Generierung)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-> _"아차, 린트(Lint) 돌리는 거 깜빡했다! 🚨 CI/CD 파이프라인의 새빨간 실패 로그, 이제 Git Hook 자동화로 영원히 안녕을 고하세요."_
+> *"Oh nein, ich habe vergessen, den Linter laufen zu lassen! 🚨 Verabschieden Sie sich für immer von den feuerroten Fehler-Logs in Ihrer CI/CD-Pipeline – dank automatisierter Git Hooks."*
 
-사람은 누구나 실수를 하지만, 시스템은 실수를 용납하지 않아야 합니다. 코드를 커밋(Commit)하거나 푸시(Push)하기 직전, `Lint` 검사나 `Test` 코드를 수동으로 돌리는 것은 번거롭고 잊어버리기 쉽습니다.
+Jeder Mensch macht Fehler, aber das System darf sie nicht zulassen. Manuell `Lint`-Prüfungen oder `Test`-Code auszuführen, kurz bevor man Code committet oder pusht, ist mühsam und wird im Eifer des Gefechts leicht vergessen.
 
-이럴 때 구원투수가 되는 것이 바로 **Git Hook**입니다. 하지만 쉘 스크립트(Shell Script) 문법에 익숙하지 않다면 크로스 플랫폼에서 완벽하게 동작하는 Hook을 직접 짜는 것은 상당한 스트레스입니다. 이제 AI에게 여러분의 팀 컨벤션과 환경만 설명하세요. 1초 만에 빈틈없는 수문장 스크립트를 완성해 드립니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **자동화의 끝판왕:** 커밋 메시지 컨벤션 검사부터 코드 포맷팅까지 커밋 직전에 자동으로 강제합니다.
-2. **AI의 정밀한 스크립팅:** 복잡한 정규식이나 크로스 플랫폼 쉘 스크립트를 직접 짤 필요 없이 AI가 환경에 맞춰 생성합니다.
-3. **CI 리소스 절약:** 파이프라인에 도달하기 전 로컬 환경에서 에러를 100% 차단하여 클라우드 컴퓨팅 비용과 시간을 아낍니다.
+In solchen Momenten sind **Git Hooks** die Rettung. Wenn Sie jedoch nicht fließend Shell-Skripte schreiben, kann es extrem frustrierend sein, plattformübergreifend funktionierende Hooks von Grund auf neu zu erstellen. Erklären Sie ab heute einfach einer KI Ihre Team-Konventionen und Ihre Umgebung. In nur einer Sekunde erhalten Sie ein lückenloses, perfekt funktionierendes Gatekeeper-Skript.
 
 ---
 
-## 🚀 해결책: "Git Hook 스크립트 생성 프롬프트"
+## ⚡️ TL;DR (Zusammenfassung in 3 Sätzen)
 
-### 🥉 Basic Version (기본형)
+1. **Die ultimative Automatisierung:** Von der Überprüfung der Commit-Message-Konventionen bis hin zur Code-Formatierung – alles wird direkt vor dem Commit automatisch erzwungen.
+2. **Präzises KI-Scripting:** Sie müssen keine komplexen regulären Ausdrücke oder plattformübergreifenden Shell-Skripte mehr selbst schreiben. Die KI generiert sie passgenau für Ihre Umgebung.
+3. **CI-Ressourcen sparen:** Indem Fehler zu 100 % in der lokalen Umgebung abgefangen werden, bevor sie die Pipeline erreichen, sparen Sie massiv an Cloud-Computing-Kosten und Wartezeit.
 
-빠르게 특정 동작을 하는 훅 스크립트만 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 `[DevOps 엔지니어]`야.
-> **요청:** `[Husky]`를 사용하여 `[git commit 하기 전에 npm run lint를 실행]`하는 Git Hook 쉘 스크립트와 설정 방법을 작성해 줘.
+## 🚀 Die Lösung: "Prompt für Git Hook Skripte"
+
+### 🥉 Basic Version (Basis-Version)
+
+Verwenden Sie dies, wenn Sie schnell ein einfaches Hook-Skript für eine spezifische Aktion benötigen.
+
+> **Rolle:** Du bist ein `[DevOps-Ingenieur]`.
+> **Aufgabe:** Schreibe ein Git Hook Shell-Skript und eine Anleitung zur Einrichtung, das `[Husky]` verwendet, um `[npm run lint vor jedem git commit auszuführen]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Experten-Version)
 
-팀 전체가 사용할 견고하고 예외 처리가 완벽한 스크립트 세팅이 필요할 때 사용하세요.
+Verwenden Sie dies für ein robustes, fehlerresistentes Skript-Setup, das vom gesamten Team genutzt werden soll.
 
-> **역할 (Role):** 너는 10년 차 시니어 `[DevOps 엔지니어]`이자 `[Git 자동화 전문가]`야.
+> **Rolle (Role):** Du bist ein Senior `[DevOps-Ingenieur]` mit 10 Jahren Erfahrung und ein `[Experte für Git-Automatisierung]`.
 >
-> **상황 (Context):**
+> **Kontext (Context):**
 >
-> - 배경: 팀원들이 커밋 전에 코드 컨벤션을 지키지 않아 CI 파이프라인에서 잦은 빌드 실패와 리소스 낭비가 발생하고 있어.
-> - 환경: `[Node.js 기반의 프론트엔드 프로젝트, Husky 사용 중]`
-> - 목표: 개발자의 실수를 원천 차단하는 견고한 `[pre-commit 및 commit-msg]` 훅을 구축하는 것.
+> - Hintergrund: Teammitglieder halten sich vor dem Commit nicht an die Code-Konventionen, was zu häufigen Build-Fehlern und Ressourcenverschwendung in der CI-Pipeline führt.
+> - Umgebung: `[Node.js-basiertes Frontend-Projekt, Nutzung von Husky]`
+> - Ziel: Aufbau eines robusten `[pre-commit und commit-msg]` Hooks, der Entwicklerfehler an der Wurzel packt und blockiert.
 >
-> **요청 (Task):**
+> **Aufgabe (Task):**
 >
-> 1. `[pre-commit]` 훅: 스테이징된 파일(`git diff --staged`)에 대해서만 `[npm run lint]`와 `[npm run format]`을 실행하는 쉘 스크립트를 작성해 줘.
-> 2. `[commit-msg]` 훅: 커밋 메시지가 `[Conventional Commits (feat, fix, docs 등)]` 형식을 엄격히 따르는지 정규식으로 검사하는 스크립트를 추가해 줘.
-> 3. **안내 메시지:** 테스트나 검사 실패 시, 터미널에 친절하고 명확한 에러 메시지(예시 포함)를 출력하고 커밋을 차단(exit 1)해야 해.
-> 4. **적용 가이드:** 팀원들이 레포지토리를 클론한 후 즉시 환경을 셋업할 수 있도록, `[package.json]` 설정과 초기 설치 명령어를 마크다운 코드 블럭으로 정리해 줘.
+> 1. `[pre-commit]` Hook: Schreibe ein Shell-Skript, das `[npm run lint]` und `[npm run format]` **nur** für bereitgestellte (staged) Dateien (`git diff --staged`) ausführt.
+> 2. `[commit-msg]` Hook: Füge ein Skript hinzu, das mithilfe von regulären Ausdrücken strikt prüft, ob die Commit-Nachricht dem Format der `[Conventional Commits (feat, fix, docs etc.)]` entspricht.
+> 3. **Benachrichtigung:** Wenn ein Test oder eine Überprüfung fehlschlägt, muss eine freundliche und klare Fehlermeldung (inklusive Beispielen) im Terminal ausgegeben und der Commit blockiert werden (exit 1).
+> 4. **Implementierungs-Guide:** Erstelle einen Markdown-Codeblock mit der `[package.json]` Konfiguration und den initialen Installationsbefehlen, damit Teammitglieder die Umgebung sofort nach dem Klonen des Repositories einrichten können.
 >
-> **제약사항 (Constraints):**
+> **Einschränkungen (Constraints):**
 >
-> - 작성된 쉘 스크립트는 macOS, Linux, Windows(Git Bash 환경)에서 모두 안전하게 크로스 플랫폼으로 동작해야 해.
+> - Das generierte Shell-Skript muss absolut plattformübergreifend und sicher unter macOS, Linux und Windows (Git Bash Umgebung) funktionieren.
 >
-> **주의사항 (Warning):**
+> **Warnung (Warning):**
 >
-> - 프로젝트 크기가 크기 때문에 전체 파일을 검사하면 속도가 너무 느려져. 반드시 **'변경이 발생한 파일(staged files)'**만 추려내서 검사하도록 성능을 최적화해 줘. (예: `lint-staged` 활용 등)
+> - Da das Projekt sehr groß ist, würde die Überprüfung aller Dateien die Ausführung extrem verlangsamen. Optimiere die Leistung zwingend so, dass **nur "geänderte Dateien (staged files)"** herausgefiltert und überprüft werden (z. B. durch die Nutzung von `lint-staged`).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Anmerkung des Autors (Insight)
 
-이 프롬프트의 진가는 **'실수 방지'**를 넘어 **'심리적 안정감'**을 준다는 데 있습니다. 저는 개인 프로젝트에서도 이 프롬프트를 응용해 "메인 브랜치(main)에 직접 푸시(`git push origin main`)하는 것을 막는 `pre-push` 훅"을 꼭 세팅해 둡니다.
+Der wahre Wert dieses Prompts liegt weit über der reinen Fehlervermeidung – er bietet enorme **psychologische Sicherheit**. Ich nutze eine Variante dieses Prompts selbst in meinen privaten Projekten, um zwingend einen `pre-push` Hook einzurichten, der direkte Pushes auf den Main-Branch (`git push origin main`) rigoros blockiert.
 
-새벽에 졸린 눈으로 실수로 메인 브랜치에 강제 푸시를 하려다, AI가 짜준 스크립트가 터미널에 **"🚨 잠깐! 메인 브랜치는 PR을 통해서만 병합할 수 있습니다."** 라며 튕겨낼 때의 그 짜릿한 안도감은 겪어본 사람만 압니다. 특히 `lint-staged`와 결합해 달라고 요청하면 검사 속도가 10배 이상 빨라지니 꼭 활용해 보세요!
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 윈도우(Windows)를 쓰는 팀원도 있는데, 쉘 스크립트가 잘 작동할까요?**
-  - A: 프롬프트에 '크로스 플랫폼 제약사항'을 걸어두었기 때문에 AI가 알아서 처리해 줍니다. 윈도우에서는 주로 Git Bash 환경에서 실행되도록 작성되며, Node.js 환경이라면 순수 쉘 스크립트보다는 `Husky` + `lint-staged` 조합을 추천해 달라고 하는 것이 호환성 면에서 가장 안전합니다.
-
-- **Q: 스크립트가 너무 무거워서 커밋할 때마다 몇 분씩 걸립니다.**
-  - A: `npm run lint`나 `npm run test`를 전체 코드베이스에 대해 돌리고 있기 때문입니다. 프롬프트의 주의사항 섹션에 있는 것처럼 **"반드시 스테이징된 파일(변경된 파일)만 검사해달라"**고 명시하세요. AI가 `git diff --cached --name-only`를 활용한 가벼운 스크립트로 다시 짜줄 것입니다.
-
-- **Q: 이미 터진 대형 커밋을 취소하고 싶은데 Hook이 방해해요.**
-  - A: 정말 급하게 Hook을 무시하고 커밋/푸시해야 할 때는 명령어 뒤에 `--no-verify` (또는 `-n`) 플래그를 붙이면 됩니다. (예: `git commit -m "fix: 핫픽스" --no-verify`) 단, 남용은 금물입니다!
+Wenn man spät nachts mit müden Augen versehentlich einen Force-Push auf den Main-Branch versucht und das von der KI geschriebene Skript im Terminal dazwischengrätscht: **"🚨 Halt! Der Main-Branch darf nur über Pull Requests aktualisiert werden."** – das Gefühl der Erleichterung in diesem Moment ist unbeschreiblich. Wenn Sie die KI zusätzlich bitten, `lint-staged` zu integrieren, wird der Prüfprozess um ein Vielfaches schneller. Unbedingt ausprobieren!
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1.  **배경과 환경(Context)의 구체화:** 무작정 "훅 만들어줘"가 아니라, 현재 사용 중인 스택(`Husky`, `Node.js`)과 겪고 있는 페인포인트(잦은 빌드 실패, 리소스 낭비)를 명시하여 AI가 정확한 타겟팅(예: `lint-staged` 제안)을 할 수 있게 유도했습니다.
-2.  **성능 최적화 제약(Warning):** 쉘 스크립트 초보자가 가장 많이 하는 실수인 '전체 파일 검사'를 프롬프트 단에서 선제적으로 차단하여, 현업에서 즉시 쓸 수 있는 빠르고 가벼운 코드를 얻어냅니다.
-3.  **크로스 플랫폼 제약(Constraints):** 다양한 OS를 사용하는 팀 환경을 고려하여 윈도우/맥/리눅스 호환성을 강제했습니다.
+- **F: Wir haben Teammitglieder, die Windows nutzen. Wird das Shell-Skript bei ihnen reibungslos funktionieren?**
+  - A: Ja! Da wir im Prompt explizit "plattformübergreifende Einschränkungen" definiert haben, kümmert sich die KI automatisch darum. Für Windows wird es so geschrieben, dass es zuverlässig in der Git Bash ausgeführt werden kann. In Node.js-Umgebungen ist es zudem am sichersten, die KI nach der Kombination aus `Husky` + `lint-staged` anstelle reiner Shell-Skripte zu fragen, um maximale Kompatibilität zu gewährleisten.
+
+- **F: Das Skript ist zu schwerfällig und jeder Commit dauert jetzt mehrere Minuten.**
+  - A: Das passiert typischerweise, wenn `npm run lint` oder `npm run test` über die gesamte Codebasis ausgeführt wird. Stellen Sie sicher, dass Sie, wie im "Warnung"-Abschnitt des Prompts angegeben, explizit fordern: **"Überprüfe nur bereitgestellte (geänderte) Dateien."** Die KI wird das Skript dann leichtgewichtiger umschreiben, typischerweise unter Verwendung von `git diff --cached --name-only`.
+
+- **F: Ich muss einen massiven Commit abbrechen, der bereits schiefgegangen ist, aber der Hook blockiert mich permanent.**
+  - A: Wenn Sie in einem absoluten Notfall den Hook umgehen und erzwingen müssen, können Sie das Flag `--no-verify` (oder `-n`) an Ihren Befehl anhängen. (Beispiel: `git commit -m "fix: Hotfix" --no-verify`). Aber Vorsicht: Bitte nur im äußersten Notfall verwenden!
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt-Analyse (Warum es funktioniert)
 
-### ❌ Before (자동화가 없을 때)
+1. **Konkretisierung von Kontext und Umgebung:** Anstatt einfach "Mach mir einen Hook" zu sagen, nennen wir den genauen Tech-Stack (`Husky`, `Node.js`) und die aktuellen Schmerzpunkte (häufige Build-Fehler, Ressourcenverschwendung). Das zwingt die KI zu maßgeschneiderten, intelligenten Lösungen (wie dem Vorschlag von `lint-staged`).
+2. **Leistungsoptimierung (Warning):** Den häufigsten Anfängerfehler bei Shell-Skripten – die langwierige Prüfung aller Dateien – blockieren wir proaktiv bereits auf der Prompt-Ebene. Das Resultat ist praxistauglicher, schneller Code.
+3. **Plattform-Einschränkungen (Constraints):** Durch die Berücksichtigung diverser Betriebssysteme im Team erzwingen wir von Anfang an eine absolute Kompatibilität für Windows, Mac und Linux.
+
+---
+
+## 📊 Beweis: Vorher & Nachher
+
+### ❌ Vorher (Ohne Automatisierung)
 
 ```bash
-# 개발자의 흔한 실수
+# Ein typischer Entwicklerfehler
 $ git commit -m "update"
 [main 1a2b3c4] update
  3 files changed, 150 insertions(+)
 
 $ git push origin main
-# 10분 뒤... CI 서버 왈:
-# "❌ 빌드 실패: 린트 에러 45개 발견, 커밋 메시지 규정 위반. 다시 하세요." (팀원들 한숨)
+# 10 Minuten später meldet sich der CI-Server:
+# "❌ Build fehlgeschlagen: 45 Lint-Fehler gefunden, Verstoß gegen Commit-Message-Regeln. Bitte wiederholen." (Kollektives Seufzen im Team)
 ```
 
-### ✅ After (AI Git Hook 적용 후)
+### ✅ Nachher (Mit AI Git Hook)
 
 ```bash
-# 커밋 시도 시 로컬에서 즉시 차단 및 피드백 제공
+# Lokale Blockade und sofortiges Feedback beim Commit-Versuch
 $ git commit -m "update"
 ✔ Preparing lint-staged...
 ✖ Running tasks for staged files...
   ❯ package.json — 12 files
     ✖ eslint --fix [FAILED]
 
-🚨 [에러] ESLint 검사를 통과하지 못했습니다!
+🚨 [Fehler] ESLint-Überprüfung nicht bestanden!
 src/components/Button.tsx:25:2 - error: 'unusedVar' is assigned a value but never used.
 
-🚨 [에러] 커밋 메시지 규칙 위반!
-입력한 메시지: "update"
-올바른 예시: "feat: 로그인 버튼 디자인 수정" 또는 "fix: 오타 수정"
+🚨 [Fehler] Verstoß gegen Commit-Message-Regeln!
+Eingegebene Nachricht: "update"
+Richtiges Beispiel: "feat: Login-Button Design überarbeitet" oder "fix: Tippfehler korrigiert"
 
-❌ 커밋이 취소되었습니다. 코드를 수정하고 올바른 메시지 형식으로 다시 시도해 주세요.
+❌ Commit abgebrochen. Bitte korrigieren Sie den Code und versuchen Sie es mit dem richtigen Nachrichtenformat erneut.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-Git Hook은 한 번 세팅해 두면 프로젝트가 끝날 때까지 수천 번의 실수를 막아주는 든든한 보험입니다. 그동안 쉘 스크립트가 두려워 도입을 미뤘다면, 지금 당장 AI에게 키보드를 넘겨보세요.
+Sobald Git Hooks einmal ordentlich eingerichtet sind, fungieren sie als verlässliche Versicherung, die Sie bis zum Ende des Projekts vor tausenden von Flüchtigkeitsfehlern bewahrt. Wenn Sie die Einführung bisher aus Respekt vor komplexen Shell-Skripten hinausgezögert haben, überlassen Sie der KI jetzt einfach die Tastatur.
 
-당신의 퇴근 시간을 지켜주는 가장 완벽한 방패가 되어줄 것입니다. 이제 맘 편히 커밋하세요! 🍷
+Es wird das perfekte Schutzschild sein, das Ihren pünktlichen Feierabend sichert. Committen Sie ab sofort mit einem absolut beruhigten Gewissen! 🍷

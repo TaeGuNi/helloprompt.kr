@@ -5,123 +5,125 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "변기 뚫기부터 전등 교체, 실리콘 쏘기까지. 똥손도 가능한 셀프 수리 프롬프트로 출장비 10만원을 아끼세요."
+description: "From unclogging toilets to replacing lights and applying silicone: save over $100 on call-out fees with these foolproof DIY home repair prompts."
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 
-# 🛠️ 출장비 아끼는 AI 집수리 가이드 (초보자용)
+# 🛠️ The Ultimate AI Guide to DIY Home Repairs (Save on Call-out Fees!)
 
-- **🎯 추천 대상:** 자취생, 신혼부부, 전구 교체조차 두려운 초보자, 불필요한 출장비를 아끼고 싶은 직장인
-- **⏱️ 소요 시간:** 진단 5분 + 작업 시간 → 출장 기사 대기 시간 1일 단축
-- **🤖 추천 모델:** 모든 대화형 AI (GPT-4o, Gemini 1.5 Pro 등, **이미지 인식 필수**)
+- **🎯 Target Audience:** Renters, newlyweds, absolute beginners terrified of changing a lightbulb, and anyone tired of paying exorbitant call-out fees.
+- **⏱️ Time Investment:** 5 minutes for diagnosis + repair time (saves you a whole day waiting for a technician).
+- **🤖 Recommended AI:** Any multimodal AI (GPT-4o, Gemini 1.5 Pro, etc. — **Image recognition is mandatory**).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐☆☆
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐☆☆
 
-> _"사람 부르면 기본 출장비만 5만 원, 부품값은 부르는 게 값? 이제 눈탱이 맞지 말고 AI에게 먼저 물어보세요."_
+> _"Why pay a $100 base call-out fee just to find out it's a $5 part? Stop getting ripped off and let AI diagnose the problem first."_
 
-막상 셀프 수리를 하려고 유튜브를 켜면 너무 전문가용 장비를 쓴 영상만 가득하고, 블로그는 업체 광고로 도배되어 있습니다. 내 집 상황에 딱 맞는 맞춤형 수리법이 필요하신가요? 사진 한 장으로 AI에게 정확한 진단과 1:1 안전 코칭을 받는 방법을 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **사진 한 장으로 정확한 진단:** 복잡하게 설명할 필요 없이 고장 난 부위의 사진을 찍어 올리면 AI가 즉시 원인을 파악합니다.
-2. **다이소/철물점 맞춤형 쇼핑 리스트:** 내 주변에서 쉽게 구할 수 있는 부품의 정확한 명칭과 규격을 알려줍니다.
-3. **철저한 안전사고 예방:** 작업 전 반드시 차단해야 할 밸브나 차단기 위치를 알려주며, 위험한 작업은 전문가를 부르도록 선을 그어줍니다.
+When you try to DIY a home repair, YouTube tutorials often feature experts using professional-grade tools, while blog posts are cluttered with sponsored ads for repair companies. Need a customized repair guide tailored exactly to your home's unique situation? Discover how a single photo can give you an accurate AI diagnosis and 1-on-1 safety coaching.
 
 ---
 
-## 🚀 해결책: "AI 맥가이버 프롬프트"
+## ⚡️ TL;DR (3-Line Summary)
 
-### 🥉 Basic Version (기본형)
+1. **Pinpoint Diagnosis with One Photo:** Skip the confusing technical explanations. Just upload a picture of the broken part, and the AI will instantly identify the root cause.
+2. **Customized Hardware Store Shopping List:** Get the exact names and specifications of the parts you need, ensuring you can easily find them at your local hardware store or Home Depot.
+3. **Strict Safety Protocols:** The AI identifies which valves or breakers you must shut off before starting, and draws a hard line on dangerous tasks by telling you when to call a professional.
 
-간단한 고장 원인을 파악하거나 유지보수 팁을 얻고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 30년 경력의 베테랑 `[설비/전기/인테리어]` 전문가야.
-> **요청:** 우리 집 `[고장 난 곳 또는 기기명]`에 문제가 생겼어. 증상은 `[구체적인 증상 설명]`이야. 원인이 무엇인지, 사람을 부르지 않고 혼자서 해결할 수 있는 단계별 방법 3가지를 쉬운 순서대로 알려줘. 필요하다면 다이소나 근처 철물점에서 살 수 있는 도구도 추천해 줘.
+## 🚀 The Solution: "The AI MacGyver Prompt"
+
+### 🥉 Basic Version
+
+Use this when you need a quick diagnosis of a simple malfunction or basic maintenance tips.
+
+> **Role:** You are a veteran `[plumbing/electrical/interior]` expert with 30 years of experience.
+> **Task:** There is a problem with my home's `[broken area or appliance name]`. The specific symptom is `[detailed description of the issue]`. Tell me the likely cause and provide 3 step-by-step methods I can use to fix it myself without calling a professional, ordered from easiest to hardest. If necessary, recommend tools I can easily buy at a local hardware store.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-가장 강력한 기능입니다. 파손 부위, 누수 위치, 복잡한 배선 사진을 직접 찍어서 업로드한 뒤 질문하세요.
+This is the most powerful feature. Take a direct photo of the damaged area, leak, or complex wiring, upload it, and ask for help.
 
-> **역할 (Role):** 너는 친절하고 꼼꼼한 '홈 케어 마스터'야. 초보자도 완벽하게 이해하고 따라 할 수 있도록 전문 용어를 배제하고 아주 쉽게 설명해야 해.
+> **Role:** You are a friendly and meticulous 'Home Care Master'. You must explain everything extremely simply, avoiding technical jargon, so even an absolute beginner can perfectly understand and follow along.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 목표: 사진에 보이는 상태를 스스로 수리하고 싶어.
-> - 보유 장비: `[현재 가지고 있는 공구, 예: 전동 드릴, 몽키스패너 등]`
-> - 첨부 파일: `[수리할 부위의 사진 업로드]`
+> - Goal: I want to fix the issue shown in the photo myself.
+> - Available Tools: `[Tools you currently own, e.g., power drill, adjustable wrench, etc.]`
+> - Attachment: `[Upload a clear photo of the area to be repaired]`
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **위험성 평가 (Safety First):** 작업 전 반드시 꺼야 할 두꺼비집(차단기)이나 수도 밸브가 있는지 명시해. 감전이나 누수 등 큰 사고 위험이 있다면 단호하게 "이건 전문가를 부르세요"라고 경고해 줘.
-> 2. **쇼핑 리스트:** 철물점이나 다이소 직원에게 보여주면 바로 살 수 있게, 부품의 정확한 명칭과 규격을 정리해 줘. (예: "35mm 수전 카트리지")
-> 3. **Step-by-Step 가이드:** 1번부터 끝까지 작업 순서를 번호로 매겨서 설명해. 각 단계에서 주의해야 할 '핵심 꿀팁'도 반드시 추가해 줘.
-> 4. **실수 방지:** 이 작업을 할 때 초보자들이 가장 많이 저지르는 치명적인 실수가 무엇인지 짚어줘.
+> 1. **Safety First (Risk Assessment):** Explicitly state if there is a main circuit breaker or water valve I absolutely must turn off before starting. If there is a high risk of major accidents like electrocution or severe flooding, firmly warn me: "Stop! Call a professional for this."
+> 2. **Shopping List:** List the exact names and specifications of the parts I need, formatted so I can simply show the screen to a hardware store employee. (e.g., "35mm faucet cartridge").
+> 3. **Step-by-Step Guide:** Number the repair sequence from start to finish. You must include crucial 'pro tips' and precautions for each specific step.
+> 4. **Mistake Prevention:** Point out the most common and fatal mistakes beginners make when attempting this specific repair.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 전문 용어(예: 플랜지, 앵글밸브 등)를 사용할 수밖에 없다면, 반드시 괄호 안에 쉬운 일상어로 풀어서 설명할 것.
-> - 애매한 정보로 짐작해서 말하지 말고, 사진상으로 식별이 어렵다면 더 가까이서 찍은 사진을 요구할 것.
+> - If you must use technical terms (e.g., flange, angle valve), you must explain them in simple everyday language in parentheses.
+> - Do not guess based on vague information. If the photo is unclear, ask me to take a closer, more detailed picture.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 진가는 **'사진 분석'과 '위험도 판별'**에 있습니다. 저 역시 이 방식으로 싱크대 수전 교체를 직접 해냈습니다. 기존 수전 사진을 올리니 AI가 "이건 원홀 수전이네요. 아래쪽 육각 너트가 녹슬어 안 풀릴 수 있으니 WD-40을 먼저 뿌리고 10분 뒤에 작업하세요"라고 알려주더군요.
-유튜브 영상은 내 집의 배관 구조와 다를 때가 많아 헷갈리지만, AI는 **내 사진 속 상황**에 맞춰 정확히 가이드합니다. 무엇보다 AI가 "이 부분은 메인 배관을 건드려야 하니 직접 하지 마세요"라고 선을 그어줄 때 과감히 포기하고 전문가를 부르는 것이, 오히려 더 큰 수리비를 막고 돈을 버는 가장 지혜로운 방법입니다.
+The true value of this prompt lies in its **'photo analysis' and 'risk assessment'** capabilities. I actually successfully replaced my kitchen sink faucet using this exact method. When I uploaded a photo of my old faucet, the AI advised: "This is a single-hole faucet. The hexagonal nut underneath might be rusted and stuck, so spray some WD-40 first and wait 10 minutes before trying to unscrew it."
 
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 전등 교체나 콘센트 수리 같은 전기 작업도 물어봐도 되나요?**
-  - A: 네, 가능합니다! 천장의 배선 사진을 찍어 올리면, 어떤 색 전선을 어디에 연결해야 하는지(활선, 중성선, 접지선 등) 정확하게 알려줍니다. **단, 작업 전 반드시 메인 차단기(두꺼비집)를 내리고 작업해야 한다는 점을 잊지 마세요.**
-
-- **Q: 사진을 여러 장 올려도 분석이 잘 되나요?**
-  - A: 전체적인 구조가 보이는 사진 1장과, 고장 난 부위를 확대한 근접 사진 1~2장을 함께 올리면 훨씬 더 정교하고 정확한 진단을 받을 수 있습니다.
-
-- **Q: 다이소 제품 이름까지 정확히 알려주나요?**
-  - A: 네, 최신 모델의 경우 다이소에서 판매하는 '보수용 실리콘', '배수구 클리너' 등의 일반적인 품명과 대체 가능한 철물점 도구까지 상세히 안내해 줍니다.
+YouTube videos can be confusing because the plumbing structure in the video often differs from your own home. However, AI provides precise guidance tailored strictly to **the reality shown in your photo**. More importantly, when the AI draws a line and says, "This requires tampering with the main pipe, do not do it yourself," walking away and calling a pro is the wisest way to prevent catastrophic damage and save money in the long run.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **Safety First (안전 최우선):** 셀프 수리의 가장 큰 리스크인 '사고'를 방지하기 위해, 위험성을 먼저 평가하도록 강제했습니다.
-2.  **맞춤형 쇼핑 리스트:** 초보자가 가장 막막해하는 '부품 구매' 단계의 허들을 낮춰, 정확한 명칭으로 실패 없이 재료를 준비할 수 있게 합니다.
-3.  **보유 장비 고려:** 현재 내가 가진 공구 안에서 가능한 방법을 제시하도록 Context를 부여하여, 배보다 배꼽이 더 커지는 상황(수리비보다 공구값이 더 나오는 상황)을 막습니다.
+- **Q: Can I ask about electrical work like replacing a light fixture or fixing an outlet?**
+  - A: Yes, absolutely! If you upload a photo of your ceiling wiring, it will tell you exactly which colored wire goes where (live wire, neutral wire, ground wire, etc.). **However, never forget that you MUST turn off the main circuit breaker before starting any electrical work.**
+
+- **Q: Does the analysis improve if I upload multiple photos?**
+  - A: Yes. Uploading one wide shot showing the overall structure, along with 1~2 close-up shots of the broken part, will result in a much more sophisticated and accurate diagnosis.
+
+- **Q: Will it give me the exact product names for local hardware stores?**
+  - A: Yes, the latest models will guide you with common product names like 'repair silicone' or 'drain cleaner', and even suggest alternative tools you can find at any local hardware store.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (무작정 시도)
+1. **Safety First:** By forcing the AI to evaluate risks upfront, it prevents 'accidents', which are the biggest risk in DIY home repairs.
+2. **Customized Shopping List:** It lowers the hurdle of the 'buying parts' stage—where beginners struggle the most—allowing you to prepare materials flawlessly with accurate terminology.
+3. **Accounting for Available Tools:** By providing the 'Context' of what tools you actually own, it prevents situations where buying the required tools costs more than hiring a professional.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Trial and Error)
 
 ```text
-유튜브만 보고 호기롭게 시작. "일단 몽키스패너로 나사부터 풀면 되겠지? 어... 이거 왜 물이 솟구쳐? 밸브 안 잠갔나? 으악!"
-(거실이 물바다가 되고, 결국 야간 출장 수리 기사님을 불러 15만 원을 지출함)
+Started enthusiastically after watching a quick YouTube video. "I'll just unscrew this with my wrench... Wait, why is water spraying everywhere? Did I not close the valve?! Aaaagh!"
+(The living room floods, resulting in an emergency night-call to a plumber, costing $150.)
 ```
 
-### ✅ After (AI 가이드 준수)
+### ✅ After (Following the AI Guide)
 
 ```text
-AI의 지시대로 안전하게 작업 진행:
-"1단계: 현관 밖 양수기함 밸브를 먼저 꽉 잠그세요.
-2단계: 배관에 남은 잔수를 빼고, 스패너를 반시계 방향으로 돌리세요.
-3단계: 연결 부위에 테프론 테이프를 나사산 방향으로 15바퀴 감으세요. (반대로 감으면 누수됩니다!)"
-👉 1시간 만에 안전하고 깔끔하게 교체 완료. 누수 제로, 출장비 10만 원 세이브.
+Executing the task safely according to the AI's instructions:
+"Step 1: Firmly close the main water valve outside your front door first.
+Step 2: Drain the remaining water from the pipe, and turn the wrench counterclockwise.
+Step 3: Wrap Teflon tape around the threads 15 times in the direction of the thread. (If you wrap it backwards, it will leak!)"
+👉 Replaced safely and cleanly in 1 hour. Zero leaks, $100 saved on call-out fees.
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-내 공간을 내 손으로 직접 고쳤을 때의 성취감은 생각보다 훨씬 큽니다. 거기에 덤으로 아낀 출장비 10만 원으로 오늘 저녁 맛있는 배달 음식까지 시켜 먹을 수 있죠.
-망가진 집기를 보며 막막해하지 말고, 일단 사진부터 한 장 찍어보세요. 든든한 AI 맥가이버가 언제든 당신의 질문을 기다리고 있습니다.
+The sense of accomplishment from fixing your own space with your own hands is much greater than you might think. Plus, with the $100 you saved on call-out fees, you can treat yourself to a nice dinner delivery tonight.
 
-무엇보다 첫째도 안전, 둘째도 안전입니다! 👷
+Don't feel overwhelmed looking at broken fixtures; just take a picture first. Your reliable AI MacGyver is always ready and waiting for your questions.
+
+Above all else: safety first, safety second! 👷

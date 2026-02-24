@@ -1,79 +1,79 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "소개 (About Us)"
-description: "Hello Prompt는 AI와 인간이 함께 만드는 실용적인 프롬프트 딕셔너리입니다. 검증된 프롬프트로 업무 효율을 높이세요."
+description: "Hello Prompt is a practical prompt dictionary created through AI and human collaboration. Boost your work efficiency with our verified prompts."
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🤖 Hello Prompt 소개
+# 🤖 About Hello Prompt
 
-- **🎯 타겟 독자:** AI로 업무 생산성을 높이고 싶은 모든 직장인, 개발자, 마케터
-- **💡 핵심 가치:** 당장 실무에 적용 가능한 검증된 프롬프트 제공
-- **🚀 기대 효과:** 압도적인 시간 단축과 업무 퀄리티 향상
+- **🎯 Target Audience:** Professionals, developers, and marketers eager to supercharge their productivity with AI.
+- **💡 Core Value:** Battle-tested, ready-to-use prompts designed for immediate real-world application.
+- **🚀 Expected Impact:** Massive time savings and a dramatic leap in work quality.
 
-> _"위대한 프롬프트는 우리가 일하는 방식을 근본적으로 바꿉니다. (Great Prompts change the way we work.)"_
+> _"Great Prompts change the way we work. They turn overwhelming tasks into a few simple clicks."_
 
-**Hello Prompt**는 AI 기술이 우리 삶과 업무에 실질적인 파급력을 갖도록 돕는 **'실용주의 프롬프트 딕셔너리'**입니다.
+**Hello Prompt** is a **'Pragmatic Prompt Dictionary'** dedicated to making AI a tangible, powerful force in your daily work and life.
 
-복잡하고 난해한 학술적 이론은 철저히 배제했습니다. 대신 내일 당장 출근해서 복사해 쓸 수 있는(Ready-to-use), 수백 번의 치열한 테스트를 거친 **검증된 프롬프트**만을 제공합니다.
+We've entirely stripped away complex, abstract academic theories. Instead, we deliver strictly **verified prompts** that have survived hundreds of rigorous tests—ready for you to copy, paste, and execute the moment you clock in tomorrow.
 
 ---
 
-## 👨‍💻 운영자 (Operator)
+## 👨‍💻 The Creator
 
 ### Jay (Chief Prompt Engineer)
 
-안녕하세요, Hello Prompt의 운영자 Jay입니다.
-저는 5년 차 풀스택 개발자이자, 일상의 모든 병목을 AI로 해결하길 즐기는 기술 애호가입니다.
+Hello! I'm Jay, the creator and operator behind Hello Prompt.
+As a full-stack developer with 5 years of experience, I am a passionate tech enthusiast who loves eliminating daily bottlenecks using AI.
 
-매일같이 쏟아지는 새로운 AI 모델과 수많은 프롬프트 속에서, **"진짜 실무에 쓸모 있는 정보"**는 극소수에 불과하다는 것을 깨달았습니다. 독자 여러분의 귀한 시간을 아껴드리기 위해, 제가 직접 수십 번 실패하고 다듬어낸 '진짜 프롬프트'만을 엄선하여 공유합니다.
+Amidst the daily flood of new AI models and countless prompts, I realized that **"truly practical, actionable information"** is exceedingly rare. To save your valuable time, I personally iterate, fail, and refine these prompts dozens of times, sharing only the most elite, 'authentic prompts.'
 
 - **Email:** support@helloprompt.kr
 - **Github:** [github.com/TaeGuNi](https://github.com/TaeGuNi) (Personal Profile)
 
 ---
 
-## 🎯 우리의 미션 (Mission)
+## 🎯 Our Mission
 
-우리는 단순히 AI 명령어 목록을 나열하지 않습니다. 여러분의 **'시간(Time)'을 압도적으로 절약**해 드리는 것이 유일한 목표입니다.
+We don't just list AI commands. Our absolute, singular goal is to **drastically save your 'Time'**.
 
-1. **Zero Hallucination (환각 제로):** 거짓 정보를 지어내는 엉성한 프롬프트는 철저히 배제합니다.
-2. **Ready-to-Use (즉시 도입):** 구조를 고민할 필요 없이, 복사해서 변수만 채워 넣으면 즉시 작동하는 도구를 제공합니다.
-3. **Cross-Model Compatibility (범용성):** ChatGPT, Claude, Gemini 등 다양한 대화형 AI 모델에서 일관된 성능을 내는지 교차 검증합니다.
-
----
-
-## 👥 운영 정책 (Operation Policy)
-
-### 1. Human-in-the-loop (AI와 인간의 완벽한 협업)
-
-본 블로그의 모든 콘텐츠 초안은 최신 AI 기술의 도움을 받아 작성됩니다. 하지만 발행 전 **반드시 현업 전문가의 날카로운 검수(Review)와 가혹한 실전 테스트(Test)**를 거칩니다. 영혼 없는 기계적 번역이나 정보의 나열이 아닌, 사람의 치열한 '인사이트(Insight)'가 담긴 콘텐츠만을 지향합니다.
-
-### 2. Strict Quality Assurance (가차 없는 품질 관리)
-
-우리는 자체 개발한 **[품질 평가 모델(Quality Model)](/docs/QUALITY_MODEL)**을 적용하여, 총점 700점 만점 기준을 통과한 엄선된 포스트만 발행합니다. 독자의 실무에 도움이 되지 않는 가치 없는 정보는 단 1건도 허용하지 않습니다.
+1. **Zero Hallucinations:** We ruthlessly eliminate sloppy prompts that cause AI to fabricate false information.
+2. **Ready-to-Use:** No need to struggle with structure. We provide tools that work instantly—just copy, fill in your specific variables, and deploy.
+3. **Cross-Model Compatibility:** We cross-verify our prompts to ensure consistent, high-tier performance across various conversational AI models, including ChatGPT, Claude, and Gemini.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 👥 Operational Policy
 
-이 블로그의 모든 프롬프트는 '역할(Role) - 상황(Context) - 지시(Task) - 제약(Constraints)'이라는 견고한 엔지니어링 구조 위에서 설계되었습니다. 특히 AI의 창의성을 적절히 통제하여, 어떤 상황에서도 **안정적이고 예측 가능한 결과물**을 도출해 내는 데 집중했습니다. Hello Prompt와 함께라면, 여러분도 오늘부터 즉시 AI를 완벽하게 제어하는 지휘자가 될 수 있습니다.
+### 1. Human-in-the-Loop (Perfect AI-Human Synergy)
 
----
+While all our initial content drafts are accelerated by cutting-edge AI, they **must undergo piercing reviews and ruthless real-world testing by industry experts** before publication. We reject soulless, mechanical translations or mere data dumps; we strive exclusively for content infused with intense, human 'Insight.'
 
-## 🙋 자주 묻는 질문 (FAQ)
+### 2. Strict Quality Assurance
 
-- **Q: 이곳의 프롬프트를 제 업무에 그대로 가져다 써도 되나요?**
-  - A: 물론입니다! 모든 프롬프트는 상업적, 비상업적 업무에 즉시 활용할 수 있도록 설계되었습니다. 마음껏 복사해서 효율을 높이세요.
-
-- **Q: 프롬프트 결과물이 기대한 것과 약간 다르게 나옵니다. 어떻게 하죠?**
-  - A: 제공된 프롬프트의 `[제약조건(Constraints)]` 섹션에 여러분만의 구체적인 규칙을 한두 줄 추가해 보세요. AI는 제약이 명확할수록 더 날카로운 결과물을 만들어냅니다.
-
-- **Q: ChatGPT 외에 Claude나 Gemini에서도 잘 작동하나요?**
-  - A: 네, Hello Prompt의 모든 자료는 최신 LLM(대형 언어 모델)들의 공통적인 추론 방식을 고려하여 작성된 '범용 프롬프트'입니다. 선호하시는 어떤 모델에서든 강력한 성능을 발휘합니다.
+We enforce our proprietary **[Quality Evaluation Model](/docs/QUALITY_MODEL)**. Only elite posts that pass our rigorous 700-point standard are published. We do not tolerate a single piece of worthless information that fails to assist our readers in their actual work.
 
 ---
 
-**함께 더 똑똑하게 일해봅시다.**  
+## 💡 Writer's Insight
+
+Every prompt on this blog is engineered upon a rock-solid architecture: 'Role - Context - Task - Constraints.' In particular, we focus heavily on properly reigning in the AI's creativity to consistently produce **stable, predictable, and highly accurate results** regardless of the scenario. With Hello Prompt, you can immediately become a maestro, orchestrating AI to perfection starting today.
+
+---
+
+## 🙋 Frequently Asked Questions (FAQ)
+
+- **Q: Can I just copy and paste these prompts directly into my daily workflows?**
+  - A: Absolutely! Every single prompt is designed for immediate integration into both commercial and non-commercial tasks. Copy away and watch your efficiency soar.
+
+- **Q: The AI's output is slightly different from what I expected. What should I do?**
+  - A: Try adding a line or two of your own specific rules into the `[Constraints]` section of our provided prompt. The sharper and more explicit your constraints, the more precise the AI's output will be.
+
+- **Q: Do these prompts work well on Claude or Gemini, or just ChatGPT?**
+  - A: Yes, they do. All materials on Hello Prompt are crafted as 'Universal Prompts,' taking into account the common reasoning patterns of state-of-the-art Large Language Models (LLMs). They will deliver robust performance on whichever model you prefer to use.
+
+---
+
+**Let's work smarter, together.**  
 **Happy Prompting!** ⚡️

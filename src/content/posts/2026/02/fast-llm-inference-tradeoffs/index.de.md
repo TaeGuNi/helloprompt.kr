@@ -1,6 +1,6 @@
 ---
 title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "AI 모델의 추론 속도 개선을 위한 두 가지 상반된 접근 방식(Anthropic의 Low Batch Size와 OpenAI의 전용 하드웨어 모델)을 비교하고, 개발자가 선택해야 할 기준을 제시합니다."
+description: "Wir vergleichen zwei gegensätzliche Ansätze zur Verbesserung der Inferenzgeschwindigkeit von KI-Modellen (Anthropics Low Batch Size und OpenAIs spezialisierte Hardware-Modelle) und bieten Entwicklern klare Kriterien für die richtige Wahl."
 date: 2026-02-16
 tags:
   [
@@ -15,159 +15,159 @@ tags:
 cover: "./cover.jpg"
 ---
 
-# 🏎️ LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'
+# 🏎️ LLM-Inferenzgeschwindigkeitskrieg: 'VIP-Pass' vs. 'Leichtgewicht-Modell'
 
-- **🎯 추천 대상:** AI 엔지니어, 프롬프트 엔지니어, LLM 서비스 기획자 및 개발자
-- **⏱️ 소요 시간:** 5분 (프롬프트 평가 시스템 구축 시간)
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (평가자 역할 모델)
+- **🎯 Empfohlen für:** KI-Ingenieure, Prompt-Ingenieure, LLM-Service-Planer und Entwickler
+- **⏱️ Zeitaufwand:** 5 Minuten (Zeit zum Aufbau des Prompt-Evaluierungssystems)
+- **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet (als Evaluator-Modell)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-> _"가장 똑똑한 모델은 너무 비싸고 느리며, 빠르고 싼 모델은 멍청해서 쓸 수 없나요?"_
+> _"Ist das intelligenteste Modell zu teuer und langsam, während das schnelle, günstige Modell zu dumm ist, um es in der Praxis einzusetzen?"_
 
-최근 AI 업계의 화두는 단연 **'속도(Latency)'**입니다. 2026년 2월, Anthropic과 OpenAI는 거의 동시에 자사의 모델을 위한 'Fast Mode'를 발표했습니다. 하지만 두 회사가 선택한 '빠름'의 정의는 완전히 다릅니다. 하나는 **"돈을 더 내고 줄을 서지 않는 VIP 패스(Low Batch Size)"**라면, 다른 하나는 **"짐을 가볍게 해서 더 빨리 달리는 경량화(Specialized Hardware & Distillation)"**에 가깝습니다.
+Das derzeitige Hauptthema in der KI-Branche ist zweifellos **"Geschwindigkeit (Latency)"**. Im Februar 2026 kündigten Anthropic und OpenAI fast gleichzeitig "Fast Modes" für ihre Modelle an. Die Definition von "schnell" unterscheidet sich bei beiden Unternehmen jedoch grundlegend. Der eine Ansatz ist eine Art **"VIP-Pass (Low Batch Size)", bei dem man mehr zahlt, um nicht anstehen zu müssen**, während der andere eher einer **"Gewichtsreduzierung (Specialized Hardware & Distillation)" ähnelt, um mit weniger Ballast schneller rennen zu können**.
 
-이 글에서는 두 가지 상반된 접근 방식을 분석하고, 실무에서 어떤 'Fast Mode'를 선택해야 할지 명확한 기준을 제시합니다. 더 나아가, 내 서비스에 저렴한 경량화 모델을 과감히 도입해도 될지 정량적으로 검증할 수 있는 **'LLM-as-a-Judge 성능 검증 프롬프트'**를 공개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Anthropic의 Fast Mode**: 기존 모델(Claude 3.5 Opus)의 배치 사이즈를 줄여 지능 하락 없이 속도만 높인 'VIP 패스' 전략 (단, 인프라 비용이 매우 비쌈).
-2. **OpenAI의 Fast Mode**: 전용 Cerebras 칩의 한계에 맞춰 모델을 경량화(Spark)하여 압도적인 속도와 저렴한 비용을 확보했지만, 추론 능력이 다소 감소.
-3. **해결책**: 내 서비스에 저렴한 모델을 적용해도 되는지 확인하려면, 비싼 모델(GPT-4o 등)을 심판으로 세워 저렴한 모델의 답변을 자동 평가하는 **'Distillation QA 프롬프트'**를 활용해야 함.
+In diesem Artikel analysieren wir diese beiden gegensätzlichen Ansätze und bieten klare Kriterien dafür, welchen "Fast Mode" Sie in der Praxis wählen sollten. Darüber hinaus stellen wir einen quantitativen **"LLM-as-a-Judge Performance Validation Prompt"** vor, mit dem Sie fundiert entscheiden können, ob Sie ein kostengünstiges, leichtgewichtiges Modell bedenkenlos in Ihren Service integrieren können.
 
 ---
 
-## 🚀 해결책: "LLM-as-a-Judge 모델 성능 검증 프롬프트"
+## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Anthropic's Fast Mode**: Eine "VIP-Pass"-Strategie, die die Batch-Größe des bestehenden Modells (Claude 3.5 Opus) reduziert, um die Geschwindigkeit ohne Intelligenzverlust zu erhöhen (allerdings bei sehr hohen Infrastrukturkosten).
+2. **OpenAI's Fast Mode**: Das Modell wurde durch Destillation (Spark) an die Grenzen dedizierter Cerebras-Chips angepasst, was zu überragender Geschwindigkeit und niedrigen Kosten führt, jedoch auf Kosten einer etwas geringeren Schlussfolgerungsfähigkeit.
+3. **Die Lösung**: Um zu prüfen, ob ein günstigeres Modell für Ihren Service geeignet ist, nutzen Sie einen **"Distillation QA Prompt"**, bei dem ein teures Modell (wie GPT-4o) als Richter agiert, um die Antworten des günstigeren Modells automatisch zu bewerten.
 
-빠르게 두 모델의 답변 품질 차이만 비교하고 싶을 때 사용하세요.
+---
 
-> **Role:** 당신은 엄격한 AI 모델 평가자입니다.
+## 🚀 Lösung: "LLM-as-a-Judge Prompt zur Modellbewertung"
+
+### 🥉 Basic Version (Basisversion)
+
+Verwenden Sie diese Version, wenn Sie nur schnell den Qualitätsunterschied zwischen den Antworten zweier Modelle vergleichen möchten.
+
+> **Rolle:** Du bist ein strenger KI-Modell-Evaluator.
 >
-> **Task:** `[원본 프롬프트]`에 대해 똑똑한 `[모델 A]`와 빠르고 저렴한 `[모델 B]`가 작성한 답변을 비교하세요.
+> **Aufgabe:** Vergleiche die Antworten des intelligenten `[Modell A]` und des schnellen, günstigen `[Modell B]` auf den `[Original-Prompt]`.
 >
-> **Context:**
+> **Kontext:**
 >
-> - 목표: 저렴한 `[모델 B]`가 비싼 `[모델 A]`를 대체할 수 있는지 판단해야 합니다.
+> - Ziel: Es muss entschieden werden, ob das günstige `[Modell B]` das teure `[Modell A]` ersetzen kann.
 >
 > **Format:**
-> 두 모델의 답변을 10점 만점으로 평가하고, 승자를 판정해 주세요.
+> Bewerte die Antworten beider Modelle auf einer Skala von 1 bis 10 und küre einen Gewinner.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Expertenversion)
 
-정량적인 점수와 구체적인 합격 여부를 JSON으로 파싱하여 A/B 테스트 파이프라인에 즉시 연동할 때 사용하세요.
+Nutzen Sie diese Version, um quantitative Ergebnisse und eine klare "Bestanden/Nicht bestanden"-Entscheidung als JSON zu parsen und direkt in Ihre A/B-Testing-Pipeline zu integrieren.
 
-> **Role (역할):**
-> 당신은 20년 경력의 시니어 데이터 엔지니어이자 엄격한 코드 리뷰어 및 결과 검수자입니다.
+> **Role (Rolle):**
+> Du bist ein Senior Data Engineer mit 20 Jahren Erfahrung sowie ein strenger Code-Reviewer und Qualitätsprüfer.
 >
-> **Context (상황):**
+> **Context (Kontext):**
 >
-> - 배경: 당사는 LLM API 추론 비용 절감을 위해 고성능 모델(Reference)에서 경량화 모델(Target)로 전환을 검토 중입니다.
-> - 목표: "빠른 경량 모델(Model B)이 느리고 비싼 고성능 모델(Model A)을 안전하게 대체할 수 있는지"를 엄밀하게 판단하는 것입니다.
+> - Hintergrund: Unser Unternehmen prüft den Wechsel von einem Hochleistungsmodell (Reference) zu einem leichtgewichtigen Modell (Target), um die Inferenzkosten für LLM-APIs zu senken.
+> - Ziel: Strenge Beurteilung, ob das "schnelle, leichte Modell (Modell B)" das "langsame, teure Hochleistungsmodell (Modell A)" sicher ersetzen kann.
 >
-> **Task (요청):**
+> **Task (Aufgabe):**
 >
-> 1. 아래 제공된 `[Source Prompt]`를 읽고 사용자의 본래 의도와 제약 조건을 파악하세요.
-> 2. `[Model A Response]`와 `[Model B Response]`를 꼼꼼히 비교 분석하세요.
-> 3. 평가 기준에 맞춰 `[Model B Response]`가 프로덕션(실무) 환경에 즉시 투입될 수 있는 수준인지 정량적으로 평가하세요.
+> 1. Lies den unten bereitgestellten `[Source Prompt]` und erfasse die ursprüngliche Absicht des Benutzers sowie alle Einschränkungen.
+> 2. Vergleiche und analysiere die `[Model A Response]` und die `[Model B Response]` detailliert.
+> 3. Bewerte anhand der Kriterien quantitativ, ob die `[Model B Response]` auf einem Niveau ist, das sofort in einer Produktionsumgebung (Praxis) eingesetzt werden kann.
 >
-> **Criteria (평가 기준):**
+> **Criteria (Bewertungskriterien):**
 >
-> 1. **정확성 (Correctness):** 사실 관계 오류나 환각(Hallucination) 현상이 없는가?
-> 2. **지시 이행 (Instruction Following):** 원본 프롬프트가 요구한 모든 제약 조건과 출력 형식을 완벽히 준수했는가?
-> 3. **안전성 (Safety):** 위험하거나 편향된 데이터, 버그를 유발할 수 있는 잘못된 코드를 포함하지 않았는가?
+> 1. **Korrektheit (Correctness):** Gibt es sachliche Fehler oder Halluzinationen (Hallucination)?
+> 2. **Befolgung von Anweisungen (Instruction Following):** Wurden alle im ursprünglichen Prompt geforderten Einschränkungen und das Ausgabeformat strikt eingehalten?
+> 3. **Sicherheit (Safety):** Enthält die Antwort gefährliche oder voreingenommene Daten oder fehlerhaften Code, der Bugs verursachen könnte?
 >
-> **Constraints (제약사항):**
+> **Constraints (Einschränkungen):**
 >
-> - 반드시 아래 제공된 JSON 형식으로만 출력하세요. 마크다운 코드블럭(`json ... `)을 포함하지 말고 순수 JSON 문자열만 반환해야 합니다.
-> - `pass` 필드는 총점이 95점 이상일 때만 `true`로 설정하세요. 아주 사소한 포맷 누락이라도 발생했다면 가차 없이 `false`를 부여하세요.
+> - Gib das Ergebnis AUSSCHLIESSLICH in dem unten angegebenen JSON-Format aus. Füge keine Markdown-Codeblöcke (`json ... `) hinzu, sondern gib nur den reinen JSON-String zurück.
+> - Setze das Feld `pass` NUR DANN auf `true`, wenn die Gesamtpunktzahl mindestens 95 Punkte beträgt. Selbst bei der kleinsten Formatierungsabweichung musst du unerbittlich `false` vergeben.
 >
-> **Format (출력 형식):**
+> **Format (Ausgabeformat):**
 > {
-> "score": "[0-100점 사이의 정수]",
-> "pass": [true 또는 false],
-> "reason": "[구체적인 감점 사유 (감점 요인이 없다면 '완벽함' 작성)]",
-> "diff_summary": "[Model A와 B의 결정적 품질 차이점 요약]"
+> "score": "[Ganze Zahl zwischen 0 und 100]",
+> "pass": [true oder false],
+> "reason": "[Detaillierte Begründung für Punktabzüge (falls keine Abzüge vorliegen, schreibe 'Perfekt')]",
+> "diff_summary": "[Zusammenfassung der entscheidenden Qualitätsunterschiede zwischen Modell A und B]"
 > }
 >
-> **Input Data (입력 데이터):**
+> **Input Data (Eingabedaten):**
 >
 > [Source Prompt]
-> `[여기에 서비스에서 실제 사용하는 원본 프롬프트를 입력하세요]`
+> `[Fügen Sie hier den Original-Prompt ein, der tatsächlich in Ihrem Service verwendet wird]`
 >
 > [Model A Response (Reference)]
-> `[Anthropic Opus 또는 GPT-4o 등 고성능 모델의 답변을 입력하세요]`
+> `[Fügen Sie die Antwort des Hochleistungsmodells ein, z.B. Anthropic Opus oder GPT-4o]`
 >
 > [Model B Response (Target)]
-> `[OpenAI Spark 또는 하위 경량화 모델의 답변을 입력하세요]`
+> `[Fügen Sie die Antwort von OpenAI Spark oder einem anderen leichtgewichtigen Modell ein]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Einblicke des Autors (Insight)
 
-새로운 경량화 모델이 출시될 때마다 벤치마크 점수에 의존하기보다는, **자신의 서비스에서 실제로 작동하는 프롬프트를 대상으로 직접 테스트하는 것**이 가장 정확합니다. 이 프롬프트를 활용하여 50~100개 정도의 실제 서비스 샘플 데이터를 자동 평가해 보세요.
+Anstatt sich bei der Veröffentlichung neuer, leichtgewichtiger Modelle blind auf Benchmark-Ergebnisse zu verlassen, ist es am präzisesten, **diese direkt mit den Prompts zu testen, die in Ihrem eigenen Service verwendet werden**. Nutzen Sie diesen Prompt, um etwa 50 bis 100 reale Datensätze Ihres Services automatisch zu evaluieren.
 
-만약 `pass` 비율이 90%를 넘는다면, 여러분의 비즈니스는 과감하게 OpenAI의 Fast Mode나 경량화 모델로 전환하여 인프라 비용을 최대 10배 이상 절감할 수 있습니다. 반면 미세한 뉘앙스 파악이나 복잡한 추론에서 잦은 오류가 발견된다면, 비용을 더 지불하더라도 Anthropic의 'VIP 버스'를 타는 것이 장기적인 최종 사용자 경험(UX)과 브랜드 신뢰도를 지키는 길입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 심판 역할을 하는 평가자 모델은 어떤 것을 써야 하나요?**
-  - A: 가장 지능이 뛰어난 최상위 모델을 사용하는 것이 필수적입니다. GPT-4o, Claude 3.5 Opus, 또는 Claude 3.5 Sonnet과 같은 프론티어급 모델을 평가자로 지정해야 편향되지 않고 정확한 채점 결과를 얻을 수 있습니다.
-
-- **Q: 평가 결과인 JSON 출력이 가끔 깨지거나 형식을 벗어납니다.**
-  - A: 프롬프트 제약사항에 "마크다운 코드블럭 제외", "순수 JSON 문자열만 반환" 등의 강력한 지시를 넣고, API 호출 시 `response_format: { "type": "json_object" }` (OpenAI 기준) 옵션을 켜두면 파싱 에러를 99% 방지할 수 있습니다.
-
-- **Q: Model B의 답변이 Model A보다 훨씬 짧은데 감점해야 하나요?**
-  - A: 길이가 짧더라도 프롬프트의 핵심 내용을 모두 포함하고 지시사항을 이행했다면 감점해서는 안 됩니다. 오히려 경량화 모델은 종종 불필요한 서론과 결론을 생략하여 더 효율적인 정답만 내놓기도 하므로, 이를 감별해 내는 것이 중요합니다.
+Wenn die `pass`-Rate über 90 % liegt, kann Ihr Unternehmen mutig auf den Fast Mode von OpenAI oder ein anderes leichtgewichtiges Modell umsteigen und so die Infrastrukturkosten um das bis zu 10-fache senken. Wenn Sie jedoch häufig Fehler bei der Erfassung feiner Nuancen oder bei komplexen Schlussfolgerungen feststellen, ist es besser, mehr Geld in die Hand zu nehmen und in den "VIP-Bus" von Anthropic einzusteigen, um das langfristige Nutzererlebnis (UX) und das Vertrauen in Ihre Marke zu sichern.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1. **명확한 비교군 설정 (Reference Baseline):** 고성능 모델의 완벽한 정답(Reference)을 미리 제공함으로써 평가자 모델이 채점 기준을 스스로 확립하도록 돕습니다. 이는 단독 제로샷(Zero-shot) 평가보다 훨씬 일관되고 정밀한 결과를 보장합니다.
-2. **엄격한 Pass/Fail 기준 도입:** 단순히 뭉뚱그려 점수만 내는 것이 아니라 `95점 이상일 때만 true`라는 하드 제약을 걸어 보수적이고 안전한 인프라 의사결정이 가능하도록 설계했습니다.
-3. **JSON 강제 출력 최적화:** 평가 결과를 즉시 자동화 스크립트나 CI/CD 파이프라인(예: 모델 A/B 테스트 라우팅 자동화)에 연동할 수 있도록 기계 친화적인(Machine-readable) 포맷으로 구속했습니다.
+- **F: Welches Modell sollte ich als Evaluator (Richter) einsetzen?**
+  - A: Es ist unerlässlich, das intelligenteste Spitzenmodell zu verwenden. Modelle der Frontier-Klasse wie GPT-4o, Claude 3.5 Opus oder Claude 3.5 Sonnet müssen als Evaluatoren eingesetzt werden, um unvoreingenommene und hochpräzise Bewertungsergebnisse zu erzielen.
+
+- **F: Die JSON-Ausgabe der Bewertung ist manchmal fehlerhaft oder weicht vom Format ab.**
+  - A: Indem Sie starke Anweisungen wie "Keine Markdown-Codeblöcke" und "Nur reinen JSON-String zurückgeben" in die Einschränkungen des Prompts aufnehmen und beim API-Aufruf die Option `response_format: { "type": "json_object" }` (bei OpenAI) aktivieren, können Sie Parsing-Fehler zu 99 % verhindern.
+
+- **F: Sollte ich Punkte abziehen, wenn die Antwort von Modell B viel kürzer ist als die von Modell A?**
+  - A: Solange die Antwort kürzer ist, aber alle Kernaussagen des Prompts enthält und die Anweisungen erfüllt wurden, dürfen keine Punkte abgezogen werden. Oft lassen leichtgewichtige Modelle unnötige Einleitungen und Schlüsse weg und liefern effizienter die richtige Antwort. Genau dies gilt es zu erkennen.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie des Prompts (Why it works?)
 
-### ❌ Before (단순 벤치마크 점수에만 의존할 때)
+1. **Klare Festlegung einer Vergleichsgruppe (Reference Baseline):** Durch die Vorab-Bereitstellung der perfekten Antwort (Reference) des Hochleistungsmodells helfen wir dem Evaluator-Modell, eigene Bewertungskriterien aufzustellen. Dies garantiert weitaus konsistentere und präzisere Ergebnisse als eine isolierte Zero-Shot-Evaluierung.
+2. **Einführung strenger Pass/Fail-Kriterien:** Es wird nicht einfach nur eine Punktzahl vergeben, sondern eine harte Grenze gezogen (`true` nur ab 95 Punkten). Dies ermöglicht konservative und sichere Infrastrukturentscheidungen.
+3. **Erzwungene JSON-Ausgabe-Optimierung:** Das maschinenlesbare Format stellt sicher, dass die Evaluierungsergebnisse sofort in Automatisierungsskripte oder CI/CD-Pipelines (z. B. für automatisiertes A/B-Testing-Routing) integriert werden können.
+
+---
+
+## 📊 Beweis: Vorher & Nachher
+
+### ❌ Vorher (Wenn man sich nur auf reine Benchmark-Scores verlässt)
 
 ```text
-"새로 나온 Spark 모델이 Llama-3보다 벤치마크 점수가 훨씬 높대! 당장 우리 프로덕션에도 적용하자."
--> 적용 직후 복잡한 예외 처리 로직에서 환각(Hallucination) 연쇄 발생, 치명적인 버그로 인한 사용자 클레임 폭주 및 결국 롤백.
+"Das neue Spark-Modell hat viel höhere Benchmark-Werte als Llama-3! Lass uns das sofort in unserer Produktion einsetzen."
+-> Unmittelbar nach der Implementierung führt dies zu einer Kettenreaktion von Halluzinationen in komplexen Ausnahmebehandlungslogiken, massiven Nutzerbeschwerden aufgrund kritischer Fehler und letztendlich zu einem Rollback.
 ```
 
-### ✅ After (LLM-as-a-Judge 프롬프트로 사전 검증 시)
+### ✅ Nachher (Mit Vorab-Verifizierung durch den LLM-as-a-Judge Prompt)
 
 ```json
 {
   "score": 85,
   "pass": false,
-  "reason": "Model B는 JSON 출력 형식을 무시하고 친절한 일반 텍스트 인사말을 섞어 반환하여 시스템 파싱 에러를 유발합니다.",
-  "diff_summary": "Model A는 모든 제약 조건과 출력 포맷을 완벽히 지킨 반면, Model B는 텍스트 포맷팅 지시를 부분적으로 누락함."
+  "reason": "Modell B ignoriert das JSON-Ausgabeformat und fügt eine freundliche Standard-Textbegrüßung hinzu, was zu einem System-Parsing-Fehler führt.",
+  "diff_summary": "Während Modell A alle Einschränkungen und das Ausgabeformat perfekt einhält, lässt Modell B die Anweisungen zur Textformatierung teilweise außer Acht."
 }
 ```
 
-**결과:** 실무 투입 전 경량화 모델의 치명적 한계를 미리 파악하고, 해당 태스크에 대해서는 안전하게 고성능 모델(Model A) API를 유지하는 **데이터 기반 의사결정** 완료.
+**Ergebnis:** Durch datengesteuerte Entscheidungsfindung werden fatale Einschränkungen des leichtgewichtigen Modells vor dem Einsatz in der Praxis erkannt. Für diese spezifische Aufgabe wird stattdessen sicher die API des Hochleistungsmodells (Modell A) beibehalten.
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-빠른 응답 속도는 최고의 사용자 경험(UX)을 제공하는 무기이지만, **"틀린 답을 누구보다 빠르게"** 주는 것은 서비스의 신뢰도를 깎아먹는 지름길입니다.
+Schnelle Antwortzeiten sind eine starke Waffe für ein exzellentes Nutzererlebnis (UX). Jedoch ist es der direkteste Weg zum Verlust der Glaubwürdigkeit Ihres Dienstes, **"schneller als alle anderen die falsche Antwort"** zu liefern.
 
-- **정확도가 생명이고 복잡한 추론이 필요하다면:** 자본을 투자해서라도 지능이 온전한 Anthropic의 Fast Mode를 선택하세요.
-- **물량과 속도가 최우선이고 태스크가 단순하다면:** 경량화 모델(OpenAI Fast Mode 등)을 적극 도입하세요. 단, 오늘 소개한 평가 프롬프트로 반드시 **안전 마진(Safety Margin)**을 검증한 뒤에 말이죠.
+- **Wenn Genauigkeit entscheidend ist und komplexe Schlussfolgerungen erforderlich sind:** Investieren Sie das nötige Kapital und entscheiden Sie sich für den Fast Mode von Anthropic, um die volle Intelligenz zu erhalten.
+- **Wenn Volumen und Geschwindigkeit oberste Priorität haben und die Aufgabe einfach ist:** Führen Sie aktiv leichtgewichtige Modelle (wie den OpenAI Fast Mode) ein. Tun Sie dies jedoch erst, nachdem Sie die **Sicherheitsmarge (Safety Margin)** zwingend mit dem heute vorgestellten Evaluierungs-Prompt überprüft haben.
 
-현명하고 날카로운 벤치마킹으로 비용 절감과 품질이라는 두 마리 토끼를 모두 잡으시길 바랍니다. 이제 칼퇴하세요! 🍷
+Ich hoffe, dass Sie durch intelligentes und präzises Benchmarking beide Fliegen mit einer Klappe schlagen: Kostenreduktion und höchste Qualität. Machen Sie jetzt pünktlich Feierabend! 🍷

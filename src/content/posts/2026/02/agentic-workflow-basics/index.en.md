@@ -5,122 +5,122 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "AI를 단순 챗봇이 아닌 유능한 '동료'로 활용하는 에이전트 워크플로우(Agentic Workflow)의 핵심 프롬프트를 공개합니다."
+description: "Discover the core prompt for an Agentic Workflow that transforms AI from a simple chatbot into a highly capable virtual team member."
 tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 ---
 
-# 📝 혼자서 팀처럼 일하기: AI 에이전트 워크플로우 기초
+# 📝 Working Like a Team of One: AI Agent Workflow Basics
 
-- **🎯 추천 대상:** 1인 기업가, 프리랜서, 업무 과부하에 시달리는 기획자 및 마케터
-- **⏱️ 소요 시간:** 1시간 → 5분 (기획 및 검수 포함)
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (추론 능력이 뛰어난 상위 모델 권장)
+- **🎯 Target Audience:** Solopreneurs, freelancers, and overwhelmed PMs/marketers
+- **⏱️ Time Saved:** 1 hour → 5 minutes (including planning & review)
+- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (High-reasoning models strongly recommended)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Versatility:** ⭐⭐⭐⭐⭐
 
-> _"AI에게 모든 걸 한 번에 떠넘기고 실망하셨나요? 진짜 고수들은 AI를 챗봇이 아닌 '가상의 팀'으로 부립니다."_
+> _"Disappointed after dumping all your tasks onto AI at once? The real pros don't treat AI like a chatbot—they command it as a 'virtual team.'"_
 
-대부분의 사람들은 AI에게 "이거 해줘"라고 단답형으로 명령합니다. 하지만 업무가 복잡해질수록 AI의 결과물은 두루뭉술하고 뻔해집니다. 생산성의 격차는 여기서 벌어집니다.
+Most people give AI simple, one-off commands like "Do this for me." However, as tasks grow more complex, the AI's output becomes vague and generic. This is exactly where the productivity gap widens.
 
-프로들은 AI를 하나의 거대한 지능이 아니라, **'에이전트(Agent)'**들의 집합으로 취급합니다. 기획자 에이전트가 뼈대를 잡고, 카피라이터 에이전트가 살을 붙이며, 편집자 에이전트가 날카롭게 검수하는 **'나만의 가상 팀'**을 구축하는 것이죠. 오늘은 당신의 퇴근 시간을 혁신적으로 앞당겨 줄 '에이전틱 워크플로우(Agentic Workflow)'의 기초 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **업무를 쪼개고 연결하라:** 뭉뚱그려진 하나의 지시보다, 꼬리를 무는 연쇄적인 프롬프트 체인(Chain)이 압도적으로 유리합니다.
-2. **다중 인격(Role)을 부여하라:** 기획자, 실행가, 비평가로 역할을 철저히 분리하여 서로 논쟁하고 보완하게 만드세요.
-3. **피드백 루프를 태워라:** 첫 번째 결과물은 무조건 버리세요. AI가 스스로 비평하고 약점을 찾아내어 수정하는 과정을 강제해야 합니다.
+Professionals don't treat AI as a single, monolithic brain. Instead, they view it as an assembly of **'Agents.'** They build their own **'virtual team'** where a Planner Agent outlines the structure, a Copywriter Agent fleshes out the details, and an Editor Agent relentlessly reviews the work. Today, I'll introduce a foundational 'Agentic Workflow' prompt that will drastically cut down your working hours.
 
 ---
 
-## 🚀 해결책: "1인 에이전트 팀 구축 프롬프트"
+## ⚡️ TL;DR
 
-### 🥉 Basic Version (기본형)
+1. **Deconstruct and Chain Tasks:** Sequential, interlocking prompt chains are vastly superior to single, broad instructions.
+2. **Assign Multiple Personas (Roles):** Strictly separate the roles into Planner, Executor, and Critic so they can debate and complement each other.
+3. **Force a Feedback Loop:** Never accept the first draft. Force the AI to self-critique, identify its own weaknesses, and refine the output autonomously.
 
-빠르게 프로젝트의 뼈대와 역할 분담이 필요할 때 가볍게 사용하세요.
+---
 
-> **역할:** 너는 이제부터 10년 차 시니어 `[프로젝트 매니저]`야.
+## 🚀 The Solution: "One-Person Agent Team Setup Prompt"
+
+### 🥉 Basic Version
+
+Use this for a quick project outline and role assignment.
+
+> **Role:** You are now a senior `[Project Manager]` with 10 years of experience.
 >
-> **요청:** `[프로젝트 목표]`를 성공적으로 달성하기 위해 필요한 3단계 핵심 마일스톤을 기획하고, 각 단계별로 투입되어야 할 실무자(역할)와 그들이 수행해야 할 구체적인 액션 아이템을 표 형태로 정리해 줘.
+> **Task:** To successfully achieve the `[Project Goal]`, outline 3 core milestones. For each phase, specify the required specialist (role) and detail their specific action items in a markdown table format.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-하나의 대화 세션 안에서 AI가 3명의 전문가로 빙의하여, 기획부터 혹독한 검수까지 스스로 완수하게 만드는 강력한 프롬프트입니다.
+A powerful prompt that makes the AI embody three distinct experts within a single session, autonomously handling everything from initial planning to ruthless final editing.
 
-> **역할 (Role):** 너는 이제부터 업계 최고의 3인 전문가 팀(전략 기획자, 전문 카피라이터, 수석 비평가)을 모두 연기하는 **'슈퍼 에이전트'**야.
+> **Role:** You are a **'Super Agent'** embodying a top-tier team of three experts: a Strategic Planner, an Expert Copywriter, and a Chief Critic.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 현재 `[주제/제품]`에 대한 고해상도의 `[결과물 형태, 예: 세일즈 랜딩페이지 카피]`가 필요해.
-> - 목표: 경쟁사를 압도하는 논리와 독자의 마음을 훔치는 매력적인 결과물을 도출하는 것.
+> - Background: I need a high-resolution `[Output Format, e.g., Sales Landing Page Copy]` for my `[Topic/Product]`.
+> - Goal: To produce a compelling, persuasive outcome that outshines competitors and deeply resonates with the target audience.
 >
-> **요청 (Task):**
-> 다음 3단계를 순차적으로 반드시 수행해. (절대 한 번에 쏟아내지 말고, 단계별로 깊이 있게 사고할 것)
+> **Task:**
+> Execute the following 3 phases sequentially. (Do not dump everything at once; think deeply through each step.)
 >
-> 1. **Phase 1 (전략 기획자):** `[주제]`에 대한 명확한 타겟 페르소나, 핵심 소구점(USP), 그리고 전체 아웃라인을 논리적으로 기획해.
-> 2. **Phase 2 (전문 카피라이터):** Phase 1의 기획안을 바탕으로 실제 초안(Draft)을 작성해. 톤앤매너는 반드시 `[원하는 톤, 예: 전문적이고 설득력 있게]`를 유지해.
-> 3. **Phase 3 (수석 비평가):** 작성된 Phase 2의 초안을 자비 없이 비판적으로 해체해. 논리적 비약, 뻔하고 지루한 표현, 근거 부족을 지적해. 그리고 **이 비판을 모두 수용하여 극적으로 개선된 '최종 완성본'을 다시 출력해.**
+> 1. **Phase 1 (Strategic Planner):** Logically outline a clear target persona, Unique Selling Proposition (USP), and the overall structure for the `[Topic]`.
+> 2. **Phase 2 (Expert Copywriter):** Based on the Phase 1 outline, write the actual Draft. You must strictly maintain a `[Desired Tone & Manner, e.g., professional yet persuasive]` tone.
+> 3. **Phase 3 (Chief Critic):** Ruthlessly deconstruct the Phase 2 draft. Point out any logical leaps, cliché expressions, or lack of evidence. Then, **absorb all these criticisms and output a dramatically improved 'Final Masterpiece.'**
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 각 단계(Phase)가 시작될 때마다 마크다운으로 **"### Phase X: [단계명]"** 헤더를 명확히 달아줘.
-> - 수석 비평가는 "잘 썼습니다" 같은 의미 없는 칭찬을 절대 하지 마. 오직 약점만 파고들어.
+> - Clearly mark the start of each phase with a markdown header: **"### Phase X: [Phase Name]"**.
+> - The Chief Critic must NEVER give meaningless praise like "This is well written." Focus strictly on exposing weaknesses.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - Phase 2와 Phase 3 사이에는 반드시 비평가가 지적한 **"비평 요약 및 개선 방향"**을 먼저 보여줘야 해. 내가 사고 과정을 검증할 수 있어야 하니까.
+> - Between Phase 2 and Phase 3, you MUST first display the **"Criticism Summary & Improvement Direction"** highlighted by the Critic, so I can verify your thought process.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 진짜 가치는 마지막 3단계, **'Self-Refinement(자가 수정)'**에 있습니다.
-실무에서 이 프롬프트를 사용해 보면, 단순히 글을 잘 쓰는 것을 넘어 AI가 스스로 자신의 논리적 허점을 찾아내고 방어 논리를 세우는 모습에 감탄하게 됩니다.
+The true value of this prompt lies in the final phase: **'Self-Refinement.'**
+When you use this in the field, you'll be amazed not just by the quality of the writing, but by how the AI autonomously spots its own logical loopholes and builds defensive arguments against them.
 
-특히 '수석 비평가' 페르소나를 강제하면, 우리가 미처 생각하지 못했던 엣지 케이스(Edge Case)나 타겟 고객의 반발 심리까지 미리 짚어냅니다. 앤드류 응(Andrew Ng) 교수가 강조한 "에이전틱 워크플로우(Agentic Workflow)"의 가장 핵심적이고 즉각적인 적용 형태가 바로 이것입니다. 시간을 조금 더 투자하더라도, 이 방식으로 생성된 결과물은 수정 없이 바로 실무에 투입할 수 있을 만큼 압도적인 퀄리티를 자랑합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 무료 모델(예: ChatGPT 무료 버전)에서도 잘 작동하나요?**
-  - A: 작동은 하지만, 성능의 한계가 명확합니다. 이 프롬프트는 고도의 '추론 능력'과 '컨텍스트 유지력'을 요구합니다. 3명의 역할을 혼동하지 않으려면 반드시 GPT-4o, Claude 3.5 Sonnet 등 최고 수준의 모델을 사용하는 것을 강력히 권장합니다.
-
-- **Q: AI가 지시를 무시하고 한 번에 다 출력해 버리면 어떡하죠?**
-  - A: 간혹 발생하는 일입니다. 그럴 때는 요청(Task) 부분에 _"각 Phase가 끝날 때마다 나의 승인을 기다린 후 다음 Phase로 넘어가"_ 라는 문장을 추가해 보세요. 통제력을 훨씬 높일 수 있습니다.
+Forcing the 'Chief Critic' persona in particular allows the AI to preemptively catch edge cases or customer objections that you might have missed. This is the most essential, immediately actionable form of the "Agentic Workflow" championed by Dr. Andrew Ng. Even though it takes a little more time to process, the resulting output boasts such overwhelming quality that it can often be deployed into your workflow with zero human edits.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **다중 인격 부여 (Multi-Persona):** AI에게 단일 역할이 아닌 상호 보완적인 세 가지 역할을 동시에 부여하여, 한 모델 내에서 시야를 강제로 전환(Context Switching)시키고 편향을 최소화합니다.
-2.  **생각의 사슬 (Chain-of-Thought):** [기획 → 실행 → 가혹한 검증]이라는 인간 전문가의 작업 방식을 강제함으로써, 환각(Hallucination)을 줄이고 논리의 밀도를 높였습니다.
-3.  **반복 개선 루프 (Iterative Refinement):** AI의 첫 번째 답변은 보통 '적당히 좋은 수준(Good enough)'에 머뭅니다. 수석 비평가를 등장시켜 초안을 깨부수고 다시 짓게 만드는 과정이 퀄리티 수직 상승의 핵심 비밀입니다.
+- **Q: Does this work well on free models (e.g., ChatGPT Free)?**
+  - A: It works, but the performance ceiling is obvious. This prompt demands advanced 'reasoning capabilities' and high 'context retention.' To prevent the AI from confusing the three roles, I strongly recommend using top-tier models like GPT-4o or Claude 3.5 Sonnet.
 
----
-
-## 📊 증명: Before & After
-
-### ❌ Before (일반적인 "글 써줘" 프롬프트 결과)
-
-> "AI 에이전트는 현대 비즈니스에서 매우 중요합니다. 업무를 자동화하고 효율성을 높여주기 때문입니다. 많은 기업들이 도입을 고려해야 합니다..."
-> _(누구나 쓸 수 있는 교과서적이고 지루한 일반론)_
-
-### ✅ After (Pro 프롬프트 결과 - Phase 3 반영 후)
-
-> "단순한 챗봇 도입을 'AI 혁신'이라 착각하고 계십니까? 진정한 에이전틱 워크플로우는 단순한 효율성 증대가 아닌 '조직 구조의 완전한 재설계'를 의미합니다. 스스로 판단하고 오류를 수정하는 가상의 자율 팀이 어떻게 당신의 인건비를 1/10로 줄이고 생산성을 극대화하는지, 3가지 치명적인 전략을 공개합니다..."
-> _(비평가의 날카로운 지적을 수용하여, 훅(Hook)이 강력해지고 논리가 구체적으로 진화함)_
+- **Q: What if the AI ignores the sequential instruction and spits everything out at once?**
+  - A: This happens occasionally. If it does, simply add this line to the Task section: _"Wait for my approval at the end of each Phase before moving on to the next."_ This drastically increases your control over the output.
 
 ---
 
-## 🎯 결론
+## 🧬 Prompt Anatomy (Why it works?)
 
-혼자서 모든 것을 감당해야 한다는 압박감은 이제 버리세요. 당신의 모니터 뒤에는 지치지 않고, 핑계 대지 않으며, 당신의 지시를 완벽하게 수행할 세계 최고의 전문가 팀이 대기하고 있습니다.
+1.  **Multi-Persona Assignment:** By assigning three complementary roles simultaneously rather than a single identity, we force the model to undergo internal context switching, drastically minimizing bias.
+2.  **Chain-of-Thought:** Enforcing the human-expert workflow of [Planning → Execution → Ruthless Verification] reduces hallucinations and increases the density of the logic.
+3.  **Iterative Refinement Loop:** An AI's first draft usually plateaus at "good enough." Bringing in a Chief Critic to tear down the draft and rebuild it is the secret sauce for an exponential leap in quality.
 
-오늘 바로 당신만의 '어벤져스'를 소집하여 압도적인 퍼포먼스를 경험해 보세요.
+---
 
-이제 칼퇴하세요! 🍷
+## 📊 Proof: Before & After
+
+### ❌ Before (Standard "Write me a post" prompt)
+
+> "AI agents are very important in modern business because they automate tasks and increase efficiency. Many companies should consider adopting them..."
+> _(A textbook, painfully boring generalization anyone could write)_
+
+### ✅ After (Pro Prompt - After Phase 3 Refinement)
+
+> "Still mistaking a simple chatbot integration for 'AI Innovation'? A true Agentic Workflow isn't just about efficiency—it's a complete architectural redesign of your organization. Discover the 3 critical strategies for building an autonomous, self-correcting virtual team that can slash your labor costs by 90% while pushing productivity to its absolute limit..."
+> _(By absorbing the Critic's sharp feedback, the hook becomes highly compelling and the logic evolves into something highly specific.)_
+
+---
+
+## 🎯 Conclusion
+
+Let go of the pressure that you have to handle everything alone. Behind your monitor sits a world-class team of experts—they never tire, they make no excuses, and they are standing by to execute your vision flawlessly.
+
+Assemble your own 'Avengers' today and experience truly overwhelming performance.
+
+Now, go log off and enjoy your evening! 🍷

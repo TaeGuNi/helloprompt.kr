@@ -5,127 +5,127 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: 코드는 완성했는데 문서 작성이 귀찮으신가요? 프로젝트 구조와 핵심 정보만 제공하면 AI가 뱃지(Badge)부터 설치 가이드까지 완벽한 README.md를 작성해 줍니다.
+description: Vous avez terminé de coder, mais la rédaction de la documentation vous rebute ? Fournissez simplement la structure du projet et les informations clés, et l'IA rédigera un README.md parfait, des badges au guide d'installation.
 tags: [Github, Documentation, OpenSource, Branding, AI]
 ---
 
-# 📝 Github 프로젝트의 얼굴, README.md 자동 생성기
+# 📝 Générateur automatique de README.md : La vitrine de votre projet GitHub
 
-- **🎯 추천 대상:** 오픈소스 메인테이너, 사이드 프로젝트 개발자, 포트폴리오 준비 취준생
-- **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Recommandé pour :** Mainteneurs Open Source, développeurs de projets personnels (side projects), candidats préparant leur portfolio
+- **⏱️ Temps requis :** 1 heure → réduit à 3 minutes
+- **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"아무리 뛰어난 코드를 작성했어도, README가 부실하면 아무도 당신의 프로젝트를 열어보지 않습니다."_
+> _"Peu importe l'excellence de votre code, si votre README est médiocre, personne ne prendra la peine d'ouvrir votre projet."_
 
-훌륭한 오픈소스 프로젝트나 사이드 프로젝트를 완성하고도 `README.md` 작성을 미루고 계신가요? 개발자에게 문서 작성은 종종 코딩보다 더 큰 장벽으로 느껴집니다. "설치 방법은 어떻게 쓰지?", "기능 설명은 어디까지 해야 할까?", "라이선스와 뱃지는 어떻게 달지?" 고민하다 결국 빈 문서로 방치하게 되는 경우가 많습니다.
+Avez-vous finalisé un excellent projet Open Source ou un projet personnel, pour finalement repousser sans cesse la rédaction de votre `README.md` ? Pour beaucoup de développeurs, la documentation est souvent perçue comme un obstacle bien plus grand que le codage lui-même. "Comment dois-je rédiger les instructions d'installation ?", "Jusqu'à quel point dois-je détailler les fonctionnalités ?", "Comment ajouter des licences et des badges ?"... Face à ces interrogations, le fichier finit souvent par rester désespérément vide.
 
-이제 코딩에만 집중하세요. 프로젝트의 파일 트리와 핵심 기술 스택만 AI에게 던져주면, 글로벌 스탠다드에 맞는 그럴듯한 소개 페이지가 순식간에 탄생합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **시간의 극단적 단축:** 1시간 이상 걸리던 README.md 초안 작성을 단 3분 만에 끝낼 수 있습니다.
-2. **구조화된 템플릿:** 뱃지, 기능 소개, 설치 가이드, 라이선스 등 오픈소스 표준 양식을 자동으로 적용합니다.
-3. **가시성 및 신뢰도 상승:** 전문적으로 작성된 문서는 다른 개발자의 기여(Contribute)와 사용을 적극적으로 유도합니다.
+Désormais, concentrez-vous uniquement sur le code. Il vous suffit de fournir à l'IA l'arborescence de vos fichiers et vos principales stacks technologiques, et une page de présentation crédible, répondant aux standards mondiaux, verra le jour en un clin d'œil.
 
 ---
 
-## 🚀 해결책: "AI README Architect"
+## ⚡️ Résumé en 3 points (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Gain de temps extrême :** La rédaction d'une ébauche de `README.md`, qui prenait auparavant plus d'une heure, peut désormais être bouclée en seulement 3 minutes.
+2. **Modèle structuré :** Applique automatiquement les formats standards de l'Open Source, incluant les badges, la présentation des fonctionnalités, le guide d'installation et la licence.
+3. **Visibilité et crédibilité accrues :** Une documentation rédigée de manière professionnelle encourage activement les autres développeurs à utiliser votre projet et à y contribuer.
 
-빠르게 프로젝트의 뼈대만 잡고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 테크니컬 라이터]`야.
-> **요청:** 내 프로젝트의 `[파일 구조]`와 `[주요 기술 스택]`을 바탕으로 깔끔한 마크다운 형식의 README.md 초안을 작성해 줘.
+## 🚀 La solution : "AI README Architect"
+
+### 🥉 Version Basique (Basic Version)
+
+Utilisez cette version lorsque vous souhaitez poser rapidement l'ossature de votre projet.
+
+> **Rôle :** Tu es un `[Rédacteur Technique Senior]`.
+> **Tâche :** Rédige une ébauche de fichier `README.md` propre au format Markdown, en te basant sur la `[structure des fichiers]` et la `[stack technologique principale]` de mon projet.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Version Pro (Pro Version)
 
-오픈소스 표준에 맞춘 완벽한 디테일과 시각적 요소(뱃지, 이모지)가 필요할 때 사용하세요.
+Utilisez cette version lorsque vous avez besoin de détails impeccables alignés sur les standards Open Source et d'éléments visuels (badges, emojis).
 
-> **역할 (Role):** 너는 글로벌 오픈소스 프로젝트를 관리하는 `[시니어 메인테이너이자 테크니컬 라이터]`야.
+> **Rôle (Role) :** Tu es un `[Mainteneur Senior et Rédacteur Technique]` gérant des projets Open Source mondiaux.
 >
-> **상황 (Context):**
+> **Contexte (Context) :**
 >
-> - 배경: 새로운 사이드 프로젝트를 런칭했으며, 다른 개발자들이 쉽게 이해하고 기여할 수 있는 매력적인 소개 문서가 필요해.
-> - 목표: GitHub 표준 양식에 맞는 고품질의 `README.md` 완성
+> - Contexte : Je viens de lancer un nouveau side project et j'ai besoin d'un document de présentation attrayant pour que d'autres développeurs puissent facilement le comprendre et y contribuer.
+> - Objectif : Créer un `README.md` de haute qualité respectant les standards de GitHub.
 >
-> **요청 (Task):**
+> **Tâche (Task) :**
 >
-> 아래 프로젝트 정보를 바탕으로 `README.md` 전체 코드를 작성해 줘.
+> Rédige l'intégralité du code pour le `README.md` en te basant sur les informations du projet ci-dessous.
 >
-> **[프로젝트 정보]**
+> **[Informations du projet]**
 >
-> - **프로젝트 이름:** `[프로젝트 이름]`
-> - **한 줄 소개:** `[프로젝트의 핵심 가치를 설명하는 한 줄]`
-> - **기술 스택:** `[예: React, TypeScript, TailwindCSS]`
-> - **파일 구조:**
+> - **Nom du projet :** `[Nom du projet]`
+> - **Description courte :** `[Une phrase expliquant la valeur fondamentale du projet]`
+> - **Stack technique :** `[ex: React, TypeScript, TailwindCSS]`
+> - **Structure des fichiers :**
 >   ```text
->   [tree 명령어 결과 붙여넣기]
+>   [Collez ici le résultat de la commande tree]
 >   ```
 >
-> **제약사항 (Constraints):**
+> **Contraintes (Constraints) :**
 >
-> 1. **Badges:** 상단에 프로젝트 상태, 라이선스, 사용된 기술 스택에 맞는 동적 쉴드 뱃지(Shields.io)를 배치할 것.
-> 2. **Features:** 제공된 파일 구조와 스택을 분석하여 핵심 기능을 3~5가지의 불릿 포인트(이모지 포함)로 유추하여 작성할 것.
-> 3. **Getting Started:** `npm install`, `npm run dev` 등 개발 환경 세팅 및 실행 가이드를 단계별로 명확히 작성할 것.
-> 4. **License:** MIT 라이선스 섹션을 하단에 추가할 것.
-> 5. **출력 형식:** 마크다운(` ```markdown `) 코드 블록 하나로 전체 내용을 출력할 것.
+> 1. **Badges :** Place en haut du document des badges dynamiques (Shields.io) correspondant au statut du projet, à la licence et aux technologies utilisées.
+> 2. **Fonctionnalités (Features) :** Analyse la structure des fichiers et la stack fournies pour déduire et rédiger 3 à 5 fonctionnalités clés sous forme de liste à puces (avec emojis).
+> 3. **Pour commencer (Getting Started) :** Rédige des instructions claires et par étapes pour la configuration et l'exécution de l'environnement de développement, comme `npm install`, `npm run dev`.
+> 4. **Licence (License) :** Ajoute une section pour la licence MIT en bas du document.
+> 5. **Format de sortie :** Génère l'intégralité du contenu dans un seul bloc de code Markdown (` ```markdown `).
 >
-> **주의사항 (Warning):**
+> **Avertissements (Warning) :**
 >
-> - 파일 구조에 없는 알 수 없는 기능이나 패키지를 임의로 지어내지 마. (환각 방지)
-> - 설명은 간결하고 전문적인 톤(Tone & Manner)을 유지해.
+> - N'invente pas de fonctionnalités ou de packages inconnus qui ne figurent pas dans la structure des fichiers. (Prévention des hallucinations)
+> - Maintiens un ton (Tone & Manner) concis et professionnel.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 L'avis du rédacteur (Insight)
 
-이 프롬프트는 단순히 텍스트를 생성하는 것을 넘어, 오픈소스 생태계의 암묵적인 룰(뱃지 위치, 목차 구조, 설치 가이드의 흐름)을 AI가 알아서 지키도록 강제하는 데 의의가 있습니다.
+L'intérêt majeur de ce prompt ne réside pas simplement dans la génération de texte, mais dans le fait qu'il oblige l'IA à respecter les règles implicites de l'écosystème Open Source (l'emplacement des badges, la structure de la table des matières, le déroulement du guide d'installation).
 
-특히 `tree` 명령어를 통해 파일 구조를 제공하는 것이 핵심입니다. AI는 폴더와 파일명(`auth.ts`, `payment.controller.ts` 등)만 보고도 이 프로젝트가 어떤 기능을 하는지 놀랍도록 정확하게 유추해 냅니다.
+Le point crucial est de fournir la structure du projet via la commande `tree`. Rien qu'en examinant les noms de dossiers et de fichiers (comme `auth.ts`, `payment.controller.ts`, etc.), l'IA est capable de déduire le fonctionnement de votre projet avec une précision étonnante.
 
-**🍯 꿀팁:** 생성된 문서는 훌륭한 '초안'입니다. 여기에 실제 동작하는 UI 스크린샷이나 시연 GIF를 직접 추가하시면 완벽한 포트폴리오가 완성됩니다. 프로젝트 로고가 없다면 DALL-E나 Midjourney를 활용해 보는 것도 좋은 방법입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 파일 트리가 너무 길어서 프롬프트 입력 제한에 걸려요.**
-  - A: `node_modules`, `dist`, `.git` 등 핵심 비즈니스 로직과 무관한 빌드 아티팩트는 제외하세요. 터미널에서 `tree -I 'node_modules|dist|.git'` 명령어를 사용하면 깔끔하게 핵심 구조만 추출할 수 있습니다.
-
-- **Q: 한국어 말고 영어로 된 README를 만들고 싶어요.**
-  - A: 프롬프트의 **요청 (Task)** 마지막에 _"모든 내용은 자연스러운 비즈니스 영어로 작성해 줘."_ 라는 문장 한 줄만 추가하시면 글로벌 타겟의 README가 즉시 생성됩니다.
-
-- **Q: 기여자를 위한 가이드(CONTRIBUTING.md)도 만들 수 있나요?**
-  - A: 물론입니다. 작성된 README를 기반으로 이어지는 대화에서 _"이 프로젝트를 위한 오픈소스 기여자 가이드(CONTRIBUTING.md) 와 PR 템플릿(pull_request_template.md)도 작성해 줘"_ 라고 추가 요청해 보세요.
+**🍯 Astuce de pro :** Le document généré est une excellente "première ébauche". En y ajoutant vous-même des captures d'écran de l'interface utilisateur en action ou des GIF de démonstration, vous obtiendrez un portfolio parfait. Si vous n'avez pas de logo pour votre projet, utiliser DALL-E ou Midjourney peut être une excellente initiative.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Foire aux questions (FAQ)
 
-1. **Role 부여:** '시니어 메인테이너'라는 페르소나를 부여하여, 주니어 개발자가 놓치기 쉬운 뱃지, 라이선스 등의 오픈소스 필수 요소를 알아서 챙기도록 유도했습니다.
-2. **Context 제공:** '파일 구조'라는 강력한 맥락을 제공함으로써, AI가 뻔한 일반론이 아닌 해당 프로젝트에 정확히 들어맞는 맞춤형 설명을 생성하도록 만들었습니다.
-3. **Constraints(제약):** 임의의 기능을 지어내지 말라는 경고를 통해 AI의 할루시네이션(환각)을 차단하고 문서의 신뢰성을 확보했습니다.
+- **Q : Mon arborescence de fichiers est trop longue et dépasse la limite de caractères du prompt.**
+  - R : Excluez les artefacts de build qui ne sont pas liés à la logique métier principale, tels que `node_modules`, `dist` ou `.git`. Dans votre terminal, utilisez la commande `tree -I 'node_modules|dist|.git'` pour extraire proprement la structure essentielle.
+
+- **Q : Je souhaite créer un README en anglais plutôt qu'en français.**
+  - R : Il vous suffit d'ajouter une phrase à la fin de la **Tâche (Task)** de votre prompt : _"Rédige tout le contenu dans un anglais professionnel et naturel."_ Un README ciblant une audience internationale sera généré instantanément.
+
+- **Q : Peut-on également créer un guide pour les contributeurs (CONTRIBUTING.md) ?**
+  - R : Absolument. Dans la foulée de la génération de votre README, vous pouvez faire une requête supplémentaire : _"Rédige également un guide du contributeur Open Source (CONTRIBUTING.md) et un modèle de Pull Request (pull_request_template.md) pour ce projet."_
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
-### ❌ Before (입력)
+1. **Attribution du rôle (Role) :** En attribuant le persona de "Mainteneur Senior", nous incitons l'IA à prendre en compte de son propre chef les éléments essentiels de l'Open Source que les développeurs juniors omettent souvent, comme les badges et les licences.
+2. **Mise en contexte (Context) :** Fournir le puissant contexte de la "structure des fichiers" permet l'IA de générer des descriptions sur-mesure qui correspondent exactement à votre projet, évitant ainsi les généralités insipides.
+3. **Contraintes (Constraints) :** L'avertissement lui interdisant d'inventer des fonctionnalités bloque les hallucinations de l'IA et garantit la fiabilité du document.
+
+---
+
+## 📊 Preuve à l'appui : Avant & Après
+
+### ❌ Avant (Requête initiale)
 
 ```text
-내 프로젝트 리드미 좀 써줘. 리액트로 만들었고 투두 앱이야.
+Écris-moi un readme pour mon projet. Je l'ai fait avec React, c'est une application de To-Do.
 ```
 
-### ✅ After (결과)
+### ✅ Après (Résultat obtenu)
 
 ````markdown
 # 📝 Todo Master
@@ -133,39 +133,36 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-Todo Master는 직관적이고 빠른 작업 관리를 위한 React 기반 애플리케이션입니다.
+Todo Master est une application basée sur React pour une gestion intuitive et rapide de vos tâches.
 
-## ✨ 주요 기능
+## ✨ Fonctionnalités clés
 
-- 🚀 **빠른 렌더링**: 최적화된 상태 관리를 통한 지연 없는 UI
-- 📱 **반응형 디자인**: 모바일과 데스크톱 환경 모두 완벽 지원
-- 💾 **로컬 스토리지**: 브라우저 스토리지를 활용한 데이터 영구 보존
+- 🚀 **Rendu ultra-rapide :** Interface utilisateur sans latence grâce à une gestion d'état optimisée.
+- 📱 **Design responsive :** Support parfait pour les environnements mobiles et de bureau.
+- 💾 **Stockage local :** Conservation permanente des données en utilisant le stockage du navigateur.
 
-## 🛠 설치 및 실행 (Getting Started)
+## 🛠 Installation et exécution (Getting Started)
 
 ```bash
-# 저장소 클론
+# Cloner le dépôt
 git clone https://github.com/username/todo-master.git
 
-# 패키지 설치
+# Installer les dépendances
 npm install
 
-# 개발 서버 실행
+# Lancer le serveur de développement
 npm run dev
 ```
+
+## 📄 Licence (License)
+
+Ce projet est distribué sous la licence MIT.
 ````
-
-## 📄 라이선스 (License)
-
-이 프로젝트는 MIT 라이선스에 따라 배포됩니다.
-
-```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-개발의 완성은 배포가 아니라 문서화입니다. 당신의 피땀 어린 코드가 누군가에게 발견되고 가치 있게 쓰일 수 있도록, 오늘 당장 AI를 활용해 README.md를 업데이트해 보세요.
+L'aboutissement du développement n'est pas le déploiement, mais la documentation. Pour que votre code, fruit de tant d'efforts, soit découvert et utilisé à sa juste valeur, mettez à jour votre `README.md` dès aujourd'hui en faisant appel à l'IA.
 
-잘 쓰인 문서 하나가 당신을 훌륭한 오픈소스 생태계의 주역으로 만들어 줄 것입니다! 🚀
-```
+Un document bien rédigé pourrait bien faire de vous un acteur majeur du formidable écosystème Open Source ! 🚀

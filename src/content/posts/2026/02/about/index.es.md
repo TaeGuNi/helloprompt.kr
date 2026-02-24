@@ -1,79 +1,135 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "소개 (About Us)"
-description: "Hello Prompt는 AI와 인간이 함께 만드는 실용적인 프롬프트 딕셔너리입니다. 검증된 프롬프트로 업무 효율을 높이세요."
+description: "Hello Prompt es un diccionario de prompts pragmático creado mediante la colaboración entre IA y expertos humanos. Multiplica tu productividad con nuestros prompts verificados."
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🤖 Hello Prompt 소개
+# 🤖 Sobre Nosotros: Hello Prompt
 
-- **🎯 타겟 독자:** AI로 업무 생산성을 높이고 싶은 모든 직장인, 개발자, 마케터
-- **💡 핵심 가치:** 당장 실무에 적용 가능한 검증된 프롬프트 제공
-- **🚀 기대 효과:** 압도적인 시간 단축과 업무 퀄리티 향상
+- **🎯 Audiencia Objetivo:** Profesionales, desarrolladores y especialistas en marketing que buscan potenciar su productividad con IA.
+- **💡 Valor Principal:** Prompts verificados y listos para aplicar inmediatamente en el mundo real.
+- **🚀 Impacto Esperado:** Reducción drástica del tiempo de trabajo y mejora exponencial en la calidad de los resultados.
 
-> _"위대한 프롬프트는 우리가 일하는 방식을 근본적으로 바꿉니다. (Great Prompts change the way we work.)"_
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-**Hello Prompt**는 AI 기술이 우리 삶과 업무에 실질적인 파급력을 갖도록 돕는 **'실용주의 프롬프트 딕셔너리'**입니다.
+> _"Un gran prompt no solo genera texto; transforma radicalmente la forma en que trabajamos y pensamos."_
 
-복잡하고 난해한 학술적 이론은 철저히 배제했습니다. 대신 내일 당장 출근해서 복사해 쓸 수 있는(Ready-to-use), 수백 번의 치열한 테스트를 거친 **검증된 프롬프트**만을 제공합니다.
+**Hello Prompt** es un **'Diccionario de Prompts Pragmático'** diseñado para que la Inteligencia Artificial tenga un impacto tangible, real y medible en tu vida laboral diaria.
+
+Hemos eliminado deliberadamente la teoría académica compleja y abstracta. En su lugar, te entregamos **prompts rigurosamente verificados**—herramientas *Ready-to-use* que han superado cientos de pruebas exhaustivas y que puedes copiar, pegar y utilizar mañana mismo en tu oficina.
 
 ---
 
-## 👨‍💻 운영자 (Operator)
+## ⚡️ Resumen en 3 líneas (TL;DR)
+
+1. **Sin Alucinaciones (Zero Hallucination):** Descartamos cualquier prompt inestable que genere información falsa o inexacta.
+2. **Listo para Usar (Ready-to-Use):** Olvídate de diseñar estructuras; solo completa las variables y obtén resultados al instante.
+3. **Compatibilidad Universal:** Garantizamos un rendimiento óptimo cruzado entre ChatGPT, Claude, Gemini y más.
+
+---
+
+## 🚀 Nuestro Enfoque: "El Estándar Hello Prompt"
+
+Para que entiendas nuestra filosofía de trabajo, aquí tienes un ejemplo de cómo estructuramos y entregamos nuestro contenido en cada publicación.
+
+### 🥉 Versión Básica (Basic Version)
+
+Ideal cuando necesitas una solución rápida y directa sin complicaciones.
+
+> **Rol:** Actúa como un `[Especialista]`.
+> **Tarea:** Resuelve este `[Problema]`.
+
+<br>
+
+### 🥇 Versión Profesional (Pro Version)
+
+La estructura de ingeniería de prompts que utilizamos en todo nuestro sitio para garantizar calidad premium.
+
+> **Rol (Role):** Actúa como un `[Rol Experto]`.
+>
+> **Contexto (Context):**
+>
+> - Antecedentes: `[Situación Actual]`
+> - Objetivo: `[Meta Final]`
+>
+> **Tarea (Task):**
+>
+> 1. Ejecuta esta instrucción específica paso a paso.
+> 2. Las áreas con `[Variables]` están diseñadas para que el usuario las personalice.
+>
+> **Restricciones (Constraints):**
+>
+> - El formato de salida debe ser estrictamente una tabla en Markdown.
+>
+> **Advertencia (Warning):**
+>
+> - Si desconoces un dato o no estás seguro, responde "No lo sé" en lugar de inventar información. Mantén la precisión absoluta.
+
+---
+
+## 👨‍💻 Sobre el Operador (Operator)
 
 ### Jay (Chief Prompt Engineer)
 
-안녕하세요, Hello Prompt의 운영자 Jay입니다.
-저는 5년 차 풀스택 개발자이자, 일상의 모든 병목을 AI로 해결하길 즐기는 기술 애호가입니다.
+Hola, soy Jay, el operador detrás de Hello Prompt. 
+Como desarrollador Full-Stack con más de 5 años de experiencia, soy un apasionado de la tecnología que disfruta resolviendo los cuellos de botella cotidianos a través de la IA.
 
-매일같이 쏟아지는 새로운 AI 모델과 수많은 프롬프트 속에서, **"진짜 실무에 쓸모 있는 정보"**는 극소수에 불과하다는 것을 깨달았습니다. 독자 여러분의 귀한 시간을 아껴드리기 위해, 제가 직접 수십 번 실패하고 다듬어낸 '진짜 프롬프트'만을 엄선하여 공유합니다.
+Entre la avalancha diaria de nuevos modelos de IA y miles de prompts en internet, me di cuenta de una verdad incómoda: **"la información que realmente sirve en el entorno laboral"** es extremadamente escasa. Para ahorrarte un tiempo invaluable, comparto exclusivamente 'prompts auténticos' que yo mismo he refinado tras decenas de fracasos y experimentación constante.
 
-- **Email:** support@helloprompt.kr
-- **Github:** [github.com/TaeGuNi](https://github.com/TaeGuNi) (Personal Profile)
-
----
-
-## 🎯 우리의 미션 (Mission)
-
-우리는 단순히 AI 명령어 목록을 나열하지 않습니다. 여러분의 **'시간(Time)'을 압도적으로 절약**해 드리는 것이 유일한 목표입니다.
-
-1. **Zero Hallucination (환각 제로):** 거짓 정보를 지어내는 엉성한 프롬프트는 철저히 배제합니다.
-2. **Ready-to-Use (즉시 도입):** 구조를 고민할 필요 없이, 복사해서 변수만 채워 넣으면 즉시 작동하는 도구를 제공합니다.
-3. **Cross-Model Compatibility (범용성):** ChatGPT, Claude, Gemini 등 다양한 대화형 AI 모델에서 일관된 성능을 내는지 교차 검증합니다.
+- **Correo electrónico:** support@helloprompt.kr
+- **Github:** [github.com/TaeGuNi](https://github.com/TaeGuNi) (Perfil Personal)
 
 ---
 
-## 👥 운영 정책 (Operation Policy)
+## 💡 Comentario del Autor (Insight)
 
-### 1. Human-in-the-loop (AI와 인간의 완벽한 협업)
-
-본 블로그의 모든 콘텐츠 초안은 최신 AI 기술의 도움을 받아 작성됩니다. 하지만 발행 전 **반드시 현업 전문가의 날카로운 검수(Review)와 가혹한 실전 테스트(Test)**를 거칩니다. 영혼 없는 기계적 번역이나 정보의 나열이 아닌, 사람의 치열한 '인사이트(Insight)'가 담긴 콘텐츠만을 지향합니다.
-
-### 2. Strict Quality Assurance (가차 없는 품질 관리)
-
-우리는 자체 개발한 **[품질 평가 모델(Quality Model)](/docs/QUALITY_MODEL)**을 적용하여, 총점 700점 만점 기준을 통과한 엄선된 포스트만 발행합니다. 독자의 실무에 도움이 되지 않는 가치 없는 정보는 단 1건도 허용하지 않습니다.
+Todos los prompts de este blog están diseñados sobre una sólida estructura de ingeniería: **'Rol (Role) - Contexto (Context) - Tarea (Task) - Restricciones (Constraints)'**. Nos hemos enfocado especialmente en controlar y canalizar la creatividad de la IA para obtener **resultados estables y predecibles** bajo cualquier circunstancia. Con Hello Prompt, a partir de hoy, tú también puedes convertirte en un director de orquesta capaz de dominar la IA a la perfección.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-이 블로그의 모든 프롬프트는 '역할(Role) - 상황(Context) - 지시(Task) - 제약(Constraints)'이라는 견고한 엔지니어링 구조 위에서 설계되었습니다. 특히 AI의 창의성을 적절히 통제하여, 어떤 상황에서도 **안정적이고 예측 가능한 결과물**을 도출해 내는 데 집중했습니다. Hello Prompt와 함께라면, 여러분도 오늘부터 즉시 AI를 완벽하게 제어하는 지휘자가 될 수 있습니다.
+- **P: ¿Puedo copiar y usar estos prompts directamente en mi trabajo diario?**
+  - **R:** ¡Por supuesto! Todos nuestros prompts están meticulosamente diseñados para su uso inmediato en entornos comerciales y no comerciales. Cópialos con total libertad y multiplica tu eficiencia.
 
----
+- **P: El resultado de la IA es ligeramente distinto a lo que esperaba. ¿Qué debo hacer?**
+  - **R:** Te sugerimos añadir una o dos reglas específicas a la sección de `[Restricciones (Constraints)]` del prompt. Cuanto más precisos sean los límites, más nítido y exacto será el resultado generado por la IA.
 
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 이곳의 프롬프트를 제 업무에 그대로 가져다 써도 되나요?**
-  - A: 물론입니다! 모든 프롬프트는 상업적, 비상업적 업무에 즉시 활용할 수 있도록 설계되었습니다. 마음껏 복사해서 효율을 높이세요.
-
-- **Q: 프롬프트 결과물이 기대한 것과 약간 다르게 나옵니다. 어떻게 하죠?**
-  - A: 제공된 프롬프트의 `[제약조건(Constraints)]` 섹션에 여러분만의 구체적인 규칙을 한두 줄 추가해 보세요. AI는 제약이 명확할수록 더 날카로운 결과물을 만들어냅니다.
-
-- **Q: ChatGPT 외에 Claude나 Gemini에서도 잘 작동하나요?**
-  - A: 네, Hello Prompt의 모든 자료는 최신 LLM(대형 언어 모델)들의 공통적인 추론 방식을 고려하여 작성된 '범용 프롬프트'입니다. 선호하시는 어떤 모델에서든 강력한 성능을 발휘합니다.
+- **P: ¿Estos prompts funcionan bien en Claude o Gemini, además de ChatGPT?**
+  - **R:** Sí. Todo el material de Hello Prompt está compuesto por "prompts universales", formulados teniendo en cuenta los patrones de razonamiento comunes de los últimos LLM (Grandes Modelos de Lenguaje). Obtendrás un rendimiento excepcional sin importar tu modelo preferido.
 
 ---
 
-**함께 더 똑똑하게 일해봅시다.**  
-**Happy Prompting!** ⚡️
+## 🧬 Anatomía de nuestro éxito (Why it works?)
+
+1. **Human-in-the-loop (Sinergia Humano-IA):** Todo el contenido cuenta con IA de vanguardia, pero pasa por la revisión crítica y pruebas extremas de expertos humanos. Cero traducciones robóticas; solo insights reales y funcionales.
+2. **Strict Quality Assurance (Calidad Implacable):** Aplicamos nuestro propio **[Modelo de Evaluación de Calidad](/docs/QUALITY_MODEL)**. Solo publicamos artículos que superan los exigentes 700 puntos. No hay lugar para contenido de relleno.
+
+---
+
+## 📊 Prueba de Eficiencia: Antes y Después (Before & After)
+
+### ❌ Antes (Sin Hello Prompt)
+
+```text
+(Pasando horas investigando y probando prompts vagos de internet, obteniendo respuestas genéricas y alucinaciones que requieren edición manual constante.)
+```
+
+### ✅ Después (Con Hello Prompt)
+
+```text
+(Copiando un prompt verificado de nuestra biblioteca, ajustando dos variables en segundos y obteniendo un resultado profesional, directo y listo para usar en tu entorno laboral.)
+```
+
+---
+
+## 🎯 Conclusión
+
+Nuestra misión no es simplemente listar comandos básicos. Nuestro único objetivo es **ahorrarte una cantidad abrumadora de 'Tiempo'**.
+
+**Trabajemos de forma más inteligente, juntos.**  
+**¡Happy Prompting!** ⚡️

@@ -5,123 +5,123 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "고객이 들어오자마자 나가는 이유는? 히어로 섹션(Hero Section)부터 CTA까지, 스크롤을 내리게 만드는 심리학적 카피 작성법."
+description: "¿Por qué los clientes abandonan tu página web apenas entran? Desde el Hero Section hasta el CTA, descubre cómo escribir un copy psicológico que los obligue a hacer scroll."
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 
-# 🎣 랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식
+# 🎣 Copywriting para Landing Pages: La fórmula del 'Gancho' que aumenta tu conversión en un 20%
 
-- **🎯 추천 대상:** 광고비는 쓰는데 구매 전환이 일어나지 않는 대표님, 상세페이지 문구가 밋밋해서 고민인 마케터
-- **⏱️ 소요 시간:** 30분 → 1분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (설득력 있는 문장 작성에 탁월)
+- **🎯 Recomendado para:** CEOs que gastan en anuncios pero no ven conversiones, y Marketers frustrados por textos aburridos en sus páginas de ventas.
+- **⏱️ Tiempo requerido:** De 30 minutos → a solo 1 minuto
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (Excelente para redactar textos persuasivos)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"우리 서비스 진짜 좋은데... 페이지에 들어오자마자 다들 나가버리네."_
+> _"Nuestro servicio es realmente bueno... pero todos se van apenas entran a la página."_
 
-설명하려 들지 마세요. **유혹해야 합니다.** 고객은 당신의 서비스가 얼마나 위대한지 처음에는 전혀 관심이 없습니다. 오직 **"이게 내 문제를 어떻게 해결해 줄까?"**에만 꽂혀 있죠. 랜딩 페이지의 첫 관문인 히어로 섹션(Hero Section)에서 고객의 멱살을 단숨에 잡아끄는 카피, 이제 AI에게 맡겨보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Pain Point (고통 찌르기):** 고객이 밤잠 설치며 고민하는 문제를 정확히 짚어냅니다. ("아직도 엑셀로 노가다 하세요?")
-2. **Solution (해결책 제시):** 그 고통을 끝내줄 마법 같은 해결책을 던집니다. ("클릭 한 번이면 끝납니다.")
-3. **Social Proof (사회적 증거):** 나만 쓰는 게 아니라는 안도감을 줍니다. ("이미 1만 팀이 쓰고 있습니다.")
+Deja de intentar explicar. **Tienes que seducir.** Al principio, a tu cliente no le importa en absoluto lo grandioso que es tu servicio. Solo tiene una cosa en la cabeza: **"¿Cómo va a resolver esto mi problema?"**. Es hora de dejar que la IA se encargue de ese primer obstáculo: el Hero Section (la sección principal) de tu landing page, creando un copy que atrape al cliente desde el primer segundo.
 
 ---
 
-## 🚀 해결책: "Conversion Booster Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Punto de Dolor (Pain Point):** Identifica exactamente ese problema que no deja dormir a tu cliente. ("¿Sigues perdiendo horas trabajando manualmente en Excel?")
+2. **Solución (Solution):** Lanza una solución mágica que acabe con ese sufrimiento. ("Todo resuelto con un solo clic.")
+3. **Prueba Social (Social Proof):** Brinda la tranquilidad de que no son los únicos usándolo. ("Más de 10,000 equipos ya lo utilizan.")
 
-빠르게 강력한 메인 카피 아이디어가 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 `[10년 차 전문 카피라이터]`야.
-> **상황:** `[AI 영어 회화 앱]`의 랜딩 페이지 메인 카피(Headline)를 작성하려고 해. 타겟은 `[영어 울렁증이 있는 직장인]`이야.
-> **요청:** "원어민 없이도 영어가 입에서 튀어나온다"는 핵심 가치를 강조해서, 시선을 사로잡는 강력한 메인 카피 5개를 작성해 줘.
+## 🚀 Solución: "Conversion Booster Prompt"
+
+### 🥉 Basic Version (Versión Básica)
+
+Úsala cuando necesites ideas rápidas y potentes para tu copy principal.
+
+> **Rol:** Eres un `[copywriter profesional con 10 años de experiencia]`.
+> **Situación:** Estoy a punto de escribir el copy principal (Headline) de la landing page para una `[app de conversación en inglés con IA]`. El público objetivo son `[profesionales que sienten pánico al hablar en inglés]`.
+> **Tarea:** Redacta 5 opciones de copy principal (Headline) que capten la atención al instante, destacando el valor central: "El inglés fluirá de tu boca sin necesidad de un hablante nativo".
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Versión Experta)
 
-마케팅 프레임워크를 적용하여 랜딩 페이지 전체의 설득 구조를 짤 때 사용하세요.
+Úsala para estructurar toda la narrativa persuasiva de la landing page aplicando frameworks de marketing.
 
-> **역할 (Role):** 너는 실리콘밸리 최고 수준의 전환율 최적화(CRO) 전문가이자 카피라이터야.
+> **Rol (Role):** Eres un copywriter y experto en Optimización de la Tasa de Conversión (CRO) del más alto nivel en Silicon Valley.
 >
-> **제품 및 타겟 (Context):**
->
-> - 제품: `[자세 교정 의자]`
-> - 특징: `[인체공학적 디자인, 하루 10분만 앉아도 효과, 100% 환불 보장]`
-> - 타겟: `[하루 종일 모니터 앞에서 일하며 만성 허리 통증을 달고 사는 직장인]`
->
-> **요청 (Task):**
->
-> 마케팅의 정석인 AIDA 모델(Attention, Interest, Desire, Action)에 맞춰 랜딩 페이지 섹션별 카피를 작성해 줘.
->
-> 1. **Attention (헤드라인):** 허리 통증을 겪는 사람들의 시선을 3초 안에 확 끄는 강력한 문구.
-> 2. **Interest (문제 제기):** 구부정한 자세를 방치했을 때 찾아올 끔찍한 미래(디스크, 수술비 등)를 경고하여 공감대 형성.
-> 3. **Desire (해결책 & 이득):** 이 의자에 앉으면 얼마나 편안해지고 업무 효율이 오르는지 생생하게 묘사.
-> 4. **Action (CTA 버튼):** 지금 당장 클릭할 수밖에 없는 버튼 문구. (예: "오늘만 반값" 등 이득을 명시할 것)
->
-> **제약사항 (Constraints):**
->
-> - 모든 문장은 철저히 고객 중심(Customer-centric)으로 작성할 것 ("저희는~" 보다 "당신은~" 사용).
-> - 전문 용어는 배제하고 초등학생도 직관적으로 이해할 수 있는 쉬운 단어만 사용할 것.
+> **Contexto del Producto y Público (Context):**
+> 
+> - Producto: `[Silla correctora de postura]`
+> - Características: `[Diseño ergonómico, resultados con solo sentarse 10 minutos al día, garantía de reembolso del 100%]`
+> - Público Objetivo: `[Oficinistas que trabajan todo el día frente al monitor y sufren de dolor crónico de espalda]`
+> 
+> **Tarea (Task):**
+> 
+> Redacta el copy de cada sección de la landing page siguiendo el modelo clásico de marketing AIDA (Attention, Interest, Desire, Action).
+> 
+> 1. **Attention (Titular/Headline):** Una frase impactante que capte en menos de 3 segundos la atención de quienes sufren dolor de espalda.
+> 2. **Interest (Planteamiento del problema):** Genera empatía advirtiendo sobre el terrible futuro (hernias discales, cirugías costosas) si siguen ignorando su mala postura.
+> 3. **Desire (Solución y Beneficios):** Describe vívidamente lo cómodos que se sentirán y cómo aumentará su productividad al usar esta silla.
+> 4. **Action (Botón CTA):** El texto del botón que los obligue a hacer clic ahora mismo. (Ejemplo: Deja claro el beneficio como "Obtén un 50% de descuento solo hoy").
+> 
+> **Restricciones (Constraints):**
+> 
+> - Todas las oraciones deben estar estrictamente centradas en el cliente (Customer-centric) (usa "Tú" o "Usted" en lugar de "Nosotros").
+> - Evita la jerga técnica; utiliza palabras sencillas que hasta un niño de primaria pueda entender de forma intuitiva.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-카피라이팅의 영원한 황금률은 **"You(당신)"**입니다.
-상세페이지에서 "저희 제품은(We)..."으로 시작하는 문장이 있다면 당장 지우세요. "당신은(You) 더 편안해질 자격이 있습니다"처럼 철저히 고객을 주인공으로 만들어야 합니다. AI에게 프롬프트를 줄 때 **"Customer-centric(고객 중심)으로 작성해"**라는 단 한 줄의 제약 조건을 추가하는 것만으로도, 문장의 결이 완전히 달라지는 것을 경험할 수 있습니다.
+La regla de oro eterna del copywriting es el **"Tú (You)"**.
+Si en tu página de ventas hay una oración que comienza con "Nuestro producto (Nosotros)...", bórrala de inmediato. Debes convertir al cliente en el protagonista absoluto, con frases como: "Tú mereces sentirte más cómodo". Al darle instrucciones a la IA, el simple hecho de añadir la restricción **"Escribe centrándote en el cliente (Customer-centric)"** cambiará por completo el tono y la textura de tus textos. Lo notarás de inmediato.
 
-특히, 혜택(Benefit)을 기능(Feature)과 혼동하지 마세요. 고객에게 '1000mAh 배터리(기능)'를 팔지 말고, '충전기 없이 훌쩍 떠나는 1박 2일 캠핑(혜택)'을 파셔야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 랜딩 페이지 본문은 길게 쓰는 게 좋나요, 짧게 쓰는 게 좋나요?**
-  - A: 섹션별로 목적이 다릅니다. 최상단의 헤드라인은 짧고 강렬하게(15자 이내) 쳐야 하고, 본문은 고객의 의심을 지워주는 스토리텔링으로 충분한 길이를 확보해야 합니다. AI에게 지시할 때 "헤드라인은 임팩트 있게, 본문은 친절하고 상세하게"라고 톤앤매너(Tone & Manner)를 명확히 분리해서 요청하세요.
-
-- **Q: 버튼(CTA) 문구 하나 바꾼다고 진짜 전환율이 달라지나요?**
-  - A: 네, 극적으로 바뀝니다. "구매하기", "가입하기" 같은 마찰(Friction)이 느껴지는 딱딱한 단어 대신, "지금 50% 할인받기", "내 리포트 무료로 확인하기"처럼 **클릭했을 때 고객이 즉각적으로 얻는 이득을 명시**하는 것이 핵심입니다.
+Además, ten mucho cuidado de no confundir Beneficios (Benefits) con Características (Features). No le vendas al cliente "una batería de 1000mAh (característica)", véndele "un viaje de acampada de fin de semana sin preocuparte por el cargador (beneficio)".
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **AIDA 프레임워크 강제화:** 마케팅 불변의 진리인 AIDA(주의-흥미-욕망-행동) 모델을 AI에게 지시함으로써, 단순히 말만 번지르르한 글이 아닌 **"설득의 완벽한 논리적 구조"**를 갖춘 랜딩 페이지를 뽑아냅니다.
-2.  **구체적인 타겟과 상황 부여:** '의자 팔아줘'가 아니라 '만성 허리 통증을 달고 사는 직장인에게 팔아줘'라고 타겟의 해상도를 극단적으로 높였기 때문에, 고객의 뼈를 때리는 날카로운 카피가 도출됩니다.
+- **P: ¿El texto de la landing page debe ser largo o corto?**
+  - R: Cada sección tiene un propósito distinto. El titular superior (Headline) debe ser corto e impactante (menos de 15 palabras), mientras que el cuerpo del texto debe ser lo suficientemente extenso para eliminar las dudas del cliente mediante el storytelling. Cuando le des instrucciones a la IA, sé claro con el tono y estilo: "Haz que el titular tenga impacto y que el cuerpo del texto sea amable y detallado".
+
+- **P: ¿Cambiar solo el texto del botón (CTA) realmente afecta la tasa de conversión?**
+  - R: Sí, la cambia drásticamente. En lugar de palabras rígidas que generan fricción como "Comprar" o "Registrarse", la clave es **especificar el beneficio inmediato que obtiene el cliente al hacer clic**, como "Obtener mi 50% de descuento ahora" o "Ver mi reporte gratis".
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (기능 중심의 지루한 카피)
+1.  **Imponer el Framework AIDA:** Al ordenarle a la IA que use el modelo AIDA (Atención-Interés-Deseo-Acción), una verdad inmutable del marketing, no solo obtenemos un texto que suena bonito, sino una landing page con una **"estructura lógica de persuasión perfecta"**.
+2.  **Definir un público y contexto ultra-específicos:** En lugar de decirle "vende esta silla", le dijimos "véndesela a oficinistas con dolor crónico de espalda". Al aumentar drásticamente la resolución del público objetivo, la IA logra extraer un copy afilado que da justo en el clavo del dolor del cliente.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Copy aburrido centrado en características)
 
 ```text
-"최고급 소재로 만든 당사의 인체공학 의자입니다. 편안함을 드립니다."
-(결과: 고객 이탈률 90% 📉)
+"Esta es nuestra silla ergonómica fabricada con materiales de primera calidad. Le brindamos comodidad."
+(Resultado: Tasa de rebote del 90% 📉)
 ```
 
-### ✅ After (고객 중심의 후킹 카피)
+### ✅ Después (Copy con gancho centrado en el cliente)
 
 ```text
-"허리 통증, 언제까지 참으며 일하실 건가요?"
-"하루 10분, 그저 앉아만 계세요. 망가진 자세는 의자가 알아서 고쳐드립니다."
-(결과: 페이지 체류 시간 2배 증가, 구매 전환율 20% 상승 🚀)
+"Ese dolor de espalda... ¿hasta cuándo vas a soportarlo mientras trabajas?"
+"Solo 10 minutos al día, tú simplemente siéntate. Nuestra silla se encargará de corregir tu mala postura."
+(Resultado: El tiempo en la página se duplica, la conversión de compra aumenta un 20% 🚀)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-랜딩 페이지는 당신이 잠든 새벽에도 **24시간 쉬지 않고 일하는 최고의 영업사원**입니다.
-더 이상 방문자를 쫓아내는 말주변 없는 사원(Before)에게 비싼 광고 트래픽을 낭비하지 마세요.
-AIDA 모델로 무장한 완벽한 에이스 카피라이터(AI)를 고용해 보세요.
+Tu landing page es tu **mejor vendedor, trabajando sin descanso las 24 horas del día**, incluso de madrugada mientras duermes.
+No sigas desperdiciando tu valioso tráfico de pago en un vendedor que no sabe hablar y espanta a las visitas (Antes).
+Contrata a un copywriter estrella y perfeccionista (la IA) armado con el modelo AIDA.
 
-**내일 아침, 대시보드의 매출 그래프가 완전히 달라집니다.** 🍷
+**Mañana por la mañana, la gráfica de ventas en tu panel de control será completamente diferente.** 🍷

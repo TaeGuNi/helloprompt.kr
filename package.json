@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "lint": "prettier --check . && eslint .",
+    "lint": "biome check .",
     "generate:trend": "npx tsx scripts/generate-trend-post.ts",
     "qa": "npx tsx scripts/qa/check.ts",
     "qa:sitemap": "npx tsx scripts/qa/sitemap-check.ts",
@@ -30,33 +30,27 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
+    "@biomejs/biome": "^2.4.4",
     "@commitlint/cli": "^20.4.1",
     "@commitlint/config-conventional": "^20.4.1",
     "@playwright/test": "^1.58.1",
-    "@typescript-eslint/eslint-plugin": "^8.55.0",
-    "@typescript-eslint/parser": "^8.55.0",
     "@vite-pwa/astro": "^1.2.0",
     "@vitest/coverage-v8": "^4.0.18",
-    "eslint": "^9.39.2",
-    "eslint-plugin-astro": "^1.5.0",
     "glob": "^13.0.1",
     "html-validate": "^10.7.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
-    "prettier": "^3.8.1",
-    "prettier-plugin-astro": "^0.14.1",
     "rehype-rewrite": "^4.0.4",
     "standard-version": "^9.5.0",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.55.0",
     "unist-util-visit": "^5.1.0",
     "vitest": "^4.0.18",
     "workbox-window": "^7.4.0"
   },
   "lint-staged": {
-    "*.{js,ts,astro,json,cjs,mjs,css,html,yaml,yml,md}": [
-      "prettier --write"
+    "*.{js,ts,json,cjs,mjs}": [
+      "biome check --write"
     ],
     "*.{js,ts}": [
       "vitest related --run"

@@ -5,139 +5,139 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "백준, 프로그래머스 등 알고리즘 문제를 풀다가 막혔을 때, 무작정 정답을 보지 않고 AI로부터 최적의 힌트만 이끌어내어 스스로 해결하는 프롬프트 엔지니어링 기법을 소개합니다."
+description: "Découvrez des techniques de prompt engineering pour surmonter les blocages algorithmiques (LeetCode, HackerRank). Au lieu de chercher la solution complète, apprenez à extraire les meilleurs indices de l'IA pour résoudre les problèmes par vous-même."
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 
-# 🧩 코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지 {#algorithm}
+# 🧩 Tuteur d'Algorithmique : Des Indices à la Solution Sans Tricher {#algorithm}
 
-- **🎯 추천 대상:** 알고리즘의 장벽에 부딪힌 주니어 개발자, 코딩 테스트 준비 중 '시간 초과'의 늪에 빠진 취업 준비생
-- **⏱️ 소요 시간:** 10분 (문제당 평균 해결 시간 단축)
-- **🤖 추천 모델:** ChatGPT-4o, Claude 3.5 Sonnet (논리적 추론 및 코드 구조화에 탁월)
+- **🎯 Public Cible :** Développeurs juniors bloqués sur des algorithmes, candidats en préparation d'entretiens techniques luttant contre les "Time Limit Exceeded" (TLE).
+- **⏱️ Temps Requis :** 10 minutes (réduit considérablement le temps de résolution par problème).
+- **🤖 Modèles Recommandés :** ChatGPT-4o, Claude 3.5 Sonnet (excellents pour le raisonnement logique et la structuration de code).
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulté :** ⭐☆☆☆☆
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
+- 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"이거 DP(동적 계획법) 문제인가? 그리디인가? 아, 도저히 모르겠다. 그냥 구글링해서 답지나 봐야지."_
+> _"S'agit-il d'un problème de programmation dynamique ? D'un algorithme glouton ? Ah, je n'en ai aucune idée. Je vais juste chercher la solution sur Google."_
 
-잠깐만요! 해설지를 그대로 복사하는 순간, 당신의 문제 해결 능력은 성장을 멈춥니다. 이제부터는 정답을 찾는 대신 AI에게 **"힌트만 줘"**라고 요청해 보세요. AI를 당신만의 1:1 소크라테스식 튜터로 활용하여, 스스로 해답에 도달하는 논리적 사고의 근육을 키우는 방법을 알려드립니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
-
-1. 알고리즘 문제를 AI에게 제공하되, "정답 코드는 절대 작성하지 마"라는 강력한 제약을 겁니다.
-2. 현재 자신이 접근하고 있는 방식과 시간 복잡도를 AI에게 평가받고, 논리적 오류나 엣지 케이스(Edge Case)에 대한 힌트를 얻습니다.
-3. 문제 해결의 핵심 키워드(예: 투 포인터, 슬라이딩 윈도우)나 수도코드(Pseudo-code) 단위로만 도움을 받아 온전히 자신의 힘으로 코드를 완성합니다.
+Attendez une seconde ! Au moment où vous copiez-collez la solution, votre capacité à résoudre des problèmes cesse de croître. Désormais, au lieu de chercher la réponse exacte, demandez à l'IA de ne vous donner **"que des indices"**. Nous allons vous montrer comment transformer l'IA en un tuteur socratique personnel pour développer votre logique et trouver la solution par vous-même.
 
 ---
 
-## 🚀 해결책: "Algo Tutor Prompt"
+## ⚡️ En Bref (TL;DR) {#tl-dr}
 
-### 🥉 Basic Version (힌트 요청)
+1. Soumettez votre problème algorithmique à l'IA avec une contrainte stricte : "N'écris jamais le code de la solution finale."
+2. Demandez à l'IA d'évaluer votre approche actuelle et sa complexité temporelle, et obtenez des indices sur d'éventuelles erreurs logiques ou des cas particuliers (Edge Cases).
+3. Obtenez uniquement des mots-clés conceptuels (ex: Two Pointers, Sliding Window) ou du pseudo-code afin de finaliser votre propre code par vous-même.
 
-막막한 상황에서 방향성만 살짝 잡고 싶을 때 사용하는 기본형 프롬프트입니다.
+---
 
-> **역할:** 너는 대기업 코딩 테스트 출제 위원이자 알고리즘 전문가야.
->
-> **요청:** 아래에 제시된 알고리즘 문제를 읽고, 문제를 풀기 위한 핵심 아이디어와 접근 방식만 설명해 줘.
->
-> **문제:** `[백준/프로그래머스 문제 내용 복사]`
->
-> **제약사항:** 정답 코드나 완성된 로직은 절대 제공하지 마. 시간 복잡도(Time Complexity) 관점에서 어떤 자료구조를 사용하는 것이 유리한지 힌트만 줘.
+## 🚀 La Solution : "Algo Tutor Prompt"
+
+### 🥉 Version Basique (Demande d'Indice)
+
+Utilisez ce prompt de base lorsque vous êtes bloqué et que vous avez juste besoin d'une orientation globale.
+
+> **Rôle :** Tu es un concepteur de tests techniques pour une grande entreprise technologique et un expert en algorithmique.
+> 
+> **Tâche :** Lis le problème algorithmique ci-dessous. Explique-moi uniquement l'idée principale et l'approche globale pour le résoudre.
+> 
+> **Problème :** `[Collez ici la description du problème LeetCode/HackerRank]`
+> 
+> **Contraintes :** Ne fournis en aucun cas le code de la solution ou la logique complète. Donne-moi seulement un indice sur la structure de données la plus avantageuse à utiliser d'un point de vue de la complexité temporelle (Time Complexity).
 
 <br>
 
-### 🥇 Pro Version (단계별 코칭 및 리뷰)
+### 🥇 Version Pro (Coaching Étape par Étape et Revue)
 
-작성한 코드가 계속 실패(시간 초과, 메모리 초과, 틀렸습니다)할 때 사용하는 전문가형 프롬프트입니다.
+Utilisez ce prompt expert lorsque votre code échoue de manière répétée (Time Limit Exceeded, Memory Limit Exceeded, Wrong Answer).
 
-> **역할 (Role):** 너는 알고리즘 대회 금메달리스트 출신의 시니어 백엔드 엔지니어야. 나의 코딩 테스트 멘토로서, 내가 스스로 문제를 해결할 수 있도록 이끌어줘.
->
-> **상황 (Context):**
->
-> - **문제 요약:** `[문제의 핵심 목표]`
-> - **현재 코드 (My Code):**
->
+> **Rôle (Role) :** Tu es un ingénieur backend senior, médaillé d'or lors de compétitions d'algorithmique. En tant que mon mentor pour les tests de codage, guide-moi pour que je puisse résoudre ce problème par moi-même.
+> 
+> **Contexte (Context) :**
+> 
+> - **Objectif du problème :** `[Objectif principal du problème]`
+> - **Mon Code Actuel (My Code) :**
+> 
 > ```python
-> [내가 작성한 오답 코드]
+> [Insérez votre code incorrect ici]
 > ```
->
-> - **문제점:** 현재 코드를 제출하면 `[시간 초과 / 런타임 에러 / 오답]`이 발생해.
->
-> **요청 (Task):**
->
-> 1. **반례(Counter Example) 탐색:** 내 코드가 실패하는 엣지 케이스(Edge Case)를 딱 하나만 찾아서 입력값과 기댓값을 알려줘. 왜 실패하는지는 설명하지 마.
-> 2. **논리적 오류 진단:** 내가 작성한 코드의 로직 중 어느 부분에서 병목이 발생하는지, 혹은 어떤 조건을 누락했는지 질문 형태로 던져줘.
-> 3. **최적화 힌트:** 현재 내 코드의 시간 복잡도를 계산해 주고, 이를 `[목표 시간 복잡도, 예: O(N log N)]`으로 줄이기 위해 적용할 수 있는 알고리즘 기법(예: Two Pointer, Binary Search 등)을 추천해 줘.
->
-> **제약사항 (Constraints):**
->
-> - 절대로 수정된 정답 코드를 직접 작성해서 주지 마.
-> - 내가 스스로 논리적 결함을 찾을 수 있도록 소크라테스식 문답법을 사용해 줘.
+> 
+> - **Problème rencontré :** Lorsque je soumets ce code, j'obtiens l'erreur `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
+> 
+> **Tâche (Task) :**
+> 
+> 1. **Recherche de Contre-Exemple (Counter Example) :** Trouve un seul cas particulier (Edge Case) qui fait échouer mon code. Donne-moi uniquement la valeur d'entrée et la sortie attendue. N'explique pas pourquoi il échoue.
+> 2. **Diagnostic d'Erreur Logique :** Pose-moi des questions ciblées pour m'aider à identifier où se situe le goulot d'étranglement dans ma logique ou quelles conditions j'ai pu omettre.
+> 3. **Indice d'Optimisation :** Calcule la complexité temporelle de mon code actuel et recommande-moi une technique algorithmique (ex: Two Pointers, Binary Search) applicable pour l'abaisser à la complexité cible de `[Complexité temporelle cible, ex: O(N log N)]`.
+> 
+> **Contraintes (Constraints) :**
+> 
+> - Ne rédige absolument jamais la solution corrigée.
+> - Utilise la méthode socratique (poser des questions) pour que je puisse découvrir les failles logiques par moi-même.
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 Commentaire de l'Auteur (Insight) {#insight}
 
-코딩 테스트는 단순히 코드를 타이핑하는 속도를 겨루는 것이 아니라, 제약 조건 내에서 최적의 **'패턴(Pattern)'**을 찾아내는 논리력 싸움입니다.
-이 프롬프트를 실무에 적용해 보세요. 알고리즘 공부뿐만 아니라, 현업에서 복잡한 비즈니스 로직을 짤 때나 버그를 디버깅할 때도 이 '튜터링' 방식은 빛을 발합니다. 특히, AI에게 "이 문제와 유사한 패턴을 가진 프로그래머스 Lv.2 수준의 문제 3개만 추천해 줘"라고 추가 요청하면, 취약한 유형(예: DP, DFS/BFS)을 완벽하게 마스터할 수 있는 나만의 커리큘럼이 완성됩니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
-
-- **Q: 파이썬(Python) 말고 자바(Java)나 C++로도 잘 동작하나요?**
-  - A: 물론입니다. AI는 대부분의 메이저 프로그래밍 언어에 능통합니다. 프롬프트에 "Java의 Stream API를 사용하지 않고 설명해 줘"나 "C++의 STL 벡터를 활용하는 방향으로 힌트를 줘"와 같이 언어적 특성을 반영한 제약을 추가하면 더욱 정교한 코칭을 받을 수 있습니다.
-
-- **Q: 프롬프트 입력창을 왔다 갔다 하기 번거로운데 좋은 방법이 없나요?**
-  - A: **Cursor**나 **GitHub Copilot** 같은 AI 기반 IDE를 사용해 보세요. 에디터 내에서 문제가 되는 함수를 드래그한 뒤, 단축키를 누르고 "이 함수의 시간 복잡도를 O(N)으로 줄일 수 있는 힌트를 줘"라고 입력하면 브라우저 전환 없이 즉각적인 피드백을 받을 수 있습니다.
+Les tests d'algorithmique ne se résument pas à la vitesse de frappe ; il s'agit d'une bataille logique pour trouver le meilleur **'Modèle' (Pattern)** sous certaines contraintes.
+Appliquez ce prompt dans votre pratique quotidienne. Ce type de "tutorat" ne brille pas seulement dans l'apprentissage algorithmique, mais s'avère extrêmement puissant pour concevoir une logique métier complexe ou déboguer dans un environnement professionnel réel. En prime, vous pouvez demander à l'IA : "Recommande-moi 3 problèmes de niveau intermédiaire qui partagent le même modèle", pour vous créer un programme d'entraînement sur-mesure sur vos points faibles (ex: Programmation Dynamique, DFS/BFS).
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?) {#why-it-works}
+## 🙋 Foire Aux Questions (FAQ) {#faq}
 
-1. **답 금지 제약 (No Solution Constraints):** 학습의 핵심은 스스로 고민하는 '고통의 시간'에 있습니다. 정답을 스포일러하지 않도록 명확히 통제하여 뇌의 논리 회로를 강제로 작동시킵니다.
-2. **반례 기반 디버깅 (Test-Driven Debugging):** 대부분의 초보자는 주어지는 기본 예제만 통과하면 정답이라고 착각합니다. AI에게 엣지 케이스를 찾아달라고 요구함으로써, 경계값 분석(Boundary Value Analysis) 능력을 자연스럽게 기를 수 있습니다.
-3. **소크라테스식 문답법 (Socratic Method):** 지식을 주입하는 것이 아니라 질문을 통해 결함을 스스로 깨닫게 유도하여, 단순 암기가 아닌 진정한 구조적 이해를 가능하게 합니다.
+- **Q : Est-ce que cela fonctionne aussi bien avec Java ou C++ qu'avec Python ?**
+  - R : Absolument. L'IA maîtrise la plupart des grands langages de programmation. Vous pouvez obtenir un coaching encore plus précis en ajoutant des contraintes spécifiques au langage, par exemple : "Explique-moi sans utiliser l'API Stream de Java" ou "Donne-moi un indice exploitant les vecteurs STL en C++".
+
+- **Q : Faire des allers-retours avec l'interface de l'IA est fastidieux. Existe-t-il une meilleure méthode ?**
+  - R : Essayez un IDE basé sur l'IA comme **Cursor** ou **GitHub Copilot**. Sélectionnez la fonction problématique directement dans votre éditeur, utilisez le raccourci clavier et demandez : "Donne-moi un indice pour réduire la complexité temporelle de cette fonction à O(N)". Vous obtiendrez un feedback immédiat sans avoir à changer de fenêtre.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie du Prompt (Pourquoi ça marche ?) {#why-it-works}
 
-### ❌ Before (무작정 구현 후 멘붕)
+1. **Interdiction de donner la solution (No Solution Constraints) :** Le cœur de l'apprentissage réside dans cette "période de lutte" où l'on réfléchit par soi-même. Bloquer l'accès à la solution force votre cerveau à faire travailler ses circuits logiques.
+2. **Débogage par contre-exemples (Test-Driven Debugging) :** La plupart des débutants pensent que leur code est correct s'il passe les tests de base. En demandant à l'IA de trouver des cas extrêmes (Edge Cases), vous développez naturellement vos compétences en analyse des valeurs limites (Boundary Value Analysis).
+3. **Méthode Socratique (Socratic Method) :** Au lieu de vous injecter la connaissance, l'IA utilise des questions pour vous amener à réaliser vos propres erreurs. Cela favorise une véritable compréhension structurelle plutôt qu'une simple mémorisation.
+
+---
+
+## 📊 Preuve : Avant & Après
+
+### ❌ Avant (Implémentation aveugle suivie de panique)
 
 ```text
-(나의 코드)
+(Mon code)
 for i in range(N):
     for j in range(i+1, N):
         if arr[i] + arr[j] == target:
             return True
 
-결과: 효율성 테스트 0점 (시간 초과)
-반응: "로직은 완벽한데 왜 틀리지? 질문 게시판이나 봐야겠다." 🤯
+Résultat : Score de performance de 0 (Time Limit Exceeded)
+Réaction : "Ma logique est parfaite, pourquoi est-ce que ça échoue ? Je vais aller regarder les forums." 🤯
 ```
 
-### ✅ After (AI 멘토링 적용) {#ai}
+### ✅ Après (Avec le mentorat de l'IA) {#ai}
 
 ```text
-(AI의 피드백)
-AI: "현재 작성하신 이중 for문 접근 방식의 시간 복잡도는 O(N^2)입니다. 만약 N이 100,000이라면 연산 횟수가 100억 번을 초과하여 시간 초과가 발생합니다.
-배열을 먼저 정렬한 뒤, 양쪽 끝에서 시작하는 두 개의 포인터를 활용해 시간 복잡도를 O(N log N)으로 줄일 수 있는 방법은 없을까요?"
+(Feedback de l'IA)
+IA : "La complexité temporelle de votre double boucle `for` actuelle est O(N^2). Si N vaut 100 000, le nombre d'opérations dépasse les 10 milliards, causant un Time Limit Exceeded.
+N'y aurait-il pas un moyen de réduire la complexité temporelle à O(N log N) en triant d'abord le tableau, puis en utilisant deux pointeurs partant de chaque extrémité ?"
 
-(나의 깨달음)
-나: "아! 투 포인터(Two Pointer) 기법을 쓰면 반복문 하나로 끝낼 수 있겠구나!"
+(Mon illumination)
+Moi : "Ah ! Si j'utilise la technique des Two Pointers, je peux résoudre cela avec une seule boucle !"
 
-결과: 투 포인터 적용 후 효율성 테스트 100점 통과 🚀
+Résultat : Score de performance de 100 obtenu après l'application des Two Pointers 🚀
 ```
 
 ---
 
-## 🎯 결론 {#conclusion}
+## 🎯 Conclusion {#conclusion}
 
-알고리즘은 코드를 달달 외우는 암기 과목이 아니라, 문제의 본질을 **깨닫는 과정**입니다.
-AI를 단순한 '정답 자판기'로 쓰면 단기적인 숙제는 해결할 수 있을지 몰라도, 진짜 실력은 제자리에 머물게 됩니다. AI를 여러분의 지치지 않는 **페이스메이커이자 러닝메이트**로 대우해 보세요.
+L'algorithmique n'est pas une matière de mémorisation où l'on apprend du code par cœur ; c'est un **processus de prise de conscience** de l'essence d'un problème.
+Si vous utilisez l'IA comme un simple "distributeur automatique de solutions", vous résoudrez peut-être votre problème à court terme, mais vos réelles compétences stagneront. Traitez l'IA comme votre **partenaire d'entraînement inépuisable**.
 
-오늘 마주친 어려운 문제, 도망치지 말고 제대로 부딪혀 보시기 바랍니다.
-막히면 조용히 외치세요. **"힌트 딱 하나만 더 줘!"** 🍷
+Ne fuyez pas face aux problèmes difficiles que vous rencontrez aujourd'hui. Affrontez-les de front.
+Et si vous êtes bloqué, murmurez simplement : **"Donne-moi juste un dernier indice !"** 🍷

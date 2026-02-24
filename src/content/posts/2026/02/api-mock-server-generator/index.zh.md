@@ -5,138 +5,139 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: API 명세서만 던져주면 Express/Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 2배로 올리세요.
+description: 只需提供 API 文档，AI 即可瞬间生成基于 Express/Hono 的 Mock 服务器代码。让前端开发速度翻倍！
 tags: [AI, Backend, Frontend, Testing]
 ---
 
-# 📝 백엔드 기다리지 마세요! AI Mock Server 생성기 (API Mock Gen)
+# 📝 别再干等后端了！AI Mock Server 生成器 (API Mock Gen)
 
-- **🎯 추천 대상:** 프론트엔드 개발자, 풀스택 개발자, 기획자
-- **⏱️ 소요 시간:** 1일 → 1분 단축
-- **🤖 추천 모델:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Flash
+- **🎯 推荐对象：** 前端开发者、全栈开发者、产品经理
+- **⏱️ 所需时间：** 1天 → 缩短至1分钟
+- **🤖 推荐模型：** 所有对话型 AI (ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Flash 等)
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **难度：** ⭐⭐☆☆☆
+- ⚡️ **效果：** ⭐⭐⭐⭐⭐
+- 🚀 **实用性：** ⭐⭐⭐⭐⭐
 
-> _"기획은 나왔고 화면도 그렸는데, 데이터를 받아올 API가 없어서 더미 데이터만 하드코딩하고 계신가요?"_
+> _"需求已经确认，UI 界面也画好了，却因为没有 API 接口只能在代码里硬编码假数据？"_
 
-프론트엔드 개발자들의 영원한 고통, "백엔드 API 아직 안 나왔나요?" 🐢
-API가 완성될 때까지 기다리며 임시 코드를 짜고, 나중에 실제 API가 연동될 때 그 코드를 다시 다 뜯어고치는 비효율적인 반복 작업은 이제 그만하셔도 됩니다. API 명세서(Swagger, Notion 문서, 텍스트 설명 등)만 있으면 AI가 단 1분 만에 완벽하게 돌아가는 Mock Server를 만들어줍니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **병목 현상 해소:** 백엔드 개발을 기다릴 필요 없이 프론트엔드 로직과 UI를 완벽하게 구현할 수 있습니다.
-2. **실전 같은 테스트 환경:** 네트워크 지연(Delay)과 에러 상태 코드를 시뮬레이션하여 로딩 스피너 및 에러 처리 UI를 검증합니다.
-3. **복사 및 붙여넣기 실행:** 복잡한 설정 없이 `node server.js` 한 줄로 즉시 실행되는 코드를 얻을 수 있습니다.
+这是所有前端开发者永远的痛：“后端 API 还没写好吗？” 🐢
+为了等 API 而编写临时代码，等真实接口上线后还要把临时代码全部推翻重写——这种低效的重复劳动是时候结束了。现在，只要有一份 API 文档（Swagger、Notion 文档或纯文本说明），AI 就能在短短 1 分钟内为你生成一个完美运行的 Mock Server。
 
 ---
 
-## 🚀 해결책: "API Mock Server 제너레이터"
+## ⚡️ 3句话总结 (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **打破开发瓶颈：** 无需等待后端开发，前端逻辑和 UI 渲染即可无缝进行。
+2. **实战级测试环境：** 完美模拟网络延迟（Delay）和错误状态码，轻松验证加载动画（Spinner）与错误处理 UI。
+3. **开箱即用：** 零复杂配置，只需一行 `node server.js` 命令即可启动服务器。
 
-빠르게 기본적인 Mock API가 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 `[시니어 백엔드 개발자]`야.
-> **요청:** 내가 제공하는 `[API 명세]`를 바탕으로 `[Express.js]` 환경에서 바로 실행 가능한 Mock Server 전체 코드를 작성해 줘.
+## 🚀 解决方案："API Mock Server 生成器"
+
+### 🥉 Basic Version (基础版)
+
+当你只需要一个最基础的 Mock API 时，请使用此版本。
+
+> **角色设定：** 你是一位 `[资深后端工程师]`。
+> **任务目标：** 请根据我提供的 `[API 文档]`，在 `[Express.js]` 环境下编写一段可直接运行的完整 Mock Server 代码。
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (专业版)
 
-랜덤 딜레이, 에러 케이스, 대량의 더미 데이터 등 디테일한 퀄리티가 필요할 때 사용하세요.
+当你需要随机延迟、错误场景复现、海量假数据等高保真细节时，请使用此版本。
 
-> **역할 (Role):** 너는 `[시니어 백엔드 개발자]`이자 `[테스트 환경 구축 전문가]`야.
+> **角色设定 (Role)：** 你是一位 `[资深后端工程师]` 兼 `[测试环境搭建专家]`。
 >
-> **상황 (Context):**
+> **背景上下文 (Context)：**
 >
-> - 배경: `[백엔드 API 개발이 지연되어 프론트엔드 로직 테스트가 막혀있는 상황]`
-> - 목표: `[API 명세를 바탕으로 실제와 유사하게 동작하는 완벽한 Mock Server 구축]`
+> - 现状：`[由于后端 API 开发延期，前端的数据联调与逻辑测试全面受阻。]`
+> - 目标：`[基于现有的 API 文档，构建一个与真实生产环境高度相似的完美 Mock Server。]`
 >
-> **요청 (Task):**
-> 아래 API 명세를 바탕으로 실행 가능한 Mock Server 전체 코드를 작성해 줘.
+> **任务指令 (Task)：**
 >
-> **기술 스택:**
+> 请根据下方提供的 API 文档，编写一份可直接运行的完整 Mock Server 代码。
 >
-> - 언어: `[TypeScript / JavaScript]`
-> - 프레임워크: `[Express.js / Hono / Next.js Route Handler 등 선택]`
+> **技术栈限制：**
 >
-> **API 명세:**
+> - 编程语言：`[TypeScript / JavaScript]`
+> - 框架选择：`[Express.js / Hono / Next.js Route Handler (请任选其一)]`
 >
-> 1. GET /users: 사용자 목록 반환 (페이지네이션 포함, id, name, email 필드)
-> 2. GET /users/:id: 특정 사용자 상세 정보
-> 3. POST /users: 신규 사용자 등록 (유효성 검사 실패 시 400 에러 응답 예시 포함)
-> 4. DELETE /users/:id: 사용자 삭제 (권한 없음 403 에러 예시 포함)
+> **API 文档说明：**
 >
-> **필수 요구사항:**
+> 1. GET /users: 返回用户列表（需包含分页逻辑，字段包含 id, name, email）
+> 2. GET /users/:id: 返回指定用户的详细信息
+> 3. POST /users: 注册新用户（需提供校验失败时的 400 错误响应示例）
+> 4. DELETE /users/:id: 删除用户（需提供无权限时的 403 错误响应示例）
 >
-> 1. **더미 데이터:** `faker.js` 등을 사용하거나, 현실적인 하드코딩 데이터를 10~20개 정도 생성해.
-> 2. **지연 시간 시뮬레이션:** 실제 네트워크처럼 500ms~1500ms 정도의 랜덤 딜레이를 추가해 (로딩 스피너 테스트용).
-> 3. **에러 케이스 주입:** 약 5~10%의 확률로 500 Internal Server Error를 반환하도록 로직을 구성해 (에러 처리 UI 테스트용).
-> 4. **코드 작성:** 복사해서 바로 실행(`node server.js` 또는 `ts-node server.ts`)하면 3000번 포트에서 돌아가도록 하나의 파일로 완성해 줘.
+> **核心需求：**
 >
-> **제약사항 (Constraints):**
+> 1. **高保真假数据：** 请使用 `faker.js` 等库，或硬编码生成 10~20 条贴近真实业务场景的数据。
+> 2. **网络延迟模拟：** 像真实网络环境一样，加入 500ms~1500ms 的随机请求延迟（用于测试加载动画）。
+> 3. **异常注入测试：** 在路由逻辑中加入约 5~10% 的概率返回 `500 Internal Server Error`（用于测试前端的错误处理 UI）。
+> 4. **单文件运行：** 请将所有代码整合到一个文件中，确保我复制后通过执行 `node server.js`（或 `ts-node server.ts`）就能在 3000 端口直接跑起来。
 >
-> - 출력 형식은 마크다운 코드 블록(` ``` `)으로 감싸서 제공해.
-> - 추가적인 패키지 설치가 필요하다면 명령어(`npm install ...`)를 코드 상단 주석으로 명시해.
+> **格式约束 (Constraints)：**
 >
-> **주의사항 (Warning):**
+> - 所有输出代码必须包裹在 Markdown 代码块（` ``` `）中。
+> - 如果需要安装额外的第三方包，请在代码顶部的注释里写明安装命令（如 `npm install ...`）。
 >
-> - 프론트엔드 개발자가 서버 설정으로 고민하지 않도록, CORS 설정(`cors` 패키지 또는 헤더)을 반드시 포함시켜 줘.
+> **注意事项 (Warning)：**
+>
+> - 为了防止前端跨域报错，请务必在代码中配置好 CORS（使用 `cors` 包或手动设置 Header）。
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 作者点评 (Insight)
 
-이 프롬프트를 사용할 때 가장 중요한 꿀팁은 **"랜덤 딜레이(Random Delay)"**와 **"에러 케이스(Random Error)"**를 반드시 포함해 달라고 요청하는 것입니다.
-로컬 환경의 Mock Server는 응답 속도가 0.01초 단위로 너무 빠르기 때문에, 자칫하면 스켈레톤 UI(Skeleton UI)나 로딩 스피너의 렌더링 상태를 놓치기 쉽습니다. 또한, 5% 확률로 500 에러가 떨어지게 설정해 두면 엣지 케이스에서의 에러 토스트(Toast) 팝업이나 Fallback UI가 제대로 동작하는지 미리 완벽하게 테스트할 수 있습니다.
+使用这个提示词时，最核心的技巧在于**强烈要求 AI 加入“随机延迟 (Random Delay)”与“随机错误 (Random Error)”**。
+本地启动的 Mock Server 响应速度往往在 0.01 秒内，这会导致前端根本看不清骨架屏 (Skeleton UI) 或加载动画的渲染状态。不仅如此，设定 5% 的概率抛出 500 错误，能让你在开发阶段就提前验证边缘场景下的全局错误提示 (Toast) 或降级 UI (Fallback UI) 是否能正常工作。
 
-백엔드 개발자분이 "API 나왔어요!" 했을 때, "네, 연동 및 에러 테스트 끝났습니다"라고 쿨하게 답하는 쾌감을 느껴보세요. 😎
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Swagger JSON 파일이 있는데 이걸로도 되나요?**
-  - A: 네! 프롬프트의 'API 명세' 부분에 Swagger(OpenAPI) JSON을 텍스트로 그대로 붙여넣으면, 훨씬 더 정교한 타입과 응답 스키마를 가진 Mock Server를 만들어줍니다.
-
-- **Q: POST나 PUT으로 추가/수정한 데이터가 유지되나요?**
-  - A: 기본적으로 메모리(배열)에 저장되므로 서버를 재시작하면 초기화됩니다. 만약 데이터 유지가 필요하다면 프롬프트에 *"lowdb나 json-server를 사용해서 로컬 파일(db.json)에 데이터를 저장해 줘"*라고 추가로 요청해 보세요.
-
-- **Q: Next.js를 쓰고 있는데 Express 말고 다른 걸로도 되나요?**
-  - A: 물론입니다! '기술 스택' 부분에 `Next.js API Routes (App Router의 Route Handler)`로 지정해 주면, Next.js 프로젝트 내에 바로 넣어서 쓸 수 있는 코드를 짜줍니다.
+当后端同事对你说“API 写好了！”的时候，你可以轻描淡写地回一句：“好的，我的联调和异常测试早就做完了。” 😎
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 常见问题 (FAQ)
 
-1. **Role(역할) 및 Context(상황) 부여:** AI에게 단순한 코더가 아닌 '테스트 환경 구축 전문가' 페르소나를 씌워, 프론트엔드 개발자가 실제로 겪는 불편함(CORS, 로딩 딜레이 등)을 선제적으로 해결하게 만들었습니다.
-2. **현실적인 제약조건 추가:** 무의미한 'test1', 'test2' 데이터 대신 `faker.js`나 현실적인 더미 데이터를 요구하여 UI의 시각적 완성도를 실제 프로덕션 수준으로 확인할 수 있습니다.
-3. **엣지 케이스 시뮬레이션:** 에러 응답 확률과 랜덤 네트워크 지연 시간을 명시적으로 요구하여, 단순히 성공(200 OK) 케이스뿐만 아니라 에러 핸들링까지 강제로 검증할 수 있는 환경을 만들었습니다.
+- **Q: 我手上只有一份 Swagger JSON 文件，能直接用吗？**
+  - A: 当然可以！把 Swagger (OpenAPI) 的 JSON 代码直接复制并粘贴到提示词的“API 文档”区域，AI 会为你生成具有更精准类型定义和响应结构的 Mock 代码。
+
+- **Q: 通过 POST 或 PUT 方法新增和修改的数据会保存下来吗？**
+  - A: 默认情况下数据保存在内存（数组）中，重启服务器后就会重置。如果需要持久化保存，可以在提示词中补充一句：“*请使用 lowdb 或 json-server，将数据持久化到本地的 db.json 文件中。*”
+
+- **Q: 我的前端是用 Next.js 写的，能不用 Express 吗？**
+  - A: 没问题！只需在提示词的“框架选择”中指定为 `Next.js API Routes (App Router Route Handler)`，AI 就会直接输出能无缝嵌入你 Next.js 项目的代码。
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 提示词解剖 (Why it works?)
 
-### ❌ Before (기존 방식: 하드코딩)
+1. **精准的角色与背景设定：** 赋予 AI“测试环境搭建专家”的身份，让它不再是单纯的代码生成器，而是能主动解决前端痛点（如跨域 CORS、接口响应过快）的架构师。
+2. **贴近业务的约束条件：** 拒绝无意义的 'test1'、'test2'，强制要求使用 `faker.js` 生成高保真数据，让前端 UI 的视觉效果直接达到生产级别。
+3. **极限边缘场景模拟：** 明确要求注入随机错误和网络延迟，打破了只测试“200 OK”成功场景的局限，强制前端对异常处理逻辑进行完善。
+
+---
+
+## 📊 效果对比：Before & After
+
+### ❌ Before (传统方式：手动硬编码)
 
 ```javascript
-// 프론트엔드 컴포넌트 내부에 의미 없는 데이터를 직접 작성
+// 在前端组件内部手动编写毫无意义的假数据
 const [users, setUsers] = useState([
   { id: 1, name: "test1", email: "test@test.com" },
   { id: 2, name: "test2", email: "test2@test.com" },
 ]);
 
-// 로딩 상태나 에러 상태를 테스트하려면 코드를 일일이 주석 처리하며 수동으로 바꿔야 함
+// 想要测试 Loading 或 Error 状态？只能一遍遍手动注释代码、修改状态
 ```
 
-### ✅ After (결과물: AI가 작성한 Mock Server)
+### ✅ After (最终成果：AI 瞬间生成的 Mock Server)
 
 ```javascript
-// npm install express cors @faker-js/faker
+// 运行前准备：npm install express cors @faker-js/faker
 const express = require("express");
 const cors = require("cors");
 const { faker } = require("@faker-js/faker");
@@ -145,7 +146,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// 현실적인 더미 데이터 15개 자동 생성
+// 自动生成 15 条高保真假数据
 let users = Array.from({ length: 15 }).map(() => ({
   id: faker.string.uuid(),
   name: faker.person.fullName(),
@@ -153,13 +154,13 @@ let users = Array.from({ length: 15 }).map(() => ({
   createdAt: faker.date.recent(),
 }));
 
-// 실전 대비용: 랜덤 딜레이 미들웨어 (500ms ~ 1500ms 지연)
+// 实战级模拟：随机延迟中间件 (500ms ~ 1500ms)
 const randomDelay = (req, res, next) => {
   const delay = Math.floor(Math.random() * 1000) + 500;
   setTimeout(next, delay);
 };
 
-// 실전 대비용: 랜덤 에러 발생 미들웨어 (5% 확률로 500 에러)
+// 实战级模拟：随机错误中间件 (5% 的几率触发 500 报错)
 const randomError = (req, res, next) => {
   if (Math.random() < 0.05) {
     return res.status(500).json({ error: "Internal Server Error Simulation" });
@@ -175,15 +176,15 @@ app.get("/users", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("🚀 Mock Server is running on http://localhost:3000");
+  console.log("🚀 Mock Server 启动成功：http://localhost:3000");
 });
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 总结
 
-API 명세서만 있다면 백엔드를 무작정 기다릴 필요가 없습니다.
-AI가 1분 만에 만들어준 똑똑한 Mock Server로 로딩 스피너부터 엣지 케이스의 에러 팝업까지 완벽하게 테스트하세요. 프론트엔드 개발 속도와 UI 완성도를 동시에 끌어올릴 수 있습니다.
+有了 API 文档，就再也不需要干等着后端排期了。
+利用 AI 在 1 分钟内搭建出的智能 Mock Server，从加载动画到边缘情况的错误弹窗，你都能提前测试得明明白白。不仅开发速度成倍提升，UI 交付质量也会变得无懈可击。
 
-이제 마음 편히 칼퇴하세요! 🍷
+现在，安心准点下班吧！🍷

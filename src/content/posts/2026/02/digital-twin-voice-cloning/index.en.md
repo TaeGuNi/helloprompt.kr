@@ -5,128 +5,128 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
-description: "나 대신 블로그 쓰고, 인스타 댓글 달아주는 'AI 분신'을 만드는 법. 말투 분석 프롬프트를 공개합니다."
+description: "How to create an 'AI Avatar' that writes blog posts and replies to comments for you. The ultimate tone-analysis prompt revealed."
 tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 ---
 
-# 📝 나보다 더 나 같은 AI 만들기 (Tone & Manner 복제)
+# 📝 Building an AI That Sounds More Like You Than You Do (Tone & Manner Cloning)
 
-- **🎯 추천 대상:** 인플루언서, 작가, 1인 기업가, 답장하느라 하루 다 보내는 분
-- **⏱️ 소요 시간:** 15분 (데이터 수집 포함)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (문체 모방 탁월), GPT-4o
+- **🎯 Target Audience:** Influencers, writers, solopreneurs, and anyone spending all day replying to messages
+- **⏱️ Time to Value:** 15 minutes (including data collection)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet (excellent at style mimicking), GPT-4o
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐☆
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐☆
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"내가 잠든 사이에도 나처럼 생각하고, 내 말투 그대로 소통하는 AI가 있다면 얼마나 편할까요?"_
+> _"Imagine having an AI that thinks exactly like you and communicates in your unique tone of voice while you sleep—how much easier would your life be?"_
 
-많은 분들이 AI로 글을 작성한 뒤 "너무 기계 같아서 바로 티가 난다"며 아쉬워합니다. 그 근본적인 이유는 AI에게 당신만의 고유한 **'말투(Tone of Voice)'**가 학습되지 않았기 때문입니다. 내 과거의 글들을 분석시켜 '말투 DNA'를 정교하게 추출하고 이를 프롬프트에 이식하면, 99%의 싱크로율을 자랑하는 완벽한 디지털 트윈(Digital Twin)이 탄생합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 나의 과거 글(블로그 포스팅, 카톡 대화, 이메일 등)을 모아 AI에게 제공합니다.
-2. AI에게 "내 말투의 특징을 심층 분석해 줘"라고 지시하여 문체 가이드라인을 추출합니다. (Style Extractor)
-3. 추출된 분석 결과를 '시스템 프롬프트'에 주입하여 나만의 AI 페르소나를 완성합니다.
+Many professionals complain that AI-generated text feels "too robotic and immediately obvious." The root cause? The AI hasn't learned your unique **'Tone of Voice'**. By having the AI deeply analyze your past writing to extract your 'Tone DNA' and embedding that into a system prompt, you can create a Digital Twin that boasts a 99% synchronization rate with your actual communication style.
 
 ---
 
-## 🚀 해결책: "Style Cloner Protocol"
+## ⚡️ TL;DR (3-Line Summary)
 
-이 프로토콜은 말투를 추출하는 1단계와 실제 글을 생성하는 2단계로 나뉩니다.
+1. Gather your past writing (e.g., blog posts, Slack messages, casual emails) and feed them to the AI.
+2. Instruct the AI to "analyze the characteristics of my tone in depth" to extract a personalized style guideline. (Style Extractor)
+3. Inject the extracted analysis into a 'System Prompt' to fully activate your custom AI persona.
 
-### 🥉 Step 1: 말투 분석 프롬프트 (Style Extractor)
+---
 
-나만의 문체 가이드라인을 추출하기 위해 과거의 텍스트 데이터를 분석하는 단계입니다.
+## 🚀 The Solution: "Style Cloner Protocol"
 
-> **역할:** 너는 세계 최고의 문체 분석 및 언어학 전문가야.
+This protocol is divided into two phases: extracting your tone and generating the actual content.
+
+### 🥉 Step 1: Style Extractor Prompt
+
+Use this prompt to analyze your past text data and extract a definitive guideline for your unique writing style.
+
+> **Role:** You are a world-class stylistic analyst and linguistics expert.
 >
-> **요청:** 아래 제공된 텍스트의 문체(Style), 어조(Tone), 자주 쓰는 단어(Vocabulary), 문장 구조를 심층적으로 분석해서 '프롬프트 지침' 형태로 정리해 줘.
+> **Task:** Conduct an in-depth analysis of the style, tone, vocabulary, and sentence structure of the provided text. Synthesize your findings into a comprehensive 'prompt guideline' format that can be used to replicate this exact tone.
 >
-> **데이터:**
-> `[여기에 내 과거 글, 카톡 대화, 이메일 등 3~5편을 붙여넣으세요]`
+> **Data:**
+> `[Paste 3-5 samples of your past blog posts, Slack messages, or emails here]`
 
 <br>
 
-### 🥇 Step 2: 페르소나 주입 프롬프트 (Persona Injection)
+### 🥇 Step 2: Persona Injection Prompt
 
-Step 1에서 분석된 결과를 바탕으로, AI가 완벽하게 내 말투를 흉내 내어 실제 글을 작성하게 만드는 프롬프트입니다.
+Based on the analysis from Step 1, this prompt forces the AI to perfectly mimic your tone and generate authentic-sounding content.
 
-> **역할 (Role):** 너는 지금부터 나, **'`[사용자 이름/닉네임]`'**의 완벽한 디지털 트윈이야.
+> **Role (Role):** From now on, you are the perfect digital twin of me, **'`[Your Name/Nickname]`'**.
 >
-> **페르소나 정의 (Identity):**
+> **Identity:**
 >
-> - 너는 `[직업 및 성향, 예: 5년 차 B2B SaaS 마케터]`이고, 앞서 분석된 내 말투의 특징을 100% 완벽하게 구사해.
-> - 주요 성향: `[예: 조금 시니컬하지만 위트 있는 성격]`
+> - You are a `[Profession and Personality, e.g., Mid-level B2B SaaS Marketer]`, and you execute the previously analyzed characteristics of my tone with 100% accuracy.
+> - Core Personality: `[e.g., Slightly cynical but highly witty and practical]`
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: `[현재 상황, 예: 새로운 AI 툴 런칭을 알리는 인스타그램 피드 작성 중]`
-> - 목표: `[최종 목표, 예: 팔로워들의 호기심을 유발하고 링크 클릭을 유도]`
+> - Background: `[Current situation, e.g., Writing an Instagram feed post announcing a new AI tool launch]`
+> - Goal: `[Final objective, e.g., Pique the followers' curiosity and drive link clicks]`
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. 내가 직접 쓴 것처럼 자연스럽고 설득력 있는 글을 작성해.
-> 2. `[앞서 추출된 말투 특징 1, 예: 문장 끝을 명사형으로 맺음 ("~함", "~임")]`
-> 3. `[앞서 추출된 말투 특징 2, 예: 중간중간 적절한 이모지와 아재 개그를 섞음]`
+> 1. Write a natural, persuasive piece that reads exactly as if I wrote it myself.
+> 2. `[Extracted tone characteristic 1, e.g., End sentences casually without formal honorifics]`
+> 3. `[Extracted tone characteristic 2, e.g., Interject appropriate emojis and self-deprecating humor occasionally]`
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 절대 "AI스러운" 딱딱하고 기계적인 말투(예: "알아보겠습니다", "중요합니다")를 쓰지 마.
-> - 문장은 짧고 호흡을 빠르게 가져가.
+> - NEVER use stiff, robotic, "AI-like" phrasing (e.g., "Let's delve into," "It is crucial to note," "In conclusion").
+> - Keep sentences relatively short and the pacing brisk.
 >
-> **주의사항 (Warning):**
+> **Warning:**
 >
-> - 너무 과장해서 캐리커처처럼 보이면 안 돼. 자연스러움과 진정성이 생명이야.
-> - 확실하지 않은 정보는 지어내지 마. (할루시네이션 방지)
+> - Do not over-exaggerate to the point of becoming a caricature. Naturalness and authenticity are paramount.
+> - Do not invent unverified information. (Zero hallucinations)
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트의 성패를 가르는 핵심은 바로 **'데이터의 질(Quality of Data)'**입니다. 각 잡고 쓴 기획서나 보고서보다는, 동료와 나눈 슬랙(Slack) 메시지, 편하게 쓴 일기, 개인 SNS 피드처럼 '진짜 내 모습'과 '날것의 어휘'가 담긴 텍스트를 학습시킬 때 싱크로율이 폭발적으로 상승합니다. 저는 이 프로토콜을 Custom GPT에 연동하여 블로그 초안 작성의 80%를 자동화했습니다. 여러분도 단순 반복되는 텍스트 작업에서 해방되어, 더 가치 있는 기획에 시간을 투자해 보세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 사투리나 특정 지역 억양도 복제가 가능한가요?**
-  - A: 물론입니다! "부산 사투리를 쓰고, 억양이 세다"라고 명시한 뒤 실제 사투리 예시 데이터를 주면 AI가 기가 막히게 뉘앙스를 잡아냅니다.
-
-- **Q: 분석된 말투를 매번 프롬프트에 입력해야 하나요?**
-  - A: ChatGPT의 경우 'Custom GPTs' 기능의 `Instructions`(지침) 란에, Claude의 경우 'Project'의 `Custom Instructions`에 Step 1에서 도출된 분석 결과를 고정해 두면 나만의 전용 텍스트 봇으로 영구 활용할 수 있습니다.
+The make-or-break factor for this prompt is the **'Quality of Data'**. Rather than feeding it formal business proposals or polished reports, use text that captures your 'raw vocabulary' and 'true self'—like Slack messages with close colleagues, casual diary entries, or unfiltered social media feeds. The synchronization rate skyrockets when the AI learns from your most authentic data. I personally integrated this protocol into a Custom GPT and automated 80% of my blog drafting process. Free yourself from repetitive text generation and invest your time in high-value creative planning.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions
 
-1.  **Few-Shot Learning (소수샷 학습):** 단순히 "친근하게 써줘"라고 모호하게 지시하는 것보다, 실제 내 글(예시)을 직접 보여주고 그 패턴을 역설계(Reverse Engineering)하도록 하는 방식이 AI의 이해도를 100배 이상 높입니다.
-2.  **Explicit Constraints (명시적 제약):** "AI스러운 말투 금지"와 같은 네거티브 프롬프트(Negative Prompt)를 통해 기계적인 답변을 원천 차단하여, 역설적으로 가장 인간다운 결과물을 만들어냅니다.
+- **Q: Can it clone regional dialects or specific internet slang?**
+  - A: Absolutely! If you explicitly state, "Use internet slang heavily and maintain a highly energetic tone," and provide actual text examples, the AI will capture the nuance flawlessly.
+
+- **Q: Do I have to input the analyzed tone into the prompt every single time?**
+  - A: Not at all. You can permanently pin the analysis results from Step 1 into the `Instructions` section of a Custom GPT (for ChatGPT) or the `Custom Instructions` in a Claude Project. This turns it into your permanent, dedicated text avatar.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works)
 
-### ❌ Before (일반 AI 프롬프트 사용 시)
+1.  **Few-Shot Learning:** Instead of giving a vague instruction like "write in a friendly tone," feeding the AI your actual writing (examples) and having it reverse-engineer the pattern increases its comprehension exponentially.
+2.  **Explicit Constraints:** By utilizing negative prompts like "NEVER use AI-like phrasing," we fundamentally block robotic outputs. Paradoxically, placing strict mechanical constraints yields the most human-like, natural results.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Standard AI Prompt)
 
 ```text
-안녕하세요. 오늘은 퍼스널 브랜딩의 중요성에 대해 알아보겠습니다. 퍼스널 브랜딩은 현대 사회에서 매우 중요한 요소입니다. 여러분도 자신만의 브랜드를 구축해 보시길 권장합니다.
+Hello. Today, we will explore the importance of personal branding. Personal branding is a highly critical element in modern society. I strongly encourage you to build your own unique brand to succeed in your career.
 ```
 
-### ✅ After (디지털 트윈 프롬프트 적용 시 - ZZabbis Ver.)
+### ✅ After (Digital Twin Prompt Applied - ZZabbis Ver.)
 
 ```text
-다들 퍼스널 브랜딩 중요하다는 건 알지? 근데 막상 시작하려니까 귀찮고 막막하잖아. 😅
-그래서 내가 당장 써먹을 수 있는 꿀팁 가져왔음. 🔥
-이거 모르면 진짜 손해니까 일단 저장부터 박고 시작하자고!
+We all know personal branding is a big deal, right? But actually getting started feels like a huge hassle. 😅
+So, I brought some practical tips you can use right this second. 🔥
+You'll seriously regret missing this, so hit save before we dive in!
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-나의 시간과 에너지는 한정되어 있습니다. 나를 완벽하게 대신해 줄 '디지털 트윈'을 복제하고, 여러분은 더 창의적이고 중요한 코어 업무에 집중하세요.
+Your time and energy are finite resources. Clone a 'Digital Twin' to perfectly substitute your repetitive writing tasks, and focus your efforts on the core, creative work that truly moves the needle.
 
-이제 칼퇴하세요! 🍷
+Time to clock out! 🍷

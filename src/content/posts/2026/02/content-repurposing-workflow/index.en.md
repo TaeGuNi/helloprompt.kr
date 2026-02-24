@@ -5,138 +5,140 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "콘텐츠 제작"
-description: "AI로 콘텐츠를 5가지 포맷으로 변환하는 원소스 멀티유즈 프롬프트"
+description: "An AI prompt that transforms a single piece of content into 5 different formats for One-Source Multi-Use (OSMU)."
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 ---
 
-# 📝 블로그 글 하나로 인스타, 링크드인까지 씹어먹는 OSMU 프롬프트
+# 📝 The Ultimate OSMU Prompt: Turn One Blog Post into Instagram & LinkedIn Gold
 
-- **🎯 추천 대상:** 혼자서 모든 채널을 관리하는 1인 마케터, 지식 창업자, 크리에이터
-- **⏱️ 소요 시간:** 2시간 → 5분
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet
+- **🎯 Target Audience:** Solopreneurs, creators, and marketers managing all channels alone
+- **⏱️ Time Saved:** 2 hours → 5 minutes
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"영혼을 갈아 넣은 블로그 글, 왜 딱 한 번만 쓰고 버리시나요?"_
+> _"Why spend hours pouring your soul into a blog post, only to use it once and let it gather dust?"_
 
-블로그 글 하나를 완성하는 데 평균 3~4시간이 걸립니다. 하지만 이렇게 정성껏 쓴 글을 블로그에만 올려두는 것은 엄청난 낭비입니다. 잘 쓰여진 아티클 하나는 훌륭한 유튜브 쇼츠 스크립트이자, 인스타그램 카드뉴스이며, 링크드인 전문가용 인사이트가 될 수 있습니다.
+It takes an average of 3-4 hours to write a high-quality blog post. Leaving that carefully crafted piece exclusively on your blog is a massive waste of potential. A well-written article is a goldmine—it can instantly become a compelling YouTube Shorts script, an engaging Instagram carousel, or a thought-provoking LinkedIn professional insight.
 
-매번 각 플랫폼에 맞춰 새로 기획하고 글을 쓰고 계셨다면, 이제 멈추세요. AI를 활용한 완벽한 **'원소스 멀티유즈(OSMU)'** 시스템을 구축하여 당신의 콘텐츠 도달률을 5배 이상 폭발적으로 늘려보세요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR) {#tl-dr}
-
-1. **마스터피스 작성:** 핵심이 되는 메인 콘텐츠(블로그, 아티클, 뉴스레터 등)를 먼저 작성합니다.
-2. **플랫폼별 맞춤 변환:** AI에게 각 플랫폼(인스타, 링디, X 등)의 고유한 '문법'과 '알고리즘 특성'에 맞춰 변환을 지시합니다.
-3. **시각 자료 자동 기획:** 카드뉴스나 영상에 필요한 이미지 생성용 AI 프롬프트까지 한 번에 뽑아내어 기획 시간을 0으로 만듭니다.
+If you've been painfully rewriting and formatting your content from scratch for every single platform, it's time to stop. Build a flawless **'One-Source Multi-Use' (OSMU)** system with AI and explode your content reach by over 500%.
 
 ---
 
-## 🚀 해결책: "콘텐츠 트랜스포머 프롬프트"
+## ⚡️ TL;DR
 
-### 🥉 Basic Version (기본형)
+1. **Craft the Masterpiece:** Write your core content first (blog post, article, or newsletter).
+2. **Platform-Specific Transformation:** Command AI to adapt the content according to the unique 'grammar' and 'algorithmic traits' of each platform (Instagram, LinkedIn, X, etc.).
+3. **Automate Visual Planning:** Extract AI image generation prompts for carousels or video assets simultaneously, reducing your planning time to absolute zero.
 
-가장 빠르게 여러 SNS 채널에 복붙할 텍스트가 필요할 때 사용하세요.
+---
 
-> **역할:** 너는 능숙한 `[SNS 마케터]`야.
-> **요청:** 아래 내가 쓴 원본 글을 읽고, 다음 3가지 포맷으로 변환해줘.
+## 🚀 The Solution: "Content Transformer Prompt"
+
+### 🥉 Basic Version
+
+Use this when you need rapid-fire text to copy and paste across multiple social channels.
+
+> **Role:** You are an expert `[Social Media Marketer]`.
+> **Task:** Read my original text below and transform it into the following 3 formats:
 >
-> 1. 인스타그램 피드 캡션 (시선을 끄는 첫 줄, 적절한 이모지 및 해시태그 포함)
-> 2. X (트위터) 스레드 (타래 형태로 쪼개서, 후킹하게)
-> 3. 링크드인 포스트 (전문적인 어조, 비즈니스 인사이트 중심)
->    **원문:** `[여기에 작성한 글 내용 붙여넣기]`
+> 1. Instagram Feed Caption (An attention-grabbing first line, with appropriate emojis and hashtags)
+> 2. X (Twitter) Thread (Broken down into an engaging, hook-driven thread)
+> 3. LinkedIn Post (Professional tone, focusing on business insights)
+>
+> **Original Text:** `[Paste your blog post content here]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-단순 요약을 넘어, 각 플랫폼의 최신 알고리즘 특성과 유저들의 소비 패턴까지 완벽하게 반영한 기획안을 도출합니다.
+This goes beyond simple summarization. It generates a comprehensive content plan that perfectly reflects the latest algorithmic traits and user consumption patterns of each platform.
 
-> **역할 (Role):** 너는 상위 1%의 `[바이럴 콘텐츠 기획자 및 SNS 마케팅 전문가]`야.
+> **Role:** You are a top 1% `[Viral Content Strategist and Social Media Marketing Expert]`.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 나는 방금 블로그에 완성도 높은 아티클을 하나 발행했어. 이 글의 핵심 가치를 다양한 소셜 미디어 플랫폼으로 확산시켜 내 브랜드 인지도를 높이고 트래픽을 유입시키고 싶어.
-> - 목표: 단순히 글을 줄이는 것이 아니라, 각 플랫폼 유저들이 가장 열광하는 포맷과 톤앤매너로 '재창조'하여 도달률과 참여도(Engagement)를 극대화하는 것.
+> - Background: I have just published a highly polished article on my blog. I want to distribute the core value of this post across various social media platforms to boost brand awareness and drive traffic.
+> - Goal: Do not simply summarize the text. 'Recreate' it using the most popular formats and tones for each platform to maximize reach and engagement.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 제공된 원문을 바탕으로 아래 3가지 플랫폼에 최적화된 결과물을 만들어줘.
+> Based on the provided original text, create optimized deliverables for the following 3 platforms:
 >
-> 1. **인스타그램 카드뉴스 기획안:**
->    - 총 5~7장 분량으로 슬라이드를 나누어 구성.
->    - 1페이지(표지)는 무조건 스크롤을 멈추게 하는 강력한 훅(Hook) 문구 사용.
->    - 각 슬라이드별 들어갈 [텍스트]와 어울리는 [이미지 생성용 미드저니 프롬프트(영문)]를 함께 제시.
->    - 업로드용 캡션과 관련도 높은 해시태그 15개 추천.
-> 2. **링크드인 인사이트 포스트:**
->    - 도입부는 직장인/실무자의 공감을 이끌어내는 문장으로 시작.
->    - 원문의 핵심을 '내가 실무에서 깨달은 점(Lesson Learned)'의 관점으로 스토리텔링하여 재구성. (비즈니스 프로페셔널 톤앤매너)
->    - 마지막에는 사람들의 댓글 토론을 유도하는 날카로운 질문으로 마무리.
-> 3. **유튜브 쇼츠 / 릴스 스크립트:**
->    - 정확히 60초 안에 읽을 수 있는 분량(약 250~300자)으로 작성.
->    - 시청 이탈을 막기 위해 템포가 빠르고 직관적인 구어체 대본으로 작성.
->    - 영상에 들어갈 텍스트 자막(자막 효과 포함)과 시각적 연출 지시사항(행동, BGM 분위기 등)을 함께 표기.
+> 1. **Instagram Carousel Plan:**
+>    - Structure the content into 5 to 7 slides.
+>    - Page 1 (Cover) must feature a powerful hook that stops the scroll.
+>    - For each slide, provide the [Text] to be displayed and a matching [Midjourney Prompt for Image Generation].
+>    - Provide a caption for the upload and 15 highly relevant hashtags.
+> 2. **LinkedIn Insight Post:**
+>    - The introduction must start with a relatable sentence that resonates with professionals and employees.
+>    - Reframe the core message of the original text through the lens of a 'Lesson Learned in the Field' (Professional business tone).
+>    - Conclude with a sharp, thought-provoking question designed to spark discussion in the comments.
+> 3. **YouTube Shorts / Reels Script:**
+>    - Write a script that can be read comfortably within exactly 60 seconds (approx. 130-150 words).
+>    - Use a fast-paced, intuitive, and conversational tone to prevent viewer drop-off.
+>    - Include instructions for text overlays (with subtitle effects) and visual directions (actions, BGM mood, etc.).
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 원문의 핵심 메시지와 맥락을 절대 훼손하지 마.
-> - 각 플랫폼의 특성에 맞게 이모지를 적절히 활용하여 가독성을 극대화해.
-> - 답변은 마크다운 형식으로 보기 좋게 구조화해서 출력해.
+> - Absolutely do not compromise the core message and context of the original text.
+> - Maximize readability by appropriately utilizing emojis tailored to each platform's culture.
+> - Output the response beautifully structured in Markdown format.
 >
-> **원문 데이터 (Input):**
-> `[여기에 블로그 글 전문 붙여넣기]`
+> **Original Data (Input):**
+> `[Paste the full text of your blog post here]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight) {#insight}
+## 💡 Writer's Insight
 
-이 프롬프트의 진가는 **'플랫폼별 페르소나의 분리'**에 있습니다. 똑같은 내용이라도 인스타그램에서는 '시각적 자극과 요약'이 중요하고, 링크드인에서는 '실무적 통찰력과 경험'이 중요합니다.
+The true power of this prompt lies in the **'separation of platform-specific personas'**. The exact same core message requires "visual stimulation and brevity" on Instagram, but demands "practical insight and professional experience" on LinkedIn.
 
-특히 링크드인용 포스트를 변환할 때, 단순히 정보를 나열하는 방식은 절대 반응을 얻을 수 없습니다. 프롬프트에 지시된 것처럼 **"내가 이 글을 쓰면서 배운 점"**이나 **"현업에서 겪은 실패와 극복 과정"**이라는 프레임을 씌워주면 훨씬 더 많은 좋아요와 공유를 이끌어낼 수 있습니다. 이 프롬프트 하나로 여러분은 전문 기획자 3명을 곁에 둔 것과 같은 극강의 효율을 낼 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ) {#faq}
-
-- **Q: 원문 글이 너무 길면 AI가 잘라먹거나 누락하지 않나요?**
-  - A: GPT-4o나 Claude 3.5 Sonnet 같은 최신 모델들은 수천 자의 텍스트도 거뜬히 소화합니다. 만약 A4 10장 이상의 너무 긴 아티클이라면, 서론/본론/결론 중 가장 핵심이 되는 본론 파트만 발췌해서 넣는 것이 훨씬 날카로운 결과물을 얻는 비결입니다.
-
-- **Q: 카드뉴스 이미지 프롬프트를 미드저니가 아닌 챗GPT(DALL-E)에서 바로 쓸 수 있나요?**
-  - A: 네, 당연히 가능합니다! 프롬프트의 지시사항 중 `[이미지 생성용 미드저니 프롬프트(영문)]` 부분을 `[DALL-E 3 이미지 생성 프롬프트]`로 수정하시면, 텍스트 산출물을 받은 후 바로 챗GPT 대화창 내에서 이미지까지 원스톱으로 생성할 수 있습니다.
-
-- **Q: 쇼츠 대본은 생성된 그대로 읽기만 하면 되나요?**
-  - A: AI가 구어체로 작성해주긴 하지만, 사람마다 입에 붙는 말투와 호흡이 다릅니다. AI가 준 스크립트를 소리 내어 한 번 읽어보면서, 내 호흡에 맞게 단어와 어미를 살짝 다듬어주면 훨씬 자연스럽고 퀄리티 높은 영상이 완성됩니다.
+Especially when converting to a LinkedIn post, simply listing information will never get traction. By framing the content as **"What I learned while writing this"** or **"Failures I experienced in the field and how I overcame them"**—as instructed in the prompt—you will drive significantly more likes and shares. With this single prompt, you achieve the extreme efficiency of having three specialized content strategists sitting right next to you.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **Context(상황)의 명확한 전달:** AI에게 단순히 '바꿔줘'가 아니라, '어떤 목적으로 트래픽을 모으려 하는지' 배경을 구체적으로 설명하여 AI가 더 전략적인 텍스트를 기획하도록 유도했습니다.
-2. **플랫폼별 Task 디테일 세분화:** 링크드인에는 '질문으로 마무리', 쇼츠에는 '시각적 연출 지시사항' 등 각 플랫폼의 떡상 성공 방정식을 프롬프트 내 제약 조건으로 명시하여 결과물의 퀄리티를 전문가 수준으로 끌어올렸습니다.
+- **Q: If my original post is too long, will the AI cut it off or miss details?**
+  - A: The latest models like GPT-4o and Claude 3.5 Sonnet can effortlessly handle thousands of words. However, if your article is extremely long (e.g., over 10 pages), the secret to getting a sharper output is to extract and input only the core 'body' section, leaving out the lengthy introduction and conclusion.
 
----
+- **Q: Can I use the carousel image prompts directly in ChatGPT (DALL-E) instead of Midjourney?**
+  - A: Yes, absolutely! Simply change the instruction from `[Midjourney Prompt for Image Generation]` to `[DALL-E 3 Image Generation Prompt]`. You can then generate both the text and the corresponding images seamlessly within a single ChatGPT conversation.
 
-## 📊 증명: Before & After
-
-### ❌ Before (기존 방식)
-
-블로그 글 1개 발행 후 진이 빠져서, 다른 SNS에는 블로그 링크만 덜렁 공유합니다. (도달률 및 클릭률 처참함, 피드와 어울리지 않음)
-
-### ✅ After (콘텐츠 트랜스포머 적용)
-
-- **블로그:** 메인 트래픽 및 SEO 베이스캠프 역할
-- **인스타그램:** "스크롤을 멈추는 훅"이 담긴 카드뉴스로 시각적 확산
-- **링크드인:** 실무자의 인사이트가 담긴 글로 비즈니스 네트워킹 및 권위 확보
-- **유튜브 쇼츠:** 60초 핵심 요약 영상으로 불특정 다수에게 노출 극대화
-  👉 **제작 시간은 5분 추가되었지만, 도달률과 참여도는 500% 이상 상승했습니다!**
+- **Q: Should I just read the Shorts script exactly as generated?**
+  - A: While the AI writes in a conversational tone, everyone has a unique speaking rhythm. Read the generated script out loud once and slightly tweak the vocabulary and sentence endings to fit your natural breathing and speaking style. This ensures a much more authentic and high-quality video.
 
 ---
 
-## 🎯 결론
+## 🧬 Prompt Anatomy (Why it works?)
 
-하나의 마스터 콘텐츠를 다양한 형태로 변형하는 것은 시간 대비 효율을 극대화하는 마케팅의 핵심입니다.
+1. **Clear Context Delivery:** Instead of just saying "change this," we explicitly explained the background and the goal of "driving traffic." This guides the AI to plan more strategic, conversion-focused copy.
+2. **Platform-Specific Task Details:** By embedding platform-specific success formulas as constraints—like "ending with a question" for LinkedIn and adding "visual directions" for Shorts—we elevate the output quality to an expert level.
 
-이제 정성껏 써둔 아티클 하나를 블로그에만 묵히지 마세요. 이 프롬프트를 활용해 당신의 인사이트를 모든 플랫폼에 흩뿌리고, 더 많은 비즈니스 기회와 트래픽을 수확하시길 바랍니다! 🚀
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (The Old Way)
+
+You exhaust yourself writing one blog post, then lazily share the raw link across your social media. (Dismal reach and click-through rates; looks completely out of place on the feed.)
+
+### ✅ After (Using Content Transformer)
+
+- **Blog:** Acts as the SEO basecamp and main traffic hub.
+- **Instagram:** Spreads visually through a carousel with a "scroll-stopping hook."
+- **LinkedIn:** Builds authority and business networking through a post rich with professional insights.
+- **YouTube Shorts:** Maximizes exposure to a broad audience via a 60-second core summary video.
+
+👉 **Production time increased by only 5 minutes, but reach and engagement skyrocketed by over 500%!**
+
+---
+
+## 🎯 Conclusion
+
+Repurposing a single master piece of content into various formats is the absolute core of maximizing marketing efficiency.
+
+Don't let your painstakingly written articles decay on your blog. Use this prompt to scatter your insights across every platform, and start harvesting more business opportunities and traffic today! 🚀

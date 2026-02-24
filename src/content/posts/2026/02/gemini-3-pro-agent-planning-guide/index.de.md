@@ -5,152 +5,142 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "코딩보다 기획이 먼저입니다. Gemini 3 Pro의 Deep Think 모드를 활용해 모호한 아이디어를 구체적인 에이전트 설계도(Spec)로 변환하는 프롬프트를 소개합니다."
+description: "Planung kommt vor dem Code. Entdecken Sie einen Prompt, der vage Ideen mithilfe des Deep Think-Modus von Gemini 3 Pro in konkrete Agenten-Spezifikationen (Spec) verwandelt."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 
-# 🤖 Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기
+# 🤖 Gemini 3 Pro: Perfekte KI-Agenten mit 'Deep Think' planen
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+- **🎯 Zielgruppe:** Produktmanager (PM), die KI-Lösungen im Unternehmen einführen, Junior-Entwickler, die KI-Agenten bauen, Solopreneure
+- **⏱️ Zeitaufwand:** 3 Tage Planungs-Ping-Pong → auf nur 15 Minuten verkürzt
+- **🤖 Empfohlenes Modell:** **Gemini 3 Pro (Deep Think Modus)**, OpenAI o3-high
 
-- **🎯 추천 대상:** 사내 AI 도입을 준비하는 PM, AI 에이전트를 개발하려는 주니어 엔지니어, 1인 창업가
-- **⏱️ 소요 시간:** 3일간의 기획 핑퐁 → 단 15분으로 단축
-- **🤖 추천 모델:** **Gemini 3 Pro (Deep Think 모드)**, OpenAI o3-high
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+> _"Der Grund, warum KI-Agenten-Projekte oft scheitern, ist nicht die mangelnde Intelligenz der KI. Es sind die unzähligen 'Edge Cases' (Sonderfälle), die in Ihrem Konzept übersehen wurden."_
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+"Bau mir einen Chatbot, der in unseren Unternehmensdokumenten sucht." oder "Programmier einen Agenten, der selbstständig in Aktien investiert."
+Solche vagen Anforderungen, die im Arbeitsalltag häufig vorkommen, treiben Entwickler in die Verzweiflung. Wie soll mit Ausnahmen umgegangen werden? Sind die Zugriffsrechte geklärt? Welche APIs müssen aufgerufen werden? Nichts davon ist in der Planungsphase definiert worden.
 
-> _"AI 에이전트 프로젝트가 산으로 가는 이유는 AI의 지능 부족이 아닙니다. 당신의 기획안에 뚫려 있는 수많은 '엣지 케이스(Edge Case)' 때문입니다."_
-
-"회사 문서를 찾아주는 챗봇 만들어줘." 혹은 "알아서 주식 투자해 주는 에이전트 짜줘."
-실무에서 흔히 등장하는 이런 모호한 요구사항은 개발자를 절망하게 만듭니다. 예외 처리는 어떻게 할 것인지, 권한 분리는 되어 있는지, 어떤 API를 호출해야 하는지 기획 단계에서 전혀 정의되지 않았기 때문입니다.
-
-Gemini 3 Pro의 **'Deep Think'** 모드는 바로 이 지점에서 진가를 발휘합니다. 단순 텍스트 생성을 넘어, 논리적 추론과 시나리오 시뮬레이션에 특화되어 있죠. 이 글에서는 당신의 막연한 아이디어를 **개발자가 즉시 코드로 구현할 수 있는 수준의 무결점 PRD(제품 요구사항 정의서)**로 탈바꿈시켜 줄 **'AI 아키텍트 프롬프트'**를 소개합니다.
+Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Potenzial. Er geht weit über die einfache Texterstellung hinaus und ist auf logisches Schlussfolgern und Szenarien-Simulation spezialisiert. In diesem Artikel stelle ich Ihnen den **'KI-Architekt-Prompt'** vor, der Ihre vagen Ideen in eine **fehlerfreie PRD (Product Requirements Document)** verwandelt, die Entwickler sofort in Code umsetzen können.
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ TL;DR (Zusammenfassung in 3 Sätzen)
 
-1. **무작정 개발 금지:** 에이전트의 페르소나, 사용 도구(Tools), 예외 상황(Edge Cases)이 정의되지 않은 코딩은 재앙을 부릅니다.
-2. **역질문 유도 (Reverse Prompting):** AI가 정답을 내뱉게 하지 마세요. 기획의 빈틈을 파고드는 매서운 질문을 던지게 만드세요.
-3. **Deep Think의 추론력:** Gemini 3 Pro는 복잡한 제약 조건과 워크플로우를 설계하는 데 현존 최고의 성능을 보여줍니다.
+1. **Kein blindes Entwickeln:** Das Programmieren ohne definierte Persona, Tools und Edge Cases für den Agenten führt unweigerlich ins Chaos.
+2. **Reverse Prompting nutzen:** Lassen Sie die KI nicht einfach fertige Antworten ausspucken. Zwingen Sie sie stattdessen, scharfsinnige Fragen zu stellen, die die Lücken in Ihrer Planung aufdecken.
+3. **Die Logik von Deep Think:** Gemini 3 Pro zeigt derzeit die beste Leistung bei der Konzeption komplexer Randbedingungen und Workflows.
 
 ---
 
-## 🚀 해결책: "The AI Agent Architect" 프롬프트
+## 🚀 Die Lösung: Der "AI Agent Architect" Prompt
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+### 🥉 Basic Version (Basis-Version)
 
-### 🥉 Basic Version (기본형)
+Nutzen Sie diese Version, wenn Sie in einem Meeting schnell das Grundgerüst einer Idee skizzieren möchten.
 
-회의 중 빠르게 아이디어의 뼈대만 잡고 싶을 때 유용합니다.
-
-> **역할:** 너는 10년 차 IT 서비스 기획자야.
-> **요청:** 내가 제시하는 `[아이디어]`를 바탕으로, 이 AI 에이전트가 가져야 할 필수 기능 3가지와 개발 시 예상되는 문제점 1가지를 정리해 줘.
-> **아이디어:** `[여기에 만들고 싶은 에이전트 설명 입력]`
+> **Rolle:** Du bist ein IT-Service-Planer mit 10 Jahren Erfahrung.
+> **Aufgabe:** Basierend auf der folgenden `[Idee]` für einen KI-Agenten, nenne mir 3 unverzichtbare Kernfunktionen und 1 potenzielles Problem bei der Entwicklung.
+> **Idee:** `[Beschreiben Sie hier den Agenten, den Sie erstellen möchten]`
 
 <br>
 
-### 🥇 Pro Version (전문가형 - Deep Think 최적화)
+### 🥇 Pro Version (Experten-Version - Optimiert für Deep Think)
 
-실제 개발팀에 전달할 수준의 완벽한 사양서(Specification)가 필요할 때 사용하세요. Gemini 3 Pro의 다단계 추론 능력을 200% 활용하는 구조입니다.
+Verwenden Sie diesen Prompt, wenn Sie eine wasserdichte Spezifikation (Specification) benötigen, die direkt an das Entwicklerteam übergeben werden kann. Diese Struktur nutzt die mehrstufige Logik von Gemini 3 Pro zu 200% aus.
 
-> **Role (역할):**
-> 당신은 실리콘밸리 빅테크 기업의 20년 차 **Senior AI Solutions Architect**입니다.
-> 당신의 목표는 사용자의 추상적이고 모호한 요구사항을 분석하여, 엔지니어가 즉각적으로 구현할 수 있는 수준의 **무결점 AI Agent Specification (기획서)**를 도출하는 것입니다.
+> **Role (Rolle):**
+> Du bist ein **Senior AI Solutions Architect** mit 20 Jahren Erfahrung bei einem Tech-Giganten im Silicon Valley.
+> Dein Ziel ist es, die abstrakten und vagen Anforderungen des Benutzers zu analysieren und eine **fehlerfreie AI Agent Specification (Anforderungsspezifikation)** zu erstellen, die Ingenieure sofort implementieren können.
 >
-> **Task (임무):**
-> 사용자가 `[프로젝트 아이디어]`를 입력하면, 절대 즉시 기획서를 작성하지 말고 아래의 2단계 프로세스(Chain of Thought)를 엄격히 따르세요.
+> **Task (Aufgabe):**
+> Wenn der Benutzer eine `[Projektidee]` eingibt, schreibe NICHT sofort die Spezifikation. Befolge stattdessen strikt den folgenden 2-stufigen Prozess (Chain of Thought).
 >
-> **Step 1: Deep Analysis & Interrogation (심층 분석 및 역질문)**
+> **Step 1: Deep Analysis & Interrogation (Tiefenanalyse & Rückfragen)**
 >
-> - 입력된 아이디어의 논리적 허점, 누락된 엣지 케이스, API/데이터 제약 사항을 날카롭게 분석하세요.
-> - 기획을 완성하기 위해 **반드시 확정해야만 하는 핵심 질문 3~5가지**를 사용자에게 역으로 질문하세요.
-> - (예: "결제 실패 시 Fallback 시나리오는 무엇인가요?", "사용자 인증(Auth)은 어떤 방식으로 처리할 계획인가요?", "LLM 호출에 대한 예산 한도가 있나요?")
-> - 사용자가 이 질문들에 답변할 때까지 대기하세요.
+> - Analysiere die eingegebene Idee messerscharf auf logische Lücken, fehlende Edge Cases sowie API-/Datenbeschränkungen.
+> - Stelle dem Benutzer **3 bis 5 kritische Rückfragen**, die zwingend geklärt werden müssen, bevor die Spezifikation abgeschlossen werden kann.
+> - (Beispiele: "Was ist das Fallback-Szenario, wenn die Zahlung fehlschlägt?", "Wie ist die Benutzerauthentifizierung (Auth) geplant?", "Gibt es ein Budget-Limit für LLM-Aufrufe?")
+> - Warte, bis der Benutzer diese Fragen beantwortet hat.
 >
-> **Step 2: Specification Generation (사양서 생성)**
+> **Step 2: Specification Generation (Erstellung der Spezifikation)**
 >
-> - 사용자의 추가 답변이 완료되면, 취합된 정보를 바탕으로 아래 구조에 맞춰 Markdown 형식의 사양서를 작성하세요.
->   1. **Agent Identity:** 이름, 역할, 페르소나, 톤앤매너
->   2. **Core Workflow:** 사용자 입력부터 최종 출력까지의 단계별 로직 (시퀀스 다이어그램 수준의 텍스트 설명)
->   3. **Tools & Integrations:** 에이전트가 호출해야 할 외부 API, 로컬 도구(검색, 계산 등) 목록 및 필요 권한
->   4. **Safety & Guardrails:** 절대 해서는 안 될 행동(Do Not), 할루시네이션 방지 대책
->   5. **Edge Cases & Error Handling:** 예상되는 주요 에러 3가지와 각각의 대응 시나리오
->   6. **Few-Shot Examples:** 이상적인 대화 예시 (성공 케이스 1개, 실패 대처 케이스 1개)
+> - Sobald die Antworten des Benutzers vorliegen, erstelle eine Spezifikation im Markdown-Format basierend auf den gesammelten Informationen und der folgenden Struktur:
+>   1. **Agent Identity:** Name, Rolle, Persona, Tone of Voice.
+>   2. **Core Workflow:** Schritt-für-Schritt-Logik von der Benutzereingabe bis zur finalen Ausgabe (als Textbeschreibung auf dem Niveau eines Sequenzdiagramms).
+>   3. **Tools & Integrations:** Liste externer APIs, lokaler Tools (Suche, Rechner usw.), die der Agent aufrufen muss, sowie erforderliche Berechtigungen.
+>   4. **Safety & Guardrails:** Absolute Tabus (Do Nots), Maßnahmen zur Vermeidung von Halluzinationen.
+>   5. **Edge Cases & Error Handling:** 3 zu erwartende Hauptfehler und die jeweiligen Reaktionsszenarien.
+>   6. **Few-Shot Examples:** Beispiele für ideale Konversationen (1 Erfolgsfall, 1 Fall mit Fehlerbehandlung).
 >
-> **Constraints (제약사항):**
+> **Constraints (Einschränkungen):**
 >
-> - 전문적이고 객관적인 아키텍트의 어조를 유지하세요.
-> - 뜬구름 잡는 소리는 배제하고, 철저히 기술적이고 실무적인 관점(비용, 지연 시간, 확장성)에서 접근하세요.
+> - Behalte den professionellen und objektiven Ton eines Architekten bei.
+> - Vermeide realitätsferne Floskeln und verfolge einen streng technischen und praxisorientierten Ansatz (Kosten, Latenz, Skalierbarkeit).
 >
 > **Input:**
 >
-> - 프로젝트 아이디어: `[사내 인사 규정을 바탕으로 연차/급여를 계산하고 답변해 주는 슬랙 봇]`
+> - Projektidee: `[Ein Slack-Bot, der Urlaubstage und Gehälter basierend auf den internen HR-Richtlinien berechnet und beantwortet]`
 
 ---
 
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+## 💡 Einblicke des Autors (Insight)
 
-## 💡 작성자 코멘트 (Insight)
+Der wahre Wert dieses Prompts liegt nicht nur darin, ein exzellentes Dokument zu erstellen, sondern vielmehr darin, **Planungslücken im Vorfeld aufzudecken und zu schließen**.
 
-이 프롬프트의 진정한 가치는 훌륭한 문서를 만들어내는 것을 넘어, **'기획의 맹점'을 사전에 타격**한다는 데 있습니다.
+Ein gewöhnlicher Prompt liefert auf die Bitte "Bau mir das" meist ein plausibel klingendes (aber inhaltlich leeres) Konzept. Wenn Sie jedoch diesen Prompt in Gemini 3 Pro anwenden, verhält sich die KI wie ein extrem kritischer Lead Developer. Bei der tatsächlichen Planung eines HR-Bots fragte mich Gemini zum Beispiel: _"Wie ist die Zugriffskontrolle geregelt, wenn ein Mitarbeiter nicht nach seinen eigenen, sondern **nach den Urlaubstagen oder Gehaltsdaten eines Kollegen** fragt?"_
 
-보통의 프롬프트는 "이런 거 만들어줘"라고 하면 그럴싸한(하지만 속 빈 강정 같은) 기획안을 뱉어냅니다. 하지만 위 프롬프트를 Gemini 3 Pro에 적용하면, 마치 까칠한 수석 개발자처럼 굴기 시작합니다. 실제로 사내 인사 봇을 기획할 때, Gemini는 저에게 이렇게 물었습니다. _"직원이 자신의 연차가 아닌, **동료의 연차나 급여 정보를 물어볼 경우** 접근 권한 제어는 어떻게 설계되어 있습니까?"_
-
-보안 사고로 이어질 수 있는 치명적인 구멍을 개발 전에 막아낸 것이죠. 기획의 퀄리티는 결국 '얼마나 좋은 질문을 던지느냐'에 달려있고, 이 프롬프트는 그 역할을 완벽히 대행합니다.
+Dadurch konnte eine kritische Sicherheitslücke bereits vor der Entwicklung geschlossen werden. Die Qualität eines Konzepts hängt letztlich davon ab, "wie gut die gestellten Fragen sind", und dieser Prompt übernimmt genau diese Rolle in Perfektion.
 
 ---
 
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-## 🙋 자주 묻는 질문 (FAQ)
+- **F: Brauche ich dafür zwingend Gemini Advanced (kostenpflichtig)?**
+  - A: Ja. Die 'Deep Think'-Funktion, die komplexe Logiken bis zum Ende durchdenkt, ohne den Faden zu verlieren, funktioniert nur in Gemini Advanced (oder über die API mit den Pro/Ultra-Modellen) zuverlässig. Kostenlose Versionen (wie Flash) tendieren dazu, die Rückfragen in Schritt 1 zu überspringen und stattdessen einfach irgendetwas zu erfinden.
 
-- **Q: Gemini Advanced(유료)가 반드시 필요한가요?**
-  - A: 네. 복잡한 로직을 끝까지 잃지 않고 추론하는 'Deep Think' 기능은 Gemini Advanced(혹은 API를 통한 Pro/Ultra 모델)에서 정상적으로 작동합니다. 무료 버전(Flash 등)은 Step 1의 역질문 단계를 무시하고 혼자 소설을 쓸 확률이 높습니다.
+- **F: Wenn die Spezifikation zu lang wird, stoße ich dann nicht an das Token-Limit?**
+  - A: Gemini 3 Pro verfügt über ein gigantisches Kontextfenster von über 2 Millionen Tokens. Es ist sogar empfehlenswert, bestehende API-Dokumentationen, Legacy-Code oder interne Regelwerke (PDFs) des Unternehmens anzuhängen. Wenn Sie den Prompt dann ausführen, erhalten Sie eine maßgeschneiderte Spezifikation, deren Präzision Sie in Staunen versetzen wird.
 
-- **Q: 기획서가 너무 길어지면 토큰 제한에 걸리지 않나요?**
-  - A: Gemini 3 Pro는 200만 토큰 이상의 거대한 컨텍스트 윈도우를 자랑합니다. 오히려 회사의 기존 API 문서나 레거시 코드, 사내 규정집(PDF)을 잔뜩 첨부한 뒤 이 프롬프트를 실행하면 더욱 소름 돋는 맞춤형 사양서가 나옵니다.
-
-- **Q: 다른 모델(GPT-4o, Claude 3.5 Sonnet)에서도 작동하나요?**
-  - A: 물론입니다. 다만 'Edge Case'를 집요하게 파고드는 비판적 사고 영역에서는 o1/o3 모델이나 Gemini 3 Pro의 딥싱크 모드가 압도적으로 유리합니다.
+- **F: Funktioniert das auch mit anderen Modellen (GPT-4o, Claude 3.5 Sonnet)?**
+  - A: Absolut. Wenn es jedoch darum geht, 'Edge Cases' hartnäckig zu hinterfragen und kritisches Denken anzuwenden, sind Modelle wie o1/o3 oder der Deep Think-Modus von Gemini 3 Pro haushoch überlegen.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Prompt-Analyse (Why it works?)
 
-1.  **Chain-of-Thought (사고의 사슬) 강제:** 작업을 `Step 1(질문)`과 `Step 2(작성)`로 분리하여 AI가 성급하게 결론(기획서)을 내리는 것을 막았습니다. 이는 할루시네이션을 방지하는 가장 강력한 기법입니다.
-2.  **구체적인 제약(Constraints) 설정:** '비용', '지연 시간', '확장성' 등 실무 개발자가 민감해하는 키워드를 주입하여, AI의 시야를 현실적인 엔지니어링 레벨로 끌어내렸습니다.
-3.  **명확한 구조화 (Format):** `Safety & Guardrails`, `Edge Cases` 항목을 강제함으로써, 행복 회로만 돌리는 기획(Happy Path Only)을 원천 차단했습니다.
+1.  **Erzwingen von Chain-of-Thought (Gedankenkette):** Indem die Aufgabe in `Step 1 (Fragen)` und `Step 2 (Schreiben)` unterteilt wird, wird verhindert, dass die KI voreilige Schlüsse (Spezifikationen) zieht. Dies ist die effektivste Methode, um Halluzinationen zu vermeiden.
+2.  **Klare Einschränkungen (Constraints) setzen:** Durch die Vorgabe von praxisrelevanten Schlüsselwörtern wie 'Kosten', 'Latenz' und 'Skalierbarkeit' wird der Fokus der KI auf ein realistisches, technisches Niveau gelenkt.
+3.  **Klare Strukturierung (Format):** Durch das Erzwingen der Abschnitte `Safety & Guardrails` und `Edge Cases` wird eine naive Best-Case-Planung (Happy Path Only) von vornherein ausgeschlossen.
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Beweis: Vorher & Nachher
 
-### ❌ Before (단순 지시)
+### ❌ Vorher (Einfache Anweisung)
 
-> **User:** "회사 인사 규정 알려주는 슬랙 봇 에이전트 기획해 줘."
-> **AI:** "네, 인사 봇 기획서입니다. 주요 기능: 연차 조회, 급여 명세서 조회. 기대 효과: 업무 효율성 증가..." (누구나 쓸 수 있는 추상적인 내용)
+> **User:** "Plane einen Slack-Bot-Agenten, der Auskunft über unsere HR-Richtlinien gibt."
+> **AI:** "Hier ist das Konzept für Ihren HR-Bot. Hauptfunktionen: Abfrage von Urlaubstagen, Abfrage von Gehaltsabrechnungen. Erwarteter Nutzen: Steigerung der Arbeitseffizienz..." (Allgemeinplätze, die jeder schreiben könnte)
 
-### ✅ After (Pro 프롬프트 적용 - Step 1 역질문)
+### ✅ Nachher (Pro Prompt angewendet - Step 1 Rückfragen)
 
-> **Gemini 3 Pro:** "기획서 작성을 시작하기 전, 치명적인 오류를 막기 위해 다음 3가지를 먼저 확정해 주십시오.
+> **Gemini 3 Pro:** "Bevor wir mit der Erstellung der Spezifikation beginnen, klären Sie bitte die folgenden 3 Punkte, um fatale Fehler zu vermeiden:
 >
-> 1. **Data Freshness:** 인사 규정 개정 시, 봇이 참고하는 문서는 실시간 동기화됩니까, 아니면 주기적 배치 업데이트입니까?
-> 2. **Authentication:** 슬랙 유저 ID와 사내 HR 시스템의 사번 매핑은 어떤 API를 통해 인증합니까?
-> 3. **Fallback:** 봇이 확신할 수 없는 모호한 규정에 대한 질문이 들어왔을 때, '모른다'고 답할지, 아니면 '인사팀 담당자(@HR_Team)'를 멘션하여 호출할지 결정해 주십시오."
+> 1. **Data Freshness:** Wenn HR-Richtlinien geändert werden, erfolgt die Synchronisation der Dokumente, auf die der Bot zugreift, in Echtzeit oder durch regelmäßige Batch-Updates?
+> 2. **Authentication:** Über welche API wird die Zuordnung zwischen der Slack-User-ID und der Personalnummer im internen HR-System authentifiziert?
+> 3. **Fallback:** Wenn eine Frage zu einer unklaren Richtlinie gestellt wird, bei der der Bot sich nicht sicher ist: Soll er mit 'Ich weiß es nicht' antworten oder stattdessen den verantwortlichen HR-Mitarbeiter (@HR_Team) markieren und hinzuziehen?"
 
-_(사용자가 위 질문에 답변하면, 즉시 실무 투입이 가능한 수준의 완벽한 마크다운 사양서가 출력됩니다.)_
+*(Sobald der Benutzer diese Fragen beantwortet, wird eine perfekte, sofort einsatzbereite Markdown-Spezifikation ausgegeben.)*
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-AI 시대에 코딩의 장벽은 허물어지고 있습니다. 앞으로 엔지니어와 기획자의 가치를 결정짓는 것은 '어떤 언어로 코딩하느냐'가 아니라, **'무엇을 만들지 빈틈없이 정의(Defining What to Build)할 수 있느냐'**입니다.
+Im KI-Zeitalter sinken die Hürden für das Programmieren drastisch. Was in Zukunft den Wert von Entwicklern und Planern bestimmt, ist nicht mehr, 'in welcher Sprache sie programmieren', sondern **'wie lückenlos sie definieren können, was gebaut werden soll' (Defining What to Build)**.
 
-지금 바로 Gemini 3 Pro를 당신의 전담 수석 기획자로 고용하세요. 월 2~3만 원의 구독료로, 수천만 원짜리 기획 결함을 사전에 막아낼 수 있습니다.
+Stellen Sie Gemini 3 Pro noch heute als Ihren persönlichen Lead-Architekten ein. Mit einem Abo für rund 20 Euro im Monat können Sie Planungsfehler verhindern, die sonst Zehntausende kosten würden.
 
-이제 완벽한 기획서로 개발자에게 사랑받고 칼퇴하세요! 🍷
+Erfreuen Sie Ihre Entwickler mit perfekten Spezifikationen und machen Sie pünktlich Feierabend! 🍷

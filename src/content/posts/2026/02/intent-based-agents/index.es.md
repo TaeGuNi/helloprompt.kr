@@ -5,129 +5,127 @@ author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI 트렌드"
-description: "단어 선택에 집착하지 마세요. Gemini 3와 GPT-5 시대에는 문장이 아니라 '목표(Intent)'를 설계해야 합니다."
+description: "No te obsesiones con las palabras. En la era de Gemini 3 y GPT-5, debes diseñar 'Intenciones (Intents)' en lugar de simples oraciones."
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
   alt: "추상적인 AI 에이전트 네트워크"
 ---
 
-# 📝 프롬프트 엔지니어링은 끝났습니다. 이제 '의도 설계'하세요.
+# 📝 El fin de la Ingeniería de Prompts: Ha llegado la era del 'Diseño de Intenciones'
 
-- **🎯 추천 대상:** 프롬프트 깎는 노인, 주니어 기획자, PM
-- **⏱️ 소요 시간:** 10분 읽기
-- **🤖 추천 모델:** Gemini 3 Pro, GPT-5 (Agent Mode)
+- **🎯 Público objetivo:** Veteranos de los prompts, Product Managers y Planificadores Junior
+- **⏱️ Tiempo de lectura:** 10 minutos
+- **🤖 Modelos recomendados:** Gemini 3 Pro, GPT-5 (Modo Agente)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"아직도 AI에게 '유명 카피라이터처럼 행동해'라고 부탁하고 계신가요? 2026년의 에이전트는 당신의 말투보다 당신이 정의한 **성공 기준(Success Criteria)**에 반응합니다."_
+> _"¿Todavía le pides a la IA que 'actúe como un redactor famoso'? Los agentes de 2026 no responden a tu tono de voz, sino a los **Criterios de Éxito (Success Criteria)** que definas."_
 
-2024년까지 우리는 AI를 달래가며 썼습니다. 하지만 **Gemini 3**와 **GPT-5**의 등장으로 판이 완전히 바뀌었습니다. 이제는 문장을 예쁘게 다듬는 '프롬프트 엔지니어링'이 아니라, 명확한 목표와 제약을 정의하는 **'의도 설계(Intent Architecting)'** 역량이 요구됩니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **단어보다 구조:** "예쁘게 써줘" 대신 "구조는 A-B-C여야 해"라고 명확한 구조를 지시하세요.
-2. **행동 예측의 시대:** 최신 에이전트 모델은 단순한 다음 단어(Next Token)가 아니라 **다음 행동(Next Action)**을 예측하고 계획합니다.
-3. **스펙(Spec) 기반 정의:** 프롬프트를 마치 소프트웨어 요구사항 명세서(PRD)처럼 꼼꼼하게 작성해야 합니다.
+Hasta 2024, usábamos la IA intentando persuadirla con palabras amables y contextos elaborados. Sin embargo, con la llegada de **Gemini 3** y **GPT-5**, las reglas del juego han cambiado por completo. Hoy en día, ya no se requiere la 'Ingeniería de Prompts' para pulir frases bonitas, sino una auténtica capacidad de **'Diseño de Intenciones (Intent Architecting)'**, donde se definen objetivos claros y restricciones estrictas.
 
 ---
 
-## 🚀 해결책: "의도 기반 에이전트(IBA) 템플릿"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-기존의 채팅 방식에서 벗어나, 프롬프트를 완벽한 '작업 지시서(Spec)'로 업그레이드하세요.
+1. **Estructura por encima de las palabras:** En lugar de decir "escríbelo de forma atractiva", impón un formato claro: "La estructura debe ser obligatoriamente A-B-C".
+2. **La era de predecir acciones:** Los modelos de agentes más recientes no solo predicen el siguiente token (Next Token), sino que planifican y ejecutan la **Siguiente Acción (Next Action)**.
+3. **Definición basada en Especificaciones (Spec):** Debes redactar tus prompts de manera tan minuciosa como si fuera un Documento de Requisitos de Producto (PRD) de software.
 
-### 🥉 Basic Version (기본형)
+---
 
-과거의 방식입니다. 결과물의 품질이 운에 좌우되며, 환각(Hallucination)에 취약합니다.
+## 🚀 Solución: "Plantilla de Agente Basado en Intenciones (IBA)"
 
-> **Role:** 너는 기술 블로거야.
-> **Task:** Rust와 Go 언어를 비교하는 글을 써줘. 재미있게 써줘.
+Olvida el enfoque tradicional conversacional y actualiza tus prompts para convertirlos en un 'Documento de Especificaciones Técnicas (Spec)' impecable.
+
+### 🥉 Versión Básica (Basic Version)
+
+El método obsoleto del pasado. La calidad del resultado dependerá de la suerte y el modelo será extremadamente vulnerable a las alucinaciones (Hallucinations).
+
+> **Rol:** Eres un blogger de tecnología.
+> **Tarea:** Escribe un artículo comparando los lenguajes Rust y Go. Hazlo entretenido.
 
 <br>
 
-### 🥇 Pro Version (아키텍트형)
+### 🥇 Versión Pro (Pro Version)
 
-의도 설계(Intent Architecting) 방식입니다. AI 에이전트가 딴짓을 하거나 실패할 수 없도록 **성공 기준**을 완벽하게 통제합니다. 복사해서 바로 실무에 적용해 보세요.
+El enfoque del Diseño de Intenciones (Intent Architecting). Controlas absolutamente los **Criterios de Éxito** para que el agente de IA no se desvíe ni fracase. Cópialo y aplícalo directamente en tu flujo de trabajo.
 
-> # Agent Specification: `[작업 이름]`
+> # Especificación del Agente: `[Nombre de la Tarea]`
 >
-> **Objective (목표):**
-> `[주제]`에 대한 `[형식]`을 작성한다. 핵심 독자는 `[타겟]`이다.
+> **Objetivo (Objective):**
+> Redactar un `[Formato]` sobre `[Tema]`. La audiencia principal son `[Público Objetivo]`.
 >
-> **Constraints (제약조건):**
+> **Restricciones (Constraints):**
+> - **Tono:** `[Tono, ej: analítico, objetivo y profesional]`
+> - **Estructura:** `[Introducción]` -> `[Desarrollo 1]` -> `[Desarrollo 2]` -> `[Conclusión]`
+> - **Fuente de Verdad (Source Truth):** Utilizar exclusivamente la información contenida en `[URL de Documentación Oficial]`. (Absolutamente prohibido inventar o inferir datos).
 >
-> - **Tone:** `[어조, 예: 건조하고 분석적인]`
-> - **Structure:** `[서론]` -> `[본론 1]` -> `[본론 2]` -> `[결론]`
-> - **Source Truth:** 반드시 `[공식 문서 URL]`의 내용만 참조할 것. (절대 지어내지 말 것)
+> **Criterios de Éxito (Success Criteria - Requisitos Obligatorios):**
+> - Debe incluir obligatoriamente `[Palabra Clave A]` y `[Palabra Clave B]`.
+> - Incluir un mínimo de 2 `[Fragmentos de Código / Casos de Uso]`.
+> - Prohibido utilizar metáforas abstractas, antropomorfismos o clichés (ej: "Si esto fuera una receta...", "Como por arte de magia...").
 >
-> **Success Criteria (성공 기준 - 필수 충족 요건):**
->
-> - 반드시 `[특정 키워 A]`와 `[특정 키워드 B]`를 포함할 것.
-> - `[코드/예시]`를 최소 2개 이상 포함할 것.
-> - 추상적이거나 진부한 비유(예: "요리에 비유하자면...", "마치 마법처럼")를 절대 사용하지 말 것.
->
-> **Output Format (출력 형식):**
-> 마크다운(Markdown) 형식의 코드블럭으로만 출력할 것.
+> **Formato de Salida (Output Format):**
+> Imprimir el resultado únicamente dentro de un bloque de código en formato Markdown puro, sin texto introductorio.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-**"게으른 에이전트(Lazy Agent)"의 습성을 역이용하세요.**
-최신 거대 언어 모델(LLM)들은 추론 능력은 뛰어나지만, 구체적인 제약이 없으면 연산량을 아끼기 위해 가장 뻔하고 안전한 길(Cliché)을 택하려는 경향이 있습니다. 이 템플릿의 핵심은 바로 **`Success Criteria(성공 기준)`**입니다. 에이전트가 작업 완료 후 스스로 "내가 이 기준을 100% 맞췄나?"라고 자가 검증(Self-Correction)하도록 유도합니다. 특히 "비유 사용 금지"나 "특정 단어 제외" 같은 **부정 제약(Negative Constraints)**을 걸어주면, 결과물의 전문성과 밀도가 급격하게 상승하는 것을 경험하실 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 기존에 쓰던 GPT-4에서도 이 템플릿이 효과가 있나요?**
-  - A: 네, 물론입니다. 하지만 스스로 계획(Planning)하고 도구를 사용하는 능력이 강화된 Gemini 3나 GPT-5 같은 최신 에이전트 모델에서 이 '명세서 방식'의 효과가 극대화됩니다.
-
-- **Q: 제약조건이 너무 많으면 AI가 뻗치거나 오류를 내지 않을까요?**
-  - A: 오히려 반대입니다. 최신 모델들은 모호한 지시보다 명확한 제약이 있을 때 헤매지 않고 더 빠르게 질 높은 결과물을 연산해냅니다. 단, 서로 모순되는 제약조건만 피하시면 됩니다.
-
-- **Q: 결과물이 너무 딱딱하게 나오지 않을까요?**
-  - A: `Constraints`의 `Tone` 속성을 "친근하게", "유머러스하게", "소셜 미디어 바이럴 톤으로" 등으로 변경하면 됩니다. 중요한 것은 뼈대(구조)를 꽉 잡아주는 것입니다.
+**Aprovecha a tu favor la naturaleza del "Agente Perezoso (Lazy Agent)".**
+Los Modelos de Lenguaje Grande (LLM) modernos poseen una capacidad de razonamiento brillante, pero sin restricciones específicas, tienden a elegir el camino más seguro y predecible (clichés) para ahorrar recursos de procesamiento. El núcleo de esta plantilla son precisamente los **`Criterios de Éxito (Success Criteria)`**. Esto induce al agente a auto-evaluarse (Self-Correction) tras completar la tarea, preguntándose internamente: "¿He cumplido el 100% de estos requisitos?". Experimentarás un aumento drástico en la densidad y profesionalidad del resultado, especialmente al incorporar **Restricciones Negativas (Negative Constraints)** como "Prohibido usar metáforas" o "Excluir frases de cortesía".
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **Specification (명세화):** AI에게 판단을 맡기는 모호한 "잘 써줘"를, 핑계 댈 수 없는 구체적인 엔지니어링 스펙으로 변환했습니다.
-2. **Source Anchoring (출처 고정):** 정보의 참조 범위를 특정 URL이나 문서로 강제하여, 그럴싸한 거짓말(Hallucination)을 원천 차단했습니다.
-3. **Negative Constraints (부정 제약):** 초보자들이 흔히 겪는 "AI 특유의 오글거리는 문체"를 하지 말아야 할 행동으로 명시하여 불필요한 군더더기를 제거했습니다.
+- **P: ¿Esta plantilla funciona también con el GPT-4 o Claude 3.5 que usaba antes?**
+  - R: Sí, por supuesto. Sin embargo, este enfoque de 'Documento de Especificaciones' maximiza su potencial en modelos de agentes modernos como Gemini 3 o GPT-5, los cuales cuentan con capacidades avanzadas de planificación autónoma (Planning) y ejecución iterativa.
+
+- **P: ¿Demasiadas restricciones no causarán que la IA se sature o genere errores de formato?**
+  - R: Todo lo contrario. Los modelos más recientes procesan resultados de alta calidad mucho más rápido y sin desviarse cuando tienen restricciones sólidas en lugar de instrucciones ambiguas. Solo debes evitar establecer directrices que se contradigan lógicamente entre sí.
+
+- **P: ¿No resultará el contenido final demasiado rígido y formal para un blog?**
+  - R: Solo necesitas modificar el atributo de `Tono` en la sección de `Restricciones` a "Amigable", "Humorístico" o "Tono viral de TikTok". Lo fundamental aquí es mantener firme el esqueleto estructural; el barniz estilístico es fácilmente adaptable.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (기존 채팅 방식)
+1. **Especificación (Specification):** Transformamos el ambiguo "escríbelo bien", que deja todo el criterio a la IA, en una especificación de ingeniería detallada que no admite malentendidos.
+2. **Fijación de Fuentes (Source Anchoring):** Al restringir el ámbito de referencia a una URL o documento concreto, erradicamos de raíz cualquier posibilidad de que la IA genere mentiras convincentes (Alucinaciones).
+3. **Restricciones Negativas (Negative Constraints):** Eliminamos elementos indeseados al estipular explícitamente como "acciones prohibidas" el uso del "estilo artificial típico de la IA", un problema extremadamente común que degrada la calidad de los textos autogenerados.
+
+---
+
+## 📊 Demostración: Antes y Después (Before & After)
+
+### ❌ Antes (Método de chat tradicional)
 
 ```text
-(제목: Rust와 Go 언어의 차이점 비교)
-여러분, 코딩의 세계에 오신 것을 환영합니다! Rust는 마치 꼼꼼한 마스터 셰프 같고, Go 언어는 빠르고 효율적인 배달원과 같습니다. 마치 오케스트라의 지휘자처럼... (정보가 부족하고 쓸데없는 비유만 남발함)
+(Título: Comparación de las diferencias entre Rust y Go)
+¡Bienvenidos al apasionante mundo de la programación! Rust es como un chef meticuloso que cuida cada ingrediente, mientras que Go es como un repartidor rápido y eficiente. Como el director de una orquesta... (Carece de información técnica, abusa de metáforas innecesarias y el tono es infantil)
 ```
 
-### ✅ After (의도 설계 방식)
+### ✅ Después (Diseño de Intenciones)
 
 ```markdown
-# Rust vs Go: 메모리 관리 모델 및 동시성 처리 비교
+# Rust vs Go: Comparación del modelo de gestión de memoria y el procesamiento de concurrencia
 
-## 1. 소유권(Ownership) 시스템 분석
+## 1. Análisis del sistema de Propiedad (Ownership)
 
-Rust의 Borrow Checker는 컴파일 시점에 메모리 누수를 방지합니다. 공식 문서에 따르면 다음과 같은 규칙을 엄격하게 적용합니다.
+El Borrow Checker de Rust previene las fugas de memoria en tiempo de compilación. Según la documentación oficial, aplica estrictamente las siguientes reglas de préstamo:
 
-// (비유가 배제된 공식 문서 기반의 정확한 설명과 코드 예시가 깔끔하게 출력됨)
+// (Se imprime de manera impecable una explicación técnica precisa, basada en la documentación oficial, excluyendo metáforas redundantes, y con ejemplos de código claros y funcionales)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-머지않아 "프롬프트 엔지니어"라는 단어는 사라질 것입니다. 대신 우리는 AI라는 뛰어난 실무자에게 정확하게 일을 시키고 성과를 검증하는 **"AI PM(Product Manager)"**가 되어야 합니다. 단어를 깎느라 밤새지 마시고, 명확한 의도를 설계하세요.
+El término "Ingeniero de Prompts" pronto quedará en el olvido. En su lugar, debemos convertirnos en **"AI PM (Product Managers de IA)"**, profesionales capaces de asignar tareas precisas a este brillante trabajador digital y verificar rigurosamente sus resultados. No pases la noche puliendo cada palabra; diseña intenciones claras y estructuradas.
 
-이제 완벽한 지시서로 칼퇴하세요! 🍷
+¡Redacta la especificación perfecta y termina tu jornada a tiempo! 🍷

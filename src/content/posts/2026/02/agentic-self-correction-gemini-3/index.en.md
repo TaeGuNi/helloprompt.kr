@@ -6,146 +6,146 @@ category: "Agent Engineering"
 tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 ---
 
-# 📝 AI 에이전트가 실패하는 이유: Gemini 3 Pro의 '자가 수정 루프' 프롬프트 패턴
+# 📝 Why AI Agents Fail: The 'Self-Correction Loop' Prompt Pattern for Gemini 3 Pro
 
-- **🎯 추천 대상:** AI 에이전트를 개발하는 백엔드 엔지니어, 프롬프트 엔지니어, 기획자
-- **⏱️ 소요 시간:** 코드 디버깅 15분 → 1분 단축
-- **🤖 추천 모델:** Gemini 3 Pro, GPT-4o, Claude 3.5 Sonnet (추론 능력이 뛰어난 모델)
+- **🎯 Target Audience:** Backend Engineers, Prompt Engineers, and Product Managers building AI Agents
+- **⏱️ Time Saved:** 15 mins of debugging → Reduced to 1 min
+- **🤖 Recommended Model:** Gemini 3 Pro, GPT-4o, Claude 3.5 Sonnet (Models with strong reasoning capabilities)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐☆
+- ⭐ **Difficulty:** ⭐⭐⭐☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"완벽해 보이던 AI 에이전트가 똑같은 오류를 반복하며 API 토큰만 태우고 있나요? 이제 '코드 작성'이 아닌 '작성, 비판, 수정'을 지시할 때입니다."_
+> _"Is your seemingly perfect AI agent stuck in an endless loop, burning API tokens while repeating the exact same errors? It's time to stop asking it to 'write code' and start demanding it to 'draft, critique, and refine'."_
 
-Gemini 3 Pro나 GPT-4와 같은 고성능 모델로 에이전트를 구축해 본 경험이 있으실 겁니다. 코드를 생성하는 능력은 탁월하지만, 스스로 버그를 고치는 데는 끔찍할 정도로 서툰 경우가 많습니다. 한 번 시도하고 실패하면 동일한 코드를 반복해서 뱉어내며 이른바 '죽음의 나선(Death Spiral)'에 빠져 아까운 토큰 예산만 낭비하곤 하죠.
+If you've built agents using high-performance models like Gemini 3 Pro or GPT-4, you've likely experienced this frustration. They are phenomenal at generating code, but often terribly inept at fixing their own bugs. Once they fail, they tend to spiral, regurgitating the same broken code and draining your token budget in a "Death Spiral."
 
-이 문제는 모델의 지능이 부족해서가 아닙니다. 바로 **'자가 수정 루프(Self-Correction Loop)'**가 빠져 있기 때문입니다. 대부분의 개발자는 에이전트를 '발사 후 망각(Fire and Forget)' 방식으로 다룹니다. 하지만 진정한 에이전틱 워크플로우(Agentic Workflow)에는 모델이 결과물을 사용자에게 보여주기 전에 스스로 비판하는 '에디터(Editor)' 단계가 필수적입니다.
+This isn't due to a lack of intelligence; it's the absence of a **'Self-Correction Loop'**. Most developers treat their agents as "fire and forget" systems. However, a true Agentic Workflow absolutely requires an 'Editor' phase—forcing the model to critique its own output before presenting the final result.
 
-오늘은 실제 프로덕션 환경에서 에이전트의 오류율을 60% 이상 획기적으로 낮춰준 **자가 수정 프롬프트 패턴(Self-Correction Prompt Pattern)**을 공유합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI 에이전트의 무한 에러 루프는 모델의 한계가 아닌 검증 단계의 부재 때문입니다.
-2. AI에게 '생성자(Creator)'와 '비평가(Critic)' 역할을 동시에 부여하여 스스로 논리적 오류를 찾게 만드세요.
-3. 초안 작성, 자체 비판, 최종 수정의 3단계 프로세스를 하나의 프롬프트에 녹여내면 환각(Hallucination)을 극적으로 줄일 수 있습니다.
+Today, I'm sharing the **Self-Correction Prompt Pattern** that has drastically reduced our agent error rates by over 60% in a live production environment.
 
 ---
 
-## 🚀 해결책: "비평가-실행자 (Critic-Actor) 패턴"
+## ⚡️ 3-Line Summary (TL;DR)
 
-초안 작성(Drafting) 단계와 비판(Critique) 단계를 명확하게 분리하는 것이 이 프롬프트의 핵심입니다.
+1. Infinite error loops in AI agents stem from the lack of an internal validation step, not model limitations.
+2. Assign the AI dual roles—both 'Creator' and 'Critic'—forcing it to independently identify its own logical flaws.
+3. Consolidating the drafting, self-critique, and final refinement phases into a single prompt drastically minimizes hallucinations.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 자가 수정 결과만 확인하고 싶을 때 사용하세요.
+## 🚀 The Solution: "The Critic-Actor Pattern"
 
-> **역할:** 너는 `[시니어 백엔드 엔지니어]`야.
-> **요청:** `[정렬된 두 개의 리스트를 병합하는 함수]`를 작성해 줘. 코드를 작성한 후, 스스로 잠재적인 버그나 비효율적인 부분을 찾아 비판하고, 그 비판을 바탕으로 수정된 최종 코드를 제시해.
+The core of this prompt lies in explicitly separating the drafting phase from the critique phase.
+
+### 🥉 Basic Version
+
+Use this when you need a quick, self-corrected result without complex guardrails.
+
+> **Role:** You are a `[Senior Backend Engineer]`.
+> **Task:** Write a function that `[merges two sorted lists]`. After writing the code, actively critique it to identify potential bugs or inefficiencies, and then provide the final, refined code based on your critique.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-디테일한 코드 퀄리티와 엣지 케이스(Edge Case) 방어가 필요할 때 사용하세요.
+Use this for production-grade code quality and rigorous edge-case defense.
 
-> **역할 (Role):** 너는 10년 차 시니어 파이썬 백엔드 엔지니어이자 꼼꼼한 코드 리뷰어(Code Reviewer)야. 너는 깔끔하고 효율적이며 버그가 없는 코드를 최우선으로 생각해.
+> **Role:** You are a senior Python backend engineer with 10 years of experience, acting as a meticulous Code Reviewer. You prioritize clean, efficient, and bug-free code above all else.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 현재 프로덕션 환경에서 대규모 데이터를 처리하기 위한 신뢰성 높은 코드가 필요해.
-> - 목표: 스스로 코드의 논리적 허점을 찾고 보완하는 완벽한 함수를 작성하는 것.
+> - Background: We need highly reliable code to process large-scale data in a live production environment.
+> - Objective: Write a flawless function by independently identifying and fixing logical loopholes in your own code.
 >
-> **요청 (Task):**
+> **Task:**
 >
-> 1. **초안 (Draft):** `[정렬된 두 개의 리스트를 병합하는 파이썬 함수]`를 작성해.
-> 2. **비판 (Critique):** 작성한 초안 코드를 스스로 리뷰해. 다음 항목들을 집중적으로 찾아내:
->    - 엣지 케이스 (예: 빈 리스트 입력, 음수 포함 등)
->    - 성능 병목 현상 (시간/공간 복잡도)
->    - 잠재적인 런타임 에러
-> 3. **수정 (Refine):** 비판 단계에서 발견한 문제점을 바탕으로 코드를 완벽하게 다시 작성해.
+> 1. **Draft:** Write a `[Python function that merges two sorted lists]`.
+> 2. **Critique:** Review your initial draft rigorously. Focus specifically on finding:
+>    - Edge cases (e.g., empty lists, negative numbers)
+>    - Performance bottlenecks (Time/Space complexity)
+>    - Potential runtime errors
+> 3. **Refine:** Completely rewrite the code based on the issues identified during the critique phase.
 >
-> **제약사항 (Constraints):**
+> **Constraints:**
 >
-> - 출력 형식은 아래 제공된 마크다운 구조를 엄격하게 따라야 해.
-> - '3. 최종 완성 코드' 섹션에서는 코드에 대한 부연 설명을 절대 하지 마. 코드 블럭만 제공해.
-> - 최종 완성 코드에는 비판 단계에서 식별된 엣지 케이스에 대한 예외 처리 로직이 반드시 포함되어야 해.
+> - You must strictly adhere to the Markdown structure provided below.
+> - Do not include any explanatory text in the '3. Final Polished Code' section. Provide only the code block.
+> - The final polished code must include exception handling logic for the edge cases identified during the critique.
 >
-> **출력 형식 (Format):**
+> **Format:**
 >
-> ## 1. 초기 초안 (Initial Draft)
+> ## 1. Initial Draft
 >
-> \`\`\`python
-> (초안 코드)
-> \`\`\`
+> ```python
+> (Initial Draft Code)
+> ```
 >
-> ## 2. 자체 비판 (Self-Critique)
+> ## 2. Self-Critique
 >
-> - **비판 1:** (발견한 문제점 및 원인)
-> - **비판 2:** (발견한 문제점 및 원인)
+> - **Critique 1:** (Identified issue and root cause)
+> - **Critique 2:** (Identified issue and root cause)
 >
-> ## 3. 최종 완성 코드 (Final Polished Code)
+> ## 3. Final Polished Code
 >
-> \`\`\`python
-> (최종 수정된 코드)
-> \`\`\`
+> ```python
+> (Final Refined Code)
+> ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-이 프롬프트 패턴은 단순한 코드 생성을 넘어, SQL 쿼리 작성이나 비즈니스 이메일 카피라이팅 등 논리적 검증이 필요한 모든 작업에 강력한 효과를 발휘합니다. '자체 비판(Self-Critique)' 단계는 AI의 무의미한 환각(Hallucination)을 막아주는 든든한 방파제 역할을 합니다.
+This prompt pattern extends far beyond code generation; it is incredibly powerful for any task requiring logical validation, such as drafting complex SQL queries or writing persuasive B2B sales copy. The 'Self-Critique' phase acts as a robust bulwark against meaningless hallucinations.
 
-특히 **Gemini 3 Pro**와 같이 컨텍스트 윈도우가 거대한 모델을 사용할 때는, 비판 단계에서 기존 코드베이스의 특정 라인을 직접 인용하여 리뷰하도록 지시하면 코드의 정확도와 맥락 일치율을 극한으로 끌어올릴 수 있습니다.
+Particularly when using models with massive context windows like **Gemini 3 Pro**, you can push accuracy and contextual alignment to the absolute limit by instructing the AI to reference specific lines from your existing codebase during the critique phase.
 
-다만 주의할 점이 있습니다. '잘못된 초안'과 '비판' 과정을 거치며 텍스트를 추가 생성하기 때문에 기존 프롬프트 대비 약 2배의 토큰(비용)이 소모됩니다. 따라서 단순한 텍스트 변환 작업보다는 **'비용보다 정확도(Accuracy > Cost)'가 훨씬 중요한 복잡한 로직 처리**에 이 패턴을 도입하는 것을 강력히 추천합니다. 직접 해보니 이 과정에서 절약되는 디버깅 시간이 토큰 비용을 아득히 뛰어넘습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 토큰 소모량이 걱정됩니다. 비용을 줄일 방법이 있나요?**
-  - A: 내부 로직을 처리할 때는 상대적으로 저렴한 모델(예: Gemini 3 Flash)을 사용해 초안을 작성하고, '비판 및 수정' 단계의 검수 역할만 Gemini 3 Pro에게 맡기는 멀티 에이전트 라우팅(Multi-Agent Routing) 방식을 구축하면 퀄리티를 유지하면서 비용을 크게 절감할 수 있습니다.
-
-- **Q: 비판 단계에서도 AI가 문제점을 찾지 못하면 어떻게 하나요?**
-  - A: 프롬프트의 Task 부분에 구체적인 체크리스트를 주입하세요. 예를 들어 "메모리 누수 가능성", "비동기 처리 데드락", "SQL 인젝션 취약점" 등 AI가 검토해야 할 포인트를 명시적으로 짚어주면 비판의 해상도가 훨씬 날카로워집니다.
-
-- **Q: 코딩 이외의 기획이나 블로그 글쓰기 작업에도 적용할 수 있나요?**
-  - A: 물론입니다. "초안 작성 -> 논리적 모순 및 독자 페르소나 불일치 비판 -> 최종 원고 수정" 구조로 응용하면, 사람의 개입 없이도 전문가가 퇴고한 듯한 훌륭한 수준의 결과물을 얻을 수 있습니다.
+However, a word of caution: because this pattern generates additional text through the 'flawed draft' and 'critique' steps, it consumes roughly twice the tokens (and cost) compared to a standard prompt. Therefore, I highly recommend deploying this pattern for **complex logical processing where Accuracy > Cost**, rather than simple text transformation. In my experience, the debugging time saved easily outweighs the extra token expense.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1.  **Role & Context 분리:** AI에게 '개발자'와 '리뷰어'라는 두 가지 상반된 페르소나를 강제 부여하여 스스로 코드의 결함을 찾아내는 메타 인지(Meta-cognition) 능력을 활성화했습니다.
-2.  **단계적 추론 (Chain-of-Thought) 유도:** 곧바로 완벽한 정답을 내놓게 하지 않고, '초안 -> 비판 -> 수정'이라는 사고의 과정을 마크다운 구조로 명시화하여 논리적 비약과 헛소리를 방지했습니다.
-3.  **Constraints (제약) 통제:** 최종 출력에서는 불필요한 설명을 모두 제거하게 강제하여, 이후 자동화 파이프라인(CI/CD 등)에서 코드를 파싱(Parsing)하고 바로 테스트하기 쉽도록 설계했습니다.
+- **Q: I'm concerned about token consumption. Is there a way to reduce costs?**
+  - A: Absolutely. You can build a Multi-Agent Routing system. Use a more cost-effective model (like Gemini 3 Flash) to generate the initial draft, and route only the 'Critique and Refine' phase to Gemini 3 Pro. This maintains high quality while significantly slashing costs.
+
+- **Q: What if the AI fails to find issues even during the critique phase?**
+  - A: Inject a specific checklist into the 'Task' section of your prompt. For example, explicitly ask the AI to check for "memory leak risks," "async deadlocks," or "SQL injection vulnerabilities." Giving it concrete vectors to investigate drastically sharpens the resolution of its critique.
+
+- **Q: Can this be applied to non-coding tasks like planning or blog writing?**
+  - A: Definitely. If you apply the structure of "Draft -> Critique logical inconsistencies and persona mismatches -> Refine final manuscript," you can achieve expert-level editing results without human intervention.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works)
 
-**테스트 조건:** "정렬된 두 개의 리스트를 병합하는 함수 작성"
+1.  **Role & Context Separation:** By forcing two opposing personas—the 'Developer' and the 'Reviewer'—onto the AI, we activate its meta-cognition abilities, compelling it to find its own flaws.
+2.  **Chain-of-Thought Induction:** Instead of demanding the perfect answer immediately, we formalize the thought process into a 'Draft -> Critique -> Refine' Markdown structure, preventing logical leaps and hallucinations.
+3.  **Strict Constraint Control:** By stripping away all unnecessary explanations in the final output, the resulting code is perfectly primed for automated pipelines (like CI/CD) to parse and test immediately.
 
-### ❌ Before (입력)
+---
 
-표준 프롬프트로 지시했을 때, 단순히 `list1 + list2` 후 `sorted()`를 호출하는 비효율적인 코드를 생성했습니다.
+## 📊 Proof: Before & After
+
+**Test Scenario:** "Write a function to merge two sorted lists."
+
+### ❌ Before (Input)
+
+When using a standard prompt, the model generated highly inefficient code, simply concatenating `list1 + list2` and calling `sorted()`.
 
 ```python
 def merge_lists(list1, list2):
-    # O(N log N)의 시간 복잡도 발생. 대규모 데이터에서 심각한 성능 저하 우려.
+    # Triggers O(N log N) time complexity. Severe performance degradation on large datasets.
     return sorted(list1 + list2)
 ```
 
-### ✅ After (결과)
+### ✅ After (Result)
 
-자가 수정 프롬프트를 적용하자, 자체 비판 단계에서 "이미 정렬된 리스트에 `sorted()`를 사용하는 것은 비효율적이며, O(N) 복잡도를 위해 투 포인터(Two-pointer) 접근법을 써야 한다"고 스스로 지적한 뒤 완벽히 최적화된 코드를 도출했습니다. 15분의 코드 리뷰와 리팩토링 시간이 단 1초로 단축되었습니다.
+When applying the Self-Correction prompt, the AI pointed out in its own critique phase that "using `sorted()` on already sorted lists is inefficient; a two-pointer approach must be used for O(N) complexity." It then delivered perfectly optimized code. What would normally take 15 minutes of code review and refactoring was condensed into a single second.
 
 ```python
 def merge_lists(list1, list2):
-    # O(N)의 시간 복잡도로 최적화 및 빈 리스트 엣지 케이스 완벽 방어
+    # Optimized for O(N) time complexity and perfectly defends against empty list edge cases
     merged = []
     i, j = 0, 0
 
@@ -157,7 +157,7 @@ def merge_lists(list1, list2):
             merged.append(list2[j])
             j += 1
 
-    # 남은 요소들 병합
+    # Merge any remaining elements
     merged.extend(list1[i:])
     merged.extend(list2[j:])
 
@@ -166,10 +166,10 @@ def merge_lists(list1, list2):
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-AI 모델에게 단 한 번의 시도로 완벽한 정답을 기대하는 것은 요행을 바라는 것과 같습니다. LLM 호출을 단순한 '정답 자판기'가 아니라, 논리적인 '과정(Process)'을 설계하는 엔지니어링 작업으로 대해야 합니다.
+Expecting an AI model to produce the perfect answer in a single shot is like hoping for a miracle. We must treat LLM calls not as simple 'vending machines for answers,' but as an engineering task of designing a logical 'Process.'
 
-지금 당장 여러분의 에이전트 워크플로우에 이 '비평가-실행자' 패턴을 복사해서 붙여넣어 보세요. 원인을 알 수 없던 지긋지긋한 디버깅 지옥에서 탈출할 수 있을 것입니다.
+Copy and paste this 'Critic-Actor' pattern into your agent workflows right now. It will rescue you from the debugging hell you couldn't figure out.
 
-이제 에이전트에게 꼼꼼한 검수를 맡기고 칼퇴하세요! 🍷
+Now, leave the meticulous reviewing to your agent, and go enjoy your evening! 🍷

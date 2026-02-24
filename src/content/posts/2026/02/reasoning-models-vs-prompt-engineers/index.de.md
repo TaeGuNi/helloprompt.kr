@@ -5,139 +5,139 @@ author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI 트렌드 & 프롬프트"
-description: "OpenAI o3, Gemini 2.0 Flash Thinking 등 '추론형(Reasoning) 모델'의 시대. 기존 프롬프트 공식이 더 이상 통하지 않는 이유와 새로운 패러다임의 프롬프트 엔지니어링 방법론을 완벽히 정리했습니다."
+description: "Die Ära der 'Reasoning-Modelle' wie OpenAI o3 und Gemini 2.0 Flash Thinking ist angebrochen. Erfahren Sie, warum alte Prompt-Formeln nicht mehr funktionieren und wie das neue Paradigma des Prompt-Engineerings aussieht."
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]
 ---
 
-# 🧠 Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 하세요
+# 🧠 Die Ära der Reasoning-Modelle: Diktieren Sie nicht, lassen Sie die KI denken
 
-- **🎯 추천 대상:** 프롬프트 엔지니어링의 한계에 부딪힌 기획자, 복잡한 아키텍처 설계가 필요한 개발자
-- **⏱️ 소요 시간:** 10분 읽기 → 즉시 적용 가능
-- **🤖 추천 모델:** OpenAI o3, Gemini 2.0 Flash Thinking, Claude 3.7 Opus (추론형 모델 전용)
+- **🎯 Empfohlene Zielgruppe:** Projektmanager, die an die Grenzen des Prompt-Engineerings stoßen, Entwickler, die komplexe Architekturen entwerfen
+- **⏱️ Zeitaufwand:** 10 Minuten Lesezeit → Sofort anwendbar
+- **🤖 Empfohlene Modelle:** OpenAI o3, Gemini 2.0 Flash Thinking, Claude 3.7 Opus (Exklusiv für Reasoning-Modelle)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
+- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-> _"복잡한 단계별 지시(CoT) 프롬프트를 입력했더니 오히려 답변 품질이 떨어졌나요? 축하합니다. 당신은 지금 똑똑한 Reasoning 모델을 완벽하게 '방해'하고 계십니다."_
+> _"Haben Sie einen komplexen Step-by-Step-Prompt (CoT) eingegeben und die Qualität der Antwort hat sich sogar verschlechtert? Herzlichen Glückwunsch. Sie haben das smarte Reasoning-Modell soeben perfekt 'behindert'."_
 
-2025년 하반기부터 본격화된 '추론형(Reasoning) 모델'의 시대가 2026년 현재 압도적인 표준으로 자리 잡았습니다. OpenAI o3, Google Gemini 2.0 Flash Thinking과 같은 모델들은 스스로 논리를 전개하고 검증하는 **"생각하는 시간(Thinking Process)"**을 내부적으로 거칩니다.
+Die Ära der "Reasoning-Modelle", die in der zweiten Hälfte des Jahres 2025 begann, hat sich 2026 zum absoluten Standard entwickelt. Modelle wie OpenAI o3 und Google Gemini 2.0 Flash Thinking durchlaufen intern einen **"Thinking Process"**, in dem sie eigenständig Logiken entwickeln und validieren.
 
-그런데 여전히 2023년식 "Step-by-step으로 생각하세요"나 "1단계, 2단계..." 식의 마이크로매니징을 하고 계신가요? 이는 마치 **숙련된 시니어 엔지니어의 등 뒤에 서서 숨 쉬는 타이밍까지 지시하는 것**과 같습니다. 이제 프롬프트 엔지니어링의 패러다임은 '과정 통제'에서 '목표 지향'으로 완전히 진화해야 합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **Reasoning 모델은 스스로 생각합니다:** 강제로 사고 과정을 지정하는 'Manual CoT(Chain-of-Thought)'는 모델의 고도화된 내부 추론 로직과 충돌하여 오히려 성능을 저하시킵니다.
-2. **'How'가 아닌 'What'에 집중하세요:** 과정을 마이크로매니징하지 말고, **성공 기준(Success Criteria)**과 **절대적인 제약 조건(Constraints)**을 날카롭게 정의해야 합니다.
-3. **토큰 가성비의 역설:** 추론 토큰(Reasoning Tokens)은 비싸 보이지만, 한 번에 완벽한 정답을 얻는 것이 수십 번 프롬프트를 수정하며 대화하는 것보다 궁극적으로 훨씬 저렴합니다.
+Aber nutzen Sie immer noch das Mikromanagement im Stil von 2023 mit Anweisungen wie "Denke Schritt für Schritt" oder "Schritt 1, Schritt 2..."? Das ist in etwa so, als würden Sie **einem erfahrenen Senior-Entwickler über die Schulter schauen und ihm sogar das Timing seiner Atemzüge vorschreiben**. Das Paradigma des Prompt-Engineerings muss sich nun vollständig von der "Prozesskontrolle" hin zur "Zielorientierung" wandeln.
 
 ---
 
-## 🚀 해결책: "목표 지향형 (Goal-Oriented) 프롬프트"
+## ⚡️ TL;DR (Zusammenfassung in 3 Sätzen)
 
-이제 AI에게 "어떻게 풀라(How)"고 지시하는 대신, "무엇이 완벽한 정답인가(What)"를 정확히 정의해 주어야 합니다.
+1. **Reasoning-Modelle denken selbst:** Das erzwungene Vorgeben von Denkprozessen ("Manual CoT") kollidiert mit der hoch entwickelten internen Inferenzlogik des Modells und mindert paradoxerweise die Leistung.
+2. **Fokus auf das "Was", nicht das "Wie":** Verzichten Sie auf Mikromanagement. Definieren Sie stattdessen messerscharfe **Erfolgskriterien (Success Criteria)** und **absolute Einschränkungen (Constraints)**.
+3. **Das Paradoxon der Token-Kosten:** Reasoning-Tokens mögen teuer erscheinen, aber auf Anhieb die perfekte Antwort zu erhalten, ist letztlich weitaus günstiger und zeiteffizienter, als in dutzenden Chat-Schleifen Prompts anzupassen.
 
-### 🥉 Basic Version (기본형)
+---
 
-빠르게 핵심 결과만 필요할 때 사용하세요. 불필요한 과정 설명 없이 목표와 제약만 던져줍니다.
+## 🚀 Die Lösung: "Zielorientierte (Goal-Oriented) Prompts"
 
-> **역할:** 너는 `[전문가 역할]`이야.
-> **요청:** `[해결해야 할 문제]`에 대한 최적의 해결책을 제시해줘.
-> **제약사항:** 과정을 장황하게 설명하지 말고, 오직 최종 결과물만 `[출력 형식]`으로 보여줘.
+Anstatt der KI vorzuschreiben, "wie" sie etwas lösen soll (How), müssen wir nun exakt definieren, "was" die perfekte Antwort ausmacht (What).
+
+### 🥉 Basic Version (Die Grundlagen)
+
+Nutzen Sie diese Variante, wenn Sie schnell ein auf den Punkt gebrachtes Ergebnis benötigen. Sie liefert Ziele und Einschränkungen ohne unnötige Erklärungen zum Vorgehen.
+
+> **Rolle:** Du bist ein `[Expertenrolle]`.
+> **Aufgabe:** Liefere die optimale Lösung für `[zu lösendes Problem]`.
+> **Einschränkungen:** Erkläre den Prozess nicht langatmig, sondern präsentiere ausschließlich das Endergebnis im `[Ausgabeformat]`.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Für Experten)
 
-복잡도 높은 아키텍처 설계나 비즈니스 전략 기획 등, 디테일한 퀄리티가 필요할 때 사용하세요. 모델의 추론 능력을 극대화하는 구조입니다.
+Verwenden Sie diesen Prompt, wenn Sie höchste Detailqualität benötigen, beispielsweise bei der Planung komplexer Architekturen oder anspruchsvoller Geschäftsstrategien. Diese Struktur maximiert die logischen Fähigkeiten des Modells.
 
-> **역할 (Role):** 너는 `[전문가 역할, 예: 복잡한 시스템 아키텍처를 설계하는 수석 엔지니어]`야.
+> **Rolle (Role):** Du bist ein `[Expertenrolle, z.B. Lead Engineer, der komplexe Systemarchitekturen entwirft]`.
 >
-> **상황 (Context):**
+> **Kontext (Context):**
 >
-> - 배경: `[현재 상황, 예: 일 트래픽 1,000만 건, Monolithic에서 Microservices로 구조 전환 중]`
-> - 목표: `[최종 목표, 예: 데이터 정합성을 완벽히 보장하면서 지연 시간(Latency) 최소화]`
+> - Hintergrund: `[Aktuelle Situation, z.B. Täglicher Traffic von 10 Millionen Anfragen, Migration von einer monolithischen Struktur zu Microservices]`
+> - Ziel: `[Endziel, z.B. Minimierung der Latenz (Latency) bei gleichzeitiger hundertprozentiger Gewährleistung der Datenintegrität]`
 >
-> **요청 (Task):**
+> **Aufgabe (Task):**
 >
-> 1. 충분한 내부 사고(Reasoning)를 거쳐, 위 목표를 달성할 수 있는 가장 우아하고 기술적으로 완벽한 마이그레이션 전략을 제안해.
-> 2. 논리적 근거가 부족하거나 실무 도입이 불가능한 추상적 제안은 즉시 반려할 거야.
-> 3. 반드시 아래의 '성공 기준'을 완벽하게 충족해야 해.
+> 1. Durchlaufe einen umfassenden internen Denkprozess (Reasoning) und schlage die eleganteste und technisch perfekteste Migrationsstrategie vor, um das obige Ziel zu erreichen.
+> 2. Abstrakte Vorschläge ohne logische Grundlage oder solche, die in der Praxis nicht umsetzbar sind, werde ich sofort ablehnen.
+> 3. Die folgenden "Erfolgskriterien" müssen zwingend und vollständig erfüllt werden.
 >
-> **성공 기준 (Success Criteria):**
+> **Erfolgskriterien (Success Criteria):**
 >
-> - `[기준 1, 예: 무중단 배포(Zero-downtime deployment)가 반드시 보장될 것]`
-> - `[기준 2, 예: 장애 발생 시 1분 이내의 구체적인 롤백(Rollback) 시나리오가 포함될 것]`
+> - `[Kriterium 1, z.B. Zero-Downtime-Deployment muss zwingend garantiert sein]`
+> - `[Kriterium 2, z.B. Es muss ein detailliertes Rollback-Szenario für den Fehlerfall enthalten sein, das innerhalb von 1 Minute greift]`
 >
-> **제약사항 (Constraints):**
+> **Einschränkungen (Constraints):**
 >
-> - `[제약 1, 예: 특정 클라우드 벤더(AWS/GCP)에 종속되는 Managed Service 사용 금지]`
-> - `[제약 2, 예: 서론이나 인사말 없이, 구체적인 기술 스택과 Mermaid 기반의 아키텍처 다이어그램부터 출력할 것]`
+> - `[Einschränkung 1, z.B. Keine Nutzung von Managed Services, die zu einem Vendor Lock-in bei einem bestimmten Cloud-Anbieter (AWS/GCP) führen]`
+> - `[Einschränkung 2, z.B. Keine Einleitung oder Begrüßung. Beginne direkt mit dem spezifischen Tech-Stack und einem Mermaid-basierten Architekturdiagramm]`
 >
-> **주의사항 (Warning):**
+> **Warnung (Warning):**
 >
-> - 문제 해결 과정(How)은 네가 내부적으로 판단해서 최적화해. 나에게 과정을 설명할 필요 없이 압도적인 결과물만 제시해.
+> - Überlasse den Problemlösungsprozess (How) deinem eigenen internen Ermessen und maximiere die Effizienz. Du brauchst mir den Prozess nicht zu erklären – liefere mir einfach ein überragendes Endergebnis.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Kommentar des Autors (Insight)
 
-최근 회사 내부의 개발자 어시스턴트 봇을 Gemini 2.0 Flash Thinking 모델로 전면 교체하며 겪은 일입니다. 처음에는 기존 Claude 3.5 Sonnet에서 잘 작동하던 3,000토큰짜리 정교한 'Persona & Step-by-Step CoT' 프롬프트를 그대로 이식했습니다. 결과는 처참했습니다. 모델은 제 지시에 갇혀 오히려 창의적이고 효율적인 아키텍처를 내놓지 못했습니다.
+Dies ist eine Erfahrung, die ich kürzlich gemacht habe, als wir den internen Entwickler-Assistenten unseres Unternehmens komplett auf das "Gemini 2.0 Flash Thinking"-Modell umgestellt haben. Anfangs habe ich einen hochkomplexen, 3.000 Token langen "Persona & Step-by-Step CoT"-Prompt übernommen, der bei Claude 3.5 Sonnet hervorragend funktioniert hatte. Das Ergebnis war katastrophal. Das Modell war in meinen peniblen Anweisungen gefangen und nicht in der Lage, eine kreative oder effiziente Architektur zu liefern.
 
-이후 프롬프트를 전면 수정하여, **'성공 기준(Success Criteria)'과 '제약 조건'에만 집중한 500토큰짜리 프롬프트로 바꿨더니 정답률과 코드 품질이 비약적으로 상승**했습니다. Reasoning 모델은 "문맥의 행간"을 읽는 능력이 탁월합니다. 우리가 굳이 "A 다음 B를 하고, 그다음 C를 해"라고 하지 않아도, 완벽한 아키텍처를 위해 A, B, C가 필요하다면 알아서 순서를 최적화하여 실행합니다.
+Als ich den Prompt von Grund auf überarbeitete und auf knapp 500 Token kürzte – **mit ausschließlichem Fokus auf "Erfolgskriterien" und "Einschränkungen"** –, stiegen die Trefferquote und die Codequalität sprunghaft an. Reasoning-Modelle sind meisterhaft darin, "zwischen den Zeilen" zu lesen. Wir müssen nicht mehr vorgeben: "Mach erst A, dann B und dann C." Wenn A, B und C für eine perfekte Architektur notwendig sind, optimiert das Modell die Ausführungsreihenfolge selbstständig.
 
-**핵심은 '신뢰'입니다.** 똘똘한 시니어 개발자에게 핵심 프로젝트를 일임할 때처럼, 사사건건 마이크로매니징하지 마세요. 대신 **"이 결과물이 왜 비즈니스에 중요하고, 절대로 타협해선 안 되는 선(Constraints)은 무엇인지"**를 명확히 정의하는 데 당신의 에너지를 쏟아야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 그럼 이제 기존의 CoT(단계별 추론) 프롬프트는 완전히 버려야 하나요?**
-  - A: 아닙니다. GPT-4o나 Claude 3.5 Sonnet 같은 **Non-Reasoning 모델(일반 생성형 모델)**에서는 여전히 당신이 논리 구조를 잡아주는 CoT 방식이 압도적으로 유리합니다. 하지만 o3나 Gemini Flash Thinking 같은 '추론 전용 모델'을 호출할 때만 위 방법론(목표 지향형)을 사용하시면 됩니다.
-
-- **Q: 추론형 모델은 '생각하는 시간' 때문에 응답이 너무 느린데, 실무에서 쓸 만한가요?**
-  - A: 맞습니다. 초기 응답 시간(TTFT, Time To First Token)은 일반 모델보다 길 수밖에 없습니다. 하지만 불완전한 코드를 받아 수십 번 "여기 에러 나는데?", "이 패키지 없는데?"라며 스무고개를 하는 **전체 작업 시간(Total Task Time)**을 고려해 보세요. 한 번의 긴 기다림으로 완벽하게 동작하는 코드를 얻는 것이 실무 생산성 측면에서는 압도적 이득입니다.
-
-- **Q: 내부 사고 과정(Thinking Process)을 프롬프트에서 직접 통제할 수는 없나요?**
-  - A: 모델의 기본 사고 메커니즘을 덮어씌우는 것은 불가능하지만, 사고의 '방향성'을 유도할 수는 있습니다. 예를 들어 제약사항에 *"보안 취약점 측면에서 가장 먼저 리스크를 검토할 것"*이라는 단서를 주면, 모델의 내부 사고 과정이 보안 중심으로 강하게 튜닝됩니다.
+**Der Schlüssel liegt im "Vertrauen".** Genauso wie Sie einem brillanten Senior-Entwickler ein Kernprojekt anvertrauen würden, sollten Sie auf Mikromanagement verzichten. Investieren Sie Ihre Energie stattdessen in die klare Definition: **"Warum ist dieses Ergebnis für unser Business essenziell und wo liegen die absoluten, nicht verhandelbaren Grenzen (Constraints)?"**
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Häufig gestellte Fragen (FAQ)
 
-1. **Success Criteria (성공 기준):** 프롬프트 내에 모델이 스스로 자신의 최종 결과물을 평가하고 검증할 수 있는 명확한 잣대(Self-Reflexion)를 제공하여 품질을 극대화합니다.
-2. **Constraints (제약의 힘):** Reasoning 모델이 가장 예민하게 반응하고 철저하게 지키는 파트가 바로 '제약 조건'입니다. 모델이 자유롭게 사고(창의성)하되, 실무에서 벗어나지 않도록 견고한 가드레일을 쳐줍니다.
-3. **Instruction 간소화:** "어떻게(How)"에 대한 장황한 지시를 제거함으로써 토큰을 절약하고, 모델의 자율적인 추론 능력이 100% 발휘될 수 있는 공간을 마련했습니다.
+- **F: Sollte ich alte CoT-Prompts (Schritt-für-Schritt-Inferenz) jetzt komplett verwerfen?**
+  - A: Nein. Bei **Non-Reasoning-Modellen (herkömmlichen generativen Modellen)** wie GPT-4o oder Claude 3.5 Sonnet ist der CoT-Ansatz, bei dem Sie die logische Struktur aktiv vorgeben, nach wie vor überlegen. Die neue, zielorientierte Methode sollten Sie spezifisch dann anwenden, wenn Sie dedizierte "Reasoning-Modelle" wie o3 oder Gemini Flash Thinking aufrufen.
+
+- **F: Reasoning-Modelle haben aufgrund ihrer "Denkzeit" oft langsame Antwortzeiten. Sind sie in der Praxis überhaupt brauchbar?**
+  - A: Das ist korrekt. Die initiale Antwortzeit (TTFT, Time To First Token) ist naturgemäß länger als bei Standardmodellen. Betrachten Sie jedoch die **gesamte Bearbeitungszeit (Total Task Time)**: Wie oft müssen Sie bei unvollständigem Code iterieren ("Hier ist ein Fehler", "Dieses Paket fehlt")? Eine einzige, etwas längere Wartezeit in Kauf zu nehmen, um dafür sofort perfekt funktionierenden Code zu erhalten, bietet in der Praxis einen massiven Produktivitätsvorteil.
+
+- **F: Kann ich den internen Denkprozess (Thinking Process) über den Prompt direkt steuern?**
+  - A: Sie können den grundlegenden Denkmechanismus des Modells nicht überschreiben, aber Sie können die **Richtung der Gedanken lenken**. Wenn Sie den Einschränkungen beispielsweise den Hinweis hinzufügen: *"Prüfe zuerst zwingend alle Risiken hinsichtlich möglicher Sicherheitslücken"*, wird der interne Denkprozess des Modells stark und proaktiv auf den Bereich Sicherheit fokussiert.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomie des Prompts (Warum funktioniert das?)
 
-### ❌ Before (구식 마이크로매니징 방식)
+1. **Erfolgskriterien (Success Criteria):** Indem Sie dem Modell einen klaren Maßstab an die Hand geben, anhand dessen es sein eigenes Endergebnis evaluieren und verifizieren kann (Self-Reflection), maximieren Sie die Output-Qualität.
+2. **Die Macht der Einschränkungen (Constraints):** Der Teil des Prompts, auf den Reasoning-Modelle am sensibelsten reagieren und den sie am striktesten befolgen, sind die Einschränkungen. Sie setzen feste Leitplanken (Guardrails), die verhindern, dass die kreativen Lösungsansätze des Modells an den Anforderungen der Praxis vorbeigehen.
+3. **Vereinfachung der Instruktionen:** Durch den Verzicht auf weitschweifige Anweisungen zum "Wie" sparen Sie Token und schaffen gleichzeitig den Freiraum, in dem sich die autonome Logik des Modells zu 100 % entfalten kann.
+
+---
+
+## 📊 Der Beweis: Vorher & Nachher
+
+### ❌ Vorher (Veraltetes Mikromanagement)
 
 ```text
-대규모 데이터를 처리하는 파이썬 코드를 짜줘. 1단계: 변수명을 직관적으로 정해. 2단계: 데이터 전처리 함수를 정의해. 3단계: 예외 처리를 꼼꼼하게 넣어. 4단계: 각 줄마다 주석을 상세히 달아...
+Schreibe einen Python-Code zur Verarbeitung großer Datenmengen. Schritt 1: Wähle intuitive Variablennamen. Schritt 2: Definiere Funktionen zur Datenvorverarbeitung. Schritt 3: Füge eine detaillierte Fehlerbehandlung hinzu. Schritt 4: Kommentiere jede einzelne Zeile ausführlich...
 ```
 
-**결과:** 지시받은 순서와 형식은 기계적으로 지켰으나, 메모리 누수가 발생하기 쉬운 비효율적인 로직이 포함되었고 최신 분산 처리 라이브러리를 활용하지 못하는 등 **엔지니어링 퀄리티가 떨어짐.**
+**Ergebnis:** Das Modell hielt sich zwar mechanisch an die vorgegebene Reihenfolge und Formatierung, lieferte jedoch ineffiziente Logikstrukturen (Gefahr von Memory Leaks) und vernachlässigte moderne Bibliotheken zur verteilten Verarbeitung. **Die Engineering-Qualität war mangelhaft.**
 
-### ✅ After (Reasoning 최적화 방식)
+### ✅ Nachher (Reasoning-Optimierung)
 
 ```text
-대용량 로그 데이터를 처리하는 가장 효율적인 파이썬 스크립트를 작성해. 단, 메모리 사용량을 최소화하는 것이 가장 큰 목표(Success Criteria)이며, `pandas` 대신 반드시 `polars` 라이브러리를 사용해(Constraints).
+Schreibe das effizienteste Python-Skript zur Verarbeitung massiver Log-Datenmengen. Oberstes Ziel (Success Criteria) ist die absolute Minimierung des Speicherverbrauchs. Anstelle von `pandas` muss zwingend die Bibliothek `polars` verwendet werden (Constraints).
 ```
 
-**결과:** 모델이 스스로 `polars`의 Lazy Execution(지연 실행) 장점을 분석해 내고 청크(Chunk) 단위 처리 로직을 선제적으로 도입하는 등, **시니어급 엔지니어가 작성한 수준의 완벽히 최적화된 코드를 단 한 번에 생성.**
+**Ergebnis:** Das Modell analysierte selbstständig die Vorteile der Lazy Execution in `polars` und implementierte proaktiv eine Chunk-basierte Verarbeitungslogik. **Es generierte im ersten Versuch hochoptimierten Code auf dem Niveau eines Senior-Engineers.**
 
 ---
 
-## 🎯 결론
+## 🎯 Fazit
 
-프롬프트 엔지니어링의 생명은 끝나지 않았습니다. 기술의 발전과 함께 **"지시자(Instructor)"의 역할에서 "시스템 설계자(System Designer)"의 역할로 진화**했을 뿐입니다.
+Das Prompt-Engineering ist nicht am Ende. Mit dem technologischen Fortschritt hat sich lediglich unsere Rolle von der eines **"Instrukteurs (Instructor)" zu der eines "Systemdesigners (System Designer)"** gewandelt.
 
-이제 뛰어난 AI에게 '단순한 답'을 구걸하지 말고, 깊이 있는 '사고'를 요구하십시오. 여러분이 명확한 목표와 제약만 제대로 설계한다면, 결과물은 언제나 당신의 상상을 뛰어넘을 것입니다.
+Hören Sie auf, eine brillante KI um "einfache Antworten" anzubetteln. Fordern Sie tiefgründiges "Denken" ein. Wenn Sie klare Ziele und präzise Grenzen setzen, werden die Ergebnisse Ihre Vorstellungen jedes Mal übertreffen.
 
-이제 생각하는 AI에게 무거운 고민을 넘겨두고, 우리는 기분 좋게 칼퇴합시다! 🍷
+Überlassen Sie der denkenden KI die schwere kognitive Arbeit – und genießen Sie Ihren wohlverdienten, pünktlichen Feierabend! 🍷

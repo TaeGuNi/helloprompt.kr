@@ -1,6 +1,6 @@
-import { describe, it, expect } from "vitest";
-import { TrustReportGenerator } from "./TrustReport";
+import { describe, expect, it } from "vitest";
 import { PriceCalculator } from "../pricing/PriceCalculator";
+import { TrustReportGenerator } from "./TrustReport";
 
 describe("TrustReportGenerator", () => {
   it("should generate a report with receipt and spec", () => {

@@ -5,116 +5,116 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: '"나중에 써야지" 하고 메모장에 대충 붙여넣은 코드들, 다시 찾으려면 한세월이죠? AI를 활용해 코드 스니펫을 깔끔하게 정리하고 문서화하는 방법을 소개합니다.'
+description: '¿Pierdes horas buscando fragmentos de código que copiaste y pegaste "para usar más tarde"? Descubre cómo usar la IA para organizar y documentar limpiamente tus snippets.'
 tags: [AI, Coding, Productivity, Refactoring]
 ---
 
-# 📝 뒤죽박죽 코드 조각, AI로 완벽 정리 끝! (AI Code Snippet Manager)
+# 📝 ¡Pon fin al caos de tus fragmentos de código con IA! (AI Code Snippet Manager)
 
-- **🎯 추천 대상:** 1~3년 차 주니어 개발자, 나만의 코드 위키를 만들고 싶은 분, 복붙 코드가 넘쳐나는 분
-- **⏱️ 소요 시간:** 30분 → 1분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (코드 리팩토링 및 문서화에 탁월), ChatGPT (GPT-4o)
+- **🎯 Público objetivo:** Desarrolladores junior (1-3 años), personas que desean crear su propia wiki de código, aquellos con demasiados códigos copiados y pegados.
+- **⏱️ Tiempo ahorrado:** De 30 minutos → a 1 minuto
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (excelente para refactorización y documentación), ChatGPT (GPT-4o)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _""분명 예전에 짜둔 코드인데... 이름이 뭐였더라?" 검색창만 30분째 두드리고 있다면, 이제 멈추세요."_
+> _"Si llevas 30 minutos golpeando el teclado buscando en tu buscador ese código que juras haber escrito antes... es hora de detenerte."_
 
-개발자라면 누구나 바탕화면 구석에 '보물 창고' 같은 텍스트 파일 하나쯤은 가지고 계실 겁니다. 스택오버플로우에서 간신히 찾아낸 정규표현식, 기가 막히게 작성한 유틸리티 함수, 언젠가 꼭 쓸 것 같은 Nginx 설정 파일들까지.
+Todo desarrollador tiene, escondido en algún rincón de su escritorio, un archivo de texto que es como una "caja de tesoros". Expresiones regulares que encontraste de milagro en StackOverflow, funciones de utilidad magistrales o archivos de configuración de Nginx que "seguro usarás algún día".
 
-하지만 정작 급할 때 찾으려면 어디에 두었는지, 어떻게 쓰는 코드였는지 기억나지 않아 결국 구글링을 처음부터 다시 시작하곤 하죠. 코드 조각(Snippet)은 '검색의 용이성'과 '사용 예시'가 생명입니다. 대충 긁어온 파편화된 코드도 AI에게 맡기면, 표준 주석은 물론이고 사용 예제와 태그까지 완벽하게 달린 라이브러리로 변신합니다. 여러분의 난잡한 메모장을 체계적인 지식 베이스(Knowledge Base)로 탈바꿈시킬 프롬프트를 소개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **검색 가능한 자산으로 변환:** 출처 불명의 코드 덩어리에 명확한 제목, 태그, 메타데이터를 부여합니다.
-2. **자동 문서화:** 파라미터와 반환값에 대한 표준 주석(JSDoc 등)과 실제 동작하는 예제 코드를 즉시 생성합니다.
-3. **코드 품질 개선:** 깨진 포맷팅과 모호한 변수명을 AI가 교정하여 즉시 재사용 가능한 상태로 만들어줍니다.
+Pero cuando realmente tienes prisa, no recuerdas dónde los guardaste ni cómo funcionaban, y terminas buscando en Google desde cero. La vida de un fragmento de código (Snippet) depende de su "facilidad de búsqueda" y sus "ejemplos de uso". Si dejas esos fragmentos desordenados en manos de la IA, se transformarán en una biblioteca perfecta con comentarios estándar, ejemplos prácticos de uso y etiquetas precisas. Te presentamos el prompt que convertirá tu caótico bloc de notas en una base de conocimientos (Knowledge Base) sistemática y profesional.
 
 ---
 
-## 🚀 해결책: "AI 코드 스니펫 매니저"
+## ⚡️ Resumen de 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Transformación en activos fáciles de buscar:** Asigna títulos claros, etiquetas y metadatos a bloques de código de origen desconocido.
+2. **Documentación automática:** Genera al instante comentarios estándar (como JSDoc) para parámetros y valores de retorno, junto con código de ejemplo funcional.
+3. **Mejora de la calidad del código:** La IA corrige el formato roto y los nombres de variables ambiguos para dejar el código listo para ser reutilizado.
 
-빠르게 코드의 주석과 기본 구조만 다듬고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 소프트웨어 엔지니어링 멘토야.
->
-> **요청:** 아래 코드를 분석해서 포맷팅을 맞추고, 무슨 역할을 하는 코드인지 한 줄 요약과 핵심 주석을 달아줘.
->
-> **코드:**
-> `[여기에 복사한 코드 붙여넣기]`
+## 🚀 Solución: "AI Code Snippet Manager"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites limpiar rápidamente los comentarios y la estructura básica del código.
+
+> **Rol:** Eres un mentor senior en ingeniería de software.
+> 
+> **Tarea:** Analiza el siguiente código, corrige el formato, proporciona un resumen de una línea sobre su función y añade los comentarios clave.
+> 
+> **Código:**
+> `[Pega aquí tu código copiado]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versión Pro (Pro Version)
 
-나만의 완벽한 코드 위키나 Notion, Obsidian 데이터베이스에 넣을 '완성형 마크다운 문서'가 필요할 때 사용하세요.
+Úsala cuando necesites un "documento Markdown perfecto" para añadir a tu wiki de código personal o bases de datos como Notion u Obsidian.
 
-> **역할 (Role):**
-> 너는 깔끔한 문서화와 클린 코드(Clean Code)에 집착하는 10년 차 시니어 테크니컬 라이터 겸 개발자야.
->
-> **상황 (Context):**
->
-> - 배경: 나는 인터넷이나 과거 프로젝트에서 대충 복사해둔 코드 파편들을 모아 나만의 코드 지식 베이스(Notion, Obsidian)를 구축하고 있어.
-> - 목표: 이 코드가 나중에 검색하기 쉽고, 미래의 내가 봤을 때 1초 만에 이해하고 가져다 쓸 수 있도록 완벽하게 문서화된 마크다운 스니펫으로 변환하는 것.
->
-> **요청 (Task):**
->
-> 제공된 `[코드]`를 분석하여 다음 구조의 마크다운 문서로 만들어줘.
->
-> 1. 메타데이터: `Title` (명확한 목적), `Language`, `Tags` (검색용 키워드 3~5개)
-> 2. 설명 (Description): 이 코드가 어떤 문제를 해결하는지 1~2줄로 요약.
-> 3. 리팩토링 및 주석 (Refactored Code): 들여쓰기와 포맷팅을 맞추고, JSDoc(또는 해당 언어의 표준 독스트링) 스타일로 파라미터(`@param`)와 반환값(`@return`)에 대한 상세 주석을 추가해 줘. 모호한 변수명이 있다면 가독성 좋게 수정해 줘.
-> 4. 사용 예시 (Usage Example): 이 코드를 실제 프로젝트에서 어떻게 호출해서 쓰는지 보여주는 간단한 실행 예제 코드를 작성해 줘.
->
-> **제약사항 (Constraints):**
->
-> - 출력 형식은 전체 내용을 하나의 마크다운(Markdown) 문서로 작성해 줘.
-> - 변수나 함수명을 임의로 크게 바꾸지 말고 원본의 의도를 최대한 유지해 줘.
->
-> **주의사항 (Warning):**
->
-> - 코드에 포함된 민감한 정보(IP, 비밀번호 등)가 보인다면 경고 메시지를 먼저 출력해 줘.
-> - `[코드]` 부분은 내가 계속 바꿔서 입력할 테니, 첫 응답으로는 "정리할 코드를 입력해 주세요."라고 대답해.
-
----
-
-## 💡 작성자 코멘트 (Insight)
-
-이 프롬프트는 제 업무 생산성을 기하급수적으로 높여준 '1등 공신'입니다. 저는 이 프롬프트를 Obsidian과 Notion에 템플릿으로 연동해서 사용하고 있습니다.
-
-특히 **Pro Version**의 진가는 '사용 예시(Usage Example)'를 자동으로 만들어준다는 점에 있습니다. 아무리 주석이 잘 되어 있어도 파라미터를 어떻게 넘겨야 하는지 모르면 결국 코드를 다시 분석해야 하거든요. AI가 만들어준 마크다운을 그대로 복사해서 붙여넣기만 하면, 나만의 훌륭한 사내 기술 블로그가 뚝딱 만들어집니다. "미래의 나"를 위해 딱 1분만 투자해 보세요. 나중에 1시간을 아낄 수 있습니다.
+> **Rol (Role):**
+> Eres un escritor técnico y desarrollador senior con 10 años de experiencia, obsesionado con la documentación impecable y el Clean Code.
+> 
+> **Contexto (Context):**
+> 
+> - Fondo: Estoy construyendo mi propia base de conocimientos de código (Notion, Obsidian) recopilando fragmentos que he copiado de internet o de proyectos pasados.
+> - Objetivo: Transformar este código en un snippet en Markdown perfectamente documentado para que sea fácil de buscar en el futuro y que yo, o cualquier otra persona, pueda entenderlo y usarlo en 1 segundo.
+> 
+> **Tarea (Task):**
+> 
+> Analiza el `[Código]` proporcionado y conviértelo en un documento Markdown con la siguiente estructura:
+> 
+> 1. Metadatos: `Title` (propósito claro), `Language`, `Tags` (3 a 5 palabras clave para búsqueda).
+> 2. Descripción (Description): Resume en 1 o 2 líneas qué problema resuelve este código.
+> 3. Refactorización y Comentarios (Refactored Code): Ajusta la indentación y el formato. Añade comentarios detallados usando el estilo JSDoc (o el docstring estándar del lenguaje) para explicar los parámetros (`@param`) y el valor de retorno (`@return`). Si hay nombres de variables ambiguos, modifícalos para mejorar la legibilidad.
+> 4. Ejemplo de uso (Usage Example): Escribe un breve código de ejemplo ejecutable que muestre cómo llamar y usar este código en un proyecto real.
+> 
+> **Restricciones (Constraints):**
+> 
+> - El formato de salida debe ser un único documento en formato Markdown.
+> - No modifiques drásticamente los nombres de variables o funciones sin justificación; mantén la intención original del código tanto como sea posible.
+> 
+> **Advertencias (Warning):**
+> 
+> - Si detectas información confidencial (IPs, contraseñas, etc.) en el código, muestra primero un mensaje de advertencia.
+> - Ingresaré diferentes códigos en la sección `[Código]` de forma continua, así que tu primera respuesta debe ser únicamente: "Por favor, ingresa el código que deseas organizar."
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 💡 Comentario del Autor (Insight)
 
-- **Q: 회사 보안 정책상 외부 AI에 코드를 넣으면 안 되는데 어떡하나요?**
-  - A: API 키, DB 비밀번호, 사내 서버 IP나 독자적인 핵심 비즈니스 로직 등 '민감 정보'는 반드시 삭제하거나 임의의 값(`XXX`, `1234`)으로 마스킹한 후 입력하셔야 합니다. 철저한 보안이 필요하다면 로컬에서 구동되는 Llama 3 같은 오픈소스 모델을 활용하는 것을 권장합니다.
+Este prompt es el "héroe número uno" que ha aumentado exponencialmente mi productividad laboral. Lo tengo integrado como plantilla en Obsidian y Notion.
 
-- **Q: 코드 포맷팅이나 변수명이 제 스타일과 다르게 바뀌면 어쩌죠?**
-  - A: 프롬프트의 **제약사항(Constraints)**에 본인의 코딩 컨벤션을 추가하시면 됩니다. (예: _"변수명은 항상 camelCase를 유지하고, 쌍따옴표 대신 홑따옴표를 사용해."_)
-
-- **Q: 모든 프로그래밍 언어가 다 지원되나요?**
-  - A: 네. Python, JavaScript, Java, C++ 등 주류 언어는 물론, SQL 쿼리문이나 Bash 스크립트, 심지어 복잡한 Dockerfile이나 Kubernetes YAML 파일의 주석 처리에도 완벽하게 동작합니다.
+El verdadero valor de la **Versión Pro** radica en que genera automáticamente el "Ejemplo de uso (Usage Example)". Por muy bien comentado que esté un código, si no sabes qué parámetros pasarle, terminarás teniendo que analizarlo de nuevo. Con solo copiar y pegar el Markdown generado por la IA, creas al instante un excelente blog técnico interno y personal. Invierte solo 1 minuto para tu "yo del futuro". Te ahorrará 1 hora más adelante.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **Role 부여:** AI에게 '테크니컬 라이터 겸 시니어 개발자'라는 페르소나를 씌워, 단순히 코드를 고치는 것을 넘어 다른 사람이 읽기 쉬운 '문서'의 관점에서 접근하도록 유도했습니다.
-2. **검색 최적화(Tags & Title):** Notion이나 Obsidian 등에서 검색할 때 걸릴 만한 메타데이터를 강제로 추출하게 만들어 향후 재사용성을 극대화했습니다.
-3. **Usage Example 강제:** 사용법을 함께 작성하도록 명확하게 지시하여, 추후 코드 분석에 들어가는 인지적 에너지를 차단했습니다.
+- **P: Las políticas de seguridad de mi empresa prohíben poner código en una IA externa, ¿qué hago?**
+  - R: Debes eliminar o enmascarar con valores falsos (`XXX`, `1234`) cualquier "información confidencial", como claves API, contraseñas de bases de datos, IPs de servidores internos o lógica de negocio clave, antes de usar el prompt. Si requieres seguridad absoluta, te recomendamos usar un modelo de código abierto de ejecución local como Llama 3.
+
+- **P: ¿Qué pasa si el formato del código o los nombres de las variables cambian a un estilo diferente al mío?**
+  - R: Simplemente añade tus convenciones de código en las **Restricciones (Constraints)** del prompt. (Por ejemplo: _"Mantén siempre los nombres de variables en camelCase y usa comillas simples en lugar de dobles."_)
+
+- **P: ¿Soporta todos los lenguajes de programación?**
+  - R: Sí. Funciona a la perfección con lenguajes principales como Python, JavaScript, Java, C++, así como con consultas SQL, scripts de Bash, e incluso para comentar archivos Dockerfile o configuraciones YAML de Kubernetes complejos.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (Why it works?)
 
-### ❌ Before (입력)
+1. **Asignación de Rol:** Al darle a la IA el rol de "escritor técnico y desarrollador senior", la inducimos a ir más allá de simplemente corregir el código, abordándolo desde la perspectiva de un "documento" fácil de leer para otros.
+2. **Optimización de Búsqueda (Tags & Title):** Forzamos la extracción de metadatos relevantes para mejorar su localización en herramientas como Notion u Obsidian, maximizando su reutilización futura.
+3. **Imposición de Ejemplos (Usage Example):** Al instruir claramente que se incluya cómo usar el código, eliminamos el esfuerzo cognitivo necesario para analizarlo en el futuro.
+
+---
+
+## 📊 Prueba: Antes y Después (Before & After)
+
+### ❌ Antes (Entrada)
 
 ```javascript
 // 시간차 구하는거
@@ -124,25 +124,25 @@ function cd(d1, d2) {
 }
 ```
 
-### ✅ After (결과)
+### ✅ Después (Resultado)
 
 ````markdown
-**Title:** 두 날짜 간의 일수(Days) 차이 계산 함수
+**Title:** Función para calcular la diferencia de días (Days) entre dos fechas
 **Language:** JavaScript
 **Tags:** `#Date`, `#Utility`, `#TimeDifference`, `#JavaScript`
 
 **Description:**
-두 개의 날짜 문자열(또는 Date 객체)을 입력받아, 두 날짜 사이의 정확한 일수(Days) 차이를 정수로 반환하는 유틸리티 함수입니다.
+Una función de utilidad que toma dos cadenas de fecha (o objetos Date) como entrada y devuelve como número entero la diferencia exacta en días entre ambas.
 
 **Refactored Code:**
 
 ```javascript
 /**
- * 두 날짜 사이의 일수(Days) 차이를 계산합니다.
+ * Calcula la diferencia en días (Days) entre dos fechas.
  *
- * @param {string|Date} targetDate - 비교할 대상 날짜
- * @param {string|Date} baseDate - 기준 날짜
- * @returns {number} 두 날짜 사이의 일수 차이 (targetDate가 더 미래면 양수 반환)
+ * @param {string|Date} targetDate - La fecha objetivo a comparar
+ * @param {string|Date} baseDate - La fecha base
+ * @returns {number} La diferencia en días entre las dos fechas (devuelve un número positivo si targetDate es en el futuro)
  */
 function calculateDaysDifference(targetDate, baseDate) {
   const timeDifference =
@@ -150,7 +150,6 @@ function calculateDaysDifference(targetDate, baseDate) {
   return Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 }
 ```
-````
 
 **Usage Example:**
 
@@ -159,15 +158,16 @@ const today = "2026-02-12";
 const dDay = "2026-12-25";
 
 const daysLeft = calculateDaysDifference(dDay, today);
-console.log(`크리스마스까지 ${daysLeft}일 남았습니다!`);
-// 출력: 크리스마스까지 316일 남았습니다!
+console.log(`¡Faltan ${daysLeft} días para Navidad!`);
+// Salida: ¡Faltan 316 días para Navidad!
 ```
+````
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-복붙해둔 코드는 기억 속에서 사라지지만, 문서화된 스니펫은 든든한 무기가 됩니다.
-이제 메모장에 방치된 파편들을 불러와 AI에게 맡겨보세요. 여러분의 지식 베이스가 구글링보다 빠르고 정확해질 것입니다.
+El código que simplemente copias y pegas desaparece de tu memoria, pero un fragmento bien documentado se convierte en un arma poderosa.
+Ahora, toma esos fragmentos abandonados en tu bloc de notas y déjaselos a la IA. Tu base de conocimientos será más rápida y precisa que buscar en Google.
 
-오늘 완벽하게 정리한 코드 한 줄이, 내일의 칼퇴를 보장합니다! 🚀
+¡Una línea de código perfectamente organizada hoy te garantiza salir a tu hora mañana! 🚀

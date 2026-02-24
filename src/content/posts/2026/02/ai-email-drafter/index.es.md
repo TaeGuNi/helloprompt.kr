@@ -5,143 +5,144 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "'안녕하세요'만 쓰고 멍 때리는 당신을 위한 AI 이메일 비서 프롬프트."
+description: "Un prompt de asistente de correo con IA para ti, que te quedas en blanco después de escribir 'Estimado/a'."
 tags: ["이메일", "ChatGPT", "업무효율", "프롬프트"]
 ---
 
-# 📝 AI로 이메일 초안 3초 만에 만들기
+# 📝 Crea borradores de correos electrónicos con IA en 3 segundos
 
-- **🎯 추천 대상:** 하루 10통 이상 비즈니스 이메일을 작성하는 실무자, 정중한 거절이나 독촉 메일 작성이 부담스러운 직장인
-- **⏱️ 소요 시간:** 10분 → 10초 단축
-- **🤖 추천 모델:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced
+- **🎯 Público objetivo:** Profesionales que escriben más de 10 correos de negocios al día, empleados que se sienten abrumados al redactar correos de rechazo formal o recordatorios de pago.
+- **⏱️ Tiempo ahorrado:** De 10 minutos → 10 segundos
+- **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, Gemini Advanced)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"빈 이메일 창에서 '안녕하세요'만 쓰고 10분째 멍 때리고 있나요? 이제 감정 소모는 AI에게 맡기고 퇴근에 집중하십시오."_
+> _"¿Te quedas mirando la pantalla en blanco durante 10 minutos después de escribir 'Estimado/a'? Deja el desgaste emocional a la IA y concéntrate en terminar tu trabajo para irte a casa."_
 
-비즈니스 커뮤니케이션에서 이메일의 격식은 중요하지만, 문맥을 다듬고 톤앤매너를 맞추는 데 들어가는 시간과 감정 소모는 생각보다 큽니다. AI에게 핵심 목적과 상황만 던져주면, 수신자의 직급과 상황에 맞는 완벽한 비즈니스 이메일을 단 3초 만에 생성할 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **상황과 타겟 명확화:** 발신자와 수신자의 관계, 이메일의 핵심 목적을 AI에게 인지시킵니다.
-2. **톤앤매너 설정:** 상황에 맞게 '정중하게', '단호하게', '설득력 있게' 등 분위기를 세밀하게 조정합니다.
-3. **복사 및 팩트 체크:** 생성된 초안의 고유 명사나 날짜, 숫자 등의 팩트만 확인 후 즉시 발송합니다.
+En la comunicación empresarial, la formalidad de los correos electrónicos es crucial. Sin embargo, el tiempo y la energía emocional que invertimos en refinar el contexto y ajustar el tono son sorprendentemente altos. Si le proporcionas a la IA el propósito principal y el contexto, puedes generar un correo electrónico de negocios impecable, adaptado al cargo del destinatario y a la situación, en solo 3 segundos.
 
 ---
 
-## 🚀 해결책: "비즈니스 이메일 마스터 프롬프트"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Aclarar la situación y el objetivo:** Informa a la IA sobre la relación entre el remitente y el destinatario, y el propósito principal del correo.
+2. **Establecer el tono y estilo (Tone & Manner):** Ajusta finamente el ambiente según la situación: 'formal', 'firme', 'persuasivo', etc.
+3. **Copiar y verificar datos:** Revisa únicamente los hechos, como nombres propios, fechas y cifras en el borrador generado, y envíalo inmediatamente.
 
-빠르게 단순한 내용의 답장이나 안내 메일을 작성할 때 유용합니다.
+---
 
-> **역할:** 너는 유능한 비즈니스 비서야.
-> **요청:** 거래처 김대리님한테 이번 주 금요일 미팅을 다음 주 월요일 14시로 미루자고 정중하게 메일 써줘. 사유는 내부 경영진 일정 변경 때문이야.
+## 🚀 Solución: "Prompt Maestro para Correos de Negocios"
+
+### 🥉 Basic Version (Versión Básica)
+
+Úsalo cuando necesites redactar rápidamente una respuesta sencilla o un correo informativo.
+
+> **Rol:** Eres un asistente de negocios altamente competente.
+> 
+> **Tarea:** Escribe un correo electrónico formal al gerente Kim de nuestra empresa cliente para posponer la reunión de este viernes a las 14:00 horas del próximo lunes. El motivo es un cambio en la agenda de nuestra junta directiva.
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version (Versión Profesional)
 
-중요한 클라이언트나 상사에게 보고할 때, 혹은 껄끄러운 상황(단가 인상, 일정 지연, 독촉, 거절 등)에서 완벽한 문장력이 필요할 때 사용하세요.
+Úsalo cuando informes a clientes importantes o a tu jefe, o cuando necesites una redacción impecable en situaciones incómodas (aumento de precios, retrasos en el cronograma, recordatorios de pago, rechazos, etc.).
 
-> **역할 (Role):** 너는 10년 차 베테랑 B2B 커뮤니케이터이자 전문 비서야.
+> **Rol (Role):** Eres un comunicador B2B veterano con 10 años de experiencia y un asistente ejecutivo experto.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 수신자: `[거래처 박부장님]`
-> - 발신자: `[나 (김대리)]`
-> - 목적: `[견적서 송부 및 검토 기한 안내]`
-> - 핵심 내용:
->   1. `[요청하신 2026년도 신규 프로젝트 견적서 첨부함]`
->   2. `[장기 파트너십을 고려하여 이번 건에 한해 특별히 할인율 5% 추가 적용함]`
->   3. `[다음 주 수요일(2/18) 18시까지 피드백 및 컨펌 부탁함]`
+> - Destinatario: `[Director Park de la empresa cliente]`
+> - Remitente: `[Yo (Subgerente Kim)]`
+> - Propósito: `[Envío de presupuesto y aviso de fecha límite de revisión]`
+> - Puntos clave:
+>   1. `[Adjunto el presupuesto solicitado para el nuevo proyecto de 2026.]`
+>   2. `[Considerando nuestra asociación a largo plazo, hemos aplicado un descuento adicional especial del 5% exclusivamente para este caso.]`
+>   3. `[Solicito sus comentarios y confirmación a más tardar el próximo miércoles (18/2) a las 18:00 horas.]`
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 1. 수신자와 발신자의 직급 차이를 고려하여 완벽한 비즈니스 이메일 격식에 맞춰 작성해.
-> 2. 너무 딱딱하지 않으면서도 신뢰감을 주는 '정중하고 프로페셔널한' 톤앤매너를 유지해.
-> 3. 수신자가 메일을 놓치지 않도록 이메일 제목(Title)을 클릭하고 싶게 센스 있고 명확하게 3가지 버전으로 제안해.
+> 1. Redacta el correo siguiendo estrictamente el formato de un correo de negocios perfecto, teniendo en cuenta la diferencia de jerarquía entre el remitente y el destinatario.
+> 2. Mantén un tono y estilo 'cortés y profesional' que inspire confianza sin ser excesivamente rígido.
+> 3. Propón 3 opciones de asunto (Title) que sean ingeniosas, claras y que motiven al destinatario a hacer clic para no pasar por alto el correo.
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 인사말, 도입부, 본론, 결론, 맺음말로 논리적으로 구성해.
-> - 날짜, 금액, 이름 등 팩트 확인이 필요한 부분은 `[ ]` 괄호 처리하여 내가 직접 수정할 수 있게 해.
-> - 불필요한 미사여구를 남발하지 말고, 핵심 내용이 한눈에 파악되도록 가독성 높게 작성해.
+> - Estructura el correo de forma lógica: saludo inicial, introducción, desarrollo, conclusión y despedida.
+> - Coloca entre corchetes `[ ]` los datos que requieran verificación (fechas, montos, nombres, etc.) para que yo pueda modificarlos directamente.
+> - Evita la palabrería innecesaria y redacta con alta legibilidad para que los puntos clave se entiendan de un vistazo.
 >
-> **주의사항 (Warning):**
+> **Advertencia (Warning):**
 >
-> - 확실하지 않은 추가 조건이나 상황을 절대 지어내지 마. (환각 방지)
+> - Bajo ninguna circunstancia inventes condiciones adicionales o situaciones de las que no estés seguro. Si no tienes la información, indícalo. (Prevención de alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del autor (Insight)
 
-이 프롬프트의 진가는 사실 단순 안내보다는 **'껄끄러운 의사소통'**을 해야 할 때 발휘됩니다. 거절, 독촉, 불만 제기 등 감정이 섞이기 쉬운 상황에서 우리는 종종 공격적으로 변하거나 반대로 너무 위축되어 요지를 흐리게 됩니다.
+El verdadero valor de este prompt brilla no en los avisos simples, sino cuando tienes que lidiar con **'comunicaciones incómodas'**. En situaciones donde es fácil que se mezclen las emociones, como al rechazar una propuesta, reclamar un pago atrasado o expresar una queja, a menudo nos volvemos agresivos o, por el contrario, nos intimidamos tanto que diluimos el mensaje principal.
 
-AI는 감정이 없기 때문에 "미수금 언제 주실 건가요?"라는 날것의 감정을 "지난달 정산 대금 입금 일정을 확인 부탁드립니다"라는 드라이하면서도 예의 바른 비즈니스 언어로 우아하게 번역해 줍니다. 프로 버전 프롬프트의 핵심 내용과 괄호(`[ ]`) 속 내용만 여러분의 상황에 맞게 변경하여 강력한 템플릿으로 활용해 보세요.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 영어 비즈니스 이메일도 동일한 프롬프트로 작성 가능한가요?**
-  - A: 완벽하게 가능합니다. "요청(Task)" 항목에 `출력 언어는 비즈니스 영어를 사용하고, 원어민이 자주 쓰는 자연스러운 관용구를 포함해 줘`라고 한 줄만 추가해 보세요. 번역기를 돌린 것보다 훨씬 자연스럽고 세련된 원어민 수준의 결과물을 얻을 수 있습니다.
-
-- **Q: 클라이언트가 아니라 내부 팀원이나 상사에게 보낼 때는 어떻게 수정하나요?**
-  - A: "상황(Context)"의 수신자와 발신자 관계를 `[팀장님]`과 `[팀원]`으로 변경하고, "요청(Task)"의 톤앤매너를 `보고서 스타일로 핵심만 간결하게`, 또는 `친근하지만 예의를 갖춰서` 등으로 미세 조정하시면 완벽하게 타겟팅된 메일이 완성됩니다.
-
-- **Q: AI가 쓴 티가 너무 나지 않을까요?**
-  - A: 프롬프트 내에 '불필요한 미사여구 제외'라는 제약사항을 두었기 때문에 챗GPT 특유의 번역투나 과장된 표현이 크게 줄어듭니다. 생성된 초안에서 본인만의 평소 인사말이나 맺음말 정도만 살짝 다듬어주면 사람이 쓴 것과 구별할 수 없습니다.
+Como la IA carece de emociones, traduce elegantemente un sentimiento crudo como "¿Cuándo me van a pagar?" en un lenguaje corporativo aséptico y cortés: "Me dirijo a usted para solicitar amablemente la confirmación de la fecha programada para el depósito del mes pasado". Simplemente modifica los puntos clave de la Versión Pro y los textos entre corchetes (`[ ]`) para adaptarlos a tu contexto y conviértelo en una plantilla infalible.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **Role (역할 부여):** '10년 차 베테랑 B2B 커뮤니케이터'라는 페르소나를 씌워 AI가 비즈니스 환경에 최적화된 고급 어휘와 정제된 표현을 사용하도록 강제했습니다.
-2.  **Context (상황 및 관계 명시):** 수신자와 발신자의 관계(직급)를 명확히 하여, 한국어 비즈니스 이메일에서 가장 까다로운 높임말과 호칭 문제를 해결했습니다.
-3.  **Constraints (빈칸 템플릿화):** 변경되어야 할 고유 명사나 날짜를 `[ ]` 기호로 묶도록 지시하여, 실무자가 팩트 체크 과정에서 중요한 정보를 누락하는 치명적인 실수를 방지합니다.
+- **P: ¿Puedo usar este mismo prompt para redactar correos de negocios en inglés?**
+  - R: Absolutamente. Solo añade una línea en la sección "Tarea (Task)": `El idioma de salida debe ser inglés de negocios, incluyendo expresiones idiomáticas naturales utilizadas frecuentemente por hablantes nativos`. Obtendrás un resultado mucho más sofisticado y natural que usando un simple traductor.
+
+- **P: ¿Cómo lo modifico si quiero enviarlo a un compañero de equipo o a mi jefe en lugar de a un cliente?**
+  - R: Cambia la relación en el "Contexto (Context)" a `[Jefe de equipo]` y `[Miembro del equipo]`, y ajusta sutilmente el tono en la "Tarea (Task)" a `Estilo de informe, directo al grano y conciso` o `Amigable pero respetuoso`. Así obtendrás un correo perfectamente adaptado a la dinámica interna.
+
+- **P: ¿No será muy evidente que lo escribió una IA?**
+  - R: Al haber incluido la restricción de 'evitar la palabrería innecesaria' en el prompt, se reducen significativamente las expresiones exageradas o el tono robótico típicos de las IAs. Si haces unos pequeños ajustes en el saludo o la despedida utilizando tus propias palabras, será indistinguible de un correo escrito por un humano.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (입력)
+1.  **Role (Asignación de rol):** Al imponer la persona de un 'comunicador B2B veterano con 10 años de experiencia', forzamos a la IA a utilizar vocabulario avanzado y expresiones refinadas optimizadas para el entorno empresarial.
+2.  **Context (Especificación de situación y relación):** Al aclarar la relación (jerarquía) entre el destinatario y el remitente, resolvemos los problemas más complejos de formalidad y tratamientos de respeto, vitales en la comunicación corporativa.
+3.  **Constraints (Plantilla con espacios en blanco):** Ordenar que los nombres propios o fechas que deben modificarse se encierren entre corchetes `[ ]` evita el error fatal de que un profesional omita información importante durante la verificación de datos antes del envío.
+
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Entrada del usuario)
 
 ```text
-박부장님, 저번에 말씀하신 견적서 보냅니다. 이번엔 특별히 5% 더 깎아드렸어요. 다음주 수욜까지 알려주세요.
+Director Park, le envío el presupuesto que mencionamos el otro día. Esta vez le hicimos un descuento del 5% extra. Avíseme antes del miércoles que viene.
 ```
 
-### ✅ After (결과)
+### ✅ Después (Resultado de la IA)
 
 ```text
-제목 1: [견적 송부] 요청하신 2026년 신규 프로젝트 견적서 전달 드립니다 (추가 할인 적용)
-제목 2: [요청] 신규 프로젝트 견적서 송부의 건 (검토 기한: ~2/18)
-제목 3: [회사명] 신규 프로젝트 견적서 및 세부 내역 안내드립니다
+Opción 1: [Envío de presupuesto] Adjunto presupuesto del nuevo proyecto 2026 (Descuento adicional aplicado)
+Opción 2: [Solicitud] Envío de presupuesto para nuevo proyecto (Fecha límite de revisión: ~18/2)
+Opción 3: [Nombre de tu empresa] Información detallada y presupuesto para el nuevo proyecto
 
-박부장님, 안녕하십니까?
-[회사명] 김대리입니다.
+Estimado Director Park, espero que se encuentre muy bien.
+Le saluda Kim, de [Nombre de tu empresa].
 
-요청해 주신 [2026년도 신규 프로젝트] 관련 견적서를 첨부와 같이 송부 드립니다.
+Tal como solicitó, le adjunto a este correo el presupuesto correspondiente al [nuevo proyecto para 2026].
 
-그동안 보내주신 깊은 신뢰와 장기 파트너십을 고려하여, 이번 건에 한해 기존 논의된 금액에서 특별히 5% 추가 할인을 적용해 드렸습니다.
+Teniendo en cuenta la profunda confianza y la asociación a largo plazo que mantenemos, excepcionalmente para esta ocasión hemos aplicado un descuento adicional del 5% sobre el importe acordado previamente.
 
-첨부된 견적서 및 세부 내역을 검토해 보시고, 일정 진행에 차질이 없도록 [다음 주 수요일(2/18) 18시]까지 피드백 또는 컨펌 회신을 부탁드리겠습니다.
+Le ruego que revise el presupuesto adjunto y los detalles especificados, y nos envíe sus comentarios o la confirmación a más tardar el [próximo miércoles (18 de febrero) a las 18:00 horas] para garantizar que el cronograma avance sin contratiempos.
 
-내용 중 수정이 필요하시거나 추가로 궁금한 점이 있으시면 언제든지 편하게 연락 주십시오.
+Si necesita alguna modificación o tiene alguna duda adicional, por favor no dude en contactarme en cualquier momento.
 
-감사합니다.
+Atentamente,
 
-[김대리] 드림
+[Subgerente Kim]
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusión
 
-이메일 작성은 업무의 시작일 뿐, 핵심이 아닙니다. 비즈니스 매너를 갖추느라 모니터 앞에서 낭비했던 시간과 에너지를 이제는 더 창의적이고 가치 있는 본업에 쏟으십시오.
+Redactar correos electrónicos es solo el comienzo de tu trabajo, no el núcleo. Deja de desperdiciar tiempo y energía frente al monitor intentando mantener la etiqueta empresarial, e inviértelos en tareas más creativas y valiosas de tu profesión.
 
-스트레스 없는 이메일 소통으로 오늘도 칼퇴하시길 바랍니다! 🍷
+¡Espero que disfrutes de una comunicación por correo sin estrés y que hoy también puedas salir del trabajo a tu hora! 🍷

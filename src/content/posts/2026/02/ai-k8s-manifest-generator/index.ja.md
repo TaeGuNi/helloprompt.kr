@@ -5,133 +5,133 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: 들여쓰기 하나만 틀려도 에러 나는 YAML 지옥. 이제 AI에게 맡기세요. Deployment, Service, Ingress까지 완벽한 쿠버네티스 매니페스트를 생성하는 프롬프트입니다.
+description: インデントが1つずれるだけでエラーになるYAML地獄。もうAIに任せましょう。Deployment、Service、Ingressまで完璧なKubernetesマニフェストを生成するプロンプトです。
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 
-# ☸️ 복잡한 쿠버네티스 YAML, AI로 1초 만에 생성하기 (AI K8s Manifest Gen)
+# ☸️ 複雑なKubernetesのYAMLをAIで1秒で生成する (AI K8s Manifest Gen)
 
-- **🎯 추천 대상:** 데브옵스 엔지니어, 백엔드 개발자, 인프라 관리가 버거운 K8s 입문자
-- **⏱️ 소요 시간:** 30분 (공식 문서 검색 및 디버깅) → 1분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet (코드 구조화에 탁월), GPT-4o
+- **🎯 おすすめの対象者:** DevOpsエンジニア、バックエンド開発者、インフラ管理に苦戦しているK8s初心者
+- **⏱️ 所要時間:** 30分（公式ドキュメントの検索とデバッグ） → 1分に短縮
+- **🤖 おすすめのモデル:** Claude 3.5 Sonnet（コードの構造化に優れる）、GPT-4o
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **難易度:** ⭐⭐☆☆☆
+- ⚡️ **効果:** ⭐⭐⭐⭐⭐
+- 🚀 **活用度:** ⭐⭐⭐⭐⭐
 
-> _"들여쓰기(Indent) 한 칸 때문에 배포 실패하고 30분 동안 로그를 뒤져본 적 있나요? 지옥 같은 YAML 작성, 이제 AI에게 완벽하게 외주 맡기세요."_
+> _「インデントが1つずれたせいでデプロイに失敗し、30分間もログと格闘したことはありませんか？地獄のようなYAML作成は、もうすべてAIに完璧に外注しましょう。」_
 
-쿠버네티스(Kubernetes)는 현대 인프라의 표준이지만, 매번 백지상태에서 YAML을 작성하는 것은 고통스러운 작업입니다. `apiVersion` 버전을 헷갈리거나, `selector`와 `labels`의 매칭을 실수하고, 복잡한 공식 문서를 뒤지며 기존 코드를 복사-붙여넣기(Ctrl+C/V) 하다가 치명적인 휴먼 에러를 발생시키곤 합니다.
+Kubernetes（K8s）は現代のインフラの標準ですが、毎回ゼロからYAMLを記述するのは苦痛を伴う作業です。`apiVersion`を間違えたり、`selector`と`labels`のマッチングでミスをしたり、複雑な公式ドキュメントを漁りながら既存のコードをコピペして致命的なヒューマンエラーを起こすことも少なくありません。
 
-이제 자연어로 "이러한 스펙의 서버를 띄워줘"라고 지시만 하세요. AI가 오타 없이, 모범 사례(Best Practices)가 적용된 무결점 YAML 매니페스트를 단 1초 만에 뱉어냅니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 자연어로 요구사항(이미지, 포트, 환경변수)만 입력하면 K8s YAML 파일이 자동 생성됩니다.
-2. Deployment, Service, Ingress 등 여러 리소스를 `---` 구분자로 묶어 한 번에 작성할 수 있습니다.
-3. 리소스 제한(Requests/Limits), 상태 점검(Probes) 등 운영 환경의 Best Practice를 누락 없이 적용해 줍니다.
+これからは自然言語で「こういうスペックのサーバーを立ち上げて」と指示するだけにしましょう。AIがタイポなしで、ベストプラクティス（Best Practices）が適用された無欠点のYAMLマニフェストをたった1秒で出力してくれます。
 
 ---
 
-## 🚀 해결책: "K8s 아키텍트 프롬프트"
+## ⚡️ 3行まとめ (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. 自然言語で要件（イメージ、ポート、環境変数など）を入力するだけで、K8sのYAMLファイルが自動生成されます。
+2. Deployment、Service、Ingressなど、複数のリソースを `---` 区切りで一つのファイルにまとめて作成できます。
+3. リソース制限（Requests/Limits）やヘルスチェック（Probes）など、本番環境向けのベストプラクティスを漏れなく適用してくれます。
 
-로컬 테스트나 간단한 파드(Pod)를 빠르게 띄워야 할 때 사용하세요.
+---
 
-> **역할:** 너는 시니어 쿠버네티스 엔지니어(Kubernetes Engineer)야.
+## 🚀 解決策: 「K8sアーキテクトプロンプト」
+
+### 🥉 Basic Version（基本型）
+
+ローカルでのテストや、シンプルなPodを素早く立ち上げたい場合に使用してください。
+
+> **役割:** あなたはシニアKubernetesエンジニア（Kubernetes Engineer）です。
 >
-> **요청:** 다음 사양에 맞는 K8s YAML 매니페스트를 작성해 줘.
+> **タスク:** 以下の仕様に合わせたK8sのYAMLマニフェストを作成してください。
 >
-> - **앱 이름:** `[my-web-app]`
-> - **도커 이미지:** `[nginx:alpine]`
-> - **포트:** `[80]`
-> - **복제본 수:** `[3]`
+> - **アプリ名:** `[my-web-app]`
+> - **Dockerイメージ:** `[nginx:alpine]`
+> - **ポート:** `[80]`
+> - **レプリカ数:** `[3]`
 >
-> **제약사항:** Deployment와 Service를 `---`로 구분해서 하나의 파일로 만들어줘.
+> **制約事項:** DeploymentとServiceを `---` で区切り、1つのファイルにまとめてください。
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version（専門家型）
 
-운영 환경(Production)에 바로 투입할 수 있는 탄탄하고 안전한 매니페스트가 필요할 때 사용하세요.
+本番環境（Production）にそのままデプロイできる、堅牢で安全なマニフェストが必要な場合に使用してください。
 
-> **역할 (Role):**
-> 너는 클라우드 네이티브 인프라를 설계하는 '시니어 데브옵스 아키텍트(Senior DevOps Architect)'야. K8s의 모범 사례(Best Practices)와 보안 원칙을 완벽하게 숙지하고 있어.
+> **役割 (Role):**
+> あなたはクラウドネイティブインフラを設計する「シニアDevOpsアーキテクト（Senior DevOps Architect）」です。K8sのベストプラクティス（Best Practices）とセキュリティ原則を完璧に熟知しています。
 >
-> **상황 (Context):**
+> **状況 (Context):**
 >
-> - 배경: 운영 환경(Production)에 새로운 마이크로서비스를 배포해야 해.
-> - 목표: 안정성, 확장성, 보안성이 모두 고려된 무결점 K8s YAML 매니페스트를 작성하는 것.
+> - 背景: 本番環境（Production）に新しいマイクロサービスをデプロイする必要があります。
+> - 目標: 安定性、スケーラビリティ、セキュリティのすべてが考慮された、欠陥のないK8sのYAMLマニフェストを作成すること。
 >
-> **요청 (Task):**
+> **タスク (Task):**
 >
-> 1. 아래 **[애플리케이션 명세]**를 바탕으로 K8s YAML을 작성해.
-> 2. `Deployment`, `Service`, `Ingress`(필요시) 리소스를 작성하고 `---`로 구분해 줘.
-> 3. 각 리소스 블록 상단에 이 설정이 어떤 역할을 하는지 주석(`#`)을 달아줘.
+> 1. 以下の **[アプリケーション仕様]** をもとに、K8sのYAMLを作成してください。
+> 2. `Deployment`、`Service`、`Ingress`（必要に応じて）の各リソースを作成し、 `---` で区切ってください。
+> 3. 各リソースブロックの上部に、その設定がどのような役割を果たすのか、コメント（`#`）を記述してください。
 >
-> **[애플리케이션 명세]**
+> **[アプリケーション仕様]**
 >
-> - **앱 이름:** `[payment-service]`
-> - **컨테이너 이미지:** `[myregistry.com/payment:v1.2.0]`
-> - **컨테이너 포트:** `[8080]`
-> - **서비스 타입:** `[ClusterIP]`
+> - **アプリ名:** `[payment-service]`
+> - **コンテナイメージ:** `[myregistry.com/payment:v1.2.0]`
+> - **コンテナポート:** `[8080]`
+> - **サービスタイプ:** `[ClusterIP]`
 > - **Replicas:** `[3]`
-> - **환경 변수 (Env):** `[SPRING_PROFILES_ACTIVE=prod, DB_HOST=postgres-svc]`
+> - **環境変数 (Env):** `[SPRING_PROFILES_ACTIVE=prod, DB_HOST=postgres-svc]`
 >
-> **제약사항 (Constraints):**
+> **制約事項 (Constraints):**
 >
-> - **Best Practices 필수 적용:** `livenessProbe`와 `readinessProbe`를 적절한 엔드포인트(`/actuator/health` 등)와 타임아웃 기본값으로 반드시 추가할 것.
-> - **Resource Management:** CPU와 Memory의 `requests`와 `limits`를 보수적인 예시 값으로 설정할 것.
-> - **Security Context:** 컨테이너가 `root` 권한으로 실행되지 않도록 `runAsNonRoot: true` 설정을 예시로 포함할 것.
-> - **출력 형식:** 오직 마크다운 코드 블록(` ```yaml `)으로만 결과를 출력할 것. 불필요한 서론이나 인사말은 생략해.
+> - **Best Practicesの必須適用:** `livenessProbe` と `readinessProbe` を、適切なエンドポイント（`/actuator/health` など）とデフォルトのタイムアウト値で必ず追加すること。
+> - **Resource Management:** CPUとMemoryの `requests` および `limits` を、保守的なサンプル値で設定すること。
+> - **Security Context:** コンテナが `root` 権限で実行されないように、 `runAsNonRoot: true` の設定を例として含めること。
+> - **出力形式:** 結果は必ずMarkdownのコードブロック（` ```yaml `）のみで出力すること。不要な前置きや挨拶は省略してください。
 >
-> **주의사항 (Warning):**
+> **注意事項 (Warning):**
 >
-> - `apiVersion`은 최신 K8s 버전에 맞는 안정화된(stable) 버전을 사용해 (`apps/v1`, `networking.k8s.io/v1` 등).
-> - `labels`와 `selector`의 매핑이 정확히 일치하는지 두 번 확인해.
+> - `apiVersion` は、最新のK8sバージョンに適合した安定版（stable）を使用してください（`apps/v1`、`networking.k8s.io/v1` など）。
+> - `labels` と `selector` のマッピングが正確に一致しているか、必ず再確認してください。
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 筆者コメント (Insight)
 
-이 프롬프트는 단순한 '타이핑 봇'을 넘어, 신입 개발자가 자주 놓치는 인프라 설정(리소스 제한, 헬스 체크, 루트 권한 제한)을 강제로 챙기게 만드는 **'자동화된 코드 리뷰어'** 역할을 합니다.
+このプロンプトは、単なる「タイピングボット」を超え、新人エンジニアがよく見落としがちなインフラ設定（リソース制限、ヘルスチェック、root権限の制限など）を強制的に考慮させる**「自動化されたコードレビュアー」**として機能します。
 
-하지만 주의할 점이 있습니다. AI가 생성한 YAML 파일을 바로 클러스터에 꽂아 넣는 것은 위험합니다. 항상 파일로 저장한 뒤, **`kubectl apply --dry-run=client -f deploy.yaml`** 명령어를 통해 문법적 오류가 없는지, 의도한 리소스가 맞는지 클라이언트 단에서 사전 검증하는 습관을 들이세요. 운영 환경에서는 이 프롬프트를 Kustomize의 베이스(base) 파일이나 Helm의 템플릿(template) 초안을 잡는 용도로 활용하면 생산성이 극대화됩니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: AWS EKS나 GCP GKE 전용 설정(Annotation 등)도 반영되나요?**
-  - A: 네, 가능합니다. 프롬프트의 **[애플리케이션 명세]** 부분에 "AWS ALB Ingress Controller용 어노테이션 추가" 또는 "GCP Internal LoadBalancer 설정 반영"이라고 한 줄만 추가하면 클라우드 프로바이더에 맞는 정확한 메타데이터를 생성해 줍니다.
-
-- **Q: 생성된 YAML을 Helm Chart 형식으로 바꿀 수 있나요?**
-  - A: 물론입니다. 위 프롬프트로 YAML을 생성한 뒤, 이어서 _"이 매니페스트를 Helm Chart 구조로 변환해 줘. 이미지 태그, 레플리카 수, 리소스 제한을 `values.yaml`로 분리해 줘."_ 라고 요청하면 완벽한 Helm 템플릿 문법(`{{ .Values.replicaCount }}`)으로 재작성해 줍니다.
-
-- **Q: API 버전(apiVersion)이 구버전으로 나오면 어떡하나요?**
-  - A: AI의 학습 데이터 시점에 따라 간혹 `extensions/v1beta1` 같은 구버전이 나올 수 있습니다. 이를 방지하기 위해 Pro 프롬프트의 **주의사항**에 최신 버전을 명시하도록 강제해 두었습니다. 혹시라도 구버전이 나온다면 _"K8s v1.28 기준으로 apiVersion을 업데이트해 줘"_ 라고 피드백하세요.
+ただし、注意点があります。AIが生成したYAMLファイルをそのままクラスターに適用するのは危険です。必ずファイルとして保存した後、 **`kubectl apply --dry-run=client -f deploy.yaml`** コマンドを使用して、構文エラーがないか、意図したリソース構成になっているかをクライアント側で事前検証する習慣をつけてください。本番環境においては、このプロンプトをKustomizeのbaseファイルや、Helmテンプレートのドラフトを作成するためのツールとして活用すると、生産性が劇的に向上します。
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 よくある質問 (FAQ)
 
-1.  **시니어 아키텍트 페르소나 (Role):** AI에게 '보안과 확장성을 중시하는 시니어' 역할을 부여함으로써, 단순히 기능만 동작하는 코드가 아닌 운영 수준(Production-ready)의 퀄리티를 강제합니다.
-2.  **모범 사례 강제 (Constraints):** 인프라 장애의 주범인 리소스 누수(OOM)나 좀비 파드를 막기 위해 `requests/limits`와 `Probes` 작성을 필수 조건으로 박아두었습니다.
-3.  **마크다운 출력 제한 (Format):** "오직 코드 블록만 출력해"라는 지시를 통해, 불필요한 AI의 부연 설명 없이 코드를 바로 복사(Copy)할 수 있게 최적화했습니다.
+- **Q: AWS EKSやGCP GKE専用の設定（Annotationなど）も反映できますか？**
+  - A: はい、可能です。プロンプトの **[アプリケーション仕様]** の部分に「AWS ALB Ingress Controller用のAnnotationを追加」または「GCPのInternal LoadBalancer設定を反映」と一言追加するだけで、各クラウドプロバイダーに最適化された正確なメタデータを生成してくれます。
+
+- **Q: 生成されたYAMLをHelm Chartの形式に変換することはできますか？**
+  - A: もちろんです。上記のプロンプトでYAMLを生成した後、続けて _「このマニフェストをHelm Chartの構造に変換して。イメージタグ、レプリカ数、リソース制限を `values.yaml` に分離して」_ とリクエストすれば、完璧なHelmテンプレート構文（`{{ .Values.replicaCount }}` など）で再構築してくれます。
+
+- **Q: apiVersionが古いバージョンで出力された場合はどうすればいいですか？**
+  - A: AIの学習データの時期によっては、稀に `extensions/v1beta1` のような古いバージョンが出力されることがあります。これを防ぐため、Pro版プロンプトの**注意事項**で最新バージョンを指定するように強制しています。万が一古いバージョンが出力された場合は、 _「K8s v1.28を基準にしてapiVersionをアップデートして」_ とフィードバックを与えてください。
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 プロンプトの解剖学 (Why it works?)
 
-### ❌ Before (우리가 자주 하는 실수)
+1. **シニアアーキテクトのペルソナ (Role):** AIに「セキュリティとスケーラビリティを重視するシニアエンジニア」の役割を与えることで、単に動くだけのコードではなく、本番環境レベル（Production-ready）の品質を強制します。
+2. **ベストプラクティスの強制 (Constraints):** インフラ障害の主な原因となるリソースリーク（OOM）やゾンビPodを防ぐため、 `requests/limits` と `Probes` の記述を必須条件として組み込んでいます。
+3. **Markdown出力の制限 (Format):** 「コードブロックのみを出力して」と指示することで、AIの不要な説明を省き、コードをすぐにコピー（Copy）できるように最適化しました。
 
-수동으로 작성하다 보면 `selector`의 레이블 매칭을 틀리거나, 리소스 제한을 빼먹기 일쑤입니다.
+---
+
+## 📊 検証: Before & After
+
+### ❌ Before（よくある失敗例）
+
+手動で記述すると、 `selector` のラベルマッチングを間違えたり、リソース制限を書き忘れたりしがちです。
 
 ```yaml
-# 수동으로 대충 짠 YAML (위험함)
+# 手動で適当に書いたYAML（危険）
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -140,7 +140,7 @@ spec:
   replicas: 3
   selector:
     matchLabels:
-      app: wrong-app # 👈 오타 발생! Pod 매칭 실패
+      app: wrong-app # 👈 タイポ発生！Podのマッチングに失敗
   template:
     metadata:
       labels:
@@ -149,16 +149,16 @@ spec:
       containers:
         - name: my-app
           image: my-app:latest
-          # 👈 Liveness Probe 없음, Resource Limits 없음
+          # 👈 Liveness Probeなし、Resource Limitsなし
 ```
 
-### ✅ After (AI K8s Manifest Gen 사용)
+### ✅ After（AI K8s Manifest Gen 使用）
 
-단 한 번의 요청으로 의존성이 정확히 연결되고 Best Practice가 적용된 결과를 얻습니다.
+たった1回のリクエストで、依存関係が正確に紐付き、ベストプラクティスが適用された結果を得ることができます。
 
 ```yaml
 ---
-# [Deployment] payment-service 애플리케이션 배포 설정
+# [Deployment] payment-service アプリケーションのデプロイ設定
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -176,7 +176,7 @@ spec:
         app: payment-service
     spec:
       securityContext:
-        runAsNonRoot: true # 보안 원칙: 루트 권한 실행 방지
+        runAsNonRoot: true # セキュリティ原則: root権限での実行を防止
       containers:
         - name: payment-service
           image: myregistry.com/payment:v1.2.0
@@ -208,7 +208,7 @@ spec:
             initialDelaySeconds: 15
             periodSeconds: 5
 ---
-# [Service] payment-service 내부 통신을 위한 ClusterIP
+# [Service] payment-service 内部通信のためのClusterIP
 apiVersion: v1
 kind: Service
 metadata:
@@ -218,7 +218,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: payment-service # Deployment의 레이블과 완벽히 일치
+    app: payment-service # Deploymentのラベルと完璧に一致
   ports:
     - port: 80
       targetPort: 8080
@@ -227,10 +227,10 @@ spec:
 
 ---
 
-## 🎯 결론
+## 🎯 結論
 
-인프라스트럭처를 코드로 관리(IaC)하는 시대에, 사람이 직접 띄어쓰기를 세어가며 YAML 문법과 싸우는 것은 심각한 리소스 낭비입니다.
+インフラストラクチャをコードとして管理（IaC）する現代において、人間が手作業でスペースの数を数えながらYAMLの構文と格闘するのは、深刻なリソースの無駄遣いです。
 
-이제 문법 구조는 AI에게 맡기고, 데브옵스 엔지니어는 **'이 아키텍처가 우리 서비스에 적합한가?', '보안 취약점은 없는가?'**와 같은 더 높은 차원의 아키텍처 설계와 시스템 최적화에 집중하세요. AI 프롬프트 하나가 여러분의 퇴근 시간을 앞당겨 줄 것입니다.
+これからは構文や構造の作成をAIに任せ、DevOpsエンジニアは**「このアーキテクチャは自社のサービスに適切か？」「セキュリティの脆弱性はないか？」**といった、より高度なインフラ設計やシステムの最適化に集中してください。このプロンプト一つが、あなたの退勤時間を大幅に早めてくれるはずです。
 
-지금 바로 복사해서 터미널 옆에 띄워두고 사용해 보세요! 🚀
+今すぐコピーして、ターミナルの横に置いて活用してみましょう！ 🚀

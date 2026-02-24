@@ -22,13 +22,11 @@ const postsByLang: Record<
 > = {};
 
 // 한국어 처리
-postsByLang["ko"] = getRandomPosts(filterPublishedPosts(koPosts), 4).map(
-  (p) => ({
-    title: p.frontmatter.title,
-    description: p.frontmatter.description,
-    url: p.url,
-  }),
-);
+postsByLang.ko = getRandomPosts(filterPublishedPosts(koPosts), 4).map((p) => ({
+  title: p.frontmatter.title,
+  description: p.frontmatter.description,
+  url: p.url,
+}));
 
 // 다국어 처리
 const groupedOthers: Record<string, Post[]> = {};
@@ -37,7 +35,7 @@ otherPosts.forEach((post) => {
   // 파일 경로에서 언어 코드 추출
   // post.file 예시: /Users/.../src/pages/en/posts/abc.md
   const match = post.file.match(/\/pages\/([a-z]{2})\/posts\//);
-  if (match && match[1]) {
+  if (match?.[1]) {
     const lang = match[1];
     if (!groupedOthers[lang]) groupedOthers[lang] = [];
     groupedOthers[lang].push(post);

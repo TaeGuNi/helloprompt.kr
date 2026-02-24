@@ -5,128 +5,128 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 생산성"
-description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트."
+description: "Un prompt magico per trasformare trascrizioni confuse in chiari Action Item e decisioni, risparmiando ore di lavoro."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 
-# 📝 회의록 지옥 탈출: 1시간 회의를 10초 만에 정리하는 프롬프트
+# 📝 Fuga dall'Inferno dei Verbali: Il Prompt per Riassumere 1 Ora di Riunione in 10 Secondi
 
-- **🎯 추천 대상:** 막내 PM, 회의록 전담 신입사원, 수많은 미팅에 치이는 리더
-- **⏱️ 소요 시간:** 30분 → 10초
-- **🤖 추천 모델:** Claude 3.5 Sonnet (긴 문맥 처리에 압도적), GPT-4o
+- **🎯 Consigliato per:** Junior PM, Nuovi assunti addetti ai verbali, Leader sommersi da infinite riunioni
+- **⏱️ Tempo richiesto:** Da 30 minuti → a 10 secondi
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet (eccezionale per testi lunghi), GPT-4o
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficoltà:** ⭐☆☆☆☆
+- ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
-> _"회의는 끝났는데, 회의록을 쓰느라 또 30분 야근하시나요? 이제 '복사+붙여넣기' 한 번으로 회의록 작성에서 완전히 해방되세요."_
+> _"La riunione è finita, ma ti aspetta ancora mezz'ora di straordinari per scrivere il verbale? Liberati per sempre da questo incubo con un semplice 'Copia e Incolla'."_
 
-클로바노트나 Zoom 자막으로 스크립트는 확보했지만, 막상 열어보면 "아, 그니까, 저기..." 같은 군더더기와 정적만이 가득합니다. 이 날것의 텍스트를 상사나 팀원들에게 그대로 공유할 수는 없죠. 실무에서 진짜 필요한 것은 **'누가(Who), 언제까지(When), 무엇을 할 것인가(What)'**가 명확히 정리된 액션 아이템입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **날것의 스크립트는 죄악이다:** 잡담과 불필요한 추임새를 완벽하게 걷어내는 전처리 과정이 필수입니다.
-2. **구조화가 생명이다:** 회의의 '결정 사항(Decision)'과 '할 일(Action Item)'을 명확하게 분리하여 가독성을 극대화하세요.
-3. **책임 소재의 명확화:** 모든 Action Item에는 반드시 담당자와 마감 기한(R&R)이 꼬리표처럼 붙어야 실행력이 생깁니다.
+Hai ottenuto la trascrizione tramite Zoom o altri tool, ma aprendola trovi solo esitazioni come "Ehm, insomma, cioè..." e silenzi imbarazzanti. Non puoi certo condividere questo testo grezzo con il tuo capo o il team. Quello che serve davvero sul campo sono **Action Item** chiari che definiscano **'Chi (Who), entro Quando (When) e Cosa farà (What)'**.
 
 ---
 
-## 🚀 해결책: "회의록 마스터(Meeting Minutes Master)"
+## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-### 🥉 Basic Version (기본형)
+1. **Le trascrizioni grezze sono inutili:** È fondamentale un processo di pulizia per eliminare chiacchiere e intercalari superflui.
+2. **La struttura è tutto:** Separa nettamente le 'Decisioni (Decision)' dalle 'Cose da fare (Action Item)' per massimizzare la leggibilità.
+3. **Responsabilità chiare:** Ogni Action Item deve avere obbligatoriamente un responsabile e una scadenza (R&R) per garantire che venga eseguito.
 
-복잡한 양식 없이, 빠르게 핵심 내용만 파악해야 할 때 유용합니다.
+---
 
-> **역할:** 너는 `[전문 비서]`야.
-> **요청:** 아래 회의 스크립트를 분석해서 1) 주요 논의 안건, 2) 최종 결정 사항, 3) 향후 계획으로 깔끔하게 요약해 줘.
+## 🚀 La Soluzione: "Il Maestro dei Verbali (Meeting Minutes Master)"
+
+### 🥉 Versione Base (Basic Version)
+
+Ideale quando hai bisogno di cogliere rapidamente i punti chiave senza formattazioni complesse.
+
+> **Ruolo:** Sei un `[Assistente Esecutivo]`.
+> **Richiesta:** Analizza la trascrizione della riunione qui sotto e riassumila in modo chiaro in: 1) Argomenti principali discussi, 2) Decisioni finali prese, 3) Prossimi passi.
 >
-> `[여기에 회의 스크립트 붙여넣기]`
+> `[Incolla qui la trascrizione della riunione]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Versione Pro (Pro Version)
 
-임원 보고서나 팀 슬랙(Slack)에 그대로 복사해서 붙여넣을 수 있는 완벽한 포맷으로 변환합니다.
+Trasforma il testo in un formato perfetto, pronto per essere incollato direttamente in un report per i dirigenti o su Slack.
 
-> **역할 (Role):** 너는 10년 차 수석 PM이자 핵심을 짚어내는 완벽한 서기(Scribe)야.
+> **Ruolo (Role):** Sei un Senior PM con 10 anni di esperienza e un verbalizzatore impeccabile, capace di cogliere l'essenza di ogni discorso.
 >
-> **상황 (Context):**
+> **Contesto (Context):**
 >
-> - 배경: 방금 종료된 `[회의 주제]` 관련 회의의 음성 인식 텍스트(녹취록)야. 내용은 두서가 없고 참석자들의 잡담이 섞여 있어.
-> - 목표: 팀원들이 회의 결과를 즉각적으로 파악하고, 각자의 업무(Action)를 바로 실행에 옮길 수 있는 명확한 '회의 결과 보고서' 작성.
+> - Background: Questa è la trascrizione (speech-to-text) di una riunione appena conclusa sul tema `[Argomento della Riunione]`. Il contenuto è disordinato e include chiacchiere tra i partecipanti.
+> - Obiettivo: Creare un "Report di Riunione" chiaro e conciso che permetta al team di comprendere immediatamente i risultati e di passare subito all'azione.
 >
-> **요청 (Task):**
+> **Richiesta (Task):**
 >
-> 제공된 스크립트를 꼼꼼히 분석하여, 반드시 아래의 마크다운 형식으로 구조화해서 정리해 줘.
+> Analizza attentamente la trascrizione fornita e strutturala rigorosamente nel seguente formato Markdown:
 >
-> 1.  **🔍 회의 개요**
->     - 일시 및 참석자 (추론 가능할 경우 기재)
->     - 회의 핵심 주제 (1줄 요약)
-> 2.  **✅ 주요 결정 사항 (Decisions)**
->     - 확정된 내용만 간결한 불릿 포인트(`-`)로 나열해.
-> 3.  **🏃‍♂️ 액션 아이템 (Action Items)**
->     - 모바일에서도 읽기 쉬운 체크리스트(`- [ ]`) 형태로 구조화해.
->     - 포맷: `- [ ] **[담당자]**: [구체적인 할 일] (기한: [마감일, 언급 없으면 'TBD'])`
-> 4.  **💬 주요 논의 사항 (Discussion)**
->     - 치열한 쟁점이 되었거나 새롭게 도출된 아이디어를 2~3줄로 요약해.
+> 1.  **🔍 Panoramica della Riunione**
+>     - Data, ora e partecipanti (deducili se possibile)
+>     - Tema principale della riunione (riassunto in 1 riga)
+> 2.  **✅ Decisioni Principali (Decisions)**
+>     - Elenca solo i punti confermati usando un elenco puntato conciso (`-`).
+> 3.  **🏃‍♂️ Action Item (Cose da fare)**
+>     - Strutturali come una checklist (`- [ ]`) facilmente leggibile anche da mobile.
+>     - Formato: `- [ ] **[Responsabile]**: [Azione specifica] (Scadenza: [Data di scadenza, se non menzionata usa 'TBD'])`
+> 4.  **💬 Punti di Discussione (Discussion)**
+>     - Riassumi in 2-3 righe i temi più dibattuti o le nuove idee emerse.
 >
-> **제약사항 (Constraints):**
+> **Vincoli (Constraints):**
 >
-> - "음...", "저기..." 같은 추임새나 업무와 무관한 사담은 100% 필터링해.
-> - 모호한 표현(예: "잘 해보자", "나중에 보자")은 철저히 배제하고, 구체적인 팩트와 행동 지침만 기록해.
-> - 특정 작업의 담당자가 스크립트상 명확하지 않다면 담당자 란에 'TBD(미정)'라고 정확히 명시해.
-> - 사실이 아닌 내용을 지어내지 마. (환각 방지)
+> - Filtra al 100% esitazioni ("Ehm...", "Cioè...") e conversazioni personali non pertinenti al lavoro.
+> - Escludi espressioni vaghe (es: "Facciamo del nostro meglio", "Vediamo poi") e registra solo fatti concreti e direttive d'azione.
+> - Se il responsabile di un'attività non è chiaro dalla trascrizione, scrivi esplicitamente 'TBD (Da definire)' nel campo del responsabile.
+> - Non inventare informazioni non presenti nel testo (Evita le allucinazioni).
 >
-> **스크립트 데이터:**
-> `[여기에 클로바노트/녹취록 텍스트 전체 붙여넣기]`
+> **Dati della Trascrizione:**
+> `[Incolla qui l'intera trascrizione audio/testo]`
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Il Commento dell'Autore (Insight)
 
-이 프롬프트는 제가 실제로 사내 Notion 회의록 템플릿에 연동해 두고 매일같이 사용하는 '비밀 무기'입니다. 특히 **Claude 3.5 Sonnet** 모델은 방대한 양의 텍스트(Long Context)를 처리하는 능력이 현존 최고 수준이라, 1~2시간짜리 긴 회의 녹취록을 통째로 밀어 넣어도 맥락을 놓치지 않고 기가 막히게 핵심을 뽑아냅니다.
+Questo prompt è la mia 'arma segreta' che utilizzo quotidianamente, integrandolo direttamente nel template dei verbali su Notion della mia azienda. In particolare, il modello **Claude 3.5 Sonnet** ha una capacità di gestione del contesto lungo (Long Context) che è attualmente ai vertici del settore; anche inserendogli la trascrizione completa di una riunione di 1-2 ore, non perde il filo e ne estrae il succo in modo magistrale.
 
-**💡 실전 팁:** 스크립트를 AI에게 전달하기 전, 맨 윗줄에 `참석자: 김철수(마케팅), 이영희(개발)`라고 직군이나 이름을 명시해 주면 AI가 발화자의 역할을 인지하여 화자 분리 및 담당자(R&R) 매칭의 정확도가 비약적으로 상승합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 텍스트가 너무 길어서 AI가 입력을 거부하거나 중간에 잘립니다.**
-  - A: 클로바노트 등에서 텍스트를 내보낼 때 '시간 기록 포함' 옵션을 끄고 순수 텍스트만 추출하세요. 그래도 용량 제한에 걸린다면, 스크립트를 절반으로 나누어 "이 내용에 이어서 요약해 줘"라고 순차적으로 프롬프트를 입력하면 완벽하게 해결됩니다.
-
-- **Q: 사내 대외비 회의 내용을 AI에 올려도 안전한가요?**
-  - A: 민감한 정보가 포함된 회의라면 기업용(Enterprise) AI 도입을 강력히 권장합니다. 부득이하게 일반 AI를 사용해야 한다면, 고유명사(특정 기업명, 핵심 프로젝트명, 구체적인 재무 수치 등)를 반드시 'A사', 'B프로젝트', 'X원' 등으로 **비식별화(마스킹)** 처리한 후 입력하셔야 합니다.
+**💡 Suggerimento Pratico:** Prima di passare la trascrizione all'IA, aggiungi all'inizio una riga come `Partecipanti: Mario Rossi (Marketing), Laura Bianchi (Sviluppo)`. Specificando i ruoli o i nomi, l'IA riconoscerà molto meglio chi sta parlando, aumentando drasticamente la precisione nell'assegnazione delle responsabilità (R&R).
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Domande Frequenti (FAQ)
 
-1.  **Format Enforcing (강제된 출력 형식):** 액션 아이템을 단순 줄글이나 가로 스크롤이 생기는 표(Table) 대신 '체크리스트(`- [ ]`)와 담당자/기한' 구조로 강제하여, 모바일 환경에서의 가독성을 높이고 업무 누락을 원천 차단했습니다.
-2.  **Noise Filtering (노이즈 제거):** 제약사항에 추임새 및 사담 제거를 명확히 지시하여, 정보의 밀도(Signal-to-Noise Ratio)를 극대화했습니다.
-3.  **TBD Handling (불확실성 통제):** 담당자가 배정되지 않은 업무를 AI가 임의로 배정하지 않고 '미정(TBD)'으로 분류하게 만들어, 실무에서 흔히 발생하는 '책임 공백(Hole)'을 시각적으로 뚜렷하게 드러내 줍니다.
+- **Q: Il testo è troppo lungo e l'IA si blocca o taglia la risposta a metà.**
+  - A: Quando esporti il testo (es. da Zoom), disattiva l'opzione "Includi timestamp" per estrarre solo il testo puro. Se superi ancora il limite di caratteri, dividi la trascrizione a metà e inseriscila in due passaggi, dicendo all'IA: "Continua a riassumere da qui". Questo risolverà il problema perfettamente.
+
+- **Q: È sicuro inserire i contenuti riservati delle riunioni aziendali nell'IA?**
+  - A: Per riunioni contenenti informazioni sensibili, raccomandiamo vivamente l'uso di soluzioni IA aziendali (Enterprise). Se devi usare un'IA pubblica, è assolutamente necessario **anonimizzare (mascherare)** i nomi propri (es. nome dell'azienda, nomi di progetti chiave, dati finanziari specifici) sostituendoli con 'Azienda A', 'Progetto B', 'X Euro' prima di inserirli.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia del Prompt (Why it works?)
 
-### ❌ Before (입력: 가공되지 않은 녹취록)
+1.  **Format Enforcing (Forzatura del Formato):** Invece di usare un testo continuo o tabelle che creano scorrimento orizzontale, forziamo l'uso di 'Checklist (`- [ ]`) con Responsabile/Scadenza'. Questo migliora la leggibilità su mobile e previene drasticamente le dimenticanze.
+2.  **Noise Filtering (Rimozione del Rumore):** Istruendo esplicitamente l'IA a rimuovere intercalari e chiacchiere, massimizziamo la densità delle informazioni (Rapporto Segnale/Rumore).
+3.  **TBD Handling (Gestione dell'Incertezza):** Impedendo all'IA di assegnare arbitrariamente compiti senza un responsabile chiaro e costringendola a usare 'TBD', evidenziamo visivamente i 'vuoti di responsabilità', un problema molto comune nella pratica aziendale.
 
-> "아, 그 김 대리님, 이번 주까지 그... 메인 배너 시안 있잖아요? 그거 좀 부탁드려요. 아 맞다, 오늘 점심 뭐 먹지? (웃음) 아무튼 그거 중요하니까 꼭 좀 일정 맞춰서..."
+---
 
-### ✅ After (결과: AI 요약 보고서)
+## 📊 La Prova: Before & After
 
-> **🏃‍♂️ 액션 아이템 (Action Items)**
+### ❌ Before (Input: Trascrizione Grezza)
+
+> "Ah, senti Marco, per... per quella bozza del banner principale entro questa settimana? Me la potresti fare? Ah giusto, cosa mangiamo oggi a pranzo? (ride) Comunque quella cosa è importante, quindi per favore rispetta le tempistiche..."
+
+### ✅ After (Risultato: Report IA)
+
+> **🏃‍♂️ Action Item (Cose da fare)**
 >
-> - [ ] **김 대리**: 메인 배너 시안 제작 및 디자인 공유 (기한: 이번 주 금요일 예상) _※ 중요도 높음_
+> - [ ] **Marco**: Creazione e condivisione della bozza del banner principale (Scadenza: Prevista per questo Venerdì) _※ Alta Priorità_
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusione
 
-회의록은 단순히 어제의 대화를 '기록'하는 문서가 아니라, 내일의 '행동'을 이끌어내기 위한 전략 문서입니다.
-이제 10초 만에 완벽한 회의록을 생성하고, 남은 귀중한 시간은 진짜 핵심 업무에 (혹은 달콤한 휴식에) 투자하세요.
+Un verbale non è un semplice documento per 'registrare' le conversazioni di ieri, ma un documento strategico per guidare le 'azioni' di domani.
+Genera verbali perfetti in 10 secondi e investi il tempo risparmiato nel lavoro che conta davvero (o in un meritato riposo).
 
-이제 칼퇴하세요! 🍷
+Ora puoi staccare prima! 🍷

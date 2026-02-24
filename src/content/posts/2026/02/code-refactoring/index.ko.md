@@ -5,103 +5,108 @@ author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Coding/IT"
-description: "A powerful prompt that transforms messy, 'just-works' spaghetti code into clean, readable, and highly maintainable architecture."
+description: "스파게티 코드를 깔끔하고 유지보수하기 쉬운 클린 코드로 탈바꿈시켜주는 강력한 리팩토링 프롬프트입니다."
 tags: ["Refactoring", "Clean Code", "Developer", "Code Review"]
 ---
 
 # 📝 My Code is Trash?! Clean Code Refactoring Coach
 
-- **🎯 Recommended For:** All Developers (Junior to Senior)
-- **⏱️ Time Required:** 30 minutes → 1 minute
-- **🤖 Recommended Model:** Any conversational AI (ChatGPT, Claude, Gemini)
+- **🎯 추천 대상:** 주니어부터 시니어까지 모든 개발자
+- **⏱️ 소요 시간:** 30분 → 1분 단축
+- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
 
-- ⭐ **Difficulty:** ⭐⭐☆☆☆
-- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
-- 🚀 **Utility:** ⭐⭐⭐⭐☆
+- ⭐ **난이도:** ⭐⭐☆☆☆
+- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
+- 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-> _"I swore I’d refactor it later. A year passed, and now I'm terrified to even look at it."_
+> _"나중에 꼭 리팩토링해야지 다짐해놓고, 1년 뒤 다시 열어본 코드에 경악한 적 있으신가요?"_
 
-Spaghetti code is the silent killer of productivity. When readability plummets, bugs hide in plain sight and feature development grinds to a halt. This prompt summons the spirit of a seasoned Principal Engineer (think Robert C. Martin's "Clean Code") to ruthlessly scrub, polish, and optimize your code until it shines.
-
----
-
-## ⚡️ 3-Line Summary (TL;DR)
-
-1. **Extract & Simplify:** Eradicates duplicate logic and modularizes bloated functions.
-2. **Semantic Naming:** Replaces cryptic variables with crystal-clear, intuitive names.
-3. **Modernization:** Upgrades archaic syntax to modern standards for peak performance.
+스파게티 코드는 개발 생산성을 갉아먹는 조용한 암살자입니다. 가독성이 무너지면 버그는 교묘하게 숨어들고, 새로운 기능 개발은 끝없이 지연됩니다. 이 프롬프트는 로버트 C. 마틴의 '클린 코드' 철학을 체화한 수석 엔지니어(Principal Engineer)의 영혼을 소환하여, 여러분의 코드가 완벽하게 빛날 때까지 무자비하게 닦고 다듬어 줍니다.
 
 ---
 
-## 🚀 Solution: "The Clean Code Refiner"
+## ⚡️ 3줄 요약 (TL;DR)
 
-### 🥉 Basic Version
+1. **로직 분리 및 단순화:** 중복된 코드를 제거하고 비대해진 함수를 단일 책임 원칙에 따라 모듈화합니다.
+2. **시맨틱 네이밍:** 직관적이지 않은 암호 같은 변수명을 누구나 이해할 수 있는 명확한 이름으로 변경합니다.
+3. **모던 신택스 적용:** 구시대적인 문법을 최신 언어 표준으로 업그레이드하여 성능과 가독성을 극대화합니다.
 
-When you need a quick cleanup without overthinking it.
+---
 
-> **Role:** You are a Senior Software Architect.
-> **Task:** Refactor the following code to make it clean, readable, and highly maintainable.
+## 🚀 해결책: "클린 코드 리파이너"
+
+### 🥉 Basic Version (기본형)
+
+복잡한 고민 없이 코드의 겉모습을 빠르게 다듬고 싶을 때 사용하세요.
+
+> **역할:** 너는 `[수석 소프트웨어 아키텍트]`야.
+> **요청:** 다음 코드를 가독성이 높고 유지보수하기 쉬운 클린 코드로 리팩토링해줘.
 
 <br>
 
-### 🥇 Pro Version
+### 🥇 Pro Version (전문가형)
 
-When you need an enterprise-grade refactoring session with detailed explanations.
+상세한 설명과 함께 엔터프라이즈급 리팩토링 세션이 필요할 때 사용하세요.
 
-> **Role:** You are a `[Clean Code Evangelist & Principal Engineer]`.
+> **역할 (Role):** 너는 `[클린 코드 전도사이자 수석 엔지니어(Principal Engineer)]`야.
 >
-> **Context:**
+> **상황 (Context):**
 >
-> - Background: My code works functionally, but it's messy, tightly coupled, and hard to read (Dirty Code).
-> - Goal: Refactor it to be scalable, robust, and easy to maintain by other developers.
+> - 배경: `[현재 내 코드는 기능적으로는 작동하지만, 강하게 결합되어 있고 가독성이 떨어지는 스파게티 코드야.]`
+> - 목표: `[이 코드를 확장 가능하고 견고하며, 다른 개발자가 쉽게 유지보수할 수 있도록 리팩토링하는 것]`
 >
-> **Task:**
+> **요청 (Task):**
 >
-> 1. **Semantic Naming:** Rename variables and functions to be highly intuitive and self-documenting (e.g., change `a` to `userAge`).
-> 2. **Structural Integrity:** Break down massive functions based on the Single Responsibility Principle (SRP). Consolidate any duplicate logic.
-> 3. **Modernization:** Refactor using the latest, most idiomatic syntax for the target language (e.g., ES6+ for JS, Python 3.10+).
-> 4. **Code Review:** Provide a concise Before/After breakdown explaining exactly _why_ each change was made.
+> 1. **시맨틱 네이밍:** 변수와 함수명을 직관적이고 자기 문서화(Self-documenting)가 가능하도록 변경해. (예: `a`를 `userAge`로 변경)
+> 2. **구조적 무결성:** 단일 책임 원칙(SRP)에 따라 거대한 함수를 쪼개고, 중복된 로직을 통합해.
+> 3. **모더니제이션:** 타겟 언어의 가장 최신이자 관용적인 문법을 사용하여 리팩토링해. (예: JS는 ES6+, Python은 3.10+ 사용)
+> 4. **코드 리뷰:** 변경된 각 항목에 대해 **왜(Why)** 그렇게 수정했는지 설명하는 'Before/After 분석'을 명확하게 제공해.
 >
-> **Constraints:**
+> **제약사항 (Constraints):**
 >
-> - The core business logic and functional behavior MUST remain exactly the same.
-> - Only add comments for complex business logic. Remove redundant comments if the new code is self-explanatory.
-> - Output the final code in a Markdown code block.
+> - 핵심 비즈니스 로직과 기능적 동작은 **반드시** 기존과 동일하게 유지해야 해.
+> - 복잡한 비즈니스 로직에만 주석을 추가하고, 새 코드가 스스로 설명 가능하다면 불필요한 주석은 제거해.
+> - 최종 코드는 마크다운 코드 블럭 형식으로 출력해.
 >
-> **Target Code:**
-> `[Paste your spaghetti code here]`
+> **주의사항 (Warning):**
+>
+> - 확실하지 않은 최신 문법을 지어내지 마. (환각 방지)
+>
+> **대상 코드:**
+>
+> `[여기에 리팩토링할 스파게티 코드를 붙여넣으세요]`
 
 ---
 
-## 💡 Writer's Insight
+## 💡 작성자 코멘트 (Insight)
 
-This prompt is a lifesaver when inheriting legacy code or returning to a rushed prototype. The magic lies in the **Code Review** instruction. By forcing the AI to explain _why_ it made changes (like applying early returns or removing magic numbers), you don't just get better code—you actually learn how to write better code yourself. I highly recommend running your PRs through this prompt before submitting them; it catches those embarrassing "tired developer" mistakes instantly.
-
----
-
-## 🙋 Frequently Asked Questions (FAQ)
-
-- **Q: Will this prompt change the logic and break my app?**
-  - A: The constraints strictly instruct the AI to preserve the original behavior. However, always run your unit tests after applying AI-generated refactoring to guarantee no edge-case regressions occurred.
-
-- **Q: Does this work for obscure or older programming languages?**
-  - A: Yes. Large Language Models have been trained on vast repositories of code in almost every language. Just specify the exact language and version in the prompt (e.g., "Refactor this legacy Perl 5 script").
-
-- **Q: Is it safe to paste proprietary company code?**
-  - A: Be cautious. Do not paste sensitive API keys, credentials, or highly confidential proprietary logic into public AI models unless your company uses a secure, enterprise-tier AI plan with zero data retention.
+이 프롬프트는 레거시 코드를 물려받았거나, 일정에 쫓겨 급하게 짠 프로토타입 코드를 다시 손봐야 할 때 그야말로 구세주 같은 역할을 합니다. 핵심은 바로 **'코드 리뷰(Code Review)'** 지시사항에 있습니다. AI에게 Early Return을 적용하거나 매직 넘버를 제거한 이유 등 수정된 부분의 **'왜(Why)'**를 강제로 설명하게 만듦으로써, 단순히 결과물만 얻는 것을 넘어 개발자 스스로 더 나은 코드를 작성하는 방법을 학습할 수 있습니다. PR을 올리기 전 이 프롬프트를 한 번 돌려보는 것을 강력히 추천합니다. 피곤함에 찌든 개발자가 흔히 저지르는 부끄러운 실수들을 즉각적으로 잡아내 줍니다.
 
 ---
 
-## 🧬 Prompt Anatomy (Why it works?)
+## 🙋 자주 묻는 질문 (FAQ)
 
-1. **Explicit Persona:** Setting the role to "Clean Code Evangelist" primes the AI to prioritize readability and established software design patterns over just making it work.
-2. **Clear Constraints:** Instructing the AI to "remove redundant comments" and "preserve core logic" prevents the hallucination of unnecessary features and keeps the focus strictly on structural improvement.
+- **Q: 이 프롬프트를 사용하면 로직이 변경되거나 앱이 망가지지 않을까요?**
+  - A: 제약사항(Constraints)에 기존 동작을 완벽히 보존하도록 강력하게 지시해 두었습니다. 하지만 AI가 생성한 코드를 적용한 후에는 반드시 유닛 테스트나 통합 테스트를 실행하여 예상치 못한 사이드 이펙트(Edge-case regression)가 발생하지 않았는지 직접 검증해야 합니다.
+
+- **Q: 잘 쓰이지 않는 마이너한 언어나 오래된 버전의 언어에도 적용되나요?**
+  - A: 네, 가능합니다. 대형 언어 모델(LLM)은 거의 모든 프로그래밍 언어의 방대한 코드 베이스를 학습했습니다. 프롬프트에 정확한 언어와 버전을 명시해 주기만 하면 됩니다. (예: "이 레거시 Perl 5 스크립트를 리팩토링해줘.")
+
+- **Q: 회사의 비공개 소스코드를 그대로 붙여넣어도 안전한가요?**
+  - A: 주의가 필요합니다. 회사가 데이터 학습에 사용되지 않는 안전한 엔터프라이즈급 AI 요금제를 사용 중인 것이 아니라면, 민감한 API 키, 자격 증명(Credential), 또는 기업의 핵심 기밀 로직은 퍼블릭 AI 모델에 절대 입력하지 마세요.
 
 ---
 
-## 📊 Proof: Before & After
+## 🧬 프롬프트 해부 (Why it works?)
 
-### ❌ Before (Input)
+1. **명시적 페르소나 (Explicit Persona):** 역할을 '클린 코드 전도사'로 설정함으로써, 단순히 작동만 하는 코드를 넘어서 가독성과 확립된 소프트웨어 디자인 패턴을 최우선으로 고려하도록 AI의 뇌 구조를 세팅했습니다.
+2. **명확한 제약 조건 (Clear Constraints):** "불필요한 주석 제거" 및 "기존 로직 보존" 등의 조건을 통해 불필요한 기능이 추가되는 환각 현상(Hallucination)을 막고, 오로지 코드의 구조적 개선에만 집중하도록 유도했습니다.
+
+---
+
+## 📊 증명: Before & After
+
+### ❌ Before (입력)
 
 ```python
 def calc(x, y):
@@ -114,7 +119,7 @@ def calc(x, y):
         return y
 ```
 
-### ✅ After (Result)
+### ✅ After (결과)
 
 ```python
 def calculate_discounted_price(age: int, base_price: float) -> float:
@@ -129,16 +134,16 @@ def calculate_discounted_price(age: int, base_price: float) -> float:
     return base_price
 ```
 
-**[Improvement Breakdown]**
+**[개선 포인트 분석]**
 
-1. **Semantic Naming:** `calc` became `calculate_discounted_price`, instantly revealing its purpose.
-2. **Magic Numbers Eliminated:** `19` and `0.9` are now clear, editable constants.
-3. **Guard Clauses:** Removed the unnecessary `else` block by using an Early Return, reducing indentation depth.
+1. **시맨틱 네이밍:** `calc`라는 모호한 이름이 `calculate_discounted_price`로 변경되어 함수의 목적이 단번에 드러납니다.
+2. **매직 넘버 제거:** `19`와 `0.9` 같은 숫자들이 명확하고 수정하기 쉬운 상수(Constants)로 대체되었습니다.
+3. **가드 클로즈(Guard Clauses) 적용:** Early Return 기법을 사용하여 불필요한 `else` 블록을 제거하고 들여쓰기(Indentation) 깊이를 줄였습니다.
 
 ---
 
-## 🎯 Conclusion
+## 🎯 결론
 
-Beautiful code reads like a well-crafted essay. Refactor your code not just for the machine, but for the human who has to maintain it tomorrow—which is usually you.
+아름다운 코드는 잘 쓰인 한 편의 에세이처럼 술술 읽혀야 합니다. 기계만을 위한 코드를 짜지 마세요. 내일 그 코드를 유지보수해야 할 사람(십중팔구 미래의 나 자신입니다)을 위해 리팩토링하십시오.
 
-Now close your IDE, log off, and go take a shower. Wash your body, not just your code. 🍷
+자, 이제 IDE를 닫고 컴퓨터 앞을 떠나 샤워하러 가세요. 코드만 씻어내지 말고, 지친 여러분의 몸과 마음도 씻어낼 시간입니다. 🍷

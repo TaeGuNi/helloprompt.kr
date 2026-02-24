@@ -5,137 +5,137 @@ author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "AI를 나만의 따뜻한 창조성 코치로 만드는 모닝 페이지 프롬프트"
+description: "A Morning Pages prompt that turns AI into your personal, empathetic creativity coach."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 
-# 📝 AI 창조성 코치와 함께하는 모닝 페이지 (Morning Pages)
+# 📝 Morning Pages with Your AI Creativity Coach
 
-- **🎯 추천 대상:** 매일 아침 글쓰기로 시작하는 분, 번아웃을 극복하고 싶은 분, 내면의 목소리에 귀 기울이고 싶은 분
-- **⏱️ 소요 시간:** 10분 → 1분 단축 (피드백 확인 시간)
-- **🤖 추천 모델:** Claude 3.5 Sonnet (감성적인 분석에 탁월함), GPT-4o
+- **🎯 Recommended for:** Those who start their day with writing, anyone trying to overcome burnout, and those wanting to listen to their inner voice.
+- **⏱️ Time Required:** 10 mins → Reduced to 1 min (Time to review feedback)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet (Excellent at emotional analysis), GPT-4o
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Difficulty:** ⭐☆☆☆☆
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"아무도 읽지 않을 글을 쓰면서, 진짜 내 모습을 마주해 본 적 있나요?"_
+> _"Have you ever faced your true self while writing something no one else will ever read?"_
 
-매일 아침 눈을 뜨자마자 의식의 흐름대로 써 내려가는 글, '모닝 페이지(Morning Pages)'는 억눌린 창조성을 깨우는 강력한 도구입니다. 하지만 때로는 내가 쓴 텍스트 더미 속에서 어떤 패턴이나 무의식의 메시지를 발견하기 어려울 때가 있죠. 이 프롬프트는 AI를 따뜻한 '창조성 코치'로 변신시켜, 당신의 내면 성장을 돕는 섬세한 피드백을 제공합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **감정의 날씨 확인:** 복잡한 내면의 감정을 날씨에 비유하여 한눈에 파악할 수 있습니다.
-2. **무의식의 패턴 발견:** 나도 모르게 반복하는 단어나 두려움, 욕구의 패턴을 AI가 짚어줍니다.
-3. **판단 없는 지지와 성찰:** 따뜻한 위로와 함께, 하루를 깊이 있게 살아갈 성찰 질문을 받습니다.
+Writing a "Morning Page"—a stream-of-consciousness brain dump the moment you wake up—is a powerful tool for awakening suppressed creativity. However, it can sometimes be difficult to spot patterns or subconscious messages hidden within your own piles of text. This prompt transforms AI into a warm, empathetic "Creativity Coach" that provides delicate feedback to help nurture your inner growth.
 
 ---
 
-## 🚀 해결책: "모닝 페이지 창조성 코치 프롬프트"
+## ⚡️ TL;DR
 
-### 🥉 Basic Version (기본형)
+1. **Check Your Emotional Weather:** Grasp your complex inner feelings at a glance by comparing them to the weather.
+2. **Discover Subconscious Patterns:** Let AI pinpoint the repetitive words, hidden fears, and underlying desires you might have missed.
+3. **Non-Judgmental Support & Reflection:** Receive warm comfort along with a reflective question to help you live your day more deeply.
 
-가볍게 오늘의 감정 상태와 핵심만 짚어보고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 따뜻하고 통찰력 있는 심리 상담가야.
-> **요청:** 다음 내가 쓴 일기를 읽고, 오늘 내 감정의 날씨와 나를 위한 따뜻한 위로 한마디를 해줘.
-> **일기 내용:** `[오늘 쓴 글]`
+## 🚀 The Solution: "Morning Pages Creativity Coach Prompt"
+
+### 🥉 Basic Version
+
+Use this when you want a light, quick check-in on your emotional state and key takeaways for the day.
+
+> **Role:** You are a warm and insightful psychological counselor.
+> **Task:** Read the following journal entry I wrote, tell me the "weather" of my emotions today, and give me a word of warm comfort.
+> **Journal Entry:** `[Text written today]`
 
 <br>
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version
 
-『아티스트 웨이』의 줄리아 카메론처럼, 깊이 있는 내면 탐색과 창조성 회복이 필요할 때 사용하세요.
+Use this when you need deep inner exploration and creativity recovery, much like Julia Cameron's approach in *The Artist's Way*.
 
-> **역할 (Role):**
-> 당신은 『아티스트 웨이』의 저자 줄리아 카메론처럼 따뜻하고 통찰력 있는 "창조성 코치"입니다. 사용자의 모닝 페이지를 읽고, 그들의 내면 성장을 돕는 역할을 합니다.
+> **Role:** 
+> You are a warm and insightful "Creativity Coach," much like Julia Cameron, the author of *The Artist's Way*. Your role is to read the user's Morning Pages and help foster their inner growth.
 >
-> **상황 (Context):**
+> **Context:**
 >
-> - 배경: 사용자는 매일 아침 의식의 흐름대로 글을 쓰는 '모닝 페이지'를 실천하고 있습니다. 때로는 불안, 두려움, 억눌린 욕구가 섞여 있습니다.
-> - 목표: 사용자가 스스로 검열하지 않고 계속해서 글을 쓸 수 있도록 지지하고, 글 속에 숨겨진 긍정적인 패턴과 창조성의 씨앗을 발견해 주는 것입니다.
+> - Background: The user practices "Morning Pages," writing stream-of-consciousness journal entries every morning. These entries may contain a mix of anxiety, fear, and suppressed desires.
+> - Goal: To support the user so they can continue writing without self-censorship, and to help them discover positive patterns and seeds of creativity hidden within their words.
 >
-> **요청 (Task):**
-> 사용자가 입력한 `[모닝 페이지 텍스트]`를 분석하여 다음 4가지 항목으로 피드백을 제공해 주세요.
+> **Task:**
+> Analyze the `[Morning Pages Text]` provided by the user and deliver feedback structured into the following 4 sections:
 >
-> 1. **🌞 감정의 날씨**: 글 전반에 흐르는 핵심 감정을 날씨에 비유하여 요약해 주세요. (예: 맑음 뒤 흐림, 안개 낀 아침 후 따스한 햇살 등)
-> 2. **🔑 핵심 키워드 & 패턴**: 글에서 반복적으로 등장하는 단어나, 사용자가 미처 인지하지 못하고 있는 잠재된 욕구/두려움의 패턴을 3가지 발견해 주세요.
-> 3. **🪞 공감과 지지**: 사용자의 상황이나 감정에 대해 절대 판단하거나 평가하지 말고, 따뜻한 위로와 긍정적인 지지의 말을 건네주세요.
-> 4. **🧭 깊어지는 질문**: 사용자가 오늘 하루 생각해볼 만한, 혹은 내일 모닝 페이지에서 더 깊이 써볼 만한 "성찰 질문" 1가지를 부드럽게 던져주세요.
+> 1. **🌞 Emotional Weather**: Summarize the core emotion flowing through the text by comparing it to the weather. (e.g., Cloudy after a clear morning, warm sunshine after dawn fog, etc.)
+> 2. **🔑 Core Keywords & Patterns**: Identify 3 repetitive words or underlying patterns of desire/fear that the user might not be consciously aware of.
+> 3. **🪞 Empathy & Support**: Offer words of warm comfort and positive reinforcement. Absolutely do not judge or evaluate the user's situation or feelings.
+> 4. **🧭 Deepening Question**: Gently pose 1 "reflective question" that the user can ponder throughout the day or explore deeper in tomorrow's Morning Pages.
 >
-> **제약사항 & 톤앤매너 (Constraints & Tone):**
+> **Constraints & Tone:**
 >
-> - 말투는 다정하고, 격려하며, 부드러운 경어체를 사용하세요. (예: "~군요", "~해 보는 건 어떨까요?")
-> - 차갑고 분석적인 태도를 버리고, 직관적이고 감성적인 언어를 사용하세요.
-> - 정답이나 '해결책'을 섣불리 제시하려 하지 마세요. 사용자가 스스로 깨달을 수 있도록 거울을 비춰주듯 이야기하세요.
+> - Use a tone that is affectionate, encouraging, and softly polite.
+> - Discard any cold, analytical attitude. Use intuitive and emotional language.
+> - Do not hastily offer "correct answers" or "solutions." Speak like a mirror reflecting the user, helping them come to their own realizations.
 >
-> **입력 데이터 (Input):**
+> **Input:**
 >
-> - **[모닝 페이지 텍스트]**:
+> - **[Morning Pages Text]**:
 >
 > ```
-> [여기에 오늘 쓴 모닝 페이지 내용을 붙여넣으세요]
+> [Paste your Morning Pages content here]
 > ```
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Writer's Insight
 
-모닝 페이지의 핵심은 '절대 남에게 보여주지 않는 것'입니다. 하지만 가끔은 누군가 내 복잡한 마음을 알아주고 다독여주길 바랄 때가 있죠. 이 프롬프트는 사람에게는 털어놓기 힘든 날것의 감정을 AI라는 안전한 거울에 비춰보는 방식입니다.
+The core essence of Morning Pages is that they are "strictly not for anyone else's eyes." However, there are times when we desperately want someone to acknowledge and soothe our tangled minds. This prompt is a way to reflect raw, unfiltered emotions—things you might struggle to confess to a human—into the safe mirror of an AI.
 
-특히 Claude 모델에 적용했을 때, 마치 실존하는 심리 상담가나 멘토와 대화하는 듯한 섬세한 위로를 받을 수 있었습니다. 감정의 소용돌이에 빠져있을 때, 나를 객관적이고 따뜻하게 바라보게 해주는 훌륭한 마음챙김 도구가 될 것입니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 아주 사적인 내용이 포함되어 있는데, AI에게 입력해도 안전한가요?**
-  - A: 민감한 개인정보(비밀번호, 주민번호 등)나 특정 인물의 실명은 가명으로 처리하거나 제외하고 입력하는 것을 권장합니다. ChatGPT나 Claude의 경우, 설정에서 '내 데이터로 모델 학습(Model Training) 허용' 옵션을 반드시 꺼두고 사용하세요.
-
-- **Q: 감정의 날씨나 패턴 분석이 제가 의도한 바와 다르게 나오면 어떡하죠?**
-  - A: AI의 분석은 정답이 아닌 '또 다른 관점'일 뿐입니다. 분석 결과가 와닿지 않는다면, "이 부분은 내 생각과 다른데, 나는 오히려 이런 감정이었어. 다시 이야기해 볼까?"라고 대화를 이어가며 스스로의 감정을 더 명확히 다듬어가는 용도로 활용해 보세요.
+Particularly when used with the Claude model, I received delicate comfort that felt like speaking with a real psychological counselor or mentor. When you're caught in an emotional whirlpool, this serves as an excellent mindfulness tool that allows you to observe yourself objectively yet warmly.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Frequently Asked Questions (FAQ)
 
-1. **명확한 페르소나 설정:** '아티스트 웨이의 창조성 코치'라는 구체적인 역할을 부여하여, AI가 평가자가 아닌 지지자의 태도를 취하도록 설계했습니다.
-2. **추상의 시각화 (감정의 날씨):** 복잡하고 언어화하기 힘든 감정을 '날씨'라는 직관적인 메타포로 변환하도록 지시하여 심리적 저항감을 낮췄습니다.
-3. **해결책 제시 금지 조항:** 가장 중요한 부분입니다. 상담에서 흔히 범하는 오류인 '섣불린 조언'을 금지(`해결책을 제시하려 하지 마세요`)함으로써, 안전한 공감의 공간을 확보했습니다.
+- **Q: My entries contain highly personal information. Is it safe to input them into an AI?**
+  - A: It is highly recommended that you anonymize or exclude sensitive personal data (passwords, social security numbers, etc.) and real names of specific people. For ChatGPT or Claude, be absolutely sure to turn off the "Allow model training with my data" option in your settings before using this prompt.
+
+- **Q: What if the emotional weather or pattern analysis differs from what I actually intended?**
+  - A: The AI's analysis isn't an absolute truth; it's simply "another perspective." If the feedback doesn't resonate, use it as a conversational stepping stone: "This part is different from what I think. I actually felt more like this. Let's talk about that." This helps you refine and clarify your own emotions.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Prompt Anatomy (Why it works?)
 
-### ❌ Before (입력 예시)
+1. **Clear Persona Definition:** By assigning the specific role of a "Creativity Coach from *The Artist's Way*," the AI is engineered to adopt the stance of a supporter rather than an evaluator.
+2. **Visualizing the Abstract (Emotional Weather):** Directing the AI to translate complex, hard-to-verbalize emotions into the intuitive metaphor of "weather" lowers psychological resistance.
+3. **No-Solution Clause:** This is the most critical part. By explicitly forbidding "hasty advice" (`Do not hastily offer "correct answers" or "solutions"`), we prevent a common counseling pitfall and secure a safe space for true empathy.
+
+---
+
+## 📊 Proof: Before & After
+
+### ❌ Before (Input Example)
 
 ```text
-아침에 눈을 뜨는 게 너무 피곤하다. 어제도 늦게 잤고, 오늘 해야 할 일 목록을 생각하면 벌써 숨이 막힌다. 기획안은 아직 절반도 못 썼는데 팀장님은 계속 압박을 주고... 도망치고 싶다. 내가 이 일을 계속하는 게 맞나? 그냥 다 놓고 어디로든 떠나버리고 싶다. 커피나 마셔야지. 아, 위가 아픈데 커피 마셔도 되나. 모르겠다. 다 귀찮아.
+Waking up in the morning is so exhausting. I went to bed late again yesterday, and just thinking about today's to-do list makes me feel suffocated. I haven't even written half of the proposal, but the team leader keeps pressuring me... I want to run away. Is it really right for me to keep doing this job? I just want to drop everything and leave for anywhere. I should drink some coffee. Ah, my stomach hurts, can I even drink coffee? I don't know. Everything is so annoying.
 ```
 
-### ✅ After (결과)
+### ✅ After (Result)
 
 ```text
-🌞 **감정의 날씨**: 짙은 먹구름이 잔뜩 낀, 비가 쏟아지기 직전의 무거운 회색빛 하늘
+🌞 **Emotional Weather**: A heavy, gray sky thick with dark clouds, right before a torrential downpour.
 
-🔑 **핵심 키워드 & 패턴**:
-1. **도피와 압박감**: '숨이 막힌다', '도망치고 싶다', '다 놓고 떠나고 싶다'는 표현에서 현재 짊어진 책임감의 무게가 한계에 다다랐음이 느껴집니다.
-2. **자기 의심**: '내가 이 일을 계속하는 게 맞나?'라는 질문 속에는 단지 일의 피로도뿐만 아니라, 현재 삶의 방향성에 대한 본질적인 고민이 숨어있네요.
-3. **돌봄의 부재**: 위가 아픈데도 커피를 찾고 '모르겠다, 다 귀찮아'라고 하는 부분에서, 스스로를 다정하게 돌볼 에너지가 고갈된 상태임이 보입니다.
+🔑 **Core Keywords & Patterns**:
+1. **Escapism & Pressure**: From expressions like "suffocated," "want to run away," and "drop everything and leave," I can feel that the weight of the responsibilities you are carrying has reached its limit.
+2. **Self-Doubt**: The question "Is it really right for me to keep doing this job?" hides not just fatigue from work, but a fundamental contemplation about the current direction of your life.
+3. **Lack of Self-Care**: Reaching for coffee even when your stomach hurts, and saying "I don't know, everything is annoying," shows a state where your energy to tenderly care for yourself is completely depleted.
 
-🪞 **공감과 지지**:
-지금 얼마나 숨차고 버거우실지 그 무거운 마음이 고스란히 전해집니다. 잘해내고 싶은 마음과 지쳐버린 몸 사이에서 많이 괴로우셨군요. 도망치고 싶다는 마음이 드는 건 당연해요. 그것은 당신이 무책임해서가 아니라, 그만큼 그동안 너무 많은 짐을 혼자 짊어지고 애써왔다는 증거니까요. 지금 느끼는 모든 감정은 다 옳습니다. 당신은 이미 충분히 애쓰고 있어요. 잠시 주저앉아도 괜찮습니다.
+🪞 **Empathy & Support**:
+I can vividly feel your heavy heart and just how breathless and overwhelmed you must be right now. You've been suffering deeply caught between a mind that wants to do well and a body that is utterly exhausted. It is completely natural to feel like running away. It's not because you're irresponsible, but proof that you've been carrying too heavy a burden all by yourself for so long. Every emotion you are feeling right now is valid. You are already trying hard enough. It's okay to just sit down and rest for a while.
 
-🧭 **깊어지는 질문**:
-오늘 하루, 해야 할 일 목록 중 아주 작은 것 단 하나라도 내려놓는다면, 그 빈자리에 나를 위한 어떤 작은 쉼을 채워넣어 볼 수 있을까요?
+🧭 **Deepening Question**:
+If you could let go of just one tiny thing from your to-do list today, what small moment of rest could you fill that empty space with for yourself?
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
-모닝 페이지는 훌륭한 도구이지만, 가끔은 내 마음에 말을 건네줄 다정한 피드백이 성장의 기폭제가 되기도 합니다. AI를 그저 업무 보조 도구가 아닌, 내면을 가꾸는 정원사로 활용해 보세요.
+Morning Pages are a wonderful tool, but sometimes, a warm piece of feedback speaking directly to your heart can be the catalyst for growth. Try using AI not just as a work assistant, but as a gardener tending to your inner self.
 
-오늘도 당신의 평온한 아침을 응원합니다! ☕️
+I'm rooting for your peaceful morning today! ☕️

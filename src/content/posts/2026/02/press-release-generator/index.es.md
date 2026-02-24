@@ -9,135 +9,138 @@ description: "신제품 출시, 투자 유치 등 알리고 싶은 소식은 많
 tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 ---
 
-# 📰 보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 기사' 단숨에 뽑기
+# 📰 Redacción de Notas de Prensa (PR): Cómo Crear el 'Artículo Directo' que los Periodistas Adoran
 
-- **🎯 추천 대상:** 언론 홍보가 막막한 스타트업 대표, 보도자료 작성으로 밤새는 PR 담당자 및 마케터
-- **⏱️ 소요 시간:** 2시간 → 5분 (압도적인 시간 단축)
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT-4o, Claude 3.5 Sonnet 권장)
+- **🎯 Recomendado para:** CEOs de startups que no saben cómo hacer relaciones públicas, responsables de PR y marketers que pasan noches en vela redactando comunicados.
+- **⏱️ Tiempo requerido:** 2 horas → 5 minutos (Ahorro de tiempo espectacular)
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (Se recomienda ChatGPT-4o, Claude 3.5 Sonnet)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐☆☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"이번에 신제품 대박 났다고 기사 좀 써서 돌려봐!" 대표님의 해맑은 지시, 하지만 당신의 보도자료는 왜 번번이 휴지통으로 직행할까요?_
+> _"¡Escribe un artículo sobre el éxito de nuestro nuevo producto y envíalo a la prensa!" Esta es la alegre orden de tu CEO, pero ¿por qué tus notas de prensa siempre terminan en la papelera de reciclaje del periodista?_
 
-기자들은 하루에도 수백 통의 보도자료 메일을 받습니다. "최고의", "혁신적인", "놀라운" 같은 화려한 수식어로 도배된 광고성 글은 1초 만에 스팸 처리됩니다. 기자들이 원하는 것은 단 하나, **'복사+붙여넣기'만 해도 당장 기사로 송고할 수 있는 건조하고 객관적인 '스트레이트(Straight) 기사'**입니다.
+Los periodistas reciben cientos de notas de prensa cada día. Los textos publicitarios plagados de adjetivos rimbombantes como "el mejor", "innovador" o "sorprendente" se catalogan como spam en menos de un segundo. Lo único que los periodistas realmente desean es **un 'artículo directo' (straight news), objetivo y conciso, que puedan copiar, pegar y publicar de inmediato**.
 
-다행히도, 이런 건조한 육하원칙 글쓰기는 생성형 AI가 인간보다 훨씬 빠르고 완벽하게 해내는 영역입니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **객관성 유지:** 화려한 형용사를 빼고 육하원칙(누가, 언제, 어디서, 무엇을, 어떻게, 왜)에 기반한 팩트만 전달하세요.
-2. **역피라미드 구조:** 가장 중요한 핵심(결론)을 첫 문단(리드)에 배치하고, 갈수록 부가적인 설명을 덧붙이세요.
-3. **핵심 인용구 활용:** 대표나 책임자의 신뢰감 있는 코멘트 한 줄이 기사의 퀄리티를 결정합니다.
+Afortunadamente, la redacción basada en la regla de las 6W (quién, qué, cuándo, dónde, por qué y cómo) es un área donde la IA generativa supera a los humanos en velocidad y precisión.
 
 ---
 
-## 🚀 해결책: "Press Release Generator"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (단신 기사)
+1. **Mantén la objetividad:** Elimina los adjetivos llamativos y transmite únicamente los hechos basados en la regla de las 6W.
+2. **Estructura de pirámide invertida:** Coloca el núcleo más importante (la conclusión) en el primer párrafo (lead) y añade las explicaciones secundarias a medida que avanzas.
+3. **Utiliza citas clave:** Una sola cita creíble y bien estructurada del CEO o del responsable determina la calidad final del artículo.
 
-가벼운 소식이나 이벤트, 신제품 출시를 빠르게 알릴 때 사용하세요.
+---
 
-> **역할:** 너는 10년 차 경제부 기자야.
-> **요청:** 아래 내용을 바탕으로 언론사에 배포할 단신 보도자료(스트레이트 기사)를 객관적인 톤으로 작성해 줘.
-> **내용:** "우리 회사(헬로프롬프트)가 AI 글쓰기 도구를 새롭게 출시했어. 누구나 무료로 쓸 수 있고, 생산성을 10배 높여준대."
+## 🚀 Solución: "Press Release Generator"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala para comunicar rápidamente noticias breves, eventos o el lanzamiento de un nuevo producto.
+
+> **Rol:** Eres un periodista de la sección de economía con 10 años de experiencia.
+> **Instrucción:** Basándote en la siguiente información, redacta una nota de prensa breve (artículo directo) con un tono completamente objetivo para distribuirla a los medios de comunicación.
+> **Información:** "Nuestra empresa (Hello Prompt) acaba de lanzar una nueva herramienta de escritura con IA. Cualquiera puede usarla gratis y aumenta la productividad 10 veces."
 
 <br>
 
-### 🥇 Pro Version (전문가형 / 기획 기사 및 투자 유치)
+### 🥇 Versión Pro (Pro Version)
 
-투자 유치, 대규모 MOU 체결 등 회사의 중요한 마일스톤을 발표할 때 완벽한 포맷을 갖춘 보도자료를 생성합니다.
+Genera una nota de prensa con un formato perfecto cuando anuncies hitos importantes de la empresa, como la captación de inversiones o la firma de grandes acuerdos.
 
-> **역할 (Role):** 너는 유력 경제 신문의 시니어 산업부 기자 출신이자 현재 유니콘 스타트업의 홍보 총괄(PR 디렉터)이야.
+> **Rol (Role):** Eres un ex periodista senior de la sección industrial de un importante periódico económico y actualmente el Director de Relaciones Públicas (PR Director) de una startup unicornio.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 회사의 중대한 성과를 언론에 효과적으로 알리고, 긍정적인 브랜드 이미지를 구축해야 함.
-> - 목표: 기자들이 별도의 수정이나 추가 취재 없이 즉시 '복붙'하여 송고할 수 있는 완벽한 형태의 보도자료 완성.
+> - Antecedentes: Necesitamos comunicar eficazmente a los medios un logro crucial de la empresa y construir una imagen de marca positiva.
+> - Objetivo: Redactar una nota de prensa perfecta que los periodistas puedan copiar, pegar y publicar inmediatamente sin necesidad de edición ni investigación adicional.
 >
-> **보도 요점 (Facts):**
+> **Hechos a reportar (Facts):**
 >
-> - **주체:** 주식회사 헬로프롬프트 (대표: [대표자 이름])
-> - **사건:** [시리즈 A] 투자 유치 완료 ([투자 금액] 규모)
-> - **투자사:** [리드 투자사 이름], [참여 투자사 이름]
-> - **계획:** [글로벌 진출 및 R&D 인재 대규모 채용]
+> - **Sujeto:** Hello Prompt Inc. (CEO: [Nombre del CEO])
+> - **Evento:** Cierre exitoso de la ronda de inversión [Serie A] (Por un monto de [Cantidad de la inversión])
+> - **Inversores:** [Nombre del inversor principal], [Nombres de los inversores participantes]
+> - **Planes futuros:** [Expansión global y contratación masiva de talento en I+D]
 >
-> **요청 (Task):**
-> 위 팩트를 바탕으로 다음 구조에 맞춘 보도자료 초안을 작성해 줘.
+> **Instrucción (Task):**
+> Basándote en los hechos anteriores, redacta el borrador de una nota de prensa siguiendo estrictamente esta estructura:
 >
-> 1. **헤드라인 (Headline):** 눈길을 끌되, 낚시성이 아닌 핵심 팩트 중심의 명확한 제목 (예: "OOO, OO 규모 투자 유치... OO 분야 진출 본격화")
-> 2. **리드 (Lead):** 첫 문단에 육하원칙에 따라 가장 중요한 핵심 내용을 요약할 것.
-> 3. **본문 (Body):** 투자 유치의 배경, 시장에서의 의미, 향후 구체적인 계획을 건조하고 객관적인 문체로 서술.
-> 4. **인용 (Quote):** [대표자 이름] 대표의 포부와 비전을 담은 핵심 코멘트 1~2문장 포함 ("이번 투자를 발판으로..." 형식).
-> 5. **회사 소개 (Boilerplate):** 글 마지막에 언론사에서 참고할 수 있는 간략한 회사 개요(설립일, 주요 서비스 등) 추가.
+> 1. **Titular (Headline):** Un título claro, basado en los hechos clave, que capte la atención sin ser 'clickbait' (Ej: "OOO capta una inversión de OO millones... Acelera su expansión en el sector OO").
+> 2. **Lead (Entradilla):** Resume el núcleo más importante de la noticia en el primer párrafo siguiendo la regla de las 6W.
+> 3. **Cuerpo (Body):** Describe el contexto de la inversión, su significado en el mercado y los planes futuros específicos utilizando un tono seco y objetivo.
+> 4. **Cita (Quote):** Incluye 1 o 2 frases clave que reflejen la visión y ambición del CEO [Nombre del CEO] (Formato: "Con esta inversión como trampolín...").
+> 5. **Acerca de la empresa (Boilerplate):** Al final del texto, añade un breve resumen de la empresa para referencia de los medios (Fecha de fundación, servicios principales, etc.).
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운으로 해줘.
-> - "최고의", "혁신적인", "놀라운" 같은 주관적인 형용사와 감정적 표현은 철저히 배제하고 팩트와 숫자 위주로 작성할 것.
-> - 문체는 철저하게 대한민국 주요 일간지의 딱딱한 기사체("~라고 밝혔다", "~할 계획이다", "~로 풀이된다")를 사용할 것.
+> - El formato de salida debe ser Markdown.
+> - Excluye rotundamente adjetivos subjetivos y expresiones emocionales como "el mejor", "innovador" o "sorprendente". Céntrate exclusivamente en datos y hechos.
+> - El estilo de redacción debe ser el tono formal y rígido característico de los principales diarios (ej: "declaró que...", "tiene previsto...", "se interpreta como...").
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentario del Autor (Insight)
 
-보도자료를 쓸 때 가장 흔히 하는 실수는 '기사'가 아닌 '광고 전단지'를 쓰는 것입니다. 기자들은 홍보성 멘트를 걷어내고 팩트만 추려내는 작업(데스킹)을 극도로 귀찮아합니다.
+El error más común al escribir una nota de prensa es redactar un "folleto publicitario" en lugar de un "artículo periodístico". Los periodistas detestan tener que filtrar el lenguaje promocional para extraer los hechos reales (proceso conocido como *desking*).
 
-이 프롬프트의 핵심은 AI에게 **"기자 출신 홍보팀장"**이라는 페르소나를 부여하고, **"주관적 형용사 배제"**라는 제약을 강제하는 데 있습니다. "업계 최고 수준의 놀라운 성능을 자랑하는..." 대신 "기존 대비 처리 속도를 3배 향상시킨..."과 같이 숫자로 증명하세요. 초안이 나오면, 사내에서 가장 비판적인 동료에게 읽혀보고 "이거 너무 우리 자랑 아니야?"라는 말이 나오지 않을 때까지 건조하게 다듬어야 합니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 만들어진 보도자료를 그대로 언론사에 배포해도 되나요?**
-  - A: AI가 뼈대와 문체는 완벽하게 잡아주지만, 최종적인 팩트 체크(금액, 날짜, 고유명사)는 반드시 인간이 직접 해야 합니다. 또한, 회사 내부의 민감한 기밀 정보가 AI 환각으로 섞여 들어가지 않았는지 최종 검토 후 배포하세요.
-
-- **Q: 텍스트만 메일로 보내면 되나요? 사진은 어떻게 하나요?**
-  - A: 보도자료에서 사진은 필수입니다. 텍스트와 함께 **고화질의 가로형 사진**(대표이사 프로필, 서비스 캡처 화면, 팀 단체 샷 등)을 반드시 메일에 첨부하세요. 사진 밑에 들어갈 '캡션(설명)'도 함께 적어주면 기사 채택 확률이 훨씬 높아집니다.
-
-- **Q: 어떤 요일, 몇 시에 배포하는 것이 가장 좋나요?**
-  - A: 일반적으로 화요일이나 수요일 오전 8시 30분 ~ 9시 30분 사이가 가장 좋습니다. 월요일 오전은 주말 사이 쌓인 메일이 많아 묻히기 쉽고, 금요일 오후는 주말을 앞두고 있어 기사화되기 어렵습니다.
+El núcleo de este prompt reside en asignar a la IA el rol de **"Director de PR con experiencia periodística"** y forzar la restricción de **"excluir adjetivos subjetivos"**. En lugar de decir "cuenta con un rendimiento sorprendente líder en la industria...", demuéstralo con números: "mejora la velocidad de procesamiento 3 veces en comparación con la versión anterior...". Una vez generado el borrador, dáselo a leer al compañero más crítico de tu equipo y refínalo hasta que nadie diga: "¿No suena esto demasiado a autopromoción?".
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **페르소나의 이중 부여 (Role):** "기자 출신" + "홍보 총괄"이라는 이중 페르소나를 통해 기자가 원하는 글의 형태(스트레이트 기사체)와 회사가 원하는 목적(효과적인 PR)을 동시에 달성하도록 세팅했습니다.
-2. **역피라미드 구조 강제 (Task):** 헤드라인 -> 리드 -> 본문 -> 인용 -> 회사 소개로 이어지는 보도자료의 정석적인 포맷을 지시하여 완벽한 구조를 갖추게 했습니다.
-3. **감정 배제와 팩트 중심 (Constraints):** 주관적인 형용사를 금지하여 언론사가 가장 기피하는 '광고성 기사'가 되는 것을 원천 차단했습니다.
+- **P: ¿Puedo enviar esta nota de prensa generada por IA directamente a los medios?**
+  - R: Aunque la IA estructurará el esqueleto y el tono de manera impecable, un humano debe realizar el *fact-checking* final (cantidades, fechas, nombres propios). Además, revisa cuidadosamente que no se haya filtrado información confidencial de la empresa debido a una 'alucinación' de la IA antes de enviarla.
 
----
+- **P: ¿Es suficiente con enviar el texto por correo? ¿Qué hago con las imágenes?**
+  - R: Las imágenes son obligatorias en una nota de prensa. Asegúrate de adjuntar **fotografías horizontales de alta resolución** (perfil del CEO, capturas del servicio, foto del equipo, etc.) junto con el texto. Si incluyes una 'leyenda' (descripción) para cada foto, la probabilidad de que tu artículo sea publicado aumentará significativamente.
 
-## 📊 증명: Before & After
-
-### ❌ Before (광고 전단지 수준의 입력)
-
-> 저희 헬로프롬프트가 드디어 100억이라는 엄청나고 놀라운 시리즈 A 투자를 성공적으로 받았습니다! 최고의 벤처캐피탈인 OO벤처스가 참여했고요. 이제 이 돈으로 글로벌 시장에 진출해서 세계 1등 AI 기업이 될 것입니다. 많은 관심 부탁드립니다!
-
-### ✅ After (기자들이 환호하는 완벽한 스트레이트 기사)
-
-> **[제목] 헬로프롬프트, 100억 규모 시리즈 A 투자 유치... 글로벌 진출 본격화**
->
-> **[리드]** 생성형 AI B2B 솔루션 스타트업 헬로프롬프트(대표 홍길동)가 100억 원 규모의 시리즈 A 투자를 성공적으로 유치했다고 11일 밝혔다.
->
-> **[본문]** 이번 투자 라운드에는 국내 대형 벤처캐피탈(VC)인 OO벤처스가 리드 투자사로 참여했으며, XX캐피탈이 동참했다. 헬로프롬프트는 기업의 업무 자동화를 돕는 AI 프롬프트 솔루션을 제공하는 기업으로, 작년 매출액이 전년 대비 300% 이상 증가하는 등 가파른 성장세를 보이고 있다. 회사는 이번에 확보한 투자금을 바탕으로 북미 시장 진출을 위한 글로벌 인프라를 구축하고, R&D(연구개발) 핵심 인재를 대규모로 채용할 계획이다.
->
-> **[인용]** 홍길동 헬로프롬프트 대표는 "이번 투자 유치는 당사 AI 기술의 시장성과 성장 잠재력을 공식적으로 인정받은 결과"라며, "확보된 자금을 통해 글로벌 수준의 기술 경쟁력을 갖추고 해외 시장 공략에 박차를 가하겠다"고 말했다.
->
-> **[회사 소개]**
->
-> - 기업명: 주식회사 헬로프롬프트
-> - 설립일: 2024년 5월
-> - 주요 서비스: B2B 맞춤형 AI 프롬프트 솔루션 제공
+- **P: ¿Qué día y a qué hora es mejor enviar la nota de prensa?**
+  - R: Por lo general, el mejor momento es entre las 8:30 y las 9:30 a.m. de los martes o miércoles. Los lunes por la mañana los correos suelen perderse entre los acumulados del fin de semana, y los viernes por la tarde es muy difícil que se publique algo de cara al descanso semanal.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-기사화되는 보도자료의 핵심은 '자랑'이 아니라 **'가치 있는 정보의 객관적 전달'**입니다.
-기자들의 절대적인 시간 부족을 AI 프롬프트로 해결해 주세요. 기자가 고민할 시간을 덜어줄수록, 여러분의 소식이 헤드라인을 장식할 확률은 비약적으로 올라갑니다.
+1. **Doble Asignación de Rol (Role):** Al otorgar el doble rol de "Ex Periodista" + "Director de PR", configuramos a la IA para lograr simultáneamente el formato que desean los medios (artículo directo) y el objetivo de la empresa (relaciones públicas efectivas).
+2. **Estructura de Pirámide Invertida Obligatoria (Task):** Se instruye el formato estándar de una nota de prensa perfecta (Titular -> Lead -> Cuerpo -> Cita -> Acerca de la empresa), garantizando una estructura impecable.
+3. **Exclusión de Emociones y Enfoque en Hechos (Constraints):** Al prohibir los adjetivos subjetivos, bloqueamos de raíz la posibilidad de generar el típico "artículo publicitario" que los medios rechazan de inmediato.
 
-당신의 중요한 소식이 **세상의 주목받는 뉴스**가 되기를 응원합니다! 🗞️
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Entrada nivel 'folleto publicitario')
+
+```text
+¡Nuestra empresa Hello Prompt por fin ha conseguido una increíble y sorprendente inversión Serie A de 10 millones de dólares! Participó OO Ventures, la mejor firma de capital riesgo. ¡Ahora usaremos este dinero para expandirnos al mercado global y convertirnos en la empresa de IA número 1 del mundo! ¡Muchas gracias por su interés!
+```
+
+### ✅ Después (El artículo directo perfecto que los periodistas aplauden)
+
+```text
+[Titular] Hello Prompt capta una inversión Serie A de 10 millones de dólares... Acelera su expansión global
+
+[Lead] La startup de soluciones B2B de IA generativa, Hello Prompt (CEO: Hong Gil-dong), anunció el día 11 el cierre exitoso de una ronda de inversión Serie A por un valor de 10 millones de dólares.
+
+[Cuerpo] Esta ronda de financiación fue liderada por la destacada firma nacional de capital riesgo OO Ventures, con la participación de XX Capital. Hello Prompt ofrece soluciones de prompts de IA personalizadas para la automatización de tareas corporativas y ha mostrado un crecimiento acelerado, registrando un aumento de ventas de más del 300% en comparación con el año anterior. Con el capital asegurado, la empresa planea construir infraestructura global para su entrada en el mercado norteamericano y realizar contrataciones masivas de talento clave en Investigación y Desarrollo (I+D).
+
+[Cita] "Esta inversión es un reconocimiento oficial del potencial de crecimiento y la viabilidad comercial de nuestra tecnología de IA", declaró Hong Gil-dong, CEO de Hello Prompt. "Utilizaremos estos fondos para alcanzar una competitividad tecnológica a nivel global y acelerar nuestra penetración en los mercados internacionales".
+
+[Acerca de la empresa]
+- Nombre de la empresa: Hello Prompt Inc.
+- Fecha de fundación: Mayo de 2024
+- Servicios principales: Provisión de soluciones de prompts de IA personalizadas B2B
+```
+
+---
+
+## 🎯 Conclusión
+
+El secreto de una nota de prensa exitosa no es "presumir", sino la **"transmisión objetiva de información valiosa"**.
+Usa este prompt de IA para solucionar la eterna falta de tiempo de los periodistas. Cuanto más tiempo les ahorres, exponencialmente mayor será la probabilidad de que tus noticias ocupen los titulares.
+
+¡Esperamos que tus hitos más importantes se conviertan en las noticias más destacadas del mundo! 🗞️

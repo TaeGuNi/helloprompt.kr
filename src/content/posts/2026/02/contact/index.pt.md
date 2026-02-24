@@ -1,123 +1,128 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "문의하기 (Contact Us)"
-description: "Hello Prompt 팀에게 궁금한 점이나 제안할 내용이 있으신가요?"
+description: "Tem alguma dúvida ou proposta de parceria para a equipe do Hello Prompt? Descubra como escrever o e-mail perfeito em segundos com nossa IA."
 date: "2026-02-09"
 ---
 
-# 📧 문의하기 (Contact Us)
+# 📧 Fale Conosco (Contact Us)
 
-- **🎯 추천 대상:** Hello Prompt와 협업하고 싶은 마케터, 기획자, 제휴 담당자
-- **⏱️ 소요 시간:** 10분 → 1분 단축
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT, Claude, Gemini 등)
+- **🎯 Público-alvo:** Profissionais de marketing, planejadores, gerentes de produto e potenciais parceiros do Hello Prompt.
+- **⏱️ Tempo economizado:** De 10 minutos → Para 1 minuto.
+- **🤖 Modelos recomendados:** Qualquer IA conversacional (ChatGPT, Claude, Gemini, etc.).
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"제휴 문의 메일, 어떻게 써야 담당자가 바로 읽고 답장을 보낼까요?"_
+> *"Como escrever um e-mail de parceria comercial que o responsável leia e responda imediatamente?"*
 
-Hello Prompt를 이용해 주셔서 감사합니다.
-서비스 이용 중 불편한 점이 있거나, 제안하고 싶은 프롬프트가 있다면 언제든지 연락주세요.
-단순 문의를 넘어, **성공적인 제휴 및 제안 메일을 작성하는 AI 프롬프트**를 함께 제공해 드립니다. 우리에게 바로 써먹어 보세요!
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 일반적인 문의사항은 `support@helloprompt.kr`로 보내주세요. (24시간 이내 답변)
-2. 비즈니스 제휴 및 광고 문의도 언제나 환영합니다.
-3. 아래의 '제안 메일 작성 프롬프트'를 활용하면 더욱 전문적이고 매력적인 제안서를 작성할 수 있습니다.
+Obrigado por utilizar o Hello Prompt!
+Se você encontrou algum problema durante o uso da plataforma ou tem uma ideia brilhante para um prompt, não hesite em nos contatar.
+Mas não paramos por aí: além de abrirmos nosso canal de suporte, preparamos **um prompt de IA exclusivo para ajudá-lo a redigir propostas de parceria irresistíveis**. Use-o para falar conosco ou com qualquer outro potencial parceiro de negócios!
 
 ---
 
-## 🚀 해결책: "성공 확률을 높이는 제휴 문의 메일 작성 프롬프트"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-### 🥉 Basic Version (일반 문의)
+1. Para dúvidas gerais, feedbacks ou suporte técnico, envie um e-mail para `support@helloprompt.kr` (respondemos em até 24 horas).
+2. Propostas de negócios, parcerias B2B e anúncios são sempre muito bem-vindos pela nossa equipe.
+3. Utilize o 'Prompt de Proposta de Parceria' abaixo para criar e-mails altamente profissionais e persuasivos em questão de segundos.
 
-빠르게 질문이나 피드백만 남기고 싶을 때 사용하세요.
+---
 
-> **수신처:** support@helloprompt.kr
-> **내용:** 서비스 이용 중 발생한 오류, 개선 아이디어, 또는 단순 문의사항을 자유롭게 적어주세요.
+## 🚀 A Solução: "Prompt para E-mails de Parceria de Alta Conversão"
+
+### 🥉 Versão Básica (Contato Rápido)
+
+Ideal para enviar feedbacks curtos, reportar pequenos bugs ou fazer perguntas simples do dia a dia.
+
+> **Destinatário:** support@helloprompt.kr
+> **Conteúdo:** Descreva de forma livre e direta o erro encontrado, sua sugestão de melhoria ou qualquer dúvida sobre os nossos serviços.
 
 <br>
 
-### 🥇 Pro Version (비즈니스 제휴 프롬프트)
+### 🥇 Versão Pro (Propostas B2B & Parcerias Estratégicas)
 
-디테일한 퀄리티의 제휴 제안이 필요할 때 AI에게 입력해 보세요.
+Copie e cole este prompt na sua IA favorita quando precisar enviar uma proposta de parceria elaborada, profissional e com alta taxa de resposta.
 
-> **역할 (Role):** 너는 B2B 제휴 및 비즈니스 커뮤니케이션에 능통한 `[시니어 사업제휴 담당자]`야.
+> **Papel (Role):** Você é um `[Especialista Sênior em Parcerias B2B]`, extremamente fluente em comunicação corporativa persuasiva, estratégica e objetiva.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 수신자: Hello Prompt 팀 (support@helloprompt.kr)
-> - 발신자: `[우리 회사 이름 및 내 직책]`
-> - 목적: `[제안하려는 협업 내용이나 광고 캠페인 등]`에 대한 논의
+> - Destinatário: Equipe do Hello Prompt (support@helloprompt.kr)
+> - Remetente: `[Nome da sua empresa e o seu cargo]`
+> - Objetivo: Discutir `[detalhes da proposta de colaboração, campanha de marketing ou integração de serviços/produtos]`
 >
-> **요청 (Task):**
+> **Tarefa (Task):**
 >
-> 1. 수신자가 흥미를 느낄 수 있는 간결하고 매력적인 이메일 제목을 3가지 제안해 줘.
-> 2. 인사말, 제안 배경, 협업 포인트, 기대 효과, 향후 일정(Call to Action)이 포함된 본문을 작성해 줘.
-> 3. `[변수]` 부분은 내가 직접 수정할 수 있도록 괄호 처리해 줘.
+> 1. Crie 3 opções de **assuntos de e-mail** que sejam curtos, intrigantes e que garantam a abertura da mensagem por executivos ocupados.
+> 2. Redija o corpo do e-mail contendo obrigatoriamente: uma saudação profissional, o contexto da abordagem, a proposta de valor (por que essa parceria é mutuamente vantajosa), expectativas de resultados e um *Call to Action* (CTA) claro para os próximos passos.
+> 3. Coloque todas as variáveis que eu preciso preencher ou customizar entre colchetes `[ ]`.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 어조는 정중하면서도 군더더기 없이 깔끔하게 작성해 줘.
-> - 전체 길이는 모바일에서도 읽기 편하도록 3~4문단을 넘지 않게 해 줘.
+> - O tom de voz deve ser extremamente polido e profissional, mas direto ao ponto (elimine qualquer enrolação ou jargão excessivo).
+> - O comprimento do e-mail não pode ultrapassar 3 a 4 parágrafos curtos, sendo perfeitamente legível na tela de um smartphone.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight do Autor (Writer's Insight)
 
-아무리 좋은 아이디어라도 첫 이메일이 너무 장황하거나 요점이 흐릿하면 바쁜 담당자의 시선을 끌기 어렵습니다. 위 프롬프트를 활용하면, 제안의 핵심 가치(Value Proposition)를 명확하게 전달하는 프로페셔널한 이메일 초안을 순식간에 얻을 수 있습니다. 완성된 초안에 여러분의 진심을 한 스푼만 더해서 보내주세요!
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: Hello Prompt의 답변은 보통 얼마나 걸리나요?**
-  - A: 평일 기준 24시간 이내에 꼼꼼히 확인하고 답변해 드리고 있습니다.
-
-- **Q: 이 프롬프트로 작성한 메일을 다른 회사 제안용으로 써도 되나요?**
-  - A: 물론입니다! 수신자와 목적 등 변수(`[ ]`) 부분만 타겟 기업에 맞게 변경하면, 어떤 비즈니스 메일에도 훌륭하게 활용 가능한 강력한 템플릿입니다.
+Por mais brilhante que seja a sua ideia de negócio, se o seu primeiro e-mail for confuso ou excessivamente longo, ele será sumariamente ignorado por um executivo ou gerente de parcerias ocupado. A grande vantagem deste prompt é que ele estrutura a sua Proposta de Valor (*Value Proposition*) de forma impecável, respeitando o tempo de quem lê. Com ele, você obtém um rascunho de nível "C-Level" em segundos. Depois, basta adicionar o seu "toque humano" com alguns detalhes específicos e enviar!
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **Role 부여:** '시니어 사업제휴 담당자'라는 페르소나를 통해 초보적인 뉘앙스를 배제하고 설득력 있는 비즈니스 톤을 유지합니다.
-2. **구조화된 Task:** 제안 메일에 필수적인 요소(배경, 포인트, 기대효과, CTA)를 명시하여 누락 없이 체계적인 글을 작성하도록 유도합니다.
+- **P: Quanto tempo a equipe do Hello Prompt costuma demorar para responder?**
+  - R: Nós revisamos todos os e-mails com muito cuidado e carinho. Geralmente, respondemos em até 24 horas durante os dias úteis.
+
+- **P: Posso usar este prompt para enviar propostas para outras empresas além do Hello Prompt?**
+  - R: Absolutamente! Este é um *template* incrivelmente versátil. Basta alterar as variáveis (`[ ]`), como o nome do destinatário e o objetivo central, e você terá um e-mail de vendas ou parceria perfeito e adaptado para qualquer empresa B2B do mercado.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Why it works?)
 
-### ❌ Before (입력)
+1. **Atribuição de Papel (Role):** Ao definir a IA como um 'Especialista Sênior em Parcerias B2B', eliminamos imediatamente aquele tom robótico ou amador, garantindo uma linguagem de negócios assertiva e persuasiva.
+2. **Tarefas Estruturadas (Structured Task):** Exigir elementos de negócio obrigatórios (contexto, proposta de valor, CTA) impede que a IA crie um texto genérico e força a geração de um e-mail inteiramente voltado para a *conversão* (como o agendamento de uma reunião).
+
+---
+
+## 📊 Prova Social: Antes & Depois
+
+### ❌ Antes (Entrada do Usuário)
 
 ```text
-안녕하세요, 저희 회사랑 협업 한번 해보실래요? 언제 연락 한번 주세요.
+Olá, gostaria de saber se vocês topam fazer uma parceria com a nossa empresa. Nossos produtos são ótimos. Me liguem quando puderem para conversarmos.
 ```
 
-### ✅ After (결과)
+### ✅ Depois (Resultado da IA)
 
 ```text
-제목: [제휴 제안] Hello Prompt 콘텐츠 확장을 위한 파트너십 제안
+Assunto: [Proposta de Parceria] Sinergia entre [Sua Empresa] e Hello Prompt para Expansão de Conteúdo
 
-안녕하세요 Hello Prompt 팀,
-[우리 회사 이름]의 [내 직책]입니다. 평소 귀사의 실용적인 프롬프트 콘텐츠를 매우 흥미롭게 보고 있습니다.
+Olá, Equipe do Hello Prompt,
 
-다름이 아니오라, 저희가 새롭게 런칭하는 [제안하려는 협업 내용]과 귀사의 플랫폼이 만나면 큰 시너지가 날 것으로 기대되어 제휴를 제안 드립니다.
+Meu nome é [Seu Nome] e atuo como [Seu Cargo] na [Sua Empresa]. Acompanho de perto o trabalho fantástico de vocês e admiro muito a forma como democratizam o uso da Inteligência Artificial com prompts tão práticos.
 
-[협업 포인트 및 기대 효과]
+Entro em contato hoje porque estamos prestes a lançar [Descreva sua iniciativa/produto] e vejo uma enorme oportunidade de sinergia estratégica entre nossas plataformas. Acredito que uma colaboração neste momento poderia agregar um valor imenso e imediato à comunidade de vocês.
 
-긍정적으로 검토해 주시길 바라며, 편하신 시간에 짧은 온라인 미팅이라도 가질 수 있으면 좋겠습니다.
-감사합니다.
+[Insira 1 ou 2 bullet points destacando os benefícios claros e mútuos da parceria]
+
+Gostaria de agendar uma breve reunião de 15 minutos na próxima semana para explorarmos essa ideia sem compromisso. Qual seria o melhor dia e horário para vocês?
+
+Atenciosamente,
+
+[Sua Assinatura]
+[Seu LinkedIn/Site]
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-여러분의 소중한 의견과 반짝이는 제안이 Hello Prompt를 더욱 유익한 공간으로 만듭니다. 언제든 부담 없이 이메일로 노크해 주세요!
+Suas ideias, feedbacks críticos e propostas inovadoras são o combustível que torna o Hello Prompt um espaço cada vez melhor e mais útil para todos. Nossa caixa de entrada está sempre aberta para você!
 
-이제 훌륭한 제안서를 작성하고 칼퇴하세요! 🍷
+Agora, feche grandes negócios com propostas incríveis e aproveite o tempo economizado! 🍷

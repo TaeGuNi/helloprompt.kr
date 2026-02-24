@@ -5,131 +5,131 @@ author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "친구도, 주사위도 필요 없다. AI가 진행하는 1인용 D&D(Dungeons & Dragons) 모험."
+description: "Não precisa de amigos nem de dados. Uma aventura solo de D&D (Dungeons & Dragons) conduzida por IA."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 
-# 🎲 TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기
+# 🎲 Mestre de Jogo TRPG: Explore Masmorras Rolando Dados
 
-- **🎯 추천 대상:** 발더스 게이트 3의 자유도를 텍스트로 느끼고 싶은 게이머, 나만의 판타지 세계관을 구축하고 싶은 스토리텔러
-- **⏱️ 소요 시간:** 10분 준비 → 무한한 플레이
-- **🤖 추천 모델:** GPT-4o, Claude 3.5 Sonnet (풍부한 세계관 묘사 및 룰 숙지 능력이 뛰어난 모델 추천)
+- **🎯 Recomendado para:** Jogadores que desejam sentir a liberdade de Baldur's Gate 3 em formato de texto, contadores de histórias que desejam construir seu próprio universo de fantasia
+- **⏱️ Tempo necessário:** 10 minutos de preparação → Jogo infinito
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (Recomendamos modelos excelentes na rica descrição de mundos e na compreensão rigorosa de regras)
 
-- ⭐ **난이도:** ⭐☆☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"오크 무리가 당신을 둘러쌌습니다. 검을 뽑으시겠습니까, 아니면 협상을 시도하시겠습니까?"_
+> _"Um bando de orcs o cercou. Você saca a sua espada ou tenta negociar?"_
 
-TRPG(Table-talk Role Playing Game)의 진정한 묘미는 플레이어의 **'선택'**과 주사위가 빚어내는 **'우연'**에 있습니다. 이제 복잡한 룰북을 외우거나, 시간을 맞춰 모일 파티원을 구할 필요가 없습니다. 생성형 AI를 **전속 게임 마스터(Game Master)**로 고용하세요. 생동감 넘치는 세계관 묘사, 매력적인 NPC와의 상호작용, 그리고 무자비한 주사위 판정까지. 텍스트만으로 엘더스크롤을 뛰어넘는 압도적인 자유도를 경험할 수 있습니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. AI에게 명확한 **세계관과 TRPG 룰셋(예: D&D 5판) 마스터 역할**을 부여합니다.
-2. 플레이어의 **캐릭터 시트(직업, 종족, 스탯)**를 입력하여 초기 설정을 완료합니다.
-3. 상황에 맞는 행동을 자유롭게 선언하고, **주사위 판정**을 통해 모험을 전개합니다.
+O verdadeiro charme do TRPG (Table-talk Role Playing Game) reside nas **'escolhas'** do jogador e no **'acaso'** moldado pelos dados. Agora, você não precisa mais memorizar livros de regras complexos ou tentar reunir amigos com agendas impossíveis. Contrate uma IA generativa como seu **Mestre de Jogo (Game Master)** exclusivo. Desde descrições vívidas de mundos e interações envolventes com NPCs até julgamentos implacáveis e dramáticos dos dados. Você pode experimentar uma liberdade avassaladora que supera The Elder Scrolls, utilizando apenas texto.
 
 ---
 
-## 🚀 해결책: "Dungeon Master Prompt"
+## ⚡️ Resumo em 3 linhas (TL;DR)
 
-### 🥉 Basic Version (기본형 텍스트 어드벤처)
+1. Atribua à IA o papel de um **Mestre de Jogo com conhecimento claro do mundo e do conjunto de regras de TRPG (ex: D&D 5ª Edição)**.
+2. Insira a **ficha do seu personagem (classe, raça, atributos)** para concluir a configuração inicial.
+3. Declare livremente suas ações de acordo com as situações apresentadas e desenrole a sua aventura através das **rolagens de dados**.
 
-복잡한 룰 없이 가벼운 스토리텔링 위주의 모험을 원할 때 사용하세요.
+---
 
-> **역할:** 너는 판타지 텍스트 어드벤처 게임의 게임 마스터(GM)야.
-> **요청:** 중세 판타지 배경의 게임을 시작해 줘. 나는 1레벨 전사 캐릭터로 플레이할게. 고블린 소굴에 잠입하여 인질을 구출하는 시나리오로 진행해. 매 턴마다 상황을 구체적으로 묘사하고, 내가 선택할 수 있는 3가지 행동 옵션을 제시해 줘.
+## 🚀 Solução: "Prompt Dungeon Master"
+
+### 🥉 Basic Version (Versão Básica - Aventura em Texto)
+
+Use esta versão quando quiser uma aventura leve e focada na narrativa, sem o peso de regras complexas.
+
+> **Papel:** Você é um Mestre de Jogo (GM) de um jogo de aventura em texto de fantasia.
+> **Tarefa:** Inicie um jogo ambientado em um cenário de fantasia medieval. Jogarei como um personagem guerreiro de nível 1. Conduza um cenário onde me infiltro num covil de goblins para resgatar reféns. A cada turno, descreva a situação detalhadamente e forneça 3 opções de ação que eu possa escolher.
 
 <br>
 
-### 🥇 Pro Version (D&D 5판 하드코어 룰 적용)
+### 🥇 Pro Version (Regras Hardcore de D&D 5ª Edição)
 
-본격적인 스탯 계산과 주사위 판정이 포함된 정통 TRPG를 원할 때 사용하세요.
+Use esta versão quando quiser a autêntica experiência de um TRPG, incluindo cálculos rigorosos de atributos e rolagens de dados.
 
-> **역할 (Role):** 너는 '던전 앤 드래곤(D&D) 5판' 규칙을 완벽히 숙지한 베테랑 게임 마스터(GM)야.
+> **Papel (Role):** Você é um Mestre de Jogo (GM) veterano que domina perfeitamente as regras de 'Dungeons & Dragons (D&D) 5ª Edição'.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 잊혀진 렐름(Forgotten Realms) 세계관의 어두운 지하 던전.
-> - 목표: 잃어버린 고대 아티팩트 회수 및 무사 귀환.
+> - Cenário: Uma masmorra subterrânea escura no mundo de Forgotten Realms.
+> - Objetivo: Recuperar um antigo artefato perdido e retornar em segurança.
 >
-> **내 캐릭터 정보:**
+> **Informações do meu personagem:**
 >
-> - 이름: 아라곤
-> - 종족/직업: 인간 / 레인저 (무기: 양손검)
-> - 능력치: 힘 16, 민첩 14, 체력 15, 지능 10, 지혜 12, 매력 8
+> - Nome: Aragorn
+> - Raça/Classe: Humano / Patrulheiro (Arma: Espada de duas mãos)
+> - Atributos: Força 16, Destreza 14, Constituição 15, Inteligência 10, Sabedoria 12, Carisma 8
 >
-> **요청 (Task):**
-> 지금부터 이 캠페인을 시작해 줘.
+> **Tarefa (Task):**
+> Comece esta campanha a partir de agora.
 >
-> 1. **상황 묘사:** 현재 위치, 시각적 요소, 들리는 소리, 심지어 공기의 냄새까지 텍스트로 생생하게 묘사해 줘.
-> 2. **판정 시스템:** 내가 특정 행동(공격, 설득, 함정 해제 등)을 선언할 때마다, D&D 5e 규칙에 기반하여 나에게 **20면체 주사위(d20)** 굴림을 요구해. (네가 임의로 결과를 정하지 말고, 내가 주사위 값을 입력할 때까지 기다려.)
-> 3. **결과 처리:** 내가 굴린 주사위 값에 캐릭터 보정치를 계산하여 명중 여부와 데미지, 또는 행동의 성공/실패 여부를 драматиically(극적으로) 알려줘.
-> 4. **자유도 보장:** 정해진 선택지 외에도 내가 상상하는 모든 창의적인 행동("천장 샹들리에에 매달려서 적을 덮친다")을 허용하고 룰에 맞게 판정해 줘.
+> 1. **Descrição da Situação:** Descreva vividamente em texto a localização atual, os elementos visuais, os sons e até mesmo o cheiro do ar.
+> 2. **Sistema de Rolagem:** Sempre que eu declarar uma ação específica (atacar, persuadir, desarmar armadilhas, etc.), exija de mim a rolagem de um **dado de 20 faces (d20)**, com base nas regras de D&D 5e. (Não determine o resultado arbitrariamente; espere até que eu insira o valor do dado que tirei).
+> 3. **Resolução de Resultados:** Calcule os modificadores do meu personagem em conjunto com o valor do dado que eu rolar e informe-me *dramaticamente* sobre o sucesso ou fracasso da ação, acertos e danos causados.
+> 4. **Garantia de Liberdade:** Além das opções pré-definidas, permita todas as ações criativas que eu consiga imaginar (ex: "pendurar-me no lustre do teto para surpreender o inimigo") e faça os julgamentos estritamente de acordo com as regras.
 >
-> **제약사항 (Constraints):**
+> **Restrições (Constraints):**
 >
-> - 출력 형식은 대화형으로 하되, NPC의 대사와 시스템 메시지(HP 변화, 획득 아이템 등)를 마크다운 리스트로 명확히 구분해 줘.
+> - O formato de saída deve ser o de um diálogo interativo, mas você deve separar claramente as falas dos NPCs das mensagens do sistema (mudanças de HP, itens adquiridos, etc.) utilizando listas em Markdown.
 >
-> **주의사항 (Warning):**
+> **Aviso (Warning):**
 >
-> - 플레이어 캐릭터를 네가 임의로 조종하지 마. 오직 환경과 NPC만 조종해.
+> - Não controle o personagem do jogador de forma arbitrária. Você deve controlar exclusivamente o ambiente e os NPCs.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Comentário do Autor (Insight)
 
-이 프롬프트의 진정한 잠재력은 **이미지 생성 AI(DALL-E 3, Midjourney 등)와의 연동**에 있습니다. 게임을 진행하다가 "지금 마주친 보스 몬스터의 외형과 현재 전투 중인 방의 풍경을 이미지로 생성해 줘"라고 지시해 보세요. 텍스트로만 상상하던 압도적인 공포와 판타지 세계가 눈앞에 시각화되면서 몰입감이 폭발적으로 상승합니다. 또한, ChatGPT의 음성 대화 기능(Voice Mode)을 활용하면 실제 GM과 대화하듯 플레이할 수 있어 타의 추종을 불허하는 현실감을 경험할 수 있습니다.
-
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 주사위는 실제로 어떻게 굴리나요? 집에 주사위가 없는데요.**
-  - A: 구글 검색창에 "roll d20"을 입력하면 디지털 주사위를 굴릴 수 있습니다. 그 결과를 AI에게 "15가 나왔어"라고 텍스트로 입력하면 됩니다. (단, 몰입을 위해 AI에게 거짓말을 하지는 마세요!)
-
-- **Q: 꼭 서양 중세 판타지만 가능한가요? 배경을 바꿀 수도 있나요?**
-  - A: 프롬프트의 배경(Context) 설정만 바꾸면 무한한 확장이 가능합니다. "조선시대 배경, 귀신을 쫓는 착호갑사 시나리오", "2077년 사이버펑크 디스토피아 기업 스파이" 등 원하는 모든 세계관을 텍스트로 구현할 수 있습니다.
-
-- **Q: 대화 내역이 너무 길어지면 AI가 이전 상황을 잊어버리지 않나요?**
-  - A: 맞습니다. 컨텍스트 윈도우 한계로 인해 긴 세션에서는 초기 설정을 잊을 수 있습니다. 게임 중간중간 "현재 내 캐릭터의 HP, 소지품, 진행 중인 퀘스트 요약을 표로 보여줘"라고 요청하여 메모리를 새로고침(Refresh) 해주는 것이 좋습니다.
+O verdadeiro potencial deste prompt reside na **integração com IAs geradoras de imagens (como DALL-E 3 e Midjourney)**. Durante a sua campanha, experimente dar o seguinte comando: *"Crie uma imagem mostrando a aparência assustadora do monstro chefe que acabei de encontrar, junto com o cenário sombrio da sala onde estamos lutando"*. O medo avassalador e o mundo épico de fantasia, que antes existiam apenas na sua imaginação, serão visualizados instantaneamente diante dos seus olhos, elevando a imersão de forma estratosférica. Além disso, ao utilizar o recurso de conversação por voz (Voice Mode) do ChatGPT, você poderá jogar exatamente como se estivesse dialogando com um GM real, vivenciando um nível de imersão e realismo inigualáveis.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Perguntas Frequentes (FAQ)
 
-1. **룰셋의 명확한 지정 (D&D 5e):** 단순히 "게임을 해보자"가 아니라 특정 TRPG 룰을 지정함으로써, AI가 HP, AC(방어도), 주문 슬롯과 같은 게임 시스템의 밸런스를 스스로 붕괴시키지 않도록 강력한 기준점을 제공합니다.
-2. **권한의 분리 (판정 요구):** AI가 결과를 독단적으로 결정하게 두면 이는 게임이 아닌 '인터랙티브 소설'로 전락합니다. "결과를 플레이어의 주사위 굴림으로 결정한다"는 지침이 이 프롬프트를 진정한 '게임'으로 만들어주는 핵심 상호작용(Interaction) 설계입니다.
+- **P: Como eu rolo os dados na prática se não tenho dados físicos em casa?**
+  - R: É simples! Você pode rolar um dado digital digitando "roll d20" na barra de pesquisa do Google. Depois, basta digitar o resultado obtido para a IA, dizendo algo como "Tirei 15". (Dica: Para manter a graça do jogo, não minta sobre os resultados para a IA!)
+
+- **P: O jogo precisa ser obrigatoriamente num cenário de fantasia medieval? Posso mudar o tema?**
+  - R: Ao alterar apenas as configurações de Cenário no **Contexto (Context)** do prompt, as possibilidades são infinitas. Você pode implementar qualquer universo, desde uma "aventura investigativa como detetives na era vitoriana caçando cultistas", até uma "missão de espionagem corporativa letal em uma distopia Cyberpunk do ano 2077".
+
+- **P: Se o histórico da nossa conversa ficar muito longo, a IA não vai esquecer as regras ou o status do personagem?**
+  - R: Sim, esse é um ponto importante. Devido aos limites da janela de contexto da IA, ela pode se esquecer de detalhes iniciais em sessões muito longas. Para evitar isso, o segredo é pedir periodicamente durante o jogo: *"Por favor, mostre-me uma tabela com um resumo do HP atual do meu personagem, os itens no meu inventário e as missões que estão ativas no momento."* Isso funciona como um "Refresh" impecável para a memória dela.
 
 ---
 
-## 📊 증명: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (선형적이고 지루한 전개)
+1. **Definição estrita do Conjunto de Regras (D&D 5e):** Ao não dizer apenas "vamos jogar um jogo", mas sim especificar ativamente uma regra clássica de TRPG, você fornece à IA um ponto de referência sólido. Isso impede que ela quebre arbitrariamente o equilíbrio do sistema (HP, CA, espaços de magia, etc.) para favorecer ou punir o jogador.
+2. **Separação de Autoridade (Exigência de Rolagem de Dados):** Se a IA puder determinar todos os resultados de forma arbitrária, a experiência se degrada a um mero 'romance interativo'. A diretriz explícita de que "o resultado final é determinado pela rolagem de dados do jogador" é o design de interação (Interaction) principal que consolida este prompt como um verdadeiro 'jogo'.
+
+---
+
+## 📊 Prova: Antes e Depois (Before & After)
+
+### ❌ Antes (Desenvolvimento linear e sem graça)
 
 ```text
-나: 고블린을 공격할게.
-AI: 당신의 공격이 성공했습니다. 고블린이 쓰러졌습니다. 방 안에는 상자가 하나 있습니다. 어떻게 하시겠습니까?
-(결과가 너무 뻔하게 결정되어 긴장감이 전혀 없음)
+Eu: Vou atacar o goblin.
+IA: Seu ataque foi bem-sucedido. O goblin caiu morto. Há um baú na sala. O que você gostaria de fazer agora?
+(O resultado é pré-determinado e previsível, removendo qualquer senso de perigo ou tensão.)
 ```
 
-### ✅ After (룰 기반의 다이나믹한 전개)
+### ✅ Depois (Desenvolvimento dinâmico e baseado em regras)
 
 ```text
-나: 고블린을 향해 양손검을 강하게 휘두릅니다!
-AI: 아라곤의 맹렬한 공격입니다! 먼저 공격의 정확도를 확인하기 위해 1d20(20면체 주사위)을 굴리고, 근력 보정치(+3)를 더한 값을 알려주세요.
-나: 주사위에서 2가 나왔어... 총합 5.
-AI: 아아, 아라곤이 크게 휘두른 검은 둔탁한 소리와 함께 던전의 돌벽을 강타하고 맙니다! 고블린은 당신의 빈틈을 놓치지 않고 날카로운 단검으로 반격합니다. (고블린의 공격 주사위 굴림 중...)
+Eu: Eu balanço a minha espada de duas mãos com toda a minha força na direção do goblin!
+IA: Aragorn desfere um ataque feroz! Primeiro, para verificar a precisão do seu golpe, role 1d20 (um dado de 20 faces) e diga-me o valor total, já somando o seu modificador de Força (+3).
+Eu: O dado caiu no 2... no total deu 5.
+IA: Ah, que pena! A espada pesada de Aragorn corta apenas o ar e atinge a parede de pedra da masmorra com um som surdo e faíscas! O goblin não desperdiça a sua brecha e salta em sua direção para contra-atacar com uma adaga enferrujada. (Rolando o dado de ataque do goblin...)
 ```
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusão
 
-수십만 원짜리 최신 그래픽 카드도, 고해상도 모니터도 필요 없습니다.
-규칙을 이해하는 든든한 AI와 당신의 **창의적인 상상력**만 있다면 그곳이 곧 최고의 그래픽을 자랑하는 판타지 세계입니다.
+Você não precisa de uma placa de vídeo de última geração que custa milhares de reais, nem de um monitor ultrawide de alta resolução.
+Com uma IA afiada que entende as regras do jogo e a sua **imaginação criativa**, qualquer lugar se transforma instantaneamente no mundo de fantasia com os melhores e mais realistas gráficos possíveis.
 
-자, 주사위를 손에 쥐세요.
-**당신만의 위대한 모험이 지금 시작됩니다.** 🍷
+Agora, pegue os seus dados.
+**A sua grande jornada épica começa agora.** 🍷

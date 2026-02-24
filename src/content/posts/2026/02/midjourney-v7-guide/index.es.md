@@ -5,115 +5,134 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 아트/디자인"
-description: "더 이상 '손가락 6개'는 없다. 텍스트 렌더링부터 3D 모델링까지, 미드저니 v7의 신기능을 200% 활용하는 법."
+description: "Ya no hay '6 dedos'. Desde renderizado de texto hasta modelado 3D, descubre cómo aprovechar al 200% las nuevas funciones de Midjourney v7."
 tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 ---
 
-# 🎨 Midjourney 2026: V7 버전 완벽 가이드
+# 🎨 Midjourney 2026: Guía Definitiva de la Versión V7
 
-- **🎯 추천 대상:** Midjourney v5, v6의 한계(텍스트 붕괴, 손가락 오류)에 지쳐 구독을 해지했던 분, 압도적인 퀄리티의 AI 화보 및 3D 에셋이 필요한 크리에이터
-- **⏱️ 소요 시간:** 10분 실습으로 3시간의 포토샵 보정 시간 단축
-- **🤖 추천 모델:** Midjourney v7 (Discord 및 알파 웹사이트)
+- **🎯 Público objetivo:** Creadores cansados de los límites de v5 y v6 (textos deformes, dedos extra), que necesitan recursos 3D y de alta calidad.
+- **⏱️ Tiempo ahorrado:** 3 horas de edición en Photoshop reducidas a 10 minutos.
+- **🤖 Modelo recomendado:** Midjourney v7 (Discord y sitio web Alpha).
 
-- ⭐ **난이도:** ⭐⭐☆☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"아직도 AI가 생성한 이미지의 간판 글씨를 포토샵으로 일일이 수정하고 계신가요?"_
+> _"¿Todavía pasas horas en Photoshop corrigiendo a mano los textos de los carteles generados por IA?"_
 
-이제 미드저니(Midjourney)는 단순한 '랜덤 이미지 생성기'를 넘어, 완벽한 통제력을 갖춘 **'종합 디자인 스튜디오'**로 진화했습니다. 2026년 압도적인 성능으로 출시된 V7 버전은 골칫거리였던 텍스트 렌더링 문제를 완벽히 해결했을 뿐만 아니라, 일관된 캐릭터 생성과 3D `.obj` 파일 추출까지 지원합니다. 이 가이드에서는 V7의 핵심 파라미터 변화와 실무에서 당장 써먹을 수 있는 강력한 프롬프트 작성법을 모두 공개합니다.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. **완벽한 텍스트 렌더링:** 포스터, 로고, 간판에 들어갈 정확한 텍스트를 이미지 내에 직접 삽입할 수 있습니다.
-2. **극강의 캐릭터 일관성(--cref):** 얼굴은 물론, 옷차림까지 유지하며 AI 인플루언서 화보나 웹툰 컷을 연속 생성합니다.
-3. **3D 모델링 지원(--obj):** 생성된 2D 이미지를 기반으로 3D 프린팅 및 게임 엔진용 `.obj` 파일을 즉시 추출해 냅니다.
+Midjourney ha dejado de ser un simple "generador aleatorio de imágenes" para evolucionar en un **"estudio de diseño integral"** bajo tu control absoluto. Lanzada con un rendimiento abrumador en 2026, la versión V7 no solo resuelve definitivamente el problema de renderizado de texto, sino que también permite la consistencia extrema de personajes y la exportación de archivos 3D `.obj`. En esta guía, revelamos los cambios clave en los parámetros de la V7 y las técnicas de prompting más potentes para que las apliques hoy mismo en tu flujo de trabajo.
 
 ---
 
-## 🚀 해결책: "V7 Master Prompt"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (정밀 텍스트 렌더링)
+1. **Renderizado de texto perfecto:** Inserta tipografía exacta (carteles, logotipos, letreros) directamente en tus imágenes sin errores.
+2. **Consistencia extrema de personajes (`--cref`):** Mantén el mismo rostro, peinado y vestimenta para crear webtoons o sesiones de fotos de influencers virtuales.
+3. **Soporte de modelado 3D (`--obj`):** Exporta instantáneamente archivos `.obj` basados en tus imágenes 2D, listos para impresión 3D o motores de videojuegos.
 
-타이포그래피가 포함된 상업용 포스터나 브랜드 로고를 즉시 뽑아내야 할 때 사용하세요.
+---
 
-> **Role:** 너는 세계적인 그래픽 디자이너야.
-> **Task:** 다음 프롬프트를 사용하여 텍스트가 정확히 렌더링된 사이버펑크 스타일의 포스터를 생성해 줘.
->
+## 🚀 Solución: "Master Prompt V7"
+
+### 🥉 Basic Version (Versión Básica)
+
+Úsalo cuando necesites generar de inmediato carteles comerciales o logotipos con tipografía exacta.
+
+> **Rol (Role):** Eres un diseñador gráfico de clase mundial especializado en tipografía y estilo cyberpunk.
+> 
+> **Contexto (Context):**
+> - Fondo: Se necesita un diseño de cartel para una campaña publicitaria nocturna.
+> - Objetivo: Integrar texto comercial con total precisión sobre la imagen generada.
+> 
+> **Tarea (Task):**
+> 1. Genera un póster cinematográfico utilizando un prompt optimizado para Midjourney v7.
+> 2. Asegúrate de colocar el texto deseado entre comillas dobles.
+> 
 > **Prompt:**
 > `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
+> 
+> **Restricciones (Constraints):**
+> - El texto debe ir estrictamente entre comillas (`" "`).
+> - Se debe incluir el parámetro `--style raw` para lograr un realismo cinematográfico libre de sobreestilización.
 
 <br>
 
-### 🥇 Pro Version (캐릭터 일관성 유지 및 응용)
+### 🥇 Pro Version (Versión Profesional)
 
-동일한 인물이 등장하는 시리즈물(브랜드 룩북, 숏폼 배경 이미지, 스토리보드)을 제작할 때 필수적인 프롬프트 파이프라인입니다.
+Este es un pipeline de prompts esencial para crear series con el mismo protagonista (lookbooks de marca, fondos para vídeos cortos, storyboards).
 
-> **Step 1 (오리지널 캐릭터 생성):**
-> 매력적인 기준 컷을 먼저 생성하고 해당 이미지의 URL을 확보합니다.
-> `candid medium shot photo of a stylish korean woman with pastel pink bob hair, wearing futuristic techwear, neon street fashion --ar 16:9 --v 7.0 --style raw`
->
-> **Step 2 (상황 및 포즈 부여):**
-> 확보한 [이미지 URL]을 `--cref` 파라미터에 넣어 동일 인물을 다른 환경에 배치합니다.
-> `[이미지 URL] drinking an iced latte at a sunny modern cafe, holding a clear plastic cup, natural happy smile --cref [이미지 URL] --cw 100 --ar 16:9 --v 7.0 --style raw`
->
-> **💡 파라미터 핵심 해석:**
->
-> - `--cref [URL]`: Character Reference. "이 URL 이미지 속 인물의 이목구비와 특징을 완벽히 고정해."
-> - `--cw 100`: Character Weight. 얼굴(0)부터 옷과 헤어스타일(100)까지 얼마나 똑같이 가져갈지 결정합니다. (기본값은 100입니다.)
-
----
-
-## 💡 작성자 코멘트 (Insight)
-
-실무에서 V7을 도입하며 가장 시간 단축 효과를 본 것은 단연 **'정교해진 인페인팅(Vary Region)'** 기능과 **`--style raw`**의 조합입니다.
-
-V7은 기본적으로 '미드저니 특유의 화려하고 예술적인 느낌(AI스러운 느낌)'이 강하게 세팅되어 있습니다. 상업용 사진이나 자연스러운 일상 컷을 원한다면 프롬프트 끝에 반드시 `--style raw`를 붙여 AI의 과도한 해석을 억제해야 합니다.
-
-또한, 생성된 이미지에서 손가락이 미세하게 어색하거나 소품 하나만 바꾸고 싶을 때, 예전처럼 프롬프트 전체를 다시 돌릴 필요가 없습니다. 웹 알파(Web Alpha) 인터페이스에서 `Vary (Region)` 툴로 해당 부분만 올가미로 지정한 후, 프롬프트를 `perfect hands` 혹은 `a red coffee mug`로 수정해 보세요. 원본의 빛과 그림자를 그대로 유지한 채 해당 부분만 마법처럼 합성됩니다. 이는 리터칭 외주 비용을 0원으로 만들어주는 핵심 기술입니다.
+> **Rol (Role):** Eres un director de fotografía y artista 3D experto.
+> 
+> **Contexto (Context):**
+> - Fondo: Se necesita producir una serie de imágenes (lookbook) con un modelo virtual consistente.
+> - Objetivo: Posicionar a la misma persona en diferentes situaciones sin perder la identidad de su rostro o ropa.
+> 
+> **Tarea (Task):**
+> 1. Genera un personaje base y obtén su enlace (URL). *(Ej: candid medium shot photo of a stylish woman...)*
+> 2. Aplica el siguiente prompt para variar la situación del personaje usando los parámetros avanzados de la V7.
+> 3. Completa los campos de `[URL de la imagen]` y `[Acción deseada]` según el caso.
+> 
+> **Prompt:**
+> `[Acción deseada, ej: drinking an iced latte at a sunny modern cafe] --cref [URL de la imagen] --cw 100 --ar 16:9 --v 7.0 --style raw`
+> 
+> **Restricciones (Constraints):**
+> - `--cref [URL]`: Fija de forma absoluta los rasgos de la persona referenciada en la URL.
+> - `--cw [0-100]`: Controla el peso de la referencia. Usa 100 para clonar rostro, ropa y estilo; usa 0 para mantener solo el rostro y permitir que el prompt cambie la vestimenta.
+> 
+> **Advertencia (Warning):**
+> - No uses `--cw 100` si pretendes que el personaje cambie de atuendo, ya que la IA forzará la ropa de la imagen original.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 💡 Notas del Autor (Insight)
 
-- **Q: 아직도 디스코드(Discord) 서버에서만 작업해야 하나요? 명령어 치기 번거롭습니다.**
-  - A: 아닙니다! 이제 10장 이상 생성해 본 유저라면 누구나 미드저니 알파 웹사이트(alpha.midjourney.com)를 이용할 수 있습니다. 슬라이더로 비율을 조절하고, 클릭만으로 `--cref` 이미지를 첨부하는 등 UI/UX가 비약적으로 발전했습니다.
+En mi experiencia implementando V7 en proyectos reales, lo que más tiempo me ha ahorrado es, sin duda, la combinación de la **función de inpainting mejorada (`Vary Region`)** junto con el parámetro **`--style raw`**.
 
-- **Q: `--obj` 파라미터로 뽑아낸 3D 모델의 퀄리티는 실무에 쓸만한 수준인가요?**
-  - A: 하이엔드 3D 툴(Blender, Maya)의 정교한 폴리곤을 대체할 수준은 아직 아닙니다. 하지만 게임 개발 초기 프로토타이핑, 3D 프린팅 스케치, 혹은 2.5D 일러스트레이션의 배경 에셋으로 활용하기에는 차고 넘치는 퀄리티를 보여줍니다. 텍스처 맵(Texture Map)까지 함께 구워져 나옵니다.
+Por defecto, V7 tiene una configuración muy fuerte del "estilo artístico y llamativo típico de Midjourney" (ese aspecto inconfundible de imagen autogenerada). Si buscas fotografías comerciales o escenas cotidianas naturales, debes añadir obligatoriamente `--style raw` al final del prompt para limitar la interpretación excesiva de la IA y obtener texturas fotorrealistas.
 
-- **Q: 텍스트 렌더링에 한글도 지원되나요?**
-  - A: 2026년 V7 현재, 영문(Alphabet)과 숫자 렌더링은 거의 99%의 정확도를 보이지만, 한글 등 복잡한 획을 가진 아시아권 언어는 아직 타이포그래피가 깨지는 현상이 종종 발생합니다. 텍스트는 영문으로 작업하시는 것을 강력히 권장합니다.
+Además, si notas que los dedos de una imagen generada se ven ligeramente extraños o solo quieres cambiar un accesorio, ya no necesitas regenerar todo el prompt ni cruzar los dedos. Desde la interfaz web (Alpha), usa la herramienta `Vary (Region)` para seleccionar solo esa zona y cambia el prompt a `perfect hands` o `a red coffee mug`. El área seleccionada se fusionará como por arte de magia, conservando las luces y sombras originales de la escena. Esta técnica reduce a cero tus costos de retoque externo y te da control a nivel de píxel.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1. **명확한 `Text ""` 지시어:** 따옴표(`""`) 안에 텍스트를 넣음으로써 AI에게 "이 부분은 형태(Shape)가 아닌 폰트(Font)로 인식하라"는 명확한 제약을 걸어주어 할루시네이션(외계어 생성)을 차단합니다.
-2. **`--cw` (Character Weight) 변수 조절:** 캐릭터 일관성을 유지하면서 상황에 맞게 의상을 갈아입혀야 할 때는 `--cw 0`을 사용합니다. 얼굴(`cref`) 특징은 그대로 유지하되 프롬프트에 적힌 새로운 의상 지시어를 우선적으로 반영하게 만드는 최적화 기법입니다.
+- **Q: ¿Todavía es obligatorio usar el servidor de Discord? Es muy tedioso escribir comandos.**
+  - A: ¡Para nada! Ahora, cualquier usuario que haya generado unas cuantas imágenes puede acceder al sitio web Alpha de Midjourney (alpha.midjourney.com). La interfaz (UI/UX) ha mejorado drásticamente: puedes ajustar proporciones con un control deslizante y adjuntar imágenes para el parámetro `--cref` con un simple clic visual.
 
----
+- **Q: ¿La calidad de los modelos 3D exportados con `--obj` es suficiente para uso profesional?**
+  - A: Todavía no reemplazan los polígonos ultra detallados de herramientas 3D de gama alta (como Blender o Maya) hechos por un humano. Sin embargo, ofrecen una calidad espectacular para prototipos rápidos en el desarrollo de videojuegos indie, bocetos para impresión 3D o como recursos de fondo en ilustraciones 2.5D. Además, se exportan con su mapa de texturas (Texture Map) ya integrado.
 
-## 📊 증명: Before & After
-
-### ❌ Before (V5/V6 시절의 한계)
-
-**입력:** 사이버펑크 카페 간판에 "OPEN 24/7"이라고 써줘.
-**결과:** (외계어 등장) OPNE 24/7, OOOPEN..., 글씨가 뭉개지고 배경에 녹아내림. 수정에만 포토샵으로 30분 소요.
-
-### ✅ After (V7의 압도적 정확도)
-
-**입력:** 사이버펑크 카페 간판에 "OPEN 24/7"이라고 써줘. (`--text "OPEN 24/7"`)
-**결과:** 네온사인 재질감까지 완벽하게 반영된 선명하고 또렷한 **"OPEN 24/7"** 타이포그래피 렌더링. 수정 시간 0분.
+- **Q: ¿El renderizado de texto soporta español y caracteres con tildes?**
+  - A: En la versión V7 de 2026, el renderizado de caracteres alfabéticos (inglés y español básico) y números tiene casi un 99% de precisión. Sin embargo, los acentos ortográficos (tildes) y letras como la 'ñ' a veces pueden presentar leves deformaciones o alucinaciones visuales. Se recomienda encarecidamente utilizar palabras en inglés para carteles, o usar mayúsculas sin tildes si el texto en español es indispensable.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (Why it works?)
 
-미드저니 V7은 더 이상 아이디어를 시각화하는 단순한 '스케치 도구'가 아닙니다.
-포토그래퍼, 3D 모델러, 타이포그래퍼의 역할을 모두 수행하는 **'1인 종합 스튜디오'**입니다.
+1. **Uso explícito de comillas (`"Texto"`):** Al colocar el texto entre comillas dobles, le damos a la IA la restricción estricta de "reconocer esta parte como una fuente tipográfica (Font) y no como un objeto físico (Shape)". Esto es lo que bloquea eficazmente las alucinaciones de texto sin sentido que plagaban las versiones anteriores.
+2. **Ajuste dinámico de `--cw` (Character Weight):** Cuando necesites mantener la consistencia del personaje pero cambiar su vestimenta según la situación, utilizar `--cw 0` es vital. Es una técnica de optimización avanzada que ancla los rasgos faciales (`cref`) pero libera la ropa, dando prioridad a las nuevas prendas de vestir indicadas en tu prompt de texto.
 
-월 10달러의 구독료로 이 모든 인프라를 당신의 모니터 안으로 가져오세요.
-이제 남은 것은 **당신의 상상력**뿐입니다. 이제 칼퇴하세요! 🍷
+---
+
+## 📊 Demostración: Antes y Después
+
+### ❌ Antes (Límites de las versiones V5/V6)
+
+**Entrada:** Escribe "OPEN 24/7" en el letrero de una cafetería cyberpunk.
+**Resultado:** (Texto incomprensible) `OPNE 24/7`, `OOOPEN...` Las letras aparecen borrosas, fusionadas como pintura derretida y mezcladas con el fondo. Arreglarlo requiere al menos 30 minutos de clonado en Photoshop.
+
+### ✅ Después (Precisión abrumadora de la V7)
+
+**Entrada:** Escribe "OPEN 24/7" en el letrero de una cafetería cyberpunk. (`--text "OPEN 24/7"`)
+**Resultado:** Una tipografía de **"OPEN 24/7"** nítida y perfectamente proporcionada, integrando incluso el reflejo y la textura de la luz de neón. Tiempo de corrección: 0 minutos.
+
+---
+
+## 🎯 Conclusión
+
+Midjourney V7 ya no es una simple "herramienta de bocetaje" para visualizar ideas vagas.
+Se ha convertido en un **"estudio integral de un solo hombre"** que cumple las funciones de director de fotografía, modelador 3D y tipógrafo, todo a la vez.
+
+Por una fracción del costo de una licencia de software tradicional, llevas toda esta infraestructura directamente a tu pantalla.
+El verdadero límite ahora es solo **tu imaginación**. ¡Termina tu trabajo temprano hoy! 🍷

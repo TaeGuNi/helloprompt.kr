@@ -5,136 +5,138 @@ author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "마케팅/콘텐츠"
-description: "정보 수집하느라 시간 다 뺏기는 마케터 필독. RSS 피드와 AI를 연동해 자동으로 뉴스레터 초안을 만드는 법."
+description: "Lectura obligatoria para marketers que pierden tiempo recopilando información. Aprende a crear borradores de newsletters automáticamente conectando fuentes RSS con IA."
 tags: ["뉴스레터", "큐레이션", "자동화", "Zapier", "ChatGPT"]
 ---
 
-# 📬 뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇
+# 📬 Curación de Newsletters: Tu Bot Resumidor de Noticias para los Lunes por la Mañana
 
-- **🎯 추천 대상:** "요즘 트렌드가 뭐예요?" 질문받으면 말문 막히는 마케터, 뉴스레터 발행하고 싶은데 소재 찾다 지쳐 포기한 기획자 및 크리에이터
-- **⏱️ 소요 시간:** 15분 (초기 세팅) → 1분 (매주 초안 확인)
-- **🤖 추천 모델:** 모든 대화형 AI (ChatGPT-4o, Claude 3.5 Sonnet 등)
+- **🎯 Público objetivo:** Marketers que se quedan en blanco cuando les preguntan "¿Cuáles son las tendencias actuales?", planificadores y creadores de contenido que abandonan sus newsletters por la fatiga de buscar temas.
+- **⏱️ Tiempo estimado:** 15 minutos (configuración inicial) → 1 minuto (revisión semanal del borrador)
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, etc.)
 
-- ⭐ **난이도:** ⭐⭐⭐☆☆
-- ⚡️ **효과성:** ⭐⭐⭐⭐⭐
-- 🚀 **활용도:** ⭐⭐⭐⭐⭐
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"세상에 쏟아지는 뉴스는 너무 많고, 내게 주어진 시간은 너무 적다. 매일 아침 트렌드를 쫓아가느라 숨이 턱끝까지 차오르지 않나요?"_
+> _"Hay demasiadas noticias en el mundo y muy poco tiempo en tu día. ¿No te quedas sin aliento intentando seguir el ritmo de las tendencias cada mañana?"_
 
-일일이 사이트에 들어가서 새로고침하는 노동은 이제 멈추세요. **RSS 피드**와 **AI**를 연결하면, 세상의 핵심 뉴스가 내 슬랙(Slack)이나 노션(Notion)으로 매일 아침 알아서 배달됩니다. 심지어 바쁜 직장인을 위한 **"3줄 요약"**과 전문가의 인사이트가 담긴 **"마케터의 관점"**까지 정갈하게 덧붙여서요.
-
----
-
-## ⚡️ 3줄 요약 (TL;DR)
-
-1. 관심 있는 산업군의 뉴스 사이트 RSS를 Zapier나 Make.com을 통해 긁어옵니다.
-2. AI에게 "기사의 핵심 3가지와 마케터 관점의 인사이트를 작성해 줘"라고 자동 요약을 지시합니다.
-3. 노션(Notion) 데이터베이스에 알아서 쌓인 고품질 초안을 금요일에 복사하여 뉴스레터로 발송합니다.
+Deja de perder el tiempo entrando a cada sitio web y dándole a actualizar. Si conectas fuentes **RSS** con **IA**, las noticias más importantes del sector llegarán automáticamente a tu Slack o Notion cada mañana. Y lo mejor de todo: vendrán perfectamente organizadas con un **"resumen de 3 líneas"** para profesionales ocupados y la **"perspectiva del marketer"** llena de insights expertos.
 
 ---
 
-## 🚀 해결책: "뉴스레터 큐레이터 봇 (Newsletter Curator Bot)"
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-### 🥉 Basic Version (단순 요약형)
+1. Extrae mediante Zapier o Make.com los feeds RSS de los sitios de noticias de tu sector.
+2. Ordena a la IA: "Escribe los 3 puntos clave del artículo y añade insights desde la perspectiva de un marketer" para generar un resumen automático.
+3. Los viernes, simplemente copia los borradores de alta calidad que se han acumulado solos en tu base de datos de Notion y envíalos como tu newsletter.
 
-빠르게 기사의 핵심 내용만 파악하고 싶을 때 사용하세요.
+---
 
-> **역할:** 너는 `[IT 전문 요약가]`야.
-> **요청:** 아래 기사를 바쁜 직장인이 10초 만에 읽을 수 있게 3줄로 요약해 줘. 어려운 전문 용어는 중학생도 이해할 수 있도록 쉽게 풀어서 설명해.
+## 🚀 La Solución: "Bot Curador de Newsletters"
+
+### 🥉 Versión Básica (Resumen Simple)
+
+Úsalo cuando necesites captar rápidamente el núcleo de la noticia.
+
+> **Rol:** Eres un `[Experto en Resúmenes de TI]`.
+> **Tarea:** Resume el siguiente artículo en 3 líneas para que un profesional ocupado pueda leerlo en 10 segundos. Explica los términos técnicos difíciles de forma tan sencilla que hasta un estudiante de secundaria los entienda.
 >
-> **기사 전문:**
-> `[뉴스 본문 복사 붙여넣기]`
+> **Artículo completo:**
+> `[Pegar el texto del artículo aquí]`
 
 <br>
 
-### 🥇 Pro Version (뉴스레터 초안 작성형)
+### 🥇 Versión Pro (Redacción de Borradores)
 
-구독자에게 바로 발송해도 손색없는 고품질 큐레이션 콘텐츠가 필요할 때 사용하세요. (Zapier/Make 프롬프트 노드에 입력)
+Úsalo cuando necesites contenido de curación de alta calidad, listo para ser enviado a tus suscriptores. (Ideal para insertar en los nodos de Zapier/Make)
 
-> **역할 (Role):** 너는 최신 IT 및 마케팅 트렌드를 날카롭게 분석해 주는 뉴스레터 수석 에디터 '테크요정'이야.
+> **Rol (Role):** Eres 'TechFairy', un Editor Jefe de newsletters que analiza de forma aguda las últimas tendencias en TI y marketing.
 >
-> **상황 (Context):**
+> **Contexto (Context):**
 >
-> - 배경: 매주 월요일 아침, 구독자(주니어 마케터 및 기획자)에게 업계 동향을 전달하는 뉴스레터를 발송해야 해.
-> - 목표: 단순한 정보 전달을 넘어, 실무에 적용할 수 있는 깊이 있는 인사이트를 제공하여 뉴스레터 오픈율과 신뢰도를 높이는 것.
+> - Fondo: Cada lunes por la mañana, debes enviar una newsletter con las tendencias del sector a tus suscriptores (marketers junior y planificadores).
+> - Objetivo: Ir más allá de la simple transmisión de información. Debes proporcionar insights profundos y aplicables al mundo real para aumentar la tasa de apertura y la credibilidad de la newsletter.
 >
-> **요청 (Task):**
+> **Tarea (Task):**
 >
-> 제공된 기사를 바탕으로 뉴스레터의 한 꼭지(섹션)를 완벽하게 작성해 줘.
+> Redacta a la perfección una sección de la newsletter basándote en el artículo proporcionado.
 >
-> 1.  **헤드라인:** 독자의 클릭을 유도할 수 있는 재치 있고 매력적인 제목을 뽑아줘. (예: "애플이 또 애플했다? 비전 프로 2의 숨겨진 의미")
-> 2.  **핵심 요약 (What):** 기사의 팩트 위주로 가장 중요한 내용 3가지를 불릿 포인트로 요약해.
-> 3.  **에디터 인사이트 (Why & How):** 이 뉴스가 왜 중요한지, 앞으로 업계에 어떤 영향을 미칠지, 그리고 실무자는 무엇을 대비해야 하는지 너만의 날카로운 관점(View)을 덧붙여.
+> 1.  **Titular:** Crea un título ingenioso y atractivo que incite al lector a hacer clic. (Ejemplo: "¿Apple lo vuelve a hacer? El significado oculto de las Vision Pro 2").
+> 2.  **Resumen Clave (What):** Resume los 3 puntos más importantes basados en los hechos del artículo usando viñetas (bullet points).
+> 3.  **Insight del Editor (Why & How):** Añade tu propia perspectiva aguda (View) sobre por qué es importante esta noticia, cómo afectará al sector en el futuro y qué deben preparar los profesionales del sector.
 >
-> **기사 내용 (Article):**
+> **Contenido del Artículo (Article):**
 >
-> - 제목: `[RSS에서 불러온 기사 제목 변수 입력]`
-> - 내용: `[RSS에서 불러온 기사 본문 변수 입력]`
+> - Título: `[Insertar variable del título del artículo obtenido del RSS]`
+> - Contenido: `[Insertar variable del contenido del artículo obtenido del RSS]`
 >
-> **제약사항 (Constraints):**
+> **Restricciones (Constraints):**
 >
-> - 출력 형식은 마크다운을 사용해 가독성 좋게 구성해 줘.
-> - 톤앤매너: 전문적이면서도 지루하지 않게, 친근하고 유머러스한 어투를 유지해. 적절한 이모지를 2~3개 활용해.
-> - 확실하지 않은 정보나 원문 기사에 없는 내용은 절대 지어내지 마. (할루시네이션 엄격 금지)
+> - El formato de salida debe usar Markdown para una excelente legibilidad. No uses tablas.
+> - Tono y estilo: Mantén un tono profesional pero no aburrido; debe ser cercano y humorístico. Usa 2 o 3 emojis adecuados.
+> - Nunca inventes información incierta o detalles que no estén en el artículo original. (Estricta prohibición de alucinaciones).
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 El Insight del Autor
 
-뉴스레터 큐레이션의 진짜 가치는 '단순한 정보의 전달'이 아니라, 발행인만의 고유한 **'관점(View)'**을 제시하는 데 있습니다.
-단순히 AI에게 기사를 요약하라고만 지시하면, 포털 사이트 메인 뉴스와 다를 바 없는 뻔한 결과물이 나옵니다. 프롬프트에 반드시 **"이 뉴스가 마케터(혹은 타겟 독자)에게 어떤 의미인가?", "실무자는 당장 무엇을 준비해야 하는가?"**와 같이 직군에 특화된 해석을 요구하세요. AI가 뼈대를 잡고 인사이트를 초안 형태로 던져주면, 여러분은 그 위에 자신의 실제 경험 한 스푼만 얹으면 됩니다. 이것이 수많은 뉴스레터 사이에서 살아남는 핵심 차별화 포인트입니다.
+El verdadero valor de curar una newsletter no reside en la 'simple transmisión de información', sino en presentar el **'Punto de Vista (View)'** único del editor. Si solo le pides a la IA que resuma el artículo, obtendrás un resultado genérico, indistinguible de la página principal de un portal de noticias. 
 
----
-
-## 🙋 자주 묻는 질문 (FAQ)
-
-- **Q: 타인의 기사를 그대로 요약해서 뉴스레터로 발행해도 저작권에 문제가 없나요?**
-  - A: 원문을 그대로 복사하여 배포하는 것은 저작권 침해입니다. 반드시 AI를 통해 자신의 언어로 요약 및 재창조를 거쳐야 하며, 출처를 명확히 밝히고 **'원문 링크'**를 첨부하여 원작자에게 트래픽을 돌려주는 것이 올바른 큐레이션 에티켓입니다.
-
-- **Q: Zapier 말고 무료로 사용할 수 있는 자동화 툴은 없나요?**
-  - A: Make.com(구 Integromat)의 무료 플랜을 강력히 추천합니다. 매월 1,000회의 실행(Operation)을 무료로 제공하므로 개인 뉴스레터 자동화 세팅에 충분합니다. `RSS 모듈` ➡️ `OpenAI(ChatGPT) 모듈` ➡️ `Notion 모듈` 순으로 연결하여 비용 없이 파이프라인을 구축해 보세요.
-
-- **Q: AI가 기사 내용을 엉뚱하게 해석하거나 거짓말을 지어내는 경우는 없나요?**
-  - A: 발생할 수 있습니다(할루시네이션 현상). 이를 최소화하기 위해 Pro 버전 프롬프트의 제약사항에 "기사에 없는 내용은 절대 지어내지 마"라는 문구를 명시했습니다. 다만, 최종 발송 전에는 반드시 사람이 직접 한 번 더 내용을 검수(Human-in-the-loop)하는 과정을 거쳐야 대참사를 막을 수 있습니다.
+Asegúrate de incluir en tu prompt preguntas específicas para tu sector, como: **"¿Qué significa esta noticia para un marketer (o tu público objetivo)?"** o **"¿Qué deben preparar los profesionales de inmediato?"**. Una vez que la IA estructure la base y te ofrezca un primer borrador de insights, tú solo tienes que añadir una pizca de tu propia experiencia real. Ese es el factor diferenciador clave para sobrevivir en un mar de newsletters.
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🙋 Preguntas Frecuentes (FAQ)
 
-1.  **페르소나 부여 (수석 에디터 '테크요정'):** AI에게 단순 번역기나 요약기가 아닌 '수석 에디터'라는 명확한 정체성과 전문가적 페르소나를 씌웠습니다. 이로 인해 딱딱한 뉴스 기사도 "여러분, 판이 바뀝니다!"처럼 생동감 넘치고 호소력 짙은 톤앤매너로 변모합니다.
-2.  **구조화된 정보 처리 (What & Why 분리):** 단순 요약(What)과 인사이트(Why & How)를 명확히 분리하여 요청했습니다. 독자는 팩트를 빠르게 습득함과 동시에, 그 정보가 갖는 의미와 생각할 거리를 제공받아 콘텐츠에 더 오래 머물게 됩니다.
-3.  **독자 타겟팅:** '주니어 마케터 및 기획자'라고 독자의 범위를 명확히 좁혔기 때문에, AI가 무작위 대중이 아닌 타겟 독자의 입맛에 맞는 맞춤형 해설과 실무적 조언을 작성할 수 있습니다.
+- **P: ¿Hay problemas de derechos de autor si publico un resumen del artículo de otra persona en mi newsletter?**
+  - R: Copiar y distribuir el texto original tal cual es una infracción de derechos de autor. Debes usar la IA para resumir y recrear el contenido con tus propias palabras, citar claramente la fuente y adjuntar el **'enlace original'** para redirigir tráfico al autor original. Esta es la etiqueta correcta de la curación de contenidos.
 
----
+- **P: ¿Existe alguna herramienta de automatización gratuita que pueda usar en lugar de Zapier?**
+  - R: Recomiendo encarecidamente el plan gratuito de Make.com (antes Integromat). Ofrece 1.000 operaciones mensuales gratuitas, lo cual es más que suficiente para configurar la automatización de una newsletter personal. Conecta el `Módulo RSS` ➡️ `Módulo de OpenAI (ChatGPT)` ➡️ `Módulo de Notion` en ese orden para construir tu pipeline a coste cero.
 
-## 📊 증명: Before & After
-
-### ❌ Before (단순 기사 링크 공유)
-
-> "애플 비전 프로 2 나온대요. 자세한 내용은 아래 링크를 확인하세요. (기사 링크)"
-> _(독자 반응: "그래서 어쩌라고? 나랑 무슨 상관인데?")_
-
-### ✅ After (AI 수석 에디터의 큐레이션)
-
-> **🍎 애플이 또? 비전 프로 2, 드디어 대중화의 포문을 열다!**
->
-> **핵심 요약 (What)**
->
-> - 출고가가 기존 대비 절반 수준인 200만 원대로 대폭 인하되었습니다.
-> - 무게 역시 절반으로 줄어들어 장시간 착용 시의 목 디스크 걱정을 덜어냅니다.
-> - M4 칩 탑재로 온디바이스 AI 연산 속도가 3배 이상 향상되었습니다.
->
-> **🤔 에디터의 인사이트 (Why & How)**
-> 이제 지하철이나 카페에서 허공에 손짓하는 사람들을 흔하게 볼 날이 머지않았습니다. 마케터 여러분, 주목하세요! 텍스트와 2D 이미지에 국한되었던 콘텐츠 시장이 '공간 컴퓨팅(Spatial Computing)'이라는 완전히 새로운 차원으로 이동하고 있습니다. 당장 다음 달 프로모션 기획부터 '3D 인터랙션' 요소를 어떻게 녹여낼지 고민을 시작해야 할 때입니다. 지금이 이 거대한 파도에 올라탈 마지막 골든타임입니다!
->
-> _(독자 반응: "오, 진짜 준비해야겠네. 다음 주 뉴스레터도 기대된다!" 구독 버튼 꾹 👇)_
+- **P: ¿A veces la IA malinterpreta el artículo o inventa mentiras?**
+  - R: Sí, puede ocurrir (el fenómeno de las alucinaciones). Para minimizarlo, hemos especificado en las restricciones del prompt Pro: "Nunca inventes información incierta". Sin embargo, antes del envío final, es indispensable que un humano revise el contenido (Human-in-the-loop) para evitar desastres.
 
 ---
 
-## 🎯 결론
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-정보는 어디에나 넘쳐나는 흙탕물과 같습니다.
-그 물을 퍼 올려 불순물을 걸러내고, 누구나 안심하고 마실 수 있는 맑은 **'생수'**로 정수하는 것이 바로 큐레이터의 진정한 역할입니다.
+1.  **Asignación de Persona (Editor Jefe):** Le dimos a la IA una identidad clara y una persona experta en lugar de tratarla como un simple traductor o resumidor. Esto transforma artículos de noticias secos en contenido vivo y atractivo con un tono de voz persuasivo y dinámico.
+2.  **Procesamiento de Información Estructurada (Separando Qué y Por qué):** Pedimos explícitamente que se separara el resumen (What) de los insights (Why & How). El lector asimila los hechos rápidamente y, al mismo tiempo, recibe el significado y motivos para reflexionar, manteniéndolo involucrado con el contenido por más tiempo.
+3.  **Público Objetivo Específico:** Al definir claramente a los lectores como 'marketers junior y planificadores', la IA puede adaptar sus explicaciones y consejos prácticos específicamente a sus necesidades diarias, en lugar de dirigirse a un público general.
 
-지금 바로 나만의 AI 정수기(자동화 파이프라인)를 구축해 보세요.
-매주 월요일 아침, 당신은 트렌드에 쫓기는 실무자가 아닌, 업계를 리드하는 **최고의 인사이트 메이커**로 거듭날 것입니다. 이제 당당하게 칼퇴하세요! 🍷
+---
+
+## 📊 La Prueba: Antes y Después
+
+### ❌ Antes (Compartir un simple enlace)
+
+> "Dicen que salen las Apple Vision Pro 2. Revisa el enlace abajo para más detalles. (Enlace del artículo)"
+> _(Reacción del lector: "¿Y qué? ¿A mí qué me importa?")_
+
+### ✅ Después (Curación por el Editor Jefe IA)
+
+> **🍎 ¿Apple ataca de nuevo? ¡Las Vision Pro 2 finalmente abren las puertas a las masas!**
+>
+> **Resumen Clave (What)**
+>
+> - El precio de lanzamiento se ha reducido drásticamente a la mitad del original.
+> - El peso también se ha reducido a la mitad, aliviando las preocupaciones sobre problemas cervicales por uso prolongado.
+> - Con la incorporación del chip M4, la velocidad de procesamiento de IA on-device ha mejorado más de 3 veces.
+>
+> **🤔 Insight del Editor (Why & How)**
+>
+> Ya no falta mucho para que ver a la gente gesticulando en el aire en el metro o en una cafetería sea algo habitual. ¡Marketers, presten atención! El mercado de contenidos, antes limitado a texto e imágenes 2D, se traslada a una dimensión completamente nueva: la 'Computación Espacial' (Spatial Computing). Es hora de empezar a pensar cómo integrar elementos de 'interacción 3D' en la planificación de tu próxima campaña. ¡Este es el momento dorado para subirse a esta ola gigante!
+>
+> _(Reacción del lector: "Vaya, de verdad tengo que prepararme. ¡Ya estoy esperando la newsletter de la próxima semana!" Clic en suscribirse 👇)_
+
+---
+
+## 🎯 Conclusión
+
+La información actual es como agua turbia que inunda todas partes.
+El verdadero papel de un curador es sacar esa agua, filtrar las impurezas y purificarla hasta convertirla en un **'agua mineral'** cristalina que cualquiera pueda beber con confianza.
+
+Empieza hoy mismo a construir tu propia purificadora de agua con IA (pipeline de automatización).
+Cada lunes por la mañana, dejarás de ser un profesional abrumado por las tendencias para renacer como el **mejor creador de insights** que lidera el sector. ¡Ahora sí, desconecta y sal del trabajo a tu hora! 🍷

@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: Untersuchung der ethischen Auswirkungen emotionaler Bindungen zu KI-Chatbots und des Aufstiegs von Deepfake-Begleitern.
+description: "Untersuchung der ethischen Auswirkungen emotionaler Bindungen zu KI-Chatbots und des Aufstiegs von Deepfake-Begleitern."
 image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
@@ -8,7 +8,7 @@ tags:
   - Ethics
   - Society
   - Relationships
-title: "Die Ethik von KI-Beziehungen: Chatbots, Deepfakes und Dilemmata"
+title: " \"Die Ethik von KI-Beziehungen: Chatbots, Deepfakes und Dilemmata\""
 ---
 
 # 📝 Die Ethik von KI-Beziehungen: Chatbots, Deepfakes und Dilemmata

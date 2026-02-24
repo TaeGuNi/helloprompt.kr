@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Projet Vie Divine ! Écriture de Planificateur Hebdomadaire IA"
+title: " \"Projet Vie Divine ! Écriture de Planificateur Hebdomadaire IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Vous avez trop de choses à faire et n'arrivez plus à vous organiser ? Obtenez une planification parfaite basée sur vos priorités avec l'IA."
+description: " \"Vous avez trop de choses à faire et n'arrivez plus à vous organiser ? Obtenez une planification parfaite basée sur vos priorités avec l'IA.\""
 tags: ["Planificateur", "Ordonnanceur", "Gestion du Temps", "Productivité"]
 ---
 

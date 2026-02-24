@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estimativa de Despesas de Viagem: Plano Perfeito Sem Estouro de Orçamento"
+title: " \"Estimativa de Despesas de Viagem: Plano Perfeito Sem Estouro de Orçamento\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "De passagens aéreas a despesas com alimentação local, crie um orçamento com margem de erro inferior a 10% refletindo os preços reais do destino."
+description: " \"De passagens aéreas a despesas com alimentação local, crie um orçamento com margem de erro inferior a 10% refletindo os preços reais do destino.\""
 tags: ["Viagem", "Orçamento", "PlanoViagem", "Despesas"]
 ---
 

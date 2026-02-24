@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3초 컷"
+title: " \"정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3초 컷\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "비즈니스"
-description: "Sparen Sie täglich 30 Minuten beim Schreiben von E-Mails und steigern Sie Ihre Effizienz. Lernen Sie, wie Sie höflich absagen oder Termine professionell koordinieren."
+description: " \"Sparen Sie täglich 30 Minuten beim Schreiben von E-Mails und steigern Sie Ihre Effizienz. Lernen Sie, wie Sie höflich absagen oder Termine professionell koordinieren.\""
 tags: ["이메일", "커뮤니케이션", "영어이메일"]
 ---
 

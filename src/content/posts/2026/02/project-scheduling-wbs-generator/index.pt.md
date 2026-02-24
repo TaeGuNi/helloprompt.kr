@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planejamento Automático de Cronogramas de Projetos (WBS)"
+title: " \"Planejamento Automático de Cronogramas de Projetos (WBS)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Prompt de agendamento que divide tarefas calculando de trás para frente a partir do prazo final."
+description: " \"Prompt de agendamento que divide tarefas calculando de trás para frente a partir do prazo final.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

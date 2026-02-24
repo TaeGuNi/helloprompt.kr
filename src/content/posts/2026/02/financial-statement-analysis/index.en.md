@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Financial Statement Ultra-Fast Analysis Prompt"
+title: " \"Financial Statement Ultra-Fast Analysis Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A must-have prompt for stock investors that distills complex financial statements into actionable insights in just one minute."
+description: " \"A must-have prompt for stock investors that distills complex financial statements into actionable insights in just one minute.\""
 tags: ["Stock", "FinancialStatement", "FundamentalAnalysis", "Investment"]
 ---
 

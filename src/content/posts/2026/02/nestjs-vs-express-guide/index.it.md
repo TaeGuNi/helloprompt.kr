@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NestJS vs Express: Guida di Sopravvivenza 2026 per i Framework Backend"
+title: " \"NestJS vs Express: Guida di Sopravvivenza 2026 per i Framework Backend\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Backend/DB"
-description: "Lo spirito libero di Express contro il rigore di NestJS. Scopri perché NestJS è l'unica scelta logica per i progetti su larga scala."
+description: " \"Lo spirito libero di Express contro il rigore di NestJS. Scopri perché NestJS è l'unica scelta logica per i progetti su larga scala.\""
 tags: ["NestJS", "Express", "Node.js", "Backend", "Framework"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AutoGen 입문: AI 에이전트끼리 대화하게 만들기"
+title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "微软开源的多智能体框架 AutoGen。这是一个自动化协作构建指南，让开发者 Bot 和管理员 Bot 互相提供反馈并完成代码编写。"
+description: " \"微软开源的多智能体框架 AutoGen。这是一个自动化协作构建指南，让开发者 Bot 和管理员 Bot 互相提供反馈并完成代码编写。\""
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 

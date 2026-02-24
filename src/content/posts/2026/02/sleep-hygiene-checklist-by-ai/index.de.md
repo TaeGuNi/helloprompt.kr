@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schlafhygiene-Checkliste von KI: Keine schlaflosen Nächte mehr"
+title: " \"Schlafhygiene-Checkliste von KI: Keine schlaflosen Nächte mehr\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Bietet mein Schlafzimmer wirklich die optimale Umgebung für erholsamen Schlaf? Lassen Sie die KI Ihre Schlafhygiene und Lebensgewohnheiten analysieren, um maßgeschneiderte Lösungen für eine ruhige Nacht zu erhalten."
+description: " \"Bietet mein Schlafzimmer wirklich die optimale Umgebung für erholsamen Schlaf? Lassen Sie die KI Ihre Schlafhygiene und Lebensgewohnheiten analysieren, um maßgeschneiderte Lösungen für eine ruhige Nacht zu erhalten.\""
 tags: ["Schlaf", "Schlaflosigkeit", "Gesundheit", "Schlafhygiene", "ChatGPT"]
 ---
 

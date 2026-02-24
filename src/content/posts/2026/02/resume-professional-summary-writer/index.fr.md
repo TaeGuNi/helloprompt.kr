@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Première Impression du CV : Le Prompt pour Rédiger une 'Accroche' Percutante"
+title: " \"Première Impression du CV : Le Prompt pour Rédiger une 'Accroche' Percutante\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Rédigez un résumé professionnel (Profil / About Me) de 3 à 5 lignes pour le haut de votre CV et décuplez vos chances de décrocher un entretien."
+description: " \"Rédigez un résumé professionnel (Profil / About Me) de 3 à 5 lignes pour le haut de votre CV et décuplez vos chances de décrocher un entretien.\""
 tags: ["CV", "Résumé", "RésuméProfil", "AutoIntro"]
 ---
 

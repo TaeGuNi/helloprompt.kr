@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Real Mock Interview' Simulation with AI Possessed by Interviewer"
+title: " \"'Real Mock Interview' Simulation with AI Possessed by Interviewer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Configure AI with a rigorous interviewer persona to practice high-pressure, follow-up questions for realistic interview simulations."
+description: " \"Configure AI with a rigorous interviewer persona to practice high-pressure, follow-up questions for realistic interview simulations.\""
 tags: ["MockInterview", "InterviewPractice", "AIInterviewer", "JobPrep"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta Spese Fisse: Idee per Smettere di Perdere Soldi"
+title: " \"Dieta Spese Fisse: Idee per Smettere di Perdere Soldi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Pensi che le tue spese fisse mensili non possano essere ridotte? Lascia che l'IA scovi i risparmi nascosti per te."
+description: " \"Pensi che le tue spese fisse mensili non possano essere ridotte? Lascia che l'IA scovi i risparmi nascosti per te.\""
 tags: ["Risparmio", "SpesaFissa", "CostoVita", "Frugalità"]
 ---
 

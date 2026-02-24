@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Análise Ultra-Rápida de Demonstrações Financeiras"
+title: " \"Prompt de Análise Ultra-Rápida de Demonstrações Financeiras\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Um prompt indispensável para investidores: resuma os pontos-chave de demonstrações financeiras complexas em menos de 1 minuto."
+description: " \"Um prompt indispensável para investidores: resuma os pontos-chave de demonstrações financeiras complexas em menos de 1 minuto.\""
 tags: ["Ações", "DemonstraçãoFinanceira", "AnáliseFundamental", "Investimento"]
 ---
 

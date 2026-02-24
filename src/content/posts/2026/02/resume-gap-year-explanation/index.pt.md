@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Como Transformar Ano Sabático de Currículo em 'Força' não Fraqueza"
+title: " \"Como Transformar Ano Sabático de Currículo em 'Força' não Fraqueza\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Reinterprete seu período sabático ou interrupção de carreira como uma fase estratégica de autodesenvolvimento e recarga, transformando-o em um diferencial competitivo para sua carta de apresentação."
+description: " \"Reinterprete seu período sabático ou interrupção de carreira como uma fase estratégica de autodesenvolvimento e recarga, transformando-o em um diferencial competitivo para sua carta de apresentação.\""
 tags:
   [
     "AnoSabático",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Indoor-Schatzsuche-Hinweise: Aktivität für Regentage"
+title: " \"Indoor-Schatzsuche-Hinweise: Aktivität für Regentage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Erstellen Sie in nur einer Minute mit KI maßgeschneiderte Hinweise für eine spannende Indoor-Schatzsuche."
+description: " \"Erstellen Sie in nur einer Minute mit KI maßgeschneiderte Hinweise für eine spannende Indoor-Schatzsuche.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

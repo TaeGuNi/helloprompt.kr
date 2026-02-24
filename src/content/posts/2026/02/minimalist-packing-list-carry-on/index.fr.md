@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Liste de Colisage Minimaliste : Voyage avec Bagage Cabine Uniquement"
+title: " \"Liste de Colisage Minimaliste : Voyage avec Bagage Cabine Uniquement\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Voyagez léger et profitez davantage. Découvrez l'art du bagage minimaliste pour éviter le superflu et n'emporter que l'essentiel en cabine."
+description: " \"Voyagez léger et profitez davantage. Découvrez l'art du bagage minimaliste pour éviter le superflu et n'emporter que l'essentiel en cabine.\""
 tags: ["Colisage", "Minimalisme", "Bagage Cabine", "Liste de Colisage"]
 ---
 

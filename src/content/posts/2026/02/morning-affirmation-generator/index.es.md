@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미라클 모닝 긍정 확언 생성기"
+title: " \"미라클 모닝 긍정 확언 생성기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Comienza tu día con energía y enfoque utilizando afirmaciones positivas personalizadas generadas por IA."
+description: " \"Comienza tu día con energía y enfoque utilizando afirmaciones positivas personalizadas generadas por IA.\""
 tags: ["미라클모닝", "마인드셋", "자기계발", "긍정확언"]
 ---
 

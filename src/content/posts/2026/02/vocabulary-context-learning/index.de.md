@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Englisch-Vokabel-Meister Lernen mit Kontext"
+title: " \"Englisch-Vokabel-Meister Lernen mit Kontext\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Fremdsprachenlernen"
-description: "Schluss mit dem sturen Auswendiglernen! Ein Prompt, um englische Vokabeln inklusive ihrer feinen Nuancen im echten Kontext zu meistern."
+description: " \"Schluss mit dem sturen Auswendiglernen! Ein Prompt, um englische Vokabeln inklusive ihrer feinen Nuancen im echten Kontext zu meistern.\""
 tags: ["Englischlernen", "Wortauswendiglernen", "Prompt", "Bildung"]
 ---
 

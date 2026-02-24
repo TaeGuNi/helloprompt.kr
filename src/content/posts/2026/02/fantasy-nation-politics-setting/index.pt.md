@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configuração de Nação e Sistema Político: Mundo de Fantasia Realista"
+title: " \"Configuração de Nação e Sistema Político: Mundo de Fantasia Realista\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Um reino simples e clichê é monótono. Aprenda a projetar uma nação com um sistema político tridimensional, como uma teocracia ou república mercantil, para o seu mundo de fantasia."
+description: " \"Um reino simples e clichê é monótono. Aprenda a projetar uma nação com um sistema político tridimensional, como uma teocracia ou república mercantil, para o seu mundo de fantasia.\""
 tags: ["Universo", "Política", "Nação", "Fantasia", "Configuração"]
 ---
 

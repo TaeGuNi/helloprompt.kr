@@ -1,6 +1,6 @@
 ---
-title: "Galaxy S26: Monster Specs Meet AI"
-description: "Мощь Exynos 2600. Эволюция Galaxy AI сквозь призму 3D-билбордов."
+title: " \"Galaxy S26: Monster Specs Meet AI\""
+description: " \"Мощь Exynos 2600. Эволюция Galaxy AI сквозь призму 3D-билбордов.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

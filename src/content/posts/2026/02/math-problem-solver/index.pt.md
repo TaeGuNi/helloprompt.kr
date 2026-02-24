@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Salvador da Desistência em Matemática: Explicador Amigável de Problemas Matemáticos"
+title: " \"Salvador da Desistência em Matemática: Explicador Amigável de Problemas Matemáticos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemática/Ciência"
-description: "Em vez de um gabarito frio que apenas fornece a resposta final, este prompt atua como um tutor particular, explicando detalhadamente cada etapa do raciocínio lógico."
+description: " \"Em vez de um gabarito frio que apenas fornece a resposta final, este prompt atua como um tutor particular, explicando detalhadamente cada etapa do raciocínio lógico.\""
 tags: ["EstudoMatemática", "ResoluçãoProblemas", "Prompt", "Tutoria"]
 ---
 

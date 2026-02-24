@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pulizia Frigo! Generatore Ricette Salutari IA"
+title: " \"Pulizia Frigo! Generatore Ricette Salutari IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Ricette salutari a 5 stelle realizzate con ingredienti vicini alla scadenza."
+description: " \"Ricette salutari a 5 stelle realizzate con ingredienti vicini alla scadenza.\""
 tags: ["Cucina", "Ricetta", "Dieta", "Pulizia Frigo"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "커피 섭취량에 따른 집중력 예측 봇 만들기"
+title: " \"커피 섭취량에 따른 집중력 예측 봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/웰니스"
-description: "¿Cuántas tazas de café tomaste hoy? Calcula la vida media de la cafeína para saber si podrás dormir esta noche o cuándo estarás más alerta si lo tomas ahora."
+description: " \"¿Cuántas tazas de café tomaste hoy? Calcula la vida media de la cafeína para saber si podrás dormir esta noche o cuándo estarás más alerta si lo tomas ahora.\""
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 

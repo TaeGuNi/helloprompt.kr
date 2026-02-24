@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Redigere una Newsletter Che Chiama gli Abbonati"
+title: " \"Redigere una Newsletter Che Chiama gli Abbonati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Inserisci un argomento e genera all'istante titoli accattivanti, corpo del testo e contenuti curati per la tua newsletter."
+description: " \"Inserisci un argomento e genera all'istante titoli accattivanti, corpo del testo e contenuti curati per la tua newsletter.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

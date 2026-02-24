@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Unsichtbare Konzepte sichtbar machen: Konzept-Visualisierungs-Helfer"
+title: " \"Unsichtbare Konzepte sichtbar machen: Konzept-Visualisierungs-Helfer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der abstrakte wissenschaftliche Prinzipien oder mathematische Konzepte durch Textdiagramme (ASCII-Art) und treffende Analogien verständlich visualisiert."
+description: " \"Ein Prompt, der abstrakte wissenschaftliche Prinzipien oder mathematische Konzepte durch Textdiagramme (ASCII-Art) und treffende Analogien verständlich visualisiert.\""
 tags: ["Wissenschaftsstudium", "Visualisierung", "Verständnis", "ASCIIKunst"]
 ---
 

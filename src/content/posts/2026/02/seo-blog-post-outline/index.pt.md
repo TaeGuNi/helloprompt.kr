@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esboço de Blog SEO para Rankings de Pesquisa Superiores"
+title: " \"Esboço de Blog SEO para Rankings de Pesquisa Superiores\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escrita"
-description: "Um prompt de geração de esboço otimizado para SEO que estrutura seu blog post num formato que o algoritmo do Google adora."
+description: " \"Um prompt de geração de esboço otimizado para SEO que estrutura seu blog post num formato que o algoritmo do Google adora.\""
 tags: ["Blog", "SEO", "Exposição no Google"]
 ---
 

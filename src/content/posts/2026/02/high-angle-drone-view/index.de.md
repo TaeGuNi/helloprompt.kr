@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Allwissender Blickpunkt 'High Angle' (Drone View) Nutzung"
+title: " \"Allwissender Blickpunkt 'High Angle' (Drone View) Nutzung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt für High-Angle- und Drohnenaufnahmen, der komplette Landschaften und architektonische Layouts aus der Vogelperspektive perfekt in Szene setzt."
+description: " \"Ein Prompt für High-Angle- und Drohnenaufnahmen, der komplette Landschaften und architektonische Layouts aus der Vogelperspektive perfekt in Szene setzt.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Landschaft"]
 ---
 

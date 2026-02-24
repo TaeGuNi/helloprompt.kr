@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Simplified Chinese)"
-description: "效率与隐私的平衡：AI 自动化会议记录指南"
+title: " \"Automated Meeting Notes (Simplified Chinese)\""
+description: " \"效率与隐私的平衡：AI 自动化会议记录指南\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

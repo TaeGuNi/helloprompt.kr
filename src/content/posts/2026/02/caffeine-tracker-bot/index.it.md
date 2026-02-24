@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "커피 섭취량에 따른 집중력 예측 봇 만들기"
+title: " \"커피 섭취량에 따른 집중력 예측 봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/웰니스"
-description: "Quanti caffè hai bevuto oggi? Questo prompt calcola l'emivita della caffeina per dirti se riuscirai a dormire stanotte e quando raggiungerai il picco di concentrazione."
+description: " \"Quanti caffè hai bevuto oggi? Questo prompt calcola l'emivita della caffeina per dirti se riuscirai a dormire stanotte e quando raggiungerai il picco di concentrazione.\""
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 

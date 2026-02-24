@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Simplified Chinese)"
-description: "用户对于摆脱算法推荐、回归安静媒体消费的需求日益增长"
+title: " \"The Rise of Algorithm Free Media (Simplified Chinese)\""
+description: " \"用户对于摆脱算法推荐、回归安静媒体消费的需求日益增长\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

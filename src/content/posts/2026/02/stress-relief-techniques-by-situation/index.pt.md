@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnicas de Alívio do Estresse por Situação: Sugestões de IA"
+title: " \"Técnicas de Alívio do Estresse por Situação: Sugestões de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Existe alguma alternativa melhor do que devorar junk food quando o estresse bate? Descubra técnicas de alívio do estresse cientificamente comprovadas com a ajuda da IA."
+description: " \"Existe alguma alternativa melhor do que devorar junk food quando o estresse bate? Descubra técnicas de alívio do estresse cientificamente comprovadas com a ajuda da IA.\""
 tags: ["Estresse", "Burnout", "Gestão Mental", "Cura", "ChatGPT"]
 ---
 

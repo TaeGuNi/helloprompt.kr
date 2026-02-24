@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Arrêtez le Code Spaghetti ! Recommandation d'Architecture Parfaite pour Mon Projet"
+title: " \"Arrêtez le Code Spaghetti ! Recommandation d'Architecture Parfaite pour Mon Projet\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt IA qui conçoit une architecture logicielle optimale (MVC, Clean Architecture, MSA, etc.) adaptée à l'échelle et aux exigences de votre projet."
+description: " \"Un prompt IA qui conçoit une architecture logicielle optimale (MVC, Clean Architecture, MSA, etc.) adaptée à l'échelle et aux exigences de votre projet.\""
 tags:
   [
     "Architecture",

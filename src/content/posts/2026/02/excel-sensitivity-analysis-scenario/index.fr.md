@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyse de Sensibilité Excel : Préparation Parfaite pour les Scénarios 'Et Si'"
+title: " \"Analyse de Sensibilité Excel : Préparation Parfaite pour les Scénarios 'Et Si'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "De combien le bénéfice diminue-t-il si le taux de change augmente de 10 % ? Calculez des dizaines de scénarios en un clin d'œil avec la fonction Table de données d'Excel."
+description: " \"De combien le bénéfice diminue-t-il si le taux de change augmente de 10 % ? Calculez des dizaines de scénarios en un clin d'œil avec la fonction Table de données d'Excel.\""
 tags: ["Excel", "AnalyseSensibilité", "Scénario", "TableDonnées"]
 ---
 

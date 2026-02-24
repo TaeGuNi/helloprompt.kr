@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brouillon de Concept et de Paroles de Chanson Titre d'Idole K-POP"
+title: " \"Brouillon de Concept et de Paroles de Chanson Titre d'Idole K-POP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Et si j'étais producteur ? Planifiez l'univers de votre groupe d'idoles, le concept de l'album et les paroles de la chanson titre en un seul prompt."
+description: " \"Et si j'étais producteur ? Planifiez l'univers de votre groupe d'idoles, le concept de l'album et les paroles de la chanson titre en un seul prompt.\""
 tags: ["K-POP", "Idole", "Univers", "Planification", "ÉcritureParoles"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Exploración del Reino Animal: Una Historia para Hacerse Amigo de la Naturaleza"
+title: " \"Exploración del Reino Animal: Una Historia para Hacerse Amigo de la Naturaleza\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Aventuras de amigos animales que capturan tanto el conocimiento ecológico como la imaginación."
+description: " \"Aventuras de amigos animales que capturan tanto el conocimiento ecológico como la imaginación.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

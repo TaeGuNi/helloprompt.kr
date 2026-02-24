@@ -1,9 +1,9 @@
 ---
-title: "¿El fin de los desarrolladores Junior? Estrategias de supervivencia y un prompt de 'Auto Code Review' en la era de la IA"
+title: " \"¿El fin de los desarrolladores Junior? Estrategias de supervivencia y un prompt de 'Auto Code Review' en la era de la IA\""
 date: 2026-02-16
 tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
-description: "Febrero de 2026: Las ofertas para Juniors han desaparecido. Descubre cómo dejar de competir con agentes de IA para empezar a dirigirlos, e impulsa tu código a nivel Senior con nuestro prompt de auto-revisión."
+description: " \"Febrero de 2026: Las ofertas para Juniors han desaparecido. Descubre cómo dejar de competir con agentes de IA para empezar a dirigirlos, e impulsa tu código a nivel Senior con nuestro prompt de auto-revisión.\""
 layout: /src/layouts/Layout.astro
 category: "개발 커리어"
 ---

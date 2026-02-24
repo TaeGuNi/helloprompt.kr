@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Direção de Iluminação 'Neon Cyberpunk' da Cidade do Futuro"
+title: " \"Direção de Iluminação 'Neon Cyberpunk' da Cidade do Futuro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de iluminação neon estilo cyberpunk com intenso contraste de rosa e azul."
+description: " \"Prompt de iluminação neon estilo cyberpunk com intenso contraste de rosa e azul.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ficção Científica", "Cor"]
 ---
 

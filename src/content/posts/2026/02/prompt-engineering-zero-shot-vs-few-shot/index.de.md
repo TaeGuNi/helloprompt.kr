@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (German)"
-description: "Few-Shot-Prompting verbessert die Zuverlässigkeit bei komplexen logischen Aufgaben drastisch."
+title: " \"Zero Shot vs Few Shot Prompting (German)\""
+description: " \"Few-Shot-Prompting verbessert die Zuverlässigkeit bei komplexen logischen Aufgaben drastisch.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

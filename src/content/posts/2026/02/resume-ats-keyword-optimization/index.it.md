@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevenire Fallimento ATS (Soluzione Reclutamento)! Prompt Ottimizzazione Parole Chiave Curriculum"
+title: " \"Prevenire Fallimento ATS (Soluzione Reclutamento)! Prompt Ottimizzazione Parole Chiave Curriculum\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Integra strategicamente le parole chiave preferite dai sistemi ATS nel tuo curriculum per superare i filtri automatici di selezione dei candidati."
+description: " \"Integra strategicamente le parole chiave preferite dai sistemi ATS nel tuo curriculum per superare i filtri automatici di selezione dei candidati.\""
 tags: ["ATS", "OttimizzazioneCurriculum", "ParolaChiave", "SistemaReclutamento"]
 ---
 

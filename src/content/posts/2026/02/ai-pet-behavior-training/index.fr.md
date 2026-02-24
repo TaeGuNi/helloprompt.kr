@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mon Chien a Changé : Spécialiste du Comportement IA"
+title: " \"Mon Chien a Changé : Spécialiste du Comportement IA\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Animaux"
-description: "Anxiété de séparation, aboiements intempestifs, accidents de propreté... Obtenez un programme d'éducation personnalisé par l'IA plutôt que de payer un dresseur hors de prix."
+description: " \"Anxiété de séparation, aboiements intempestifs, accidents de propreté... Obtenez un programme d'éducation personnalisé par l'IA plutôt que de payer un dresseur hors de prix.\""
 tags: ["Animaux", "Dressage Canin", "Chats", "Éducation Animale"]
 ---
 

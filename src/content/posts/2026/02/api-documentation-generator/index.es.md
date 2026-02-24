@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Documentación de API Molesta, Swagger Aparece con Solo Código"
+title: " \"Documentación de API Molesta, Swagger Aparece con Solo Código\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Un prompt que convierte automáticamente tu código API en especificaciones OpenAPI (Swagger) o documentos Markdown con solo copiar y pegar."
+description: " \"Un prompt que convierte automáticamente tu código API en especificaciones OpenAPI (Swagger) o documentos Markdown con solo copiar y pegar.\""
 tags: ["API", "Documentación", "Swagger", "OpenAPI", "Backend"]
 ---
 

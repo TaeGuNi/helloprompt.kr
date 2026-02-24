@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Borrador de Carta de Presentación Adaptada a la JD (Job Description)"
+title: " \"Generador de Borrador de Carta de Presentación Adaptada a la JD (Job Description)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Analiza la Descripción del Trabajo (JD) y redacta en 1 minuto un borrador de carta de presentación que encaje perfectamente con el perfil buscado por la empresa."
+description: " \"Analiza la Descripción del Trabajo (JD) y redacta en 1 minuto un borrador de carta de presentación que encaje perfectamente con el perfil buscado por la empresa.\""
 tags: ["CartaPresentación", "AutoIntro", "AnálisisJD", "Trabajo"]
 ---
 

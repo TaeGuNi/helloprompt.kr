@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ajout de Magnificence 'Angle Bas' (Vue en Contre-Plongée)"
+title: " \"Ajout de Magnificence 'Angle Bas' (Vue en Contre-Plongée)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Un prompt d'angle bas (contre-plongée) qui accentue la prestance et la grandeur écrasante en observant le sujet depuis le sol."
+description: " \"Un prompt d'angle bas (contre-plongée) qui accentue la prestance et la grandeur écrasante en observant le sujet depuis le sol.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Composition"]
 ---

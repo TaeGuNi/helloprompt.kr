@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Lanches Saudáveis Sem Culpa: Prevenindo a Compulsão Alimentar"
+title: " \"Lista de Lanches Saudáveis Sem Culpa: Prevenindo a Compulsão Alimentar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Sabe aquela 'fome falsa' que bate às 15h? Descubra como a IA pode gerar ideias infinitas de lanches deliciosos e saudáveis para aliviar o estresse sem arruinar sua dieta."
+description: " \"Sabe aquela 'fome falsa' que bate às 15h? Descubra como a IA pode gerar ideias infinitas de lanches deliciosos e saudáveis para aliviar o estresse sem arruinar sua dieta.\""
 tags: ["Lanche de Dieta", "Saúde", "Receita", "ChatGPT", "Lanche"]
 ---
 

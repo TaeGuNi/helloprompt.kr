@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entwurf eines Newsletters, der Abonnenten ruft"
+title: " \"Entwurf eines Newsletters, der Abonnenten ruft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Geben Sie einfach ein Thema vor und die KI erstellt im Handumdrehen packende Titel, den Haupttext und eine passende Kuration."
+description: " \"Geben Sie einfach ein Thema vor und die KI erstellt im Handumdrehen packende Titel, den Haupttext und eine passende Kuration.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

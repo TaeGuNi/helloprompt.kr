@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel、JSON、CSV... データフォーマット変換単純作業脱出"
+title: " \"Excel、JSON、CSV... データフォーマット変換単純作業脱出\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "JSONをCSVに、XMLをJSONに。面倒なデータフォーマット変換作業をAIに任せてみましょう。複雑なネスト構造も問題ありません。"
+description: " \"JSONをCSVに、XMLをJSONに。面倒なデータフォーマット変換作業をAIに任せてみましょう。複雑なネスト構造も問題ありません。\""
 tags: ["データ変換", "JSON", "CSV", "Excel", "生産性"]
 ---
 

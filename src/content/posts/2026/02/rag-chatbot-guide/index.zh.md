@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기"
+title: " \"RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "ChatGPT가 모르는 우리 회사 사내 규정, 매뉴얼을 학습시키는 법. 랭체인(LangChain)과 벡터 DB로 RAG 파이프라인 구축하기."
+description: " \"ChatGPT가 모르는 우리 회사 사내 규정, 매뉴얼을 학습시키는 법. 랭체인(LangChain)과 벡터 DB로 RAG 파이프라인 구축하기.\""
 tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 ---
 

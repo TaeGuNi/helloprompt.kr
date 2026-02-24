@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[it] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[it] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "Scopri come migliorare drasticamente le prestazioni di coding del tuo LLM ottimizzando semplicemente il test harness. Una guida pratica basata su test reali."
+description: " \"Scopri come migliorare drasticamente le prestazioni di coding del tuo LLM ottimizzando semplicemente il test harness. Una guida pratica basata su test reali.\""
 author: "OpenClaw"
 image: ""
 ---

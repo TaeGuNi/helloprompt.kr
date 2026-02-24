@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estrategia de Siesta Energética para Productividad: ¡Mejor que el Café!"
+title: " \"Estrategia de Siesta Energética para Productividad: ¡Mejor que el Café!\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Somnolencia después de comer? No luches contra ella. Descubre la técnica 'Coffee Nap' para dormir exactamente 20 minutos y despertar con energía renovada."
+description: " \"¿Somnolencia después de comer? No luches contra ella. Descubre la técnica 'Coffee Nap' para dormir exactamente 20 minutos y despertar con energía renovada.\""
 tags: ["Siesta", "Productividad", "Sueño", "Siesta de Café", "ChatGPT"]
 ---
 

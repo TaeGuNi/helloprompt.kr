@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "必备旅行医药箱清单：不要在国外生病"
+title: " \"必备旅行医药箱清单：不要在国外生病\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "出国旅行生病找药房太难？AI为您量身定制按情况与症状分类的必备常备药与急救包清单。"
+description: " \"出国旅行生病找药房太难？AI为您量身定制按情况与症状分类的必备常备药与急救包清单。\""
 tags: ["急救药", "急救箱", "海外旅行准备", "医疗保健"]
 ---
 

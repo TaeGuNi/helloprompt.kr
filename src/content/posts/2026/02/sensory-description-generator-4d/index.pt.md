@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conversor de Descrição de Fundo Estimulando Cinco Sentidos do Leitor"
+title: " \"Conversor de Descrição de Fundo Estimulando Cinco Sentidos do Leitor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Uma ferramenta de escrita que transforma frases simples e explicativas em descrições vívidas que estimulam os cinco sentidos (Visual, Auditivo, Olfativo, Gustativo, Tátil)."
+description: " \"Uma ferramenta de escrita que transforma frases simples e explicativas em descrições vívidas que estimulam os cinco sentidos (Visual, Auditivo, Olfativo, Gustativo, Tátil).\""
 tags: ["Escrita", "Descrição", "Romance", "Expressividade"]
 ---
 

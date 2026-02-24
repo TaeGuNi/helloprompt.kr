@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "L'intelligenza artificiale indossabile sta permeando la vita quotidiana. Analizziamo i fattori di successo di Meta."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"L'intelligenza artificiale indossabile sta permeando la vita quotidiana. Analizziamo i fattori di successo di Meta.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

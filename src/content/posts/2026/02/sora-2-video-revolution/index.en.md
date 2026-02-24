@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sora 2.0: The Video Revolution, Where Imagination Becomes Reality"
+title: " \"Sora 2.0: The Video Revolution, Where Imagination Becomes Reality\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI Creative"
-description: "Discover the groundbreaking features of Sora 2.0 and unlock 3 plug-and-play video generation prompts for marketers and creators."
+description: " \"Discover the groundbreaking features of Sora 2.0 and unlock 3 plug-and-play video generation prompts for marketers and creators.\""
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 

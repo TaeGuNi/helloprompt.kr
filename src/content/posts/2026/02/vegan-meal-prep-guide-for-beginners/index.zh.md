@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "初级素食者的完美备餐（Meal Prep）指南"
+title: " \"初级素食者的完美备餐（Meal Prep）指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康 & 养生"
-description: "没有肉也美味饱腹！介绍由AI定制的营养满分纯素备餐食谱与高效备餐秘诀。"
+description: " \"没有肉也美味饱腹！介绍由AI定制的营养满分纯素备餐食谱与高效备餐秘诀。\""
 tags: ["纯素", "素食", "备餐", "健康", "ChatGPT"]
 ---
 

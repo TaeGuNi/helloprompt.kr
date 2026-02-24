@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FIRE 族路线图: 提前退休的 4% 法则"
+title: " \"FIRE 族路线图: 提前退休的 4% 法则\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "为您量身定制的经济独立指南：一键模拟 FIRE 族达标时间与目标资产，精准规划您的提前退休之路。"
+description: " \"为您量身定制的经济独立指南：一键模拟 FIRE 族达标时间与目标资产，精准规划您的提前退休之路。\""
 tags: ["FIRE族", "提前退休", "经济独立", "理财"]
 ---
 

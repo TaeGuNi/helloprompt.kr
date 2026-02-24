@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Respondiendo Preguntas Estúpidas Sabiamente: '¿Por Qué las Hormigas son Gorditas?' (Generador de Respuestas Sabias)"
+title: " \"Respondiendo Preguntas Estúpidas Sabiamente: '¿Por Qué las Hormigas son Gorditas?' (Generador de Respuestas Sabias)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Transforma preguntas absurdas en revelaciones profundas. Descubre cómo la IA puede responder con humor, ciencia y filosofía a cualquier duda ridícula."
+description: " \"Transforma preguntas absurdas en revelaciones profundas. Descubre cómo la IA puede responder con humor, ciencia y filosofía a cualquier duda ridícula.\""
 tags: ["Humor", "Trivia", "Filosofía", "Ciencia", "Creatividad"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guion de 'Conversación de Empatía' para Calmar a un Niño con Rabieta"
+title: " \"Guion de 'Conversación de Empatía' para Calmar a un Niño con Rabieta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Palabras mágicas para calmar el cerebro emocional de tu hijo durante una rabieta."
+description: " \"Palabras mágicas para calmar el cerebro emocional de tu hijo durante una rabieta.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

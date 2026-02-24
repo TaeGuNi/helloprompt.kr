@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planning a KPI Dashboard Visible at a Glance"
+title: " \"Planning a KPI Dashboard Visible at a Glance\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Which metrics should you track? A guide to essential dashboard components and optimal layout recommendations."
+description: " \"Which metrics should you track? A guide to essential dashboard components and optimal layout recommendations.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

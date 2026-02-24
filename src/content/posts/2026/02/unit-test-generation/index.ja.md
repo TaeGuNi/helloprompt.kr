@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "テストコード書くの面倒ですよね？AIが代わりに書きます"
+title: " \"テストコード書くの面倒ですよね？AIが代わりに書きます\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "開発"
-description: "作成が面倒なユニットテスト（Unit Test）コードを、エッジケースまで考慮して自動生成してくれる実用的なプロンプトです。"
+description: " \"作成が面倒なユニットテスト（Unit Test）コードを、エッジケースまで考慮して自動生成してくれる実用的なプロンプトです。\""
 tags: ["テストコード", "TDD", "Jest", "JUnit"]
 ---
 

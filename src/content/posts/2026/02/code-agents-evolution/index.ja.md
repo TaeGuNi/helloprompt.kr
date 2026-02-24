@@ -1,6 +1,6 @@
 ---
-title: "コーディングエージェントの進化：開発者の役割の変化"
-description: "自律型コーディングエージェントが開発エコシステムを揺るがしています。"
+title: " \"コーディングエージェントの進化：開発者の役割の変化\""
+description: " \"自律型コーディングエージェントが開発エコシステムを揺るがしています。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

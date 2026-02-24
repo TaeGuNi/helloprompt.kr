@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Difficult Money Talk, Polite yet Firm 'Salary Raise Request Email' Writer"
+title: " \"Difficult Money Talk, Polite yet Firm 'Salary Raise Request Email' Writer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Draft a polite yet firm business email to request a salary negotiation, highlighting your achievements without causing friction."
+description: " \"Draft a polite yet firm business email to request a salary negotiation, highlighting your achievements without causing friction.\""
 tags: ["SalaryRaiseEmail", "NegotiationEmail", "BusinessEmail", "MoneyTalk"]
 ---
 

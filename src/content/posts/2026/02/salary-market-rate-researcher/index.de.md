@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bin Ich ein Narr? 'Marktpreis' Recherche & Analyse Agent"
+title: " \"Bin Ich ein Narr? 'Marktpreis' Recherche & Analyse Agent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Vergleicht und analysiert die durchschnittliche Gehaltsspanne für Ihre Position und Berufserfahrung basierend auf echten Marktdaten, um objektive Argumente für die nächste Gehaltsverhandlung zu liefern."
+description: " \"Vergleicht und analysiert die durchschnittliche Gehaltsspanne für Ihre Position und Berufserfahrung basierend auf echten Marktdaten, um objektive Argumente für die nächste Gehaltsverhandlung zu liefern.\""
 tags:
   ["Gehaltsanalyse", "Marktpreis", "Verhandlungsgründe", "Karrieremanagement"]
 ---

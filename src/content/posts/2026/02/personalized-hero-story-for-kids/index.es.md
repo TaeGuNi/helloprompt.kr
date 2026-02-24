@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creando un Cuento de Hadas de Héroes Donde mi Hijo es el Personaje Principal"
+title: " \"Creando un Cuento de Hadas de Héroes Donde mi Hijo es el Personaje Principal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Magia que aumenta la autoestima, una historia de aventuras personalizada con el nombre del niño."
+description: " \"Magia que aumenta la autoestima, una historia de aventuras personalizada con el nombre del niño.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

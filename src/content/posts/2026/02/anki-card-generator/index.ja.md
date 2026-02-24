@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "手首痛い書き取りの代わりに：暗記カード自動生成機"
+title: " \"手首痛い書き取りの代わりに：暗記カード自動生成機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "学習法/自己啓発"
-description: "長いテキストや講義ノートを入力するだけで、AnkiやQuizletにそのままインポートできるフラッシュカード（Q&A）ペアに自動変換するプロンプトです。"
+description: " \"長いテキストや講義ノートを入力するだけで、AnkiやQuizletにそのままインポートできるフラッシュカード（Q&A）ペアに自動変換するプロンプトです。\""
 tags: ["暗記", "フラッシュカード", "Anki", "Quizlet"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Traditional Chinese)"
-description: "根據使用者意圖自我調整與動態生成的介面，正在取代傳統的靜態選單。"
+title: " \"Generative UI Patterns (Traditional Chinese)\""
+description: " \"根據使用者意圖自我調整與動態生成的介面，正在取代傳統的靜態選單。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ästhetik der Organisation 'Knolling' Stil"
+title: " \"Ästhetik der Organisation 'Knolling' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt für die Knolling-Technik, um Objekte ordentlich im rechten Winkel anzuordnen und ästhetisch ansprechende Bilder zu generieren."
+description: " \"Ein Prompt für die Knolling-Technik, um Objekte ordentlich im rechten Winkel anzuordnen und ästhetisch ansprechende Bilder zu generieren.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Design"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échappez à l'enfer des réunions : le prompt pour résumer 1 heure en 10 secondes"
+title: " \"Échappez à l'enfer des réunions : le prompt pour résumer 1 heure en 10 secondes\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Productivité"
-description: "Un prompt magique pour transformer des transcriptions de réunions décousues en plans d'action (Action Items) et décisions clairs."
+description: " \"Un prompt magique pour transformer des transcriptions de réunions décousues en plans d'action (Action Items) et décisions clairs.\""
 tags: ["Compte-rendu", "Résumé", "Transcription", "Plan d'action"]
 ---
 

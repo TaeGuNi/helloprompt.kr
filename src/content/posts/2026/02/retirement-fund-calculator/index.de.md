@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Altersvorsorge-Rechner: Wie hoch ist mein Ruhestandsvorbereitungs-Score?"
+title: " \"Altersvorsorge-Rechner: Wie hoch ist mein Ruhestandsvorbereitungs-Score?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanztechnologie & Investition"
-description: "Schluss mit der vagen Angst vor dem Alter. Berechnen Sie exakt Ihr benötigtes Ruhestandskapital und die monatliche Sparrate für eine sichere Zukunft."
+description: " \"Schluss mit der vagen Angst vor dem Alter. Berechnen Sie exakt Ihr benötigtes Ruhestandskapital und die monatliche Sparrate für eine sichere Zukunft.\""
 tags: ["Ruhestand", "Altersvorsorge", "Rente", "Finanzplanung"]
 ---
 

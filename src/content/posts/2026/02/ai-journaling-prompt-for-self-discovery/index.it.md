@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt di Journaling IA per l'Auto-scoperta: Esplorare la Mia Mente"
+title: " \"Prompt di Journaling IA per l'Auto-scoperta: Esplorare la Mia Mente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Com'è andata la tua giornata? Non fermarti al solito 'Tutto bene'. Esplora il tuo io interiore in profondità grazie a domande mirate generate dall'IA."
+description: " \"Com'è andata la tua giornata? Non fermarti al solito 'Tutto bene'. Esplora il tuo io interiore in profondità grazie a domande mirate generate dall'IA.\""
 tags: ["Diario", "Journaling", "Cura Mentale", "Auto-miglioramento", "ChatGPT"]
 ---
 

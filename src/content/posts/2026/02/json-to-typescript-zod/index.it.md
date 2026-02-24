@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lancia Solo JSON e la Definizione del Tipo TypeScript Salta Fuori! (feat. Zod)"
+title: " \"Lancia Solo JSON e la Definizione del Tipo TypeScript Salta Fuori! (feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt che converte automaticamente dati JSON complessi in interfacce TypeScript e schemi Zod in un istante."
+description: " \"Un prompt che converte automaticamente dati JSON complessi in interfacce TypeScript e schemi Zod in un istante.\""
 tags: ["TypeScript", "Zod", "JSON", "Definizione Tipo", "Produttività"]
 ---
 

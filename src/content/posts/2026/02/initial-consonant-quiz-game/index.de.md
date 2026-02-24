@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Anfangsbuchstaben-Quizspiel: Vokabel-Explosions-Prompt"
+title: " \"Anfangsbuchstaben-Quizspiel: Vokabel-Explosions-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Spielerisch den Wortschatz erweitern, anstatt langweilig Vokabeln zu pauken – mit der KI als Quizmaster."
+description: " \"Spielerisch den Wortschatz erweitern, anstatt langweilig Vokabeln zu pauken – mit der KI als Quizmaster.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

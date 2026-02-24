@@ -1,6 +1,6 @@
 ---
-title: "社交AI危機"
-description: "對社交 AI 危機的批判性分析：AI 替代品正在破壞真實的人際關係。"
+title: " \"社交AI危機\""
+description: " \"對社交 AI 危機的批判性分析：AI 替代品正在破壞真實的人際關係。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

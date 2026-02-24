@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5-Minute Mindfulness Meditation Script: From Stress to Calm"
+title: " \"5-Minute Mindfulness Meditation Script: From Stress to Calm\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Ditch the expensive meditation apps. Let AI generate a mindfulness guide perfectly tailored to your current situation and emotional state."
+description: " \"Ditch the expensive meditation apps. Let AI generate a mindfulness guide perfectly tailored to your current situation and emotional state.\""
 tags: ["Meditation", "Mindfulness", "Healing", "Stress", "TTS"]
 ---
 

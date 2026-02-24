@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 에이전트 보안 가이드: 내 봇이 해킹당하지 않으려면"
+title: " \"AI 에이전트 보안 가이드: 내 봇이 해킹당하지 않으려면\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "보안/AI"
-description: "Guida pratica per impedire agli agenti autonomi di divulgare chiavi API o eseguire codice dannoso. Include prompt di sicurezza basati sulla Top 10 OWASP per LLM."
+description: " \"Guida pratica per impedire agli agenti autonomi di divulgare chiavi API o eseguire codice dannoso. Include prompt di sicurezza basati sulla Top 10 OWASP per LLM.\""
 tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
 

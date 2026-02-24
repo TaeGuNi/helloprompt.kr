@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Verpasste Details beim Protokollieren? Die KI fasst Ihr Meeting zusammen"
+title: " \"Verpasste Details beim Protokollieren? Die KI fasst Ihr Meeting zusammen\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Arbeitsautomatisierung"
-description: "Nie wieder nach dem Meeting fragen: 'Was wurde nochmal besprochen?' Mit einer Audiodatei ist das Protokoll in 1 Minute fertig."
+description: " \"Nie wieder nach dem Meeting fragen: 'Was wurde nochmal besprochen?' Mit einer Audiodatei ist das Protokoll in 1 Minute fertig.\""
 tags: ["Meeting", "Zusammenfassung", "Produktivität"]
 ---
 

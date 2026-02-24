@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Expliquer le Ciel Bleu à un Enfant de 5 Ans : Science Parentale"
+title: " \"Expliquer le Ciel Bleu à un Enfant de 5 Ans : Science Parentale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un prompt qui vulgarise les principes scientifiques complexes grâce à des métaphores parfaitement adaptées aux enfants."
+description: " \"Un prompt qui vulgarise les principes scientifiques complexes grâce à des métaphores parfaitement adaptées aux enfants.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

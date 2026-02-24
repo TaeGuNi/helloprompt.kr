@@ -1,8 +1,8 @@
 ---
-title: "Construire une Infrastructure d'IA Personnelle : Pourquoi vous devriez posséder votre propre pile IA"
+title: " \"Construire une Infrastructure d'IA Personnelle : Pourquoi vous devriez posséder votre propre pile IA\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Découvrez comment construire une infrastructure d'IA personnelle pour regagner votre liberté en matière de confidentialité des données, et libérez-vous de la dépendance aux solutions SaaS."
+description: " \"Découvrez comment construire une infrastructure d'IA personnelle pour regagner votre liberté en matière de confidentialité des données, et libérez-vous de la dépendance aux solutions SaaS.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

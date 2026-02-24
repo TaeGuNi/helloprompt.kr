@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dreamy Sleep Story for Kids: The Cloud Train Journey"
+title: " \"Dreamy Sleep Story for Kids: The Cloud Train Journey\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A soothing sleep story infused with meditation and relaxation techniques for restless children."
+description: " \"A soothing sleep story infused with meditation and relaxation techniques for restless children.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

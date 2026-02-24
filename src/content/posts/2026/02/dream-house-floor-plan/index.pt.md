@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계"
+title: " \"꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/리빙"
-description: "Você não precisa de um arquiteto agora. Apenas informe o tamanho, o número de quartos e o estilo, e a IA desenhará a planta baixa (Floor Plan) como mágica."
+description: " \"Você não precisa de um arquiteto agora. Apenas informe o tamanho, o número de quartos e o estilo, e a IA desenhará a planta baixa (Floor Plan) como mágica.\""
 tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 ---
 

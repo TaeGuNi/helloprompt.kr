@@ -1,8 +1,8 @@
 ---
-title: "Gpt 6 Leak (German)"
-description: "Kritische Analyse des GPT-6-Leaks: OpenAIs neues Modell fokussiert sich auf langfristige Planung und wie Sie dies schon heute nutzen können."
+title: " \"Gpt 6 Leak (German)\""
+description: " \"Kritische Analyse des GPT-6-Leaks: OpenAIs neues Modell fokussiert sich auf langfristige Planung und wie Sie dies schon heute nutzen können.\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

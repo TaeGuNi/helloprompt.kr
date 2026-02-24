@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (Russian)"
-description: "Назначение конкретных ролей (персон) помогает ИИ-моделям использовать правильный тон и глубокие экспертные знания в нужной предметной области."
+title: " \"Effective Role Prompting (Russian)\""
+description: " \"Назначение конкретных ролей (персон) помогает ИИ-моделям использовать правильный тон и глубокие экспертные знания в нужной предметной области.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

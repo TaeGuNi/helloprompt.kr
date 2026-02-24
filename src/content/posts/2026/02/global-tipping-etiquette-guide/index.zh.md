@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "全球小费礼仪指南：我该给小费吗？"
+title: " \"全球小费礼仪指南：我该给小费吗？\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "美国20%？日本0%？让AI为您彻底讲透令人困惑的全球小费文化与支付礼仪。"
+description: " \"美国20%？日本0%？让AI为您彻底讲透令人困惑的全球小费文化与支付礼仪。\""
 tags: ["小费文化", "旅行费用", "全球礼仪", "服务费"]
 ---
 

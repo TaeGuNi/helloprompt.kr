@@ -1,6 +1,6 @@
 ---
-title: "Kontextfenster 2026: Die Ära der unbegrenzten Möglichkeiten"
-description: "Im Jahr 2026 haben KI-Kontextfenster 10 Millionen Token überschritten. Was bedeutet das für RAG und Prompt Engineering?"
+title: " \"Kontextfenster 2026: Die Ära der unbegrenzten Möglichkeiten\""
+description: " \"Im Jahr 2026 haben KI-Kontextfenster 10 Millionen Token überschritten. Was bedeutet das für RAG und Prompt Engineering?\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Context Window", "LLM", "2026"]

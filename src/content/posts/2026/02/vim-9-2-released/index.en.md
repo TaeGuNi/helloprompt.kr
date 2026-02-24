@@ -1,6 +1,6 @@
 ---
-title: "Vim 9.2 Released"
-description: "The latest version of the ubiquitous text editor brings critical bug fixes, Vim9 script improvements, and updated runtime files for developers."
+title: " \"Vim 9.2 Released\""
+description: " \"The latest version of the ubiquitous text editor brings critical bug fixes, Vim9 script improvements, and updated runtime files for developers.\""
 date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---

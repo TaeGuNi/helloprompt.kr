@@ -1,6 +1,6 @@
 ---
-title: "Prompts del Sistema 2026: El Arte de Personas y Restricciones"
-description: "Más allá de la simple asignación de roles: Cómo escribir prompts del sistema en 2026. Desde etiquetas XML hasta inyección de contexto dinámico."
+title: " \"Prompts del Sistema 2026: El Arte de Personas y Restricciones\""
+description: " \"Más allá de la simple asignación de roles: Cómo escribir prompts del sistema en 2026. Desde etiquetas XML hasta inyección de contexto dinámico.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

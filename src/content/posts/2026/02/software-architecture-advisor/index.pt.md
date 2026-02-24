@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pare com Código Espaguete! Recomendação de Arquitetura Perfeita para Meu Projeto"
+title: " \"Pare com Código Espaguete! Recomendação de Arquitetura Perfeita para Meu Projeto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que projeta a arquitetura de software ideal, como MVC, Clean Architecture ou MSA, com base na escala e nos requisitos do seu projeto."
+description: " \"Um prompt que projeta a arquitetura de software ideal, como MVC, Clean Architecture ou MSA, com base na escala e nos requisitos do seu projeto.\""
 tags: ["Arquitetura", "Design", "Padrão de Design", "Design de Sistema", "MSA"]
 ---
 

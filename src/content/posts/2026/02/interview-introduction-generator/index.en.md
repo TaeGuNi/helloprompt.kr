@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "면접 1분 자기소개 생성기: AI가 써주는 합격 대본"
+title: " \"면접 1분 자기소개 생성기: AI가 써주는 합격 대본\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "취업/이직"
-description: "Stop using cliché self-introductions. Learn how to weave your core competencies and experiences into an impactful 1-minute interview script that captivates recruiters."
+description: " \"Stop using cliché self-introductions. Learn how to weave your core competencies and experiences into an impactful 1-minute interview script that captivates recruiters.\""
 tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 ---
 

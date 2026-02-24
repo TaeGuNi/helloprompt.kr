@@ -1,6 +1,6 @@
 ---
-title: "Fatiga de la IA: ¿Revolución o basura digital?"
-description: "En 2026, el público está cansado del hype de la IA. Analizamos la brecha entre la promesa y la realidad."
+title: " \"Fatiga de la IA: ¿Revolución o basura digital?\""
+description: " \"En 2026, el público está cansado del hype de la IA. Analizamos la brecha entre la promesa y la realidad.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

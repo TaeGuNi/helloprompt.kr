@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview Goldene Zeit! 'Dankeschön-E-Mail'-Schreiber zum sofortigen Senden danach"
+title: " \"Interview Goldene Zeit! 'Dankeschön-E-Mail'-Schreiber zum sofortigen Senden danach\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verfassen Sie nach einem Vorstellungsgespräch eine überzeugende Dankeschön-E-Mail, die gezielt auf Gesprächsinhalte eingeht und einen bleibenden, positiven Eindruck hinterlässt."
+description: " \"Verfassen Sie nach einem Vorstellungsgespräch eine überzeugende Dankeschön-E-Mail, die gezielt auf Gesprächsinhalte eingeht und einen bleibenden, positiven Eindruck hinterlässt.\""
 tags: ["DankeschönEMail", "InterviewEtikette", "FollowUpEMail", "JobErfolg"]
 ---
 

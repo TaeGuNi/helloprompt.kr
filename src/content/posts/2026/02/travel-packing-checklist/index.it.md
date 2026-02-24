@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Non Sai Cosa Mettere in Valigia? Imballaggio Intelligente IA per Destinazione di Viaggio"
+title: " \"Non Sai Cosa Mettere in Valigia? Imballaggio Intelligente IA per Destinazione di Viaggio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Una checklist infallibile per la valigia perfetta, basata su meteo locale, cultura e attività previste."
+description: " \"Una checklist infallibile per la valigia perfetta, basata su meteo locale, cultura e attività previste.\""
 tags: ["Viaggi", "Imballaggio", "Lista di Controllo", "Preparazione"]
 ---
 

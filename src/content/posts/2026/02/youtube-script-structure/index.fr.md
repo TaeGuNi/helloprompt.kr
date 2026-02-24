@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secret de Structuration de Script YouTube pour des Vues Élevées"
+title: " \"Secret de Structuration de Script YouTube pour des Vues Élevées\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Écriture"
-description: "Un prompt pour structurer vos scripts vidéo YouTube, éviter les abandons dans les 5 premières secondes et retenir l'attention de l'audience jusqu'à la fin."
+description: " \"Un prompt pour structurer vos scripts vidéo YouTube, éviter les abandons dans les 5 premières secondes et retenir l'attention de l'audience jusqu'à la fin.\""
 tags: ["YouTube", "Script", "Production Vidéo"]
 ---
 

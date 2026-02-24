@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "背着 PT 老师偷偷用，AI 私人教练"
+title: " \"背着 PT 老师偷偷用，AI 私人教练\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "生活"
-description: "为您量身定制专属的健身计划与科学食谱，AI 变身您的全能私人教练。"
+description: " \"为您量身定制专属的健身计划与科学食谱，AI 变身您的全能私人教练。\""
 tags: ["运动", "减肥", "健身", "居家锻炼"]
 ---
 

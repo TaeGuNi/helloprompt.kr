@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "K-POP Idol Title Song Concept & Lyric Draft"
+title: " \"K-POP Idol Title Song Concept & Lyric Draft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Step into the shoes of a top-tier K-POP producer. Instantly generate your virtual idol group's universe, album concepts, and hit title song lyrics."
+description: " \"Step into the shoes of a top-tier K-POP producer. Instantly generate your virtual idol group's universe, album concepts, and hit title song lyrics.\""
 tags: ["K-POP", "Idol", "Universe", "Planning", "LyricWriting"]
 ---
 

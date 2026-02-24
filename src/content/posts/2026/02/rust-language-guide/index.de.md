@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rust 언어: C++보다 안전하고 Python보다 빠른 이유"
+title: " \"Rust 언어: C++보다 안전하고 Python보다 빠른 이유\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "10 Jahre in Folge auf Platz 1 der beliebtesten Sprachen bei Stack Overflow. Wenn Sie das Konzept der Ownership verstehen, können Sie sich für immer von Speicherlecks und Data Races verabschieden."
+description: " \"10 Jahre in Folge auf Platz 1 der beliebtesten Sprachen bei Stack Overflow. Wenn Sie das Konzept der Ownership verstehen, können Sie sich für immer von Speicherlecks und Data Races verabschieden.\""
 tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembly"]
 ---
 

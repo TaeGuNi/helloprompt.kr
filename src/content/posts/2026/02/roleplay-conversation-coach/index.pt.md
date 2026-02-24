@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Parceiro de Conversação Nativo de Canto (Grátis)"
+title: " \"Parceiro de Conversação Nativo de Canto (Grátis)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "Como melhorar suas habilidades de conversação fazendo simulações ilimitadas com IA, sem gastar com aulas caras de inglês por telefone."
+description: " \"Como melhorar suas habilidades de conversação fazendo simulações ilimitadas com IA, sem gastar com aulas caras de inglês por telefone.\""
 tags: ["ConversaçãoEmInglês", "Roleplay", "Prompt", "Autodesenvolvimento"]
 ---
 

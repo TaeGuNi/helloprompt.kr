@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Family Travel Itinerary with Kids: Peaceful Planning"
+title: " \"Family Travel Itinerary with Kids: Peaceful Planning\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "A magical family travel prompt that protects both your children's stamina and your peace of mind."
+description: " \"A magical family travel prompt that protects both your children's stamina and your peace of mind.\""
 tags: ["Family Trip", "Parenting", "Kids Zone", "Travel Plan"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Parler Comme un Protagoniste de Drame : Distributeur d'Idiomes & Argot"
+title: " \"Parler Comme un Protagoniste de Drame : Distributeur d'Idiomes & Argot\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Un prompt pour découvrir des expressions authentiques, de l'argot tendance et des idiomes introuvables dans les manuels, parfaitement adaptés à votre contexte."
+description: " \"Un prompt pour découvrir des expressions authentiques, de l'argot tendance et des idiomes introuvables dans les manuels, parfaitement adaptés à votre contexte.\""
 tags: ["ConversationAnglaise", "Argot", "Idiome", "AnglaisDrameAméricain"]
 ---
 

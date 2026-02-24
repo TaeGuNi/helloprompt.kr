@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Docker-Umgebungseinrichtung, 3 Minuten mit einer Konfigurationsdatei"
+title: " \"Docker-Umgebungseinrichtung, 3 Minuten mit einer Konfigurationsdatei\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der automatisch ein Dockerfile und eine docker-compose.yml generiert, um die Ausführungsumgebung Ihrer Anwendung mühelos zu containerisieren."
+description: " \"Ein Prompt, der automatisch ein Dockerfile und eine docker-compose.yml generiert, um die Ausführungsumgebung Ihrer Anwendung mühelos zu containerisieren.\""
 tags: ["Docker", "Container", "Bereitstellung", "DevOps"]
 ---
 

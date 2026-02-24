@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preventing Salary Logout: AI Household Account Planner"
+title: " \"Preventing Salary Logout: AI Household Account Planner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A prompt that generates a personalized, highly realistic monthly budget plan based on your income and fixed expenses."
+description: " \"A prompt that generates a personalized, highly realistic monthly budget plan based on your income and fixed expenses.\""
 tags: ["HouseholdAccount", "Budget", "Saving", "Finance"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Speaking Like a Drama Protagonist: Idiom & Slang Vending Machine"
+title: " \"Speaking Like a Drama Protagonist: Idiom & Slang Vending Machine\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "A prompt that discovers authentic native expressions, trendy slang, and idioms tailored to specific situations—the kind you won't find in textbooks."
+description: " \"A prompt that discovers authentic native expressions, trendy slang, and idioms tailored to specific situations—the kind you won't find in textbooks.\""
 tags: ["EnglishConversation", "Slang", "Idiom", "AmericanDramaEnglish"]
 ---
 

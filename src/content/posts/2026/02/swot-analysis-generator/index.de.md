@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SWOT-Analyse in 1 Minute ohne Brainstorming beenden"
+title: " \"SWOT-Analyse in 1 Minute ohne Brainstorming beenden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Erstellen Sie mit KI in Sekundenschnelle fundierte SWOT-Analysen für neue Geschäftsideen und Marketingstrategien."
+description: " \"Erstellen Sie mit KI in Sekundenschnelle fundierte SWOT-Analysen für neue Geschäftsideen und Marketingstrategien.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

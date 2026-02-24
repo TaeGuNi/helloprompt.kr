@@ -1,8 +1,8 @@
 ---
-title: "Eu Ai Act 2 (Korean)"
-description: "2026년 본격 시행되는 EU AI Act 2: 생성형 비디오 규제 준수 여부를 검증하는 실무 프롬프트 가이드"
+title: " \"Eu Ai Act 2 (Korean)\""
+description: " \"2026년 본격 시행되는 EU AI Act 2: 생성형 비디오 규제 준수 여부를 검증하는 실무 프롬프트 가이드\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

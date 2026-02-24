@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulatore di Fuga dal Debito: Strategia di Rimborso Più Veloce"
+title: " \"Simulatore di Fuga dal Debito: Strategia di Rimborso Più Veloce\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Strategia Palla di Neve vs Strategia Valanga. Scopri l'ordine ottimale per ripagare i tuoi debiti e liberarti dai prestiti più velocemente."
+description: " \"Strategia Palla di Neve vs Strategia Valanga. Scopri l'ordine ottimale per ripagare i tuoi debiti e liberarti dai prestiti più velocemente.\""
 tags: ["RimborsoDebito", "Prestito", "Finanza", "GestioneCredito"]
 ---
 

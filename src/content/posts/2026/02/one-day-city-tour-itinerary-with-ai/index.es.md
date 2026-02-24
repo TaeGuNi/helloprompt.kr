@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Itinerario de Tour por la Ciudad de un Día con IA: Planificación Perfecta en 1 Minuto"
+title: " \"Itinerario de Tour por la Ciudad de un Día con IA: Planificación Perfecta en 1 Minuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¡Un día perfecto disfrutado como un local! Delega a la IA la planificación óptima de tu viaje de un día sin perder tiempo en traslados."
+description: " \"¡Un día perfecto disfrutado como un local! Delega a la IA la planificación óptima de tu viaje de un día sin perder tiempo en traslados.\""
 tags:
   ["Plan de Viaje", "Viaje de un Día", "Tour por la Ciudad", "Prompt de GPT"]
 ---

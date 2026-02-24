@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creating 3D Villain: 3-Step In-depth Interview Prompt"
+title: " \"Creating 3D Villain: 3-Step In-depth Interview Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A compelling villain is the core of any great story. Interview your antagonist directly to excavate their hidden narrative."
+description: " \"A compelling villain is the core of any great story. Interview your antagonist directly to excavate their hidden narrative.\""
 tags: ["CharacterSetting", "NovelWriting", "Villain", "Interview"]
 ---
 

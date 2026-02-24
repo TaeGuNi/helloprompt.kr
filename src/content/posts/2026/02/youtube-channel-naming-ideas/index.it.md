@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Raccomandazione Nome Canale YouTube & Soprannome (YouTube Channel Naming)"
+title: " \"Raccomandazione Nome Canale YouTube & Soprannome (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Un nome affascinante per attirare iscritti! Lascia che l'IA crei il nome perfetto per il tuo canale YouTube, ottimizzato per l'algoritmo."
+description: " \"Un nome affascinante per attirare iscritti! Lascia che l'IA crei il nome perfetto per il tuo canale YouTube, ottimizzato per l'algoritmo.\""
 tags: ["YouTube", "NomeCanale", "Soprannome", "Creatore", "Nominare"]
 ---
 

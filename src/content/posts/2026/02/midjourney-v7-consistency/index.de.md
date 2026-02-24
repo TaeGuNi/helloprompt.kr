@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (German)"
-description: "Wie Charakter-Referenzen das visuelle Storytelling in Midjourney verändern"
+title: " \"Midjourney Character Consistency (German)\""
+description: " \"Wie Charakter-Referenzen das visuelle Storytelling in Midjourney verändern\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

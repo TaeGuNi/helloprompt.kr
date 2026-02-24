@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore Gioco Equilibrio: 'Mangiare Solo Ramen Per Sempre vs Smettere Soda Per Sempre'"
+title: " \"Generatore Gioco Equilibrio: 'Mangiare Solo Ramen Per Sempre vs Smettere Soda Per Sempre'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Il perfetto rompighiaccio! Genera infinite e bizzarre domande per il 'Gioco dell'Equilibrio' e ravviva l'atmosfera di qualsiasi serata."
+description: " \"Il perfetto rompighiaccio! Genera infinite e bizzarre domande per il 'Gioco dell'Equilibrio' e ravviva l'atmosfera di qualsiasi serata.\""
 tags: ["Gioco", "GiocoEquilibrio", "Rompighiaccio", "Umorismo", "Festa"]
 ---
 

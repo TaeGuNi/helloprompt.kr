@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지"
+title: " \"코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Wenn Sie bei Algorithmus-Problemen feststecken, schauen Sie sich nicht sofort die Lösung an! Entdecken Sie Prompt-Engineering-Techniken, um optimale Hinweise von der KI zu erhalten und das Problem selbstständig zu lösen."
+description: " \"Wenn Sie bei Algorithmus-Problemen feststecken, schauen Sie sich nicht sofort die Lösung an! Entdecken Sie Prompt-Engineering-Techniken, um optimale Hinweise von der KI zu erhalten und das Problem selbstständig zu lösen.\""
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 

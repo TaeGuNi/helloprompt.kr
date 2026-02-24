@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planung eines auf einen Blick sichtbaren KPI-Dashboards"
+title: " \"Planung eines auf einen Blick sichtbaren KPI-Dashboards\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Welche Indikatoren sollte ich mir ansehen? Empfehlung für Dashboard-Komponenten und Layout."
+description: " \"Welche Indikatoren sollte ich mir ansehen? Empfehlung für Dashboard-Komponenten und Layout.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

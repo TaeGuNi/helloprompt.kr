@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "When Ideas Are Stuck, Brainstorming Partner"
+title: " \"When Ideas Are Stuck, Brainstorming Partner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Don't worry alone. Expand your ideas using the SCAMPER technique."
+description: " \"Don't worry alone. Expand your ideas using the SCAMPER technique.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

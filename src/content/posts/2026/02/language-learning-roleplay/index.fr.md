@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Au Lieu de l'Anglais Téléphonique Coûteux, Locuteur Natif IA en Veille 24h/24"
+title: " \"Au Lieu de l'Anglais Téléphonique Coûteux, Locuteur Natif IA en Veille 24h/24\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Un prompt de jeu de rôle qui vous permet de pratiquer la conversation en langue étrangère comme dans la vraie vie avec l'IA en définissant les situations et les niveaux de difficulté souhaités."
+description: " \"Un prompt de jeu de rôle qui vous permet de pratiquer la conversation en langue étrangère comme dans la vraie vie avec l'IA en définissant les situations et les niveaux de difficulté souhaités.\""
 tags: ["Conversation Anglaise", "Étude de Langue Étrangère", "Jeu de Rôle"]
 ---
 

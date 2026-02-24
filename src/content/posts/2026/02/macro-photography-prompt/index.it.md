@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mondo della Ripresa Super Ravvicinata Prompt 'Fotografia Macro'"
+title: " \"Mondo della Ripresa Super Ravvicinata Prompt 'Fotografia Macro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per la fotografia macro in grado di catturare dettagli minuti, invisibili a occhio nudo."
+description: " \"Prompt per la fotografia macro in grado di catturare dettagli minuti, invisibili a occhio nudo.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Angolo Telecamera", "Dettagli"]
 ---

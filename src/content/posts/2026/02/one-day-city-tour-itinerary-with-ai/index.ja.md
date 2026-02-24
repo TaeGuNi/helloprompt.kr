@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AIで1分で組む完璧な日帰りシティツアー日程"
+title: " \"AIで1分で組む完璧な日帰りシティツアー日程\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行＆文化"
-description: "現地人のように楽しむ充実した一日！動線の無駄がない最適な日帰り旅行計画をAIに任せてみてください。"
+description: " \"現地人のように楽しむ充実した一日！動線の無駄がない最適な日帰り旅行計画をAIに任せてみてください。\""
 tags: ["旅行計画", "日帰り", "シティツアー", "GPTプロンプト"]
 ---
 

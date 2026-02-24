@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fantastische Welt des Leuchtens 'Bioluminescence' Prompt"
+title: " \"Fantastische Welt des Leuchtens 'Bioluminescence' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Erfahren Sie, wie Sie mit dem 'Bioluminescence'-Prompt atemberaubende, selbstleuchtende Kreaturen und Umgebungen im Stil von Avatar erschaffen."
+description: " \"Erfahren Sie, wie Sie mit dem 'Bioluminescence'-Prompt atemberaubende, selbstleuchtende Kreaturen und Umgebungen im Stil von Avatar erschaffen.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasie", "Farbe"]
 ---
 

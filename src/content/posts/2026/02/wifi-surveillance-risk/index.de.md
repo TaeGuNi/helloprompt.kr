@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 CCTV가 된다?"
+title: " \"와이파이(WiFi)가 보이지 않는 CCTV가 된다?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안/프라이버시"
-description: "Entdecken Sie die Technologie, die WLAN-Signale nutzt, um menschliche Bewegungen zu verfolgen, und erfahren Sie mehr über deren Risiken und Möglichkeiten."
+description: " \"Entdecken Sie die Technologie, die WLAN-Signale nutzt, um menschliche Bewegungen zu verfolgen, und erfahren Sie mehr über deren Risiken und Möglichkeiten.\""
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 

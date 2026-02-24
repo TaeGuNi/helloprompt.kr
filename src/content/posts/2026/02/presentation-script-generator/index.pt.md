@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Superando a Fobia de Apresentação! Criando Roteiros de Apresentação"
+title: " \"Superando a Fobia de Apresentação! Criando Roteiros de Apresentação\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Gere roteiros de apresentação naturais e envolventes para cada slide do seu PPT e supere o medo de falar em público."
+description: " \"Gere roteiros de apresentação naturais e envolventes para cada slide do seu PPT e supere o medo de falar em público.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

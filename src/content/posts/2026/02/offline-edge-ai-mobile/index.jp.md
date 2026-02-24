@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (Japanese)"
-description: "スマートフォンのローカルAIモデルを活用し、クラウドに依存しない完全オフラインのAIアプリを設計・開発するためのプロンプトです。"
+title: " \"True Offline AI on Mobile (Japanese)\""
+description: " \"スマートフォンのローカルAIモデルを活用し、クラウドに依存しない完全オフラインのAIアプリを設計・開発するためのプロンプトです。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

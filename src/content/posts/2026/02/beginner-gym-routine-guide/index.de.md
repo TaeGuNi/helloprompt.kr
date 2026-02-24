@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Anfänger-Fitnessstudio-Routinen-Guide: Aussehen wie ein Profi"
+title: " \"Anfänger-Fitnessstudio-Routinen-Guide: Aussehen wie ein Profi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Gehen Sie ins Fitnessstudio und laufen nur auf dem Laufband, weil Sie nicht wissen, was Sie tun sollen? Lassen Sie die KI Ihre optimale Trainingsroutine samt Geräteerklärung erstellen."
+description: " \"Gehen Sie ins Fitnessstudio und laufen nur auf dem Laufband, weil Sie nicht wissen, was Sie tun sollen? Lassen Sie die KI Ihre optimale Trainingsroutine samt Geräteerklärung erstellen.\""
 tags:
   [
     "Fitnessstudio",

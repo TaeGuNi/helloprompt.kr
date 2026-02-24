@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SWOT 分析，无需头脑风暴 1 分钟结束"
+title: " \"SWOT 分析，无需头脑风暴 1 分钟结束\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "还在为新业务构想和营销策略的 SWOT 分析发愁？借助 AI，只需 1 分钟即可完成专业级商业分析。"
+description: " \"还在为新业务构想和营销策略的 SWOT 分析发愁？借助 AI，只需 1 分钟即可完成专业级商业分析。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "JD (招聘公告) 定制型自我介绍书草案生成器"
+title: " \"JD (招聘公告) 定制型自我介绍书草案生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "1分钟内深度分析招聘启事（JD），一键生成完美契合企业理想人才画像的定制化求职信草案。"
+description: " \"1分钟内深度分析招聘启事（JD），一键生成完美契合企业理想人才画像的定制化求职信草案。\""
 tags: ["自我介绍书", "自绍书", "招聘公告分析", "就业"]
 ---
 

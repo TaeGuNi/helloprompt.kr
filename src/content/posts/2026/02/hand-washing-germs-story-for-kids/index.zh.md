@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "给孩子的手洗细菌故事"
+title: " \"给孩子的手洗细菌故事\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "用科学而有趣的细菌故事，让孩子不再抗拒洗手，主动走向洗手台。"
+description: " \"用科学而有趣的细菌故事，让孩子不再抗拒洗手，主动走向洗手台。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

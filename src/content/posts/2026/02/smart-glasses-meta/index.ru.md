@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "Носимый ИИ проникает в повседневную жизнь. Глубокий анализ факторов феноменального успеха умных очков Meta."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"Носимый ИИ проникает в повседневную жизнь. Глубокий анализ факторов феноменального успеха умных очков Meta.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

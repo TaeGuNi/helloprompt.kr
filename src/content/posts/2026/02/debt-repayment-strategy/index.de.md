@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schuldenflucht-Simulator: Schnellste Rückzahlungsstrategie"
+title: " \"Schuldenflucht-Simulator: Schnellste Rückzahlungsstrategie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Schneeball- vs. Lawinen-Strategie: Wir ermitteln die optimale und schnellste Reihenfolge für Ihre Schuldenrückzahlung, maßgeschneidert auf Ihre Kreditsituation."
+description: " \"Schneeball- vs. Lawinen-Strategie: Wir ermitteln die optimale und schnellste Reihenfolge für Ihre Schuldenrückzahlung, maßgeschneidert auf Ihre Kreditsituation.\""
 tags: ["Schuldenrückzahlung", "Kredit", "Finanzen", "Kreditmanagement"]
 ---
 

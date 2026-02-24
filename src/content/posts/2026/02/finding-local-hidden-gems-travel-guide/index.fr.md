@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Voyage pour Trouver des Joyaux Cachés Locaux : Au-delà des Sites Touristiques"
+title: " \"Guide de Voyage pour Trouver des Joyaux Cachés Locaux : Au-delà des Sites Touristiques\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Fatigué des endroits bondés de touristes ? Découvrez comment dénicher les adresses locales branchées qui n'apparaissent même pas sur les cartes touristiques."
+description: " \"Fatigué des endroits bondés de touristes ? Découvrez comment dénicher les adresses locales branchées qui n'apparaissent même pas sur les cartes touristiques.\""
 tags: ["Lieux Cachés", "Voyage Local", "Endroits Cachés", "Exploration"]
 ---
 

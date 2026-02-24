@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Technique d'Ancrage pour l'Anxiété : Méthode 5-4-3-2-1"
+title: " \"Technique d'Ancrage pour l'Anxiété : Méthode 5-4-3-2-1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Face à une crise d'angoisse ou de panique soudaine, voici comment utiliser l'IA et la méthode 5-4-3-2-1 pour vous reconnecter rapidement à la réalité."
+description: " \"Face à une crise d'angoisse ou de panique soudaine, voici comment utiliser l'IA et la méthode 5-4-3-2-1 pour vous reconnecter rapidement à la réalité.\""
 tags:
   [
     "Anxiété",

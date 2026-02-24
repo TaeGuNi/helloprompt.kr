@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "冷蔵庫の残り物で作れるAI栄養士プロンプト。忙しい朝でも15分で健康的な朝食メニューが完成します。"
+description: " \"冷蔵庫の残り物で作れるAI栄養士プロンプト。忙しい朝でも15分で健康的な朝食メニューが完成します。\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

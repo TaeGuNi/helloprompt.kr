@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Korean)"
-description: "Few-Shot 프롬프팅을 통해 복잡한 추론 작업의 신뢰성과 정확도를 획기적으로 향상시키는 방법을 알아봅니다."
+title: " \"Zero Shot vs Few Shot Prompting (Korean)\""
+description: " \"Few-Shot 프롬프팅을 통해 복잡한 추론 작업의 신뢰성과 정확도를 획기적으로 향상시키는 방법을 알아봅니다.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

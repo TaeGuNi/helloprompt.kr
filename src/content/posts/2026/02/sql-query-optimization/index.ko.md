@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법"
+title: " \"SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "쿼리가 느려서 서버가 뻗는다면? EXPLAIN 실행 계획 분석부터 인덱스 추천까지, AI를 DBA로 활용하는 프롬프트."
+description: " \"쿼리가 느려서 서버가 뻗는다면? EXPLAIN 실행 계획 분석부터 인덱스 추천까지, AI를 DBA로 활용하는 프롬프트.\""
 tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Superordinateur dans votre main : Révolution de l'IA sur appareil"
-description: "L'ère des LLM locaux à haute performance fonctionnant sans aucun accès au cloud."
+title: " \"Superordinateur dans votre main : Révolution de l'IA sur appareil\""
+description: " \"L'ère des LLM locaux à haute performance fonctionnant sans aucun accès au cloud.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

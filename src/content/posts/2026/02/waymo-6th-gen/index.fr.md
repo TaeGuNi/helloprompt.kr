@@ -1,12 +1,10 @@
 ---
 date: "2026-02-13"
-description:
-  Capteurs améliorés, meilleure gestion des conditions météorologiques
-  et conduite plus fluide.
+description: "Capteurs améliorés, meilleure gestion des conditions météorologiques et conduite plus fluide."
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo lance des opérations entièrement autonomes avec le conducteur de 6e génération
+title: "Waymo lance des opérations entièrement autonomes avec le conducteur de 6e génération"
 ---
 
 # 📝 Rédiger un Article Tech Percutant : L'Exemple du Lancement de Waymo

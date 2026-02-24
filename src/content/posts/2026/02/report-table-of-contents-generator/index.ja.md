@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "上司が好む報告書目次構成する"
+title: " \"上司が好む報告書目次構成する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "論理的な流れ(Logic Flow)を組み立て、説得力のある報告書のアウトラインを作成するプロンプトです。"
+description: " \"論理的な流れ(Logic Flow)を組み立て、説得力のある報告書のアウトラインを作成するプロンプトです。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

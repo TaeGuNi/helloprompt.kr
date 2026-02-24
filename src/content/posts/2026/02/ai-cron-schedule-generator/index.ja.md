@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 크론(Cron) 주기 설정, 더 이상 헷갈리지 마세요 (AI Cron Gen)
+title: "크론(Cron) 주기 설정, 더 이상 헷갈리지 마세요 (AI Cron Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "* * * * * 一体いつ実行されるの？毎週月曜日の午前3時に実行したい場合は？AIに自然言語で質問して、正確なCron式を取得しましょう。"
+description: " \"* * * * * 一体いつ実行されるの？毎週月曜日の午前3時に実行したい場合は？AIに自然言語で質問して、正確なCron式を取得しましょう。\""
 tags: [Linux, Cron, Automation, Server, AI]
 ---
 

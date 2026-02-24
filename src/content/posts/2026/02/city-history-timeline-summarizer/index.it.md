@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Riassuntore della Cronologia della Storia della Città: In Una Pagina"
+title: " \"Riassuntore della Cronologia della Storia della Città: In Una Pagina\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "La storia complessa a colpo d'occhio! Crea una cronologia essenziale che collega il passato e il presente della tua destinazione di viaggio."
+description: " \"La storia complessa a colpo d'occhio! Crea una cronologia essenziale che collega il passato e il presente della tua destinazione di viaggio.\""
 tags:
   [
     "Studio della Storia",

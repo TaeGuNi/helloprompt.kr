@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lyricist Debut? Writing Emotional Ballad Lyrics with 3 Keywords"
+title: " \"Lyricist Debut? Writing Emotional Ballad Lyrics with 3 Keywords\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "With just 3 words that come to mind, an AI creates an emotional lyric draft of a professional lyricist level."
+description: " \"With just 3 words that come to mind, an AI creates an emotional lyric draft of a professional lyricist level.\""
 tags: ["Lyrics", "LyricWriting", "Ballad", "Music"]
 ---
 

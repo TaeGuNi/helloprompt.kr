@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nombrado de Startup/Marca: Haciendo Nombres Memorables"
+title: " \"Nombrado de Startup/Marca: Haciendo Nombres Memorables\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¡El nombre de tu marca determina el destino de tu negocio! Encuentra con IA ideas de nombres que sean memorables y llenos de significado."
+description: " \"¡El nombre de tu marca determina el destino de tu negocio! Encuentra con IA ideas de nombres que sean memorables y llenos de significado.\""
 tags: ["Nombrar", "Marca", "Startup", "Marketing", "Idea"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso de 'Contraluz' de Silueta Intensa"
+title: " \"Uso de 'Contraluz' de Silueta Intensa\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de contraluz (silueta) que resalta la belleza formal y la atmósfera al oscurecer el sujeto principal."
+description: " \"Prompt de contraluz (silueta) que resalta la belleza formal y la atmósfera al oscurecer el sujeto principal.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composición", "Iluminación"]
 ---
 

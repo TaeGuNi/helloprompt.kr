@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Análisis de Sensibilidad de Excel: Preparación Perfecta para Escenarios 'Qué Pasaría Si'"
+title: " \"Análisis de Sensibilidad de Excel: Preparación Perfecta para Escenarios 'Qué Pasaría Si'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización de Trabajo"
-description: "¿Cuánto cae el margen de beneficio si el tipo de cambio sube un 10%? Aprende a calcular decenas de escenarios financieros al instante con la función 'Tabla de datos' de Excel."
+description: " \"¿Cuánto cae el margen de beneficio si el tipo de cambio sube un 10%? Aprende a calcular decenas de escenarios financieros al instante con la función 'Tabla de datos' de Excel.\""
 tags: ["Excel", "AnálisisSensibilidad", "Escenario", "TablaDatos"]
 ---
 

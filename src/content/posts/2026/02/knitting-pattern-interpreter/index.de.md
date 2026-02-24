@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "암호문 같은 뜨개질 도안, AI가 해석해드립니다"
+title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "K1, P1, YO... 영문 약어와 기호로 가득 찬 뜨개질 도안을 쉬운 한글 서술형 설명으로 변환하세요. Ravelry 도안도 문제없습니다."
+description: " \"K1, P1, YO... 영문 약어와 기호로 가득 찬 뜨개질 도안을 쉬운 한글 서술형 설명으로 변환하세요. Ravelry 도안도 문제없습니다.\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 

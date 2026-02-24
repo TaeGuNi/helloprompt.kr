@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5-Year Career Roadmap Design: From Now to C-Level"
+title: " \"5-Year Career Roadmap Design: From Now to C-Level\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: "Transform your vague future into a concrete plan. Use AI to design actionable 1, 3, and 5-year goals and identify the critical skill sets needed to reach C-Level."
+description: " \"Transform your vague future into a concrete plan. Use AI to design actionable 1, 3, and 5-year goals and identify the critical skill sets needed to reach C-Level.\""
 tags: ["Career Path", "Career Development", "Self-improvement", "Goal Setting"]
 ---
 

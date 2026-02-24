@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estrategia de Empaque para Viajes de Invierno: Calidez y Volumen"
+title: " \"Estrategia de Empaque para Viajes de Invierno: Calidez y Volumen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Una sola chaqueta acolchada llena tu maleta? Descubre cómo empacar de forma inteligente y ahorrar espacio en tus viajes de invierno."
+description: " \"¿Una sola chaqueta acolchada llena tu maleta? Descubre cómo empacar de forma inteligente y ahorrar espacio en tus viajes de invierno.\""
 tags:
   ["Viaje de Invierno", "Empaque", "Equipo para Clima Frío", "Saber Empacar"]
 ---

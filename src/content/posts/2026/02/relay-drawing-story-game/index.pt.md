@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "A Brincadeira Definitiva para Ficar em Casa: 'Revezamento de Desenho e Criação de Histórias'"
+title: " \"A Brincadeira Definitiva para Ficar em Casa: 'Revezamento de Desenho e Criação de Histórias'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Brincadeira de criatividade conectando histórias desenhando situações inusitadas sugeridas pela IA."
+description: " \"Brincadeira de criatividade conectando histórias desenhando situações inusitadas sugeridas pela IA.\""
 tags:
   [
     "Parentalidade",

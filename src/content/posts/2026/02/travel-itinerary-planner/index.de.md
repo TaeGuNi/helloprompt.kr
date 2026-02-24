@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI Hyper-Personalisierter Reiseplaner, akribischer als J"
+title: " \"KI Hyper-Personalisierter Reiseplaner, akribischer als J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Erstellen Sie in nur einer Minute einen perfekten, maßgeschneiderten Reiseplan, der Vorlieben, optimale Routen und Ihr Energieniveau berücksichtigt."
+description: " \"Erstellen Sie in nur einer Minute einen perfekten, maßgeschneiderten Reiseplan, der Vorlieben, optimale Routen und Ihr Energieniveau berücksichtigt.\""
 tags: ["Reisen", "Zeitplan", "Planer", "Auslandsreisen"]
 ---
 

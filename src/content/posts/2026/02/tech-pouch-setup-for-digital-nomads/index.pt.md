@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configuração de Bolsa Tecnológica para Nômades Digitais: Trabalho e Viagem"
+title: " \"Configuração de Bolsa Tecnológica para Nômades Digitais: Trabalho e Viagem\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Descubra como transformar qualquer café no seu escritório ideal. Um guia completo de equipamentos essenciais para nômades digitais garantirem 200% de produtividade."
+description: " \"Descubra como transformar qualquer café no seu escritório ideal. Um guia completo de equipamentos essenciais para nômades digitais garantirem 200% de produtividade.\""
 tags:
   ["Nômade Digital", "Workation", "Equipamento Tecnológico", "Trabalho Remoto"]
 ---

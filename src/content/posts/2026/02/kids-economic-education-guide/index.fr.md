@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Éducation Économique pour Enfants : Enseigner la Valeur de l'Argent"
+title: " \"Guide d'Éducation Économique pour Enfants : Enseigner la Valeur de l'Argent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un script d'explication qui enseigne facilement la valeur de l'argent et le sens du travail."
+description: " \"Un script d'explication qui enseigne facilement la valeur de l'argent et le sens du travail.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

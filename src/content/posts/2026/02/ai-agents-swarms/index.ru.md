@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (ru)"
-description: "Глубокий анализ ИИ-агентов 2.0: как совместные рои (Collaborative Swarms) меняют правила игры в рабочих процессах."
+title: " \"AI Agents 2.0: Collaborative Swarms (ru)\""
+description: " \"Глубокий анализ ИИ-агентов 2.0: как совместные рои (Collaborative Swarms) меняют правила игры в рабочих процессах.\""
 date: "2026-02-14"
 ---
 

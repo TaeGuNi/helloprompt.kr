@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (es)"
-description: "Análisis y estrategias para una computación de IA sostenible."
+title: " \"Sustainable AI Computing (es)\""
+description: " \"Análisis y estrategias para una computación de IA sostenible.\""
 date: "2026-02-14"
 ---
 

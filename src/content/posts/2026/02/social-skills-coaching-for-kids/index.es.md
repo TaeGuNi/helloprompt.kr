@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching de Habilidades Sociales para Niños: Explicando las Relaciones y el Rechazo"
+title: " \"Coaching de Habilidades Sociales para Niños: Explicando las Relaciones y el Rechazo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Coaching de habilidades sociales para ayudar a los niños a gestionar el rechazo y fortalecer sus relaciones."
+description: " \"Coaching de habilidades sociales para ayudar a los niños a gestionar el rechazo y fortalecer sus relaciones.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

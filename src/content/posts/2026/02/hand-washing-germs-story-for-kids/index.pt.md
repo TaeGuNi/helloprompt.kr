@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "História de Lavagem das Mãos e Germes para Crianças"
+title: " \"História de Lavagem das Mãos e Germes para Crianças\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Um método de persuasão científica para fazer seu filho lavar as mãos sem reclamar."
+description: " \"Um método de persuasão científica para fazer seu filho lavar as mãos sem reclamar.\""
 tags:
   [
     "Parentalidade",

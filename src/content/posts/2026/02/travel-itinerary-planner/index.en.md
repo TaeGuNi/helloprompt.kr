@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Hyper-Personalized Travel Itinerary Planner More Meticulous than J"
+title: " \"AI Hyper-Personalized Travel Itinerary Planner More Meticulous than J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Get a flawless travel itinerary tailored to your preferences, optimal routes, and energy levels in under a minute."
+description: " \"Get a flawless travel itinerary tailored to your preferences, optimal routes, and energy levels in under a minute.\""
 tags: ["Travel", "Schedule", "Planner", "Overseas Travel"]
 ---
 

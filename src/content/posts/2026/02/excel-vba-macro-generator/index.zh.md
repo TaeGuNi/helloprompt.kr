@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "重复的 Excel 苦力，用宏 (VBA) 自动化"
+title: " \"重复的 Excel 苦力，用宏 (VBA) 自动化\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "不懂编程也没关系。只需用自然语言描述需求，AI 就能为你生成一键自动化的 VBA 宏代码。"
+description: " \"不懂编程也没关系。只需用自然语言描述需求，AI 就能为你生成一键自动化的 VBA 宏代码。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

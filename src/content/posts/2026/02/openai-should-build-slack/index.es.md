@@ -1,6 +1,6 @@
 ---
-title: "Why OpenAI Should Build Slack (Spanish)"
-description: "La consolidación de la IA y las plataformas de comunicación es el próximo paso lógico para la productividad empresarial."
+title: " \"Why OpenAI Should Build Slack (Spanish)\""
+description: " \"La consolidación de la IA y las plataformas de comunicación es el próximo paso lógico para la productividad empresarial.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]

@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Simplified Chinese)"
-description: "Few-Shot（少样本）提示词能显著提升复杂推理任务的准确性与稳定性。"
+title: " \"Zero Shot vs Few Shot Prompting (Simplified Chinese)\""
+description: " \"Few-Shot（少样本）提示词能显著提升复杂推理任务的准确性与稳定性。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

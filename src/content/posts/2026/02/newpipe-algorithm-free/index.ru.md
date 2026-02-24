@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Russian)"
-description: "Растущий спрос пользователей на спокойное потребление медиа без алгоритмических лент"
+title: " \"The Rise of Algorithm Free Media (Russian)\""
+description: " \"Растущий спрос пользователей на спокойное потребление медиа без алгоритмических лент\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

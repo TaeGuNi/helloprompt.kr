@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "汚いExcelデータ、すっきりと前処理する"
+title: " \"汚いExcelデータ、すっきりと前処理する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "住所の分離、日付形式の統一など、面倒なExcelデータクレンジングを一瞬で解決するAIプロンプト。"
+description: " \"住所の分離、日付形式の統一など、面倒なExcelデータクレンジングを一瞬で解決するAIプロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Itens de Sobrevivência para Viajantes de Longo Prazo e Nômades Digitais"
+title: " \"Guia de Itens de Sobrevivência para Viajantes de Longo Prazo e Nômades Digitais\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem e Cultura"
-description: "Lar longe de casa? Itens essenciais que melhoram a qualidade de vida em viagens longas."
+description: " \"Lar longe de casa? Itens essenciais que melhoram a qualidade de vida em viagens longas.\""
 tags:
   [
     "Viagem de Longo Prazo",

@@ -1,6 +1,6 @@
 ---
-title: "KI-Slop-Müdigkeit: Warum 'Keine KI' das neue Premium ist"
-description: "Das Web ertrinkt in minderwertigen KI-Inhalten (KI-Slop). Entdecken Sie, warum echter 'Human-Touch' das neue Premium ist und wie Sie mit dem richtigen Prompt authentische Texte generieren."
+title: " \"KI-Slop-Müdigkeit: Warum 'Keine KI' das neue Premium ist\""
+description: " \"Das Web ertrinkt in minderwertigen KI-Inhalten (KI-Slop). Entdecken Sie, warum echter 'Human-Touch' das neue Premium ist und wie Sie mit dem richtigen Prompt authentische Texte generieren.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "アイデアが詰まった時、ブレインストーミングパートナー"
+title: " \"アイデアが詰まった時、ブレインストーミングパートナー\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "一人で悩むのはもう終わりにしましょう。SCAMPER技法を活用してアイデアを無限に拡張するプロンプトです。"
+description: " \"一人で悩むのはもう終わりにしましょう。SCAMPER技法を活用してアイデアを無限に拡張するプロンプトです。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

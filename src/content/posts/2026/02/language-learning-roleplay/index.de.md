@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Statt teurem Telefon-Englisch, 24-Stunden-Standby-KI-Muttersprachler"
+title: " \"Statt teurem Telefon-Englisch, 24-Stunden-Standby-KI-Muttersprachler\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Leben"
-description: "Ein Rollenspiel-Prompt, der es Ihnen ermöglicht, Fremdsprachenkonversation wie im echten Leben mit KI zu üben, indem Sie gewünschte Situationen und Schwierigkeitsgrade festlegen."
+description: " \"Ein Rollenspiel-Prompt, der es Ihnen ermöglicht, Fremdsprachenkonversation wie im echten Leben mit KI zu üben, indem Sie gewünschte Situationen und Schwierigkeitsgrade festlegen.\""
 tags: ["Englisch-Konversation", "Fremdsprachenstudium", "Rollenspiel"]
 ---
 

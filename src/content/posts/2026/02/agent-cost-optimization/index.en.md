@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "Are your AI agent API costs exploding? Understand the 'quadratic trap' of LLM context windows and discover 3 practical prompt patterns to optimize token usage without degrading intelligence."
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"Are your AI agent API costs exploding? Understand the 'quadratic trap' of LLM context windows and discover 3 practical prompt patterns to optimize token usage without degrading intelligence.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

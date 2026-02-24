@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Les Tableaux et Graphiques Parlent : Tuteur d'Interprétation de Données"
+title: " \"Les Tableaux et Graphiques Parlent : Tuteur d'Interprétation de Données\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: "Un prompt puissant pour extraire les informations clés de vos graphiques et tableaux complexes tout en déjouant les pièges statistiques."
+description: " \"Un prompt puissant pour extraire les informations clés de vos graphiques et tableaux complexes tout en déjouant les pièges statistiques.\""
 tags:
   [
     "AnalyseDonnées",

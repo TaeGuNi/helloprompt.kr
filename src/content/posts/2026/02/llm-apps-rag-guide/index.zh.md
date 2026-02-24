@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "构建出色 LLM 应用与 RAG 的完整指南"
+title: " \"构建出色 LLM 应用与 RAG 的完整指南\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "探索如何利用 awesome-llm-apps 资源库，构建企业级的大语言模型 (LLM) 应用与高可用 RAG 管道。"
+description: " \"探索如何利用 awesome-llm-apps 资源库，构建企业级的大语言模型 (LLM) 应用与高可用 RAG 管道。\""
 author: "Hello Prompt"
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"

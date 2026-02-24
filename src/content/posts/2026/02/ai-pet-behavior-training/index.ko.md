@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "반려동물 행동 교정: 강형욱 빙의 AI 훈련사"
+title: " \"반려동물 행동 교정: 강형욱 빙의 AI 훈련사\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/반려동물"
-description: "우리 강아지가 왜 짖을까? 분리불안, 입질, 배변 실수 등 상황별 맞춤 행동 교정 AI 솔루션을 만나보세요."
+description: " \"우리 강아지가 왜 짖을까? 분리불안, 입질, 배변 실수 등 상황별 맞춤 행동 교정 AI 솔루션을 만나보세요.\""
 tags: ["강아지", "고양이", "훈련", "강형욱", "반려동물"]
 ---
 

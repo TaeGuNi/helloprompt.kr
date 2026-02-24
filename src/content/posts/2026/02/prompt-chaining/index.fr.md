@@ -1,6 +1,6 @@
 ---
-title: "Chaînage d'Invites : La Fin de l'Invite Unique"
-description: "Les problèmes complexes ne se résolvent pas en une seule fois. Le chaînage d'invites et les flux de travail agentiques sont devenus la norme en 2026."
+title: " \"Chaînage d'Invites : La Fin de l'Invite Unique\""
+description: " \"Les problèmes complexes ne se résolvent pas en une seule fois. Le chaînage d'invites et les flux de travail agentiques sont devenus la norme en 2026.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 의존성 지옥 탈출! AI 패키지 충돌 해결사 (Dependency Resolver)
+title: "의존성 지옥 탈출! AI 패키지 충돌 해결사 (Dependency Resolver)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: npm install のエラーが怖いですか？package.jsonの競合原因と解決策をAIが分析します。Peer Dependencyの問題も簡単に解決しましょう。
+description: "npm install のエラーが怖いですか？package.jsonの競合原因と解決策をAIが分析します。Peer Dependencyの問題も簡単に解決しましょう。"
 tags: [AI, Node.js, npm, Debugging]
 ---
 

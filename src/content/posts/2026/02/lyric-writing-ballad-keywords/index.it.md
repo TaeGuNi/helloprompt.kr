@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Debutto Paroliere? Scrivere Testi Ballata Emotiva con 3 Parole Chiave"
+title: " \"Debutto Paroliere? Scrivere Testi Ballata Emotiva con 3 Parole Chiave\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Con solo 3 parole che ti vengono in mente, l'IA crea una bozza di testo emotivo degna di un paroliere professionista."
+description: " \"Con solo 3 parole che ti vengono in mente, l'IA crea una bozza di testo emotivo degna di un paroliere professionista.\""
 tags: ["Testi", "ScritturaTesti", "Ballata", "Musica"]
 ---
 

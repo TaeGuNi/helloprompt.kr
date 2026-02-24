@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Intervallfasten-Plan: Erfolgsquote um 200% steigern"
+title: " \"KI-Intervallfasten-Plan: Erfolgsquote um 200% steigern\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Entwerfen Sie einen Intervallfasten-Plan, der perfekt zu Ihrem Lebensstil passt, und erhalten Sie Tipps von der KI, wie Sie die Fastenstunden überstehen."
+description: " \"Entwerfen Sie einen Intervallfasten-Plan, der perfekt zu Ihrem Lebensstil passt, und erhalten Sie Tipps von der KI, wie Sie die Fastenstunden überstehen.\""
 tags: ["Intervallfasten", "Diät", "Gesundheit", "ChatGPT", "Routine"]
 ---
 

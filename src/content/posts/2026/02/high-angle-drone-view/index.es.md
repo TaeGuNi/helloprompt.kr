@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso de Punto de Vista Omnisciente 'Ángulo Alto' (Vista de Dron)"
+title: " \"Uso de Punto de Vista Omnisciente 'Ángulo Alto' (Vista de Dron)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de ángulo alto o toma de dron que muestra la disposición general del terreno desde una perspectiva aérea."
+description: " \"Prompt de ángulo alto o toma de dron que muestra la disposición general del terreno desde una perspectiva aérea.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "Paisaje"]
 ---

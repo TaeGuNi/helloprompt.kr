@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Korean)"
-description: "회의록 작성 시간을 90% 단축하는 AI 프롬프트와 프라이버시 고려사항"
+title: " \"Automated Meeting Notes (Korean)\""
+description: " \"회의록 작성 시간을 90% 단축하는 AI 프롬프트와 프라이버시 고려사항\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

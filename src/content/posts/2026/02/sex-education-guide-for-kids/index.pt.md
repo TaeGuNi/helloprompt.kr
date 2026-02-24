@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Educação Sexual para Crianças: Como Responder 'De Onde Vêm os Bebês?'"
+title: " \"Guia de Educação Sexual para Crianças: Como Responder 'De Onde Vêm os Bebês?'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Um guia para explicar a educação sexual com precisão e beleza, sem evitá-la."
+description: " \"Um guia para explicar a educação sexual com precisão e beleza, sem evitá-la.\""
 tags:
   [
     "Parentalidade",

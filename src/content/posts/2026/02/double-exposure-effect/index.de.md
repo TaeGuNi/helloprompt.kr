@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Zwei Bilder in einem 'Double Exposure'"
+title: " \"Zwei Bilder in einem 'Double Exposure'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Eine Doppelbelichtungstechnik, die zwei verschiedene Bilder überlagert, um eine mysteriöse und verträumte Geschichte zu erzählen."
+description: " \"Eine Doppelbelichtungstechnik, die zwei verschiedene Bilder überlagert, um eine mysteriöse und verträumte Geschichte zu erzählen.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effekt", "Surrealismus"]
 ---
 

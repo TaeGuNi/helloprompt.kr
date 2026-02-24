@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 미라클 모닝 루틴, AI로 설계하기
+title: "미라클 모닝 루틴, AI로 설계하기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: Diseña tu rutina matutina perfecta con IA. Olvídate de los planes imposibles y crea un "Miracle Morning" ultra personalizado con ChatGPT.
+description: "Diseña tu rutina matutina perfecta con IA. Olvídate de los planes imposibles y crea un \"Miracle Morning\" ultra personalizado con ChatGPT."
 tags: [AI, ChatGPT, Prompt]
 ---
 

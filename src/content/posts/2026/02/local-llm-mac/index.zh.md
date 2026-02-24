@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법 (비공개 데이터 보안)"
+title: " \"내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법 (비공개 데이터 보안)\""
 author: "ZZabbis"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "개발 가이드"
-description: "告别高昂的云端费用，教你如何在本地电脑免费、安全地运行强大的 AI 模型，彻底保护隐私数据。"
+description: " \"告别高昂的云端费用，教你如何在本地电脑免费、安全地运行强大的 AI 模型，彻底保护隐私数据。\""
 tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 ---
 

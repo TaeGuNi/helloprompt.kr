@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Japanese)"
-description: "複数のAIエージェントの協調は、複雑な問題解決の新しい標準です"
+title: " \"AI Agent Swarms (Japanese)\""
+description: " \"複数のAIエージェントの協調は、複雑な問題解決の新しい標準です\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

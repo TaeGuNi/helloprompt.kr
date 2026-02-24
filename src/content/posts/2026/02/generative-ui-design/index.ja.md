@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: 固定されたメニューやボタンの時代は終わりました。ユーザーの意図をリアルタイムで把握し、画面を描画する「生成型UI」の概念とデザインプロンプトを紹介します。
+description: "固定されたメニューやボタンの時代は終わりました。ユーザーの意図をリアルタイムで把握し、画面を描画する「生成型UI」の概念とデザインプロンプトを紹介します。"
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Adaptive Design
   - No-UI
   - UX Trends
-title: "生成型UI (Generative UI): クリック不要なインターフェースの未来"
+title: " \"生成型UI (Generative UI): クリック不要なインターフェースの未来\""
 ---
 
 # 🎨 生成型UI (Generative UI): クリック不要なインターフェースの未来

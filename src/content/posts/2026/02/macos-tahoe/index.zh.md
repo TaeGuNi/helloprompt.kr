@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe：窗口大小调整引发的争议与变革"
-description: "探讨 macOS Tahoe 更新带来的窗口调整方式变化，并使用 AI 深度分析 UX 争议，一键生成专业级体验评估与优化报告。"
+title: " \"macOS Tahoe：窗口大小调整引发的争议与变革\""
+description: " \"探讨 macOS Tahoe 更新带来的窗口调整方式变化，并使用 AI 深度分析 UX 争议，一键生成专业级体验评估与优化报告。\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

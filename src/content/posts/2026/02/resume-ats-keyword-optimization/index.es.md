@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Prevenir Falla ATS (Solución de Reclutamiento)! Prompt de Optimización de Palabras Clave de Currículum"
+title: " \"¡Prevenir Falla ATS (Solución de Reclutamiento)! Prompt de Optimización de Palabras Clave de Currículum\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Integra de forma natural en tu currículum las palabras clave preferidas por los sistemas de seguimiento de candidatos (ATS) para evitar el descarte automático."
+description: " \"Integra de forma natural en tu currículum las palabras clave preferidas por los sistemas de seguimiento de candidatos (ATS) para evitar el descarte automático.\""
 tags: ["ATS", "OptimizaciónCurrículum", "PalabraClave", "SistemaReclutamiento"]
 ---
 

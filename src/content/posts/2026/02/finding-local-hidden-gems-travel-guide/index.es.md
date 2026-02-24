@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Viaje para Encontrar Joyas Ocultas Locales: Más Allá de los Puntos Turísticos"
+title: " \"Guía de Viaje para Encontrar Joyas Ocultas Locales: Más Allá de los Puntos Turísticos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¡Olvídate de las trampas para turistas! Descubre cómo usar la IA para encontrar auténticas joyas locales que no aparecen en las guías tradicionales."
+description: " \"¡Olvídate de las trampas para turistas! Descubre cómo usar la IA para encontrar auténticas joyas locales que no aparecen en las guías tradicionales.\""
 tags: ["Puntos Ocultos", "Viaje Local", "Lugares Ocultos", "Exploración"]
 ---
 

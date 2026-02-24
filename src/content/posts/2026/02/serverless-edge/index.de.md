@@ -1,6 +1,6 @@
 ---
-title: "Der Aufstieg des Serverless Edge Computing"
-description: "Erfahren Sie, wie Serverless-Architekturen an den Edge wandern, die Latenz verringern und die Anwendungsbereitstellung im Jahr 2026 transformieren."
+title: " \"Der Aufstieg des Serverless Edge Computing\""
+description: " \"Erfahren Sie, wie Serverless-Architekturen an den Edge wandern, die Latenz verringern und die Anwendungsbereitstellung im Jahr 2026 transformieren.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

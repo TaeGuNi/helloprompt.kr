@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hintergrundbeschreibungskonverter, der die fünf Sinne des Lesers stimuliert"
+title: " \"Hintergrundbeschreibungskonverter, der die fünf Sinne des Lesers stimuliert\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein Schreibwerkzeug, das einfache, erklärende Sätze in lebendige, die fünf Sinne ansprechende Beschreibungen verwandelt."
+description: " \"Ein Schreibwerkzeug, das einfache, erklärende Sätze in lebendige, die fünf Sinne ansprechende Beschreibungen verwandelt.\""
 tags: ["Schreiben", "Beschreibung", "Roman", "Ausdruckskraft"]
 ---
 

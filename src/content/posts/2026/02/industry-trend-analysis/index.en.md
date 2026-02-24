@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Industry Trend Analysis: Finding Rising Markets"
+title: " \"Industry Trend Analysis: Finding Rising Markets\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Discover how to analyze rapidly growing industry trends and identify beneficiary stocks using AI."
+description: " \"Discover how to analyze rapidly growing industry trends and identify beneficiary stocks using AI.\""
 tags: ["Stock", "IndustryAnalysis", "Trend", "MarketResearch"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex Nightmare, Now Offload to AI"
+title: " \"Regex Nightmare, Now Offload to AI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "Stop writing cryptic regular expressions manually. Use this AI prompt to generate flawless regex code simply by describing your desired pattern."
+description: " \"Stop writing cryptic regular expressions manually. Use this AI prompt to generate flawless regex code simply by describing your desired pattern.\""
 tags: ["Regex", "Regular Expression", "Dev Productivity"]
 ---
 

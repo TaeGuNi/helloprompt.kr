@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Più Veloce di Papago! Cheat Key Conversazione Viaggio Essenziale per Situazione"
+title: " \"Più Veloce di Papago! Cheat Key Conversazione Viaggio Essenziale per Situazione\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Dall'ordinare al ristorante al check-in in hotel, fino alle emergenze. Schede di conversazione pratiche che puoi utilizzare immediatamente sul posto."
+description: " \"Dall'ordinare al ristorante al check-in in hotel, fino alle emergenze. Schede di conversazione pratiche che puoi utilizzare immediatamente sul posto.\""
 tags: ["Viaggi", "Lingua Straniera", "Conversazione", "Inglese", "Giapponese"]
 ---
 

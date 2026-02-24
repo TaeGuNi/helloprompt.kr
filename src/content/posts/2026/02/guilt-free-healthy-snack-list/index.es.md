@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Bocadillos Saludables Sin Culpa: Prevenir Atracones"
+title: " \"Lista de Bocadillos Saludables Sin Culpa: Prevenir Atracones\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Vence los antojos de las 3 PM sin remordimientos. Descubre cómo la IA genera infinitas opciones de snacks saludables y deliciosos para calmar el estrés sin afectar tu peso."
+description: " \"Vence los antojos de las 3 PM sin remordimientos. Descubre cómo la IA genera infinitas opciones de snacks saludables y deliciosos para calmar el estrés sin afectar tu peso.\""
 tags: ["Bocadillo de Dieta", "Salud", "Receta", "ChatGPT", "Bocadillo"]
 ---
 

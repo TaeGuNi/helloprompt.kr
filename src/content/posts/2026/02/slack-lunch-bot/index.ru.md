@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Slack 봇 만들기: '점심 뭐 먹지?' 추천해주는 사내 봇"
+title: " \"Slack 봇 만들기: '점심 뭐 먹지?' 추천해주는 사내 봇\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Как создать собственного ассистента по выбору обеда для команды, объединив Slack Workflow Builder и ИИ, без навыков программирования."
+description: " \"Как создать собственного ассистента по выбору обеда для команды, объединив Slack Workflow Builder и ИИ, без навыков программирования.\""
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 

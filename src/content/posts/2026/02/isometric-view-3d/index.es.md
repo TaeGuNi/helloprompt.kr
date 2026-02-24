@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de 'Vista Isométrica' del Lindo Mundo en Miniatura"
+title: " \"Prompt de 'Vista Isométrica' del Lindo Mundo en Miniatura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Aprende a generar impresionantes vistas isométricas en 3D, ideales para iconos o diseños de videojuegos estilo diorama."
+description: " \"Aprende a generar impresionantes vistas isométricas en 3D, ideales para iconos o diseños de videojuegos estilo diorama.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "3D"]
 ---
 

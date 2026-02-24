@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevenir Falha ATS (Solução de Recrutamento)! Prompt de Otimização de Palavras-chave de Currículo"
+title: " \"Prevenir Falha ATS (Solução de Recrutamento)! Prompt de Otimização de Palavras-chave de Currículo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Incorpore de forma natural as palavras-chave que os sistemas de recrutamento (ATS) valorizam em seu currículo, evitando a eliminação automática."
+description: " \"Incorpore de forma natural as palavras-chave que os sistemas de recrutamento (ATS) valorizam em seu currículo, evitando a eliminação automática.\""
 tags: ["ATS", "OtimizaçãoCurrículo", "PalavraChave", "SistemaRecrutamento"]
 ---
 

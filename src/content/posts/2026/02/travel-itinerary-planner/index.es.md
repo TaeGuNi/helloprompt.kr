@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planificador de Itinerario de Viaje Hiper-Personalizado con IA Más Meticuloso que J"
+title: " \"Planificador de Itinerario de Viaje Hiper-Personalizado con IA Más Meticuloso que J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "Recibe un plan de viaje perfecto considerando gusto, ruta y resistencia en 1 minuto."
+description: " \"Recibe un plan de viaje perfecto considerando gusto, ruta y resistencia en 1 minuto.\""
 tags: ["Viajes", "Horario", "Planificador", "Viajes al Extranjero"]
 ---
 

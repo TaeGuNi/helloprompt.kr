@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "3 Choses que tout débutant en IA doit faire en premier (Guide de démarrage)"
+title: " \"3 Choses que tout débutant en IA doit faire en premier (Guide de démarrage)\""
 author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-09T10:00:00.000Z"
 category: "Débutant"
 tags: ["Débutant IA", "ChatGPT", "Guide", "Tuto"]
-description: "L'IA vous semble compliquée ? Voici les 3 moyens les plus simples et efficaces pour commencer dès maintenant."
+description: " \"L'IA vous semble compliquée ? Voici les 3 moyens les plus simples et efficaces pour commencer dès maintenant.\""
 ---
 
 # 📝 3 Choses que tout débutant en IA doit faire en premier

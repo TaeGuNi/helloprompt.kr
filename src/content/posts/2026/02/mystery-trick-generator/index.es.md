@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Juego de Deducción de Misterio: Generación de Culpable y Truco (Mystery Trick Generator)"
+title: " \"Juego de Deducción de Misterio: Generación de Culpable y Truco (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "La IA diseña ingeniosos trucos de habitación cerrada y coartadas perfectas que harían llorar a Conan y Kindaichi."
+description: " \"La IA diseña ingeniosos trucos de habitación cerrada y coartadas perfectas que harían llorar a Conan y Kindaichi.\""
 tags: ["Deducción", "Misterio", "Truco", "Novela", "Escenario"]
 ---
 

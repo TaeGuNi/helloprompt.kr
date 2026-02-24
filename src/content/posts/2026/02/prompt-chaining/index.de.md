@@ -1,6 +1,6 @@
 ---
-title: "Prompt Chaining: Das Ende des einzelnen Prompts"
-description: "Komplexe Probleme werden nicht auf einmal gelöst. Prompt Chaining und agentische Workflows sind 2026 zum Standard geworden."
+title: " \"Prompt Chaining: Das Ende des einzelnen Prompts\""
+description: " \"Komplexe Probleme werden nicht auf einmal gelöst. Prompt Chaining und agentische Workflows sind 2026 zum Standard geworden.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]

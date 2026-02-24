@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finir l'Analyse SWOT en 1 Minute Sans Brainstorming"
+title: " \"Finir l'Analyse SWOT en 1 Minute Sans Brainstorming\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "L'analyse SWOT propulsée par l'IA : la base indispensable pour vos nouvelles idées commerciales et stratégies marketing."
+description: " \"L'analyse SWOT propulsée par l'IA : la base indispensable pour vos nouvelles idées commerciales et stratégies marketing.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

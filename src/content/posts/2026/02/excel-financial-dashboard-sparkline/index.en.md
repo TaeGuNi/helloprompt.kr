@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Financial Dashboard: Report with Pictures, Not Numbers"
+title: " \"Excel Financial Dashboard: Report with Pictures, Not Numbers\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Stop presenting dense Excel tables. Create a stunning visual dashboard that your boss will love at first glance using Sparklines and Conditional Formatting."
+description: " \"Stop presenting dense Excel tables. Create a stunning visual dashboard that your boss will love at first glance using Sparklines and Conditional Formatting.\""
 tags: ["Excel", "Dashboard", "Visualization", "Report"]
 ---
 

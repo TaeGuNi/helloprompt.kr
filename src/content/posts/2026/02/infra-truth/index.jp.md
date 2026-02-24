@@ -1,6 +1,6 @@
 ---
-title: "インフラこそがAIの真実"
-description: "AIインフラの真実に関する批判的分析：本当に利益を得ているのはNVIDIAだけなのか。"
+title: " \"インフラこそがAIの真実\""
+description: " \"AIインフラの真実に関する批判的分析：本当に利益を得ているのはNVIDIAだけなのか。\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

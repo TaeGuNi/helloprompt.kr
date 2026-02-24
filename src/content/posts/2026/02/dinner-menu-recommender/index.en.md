@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Decision Paralysis Solved! AI Dinner Menu Recommender"
+title: " \"Decision Paralysis Solved! AI Dinner Menu Recommender\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "End the daily 'What to eat?' struggle. Get perfect dinner recommendations tailored to your local weather, current mood, and cravings using AI."
+description: " \"End the daily 'What to eat?' struggle. Get perfect dinner recommendations tailored to your local weather, current mood, and cravings using AI.\""
 tags:
   ["Menu Recommendation", "Decision Paralysis", "WhatToEatToday", "Dinner Menu"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
-description: "MCP (Model Context Protocol) is the new USB standard for LLMs. Instead of copy-pasting JSON schemas every time, use this prompt to build a custom server that connects your local data directly to Claude or Ollama."
+title: " \"Stop Pasting Context: Build Your First MCP Server in 5 Minutes\""
+description: " \"MCP (Model Context Protocol) is the new USB standard for LLMs. Instead of copy-pasting JSON schemas every time, use this prompt to build a custom server that connects your local data directly to Claude or Ollama.\""
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags:

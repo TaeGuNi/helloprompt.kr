@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Weltweiter Trinkgeld-Etikette-Guide: Soll ich Trinkgeld geben oder nicht?"
+title: " \"Weltweiter Trinkgeld-Etikette-Guide: Soll ich Trinkgeld geben oder nicht?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "USA 20 %? Japan 0 %? Die KI klärt die verwirrende Trinkgeldkultur auf Reisen weltweit."
+description: " \"USA 20 %? Japan 0 %? Die KI klärt die verwirrende Trinkgeldkultur auf Reisen weltweit.\""
 tags: ["Trinkgeldkultur", "Reisekosten", "Globale Etikette", "Servicegebühr"]
 ---
 

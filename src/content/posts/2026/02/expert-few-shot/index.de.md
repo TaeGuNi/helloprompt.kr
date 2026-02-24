@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Die Macht der 'Beispiele' (Few-Shot Prompting)"
+title: " \"Die Macht der 'Beispiele' (Few-Shot Prompting)\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Frustriert, weil die KI den Ton oder das Format nicht richtig trifft? Few-Shot-Prompting ist deutlich effektiver als lange Erklärungen."
+description: " \"Frustriert, weil die KI den Ton oder das Format nicht richtig trifft? Few-Shot-Prompting ist deutlich effektiver als lange Erklärungen.\""
 tags: ["Few-Shot", "Fortgeschrittene Tipps", "Beispiele"]
 ---
 

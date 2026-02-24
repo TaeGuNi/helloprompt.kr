@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kindern den Tod erklären: Ein warmherziger Leitfaden"
+title: " \"Kindern den Tod erklären: Ein warmherziger Leitfaden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Wie man einem Kind, das einen Verlust erlebt hat, den Tod altersgerecht und einfühlsam erklärt."
+description: " \"Wie man einem Kind, das einen Verlust erlebt hat, den Tod altersgerecht und einfühlsam erklärt.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

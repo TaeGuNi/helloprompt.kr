@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Última Arma Definitiva de Entrevista! Generador de 'Pregunta Inversa' para Preguntar al Entrevistador"
+title: " \"¡Última Arma Definitiva de Entrevista! Generador de 'Pregunta Inversa' para Preguntar al Entrevistador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Genera preguntas inversas estratégicas para demostrar tu interés y perspicacia profesional cuando el entrevistador te pregunte '¿Tienes alguna duda?' al final de la entrevista."
+description: " \"Genera preguntas inversas estratégicas para demostrar tu interés y perspicacia profesional cuando el entrevistador te pregunte '¿Tienes alguna duda?' al final de la entrevista.\""
 tags:
   ["PreguntaInversa", "ConsejoEntrevista", "ÚltimasPalabras", "AnálisisEmpresa"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "图表辅助指标解释器: 捕捉买入时机"
+title: " \"图表辅助指标解释器: 捕捉买入时机\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "让 AI 轻松解读 RSI、MACD、布林带等晦涩难懂的图表指标，精准捕捉买卖时机。"
+description: " \"让 AI 轻松解读 RSI、MACD、布林带等晦涩难懂的图表指标，精准捕捉买卖时机。\""
 tags: ["股票", "图表分析", "技术分析", "交易"]
 ---
 

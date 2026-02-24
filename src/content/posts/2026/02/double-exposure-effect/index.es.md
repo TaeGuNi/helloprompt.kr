@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dos Imágenes en Una 'Doble Exposición'"
+title: " \"Dos Imágenes en Una 'Doble Exposición'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Aprende la técnica de doble exposición usando IA para superponer imágenes y crear composiciones visuales misteriosas y surrealistas."
+description: " \"Aprende la técnica de doble exposición usando IA para superponer imágenes y crear composiciones visuales misteriosas y surrealistas.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Efecto", "Surrealismo"]
 ---
 

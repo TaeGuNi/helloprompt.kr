@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "문의하기 (Contact Us)"
-description: "Avez-vous des questions ou des suggestions pour l'équipe Hello Prompt ?"
+title: " \"문의하기 (Contact Us)\""
+description: " \"Avez-vous des questions ou des suggestions pour l'équipe Hello Prompt ?\""
 date: "2026-02-09"
 ---
 

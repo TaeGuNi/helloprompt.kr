@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Proporção Áurea da Gestão do Dinheiro: Calculadora da Regra 50/30/20"
+title: " \"Proporção Áurea da Gestão do Dinheiro: Calculadora da Regra 50/30/20\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Aplicando a regra de gestão de orçamento mais simples e poderosa defendida pela senadora dos EUA Elizabeth Warren."
+description: " \"Aplicando a regra de gestão de orçamento mais simples e poderosa defendida pela senadora dos EUA Elizabeth Warren.\""
 tags: ["GestãoOrçamento", "Finanças", "503020", "Economias"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nessun Collega? Va Bene, Revisione Codice Severa Sviluppatore Senior IA"
+title: " \"Nessun Collega? Va Bene, Revisione Codice Severa Sviluppatore Senior IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt per chi sviluppa in solitaria e necessita di revisioni meticolose del codice, simulando un severo sviluppatore Senior di Google o Amazon."
+description: " \"Un prompt per chi sviluppa in solitaria e necessita di revisioni meticolose del codice, simulando un severo sviluppatore Senior di Google o Amazon.\""
 tags: ["Revisione Codice", "Mentoring", "Clean Code", "Auto-Sviluppo"]
 ---
 

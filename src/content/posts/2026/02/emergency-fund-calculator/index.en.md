@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Emergency Fund Seatbelt: Calculating My Optimal Emergency Fund"
+title: " \"Emergency Fund Seatbelt: Calculating My Optimal Emergency Fund\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Calculate the exact size of the emergency fund you need to survive sudden job loss or unexpected accidents without shaking your financial foundation."
+description: " \"Calculate the exact size of the emergency fund you need to survive sudden job loss or unexpected accidents without shaking your financial foundation.\""
 tags: ["EmergencyFund", "FinancialManagement", "RiskManagement", "Savings"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comparando Mi Currículum y JD: Prompt de Diagnóstico de 'Brecha de Habilidad'"
+title: " \"Comparando Mi Currículum y JD: Prompt de Diagnóstico de 'Brecha de Habilidad'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Compara la descripción del puesto (JD) con tu currículum para identificar brechas de habilidades y diseñar una estrategia de mejora."
+description: " \"Compara la descripción del puesto (JD) con tu currículum para identificar brechas de habilidades y diseñar una estrategia de mejora.\""
 tags:
   [
     "AnálisisBrechaHabilidad",

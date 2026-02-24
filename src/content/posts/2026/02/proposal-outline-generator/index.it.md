@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creare uno Schema di Proposta Irresistibile"
+title: " \"Creare uno Schema di Proposta Irresistibile\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Uno storytelling persuasivo per creare proposte di successo che conquistano i clienti."
+description: " \"Uno storytelling persuasivo per creare proposte di successo che conquistano i clienti.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

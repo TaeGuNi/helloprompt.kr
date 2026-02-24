@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Korean)"
-description: "AI 모델에게 '단계별로 생각하라'고 지시하여 복잡한 논리 퍼즐과 추론 작업의 성능을 극대화하는 프롬프트 엔지니어링 기법"
+title: " \"Chain of Thought Reasoning (Korean)\""
+description: " \"AI 모델에게 '단계별로 생각하라'고 지시하여 복잡한 논리 퍼즐과 추론 작업의 성능을 극대화하는 프롬프트 엔지니어링 기법\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

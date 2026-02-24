@@ -1,6 +1,6 @@
 ---
-title: "AI疲劳时代：数字垃圾"
-description: "深度剖析 AI 疲劳综合症：用户已经对那些毫无意义的 AI 强制功能感到厌倦。"
+title: " \"AI疲劳时代：数字垃圾\""
+description: " \"深度剖析 AI 疲劳综合症：用户已经对那些毫无意义的 AI 强制功能感到厌倦。\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Szenario-Hook-Generierung für TRPG-Meister"
+title: " \"Szenario-Hook-Generierung für TRPG-Meister\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein Lebensretter für Spielleiter (GMs) mit Zeitmangel. Generieren Sie fesselnde Intros, die Ihre Spieler sofort ins Abenteuer ziehen."
+description: " \"Ein Lebensretter für Spielleiter (GMs) mit Zeitmangel. Generieren Sie fesselnde Intros, die Ihre Spieler sofort ins Abenteuer ziehen.\""
 tags: ["TRPG", "D&D", "Szenario", "Spielleiter", "Geschichte"]
 ---
 

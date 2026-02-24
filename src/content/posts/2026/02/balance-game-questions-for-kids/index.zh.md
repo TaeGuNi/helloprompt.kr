@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "儿童平衡游戏问题：永无止境的对话"
+title: " \"儿童平衡游戏问题：永无止境的对话\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "打破与孩子间的沉默！专为小学生设计的趣味平衡游戏问题生成器，让孩子主动开口分享。"
+description: " \"打破与孩子间的沉默！专为小学生设计的趣味平衡游戏问题生成器，让孩子主动开口分享。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

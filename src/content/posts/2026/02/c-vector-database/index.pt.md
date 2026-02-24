@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "Um prompt para implementar e utilizar um banco de dados vetorial Header-only em C, ultraleve e sem dependências, ideal para ambientes de IA embarcada."
+title: " \"Header-only C Vector Database\""
+description: " \"Um prompt para implementar e utilizar um banco de dados vetorial Header-only em C, ultraleve e sem dependências, ideal para ambientes de IA embarcada.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

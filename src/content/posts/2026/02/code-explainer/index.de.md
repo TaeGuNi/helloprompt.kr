@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Was bedeutet dieser Code? Freundlicher Code-Erklärer"
+title: " \"Was bedeutet dieser Code? Freundlicher Code-Erklärer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"
-description: "Ein anfängerfreundlicher Prompt, der fremden, komplexen Code Zeile für Zeile mit verständlichen Kommentaren erklärt."
+description: " \"Ein anfängerfreundlicher Prompt, der fremden, komplexen Code Zeile für Zeile mit verständlichen Kommentaren erklärt.\""
 tags: ["Programmierstudium", "CodeReview", "Python", "JavaScript"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)"
+title: " \"Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Simula una tesa negoziazione salariale con un manager HR per affinare la logica e le tue argomentazioni, massimizzando l'aumento di stipendio."
+description: " \"Simula una tesa negoziazione salariale con un manager HR per affinare la logica e le tue argomentazioni, massimizzando l'aumento di stipendio.\""
 tags:
   [
     "NegoziazioneSalariale",

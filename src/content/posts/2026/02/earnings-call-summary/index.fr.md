@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Résumé de Conférence téléphonique sur les Résultats en 3 Minutes"
+title: " \"Résumé de Conférence téléphonique sur les Résultats en 3 Minutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Les conférences de résultats sont longues et complexes. L'IA en extrait l'essentiel en quelques secondes pour vos investissements."
+description: " \"Les conférences de résultats sont longues et complexes. L'IA en extrait l'essentiel en quelques secondes pour vos investissements.\""
 tags: ["Action", "ConférenceRésultats", "PublicationRésultats", "ActionUS"]
 ---
 

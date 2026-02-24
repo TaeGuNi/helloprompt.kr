@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "Ein Prompt zur Implementierung und Nutzung einer ultraleichten, abhängigkeitsfreien Header-only Vektordatenbank in C für eingebettete KI-Umgebungen."
+title: " \"Header-only C Vector Database\""
+description: " \"Ein Prompt zur Implementierung und Nutzung einer ultraleichten, abhängigkeitsfreien Header-only Vektordatenbank in C für eingebettete KI-Umgebungen.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

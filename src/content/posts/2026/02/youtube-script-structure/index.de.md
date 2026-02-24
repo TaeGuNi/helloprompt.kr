@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube-Skript-Strukturierungsgeheimnis für hohe Aufrufe"
+title: " \"YouTube-Skript-Strukturierungsgeheimnis für hohe Aufrufe\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Schreiben"
-description: "Ein Prompt, der ein YouTube-Videoskript strukturiert, um Absprünge in den ersten 5 Sekunden zu verhindern und die Zuschauer bis zum Ende zu fesseln."
+description: " \"Ein Prompt, der ein YouTube-Videoskript strukturiert, um Absprünge in den ersten 5 Sekunden zu verhindern und die Zuschauer bis zum Ende zu fesseln.\""
 tags: ["YouTube", "Skript", "Videoproduktion"]
 ---
 

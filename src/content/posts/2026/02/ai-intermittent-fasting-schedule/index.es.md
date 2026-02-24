@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Horario de Ayuno Intermitente con IA: Aumentando la Tasa de Éxito en un 200%"
+title: " \"Horario de Ayuno Intermitente con IA: Aumentando la Tasa de Éxito en un 200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Diseña un horario de ayuno intermitente adaptado a tu estilo de vida y descubre los mejores consejos generados por IA para superar los momentos de hambre."
+description: " \"Diseña un horario de ayuno intermitente adaptado a tu estilo de vida y descubre los mejores consejos generados por IA para superar los momentos de hambre.\""
 tags: ["Ayuno Intermitente", "Dieta", "Salud", "ChatGPT", "Rutina"]
 ---
 

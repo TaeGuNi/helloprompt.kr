@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Gestos e Saudações Amigáveis: Não Seja Mal Interpretado"
+title: " \"Guia de Gestos e Saudações Amigáveis: Não Seja Mal Interpretado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Evite conflitos por causa de gestos inocentes! Descubra quais sinais corporais causam mal-entendidos e aprenda as saudações locais que abrem portas."
+description: " \"Evite conflitos por causa de gestos inocentes! Descubra quais sinais corporais causam mal-entendidos e aprenda as saudações locais que abrem portas.\""
 tags: ["Saudações", "Linguagem Corporal", "Gestos", "Comunicação Cultural"]
 ---
 

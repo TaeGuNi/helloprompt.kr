@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minuten Tägliche mentale Pflege, KI Dankbarkeitstagebuch und Rückblick-Prompt"
+title: " \"5 Minuten Tägliche mentale Pflege, KI Dankbarkeitstagebuch und Rückblick-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Sitzen Sie nicht länger ratlos vor einem leeren Bildschirm. Erleben Sie, wie ein KI-gesteuertes Tagebuch durch gezielte Fragen zur inneren Heilung und Selbstreflexion beiträgt."
+description: " \"Sitzen Sie nicht länger ratlos vor einem leeren Bildschirm. Erleben Sie, wie ein KI-gesteuertes Tagebuch durch gezielte Fragen zur inneren Heilung und Selbstreflexion beiträgt.\""
 tags: ["Tagebuch", "Rückblick", "Dankbarkeitstagebuch", "Mentale Pflege"]
 ---
 

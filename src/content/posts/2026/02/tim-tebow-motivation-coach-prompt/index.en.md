@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 Unyielding Mentality Like Tim Tebow: Creating Your Own AI 'Motivational Coach'"
+title: " \"🏈 Unyielding Mentality Like Tim Tebow: Creating Your Own AI 'Motivational Coach'\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Self-Improvement"
-description: "Transplant the never-give-up mindset of Tim Tebow into an AI prompt, creating a dedicated coach that provides mental care whenever you feel exhausted."
+description: " \"Transplant the never-give-up mindset of Tim Tebow into an AI prompt, creating a dedicated coach that provides mental care whenever you feel exhausted.\""
 tags:
   [
     "tim tebow",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "독서 노트 자동화: 책 사진 찍으면 핵심 요약 + 내 생각 정리"
+title: " \"독서 노트 자동화: 책 사진 찍으면 핵심 요약 + 내 생각 정리\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/학습"
-description: "책을 덮는 순간 내용을 잊어버리시나요? AI OCR로 텍스트를 추출하고, 딥 다이브 토론을 통해 나만의 뼈대 있는 서평을 완성하는 완벽한 가이드."
+description: " \"책을 덮는 순간 내용을 잊어버리시나요? AI OCR로 텍스트를 추출하고, 딥 다이브 토론을 통해 나만의 뼈대 있는 서평을 완성하는 완벽한 가이드.\""
 tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 ---
 

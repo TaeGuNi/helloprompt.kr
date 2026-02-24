@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Saltare nella Storia: Simulatore di Eventi Storici"
+title: " \"Saltare nella Storia: Simulatore di Eventi Storici\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "E se fossi Napoleone a Waterloo? Un prompt per vivere la storia in prima persona, prendendo decisioni cruciali come in un'avventura testuale."
+description: " \"E se fossi Napoleone a Waterloo? Un prompt per vivere la storia in prima persona, prendendo decisioni cruciali come in un'avventura testuale.\""
 tags: ["StudioStoria", "Gamification", "Simulazione", "StoriaAlternativa"]
 ---
 

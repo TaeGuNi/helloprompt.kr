@@ -1,6 +1,6 @@
 ---
-title: "Galaxy S26: Monster Specs Meet AI"
-description: "Propulsé par l'Exynos 2600. L'évolution de Galaxy AI vue à travers des panneaux d'affichage 3D."
+title: " \"Galaxy S26: Monster Specs Meet AI\""
+description: " \"Propulsé par l'Exynos 2600. L'évolution de Galaxy AI vue à travers des panneaux d'affichage 3D.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conception de Feuille de Route de Carrière sur 5 Ans : De Maintenant au Niveau C"
+title: " \"Conception de Feuille de Route de Carrière sur 5 Ans : De Maintenant au Niveau C\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrière & Changement d'Emploi"
-description: "Transformez un avenir incertain en un plan d'action concret. Concevez vos objectifs sur 1, 3 et 5 ans ainsi que les compétences nécessaires pour les atteindre grâce à l'IA."
+description: " \"Transformez un avenir incertain en un plan d'action concret. Concevez vos objectifs sur 1, 3 et 5 ans ainsi que les compétences nécessaires pour les atteindre grâce à l'IA.\""
 tags:
   [
     "Parcours de Carrière",

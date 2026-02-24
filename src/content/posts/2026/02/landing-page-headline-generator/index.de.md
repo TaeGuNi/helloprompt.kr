@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Landingpage-Haupttext (Hero Copy) Generator"
+title: " \"Landingpage-Haupttext (Hero Copy) Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Wie Sie mit KI fesselnde Landingpage-Texte (Hero Copy) erstellen, die Besucher in unter 3 Sekunden überzeugen."
+description: " \"Wie Sie mit KI fesselnde Landingpage-Texte (Hero Copy) erstellen, die Besucher in unter 3 Sekunden überzeugen.\""
 tags: ["Landingpage", "Web-Copy", "UX-Writing", "Konversionsrate"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "用竞品分析框架掌控市场"
+title: " \"用竞品分析框架掌控市场\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "深度挖掘竞品的优势与劣势，精准寻找核心差异化标杆点。"
+description: " \"深度挖掘竞品的优势与劣势，精准寻找核心差异化标杆点。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

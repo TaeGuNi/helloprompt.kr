@@ -1,6 +1,6 @@
 ---
-title: "Arquitetura Micro-Frontend: Escalando o Desenvolvimento Frontend"
-description: "Um olhar aprofundado sobre como os micro-frontends estão mudando o desenvolvimento de aplicativos web em larga escala em 2026."
+title: " \"Arquitetura Micro-Frontend: Escalando o Desenvolvimento Frontend\""
+description: " \"Um olhar aprofundado sobre como os micro-frontends estão mudando o desenvolvimento de aplicativos web em larga escala em 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

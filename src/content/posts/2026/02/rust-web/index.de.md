@@ -1,7 +1,7 @@
 ---
-title: "웹 개발을 위한 Rust: 2026년의 관점"
+title: " \"웹 개발을 위한 Rust: 2026년의 관점\""
 date: 2026-02-13
-description: "Ein Blick auf das Rust-Backend-Ökosystem im Jahr 2026 und Prompts für hochperformante Architektur-Designs."
+description: " \"Ein Blick auf das Rust-Backend-Ökosystem im Jahr 2026 und Prompts für hochperformante Architektur-Designs.\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

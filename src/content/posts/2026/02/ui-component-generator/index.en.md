@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Frontend Component, Just Describe Design and Code is Done"
+title: " \"Frontend Component, Just Describe Design and Code is Done\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A prompt that instantly generates production-ready UI components using your preferred tech stack like React, Vue, or Tailwind CSS."
+description: " \"A prompt that instantly generates production-ready UI components using your preferred tech stack like React, Vue, or Tailwind CSS.\""
 tags: ["Frontend", "React", "Vue", "Tailwind", "UI Component"]
 ---
 

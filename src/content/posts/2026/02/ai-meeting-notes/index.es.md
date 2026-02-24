@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Spanish)"
-description: "Eficiencia frente a preocupaciones de privacidad en la gestión de minutas con IA."
+title: " \"Automated Meeting Notes (Spanish)\""
+description: " \"Eficiencia frente a preocupaciones de privacidad en la gestión de minutas con IA.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

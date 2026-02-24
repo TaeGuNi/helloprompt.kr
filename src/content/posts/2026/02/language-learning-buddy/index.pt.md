@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "나만의 AI 언어 튜터 만들기"
+title: " \"나만의 AI 언어 튜터 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Transforme qualquer IA no seu tutor particular de idiomas disponível 24/7 e acelere a sua fluência com correções em tempo real."
+description: " \"Transforme qualquer IA no seu tutor particular de idiomas disponível 24/7 e acelere a sua fluência com correções em tempo real.\""
 tags: ["태그1", "태그2"]
 ---
 

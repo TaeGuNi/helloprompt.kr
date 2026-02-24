@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analisi di Fattibilità Investimento: Excel Calcolo Automatico NPV e IRR"
+title: " \"Analisi di Fattibilità Investimento: Excel Calcolo Automatico NPV e IRR\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Conviene fare questo investimento? Calcola facilmente il Valore Attuale Netto (NPV) e il Tasso Interno di Rendimento (IRR), indicatori chiave per le decisioni di investimento, utilizzando Excel."
+description: " \"Conviene fare questo investimento? Calcola facilmente il Valore Attuale Netto (NPV) e il Tasso Interno di Rendimento (IRR), indicatori chiave per le decisioni di investimento, utilizzando Excel.\""
 tags: ["Excel", "AnalisiInvestimento", "NPV", "IRR"]
 ---
 

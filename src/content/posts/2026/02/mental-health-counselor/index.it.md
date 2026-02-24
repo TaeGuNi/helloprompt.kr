@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Il Mio Consulente Psicologico IA, Guida alla Cura Mentale per Alleviare lo Stress"
+title: " \"Il Mio Consulente Psicologico IA, Guida alla Cura Mentale per Alleviare lo Stress\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Preoccupazioni che non puoi dire a nessuno, confessa all'IA e trova pace mentale."
+description: " \"Preoccupazioni che non puoi dire a nessuno, confessa all'IA e trova pace mentale.\""
 tags: ["Cura Mentale", "Stress", "Consulenza Psicologica", "Guarigione"]
 ---
 

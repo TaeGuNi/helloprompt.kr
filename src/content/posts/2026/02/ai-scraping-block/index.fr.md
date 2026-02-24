@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (French)"
-description: "La pénurie de données devient une réalité à mesure que les éditeurs verrouillent leurs archives."
+title: " \"Publishers Block AI Scraping (French)\""
+description: " \"La pénurie de données devient une réalité à mesure que les éditeurs verrouillent leurs archives.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

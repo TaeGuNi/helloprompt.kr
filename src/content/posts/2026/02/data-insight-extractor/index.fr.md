@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Extraire des Insights de Données Brutes"
+title: " \"Extraire des Insights de Données Brutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Confiez vos données Excel à l'IA pour qu'elle les analyse en profondeur et en dégage des insights stratégiques."
+description: " \"Confiez vos données Excel à l'IA pour qu'elle les analyse en profondeur et en dégage des insights stratégiques.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

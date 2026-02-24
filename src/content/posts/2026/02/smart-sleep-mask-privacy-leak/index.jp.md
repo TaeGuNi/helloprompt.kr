@@ -1,6 +1,6 @@
 ---
-title: "Smart Sleep Masks Broadcasting Brainwaves (Japanese)"
-description: "2026年、IoTのプライバシーは依然として重大な脆弱性です。生体データの漏洩は、新たなパスワード漏洩を意味します。"
+title: " \"Smart Sleep Masks Broadcasting Brainwaves (Japanese)\""
+description: " \"2026年、IoTのプライバシーは依然として重大な脆弱性です。生体データの漏洩は、新たなパスワード漏洩を意味します。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]

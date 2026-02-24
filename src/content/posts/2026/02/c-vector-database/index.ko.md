@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "의존성 없는 초경량 임베디드 AI 환경을 위한 C 언어 기반 헤더 전용(Header-only) 벡터 데이터베이스 구현 및 활용 프롬프트입니다."
+title: " \"Header-only C Vector Database\""
+description: " \"의존성 없는 초경량 임베디드 AI 환경을 위한 C 언어 기반 헤더 전용(Header-only) 벡터 데이터베이스 구현 및 활용 프롬프트입니다.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Documentazione API Fastidiosa, Swagger Spunta Fuori con Solo Codice"
+title: " \"Documentazione API Fastidiosa, Swagger Spunta Fuori con Solo Codice\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt che converte automaticamente il codice API in specifiche OpenAPI (Swagger) o documentazione Markdown semplicemente incollandolo."
+description: " \"Un prompt che converte automaticamente il codice API in specifiche OpenAPI (Swagger) o documentazione Markdown semplicemente incollandolo.\""
 tags: ["API", "Documentazione", "Swagger", "OpenAPI", "Backend"]
 ---
 

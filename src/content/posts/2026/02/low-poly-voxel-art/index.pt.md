@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charme Angular Estilo 'Low Poly & Voxel Art'"
+title: " \"Charme Angular Estilo 'Low Poly & Voxel Art'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Crie designs incríveis utilizando prompts de arte Low Poly e Voxel, com formas geométricas e estética minimalista 3D."
+description: " \"Crie designs incríveis utilizando prompts de arte Low Poly e Voxel, com formas geométricas e estética minimalista 3D.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Estilo de Arte"]
 ---
 

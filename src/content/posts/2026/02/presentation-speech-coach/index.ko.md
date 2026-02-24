@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너"
+title: " \"발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/커뮤니케이션"
-description: "발표만 하면 염소 목소리가 되는 당신을 위한 맞춤 솔루션. AI를 활용한 대본 교정부터 압박 질문 방어까지 완벽 리허설 가이드."
+description: " \"발표만 하면 염소 목소리가 되는 당신을 위한 맞춤 솔루션. AI를 활용한 대본 교정부터 압박 질문 방어까지 완벽 리허설 가이드.\""
 tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 ---
 

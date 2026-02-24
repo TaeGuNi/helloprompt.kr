@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "代替昂贵的电话英语，24 小时待命的 AI 母语者"
+title: " \"代替昂贵的电话英语，24 小时待命的 AI 母语者\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "生活"
-description: "设定特定情境与难度，随时与 AI 进行实战外语对话练习的角色扮演提示词。"
+description: " \"设定特定情境与难度，随时与 AI 进行实战外语对话练习的角色扮演提示词。\""
 tags: ["英语会话", "外语学习", "角色扮演"]
 ---
 

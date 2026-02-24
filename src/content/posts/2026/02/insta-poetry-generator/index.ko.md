@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "쇼츠/릴스용 짧은 시(Insta Poetry) 생성기"
+title: " \"쇼츠/릴스용 짧은 시(Insta Poetry) 생성기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "창작 및 취미"
-description: "스크롤을 멈추게 하는 3줄의 마법. SNS에서 폭발적인 공감을 얻는 짧고 감성적인 시를 10초 만에 창작해 보세요."
+description: " \"스크롤을 멈추게 하는 3줄의 마법. SNS에서 폭발적인 공감을 얻는 짧고 감성적인 시를 10초 만에 창작해 보세요.\""
 tags: ["인스타그램", "시", "감성글", "SNS", "콘텐츠"]
 ---
 

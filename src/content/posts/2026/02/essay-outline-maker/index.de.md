@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flucht vor der Leeren-Bildschirm-Phobie: Essay-Gliederungs-Architekt"
+title: " \"Flucht vor der Leeren-Bildschirm-Phobie: Essay-Gliederungs-Architekt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lernmethode/Selbstentwicklung"
-description: "Ein Prompt, der bei Schreibblockaden eine logische Struktur (Einleitung-Hauptteil-Schluss) entwirft und Kernideen für jeden Absatz liefert."
+description: " \"Ein Prompt, der bei Schreibblockaden eine logische Struktur (Einleitung-Hauptteil-Schluss) entwirft und Kernideen für jeden Absatz liefert.\""
 tags: ["Schreiben", "Essay", "Bericht", "Aufgabe"]
 ---
 

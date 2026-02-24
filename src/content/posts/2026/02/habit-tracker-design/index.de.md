@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kein Aufgeben mehr! KI-Gewohnheitsbildungs-Tracker-Design"
+title: " \"Kein Aufgeben mehr! KI-Gewohnheitsbildungs-Tracker-Design\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Verlassen Sie sich nicht nur auf Willenskraft. Erschaffen Sie mit KI ein unfehlbares System zur Gewohnheitsbildung basierend auf Prinzipien der Verhaltenspsychologie."
+description: " \"Verlassen Sie sich nicht nur auf Willenskraft. Erschaffen Sie mit KI ein unfehlbares System zur Gewohnheitsbildung basierend auf Prinzipien der Verhaltenspsychologie.\""
 tags: ["Gewohnheit", "Routine", "GodLife", "Selbstentwicklung"]
 ---
 

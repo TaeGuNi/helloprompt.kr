@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bellezza dell'Equilibrio Perfetto 'Composizione Simmetrica'"
+title: " \"Bellezza dell'Equilibrio Perfetto 'Composizione Simmetrica'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Scopri il prompt per creare composizioni stabili ed eccentriche, dove destra e sinistra sono perfettamente simmetriche come in un film di Wes Anderson."
+description: " \"Scopri il prompt per creare composizioni stabili ed eccentriche, dove destra e sinistra sono perfettamente simmetriche come in un film di Wes Anderson.\""
 tags:
   [
     "Midjourney",

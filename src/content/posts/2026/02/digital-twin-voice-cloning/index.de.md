@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기"
+title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
-description: "So erstellen Sie einen 'KI-Klon', der Blogposts schreibt und Instagram-Kommentare in Ihrem exakten Schreibstil verfasst. Wir enthüllen den ultimativen Prompt zur Stil-Analyse."
+description: " \"So erstellen Sie einen 'KI-Klon', der Blogposts schreibt und Instagram-Kommentare in Ihrem exakten Schreibstil verfasst. Wir enthüllen den ultimativen Prompt zur Stil-Analyse.\""
 tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 ---
 

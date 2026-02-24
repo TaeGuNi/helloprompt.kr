@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel 财务仪表板：告别枯燥数字，用图表完美汇报"
+title: " \"Excel 财务仪表板：告别枯燥数字，用图表完美汇报\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "告别密密麻麻的 Excel 数据表格！利用迷你图与条件格式，快速打造让老板眼前一亮的专业可视化财务仪表板。"
+description: " \"告别密密麻麻的 Excel 数据表格！利用迷你图与条件格式，快速打造让老板眼前一亮的专业可视化财务仪表板。\""
 tags: ["Excel", "仪表板", "可视化", "报告书"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Construindo um Índice de Relatório Que os Chefes Gostam"
+title: " \"Construindo um Índice de Relatório Que os Chefes Gostam\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Prompt infalível para criar a estrutura e o fluxo lógico (Logic Flow) perfeito de um relatório corporativo."
+description: " \"Prompt infalível para criar a estrutura e o fluxo lógico (Logic Flow) perfeito de um relatório corporativo.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

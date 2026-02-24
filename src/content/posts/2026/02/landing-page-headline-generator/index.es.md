@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Copia Principal de Página de Aterrizaje (Hero Copy)"
+title: " \"Generador de Copia Principal de Página de Aterrizaje (Hero Copy)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Cómo escribir el texto principal de una landing page (Sección Hero) que cautive a tus visitantes en solo 3 segundos."
+description: " \"Cómo escribir el texto principal de una landing page (Sección Hero) que cautive a tus visitantes en solo 3 segundos.\""
 tags:
   ["Página de Aterrizaje", "Copia Web", "Escritura UX", "Tasa de Conversión"]
 ---

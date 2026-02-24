@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "Усталость от ИИ: как справиться с информационным шумом и отличить ценный контент от сгенерированной воды."
+title: " \"AI Fatigue (Summary)\""
+description: " \"Усталость от ИИ: как справиться с информационным шумом и отличить ценный контент от сгенерированной воды.\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

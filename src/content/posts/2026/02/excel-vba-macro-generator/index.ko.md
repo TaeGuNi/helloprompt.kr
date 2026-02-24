@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "반복되는 엑셀 노가다, 매크로(VBA)로 자동화하기"
+title: " \"반복되는 엑셀 노가다, 매크로(VBA)로 자동화하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.139Z"
 updatedDate: "2026-02-07T09:10:33.140Z"
 category: "업무 자동화"
-description: "코딩을 전혀 몰라도 괜찮습니다. AI에게 상황만 설명하고 엑셀 반복 업무를 1초 만에 끝내는 VBA 매크로 코드를 받아보세요."
+description: " \"코딩을 전혀 몰라도 괜찮습니다. AI에게 상황만 설명하고 엑셀 반복 업무를 1초 만에 끝내는 VBA 매크로 코드를 받아보세요.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

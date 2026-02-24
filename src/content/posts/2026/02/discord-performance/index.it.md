@@ -1,6 +1,6 @@
 ---
-title: "Discord: 성능 최적화 사례 연구"
-description: "Un'analisi approfondita del percorso di ottimizzazione ingegneristica di Discord per gestire trilioni di messaggi e supportare milioni di utenti simultanei."
+title: " \"Discord: 성능 최적화 사례 연구\""
+description: " \"Un'analisi approfondita del percorso di ottimizzazione ingegneristica di Discord per gestire trilioni di messaggi e supportare milioni di utenti simultanei.\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

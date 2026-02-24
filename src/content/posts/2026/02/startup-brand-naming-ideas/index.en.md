@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Startup/Brand Naming: Making Memorable Names"
+title: " \"Startup/Brand Naming: Making Memorable Names\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A brand's name can determine its fate! Discover catchy, meaningful, and unforgettable naming ideas using AI."
+description: " \"A brand's name can determine its fate! Discover catchy, meaningful, and unforgettable naming ideas using AI.\""
 tags: ["Naming", "Branding", "Startup", "Marketing", "Idea"]
 ---
 

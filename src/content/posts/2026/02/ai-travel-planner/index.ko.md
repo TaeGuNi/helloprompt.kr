@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "여행 계획 자동화: MBTI 'P'형을 위한 1분 무계획 여행 가이드"
+title: " \"여행 계획 자동화: MBTI 'P'형을 위한 1분 무계획 여행 가이드\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "여행/라이프"
-description: "비행기 표만 끊어놓고 아무것도 안 한 당신. AI가 동선, 맛집, 휴식까지 고려한 완벽한 일정표를 짜드립니다."
+description: " \"비행기 표만 끊어놓고 아무것도 안 한 당신. AI가 동선, 맛집, 휴식까지 고려한 완벽한 일정표를 짜드립니다.\""
 tags: ["여행계획", "해외여행", "J형", "트립어드바이저", "ChatGPT"]
 ---
 

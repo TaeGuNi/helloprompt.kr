@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Subtítulos de Instagram Que Llama a los Me Gusta"
+title: " \"Generador de Subtítulos de Instagram Que Llama a los Me Gusta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Genera automáticamente copys llenos de emoción y hashtags optimizados cuando tienes la foto perfecta pero te quedas en blanco."
+description: " \"Genera automáticamente copys llenos de emoción y hashtags optimizados cuando tienes la foto perfecta pero te quedas en blanco.\""
 tags: ["Instagram", "Marketing SNS", "Redacción Publicitaria", "Redes Sociales"]
 ---
 

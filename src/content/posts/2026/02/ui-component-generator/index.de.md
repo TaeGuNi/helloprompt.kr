@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Frontend-Komponente, einfach Design beschreiben und Code ist fertig"
+title: " \"Frontend-Komponente, einfach Design beschreiben und Code ist fertig\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, mit dem sich UI-Komponenten für Tech-Stacks wie React, Vue und Tailwind CSS durch einfache Textbeschreibungen in Sekundenschnelle generieren lassen."
+description: " \"Ein Prompt, mit dem sich UI-Komponenten für Tech-Stacks wie React, Vue und Tailwind CSS durch einfache Textbeschreibungen in Sekundenschnelle generieren lassen.\""
 tags: ["Frontend", "React", "Vue", "Tailwind", "UI-Komponente"]
 ---
 

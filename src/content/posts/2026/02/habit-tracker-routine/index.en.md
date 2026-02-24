@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)"
+title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/생산성"
-description: "Weak willpower is a matter of science. An AI routine design method applying neuroscience theories (Atomic Habits)."
+description: " \"Weak willpower is a matter of science. An AI routine design method applying neuroscience theories (Atomic Habits).\""
 tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
 ---
 

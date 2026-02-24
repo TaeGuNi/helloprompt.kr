@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Log de Erro Desconhecido, Analise a Causa em 10 Segundos"
+title: " \"Log de Erro Desconhecido, Analise a Causa em 10 Segundos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Um prompt auxiliar de depuração que encontra a causa raiz em milhares de linhas de logs de erro e propõe soluções."
+description: " \"Um prompt auxiliar de depuração que encontra a causa raiz em milhares de linhas de logs de erro e propõe soluções.\""
 tags: ["Depuração", "Log de Erro", "Solução de Problemas"]
 ---
 

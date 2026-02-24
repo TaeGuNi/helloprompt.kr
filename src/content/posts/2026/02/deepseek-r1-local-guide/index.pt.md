@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instalação Local do DeepSeek R1: Seu Escravo de Código Gratuito no PC"
+title: " \"Instalação Local do DeepSeek R1: Seu Escravo de Código Gratuito no PC\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Dev & Coding"
-description: "Como instalar o DeepSeek R1 localmente com Ollama e ter um assistente de codificação ilimitado e gratuito. Sem vazamento de dados, 100% privado."
+description: " \"Como instalar o DeepSeek R1 localmente com Ollama e ter um assistente de codificação ilimitado e gratuito. Sem vazamento de dados, 100% privado.\""
 tags: ["DeepSeek", "Ollama", "Local LLM", "Codificação", "Produtividade"]
 ---
 

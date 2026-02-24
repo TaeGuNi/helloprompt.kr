@@ -3,14 +3,14 @@ categories:
   - AI News
   - Technology
 date: "2026-02-13"
-description: Von KI-Agenten verfasste Artikel sorgen für Kontroversen. Wir untersuchen die journalistische Ethik und bieten einen Prompt, der die Einhaltung von Richtlinien in der automatisierten Nachrichtenerstellung sichert.
+description: "Von KI-Agenten verfasste Artikel sorgen für Kontroversen. Wir untersuchen die journalistische Ethik und bieten einen Prompt, der die Einhaltung von Richtlinien in der automatisierten Nachrichtenerstellung sichert."
 image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics
   - Journalism
   - AI Agents
-title: "KI-Agenten und Journalismus-Ethik: Eine neue Debatte"
+title: " \"KI-Agenten und Journalismus-Ethik: Eine neue Debatte\""
 ---
 
 # 📝 KI-Agenten und Journalismus-Ethik: Der Ethik-Wächter Prompt

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "服务器管理之神，Shell 脚本 (Shell Script) 自动生成器"
+title: " \"服务器管理之神，Shell 脚本 (Shell Script) 自动生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "再也不用死记硬背复杂的 Linux 命令了。只需描述你的需求，AI 就能为你生成安全且强大的 Bash 自动化脚本。"
+description: " \"再也不用死记硬背复杂的 Linux 命令了。只需描述你的需求，AI 就能为你生成安全且强大的 Bash 自动化脚本。\""
 tags: ["Linux", "Shell脚本", "DevOps", "自动化", "Bash"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (German)"
-description: "Frühe Experimente mit Quantenprozessoren beschleunigen spezifische KI-Trainingsaufgaben. Lernen Sie, hybride Pipelines zu entwerfen."
+title: " \"Quantum AI Hybrids (German)\""
+description: " \"Frühe Experimente mit Quantenprozessoren beschleunigen spezifische KI-Trainingsaufgaben. Lernen Sie, hybride Pipelines zu entwerfen.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

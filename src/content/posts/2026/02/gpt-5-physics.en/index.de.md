@@ -1,6 +1,6 @@
 ---
-title: "GPT-5.2's Physics Breakthrough: A New Era for Scientific Discovery"
-description: "Eine Analyse, wie OpenAIs GPT-5.2 ein neues Ergebnis in der theoretischen Physik ableitete und damit einen Wendepunkt für KI in der Wissenschaft markiert."
+title: " \"GPT-5.2's Physics Breakthrough: A New Era for Scientific Discovery\""
+description: " \"Eine Analyse, wie OpenAIs GPT-5.2 ein neues Ergebnis in der theoretischen Physik ableitete und damit einen Wendepunkt für KI in der Wissenschaft markiert.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (Spanish)"
-description: "Los primeros experimentos con procesadores cuánticos están acelerando tareas específicas de entrenamiento de IA."
+title: " \"Quantum AI Hybrids (Spanish)\""
+description: " \"Los primeros experimentos con procesadores cuánticos están acelerando tareas específicas de entrenamiento de IA.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

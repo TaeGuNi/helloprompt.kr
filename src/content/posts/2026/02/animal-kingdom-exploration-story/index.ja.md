@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "動物王国探検：自然と友達になる物語"
+title: " \"動物王国探検：自然と友達になる物語\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "生態知識と想像力を同時に育む動物たちの冒険"
+description: " \"生態知識と想像力を同時に育む動物たちの冒険\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

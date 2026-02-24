@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5分钟正念冥想脚本：从压力到平静"
+title: " \"5分钟正念冥想脚本：从压力到平静\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "无需为冥想App付费。让AI为您量身定制最适合当前情境与情绪的专属冥想引导词。"
+description: " \"无需为冥想App付费。让AI为您量身定制最适合当前情境与情绪的专属冥想引导词。\""
 tags: ["冥想", "正念", "治愈", "压力", "TTS"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "映画のような雰囲気を作る「Cinematic Lighting」プロンプト"
+title: " \"映画のような雰囲気を作る「Cinematic Lighting」プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "平凡で平坦な画像を、ハリウッド映画のワンシーンのように劇的に変える照明プロンプトの秘訣を公開します。"
+description: " \"平凡で平坦な画像を、ハリウッド映画のワンシーンのように劇的に変える照明プロンプトの秘訣を公開します。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 ---
 

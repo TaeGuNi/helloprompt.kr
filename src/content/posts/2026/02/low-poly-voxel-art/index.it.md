@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fascino Angolare Stile 'Low Poly & Voxel Art'"
+title: " \"Fascino Angolare Stile 'Low Poly & Voxel Art'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt arte Low Poly fatto di poligoni semplificati come origami o Minecraft."
+description: " \"Prompt arte Low Poly fatto di poligoni semplificati come origami o Minecraft.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Stile Artistico"]
 ---
 

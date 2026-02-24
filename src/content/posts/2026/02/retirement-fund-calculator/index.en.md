@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Retirement Fund Calculator: What is My Retirement Prep Score?"
+title: " \"Retirement Fund Calculator: What is My Retirement Prep Score?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Eliminate the vague fear of aging. Accurately calculate your necessary retirement funds and the exact amount you need to save monthly."
+description: " \"Eliminate the vague fear of aging. Accurately calculate your necessary retirement funds and the exact amount you need to save monthly.\""
 tags: ["Retirement", "OldAgePrep", "Pension", "FinancialPlanning"]
 ---
 

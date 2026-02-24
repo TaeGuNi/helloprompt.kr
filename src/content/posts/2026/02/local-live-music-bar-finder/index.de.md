@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finder für lokale Live-Musik-Bars: Hipster-Locations entdecken"
+title: " \"Finder für lokale Live-Musik-Bars: Hipster-Locations entdecken\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Schluss mit langweiliger Hintergrundmusik in Touristen-Restaurants. Erlebe eine musikalische Reise und spüre die echte Energie lokaler Musiker."
+description: " \"Schluss mit langweiliger Hintergrundmusik in Touristen-Restaurants. Erlebe eine musikalische Reise und spüre die echte Energie lokaler Musiker.\""
 tags: ["Musikreise", "Jazzbar", "Live-Club", "Lokale Kultur", "Nachtleben"]
 ---
 

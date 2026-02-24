@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "엣지에서의 쿠버네티스: 분산 클러스터 관리 (2026)"
+title: " \"엣지에서의 쿠버네티스: 분산 클러스터 관리 (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026년 엣지 컴퓨팅 환경에서 수천 개의 분산 쿠버네티스 클러스터를 효율적으로 관리하기 위한 기술적 과제와 해결책, 그리고 K3s와 GitOps의 진화를 다룹니다."
+description: " \"2026년 엣지 컴퓨팅 환경에서 수천 개의 분산 쿠버네티스 클러스터를 효율적으로 관리하기 위한 기술적 과제와 해결책, 그리고 K3s와 GitOps의 진화를 다룹니다.\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

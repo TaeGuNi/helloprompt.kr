@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Routine de Réveil Matinal Sans Douleur : Opération Réveil"
+title: " \"Routine de Réveil Matinal Sans Douleur : Opération Réveil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Vous réveillez-vous comme un zombie chaque matin en criant 'encore 5 minutes' ? Une routine matinale miracle conçue par l'IA."
+description: " \"Vous réveillez-vous comme un zombie chaque matin en criant 'encore 5 minutes' ? Une routine matinale miracle conçue par l'IA.\""
 tags: ["Réveil", "Miracle Morning", "Habitude", "Sommeil", "ChatGPT"]
 ---
 

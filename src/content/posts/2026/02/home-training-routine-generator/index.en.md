@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Home Training Routine Generator for Getting Fit Without Going to Gym"
+title: " \"AI Home Training Routine Generator for Getting Fit Without Going to Gym\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Design the optimal home workout routine tailored to your fitness level and available equipment."
+description: " \"Design the optimal home workout routine tailored to your fitness level and available equipment.\""
 tags: ["Home Training", "Exercise", "Fitness", "Routine"]
 ---
 

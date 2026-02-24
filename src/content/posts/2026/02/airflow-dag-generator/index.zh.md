@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "데이터 파이프라인(ETL): Airflow DAG 작성 자동화"
+title: " \"데이터 파이프라인(ETL): Airflow DAG 작성 자동화\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "告别为复杂的 ETL 数据管道熬夜写代码！为您揭秘能在一分钟内自动生成 Airflow DAG 代码的 AI 提示词。"
+description: " \"告别为复杂的 ETL 数据管道熬夜写代码！为您揭秘能在一分钟内自动生成 Airflow DAG 代码的 AI 提示词。\""
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 ---
 

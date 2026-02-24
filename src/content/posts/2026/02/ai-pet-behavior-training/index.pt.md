@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Meu Cachorro Mudou: Especialista em Comportamento de IA"
+title: " \"Meu Cachorro Mudou: Especialista em Comportamento de IA\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Pets"
-description: "Ansiedade de separação, latidos, xixi no lugar errado... Obtenha um plano de treinamento personalizado da IA em vez de um adestrador caro."
+description: " \"Ansiedade de separação, latidos, xixi no lugar errado... Obtenha um plano de treinamento personalizado da IA em vez de um adestrador caro.\""
 tags: ["Pets", "Adestramento Canino", "Gatos", "Paternidade Pet"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney v7 Practice: 'Blog Thumbnail' Formula for Non-Designers"
+title: " \"Midjourney v7 Practice: 'Blog Thumbnail' Formula for Non-Designers\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "AI Art/Design"
-description: "No designer needed. Use this Midjourney thumbnail prompt cheat code to boost your CTR by 200%."
+description: " \"No designer needed. Use this Midjourney thumbnail prompt cheat code to boost your CTR by 200%.\""
 tags: ["Midjourney", "Design", "Thumbnail", "Blog", "AIArt"]
 ---
 

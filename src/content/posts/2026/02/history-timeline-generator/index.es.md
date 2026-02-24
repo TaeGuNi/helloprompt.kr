@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flujo de un Vistazo: Generador de Línea de Tiempo Histórica"
+title: " \"Flujo de un Vistazo: Generador de Línea de Tiempo Histórica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/Historia"
-description: "Un prompt que organiza cronológicamente y establece las relaciones causales de eventos históricos complejos en una línea de tiempo clara."
+description: " \"Un prompt que organiza cronológicamente y establece las relaciones causales de eventos históricos complejos en una línea de tiempo clara.\""
 tags: ["ResumenHistoria", "Cronología", "LíneaDeTiempo", "Resumen"]
 ---
 

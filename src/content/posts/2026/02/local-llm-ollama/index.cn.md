@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (Simplified Chinese)"
-description: "人人可用的本地大语言模型部署指南：保护隐私，随时随地运行你的专属 AI。"
+title: " \"Local LLMs Guide (Simplified Chinese)\""
+description: " \"人人可用的本地大语言模型部署指南：保护隐私，随时随地运行你的专属 AI。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

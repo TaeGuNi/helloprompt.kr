@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Makronährstoff-Rechner: Einfach ein Foto machen"
+title: " \"KI-Makronährstoff-Rechner: Einfach ein Foto machen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Schluss mit dem mühsamen Eintippen von Kalorien! So berechnen Sie Ihre Makronährstoffe (Kohlenhydrate, Proteine, Fette) präzise, indem Sie der KI einfach ein Foto oder eine kurze Beschreibung geben."
+description: " \"Schluss mit dem mühsamen Eintippen von Kalorien! So berechnen Sie Ihre Makronährstoffe (Kohlenhydrate, Proteine, Fette) präzise, indem Sie der KI einfach ein Foto oder eine kurze Beschreibung geben.\""
 tags: ["Makro", "Nährstoff", "Diät", "ChatGPT", "Mahlzeitenprotokoll"]
 ---
 

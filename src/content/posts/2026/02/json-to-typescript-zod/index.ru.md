@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Просто бросьте JSON, и определение типа TypeScript появится! (feat. Zod)"
+title: " \"Просто бросьте JSON, и определение типа TypeScript появится! (feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Кодинг/Разработка"
-description: "Промпт, который автоматически преобразует сложные данные JSON в интерфейсы TypeScript и схемы Zod для надежной валидации."
+description: " \"Промпт, который автоматически преобразует сложные данные JSON в интерфейсы TypeScript и схемы Zod для надежной валидации.\""
 tags: ["TypeScript", "Zod", "JSON", "Определение типа", "Продуктивность"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jより几帳面なAI超個人化旅行日程プランナー"
+title: " \"Jより几帳面なAI超個人化旅行日程プランナー\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "好み、動線、体力まで考慮した完璧な旅行計画表を1分で受け取ってみてください。"
+description: " \"好み、動線、体力まで考慮した完璧な旅行計画表を1分で受け取ってみてください。\""
 tags: ["旅行", "日程", "プランナー", "海外旅行"]
 ---
 

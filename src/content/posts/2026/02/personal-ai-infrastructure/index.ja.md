@@ -1,8 +1,8 @@
 ---
-title: "パーソナルAIインフラの構築：自分のAIスタックを所有すべき理由"
+title: " \"パーソナルAIインフラの構築：自分のAIスタックを所有すべき理由\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "SaaSへの依存から脱却し、データプライバシーとカスタマイズの自由を手に入れるための最適なパーソナルAIインフラ構築プロンプトを紹介します。"
+description: " \"SaaSへの依存から脱却し、データプライバシーとカスタマイズの自由を手に入れるための最適なパーソナルAIインフラ構築プロンプトを紹介します。\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

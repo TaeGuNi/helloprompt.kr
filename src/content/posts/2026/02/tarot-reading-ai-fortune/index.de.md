@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tarotkarten-Lesung: Heutiges Schicksal KI sagt voraus"
+title: " \"Tarotkarten-Lesung: Heutiges Schicksal KI sagt voraus\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Haben Sie eine Sorge? Ein KI-Tarot-Meister zieht die Karten und deutet Ihre Zukunft."
+description: " \"Haben Sie eine Sorge? Ein KI-Tarot-Meister zieht die Karten und deutet Ihre Zukunft.\""
 tags: ["Tarot", "Schicksal", "Wahrsagerei", "Beratung", "Zeitvertreib"]
 ---
 

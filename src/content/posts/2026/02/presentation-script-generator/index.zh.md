@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "克服发表恐惧症！制定演示文稿脚本"
+title: " \"克服发表恐惧症！制定演示文稿脚本\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "为每一页 PPT 幻灯片生成自然流畅的演讲稿，助您轻松克服登台恐惧。"
+description: " \"为每一页 PPT 幻灯片生成自然流畅的演讲稿，助您轻松克服登台恐惧。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

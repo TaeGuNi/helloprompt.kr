@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유"
-description: "La búsqueda vectorial se limita a encontrar similitudes entre palabras. Descubre esta guía completa de prompts para construir tu propio Grafo de Conocimiento (GraphRAG) con Neo4j y LangChain, y conecta los insights ocultos en tus notas de Obsidian."
+title: " \"GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유\""
+description: " \"La búsqueda vectorial se limita a encontrar similitudes entre palabras. Descubre esta guía completa de prompts para construir tu propio Grafo de Conocimiento (GraphRAG) con Neo4j y LangChain, y conecta los insights ocultos en tus notas de Obsidian.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

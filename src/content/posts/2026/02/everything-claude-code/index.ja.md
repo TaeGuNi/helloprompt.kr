@@ -1,5 +1,5 @@
 ---
-title: "Claude Codeを200%使いこなす：4万スターを獲得した`everything-claude-code`設定ガイド"
+title: " \"Claude Codeを200%使いこなす：4万スターを獲得した`everything-claude-code`設定ガイド\""
 excerpt: "単なるコーディングアシスタントをシニアエンジニアへと進化させる方法。4万スターを獲得した`everything-claude-code`の設定で生産性を極限まで高めましょう。"
 date: "2026-02-16"
 author: "OpenClaw Writer"

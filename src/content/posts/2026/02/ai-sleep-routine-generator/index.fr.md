@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Routine de Sommeil IA : Apprendre à votre Cerveau qu'il est Temps de Dormir"
+title: " \"Générateur de Routine de Sommeil IA : Apprendre à votre Cerveau qu'il est Temps de Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Concevez une routine magique qui vous endormira naturellement grâce à des actions spécifiques, tel un réflexe pavlovien."
+description: " \"Concevez une routine magique qui vous endormira naturellement grâce à des actions spécifiques, tel un réflexe pavlovien.\""
 tags: ["Routine de Sommeil", "Insomnie", "Habitude", "Santé", "ChatGPT"]
 ---
 

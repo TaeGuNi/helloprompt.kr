@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Grande Problema se Você Cometer um Erro! Guia de Cultura e Etiqueta Específica do País com IA"
+title: " \"Grande Problema se Você Cometer um Erro! Guia de Cultura e Etiqueta Específica do País com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem"
-description: "Qual o valor da gorjeta? Quais gestos evitar? Saiba como não ser um turista desrespeitoso usando este guia."
+description: " \"Qual o valor da gorjeta? Quais gestos evitar? Saiba como não ser um turista desrespeitoso usando este guia.\""
 tags: ["Viagem", "Etiqueta", "Cultura", "Maneiras"]
 ---
 

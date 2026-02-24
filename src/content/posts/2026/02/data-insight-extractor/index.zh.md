@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "从原始数据中提取洞察"
+title: " \"从原始数据中提取洞察\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "让 AI 帮你分析满屏数字的 Excel 数据，快速提取核心商业洞察与异常点。"
+description: " \"让 AI 帮你分析满屏数字的 Excel 数据，快速提取核心商业洞察与异常点。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

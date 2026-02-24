@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Can I Be an Author Too? Planning a Selling Book Table of Contents"
+title: " \"Can I Be an Author Too? Planning a Selling Book Table of Contents\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Writing"
-description: "A comprehensive book planning and table of contents prompt designed to turn your vague publishing dreams into a tangible reality."
+description: " \"A comprehensive book planning and table of contents prompt designed to turn your vague publishing dreams into a tangible reality.\""
 tags: ["Book Writing", "Publishing Planning", "E-book"]
 ---
 

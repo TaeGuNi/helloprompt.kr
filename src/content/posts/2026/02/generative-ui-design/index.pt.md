@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: "A era dos menus e botões fixos acabou. Conheça o conceito e os prompts de design da 'Generative UI', que desenha telas em tempo real compreendendo a intenção do usuário."
+description: " \"A era dos menus e botões fixos acabou. Conheça o conceito e os prompts de design da 'Generative UI', que desenha telas em tempo real compreendendo a intenção do usuário.\""
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Adaptive Design
   - No-UI
   - UX Trends
-title: "Generative UI: O Futuro das Interfaces Sem Cliques"
+title: " \"Generative UI: O Futuro das Interfaces Sem Cliques\""
 ---
 
 # 🎨 Generative UI: O Futuro das Interfaces Sem Cliques

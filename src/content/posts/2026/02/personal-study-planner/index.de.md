@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Verhinderung des Drei-Tage-Vorsatzes: KI 1:1 Lernmanager"
+title: " \"Verhinderung des Drei-Tage-Vorsatzes: KI 1:1 Lernmanager\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lernmethode/Selbstentwicklung"
-description: "Ein Prompt, der einen realistischen Lernplan erstellt und als strenger KI-Coach für die nötige Motivation sorgt."
+description: " \"Ein Prompt, der einen realistischen Lernplan erstellt und als strenger KI-Coach für die nötige Motivation sorgt.\""
 tags: ["Lernplan", "Planer", "Motivation", "Zeitmanagement"]
 ---
 

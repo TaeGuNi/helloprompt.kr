@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de PNJ Instantané : Créer des Personnages Vivants"
+title: " \"Générateur de PNJ Instantané : Créer des Personnages Vivants\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Ne paniquez plus si vos joueurs s'adressent soudainement à un inconnu. Créez un PNJ avec une personnalité, un ton et un secret en seulement 10 secondes."
+description: " \"Ne paniquez plus si vos joueurs s'adressent soudainement à un inconnu. Créez un PNJ avec une personnalité, un ton et un secret en seulement 10 secondes.\""
 tags: ["JDR", "PNJ", "Personnage", "Roman", "Réglage"]
 ---
 

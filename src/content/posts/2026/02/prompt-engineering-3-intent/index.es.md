@@ -3,10 +3,7 @@ categories:
   - Prompt Engineering
   - AI Tips
 date: "2026-02-13"
-description:
-  Deja de escribir prompts complejos. Ha llegado la era del 'Prompting
-  Basado en Intención', donde la IA capta la intención oculta del usuario. Presentamos
-  una forma más simple y poderosa de comunicarse.
+description: "Deja de escribir prompts complejos. Ha llegado la era del 'Prompting Basado en Intención', donde la IA capta la intención oculta del usuario. Presentamos una forma más simple y poderosa de comunicarse."
 image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +11,7 @@ tags:
   - Intent-Based
   - AI Interaction
   - Future of Work
-title: "Ingeniería de Prompts 3.0: La Intención es la Orden"
+title: " \"Ingeniería de Prompts 3.0: La Intención es la Orden\""
 ---
 
 # 📝 Ingeniería de Prompts 3.0: La Intención es la Orden

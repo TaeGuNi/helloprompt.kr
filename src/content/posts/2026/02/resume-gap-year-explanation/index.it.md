@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Come Trasformare Anno Sabbatico Curriculum in 'Forza' non Debolezza"
+title: " \"Come Trasformare Anno Sabbatico Curriculum in 'Forza' non Debolezza\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Reinterpreta il periodo di interruzione della carriera (Gap year) non come una debolezza, ma come un momento fondamentale di autosviluppo, ricarica e preparazione al lavoro, integrandolo in modo efficace nella tua lettera di presentazione e ai colloqui."
+description: " \"Reinterpreta il periodo di interruzione della carriera (Gap year) non come una debolezza, ma come un momento fondamentale di autosviluppo, ricarica e preparazione al lavoro, integrandolo in modo efficace nella tua lettera di presentazione e ai colloqui.\""
 tags:
   [
     "AnnoSabbatico",

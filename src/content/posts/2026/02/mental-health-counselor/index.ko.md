@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "번아웃 방지 멘탈 케어: '힘들다'고 말하면 위로해주는 AI (심리상담)"
+title: " \"번아웃 방지 멘탈 케어: '힘들다'고 말하면 위로해주는 AI (심리상담)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "멘탈 케어"
-description: "친구에게 말하기엔 부담스럽고, 혼자 삭히기엔 괴로울 때. AI 상담사와 대화하며 감정 쓰레기통 비우기."
+description: " \"친구에게 말하기엔 부담스럽고, 혼자 삭히기엔 괴로울 때. AI 상담사와 대화하며 감정 쓰레기통 비우기.\""
 tags: ["심리상담", "멘탈케어", "번아웃", "ChatGPT", "위로"]
 ---
 

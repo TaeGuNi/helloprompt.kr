@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "El Juego Definitivo para Jugar en Casa: 'Dibujo de Relevos y Creación de Historias'"
+title: " \"El Juego Definitivo para Jugar en Casa: 'Dibujo de Relevos y Creación de Historias'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un juego creativo que entrelaza historias dibujando situaciones disparatadas y divertidas sugeridas por la IA."
+description: " \"Un juego creativo que entrelaza historias dibujando situaciones disparatadas y divertidas sugeridas por la IA.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

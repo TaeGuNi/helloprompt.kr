@@ -1,10 +1,10 @@
 ---
-title: "Flussi di Lavoro degli Agenti IA: Oltre i Chatbot"
+title: " \"Flussi di Lavoro degli Agenti IA: Oltre i Chatbot\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Produttività"
-description: "Prompt per progettare flussi di lavoro di agenti IA che eseguono compiti reali in totale autonomia, spingendosi ben oltre la semplice conversazione."
+description: " \"Prompt per progettare flussi di lavoro di agenti IA che eseguono compiti reali in totale autonomia, spingendosi ben oltre la semplice conversazione.\""
 tags: ["Agenti IA", "Automazione", "Produttività", "Flusso di Lavoro"]
 ---
 

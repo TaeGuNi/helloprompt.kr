@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Welt aus Punkten 'Pixel Art' Retro-Vibe"
+title: " \"Welt aus Punkten 'Pixel Art' Retro-Vibe\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "8-Bit- und 16-Bit-Pixel-Art-Prompt, der sofort Nostalgie für klassische Videospiele weckt."
+description: " \"8-Bit- und 16-Bit-Pixel-Art-Prompt, der sofort Nostalgie für klassische Videospiele weckt.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Retro"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rééquilibrage de Portefeuille IA : Trouver le Nombre d'Or"
+title: " \"Rééquilibrage de Portefeuille IA : Trouver le Nombre d'Or\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Prompt IA pour analyser l'allocation de vos actifs et obtenir un plan de rééquilibrage optimal pour votre portefeuille."
+description: " \"Prompt IA pour analyser l'allocation de vos actifs et obtenir un plan de rééquilibrage optimal pour votre portefeuille.\""
 tags: ["Investissement", "AllocationActifs", "Rééquilibrage", "Portefeuille"]
 ---
 

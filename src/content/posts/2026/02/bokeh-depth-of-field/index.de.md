@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Emotionale Hintergrundunschärfe 'Bokeh & Depth of Field'"
+title: " \"Emotionale Hintergrundunschärfe 'Bokeh & Depth of Field'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt, der das Motiv durch Hintergrundunschärfe hervorhebt und stimmungsvolle Lichtkugeln (Bokeh) erzeugt."
+description: " \"Ein Prompt, der das Motiv durch Hintergrundunschärfe hervorhebt und stimmungsvolle Lichtkugeln (Bokeh) erzeugt.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografie", "Effekt"]
 ---
 

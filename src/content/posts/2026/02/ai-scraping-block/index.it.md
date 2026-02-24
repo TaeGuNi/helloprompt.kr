@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Italian)"
-description: "La scarsità dei dati sta diventando realtà mentre gli editori bloccano l'accesso ai loro archivi."
+title: " \"Publishers Block AI Scraping (Italian)\""
+description: " \"La scarsità dei dati sta diventando realtà mentre gli editori bloccano l'accesso ai loro archivi.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

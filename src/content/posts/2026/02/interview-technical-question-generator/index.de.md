@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Technisches Interview' Erwarteter Frage-Generator nach Job"
+title: " \"'Technisches Interview' Erwarteter Frage-Generator nach Job\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Generieren Sie maßgeschneiderte technische Interviewfragen und Musterantworten, die exakt auf Ihren Beruf und Ihre Berufserfahrung (z.B. als Entwickler, Marketer oder Designer) abgestimmt sind."
+description: " \"Generieren Sie maßgeschneiderte technische Interviewfragen und Musterantworten, die exakt auf Ihren Beruf und Ihre Berufserfahrung (z.B. als Entwickler, Marketer oder Designer) abgestimmt sind.\""
 tags: ["TechInterview", "HauptInterview", "ErwarteteFrage", "JobInterview"]
 ---
 

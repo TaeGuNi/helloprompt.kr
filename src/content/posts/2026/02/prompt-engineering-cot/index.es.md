@@ -1,9 +1,9 @@
 ---
-title: "Prompt Engineering: Chain-of-Thought"
+title: " \"Prompt Engineering: Chain-of-Thought\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Prompt Engineering", "AI", "CoT"]
-description: "Descubre cómo la técnica Chain-of-Thought (CoT) puede potenciar el razonamiento lógico de la IA y eliminar las alucinaciones."
+description: " \"Descubre cómo la técnica Chain-of-Thought (CoT) puede potenciar el razonamiento lógico de la IA y eliminar las alucinaciones.\""
 ---
 
 # 📝 El Secreto para Aumentar el Razonamiento de la IA al 200%: Prompts Chain-of-Thought (CoT)

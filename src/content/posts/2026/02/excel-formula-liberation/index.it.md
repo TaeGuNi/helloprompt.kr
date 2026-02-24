@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dichiarazione di Indipendenza da Excel: Mai Più VLOOKUP"
+title: " \"Dichiarazione di Indipendenza da Excel: Mai Più VLOOKUP\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Analisi Dati"
-description: "Smetti di memorizzare formule Excel complesse. Scopri i prompt per dominare i fogli di calcolo usando semplicemente il linguaggio naturale."
+description: " \"Smetti di memorizzare formule Excel complesse. Scopri i prompt per dominare i fogli di calcolo usando semplicemente il linguaggio naturale.\""
 tags: ["Excel", "AnalisiDati", "ChatGPT", "VLOOKUP", "Produttività"]
 ---
 

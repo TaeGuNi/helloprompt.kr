@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fábrica de YouTube Shorts: Guion + Visuales en 30 Segundos"
+title: " \"Fábrica de YouTube Shorts: Guion + Visuales en 30 Segundos\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Creación de Contenido"
-description: "Aplica la fórmula viral de formato corto (Hook-Body-CTA) en la IA para producir guiones de forma masiva."
+description: " \"Aplica la fórmula viral de formato corto (Hook-Body-CTA) en la IA para producir guiones de forma masiva.\""
 tags: ["YouTube", "Shorts", "Guion", "Creador", "TikTok"]
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "3 Cose che ogni principiante dell'IA deve fare per prima (Guida introduttiva)"
+title: " \"3 Cose che ogni principiante dell'IA deve fare per prima (Guida introduttiva)\""
 author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-09T10:00:00.000Z"
 category: "Principiante"
 tags: ["Principiante IA", "ChatGPT", "Guida", "Tutorial"]
-description: "L'IA ti sembra confusa? Ecco i 3 metodi più semplici ed efficaci per iniziare a usarla subito con successo."
+description: " \"L'IA ti sembra confusa? Ecco i 3 metodi più semplici ed efficaci per iniziare a usarla subito con successo.\""
 ---
 
 # 📝 3 Cose che ogni principiante dell'IA deve fare per prima

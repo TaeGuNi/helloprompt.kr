@@ -1,6 +1,6 @@
 ---
-title: "AI検索戦争：Google対OpenAI"
-description: "検索の未来を懸けた巨人たちの衝突が始まりました。"
+title: " \"AI検索戦争：Google対OpenAI\""
+description: " \"検索の未来を懸けた巨人たちの衝突が始まりました。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

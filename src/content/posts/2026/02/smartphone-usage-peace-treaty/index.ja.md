@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "スマホやめて！スクリーンタイム平和協定を結ぶ"
+title: " \"スマホやめて！スクリーンタイム平和協定を結ぶ\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "喧嘩せずにYouTubeを消させる交渉とルール作り"
+description: " \"喧嘩せずにYouTubeを消させる交渉とルール作り\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

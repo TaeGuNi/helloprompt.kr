@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (Traditional Chinese)"
-description: "賦予 AI 特定的角色設定（Persona），能有效引導模型採用正確的語氣與領域專業知識，產出更高品質的結果。"
+title: " \"Effective Role Prompting (Traditional Chinese)\""
+description: " \"賦予 AI 特定的角色設定（Persona），能有效引導模型採用正確的語氣與領域專業知識，產出更高品質的結果。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

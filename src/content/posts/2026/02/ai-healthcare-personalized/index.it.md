@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: Il trattamento uguale per tutti è un ricordo del passato. Esplora lo stato attuale della 'Medicina di Precisione', in cui l'IA analizza i dati per suggerire il trattamento ottimale per ogni individuo.
+description: "Il trattamento uguale per tutti è un ricordo del passato. Esplora lo stato attuale della 'Medicina di Precisione', in cui l'IA analizza i dati per suggerire il trattamento ottimale per ogni individuo."
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "IA e Medicina Personalizzata: Una Prescrizione Solo per Te"
+title: " \"IA e Medicina Personalizzata: Una Prescrizione Solo per Te\""
 ---
 
 # 📝 IA e Medicina Personalizzata: Una Prescrizione Solo per Te

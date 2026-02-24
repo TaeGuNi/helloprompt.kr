@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List ? Map ? Set ? Prescription de Structure de Données pour la Décision"
+title: " \"List ? Map ? Set ? Prescription de Structure de Données pour la Décision\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Vous ne savez pas quelle structure de données utiliser ? Découvrez comment choisir la structure optimale parfaitement adaptée à votre situation pour booster vos performances."
+description: " \"Vous ne savez pas quelle structure de données utiliser ? Découvrez comment choisir la structure optimale parfaitement adaptée à votre situation pour booster vos performances.\""
 tags:
   [
     "Structure de Données",

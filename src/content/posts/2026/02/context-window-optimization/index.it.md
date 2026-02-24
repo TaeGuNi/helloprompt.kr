@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Italian)"
-description: "Ottimizza l'uso di context window da un milione di token: struttura gli input estesi con delimitatori chiari e sfrutta pattern di retrieval avanzati."
+title: " \"Optimizing for Million-Token Context Windows (Italian)\""
+description: " \"Ottimizza l'uso di context window da un milione di token: struttura gli input estesi con delimitatori chiari e sfrutta pattern di retrieval avanzati.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

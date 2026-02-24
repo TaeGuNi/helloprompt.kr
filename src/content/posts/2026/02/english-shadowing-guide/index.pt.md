@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기"
+title: " \"영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "외국어/학습"
-description: "미드 시청만으로는 영어가 늘지 않습니다. AI 코치를 활용해 대사 속 연음과 뉘앙스를 완벽하게 분석하고 내 것으로 만드는 넷플릭스 쉐도잉 실전 가이드입니다."
+description: " \"미드 시청만으로는 영어가 늘지 않습니다. AI 코치를 활용해 대사 속 연음과 뉘앙스를 완벽하게 분석하고 내 것으로 만드는 넷플릭스 쉐도잉 실전 가이드입니다.\""
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---
 

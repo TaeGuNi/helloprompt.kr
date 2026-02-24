@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "Исследования LG AI Research в области робототехники. Будущее Physical AI во главе с EXAONE."
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"Исследования LG AI Research в области робототехники. Будущее Physical AI во главе с EXAONE.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

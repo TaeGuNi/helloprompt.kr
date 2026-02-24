@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traducción Más Allá del Traductor: Arreglando el 'Matiz' (Inglés de Negocios)"
+title: " \"Traducción Más Allá del Traductor: Arreglando el 'Matiz' (Inglés de Negocios)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Idioma/Traducción"
-description: "¿Tus palabras son correctas pero suenan groseras? Prompt de IA para traducir la cortesía, el tono y la intención oculta en correos de negocios."
+description: " \"¿Tus palabras son correctas pero suenan groseras? Prompt de IA para traducir la cortesía, el tono y la intención oculta en correos de negocios.\""
 tags: ["Traducción", "Email", "InglésNegocios", "ChatGPT", "DeepL"]
 ---
 

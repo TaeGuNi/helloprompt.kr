@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Traumdeutung Psychologie: Was war der Traum von letzter Nacht?"
+title: " \"KI-Traumdeutung Psychologie: Was war der Traum von letzter Nacht?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Ist es nur ein wirrer Traum oder ein Signal aus dem Unterbewusstsein? Wir deuten die Bedeutung Ihres Traums durch fundierte psychologische Symbolanalyse."
+description: " \"Ist es nur ein wirrer Traum oder ein Signal aus dem Unterbewusstsein? Wir deuten die Bedeutung Ihres Traums durch fundierte psychologische Symbolanalyse.\""
 tags: ["Traumdeutung", "Psychologie", "Unbewusstes", "Freud", "ChatGPT"]
 ---
 

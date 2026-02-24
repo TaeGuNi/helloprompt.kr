@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cosa Significa Questo Codice? Spiegatore di Codice Amichevole"
+title: " \"Cosa Significa Questo Codice? Spiegatore di Codice Amichevole\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "Un prompt amichevole per principianti che aggiunge commenti riga per riga per spiegare codice complesso scritto da altri."
+description: " \"Un prompt amichevole per principianti che aggiunge commenti riga per riga per spiegare codice complesso scritto da altri.\""
 tags: ["StudioCoding", "RevisioneCodice", "Python", "JavaScript"]
 ---
 

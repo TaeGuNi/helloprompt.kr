@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "サーバーレス(Serverless)最適化: AWS Lambdaコールドスタートの解決法"
+title: " \"サーバーレス(Serverless)最適化: AWS Lambdaコールドスタートの解決法\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/インフラ"
-description: "サーバー代を節約しようとして表示速度が落ち、クレームに悩まされていませんか？Lambdaの持病「コールドスタート」を克服し、パフォーマンスを極限まで引き上げるチューニングの秘訣。"
+description: " \"サーバー代を節約しようとして表示速度が落ち、クレームに悩まされていませんか？Lambdaの持病「コールドスタート」を克服し、パフォーマンスを極限まで引き上げるチューニングの秘訣。\""
 tags: ["サーバーレス", "AWS", "Lambda", "コスト削減", "パフォーマンス最適化"]
 ---
 

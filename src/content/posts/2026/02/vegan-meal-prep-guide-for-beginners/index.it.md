@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Perfetta al Meal Prep per Vegani Principianti"
+title: " \"Guida Perfetta al Meal Prep per Vegani Principianti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute & Benessere"
-description: "Delizioso e saziante anche senza carne! Scopri le migliori ricette vegane e i processi di meal prep suggeriti dall'IA per una settimana ricca di nutrienti."
+description: " \"Delizioso e saziante anche senza carne! Scopri le migliori ricette vegane e i processi di meal prep suggeriti dall'IA per una settimana ricca di nutrienti.\""
 tags: ["Vegano", "Vegetariano", "Meal Prep", "Salute", "ChatGPT"]
 ---
 

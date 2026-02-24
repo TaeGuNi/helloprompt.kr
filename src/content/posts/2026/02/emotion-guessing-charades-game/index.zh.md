@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "猜心情'表情表演'游戏：培养情商"
+title: " \"猜心情'表情表演'游戏：培养情商\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "培养孩子共情能力和情感表达能力的AI情景剧提示词"
+description: " \"培养孩子共情能力和情感表达能力的AI情景剧提示词\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

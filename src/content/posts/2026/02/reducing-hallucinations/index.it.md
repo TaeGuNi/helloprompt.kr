@@ -1,6 +1,6 @@
 ---
-title: "Ridurre le Allucinazioni: Verso un'IA Affidabile"
-description: "Le ultime tecniche del 2026 per impedire all'IA di mentire. Dal Grounding alla Chain of Verification (CoVe)."
+title: " \"Ridurre le Allucinazioni: Verso un'IA Affidabile\""
+description: " \"Le ultime tecniche del 2026 per impedire all'IA di mentire. Dal Grounding alla Chain of Verification (CoVe).\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

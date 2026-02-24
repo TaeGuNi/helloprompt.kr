@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Guia Completo para Criar Apps LLM e RAG Incríveis"
+title: " \"Guia Completo para Criar Apps LLM e RAG Incríveis\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Aprenda a construir aplicativos LLM poderosos e pipelines RAG usando a coleção awesome-llm-apps."
+description: " \"Aprenda a construir aplicativos LLM poderosos e pipelines RAG usando a coleção awesome-llm-apps.\""
 author: "Hello Prompt"
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"

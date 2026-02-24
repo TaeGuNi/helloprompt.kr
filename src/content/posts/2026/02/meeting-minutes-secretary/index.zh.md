@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "会议纪要，还在用手整理吗？用 AI 3 分钟搞定"
+title: " \"会议纪要，还在用手整理吗？用 AI 3 分钟搞定\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "将杂乱无章的会议记录一键转化为结构化摘要与待办事项的智能秘书提示词。"
+description: " \"将杂乱无章的会议记录一键转化为结构化摘要与待办事项的智能秘书提示词。\""
 tags: ["会议纪要", "摘要", "生产力"]
 ---
 

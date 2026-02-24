@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "不知道该带什么？AI 旅行地别智能打包"
+title: " \"不知道该带什么？AI 旅行地别智能打包\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "为您定制专属的旅行打包清单，智能结合当地天气、文化与活动，让行李无缝衔接您的完美旅程。"
+description: " \"为您定制专属的旅行打包清单，智能结合当地天气、文化与活动，让行李无缝衔接您的完美旅程。\""
 tags: ["旅行", "打包", "检查清单", "准备物品"]
 ---
 

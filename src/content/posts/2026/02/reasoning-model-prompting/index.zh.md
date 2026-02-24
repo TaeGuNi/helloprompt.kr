@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)"
+title: " \"생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)\""
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "프롬프트 엔지니어링"
-description: "在推理模型（Reasoning Model）时代，传统的提示词编写方式为何不再奏效？本文将为您全面解析专为 o1 与 DeepSeek-R1 打造的全新提示词公式。"
+description: " \"在推理模型（Reasoning Model）时代，传统的提示词编写方式为何不再奏效？本文将为您全面解析专为 o1 与 DeepSeek-R1 打造的全新提示词公式。\""
 tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
 ---
 

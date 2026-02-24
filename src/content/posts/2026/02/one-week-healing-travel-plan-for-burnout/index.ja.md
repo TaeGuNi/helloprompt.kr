@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "バーンアウト脱出！完全に私だけのための1週間ヒーリング旅行計画"
+title: " \"バーンアウト脱出！完全に私だけのための1週間ヒーリング旅行計画\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行＆文化"
-description: "観光地巡りはもう終わり。真の休息のための1週間の「スロートラベル(Slow Travel)」ガイド。"
+description: " \"観光地巡りはもう終わり。真の休息のための1週間の「スロートラベル(Slow Travel)」ガイド。\""
 tags: ["ヒーリング旅行", "休息", "一週間暮らし", "スロートラベル"]
 ---
 

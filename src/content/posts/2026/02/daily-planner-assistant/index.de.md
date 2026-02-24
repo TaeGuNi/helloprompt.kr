@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 오늘 하루, 완벽하게 계획하는 AI 비서
+title: "오늘 하루, 완벽하게 계획하는 AI 비서"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: Entwirren Sie Ihr morgendliches Chaos mit einem einzigen KI-Prompt. Lassen Sie Prioritäten ordnen und einen perfekten Time-Blocking-Stundenplan erstellen.
+description: "Entwirren Sie Ihr morgendliches Chaos mit einem einzigen KI-Prompt. Lassen Sie Prioritäten ordnen und einen perfekten Time-Blocking-Stundenplan erstellen."
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

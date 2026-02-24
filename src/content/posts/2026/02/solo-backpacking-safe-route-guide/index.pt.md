@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Rota Segura para Mochilão Solo: Viaje Sozinho com Confiança"
+title: " \"Guia de Rota Segura para Mochilão Solo: Viaje Sozinho com Confiança\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Um guia personalizado e seguro para viajantes solo. Descubra a receita ideal para o seu mochilão, equilibrando segurança, orçamento e novas amizades."
+description: " \"Um guia personalizado e seguro para viajantes solo. Descubra a receita ideal para o seu mochilão, equilibrando segurança, orçamento e novas amizades.\""
 tags: ["Viagem Solo", "Mochilão", "Viajar Sozinho", "Viagem Segura"]
 ---
 

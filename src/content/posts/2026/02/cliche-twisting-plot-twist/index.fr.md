@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tordre le Cliché : Transformer une Fin Évidente en Retournement Choquant"
+title: " \"Tordre le Cliché : Transformer une Fin Évidente en Retournement Choquant\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Méthode pour obtenir des idées de retournements choquants qui frappent l'arrière de la tête du lecteur en tordant des clichés familiers."
+description: " \"Méthode pour obtenir des idées de retournements choquants qui frappent l'arrière de la tête du lecteur en tordant des clichés familiers.\""
 tags: ["Roman", "Retournement", "Idée", "Narration"]
 ---
 

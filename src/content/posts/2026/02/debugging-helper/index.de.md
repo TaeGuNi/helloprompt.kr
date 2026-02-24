@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bug-Jäger: Debugging-Prompt, um Fehler in 1 Minute zu fangen"
+title: " \"Bug-Jäger: Debugging-Prompt, um Fehler in 1 Minute zu fangen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"
-description: "Ein Prompt, der die exakte Fehlerquelle und die perfekte Lösung findet, wenn Sie eine kryptische Fehlermeldung zusammen mit Ihrem Code eingeben."
+description: " \"Ein Prompt, der die exakte Fehlerquelle und die perfekte Lösung findet, wenn Sie eine kryptische Fehlermeldung zusammen mit Ihrem Code eingeben.\""
 tags: ["Debugging", "Fehlerbehebung", "Entwickler", "Produktivität"]
 ---
 

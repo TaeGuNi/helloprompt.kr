@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide Mondial de l'Étiquette des Pourboires : Dois-je donner un pourboire ou non ?"
+title: " \"Guide Mondial de l'Étiquette des Pourboires : Dois-je donner un pourboire ou non ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "20 % aux États-Unis ? 0 au Japon ? L'IA déchiffre enfin la culture complexe et parfois gênante des pourboires pour voyager l'esprit tranquille."
+description: " \"20 % aux États-Unis ? 0 au Japon ? L'IA déchiffre enfin la culture complexe et parfois gênante des pourboires pour voyager l'esprit tranquille.\""
 tags:
   [
     "Culture du Pourboire",

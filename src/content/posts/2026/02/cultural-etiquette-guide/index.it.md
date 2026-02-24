@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Grossi Guai se Fai un Errore! Guida IA Cultura & Etichetta Specifica per Paese"
+title: " \"Grossi Guai se Fai un Errore! Guida IA Cultura & Etichetta Specifica per Paese\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Quanto lasciare di mancia? Quali gesti evitare? Scopri come viaggiare rispettando la cultura locale ed evitare figuracce grazie all'IA."
+description: " \"Quanto lasciare di mancia? Quali gesti evitare? Scopri come viaggiare rispettando la cultura locale ed evitare figuracce grazie all'IA.\""
 tags: ["Viaggi", "Etichetta", "Cultura", "Maniere"]
 ---
 

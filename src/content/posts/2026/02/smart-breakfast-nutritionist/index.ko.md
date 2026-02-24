@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "냉장고 파먹기를 도와주는 AI 영양사 프롬프트로 바쁜 아침 15분 만에 건강한 식단을 완성하세요."
+description: " \"냉장고 파먹기를 도와주는 AI 영양사 프롬프트로 바쁜 아침 15분 만에 건강한 식단을 완성하세요.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

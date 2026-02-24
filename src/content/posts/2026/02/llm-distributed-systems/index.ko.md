@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (Korean)"
-description: "안전하고 견고한 분산 시스템을 위한 페트리 넷(Petri Nets)과 LLM의 결합 아키텍처 설계 가이드"
+title: " \"LLMs in Distributed Apps (Korean)\""
+description: " \"안전하고 견고한 분산 시스템을 위한 페트리 넷(Petri Nets)과 LLM의 결합 아키텍처 설계 가이드\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

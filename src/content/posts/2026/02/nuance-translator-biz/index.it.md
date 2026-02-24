@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduzione Oltre il Traduttore: Correggere le 'Sfumature' (Inglese Commerciale)"
+title: " \"Traduzione Oltre il Traduttore: Correggere le 'Sfumature' (Inglese Commerciale)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Lingua/Traduzione"
-description: "Le parole sono corrette ma il tono sembra scortese? Scopri il prompt IA per tradurre la cortesia, le sfumature e le intenzioni nascoste nelle tue email commerciali."
+description: " \"Le parole sono corrette ma il tono sembra scortese? Scopri il prompt IA per tradurre la cortesia, le sfumature e le intenzioni nascoste nelle tue email commerciali.\""
 tags: ["Traduzione", "Email", "IngleseCommerciale", "ChatGPT", "DeepL"]
 ---
 

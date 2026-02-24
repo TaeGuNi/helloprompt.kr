@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ata de reunião, você ainda organiza à mão? 3 minutos com IA"
+title: " \"Ata de reunião, você ainda organiza à mão? 3 minutos com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Um prompt de secretária virtual que transforma transcrições de reuniões desorganizadas em resumos estruturados e itens de ação claros."
+description: " \"Um prompt de secretária virtual que transforma transcrições de reuniões desorganizadas em resumos estruturados e itens de ação claros.\""
 tags: ["Ata de Reunião", "Resumo", "Produtividade"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "企業分析の定石：AI SWOT分析機"
+title: " \"企業分析の定石：AI SWOT分析機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "財テク & 投資"
-description: "投資を検討している企業の強み、弱み、機会、脅威を一目で把握できるプロンプトです。"
+description: " \"投資を検討している企業の強み、弱み、機会、脅威を一目で把握できるプロンプトです。\""
 tags: ["株式", "企業分析", "SWOT", "戦略"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "La IA portátil está revolucionando nuestra vida diaria. Descubre cómo analizar los factores de éxito de Meta con este prompt."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"La IA portátil está revolucionando nuestra vida diaria. Descubre cómo analizar los factores de éxito de Meta con este prompt.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

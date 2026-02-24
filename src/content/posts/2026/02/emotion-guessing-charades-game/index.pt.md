@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jogo de Adivinhação de Emoções 'Charadas': Desenvolvendo a Inteligência Emocional"
+title: " \"Jogo de Adivinhação de Emoções 'Charadas': Desenvolvendo a Inteligência Emocional\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Proposta de role-play com IA para desenvolver a empatia e a expressão emocional de uma criança."
+description: " \"Proposta de role-play com IA para desenvolver a empatia e a expressão emocional de uma criança.\""
 tags:
   [
     "Parentalidade",

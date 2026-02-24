@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échappez à l'Enfer des Réunions : Enregistrement vers PV + Email en 3 min"
+title: " \"Échappez à l'Enfer des Réunions : Enregistrement vers PV + Email en 3 min\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automatisation du Travail"
-description: "Le flux de travail parfait pour automatiser les comptes-rendus de réunion chronophages avec Whisper et GPT. Le guide essentiel pour les juniors."
+description: " \"Le flux de travail parfait pour automatiser les comptes-rendus de réunion chronophages avec Whisper et GPT. Le guide essentiel pour les juniors.\""
 tags: ["PV", "Whisper", "ChatGPT", "Automatisation", "Productivité"]
 ---
 

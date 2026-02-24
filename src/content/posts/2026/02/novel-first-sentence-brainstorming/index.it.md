@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brainstorming 10 Versioni Prima Frase Romanzo"
+title: " \"Brainstorming 10 Versioni Prima Frase Romanzo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Cattura i lettori fin dalla prima frase. Ottieni 10 suggerimenti per l'incipit perfetto del tuo romanzo con un gancio irresistibile."
+description: " \"Cattura i lettori fin dalla prima frase. Ottieni 10 suggerimenti per l'incipit perfetto del tuo romanzo con un gancio irresistibile.\""
 tags: ["Romanzo", "PrimaFrase", "Scrittura", "Intro", "Brainstorming"]
 ---
 

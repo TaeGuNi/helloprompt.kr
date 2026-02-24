@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Routine di Allenamento HIIT Generata dall'IA: Sudare in 20 Minuti"
+title: " \"Routine di Allenamento HIIT Generata dall'IA: Sudare in 20 Minuti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Hai poco tempo ma vuoi perdere peso? Lascia che l'IA crei ogni giorno una nuova routine HIIT su misura per te."
+description: " \"Hai poco tempo ma vuoi perdere peso? Lascia che l'IA crei ogni giorno una nuova routine HIIT su misura per te.\""
 tags: ["HIIT", "Tabata", "Dieta", "Esercizio", "ChatGPT"]
 ---
 

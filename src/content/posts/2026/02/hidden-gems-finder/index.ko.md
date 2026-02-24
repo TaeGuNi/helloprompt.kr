@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "뻔한 여행은 가라! AI가 찾아주는 나만의 숨은 명소"
+title: " \"뻔한 여행은 가라! AI가 찾아주는 나만의 숨은 명소\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.176Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "여행"
-description: "관광객이 없는 조용한 곳, 나만 알고 싶은 비밀 스팟을 발굴하는 법."
+description: " \"관광객이 없는 조용한 곳, 나만 알고 싶은 비밀 스팟을 발굴하는 법.\""
 tags: ["여행", "숨은명소", "히든스팟", "감성여행"]
 ---
 

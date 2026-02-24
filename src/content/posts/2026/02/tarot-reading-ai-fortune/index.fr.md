@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lecture de Cartes de Tarot : La Fortune d'Aujourd'hui que l'IA Prédit"
+title: " \"Lecture de Cartes de Tarot : La Fortune d'Aujourd'hui que l'IA Prédit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Un souci vous tracasse ? Laissez le Maître de Tarot IA tirer les cartes et interpréter votre avenir avec bienveillance."
+description: " \"Un souci vous tracasse ? Laissez le Maître de Tarot IA tirer les cartes et interpréter votre avenir avec bienveillance.\""
 tags: ["Tarot", "Fortune", "Divination", "Conseil", "Passe-temps"]
 ---
 

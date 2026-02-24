@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유"
-description: "벡터 검색은 단순한 단어의 유사성 찾기에 불과합니다. Neo4j와 LangChain을 활용해 개인 지식 그래프(GraphRAG)를 구축하고, 옵시디언 노트 속 숨겨진 인사이트를 연결하는 완벽한 프롬프트 가이드를 제공합니다."
+title: " \"GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유\""
+description: " \"벡터 검색은 단순한 단어의 유사성 찾기에 불과합니다. Neo4j와 LangChain을 활용해 개인 지식 그래프(GraphRAG)를 구축하고, 옵시디언 노트 속 숨겨진 인사이트를 연결하는 완벽한 프롬프트 가이드를 제공합니다.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

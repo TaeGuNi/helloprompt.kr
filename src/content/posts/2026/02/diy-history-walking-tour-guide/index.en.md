@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DIY History Walking Tour Guide: Enjoy Without a Guide"
+title: " \"DIY History Walking Tour Guide: Enjoy Without a Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "A fulfilling self-guided history walking tour tailored to your preferred theme, without the cost of expensive guided tours."
+description: " \"A fulfilling self-guided history walking tour tailored to your preferred theme, without the cost of expensive guided tours.\""
 tags: ["Walking Tour", "Self Guide", "History Walk", "Walking Travel"]
 ---
 

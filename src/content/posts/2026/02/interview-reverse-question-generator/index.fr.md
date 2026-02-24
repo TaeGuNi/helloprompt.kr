@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dernière Arme Ultime d'Entretien ! Générateur de 'Question Inverse' à Poser à l'Intervieweur"
+title: " \"Dernière Arme Ultime d'Entretien ! Générateur de 'Question Inverse' à Poser à l'Intervieweur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Générez des questions inversées percutantes pour démontrer votre intérêt et votre perspicacité lorsque le recruteur vous demande 'Avez-vous des questions ?' à la fin de l'entretien."
+description: " \"Générez des questions inversées percutantes pour démontrer votre intérêt et votre perspicacité lorsque le recruteur vous demande 'Avez-vous des questions ?' à la fin de l'entretien.\""
 tags:
   ["QuestionInverse", "AstuceEntretien", "DerniersMots", "AnalyseEntreprise"]
 ---

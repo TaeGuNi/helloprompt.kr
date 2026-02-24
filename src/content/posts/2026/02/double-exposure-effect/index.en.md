@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Two Images into One 'Double Exposure'"
+title: " \"Two Images into One 'Double Exposure'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A double exposure technique that overlaps two different images to create a mysterious and dreamy visual story."
+description: " \"A double exposure technique that overlaps two different images to create a mysterious and dreamy visual story.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 

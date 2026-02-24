@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "和面试官附身的 AI 一起做的 '实战模拟面试' 模拟"
+title: " \"和面试官附身的 AI 一起做的 '实战模拟面试' 模拟\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "给 AI 赋予挑剔的面试官人格，像实际面试一样体验极具压迫感的连环追问。"
+description: " \"给 AI 赋予挑剔的面试官人格，像实际面试一样体验极具压迫感的连环追问。\""
 tags: ["模拟面试", "面试练习", "AI面试官", "就业准备"]
 ---
 

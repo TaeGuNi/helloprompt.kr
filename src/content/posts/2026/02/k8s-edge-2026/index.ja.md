@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "エッジでのKubernetes: 分散クラスターの管理 (2026)"
+title: " \"エッジでのKubernetes: 分散クラスターの管理 (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026年のエッジコンピューティング環境において、数千の分散Kubernetesクラスターを効率的に管理するための技術的課題と解決策、そしてK3sとGitOpsの進化について解説します。"
+description: " \"2026年のエッジコンピューティング環境において、数千の分散Kubernetesクラスターを効率的に管理するための技術的課題と解決策、そしてK3sとGitOpsの進化について解説します。\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

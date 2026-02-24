@@ -1,9 +1,9 @@
 ---
-title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
+title: " \"딥페이크: 동의 없는 지옥과 윤리의 붕괴\""
 date: 2026-02-13
 image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
-description: "未经同意的Deepfake制造了伦理地狱。为您介绍一款能快速生成强效Deepfake伦理指南的提示词，保护组织免受侵害。"
+description: " \"未经同意的Deepfake制造了伦理地狱。为您介绍一款能快速生成强效Deepfake伦理指南的提示词，保护组织免受侵害。\""
 ---
 
 # 📝 应对Deepfake危机与伦理准则生成提示词

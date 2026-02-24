@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "光芒倾泻的 'Volumetric Lighting' (神光) 演绎法"
+title: " \"光芒倾泻的 'Volumetric Lighting' (神光) 演绎法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "用AI绘画提示词（Prompt）完美再现空气中清晰可见的丁达尔效应（神光/God Rays），一秒提升画面氛围感与空间感。"
+description: " \"用AI绘画提示词（Prompt）完美再现空气中清晰可见的丁达尔效应（神光/God Rays），一秒提升画面氛围感与空间感。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

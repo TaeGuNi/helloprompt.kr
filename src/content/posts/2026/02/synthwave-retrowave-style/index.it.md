@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibrazione Retro Anni '80 Stile 'Synthwave'"
+title: " \"Vibrazione Retro Anni '80 Stile 'Synthwave'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Genera prompt in stile Synthwave, caratterizzati da nostalgia anni '80 con luci al neon, palme e pavimenti a griglia digitale."
+description: " \"Genera prompt in stile Synthwave, caratterizzati da nostalgia anni '80 con luci al neon, palme e pavimenti a griglia digitale.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Retro"]
 ---
 

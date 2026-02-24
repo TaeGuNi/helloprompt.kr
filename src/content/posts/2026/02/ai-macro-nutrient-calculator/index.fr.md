@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculateur de Macro Nutriments IA : Prenez Juste une Photo"
+title: " \"Calculateur de Macro Nutriments IA : Prenez Juste une Photo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Fini la saisie fastidieuse des calories ! Découvrez comment calculer précisément vos macros (glucides, protéines, lipides) avec une simple photo ou un texte grâce à l'IA."
+description: " \"Fini la saisie fastidieuse des calories ! Découvrez comment calculer précisément vos macros (glucides, protéines, lipides) avec une simple photo ou un texte grâce à l'IA.\""
 tags: ["Macro", "Nutriment", "Régime", "ChatGPT", "Journal de Repas"]
 ---
 

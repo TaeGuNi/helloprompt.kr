@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (German)"
-description: "Die gezielte Zuweisung von Expertenrollen hilft KI-Modellen, den richtigen Ton und tiefgreifende Fachexpertise für produktionsreife Ergebnisse zu liefern."
+title: " \"Effective Role Prompting (German)\""
+description: " \"Die gezielte Zuweisung von Expertenrollen hilft KI-Modellen, den richtigen Ton und tiefgreifende Fachexpertise für produktionsreife Ergebnisse zu liefern.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

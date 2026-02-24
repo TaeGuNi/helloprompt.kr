@@ -1,6 +1,6 @@
 ---
-title: "Lunettes Intelligentes Meta : Le Triomphe de l'IA Wearable"
-description: "Les ventes de lunettes intelligentes explosent, menant le marché de l'IA wearable. Succès stratégique de Meta et analyse du marché."
+title: " \"Lunettes Intelligentes Meta : Le Triomphe de l'IA Wearable\""
+description: " \"Les ventes de lunettes intelligentes explosent, menant le marché de l'IA wearable. Succès stratégique de Meta et analyse du marché.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

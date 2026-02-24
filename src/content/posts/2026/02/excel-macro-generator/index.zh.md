@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "逃离 Excel 地狱：消灭加班的 Prompt"
+title: " \"逃离 Excel 地狱：消灭加班的 Prompt\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "生产力"
-description: "还在为复杂的 Excel 公式和 VBA 宏头疼吗？只需用自然语言描述需求，AI 就能帮你写出完美代码，瞬间完成数小时的工作。"
+description: " \"还在为复杂的 Excel 公式和 VBA 宏头疼吗？只需用自然语言描述需求，AI 就能帮你写出完美代码，瞬间完成数小时的工作。\""
 tags: ["Excel", "自动化", "VBA", "职场黑客"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Borrador de Concepto y Letra de Canción Principal de Ídolo K-POP"
+title: " \"Borrador de Concepto y Letra de Canción Principal de Ídolo K-POP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¿Y si tú fueras el productor ejecutivo? Planifica el universo de un grupo idol, el concepto visual de su álbum y hasta la letra de la canción principal en un solo paso."
+description: " \"¿Y si tú fueras el productor ejecutivo? Planifica el universo de un grupo idol, el concepto visual de su álbum y hasta la letra de la canción principal en un solo paso.\""
 tags: ["K-POP", "Ídolo", "Universo", "Planificación", "EscrituraLetras"]
 ---
 

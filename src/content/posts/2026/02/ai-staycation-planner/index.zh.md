@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 居家享受完美假期：AI 宅家度假规划师 (AI Staycation Planner)
+title: "居家享受完美假期：AI 宅家度假规划师 (AI Staycation Planner)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Lifestyle
-description: 只有出远门才算旅行吗？教你如何把卧室变成五星级酒店。让 AI 帮你策划一场完美的主题式“宅家度假”。
+description: "只有出远门才算旅行吗？教你如何把卧室变成五星级酒店。让 AI 帮你策划一场完美的主题式“宅家度假”。"
 tags: [AI, Travel, Rest, Planning]
 ---
 

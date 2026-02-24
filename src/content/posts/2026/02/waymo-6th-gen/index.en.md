@@ -1,12 +1,10 @@
 ---
 date: "2026-02-13"
-description:
-  Waymo's new 6th-gen driver brings enhanced sensors, better weather handling,
-  and smoother rides.
+description: "Waymo's new 6th-gen driver brings enhanced sensors, better weather handling, and smoother rides."
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo Begins Fully Autonomous Operations with 6th-Generation Driver
+title: "Waymo Begins Fully Autonomous Operations with 6th-Generation Driver"
 ---
 
 # 📝 Tech PR to Engaging News: Waymo 6th-Gen Case Study

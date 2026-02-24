@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ottimizzazione Query SQL, Prima che il DB Urli"
+title: " \"Ottimizzazione Query SQL, Prima che il DB Urli\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Sviluppo"
-description: "Un prompt avanzato che analizza query SQL lente e complesse per ottimizzare le prestazioni e suggerire le migliori strategie di indicizzazione."
+description: " \"Un prompt avanzato che analizza query SQL lente e complesse per ottimizzare le prestazioni e suggerire le migliori strategie di indicizzazione.\""
 tags: ["SQL", "DB Tuning", "Backend"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ドットで撮った世界「Pixel Art」レトロ感性"
+title: " \"ドットで撮った世界「Pixel Art」レトロ感性\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "レトロゲームの郷愁を呼び起こす、8ビット・16ビットのピクセルアート生成プロンプトです。"
+description: " \"レトロゲームの郷愁を呼び起こす、8ビット・16ビットのピクセルアート生成プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gemini 3 Pro: Как правильно использовать режим 'Deep Think' в реальном программировании (vs GPT-5)"
+title: " \"Gemini 3 Pro: Как правильно использовать режим 'Deep Think' в реальном программировании (vs GPT-5)\""
 date: "2026-02-16"
 categories: ["AI Tools", "Coding"]
 tags: ["Gemini 3 Pro", "Prompt Engineering", "Refactoring", "Productivity"]

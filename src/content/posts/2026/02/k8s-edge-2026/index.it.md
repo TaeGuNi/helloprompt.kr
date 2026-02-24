@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Kubernetes all'Edge: Gestione di Cluster Distribuiti (2026)"
+title: " \"Kubernetes all'Edge: Gestione di Cluster Distribuiti (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Esplorazione delle sfide tecniche e delle soluzioni per la gestione di migliaia di cluster Kubernetes distribuiti nel panorama dell'Edge Computing del 2026, coprendo l'evoluzione di K3s e GitOps."
+description: " \"Esplorazione delle sfide tecniche e delle soluzioni per la gestione di migliaia di cluster Kubernetes distribuiti nel panorama dell'Edge Computing del 2026, coprendo l'evoluzione di K3s e GitOps.\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

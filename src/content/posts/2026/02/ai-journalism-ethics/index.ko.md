@@ -3,7 +3,7 @@ categories:
   - AI Ethics
   - Journalism
 date: "2026-02-13"
-description: AI 에이전트가 기사를 쓰는 시대, 저널리즘의 본질은 어떻게 변해야 할까요? 팩트 체크부터 편향성 검증까지, AI를 올바르게 활용하기 위한 윤리적 가이드와 실전 프롬프트를 제안합니다.
+description: "AI 에이전트가 기사를 쓰는 시대, 저널리즘의 본질은 어떻게 변해야 할까요? 팩트 체크부터 편향성 검증까지, AI를 올바르게 활용하기 위한 윤리적 가이드와 실전 프롬프트를 제안합니다."
 heroImage: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Fact Check
   - Bias Detection
   - Media Ethics
-title: 'AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이'
+title: " 'AI 저널리즘 윤리: \"사실\"과 \"할루시네이션\" 사이'"
 ---
 
 # 📰 AI 저널리즘 윤리: "사실"과 "할루시네이션" 사이

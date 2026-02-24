@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5-Minuten-Achtsamkeitsmeditationsskript: Von Stress zu Ruhe"
+title: " \"5-Minuten-Achtsamkeitsmeditationsskript: Von Stress zu Ruhe\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Sparen Sie sich teure Meditations-Apps. Lassen Sie die KI ein Meditationsskript schreiben, das exakt auf Ihre aktuelle Situation und Gefühlslage zugeschnitten ist."
+description: " \"Sparen Sie sich teure Meditations-Apps. Lassen Sie die KI ein Meditationsskript schreiben, das exakt auf Ihre aktuelle Situation und Gefühlslage zugeschnitten ist.\""
 tags: ["Meditation", "Achtsamkeit", "Heilung", "Stress", "TTS"]
 ---
 

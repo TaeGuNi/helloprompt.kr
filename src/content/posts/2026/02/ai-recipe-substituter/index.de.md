@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "없는 재료는 없다! AI 요리 재료 대체 가이드 (AI Recipe Substituter)"
+title: " \"없는 재료는 없다! AI 요리 재료 대체 가이드 (AI Recipe Substituter)\""
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Life Hacks
-description: "Haben Sie beim Kochen schon einmal festgestellt, dass eine wichtige Zutat fehlt? Sparen Sie sich den Weg zum Supermarkt! Die KI findet für Sie den perfekten Ersatz aus den Vorräten in Ihrem Kühlschrank."
+description: " \"Haben Sie beim Kochen schon einmal festgestellt, dass eine wichtige Zutat fehlt? Sparen Sie sich den Weg zum Supermarkt! Die KI findet für Sie den perfekten Ersatz aus den Vorräten in Ihrem Kühlschrank.\""
 tags: [AI, Cooking, LifeHack, Food]
 ---
 

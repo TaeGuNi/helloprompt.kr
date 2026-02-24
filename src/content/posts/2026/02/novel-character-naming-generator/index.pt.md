@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Nomes de Personagens de Romance (Combinando Significado e Nuance)"
+title: " \"Gerador de Nomes de Personagens de Romance (Combinando Significado e Nuance)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Crie nomes de personagens perfeitos, combinando significados profundos e nuances que refletem com precisão sua personalidade, nacionalidade e a época da história."
+description: " \"Crie nomes de personagens perfeitos, combinando significados profundos e nuances que refletem com precisão sua personalidade, nacionalidade e a época da história.\""
 tags: ["Nomeação", "Personagem", "Romance", "CriaçãoNome", "Configuração"]
 ---
 

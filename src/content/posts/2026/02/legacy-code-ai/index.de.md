@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (German)"
-description: "KI, die Entwickler vor technischen Schulden rettet"
+title: " \"Modernizing Legacy Code (German)\""
+description: " \"KI, die Entwickler vor technischen Schulden rettet\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

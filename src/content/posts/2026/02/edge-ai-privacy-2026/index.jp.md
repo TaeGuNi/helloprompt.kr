@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (Japanese)"
-description: "Running powerful LLMs locally on devices is now mainstream, significantly enhancing user privacy."
+title: " \"Privacy First Edge AI (Japanese)\""
+description: " \"Running powerful LLMs locally on devices is now mainstream, significantly enhancing user privacy.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

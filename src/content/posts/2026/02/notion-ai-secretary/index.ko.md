@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "노션(Notion) AI 비서: 오늘 할 일 정리 & 스케줄 자동화"
+title: " \"노션(Notion) AI 비서: 오늘 할 일 정리 & 스케줄 자동화\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "생산성 도구"
-description: "P(즉흥형)도 J(계획형)가 되는 마법. 노션 AI에게 내 뇌 속의 잡다한 할 일을 던져주면, 우선순위별로 완벽한 하루 시간표를 짜줍니다."
+description: " \"P(즉흥형)도 J(계획형)가 되는 마법. 노션 AI에게 내 뇌 속의 잡다한 할 일을 던져주면, 우선순위별로 완벽한 하루 시간표를 짜줍니다.\""
 tags: ["노션", "NotionAI", "할일관리", "생산성", "GTD"]
 ---
 

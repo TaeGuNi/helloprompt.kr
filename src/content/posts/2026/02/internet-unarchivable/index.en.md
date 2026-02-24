@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "Dynamic content, single-page apps, and walled gardens are making it increasingly difficult for digital archivists to preserve the open web history."
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"Dynamic content, single-page apps, and walled gardens are making it increasingly difficult for digital archivists to preserve the open web history.\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -128,7 +128,7 @@ Subscribe to our weekly newsletter!
 
 ```markdown
 ---
-title: "The Future of React Server Components"
+title: " \"The Future of React Server Components\""
 author: "Jane Doe"
 date_archived: "2026-02-15"
 tags: ["React", "Server Components", "Web Development"]

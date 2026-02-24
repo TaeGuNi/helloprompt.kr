@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "반려 식물 진단: 시들한 잎 사진 보고 살려내기"
+title: " \"반려 식물 진단: 시들한 잎 사진 보고 살려내기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/식물"
-description: "Salvador para quem mata plantas! Receba um diagnóstico preciso e uma prescrição personalizada apenas com uma foto de folhas amareladas, manchas ou caules murchos."
+description: " \"Salvador para quem mata plantas! Receba um diagnóstico preciso e uma prescrição personalizada apenas com uma foto de folhas amareladas, manchas ou caules murchos.\""
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---
 

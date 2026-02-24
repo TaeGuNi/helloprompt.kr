@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Aesthetics of Organization 'Knolling' Style"
+title: " \"Aesthetics of Organization 'Knolling' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master the Knolling technique prompt to neatly arrange and photograph objects at perfect right angles."
+description: " \"Master the Knolling technique prompt to neatly arrange and photograph objects at perfect right angles.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

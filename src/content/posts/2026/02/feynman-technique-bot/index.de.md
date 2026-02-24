@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lernen wie ein Genie: Feynman-Technik Trainings-Bot"
+title: " \"Lernen wie ein Genie: Feynman-Technik Trainings-Bot\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lernmethode/Selbstentwicklung"
-description: "Der beste Weg, um zu überprüfen, ob Sie etwas wirklich verstanden haben, ist, es anderen zu erklären. Erklären Sie es der KI und erhalten Sie gnadenloses Feedback."
+description: " \"Der beste Weg, um zu überprüfen, ob Sie etwas wirklich verstanden haben, ist, es anderen zu erklären. Erklären Sie es der KI und erhalten Sie gnadenloses Feedback.\""
 tags: ["Lernmethode", "FeynmanTechnik", "Metakognition", "Bildung"]
 ---
 

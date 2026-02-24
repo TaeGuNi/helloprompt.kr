@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Compte-rendu de réunion, vous l'organisez encore à la main ? 3 minutes avec l'IA"
+title: " \"Compte-rendu de réunion, vous l'organisez encore à la main ? 3 minutes avec l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Un prompt d'assistant de direction qui transforme vos transcriptions de réunions en comptes-rendus structurés avec un plan d'action clair."
+description: " \"Un prompt d'assistant de direction qui transforme vos transcriptions de réunions en comptes-rendus structurés avec un plan d'action clair.\""
 tags: ["Compte-rendu", "Résumé", "Productivité"]
 ---
 

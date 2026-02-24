@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instead of Expensive Phone English, 24-Hour Standby AI Native Speaker"
+title: " \"Instead of Expensive Phone English, 24-Hour Standby AI Native Speaker\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Living"
-description: "A role-playing prompt that allows you to practice real-life foreign language conversations with an AI by customizing scenarios and difficulty levels."
+description: " \"A role-playing prompt that allows you to practice real-life foreign language conversations with an AI by customizing scenarios and difficulty levels.\""
 tags: ["English Conversation", "Foreign Language Study", "Roleplay"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "명상 가이드: 내 기분에 맞는 명상 스크립트 생성"
+title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "멘탈 케어"
-description: "Cuando no puedes dormir, estás enfadado o necesitas concentrarte. La IA genera y te lee un guion de meditación guiada adaptado a tu estado de ánimo actual."
+description: " \"Cuando no puedes dormir, estás enfadado o necesitas concentrarte. La IA genera y te lee un guion de meditación guiada adaptado a tu estado de ánimo actual.\""
 tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
 ---
 

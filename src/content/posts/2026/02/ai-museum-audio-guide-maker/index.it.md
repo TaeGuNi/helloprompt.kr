@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creatore di Audioguida Museale IA: Curatore nella Mia Mano"
+title: " \"Creatore di Audioguida Museale IA: Curatore nella Mia Mano\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Scopri come risparmiare sul noleggio dell'audioguida al museo. Scatta una foto all'opera d'arte e lascia che l'IA te la spieghi nel dettaglio."
+description: " \"Scopri come risparmiare sul noleggio dell'audioguida al museo. Scatta una foto all'opera d'arte e lascia che l'IA te la spieghi nel dettaglio.\""
 tags:
   [
     "Museo",

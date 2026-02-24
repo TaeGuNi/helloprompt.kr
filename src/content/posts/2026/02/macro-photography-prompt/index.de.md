@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Welt der Super-Nahaufnahme 'Macro Photography' Prompt"
+title: " \"Welt der Super-Nahaufnahme 'Macro Photography' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Makro-Aufnahme-Prompt, der winzige Details einfängt, die für das Auge unsichtbar sind."
+description: " \"Makro-Aufnahme-Prompt, der winzige Details einfängt, die für das Auge unsichtbar sind.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Details"]
 ---
 

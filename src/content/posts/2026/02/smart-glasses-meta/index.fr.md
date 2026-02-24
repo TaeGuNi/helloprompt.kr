@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "L'IA portable s'infiltre dans notre quotidien. Analysons les facteurs de succès de Meta."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"L'IA portable s'infiltre dans notre quotidien. Analysons les facteurs de succès de Meta.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Duas Imagens em Uma 'Dupla Exposição'"
+title: " \"Duas Imagens em Uma 'Dupla Exposição'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Aprenda a técnica de dupla exposição para sobrepor imagens e criar artes surreais e misteriosas com Inteligência Artificial."
+description: " \"Aprenda a técnica de dupla exposição para sobrepor imagens e criar artes surreais e misteriosas com Inteligência Artificial.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Efeito", "Surrealismo"]
 ---
 

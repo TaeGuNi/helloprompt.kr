@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수"
+title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "Assuma o controle total da IA em jogos de palavras. Aprenda o prompt definitivo para criar um bot invencível de Palavra Puxa Palavra e nunca mais perca."
+description: " \"Assuma o controle total da IA em jogos de palavras. Aprenda o prompt definitivo para criar um bot invencível de Palavra Puxa Palavra e nunca mais perca.\""
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---
 

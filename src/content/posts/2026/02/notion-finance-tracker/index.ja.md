@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion 가계부 템플릿: 돈이 모이는 자동화 시스템"
+title: " \"Notion 가계부 템플릿: 돈이 모이는 자동화 시스템\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "재테크/투자"
-description: "エクセル家計簿はもう卒業。Notionの関数とリレーショナルデータベースを活用して、資産の流れを一目で把握する方法をご紹介します。"
+description: " \"エクセル家計簿はもう卒業。Notionの関数とリレーショナルデータベースを活用して、資産の流れを一目で把握する方法をご紹介します。\""
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Redigindo um Boletim Informativo Que Chama Assinantes"
+title: " \"Redigindo um Boletim Informativo Que Chama Assinantes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Basta inserir um tópico para gerar instantaneamente títulos, corpo do texto e curadoria de conteúdo."
+description: " \"Basta inserir um tópico para gerar instantaneamente títulos, corpo do texto e curadoria de conteúdo.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

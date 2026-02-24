@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Child Education Fund Plan: 10-Year Long-term Project"
+title: " \"Child Education Fund Plan: 10-Year Long-term Project\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "The tuition inflation rate outpaces standard inflation. Discover exactly how much you need to save for your child's college education."
+description: " \"The tuition inflation rate outpaces standard inflation. Discover exactly how much you need to save for your child's college education.\""
 tags: ["EducationCost", "Tuition", "Savings", "ChildPlan"]
 ---
 

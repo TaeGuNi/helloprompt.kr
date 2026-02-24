@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Studiare Come un Genio: Bot di Allenamento Tecnica Feynman"
+title: " \"Studiare Come un Genio: Bot di Allenamento Tecnica Feynman\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MetodoStudio/Auto-Sviluppo"
-description: "Il modo migliore per verificare di aver compreso appieno un concetto è spiegarlo ad altri. Insegnalo all'IA e ricevi un feedback immediato."
+description: " \"Il modo migliore per verificare di aver compreso appieno un concetto è spiegarlo ad altri. Insegnalo all'IA e ricevi un feedback immediato.\""
 tags: ["MetodoStudio", "TecnicaFeynman", "Metacognizione", "Educazione"]
 ---
 

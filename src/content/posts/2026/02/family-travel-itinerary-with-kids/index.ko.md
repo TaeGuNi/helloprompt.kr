@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아이와 함께라도 평화로운 가족 여행 일정 짜기"
+title: " \"아이와 함께라도 평화로운 가족 여행 일정 짜기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "여행 & 문화"
-description: "아이들의 체력과 부모님의 멘탈을 모두 지키는 마법의 가족 여행 프롬프트."
+description: " \"아이들의 체력과 부모님의 멘탈을 모두 지키는 마법의 가족 여행 프롬프트.\""
 tags: ["가족여행", "육아", "키즈존", "여행계획"]
 ---
 

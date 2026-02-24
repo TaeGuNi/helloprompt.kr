@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rotina de Treino HIIT Gerada por IA: Suar em 20 Minutos"
+title: " \"Rotina de Treino HIIT Gerada por IA: Suar em 20 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Com pouco tempo, mas querendo perder peso? A IA cria uma rotina inédita de Treinamento Intervalado de Alta Intensidade (HIIT) todos os dias para você."
+description: " \"Com pouco tempo, mas querendo perder peso? A IA cria uma rotina inédita de Treinamento Intervalado de Alta Intensidade (HIIT) todos os dias para você.\""
 tags: ["HIIT", "Tabata", "Dieta", "Exercício", "ChatGPT"]
 ---
 

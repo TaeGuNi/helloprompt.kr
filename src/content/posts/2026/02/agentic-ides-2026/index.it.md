@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "L'ascesa degli IDE Agentici: Come l'IA sta rimodellando la programmazione nel 2026"
+title: " \"L'ascesa degli IDE Agentici: Come l'IA sta rimodellando la programmazione nel 2026\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Nel 2026, il paradigma della programmazione è radicalmente cambiato. Scopri come padroneggiare gli IDE agentici che vanno oltre il semplice autocompletamento per pensare, progettare e scrivere codice in modo completamente autonomo."
+description: " \"Nel 2026, il paradigma della programmazione è radicalmente cambiato. Scopri come padroneggiare gli IDE agentici che vanno oltre il semplice autocompletamento per pensare, progettare e scrivere codice in modo completamente autonomo.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

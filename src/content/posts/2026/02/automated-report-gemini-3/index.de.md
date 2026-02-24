@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Pro로 주간 업무 보고서 1초 만에 끝내기"
+title: " \"Gemini 3 Pro로 주간 업무 보고서 1초 만에 끝내기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Erinnern Sie sich nicht mehr, was Sie diese Woche gemacht haben? Füttern Sie die KI einfach mit Slack-, Jira- und GitHub-Logs und erleben Sie das Wunder eines fertigen Berichts."
+description: " \"Erinnern Sie sich nicht mehr, was Sie diese Woche gemacht haben? Füttern Sie die KI einfach mit Slack-, Jira- und GitHub-Logs und erleben Sie das Wunder eines fertigen Berichts.\""
 tags: ["Gemini", "보고서", "직장인꿀팁", "생산성"]
 ---
 

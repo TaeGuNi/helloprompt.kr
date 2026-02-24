@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Extrayendo Insights de Datos Crudos"
+title: " \"Extrayendo Insights de Datos Crudos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Analiza datos crudos de Excel con IA para descubrir patrones ocultos y extraer insights accionables para tus informes."
+description: " \"Analiza datos crudos de Excel con IA para descubrir patrones ocultos y extraer insights accionables para tus informes.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

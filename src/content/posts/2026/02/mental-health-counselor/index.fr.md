@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mon Propre Conseiller Psychologique IA, Guide de Soins Mentaux pour le Soulagement du Stress"
+title: " \"Mon Propre Conseiller Psychologique IA, Guide de Soins Mentaux pour le Soulagement du Stress\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Confiez à l'IA les tracas que vous ne pouvez révéler à personne et retrouvez votre tranquillité d'esprit."
+description: " \"Confiez à l'IA les tracas que vous ne pouvez révéler à personne et retrouvez votre tranquillité d'esprit.\""
 tags: ["Soins Mentaux", "Stress", "Conseil Psychologique", "Guérison"]
 ---
 

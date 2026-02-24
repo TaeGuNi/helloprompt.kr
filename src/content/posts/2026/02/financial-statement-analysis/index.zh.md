@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "企业财务报表超高速分析提示词"
+title: " \"企业财务报表超高速分析提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "1分钟内提取复杂财务报表核心内容的股票投资必备提示词。"
+description: " \"1分钟内提取复杂财务报表核心内容的股票投资必备提示词。\""
 tags: ["股票", "财务报表", "基本面分析", "投资"]
 ---
 

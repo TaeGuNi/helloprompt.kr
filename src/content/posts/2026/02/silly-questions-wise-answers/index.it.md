@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rispondere Saggiamente a Domande Stupide: 'Perché le Formiche Sono Cicciottelle?' (Generatore Risposte Sagge)"
+title: " \"Rispondere Saggiamente a Domande Stupide: 'Perché le Formiche Sono Cicciottelle?' (Generatore Risposte Sagge)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Poni una domanda assurda. L'IA ti sorprenderà con una risposta filosofica o scientifica che farebbe invidia a Socrate."
+description: " \"Poni una domanda assurda. L'IA ti sorprenderà con una risposta filosofica o scientifica che farebbe invidia a Socrate.\""
 tags: ["Umorismo", "Curiosità", "Filosofia", "Scienza", "Creatività"]
 ---
 

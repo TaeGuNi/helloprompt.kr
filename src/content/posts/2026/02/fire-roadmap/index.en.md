@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FIRE Tribe Roadmap: The 4% Rule for Early Retirement"
+title: " \"FIRE Tribe Roadmap: The 4% Rule for Early Retirement\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Simulate your path to financial freedom by calculating your FIRE number and estimated retirement timeline."
+description: " \"Simulate your path to financial freedom by calculating your FIRE number and estimated retirement timeline.\""
 tags: ["FIRE", "EarlyRetirement", "FinancialFreedom", "Finance"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "创建 Slack 机器人：推荐'午餐吃什么？'的企业内部机器人"
+title: " \"创建 Slack 机器人：推荐'午餐吃什么？'的企业内部机器人\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "办公自动化"
-description: "无需开发知识，教您如何连接 Slack Workflow Builder 和 AI，打造团队专属的午餐推荐小助手。"
+description: " \"无需开发知识，教您如何连接 Slack Workflow Builder 和 AI，打造团队专属的午餐推荐小助手。\""
 tags: ["Slack", "聊天机器人", "自动化", "企业文化"]
 ---
 

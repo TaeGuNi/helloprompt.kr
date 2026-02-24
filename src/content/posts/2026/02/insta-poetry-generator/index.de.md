@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kurzpoesie (Insta Poetry) Generator für Shorts/Reels"
+title: " \"Kurzpoesie (Insta Poetry) Generator für Shorts/Reels\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbies"
-description: "Erstelle emotionale, kurze Poesie für Social Media, die in Sekundenbruchteilen berührt und für mehr Engagement sorgt."
+description: " \"Erstelle emotionale, kurze Poesie für Social Media, die in Sekundenbruchteilen berührt und für mehr Engagement sorgt.\""
 tags: ["Instagram", "Poesie", "EmotionalerText", "SNS", "Inhalt"]
 ---
 

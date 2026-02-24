@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Títulos de Entradas de Blog Que Llama a los Clics"
+title: " \"Generador de Títulos de Entradas de Blog Que Llama a los Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Crea títulos de blog irresistibles que duplican tus visitas. La IA los genera automáticamente aplicando psicología persuasiva."
+description: " \"Crea títulos de blog irresistibles que duplican tus visitas. La IA los genera automáticamente aplicando psicología persuasiva.\""
 tags: ["Blog", "Marketing de Contenidos", "SEO", "Redacción Publicitaria"]
 ---
 

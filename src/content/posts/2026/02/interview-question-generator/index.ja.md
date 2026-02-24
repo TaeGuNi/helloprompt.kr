@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "面接質問リスト、AIが代わりに選んで差し上げます"
+title: " \"面接質問リスト、AIが代わりに選んで差し上げます\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "応募者の力量を的確に見抜く、鋭い面接質問生成プロンプト。"
+description: " \"応募者の力量を的確に見抜く、鋭い面接質問生成プロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Previniendo la Resolución de Tres Días: Gerente de Aprendizaje 1:1 de IA"
+title: " \"Previniendo la Resolución de Tres Días: Gerente de Aprendizaje 1:1 de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudio/Autodesarrollo"
-description: "Un prompt que crea un plan de estudio realista ajustado a tu objetivo y tiempo disponible, asumiendo la responsabilidad de mantener tu motivación en lo más alto."
+description: " \"Un prompt que crea un plan de estudio realista ajustado a tu objetivo y tiempo disponible, asumiendo la responsabilidad de mantener tu motivación en lo más alto.\""
 tags: ["PlanEstudio", "Planificador", "Motivación", "GestiónTiempo"]
 ---
 

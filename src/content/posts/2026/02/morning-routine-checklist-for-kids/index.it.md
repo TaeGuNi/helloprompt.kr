@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fine della Guerra del Mattino! Checklist della Routine Mattutina Autonoma"
+title: " \"Fine della Guerra del Mattino! Checklist della Routine Mattutina Autonoma\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Scopri come aiutare tuo figlio a prepararsi da solo ogni mattina senza dover più alzare la voce."
+description: " \"Scopri come aiutare tuo figlio a prepararsi da solo ogni mattina senza dover più alzare la voce.\""
 tags:
   [
     "Genitorialità",

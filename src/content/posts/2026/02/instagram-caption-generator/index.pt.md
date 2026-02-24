@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Legendas do Instagram Que Chama Curtidas"
+title: " \"Gerador de Legendas do Instagram Que Chama Curtidas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Crie legendas envolventes e hashtags perfeitas automaticamente quando a foto já está escolhida, mas as palavras simplesmente não vêm."
+description: " \"Crie legendas envolventes e hashtags perfeitas automaticamente quando a foto já está escolhida, mas as palavras simplesmente não vêm.\""
 tags: ["Instagram", "Marketing SNS", "Copywriting", "Mídia Social"]
 ---
 

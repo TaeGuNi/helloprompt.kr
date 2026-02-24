@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dominating the Market with Competitor Analysis Framework"
+title: " \"Dominating the Market with Competitor Analysis Framework\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Uncover your competitors' strengths and weaknesses to identify actionable benchmarking points."
+description: " \"Uncover your competitors' strengths and weaknesses to identify actionable benchmarking points.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

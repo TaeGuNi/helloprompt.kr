@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Torcendo Clichê: Transformando Final Óbvio em Reviravolta Chocante"
+title: " \"Torcendo Clichê: Transformando Final Óbvio em Reviravolta Chocante\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Descubra como criar reviravoltas chocantes que surpreendem o leitor ao subverter clichês narrativos familiares."
+description: " \"Descubra como criar reviravoltas chocantes que surpreendem o leitor ao subverter clichês narrativos familiares.\""
 tags: ["Romance", "Reviravolta", "Ideia", "Narrativa"]
 ---
 

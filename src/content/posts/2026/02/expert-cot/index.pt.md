@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando a IA age de forma estúpida: Use 'Cadeia de Pensamento (CoT)'"
+title: " \"Quando a IA age de forma estúpida: Use 'Cadeia de Pensamento (CoT)'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Engenharia de Prompt"
-description: "A IA responde bem a perguntas simples, mas falha na lógica complexa? Aprenda a técnica CoT usada pelo top 1% dos engenheiros de prompt."
+description: " \"A IA responde bem a perguntas simples, mas falha na lógica complexa? Aprenda a técnica CoT usada pelo top 1% dos engenheiros de prompt.\""
 tags: ["CoT", "Pensamento Lógico", "Resolução de Problemas"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs aux Causes Inconnues, Laissez Faire le Détective IA"
+title: " \"Bugs aux Causes Inconnues, Laissez Faire le Détective IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Confiez à l'IA les bugs dont vous ne trouvez pas la cause. Une simple trace de pile et un extrait de code suffisent pour qu'elle mène l'enquête."
+description: " \"Confiez à l'IA les bugs dont vous ne trouvez pas la cause. Une simple trace de pile et un extrait de code suffisent pour qu'elle mène l'enquête.\""
 tags: ["Débogage", "Correction de Bug", "Dépannage", "Résolution d'Erreur"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록을 Jira 티켓으로 자동 변환하기"
+title: " \"회의록을 Jira 티켓으로 자동 변환하기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "프로젝트 관리"
-description: "1시간짜리 회의 녹취록을 단 10초 만에 완벽한 Jira 티켓으로 변환하는 마법 같은 프롬프트를 소개합니다."
+description: " \"1시간짜리 회의 녹취록을 단 10초 만에 완벽한 Jira 티켓으로 변환하는 마법 같은 프롬프트를 소개합니다.\""
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 

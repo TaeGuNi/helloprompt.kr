@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Echtes Mock-Interview' Simulation mit von Interviewer besessener KI"
+title: " \"'Echtes Mock-Interview' Simulation mit von Interviewer besessener KI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verleihen Sie der KI die Persona eines strengen Interviewers und trainieren Sie den Umgang mit bohrenden Nachfragen unter realistischen Bedingungen."
+description: " \"Verleihen Sie der KI die Persona eines strengen Interviewers und trainieren Sie den Umgang mit bohrenden Nachfragen unter realistischen Bedingungen.\""
 tags: ["MockInterview", "InterviewÜbung", "KIInterviewer", "JobVorbereitung"]
 ---
 

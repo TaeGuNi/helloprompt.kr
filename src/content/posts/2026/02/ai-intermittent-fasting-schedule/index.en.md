@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Intermittent Fasting Schedule: Boosting Success Rate by 200%"
+title: " \"AI Intermittent Fasting Schedule: Boosting Success Rate by 200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Design an intermittent fasting schedule perfectly tailored to your lifestyle, complete with AI-generated tips for conquering fasting hours."
+description: " \"Design an intermittent fasting schedule perfectly tailored to your lifestyle, complete with AI-generated tips for conquering fasting hours.\""
 tags: ["Intermittent Fasting", "Diet", "Health", "ChatGPT", "Routine"]
 ---
 

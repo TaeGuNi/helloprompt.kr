@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wahrzeichen-Geschichts-Crashkurs: Sehen, was man weiß"
+title: " \"Wahrzeichen-Geschichts-Crashkurs: Sehen, was man weiß\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Der Moment, in dem aus toten Steinen lebendige Geschichte wird. Ein KI-Dozent, der auf komplexe Erklärungen verzichtet und direkt zum spannenden Kern vordringt."
+description: " \"Der Moment, in dem aus toten Steinen lebendige Geschichte wird. Ein KI-Dozent, der auf komplexe Erklärungen verzichtet und direkt zum spannenden Kern vordringt.\""
 tags:
   ["Geschichtsreise", "Geisteswissenschaften", "Wahrzeichen", "Wissensreise"]
 ---

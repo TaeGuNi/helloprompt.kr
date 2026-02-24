@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷"
+title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "매일 반복되는 엑셀 복붙과 파일 취합 업무, 파이썬(Python) 10줄로 1초 만에 끝내는 완벽한 프롬프트 가이드입니다."
+description: " \"매일 반복되는 엑셀 복붙과 파일 취합 업무, 파이썬(Python) 10줄로 1초 만에 끝내는 완벽한 프롬프트 가이드입니다.\""
 tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 ---
 

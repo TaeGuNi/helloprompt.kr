@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "테스트 코드 짜기 귀찮죠? AI가 대신 짜드립니다"
+title: " \"테스트 코드 짜기 귀찮죠? AI가 대신 짜드립니다\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.112Z"
 updatedDate: "2026-02-07T09:10:33.112Z"
 category: "개발"
-description: "작성하기 번거로운 단위 테스트(Unit Test)를 엣지 케이스까지 완벽하게 고려하여 1분 만에 자동 생성하는 실전 프롬프트입니다."
+description: " \"작성하기 번거로운 단위 테스트(Unit Test)를 엣지 케이스까지 완벽하게 고려하여 1분 만에 자동 생성하는 실전 프롬프트입니다.\""
 tags: ["테스트코드", "TDD", "Jest", "JUnit"]
 ---
 

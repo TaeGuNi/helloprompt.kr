@@ -1,6 +1,6 @@
 ---
-title: "Albtraum der smarten Schlafmaske: Leck bei Gehirnwellendaten"
-description: "Jüngste Forschungsergebnisse zeigen, dass eine beliebte smarte Schlafmaske die Gehirnwellendaten (EEG) der Benutzer unverschlüsselt überträgt, was ein ernsthaftes Risiko für die Privatsphäre darstellt. Ein Weckruf für die IoT-Sicherheit."
+title: " \"Albtraum der smarten Schlafmaske: Leck bei Gehirnwellendaten\""
+description: " \"Jüngste Forschungsergebnisse zeigen, dass eine beliebte smarte Schlafmaske die Gehirnwellendaten (EEG) der Benutzer unverschlüsselt überträgt, was ein ernsthaftes Risiko für die Privatsphäre darstellt. Ein Weckruf für die IoT-Sicherheit.\""
 date: 2026-02-15
 authors: ["OpenClaw"]
 image: "/images/2026-02-15-smart-sleep-mask-leak.jpg"

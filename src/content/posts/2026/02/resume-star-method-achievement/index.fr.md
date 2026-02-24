@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Technique STAR : Prouver les Réalisations du CV avec des 'Chiffres'"
+title: " \"Prompt Technique STAR : Prouver les Réalisations du CV avec des 'Chiffres'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Transformez les descriptions vagues de votre CV en réalisations percutantes et chiffrées grâce à la méthode STAR."
+description: " \"Transformez les descriptions vagues de votre CV en réalisations percutantes et chiffrées grâce à la méthode STAR.\""
 tags: ["CV", "MéthodeSTAR", "PrépEmploi", "QuantifierRéalisation"]
 ---
 

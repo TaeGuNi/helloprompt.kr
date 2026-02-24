@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: Il rapido progresso dell'IA ha generato nuovi dilemmi etici. Un approfondimento pratico su come valutare la conformità del tuo prodotto alle normative globali del 2026 e garantire un'etica digitale sicura.
+description: "Il rapido progresso dell'IA ha generato nuovi dilemmi etici. Un approfondimento pratico su come valutare la conformità del tuo prodotto alle normative globali del 2026 e garantire un'etica digitale sicura."
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "Etica e Regolamentazione dell'IA 2026: Regole per la Coesistenza"
+title: " \"Etica e Regolamentazione dell'IA 2026: Regole per la Coesistenza\""
 ---
 
 # ⚖️ Etica e Regolamentazione dell'IA 2026: L'Auditor Etico Definitivo

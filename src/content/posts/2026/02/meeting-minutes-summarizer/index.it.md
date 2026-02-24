@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Riassumere Verbali di Riunione Divaganti in Ordine"
+title: " \"Riassumere Verbali di Riunione Divaganti in Ordine\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Hai trascritto l'audio di una riunione ma il testo è troppo lungo e frammentato? Usa questo prompt per estrarre solo i punti chiave e le azioni da intraprendere."
+description: " \"Hai trascritto l'audio di una riunione ma il testo è troppo lungo e frammentato? Usa questo prompt per estrarre solo i punti chiave e le azioni da intraprendere.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

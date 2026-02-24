@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nation and Political System Setting: Realistic Fantasy World"
+title: " \"Nation and Political System Setting: Realistic Fantasy World\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A simple kingdom is boring. Design a nation with a 3D political system like a theocracy or a merchant republic."
+description: " \"A simple kingdom is boring. Design a nation with a 3D political system like a theocracy or a merchant republic.\""
 tags: ["Universe", "Politics", "Nation", "Fantasy", "Setting"]
 ---
 

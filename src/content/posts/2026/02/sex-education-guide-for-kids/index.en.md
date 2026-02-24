@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sex Education Guide for Kids: How to Answer 'Where Do Babies Come From?'"
+title: " \"Sex Education Guide for Kids: How to Answer 'Where Do Babies Come From?'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A practical guide to explaining sex education to children accurately and beautifully, without avoiding the tough questions."
+description: " \"A practical guide to explaining sex education to children accurately and beautifully, without avoiding the tough questions.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

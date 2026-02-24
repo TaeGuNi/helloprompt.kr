@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "教导分享与关爱：给孩子的道德故事"
+title: " \"教导分享与关爱：给孩子的道德故事\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "一个关于改变贪婪孩子的“魔法糖果”故事，让分享成为快乐的源泉。"
+description: " \"一个关于改变贪婪孩子的“魔法糖果”故事，让分享成为快乐的源泉。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Investment Feasibility Analysis: NPV & IRR Auto-Calculation Excel"
+title: " \"Investment Feasibility Analysis: NPV & IRR Auto-Calculation Excel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Wondering if a new project is worth the investment? Learn how to effortlessly calculate the Net Present Value (NPV) and Internal Rate of Return (IRR) using Excel."
+description: " \"Wondering if a new project is worth the investment? Learn how to effortlessly calculate the Net Present Value (NPV) and Internal Rate of Return (IRR) using Excel.\""
 tags: ["Excel", "InvestmentAnalysis", "NPV", "IRR"]
 ---
 

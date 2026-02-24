@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 점심 뭐 먹지? AI 도시락 플래너"
+title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강"
-description: "冷蔵庫の残り物を使って10分で作れる、超簡単なヘルシーお弁当レシピAIプランナー。"
+description: " \"冷蔵庫の残り物を使って10分で作れる、超簡単なヘルシーお弁当レシピAIプランナー。\""
 tags: ["점심", "도시락", "요리", "건강식"]
 ---
 

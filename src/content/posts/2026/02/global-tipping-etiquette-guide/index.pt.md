@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia Global de Etiqueta de Gorjetas: Devo Dar Gorjeta ou Não?"
+title: " \"Guia Global de Etiqueta de Gorjetas: Devo Dar Gorjeta ou Não?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem e Cultura"
-description: "EUA 20%? Japão 0? Deixe a IA esclarecer a confusa cultura global de gorjetas e viaje sem estresse."
+description: " \"EUA 20%? Japão 0? Deixe a IA esclarecer a confusa cultura global de gorjetas e viaje sem estresse.\""
 tags:
   [
     "Cultura de Gorjeta",

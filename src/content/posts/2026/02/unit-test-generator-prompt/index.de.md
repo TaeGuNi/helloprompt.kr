@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Testcode schreiben, ein Prompt, der in 5 Minuten fertig ist"
+title: " \"Testcode schreiben, ein Prompt, der in 5 Minuten fertig ist\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Überlassen Sie das mühsame Schreiben von Unit-Tests einfach der KI und erreichen Sie mühelos 100 % Testabdeckung!"
+description: " \"Überlassen Sie das mühsame Schreiben von Unit-Tests einfach der KI und erreichen Sie mühelos 100 % Testabdeckung!\""
 tags: ["Testcode", "TDD", "Jest", "PyTest", "QA"]
 ---
 

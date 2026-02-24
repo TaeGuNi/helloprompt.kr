@@ -1,6 +1,6 @@
 ---
-title: "AX现实的真相：企业幻觉"
-description: "对AX现实的深度剖析：所谓的AX（AI转型）往往只是毫无价值的企业级幻觉。"
+title: " \"AX现实的真相：企业幻觉\""
+description: " \"对AX现实的深度剖析：所谓的AX（AI转型）往往只是毫无价值的企业级幻觉。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

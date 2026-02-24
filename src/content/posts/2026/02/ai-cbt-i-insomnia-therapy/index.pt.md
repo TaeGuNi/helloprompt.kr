@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Terapia de Insônia TCC-I com IA: Curando a Insônia Sem Medicamentos"
+title: " \"Terapia de Insônia TCC-I com IA: Curando a Insônia Sem Medicamentos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Pratique TCC-I (Terapia Cognitivo-Comportamental para Insônia), a maneira mais certa de tratar a insônia sem pílulas para dormir, com IA."
+description: " \"Pratique TCC-I (Terapia Cognitivo-Comportamental para Insônia), a maneira mais certa de tratar a insônia sem pílulas para dormir, com IA.\""
 tags: ["Insônia", "TCC-I", "Terapia do Sono", "Cuidado Mental", "ChatGPT"]
 ---
 

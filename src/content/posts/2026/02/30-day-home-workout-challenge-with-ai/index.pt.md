@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desafio de Treino em Casa de 30 Dias com IA: Escapando da Desistência no 3º Dia"
+title: " \"Desafio de Treino em Casa de 30 Dias com IA: Escapando da Desistência no 3º Dia\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Um milagre feito apenas com o peso do corpo, no conforto de casa e sem equipamentos. Deixe a IA criar uma rotina de 30 dias que evolui com você diariamente."
+description: " \"Um milagre feito apenas com o peso do corpo, no conforto de casa e sem equipamentos. Deixe a IA criar uma rotina de 30 dias que evolui com você diariamente.\""
 tags:
   [
     "Treino em Casa",

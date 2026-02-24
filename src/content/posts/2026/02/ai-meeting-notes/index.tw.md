@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Traditional Chinese)"
-description: "會議記錄自動化：效率提升與隱私考量的完美平衡"
+title: " \"Automated Meeting Notes (Traditional Chinese)\""
+description: " \"會議記錄自動化：效率提升與隱私考量的完美平衡\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

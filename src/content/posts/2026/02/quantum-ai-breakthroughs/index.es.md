@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI: Early Breakthroughs (es)"
-description: "Análisis de los primeros avances de la IA Cuántica y su impacto en el futuro."
+title: " \"Quantum AI: Early Breakthroughs (es)\""
+description: " \"Análisis de los primeros avances de la IA Cuántica y su impacto en el futuro.\""
 date: "2026-02-14"
 ---
 

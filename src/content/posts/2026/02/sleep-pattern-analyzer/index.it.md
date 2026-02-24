@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuggire dall'Insonnia! Analisi Modelli Sonno IA e Guida al Buon Sonno"
+title: " \"Fuggire dall'Insonnia! Analisi Modelli Sonno IA e Guida al Buon Sonno\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Niente più notti insonni. Analizza le mie abitudini di vita per ricevere soluzioni ottimali per il sonno."
+description: " \"Niente più notti insonni. Analizza le mie abitudini di vita per ricevere soluzioni ottimali per il sonno.\""
 tags: ["Sonno", "Insonnia", "Salute", "Stile di Vita"]
 ---
 

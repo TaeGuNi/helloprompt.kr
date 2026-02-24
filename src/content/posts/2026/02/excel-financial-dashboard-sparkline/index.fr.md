@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tableau de Bord Financier Excel : Rapportez avec des Images, Pas des Nombres"
+title: " \"Tableau de Bord Financier Excel : Rapportez avec des Images, Pas des Nombres\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Fini les tableaux Excel illisibles. Créez un tableau de bord visuel percutant que votre manager adorera au premier coup d'œil grâce aux Sparklines et à la Mise en forme conditionnelle."
+description: " \"Fini les tableaux Excel illisibles. Créez un tableau de bord visuel percutant que votre manager adorera au premier coup d'œil grâce aux Sparklines et à la Mise en forme conditionnelle.\""
 tags: ["Excel", "TableauDeBord", "Visualisation", "Rapport"]
 ---
 

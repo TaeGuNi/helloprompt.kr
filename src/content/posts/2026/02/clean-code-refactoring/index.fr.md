@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mon Code est Nul ! Coach de Refactorisation Clean Code"
+title: " \"Mon Code est Nul ! Coach de Refactorisation Clean Code\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt qui transforme votre code brouillon, mais fonctionnel, en un code propre, facile à lire et à maintenir."
+description: " \"Un prompt qui transforme votre code brouillon, mais fonctionnel, en un code propre, facile à lire et à maintenir.\""
 tags: ["Refactorisation", "CleanCode", "Développeur", "RevisiónCode"]
 ---
 

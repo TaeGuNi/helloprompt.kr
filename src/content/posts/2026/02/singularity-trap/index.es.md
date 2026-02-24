@@ -1,6 +1,6 @@
 ---
-title: "La trampa de la singularidad"
-description: "Análisis crítico de la trampa de la singularidad: La Singularidad es un mito de marketing para vender GPUs."
+title: " \"La trampa de la singularidad\""
+description: " \"Análisis crítico de la trampa de la singularidad: La Singularidad es un mito de marketing para vender GPUs.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

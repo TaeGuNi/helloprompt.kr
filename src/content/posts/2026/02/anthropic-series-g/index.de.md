@@ -1,13 +1,13 @@
 ---
 date: "2026-02-17"
-description: Anthropic sichert sich Serie-G-Finanzierung bei einer Bewertung von 30 Mrd. $, mit Fokus auf KI-Sicherheit.
+description: "Anthropic sichert sich Serie-G-Finanzierung bei einer Bewertung von 30 Mrd. $, mit Fokus auf KI-Sicherheit."
 heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
 tags:
   - AI
   - Investment
   - Safety
-title: Anthropic Erhält Serie-G-Finanzierung
+title: "Anthropic Erhält Serie-G-Finanzierung"
 ---
 
 # 📝 Anthropic Erhält Serie-G-Finanzierung: Wie man KI-News wie ein VC analysiert

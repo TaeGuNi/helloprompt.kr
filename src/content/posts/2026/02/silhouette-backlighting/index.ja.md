@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "強烈なシルエット「Backlighting」逆光活用法"
+title: " \"強烈なシルエット「Backlighting」逆光活用法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "被写体を暗く処理して形態美と雰囲気を強調する逆光(Silhouette)プロンプトです。"
+description: " \"被写体を暗く処理して形態美と雰囲気を強調する逆光(Silhouette)プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

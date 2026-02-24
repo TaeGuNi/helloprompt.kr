@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sequência de Yoga Personalizada para Corpos Rígidos: Professor de IA"
+title: " \"Sequência de Yoga Personalizada para Corpos Rígidos: Professor de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Corpo rígido e com vergonha de ir a um estúdio de yoga? Relaxe suavemente no conforto de casa com seu próprio professor de yoga alimentado por IA."
+description: " \"Corpo rígido e com vergonha de ir a um estúdio de yoga? Relaxe suavemente no conforto de casa com seu próprio professor de yoga alimentado por IA.\""
 tags: ["Ioga", "Alongamento", "Flexibilidade", "Treino em Casa", "ChatGPT"]
 ---
 

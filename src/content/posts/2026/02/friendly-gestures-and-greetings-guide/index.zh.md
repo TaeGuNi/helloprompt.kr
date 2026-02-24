@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "友好手势和问候指南：不要被误解"
+title: " \"友好手势和问候指南：不要被误解\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "因为错误的手势差点惹出麻烦？掌握容易引起误解的手势与最受欢迎的当地问候方式。"
+description: " \"因为错误的手势差点惹出麻烦？掌握容易引起误解的手势与最受欢迎的当地问候方式。\""
 tags: ["问候", "肢体语言", "手势", "文化交流"]
 ---
 

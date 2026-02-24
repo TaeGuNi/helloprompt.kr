@@ -1,6 +1,6 @@
 ---
-title: "System Prompts 2026: L'Arte di Persona e Vincoli"
-description: "Oltre la semplice assegnazione di ruoli: come scrivere system prompts nel 2026. Dai tag XML all'iniezione dinamica del contesto."
+title: " \"System Prompts 2026: L'Arte di Persona e Vincoli\""
+description: " \"Oltre la semplice assegnazione di ruoli: come scrivere system prompts nel 2026. Dai tag XML all'iniezione dinamica del contesto.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

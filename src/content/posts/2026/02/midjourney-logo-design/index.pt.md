@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Design de Logo no Midjourney: Crie um Logo de $1000 em 10 Segundos"
+title: " \"Design de Logo no Midjourney: Crie um Logo de $1000 em 10 Segundos\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Arte/Design com IA"
-description: "Logos para startups, ícones de apps, perfis de YouTube... Como gerar conceitos no Midjourney antes de contratar um designer."
+description: " \"Logos para startups, ícones de apps, perfis de YouTube... Como gerar conceitos no Midjourney antes de contratar um designer.\""
 tags: ["Midjourney", "Logo", "Design", "Branding", "Arte com IA"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "基础设施是AI的唯一真理"
-description: "深度剖析基础设施的真相：在AI狂潮中，只有英伟达（NVIDIA）在真正赚钱。"
+title: " \"基础设施是AI的唯一真理\""
+description: " \"深度剖析基础设施的真相：在AI狂潮中，只有英伟达（NVIDIA）在真正赚钱。\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

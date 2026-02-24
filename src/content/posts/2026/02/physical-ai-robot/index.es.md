@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "La investigación de inteligencia artificial de LG se une a la robótica. El futuro de la IA Física liderado por EXAONE."
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"La investigación de inteligencia artificial de LG se une a la robótica. El futuro de la IA Física liderado por EXAONE.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

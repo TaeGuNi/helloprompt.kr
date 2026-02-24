@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 팀 티보우(Tim Tebow)처럼 포기하지 않는 멘탈: AI로 나만의 '동기부여 코치' 만들기"
+title: " \"🏈 팀 티보우(Tim Tebow)처럼 포기하지 않는 멘탈: AI로 나만의 '동기부여 코치' 만들기\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"
-description: "포기를 모르는 팀 티보우의 마인드셋을 AI 프롬프트로 이식하여, 지칠 때마다 나를 멘탈 케어해주는 전담 코치를 만들어보세요."
+description: " \"포기를 모르는 팀 티보우의 마인드셋을 AI 프롬프트로 이식하여, 지칠 때마다 나를 멘탈 케어해주는 전담 코치를 만들어보세요.\""
 tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
 ---
 

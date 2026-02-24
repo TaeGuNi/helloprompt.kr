@@ -1,6 +1,6 @@
 ---
-title: "La crisi sociale dell'IA"
-description: "Analisi critica della crisi sociale dell'IA: i sostituti artificiali stanno distruggendo i veri legami umani."
+title: " \"La crisi sociale dell'IA\""
+description: " \"Analisi critica della crisi sociale dell'IA: i sostituti artificiali stanno distruggendo i veri legami umani.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

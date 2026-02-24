@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Proyecto Vida Divina! Escritura de Planificador Semanal con IA"
+title: " \"¡Proyecto Vida Divina! Escritura de Planificador Semanal con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diaria"
-description: "¿Tienes mucho que hacer pero no logras organizarte? Crea un horario perfecto basado en prioridades."
+description: " \"¿Tienes mucho que hacer pero no logras organizarte? Crea un horario perfecto basado en prioridades.\""
 tags: ["Planificador", "Programador", "Gestión del Tiempo", "Productividad"]
 ---
 

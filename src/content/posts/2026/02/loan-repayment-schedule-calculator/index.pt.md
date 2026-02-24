@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cronograma de Reembolso de Empréstimo: Principal e Juros Iguais vs Principal Igual"
+title: " \"Cronograma de Reembolso de Empréstimo: Principal e Juros Iguais vs Principal Igual\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Crie uma calculadora de juros de empréstimo diretamente no Excel, sem depender de simuladores bancários."
+description: " \"Crie uma calculadora de juros de empréstimo diretamente no Excel, sem depender de simuladores bancários.\""
 tags: ["Excel", "JurosEmpréstimo", "FunçãoFinanceira", "PMT"]
 ---
 

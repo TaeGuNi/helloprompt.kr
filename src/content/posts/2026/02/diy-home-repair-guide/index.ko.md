@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "출장비 아끼는 AI 집수리 가이드 (초보자용)"
+title: " \"출장비 아끼는 AI 집수리 가이드 (초보자용)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "변기 뚫기부터 전등 교체, 실리콘 쏘기까지. 똥손도 가능한 셀프 수리 프롬프트로 출장비 10만원을 아끼세요."
+description: " \"변기 뚫기부터 전등 교체, 실리콘 쏘기까지. 똥손도 가능한 셀프 수리 프롬프트로 출장비 10만원을 아끼세요.\""
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 

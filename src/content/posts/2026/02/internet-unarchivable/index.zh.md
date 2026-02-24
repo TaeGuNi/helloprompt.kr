@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "随着动态内容、单页应用（SPA）和封闭生态系统的激增，保存开放网络历史变得越来越困难。在此为您提供专属提示词，完美存档即将消失的网页，将其永久保存在您的本地知识库中。"
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"随着动态内容、单页应用（SPA）和封闭生态系统的激增，保存开放网络历史变得越来越困难。在此为您提供专属提示词，完美存档即将消失的网页，将其永久保存在您的本地知识库中。\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ The Internet is Becoming Unarchivable
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "网络档案库"
 date: "2026-02-15"
 tags: ["动态内容", "SPA", "封闭平台"]

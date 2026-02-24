@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kleiderordnung für religiöse Stätten: Keine Shorts?"
+title: " \"Kleiderordnung für religiöse Stätten: Keine Shorts?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Tempel, Kathedralen, Moscheen... Wie wird man nicht an der Tür abgewiesen? Der ultimative KI-Guide zur Kleiderordnung für heilige Orte."
+description: " \"Tempel, Kathedralen, Moscheen... Wie wird man nicht an der Tür abgewiesen? Der ultimative KI-Guide zur Kleiderordnung für heilige Orte.\""
 tags: ["Kleiderordnung", "Religiöse Kultur", "Tempelbesuch", "Reisekleidung"]
 ---
 

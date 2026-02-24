@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quand l'IA agit bêtement : Utilisez la « Chaîne de Pensée (CoT) »"
+title: " \"Quand l'IA agit bêtement : Utilisez la « Chaîne de Pensée (CoT) »\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "L'IA répond-elle bien aux questions simples mais échoue-t-elle face à une logique complexe ? Découvrez la technique CoT utilisée par le top 1 % des ingénieurs de prompts."
+description: " \"L'IA répond-elle bien aux questions simples mais échoue-t-elle face à une logique complexe ? Découvrez la technique CoT utilisée par le top 1 % des ingénieurs de prompts.\""
 tags: ["CoT", "Pensée Logique", "Résolution de Problèmes"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유(Self-Healing) CI/CD 파이프라인 구축하기"
-description: "Erfahren Sie, wie Sie GitHub Actions und KI-Agenten kombinieren, um Lint-Fehler und fehlgeschlagene Tests automatisch zu beheben – inklusive Tipps zur Vermeidung von Endlosschleifen bei Commits."
+title: " \"잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유(Self-Healing) CI/CD 파이프라인 구축하기\""
+description: " \"Erfahren Sie, wie Sie GitHub Actions und KI-Agenten kombinieren, um Lint-Fehler und fehlgeschlagene Tests automatisch zu beheben – inklusive Tipps zur Vermeidung von Endlosschleifen bei Commits.\""
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags: ["DevOps", "CI/CD", "GitHub Actions", "AI Agent", "Automation"]

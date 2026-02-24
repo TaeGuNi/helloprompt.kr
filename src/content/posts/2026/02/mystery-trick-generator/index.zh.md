@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "神秘推理游戏: 犯人和诡计生成 (Mystery Trick Generator)"
+title: " \"神秘推理游戏: 犯人和诡计生成 (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "让 AI 为您设计连柯南和金田一也会拍案叫绝的奇特密室诡计与完美不在场证明。"
+description: " \"让 AI 为您设计连柯南和金田一也会拍案叫绝的奇特密室诡计与完美不在场证明。\""
 tags: ["推理", "神秘", "诡计", "小说", "剧本"]
 ---
 

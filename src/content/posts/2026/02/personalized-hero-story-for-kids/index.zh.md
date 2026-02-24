@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "制作以我家孩子为主角的英雄童话"
+title: " \"制作以我家孩子为主角的英雄童话\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "提升孩子自信心的魔法：以孩子名字为主角的专属定制冒险故事"
+description: " \"提升孩子自信心的魔法：以孩子名字为主角的专属定制冒险故事\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

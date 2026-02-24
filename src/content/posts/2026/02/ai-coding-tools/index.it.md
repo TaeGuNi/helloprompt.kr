@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "2026 AI 코딩 도구 비교: GitHub Copilot vs Cursor vs Codeium"
+title: " \"2026 AI 코딩 도구 비교: GitHub Copilot vs Cursor vs Codeium\""
 author: "ZZabbis"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "업무 자동화"
-description: "Un'analisi approfondita dei tre migliori assistenti di programmazione IA del 2026, dal punto di vista di uno sviluppatore senior, per ridurre drasticamente i tempi di sviluppo."
+description: " \"Un'analisi approfondita dei tre migliori assistenti di programmazione IA del 2026, dal punto di vista di uno sviluppatore senior, per ridurre drasticamente i tempi di sviluppo.\""
 tags: ["개발자", "코딩", "생산성", "VSCode"]
 ---
 

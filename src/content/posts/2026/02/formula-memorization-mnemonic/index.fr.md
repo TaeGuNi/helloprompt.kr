@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Formules Immémorisables, Tatouage sur le Cerveau"
+title: " \"Formules Immémorisables, Tatouage sur le Cerveau\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: "Un prompt infaillible pour mémoriser à vie les formules mathématiques et scientifiques complexes grâce au storytelling et aux moyens mnémotechniques."
+description: " \"Un prompt infaillible pour mémoriser à vie les formules mathématiques et scientifiques complexes grâce au storytelling et aux moyens mnémotechniques.\""
 tags: ["MéthodeMémorisation", "Mnémonique", "MéthodeÉtude", "Prompt"]
 ---
 

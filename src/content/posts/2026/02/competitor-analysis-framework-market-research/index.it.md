@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dominare il Mercato con il Framework di Analisi della Concorrenza"
+title: " \"Dominare il Mercato con il Framework di Analisi della Concorrenza\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Analizza a fondo i punti di forza e di debolezza dei tuoi concorrenti per individuare le migliori opportunità di benchmarking."
+description: " \"Analizza a fondo i punti di forza e di debolezza dei tuoi concorrenti per individuare le migliori opportunità di benchmarking.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

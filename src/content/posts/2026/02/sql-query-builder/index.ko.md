@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다"
+title: " \"복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "데이터"
-description: "JOIN, GROUP BY, Window Function 등 헷갈리는 SQL 문법, 더 이상 구글링하지 말고 AI에게 맡겨보세요."
+description: " \"JOIN, GROUP BY, Window Function 등 헷갈리는 SQL 문법, 더 이상 구글링하지 말고 AI에게 맡겨보세요.\""
 tags: ["SQL", "데이터분석", "쿼리"]
 ---
 

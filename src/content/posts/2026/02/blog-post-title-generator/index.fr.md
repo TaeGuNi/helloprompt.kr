@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Titres d'Articles de Blog Qui Appelle aux Clics"
+title: " \"Générateur de Titres d'Articles de Blog Qui Appelle aux Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Des titres de blog magnétiques qui doublent vos vues. L'IA génère les accroches parfaites à partir de vos mots-clés."
+description: " \"Des titres de blog magnétiques qui doublent vos vues. L'IA génère les accroches parfaites à partir de vos mots-clés.\""
 tags: ["Blog", "Marketing de Contenu", "SEO", "Rédaction Publicitaire"]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) Prompting: Maximizing AI Reasoning Capabilities"
+title: " \"Chain-of-Thought (CoT) Prompting: Maximizing AI Reasoning Capabilities\""
 date: "2026-02-15"
-description: "Discover how Chain-of-Thought prompting helps large language models solve complex problems step-by-step, and learn how to enhance AI reasoning capabilities."
+description: " \"Discover how Chain-of-Thought prompting helps large language models solve complex problems step-by-step, and learn how to enhance AI reasoning capabilities.\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

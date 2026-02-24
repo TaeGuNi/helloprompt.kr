@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "移动端本地 LLM：苹果 M6 芯片带来的变革"
-description: "从技术角度分析苹果最新的 M6 芯片如何彻底改变移动设备上的本地大语言模型 (LLM) 运行体验。"
+title: " \"移动端本地 LLM：苹果 M6 芯片带来的变革\""
+description: " \"从技术角度分析苹果最新的 M6 芯片如何彻底改变移动设备上的本地大语言模型 (LLM) 运行体验。\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 ---

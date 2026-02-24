@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿La IA no te entiende? Usa 'Delimitadores'"
+title: " \"¿La IA no te entiende? Usa 'Delimitadores'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Ingeniería de Prompts"
-description: "¿La IA se confunde al resumir textos largos o corregir código? Usa la técnica de delimitadores para separar secciones y duplicar tu precisión."
+description: " \"¿La IA se confunde al resumir textos largos o corregir código? Usa la técnica de delimitadores para separar secciones y duplicar tu precisión.\""
 tags: ["Delimitadores", "Legibilidad", "Etiquetas XML"]
 ---
 

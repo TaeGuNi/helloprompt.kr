@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt d'Analyse Ultra-Rapide des États Financiers"
+title: " \"Prompt d'Analyse Ultra-Rapide des États Financiers\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Un prompt indispensable pour l'investissement boursier qui résume les points clés des états financiers complexes en une minute."
+description: " \"Un prompt indispensable pour l'investissement boursier qui résume les points clés des états financiers complexes en une minute.\""
 tags: ["Action", "ÉtatFinancier", "AnalyseFondamentale", "Investissement"]
 ---
 

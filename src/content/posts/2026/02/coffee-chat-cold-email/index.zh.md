@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "咖啡聊天冷邮件提示词：无拒绝的社交"
+title: " \"咖啡聊天冷邮件提示词：无拒绝的社交\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "职业与跳槽"
-description: "当你想向在职人员寻求建议或建立联系时，发送一封礼貌的、能引诱回复的冷DM（私信）。"
+description: " \"当你想向在职人员寻求建议或建立联系时，发送一封礼貌的、能引诱回复的冷DM（私信）。\""
 tags: ["咖啡聊天", "冷邮件", "社交", "指导"]
 ---
 

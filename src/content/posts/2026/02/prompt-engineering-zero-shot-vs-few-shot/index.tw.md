@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Traditional Chinese)"
-description: "Few-shot prompting drastically improves reliability for complex reasoning tasks."
+title: " \"Zero Shot vs Few Shot Prompting (Traditional Chinese)\""
+description: " \"Few-shot prompting drastically improves reliability for complex reasoning tasks.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

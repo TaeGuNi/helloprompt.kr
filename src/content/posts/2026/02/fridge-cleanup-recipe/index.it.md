@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pulizia Frigo, Rinato con la Ricetta di uno Chef"
+title: " \"Pulizia Frigo, Rinato con la Ricetta di uno Chef\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita"
-description: "Un prompt salvavita per evitare sprechi: inserisci gli ingredienti avanzati nel frigo e ottieni ricette creative e deliziose degne di uno chef."
+description: " \"Un prompt salvavita per evitare sprechi: inserisci gli ingredienti avanzati nel frigo e ottieni ricette creative e deliziose degne di uno chef.\""
 tags: ["Cucina", "Ricetta", "Consigli di Vita"]
 ---
 

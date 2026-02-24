@@ -1,5 +1,5 @@
 ---
-title: "Enterprise AI Reality: Myths vs. Tools"
+title: " \"Enterprise AI Reality: Myths vs. Tools\""
 date: 2026-02-14
 tags: ["business", "productivity"]
 image: "https://source.unsplash.com/random/1600x900/?office,computer"

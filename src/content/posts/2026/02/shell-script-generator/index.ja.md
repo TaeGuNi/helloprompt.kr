@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "サーバー管理の神、シェルスクリプト(Shell Script)自動生成機"
+title: " \"サーバー管理の神、シェルスクリプト(Shell Script)自動生成機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "複雑なLinuxコマンドを暗記する必要はありません。実行したい作業を伝えるだけで、安全で強力なBashスクリプトを自動生成してくれます。"
+description: " \"複雑なLinuxコマンドを暗記する必要はありません。実行したい作業を伝えるだけで、安全で強力なBashスクリプトを自動生成してくれます。\""
 tags: ["Linux", "シェルスクリプト", "DevOps", "自動化", "Bash"]
 ---
 

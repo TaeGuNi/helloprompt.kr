@@ -3,14 +3,14 @@ categories:
   - AI News
   - Technology
 date: "2026-02-13"
-description: AI代理撰写的文章引发了争议。探讨自动化新闻生成时代所需的新闻伦理和指导方针。
+description: "AI代理撰写的文章引发了争议。探讨自动化新闻生成时代所需的新闻伦理和指导方针。"
 image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics
   - Journalism
   - AI Agents
-title: AI 代理与新闻伦理：新的辩论
+title: "AI 代理与新闻伦理：新的辩论"
 ---
 
 # 📝 AI 代理与新闻伦理：自动化时代的底线与审查指南

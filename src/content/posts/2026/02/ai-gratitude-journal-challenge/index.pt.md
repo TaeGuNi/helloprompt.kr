@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desafio de Diário de Gratidão com IA: A Maneira Mais Fácil para a Felicidade"
+title: " \"Desafio de Diário de Gratidão com IA: A Maneira Mais Fácil para a Felicidade\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "A palavra 'obrigado' pode mudar a estrutura do seu cérebro. Construa o hábito de encontrar e registrar pequenas felicidades diárias com a ajuda da IA."
+description: " \"A palavra 'obrigado' pode mudar a estrutura do seu cérebro. Construa o hábito de encontrar e registrar pequenas felicidades diárias com a ajuda da IA.\""
 tags:
   [
     "Diário de Gratidão",

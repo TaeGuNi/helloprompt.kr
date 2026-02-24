@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Intérprete de Indicador Auxiliar de Gráfico: Pegando o Momento de Compra"
+title: " \"Intérprete de Indicador Auxiliar de Gráfico: Pegando o Momento de Compra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "A IA interpreta facilmente indicadores gráficos complexos, como RSI, MACD e Bandas de Bollinger."
+description: " \"A IA interpreta facilmente indicadores gráficos complexos, como RSI, MACD e Bandas de Bollinger.\""
 tags: ["Ações", "AnáliseGráfico", "AnáliseTécnica", "Trading"]
 ---
 

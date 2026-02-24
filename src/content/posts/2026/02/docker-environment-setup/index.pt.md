@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configuração de Ambiente Docker, 3 Minutos com Um Arquivo de Configuração"
+title: " \"Configuração de Ambiente Docker, 3 Minutos com Um Arquivo de Configuração\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que gera automaticamente o Dockerfile e o docker-compose.yml para padronizar qualquer ambiente de aplicação em contêineres de forma ágil e segura."
+description: " \"Um prompt que gera automaticamente o Dockerfile e o docker-compose.yml para padronizar qualquer ambiente de aplicação em contêineres de forma ágil e segura.\""
 tags: ["Docker", "Contêiner", "Implantação", "DevOps"]
 ---
 

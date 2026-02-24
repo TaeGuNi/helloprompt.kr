@@ -1,10 +1,10 @@
 ---
 date: "2026-02-13"
-description: Verbesserte Sensoren, besseres Wetterhandling und sanfteres Fahrverhalten.
+description: "Verbesserte Sensoren, besseres Wetterhandling und sanfteres Fahrverhalten."
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo beginnt vollautonomen Betrieb mit Fahrer der 6. Generation
+title: "Waymo beginnt vollautonomen Betrieb mit Fahrer der 6. Generation"
 ---
 
 # 📝 Waymo beginnt vollautonomen Betrieb mit Fahrer der 6. Generation

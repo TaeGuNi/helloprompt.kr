@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interprete di Indicatori Ausiliari del Grafico: Catturare il Momento di Acquisto"
+title: " \"Interprete di Indicatori Ausiliari del Grafico: Catturare il Momento di Acquisto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "L'IA interpreta facilmente indicatori grafici complessi come RSI, MACD e Bande di Bollinger per individuare il momento d'acquisto perfetto."
+description: " \"L'IA interpreta facilmente indicatori grafici complessi come RSI, MACD e Bande di Bollinger per individuare il momento d'acquisto perfetto.\""
 tags: ["Azioni", "AnalisiGrafico", "AnalisiTecnica", "Trading"]
 ---
 

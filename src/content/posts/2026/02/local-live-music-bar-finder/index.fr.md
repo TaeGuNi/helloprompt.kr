@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Trouveur de Bars à Musique Live Locaux : Découvrir des Lieux Hipster"
+title: " \"Trouveur de Bars à Musique Live Locaux : Découvrir des Lieux Hipster\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Fini la musique d'ambiance ennuyeuse des restaurants attrape-touristes. Embarquez pour un voyage musical et ressentez l'énergie des musiciens locaux."
+description: " \"Fini la musique d'ambiance ennuyeuse des restaurants attrape-touristes. Embarquez pour un voyage musical et ressentez l'énergie des musiciens locaux.\""
 tags:
   [
     "Voyage Musical",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jeu de Nettoyage : La Magie de Transformer le Rangement en un Jeu Amusant"
+title: " \"Jeu de Nettoyage : La Magie de Transformer le Rangement en un Jeu Amusant\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Stratégies de ludification pour transformer le rangement d'une chambre en désordre en un jeu amusant de 10 minutes."
+description: " \"Stratégies de ludification pour transformer le rangement d'une chambre en désordre en un jeu amusant de 10 minutes.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

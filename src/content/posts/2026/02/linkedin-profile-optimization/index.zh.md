@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn个人资料优化提示词：吸引猎头"
+title: " \"LinkedIn个人资料优化提示词：吸引猎头\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "职业与跳槽"
-description: "通过编写具备SEO优势的标题和引人注目的“关于”部分，让您的跳槽成功率提升10倍。"
+description: " \"通过编写具备SEO优势的标题和引人注目的“关于”部分，让您的跳槽成功率提升10倍。\""
 tags: ["LinkedIn", "个人资料优化", "猎头", "个人品牌"]
 ---
 

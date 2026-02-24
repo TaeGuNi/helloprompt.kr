@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduza Termos Legais Alienígenas Para Que Até Alunos do Ensino Fundamental Entendam"
+title: " \"Traduza Termos Legais Alienígenas Para Que Até Alunos do Ensino Fundamental Entendam\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Um prompt que traduz documentos jurídicos complexos, como contratos de locação e termos de serviço, para uma linguagem acessível e identifica cláusulas abusivas."
+description: " \"Um prompt que traduz documentos jurídicos complexos, como contratos de locação e termos de serviço, para uma linguagem acessível e identifica cláusulas abusivas.\""
 tags: ["Lei", "Contrato", "Lei da Vida"]
 ---
 

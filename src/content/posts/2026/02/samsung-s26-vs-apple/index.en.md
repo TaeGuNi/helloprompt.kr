@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generate a Tech Showdown: Galaxy S26 vs. iPhone 17 On-Device AI"
+title: " \"Generate a Tech Showdown: Galaxy S26 vs. iPhone 17 On-Device AI\""
 author: "ZZabbis"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Content Creation"
-description: "Use this powerful AI prompt to generate a detailed, technical comparison of the latest smartphone AI capabilities, saving you hours of research."
+description: " \"Use this powerful AI prompt to generate a detailed, technical comparison of the latest smartphone AI capabilities, saving you hours of research.\""
 tags:
   [
     "On-Device AI",

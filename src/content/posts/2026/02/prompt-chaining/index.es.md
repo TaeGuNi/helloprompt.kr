@@ -1,6 +1,6 @@
 ---
-title: "Encadenamiento de Prompts: El Fin del Prompt Único"
-description: "Los problemas complejos no se resuelven de una sola vez. El encadenamiento de prompts y los flujos de trabajo agénticos se han convertido en el estándar en 2026."
+title: " \"Encadenamiento de Prompts: El Fin del Prompt Único\""
+description: " \"Los problemas complejos no se resuelven de una sola vez. El encadenamiento de prompts y los flujos de trabajo agénticos se han convertido en el estándar en 2026.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]

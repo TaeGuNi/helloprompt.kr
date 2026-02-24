@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Freelancer-Steuersparguide: Steuererstattung verdoppeln"
+title: " \"Freelancer-Steuersparguide: Steuererstattung verdoppeln\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ein praktischer Leitfaden zur optimalen Vorbereitung auf die Einkommensteuererklärung für Freelancer und Selbstständige. Maximieren Sie Ihre Abzüge mit KI."
+description: " \"Ein praktischer Leitfaden zur optimalen Vorbereitung auf die Einkommensteuererklärung für Freelancer und Selbstständige. Maximieren Sie Ihre Abzüge mit KI.\""
 tags: ["Steuer", "Steuersparen", "Freelancer", "UmfassendeEinkommensteuer"]
 ---
 

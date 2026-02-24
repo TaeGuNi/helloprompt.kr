@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Maestro de Vocabulario en Inglés Aprendiendo con Contexto"
+title: " \"Maestro de Vocabulario en Inglés Aprendiendo con Contexto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizaje de Idiomas Extranjeros"
-description: "¡Basta de memorizar sin sentido! Descubre el prompt definitivo para dominar el vocabulario en inglés, entendiendo sus matices y contexto real."
+description: " \"¡Basta de memorizar sin sentido! Descubre el prompt definitivo para dominar el vocabulario en inglés, entendiendo sus matices y contexto real.\""
 tags: ["AprendizajeDeInglés", "MemorizaciónDePalabras", "Prompt", "Educación"]
 ---
 

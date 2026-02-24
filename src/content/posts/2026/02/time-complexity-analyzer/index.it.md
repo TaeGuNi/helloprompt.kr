@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Qual è la Complessità Temporale (Big O) del Mio Codice?"
+title: " \"Qual è la Complessità Temporale (Big O) del Mio Codice?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt per analizzare la complessità temporale (Big-O) e spaziale del tuo algoritmo e individuare colli di bottiglia nelle prestazioni."
+description: " \"Un prompt per analizzare la complessità temporale (Big-O) e spaziale del tuo algoritmo e individuare colli di bottiglia nelle prestazioni.\""
 tags:
   [
     "Algoritmo",

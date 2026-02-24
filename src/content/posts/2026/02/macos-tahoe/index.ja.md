@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe: ウィンドウサイズ変更をめぐる論争と変化"
-description: "macOS Tahoeアップデートによるウィンドウサイズ変更方式の変更と、それに対するユーザーの賛否両論について考察します。"
+title: " \"macOS Tahoe: ウィンドウサイズ変更をめぐる論争と変化\""
+description: " \"macOS Tahoeアップデートによるウィンドウサイズ変更方式の変更と、それに対するユーザーの賛否両論について考察します。\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

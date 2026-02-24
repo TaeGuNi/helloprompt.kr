@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calendario de Pago de Préstamos: Principal e Interés Igual vs Principal Igual"
+title: " \"Calendario de Pago de Préstamos: Principal e Interés Igual vs Principal Igual\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización de Trabajo"
-description: "Plantilla para calcular los intereses de tu préstamo directamente en Excel, sin depender de simuladores bancarios."
+description: " \"Plantilla para calcular los intereses de tu préstamo directamente en Excel, sin depender de simuladores bancarios.\""
 tags: ["Excel", "InterésPréstamo", "FunciónFinanciera", "PMT"]
 ---
 

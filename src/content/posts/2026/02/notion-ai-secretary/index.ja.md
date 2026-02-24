@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion AI秘書: 今日のToDo整理 & スケジュール自動化"
+title: " \"Notion AI秘書: 今日のToDo整理 & スケジュール自動化\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "生産性ツール"
-description: "P型（即興型）人間でもJ型（計画型）になれる魔法のプロンプト。Notion AIに脳内の雑多なToDoを投げ込むだけで、優先順位とスケジュールを自動で整理してくれます。"
+description: " \"P型（即興型）人間でもJ型（計画型）になれる魔法のプロンプト。Notion AIに脳内の雑多なToDoを投げ込むだけで、優先順位とスケジュールを自動で整理してくれます。\""
 tags: ["Notion", "NotionAI", "タスク管理", "生産性", "GTD"]
 ---
 

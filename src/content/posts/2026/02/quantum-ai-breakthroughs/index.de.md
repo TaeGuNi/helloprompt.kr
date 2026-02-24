@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI: Early Breakthroughs (de)"
-description: "Eine präzise Analyse der ersten Durchbrüche in der Quanten-KI und ein Prompt, um komplexe Quanten-Konzepte leicht verständlich zu machen."
+title: " \"Quantum AI: Early Breakthroughs (de)\""
+description: " \"Eine präzise Analyse der ersten Durchbrüche in der Quanten-KI und ein Prompt, um komplexe Quanten-Konzepte leicht verständlich zu machen.\""
 date: "2026-02-14"
 ---
 

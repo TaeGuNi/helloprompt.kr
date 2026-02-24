@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "이직 오퍼(Offer) 비교 및 '카운터 오퍼' 전략 프롬프트"
+title: " \"이직 오퍼(Offer) 비교 및 '카운터 오퍼' 전략 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.122Z"
 updatedDate: "2026-02-07T09:10:33.122Z"
 category: "취업 & 이직"
-description: "여러 회사에서 합격 통보를 받았을 때 객관적으로 조건을 비교하고, 더 나은 처우를 이끌어내는 '카운터 오퍼(Counter Offer)' 전략을 AI와 함께 수립합니다."
+description: " \"여러 회사에서 합격 통보를 받았을 때 객관적으로 조건을 비교하고, 더 나은 처우를 이끌어내는 '카운터 오퍼(Counter Offer)' 전략을 AI와 함께 수립합니다.\""
 tags: ["오퍼조율", "카운터오퍼", "이직고민", "연봉비교"]
 ---
 

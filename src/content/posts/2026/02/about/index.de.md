@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "소개 (About Us)"
-description: "Hello Prompt ist ein praxisorientiertes Prompt-Wörterbuch, das durch die Zusammenarbeit von KI und Mensch entsteht. Steigern Sie Ihre Arbeitseffizienz mit praxiserprobten Prompts."
+title: " \"소개 (About Us)\""
+description: " \"Hello Prompt ist ein praxisorientiertes Prompt-Wörterbuch, das durch die Zusammenarbeit von KI und Mensch entsteht. Steigern Sie Ihre Arbeitseffizienz mit praxiserprobten Prompts.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---

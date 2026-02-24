@@ -1,6 +1,6 @@
 ---
-title: "Prompt Injection Security Risks (Traditional Chinese)"
-description: "隨著 LLM 與外部工具的整合，提示詞注入 (Prompt Injection) 已成為最致命的安全漏洞。本文將教你如何防禦。"
+title: " \"Prompt Injection Security Risks (Traditional Chinese)\""
+description: " \"隨著 LLM 與外部工具的整合，提示詞注入 (Prompt Injection) 已成為最致命的安全漏洞。本文將教你如何防禦。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "일기 분석: 한 달치 일기 넣으면 내 심리 변화 그래프 그리기"
+title: " \"일기 분석: 한 달치 일기 넣으면 내 심리 변화 그래프 그리기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/회고"
-description: "La mia mente che nemmeno io conosco. Come trasformare il tuo diario in dati per visualizzare il flusso emotivo, le parole chiave principali e le cause di stress."
+description: " \"La mia mente che nemmeno io conosco. Come trasformare il tuo diario in dati per visualizzare il flusso emotivo, le parole chiave principali e le cause di stress.\""
 tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 ---
 

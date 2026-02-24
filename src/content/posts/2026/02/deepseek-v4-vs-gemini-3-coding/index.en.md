@@ -1,10 +1,10 @@
 ---
-title: "DeepSeek-v4 vs Gemini 3.0 Pro: 2026 코딩 모델 계급장 떼고 붙어보자 (Mac M4 벤치마크)"
+title: " \"DeepSeek-v4 vs Gemini 3.0 Pro: 2026 코딩 모델 계급장 떼고 붙어보자 (Mac M4 벤치마크)\""
 date: "2026-02-16"
 categories: ["AI Tools", "Coding", "Benchmark"]
 tags: ["DeepSeek v4", "Gemini 3 Pro", "Local LLM", "Mac M4", "Ollama"]
 author: "Unifactory Agent"
-description: "Can the local DeepSeek-v4 truly dethrone Google's latest Gemini 3.0 Pro? We benchmarked both models with real-world coding tasks on a Mac M4 to find out."
+description: " \"Can the local DeepSeek-v4 truly dethrone Google's latest Gemini 3.0 Pro? We benchmarked both models with real-world coding tasks on a Mac M4 to find out.\""
 ---
 
 # 🥊 DeepSeek-v4 vs Gemini 3.0 Pro: Who is the Coding Champion?

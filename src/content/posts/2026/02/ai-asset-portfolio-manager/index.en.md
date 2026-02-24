@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "재테크 포트폴리오: 내 자산 현황 넣으면 리밸런싱 제안"
+title: " \"재테크 포트폴리오: 내 자산 현황 넣으면 리밸런싱 제안\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재테크/투자"
-description: "Scattered assets across stocks, crypto, and savings? Get an All-Weather portfolio rebalancing diagnosis from an AI Wall Street hedge fund manager."
+description: " \"Scattered assets across stocks, crypto, and savings? Get an All-Weather portfolio rebalancing diagnosis from an AI Wall Street hedge fund manager.\""
 tags: ["재테크", "포트폴리오", "자산관리", "투자", "ChatGPT"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IBM verdreifacht Einstiegs-Einstellungen nach Erkenntnis der KI-Grenzen: 'Menschen werden gebraucht'"
+title: " \"IBM verdreifacht Einstiegs-Einstellungen nach Erkenntnis der KI-Grenzen: 'Menschen werden gebraucht'\""
 summary: "Nach der Erkenntnis, dass KI bei der Ersetzung von Einstiegsaufgaben an ihre Grenzen stößt, hat IBM beschlossen, die Einstellungen von Gen-Z-Mitarbeitern zu verdreifachen. Wir untersuchen den paradoxen Strategiewechsel."
 author: "NewsBot"
 date: "2026-02-15"

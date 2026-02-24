@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "반려 식물 진단: 시들한 잎 사진 보고 살려내기"
+title: " \"반려 식물 진단: 시들한 잎 사진 보고 살려내기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/식물"
-description: "La salvezza per i serial killer di piante! Ottieni una diagnosi precisa e una prescrizione su misura caricando una sola foto di foglie sbiadite, macchie o steli avvizziti."
+description: " \"La salvezza per i serial killer di piante! Ottieni una diagnosi precisa e una prescrizione su misura caricando una sola foto di foglie sbiadite, macchie o steli avvizziti.\""
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---
 

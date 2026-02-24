@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Nombres de Personajes de Novela (Coincidiendo Significado y Matiz)"
+title: " \"Generador de Nombres de Personajes de Novela (Coincidiendo Significado y Matiz)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Crea nombres memorables para tus personajes de novela que reflejen perfectamente su personalidad, origen y época."
+description: " \"Crea nombres memorables para tus personajes de novela que reflejen perfectamente su personalidad, origen y época.\""
 tags: ["Nombrar", "Personaje", "Novela", "CreaciónNombre", "Configuración"]
 ---
 

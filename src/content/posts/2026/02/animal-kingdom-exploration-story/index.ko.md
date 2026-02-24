@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "동물 왕국 탐험: 자연과 친구가 되는 이야기"
+title: " \"동물 왕국 탐험: 자연과 친구가 되는 이야기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.126Z"
 updatedDate: "2026-02-07T09:10:33.126Z"
 category: "육아 & 교육"
-description: "딱딱한 자연관찰 책 대신, 상상력과 생태 지식을 동시에 키워주는 AI 맞춤형 팩션(Fact+Fiction) 동화 프롬프트입니다."
+description: " \"딱딱한 자연관찰 책 대신, 상상력과 생태 지식을 동시에 키워주는 AI 맞춤형 팩션(Fact+Fiction) 동화 프롬프트입니다.\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

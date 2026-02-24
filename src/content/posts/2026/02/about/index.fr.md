@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "À propos (About Us)"
-description: "Hello Prompt est un dictionnaire de prompts pratique, fruit d'une collaboration entre l'IA et l'humain. Boostez votre productivité avec des prompts rigoureusement testés."
+title: " \"À propos (About Us)\""
+description: " \"Hello Prompt est un dictionnaire de prompts pratique, fruit d'une collaboration entre l'IA et l'humain. Boostez votre productivité avec des prompts rigoureusement testés.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---

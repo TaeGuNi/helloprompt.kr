@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Más Rápido que Papago! Hoja de Trucos de Conversación de Viaje Esencial por Situación"
+title: " \"¡Más Rápido que Papago! Hoja de Trucos de Conversación de Viaje Esencial por Situación\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "Desde pedir en restaurantes y hacer el registro en hoteles, hasta emergencias. Crea tarjetas de conversación prácticas que funcionan inmediatamente con los locales."
+description: " \"Desde pedir en restaurantes y hacer el registro en hoteles, hasta emergencias. Crea tarjetas de conversación prácticas que funcionan inmediatamente con los locales.\""
 tags: ["Viajes", "Idioma Extranjero", "Conversación", "Inglés", "Japonés"]
 ---
 

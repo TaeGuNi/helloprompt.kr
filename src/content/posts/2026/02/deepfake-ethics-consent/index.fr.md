@@ -1,9 +1,9 @@
 ---
-title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
+title: " \"딥페이크: 동의 없는 지옥과 윤리의 붕괴\""
 date: 2026-02-13
 image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
-description: "L'enfer éthique créé par les deepfakes non consentis. Découvrez un prompt puissant pour générer des directives éthiques sur les deepfakes, afin de protéger votre organisation et de prévenir les préjudices."
+description: " \"L'enfer éthique créé par les deepfakes non consentis. Découvrez un prompt puissant pour générer des directives éthiques sur les deepfakes, afin de protéger votre organisation et de prévenir les préjudices.\""
 ---
 
 # 📝 Prompt : Lignes Directrices Éthiques et Gestion de Crise face aux Deepfakes

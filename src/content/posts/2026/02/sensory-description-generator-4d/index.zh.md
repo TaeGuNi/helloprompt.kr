@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "刺激读者五感的背景描写转换器"
+title: " \"刺激读者五感的背景描写转换器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "将平淡无奇的说明文转化为调动五感（视觉、听觉、嗅觉、味觉、触觉）的生动描写的写作辅助工具。"
+description: " \"将平淡无奇的说明文转化为调动五感（视觉、听觉、嗅觉、味觉、触觉）的生动描写的写作辅助工具。\""
 tags: ["写作", "描写", "小说", "表现力"]
 ---
 

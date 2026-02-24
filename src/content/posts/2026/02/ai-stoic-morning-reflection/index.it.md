@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)
+title: "스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Self-Improvement
-description: Basta mattinate piene di ansia! Scopri il prompt AI per iniziare la giornata con la mentalità d'acciaio di Marco Aurelio.
+description: "Basta mattinate piene di ansia! Scopri il prompt AI per iniziare la giornata con la mentalità d'acciaio di Marco Aurelio."
 tags: [AI, ChatGPT, Stoicism, Mindset]
 ---
 

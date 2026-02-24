@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 뒤죽박죽 할 일 목록, 우선순위 정리 끝!"
+title: " \"AI로 뒤죽박죽 할 일 목록, 우선순위 정리 끝!\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "不再为“先做什么”而烦恼！让 AI 助手为你精准梳理工作优先级。"
+description: " \"不再为“先做什么”而烦恼！让 AI 助手为你精准梳理工作优先级。\""
 tags: ["To-Do", "우선순위", "ChatGPT", "생산성"]
 ---
 

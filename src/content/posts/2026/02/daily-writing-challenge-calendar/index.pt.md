@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desafio de Escrita Diária: Auto-Gerar Calendário de Tópicos de Escrita de 30 Dias"
+title: " \"Desafio de Escrita Diária: Auto-Gerar Calendário de Tópicos de Escrita de 30 Dias\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Quer construir um hábito de escrita? Deixe a IA planejar um calendário de 30 dias com tópicos personalizados para os seus interesses."
+description: " \"Quer construir um hábito de escrita? Deixe a IA planejar um calendário de 30 dias com tópicos personalizados para os seus interesses.\""
 tags: ["Escrita", "Hábito", "Desafio", "Autodesenvolvimento"]
 ---
 

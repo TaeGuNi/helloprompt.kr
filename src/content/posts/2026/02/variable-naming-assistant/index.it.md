@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Problema di Una Vita dello Sviluppatore 'Dare Nomi alle Variabili', l'IA lo Fa per Te"
+title: " \"Problema di Una Vita dello Sviluppatore 'Dare Nomi alle Variabili', l'IA lo Fa per Te\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Smetti di usare nomi di variabili senza senso come tmp, data, a... Ecco un prompt che ti consiglia nomi in inglese perfetti e contestualizzati per variabili e funzioni."
+description: " \"Smetti di usare nomi di variabili senza senso come tmp, data, a... Ecco un prompt che ti consiglia nomi in inglese perfetti e contestualizzati per variabili e funzioni.\""
 tags: ["Denominazione", "Clean Code", "Nome Variabile", "Studio Inglese"]
 ---
 

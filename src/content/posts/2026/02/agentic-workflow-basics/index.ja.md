@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ひとりでチームのように働く：AIエージェント・ワークフローの基礎"
+title: " \"ひとりでチームのように働く：AIエージェント・ワークフローの基礎\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "AIを単なるチャットボットではなく、有能な「同僚」として活用する「エージェント・ワークフロー（Agentic Workflow）」のコアプロンプトを公開します。"
+description: " \"AIを単なるチャットボットではなく、有能な「同僚」として活用する「エージェント・ワークフロー（Agentic Workflow）」のコアプロンプトを公開します。\""
 tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 ---
 

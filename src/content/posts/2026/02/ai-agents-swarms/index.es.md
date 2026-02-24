@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (es)"
-description: "Análisis práctico y detallado de los Agentes de IA 2.0: Cómo implementar enjambres colaborativos (Collaborative Swarms) en tu entorno de trabajo."
+title: " \"AI Agents 2.0: Collaborative Swarms (es)\""
+description: " \"Análisis práctico y detallado de los Agentes de IA 2.0: Cómo implementar enjambres colaborativos (Collaborative Swarms) en tu entorno de trabajo.\""
 date: "2026-02-14"
 ---
 

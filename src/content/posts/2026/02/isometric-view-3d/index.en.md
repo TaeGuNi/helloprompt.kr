@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cute Miniature World 'Isometric View' Prompt"
+title: " \"Cute Miniature World 'Isometric View' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Create three-dimensional, cute miniature worlds resembling 3D games or icons using the Isometric angle."
+description: " \"Create three-dimensional, cute miniature worlds resembling 3D games or icons using the Isometric angle.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 

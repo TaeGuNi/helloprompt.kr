@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的狗变了：AI 行为矫正专家"
+title: " \"我的狗变了：AI 行为矫正专家\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "宠物"
-description: "面对宠物的分离焦虑、异常吠叫或随地大小便，与其花高价请私教，不如利用 AI 获取专属的行为矫正计划。"
+description: " \"面对宠物的分离焦虑、异常吠叫或随地大小便，与其花高价请私教，不如利用 AI 获取专属的行为矫正计划。\""
 tags: ["宠物", "狗狗训练", "猫", "养宠指南"]
 ---
 

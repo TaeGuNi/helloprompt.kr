@@ -1,6 +1,6 @@
 ---
-title: "Fatigue de l'IA : Révolution ou déchets numériques ?"
-description: "En 2026, le public est fatigué du battage médiatique autour de l'IA. Découvrez comment détecter et transformer le « contenu poubelle » (AI Slop) en textes authentiques."
+title: " \"Fatigue de l'IA : Révolution ou déchets numériques ?\""
+description: " \"En 2026, le public est fatigué du battage médiatique autour de l'IA. Découvrez comment détecter et transformer le « contenu poubelle » (AI Slop) en textes authentiques.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

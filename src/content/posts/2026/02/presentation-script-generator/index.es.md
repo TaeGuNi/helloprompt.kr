@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Superando la Fobia a las Presentaciones! Creando Guiones de Presentación"
+title: " \"¡Superando la Fobia a las Presentaciones! Creando Guiones de Presentación\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Genera guiones de presentación naturales y persuasivos para cada diapositiva de tu PPT."
+description: " \"Genera guiones de presentación naturales y persuasivos para cada diapositiva de tu PPT.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

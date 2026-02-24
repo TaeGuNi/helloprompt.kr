@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Recomendação de Nome e Apelido de Canal do YouTube (YouTube Channel Naming)"
+title: " \"Recomendação de Nome e Apelido de Canal do YouTube (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Descubra o nome perfeito para o seu canal do YouTube! Nossa IA cria nomes cativantes e otimizados para o algoritmo para atrair mais inscritos."
+description: " \"Descubra o nome perfeito para o seu canal do YouTube! Nossa IA cria nomes cativantes e otimizados para o algoritmo para atrair mais inscritos.\""
 tags: ["YouTube", "NomeCanal", "Apelido", "Criador", "Nomeação"]
 ---
 

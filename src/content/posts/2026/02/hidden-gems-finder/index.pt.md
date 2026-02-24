@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vá Embora Viagem Clichê! Minhas Próprias Joias Escondidas Encontradas por IA"
+title: " \"Vá Embora Viagem Clichê! Minhas Próprias Joias Escondidas Encontradas por IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem"
-description: "Como descobrir lugares tranquilos sem turistas e explorar locais secretos que só você conhece."
+description: " \"Como descobrir lugares tranquilos sem turistas e explorar locais secretos que só você conhece.\""
 tags: ["Viagem", "Joias Escondidas", "Locais Escondidos", "Viagem Emocional"]
 ---
 

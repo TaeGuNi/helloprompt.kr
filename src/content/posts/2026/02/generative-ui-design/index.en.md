@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: "The era of fixed menus and buttons is over. Discover 'Generative UI' and the design prompts that create interfaces in real-time by understanding user intent."
+description: " \"The era of fixed menus and buttons is over. Discover 'Generative UI' and the design prompts that create interfaces in real-time by understanding user intent.\""
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Adaptive Design
   - No-UI
   - UX Trends
-title: "생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래"
+title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래\""
 ---
 
 # 🎨 Generative UI: The Future of Frictionless Interfaces

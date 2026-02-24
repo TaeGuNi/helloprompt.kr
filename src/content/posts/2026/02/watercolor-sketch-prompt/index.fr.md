@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Technique de 'Croquis Aquarelle' Claire et Transparente"
+title: " \"Technique de 'Croquis Aquarelle' Claire et Transparente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Un prompt d'aquarelle émotionnelle combinant l'effet d'étalement naturel de l'eau et la précision des lignes de croquis au crayon."
+description: " \"Un prompt d'aquarelle émotionnelle combinant l'effet d'étalement naturel de l'eau et la précision des lignes de croquis au crayon.\""
 tags:
   [
     "Midjourney",

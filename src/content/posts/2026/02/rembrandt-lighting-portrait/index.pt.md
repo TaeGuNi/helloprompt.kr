@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de 'Iluminação Rembrandt' Elevando a Qualidade do Retrato"
+title: " \"Técnica de 'Iluminação Rembrandt' Elevando a Qualidade do Retrato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de iluminação para criar retratos profundos e sérios como obras-primas."
+description: " \"Prompt de iluminação para criar retratos profundos e sérios como obras-primas.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Retrato", "Iluminação"]
 ---
 

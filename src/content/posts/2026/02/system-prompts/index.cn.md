@@ -1,6 +1,6 @@
 ---
-title: "系统提示词 2026：角色与约束的艺术"
-description: "超越简单的角色分配：2026年如何编写系统提示词。从XML标签到动态上下文注入。"
+title: " \"系统提示词 2026：角色与约束的艺术\""
+description: " \"超越简单的角色分配：2026年如何编写系统提示词。从XML标签到动态上下文注入。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

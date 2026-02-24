@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tecnica 'Illuminazione Volumetrica' (Raggi di Dio) Dove la Luce Si Riversa"
+title: " \"Tecnica 'Illuminazione Volumetrica' (Raggi di Dio) Dove la Luce Si Riversa\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Crea misteriosi e suggestivi fasci di luce (God Rays) che illuminano il pulviscolo nell'aria attraverso l'uso di prompt avanzati."
+description: " \"Crea misteriosi e suggestivi fasci di luce (God Rays) che illuminano il pulviscolo nell'aria attraverso l'uso di prompt avanzati.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Illuminazione", "Atmosfera"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prática de Reenquadramento Cognitivo com IA: Pare Pensamentos Negativos"
+title: " \"Prática de Reenquadramento Cognitivo com IA: Pare Pensamentos Negativos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Transforme a espiral de pensamentos negativos em energia positiva e planos de ação através do reenquadramento cognitivo com IA."
+description: " \"Transforme a espiral de pensamentos negativos em energia positiva e planos de ação através do reenquadramento cognitivo com IA.\""
 tags: ["Cuidado Mental", "TCC", "Reenquadramento", "Autoafirmação", "ChatGPT"]
 ---
 

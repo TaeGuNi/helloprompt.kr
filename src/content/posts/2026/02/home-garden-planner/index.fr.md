@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Fini de tuer vos plantes ! De la recommandation de la plante idéale selon votre ensoleillement, au sauvetage d'urgence de vos pots mourants : découvrez votre nouveau majordome végétal IA."
+description: " \"Fini de tuer vos plantes ! De la recommandation de la plante idéale selon votre ensoleillement, au sauvetage d'urgence de vos pots mourants : découvrez votre nouveau majordome végétal IA.\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

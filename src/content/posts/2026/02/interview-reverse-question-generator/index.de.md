@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview Letzte Ultimative Waffe! 'Rückfrage'-Generator, um Interviewer zu fragen"
+title: " \"Interview Letzte Ultimative Waffe! 'Rückfrage'-Generator, um Interviewer zu fragen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Generieren Sie intelligente Rückfragen für das Vorstellungsgespräch, die Ihr aufrichtiges Interesse am Unternehmen und Ihre fachliche Expertise unterstreichen."
+description: " \"Generieren Sie intelligente Rückfragen für das Vorstellungsgespräch, die Ihr aufrichtiges Interesse am Unternehmen und Ihre fachliche Expertise unterstreichen.\""
 tags: ["Rückfrage", "InterviewTipp", "LetzteWorte", "Unternehmensanalyse"]
 ---
 

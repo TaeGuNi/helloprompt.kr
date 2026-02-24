@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida di Viaggio per Trovare Gemme Nascoste Locali: Oltre i Luoghi Turistici"
+title: " \"Guida di Viaggio per Trovare Gemme Nascoste Locali: Oltre i Luoghi Turistici\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Stanco dei luoghi affollati dai turisti? Scopri come scovare le vere gemme nascoste locali che non compaiono nemmeno sulle mappe."
+description: " \"Stanco dei luoghi affollati dai turisti? Scopri come scovare le vere gemme nascoste locali che non compaiono nemmeno sulle mappe.\""
 tags: ["Luoghi Nascosti", "Viaggio Locale", "Posti Nascosti", "Esplorazione"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Weekend Deleted! AI OTT Content Custom Recommendation Guide"
+title: " \"Weekend Deleted! AI OTT Content Custom Recommendation Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Staring at the Netflix main screen for an hour? Let AI analyze your taste and find your next all-time favorite without fail."
+description: " \"Staring at the Netflix main screen for an hour? Let AI analyze your taste and find your next all-time favorite without fail.\""
 tags: ["Netflix", "Movie Recommendation", "OTT", "Drama"]
 ---
 

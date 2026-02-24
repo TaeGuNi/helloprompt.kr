@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esqueça Excel VLOOKUP: Deus da Correspondência de Dados Financeiros, XLOOKUP"
+title: " \"Esqueça Excel VLOOKUP: Deus da Correspondência de Dados Financeiros, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Trabalhando horas extras devido ao VLOOKUP ser propenso a erros e lento? Mude para o XLOOKUP, uma função mais poderosa e fácil."
+description: " \"Trabalhando horas extras devido ao VLOOKUP ser propenso a erros e lento? Mude para o XLOOKUP, uma função mais poderosa e fácil.\""
 tags: ["Excel", "Função", "XLOOKUP", "LimpezaDados"]
 ---
 

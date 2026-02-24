@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyzing Verbose Customer Feedback, Positive/Negative"
+title: " \"Analyzing Verbose Customer Feedback, Positive/Negative\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Instantly organize and analyze hundreds of customer reviews using AI-driven sentiment analysis."
+description: " \"Instantly organize and analyze hundreds of customer reviews using AI-driven sentiment analysis.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: Technology
 date: "2026-02-17"
-description: "OpenAI가 개발자 생산성을 위해 설계된 경량화 고성능 모델 GPT-5.3 Codex Spark를 공개했습니다. 15ms 미만의 지연 시간과 향상된 컨텍스트 이해력을 갖췄습니다."
+description: " \"OpenAI가 개발자 생산성을 위해 설계된 경량화 고성능 모델 GPT-5.3 Codex Spark를 공개했습니다. 15ms 미만의 지연 시간과 향상된 컨텍스트 이해력을 갖췄습니다.\""
 draft: false
 published: 2026-02-13
 tags:
@@ -10,7 +10,7 @@ tags:
   - Codex
   - OpenAI
   - Development
-title: "GPT-5.3 Codex Spark: 개발자를 위한 초고속 코딩 AI"
+title: " \"GPT-5.3 Codex Spark: 개발자를 위한 초고속 코딩 AI\""
 ---
 
 # 📝 GPT-5.3 Codex Spark: 개발자를 위한 초고속 코딩 AI

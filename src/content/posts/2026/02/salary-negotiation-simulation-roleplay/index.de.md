@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ich Will Es Erhöhen! 'Gehaltsverhandlung' Simulations-Rollenspiel"
+title: " \"Ich Will Es Erhöhen! 'Gehaltsverhandlung' Simulations-Rollenspiel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Simuliert eine nervenaufreibende Gehaltsverhandlung mit einer KI als HR-Manager, um die Argumente und Strategien zu finden, die Ihre Gehaltserhöhung maximieren."
+description: " \"Simuliert eine nervenaufreibende Gehaltsverhandlung mit einer KI als HR-Manager, um die Argumente und Strategien zu finden, die Ihre Gehaltserhöhung maximieren.\""
 tags:
   [
     "Gehaltsverhandlung",

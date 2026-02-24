@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Riporta in Vita il Tuo Canale Morto: La Formula da 1M di Visualizzazioni"
+title: " \"Riporta in Vita il Tuo Canale Morto: La Formula da 1M di Visualizzazioni\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"
-description: "Lascia che l'IA generi titoli e idee per miniature 'cliccabili'. Guarda il tuo CTR schizzare alle stelle."
+description: " \"Lascia che l'IA generi titoli e idee per miniature 'cliccabili'. Guarda il tuo CTR schizzare alle stelle.\""
 tags:
   [
     "YouTube",

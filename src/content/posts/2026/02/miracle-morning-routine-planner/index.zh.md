@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 미라클 모닝 루틴, AI로 설계하기
+title: "미라클 모닝 루틴, AI로 설계하기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: 告别三分钟热度的“奇迹早晨”！揭秘如何用 ChatGPT 为你量身定制专属的早晨微习惯。
+description: "告别三分钟热度的“奇迹早晨”！揭秘如何用 ChatGPT 为你量身定制专属的早晨微习惯。"
 tags: [AI, ChatGPT, Prompt]
 ---
 

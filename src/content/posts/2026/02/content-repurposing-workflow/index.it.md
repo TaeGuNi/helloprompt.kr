@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "블로그 글 하나로 인스타, 링크드인까지 (OSMU)"
+title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "콘텐츠 제작"
-description: "Prompt OSMU (One Source Multi-Use) basato sull'IA per trasformare un singolo articolo in 5 formati di contenuto diversi."
+description: " \"Prompt OSMU (One Source Multi-Use) basato sull'IA per trasformare un singolo articolo in 5 formati di contenuto diversi.\""
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 ---
 

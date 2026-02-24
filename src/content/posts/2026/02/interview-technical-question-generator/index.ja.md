@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "職務別「技術面接(Technical Interview)」予想質問生成器"
+title: " \"職務別「技術面接(Technical Interview)」予想質問生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "開発者、マーケター、デザイナーなど、自分の職務と年次に最適な技術面接の予想質問と模範解答を自動生成します。"
+description: " \"開発者、マーケター、デザイナーなど、自分の職務と年次に最適な技術面接の予想質問と模範解答を自動生成します。\""
 tags: ["技術面接", "専攻面接", "予想質問", "職務面接"]
 ---
 

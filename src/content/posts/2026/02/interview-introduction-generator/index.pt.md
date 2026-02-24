@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "면접 1분 자기소개 생성기: AI가 써주는 합격 대본"
+title: " \"면접 1분 자기소개 생성기: AI가 써주는 합격 대본\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "취업/이직"
-description: "Chega de apresentações clichês. Aprenda a criar um roteiro de introdução que destaque suas habilidades e experiências, capturando a atenção dos recrutadores logo no primeiro minuto."
+description: " \"Chega de apresentações clichês. Aprenda a criar um roteiro de introdução que destaque suas habilidades e experiências, capturando a atenção dos recrutadores logo no primeiro minuto.\""
 tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 ---
 

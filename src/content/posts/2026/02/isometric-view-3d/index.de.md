@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Niedliche Miniaturwelt 'Isometric View' Prompt"
+title: " \"Niedliche Miniaturwelt 'Isometric View' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Erstellen Sie dreidimensionale, niedliche Ansichten im Stil von 3D-Spielen oder Icons mit dem isometrischen Kamerawinkel."
+description: " \"Erstellen Sie dreidimensionale, niedliche Ansichten im Stil von 3D-Spielen oder Icons mit dem isometrischen Kamerawinkel.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "3D"]
 ---
 

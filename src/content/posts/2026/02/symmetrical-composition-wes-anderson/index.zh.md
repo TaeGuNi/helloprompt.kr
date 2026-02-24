@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "完美平衡美 'Symmetrical Composition' (对称构图)"
+title: " \"完美平衡美 'Symmetrical Composition' (对称构图)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "像韦斯·安德森电影一样左右完美对称的稳定且奇异的构图提示词。"
+description: " \"像韦斯·安德森电影一样左右完美对称的稳定且奇异的构图提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 ---
 

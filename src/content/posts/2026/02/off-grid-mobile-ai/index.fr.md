@@ -1,6 +1,6 @@
 ---
-title: "Off Grid : Exécutez l'IA texte, image et vision hors ligne sur votre mobile"
-description: "Découvrez Off Grid, un outil open source pour exécuter l'IA de texte, d'image et de vision hors ligne sur votre smartphone sans connexion Internet."
+title: " \"Off Grid : Exécutez l'IA texte, image et vision hors ligne sur votre mobile\""
+description: " \"Découvrez Off Grid, un outil open source pour exécuter l'IA de texte, d'image et de vision hors ligne sur votre smartphone sans connexion Internet.\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

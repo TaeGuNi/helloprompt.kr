@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "First Button of Interview, Attractive '1-Minute Self-Introduction' Writing Prompt"
+title: " \"First Button of Interview, Attractive '1-Minute Self-Introduction' Writing Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Generate a compelling 1-minute self-introduction script that highlights your core competencies and unique professional identity, avoiding overused clichés."
+description: " \"Generate a compelling 1-minute self-introduction script that highlights your core competencies and unique professional identity, avoiding overused clichés.\""
 tags: ["1MinSelfIntro", "InterviewPrep", "ElevatorPitch", "SelfIntroduction"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "夢のマイホームを描く：住みたい家の間取り図を設計"
+title: " \"夢のマイホームを描く：住みたい家の間取り図を設計\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "ライフ/リビング"
-description: "建築家は不要です。坪数、部屋数、スタイルを伝えるだけで、AIが間取り図（Floor Plan）を描き出す魔法のプロンプト。"
+description: " \"建築家は不要です。坪数、部屋数、スタイルを伝えるだけで、AIが間取り図（Floor Plan）を描き出す魔法のプロンプト。\""
 tags: ["インテリア", "建築", "図面", "Midjourney", "家づくり"]
 ---
 

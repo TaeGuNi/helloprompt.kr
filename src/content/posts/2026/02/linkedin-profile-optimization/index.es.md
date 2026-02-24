@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Optimización de Perfil de LinkedIn: Atrayendo Cazatalentos"
+title: " \"Prompt de Optimización de Perfil de LinkedIn: Atrayendo Cazatalentos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrera y Cambio de Trabajo"
-description: "Aumenta las ofertas de empleo en 10 veces escribiendo un Titular optimizado para búsquedas y una sección Acerca de convincente."
+description: " \"Aumenta las ofertas de empleo en 10 veces escribiendo un Titular optimizado para búsquedas y una sección Acerca de convincente.\""
 tags: ["LinkedIn", "Optimización de Perfil", "Cazatalentos", "Marca Personal"]
 ---
 

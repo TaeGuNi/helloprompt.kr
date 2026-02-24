@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "外语菜单阅读指南：像当地人一样点餐"
+title: " \"外语菜单阅读指南：像当地人一样点餐\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "告别盲盒式点餐！利用AI拍照翻译与成分分析，在海外餐厅像当地人一样轻松点餐的终极指南。"
+description: " \"告别盲盒式点餐！利用AI拍照翻译与成分分析，在海外餐厅像当地人一样轻松点餐的终极指南。\""
 tags: ["菜单阅读", "点餐", "外语菜单", "餐厅英语"]
 ---
 

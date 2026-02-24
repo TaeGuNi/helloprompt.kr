@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "테라폼(Terraform) IaC 코드 생성기"
+title: " \"테라폼(Terraform) IaC 코드 생성기\""
 author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"
-description: "Быстро и безопасно генерируйте production-ready Terraform модули для управления облачной инфраструктурой как кодом (IaC)."
+description: " \"Быстро и безопасно генерируйте production-ready Terraform модули для управления облачной инфраструктурой как кодом (IaC).\""
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 

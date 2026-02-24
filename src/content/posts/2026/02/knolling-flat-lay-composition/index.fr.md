@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esthétique de l'Organisation Style 'Knolling'"
+title: " \"Esthétique de l'Organisation Style 'Knolling'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Découvrez le prompt parfait pour la technique Knolling : organisez et photographiez des objets proprement à angle droit avec l'IA."
+description: " \"Découvrez le prompt parfait pour la technique Knolling : organisez et photographiez des objets proprement à angle droit avec l'IA.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

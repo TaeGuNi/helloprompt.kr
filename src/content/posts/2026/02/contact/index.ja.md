@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "문의하기 (Contact Us)"
-description: "Hello Promptチームへのご質問や、ビジネス提携に関するご提案はございませんか？"
+title: " \"문의하기 (Contact Us)\""
+description: " \"Hello Promptチームへのご質問や、ビジネス提携に関するご提案はございませんか？\""
 date: "2026-02-09"
 ---
 

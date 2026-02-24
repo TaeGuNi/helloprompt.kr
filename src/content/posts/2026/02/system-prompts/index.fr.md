@@ -1,6 +1,6 @@
 ---
-title: "Invites Système 2026 : L'Art des Personas et des Contraintes"
-description: "Au-delà de la simple attribution de rôle : Comment rédiger des invites système en 2026. Des balises XML à l'injection de contexte dynamique."
+title: " \"Invites Système 2026 : L'Art des Personas et des Contraintes\""
+description: " \"Au-delà de la simple attribution de rôle : Comment rédiger des invites système en 2026. Des balises XML à l'injection de contexte dynamique.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

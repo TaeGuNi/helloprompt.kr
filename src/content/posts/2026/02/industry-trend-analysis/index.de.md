@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Industrietrend-Analyse: Aufstrebende Märkte finden"
+title: " \"Industrietrend-Analyse: Aufstrebende Märkte finden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Wie Sie mithilfe von KI schnell wachsende Branchentrends analysieren und die profitabelsten Aktien frühzeitig entdecken."
+description: " \"Wie Sie mithilfe von KI schnell wachsende Branchentrends analysieren und die profitabelsten Aktien frühzeitig entdecken.\""
 tags: ["Aktie", "Industrieanalyse", "Trend", "Marktforschung"]
 ---
 

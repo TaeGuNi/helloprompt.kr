@@ -3,14 +3,14 @@ categories:
   - AI News
   - Technology
 date: "2026-02-13"
-description: Articles written by AI agents are causing controversy. We examine the journalism ethics and guidelines needed in the era of automated news generation.
+description: "Articles written by AI agents are causing controversy. We examine the journalism ethics and guidelines needed in the era of automated news generation."
 image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics
   - Journalism
   - AI Agents
-title: "AI Agents and Journalism Ethics: A New Debate"
+title: " \"AI Agents and Journalism Ethics: A New Debate\""
 ---
 
 # 📝 AI Agents and Journalism Ethics: A New Debate

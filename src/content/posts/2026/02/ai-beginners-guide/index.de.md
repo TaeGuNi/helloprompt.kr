@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "3 Dinge, die jeder KI-Anfänger zuerst tun sollte (Startleitfaden)"
+title: " \"3 Dinge, die jeder KI-Anfänger zuerst tun sollte (Startleitfaden)\""
 author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-09T10:00:00.000Z"
 category: "Einsteiger"
 tags: ["KI-Einstieg", "ChatGPT", "Anleitung", "Anfänger"]
-description: "Künstliche Intelligenz wirkt oft einschüchternd. Hier sind die 3 einfachsten und effektivsten Methoden, um sofort wie ein Profi zu starten."
+description: " \"Künstliche Intelligenz wirkt oft einschüchternd. Hier sind die 3 einfachsten und effektivsten Methoden, um sofort wie ein Profi zu starten.\""
 ---
 
 # 📝 3 Dinge, die jeder KI-Anfänger zuerst tun sollte

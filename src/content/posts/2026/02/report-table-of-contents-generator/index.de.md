@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erstellung eines Berichtsinhaltsverzeichnisses, das Chefs mögen"
+title: " \"Erstellung eines Berichtsinhaltsverzeichnisses, das Chefs mögen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Ein KI-Prompt zur Erstellung einer überzeugenden Berichtsstruktur mit klarem logischem Aufbau."
+description: " \"Ein KI-Prompt zur Erstellung einer überzeugenden Berichtsstruktur mit klarem logischem Aufbau.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

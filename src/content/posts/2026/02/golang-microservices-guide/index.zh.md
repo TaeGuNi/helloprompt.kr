@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까?"
+title: " \"Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "面向 Java/Spring 开发者的 Go 语言入门指南。深度解析 Goroutine 的强大之处及其成为微服务架构 (MSA) 首选的核心原因。"
+description: " \"面向 Java/Spring 开发者的 Go 语言入门指南。深度解析 Goroutine 的强大之处及其成为微服务架构 (MSA) 首选的核心原因。\""
 tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 ---
 

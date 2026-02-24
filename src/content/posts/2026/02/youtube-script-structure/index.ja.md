@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "再生回数爆上がりを呼ぶYouTube台本構造化の秘訣"
+title: " \"再生回数爆上がりを呼ぶYouTube台本構造化の秘訣\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "ライティング"
-description: "序盤5秒の離脱を防ぎ、最後まで視聴させるYouTube動画スクリプトの構成を構築するプロンプトです。"
+description: " \"序盤5秒の離脱を防ぎ、最後まで視聴させるYouTube動画スクリプトの構成を構築するプロンプトです。\""
 tags: ["YouTube", "台本", "動画制作"]
 ---
 

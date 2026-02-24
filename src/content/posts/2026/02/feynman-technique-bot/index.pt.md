@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estudando Como um Gênio: Bot de Treinamento da Técnica Feynman"
+title: " \"Estudando Como um Gênio: Bot de Treinamento da Técnica Feynman\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudo/Autodesenvolvimento"
-description: "A melhor maneira de verificar se você entendeu algo perfeitamente é explicar para outra pessoa. Ensine a IA e receba feedback imediato."
+description: " \"A melhor maneira de verificar se você entendeu algo perfeitamente é explicar para outra pessoa. Ensine a IA e receba feedback imediato.\""
 tags: ["MétodoEstudo", "TécnicaFeynman", "Metacognição", "Educação"]
 ---
 

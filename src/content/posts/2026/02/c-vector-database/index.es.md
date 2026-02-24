@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "Prompt para implementar y utilizar una base de datos de vectores ultraligera en C, sin dependencias y orientada a entornos de IA embebidos."
+title: " \"Header-only C Vector Database\""
+description: " \"Prompt para implementar y utilizar una base de datos de vectores ultraligera en C, sin dependencias y orientada a entornos de IA embebidos.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

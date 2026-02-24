@@ -1,6 +1,6 @@
 ---
-title: "La verità sulla realtà AX"
-description: "Analisi critica della realtà AX: spesso l'AX è solo un'allucinazione aziendale senza valore reale."
+title: " \"La verità sulla realtà AX\""
+description: " \"Analisi critica della realtà AX: spesso l'AX è solo un'allucinazione aziendale senza valore reale.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

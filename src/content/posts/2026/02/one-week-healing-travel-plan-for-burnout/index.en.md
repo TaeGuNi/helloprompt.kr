@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "One-Week Healing Travel Plan for Burnout: Slow Travel"
+title: " \"One-Week Healing Travel Plan for Burnout: Slow Travel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Skip the crowded tourist traps. Discover a one-week 'Slow Travel' prompt guide designed for true relaxation and burnout recovery."
+description: " \"Skip the crowded tourist traps. Discover a one-week 'Slow Travel' prompt guide designed for true relaxation and burnout recovery.\""
 tags: ["Healing Travel", "Rest", "Living for a Week", "Slow Travel"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ultima Arma Definitiva Colloquio! Generatore 'Domanda Inversa' da Chiedere all'Intervistatore"
+title: " \"Ultima Arma Definitiva Colloquio! Generatore 'Domanda Inversa' da Chiedere all'Intervistatore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: 'Crea domande inverse intelligenti e strategiche per dimostrare il tuo reale interesse per l''azienda e il ruolo quando ti viene chiesto "Hai qualche domanda?" alla fine di un colloquio.'
+description: " 'Crea domande inverse intelligenti e strategiche per dimostrare il tuo reale interesse per l''azienda e il ruolo quando ti viene chiesto \"Hai qualche domanda?\" alla fine di un colloquio.'"
 tags: ["DomandaInversa", "ConsiglioColloquio", "UltimeParole", "AnalisiAzienda"]
 ---
 

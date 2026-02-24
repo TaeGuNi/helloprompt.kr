@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "나만의 AI 언어 튜터 만들기"
+title: " \"나만의 AI 언어 튜터 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "通过结构化 Prompt 将 AI 变成 24 小时专属私人外教，提供场景化对话与实时纠错，零成本提升外语口语能力。"
+description: " \"通过结构化 Prompt 将 AI 变成 24 小时专属私人外教，提供场景化对话与实时纠错，零成本提升外语口语能力。\""
 tags: ["태그1", "태그2"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Leitfaden für freundliche Gesten und Begrüßungen: Nicht missverstanden werden"
+title: " \"Leitfaden für freundliche Gesten und Begrüßungen: Nicht missverstanden werden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Fast in einen Streit geraten wegen einer falschen Handbewegung? Erfahren Sie, welche Gesten Missverständnisse verursachen und mit welchen Begrüßungen Sie überall willkommen sind."
+description: " \"Fast in einen Streit geraten wegen einer falschen Handbewegung? Erfahren Sie, welche Gesten Missverständnisse verursachen und mit welchen Begrüßungen Sie überall willkommen sind.\""
 tags: ["Begrüßungen", "Körpersprache", "Gesten", "Kulturelle Kommunikation"]
 ---
 

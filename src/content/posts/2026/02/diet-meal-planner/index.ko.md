@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "다이어트 식단 짜기: 냉장고 파먹기 + 영양소 계산 AI 영양사"
+title: " \"다이어트 식단 짜기: 냉장고 파먹기 + 영양소 계산 AI 영양사\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "건강/라이프"
-description: "냉장고에 남은 자투리 식재료만 입력하면, AI가 칼로리와 탄단지 비율까지 완벽하게 맞춘 다이어트 식단을 짜줍니다."
+description: " \"냉장고에 남은 자투리 식재료만 입력하면, AI가 칼로리와 탄단지 비율까지 완벽하게 맞춘 다이어트 식단을 짜줍니다.\""
 tags: ["다이어트", "식단", "요리", "ChatGPT", "건강"]
 ---
 

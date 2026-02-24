@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링"
+title: " \"스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "¿Te cuesta explicar por qué tu startup es el próximo unicornio? Domina el arte del Pitch Deck de Silicon Valley y estructura tu narrativa (Problema-Solución-Mercado) para captar inversores en tiempo récord."
+description: " \"¿Te cuesta explicar por qué tu startup es el próximo unicornio? Domina el arte del Pitch Deck de Silicon Valley y estructura tu narrativa (Problema-Solución-Mercado) para captar inversores en tiempo récord.\""
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 

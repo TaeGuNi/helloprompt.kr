@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fridge Cleanup! AI Healthy Recipe Generator"
+title: " \"Fridge Cleanup! AI Healthy Recipe Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Discover 5-star healthy recipes using leftover ingredients before they expire."
+description: " \"Discover 5-star healthy recipes using leftover ingredients before they expire.\""
 tags: ["Cooking", "Recipe", "Diet", "Fridge Cleanup"]
 ---
 

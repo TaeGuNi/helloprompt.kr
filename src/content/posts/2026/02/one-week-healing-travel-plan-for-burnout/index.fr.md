@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plan de Voyage de Guérison d'Une Semaine pour le Burn-out : Voyage Lent"
+title: " \"Plan de Voyage de Guérison d'Une Semaine pour le Burn-out : Voyage Lent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Fuyez la foule des lieux touristiques. Découvrez notre guide de prompt pour concevoir une semaine de « Slow Travel » et vous ressourcer véritablement."
+description: " \"Fuyez la foule des lieux touristiques. Découvrez notre guide de prompt pour concevoir une semaine de « Slow Travel » et vous ressourcer véritablement.\""
 tags: ["Voyage de Guérison", "Repos", "Vivre une Semaine", "Voyage Lent"]
 ---
 

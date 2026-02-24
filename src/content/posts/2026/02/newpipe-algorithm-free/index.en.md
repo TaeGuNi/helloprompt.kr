@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media"
-description: "The growing user demand for quiet media consumption without algorithmic feeds."
+title: " \"The Rise of Algorithm Free Media\""
+description: " \"The growing user demand for quiet media consumption without algorithmic feeds.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Iss wie ein Einheimischer! KI Lokaler Essens-Navigator"
+title: " \"Iss wie ein Einheimischer! KI Lokaler Essens-Navigator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Schluss mit Touristenfallen: Entdecke authentische Restaurants, in denen die echten Locals Schlange stehen."
+description: " \"Schluss mit Touristenfallen: Entdecke authentische Restaurants, in denen die echten Locals Schlange stehen.\""
 tags: ["Reisen", "Restaurant", "Mukbang", "Lokales Restaurant"]
 ---
 

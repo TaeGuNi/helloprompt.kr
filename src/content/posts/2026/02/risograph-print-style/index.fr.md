@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibe d'Impression Vintage Style 'Impression Risograph'"
+title: " \"Vibe d'Impression Vintage Style 'Impression Risograph'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt de style d'impression Risograph attrayant pour sa trame unique et son désalignement de couleurs."
+description: " \"Prompt de style d'impression Risograph attrayant pour sa trame unique et son désalignement de couleurs.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Impression"]
 ---

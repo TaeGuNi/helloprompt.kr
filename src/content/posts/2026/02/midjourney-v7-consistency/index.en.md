@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (English)"
-description: "Mastering Midjourney V7 character consistency: How using character references fundamentally changes visual storytelling."
+title: " \"Midjourney Character Consistency (English)\""
+description: " \"Mastering Midjourney V7 character consistency: How using character references fundamentally changes visual storytelling.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

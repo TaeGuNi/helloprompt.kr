@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Criador de Guia de Áudio de Museu com IA: Curador na Minha Mão"
+title: " \"Criador de Guia de Áudio de Museu com IA: Curador na Minha Mão\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Como economizar 10 euros em taxas de aluguel de guia de áudio. Se você tiver uma foto da obra de arte, a IA explicará."
+description: " \"Como economizar 10 euros em taxas de aluguel de guia de áudio. Se você tiver uma foto da obra de arte, a IA explicará.\""
 tags:
   ["Museu", "Galeria de Arte", "Guia de Áudio", "Docente", "Apreciação de Arte"]
 ---

@@ -1,14 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: "Na era dos agentes autônomos como o GitHub Copilot X2, descubra como evoluir de um desenvolvedor focado em escrever código para um 'Gestor de AI'. Aprenda estratégias práticas e prompts para dominar essa transição."
+description: " \"Na era dos agentes autônomos como o GitHub Copilot X2, descubra como evoluir de um desenvolvedor focado em escrever código para um 'Gestor de AI'. Aprenda estratégias práticas e prompts para dominar essa transição.\""
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "Agentes de Programação com AI, de 'Escrever' a 'Resolver': Estratégias de Sobrevivência para Desenvolvedores em 2026"
+title: " \"Agentes de Programação com AI, de 'Escrever' a 'Resolver': Estratégias de Sobrevivência para Desenvolvedores em 2026\""
 ---
 
 # 📝 Agentes de Programação com AI, de 'Escrever' a 'Resolver': Estratégias de Sobrevivência para Desenvolvedores em 2026

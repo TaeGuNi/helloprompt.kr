@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇"
+title: " \"뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "마케팅/콘텐츠"
-description: "Informationen sammeln kostet Zeit. Ein Muss für Marketer: Wie Sie RSS-Feeds und KI verknüpfen, um automatisch Newsletter-Entwürfe zu erstellen."
+description: " \"Informationen sammeln kostet Zeit. Ein Muss für Marketer: Wie Sie RSS-Feeds und KI verknüpfen, um automatisch Newsletter-Entwürfe zu erstellen.\""
 tags: ["뉴스레터", "큐레이션", "자동화", "Zapier", "ChatGPT"]
 ---
 

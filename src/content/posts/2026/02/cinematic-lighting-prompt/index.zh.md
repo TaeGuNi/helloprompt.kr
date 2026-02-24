@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "营造电影般氛围的 'Cinematic Lighting' 提示词"
+title: " \"营造电影般氛围的 'Cinematic Lighting' 提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "揭秘让平淡图像瞬间化身好莱坞电影场景的电影级布光提示词秘诀。"
+description: " \"揭秘让平淡图像瞬间化身好莱坞电影场景的电影级布光提示词秘诀。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "고객 문의 자동 분류 및 우선순위 지정 (CS Automation)"
+title: " \"고객 문의 자동 분류 및 우선순위 지정 (CS Automation)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "A CS triage prompt that analyzes customer sentiment to identify and prioritize 'angry customers' who need immediate attention."
+description: " \"A CS triage prompt that analyzes customer sentiment to identify and prioritize 'angry customers' who need immediate attention.\""
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 

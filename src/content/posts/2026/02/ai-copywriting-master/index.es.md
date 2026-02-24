@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기"
+title: " \"카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Deja de perder horas pensando en el título perfecto para tu landing page, blog o newsletter. Descubre el prompt definitivo para generar titulares magnéticos que disparen tus clics al instante usando IA."
+description: " \"Deja de perder horas pensando en el título perfecto para tu landing page, blog o newsletter. Descubre el prompt definitivo para generar titulares magnéticos que disparen tus clics al instante usando IA.\""
 tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 ---
 

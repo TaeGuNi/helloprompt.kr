@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minuten Gehirnpause, KI-Meditation und Achtsamkeitsskript-Schreiben"
+title: " \"5 Minuten Gehirnpause, KI-Meditation und Achtsamkeitsskript-Schreiben\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Erstellen Sie ein maßgeschneidertes Meditationsskript, das perfekt zu Ihrer aktuellen Situation und Ihren Emotionen passt."
+description: " \"Erstellen Sie ein maßgeschneidertes Meditationsskript, das perfekt zu Ihrer aktuellen Situation und Ihren Emotionen passt.\""
 tags: ["Meditation", "Achtsamkeit", "Stress", "Ruhe"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Note de Rimes Hip-Hop : Prompt de Génération Automatique de Punchline"
+title: " \"Note de Rimes Hip-Hop : Prompt de Génération Automatique de Punchline\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Avis aux apprentis rappeurs ! Donnez simplement un thème et une rime, et l'IA s'occupe de forger vos punchlines."
+description: " \"Avis aux apprentis rappeurs ! Donnez simplement un thème et une rime, et l'IA s'occupe de forger vos punchlines.\""
 tags: ["HipHop", "Rap", "ÉcritureParoles", "Rime", "Punchline"]
 ---
 

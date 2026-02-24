@@ -1,6 +1,6 @@
 ---
-title: "Discord：性能优化案例研究"
-description: "深入探讨 Discord 处理数万亿条消息并支持数百万并发用户的工程优化之旅。"
+title: " \"Discord：性能优化案例研究\""
+description: " \"深入探讨 Discord 处理数万亿条消息并支持数百万并发用户的工程优化之旅。\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

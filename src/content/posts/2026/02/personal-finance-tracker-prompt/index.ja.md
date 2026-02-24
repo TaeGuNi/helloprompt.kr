@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 가계부 매니저: 개인 자산 관리 프롬프트"
+title: " \"AI 가계부 매니저: 개인 자산 관리 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "毎月の支出をAIで自動分析し、無駄遣いを減らすパーソナル家計簿マネージャープロンプト。"
+description: " \"毎月の支出をAIで自動分析し、無駄遣いを減らすパーソナル家計簿マネージャープロンプト。\""
 tags: ["태그1", "태그2"]
 ---
 

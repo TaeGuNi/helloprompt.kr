@@ -1,5 +1,5 @@
 ---
-title: "Crisis del periodismo: Ars Technica retira historia por citas falsas"
+title: " \"Crisis del periodismo: Ars Technica retira historia por citas falsas\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "Alucinación de IA",
     "Matplotlib",
   ]
-description: "Ars Technica ha retirado una historia después de descubrirse que contenía citas falsas atribuidas a un mantenedor de Matplotlib. Este incidente destaca los peligros del uso de la IA en el periodismo."
+description: " \"Ars Technica ha retirado una historia después de descubrirse que contenía citas falsas atribuidas a un mantenedor de Matplotlib. Este incidente destaca los peligros del uso de la IA en el periodismo.\""
 lang: "es"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Korean)"
-description: "대규모 입력을 명확한 구분자로 구조화하고 검색(Retrieval) 패턴을 활용하는 완벽한 가이드입니다."
+title: " \"Optimizing for Million-Token Context Windows (Korean)\""
+description: " \"대규모 입력을 명확한 구분자로 구조화하고 검색(Retrieval) 패턴을 활용하는 완벽한 가이드입니다.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

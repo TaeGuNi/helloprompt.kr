@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de l'Étiquette des Affaires Mondiales : Succès en Réunion"
+title: " \"Guide de l'Étiquette des Affaires Mondiales : Succès en Réunion\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Cartes de visite à deux mains ? Qui serre la main en premier ? L'étiquette des affaires par pays pour décrocher des contrats."
+description: " \"Cartes de visite à deux mains ? Qui serre la main en premier ? L'étiquette des affaires par pays pour décrocher des contrats.\""
 tags:
   [
     "Voyage d'Affaires à l'Étranger",

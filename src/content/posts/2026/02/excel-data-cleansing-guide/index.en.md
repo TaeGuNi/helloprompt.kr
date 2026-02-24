@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preprocessing Messy Excel Data Neatly"
+title: " \"Preprocessing Messy Excel Data Neatly\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Master data cleansing techniques to effortlessly split addresses and standardize date formats in Excel."
+description: " \"Master data cleansing techniques to effortlessly split addresses and standardize date formats in Excel.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

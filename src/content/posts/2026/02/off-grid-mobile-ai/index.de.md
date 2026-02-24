@@ -1,6 +1,6 @@
 ---
-title: "Off Grid: Führen Sie Text-, Bild- und Vision-KI offline auf Ihrem Handy aus"
-description: "Entdecken Sie Off Grid: Ein Open-Source-Tool, mit dem Sie Text-, Bild- und Vision-KI komplett offline und ohne Internetverbindung auf Ihrem Smartphone ausführen können."
+title: " \"Off Grid: Führen Sie Text-, Bild- und Vision-KI offline auf Ihrem Handy aus\""
+description: " \"Entdecken Sie Off Grid: Ein Open-Source-Tool, mit dem Sie Text-, Bild- und Vision-KI komplett offline und ohne Internetverbindung auf Ihrem Smartphone ausführen können.\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

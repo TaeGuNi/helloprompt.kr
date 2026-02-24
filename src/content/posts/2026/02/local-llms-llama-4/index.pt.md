@@ -1,9 +1,9 @@
 ---
-title: "Local LLMs: Llama 4 on Mac"
+title: " \"Local LLMs: Llama 4 on Mac\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Local AI", "Llama 4", "Mac"]
-description: "O guia definitivo e os melhores prompts para rodar o Llama 4 otimizado para chips Apple Silicon M4 no seu Mac, permitindo analisar dados corporativos com 100% de privacidade."
+description: " \"O guia definitivo e os melhores prompts para rodar o Llama 4 otimizado para chips Apple Silicon M4 no seu Mac, permitindo analisar dados corporativos com 100% de privacidade.\""
 ---
 
 # 📝 LLMs Locais: Llama 4 no Mac (Otimizado para M4)

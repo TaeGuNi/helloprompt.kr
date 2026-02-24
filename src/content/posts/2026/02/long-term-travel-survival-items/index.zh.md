@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "长期旅行者和数字游民的生存物品指南"
+title: " \"长期旅行者和数字游民的生存物品指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "四海为家？不仅要生存，更要生活。这份专属Prompt帮你生成能显著提升长期旅行生活质量的必备好物清单。"
+description: " \"四海为家？不仅要生存，更要生活。这份专属Prompt帮你生成能显著提升长期旅行生活质量的必备好物清单。\""
 tags: ["长期旅行", "旅居一个月", "环球旅行", "生活必需品"]
 ---
 

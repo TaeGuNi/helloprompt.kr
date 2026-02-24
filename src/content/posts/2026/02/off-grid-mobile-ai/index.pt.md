@@ -1,6 +1,6 @@
 ---
-title: "Off Grid: Execute IA de texto, imagem e visão offline no seu celular"
-description: "Descubra o Off Grid, um poderoso aplicativo de código aberto para rodar IA de texto, imagem e visão 100% offline no seu smartphone, garantindo total privacidade."
+title: " \"Off Grid: Execute IA de texto, imagem e visão offline no seu celular\""
+description: " \"Descubra o Off Grid, um poderoso aplicativo de código aberto para rodar IA de texto, imagem e visão 100% offline no seu smartphone, garantindo total privacidade.\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

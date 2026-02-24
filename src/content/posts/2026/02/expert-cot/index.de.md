@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wenn KI sich dumm anstellt: Nutzen Sie 'Chain of Thought (CoT)'"
+title: " \"Wenn KI sich dumm anstellt: Nutzen Sie 'Chain of Thought (CoT)'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Beantwortet die KI einfache Fragen gut, scheitert aber an komplexer Logik? Lernen Sie die CoT-Technik, die von den Top 1% der Prompt-Ingenieure verwendet wird."
+description: " \"Beantwortet die KI einfache Fragen gut, scheitert aber an komplexer Logik? Lernen Sie die CoT-Technik, die von den Top 1% der Prompt-Ingenieure verwendet wird.\""
 tags: ["CoT", "Logisches Denken", "Problemlösung"]
 ---
 

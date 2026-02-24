@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "추론 모델(Reasoning Model)을 위한 CoT 최적화 프롬프트"
+title: " \"추론 모델(Reasoning Model)을 위한 CoT 최적화 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "개발 생산성"
-description: "Técnica de diseño de prompts Chain of Thought (CoT) para maximizar el rendimiento de las IA de razonamiento como Gemini 3 y DeepSeek."
+description: " \"Técnica de diseño de prompts Chain of Thought (CoT) para maximizar el rendimiento de las IA de razonamiento como Gemini 3 y DeepSeek.\""
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---
 

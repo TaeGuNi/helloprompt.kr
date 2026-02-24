@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sequenza Yoga Personalizzata per Corpi Rigidi: Insegnante IA"
+title: " \"Sequenza Yoga Personalizzata per Corpi Rigidi: Insegnante IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Il tuo corpo è troppo rigido e provi imbarazzo ad andare in una scuola di yoga? Rilassati dolcemente a casa con un insegnante di yoga IA personalizzato."
+description: " \"Il tuo corpo è troppo rigido e provi imbarazzo ad andare in una scuola di yoga? Rilassati dolcemente a casa con un insegnante di yoga IA personalizzato.\""
 tags: ["Yoga", "Stretching", "Flessibilità", "Allenamento a Casa", "ChatGPT"]
 ---
 

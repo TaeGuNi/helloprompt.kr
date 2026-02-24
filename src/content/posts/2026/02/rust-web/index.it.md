@@ -1,7 +1,7 @@
 ---
-title: "Rust per lo Sviluppo Web: La Prospettiva del 2026"
+title: " \"Rust per lo Sviluppo Web: La Prospettiva del 2026\""
 date: 2026-02-13
-description: "Scopri come progettare un'architettura backend ad alte prestazioni con Rust, l'ecosistema dominante per i servizi web nel 2026, utilizzando prompt avanzati."
+description: " \"Scopri come progettare un'architettura backend ad alte prestazioni con Rust, l'ecosistema dominante per i servizi web nel 2026, utilizzando prompt avanzati.\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

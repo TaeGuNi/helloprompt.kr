@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Russian)"
-description: "Автоматизированные протоколы встреч: эффективность и вопросы конфиденциальности."
+title: " \"Automated Meeting Notes (Russian)\""
+description: " \"Автоматизированные протоколы встреч: эффективность и вопросы конфиденциальности.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

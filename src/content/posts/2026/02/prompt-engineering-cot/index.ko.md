@@ -1,5 +1,5 @@
 ---
-title: "Prompt Engineering: Chain-of-Thought"
+title: " \"Prompt Engineering: Chain-of-Thought\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Prompt Engineering", "AI", "CoT"]

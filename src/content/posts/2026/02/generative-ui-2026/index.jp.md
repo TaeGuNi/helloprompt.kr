@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Japanese)"
-description: "ユーザーの意図に合わせて自らを適応・生成するインターフェースが、従来の静的メニューに取って代わろうとしています。"
+title: " \"Generative UI Patterns (Japanese)\""
+description: " \"ユーザーの意図に合わせて自らを適応・生成するインターフェースが、従来の静的メニューに取って代わろうとしています。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

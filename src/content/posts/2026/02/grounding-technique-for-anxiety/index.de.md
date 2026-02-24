@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erdungstechnik bei Angst: 5-4-3-2-1 Methode"
+title: " \"Erdungstechnik bei Angst: 5-4-3-2-1 Methode\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Eine praktische Anleitung, wie Sie bei plötzlicher Angst oder Panikattacken mit der 5-4-3-2-1 Erdungstechnik (Grounding) schnell wieder in die Realität zurückfinden."
+description: " \"Eine praktische Anleitung, wie Sie bei plötzlicher Angst oder Panikattacken mit der 5-4-3-2-1 Erdungstechnik (Grounding) schnell wieder in die Realität zurückfinden.\""
 tags:
   [
     "Angst",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Superare la Fobia delle Presentazioni! Creazione di Script di Presentazione"
+title: " \"Superare la Fobia delle Presentazioni! Creazione di Script di Presentazione\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Genera script di presentazione fluidi e naturali per le tue diapositive PPT."
+description: " \"Genera script di presentazione fluidi e naturali per le tue diapositive PPT.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

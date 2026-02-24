@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI营养师：个性化每周膳食计划生成器"
+title: " \"AI营养师：个性化每周膳食计划生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "通过一条高级AI提示词，让专属私人营养师为您量身定制符合减脂目标与个人口味的完美级周度膳食与采购计划。"
+description: " \"通过一条高级AI提示词，让专属私人营养师为您量身定制符合减脂目标与个人口味的完美级周度膳食与采购计划。\""
 tags: ["饮食", "膳食管理", "健康", "ChatGPT", "备餐"]
 ---
 

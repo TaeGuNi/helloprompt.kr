@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SWOT分析、ブレインストーミングなしで1分で終わらせる"
+title: " \"SWOT分析、ブレインストーミングなしで1分で終わらせる\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "新規事業アイデアやマーケティング戦略策定の基本であるSWOT分析を、AIを活用してたった1分で終わらせるプロンプトを公開します。"
+description: " \"新規事業アイデアやマーケティング戦略策定の基本であるSWOT分析を、AIを活用してたった1分で終わらせるプロンプトを公開します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

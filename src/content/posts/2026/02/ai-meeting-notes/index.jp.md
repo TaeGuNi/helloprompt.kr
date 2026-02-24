@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (Japanese)"
-description: "AIを活用した会議議事録の自動化：圧倒的な効率化とプライバシー対策の完全ガイド"
+title: " \"Automated Meeting Notes (Japanese)\""
+description: " \"AIを活用した会議議事録の自動化：圧倒的な効率化とプライバシー対策の完全ガイド\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

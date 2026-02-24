@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) 프롬프팅: AI 추론 능력 극대화하기"
+title: " \"Chain-of-Thought (CoT) 프롬프팅: AI 추론 능력 극대화하기\""
 date: "2026-02-15"
-description: "Chain-of-Thought(CoT) 프롬프팅을 통해 AI가 복잡한 문제를 단계별로 논리적으로 해결하도록 유도하고, 추론 능력을 극대화하는 실전 기법을 소개합니다."
+description: " \"Chain-of-Thought(CoT) 프롬프팅을 통해 AI가 복잡한 문제를 단계별로 논리적으로 해결하도록 유도하고, 추론 능력을 극대화하는 실전 기법을 소개합니다.\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

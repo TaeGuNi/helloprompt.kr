@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista di Imballaggio Minimalista: Viaggio Solo con Bagaglio a Mano"
+title: " \"Lista di Imballaggio Minimalista: Viaggio Solo con Bagaglio a Mano\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Viaggiare è più piacevole quando il bagaglio è leggero. Scopri come preparare un bagaglio a mano intelligente ed essenziale per evitare pesi inutili e goderti il viaggio."
+description: " \"Viaggiare è più piacevole quando il bagaglio è leggero. Scopri come preparare un bagaglio a mano intelligente ed essenziale per evitare pesi inutili e goderti il viaggio.\""
 tags: ["Imballaggio", "Minimalismo", "Bagaglio a Mano", "Lista di Imballaggio"]
 ---
 

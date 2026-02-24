@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (French)"
-description: "L'IA libère les développeurs de la dette technique."
+title: " \"Modernizing Legacy Code (French)\""
+description: " \"L'IA libère les développeurs de la dette technique.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

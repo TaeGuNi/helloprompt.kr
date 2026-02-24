@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tables and Graphs Talk: Data Interpretation Tutor"
+title: " \"Tables and Graphs Talk: Data Interpretation Tutor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Math/Science"
-description: "A powerful prompt that extracts key insights, identifies trends, and uncovers hidden statistical traps in complex charts or graphs."
+description: " \"A powerful prompt that extracts key insights, identifies trends, and uncovers hidden statistical traps in complex charts or graphs.\""
 tags: ["DataAnalysis", "Statistics", "GraphInterpretation", "WorkSkill"]
 ---
 

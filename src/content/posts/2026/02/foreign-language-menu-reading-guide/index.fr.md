@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Lecture de Menus en Langue Étrangère : Commandez comme un Local"
+title: " \"Guide de Lecture de Menus en Langue Étrangère : Commandez comme un Local\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Déchiffrez n'importe quel menu à l'étranger en un clin d'œil. Ne laissez plus la barrière de la langue gâcher votre expérience culinaire."
+description: " \"Déchiffrez n'importe quel menu à l'étranger en un clin d'œil. Ne laissez plus la barrière de la langue gâcher votre expérience culinaire.\""
 tags:
   [
     "Lecture de Menu",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)
+title: "집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Lifestyle
-description: 멀리 떠나는 여행만 여행인가요? 내 방구석을 5성급 호텔처럼 즐기는 법. AI와 함께 테마가 있는 완벽한 '집콕 휴가'를 계획해 보세요.
+description: "멀리 떠나는 여행만 여행인가요? 내 방구석을 5성급 호텔처럼 즐기는 법. AI와 함께 테마가 있는 완벽한 '집콕 휴가'를 계획해 보세요."
 tags: [AI, Travel, Rest, Planning]
 ---
 

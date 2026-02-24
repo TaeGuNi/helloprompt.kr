@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) プロンプティング：AIの推論能力を最大限に引き出す"
+title: " \"Chain-of-Thought (CoT) プロンプティング：AIの推論能力を最大限に引き出す\""
 date: "2026-02-15"
-description: "AIの推論能力を極限まで引き出す「Chain-of-Thought (CoT) プロンプティング」の仕組みと、実務で使える実践的な活用法を解説します。"
+description: " \"AIの推論能力を極限まで引き出す「Chain-of-Thought (CoT) プロンプティング」の仕組みと、実務で使える実践的な活用法を解説します。\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

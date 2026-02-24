@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "清澈透明的 'Watercolor Sketch' 水彩画技法"
+title: " \"清澈透明的 'Watercolor Sketch' 水彩画技法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "完美融合水彩晕染效果与铅笔素描线条，教你用 AI 打造极具氛围感的清澈透明水彩画提示词。"
+description: " \"完美融合水彩晕染效果与铅笔素描线条，教你用 AI 打造极具氛围感的清澈透明水彩画提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

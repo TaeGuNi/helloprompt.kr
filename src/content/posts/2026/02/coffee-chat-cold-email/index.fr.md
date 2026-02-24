@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt d'E-mail Froid pour Café-Causerie : Réseautage sans Rejet"
+title: " \"Prompt d'E-mail Froid pour Café-Causerie : Réseautage sans Rejet\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrière & Changement d'Emploi"
-description: "Rédigez un message à froid (Cold Email/DM) poli et persuasif pour demander conseil ou réseauter avec un professionnel expérimenté sans vous faire rejeter."
+description: " \"Rédigez un message à froid (Cold Email/DM) poli et persuasif pour demander conseil ou réseauter avec un professionnel expérimenté sans vous faire rejeter.\""
 tags: ["Café-Causerie", "E-mail Froid", "Réseautage", "Mentorat"]
 ---
 

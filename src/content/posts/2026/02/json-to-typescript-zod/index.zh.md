@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "只要扔 JSON，TypeScript 类型定义就出来了！(feat. Zod)"
+title: " \"只要扔 JSON，TypeScript 类型定义就出来了！(feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "将复杂的 JSON 数据自动转换为 TypeScript 接口或 Zod 架构的提示词。"
+description: " \"将复杂的 JSON 数据自动转换为 TypeScript 接口或 Zod 架构的提示词。\""
 tags: ["TypeScript", "Zod", "JSON", "类型定义", "生产力"]
 ---
 

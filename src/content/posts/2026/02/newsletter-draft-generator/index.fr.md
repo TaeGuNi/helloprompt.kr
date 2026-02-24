@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rédiger une Newsletter Qui Appelle les Abonnés"
+title: " \"Rédiger une Newsletter Qui Appelle les Abonnés\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Saisissez simplement un sujet, et l'IA génère instantanément des titres accrocheurs, un contenu captivant et une curation sur mesure."
+description: " \"Saisissez simplement un sujet, et l'IA génère instantanément des titres accrocheurs, un contenu captivant et une curation sur mesure.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

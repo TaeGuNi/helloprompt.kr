@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "不去健身房也能拥有好身材的 AI 居家锻炼常规生成器"
+title: " \"不去健身房也能拥有好身材的 AI 居家锻炼常规生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "为您量身定制的 AI 居家健身计划：根据您的运动水平和现有器材，一键生成科学高效的专属锻炼方案。"
+description: " \"为您量身定制的 AI 居家健身计划：根据您的运动水平和现有器材，一键生成科学高效的专属锻炼方案。\""
 tags: ["居家锻炼", "运动", "健身", "常规"]
 ---
 

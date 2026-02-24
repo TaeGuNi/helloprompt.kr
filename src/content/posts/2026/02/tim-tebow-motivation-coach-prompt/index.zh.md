@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 像蒂姆·蒂博(Tim Tebow)一样永不放弃的心态：用AI打造你的专属'动机教练'"
+title: " \"🏈 像蒂姆·蒂博(Tim Tebow)一样永不放弃的心态：用AI打造你的专属'动机教练'\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "自我提升"
-description: "将蒂姆·蒂博永不言败的心态植入AI提示词中，打造一个专属教练，在你疲惫时为你提供心理护理。"
+description: " \"将蒂姆·蒂博永不言败的心态植入AI提示词中，打造一个专属教练，在你疲惫时为你提供心理护理。\""
 tags: ["tim tebow", "动机", "心态", "心理护理", "工作自动化", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reverse Driving Forgetting Curve: Review Schedule Generator"
+title: " \"Reverse Driving Forgetting Curve: Review Schedule Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "StudyMethod/Self-Development"
-description: "A prompt that calculates the optimal review timing based on Ebbinghaus's Forgetting Curve to ensure you never forget what you've studied."
+description: " \"A prompt that calculates the optimal review timing based on Ebbinghaus's Forgetting Curve to ensure you never forget what you've studied.\""
 tags: ["StudyPlan", "ForgettingCurve", "Review", "Scheduling"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "2025 Backblaze 드라이브 통계: AI 스토리지의 현실"
-description: "Análise da confiabilidade de discos rígidos na era dos datasets massivos de IA."
+title: " \"2025 Backblaze 드라이브 통계: AI 스토리지의 현실\""
+description: " \"Análise da confiabilidade de discos rígidos na era dos datasets massivos de IA.\""
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

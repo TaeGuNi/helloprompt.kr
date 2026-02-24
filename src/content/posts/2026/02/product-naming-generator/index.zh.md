@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "能卖得出去的产品起名：命名生成器"
+title: " \"能卖得出去的产品起名：命名生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "营销/文案"
-description: "包含了品牌形象的魅力产品名，3秒就能选出来的提示词。"
+description: " \"包含了品牌形象的魅力产品名，3秒就能选出来的提示词。\""
 tags: ["营销", "命名", "品牌", "文案"]
 ---
 

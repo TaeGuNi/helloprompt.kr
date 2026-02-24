@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DeepSeek R1 Local Install: Your Free Coding Slave on PC"
+title: " \"DeepSeek R1 Local Install: Your Free Coding Slave on PC\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Dev & Coding"
-description: "Learn how to install DeepSeek R1 locally using Ollama and unlock an unlimited, free coding assistant. Guarantee 100% privacy with zero data leaks."
+description: " \"Learn how to install DeepSeek R1 locally using Ollama and unlock an unlimited, free coding assistant. Guarantee 100% privacy with zero data leaks.\""
 tags: ["DeepSeek", "Ollama", "Local LLM", "Coding", "Productivity"]
 ---
 

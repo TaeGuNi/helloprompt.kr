@@ -1,9 +1,9 @@
 ---
-title: "딥페이크: 동의 없는 지옥과 윤리의 붕괴"
+title: " \"딥페이크: 동의 없는 지옥과 윤리의 붕괴\""
 date: 2026-02-13
 image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
-description: "비동의 딥페이크가 만들어낸 윤리적 지옥. 조직을 보호하고 피해를 예방하는 강력한 딥페이크 윤리 가이드라인 생성 프롬프트를 소개합니다."
+description: " \"비동의 딥페이크가 만들어낸 윤리적 지옥. 조직을 보호하고 피해를 예방하는 강력한 딥페이크 윤리 가이드라인 생성 프롬프트를 소개합니다.\""
 ---
 
 # 📝 딥페이크 위기 대응 및 윤리 가이드라인 생성 프롬프트

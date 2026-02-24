@@ -3,7 +3,7 @@ categories:
   - Prompt Engineering
   - AI Tips
 date: "2026-02-13"
-description: 複雑なプロンプトはもう不要。AIがユーザーの隠れた意図を把握する「インテントベース・プロンプティング」の時代が到来しました。より簡潔で強力なAIとのコミュニケーション手法を解説します。
+description: "複雑なプロンプトはもう不要。AIがユーザーの隠れた意図を把握する「インテントベース・プロンプティング」の時代が到来しました。より簡潔で強力なAIとのコミュニケーション手法を解説します。"
 image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Intent-Based
   - AI Interaction
   - Future of Work
-title: プロンプトエンジニアリング3.0：意図（Intent）こそが命令だ
+title: "プロンプトエンジニアリング3.0：意図（Intent）こそが命令だ"
 ---
 
 # 📝 プロンプトエンジニアリング3.0：意図（Intent）こそが命令だ

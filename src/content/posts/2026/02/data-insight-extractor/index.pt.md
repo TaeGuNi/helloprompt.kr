@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Extraindo Insights de Dados Brutos"
+title: " \"Extraindo Insights de Dados Brutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Analise planilhas de Excel repletas de números com IA e extraia insights estratégicos valiosos para o seu negócio."
+description: " \"Analise planilhas de Excel repletas de números com IA e extraia insights estratégicos valiosos para o seu negócio.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

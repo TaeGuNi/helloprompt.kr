@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida all'Educazione Economica per Bambini: Insegnare il Valore del Denaro"
+title: " \"Guida all'Educazione Economica per Bambini: Insegnare il Valore del Denaro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Uno script pratico per insegnare ai bambini il valore del denaro e il significato del lavoro in modo semplice e intuitivo."
+description: " \"Uno script pratico per insegnare ai bambini il valore del denaro e il significato del lavoro in modo semplice e intuitivo.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

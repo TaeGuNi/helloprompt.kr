@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analisi delle Tendenze Industriali: Trovare Mercati in Crescita"
+title: " \"Analisi delle Tendenze Industriali: Trovare Mercati in Crescita\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Come analizzare i megatrend industriali in rapida crescita e scoprire le migliori azioni correlate sfruttando l'IA."
+description: " \"Come analizzare i megatrend industriali in rapida crescita e scoprire le migliori azioni correlate sfruttando l'IA.\""
 tags: ["Azioni", "AnalisiIndustria", "Tendenza", "RicercheDiMercato"]
 ---
 

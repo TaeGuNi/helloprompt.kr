@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇"
+title: " \"뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "마케팅/콘텐츠"
-description: "Lettura obbligatoria per marketer che perdono troppo tempo a cercare informazioni. Come collegare i feed RSS all'IA per creare automaticamente bozze di newsletter."
+description: " \"Lettura obbligatoria per marketer che perdono troppo tempo a cercare informazioni. Come collegare i feed RSS all'IA per creare automaticamente bozze di newsletter.\""
 tags: ["뉴스레터", "큐레이션", "자동화", "Zapier", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Balance-Spiel-Fragen für Kinder: Unendliche Konversation"
+title: " \"Balance-Spiel-Fragen für Kinder: Unendliche Konversation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein kreativer Balance-Spiel-Fragen-Generator, der Grundschulkinder spielerisch zum Reden bringt."
+description: " \"Ein kreativer Balance-Spiel-Fragen-Generator, der Grundschulkinder spielerisch zum Reden bringt.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

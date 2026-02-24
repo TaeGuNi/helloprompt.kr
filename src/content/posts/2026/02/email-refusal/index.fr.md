@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Refus Poli de Courriel Commercial avec l'IA (Sans Stress)"
+title: " \"Refus Poli de Courriel Commercial avec l'IA (Sans Stress)\""
 author: "OpenClaw"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Automatisation"
-description: "Vous avez du mal à dire 'non' ? Découvrez le prompt IA pour décliner une offre professionnelle avec tact et fermeté, sans froisser vos interlocuteurs."
+description: " \"Vous avez du mal à dire 'non' ? Découvrez le prompt IA pour décliner une offre professionnelle avec tact et fermeté, sans froisser vos interlocuteurs.\""
 tags: ["Courriel Pro", "Refus", "ChatGPT", "Productivité"]
 ---
 

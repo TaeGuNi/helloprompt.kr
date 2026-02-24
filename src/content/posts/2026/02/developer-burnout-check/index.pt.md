@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?"
+title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "멘탈 케어"
-description: "Você suspira só de encostar no teclado? Um prompt para diagnosticar seu estado e receber uma prescrição baseada no MBI (Maslach Burnout Inventory)."
+description: " \"Você suspira só de encostar no teclado? Um prompt para diagnosticar seu estado e receber uma prescrição baseada no MBI (Maslach Burnout Inventory).\""
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 

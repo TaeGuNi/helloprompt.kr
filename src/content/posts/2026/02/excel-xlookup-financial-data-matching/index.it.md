@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dimentica Excel VLOOKUP: Dio Corrispondenza Dati Finanziari, XLOOKUP"
+title: " \"Dimentica Excel VLOOKUP: Dio Corrispondenza Dati Finanziari, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Fai gli straordinari a causa della lentezza e degli errori di VLOOKUP? Passa a XLOOKUP, la funzione più potente e semplice da usare."
+description: " \"Fai gli straordinari a causa della lentezza e degli errori di VLOOKUP? Passa a XLOOKUP, la funzione più potente e semplice da usare.\""
 tags: ["Excel", "Funzione", "XLOOKUP", "PuliziaDati"]
 ---
 

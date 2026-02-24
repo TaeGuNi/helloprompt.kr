@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "能听到很有眼力见的 AI 定制礼物推荐生成器"
+title: " \"能听到很有眼力见的 AI 定制礼物推荐生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "输入年龄、性别、关系与预算，为您量身定制绝不出错的完美礼物清单。"
+description: " \"输入年龄、性别、关系与预算，为您量身定制绝不出错的完美礼物清单。\""
 tags: ["礼物推荐", "纪念日", "乔迁宴", "生日"]
 ---
 

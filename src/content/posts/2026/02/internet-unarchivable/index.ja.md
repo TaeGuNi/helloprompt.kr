@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "動的コンテンツ、シングルページアプリケーション(SPA)、閉鎖的プラットフォームの増加により、オープンウェブの歴史を保存することがますます困難になっています。消えゆくウェブページを永久に保存するためのカスタマイズされたプロンプトを紹介します。"
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"動的コンテンツ、シングルページアプリケーション(SPA)、閉鎖的プラットフォームの増加により、オープンウェブの歴史を保存することがますます困難になっています。消えゆくウェブページを永久に保存するためのカスタマイズされたプロンプトを紹介します。\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ The Internet is Becoming Unarchivable
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "Web Archive"
 date: "2026-02-15"
 tags: ["動的コンテンツ", "SPA", "閉鎖的プラットフォーム"]

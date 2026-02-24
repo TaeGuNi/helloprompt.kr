@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fim da Guerra Matinal! Checklist de Rotina Matinal Autônoma"
+title: " \"Fim da Guerra Matinal! Checklist de Rotina Matinal Autônoma\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Como ajudar seu filho a se preparar sozinho todas as manhãs, sem precisar gritar."
+description: " \"Como ajudar seu filho a se preparar sozinho todas as manhãs, sem precisar gritar.\""
 tags:
   [
     "Parentalidade",

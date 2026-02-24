@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Finanz-Dashboard: Berichten Sie mit Bildern, nicht Zahlen"
+title: " \"Excel Finanz-Dashboard: Berichten Sie mit Bildern, nicht Zahlen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Schluss mit unübersichtlichen Excel-Tabellen! Erstellen Sie mit Sparklines und Bedingter Formatierung in Minutenschnelle ein Visualisierungs-Dashboard, das Ihren Chef begeistern wird."
+description: " \"Schluss mit unübersichtlichen Excel-Tabellen! Erstellen Sie mit Sparklines und Bedingter Formatierung in Minutenschnelle ein Visualisierungs-Dashboard, das Ihren Chef begeistern wird.\""
 tags: ["Excel", "Dashboard", "Visualisierung", "Bericht"]
 ---
 

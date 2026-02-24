@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Kreieren Sie in nur 15 Minuten ein gesundes Frühstück mit unserem KI-Ernährungsberater-Prompt, der Ihnen hilft, Reste aus dem Kühlschrank optimal zu verwerten."
+description: " \"Kreieren Sie in nur 15 Minuten ein gesundes Frühstück mit unserem KI-Ernährungsberater-Prompt, der Ihnen hilft, Reste aus dem Kühlschrank optimal zu verwerten.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

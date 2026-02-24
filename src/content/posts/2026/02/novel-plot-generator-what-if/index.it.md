@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Trama 'E Se' per Sbloccare il Blocco dello Scrittore"
+title: " \"Generatore di Trama 'E Se' per Sbloccare il Blocco dello Scrittore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Un prompt di brainstorming che sblocca la tua storia con ingegnosi scenari 'E se?' quando non sai come andare avanti."
+description: " \"Un prompt di brainstorming che sblocca la tua storia con ingegnosi scenari 'E se?' quando non sai come andare avanti.\""
 tags: ["ScritturaRomanzo", "Trama", "Idea", "Creazione"]
 ---
 

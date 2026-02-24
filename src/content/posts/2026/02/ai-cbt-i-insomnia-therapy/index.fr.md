@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Thérapie de l'Insomnie TCC-I IA : Soigner l'Insomnie Sans Médicament"
+title: " \"Thérapie de l'Insomnie TCC-I IA : Soigner l'Insomnie Sans Médicament\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Pratiquez la TCC-I (Thérapie Cognitivo-Comportementale pour l'Insomnie), la méthode la plus sûre et scientifiquement prouvée pour vaincre l'insomnie sans somnifères, grâce à l'IA."
+description: " \"Pratiquez la TCC-I (Thérapie Cognitivo-Comportementale pour l'Insomnie), la méthode la plus sûre et scientifiquement prouvée pour vaincre l'insomnie sans somnifères, grâce à l'IA.\""
 tags: ["Insomnie", "TCC-I", "Thérapie du Sommeil", "Soins Mentaux", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel, JSON, CSV... Échappez à la Corvée de Conversion de Format de Données"
+title: " \"Excel, JSON, CSV... Échappez à la Corvée de Conversion de Format de Données\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Passez de JSON à CSV ou de XML à JSON en un clin d'œil. Confiez vos conversions de données complexes et chronophages à l'IA."
+description: " \"Passez de JSON à CSV ou de XML à JSON en un clin d'œil. Confiez vos conversions de données complexes et chronophages à l'IA.\""
 tags: ["Conversion de Données", "JSON", "CSV", "Excel", "Productivité"]
 ---
 

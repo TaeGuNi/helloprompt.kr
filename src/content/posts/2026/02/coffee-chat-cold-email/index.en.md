@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coffee Chat Cold Email Prompt: Networking without Rejection"
+title: " \"Coffee Chat Cold Email Prompt: Networking without Rejection\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: "Craft a polite, compelling cold email or DM that guarantees a response when you want to network or seek career advice from industry professionals."
+description: " \"Craft a polite, compelling cold email or DM that guarantees a response when you want to network or seek career advice from industry professionals.\""
 tags: ["Coffee Chat", "Cold Email", "Networking", "Mentoring"]
 ---
 

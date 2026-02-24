@@ -1,7 +1,7 @@
 ---
-title: "Prompt Engineering 3.0: Die Ära der Agentischen Arbeitsabläufe"
+title: " \"Prompt Engineering 3.0: Die Ära der Agentischen Arbeitsabläufe\""
 date: "2026-02-13"
-description: "Prompt Engineering entwickelt sich von der Einzel-Prompt-Optimierung hin zum Entwurf mehrstufiger Agentensysteme. Wir tauchen tief in die Konzepte und Implementierungsstrategien von agentischen Workflows ein."
+description: " \"Prompt Engineering entwickelt sich von der Einzel-Prompt-Optimierung hin zum Entwurf mehrstufiger Agentensysteme. Wir tauchen tief in die Konzepte und Implementierungsstrategien von agentischen Workflows ein.\""
 tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 ---
 

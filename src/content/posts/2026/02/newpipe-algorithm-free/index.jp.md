@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Japanese)"
-description: "アルゴリズムによるフィードを排除した、静かなメディア消費に対するユーザーの需要が高まっています。"
+title: " \"The Rise of Algorithm Free Media (Japanese)\""
+description: " \"アルゴリズムによるフィードを排除した、静かなメディア消費に対するユーザーの需要が高まっています。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

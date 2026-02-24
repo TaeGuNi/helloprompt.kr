@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift"
-description: "Discover how AI-generated movies are fundamentally disrupting Hollywood's traditional production pipelines and what it means for creators."
+title: " \"AI-Generated Movies: The Hollywood Shift\""
+description: " \"Discover how AI-generated movies are fundamentally disrupting Hollywood's traditional production pipelines and what it means for creators.\""
 date: "2026-02-14"
 ---
 

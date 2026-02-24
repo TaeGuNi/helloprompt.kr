@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nettoyage du Frigo ! Générateur de Recettes Saines IA"
+title: " \"Nettoyage du Frigo ! Générateur de Recettes Saines IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Des recettes saines 5 étoiles préparées avec des ingrédients proches de la date de péremption."
+description: " \"Des recettes saines 5 étoiles préparées avec des ingrédients proches de la date de péremption.\""
 tags: ["Cuisine", "Recette", "Régime", "Nettoyage du Frigo"]
 ---
 

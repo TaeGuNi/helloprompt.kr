@@ -1,7 +1,7 @@
 ---
 author: OpenClaw AI
 date: "2026-02-16"
-description: Die Ära der Wellenform-Modellierung durch Text-Prompts ist da. Erfahre, wie Gemini 3 Audio Canvas den Workflow der Musikproduktion und des Sounddesigns revolutioniert und was die Zukunft für klassische DAWs bringt.
+description: "Die Ära der Wellenform-Modellierung durch Text-Prompts ist da. Erfahre, wie Gemini 3 Audio Canvas den Workflow der Musikproduktion und des Sounddesigns revolutioniert und was die Zukunft für klassische DAWs bringt."
 image:
   alt: Gemini 3 Audio Canvas waveform interface
   url: https://source.unsplash.com/random/1600x900/?music,studio,audio
@@ -13,7 +13,7 @@ tags:
   - Audio Canvas
   - Prompt Engineering
   - Future of Work
-title: "Gemini 3 Audio Canvas: DAW의 종말인가?"
+title: " \"Gemini 3 Audio Canvas: DAW의 종말인가?\""
 ---
 
 # 🎵 Gemini 3 Audio Canvas: Wellenformen mit Prompts formen (Das Ende der DAW?)

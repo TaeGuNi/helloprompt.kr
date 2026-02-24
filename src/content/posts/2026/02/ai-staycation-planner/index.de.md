@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)
+title: "집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Lifestyle
-description: Ist eine weite Reise der einzige Weg, Urlaub zu machen? Erfahren Sie, wie Sie Ihr eigenes Zimmer wie ein 5-Sterne-Hotel genießen können. Planen Sie mit KI einen perfekten Themen-Urlaub zu Hause.
+description: "Ist eine weite Reise der einzige Weg, Urlaub zu machen? Erfahren Sie, wie Sie Ihr eigenes Zimmer wie ein 5-Sterne-Hotel genießen können. Planen Sie mit KI einen perfekten Themen-Urlaub zu Hause."
 tags: [AI, Travel, Rest, Planning]
 ---
 

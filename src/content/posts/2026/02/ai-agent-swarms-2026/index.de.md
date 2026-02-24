@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (German)"
-description: "Multi-Agenten-Kollaboration ist der neue Standard für komplexe Problemlösungen."
+title: " \"AI Agent Swarms (German)\""
+description: " \"Multi-Agenten-Kollaboration ist der neue Standard für komplexe Problemlösungen.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

@@ -1,5 +1,5 @@
 ---
-title: "Descent, 웹으로 이식되다"
+title: " \"Descent, 웹으로 이식되다\""
 date: 2026-02-15
 categories: ["Web", "GameDev", "WASM"]
 tags: ["Three.js", "WebGL", "Descent", "Retro"]

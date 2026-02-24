@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (German)"
-description: "Strukturieren Sie riesige Eingaben mit klaren Trennzeichen und nutzen Sie hybride Abfragemuster für maximale KI-Leistung."
+title: " \"Optimizing for Million-Token Context Windows (German)\""
+description: " \"Strukturieren Sie riesige Eingaben mit klaren Trennzeichen und nutzen Sie hybride Abfragemuster für maximale KI-Leistung.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

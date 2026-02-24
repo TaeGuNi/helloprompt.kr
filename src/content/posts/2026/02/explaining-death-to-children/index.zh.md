@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "向孩子解释死亡：温暖的指南"
+title: " \"向孩子解释死亡：温暖的指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "如何向经历过丧亲之痛的孩子解释死亡并安慰他们。"
+description: " \"如何向经历过丧亲之痛的孩子解释死亡并安慰他们。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

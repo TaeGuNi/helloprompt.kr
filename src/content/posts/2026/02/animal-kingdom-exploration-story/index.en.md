@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Animal Kingdom Exploration: A Story of Becoming Friends with Nature"
+title: " \"Animal Kingdom Exploration: A Story of Becoming Friends with Nature\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Spark your child's curiosity with AI-generated animal bedtime stories that perfectly blend factual ecological knowledge with enchanting adventures."
+description: " \"Spark your child's curiosity with AI-generated animal bedtime stories that perfectly blend factual ecological knowledge with enchanting adventures.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

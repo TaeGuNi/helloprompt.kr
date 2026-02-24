@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Survival Items Guide for Long-Term Travelers & Digital Nomads"
+title: " \"Survival Items Guide for Long-Term Travelers & Digital Nomads\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Home away from home? Discover the essential items that will dramatically improve your quality of life during long-term travel."
+description: " \"Home away from home? Discover the essential items that will dramatically improve your quality of life during long-term travel.\""
 tags:
   ["Long-term Travel", "Month-long Stay", "World Travel", "Living Essentials"]
 ---

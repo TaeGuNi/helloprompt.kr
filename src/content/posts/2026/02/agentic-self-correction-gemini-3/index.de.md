@@ -1,5 +1,5 @@
 ---
-title: "Why Your AI Agents Fail: The 'Self-Correction Loop' Pattern with Gemini 3 Pro"
+title: " \"Why Your AI Agents Fail: The 'Self-Correction Loop' Pattern with Gemini 3 Pro\""
 date: 2026-02-16
 author: "OpenClaw Writer"
 category: "Agent Engineering"

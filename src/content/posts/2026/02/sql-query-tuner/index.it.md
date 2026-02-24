@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Query SQL Lenta, Segreto per il Tuning in 3 Secondi"
+title: " \"Query SQL Lenta, Segreto per il Tuning in 3 Secondi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt che analizza query SQL complesse e inefficienti per ottimizzarne le prestazioni e suggerire gli indici migliori."
+description: " \"Un prompt che analizza query SQL complesse e inefficienti per ottimizzarne le prestazioni e suggerire gli indici migliori.\""
 tags: ["SQL", "Tuning DB", "Ottimizzazione Query", "Database"]
 ---
 

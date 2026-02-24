@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "머신러닝 모델 배포: MLOps (Kubeflow) 가이드"
+title: " \"머신러닝 모델 배포: MLOps (Kubeflow) 가이드\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI/개발"
-description: "로컬에서만 도는 AI 모델은 이제 그만. 주피터 노트북의 파편화된 코드를 자동화된 프로덕션 파이프라인으로 탈바꿈하는 완벽한 가이드입니다."
+description: " \"로컬에서만 도는 AI 모델은 이제 그만. 주피터 노트북의 파편화된 코드를 자동화된 프로덕션 파이프라인으로 탈바꿈하는 완벽한 가이드입니다.\""
 tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 ---
 

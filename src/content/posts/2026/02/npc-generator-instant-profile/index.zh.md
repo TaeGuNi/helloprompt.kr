@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "充满生动感的 NPC 即兴生成 (NPC Generator)"
+title: " \"充满生动感的 NPC 即兴生成 (NPC Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "玩家突然搭话也别慌张。只需 10 秒，即可快速生成具备独特丰满性格、语气与隐藏秘密的 NPC。"
+description: " \"玩家突然搭话也别慌张。只需 10 秒，即可快速生成具备独特丰满性格、语气与隐藏秘密的 NPC。\""
 tags: ["TRPG", "NPC", "角色", "小说", "设定"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2026-02-15"
-description:
-  Googleが新たに発表した「Gemini Agent Ecosystem」は、単なるAIアシスタントの枠を超え、Android、Chrome、Workspaceを結ぶ真の自律型コラボレーションの時代を切り開きます。
+description: "Googleが新たに発表した「Gemini Agent Ecosystem」は、単なるAIアシスタントの枠を超え、Android、Chrome、Workspaceを結ぶ真の自律型コラボレーションの時代を切り開きます。"
 heroImage: https://picsum.photos/1600/900
 pubDate: "2026-02-15T09:00:00Z"
 tags:
@@ -10,7 +9,7 @@ tags:
   - AI Agent
   - Automation
   - Tech News
-title: "Googleの新たな自律型エージェントフレームワーク：Gemini Agent Ecosystem"
+title: " \"Googleの新たな自律型エージェントフレームワーク：Gemini Agent Ecosystem\""
 ---
 
 # 📝 Googleの新たな自律型エージェントフレームワーク：Gemini Agent Ecosystem

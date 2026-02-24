@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기"
+title: " \"Midjourney 캐릭터 일관성: 완벽한 캐릭터 시트 만들기\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: "每次用 AI 生成角色时脸部都会变化而感到困扰吗？本文将揭秘仅用一个 Midjourney 角色设定图提示词，就能打造出完美且一致的角色设计的独家技巧。"
+description: " \"每次用 AI 生成角色时脸部都会变化而感到困扰吗？本文将揭秘仅用一个 Midjourney 角色设定图提示词，就能打造出完美且一致的角色设计的独家技巧。\""
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 

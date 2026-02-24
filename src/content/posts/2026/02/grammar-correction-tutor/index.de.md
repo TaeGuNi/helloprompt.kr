@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Warum ist meine Grammatik falsch? 1:1 Korrekturlehrer"
+title: " \"Warum ist meine Grammatik falsch? 1:1 Korrekturlehrer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Fremdsprachenlernen"
-description: "Ein KI-Tutor-Prompt, der nicht nur korrigiert, sondern detailliert erklärt, warum die Grammatik falsch war."
+description: " \"Ein KI-Tutor-Prompt, der nicht nur korrigiert, sondern detailliert erklärt, warum die Grammatik falsch war.\""
 tags: ["EnglischeGrammatik", "Schreibkorrektur", "Prompt", "E-Mail-Schreiben"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Il trionfo fisico di GPT-5.2: una nuova era per le scoperte scientifiche"
-description: "GPT-5.2 di OpenAI ha segnato una svolta nel mondo scientifico, ricavando nuovi risultati nella fisica teorica. Analizziamo questo traguardo e presentiamo un prompt AI per decifrare facilmente i paper scientifici più complessi."
+title: " \"Il trionfo fisico di GPT-5.2: una nuova era per le scoperte scientifiche\""
+description: " \"GPT-5.2 di OpenAI ha segnato una svolta nel mondo scientifico, ricavando nuovi risultati nella fisica teorica. Analizziamo questo traguardo e presentiamo un prompt AI per decifrare facilmente i paper scientifici più complessi.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

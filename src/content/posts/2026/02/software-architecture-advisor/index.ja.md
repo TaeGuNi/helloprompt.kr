@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "スパゲッティコードはもうやめ！私のプロジェクトにぴったりのアーキテクチャ推薦"
+title: " \"スパゲッティコードはもうやめ！私のプロジェクトにぴったりのアーキテクチャ推薦\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "プロジェクト規模と要求事項を入力すればMVC、Clean Architecture、MSAなど最適なソフトウェアアーキテクチャを設計してくれるプロンプトです。"
+description: " \"プロジェクト規模と要求事項を入力すればMVC、Clean Architecture、MSAなど最適なソフトウェアアーキテクチャを設計してくれるプロンプトです。\""
 tags: ["アーキテクチャ", "設計", "デザインパターン", "システム設計", "MSA"]
 ---
 

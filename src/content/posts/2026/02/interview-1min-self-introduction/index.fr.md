@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Premier Bouton de l'Entretien, Prompt d'Écriture d'Auto-présentation de 1 Minute Attrayante"
+title: " \"Premier Bouton de l'Entretien, Prompt d'Écriture d'Auto-présentation de 1 Minute Attrayante\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Générez un script d'auto-présentation d'une minute qui met en valeur votre expertise et vos compétences clés, en évitant les métaphores clichés."
+description: " \"Générez un script d'auto-présentation d'une minute qui met en valeur votre expertise et vos compétences clés, en évitant les métaphores clichés.\""
 tags: ["AutoIntro1Min", "PrépEntretien", "ElevatorPitch", "AutoPrésentation"]
 ---
 

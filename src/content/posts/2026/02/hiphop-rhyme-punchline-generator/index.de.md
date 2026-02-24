@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hip-Hop Reim-Notiz: Punchline Auto-Generator Prompt"
+title: " \"Hip-Hop Reim-Notiz: Punchline Auto-Generator Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Achtung, angehende Rapper! Geben Sie einfach Ihr gewünschtes Thema und den Ziel-Reim vor, und die KI generiert messerscharfe Punchlines für Sie."
+description: " \"Achtung, angehende Rapper! Geben Sie einfach Ihr gewünschtes Thema und den Ziel-Reim vor, und die KI generiert messerscharfe Punchlines für Sie.\""
 tags: ["HipHop", "Rap", "Textschreiben", "Reim", "Punchline"]
 ---
 

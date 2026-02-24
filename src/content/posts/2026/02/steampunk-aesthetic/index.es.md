@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Romance de Máquinas de Vapor Estilo 'Steampunk'"
+title: " \"Romance de Máquinas de Vapor Estilo 'Steampunk'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Descubre cómo crear impresionantes imágenes Steampunk dominadas por engranajes de latón y máquinas de vapor utilizando inteligencia artificial."
+description: " \"Descubre cómo crear impresionantes imágenes Steampunk dominadas por engranajes de latón y máquinas de vapor utilizando inteligencia artificial.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ciencia Ficción", "Retro"]
 ---
 

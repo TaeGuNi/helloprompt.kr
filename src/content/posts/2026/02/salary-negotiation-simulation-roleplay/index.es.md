@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Quiero Subirlo! Juego de Rol de Simulación de 'Negociación Salarial'"
+title: " \"¡Quiero Subirlo! Juego de Rol de Simulación de 'Negociación Salarial'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Simula una situación tensa de negociación salarial con un gerente de Recursos Humanos virtual para perfeccionar tu lógica y maximizar tu porcentaje de aumento."
+description: " \"Simula una situación tensa de negociación salarial con un gerente de Recursos Humanos virtual para perfeccionar tu lógica y maximizar tu porcentaje de aumento.\""
 tags:
   [
     "NegociaciónSalarial",

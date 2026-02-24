@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "데이터 파이프라인(ETL): Airflow DAG 작성 자동화"
+title: " \"데이터 파이프라인(ETL): Airflow DAG 작성 자동화\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "Verlieren Sie keine Nächte mehr mit dem Coden komplexer Datenpipelines (ETL). Entdecken Sie den KI-Prompt, der Ihren Airflow-DAG-Code in nur einer Minute automatisch generiert."
+description: " \"Verlieren Sie keine Nächte mehr mit dem Coden komplexer Datenpipelines (ETL). Entdecken Sie den KI-Prompt, der Ihren Airflow-DAG-Code in nur einer Minute automatisch generiert.\""
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 ---
 

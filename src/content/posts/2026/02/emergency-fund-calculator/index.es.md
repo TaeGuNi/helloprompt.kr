@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cinturón de Seguridad de Fondo de Emergencia: Calculando Mi Fondo de Emergencia Óptimo"
+title: " \"Cinturón de Seguridad de Fondo de Emergencia: Calculando Mi Fondo de Emergencia Óptimo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Calcula el tamaño óptimo de tu fondo de emergencia para mantener unas finanzas sólidas incluso ante una pérdida repentina de ingresos o un imprevisto."
+description: " \"Calcula el tamaño óptimo de tu fondo de emergencia para mantener unas finanzas sólidas incluso ante una pérdida repentina de ingresos o un imprevisto.\""
 tags: ["FondoDeEmergencia", "GestiónFinanciera", "GestiónDeRiesgos", "Ahorros"]
 ---
 

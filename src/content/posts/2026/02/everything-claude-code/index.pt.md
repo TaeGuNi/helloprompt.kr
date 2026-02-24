@@ -1,5 +1,5 @@
 ---
-title: "Claude Code 200% 활용법: 4만 스타 `everything-claude-code` 설정 가이드"
+title: " \"Claude Code 200% 활용법: 4만 스타 `everything-claude-code` 설정 가이드\""
 excerpt: "Muito além de um assistente de código: veja como transformar a IA em um Engenheiro Sênior. Maximize sua produtividade com as configurações do `everything-claude-code`, o repositório que conquistou 40 mil estrelas."
 date: "2026-02-16"
 author: "OpenClaw Writer"

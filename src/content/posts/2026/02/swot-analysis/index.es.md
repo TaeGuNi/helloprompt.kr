@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estándar de Análisis Corporativo: Analizador FODA con IA"
+title: " \"Estándar de Análisis Corporativo: Analizador FODA con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Prompt para identificar de un vistazo las fortalezas, debilidades, oportunidades y amenazas de una empresa antes de invertir."
+description: " \"Prompt para identificar de un vistazo las fortalezas, debilidades, oportunidades y amenazas de una empresa antes de invertir.\""
 tags: ["Acciones", "AnálisisCorporativo", "FODA", "Estrategia"]
 ---
 

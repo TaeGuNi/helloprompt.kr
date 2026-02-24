@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미드저니 v7: 진짜보다 더 진짜 같은 사진 뽑는 프롬프트 공식"
+title: " \"미드저니 v7: 진짜보다 더 진짜 같은 사진 뽑는 프롬프트 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/생성형 AI"
-description: "Le guide ultime de Midjourney v7 ! Découvrez le prompt secret qui génère instantanément des images hyper-réalistes, dignes d'un photographe professionnel en studio."
+description: " \"Le guide ultime de Midjourney v7 ! Découvrez le prompt secret qui génère instantanément des images hyper-réalistes, dignes d'un photographe professionnel en studio.\""
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 

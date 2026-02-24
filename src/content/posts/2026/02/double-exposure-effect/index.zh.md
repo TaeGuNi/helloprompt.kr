@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "两个图像合二为一 'Double Exposure' (双重曝光)"
+title: " \"两个图像合二为一 'Double Exposure' (双重曝光)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "通过重叠两张截然不同的图像，创作出神秘且充满梦幻色彩的双重曝光（Double Exposure）技法。"
+description: " \"通过重叠两张截然不同的图像，创作出神秘且充满梦幻色彩的双重曝光（Double Exposure）技法。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 

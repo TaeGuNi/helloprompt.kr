@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Italian)"
-description: "L'uso dei character reference trasforma radicalmente lo storytelling visivo."
+title: " \"Midjourney Character Consistency (Italian)\""
+description: " \"L'uso dei character reference trasforma radicalmente lo storytelling visivo.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

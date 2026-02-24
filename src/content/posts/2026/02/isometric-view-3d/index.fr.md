@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de 'Vue Isométrique' du Monde Miniature Mignon"
+title: " \"Prompt de 'Vue Isométrique' du Monde Miniature Mignon\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Créez d'adorables scènes tridimensionnelles miniatures et des icônes 3D avec le prompt de vue isométrique."
+description: " \"Créez d'adorables scènes tridimensionnelles miniatures et des icônes 3D avec le prompt de vue isométrique.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "3D"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "개발자를 위한 아침 명상: 버그 없는 하루를 위하여"
+title: " \"개발자를 위한 아침 명상: 버그 없는 하루를 위하여\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "멘탈 관리"
-description: "Pausa di riflessione per liberarsi da algoritmi complessi e codice spaghetti. Una guida alla meditazione per eseguire il 'debug' della tua mente."
+description: " \"Pausa di riflessione per liberarsi da algoritmi complessi e codice spaghetti. Una guida alla meditazione per eseguire il 'debug' della tua mente.\""
 tags: ["개발자", "명상", "멘탈관리", "스트레스해소"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "WebAssembly (Wasm) nel Cloud: Oltre il Browser"
+title: " \"WebAssembly (Wasm) nel Cloud: Oltre il Browser\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Un'analisi approfondita di come WebAssembly sta ridefinendo il cloud computing e le architetture serverless nel 2026. Dal Component Model all'Edge Computing."
+description: " \"Un'analisi approfondita di come WebAssembly sta ridefinendo il cloud computing e le architetture serverless nel 2026. Dal Component Model all'Edge Computing.\""
 author: "Hello Prompt AI"
 tags: ["Wasm", "Cloud", "Serverless"]
 ---

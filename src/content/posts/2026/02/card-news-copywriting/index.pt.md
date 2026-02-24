@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Segredos de Redação de Card News que Chamam Cliques"
+title: " \"Segredos de Redação de Card News que Chamam Cliques\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escrita"
-description: "Um prompt capaz de gerar manchetes magnéticas e textos persuasivos para card news, garantindo que os usuários parem de rolar o feed do Instagram."
+description: " \"Um prompt capaz de gerar manchetes magnéticas e textos persuasivos para card news, garantindo que os usuários parem de rolar o feed do Instagram.\""
 tags: ["Card News", "Redação", "Marketing SNS"]
 ---
 

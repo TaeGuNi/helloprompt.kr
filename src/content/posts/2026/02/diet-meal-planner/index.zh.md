@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "不需要 PT 老师的 AI 定制减肥食谱制作"
+title: " \"不需要 PT 老师的 AI 定制减肥食谱制作\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "只需 1 分钟，AI 就能根据你的体质、目标体重和饮食偏好，量身定制出一周完美的减脂食谱。"
+description: " \"只需 1 分钟，AI 就能根据你的体质、目标体重和饮食偏好，量身定制出一周完美的减脂食谱。\""
 tags: ["减肥", "食谱管理", "健身", "健康"]
 ---
 

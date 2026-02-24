@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 미라클 모닝 루틴, AI로 설계하기
+title: "미라클 모닝 루틴, AI로 설계하기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: Хватит бросать «Магию утра» на третий день! Раскрываем секрет создания идеальной утренней рутины с помощью ChatGPT.
+description: "Хватит бросать «Магию утра» на третий день! Раскрываем секрет создания идеальной утренней рутины с помощью ChatGPT."
 tags: [AI, ChatGPT, Prompt]
 ---
 

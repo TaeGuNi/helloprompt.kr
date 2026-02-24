@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (it)"
-description: "Un'analisi approfondita su AI Agents 2.0: gli sciami collaborativi e come rivoluzioneranno i flussi di lavoro aziendali."
+title: " \"AI Agents 2.0: Collaborative Swarms (it)\""
+description: " \"Un'analisi approfondita su AI Agents 2.0: gli sciami collaborativi e come rivoluzioneranno i flussi di lavoro aziendali.\""
 date: "2026-02-14"
 ---
 

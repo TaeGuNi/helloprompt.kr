@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (German)"
-description: "Die lokale Ausführung leistungsstarker LLMs auf Geräten ist nun Mainstream und verbessert den Datenschutz."
+title: " \"Privacy First Edge AI (German)\""
+description: " \"Die lokale Ausführung leistungsstarker LLMs auf Geräten ist nun Mainstream und verbessert den Datenschutz.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

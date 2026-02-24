@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Heimtrainings-Routinen-Generator, um fit zu werden, ohne ins Fitnessstudio zu gehen"
+title: " \"KI-Heimtrainings-Routinen-Generator, um fit zu werden, ohne ins Fitnessstudio zu gehen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Entwerfen Sie die optimale Heimtrainingsroutine, die exakt auf Ihre körperliche Leistungsfähigkeit und die verfügbaren Geräte zugeschnitten ist."
+description: " \"Entwerfen Sie die optimale Heimtrainingsroutine, die exakt auf Ihre körperliche Leistungsfähigkeit und die verfügbaren Geräte zugeschnitten ist.\""
 tags: ["Heimtraining", "Übung", "Fitness", "Routine"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Smart Device Privacy Risks (Russian)"
-description: "Твои мозговые волны могут стать публичными: сбор данных ИИ не знает границ."
+title: " \"Smart Device Privacy Risks (Russian)\""
+description: " \"Твои мозговые волны могут стать публичными: сбор данных ИИ не знает границ.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]

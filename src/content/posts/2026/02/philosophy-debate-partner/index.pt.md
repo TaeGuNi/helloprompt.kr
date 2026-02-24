@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Discutindo com Sócrates: Parceiro de Debate Filosófico"
+title: " \"Discutindo com Sócrates: Parceiro de Debate Filosófico\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/História"
-description: "Um prompt onde a IA assume a persona de um filósofo célebre, utilizando o Método Socrático para desafiar seus argumentos e expandir seu pensamento crítico."
+description: " \"Um prompt onde a IA assume a persona de um filósofo célebre, utilizando o Método Socrático para desafiar seus argumentos e expandir seu pensamento crítico.\""
 tags: ["Filosofia", "PoderLógico", "Debate", "ExperimentoMental"]
 ---
 

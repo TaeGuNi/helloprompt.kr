@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "雨の日の家で行う室内宝探しゲームプロンプト"
+title: " \"雨の日の家で行う室内宝探しゲームプロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "AIを活用してたった5分で準備完了！我が家だけのオーダーメイド宝探しゲームのヒント作成プロンプト"
+description: " \"AIを活用してたった5分で準備完了！我が家だけのオーダーメイド宝探しゲームのヒント作成プロンプト\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

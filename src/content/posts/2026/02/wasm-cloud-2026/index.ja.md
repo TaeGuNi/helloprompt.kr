@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "クラウドにおけるWebAssembly (Wasm): ブラウザの枠を超えて"
+title: " \"クラウドにおけるWebAssembly (Wasm): ブラウザの枠を超えて\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026年現在、WebAssemblyがクラウドコンピューティングとサーバーレスアーキテクチャをどのように再定義しているかを詳細に分析します。コンポーネントモデルからエッジコンピューティングまでを網羅しています。"
+description: " \"2026年現在、WebAssemblyがクラウドコンピューティングとサーバーレスアーキテクチャをどのように再定義しているかを詳細に分析します。コンポーネントモデルからエッジコンピューティングまでを網羅しています。\""
 author: "Hello Prompt AI"
 tags: ["Wasm", "Cloud", "Serverless"]
 ---

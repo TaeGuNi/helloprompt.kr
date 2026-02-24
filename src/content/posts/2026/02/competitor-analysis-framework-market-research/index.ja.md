@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "市場を掌握する競合分析フレームワーク"
+title: " \"市場を掌握する競合分析フレームワーク\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "競合他社の強みと弱みを深く掘り下げ、実務に直結するベンチマーキングポイントを発見するAIプロンプト。"
+description: " \"競合他社の強みと弱みを深く掘り下げ、実務に直結するベンチマーキングポイントを発見するAIプロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

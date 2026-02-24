@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "不失礼貌的催促商务邮件写法"
+title: " \"不失礼貌的催促商务邮件写法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "一款能在对方未回复时，不失礼貌且干练地进行催促的商务邮件提示词。"
+description: " \"一款能在对方未回复时，不失礼貌且干练地进行催促的商务邮件提示词。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

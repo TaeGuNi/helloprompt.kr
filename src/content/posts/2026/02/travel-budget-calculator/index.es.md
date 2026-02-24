@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estimación de Gastos de Viaje: Plan Perfecto Sin Exceso de Presupuesto"
+title: " \"Estimación de Gastos de Viaje: Plan Perfecto Sin Exceso de Presupuesto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Crea un presupuesto de viaje con un margen de error menor al 10%, calculando desde vuelos hasta el costo de vida real del destino."
+description: " \"Crea un presupuesto de viaje con un margen de error menor al 10%, calculando desde vuelos hasta el costo de vida real del destino.\""
 tags: ["Viaje", "Presupuesto", "PlanViaje", "Gastos"]
 ---
 

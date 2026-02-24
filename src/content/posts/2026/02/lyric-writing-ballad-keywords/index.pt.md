@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estreia de Letrista? Escrevendo Letras de Balada Emocional com 3 Palavras-chave"
+title: " \"Estreia de Letrista? Escrevendo Letras de Balada Emocional com 3 Palavras-chave\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Com apenas 3 palavras que vêm à mente, a IA cria um rascunho de letra com a carga emocional de um letrista profissional."
+description: " \"Com apenas 3 palavras que vêm à mente, a IA cria um rascunho de letra com a carga emocional de um letrista profissional.\""
 tags: ["Letras", "EscritaLetras", "Balada", "Música"]
 ---
 

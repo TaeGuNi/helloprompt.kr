@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configurazione Ambiente Docker, 3 Minuti con Un File di Config"
+title: " \"Configurazione Ambiente Docker, 3 Minuti con Un File di Config\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt che genera automaticamente Dockerfile e docker-compose.yml per trasformare l'ambiente di esecuzione dell'applicazione in un container."
+description: " \"Un prompt che genera automaticamente Dockerfile e docker-compose.yml per trasformare l'ambiente di esecuzione dell'applicazione in un container.\""
 tags: ["Docker", "Container", "Distribuzione", "DevOps"]
 ---
 

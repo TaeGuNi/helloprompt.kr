@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Encanto de los Grabados en Madera Japoneses Estilo 'Ukiyo-e'"
+title: " \"Encanto de los Grabados en Madera Japoneses Estilo 'Ukiyo-e'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt para crear ilustraciones de olas y paisajes con la cautivadora estética tradicional japonesa del estilo Ukiyo-e."
+description: " \"Prompt para crear ilustraciones de olas y paisajes con la cautivadora estética tradicional japonesa del estilo Ukiyo-e.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Tradicional"]
 ---

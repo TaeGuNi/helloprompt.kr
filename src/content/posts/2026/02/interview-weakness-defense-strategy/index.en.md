@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview 'Weakness Defense' Logic Maker (Turning Crisis into Opportunity)"
+title: " \"Interview 'Weakness Defense' Logic Maker (Turning Crisis into Opportunity)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Prepare a solid logic to honestly acknowledge your fatal weaknesses (career break, low GPA) while emphasizing your lessons learned and growth."
+description: " \"Prepare a solid logic to honestly acknowledge your fatal weaknesses (career break, low GPA) while emphasizing your lessons learned and growth.\""
 tags:
   [
     "WeaknessDefense",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Padrão de Análise Corporativa: Analisador SWOT IA"
+title: " \"Padrão de Análise Corporativa: Analisador SWOT IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Prompt para identificar rapidamente as forças, fraquezas, oportunidades e ameaças da empresa em que você planeja investir."
+description: " \"Prompt para identificar rapidamente as forças, fraquezas, oportunidades e ameaças da empresa em que você planeja investir.\""
 tags: ["Ações", "AnáliseCorporativa", "SWOT", "Estratégia"]
 ---
 

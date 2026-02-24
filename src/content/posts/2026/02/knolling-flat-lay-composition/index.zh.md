@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "整理整顿的美学 'Knolling' 风格"
+title: " \"整理整顿的美学 'Knolling' 风格\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "使用 Knolling（平铺摆放）技法，将物品呈直角整齐排列并俯拍的 AI 绘画提示词指南。"
+description: " \"使用 Knolling（平铺摆放）技法，将物品呈直角整齐排列并俯拍的 AI 绘画提示词指南。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

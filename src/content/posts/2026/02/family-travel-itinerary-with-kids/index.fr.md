@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Itinéraire de Voyage en Famille avec Enfants : Planification Paisible"
+title: " \"Itinéraire de Voyage en Famille avec Enfants : Planification Paisible\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Un prompt magique pour des vacances en famille, préservant l'énergie des enfants et la sérénité des parents."
+description: " \"Un prompt magique pour des vacances en famille, préservant l'énergie des enfants et la sérénité des parents.\""
 tags: ["Voyage en Famille", "Parentalité", "Zone Enfants", "Plan de Voyage"]
 ---
 

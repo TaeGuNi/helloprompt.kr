@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estratégia de Power Nap para Produtividade: Melhor que Café!"
+title: " \"Estratégia de Power Nap para Produtividade: Melhor que Café!\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Sonolência após o almoço? Não lute contra ela. Aprenda a técnica 'Coffee Nap' para dormir exatamente 20 minutos e acordar revigorado."
+description: " \"Sonolência após o almoço? Não lute contra ela. Aprenda a técnica 'Coffee Nap' para dormir exatamente 20 minutos e acordar revigorado.\""
 tags: ["Cochilo", "Produtividade", "Sono", "Coffee Nap", "ChatGPT"]
 ---
 

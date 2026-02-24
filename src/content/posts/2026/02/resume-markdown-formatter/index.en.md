@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape Resume Formatting Hell: Markdown Converter"
+title: " \"Escape Resume Formatting Hell: Markdown Converter\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Instantly convert jumbled resume drafts into a clean, professional Markdown format, perfect for Notion or PDF export."
+description: " \"Instantly convert jumbled resume drafts into a clean, professional Markdown format, perfect for Notion or PDF export.\""
 tags: ["ResumeFormat", "Markdown", "NotionResume", "DocOrganization"]
 ---
 

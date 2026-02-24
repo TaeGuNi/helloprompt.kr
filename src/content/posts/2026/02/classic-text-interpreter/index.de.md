@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI liest historische Aufzeichnungen: Klassischer Text-Interpret"
+title: " \"KI liest historische Aufzeichnungen: Klassischer Text-Interpret\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: "Ein Prompt, der komplexe und schwer verständliche historische Dokumente sowie Primärquellen in eine moderne Sprache übersetzt und deren verborgene Bedeutungen entschlüsselt."
+description: " \"Ein Prompt, der komplexe und schwer verständliche historische Dokumente sowie Primärquellen in eine moderne Sprache übersetzt und deren verborgene Bedeutungen entschlüsselt.\""
 tags:
   [
     "Geschichte",

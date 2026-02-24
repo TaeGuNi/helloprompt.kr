@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "代理型 IDE 的崛起：2026 年 AI 如何重塑编程"
+title: " \"代理型 IDE 的崛起：2026 年 AI 如何重塑编程\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026 年，编程范式已彻底改变。本文深入解析代理型 IDE 的核心优势，并提供能让 AI 自主思考、跨文件重构的满分架构师级提示词。"
+description: " \"2026 年，编程范式已彻底改变。本文深入解析代理型 IDE 的核心优势，并提供能让 AI 自主思考、跨文件重构的满分架构师级提示词。\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

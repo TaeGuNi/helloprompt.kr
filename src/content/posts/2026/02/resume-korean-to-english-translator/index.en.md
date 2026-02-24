@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Changing Korean Resume to Native-Level English Resume"
+title: " \"Prompt Changing Korean Resume to Native-Level English Resume\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Go beyond simple translation. Perfectly convert your Korean resume into a professional English format tailored to the Western recruitment culture."
+description: " \"Go beyond simple translation. Perfectly convert your Korean resume into a professional English format tailored to the Western recruitment culture.\""
 tags:
   [
     "EnglishResume",

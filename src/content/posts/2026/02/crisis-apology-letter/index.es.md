@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gestión de Crisis 101: Cómo Escribir Cartas de Disculpa Profesionales"
+title: " \"Gestión de Crisis 101: Cómo Escribir Cartas de Disculpa Profesionales\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Escritura de Negocios"
-description: "El tiempo de oro para solucionar errores. Un prompt de IA para redactar correos de disculpa que reconstruyen la confianza en lugar de sonar a excusa barata."
+description: " \"El tiempo de oro para solucionar errores. Un prompt de IA para redactar correos de disculpa que reconstruyen la confianza en lugar de sonar a excusa barata.\""
 tags: ["Disculpa", "Email", "Negocios", "GestiónCrisis", "Comunicación"]
 ---
 

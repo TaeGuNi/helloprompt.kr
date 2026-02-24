@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Formules Excel Complexes, Prompt Qui Les Écrit Quand Expliquées avec des Mots"
+title: " \"Formules Excel Complexes, Prompt Qui Les Écrit Quand Expliquées avec des Mots\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Perdu avec RECHERCHEV ou INDEX EQUIV ? Décrivez simplement votre problème, et l'IA générera la formule Excel parfaite pour vous."
+description: " \"Perdu avec RECHERCHEV ou INDEX EQUIV ? Décrivez simplement votre problème, et l'IA générera la formule Excel parfaite pour vous.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

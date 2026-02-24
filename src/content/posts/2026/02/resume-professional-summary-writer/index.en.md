@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "First Impression of Resume, 'Summary' Writing Prompt"
+title: " \"First Impression of Resume, 'Summary' Writing Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Generate a powerful 3-5 line professional summary for the top of your resume to dramatically increase your screening pass rate."
+description: " \"Generate a powerful 3-5 line professional summary for the top of your resume to dramatically increase your screening pass rate.\""
 tags: ["Resume", "Summary", "ProfileSummary", "SelfIntro"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduisez les Termes Juridiques Extraterrestres Pour Que Même les Élèves de Primaire Comprennent"
+title: " \"Traduisez les Termes Juridiques Extraterrestres Pour Que Même les Élèves de Primaire Comprennent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Un prompt IA pour vulgariser les contrats complexes (baux, CGV) et identifier rapidement les clauses abusives ou risquées."
+description: " \"Un prompt IA pour vulgariser les contrats complexes (baux, CGV) et identifier rapidement les clauses abusives ou risquées.\""
 tags: ["Droit", "Contrat", "Droit de la Vie"]
 ---
 

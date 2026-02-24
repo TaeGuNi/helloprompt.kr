@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (German)"
-description: "Effectively managing token usage is key to reducing costs and improving LLM focus"
+title: " \"Optimizing Context Windows (German)\""
+description: " \"Effectively managing token usage is key to reducing costs and improving LLM focus\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

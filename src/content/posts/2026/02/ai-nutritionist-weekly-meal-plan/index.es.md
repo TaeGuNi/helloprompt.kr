@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nutricionista con IA: Generador de Plan de Comidas Semanal Personalizado"
+title: " \"Nutricionista con IA: Generador de Plan de Comidas Semanal Personalizado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Descubre cómo usar la IA como tu nutricionista personal para diseñar un plan de comidas semanal perfectamente adaptado a tus objetivos, tiempo y gustos."
+description: " \"Descubre cómo usar la IA como tu nutricionista personal para diseñar un plan de comidas semanal perfectamente adaptado a tus objetivos, tiempo y gustos.\""
 tags:
   ["Dieta", "Gestión de Comidas", "Salud", "ChatGPT", "Preparación de Comidas"]
 ---

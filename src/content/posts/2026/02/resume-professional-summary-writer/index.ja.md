@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "履歴書の第一印象、「核心要約(Summary)」作成プロンプト"
+title: " \"履歴書の第一印象、「核心要約(Summary)」作成プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "履歴書の最上段に配置する3〜5行の強力なプロフィール要約（Professional Summary）を作成し、書類選考の通過率を飛躍的に高めます。"
+description: " \"履歴書の最上段に配置する3〜5行の強力なプロフィール要約（Professional Summary）を作成し、書類選考の通過率を飛躍的に高めます。\""
 tags: ["履歴書", "Summary", "プロフィール要約", "自己紹介"]
 ---
 

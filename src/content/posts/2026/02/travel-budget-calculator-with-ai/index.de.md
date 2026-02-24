@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reisebudget-Rechner mit KI: Kostengünstiges Reisen"
+title: " \"Reisebudget-Rechner mit KI: Kostengünstiges Reisen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Wie viel Bargeld brauche ich? Die KI berechnet das perfekte Reisebudget ohne finanzielle Engpässe."
+description: " \"Wie viel Bargeld brauche ich? Die KI berechnet das perfekte Reisebudget ohne finanzielle Engpässe.\""
 tags: ["Reisekosten", "Budget", "Währungsumtausch", "Reisevorbereitung"]
 ---
 

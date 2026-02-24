@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Chega de Desistir! Design de Rastreador de Formação de Hábitos com IA"
+title: " \"Chega de Desistir! Design de Rastreador de Formação de Hábitos com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Não dependa da força de vontade. Construa um sistema infalível de formação de hábitos baseado na neurociência usando a IA."
+description: " \"Não dependa da força de vontade. Construa um sistema infalível de formação de hábitos baseado na neurociência usando a IA.\""
 tags: ["Hábito", "Rotina", "GodLife", "Autodesenvolvimento"]
 ---
 

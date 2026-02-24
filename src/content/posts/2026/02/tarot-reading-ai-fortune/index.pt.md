@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Leitura de Cartas de Tarô: Fortuna de Hoje IA Prevê"
+title: " \"Leitura de Cartas de Tarô: Fortuna de Hoje IA Prevê\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Com uma preocupação em mente? Deixe nosso Mestre de Tarô IA tirar as cartas e interpretar o seu futuro."
+description: " \"Com uma preocupação em mente? Deixe nosso Mestre de Tarô IA tirar as cartas e interpretar o seu futuro.\""
 tags: ["Tarô", "Fortuna", "Adivinhação", "Aconselhamento", "Passatempo"]
 ---
 

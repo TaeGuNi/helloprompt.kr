@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Overcoming Presentation Phobia! Creating Presentation Scripts"
+title: " \"Overcoming Presentation Phobia! Creating Presentation Scripts\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Generate natural and engaging presentation scripts for each PPT slide."
+description: " \"Generate natural and engaging presentation scripts for each PPT slide.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

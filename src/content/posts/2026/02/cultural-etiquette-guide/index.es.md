@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Gran Problema si Cometes un Error! Guía de Cultura y Etiqueta Específica del País con IA"
+title: " \"¡Gran Problema si Cometes un Error! Guía de Cultura y Etiqueta Específica del País con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "¿Cuánta propina dejar? ¿Qué gestos evitar? Descubre cómo no ser el típico turista maleducado usando IA."
+description: " \"¿Cuánta propina dejar? ¿Qué gestos evitar? Descubre cómo no ser el típico turista maleducado usando IA.\""
 tags: ["Viajes", "Etiqueta", "Cultura", "Modales"]
 ---
 

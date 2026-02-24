@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Chrome DevTools용 MCP 서버: AI 에이전트의 웹 디버깅 혁명"
+title: " \"Chrome DevTools용 MCP 서버: AI 에이전트의 웹 디버깅 혁명\""
 date: 2026-02-14
-description: "Model Context Protocol (MCP)을 통해 AI 에이전트가 Chrome DevTools에 접근하여 웹 애플리케이션을 직접 디버깅하고 검증하는 방법을 알아봅니다."
+description: " \"Model Context Protocol (MCP)을 통해 AI 에이전트가 Chrome DevTools에 접근하여 웹 애플리케이션을 직접 디버깅하고 검증하는 방법을 알아봅니다.\""
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

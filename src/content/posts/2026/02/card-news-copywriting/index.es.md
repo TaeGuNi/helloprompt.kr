@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secretos de Redacción de Card News que Llaman a los Clics"
+title: " \"Secretos de Redacción de Card News que Llaman a los Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escritura"
-description: "Un prompt que extrae titulares magnéticos y textos para 'card news' capaces de frenar el scroll en el feed de Instagram."
+description: " \"Un prompt que extrae titulares magnéticos y textos para 'card news' capaces de frenar el scroll en el feed de Instagram.\""
 tags: ["Card News", "Redacción", "Marketing SNS"]
 ---
 

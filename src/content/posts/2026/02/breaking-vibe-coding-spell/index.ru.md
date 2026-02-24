@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Russian)"
-description: "От иллюзий к инженерии: почему переход от программирования по наитию (Vibe Coding) к строгим стандартам ИИ-разработки — главный тренд 2026 года."
+title: " \"Breaking the Spell of Vibe Coding (Russian)\""
+description: " \"От иллюзий к инженерии: почему переход от программирования по наитию (Vibe Coding) к строгим стандартам ИИ-разработки — главный тренд 2026 года.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

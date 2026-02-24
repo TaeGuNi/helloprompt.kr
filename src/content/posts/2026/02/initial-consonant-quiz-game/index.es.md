@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Juego de Adivinanzas de Letra Inicial: Prompt para Explosión de Vocabulario"
+title: " \"Juego de Adivinanzas de Letra Inicial: Prompt para Explosión de Vocabulario\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Aprende palabras a través de juegos en lugar de aburridas sesiones de estudio. Únete a un árbitro de IA para crear adivinanzas infinitas."
+description: " \"Aprende palabras a través de juegos en lugar de aburridas sesiones de estudio. Únete a un árbitro de IA para crear adivinanzas infinitas.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

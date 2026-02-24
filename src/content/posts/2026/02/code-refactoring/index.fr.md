@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mon code est une poubelle ! Le coach de refactorisation Clean Code"
+title: " \"Mon code est une poubelle ! Le coach de refactorisation Clean Code\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Codage/IT"
-description: "Un prompt qui transforme un code désordonné et difficile à maintenir en un code propre, lisible et robuste."
+description: " \"Un prompt qui transforme un code désordonné et difficile à maintenir en un code propre, lisible et robuste.\""
 tags: ["Refactorisation", "Clean Code", "Développeur", "Revue de code"]
 ---
 

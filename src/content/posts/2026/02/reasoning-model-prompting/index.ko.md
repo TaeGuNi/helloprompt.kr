@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)"
+title: " \"생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)\""
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "프롬프트 엔지니어링"
-description: "추론 모델(Reasoning Model) 시대, 기존 프롬프트 방식은 왜 실패하는가? o1과 DeepSeek-R1을 위한 새로운 프롬프트 공식을 소개합니다."
+description: " \"추론 모델(Reasoning Model) 시대, 기존 프롬프트 방식은 왜 실패하는가? o1과 DeepSeek-R1을 위한 새로운 프롬프트 공식을 소개합니다.\""
 tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
 ---
 

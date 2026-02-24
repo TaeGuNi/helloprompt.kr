@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Generated HIIT Workout Routine: Sweat in 20 Minutes"
+title: " \"AI Generated HIIT Workout Routine: Sweat in 20 Minutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Short on time but want to lose weight? Let AI generate a daily High-Intensity Interval Training (HIIT) routine tailored just for you."
+description: " \"Short on time but want to lose weight? Let AI generate a daily High-Intensity Interval Training (HIIT) routine tailored just for you.\""
 tags: ["HIIT", "Tabata", "Diet", "Exercise", "ChatGPT"]
 ---
 

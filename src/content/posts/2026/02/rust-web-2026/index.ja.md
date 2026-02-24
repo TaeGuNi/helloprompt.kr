@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Web開発のためのRust：2026年のエコシステム現状"
+title: " \"Web開発のためのRust：2026年のエコシステム現状\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026年現在のWeb開発エコシステムにおけるRustの立ち位置、AxumやLeptosといったフレームワークの成熟度、そしてパフォーマンスと開発者体験（DX）のバランスについて深く掘り下げます。"
+description: " \"2026年現在のWeb開発エコシステムにおけるRustの立ち位置、AxumやLeptosといったフレームワークの成熟度、そしてパフォーマンスと開発者体験（DX）のバランスについて深く掘り下げます。\""
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---

@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Strukturierte Datenextraktion meistern mit Google LangExtract"
+title: " \"Strukturierte Datenextraktion meistern mit Google LangExtract\""
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "Erfahren Sie, wie Sie mit der neuen LangExtract-Bibliothek von Google präzises JSON und strukturierte Daten zuverlässig aus LLMs extrahieren."
+description: " \"Erfahren Sie, wie Sie mit der neuen LangExtract-Bibliothek von Google präzises JSON und strukturierte Daten zuverlässig aus LLMs extrahieren.\""
 author: "Hello Prompt"
 image:
   url: "https://docs.astro.build/assets/full-logo-light.png"

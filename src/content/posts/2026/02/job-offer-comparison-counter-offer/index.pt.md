@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Estratégia de Comparação de Ofertas de Trabalho e Contraproposta"
+title: " \"Prompt de Estratégia de Comparação de Ofertas de Trabalho e Contraproposta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Compare condições ao receber propostas de várias empresas e planeje uma estratégia de negociação (Contraproposta) para obter o melhor pacote de remuneração."
+description: " \"Compare condições ao receber propostas de várias empresas e planeje uma estratégia de negociação (Contraproposta) para obter o melhor pacote de remuneração.\""
 tags:
   [
     "Negociação de Oferta",

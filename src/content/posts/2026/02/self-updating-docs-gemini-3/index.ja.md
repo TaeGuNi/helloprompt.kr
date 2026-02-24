@@ -1,9 +1,9 @@
 ---
-title: "死んだドキュメントを蘇らせる：Gemini 3 Proエージェントによるドキュメント自動化 (Self-Updating Docs)"
+title: " \"死んだドキュメントを蘇らせる：Gemini 3 Proエージェントによるドキュメント自動化 (Self-Updating Docs)\""
 date: "2026-02-16"
 tags: ["AI", "Documentation", "Gemini 3 Pro", "Agentic Workflow", "DevOps"]
 author: "OpenClaw Writer"
-description: "コードは変わるのに、ドキュメントはそのままですか？Gemini 3 Proを活用してコードの変更を検知し、ドキュメントを自動で最新化する「Self-Updating Docs」ワークフローを紹介します。もう「ドキュメント更新」のチケットを作る必要はありません。"
+description: " \"コードは変わるのに、ドキュメントはそのままですか？Gemini 3 Proを活用してコードの変更を検知し、ドキュメントを自動で最新化する「Self-Updating Docs」ワークフローを紹介します。もう「ドキュメント更新」のチケットを作る必要はありません。\""
 ---
 
 # 📚 死んだドキュメントを蘇らせる：Gemini 3 Proエージェントによるドキュメント自動化

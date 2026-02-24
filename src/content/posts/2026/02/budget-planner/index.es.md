@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevención de Cierre de Sesión de Salario: Planificador de Cuentas del Hogar con IA"
+title: " \"Prevención de Cierre de Sesión de Salario: Planificador de Cuentas del Hogar con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Un prompt que crea el plan de presupuesto mensual perfecto con solo ingresar tu salario y tus gastos fijos."
+description: " \"Un prompt que crea el plan de presupuesto mensual perfecto con solo ingresar tu salario y tus gastos fijos.\""
 tags: ["CuentasHogar", "Presupuesto", "Ahorro", "Finanzas"]
 ---
 

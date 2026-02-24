@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "Les médias présentent les robots de LG et Samsung comme révolutionnaires, mais la réalité de l'ingénierie se heurte toujours aux lois de la physique."
+description: " \"Les médias présentent les robots de LG et Samsung comme révolutionnaires, mais la réalité de l'ingénierie se heurte toujours aux lois de la physique.\""
 image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "IA Physique : Hype vs Réalité"
+title: " \"IA Physique : Hype vs Réalité\""
 ---
 
 # 🤖 IA Physique : Hype vs Réalité

@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: Why Your 'Second Brain' Needs More Than Just Vectors"
-description: "Vector search is great for similarity, but terrible for reasoning. Learn how to build a personal Knowledge Graph (GraphRAG) with Neo4j and LangChain to connect the dots in your notes."
+title: " \"GraphRAG: Why Your 'Second Brain' Needs More Than Just Vectors\""
+description: " \"Vector search is great for similarity, but terrible for reasoning. Learn how to build a personal Knowledge Graph (GraphRAG) with Neo4j and LangChain to connect the dots in your notes.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Perguntas de Entrevista, IA Escolhe Para Você"
+title: " \"Lista de Perguntas de Entrevista, IA Escolhe Para Você\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Gerador de perguntas de entrevista afiadas que penetram nas capacidades do candidato."
+description: " \"Gerador de perguntas de entrevista afiadas que penetram nas capacidades do candidato.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "성찰의 시간 저널링 프롬프트 생성기"
+title: " \"성찰의 시간 저널링 프롬프트 생성기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Un prompt de journaling sur mesure pour déclencher une introspection profonde et favoriser votre croissance personnelle lorsque vous faites face au syndrome de la page blanche."
+description: " \"Un prompt de journaling sur mesure pour déclencher une introspection profonde et favoriser votre croissance personnelle lorsque vous faites face au syndrome de la page blanche.\""
 tags: ["글쓰기", "치유", "회고", "저널링"]
 ---
 

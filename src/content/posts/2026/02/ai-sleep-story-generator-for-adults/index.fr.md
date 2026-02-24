@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur d'Histoires de Sommeil IA pour Adultes : Histoires du Soir pour Grands"
+title: " \"Générateur d'Histoires de Sommeil IA pour Adultes : Histoires du Soir pour Grands\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Compter les moutons est ennuyeux et les histoires à suspense vous tiennent éveillé... L'IA crée pour vous sur-le-champ un conte du soir apaisant, conçu spécialement pour les adultes."
+description: " \"Compter les moutons est ennuyeux et les histoires à suspense vous tiennent éveillé... L'IA crée pour vous sur-le-champ un conte du soir apaisant, conçu spécialement pour les adultes.\""
 tags: ["Histoire de Sommeil", "Insomnie", "ASMR", "Guérison", "TTS"]
 ---
 

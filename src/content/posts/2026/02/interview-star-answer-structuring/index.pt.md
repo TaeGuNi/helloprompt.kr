@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando a Resposta da Entrevista Divaga! Prompt de Estruturação com a 'Técnica STAR'"
+title: " \"Quando a Resposta da Entrevista Divaga! Prompt de Estruturação com a 'Técnica STAR'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Para quem costuma falar muito e perder o foco nas entrevistas: estruture qualquer experiência usando a técnica STAR (Situação-Tarefa-Ação-Resultado)."
+description: " \"Para quem costuma falar muito e perder o foco nas entrevistas: estruture qualquer experiência usando a técnica STAR (Situação-Tarefa-Ação-Resultado).\""
 tags: ["TécnicaSTAR", "RespostaEntrevista", "Estruturação", "FalaLógica"]
 ---
 

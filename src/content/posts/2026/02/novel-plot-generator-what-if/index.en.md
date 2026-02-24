@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'What If' Plot Generator to Unblock Writer's Block"
+title: " \"'What If' Plot Generator to Unblock Writer's Block\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A brainstorming prompt that generates ingenious narrative developments with a single 'What If?' question when you are hit with writer's block."
+description: " \"A brainstorming prompt that generates ingenious narrative developments with a single 'What If?' question when you are hit with writer's block.\""
 tags: ["NovelWriting", "Plot", "Idea", "Creation"]
 ---
 

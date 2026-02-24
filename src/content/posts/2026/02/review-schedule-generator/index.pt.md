@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Condução Reversa da Curva do Esquecimento: Gerador de Cronograma de Revisão"
+title: " \"Condução Reversa da Curva do Esquecimento: Gerador de Cronograma de Revisão\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudo/Autodesenvolvimento"
-description: "Descubra o momento exato para revisar e nunca mais esquecer o que estudou com este prompt baseado na Curva do Esquecimento de Ebbinghaus."
+description: " \"Descubra o momento exato para revisar e nunca mais esquecer o que estudou com este prompt baseado na Curva do Esquecimento de Ebbinghaus.\""
 tags: ["PlanoEstudo", "CurvaEsquecimento", "Revisão", "Agendamento"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "1분 만에 끝내는 어제 업무 요약 & 스탠드업 준비"
+title: " \"1분 만에 끝내는 어제 업무 요약 & 스탠드업 준비\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "总是忘记昨天做了什么，开会前疯狂翻 GitHub 的开发者们注意了。只需丢入 Commit Log，AI 就能在1分钟内为你生成一份清晰、专业的每日站会汇报脚本。"
+description: " \"总是忘记昨天做了什么，开会前疯狂翻 GitHub 的开发者们注意了。只需丢入 Commit Log，AI 就能在1分钟内为你生成一份清晰、专业的每日站会汇报脚本。\""
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 

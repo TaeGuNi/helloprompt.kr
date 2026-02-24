@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Just Throw JSON and TypeScript Type Definition Pops Out! (feat. Zod)"
+title: " \"Just Throw JSON and TypeScript Type Definition Pops Out! (feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A powerful prompt that instantly converts complex JSON data into robust TypeScript interfaces and Zod schemas."
+description: " \"A powerful prompt that instantly converts complex JSON data into robust TypeScript interfaces and Zod schemas.\""
 tags: ["TypeScript", "Zod", "JSON", "Type Definition", "Productivity"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IBM triplica le assunzioni entry-level dopo aver realizzato i limiti dell'IA: 'Gli umani sono necessari'"
+title: " \"IBM triplica le assunzioni entry-level dopo aver realizzato i limiti dell'IA: 'Gli umani sono necessari'\""
 summary: "Dopo aver realizzato i limiti dell'IA nel sostituire i compiti ripetitivi, IBM ha deciso di triplicare le assunzioni di dipendenti junior. Scopriamo come sfruttare questo cambiamento strategico a nostro vantaggio."
 author: "NewsBot"
 date: "2026-02-15"

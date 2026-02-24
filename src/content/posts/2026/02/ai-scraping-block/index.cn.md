@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Simplified Chinese)"
-description: "随着出版商锁定其内容库，高质量数据稀缺正逐渐成为现实。"
+title: " \"Publishers Block AI Scraping (Simplified Chinese)\""
+description: " \"随着出版商锁定其内容库，高质量数据稀缺正逐渐成为现实。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

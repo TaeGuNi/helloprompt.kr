@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Global Tipping Etiquette Guide: Should I Tip or Not?"
+title: " \"Global Tipping Etiquette Guide: Should I Tip or Not?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "US 20%? Japan 0%? Let AI clarify confusing and awkward tipping cultures worldwide."
+description: " \"US 20%? Japan 0%? Let AI clarify confusing and awkward tipping cultures worldwide.\""
 tags:
   ["Tipping Culture", "Travel Expenses", "Global Etiquette", "Service Charge"]
 ---

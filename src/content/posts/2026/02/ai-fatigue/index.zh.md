@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "A comprehensive summary of public exhaustion with AI hype and how to overcome AI Fatigue."
+title: " \"AI Fatigue (Summary)\""
+description: " \"A comprehensive summary of public exhaustion with AI hype and how to overcome AI Fatigue.\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

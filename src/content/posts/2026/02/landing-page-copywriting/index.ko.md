@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식"
+title: " \"랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "고객이 들어오자마자 나가는 이유는? 히어로 섹션(Hero Section)부터 CTA까지, 스크롤을 내리게 만드는 심리학적 카피 작성법."
+description: " \"고객이 들어오자마자 나가는 이유는? 히어로 섹션(Hero Section)부터 CTA까지, 스크롤을 내리게 만드는 심리학적 카피 작성법.\""
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 

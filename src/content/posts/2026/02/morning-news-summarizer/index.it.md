@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ricevi il Briefing delle Notizie Notturne dall'IA in 1 Minuto"
+title: " \"Ricevi il Briefing delle Notizie Notturne dall'IA in 1 Minuto\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Produttività"
-description: "Un prompt per farti leggere le tendenze del mondo in 1 minuto durante il tragitto casa-lavoro con il tuo giornalista IA personale."
+description: " \"Un prompt per farti leggere le tendenze del mondo in 1 minuto durante il tragitto casa-lavoro con il tuo giornalista IA personale.\""
 tags: ["Notizie", "Riassunto", "ChatGPT", "Risparmio di Tempo"]
 ---
 

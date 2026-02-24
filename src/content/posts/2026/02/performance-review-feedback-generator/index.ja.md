@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "傷つけずに成長させる人事評価コメント"
+title: " \"傷つけずに成長させる人事評価コメント\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "成果レビューやフィードバック作成の苦痛を軽減するプロンプト。"
+description: " \"成果レビューやフィードバック作成の苦痛を軽減するプロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

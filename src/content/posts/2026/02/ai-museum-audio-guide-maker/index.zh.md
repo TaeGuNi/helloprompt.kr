@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI博物馆语音导览制作器：手中的策展人"
+title: " \"AI博物馆语音导览制作器：手中的策展人\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "教你如何省下10欧元的语音导览租赁费！只需拍下艺术品的照片，AI就能为你进行深度解读。"
+description: " \"教你如何省下10欧元的语音导览租赁费！只需拍下艺术品的照片，AI就能为你进行深度解读。\""
 tags: ["博物馆", "美术馆", "语音导览", "讲解员", "艺术鉴赏"]
 ---
 

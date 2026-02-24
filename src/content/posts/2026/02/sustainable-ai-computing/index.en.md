@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing"
-description: "A comprehensive guide to optimizing energy efficiency and reducing the carbon footprint of AI workflows."
+title: " \"Sustainable AI Computing\""
+description: " \"A comprehensive guide to optimizing energy efficiency and reducing the carbon footprint of AI workflows.\""
 date: "2026-02-14"
 ---
 

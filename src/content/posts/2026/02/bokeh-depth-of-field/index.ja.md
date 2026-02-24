@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "感性的な背景ぼかし「Bokeh & Depth of Field」"
+title: " \"感性的な背景ぼかし「Bokeh & Depth of Field」\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "背景を美しくぼかして被写体を際立たせ、感性をくすぐる玉ボケ（Bokeh）を作り出すプロンプトガイドです。"
+description: " \"背景を美しくぼかして被写体を際立たせ、感性をくすぐる玉ボケ（Bokeh）を作り出すプロンプトガイドです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 

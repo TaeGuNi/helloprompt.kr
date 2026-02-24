@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ensinando a Compartilhar e Cuidar: Uma História Moral para Crianças"
+title: " \"Ensinando a Compartilhar e Cuidar: Uma História Moral para Crianças\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Uma história sobre 'Doces Mágicos' que muda uma criança gananciosa."
+description: " \"Uma história sobre 'Doces Mágicos' que muda uma criança gananciosa.\""
 tags:
   [
     "Parentalidade",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? La Prescrizione Definitiva per Scegliere la Struttura Dati"
+title: " \"List? Map? Set? La Prescrizione Definitiva per Scegliere la Struttura Dati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Non sai quale struttura dati utilizzare? Scopri il prompt che ti suggerisce la soluzione più efficiente (List, Map, Set) in base alle tue specifiche esigenze di performance."
+description: " \"Non sai quale struttura dati utilizzare? Scopri il prompt che ti suggerisce la soluzione più efficiente (List, Map, Set) in base alle tue specifiche esigenze di performance.\""
 tags: ["Struttura Dati", "Algoritmo", "Ottimizzazione Prestazioni", "Basi CS"]
 ---
 

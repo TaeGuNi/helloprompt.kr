@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling"
+title: " \"Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Productivity Tools"
-description: "Transform chaos into clarity. Dump your overwhelming tasks into Notion AI, and instantly receive a prioritized, executable daily schedule."
+description: " \"Transform chaos into clarity. Dump your overwhelming tasks into Notion AI, and instantly receive a prioritized, executable daily schedule.\""
 tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 ---
 

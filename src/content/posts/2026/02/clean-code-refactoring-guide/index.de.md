@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schmutzigen Code in 1 Sekunde in sauberen Code refaktorisieren"
+title: " \"Schmutzigen Code in 1 Sekunde in sauberen Code refaktorisieren\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der komplexen Spaghetti-Code in leicht lesbaren und wartbaren sauberen Code umwandelt."
+description: " \"Ein Prompt, der komplexen Spaghetti-Code in leicht lesbaren und wartbaren sauberen Code umwandelt.\""
 tags: ["Refactoring", "Clean Code", "Wartung", "Entwicklerproduktivität"]
 ---
 

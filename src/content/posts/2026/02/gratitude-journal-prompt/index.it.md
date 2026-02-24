@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minuti Cura Mentale Quotidiana, Diario della Gratitudine IA e Prompt Retrospezione"
+title: " \"5 Minuti Cura Mentale Quotidiana, Diario della Gratitudine IA e Prompt Retrospezione\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Non restare a fissare uno schermo vuoto. Ritrova la serenità rispondendo alle domande mirate dell'IA per il tuo diario della gratitudine."
+description: " \"Non restare a fissare uno schermo vuoto. Ritrova la serenità rispondendo alle domande mirate dell'IA per il tuo diario della gratitudine.\""
 tags: ["Diario", "Retrospezione", "Diario della Gratitudine", "Cura Mentale"]
 ---
 

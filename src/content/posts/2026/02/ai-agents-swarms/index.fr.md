@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (fr)"
-description: "Découvrez comment simuler un essaim d'agents IA collaboratifs (Swarm) pour résoudre des problèmes complexes."
+title: " \"AI Agents 2.0: Collaborative Swarms (fr)\""
+description: " \"Découvrez comment simuler un essaim d'agents IA collaboratifs (Swarm) pour résoudre des problèmes complexes.\""
 date: "2026-02-14"
 ---
 

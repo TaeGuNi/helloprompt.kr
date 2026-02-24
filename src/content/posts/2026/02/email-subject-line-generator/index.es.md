@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Asuntos de Correo Electrónico Que Dispara las Tasas de Apertura"
+title: " \"Generador de Asuntos de Correo Electrónico Que Dispara las Tasas de Apertura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Evita que tus boletines vayan directo al spam. Descubre cómo escribir asuntos de correo electrónico que los clientes no tengan más remedio que abrir."
+description: " \"Evita que tus boletines vayan directo al spam. Descubre cómo escribir asuntos de correo electrónico que los clientes no tengan más remedio que abrir.\""
 tags:
   [
     "Marketing por Correo Electrónico",

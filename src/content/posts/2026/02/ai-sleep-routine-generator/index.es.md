@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Rutina de Sueño con IA: Enseñando a tu Cerebro que es Hora de Dormir"
+title: " \"Generador de Rutina de Sueño con IA: Enseñando a tu Cerebro que es Hora de Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Diseña un ritual de sueño infalible con IA y entrena a tu cerebro para dormir al instante usando reflejos condicionados."
+description: " \"Diseña un ritual de sueño infalible con IA y entrena a tu cerebro para dormir al instante usando reflejos condicionados.\""
 tags: ["Rutina de Sueño", "Insomnio", "Hábito", "Salud", "ChatGPT"]
 ---
 

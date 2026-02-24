@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI宏量营养素计算器：只需拍张照"
+title: " \"AI宏量营养素计算器：只需拍张照\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "告别繁琐的卡路里记录App！教你如何仅凭一张照片或简单的文字描述，让AI为你精准计算碳水、蛋白质和脂肪比例。"
+description: " \"告别繁琐的卡路里记录App！教你如何仅凭一张照片或简单的文字描述，让AI为你精准计算碳水、蛋白质和脂肪比例。\""
 tags: ["宏量", "营养素", "饮食", "ChatGPT", "膳食记录"]
 ---
 

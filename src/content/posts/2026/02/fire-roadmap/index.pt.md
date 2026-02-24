@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roteiro da Tribo FIRE: Regra dos 4% para Aposentadoria Antecipada"
+title: " \"Roteiro da Tribo FIRE: Regra dos 4% para Aposentadoria Antecipada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Descubra como calcular seu Número FIRE e simule o tempo exato para alcançar a tão sonhada liberdade financeira e aposentadoria antecipada."
+description: " \"Descubra como calcular seu Número FIRE e simule o tempo exato para alcançar a tão sonhada liberdade financeira e aposentadoria antecipada.\""
 tags: ["FIRE", "AposentadoriaAntecipada", "LiberdadeFinanceira", "Finanças"]
 ---
 

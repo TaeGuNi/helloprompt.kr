@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Otimização de Consulta SQL, Antes que o BD Grite"
+title: " \"Otimização de Consulta SQL, Antes que o BD Grite\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Um prompt que analisa consultas SQL lentas e complexas para otimizar a performance e sugerir a criação de índices."
+description: " \"Um prompt que analisa consultas SQL lentas e complexas para otimizar a performance e sugerir a criação de índices.\""
 tags: ["SQL", "Ajuste de BD", "Backend"]
 ---
 

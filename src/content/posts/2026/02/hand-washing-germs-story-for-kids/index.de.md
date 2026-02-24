@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Händewaschen & Keime Geschichte für Kinder"
+title: " \"Händewaschen & Keime Geschichte für Kinder\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Spielerische und wissenschaftliche Überzeugungskraft, um Ihr Kind ohne Nörgeln zum Waschbecken zu schicken."
+description: " \"Spielerische und wissenschaftliche Überzeugungskraft, um Ihr Kind ohne Nörgeln zum Waschbecken zu schicken.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instagram Caption Generator That Calls for Likes"
+title: " \"Instagram Caption Generator That Calls for Likes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Automatically generate engaging Instagram captions with perfect tone and relevant hashtags when you have the right photo but lack the right words."
+description: " \"Automatically generate engaging Instagram captions with perfect tone and relevant hashtags when you have the right photo but lack the right words.\""
 tags: ["Instagram", "SNS Marketing", "Copywriting", "Social Media"]
 ---
 

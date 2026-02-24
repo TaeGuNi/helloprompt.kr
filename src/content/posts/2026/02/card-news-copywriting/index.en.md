@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secrets of Card News Copywriting That Calls for Clicks"
+title: " \"Secrets of Card News Copywriting That Calls for Clicks\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Writing"
-description: "A prompt that extracts powerful headlines and card news copy to stop the scroll on Instagram feeds."
+description: " \"A prompt that extracts powerful headlines and card news copy to stop the scroll on Instagram feeds.\""
 tags: ["Card News", "Copywriting", "SNS Marketing"]
 ---
 

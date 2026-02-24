@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comment Transformer l'Année de Césure du CV en 'Force' et non en Faiblesse"
+title: " \"Comment Transformer l'Année de Césure du CV en 'Force' et non en Faiblesse\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Transformez votre période d'inactivité (année de césure) en un atout stratégique pour votre CV et vos entretiens, en valorisant le repos et l'exploration personnelle comme un véritable développement professionnel."
+description: " \"Transformez votre période d'inactivité (année de césure) en un atout stratégique pour votre CV et vos entretiens, en valorisant le repos et l'exploration personnelle comme un véritable développement professionnel.\""
 tags:
   [
     "AnnéeCésure",

@@ -1,7 +1,7 @@
 ---
-title: "웹 개발을 위한 Rust: 2026년의 관점"
+title: " \"웹 개발을 위한 Rust: 2026년의 관점\""
 date: 2026-02-13
-description: "Em 2026, exploramos o ecossistema de backend em Rust — a escolha dominante para serviços web de alta performance — e apresentamos prompts de design de arquitetura."
+description: " \"Em 2026, exploramos o ecossistema de backend em Rust — a escolha dominante para serviços web de alta performance — e apresentamos prompts de design de arquitetura.\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

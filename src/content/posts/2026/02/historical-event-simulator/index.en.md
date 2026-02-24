@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jump into History: Historical Event Simulator"
+title: " \"Jump into History: Historical Event Simulator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanities/History"
-description: "Experience history firsthand with this text-based adventure prompt. Step into the shoes of historical figures and see how your choices reshape the past."
+description: " \"Experience history firsthand with this text-based adventure prompt. Step into the shoes of historical figures and see how your choices reshape the past.\""
 tags: ["HistoryStudy", "Gamification", "Simulation", "AlternateHistory"]
 ---
 

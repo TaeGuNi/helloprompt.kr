@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Brouillon de Lettre de Motivation Adapté à la Description de Poste (JD)"
+title: " \"Générateur de Brouillon de Lettre de Motivation Adapté à la Description de Poste (JD)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Analysez la description de poste (JD) et rédigez en une minute un brouillon de lettre de motivation parfaitement aligné avec le profil recherché par l'entreprise."
+description: " \"Analysez la description de poste (JD) et rédigez en une minute un brouillon de lettre de motivation parfaitement aligné avec le profil recherché par l'entreprise.\""
 tags: ["LettreDeMotivation", "AutoIntro", "AnalyseJD", "Emploi"]
 ---
 

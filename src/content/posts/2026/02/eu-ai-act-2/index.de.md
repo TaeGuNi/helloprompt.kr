@@ -1,8 +1,8 @@
 ---
-title: "Eu Ai Act 2 (German)"
-description: "Kritische Analyse des EU AI Act 2: Die strikte Durchsetzung für generative Videos beginnt."
+title: " \"Eu Ai Act 2 (German)\""
+description: " \"Kritische Analyse des EU AI Act 2: Die strikte Durchsetzung für generative Videos beginnt.\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Complex Excel Formulas, Prompt That Writes Them When Explained in Words"
+title: " \"Complex Excel Formulas, Prompt That Writes Them When Explained in Words\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Confused about VLOOKUP or INDEX MATCH? Just explain the situation in plain English, and this prompt will write the perfect Excel function for you."
+description: " \"Confused about VLOOKUP or INDEX MATCH? Just explain the situation in plain English, and this prompt will write the perfect Excel function for you.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

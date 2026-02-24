@@ -1,6 +1,6 @@
 ---
 date: "2026-02-13"
-description: "The rise of Sovereign AI and on-device SLMs (Small Language Models) reducing cloud dependency and enhancing data privacy."
+description: " \"The rise of Sovereign AI and on-device SLMs (Small Language Models) reducing cloud dependency and enhancing data privacy.\""
 image: /images/sovereign-ai-2026.jpg
 pubDate: "2026-02-13"
 tags:
@@ -9,7 +9,7 @@ tags:
   - Sovereign AI
   - Privacy
   - "2026 Trends"
-title: "2026 Sovereign AI and Edge Computing Revolution: The Era of Data Sovereignty"
+title: " \"2026 Sovereign AI and Edge Computing Revolution: The Era of Data Sovereignty\""
 ---
 
 # 🛡️ 2026 Sovereign AI and Edge Computing Revolution: The Era of Data Sovereignty

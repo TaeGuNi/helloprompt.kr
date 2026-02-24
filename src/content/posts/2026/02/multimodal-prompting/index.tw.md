@@ -1,6 +1,6 @@
 ---
-title: "多模態提示：超越文本"
-description: "2026年，提示工程不再侷限於純文字。探索結合圖像、音訊和影片的多模態提示世界，釋放十倍生產力。"
+title: " \"多模態提示：超越文本\""
+description: " \"2026年，提示工程不再侷限於純文字。探索結合圖像、音訊和影片的多模態提示世界，釋放十倍生產力。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]

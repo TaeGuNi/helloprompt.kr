@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mundo do Tiro Super Close-up Prompt 'Fotografia Macro'"
+title: " \"Mundo do Tiro Super Close-up Prompt 'Fotografia Macro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de fotografia macro para capturar detalhes minúsculos invisíveis a olho nu."
+description: " \"Prompt de fotografia macro para capturar detalhes minúsculos invisíveis a olho nu.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "Detalhes"]
 ---

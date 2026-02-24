@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preprocesando Datos Desordenados de Excel Claramente"
+title: " \"Preprocesando Datos Desordenados de Excel Claramente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Descubre los mejores métodos y prompts para limpiar datos en Excel: separar direcciones, extraer códigos postales y unificar formatos en segundos."
+description: " \"Descubre los mejores métodos y prompts para limpiar datos en Excel: separar direcciones, extraer códigos postales y unificar formatos en segundos.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

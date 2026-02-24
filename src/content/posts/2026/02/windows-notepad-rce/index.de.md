@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의"
+title: " \"윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안"
-description: "CVE-2026-20841, 메모장을 여는 것만으로 해킹될 수 있다?"
+description: " \"CVE-2026-20841, 메모장을 여는 것만으로 해킹될 수 있다?\""
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

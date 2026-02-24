@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Agent Security Guide: How to Prevent Your Bot from Being Hacked"
+title: " \"AI Agent Security Guide: How to Prevent Your Bot from Being Hacked\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Security/AI"
-description: "A practical guide to preventing autonomous AI agents from leaking API keys or executing malicious code. Includes OWASP LLM Top 10-based security prompts."
+description: " \"A practical guide to preventing autonomous AI agents from leaking API keys or executing malicious code. Includes OWASP LLM Top 10-based security prompts.\""
 tags: ["AIAgent", "Security", "PromptInjection", "AntiHacking", "LLM", "OWASP"]
 ---
 

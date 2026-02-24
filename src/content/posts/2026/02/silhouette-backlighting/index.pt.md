@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso de 'Luz de Fundo' de Silhueta Intensa"
+title: " \"Uso de 'Luz de Fundo' de Silhueta Intensa\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de luz de fundo (backlight) e silhuetas que enfatiza a forma e a atmosfera, ocultando os detalhes do sujeito nas sombras."
+description: " \"Prompt de luz de fundo (backlight) e silhuetas que enfatiza a forma e a atmosfera, ocultando os detalhes do sujeito nas sombras.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composição", "Iluminação"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nommage de Startup/Marque : Créer des Noms Mémorables"
+title: " \"Nommage de Startup/Marque : Créer des Noms Mémorables\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Le nom d'une marque peut déterminer son destin ! Trouvez des idées de noms percutantes et mémorables grâce à l'IA."
+description: " \"Le nom d'une marque peut déterminer son destin ! Trouvez des idées de noms percutantes et mémorables grâce à l'IA.\""
 tags: ["Nommage", "Marque", "Startup", "Marketing", "Idée"]
 ---
 

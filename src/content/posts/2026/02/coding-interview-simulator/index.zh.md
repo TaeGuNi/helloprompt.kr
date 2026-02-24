@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "开发者面试免通过: 算法面试模拟考试"
+title: " \"开发者面试免通过: 算法面试模拟考试\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编程/IT"
-description: "专为备战一线大厂机试与技术面试设计的 AI 面试官实战模拟提示词。"
+description: " \"专为备战一线大厂机试与技术面试设计的 AI 面试官实战模拟提示词。\""
 tags: ["编程测试", "技术面试", "算法", "就业准备"]
 ---
 

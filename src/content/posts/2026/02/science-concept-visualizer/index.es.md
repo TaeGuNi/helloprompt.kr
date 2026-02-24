@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Haciendo Visibles Conceptos Invisibles: Ayudante de Visualización de Conceptos"
+title: " \"Haciendo Visibles Conceptos Invisibles: Ayudante de Visualización de Conceptos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemáticas/Ciencias"
-description: "Prompt que ilustra principios científicos abstractos o conceptos matemáticos complejos utilizando diagramas de texto (ASCII Art) y analogías cotidianas."
+description: " \"Prompt que ilustra principios científicos abstractos o conceptos matemáticos complejos utilizando diagramas de texto (ASCII Art) y analogías cotidianas.\""
 tags: ["EstudioCiencia", "Visualización", "Comprensión", "ASCIIArt"]
 ---
 

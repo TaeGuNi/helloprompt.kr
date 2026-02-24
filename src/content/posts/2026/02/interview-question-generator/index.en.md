@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview Question List, AI Picks For You"
+title: " \"Interview Question List, AI Picks For You\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A sharp interview question generator that penetrates the applicant's true capabilities."
+description: " \"A sharp interview question generator that penetrates the applicant's true capabilities.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

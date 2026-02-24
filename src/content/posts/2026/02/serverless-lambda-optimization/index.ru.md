@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법"
+title: " \"서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"
-description: "서버비 아끼려다 속도 느려져서 욕먹는 당신. 람다의 고질병 '콜드 스타트'를 잡고 성능을 극대화하는 튜닝 팁."
+description: " \"서버비 아끼려다 속도 느려져서 욕먹는 당신. 람다의 고질병 '콜드 스타트'를 잡고 성능을 극대화하는 튜닝 팁.\""
 tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 ---
 

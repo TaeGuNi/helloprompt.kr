@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Traditional Chinese)"
-description: "隨著出版商封鎖內容資料庫，AI 訓練資料稀缺已成為現實。"
+title: " \"Publishers Block AI Scraping (Traditional Chinese)\""
+description: " \"隨著出版商封鎖內容資料庫，AI 訓練資料稀缺已成為現實。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

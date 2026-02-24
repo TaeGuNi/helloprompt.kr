@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "繰り返されるExcel単純作業、マクロ(VBA)で自動化する"
+title: " \"繰り返されるExcel単純作業、マクロ(VBA)で自動化する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "コーディングの知識は不要。状況を説明するだけでVBAコードを作成してくれる魔法のプロンプト。"
+description: " \"コーディングの知識は不要。状況を説明するだけでVBAコードを作成してくれる魔法のプロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stoat: O Anti-Copilot que Exclui Códigos Escritos por LLMs"
-description: "Pare de gerar código. O Stoat é um 'anti-copilot' que detecta, remove códigos inflados e redundantes criados por IA, e coloca sua base de código em uma dieta rigorosa."
+title: " \"Stoat: O Anti-Copilot que Exclui Códigos Escritos por LLMs\""
+description: " \"Pare de gerar código. O Stoat é um 'anti-copilot' que detecta, remove códigos inflados e redundantes criados por IA, e coloca sua base de código em uma dieta rigorosa.\""
 date: 2026-02-15
 tags:
   - AI

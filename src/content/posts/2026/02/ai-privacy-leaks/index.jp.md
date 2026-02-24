@@ -1,6 +1,6 @@
 ---
-title: "Smart Device Privacy Risks (Japanese)"
-description: "スマートデバイスのプライバシーリスクを分析し、あなたの脳波や行動データがAIに搾取されるのを防ぐためのプロンプト"
+title: " \"Smart Device Privacy Risks (Japanese)\""
+description: " \"スマートデバイスのプライバシーリスクを分析し、あなたの脳波や行動データがAIに搾取されるのを防ぐためのプロンプト\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]

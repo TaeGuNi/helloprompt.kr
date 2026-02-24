@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney 2026: V7 버전 완벽 가이드"
+title: " \"Midjourney 2026: V7 버전 완벽 가이드\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 아트/디자인"
-description: "Больше никаких «шести пальцев». От рендеринга текста до 3D-моделирования: как использовать новые функции Midjourney v7 на 200%."
+description: " \"Больше никаких «шести пальцев». От рендеринга текста до 3D-моделирования: как использовать новые функции Midjourney v7 на 200%.\""
 tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 ---
 

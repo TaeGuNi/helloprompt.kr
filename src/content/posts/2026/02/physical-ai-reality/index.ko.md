@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: 미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다.
+description: "미디어는 LG와 삼성의 로봇이 당장이라도 세상을 바꿀 것처럼 떠들지만, 엔지니어링의 현실은 여전히 물리법칙과 싸우고 있습니다."
 heroImage: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "피지컬 AI: 과장된 기대와 차가운 현실"
+title: " \"피지컬 AI: 과장된 기대와 차가운 현실\""
 ---
 
 # 📝 피지컬 AI: 과장된 기대와 차가운 현실

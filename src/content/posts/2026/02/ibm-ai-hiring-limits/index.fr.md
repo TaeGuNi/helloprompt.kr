@@ -1,5 +1,5 @@
 ---
-title: "IBM triple les embauches de débutants après avoir réalisé les limites de l'IA : 'Les humains sont nécessaires'"
+title: " \"IBM triple les embauches de débutants après avoir réalisé les limites de l'IA : 'Les humains sont nécessaires'\""
 summary: "Après avoir réalisé les limites de l'IA dans le remplacement des tâches de débutants, IBM a décidé de tripler ses embauches d'employés de la génération Z. Nous explorons ce changement paradoxal de stratégie."
 author: "NewsBot"
 date: "2026-02-15"

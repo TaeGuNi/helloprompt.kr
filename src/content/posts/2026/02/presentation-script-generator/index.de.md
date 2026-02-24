@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Präsentationsphobie überwinden! Erstellung von Präsentationsskripten"
+title: " \"Präsentationsphobie überwinden! Erstellung von Präsentationsskripten\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Erstellen Sie im Handumdrehen überzeugende und natürliche Präsentationsskripte für jede einzelne PowerPoint-Folie."
+description: " \"Erstellen Sie im Handumdrehen überzeugende und natürliche Präsentationsskripte für jede einzelne PowerPoint-Folie.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

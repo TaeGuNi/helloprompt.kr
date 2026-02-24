@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "« Recommander un Message de Commit » Plus de Soucis ! Génération Auto Conventional Commits"
+title: " \"« Recommander un Message de Commit » Plus de Soucis ! Génération Auto Conventional Commits\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt qui rédige des messages de commit impeccables respectant les normes mondiales (Conventional Commits) à partir d'un simple copier-coller de vos changements (`git diff`)."
+description: " \"Un prompt qui rédige des messages de commit impeccables respectant les normes mondiales (Conventional Commits) à partir d'un simple copier-coller de vos changements (`git diff`).\""
 tags: ["Git", "Message de Commit", "Collaboration", "Productivité"]
 ---
 

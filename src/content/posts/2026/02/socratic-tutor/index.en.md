@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트"
+title: " \"나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "자기계발"
-description: "A Socratic learning guide where AI doesn't just hand you the answers, but asks precise questions to help you realize the truth yourself."
+description: " \"A Socratic learning guide where AI doesn't just hand you the answers, but asks precise questions to help you realize the truth yourself.\""
 tags: ["학습", "자기계발", "메타인지", "튜터링"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedInパーソナルブランディング投稿生成器：日常業務をインサイトに変える"
+title: " \"LinkedInパーソナルブランディング投稿生成器：日常業務をインサイトに変える\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職・転職"
-description: "特別な成果がなくても、日常の業務経験とインサイトを魅力的なコンテンツに変えて、LinkedInでの影響力を育てます。"
+description: " \"特別な成果がなくても、日常の業務経験とインサイトを魅力的なコンテンツに変えて、LinkedInでの影響力を育てます。\""
 tags:
   [
     "パーソナルブランディング",

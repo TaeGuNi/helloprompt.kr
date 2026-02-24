@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso da Iluminação 'Hora Dourada', o Momento Mais Bonito"
+title: " \"Uso da Iluminação 'Hora Dourada', o Momento Mais Bonito\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Aplique a 'Golden Hour', o truque definitivo para criar imagens quentes e repletas de emoção, diretamente nos seus prompts."
+description: " \"Aplique a 'Golden Hour', o truque definitivo para criar imagens quentes e repletas de emoção, diretamente nos seus prompts.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Iluminação"]
 ---
 

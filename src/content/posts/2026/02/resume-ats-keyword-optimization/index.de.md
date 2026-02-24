@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ATS (Rekrutierungslösung) Fail verhindern! Lebenslauf-Schlüsselwort-Optimierungs-Prompt"
+title: " \"ATS (Rekrutierungslösung) Fail verhindern! Lebenslauf-Schlüsselwort-Optimierungs-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Integrieren Sie ATS-freundliche Schlüsselwörter (Applicant Tracking System) natürlich in Ihren Lebenslauf, um das automatische Aussortieren zu verhindern."
+description: " \"Integrieren Sie ATS-freundliche Schlüsselwörter (Applicant Tracking System) natürlich in Ihren Lebenslauf, um das automatische Aussortieren zu verhindern.\""
 tags: ["ATS", "Lebenslaufoptimierung", "Schlüsselwort", "Rekrutierungssystem"]
 ---
 

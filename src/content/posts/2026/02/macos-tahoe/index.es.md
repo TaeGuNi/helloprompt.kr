@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe: La controversia detrás del redimensionamiento de ventanas"
-description: "Explorando los cambios en el redimensionamiento de ventanas en macOS Tahoe y las reacciones mixtas de los usuarios."
+title: " \"macOS Tahoe: La controversia detrás del redimensionamiento de ventanas\""
+description: " \"Explorando los cambios en el redimensionamiento de ventanas en macOS Tahoe y las reacciones mixtas de los usuarios.\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

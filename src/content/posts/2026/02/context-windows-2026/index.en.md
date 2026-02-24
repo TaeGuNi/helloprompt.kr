@@ -1,6 +1,6 @@
 ---
-title: "Context Windows 2026: The Era of Limitless Possibility"
-description: "In 2026, AI context windows have surpassed 10 million tokens. What does this mean for RAG and prompt engineering?"
+title: " \"Context Windows 2026: The Era of Limitless Possibility\""
+description: " \"In 2026, AI context windows have surpassed 10 million tokens. What does this mean for RAG and prompt engineering?\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Context Window", "LLM", "2026"]

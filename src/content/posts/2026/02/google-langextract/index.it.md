@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Padroneggiare l’estrazione di dati strutturati con Google LangExtract"
+title: " \"Padroneggiare l’estrazione di dati strutturati con Google LangExtract\""
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "Scopri come dire addio ai parser fragili e ottenere JSON perfetti dagli LLM con la nuova libreria LangExtract di Google."
+description: " \"Scopri come dire addio ai parser fragili e ottenere JSON perfetti dagli LLM con la nuova libreria LangExtract di Google.\""
 author: "Hello Prompt"
 image:
   url: "https://docs.astro.build/assets/full-logo-light.png"

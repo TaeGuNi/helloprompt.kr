@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube Script Structuring Secret for High Views"
+title: " \"YouTube Script Structuring Secret for High Views\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Writing"
-description: "A prompt that structures a YouTube video script to prevent churn in the first 5 seconds and keep viewers watching until the very end."
+description: " \"A prompt that structures a YouTube video script to prevent churn in the first 5 seconds and keep viewers watching until the very end.\""
 tags: ["YouTube", "Script", "Video Production"]
 ---
 

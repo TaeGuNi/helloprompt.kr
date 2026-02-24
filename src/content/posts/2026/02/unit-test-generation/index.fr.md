@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Trop paresseux pour écrire du code de test ? L'IA le fera pour vous"
+title: " \"Trop paresseux pour écrire du code de test ? L'IA le fera pour vous\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Développement"
-description: "Un prompt qui génère automatiquement les codes fastidieux de tests unitaires, en prenant en compte jusqu'aux cas limites."
+description: " \"Un prompt qui génère automatiquement les codes fastidieux de tests unitaires, en prenant en compte jusqu'aux cas limites.\""
 tags: ["Code de Test", "TDD", "Jest", "JUnit"]
 ---
 

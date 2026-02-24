@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Empathie-Gespräch' Skript zur Beruhigung eines trotzenden Kindes"
+title: " \"'Empathie-Gespräch' Skript zur Beruhigung eines trotzenden Kindes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Magische Worte für Eltern, um einen kindlichen Wutanfall empathisch und wirkungsvoll zu entschärfen."
+description: " \"Magische Worte für Eltern, um einen kindlichen Wutanfall empathisch und wirkungsvoll zu entschärfen.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

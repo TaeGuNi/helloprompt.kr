@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Utiliser la Perspective Omnisciente : Plongée et Vue de Drone (High Angle)"
+title: " \"Utiliser la Perspective Omnisciente : Plongée et Vue de Drone (High Angle)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Maîtrisez les prompts de vue aérienne (Drone View, Bird's Eye) pour capturer l'immensité d'un paysage ou la structure complexe d'une ville vue du ciel."
+description: " \"Maîtrisez les prompts de vue aérienne (Drone View, Bird's Eye) pour capturer l'immensité d'un paysage ou la structure complexe d'une ville vue du ciel.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Paysage"]
 ---
 

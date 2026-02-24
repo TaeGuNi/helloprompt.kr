@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Diário com IA para Autodescoberta: Explorando Minha Mente"
+title: " \"Prompt de Diário com IA para Autodescoberta: Explorando Minha Mente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Como foi o seu dia? Não se limite a um simples 'foi bom'. Explore o seu interior mais profundamente através de perguntas instigantes geradas pela IA."
+description: " \"Como foi o seu dia? Não se limite a um simples 'foi bom'. Explore o seu interior mais profundamente através de perguntas instigantes geradas pela IA.\""
 tags:
   ["Diário", "Journaling", "Cuidado Mental", "Autoaperfeiçoamento", "ChatGPT"]
 ---

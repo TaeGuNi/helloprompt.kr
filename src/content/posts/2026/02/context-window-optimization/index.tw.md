@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Traditional Chinese)"
-description: "為百萬 Token 上下文窗口優化：使用清晰的定界符與檢索模式來結構化大型輸入。"
+title: " \"Optimizing for Million-Token Context Windows (Traditional Chinese)\""
+description: " \"為百萬 Token 上下文窗口優化：使用清晰的定界符與檢索模式來結構化大型輸入。\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

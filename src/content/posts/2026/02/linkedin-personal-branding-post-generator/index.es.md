@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Publicaciones de Marca Personal en LinkedIn: Convirtiendo el Trabajo Diario en Perspectivas"
+title: " \"Generador de Publicaciones de Marca Personal en LinkedIn: Convirtiendo el Trabajo Diario en Perspectivas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrera y Cambio de Trabajo"
-description: "Convierte tus experiencias y aprendizajes diarios en contenido atractivo para multiplicar tu influencia en LinkedIn, sin necesidad de grandes logros."
+description: " \"Convierte tus experiencias y aprendizajes diarios en contenido atractivo para multiplicar tu influencia en LinkedIn, sin necesidad de grandes logros.\""
 tags: ["Marca Personal", "Escritura", "LinkedIn", "Marketing de Contenidos"]
 ---
 

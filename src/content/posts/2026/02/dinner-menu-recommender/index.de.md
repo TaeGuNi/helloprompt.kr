@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entscheidungslähmung gelöst! KI Abendmenü-Empfehler"
+title: " \"Entscheidungslähmung gelöst! KI Abendmenü-Empfehler\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Jeden Tag die gleiche Frage: 'Was soll ich heute essen?' Wir finden die perfekte Entscheidung basierend auf Wetter, Stimmung und Kühlschrankinhalt."
+description: " \"Jeden Tag die gleiche Frage: 'Was soll ich heute essen?' Wir finden die perfekte Entscheidung basierend auf Wetter, Stimmung und Kühlschrankinhalt.\""
 tags: ["Menüempfehlung", "Entscheidungslähmung", "WasHeuteEssen", "Abendmenü"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Storie della Buonanotte IA per Adulti: Favole per Grandi"
+title: " \"Generatore di Storie della Buonanotte IA per Adulti: Favole per Grandi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Contare le pecore è noioso, le storie spaventose ti svegliano. L'IA crea all'istante una 'Favola per Adulti' rilassante e pacifica per aiutarti a dormire."
+description: " \"Contare le pecore è noioso, le storie spaventose ti svegliano. L'IA crea all'istante una 'Favola per Adulti' rilassante e pacifica per aiutarti a dormire.\""
 tags: ["Storia della Buonanotte", "Insonnia", "ASMR", "Guarigione", "TTS"]
 ---
 

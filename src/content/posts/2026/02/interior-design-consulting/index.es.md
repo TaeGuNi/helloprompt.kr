@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Consultoría de Interiores con IA: Distribución de Muebles a partir de una Foto"
+title: " \"Consultoría de Interiores con IA: Distribución de Muebles a partir de una Foto\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Estilo de Vida"
-description: "¿Un apartamento pequeño o una sala desordenada? Con solo una foto y medidas básicas, la IA recomienda la mejor distribución de muebles y decoración."
+description: " \"¿Un apartamento pequeño o una sala desordenada? Con solo una foto y medidas básicas, la IA recomienda la mejor distribución de muebles y decoración.\""
 tags: ["Interior", "Decoración", "Distribución de Muebles", "ChatGPT", "Home Styling"]
 ---
 

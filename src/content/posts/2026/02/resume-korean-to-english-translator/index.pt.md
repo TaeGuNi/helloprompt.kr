@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Mudando Currículo Coreano para Currículo Inglês Nível Nativo"
+title: " \"Prompt Mudando Currículo Coreano para Currículo Inglês Nível Nativo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Mais do que uma simples tradução. Converta perfeitamente o seu currículo com expressões e formatos adequados à cultura de recrutamento de língua inglesa."
+description: " \"Mais do que uma simples tradução. Converta perfeitamente o seu currículo com expressões e formatos adequados à cultura de recrutamento de língua inglesa.\""
 tags:
   [
     "CurrículoInglês",

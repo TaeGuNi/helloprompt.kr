@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Diseño de Hoja de Ruta de Carrera de 5 Años: De Ahora a Nivel C"
+title: " \"Diseño de Hoja de Ruta de Carrera de 5 Años: De Ahora a Nivel C\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrera y Cambio de Trabajo"
-description: "Transforma un futuro incierto en un plan de acción concreto. Diseña con IA tus objetivos a 1, 3 y 5 años junto con las habilidades clave para alcanzarlos."
+description: " \"Transforma un futuro incierto en un plan de acción concreto. Diseña con IA tus objetivos a 1, 3 y 5 años junto con las habilidades clave para alcanzarlos.\""
 tags:
   [
     "Trayectoria Profesional",

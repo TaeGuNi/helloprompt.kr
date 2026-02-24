@@ -1,6 +1,6 @@
 ---
-title: "Prompt Injection Security Risks (German)"
-description: "Da LLMs in Tools integriert werden, wird Prompt Injection zu einer kritischen Sicherheitslücke."
+title: " \"Prompt Injection Security Risks (German)\""
+description: " \"Da LLMs in Tools integriert werden, wird Prompt Injection zu einer kritischen Sicherheitslücke.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]

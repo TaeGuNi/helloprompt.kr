@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Votre assistant IA pour planifier la journée parfaite"
+title: " \"Votre assistant IA pour planifier la journée parfaite\""
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: "Mettez fin au chaos matinal. Un seul prompt IA suffit pour définir vos priorités et créer votre emploi du temps en Time Blocking."
+description: " \"Mettez fin au chaos matinal. Un seul prompt IA suffit pour définir vos priorités et créer votre emploi du temps en Time Blocking.\""
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

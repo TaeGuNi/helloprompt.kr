@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Criador de Lógica de 'Defesa de Fraqueza' de Entrevista (Transformando Crise em Oportunidade)"
+title: " \"Criador de Lógica de 'Defesa de Fraqueza' de Entrevista (Transformando Crise em Oportunidade)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Prepare uma argumentação sólida para reconhecer fraquezas, como pausas na carreira ou notas baixas, e destaque as lições aprendidas de forma estratégica."
+description: " \"Prepare uma argumentação sólida para reconhecer fraquezas, como pausas na carreira ou notas baixas, e destaque as lições aprendidas de forma estratégica.\""
 tags:
   [
     "DefesaDeFraqueza",

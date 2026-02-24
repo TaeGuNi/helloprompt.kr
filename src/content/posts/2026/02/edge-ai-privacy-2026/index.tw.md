@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (Traditional Chinese)"
-description: "在裝置端本地運行強大的 LLM 已成為主流，大幅提升了隱私安全性。"
+title: " \"Privacy First Edge AI (Traditional Chinese)\""
+description: " \"在裝置端本地運行強大的 LLM 已成為主流，大幅提升了隱私安全性。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

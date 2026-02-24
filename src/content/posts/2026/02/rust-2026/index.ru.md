@@ -1,5 +1,5 @@
 ---
-title: "Rust 2026: Why It Matters"
+title: " \"Rust 2026: Why It Matters\""
 date: 2026-02-14
 tags: [rust, programming, systems]
 ---

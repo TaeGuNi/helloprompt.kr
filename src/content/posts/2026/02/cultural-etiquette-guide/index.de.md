@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Großer Ärger, wenn Sie einen Fehler machen! KI Länderspezifischer Kultur- & Etikette-Führer"
+title: " \"Großer Ärger, wenn Sie einen Fehler machen! KI Länderspezifischer Kultur- & Etikette-Führer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Wie viel Trinkgeld? Welche Gesten sind tabu? So vermeiden Sie es, im Ausland als unhöflicher Tourist aufzufallen."
+description: " \"Wie viel Trinkgeld? Welche Gesten sind tabu? So vermeiden Sie es, im Ausland als unhöflicher Tourist aufzufallen.\""
 tags: ["Reisen", "Etikette", "Kultur", "Manieren"]
 ---
 

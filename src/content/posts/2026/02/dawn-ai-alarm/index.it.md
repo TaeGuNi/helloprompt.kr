@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미라클 모닝 성공률 200% 만드는 AI 알람 대본"
+title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Svegliarsi è un incubo? Genera uno script per la sveglia spietato e personalizzato basato sui tuoi obiettivi e il tuo calendario per non premere mai più il tasto snooze."
+description: " \"Svegliarsi è un incubo? Genera uno script per la sveglia spietato e personalizzato basato sui tuoi obiettivi e il tuo calendario per non premere mai più il tasto snooze.\""
 tags: ["미라클모닝", "동기부여", "알람"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida all'Architettura della Città: Leggere lo Skyline"
+title: " \"Guida all'Architettura della Città: Leggere lo Skyline\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Passeggia per la città con l'occhio di un architetto esperto. Scopri le storie, gli stili e i segreti celati dietro ogni edificio."
+description: " \"Passeggia per la città con l'occhio di un architetto esperto. Scopri le storie, gli stili e i segreti celati dietro ogni edificio.\""
 tags:
   [
     "Viaggio Architettonico",

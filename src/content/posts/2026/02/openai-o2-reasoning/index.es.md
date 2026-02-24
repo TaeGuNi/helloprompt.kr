@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Evolución de las capacidades de razonamiento de OpenAI 'o2': ¿Qué ha cambiado?"
-description: "Un análisis profundo de las innovadoras capacidades de razonamiento del último modelo de OpenAI, o2, su cadena de pensamiento (CoT) mejorada y su impacto en el desarrollo de la IA."
+title: " \"Evolución de las capacidades de razonamiento de OpenAI 'o2': ¿Qué ha cambiado?\""
+description: " \"Un análisis profundo de las innovadoras capacidades de razonamiento del último modelo de OpenAI, o2, su cadena de pensamiento (CoT) mejorada y su impacto en el desarrollo de la IA.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

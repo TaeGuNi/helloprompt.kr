@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "E-Mail-Betreffzeilengenerator, der die Öffnungsraten in die Höhe treibt"
+title: " \"E-Mail-Betreffzeilengenerator, der die Öffnungsraten in die Höhe treibt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Schluss mit Newslettern, die ungelesen im Spam landen. So texten Sie E-Mail-Betreffzeilen, die Ihre Kunden sofort anklicken wollen."
+description: " \"Schluss mit Newslettern, die ungelesen im Spam landen. So texten Sie E-Mail-Betreffzeilen, die Ihre Kunden sofort anklicken wollen.\""
 tags: ["E-Mail-Marketing", "CRM", "Copywriting", "Newsletter"]
 ---
 

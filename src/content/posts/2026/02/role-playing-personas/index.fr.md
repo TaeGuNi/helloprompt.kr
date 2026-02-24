@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (French)"
-description: "Assigner des personas spécifiques aide les modèles à adopter le ton juste et l'expertise du domaine."
+title: " \"Effective Role Prompting (French)\""
+description: " \"Assigner des personas spécifiques aide les modèles à adopter le ton juste et l'expertise du domaine.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

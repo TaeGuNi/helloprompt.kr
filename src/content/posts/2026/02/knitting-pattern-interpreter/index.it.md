@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "암호문 같은 뜨개질 도안, AI가 해석해드립니다"
+title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Traduci i complessi schemi di maglia ricchi di abbreviazioni come K1, P1, YO in spiegazioni semplici e discorsive in italiano. Perfetto anche per i modelli su Ravelry."
+description: " \"Traduci i complessi schemi di maglia ricchi di abbreviazioni come K1, P1, YO in spiegazioni semplici e discorsive in italiano. Perfetto anche per i modelli su Ravelry.\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 

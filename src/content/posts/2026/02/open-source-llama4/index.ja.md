@@ -1,6 +1,6 @@
 ---
-title: "オープンソースAIの反撃：Llama 4の衝撃"
-description: "閉鎖型モデルを脅かすオープンソースエコシステムの巨大な波。"
+title: " \"オープンソースAIの反撃：Llama 4の衝撃\""
+description: " \"閉鎖型モデルを脅かすオープンソースエコシステムの巨大な波。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

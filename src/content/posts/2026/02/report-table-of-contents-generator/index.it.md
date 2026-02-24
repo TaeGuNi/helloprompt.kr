@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Costruire un Indice di Rapporto Che Piaccia ai Capi"
+title: " \"Costruire un Indice di Rapporto Che Piaccia ai Capi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Un prompt per strutturare l'indice di un report con un flusso logico (Logic Flow) impeccabile, pronto per persuadere i dirigenti."
+description: " \"Un prompt per strutturare l'indice di un report con un flusso logico (Logic Flow) impeccabile, pronto per persuadere i dirigenti.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

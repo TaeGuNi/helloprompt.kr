@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Código de Vestimenta para Sitios Religiosos: ¿No Pantalones Cortos?"
+title: " \"Guía de Código de Vestimenta para Sitios Religiosos: ¿No Pantalones Cortos?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Templos, catedrales, mezquitas... ¿Cómo evitar que te nieguen la entrada? Descubre el código de vestimenta exacto para lugares sagrados."
+description: " \"Templos, catedrales, mezquitas... ¿Cómo evitar que te nieguen la entrada? Descubre el código de vestimenta exacto para lugares sagrados.\""
 tags:
   [
     "Código de Vestimenta",

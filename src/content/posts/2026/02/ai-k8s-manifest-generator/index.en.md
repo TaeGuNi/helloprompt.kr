@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 복잡한 쿠버네티스 YAML, AI로 1초 만에 생성하기 (AI K8s Manifest Gen)
+title: "복잡한 쿠버네티스 YAML, AI로 1초 만에 생성하기 (AI K8s Manifest Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: YAML hell where a single indentation error breaks everything. Outsource it to AI. This is a perfect prompt for generating Kubernetes manifests including Deployment, Service, and Ingress.
+description: "YAML hell where a single indentation error breaks everything. Outsource it to AI. This is a perfect prompt for generating Kubernetes manifests including Deployment, Service, and Ingress."
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 

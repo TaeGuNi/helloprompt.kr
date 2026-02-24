@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Magic Turning Diary into Essay: Giving Meaning to Ordinary Daily Life"
+title: " \"Magic Turning Diary into Essay: Giving Meaning to Ordinary Daily Life\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Transform your private diary into a relatable, beautifully written essay. Let AI elevate your daily reflections into compelling literary pieces."
+description: " \"Transform your private diary into a relatable, beautifully written essay. Let AI elevate your daily reflections into compelling literary pieces.\""
 tags: ["Writing", "Essay", "Diary", "Brunch", "Revision"]
 ---
 

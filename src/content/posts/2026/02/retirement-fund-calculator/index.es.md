@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Fondo de Jubilación: ¿Cuál es Mi Puntuación de Preparación para la Jubilación?"
+title: " \"Calculadora de Fondo de Jubilación: ¿Cuál es Mi Puntuación de Preparación para la Jubilación?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Elimina el miedo a envejecer sin ahorros. Calcula con precisión el fondo de jubilación que necesitas y cuánto debes invertir cada mes."
+description: " \"Elimina el miedo a envejecer sin ahorros. Calcula con precisión el fondo de jubilación que necesitas y cuánto debes invertir cada mes.\""
 tags: ["Jubilación", "PrepVejez", "Pensión", "PlanificaciónFinanciera"]
 ---
 

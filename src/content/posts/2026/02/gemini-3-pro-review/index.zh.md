@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro：实战编码基准测试"
+title: " \"Gemini 3 Pro：实战编码基准测试\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "通过Python算法优化、Rust系统级调试与Java遗留代码重构，深度剖析Gemini 3 Pro的实战编码性能并提供高阶提示词模板。"
+description: " \"通过Python算法优化、Rust系统级调试与Java遗留代码重构，深度剖析Gemini 3 Pro的实战编码性能并提供高阶提示词模板。\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

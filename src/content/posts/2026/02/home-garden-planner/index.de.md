@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Schluss mit dem Pflanzensterben! Vom perfekten Pflanzen-Match für die Licht- und Luftverhältnisse deines Zuhauses bis zur Rettung sterbender Topfpflanzen – der ultimative KI-Pflanzenflüsterer."
+description: " \"Schluss mit dem Pflanzensterben! Vom perfekten Pflanzen-Match für die Licht- und Luftverhältnisse deines Zuhauses bis zur Rettung sterbender Topfpflanzen – der ultimative KI-Pflanzenflüsterer.\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

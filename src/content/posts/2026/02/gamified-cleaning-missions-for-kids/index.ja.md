@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "掃除遊び：片付けが楽しいゲームになる魔法"
+title: " \"掃除遊び：片付けが楽しいゲームになる魔法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "散らかった部屋をたった10分で楽しく片付けさせるゲーミフィケーション（Gamification）戦略"
+description: " \"散らかった部屋をたった10分で楽しく片付けさせるゲーミフィケーション（Gamification）戦略\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

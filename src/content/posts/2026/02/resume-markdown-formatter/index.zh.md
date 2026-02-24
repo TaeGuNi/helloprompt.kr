@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "摆脱简历格式化地狱: Markdown (标记语言) 转换器"
+title: " \"摆脱简历格式化地狱: Markdown (标记语言) 转换器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "把乱七八糟的简历草稿一键转换成结构清晰的 Markdown 格式，轻松生成排版精美的 PDF 或 Notion 简历。"
+description: " \"把乱七八糟的简历草稿一键转换成结构清晰的 Markdown 格式，轻松生成排版精美的 PDF 或 Notion 简历。\""
 tags: ["简历样式", "Markdown", "Notion简历", "文档整理"]
 ---
 

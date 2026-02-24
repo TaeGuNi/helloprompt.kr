@@ -1,6 +1,6 @@
 ---
-title: "AI疲勞時代：數位垃圾"
-description: "Critical analysis of AI fatigue: Users are tired of AI features they didn't ask for."
+title: " \"AI疲勞時代：數位垃圾\""
+description: " \"Critical analysis of AI fatigue: Users are tired of AI features they didn't ask for.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

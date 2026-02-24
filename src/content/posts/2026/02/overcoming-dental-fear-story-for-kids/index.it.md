@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Storia per Superare la Paura del Dentista per Bambini: Carica di Coraggio"
+title: " \"Storia per Superare la Paura del Dentista per Bambini: Carica di Coraggio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Una simulazione pratica e giocosa basata sull'IA per aiutare i bambini a superare la paura del dentista, trasformando la visita in una divertente avventura."
+description: " \"Una simulazione pratica e giocosa basata sull'IA per aiutare i bambini a superare la paura del dentista, trasformando la visita in una divertente avventura.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gemini 3 Pro: 코딩 실무에서 'Deep Think' 모드 제대로 쓰는 법 (vs GPT-5)"
+title: " \"Gemini 3 Pro: 코딩 실무에서 'Deep Think' 모드 제대로 쓰는 법 (vs GPT-5)\""
 date: "2026-02-16"
 categories: ["AI Tools", "Coding"]
 tags: ["Gemini 3 Pro", "Prompt Engineering", "Refactoring", "Productivity"]

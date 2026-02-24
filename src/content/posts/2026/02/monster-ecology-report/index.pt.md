@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Relatório de Ecologia de Monstros: Criando Minha Própria Criatura"
+title: " \"Relatório de Ecologia de Monstros: Criando Minha Própria Criatura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Cansado de slimes e goblins? Crie monstros originais com ecossistemas e hábitos realistas para enriquecer seu mundo de fantasia."
+description: " \"Cansado de slimes e goblins? Crie monstros originais com ecossistemas e hábitos realistas para enriquecer seu mundo de fantasia.\""
 tags: ["Criatura", "Monstro", "PlanejamentoJogo", "Fantasia", "Configuração"]
 ---
 

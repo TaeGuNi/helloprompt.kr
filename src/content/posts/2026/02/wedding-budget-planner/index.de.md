@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hochzeitsbudget-Excel: Checkliste gegen Zusatzkosten-Bomben"
+title: " \"Hochzeitsbudget-Excel: Checkliste gegen Zusatzkosten-Bomben\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanztechnologie & Investition"
-description: "Ein KI-Prompt, der alle versteckten Hochzeitskosten – von Brautkleid-Gebühren bis zu Trinkgeldern – präzise kalkuliert und böse Überraschungen verhindert."
+description: " \"Ein KI-Prompt, der alle versteckten Hochzeitskosten – von Brautkleid-Gebühren bis zu Trinkgeldern – präzise kalkuliert und böse Überraschungen verhindert.\""
 tags: ["Hochzeit", "Budget", "Wedding", "Neuvermählte"]
 ---
 

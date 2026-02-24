@@ -3,7 +3,7 @@ categories:
   - Tech Trends
   - Privacy
 date: "2026-02-13"
-description: KI, die direkt auf Ihrem Smartphone und PC läuft, ohne Daten in die Cloud zu senden. Wir beleuchten die Datenschutzrevolution, die durch Sovereign AI und On-Device-Technologien vorangetrieben wird.
+description: "KI, die direkt auf Ihrem Smartphone und PC läuft, ohne Daten in die Cloud zu senden. Wir beleuchten die Datenschutzrevolution, die durch Sovereign AI und On-Device-Technologien vorangetrieben wird."
 heroImage: /images/blog/2026-02-13-sovereign-ai.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Edge Computing
   - On-Device AI
   - Privacy
-title: "소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서"
+title: " \"소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서\""
 ---
 
 # 🔒 Sovereign AI & Edge Computing: Meine Daten auf meinem Gerät

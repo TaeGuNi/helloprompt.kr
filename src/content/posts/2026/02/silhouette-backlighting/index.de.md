@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Intensive Silhouette 'Backlighting' Nutzung"
+title: " \"Intensive Silhouette 'Backlighting' Nutzung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Gegenlicht-Prompt (Silhouette), der formale Ästhetik und Atmosphäre betont, indem das Motiv als dunkler Umriss dargestellt wird."
+description: " \"Ein Gegenlicht-Prompt (Silhouette), der formale Ästhetik und Atmosphäre betont, indem das Motiv als dunkler Umriss dargestellt wird.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Beleuchtung"]
 ---
 

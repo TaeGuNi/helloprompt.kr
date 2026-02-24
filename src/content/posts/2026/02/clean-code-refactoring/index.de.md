@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mein Code ist Müll! Clean Code Refactoring Coach"
+title: " \"Mein Code ist Müll! Clean Code Refactoring Coach\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"
-description: "Ein Prompt, der unordentlichen Code, der 'irgendwie funktioniert', in sauberen, gut lesbaren und wartbaren Code transformiert."
+description: " \"Ein Prompt, der unordentlichen Code, der 'irgendwie funktioniert', in sauberen, gut lesbaren und wartbaren Code transformiert.\""
 tags: ["Refactoring", "CleanCode", "Entwickler", "CodeReview"]
 ---
 

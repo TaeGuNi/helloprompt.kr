@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Kubernetes en el Edge: Gestión de Clústeres Distribuidos (2026)"
+title: " \"Kubernetes en el Edge: Gestión de Clústeres Distribuidos (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Explora los desafíos técnicos y soluciones para gestionar miles de clústeres de Kubernetes en entornos Edge utilizando K3s y GitOps."
+description: " \"Explora los desafíos técnicos y soluciones para gestionar miles de clústeres de Kubernetes en entornos Edge utilizando K3s y GitOps.\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

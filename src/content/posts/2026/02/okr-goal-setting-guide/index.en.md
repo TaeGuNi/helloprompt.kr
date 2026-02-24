@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "OKR Setting Guide for Goal Achievement"
+title: " \"OKR Setting Guide for Goal Achievement\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A practical guide to establishing inspiring Objectives and measurable Key Results using AI."
+description: " \"A practical guide to establishing inspiring Objectives and measurable Key Results using AI.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

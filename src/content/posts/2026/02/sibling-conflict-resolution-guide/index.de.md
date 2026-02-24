@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Konfliktlösung zwischen Geschwistern: Salomons Weisheit Prompt"
+title: " \"Konfliktlösung zwischen Geschwistern: Salomons Weisheit Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Wie Sie Kinder, die sich täglich streiten, fair versöhnen und ihre Bindung nachhaltig stärken."
+description: " \"Wie Sie Kinder, die sich täglich streiten, fair versöhnen und ihre Bindung nachhaltig stärken.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

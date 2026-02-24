@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel, JSON, CSV... Entkomme der Datenformat-Konvertierungs-Plackerei"
+title: " \"Excel, JSON, CSV... Entkomme der Datenformat-Konvertierungs-Plackerei\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "JSON zu CSV, XML zu SQL. Überlasse lästige Datenformat-Konvertierungen der KI. Komplexe verschachtelte Strukturen und Schema-Änderungen sind in Sekunden erledigt."
+description: " \"JSON zu CSV, XML zu SQL. Überlasse lästige Datenformat-Konvertierungen der KI. Komplexe verschachtelte Strukturen und Schema-Änderungen sind in Sekunden erledigt.\""
 tags: ["Datenkonvertierung", "JSON", "CSV", "Excel", "Produktivität"]
 ---
 

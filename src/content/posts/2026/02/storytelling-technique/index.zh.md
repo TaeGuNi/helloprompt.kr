@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "摆脱说明文式的写作！让人读下去的故事讲述技巧"
+title: " \"摆脱说明文式的写作！让人读下去的故事讲述技巧\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "写作"
-description: "将罗列事实的无聊文章转换为触动读者情感的迷人故事的提示词。"
+description: " \"将罗列事实的无聊文章转换为触动读者情感的迷人故事的提示词。\""
 tags: ["故事讲述", "写作", "随笔"]
 ---
 

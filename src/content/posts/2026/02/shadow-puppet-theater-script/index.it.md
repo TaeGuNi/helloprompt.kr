@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Copione del Teatro delle Ombre: Una Storia della Buonanotte"
+title: " \"Copione del Teatro delle Ombre: Una Storia della Buonanotte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Crea un mondo fantastico usando solo una torcia: un copione per il teatro delle ombre scritto dall'IA per far addormentare i tuoi bambini."
+description: " \"Crea un mondo fantastico usando solo una torcia: un copione per il teatro delle ombre scritto dall'IA per far addormentare i tuoi bambini.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

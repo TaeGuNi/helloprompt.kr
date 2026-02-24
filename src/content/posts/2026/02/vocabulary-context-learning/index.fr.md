@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Maître du Vocabulaire Anglais Apprentissage avec Contexte"
+title: " \"Maître du Vocabulaire Anglais Apprentissage avec Contexte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Fini l'apprentissage par cœur ! Un prompt conçu pour maîtriser parfaitement les nuances du vocabulaire anglais dans des contextes réels."
+description: " \"Fini l'apprentissage par cœur ! Un prompt conçu pour maîtriser parfaitement les nuances du vocabulaire anglais dans des contextes réels.\""
 tags: ["ApprentissageAnglais", "MémorisationMots", "Prompt", "Éducation"]
 ---
 

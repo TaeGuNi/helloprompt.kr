@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (Spanish)"
-description: "Los modelos ahora razonan sobre video, audio y texto simultáneamente en tiempo real."
+title: " \"Multimodal Reasoning (Spanish)\""
+description: " \"Los modelos ahora razonan sobre video, audio y texto simultáneamente en tiempo real.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

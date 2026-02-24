@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stratégie d'Emballage pour Voyage d'Hiver : Chaleur & Volume"
+title: " \"Stratégie d'Emballage pour Voyage d'Hiver : Chaleur & Volume\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Comment faire sa valise pour un voyage d'hiver sans s'encombrer ? Découvrez les meilleures astuces pour voyager léger tout en restant au chaud."
+description: " \"Comment faire sa valise pour un voyage d'hiver sans s'encombrer ? Découvrez les meilleures astuces pour voyager léger tout en restant au chaud.\""
 tags:
   ["Voyage d'Hiver", "Emballage", "Équipement Grand Froid", "Astuces Voyage"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Still Writing Minutes by Hand? 3 Minutes with AI"
+title: " \"Still Writing Minutes by Hand? 3 Minutes with AI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A secretary prompt that transforms messy meeting transcripts into clean summaries and actionable items."
+description: " \"A secretary prompt that transforms messy meeting transcripts into clean summaries and actionable items.\""
 tags: ["Meeting Minutes", "Summary", "Productivity"]
 ---
 

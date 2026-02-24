@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "策划一目了然的 KPI 仪表板"
+title: " \"策划一目了然的 KPI 仪表板\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "到底该看哪些指标？一文掌握 KPI 仪表板的核心构成要素与最佳布局推荐。"
+description: " \"到底该看哪些指标？一文掌握 KPI 仪表板的核心构成要素与最佳布局推荐。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

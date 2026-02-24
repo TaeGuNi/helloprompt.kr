@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "没有同事也没关系，AI 高级开发者的毒舌代码审查"
+title: " \"没有同事也没关系，AI 高级开发者的毒舌代码审查\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "专为独立开发者打造的 AI 代码审查提示词。让拥有 Google/Amazon 背景的虚拟高级工程师，为你提供极其严苛且细致的代码审查与指导。"
+description: " \"专为独立开发者打造的 AI 代码审查提示词。让拥有 Google/Amazon 背景的虚拟高级工程师，为你提供极其严苛且细致的代码审查与指导。\""
 tags: ["代码审查", "指导", "整洁代码", "自我开发"]
 ---
 

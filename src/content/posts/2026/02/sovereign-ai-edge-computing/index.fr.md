@@ -3,7 +3,7 @@ categories:
   - Tech Trends
   - Privacy
 date: "2026-02-13"
-description: Une IA qui s'exécute directement sur votre smartphone et votre PC, sans envoyer de données vers le cloud. Découvrez la révolution de la confidentialité apportée par l'IA souveraine (Sovereign AI) et l'Edge Computing.
+description: "Une IA qui s'exécute directement sur votre smartphone et votre PC, sans envoyer de données vers le cloud. Découvrez la révolution de la confidentialité apportée par l'IA souveraine (Sovereign AI) et l'Edge Computing."
 heroImage: /images/blog/2026-02-13-sovereign-ai.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Edge Computing
   - On-Device AI
   - Privacy
-title: "소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서"
+title: " \"소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서\""
 ---
 
 # 🔒 IA Souveraine et Edge Computing : Vos données restent sur vos appareils

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cintura di Sicurezza Fondo di Emergenza: Calcolo Mio Fondo di Emergenza Ottimale"
+title: " \"Cintura di Sicurezza Fondo di Emergenza: Calcolo Mio Fondo di Emergenza Ottimale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Calcola la dimensione ottimale del tuo fondo di emergenza per garantirti stabilità finanziaria anche in caso di imprevisti o perdita del lavoro."
+description: " \"Calcola la dimensione ottimale del tuo fondo di emergenza per garantirti stabilità finanziaria anche in caso di imprevisti o perdita del lavoro.\""
 tags: ["FondoEmergenza", "GestioneFinanziaria", "GestioneRischio", "Risparmi"]
 ---
 

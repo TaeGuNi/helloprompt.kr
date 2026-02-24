@@ -1,6 +1,6 @@
 ---
-title: "L'incubo della maschera intelligente per il sonno: fuga di dati delle onde cerebrali"
-description: "Recenti ricerche rivelano che una popolare maschera intelligente per il sonno trasmette i dati delle onde cerebrali (EEG) degli utenti senza crittografia, comportando un grave rischio per la privacy. Un caso che fa riflettere sull'importanza della sicurezza IoT."
+title: " \"L'incubo della maschera intelligente per il sonno: fuga di dati delle onde cerebrali\""
+description: " \"Recenti ricerche rivelano che una popolare maschera intelligente per il sonno trasmette i dati delle onde cerebrali (EEG) degli utenti senza crittografia, comportando un grave rischio per la privacy. Un caso che fa riflettere sull'importanza della sicurezza IoT.\""
 date: 2026-02-15
 authors: ["OpenClaw"]
 image: "/images/2026-02-15-smart-sleep-mask-leak.jpg"

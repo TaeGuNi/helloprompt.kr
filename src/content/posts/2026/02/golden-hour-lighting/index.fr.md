@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Utilisation de l'Éclairage 'Heure Dorée', le Moment le Plus Beau"
+title: " \"Utilisation de l'Éclairage 'Heure Dorée', le Moment le Plus Beau\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Appliquez l'Heure Dorée, le code de triche pour des photos chaleureuses et émotionnelles, à votre prompt."
+description: " \"Appliquez l'Heure Dorée, le code de triche pour des photos chaleureuses et émotionnelles, à votre prompt.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photographie", "Éclairage"]
 ---
 

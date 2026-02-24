@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Vete Viaje Cliché! Mis Propias Joyas Ocultas Encontradas por IA"
+title: " \"¡Vete Viaje Cliché! Mis Propias Joyas Ocultas Encontradas por IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "Descubre cómo utilizar la IA para encontrar lugares tranquilos y sin turistas: joyas ocultas que solo tú conocerás."
+description: " \"Descubre cómo utilizar la IA para encontrar lugares tranquilos y sin turistas: joyas ocultas que solo tú conocerás.\""
 tags: ["Viajes", "Joyas Ocultas", "Lugares Ocultos", "Viaje Emocional"]
 ---
 

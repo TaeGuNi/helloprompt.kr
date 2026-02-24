@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (zh)"
-description: "深度解析可持续 AI 计算（Sustainable AI Computing），通过专业提示词打造高效节能的绿色人工智能架构。"
+title: " \"Sustainable AI Computing (zh)\""
+description: " \"深度解析可持续 AI 计算（Sustainable AI Computing），通过专业提示词打造高效节能的绿色人工智能架构。\""
 date: "2026-02-14"
 ---
 

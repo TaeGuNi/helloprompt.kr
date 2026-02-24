@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planejando um Painel de KPI Visível de Relance"
+title: " \"Planejando um Painel de KPI Visível de Relance\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Quais indicadores devo observar? Recomendações de componentes e layouts de painéis."
+description: " \"Quais indicadores devo observar? Recomendações de componentes e layouts de painéis.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

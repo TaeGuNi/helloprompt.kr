@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel 敏感度分析: ‘万一’情景完美准备"
+title: " \"Excel 敏感度分析: ‘万一’情景完美准备\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "汇率上涨 10% 会导致利润减少多少？利用 Excel 强大的‘模拟运算表’功能，一键自动计算数十种商业情景下的财务预测。"
+description: " \"汇率上涨 10% 会导致利润减少多少？利用 Excel 强大的‘模拟运算表’功能，一键自动计算数十种商业情景下的财务预测。\""
 tags: ["Excel", "敏感度分析", "情景", "模拟运算表"]
 ---
 

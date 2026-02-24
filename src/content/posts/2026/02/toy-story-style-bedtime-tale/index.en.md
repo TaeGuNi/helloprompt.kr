@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Night of the Toys: 'Toy Story' Style Fairy Tale"
+title: " \"Night of the Toys: 'Toy Story' Style Fairy Tale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Discover the secret parties your child's favorite toys throw every night with this creative bedtime story prompt."
+description: " \"Discover the secret parties your child's favorite toys throw every night with this creative bedtime story prompt.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

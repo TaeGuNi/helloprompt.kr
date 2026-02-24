@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 두서없는 회의록, 깔끔한 요약본으로 변신"
+title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "'Quem disse o quê?' Pare de sofrer com anotações caóticas. Deixe a IA organizar atas de reunião perfeitas e itens de ação para você."
+description: " \"'Quem disse o quê?' Pare de sofrer com anotações caóticas. Deixe a IA organizar atas de reunião perfeitas e itens de ação para você.\""
 tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
 ---
 

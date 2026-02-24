@@ -1,5 +1,5 @@
 ---
-title: "GitHub Copilot X2: The Next Evolution"
+title: " \"GitHub Copilot X2: The Next Evolution\""
 date: 2026-02-14
 tags: [coding, ai, github]
 ---

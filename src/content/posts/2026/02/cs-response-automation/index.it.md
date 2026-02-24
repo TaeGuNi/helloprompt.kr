@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼"
+title: " \"CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Basta logorio emotivo. Un template IA per gestire rifiuti di rimborso, ritardi nelle spedizioni e recensioni negative."
+description: " \"Basta logorio emotivo. Un template IA per gestire rifiuti di rimborso, ritardi nelle spedizioni e recensioni negative.\""
 tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "번역기 너머의 번역: 파파고가 못하는 '뉘앙스' 교정 (비즈니스 영어)"
+title: " \"번역기 너머의 번역: 파파고가 못하는 '뉘앙스' 교정 (비즈니스 영어)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "외국어/번역"
-description: "단어는 맞는데 기분이 나쁘다? 비즈니스 이메일의 격식, 톤, 숨은 의도까지 번역해주는 AI 프롬프트."
+description: " \"단어는 맞는데 기분이 나쁘다? 비즈니스 이메일의 격식, 톤, 숨은 의도까지 번역해주는 AI 프롬프트.\""
 tags: ["번역", "영어이메일", "비즈니스영어", "ChatGPT", "DeepL"]
 ---
 

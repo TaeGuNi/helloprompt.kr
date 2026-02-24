@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "1분 만에 끝내는 스크럼/데일리 스탠드업 작성법"
+title: " \"1분 만에 끝내는 스크럼/데일리 스탠드업 작성법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "협업"
-description: "Organizza in modo chiaro le attività di ieri, di oggi e gli ostacoli nel formato standard per i Daily Stand-up."
+description: " \"Organizza in modo chiaro le attività di ieri, di oggi e gli ostacoli nel formato standard per i Daily Stand-up.\""
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 

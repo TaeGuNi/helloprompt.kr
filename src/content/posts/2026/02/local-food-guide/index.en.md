@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Eat Like a Local! AI Local Food Navigator"
+title: " \"Eat Like a Local! AI Local Food Navigator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Skip the tourist traps. Discover the authentic, hidden-gem restaurants where locals actually line up."
+description: " \"Skip the tourist traps. Discover the authentic, hidden-gem restaurants where locals actually line up.\""
 tags: ["Travel", "Restaurant", "Mukbang", "Local Restaurant"]
 ---
 

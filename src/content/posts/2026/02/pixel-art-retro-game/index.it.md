@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mondo Fatto di Punti 'Pixel Art' Vibrazione Retro"
+title: " \"Mondo Fatto di Punti 'Pixel Art' Vibrazione Retro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per pixel art a 8-bit e 16-bit che evocano la nostalgia dei videogiochi classici."
+description: " \"Prompt per pixel art a 8-bit e 16-bit che evocano la nostalgia dei videogiochi classici.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Retro"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entkomme der Meeting-Hölle: Aufnahme zu Protokoll + E-Mail in 3 Min"
+title: " \"Entkomme der Meeting-Hölle: Aufnahme zu Protokoll + E-Mail in 3 Min\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Arbeitsautomatisierung"
-description: "Der perfekte Workflow, um lästige Meeting-Protokolle mit Whisper und GPT zu automatisieren. Ein unverzichtbarer Leitfaden für produktivere Meetings."
+description: " \"Der perfekte Workflow, um lästige Meeting-Protokolle mit Whisper und GPT zu automatisieren. Ein unverzichtbarer Leitfaden für produktivere Meetings.\""
 tags: ["Protokoll", "Whisper", "ChatGPT", "Automatisierung", "Produktivität"]
 ---
 

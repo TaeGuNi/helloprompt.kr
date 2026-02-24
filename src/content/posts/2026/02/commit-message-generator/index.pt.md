@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Recomendar Mensagem de Commit' Sem Mais Preocupações! Geração Automática de Conventional Commits"
+title: " \"'Recomendar Mensagem de Commit' Sem Mais Preocupações! Geração Automática de Conventional Commits\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que escreve mensagens de commit impecáveis, seguindo o padrão global (Conventional Commits), apenas colando as suas alterações (git diff)."
+description: " \"Um prompt que escreve mensagens de commit impecáveis, seguindo o padrão global (Conventional Commits), apenas colando as suas alterações (git diff).\""
 tags: ["Git", "Mensagem de Commit", "Colaboração", "Produtividade"]
 ---
 

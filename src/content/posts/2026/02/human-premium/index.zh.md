@@ -1,9 +1,9 @@
 ---
-title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
+title: " \"The Human Premium: 인간의 손길이 럭셔리가 되는 시대\""
 date: 2026-02-14
 tags: [culture, design]
 image: https://source.unsplash.com/random/1600x900/?hand,art
-description: "介绍一款能为AI生成的冰冷文本注入人类温度与真诚、成就“人类溢价（Human Premium）”的文案提示词。"
+description: " \"介绍一款能为AI生成的冰冷文本注入人类温度与真诚、成就“人类溢价（Human Premium）”的文案提示词。\""
 ---
 
 # 📝 The Human Premium: 人类触感成为奢侈品的时代

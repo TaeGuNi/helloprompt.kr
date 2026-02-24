@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Balance-Spiel-Generator: 'Für immer nur Ramen essen vs Für immer Soda aufgeben'"
+title: " \"Balance-Spiel-Generator: 'Für immer nur Ramen essen vs Für immer Soda aufgeben'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Der ultimative Eisbrecher! Generieren Sie endlose, absurde Entweder-Oder-Fragen, um auf jeder Party für Stimmung zu sorgen."
+description: " \"Der ultimative Eisbrecher! Generieren Sie endlose, absurde Entweder-Oder-Fragen, um auf jeder Party für Stimmung zu sorgen.\""
 tags: ["Spiel", "BalanceSpiel", "Eisbrecher", "Humor", "Party"]
 ---
 

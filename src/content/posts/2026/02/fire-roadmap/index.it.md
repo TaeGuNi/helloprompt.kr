@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roadmap Tribù FIRE: Regola del 4% per Pensione Anticipata"
+title: " \"Roadmap Tribù FIRE: Regola del 4% per Pensione Anticipata\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Simula il tempo necessario per raggiungere l'indipendenza finanziaria (FIRE) e calcola il capitale esatto per la tua pensione anticipata."
+description: " \"Simula il tempo necessario per raggiungere l'indipendenza finanziaria (FIRE) e calcola il capitale esatto per la tua pensione anticipata.\""
 tags: ["FIRE", "PensioneAnticipata", "LibertàFinanziaria", "Finanza"]
 ---
 

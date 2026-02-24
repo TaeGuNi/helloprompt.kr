@@ -1,6 +1,6 @@
 ---
-title: "Architecture Micro-Frontend: Évoluer le Développement Frontend"
-description: "Une exploration approfondie de la façon dont l'architecture micro-frontend transforme le développement d'applications web en 2026."
+title: " \"Architecture Micro-Frontend: Évoluer le Développement Frontend\""
+description: " \"Une exploration approfondie de la façon dont l'architecture micro-frontend transforme le développement d'applications web en 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

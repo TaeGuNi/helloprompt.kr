@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Sin Colegas? Está Bien, Revisión de Código Dura del Desarrollador Senior IA"
+title: " \"¿Sin Colegas? Está Bien, Revisión de Código Dura del Desarrollador Senior IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Un prompt diseñado para desarrolladores solitarios. Obtén revisiones de código exhaustivas simulando a un ingeniero de software senior de FAANG."
+description: " \"Un prompt diseñado para desarrolladores solitarios. Obtén revisiones de código exhaustivas simulando a un ingeniero de software senior de FAANG.\""
 tags: ["Revisión de Código", "Mentoría", "Código Limpio", "Autodesarrollo"]
 ---
 

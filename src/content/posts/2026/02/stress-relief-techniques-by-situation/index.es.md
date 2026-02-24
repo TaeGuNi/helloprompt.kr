@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnicas de Alivio del Estrés por Situación: Sugerencias de IA"
+title: " \"Técnicas de Alivio del Estrés por Situación: Sugerencias de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Existe alguna alternativa a devorar comida picante? Te enseñamos técnicas de alivio del estrés rápido y respaldadas por la ciencia."
+description: " \"¿Existe alguna alternativa a devorar comida picante? Te enseñamos técnicas de alivio del estrés rápido y respaldadas por la ciencia.\""
 tags: ["Estrés", "Agotamiento", "Gestión Mental", "Curación", "ChatGPT"]
 ---
 

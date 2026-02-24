@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "向5岁孩子解释蓝天：育儿科学"
+title: " \"向5岁孩子解释蓝天：育儿科学\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "利用符合儿童视角的生动隐喻，轻松解答深奥科学原理的 AI 提示词。"
+description: " \"利用符合儿童视角的生动隐喻，轻松解答深奥科学原理的 AI 提示词。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

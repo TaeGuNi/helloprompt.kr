@@ -3,7 +3,7 @@ categories:
   - AI News
   - Creative
 date: "2026-02-13"
-description: Mit der Ankündigung von Sora 2.0 durch OpenAI steht die Videoproduktionsbranche vor einer Revolution. Entdecken Sie den ultimativen Prompt, um kinoreife Videos mit einem einzigen Textbefehl zu erstellen.
+description: "Mit der Ankündigung von Sora 2.0 durch OpenAI steht die Videoproduktionsbranche vor einer Revolution. Entdecken Sie den ultimativen Prompt, um kinoreife Videos mit einem einzigen Textbefehl zu erstellen."
 image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - AI Video
   - Generative AI
   - Content Creation
-title: "Sora 2.0 und die KI-Video-Revolution: Von der Vorstellung zur Realität"
+title: " \"Sora 2.0 und die KI-Video-Revolution: Von der Vorstellung zur Realität\""
 ---
 
 # 🎥 Sora 2.0: Der ultimative Prompt-Generator für kinoreife KI-Videos

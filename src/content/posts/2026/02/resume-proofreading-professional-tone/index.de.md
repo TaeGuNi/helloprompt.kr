@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lebenslauf-Tonkorrektur: Wie man 'Amateur' ablegt und 'Pro' aussieht"
+title: " \"Lebenslauf-Tonkorrektur: Wie man 'Amateur' ablegt und 'Pro' aussieht\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Ein professioneller Korrektur-Prompt, der den Ton Ihres Lebenslaufs verfeinert, Tippfehler eliminiert und ungrammatische Sätze korrigiert, um Ihre professionelle Glaubwürdigkeit zu maximieren."
+description: " \"Ein professioneller Korrektur-Prompt, der den Ton Ihres Lebenslaufs verfeinert, Tippfehler eliminiert und ungrammatische Sätze korrigiert, um Ihre professionelle Glaubwürdigkeit zu maximieren.\""
 tags:
   [
     "LebenslaufKorrektur",

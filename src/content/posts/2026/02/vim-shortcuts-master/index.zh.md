@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vim 단축키 마스터: 마우스 없이 코딩하는 법"
+title: " \"Vim 단축키 마스터: 마우스 없이 코딩하는 법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "开发者的浪漫，Vim。从 hjkl 到宏录制，让手指比大脑更快的快捷键征服指南。"
+description: " \"开发者的浪漫，Vim。从 hjkl 到宏录制，让手指比大脑更快的快捷键征服指南。\""
 tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 ---
 

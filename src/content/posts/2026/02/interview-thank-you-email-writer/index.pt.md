@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hora de Ouro da Entrevista! Escritor de 'E-mail de Agradecimento' para Enviar Imediatamente Depois"
+title: " \"Hora de Ouro da Entrevista! Escritor de 'E-mail de Agradecimento' para Enviar Imediatamente Depois\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Escreva um e-mail de agradecimento estratégico e educado após a entrevista para reforçar sua imagem e destacar pontos específicos discutidos."
+description: " \"Escreva um e-mail de agradecimento estratégico e educado após a entrevista para reforçar sua imagem e destacar pontos específicos discutidos.\""
 tags:
   [
     "EmailDeAgradecimento",

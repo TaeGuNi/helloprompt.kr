@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "贷款偿还日程表: 本利金均等 vs 本金均等"
+title: " \"贷款偿还日程表: 本利金均等 vs 本金均等\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "无需访问银行网站，直接在 Excel 中制作的贷款利息计算器模板。"
+description: " \"无需访问银行网站，直接在 Excel 中制作的贷款利息计算器模板。\""
 tags: ["Excel", "贷款利息", "财务函数", "PMT"]
 ---
 

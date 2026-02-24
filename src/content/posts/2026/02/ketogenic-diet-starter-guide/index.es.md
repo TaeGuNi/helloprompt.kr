@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Inicio de la Dieta Cetogénica: Comienzo Perfecto con IA"
+title: " \"Guía de Inicio de la Dieta Cetogénica: Comienzo Perfecto con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Una guía para comenzar la dieta cetogénica de manera fácil y segura usando IA sin cálculos complejos de proporción de grasas."
+description: " \"Una guía para comenzar la dieta cetogénica de manera fácil y segura usando IA sin cálculos complejos de proporción de grasas.\""
 tags: ["Cetogénica", "LCHF", "Dieta", "Salud", "ChatGPT"]
 ---
 

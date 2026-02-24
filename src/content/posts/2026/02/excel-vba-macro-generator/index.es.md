@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatizando la Pesadez Repetitiva de Excel con Macro (VBA)"
+title: " \"Automatizando la Pesadez Repetitiva de Excel con Macro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "No necesitas saber programar. Crea código VBA al instante con solo describir tu tarea."
+description: " \"No necesitas saber programar. Crea código VBA al instante con solo describir tu tarea.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

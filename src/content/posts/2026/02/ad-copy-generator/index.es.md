@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Copia de Anuncios de Facebook/Insta Que Llama a los Clics"
+title: " \"Generador de Copia de Anuncios de Facebook/Insta Que Llama a los Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Cómo escribir el texto principal (Primary Text) de tus anuncios en redes sociales para detener el scroll y disparar tus clics."
+description: " \"Cómo escribir el texto principal (Primary Text) de tus anuncios en redes sociales para detener el scroll y disparar tus clics.\""
 tags:
   [
     "Anuncio de Facebook",

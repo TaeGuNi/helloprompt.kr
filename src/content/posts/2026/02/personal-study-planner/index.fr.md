@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prévenir la Résolution de Trois Jours : Gestionnaire d'Apprentissage IA 1:1"
+title: " \"Prévenir la Résolution de Trois Jours : Gestionnaire d'Apprentissage IA 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: "Un prompt qui génère un plan d'étude réaliste en fonction de votre objectif et de votre temps disponible, tout en assumant le rôle de coach de motivation."
+description: " \"Un prompt qui génère un plan d'étude réaliste en fonction de votre objectif et de votre temps disponible, tout en assumant le rôle de coach de motivation.\""
 tags: ["PlanÉtude", "Planificateur", "Motivation", "GestionTemps"]
 ---
 

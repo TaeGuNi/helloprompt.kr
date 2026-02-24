@@ -1,6 +1,6 @@
 ---
-title: "Gafas Inteligentes de Meta: El Triunfo de la IA Portátil"
-description: "Las ventas de las gafas inteligentes se han disparado, liderando el sector de la IA wearable. Descubre el éxito estratégico de Meta y cómo analizar este mercado."
+title: " \"Gafas Inteligentes de Meta: El Triunfo de la IA Portátil\""
+description: " \"Las ventas de las gafas inteligentes se han disparado, liderando el sector de la IA wearable. Descubre el éxito estratégico de Meta y cómo analizar este mercado.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기"
+title: " \"AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/뷰티"
-description: "Sparen Sie sich die teure Farbtypberatung und finden Sie Ihren warmen/kühlen Unterton sowie Ihre besten Farben kostenlos von zu Hause aus – mit nur einem Foto und diesem KI-Prompt."
+description: " \"Sparen Sie sich die teure Farbtypberatung und finden Sie Ihren warmen/kühlen Unterton sowie Ihre besten Farben kostenlos von zu Hause aus – mit nur einem Foto und diesem KI-Prompt.\""
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---
 

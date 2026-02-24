@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Verificación de Botiquín de Medicina de Viaje Esencial: No te Enfermes en el Extranjero"
+title: " \"Lista de Verificación de Botiquín de Medicina de Viaje Esencial: No te Enfermes en el Extranjero\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "No deambules buscando una farmacia local. Aprende a preparar un botiquín de primeros auxilios y medicamentos de emergencia adaptados a tus síntomas y destino."
+description: " \"No deambules buscando una farmacia local. Aprende a preparar un botiquín de primeros auxilios y medicamentos de emergencia adaptados a tus síntomas y destino.\""
 tags:
   [
     "Medicina de Emergencia",

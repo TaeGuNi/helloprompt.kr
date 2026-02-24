@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기"
+title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
-description: "나 대신 블로그 쓰고, 인스타 댓글 달아주는 'AI 분신'을 만드는 법. 말투 분석 프롬프트를 공개합니다."
+description: " \"나 대신 블로그 쓰고, 인스타 댓글 달아주는 'AI 분신'을 만드는 법. 말투 분석 프롬프트를 공개합니다.\""
 tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 ---
 

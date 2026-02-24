@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta de Gastos Fijos: Ideas para Dejar de Perder Dinero"
+title: " \"Dieta de Gastos Fijos: Ideas para Dejar de Perder Dinero\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Los gastos fijos drenan tu cuenta cada mes. ¿Crees que son imposibles de reducir? Descubre cómo la IA puede revelar puntos de ahorro ocultos."
+description: " \"Los gastos fijos drenan tu cuenta cada mes. ¿Crees que son imposibles de reducir? Descubre cómo la IA puede revelar puntos de ahorro ocultos.\""
 tags: ["Ahorro", "GastoFijo", "CostoDeVida", "Frugalidad"]
 ---
 

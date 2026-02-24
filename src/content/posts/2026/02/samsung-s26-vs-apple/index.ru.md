@@ -1,6 +1,6 @@
 ---
-title: "Samsung Galaxy S26 против Apple iPhone 17: Глубокое погружение в ИИ на устройстве"
-description: "Кто победит в войне ИИ смартфонов 2026 года? Технический анализ NPU Galaxy S26 и Neural Engine iPhone 17."
+title: " \"Samsung Galaxy S26 против Apple iPhone 17: Глубокое погружение в ИИ на устройстве\""
+description: " \"Кто победит в войне ИИ смартфонов 2026 года? Технический анализ NPU Galaxy S26 и Neural Engine iPhone 17.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

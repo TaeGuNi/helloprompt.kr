@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Salvatore dell'Abbandono della Matematica: Spiegatore Amichevole di Problemi Matematici"
+title: " \"Salvatore dell'Abbandono della Matematica: Spiegatore Amichevole di Problemi Matematici\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matematica/Scienza"
-description: "Dimentica i gelidi fogli di risposte che ti lanciano la soluzione in faccia. Questo prompt si trasforma nel tuo tutor personale, spiegandoti ogni singolo passaggio logico."
+description: " \"Dimentica i gelidi fogli di risposte che ti lanciano la soluzione in faccia. Questo prompt si trasforma nel tuo tutor personale, spiegandoti ogni singolo passaggio logico.\""
 tags: ["StudioMatematica", "RisoluzioneProblemi", "Prompt", "Tutoraggio"]
 ---
 

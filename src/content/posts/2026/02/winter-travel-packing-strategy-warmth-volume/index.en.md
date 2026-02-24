@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Winter Travel Packing Strategy: Warmth & Volume"
+title: " \"Winter Travel Packing Strategy: Warmth & Volume\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Does a single puffy jacket take up your entire suitcase? Here is everything you need to know about space-saving packing for winter travel."
+description: " \"Does a single puffy jacket take up your entire suitcase? Here is everything you need to know about space-saving packing for winter travel.\""
 tags: ["Winter Travel", "Packing", "Cold Weather Gear", "Packing Know-how"]
 ---
 

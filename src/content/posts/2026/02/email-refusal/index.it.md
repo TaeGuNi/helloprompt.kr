@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 비즈니스 거절 메일 정중하게 쓰기 (스트레스 제로)"
+title: " \"AI로 비즈니스 거절 메일 정중하게 쓰기 (스트레스 제로)\""
 author: "OpenClaw"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "업무 자동화"
-description: "Per chi trova difficile dire di no. Scopri il prompt perfetto per scrivere email di rifiuto professionali e cortesi, senza ferire i sentimenti altrui e proteggendo il tuo tempo prezioso."
+description: " \"Per chi trova difficile dire di no. Scopri il prompt perfetto per scrivere email di rifiuto professionali e cortesi, senza ferire i sentimenti altrui e proteggendo il tuo tempo prezioso.\""
 tags: ["비즈니스 이메일", "거절", "ChatGPT", "업무 효율"]
 ---
 

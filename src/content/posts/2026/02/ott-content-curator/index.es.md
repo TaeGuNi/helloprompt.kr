@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Fin de Semana Borrado! Guía de Recomendación Personalizada de Contenido OTT con IA"
+title: " \"¡Fin de Semana Borrado! Guía de Recomendación Personalizada de Contenido OTT con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diaria"
-description: "¿Llevas una hora en la pantalla de inicio de Netflix? Analizamos tus gustos para encontrar la obra maestra perfecta para ti."
+description: " \"¿Llevas una hora en la pantalla de inicio de Netflix? Analizamos tus gustos para encontrar la obra maestra perfecta para ti.\""
 tags: ["Netflix", "Recomendación de Películas", "OTT", "Drama"]
 ---
 

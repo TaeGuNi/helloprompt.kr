@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식"
+title: " \"SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Optimize your keyword placement and watch your organic traffic multiply by 10x. Discover the ultimate, AI-powered copywriting formula designed to achieve a perfect SEO score and dominate Google's first page."
+description: " \"Optimize your keyword placement and watch your organic traffic multiply by 10x. Discover the ultimate, AI-powered copywriting formula designed to achieve a perfect SEO score and dominate Google's first page.\""
 tags: ["SEO", "블로그", "구글상위노출", "티스토리", "마케팅"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rapporto Aureo della Gestione del Denaro: Calcolatrice della Regola 50/30/20"
+title: " \"Rapporto Aureo della Gestione del Denaro: Calcolatrice della Regola 50/30/20\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Applica la regola di gestione del budget più semplice e potente sostenuta dalla senatrice USA Elizabeth Warren."
+description: " \"Applica la regola di gestione del budget più semplice e potente sostenuta dalla senatrice USA Elizabeth Warren.\""
 tags: ["GestioneBudget", "Finanza", "503020", "Risparmi"]
 ---
 

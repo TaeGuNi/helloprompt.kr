@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conversa de Dinheiro Difícil, Escritor de 'E-mail de Solicitação de Aumento Salarial' Educado mas Firme"
+title: " \"Conversa de Dinheiro Difícil, Escritor de 'E-mail de Solicitação de Aumento Salarial' Educado mas Firme\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Escreva um e-mail comercial solicitando negociação salarial educadamente, mas declarando claramente os fundamentos de desempenho e a faixa desejada sem arruinar o relacionamento."
+description: " \"Escreva um e-mail comercial solicitando negociação salarial educadamente, mas declarando claramente os fundamentos de desempenho e a faixa desejada sem arruinar o relacionamento.\""
 tags:
   [
     "EmailAumentoSalario",

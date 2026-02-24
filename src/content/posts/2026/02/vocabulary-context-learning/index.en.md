@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "English Vocabulary Master Learning with Context"
+title: " \"English Vocabulary Master Learning with Context\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "Ditch rote memorization! Here is a prompt to perfectly master word nuances in real-world contexts."
+description: " \"Ditch rote memorization! Here is a prompt to perfectly master word nuances in real-world contexts.\""
 tags: ["EnglishLearning", "WordMemorization", "Prompt", "Education"]
 ---
 

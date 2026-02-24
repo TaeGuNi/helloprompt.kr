@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flow at a Glance: History Timeline Generator"
+title: " \"Flow at a Glance: History Timeline Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanities/History"
-description: "A prompt that organizes the chronological order and causal relationships of complex historical events into a neat, easy-to-read timeline."
+description: " \"A prompt that organizes the chronological order and causal relationships of complex historical events into a neat, easy-to-read timeline.\""
 tags: ["HistorySummary", "Chronology", "Timeline", "Summary"]
 ---
 

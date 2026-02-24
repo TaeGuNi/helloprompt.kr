@@ -1,6 +1,6 @@
 ---
-title: "El Auge de la Computación Edge Serverless"
-description: "Explora cómo la arquitectura serverless se traslada al borde, reduciendo la latencia y transformando la entrega de aplicaciones en 2026."
+title: " \"El Auge de la Computación Edge Serverless\""
+description: " \"Explora cómo la arquitectura serverless se traslada al borde, reduciendo la latencia y transformando la entrega de aplicaciones en 2026.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

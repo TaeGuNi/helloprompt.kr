@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록 받아적느라 놓친 내용, AI가 정리해드립니다"
+title: " \"회의록 받아적느라 놓친 내용, AI가 정리해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "Ne perdez plus votre temps à rédiger des comptes-rendus. Transformez vos notes ou transcriptions audio en résumés parfaits en moins d'une minute."
+description: " \"Ne perdez plus votre temps à rédiger des comptes-rendus. Transformez vos notes ou transcriptions audio en résumés parfaits en moins d'une minute.\""
 tags: ["회의", "요약", "생산성"]
 ---
 

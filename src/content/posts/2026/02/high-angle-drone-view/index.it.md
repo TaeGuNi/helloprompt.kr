@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso Punto di Vista Onnisciente 'Angolo Alto' (Vista Drone)"
+title: " \"Uso Punto di Vista Onnisciente 'Angolo Alto' (Vista Drone)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per inquadrature dall'alto e riprese con drone, ideale per mostrare il paesaggio o la struttura generale da una prospettiva aerea."
+description: " \"Prompt per inquadrature dall'alto e riprese con drone, ideale per mostrare il paesaggio o la struttura generale da una prospettiva aerea.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Angolo Telecamera", "Paesaggio"]
 ---

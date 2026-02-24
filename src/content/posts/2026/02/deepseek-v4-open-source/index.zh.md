@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4：开源模型的新王者？"
-description: "深入分析 DeepSeek-V4 的技术特点、基准测试性能及其对开源 AI 生态系统的影响，并附带专属的高级代码重构提示词。"
+title: " \"DeepSeek-V4：开源模型的新王者？\""
+description: " \"深入分析 DeepSeek-V4 的技术特点、基准测试性能及其对开源 AI 生态系统的影响，并附带专属的高级代码重构提示词。\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

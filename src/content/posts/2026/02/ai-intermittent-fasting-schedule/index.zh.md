@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI间歇性禁食时间表：将成功率提高200%"
+title: " \"AI间歇性禁食时间表：将成功率提高200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "利用AI量身定制完美契合您生活方式的间歇性禁食时间表，并获取轻松度过禁食期的实战技巧。"
+description: " \"利用AI量身定制完美契合您生活方式的间歇性禁食时间表，并获取轻松度过禁食期的实战技巧。\""
 tags: ["间歇性禁食", "节食", "健康", "ChatGPT", "程序"]
 ---
 

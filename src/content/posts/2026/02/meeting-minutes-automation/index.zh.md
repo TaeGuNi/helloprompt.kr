@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "逃离会议纪要地狱：录音转文字+摘要+待办+邮件，3分钟搞定"
+title: " \"逃离会议纪要地狱：录音转文字+摘要+待办+邮件，3分钟搞定\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "办公自动化"
-description: "结合Whisper和GPT，自动化繁琐的会议纪要工作。职场新人必备的高效指南。"
+description: " \"结合Whisper和GPT，自动化繁琐的会议纪要工作。职场新人必备的高效指南。\""
 tags: ["会议纪要", "Whisper", "ChatGPT", "办公自动化", "生产力"]
 ---
 

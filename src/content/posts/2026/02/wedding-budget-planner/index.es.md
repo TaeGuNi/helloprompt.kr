@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel de Presupuesto de Boda: Lista de Verificación para Prevenir Bomba de Costos Extra"
+title: " \"Excel de Presupuesto de Boda: Lista de Verificación para Prevenir Bomba de Costos Extra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Un prompt que predice y te ayuda a ahorrar en todos los costos ocultos que surgen durante la preparación de una boda, desde las fotografías hasta la luna de miel."
+description: " \"Un prompt que predice y te ayuda a ahorrar en todos los costos ocultos que surgen durante la preparación de una boda, desde las fotografías hasta la luna de miel.\""
 tags: ["Matrimonio", "Presupuesto", "Boda", "ReciénCasados"]
 ---
 

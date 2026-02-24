@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기"
+title: " \"Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 아트/디자인"
-description: "Startup-Logos, App-Icons, YouTube-Profile... Wie man mit Midjourney professionelle Logo-Entwürfe generiert, bevor man teure Designer beauftragt."
+description: " \"Startup-Logos, App-Icons, YouTube-Profile... Wie man mit Midjourney professionelle Logo-Entwürfe generiert, bevor man teure Designer beauftragt.\""
 tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트"
+title: " \"발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "기획"
-description: "比精美的幻灯片设计更重要的是“清晰的逻辑结构”。使用此提示词，可在策划阶段节省30分钟的时间。"
+description: " \"比精美的幻灯片设计更重要的是“清晰的逻辑结构”。使用此提示词，可在策划阶段节省30分钟的时间。\""
 tags: ["PPT", "발표", "기획"]
 ---
 

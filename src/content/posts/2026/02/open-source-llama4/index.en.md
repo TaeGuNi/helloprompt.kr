@@ -1,6 +1,6 @@
 ---
-title: "Counterattack of Open Source AI: The Llama 4 Shock"
-description: "The massive wave of the open-source ecosystem is threatening closed AI models."
+title: " \"Counterattack of Open Source AI: The Llama 4 Shock\""
+description: " \"The massive wave of the open-source ecosystem is threatening closed AI models.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

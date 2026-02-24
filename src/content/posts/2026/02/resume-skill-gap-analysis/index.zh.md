@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的简历和 JD 比较分析: '技能差距 (Skill Gap)' 诊断提示词"
+title: " \"我的简历和 JD 比较分析: '技能差距 (Skill Gap)' 诊断提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "对比目标职位的招聘公告 (JD) 与个人简历，精准诊断技能差距 (Skill Gap)，并制定针对性的能力弥补与面试防御策略。"
+description: " \"对比目标职位的招聘公告 (JD) 与个人简历，精准诊断技能差距 (Skill Gap)，并制定针对性的能力弥补与面试防御策略。\""
 tags: ["技能差距分析", "简历诊断", "职业战略", "JD分析"]
 ---
 

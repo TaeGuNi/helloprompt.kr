@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "地标历史速成课：所见即所知"
+title: " \"地标历史速成课：所见即所知\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "让冰冷的石头变成鲜活的历史。你的随身AI讲解员，直击历史核心，告别枯燥说教。"
+description: " \"让冰冷的石头变成鲜活的历史。你的随身AI讲解员，直击历史核心，告别枯燥说教。\""
 tags: ["历史旅行", "人文", "地标", "知识旅行"]
 ---
 

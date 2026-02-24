@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore Poesia Breve (Insta Poetry) per Shorts/Reels"
+title: " \"Generatore Poesia Breve (Insta Poetry) per Shorts/Reels\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Crea brevi ed emozionanti poesie perfette per i social media, capaci di catturare l'attenzione e generare like in soli 10 secondi."
+description: " \"Crea brevi ed emozionanti poesie perfette per i social media, capaci di catturare l'attenzione e generare like in soli 10 secondi.\""
 tags: ["Instagram", "Poesia", "TestoEmotivo", "SNS", "Contenuto"]
 ---
 

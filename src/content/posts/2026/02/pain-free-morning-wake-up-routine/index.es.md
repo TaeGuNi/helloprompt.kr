@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rutina de Despertar Matutina Sin Dolor: Operación Despertar"
+title: " \"Rutina de Despertar Matutina Sin Dolor: Operación Despertar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Te despiertas como un zombi cada mañana pidiendo '5 minutos más'? Diseña una rutina matutina milagrosa sin dolor con IA."
+description: " \"¿Te despiertas como un zombi cada mañana pidiendo '5 minutos más'? Diseña una rutina matutina milagrosa sin dolor con IA.\""
 tags: ["Despertar", "Mañana Milagrosa", "Hábito", "Sueño", "ChatGPT"]
 ---
 

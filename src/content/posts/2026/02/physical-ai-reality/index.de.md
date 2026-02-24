@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "Die Medien preisen die neuen Roboter von LG und Samsung als sofortige Weltveränderer an, doch die technische Realität kämpft weiterhin hart mit den Gesetzen der Physik."
+description: " \"Die Medien preisen die neuen Roboter von LG und Samsung als sofortige Weltveränderer an, doch die technische Realität kämpft weiterhin hart mit den Gesetzen der Physik.\""
 heroImage: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "피지컬 AI: 과장된 기대와 차가운 현실"
+title: " \"피지컬 AI: 과장된 기대와 차가운 현실\""
 ---
 
 # 📝 Physical AI: Übertriebener Hype vs. Harte Realität

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configuration de Pochette Tech pour Nomades Numériques : Travail et Voyage"
+title: " \"Configuration de Pochette Tech pour Nomades Numériques : Travail et Voyage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "La magie d'un café devenant un bureau. Des ordinateurs portables aux câbles, une liste d'équipements de travail à distance efficaces à 200%."
+description: " \"La magie d'un café devenant un bureau. Des ordinateurs portables aux câbles, une liste d'équipements de travail à distance efficaces à 200%.\""
 tags: ["Nomade Numérique", "Workation", "Équipement Tech", "Travail à Distance"]
 ---
 

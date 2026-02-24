@@ -1,6 +1,6 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "比较提升AI模型推理速度的两种截然不同的方法（Anthropic的低批处理量“VIP通道”与OpenAI的专用硬件“轻量化”），并为开发者提供在实际业务中如何选择的明确标准。"
+title: " \"LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'\""
+description: " \"比较提升AI模型推理速度的两种截然不同的方法（Anthropic的低批处理量“VIP通道”与OpenAI的专用硬件“轻量化”），并为开发者提供在实际业务中如何选择的明确标准。\""
 date: 2026-02-16
 tags:
   [

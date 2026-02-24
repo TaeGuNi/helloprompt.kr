@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Strategia di Imballaggio per Viaggi Invernali: Calore & Volume"
+title: " \"Strategia di Imballaggio per Viaggi Invernali: Calore & Volume\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Un piumino riempie la tua valigia? Scopri le migliori strategie di imballaggio per i viaggi invernali."
+description: " \"Un piumino riempie la tua valigia? Scopri le migliori strategie di imballaggio per i viaggi invernali.\""
 tags:
   [
     "Viaggio Invernale",

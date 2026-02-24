@@ -1,6 +1,6 @@
 ---
-title: "Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does"
-description: "Stop pushing 'fix' commits. Use this copy-paste prompt to get a senior-level code audit in 30 seconds."
+title: " \"Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does\""
+description: " \"Stop pushing 'fix' commits. Use this copy-paste prompt to get a senior-level code audit in 30 seconds.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/code-review/800/600"
 tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Cinematic Lighting' Prompt Creating Movie-like Atmosphere"
+title: " \"'Cinematic Lighting' Prompt Creating Movie-like Atmosphere\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Discover the secret lighting prompts that transform flat, plain images into stunning Hollywood cinematic scenes."
+description: " \"Discover the secret lighting prompts that transform flat, plain images into stunning Hollywood cinematic scenes.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 ---
 

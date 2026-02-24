@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "创意堵塞时，头脑风暴伙伴"
+title: " \"创意堵塞时，头脑风暴伙伴\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "不要独自苦恼，利用 SCAMPER 技法打破思维僵局，快速扩展创意。"
+description: " \"不要独自苦恼，利用 SCAMPER 技法打破思维僵局，快速扩展创意。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

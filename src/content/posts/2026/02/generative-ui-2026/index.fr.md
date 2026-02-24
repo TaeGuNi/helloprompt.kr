@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (French)"
-description: "Des interfaces qui s'adaptent et se génèrent en fonction de l'intention de l'utilisateur remplacent les menus statiques."
+title: " \"Generative UI Patterns (French)\""
+description: " \"Des interfaces qui s'adaptent et se génèrent en fonction de l'intention de l'utilisateur remplacent les menus statiques.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

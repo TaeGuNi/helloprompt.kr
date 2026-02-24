@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)
+title: "집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Lifestyle
-description: Считаете, что отпуск — это обязательно поездки? Узнайте, как превратить свою комнату в 5-звездочный отель. Спланируйте идеальный тематический стейкейшн с помощью ИИ.
+description: "Считаете, что отпуск — это обязательно поездки? Узнайте, как превратить свою комнату в 5-звездочный отель. Спланируйте идеальный тематический стейкейшн с помощью ИИ."
 tags: [AI, Travel, Rest, Planning]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sofort-NPC-Generator: Lebendige Charaktere erstellen"
+title: " \"Sofort-NPC-Generator: Lebendige Charaktere erstellen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Keine Panik mehr am Spieltisch! Erschaffen Sie in Sekundenschnelle tiefgründige NPCs mit Persönlichkeit, einzigartigen Merkmalen und dunklen Geheimnissen."
+description: " \"Keine Panik mehr am Spieltisch! Erschaffen Sie in Sekundenschnelle tiefgründige NPCs mit Persönlichkeit, einzigartigen Merkmalen und dunklen Geheimnissen.\""
 tags: ["TRPG", "NPC", "Charakter", "Roman", "Einstellung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analisi Sensibilità Excel: Preparazione Perfetta per Scenari 'E Se'"
+title: " \"Analisi Sensibilità Excel: Preparazione Perfetta per Scenari 'E Se'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Di quanto diminuisce il profitto se il tasso di cambio sale del 10%? Calcola decine di scenari in un solo colpo con la funzione Tabella Dati di Excel."
+description: " \"Di quanto diminuisce il profitto se il tasso di cambio sale del 10%? Calcola decine di scenari in un solo colpo con la funzione Tabella Dati di Excel.\""
 tags: ["Excel", "AnalisiSensibilità", "Scenario", "TabellaDati"]
 ---
 

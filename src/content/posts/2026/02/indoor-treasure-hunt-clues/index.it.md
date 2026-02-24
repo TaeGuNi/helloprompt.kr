@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Indizi per Caccia al Tesoro al Chiuso: Attività per Giorni di Pioggia"
+title: " \"Indizi per Caccia al Tesoro al Chiuso: Attività per Giorni di Pioggia\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Crea indizi personalizzati per una caccia al tesoro in casa, preparata in soli 5 minuti con l'IA."
+description: " \"Crea indizi personalizzati per una caccia al tesoro in casa, preparata in soli 5 minuti con l'IA.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

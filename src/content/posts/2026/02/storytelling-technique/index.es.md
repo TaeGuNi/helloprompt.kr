@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Escapa de la Escritura Aburrida! Técnicas de Storytelling para Hacer que la Gente Lea"
+title: " \"¡Escapa de la Escritura Aburrida! Técnicas de Storytelling para Hacer que la Gente Lea\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escritura"
-description: "Un prompt que transforma textos aburridos y puramente informativos en historias cautivadoras que conectan con las emociones de los lectores."
+description: " \"Un prompt que transforma textos aburridos y puramente informativos en historias cautivadoras que conectan con las emociones de los lectores.\""
 tags: ["Storytelling", "Escritura", "Ensayo"]
 ---
 

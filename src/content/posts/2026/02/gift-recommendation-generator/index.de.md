@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Benutzerdefinierter Geschenkempfehlungsgenerator, um vernünftig genannt zu werden"
+title: " \"KI-Benutzerdefinierter Geschenkempfehlungsgenerator, um vernünftig genannt zu werden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Geben Sie Alter, Geschlecht, Beziehung und Budget ein, und wir erstellen eine treffsichere Geschenkeliste."
+description: " \"Geben Sie Alter, Geschlecht, Beziehung und Budget ein, und wir erstellen eine treffsichere Geschenkeliste.\""
 tags: ["Geschenkempfehlung", "Jahrestag", "Einweihungsparty", "Geburtstag"]
 ---
 

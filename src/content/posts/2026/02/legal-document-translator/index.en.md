@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Translate Alien Legal Terms So Even Elementary Students Understand"
+title: " \"Translate Alien Legal Terms So Even Elementary Students Understand\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Living"
-description: "A powerful prompt that decodes complex legal jargon in leases and contracts into plain English, instantly identifying predatory or toxic clauses."
+description: " \"A powerful prompt that decodes complex legal jargon in leases and contracts into plain English, instantly identifying predatory or toxic clauses.\""
 tags: ["Law", "Contract", "Living Law"]
 ---
 

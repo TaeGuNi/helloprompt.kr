@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Svelte 5 실전 도입: React보다 가볍고 빠른 이유 (Runes)"
+title: " \"Svelte 5 실전 도입: React보다 가볍고 빠른 이유 (Runes)\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "A practical guide to understanding Svelte 5's core 'Runes' and successfully migrating from React to a Virtual DOM-free frontend ecosystem."
+description: " \"A practical guide to understanding Svelte 5's core 'Runes' and successfully migrating from React to a Virtual DOM-free frontend ecosystem.\""
 tags: ["Svelte", "Svelte5", "React", "프론트엔드", "웹개발"]
 ---
 

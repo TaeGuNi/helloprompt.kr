@@ -1,6 +1,6 @@
 ---
-title: "AI Ethics & Deepfakes: The Non-Consensual Virtual World"
-description: "El lado oscuro de los avances en IA. Deepfakes, consentimiento y la urgente necesidad de regulación."
+title: " \"AI Ethics & Deepfakes: The Non-Consensual Virtual World\""
+description: " \"El lado oscuro de los avances en IA. Deepfakes, consentimiento y la urgente necesidad de regulación.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

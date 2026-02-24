@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Japanese)"
-description: "パブリッシャーによるアーカイブの非公開化が進み、AI学習用データの枯渇が現実のものになりつつあります。"
+title: " \"Publishers Block AI Scraping (Japanese)\""
+description: " \"パブリッシャーによるアーカイブの非公開化が進み、AI学習用データの枯渇が現実のものになりつつあります。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "私の履歴書とJD比較分析：「スキルギャップ(Skill Gap)」診断プロンプト"
+title: " \"私の履歴書とJD比較分析：「スキルギャップ(Skill Gap)」診断プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "志望する求人(JD)と自分の履歴書を比較分析し、不足しているスキル(Gap)を特定して補完戦略を立てます。"
+description: " \"志望する求人(JD)と自分の履歴書を比較分析し、不足しているスキル(Gap)を特定して補完戦略を立てます。\""
 tags: ["スキルギャップ分析", "履歴書診断", "キャリア戦略", "JD分析"]
 ---
 

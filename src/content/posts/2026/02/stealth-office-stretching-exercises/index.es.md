@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ejercicios de Estiramiento Sigilosos en la Oficina: Alivia el Dolor Sin Ser Notado"
+title: " \"Ejercicios de Estiramiento Sigilosos en la Oficina: Alivia el Dolor Sin Ser Notado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Descubre una rutina de estiramientos de oficina diseñados con IA que puedes hacer en tu silla sin que tus colegas se den cuenta."
+description: " \"Descubre una rutina de estiramientos de oficina diseñados con IA que puedes hacer en tu silla sin que tus colegas se den cuenta.\""
 tags:
   [
     "Cuello de Texto",

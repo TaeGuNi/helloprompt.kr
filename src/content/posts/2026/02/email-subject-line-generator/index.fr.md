@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Lignes d'Objet d'Email Qui Fait Monter en Flèche les Taux d'Ouverture"
+title: " \"Générateur de Lignes d'Objet d'Email Qui Fait Monter en Flèche les Taux d'Ouverture\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Fini les newsletters qui finissent dans les spams. Découvrez comment rédiger des objets d'e-mail que vos clients ne pourront s'empêcher d'ouvrir."
+description: " \"Fini les newsletters qui finissent dans les spams. Découvrez comment rédiger des objets d'e-mail que vos clients ne pourront s'empêcher d'ouvrir.\""
 tags: ["Marketing par Email", "CRM", "Rédaction Publicitaire", "Newsletter"]
 ---
 

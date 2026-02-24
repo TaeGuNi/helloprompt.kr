@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Prepare um café da manhã saudável em apenas 15 minutos nas manhãs corridas com este prompt de Nutricionista IA que te ajuda a usar o que sobrou na geladeira."
+description: " \"Prepare um café da manhã saudável em apenas 15 minutos nas manhãs corridas com este prompt de Nutricionista IA que te ajuda a usar o que sobrou na geladeira.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

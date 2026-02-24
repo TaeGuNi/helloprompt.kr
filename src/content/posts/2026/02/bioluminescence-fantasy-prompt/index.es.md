@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mundo Fantástico de Brillo Prompt 'Bioluminiscencia'"
+title: " \"Mundo Fantástico de Brillo Prompt 'Bioluminiscencia'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Cómo dibujar criaturas y entornos que emiten luz por sí mismos como el Planeta Pandora en Avatar."
+description: " \"Cómo dibujar criaturas y entornos que emiten luz por sí mismos como el Planeta Pandora en Avatar.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasía", "Color"]
 ---
 

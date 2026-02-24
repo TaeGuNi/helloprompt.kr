@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Novel Character Name Generator (Matching Meaning and Nuance)"
+title: " \"Novel Character Name Generator (Matching Meaning and Nuance)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Perfectly name your characters with deep meanings and nuances that reflect their personalities, origins, and eras."
+description: " \"Perfectly name your characters with deep meanings and nuances that reflect their personalities, origins, and eras.\""
 tags: ["Naming", "Character", "Novel", "NameCreation", "Setting"]
 ---
 

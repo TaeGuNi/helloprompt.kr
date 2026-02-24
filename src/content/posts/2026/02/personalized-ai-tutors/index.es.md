@@ -1,6 +1,6 @@
 ---
-title: "Personalized AI Tutors in Education (es)"
-description: "Análisis sobre el impacto y uso de los tutores de IA personalizados en la educación."
+title: " \"Personalized AI Tutors in Education (es)\""
+description: " \"Análisis sobre el impacto y uso de los tutores de IA personalizados en la educación.\""
 date: "2026-02-14"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Prompting: Beyond Text"
-description: "In 2026, prompt engineering is no longer limited to text. Discover how to master multimodal prompting by combining images, audio, and video for next-level AI interactions."
+title: " \"Multimodal Prompting: Beyond Text\""
+description: " \"In 2026, prompt engineering is no longer limited to text. Discover how to master multimodal prompting by combining images, audio, and video for next-level AI interactions.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]

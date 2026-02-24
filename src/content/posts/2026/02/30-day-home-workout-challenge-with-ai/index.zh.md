@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 30天家庭锻炼挑战：摆脱3天放弃"
+title: " \"AI 30天家庭锻炼挑战：摆脱3天放弃\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "无需任何专业器械，仅凭自重即可在家中实现身材蜕变。让AI为您量身定制每天不重样的30天专属健身计划。"
+description: " \"无需任何专业器械，仅凭自重即可在家中实现身材蜕变。让AI为您量身定制每天不重样的30天专属健身计划。\""
 tags: ["家庭锻炼", "锻炼程序", "30天挑战", "ChatGPT", "自重运动"]
 ---
 

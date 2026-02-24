@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Magia para Convertir Diario en Ensayo: Dando Significado a la Vida Diaria Ordinaria"
+title: " \"Magia para Convertir Diario en Ensayo: Dando Significado a la Vida Diaria Ordinaria\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "De un diario íntimo a un ensayo con el que todos puedan empatizar. Deja que la IA embellezca tu día a día con un toque literario."
+description: " \"De un diario íntimo a un ensayo con el que todos puedan empatizar. Deja que la IA embellezca tu día a día con un toque literario.\""
 tags: ["Escritura", "Ensayo", "Diario", "Brunch", "Revisión"]
 ---
 

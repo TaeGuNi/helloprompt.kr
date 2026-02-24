@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "당황스런 질문 1위: '아기는 어떻게 생겨?' 대처법"
+title: " \"당황스런 질문 1위: '아기는 어떻게 생겨?' 대처법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "육아 & 교육"
-description: "아이의 당황스러운 첫 성교육 질문, 피하지 않고 정확하고 지혜롭게 대답하는 AI 프롬프트 가이드"
+description: " \"아이의 당황스러운 첫 성교육 질문, 피하지 않고 정확하고 지혜롭게 대답하는 AI 프롬프트 가이드\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

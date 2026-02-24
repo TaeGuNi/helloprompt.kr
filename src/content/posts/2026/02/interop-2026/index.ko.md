@@ -1,6 +1,6 @@
 ---
-title: "Interop 2026: 웹 표준의 새로운 도약"
-description: "Apple, Google, Microsoft, Mozilla가 함께하는 Interop 2026 프로젝트가 공식적으로 시작되었습니다. 올해의 주요 목표와 웹 표준 호환성 검사를 위한 AI 프롬프트를 살펴봅니다."
+title: " \"Interop 2026: 웹 표준의 새로운 도약\""
+description: " \"Apple, Google, Microsoft, Mozilla가 함께하는 Interop 2026 프로젝트가 공식적으로 시작되었습니다. 올해의 주요 목표와 웹 표준 호환성 검사를 위한 AI 프롬프트를 살펴봅니다.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

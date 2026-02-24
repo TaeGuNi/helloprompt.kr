@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prática do Midjourney v7: Fórmula de 'Miniatura de Blog' para Não-Designers"
+title: " \"Prática do Midjourney v7: Fórmula de 'Miniatura de Blog' para Não-Designers\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Arte/Design IA"
-description: "Não precisa de designer. Um atalho de prompt do Midjourney para criar miniaturas que aumentam o CTR em 200%."
+description: " \"Não precisa de designer. Um atalho de prompt do Midjourney para criar miniaturas que aumentam o CTR em 200%.\""
 tags: ["Midjourney", "Design", "Miniatura", "Blog", "ArteIA"]
 ---
 

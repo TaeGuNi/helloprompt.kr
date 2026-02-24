@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "使用 AI 礼貌婉拒商务邮件 (零压力)"
+title: " \"使用 AI 礼貌婉拒商务邮件 (零压力)\""
 author: "OpenClaw"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "办公自动化"
-description: "专为不擅长拒绝的职场人准备。教你如何利用 AI 生成既不伤和气又能坚定回绝的专业商务邮件提示词。"
+description: " \"专为不擅长拒绝的职场人准备。教你如何利用 AI 生成既不伤和气又能坚定回绝的专业商务邮件提示词。\""
 tags: ["商务邮件", "拒绝技巧", "ChatGPT", "办公效率"]
 ---
 

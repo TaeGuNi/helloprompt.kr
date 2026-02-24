@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Klare und transparente 'Aquarellskizze' Technik"
+title: " \"Klare und transparente 'Aquarellskizze' Technik\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein stimmungsvoller Aquarell-Prompt, der weiche Farbverläufe mit präzisen Bleistiftskizzen kombiniert."
+description: " \"Ein stimmungsvoller Aquarell-Prompt, der weiche Farbverläufe mit präzisen Bleistiftskizzen kombiniert.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Traditionell"]
 ---
 

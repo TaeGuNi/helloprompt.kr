@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "História para Superar o Medo de Dentista para Crianças: Carga de Coragem"
+title: " \"História para Superar o Medo de Dentista para Crianças: Carga de Coragem\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Simulação de superação do medo para crianças que têm medo de hospitais."
+description: " \"Simulação de superação do medo para crianças que têm medo de hospitais.\""
 tags:
   [
     "Parentalidade",

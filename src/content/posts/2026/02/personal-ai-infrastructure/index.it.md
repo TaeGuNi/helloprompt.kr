@@ -1,8 +1,8 @@
 ---
-title: "Costruire un'Infrastruttura AI Personale: Perché dovresti possedere il tuo stack AI"
+title: " \"Costruire un'Infrastruttura AI Personale: Perché dovresti possedere il tuo stack AI\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Scopri come progettare e costruire un'infrastruttura AI personale per ottenere totale libertà, privacy dei dati e personalizzazione, dicendo addio alla dipendenza dai servizi SaaS."
+description: " \"Scopri come progettare e costruire un'infrastruttura AI personale per ottenere totale libertà, privacy dei dati e personalizzazione, dicendo addio alla dipendenza dai servizi SaaS.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

@@ -1,6 +1,6 @@
 ---
-title: "Claude Code로 골프 게임 만들기: AI 게임 개발의 새로운 시대"
-description: "Scopri come sviluppare un gioco di golf 2D perfettamente funzionante in una sola ora utilizzando Claude Code. Consulta questa guida pratica che abbassa le barriere dello sviluppo di giochi tramite il pair programming con l'IA."
+title: " \"Claude Code로 골프 게임 만들기: AI 게임 개발의 새로운 시대\""
+description: " \"Scopri come sviluppare un gioco di golf 2D perfettamente funzionante in una sola ora utilizzando Claude Code. Consulta questa guida pratica che abbassa le barriere dello sviluppo di giochi tramite il pair programming con l'IA.\""
 date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---

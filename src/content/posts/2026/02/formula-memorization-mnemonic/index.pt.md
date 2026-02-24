@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fórmulas Imemorizáveis, Tatuando no Cérebro"
+title: " \"Fórmulas Imemorizáveis, Tatuando no Cérebro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemática/Ciência"
-description: "Um prompt que utiliza storytelling e mnemônicos para gravar definitivamente fórmulas matemáticas e científicas complexas na sua memória."
+description: " \"Um prompt que utiliza storytelling e mnemônicos para gravar definitivamente fórmulas matemáticas e científicas complexas na sua memória.\""
 tags: ["MétodoMemorização", "Mnemônico", "MétodoEstudo", "Prompt"]
 ---
 

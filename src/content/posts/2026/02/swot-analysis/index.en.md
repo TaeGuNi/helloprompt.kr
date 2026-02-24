@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard of Corporate Analysis: AI SWOT Analyzer"
+title: " \"Standard of Corporate Analysis: AI SWOT Analyzer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A comprehensive prompt to instantly analyze the strengths, weaknesses, opportunities, and threats of any company before investing."
+description: " \"A comprehensive prompt to instantly analyze the strengths, weaknesses, opportunities, and threats of any company before investing.\""
 tags: ["Stock", "CorporateAnalysis", "SWOT", "Strategy"]
 ---
 

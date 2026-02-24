@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTubeショート工場: テーマを投げるだけで台本+場面描写30秒カット"
+title: " \"YouTubeショート工場: テーマを投げるだけで台本+場面描写30秒カット\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "コンテンツ制作"
-description: "再生数が爆発するショート動画の法則（Hook-Body-CTA）をAIに学習させ、バズる台本を無限に量産する方法を解説します。"
+description: " \"再生数が爆発するショート動画の法則（Hook-Body-CTA）をAIに学習させ、バズる台本を無限に量産する方法を解説します。\""
 tags: ["YouTube", "ショート", "台本作成", "クリエイター", "TikTok"]
 ---
 

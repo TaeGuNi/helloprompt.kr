@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Architecture Urbaine : Lire la Skyline"
+title: " \"Guide d'Architecture Urbaine : Lire la Skyline\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Découvrez la ville à travers les yeux d'un architecte : de la splendeur gothique aux lignes épurées de l'architecture moderne, écoutez les histoires fascinantes que racontent les bâtiments."
+description: " \"Découvrez la ville à travers les yeux d'un architecte : de la splendeur gothique aux lignes épurées de l'architecture moderne, écoutez les histoires fascinantes que racontent les bâtiments.\""
 tags:
   [
     "Voyage Architecture",

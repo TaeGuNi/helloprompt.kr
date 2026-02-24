@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Empathy Conversation' Script to Calm a Tantrum-Throwing Child"
+title: " \"'Empathy Conversation' Script to Calm a Tantrum-Throwing Child\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Magical words and practical AI prompts for parents to calm a child's emotional brain during a public tantrum."
+description: " \"Magical words and practical AI prompts for parents to calm a child's emotional brain during a public tantrum.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

@@ -3,10 +3,7 @@ categories:
   - Prompt Engineering
   - AI Tips
 date: "2026-02-13"
-description:
-  Stop writing complex prompts. The era of 'Intent-Based Prompting', where
-  AI grasps the user's hidden intent, has arrived. Introducing a simpler, more powerful
-  way to communicate.
+description: "Stop writing complex prompts. The era of 'Intent-Based Prompting', where AI grasps the user's hidden intent, has arrived. Introducing a simpler, more powerful way to communicate."
 image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +11,7 @@ tags:
   - Intent-Based
   - AI Interaction
   - Future of Work
-title: "Prompt Engineering 3.0: Intent Is Command"
+title: " \"Prompt Engineering 3.0: Intent Is Command\""
 ---
 
 # 📝 Prompt Engineering 3.0: Intent Is Command

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "老後資金計算機：私の引退準備点数は？"
+title: " \"老後資金計算機：私の引退準備点数は？\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "財テク & 投資"
-description: "漠然とした老後の不安を解消します。必要な老後資金と毎月貯蓄すべき金額をAIが正確に計算します。"
+description: " \"漠然とした老後の不安を解消します。必要な老後資金と毎月貯蓄すべき金額をAIが正確に計算します。\""
 tags: ["引退", "老後準備", "年金", "財務設計"]
 ---
 

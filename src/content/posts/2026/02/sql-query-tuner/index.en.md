@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Slow SQL Query, Secret to Tuning in 3 Seconds"
+title: " \"Slow SQL Query, Secret to Tuning in 3 Seconds\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A powerful prompt that analyzes complex and inefficient SQL queries to drastically optimize performance and provide expert index recommendations."
+description: " \"A powerful prompt that analyzes complex and inefficient SQL queries to drastically optimize performance and provide expert index recommendations.\""
 tags: ["SQL", "DB Tuning", "Query Optimization", "Database"]
 ---
 

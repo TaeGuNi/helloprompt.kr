@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ceinture de Sécurité de Fonds d'Urgence : Calculer Mon Fonds d'Urgence Optimal"
+title: " \"Ceinture de Sécurité de Fonds d'Urgence : Calculer Mon Fonds d'Urgence Optimal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Calculez la taille optimale de votre fonds d'urgence pour rester serein, même en cas de perte d'emploi soudaine ou de coup dur."
+description: " \"Calculez la taille optimale de votre fonds d'urgence pour rester serein, même en cas de perte d'emploi soudaine ou de coup dur.\""
 tags: ["FondsUrgence", "GestionFinancière", "GestionRisques", "Épargne"]
 ---
 

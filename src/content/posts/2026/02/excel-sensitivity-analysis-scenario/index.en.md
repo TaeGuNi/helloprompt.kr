@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Sensitivity Analysis: Perfect Prep for 'What If' Scenarios"
+title: " \"Excel Sensitivity Analysis: Perfect Prep for 'What If' Scenarios\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "How much does profit decrease if the exchange rate rises by 10%? Learn how to calculate dozens of scenarios at once using Excel's Data Table function."
+description: " \"How much does profit decrease if the exchange rate rises by 10%? Learn how to calculate dozens of scenarios at once using Excel's Data Table function.\""
 tags: ["Excel", "SensitivityAnalysis", "Scenario", "DataTable"]
 ---
 

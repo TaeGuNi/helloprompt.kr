@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fórmulas Complexas do Excel: O Prompt Que as Escreve Quando Você as Explica em Palavras"
+title: " \"Fórmulas Complexas do Excel: O Prompt Que as Escreve Quando Você as Explica em Palavras\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Confuso com PROCV ou ÍNDICE/CORRESP? Apenas explique o que precisa e este prompt gerará a fórmula perfeita do Excel em segundos."
+description: " \"Confuso com PROCV ou ÍNDICE/CORRESP? Apenas explique o que precisa e este prompt gerará a fórmula perfeita do Excel em segundos.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

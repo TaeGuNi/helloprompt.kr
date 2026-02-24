@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roteiro de Meditação Mindfulness de 5 Minutos: Do Estresse à Calma"
+title: " \"Roteiro de Meditação Mindfulness de 5 Minutos: Do Estresse à Calma\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Não precisa pagar por um aplicativo de meditação. A IA escreve um guia de meditação perfeitamente adaptado à sua situação e emoções."
+description: " \"Não precisa pagar por um aplicativo de meditação. A IA escreve um guia de meditação perfeitamente adaptado à sua situação e emoções.\""
 tags: ["Meditação", "Mindfulness", "Cura", "Estresse", "TTS"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Última Arma Definitiva de Entrevista! Gerador de 'Pergunta Reversa' para Perguntar ao Entrevistador"
+title: " \"Última Arma Definitiva de Entrevista! Gerador de 'Pergunta Reversa' para Perguntar ao Entrevistador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Gere perguntas reversas inteligentes e estratégicas que demonstram profundo interesse e visão de negócios ao responder 'Você tem alguma dúvida?' no final da entrevista."
+description: " \"Gere perguntas reversas inteligentes e estratégicas que demonstram profundo interesse e visão de negócios ao responder 'Você tem alguma dúvida?' no final da entrevista.\""
 tags: ["PerguntaReversa", "DicaEntrevista", "ÚltimasPalavras", "AnáliseEmpresa"]
 ---
 

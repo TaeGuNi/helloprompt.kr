@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처리하기"
+title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처리하기\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "데이터/분석"
-description: "¿Te quedas trabajando hasta tarde por culpa de archivos de Excel con direcciones y números de teléfono sin formato? Descubre el prompt definitivo para que la IA limpie y estandarice tus datos al instante, sin necesidad de usar expresiones regulares."
+description: " \"¿Te quedas trabajando hasta tarde por culpa de archivos de Excel con direcciones y números de teléfono sin formato? Descubre el prompt definitivo para que la IA limpie y estandarice tus datos al instante, sin necesidad de usar expresiones regulares.\""
 tags: ["Excel", "데이터전처리", "자동화", "Python"]
 ---
 

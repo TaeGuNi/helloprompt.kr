@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Extracting Insights from Raw Data"
+title: " \"Extracting Insights from Raw Data\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Analyze raw Excel data with AI to uncover actionable business insights and hidden patterns."
+description: " \"Analyze raw Excel data with AI to uncover actionable business insights and hidden patterns.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

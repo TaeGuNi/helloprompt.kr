@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secreto de Estructuración de Guiones de YouTube para Vistas Altas"
+title: " \"Secreto de Estructuración de Guiones de YouTube para Vistas Altas\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Escritura"
-description: "Prompt para estructurar guiones de YouTube, evitar el abandono en los primeros 5 segundos y maximizar la retención de audiencia."
+description: " \"Prompt para estructurar guiones de YouTube, evitar el abandono en los primeros 5 segundos y maximizar la retención de audiencia.\""
 tags: ["YouTube", "Guion", "Producción de Video"]
 ---
 

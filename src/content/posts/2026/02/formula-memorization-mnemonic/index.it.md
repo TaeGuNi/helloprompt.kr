@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Formule Immemmorabili, Tatuaggio sul Cervello"
+title: " \"Formule Immemmorabili, Tatuaggio sul Cervello\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matematica/Scienza"
-description: "Un prompt infallibile per memorizzare formule matematiche e scientifiche complesse usando storytelling e mnemotecnica."
+description: " \"Un prompt infallibile per memorizzare formule matematiche e scientifiche complesse usando storytelling e mnemotecnica.\""
 tags: ["MetodoMemorizzazione", "Mnemonica", "MetodoStudio", "Prompt"]
 ---
 

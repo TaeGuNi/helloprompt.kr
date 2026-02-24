@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (Korean)"
-description: "LLM의 컨텍스트 윈도우를 최적화하여 토큰 비용을 줄이고 답변 품질을 높이는 완벽 가이드"
+title: " \"Optimizing Context Windows (Korean)\""
+description: " \"LLM의 컨텍스트 윈도우를 최적화하여 토큰 비용을 줄이고 답변 품질을 높이는 완벽 가이드\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

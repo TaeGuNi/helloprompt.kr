@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "比 Papago 还快！情况别必备旅行会话作弊键"
+title: " \"比 Papago 还快！情况别必备旅行会话作弊键\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "涵盖餐厅点餐、酒店入住乃至突发状况。为您量身定制一秒即用的当地超实用旅行会话小抄。"
+description: " \"涵盖餐厅点餐、酒店入住乃至突发状况。为您量身定制一秒即用的当地超实用旅行会话小抄。\""
 tags: ["旅行", "外语", "会话", "英语", "日语"]
 ---
 

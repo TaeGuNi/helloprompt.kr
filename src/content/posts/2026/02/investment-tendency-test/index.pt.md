@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Meu Teste de Tendência de Investimento: Covarde ou Besta?"
+title: " \"Meu Teste de Tendência de Investimento: Covarde ou Besta?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Tecnologia Financeira & Investimento"
-description: "Chega de questionários chatos no balcão do banco. A IA descobre a sua verdadeira tolerância ao risco com cenários reais."
+description: " \"Chega de questionários chatos no balcão do banco. A IA descobre a sua verdadeira tolerância ao risco com cenários reais.\""
 tags:
   [
     "Tendência de Investimento",

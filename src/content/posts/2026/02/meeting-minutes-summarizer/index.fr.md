@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Résumer Proprement des Procès-Verbaux de Réunion Décousus"
+title: " \"Résumer Proprement des Procès-Verbaux de Réunion Décousus\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Vous avez converti l'enregistrement de votre réunion en texte, mais il est trop long ? Voici le prompt parfait pour en extraire l'essentiel et générer un compte-rendu clair."
+description: " \"Vous avez converti l'enregistrement de votre réunion en texte, mais il est trop long ? Voici le prompt parfait pour en extraire l'essentiel et générer un compte-rendu clair.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

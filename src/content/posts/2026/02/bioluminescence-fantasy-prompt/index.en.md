@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fantastic World of Glow 'Bioluminescence' Prompt"
+title: " \"Fantastic World of Glow 'Bioluminescence' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Learn how to generate mesmerizing, self-luminous creatures and environments reminiscent of the glowing world of Pandora in Avatar."
+description: " \"Learn how to generate mesmerizing, self-luminous creatures and environments reminiscent of the glowing world of Pandora in Avatar.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 

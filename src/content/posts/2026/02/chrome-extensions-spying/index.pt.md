@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "당신을 감시하는 크롬 확장프로그램 280개 리스트"
+title: " \"당신을 감시하는 크롬 확장프로그램 280개 리스트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안"
-description: "Um guia definitivo para usar IA na detecção de extensões maliciosas do Chrome que coletam secretamente seus dados de navegação."
+description: " \"Um guia definitivo para usar IA na detecção de extensões maliciosas do Chrome que coletam secretamente seus dados de navegação.\""
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

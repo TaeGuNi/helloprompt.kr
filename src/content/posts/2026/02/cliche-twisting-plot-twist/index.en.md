@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Twisting Cliche: Turning Obvious Ending into Shocking Twist"
+title: " \"Twisting Cliche: Turning Obvious Ending into Shocking Twist\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Discover a method to generate shocking twist ideas that completely blindside your readers by subverting familiar cliches."
+description: " \"Discover a method to generate shocking twist ideas that completely blindside your readers by subverting familiar cliches.\""
 tags: ["Novel", "Twist", "Idea", "Storytelling"]
 ---
 

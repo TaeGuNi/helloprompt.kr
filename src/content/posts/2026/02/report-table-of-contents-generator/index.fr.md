@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Construire une Table des Matières de Rapport Que les Chefs Aiment"
+title: " \"Construire une Table des Matières de Rapport Que les Chefs Aiment\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Un prompt pour structurer vos rapports avec un flux logique (Logic Flow) implacable."
+description: " \"Un prompt pour structurer vos rapports avec un flux logique (Logic Flow) implacable.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 간밤의 꿈, AI 해몽가에게 물어보기
+title: "간밤의 꿈, AI 해몽가에게 물어보기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI 활용
-description: Scopri un prompt AI che interpreta i ricordi sbiaditi dei tuoi sogni attraverso le lenti della psicoanalisi di Freud e Jung.
+description: "Scopri un prompt AI che interpreta i ricordi sbiaditi dei tuoi sogni attraverso le lenti della psicoanalisi di Freud e Jung."
 tags: [AI, ChatGPT, Prompt, 꿈해몽, 자기발견]
 ---
 

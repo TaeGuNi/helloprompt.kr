@@ -1,6 +1,6 @@
 ---
-title: "Discord: Estudo de Caso de Otimização de Desempenho"
-description: "Um mergulho profundo na jornada de otimização de engenharia do Discord para processar trilhões de mensagens e suportar milhões de usuários simultâneos."
+title: " \"Discord: Estudo de Caso de Otimização de Desempenho\""
+description: " \"Um mergulho profundo na jornada de otimização de engenharia do Discord para processar trilhões de mensagens e suportar milhões de usuários simultâneos.\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

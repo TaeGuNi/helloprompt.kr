@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Spanish)"
-description: "La colaboración multiagente es el nuevo estándar para la resolución de problemas complejos"
+title: " \"AI Agent Swarms (Spanish)\""
+description: " \"La colaboración multiagente es el nuevo estándar para la resolución de problemas complejos\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rascunho de Conceito e Letra de Canção Título de Ídolo K-POP"
+title: " \"Rascunho de Conceito e Letra de Canção Título de Ídolo K-POP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "E se eu fosse um produtor musical? Crie o universo do seu próprio grupo de K-pop, o conceito do álbum e a letra da faixa-título em um só clique."
+description: " \"E se eu fosse um produtor musical? Crie o universo do seu próprio grupo de K-pop, o conceito do álbum e a letra da faixa-título em um só clique.\""
 tags: ["K-POP", "Ídolo", "Universo", "Planejamento", "EscritaLetras"]
 ---
 

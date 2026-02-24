@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minuti di Riposo Cerebrale, Scrittura di Script di Meditazione e Mindfulness IA"
+title: " \"5 Minuti di Riposo Cerebrale, Scrittura di Script di Meditazione e Mindfulness IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Crea uno script guidato di meditazione perfetto per la tua situazione emotiva."
+description: " \"Crea uno script guidato di meditazione perfetto per la tua situazione emotiva.\""
 tags: ["Meditazione", "Mindfulness", "Stress", "Riposo"]
 ---
 

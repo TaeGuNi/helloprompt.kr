@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "노코드(Bubble)로 MVP 찍어내기: 개발자 없이 창업하는 법"
+title: " \"노코드(Bubble)로 MVP 찍어내기: 개발자 없이 창업하는 법\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "창업/기획"
-description: "아이디어는 있는데 코딩을 못해서 포기했다면? Bubble로 3일 만에 실제 작동하는 앱을 만드는 비법."
+description: " \"아이디어는 있는데 코딩을 못해서 포기했다면? Bubble로 3일 만에 실제 작동하는 앱을 만드는 비법.\""
 tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
 ---
 

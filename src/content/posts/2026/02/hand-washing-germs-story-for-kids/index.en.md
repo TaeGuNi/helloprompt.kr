@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hand Washing & Germs Story for Kids"
+title: " \"Hand Washing & Germs Story for Kids\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A scientific, story-driven approach to persuade your child to wash their hands without nagging."
+description: " \"A scientific, story-driven approach to persuade your child to wash their hands without nagging.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

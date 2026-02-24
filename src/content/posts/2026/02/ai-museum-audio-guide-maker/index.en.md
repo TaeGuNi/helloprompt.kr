@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Museum Audio Guide Maker: Curator in My Hand"
+title: " \"AI Museum Audio Guide Maker: Curator in My Hand\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Save €10 on audio guide rentals. Simply snap a picture of any artwork, and let AI be your personal docent."
+description: " \"Save €10 on audio guide rentals. Simply snap a picture of any artwork, and let AI be your personal docent.\""
 tags: ["Museum", "Art Gallery", "Audio Guide", "Docent", "Art Appreciation"]
 ---
 

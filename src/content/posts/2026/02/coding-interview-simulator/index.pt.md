@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Passe Livre de Entrevista de Desenvolvedor: Exame Simulado de Entrevista de Algoritmo"
+title: " \"Passe Livre de Entrevista de Desenvolvedor: Exame Simulado de Entrevista de Algoritmo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/TI"
-description: "Um prompt que atua como um entrevistador técnico de IA para você treinar e se preparar para testes de código e entrevistas nas principais empresas de tecnologia."
+description: " \"Um prompt que atua como um entrevistador técnico de IA para você treinar e se preparar para testes de código e entrevistas nas principais empresas de tecnologia.\""
 tags:
   ["TesteCodificação", "EntrevistaTécnica", "Algoritmo", "PreparaçãoEmprego"]
 ---

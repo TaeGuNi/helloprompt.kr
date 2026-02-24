@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe: The Controversy Behind Window Resizing"
-description: "Exploring the changes to window resizing in macOS Tahoe and the mixed reactions from users."
+title: " \"macOS Tahoe: The Controversy Behind Window Resizing\""
+description: " \"Exploring the changes to window resizing in macOS Tahoe and the mixed reactions from users.\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

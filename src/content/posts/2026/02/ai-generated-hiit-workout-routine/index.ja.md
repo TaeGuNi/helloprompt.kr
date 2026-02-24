@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI生成HIITワークアウトルーティン：20分で汗だく"
+title: " \"AI生成HIITワークアウトルーティン：20分で汗だく\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康＆ウェルネス"
-description: "時間はなくても確実に痩せたい方へ。AIがあなたの環境に合わせて毎日新しい高強度インターバルトレーニング（HIIT）ルーティンを作成します。"
+description: " \"時間はなくても確実に痩せたい方へ。AIがあなたの環境に合わせて毎日新しい高強度インターバルトレーニング（HIIT）ルーティンを作成します。\""
 tags: ["HIIT", "タバタ", "ダイエット", "運動", "ChatGPT"]
 ---
 

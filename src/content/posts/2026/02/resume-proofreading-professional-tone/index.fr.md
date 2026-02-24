@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Correction de Ton de CV : Comment Se Débarrasser de l''Amateur' et Paraître 'Pro'"
+title: " \"Correction de Ton de CV : Comment Se Débarrasser de l''Amateur' et Paraître 'Pro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Un prompt de révision qui affine le ton de votre CV pour répondre aux standards professionnels, en corrigeant les fautes de frappe et les maladresses syntaxiques afin de maximiser votre crédibilité."
+description: " \"Un prompt de révision qui affine le ton de votre CV pour répondre aux standards professionnels, en corrigeant les fautes de frappe et les maladresses syntaxiques afin de maximiser votre crédibilité.\""
 tags:
   [
     "CorrectionCV",

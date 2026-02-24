@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "80s Retro Vibe 'Synthwave' Style"
+title: " \"80s Retro Vibe 'Synthwave' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Synthwave art prompt characterized by 80s neon nostalgia, palm trees, and grid floors."
+description: " \"Synthwave art prompt characterized by 80s neon nostalgia, palm trees, and grid floors.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

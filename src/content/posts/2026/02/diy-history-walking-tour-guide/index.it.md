@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida al Tour a Piedi Storico Fai-da-Te: Divertiti Senza Guida"
+title: " \"Guida al Tour a Piedi Storico Fai-da-Te: Divertiti Senza Guida\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Esplora la città al tuo ritmo senza costosi tour guidati. Crea un percorso storico personalizzato e ricco di aneddoti sul tema che preferisci."
+description: " \"Esplora la città al tuo ritmo senza costosi tour guidati. Crea un percorso storico personalizzato e ricco di aneddoti sul tema che preferisci.\""
 tags: ["Tour a Piedi", "Auto-guida", "Passeggiata Storica", "Viaggio a Piedi"]
 ---
 

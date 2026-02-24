@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "未来都市の夜「Cyberpunk Neon」照明演出"
+title: " \"未来都市の夜「Cyberpunk Neon」照明演出\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "ピンクとブルーの強烈なコントラストで魅せる、サイバーパンクスタイルのネオン照明プロンプトです。"
+description: " \"ピンクとブルーの強烈なコントラストで魅せる、サイバーパンクスタイルのネオン照明プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 ---
 

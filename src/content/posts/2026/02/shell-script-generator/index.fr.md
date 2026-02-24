@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieu de la Gestion de Serveur, Générateur Auto de Script Shell"
+title: " \"Dieu de la Gestion de Serveur, Générateur Auto de Script Shell\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Plus besoin de mémoriser des commandes Linux complexes. Décrivez simplement la tâche, et l'IA générera un script Bash robuste et sécurisé pour vous."
+description: " \"Plus besoin de mémoriser des commandes Linux complexes. Décrivez simplement la tâche, et l'IA générera un script Bash robuste et sécurisé pour vous.\""
 tags: ["Linux", "Script Shell", "DevOps", "Automatisation", "Bash"]
 ---
 

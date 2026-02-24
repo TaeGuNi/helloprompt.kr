@@ -1,6 +1,6 @@
 ---
-title: "AI Hallucinations in Journalism"
-description: "Ars Technica retiró un artículo tras descubrir que citas generadas por IA fueron atribuidas falsamente a un desarrollador, destacando los riesgos de los LLM en el periodismo."
+title: " \"AI Hallucinations in Journalism\""
+description: " \"Ars Technica retiró un artículo tras descubrir que citas generadas por IA fueron atribuidas falsamente a un desarrollador, destacando los riesgos de los LLM en el periodismo.\""
 date: 2026-02-15
 tags: ["AI", "Ethics", "Journalism", "Fake News"]
 ---

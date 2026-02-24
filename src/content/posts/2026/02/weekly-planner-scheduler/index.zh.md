@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "过神生项目！AI 周计划表 (Weekly Planner) 编写"
+title: " \"过神生项目！AI 周计划表 (Weekly Planner) 编写\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "要做的事情堆积如山却毫无头绪？让 AI 为你量身打造基于优先级的完美周计划表。"
+description: " \"要做的事情堆积如山却毫无头绪？让 AI 为你量身打造基于优先级的完美周计划表。\""
 tags: ["计划表", "日程表", "时间管理", "生产性"]
 ---
 

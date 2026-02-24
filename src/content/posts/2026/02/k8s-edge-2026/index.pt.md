@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Kubernetes na Borda: Gerenciando Clusters Distribuídos (2026)"
+title: " \"Kubernetes na Borda: Gerenciando Clusters Distribuídos (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Explorando os desafios técnicos e as soluções para gerenciar milhares de clusters Kubernetes distribuídos no cenário de Edge Computing de 2026, cobrindo a evolução do K3s e GitOps."
+description: " \"Explorando os desafios técnicos e as soluções para gerenciar milhares de clusters Kubernetes distribuídos no cenário de Edge Computing de 2026, cobrindo a evolução do K3s e GitOps.\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

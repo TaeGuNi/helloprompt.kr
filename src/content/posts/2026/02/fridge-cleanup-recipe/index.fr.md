@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nettoyage du Frigo, Renaître avec une Recette de Chef"
+title: " \"Nettoyage du Frigo, Renaître avec une Recette de Chef\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Un prompt anti-gaspillage qui transforme vos restes d'ingrédients proches de la péremption en de délicieuses recettes dignes d'un chef."
+description: " \"Un prompt anti-gaspillage qui transforme vos restes d'ingrédients proches de la péremption en de délicieuses recettes dignes d'un chef.\""
 tags: ["Cuisine", "Recette", "Astuces de Vie"]
 ---
 

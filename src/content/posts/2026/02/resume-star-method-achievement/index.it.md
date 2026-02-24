@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Tecnica STAR: Provare Risultati Curriculum con 'Numeri'"
+title: " \"Prompt Tecnica STAR: Provare Risultati Curriculum con 'Numeri'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Trasforma il testo piatto del tuo curriculum in elenchi puntati orientati ai risultati applicando la tecnica STAR (Situazione, Compito, Azione, Risultato)."
+description: " \"Trasforma il testo piatto del tuo curriculum in elenchi puntati orientati ai risultati applicando la tecnica STAR (Situazione, Compito, Azione, Risultato).\""
 tags: ["Curriculum", "MetodoSTAR", "PrepLavoro", "QuantificareRisultato"]
 ---
 

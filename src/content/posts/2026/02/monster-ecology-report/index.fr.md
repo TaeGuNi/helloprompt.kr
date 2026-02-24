@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rapport d'Écologie de Monstre : Créer Ma Propre Créature"
+title: " \"Rapport d'Écologie de Monstre : Créer Ma Propre Créature\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Marre des slimes et des gobelins ? Concevez des monstres originaux en tenant compte de leur écosystème et de leurs habitudes."
+description: " \"Marre des slimes et des gobelins ? Concevez des monstres originaux en tenant compte de leur écosystème et de leurs habitudes.\""
 tags: ["Créature", "Monstre", "PlanificationJeu", "Fantaisie", "Réglage"]
 ---
 

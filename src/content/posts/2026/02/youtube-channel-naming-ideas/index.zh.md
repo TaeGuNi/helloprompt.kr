@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube 频道名 & 昵称推荐 (YouTube Channel Naming)"
+title: " \"YouTube 频道名 & 昵称推荐 (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "为你的YouTube频道量身定制爆款名称与粉丝昵称！利用AI生成契合算法、让人过目不忘的优质频道名。"
+description: " \"为你的YouTube频道量身定制爆款名称与粉丝昵称！利用AI生成契合算法、让人过目不忘的优质频道名。\""
 tags: ["YouTube", "频道名", "昵称", "创作者", "命名"]
 ---
 

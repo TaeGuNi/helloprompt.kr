@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼"
+title: " \"CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "감정 노동은 이제 그만. 환불 거절, 배송 지연, 악성 리뷰에 대처하는 AI 답변 템플릿."
+description: " \"감정 노동은 이제 그만. 환불 거절, 배송 지연, 악성 리뷰에 대처하는 AI 답변 템플릿.\""
 tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "嘻哈押韵笔记: 妙语自动生成提示词"
+title: " \"嘻哈押韵笔记: 妙语自动生成提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "致所有渴望成为 Rapper 的朋友！只需输入主题与押韵 (Rhyme) 规则，AI 即可为你定制直击灵魂的 Punchline 歌词。"
+description: " \"致所有渴望成为 Rapper 的朋友！只需输入主题与押韵 (Rhyme) 规则，AI 即可为你定制直击灵魂的 Punchline 歌词。\""
 tags: ["嘻哈", "说唱", "作词", "押韵", "妙语"]
 ---
 

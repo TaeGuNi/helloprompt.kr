@@ -1,6 +1,6 @@
 ---
-title: "La trappola della singolarità"
-description: "Analisi critica della trappola della singolarità: la Singolarità è un mito del marketing per vendere GPU."
+title: " \"La trappola della singolarità\""
+description: " \"Analisi critica della trappola della singolarità: la Singolarità è un mito del marketing per vendere GPU.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

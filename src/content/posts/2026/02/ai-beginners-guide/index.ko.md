@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 초보자가 가장 먼저 해야 할 3가지 (시작 가이드)"
+title: " \"AI 초보자가 가장 먼저 해야 할 3가지 (시작 가이드)\""
 author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-09T10:00:00.000Z"
 category: "입문"
 tags: ["AI입문", "ChatGPT", "사용법", "초보자"]
-description: "AI가 어렵게만 느껴진다면? 지금 당장 시작할 수 있는 가장 쉽고 확실한 방법 3가지를 소개합니다."
+description: " \"AI가 어렵게만 느껴진다면? 지금 당장 시작할 수 있는 가장 쉽고 확실한 방법 3가지를 소개합니다.\""
 ---
 
 # 📝 AI 초보자가 가장 먼저 해야 할 3가지 (시작 가이드)

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "없는 재료는 없다! AI 요리 재료 대체 가이드 (AI Recipe Substituter)"
+title: " \"없는 재료는 없다! AI 요리 재료 대체 가이드 (AI Recipe Substituter)\""
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Life Hacks
-description: "做饭时发现少了一样食材而惊慌失措？无需跑去超市，AI 帮您用冰箱里现有的食材找出完美的替代配方。"
+description: " \"做饭时发现少了一样食材而惊慌失措？无需跑去超市，AI 帮您用冰箱里现有的食材找出完美的替代配方。\""
 tags: [AI, Cooking, LifeHack, Food]
 ---
 

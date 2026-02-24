@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Oubliez Excel VLOOKUP : Dieu de la Correspondance de Données Financières, XLOOKUP"
+title: " \"Oubliez Excel VLOOKUP : Dieu de la Correspondance de Données Financières, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Heures supplémentaires à cause d'un VLOOKUP lent et sujet aux erreurs ? Passez à XLOOKUP, une fonction beaucoup plus puissante et facile à utiliser."
+description: " \"Heures supplémentaires à cause d'un VLOOKUP lent et sujet aux erreurs ? Passez à XLOOKUP, une fonction beaucoup plus puissante et facile à utiliser.\""
 tags: ["Excel", "Fonction", "XLOOKUP", "NettoyageDonnées"]
 ---
 

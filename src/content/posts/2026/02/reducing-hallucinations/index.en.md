@@ -1,6 +1,6 @@
 ---
-title: "Reducing Hallucinations: Towards Reliable AI"
-description: "Discover the latest 2026 techniques to stop AI from lying. Master Grounding and the Chain of Verification (CoVe) to ensure absolute factual reliability."
+title: " \"Reducing Hallucinations: Towards Reliable AI\""
+description: " \"Discover the latest 2026 techniques to stop AI from lying. Master Grounding and the Chain of Verification (CoVe) to ensure absolute factual reliability.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

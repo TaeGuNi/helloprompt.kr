@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "感性的背景模糊 'Bokeh & Depth of Field'"
+title: " \"感性的背景模糊 'Bokeh & Depth of Field'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "模糊背景以突出被摄体，制造感性光斑 (Bokeh) 的提示词。"
+description: " \"模糊背景以突出被摄体，制造感性光斑 (Bokeh) 的提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 

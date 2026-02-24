@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escapa del Infierno de las Reuniones: Grabación a Actas + Email en 3 Min"
+title: " \"Escapa del Infierno de las Reuniones: Grabación a Actas + Email en 3 Min\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automatización Laboral"
-description: "El flujo de trabajo definitivo para automatizar la redacción de actas de reuniones mediante Whisper y GPT. Una guía esencial para maximizar tu productividad."
+description: " \"El flujo de trabajo definitivo para automatizar la redacción de actas de reuniones mediante Whisper y GPT. Una guía esencial para maximizar tu productividad.\""
 tags: ["Actas", "Whisper", "ChatGPT", "Automatización", "Productividad"]
 ---
 

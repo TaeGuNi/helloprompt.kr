@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échapper à la Phobie de l'Écran Blanc : Architecte de Plan de Dissertation"
+title: " \"Échapper à la Phobie de l'Écran Blanc : Architecte de Plan de Dissertation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: "Prompt qui définit une structure logique (Introduction-Corps-Conclusion) et suggère des idées centrales par paragraphe lorsque l'écriture est bloquée."
+description: " \"Prompt qui définit une structure logique (Introduction-Corps-Conclusion) et suggère des idées centrales par paragraphe lorsque l'écriture est bloquée.\""
 tags: ["Écriture", "Dissertation", "Rapport", "Devoir"]
 ---
 

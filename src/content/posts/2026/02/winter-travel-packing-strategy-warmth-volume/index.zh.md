@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "冬季旅行打包策略：温暖与体积"
+title: " \"冬季旅行打包策略：温暖与体积\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "一件羽绒服就塞满行李箱？AI为你定制冬季旅行打包策略，教你如何兼顾保暖与轻便。"
+description: " \"一件羽绒服就塞满行李箱？AI为你定制冬季旅行打包策略，教你如何兼顾保暖与轻便。\""
 tags: ["冬季旅行", "打包", "御寒装备", "打包技巧"]
 ---
 

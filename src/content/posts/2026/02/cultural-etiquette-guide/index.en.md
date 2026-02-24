@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Big Trouble if You Make a Mistake! AI Country-specific Culture & Etiquette Guide"
+title: " \"Big Trouble if You Make a Mistake! AI Country-specific Culture & Etiquette Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Unsure about tipping or hand gestures? Discover how AI can help you master local etiquette and avoid cultural faux pas on your next trip."
+description: " \"Unsure about tipping or hand gestures? Discover how AI can help you master local etiquette and avoid cultural faux pas on your next trip.\""
 tags: ["Travel", "Etiquette", "Culture", "Manners"]
 ---
 

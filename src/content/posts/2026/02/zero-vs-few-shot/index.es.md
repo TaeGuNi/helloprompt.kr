@@ -1,7 +1,7 @@
 ---
-title: "Zero-Shot vs Few-Shot Learning: Cuándo proporcionar ejemplos"
+title: " \"Zero-Shot vs Few-Shot Learning: Cuándo proporcionar ejemplos\""
 date: "2026-02-15"
-description: "Guía definitiva para entender cuándo usar prompts Zero-Shot frente a Few-Shot y así maximizar el rendimiento de la IA."
+description: " \"Guía definitiva para entender cuándo usar prompts Zero-Shot frente a Few-Shot y así maximizar el rendimiento de la IA.\""
 ---
 
 # 📝 Zero-Shot vs Few-Shot: El arte de enseñar a la IA con ejemplos

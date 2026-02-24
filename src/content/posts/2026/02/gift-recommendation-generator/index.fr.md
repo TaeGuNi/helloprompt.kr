@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Recommandations de Cadeaux Personnalisés par IA pour Être Appelé Sensible"
+title: " \"Générateur de Recommandations de Cadeaux Personnalisés par IA pour Être Appelé Sensible\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Saisissez l'âge, le sexe, la relation et votre budget, et laissez l'IA vous proposer une sélection de cadeaux infaillibles."
+description: " \"Saisissez l'âge, le sexe, la relation et votre budget, et laissez l'IA vous proposer une sélection de cadeaux infaillibles.\""
 tags:
   [
     "Recommandation de Cadeau",

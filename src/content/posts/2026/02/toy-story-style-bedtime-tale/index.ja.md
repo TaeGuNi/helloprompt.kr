@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "おもちゃたちの夜：「トイ・ストーリー」スタイル童話"
+title: " \"おもちゃたちの夜：「トイ・ストーリー」スタイル童話\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "子供が大切にしている愛着人形たちが毎晩繰り広げる秘密のパーティー"
+description: " \"子供が大切にしている愛着人形たちが毎晩繰り広げる秘密のパーティー\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

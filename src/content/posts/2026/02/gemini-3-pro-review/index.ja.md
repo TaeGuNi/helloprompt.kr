@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro: 実践コーディングベンチマーク"
+title: " \"Gemini 3 Pro: 実践コーディングベンチマーク\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Python、Rust、およびレガシーコードの移行作業を通じて、Gemini 3 Proのコーディング性能を徹底的に分析・検証します。"
+description: " \"Python、Rust、およびレガシーコードの移行作業を通じて、Gemini 3 Proのコーディング性能を徹底的に分析・検証します。\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "출장비 아끼는 AI 집수리 가이드 (초보자용)"
+title: " \"출장비 아끼는 AI 집수리 가이드 (초보자용)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "From unclogging toilets to replacing lights and applying silicone: save over $100 on call-out fees with these foolproof DIY home repair prompts."
+description: " \"From unclogging toilets to replacing lights and applying silicone: save over $100 on call-out fees with these foolproof DIY home repair prompts.\""
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 

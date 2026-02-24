@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "엑셀 함수 몰라도 OK: 개떡 같은 데이터 찰떡같이 정제하기"
+title: " \"엑셀 함수 몰라도 OK: 개떡 같은 데이터 찰떡같이 정제하기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "데이터 분석"
-description: "Vergessen Sie VLOOKUP und Python. Entdecken Sie, wie Sie mit KI völlig unstrukturierte Adress-, Telefon- und E-Mail-Daten in nur einer Minute fehlerfrei standardisieren."
+description: " \"Vergessen Sie VLOOKUP und Python. Entdecken Sie, wie Sie mit KI völlig unstrukturierte Adress-, Telefon- und E-Mail-Daten in nur einer Minute fehlerfrei standardisieren.\""
 tags: ["엑셀", "데이터전처리", "노코드", "자동화"]
 ---
 

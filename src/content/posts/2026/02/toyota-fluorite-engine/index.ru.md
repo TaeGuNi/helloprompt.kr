@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진"
+title: " \"토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발 트렌드"
-description: "Игровой движок Fluorite консольного уровня от Toyota на базе Flutter. От автомобильных интерфейсов к полноценным 3D-играм с помощью AI?"
+description: " \"Игровой движок Fluorite консольного уровня от Toyota на базе Flutter. От автомобильных интерфейсов к полноценным 3D-играм с помощью AI?\""
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 

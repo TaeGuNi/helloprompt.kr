@@ -1,6 +1,6 @@
 ---
-title: "Occhiali Smart Meta: Il Trionfo dell'IA Indossabile"
-description: "Le vendite di occhiali smart stanno aumentando, guidando il mercato dell'IA indossabile. Scopri come analizzare il successo strategico di Meta e applicarlo al tuo business."
+title: " \"Occhiali Smart Meta: Il Trionfo dell'IA Indossabile\""
+description: " \"Le vendite di occhiali smart stanno aumentando, guidando il mercato dell'IA indossabile. Scopri come analizzare il successo strategico di Meta e applicarlo al tuo business.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: The rapid advancement of AI has spawned new ethical dilemmas. A deep dive into the current state of global AI regulation and the 'digital ethics' we must uphold, complete with a compliance-checking prompt.
+description: "The rapid advancement of AI has spawned new ethical dilemmas. A deep dive into the current state of global AI regulation and the 'digital ethics' we must uphold, complete with a compliance-checking prompt."
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "AI Ethics and Regulation 2026: Rules for Coexistence"
+title: " \"AI Ethics and Regulation 2026: Rules for Coexistence\""
 ---
 
 # ⚖️ AI Ethics and Regulation 2026: Rules for Coexistence

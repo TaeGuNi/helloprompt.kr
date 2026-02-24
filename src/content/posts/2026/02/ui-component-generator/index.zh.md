@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "前端组件，只要说明设计，代码完成"
+title: " \"前端组件，只要说明设计，代码完成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需描述设计需求，即可使用 React、Vue、Tailwind CSS 等技术栈快速生成精美的 UI 组件代码。"
+description: " \"只需描述设计需求，即可使用 React、Vue、Tailwind CSS 等技术栈快速生成精美的 UI 组件代码。\""
 tags: ["前端", "React", "Vue", "Tailwind", "UI组件"]
 ---
 

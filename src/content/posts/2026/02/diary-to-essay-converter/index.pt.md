@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Magia Transformando Diário em Ensaio: Dando Significado à Vida Diária Comum"
+title: " \"Magia Transformando Diário em Ensaio: Dando Significado à Vida Diária Comum\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "De um diário pessoal para um ensaio que ressoa com os outros. A IA transforma o seu dia comum em uma obra literária."
+description: " \"De um diário pessoal para um ensaio que ressoa com os outros. A IA transforma o seu dia comum em uma obra literária.\""
 tags: ["Escrita", "Ensaio", "Diário", "Brunch", "Revisão"]
 ---
 

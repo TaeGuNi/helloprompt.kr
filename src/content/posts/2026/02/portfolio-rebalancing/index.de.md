@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Portfolio-Rebalancing: Goldenen Schnitt finden"
+title: " \"KI-Portfolio-Rebalancing: Goldenen Schnitt finden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ein KI-Prompt, um Ihre aktuelle Asset-Allokation zu überprüfen und maßgeschneiderte Rebalancing-Vorschläge für ein optimales Portfolio zu erhalten."
+description: " \"Ein KI-Prompt, um Ihre aktuelle Asset-Allokation zu überprüfen und maßgeschneiderte Rebalancing-Vorschläge für ein optimales Portfolio zu erhalten.\""
 tags: ["Investition", "AssetAllokation", "Rebalancing", "Portfolio"]
 ---
 

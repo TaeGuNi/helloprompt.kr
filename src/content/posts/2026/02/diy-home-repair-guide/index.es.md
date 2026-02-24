@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "출장비 아끼는 AI 집수리 가이드 (초보자용)"
+title: " \"출장비 아끼는 AI 집수리 가이드 (초보자용)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Desde destapar el inodoro hasta cambiar bombillas y aplicar silicona. Ahorra cientos de dólares en técnicos con esta guía de prompts de reparación casera para principiantes."
+description: " \"Desde destapar el inodoro hasta cambiar bombillas y aplicar silicona. Ahorra cientos de dólares en técnicos con esta guía de prompts de reparación casera para principiantes.\""
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 

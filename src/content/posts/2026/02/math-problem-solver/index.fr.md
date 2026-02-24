@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sauveur des Maths : Explicateur de Problèmes de Maths Amical"
+title: " \"Sauveur des Maths : Explicateur de Problèmes de Maths Amical\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: "Fini les corrigés froids et expéditifs ! Voici un prompt conçu pour expliquer chaque étape de résolution mathématique avec la pédagogie d'un tuteur privé."
+description: " \"Fini les corrigés froids et expéditifs ! Voici un prompt conçu pour expliquer chaque étape de résolution mathématique avec la pédagogie d'un tuteur privé.\""
 tags: ["ÉtudeMaths", "RésolutionProblèmes", "Prompt", "Tutorat"]
 ---
 

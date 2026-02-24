@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "杂乱无章的会议记录，整洁地摘要整理"
+title: " \"杂乱无章的会议记录，整洁地摘要整理\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "会议录音转写文本冗长且杂乱无章？使用这款专属提示词，一键提取核心内容，自动生成清晰专业的会议纪要。"
+description: " \"会议录音转写文本冗长且杂乱无章？使用这款专属提示词，一键提取核心内容，自动生成清晰专业的会议纪要。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

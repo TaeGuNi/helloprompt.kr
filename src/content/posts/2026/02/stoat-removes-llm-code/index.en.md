@@ -1,6 +1,6 @@
 ---
-title: "Stoat: The Anti-Copilot That Removes LLM Code"
-description: "Stop generating more code. Stoat is the 'Anti-Copilot' that detects and removes bloated, repetitive code written by AI, slimming down your codebase."
+title: " \"Stoat: The Anti-Copilot That Removes LLM Code\""
+description: " \"Stop generating more code. Stoat is the 'Anti-Copilot' that detects and removes bloated, repetitive code written by AI, slimming down your codebase.\""
 date: 2026-02-15
 tags:
   - AI

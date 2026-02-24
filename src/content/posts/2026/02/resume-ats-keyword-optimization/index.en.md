@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevent ATS (Recruitment Solution) Fail! Resume Keyword Optimization Prompt"
+title: " \"Prevent ATS (Recruitment Solution) Fail! Resume Keyword Optimization Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Naturally integrate keywords that Applicant Tracking Systems (ATS) prioritize into your resume to prevent automatic elimination."
+description: " \"Naturally integrate keywords that Applicant Tracking Systems (ATS) prioritize into your resume to prevent automatic elimination.\""
 tags: ["ATS", "ResumeOptimization", "Keyword", "RecruitmentSystem"]
 ---
 

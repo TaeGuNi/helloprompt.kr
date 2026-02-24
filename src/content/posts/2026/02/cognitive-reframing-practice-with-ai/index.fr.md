@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pratique de Recadrage Cognitif avec l'IA : Arrêter les Pensées Négatives"
+title: " \"Pratique de Recadrage Cognitif avec l'IA : Arrêter les Pensées Négatives\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Lorsque vous pensez « Je suis fichu », l'IA analyse la situation sous un angle différent et transforme vos pensées négatives en énergie positive."
+description: " \"Lorsque vous pensez « Je suis fichu », l'IA analyse la situation sous un angle différent et transforme vos pensées négatives en énergie positive.\""
 tags: ["Soins Mentaux", "TCC", "Recadrage", "Auto-affirmation", "ChatGPT"]
 ---
 

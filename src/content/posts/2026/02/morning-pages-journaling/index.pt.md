@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Morning Pages Journaling"
+title: " \"Morning Pages Journaling\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Um prompt de Morning Pages para transformar a IA no seu próprio coach de criatividade empático."
+description: " \"Um prompt de Morning Pages para transformar a IA no seu próprio coach de criatividade empático.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

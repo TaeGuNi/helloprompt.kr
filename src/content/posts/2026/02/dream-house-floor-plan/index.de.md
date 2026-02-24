@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계"
+title: " \"꿈의 집 그리기: 내가 살고 싶은 집 구조도 설계\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/리빙"
-description: "Du brauchst keinen Architekten. Nenne einfach Wohnfläche, Zimmeranzahl und Stil – und die KI zaubert dir einen perfekten Grundriss (Floor Plan)."
+description: " \"Du brauchst keinen Architekten. Nenne einfach Wohnfläche, Zimmeranzahl und Stil – und die KI zaubert dir einen perfekten Grundriss (Floor Plan).\""
 tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 ---
 

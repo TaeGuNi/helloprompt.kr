@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Dog Changed: AI Behavior Specialist"
+title: " \"My Dog Changed: AI Behavior Specialist\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Pets"
-description: "From separation anxiety and incessant barking to potty accidents—get a customized, positive-reinforcement training plan from AI instead of paying for an expensive trainer."
+description: " \"From separation anxiety and incessant barking to potty accidents—get a customized, positive-reinforcement training plan from AI instead of paying for an expensive trainer.\""
 tags: ["Pets", "Dog Training", "Cats", "Pet Parenting"]
 ---
 

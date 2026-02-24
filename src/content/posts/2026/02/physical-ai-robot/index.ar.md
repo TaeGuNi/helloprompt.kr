@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "أبحاث الذكاء الاصطناعي من LG تلتقي بالروبوتات. مستقبل الذكاء الاصطناعي المادي بقيادة EXAONE."
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"أبحاث الذكاء الاصطناعي من LG تلتقي بالروبوتات. مستقبل الذكاء الاصطناعي المادي بقيادة EXAONE.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

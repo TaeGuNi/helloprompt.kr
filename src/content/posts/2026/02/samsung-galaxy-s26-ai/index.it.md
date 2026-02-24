@@ -1,6 +1,6 @@
 ---
-title: "Galaxy S26: Monster Specs Meet AI"
-description: "Alimentato dal processore Exynos 2600. L'evoluzione di Galaxy AI analizzata attraverso le campagne su cartelloni 3D."
+title: " \"Galaxy S26: Monster Specs Meet AI\""
+description: " \"Alimentato dal processore Exynos 2600. L'evoluzione di Galaxy AI analizzata attraverso le campagne su cartelloni 3D.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

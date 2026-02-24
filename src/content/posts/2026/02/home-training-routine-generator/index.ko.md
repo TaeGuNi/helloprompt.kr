@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기"
+title: " \"헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.110Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "건강"
-description: "내 운동 수행 능력과 장비, 주거 환경에 맞춘 최적의 맞춤형 홈트 루틴을 설계하세요."
+description: " \"내 운동 수행 능력과 장비, 주거 환경에 맞춘 최적의 맞춤형 홈트 루틴을 설계하세요.\""
 tags: ["홈트", "운동", "헬스", "루틴"]
 ---
 

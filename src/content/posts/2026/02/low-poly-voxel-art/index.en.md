@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Angular Charm 'Low Poly & Voxel Art' Style"
+title: " \"Angular Charm 'Low Poly & Voxel Art' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master AI image generation with Low Poly and Voxel art prompts to create minimalist, geometric 3D masterpieces."
+description: " \"Master AI image generation with Low Poly and Voxel art prompts to create minimalist, geometric 3D masterpieces.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Résumé de la Chronologie de l'Histoire de la Ville : En Une Page"
+title: " \"Résumé de la Chronologie de l'Histoire de la Ville : En Une Page\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Saisissez l'histoire complexe d'une ville en un clin d'œil ! Générez une chronologie essentielle reliant le passé et le présent de votre destination."
+description: " \"Saisissez l'histoire complexe d'une ville en un clin d'œil ! Générez une chronologie essentielle reliant le passé et le présent de votre destination.\""
 tags:
   [
     "Étude d'Histoire",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Verbali di riunione, li organizzi ancora a mano? 3 minuti con l'IA"
+title: " \"Verbali di riunione, li organizzi ancora a mano? 3 minuti con l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione del Lavoro"
-description: "Un prompt da segretaria virtuale che trasforma trascrizioni disordinate in verbali puliti e action item."
+description: " \"Un prompt da segretaria virtuale che trasforma trascrizioni disordinate in verbali puliti e action item.\""
 tags: ["Verbale Riunione", "Riassunto", "Produttività"]
 ---
 

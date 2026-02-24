@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)"
+title: " \"생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, DeepSeek-R1 프롬프트 가이드)\""
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "프롬프트 엔지니어링"
-description: "Na era dos Modelos de Raciocínio (Reasoning Models), por que as abordagens tradicionais de prompt falham? Descubra a nova fórmula de prompts para o1 e DeepSeek-R1."
+description: " \"Na era dos Modelos de Raciocínio (Reasoning Models), por que as abordagens tradicionais de prompt falham? Descubra a nova fórmula de prompts para o1 e DeepSeek-R1.\""
 tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
 ---
 

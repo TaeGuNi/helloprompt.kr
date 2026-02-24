@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta de Seguros: Encontrando Cobertura Duplicada y Reduciendo la Prima a la Mitad"
+title: " \"Dieta de Seguros: Encontrando Cobertura Duplicada y Reduciendo la Prima a la Mitad\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "¿Estás pagando de más por tu seguro? Descubre un método de análisis impulsado por IA para mantener las coberturas esenciales y eliminar gastos innecesarios."
+description: " \"¿Estás pagando de más por tu seguro? Descubre un método de análisis impulsado por IA para mantener las coberturas esenciales y eliminar gastos innecesarios.\""
 tags: ["Seguro", "Finanzas", "Ahorro", "AnálisisCobertura"]
 ---
 

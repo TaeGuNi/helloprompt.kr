@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nominare Regione/Città Unica nel Mondo Fantasy"
+title: " \"Nominare Regione/Città Unica nel Mondo Fantasy\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Dalla foresta degli elfi alla miniera dei nani, crea nomi per luoghi e città che si adattino perfettamente al tuo mondo fantasy."
+description: " \"Dalla foresta degli elfi alla miniera dei nani, crea nomi per luoghi e città che si adattino perfettamente al tuo mondo fantasy.\""
 tags: ["Nominare", "Fantasy", "Romanzo", "TRPG", "Universo"]
 ---
 

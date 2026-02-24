@@ -1,6 +1,6 @@
 ---
-title: "현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게"
-description: "最新のライブラリとAIツールを活用し、退屈なCLIを美しいTUI（Text User Interface）アプリへと一瞬で生まれ変わらせるプロンプトをご紹介します。"
+title: " \"현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게\""
+description: " \"最新のライブラリとAIツールを活用し、退屈なCLIを美しいTUI（Text User Interface）アプリへと一瞬で生まれ変わらせるプロンプトをご紹介します。\""
 date: "2026-02-15"
 tags: ["tui", "dev-tools", "cli"]
 ---

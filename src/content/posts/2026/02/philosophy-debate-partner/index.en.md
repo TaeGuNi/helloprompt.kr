@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Arguing with Socrates: Philosophy Debate Partner"
+title: " \"Arguing with Socrates: Philosophy Debate Partner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanities/History"
-description: "A prompt that transforms AI into the persona of a specific philosopher, engaging you in a continuous dialogue of questions to expand your critical thinking."
+description: " \"A prompt that transforms AI into the persona of a specific philosopher, engaging you in a continuous dialogue of questions to expand your critical thinking.\""
 tags: ["Philosophy", "LogicalPower", "Debate", "ThoughtExperiment"]
 ---
 

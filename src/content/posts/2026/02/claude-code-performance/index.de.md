@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Claude Code 성능 저하 논란? 진실은?"
+title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 이슈"
-description: "In letzter Zeit gab es Behauptungen, dass die Leistung des Claude Code-Modells nachgelassen hat. Wir fassen die Reaktionen der Entwickler-Community zusammen."
+description: " \"In letzter Zeit gab es Behauptungen, dass die Leistung des Claude Code-Modells nachgelassen hat. Wir fassen die Reaktionen der Entwickler-Community zusammen.\""
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 

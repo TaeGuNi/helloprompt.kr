@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lectura de Cartas del Tarot: Fortuna de Hoy Predice IA"
+title: " \"Lectura de Cartas del Tarot: Fortuna de Hoy Predice IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¿Te preocupa el futuro? Deja que nuestro Maestro de Tarot con IA seleccione las cartas y te brinde una lectura profunda y reveladora."
+description: " \"¿Te preocupa el futuro? Deja que nuestro Maestro de Tarot con IA seleccione las cartas y te brinde una lectura profunda y reveladora.\""
 tags: ["Tarot", "Fortuna", "Adivinación", "Consejería", "Pasatiempo"]
 ---
 

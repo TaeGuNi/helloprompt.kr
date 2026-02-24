@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "초고속 독서 소화제 (Smart Reading)"
+title: " \"초고속 독서 소화제 (Smart Reading)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "학습/연구"
-description: "Wie Sie komplexe Fachliteratur, Papers und Tech-Blogs 3x schneller lesen und perfekt verinnerlichen."
+description: " \"Wie Sie komplexe Fachliteratur, Papers und Tech-Blogs 3x schneller lesen und perfekt verinnerlichen.\""
 tags: ["독서", "요약", "학습", "지식관리"]
 ---
 

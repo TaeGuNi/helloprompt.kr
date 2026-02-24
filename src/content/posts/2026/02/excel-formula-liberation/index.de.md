@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel-Unabhängigkeitserklärung: Kein VLOOKUP mehr"
+title: " \"Excel-Unabhängigkeitserklärung: Kein VLOOKUP mehr\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Datenanalyse"
-description: "Kein Auswendiglernen komplexer Excel-Formeln mehr. Nutze diese Prompt-Techniken, um Excel mühelos mit natürlicher Sprache zu steuern."
+description: " \"Kein Auswendiglernen komplexer Excel-Formeln mehr. Nutze diese Prompt-Techniken, um Excel mühelos mit natürlicher Sprache zu steuern.\""
 tags: ["Excel", "Datenanalyse", "ChatGPT", "VLOOKUP", "Produktivität"]
 ---
 

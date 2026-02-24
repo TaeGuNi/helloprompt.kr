@@ -1,6 +1,6 @@
 ---
-title: "Evolution of Coding Agents: Changing Developer Roles"
-description: "Autonomous coding agents are shaking up the development ecosystem."
+title: " \"Evolution of Coding Agents: Changing Developer Roles\""
+description: " \"Autonomous coding agents are shaking up the development ecosystem.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

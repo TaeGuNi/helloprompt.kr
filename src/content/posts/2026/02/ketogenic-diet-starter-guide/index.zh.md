@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "生酮饮食入门指南：与AI一起完美开始"
+title: " \"生酮饮食入门指南：与AI一起完美开始\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "无需复杂的脂肪比例计算，利用AI轻松安全地开始生酮饮食的指南。"
+description: " \"无需复杂的脂肪比例计算，利用AI轻松安全地开始生酮饮食的指南。\""
 tags: ["生酮", "LCHF", "饮食", "健康", "ChatGPT"]
 ---
 

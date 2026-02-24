@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "冷蔵庫掘り出し！AI健康レシピ生成機"
+title: " \"冷蔵庫掘り出し！AI健康レシピ生成機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "賞味期限間近の材料で作る5つ星健康食レシピ。"
+description: " \"賞味期限間近の材料で作る5つ星健康食レシピ。\""
 tags: ["料理", "レシピ", "献立", "冷蔵庫掘り出し"]
 ---
 

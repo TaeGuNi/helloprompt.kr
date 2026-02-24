@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Le pouvoir des « Exemples » (Few-Shot Prompting)"
+title: " \"Le pouvoir des « Exemples » (Few-Shot Prompting)\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Frustré que l'IA ne saisisse pas le bon ton ou le bon format ? Le Few-Shot Prompting est plus efficace que de longues explications."
+description: " \"Frustré que l'IA ne saisisse pas le bon ton ou le bon format ? Le Few-Shot Prompting est plus efficace que de longues explications.\""
 tags: ["Few-Shot", "Astuces Avancées", "Exemples"]
 ---
 

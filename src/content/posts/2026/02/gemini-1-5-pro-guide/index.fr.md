@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지"
+title: " \"Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Gemini 1.5 Pro excelle de manière écrasante dans le traitement des contextes longs. Voici un guide de prompts pratiques pour analyser d'épais PDF ou des bases de code entières en exploitant sa fenêtre d'un million de tokens."
+description: " \"Gemini 1.5 Pro excelle de manière écrasante dans le traitement des contextes longs. Voici un guide de prompts pratiques pour analyser d'épais PDF ou des bases de code entières en exploitant sa fenêtre d'un million de tokens.\""
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sfida di Allenamento a Casa di 30 Giorni con IA: Sfuggire all'Abbandono del 3° Giorno"
+title: " \"Sfida di Allenamento a Casa di 30 Giorni con IA: Sfuggire all'Abbandono del 3° Giorno\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Un miracolo del fitness a corpo libero, senza attrezzature. L'IA progetta una routine di allenamento di 30 giorni su misura per te."
+description: " \"Un miracolo del fitness a corpo libero, senza attrezzature. L'IA progetta una routine di allenamento di 30 giorni su misura per te.\""
 tags:
   [
     "Allenamento a Casa",

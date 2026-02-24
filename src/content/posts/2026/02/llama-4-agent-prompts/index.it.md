@@ -1,10 +1,10 @@
 ---
-title: "Llama 4 Agent Prompts: Unlock Reasoning Capabilities Locally"
+title: " \"Llama 4 Agent Prompts: Unlock Reasoning Capabilities Locally\""
 date: "2026-02-16"
 author: "Jay"
 categories: ["AI Engineering", "Local LLMs"]
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
-description: "Stai ancora usando i prompt di Llama 3 su Llama 4? Scopri la struttura del prompt di sistema 'Chain-of-Command' per sbloccare e potenziare al 200% le capacità di ragionamento di Llama 4 in ambiente locale."
+description: " \"Stai ancora usando i prompt di Llama 3 su Llama 4? Scopri la struttura del prompt di sistema 'Chain-of-Command' per sbloccare e potenziare al 200% le capacità di ragionamento di Llama 4 in ambiente locale.\""
 ---
 
 # 📝 Prompt per Agenti Llama 4: Sbloccare le Perfette Capacità di Ragionamento in Locale

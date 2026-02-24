@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Le Jeu Ultime à la Maison : 'Dessin de Relais et Création d'Histoires'"
+title: " \"Le Jeu Ultime à la Maison : 'Dessin de Relais et Création d'Histoires'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un jeu créatif pour enfants qui relie des histoires absurdes générées par l'IA à travers le dessin, stimulant ainsi leur imagination."
+description: " \"Un jeu créatif pour enfants qui relie des histoires absurdes générées par l'IA à travers le dessin, stimulant ainsi leur imagination.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

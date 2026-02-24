@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creare un Piano Pasti Dietetico Personalizzato con IA Senza un Istruttore PT"
+title: " \"Creare un Piano Pasti Dietetico Personalizzato con IA Senza un Istruttore PT\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Crea un piano pasti perfetto per una settimana considerando il tuo tipo di corpo, il peso target e i tuoi cibi preferiti in un solo minuto."
+description: " \"Crea un piano pasti perfetto per una settimana considerando il tuo tipo di corpo, il peso target e i tuoi cibi preferiti in un solo minuto.\""
 tags: ["Dieta", "Gestione Dieta", "Fitness", "Salute"]
 ---
 

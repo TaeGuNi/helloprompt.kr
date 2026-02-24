@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "正则表达式 (Regex) 的噩梦，现在交给 AI 吧"
+title: " \"正则表达式 (Regex) 的噩梦，现在交给 AI 吧\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "开发"
-description: "告别如同密码般晦涩难懂的正则表达式吧！只需描述你想要的匹配模式，即可让 AI 自动生成并验证 Regex 代码。"
+description: " \"告别如同密码般晦涩难懂的正则表达式吧！只需描述你想要的匹配模式，即可让 AI 自动生成并验证 Regex 代码。\""
 tags: ["正则表达式", "Regex", "开发生产力"]
 ---
 

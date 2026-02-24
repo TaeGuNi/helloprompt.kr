@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Python-Automatisierungsskript: Lästige Excel-Konsolidierung in 1 Sekunde"
+title: " \"Python-Automatisierungsskript: Lästige Excel-Konsolidierung in 1 Sekunde\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Arbeitsautomatisierung"
-description: "Der ultimative Prompt-Guide: Beenden Sie das tägliche Copy-Paste und das mühsame Zusammenführen von Excel-Dateien mit nur 10 Zeilen Python-Code in einer Sekunde."
+description: " \"Der ultimative Prompt-Guide: Beenden Sie das tägliche Copy-Paste und das mühsame Zusammenführen von Excel-Dateien mit nur 10 Zeilen Python-Code in einer Sekunde.\""
 tags: ["Python", "Excel", "Automatisierung", "Pandas", "Produktivität"]
 ---
 

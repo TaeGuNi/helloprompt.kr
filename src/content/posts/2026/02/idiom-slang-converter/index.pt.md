@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Falando Como um Protagonista de Drama: Máquina de Venda de Idioma & Gíria"
+title: " \"Falando Como um Protagonista de Drama: Máquina de Venda de Idioma & Gíria\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "O prompt perfeito para descobrir expressões nativas reais, gírias atuais e expressões idiomáticas que não aparecem nos livros didáticos, ideais para qualquer situação."
+description: " \"O prompt perfeito para descobrir expressões nativas reais, gírias atuais e expressões idiomáticas que não aparecem nos livros didáticos, ideais para qualquer situação.\""
 tags: ["ConversaçãoEmInglês", "Gíria", "Idioma", "InglêsDramaAmericano"]
 ---
 

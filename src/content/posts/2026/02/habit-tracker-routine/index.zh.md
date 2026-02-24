@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)"
+title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/생산성"
-description: "의지박약은 과학입니다. 뇌과학 이론(아주 작은 습관)을 적용한 AI 루틴 설계법."
+description: " \"의지박약은 과학입니다. 뇌과학 이론(아주 작은 습관)을 적용한 AI 루틴 설계법.\""
 tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
 ---
 

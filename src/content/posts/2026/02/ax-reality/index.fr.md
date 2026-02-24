@@ -1,6 +1,6 @@
 ---
-title: "La vérité sur la réalité AX"
-description: "Analyse critique de la réalité AX : l'AX n'est souvent qu'une hallucination d'entreprise sans valeur ajoutée."
+title: " \"La vérité sur la réalité AX\""
+description: " \"Analyse critique de la réalité AX : l'AX n'est souvent qu'une hallucination d'entreprise sans valeur ajoutée.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

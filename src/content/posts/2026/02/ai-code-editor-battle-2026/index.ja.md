@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "2026년 AI 코딩 에디터 3대장 비교: Cursor vs Windsurf vs OpenClaw"
+title: " \"2026년 AI 코딩 에디터 3대장 비교: Cursor vs Windsurf vs OpenClaw\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발"
-description: "いまだにVS Codeにプラグインをべたべた貼り付けて使っていますか？AIがアーキテクチャまで設計してくれる2026年「自律型AIエディタ」3種を徹底的に比較しました。"
+description: " \"いまだにVS Codeにプラグインをべたべた貼り付けて使っていますか？AIがアーキテクチャまで設計してくれる2026年「自律型AIエディタ」3種を徹底的に比較しました。\""
 tags: ["Cursor", "Windsurf", "OpenClaw", "생산성", "개발도구"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "혼자서 팀처럼 일하기: AI 에이전트 워크플로우 기초"
+title: " \"혼자서 팀처럼 일하기: AI 에이전트 워크플로우 기초\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Descubra os prompts essenciais do Agentic Workflow para transformar a IA de um simples chatbot no seu 'colega de equipe' mais competente e produtivo."
+description: " \"Descubra os prompts essenciais do Agentic Workflow para transformar a IA de um simples chatbot no seu 'colega de equipe' mais competente e produtivo.\""
 tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 ---
 

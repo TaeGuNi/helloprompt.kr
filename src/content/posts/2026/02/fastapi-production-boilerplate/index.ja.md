@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FastAPIプロダクションレベル・ボイラープレート：非同期Pythonの頂点"
+title: " \"FastAPIプロダクションレベル・ボイラープレート：非同期Pythonの頂点\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "バックエンド/DB"
-description: "Flaskは遅く、Djangoは重い。高速かつモダンなFastAPIを使って堅牢なマイクロサービスを構築しましょう。"
+description: " \"Flaskは遅く、Djangoは重い。高速かつモダンなFastAPIを使って堅牢なマイクロサービスを構築しましょう。\""
 tags: ["FastAPI", "Python", "バックエンド", "非同期", "API"]
 ---
 

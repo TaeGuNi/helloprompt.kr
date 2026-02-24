@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Landing Page Main Copy (Hero Copy) Generator"
+title: " \"Landing Page Main Copy (Hero Copy) Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "How to write a landing page Hero Section copy that captivates visitors in under 3 seconds."
+description: " \"How to write a landing page Hero Section copy that captivates visitors in under 3 seconds.\""
 tags: ["Landing Page", "Web Copy", "UX Writing", "Conversion Rate"]
 ---
 

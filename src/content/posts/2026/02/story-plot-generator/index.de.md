@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "슬럼프 탈출! 웹소설 플롯 생성기"
+title: " \"슬럼프 탈출! 웹소설 플롯 생성기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Schreibblockaden überwinden: Entdecken Sie den perfekten KI-Prompt, um in Minuten fesselnde Web-Novel-Plots und unvorhersehbare Twists zu generieren."
+description: " \"Schreibblockaden überwinden: Entdecken Sie den perfekten KI-Prompt, um in Minuten fesselnde Web-Novel-Plots und unvorhersehbare Twists zu generieren.\""
 tags: ["태그1", "태그2"]
 ---
 

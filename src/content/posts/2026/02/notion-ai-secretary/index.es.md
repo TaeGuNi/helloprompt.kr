@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secretaria de IA de Notion: Clasificación de Tareas Diarias y Auto-Programación"
+title: " \"Secretaria de IA de Notion: Clasificación de Tareas Diarias y Auto-Programación\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Herramientas de Productividad"
-description: "Descubre cómo convertir el caos mental en un plan de acción estructurado. Vacía tus tareas en Notion AI y obtén una agenda priorizada al instante."
+description: " \"Descubre cómo convertir el caos mental en un plan de acción estructurado. Vacía tus tareas en Notion AI y obtén una agenda priorizada al instante.\""
 tags: ["Notion", "NotionAI", "GestiónTareas", "Productividad", "GTD"]
 ---
 

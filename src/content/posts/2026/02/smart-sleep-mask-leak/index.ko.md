@@ -1,9 +1,9 @@
 ---
-title: "Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란"
+title: " \"Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란\""
 date: 2026-02-15
 tags: ["IoT", "Privacy", "Security", "Wearables"]
 cover: ./cover.png
-description: "인기 스마트 수면 안대 Somnium X가 사용자의 수면 중 대화를 무단으로 클라우드에 전송한 보안 사고를 깊이 있게 분석하고 대응책을 도출하는 프롬프트입니다."
+description: " \"인기 스마트 수면 안대 Somnium X가 사용자의 수면 중 대화를 무단으로 클라우드에 전송한 보안 사고를 깊이 있게 분석하고 대응책을 도출하는 프롬프트입니다.\""
 ---
 
 # 📝 Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란

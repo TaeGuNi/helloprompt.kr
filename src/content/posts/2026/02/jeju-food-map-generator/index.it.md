@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "맛집 지도 생성: '제주도 서쪽 해안도로 카페 리스트'"
+title: " \"맛집 지도 생성: '제주도 서쪽 해안도로 카페 리스트'\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/여행"
-description: "Come non farsi ingannare dai blog sponsorizzati. Una selezione di prompt IA per creare la tua mappa dei veri ristoranti locali, basata sulle raccomandazioni dei residenti e sulle recensioni oggettive di Google Maps."
+description: " \"Come non farsi ingannare dai blog sponsorizzati. Una selezione di prompt IA per creare la tua mappa dei veri ristoranti locali, basata sulle raccomandazioni dei residenti e sulle recensioni oggettive di Google Maps.\""
 tags: ["맛집", "제주도", "카페", "여행", "지도"]
 ---
 

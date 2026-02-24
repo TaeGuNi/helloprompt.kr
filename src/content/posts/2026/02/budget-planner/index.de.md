@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gehalts-Logout stoppen: Der KI-Haushaltsplaner"
+title: " \"Gehalts-Logout stoppen: Der KI-Haushaltsplaner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ein Prompt, der einen perfekten monatlichen Budgetplan erstellt, basierend auf Ihrem Gehalt und Ihren Fixkosten."
+description: " \"Ein Prompt, der einen perfekten monatlichen Budgetplan erstellt, basierend auf Ihrem Gehalt und Ihren Fixkosten.\""
 tags: ["Haushaltskonto", "Budget", "Sparen", "Finanzen"]
 ---
 

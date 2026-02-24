@@ -1,6 +1,6 @@
 ---
-title: "AI Ethics & Deepfakes: The Non-Consensual Virtual World"
-description: "AI 技术进步的阴暗面：深度伪造、知情同意权以及对监管的迫切需求。"
+title: " \"AI Ethics & Deepfakes: The Non-Consensual Virtual World\""
+description: " \"AI 技术进步的阴暗面：深度伪造、知情同意权以及对监管的迫切需求。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

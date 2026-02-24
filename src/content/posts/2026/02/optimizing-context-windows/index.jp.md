@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (Japanese)"
-description: "トークン使用量を効果的に管理することは、コストを削減し、LLMの精度を向上させるための鍵です"
+title: " \"Optimizing Context Windows (Japanese)\""
+description: " \"トークン使用量を効果的に管理することは、コストを削減し、LLMの精度を向上させるための鍵です\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

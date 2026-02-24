@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (French)"
-description: "Les premières expériences avec les processeurs quantiques accélèrent des tâches spécifiques d'entraînement de l'IA"
+title: " \"Quantum AI Hybrids (French)\""
+description: " \"Les premières expériences avec les processeurs quantiques accélèrent des tâches spécifiques d'entraînement de l'IA\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

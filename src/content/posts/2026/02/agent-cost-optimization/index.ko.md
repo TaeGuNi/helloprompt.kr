@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "AI 에이전트 API 비용이 폭발하고 있나요? LLM 컨텍스트 윈도우의 '이차 함수 함정'을 이해하고, 지능 저하 없이 토큰 사용량을 최적화하는 3가지 실전 프롬프트 패턴을 알아보세요."
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"AI 에이전트 API 비용이 폭발하고 있나요? LLM 컨텍스트 윈도우의 '이차 함수 함정'을 이해하고, 지능 저하 없이 토큰 사용량을 최적화하는 3가지 실전 프롬프트 패턴을 알아보세요.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

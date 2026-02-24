@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Juego de Equilibrio: 'Comer Solo Ramen Para Siempre vs Dejar Soda Para Siempre'"
+title: " \"Generador de Juego de Equilibrio: 'Comer Solo Ramen Para Siempre vs Dejar Soda Para Siempre'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¡Rompe el hielo al instante! Genera infinitas preguntas de juegos de equilibrio bizarras y divertidas para animar cualquier reunión."
+description: " \"¡Rompe el hielo al instante! Genera infinitas preguntas de juegos de equilibrio bizarras y divertidas para animar cualquier reunión.\""
 tags: ["Juego", "JuegoEquilibrio", "RomperHielo", "Humor", "Fiesta"]
 ---
 

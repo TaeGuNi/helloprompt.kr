@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Úsalo en Secreto del Profesor de PT, Entrenador Personal de IA"
+title: " \"Úsalo en Secreto del Profesor de PT, Entrenador Personal de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Un prompt de guía de salud que planifica rutinas de ejercicio semanales y dietas perfectamente adaptadas a tus condiciones físicas y objetivos."
+description: " \"Un prompt de guía de salud que planifica rutinas de ejercicio semanales y dietas perfectamente adaptadas a tus condiciones físicas y objetivos.\""
 tags: ["Ejercicio", "Dieta", "Fitness", "Entrenamiento en Casa"]
 ---
 

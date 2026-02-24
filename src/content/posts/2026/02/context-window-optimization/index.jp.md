@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Japanese)"
-description: "膨大な入力データを明確な区切り文字で構造化し、検索パターンを効果的に活用するプロンプト設計法。"
+title: " \"Optimizing for Million-Token Context Windows (Japanese)\""
+description: " \"膨大な入力データを明確な区切り文字で構造化し、検索パターンを効果的に活用するプロンプト設計法。\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

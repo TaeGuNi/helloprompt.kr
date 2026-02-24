@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NestJS vs. Express: Der ultimative Backend-Framework Survival Guide für 2026"
+title: " \"NestJS vs. Express: Der ultimative Backend-Framework Survival Guide für 2026\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "Der Freigeist Express und der strenge Manager NestJS. Warum Sie bei großen Projekten unbedingt auf NestJS setzen sollten."
+description: " \"Der Freigeist Express und der strenge Manager NestJS. Warum Sie bei großen Projekten unbedingt auf NestJS setzen sollten.\""
 tags: ["NestJS", "Express", "Node.js", "백엔드", "프레임워크"]
 ---
 

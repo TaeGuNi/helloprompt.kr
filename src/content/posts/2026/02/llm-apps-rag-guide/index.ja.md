@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "LLMアプリとRAG構築のための完全ガイド"
+title: " \"LLMアプリとRAG構築のための完全ガイド\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "awesome-llm-appsのコレクションを活用し、強力なLLMアプリケーションとRAGパイプラインを構築するための実践的なプロンプトとノウハウを学びましょう。"
+description: " \"awesome-llm-appsのコレクションを活用し、強力なLLMアプリケーションとRAGパイプラインを構築するための実践的なプロンプトとノウハウを学びましょう。\""
 author: "Hello Prompt"
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"

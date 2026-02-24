@@ -1,9 +1,9 @@
 ---
-title: "주니어 개발자의 종말? 2026년, AI 시대의 생존 전략과 '셀프 코드 리뷰' 프롬프트"
+title: " \"주니어 개발자의 종말? 2026년, AI 시대의 생존 전략과 '셀프 코드 리뷰' 프롬프트\""
 date: 2026-02-16
 tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
-description: "Im Jahr 2026 gibt es kaum noch Junior-Stellen. Erfahren Sie, wie Sie KI-Agenten dirigieren statt mit ihnen zu konkurrieren, und nutzen Sie diesen Self-Review-Prompt, um Ihren Code auf Senior-Niveau zu heben."
+description: " \"Im Jahr 2026 gibt es kaum noch Junior-Stellen. Erfahren Sie, wie Sie KI-Agenten dirigieren statt mit ihnen zu konkurrieren, und nutzen Sie diesen Self-Review-Prompt, um Ihren Code auf Senior-Niveau zu heben.\""
 layout: /src/layouts/Layout.astro
 category: "개발 커리어"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Étirement Après la Course : Prévenir le Genou du Coureur"
+title: " \"Guide d'Étirement Après la Course : Prévenir le Genou du Coureur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Bien terminer sa course est plus important que la course elle-même. Découvrez une routine de récupération sur mesure par l'IA pour prévenir les blessures et éviter les courbatures."
+description: " \"Bien terminer sa course est plus important que la course elle-même. Découvrez une routine de récupération sur mesure par l'IA pour prévenir les blessures et éviter les courbatures.\""
 tags:
   [
     "Course",

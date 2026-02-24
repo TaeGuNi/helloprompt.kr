@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tradutor de Problemas de Física: Do Julgamento da Situação à Montagem de Equações"
+title: " \"Tradutor de Problemas de Física: Do Julgamento da Situação à Montagem de Equações\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemática/Ciência"
-description: "Prompt que lê problemas de física, analisa a situação descrita e indica a fórmula exata a ser utilizada."
+description: " \"Prompt que lê problemas de física, analisa a situação descrita e indica a fórmula exata a ser utilizada.\""
 tags: ["Física", "Engenharia", "ResoluçãoProblemas", "Prompt"]
 ---
 

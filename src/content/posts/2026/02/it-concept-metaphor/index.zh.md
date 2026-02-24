@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "如果把 API 比作食堂？编程概念比喻自动售货机"
+title: " \"如果把 API 比作食堂？编程概念比喻自动售货机\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编程/IT"
-description: "将晦涩难懂的 IT 概念巧妙比作日常生活中的事物，让编程小白也能秒懂的专属提示词。"
+description: " \"将晦涩难懂的 IT 概念巧妙比作日常生活中的事物，让编程小白也能秒懂的专属提示词。\""
 tags: ["编程基础", "比喻", "IT术语", "简单说明"]
 ---
 

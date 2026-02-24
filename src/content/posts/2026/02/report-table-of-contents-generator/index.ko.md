@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "상사가 좋아하는 보고서 목차 구성하기"
+title: " \"상사가 좋아하는 보고서 목차 구성하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "업무 자동화"
-description: "단 한 번의 프롬프트로 상사를 단번에 설득하는 완벽한 논리 구조(Logic Flow)의 보고서 목차를 뽑아내는 방법."
+description: " \"단 한 번의 프롬프트로 상사를 단번에 설득하는 완벽한 논리 구조(Logic Flow)의 보고서 목차를 뽑아내는 방법.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

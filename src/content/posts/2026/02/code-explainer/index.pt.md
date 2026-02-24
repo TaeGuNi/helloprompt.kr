@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "O Que Significa Este Código? Explicador de Código Amigável"
+title: " \"O Que Significa Este Código? Explicador de Código Amigável\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/TI"
-description: "Um prompt acessível para iniciantes que adiciona comentários detalhados, linha a linha, para decifrar códigos complexos escritos por outras pessoas."
+description: " \"Um prompt acessível para iniciantes que adiciona comentários detalhados, linha a linha, para decifrar códigos complexos escritos por outras pessoas.\""
 tags: ["EstudoCodificação", "RevisãoCódigo", "Python", "JavaScript"]
 ---
 

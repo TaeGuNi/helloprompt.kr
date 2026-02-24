@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 La mentalidad inquebrantable de Tim Tebow: Crea tu propio 'Entrenador Motivacional' con IA"
+title: " \"🏈 La mentalidad inquebrantable de Tim Tebow: Crea tu propio 'Entrenador Motivacional' con IA\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Desarrollo Personal"
-description: "Transfiere la mentalidad inquebrantable de Tim Tebow a un prompt de IA y crea un entrenador personal que cuide de tu salud mental cada vez que te sientas agotado."
+description: " \"Transfiere la mentalidad inquebrantable de Tim Tebow a un prompt de IA y crea un entrenador personal que cuide de tu salud mental cada vez que te sientas agotado.\""
 tags:
   [
     "tim tebow",

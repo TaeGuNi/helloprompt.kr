@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)
+title: "복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Analysez le code spaghetti et identifiez des points de refactoring clairs avec ce prompt IA. Simplifiez la logique complexe pour une maintenance aisée."
+description: " \"Analysez le code spaghetti et identifiez des points de refactoring clairs avec ce prompt IA. Simplifiez la logique complexe pour une maintenance aisée.\""
 tags: [AI, Refactoring, Clean Code, Development]
 ---
 

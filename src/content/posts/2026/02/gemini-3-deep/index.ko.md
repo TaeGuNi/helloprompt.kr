@@ -3,7 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description: Google의 최신 AI 모델 Gemini 3가 보여주는 강력한 추론 능력과 심층 사고 기능에 대해 알아봅니다.
+description: "Google의 최신 AI 모델 Gemini 3가 보여주는 강력한 추론 능력과 심층 사고 기능에 대해 알아봅니다."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -12,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: 심층 사고(Deep Think)의 새로운 지평"
+title: " \"Google Gemini 3: 심층 사고(Deep Think)의 새로운 지평\""
 ---
 
 # 🧠 Google Gemini 3: 심층 사고(Deep Think)의 새로운 지평

@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Japanese)"
-description: "Vibe（雰囲気）ベースのAIコーディングから脱却し、厳密なエンジニアリングの原則に基づいた開発へ移行するためのプロンプトガイド。2026年の新標準。"
+title: " \"Breaking the Spell of Vibe Coding (Japanese)\""
+description: " \"Vibe（雰囲気）ベースのAIコーディングから脱却し、厳密なエンジニアリングの原則に基づいた開発へ移行するためのプロンプトガイド。2026年の新標準。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

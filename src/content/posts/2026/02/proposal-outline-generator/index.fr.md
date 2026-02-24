@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créer un Plan de Proposition Irrésistible"
+title: " \"Créer un Plan de Proposition Irrésistible\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Un storytelling de proposition captivant pour persuader vos clients."
+description: " \"Un storytelling de proposition captivant pour persuader vos clients.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

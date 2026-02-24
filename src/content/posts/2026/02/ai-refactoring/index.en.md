@@ -1,6 +1,6 @@
 ---
-title: "AI-Driven Code Refactoring: The Future of Clean Code"
-description: "Explore how artificial intelligence is transforming code maintenance, making refactoring safer, faster, and more intelligent in 2026."
+title: " \"AI-Driven Code Refactoring: The Future of Clean Code\""
+description: " \"Explore how artificial intelligence is transforming code maintenance, making refactoring safer, faster, and more intelligent in 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

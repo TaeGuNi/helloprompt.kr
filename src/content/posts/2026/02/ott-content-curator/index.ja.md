@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "週末瞬殺！AI OTTコンテンツオーダーメイド推薦ガイド"
+title: " \"週末瞬殺！AI OTTコンテンツオーダーメイド推薦ガイド\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "Netflixのメイン画面を眺めてもう1時間？あなたの好みをAIが分析し、絶対に失敗しない「人生の1作」を見つけ出します。"
+description: " \"Netflixのメイン画面を眺めてもう1時間？あなたの好みをAIが分析し、絶対に失敗しない「人生の1作」を見つけ出します。\""
 tags: ["Netflix", "映画推薦", "OTT", "ドラマ"]
 ---
 

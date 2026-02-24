@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rendre Visibles les Concepts Invisibles : Aide à la Visualisation de Concepts"
+title: " \"Rendre Visibles les Concepts Invisibles : Aide à la Visualisation de Concepts\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: "Un prompt qui illustre des principes scientifiques ou mathématiques abstraits à l'aide de diagrammes textuels (Art ASCII) et d'analogies pertinentes."
+description: " \"Un prompt qui illustre des principes scientifiques ou mathématiques abstraits à l'aide de diagrammes textuels (Art ASCII) et d'analogies pertinentes.\""
 tags: ["ÉtudeSciences", "Visualisation", "Compréhension", "ArtASCII"]
 ---
 

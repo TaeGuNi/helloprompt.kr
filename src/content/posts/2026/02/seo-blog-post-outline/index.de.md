@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SEO-Blog-Gliederung für Top-Suchrankings"
+title: " \"SEO-Blog-Gliederung für Top-Suchrankings\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Schreiben"
-description: "Ein Prompt für SEO-optimierte Blog-Gliederungen, der Ihren Artikel in eine Struktur gießt, die Google liebt."
+description: " \"Ein Prompt für SEO-optimierte Blog-Gliederungen, der Ihren Artikel in eine Struktur gießt, die Google liebt.\""
 tags: ["Blog", "SEO", "Google-Exposure"]
 ---
 

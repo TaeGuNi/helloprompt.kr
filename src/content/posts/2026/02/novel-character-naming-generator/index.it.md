@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore Nomi Personaggi Romanzo (Abbinamento Significato e Sfumatura)"
+title: " \"Generatore Nomi Personaggi Romanzo (Abbinamento Significato e Sfumatura)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Trova il nome perfetto per i tuoi personaggi: unisci significato profondo e sfumature coerenti con la loro personalità, nazionalità ed epoca."
+description: " \"Trova il nome perfetto per i tuoi personaggi: unisci significato profondo e sfumature coerenti con la loro personalità, nazionalità ed epoca.\""
 tags: ["Nominare", "Personaggio", "Romanzo", "CreazioneNome", "Impostazione"]
 ---
 

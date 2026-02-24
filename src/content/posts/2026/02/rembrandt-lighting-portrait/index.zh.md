@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "提升人物品格的 'Rembrandt Lighting' 技法"
+title: " \"提升人物品格的 'Rembrandt Lighting' 技法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "像大师的肖像画一样，制作有深度且稳重的人物照片的照明提示词。"
+description: " \"像大师的肖像画一样，制作有深度且稳重的人物照片的照明提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 

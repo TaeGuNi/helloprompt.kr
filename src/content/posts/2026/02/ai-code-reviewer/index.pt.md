@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sem Colegas? Tudo Bem, Revisão de Código Dura do Desenvolvedor Sênior de IA"
+title: " \"Sem Colegas? Tudo Bem, Revisão de Código Dura do Desenvolvedor Sênior de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt para desenvolvedores solos que desejam revisões de código meticulosas, simulando a mentoria de um Engenheiro de Software Sênior do Google ou Amazon."
+description: " \"Um prompt para desenvolvedores solos que desejam revisões de código meticulosas, simulando a mentoria de um Engenheiro de Software Sênior do Google ou Amazon.\""
 tags: ["Revisão de Código", "Mentoria", "Código Limpo", "Autodesenvolvimento"]
 ---
 

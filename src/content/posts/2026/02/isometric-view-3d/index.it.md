@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt 'Vista Isometrica' Mondo in Miniatura Carino"
+title: " \"Prompt 'Vista Isometrica' Mondo in Miniatura Carino\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Crea illustrazioni 3D in miniatura adorabili e dettagliate utilizzando la prospettiva isometrica."
+description: " \"Crea illustrazioni 3D in miniatura adorabili e dettagliate utilizzando la prospettiva isometrica.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angolo Telecamera", "3D"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Crea un piano alimentare settimanale sano e su misura in pochi minuti grazie al tuo nutrizionista AI personale."
+description: " \"Crea un piano alimentare settimanale sano e su misura in pochi minuti grazie al tuo nutrizionista AI personale.\""
 tags: ["태그1", "태그2"]
 ---
 

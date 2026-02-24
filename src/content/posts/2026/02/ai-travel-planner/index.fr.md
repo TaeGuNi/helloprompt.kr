@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planificateur de Voyage IA pour les P Plus Parfaits que les J"
+title: " \"Planificateur de Voyage IA pour les P Plus Parfaits que les J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Un prompt de guide de voyage IA qui planifie des itinéraires optimaux et des horaires détaillés sans perte de temps."
+description: " \"Un prompt de guide de voyage IA qui planifie des itinéraires optimaux et des horaires détaillés sans perte de temps.\""
 tags: ["Voyage", "Itinéraire", "Voyage à l'Étranger"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Vim 9.2 Released"
-description: "Ein umfassender Prompt-Guide, um umfangreiche Vim 9.2 Release Notes mithilfe von KI perfekt zu analysieren und die wichtigsten Änderungen für deine Entwicklungsumgebung blitzschnell zu erfassen."
+title: " \"Vim 9.2 Released\""
+description: " \"Ein umfassender Prompt-Guide, um umfangreiche Vim 9.2 Release Notes mithilfe von KI perfekt zu analysieren und die wichtigsten Änderungen für deine Entwicklungsumgebung blitzschnell zu erfassen.\""
 date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---

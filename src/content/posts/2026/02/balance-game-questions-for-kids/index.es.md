@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preguntas del Juego de Equilibrio para Niños: Conversación Sin Fin"
+title: " \"Preguntas del Juego de Equilibrio para Niños: Conversación Sin Fin\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un divertido generador de preguntas de «Qué prefieres» (juego de equilibrio) para estimular la conversación con niños de primaria."
+description: " \"Un divertido generador de preguntas de «Qué prefieres» (juego de equilibrio) para estimular la conversación con niños de primaria.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

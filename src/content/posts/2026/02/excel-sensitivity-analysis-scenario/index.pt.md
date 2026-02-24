@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Análise de Sensibilidade no Excel: A Preparação Perfeita para Cenários 'E Se'"
+title: " \"Análise de Sensibilidade no Excel: A Preparação Perfeita para Cenários 'E Se'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Quanto o lucro diminui se a taxa de câmbio subir 10%? Calcule dezenas de cenários de uma só vez usando a função Tabela de Dados do Excel."
+description: " \"Quanto o lucro diminui se a taxa de câmbio subir 10%? Calcule dezenas de cenários de uma só vez usando a função Tabela de Dados do Excel.\""
 tags: ["Excel", "AnáliseSensibilidade", "Cenário", "TabelaDados"]
 ---
 

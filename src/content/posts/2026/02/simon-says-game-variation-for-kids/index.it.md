@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Variazione del Gioco Simone Dice per Bambini: Allenamento dell'Attenzione Uditiva"
+title: " \"Variazione del Gioco Simone Dice per Bambini: Allenamento dell'Attenzione Uditiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Migliora la concentrazione e il controllo fisico di tuo figlio con missioni stravaganti e divertenti create dall'IA."
+description: " \"Migliora la concentrazione e il controllo fisico di tuo figlio con missioni stravaganti e divertenti create dall'IA.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

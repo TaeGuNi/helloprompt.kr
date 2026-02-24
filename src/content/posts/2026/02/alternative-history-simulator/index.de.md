@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "가상 역사 시뮬레이터: '이순신 장군이 현대에 태어났다면?'"
+title: " \"가상 역사 시뮬레이터: '이순신 장군이 현대에 태어났다면?'\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "Ein Simulations-Prompt für alternative Geschichte (Alternative History), der historische Persönlichkeiten oder Ereignisse neu interpretiert."
+description: " \"Ein Simulations-Prompt für alternative Geschichte (Alternative History), der historische Persönlichkeiten oder Ereignisse neu interpretiert.\""
 tags: ["대체역사", "시뮬레이션", "역사", "만약에", "ChatGPT"]
 ---
 

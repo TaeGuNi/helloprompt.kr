@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perfekter Meal-Prep-Leitfaden für Vegan-Anfänger"
+title: " \"Perfekter Meal-Prep-Leitfaden für Vegan-Anfänger\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Lecker und sättigend auch ohne Fleisch! Entdecken Sie nährstoffreiche, vegane Meal-Prep-Rezepte und smarte Zubereitungsprozesse mit KI-Unterstützung."
+description: " \"Lecker und sättigend auch ohne Fleisch! Entdecken Sie nährstoffreiche, vegane Meal-Prep-Rezepte und smarte Zubereitungsprozesse mit KI-Unterstützung.\""
 tags: ["Vegan", "Vegetarisch", "Meal Prep", "Gesundheit", "ChatGPT"]
 ---
 

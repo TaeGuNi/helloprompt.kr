@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Il mio codice è spazzatura! Coach per il Refactoring Clean Code"
+title: " \"Il mio codice è spazzatura! Coach per il Refactoring Clean Code\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programmazione/IT"
-description: "Un prompt che trasforma il codice disordinato che 'funziona a malapena' in un codice pulito, leggibile e manutenibile."
+description: " \"Un prompt che trasforma il codice disordinato che 'funziona a malapena' in un codice pulito, leggibile e manutenibile.\""
 tags: ["Refactoring", "Clean Code", "Sviluppatore", "Code Review"]
 ---
 

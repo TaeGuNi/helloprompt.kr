@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Réglage de la Nation et du Système Politique : Monde de Fantasy Réaliste"
+title: " \"Réglage de la Nation et du Système Politique : Monde de Fantasy Réaliste\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Oubliez les royaumes simplistes. Concevez des nations complexes aux systèmes politiques tridimensionnels, comme une théocratie ou une république marchande, pour enrichir votre univers de fantasy."
+description: " \"Oubliez les royaumes simplistes. Concevez des nations complexes aux systèmes politiques tridimensionnels, comme une théocratie ou une république marchande, pour enrichir votre univers de fantasy.\""
 tags: ["Univers", "Politique", "Nation", "Fantaisie", "Réglage"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Copie Principale de Page d'Atterrissage (Hero Copy)"
+title: " \"Générateur de Copie Principale de Page d'Atterrissage (Hero Copy)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Découvrez comment rédiger une accroche de section Hero qui captive instantanément vos visiteurs en moins de 3 secondes."
+description: " \"Découvrez comment rédiger une accroche de section Hero qui captive instantanément vos visiteurs en moins de 3 secondes.\""
 tags: ["Page d'Atterrissage", "Copie Web", "Rédaction UX", "Taux de Conversion"]
 ---
 

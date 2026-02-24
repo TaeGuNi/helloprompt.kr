@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "면접 1분 자기소개 생성기: AI가 써주는 합격 대본"
+title: " \"면접 1분 자기소개 생성기: AI가 써주는 합격 대본\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "취업/이직"
-description: "告别老套的自我介绍。将职场能力与经验完美结合，让面试官眼前一亮的AI脚本撰写指南。"
+description: " \"告别老套的自我介绍。将职场能力与经验完美结合，让面试官眼前一亮的AI脚本撰写指南。\""
 tags: ["면접", "자기소개", "취업", "이직", "ChatGPT"]
 ---
 

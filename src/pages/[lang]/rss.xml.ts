@@ -14,8 +14,13 @@ export const GET: APIRoute = async (context) => {
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
   });
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const posts: any[] = [];
+  const posts: {
+    link: string;
+    title: string;
+    pubDate: Date;
+    description: string;
+    customData: string;
+  }[] = [];
 
   allPosts.forEach((post) => {
     if (post.id.endsWith(`index${lang}`)) {
@@ -37,7 +42,7 @@ export const GET: APIRoute = async (context) => {
   return rss({
     title: `Hello Prompt (${lang.toUpperCase()})`,
     description: uiStrings[lang]?.slogan || "AI Prompt Guide",
-    site: context.site!,
+    site: context.site || new URL("https://helloprompt.kr"),
     items: posts,
     customData: `<language>${lang}</language>`,
   });

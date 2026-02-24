@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stealth Office Stretching Exercises: Relieve Pain Unnoticed"
+title: " \"Stealth Office Stretching Exercises: Relieve Pain Unnoticed\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Discover the ultimate 'stealth' office stretching routine that relieves back and neck pain right at your desk without drawing any attention from your colleagues."
+description: " \"Discover the ultimate 'stealth' office stretching routine that relieves back and neck pain right at your desk without drawing any attention from your colleagues.\""
 tags: ["Turtle Neck", "Office Yoga", "Stretching", "Office Worker", "ChatGPT"]
 ---
 

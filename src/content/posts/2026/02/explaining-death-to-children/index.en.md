@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explaining Death to Children: A Warm Guide"
+title: " \"Explaining Death to Children: A Warm Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "How to gently explain death and comfort a child who has experienced loss."
+description: " \"How to gently explain death and comfort a child who has experienced loss.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

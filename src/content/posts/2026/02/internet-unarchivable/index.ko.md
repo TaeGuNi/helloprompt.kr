@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "동적 콘텐츠, 단일 페이지 애플리케이션(SPA), 폐쇄형 생태계의 증가로 인해 오픈 웹의 역사를 보존하는 것이 점점 더 어려워지고 있습니다. 사라지는 웹을 영구히 박제하는 맞춤형 프롬프트를 소개합니다."
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"동적 콘텐츠, 단일 페이지 애플리케이션(SPA), 폐쇄형 생태계의 증가로 인해 오픈 웹의 역사를 보존하는 것이 점점 더 어려워지고 있습니다. 사라지는 웹을 영구히 박제하는 맞춤형 프롬프트를 소개합니다.\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ The Internet is Becoming Unarchivable
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "김웹 아카이브"
 date: "2026-02-15"
 tags: ["동적 콘텐츠", "SPA", "폐쇄형 플랫폼"]

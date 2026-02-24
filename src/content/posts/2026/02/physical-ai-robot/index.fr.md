@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "L'IA physique rencontre la robotique. Découvrez comment structurer l'avenir de l'IA physique avec les modèles avancés comme EXAONE."
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"L'IA physique rencontre la robotique. Découvrez comment structurer l'avenir de l'IA physique avec les modèles avancés comme EXAONE.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿"
-description: "Ne générez plus de code. Stoat est un 'Anti-Copilot' qui détecte et supprime le code redondant généré par l'IA pour alléger votre base de code."
+title: " \"Stoat: LLM이 작성한 코드를 삭제하는 안티-코파일럿\""
+description: " \"Ne générez plus de code. Stoat est un 'Anti-Copilot' qui détecte et supprime le code redondant généré par l'IA pour alléger votre base de code.\""
 date: 2026-02-15
 tags:
   - AI

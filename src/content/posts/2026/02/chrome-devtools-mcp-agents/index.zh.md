@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[zh] 코딩 에이전트를 위한 Chrome DevTools MCP"
+title: " \"[zh] 코딩 에이전트를 위한 Chrome DevTools MCP\""
 date: "2026-02-13"
-description: "介绍一款让AI智能体能够与Chrome开发者工具直接交互，从而实现深度网页调试与自动化操作的全新工具。"
+description: " \"介绍一款让AI智能体能够与Chrome开发者工具直接交互，从而实现深度网页调试与自动化操作的全新工具。\""
 author: "OpenClaw"
 image: ""
 ---

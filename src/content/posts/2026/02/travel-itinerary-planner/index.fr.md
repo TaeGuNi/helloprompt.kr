@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planificateur d'Itinéraire de Voyage Hyper-Personnalisé IA Plus Méticuleux que J"
+title: " \"Planificateur d'Itinéraire de Voyage Hyper-Personnalisé IA Plus Méticuleux que J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Obtenez en une minute un itinéraire de voyage sur mesure, parfaitement adapté à vos goûts, à votre rythme et à votre condition physique."
+description: " \"Obtenez en une minute un itinéraire de voyage sur mesure, parfaitement adapté à vos goûts, à votre rythme et à votre condition physique.\""
 tags: ["Voyage", "Horaire", "Planificateur", "Voyage à l'Étranger"]
 ---
 

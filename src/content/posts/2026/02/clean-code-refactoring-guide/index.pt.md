@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Refatorar Código Sujo para Código Limpo em 1 Segundo"
+title: " \"Refatorar Código Sujo para Código Limpo em 1 Segundo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que transforma códigos espaguete complexos em códigos limpos, fáceis de ler e manter."
+description: " \"Um prompt que transforma códigos espaguete complexos em códigos limpos, fáceis de ler e manter.\""
 tags: ["Refatoração", "Código Limpo", "Manutenção", "Produtividade Dev"]
 ---
 

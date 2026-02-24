@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Limpieza del Refrigerador, Renacido con la Receta de un Chef"
+title: " \"Limpieza del Refrigerador, Renacido con la Receta de un Chef\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Un prompt práctico que convierte las sobras de tu refrigerador en deliciosas recetas dignas de un chef, ideal para evitar el desperdicio de alimentos."
+description: " \"Un prompt práctico que convierte las sobras de tu refrigerador en deliciosas recetas dignas de un chef, ideal para evitar el desperdicio de alimentos.\""
 tags: ["Cocina", "Receta", "Consejos de Vida"]
 ---
 

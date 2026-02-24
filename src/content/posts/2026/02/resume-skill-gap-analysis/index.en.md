@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comparing My Resume and JD: 'Skill Gap' Diagnosis Prompt"
+title: " \"Comparing My Resume and JD: 'Skill Gap' Diagnosis Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Identify the skill gaps between your resume and a target Job Description (JD) to build a winning strategy for your application."
+description: " \"Identify the skill gaps between your resume and a target Job Description (JD) to build a winning strategy for your application.\""
 tags: ["SkillGapAnalysis", "ResumeDiagnosis", "CareerStrategy", "JDAnalysis"]
 ---
 

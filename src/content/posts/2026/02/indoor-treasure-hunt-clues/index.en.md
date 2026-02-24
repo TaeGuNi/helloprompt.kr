@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Indoor Treasure Hunt Clues: Rainy Day Activity"
+title: " \"Indoor Treasure Hunt Clues: Rainy Day Activity\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Create customized indoor treasure hunt clues in just 5 minutes using AI."
+description: " \"Create customized indoor treasure hunt clues in just 5 minutes using AI.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

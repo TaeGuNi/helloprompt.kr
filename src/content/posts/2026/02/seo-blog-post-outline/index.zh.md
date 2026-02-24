@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "为了搜索排名靠前的 SEO 博客大纲制定"
+title: " \"为了搜索排名靠前的 SEO 博客大纲制定\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "写作"
-description: "用于生成符合 Google 搜索算法偏好的高排名 SEO 博客文章大纲提示词。"
+description: " \"用于生成符合 Google 搜索算法偏好的高排名 SEO 博客文章大纲提示词。\""
 tags: ["博客", "SEO", "Google曝光"]
 ---
 

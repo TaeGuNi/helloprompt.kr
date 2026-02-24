@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fluxo num Relance: Gerador de Linha do Tempo Histórica"
+title: " \"Fluxo num Relance: Gerador de Linha do Tempo Histórica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/História"
-description: "Prompt que organiza a ordem cronológica e a relação causal de eventos complexos em uma linha do tempo clara e estruturada."
+description: " \"Prompt que organiza a ordem cronológica e a relação causal de eventos complexos em uma linha do tempo clara e estruturada.\""
 tags: ["ResumoHistória", "Cronologia", "LinhaDoTempo", "Resumo"]
 ---
 

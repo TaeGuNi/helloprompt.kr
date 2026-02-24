@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traductor de Problemas de Física: Del Juicio de Situación al Planteamiento de Ecuaciones"
+title: " \"Traductor de Problemas de Física: Del Juicio de Situación al Planteamiento de Ecuaciones\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemáticas/Ciencias"
-description: "Prompt que lee problemas de física escritos, analiza la situación y te dice qué fórmula usar."
+description: " \"Prompt que lee problemas de física escritos, analiza la situación y te dice qué fórmula usar.\""
 tags: ["Física", "Ingeniería", "ResoluciónProblemas", "Prompt"]
 ---
 

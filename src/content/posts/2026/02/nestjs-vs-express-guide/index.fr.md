@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NestJS vs Express: 백엔드 프레임워크 2026년 생존 가이드"
+title: " \"NestJS vs Express: 백엔드 프레임워크 2026년 생존 가이드\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "자유로운 영혼 Express와 엄격한 관리자 NestJS. 대규모 프로젝트라면 무조건 NestJS로 가야 하는 이유."
+description: " \"자유로운 영혼 Express와 엄격한 관리자 NestJS. 대규모 프로젝트라면 무조건 NestJS로 가야 하는 이유.\""
 tags: ["NestJS", "Express", "Node.js", "백엔드", "프레임워크"]
 ---
 

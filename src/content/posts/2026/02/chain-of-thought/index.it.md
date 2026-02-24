@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) Prompting: Massimizzare le capacità di ragionamento dell'IA"
+title: " \"Chain-of-Thought (CoT) Prompting: Massimizzare le capacità di ragionamento dell'IA\""
 date: "2026-02-15"
-description: "Scopri come il Chain-of-Thought prompting aiuta i grandi modelli linguistici a risolvere problemi complessi passo dopo passo, migliorando drasticamente la logica dell'IA."
+description: " \"Scopri come il Chain-of-Thought prompting aiuta i grandi modelli linguistici a risolvere problemi complessi passo dopo passo, migliorando drasticamente la logica dell'IA.\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

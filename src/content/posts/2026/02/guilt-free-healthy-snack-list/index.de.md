@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schuldfreie gesunde Snackliste: Essanfälle verhindern"
+title: " \"Schuldfreie gesunde Snackliste: Essanfälle verhindern\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Wenn um 15 Uhr der Heißhunger zuschlägt: Generiere unendlich viele gesunde Snack-Ideen, die nicht ansetzen, aber sofort den Stress abbauen."
+description: " \"Wenn um 15 Uhr der Heißhunger zuschlägt: Generiere unendlich viele gesunde Snack-Ideen, die nicht ansetzen, aber sofort den Stress abbauen.\""
 tags: ["Diät-Snack", "Gesundheit", "Rezept", "ChatGPT", "Snack"]
 ---
 

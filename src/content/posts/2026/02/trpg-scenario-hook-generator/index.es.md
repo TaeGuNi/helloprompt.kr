@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generación de Gancho de Escenario para Maestros de TRPG"
+title: " \"Generación de Gancho de Escenario para Maestros de TRPG\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "El salvavidas perfecto para Game Masters sin tiempo de preparación. Genera introducciones emocionantes que sumergen a los jugadores en la aventura al instante."
+description: " \"El salvavidas perfecto para Game Masters sin tiempo de preparación. Genera introducciones emocionantes que sumergen a los jugadores en la aventura al instante.\""
 tags: ["TRPG", "D&D", "Escenario", "MaestroJuego", "Historia"]
 ---
 

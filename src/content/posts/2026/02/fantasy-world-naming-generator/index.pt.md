@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nomeando Região/Cidade Única no Mundo de Fantasia"
+title: " \"Nomeando Região/Cidade Única no Mundo de Fantasia\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "De florestas élficas a minas anãs, crie nomes de lugares e cidades que se encaixam perfeitamente no lore do seu mundo de fantasia."
+description: " \"De florestas élficas a minas anãs, crie nomes de lugares e cidades que se encaixam perfeitamente no lore do seu mundo de fantasia.\""
 tags: ["Nomeação", "Fantasia", "Romance", "TRPG", "Universo"]
 ---
 

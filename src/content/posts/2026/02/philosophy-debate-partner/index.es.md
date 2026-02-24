@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Discutiendo con Sócrates: Socio de Debate Filosófico"
+title: " \"Discutiendo con Sócrates: Socio de Debate Filosófico\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/Historia"
-description: "Prompt donde la IA adopta la personalidad de un filósofo específico y plantea preguntas constantemente para expandir tu capacidad de razonamiento lógico."
+description: " \"Prompt donde la IA adopta la personalidad de un filósofo específico y plantea preguntas constantemente para expandir tu capacidad de razonamiento lógico.\""
 tags: ["Filosofía", "PoderLógico", "Debate", "ExperimentoMental"]
 ---
 

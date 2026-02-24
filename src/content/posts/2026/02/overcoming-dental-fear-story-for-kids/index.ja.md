@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "歯医者に行く前に読む勇気充電ストーリー"
+title: " \"歯医者に行く前に読む勇気充電ストーリー\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "歯医者を怖がる子供のために、恐怖心を克服する楽しいストーリーを作成するプロンプト"
+description: " \"歯医者を怖がる子供のために、恐怖心を克服する楽しいストーリーを作成するプロンプト\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

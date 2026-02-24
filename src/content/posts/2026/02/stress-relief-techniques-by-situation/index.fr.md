@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Techniques de Soulagement du Stress par Situation : Suggestions de l'IA"
+title: " \"Techniques de Soulagement du Stress par Situation : Suggestions de l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Y a-t-il une alternative plus saine que de se ruer sur la malbouffe en cas de stress ? Découvrez des techniques de gestion du stress scientifiquement prouvées."
+description: " \"Y a-t-il une alternative plus saine que de se ruer sur la malbouffe en cas de stress ? Découvrez des techniques de gestion du stress scientifiquement prouvées.\""
 tags: ["Stress", "Burn-out", "Gestion Mentale", "Guérison", "ChatGPT"]
 ---
 

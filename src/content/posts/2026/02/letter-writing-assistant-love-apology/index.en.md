@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Letter Ghostwriting Service: From Crush Confession to Polite Refusal"
+title: " \"Letter Ghostwriting Service: From Crush Confession to Polite Refusal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Struggling to find the right words? Let AI craft the perfect letter tailored to your situation and recipient, delivering your true feelings without the awkwardness."
+description: " \"Struggling to find the right words? Let AI craft the perfect letter tailored to your situation and recipient, delivering your true feelings without the awkwardness.\""
 tags: ["Writing", "Letter", "Love", "Apology", "Refusal"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Corso Accelerato di Storia dei Monumenti: Vedi Quello che Sai"
+title: " \"Corso Accelerato di Storia dei Monumenti: Vedi Quello che Sai\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Il momento in cui una pietra diventa storia vivente. Un docente IA che seleziona solo i punti chiave senza spiegazioni complesse."
+description: " \"Il momento in cui una pietra diventa storia vivente. Un docente IA che seleziona solo i punti chiave senza spiegazioni complesse.\""
 tags:
   [
     "Viaggio Storico",

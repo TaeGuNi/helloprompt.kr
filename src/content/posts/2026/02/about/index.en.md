@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "소개 (About Us)"
-description: "Hello Prompt is a practical prompt dictionary created through AI and human collaboration. Boost your work efficiency with our verified prompts."
+title: " \"소개 (About Us)\""
+description: " \"Hello Prompt is a practical prompt dictionary created through AI and human collaboration. Boost your work efficiency with our verified prompts.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---

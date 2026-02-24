@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créateur d'Audioguide de Musée IA : Conservateur dans Ma Main"
+title: " \"Créateur d'Audioguide de Musée IA : Conservateur dans Ma Main\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Économisez les frais de location d'audioguides. Prenez simplement une photo de l'œuvre d'art et laissez l'IA vous révéler ses secrets les plus fascinants."
+description: " \"Économisez les frais de location d'audioguides. Prenez simplement une photo de l'œuvre d'art et laissez l'IA vous révéler ses secrets les plus fascinants.\""
 tags: ["Musée", "Galerie d'Art", "Audioguide", "Guide", "Appréciation de l'Art"]
 ---
 

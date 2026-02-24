@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지"
+title: " \"Google Gemini 1.5 Pro: GPT-4o보다 나은 점 3가지\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Ein Praxisleitfaden für Gemini 1.5 Pro, das mit einer Kontextlänge von 1 Million Token überzeugt. Erfahren Sie, wie Sie umfangreiche PDFs und komplette Codebasen effizient analysieren."
+description: " \"Ein Praxisleitfaden für Gemini 1.5 Pro, das mit einer Kontextlänge von 1 Million Token überzeugt. Erfahren Sie, wie Sie umfangreiche PDFs und komplette Codebasen effizient analysieren.\""
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 

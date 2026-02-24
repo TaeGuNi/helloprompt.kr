@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Usa Segretamente dall'Insegnante di PT, Personal Trainer IA"
+title: " \"Usa Segretamente dall'Insegnante di PT, Personal Trainer IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita"
-description: "Un prompt che funge da guida fitness, pianificando routine di allenamento e diete settimanali perfettamente su misura per le tue condizioni fisiche e i tuoi obiettivi."
+description: " \"Un prompt che funge da guida fitness, pianificando routine di allenamento e diete settimanali perfettamente su misura per le tue condizioni fisiche e i tuoi obiettivi.\""
 tags: ["Esercizio", "Dieta", "Fitness", "Allenamento a Casa"]
 ---
 

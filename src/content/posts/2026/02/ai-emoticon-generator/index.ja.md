@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기"
+title: " \"이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "크리에이티브/예술"
-description: "絵が描けなくても大丈夫。DALL-EとMidjourneyを活用して「一貫性のある」LINEスタンプ24種セットを企画・生成するための完全ガイドです。"
+description: " \"絵が描けなくても大丈夫。DALL-EとMidjourneyを活用して「一貫性のある」LINEスタンプ24種セットを企画・生成するための完全ガイドです。\""
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 

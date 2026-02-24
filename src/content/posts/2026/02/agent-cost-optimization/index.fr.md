@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "Les coûts d'API de vos agents IA explosent ? Comprenez le 'piège quadratique' de la fenêtre de contexte LLM et découvrez 3 modèles de prompts concrets pour optimiser votre consommation de tokens sans perte d'intelligence."
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"Les coûts d'API de vos agents IA explosent ? Comprenez le 'piège quadratique' de la fenêtre de contexte LLM et découvrez 3 modèles de prompts concrets pour optimiser votre consommation de tokens sans perte d'intelligence.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

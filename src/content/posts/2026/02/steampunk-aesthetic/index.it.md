@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Romanticismo delle Macchine a Vapore Stile 'Steampunk'"
+title: " \"Romanticismo delle Macchine a Vapore Stile 'Steampunk'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per lo Steampunk: come generare immagini di un futuro alternativo del XIX secolo dominato da ingranaggi in ottone e macchine a vapore."
+description: " \"Prompt per lo Steampunk: come generare immagini di un futuro alternativo del XIX secolo dominato da ingranaggi in ottone e macchine a vapore.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantascienza", "Retro"]
 ---
 

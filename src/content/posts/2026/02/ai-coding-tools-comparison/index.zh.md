@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "GitHub Copilot vs Cursor vs Windsurf: AI 코딩 3대장 비교"
+title: " \"GitHub Copilot vs Cursor vs Windsurf: AI 코딩 3대장 비교\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"
-description: "AI 编程工具群雄逐鹿。哪款最适合你？功能、价格、可用性全面深度解析。"
+description: " \"AI 编程工具群雄逐鹿。哪款最适合你？功能、价格、可用性全面深度解析。\""
 tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 ---
 

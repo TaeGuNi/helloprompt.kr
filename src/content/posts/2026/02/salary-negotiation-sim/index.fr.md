@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulateur de Négociation Salariale : S'entraîner avec un RH Diabolique"
+title: " \"Simulateur de Négociation Salariale : S'entraîner avec un RH Diabolique\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Carrière"
-description: "Transformez l'IA en un recruteur redoutable pour vous entraîner à la négociation salariale. Affrontez 10 refus virtuels pour triompher dans la réalité."
+description: " \"Transformez l'IA en un recruteur redoutable pour vous entraîner à la négociation salariale. Affrontez 10 refus virtuels pour triompher dans la réalité.\""
 tags: ["Salaire", "Négociation", "Entretien", "JeuDeRôle", "Carrière"]
 ---
 

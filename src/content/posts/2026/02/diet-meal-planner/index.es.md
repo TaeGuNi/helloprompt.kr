@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creando un Plan de Dieta Personalizado con IA Sin un Profesor de EP"
+title: " \"Creando un Plan de Dieta Personalizado con IA Sin un Profesor de EP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Crea un plan de comidas perfecto para una semana considerando tu tipo de cuerpo, peso objetivo y alimentos preferidos en solo 1 minuto."
+description: " \"Crea un plan de comidas perfecto para una semana considerando tu tipo de cuerpo, peso objetivo y alimentos preferidos en solo 1 minuto.\""
 tags: ["Dieta", "Gestión de Dieta", "Fitness", "Salud"]
 ---
 

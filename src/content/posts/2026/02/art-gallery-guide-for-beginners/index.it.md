@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida alla Galleria d'Arte per Principianti: Godere Senza Sapere"
+title: " \"Guida alla Galleria d'Arte per Principianti: Godere Senza Sapere\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "L'arte moderna ti intimorisce? Un prompt per l'apprezzamento artistico dedicato ai principianti che abbatte le barriere delle gallerie d'arte."
+description: " \"L'arte moderna ti intimorisce? Un prompt per l'apprezzamento artistico dedicato ai principianti che abbatte le barriere delle gallerie d'arte.\""
 tags: ["Museo d'Arte", "Galleria", "Apprezzamento dell'Arte", "Trovare Gusto"]
 ---
 

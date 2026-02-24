@@ -1,8 +1,8 @@
 ---
-title: "Gpt 6 Leak (Traditional Chinese)"
-description: "針對 GPT-6 洩漏事件的深度解析：OpenAI 的新模型專注於長期規劃能力。"
+title: " \"Gpt 6 Leak (Traditional Chinese)\""
+description: " \"針對 GPT-6 洩漏事件的深度解析：OpenAI 的新模型專注於長期規劃能力。\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

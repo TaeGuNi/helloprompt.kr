@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Was wäre, wenn eine API ein Restaurant wäre? Der Metaphern-Generator für IT-Konzepte"
+title: " \"Was wäre, wenn eine API ein Restaurant wäre? Der Metaphern-Generator für IT-Konzepte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"
-description: "Ein Prompt, der abstrakte und komplizierte IT-Konzepte durch Alltagsmetaphern so einfach erklärt, dass selbst Grundschüler sie verstehen."
+description: " \"Ein Prompt, der abstrakte und komplizierte IT-Konzepte durch Alltagsmetaphern so einfach erklärt, dass selbst Grundschüler sie verstehen.\""
 tags: ["Programmiergrundlagen", "Metapher", "ITBegriffe", "EinfacheErklärung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Via Viaggio Cliché! Le Mie Gemme Nascoste Trovate dall'IA"
+title: " \"Via Viaggio Cliché! Le Mie Gemme Nascoste Trovate dall'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Luoghi tranquilli senza turisti, come scoprire posti segreti che solo io voglio conoscere."
+description: " \"Luoghi tranquilli senza turisti, come scoprire posti segreti che solo io voglio conoscere.\""
 tags: ["Viaggi", "Gemme Nascoste", "Luoghi Nascosti", "Viaggio Emozionale"]
 ---
 

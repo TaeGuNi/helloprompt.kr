@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando le Idee Sono Bloccate, Partner di Brainstorming"
+title: " \"Quando le Idee Sono Bloccate, Partner di Brainstorming\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Non scervellarti da solo davanti allo schermo bianco. Sblocca la tua creatività e moltiplica le idee con la tecnica SCAMPER e l'IA."
+description: " \"Non scervellarti da solo davanti allo schermo bianco. Sblocca la tua creatività e moltiplica le idee con la tecnica SCAMPER e l'IA.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

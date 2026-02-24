@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "습관 쌓기 설계자 (Habit Stacking)"
+title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Ein wissenschaftlicher Leitfaden zum 'Habit Stacking', um Neujahrsvorsätze endlich dauerhaft in den Alltag zu integrieren."
+description: " \"Ein wissenschaftlicher Leitfaden zum 'Habit Stacking', um Neujahrsvorsätze endlich dauerhaft in den Alltag zu integrieren.\""
 tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
 ---
 

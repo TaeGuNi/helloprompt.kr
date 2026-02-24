@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (Traditional Chinese)"
-description: "Models now reason across video, audio, and text simultaneously in real time."
+title: " \"Multimodal Reasoning (Traditional Chinese)\""
+description: " \"Models now reason across video, audio, and text simultaneously in real time.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

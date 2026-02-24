@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Kubernetes am Edge: Verwaltung verteilter Cluster (2026)"
+title: " \"Kubernetes am Edge: Verwaltung verteilter Cluster (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Einblick in die technischen Herausforderungen und Lösungen für die Verwaltung von Tausenden verteilter Kubernetes-Cluster im Edge-Computing-Umfeld des Jahres 2026, einschließlich der Evolution von K3s und GitOps."
+description: " \"Einblick in die technischen Herausforderungen und Lösungen für die Verwaltung von Tausenden verteilter Kubernetes-Cluster im Edge-Computing-Umfeld des Jahres 2026, einschließlich der Evolution von K3s und GitOps.\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

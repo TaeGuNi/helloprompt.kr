@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dumme Fragen weise beantworten: 'Warum sind Ameisen pummelig?' (Weiser Antwort-Generator)"
+title: " \"Dumme Fragen weise beantworten: 'Warum sind Ameisen pummelig?' (Weiser Antwort-Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Werfen Sie der KI eine alberne Frage zu und lassen Sie sich von einer philosophischen oder wissenschaftlichen Antwort überraschen, die selbst Sokrates vor Neid erblassen ließe."
+description: " \"Werfen Sie der KI eine alberne Frage zu und lassen Sie sich von einer philosophischen oder wissenschaftlichen Antwort überraschen, die selbst Sokrates vor Neid erblassen ließe.\""
 tags: ["Humor", "Trivia", "Philosophie", "Wissenschaft", "Kreativität"]
 ---
 

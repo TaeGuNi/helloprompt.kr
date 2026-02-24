@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roteiro de 'Conversa Empática' para Acalmar uma Criança com Birra"
+title: " \"Roteiro de 'Conversa Empática' para Acalmar uma Criança com Birra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Palavras mágicas dos pais para acalmar o cérebro emocional de uma criança."
+description: " \"Palavras mágicas dos pais para acalmar o cérebro emocional de uma criança.\""
 tags:
   [
     "Parentalidade",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso de la Iluminación 'Hora Dorada', el Momento Más Hermoso"
+title: " \"Uso de la Iluminación 'Hora Dorada', el Momento Más Hermoso\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Aplica la 'Hora Dorada', el truco definitivo para lograr fotografías cálidas y llenas de emoción, directamente en tus prompts de IA."
+description: " \"Aplica la 'Hora Dorada', el truco definitivo para lograr fotografías cálidas y llenas de emoción, directamente en tus prompts de IA.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografía", "Iluminación"]
 ---
 

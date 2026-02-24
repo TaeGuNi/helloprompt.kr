@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "변형 '사이먼 세이즈' (그대로 멈춰라): 청각 주의력 훈련"
+title: " \"변형 '사이먼 세이즈' (그대로 멈춰라): 청각 주의력 훈련\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.151Z"
 category: "육아 & 교육"
-description: "AI가 만드는 기상천외한 미션으로 아이의 집중력과 신체 조절력을 향상시키는 꿀팁"
+description: " \"AI가 만드는 기상천외한 미션으로 아이의 집중력과 신체 조절력을 향상시키는 꿀팁\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

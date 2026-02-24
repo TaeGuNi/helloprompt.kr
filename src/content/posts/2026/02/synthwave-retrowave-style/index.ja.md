@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "80年代レトロ感性「Synthwave」スタイル"
+title: " \"80年代レトロ感性「Synthwave」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "80年代のネオンカラーの郷愁、ヤシの木、グリッド床が特徴のシンセウェーヴ(Synthwave)アートプロンプトです。"
+description: " \"80年代のネオンカラーの郷愁、ヤシの木、グリッド床が特徴のシンセウェーヴ(Synthwave)アートプロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

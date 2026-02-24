@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "글쓰기 교정(윤문): 내 투박한 글을 에세이처럼 바꾸기"
+title: " \"글쓰기 교정(윤문): 내 투박한 글을 에세이처럼 바꾸기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/글쓰기"
-description: "Transforme sua escrita sem graça em um best-seller. Elimine erros, vícios de linguagem e repetições para criar frases elegantes e sofisticadas."
+description: " \"Transforme sua escrita sem graça em um best-seller. Elimine erros, vícios de linguagem e repetições para criar frases elegantes e sofisticadas.\""
 tags: ["글쓰기", "윤문", "첨삭", "ChatGPT", "에세이"]
 ---
 

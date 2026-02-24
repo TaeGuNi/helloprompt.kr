@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erster Eindruck des Lebenslaufs, 'Zusammenfassung' Schreib-Prompt"
+title: " \"Erster Eindruck des Lebenslaufs, 'Zusammenfassung' Schreib-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Erstellen Sie eine überzeugende, 3 bis 5-zeilige professionelle Zusammenfassung für Ihren Lebenslauf, um Ihre Chancen beim ersten Screening drastisch zu erhöhen."
+description: " \"Erstellen Sie eine überzeugende, 3 bis 5-zeilige professionelle Zusammenfassung für Ihren Lebenslauf, um Ihre Chancen beim ersten Screening drastisch zu erhöhen.\""
 tags:
   [
     "Lebenslauf",

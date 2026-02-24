@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escrevendo Descrições de Trabalho (JD) Que Atraem Candidatos"
+title: " \"Escrevendo Descrições de Trabalho (JD) Que Atraem Candidatos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a criar Descrições de Trabalho (JDs) irresistíveis que atraem os melhores talentos para a sua empresa."
+description: " \"Aprenda a criar Descrições de Trabalho (JDs) irresistíveis que atraem os melhores talentos para a sua empresa.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

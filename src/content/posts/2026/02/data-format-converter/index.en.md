@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel, JSON, CSV... Escape Data Format Conversion Drudgery"
+title: " \"Excel, JSON, CSV... Escape Data Format Conversion Drudgery\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Convert JSON to CSV or XML to JSON effortlessly. Offload tedious data format conversion tasks to AI—even with complex nested structures."
+description: " \"Convert JSON to CSV or XML to JSON effortlessly. Offload tedious data format conversion tasks to AI—even with complex nested structures.\""
 tags: ["Data Conversion", "JSON", "CSV", "Excel", "Productivity"]
 ---
 

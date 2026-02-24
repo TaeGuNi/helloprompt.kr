@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "The Ultimate Stay-at-Home Play: 'Relay Drawing and Story Making'"
+title: " \"The Ultimate Stay-at-Home Play: 'Relay Drawing and Story Making'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Spark your child's creativity with an interactive storytelling and drawing game guided by AI."
+description: " \"Spark your child's creativity with an interactive storytelling and drawing game guided by AI.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

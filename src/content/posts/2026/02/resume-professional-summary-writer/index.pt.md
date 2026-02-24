@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Primeira Impressão do Currículo, Prompt de Escrita de 'Resumo'"
+title: " \"Primeira Impressão do Currículo, Prompt de Escrita de 'Resumo'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Escreva um Resumo Profissional poderoso de 3 a 5 linhas para o topo do seu currículo e aumente sua taxa de aprovação na triagem."
+description: " \"Escreva um Resumo Profissional poderoso de 3 a 5 linhas para o topo do seu currículo e aumente sua taxa de aprovação na triagem.\""
 tags: ["Currículo", "Resumo", "ResumoPerfil", "AutoIntro"]
 ---
 

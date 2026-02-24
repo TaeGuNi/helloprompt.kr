@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Krisenmanagement 101: Wie man professionelle Entschuldigungsschreiben verfasst"
+title: " \"Krisenmanagement 101: Wie man professionelle Entschuldigungsschreiben verfasst\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Geschäftskorrespondenz"
-description: "Die goldene Zeit, um Fehler zu beheben. Ein KI-Prompt für Entschuldigungsschreiben, die Vertrauen wiederherstellen, statt nur Ausreden zu liefern."
+description: " \"Die goldene Zeit, um Fehler zu beheben. Ein KI-Prompt für Entschuldigungsschreiben, die Vertrauen wiederherstellen, statt nur Ausreden zu liefern.\""
 tags:
   ["Entschuldigung", "E-Mail", "Business", "Krisenmanagement", "Kommunikation"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Arquitectura de la Ciudad: Leyendo el Horizonte"
+title: " \"Guía de Arquitectura de la Ciudad: Leyendo el Horizonte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Camina por la ciudad con ojo de arquitecto. Del gótico a la arquitectura moderna, historias contadas por edificios."
+description: " \"Camina por la ciudad con ojo de arquitecto. Del gótico a la arquitectura moderna, historias contadas por edificios.\""
 tags:
   [
     "Viaje de Arquitectura",

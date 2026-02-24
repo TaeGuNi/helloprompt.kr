@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 가계부 매니저: 개인 자산 관리 프롬프트"
+title: " \"AI 가계부 매니저: 개인 자산 관리 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Optimiza tus finanzas personales con este prompt de IA que actúa como tu gestor financiero personal, categorizando tus gastos automáticamente."
+description: " \"Optimiza tus finanzas personales con este prompt de IA que actúa como tu gestor financiero personal, categorizando tus gastos automáticamente.\""
 tags: ["태그1", "태그2"]
 ---
 

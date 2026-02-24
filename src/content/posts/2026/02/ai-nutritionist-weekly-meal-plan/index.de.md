@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Ernährungsberater: Erstellung eines personalisierten wöchentlichen Ernährungsplans"
+title: " \"KI-Ernährungsberater: Erstellung eines personalisierten wöchentlichen Ernährungsplans\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Erfahren Sie, wie Sie KI als Ihren persönlichen Ernährungsberater nutzen können, um einen wöchentlichen Speiseplan zu erstellen, der perfekt auf Ihre Ziele und Vorlieben abgestimmt ist."
+description: " \"Erfahren Sie, wie Sie KI als Ihren persönlichen Ernährungsberater nutzen können, um einen wöchentlichen Speiseplan zu erstellen, der perfekt auf Ihre Ziele und Vorlieben abgestimmt ist.\""
 tags: ["Diät", "Mahlzeitenmanagement", "Gesundheit", "ChatGPT", "Meal Prep"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI: Early Breakthroughs"
-description: "An expert analysis of early Quantum AI breakthroughs and a strategic prompt to prepare your workflows for the next technological leap."
+title: " \"Quantum AI: Early Breakthroughs\""
+description: " \"An expert analysis of early Quantum AI breakthroughs and a strategic prompt to prepare your workflows for the next technological leap.\""
 date: "2026-02-14"
 ---
 

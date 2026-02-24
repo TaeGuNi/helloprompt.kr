@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "平衡游戏生成器: '一辈子只吃拉面 vs 一辈子戒碳酸'"
+title: " \"平衡游戏生成器: '一辈子只吃拉面 vs 一辈子戒碳酸'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "破冰神器！无限生成异想天开的二选一平衡游戏问题，瞬间点燃聚会氛围。"
+description: " \"破冰神器！无限生成异想天开的二选一平衡游戏问题，瞬间点燃聚会氛围。\""
 tags: ["游戏", "平衡游戏", "破冰", "幽默", "派对"]
 ---
 

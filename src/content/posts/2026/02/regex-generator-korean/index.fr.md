@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex de Type Alien, Commandez en Langage Naturel"
+title: " \"Regex de Type Alien, Commandez en Langage Naturel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Ne luttez plus avec des expressions régulières complexes comme si vous déchiffriez des codes. Décrivez simplement le motif souhaité en langage naturel, et l'IA générera la regex parfaite."
+description: " \"Ne luttez plus avec des expressions régulières complexes comme si vous déchiffriez des codes. Décrivez simplement le motif souhaité en langage naturel, et l'IA générera la regex parfaite.\""
 tags: ["Regex", "Expression Régulière", "Traitement de Chaînes", "Validation"]
 ---
 

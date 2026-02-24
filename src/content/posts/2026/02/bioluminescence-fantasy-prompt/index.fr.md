@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Monde Fantastique de Lueur Prompt 'Bioluminescence'"
+title: " \"Monde Fantastique de Lueur Prompt 'Bioluminescence'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Découvrez comment créer des créatures et des environnements bioluminescents dignes de la planète Pandora dans Avatar."
+description: " \"Découvrez comment créer des créatures et des environnements bioluminescents dignes de la planète Pandora dans Avatar.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantaisie", "Couleur"]
 ---
 

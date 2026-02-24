@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ショート/リール用短い詩(Insta Poetry)生成器"
+title: " \"ショート/リール用短い詩(Insta Poetry)生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "創作及び趣味"
-description: "SNSで「いいね」を呼ぶ、短くて感性的な詩(Insta Poetry)を10秒で創作してみましょう。"
+description: " \"SNSで「いいね」を呼ぶ、短くて感性的な詩(Insta Poetry)を10秒で創作してみましょう。\""
 tags: ["インスタグラム", "詩", "感性文", "SNS", "コンテンツ"]
 ---
 

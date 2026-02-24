@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Svelte 5 실전 도입: React보다 가볍고 빠른 이유 (Runes)"
+title: " \"Svelte 5 실전 도입: React보다 가볍고 빠른 이유 (Runes)\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "仮想DOM（Virtual DOM）のないフロントエンド・エコシステム。Svelte 5の核心である「Runes」を理解し、Reactから正常にマイグレーションするための実践ガイド。"
+description: " \"仮想DOM（Virtual DOM）のないフロントエンド・エコシステム。Svelte 5の核心である「Runes」を理解し、Reactから正常にマイグレーションするための実践ガイド。\""
 tags: ["Svelte", "Svelte5", "React", "프론트엔드", "웹개발"]
 ---
 

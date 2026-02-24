@@ -1,6 +1,6 @@
 ---
-title: "Multimodales Prompting: Jenseits von Text"
-description: "Im Jahr 2026 beschränkt sich Prompt Engineering nicht mehr auf Text. Entdecken Sie die Welt des multimodalen Promptings, das Bild, Audio und Video kombiniert."
+title: " \"Multimodales Prompting: Jenseits von Text\""
+description: " \"Im Jahr 2026 beschränkt sich Prompt Engineering nicht mehr auf Text. Entdecken Sie die Welt des multimodalen Promptings, das Bild, Audio und Video kombiniert.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]

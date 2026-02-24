@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?"
+title: " \"Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "Cursor, der KI-gestützte Editor der nächsten Generation. Der ultimative Guide zum Programmieren mit einem KI-Pair-Programmer, der die gesamte Codebasis versteht – weit über einfache Autovervollständigung hinaus."
+description: " \"Cursor, der KI-gestützte Editor der nächsten Generation. Der ultimative Guide zum Programmieren mit einem KI-Pair-Programmer, der die gesamte Codebasis versteht – weit über einfache Autovervollständigung hinaus.\""
 tags: ["Cursor", "IDE", "코딩", "AI", "생산성"]
 ---
 

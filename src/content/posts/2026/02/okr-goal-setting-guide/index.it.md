@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida all'Impostazione OKR per il Raggiungimento degli Obiettivi"
+title: " \"Guida all'Impostazione OKR per il Raggiungimento degli Obiettivi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Imposta Obiettivi (Objective) stimolanti e Risultati Chiave (Key Result) misurabili per massimizzare le performance del tuo team."
+description: " \"Imposta Obiettivi (Objective) stimolanti e Risultati Chiave (Key Result) misurabili per massimizzare le performance del tuo team.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

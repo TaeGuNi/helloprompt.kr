@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Romance of Steam Engines 'Steampunk' Style"
+title: " \"Romance of Steam Engines 'Steampunk' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master the Steampunk aesthetic prompt: generate breathtaking 19th-century retro-futuristic images dominated by brass gears and steam engines."
+description: " \"Master the Steampunk aesthetic prompt: generate breathtaking 19th-century retro-futuristic images dominated by brass gears and steam engines.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 ---
 

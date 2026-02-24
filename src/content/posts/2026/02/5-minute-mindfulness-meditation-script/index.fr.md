@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Script de Méditation de Pleine Conscience de 5 Minutes : Du Stress au Calme"
+title: " \"Script de Méditation de Pleine Conscience de 5 Minutes : Du Stress au Calme\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Découvrez comment l'IA peut créer un guide de méditation sur mesure de 5 minutes pour apaiser votre stress et retrouver votre calme, sans abonnement coûteux."
+description: " \"Découvrez comment l'IA peut créer un guide de méditation sur mesure de 5 minutes pour apaiser votre stress et retrouver votre calme, sans abonnement coûteux.\""
 tags: ["Méditation", "Pleine Conscience", "Guérison", "Stress", "TTS"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Prompt Chaining in 2026: Building Complex AI Workflows (Traditional Chinese)"
-description: "將複雜任務拆解為原子步驟，並將中間產出作為上下文使用。"
+title: " \"Prompt Chaining in 2026: Building Complex AI Workflows (Traditional Chinese)\""
+description: " \"將複雜任務拆解為原子步驟，並將中間產出作為上下文使用。\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "prompt-chaining-2026"]

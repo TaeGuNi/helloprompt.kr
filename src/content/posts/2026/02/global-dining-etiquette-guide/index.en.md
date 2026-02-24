@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Is it rude to make slurping sounds? Complete Guide to Dining Etiquette by Country"
+title: " \"Is it rude to make slurping sounds? Complete Guide to Dining Etiquette by Country\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "When in Rome, do as the Romans do. Master essential global dining etiquette and avoid cultural faux pas with this AI prompt guide."
+description: " \"When in Rome, do as the Romans do. Master essential global dining etiquette and avoid cultural faux pas with this AI prompt guide.\""
 tags:
   [
     "Dining Etiquette",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charme des Estampes Japonaises Style 'Ukiyo-e'"
+title: " \"Charme des Estampes Japonaises Style 'Ukiyo-e'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Un prompt pour générer des vagues et des paysages dans le style Ukiyo-e, l'essence même de l'esthétique japonaise."
+description: " \"Un prompt pour générer des vagues et des paysages dans le style Ukiyo-e, l'essence même de l'esthétique japonaise.\""
 tags:
   [
     "Midjourney",

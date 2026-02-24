@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "产业趋势分析: 寻找浮现的市场"
+title: " \"产业趋势分析: 寻找浮现的市场\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "利用 AI 快速拆解高增长产业趋势，精准挖掘产业链核心受惠股的投研级提示词指南。"
+description: " \"利用 AI 快速拆解高增长产业趋势，精准挖掘产业链核心受惠股的投研级提示词指南。\""
 tags: ["股票", "产业分析", "趋势", "市场调查"]
 ---
 

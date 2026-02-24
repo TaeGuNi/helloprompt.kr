@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Blog Post Title Generator That Calls for Clicks"
+title: " \"Blog Post Title Generator That Calls for Clicks\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Generate magic blog titles that double your views. Just insert your keywords and let AI do the rest."
+description: " \"Generate magic blog titles that double your views. Just insert your keywords and let AI do the rest.\""
 tags: ["Blog", "Content Marketing", "SEO", "Copywriting"]
 ---
 

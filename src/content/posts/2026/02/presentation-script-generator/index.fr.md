@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Surmonter la Phobie de la Présentation ! Créer des Scripts de Présentation"
+title: " \"Surmonter la Phobie de la Présentation ! Créer des Scripts de Présentation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Générez des scripts de présentation naturels et percutants pour chaque diapositive de votre PPT."
+description: " \"Générez des scripts de présentation naturels et percutants pour chaque diapositive de votre PPT.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

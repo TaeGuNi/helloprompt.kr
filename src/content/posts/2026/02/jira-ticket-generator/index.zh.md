@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱"
+title: " \"Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개가 뚝딱\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "专为整理 Ticket 头疼的 PM 打造的提示词。自动将策划文档结构化拆解为 Epic、Story 和 Task。"
+description: " \"专为整理 Ticket 头疼的 PM 打造的提示词。自动将策划文档结构化拆解为 Epic、Story 和 Task。\""
 tags: ["Jira", "지라", "PM", "기획", "애자일"]
 ---
 

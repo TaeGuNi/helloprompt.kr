@@ -1,6 +1,6 @@
 ---
-title: "Die Falle des Vibe Coding: Wie KI deine Entwickler-Fähigkeiten ruiniert"
-description: "Programmieren nach dem 'Vibe' gleicht einer Spielsucht. Entdecke 3 Wege, wie du KI nutzt und gleichzeitig deine Fähigkeiten als Software Engineer ausbaust."
+title: " \"Die Falle des Vibe Coding: Wie KI deine Entwickler-Fähigkeiten ruiniert\""
+description: " \"Programmieren nach dem 'Vibe' gleicht einer Spielsucht. Entdecke 3 Wege, wie du KI nutzt und gleichzeitig deine Fähigkeiten als Software Engineer ausbaust.\""
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:

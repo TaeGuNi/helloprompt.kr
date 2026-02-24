@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyse von ausführlichem Kundenfeedback, Positiv/Negativ"
+title: " \"Analyse von ausführlichem Kundenfeedback, Positiv/Negativ\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Hunderte von Bewertungskommentaren sofort mit Sentiment-Analyse organisieren und auswerten."
+description: " \"Hunderte von Bewertungskommentaren sofort mit Sentiment-Analyse organisieren und auswerten.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

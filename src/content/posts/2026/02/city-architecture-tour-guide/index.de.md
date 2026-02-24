@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stadtarchitektur-Reiseführer: Die Skyline lesen"
+title: " \"Stadtarchitektur-Reiseführer: Die Skyline lesen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Entdecken Sie die Stadt durch die Augen eines Architekten. Von der Gotik bis zur modernen Architektur: Erleben Sie die faszinierenden Geschichten, die Gebäude erzählen."
+description: " \"Entdecken Sie die Stadt durch die Augen eines Architekten. Von der Gotik bis zur modernen Architektur: Erleben Sie die faszinierenden Geschichten, die Gebäude erzählen.\""
 tags:
   [
     "Architekturreise",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dio della Gestione Server, Generatore Auto Script Shell"
+title: " \"Dio della Gestione Server, Generatore Auto Script Shell\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Non c'è bisogno di memorizzare complessi comandi Linux. Dì semplicemente cosa vuoi fare, e l'IA creerà uno script Bash sicuro e potente."
+description: " \"Non c'è bisogno di memorizzare complessi comandi Linux. Dì semplicemente cosa vuoi fare, e l'IA creerà uno script Bash sicuro e potente.\""
 tags: ["Linux", "Script Shell", "DevOps", "Automazione", "Bash"]
 ---
 

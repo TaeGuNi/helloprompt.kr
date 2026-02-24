@@ -1,7 +1,6 @@
 ---
 date: "2026-02-15"
-description:
-  谷歌全新推出的 Gemini 智能体生态系统（Gemini Agent Ecosystem）超越了简单的 AI 助手，开启了涵盖 Android、Chrome 和 Workspace 的真正自主协作时代。
+description: "谷歌全新推出的 Gemini 智能体生态系统（Gemini Agent Ecosystem）超越了简单的 AI 助手，开启了涵盖 Android、Chrome 和 Workspace 的真正自主协作时代。"
 heroImage: https://picsum.photos/1600/900
 pubDate: "2026-02-15T09:00:00Z"
 tags:
@@ -10,7 +9,7 @@ tags:
   - AI Agent
   - Automation
   - Tech News
-title: "谷歌全新自主智能体框架：Gemini 智能体生态系统"
+title: " \"谷歌全新自主智能体框架：Gemini 智能体生态系统\""
 ---
 
 # 📝 谷歌全新自主智能体框架：Gemini 智能体生态系统

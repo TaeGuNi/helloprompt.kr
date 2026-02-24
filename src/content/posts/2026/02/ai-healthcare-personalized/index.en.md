@@ -3,10 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description:
-  One-size-fits-all treatment is a thing of the past. Explore the current
-  state of 'Precision Medicine', where AI analyzes genomic data to suggest the optimal
-  treatment for each individual.
+description: "One-size-fits-all treatment is a thing of the past. Explore the current state of 'Precision Medicine', where AI analyzes genomic data to suggest the optimal treatment for each individual."
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "AI and Personalized Medicine: A Prescription Just for You"
+title: " \"AI and Personalized Medicine: A Prescription Just for You\""
 ---
 
 # 📝 AI and Personalized Medicine: A Prescription Just for You

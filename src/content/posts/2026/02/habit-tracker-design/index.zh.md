@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "三天打鱼两天晒网结束！AI 习惯形成追踪器设计"
+title: " \"三天打鱼两天晒网结束！AI 习惯形成追踪器设计\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "不再依赖意志力，为您打造基于脑科学的专属习惯养成系统。"
+description: " \"不再依赖意志力，为您打造基于脑科学的专属习惯养成系统。\""
 tags: ["习惯", "常规", "神生", "自我开发"]
 ---
 

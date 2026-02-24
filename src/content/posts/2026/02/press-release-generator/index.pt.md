@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Redação de Press Release (PR): Como Criar a 'Notícia Direta' que os Jornalistas Adoram"
+title: " \"Redação de Press Release (PR): Como Criar a 'Notícia Direta' que os Jornalistas Adoram\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Negócios/Marketing"
-description: "Tem muitas novidades para anunciar, como lançamentos de produtos e captação de investimentos, mas falta habilidade na escrita? Apresentamos o prompt perfeito para criar press releases que os jornalistas podem publicar imediatamente, sem edições."
+description: " \"Tem muitas novidades para anunciar, como lançamentos de produtos e captação de investimentos, mas falta habilidade na escrita? Apresentamos o prompt perfeito para criar press releases que os jornalistas podem publicar imediatamente, sem edições.\""
 tags: ["Press Release", "PR", "Relações Públicas", "ChatGPT", "Redação"]
 ---
 

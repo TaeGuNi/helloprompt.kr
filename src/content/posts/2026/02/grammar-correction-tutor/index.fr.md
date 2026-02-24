@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pourquoi ma Grammaire est-elle Fausse ? Professeur de Correction 1:1"
+title: " \"Pourquoi ma Grammaire est-elle Fausse ? Professeur de Correction 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Un prompt pour un tuteur IA qui ne se contente pas de corriger, mais explique précisément le 'pourquoi' de vos erreurs grammaticales."
+description: " \"Un prompt pour un tuteur IA qui ne se contente pas de corriger, mais explique précisément le 'pourquoi' de vos erreurs grammaticales.\""
 tags: ["GrammaireAnglaise", "CorrectionÉcriture", "Prompt", "ÉcritureEmail"]
 ---
 

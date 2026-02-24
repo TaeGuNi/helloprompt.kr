@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney v7 实战：手残党也能做出高点击率“博客封面图”的公式"
+title: " \"Midjourney v7 实战：手残党也能做出高点击率“博客封面图”的公式\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "AI 艺术/设计"
-description: "无需设计师。让文章点击率(CTR)提升200%的Midjourney封面图提示词作弊码。"
+description: " \"无需设计师。让文章点击率(CTR)提升200%的Midjourney封面图提示词作弊码。\""
 tags: ["Midjourney", "设计", "封面图", "博客", "AI绘画"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 하세요"
+title: " \"Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 하세요\""
 author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI 트렌드 & 프롬프트"
-description: "L'ère des modèles de raisonnement (OpenAI o3, Gemini 2.0 Flash Thinking) est arrivée. Découvrez pourquoi les anciennes formules de prompts ne fonctionnent plus et maîtrisez le nouveau paradigme de l'ingénierie de prompts orientée objectifs."
+description: " \"L'ère des modèles de raisonnement (OpenAI o3, Gemini 2.0 Flash Thinking) est arrivée. Découvrez pourquoi les anciennes formules de prompts ne fonctionnent plus et maîtrisez le nouveau paradigme de l'ingénierie de prompts orientée objectifs.\""
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]
 ---

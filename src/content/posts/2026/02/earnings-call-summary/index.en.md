@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Earnings Call 3-Minute Summarizer"
+title: " \"Earnings Call 3-Minute Summarizer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Stop struggling with lengthy, jargon-heavy earnings calls. Let AI extract the core insights, guidance, and hidden risks in minutes."
+description: " \"Stop struggling with lengthy, jargon-heavy earnings calls. Let AI extract the core insights, guidance, and hidden risks in minutes.\""
 tags: ["Stock", "EarningsCall", "EarningsRelease", "USStock"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Copie Publicitaire Facebook/Insta Qui Appelle aux Clics"
+title: " \"Générateur de Copie Publicitaire Facebook/Insta Qui Appelle aux Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Découvrez comment rédiger une accroche publicitaire (Texte Principal) irrésistible qui stoppe net le défilement sur les réseaux sociaux."
+description: " \"Découvrez comment rédiger une accroche publicitaire (Texte Principal) irrésistible qui stoppe net le défilement sur les réseaux sociaux.\""
 tags:
   [
     "Publicité Facebook",

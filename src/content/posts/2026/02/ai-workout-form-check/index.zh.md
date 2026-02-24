@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "운동 자세 교정: 스쿼트 영상 보고 피드백 받기 (Vision)"
+title: " \"운동 자세 교정: 스쿼트 영상 보고 피드백 받기 (Vision)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/라이프"
-description: "在花重金请私教之前，先让 AI 帮你把关！利用 GPT-4o Vision 视觉功能精准纠正居家锻炼姿势。"
+description: " \"在花重金请私教之前，先让 AI 帮你把关！利用 GPT-4o Vision 视觉功能精准纠正居家锻炼姿势。\""
 tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 ---
 

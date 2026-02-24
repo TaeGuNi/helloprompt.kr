@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nations- und Politisches System-Einstellung: Realistische Fantasiewelt"
+title: " \"Nations- und Politisches System-Einstellung: Realistische Fantasiewelt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein einfaches Königreich ist langweilig. Erschaffen Sie eine realistische Nation mit einem dreidimensionalen politischen System wie einer Theokratie oder Handelsrepublik."
+description: " \"Ein einfaches Königreich ist langweilig. Erschaffen Sie eine realistische Nation mit einem dreidimensionalen politischen System wie einer Theokratie oder Handelsrepublik.\""
 tags: ["Universum", "Politik", "Nation", "Fantasie", "Einstellung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn Personal Branding Post Generator: Turning Daily Work into Insights"
+title: " \"LinkedIn Personal Branding Post Generator: Turning Daily Work into Insights\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: "Turn your daily work experiences and insights into compelling content to grow your LinkedIn influence, even without monumental achievements."
+description: " \"Turn your daily work experiences and insights into compelling content to grow your LinkedIn influence, even without monumental achievements.\""
 tags: ["Personal Branding", "Writing", "LinkedIn", "Content Marketing"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 엑셀 수식, 말로 설명하면 짜주는 프롬프트"
+title: " \"복잡한 엑셀 수식, 말로 설명하면 짜주는 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.160Z"
 updatedDate: "2026-02-07T09:10:33.161Z"
 category: "업무 자동화"
-description: "VLOOKUP, INDEX MATCH 헷갈리시나요? 복잡한 엑셀 수식, 이제 구글링 대신 AI에게 상황만 설명하고 3초 만에 완성하세요."
+description: " \"VLOOKUP, INDEX MATCH 헷갈리시나요? 복잡한 엑셀 수식, 이제 구글링 대신 AI에게 상황만 설명하고 3초 만에 완성하세요.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

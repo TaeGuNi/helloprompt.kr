@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erstellung einer unwiderstehlichen Angebotsgliederung"
+title: " \"Erstellung einer unwiderstehlichen Angebotsgliederung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Attraktives Angebots-Storytelling, das Kunden überzeugt."
+description: " \"Attraktives Angebots-Storytelling, das Kunden überzeugt.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

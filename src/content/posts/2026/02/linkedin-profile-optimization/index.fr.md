@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt d'Optimisation de Profil LinkedIn : Attirer les Chasseurs de Têtes"
+title: " \"Prompt d'Optimisation de Profil LinkedIn : Attirer les Chasseurs de Têtes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrière & Changement d'Emploi"
-description: "Multipliez vos opportunités professionnelles par 10 grâce à un titre optimisé pour le SEO et une section 'Infos' percutante générés par l'IA."
+description: " \"Multipliez vos opportunités professionnelles par 10 grâce à un titre optimisé pour le SEO et une section 'Infos' percutante générés par l'IA.\""
 tags:
   ["LinkedIn", "Optimisation de Profil", "Chasse de Têtes", "Personal Branding"]
 ---

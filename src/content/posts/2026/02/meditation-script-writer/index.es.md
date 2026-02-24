@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Descanso Cerebral de 5 Minutos, Escritura de Guion de Meditación y Atención Plena con IA"
+title: " \"Descanso Cerebral de 5 Minutos, Escritura de Guion de Meditación y Atención Plena con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Crea tu propio guion de meditación guiada, adaptado perfectamente a tu situación y estado emocional."
+description: " \"Crea tu propio guion de meditación guiada, adaptado perfectamente a tu situación y estado emocional.\""
 tags: ["Meditación", "Atención Plena", "Estrés", "Descanso"]
 ---
 

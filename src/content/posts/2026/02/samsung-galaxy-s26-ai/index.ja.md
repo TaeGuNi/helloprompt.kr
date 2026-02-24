@@ -1,6 +1,6 @@
 ---
-title: "Galaxy S26: Monster Specs Meet AI"
-description: "Exynos 2600搭載。3Dビルボードを通して見るGalaxy AIの進化。"
+title: " \"Galaxy S26: Monster Specs Meet AI\""
+description: " \"Exynos 2600搭載。3Dビルボードを通して見るGalaxy AIの進化。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

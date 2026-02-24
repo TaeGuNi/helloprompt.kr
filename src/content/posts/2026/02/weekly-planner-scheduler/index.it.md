@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Progetto God-Life! Scrittura Pianificatore Settimanale IA"
+title: " \"Progetto God-Life! Scrittura Pianificatore Settimanale IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Hai troppo da fare e non sai da dove iniziare? Crea una programmazione perfetta basata sulle priorità con l'IA."
+description: " \"Hai troppo da fare e non sai da dove iniziare? Crea una programmazione perfetta basata sulle priorità con l'IA.\""
 tags: ["Pianificatore", "Programmatore", "Gestione Tempo", "Produttività"]
 ---
 

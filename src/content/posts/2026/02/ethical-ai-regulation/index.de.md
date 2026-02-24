@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: "Der rasante Fortschritt der KI hat neue ethische Dilemmata hervorgebracht. Ein tiefer Einblick in den aktuellen Stand der globalen KI-Regulierung und die 'digitale Ethik', die wir wahren müssen."
+description: " \"Der rasante Fortschritt der KI hat neue ethische Dilemmata hervorgebracht. Ein tiefer Einblick in den aktuellen Stand der globalen KI-Regulierung und die 'digitale Ethik', die wir wahren müssen.\""
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "KI-Ethik und Regulierung 2026: Regeln für die Koexistenz"
+title: " \"KI-Ethik und Regulierung 2026: Regeln für die Koexistenz\""
 ---
 
 # 📝 KI-Ethik und Regulierung 2026: Regeln für die Koexistenz

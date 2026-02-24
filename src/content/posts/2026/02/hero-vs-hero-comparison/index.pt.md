@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Herói vs Herói: Análise Comparativa de Rivais do Século"
+title: " \"Herói vs Herói: Análise Comparativa de Rivais do Século\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/História"
-description: "Prompt que combina grandes figuras de diferentes épocas e países em um duelo 1:1 para analisar suas semelhanças e diferenças."
+description: " \"Prompt que combina grandes figuras de diferentes épocas e países em um duelo 1:1 para analisar suas semelhanças e diferenças.\""
 tags: ["História", "AnálisePessoa", "CulturaComparativa", "Prompt"]
 ---
 

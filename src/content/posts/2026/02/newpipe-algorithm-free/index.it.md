@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Italian)"
-description: "La domanda degli utenti per un consumo di contenuti multimediali tranquillo e senza feed algoritmici è in crescita."
+title: " \"The Rise of Algorithm Free Media (Italian)\""
+description: " \"La domanda degli utenti per un consumo di contenuti multimediali tranquillo e senza feed algoritmici è in crescita.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

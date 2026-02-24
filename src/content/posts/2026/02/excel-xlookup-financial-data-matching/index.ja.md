@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "エクセルVLOOKUPは忘れろ：財務データマッチングの神、XLOOKUP"
+title: " \"エクセルVLOOKUPは忘れろ：財務データマッチングの神、XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "エラーが頻発して重いVLOOKUPのせいで、今日も残業していませんか？より強力で直感的なXLOOKUP関数へ今すぐ乗り換えましょう。"
+description: " \"エラーが頻発して重いVLOOKUPのせいで、今日も残業していませんか？より強力で直感的なXLOOKUP関数へ今すぐ乗り換えましょう。\""
 tags: ["エクセル", "関数", "XLOOKUP", "データ整理"]
 ---
 

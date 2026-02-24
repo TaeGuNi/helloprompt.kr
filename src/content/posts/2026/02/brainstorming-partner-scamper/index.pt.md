@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando as Ideias Estão Travadas, Parceiro de Brainstorming"
+title: " \"Quando as Ideias Estão Travadas, Parceiro de Brainstorming\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Não quebre a cabeça sozinho. Expanda suas ideias rapidamente com a técnica SCAMPER."
+description: " \"Não quebre a cabeça sozinho. Expanda suas ideias rapidamente com a técnica SCAMPER.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

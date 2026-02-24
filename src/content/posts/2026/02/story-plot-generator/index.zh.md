@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "슬럼프 탈출! 웹소설 플롯 생성기"
+title: " \"슬럼프 탈출! 웹소설 플롯 생성기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "告别卡文！使用AI一键生成引人入胜的网络小说情节框架，助你轻松突破创作瓶颈。"
+description: " \"告别卡文！使用AI一键生成引人入胜的网络小说情节框架，助你轻松突破创作瓶颈。\""
 tags: ["태그1", "태그2"]
 ---
 

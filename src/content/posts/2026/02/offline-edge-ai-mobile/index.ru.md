@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (Russian)"
-description: "Локальные ИИ-модели на смартфонах наконец-то стали достаточно мощными, чтобы заменить облачные сервисы для повседневных задач."
+title: " \"True Offline AI on Mobile (Russian)\""
+description: " \"Локальные ИИ-модели на смартфонах наконец-то стали достаточно мощными, чтобы заменить облачные сервисы для повседневных задач.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

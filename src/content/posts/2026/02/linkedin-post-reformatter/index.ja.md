@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "평범한 메모를 링크드인 바이럴 글쓰기로 변환하기"
+title: " \"평범한 메모를 링크드인 바이럴 글쓰기로 변환하기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "마케팅"
-description: "エンジニアの堅苦しい振り返りメモを、「いいね！」を集めるLinkedInインフルエンサースタイルの投稿に変換します。"
+description: " \"エンジニアの堅苦しい振り返りメモを、「いいね！」を集めるLinkedInインフルエンサースタイルの投稿に変換します。\""
 tags: ["LinkedIn", "Writing", "PersonalBranding", "Viral"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Documentation API Ennuyeuse, Swagger Apparaît avec Juste du Code"
+title: " \"Documentation API Ennuyeuse, Swagger Apparaît avec Juste du Code\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt qui convertit instantanément votre code source en documentation OpenAPI (Swagger) complète ou en format Markdown."
+description: " \"Un prompt qui convertit instantanément votre code source en documentation OpenAPI (Swagger) complète ou en format Markdown.\""
 tags: ["API", "Documentation", "Swagger", "OpenAPI", "Backend"]
 ---
 

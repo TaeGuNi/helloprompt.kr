@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Texture della Carta Stile 'Ritaglio di Carta & Origami'"
+title: " \"Texture della Carta Stile 'Ritaglio di Carta & Origami'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per creare immagini in stile papercraft e origami: dai vita alle tue illustrazioni digitali con texture di carta e profondità 3D."
+description: " \"Prompt per creare immagini in stile papercraft e origami: dai vita alle tue illustrazioni digitali con texture di carta e profondità 3D.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Artigianato"]
 ---

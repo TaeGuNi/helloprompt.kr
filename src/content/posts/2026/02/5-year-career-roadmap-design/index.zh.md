@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5年职业路线图设计：从现在到C-Level"
+title: " \"5年职业路线图设计：从现在到C-Level\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "职业与跳槽"
-description: "将模糊的未来变成具体的计划。用AI设计1年、3年和5年的目标以及实现这些目标所需的技能组合。"
+description: " \"将模糊的未来变成具体的计划。用AI设计1年、3年和5年的目标以及实现这些目标所需的技能组合。\""
 tags: ["职业道路", "职业发展", "自我提升", "目标设定"]
 ---
 

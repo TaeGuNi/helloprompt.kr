@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esquema de Blog SEO para Clasificaciones de Búsqueda Superiores"
+title: " \"Esquema de Blog SEO para Clasificaciones de Búsqueda Superiores\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escritura"
-description: "Un prompt de generación de esquemas optimizados para SEO que estructura tu publicación de blog de una manera que a Google le encanta."
+description: " \"Un prompt de generación de esquemas optimizados para SEO que estructura tu publicación de blog de una manera que a Google le encanta.\""
 tags: ["Blog", "SEO", "Exposición en Google"]
 ---
 

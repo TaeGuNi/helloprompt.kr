@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gott des Server-Managements, Shell-Script Auto-Generator"
+title: " \"Gott des Server-Managements, Shell-Script Auto-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Nie wieder komplexe Linux-Befehle auswendig lernen. Beschreiben Sie einfach Ihre Aufgabe, und die KI generiert ein sicheres und leistungsstarkes Bash-Skript."
+description: " \"Nie wieder komplexe Linux-Befehle auswendig lernen. Beschreiben Sie einfach Ihre Aufgabe, und die KI generiert ein sicheres und leistungsstarkes Bash-Skript.\""
 tags: ["Linux", "Shell-Skript", "DevOps", "Automatisierung", "Bash"]
 ---
 

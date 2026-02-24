@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Chart-Hilfsindikator-Interpreter: Kaufzeitpunkt erfassen"
+title: " \"Chart-Hilfsindikator-Interpreter: Kaufzeitpunkt erfassen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Lassen Sie die KI komplexe Chart-Indikatoren wie RSI, MACD und Bollinger Bänder mühelos für Sie analysieren."
+description: " \"Lassen Sie die KI komplexe Chart-Indikatoren wie RSI, MACD und Bollinger Bänder mühelos für Sie analysieren.\""
 tags: ["Aktie", "Chartanalyse", "TechnischeAnalyse", "Trading"]
 ---
 

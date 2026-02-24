@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "平息孩子哭闹的'共情对话'剧本"
+title: " \"平息孩子哭闹的'共情对话'剧本\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "平息孩子情绪大脑的父母魔法话术，用AI生成定制化安抚话术。"
+description: " \"平息孩子情绪大脑的父母魔法话术，用AI生成定制化安抚话术。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

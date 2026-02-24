@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pase Libre de Entrevista de Desarrollador: Examen Simulado de Entrevista de Algoritmos"
+title: " \"Pase Libre de Entrevista de Desarrollador: Examen Simulado de Entrevista de Algoritmos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/TI"
-description: "Prompt para practicar simulacros de entrevistas técnicas y pruebas de algoritmos con un entrevistador experto de IA, ideal para grandes empresas tecnológicas."
+description: " \"Prompt para practicar simulacros de entrevistas técnicas y pruebas de algoritmos con un entrevistador experto de IA, ideal para grandes empresas tecnológicas.\""
 tags:
   ["PruebaCodificación", "EntrevistaTécnica", "Algoritmo", "PreparaciónTrabajo"]
 ---

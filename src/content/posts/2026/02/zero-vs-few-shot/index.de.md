@@ -1,7 +1,7 @@
 ---
-title: "Zero-Shot vs. Few-Shot Learning: Wann Beispiele sinnvoll sind"
+title: " \"Zero-Shot vs. Few-Shot Learning: Wann Beispiele sinnvoll sind\""
 date: "2026-02-15"
-description: "Ein Praxis-Leitfaden: Wann Zero-Shot-Prompting ausreicht und wann Few-Shot-Prompting für optimale KI-Ergebnisse unerlässlich ist."
+description: " \"Ein Praxis-Leitfaden: Wann Zero-Shot-Prompting ausreicht und wann Few-Shot-Prompting für optimale KI-Ergebnisse unerlässlich ist.\""
 ---
 
 # 📝 Zero-Shot vs. Few-Shot: Das Geheimnis perfekter KI-Antworten

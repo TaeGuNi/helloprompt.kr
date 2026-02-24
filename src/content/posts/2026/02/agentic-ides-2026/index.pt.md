@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "A Ascensão dos IDEs Agênticos: Como a IA está Remodelando a Codificação em 2026"
+title: " \"A Ascensão dos IDEs Agênticos: Como a IA está Remodelando a Codificação em 2026\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Em 2026, o paradigma de programação mudou radicalmente. Descubra como os IDEs Agênticos foram além do autocompletar e passaram a raciocinar, planejar e escrever código de forma autônoma."
+description: " \"Em 2026, o paradigma de programação mudou radicalmente. Descubra como os IDEs Agênticos foram além do autocompletar e passaram a raciocinar, planejar e escrever código de forma autônoma.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Review: The Data Engineering Book (Open Source Guide)"
-description: "Un'analisi approfondita della guida open source 'The Data Engineering Book' e del perché sia una lettura essenziale per gli AI Engineer."
+title: " \"Review: The Data Engineering Book (Open Source Guide)\""
+description: " \"Un'analisi approfondita della guida open source 'The Data Engineering Book' e del perché sia una lettura essenziale per gli AI Engineer.\""
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

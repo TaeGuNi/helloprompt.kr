@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Liste de Contrôle du Kit Médical de Voyage Essentiel : Ne Soyez Pas Malade à l'Étranger"
+title: " \"Liste de Contrôle du Kit Médical de Voyage Essentiel : Ne Soyez Pas Malade à l'Étranger\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Ne perdez plus de temps à chercher une pharmacie locale. Découvrez comment préparer une trousse de premiers secours et d'urgence adaptée à chaque situation et symptôme avec l'IA."
+description: " \"Ne perdez plus de temps à chercher une pharmacie locale. Découvrez comment préparer une trousse de premiers secours et d'urgence adaptée à chaque situation et symptôme avec l'IA.\""
 tags:
   [
     "Médecine d'Urgence",

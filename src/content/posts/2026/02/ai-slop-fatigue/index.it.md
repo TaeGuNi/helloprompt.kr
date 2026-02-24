@@ -1,6 +1,6 @@
 ---
-title: "Fatica da 'Slop' IA: Perché 'No IA' è il Nuovo Premium"
-description: "Mentre i contenuti di bassa qualità generati dall'IA inondano il web, la fatica degli utenti si fa sempre più reale. Scopriamo perché il tocco 'umano' sta diventando il nuovo standard di eccellenza."
+title: " \"Fatica da 'Slop' IA: Perché 'No IA' è il Nuovo Premium\""
+description: " \"Mentre i contenuti di bassa qualità generati dall'IA inondano il web, la fatica degli utenti si fa sempre più reale. Scopriamo perché il tocco 'umano' sta diventando il nuovo standard di eccellenza.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

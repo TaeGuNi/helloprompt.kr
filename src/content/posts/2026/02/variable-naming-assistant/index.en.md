@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Developer's Lifelong Problem 'Naming Variables', AI Does It For You"
+title: " \"Developer's Lifelong Problem 'Naming Variables', AI Does It For You\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Stop using meaningless variable names like tmp, data, or a. Discover a prompt that recommends context-perfect English variable and function names."
+description: " \"Stop using meaningless variable names like tmp, data, or a. Discover a prompt that recommends context-perfect English variable and function names.\""
 tags: ["Naming", "Clean Code", "Variable Name", "English Study"]
 ---
 

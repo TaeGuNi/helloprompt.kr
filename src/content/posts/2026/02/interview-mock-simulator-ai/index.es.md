@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulación de 'Entrevista Simulada Real' con IA Poseída por Entrevistador"
+title: " \"Simulación de 'Entrevista Simulada Real' con IA Poseída por Entrevistador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Asigna a la IA el rol de un entrevistador exigente y practica entrevistas de tensión con preguntas de seguimiento, tal como en la vida real."
+description: " \"Asigna a la IA el rol de un entrevistador exigente y practica entrevistas de tensión con preguntas de seguimiento, tal como en la vida real.\""
 tags:
   ["EntrevistaSimulada", "PrácticaEntrevista", "EntrevistadorIA", "PrepEmpleo"]
 ---

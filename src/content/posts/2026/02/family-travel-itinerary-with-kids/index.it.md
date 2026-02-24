@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Itinerario di Viaggio in Famiglia con Bambini: Pianificazione Pacifica"
+title: " \"Itinerario di Viaggio in Famiglia con Bambini: Pianificazione Pacifica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Un prompt magico per pianificare viaggi in famiglia, salvaguardando le energie dei bambini e la sanità mentale dei genitori."
+description: " \"Un prompt magico per pianificare viaggi in famiglia, salvaguardando le energie dei bambini e la sanità mentale dei genitori.\""
 tags:
   ["Viaggio in Famiglia", "Genitorialità", "Zona Bambini", "Piano di Viaggio"]
 ---

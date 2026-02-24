@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Traditional Chinese)"
-description: "多智能體協作（Multi-agent collaboration）正在成為解決複雜問題的新標準"
+title: " \"AI Agent Swarms (Traditional Chinese)\""
+description: " \"多智能體協作（Multi-agent collaboration）正在成為解決複雜問題的新標準\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

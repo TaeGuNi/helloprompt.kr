@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Primera Impresión del Currículum, Prompt de Escritura de 'Resumen'"
+title: " \"Primera Impresión del Currículum, Prompt de Escritura de 'Resumen'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Escribe un poderoso Resumen Profesional de 3 a 5 líneas para el inicio de tu currículum y aumenta tu tasa de entrevistas."
+description: " \"Escribe un poderoso Resumen Profesional de 3 a 5 líneas para el inicio de tu currículum y aumenta tu tasa de entrevistas.\""
 tags: ["Currículum", "Resumen", "ResumenPerfil", "AutoIntro"]
 ---
 

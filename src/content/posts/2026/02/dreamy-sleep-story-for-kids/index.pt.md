@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "História de Sono Sonhadora para Crianças: A Viagem no Trem das Nuvens"
+title: " \"História de Sono Sonhadora para Crianças: A Viagem no Trem das Nuvens\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Uma história de ninar com técnicas de relaxamento e meditação para ajudar crianças com dificuldade para dormir a relaxar e adormecer rapidamente."
+description: " \"Uma história de ninar com técnicas de relaxamento e meditação para ajudar crianças com dificuldade para dormir a relaxar e adormecer rapidamente.\""
 tags:
   [
     "Parentalidade",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Niente Più Rinunce! Design Tracker Formazione Abitudini IA"
+title: " \"Niente Più Rinunce! Design Tracker Formazione Abitudini IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Non affidarti alla sola forza di volontà. Crea un sistema per la formazione di abitudini infallibile basato sulla scienza del cervello."
+description: " \"Non affidarti alla sola forza di volontà. Crea un sistema per la formazione di abitudini infallibile basato sulla scienza del cervello.\""
 tags: ["Abitudine", "Routine", "GodLife", "Auto-sviluppo"]
 ---
 

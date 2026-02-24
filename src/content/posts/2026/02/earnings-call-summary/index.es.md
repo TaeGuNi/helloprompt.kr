@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumidor de Llamada de Ganancias en 3 Minutos"
+title: " \"Resumidor de Llamada de Ganancias en 3 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Analiza y resume en 3 minutos las extensas y complejas llamadas de ganancias (Earnings Calls) en inglés. Descubre cómo la IA extrae la información clave para tus inversiones."
+description: " \"Analiza y resume en 3 minutos las extensas y complejas llamadas de ganancias (Earnings Calls) en inglés. Descubre cómo la IA extrae la información clave para tus inversiones.\""
 tags:
   ["Acciones", "LlamadaDeGanancias", "PublicaciónDeGanancias", "AccionesEEUU"]
 ---

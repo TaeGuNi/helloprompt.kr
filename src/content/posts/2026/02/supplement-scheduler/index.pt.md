@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Um Punhado de Pílulas? Combinação de Suplementos Personalizada por IA e Agendador"
+title: " \"Um Punhado de Pílulas? Combinação de Suplementos Personalizada por IA e Agendador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Criamos uma rotina ideal de suplementos que evita a ingestão duplicada e aumenta a taxa de absorção."
+description: " \"Criamos uma rotina ideal de suplementos que evita a ingestão duplicada e aumenta a taxa de absorção.\""
 tags: ["Suplementos", "Alimento Funcional de Saúde", "Agendador", "Saúde"]
 ---
 

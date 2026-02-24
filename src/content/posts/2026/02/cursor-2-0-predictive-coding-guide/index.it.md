@@ -1,5 +1,5 @@
 ---
-title: "Cursor 2.0: 'Predictive Coding'이 개발자의 뇌를 읽는 법 (.cursorrules 설정 포함)"
+title: " \"Cursor 2.0: 'Predictive Coding'이 개발자의 뇌를 읽는 법 (.cursorrules 설정 포함)\""
 date: "2026-02-16"
 categories: ["AI Tools", "Coding", "Productivity"]
 tags: ["Cursor", "IDE", "Predictive Coding", "DevTools"]

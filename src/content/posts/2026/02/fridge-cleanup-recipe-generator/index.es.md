@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Limpieza de Refrigerador! Generador de Recetas Saludables con IA"
+title: " \"¡Limpieza de Refrigerador! Generador de Recetas Saludables con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Crea recetas saludables de 5 estrellas utilizando ingredientes que están a punto de caducar."
+description: " \"Crea recetas saludables de 5 estrellas utilizando ingredientes que están a punto de caducar.\""
 tags: ["Cocina", "Receta", "Dieta", "Limpieza de Refrigerador"]
 ---
 

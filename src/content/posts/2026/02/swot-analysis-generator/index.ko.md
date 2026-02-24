@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기"
+title: " \"SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.151Z"
 category: "업무 자동화"
-description: "신규 사업 아이디어, 마케팅 전략 수립의 기본인 SWOT 분석. 엑셀 앞에서 멍때리지 말고 AI로 1분 만에 초안을 완성하세요."
+description: " \"신규 사업 아이디어, 마케팅 전략 수립의 기본인 SWOT 분석. 엑셀 앞에서 멍때리지 말고 AI로 1분 만에 초안을 완성하세요.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

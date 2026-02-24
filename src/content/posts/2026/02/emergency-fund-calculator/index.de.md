@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notgroschen-Sicherheitsgurt: Berechnung meines eigenen angemessenen Notgroschenbetrags"
+title: " \"Notgroschen-Sicherheitsgurt: Berechnung meines eigenen angemessenen Notgroschenbetrags\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanztechnologie & Investition"
-description: "Wir berechnen den optimalen Notgroschenbetrag, der auch bei plötzlicher Arbeitslosigkeit oder Unfällen unerschütterlich ist."
+description: " \"Wir berechnen den optimalen Notgroschenbetrag, der auch bei plötzlicher Arbeitslosigkeit oder Unfällen unerschütterlich ist.\""
 tags: ["Notgroschen", "Finanzmanagement", "Risikomanagement", "Sparen"]
 ---
 

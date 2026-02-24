@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Otimização de Perfil do LinkedIn: Atraindo Headhunters"
+title: " \"Prompt de Otimização de Perfil do LinkedIn: Atraindo Headhunters\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Aumente as ofertas de emprego em 10x criando um Título (Headline) otimizado para buscas e uma seção Sobre (About) altamente atrativa."
+description: " \"Aumente as ofertas de emprego em 10x criando um Título (Headline) otimizado para buscas e uma seção Sobre (About) altamente atrativa.\""
 tags: ["LinkedIn", "Otimização de Perfil", "Headhunting", "Marca Pessoal"]
 ---
 

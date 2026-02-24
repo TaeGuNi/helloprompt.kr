@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (French)"
-description: "Gérer efficacement l'utilisation des tokens est essentiel pour réduire les coûts et améliorer la précision des LLM."
+title: " \"Optimizing Context Windows (French)\""
+description: " \"Gérer efficacement l'utilisation des tokens est essentiel pour réduire les coûts et améliorer la précision des LLM.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

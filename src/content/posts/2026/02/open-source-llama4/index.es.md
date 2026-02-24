@@ -1,6 +1,6 @@
 ---
-title: "Contraataque de la IA de código abierto"
-description: "Una ola masiva del ecosistema de código abierto que amenaza a los modelos cerrados."
+title: " \"Contraataque de la IA de código abierto\""
+description: " \"Una ola masiva del ecosistema de código abierto que amenaza a los modelos cerrados.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

@@ -1,6 +1,6 @@
 ---
-title: "Why OpenAI Should Build Slack (Russian)"
-description: "Объединение ИИ и коммуникационных платформ — следующий логичный шаг для повышения продуктивности корпораций."
+title: " \"Why OpenAI Should Build Slack (Russian)\""
+description: " \"Объединение ИИ и коммуникационных платформ — следующий логичный шаг для повышения продуктивности корпораций.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]

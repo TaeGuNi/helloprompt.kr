@@ -1,6 +1,6 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "Wir vergleichen zwei gegensätzliche Ansätze zur Verbesserung der Inferenzgeschwindigkeit von KI-Modellen (Anthropics Low Batch Size und OpenAIs spezialisierte Hardware-Modelle) und bieten Entwicklern klare Kriterien für die richtige Wahl."
+title: " \"LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'\""
+description: " \"Wir vergleichen zwei gegensätzliche Ansätze zur Verbesserung der Inferenzgeschwindigkeit von KI-Modellen (Anthropics Low Batch Size und OpenAIs spezialisierte Hardware-Modelle) und bieten Entwicklern klare Kriterien für die richtige Wahl.\""
 date: 2026-02-16
 tags:
   [

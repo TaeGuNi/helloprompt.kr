@@ -1,6 +1,6 @@
 ---
-title: "Recensione: The Data Engineering Book (Guida Open Source)"
-description: "Una guida pratica con prompt per progettare pipeline di dati scalabili, sfruttando i principi fondamentali del Data Engineering Book open source."
+title: " \"Recensione: The Data Engineering Book (Guida Open Source)\""
+description: " \"Una guida pratica con prompt per progettare pipeline di dati scalabili, sfruttando i principi fondamentali del Data Engineering Book open source.\""
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

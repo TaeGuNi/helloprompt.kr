@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping"
-description: "Data scarcity is becoming real as publishers lock down archives"
+title: " \"Publishers Block AI Scraping\""
+description: " \"Data scarcity is becoming real as publishers lock down archives\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

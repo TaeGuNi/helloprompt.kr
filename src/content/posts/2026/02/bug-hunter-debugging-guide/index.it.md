@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bug con Cause Sconosciute, Lascia Fare al Detective IA"
+title: " \"Bug con Cause Sconosciute, Lascia Fare al Detective IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Risolvi i bug più misteriosi analizzando log e snippet di codice con l'aiuto dell'intelligenza artificiale."
+description: " \"Risolvi i bug più misteriosi analizzando log e snippet di codice con l'aiuto dell'intelligenza artificiale.\""
 tags: ["Debug", "Correzione Bug", "Risoluzione Problemi", "Risoluzione Errori"]
 ---
 

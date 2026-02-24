@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "城市建筑导览：解读天际线"
+title: " \"城市建筑导览：解读天际线\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "用建筑师的眼光漫步城市。从哥特式到现代建筑，建筑讲述的故事。"
+description: " \"用建筑师的眼光漫步城市。从哥特式到现代建筑，建筑讲述的故事。\""
 tags: ["建筑旅行", "城市再生", "地标", "建筑设计", "人文"]
 ---
 

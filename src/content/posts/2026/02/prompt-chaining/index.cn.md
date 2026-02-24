@@ -1,6 +1,6 @@
 ---
-title: "提示词链（Prompt Chaining）：单一提示词的终结"
-description: "复杂的问题无法一次解决。提示词链与智能体工作流已成为2026年AI工程的行业标准。"
+title: " \"提示词链（Prompt Chaining）：单一提示词的终结\""
+description: " \"复杂的问题无法一次解决。提示词链与智能体工作流已成为2026年AI工程的行业标准。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]

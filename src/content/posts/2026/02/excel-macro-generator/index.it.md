@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuggi dall'Inferno di Excel: Il Prompt che Cancella gli Straordinari"
+title: " \"Fuggi dall'Inferno di Excel: Il Prompt che Cancella gli Straordinari\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Produttività"
-description: "Formule Excel complesse, macro VBA... Descrivilo a parole tue, e l'IA scriverà il codice perfetto per te."
+description: " \"Formule Excel complesse, macro VBA... Descrivilo a parole tue, e l'IA scriverà il codice perfetto per te.\""
 tags: ["Excel", "Automazione", "VBA", "Trucchi Lavoro"]
 ---
 

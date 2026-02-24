@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Etiqueta de Negocios Global: Éxito en Reuniones"
+title: " \"Guía de Etiqueta de Negocios Global: Éxito en Reuniones\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Tarjetas de visita con dos manos? ¿Quién da la mano primero? Modales de negocios por país que aseguran contratos."
+description: " \"¿Tarjetas de visita con dos manos? ¿Quién da la mano primero? Modales de negocios por país que aseguran contratos.\""
 tags:
   [
     "Viaje de Negocios al Extranjero",

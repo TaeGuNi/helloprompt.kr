@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Monde Fait de Points 'Pixel Art' Vibe Rétro"
+title: " \"Monde Fait de Points 'Pixel Art' Vibe Rétro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Des prompts pixel art 8-bit et 16-bit pour raviver la nostalgie des jeux vidéo classiques."
+description: " \"Des prompts pixel art 8-bit et 16-bit pour raviver la nostalgie des jeux vidéo classiques.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Rétro"]
 ---
 

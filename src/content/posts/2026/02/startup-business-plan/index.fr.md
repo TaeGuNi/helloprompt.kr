@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "사업계획서 작성: 예비창업패키지 합격하는 목차 설계"
+title: " \"사업계획서 작성: 예비창업패키지 합격하는 목차 설계\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "정부지원사업 합격의 8할은 목차. PSST(문제-해결-성장-팀) 구조에 맞춰 빈칸만 채우면 되는 AI 프롬프트."
+description: " \"정부지원사업 합격의 8할은 목차. PSST(문제-해결-성장-팀) 구조에 맞춰 빈칸만 채우면 되는 AI 프롬프트.\""
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "「コミットメッセージのおすすめちょっと」悩み解決！Conventional Commits 自動生成"
+title: " \"「コミットメッセージのおすすめちょっと」悩み解決！Conventional Commits 自動生成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "変更内容（git diff）を貼り付けるだけで、世界標準（Conventional Commits）に準拠した綺麗なコミットメッセージを自動生成するプロンプトです。"
+description: " \"変更内容（git diff）を貼り付けるだけで、世界標準（Conventional Commits）に準拠した綺麗なコミットメッセージを自動生成するプロンプトです。\""
 tags: ["Git", "コミットメッセージ", "協業", "生産性"]
 ---
 

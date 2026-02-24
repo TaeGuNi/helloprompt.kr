@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuggi dalla Scrittura Noiosa! Tecniche di Storytelling per Far Leggere le Persone"
+title: " \"Fuggi dalla Scrittura Noiosa! Tecniche di Storytelling per Far Leggere le Persone\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Scrittura"
-description: "Un prompt che trasforma testi noiosi e nozionistici in storie avvincenti che toccano le emozioni dei lettori."
+description: " \"Un prompt che trasforma testi noiosi e nozionistici in storie avvincenti che toccano le emozioni dei lettori.\""
 tags: ["Storytelling", "Scrittura", "Saggio"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Embalagem Minimalista: Viagem Apenas com Bagagem de Mão"
+title: " \"Lista de Embalagem Minimalista: Viagem Apenas com Bagagem de Mão\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem e Cultura"
-description: "Viaje mais leve e aproveite mais. Descubra o método de embalagem inteligente para reduzir o excesso de bagagem e levar apenas o essencial na mala de mão."
+description: " \"Viaje mais leve e aproveite mais. Descubra o método de embalagem inteligente para reduzir o excesso de bagagem e levar apenas o essencial na mala de mão.\""
 tags: ["Embalagem", "Minimalismo", "Bagagem de Mão", "Lista de Embalagem"]
 ---
 

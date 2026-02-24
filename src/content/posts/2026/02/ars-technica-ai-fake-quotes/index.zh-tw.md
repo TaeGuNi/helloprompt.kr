@@ -1,9 +1,9 @@
 ---
-title: "新聞業危機：Ars Technica 因虛假引言撤回報導"
+title: " \"新聞業危機：Ars Technica 因虛假引言撤回報導\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags: ["新聞業", "倫理", "Ars Technica", "虛假引言", "AI幻覺", "Matplotlib"]
-description: "Ars Technica 在發現文章包含歸因於 Matplotlib 維護者的虛假引言後撤回了報導。這起事件凸顯了在新聞業中使用 AI 的危險，本文將為您提供防止 AI 幻覺的專業提示詞 (Prompt)。"
+description: " \"Ars Technica 在發現文章包含歸因於 Matplotlib 維護者的虛假引言後撤回了報導。這起事件凸顯了在新聞業中使用 AI 的危險，本文將為您提供防止 AI 幻覺的專業提示詞 (Prompt)。\""
 lang: "zh-tw"
 ---
 

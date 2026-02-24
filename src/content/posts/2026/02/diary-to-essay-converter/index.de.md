@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Magie, die Tagebuch in Essay verwandelt: Dem gewöhnlichen Alltag Bedeutung geben"
+title: " \"Magie, die Tagebuch in Essay verwandelt: Dem gewöhnlichen Alltag Bedeutung geben\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Vom privaten Tagebucheintrag zum fesselnden Essay, der andere berührt. Eine KI-gestützte Methode, um Ihren Alltag literarisch zu veredeln."
+description: " \"Vom privaten Tagebucheintrag zum fesselnden Essay, der andere berührt. Eine KI-gestützte Methode, um Ihren Alltag literarisch zu veredeln.\""
 tags: ["Schreiben", "Essay", "Tagebuch", "Brunch", "Überarbeitung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Refactoriser le Code Sale en Code Propre en 1 Seconde"
+title: " \"Refactoriser le Code Sale en Code Propre en 1 Seconde\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt IA qui transforme instantanément votre code spaghetti complexe en un code propre, lisible et facile à maintenir."
+description: " \"Un prompt IA qui transforme instantanément votre code spaghetti complexe en un code propre, lisible et facile à maintenir.\""
 tags: ["Refactorisation", "Clean Code", "Maintenance", "Productivité Dév"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stratégie de Sieste Éclair pour la Productivité : Mieux que le Café !"
+title: " \"Stratégie de Sieste Éclair pour la Productivité : Mieux que le Café !\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Ne subissez plus la somnolence post-déjeuner. Découvrez la technique de la 'Sieste Café' pour dormir exactement 20 minutes et vous réveiller en pleine forme."
+description: " \"Ne subissez plus la somnolence post-déjeuner. Découvrez la technique de la 'Sieste Café' pour dormir exactement 20 minutes et vous réveiller en pleine forme.\""
 tags: ["Sieste", "Productivité", "Sommeil", "Sieste Café", "ChatGPT"]
 ---
 

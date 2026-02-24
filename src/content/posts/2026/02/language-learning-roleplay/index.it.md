@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Invece del Costoso Inglese Telefonico, Parlante Nativo IA in Standby 24 Ore"
+title: " \"Invece del Costoso Inglese Telefonico, Parlante Nativo IA in Standby 24 Ore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita"
-description: "Un prompt di gioco di ruolo che ti permette di praticare la conversazione in lingua straniera come nella vita reale con l'IA, impostando situazioni e livelli di difficoltà su misura."
+description: " \"Un prompt di gioco di ruolo che ti permette di praticare la conversazione in lingua straniera come nella vita reale con l'IA, impostando situazioni e livelli di difficoltà su misura.\""
 tags: ["Conversazione Inglese", "Studio Lingue Straniere", "Gioco di Ruolo"]
 ---
 

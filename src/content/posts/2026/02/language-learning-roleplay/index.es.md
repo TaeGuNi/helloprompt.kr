@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "En Lugar de Inglés Telefónico Costoso, Hablante Nativo de IA en Espera las 24 Horas"
+title: " \"En Lugar de Inglés Telefónico Costoso, Hablante Nativo de IA en Espera las 24 Horas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Un prompt de juego de roles que te permite practicar la conversación en un idioma extranjero como en la vida real, configurando la situación y el nivel de dificultad con la IA."
+description: " \"Un prompt de juego de roles que te permite practicar la conversación en un idioma extranjero como en la vida real, configurando la situación y el nivel de dificultad con la IA.\""
 tags:
   ["Conversación en Inglés", "Estudio de Idioma Extranjero", "Juego de Roles"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "AI搜索战争：谷歌 vs OpenAI"
-description: "关于搜索未来的巨头之战已经开始。使用此提示词深入分析对话式AI搜索如何改变您的业务战略。"
+title: " \"AI搜索战争：谷歌 vs OpenAI\""
+description: " \"关于搜索未来的巨头之战已经开始。使用此提示词深入分析对话式AI搜索如何改变您的业务战略。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

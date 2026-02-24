@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ergebniskonferenz 3-Minuten-Zusammenfasser"
+title: " \"Ergebniskonferenz 3-Minuten-Zusammenfasser\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ergebniskonferenzen sind oft lang und auf Englisch schwer zu verstehen. Diese KI fasst die wichtigsten Punkte prägnant zusammen."
+description: " \"Ergebniskonferenzen sind oft lang und auf Englisch schwer zu verstehen. Diese KI fasst die wichtigsten Punkte prägnant zusammen.\""
 tags: ["Aktie", "Ergebniskonferenz", "Ergebnisveröffentlichung", "US-Aktie"]
 ---
 

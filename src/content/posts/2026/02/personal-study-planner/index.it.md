@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevenire la Risoluzione di Tre Giorni: Manager di Apprendimento IA 1:1"
+title: " \"Prevenire la Risoluzione di Tre Giorni: Manager di Apprendimento IA 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MetodoStudio/Auto-Sviluppo"
-description: "Un prompt che crea un piano di studio realistico in base all'obiettivo e al tempo disponibile, assumendosi la responsabilità della tua motivazione."
+description: " \"Un prompt che crea un piano di studio realistico in base all'obiettivo e al tempo disponibile, assumendosi la responsabilità della tua motivazione.\""
 tags: ["PianoStudio", "Pianificatore", "Motivazione", "GestioneTempo"]
 ---
 

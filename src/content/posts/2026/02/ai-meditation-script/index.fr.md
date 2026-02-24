@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "명상 가이드: 내 기분에 맞는 명상 스크립트 생성"
+title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "멘탈 케어"
-description: "Quand le sommeil vous fuit, que la colère monte ou qu'une concentration intense est requise. L'IA rédige et vous lit un guide de méditation audio sur mesure, parfaitement adapté à votre état émotionnel du moment."
+description: " \"Quand le sommeil vous fuit, que la colère monte ou qu'une concentration intense est requise. L'IA rédige et vous lit un guide de méditation audio sur mesure, parfaitement adapté à votre état émotionnel du moment.\""
 tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
 ---
 

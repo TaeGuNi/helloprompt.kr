@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel地獄からの脱出：残業を消し去る魔法のプロンプト"
+title: " \"Excel地獄からの脱出：残業を消し去る魔法のプロンプト\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "生産性向上"
-description: "複雑なExcel関数、VBAマクロ... 実行したい内容を言葉で説明するだけで、AIが完璧なコードを瞬時に生成します。"
+description: " \"複雑なExcel関数、VBAマクロ... 実行したい内容を言葉で説明するだけで、AIが完璧なコードを瞬時に生成します。\""
 tags: ["Excel", "自動化", "VBA", "仕事術"]
 ---
 

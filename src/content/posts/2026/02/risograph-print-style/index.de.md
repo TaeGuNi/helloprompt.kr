@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vintage-Druck-Vibe 'Risograph Print' Stil"
+title: " \"Vintage-Druck-Vibe 'Risograph Print' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Risograph-Druckstil-Prompt, der durch einzigartige Halbtöne, körnige Texturen und charmante Farbversätze besticht."
+description: " \"Ein Risograph-Druckstil-Prompt, der durch einzigartige Halbtöne, körnige Texturen und charmante Farbversätze besticht.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Druck"]
 ---
 

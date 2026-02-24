@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "借助这款AI营养师提示词，清理冰箱剩菜，在忙碌的早晨只需15分钟即可完成健康营养的早餐。"
+description: " \"借助这款AI营养师提示词，清理冰箱剩菜，在忙碌的早晨只需15分钟即可完成健康营养的早餐。\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

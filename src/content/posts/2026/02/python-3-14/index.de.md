@@ -1,15 +1,13 @@
 ---
 date: "2026-02-13"
-description:
-  Entdecken Sie die neuen Funktionen von Python 3.14, einschließlich Verbesserungen
-  am JIT-Compiler und Pattern Matching v3.
+description: "Entdecken Sie die neuen Funktionen von Python 3.14, einschließlich Verbesserungen am JIT-Compiler und Pattern Matching v3."
 image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: "Python 3.14: Ein großer Sprung in Geschwindigkeit und Typsicherheit"
+title: " \"Python 3.14: Ein großer Sprung in Geschwindigkeit und Typsicherheit\""
 ---
 
 # 📝 Python 3.14: Ein großer Sprung in Geschwindigkeit und Typsicherheit

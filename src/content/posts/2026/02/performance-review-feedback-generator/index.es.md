@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comentarios de Evaluación de Personal Que Hacen Crecer Sin Herir"
+title: " \"Comentarios de Evaluación de Personal Que Hacen Crecer Sin Herir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Prompt que alivia el dolor de las revisiones de desempeño y la redacción de comentarios de evaluación."
+description: " \"Prompt que alivia el dolor de las revisiones de desempeño y la redacción de comentarios de evaluación.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

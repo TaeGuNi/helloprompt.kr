@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Checklist Igiene del Sonno IA: Basta Notti Insonni"
+title: " \"Checklist Igiene del Sonno IA: Basta Notti Insonni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "La mia stanza è davvero un ambiente adatto al riposo? L'IA analizza la tua camera da letto e le tue abitudini, offrendoti soluzioni mirate per un sonno profondo."
+description: " \"La mia stanza è davvero un ambiente adatto al riposo? L'IA analizza la tua camera da letto e le tue abitudini, offrendoti soluzioni mirate per un sonno profondo.\""
 tags: ["Sonno", "Insonnia", "Salute", "Igiene del Sonno", "ChatGPT"]
 ---
 

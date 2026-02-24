@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Monde de la Prise de Vue Super Gros Plan Prompt 'Photographie Macro'"
+title: " \"Monde de la Prise de Vue Super Gros Plan Prompt 'Photographie Macro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt de photographie macro pour capturer des détails infimes invisibles à l'œil nu."
+description: " \"Prompt de photographie macro pour capturer des détails infimes invisibles à l'œil nu.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Détails"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "디자인 시스템 구축: 디자이너와 개발자가 안 싸우는 법"
+title: " \"디자인 시스템 구축: 디자이너와 개발자가 안 싸우는 법\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/UX"
-description: "Figma 변수와 CSS 변수를 동기화하는 방법. 토큰(Token) 기반 디자인 시스템 구축 가이드."
+description: " \"Figma 변수와 CSS 변수를 동기화하는 방법. 토큰(Token) 기반 디자인 시스템 구축 가이드.\""
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 ---
 

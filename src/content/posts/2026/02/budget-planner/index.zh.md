@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "防止工资注销: AI 家计簿策划者"
+title: " \"防止工资注销: AI 家计簿策划者\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "只需输入您的薪资与固定支出，即可一键生成最适合您的月度预算规划提示词。"
+description: " \"只需输入您的薪资与固定支出，即可一键生成最适合您的月度预算规划提示词。\""
 tags: ["家计簿", "预算", "节约", "理财"]
 ---
 

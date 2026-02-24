@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Il Gioco Definitivo da Fare a Casa: 'Staffetta di Disegno e Creazione di Storie'"
+title: " \"Il Gioco Definitivo da Fare a Casa: 'Staffetta di Disegno e Creazione di Storie'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Un gioco creativo per inventare storie disegnando situazioni stravaganti suggerite dall'IA."
+description: " \"Un gioco creativo per inventare storie disegnando situazioni stravaganti suggerite dall'IA.\""
 tags:
   [
     "Genitorialità",

@@ -1,6 +1,6 @@
 ---
-title: "L'infrastruttura è l'unica verità"
-description: "Analisi critica sull'infrastruttura dell'IA: perché solo NVIDIA sta realizzando profitti reali."
+title: " \"L'infrastruttura è l'unica verità\""
+description: " \"Analisi critica sull'infrastruttura dell'IA: perché solo NVIDIA sta realizzando profitti reali.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

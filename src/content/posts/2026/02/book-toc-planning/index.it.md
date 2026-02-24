@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Posso Essere Anch'io un Autore? Pianificare un Indice di Libro che Vende"
+title: " \"Posso Essere Anch'io un Autore? Pianificare un Indice di Libro che Vende\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Scrittura"
-description: "Un prompt per la pianificazione di libri e la creazione dell'indice che trasforma il vago sogno di pubblicare in realtà."
+description: " \"Un prompt per la pianificazione di libri e la creazione dell'indice che trasforma il vago sogno di pubblicare in realtà.\""
 tags: ["Scrittura Libri", "Pianificazione Editoriale", "E-book"]
 ---
 

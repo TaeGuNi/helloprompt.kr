@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기"
+title: " \"RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Como treinar o ChatGPT com os regulamentos e manuais da sua empresa que ele desconhece. Construa um pipeline RAG com LangChain e banco de dados vetorial."
+description: " \"Como treinar o ChatGPT com os regulamentos e manuais da sua empresa que ele desconhece. Construa um pipeline RAG com LangChain e banco de dados vetorial.\""
 tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 ---
 

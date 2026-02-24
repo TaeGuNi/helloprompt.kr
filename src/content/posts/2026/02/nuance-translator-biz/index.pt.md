@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tradução Além do Tradutor: Consertando a 'Nuance' (Inglês para Negócios)"
+title: " \"Tradução Além do Tradutor: Consertando a 'Nuance' (Inglês para Negócios)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Idioma/Tradução"
-description: "As palavras estão corretas, mas o e-mail soa rude? Descubra o prompt de IA definitivo para ajustar a polidez, o tom e as nuances ocultas nos seus e-mails corporativos."
+description: " \"As palavras estão corretas, mas o e-mail soa rude? Descubra o prompt de IA definitivo para ajustar a polidez, o tom e as nuances ocultas nos seus e-mails corporativos.\""
 tags: ["Tradução", "Email", "InglêsNegócios", "ChatGPT", "DeepL"]
 ---
 

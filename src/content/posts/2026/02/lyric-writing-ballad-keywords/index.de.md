@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Texter-Debüt? Schreiben emotionaler Balladentexte mit 3 Schlüsselwörtern"
+title: " \"Texter-Debüt? Schreiben emotionaler Balladentexte mit 3 Schlüsselwörtern\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Mit nur 3 Wörtern, die Ihnen in den Sinn kommen, erstellt die KI einen emotionalen Songtext auf professionellem Niveau."
+description: " \"Mit nur 3 Wörtern, die Ihnen in den Sinn kommen, erstellt die KI einen emotionalen Songtext auf professionellem Niveau.\""
 tags: ["Texte", "Textschreiben", "Ballade", "Musik"]
 ---
 

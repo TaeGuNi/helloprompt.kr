@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Am I a Hog? 'Market Rate' Research & Analysis Agent"
+title: " \"Am I a Hog? 'Market Rate' Research & Analysis Agent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Compares and analyzes the average salary range for your role and experience level using real market data, providing objective grounds for your next salary negotiation."
+description: " \"Compares and analyzes the average salary range for your role and experience level using real market data, providing objective grounds for your next salary negotiation.\""
 tags: ["SalaryAnalysis", "MarketRate", "NegotiationGrounds", "CareerManagement"]
 ---
 

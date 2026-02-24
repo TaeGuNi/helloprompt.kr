@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "While the media hypes LG and Samsung robots as world-changers, the engineering reality still struggles with physics. Use this prompt to separate tech hype from actual engineering milestones."
+description: " \"While the media hypes LG and Samsung robots as world-changers, the engineering reality still struggles with physics. Use this prompt to separate tech hype from actual engineering milestones.\""
 image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "Physical AI: Hype vs. Reality"
+title: " \"Physical AI: Hype vs. Reality\""
 ---
 
 # 🤖 Physical AI: Tech Hype vs. Engineering Reality

@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Russian)"
-description: "Использование референсов персонажей навсегда изменит ваш подход к визуальному сторителлингу."
+title: " \"Midjourney Character Consistency (Russian)\""
+description: " \"Использование референсов персонажей навсегда изменит ваш подход к визуальному сторителлингу.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

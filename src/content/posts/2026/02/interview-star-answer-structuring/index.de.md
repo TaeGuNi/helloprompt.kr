@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wenn Interviewantwort abschweift! 'STAR-Technik' Antwortstrukturierungs-Prompt"
+title: " \"Wenn Interviewantwort abschweift! 'STAR-Technik' Antwortstrukturierungs-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Ein strukturierter Prompt basierend auf der STAR-Technik (Situation, Task, Action, Result) für alle, die in Vorstellungsgesprächen dazu neigen, abzuschweifen und den roten Faden zu verlieren."
+description: " \"Ein strukturierter Prompt basierend auf der STAR-Technik (Situation, Task, Action, Result) für alle, die in Vorstellungsgesprächen dazu neigen, abzuschweifen und den roten Faden zu verlieren.\""
 tags: ["STARTechnik", "InterviewAntwort", "Strukturierung", "LogischesSprechen"]
 ---
 

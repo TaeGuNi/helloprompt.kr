@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아침 뉴스 3분 브리핑! AI 뉴스레터"
+title: " \"아침 뉴스 3분 브리핑! AI 뉴스레터\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Your personal AI news anchor that extracts and summarizes only the news you care about."
+description: " \"Your personal AI news anchor that extracts and summarizes only the news you care about.\""
 tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 ---
 

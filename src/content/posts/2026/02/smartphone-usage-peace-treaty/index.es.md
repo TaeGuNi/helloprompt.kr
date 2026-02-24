@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Deja el Smartphone! Haciendo un Tratado de Paz de Tiempo de Pantalla"
+title: " \"¡Deja el Smartphone! Haciendo un Tratado de Paz de Tiempo de Pantalla\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Negocia y establece reglas para que tus hijos apaguen YouTube sin pelear, fomentando su autonomía digital."
+description: " \"Negocia y establece reglas para que tus hijos apaguen YouTube sin pelear, fomentando su autonomía digital.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Arrêtez les Smartphones ! Conclure un Traité de Paix sur le Temps d'Écran"
+title: " \"Arrêtez les Smartphones ! Conclure un Traité de Paix sur le Temps d'Écran\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Fini les crises ! Apprenez à négocier et à établir des règles avec votre enfant pour gérer son temps d'écran sans conflit."
+description: " \"Fini les crises ! Apprenez à négocier et à établir des règles avec votre enfant pour gérer son temps d'écran sans conflit.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "流程一目了然: 历史年表生成器"
+title: " \"流程一目了然: 历史年表生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "人文/历史"
-description: "一键将复杂历史事件的时间顺序与因果关系整理为清晰直观的年表（Timeline）的高效提示词。"
+description: " \"一键将复杂历史事件的时间顺序与因果关系整理为清晰直观的年表（Timeline）的高效提示词。\""
 tags: ["历史整理", "年表", "时间线", "摘要"]
 ---
 

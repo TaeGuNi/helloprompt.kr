@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "상처 주지 않고 성장시키는 인사평가 코멘트"
+title: " \"상처 주지 않고 성장시키는 인사평가 코멘트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.172Z"
 category: "업무 자동화"
-description: "상처 없이 팀원을 성장시키는 완벽한 인사평가 및 피드백 작성 프롬프트입니다."
+description: " \"상처 없이 팀원을 성장시키는 완벽한 인사평가 및 피드백 작성 프롬프트입니다.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTubeチャンネル名＆ニックネーム推薦(YouTube Channel Naming)"
+title: " \"YouTubeチャンネル名＆ニックネーム推薦(YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "創作及び趣味"
-description: "登録者を引き寄せる魅力的なチャンネル名！AIがアルゴリズムに愛される、センス溢れる名前を提案します。"
+description: " \"登録者を引き寄せる魅力的なチャンネル名！AIがアルゴリズムに愛される、センス溢れる名前を提案します。\""
 tags:
   ["ユーチューブ", "チャンネル名", "ニックネーム", "クリエイター", "ネーミング"]
 ---

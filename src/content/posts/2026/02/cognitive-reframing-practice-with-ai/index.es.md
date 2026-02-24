@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Práctica de Reencuadre Cognitivo con IA: Detén los Pensamientos Negativos"
+title: " \"Práctica de Reencuadre Cognitivo con IA: Detén los Pensamientos Negativos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Descubre cómo la IA puede ayudarte a reestructurar pensamientos negativos (TCC) transformando el 'todo está perdido' en una perspectiva constructiva y realista."
+description: " \"Descubre cómo la IA puede ayudarte a reestructurar pensamientos negativos (TCC) transformando el 'todo está perdido' en una perspectiva constructiva y realista.\""
 tags: ["Cuidado Mental", "TCC", "Reencuadre", "Autoafirmación", "ChatGPT"]
 ---
 

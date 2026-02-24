@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 逃离依赖地狱！AI 包冲突解决专家 (Dependency Resolver)
+title: "逃离依赖地狱！AI 包冲突解决专家 (Dependency Resolver)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: 害怕 npm install 报错？让 AI 为你分析 package.json 冲突原因并提供解决方案，轻松搞定 Peer Dependency 问题。
+description: "害怕 npm install 报错？让 AI 为你分析 package.json 冲突原因并提供解决方案，轻松搞定 Peer Dependency 问题。"
 tags: [AI, Node.js, npm, Debugging]
 ---
 

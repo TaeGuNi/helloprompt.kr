@@ -1,6 +1,6 @@
 ---
-title: "마이크로 프론트엔드 아키텍처: 프론트엔드 개발의 확장"
-description: "2026년 대규모 웹 앱 개발 방식을 변화시키고 있는 마이크로 프론트엔드에 대한 심층 분석."
+title: " \"마이크로 프론트엔드 아키텍처: 프론트엔드 개발의 확장\""
+description: " \"2026년 대규모 웹 앱 개발 방식을 변화시키고 있는 마이크로 프론트엔드에 대한 심층 분석.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

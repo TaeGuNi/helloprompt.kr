@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "이메일 홍수 탈출: AI 메일 분류 및 초안 작성기"
+title: " \"이메일 홍수 탈출: AI 메일 분류 및 초안 작성기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "The ultimate guide to categorizing piled-up emails in a single second and generating reply drafts automatically using AI."
+description: " \"The ultimate guide to categorizing piled-up emails in a single second and generating reply drafts automatically using AI.\""
 tags: ["Email", "Automation", "ChatGPT", "Business"]
 ---
 

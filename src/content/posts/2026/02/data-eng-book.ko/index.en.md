@@ -1,6 +1,6 @@
 ---
-title: "리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)"
-description: "A practical prompt guide for designing scalable data pipelines using the core principles of the open-source Data Engineering Book."
+title: " \"리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)\""
+description: " \"A practical prompt guide for designing scalable data pipelines using the core principles of the open-source Data Engineering Book.\""
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

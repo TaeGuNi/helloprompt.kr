@@ -3,9 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description:
-  Exploring the powerful reasoning capabilities and Deep Think features
-  of Google's latest AI model, Gemini 3.
+description: "Exploring the powerful reasoning capabilities and Deep Think features of Google's latest AI model, Gemini 3."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: A New Horizon for Deep Think"
+title: " \"Google Gemini 3: A New Horizon for Deep Think\""
 ---
 
 # 📝 Google Gemini 3: A New Horizon for Deep Think

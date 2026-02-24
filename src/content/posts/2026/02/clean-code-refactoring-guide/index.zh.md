@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "肮脏代码，1 秒重构为整洁代码"
+title: " \"肮脏代码，1 秒重构为整洁代码\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "将复杂的意大利面条代码转换为易读且易于维护的整洁代码的提示词。"
+description: " \"将复杂的意大利面条代码转换为易读且易于维护的整洁代码的提示词。\""
 tags: ["重构", "整洁代码", "维护", "开发生产力"]
 ---
 

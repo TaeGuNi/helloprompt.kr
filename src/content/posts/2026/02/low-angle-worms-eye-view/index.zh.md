@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "增添宏伟感的 'Low Angle' (Worm's Eye View)"
+title: " \"增添宏伟感的 'Low Angle' (Worm's Eye View)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "通过自下而上的仰视视角，为拍摄主体赋予压倒性威严与巨大感的核心低角度提示词。"
+description: " \"通过自下而上的仰视视角，为拍摄主体赋予压倒性威严与巨大感的核心低角度提示词。\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 ---

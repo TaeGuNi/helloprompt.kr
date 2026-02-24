@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "L'IA riassume i dettagli che ti sei perso durante la riunione"
+title: " \"L'IA riassume i dettagli che ti sei perso durante la riunione\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Automazione Lavoro"
-description: "Non chiedere mai più 'Di cosa abbiamo discusso?' a fine meeting. Trasforma qualsiasi registrazione audio in un verbale perfetto e pronto all'uso in meno di 1 minuto."
+description: " \"Non chiedere mai più 'Di cosa abbiamo discusso?' a fine meeting. Trasforma qualsiasi registrazione audio in un verbale perfetto e pronto all'uso in meno di 1 minuto.\""
 tags: ["Riunione", "Riassunto", "Produttività"]
 ---
 

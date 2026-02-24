@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "製品写真の定石「Studio Lighting」プロンプト"
+title: " \"製品写真の定石「Studio Lighting」プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "すっきりと洗練されたプロ仕様の製品写真やプロフィール画像が必要なら、AIにスタジオ照明をセッティングさせましょう。"
+description: " \"すっきりと洗練されたプロ仕様の製品写真やプロフィール画像が必要なら、AIにスタジオ照明をセッティングさせましょう。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 

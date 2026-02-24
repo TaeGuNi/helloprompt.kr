@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (ja)"
-description: "AIエージェント2.0「協調型スウォーム（群能）」の実践的な分析と導入ガイド。複数のAIエージェントを連携させて業務効率を劇的に向上させる方法を解説します。"
+title: " \"AI Agents 2.0: Collaborative Swarms (ja)\""
+description: " \"AIエージェント2.0「協調型スウォーム（群能）」の実践的な分析と導入ガイド。複数のAIエージェントを連携させて業務効率を劇的に向上させる方法を解説します。\""
 date: "2026-02-14"
 ---
 

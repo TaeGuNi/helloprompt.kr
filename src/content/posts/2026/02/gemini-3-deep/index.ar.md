@@ -3,9 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description:
-  استكشاف قدرات الاستدلال القوية وميزات التفكير العميق (Deep Think) في
-  أحدث نموذج ذكاء اصطناعي من Google، Gemini 3.
+description: "استكشاف قدرات الاستدلال القوية وميزات التفكير العميق (Deep Think) في أحدث نموذج ذكاء اصطناعي من Google، Gemini 3."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: أفق جديد للتفكير العميق (Deep Think)"
+title: " \"Google Gemini 3: أفق جديد للتفكير العميق (Deep Think)\""
 ---
 
 # 📝 Google Gemini 3: أفق جديد للتفكير العميق (Deep Think)

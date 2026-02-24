@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "像当地人一样吃！AI 本地美食店导航"
+title: " \"像当地人一样吃！AI 本地美食店导航\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "告别专供游客的网红餐厅，用 AI 挖掘当地人排队的真正隐藏美食。"
+description: " \"告别专供游客的网红餐厅，用 AI 挖掘当地人排队的真正隐藏美食。\""
 tags: ["旅行", "美食店", "吃播", "当地人美食店"]
 ---
 

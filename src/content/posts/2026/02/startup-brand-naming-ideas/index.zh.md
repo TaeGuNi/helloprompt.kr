@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "初创企业/品牌命名: 制作记忆深刻的名字"
+title: " \"初创企业/品牌命名: 制作记忆深刻的名字\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "决定企业命运的品牌命名！让 AI 成为你的专属文案大脑，快速生成易记且富有内涵的品牌创意。"
+description: " \"决定企业命运的品牌命名！让 AI 成为你的专属文案大脑，快速生成易记且富有内涵的品牌创意。\""
 tags: ["命名", "品牌", "初创企业", "营销", "创意"]
 ---
 

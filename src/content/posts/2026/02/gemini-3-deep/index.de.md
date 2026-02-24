@@ -3,9 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description:
-  Erkundung der leistungsstarken Argumentationsfähigkeiten und Deep Think-Funktionen
-  von Googles neuestem KI-Modell, Gemini 3.
+description: "Erkundung der leistungsstarken Argumentationsfähigkeiten und Deep Think-Funktionen von Googles neuestem KI-Modell, Gemini 3."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: Ein neuer Horizont für Deep Think"
+title: " \"Google Gemini 3: Ein neuer Horizont für Deep Think\""
 ---
 
 # 📝 Google Gemini 3: Ein neuer Horizont für Deep Think

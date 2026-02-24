@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "跳进历史: 历史事件模拟器"
+title: " \"跳进历史: 历史事件模拟器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "人文/历史"
-description: "如果我是历史事件的中心人物？像文字冒险游戏一样，通过选择来亲历历史的沉浸式提示词。"
+description: " \"如果我是历史事件的中心人物？像文字冒险游戏一样，通过选择来亲历历史的沉浸式提示词。\""
 tags: ["历史学习", "游戏化", "模拟", "替代历史"]
 ---
 

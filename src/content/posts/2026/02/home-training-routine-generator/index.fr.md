@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Routine d'Entraînement à Domicile IA pour Être en Forme Sans Aller à la Salle"
+title: " \"Générateur de Routine d'Entraînement à Domicile IA pour Être en Forme Sans Aller à la Salle\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Concevez une routine d'entraînement à domicile sur mesure, parfaitement adaptée à votre condition physique et au matériel dont vous disposez."
+description: " \"Concevez une routine d'entraînement à domicile sur mesure, parfaitement adaptée à votre condition physique et au matériel dont vous disposez.\""
 tags: ["Entraînement à Domicile", "Exercice", "Fitness", "Routine"]
 ---
 

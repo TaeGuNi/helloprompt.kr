@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tabelas e Gráficos Falam: Tutor de Interpretação de Dados"
+title: " \"Tabelas e Gráficos Falam: Tutor de Interpretação de Dados\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemática/Ciência"
-description: "Prompt que extrai insights chave de gráficos ou tabelas complexos e encontra armadilhas ocultas."
+description: " \"Prompt que extrai insights chave de gráficos ou tabelas complexos e encontra armadilhas ocultas.\""
 tags:
   ["AnáliseDados", "Estatística", "InterpretaçãoGráficos", "HabilidadeTrabalho"]
 ---

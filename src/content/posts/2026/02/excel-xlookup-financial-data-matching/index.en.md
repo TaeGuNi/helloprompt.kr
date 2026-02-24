@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Forget Excel VLOOKUP: God of Financial Data Matching, XLOOKUP"
+title: " \"Forget Excel VLOOKUP: God of Financial Data Matching, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Working overtime due to the error-prone and restrictive VLOOKUP function? Switch to the more powerful and flexible XLOOKUP."
+description: " \"Working overtime due to the error-prone and restrictive VLOOKUP function? Switch to the more powerful and flexible XLOOKUP.\""
 tags: ["Excel", "Function", "XLOOKUP", "DataCleaning"]
 ---
 

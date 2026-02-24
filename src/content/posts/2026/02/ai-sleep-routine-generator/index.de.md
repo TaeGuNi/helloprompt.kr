@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Schlafroutine-Generator: Dem Gehirn beibringen, dass es Zeit zum Schlafen ist"
+title: " \"KI-Schlafroutine-Generator: Dem Gehirn beibringen, dass es Zeit zum Schlafen ist\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Entwerfen Sie eine magische Routine, die Sie allein durch bestimmte Handlungen schläfrig macht, wie den Pawlowschen Hund."
+description: " \"Entwerfen Sie eine magische Routine, die Sie allein durch bestimmte Handlungen schläfrig macht, wie den Pawlowschen Hund.\""
 tags:
   ["Schlafroutine", "Schlaflosigkeit", "Gewohnheit", "Gesundheit", "ChatGPT"]
 ---

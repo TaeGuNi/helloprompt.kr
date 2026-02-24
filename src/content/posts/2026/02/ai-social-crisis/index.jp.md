@@ -1,6 +1,6 @@
 ---
-title: "ソーシャルAIの危機"
-description: "AIによる代替が現実の人間関係を破壊している問題（ソーシャルAIの危機）についての批判的分析。"
+title: " \"ソーシャルAIの危機\""
+description: " \"AIによる代替が現実の人間関係を破壊している問題（ソーシャルAIの危機）についての批判的分析。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

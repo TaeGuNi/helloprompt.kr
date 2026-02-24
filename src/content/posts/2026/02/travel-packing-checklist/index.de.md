@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nicht sicher, was Sie einpacken sollen? KI Smart Packing nach Reiseziel"
+title: " \"Nicht sicher, was Sie einpacken sollen? KI Smart Packing nach Reiseziel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Erstellen Sie mit KI eine makellose Packliste, die perfekt auf das lokale Wetter, die Kultur und Ihre geplanten Aktivitäten abgestimmt ist."
+description: " \"Erstellen Sie mit KI eine makellose Packliste, die perfekt auf das lokale Wetter, die Kultur und Ihre geplanten Aktivitäten abgestimmt ist.\""
 tags: ["Reisen", "Packen", "Checkliste", "Vorbereitung"]
 ---
 

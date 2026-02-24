@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn Personal Branding Post-Generator: Tägliche Arbeit in Erkenntnisse verwandeln"
+title: " \"LinkedIn Personal Branding Post-Generator: Tägliche Arbeit in Erkenntnisse verwandeln\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Verwandeln Sie tägliche Arbeitserfahrungen und kleine Misserfolge in fesselnde LinkedIn-Beiträge und bauen Sie mühelos Ihre Personal Brand auf."
+description: " \"Verwandeln Sie tägliche Arbeitserfahrungen und kleine Misserfolge in fesselnde LinkedIn-Beiträge und bauen Sie mühelos Ihre Personal Brand auf.\""
 tags: ["Personal Branding", "Schreiben", "LinkedIn", "Content Marketing"]
 ---
 

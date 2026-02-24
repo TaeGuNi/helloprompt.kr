@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kunstgalerie-Führer für Anfänger: Genießen ohne zu wissen"
+title: " \"Kunstgalerie-Führer für Anfänger: Genießen ohne zu wissen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Ist moderne Kunst zu abstrakt oder schwer verständlich? Dieser Prompt für Anfänger senkt die Hemmschwelle und hilft Ihnen, Kunst in Galerien intuitiv zu genießen."
+description: " \"Ist moderne Kunst zu abstrakt oder schwer verständlich? Dieser Prompt für Anfänger senkt die Hemmschwelle und hilft Ihnen, Kunst in Galerien intuitiv zu genießen.\""
 tags: ["Kunstmuseum", "Galerie", "Kunstbetrachtung", "Geschmack finden"]
 ---
 

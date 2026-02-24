@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "End the School Run War! Self-Doing Morning Routine Checklist"
+title: " \"End the School Run War! Self-Doing Morning Routine Checklist\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Learn how to help your child get ready on their own without shouting every morning."
+description: " \"Learn how to help your child get ready on their own without shouting every morning.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

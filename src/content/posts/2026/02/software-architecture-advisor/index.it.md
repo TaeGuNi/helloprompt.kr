@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Basta Codice Spaghetti! Raccomandazione Architettura Perfetta per il Mio Progetto"
+title: " \"Basta Codice Spaghetti! Raccomandazione Architettura Perfetta per il Mio Progetto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt per progettare l'architettura software ottimale (MVC, Clean Architecture, MSA) fornendo semplicemente le dimensioni e i requisiti del tuo progetto."
+description: " \"Un prompt per progettare l'architettura software ottimale (MVC, Clean Architecture, MSA) fornendo semplicemente le dimensioni e i requisiti del tuo progetto.\""
 tags:
   ["Architettura", "Design", "Design Pattern", "Progettazione Sistema", "MSA"]
 ---

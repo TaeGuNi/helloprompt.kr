@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Parlare Come un Protagonista di un Dramma: Distributore Automatico di Idiomi & Slang"
+title: " \"Parlare Come un Protagonista di un Dramma: Distributore Automatico di Idiomi & Slang\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Un prompt infallibile per scoprire espressioni autentiche, slang di tendenza e modi di dire che non troverai mai nei classici libri di testo."
+description: " \"Un prompt infallibile per scoprire espressioni autentiche, slang di tendenza e modi di dire che non troverai mai nei classici libri di testo.\""
 tags: ["ConversazioneInglese", "Slang", "Idiom", "IngleseDrammaAmericano"]
 ---
 

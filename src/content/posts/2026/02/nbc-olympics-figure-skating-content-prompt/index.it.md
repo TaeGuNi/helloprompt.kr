@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Trend del Pattinaggio di Figura alle Olimpiadi NBC: Scrivere Contenuti Sportivi Virali in 1 Minuto"
+title: " \"Trend del Pattinaggio di Figura alle Olimpiadi NBC: Scrivere Contenuti Sportivi Virali in 1 Minuto\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Creazione di Contenuti"
-description: "Un prompt per generare con l'IA, in un solo minuto, recensioni vivaci e contenuti virali sullo stile delle telecronache NBC per il pattinaggio di figura alle Olimpiadi."
+description: " \"Un prompt per generare con l'IA, in un solo minuto, recensioni vivaci e contenuti virali sullo stile delle telecronache NBC per il pattinaggio di figura alle Olimpiadi.\""
 tags:
   [
     "nbc olympics figure skating",

@@ -1,7 +1,7 @@
 ---
-title: "Rust for Web Development: A 2026 Perspective"
+title: " \"Rust for Web Development: A 2026 Perspective\""
 date: 2026-02-13
-description: "Why Rust is becoming the dominant choice for high-performance web services in 2026."
+description: " \"Why Rust is becoming the dominant choice for high-performance web services in 2026.\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

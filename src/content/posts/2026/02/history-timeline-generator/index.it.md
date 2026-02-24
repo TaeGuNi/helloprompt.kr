@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flusso a colpo d'occhio: Generatore di Cronologia Storica"
+title: " \"Flusso a colpo d'occhio: Generatore di Cronologia Storica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "Un prompt che organizza l'ordine e le relazioni causali di eventi complessi in una cronologia chiara e ordinata."
+description: " \"Un prompt che organizza l'ordine e le relazioni causali di eventi complessi in una cronologia chiara e ordinata.\""
 tags: ["RiassuntoStoria", "Cronologia", "LineaTemporale", "Riassunto"]
 ---
 

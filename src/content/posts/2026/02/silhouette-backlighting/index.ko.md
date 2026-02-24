@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "강렬한 실루엣 'Backlighting' 역광 활용법"
+title: " \"강렬한 실루엣 'Backlighting' 역광 활용법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.135Z"
 updatedDate: "2026-02-07T09:10:33.136Z"
 category: "이미지 생성"
-description: "피사체의 디테일을 지우고 형태미와 분위기를 극대화하는 역광(Silhouette) 프롬프트 엔지니어링 기법입니다."
+description: " \"피사체의 디테일을 지우고 형태미와 분위기를 극대화하는 역광(Silhouette) 프롬프트 엔지니어링 기법입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

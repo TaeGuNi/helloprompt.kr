@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Goldener Schnitt des Geldmanagements: 50/30/20-Regel-Rechner"
+title: " \"Goldener Schnitt des Geldmanagements: 50/30/20-Regel-Rechner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Die Anwendung der einfachsten und effektivsten Budgetmanagement-Regel, bekannt gemacht durch die US-Senatorin Elizabeth Warren."
+description: " \"Die Anwendung der einfachsten und effektivsten Budgetmanagement-Regel, bekannt gemacht durch die US-Senatorin Elizabeth Warren.\""
 tags: ["Budgetmanagement", "Finanzen", "503020", "Ersparnisse"]
 ---
 

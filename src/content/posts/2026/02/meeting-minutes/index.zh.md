@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "无需费力记录会议纪要，AI 帮您整理"
+title: " \"无需费力记录会议纪要，AI 帮您整理\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "工作自动化"
-description: "开完会还在苦苦回忆“刚才老板说了啥”？只要有录音，AI 1分钟为您生成包含核心决策与待办清单的完美会议纪要。"
+description: " \"开完会还在苦苦回忆“刚才老板说了啥”？只要有录音，AI 1分钟为您生成包含核心决策与待办清单的完美会议纪要。\""
 tags: ["会议", "摘要", "生产力"]
 ---
 

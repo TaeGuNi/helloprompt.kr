@@ -1,13 +1,13 @@
 ---
 date: "2026-02-13"
-description: JIT 컴파일러 개선, 패턴 매칭 v3 등 Python 3.14의 새로운 기능을 살펴봅니다.
+description: "JIT 컴파일러 개선, 패턴 매칭 v3 등 Python 3.14의 새로운 기능을 살펴봅니다."
 heroImage: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: "Python 3.14: 속도와 타입 안전성의 새로운 도약"
+title: " \"Python 3.14: 속도와 타입 안전성의 새로운 도약\""
 ---
 
 # 📝 Python 3.14: 속도와 타입 안전성의 새로운 도약

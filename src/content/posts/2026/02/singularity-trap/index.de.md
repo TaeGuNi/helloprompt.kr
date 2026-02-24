@@ -1,6 +1,6 @@
 ---
-title: "Die Singularitätsfalle"
-description: "Kritische Analyse der Singularitätsfalle: Die Singularität ist ein Marketing-Mythos, um GPUs zu verkaufen."
+title: " \"Die Singularitätsfalle\""
+description: " \"Kritische Analyse der Singularitätsfalle: Die Singularität ist ein Marketing-Mythos, um GPUs zu verkaufen.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

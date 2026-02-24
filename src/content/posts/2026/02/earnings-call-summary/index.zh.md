@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "业绩发表电话会议 3 分钟总结器"
+title: " \"业绩发表电话会议 3 分钟总结器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "财报电话会议（Earnings Call）冗长且全英文难以理解？让 AI 为您在 3 分钟内提取核心内容与隐藏风险。"
+description: " \"财报电话会议（Earnings Call）冗长且全英文难以理解？让 AI 为您在 3 分钟内提取核心内容与隐藏风险。\""
 tags: ["股票", "财报电话会议", "业绩发表", "美股"]
 ---
 

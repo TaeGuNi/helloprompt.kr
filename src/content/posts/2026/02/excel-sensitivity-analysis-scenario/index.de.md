@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Sensitivitätsanalyse: Perfekte Vorbereitung für 'Was wäre wenn' Szenarien"
+title: " \"Excel Sensitivitätsanalyse: Perfekte Vorbereitung für 'Was wäre wenn' Szenarien\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Wie stark sinkt der Gewinn, wenn der Wechselkurs um 10% steigt? Berechnen Sie Dutzende von Szenarien gleichzeitig mit der Excel-Datentabellen-Funktion."
+description: " \"Wie stark sinkt der Gewinn, wenn der Wechselkurs um 10% steigt? Berechnen Sie Dutzende von Szenarien gleichzeitig mit der Excel-Datentabellen-Funktion.\""
 tags: ["Excel", "Sensitivitätsanalyse", "Szenario", "Datentabelle"]
 ---
 

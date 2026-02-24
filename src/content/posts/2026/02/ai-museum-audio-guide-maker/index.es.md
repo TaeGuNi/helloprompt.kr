@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creador de Audioguías de Museos con IA: Curador en Mi Mano"
+title: " \"Creador de Audioguías de Museos con IA: Curador en Mi Mano\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Cómo ahorrar 10 euros en el alquiler de audioguías. Solo con una foto de la obra, la IA te la explicará como un experto."
+description: " \"Cómo ahorrar 10 euros en el alquiler de audioguías. Solo con una foto de la obra, la IA te la explicará como un experto.\""
 tags:
   ["Museo", "Galería de Arte", "Audioguía", "Docente", "Apreciación del Arte"]
 ---

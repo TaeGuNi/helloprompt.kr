@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AutoGen 입문: AI 에이전트끼리 대화하게 만들기"
+title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "MS가 만든 멀티 에이전트 프레임워크 AutoGen. 개발자 봇과 관리자 봇이 서로 피드백을 주고받으며 코드를 완성하는 자동화 협업 구축 가이드입니다."
+description: " \"MS가 만든 멀티 에이전트 프레임워크 AutoGen. 개발자 봇과 관리자 봇이 서로 피드백을 주고받으며 코드를 완성하는 자동화 협업 구축 가이드입니다.\""
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 

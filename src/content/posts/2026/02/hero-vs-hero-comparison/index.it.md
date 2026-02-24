@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Eroe vs Eroe: Analisi Comparativa dei Rivali del Secolo"
+title: " \"Eroe vs Eroe: Analisi Comparativa dei Rivali del Secolo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "Un prompt per confrontare grandi figure storiche di epoche e nazioni diverse, analizzandone similitudini, differenze e stili di leadership."
+description: " \"Un prompt per confrontare grandi figure storiche di epoche e nazioni diverse, analizzandone similitudini, differenze e stili di leadership.\""
 tags: ["Storia", "AnalisiPersona", "CulturaComparata", "Prompt"]
 ---
 

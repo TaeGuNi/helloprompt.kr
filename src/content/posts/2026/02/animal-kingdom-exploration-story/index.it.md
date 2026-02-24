@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esplorazione del Regno Animale: Una Storia per Diventare Amici della Natura"
+title: " \"Esplorazione del Regno Animale: Una Storia per Diventare Amici della Natura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Avventure di amici animali che uniscono in modo magico la conoscenza ecologica all'immaginazione dei bambini."
+description: " \"Avventure di amici animali che uniscono in modo magico la conoscenza ecologica all'immaginazione dei bambini.\""
 tags:
   [
     "Genitorialità",

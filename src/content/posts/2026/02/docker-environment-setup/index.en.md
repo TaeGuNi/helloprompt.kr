@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Docker Environment Setup, 3 Minutes with One Config File"
+title: " \"Docker Environment Setup, 3 Minutes with One Config File\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A prompt that automatically generates an optimized Dockerfile and docker-compose.yml to containerize your application's execution environment."
+description: " \"A prompt that automatically generates an optimized Dockerfile and docker-compose.yml to containerize your application's execution environment.\""
 tags: ["Docker", "Container", "Deployment", "DevOps"]
 ---
 

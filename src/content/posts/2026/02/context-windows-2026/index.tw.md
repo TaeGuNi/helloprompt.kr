@@ -1,6 +1,6 @@
 ---
-title: "2026年的上下文窗口：無限可能的時代"
-description: "2026年，AI模型的上下文窗口已突破1000萬個Token。這對RAG與提示詞工程帶來了哪些革命性的改變？"
+title: " \"2026年的上下文窗口：無限可能的時代\""
+description: " \"2026年，AI模型的上下文窗口已突破1000萬個Token。這對RAG與提示詞工程帶來了哪些革命性的改變？\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Context Window", "LLM", "2026"]

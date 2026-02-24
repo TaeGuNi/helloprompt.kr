@@ -1,6 +1,6 @@
 ---
-title: "Prompting Multimodal : Au-delà du Texte"
-description: "En 2026, l'ingénierie des prompts ne se limite plus au texte. Explorez l'univers du prompting multimodal combinant image, audio et vidéo."
+title: " \"Prompting Multimodal : Au-delà du Texte\""
+description: " \"En 2026, l'ingénierie des prompts ne se limite plus au texte. Explorez l'univers du prompting multimodal combinant image, audio et vidéo.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Obsidian 생산성 셋업: 제2의 뇌 만들기 (Second Brain)"
+title: " \"Obsidian 생산성 셋업: 제2의 뇌 만들기 (Second Brain)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "생산성 도구"
-description: "Il tuo Notion è diventato lento? Ecco la guida perfetta per passare a Obsidian: locale, basato su Markdown e con connessioni infinite per il tuo Secondo Cervello."
+description: " \"Il tuo Notion è diventato lento? Ecco la guida perfetta per passare a Obsidian: locale, basato su Markdown e con connessioni infinite per il tuo Secondo Cervello.\""
 tags: ["Obsidian", "옵시디언", "생산성", "제2의뇌", "노트앱"]
 ---
 

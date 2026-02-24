@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "翻译器之外的翻译：DeepL也做不到的“语气”矫正 (商务英语)"
+title: " \"翻译器之外的翻译：DeepL也做不到的“语气”矫正 (商务英语)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "外语/翻译"
-description: "单词都对，但听起来却很生硬？这是一份连商务邮件的格式、语气和潜台词都能精准拿捏的AI提示词指南。"
+description: " \"单词都对，但听起来却很生硬？这是一份连商务邮件的格式、语气和潜台词都能精准拿捏的AI提示词指南。\""
 tags: ["翻译", "英语邮件", "商务英语", "ChatGPT", "DeepL"]
 ---
 

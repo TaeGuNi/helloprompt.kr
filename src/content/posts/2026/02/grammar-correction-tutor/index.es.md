@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Por Qué Está Mal Mi Gramática? Profesor de Corrección 1:1"
+title: " \"¿Por Qué Está Mal Mi Gramática? Profesor de Corrección 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizaje de Idiomas Extranjeros"
-description: "Un prompt de tutor de IA que no solo corrige tus textos, sino que te explica detalladamente el 'porqué' de cada error para que no vuelvas a cometerlo."
+description: " \"Un prompt de tutor de IA que no solo corrige tus textos, sino que te explica detalladamente el 'porqué' de cada error para que no vuelvas a cometerlo.\""
 tags:
   ["GramáticaInglesa", "CorrecciónDeEscritura", "Prompt", "EscrituraDeCorreo"]
 ---

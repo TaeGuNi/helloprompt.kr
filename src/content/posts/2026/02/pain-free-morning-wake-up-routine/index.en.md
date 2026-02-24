@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pain-Free Morning Wake-Up Routine: Operation Wake Up"
+title: " \"Pain-Free Morning Wake-Up Routine: Operation Wake Up\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Do you wake up like a zombie every morning shouting 'just 5 more minutes'? Try this miracle morning routine designed by AI."
+description: " \"Do you wake up like a zombie every morning shouting 'just 5 more minutes'? Try this miracle morning routine designed by AI.\""
 tags: ["Wake Up", "Miracle Morning", "Habit", "Sleep", "ChatGPT"]
 ---
 

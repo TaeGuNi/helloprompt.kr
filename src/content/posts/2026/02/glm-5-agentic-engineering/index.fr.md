@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로"
+title: " \"GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 트렌드"
-description: "Zhipu AI a dévoilé le GLM-5. Au-delà de la simple assistance au codage, il ouvre l'ère de l'ingénierie agentique."
+description: " \"Zhipu AI a dévoilé le GLM-5. Au-delà de la simple assistance au codage, il ouvre l'ère de l'ingénierie agentique.\""
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---
 

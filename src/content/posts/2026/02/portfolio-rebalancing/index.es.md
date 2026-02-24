@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reequilibrio de Cartera con IA: Encontrando la Proporción Dorada"
+title: " \"Reequilibrio de Cartera con IA: Encontrando la Proporción Dorada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Prompt para analizar la asignación de activos de tu cartera y calcular la proporción óptima de reequilibrio paso a paso."
+description: " \"Prompt para analizar la asignación de activos de tu cartera y calcular la proporción óptima de reequilibrio paso a paso.\""
 tags: ["Inversión", "AsignaciónActivos", "Reequilibrio", "Cartera"]
 ---
 

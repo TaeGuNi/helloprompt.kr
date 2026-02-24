@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "婚礼预算 Excel：拒绝隐形消费炸弹的终极检查清单"
+title: " \"婚礼预算 Excel：拒绝隐形消费炸弹的终极检查清单\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "全面预测并节省备婚过程中产生的所有费用，从婚纱摄影、场地到各项隐形消费，拒绝婚礼预算超支。"
+description: " \"全面预测并节省备婚过程中产生的所有费用，从婚纱摄影、场地到各项隐形消费，拒绝婚礼预算超支。\""
 tags: ["结婚", "预算", "婚礼", "新婚夫妇"]
 ---
 

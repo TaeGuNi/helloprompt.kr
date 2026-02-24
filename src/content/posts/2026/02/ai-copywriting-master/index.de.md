@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기"
+title: " \"카피라이팅(Copywriting): GPT로 1초 만에 '클릭 부르는 제목' 뽑기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "상세페이지, 블로그, 이메일 제목 작성에 시간 낭비하지 마세요. AI 카피라이터를 활용해 1초 만에 클릭을 부르는 매력적인 헤드카피를 뽑아내는 실전 프롬프트를 공개합니다."
+description: " \"상세페이지, 블로그, 이메일 제목 작성에 시간 낭비하지 마세요. AI 카피라이터를 활용해 1초 만에 클릭을 부르는 매력적인 헤드카피를 뽑아내는 실전 프롬프트를 공개합니다.\""
 tags: ["카피라이팅", "마케팅", "글쓰기", "ChatGPT", "세일즈"]
 ---
 

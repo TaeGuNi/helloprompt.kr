@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analizzare Feedback Clienti Prolisso, Positivo/Negativo"
+title: " \"Analizzare Feedback Clienti Prolisso, Positivo/Negativo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Centinaia di recensioni clienti? Analizza il sentiment e organizzale in un attimo."
+description: " \"Centinaia di recensioni clienti? Analizza il sentiment e organizzale in un attimo.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

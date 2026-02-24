@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기"
+title: " \"유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 크리에이팅"
-description: "OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본 하나로 블로그, 인스타그램, 트위터용 콘텐츠를 무한 복제하는 자동화 파이프라인을 구축하세요."
+description: " \"OSMU(One Source Multi Use)의 끝판왕. 유튜브 대본 하나로 블로그, 인스타그램, 트위터용 콘텐츠를 무한 복제하는 자동화 파이프라인을 구축하세요.\""
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SQL 查询优化，在 DB 尖叫之前"
+title: " \"SQL 查询优化，在 DB 尖叫之前\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "开发"
-description: "分析缓慢复杂的 SQL 查询，优化性能并提供索引建议的提示词。"
+description: " \"分析缓慢复杂的 SQL 查询，优化性能并提供索引建议的提示词。\""
 tags: ["SQL", "DB调优", "后端"]
 ---
 

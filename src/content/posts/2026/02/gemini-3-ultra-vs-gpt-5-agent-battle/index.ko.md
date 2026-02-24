@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Ultra vs GPT-5: 2026년 에이전트 개발, 승자는 누구인가?"
+title: " \"Gemini 3 Ultra vs GPT-5: 2026년 에이전트 개발, 승자는 누구인가?\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trend"
-description: "드디어 공개된 GPT-5와 Gemini 3 Ultra. 에이전트 개발자 입장에서 두 모델의 코딩 능력, 추론 성능, 그리고 가성비를 철저하게 비교 분석했습니다."
+description: " \"드디어 공개된 GPT-5와 Gemini 3 Ultra. 에이전트 개발자 입장에서 두 모델의 코딩 능력, 추론 성능, 그리고 가성비를 철저하게 비교 분석했습니다.\""
 tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Samsung Galaxy S26 vs Apple iPhone 17: Análisis profundo de la IA en el dispositivo"
-description: "¿Quién gana la guerra de la IA en smartphones de 2026? Un análisis técnico de la NPU del Galaxy S26 frente al Neural Engine del iPhone 17."
+title: " \"Samsung Galaxy S26 vs Apple iPhone 17: Análisis profundo de la IA en el dispositivo\""
+description: " \"¿Quién gana la guerra de la IA en smartphones de 2026? Un análisis técnico de la NPU del Galaxy S26 frente al Neural Engine del iPhone 17.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

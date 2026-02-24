@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Passe-Droit Entretien Développeur : Examen Blanc d'Entretien Algorithmique"
+title: " \"Passe-Droit Entretien Développeur : Examen Blanc d'Entretien Algorithmique\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt pour s'entraîner en conditions réelles avec un intervieweur IA, idéal pour préparer les tests de codage et les entretiens techniques des grandes entreprises technologiques."
+description: " \"Un prompt pour s'entraîner en conditions réelles avec un intervieweur IA, idéal pour préparer les tests de codage et les entretiens techniques des grandes entreprises technologiques.\""
 tags: ["TestCodage", "EntretienTechnique", "Algorithme", "PréparationEmploi"]
 ---
 

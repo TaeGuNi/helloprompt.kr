@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Korean)"
-description: "User demand for quiet media consumption without algorithmic feeds is growing"
+title: " \"The Rise of Algorithm Free Media (Korean)\""
+description: " \"User demand for quiet media consumption without algorithmic feeds is growing\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

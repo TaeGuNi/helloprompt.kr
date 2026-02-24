@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "파이썬 버그 해결사: 10초 디버깅 프롬프트"
+title: " \"파이썬 버그 해결사: 10초 디버깅 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Risolvi i noiosi bug di Python in soli 10 secondi con questo prompt avanzato. La guida definitiva al debugging con l'IA per sviluppatori."
+description: " \"Risolvi i noiosi bug di Python in soli 10 secondi con questo prompt avanzato. La guida definitiva al debugging con l'IA per sviluppatori.\""
 tags: ["태그1", "태그2"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stima Spese di Viaggio: Piano Perfetto Senza Sforamento del Budget"
+title: " \"Stima Spese di Viaggio: Piano Perfetto Senza Sforamento del Budget\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Dai biglietti aerei alle spese alimentari locali, creando un budget entro un intervallo di errore del 10% riflettendo i prezzi della destinazione di viaggio."
+description: " \"Dai biglietti aerei alle spese alimentari locali, creando un budget entro un intervallo di errore del 10% riflettendo i prezzi della destinazione di viaggio.\""
 tags: ["Viaggio", "Budget", "PianoViaggio", "Spese"]
 ---
 

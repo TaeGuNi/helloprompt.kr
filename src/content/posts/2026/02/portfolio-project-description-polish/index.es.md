@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Haciendo Experiencia de Proyecto Ordinaria en 'Portafolio Atractivo'"
+title: " \"Prompt Haciendo Experiencia de Proyecto Ordinaria en 'Portafolio Atractivo'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Refina la descripción de tu proyecto usando técnicas de storytelling para destacar tu proceso de resolución de problemas y tus contribuciones, dejando atrás las simples listas de tareas."
+description: " \"Refina la descripción de tu proyecto usando técnicas de storytelling para destacar tu proceso de resolución de problemas y tus contribuciones, dejando atrás las simples listas de tareas.\""
 tags: ["Portafolio", "DescripciónProyecto", "DescripciónCarrera", "Narración"]
 ---
 

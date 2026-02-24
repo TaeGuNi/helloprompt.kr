@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "A mídia alardeia que os robôs da LG e da Samsung vão mudar o mundo a qualquer momento, mas a realidade da engenharia ainda trava uma dura batalha contra as leis da física."
+description: " \"A mídia alardeia que os robôs da LG e da Samsung vão mudar o mundo a qualquer momento, mas a realidade da engenharia ainda trava uma dura batalha contra as leis da física.\""
 heroImage: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "피지컬 AI: 과장된 기대와 차가운 현실"
+title: " \"피지컬 AI: 과장된 기대와 차가운 현실\""
 ---
 
 # 📝 IA Física: O Hype Exagerado e a Fria Realidade

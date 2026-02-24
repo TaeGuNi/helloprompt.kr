@@ -1,6 +1,6 @@
 ---
-title: "L'exploit physique de GPT-5.2 : Une nouvelle ère de découvertes scientifiques"
-description: "GPT-5.2 d'OpenAI marque un tournant pour la communauté scientifique en produisant de nouveaux résultats en physique théorique. Découvrez comment analyser cet exploit et décrypter facilement des articles scientifiques complexes grâce à nos prompts d'IA."
+title: " \"L'exploit physique de GPT-5.2 : Une nouvelle ère de découvertes scientifiques\""
+description: " \"GPT-5.2 d'OpenAI marque un tournant pour la communauté scientifique en produisant de nouveaux résultats en physique théorique. Découvrez comment analyser cet exploit et décrypter facilement des articles scientifiques complexes grâce à nos prompts d'IA.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

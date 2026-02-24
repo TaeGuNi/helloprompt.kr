@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (Simplified Chinese)"
-description: "模型现在可以实时同时对视频、音频和文本进行推理 (Models now reason across video audio and text simultaneously in real time)"
+title: " \"Multimodal Reasoning (Simplified Chinese)\""
+description: " \"模型现在可以实时同时对视频、音频和文本进行推理 (Models now reason across video audio and text simultaneously in real time)\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

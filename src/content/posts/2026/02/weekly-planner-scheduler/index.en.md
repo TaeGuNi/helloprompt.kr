@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "God-Life Project! AI Weekly Planner Writing"
+title: " \"God-Life Project! AI Weekly Planner Writing\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Too much to do and struggling to organize? Get the perfect weekly schedule based on strict priorities."
+description: " \"Too much to do and struggling to organize? Get the perfect weekly schedule based on strict priorities.\""
 tags: ["Planner", "Scheduler", "Time Management", "Productivity"]
 ---
 

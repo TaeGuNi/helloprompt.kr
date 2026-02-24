@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jeu de Déduction Mystère : Génération de Coupable et d'Astuce (Mystery Trick Generator)"
+title: " \"Jeu de Déduction Mystère : Génération de Coupable et d'Astuce (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "L'IA conçoit des astuces de meurtre en chambre close ingénieuses et des alibis infaillibles dignes des plus grands romans policiers."
+description: " \"L'IA conçoit des astuces de meurtre en chambre close ingénieuses et des alibis infaillibles dignes des plus grands romans policiers.\""
 tags: ["Déduction", "Mystère", "Astuce", "Roman", "Scénario"]
 ---
 

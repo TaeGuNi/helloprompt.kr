@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Commenti di Valutazione del Personale Che Fanno Crescere Senza Ferire"
+title: " \"Commenti di Valutazione del Personale Che Fanno Crescere Senza Ferire\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Un prompt strategico per alleviare lo stress delle valutazioni delle prestazioni e scrivere feedback costruttivi ed empatici."
+description: " \"Un prompt strategico per alleviare lo stress delle valutazioni delle prestazioni e scrivere feedback costruttivi ed empatici.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

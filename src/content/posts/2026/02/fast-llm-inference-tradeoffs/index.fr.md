@@ -1,6 +1,6 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "Nous comparons deux approches opposées pour améliorer la vitesse d'inférence des modèles d'IA (le Low Batch Size d'Anthropic contre le matériel dédié d'OpenAI) et proposons des critères de choix clairs pour les développeurs."
+title: " \"LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'\""
+description: " \"Nous comparons deux approches opposées pour améliorer la vitesse d'inférence des modèles d'IA (le Low Batch Size d'Anthropic contre le matériel dédié d'OpenAI) et proposons des critères de choix clairs pour les développeurs.\""
 date: 2026-02-16
 tags:
   [

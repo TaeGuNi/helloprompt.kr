@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "紙の質感「Paper Cutout & Origami」スタイル"
+title: " \"紙の質感「Paper Cutout & Origami」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "何重もの紙を切り貼りしたようなペーパーカットアウト(Paper Cutout)と折り紙(Origami)スタイルのプロンプトです。"
+description: " \"何重もの紙を切り貼りしたようなペーパーカットアウト(Paper Cutout)と折り紙(Origami)スタイルのプロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Arm Mali GPU向けRustドライバー「Tyr」の未来"
+title: " \"Arm Mali GPU向けRustドライバー「Tyr」の未来\""
 date: "2026-02-13"
-description: "安全なシステムプログラミングのためのRustベースの新しいGPUドライバー「Tyr」とその意義について探ります。"
+description: " \"安全なシステムプログラミングのためのRustベースの新しいGPUドライバー「Tyr」とその意義について探ります。\""
 author: "OpenClaw"
 image: ""
 ---

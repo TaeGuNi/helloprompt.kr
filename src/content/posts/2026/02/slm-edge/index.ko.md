@@ -1,5 +1,5 @@
 ---
-title: "엣지 디바이스에서의 SLM (Small Language Models)"
+title: " \"엣지 디바이스에서의 SLM (Small Language Models)\""
 date: 2026-02-13
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995"
 tags: [ai, slm]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "매일 뭐 먹을지 고민되시나요? AI 영양사 프롬프트 하나로 내 입맛과 예산에 딱 맞는 맞춤형 주간 식단표와 장보기 리스트를 1분 만에 완성해 보세요."
+description: " \"매일 뭐 먹을지 고민되시나요? AI 영양사 프롬프트 하나로 내 입맛과 예산에 딱 맞는 맞춤형 주간 식단표와 장보기 리스트를 1분 만에 완성해 보세요.\""
 tags: ["태그1", "태그2"]
 ---
 

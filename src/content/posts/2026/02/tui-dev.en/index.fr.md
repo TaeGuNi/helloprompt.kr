@@ -1,6 +1,6 @@
 ---
-title: "Modern TUI Development: Building Beautiful Terminal Apps is Easier Than Ever"
-description: "Découvrez comment les bibliothèques modernes et l'IA ont révolutionné la création d'interfaces utilisateur textuelles (TUI), les rendant accessibles à tous les développeurs."
+title: " \"Modern TUI Development: Building Beautiful Terminal Apps is Easier Than Ever\""
+description: " \"Découvrez comment les bibliothèques modernes et l'IA ont révolutionné la création d'interfaces utilisateur textuelles (TUI), les rendant accessibles à tous les développeurs.\""
 date: "2026-02-15"
 tags: ["tui", "dev-tools", "cli"]
 ---

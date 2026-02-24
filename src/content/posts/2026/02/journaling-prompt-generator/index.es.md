@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "성찰의 시간 저널링 프롬프트 생성기"
+title: " \"성찰의 시간 저널링 프롬프트 생성기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Cuando te sientas bloqueado frente a un diario en blanco, este generador de prompts de journaling personalizado extraerá una profunda introspección y crecimiento personal."
+description: " \"Cuando te sientas bloqueado frente a un diario en blanco, este generador de prompts de journaling personalizado extraerá una profunda introspección y crecimiento personal.\""
 tags: ["글쓰기", "치유", "회고", "저널링"]
 ---
 

@@ -3,7 +3,7 @@ categories:
   - Tech Trends
   - Privacy
 date: "2026-02-13"
-description: "A IA rodando diretamente no seu smartphone e PC, sem enviar dados para a nuvem. Descubra a revolução da privacidade trazida pela Sovereign AI e pela tecnologia On-Device."
+description: " \"A IA rodando diretamente no seu smartphone e PC, sem enviar dados para a nuvem. Descubra a revolução da privacidade trazida pela Sovereign AI e pela tecnologia On-Device.\""
 heroImage: /images/blog/2026-02-13-sovereign-ai.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Edge Computing
   - On-Device AI
   - Privacy
-title: "소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서"
+title: " \"소버린 AI와 엣지 컴퓨팅: 내 데이터는 내 기기에서\""
 ---
 
 # 🔒 Sovereign AI e Edge Computing: Meus Dados no Meu Dispositivo

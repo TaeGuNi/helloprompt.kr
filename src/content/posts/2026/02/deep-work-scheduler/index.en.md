@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "새벽 2시간, 몰입의 황금시간 확보하는 딥워크 스케줄링"
+title: " \"새벽 2시간, 몰입의 황금시간 확보하는 딥워크 스케줄링\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "시간관리"
-description: "The uninterrupted early morning hours. What is the most efficient way to use them? Let AI craft the optimal schedule tailored to your biorhythm."
+description: " \"The uninterrupted early morning hours. What is the most efficient way to use them? Let AI craft the optimal schedule tailored to your biorhythm.\""
 tags: ["딥워크", "시간관리", "생산성", "새벽공부"]
 ---
 

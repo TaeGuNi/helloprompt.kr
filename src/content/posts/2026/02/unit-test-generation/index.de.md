@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Zu faul, Testcode zu schreiben? KI erledigt das für Sie"
+title: " \"Zu faul, Testcode zu schreiben? KI erledigt das für Sie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Entwicklung"
-description: "Ein Prompt, der automatisch mühsame Unit-Test-Codes generiert und dabei sogar Randfälle berücksichtigt."
+description: " \"Ein Prompt, der automatisch mühsame Unit-Test-Codes generiert und dabei sogar Randfälle berücksichtigt.\""
 tags: ["Testcode", "TDD", "Jest", "JUnit"]
 ---
 

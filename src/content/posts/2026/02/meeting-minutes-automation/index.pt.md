@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuja do Inferno das Reuniões: Da Gravação à Ata e E-mail em 3 Minutos"
+title: " \"Fuja do Inferno das Reuniões: Da Gravação à Ata e E-mail em 3 Minutos\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automação de Trabalho"
-description: "Fluxo de trabalho perfeito para automatizar atas de reuniões exaustivas usando Whisper e ChatGPT. O guia definitivo para aumentar sua produtividade."
+description: " \"Fluxo de trabalho perfeito para automatizar atas de reuniões exaustivas usando Whisper e ChatGPT. O guia definitivo para aumentar sua produtividade.\""
 tags: ["Ata", "Whisper", "ChatGPT", "Automação", "Produtividade"]
 ---
 

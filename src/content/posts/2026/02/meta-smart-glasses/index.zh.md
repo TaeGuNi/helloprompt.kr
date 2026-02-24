@@ -1,6 +1,6 @@
 ---
-title: "Meta 智能眼镜：可穿戴 AI 的胜利"
-description: "掌握如何利用 AI 将枯燥的科技新闻（如 Meta 智能眼镜销量激增）转化为深度商业分析文章的超级提示词。"
+title: " \"Meta 智能眼镜：可穿戴 AI 的胜利\""
+description: " \"掌握如何利用 AI 将枯燥的科技新闻（如 Meta 智能眼镜销量激增）转化为深度商业分析文章的超级提示词。\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

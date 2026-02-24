@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hinzufügen von Pracht 'Low Angle' (Worm's Eye View)"
+title: " \"Hinzufügen von Pracht 'Low Angle' (Worm's Eye View)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Low-Angle-Prompt, der überwältigende Würde und schiere Größe betont, indem das Motiv aus der Froschperspektive betrachtet wird."
+description: " \"Ein Low-Angle-Prompt, der überwältigende Würde und schiere Größe betont, indem das Motiv aus der Froschperspektive betrachtet wird.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Komposition"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulador de Fuga de Dívida: Estratégia de Reembolso Mais Rápida"
+title: " \"Simulador de Fuga de Dívida: Estratégia de Reembolso Mais Rápida\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Estratégia Bola de Neve vs. Estratégia Avalanche. Descubra a ordem de pagamento ideal e livre-se das dívidas mais rápido com a ajuda da IA."
+description: " \"Estratégia Bola de Neve vs. Estratégia Avalanche. Descubra a ordem de pagamento ideal e livre-se das dívidas mais rápido com a ajuda da IA.\""
 tags: ["ReembolsoDívida", "Empréstimo", "Finanças", "GestãoCrédito"]
 ---
 

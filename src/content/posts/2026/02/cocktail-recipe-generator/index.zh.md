@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "칵테일 레시피: 냉장고 술 털어서 바텐더 되기"
+title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/취미"
-description: "剩下的烧酒、啤酒、威士忌……别直接喝了。使用家里现有的材料，利用AI生成专属家庭调酒（Home-tending）配方。"
+description: " \"剩下的烧酒、啤酒、威士忌……别直接喝了。使用家里现有的材料，利用AI生成专属家庭调酒（Home-tending）配方。\""
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 

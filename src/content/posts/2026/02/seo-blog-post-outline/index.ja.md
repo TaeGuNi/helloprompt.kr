@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "検索上位表示を呼ぶSEOブログ概要作成"
+title: " \"検索上位表示を呼ぶSEOブログ概要作成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "ライティング"
-description: "Googleが好む構造でブログ記事の骨組みを構築する、SEOに最適化されたアウトライン生成プロンプトです。"
+description: " \"Googleが好む構造でブログ記事の骨組みを構築する、SEOに最適化されたアウトライン生成プロンプトです。\""
 tags: ["ブログ", "SEO", "Google露出"]
 ---
 

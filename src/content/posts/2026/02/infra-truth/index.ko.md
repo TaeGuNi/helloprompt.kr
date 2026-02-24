@@ -1,6 +1,6 @@
 ---
-title: "AI의 유일한 진실은 인프라다"
-description: "AI 인프라의 진실에 대한 비판적 분석: 결국 진짜 돈을 버는 것은 엔비디아(NVIDIA)뿐입니다."
+title: " \"AI의 유일한 진실은 인프라다\""
+description: " \"AI 인프라의 진실에 대한 비판적 분석: 결국 진짜 돈을 버는 것은 엔비디아(NVIDIA)뿐입니다.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

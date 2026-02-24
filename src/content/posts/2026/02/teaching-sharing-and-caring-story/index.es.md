@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Enseñando a Compartir y Cuidar: Un Cuento Moral para Niños"
+title: " \"Enseñando a Compartir y Cuidar: Un Cuento Moral para Niños\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Una historia mágica que transforma la codicia en generosidad: el prompt definitivo para educar sin regaños."
+description: " \"Una historia mágica que transforma la codicia en generosidad: el prompt definitivo para educar sin regaños.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

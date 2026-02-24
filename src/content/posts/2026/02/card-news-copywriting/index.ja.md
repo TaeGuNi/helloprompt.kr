@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "クリックを呼ぶカードニュースコピーライティングの秘密"
+title: " \"クリックを呼ぶカードニュースコピーライティングの秘密\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "ライティング"
-description: "Instagramのフィードでスクロールする指を止めさせる、強力な見出しとカードニュースのコピーを生成するプロンプトです。"
+description: " \"Instagramのフィードでスクロールする指を止めさせる、強力な見出しとカードニュースのコピーを生成するプロンプトです。\""
 tags: ["カードニュース", "コピーライティング", "SNSマーケティング"]
 ---
 

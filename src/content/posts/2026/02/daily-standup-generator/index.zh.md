@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "1分钟搞定Scrum/每日站会汇报"
+title: " \"1分钟搞定Scrum/每日站会汇报\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "协作"
-description: "将昨天杂乱无章的工作，整理成清晰的“昨日完成 / 今日计划 / 遇到的问题”格式。"
+description: " \"将昨天杂乱无章的工作，整理成清晰的“昨日完成 / 今日计划 / 遇到的问题”格式。\""
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 

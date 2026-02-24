@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Storia del Lavaggio delle Mani e dei Germi per Bambini"
+title: " \"Storia del Lavaggio delle Mani e dei Germi per Bambini\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Persuasione scientifica e storie creative per convincere i bambini a lavarsi le mani senza fare capricci."
+description: " \"Persuasione scientifica e storie creative per convincere i bambini a lavarsi le mani senza fare capricci.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

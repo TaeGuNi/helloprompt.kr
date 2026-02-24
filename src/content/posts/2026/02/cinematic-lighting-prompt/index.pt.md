@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de 'Iluminação Cinematográfica' Criando Atmosfera de Filme"
+title: " \"Prompt de 'Iluminação Cinematográfica' Criando Atmosfera de Filme\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Revelando o segredo dos prompts de iluminação que fazem imagens simples parecerem cenas de filmes de Hollywood."
+description: " \"Revelando o segredo dos prompts de iluminação que fazem imagens simples parecerem cenas de filmes de Hollywood.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Iluminação", "Cinematográfico"]
 ---

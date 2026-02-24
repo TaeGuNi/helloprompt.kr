@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "摆脱失眠症！AI 睡眠模式分析及安睡指南"
+title: " \"摆脱失眠症！AI 睡眠模式分析及安睡指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "告别辗转反侧的漫漫长夜。让 AI 深度分析您的作息习惯，获取专属的优质睡眠解决方案。"
+description: " \"告别辗转反侧的漫漫长夜。让 AI 深度分析您的作息习惯，获取专属的优质睡眠解决方案。\""
 tags: ["睡眠", "失眠症", "健康", "生活方式"]
 ---
 

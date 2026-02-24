@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (Russian)"
-description: "ИИ спасает разработчиков от технического долга: автоматизация рефакторинга и понимания устаревшего кода."
+title: " \"Modernizing Legacy Code (Russian)\""
+description: " \"ИИ спасает разработчиков от технического долга: автоматизация рефакторинга и понимания устаревшего кода.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

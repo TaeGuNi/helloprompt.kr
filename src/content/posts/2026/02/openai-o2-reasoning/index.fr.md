@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "L'évolution des capacités de raisonnement d'OpenAI 'o2' : Qu'est-ce qui a changé ?"
-description: "Une analyse approfondie des capacités de raisonnement du modèle OpenAI o2, sa chaîne de pensée (CoT) et son impact concret sur vos workflows d'IA."
+title: " \"L'évolution des capacités de raisonnement d'OpenAI 'o2' : Qu'est-ce qui a changé ?\""
+description: " \"Une analyse approfondie des capacités de raisonnement du modèle OpenAI o2, sa chaîne de pensée (CoT) et son impact concret sur vos workflows d'IA.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "제품 사진의 정석 'Studio Lighting' 프롬프트"
+title: " \"제품 사진의 정석 'Studio Lighting' 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.159Z"
 category: "이미지 생성"
-description: "방구석에서도 백화점 퀄리티의 제품 컷을 만들어내는 '스튜디오 조명' 프롬프트 세팅 가이드입니다."
+description: " \"방구석에서도 백화점 퀄리티의 제품 컷을 만들어내는 '스튜디오 조명' 프롬프트 세팅 가이드입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Streiten mit Sokrates: Philosophie-Debattenpartner"
+title: " \"Streiten mit Sokrates: Philosophie-Debattenpartner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: "Ein Prompt, der die KI in einen philosophischen Debattenpartner (z.B. Sokrates) verwandelt, um durch ständiges Hinterfragen die eigene Denkkraft zu schärfen."
+description: " \"Ein Prompt, der die KI in einen philosophischen Debattenpartner (z.B. Sokrates) verwandelt, um durch ständiges Hinterfragen die eigene Denkkraft zu schärfen.\""
 tags: ["Philosophie", "LogischeKraft", "Debatte", "Gedankenexperiment"]
 ---
 

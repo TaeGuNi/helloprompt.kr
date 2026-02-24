@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)"
+title: " \"AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "为您量身定制符合个人生物钟与核心目标的完美晨间日程的 AI 提示词。"
+description: " \"为您量身定制符合个人生物钟与核心目标的完美晨间日程的 AI 提示词。\""
 tags: ["Productivity", "Routine", "Morning", "Planning"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "AI医師、診察室に入る"
-description: "診断を超えて治療計画まで提案する医療AIの現在。"
+title: " \"AI医師、診察室に入る\""
+description: " \"診断を超えて治療計画まで提案する医療AIの現在。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

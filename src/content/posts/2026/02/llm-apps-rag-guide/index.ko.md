@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "LLM 앱 및 RAG 구축을 위한 완벽 가이드"
+title: " \"LLM 앱 및 RAG 구축을 위한 완벽 가이드\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "awesome-llm-apps 컬렉션을 활용하여 강력한 LLM 애플리케이션과 RAG 파이프라인을 구축하는 방법을 알아보세요."
+description: " \"awesome-llm-apps 컬렉션을 활용하여 강력한 LLM 애플리케이션과 RAG 파이프라인을 구축하는 방법을 알아보세요.\""
 author: "Hello Prompt"
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"

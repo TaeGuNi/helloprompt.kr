@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex Tipo Alienígena, Peça em Linguagem Natural"
+title: " \"Regex Tipo Alienígena, Peça em Linguagem Natural\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Não perca tempo decifrando expressões regulares complexas. Apenas descreva o padrão desejado em linguagem natural e deixe a IA criar o Regex perfeito para você."
+description: " \"Não perca tempo decifrando expressões regulares complexas. Apenas descreva o padrão desejado em linguagem natural e deixe a IA criar o Regex perfeito para você.\""
 tags: ["Regex", "Expressão Regular", "Processamento de String", "Validação"]
 ---
 

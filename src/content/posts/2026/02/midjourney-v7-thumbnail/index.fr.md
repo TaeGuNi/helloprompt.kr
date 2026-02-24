@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pratique Midjourney v7 : Formule de 'Miniature de Blog' pour Non-Designers"
+title: " \"Pratique Midjourney v7 : Formule de 'Miniature de Blog' pour Non-Designers\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Art/Design IA"
-description: "Plus besoin de designer ! Découvrez le code de triche Midjourney pour créer des miniatures de blog percutantes et augmenter votre taux de clics (CTR) de 200 %."
+description: " \"Plus besoin de designer ! Découvrez le code de triche Midjourney pour créer des miniatures de blog percutantes et augmenter votre taux de clics (CTR) de 200 %.\""
 tags: ["Midjourney", "Design", "Miniature", "Blog", "ArtIA"]
 ---
 

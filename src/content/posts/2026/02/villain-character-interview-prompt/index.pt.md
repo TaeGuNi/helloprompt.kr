@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Criando Vilão 3D: Prompt de Entrevista Profunda em 3 Passos"
+title: " \"Criando Vilão 3D: Prompt de Entrevista Profunda em 3 Passos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Um vilão cativante é a alma de qualquer história. Entreviste seu vilão diretamente com IA e descubra sua narrativa oculta."
+description: " \"Um vilão cativante é a alma de qualquer história. Entreviste seu vilão diretamente com IA e descubra sua narrativa oculta.\""
 tags: ["ConfiguraçãoPersonagem", "EscritaRomance", "Vilão", "Entrevista"]
 ---
 

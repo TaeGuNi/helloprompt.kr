@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "像美剧主人公一样说话: 习语 & 俚语自动售货机"
+title: " \"像美剧主人公一样说话: 习语 & 俚语自动售货机\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "外语学习"
-description: "为你提供教科书上绝对找不到的地道母语表达、流行语及惯用语专属提示词。"
+description: " \"为你提供教科书上绝对找不到的地道母语表达、流行语及惯用语专属提示词。\""
 tags: ["英语会话", "俚语", "习语", "美剧英语"]
 ---
 

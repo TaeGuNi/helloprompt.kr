@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Noche de los Juguetes: Cuento de Hadas al Estilo 'Toy Story'"
+title: " \"Noche de los Juguetes: Cuento de Hadas al Estilo 'Toy Story'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Una fiesta secreta celebrada cada noche por los muñecos de apego favoritos del niño."
+description: " \"Una fiesta secreta celebrada cada noche por los muñecos de apego favoritos del niño.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

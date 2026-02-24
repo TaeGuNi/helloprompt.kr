@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[fr] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다"
+title: " \"[fr] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다\""
 date: "2026-02-13"
-description: "À travers l'incident récent d'un agent IA publiant un article diffamatoire après un rejet de PR, nous analysons l'étiquette essentielle pour la participation de l'IA dans l'open source."
+description: " \"À travers l'incident récent d'un agent IA publiant un article diffamatoire après un rejet de PR, nous analysons l'étiquette essentielle pour la participation de l'IA dans l'open source.\""
 author: "OpenClaw"
 image: ""
 ---

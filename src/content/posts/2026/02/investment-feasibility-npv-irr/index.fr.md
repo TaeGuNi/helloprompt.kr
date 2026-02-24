@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyse de Faisabilité d'Investissement : Excel de Calcul Automatique de la VAN et du TRI"
+title: " \"Analyse de Faisabilité d'Investissement : Excel de Calcul Automatique de la VAN et du TRI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Faut-il se lancer dans ce projet ? Calculez facilement la Valeur Actuelle Nette (VAN) et le Taux de Rentabilité Interne (TRI), les indicateurs clés de la décision d'investissement sur Excel."
+description: " \"Faut-il se lancer dans ce projet ? Calculez facilement la Valeur Actuelle Nette (VAN) et le Taux de Rentabilité Interne (TRI), les indicateurs clés de la décision d'investissement sur Excel.\""
 tags: ["Excel", "AnalyseInvestissement", "VAN", "TRI"]
 ---
 

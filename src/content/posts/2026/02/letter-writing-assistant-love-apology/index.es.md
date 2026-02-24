@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés"
+title: " \"Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Transmite con palabras esa sinceridad que cuesta expresar. La IA redactará por ti la carta perfecta, adaptada a la situación y al destinatario."
+description: " \"Transmite con palabras esa sinceridad que cuesta expresar. La IA redactará por ti la carta perfecta, adaptada a la situación y al destinatario.\""
 tags: ["Escritura", "Carta", "Amor", "Disculpa", "Rechazo"]
 ---
 

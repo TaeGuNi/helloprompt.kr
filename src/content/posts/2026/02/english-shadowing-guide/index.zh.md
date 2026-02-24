@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기"
+title: " \"영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "외국어/학습"
-description: "仅仅观看美剧无法有效提升英语水平。这是一份利用AI教练完美分析台词连读与语气的Netflix影子跟读（Shadowing）实战指南。"
+description: " \"仅仅观看美剧无法有效提升英语水平。这是一份利用AI教练完美分析台词连读与语气的Netflix影子跟读（Shadowing）实战指南。\""
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---
 

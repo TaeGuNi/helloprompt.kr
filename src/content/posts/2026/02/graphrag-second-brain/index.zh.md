@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유"
-description: "向量检索仅仅是寻找词语相似度。本文提供了一份完美的提示词指南，教你如何利用 Neo4j 和 LangChain 构建个人知识图谱（GraphRAG），并连接 Obsidian 笔记中隐藏的深刻见解。"
+title: " \"GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유\""
+description: " \"向量检索仅仅是寻找词语相似度。本文提供了一份完美的提示词指南，教你如何利用 Neo4j 和 LangChain 构建个人知识图谱（GraphRAG），并连接 Obsidian 笔记中隐藏的深刻见解。\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

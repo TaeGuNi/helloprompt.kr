@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "放下手机！签订屏幕时间和平协定"
+title: " \"放下手机！签订屏幕时间和平协定\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "让孩子不再哭闹，乖乖关掉YouTube的智能手机使用规则与协商指南"
+description: " \"让孩子不再哭闹，乖乖关掉YouTube的智能手机使用规则与协商指南\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

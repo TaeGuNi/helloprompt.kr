@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "企业分析的定式: AI SWOT 分析机"
+title: " \"企业分析的定式: AI SWOT 分析机\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "一目了然地掌握目标投资公司的优势、劣势、机会与威胁的高效提示词。"
+description: " \"一目了然地掌握目标投资公司的优势、劣势、机会与威胁的高效提示词。\""
 tags: ["股票", "企业分析", "SWOT", "战略"]
 ---
 

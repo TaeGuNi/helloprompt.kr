@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduci Termini Legali Alieni In Modo Che Anche gli Studenti delle Elementari Capiscano"
+title: " \"Traduci Termini Legali Alieni In Modo Che Anche gli Studenti delle Elementari Capiscano\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita"
-description: "Un prompt che interpreta documenti legali complessi, come contratti di locazione e termini di servizio, spiegandoli con parole semplici e individuando eventuali clausole vessatorie."
+description: " \"Un prompt che interpreta documenti legali complessi, come contratti di locazione e termini di servizio, spiegandoli con parole semplici e individuando eventuali clausole vessatorie.\""
 tags: ["Legge", "Contratto", "Legge di Vita"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "简历的第一印象，'核心摘要 (Summary)' 编写提示词"
+title: " \"简历的第一印象，'核心摘要 (Summary)' 编写提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "撰写位于简历顶部的 3-5 行极具吸引力的个人核心摘要 (Professional Summary)，大幅提升简历通过率。"
+description: " \"撰写位于简历顶部的 3-5 行极具吸引力的个人核心摘要 (Professional Summary)，大幅提升简历通过率。\""
 tags: ["简历", "Summary", "简介摘要", "自我介绍"]
 ---
 

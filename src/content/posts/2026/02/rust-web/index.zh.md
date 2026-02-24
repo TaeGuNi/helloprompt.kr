@@ -1,7 +1,7 @@
 ---
-title: "웹 개발을 위한 Rust: 2026년의 관점"
+title: " \"웹 개발을 위한 Rust: 2026년의 관점\""
 date: 2026-02-13
-description: "探讨 2026 年已成为高性能 Web 服务主流选择的 Rust 后端生态系统，并提供专业的架构设计提示词。"
+description: " \"探讨 2026 年已成为高性能 Web 服务主流选择的 Rust 后端生态系统，并提供专业的架构设计提示词。\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Facebook/Insta Ad Copy Generator That Calls for Clicks"
+title: " \"Facebook/Insta Ad Copy Generator That Calls for Clicks\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "How to write scroll-stopping SNS ad primary text that drives conversions."
+description: " \"How to write scroll-stopping SNS ad primary text that drives conversions.\""
 tags: ["Facebook Ad", "Instagram Ad", "Performance Marketing", "Copywriting"]
 ---
 

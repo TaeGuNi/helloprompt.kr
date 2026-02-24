@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Criando um Esboço de Proposta Irresistível"
+title: " \"Criando um Esboço de Proposta Irresistível\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a estruturar um storytelling de proposta comercial que realmente persuade e converte seus clientes."
+description: " \"Aprenda a estruturar um storytelling de proposta comercial que realmente persuade e converte seus clientes.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

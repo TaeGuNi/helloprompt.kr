@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NBC Olympics Eiskunstlauf-Trend: Viralen Sport-Content in 1 Minute schreiben"
+title: " \"NBC Olympics Eiskunstlauf-Trend: Viralen Sport-Content in 1 Minute schreiben\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Content-Erstellung"
-description: "Ein Prompt, der mit KI in nur einer Minute lebendige Kritiken und viralen Content im Stil der NBC Olympics Eiskunstlauf-Übertragungen erstellt."
+description: " \"Ein Prompt, der mit KI in nur einer Minute lebendige Kritiken und viralen Content im Stil der NBC Olympics Eiskunstlauf-Übertragungen erstellt.\""
 tags:
   [
     "nbc olympics figure skating",

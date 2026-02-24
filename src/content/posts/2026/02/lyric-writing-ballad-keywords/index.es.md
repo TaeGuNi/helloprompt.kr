@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Debut de Letrista? Escribiendo Letras de Balada Emocional con 3 Palabras Clave"
+title: " \"¿Debut de Letrista? Escribiendo Letras de Balada Emocional con 3 Palabras Clave\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Con solo 3 palabras clave, la IA crea un borrador de letra de balada emocional con calidad de nivel profesional."
+description: " \"Con solo 3 palabras clave, la IA crea un borrador de letra de balada emocional con calidad de nivel profesional.\""
 tags: ["Letras", "EscrituraLetras", "Balada", "Música"]
 ---
 

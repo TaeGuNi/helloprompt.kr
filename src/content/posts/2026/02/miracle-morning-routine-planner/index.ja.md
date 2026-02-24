@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 미라클 모닝 루틴, AI로 설계하기
+title: "미라클 모닝 루틴, AI로 설계하기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: 작심삼일로 끝나는 미라클 모닝은 이제 그만! ChatGPT로 나에게 딱 맞는 아침 루틴을 설계하는 비법을 공개합니다.
+description: "작심삼일로 끝나는 미라클 모닝은 이제 그만! ChatGPT로 나에게 딱 맞는 아침 루틴을 설계하는 비법을 공개합니다."
 tags: [AI, ChatGPT, Prompt]
 ---
 

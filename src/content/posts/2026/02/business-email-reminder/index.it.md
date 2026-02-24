@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Come Scrivere Email Aziendali Che Ricordano Senza Essere Maleducati"
+title: " \"Come Scrivere Email Aziendali Che Ricordano Senza Essere Maleducati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Prompt per inviare un sollecito via email ai partner commerciali che non rispondono, mantenendo un tono professionale, cortese ma fermo."
+description: " \"Prompt per inviare un sollecito via email ai partner commerciali che non rispondono, mantenendo un tono professionale, cortese ma fermo.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

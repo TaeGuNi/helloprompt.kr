@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Spielgegenstand-Enzyklopädie: Legendäre Waffen und verfluchte Accessoires"
+title: " \"Spielgegenstand-Enzyklopädie: Legendäre Waffen und verfluchte Accessoires\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein einfaches '+1 Schwert' ist langweilig. Erschaffen Sie einzigartige Gegenstände mit fesselnden Geschichten und besonderen Mechaniken."
+description: " \"Ein einfaches '+1 Schwert' ist langweilig. Erschaffen Sie einzigartige Gegenstände mit fesselnden Geschichten und besonderen Mechaniken.\""
 tags: ["Spiel", "Gegenstand", "TRPG", "Planung", "Fantasie"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Daily Writing Challenge: Auto-Generate 30-Day Writing Topic Calendar"
+title: " \"Daily Writing Challenge: Auto-Generate 30-Day Writing Topic Calendar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Want to build a daily writing habit? Let AI design a personalized 30-day topic calendar tailored to your unique interests and goals."
+description: " \"Want to build a daily writing habit? Let AI design a personalized 30-day topic calendar tailored to your unique interests and goals.\""
 tags: ["Writing", "Habit", "Challenge", "SelfDevelopment"]
 ---
 

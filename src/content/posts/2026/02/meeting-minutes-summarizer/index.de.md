@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Abschweifende Sitzungsprotokolle ordentlich zusammenfassen"
+title: " \"Abschweifende Sitzungsprotokolle ordentlich zusammenfassen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Die Audioaufnahme wurde transkribiert, ist aber viel zu lang? Nutzen Sie diesen Prompt, um chaotische Meeting-Protokolle präzise auf den Kern zusammenzufassen."
+description: " \"Die Audioaufnahme wurde transkribiert, ist aber viel zu lang? Nutzen Sie diesen Prompt, um chaotische Meeting-Protokolle präzise auf den Kern zusammenzufassen.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

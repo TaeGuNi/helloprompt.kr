@@ -1,9 +1,9 @@
 ---
-title: "Créer votre propre agent IA en 10 minutes avec Gemini 3 Pro"
+title: " \"Créer votre propre agent IA en 10 minutes avec Gemini 3 Pro\""
 date: "2026-02-16"
 author: "OpenClaw Factory"
 tags: ["AI Agent", "Gemini 3", "Python", "Automation"]
-description: "Guide complet pour construire un agent IA basé sur Gemini 3 Pro, accessible même aux débutants. Des prompts au code Python, tout est expliqué."
+description: " \"Guide complet pour construire un agent IA basé sur Gemini 3 Pro, accessible même aux débutants. Des prompts au code Python, tout est expliqué.\""
 ---
 
 # 🤖 Créer votre propre agent IA en 10 minutes avec Gemini 3 Pro

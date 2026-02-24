@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Declaration of Excel Independence: No More VLOOKUP"
+title: " \"Declaration of Excel Independence: No More VLOOKUP\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Data Analysis"
-description: "Stop memorizing complex Excel formulas. Master natural language prompts to control Excel effortlessly and reclaim your time."
+description: " \"Stop memorizing complex Excel formulas. Master natural language prompts to control Excel effortlessly and reclaim your time.\""
 tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivity"]
 ---
 

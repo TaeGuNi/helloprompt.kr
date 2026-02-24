@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculateur de Budget de Voyage avec IA : Voyage Rentable"
+title: " \"Calculateur de Budget de Voyage avec IA : Voyage Rentable\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Combien devez-vous changer ? L'IA calcule votre budget de voyage au centime près, sans mauvaise surprise."
+description: " \"Combien devez-vous changer ? L'IA calcule votre budget de voyage au centime près, sans mauvaise surprise.\""
 tags:
   ["Dépenses de Voyage", "Budget", "Change de Devise", "Préparation de Voyage"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Job Offer Comparison & Counter Offer Strategy Prompt"
+title: " \"Job Offer Comparison & Counter Offer Strategy Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: "Compare competing job offers and craft a strategic counter-offer to negotiate better salary and terms without burning bridges."
+description: " \"Compare competing job offers and craft a strategic counter-offer to negotiate better salary and terms without burning bridges.\""
 tags:
   [
     "Offer Negotiation",

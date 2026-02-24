@@ -1,6 +1,6 @@
 ---
-title: "Évolution des agents de codage"
-description: "Les agents de codage autonomes bouleversent l'écosystème de développement."
+title: " \"Évolution des agents de codage\""
+description: " \"Les agents de codage autonomes bouleversent l'écosystème de développement.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

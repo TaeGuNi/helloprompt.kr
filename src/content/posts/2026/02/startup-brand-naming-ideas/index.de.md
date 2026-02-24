@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Startup/Markenbenennung: Einprägsame Namen machen"
+title: " \"Startup/Markenbenennung: Einprägsame Namen machen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Der Markenname bestimmt das Schicksal Ihres Unternehmens! Finden Sie mit KI einprägsame und bedeutungsvolle Namensideen."
+description: " \"Der Markenname bestimmt das Schicksal Ihres Unternehmens! Finden Sie mit KI einprägsame und bedeutungsvolle Namensideen.\""
 tags: ["Benennung", "Branding", "Startup", "Marketing", "Idee"]
 ---
 

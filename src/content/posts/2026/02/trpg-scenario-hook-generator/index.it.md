@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generazione Gancio Scenario per Master TRPG"
+title: " \"Generazione Gancio Scenario per Master TRPG\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Un salvavita per i Game Master senza tempo per preparare la sessione. Genera incipit avvincenti che catapultano immediatamente i giocatori nell'azione."
+description: " \"Un salvavita per i Game Master senza tempo per preparare la sessione. Genera incipit avvincenti che catapultano immediatamente i giocatori nell'azione.\""
 tags: ["TRPG", "D&D", "Scenario", "GameMaster", "Storia"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Impostazione Nazione e Sistema Politico: Mondo Fantasy Realistico"
+title: " \"Impostazione Nazione e Sistema Politico: Mondo Fantasy Realistico\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Un semplice regno è noioso. Scopri come progettare una nazione tridimensionale con un sistema politico realistico, come una teocrazia o una repubblica mercantile."
+description: " \"Un semplice regno è noioso. Scopri come progettare una nazione tridimensionale con un sistema politico realistico, come una teocrazia o una repubblica mercantile.\""
 tags: ["Universo", "Politica", "Nazione", "Fantasy", "Impostazione"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "힙합 라임 노트: 펀치라인 자동 생성 프롬프트"
+title: " \"힙합 라임 노트: 펀치라인 자동 생성 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.129Z"
 updatedDate: "2026-02-07T09:10:33.129Z"
 category: "창작 및 취미"
-description: "래퍼 지망생 주목! 원하는 주제와 라임(Rhyme)만 던져주면 AI가 기막힌 펀치라인과 가사를 만들어줍니다."
+description: " \"래퍼 지망생 주목! 원하는 주제와 라임(Rhyme)만 던져주면 AI가 기막힌 펀치라인과 가사를 만들어줍니다.\""
 tags: ["힙합", "랩", "작사", "라임", "펀치라인"]
 ---
 

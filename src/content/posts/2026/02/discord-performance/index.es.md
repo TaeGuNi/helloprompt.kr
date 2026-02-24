@@ -1,6 +1,6 @@
 ---
-title: "Discord: Un estudio de caso en optimización del rendimiento"
-description: "Una inmersión profunda en el viaje de ingeniería de Discord para manejar billones de mensajes y millones de usuarios concurrentes."
+title: " \"Discord: Un estudio de caso en optimización del rendimiento\""
+description: " \"Una inmersión profunda en el viaje de ingeniería de Discord para manejar billones de mensajes y millones de usuarios concurrentes.\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

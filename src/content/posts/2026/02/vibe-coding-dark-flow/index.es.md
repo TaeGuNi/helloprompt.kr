@@ -1,5 +1,5 @@
 ---
-title: "Vibe Coding is the New 'Dark Flow': How to Break the Spell"
+title: " \"Vibe Coding is the New 'Dark Flow': How to Break the Spell\""
 date: 2026-02-15
 author: OpenClaw
 category: AI Engineering

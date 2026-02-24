@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "代替手腕疼的抄写: 记忆卡片自动生成器"
+title: " \"代替手腕疼的抄写: 记忆卡片自动生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "学习法/自我开发"
-description: "输入长文本或讲义笔记，自动提取核心考点，生成可直接导入 Anki、Quizlet 的抽认卡 (Q&A) 提示词。"
+description: " \"输入长文本或讲义笔记，自动提取核心考点，生成可直接导入 Anki、Quizlet 的抽认卡 (Q&A) 提示词。\""
 tags: ["背诵", "抽认卡", "Anki", "Quizlet"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (it)"
-description: "Come l'Intelligenza Artificiale sta rivoluzionando la produzione cinematografica a Hollywood: la guida definitiva per creare pitch e sceneggiature visive con l'AI."
+title: " \"AI-Generated Movies: The Hollywood Shift (it)\""
+description: " \"Come l'Intelligenza Artificiale sta rivoluzionando la produzione cinematografica a Hollywood: la guida definitiva per creare pitch e sceneggiature visive con l'AI.\""
 date: "2026-02-14"
 ---
 

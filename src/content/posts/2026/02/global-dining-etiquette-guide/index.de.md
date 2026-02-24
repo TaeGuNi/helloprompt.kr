@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Globaler Essens-Etikette-Leitfaden: Sei nicht unhöflich"
+title: " \"Globaler Essens-Etikette-Leitfaden: Sei nicht unhöflich\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Andere Länder, andere Sitten: Vermeide peinliche Fauxpas bei Tisch und glänze mit perfekten globalen Tischmanieren."
+description: " \"Andere Länder, andere Sitten: Vermeide peinliche Fauxpas bei Tisch und glänze mit perfekten globalen Tischmanieren.\""
 tags:
   [
     "Essens-Etikette",

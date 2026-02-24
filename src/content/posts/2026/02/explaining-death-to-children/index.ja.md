@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "「死」ってなに？ペットや家族の不在を子供に説明する方法"
+title: " \"「死」ってなに？ペットや家族の不在を子供に説明する方法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "喪失を経験した子供に「死」を正しく説明し、心に寄り添って慰めるためのAIプロンプトガイド"
+description: " \"喪失を経験した子供に「死」を正しく説明し、心に寄り添って慰めるためのAIプロンプトガイド\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

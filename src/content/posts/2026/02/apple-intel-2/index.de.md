@@ -1,5 +1,5 @@
 ---
-title: "애플 인텔리전스 2.0: 아이폰 17에서 구동되는 로컬 LLM Siri"
+title: " \"애플 인텔리전스 2.0: 아이폰 17에서 구동되는 로컬 LLM Siri\""
 date: "2026-02-15"
 category: "Tech"
 tags:
@@ -8,7 +8,7 @@ tags:
   - "Siri"
   - "iPhone 17"
 heroImage: "https://picsum.photos/1600/900"
-description: "Mit dem iPhone 17 bringt Apple Intelligence 2.0 einen leistungsstarken LLM vollständig lokal auf Ihr Gerät – für maximale Privatsphäre und Geschwindigkeit ohne Cloud-Zwang."
+description: " \"Mit dem iPhone 17 bringt Apple Intelligence 2.0 einen leistungsstarken LLM vollständig lokal auf Ihr Gerät – für maximale Privatsphäre und Geschwindigkeit ohne Cloud-Zwang.\""
 ---
 
 # 📝 Apple Intelligence 2.0: Den lokalen LLM-Siri zu 100 % ausschöpfen

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Formule Excel Complesse, Prompt Che Le Scrive Quando Spiegate a Parole"
+title: " \"Formule Excel Complesse, Prompt Che Le Scrive Quando Spiegate a Parole\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Confuso tra VLOOKUP e INDEX MATCH? Descrivi semplicemente il tuo problema a parole e l'IA scriverà la formula Excel perfetta per te."
+description: " \"Confuso tra VLOOKUP e INDEX MATCH? Descrivi semplicemente il tuo problema a parole e l'IA scriverà la formula Excel perfetta per te.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

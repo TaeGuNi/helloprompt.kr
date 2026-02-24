@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI旅行経費計算機：コスパ旅行"
+title: " \"AI旅行経費計算機：コスパ旅行\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行＆文化"
-description: "いくら両替すればいい？現地物価と旅行スタイルに合わせて、AIがぴったりの旅行予算を算出するプロンプトです。"
+description: " \"いくら両替すればいい？現地物価と旅行スタイルに合わせて、AIがぴったりの旅行予算を算出するプロンプトです。\""
 tags: ["旅行経費", "予算", "両替", "旅行準備"]
 ---
 

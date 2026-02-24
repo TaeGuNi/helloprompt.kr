@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "英雄 vs 英雄: 世纪对手比较分析"
+title: " \"英雄 vs 英雄: 世纪对手比较分析\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "人文/历史"
-description: "将不同时代、不同国家的历史伟人进行1:1平行对比，深度剖析其共同点与决定性差异的高级提示词。"
+description: " \"将不同时代、不同国家的历史伟人进行1:1平行对比，深度剖析其共同点与决定性差异的高级提示词。\""
 tags: ["历史", "人物分析", "比较文化", "提示词"]
 ---
 

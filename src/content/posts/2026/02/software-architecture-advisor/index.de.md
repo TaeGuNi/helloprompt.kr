@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stoppt Spaghetti-Code! Architektur-Empfehlung perfekt für mein Projekt"
+title: " \"Stoppt Spaghetti-Code! Architektur-Empfehlung perfekt für mein Projekt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der die optimale Softwarearchitektur (wie MVC, Clean Architecture oder MSA) entwirft, passend zu Ihrem Projektumfang und Ihren Anforderungen."
+description: " \"Ein Prompt, der die optimale Softwarearchitektur (wie MVC, Clean Architecture oder MSA) entwirft, passend zu Ihrem Projektumfang und Ihren Anforderungen.\""
 tags: ["Architektur", "Design", "Designmuster", "Systemdesign", "MSA"]
 ---
 

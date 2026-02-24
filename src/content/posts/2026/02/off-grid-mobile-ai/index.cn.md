@@ -1,6 +1,6 @@
 ---
-title: "Off Grid：在手机上离线运行 AI 文本、图像生成和视觉识别"
-description: "介绍 Off Grid：一款强大的开源应用，可在没有互联网连接的情况下，在智能手机上离线运行 AI 文本、图像生成和视觉识别模型。"
+title: " \"Off Grid：在手机上离线运行 AI 文本、图像生成和视觉识别\""
+description: " \"介绍 Off Grid：一款强大的开源应用，可在没有互联网连接的情况下，在智能手机上离线运行 AI 文本、图像生成和视觉识别模型。\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

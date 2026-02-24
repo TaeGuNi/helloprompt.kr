@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식"
+title: " \"SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Selbst durch die bloße Optimierung der Keyword-Platzierung steigen die organischen Besucherzahlen um das Zehnfache. Wir enthüllen das Geheimnis, wie Sie mithilfe von KI die perfekte, zu 100 % SEO-optimierte Textstruktur entwerfen, die Google liebt."
+description: " \"Selbst durch die bloße Optimierung der Keyword-Platzierung steigen die organischen Besucherzahlen um das Zehnfache. Wir enthüllen das Geheimnis, wie Sie mithilfe von KI die perfekte, zu 100 % SEO-optimierte Textstruktur entwerfen, die Google liebt.\""
 tags: ["SEO", "블로그", "구글상위노출", "티스토리", "마케팅"]
 ---
 

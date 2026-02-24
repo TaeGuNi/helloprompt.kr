@@ -1,6 +1,6 @@
 ---
-title: "Arquitectura Micro-Frontend: Escalando el Desarrollo Frontend"
-description: "Una mirada profunda y un prompt experto para diseñar e implementar arquitecturas micro-frontend escalables en 2026."
+title: " \"Arquitectura Micro-Frontend: Escalando el Desarrollo Frontend\""
+description: " \"Una mirada profunda y un prompt experto para diseñar e implementar arquitecturas micro-frontend escalables en 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

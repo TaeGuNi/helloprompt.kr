@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creando Villano 3D: Prompt de Entrevista en Profundidad de 3 Pasos"
+title: " \"Creando Villano 3D: Prompt de Entrevista en Profundidad de 3 Pasos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Un villano fascinante es el núcleo de toda gran historia. Entrevista a tu villano directamente y descubre su narrativa oculta."
+description: " \"Un villano fascinante es el núcleo de toda gran historia. Entrevista a tu villano directamente y descubre su narrativa oculta.\""
 tags: ["ConfiguraciónPersonaje", "EscribirNovela", "Villano", "Entrevista"]
 ---
 

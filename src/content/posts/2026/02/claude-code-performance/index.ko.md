@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Claude Code 성능 저하 논란? 진실은?"
+title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 이슈"
-description: "최근 개발자 커뮤니티를 중심으로 제기된 Claude Code 모델의 성능 저하(Dumbed down) 논란을 짚어보고, 예전의 압도적인 코딩 능력을 100% 다시 끌어내는 강제 추론 프롬프트를 공개합니다."
+description: " \"최근 개발자 커뮤니티를 중심으로 제기된 Claude Code 모델의 성능 저하(Dumbed down) 논란을 짚어보고, 예전의 압도적인 코딩 능력을 100% 다시 끌어내는 강제 추론 프롬프트를 공개합니다.\""
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 

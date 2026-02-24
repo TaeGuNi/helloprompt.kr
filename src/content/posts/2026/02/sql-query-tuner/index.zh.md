@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "慢得要死的 SQL 查询，3 秒调优的秘诀"
+title: " \"慢得要死的 SQL 查询，3 秒调优的秘诀\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "分析复杂且低效的 SQL 查询，获取性能优化并推荐最佳索引的实用提示词。"
+description: " \"分析复杂且低效的 SQL 查询，获取性能优化并推荐最佳索引的实用提示词。\""
 tags: ["SQL", "DB调优", "查询优化", "数据库"]
 ---
 

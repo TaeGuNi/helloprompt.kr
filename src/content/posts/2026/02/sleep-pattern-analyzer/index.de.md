@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schlaflosigkeit entkommen! KI-Schlafmuster-Analyse und Guter-Schlaf-Leitfaden"
+title: " \"Schlaflosigkeit entkommen! KI-Schlafmuster-Analyse und Guter-Schlaf-Leitfaden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Schluss mit schlaflosen Nächten! Analysieren Sie Ihre Lebensgewohnheiten per KI und erhalten Sie maßgeschneiderte Lösungen für einen tiefen Schlaf."
+description: " \"Schluss mit schlaflosen Nächten! Analysieren Sie Ihre Lebensgewohnheiten per KI und erhalten Sie maßgeschneiderte Lösungen für einen tiefen Schlaf.\""
 tags: ["Schlaf", "Schlaflosigkeit", "Gesundheit", "Lebensstil"]
 ---
 

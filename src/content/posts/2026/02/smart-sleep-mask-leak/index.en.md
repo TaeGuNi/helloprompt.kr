@@ -1,9 +1,9 @@
 ---
-title: "Somnium X Smart Sleep Mask: User Voice Data Leak Scandal"
+title: " \"Somnium X Smart Sleep Mask: User Voice Data Leak Scandal\""
 date: 2026-02-15
 tags: ["IoT", "Privacy", "Security", "Wearables"]
 cover: ./cover.png
-description: "The popular Somnium X smart sleep mask has been found to be uploading user sleep conversations without authorization."
+description: " \"The popular Somnium X smart sleep mask has been found to be uploading user sleep conversations without authorization.\""
 ---
 
 # 🚨 Somnium X Smart Sleep Mask: User Voice Data Leak Scandal

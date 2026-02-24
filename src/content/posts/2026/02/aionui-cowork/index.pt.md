@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi: AI 에이전트를 위한 로컬 워크스페이스"
+title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "Apresentamos o AionUi, uma UI de código aberto que resolve o problema de 'caixa preta' de agentes de codificação de IA baseados em terminal, como Gemini CLI e Claude Code."
+description: " \"Apresentamos o AionUi, uma UI de código aberto que resolve o problema de 'caixa preta' de agentes de codificação de IA baseados em terminal, como Gemini CLI e Claude Code.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

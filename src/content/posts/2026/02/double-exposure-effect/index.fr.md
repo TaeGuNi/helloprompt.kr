@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Deux Images en Une 'Double Exposition'"
+title: " \"Deux Images en Une 'Double Exposition'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "La technique de la double exposition : superposez deux images distinctes pour créer une œuvre d'art onirique et mystérieuse."
+description: " \"La technique de la double exposition : superposez deux images distinctes pour créer une œuvre d'art onirique et mystérieuse.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effet", "Surréalisme"]
 ---
 

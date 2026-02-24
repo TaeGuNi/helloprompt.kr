@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lästige API-Dokumentation, Swagger taucht mit nur Code auf"
+title: " \"Lästige API-Dokumentation, Swagger taucht mit nur Code auf\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der Ihren API-Code beim Einfügen automatisch in eine saubere OpenAPI (Swagger)-Spezifikation oder ein Markdown-Dokument verwandelt."
+description: " \"Ein Prompt, der Ihren API-Code beim Einfügen automatisch in eine saubere OpenAPI (Swagger)-Spezifikation oder ein Markdown-Dokument verwandelt.\""
 tags: ["API", "Dokumentation", "Swagger", "OpenAPI", "Backend"]
 ---
 

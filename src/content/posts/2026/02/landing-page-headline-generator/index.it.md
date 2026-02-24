@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Copy Principale Pagina di Atterraggio (Hero Copy)"
+title: " \"Generatore di Copy Principale Pagina di Atterraggio (Hero Copy)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Scopri come scrivere un Hero Copy magnetico per la tua landing page che catturi l'attenzione dei visitatori in meno di 3 secondi."
+description: " \"Scopri come scrivere un Hero Copy magnetico per la tua landing page che catturi l'attenzione dei visitatori in meno di 3 secondi.\""
 tags:
   ["Pagina di Atterraggio", "Web Copy", "UX Writing", "Tasso di Conversione"]
 ---

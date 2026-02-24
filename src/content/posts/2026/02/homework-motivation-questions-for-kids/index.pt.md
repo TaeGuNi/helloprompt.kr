@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perguntas de Motivação para Lição de Casa para Crianças: Coaching em Vez de Reclamar"
+title: " \"Perguntas de Motivação para Lição de Casa para Crianças: Coaching em Vez de Reclamar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Descubra técnicas de conversa persuasivas para que seu filho sinta vontade de estudar por conta própria, sem a necessidade de cobranças ou estresse."
+description: " \"Descubra técnicas de conversa persuasivas para que seu filho sinta vontade de estudar por conta própria, sem a necessidade de cobranças ou estresse.\""
 tags:
   [
     "Parentalidade",

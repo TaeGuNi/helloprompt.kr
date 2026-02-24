@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 오늘 하루, 완벽하게 계획하는 AI 비서
+title: "오늘 하루, 완벽하게 계획하는 AI 비서"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: Manhãs caóticas? Resolva tudo de uma vez, desde a priorização até o Time Blocking, com um único prompt de IA.
+description: "Manhãs caóticas? Resolva tudo de uma vez, desde a priorização até o Time Blocking, com um único prompt de IA."
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

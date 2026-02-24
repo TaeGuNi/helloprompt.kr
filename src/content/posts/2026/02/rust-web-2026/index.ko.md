@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "웹 개발을 위한 Rust: 2026년 생태계 현황"
+title: " \"웹 개발을 위한 Rust: 2026년 생태계 현황\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026년 현재 웹 개발 생태계에서 Rust가 차지하는 위치, Axum과 Leptos의 성숙도, 그리고 성능과 개발자 경험(DX) 간의 균형에 대한 심층 분석."
+description: " \"2026년 현재 웹 개발 생태계에서 Rust가 차지하는 위치, Axum과 Leptos의 성숙도, 그리고 성능과 개발자 경험(DX) 간의 균형에 대한 심층 분석.\""
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---

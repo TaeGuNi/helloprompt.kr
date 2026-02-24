@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Transformant une Expérience de Projet Ordinaire en 'Portfolio Attrayant'"
+title: " \"Prompt Transformant une Expérience de Projet Ordinaire en 'Portfolio Attrayant'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Transformez une simple liste de projets en un récit captivant qui met en valeur votre capacité à résoudre des problèmes et vos contributions concrètes."
+description: " \"Transformez une simple liste de projets en un récit captivant qui met en valeur votre capacité à résoudre des problèmes et vos contributions concrètes.\""
 tags: ["Portfolio", "DescriptionProjet", "DescriptionCarrière", "Narration"]
 ---
 

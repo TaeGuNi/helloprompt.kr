@@ -1,5 +1,5 @@
 ---
-title: "Journalism Crisis: Ars Technica Retracts Story Over Fake Quotes"
+title: " \"Journalism Crisis: Ars Technica Retracts Story Over Fake Quotes\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "AI Hallucination",
     "Matplotlib",
   ]
-description: "Ars Technica retracted a story after it was found to contain fake quotes attributed to a Matplotlib maintainer. This incident highlights the dangers of using AI in journalism and how to prevent them."
+description: " \"Ars Technica retracted a story after it was found to contain fake quotes attributed to a Matplotlib maintainer. This incident highlights the dangers of using AI in journalism and how to prevent them.\""
 lang: "en"
 ---
 

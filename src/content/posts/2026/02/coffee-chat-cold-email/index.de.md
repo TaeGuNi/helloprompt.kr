@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kaffee-Chat Kaltakquise-E-Mail-Prompt: Networking ohne Ablehnung"
+title: " \"Kaffee-Chat Kaltakquise-E-Mail-Prompt: Networking ohne Ablehnung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Verfassen Sie eine höfliche und überzeugende Kaltakquise-Nachricht (Cold Message), die Antworten generiert – ideal für Networking, Mentoring-Anfragen oder den Austausch mit Branchenexperten."
+description: " \"Verfassen Sie eine höfliche und überzeugende Kaltakquise-Nachricht (Cold Message), die Antworten generiert – ideal für Networking, Mentoring-Anfragen oder den Austausch mit Branchenexperten.\""
 tags: ["Kaffee-Chat", "Kaltakquise-E-Mail", "Networking", "Mentoring"]
 ---
 

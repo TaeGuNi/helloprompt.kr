@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (Korean)"
-description: "강력한 LLM을 로컬 기기에서 실행하여 개인정보 보호를 강화하는 엣지 AI(Edge AI) 시대를 준비하는 방법"
+title: " \"Privacy First Edge AI (Korean)\""
+description: " \"강력한 LLM을 로컬 기기에서 실행하여 개인정보 보호를 강화하는 엣지 AI(Edge AI) 시대를 준비하는 방법\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

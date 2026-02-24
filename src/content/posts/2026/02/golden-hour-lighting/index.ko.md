@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "가장 아름다운 시간 'Golden Hour' 조명 활용법"
+title: " \"가장 아름다운 시간 'Golden Hour' 조명 활용법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.109Z"
 updatedDate: "2026-02-07T09:10:33.109Z"
 category: "이미지 생성"
-description: "따뜻하고 감성적인 사진의 치트키, 골든 아워(Golden Hour) 키워드 하나로 평범한 사진을 예술 작품으로 바꾸는 완벽한 프롬프트 가이드입니다."
+description: " \"따뜻하고 감성적인 사진의 치트키, 골든 아워(Golden Hour) 키워드 하나로 평범한 사진을 예술 작품으로 바꾸는 완벽한 프롬프트 가이드입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 

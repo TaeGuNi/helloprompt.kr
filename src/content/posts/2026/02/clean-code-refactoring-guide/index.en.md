@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Refactor Dirty Code to Clean Code in 1 Second"
+title: " \"Refactor Dirty Code to Clean Code in 1 Second\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code."
+description: " \"A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code.\""
 tags: ["Refactoring", "Clean Code", "Maintenance", "Dev Productivity"]
 ---
 

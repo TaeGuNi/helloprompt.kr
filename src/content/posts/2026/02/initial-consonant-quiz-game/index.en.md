@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Alphabet Initial Letter Quiz Game: Vocabulary Explosion Prompt"
+title: " \"Alphabet Initial Letter Quiz Game: Vocabulary Explosion Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Learn words through fun games instead of boring study sessions, with an AI acting as your child's personal quiz referee."
+description: " \"Learn words through fun games instead of boring study sessions, with an AI acting as your child's personal quiz referee.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

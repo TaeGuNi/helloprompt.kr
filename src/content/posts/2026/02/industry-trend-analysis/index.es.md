@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Análisis de Tendencias de la Industria: Encontrando Mercados en Ascenso"
+title: " \"Análisis de Tendencias de la Industria: Encontrando Mercados en Ascenso\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Cómo analizar las tendencias de industrias de rápido crecimiento y descubrir acciones beneficiarias relacionadas usando IA."
+description: " \"Cómo analizar las tendencias de industrias de rápido crecimiento y descubrir acciones beneficiarias relacionadas usando IA.\""
 tags: ["Acciones", "AnálisisIndustria", "Tendencia", "InvestigaciónMercado"]
 ---
 

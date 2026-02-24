@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "疏通堵塞小说的 '万一 (What If)' 情节生成器"
+title: " \"疏通堵塞小说的 '万一 (What If)' 情节生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "当小说剧情卡壳时，使用“What If (万一)”提问法为你打破创作瓶颈，生成出人意料的剧情神展开。"
+description: " \"当小说剧情卡壳时，使用“What If (万一)”提问法为你打破创作瓶颈，生成出人意料的剧情神展开。\""
 tags: ["写小说", "情节", "创意", "创作"]
 ---
 

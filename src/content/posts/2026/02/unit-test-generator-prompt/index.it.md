@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Scrivere Codice di Test, Un Prompt Che Finisce in 5 Minuti"
+title: " \"Scrivere Codice di Test, Un Prompt Che Finisce in 5 Minuti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Affida la noiosa stesura dei Test Unitari all'IA e punta al 100% di test coverage in soli 5 minuti."
+description: " \"Affida la noiosa stesura dei Test Unitari all'IA e punta al 100% di test coverage in soli 5 minuti.\""
 tags: ["Codice di Test", "TDD", "Jest", "PyTest", "QA"]
 ---
 

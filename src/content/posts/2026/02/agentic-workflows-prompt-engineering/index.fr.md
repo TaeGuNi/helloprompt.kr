@@ -1,7 +1,7 @@
 ---
-title: "Ingénierie de Prompt 3.0 : L'Ère des Flux de Travail Agentiques"
+title: " \"Ingénierie de Prompt 3.0 : L'Ère des Flux de Travail Agentiques\""
 date: "2026-02-13"
-description: "L'ingénierie de prompt évolue de l'optimisation en une seule étape vers la conception de systèmes d'agents multi-étapes. Apprenez à concevoir des workflows autonomes."
+description: " \"L'ingénierie de prompt évolue de l'optimisation en une seule étape vers la conception de systèmes d'agents multi-étapes. Apprenez à concevoir des workflows autonomes.\""
 tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 ---
 

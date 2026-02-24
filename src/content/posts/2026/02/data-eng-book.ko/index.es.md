@@ -1,6 +1,6 @@
 ---
-title: "Reseña: El Libro de Ingeniería de Datos (Guía Open Source)"
-description: "Una guía de prompts prácticos para diseñar pipelines de datos escalables utilizando los principios básicos del Libro de Ingeniería de Datos de código abierto."
+title: " \"Reseña: El Libro de Ingeniería de Datos (Guía Open Source)\""
+description: " \"Una guía de prompts prácticos para diseñar pipelines de datos escalables utilizando los principios básicos del Libro de Ingeniería de Datos de código abierto.\""
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

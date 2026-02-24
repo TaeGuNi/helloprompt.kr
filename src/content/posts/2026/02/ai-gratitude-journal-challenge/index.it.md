@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sfida del Diario della Gratitudine IA: Il Modo Più Semplice per la Felicità"
+title: " \"Sfida del Diario della Gratitudine IA: Il Modo Più Semplice per la Felicità\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "La parola 'Grazie' cambia la struttura del cervello. Crea l'abitudine di trovare e registrare piccole felicità con l'IA."
+description: " \"La parola 'Grazie' cambia la struttura del cervello. Crea l'abitudine di trovare e registrare piccole felicità con l'IA.\""
 tags:
   [
     "Diario della Gratitudine",

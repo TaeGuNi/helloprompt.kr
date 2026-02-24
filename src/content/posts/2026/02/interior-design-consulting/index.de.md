@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "인테리어 컨설팅: 방 사진 찍어 올리면 가구 배치 추천"
+title: " \"인테리어 컨설팅: 방 사진 찍어 올리면 가구 배치 추천\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/리빙"
-description: "Ein kleines WG-Zimmer oder ein chaotisches Wohnzimmer? Mit nur einem Foto und einfachen Maßen empfiehlt die KI die optimale Möbelanordnung und passende Deko-Elemente."
+description: " \"Ein kleines WG-Zimmer oder ein chaotisches Wohnzimmer? Mit nur einem Foto und einfachen Maßen empfiehlt die KI die optimale Möbelanordnung und passende Deko-Elemente.\""
 tags: ["인테리어", "집꾸미기", "가구배치", "ChatGPT", "홈스타일링"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NBC 올림픽 피겨스케이팅 트렌드: 1분 만에 바이럴 스포츠 콘텐츠 쓰기"
+title: " \"NBC 올림픽 피겨스케이팅 트렌드: 1분 만에 바이럴 스포츠 콘텐츠 쓰기\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "콘텐츠 제작"
-description: "NBC 올림픽 피겨스케이팅 중계 스타일의 생동감 넘치는 리뷰와 바이럴 콘텐츠를 AI로 1분 만에 작성하는 프롬프트입니다."
+description: " \"NBC 올림픽 피겨스케이팅 중계 스타일의 생동감 넘치는 리뷰와 바이럴 콘텐츠를 AI로 1분 만에 작성하는 프롬프트입니다.\""
 tags:
   [
     "nbc olympics figure skating",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Primo Bottone del Colloquio, Prompt Scrittura 'Auto-Presentazione 1 Minuto' Attraente"
+title: " \"Primo Bottone del Colloquio, Prompt Scrittura 'Auto-Presentazione 1 Minuto' Attraente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Crea uno script per l'auto-presentazione di 1 minuto che esprima chiaramente le tue competenze chiave e il tuo valore, abbandonando le solite metafore banali."
+description: " \"Crea uno script per l'auto-presentazione di 1 minuto che esprima chiaramente le tue competenze chiave e il tuo valore, abbandonando le solite metafore banali.\""
 tags: ["AutoIntro1Min", "PrepColloquio", "ElevatorPitch", "AutoPresentazione"]
 ---
 

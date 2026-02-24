@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex Tipo Alienígena, Ordena en Lenguaje Natural"
+title: " \"Regex Tipo Alienígena, Ordena en Lenguaje Natural\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Deja de luchar con las expresiones regulares como si estuvieras descifrando códigos alienígenas. Explica el patrón que necesitas en lenguaje natural y deja que la IA cree la regex perfecta."
+description: " \"Deja de luchar con las expresiones regulares como si estuvieras descifrando códigos alienígenas. Explica el patrón que necesitas en lenguaje natural y deja que la IA cree la regex perfecta.\""
 tags: ["Regex", "Expresión Regular", "Procesamiento de Cadenas", "Validación"]
 ---
 

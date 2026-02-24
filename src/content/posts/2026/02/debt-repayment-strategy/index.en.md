@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Debt Escape Simulator: Fastest Repayment Strategy"
+title: " \"Debt Escape Simulator: Fastest Repayment Strategy\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Snowball vs. Avalanche strategy. Discover the optimal debt repayment order tailored to your specific loan situation."
+description: " \"Snowball vs. Avalanche strategy. Discover the optimal debt repayment order tailored to your specific loan situation.\""
 tags: ["DebtRepayment", "Loan", "Finance", "CreditManagement"]
 ---
 

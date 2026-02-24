@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "Из-за роста количества динамического контента, одностраничных приложений (SPA) и закрытых экосистем сохранять историю открытого веба становится всё сложнее. Представляем кастомный промпт для вечного архивирования исчезающего интернета."
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"Из-за роста количества динамического контента, одностраничных приложений (SPA) и закрытых экосистем сохранять историю открытого веба становится всё сложнее. Представляем кастомный промпт для вечного архивирования исчезающего интернета.\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ The Internet is Becoming Unarchivable
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "Ким Веб-архив"
 date: "2026-02-15"
 tags: ["динамический контент", "SPA", "закрытые платформы"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de 'Iluminación Volumétrica' (Rayos de Dios) Donde la Luz se Derrama"
+title: " \"Técnica de 'Iluminación Volumétrica' (Rayos de Dios) Donde la Luz se Derrama\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Descubre cómo implementar misteriosos haces de luz (Rayos de Dios) y crear una atmósfera mágica en tus imágenes generadas por IA con estos prompts."
+description: " \"Descubre cómo implementar misteriosos haces de luz (Rayos de Dios) y crear una atmósfera mágica en tus imágenes generadas por IA con estos prompts.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Iluminación", "Atmósfera"]
 ---
 

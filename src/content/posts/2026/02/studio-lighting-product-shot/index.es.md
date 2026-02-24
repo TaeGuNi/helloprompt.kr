@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estándar de Fotografía de Producto Prompt de 'Iluminación de Estudio'"
+title: " \"Estándar de Fotografía de Producto Prompt de 'Iluminación de Estudio'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Si quieres fotos de productos o retratos limpios y profesionales, configura la iluminación de estudio."
+description: " \"Si quieres fotos de productos o retratos limpios y profesionales, configura la iluminación de estudio.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Producto", "Iluminación"]
 ---
 

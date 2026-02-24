@@ -1,6 +1,6 @@
 ---
-title: "AI 검색 전쟁: 구글 vs OpenAI"
-description: "검색의 미래를 둔 거인들의 격돌이 시작되었습니다."
+title: " \"AI 검색 전쟁: 구글 vs OpenAI\""
+description: " \"검색의 미래를 둔 거인들의 격돌이 시작되었습니다.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

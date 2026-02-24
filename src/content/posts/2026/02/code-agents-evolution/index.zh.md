@@ -1,6 +1,6 @@
 ---
-title: "代码代理的进化：开发者角色的转变"
-description: "自主编程智能体正在重塑软件开发生态系统。"
+title: " \"代码代理的进化：开发者角色的转变\""
+description: " \"自主编程智能体正在重塑软件开发生态系统。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "React Native vs Flutter 2026: 개발자가 말하는 진짜 승자는?"
+title: " \"React Native vs Flutter 2026: 개발자가 말하는 진짜 승자는?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "跨平台 App 开发框架还在纠结怎么选？为您全面解析 2026 年最新基准下的性能表现、生态系统与招聘市场动向，帮您一锤定音。"
+description: " \"跨平台 App 开发框架还在纠结怎么选？为您全面解析 2026 年最新基准下的性能表现、生态系统与招聘市场动向，帮您一锤定音。\""
 tags: ["React Native", "Flutter", "앱개발", "크로스플랫폼", "개발자"]
 ---
 

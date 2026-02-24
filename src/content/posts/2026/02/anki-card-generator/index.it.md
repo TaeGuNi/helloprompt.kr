@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Invece di Copiare con Dolore al Polso: Generatore Automatico di Carte di Memorizzazione"
+title: " \"Invece di Copiare con Dolore al Polso: Generatore Automatico di Carte di Memorizzazione\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MetodoStudio/Auto-Sviluppo"
-description: "Un prompt che converte testi lunghi o appunti in flashcard (Q&A) pronte da importare su Anki, Quizlet e simili."
+description: " \"Un prompt che converte testi lunghi o appunti in flashcard (Q&A) pronte da importare su Anki, Quizlet e simili.\""
 tags: ["Memorizzazione", "Flashcard", "Anki", "Quizlet"]
 ---
 

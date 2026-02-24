@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? Datenstruktur-Rezept für Entscheidungsfreudigkeit"
+title: " \"List? Map? Set? Datenstruktur-Rezept für Entscheidungsfreudigkeit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Unsicher, welche Datenstruktur am besten geeignet ist? Dieser Prompt empfiehlt Ihnen die optimale Struktur, die perfekt zu Ihrem Anwendungsfall passt."
+description: " \"Unsicher, welche Datenstruktur am besten geeignet ist? Dieser Prompt empfiehlt Ihnen die optimale Struktur, die perfekt zu Ihrem Anwendungsfall passt.\""
 tags: ["Datenstruktur", "Algorithmus", "Leistungsoptimierung", "CS-Grundlagen"]
 ---
 

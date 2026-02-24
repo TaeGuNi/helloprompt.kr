@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schneller als Papago! Wesentlicher Reise-Konversations-Spickzettel nach Situation"
+title: " \"Schneller als Papago! Wesentlicher Reise-Konversations-Spickzettel nach Situation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Vom Bestellen im Restaurant über den Hotel-Check-in bis zum Notfall. Praktische Konversationskarten, die vor Ort sofort funktionieren."
+description: " \"Vom Bestellen im Restaurant über den Hotel-Check-in bis zum Notfall. Praktische Konversationskarten, die vor Ort sofort funktionieren.\""
 tags: ["Reisen", "Fremdsprache", "Konversation", "Englisch", "Japanisch"]
 ---
 

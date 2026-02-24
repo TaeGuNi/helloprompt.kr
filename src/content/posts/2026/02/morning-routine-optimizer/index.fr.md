@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)"
+title: " \"AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Un prompt pour concevoir la routine matinale optimale adaptée à votre biorythme et à vos objectifs."
+description: " \"Un prompt pour concevoir la routine matinale optimale adaptée à votre biorythme et à vos objectifs.\""
 tags: ["Productivity", "Routine", "Morning", "Planning"]
 ---
 

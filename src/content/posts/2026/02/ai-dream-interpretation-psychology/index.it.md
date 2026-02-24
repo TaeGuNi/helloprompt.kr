@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Psicologia dell'Interpretazione dei Sogni IA: Cos'era il Sogno di Ieri Notte?"
+title: " \"Psicologia dell'Interpretazione dei Sogni IA: Cos'era il Sogno di Ieri Notte?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "È un sogno assurdo o premonitore? O forse un segnale dall'inconscio? Scopri il vero significato dei tuoi sogni attraverso l'analisi psicologica dell'IA."
+description: " \"È un sogno assurdo o premonitore? O forse un segnale dall'inconscio? Scopri il vero significato dei tuoi sogni attraverso l'analisi psicologica dell'IA.\""
 tags:
   ["Interpretazione dei Sogni", "Psicologia", "Inconscio", "Freud", "ChatGPT"]
 ---

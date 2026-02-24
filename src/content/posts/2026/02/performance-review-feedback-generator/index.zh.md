@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "不伤害且能让人成长的人事评价评语"
+title: " \"不伤害且能让人成长的人事评价评语\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "有效减轻成果回顾与反馈编写痛苦的实用提示词，帮助你写出既不伤和气又能促进成长的绩效评价。"
+description: " \"有效减轻成果回顾与反馈编写痛苦的实用提示词，帮助你写出既不伤和气又能促进成长的绩效评价。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

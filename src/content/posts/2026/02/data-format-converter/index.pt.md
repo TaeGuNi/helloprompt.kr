@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel, JSON, CSV... Escape da Tarefa Chata de Conversão de Formato de Dados"
+title: " \"Excel, JSON, CSV... Escape da Tarefa Chata de Conversão de Formato de Dados\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Converta JSON para CSV, XML para JSON sem esforço. Deixe as tarefas repetitivas de conversão de dados para a IA. Estruturas aninhadas complexas não são mais um problema."
+description: " \"Converta JSON para CSV, XML para JSON sem esforço. Deixe as tarefas repetitivas de conversão de dados para a IA. Estruturas aninhadas complexas não são mais um problema.\""
 tags: ["Conversão de Dados", "JSON", "CSV", "Excel", "Produtividade"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Personalbeurteilungskommentare, die wachsen lassen, ohne zu verletzen"
+title: " \"Personalbeurteilungskommentare, die wachsen lassen, ohne zu verletzen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Prompt, der den Schmerz von Leistungsüberprüfungen und Feedbackschreiben lindert."
+description: " \"Prompt, der den Schmerz von Leistungsüberprüfungen und Feedbackschreiben lindert.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

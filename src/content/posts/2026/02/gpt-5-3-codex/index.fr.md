@@ -1,7 +1,7 @@
 ---
 category: Technology
 date: "2026-02-17"
-description: "OpenAI a dévoilé GPT-5.3 Codex Spark, un modèle léger et ultra-performant conçu pour la productivité des développeurs. Découvrez comment l'exploiter avec le prompt parfait."
+description: " \"OpenAI a dévoilé GPT-5.3 Codex Spark, un modèle léger et ultra-performant conçu pour la productivité des développeurs. Découvrez comment l'exploiter avec le prompt parfait.\""
 draft: false
 published: 2026-02-13
 tags:
@@ -10,7 +10,7 @@ tags:
   - Codex
   - OpenAI
   - Development
-title: "GPT-5.3 Codex Spark : Une IA de codage ultra-rapide pour les développeurs"
+title: " \"GPT-5.3 Codex Spark : Une IA de codage ultra-rapide pour les développeurs\""
 ---
 
 # 📝 Exploitez GPT-5.3 Codex Spark : Le Prompt de Refactorisation Ultime

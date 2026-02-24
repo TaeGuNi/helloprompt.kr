@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stress Relief Techniques by Situation: AI Suggestions"
+title: " \"Stress Relief Techniques by Situation: AI Suggestions\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Looking for ways to relieve stress beyond just binge eating? Discover scientifically-proven, situation-specific stress relief techniques powered by AI."
+description: " \"Looking for ways to relieve stress beyond just binge eating? Discover scientifically-proven, situation-specific stress relief techniques powered by AI.\""
 tags: ["Stress", "Burnout", "Mental Management", "Healing", "ChatGPT"]
 ---
 

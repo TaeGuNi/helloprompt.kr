@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "全球商务礼仪指南：会议成功"
+title: " \"全球商务礼仪指南：会议成功\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "双手递名片？谁先握手？为您揭秘能促成合作的各国核心商务礼仪。"
+description: " \"双手递名片？谁先握手？为您揭秘能促成合作的各国核心商务礼仪。\""
 tags: ["海外出差", "商务礼仪", "全球礼仪", "会议准备"]
 ---
 

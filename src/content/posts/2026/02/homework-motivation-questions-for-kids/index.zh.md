@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "孩子写作业动力提问：用辅导代替唠叨"
+title: " \"孩子写作业动力提问：用辅导代替唠叨\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "让孩子在不强迫的情况下，主动坐在书桌前的沟通技巧。"
+description: " \"让孩子在不强迫的情况下，主动坐在书桌前的沟通技巧。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

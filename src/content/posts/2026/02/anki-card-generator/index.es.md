@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "En Lugar de Copiar con Dolor de Muñeca: Generador Automático de Tarjetas de Memorización"
+title: " \"En Lugar de Copiar con Dolor de Muñeca: Generador Automático de Tarjetas de Memorización\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudio/Autodesarrollo"
-description: "Prompt que convierte textos extensos o apuntes de lectura en tarjetas didácticas (Q&A) listas para importar a Anki, Quizlet y otras plataformas."
+description: " \"Prompt que convierte textos extensos o apuntes de lectura en tarjetas didácticas (Q&A) listas para importar a Anki, Quizlet y otras plataformas.\""
 tags: ["Memorización", "TarjetaDidáctica", "Anki", "Quizlet"]
 ---
 

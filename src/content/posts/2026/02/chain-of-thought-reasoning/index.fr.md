@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (French)"
-description: "Demander aux modèles de « penser étape par étape » améliore considérablement leurs performances sur les problèmes de logique."
+title: " \"Chain of Thought Reasoning (French)\""
+description: " \"Demander aux modèles de « penser étape par étape » améliore considérablement leurs performances sur les problèmes de logique.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

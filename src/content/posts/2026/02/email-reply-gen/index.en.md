@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3초 컷"
+title: " \"정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3초 컷\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "비즈니스"
-description: "Save 30 minutes a day on email drafting. Generate polite, professional replies in seconds—whether you're declining an offer or rescheduling a meeting."
+description: " \"Save 30 minutes a day on email drafting. Generate polite, professional replies in seconds—whether you're declining an offer or rescheduling a meeting.\""
 tags: ["이메일", "커뮤니케이션", "영어이메일"]
 ---
 

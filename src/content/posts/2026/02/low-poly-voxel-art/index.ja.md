@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "角ばった魅力「Low Poly & Voxel Art」スタイル"
+title: " \"角ばった魅力「Low Poly & Voxel Art」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "折り紙やマインクラフトのように、単純化された多角形で構成されるローポリ（Low Poly）アートの生成プロンプトです。"
+description: " \"折り紙やマインクラフトのように、単純化された多角形で構成されるローポリ（Low Poly）アートの生成プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 ---
 

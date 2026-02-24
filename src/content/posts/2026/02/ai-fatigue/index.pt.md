@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "Um resumo sobre a Fadiga de IA e a exaustão do público com o hype da Inteligência Artificial."
+title: " \"AI Fatigue (Summary)\""
+description: " \"Um resumo sobre a Fadiga de IA e a exaustão do público com o hype da Inteligência Artificial.\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

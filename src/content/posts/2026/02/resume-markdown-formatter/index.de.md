@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lebenslauf-Formatierungshölle entkommen: Markdown-Konverter"
+title: " \"Lebenslauf-Formatierungshölle entkommen: Markdown-Konverter\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verwandeln Sie unstrukturierten Lebenslauf-Text in sauberes Markdown-Format – ideal für die schnelle Erstellung eines Notion-Lebenslaufs oder die PDF-Konvertierung."
+description: " \"Verwandeln Sie unstrukturierten Lebenslauf-Text in sauberes Markdown-Format – ideal für die schnelle Erstellung eines Notion-Lebenslaufs oder die PDF-Konvertierung.\""
 tags:
   ["LebenslaufFormat", "Markdown", "NotionLebenslauf", "DokumentenOrganisation"]
 ---

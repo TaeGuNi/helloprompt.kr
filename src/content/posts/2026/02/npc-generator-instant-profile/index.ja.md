@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "躍動感あふれるNPC即席生成 (NPC Generator)"
+title: " \"躍動感あふれるNPC即席生成 (NPC Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "創作及び趣味"
-description: "プレイヤーに突然話しかけられても慌てる必要はありません。性格、口調、隠された秘密まで備えたNPCをたった10秒で生成します。"
+description: " \"プレイヤーに突然話しかけられても慌てる必要はありません。性格、口調、隠された秘密まで備えたNPCをたった10秒で生成します。\""
 tags: ["TRPG", "NPC", "キャラクター", "小説", "設定"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Piano Fondo Educazione Figli: Progetto a Lungo Termine 10 Anni"
+title: " \"Piano Fondo Educazione Figli: Progetto a Lungo Termine 10 Anni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Il costo dell'istruzione cresce più dell'inflazione. Scopri esattamente quanto ti servirà per l'università di tuo figlio e come pianificare il fondo oggi stesso."
+description: " \"Il costo dell'istruzione cresce più dell'inflazione. Scopri esattamente quanto ti servirà per l'università di tuo figlio e come pianificare il fondo oggi stesso.\""
 tags: ["CostoEducazione", "TassaScolastica", "Risparmi", "PianoFigli"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진"
+title: " \"토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발 트렌드"
-description: "A Fluorite, motor de jogos Flutter com qualidade de console criado pela Toyota. Além de interfaces veiculares, agora em jogos?"
+description: " \"A Fluorite, motor de jogos Flutter com qualidade de console criado pela Toyota. Além de interfaces veiculares, agora em jogos?\""
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 

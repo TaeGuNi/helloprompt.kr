@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube Shorts Fabrik: Skript + Visuals in 30 Sekunden"
+title: " \"YouTube Shorts Fabrik: Skript + Visuals in 30 Sekunden\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Content Creation"
-description: "Pflanze der KI die virale Kurzform-Formel (Hook-Body-CTA) ein, um Skripte am Fließband zu produzieren."
+description: " \"Pflanze der KI die virale Kurzform-Formel (Hook-Body-CTA) ein, um Skripte am Fließband zu produzieren.\""
 tags: ["YouTube", "Shorts", "Drehbuchschreiben", "Creator", "TikTok"]
 ---
 

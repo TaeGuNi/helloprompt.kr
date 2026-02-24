@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Routine d'Entraînement HIIT Générée par IA : Transpirer en 20 Minutes"
+title: " \"Routine d'Entraînement HIIT Générée par IA : Transpirer en 20 Minutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Pas beaucoup de temps mais envie de perdre du poids ? L'IA crée une nouvelle routine d'Entraînement par Intervalles à Haute Intensité (HIIT) chaque jour."
+description: " \"Pas beaucoup de temps mais envie de perdre du poids ? L'IA crée une nouvelle routine d'Entraînement par Intervalles à Haute Intensité (HIIT) chaque jour.\""
 tags: ["HIIT", "Tabata", "Régime", "Exercice", "ChatGPT"]
 ---
 

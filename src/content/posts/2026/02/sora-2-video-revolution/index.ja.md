@@ -3,7 +3,7 @@ categories:
   - AI News
   - Creative
 date: "2026-02-13"
-description: OpenAIによるSora 2.0の発表は、映像制作業界の常識を覆しました。たった一行のテキストで映画のような映像を作る時代、クリエイターに訪れた機会と危機を分析します。
+description: "OpenAIによるSora 2.0の発表は、映像制作業界の常識を覆しました。たった一行のテキストで映画のような映像を作る時代、クリエイターに訪れた機会と危機を分析します。"
 image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - AI Video
   - Generative AI
   - Content Creation
-title: Sora 2.0とAI映像革命：想像を現実に
+title: "Sora 2.0とAI映像革命：想像を現実に"
 ---
 
 # 📝 Sora 2.0とAI映像革命：想像を現実に

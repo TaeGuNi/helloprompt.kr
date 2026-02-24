@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Volumetric Lighting' (God Rays) Technik, wo Licht herabströmt"
+title: " \"'Volumetric Lighting' (God Rays) Technik, wo Licht herabströmt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Erzeugen Sie mystische Lichtstrahlen und atmosphärische Tiefe in Ihren KI-Bildern mit der perfekten 'God Rays'-Prompt-Strategie."
+description: " \"Erzeugen Sie mystische Lichtstrahlen und atmosphärische Tiefe in Ihren KI-Bildern mit der perfekten 'God Rays'-Prompt-Strategie.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Beleuchtung", "Atmosphäre"]
 ---
 

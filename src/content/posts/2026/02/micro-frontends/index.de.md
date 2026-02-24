@@ -1,6 +1,6 @@
 ---
-title: "Micro-Frontend-Architektur: Skalierung der Frontend-Entwicklung"
-description: "Ein detaillierter Blick darauf, wie Micro-Frontends die Entwicklung großer Web-Apps im Jahr 2026 revolutionieren."
+title: " \"Micro-Frontend-Architektur: Skalierung der Frontend-Entwicklung\""
+description: " \"Ein detaillierter Blick darauf, wie Micro-Frontends die Entwicklung großer Web-Apps im Jahr 2026 revolutionieren.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

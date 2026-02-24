@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "Los medios exageran las capacidades de los robots de LG y Samsung como si estuvieran a punto de cambiar el mundo, pero la cruda realidad de la ingeniería sigue batallando contra las implacables leyes de la física."
+description: " \"Los medios exageran las capacidades de los robots de LG y Samsung como si estuvieran a punto de cambiar el mundo, pero la cruda realidad de la ingeniería sigue batallando contra las implacables leyes de la física.\""
 image: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "IA Física: Exageración vs. Realidad"
+title: " \"IA Física: Exageración vs. Realidad\""
 ---
 
 # 📝 IA Física: Exageración vs. Realidad

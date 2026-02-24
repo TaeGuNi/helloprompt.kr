@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "개인정보처리방침 (Privacy Policy)"
-description: "Politique transparente et sécurisée concernant la collecte et le traitement de vos données personnelles sur Hello Prompt."
+title: " \"개인정보처리방침 (Privacy Policy)\""
+description: " \"Politique transparente et sécurisée concernant la collecte et le traitement de vos données personnelles sur Hello Prompt.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "코딩 에이전트의 진화: 개발자의 역할 변화"
-description: "자율 코딩 에이전트가 개발 생태계를 뒤흔들고 있습니다."
+title: " \"코딩 에이전트의 진화: 개발자의 역할 변화\""
+description: " \"자율 코딩 에이전트가 개발 생태계를 뒤흔들고 있습니다.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

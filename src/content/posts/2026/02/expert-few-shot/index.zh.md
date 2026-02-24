@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "“示例”的力量胜过千言万语 (Few-Shot Prompting)"
+title: " \"“示例”的力量胜过千言万语 (Few-Shot Prompting)\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "提示工程"
-description: "AI的输出格式和语气总是不尽如人意？为您揭秘比长篇大论更高效的终极技巧——Few-Shot（少样本提示），让AI秒懂你的需求。"
+description: " \"AI的输出格式和语气总是不尽如人意？为您揭秘比长篇大论更高效的终极技巧——Few-Shot（少样本提示），让AI秒懂你的需求。\""
 tags: ["Few-Shot", "高级技巧", "示例"]
 ---
 

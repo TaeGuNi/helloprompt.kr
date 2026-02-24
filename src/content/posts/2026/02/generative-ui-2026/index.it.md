@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Italian)"
-description: "Le interfacce che si adattano e si generano in base all'intento dell'utente stanno sostituendo i menu statici."
+title: " \"Generative UI Patterns (Italian)\""
+description: " \"Le interfacce che si adattano e si generano in base all'intento dell'utente stanno sostituendo i menu statici.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

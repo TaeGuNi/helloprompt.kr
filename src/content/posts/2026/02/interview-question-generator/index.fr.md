@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Liste de Questions d'Entretien, l'IA Choisit Pour Vous"
+title: " \"Liste de Questions d'Entretien, l'IA Choisit Pour Vous\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Générateur de questions d'entretien pointues pour évaluer avec précision les véritables compétences d'un candidat."
+description: " \"Générateur de questions d'entretien pointues pour évaluer avec précision les véritables compétences d'un candidat.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

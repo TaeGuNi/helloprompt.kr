@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cuando la IA actúa estúpida: Usa la 'Cadena de Pensamiento (CoT)'"
+title: " \"Cuando la IA actúa estúpida: Usa la 'Cadena de Pensamiento (CoT)'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Ingeniería de Prompts"
-description: "¿La IA responde bien a preguntas simples pero falla en lógicas complejas? Aprende la técnica CoT que usa el 1% de los mejores ingenieros de prompts."
+description: " \"¿La IA responde bien a preguntas simples pero falla en lógicas complejas? Aprende la técnica CoT que usa el 1% de los mejores ingenieros de prompts.\""
 tags: ["CoT", "Pensamiento Lógico", "Resolución de Problemas"]
 ---
 

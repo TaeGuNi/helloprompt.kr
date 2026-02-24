@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "STAR Technique Prompt: Proving Resume Achievements with 'Numbers'"
+title: " \"STAR Technique Prompt: Proving Resume Achievements with 'Numbers'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Transform your plain resume text into compelling, achievement-oriented bullet points using the STAR (Situation, Task, Action, Result) method."
+description: " \"Transform your plain resume text into compelling, achievement-oriented bullet points using the STAR (Situation, Task, Action, Result) method.\""
 tags: ["Resume", "STARmethod", "JobPrep", "QuantifyingAchievement"]
 ---
 

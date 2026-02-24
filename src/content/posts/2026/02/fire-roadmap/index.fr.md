@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Feuille de Route de la Tribu FIRE : Règle des 4 % pour la Retraite Anticipée"
+title: " \"Feuille de Route de la Tribu FIRE : Règle des 4 % pour la Retraite Anticipée\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Simulez le temps nécessaire pour atteindre l'indépendance financière (FIRE) et les actifs requis si vous rêvez de liberté financière."
+description: " \"Simulez le temps nécessaire pour atteindre l'indépendance financière (FIRE) et les actifs requis si vous rêvez de liberté financière.\""
 tags: ["FIRE", "RetraiteAnticipée", "LibertéFinancière", "Finance"]
 ---
 

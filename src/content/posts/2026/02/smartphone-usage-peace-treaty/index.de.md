@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schluss mit Smartphones! Einen Bildschirmzeit-Friedensvertrag schließen"
+title: " \"Schluss mit Smartphones! Einen Bildschirmzeit-Friedensvertrag schließen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "KI-gestützte Verhandlungstipps und Vorlagen, um mit Kindern faire Smartphone-Regeln aufzustellen – ganz ohne Tränen und Streit."
+description: " \"KI-gestützte Verhandlungstipps und Vorlagen, um mit Kindern faire Smartphone-Regeln aufzustellen – ganz ohne Tränen und Streit.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

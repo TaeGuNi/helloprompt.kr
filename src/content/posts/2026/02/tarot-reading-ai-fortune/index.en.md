@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tarot Card Reading: Today's Fortune AI Predicts"
+title: " \"Tarot Card Reading: Today's Fortune AI Predicts\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Feeling anxious or uncertain? Let our AI Tarot Master draw the cards and illuminate your path forward."
+description: " \"Feeling anxious or uncertain? Let our AI Tarot Master draw the cards and illuminate your path forward.\""
 tags: ["Tarot", "Fortune", "Divination", "Counseling", "Pastime"]
 ---
 

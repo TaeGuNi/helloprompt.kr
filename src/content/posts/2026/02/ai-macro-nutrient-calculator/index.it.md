@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calcolatore di Macro Nutrienti IA: Basta Fare una Foto"
+title: " \"Calcolatore di Macro Nutrienti IA: Basta Fare una Foto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Smetti di inserire manualmente le calorie nelle app! Scopri come calcolare l'esatto rapporto tra carboidrati, proteine e grassi semplicemente mostrando una foto del tuo pasto all'IA."
+description: " \"Smetti di inserire manualmente le calorie nelle app! Scopri come calcolare l'esatto rapporto tra carboidrati, proteine e grassi semplicemente mostrando una foto del tuo pasto all'IA.\""
 tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Diario Alimentare"]
 ---
 

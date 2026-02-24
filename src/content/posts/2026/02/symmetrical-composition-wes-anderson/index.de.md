@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perfekte Balance-Schönheit 'Symmetrical Composition'"
+title: " \"Perfekte Balance-Schönheit 'Symmetrical Composition'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Stabiler und skurriler Kompositions-Prompt, bei dem links und rechts perfekt symmetrisch sind, wie in einem Wes Anderson-Film."
+description: " \"Stabiler und skurriler Kompositions-Prompt, bei dem links und rechts perfekt symmetrisch sind, wie in einem Wes Anderson-Film.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Komposition", "Kunststil"]
 ---
 

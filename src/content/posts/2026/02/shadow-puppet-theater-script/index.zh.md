@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "皮影戏脚本：睡前故事"
+title: " \"皮影戏脚本：睡前故事\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "仅需一把手电筒即可打造奇幻世界，由AI为您量身定制的睡前皮影戏短剧本。"
+description: " \"仅需一把手电筒即可打造奇幻世界，由AI为您量身定制的睡前皮影戏短剧本。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

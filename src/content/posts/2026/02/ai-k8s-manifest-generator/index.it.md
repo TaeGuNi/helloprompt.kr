@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: Generare manifest YAML complessi per Kubernetes in 1 secondo con l'IA (AI K8s Manifest Gen)
+title: "Generare manifest YAML complessi per Kubernetes in 1 secondo con l'IA (AI K8s Manifest Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: Dimentica l'inferno dei file YAML in cui un banale errore di indentazione blocca tutto. Affidati all'IA: un prompt per generare manifest Kubernetes impeccabili per Deployment, Service e Ingress.
+description: " \"Dimentica l'inferno dei file YAML in cui un banale errore di indentazione blocca tutto. Affidati all'IA: un prompt per generare manifest Kubernetes impeccabili per Deployment, Service e Ingress.\""
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 

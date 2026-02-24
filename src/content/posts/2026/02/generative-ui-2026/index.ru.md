@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Russian)"
-description: "Интерфейсы, которые адаптируются и генерируются на основе намерений пользователя, приходят на смену статичным меню"
+title: " \"Generative UI Patterns (Russian)\""
+description: " \"Интерфейсы, которые адаптируются и генерируются на основе намерений пользователя, приходят на смену статичным меню\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

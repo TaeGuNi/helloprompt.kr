@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatizzare la Noia Ripetitiva di Excel con Macro (VBA)"
+title: " \"Automatizzare la Noia Ripetitiva di Excel con Macro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Non serve saper programmare. Scopri il prompt magico che genera codice VBA partendo da una semplice descrizione."
+description: " \"Non serve saper programmare. Scopri il prompt magico che genera codice VBA partendo da una semplice descrizione.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

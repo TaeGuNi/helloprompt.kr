@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "一目でわかるKPIダッシュボード企画する"
+title: " \"一目でわかるKPIダッシュボード企画する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "どの指標を見るべきか？ダッシュボードの必須構成要素と最適なレイアウトを提案するプロンプト。"
+description: " \"どの指標を見るべきか？ダッシュボードの必須構成要素と最適なレイアウトを提案するプロンプト。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

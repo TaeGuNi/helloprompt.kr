@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "La Nuit des Jouets : Conte de Fées Style 'Toy Story'"
+title: " \"La Nuit des Jouets : Conte de Fées Style 'Toy Story'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Une fête secrète organisée chaque nuit par les poupées d'attachement préférées de l'enfant."
+description: " \"Une fête secrète organisée chaque nuit par les poupées d'attachement préférées de l'enfant.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

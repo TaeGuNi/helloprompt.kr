@@ -1,13 +1,13 @@
 ---
 date: "2026-02-13"
-description: "Explore the new features of Python 3.14, including JIT compiler improvements and Pattern Matching v3, and leverage AI to migrate your codebase seamlessly."
+description: " \"Explore the new features of Python 3.14, including JIT compiler improvements and Pattern Matching v3, and leverage AI to migrate your codebase seamlessly.\""
 image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: "Python 3.14: A Leap Forward in Speed and Type Safety"
+title: " \"Python 3.14: A Leap Forward in Speed and Type Safety\""
 ---
 
 # 📝 Python 3.14: A Leap Forward in Speed and Type Safety

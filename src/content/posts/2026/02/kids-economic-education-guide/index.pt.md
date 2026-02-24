@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Educação Econômica para Crianças: Ensinando o Valor do Dinheiro"
+title: " \"Guia de Educação Econômica para Crianças: Ensinando o Valor do Dinheiro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Um roteiro prático para ensinar às crianças o valor do dinheiro e o significado do trabalho de forma simples."
+description: " \"Um roteiro prático para ensinar às crianças o valor do dinheiro e o significado do trabalho de forma simples.\""
 tags:
   [
     "Parentalidade",

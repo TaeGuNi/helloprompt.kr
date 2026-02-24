@@ -1,7 +1,7 @@
 ---
-title: "Ingeniería de Prompts 3.0: La Era de los Flujos de Trabajo Agentes"
+title: " \"Ingeniería de Prompts 3.0: La Era de los Flujos de Trabajo Agentes\""
 date: "2026-02-13"
-description: "La ingeniería de prompts evoluciona hacia el diseño de sistemas de múltiples agentes. Descubre cómo implementar flujos de trabajo autónomos para maximizar el potencial de la IA."
+description: " \"La ingeniería de prompts evoluciona hacia el diseño de sistemas de múltiples agentes. Descubre cómo implementar flujos de trabajo autónomos para maximizar el potencial de la IA.\""
 tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 ---
 

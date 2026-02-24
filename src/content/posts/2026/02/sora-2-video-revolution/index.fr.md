@@ -3,7 +3,7 @@ categories:
   - AI News
   - Creative
 date: "2026-02-13"
-description: "L'annonce de Sora 2.0 par OpenAI a bouleversé l'industrie de la production vidéo. Analyse des opportunités et des défis pour les créateurs à l'ère où un simple texte génère une vidéo cinématographique."
+description: " \"L'annonce de Sora 2.0 par OpenAI a bouleversé l'industrie de la production vidéo. Analyse des opportunités et des défis pour les créateurs à l'ère où un simple texte génère une vidéo cinématographique.\""
 image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - AI Video
   - Generative AI
   - Content Creation
-title: "Sora 2.0 et la Révolution Vidéo IA : De l'Imagination à la Réalité"
+title: " \"Sora 2.0 et la Révolution Vidéo IA : De l'Imagination à la Réalité\""
 ---
 
 # 📝 Sora 2.0 et la Révolution Vidéo IA : De l'Imagination à la Réalité

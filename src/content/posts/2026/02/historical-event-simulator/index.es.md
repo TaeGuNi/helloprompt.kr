@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Salta a la Historia: Simulador de Eventos Históricos"
+title: " \"Salta a la Historia: Simulador de Eventos Históricos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/Historia"
-description: "¿Y si fueras un personaje histórico? Un prompt interactivo para revivir y alterar la historia a través de una aventura conversacional."
+description: " \"¿Y si fueras un personaje histórico? Un prompt interactivo para revivir y alterar la historia a través de una aventura conversacional.\""
 tags: ["EstudioHistoria", "Gamificación", "Simulación", "HistoriaAlternativa"]
 ---
 

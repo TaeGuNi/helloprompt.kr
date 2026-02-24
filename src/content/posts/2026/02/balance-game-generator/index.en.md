@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Balance Game Generator: 'Eating Only Ramen Forever vs Quitting Soda Forever'"
+title: " \"Balance Game Generator: 'Eating Only Ramen Forever vs Quitting Soda Forever'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "The ultimate ice-breaking tool! Generate infinite, bizarre 'Would You Rather' style balance game questions to instantly liven up any gathering."
+description: " \"The ultimate ice-breaking tool! Generate infinite, bizarre 'Would You Rather' style balance game questions to instantly liven up any gathering.\""
 tags: ["Game", "BalanceGame", "IceBreaking", "Humor", "Party"]
 ---
 

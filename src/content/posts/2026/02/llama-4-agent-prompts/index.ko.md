@@ -1,10 +1,10 @@
 ---
-title: "Llama 4 Agent Prompts: Unlock Reasoning Capabilities Locally"
+title: " \"Llama 4 Agent Prompts: Unlock Reasoning Capabilities Locally\""
 date: "2026-02-16"
 author: "Jay"
 categories: ["AI Engineering", "Local LLMs"]
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
-description: "Llama 3 프롬프트를 Llama 4에 그대로 쓰고 계신가요? 로컬 환경에서 Llama 4의 추론 능력을 200% 끌어올리는 'Chain-of-Command' 시스템 프롬프트 구조를 공개합니다."
+description: " \"Llama 3 프롬프트를 Llama 4에 그대로 쓰고 계신가요? 로컬 환경에서 Llama 4의 추론 능력을 200% 끌어올리는 'Chain-of-Command' 시스템 프롬프트 구조를 공개합니다.\""
 ---
 
 # 📝 Llama 4 에이전트 프롬프트: 로컬 환경에서 완벽한 추론 능력 깨우기

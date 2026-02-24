@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Enciclopedia Oggetti Gioco: Armi Leggendarie e Accessori Maledetti"
+title: " \"Enciclopedia Oggetti Gioco: Armi Leggendarie e Accessori Maledetti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Una semplice 'Spada +1' è noiosa. Crea oggetti unici con una narrativa viva e meccaniche intriganti."
+description: " \"Una semplice 'Spada +1' è noiosa. Crea oggetti unici con una narrativa viva e meccaniche intriganti.\""
 tags: ["Gioco", "Oggetto", "TRPG", "Pianificazione", "Fantasy"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "OpenAI 'o2' 推理能力的进化：有什么不同？"
-description: "深入分析OpenAI最新模型o2的创新推理能力、增强的思维链（CoT）及其对AI发展的影响。"
+title: " \"OpenAI 'o2' 推理能力的进化：有什么不同？\""
+description: " \"深入分析OpenAI最新模型o2的创新推理能力、增强的思维链（CoT）及其对AI发展的影响。\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

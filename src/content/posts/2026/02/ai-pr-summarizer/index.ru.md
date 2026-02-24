@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: Ревью PR становится проще! AI-суммаризатор Pull Request (AI PR Summarizer)
+title: "Ревью PR становится проще! AI-суммаризатор Pull Request (AI PR Summarizer)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: Огромный Pull Request с десятками измененных файлов. Не знаете, с чего начать? Узнайте, как использовать ИИ для обобщения изменений и выделения ключевых моментов для ревью.
+description: "Огромный Pull Request с десятками измененных файлов. Не знаете, с чего начать? Узнайте, как использовать ИИ для обобщения изменений и выделения ключевых моментов для ревью."
 tags: [Git, Github, Collaboration, Productivity, AI]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Enciclopedia de Ítems de Juego: Armas Legendarias y Accesorios Malditos"
+title: " \"Enciclopedia de Ítems de Juego: Armas Legendarias y Accesorios Malditos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Olvídate de la aburrida 'Espada +1'. Crea ítems únicos con narrativas inmersivas y mecánicas sorprendentes."
+description: " \"Olvídate de la aburrida 'Espada +1'. Crea ítems únicos con narrativas inmersivas y mecánicas sorprendentes.\""
 tags: ["Juego", "Ítem", "TRPG", "Planificación", "Fantasía"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Produkte benennen, die sich verkaufen: Namensgenerator"
+title: " \"Produkte benennen, die sich verkaufen: Namensgenerator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Ein Prompt, der in nur 3 Sekunden einprägsame Produktnamen generiert, die Ihre Markenidentität perfekt einfangen."
+description: " \"Ein Prompt, der in nur 3 Sekunden einprägsame Produktnamen generiert, die Ihre Markenidentität perfekt einfangen.\""
 tags: ["Marketing", "Benennung", "Branding", "Copywriting"]
 ---
 

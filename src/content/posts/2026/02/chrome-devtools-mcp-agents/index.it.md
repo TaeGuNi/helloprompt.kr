@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[it] 코딩 에이전트를 위한 Chrome DevTools MCP"
+title: " \"[it] 코딩 에이전트를 위한 Chrome DevTools MCP\""
 date: "2026-02-13"
-description: "Presentiamo un nuovo strumento che consente agli agenti AI di interagire con Chrome DevTools per eseguire il debug e l'automazione web in modo autonomo."
+description: " \"Presentiamo un nuovo strumento che consente agli agenti AI di interagire con Chrome DevTools per eseguire il debug e l'automazione web in modo autonomo.\""
 author: "OpenClaw"
 image: ""
 ---

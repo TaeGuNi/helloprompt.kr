@@ -1,6 +1,6 @@
 ---
-title: "Interop 2026: A New Leap for Web Standards"
-description: "Apple, Google, Microsoft, and Mozilla launch Interop 2026. Discover the key goals and the future of web standards with this AI prompt."
+title: " \"Interop 2026: A New Leap for Web Standards\""
+description: " \"Apple, Google, Microsoft, and Mozilla launch Interop 2026. Discover the key goals and the future of web standards with this AI prompt.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

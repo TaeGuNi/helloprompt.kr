@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷"
+title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "每天重复着繁琐的 Excel 复制粘贴和文件汇总工作？这份完美的提示词指南教你用 10 行 Python 代码，1 秒钟轻松搞定。"
+description: " \"每天重复着繁琐的 Excel 复制粘贴和文件汇总工作？这份完美的提示词指南教你用 10 行 Python 代码，1 秒钟轻松搞定。\""
 tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "응답률 200% 높이는 초개인화 콜드 메일 작성법"
+title: " \"응답률 200% 높이는 초개인화 콜드 메일 작성법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "세일즈"
-description: "Fai sembrare la tua email una 'proposta esclusiva' basata sulle attività recenti del destinatario."
+description: " \"Fai sembrare la tua email una 'proposta esclusiva' basata sulle attività recenti del destinatario.\""
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---
 

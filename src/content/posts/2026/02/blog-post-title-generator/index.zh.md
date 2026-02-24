@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "召唤点击的博客文章标题生成器"
+title: " \"召唤点击的博客文章标题生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "营销/文案"
-description: "浏览量翻倍的魔法博客标题，只需输入关键词，AI 就会为您精准定制爆款标题。"
+description: " \"浏览量翻倍的魔法博客标题，只需输入关键词，AI 就会为您精准定制爆款标题。\""
 tags: ["博客", "内容营销", "SEO", "文案"]
 ---
 

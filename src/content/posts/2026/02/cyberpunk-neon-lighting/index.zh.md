@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "未来都市的夜晚 'Cyberpunk Neon' 照明演绎"
+title: " \"未来都市的夜晚 'Cyberpunk Neon' 照明演绎\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "强烈的粉蓝色调对比，打造完美的赛博朋克风格霓虹灯光效提示词。"
+description: " \"强烈的粉蓝色调对比，打造完美的赛博朋克风格霓虹灯光效提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 ---
 

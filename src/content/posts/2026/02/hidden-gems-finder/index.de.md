@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Weg mit Klischee-Reisen! Meine eigenen verborgenen Schätze, gefunden von KI"
+title: " \"Weg mit Klischee-Reisen! Meine eigenen verborgenen Schätze, gefunden von KI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"
-description: "Entdecken Sie ruhige, touristenfreie Orte und finden Sie Ihre ganz persönlichen Geheimtipps abseits der Massen."
+description: " \"Entdecken Sie ruhige, touristenfreie Orte und finden Sie Ihre ganz persönlichen Geheimtipps abseits der Massen.\""
 tags: ["Reisen", "Verborgene Schätze", "Verborgene Orte", "Emotionale Reise"]
 ---
 

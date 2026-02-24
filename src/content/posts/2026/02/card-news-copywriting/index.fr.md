@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secrets de Rédaction de Card News qui Appellent aux Clics"
+title: " \"Secrets de Rédaction de Card News qui Appellent aux Clics\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Écriture"
-description: "Un prompt pour générer des titres percutants et des textes de carrousels qui arrêtent le défilement sur Instagram."
+description: " \"Un prompt pour générer des titres percutants et des textes de carrousels qui arrêtent le défilement sur Instagram.\""
 tags: ["Card News", "Rédaction", "Marketing SNS"]
 ---
 

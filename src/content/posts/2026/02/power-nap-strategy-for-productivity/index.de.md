@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Power-Nap-Strategie für Produktivität: Besser als Kaffee!"
+title: " \"Power-Nap-Strategie für Produktivität: Besser als Kaffee!\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Das Mittagstief überwinden: Die 'Coffee Nap'-Technik, um exakt 20 Minuten zu schlafen und voller Energie wieder aufzuwachen."
+description: " \"Das Mittagstief überwinden: Die 'Coffee Nap'-Technik, um exakt 20 Minuten zu schlafen und voller Energie wieder aufzuwachen.\""
 tags: ["Nickerchen", "Produktivität", "Schlaf", "Coffee Nap", "ChatGPT"]
 ---
 

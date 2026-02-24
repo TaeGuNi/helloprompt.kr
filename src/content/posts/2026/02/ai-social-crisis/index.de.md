@@ -1,6 +1,6 @@
 ---
-title: "Die soziale KI-Krise"
-description: "Kritische Analyse der KI-Sozialkrise: Wie KI-Ersatzstoffe echte menschliche Bindungen zerstören."
+title: " \"Die soziale KI-Krise\""
+description: " \"Kritische Analyse der KI-Sozialkrise: Wie KI-Ersatzstoffe echte menschliche Bindungen zerstören.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

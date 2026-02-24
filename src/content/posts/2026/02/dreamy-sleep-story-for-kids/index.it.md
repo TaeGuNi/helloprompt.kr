@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Storia della Buonanotte da Sogno per Bambini: Il Viaggio sul Treno delle Nuvole"
+title: " \"Storia della Buonanotte da Sogno per Bambini: Il Viaggio sul Treno delle Nuvole\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Una storia della buonanotte con tecniche di meditazione e rilassamento per aiutare i bambini ad addormentarsi serenamente."
+description: " \"Una storia della buonanotte con tecniche di meditazione e rilassamento per aiutare i bambini ad addormentarsi serenamente.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

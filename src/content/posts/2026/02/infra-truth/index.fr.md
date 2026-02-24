@@ -1,6 +1,6 @@
 ---
-title: "L'infrastructure est la seule vérité"
-description: "Analyse critique de la vérité sur l'infrastructure : NVIDIA est le seul à gagner vraiment de l'argent."
+title: " \"L'infrastructure est la seule vérité\""
+description: " \"Analyse critique de la vérité sur l'infrastructure : NVIDIA est le seul à gagner vraiment de l'argent.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

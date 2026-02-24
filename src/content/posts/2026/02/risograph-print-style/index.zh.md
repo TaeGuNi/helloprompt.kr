@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "复古印刷感性 'Risograph Print' 风格"
+title: " \"复古印刷感性 'Risograph Print' 风格\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词。"
+description: " \"为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? Prescrição de Estrutura de Dados para Indecisão"
+title: " \"List? Map? Set? Prescrição de Estrutura de Dados para Indecisão\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Com dúvidas sobre qual estrutura de dados utilizar? Descubra o prompt ideal para escolher a estrutura perfeita e otimizar o desempenho do seu código."
+description: " \"Com dúvidas sobre qual estrutura de dados utilizar? Descubra o prompt ideal para escolher a estrutura perfeita e otimizar o desempenho do seu código.\""
 tags:
   [
     "Estrutura de Dados",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)
+title: "스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Self-Improvement
-description: Chega de manhãs dominadas pela ansiedade e preocupação! Apresentamos um prompt de IA para você começar o dia com uma mente inabalável, assim como Marco Aurélio.
+description: "Chega de manhãs dominadas pela ansiedade e preocupação! Apresentamos um prompt de IA para você começar o dia com uma mente inabalável, assim como Marco Aurélio."
 tags: [AI, ChatGPT, Stoicism, Mindset]
 ---
 

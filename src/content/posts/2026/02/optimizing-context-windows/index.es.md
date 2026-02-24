@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (Spanish)"
-description: "Gestionar eficazmente el uso de tokens es clave para reducir costos y mejorar el enfoque del LLM."
+title: " \"Optimizing Context Windows (Spanish)\""
+description: " \"Gestionar eficazmente el uso de tokens es clave para reducir costos y mejorar el enfoque del LLM.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

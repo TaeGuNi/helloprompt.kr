@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mathe-Aufgabe-Retter: Freundlicher Mathe-Aufgaben-Erklärer"
+title: " \"Mathe-Aufgabe-Retter: Freundlicher Mathe-Aufgaben-Erklärer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein detaillierter Prompt, der KI in einen geduldigen Nachhilfelehrer verwandelt und komplexe Rechenwege Schritt für Schritt erklärt."
+description: " \"Ein detaillierter Prompt, der KI in einen geduldigen Nachhilfelehrer verwandelt und komplexe Rechenwege Schritt für Schritt erklärt.\""
 tags: ["MatheLernen", "Problemlösung", "Prompt", "Nachhilfe"]
 ---
 

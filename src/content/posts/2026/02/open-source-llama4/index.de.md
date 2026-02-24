@@ -1,6 +1,6 @@
 ---
-title: "Gegenangriff der Open-Source-KI"
-description: "Eine massive Welle des Open-Source-Ökosystems bedroht geschlossene Modelle."
+title: " \"Gegenangriff der Open-Source-KI\""
+description: " \"Eine massive Welle des Open-Source-Ökosystems bedroht geschlossene Modelle.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Code is Trash?! Clean Code Refactoring Coach"
+title: " \"My Code is Trash?! Clean Code Refactoring Coach\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Coding/IT"
-description: "스파게티 코드를 깔끔하고 유지보수하기 쉬운 클린 코드로 탈바꿈시켜주는 강력한 리팩토링 프롬프트입니다."
+description: " \"스파게티 코드를 깔끔하고 유지보수하기 쉬운 클린 코드로 탈바꿈시켜주는 강력한 리팩토링 프롬프트입니다.\""
 tags: ["Refactoring", "Clean Code", "Developer", "Code Review"]
 ---
 

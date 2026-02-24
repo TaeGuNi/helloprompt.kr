@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Transformer automatiquement vos comptes rendus de réunion en tickets Jira"
+title: " \"Transformer automatiquement vos comptes rendus de réunion en tickets Jira\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "프로젝트 관리"
-description: "Découvrez le prompt magique qui transforme 1 heure de réunion en tickets Jira parfaits et prêts à l'emploi en seulement 10 secondes."
+description: " \"Découvrez le prompt magique qui transforme 1 heure de réunion en tickets Jira parfaits et prêts à l'emploi en seulement 10 secondes.\""
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 

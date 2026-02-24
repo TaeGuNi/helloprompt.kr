@@ -1,14 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: In the era of autonomous agents like GitHub Copilot X2, discover the specific strategies and prompt guides to evolve from a traditional coder to an 'AI Manager'.
+description: "In the era of autonomous agents like GitHub Copilot X2, discover the specific strategies and prompt guides to evolve from a traditional coder to an 'AI Manager'."
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "AI Coding Agents, From 'Writing' to 'Solving': The 2026 Developer Survival Guide"
+title: " \"AI Coding Agents, From 'Writing' to 'Solving': The 2026 Developer Survival Guide\""
 ---
 
 # 📝 AI Coding Agents, From 'Writing' to 'Solving': The 2026 Developer Survival Guide

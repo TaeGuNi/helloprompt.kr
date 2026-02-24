@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comparaison de Mon CV et JD : Prompt de Diagnostic 'Écart de Compétence'"
+title: " \"Comparaison de Mon CV et JD : Prompt de Diagnostic 'Écart de Compétence'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Comparez l'offre d'emploi (JD) ciblée et votre CV pour identifier les compétences manquantes (Skill Gap) et élaborer une stratégie de compensation."
+description: " \"Comparez l'offre d'emploi (JD) ciblée et votre CV pour identifier les compétences manquantes (Skill Gap) et élaborer une stratégie de compensation.\""
 tags:
   ["AnalyseÉcartCompétence", "DiagnosticCV", "StratégieCarrière", "AnalyseJD"]
 ---

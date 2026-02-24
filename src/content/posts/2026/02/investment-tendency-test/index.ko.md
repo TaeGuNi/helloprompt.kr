@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 투자 성향 테스트: 쫄보인가 야수인가?"
+title: " \"내 투자 성향 테스트: 쫄보인가 야수인가?\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.118Z"
 updatedDate: "2026-02-07T09:10:33.118Z"
 category: "재테크 & 투자"
-description: "은행 창구에서 하는 지루하고 형식적인 설문조사는 그만! AI와 함께하는 상황극을 통해 당신의 진짜 위험 감수 성향(Risk Tolerance)을 파악해 보세요."
+description: " \"은행 창구에서 하는 지루하고 형식적인 설문조사는 그만! AI와 함께하는 상황극을 통해 당신의 진짜 위험 감수 성향(Risk Tolerance)을 파악해 보세요.\""
 tags: ["투자성향", "심리테스트", "자산배분", "멘탈관리"]
 ---
 

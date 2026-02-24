@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de 'Boceto de Acuarela' Clara y Transparente"
+title: " \"Técnica de 'Boceto de Acuarela' Clara y Transparente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de acuarela emocional que combina el efecto de dispersión de agua y líneas de boceto a lápiz."
+description: " \"Prompt de acuarela emocional que combina el efecto de dispersión de agua y líneas de boceto a lápiz.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Tradicional"]
 ---

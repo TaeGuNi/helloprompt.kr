@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Aufräumspiel: Die Magie, Aufräumen in ein lustiges Spiel zu verwandeln"
+title: " \"Aufräumspiel: Die Magie, Aufräumen in ein lustiges Spiel zu verwandeln\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Gamification-Strategien, um ein unordentliches Zimmer in nur 10 Minuten spielerisch aufzuräumen."
+description: " \"Gamification-Strategien, um ein unordentliches Zimmer in nur 10 Minuten spielerisch aufzuräumen.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

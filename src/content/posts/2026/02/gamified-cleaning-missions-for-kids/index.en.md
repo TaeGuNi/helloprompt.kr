@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cleaning Play: The Magic of Turning Tidying Up into a Fun Game"
+title: " \"Cleaning Play: The Magic of Turning Tidying Up into a Fun Game\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Gamification strategies to make a messy room clean in just 10 minutes."
+description: " \"Gamification strategies to make a messy room clean in just 10 minutes.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

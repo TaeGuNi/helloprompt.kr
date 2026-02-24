@@ -1,6 +1,6 @@
 ---
-title: "Smart Sleep Masks Broadcasting Brainwaves (French)"
-description: "La confidentialité de l'IoT reste une vulnérabilité critique en 2026 ; les fuites de données biométriques sont les nouvelles fuites de mots de passe."
+title: " \"Smart Sleep Masks Broadcasting Brainwaves (French)\""
+description: " \"La confidentialité de l'IoT reste une vulnérabilité critique en 2026 ; les fuites de données biométriques sont les nouvelles fuites de mots de passe.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]

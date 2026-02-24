@@ -1,8 +1,8 @@
 ---
-title: "Building Personal AI Infrastructure: Why You Should Own Your AI Stack"
+title: " \"Building Personal AI Infrastructure: Why You Should Own Your AI Stack\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Discover how to build a personal AI infrastructure to achieve absolute data privacy, break free from SaaS dependency, and unlock limitless customization."
+description: " \"Discover how to build a personal AI infrastructure to achieve absolute data privacy, break free from SaaS dependency, and unlock limitless customization.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

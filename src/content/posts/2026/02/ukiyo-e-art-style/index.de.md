@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charme japanischer Holzschnitte 'Ukiyo-e' Stil"
+title: " \"Charme japanischer Holzschnitte 'Ukiyo-e' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt-Guide für die Erstellung von KI-Bildern im traditionellen japanischen Ukiyo-e-Holzschnitt-Stil."
+description: " \"Ein Prompt-Guide für die Erstellung von KI-Bildern im traditionellen japanischen Ukiyo-e-Holzschnitt-Stil.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Traditionell"]
 ---
 

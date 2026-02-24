@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기 (프롬프트 포함)"
+title: " \"Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기 (프롬프트 포함)\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "코딩보다 기획이 먼저입니다. Gemini 3 Pro의 Deep Think 모드를 활용해 모호한 아이디어를 구체적인 에이전트 설계도(Spec)로 변환하는 프롬프트를 소개합니다."
+description: " \"코딩보다 기획이 먼저입니다. Gemini 3 Pro의 Deep Think 모드를 활용해 모호한 아이디어를 구체적인 에이전트 설계도(Spec)로 변환하는 프롬프트를 소개합니다.\""
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Aggiungere Magnificenza 'Angolo Basso' (Vista a Occhio di Verme)"
+title: " \"Aggiungere Magnificenza 'Angolo Basso' (Vista a Occhio di Verme)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Un prompt per l'angolo dal basso (Low Angle) che conferisce al soggetto una grandezza e un'autorità travolgenti, osservandolo dal basso verso l'alto."
+description: " \"Un prompt per l'angolo dal basso (Low Angle) che conferisce al soggetto una grandezza e un'autorità travolgenti, osservandolo dal basso verso l'alto.\""
 tags:
   [
     "Midjourney",

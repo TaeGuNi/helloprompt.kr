@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "薪资谈判模拟器：与邪恶HR的实战演练"
+title: " \"薪资谈判模拟器：与邪恶HR的实战演练\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "职业/自我提升"
-description: "给AI套上恶毒面试官的人设，练习薪资谈判。忍受事实暴击，锻炼心态，哪怕多涨1000块也是赚。"
+description: " \"给AI套上恶毒面试官的人设，练习薪资谈判。忍受事实暴击，锻炼心态，哪怕多涨1000块也是赚。\""
 tags: ["薪资谈判", "面试", "角色扮演", "自我提升", "跳槽"]
 ---
 

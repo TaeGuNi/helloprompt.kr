@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "OpenAI 'o2' 推論能力の進化：何が変わったのか？"
-description: "OpenAIの最新モデルo2の革新的な推論能力、強化された思考の連鎖（CoT）、そしてAI開発への影響について深く掘り下げます。"
+title: " \"OpenAI 'o2' 推論能力の進化：何が変わったのか？\""
+description: " \"OpenAIの最新モデルo2の革新的な推論能力、強化された思考の連鎖（CoT）、そしてAI開発への影響について深く掘り下げます。\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

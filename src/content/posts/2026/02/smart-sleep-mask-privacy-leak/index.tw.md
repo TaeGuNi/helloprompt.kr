@@ -1,6 +1,6 @@
 ---
-title: "Smart Sleep Masks Broadcasting Brainwaves (Traditional Chinese)"
-description: "2026年物聯網隱私依然是關鍵弱點；生物識別資料外洩已成為新的密碼外洩危機。"
+title: " \"Smart Sleep Masks Broadcasting Brainwaves (Traditional Chinese)\""
+description: " \"2026年物聯網隱私依然是關鍵弱點；生物識別資料外洩已成為新的密碼外洩危機。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]

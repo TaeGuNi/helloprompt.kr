@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Segretario IA di Notion: Ordinamento To-Do Quotidiano & Auto-Pianificazione"
+title: " \"Segretario IA di Notion: Ordinamento To-Do Quotidiano & Auto-Pianificazione\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Strumenti di Produttività"
-description: "La magia per trasformare il caos in ordine. Svuota la tua mente su Notion AI e ottieni un piano d'azione con le giuste priorità in pochi secondi."
+description: " \"La magia per trasformare il caos in ordine. Svuota la tua mente su Notion AI e ottieni un piano d'azione con le giuste priorità in pochi secondi.\""
 tags: ["Notion", "NotionIA", "GestioneAttività", "Produttività", "GTD"]
 ---
 

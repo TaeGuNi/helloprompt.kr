@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "像外星语一样的正则表达式 (Regex)，请用自然语言订购"
+title: " \"像外星语一样的正则表达式 (Regex)，请用自然语言订购\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "不要像解密一样纠结于复杂的正则表达式。只要说出想要的模式，AI 就会制作精准的正则表达式。"
+description: " \"不要像解密一样纠结于复杂的正则表达式。只要说出想要的模式，AI 就会制作精准的正则表达式。\""
 tags: ["正则表达式", "Regex", "字符串处理", "有效性检查"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Insegnare la Condivisione e la Cura: Una Storia Morale per Bambini"
+title: " \"Insegnare la Condivisione e la Cura: Una Storia Morale per Bambini\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Una fiaba magica per insegnare ai bambini la gioia della condivisione e superare l'avidità."
+description: " \"Una fiaba magica per insegnare ai bambini la gioia della condivisione e superare l'avidità.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

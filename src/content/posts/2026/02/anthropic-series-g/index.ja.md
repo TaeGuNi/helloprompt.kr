@@ -1,13 +1,13 @@
 ---
 date: "2026-02-17"
-description: Anthropicが評価額300億ドルでシリーズG資金調達を実施。このビッグニュースからビジネスのインサイトを抽出するプロンプトを紹介します。
+description: "Anthropicが評価額300億ドルでシリーズG資金調達を実施。このビッグニュースからビジネスのインサイトを抽出するプロンプトを紹介します。"
 heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
 tags:
   - AI
   - Investment
   - Safety
-title: Anthropic、シリーズG資金調達を実施
+title: "Anthropic、シリーズG資金調達を実施"
 ---
 
 # 📝 AI投資ニュースから「自社への影響」を読み解くプロンプト

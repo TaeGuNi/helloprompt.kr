@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기"
+title: " \"ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "Guía perfecta para utilizar la IA como un desarrollador senior con 10 años de experiencia, refactorizando de forma segura el código heredado que te da dolores de cabeza y generando automáticamente pruebas unitarias al mismo tiempo."
+description: " \"Guía perfecta para utilizar la IA como un desarrollador senior con 10 años de experiencia, refactorizando de forma segura el código heredado que te da dolores de cabeza y generando automáticamente pruebas unitarias al mismo tiempo.\""
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 

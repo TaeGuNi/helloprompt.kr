@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "출근길 교통지옥 탈출! AI 교통비서"
+title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프스타일"
-description: "L'IA analyse les conditions de circulation en temps réel et les itinéraires alternatifs pour vous indiquer l'heure de départ optimale."
+description: " \"L'IA analyse les conditions de circulation en temps réel et les itinéraires alternatifs pour vous indiquer l'heure de départ optimale.\""
 tags: ["출근", "교통", "AI비서", "시간관리"]
 ---
 

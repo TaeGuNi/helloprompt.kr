@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide Mondial de l'Étiquette à Table : Ne Soyez Pas Impoli"
+title: " \"Guide Mondial de l'Étiquette à Table : Ne Soyez Pas Impoli\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "À Rome, fais comme les Romains. Découvrez les règles de savoir-vivre à table par pays et évitez les faux pas culturels les plus courants."
+description: " \"À Rome, fais comme les Romains. Découvrez les règles de savoir-vivre à table par pays et évitez les faux pas culturels les plus courants.\""
 tags:
   [
     "Étiquette à Table",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tecnica di Radicamento per l'Ansia: Metodo 5-4-3-2-1"
+title: " \"Tecnica di Radicamento per l'Ansia: Metodo 5-4-3-2-1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Quando l'ansia o il panico colpiscono all'improvviso, ecco come tornare rapidamente alla realtà utilizzando la potente tecnica di grounding 5-4-3-2-1 guidata dall'IA."
+description: " \"Quando l'ansia o il panico colpiscono all'improvviso, ecco come tornare rapidamente alla realtà utilizzando la potente tecnica di grounding 5-4-3-2-1 guidata dall'IA.\""
 tags:
   [
     "Ansia",

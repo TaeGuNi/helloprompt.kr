@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? 決定障害のためのデータ構造処方箋"
+title: " \"List? Map? Set? 決定障害のためのデータ構造処方箋\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "データを保存する際、どのデータ構造を使うべきか迷っていませんか？あなたの状況に最適なデータ構造をAIが的確に提案します。"
+description: " \"データを保存する際、どのデータ構造を使うべきか迷っていませんか？あなたの状況に最適なデータ構造をAIが的確に提案します。\""
 tags: ["データ構造", "アルゴリズム", "性能最適化", "CS基礎"]
 ---
 

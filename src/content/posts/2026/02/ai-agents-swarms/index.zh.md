@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (zh)"
-description: "深度解析 AI Agents 2.0：协同群体（Collaborative Swarms）的未来应用与实战指南。"
+title: " \"AI Agents 2.0: Collaborative Swarms (zh)\""
+description: " \"深度解析 AI Agents 2.0：协同群体（Collaborative Swarms）的未来应用与实战指南。\""
 date: "2026-02-14"
 ---
 

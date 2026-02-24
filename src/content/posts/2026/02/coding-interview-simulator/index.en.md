@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Developer Interview Free Pass: Algorithm Interview Mock Exam"
+title: " \"Developer Interview Free Pass: Algorithm Interview Mock Exam\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "A prompt to practice coding tests and technical interviews with an AI interviewer, designed to help you prepare for top tech companies."
+description: " \"A prompt to practice coding tests and technical interviews with an AI interviewer, designed to help you prepare for top tech companies.\""
 tags: ["CodingTest", "TechnicalInterview", "Algorithm", "JobPreparation"]
 ---
 

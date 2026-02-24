@@ -1,9 +1,9 @@
 ---
-title: "La fine degli sviluppatori junior? Strategie di sopravvivenza nell'era dell'IA 2026 e prompt per la 'Self Code Review'"
+title: " \"La fine degli sviluppatori junior? Strategie di sopravvivenza nell'era dell'IA 2026 e prompt per la 'Self Code Review'\""
 date: 2026-02-16
 tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
-description: "Le assunzioni di profili junior sono scomparse nel 2026. Scopri come 'dirigere' gli agenti IA invece di competervi e sblocca il prompt di self-review per elevare il tuo codice a livello senior."
+description: " \"Le assunzioni di profili junior sono scomparse nel 2026. Scopri come 'dirigere' gli agenti IA invece di competervi e sblocca il prompt di self-review per elevare il tuo codice a livello senior.\""
 layout: /src/layouts/Layout.astro
 category: "Sviluppo Carriera"
 ---

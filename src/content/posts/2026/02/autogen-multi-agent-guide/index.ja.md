@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AutoGen 입문: AI 에이전트끼리 대화하게 만들기"
+title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Microsoftが開発したマルチエージェントフレームワーク「AutoGen」。開発者ボットと管理者ボットが互いにフィードバックを行いながらコードを完成させる、自律型コラボレーション構築ガイドです。"
+description: " \"Microsoftが開発したマルチエージェントフレームワーク「AutoGen」。開発者ボットと管理者ボットが互いにフィードバックを行いながらコードを完成させる、自律型コラボレーション構築ガイドです。\""
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fascino delle Stampe su Legno Giapponesi Stile 'Ukiyo-e'"
+title: " \"Fascino delle Stampe su Legno Giapponesi Stile 'Ukiyo-e'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Un prompt per generare onde e paesaggi nello stile Ukiyo-e, l'estetica tradizionale giapponese per eccellenza."
+description: " \"Un prompt per generare onde e paesaggi nello stile Ukiyo-e, l'estetica tradizionale giapponese per eccellenza.\""
 tags:
   [
     "Midjourney",

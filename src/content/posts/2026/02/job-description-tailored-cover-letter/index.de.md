@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "JD (Stellenbeschreibung) Maßgeschneiderter Anschreiben-Entwurf-Generator"
+title: " \"JD (Stellenbeschreibung) Maßgeschneiderter Anschreiben-Entwurf-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Analysiert Stellenbeschreibungen (JD) und generiert in nur 1 Minute einen passgenauen Entwurf für Ihr Anschreiben, der exakt auf das gesuchte Profil des Unternehmens zugeschnitten ist."
+description: " \"Analysiert Stellenbeschreibungen (JD) und generiert in nur 1 Minute einen passgenauen Entwurf für Ihr Anschreiben, der exakt auf das gesuchte Profil des Unternehmens zugeschnitten ist.\""
 tags: ["Anschreiben", "Selbstvorstellung", "JDAnalyse", "Job"]
 ---
 

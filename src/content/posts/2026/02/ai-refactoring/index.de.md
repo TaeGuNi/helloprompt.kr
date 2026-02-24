@@ -1,6 +1,6 @@
 ---
-title: "KI-gesteuertes Code-Refactoring: Die Zukunft von Clean Code"
-description: "Entdecken Sie, wie künstliche Intelligenz die Codewartung verändert und Refactoring im Jahr 2026 sicherer macht."
+title: " \"KI-gesteuertes Code-Refactoring: Die Zukunft von Clean Code\""
+description: " \"Entdecken Sie, wie künstliche Intelligenz die Codewartung verändert und Refactoring im Jahr 2026 sicherer macht.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

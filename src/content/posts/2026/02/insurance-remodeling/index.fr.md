@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Régime d'Assurance : Trouver les Garanties en Double et Réduire les Primes de Moitié"
+title: " \"Régime d'Assurance : Trouver les Garanties en Double et Réduire les Primes de Moitié\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Technologie Financière & Investissement"
-description: "Mon assurance est-elle vraiment sûre ? Découvrez une méthode d'analyse par l'IA pour éliminer les primes inutiles tout en conservant vos garanties essentielles."
+description: " \"Mon assurance est-elle vraiment sûre ? Découvrez une méthode d'analyse par l'IA pour éliminer les primes inutiles tout en conservant vos garanties essentielles.\""
 tags: ["Assurance", "Technologie Financière", "Économie", "Analyse de Garantie"]
 ---
 

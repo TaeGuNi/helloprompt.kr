@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "读史料的 AI: 古典文本解释器"
+title: " \"读史料的 AI: 古典文本解释器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "人文/历史"
-description: "一款能将晦涩难懂的古籍文献或一手史料轻松翻译成现代白话文，并深度解析其背后含义的 AI 提示词。"
+description: " \"一款能将晦涩难懂的古籍文献或一手史料轻松翻译成现代白话文，并深度解析其背后含义的 AI 提示词。\""
 tags: ["历史", "古典", "读解力", "史料分析"]
 ---
 

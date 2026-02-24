@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Pro：「Deep Think」で完璧なAIエージェントを企画する（プロンプト付き）"
+title: " \"Gemini 3 Pro：「Deep Think」で完璧なAIエージェントを企画する（プロンプト付き）\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "コーディングの前に企画が重要です。Gemini 3 Proの「Deep Think」モードを活用し、曖昧なアイデアを具体的なエージェント設計書（PRD）へと変換するプロンプトを紹介します。"
+description: " \"コーディングの前に企画が重要です。Gemini 3 Proの「Deep Think」モードを活用し、曖昧なアイデアを具体的なエージェント設計書（PRD）へと変換するプロンプトを紹介します。\""
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 

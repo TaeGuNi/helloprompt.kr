@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "No More Giving Up! AI Habit Formation Tracker Design"
+title: " \"No More Giving Up! AI Habit Formation Tracker Design\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Stop relying on sheer willpower. Build a fail-proof habit formation system rooted in brain science using AI."
+description: " \"Stop relying on sheer willpower. Build a fail-proof habit formation system rooted in brain science using AI.\""
 tags: ["Habit", "Routine", "GodLife", "Self-development"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Work and Travel at the Same Time! Tech Pouch Setup for Digital Nomads"
+title: " \"Work and Travel at the Same Time! Tech Pouch Setup for Digital Nomads\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "The magic that turns any cafe into an office. Discover the ultimate remote work tech pouch setup for 200% efficiency."
+description: " \"The magic that turns any cafe into an office. Discover the ultimate remote work tech pouch setup for 200% efficiency.\""
 tags: ["Digital Nomad", "Workation", "Tech Gear", "Remote Work"]
 ---
 

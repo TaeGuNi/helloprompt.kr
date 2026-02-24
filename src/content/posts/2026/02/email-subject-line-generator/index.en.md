@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Email Subject Line Generator That Skyrockets Open Rates"
+title: " \"Email Subject Line Generator That Skyrockets Open Rates\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Stop your newsletters from going straight to spam. Discover how to write compelling email subject lines that your customers can't resist opening."
+description: " \"Stop your newsletters from going straight to spam. Discover how to write compelling email subject lines that your customers can't resist opening.\""
 tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 ---
 

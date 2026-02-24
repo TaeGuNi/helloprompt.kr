@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI认知重构练习：停止消极思想"
+title: " \"AI认知重构练习：停止消极思想\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "当你陷入“我完了”的灾难化思维时，让AI充当你的CBT治疗师，带你打破认知扭曲，将负面情绪转化为积极的成长动力。"
+description: " \"当你陷入“我完了”的灾难化思维时，让AI充当你的CBT治疗师，带你打破认知扭曲，将负面情绪转化为积极的成长动力。\""
 tags: ["心理护理", "CBT", "重构", "自我肯定", "ChatGPT"]
 ---
 

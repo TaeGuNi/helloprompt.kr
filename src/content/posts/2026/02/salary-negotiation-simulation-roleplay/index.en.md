@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "I Want to Raise It! 'Salary Negotiation' Simulation Roleplay"
+title: " \"I Want to Raise It! 'Salary Negotiation' Simulation Roleplay\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Simulate a tense salary negotiation with an AI HR manager to develop logical arguments and maximize your raise."
+description: " \"Simulate a tense salary negotiation with an AI HR manager to develop logical arguments and maximize your raise.\""
 tags: ["SalaryNegotiation", "NegotiationSkill", "AnnualSalaryRaise", "Roleplay"]
 ---
 

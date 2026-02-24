@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de 'Iluminação Volumétrica' (Raios de Deus) Onde a Luz Derrama"
+title: " \"Técnica de 'Iluminação Volumétrica' (Raios de Deus) Onde a Luz Derrama\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Implemente feixes de luz misteriosos e realistas com prompts de Iluminação Volumétrica e Raios de Deus."
+description: " \"Implemente feixes de luz misteriosos e realistas com prompts de Iluminação Volumétrica e Raios de Deus.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Iluminação", "Atmosfera"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Supercomputadora en tu mano: Revolución de IA en el dispositivo"
-description: "La era de los LLM locales de alto rendimiento que funcionan sin conexión a la nube."
+title: " \"Supercomputadora en tu mano: Revolución de IA en el dispositivo\""
+description: " \"La era de los LLM locales de alto rendimiento que funcionan sin conexión a la nube.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

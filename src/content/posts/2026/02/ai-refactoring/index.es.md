@@ -1,6 +1,6 @@
 ---
-title: "Refactorización de Código Impulsada por IA: El Futuro del Código Limpio"
-description: "Descubre cómo la inteligencia artificial transforma el mantenimiento de software en 2026, haciendo que la refactorización de código heredado sea rápida, segura y libre de riesgos."
+title: " \"Refactorización de Código Impulsada por IA: El Futuro del Código Limpio\""
+description: " \"Descubre cómo la inteligencia artificial transforma el mantenimiento de software en 2026, haciendo que la refactorización de código heredado sea rápida, segura y libre de riesgos.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

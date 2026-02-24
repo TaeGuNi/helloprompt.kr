@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rapporto Ecologia Mostri: Creare Mia Creatura"
+title: " \"Rapporto Ecologia Mostri: Creare Mia Creatura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Sei stanco dei soliti slime e goblin? Progetta un mostro originale e realistico tenendo conto del suo ecosistema e delle sue abitudini."
+description: " \"Sei stanco dei soliti slime e goblin? Progetta un mostro originale e realistico tenendo conto del suo ecosistema e delle sue abitudini.\""
 tags: ["Creatura", "Mostro", "PianificazioneGioco", "Fantasy", "Impostazione"]
 ---
 

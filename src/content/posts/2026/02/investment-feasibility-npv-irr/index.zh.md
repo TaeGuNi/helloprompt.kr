@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "投资妥当性分析: NPV 和 IRR 自动计算 Excel"
+title: " \"投资妥当性分析: NPV 和 IRR 自动计算 Excel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "这个项目值得投资吗？教你用 Excel 轻松计算出投资决策的核心指标：净现值（NPV）与内部收益率（IRR）。"
+description: " \"这个项目值得投资吗？教你用 Excel 轻松计算出投资决策的核心指标：净现值（NPV）与内部收益率（IRR）。\""
 tags: ["Excel", "投资分析", "NPV", "IRR"]
 ---
 

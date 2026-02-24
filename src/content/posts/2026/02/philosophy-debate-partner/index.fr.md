@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Argumenter avec Socrate : Partenaire de Débat Philosophique"
+title: " \"Argumenter avec Socrate : Partenaire de Débat Philosophique\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanités/Histoire"
-description: "Un prompt où l'IA incarne un philosophe célèbre et pose constamment des questions pour stimuler votre esprit critique et votre sens de la logique."
+description: " \"Un prompt où l'IA incarne un philosophe célèbre et pose constamment des questions pour stimuler votre esprit critique et votre sens de la logique.\""
 tags: ["Philosophie", "PouvoirLogique", "Débat", "ExpérienceDePensée"]
 ---
 

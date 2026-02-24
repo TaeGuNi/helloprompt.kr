@@ -1,6 +1,6 @@
 ---
-title: "KI-Müdigkeit: Revolution oder digitaler Müll?"
-description: "Im Jahr 2026 ist die Öffentlichkeit des KI-Hypes müde. Wir analysieren die Lücke zwischen Versprechen und Realität."
+title: " \"KI-Müdigkeit: Revolution oder digitaler Müll?\""
+description: " \"Im Jahr 2026 ist die Öffentlichkeit des KI-Hypes müde. Wir analysieren die Lücke zwischen Versprechen und Realität.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

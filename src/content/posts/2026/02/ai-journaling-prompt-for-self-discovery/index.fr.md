@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Journaling IA pour la Découverte de Soi : Explorer Mon Esprit"
+title: " \"Prompt de Journaling IA pour la Découverte de Soi : Explorer Mon Esprit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Comment s'est passée votre journée ? Ne vous contentez plus d'un simple 'c'était bien'. Explorez les profondeurs de votre esprit grâce aux questions introspectives de l'IA."
+description: " \"Comment s'est passée votre journée ? Ne vous contentez plus d'un simple 'c'était bien'. Explorez les profondeurs de votre esprit grâce aux questions introspectives de l'IA.\""
 tags:
   ["Journal", "Journaling", "Soins Mentaux", "Amélioration de Soi", "ChatGPT"]
 ---

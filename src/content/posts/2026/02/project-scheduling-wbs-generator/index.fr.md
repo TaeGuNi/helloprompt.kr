@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planification Automatique des Horaires de Projet (WBS)"
+title: " \"Planification Automatique des Horaires de Projet (WBS)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Prompt de planification qui décompose les tâches en calculant à rebours depuis la date limite."
+description: " \"Prompt de planification qui décompose les tâches en calculant à rebours depuis la date limite.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

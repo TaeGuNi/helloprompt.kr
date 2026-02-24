@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt zum Ändern des koreanischen Lebenslaufs in einen englischen Lebenslauf auf Muttersprachlerniveau"
+title: " \"Prompt zum Ändern des koreanischen Lebenslaufs in einen englischen Lebenslauf auf Muttersprachlerniveau\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Keine bloße Übersetzung: Verwandeln Sie Ihren koreanischen Lebenslauf in ein professionelles, englischsprachiges Resume, das perfekt auf die internationale Recruiting-Kultur zugeschnitten ist."
+description: " \"Keine bloße Übersetzung: Verwandeln Sie Ihren koreanischen Lebenslauf in ein professionelles, englischsprachiges Resume, das perfekt auf die internationale Recruiting-Kultur zugeschnitten ist.\""
 tags:
   [
     "EnglischerLebenslauf",

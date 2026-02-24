@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vim 단축키 마스터: 마우스 없이 코딩하는 법"
+title: " \"Vim 단축키 마스터: 마우스 없이 코딩하는 법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Le rêve de tout développeur : Vim. De hjkl aux macros, ce guide vous aide à maîtriser les raccourcis pour que vos doigts soient plus rapides que votre cerveau."
+description: " \"Le rêve de tout développeur : Vim. De hjkl aux macros, ce guide vous aide à maîtriser les raccourcis pour que vos doigts soient plus rapides que votre cerveau.\""
 tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
 ---
 

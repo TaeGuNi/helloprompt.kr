@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "ウェアラブルAIが日常生活に浸透しつつあります。Metaのスマートグラスの売上が3倍に跳ね上がった成功要因をAIで瞬時に分析・抽出するプロンプトを紹介します。"
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"ウェアラブルAIが日常生活に浸透しつつあります。Metaのスマートグラスの売上が3倍に跳ね上がった成功要因をAIで瞬時に分析・抽出するプロンプトを紹介します。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

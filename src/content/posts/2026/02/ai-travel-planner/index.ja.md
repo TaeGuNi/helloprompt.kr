@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jより完璧なPのためのAI旅行プランナー"
+title: " \"Jより完璧なPのためのAI旅行プランナー\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "生活"
-description: "動線の無駄を省いた最適な旅行ルートと、時間帯別の日程表を作成してくれるAI旅行ガイドプロンプトです。"
+description: " \"動線の無駄を省いた最適な旅行ルートと、時間帯別の日程表を作成してくれるAI旅行ガイドプロンプトです。\""
 tags: ["旅行", "日程作成", "海外旅行"]
 ---
 

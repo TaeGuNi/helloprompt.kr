@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro: Реальные тесты производительности кодирования"
+title: " \"Gemini 3 Pro: Реальные тесты производительности кодирования\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Подробный анализ производительности кодирования Gemini 3 Pro на примерах Python, Rust и миграции унаследованного кода."
+description: " \"Подробный анализ производительности кодирования Gemini 3 Pro на примерах Python, Rust и миграции унаследованного кода.\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

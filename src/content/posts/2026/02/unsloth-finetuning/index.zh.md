@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Unsloth: 让 LLM 微调速度提升 2 倍"
+title: " \"Unsloth: 让 LLM 微调速度提升 2 倍\""
 date: 2026-02-13
-description: "解决 VRAM 不足与训练缓慢问题的 Unsloth LLM 微调代码生成提示词"
+description: " \"解决 VRAM 不足与训练缓慢问题的 Unsloth LLM 微调代码生成提示词\""
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Überwältigendes Raumgefühl 'Wide Angle & Fisheye' Linseneffekt"
+title: " \"Überwältigendes Raumgefühl 'Wide Angle & Fisheye' Linseneffekt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Prompts für Weitwinkel- und Fischaugenobjektive, die enge Räume optisch vergrößern und atemberaubende Landschaften in ihrer vollen Pracht einfangen."
+description: " \"Prompts für Weitwinkel- und Fischaugenobjektive, die enge Räume optisch vergrößern und atemberaubende Landschaften in ihrer vollen Pracht einfangen.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kamerawinkel", "Landschaft"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Presupuesto de Viaje con IA: Viajes Rentables"
+title: " \"Calculadora de Presupuesto de Viaje con IA: Viajes Rentables\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Cuánto debo cambiar? La IA calcula los gastos de viaje justo sin que falte nada."
+description: " \"¿Cuánto debo cambiar? La IA calcula los gastos de viaje justo sin que falte nada.\""
 tags:
   ["Gastos de Viaje", "Presupuesto", "Cambio de Moneda", "Preparación de Viaje"]
 ---

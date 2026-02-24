@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Spiegare il Cielo Blu a un Bambino di 5 Anni: Scienza per Genitori"
+title: " \"Spiegare il Cielo Blu a un Bambino di 5 Anni: Scienza per Genitori\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Un prompt che svela principi scientifici complessi usando metafore a misura di bambino."
+description: " \"Un prompt che svela principi scientifici complessi usando metafore a misura di bambino.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

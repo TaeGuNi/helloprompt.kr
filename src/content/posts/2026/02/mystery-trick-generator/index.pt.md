@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jogo de Dedução de Mistério: Geração de Culpado e Truque (Mystery Trick Generator)"
+title: " \"Jogo de Dedução de Mistério: Geração de Culpado e Truque (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "A IA projeta truques de quarto fechado engenhosos e álibis impecáveis que deixariam os detetives mais famosos do mundo impressionados."
+description: " \"A IA projeta truques de quarto fechado engenhosos e álibis impecáveis que deixariam os detetives mais famosos do mundo impressionados.\""
 tags: ["Dedução", "Mistério", "Truque", "Romance", "Cenário"]
 ---
 

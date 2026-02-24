@@ -1,7 +1,7 @@
 ---
-title: "웹 개발을 위한 Rust: 2026년의 관점"
+title: " \"웹 개발을 위한 Rust: 2026년의 관점\""
 date: 2026-02-13
-description: "2026년, 고성능 웹 서비스의 지배적인 선택이 된 Rust 백엔드 생태계와 아키텍처 설계 프롬프트를 알아봅니다."
+description: " \"2026년, 고성능 웹 서비스의 지배적인 선택이 된 Rust 백엔드 생태계와 아키텍처 설계 프롬프트를 알아봅니다.\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

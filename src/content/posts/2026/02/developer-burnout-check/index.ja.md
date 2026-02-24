@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?"
+title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸까?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "멘탈 케어"
-description: "키보드만 잡으면 한숨부터 나오는 당신. MBI(Maslach Burnout Inventory) 기반으로 내 상태를 진단하고 처방받는 프롬프트."
+description: " \"키보드만 잡으면 한숨부터 나오는 당신. MBI(Maslach Burnout Inventory) 기반으로 내 상태를 진단하고 처방받는 프롬프트.\""
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 

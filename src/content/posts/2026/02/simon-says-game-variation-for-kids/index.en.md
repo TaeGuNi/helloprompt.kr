@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simon Says Game Variation for Kids: Auditory Attention Training"
+title: " \"Simon Says Game Variation for Kids: Auditory Attention Training\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Improve your child's concentration and physical control with whimsical, AI-generated missions."
+description: " \"Improve your child's concentration and physical control with whimsical, AI-generated missions.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

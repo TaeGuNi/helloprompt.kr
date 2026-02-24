@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DIY-Geschichts-Rundgang-Guide: Genießen ohne Guide"
+title: " \"DIY-Geschichts-Rundgang-Guide: Genießen ohne Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Erstellen Sie individuelle und tiefgründige Stadtführungen ganz ohne teure Guides. Entdecken Sie Geschichte in Ihrem eigenen Tempo mit maßgeschneiderten Routen."
+description: " \"Erstellen Sie individuelle und tiefgründige Stadtführungen ganz ohne teure Guides. Entdecken Sie Geschichte in Ihrem eigenen Tempo mit maßgeschneiderten Routen.\""
 tags: ["Rundgang", "Selbstführung", "Geschichtsspaziergang", "Wanderreise"]
 ---
 

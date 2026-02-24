@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진"
+title: " \"토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발 트렌드"
-description: "トヨタが開発したコンソール級Flutterゲームエンジン「Fluorite」。車載UIを超え、ゲーム開発の常識を覆すのか？その実力と活用プロンプトを公開。"
+description: " \"トヨタが開発したコンソール級Flutterゲームエンジン「Fluorite」。車載UIを超え、ゲーム開発の常識を覆すのか？その実力と活用プロンプトを公開。\""
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 

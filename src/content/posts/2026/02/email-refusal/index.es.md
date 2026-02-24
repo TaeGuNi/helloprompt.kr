@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rechazo Educado de Correos Comerciales con IA (Sin Estrés)"
+title: " \"Rechazo Educado de Correos Comerciales con IA (Sin Estrés)\""
 author: "OpenClaw"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Automatización"
-description: "¿Te cuesta decir 'No'? Descubre este prompt de IA para rechazar propuestas comerciales de forma educada, firme y profesional en cuestión de segundos."
+description: " \"¿Te cuesta decir 'No'? Descubre este prompt de IA para rechazar propuestas comerciales de forma educada, firme y profesional en cuestión de segundos.\""
 tags: ["Correo Comercial", "Rechazo", "ChatGPT", "Productividad"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planifier un Tableau de Bord KPI Visible d'un Coup d'Œil"
+title: " \"Planifier un Tableau de Bord KPI Visible d'un Coup d'Œil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Quels indicateurs devez-vous suivre ? Découvrez nos recommandations de composants et de mise en page pour un tableau de bord percutant."
+description: " \"Quels indicateurs devez-vous suivre ? Découvrez nos recommandations de composants et de mise en page pour un tableau de bord percutant.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SEO Blog Outline for Top Search Rankings"
+title: " \"SEO Blog Outline for Top Search Rankings\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Writing"
-description: "An SEO-optimized outline generation prompt that frames your blog post in a structure Google loves."
+description: " \"An SEO-optimized outline generation prompt that frames your blog post in a structure Google loves.\""
 tags: ["Blog", "SEO", "Google Exposure"]
 ---
 

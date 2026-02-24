@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Parálisis de Decisión Resuelta! Recomendador de Menú de Cena con IA"
+title: " \"¡Parálisis de Decisión Resuelta! Recomendador de Menú de Cena con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diaria"
-description: 'Despídete de la eterna pregunta "¿Qué cenamos hoy?". Deja que la IA elija el menú perfecto basándose en el clima, tu estado de ánimo y lo que tienes en la nevera.'
+description: " 'Despídete de la eterna pregunta \"¿Qué cenamos hoy?\". Deja que la IA elija el menú perfecto basándose en el clima, tu estado de ánimo y lo que tienes en la nevera.'"
 tags:
   [
     "Recomendación de Menú",

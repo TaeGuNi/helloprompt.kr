@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "意大利面条代码到此为止！适合我项目的架构推荐"
+title: " \"意大利面条代码到此为止！适合我项目的架构推荐\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需输入项目规模与需求，即可让 AI 为您量身定制 MVC、Clean Architecture、MSA 等最适合的软件架构设计提示词。"
+description: " \"只需输入项目规模与需求，即可让 AI 为您量身定制 MVC、Clean Architecture、MSA 等最适合的软件架构设计提示词。\""
 tags: ["架构", "设计", "设计模式", "系统设计", "MSA"]
 ---
 

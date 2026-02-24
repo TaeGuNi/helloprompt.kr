@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Chasseur de Bugs : Prompt de Débogage pour Attraper les Erreurs en 1 Minute"
+title: " \"Chasseur de Bugs : Prompt de Débogage pour Attraper les Erreurs en 1 Minute\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt redoutable pour identifier instantanément la source de vos bugs et générer le code correctif à partir d'un simple message d'erreur."
+description: " \"Un prompt redoutable pour identifier instantanément la source de vos bugs et générer le code correctif à partir d'un simple message d'erreur.\""
 tags: ["Débogage", "CorrectionErreur", "Développeur", "Productivité"]
 ---
 

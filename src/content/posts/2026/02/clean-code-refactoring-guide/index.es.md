@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Refactorizar Código Sucio a Código Limpio en 1 Segundo"
+title: " \"Refactorizar Código Sucio a Código Limpio en 1 Segundo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Un prompt que transforma código espagueti complejo en un código limpio, fácil de leer y mantener."
+description: " \"Un prompt que transforma código espagueti complejo en un código limpio, fácil de leer y mantener.\""
 tags: ["Refactorización", "Código Limpio", "Mantenimiento", "Productividad Dev"]
 ---
 

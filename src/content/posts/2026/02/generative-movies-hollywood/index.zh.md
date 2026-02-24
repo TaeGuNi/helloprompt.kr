@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (zh)"
-description: "深度解析 AI 生成电影：好莱坞的范式转移及其对影视制作的深远影响。"
+title: " \"AI-Generated Movies: The Hollywood Shift (zh)\""
+description: " \"深度解析 AI 生成电影：好莱坞的范式转移及其对影视制作的深远影响。\""
 date: "2026-02-14"
 ---
 

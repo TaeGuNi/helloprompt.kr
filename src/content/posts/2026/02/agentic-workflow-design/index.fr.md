@@ -1,6 +1,6 @@
 ---
-title: "Au-delà de ChatGPT, l'ère des Agents IA : Concevoir le flux de travail parfait pour la 'délégation'"
-description: "Un guide complet sur les 'flux de travail agentiques' pour déléguer des tâches complexes à l'IA. Découvrez l'essence de l'ingénierie des prompts indispensable pour les professionnels en 2026."
+title: " \"Au-delà de ChatGPT, l'ère des Agents IA : Concevoir le flux de travail parfait pour la 'délégation'\""
+description: " \"Un guide complet sur les 'flux de travail agentiques' pour déléguer des tâches complexes à l'IA. Découvrez l'essence de l'ingénierie des prompts indispensable pour les professionnels en 2026.\""
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags:

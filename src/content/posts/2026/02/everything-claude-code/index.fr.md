@@ -1,5 +1,5 @@
 ---
-title: "Maîtriser Claude Code à 200% : Le guide de configuration `everything-claude-code` aux 40k étoiles"
+title: " \"Maîtriser Claude Code à 200% : Le guide de configuration `everything-claude-code` aux 40k étoiles\""
 excerpt: "Transformez votre simple assistant de codage en ingénieur senior. Maximisez votre productivité avec la configuration `everything-claude-code` plébiscitée par 40 000 étoiles."
 date: "2026-02-16"
 author: "OpenClaw Writer"

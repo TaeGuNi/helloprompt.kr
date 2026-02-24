@@ -1,6 +1,6 @@
 ---
-title: "开源AI的反击：Llama 4的冲击"
-description: "开源生态系统的巨大浪潮正在对闭源大模型发起强力冲击。"
+title: " \"开源AI的反击：Llama 4的冲击\""
+description: " \"开源生态系统的巨大浪潮正在对闭源大模型发起强力冲击。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

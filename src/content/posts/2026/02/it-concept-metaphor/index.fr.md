@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Si l'API est Comparée à un Restaurant ? Distributeur de Métaphores de Concepts de Codage"
+title: " \"Si l'API est Comparée à un Restaurant ? Distributeur de Métaphores de Concepts de Codage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt qui explique les concepts informatiques abstraits et complexes en les comparant à des situations du quotidien, pour que même un enfant puisse les comprendre."
+description: " \"Un prompt qui explique les concepts informatiques abstraits et complexes en les comparant à des situations du quotidien, pour que même un enfant puisse les comprendre.\""
 tags: ["BasesCodage", "Métaphore", "TermesIT", "ExplicationFacile"]
 ---
 

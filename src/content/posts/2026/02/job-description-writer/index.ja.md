@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "採用公告(JD)、志願者が集まるように書く"
+title: " \"採用公告(JD)、志願者が集まるように書く\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "優秀な人材を引き寄せる、魅力的な採用公告（JD）の作成法。"
+description: " \"優秀な人材を引き寄せる、魅力的な採用公告（JD）の作成法。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

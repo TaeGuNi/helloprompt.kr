@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "LG AI Research meets robotics: Exploring the future of Physical AI led by EXAONE and its practical applications."
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"LG AI Research meets robotics: Exploring the future of Physical AI led by EXAONE and its practical applications.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

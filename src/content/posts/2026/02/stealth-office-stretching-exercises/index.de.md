@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Heimliche Büro-Dehnübungen: Schmerzen unbemerkt lindern"
+title: " \"Heimliche Büro-Dehnübungen: Schmerzen unbemerkt lindern\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Entdecken Sie eine heimliche 'Büro-Stretching'-Routine, die Sie direkt am Platz durchführen können, ohne dass es Ihre Kollegen bemerken."
+description: " \"Entdecken Sie eine heimliche 'Büro-Stretching'-Routine, die Sie direkt am Platz durchführen können, ohne dass es Ihre Kollegen bemerken.\""
 tags: ["Handynacken", "Büro-Yoga", "Dehnen", "Büroangestellter", "ChatGPT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "Compare two opposing approaches to improving AI model inference speed—Anthropic's Low Batch Size vs. OpenAI's specialized hardware—and discover the definitive criteria developers should use to choose the right strategy."
+title: " \"LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'\""
+description: " \"Compare two opposing approaches to improving AI model inference speed—Anthropic's Low Batch Size vs. OpenAI's specialized hardware—and discover the definitive criteria developers should use to choose the right strategy.\""
 date: 2026-02-16
 tags:
   [

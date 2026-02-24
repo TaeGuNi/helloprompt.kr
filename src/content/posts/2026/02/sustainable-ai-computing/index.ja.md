@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (ja)"
-description: "AIコンピューティングにおける持続可能性（Sustainable AI Computing）の分析と実践ガイド。"
+title: " \"Sustainable AI Computing (ja)\""
+description: " \"AIコンピューティングにおける持続可能性（Sustainable AI Computing）の分析と実践ガイド。\""
 date: "2026-02-14"
 ---
 

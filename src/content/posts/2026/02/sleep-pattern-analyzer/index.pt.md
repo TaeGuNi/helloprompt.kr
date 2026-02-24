@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape da Insônia! Análise de Padrão de Sono com IA e Guia de Bom Sono"
+title: " \"Escape da Insônia! Análise de Padrão de Sono com IA e Guia de Bom Sono\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Diga adeus às noites em claro. Deixe a IA analisar seus hábitos e criar uma rotina de sono perfeita para você."
+description: " \"Diga adeus às noites em claro. Deixe a IA analisar seus hábitos e criar uma rotina de sono perfeita para você.\""
 tags: ["Sono", "Insônia", "Saúde", "Estilo de Vida"]
 ---
 

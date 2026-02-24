@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "兄弟姐妹吵架调解：所罗门的智慧提示词"
+title: " \"兄弟姐妹吵架调解：所罗门的智慧提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "为每天争吵不休的孩子们提供公平和解、增进感情的AI提示词"
+description: " \"为每天争吵不休的孩子们提供公平和解、增进感情的AI提示词\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

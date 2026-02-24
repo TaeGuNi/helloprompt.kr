@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Curation de Newsletters : Bot Résumé des Actus de l'Industrie Chaque Lundi Matin"
+title: " \"Curation de Newsletters : Bot Résumé des Actus de l'Industrie Chaque Lundi Matin\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Marketing/Contenu"
-description: "Lecture indispensable pour les marketeurs épuisés par la veille. Découvrez comment lier un flux RSS à l'IA pour générer automatiquement vos brouillons de newsletter."
+description: " \"Lecture indispensable pour les marketeurs épuisés par la veille. Découvrez comment lier un flux RSS à l'IA pour générer automatiquement vos brouillons de newsletter.\""
 tags: ["Newsletter", "Curation", "Automatisation", "Zapier", "ChatGPT"]
 ---
 

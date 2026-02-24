@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (Russian)"
-description: "ИИ с акцентом на конфиденциальность, доступный каждому"
+title: " \"Local LLMs Guide (Russian)\""
+description: " \"ИИ с акцентом на конфиденциальность, доступный каждому\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

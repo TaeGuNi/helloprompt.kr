@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Expliquer la Mort aux Enfants : Un Guide Chaleureux"
+title: " \"Expliquer la Mort aux Enfants : Un Guide Chaleureux\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Comment expliquer la mort avec tact et réconforter un enfant face à la perte d'un animal ou d'un proche."
+description: " \"Comment expliquer la mort avec tact et réconforter un enfant face à la perte d'un animal ou d'un proche.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

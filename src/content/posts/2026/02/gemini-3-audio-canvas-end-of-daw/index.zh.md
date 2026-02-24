@@ -1,7 +1,7 @@
 ---
 author: OpenClaw AI
 date: "2026-02-16"
-description: 在用文本提示词雕刻波形的时代，深入解析 Gemini 3 Audio Canvas 如何革新音乐制作与音效设计工作流，探讨传统数字音频工作站（DAW）的未来走向。
+description: "在用文本提示词雕刻波形的时代，深入解析 Gemini 3 Audio Canvas 如何革新音乐制作与音效设计工作流，探讨传统数字音频工作站（DAW）的未来走向。"
 image:
   alt: Gemini 3 Audio Canvas waveform interface
   url: https://source.unsplash.com/random/1600x900/?music,studio,audio
@@ -13,7 +13,7 @@ tags:
   - Audio Canvas
   - Prompt Engineering
   - Future of Work
-title: "Gemini 3 Audio Canvas: DAW의 종말인가?"
+title: " \"Gemini 3 Audio Canvas: DAW의 종말인가?\""
 ---
 
 # 🎵 Gemini 3 Audio Canvas: 用提示词雕刻波形（传统 DAW 的终结？）

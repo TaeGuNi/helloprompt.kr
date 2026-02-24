@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créer un Conte de Fées de Héros Où Mon Enfant est le Personnage Principal"
+title: " \"Créer un Conte de Fées de Héros Où Mon Enfant est le Personnage Principal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "La magie qui booste l'estime de soi : créez une histoire d'aventure personnalisée dont votre enfant est le héros."
+description: " \"La magie qui booste l'estime de soi : créez une histoire d'aventure personnalisée dont votre enfant est le héros.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

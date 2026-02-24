@@ -1,7 +1,7 @@
 ---
-title: "Web開発のためのRust：2026年の視点"
+title: " \"Web開発のためのRust：2026年の視点\""
 date: 2026-02-13
-description: "2026年、Rustが高性能Webサービスの主流な選択肢となりつつある理由。"
+description: " \"2026年、Rustが高性能Webサービスの主流な選択肢となりつつある理由。\""
 image: "./cover.jpg"
 tags: ["rust", "web development", "backend", "performance"]
 ---

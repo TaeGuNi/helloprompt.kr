@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Copy Annunci Facebook/Insta Che Chiama i Clic"
+title: " \"Generatore di Copy Annunci Facebook/Insta Che Chiama i Clic\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Come scrivere un Testo Principale (Primary Text) per annunci social in grado di fermare lo scorrimento e far esplodere i clic."
+description: " \"Come scrivere un Testo Principale (Primary Text) per annunci social in grado di fermare lo scorrimento e far esplodere i clic.\""
 tags:
   [
     "Annuncio Facebook",

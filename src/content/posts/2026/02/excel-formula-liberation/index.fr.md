@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Déclaration d'Indépendance Excel : Plus de VLOOKUP"
+title: " \"Déclaration d'Indépendance Excel : Plus de VLOOKUP\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Analyse de Données"
-description: "Ne mémorisez plus les formules Excel complexes. Découvrez les techniques de prompt pour contrôler Excel en langage naturel."
+description: " \"Ne mémorisez plus les formules Excel complexes. Découvrez les techniques de prompt pour contrôler Excel en langage naturel.\""
 tags: ["Excel", "DataAnalysis", "ChatGPT", "VLOOKUP", "Productivité"]
 ---
 

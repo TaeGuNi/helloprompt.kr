@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식"
+title: " \"랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Por que os clientes saem assim que entram? Do Hero Section ao CTA, aprenda a criar copys persuasivas que obrigam o usuário a rolar a página."
+description: " \"Por que os clientes saem assim que entram? Do Hero Section ao CTA, aprenda a criar copys persuasivas que obrigam o usuário a rolar a página.\""
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 

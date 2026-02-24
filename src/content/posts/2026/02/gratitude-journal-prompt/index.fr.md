@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Soin Mental Quotidien de 5 Minutes, Journal de Gratitude IA et Prompt de Rétrospection"
+title: " \"Soin Mental Quotidien de 5 Minutes, Journal de Gratitude IA et Prompt de Rétrospection\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Ne restez plus bloqué devant une page blanche. Laissez l'IA vous guider avec des questions introspectives pour transformer votre quotidien en un moment de guérison."
+description: " \"Ne restez plus bloqué devant une page blanche. Laissez l'IA vous guider avec des questions introspectives pour transformer votre quotidien en un moment de guérison.\""
 tags: ["Journal", "Rétrospection", "Journal de Gratitude", "Soin Mental"]
 ---
 

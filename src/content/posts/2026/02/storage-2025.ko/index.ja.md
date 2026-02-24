@@ -1,6 +1,6 @@
 ---
-title: "2025年 Backblazeドライブ統計：AIストレージの現実"
-description: "巨大AIデータセット時代におけるドライブの信頼性を徹底分析"
+title: " \"2025年 Backblazeドライブ統計：AIストレージの現実\""
+description: " \"巨大AIデータセット時代におけるドライブの信頼性を徹底分析\""
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

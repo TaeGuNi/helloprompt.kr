@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stop Smartphones! Making a Screen Time Peace Treaty"
+title: " \"Stop Smartphones! Making a Screen Time Peace Treaty\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Master the art of negotiation and rule-setting to help kids turn off YouTube without a fight."
+description: " \"Master the art of negotiation and rule-setting to help kids turn off YouTube without a fight.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 저녁 뭐 먹지? AI 소믈리에의 와인 페어링"
+title: " \"오늘 저녁 뭐 먹지? AI 소믈리에의 와인 페어링\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "편의점 와인부터 고급 빈티지까지, 내 메뉴에 딱 맞는 와인을 추천받으세요. 비비노(Vivino) 평점보다 내 입맛이 더 정확합니다."
+description: " \"편의점 와인부터 고급 빈티지까지, 내 메뉴에 딱 맞는 와인을 추천받으세요. 비비노(Vivino) 평점보다 내 입맛이 더 정확합니다.\""
 tags: ["와인", "미식", "페어링", "소믈리에"]
 ---
 

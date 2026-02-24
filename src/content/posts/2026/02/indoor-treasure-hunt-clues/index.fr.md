@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Indices de Chasse au Trésor en Intérieur : Activité pour Jours de Pluie"
+title: " \"Indices de Chasse au Trésor en Intérieur : Activité pour Jours de Pluie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Générez des indices de chasse au trésor sur mesure pour vos enfants en seulement 5 minutes grâce à l'IA."
+description: " \"Générez des indices de chasse au trésor sur mesure pour vos enfants en seulement 5 minutes grâce à l'IA.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notte dei Giocattoli: Fiaba in Stile 'Toy Story'"
+title: " \"Notte dei Giocattoli: Fiaba in Stile 'Toy Story'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Scopri come trasformare il momento del riordino in una magia con storie della buonanotte generate dall'IA per bambini."
+description: " \"Scopri come trasformare il momento del riordino in una magia con storie della buonanotte generate dall'IA per bambini.\""
 tags:
   [
     "Genitorialità",

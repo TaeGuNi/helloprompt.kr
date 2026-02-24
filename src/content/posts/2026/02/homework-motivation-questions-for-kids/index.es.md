@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preguntas de Motivación para la Tarea para Niños: Coaching en Lugar de Regañar"
+title: " \"Preguntas de Motivación para la Tarea para Niños: Coaching en Lugar de Regañar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Técnicas de conversación para lograr que los niños se sienten a estudiar por voluntad propia, sin presiones ni regaños."
+description: " \"Técnicas de conversación para lograr que los niños se sienten a estudiar por voluntad propia, sin presiones ni regaños.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

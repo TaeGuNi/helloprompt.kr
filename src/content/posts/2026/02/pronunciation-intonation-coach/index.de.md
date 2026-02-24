@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Muttersprachliches Aussprache-Coaching gelernt durch Text"
+title: " \"Muttersprachliches Aussprache-Coaching gelernt durch Text\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Fremdsprachenlernen"
-description: "Ein effektiver Prompt, um phonetische Symbole, Wortbetonung und Intonation visuell zu erfassen – ideal für Umgebungen, in denen man nicht laut üben kann."
+description: " \"Ein effektiver Prompt, um phonetische Symbole, Wortbetonung und Intonation visuell zu erfassen – ideal für Umgebungen, in denen man nicht laut üben kann.\""
 tags: ["EnglischeAussprache", "Shadowing", "Prompt", "Sprechen"]
 ---
 

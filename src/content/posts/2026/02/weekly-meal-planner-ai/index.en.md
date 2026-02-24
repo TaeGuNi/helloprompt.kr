@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Generate a customized weekly meal plan in minutes with this AI Nutritionist prompt. Save time, eat healthier, and hit your macro goals effortlessly."
+description: " \"Generate a customized weekly meal plan in minutes with this AI Nutritionist prompt. Save time, eat healthier, and hit your macro goals effortlessly.\""
 tags: ["태그1", "태그2"]
 ---
 

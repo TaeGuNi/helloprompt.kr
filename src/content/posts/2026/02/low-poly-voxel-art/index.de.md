@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kantiger Charme 'Low Poly & Voxel Art' Stil"
+title: " \"Kantiger Charme 'Low Poly & Voxel Art' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Leitfaden zur Erstellung von Low-Poly-Kunst und Voxel-Designs aus vereinfachten Polygonen im Origami- oder Minecraft-Stil."
+description: " \"Ein Leitfaden zur Erstellung von Low-Poly-Kunst und Voxel-Designs aus vereinfachten Polygonen im Origami- oder Minecraft-Stil.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Kunststil"]
 ---
 

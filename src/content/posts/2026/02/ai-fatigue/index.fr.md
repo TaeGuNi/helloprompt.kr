@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "Comprendre et surmonter la fatigue liée à l'IA : un guide pratique pour les professionnels épuisés par le battage médiatique."
+title: " \"AI Fatigue (Summary)\""
+description: " \"Comprendre et surmonter la fatigue liée à l'IA : un guide pratique pour les professionnels épuisés par le battage médiatique.\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

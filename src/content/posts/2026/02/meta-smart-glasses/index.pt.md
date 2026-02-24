@@ -1,6 +1,6 @@
 ---
-title: "Óculos Inteligentes Meta: O Triunfo da IA Vestível"
-description: "As vendas de óculos inteligentes estão em alta, liderando o mercado de IA vestível. Analise o sucesso estratégico da Meta e as tendências de mercado."
+title: " \"Óculos Inteligentes Meta: O Triunfo da IA Vestível\""
+description: " \"As vendas de óculos inteligentes estão em alta, liderando o mercado de IA vestível. Analise o sucesso estratégico da Meta e as tendências de mercado.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

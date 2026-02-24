@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de Aterramento para Ansiedade: Método 5-4-3-2-1"
+title: " \"Técnica de Aterramento para Ansiedade: Método 5-4-3-2-1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Quando surgirem sintomas repentinos de ansiedade ou pânico, saiba como retornar rapidamente à realidade com a técnica 5-4-3-2-1 guiada por IA."
+description: " \"Quando surgirem sintomas repentinos de ansiedade ou pânico, saiba como retornar rapidamente à realidade com a técnica 5-4-3-2-1 guiada por IA.\""
 tags:
   [
     "Ansiedade",

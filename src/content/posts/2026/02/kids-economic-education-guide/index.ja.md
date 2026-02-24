@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "子供のための経済教育ガイド：お金の価値を教える"
+title: " \"子供のための経済教育ガイド：お金の価値を教える\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "お金の価値と働くことの意味を子供に分かりやすく教えるための説明スクリプト"
+description: " \"お金の価値と働くことの意味を子供に分かりやすく教えるための説明スクリプト\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Homework Motivation Questions for Kids: Coaching Instead of Nagging"
+title: " \"Homework Motivation Questions for Kids: Coaching Instead of Nagging\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Discover conversation techniques that naturally encourage your child to sit at their desk and study, without resorting to nagging or force."
+description: " \"Discover conversation techniques that naturally encourage your child to sit at their desk and study, without resorting to nagging or force.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

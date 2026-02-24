@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "为了达成目标的 OKR 设定指南"
+title: " \"为了达成目标的 OKR 设定指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "制定激动人心的目标 (Objective) 与可衡量的关键结果 (Key Result)。"
+description: " \"制定激动人心的目标 (Objective) 与可衡量的关键结果 (Key Result)。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

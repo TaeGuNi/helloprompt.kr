@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AIエージェントセキュリティガイド：ボットがハッキングされないために"
+title: " \"AIエージェントセキュリティガイド：ボットがハッキングされないために\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "セキュリティ/AI"
-description: "自律型エージェントがAPIキーを流出させたり、悪意のあるコードを実行したりするのを防ぐための実践ガイド。OWASP LLM Top 10に基づくセキュリティプロンプトを提供します。"
+description: " \"自律型エージェントがAPIキーを流出させたり、悪意のあるコードを実行したりするのを防ぐための実践ガイド。OWASP LLM Top 10に基づくセキュリティプロンプトを提供します。\""
 tags:
   [
     "AIエージェント",

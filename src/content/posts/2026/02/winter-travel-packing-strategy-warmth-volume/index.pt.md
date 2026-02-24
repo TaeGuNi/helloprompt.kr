@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estratégia de Mala para Viagem de Inverno: Calor & Volume"
+title: " \"Estratégia de Mala para Viagem de Inverno: Calor & Volume\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Uma jaqueta acolchoada já enche sua mala? Descubra como otimizar o espaço e dominar a arte de fazer as malas para viagens de inverno."
+description: " \"Uma jaqueta acolchoada já enche sua mala? Descubra como otimizar o espaço e dominar a arte de fazer as malas para viagens de inverno.\""
 tags:
   [
     "Viagem de Inverno",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore Domande Previste 'Colloquio Tecnico' per Lavoro"
+title: " \"Generatore Domande Previste 'Colloquio Tecnico' per Lavoro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Genera le domande più probabili per il tuo colloquio tecnico e le relative risposte modello, perfettamente adattate al tuo ruolo, alla tua seniority e alle tue competenze chiave."
+description: " \"Genera le domande più probabili per il tuo colloquio tecnico e le relative risposte modello, perfettamente adattate al tuo ruolo, alla tua seniority e alle tue competenze chiave.\""
 tags:
   ["ColloquioTech", "ColloquioMaggiore", "DomandaPrevista", "ColloquioLavoro"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quelle est la Complexité Temporelle (Big O) de Mon Code ?"
+title: " \"Quelle est la Complexité Temporelle (Big O) de Mon Code ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt qui analyse la complexité temporelle et spatiale de votre algorithme pour identifier les goulots d'étranglement et proposer des optimisations de performance."
+description: " \"Un prompt qui analyse la complexité temporelle et spatiale de votre algorithme pour identifier les goulots d'étranglement et proposer des optimisations de performance.\""
 tags:
   [
     "Algorithme",

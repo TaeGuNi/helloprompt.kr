@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Educación Sexual para Niños: Cómo Responder '¿De Dónde Vienen los Bebés?'"
+title: " \"Guía de Educación Sexual para Niños: Cómo Responder '¿De Dónde Vienen los Bebés?'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Una guía práctica y empática para explicar la educación sexual a los niños de manera precisa y natural, sin recurrir a mitos."
+description: " \"Una guía práctica y empática para explicar la educación sexual a los niños de manera precisa y natural, sin recurrir a mitos.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

@@ -3,7 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description: Googleの最新AIモデル「Gemini 3」の強力な推論能力と「深層思考 (Deep Think)」機能を引き出す、最強の問題解決プロンプト。
+description: "Googleの最新AIモデル「Gemini 3」の強力な推論能力と「深層思考 (Deep Think)」機能を引き出す、最強の問題解決プロンプト。"
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -12,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: 深層思考 (Deep Think) の新たな地平"
+title: " \"Google Gemini 3: 深層思考 (Deep Think) の新たな地平\""
 ---
 
 # 🧠 Google Gemini 3: 深層思考 (Deep Think) の新たな地平

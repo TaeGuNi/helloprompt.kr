@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Défi d'Entraînement à la Maison de 30 Jours avec l'IA : Échapper à l'Abandon du 3ème Jour"
+title: " \"Défi d'Entraînement à la Maison de 30 Jours avec l'IA : Échapper à l'Abandon du 3ème Jour\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Un miracle réalisé chez soi, au seul poids du corps et sans aucun équipement. L'IA vous concocte une routine d'entraînement de 30 jours, différente chaque jour."
+description: " \"Un miracle réalisé chez soi, au seul poids du corps et sans aucun équipement. L'IA vous concocte une routine d'entraînement de 30 jours, différente chaque jour.\""
 tags:
   [
     "Entraînement à la Maison",

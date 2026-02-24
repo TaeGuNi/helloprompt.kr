@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법"
+title: " \"AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "크리에이티브/예술"
-description: "Guide complet pour modifier votre voix grâce à la technologie RVC (Retrieval-based Voice Conversion) et créer des TTS de haute qualité avec la voix de vos idoles."
+description: " \"Guide complet pour modifier votre voix grâce à la technologie RVC (Retrieval-based Voice Conversion) et créer des TTS de haute qualité avec la voix de vos idoles.\""
 tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 ---
 

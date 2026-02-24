@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (es)"
-description: "Análisis de películas generadas por IA: El cambio en Hollywood."
+title: " \"AI-Generated Movies: The Hollywood Shift (es)\""
+description: " \"Análisis de películas generadas por IA: El cambio en Hollywood.\""
 date: "2026-02-14"
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "L'essor des IDE Agentiques : Comment l'IA redéfinit le codage en 2026"
+title: " \"L'essor des IDE Agentiques : Comment l'IA redéfinit le codage en 2026\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "En 2026, le paradigme du développement logiciel a radicalement changé. Découvrez comment utiliser les IDE Agentiques pour concevoir et coder des fonctionnalités entières de manière autonome."
+description: " \"En 2026, le paradigme du développement logiciel a radicalement changé. Découvrez comment utiliser les IDE Agentiques pour concevoir et coder des fonctionnalités entières de manière autonome.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

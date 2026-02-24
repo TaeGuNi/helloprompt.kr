@@ -1,13 +1,13 @@
 ---
 date: "2026-02-13"
-description: JITコンパイラの改善やパターンマッチング v3など、Python 3.14の新機能を紹介し、既存のコードを最新仕様に最適化するプロンプトを公開します。
+description: "JITコンパイラの改善やパターンマッチング v3など、Python 3.14の新機能を紹介し、既存のコードを最新仕様に最適化するプロンプトを公開します。"
 image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: Python 3.14：速度と型安全性の新たな飛躍
+title: "Python 3.14：速度と型安全性の新たな飛躍"
 ---
 
 # 📝 Python 3.14：速度と型安全性の新たな飛躍

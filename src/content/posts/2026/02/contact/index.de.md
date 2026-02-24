@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kontakt (Contact Us)"
-description: "Haben Sie Fragen oder Vorschläge für das Hello Prompt-Team? Kontaktieren Sie uns jederzeit."
+title: " \"Kontakt (Contact Us)\""
+description: " \"Haben Sie Fragen oder Vorschläge für das Hello Prompt-Team? Kontaktieren Sie uns jederzeit.\""
 date: "2026-02-09"
 ---
 

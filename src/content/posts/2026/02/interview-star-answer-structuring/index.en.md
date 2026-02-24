@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "When Interview Answer Rambles! 'STAR Technique' Answer Structuring Prompt"
+title: " \"When Interview Answer Rambles! 'STAR Technique' Answer Structuring Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "For those who tend to ramble during interviews, this prompt structures any experience using the STAR method (Situation, Task, Action, Result) for clear, concise answers."
+description: " \"For those who tend to ramble during interviews, this prompt structures any experience using the STAR method (Situation, Task, Action, Result) for clear, concise answers.\""
 tags: ["STARTechnique", "InterviewAnswer", "Structuring", "LogicalSpeaking"]
 ---
 

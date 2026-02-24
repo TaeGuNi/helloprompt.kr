@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Copywriting: Crea Titoli 'Acchiappa-Click' in 1 Secondo con GPT"
+title: " \"Copywriting: Crea Titoli 'Acchiappa-Click' in 1 Secondo con GPT\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Business/Marketing"
-description: "Non sprecare tempo a scrivere titoli per landing page, blog o email. Scopri il prompt pratico per sfruttare un copywriter AI e generare in un solo secondo titoli irresistibili che catturano i clic."
+description: " \"Non sprecare tempo a scrivere titoli per landing page, blog o email. Scopri il prompt pratico per sfruttare un copywriter AI e generare in un solo secondo titoli irresistibili che catturano i clic.\""
 tags: ["Copywriting", "Marketing", "Scrittura", "ChatGPT", "Vendite"]
 ---
 

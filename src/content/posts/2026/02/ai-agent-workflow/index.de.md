@@ -1,10 +1,10 @@
 ---
-title: "KI-Agenten-Workflows: Jenseits von Chatbots zur Handlung"
+title: " \"KI-Agenten-Workflows: Jenseits von Chatbots zur Handlung\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Produktivität"
-description: "Ein praxiserprobter Prompt für die Gestaltung von KI-Agenten-Workflows, die über reine Textgenerierung hinausgehen und echte Aufgaben autonom erledigen."
+description: " \"Ein praxiserprobter Prompt für die Gestaltung von KI-Agenten-Workflows, die über reine Textgenerierung hinausgehen und echte Aufgaben autonom erledigen.\""
 tags: ["KI-Agenten", "Automatisierung", "Produktivität", "Workflow"]
 ---
 

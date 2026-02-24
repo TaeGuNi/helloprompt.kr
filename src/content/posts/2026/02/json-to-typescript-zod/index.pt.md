@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Apenas Jogue JSON e a Definição de Tipo TypeScript Aparece! (feat. Zod)"
+title: " \"Apenas Jogue JSON e a Definição de Tipo TypeScript Aparece! (feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que converte automaticamente dados JSON complexos em interfaces TypeScript e esquemas do Zod."
+description: " \"Um prompt que converte automaticamente dados JSON complexos em interfaces TypeScript e esquemas do Zod.\""
 tags: ["TypeScript", "Zod", "JSON", "Definição de Tipo", "Produtividade"]
 ---
 

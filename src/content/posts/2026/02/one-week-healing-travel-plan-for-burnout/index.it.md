@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Piano di Viaggio Curativo di Una Settimana per il Burnout: Viaggio Lento"
+title: " \"Piano di Viaggio Curativo di Una Settimana per il Burnout: Viaggio Lento\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Basta corse tra i luoghi turistici. Una guida per una settimana di 'Slow Travel' dedicata al vero riposo."
+description: " \"Basta corse tra i luoghi turistici. Una guida per una settimana di 'Slow Travel' dedicata al vero riposo.\""
 tags:
   ["Viaggio Curativo", "Riposo", "Vivere per una Settimana", "Viaggio Lento"]
 ---

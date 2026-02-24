@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Preguntas de Entrevista, la IA Elige Por Ti"
+title: " \"Lista de Preguntas de Entrevista, la IA Elige Por Ti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Generador de preguntas de entrevista incisivas que evalúan profundamente las verdaderas capacidades del candidato."
+description: " \"Generador de preguntas de entrevista incisivas que evalúan profundamente las verdaderas capacidades del candidato.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

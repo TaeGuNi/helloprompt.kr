@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "How to Turn Resume Gap Year into 'Strength' not Weakness"
+title: " \"How to Turn Resume Gap Year into 'Strength' not Weakness\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Reframe a career gap—whether for job prep, rest, or travel—into a meaningful period of self-development to strengthen your cover letter and interview answers."
+description: " \"Reframe a career gap—whether for job prep, rest, or travel—into a meaningful period of self-development to strengthen your cover letter and interview answers.\""
 tags: ["GapYear", "CareerBreak", "InterviewPrep", "CoverLetterComment"]
 ---
 

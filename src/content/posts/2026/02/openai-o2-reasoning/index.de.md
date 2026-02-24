@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "OpenAI 'o2' Reasoning-Fähigkeiten: Was ist neu?"
-description: "Eine detaillierte Analyse der innovativen Reasoning-Fähigkeiten des neuesten OpenAI-Modells o2, seiner verbesserten 'Chain of Thought' (CoT) und seiner Auswirkungen auf die KI-Entwicklung."
+title: " \"OpenAI 'o2' Reasoning-Fähigkeiten: Was ist neu?\""
+description: " \"Eine detaillierte Analyse der innovativen Reasoning-Fähigkeiten des neuesten OpenAI-Modells o2, seiner verbesserten 'Chain of Thought' (CoT) und seiner Auswirkungen auf die KI-Entwicklung.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

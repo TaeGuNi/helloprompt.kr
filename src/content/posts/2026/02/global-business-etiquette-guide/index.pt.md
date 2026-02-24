@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia Global de Etiqueta Empresarial: Sucesso em Reuniões"
+title: " \"Guia Global de Etiqueta Empresarial: Sucesso em Reuniões\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Cartões de visita com as duas mãos? Quem aperta a mão primeiro? Domine as etiquetas de negócios de cada país para fechar grandes contratos."
+description: " \"Cartões de visita com as duas mãos? Quem aperta a mão primeiro? Domine as etiquetas de negócios de cada país para fechar grandes contratos.\""
 tags:
   [
     "Viagem de Negócios ao Exterior",

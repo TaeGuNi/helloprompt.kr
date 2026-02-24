@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Russian)"
-description: "Дефицит данных становится реальностью, поскольку издатели закрывают доступ к своим архивам"
+title: " \"Publishers Block AI Scraping (Russian)\""
+description: " \"Дефицит данных становится реальностью, поскольку издатели закрывают доступ к своим архивам\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explaining Blue Sky to a 5-Year-Old: Parenting Science"
+title: " \"Explaining Blue Sky to a 5-Year-Old: Parenting Science\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A prompt that unravels difficult scientific principles with metaphors at a child's eye level."
+description: " \"A prompt that unravels difficult scientific principles with metaphors at a child's eye level.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

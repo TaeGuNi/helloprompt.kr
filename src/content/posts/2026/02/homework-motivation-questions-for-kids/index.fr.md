@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Questions de Motivation aux Devoirs pour Enfants : Coacher au Lieu de Rouspéter"
+title: " \"Questions de Motivation aux Devoirs pour Enfants : Coacher au Lieu de Rouspéter\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Découvrez des techniques de conversation basées sur l'IA pour amener votre enfant à s'installer à son bureau de lui-même, sans cris ni contraintes."
+description: " \"Découvrez des techniques de conversation basées sur l'IA pour amener votre enfant à s'installer à son bureau de lui-même, sans cris ni contraintes.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

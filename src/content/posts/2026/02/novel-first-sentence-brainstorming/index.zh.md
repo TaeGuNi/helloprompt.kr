@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "小说第一句 10 种版本头脑风暴"
+title: " \"小说第一句 10 种版本头脑风暴\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "如何在第一句话就牢牢抓住读者的心？这里有 10 种极具吸引力的开篇 Hook 创意推荐。"
+description: " \"如何在第一句话就牢牢抓住读者的心？这里有 10 种极具吸引力的开篇 Hook 创意推荐。\""
 tags: ["小说", "第一句", "写作", "导入部", "头脑风暴"]
 ---
 

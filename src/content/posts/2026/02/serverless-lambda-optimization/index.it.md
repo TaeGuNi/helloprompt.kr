@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법"
+title: " \"서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"
-description: "Smetti di ricevere lamentele sulla lentezza per risparmiare sui server. Scopri come eliminare il 'Cold Start' di Lambda e massimizzare le prestazioni."
+description: " \"Smetti di ricevere lamentele sulla lentezza per risparmiare sui server. Scopri come eliminare il 'Cold Start' di Lambda e massimizzare le prestazioni.\""
 tags: ["서버리스", "AWS", "Lambda", "비용절감", "성능최적화"]
 ---
 

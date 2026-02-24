@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quand la Réponse d'Entretien Divague ! Prompt de Structuration de Réponse 'Technique STAR'"
+title: " \"Quand la Réponse d'Entretien Divague ! Prompt de Structuration de Réponse 'Technique STAR'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Ce prompt utilise la méthode STAR (Situation, Tâche, Action, Résultat) pour structurer vos expériences et éviter les réponses confuses en entretien."
+description: " \"Ce prompt utilise la méthode STAR (Situation, Tâche, Action, Résultat) pour structurer vos expériences et éviter les réponses confuses en entretien.\""
 tags: ["TechniqueSTAR", "RéponseEntretien", "Structuration", "ParlerLogique"]
 ---
 

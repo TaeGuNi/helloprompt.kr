@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "¿Tus costos de API de agentes de IA se están disparando? Descubre la 'trampa cuadrática' de las ventanas de contexto en los LLM y aprende 3 patrones prácticos de prompts para optimizar el uso de tokens sin perder inteligencia."
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"¿Tus costos de API de agentes de IA se están disparando? Descubre la 'trampa cuadrática' de las ventanas de contexto en los LLM y aprende 3 patrones prácticos de prompts para optimizar el uso de tokens sin perder inteligencia.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

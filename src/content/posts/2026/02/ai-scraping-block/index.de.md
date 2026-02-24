@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (German)"
-description: "Datenknappheit wird zur Realität, da Publisher ihre Archive für KI-Crawler sperren."
+title: " \"Publishers Block AI Scraping (German)\""
+description: " \"Datenknappheit wird zur Realität, da Publisher ihre Archive für KI-Crawler sperren.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

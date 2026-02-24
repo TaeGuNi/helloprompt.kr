@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: "O rápido avanço da IA gerou novos dilemas éticos. Um mergulho profundo no estado atual da regulação global da IA e a 'ética digital' que devemos defender."
+description: " \"O rápido avanço da IA gerou novos dilemas éticos. Um mergulho profundo no estado atual da regulação global da IA e a 'ética digital' que devemos defender.\""
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "Ética e Regulação da IA 2026: Regras para Coexistência"
+title: " \"Ética e Regulação da IA 2026: Regras para Coexistência\""
 ---
 
 # 📝 Ética e Regulação da IA 2026: Regras para Coexistência

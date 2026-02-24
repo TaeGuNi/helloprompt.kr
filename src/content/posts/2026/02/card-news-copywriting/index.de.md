@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Geheimnisse des Card News Copywritings, das nach Klicks ruft"
+title: " \"Geheimnisse des Card News Copywritings, das nach Klicks ruft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Schreiben"
-description: "Ein Prompt, der kraftvolle Schlagzeilen und Card-News-Texte generiert, die das Scrollen im Instagram-Feed sofort stoppen."
+description: " \"Ein Prompt, der kraftvolle Schlagzeilen und Card-News-Texte generiert, die das Scrollen im Instagram-Feed sofort stoppen.\""
 tags: ["Card News", "Copywriting", "SNS-Marketing"]
 ---
 

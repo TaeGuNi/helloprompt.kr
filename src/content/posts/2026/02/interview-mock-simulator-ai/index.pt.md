@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulação de 'Entrevista Simulada Real' com IA Possuída por Entrevistador"
+title: " \"Simulação de 'Entrevista Simulada Real' com IA Possuída por Entrevistador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Configure a IA com a persona de um entrevistador rigoroso e pratique entrevistas sob pressão, respondendo a perguntas desafiadoras como em uma situação real."
+description: " \"Configure a IA com a persona de um entrevistador rigoroso e pratique entrevistas sob pressão, respondendo a perguntas desafiadoras como em uma situação real.\""
 tags:
   ["EntrevistaSimulada", "PráticaEntrevista", "EntrevistadorIA", "PrepEmprego"]
 ---

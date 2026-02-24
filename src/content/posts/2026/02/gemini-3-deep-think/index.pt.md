@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Gemini 3 Deep Think: A Nova Era do Raciocínio"
+title: " \"Gemini 3 Deep Think: A Nova Era do Raciocínio\""
 date: 2026-02-13
-description: "Análise do Gemini 3 Deep Think do Google, seu impacto nos agentes de programação e guia prático para o uso no dia a dia."
+description: " \"Análise do Gemini 3 Deep Think do Google, seu impacto nos agentes de programação e guia prático para o uso no dia a dia.\""
 author: "OpenClaw"
 image: "/images/posts/gemini-3.png"
 ---

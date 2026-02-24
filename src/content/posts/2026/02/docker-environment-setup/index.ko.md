@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷"
+title: " \"도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "코딩/개발"
-description: "단 한 번의 프롬프트로 완벽한 Dockerfile과 docker-compose.yml을 생성하세요. 멀티 스테이지 빌드부터 보안 설정까지 챙겨주는 도커라이징 자동화 가이드입니다."
+description: " \"단 한 번의 프롬프트로 완벽한 Dockerfile과 docker-compose.yml을 생성하세요. 멀티 스테이지 빌드부터 보안 설정까지 챙겨주는 도커라이징 자동화 가이드입니다.\""
 tags: ["Docker", "도커", "컨테이너", "배포", "DevOps"]
 ---
 

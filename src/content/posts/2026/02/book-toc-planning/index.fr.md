@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Puis-je Être Auteur Aussi ? Planifier une Table des Matières de Livre qui Vend"
+title: " \"Puis-je Être Auteur Aussi ? Planifier une Table des Matières de Livre qui Vend\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Écriture"
-description: "Un prompt expert pour concevoir le plan détaillé de votre livre et transformer votre rêve d'édition en un véritable succès de librairie."
+description: " \"Un prompt expert pour concevoir le plan détaillé de votre livre et transformer votre rêve d'édition en un véritable succès de librairie.\""
 tags: ["Écriture de Livre", "Planification d'Édition", "E-book"]
 ---
 

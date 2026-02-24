@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumidor da Linha do Tempo da História da Cidade: Em Uma Página"
+title: " \"Resumidor da Linha do Tempo da História da Cidade: Em Uma Página\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Compreenda uma história complexa em um relance! Crie uma cronologia essencial que conecta o passado e o presente do seu destino de viagem."
+description: " \"Compreenda uma história complexa em um relance! Crie uma cronologia essencial que conecta o passado e o presente do seu destino de viagem.\""
 tags:
   [
     "Estudo de História",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Programme de Jeûne Intermittent IA : Augmenter le Taux de Réussite de 200%"
+title: " \"Programme de Jeûne Intermittent IA : Augmenter le Taux de Réussite de 200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Concevez un programme de jeûne intermittent qui correspond parfaitement à votre style de vie et obtenez des conseils de l'IA pour survivre aux heures de jeûne."
+description: " \"Concevez un programme de jeûne intermittent qui correspond parfaitement à votre style de vie et obtenez des conseils de l'IA pour survivre aux heures de jeûne.\""
 tags: ["Jeûne Intermittent", "Régime", "Santé", "ChatGPT", "Routine"]
 ---
 

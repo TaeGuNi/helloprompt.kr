@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "完璧なバランス美「Symmetrical Composition」（対称構図）"
+title: " \"完璧なバランス美「Symmetrical Composition」（対称構図）\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "ウェス・アンダーソンの映画のように、左右が完璧に対称となる安定的で独特な構図のプロンプトをご紹介します。"
+description: " \"ウェス・アンダーソンの映画のように、左右が完璧に対称となる安定的で独特な構図のプロンプトをご紹介します。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 ---
 

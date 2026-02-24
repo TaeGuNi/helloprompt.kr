@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "背不下来的公式，纹在脑子里"
+title: " \"背不下来的公式，纹在脑子里\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "数学/科学"
-description: "利用故事叙述与记忆术（Mnemonic），将复杂难懂的数学与科学公式深深烙印在脑海中，绝对忘不掉的终极提示词。"
+description: " \"利用故事叙述与记忆术（Mnemonic），将复杂难懂的数学与科学公式深深烙印在脑海中，绝对忘不掉的终极提示词。\""
 tags: ["背诵法", "记忆术", "学习法", "提示词"]
 ---
 

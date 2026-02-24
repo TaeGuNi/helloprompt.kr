@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Análise de Viabilidade de Investimento: Excel de Cálculo Automático de VPL e TIR"
+title: " \"Análise de Viabilidade de Investimento: Excel de Cálculo Automático de VPL e TIR\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Devo investir neste negócio? Calcule facilmente o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR), indicadores-chave na decisão de investimentos, usando o Excel."
+description: " \"Devo investir neste negócio? Calcule facilmente o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR), indicadores-chave na decisão de investimentos, usando o Excel.\""
 tags: ["Excel", "AnáliseInvestimento", "VPL", "TIR"]
 ---
 

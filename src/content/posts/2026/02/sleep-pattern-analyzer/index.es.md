@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Escapa del Insomnio! Análisis de Patrones de Sueño con IA y Guía de Buen Dormir"
+title: " \"¡Escapa del Insomnio! Análisis de Patrones de Sueño con IA y Guía de Buen Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Dile adiós a las noches de insomnio. Permite que la IA analice tus hábitos diarios y te proporcione una solución personalizada para dormir profundamente."
+description: " \"Dile adiós a las noches de insomnio. Permite que la IA analice tus hábitos diarios y te proporcione una solución personalizada para dormir profundamente.\""
 tags: ["Sueño", "Insomnio", "Salud", "Estilo de Vida"]
 ---
 

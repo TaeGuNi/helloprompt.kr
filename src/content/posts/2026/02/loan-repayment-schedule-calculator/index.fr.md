@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calendrier de Remboursement de Prêt : Principal et Intérêt Égaux vs Principal Égal"
+title: " \"Calendrier de Remboursement de Prêt : Principal et Intérêt Égaux vs Principal Égal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires."
+description: " \"Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires.\""
 tags: ["Excel", "IntérêtPrêt", "FonctionFinancière", "PMT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Traditional Chinese)"
-description: "Asking models to 'think step by step' unlocks significantly higher performance on logic puzzles"
+title: " \"Chain of Thought Reasoning (Traditional Chinese)\""
+description: " \"Asking models to 'think step by step' unlocks significantly higher performance on logic puzzles\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

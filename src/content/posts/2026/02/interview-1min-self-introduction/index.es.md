@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Primer Botón de Entrevista, Prompt de Escritura de 'Auto-Presentación de 1 Minuto' Atractiva"
+title: " \"Primer Botón de Entrevista, Prompt de Escritura de 'Auto-Presentación de 1 Minuto' Atractiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Escribe un guion de presentación personal de 1 minuto destacando tu concepto propio y competencias clave, evitando metáforas trilladas."
+description: " \"Escribe un guion de presentación personal de 1 minuto destacando tu concepto propio y competencias clave, evitando metáforas trilladas.\""
 tags: ["AutoIntro1Min", "PrepEntrevista", "ElevatorPitch", "AutoPresentación"]
 ---
 

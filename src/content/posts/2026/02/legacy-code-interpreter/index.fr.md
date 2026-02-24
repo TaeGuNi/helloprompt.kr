@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interprétation du Texte Chiffré (Code Hérité) Laissé par Celui qui est Parti"
+title: " \"Interprétation du Texte Chiffré (Code Hérité) Laissé par Celui qui est Parti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt qui permet à l'IA d'analyser du code hérité complexe sans documentation, et de l'expliquer en termes simples."
+description: " \"Un prompt qui permet à l'IA d'analyser du code hérité complexe sans documentation, et de l'expliquer en termes simples.\""
 tags: ["Héritage", "Analyse de Code", "Maintenance", "Passation"]
 ---
 

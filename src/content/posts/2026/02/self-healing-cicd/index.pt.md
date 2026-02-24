@@ -1,6 +1,6 @@
 ---
-title: "잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유(Self-Healing) CI/CD 파이프라인 구축하기"
-description: "Apresentamos um fluxo de trabalho que combina GitHub Actions e Agentes de IA para corrigir automaticamente erros de lint e falhas de teste. Inclui dicas essenciais para evitar loops infinitos de commits."
+title: " \"잠자는 동안 버그가 고쳐진다? 2026년형 자가 치유(Self-Healing) CI/CD 파이프라인 구축하기\""
+description: " \"Apresentamos um fluxo de trabalho que combina GitHub Actions e Agentes de IA para corrigir automaticamente erros de lint e falhas de teste. Inclui dicas essenciais para evitar loops infinitos de commits.\""
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags: ["DevOps", "CI/CD", "GitHub Actions", "AI Agent", "Automation"]

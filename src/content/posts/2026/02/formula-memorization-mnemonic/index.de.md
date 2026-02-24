@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nicht merkbare Formeln, Tätowierung auf dem Gehirn"
+title: " \"Nicht merkbare Formeln, Tätowierung auf dem Gehirn\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der komplexe mathematische und naturwissenschaftliche Formeln durch Storytelling und Eselsbrücken unvergesslich macht."
+description: " \"Ein Prompt, der komplexe mathematische und naturwissenschaftliche Formeln durch Storytelling und Eselsbrücken unvergesslich macht.\""
 tags: ["Merkethode", "Mnemonik", "Lernmethode", "Prompt"]
 ---
 

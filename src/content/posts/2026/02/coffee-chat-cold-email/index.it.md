@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt per Email Fredda per Caffè: Networking senza Rifiuto"
+title: " \"Prompt per Email Fredda per Caffè: Networking senza Rifiuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carriera e Cambio Lavoro"
-description: "Invia un'email a freddo o un DM su LinkedIn che non verrà ignorato. Scopri come chiedere un caffè virtuale e fare networking in modo professionale e garbato."
+description: " \"Invia un'email a freddo o un DM su LinkedIn che non verrà ignorato. Scopri come chiedere un caffè virtuale e fare networking in modo professionale e garbato.\""
 tags: ["Caffè", "Email Fredda", "Networking", "Mentoring"]
 ---
 

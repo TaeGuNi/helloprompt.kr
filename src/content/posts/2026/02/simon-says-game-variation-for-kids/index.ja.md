@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "子供のための「サイモン・セイズ」変形ゲーム：聴覚的注意力の訓練"
+title: " \"子供のための「サイモン・セイズ」変形ゲーム：聴覚的注意力の訓練\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "AIが作る奇想天外なミッションで子供の集中力と身体調節能力を向上させます。"
+description: " \"AIが作る奇想天外なミッションで子供の集中力と身体調節能力を向上させます。\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

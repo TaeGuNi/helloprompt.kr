@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échapper à l'Enfer du Formatage de CV : Convertisseur Markdown"
+title: " \"Échapper à l'Enfer du Formatage de CV : Convertisseur Markdown\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Convertissez le contenu désordonné de votre CV en un format Markdown structuré et professionnel, idéal pour l'exportation PDF ou l'intégration sur Notion."
+description: " \"Convertissez le contenu désordonné de votre CV en un format Markdown structuré et professionnel, idéal pour l'exportation PDF ou l'intégration sur Notion.\""
 tags: ["FormatCV", "Markdown", "CVNotion", "OrganisationDoc"]
 ---
 

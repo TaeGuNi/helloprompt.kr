@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Art Gallery Guide for Beginners: Enjoying Without Knowing"
+title: " \"Art Gallery Guide for Beginners: Enjoying Without Knowing\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Is modern art intimidating? A beginner-friendly prompt that lowers the barrier to entry and helps you enjoy any gallery."
+description: " \"Is modern art intimidating? A beginner-friendly prompt that lowers the barrier to entry and helps you enjoy any gallery.\""
 tags: ["Art Museum", "Gallery", "Art Appreciation", "Finding Taste"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta Assicurativa: Trovare Copertura Duplicata e Dimezzare Premio"
+title: " \"Dieta Assicurativa: Trovare Copertura Duplicata e Dimezzare Premio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "La mia assicurazione è sicura? Scopri come analizzare le tue polizze per eliminare le coperture duplicate e tagliare i premi inutili."
+description: " \"La mia assicurazione è sicura? Scopri come analizzare le tue polizze per eliminare le coperture duplicate e tagliare i premi inutili.\""
 tags: ["Assicurazione", "Finanza", "Risparmio", "AnalisiCopertura"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Serverless Edge Computing"
-description: "Explore how serverless architecture is moving to the edge, reducing latency and transforming application delivery in 2026."
+title: " \"The Rise of Serverless Edge Computing\""
+description: " \"Explore how serverless architecture is moving to the edge, reducing latency and transforming application delivery in 2026.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

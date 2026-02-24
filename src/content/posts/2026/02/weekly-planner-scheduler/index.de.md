@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "God-Life Projekt! KI Wochenplaner-Schreiben"
+title: " \"God-Life Projekt! KI Wochenplaner-Schreiben\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Viel zu tun, aber keine Ahnung, wie Sie sich organisieren sollen? Perfekte Wochenplanung basierend auf Prioritäten."
+description: " \"Viel zu tun, aber keine Ahnung, wie Sie sich organisieren sollen? Perfekte Wochenplanung basierend auf Prioritäten.\""
 tags: ["Planer", "Zeitplaner", "Zeitmanagement", "Produktivität"]
 ---
 

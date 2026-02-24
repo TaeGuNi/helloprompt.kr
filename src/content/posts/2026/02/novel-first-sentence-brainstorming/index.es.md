@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lluvia de Ideas de 10 Versiones de Primera Oración de Novela"
+title: " \"Lluvia de Ideas de 10 Versiones de Primera Oración de Novela\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Atrapa a tus lectores desde la primera frase. Descubre cómo generar 10 ganchos iniciales irresistibles para tu próxima novela."
+description: " \"Atrapa a tus lectores desde la primera frase. Descubre cómo generar 10 ganchos iniciales irresistibles para tu próxima novela.\""
 tags: ["Novela", "PrimeraOración", "Escritura", "Intro", "LluviaDeIdeas"]
 ---
 

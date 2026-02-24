@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Spanish)"
-description: "Estructura entradas masivas con delimitadores claros y utiliza patrones de recuperación para dominar contextos de un millón de tokens."
+title: " \"Optimizing for Million-Token Context Windows (Spanish)\""
+description: " \"Estructura entradas masivas con delimitadores claros y utiliza patrones de recuperación para dominar contextos de un millón de tokens.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

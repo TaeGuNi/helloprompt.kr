@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "¿DeepSeek-V4: El Nuevo Rey del Código Abierto?"
-description: "Un análisis profundo de las características técnicas de DeepSeek-V4, su asombroso rendimiento en benchmarks y su impacto disruptivo en el ecosistema de IA."
+title: " \"¿DeepSeek-V4: El Nuevo Rey del Código Abierto?\""
+description: " \"Un análisis profundo de las características técnicas de DeepSeek-V4, su asombroso rendimiento en benchmarks y su impacto disruptivo en el ecosistema de IA.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

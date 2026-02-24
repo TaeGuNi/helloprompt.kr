@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Em Vez de Copiar com Dor no Pulso: Gerador Automático de Cartão de Memorização"
+title: " \"Em Vez de Copiar com Dor no Pulso: Gerador Automático de Cartão de Memorização\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudo/Autodesenvolvimento"
-description: "Prompt para converter textos e notas de aula em cartões de memorização (flashcards) otimizados para Anki e Quizlet."
+description: " \"Prompt para converter textos e notas de aula em cartões de memorização (flashcards) otimizados para Anki e Quizlet.\""
 tags: ["Memorização", "Flashcard", "Anki", "Quizlet"]
 ---
 

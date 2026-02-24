@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "产品摄影的定式 'Studio Lighting' 提示词"
+title: " \"产品摄影的定式 'Studio Lighting' 提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "想要获得干净且专业的产品照片或个人资料头像？一键设置虚拟工作室的完美照明。"
+description: " \"想要获得干净且专业的产品照片或个人资料头像？一键设置虚拟工作室的完美照明。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 

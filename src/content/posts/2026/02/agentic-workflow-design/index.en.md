@@ -1,6 +1,6 @@
 ---
-title: "챗GPT를 넘어선 에이전트(Agent) 시대: 일을 '위임'하는 완벽한 워크플로우 설계법"
-description: "A comprehensive guide to designing 'Agentic Workflows' that delegate complex tasks to AI. Discover the essence of prompt engineering every professional needs in 2026."
+title: " \"챗GPT를 넘어선 에이전트(Agent) 시대: 일을 '위임'하는 완벽한 워크플로우 설계법\""
+description: " \"A comprehensive guide to designing 'Agentic Workflows' that delegate complex tasks to AI. Discover the essence of prompt engineering every professional needs in 2026.\""
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags:

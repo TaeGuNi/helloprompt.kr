@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jeu de Devinettes de Lettre Initiale : Prompt pour l'Explosion du Vocabulaire"
+title: " \"Jeu de Devinettes de Lettre Initiale : Prompt pour l'Explosion du Vocabulaire\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Apprenez de nouveaux mots en vous amusant avec un arbitre IA, loin des révisions ennuyeuses."
+description: " \"Apprenez de nouveaux mots en vous amusant avec un arbitre IA, loin des révisions ennuyeuses.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

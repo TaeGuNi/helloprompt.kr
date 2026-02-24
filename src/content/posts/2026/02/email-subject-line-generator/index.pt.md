@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Assunto de E-mail Que Dispara Taxas de Abertura"
+title: " \"Gerador de Assunto de E-mail Que Dispara Taxas de Abertura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Dê adeus às newsletters que vão direto para o spam. Aprenda a escrever assuntos de e-mail irresistíveis que forçam o clique."
+description: " \"Dê adeus às newsletters que vão direto para o spam. Aprenda a escrever assuntos de e-mail irresistíveis que forçam o clique.\""
 tags: ["E-mail Marketing", "CRM", "Copywriting", "Boletim Informativo"]
 ---
 

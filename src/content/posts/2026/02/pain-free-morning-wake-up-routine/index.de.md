@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schmerzfreie Morgen-Aufwach-Routine: Operation Aufwachen"
+title: " \"Schmerzfreie Morgen-Aufwach-Routine: Operation Aufwachen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Wachst du jeden Morgen wie ein Zombie auf und bettelst um 'nur noch 5 Minuten'? Entdecke die von KI entworfene, schmerzfreie Morgenroutine."
+description: " \"Wachst du jeden Morgen wie ein Zombie auf und bettelst um 'nur noch 5 Minuten'? Entdecke die von KI entworfene, schmerzfreie Morgenroutine.\""
 tags: ["Aufwachen", "Wunder-Morgen", "Gewohnheit", "Schlaf", "ChatGPT"]
 ---
 

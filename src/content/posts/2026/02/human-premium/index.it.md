@@ -1,9 +1,9 @@
 ---
-title: "The Human Premium: 인간의 손길이 럭셔리가 되는 시대"
+title: " \"The Human Premium: 인간의 손길이 럭셔리가 되는 시대\""
 date: 2026-02-14
 tags: [culture, design]
 image: https://source.unsplash.com/random/1600x900/?hand,art
-description: "Scopri il prompt di copywriting che infonde calore e autenticità umana nei freddi testi generati dall'IA, creando il vero 'Human Premium'."
+description: " \"Scopri il prompt di copywriting che infonde calore e autenticità umana nei freddi testi generati dall'IA, creando il vero 'Human Premium'.\""
 ---
 
 # 📝 The Human Premium: L'era in cui il tocco umano diventa un lusso

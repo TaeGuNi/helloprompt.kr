@@ -1,6 +1,6 @@
 ---
-title: "The Singularity Trap: Marketing Fear"
-description: "A critical analysis of the singularity trap: why the AI singularity is often a marketing myth used to sell GPUs."
+title: " \"The Singularity Trap: Marketing Fear\""
+description: " \"A critical analysis of the singularity trap: why the AI singularity is often a marketing myth used to sell GPUs.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

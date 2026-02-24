@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Efeito de Lente 'Grande Angular & Olho de Peixe' com Senso Espacial Avassalador"
+title: " \"Efeito de Lente 'Grande Angular & Olho de Peixe' com Senso Espacial Avassalador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Descubra prompts para lentes Grande Angular e Olho de Peixe que transformam espaços confinados e capturam paisagens deslumbrantes com uma sensação espacial imersiva."
+description: " \"Descubra prompts para lentes Grande Angular e Olho de Peixe que transformam espaços confinados e capturam paisagens deslumbrantes com uma sensação espacial imersiva.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "Paisagem"]
 ---

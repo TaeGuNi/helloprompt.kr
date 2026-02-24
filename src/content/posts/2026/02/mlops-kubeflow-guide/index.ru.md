@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "머신러닝 모델 배포: MLOps (Kubeflow) 가이드"
+title: " \"머신러닝 모델 배포: MLOps (Kubeflow) 가이드\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI/개발"
-description: "Хватит гонять ИИ-модели только на локалке. Полное руководство по превращению разрозненного кода из Jupyter Notebook в автоматизированный production-пайплайн."
+description: " \"Хватит гонять ИИ-модели только на локалке. Полное руководство по превращению разрозненного кода из Jupyter Notebook в автоматизированный production-пайплайн.\""
 tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 ---
 

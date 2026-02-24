@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nommer une Région/Ville Unique dans un Monde de Fantasy"
+title: " \"Nommer une Région/Ville Unique dans un Monde de Fantasy\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "De la forêt des elfes aux mines des nains, découvrez comment nommer des lieux et des villes qui s'intègrent parfaitement à votre univers de fantasy."
+description: " \"De la forêt des elfes aux mines des nains, découvrez comment nommer des lieux et des villes qui s'intègrent parfaitement à votre univers de fantasy.\""
 tags: ["Nommage", "Fantaisie", "Roman", "JDR", "Univers"]
 ---
 

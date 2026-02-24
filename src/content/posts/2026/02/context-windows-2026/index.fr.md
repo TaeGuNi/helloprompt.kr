@@ -1,6 +1,6 @@
 ---
-title: "Fenêtres de Contexte 2026 : L'Ère des Possibilités Illimitées"
-description: "En 2026, les fenêtres de contexte de l'IA ont dépassé les 10 millions de jetons. Qu'est-ce que cela signifie pour le RAG et l'ingénierie des invites ?"
+title: " \"Fenêtres de Contexte 2026 : L'Ère des Possibilités Illimitées\""
+description: " \"En 2026, les fenêtres de contexte de l'IA ont dépassé les 10 millions de jetons. Qu'est-ce que cela signifie pour le RAG et l'ingénierie des invites ?\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Context Window", "LLM", "2026"]

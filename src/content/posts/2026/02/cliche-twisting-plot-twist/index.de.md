@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Klischee verdrehen: Offensichtliches Ende in schockierende Wendung verwandeln"
+title: " \"Klischee verdrehen: Offensichtliches Ende in schockierende Wendung verwandeln\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Eine bewährte Methode, um vorhersehbare Enden durch den cleveren Bruch von Klischees in schockierende Plottwists zu verwandeln."
+description: " \"Eine bewährte Methode, um vorhersehbare Enden durch den cleveren Bruch von Klischees in schockierende Plottwists zu verwandeln.\""
 tags: ["Roman", "Wendung", "Idee", "Geschichtenerzählen"]
 ---
 

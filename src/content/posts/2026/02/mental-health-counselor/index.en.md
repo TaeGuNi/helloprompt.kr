@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Own AI Psychological Counselor, Stress Relief Mental Care Guide"
+title: " \"My Own AI Psychological Counselor, Stress Relief Mental Care Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Confess your untold worries to an AI and find true peace of mind."
+description: " \"Confess your untold worries to an AI and find true peace of mind.\""
 tags: ["Mental Care", "Stress", "Psychological Counseling", "Healing"]
 ---
 

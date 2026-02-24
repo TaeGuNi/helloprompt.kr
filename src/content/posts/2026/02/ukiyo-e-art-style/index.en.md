@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charm of Japanese Woodblock Prints 'Ukiyo-e' Style"
+title: " \"Charm of Japanese Woodblock Prints 'Ukiyo-e' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A prompt for drawing waves and landscapes in the Ukiyo-e style, capturing classic Japanese aesthetics."
+description: " \"A prompt for drawing waves and landscapes in the Ukiyo-e style, capturing classic Japanese aesthetics.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

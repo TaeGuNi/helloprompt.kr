@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Painel Financeiro Excel: Relate com Imagens, Não Números"
+title: " \"Painel Financeiro Excel: Relate com Imagens, Não Números\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Diga adeus às tabelas densas do Excel. Crie painéis visuais que vão impressionar a diretoria à primeira vista usando Minigráficos e Formatação Condicional."
+description: " \"Diga adeus às tabelas densas do Excel. Crie painéis visuais que vão impressionar a diretoria à primeira vista usando Minigráficos e Formatação Condicional.\""
 tags: ["Excel", "Painel", "Visualização", "Relatório"]
 ---
 

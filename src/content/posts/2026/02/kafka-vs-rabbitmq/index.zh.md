@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심"
+title: " \"Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "正在考虑引入消息队列（Message Queue）吗？专为处理大并发流量的 Kafka 与 RabbitMQ 在吞吐量、可靠性及架构设计上的对比指南。"
+description: " \"正在考虑引入消息队列（Message Queue）吗？专为处理大并发流量的 Kafka 与 RabbitMQ 在吞吐量、可靠性及架构设计上的对比指南。\""
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 ---
 

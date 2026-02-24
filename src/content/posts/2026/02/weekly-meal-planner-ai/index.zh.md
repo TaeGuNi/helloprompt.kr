@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "使用 AI 营养师提示词，几秒钟内自动生成符合您个人需求和卡路里目标的每周健康食谱。节省时间，告别饮食焦虑。"
+description: " \"使用 AI 营养师提示词，几秒钟内自动生成符合您个人需求和卡路里目标的每周健康食谱。节省时间，告别饮食焦虑。\""
 tags: ["태그1", "태그2"]
 ---
 

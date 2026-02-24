@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Future City Night 'Cyberpunk Neon' Lighting Direction"
+title: " \"Future City Night 'Cyberpunk Neon' Lighting Direction\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master the intense contrast of pink and blue with this cyberpunk-style neon lighting prompt."
+description: " \"Master the intense contrast of pink and blue with this cyberpunk-style neon lighting prompt.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 ---
 

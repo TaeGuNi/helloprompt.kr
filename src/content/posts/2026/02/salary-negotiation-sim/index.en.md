@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Salary Negotiation Simulator: Sparring with an Evil HR"
+title: " \"Salary Negotiation Simulator: Sparring with an Evil HR\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Career"
-description: "Hack an AI persona into a stingy recruiter to practice salary negotiations. Face virtual rejections to win the real deal."
+description: " \"Hack an AI persona into a stingy recruiter to practice salary negotiations. Face virtual rejections to win the real deal.\""
 tags: ["Salary", "Negotiation", "Interview", "Roleplay", "CareerGrowth"]
 ---
 

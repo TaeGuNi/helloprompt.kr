@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica de Arraigo para la Ansiedad: Método 5-4-3-2-1"
+title: " \"Técnica de Arraigo para la Ansiedad: Método 5-4-3-2-1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Aprende a recuperar el control ante síntomas repentinos de ansiedad o pánico volviendo a la realidad mediante la técnica de arraigo 5-4-3-2-1 guiada por IA."
+description: " \"Aprende a recuperar el control ante síntomas repentinos de ansiedad o pánico volviendo a la realidad mediante la técnica de arraigo 5-4-3-2-1 guiada por IA.\""
 tags:
   [
     "Ansiedad",

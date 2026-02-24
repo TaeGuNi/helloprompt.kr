@@ -1,6 +1,6 @@
 ---
 date: "2026-02-15"
-description: "O recém-lançado Gemini Agent Ecosystem do Google vai além de um simples assistente de IA, inaugurando uma era de verdadeira colaboração autônoma em todo o Android, Chrome e Workspace."
+description: " \"O recém-lançado Gemini Agent Ecosystem do Google vai além de um simples assistente de IA, inaugurando uma era de verdadeira colaboração autônoma em todo o Android, Chrome e Workspace.\""
 heroImage: https://picsum.photos/1600/900
 pubDate: "2026-02-15T09:00:00Z"
 tags:
@@ -9,7 +9,7 @@ tags:
   - AI Agent
   - Automation
   - Tech News
-title: "구글의 새로운 자율 에이전트 프레임워크: 제미나이 에이전트 생태계"
+title: " \"구글의 새로운 자율 에이전트 프레임워크: 제미나이 에이전트 생태계\""
 ---
 
 # 📝 O Novo Framework de Agentes Autônomos do Google: Gemini Agent Ecosystem

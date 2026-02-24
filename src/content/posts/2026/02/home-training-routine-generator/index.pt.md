@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Rotina de Treino em Casa com IA para Ficar em Forma Sem Ir à Academia"
+title: " \"Gerador de Rotina de Treino em Casa com IA para Ficar em Forma Sem Ir à Academia\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Crie a rotina ideal de treinos em casa, totalmente adaptada ao seu condicionamento físico e aos equipamentos disponíveis."
+description: " \"Crie a rotina ideal de treinos em casa, totalmente adaptada ao seu condicionamento físico e aos equipamentos disponíveis.\""
 tags: ["Treino em Casa", "Exercício", "Fitness", "Rotina"]
 ---
 

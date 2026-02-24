@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "블로그 글 하나로 인스타, 링크드인까지 (OSMU)"
+title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "콘텐츠 제작"
-description: "AI로 콘텐츠를 5가지 포맷으로 변환하는 원소스 멀티유즈 프롬프트"
+description: " \"AI로 콘텐츠를 5가지 포맷으로 변환하는 원소스 멀티유즈 프롬프트\""
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 ---
 

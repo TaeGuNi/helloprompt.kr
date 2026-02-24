@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Didascalie Instagram Che Chiama i Mi Piace"
+title: " \"Generatore di Didascalie Instagram Che Chiama i Mi Piace\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Quando hai la foto perfetta ma ti manca l'ispirazione per il testo, genera automaticamente didascalie coinvolgenti e hashtag strategici in pochi secondi."
+description: " \"Quando hai la foto perfetta ma ti manca l'ispirazione per il testo, genera automaticamente didascalie coinvolgenti e hashtag strategici in pochi secondi.\""
 tags: ["Instagram", "Marketing SNS", "Copywriting", "Social Media"]
 ---
 

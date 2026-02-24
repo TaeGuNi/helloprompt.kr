@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "이용약관 (Terms of Service)"
-description: "Hello Prompt 服务条款与使用规范。"
+title: " \"이용약관 (Terms of Service)\""
+description: " \"Hello Prompt 服务条款与使用规范。\""
 date: "2026-02-09"
 ---
 

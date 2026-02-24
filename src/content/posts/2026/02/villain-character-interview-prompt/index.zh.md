@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "制作立体坏蛋: 3 阶段深层采访提示词"
+title: " \"制作立体坏蛋: 3 阶段深层采访提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "极具魅力的反派是故事的核心。通过直接采访反派角色，发掘其背后隐藏的深度叙事。"
+description: " \"极具魅力的反派是故事的核心。通过直接采访反派角色，发掘其背后隐藏的深度叙事。\""
 tags: ["角色设定", "写小说", "坏蛋", "采访"]
 ---
 

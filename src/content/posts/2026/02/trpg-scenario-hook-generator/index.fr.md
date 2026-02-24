@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Génération d'Accroche de Scénario pour Maîtres TRPG"
+title: " \"Génération d'Accroche de Scénario pour Maîtres TRPG\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Le prompt idéal pour les Maîtres de Jeu en manque de temps. Générez des accroches de scénario captivantes pour plonger immédiatement vos joueurs dans l'aventure."
+description: " \"Le prompt idéal pour les Maîtres de Jeu en manque de temps. Générez des accroches de scénario captivantes pour plonger immédiatement vos joueurs dans l'aventure.\""
 tags: ["TRPG", "D&D", "Scénario", "MaîtreJeu", "Histoire"]
 ---
 

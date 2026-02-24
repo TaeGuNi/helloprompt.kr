@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: "O tratamento padrão para todos é coisa do passado. Descubra como usar a IA para traduzir dados genômicos e de saúde em um plano de estilo de vida totalmente personalizado."
+description: " \"O tratamento padrão para todos é coisa do passado. Descubra como usar a IA para traduzir dados genômicos e de saúde em um plano de estilo de vida totalmente personalizado.\""
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "IA e Medicina Personalizada: Uma Receita Só para Você"
+title: " \"IA e Medicina Personalizada: Uma Receita Só para Você\""
 ---
 
 # 🧬 IA e Medicina Personalizada: Uma Receita Só para Você

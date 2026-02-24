@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pianificatore di Itinerari di Viaggio Iper-Personalizzato IA Più Meticoloso di J"
+title: " \"Pianificatore di Itinerari di Viaggio Iper-Personalizzato IA Più Meticoloso di J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Ottieni un itinerario di viaggio perfetto in 1 minuto, calcolato su misura per i tuoi gusti, le tue energie e l'ottimizzazione del percorso."
+description: " \"Ottieni un itinerario di viaggio perfetto in 1 minuto, calcolato su misura per i tuoi gusti, le tue energie e l'ottimizzazione del percorso.\""
 tags: ["Viaggi", "Programma", "Pianificatore", "Viaggi all'Estero"]
 ---
 

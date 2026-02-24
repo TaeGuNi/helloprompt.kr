@@ -1,6 +1,6 @@
 ---
-title: "Discord: A Case Study in Performance Optimization"
-description: "A deep dive into Discord's engineering journey to handle trillions of messages and millions of concurrent users."
+title: " \"Discord: A Case Study in Performance Optimization\""
+description: " \"A deep dive into Discord's engineering journey to handle trillions of messages and millions of concurrent users.\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

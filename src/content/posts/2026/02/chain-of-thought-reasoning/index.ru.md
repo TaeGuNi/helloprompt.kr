@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Russian)"
-description: "Просьба к моделям «думать шаг за шагом» значительно повышает их эффективность при решении логических задач"
+title: " \"Chain of Thought Reasoning (Russian)\""
+description: " \"Просьба к моделям «думать шаг за шагом» значительно повышает их эффективность при решении логических задач\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

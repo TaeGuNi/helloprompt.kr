@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guion de Meditación de Atención Plena de 5 Minutos: Del Estrés a la Calma"
+title: " \"Guion de Meditación de Atención Plena de 5 Minutos: Del Estrés a la Calma\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Crea tu propia guía de meditación personalizada con IA. Libera el estrés y encuentra la calma en solo 5 minutos sin pagar suscripciones."
+description: " \"Crea tu propia guía de meditación personalizada con IA. Libera el estrés y encuentra la calma en solo 5 minutos sin pagar suscripciones.\""
 tags: ["Meditación", "Atención Plena", "Curación", "Estrés", "TTS"]
 ---
 

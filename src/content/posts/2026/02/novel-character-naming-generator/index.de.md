@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roman-Charakternamengenerator (Passende Bedeutung und Nuance)"
+title: " \"Roman-Charakternamengenerator (Passende Bedeutung und Nuance)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Erstellen Sie perfekte Namen, die Persönlichkeit, Herkunft und Epoche Ihrer Romanfiguren widerspiegeln, inklusive tiefgründiger Bedeutungen und feiner Nuancen."
+description: " \"Erstellen Sie perfekte Namen, die Persönlichkeit, Herkunft und Epoche Ihrer Romanfiguren widerspiegeln, inklusive tiefgründiger Bedeutungen und feiner Nuancen.\""
 tags: ["Benennung", "Charakter", "Roman", "Namenskreation", "Einstellung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 개발자가 사랑하는 버그 리포트 작성법 (AI Bug Report Formatter)
+title: "개발자가 사랑하는 버그 리포트 작성법 (AI Bug Report Formatter)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: 'Dire simplement « Ça ne marche pas » fait pleurer les développeurs. 😭 Voici un prompt IA qui transforme un signalement de bug confus en un rapport clair et exploitable immédiatement par les développeurs.'
+description: " 'Dire simplement « Ça ne marche pas » fait pleurer les développeurs. 😭 Voici un prompt IA qui transforme un signalement de bug confus en un rapport clair et exploitable immédiatement par les développeurs.'"
 tags: [AI, BugReport, QA, Communication]
 ---
 

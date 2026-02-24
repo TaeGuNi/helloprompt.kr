@@ -1,5 +1,5 @@
 ---
-title: "AutoGPT 2.0: The Rise of Agent Swarms"
+title: " \"AutoGPT 2.0: The Rise of Agent Swarms\""
 date: 2026-02-14
 tags: [agents, autogpt, automation]
 ---

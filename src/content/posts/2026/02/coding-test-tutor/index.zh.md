@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지"
+title: " \"코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "介绍一种在解答LeetCode、Programmers等算法题遇到瓶颈时，不直接看答案，而是引导AI提供最佳提示，从而独立解决问题的Prompt Engineering技巧。"
+description: " \"介绍一种在解答LeetCode、Programmers等算法题遇到瓶颈时，不直接看答案，而是引导AI提供最佳提示，从而独立解决问题的Prompt Engineering技巧。\""
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 

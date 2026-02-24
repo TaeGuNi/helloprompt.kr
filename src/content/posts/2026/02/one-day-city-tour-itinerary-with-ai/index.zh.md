@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI一日城市旅游行程：1分钟完美规划"
+title: " \"AI一日城市旅游行程：1分钟完美规划\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "像当地人一样享受充实的一天！把路线最优、拒绝折返跑的完美一日游计划交给AI。"
+description: " \"像当地人一样享受充实的一天！把路线最优、拒绝折返跑的完美一日游计划交给AI。\""
 tags: ["旅行计划", "一日游", "城市旅游", "GPT提示词"]
 ---
 

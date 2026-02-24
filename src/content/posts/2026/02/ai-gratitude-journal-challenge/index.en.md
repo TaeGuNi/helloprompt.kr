@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Gratitude Journal Challenge: The Easiest Way to Happiness"
+title: " \"AI Gratitude Journal Challenge: The Easiest Way to Happiness\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "The phrase 'Thank you' can rewire your brain. Build a daily habit of discovering and recording small moments of joy with AI."
+description: " \"The phrase 'Thank you' can rewire your brain. Build a daily habit of discovering and recording small moments of joy with AI.\""
 tags:
   ["Gratitude Journal", "Happiness", "Positive Psychology", "Habit", "ChatGPT"]
 ---

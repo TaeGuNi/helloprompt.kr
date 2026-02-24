@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "K-POP Idol Titelsong-Konzept & Textentwurf"
+title: " \"K-POP Idol Titelsong-Konzept & Textentwurf\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Was wäre, wenn du ein K-Pop-Produzent wärst? Entwickle mit diesem KI-Prompt mühelos ein ganzes Idol-Universum, das Albumkonzept und sogar mitreißende Songtexte."
+description: " \"Was wäre, wenn du ein K-Pop-Produzent wärst? Entwickle mit diesem KI-Prompt mühelos ein ganzes Idol-Universum, das Albumkonzept und sogar mitreißende Songtexte.\""
 tags: ["K-POP", "Idol", "Universum", "Planung", "Textschreiben"]
 ---
 

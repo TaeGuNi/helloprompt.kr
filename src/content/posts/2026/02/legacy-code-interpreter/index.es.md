@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interpretando Texto Cifrado (Código Heredado) Dejado por Quien se Fue"
+title: " \"Interpretando Texto Cifrado (Código Heredado) Dejado por Quien se Fue\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Un prompt en el que la IA analiza código heredado complejo, sin documentación ni comentarios, y lo explica de forma sencilla."
+description: " \"Un prompt en el que la IA analiza código heredado complejo, sin documentación ni comentarios, y lo explica de forma sencilla.\""
 tags: ["Heredado", "Análisis de Código", "Mantenimiento", "Traspaso"]
 ---
 

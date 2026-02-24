@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI CBT-I Insomnia Therapy: Fixing Insomnia Without Medication"
+title: " \"AI CBT-I Insomnia Therapy: Fixing Insomnia Without Medication\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Discover how to overcome insomnia without medication using AI-guided Cognitive Behavioral Therapy for Insomnia (CBT-I)."
+description: " \"Discover how to overcome insomnia without medication using AI-guided Cognitive Behavioral Therapy for Insomnia (CBT-I).\""
 tags: ["Insomnia", "CBT-I", "Sleep Therapy", "Mental Care", "ChatGPT"]
 ---
 

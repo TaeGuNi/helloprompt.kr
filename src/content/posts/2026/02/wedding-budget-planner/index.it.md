@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Budget Matrimonio: Lista di Controllo per Prevenire Bomba Costi Extra"
+title: " \"Excel Budget Matrimonio: Lista di Controllo per Prevenire Bomba Costi Extra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Prompt che ti aiuta a prevedere e gestire tutti i costi nascosti durante i preparativi del matrimonio, dall'abito alla location, evitando spiacevoli sorprese."
+description: " \"Prompt che ti aiuta a prevedere e gestire tutti i costi nascosti durante i preparativi del matrimonio, dall'abito alla location, evitando spiacevoli sorprese.\""
 tags: ["Matrimonio", "Budget", "Nozze", "NovelliSposi"]
 ---
 

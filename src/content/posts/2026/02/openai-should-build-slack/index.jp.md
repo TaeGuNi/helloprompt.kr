@@ -1,6 +1,6 @@
 ---
-title: "Why OpenAI Should Build Slack (Japanese)"
-description: "AIとコミュニケーションプラットフォームの統合は、企業の生産性向上における次の論理的なステップです。"
+title: " \"Why OpenAI Should Build Slack (Japanese)\""
+description: " \"AIとコミュニケーションプラットフォームの統合は、企業の生産性向上における次の論理的なステップです。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]

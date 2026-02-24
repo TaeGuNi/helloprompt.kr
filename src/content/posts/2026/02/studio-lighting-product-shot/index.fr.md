@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard de la Photographie de Produit Prompt d' 'Éclairage de Studio'"
+title: " \"Standard de la Photographie de Produit Prompt d' 'Éclairage de Studio'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Si vous souhaitez obtenir des photos de produits ou des portraits impeccables et professionnels, maîtrisez le prompt d'éclairage de studio."
+description: " \"Si vous souhaitez obtenir des photos de produits ou des portraits impeccables et professionnels, maîtrisez le prompt d'éclairage de studio.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Produit", "Éclairage"]
 ---
 

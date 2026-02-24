@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatically Planning Project Schedules (WBS)"
+title: " \"Automatically Planning Project Schedules (WBS)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A highly effective scheduling prompt that breaks down tasks by calculating backward from the project deadline."
+description: " \"A highly effective scheduling prompt that breaks down tasks by calculating backward from the project deadline.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

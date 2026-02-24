@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (German)"
-description: "Lokale KI-Modelle auf Smartphones sind endlich leistungsstark genug, um Cloud-Dienste für alltägliche Aufgaben zu ersetzen"
+title: " \"True Offline AI on Mobile (German)\""
+description: " \"Lokale KI-Modelle auf Smartphones sind endlich leistungsstark genug, um Cloud-Dienste für alltägliche Aufgaben zu ersetzen\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

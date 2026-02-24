@@ -1,13 +1,13 @@
 ---
 date: "2026-02-17"
-description: Anthropic이 300억 달러의 기업 가치로 Series G 투자를 유치하며 AI 안전성에 집중합니다.
+description: "Anthropic이 300억 달러의 기업 가치로 Series G 투자를 유치하며 AI 안전성에 집중합니다."
 heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
 tags:
   - AI
   - Investment
   - Safety
-title: Anthropic Series G 투자 유치
+title: "Anthropic Series G 투자 유치"
 ---
 
 # 📝 Anthropic Series G 투자 유치 뉴스 완벽 분석 프롬프트

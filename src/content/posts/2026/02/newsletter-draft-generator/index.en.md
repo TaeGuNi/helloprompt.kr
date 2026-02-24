@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Drafting a Newsletter That Calls Subscribers"
+title: " \"Drafting a Newsletter That Calls Subscribers\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Instantly generate catchy titles, engaging body content, and expert curation just by providing a topic."
+description: " \"Instantly generate catchy titles, engaging body content, and expert curation just by providing a topic.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lettura Carte Tarocchi: Fortuna di Oggi IA Predice"
+title: " \"Lettura Carte Tarocchi: Fortuna di Oggi IA Predice\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Hai una preoccupazione? L'IA Maestro di Tarocchi pesca le carte e interpreta il tuo futuro."
+description: " \"Hai una preoccupazione? L'IA Maestro di Tarocchi pesca le carte e interpreta il tuo futuro.\""
 tags: ["Tarocchi", "Fortuna", "Divinazione", "Consulenza", "Passatempo"]
 ---
 

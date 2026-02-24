@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía Global de Etiqueta en la Mesa: No Seas Grosero"
+title: " \"Guía Global de Etiqueta en la Mesa: No Seas Grosero\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "A donde fueres, haz lo que vieres. Evita momentos incómodos en el extranjero con esta guía de modales en la mesa y errores culturales comunes."
+description: " \"A donde fueres, haz lo que vieres. Evita momentos incómodos en el extranjero con esta guía de modales en la mesa y errores culturales comunes.\""
 tags:
   [
     "Etiqueta en la Mesa",

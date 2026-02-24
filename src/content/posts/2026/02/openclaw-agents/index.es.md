@@ -1,5 +1,5 @@
 ---
-title: "OpenClaw: Autonomous Agents in 2026"
+title: " \"OpenClaw: Autonomous Agents in 2026\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["AI Agents", "OpenClaw", "Automation"]

@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (Russian)"
-description: "Запуск мощных LLM локально на устройствах стал нормой, повышая уровень конфиденциальности и безопасности данных."
+title: " \"Privacy First Edge AI (Russian)\""
+description: " \"Запуск мощных LLM локально на устройствах стал нормой, повышая уровень конфиденциальности и безопасности данных.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

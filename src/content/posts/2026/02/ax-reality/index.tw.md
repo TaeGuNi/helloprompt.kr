@@ -1,6 +1,6 @@
 ---
-title: "AX現實的真相：企業幻覺"
-description: "對 AX 現實的深度剖析：AX 往往只是缺乏實際價值的企業級幻覺。"
+title: " \"AX現實的真相：企業幻覺\""
+description: " \"對 AX 現實的深度剖析：AX 往往只是缺乏實際價值的企業級幻覺。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

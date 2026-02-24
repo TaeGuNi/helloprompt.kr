@@ -1,8 +1,8 @@
 ---
-title: "채팅 그만하고, 일을 시키세요: Agentic AI가 개발을 바꾸는 방식"
+title: " \"채팅 그만하고, 일을 시키세요: Agentic AI가 개발을 바꾸는 방식\""
 date: "2026-02-16"
 tags: ["AI", "DevTools", "Cursor", "Windsurf", "Productivity"]
-description: "Discover how to seamlessly integrate 'Agentic Workflows' into your real-world development process, moving beyond simple coding assistants to AI that autonomously plans, implements, and verifies."
+description: " \"Discover how to seamlessly integrate 'Agentic Workflows' into your real-world development process, moving beyond simple coding assistants to AI that autonomously plans, implements, and verifies.\""
 author: "HelloPrompt"
 ---
 

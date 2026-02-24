@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Полное руководство по созданию потрясающих приложений LLM и RAG"
+title: " \"Полное руководство по созданию потрясающих приложений LLM и RAG\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Узнайте, как проектировать мощные LLM-приложения и RAG-пайплайны с помощью специализированного ИИ-промпта."
+description: " \"Узнайте, как проектировать мощные LLM-приложения и RAG-пайплайны с помощью специализированного ИИ-промпта.\""
 author: "Hello Prompt"
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"

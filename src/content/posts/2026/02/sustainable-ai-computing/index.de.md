@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (de)"
-description: "Eine detaillierte Analyse und Best Practices für nachhaltiges AI-Computing (Green AI)."
+title: " \"Sustainable AI Computing (de)\""
+description: " \"Eine detaillierte Analyse und Best Practices für nachhaltiges AI-Computing (Green AI).\""
 date: "2026-02-14"
 ---
 

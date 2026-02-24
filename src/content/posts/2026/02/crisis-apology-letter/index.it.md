@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gestione della Crisi 101: Come Scrivere Lettere di Scuse Professionali"
+title: " \"Gestione della Crisi 101: Come Scrivere Lettere di Scuse Professionali\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Scrittura Aziendale"
-description: "Il momento d'oro per rimediare agli errori. Prompt IA per scrivere lettere di scuse in grado di ricostruire la fiducia, senza cercare giustificazioni."
+description: " \"Il momento d'oro per rimediare agli errori. Prompt IA per scrivere lettere di scuse in grado di ricostruire la fiducia, senza cercare giustificazioni.\""
 tags: ["Scuse", "Email", "Business", "GestioneCrisi", "Comunicazione"]
 ---
 

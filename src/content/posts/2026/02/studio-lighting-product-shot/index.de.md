@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard der Produktfotografie 'Studio Lighting' Prompt"
+title: " \"Standard der Produktfotografie 'Studio Lighting' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Für makellose und professionelle Produktfotos oder Porträts – das Geheimnis der perfekten Studiobeleuchtung."
+description: " \"Für makellose und professionelle Produktfotos oder Porträts – das Geheimnis der perfekten Studiobeleuchtung.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Produkt", "Beleuchtung"]
 ---
 

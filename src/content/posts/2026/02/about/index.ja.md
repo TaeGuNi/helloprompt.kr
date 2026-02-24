@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "소개 (About Us)"
-description: "Hello Promptは、AIと人間が共に創り上げる実践的なプロンプト辞書です。検証済みのプロンプトで業務効率を劇的に向上させましょう。"
+title: " \"소개 (About Us)\""
+description: " \"Hello Promptは、AIと人間が共に創り上げる実践的なプロンプト辞書です。検証済みのプロンプトで業務効率を劇的に向上させましょう。\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---

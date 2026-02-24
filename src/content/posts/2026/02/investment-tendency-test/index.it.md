@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Il Mio Test di Tendenza di Investimento: Codardo o Bestia?"
+title: " \"Il Mio Test di Tendenza di Investimento: Codardo o Bestia?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Dimentica i noiosi questionari bancari. L'IA identifica la tua vera propensione al rischio."
+description: " \"Dimentica i noiosi questionari bancari. L'IA identifica la tua vera propensione al rischio.\""
 tags:
   [
     "TendenzaInvestimento",

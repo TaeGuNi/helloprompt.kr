@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "현지인만 아는 숨은 보석(Hidden Gems) 발굴하기"
+title: " \"현지인만 아는 숨은 보석(Hidden Gems) 발굴하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.102Z"
 updatedDate: "2026-02-07T09:10:33.103Z"
 category: "여행 & 문화"
-description: "관광객으로 붐비는 뻔한 명소는 이제 그만! AI를 활용해 지도에도 잘 안 나오는 진짜 로컬 핫플레이스를 찾는 프롬프트 비법을 공개합니다."
+description: " \"관광객으로 붐비는 뻔한 명소는 이제 그만! AI를 활용해 지도에도 잘 안 나오는 진짜 로컬 핫플레이스를 찾는 프롬프트 비법을 공개합니다.\""
 tags: ["숨은명소", "로컬여행", "히든플레이스", "탐험"]
 ---
 

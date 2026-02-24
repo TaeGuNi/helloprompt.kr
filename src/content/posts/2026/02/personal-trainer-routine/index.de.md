@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Heimlich vor dem PT-Lehrer verwenden, KI Personal Trainer"
+title: " \"Heimlich vor dem PT-Lehrer verwenden, KI Personal Trainer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Leben"
-description: "Ein KI-Prompt für Fitness und Ernährung, der wöchentliche Trainingsroutinen und Diätpläne perfekt auf Ihre körperlichen Voraussetzungen und Ziele abstimmt."
+description: " \"Ein KI-Prompt für Fitness und Ernährung, der wöchentliche Trainingsroutinen und Diätpläne perfekt auf Ihre körperlichen Voraussetzungen und Ziele abstimmt.\""
 tags: ["Übung", "Diät", "Fitness", "Heimtraining"]
 ---
 

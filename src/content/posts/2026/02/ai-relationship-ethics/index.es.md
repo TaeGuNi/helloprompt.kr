@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "Explorando las implicaciones éticas de los vínculos emocionales con chatbots de IA y el auge de los compañeros deepfake."
+description: " \"Explorando las implicaciones éticas de los vínculos emocionales con chatbots de IA y el auge de los compañeros deepfake.\""
 image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
@@ -8,7 +8,7 @@ tags:
   - Ethics
   - Society
   - Relationships
-title: "La Ética de las Relaciones con IA: Chatbots, Deepfakes y Dilemas"
+title: " \"La Ética de las Relaciones con IA: Chatbots, Deepfakes y Dilemas\""
 ---
 
 # 🤖 La Ética de las Relaciones con IA: Chatbots, Deepfakes y Dilemas

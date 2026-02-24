@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "암호문 같은 뜨개질 도안, AI가 해석해드립니다"
+title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "K1, P1, YO... Translate knitting patterns full of cryptic abbreviations and symbols into easy-to-understand, step-by-step instructions. Tackle any Ravelry pattern with confidence."
+description: " \"K1, P1, YO... Translate knitting patterns full of cryptic abbreviations and symbols into easy-to-understand, step-by-step instructions. Tackle any Ravelry pattern with confidence.\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 

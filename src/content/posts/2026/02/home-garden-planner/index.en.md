@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Escape the plant killer curse! From recommending plants perfectly suited for your home's lighting and ventilation to reviving dying pots, here is everything you need from an AI plant butler."
+description: " \"Escape the plant killer curse! From recommending plants perfectly suited for your home's lighting and ventilation to reviving dying pots, here is everything you need from an AI plant butler.\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

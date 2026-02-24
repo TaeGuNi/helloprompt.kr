@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심"
+title: " \"Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "Are you considering a Message Queue? A comprehensive guide comparing Kafka and RabbitMQ's throughput, reliability, and architecture for handling massive traffic."
+description: " \"Are you considering a Message Queue? A comprehensive guide comparing Kafka and RabbitMQ's throughput, reliability, and architecture for handling massive traffic.\""
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 ---
 

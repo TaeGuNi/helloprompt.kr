@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cómo Escribir Correos Electrónicos de Negocios Que Recuerden Sin Ser Groseros"
+title: " \"Cómo Escribir Correos Electrónicos de Negocios Que Recuerden Sin Ser Groseros\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Prompt de correo electrónico para recordar a socios comerciales que no responden, con estilo y sin parecer groseros."
+description: " \"Prompt de correo electrónico para recordar a socios comerciales que no responden, con estilo y sin parecer groseros.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

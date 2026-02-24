@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (French)"
-description: "Les modèles d'IA locaux sur téléphone sont enfin assez puissants pour remplacer les services cloud pour les tâches quotidiennes."
+title: " \"True Offline AI on Mobile (French)\""
+description: " \"Les modèles d'IA locaux sur téléphone sont enfin assez puissants pour remplacer les services cloud pour les tâches quotidiennes.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

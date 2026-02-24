@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pianificazione Automatica dei Programmi di Progetto (WBS)"
+title: " \"Pianificazione Automatica dei Programmi di Progetto (WBS)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Prompt di pianificazione che suddivide i compiti in modo automatico, calcolando a ritroso partendo dalla scadenza."
+description: " \"Prompt di pianificazione che suddivide i compiti in modo automatico, calcolando a ritroso partendo dalla scadenza.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

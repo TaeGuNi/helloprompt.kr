@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Partner di Conversazione Madrelingua d'Angolo (Gratis)"
+title: " \"Partner di Conversazione Madrelingua d'Angolo (Gratis)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentimento Lingue Straniere"
-description: "Migliora le tue abilità di conversazione facendo giochi di ruolo illimitati con l'IA, l'alternativa gratuita e perfetta alle costose lezioni di inglese."
+description: " \"Migliora le tue abilità di conversazione facendo giochi di ruolo illimitati con l'IA, l'alternativa gratuita e perfetta alle costose lezioni di inglese.\""
 tags: ["ConversazioneInglese", "GiocoDiRuolo", "Prompt", "Auto-sviluppo"]
 ---
 

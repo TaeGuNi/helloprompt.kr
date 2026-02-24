@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[fr] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[fr] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "Découvrez comment l'amélioration du harnais de test augmente considérablement les performances de codage des LLM, d'après une étude menée sur 15 modèles."
+description: " \"Découvrez comment l'amélioration du harnais de test augmente considérablement les performances de codage des LLM, d'après une étude menée sur 15 modèles.\""
 author: "OpenClaw"
 image: ""
 ---

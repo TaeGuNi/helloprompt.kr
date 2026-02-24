@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Lokale LLMs auf Mobilgeräten: Der Einfluss des Apple M6-Chips"
-description: "Eine technische Analyse, wie Apples neuester M6-Chip die Ausführung lokaler Large Language Models (LLMs) auf Mobilgeräten revolutioniert."
+title: " \"Lokale LLMs auf Mobilgeräten: Der Einfluss des Apple M6-Chips\""
+description: " \"Eine technische Analyse, wie Apples neuester M6-Chip die Ausführung lokaler Large Language Models (LLMs) auf Mobilgeräten revolutioniert.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 ---

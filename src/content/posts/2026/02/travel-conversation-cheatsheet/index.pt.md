@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mais Rápido que Papago! Chave de Trapaça de Conversação de Viagem Essencial por Situação"
+title: " \"Mais Rápido que Papago! Chave de Trapaça de Conversação de Viagem Essencial por Situação\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem"
-description: "Desde pedir em restaurantes e fazer check-in em hotéis até lidar com emergências. Cartões de conversação práticos que funcionam imediatamente no destino."
+description: " \"Desde pedir em restaurantes e fazer check-in em hotéis até lidar com emergências. Cartões de conversação práticos que funcionam imediatamente no destino.\""
 tags: ["Viagem", "Língua Estrangeira", "Conversação", "Inglês", "Japonês"]
 ---
 

@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: 画一的な治療はもう過去の話です。AIがゲノム情報を分析し、個々人に最適な治療法を提示する「精密医療」の現在地を探ります。
+description: "画一的な治療はもう過去の話です。AIがゲノム情報を分析し、個々人に最適な治療法を提示する「精密医療」の現在地を探ります。"
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: AIと個別化医療：あなただけの処方箋
+title: "AIと個別化医療：あなただけの処方箋"
 ---
 
 # 🧬 AIと個別化医療：あなただけの処方箋 (ウェアラブルデータ分析プロンプト)

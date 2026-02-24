@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ribilanciamento Portafoglio IA: Trovare il Rapporto Aureo"
+title: " \"Ribilanciamento Portafoglio IA: Trovare il Rapporto Aureo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Prompt per analizzare l'allocazione del proprio portafoglio e ricevere suggerimenti per un ribilanciamento ottimale."
+description: " \"Prompt per analizzare l'allocazione del proprio portafoglio e ricevere suggerimenti per un ribilanciamento ottimale.\""
 tags: ["Investimento", "AllocazioneAsset", "Ribilanciamento", "Portafoglio"]
 ---
 

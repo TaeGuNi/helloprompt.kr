@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuggire dalla Fobia dello Schermo Bianco: Architetto di Schema di Saggio"
+title: " \"Fuggire dalla Fobia dello Schermo Bianco: Architetto di Schema di Saggio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MetodoStudio/Auto-Sviluppo"
-description: "Un prompt che imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisce le idee centrali per ogni paragrafo quando hai il blocco dello scrittore."
+description: " \"Un prompt che imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisce le idee centrali per ogni paragrafo quando hai il blocco dello scrittore.\""
 tags: ["Scrittura", "Saggio", "Rapporto", "Assegnazione"]
 ---
 

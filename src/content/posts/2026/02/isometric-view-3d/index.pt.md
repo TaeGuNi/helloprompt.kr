@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de 'Vista Isométrica' do Mundo em Miniatura Fofo"
+title: " \"Prompt de 'Vista Isométrica' do Mundo em Miniatura Fofo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Vista tridimensional e fofa, semelhante a jogos 3D ou ícones, em ângulo isométrico."
+description: " \"Vista tridimensional e fofa, semelhante a jogos 3D ou ícones, em ângulo isométrico.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "3D"]
 ---
 

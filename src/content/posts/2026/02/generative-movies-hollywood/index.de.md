@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (de)"
-description: "Analyse und praktische Prompts zur Erstellung von Filmkonzepten im Zeitalter der KI-generierten Filme."
+title: " \"AI-Generated Movies: The Hollywood Shift (de)\""
+description: " \"Analyse und praktische Prompts zur Erstellung von Filmkonzepten im Zeitalter der KI-generierten Filme.\""
 date: "2026-02-14"
 ---
 

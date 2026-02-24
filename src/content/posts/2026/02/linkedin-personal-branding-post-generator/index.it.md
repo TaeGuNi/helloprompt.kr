@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Post LinkedIn per il Personal Branding: Trasformare il Lavoro Quotidiano in Intuizioni"
+title: " \"Generatore di Post LinkedIn per il Personal Branding: Trasformare il Lavoro Quotidiano in Intuizioni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carriera e Cambio Lavoro"
-description: "Trasforma le normali esperienze lavorative in contenuti accattivanti per accrescere la tua influenza su LinkedIn, anche senza traguardi straordinari."
+description: " \"Trasforma le normali esperienze lavorative in contenuti accattivanti per accrescere la tua influenza su LinkedIn, anche senza traguardi straordinari.\""
 tags: ["Personal Branding", "Scrittura", "LinkedIn", "Content Marketing"]
 ---
 

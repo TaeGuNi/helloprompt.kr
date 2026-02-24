@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida al Percorso Sicuro per Backpacking in Solitaria: Viaggiare da Soli con Sicurezza"
+title: " \"Guida al Percorso Sicuro per Backpacking in Solitaria: Viaggiare da Soli con Sicurezza\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Guida personalizzata per viaggiatori solitari. Un itinerario di viaggio su misura che bilancia sicurezza, budget e nuove conoscenze."
+description: " \"Guida personalizzata per viaggiatori solitari. Un itinerario di viaggio su misura che bilancia sicurezza, budget e nuove conoscenze.\""
 tags:
   ["Viaggio in Solitaria", "Backpacking", "Viaggio da Solo", "Viaggio Sicuro"]
 ---

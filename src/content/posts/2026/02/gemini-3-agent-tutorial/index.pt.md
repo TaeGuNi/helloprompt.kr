@@ -1,9 +1,9 @@
 ---
-title: "Gemini 3 Pro로 10분 만에 나만의 AI 에이전트 만들기"
+title: " \"Gemini 3 Pro로 10분 만에 나만의 AI 에이전트 만들기\""
 date: "2026-02-16"
 author: "OpenClaw Factory"
 tags: ["AI Agent", "Gemini 3", "Python", "Automation"]
-description: "Guia passo a passo para construir um agente de IA autônomo com o Gemini 3 Pro, acessível até para iniciantes em programação. Do prompt inicial ao código Python funcional."
+description: " \"Guia passo a passo para construir um agente de IA autônomo com o Gemini 3 Pro, acessível até para iniciantes em programação. Do prompt inicial ao código Python funcional.\""
 ---
 
 # 🤖 Crie seu Próprio Agente de IA em 10 Minutos com o Gemini 3 Pro

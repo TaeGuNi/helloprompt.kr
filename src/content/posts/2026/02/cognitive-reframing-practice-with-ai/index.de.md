@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kognitive Umstrukturierungsübung mit KI: Negative Gedanken stoppen"
+title: " \"Kognitive Umstrukturierungsübung mit KI: Negative Gedanken stoppen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Wenn Sie denken 'Ich bin ruiniert', hilft Ihnen dieser KI-Prompt, die Situation neu zu bewerten und negative Gedankenmuster durch kognitive Umstrukturierung zu durchbrechen."
+description: " \"Wenn Sie denken 'Ich bin ruiniert', hilft Ihnen dieser KI-Prompt, die Situation neu zu bewerten und negative Gedankenmuster durch kognitive Umstrukturierung zu durchbrechen.\""
 tags: ["Mentale Pflege", "CBT", "Reframing", "Selbstbestätigung", "ChatGPT"]
 ---
 

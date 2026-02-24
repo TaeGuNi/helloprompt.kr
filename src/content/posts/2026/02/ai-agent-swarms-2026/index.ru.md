@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Russian)"
-description: "Многоагентное сотрудничество — это новый стандарт для решения сложных задач."
+title: " \"AI Agent Swarms (Russian)\""
+description: " \"Многоагентное сотрудничество — это новый стандарт для решения сложных задач.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Spanish)"
-description: "Las interfaces que se adaptan y autogeneran según la intención del usuario están reemplazando a los menús estáticos"
+title: " \"Generative UI Patterns (Spanish)\""
+description: " \"Las interfaces que se adaptan y autogeneran según la intención del usuario están reemplazando a los menús estáticos\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

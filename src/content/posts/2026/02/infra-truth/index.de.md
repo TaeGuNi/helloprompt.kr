@@ -1,6 +1,6 @@
 ---
-title: "Infrastruktur ist die einzige Wahrheit"
-description: "Kritische Analyse der Infrastruktur-Wahrheit: Warum NVIDIA als einziges Unternehmen wirklich profitiert."
+title: " \"Infrastruktur ist die einzige Wahrheit\""
+description: " \"Kritische Analyse der Infrastruktur-Wahrheit: Warum NVIDIA als einziges Unternehmen wirklich profitiert.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

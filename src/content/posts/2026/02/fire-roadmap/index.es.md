@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hoja de Ruta de la Tribu FIRE: Regla del 4% para la Jubilación Anticipada"
+title: " \"Hoja de Ruta de la Tribu FIRE: Regla del 4% para la Jubilación Anticipada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Simula el tiempo necesario para alcanzar la libertad financiera y los activos que necesitas como parte de la tribu FIRE."
+description: " \"Simula el tiempo necesario para alcanzar la libertad financiera y los activos que necesitas como parte de la tribu FIRE.\""
 tags: ["FIRE", "JubilaciónAnticipada", "LibertadFinanciera", "Finanzas"]
 ---
 

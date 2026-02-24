@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기"
+title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
-description: "打造一个能代替你写博客、回复社交媒体留言的“AI分身”。独家公开文风提取与模仿的提示词协议。"
+description: " \"打造一个能代替你写博客、回复社交媒体留言的“AI分身”。独家公开文风提取与模仿的提示词协议。\""
 tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 ---
 

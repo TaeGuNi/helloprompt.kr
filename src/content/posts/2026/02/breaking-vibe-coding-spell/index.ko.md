@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Korean)"
-description: "2026년, 감에 의존하는 '바이브 코딩'을 넘어 예측 가능한 AI 엔지니어링으로 나아가는 완벽 가이드"
+title: " \"Breaking the Spell of Vibe Coding (Korean)\""
+description: " \"2026년, 감에 의존하는 '바이브 코딩'을 넘어 예측 가능한 AI 엔지니어링으로 나아가는 완벽 가이드\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nutrizionista IA: Generatore di Piani Alimentari Settimanali Personalizzati"
+title: " \"Nutrizionista IA: Generatore di Piani Alimentari Settimanali Personalizzati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Scopri come trasformare l'IA nel tuo nutrizionista personale per creare un piano alimentare settimanale su misura per i tuoi obiettivi e gusti."
+description: " \"Scopri come trasformare l'IA nel tuo nutrizionista personale per creare un piano alimentare settimanale su misura per i tuoi obiettivi e gusti.\""
 tags: ["Dieta", "Gestione dei Pasti", "Salute", "ChatGPT", "Preparazione Pasti"]
 ---
 

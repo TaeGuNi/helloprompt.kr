@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "僵硬身体的个性化瑜伽序列：AI老师"
+title: " \"僵硬身体的个性化瑜伽序列：AI老师\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "身体僵硬不好意思去瑜伽学院？尝试在家与AI瑜伽老师一起轻轻放松。"
+description: " \"身体僵硬不好意思去瑜伽学院？尝试在家与AI瑜伽老师一起轻轻放松。\""
 tags: ["瑜伽", "拉伸", "柔韧性", "家庭锻炼", "ChatGPT"]
 ---
 

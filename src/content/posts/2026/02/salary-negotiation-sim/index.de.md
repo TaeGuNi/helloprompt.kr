@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gehaltsverhandlungs-Simulator: Sparring mit einem bösen HRler"
+title: " \"Gehaltsverhandlungs-Simulator: Sparring mit einem bösen HRler\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Karriere"
-description: "Verwandle die KI in einen knallharten Recruiter, um deine Gehaltsverhandlung zu trainieren. Werde virtuell 10 Mal abgelehnt, um in der Realität das Maximum herauszuholen."
+description: " \"Verwandle die KI in einen knallharten Recruiter, um deine Gehaltsverhandlung zu trainieren. Werde virtuell 10 Mal abgelehnt, um in der Realität das Maximum herauszuholen.\""
 tags: ["Gehalt", "Verhandlung", "Interview", "Rollenspiel", "Karriere"]
 ---
 

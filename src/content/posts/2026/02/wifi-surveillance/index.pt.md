@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 감시 카메라가 될 수 있다"
+title: " \"와이파이(WiFi)가 보이지 않는 감시 카메라가 될 수 있다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개인정보보호"
-description: "Os perigos da tecnologia que detecta a localização e o movimento humano usando apenas sinais de WiFi."
+description: " \"Os perigos da tecnologia que detecta a localização e o movimento humano usando apenas sinais de WiFi.\""
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 

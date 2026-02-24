@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "無礼にならずに催促するビジネスメール作成法"
+title: " \"無礼にならずに催促するビジネスメール作成法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "返信のない取引先に対して、失礼にならず洗練されたリマインドを送るためのメール作成プロンプトです。"
+description: " \"返信のない取引先に対して、失礼にならず洗練されたリマインドを送るためのメール作成プロンプトです。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

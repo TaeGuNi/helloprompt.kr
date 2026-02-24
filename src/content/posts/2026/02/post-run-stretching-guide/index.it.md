@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida allo Stretching Post-Corsa: Prevenire il Ginocchio del Corridore"
+title: " \"Guida allo Stretching Post-Corsa: Prevenire il Ginocchio del Corridore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Più importante della corsa è il defaticamento. Una routine di recupero per prevenire infortuni e svegliarsi freschi, senza dolori muscolari il giorno seguente."
+description: " \"Più importante della corsa è il defaticamento. Una routine di recupero per prevenire infortuni e svegliarsi freschi, senza dolori muscolari il giorno seguente.\""
 tags:
   ["Corsa", "Maratona", "Stretching", "Defaticamento", "Prevenzione Infortuni"]
 ---

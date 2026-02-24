@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview Golden Time! 'Thank-You Email' Writer to Send Immediately After"
+title: " \"Interview Golden Time! 'Thank-You Email' Writer to Send Immediately After\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Generate a strategic, polite thank-you email that reinforces your professional image and subtly addresses any interview shortcomings within the critical 24-hour window."
+description: " \"Generate a strategic, polite thank-you email that reinforces your professional image and subtly addresses any interview shortcomings within the critical 24-hour window.\""
 tags: ["ThankYouEmail", "InterviewEtiquette", "FollowUpEmail", "JobSuccess"]
 ---
 

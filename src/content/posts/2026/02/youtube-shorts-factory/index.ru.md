@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Фабрика YouTube Shorts: Сценарий + Визуал за 30 секунд"
+title: " \"Фабрика YouTube Shorts: Сценарий + Визуал за 30 секунд\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Создание контента"
-description: "Внедрение вирусной формулы короткого формата (Hook-Body-CTA) в ИИ для массового производства сценариев."
+description: " \"Внедрение вирусной формулы короткого формата (Hook-Body-CTA) в ИИ для массового производства сценариев.\""
 tags: ["YouTube", "Shorts", "НаписаниеСценария", "Криэйтор", "TikTok"]
 ---
 

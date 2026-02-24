@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "Explodieren Ihre API-Kosten für KI-Agenten? Verstehen Sie die quadratische Kostenfalle von LLM-Kontextfenstern und entdecken Sie 3 praxiserprobte Prompt-Muster, um den Token-Verbrauch drastisch zu senken – ohne Intelligenzverlust."
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"Explodieren Ihre API-Kosten für KI-Agenten? Verstehen Sie die quadratische Kostenfalle von LLM-Kontextfenstern und entdecken Sie 3 praxiserprobte Prompt-Muster, um den Token-Verbrauch drastisch zu senken – ohne Intelligenzverlust.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

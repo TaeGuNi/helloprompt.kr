@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "빛이 쏟아지는 'Volumetric Lighting' (갓레이) 연출법"
+title: " \"빛이 쏟아지는 'Volumetric Lighting' (갓레이) 연출법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.115Z"
 updatedDate: "2026-02-07T09:10:33.115Z"
 category: "이미지 생성"
-description: "공기 중의 먼지까지 비추는 신비로운 빛줄기, 갓레이(God rays)를 프롬프트로 완벽하게 구현하는 비법을 소개합니다."
+description: " \"공기 중의 먼지까지 비추는 신비로운 빛줄기, 갓레이(God rays)를 프롬프트로 완벽하게 구현하는 비법을 소개합니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

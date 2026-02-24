@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interpretando Texto Cifrado (Código Legado) Deixado por Quem Saiu"
+title: " \"Interpretando Texto Cifrado (Código Legado) Deixado por Quem Saiu\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt prático para a IA analisar códigos legados sem documentação e explicar sua lógica de forma simples e direta."
+description: " \"Um prompt prático para a IA analisar códigos legados sem documentação e explicar sua lógica de forma simples e direta.\""
 tags: ["Legado", "Análise de Código", "Manutenção", "Transferência"]
 ---
 

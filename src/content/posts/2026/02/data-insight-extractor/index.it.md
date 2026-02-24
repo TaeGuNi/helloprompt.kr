@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estrarre Insight da Dati Grezzi"
+title: " \"Estrarre Insight da Dati Grezzi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Analizza i dati Excel grezzi con l'IA per estrarre insight e implicazioni di business pronti per i tuoi report."
+description: " \"Analizza i dati Excel grezzi con l'IA per estrarre insight e implicazioni di business pronti per i tuoi report.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

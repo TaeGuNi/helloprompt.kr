@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Exercícios de Alongamento Furtivos no Escritório: Alivie a Dor Sem Ser Notado"
+title: " \"Exercícios de Alongamento Furtivos no Escritório: Alivie a Dor Sem Ser Notado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Apresentamos uma rotina de alongamentos de escritório que você pode fazer na sua própria mesa sem que seus colegas percebam."
+description: " \"Apresentamos uma rotina de alongamentos de escritório que você pode fazer na sua própria mesa sem que seus colegas percebam.\""
 tags:
   [
     "Pescoço de Texto",

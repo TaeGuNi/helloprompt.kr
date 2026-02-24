@@ -1,6 +1,6 @@
 ---
-title: "A Ascensão da Computação Serverless Edge"
-description: "Explore como a arquitetura serverless está se movendo para a borda, reduzindo a latência e transformando a entrega de aplicativos em 2026."
+title: " \"A Ascensão da Computação Serverless Edge\""
+description: " \"Explore como a arquitetura serverless está se movendo para a borda, reduzindo a latência e transformando a entrega de aplicativos em 2026.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

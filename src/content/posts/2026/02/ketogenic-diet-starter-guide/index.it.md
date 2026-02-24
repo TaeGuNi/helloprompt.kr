@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Introduttiva alla Dieta Chetogena: Inizio Perfetto con l'IA"
+title: " \"Guida Introduttiva alla Dieta Chetogena: Inizio Perfetto con l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Una guida per iniziare la dieta chetogena in modo facile e sicuro utilizzando l'IA, senza complessi calcoli dei macronutrienti."
+description: " \"Una guida per iniziare la dieta chetogena in modo facile e sicuro utilizzando l'IA, senza complessi calcoli dei macronutrienti.\""
 tags: ["Chetogena", "LCHF", "Dieta", "Salute", "ChatGPT"]
 ---
 

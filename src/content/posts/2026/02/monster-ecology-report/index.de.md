@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Monster-Ökologie-Bericht: Eigene Kreatur erstellen"
+title: " \"Monster-Ökologie-Bericht: Eigene Kreatur erstellen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Gelangweilt von Standard-Monstern wie Schleim oder Goblins? Erschaffen Sie einzigartige Kreaturen mit glaubhaftem Ökosystem und eigenen Verhaltensweisen."
+description: " \"Gelangweilt von Standard-Monstern wie Schleim oder Goblins? Erschaffen Sie einzigartige Kreaturen mit glaubhaftem Ökosystem und eigenen Verhaltensweisen.\""
 tags: ["Kreatur", "Monster", "Spielplanung", "Fantasie", "Einstellung"]
 ---
 

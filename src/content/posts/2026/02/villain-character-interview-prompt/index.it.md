@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creare Cattivo 3D: Prompt Intervista Approfondita in 3 Passi"
+title: " \"Creare Cattivo 3D: Prompt Intervista Approfondita in 3 Passi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Un cattivo affascinante è il nucleo di ogni grande storia. Intervista direttamente il tuo antagonista e porta alla luce la sua narrativa nascosta."
+description: " \"Un cattivo affascinante è il nucleo di ogni grande storia. Intervista direttamente il tuo antagonista e porta alla luce la sua narrativa nascosta.\""
 tags: ["ImpostazionePersonaggio", "ScritturaRomanzo", "Cattivo", "Intervista"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desenfoque de Fondo Emocional 'Bokeh & Profundidad de Campo'"
+title: " \"Desenfoque de Fondo Emocional 'Bokeh & Profundidad de Campo'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt para destacar al sujeto principal desenfocando el fondo y creando orbes de luz emocionales (efecto Bokeh)."
+description: " \"Prompt para destacar al sujeto principal desenfocando el fondo y creando orbes de luz emocionales (efecto Bokeh).\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografía", "Efecto"]
 ---
 

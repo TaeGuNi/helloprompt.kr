@@ -1,6 +1,6 @@
 ---
-title: "Der KI-Arzt betritt die Klinik"
-description: "Die Gegenwart der medizinischen KI, die Behandlungspläne vorschlägt."
+title: " \"Der KI-Arzt betritt die Klinik\""
+description: " \"Die Gegenwart der medizinischen KI, die Behandlungspläne vorschlägt.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

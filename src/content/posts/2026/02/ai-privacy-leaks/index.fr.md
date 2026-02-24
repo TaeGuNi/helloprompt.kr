@@ -1,6 +1,6 @@
 ---
-title: "Smart Device Privacy Risks (French)"
-description: "Vos ondes cérébrales pourraient être publiques. La collecte de données par l'IA ne connaît aucune limite."
+title: " \"Smart Device Privacy Risks (French)\""
+description: " \"Vos ondes cérébrales pourraient être publiques. La collecte de données par l'IA ne connaît aucune limite.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]

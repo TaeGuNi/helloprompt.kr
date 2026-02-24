@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyser les Commentaires Clients Verbeux, Positif/Négatif"
+title: " \"Analyser les Commentaires Clients Verbeux, Positif/Négatif\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Des centaines d'avis clients ? Analysez et classez-les instantanément grâce à l'analyse de sentiment de l'IA."
+description: " \"Des centaines d'avis clients ? Analysez et classez-les instantanément grâce à l'analyse de sentiment de l'IA.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

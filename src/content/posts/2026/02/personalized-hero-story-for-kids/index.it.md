@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creare una Fiaba da Eroe Dove Mio Figlio è il Personaggio Principale"
+title: " \"Creare una Fiaba da Eroe Dove Mio Figlio è il Personaggio Principale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Una storia d'avventura personalizzata con il nome del tuo bambino: la magia dell'IA per aumentare l'autostima in 5 minuti."
+description: " \"Una storia d'avventura personalizzata con il nome del tuo bambino: la magia dell'IA per aumentare l'autostima in 5 minuti.\""
 tags:
   [
     "Genitorialità",

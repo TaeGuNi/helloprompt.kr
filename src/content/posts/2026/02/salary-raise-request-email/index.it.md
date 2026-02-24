@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Discorso Soldi Difficile, Scrittore 'Email Richiesta Aumento Salariale' Educato ma Fermo"
+title: " \"Discorso Soldi Difficile, Scrittore 'Email Richiesta Aumento Salariale' Educato ma Fermo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Scrivi un'email aziendale per chiedere un aumento di stipendio in modo educato, esponendo chiaramente i tuoi risultati e le tue aspettative, senza compromettere i rapporti professionali."
+description: " \"Scrivi un'email aziendale per chiedere un aumento di stipendio in modo educato, esponendo chiaramente i tuoi risultati e le tue aspettative, senza compromettere i rapporti professionali.\""
 tags:
   [
     "EmailAumentoSalario",

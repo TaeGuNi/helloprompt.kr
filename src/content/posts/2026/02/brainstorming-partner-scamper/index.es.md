@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cuando las Ideas Están Atascadas, Compañero de Lluvia de Ideas"
+title: " \"Cuando las Ideas Están Atascadas, Compañero de Lluvia de Ideas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "No te preocupes solo. Expande tus ideas y supera el bloqueo creativo con la técnica SCAMPER."
+description: " \"No te preocupes solo. Expande tus ideas y supera el bloqueo creativo con la técnica SCAMPER.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interviewfragenliste, KI wählt für Sie aus"
+title: " \"Interviewfragenliste, KI wählt für Sie aus\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Ein präziser Generator für Interviewfragen, der die wahren Fähigkeiten von Bewerbern aufdeckt."
+description: " \"Ein präziser Generator für Interviewfragen, der die wahren Fähigkeiten von Bewerbern aufdeckt.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Postagens de Marca Pessoal no LinkedIn: Transformando o Trabalho Diário em Insights"
+title: " \"Gerador de Postagens de Marca Pessoal no LinkedIn: Transformando o Trabalho Diário em Insights\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Transforme experiências de trabalho diárias e insights em conteúdo atraente para aumentar sua influência no LinkedIn sem conquistas especiais."
+description: " \"Transforme experiências de trabalho diárias e insights em conteúdo atraente para aumentar sua influência no LinkedIn sem conquistas especiais.\""
 tags: ["Marca Pessoal", "Escrita", "LinkedIn", "Marketing de Conteúdo"]
 ---
 

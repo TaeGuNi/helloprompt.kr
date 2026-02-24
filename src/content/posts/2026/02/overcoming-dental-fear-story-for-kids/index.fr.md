@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Histoire pour Surmonter la Peur du Dentiste pour Enfants : Charge de Courage"
+title: " \"Histoire pour Surmonter la Peur du Dentiste pour Enfants : Charge de Courage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un prompt pour générer une histoire ludique et rassurante, aidant les enfants à surmonter leur peur du dentiste en transformant le soin en une aventure héroïque."
+description: " \"Un prompt pour générer une histoire ludique et rassurante, aidant les enfants à surmonter leur peur du dentiste en transformant le soin en une aventure héroïque.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

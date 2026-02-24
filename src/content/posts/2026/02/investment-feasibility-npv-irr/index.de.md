@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Investitions-Machbarkeitsanalyse: NPV & IRR Auto-Berechnung Excel"
+title: " \"Investitions-Machbarkeitsanalyse: NPV & IRR Auto-Berechnung Excel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Lohnt sich dieses Geschäft? Berechnen Sie den Nettobarwert (NPV) und den internen Zinsfuß (IRR) – die wichtigsten Kennzahlen für Investitionsentscheidungen – ganz einfach mit Excel."
+description: " \"Lohnt sich dieses Geschäft? Berechnen Sie den Nettobarwert (NPV) und den internen Zinsfuß (IRR) – die wichtigsten Kennzahlen für Investitionsentscheidungen – ganz einfach mit Excel.\""
 tags: ["Excel", "Investitionsanalyse", "NPV", "IRR"]
 ---
 

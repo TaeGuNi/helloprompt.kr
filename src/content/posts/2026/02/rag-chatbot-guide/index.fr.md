@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기"
+title: " \"RAG(검색 증강 생성) 구축: 내 데이터로 똑똑한 챗봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Comment apprendre à votre IA les règles internes de votre entreprise. Créez un pipeline RAG avec LangChain et une base vectorielle en 30 minutes."
+description: " \"Comment apprendre à votre IA les règles internes de votre entreprise. Créez un pipeline RAG avec LangChain et une base vectorielle en 30 minutes.\""
 tags: ["RAG", "LangChain", "벡터DB", "챗봇", "AI개발"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Historia para Superar el Miedo al Dentista para Niños: Carga de Coraje"
+title: " \"Historia para Superar el Miedo al Dentista para Niños: Carga de Coraje\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Cuento interactivo y simulación para ayudar a los niños a superar el miedo al dentista y a los hospitales."
+description: " \"Cuento interactivo y simulación para ayudar a los niños a superar el miedo al dentista y a los hospitales.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Limpeza da Geladeira! Gerador de Receitas Saudáveis com IA"
+title: " \"Limpeza da Geladeira! Gerador de Receitas Saudáveis com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Crie receitas saudáveis e dignas de 5 estrelas usando ingredientes próximos do vencimento."
+description: " \"Crie receitas saudáveis e dignas de 5 estrelas usando ingredientes próximos do vencimento.\""
 tags: ["Culinária", "Receita", "Dieta", "Limpeza da Geladeira"]
 ---
 

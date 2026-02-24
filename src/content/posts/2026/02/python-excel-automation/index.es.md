@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷"
+title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Una guía definitiva de prompts para automatizar la tediosa tarea de copiar, pegar y combinar archivos de Excel todos los días. Con solo 10 líneas de Python, resuélvelo en 1 segundo."
+description: " \"Una guía definitiva de prompts para automatizar la tediosa tarea de copiar, pegar y combinar archivos de Excel todos los días. Con solo 10 líneas de Python, resuélvelo en 1 segundo.\""
 tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
 ---
 

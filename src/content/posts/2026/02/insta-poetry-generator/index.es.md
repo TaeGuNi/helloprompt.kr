@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Poesía Corta (Insta Poetry) para Shorts/Reels"
+title: " \"Generador de Poesía Corta (Insta Poetry) para Shorts/Reels\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Crea poesía corta y emocional para generar interacción en redes sociales en solo 10 segundos."
+description: " \"Crea poesía corta y emocional para generar interacción en redes sociales en solo 10 segundos.\""
 tags: ["Instagram", "Poesía", "TextoEmocional", "SNS", "Contenido"]
 ---
 

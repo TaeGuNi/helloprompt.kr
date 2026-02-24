@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vergiss Excel VLOOKUP: Gott des Finanzdatenabgleichs, XLOOKUP"
+title: " \"Vergiss Excel VLOOKUP: Gott des Finanzdatenabgleichs, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Überstunden wegen des fehleranfälligen und langsamen VLOOKUPs? Wechseln Sie zur leistungsstärkeren und einfacheren XLOOKUP-Funktion."
+description: " \"Überstunden wegen des fehleranfälligen und langsamen VLOOKUPs? Wechseln Sie zur leistungsstärkeren und einfacheren XLOOKUP-Funktion.\""
 tags: ["Excel", "Funktion", "XLOOKUP", "Datenbereinigung"]
 ---
 

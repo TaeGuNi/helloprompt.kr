@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Dream Interpretation Psychology: What Was Last Night's Dream?"
+title: " \"AI Dream Interpretation Psychology: What Was Last Night's Dream?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Is it a premonition, or just your unconscious sending a signal? Decode the true meaning behind your dreams using psychological symbol analysis."
+description: " \"Is it a premonition, or just your unconscious sending a signal? Decode the true meaning behind your dreams using psychological symbol analysis.\""
 tags: ["Dream Interpretation", "Psychology", "Unconscious", "Freud", "ChatGPT"]
 ---
 

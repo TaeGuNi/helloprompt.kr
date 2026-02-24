@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "IA che Legge Documenti Storici: Interprete di Testi Classici"
+title: " \"IA che Legge Documenti Storici: Interprete di Testi Classici\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "Un prompt che traduce testi antichi e fonti primarie ostiche in un linguaggio moderno e accessibile, svelandone i significati nascosti."
+description: " \"Un prompt che traduce testi antichi e fonti primarie ostiche in un linguaggio moderno e accessibile, svelandone i significati nascosti.\""
 tags: ["Storia", "Classico", "Alfabetizzazione", "AnalisiDocumentiStorici"]
 ---
 

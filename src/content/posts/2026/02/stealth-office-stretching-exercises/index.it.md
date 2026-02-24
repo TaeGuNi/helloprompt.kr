@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Esercizi di Stretching Furtivi in Ufficio: Alleviare il Dolore Senza Farsi Notare"
+title: " \"Esercizi di Stretching Furtivi in Ufficio: Alleviare il Dolore Senza Farsi Notare\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Scopri una routine di stretching da fare direttamente alla scrivania, in modo invisibile ai colleghi, per alleviare i dolori da ufficio."
+description: " \"Scopri una routine di stretching da fare direttamente alla scrivania, in modo invisibile ai colleghi, per alleviare i dolori da ufficio.\""
 tags:
   [
     "Collo da Tartaruga",

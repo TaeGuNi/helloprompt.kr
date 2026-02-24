@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Crisis Management 101: How to Write Professional Apology Letters"
+title: " \"Crisis Management 101: How to Write Professional Apology Letters\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Business Writing"
-description: "The golden hour for fixing mistakes. Discover an AI prompt for crafting apology letters that rebuild trust instead of merely making excuses."
+description: " \"The golden hour for fixing mistakes. Discover an AI prompt for crafting apology letters that rebuild trust instead of merely making excuses.\""
 tags: ["Apology", "Email", "Business", "CrisisManagement", "Communication"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ende des Schulweg-Kriegs! Selbstständige Morgenroutine-Checkliste"
+title: " \"Ende des Schulweg-Kriegs! Selbstständige Morgenroutine-Checkliste\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Wie Sie Ihrem Kind helfen, sich jeden Morgen ohne Schreien selbstständig vorzubereiten."
+description: " \"Wie Sie Ihrem Kind helfen, sich jeden Morgen ohne Schreien selbstständig vorzubereiten.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

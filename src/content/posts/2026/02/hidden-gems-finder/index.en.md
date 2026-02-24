@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Go Away Cliché Travel! My Own Hidden Gems Found by AI"
+title: " \"Go Away Cliché Travel! My Own Hidden Gems Found by AI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Escape the tourist traps and discover secret, quiet spots only locals know with this AI travel prompt."
+description: " \"Escape the tourist traps and discover secret, quiet spots only locals know with this AI travel prompt.\""
 tags: ["Travel", "Hidden Gems", "Hidden Spots", "Emotional Travel"]
 ---
 

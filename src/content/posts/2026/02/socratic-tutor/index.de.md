@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트"
+title: " \"나만의 1:1 과외 선생님: 소크라테스식 학습 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "자기계발"
-description: "Ein Leitfaden für die sokratische Methode, bei der die KI nicht einfach Antworten liefert, sondern Sie durch gezielte Fragen zu eigenen Erkenntnissen führt."
+description: " \"Ein Leitfaden für die sokratische Methode, bei der die KI nicht einfach Antworten liefert, sondern Sie durch gezielte Fragen zu eigenen Erkenntnissen führt.\""
 tags: ["학습", "자기계발", "메타인지", "튜터링"]
 ---
 

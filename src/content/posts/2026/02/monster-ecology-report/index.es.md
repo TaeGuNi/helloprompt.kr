@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Informe de Ecología de Monstruos: Creando Mi Propia Criatura"
+title: " \"Informe de Ecología de Monstruos: Creando Mi Propia Criatura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¿Cansado de los típicos slimes y goblins? Diseña monstruos originales y realistas considerando su ecosistema, dieta y comportamiento."
+description: " \"¿Cansado de los típicos slimes y goblins? Diseña monstruos originales y realistas considerando su ecosistema, dieta y comportamiento.\""
 tags:
   ["Criatura", "Monstruo", "PlanificaciónJuego", "Fantasía", "Configuración"]
 ---

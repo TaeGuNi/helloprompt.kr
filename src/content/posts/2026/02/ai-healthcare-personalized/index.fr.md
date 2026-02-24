@@ -3,10 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description:
-  Le traitement unique pour tous appartient au passé. Explorez l'état actuel
-  de la 'Médecine de Précision', où l'IA analyse les données génomiques pour suggérer
-  le traitement optimal pour chaque individu.
+description: "Le traitement unique pour tous appartient au passé. Explorez l'état actuel de la 'Médecine de Précision', où l'IA analyse les données génomiques pour suggérer le traitement optimal pour chaque individu."
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "IA et Médecine Personnalisée : Une Ordonnance Juste pour Vous"
+title: " \"IA et Médecine Personnalisée : Une Ordonnance Juste pour Vous\""
 ---
 
 # 📝 IA et Médecine Personnalisée : Une Ordonnance Juste pour Vous

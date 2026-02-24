@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (French)"
-description: "Les modèles d'IA raisonnent désormais simultanément sur la vidéo, l'audio et le texte en temps réel."
+title: " \"Multimodal Reasoning (French)\""
+description: " \"Les modèles d'IA raisonnent désormais simultanément sur la vidéo, l'audio et le texte en temps réel.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

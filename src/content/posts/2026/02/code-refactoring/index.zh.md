@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的代码是垃圾？！整洁代码重构教练"
+title: " \"我的代码是垃圾？！整洁代码重构教练\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "编码/IT"
-description: "这是一个将勉强能运行的凌乱代码，重构为‘易读、易维护’的整洁代码（Clean Code）的专属提示词。"
+description: " \"这是一个将勉强能运行的凌乱代码，重构为‘易读、易维护’的整洁代码（Clean Code）的专属提示词。\""
 tags: ["重构", "整洁代码", "开发者", "代码审查"]
 ---
 

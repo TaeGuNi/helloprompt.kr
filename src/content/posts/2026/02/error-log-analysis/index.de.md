@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Unbekanntes Fehlerprotokoll, Ursache in 10 Sekunden analysieren"
+title: " \"Unbekanntes Fehlerprotokoll, Ursache in 10 Sekunden analysieren\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Entwicklung"
-description: "Ein Debugging-Helfer-Prompt, der die Ursache in tausenden von Zeilen von Fehlerprotokollen findet und Lösungen vorschlägt."
+description: " \"Ein Debugging-Helfer-Prompt, der die Ursache in tausenden von Zeilen von Fehlerprotokollen findet und Lösungen vorschlägt.\""
 tags: ["Debugging", "Fehlerprotokoll", "Fehlerbehebung"]
 ---
 

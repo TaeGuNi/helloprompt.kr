@@ -1,15 +1,13 @@
 ---
 date: "2026-02-13"
-description:
-  Обзор новых возможностей Python 3.14, включая улучшения JIT-компилятора
-  и Pattern Matching v3.
+description: "Обзор новых возможностей Python 3.14, включая улучшения JIT-компилятора и Pattern Matching v3."
 image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: "Python 3.14: Прорыв в скорости и безопасности типов"
+title: " \"Python 3.14: Прорыв в скорости и безопасности типов\""
 ---
 
 # 🐍 Python 3.14: Прорыв в производительности и ИИ-промпт для быстрой миграции

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sprung in die Geschichte: Historischer Ereignis-Simulator"
+title: " \"Sprung in die Geschichte: Historischer Ereignis-Simulator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: "Was wäre, wenn Sie Admiral Yi Sun-sin wären? Ein Prompt, um Geschichte durch interaktive Entscheidungen wie in einem Text-Adventure hautnah zu erleben."
+description: " \"Was wäre, wenn Sie Admiral Yi Sun-sin wären? Ein Prompt, um Geschichte durch interaktive Entscheidungen wie in einem Text-Adventure hautnah zu erleben.\""
 tags:
   ["Geschichtsstudium", "Gamification", "Simulation", "AlternativeGeschichte"]
 ---

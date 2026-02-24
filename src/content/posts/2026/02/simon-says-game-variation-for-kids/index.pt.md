@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Variação do Jogo O Mestre Mandou para Crianças: Treinamento de Atenção Auditiva"
+title: " \"Variação do Jogo O Mestre Mandou para Crianças: Treinamento de Atenção Auditiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Melhore a concentração e o controle físico do seu filho com missões criativas geradas por IA."
+description: " \"Melhore a concentração e o controle físico do seu filho com missões criativas geradas por IA.\""
 tags:
   [
     "Parentalidade",

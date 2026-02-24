@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "比 J 还细致的 AI 超个性化旅行日程策划师"
+title: " \"比 J 还细致的 AI 超个性化旅行日程策划师\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "只需1分钟，AI为您量身定制兼顾偏好、动线与体力的完美旅行日程表。"
+description: " \"只需1分钟，AI为您量身定制兼顾偏好、动线与体力的完美旅行日程表。\""
 tags: ["旅行", "日程", "策划师", "海外旅行"]
 ---
 

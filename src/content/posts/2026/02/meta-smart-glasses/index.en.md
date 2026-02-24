@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Triumph of Wearable AI"
-description: "Smart glasses sales are surging, leading the wearable AI market. Meta's strategic success and market analysis."
+title: " \"Meta Smart Glasses: The Triumph of Wearable AI\""
+description: " \"Smart glasses sales are surging, leading the wearable AI market. Meta's strategic success and market analysis.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 ---

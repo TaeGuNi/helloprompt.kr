@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Séquence de Yoga Personnalisée pour Corps Raides : Professeur IA"
+title: " \"Séquence de Yoga Personnalisée pour Corps Raides : Professeur IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Vous avez un corps raide et n'osez pas aller dans un studio de yoga ? Détendez-vous en douceur chez vous avec un professeur de yoga IA sur mesure."
+description: " \"Vous avez un corps raide et n'osez pas aller dans un studio de yoga ? Détendez-vous en douceur chez vous avec un professeur de yoga IA sur mesure.\""
 tags:
   ["Yoga", "Étirement", "Flexibilité", "Entraînement à la Maison", "ChatGPT"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Terminando a Análise SWOT em 1 Minuto Sem Brainstorming"
+title: " \"Terminando a Análise SWOT em 1 Minuto Sem Brainstorming\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Análise SWOT gerada por IA: a base perfeita para novas ideias de negócios e estratégias de marketing."
+description: " \"Análise SWOT gerada por IA: a base perfeita para novas ideias de negócios e estratégias de marketing.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

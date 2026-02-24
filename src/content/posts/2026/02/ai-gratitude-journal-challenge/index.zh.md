@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI感恩日记挑战：通往幸福的最简单方法"
+title: " \"AI感恩日记挑战：通往幸福的最简单方法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "一句“谢谢”足以重塑大脑结构。让AI带你养成发现并记录日常小确幸的习惯。"
+description: " \"一句“谢谢”足以重塑大脑结构。让AI带你养成发现并记录日常小确幸的习惯。\""
 tags: ["感恩日记", "幸福", "积极心理学", "习惯", "ChatGPT"]
 ---
 

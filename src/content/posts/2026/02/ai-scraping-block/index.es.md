@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Spanish)"
-description: "La escasez de datos se vuelve una realidad a medida que los medios bloquean el acceso a sus archivos."
+title: " \"Publishers Block AI Scraping (Spanish)\""
+description: " \"La escasez de datos se vuelve una realidad a medida que los medios bloquean el acceso a sus archivos.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

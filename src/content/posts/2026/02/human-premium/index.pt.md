@@ -1,9 +1,9 @@
 ---
-title: "The Human Premium: A Era em que o Toque Humano se Torna Luxo"
+title: " \"The Human Premium: A Era em que o Toque Humano se Torna Luxo\""
 date: 2026-02-14
 tags: [culture, design]
 image: https://source.unsplash.com/random/1600x900/?hand,art
-description: "Descubra prompts de copywriting que injetam calor e autenticidade humana em textos frios gerados por IA, alcançando o verdadeiro 'Human Premium'."
+description: " \"Descubra prompts de copywriting que injetam calor e autenticidade humana em textos frios gerados por IA, alcançando o verdadeiro 'Human Premium'.\""
 ---
 
 # 📝 The Human Premium: A Era em que o Toque Humano se Torna Luxo

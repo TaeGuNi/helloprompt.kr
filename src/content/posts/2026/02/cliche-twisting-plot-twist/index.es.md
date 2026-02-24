@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Torciendo el Cliché: Convirtiendo un Final Obvio en un Giro Impactante"
+title: " \"Torciendo el Cliché: Convirtiendo un Final Obvio en un Giro Impactante\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Descubre cómo generar ideas para giros argumentales (plot twists) que dejen a tus lectores boquiabiertos, retorciendo los clichés más comunes."
+description: " \"Descubre cómo generar ideas para giros argumentales (plot twists) que dejen a tus lectores boquiabiertos, retorciendo los clichés más comunes.\""
 tags: ["Novela", "Giro", "Idea", "Narración"]
 ---
 

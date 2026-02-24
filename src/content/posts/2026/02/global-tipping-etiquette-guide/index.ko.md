@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "팁, 줘야 해 말아야 해? 전 세계 팁 문화 정복하기"
+title: " \"팁, 줘야 해 말아야 해? 전 세계 팁 문화 정복하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.111Z"
 updatedDate: "2026-02-07T09:10:33.112Z"
 category: "여행 & 문화"
-description: "미국은 20%? 일본은 0원? 헷갈리고 민망한 팁 문화, AI가 딱 정해드립니다."
+description: " \"미국은 20%? 일본은 0원? 헷갈리고 민망한 팁 문화, AI가 딱 정해드립니다.\""
 tags: ["팁문화", "여행경비", "글로벌에티켓", "서비스요금"]
 ---
 

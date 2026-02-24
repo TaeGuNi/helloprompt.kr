@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créer un Plan de Repas Diététique Personnalisé par IA Sans Professeur de Sport"
+title: " \"Créer un Plan de Repas Diététique Personnalisé par IA Sans Professeur de Sport\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Créez un plan de repas diététique parfait d'une semaine en 1 minute, adapté à votre morphologie, votre poids cible et vos préférences alimentaires."
+description: " \"Créez un plan de repas diététique parfait d'une semaine en 1 minute, adapté à votre morphologie, votre poids cible et vos préférences alimentaires.\""
 tags: ["Régime", "Gestion de l'Alimentation", "Fitness", "Santé"]
 ---
 

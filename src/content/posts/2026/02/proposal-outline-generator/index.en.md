@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creating an Irresistible Proposal Outline"
+title: " \"Creating an Irresistible Proposal Outline\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Learn how to craft compelling, client-centric proposal storytelling that wins pitches and persuades clients."
+description: " \"Learn how to craft compelling, client-centric proposal storytelling that wins pitches and persuades clients.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

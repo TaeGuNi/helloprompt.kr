@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (Italian)"
-description: "Combinare le Reti di Petri e i modelli LLM per creare sistemi distribuiti robusti e affidabili."
+title: " \"LLMs in Distributed Apps (Italian)\""
+description: " \"Combinare le Reti di Petri e i modelli LLM per creare sistemi distribuiti robusti e affidabili.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

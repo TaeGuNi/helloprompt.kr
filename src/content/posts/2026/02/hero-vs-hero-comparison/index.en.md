@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hero vs Hero: Century's Rival Comparative Analysis"
+title: " \"Hero vs Hero: Century's Rival Comparative Analysis\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanities/History"
-description: "A prompt that pairs historical figures from different eras and cultures 1:1 to analyze their striking commonalities and fundamental differences."
+description: " \"A prompt that pairs historical figures from different eras and cultures 1:1 to analyze their striking commonalities and fundamental differences.\""
 tags: ["History", "PersonAnalysis", "ComparativeCulture", "Prompt"]
 ---
 

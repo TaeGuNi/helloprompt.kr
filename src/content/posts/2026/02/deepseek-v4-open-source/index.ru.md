@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4: Новый король Open Source?"
-description: "Глубокий анализ технических характеристик DeepSeek-V4, производительности в тестах и влияния на экосистему ИИ с открытым исходным кодом."
+title: " \"DeepSeek-V4: Новый король Open Source?\""
+description: " \"Глубокий анализ технических характеристик DeepSeek-V4, производительности в тестах и влияния на экосистему ИИ с открытым исходным кодом.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

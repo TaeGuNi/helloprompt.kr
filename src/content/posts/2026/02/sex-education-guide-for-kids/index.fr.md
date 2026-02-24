@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Éducation Sexuelle pour Enfants : Comment Répondre à 'D'où Viennent les Bébés ?'"
+title: " \"Guide d'Éducation Sexuelle pour Enfants : Comment Répondre à 'D'où Viennent les Bébés ?'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un guide pour aborder l'éducation sexuelle de vos enfants avec justesse, bienveillance et sans tabou."
+description: " \"Un guide pour aborder l'éducation sexuelle de vos enfants avec justesse, bienveillance et sans tabou.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

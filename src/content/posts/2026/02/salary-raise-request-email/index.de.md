@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schwieriges Geldgespräch, Höflicher aber Fester 'Gehaltserhöhungs-Anfrage-E-Mail'-Schreiber"
+title: " \"Schwieriges Geldgespräch, Höflicher aber Fester 'Gehaltserhöhungs-Anfrage-E-Mail'-Schreiber\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Erstellen Sie eine professionelle E-Mail zur Gehaltsverhandlung, die höflich, aber bestimmt Ihre Leistungen kommuniziert, ohne das Arbeitsklima zu belasten."
+description: " \"Erstellen Sie eine professionelle E-Mail zur Gehaltsverhandlung, die höflich, aber bestimmt Ihre Leistungen kommuniziert, ohne das Arbeitsklima zu belasten.\""
 tags:
   [
     "GehaltserhöhungsEMail",

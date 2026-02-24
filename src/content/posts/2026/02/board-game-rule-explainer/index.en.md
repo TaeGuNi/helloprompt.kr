@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 룰북은 가라: 보드게임 규칙 3분 요약"
+title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "The ultimate AI Board Game Rule Master guide for those exhausted by 40-page rulebooks. Escape the dread of complex edge cases and rule errors."
+description: " \"The ultimate AI Board Game Rule Master guide for those exhausted by 40-page rulebooks. Escape the dread of complex edge cases and rule errors.\""
 tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
 ---
 

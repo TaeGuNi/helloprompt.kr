@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Omniscient Viewpoint 'High Angle' (Drone View) Usage"
+title: " \"Omniscient Viewpoint 'High Angle' (Drone View) Usage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master high-angle and drone-view AI prompts to capture sweeping landscapes and architectural layouts from an omniscient perspective."
+description: " \"Master high-angle and drone-view AI prompts to capture sweeping landscapes and architectural layouts from an omniscient perspective.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

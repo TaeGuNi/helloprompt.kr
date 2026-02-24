@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Social Skills Coaching for Kids: Explaining Relationships and Rejection"
+title: " \"Social Skills Coaching for Kids: Explaining Relationships and Rejection\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Effective social skills coaching for children hurt by peer rejection."
+description: " \"Effective social skills coaching for children hurt by peer rejection.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

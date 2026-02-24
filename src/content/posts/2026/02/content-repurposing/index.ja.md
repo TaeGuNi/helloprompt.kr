@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈)"
+title: " \"유튜브 영상을 블로그 글 10개로 쪼개는 마법 (원소스 멀티유즈)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 마케팅"
-description: "動画を撮って終わり？YouTubeのスクリプトを抽出して、ブログ、Instagram、LinkedInの投稿へと無限に増殖させるOSMUコンテンツ自動化戦略を紹介します。"
+description: " \"動画を撮って終わり？YouTubeのスクリプトを抽出して、ブログ、Instagram、LinkedInの投稿へと無限に増殖させるOSMUコンテンツ自動化戦略を紹介します。\""
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 

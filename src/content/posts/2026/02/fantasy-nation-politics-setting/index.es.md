@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Configuración de Nación y Sistema Político: Mundo de Fantasía Realista"
+title: " \"Configuración de Nación y Sistema Político: Mundo de Fantasía Realista\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Los reinos simples son aburridos. Diseña naciones tridimensionales con sistemas políticos complejos, como teocracias o repúblicas mercantiles."
+description: " \"Los reinos simples son aburridos. Diseña naciones tridimensionales con sistemas políticos complejos, como teocracias o repúblicas mercantiles.\""
 tags: ["Universo", "Política", "Nación", "Fantasía", "Configuración"]
 ---
 

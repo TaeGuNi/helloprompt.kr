@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Recomendação de Presente Personalizado por IA para Ser Chamado de Sensato"
+title: " \"Gerador de Recomendação de Presente Personalizado por IA para Ser Chamado de Sensato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Informe a idade, gênero, nível de intimidade e orçamento, e a IA criará uma lista de presentes infalível e criativa."
+description: " \"Informe a idade, gênero, nível de intimidade e orçamento, e a IA criará uma lista de presentes infalível e criativa.\""
 tags: ["Recomendação de Presente", "Aniversário", "Open House", "Aniversário"]
 ---
 

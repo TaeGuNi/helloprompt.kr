@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plus d'Abandon ! Conception de Traqueur de Formation d'Habitudes par IA"
+title: " \"Plus d'Abandon ! Conception de Traqueur de Formation d'Habitudes par IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Ne comptez plus sur votre seule volonté. Découvrez comment créer un système de création d'habitudes infaillible, basé sur les neurosciences et l'IA."
+description: " \"Ne comptez plus sur votre seule volonté. Découvrez comment créer un système de création d'habitudes infaillible, basé sur les neurosciences et l'IA.\""
 tags: ["Habitude", "Routine", "VieDivine", "Développement Personnel"]
 ---
 

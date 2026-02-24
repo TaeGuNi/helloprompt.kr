@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube Shorts Factory: Script + Visuals in 30 Seconds"
+title: " \"YouTube Shorts Factory: Script + Visuals in 30 Seconds\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Content Creation"
-description: "Inject the viral short-form formula (Hook-Body-CTA) into AI to mass-produce highly engaging scripts in seconds."
+description: " \"Inject the viral short-form formula (Hook-Body-CTA) into AI to mass-produce highly engaging scripts in seconds.\""
 tags: ["YouTube", "Shorts", "ScriptWriting", "Creator", "TikTok"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Servidor MCP para Chrome DevTools: La revolución de la depuración web para agentes de IA"
+title: " \"Servidor MCP para Chrome DevTools: La revolución de la depuración web para agentes de IA\""
 date: 2026-02-14
-description: "Aprende cómo el Model Context Protocol (MCP) permite a los agentes de IA acceder a Chrome DevTools para depurar y validar aplicaciones web directamente."
+description: " \"Aprende cómo el Model Context Protocol (MCP) permite a los agentes de IA acceder a Chrome DevTools para depurar y validar aplicaciones web directamente.\""
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

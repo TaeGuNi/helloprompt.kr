@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Terapia dell'Insonnia CBT-I IA: Curare l'Insonnia Senza Farmaci"
+title: " \"Terapia dell'Insonnia CBT-I IA: Curare l'Insonnia Senza Farmaci\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Sconfiggi l'insonnia in modo naturale con l'IA. Scopri come applicare la CBT-I (Terapia Cognitivo Comportamentale per l'Insonnia) usando prompt avanzati per ritrovare il sonno perduto."
+description: " \"Sconfiggi l'insonnia in modo naturale con l'IA. Scopri come applicare la CBT-I (Terapia Cognitivo Comportamentale per l'Insonnia) usando prompt avanzati per ritrovare il sonno perduto.\""
 tags: ["Insonnia", "CBT-I", "Terapia del Sonno", "Cura Mentale", "ChatGPT"]
 ---
 

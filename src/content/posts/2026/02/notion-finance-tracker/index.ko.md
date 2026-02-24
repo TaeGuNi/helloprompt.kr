@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion 가계부 템플릿: 돈이 모이는 자동화 시스템"
+title: " \"Notion 가계부 템플릿: 돈이 모이는 자동화 시스템\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "재테크/투자"
-description: "엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계형 데이터베이스를 활용해 내 자산 흐름을 한눈에 보는 법."
+description: " \"엑셀 가계부는 이제 그만. 노션(Notion) 수식과 관계형 데이터베이스를 활용해 내 자산 흐름을 한눈에 보는 법.\""
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 

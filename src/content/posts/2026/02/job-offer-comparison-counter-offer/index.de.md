@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jobangebot-Vergleich & Gegenangebot-Strategie Prompt"
+title: " \"Jobangebot-Vergleich & Gegenangebot-Strategie Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Vergleichen Sie verschiedene Jobangebote und entwickeln Sie eine kluge Gegenangebots-Strategie (Counter-Offer), um das bestmögliche Gehalt für sich herauszuholen."
+description: " \"Vergleichen Sie verschiedene Jobangebote und entwickeln Sie eine kluge Gegenangebots-Strategie (Counter-Offer), um das bestmögliche Gehalt für sich herauszuholen.\""
 tags:
   [
     "Angebotsverhandlung",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Teaching Sharing and Caring: A Moral Story for Kids"
+title: " \"Teaching Sharing and Caring: A Moral Story for Kids\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A heartwarming story prompt about 'Magic Candy' that helps a greedy child understand the joy of sharing."
+description: " \"A heartwarming story prompt about 'Magic Candy' that helps a greedy child understand the joy of sharing.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

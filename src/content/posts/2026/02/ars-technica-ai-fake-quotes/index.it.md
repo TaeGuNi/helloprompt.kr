@@ -1,5 +1,5 @@
 ---
-title: "Crisi del Giornalismo: Ars Technica ritira articolo per citazioni false"
+title: " \"Crisi del Giornalismo: Ars Technica ritira articolo per citazioni false\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "Allucinazione AI",
     "Matplotlib",
   ]
-description: "Ars Technica ha ritirato un articolo dopo aver scoperto citazioni false generate dall'IA. Scopri come evitare le allucinazioni dell'IA nel giornalismo con il nostro prompt di fact-checking."
+description: " \"Ars Technica ha ritirato un articolo dopo aver scoperto citazioni false generate dall'IA. Scopri come evitare le allucinazioni dell'IA nel giornalismo con il nostro prompt di fact-checking.\""
 lang: "it"
 ---
 

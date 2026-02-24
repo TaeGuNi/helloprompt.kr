@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prévenir l'Échec ATS (Solution de Recrutement) ! Prompt d'Optimisation de Mots-clés de CV"
+title: " \"Prévenir l'Échec ATS (Solution de Recrutement) ! Prompt d'Optimisation de Mots-clés de CV\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Intégrez naturellement les mots-clés recherchés par les systèmes de suivi des candidatures (ATS) dans votre CV pour éviter le rejet automatique."
+description: " \"Intégrez naturellement les mots-clés recherchés par les systèmes de suivi des candidatures (ATS) dans votre CV pour éviter le rejet automatique.\""
 tags: ["ATS", "OptimisationCV", "MotClé", "SystèmeRecrutement"]
 ---
 

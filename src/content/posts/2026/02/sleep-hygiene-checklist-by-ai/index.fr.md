@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Liste de Contrôle d'Hygiène du Sommeil par l'IA : Arrêtez les Nuits Blanches"
+title: " \"Liste de Contrôle d'Hygiène du Sommeil par l'IA : Arrêtez les Nuits Blanches\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Votre chambre est-elle vraiment propice au sommeil ? L'IA analyse votre environnement et vos habitudes pour vous proposer des solutions sur mesure afin de retrouver des nuits paisibles."
+description: " \"Votre chambre est-elle vraiment propice au sommeil ? L'IA analyse votre environnement et vos habitudes pour vous proposer des solutions sur mesure afin de retrouver des nuits paisibles.\""
 tags: ["Sommeil", "Insomnie", "Santé", "Hygiène du Sommeil", "ChatGPT"]
 ---
 

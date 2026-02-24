@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fixkosten-Diät: Ideen, um undichtes Geld zu stoppen"
+title: " \"Fixkosten-Diät: Ideen, um undichtes Geld zu stoppen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanztechnologie & Investition"
-description: "Glauben Sie, dass man die monatlichen Fixkosten nicht senken kann? Die KI findet versteckte Sparpotenziale."
+description: " \"Glauben Sie, dass man die monatlichen Fixkosten nicht senken kann? Die KI findet versteckte Sparpotenziale.\""
 tags: ["Sparen", "Fixkosten", "Lebenshaltungskosten", "Jjantech"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps"
-description: "Combining Petri Nets and LLMs to build robust and reliable distributed systems."
+title: " \"LLMs in Distributed Apps\""
+description: " \"Combining Petri Nets and LLMs to build robust and reliable distributed systems.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

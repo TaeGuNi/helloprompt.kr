@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: AI的飞速发展催生了全新的伦理困境。深入探讨2026年全球AI法规的最新现状，以及我们在日常工作与生活中必须坚守的“数字伦理”。
+description: "AI的飞速发展催生了全新的伦理困境。深入探讨2026年全球AI法规的最新现状，以及我们在日常工作与生活中必须坚守的“数字伦理”。"
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: AI伦理与法规2026：共存的规则
+title: "AI伦理与法规2026：共存的规则"
 ---
 
 # 📝 AI伦理与法规2026：共存的规则

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit)"
+title: " \"블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "Smart contract immutabili: il tuo codice è al sicuro? Una guida di prompt engineering per bloccare preventivamente vulnerabilità fatali tramite l'audit del codice AI."
+description: " \"Smart contract immutabili: il tuo codice è al sicuro? Una guida di prompt engineering per bloccare preventivamente vulnerabilità fatali tramite l'audit del codice AI.\""
 tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 ---
 

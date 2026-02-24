@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calcolatore di Budget di Viaggio con IA: Viaggio Conveniente"
+title: " \"Calcolatore di Budget di Viaggio con IA: Viaggio Conveniente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Quanto dovrei cambiare? L'IA calcola con precisione il budget di viaggio per evitare imprevisti o sprechi."
+description: " \"Quanto dovrei cambiare? L'IA calcola con precisione il budget di viaggio per evitare imprevisti o sprechi.\""
 tags: ["Spese di Viaggio", "Budget", "Cambio Valuta", "Preparazione Viaggio"]
 ---
 

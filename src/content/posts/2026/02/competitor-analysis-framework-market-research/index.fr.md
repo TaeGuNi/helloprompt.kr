@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dominer le Marché avec le Cadre d'Analyse des Concurrents"
+title: " \"Dominer le Marché avec le Cadre d'Analyse des Concurrents\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Découvrez les forces et les faiblesses de vos concurrents et identifiez des opportunités de différenciation."
+description: " \"Découvrez les forces et les faiblesses de vos concurrents et identifiez des opportunités de différenciation.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

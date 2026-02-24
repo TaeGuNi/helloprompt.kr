@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (Korean)"
-description: "레거시 코드의 늪에서 개발자를 구출하는 AI 프롬프트"
+title: " \"Modernizing Legacy Code (Korean)\""
+description: " \"레거시 코드의 늪에서 개발자를 구출하는 AI 프롬프트\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

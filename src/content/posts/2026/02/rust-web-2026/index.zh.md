@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Web 开发的 Rust：2026 年生态系统现状"
+title: " \"Web 开发的 Rust：2026 年生态系统现状\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "深入探讨 2026 年 Web 开发生态系统中 Rust 的地位、Axum 和 Leptos 等框架的成熟度，以及性能与开发体验（DX）之间的平衡。"
+description: " \"深入探讨 2026 年 Web 开发生态系统中 Rust 的地位、Axum 和 Leptos 等框架的成熟度，以及性能与开发体验（DX）之间的平衡。\""
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Local LLMs: Llama 4 on Mac"
+title: " \"Local LLMs: Llama 4 on Mac\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Local AI", "Llama 4", "Mac"]
-description: "A complete guide and prompt for running Llama 4 optimized for Apple Silicon M4 on Mac, enabling secure analysis of internal data in a 100% privacy-guaranteed environment."
+description: " \"A complete guide and prompt for running Llama 4 optimized for Apple Silicon M4 on Mac, enabling secure analysis of internal data in a 100% privacy-guaranteed environment.\""
 ---
 
 # 📝 Local LLMs: Llama 4 on Mac (M4 Optimization)

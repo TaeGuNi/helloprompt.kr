@@ -1,6 +1,6 @@
 ---
-title: "소셜 AI 위기: 파괴되는 인간 관계"
-description: "소셜 AI 위기에 대한 비판적 분석: AI 대체재가 실제 인간관계를 어떻게 파괴하고 있는지 진단하고 방어하는 실무 기획법."
+title: " \"소셜 AI 위기: 파괴되는 인간 관계\""
+description: " \"소셜 AI 위기에 대한 비판적 분석: AI 대체재가 실제 인간관계를 어떻게 파괴하고 있는지 진단하고 방어하는 실무 기획법.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard d'Analyse d'Entreprise : Analyseur SWOT IA"
+title: " \"Standard d'Analyse d'Entreprise : Analyseur SWOT IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Un prompt puissant pour identifier en un clin d'œil les forces, faiblesses, opportunités et menaces (SWOT) de toute entreprise avant d'y investir."
+description: " \"Un prompt puissant pour identifier en un clin d'œil les forces, faiblesses, opportunités et menaces (SWOT) de toute entreprise avant d'y investir.\""
 tags: ["Action", "AnalyseEntreprise", "SWOT", "Stratégie"]
 ---
 

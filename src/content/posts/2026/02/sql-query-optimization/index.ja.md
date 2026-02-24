@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SQLクエリ最適化、DBが悲鳴を上げる前に"
+title: " \"SQLクエリ最適化、DBが悲鳴を上げる前に\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "開発"
-description: "遅くて複雑なSQLクエリを分析してパフォーマンスを最適化し、最適なインデックスまで提案してくれるDBチューニング用プロンプトです。"
+description: " \"遅くて複雑なSQLクエリを分析してパフォーマンスを最適化し、最適なインデックスまで提案してくれるDBチューニング用プロンプトです。\""
 tags: ["SQL", "DBチューニング", "バックエンド"]
 ---
 

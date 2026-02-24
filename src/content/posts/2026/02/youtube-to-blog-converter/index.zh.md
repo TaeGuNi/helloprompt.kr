@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기"
+title: " \"유튜브 스크립트 -> 블로그 변환: 영상 하나로 글 10개 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 크리에이팅"
-description: "终极 OSMU (One Source Multi Use) 策略。构建自动化工作流，将单个 YouTube 视频脚本无限转化为博客、Instagram 和 Twitter 的优质内容。"
+description: " \"终极 OSMU (One Source Multi Use) 策略。构建自动化工作流，将单个 YouTube 视频脚本无限转化为博客、Instagram 和 Twitter 的优质内容。\""
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 

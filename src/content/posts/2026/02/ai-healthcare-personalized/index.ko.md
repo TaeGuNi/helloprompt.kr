@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: 획일화된 진료는 이제 옛말! AI를 활용해 내 증상과 웨어러블 데이터를 분석하고, 의사에게 질문할 '개인 맞춤형 진료 준비 리포트'를 만드는 프롬프트입니다.
+description: "획일화된 진료는 이제 옛말! AI를 활용해 내 증상과 웨어러블 데이터를 분석하고, 의사에게 질문할 '개인 맞춤형 진료 준비 리포트'를 만드는 프롬프트입니다."
 heroImage: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "AI와 개인 맞춤형 의료: 당신만을 위한 처방전"
+title: " \"AI와 개인 맞춤형 의료: 당신만을 위한 처방전\""
 ---
 
 # 📝 AI와 개인 맞춤형 의료: 똑똑한 진료 준비 프롬프트

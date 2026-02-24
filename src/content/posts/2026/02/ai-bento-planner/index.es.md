@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 점심 뭐 먹지? AI 도시락 플래너"
+title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강"
-description: "Recetas de almuerzo saludables y súper fáciles de hacer en 10 minutos con lo que tengas en la nevera usando IA."
+description: " \"Recetas de almuerzo saludables y súper fáciles de hacer en 10 minutos con lo que tengas en la nevera usando IA.\""
 tags: ["점심", "도시락", "요리", "건강식"]
 ---
 

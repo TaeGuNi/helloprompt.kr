@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Italian)"
-description: "Andare oltre il 'Vibe Coding' basato sull'IA verso pratiche di ingegneria del software rigorose è la tendenza del 2026."
+title: " \"Breaking the Spell of Vibe Coding (Italian)\""
+description: " \"Andare oltre il 'Vibe Coding' basato sull'IA verso pratiche di ingegneria del software rigorose è la tendenza del 2026.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

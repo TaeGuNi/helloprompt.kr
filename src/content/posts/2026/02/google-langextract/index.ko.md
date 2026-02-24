@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Google LangExtract로 구조화된 데이터 추출 마스터하기"
+title: " \"Google LangExtract로 구조화된 데이터 추출 마스터하기\""
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "LLM의 고질적인 JSON 파싱 에러를 원천 차단하는 Google LangExtract 라이브러리와 Pydantic을 활용한 완벽한 데이터 추출 프롬프트를 공개합니다."
+description: " \"LLM의 고질적인 JSON 파싱 에러를 원천 차단하는 Google LangExtract 라이브러리와 Pydantic을 활용한 완벽한 데이터 추출 프롬프트를 공개합니다.\""
 author: "Hello Prompt"
 image:
   url: "https://docs.astro.build/assets/full-logo-light.png"

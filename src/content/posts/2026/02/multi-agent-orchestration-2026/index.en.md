@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "초보자를 위한 AI 에이전트 오케스트레이션 입문 (Multi-Agent)"
+title: " \"초보자를 위한 AI 에이전트 오케스트레이션 입문 (Multi-Agent)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Is a single AI falling short? Discover the 'Multi-Agent' orchestration prompt that turns distinct AI personas into a collaborative powerhouse team."
+description: " \"Is a single AI falling short? Discover the 'Multi-Agent' orchestration prompt that turns distinct AI personas into a collaborative powerhouse team.\""
 tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"]
 ---
 

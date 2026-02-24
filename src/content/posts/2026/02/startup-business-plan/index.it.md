@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Scrivere un Business Plan: Strutturare l'Indice per Ottenere Finanziamenti Start-up"
+title: " \"Scrivere un Business Plan: Strutturare l'Indice per Ottenere Finanziamenti Start-up\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Startup/Pianificazione"
-description: "L'80% del successo per ottenere fondi governativi dipende dall'indice. Un prompt AI in cui basta riempire gli spazi vuoti seguendo la struttura PSST (Problema-Soluzione-Crescita-Team)."
+description: " \"L'80% del successo per ottenere fondi governativi dipende dall'indice. Un prompt AI in cui basta riempire gli spazi vuoti seguendo la struttura PSST (Problema-Soluzione-Crescita-Team).\""
 tags:
   [
     "Business Plan",

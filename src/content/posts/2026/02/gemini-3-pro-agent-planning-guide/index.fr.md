@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Pro : Concevoir l'Agent IA Parfait avec 'Deep Think' (Prompt Inclus)"
+title: " \"Gemini 3 Pro : Concevoir l'Agent IA Parfait avec 'Deep Think' (Prompt Inclus)\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "La planification précède le codage. Découvrez un prompt exploitant le mode Deep Think de Gemini 3 Pro pour transformer des idées floues en spécifications d'agent IA concrètes et prêtes à être développées."
+description: " \"La planification précède le codage. Découvrez un prompt exploitant le mode Deep Think de Gemini 3 Pro pour transformer des idées floues en spécifications d'agent IA concrètes et prêtes à être développées.\""
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Demasiado vago para escribir código de prueba? La IA lo hará por ti"
+title: " \"¿Demasiado vago para escribir código de prueba? La IA lo hará por ti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desarrollo"
-description: "Un prompt avanzado que genera automáticamente código de pruebas unitarias (Unit Tests), considerando incluso los casos extremos (Edge Cases) más complejos."
+description: " \"Un prompt avanzado que genera automáticamente código de pruebas unitarias (Unit Tests), considerando incluso los casos extremos (Edge Cases) más complejos.\""
 tags: ["Código de Prueba", "TDD", "Jest", "JUnit"]
 ---
 

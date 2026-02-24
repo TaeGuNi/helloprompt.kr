@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 화려한 애니메이션도 순식간에! CSS Keyframe 생성기 (CSS Animation Gen)
+title: "화려한 애니메이션도 순식간에! CSS Keyframe 생성기 (CSS Animation Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Design
-description: 複雑なベジェ曲線やキーフレームの計算はAIに任せて早く退勤しましょう。自然なモーション感覚をAIで実装する方法をご紹介します。
+description: "複雑なベジェ曲線やキーフレームの計算はAIに任せて早く退勤しましょう。自然なモーション感覚をAIで実装する方法をご紹介します。"
 tags: [AI, CSS, Design, Frontend]
 ---
 

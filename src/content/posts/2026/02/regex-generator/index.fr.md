@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cauchemar Regex, maintenant confiez-le à l'IA"
+title: " \"Cauchemar Regex, maintenant confiez-le à l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Développement"
-description: "Ne vous épuisez plus à écrire des expressions régulières cryptiques. Voici un prompt qui génère le code parfait simplement en décrivant le motif souhaité."
+description: " \"Ne vous épuisez plus à écrire des expressions régulières cryptiques. Voici un prompt qui génère le code parfait simplement en décrivant le motif souhaité.\""
 tags: ["Regex", "Expression Régulière", "Productivité Dév"]
 ---
 

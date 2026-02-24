@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "No Colleagues? It's Okay, AI Senior Developer's Harsh Code Review"
+title: " \"No Colleagues? It's Okay, AI Senior Developer's Harsh Code Review\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A highly effective prompt that acts as a virtual Senior Developer from FAANG, providing meticulous code reviews for solo developers."
+description: " \"A highly effective prompt that acts as a virtual Senior Developer from FAANG, providing meticulous code reviews for solo developers.\""
 tags: ["Code Review", "Mentoring", "Clean Code", "Self-Development"]
 ---
 

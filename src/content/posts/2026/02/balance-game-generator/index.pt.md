@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Jogo de Equilíbrio: 'Comer Apenas Ramen Para Sempre vs Parar Refrigerante Para Sempre'"
+title: " \"Gerador de Jogo de Equilíbrio: 'Comer Apenas Ramen Para Sempre vs Parar Refrigerante Para Sempre'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "O campeão dos quebra-gelos! Gere perguntas infinitas e bizarras de 'O que você prefere?' para animar qualquer reunião."
+description: " \"O campeão dos quebra-gelos! Gere perguntas infinitas e bizarras de 'O que você prefere?' para animar qualquer reunião.\""
 tags: ["Jogo", "JogoEquilíbrio", "QuebraGelo", "Humor", "Festa"]
 ---
 

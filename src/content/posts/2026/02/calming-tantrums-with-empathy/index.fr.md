@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Scénario de 'Conversation Empathique' pour Calmer un Enfant en Colère"
+title: " \"Scénario de 'Conversation Empathique' pour Calmer un Enfant en Colère\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Les mots magiques des parents pour apaiser le cerveau émotionnel de l'enfant."
+description: " \"Les mots magiques des parents pour apaiser le cerveau émotionnel de l'enfant.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

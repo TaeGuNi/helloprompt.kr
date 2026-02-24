@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "고객 문의 자동 분류 및 우선순위 지정 (CS Automation)"
+title: " \"고객 문의 자동 분류 및 우선순위 지정 (CS Automation)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "고객의 감정을 분석하여 우선적으로 대응해야 할 '화난 고객'을 찾아내는 CS 분류 프롬프트입니다."
+description: " \"고객의 감정을 분석하여 우선적으로 대응해야 할 '화난 고객'을 찾아내는 CS 분류 프롬프트입니다.\""
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 

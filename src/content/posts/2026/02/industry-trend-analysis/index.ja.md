@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "産業トレンド分析：浮上する市場探し"
+title: " \"産業トレンド分析：浮上する市場探し\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "財テク & 投資"
-description: "AIを活用して急成長中の産業トレンドを俯瞰し、関連する恩恵銘柄を発掘する分析プロンプトです。"
+description: " \"AIを活用して急成長中の産業トレンドを俯瞰し、関連する恩恵銘柄を発掘する分析プロンプトです。\""
 tags: ["株式", "産業分析", "トレンド", "市場調査"]
 ---
 

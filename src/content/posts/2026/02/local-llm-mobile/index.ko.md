@@ -1,6 +1,6 @@
 ---
-title: "손안의 슈퍼컴퓨터: 온디바이스 AI 혁명"
-description: "클라우드 없이 완벽하게 작동하는 초경량 로컬 LLM 전용 프롬프트 설계 가이드."
+title: " \"손안의 슈퍼컴퓨터: 온디바이스 AI 혁명\""
+description: " \"클라우드 없이 완벽하게 작동하는 초경량 로컬 LLM 전용 프롬프트 설계 가이드.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

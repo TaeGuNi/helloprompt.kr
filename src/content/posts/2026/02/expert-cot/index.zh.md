@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "当 AI 回答很愚蠢时：使用“思维链 (CoT)”"
+title: " \"当 AI 回答很愚蠢时：使用“思维链 (CoT)”\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "提示工程"
-description: "AI 能很好地回答简单问题，但遇到复杂逻辑时却开始胡言乱语？来学习前 1% 提示词工程师都在使用的“思维链 (CoT)”高级技巧。"
+description: " \"AI 能很好地回答简单问题，但遇到复杂逻辑时却开始胡言乱语？来学习前 1% 提示词工程师都在使用的“思维链 (CoT)”高级技巧。\""
 tags: ["CoT", "逻辑思维", "问题解决"]
 ---
 

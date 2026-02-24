@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Magia Trasformare Diario in Saggio: Dare Significato alla Vita Quotidiana Ordinaria"
+title: " \"Magia Trasformare Diario in Saggio: Dare Significato alla Vita Quotidiana Ordinaria\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Da un diario personale a un saggio capace di emozionare i lettori. Scopri come l'IA può trasformare la tua quotidianità in letteratura."
+description: " \"Da un diario personale a un saggio capace di emozionare i lettori. Scopri come l'IA può trasformare la tua quotidianità in letteratura.\""
 tags: ["Scrittura", "Saggio", "Diario", "Brunch", "Revisione"]
 ---
 

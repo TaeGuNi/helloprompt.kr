@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Primeiro Botão de Entrevista, Prompt de Escrita de 'Autoapresentação de 1 Minuto' Atraente"
+title: " \"Primeiro Botão de Entrevista, Prompt de Escrita de 'Autoapresentação de 1 Minuto' Atraente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Crie um roteiro de autoapresentação de 1 minuto focado em suas competências centrais, evitando metáforas clichês e garantindo uma primeira impressão marcante."
+description: " \"Crie um roteiro de autoapresentação de 1 minuto focado em suas competências centrais, evitando metáforas clichês e garantindo uma primeira impressão marcante.\""
 tags: ["AutoIntro1Min", "PrepEntrevista", "ElevatorPitch", "Autoapresentação"]
 ---
 

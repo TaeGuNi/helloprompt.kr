@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Zukunftsstadt-Nacht 'Cyberpunk Neon' Beleuchtungsregie"
+title: " \"Zukunftsstadt-Nacht 'Cyberpunk Neon' Beleuchtungsregie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt für Cyberpunk-Neonbeleuchtung mit intensivem Kontrast aus Pink und Blau."
+description: " \"Ein Prompt für Cyberpunk-Neonbeleuchtung mit intensivem Kontrast aus Pink und Blau.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Farbe"]
 ---
 

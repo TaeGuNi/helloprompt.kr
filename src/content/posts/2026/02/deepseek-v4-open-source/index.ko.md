@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4: 새로운 오픈소스의 제왕인가?"
-description: "DeepSeek-V4의 기술적 특징, 압도적인 벤치마크 성능, 그리고 이를 실무에서 200% 활용하기 위한 전용 프롬프트 가이드입니다."
+title: " \"DeepSeek-V4: 새로운 오픈소스의 제왕인가?\""
+description: " \"DeepSeek-V4의 기술적 특징, 압도적인 벤치마크 성능, 그리고 이를 실무에서 200% 활용하기 위한 전용 프롬프트 가이드입니다.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

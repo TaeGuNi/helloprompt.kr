@@ -1,6 +1,6 @@
 ---
-title: "AI疲れの時代：デジタル汚染"
-description: "AI疲労の批判的分析：ユーザーは頼んでもいないAI機能にうんざりしています。"
+title: " \"AI疲れの時代：デジタル汚染\""
+description: " \"AI疲労の批判的分析：ユーザーは頼んでもいないAI機能にうんざりしています。\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

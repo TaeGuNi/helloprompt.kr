@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Inversa della Curva dell'Oblio: Generatore di Programma di Revisione"
+title: " \"Guida Inversa della Curva dell'Oblio: Generatore di Programma di Revisione\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MetodoStudio/Auto-Sviluppo"
-description: "Un prompt per calcolare il momento ottimale di revisione e non dimenticare mai ciò che hai studiato, basato sulla curva dell'oblio di Ebbinghaus."
+description: " \"Un prompt per calcolare il momento ottimale di revisione e non dimenticare mai ciò che hai studiato, basato sulla curva dell'oblio di Ebbinghaus.\""
 tags: ["PianoStudio", "CurvaDellOblio", "Revisione", "Pianificazione"]
 ---
 

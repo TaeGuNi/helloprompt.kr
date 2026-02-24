@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼"
+title: " \"CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "感情労働はもう終わり。返金拒否、配送遅延、悪質なレビューに対処するAI回答テンプレート。"
+description: " \"感情労働はもう終わり。返金拒否、配送遅延、悪質なレビューに対処するAI回答テンプレート。\""
 tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 ---
 

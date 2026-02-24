@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: PR 리뷰가 쉬워진다! AI Pull Request 요약기 (AI PR Summarizer)
+title: "PR 리뷰가 쉬워진다! AI Pull Request 요약기 (AI PR Summarizer)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: Une Pull Request massive avec des dizaines de fichiers modifiés. Vous ne savez pas par où commencer ? Découvrez comment utiliser l'IA pour résumer les changements et identifier les points clés de la revue de code.
+description: "Une Pull Request massive avec des dizaines de fichiers modifiés. Vous ne savez pas par où commencer ? Découvrez comment utiliser l'IA pour résumer les changements et identifier les points clés de la revue de code."
 tags: [Git, Github, Collaboration, Productivity, AI]
 ---
 

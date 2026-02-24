@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Google Sheets 함수 마법사: 엑셀보다 강력한 클라우드 시트 활용법"
+title: " \"Google Sheets 함수 마법사: 엑셀보다 강력한 클라우드 시트 활용법\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "От функции QUERY до автоматизации в AppScript. Секреты использования Google Таблиц как базы данных."
+description: " \"От функции QUERY до автоматизации в AppScript. Секреты использования Google Таблиц как базы данных.\""
 tags: ["GoogleSheets", "구글시트", "엑셀", "함수", "자동화"]
 ---
 

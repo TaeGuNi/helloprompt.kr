@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevenção de Logout de Salário: Planejador de Contas Domésticas IA"
+title: " \"Prevenção de Logout de Salário: Planejador de Contas Domésticas IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Um prompt inteligente que gera um planejamento orçamentário mensal sob medida, considerando seu salário e despesas fixas para maximizar suas economias."
+description: " \"Um prompt inteligente que gera um planejamento orçamentário mensal sob medida, considerando seu salário e despesas fixas para maximizar suas economias.\""
 tags: ["ContaDoméstica", "Orçamento", "Economia", "Finanças"]
 ---
 

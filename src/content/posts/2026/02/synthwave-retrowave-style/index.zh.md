@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "80 年代复古感性 'Synthwave' 风格"
+title: " \"80 年代复古感性 'Synthwave' 风格\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "以 80 年代霓虹色乡愁、椰树剪影与发光网格地板为核心元素的合成波 (Synthwave) 风格 AI 绘画提示词指南。"
+description: " \"以 80 年代霓虹色乡愁、椰树剪影与发光网格地板为核心元素的合成波 (Synthwave) 风格 AI 绘画提示词指南。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

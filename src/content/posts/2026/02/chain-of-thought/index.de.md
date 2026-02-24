@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) Prompting: Maximierung der KI-Reasoning-Fähigkeiten"
+title: " \"Chain-of-Thought (CoT) Prompting: Maximierung der KI-Reasoning-Fähigkeiten\""
 date: "2026-02-15"
-description: "Erfahren Sie, wie Chain-of-Thought Prompting großen Sprachmodellen hilft, komplexe Probleme Schritt für Schritt zu lösen, und lernen Sie, wie Sie die KI-Reasoning-Fähigkeiten verbessern können."
+description: " \"Erfahren Sie, wie Chain-of-Thought Prompting großen Sprachmodellen hilft, komplexe Probleme Schritt für Schritt zu lösen, und lernen Sie, wie Sie die KI-Reasoning-Fähigkeiten verbessern können.\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

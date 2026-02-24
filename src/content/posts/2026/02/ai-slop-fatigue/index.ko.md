@@ -1,6 +1,6 @@
 ---
-title: "AI 'Slop' 피로감: 왜 'No AI'가 새로운 프리미엄이 되는가"
-description: "질 낮은 AI 생성 콘텐츠(Slop)가 웹을 뒤덮으며 피로감이 극에 달했습니다. 'No AI' 트렌드 분석과 진짜 정보만 걸러내는 프롬프트를 공개합니다."
+title: " \"AI 'Slop' 피로감: 왜 'No AI'가 새로운 프리미엄이 되는가\""
+description: " \"질 낮은 AI 생성 콘텐츠(Slop)가 웹을 뒤덮으며 피로감이 극에 달했습니다. 'No AI' 트렌드 분석과 진짜 정보만 걸러내는 프롬프트를 공개합니다.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

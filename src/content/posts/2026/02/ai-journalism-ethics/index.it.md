@@ -3,14 +3,14 @@ categories:
   - AI News
   - Technology
 date: "2026-02-13"
-description: "Gli articoli scritti da agenti IA stanno causando controversie. Esaminiamo l'etica del giornalismo e le linee guida necessarie nell'era della generazione automatizzata di notizie."
+description: " \"Gli articoli scritti da agenti IA stanno causando controversie. Esaminiamo l'etica del giornalismo e le linee guida necessarie nell'era della generazione automatizzata di notizie.\""
 image: /images/blog/2026-02-13-ai-journalism-ethics.jpg
 pubDate: "2026-02-13"
 tags:
   - AI Ethics
   - Journalism
   - AI Agents
-title: "Agenti IA ed etica del giornalismo: un nuovo dibattito"
+title: " \"Agenti IA ed etica del giornalismo: un nuovo dibattito\""
 ---
 
 # 📝 Agenti IA ed etica del giornalismo: un nuovo dibattito

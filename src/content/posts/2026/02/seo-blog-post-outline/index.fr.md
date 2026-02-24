@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plan de Blog SEO pour un Classement de Recherche Optimal"
+title: " \"Plan de Blog SEO pour un Classement de Recherche Optimal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Écriture"
-description: "Un prompt de génération de plan optimisé pour le SEO qui structure votre article de blog de la manière que Google préfère."
+description: " \"Un prompt de génération de plan optimisé pour le SEO qui structure votre article de blog de la manière que Google préfère.\""
 tags: ["Blog", "SEO", "Exposition Google"]
 ---
 

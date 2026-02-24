@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기"
+title: " \"AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Obtén un resumen de noticias matutino personalizado en solo 1 minuto de camino al trabajo con este prompt para IA."
+description: " \"Obtén un resumen de noticias matutino personalizado en solo 1 minuto de camino al trabajo con este prompt para IA.\""
 tags: ["뉴스", "요약", "ChatGPT", "시간절약"]
 ---
 

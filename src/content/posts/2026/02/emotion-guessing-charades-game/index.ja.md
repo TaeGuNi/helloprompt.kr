@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "感情当て「表情演技」ゲーム：感情知能を育てる"
+title: " \"感情当て「表情演技」ゲーム：感情知能を育てる\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "子供の共感能力と感情表現力を育てるAIロールプレイの提案"
+description: " \"子供の共感能力と感情表現力を育てるAIロールプレイの提案\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

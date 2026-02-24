@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Service de Nègre pour Lettres : De la Confession de Béguin au Refus Poli"
+title: " \"Service de Nègre pour Lettres : De la Confession de Béguin au Refus Poli\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Exprimez par écrit les sentiments difficiles à formuler à l'oral. L'IA rédige pour vous la lettre idéale, parfaitement adaptée à la situation et à votre destinataire."
+description: " \"Exprimez par écrit les sentiments difficiles à formuler à l'oral. L'IA rédige pour vous la lettre idéale, parfaitement adaptée à la situation et à votre destinataire.\""
 tags: ["Écriture", "Lettre", "Amour", "Excuse", "Refus"]
 ---
 

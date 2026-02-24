@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "City Architecture Tour Guide: Reading the Skyline"
+title: " \"City Architecture Tour Guide: Reading the Skyline\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Explore the city through an architect's eyes. Uncover the stories told by buildings, from historic monuments to modern skyscrapers."
+description: " \"Explore the city through an architect's eyes. Uncover the stories told by buildings, from historic monuments to modern skyscrapers.\""
 tags:
   [
     "Architecture Travel",

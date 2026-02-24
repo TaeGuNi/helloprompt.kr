@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI解梦心理学：昨晚的梦是什么？"
+title: " \"AI解梦心理学：昨晚的梦是什么？\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "这究竟是毫无意义的乱梦，还是潜意识发出的求救信号？通过AI进行深度心理象征分析，揭开梦境背后隐藏的真实心理状态。"
+description: " \"这究竟是毫无意义的乱梦，还是潜意识发出的求救信号？通过AI进行深度心理象征分析，揭开梦境背后隐藏的真实心理状态。\""
 tags: ["解梦", "心理学", "潜意识", "弗洛伊德", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "디자인 시스템 구축: 디자이너와 개발자가 안 싸우는 법"
+title: " \"디자인 시스템 구축: 디자이너와 개발자가 안 싸우는 법\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/UX"
-description: "Come sincronizzare le variabili Figma con quelle CSS. Guida alla creazione di un design system basato su token."
+description: " \"Come sincronizzare le variabili Figma con quelle CSS. Guida alla creazione di un design system basato su token.\""
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 ---
 

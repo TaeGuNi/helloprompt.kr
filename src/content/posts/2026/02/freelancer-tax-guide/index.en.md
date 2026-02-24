@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Freelancer Tax Saving Guide: Doubling Tax Refund"
+title: " \"Freelancer Tax Saving Guide: Doubling Tax Refund\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A comprehensive guide to expense processing and deduction strategies for freelancers and side-hustlers dreading the May comprehensive income tax return."
+description: " \"A comprehensive guide to expense processing and deduction strategies for freelancers and side-hustlers dreading the May comprehensive income tax return.\""
 tags: ["Tax", "TaxSaving", "Freelancer", "ComprehensiveIncomeTax"]
 ---
 

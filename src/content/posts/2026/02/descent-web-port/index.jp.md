@@ -1,5 +1,5 @@
 ---
-title: "Descent、ウェブに移植される"
+title: " \"Descent、ウェブに移植される\""
 date: 2026-02-15
 categories: ["Web", "GameDev", "WASM"]
 tags: ["Three.js", "WebGL", "Descent", "Retro"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)"
+title: " \"Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"
-description: "只需描述 flex、grid、center 等 CSS 属性，AI 即可将其转化为 Tailwind 类名。告别死记硬背！"
+description: " \"只需描述 flex、grid、center 等 CSS 属性，AI 即可将其转化为 Tailwind 类名。告别死记硬背！\""
 tags: ["Tailwind", "CSS", "프론트엔드", "웹디자인", "코딩"]
 ---
 

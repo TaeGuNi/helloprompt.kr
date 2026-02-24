@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "습관 쌓기 설계자 (Habit Stacking)"
+title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "三日坊主を終わらせる科学的な習慣形成戦略「ハビット・スタッキング（習慣の積み上げ）」ガイド。"
+description: " \"三日坊主を終わらせる科学的な習慣形成戦略「ハビット・スタッキング（習慣の積み上げ）」ガイド。\""
 tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
 ---
 

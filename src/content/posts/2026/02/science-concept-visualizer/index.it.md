@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rendere Visibili i Concetti Invisibili: Aiutante di Visualizzazione Concettuale"
+title: " \"Rendere Visibili i Concetti Invisibili: Aiutante di Visualizzazione Concettuale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matematica/Scienza"
-description: "Prompt che trasforma principi scientifici astratti o concetti matematici in diagrammi di testo (ASCII Art) e analogie intuitive."
+description: " \"Prompt che trasforma principi scientifici astratti o concetti matematici in diagrammi di testo (ASCII Art) e analogie intuitive.\""
 tags: ["StudioScienza", "Visualizzazione", "Comprensione", "ASCIIArt"]
 ---
 

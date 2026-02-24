@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "GraphQL 스키마 설계: REST API에서 넘어오기"
+title: " \"GraphQL 스키마 설계: REST API에서 넘어오기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "Clean API without over-fetching. GraphQL schema design patterns that make frontend developers happy."
+description: " \"Clean API without over-fetching. GraphQL schema design patterns that make frontend developers happy.\""
 tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
 ---
 

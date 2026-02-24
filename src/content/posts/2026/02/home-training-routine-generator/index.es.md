@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Rutinas de Entrenamiento en Casa con IA para Ponerse en Forma Sin Ir al Gimnasio"
+title: " \"Generador de Rutinas de Entrenamiento en Casa con IA para Ponerse en Forma Sin Ir al Gimnasio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Diseña la rutina de entrenamiento en casa óptima adaptada a tu capacidad física y disponibilidad de equipo, sin necesidad de ir al gimnasio."
+description: " \"Diseña la rutina de entrenamiento en casa óptima adaptada a tu capacidad física y disponibilidad de equipo, sin necesidad de ir al gimnasio.\""
 tags: ["Entrenamiento en Casa", "Ejercicio", "Fitness", "Rutina"]
 ---
 

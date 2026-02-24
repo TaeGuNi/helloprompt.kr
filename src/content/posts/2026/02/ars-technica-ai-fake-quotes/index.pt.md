@@ -1,5 +1,5 @@
 ---
-title: "저널리즘의 위기: Ars Technica, 가짜 인용구로 기사 철회"
+title: " \"저널리즘의 위기: Ars Technica, 가짜 인용구로 기사 철회\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "AI Hallucination",
     "Matplotlib",
   ]
-description: "A Ars Technica retratou um artigo que continha citações falsas do mantenedor do Matplotlib. Este incidente ilustra claramente os perigos do uso da IA no jornalismo."
+description: " \"A Ars Technica retratou um artigo que continha citações falsas do mantenedor do Matplotlib. Este incidente ilustra claramente os perigos do uso da IA no jornalismo.\""
 lang: "ko"
 ---
 

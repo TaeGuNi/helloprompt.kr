@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Weekend Cancellato! Guida Raccomandazione Personalizzata Contenuti OTT IA"
+title: " \"Weekend Cancellato! Guida Raccomandazione Personalizzata Contenuti OTT IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Fissi la schermata di Netflix per ore? Analizziamo i tuoi gusti e troviamo il capolavoro perfetto per te, senza fallire."
+description: " \"Fissi la schermata di Netflix per ore? Analizziamo i tuoi gusti e troviamo il capolavoro perfetto per te, senza fallire.\""
 tags: ["Netflix", "Raccomandazione Film", "OTT", "Dramma"]
 ---
 

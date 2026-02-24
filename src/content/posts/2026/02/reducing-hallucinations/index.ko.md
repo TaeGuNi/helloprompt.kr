@@ -1,6 +1,6 @@
 ---
-title: "환각(Hallucination) 줄이기: 신뢰할 수 있는 AI를 향해"
-description: "AI가 거짓말을 하지 않게 만드는 2026년의 최신 기법들. Grounding부터 CoVe(Chain of Verification)까지."
+title: " \"환각(Hallucination) 줄이기: 신뢰할 수 있는 AI를 향해\""
+description: " \"AI가 거짓말을 하지 않게 만드는 2026년의 최신 기법들. Grounding부터 CoVe(Chain of Verification)까지.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

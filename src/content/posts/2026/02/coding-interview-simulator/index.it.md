@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pass Gratuito per Intervista Sviluppatore: Esame Simulato di Intervista Algoritmica"
+title: " \"Pass Gratuito per Intervista Sviluppatore: Esame Simulato di Intervista Algoritmica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "Prompt per esercitarsi in un vero colloquio con un intervistatore IA, ideale per prepararsi ai test di codifica e ai colloqui tecnici delle migliori aziende tecnologiche."
+description: " \"Prompt per esercitarsi in un vero colloquio con un intervistatore IA, ideale per prepararsi ai test di codifica e ai colloqui tecnici delle migliori aziende tecnologiche.\""
 tags: ["TestCodifica", "IntervistaTecnica", "Algoritmo", "PreparazioneLavoro"]
 ---
 

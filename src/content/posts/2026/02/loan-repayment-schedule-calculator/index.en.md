@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Loan Repayment Schedule: Equal Principal and Interest vs Equal Principal"
+title: " \"Loan Repayment Schedule: Equal Principal and Interest vs Equal Principal\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A comprehensive guide to building a custom loan interest calculator in Excel without relying on external banking sites."
+description: " \"A comprehensive guide to building a custom loan interest calculator in Excel without relying on external banking sites.\""
 tags: ["Excel", "LoanInterest", "FinancialFunction", "PMT"]
 ---
 

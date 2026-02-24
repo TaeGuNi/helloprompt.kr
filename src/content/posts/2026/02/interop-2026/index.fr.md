@@ -1,6 +1,6 @@
 ---
-title: "Interop 2026 : Un Nouveau Bond pour les Standards du Web"
-description: "Apple, Google, Microsoft et Mozilla ont officiellement lancé le projet Interop 2026. Découvrez les objectifs clés de cette année et l'avenir des standards du Web."
+title: " \"Interop 2026 : Un Nouveau Bond pour les Standards du Web\""
+description: " \"Apple, Google, Microsoft et Mozilla ont officiellement lancé le projet Interop 2026. Découvrez les objectifs clés de cette année et l'avenir des standards du Web.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

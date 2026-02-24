@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flou d'Arrière-plan Émotionnel 'Bokeh & Profondeur de Champ'"
+title: " \"Flou d'Arrière-plan Émotionnel 'Bokeh & Profondeur de Champ'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt qui fait ressortir le sujet en floutant l'arrière-plan et crée des orbes de lumière émotionnels (Bokeh)."
+description: " \"Prompt qui fait ressortir le sujet en floutant l'arrière-plan et crée des orbes de lumière émotionnels (Bokeh).\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photographie", "Effet"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Grounding Technique for Anxiety: 5-4-3-2-1 Method"
+title: " \"Grounding Technique for Anxiety: 5-4-3-2-1 Method\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "A step-by-step AI-guided 5-4-3-2-1 grounding technique to help you quickly regain control and return to reality during moments of sudden anxiety or panic."
+description: " \"A step-by-step AI-guided 5-4-3-2-1 grounding technique to help you quickly regain control and return to reality during moments of sudden anxiety or panic.\""
 tags:
   [
     "Anxiety",

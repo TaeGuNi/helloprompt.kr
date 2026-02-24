@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Liste de Collations Saines Sans Culpabilité : Prévenir la Boulimie"
+title: " \"Liste de Collations Saines Sans Culpabilité : Prévenir la Boulimie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "La fausse faim de 15h vous guette ? Générez une infinité d'idées de collations saines qui apaisent le stress sans vous faire grossir."
+description: " \"La fausse faim de 15h vous guette ? Générez une infinité d'idées de collations saines qui apaisent le stress sans vous faire grossir.\""
 tags: ["Collation Régime", "Santé", "Recette", "ChatGPT", "Collation"]
 ---
 

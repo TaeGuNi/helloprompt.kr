@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DeepSeek R1 ローカルインストール: PCに無料のコーディング奴隷を飼う方法"
+title: " \"DeepSeek R1 ローカルインストール: PCに無料のコーディング奴隷を飼う方法\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "開発・コーディング"
-description: "Ollamaを使ってDeepSeek R1をローカル環境に構築し、データ漏洩の心配なく無制限に使える無料のコーディングアシスタントを活用する方法を解説します。"
+description: " \"Ollamaを使ってDeepSeek R1をローカル環境に構築し、データ漏洩の心配なく無制限に使える無料のコーディングアシスタントを活用する方法を解説します。\""
 tags: ["DeepSeek", "Ollama", "Local LLM", "コーディング", "生産性"]
 ---
 

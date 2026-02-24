@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "30-Day Home Workout Challenge with AI: Escaping the 3-Day Quit"
+title: " \"30-Day Home Workout Challenge with AI: Escaping the 3-Day Quit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "A bodyweight-only miracle at home with no special equipment. Let AI design a customized 30-day workout routine that evolves daily."
+description: " \"A bodyweight-only miracle at home with no special equipment. Let AI design a customized 30-day workout routine that evolves daily.\""
 tags:
   [
     "Home Workout",

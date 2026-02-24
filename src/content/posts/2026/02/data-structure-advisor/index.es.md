@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿List? ¿Map? ¿Set? Prescripción de Estructura de Datos para la Decisión"
+title: " \"¿List? ¿Map? ¿Set? Prescripción de Estructura de Datos para la Decisión\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "¿Dudas sobre qué estructura de datos utilizar? Te recomendamos la estructura de datos óptima y perfectamente adecuada para cada situación."
+description: " \"¿Dudas sobre qué estructura de datos utilizar? Te recomendamos la estructura de datos óptima y perfectamente adecuada para cada situación.\""
 tags:
   [
     "Estructura de Datos",

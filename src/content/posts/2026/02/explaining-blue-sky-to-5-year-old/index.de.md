@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erklären des blauen Himmels für 5-Jährige: Erziehungswissenschaft"
+title: " \"Erklären des blauen Himmels für 5-Jährige: Erziehungswissenschaft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein Prompt, der komplexe wissenschaftliche Phänomene in kindgerechte Metaphern übersetzt."
+description: " \"Ein Prompt, der komplexe wissenschaftliche Phänomene in kindgerechte Metaphern übersetzt.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

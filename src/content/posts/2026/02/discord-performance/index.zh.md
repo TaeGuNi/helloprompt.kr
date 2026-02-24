@@ -1,6 +1,6 @@
 ---
-title: "Discord: 성능 최적화 사례 연구"
-description: "深入探讨 Discord 为处理万亿条消息并支持数百万并发用户所进行的工程优化之旅。"
+title: " \"Discord: 성능 최적화 사례 연구\""
+description: " \"深入探讨 Discord 为处理万亿条消息并支持数百万并发用户所进行的工程优化之旅。\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

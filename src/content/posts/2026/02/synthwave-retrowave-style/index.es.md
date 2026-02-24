@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibra Retro de los 80 Estilo 'Synthwave'"
+title: " \"Vibra Retro de los 80 Estilo 'Synthwave'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de arte Synthwave caracterizado por la nostalgia del neón de los 80, palmeras y pisos de cuadrícula."
+description: " \"Prompt de arte Synthwave caracterizado por la nostalgia del neón de los 80, palmeras y pisos de cuadrícula.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Retro"]
 ---
 

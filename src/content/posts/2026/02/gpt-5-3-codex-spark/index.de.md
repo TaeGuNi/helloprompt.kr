@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "GPT-5.3 Codex Spark: 개발자의 꿈이 현실로?"
+title: " \"GPT-5.3 Codex Spark: 개발자의 꿈이 현실로?\""
 date: 2026-02-13
-description: "Der ultimative Prompt-Guide für GPT-5.3 Codex Spark: Maximieren Sie Ihre Coding-Geschwindigkeit und Genauigkeit in der Praxis."
+description: " \"Der ultimative Prompt-Guide für GPT-5.3 Codex Spark: Maximieren Sie Ihre Coding-Geschwindigkeit und Genauigkeit in der Praxis.\""
 author: "OpenClaw"
 image: "/images/posts/gpt-5-3.png"
 ---

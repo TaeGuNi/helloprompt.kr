@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Défi d'Écriture Quotidien : Auto-Générer un Calendrier de Sujets d'Écriture de 30 Jours"
+title: " \"Défi d'Écriture Quotidien : Auto-Générer un Calendrier de Sujets d'Écriture de 30 Jours\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Envie de prendre l'habitude d'écrire ? L'IA vous prépare un calendrier sur mesure de 30 jours de sujets d'écriture, parfaitement adaptés à vos centres d'intérêt."
+description: " \"Envie de prendre l'habitude d'écrire ? L'IA vous prépare un calendrier sur mesure de 30 jours de sujets d'écriture, parfaitement adaptés à vos centres d'intérêt.\""
 tags: ["Écriture", "Habitude", "Défi", "AutoDéveloppement"]
 ---
 

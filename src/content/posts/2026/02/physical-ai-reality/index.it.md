@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "I media parlano dei robot di LG e Samsung come se stessero per cambiare il mondo da un momento all'altro, ma la realtà ingegneristica sta ancora lottando contro le leggi della fisica."
+description: " \"I media parlano dei robot di LG e Samsung come se stessero per cambiare il mondo da un momento all'altro, ma la realtà ingegneristica sta ancora lottando contro le leggi della fisica.\""
 heroImage: ./cover.jpg
 layout: ../../layouts/BlogPost.astro
 pubDate: "2026-02-14"
@@ -9,7 +9,7 @@ tags:
   - AI
   - Engineering
   - Hype
-title: "피지컬 AI: 과장된 기대와 차가운 현실"
+title: " \"피지컬 AI: 과장된 기대와 차가운 현실\""
 ---
 
 # 📝 AI Fisica: Aspettative Esagerate e Fredda Realtà

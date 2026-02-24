@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pré-processando Dados Bagunçados do Excel de Forma Organizada"
+title: " \"Pré-processando Dados Bagunçados do Excel de Forma Organizada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda métodos eficazes de limpeza de dados, como separar endereços e unificar formatos de data."
+description: " \"Aprenda métodos eficazes de limpeza de dados, como separar endereços e unificar formatos de data.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

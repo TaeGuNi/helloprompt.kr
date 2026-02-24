@@ -1,9 +1,9 @@
 ---
-title: "Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란"
+title: " \"Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란\""
 date: 2026-02-15
 tags: ["IoT", "Privacy", "Security", "Wearables"]
 cover: ./cover.png
-description: "深入分析人气智能睡眠眼罩 Somnium X 未经授权将用户睡眠对话上传至云端的安全事故，并制定应对策略的提示词。"
+description: " \"深入分析人气智能睡眠眼罩 Somnium X 未经授权将用户睡眠对话上传至云端的安全事故，并制定应对策略的提示词。\""
 ---
 
 # 📝 Somnium X 智能睡眠眼罩，用户语音数据泄露争议

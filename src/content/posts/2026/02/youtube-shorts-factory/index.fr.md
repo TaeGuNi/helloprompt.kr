@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Usine à YouTube Shorts : Script + Visuels en 30 Secondes"
+title: " \"Usine à YouTube Shorts : Script + Visuels en 30 Secondes\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Création de Contenu"
-description: "Injectez la formule virale des formats courts (Hook-Body-CTA) dans l'IA pour produire des scripts en masse."
+description: " \"Injectez la formule virale des formats courts (Hook-Body-CTA) dans l'IA pour produire des scripts en masse.\""
 tags: ["YouTube", "Shorts", "ÉcritureScript", "Créateur", "TikTok"]
 ---
 

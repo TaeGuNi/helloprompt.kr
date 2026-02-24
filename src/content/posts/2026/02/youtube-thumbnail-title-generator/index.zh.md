@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "拯救你的僵尸频道：百万播放公式"
+title: " \"拯救你的僵尸频道：百万播放公式\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "创作者经济"
-description: "让 AI 为你生成“必点”的高点击率标题与封面创意，轻松拯救僵尸频道，见证播放量飙升。"
+description: " \"让 AI 为你生成“必点”的高点击率标题与封面创意，轻松拯救僵尸频道，见证播放量飙升。\""
 tags: ["YouTube", "封面", "标题生成器", "标题党", "播放量"]
 ---
 

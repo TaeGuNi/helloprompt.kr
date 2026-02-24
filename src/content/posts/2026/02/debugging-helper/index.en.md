@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bug Hunter: Debugging Prompt to Catch Errors in 1 Minute"
+title: " \"Bug Hunter: Debugging Prompt to Catch Errors in 1 Minute\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "A powerful debugging prompt that instantly pinpoints bug locations and provides correct fixes when you input an unknown error message and code."
+description: " \"A powerful debugging prompt that instantly pinpoints bug locations and provides correct fixes when you input an unknown error message and code.\""
 tags: ["Debugging", "ErrorFixing", "Developer", "Productivity"]
 ---
 

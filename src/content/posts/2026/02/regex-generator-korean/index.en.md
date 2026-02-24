@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Alien-like Regex, Order in Natural Language"
+title: " \"Alien-like Regex, Order in Natural Language\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Stop struggling to decipher complex regular expressions. Simply describe the pattern you need in plain English, and let AI generate the perfect regex for you."
+description: " \"Stop struggling to decipher complex regular expressions. Simply describe the pattern you need in plain English, and let AI generate the perfect regex for you.\""
 tags: ["Regex", "Regular Expression", "String Processing", "Validation"]
 ---
 

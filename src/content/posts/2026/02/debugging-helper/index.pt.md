@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Caçador de Bugs: Prompt de Depuração para Pegar Erros em 1 Minuto"
+title: " \"Caçador de Bugs: Prompt de Depuração para Pegar Erros em 1 Minuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/TI"
-description: "Um prompt poderoso que encontra instantaneamente a causa raiz e a solução para mensagens de erro desconhecidas e códigos problemáticos."
+description: " \"Um prompt poderoso que encontra instantaneamente a causa raiz e a solução para mensagens de erro desconhecidas e códigos problemáticos.\""
 tags: ["Depuração", "CorreçãoErros", "Desenvolvedor", "Produtividade"]
 ---
 

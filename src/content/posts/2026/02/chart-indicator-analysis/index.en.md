@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Chart Auxiliary Indicator Interpreter: Catching Buy Timing"
+title: " \"Chart Auxiliary Indicator Interpreter: Catching Buy Timing\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Let AI effortlessly interpret complex chart indicators like RSI, MACD, and Bollinger Bands to optimize your trading strategy."
+description: " \"Let AI effortlessly interpret complex chart indicators like RSI, MACD, and Bollinger Bands to optimize your trading strategy.\""
 tags: ["Stock", "ChartAnalysis", "TechnicalAnalysis", "Trading"]
 ---
 

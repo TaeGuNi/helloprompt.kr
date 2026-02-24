@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "World of Super Close-up Shooting 'Macro Photography' Prompt"
+title: " \"World of Super Close-up Shooting 'Macro Photography' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A macro photography prompt designed to capture minute details that are invisible to the naked eye."
+description: " \"A macro photography prompt designed to capture minute details that are invisible to the naked eye.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 

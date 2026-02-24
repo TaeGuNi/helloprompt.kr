@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simon Says Spielvariante für Kinder: Training der auditiven Aufmerksamkeit"
+title: " \"Simon Says Spielvariante für Kinder: Training der auditiven Aufmerksamkeit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Steigern Sie die Konzentration und Körperbeherrschung Ihres Kindes spielerisch mit kreativen, KI-generierten Missionen für 'Simon sagt'."
+description: " \"Steigern Sie die Konzentration und Körperbeherrschung Ihres Kindes spielerisch mit kreativen, KI-generierten Missionen für 'Simon sagt'.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nutritionniste IA : Générateur de Plan de Repas Hebdomadaire Personnalisé"
+title: " \"Nutritionniste IA : Générateur de Plan de Repas Hebdomadaire Personnalisé\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Découvrez comment utiliser l'IA comme votre nutritionniste personnel pour créer un plan de repas hebdomadaire sur mesure, parfaitement adapté à vos objectifs et à vos goûts."
+description: " \"Découvrez comment utiliser l'IA comme votre nutritionniste personnel pour créer un plan de repas hebdomadaire sur mesure, parfaitement adapté à vos objectifs et à vos goûts.\""
 tags:
   ["Régime", "Gestion des Repas", "Santé", "ChatGPT", "Préparation de Repas"]
 ---

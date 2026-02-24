@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estetica dell'Organizzazione Stile 'Knolling'"
+title: " \"Estetica dell'Organizzazione Stile 'Knolling'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per la tecnica Knolling: disponi e fotografa oggetti con ordine millimetrico e angoli retti perfetti."
+description: " \"Prompt per la tecnica Knolling: disponi e fotografa oggetti con ordine millimetrico e angoli retti perfetti.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composizione", "Design"]
 ---
 

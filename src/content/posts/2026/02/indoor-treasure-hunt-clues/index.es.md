@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pistas de Búsqueda del Tesoro en Interiores: Actividad para Días Lluviosos"
+title: " \"Pistas de Búsqueda del Tesoro en Interiores: Actividad para Días Lluviosos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Genera pistas personalizadas para una búsqueda del tesoro en casa en solo 5 minutos usando IA."
+description: " \"Genera pistas personalizadas para una búsqueda del tesoro en casa en solo 5 minutos usando IA.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

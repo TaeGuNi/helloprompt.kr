@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Descanso Cerebral de 5 Minutos, Escrita de Roteiro de Meditação e Atenção Plena com IA"
+title: " \"Descanso Cerebral de 5 Minutos, Escrita de Roteiro de Meditação e Atenção Plena com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Crie um roteiro de meditação guiada perfeito para o seu estado emocional e situação atual usando inteligência artificial."
+description: " \"Crie um roteiro de meditação guiada perfeito para o seu estado emocional e situação atual usando inteligência artificial.\""
 tags: ["Meditação", "Atenção Plena", "Estresse", "Descanso"]
 ---
 

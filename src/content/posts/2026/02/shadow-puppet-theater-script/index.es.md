@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guion de Teatro de Sombras: Un Cuento para Dormir"
+title: " \"Guion de Teatro de Sombras: Un Cuento para Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un mundo de fantasía hecho solo con una linterna, guion de teatro de sombras escrito por IA."
+description: " \"Un mundo de fantasía hecho solo con una linterna, guion de teatro de sombras escrito por IA.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

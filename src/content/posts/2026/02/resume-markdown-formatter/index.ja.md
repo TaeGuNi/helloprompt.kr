@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "履歴書フォーマッティング地獄脱出：マークダウン(Markdown)変換機"
+title: " \"履歴書フォーマッティング地獄脱出：マークダウン(Markdown)変換機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "乱雑な履歴書のテキストを綺麗なMarkdown形式に変換し、Notion履歴書の作成やPDF化を圧倒的に楽にするプロンプトです。"
+description: " \"乱雑な履歴書のテキストを綺麗なMarkdown形式に変換し、Notion履歴書の作成やPDF化を圧倒的に楽にするプロンプトです。\""
 tags: ["履歴書様式", "マークダウン", "Notion履歴書", "文書整理"]
 ---
 

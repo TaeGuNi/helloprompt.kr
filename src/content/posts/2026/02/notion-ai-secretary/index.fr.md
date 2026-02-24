@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secrétaire IA Notion : Tri des Tâches Quotidiennes & Auto-Planification"
+title: " \"Secrétaire IA Notion : Tri des Tâches Quotidiennes & Auto-Planification\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Outils de Productivité"
-description: "La magie pour transformer le chaos en un plan structuré. Videz vos tâches mentales dans l'IA et obtenez une liste de priorités claire et actionnable."
+description: " \"La magie pour transformer le chaos en un plan structuré. Videz vos tâches mentales dans l'IA et obtenez une liste de priorités claire et actionnable.\""
 tags: ["Notion", "NotionIA", "GestionTâches", "Productivité", "GTD"]
 ---
 

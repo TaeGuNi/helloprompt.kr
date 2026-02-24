@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "按情况分类的减压技巧：AI建议"
+title: " \"按情况分类的减压技巧：AI建议\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "除了吃辣炒年糕还有别的方法吗？我们告诉你科学证明的减压技巧。"
+description: " \"除了吃辣炒年糕还有别的方法吗？我们告诉你科学证明的减压技巧。\""
 tags: ["压力", "倦怠", "心理管理", "治愈", "ChatGPT"]
 ---
 

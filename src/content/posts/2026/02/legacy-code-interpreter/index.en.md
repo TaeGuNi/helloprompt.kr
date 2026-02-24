@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interpreting Ciphertext (Legacy Code) Left by Leaver"
+title: " \"Interpreting Ciphertext (Legacy Code) Left by Leaver\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A prompt that directs AI to analyze complex, undocumented legacy code line-by-line and explain its underlying logic in plain English."
+description: " \"A prompt that directs AI to analyze complex, undocumented legacy code line-by-line and explain its underlying logic in plain English.\""
 tags: ["Legacy", "Code Analysis", "Maintenance", "Handover"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "칵테일 레시피: 냉장고 술 털어서 바텐더 되기"
+title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/취미"
-description: "Des restes de vodka, bière, whisky... Ne les buvez pas n'importe comment. Créez des cocktails dignes d'un bar (Home-tending) avec l'IA en utilisant les ingrédients de votre frigo."
+description: " \"Des restes de vodka, bière, whisky... Ne les buvez pas n'importe comment. Créez des cocktails dignes d'un bar (Home-tending) avec l'IA en utilisant les ingrédients de votre frigo.\""
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 

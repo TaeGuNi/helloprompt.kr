@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Balance Game Questions for Kids: Never-Ending Conversation"
+title: " \"Balance Game Questions for Kids: Never-Ending Conversation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A whimsical balance game question generator designed to get elementary school kids talking eagerly."
+description: " \"A whimsical balance game question generator designed to get elementary school kids talking eagerly.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

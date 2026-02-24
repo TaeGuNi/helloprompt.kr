@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아침 몰입도 200%! AI 집중력 DJ"
+title: " \"아침 몰입도 200%! AI 집중력 DJ\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "생산성"
-description: "뇌파를 자극해 몰입의 스위치를 켜주는 AI 맞춤형 집중력 플레이리스트 생성 프롬프트."
+description: " \"뇌파를 자극해 몰입의 스위치를 켜주는 AI 맞춤형 집중력 플레이리스트 생성 프롬프트.\""
 tags: ["집중력", "음악", "생산성", "몰입"]
 ---
 

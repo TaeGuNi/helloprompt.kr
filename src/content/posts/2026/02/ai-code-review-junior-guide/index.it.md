@@ -1,6 +1,6 @@
 ---
-title: "시니어 개발자처럼 코드 리뷰하기: 주니어 개발자를 위한 AI 프롬프트 가이드 (2026 Edition)"
-description: "Per gli sviluppatori junior intimoriti dalla code review, ecco come utilizzare i prompt AI per assumere la prospettiva di un senior con 10 anni di esperienza e individuare in anticipo vulnerabilità e margini di miglioramento nel codice."
+title: " \"시니어 개발자처럼 코드 리뷰하기: 주니어 개발자를 위한 AI 프롬프트 가이드 (2026 Edition)\""
+description: " \"Per gli sviluppatori junior intimoriti dalla code review, ecco come utilizzare i prompt AI per assumere la prospettiva di un senior con 10 anni di esperienza e individuare in anticipo vulnerabilità e margini di miglioramento nel codice.\""
 date: 2026-02-16
 tags: ["AI", "Code Review", "Productivity", "Junior Developer"]
 layout: ../layouts/BlogPost.astro

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "암호문 같은 뜨개질 도안, AI가 해석해드립니다"
+title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "K1, P1, YO... Transformez les patrons de tricot remplis d'abréviations et de symboles anglais en instructions claires et détaillées. Les modèles Ravelry ne sont plus un problème."
+description: " \"K1, P1, YO... Transformez les patrons de tricot remplis d'abréviations et de symboles anglais en instructions claires et détaillées. Les modèles Ravelry ne sont plus un problème.\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 

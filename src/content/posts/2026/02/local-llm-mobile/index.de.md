@@ -1,6 +1,6 @@
 ---
-title: "Supercomputer in Ihrer Hand: On-Device-KI-Revolution"
-description: "Die Ära leistungsstarker lokaler LLMs, die ohne Cloud funktionieren."
+title: " \"Supercomputer in Ihrer Hand: On-Device-KI-Revolution\""
+description: " \"Die Ära leistungsstarker lokaler LLMs, die ohne Cloud funktionieren.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

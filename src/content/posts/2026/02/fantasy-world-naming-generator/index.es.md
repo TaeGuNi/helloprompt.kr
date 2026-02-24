@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nombrando Región/Ciudad Única en Mundo de Fantasía"
+title: " \"Nombrando Región/Ciudad Única en Mundo de Fantasía\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Aprende a crear nombres épicos y memorables para regiones y ciudades en tu mundo de fantasía, desde bosques élficos hasta minas enanas."
+description: " \"Aprende a crear nombres épicos y memorables para regiones y ciudades en tu mundo de fantasía, desde bosques élficos hasta minas enanas.\""
 tags: ["Nombrar", "Fantasía", "Novela", "TRPG", "Universo"]
 ---
 

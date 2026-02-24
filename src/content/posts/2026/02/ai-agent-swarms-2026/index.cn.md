@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Simplified Chinese)"
-description: "多智能体协作（Multi-agent collaboration）正成为解决复杂问题的新标准。"
+title: " \"AI Agent Swarms (Simplified Chinese)\""
+description: " \"多智能体协作（Multi-agent collaboration）正成为解决复杂问题的新标准。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

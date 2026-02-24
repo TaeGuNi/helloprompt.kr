@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Überlebensartikel-Guide für Langzeitreisende & Digitale Nomaden"
+title: " \"Überlebensartikel-Guide für Langzeitreisende & Digitale Nomaden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Ein Stück Zuhause in der Ferne? Unverzichtbare Gegenstände, die die Lebensqualität auf Langzeitreisen deutlich verbessern."
+description: " \"Ein Stück Zuhause in der Ferne? Unverzichtbare Gegenstände, die die Lebensqualität auf Langzeitreisen deutlich verbessern.\""
 tags:
   ["Langzeitreisen", "Monat langes Bleiben", "Weltreise", "Lebensnotwendiges"]
 ---

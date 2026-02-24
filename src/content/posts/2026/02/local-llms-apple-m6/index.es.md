@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "LLM locales en dispositivos móviles: El impacto del chip Apple M6"
-description: "Un análisis técnico de cómo el último chip M6 de Apple revoluciona la ejecución de Grandes Modelos de Lenguaje (LLM) locales, junto con los mejores prompts para optimizar tu código."
+title: " \"LLM locales en dispositivos móviles: El impacto del chip Apple M6\""
+description: " \"Un análisis técnico de cómo el último chip M6 de Apple revoluciona la ejecución de Grandes Modelos de Lenguaje (LLM) locales, junto con los mejores prompts para optimizar tu código.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 ---

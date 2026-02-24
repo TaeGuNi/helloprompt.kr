@@ -1,6 +1,6 @@
 ---
-title: "基礎設施是AI的唯一真理"
-description: "深入分析AI基礎設施的殘酷真相：在這場淘金熱中，只有NVIDIA（輝達）才是真正賺錢的贏家，並提供洞察市場的專屬提示詞。"
+title: " \"基礎設施是AI的唯一真理\""
+description: " \"深入分析AI基礎設施的殘酷真相：在這場淘金熱中，只有NVIDIA（輝達）才是真正賺錢的贏家，並提供洞察市場的專屬提示詞。\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

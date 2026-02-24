@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Viagem para Encontrar Joias Escondidas Locais: Além dos Pontos Turísticos"
+title: " \"Guia de Viagem para Encontrar Joias Escondidas Locais: Além dos Pontos Turísticos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Cansado de lugares lotados de turistas? Descubra como encontrar locais autênticos que nem aparecem nos mapas turísticos."
+description: " \"Cansado de lugares lotados de turistas? Descubra como encontrar locais autênticos que nem aparecem nos mapas turísticos.\""
 tags: ["Pontos Escondidos", "Viagem Local", "Lugares Escondidos", "Exploração"]
 ---
 

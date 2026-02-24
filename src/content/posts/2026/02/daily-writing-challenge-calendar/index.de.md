@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tägliche Schreibherausforderung: Auto-Generiere 30-Tage-Schreibthemenkalender"
+title: " \"Tägliche Schreibherausforderung: Auto-Generiere 30-Tage-Schreibthemenkalender\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Möchten Sie eine Schreibgewohnheit aufbauen? Die KI plant einen auf Ihre Interessen zugeschnittenen 30-Tage-Schreibthemenkalender."
+description: " \"Möchten Sie eine Schreibgewohnheit aufbauen? Die KI plant einen auf Ihre Interessen zugeschnittenen 30-Tage-Schreibthemenkalender.\""
 tags: ["Schreiben", "Gewohnheit", "Herausforderung", "Selbstentwicklung"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "日本木版画の魅力「Ukiyo-e」スタイル"
+title: " \"日本木版画の魅力「Ukiyo-e」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "日本独自の美学である「浮世絵（Ukiyo-e）」スタイルを取り入れ、波や風景を魅力的に描画するためのAIプロンプトをご紹介します。"
+description: " \"日本独自の美学である「浮世絵（Ukiyo-e）」スタイルを取り入れ、波や風景を魅力的に描画するためのAIプロンプトをご紹介します。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

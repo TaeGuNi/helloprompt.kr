@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit)"
+title: " \"블록체인 스마트 컨트랙트: Solidity 코드 생성 및 감사 (Audit)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "一度デプロイすると修正不可能なスマートコントラクト。あなたのコードは本当に安全ですか？AIによるコード監査（Audit）を通じて、致命的な脆弱性を事前に完全に遮断するためのプロンプトエンジニアリングガイド。"
+description: " \"一度デプロイすると修正不可能なスマートコントラクト。あなたのコードは本当に安全ですか？AIによるコード監査（Audit）を通じて、致命的な脆弱性を事前に完全に遮断するためのプロンプトエンジニアリングガイド。\""
 tags: ["블록체인", "Solidity", "스마트컨트랙트", "Web3", "보안"]
 ---
 

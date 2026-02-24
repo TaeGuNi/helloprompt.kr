@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Can't Understand You? Use 'Delimiters'"
+title: " \"AI Can't Understand You? Use 'Delimiters'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Does your AI get confused when summarizing long text or fixing code? Use the Delimiter technique to separate commands from data and double your accuracy."
+description: " \"Does your AI get confused when summarizing long text or fixing code? Use the Delimiter technique to separate commands from data and double your accuracy.\""
 tags: ["Delimiters", "Readability", "XML Tags"]
 ---
 

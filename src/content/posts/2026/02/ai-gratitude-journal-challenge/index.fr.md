@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Défi Journal de Gratitude IA : Le Moyen le Plus Facile vers le Bonheur"
+title: " \"Défi Journal de Gratitude IA : Le Moyen le Plus Facile vers le Bonheur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Le mot 'Merci' modifie la structure du cerveau. Créez l'habitude d'identifier et de consigner vos petits bonheurs quotidiens grâce à l'IA."
+description: " \"Le mot 'Merci' modifie la structure du cerveau. Créez l'habitude d'identifier et de consigner vos petits bonheurs quotidiens grâce à l'IA.\""
 tags:
   [
     "Journal de Gratitude",

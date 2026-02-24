@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estilo 'Low Poly & Voxel Art' de Encanto Angular"
+title: " \"Estilo 'Low Poly & Voxel Art' de Encanto Angular\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de arte Low Poly hecho de polígonos simplificados como origami o Minecraft."
+description: " \"Prompt de arte Low Poly hecho de polígonos simplificados como origami o Minecraft.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Estilo de Arte"]
 ---
 

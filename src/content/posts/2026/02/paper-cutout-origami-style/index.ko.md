@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "종이의 질감 'Paper Cutout & Origami' 스타일"
+title: " \"종이의 질감 'Paper Cutout & Origami' 스타일\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "이미지 생성"
-description: "밋밋한 2D 일러스트에 입체감과 따뜻함을 불어넣는 완벽한 페이퍼 컷아웃(Paper Cutout) & 오리가미(Origami) 프롬프트 가이드입니다."
+description: " \"밋밋한 2D 일러스트에 입체감과 따뜻함을 불어넣는 완벽한 페이퍼 컷아웃(Paper Cutout) & 오리가미(Origami) 프롬프트 가이드입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 ---
 

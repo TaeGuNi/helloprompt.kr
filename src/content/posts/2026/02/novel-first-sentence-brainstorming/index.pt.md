@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brainstorming de 10 Versões de Primeira Frase de Romance"
+title: " \"Brainstorming de 10 Versões de Primeira Frase de Romance\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Cative seus leitores logo na primeira frase. Obtenha 10 recomendações de frases iniciais com ganchos irresistíveis para o seu romance."
+description: " \"Cative seus leitores logo na primeira frase. Obtenha 10 recomendações de frases iniciais com ganchos irresistíveis para o seu romance.\""
 tags: ["Romance", "PrimeiraFrase", "Escrita", "Intro", "Brainstorming"]
 ---
 

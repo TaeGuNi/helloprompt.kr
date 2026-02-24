@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "带孩子的家庭旅行行程：和平规划"
+title: " \"带孩子的家庭旅行行程：和平规划\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "完美平衡孩子体力与父母心态的家庭旅行专属魔法提示词。"
+description: " \"完美平衡孩子体力与父母心态的家庭旅行专属魔法提示词。\""
 tags: ["家庭旅行", "育儿", "儿童区", "旅行计划"]
 ---
 

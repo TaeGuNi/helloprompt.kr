@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "الذكاء الاصطناعي القابل للارتداء يتغلغل في حياتنا اليومية. تحليل دقيق لعوامل نجاح شركة ميتا."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"الذكاء الاصطناعي القابل للارتداء يتغلغل في حياتنا اليومية. تحليل دقيق لعوامل نجاح شركة ميتا.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

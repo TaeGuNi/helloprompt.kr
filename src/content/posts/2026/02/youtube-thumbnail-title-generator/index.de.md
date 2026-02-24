@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wiederbelebung toter Kanäle: Die 1M-Views-Formel"
+title: " \"Wiederbelebung toter Kanäle: Die 1M-Views-Formel\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"
-description: "Lassen Sie die KI 'klickbare' Titel und Thumbnail-Ideen generieren. Sehen Sie zu, wie Ihre CTR explodiert."
+description: " \"Lassen Sie die KI 'klickbare' Titel und Thumbnail-Ideen generieren. Sehen Sie zu, wie Ihre CTR explodiert.\""
 tags: ["YouTube", "Thumbnail", "Titel-Generator", "Clickbait", "Aufrufe"]
 ---
 

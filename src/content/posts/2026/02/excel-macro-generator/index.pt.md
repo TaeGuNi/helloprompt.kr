@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape do Inferno do Excel: O Prompt que Elimina Horas Extras"
+title: " \"Escape do Inferno do Excel: O Prompt que Elimina Horas Extras\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Produtividade"
-description: "Fórmulas complexas de Excel, macros VBA... Apenas descreva, e a IA escreve o código para você."
+description: " \"Fórmulas complexas de Excel, macros VBA... Apenas descreva, e a IA escreve o código para você.\""
 tags: ["Excel", "Automação", "VBA", "Dicas de Trabalho"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-CBT-I-Schlaftherapie: Schlaflosigkeit ohne Medikamente heilen"
+title: " \"KI-CBT-I-Schlaftherapie: Schlaflosigkeit ohne Medikamente heilen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Nutzen Sie KI für CBT-I (Kognitive Verhaltenstherapie bei Insomnie) – die sicherste Methode, um Schlaflosigkeit ganz ohne Medikamente zu behandeln."
+description: " \"Nutzen Sie KI für CBT-I (Kognitive Verhaltenstherapie bei Insomnie) – die sicherste Methode, um Schlaflosigkeit ganz ohne Medikamente zu behandeln.\""
 tags:
   ["Schlaflosigkeit", "CBT-I", "Schlaftherapie", "Psychische Pflege", "ChatGPT"]
 ---

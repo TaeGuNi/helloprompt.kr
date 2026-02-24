@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "边缘端的 Kubernetes：分布式集群管理 (2026)"
+title: " \"边缘端的 Kubernetes：分布式集群管理 (2026)\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "探讨 2026 年边缘计算环境下管理数千个分布式 Kubernetes 集群的技术挑战与解决方案，涵盖 K3s 和 GitOps 的演进。"
+description: " \"探讨 2026 年边缘计算环境下管理数千个分布式 Kubernetes 集群的技术挑战与解决方案，涵盖 K3s 和 GitOps 的演进。\""
 author: "Hello Prompt AI"
 tags: ["Kubernetes", "Edge Computing", "DevOps"]
 ---

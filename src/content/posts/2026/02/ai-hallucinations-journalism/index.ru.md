@@ -1,6 +1,6 @@
 ---
-title: "AI Hallucinations in Journalism"
-description: "Ars Technica отзывает статью после обнаружения, что сгенерированные ИИ цитаты были ошибочно приписаны разработчику ПО, что подчеркивает риски LLM в редакциях."
+title: " \"AI Hallucinations in Journalism\""
+description: " \"Ars Technica отзывает статью после обнаружения, что сгенерированные ИИ цитаты были ошибочно приписаны разработчику ПО, что подчеркивает риски LLM в редакциях.\""
 date: 2026-02-15
 tags: ["AI", "Ethics", "Journalism", "Fake News"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ecken-Muttersprachler-Gesprächspartner (Kostenlos)"
+title: " \"Ecken-Muttersprachler-Gesprächspartner (Kostenlos)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Fremdsprachenlernen"
-description: "Wie Sie Ihre Konversationsfähigkeiten durch unbegrenztes KI-Rollenspiel anstelle von teurem Telefon-Englisch verbessern können."
+description: " \"Wie Sie Ihre Konversationsfähigkeiten durch unbegrenztes KI-Rollenspiel anstelle von teurem Telefon-Englisch verbessern können.\""
 tags: ["Englischkonversation", "Rollenspiel", "Prompt", "Selbstentwicklung"]
 ---
 

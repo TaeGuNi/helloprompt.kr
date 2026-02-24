@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Chrome DevTools MCP Server: Revolutionizing Web Debugging for AI Agents"
+title: " \"Chrome DevTools MCP Server: Revolutionizing Web Debugging for AI Agents\""
 date: 2026-02-14
-description: "Discover how to leverage the Model Context Protocol (MCP) to let AI agents directly debug and validate your web applications via Chrome DevTools."
+description: " \"Discover how to leverage the Model Context Protocol (MCP) to let AI agents directly debug and validate your web applications via Chrome DevTools.\""
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

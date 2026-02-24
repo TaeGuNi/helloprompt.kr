@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Local Live Music Bar Finder: Discovering Hipster Venues"
+title: " \"Local Live Music Bar Finder: Discovering Hipster Venues\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Skip the generic tourist traps. Embark on a musical journey to experience the raw, authentic pulse of local artists."
+description: " \"Skip the generic tourist traps. Embark on a musical journey to experience the raw, authentic pulse of local artists.\""
 tags: ["Music Travel", "Jazz Bar", "Live Club", "Local Culture", "Nightlife"]
 ---
 

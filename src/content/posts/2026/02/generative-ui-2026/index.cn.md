@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Simplified Chinese)"
-description: "根据用户意图自适应和生成的界面正在取代静态菜单"
+title: " \"Generative UI Patterns (Simplified Chinese)\""
+description: " \"根据用户意图自适应和生成的界面正在取代静态菜单\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

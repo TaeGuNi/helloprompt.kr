@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ketogenic Diet Starter Guide: Perfect Start with AI"
+title: " \"Ketogenic Diet Starter Guide: Perfect Start with AI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "A complete guide to starting the ketogenic diet easily and safely using AI, without the hassle of complex macronutrient calculations."
+description: " \"A complete guide to starting the ketogenic diet easily and safely using AI, without the hassle of complex macronutrient calculations.\""
 tags: ["Ketogenic", "LCHF", "Diet", "Health", "ChatGPT"]
 ---
 

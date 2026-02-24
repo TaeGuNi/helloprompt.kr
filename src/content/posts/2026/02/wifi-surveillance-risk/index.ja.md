@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 CCTV가 된다?"
+title: " \"와이파이(WiFi)가 보이지 않는 CCTV가 된다?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안/프라이버시"
-description: "Wi-Fi信号だけで人の動きを追跡する技術、その危険性と可能性について探ります。"
+description: " \"Wi-Fi信号だけで人の動きを追跡する技術、その危険性と可能性について探ります。\""
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 

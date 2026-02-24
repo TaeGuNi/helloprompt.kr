@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Tramas 'Qué Pasaría Si' para Desbloquear el Bloqueo del Escritor"
+title: " \"Generador de Tramas 'Qué Pasaría Si' para Desbloquear el Bloqueo del Escritor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Prompt de lluvia de ideas que genera giros narrativos ingeniosos con un simple '¿Y si...?' para superar el bloqueo del escritor."
+description: " \"Prompt de lluvia de ideas que genera giros narrativos ingeniosos con un simple '¿Y si...?' para superar el bloqueo del escritor.\""
 tags: ["EscribirNovela", "Trama", "Idea", "Creación"]
 ---
 

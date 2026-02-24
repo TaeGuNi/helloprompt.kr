@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Paralisi Decisionale Risolta! Raccomandatore Menu Cena IA"
+title: " \"Paralisi Decisionale Risolta! Raccomandatore Menu Cena IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Basta con il dilemma quotidiano del 'Cosa mangiamo stasera?'. Lascia che l'IA decida il menu perfetto in base al meteo, al tuo umore e a cosa hai in frigo."
+description: " \"Basta con il dilemma quotidiano del 'Cosa mangiamo stasera?'. Lascia che l'IA decida il menu perfetto in base al meteo, al tuo umore e a cosa hai in frigo.\""
 tags:
   [
     "Raccomandazione Menu",

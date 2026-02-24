@@ -1,6 +1,6 @@
 ---
-title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "I costi dell'API per i tuoi agenti AI stanno esplodendo? Scopri perché il 'Naive Appending' sta prosciugando il tuo budget e impara 3 pattern di ottimizzazione (Context Caching, State Compression, Model Routing) per evitare la bancarotta."
+title: " \"The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026\""
+description: " \"I costi dell'API per i tuoi agenti AI stanno esplodendo? Scopri perché il 'Naive Appending' sta prosciugando il tuo budget e impara 3 pattern di ottimizzazione (Context Caching, State Compression, Model Routing) per evitare la bancarotta.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

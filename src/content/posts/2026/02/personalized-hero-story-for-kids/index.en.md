@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creating a Hero Fairy Tale Where My Child is the Main Character"
+title: " \"Creating a Hero Fairy Tale Where My Child is the Main Character\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A magical prompt that boosts your child's self-esteem by making them the hero of their own personalized adventure story."
+description: " \"A magical prompt that boosts your child's self-esteem by making them the hero of their own personalized adventure story.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

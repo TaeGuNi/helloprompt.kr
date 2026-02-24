@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Convertitore Descrizione Sfondo Stimolando Cinque Sensi del Lettore"
+title: " \"Convertitore Descrizione Sfondo Stimolando Cinque Sensi del Lettore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Uno strumento di scrittura che trasforma frasi piatte in descrizioni vivide e coinvolgenti, stimolando la vista, l'udito, l'olfatto, il gusto e il tatto."
+description: " \"Uno strumento di scrittura che trasforma frasi piatte in descrizioni vivide e coinvolgenti, stimolando la vista, l'udito, l'olfatto, il gusto e il tatto.\""
 tags: ["Scrittura", "Descrizione", "Romanzo", "Espressività"]
 ---
 

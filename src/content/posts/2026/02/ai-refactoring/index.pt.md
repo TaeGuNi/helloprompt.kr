@@ -1,6 +1,6 @@
 ---
-title: "Refatoração de Código Impulsionada por IA: O Futuro do Código Limpo"
-description: "Descubra como a inteligência artificial está transformando a manutenção e a refatoração de código legado em 2026."
+title: " \"Refatoração de Código Impulsionada por IA: O Futuro do Código Limpo\""
+description: " \"Descubra como a inteligência artificial está transformando a manutenção e a refatoração de código legado em 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

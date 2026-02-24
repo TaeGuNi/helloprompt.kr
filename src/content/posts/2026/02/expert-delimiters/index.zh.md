@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 听不懂你的话？请使用“分隔符”"
+title: " \"AI 听不懂你的话？请使用“分隔符”\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "提示工程"
-description: "在总结长文或修改代码时，AI 会感到困惑吗？使用分隔符 (Delimiter) 技巧划分区域，将准确率提高 2 倍。"
+description: " \"在总结长文或修改代码时，AI 会感到困惑吗？使用分隔符 (Delimiter) 技巧划分区域，将准确率提高 2 倍。\""
 tags: ["分隔符", "可读性", "XML标签"]
 ---
 

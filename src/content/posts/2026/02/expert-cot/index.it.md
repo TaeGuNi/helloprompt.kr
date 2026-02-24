@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando l'IA agisce in modo stupido: Usa la 'Catena di Pensiero (CoT)'"
+title: " \"Quando l'IA agisce in modo stupido: Usa la 'Catena di Pensiero (CoT)'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "L'IA risponde bene alle domande semplici ma fallisce nei ragionamenti complessi? Scopri la tecnica CoT usata dall'1% dei migliori prompt engineer."
+description: " \"L'IA risponde bene alle domande semplici ma fallisce nei ragionamenti complessi? Scopri la tecnica CoT usata dall'1% dei migliori prompt engineer.\""
 tags: ["CoT", "Pensiero Logico", "Risoluzione Problemi"]
 ---
 

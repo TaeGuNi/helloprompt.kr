@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SQL Query Optimization, Before the DB Screams"
+title: " \"SQL Query Optimization, Before the DB Screams\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "Analyze slow, complex SQL queries to optimize database performance and get actionable index recommendations."
+description: " \"Analyze slow, complex SQL queries to optimize database performance and get actionable index recommendations.\""
 tags: ["SQL", "DB Tuning", "Backend"]
 ---
 

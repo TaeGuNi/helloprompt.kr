@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur d'Intrigue 'Et Si' pour Débloquer le Blocage de l'Écrivain"
+title: " \"Générateur d'Intrigue 'Et Si' pour Débloquer le Blocage de l'Écrivain\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Un prompt de brainstorming pour débloquer votre histoire et générer des rebondissements ingénieux grâce à la puissance du « Et si ? »."
+description: " \"Un prompt de brainstorming pour débloquer votre histoire et générer des rebondissements ingénieux grâce à la puissance du « Et si ? ».\""
 tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 ---
 

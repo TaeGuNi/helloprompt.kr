@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso 'Retroilluminazione' a Silhouette Intensa"
+title: " \"Uso 'Retroilluminazione' a Silhouette Intensa\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per la retroilluminazione (Silhouette) che enfatizza l'estetica formale e l'atmosfera oscurando i dettagli del soggetto."
+description: " \"Prompt per la retroilluminazione (Silhouette) che enfatizza l'estetica formale e l'atmosfera oscurando i dettagli del soggetto.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Composizione", "Illuminazione"]
 ---

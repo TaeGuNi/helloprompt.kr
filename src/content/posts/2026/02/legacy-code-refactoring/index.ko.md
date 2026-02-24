@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기"
+title: " \"ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "보기만 해도 머리 아픈 레거시 코드, AI를 10년 차 시니어 개발자처럼 활용해 안전하게 리팩토링하고 테스트 코드까지 한 번에 자동 생성하는 완벽 가이드."
+description: " \"보기만 해도 머리 아픈 레거시 코드, AI를 10년 차 시니어 개발자처럼 활용해 안전하게 리팩토링하고 테스트 코드까지 한 번에 자동 생성하는 완벽 가이드.\""
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
 

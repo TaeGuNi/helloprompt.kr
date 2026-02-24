@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jogo de Quiz de Letra Inicial: Prompt para Explosão de Vocabulário"
+title: " \"Jogo de Quiz de Letra Inicial: Prompt para Explosão de Vocabulário\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Aprenda palavras novas com seus filhos de forma divertida usando um árbitro de IA em vez de estudos chatos."
+description: " \"Aprenda palavras novas com seus filhos de forma divertida usando um árbitro de IA em vez de estudos chatos.\""
 tags:
   [
     "Parentalidade",

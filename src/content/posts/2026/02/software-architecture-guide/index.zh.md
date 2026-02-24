@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다"
+title: " \"시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "微服务（MSA）一定是最佳答案吗？根据流量规模、团队大小和部署频率量身定制的最佳架构选择指南。"
+description: " \"微服务（MSA）一定是最佳答案吗？根据流量规模、团队大小和部署频率量身定制的最佳架构选择指南。\""
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 

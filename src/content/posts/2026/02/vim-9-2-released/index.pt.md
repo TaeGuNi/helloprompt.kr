@@ -1,6 +1,6 @@
 ---
-title: "Vim 9.2 Released"
-description: "Um guia prático de prompts para analisar perfeitamente notas de lançamento extensas com IA e identificar rapidamente as principais mudanças para o seu ambiente de desenvolvimento."
+title: " \"Vim 9.2 Released\""
+description: " \"Um guia prático de prompts para analisar perfeitamente notas de lançamento extensas com IA e identificar rapidamente as principais mudanças para o seu ambiente de desenvolvimento.\""
 date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---

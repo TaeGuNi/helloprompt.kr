@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Travel Expense Estimate: Perfect Plan Without Budget Overrun"
+title: " \"Travel Expense Estimate: Perfect Plan Without Budget Overrun\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "From flight tickets to local dining, create a precise travel budget within a 10% margin of error reflecting real-time destination prices."
+description: " \"From flight tickets to local dining, create a precise travel budget within a 10% margin of error reflecting real-time destination prices.\""
 tags: ["Travel", "Budget", "TravelPlan", "Expenses"]
 ---
 

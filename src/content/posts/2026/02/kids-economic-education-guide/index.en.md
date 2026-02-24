@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kids Economic Education Guide: Teaching the Value of Money"
+title: " \"Kids Economic Education Guide: Teaching the Value of Money\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "An easy-to-understand explanation script that teaches kids the value of money and the true meaning of labor."
+description: " \"An easy-to-understand explanation script that teaches kids the value of money and the true meaning of labor.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

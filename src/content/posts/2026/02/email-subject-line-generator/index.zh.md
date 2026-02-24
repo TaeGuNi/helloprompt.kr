@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "打开率飙升的邮件标题生成器"
+title: " \"打开率飙升的邮件标题生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "营销/文案"
-description: "告别直奔垃圾箱的尴尬。让用户忍不住点击的高转化邮件标题生成秘籍。"
+description: " \"告别直奔垃圾箱的尴尬。让用户忍不住点击的高转化邮件标题生成秘籍。\""
 tags: ["邮件营销", "CRM", "文案", "简报"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "投資妥当性分析：NPVとIRR自動計算エクセル"
+title: " \"投資妥当性分析：NPVとIRR自動計算エクセル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "このプロジェクト、本当に利益が出る？投資の意思決定に不可欠な正味現在価値(NPV)と内部収益率(IRR)をExcelで瞬時に計算するプロンプト。"
+description: " \"このプロジェクト、本当に利益が出る？投資の意思決定に不可欠な正味現在価値(NPV)と内部収益率(IRR)をExcelで瞬時に計算するプロンプト。\""
 tags: ["エクセル", "投資分析", "NPV", "IRR"]
 ---
 

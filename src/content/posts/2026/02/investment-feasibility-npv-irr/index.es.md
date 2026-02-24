@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Análisis de Viabilidad de Inversión: Excel de Cálculo Automático de VAN y TIR"
+title: " \"Análisis de Viabilidad de Inversión: Excel de Cálculo Automático de VAN y TIR\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización de Trabajo"
-description: "¿Debería invertir en este proyecto? Calcula fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR) en Excel, los indicadores clave para cualquier decisión de inversión."
+description: " \"¿Debería invertir en este proyecto? Calcula fácilmente el Valor Actual Neto (VAN) y la Tasa Interna de Retorno (TIR) en Excel, los indicadores clave para cualquier decisión de inversión.\""
 tags: ["Excel", "AnálisisInversión", "VAN", "TIR"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Personalized Yoga Sequence for Stiff Bodies: AI Teacher"
+title: " \"Personalized Yoga Sequence for Stiff Bodies: AI Teacher\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Too stiff and embarrassed to attend a local yoga class? Let an AI yoga instructor guide you through a gentle, personalized home sequence."
+description: " \"Too stiff and embarrassed to attend a local yoga class? Let an AI yoga instructor guide you through a gentle, personalized home sequence.\""
 tags: ["Yoga", "Stretching", "Flexibility", "Home Workout", "ChatGPT"]
 ---
 

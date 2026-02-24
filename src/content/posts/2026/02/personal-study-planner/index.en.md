@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preventing Three-Day Resolve: AI 1:1 Learning Manager"
+title: " \"Preventing Three-Day Resolve: AI 1:1 Learning Manager\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "StudyMethod/Self-Development"
-description: "A prompt that generates a realistic study plan based on your goals and available time, while also acting as a strict motivational coach to keep you on track."
+description: " \"A prompt that generates a realistic study plan based on your goals and available time, while also acting as a strict motivational coach to keep you on track.\""
 tags: ["StudyPlan", "Planner", "Motivation", "TimeManagement"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (Simplified Chinese)"
-description: "Assigning specific personas helps models adopt the right tone and domain expertise, significantly improving the quality of the generated output."
+title: " \"Effective Role Prompting (Simplified Chinese)\""
+description: " \"Assigning specific personas helps models adopt the right tone and domain expertise, significantly improving the quality of the generated output.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

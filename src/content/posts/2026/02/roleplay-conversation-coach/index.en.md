@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Corner Native Speaker Conversation Partner (Free)"
+title: " \"Corner Native Speaker Conversation Partner (Free)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "Improve your conversation skills through unlimited AI roleplaying instead of expensive phone tutoring."
+description: " \"Improve your conversation skills through unlimited AI roleplaying instead of expensive phone tutoring.\""
 tags: ["EnglishConversation", "Roleplay", "Prompt", "Self-development"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기"
+title: " \"주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "재테크/투자"
-description: "Um analista de IA para iniciantes que não sabem ler indicadores técnicos. Faça o upload da imagem do seu gráfico para obter análises técnicas objetivas e cenários de negociação."
+description: " \"Um analista de IA para iniciantes que não sabem ler indicadores técnicos. Faça o upload da imagem do seu gráfico para obter análises técnicas objetivas e cenários de negociação.\""
 tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
 ---
 

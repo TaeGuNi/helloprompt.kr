@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gefühlsraten 'Scharade' Spiel: Entwicklung der emotionalen Intelligenz"
+title: " \"Gefühlsraten 'Scharade' Spiel: Entwicklung der emotionalen Intelligenz\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein KI-Rollenspiel-Prompt, um die Empathie und emotionale Ausdrucksfähigkeit Ihres Kindes spielerisch zu fördern."
+description: " \"Ein KI-Rollenspiel-Prompt, um die Empathie und emotionale Ausdrucksfähigkeit Ihres Kindes spielerisch zu fördern.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

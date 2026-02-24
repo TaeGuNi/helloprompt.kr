@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Beauté de l'Équilibre Parfait 'Composition Symétrique'"
+title: " \"Beauté de l'Équilibre Parfait 'Composition Symétrique'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Créez une composition stable et excentrique où la gauche et la droite sont parfaitement symétriques, à la manière d'un film de Wes Anderson."
+description: " \"Créez une composition stable et excentrique où la gauche et la droite sont parfaitement symétriques, à la manière d'un film de Wes Anderson.\""
 tags:
   [
     "Midjourney",

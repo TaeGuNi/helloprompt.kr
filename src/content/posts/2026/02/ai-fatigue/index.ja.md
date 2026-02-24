@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "AIの過剰なハイプに対する社会的な疲労感（AI Fatigue）を理解し、人間らしいコンテンツを作成するためのプロンプト。"
+title: " \"AI Fatigue (Summary)\""
+description: " \"AIの過剰なハイプに対する社会的な疲労感（AI Fatigue）を理解し、人間らしいコンテンツを作成するためのプロンプト。\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

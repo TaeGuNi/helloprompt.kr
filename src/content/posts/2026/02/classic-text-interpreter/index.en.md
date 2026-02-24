@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Reading Historical Records: Classic Text Interpreter"
+title: " \"AI Reading Historical Records: Classic Text Interpreter\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanities/History"
-description: "A prompt that translates difficult, abstruse historical documents or primary sources into accessible modern language, interpreting the hidden meanings within."
+description: " \"A prompt that translates difficult, abstruse historical documents or primary sources into accessible modern language, interpreting the hidden meanings within.\""
 tags: ["History", "Classic", "Literacy", "HistoricalRecordAnalysis"]
 ---
 

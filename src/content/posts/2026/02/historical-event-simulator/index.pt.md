@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pule na História: Simulador de Eventos Históricos"
+title: " \"Pule na História: Simulador de Eventos Históricos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/História"
-description: "E se você fosse uma grande figura histórica? Use este prompt para vivenciar eventos do passado fazendo escolhas como em um jogo de aventura de texto."
+description: " \"E se você fosse uma grande figura histórica? Use este prompt para vivenciar eventos do passado fazendo escolhas como em um jogo de aventura de texto.\""
 tags: ["EstudoHistória", "Gamificação", "Simulação", "HistóriaAlternativa"]
 ---
 

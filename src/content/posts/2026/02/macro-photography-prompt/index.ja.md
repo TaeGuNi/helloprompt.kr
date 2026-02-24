@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "超近接撮影の世界「Macro Photography」プロンプト"
+title: " \"超近接撮影の世界「Macro Photography」プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "目に見えない微細なディテールまで捉えるマクロ（接写）撮影のプロンプトです。"
+description: " \"目に見えない微細なディテールまで捉えるマクロ（接写）撮影のプロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 

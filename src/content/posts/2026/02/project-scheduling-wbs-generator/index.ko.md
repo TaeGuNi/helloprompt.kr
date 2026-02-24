@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "프로젝트 일정 관리(WBS) 자동으로 짜기"
+title: " \"프로젝트 일정 관리(WBS) 자동으로 짜기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"
-description: "마감일부터 역산하여 복잡한 프로젝트의 WBS(작업 분할 구조)와 상세 일정을 자동으로 생성해 주는 AI 프롬프트."
+description: " \"마감일부터 역산하여 복잡한 프로젝트의 WBS(작업 분할 구조)와 상세 일정을 자동으로 생성해 주는 AI 프롬프트.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

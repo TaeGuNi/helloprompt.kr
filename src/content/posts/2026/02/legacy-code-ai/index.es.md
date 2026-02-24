@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (Spanish)"
-description: "Cómo la Inteligencia Artificial rescata a los desarrolladores de la deuda técnica."
+title: " \"Modernizing Legacy Code (Spanish)\""
+description: " \"Cómo la Inteligencia Artificial rescata a los desarrolladores de la deuda técnica.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

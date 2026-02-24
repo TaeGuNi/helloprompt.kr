@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Log di Errore Sconosciuto, Analizza Causa in 10 Secondi"
+title: " \"Log di Errore Sconosciuto, Analizza Causa in 10 Secondi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Sviluppo"
-description: "Un prompt assistente al debug che individua la causa principale tra migliaia di righe di log d'errore e propone soluzioni immediate."
+description: " \"Un prompt assistente al debug che individua la causa principale tra migliaia di righe di log d'errore e propone soluzioni immediate.\""
 tags: ["Debug", "Log di Errore", "Risoluzione Problemi"]
 ---
 

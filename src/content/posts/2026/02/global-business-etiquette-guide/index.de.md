@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Globaler Geschäfts-Etikette-Leitfaden: Erfolg bei Meetings"
+title: " \"Globaler Geschäfts-Etikette-Leitfaden: Erfolg bei Meetings\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Visitenkarten mit beiden Händen überreichen? Wer reicht zuerst die Hand? Länderspezifische Business-Etikette, die den Vertragsabschluss sichert."
+description: " \"Visitenkarten mit beiden Händen überreichen? Wer reicht zuerst die Hand? Länderspezifische Business-Etikette, die den Vertragsabschluss sichert.\""
 tags:
   [
     "Auslandsgeschäftsreise",

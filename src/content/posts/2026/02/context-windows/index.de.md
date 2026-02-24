@@ -1,7 +1,7 @@
 ---
-title: "Kontextfenster verstehen: Wie man lange Unterhaltungen effektiv verwaltet"
+title: " \"Kontextfenster verstehen: Wie man lange Unterhaltungen effektiv verwaltet\""
 date: 2026-02-15
-description: "Erfahren Sie, wie Kontextfenster als 'Gedächtnis' von KI-Modellen funktionieren, und nutzen Sie clevere Strategien, um Token-Limits in langen Chats optimal zu verwalten."
+description: " \"Erfahren Sie, wie Kontextfenster als 'Gedächtnis' von KI-Modellen funktionieren, und nutzen Sie clevere Strategien, um Token-Limits in langen Chats optimal zu verwalten.\""
 ---
 
 # 📝 Kontextfenster verstehen: Wie man lange Unterhaltungen effektiv verwaltet

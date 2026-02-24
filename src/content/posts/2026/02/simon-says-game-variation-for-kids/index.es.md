@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Variación del Juego Simón Dice para Niños: Entrenamiento de Atención Auditiva"
+title: " \"Variación del Juego Simón Dice para Niños: Entrenamiento de Atención Auditiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Mejora la concentración y el control corporal de tus hijos con divertidas misiones generadas por IA."
+description: " \"Mejora la concentración y el control corporal de tus hijos con divertidas misiones generadas por IA.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

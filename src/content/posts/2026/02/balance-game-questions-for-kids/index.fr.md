@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Questions de Jeu d'Équilibre pour Enfants : Conversation Sans Fin"
+title: " \"Questions de Jeu d'Équilibre pour Enfants : Conversation Sans Fin\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Découvrez un générateur de dilemmes amusants (Tu préfères ?) pour lancer instantanément des conversations captivantes avec vos enfants."
+description: " \"Découvrez un générateur de dilemmes amusants (Tu préfères ?) pour lancer instantanément des conversations captivantes avec vos enfants.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

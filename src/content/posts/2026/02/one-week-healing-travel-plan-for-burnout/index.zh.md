@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "针对倦怠的一周治愈旅行计划：慢旅行"
+title: " \"针对倦怠的一周治愈旅行计划：慢旅行\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行与文化"
-description: "告别走马观花式的打卡旅游。这是一份真正让身心放松的“慢旅行”一周指南。"
+description: " \"告别走马观花式的打卡旅游。这是一份真正让身心放松的“慢旅行”一周指南。\""
 tags: ["治愈旅行", "休息", "生活一周", "慢旅行"]
 ---
 

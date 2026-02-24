@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Papagoより速い！状況別必須旅行会話チートキー"
+title: " \"Papagoより速い！状況別必須旅行会話チートキー\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "飲食店での注文、ホテルのチェックイン、緊急事態まで。現地ですぐに通じる実践的な会話カード。"
+description: " \"飲食店での注文、ホテルのチェックイン、緊急事態まで。現地ですぐに通じる実践的な会話カード。\""
 tags: ["旅行", "外国語", "会話", "英語", "日本語"]
 ---
 

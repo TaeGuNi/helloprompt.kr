@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Construyendo una Tabla de Contenidos de Informe Que Guste a los Jefes"
+title: " \"Construyendo una Tabla de Contenidos de Informe Que Guste a los Jefes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Prompt para estructurar informes que captura a la perfección el flujo lógico (Logic Flow) y convence a tus superiores."
+description: " \"Prompt para estructurar informes que captura a la perfección el flujo lógico (Logic Flow) y convence a tus superiores.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Den Markt dominieren mit dem Wettbewerberanalyse-Framework"
+title: " \"Den Markt dominieren mit dem Wettbewerberanalyse-Framework\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Analysieren Sie die Stärken und Schwächen Ihrer Wettbewerber, um strategische Benchmarks zu identifizieren."
+description: " \"Analysieren Sie die Stärken und Schwächen Ihrer Wettbewerber, um strategische Benchmarks zu identifizieren.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

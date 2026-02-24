@@ -1,6 +1,6 @@
 ---
-title: "Le piège de la singularité"
-description: "Analyse critique du piège de la singularité : la Singularité est un mythe marketing pour vendre des GPU."
+title: " \"Le piège de la singularité\""
+description: " \"Analyse critique du piège de la singularité : la Singularité est un mythe marketing pour vendre des GPU.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

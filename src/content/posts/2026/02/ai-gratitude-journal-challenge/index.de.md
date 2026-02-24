@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Dankbarkeitstagebuch-Herausforderung: Der einfachste Weg zum Glück"
+title: " \"KI-Dankbarkeitstagebuch-Herausforderung: Der einfachste Weg zum Glück\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Das Wort 'Danke' verändert die Gehirnstruktur. Etablieren Sie die Gewohnheit, mit KI kleine Momente des Glücks zu finden und festzuhalten."
+description: " \"Das Wort 'Danke' verändert die Gehirnstruktur. Etablieren Sie die Gewohnheit, mit KI kleine Momente des Glücks zu finden und festzuhalten.\""
 tags:
   [
     "Dankbarkeitstagebuch",

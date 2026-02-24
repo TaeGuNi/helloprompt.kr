@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Que Signifie Ce Code ? Explicateur de Code Amical"
+title: " \"Que Signifie Ce Code ? Explicateur de Code Amical\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt convivial pour les débutants qui déchiffre les codes complexes en ajoutant des commentaires explicatifs ligne par ligne."
+description: " \"Un prompt convivial pour les débutants qui déchiffre les codes complexes en ajoutant des commentaires explicatifs ligne par ligne.\""
 tags: ["ÉtudeCodage", "RevueCode", "Python", "JavaScript"]
 ---
 

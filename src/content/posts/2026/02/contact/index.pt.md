@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "문의하기 (Contact Us)"
-description: "Tem alguma dúvida ou proposta de parceria para a equipe do Hello Prompt? Descubra como escrever o e-mail perfeito em segundos com nossa IA."
+title: " \"문의하기 (Contact Us)\""
+description: " \"Tem alguma dúvida ou proposta de parceria para a equipe do Hello Prompt? Descubra como escrever o e-mail perfeito em segundos com nossa IA.\""
 date: "2026-02-09"
 ---
 

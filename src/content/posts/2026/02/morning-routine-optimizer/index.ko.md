@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)"
+title: " \"AI로 만드는 완벽한 아침 루틴 (Morning Routine Optimizer)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "나의 바이오리듬, 수면 패턴, 그리고 핵심 목표에 완벽하게 맞춰진 최적의 개인화 모닝 루틴 설계 프롬프트입니다."
+description: " \"나의 바이오리듬, 수면 패턴, 그리고 핵심 목표에 완벽하게 맞춰진 최적의 개인화 모닝 루틴 설계 프롬프트입니다.\""
 tags: ["Productivity", "Routine", "Morning", "Planning"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Curso Intensivo de Historia de Monumentos: Mira lo que Sabes"
+title: " \"Curso Intensivo de Historia de Monumentos: Mira lo que Sabes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "El momento en que una piedra se convierte en historia viva. Un guía experto de IA que selecciona solo los puntos clave sin explicaciones aburridas."
+description: " \"El momento en que una piedra se convierte en historia viva. Un guía experto de IA que selecciona solo los puntos clave sin explicaciones aburridas.\""
 tags: ["Viaje Histórico", "Humanidades", "Monumento", "Viaje de Conocimiento"]
 ---
 

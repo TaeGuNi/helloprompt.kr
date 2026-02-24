@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (French)"
-description: "Dépasser le « vibe coding » pour adopter des pratiques d'ingénierie rigoureuses : la tendance incontournable de 2026."
+title: " \"Breaking the Spell of Vibe Coding (French)\""
+description: " \"Dépasser le « vibe coding » pour adopter des pratiques d'ingénierie rigoureuses : la tendance incontournable de 2026.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

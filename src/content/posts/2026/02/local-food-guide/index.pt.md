@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coma Como um Local! Navegador de Comida Local com IA"
+title: " \"Coma Como um Local! Navegador de Comida Local com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem"
-description: "Fuja das armadilhas para turistas. Saiba como usar a IA para encontrar restaurantes autênticos onde os locais fazem fila."
+description: " \"Fuja das armadilhas para turistas. Saiba como usar a IA para encontrar restaurantes autênticos onde os locais fazem fila.\""
 tags: ["Viagem", "Restaurante", "Mukbang", "Restaurante Local"]
 ---
 

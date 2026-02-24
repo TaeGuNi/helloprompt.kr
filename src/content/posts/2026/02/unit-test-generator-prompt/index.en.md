@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Writing Test Code, A Prompt That Finishes in 5 Minutes"
+title: " \"Writing Test Code, A Prompt That Finishes in 5 Minutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Leave boring and troublesome Unit Test writing to AI. Challenge 100% coverage!"
+description: " \"Leave boring and troublesome Unit Test writing to AI. Challenge 100% coverage!\""
 tags: ["Test Code", "TDD", "Jest", "PyTest", "QA"]
 ---
 

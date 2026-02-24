@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel de Orçamento de Casamento: Lista de Verificação para Prevenir Bomba de Custo Extra"
+title: " \"Excel de Orçamento de Casamento: Lista de Verificação para Prevenir Bomba de Custo Extra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Um prompt especializado que prevê e economiza todos os custos ocultos no processo de preparação do casamento, do salão de festas à lua de mel."
+description: " \"Um prompt especializado que prevê e economiza todos os custos ocultos no processo de preparação do casamento, do salão de festas à lua de mel.\""
 tags: ["Casamento", "Orçamento", "Boda", "Recém-casados"]
 ---
 

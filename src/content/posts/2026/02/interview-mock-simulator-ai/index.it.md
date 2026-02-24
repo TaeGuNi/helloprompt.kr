@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulazione 'Vero Colloquio Simulato' con IA Posseduta da Intervistatore"
+title: " \"Simulazione 'Vero Colloquio Simulato' con IA Posseduta da Intervistatore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Trasforma l'IA in un selezionatore esigente per simulare un colloquio reale, allenandoti a gestire la pressione e le domande a trabocchetto."
+description: " \"Trasforma l'IA in un selezionatore esigente per simulare un colloquio reale, allenandoti a gestire la pressione e le domande a trabocchetto.\""
 tags:
   ["ColloquioSimulato", "PraticaColloquio", "IAIntervistatore", "PrepLavoro"]
 ---

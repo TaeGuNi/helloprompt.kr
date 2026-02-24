@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (French)"
-description: "Combiner les réseaux de Petri et les LLM pour des systèmes distribués robustes."
+title: " \"LLMs in Distributed Apps (French)\""
+description: " \"Combiner les réseaux de Petri et les LLM pour des systèmes distribués robustes.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

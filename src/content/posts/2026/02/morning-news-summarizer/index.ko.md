@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기"
+title: " \"AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "출근길 1분 투자로 세상의 흐름을 읽는 나만의 맞춤형 AI 뉴스 캐스터 프롬프트입니다."
+description: " \"출근길 1분 투자로 세상의 흐름을 읽는 나만의 맞춤형 AI 뉴스 캐스터 프롬프트입니다.\""
 tags: ["뉴스", "요약", "ChatGPT", "시간절약"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explicando la Muerte a los Niños: Una Guía Cálida"
+title: " \"Explicando la Muerte a los Niños: Una Guía Cálida\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Descubre cómo explicar la muerte de forma clara y consolar a un niño que se enfrenta a la pérdida de un ser querido o mascota."
+description: " \"Descubre cómo explicar la muerte de forma clara y consolar a un niño que se enfrenta a la pérdida de un ser querido o mascota.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

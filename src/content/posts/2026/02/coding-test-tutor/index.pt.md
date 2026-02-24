@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지"
+title: " \"코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Descubra uma técnica de engenharia de prompts para quando você travar em problemas de algoritmos (como LeetCode ou HackerRank). Em vez de olhar a resposta cegamente, faça a IA extrair as melhores dicas para que você resolva o desafio sozinho."
+description: " \"Descubra uma técnica de engenharia de prompts para quando você travar em problemas de algoritmos (como LeetCode ou HackerRank). Em vez de olhar a resposta cegamente, faça a IA extrair as melhores dicas para que você resolva o desafio sozinho.\""
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 

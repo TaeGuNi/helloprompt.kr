@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mondo Fantastico di Bagliore Prompt 'Bioluminescenza'"
+title: " \"Mondo Fantastico di Bagliore Prompt 'Bioluminescenza'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Come generare creature e ambienti che emettono luce propria, simili a quelli del pianeta Pandora in Avatar."
+description: " \"Come generare creature e ambienti che emettono luce propria, simili a quelli del pianeta Pandora in Avatar.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasia", "Colore"]
 ---
 

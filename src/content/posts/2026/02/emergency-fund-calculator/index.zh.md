@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "备用金安全带: 属于我的备用金适正额计算"
+title: " \"备用金安全带: 属于我的备用金适正额计算\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "精准计算出在面临突发失业或意外时，能让您安然度过的最佳应急资金规模。"
+description: " \"精准计算出在面临突发失业或意外时，能让您安然度过的最佳应急资金规模。\""
 tags: ["备用金", "财务管理", "风险管理", "储蓄"]
 ---
 

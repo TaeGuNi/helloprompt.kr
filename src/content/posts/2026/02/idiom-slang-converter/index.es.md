@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hablando Como un Protagonista de Drama: Máquina Expendedora de Modismos y Jerga"
+title: " \"Hablando Como un Protagonista de Drama: Máquina Expendedora de Modismos y Jerga\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizaje de Idiomas Extranjeros"
-description: "Un prompt que encuentra expresiones nativas, palabras de moda y modismos reales que no aparecen en los libros de texto, adaptados a cualquier situación."
+description: " \"Un prompt que encuentra expresiones nativas, palabras de moda y modismos reales que no aparecen en los libros de texto, adaptados a cualquier situación.\""
 tags: ["ConversaciónEnInglés", "Jerga", "Modismo", "InglésDeDramaAmericano"]
 ---
 

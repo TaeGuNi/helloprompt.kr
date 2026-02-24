@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (Japanese)"
-description: "分散システムを堅牢にするペトリネットとLLMの融合"
+title: " \"LLMs in Distributed Apps (Japanese)\""
+description: " \"分散システムを堅牢にするペトリネットとLLMの融合\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

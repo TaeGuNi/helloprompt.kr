@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Je Veux l'Augmenter ! Jeu de Rôle de Simulation de 'Négociation Salariale'"
+title: " \"Je Veux l'Augmenter ! Jeu de Rôle de Simulation de 'Négociation Salariale'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Simulez une situation de négociation salariale tendue avec un responsable RH virtuel pour affûter vos arguments et maximiser votre augmentation."
+description: " \"Simulez une situation de négociation salariale tendue avec un responsable RH virtuel pour affûter vos arguments et maximiser votre augmentation.\""
 tags:
   [
     "NégociationSalariale",

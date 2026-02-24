@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calcolatore Fondo Pensione: Qual è il Mio Punteggio di Preparazione alla Pensione?"
+title: " \"Calcolatore Fondo Pensione: Qual è il Mio Punteggio di Preparazione alla Pensione?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Elimina la paura del futuro. Calcola con precisione il fondo pensione necessario e quanto devi risparmiare ogni mese."
+description: " \"Elimina la paura del futuro. Calcola con precisione il fondo pensione necessario e quanto devi risparmiare ogni mese.\""
 tags: ["Pensione", "PrepVecchiaia", "PianificazioneFinanziaria", "Investimenti"]
 ---
 

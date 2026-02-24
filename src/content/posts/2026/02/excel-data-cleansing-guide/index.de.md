@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Unordentliche Excel-Daten sauber vorverarbeiten"
+title: " \"Unordentliche Excel-Daten sauber vorverarbeiten\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Erfahren Sie, wie Sie unordentliche Excel-Daten effizient bereinigen, Adressen trennen und Datumsformate mit KI vereinheitlichen."
+description: " \"Erfahren Sie, wie Sie unordentliche Excel-Daten effizient bereinigen, Adressen trennen und Datumsformate mit KI vereinheitlichen.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creando un Esquema de Propuesta Irresistible"
+title: " \"Creando un Esquema de Propuesta Irresistible\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Crea una narrativa de propuesta irresistible que persuada a tus clientes."
+description: " \"Crea una narrativa de propuesta irresistible que persuada a tus clientes.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Aufbau einer persönlichen KI-Infrastruktur: Warum Sie Ihren eigenen KI-Stack besitzen sollten"
+title: " \"Aufbau einer persönlichen KI-Infrastruktur: Warum Sie Ihren eigenen KI-Stack besitzen sollten\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Erfahren Sie, wie Sie eine persönliche KI-Infrastruktur aufbauen, um Freiheit bei Datenschutz und Anpassung zu erlangen und sich von der SaaS-Abhängigkeit zu lösen."
+description: " \"Erfahren Sie, wie Sie eine persönliche KI-Infrastruktur aufbauen, um Freiheit bei Datenschutz und Anpassung zu erlangen und sich von der SaaS-Abhängigkeit zu lösen.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

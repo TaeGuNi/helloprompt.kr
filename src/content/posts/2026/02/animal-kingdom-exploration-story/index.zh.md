@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "动物王国探险：与大自然成为朋友的故事"
+title: " \"动物王国探险：与大自然成为朋友的故事\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "捕捉生态知识与想象力：动物朋友们的奇妙冒险"
+description: " \"捕捉生态知识与想象力：动物朋友们的奇妙冒险\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

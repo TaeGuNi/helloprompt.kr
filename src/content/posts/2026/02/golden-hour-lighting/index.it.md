@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso dell'Illuminazione 'Ora D'oro', il Momento Più Bello"
+title: " \"Uso dell'Illuminazione 'Ora D'oro', il Momento Più Bello\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Applica l'Ora d'Oro, il trucco infallibile per generare immagini calde ed emozionanti con l'IA."
+description: " \"Applica l'Ora d'Oro, il trucco infallibile per generare immagini calde ed emozionanti con l'IA.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Illuminazione"]
 ---

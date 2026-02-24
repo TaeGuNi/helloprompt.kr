@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatisierung wiederkehrender Excel-Plackerei mit Makro (VBA)"
+title: " \"Automatisierung wiederkehrender Excel-Plackerei mit Makro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Sie müssen nicht programmieren können. Ein magischer Prompt, der VBA-Code generiert, sobald Sie Ihr Excel-Problem beschreiben."
+description: " \"Sie müssen nicht programmieren können. Ein magischer Prompt, der VBA-Code generiert, sobald Sie Ihr Excel-Problem beschreiben.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

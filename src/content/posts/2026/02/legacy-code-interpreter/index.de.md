@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interpretation von Geheimtext (Legacy-Code), der vom Aussteiger hinterlassen wurde"
+title: " \"Interpretation von Geheimtext (Legacy-Code), der vom Aussteiger hinterlassen wurde\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, mit dem KI komplexen Legacy-Code ohne Dokumentation oder Kommentare Zeile für Zeile analysiert und leicht verständlich erklärt."
+description: " \"Ein Prompt, mit dem KI komplexen Legacy-Code ohne Dokumentation oder Kommentare Zeile für Zeile analysiert und leicht verständlich erklärt.\""
 tags: ["Legacy", "Code-Analyse", "Wartung", "Übergabe"]
 ---
 

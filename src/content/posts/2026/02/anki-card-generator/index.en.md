@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instead of Wrist-Hurting Copying: Memorization Card Auto Generator"
+title: " \"Instead of Wrist-Hurting Copying: Memorization Card Auto Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "StudyMethod/Self-Development"
-description: "A prompt that instantly converts extensive texts and lecture notes into ready-to-import flashcard (Q&A) pairs for Anki, Quizlet, and more."
+description: " \"A prompt that instantly converts extensive texts and lecture notes into ready-to-import flashcard (Q&A) pairs for Anki, Quizlet, and more.\""
 tags: ["Memorization", "Flashcard", "Anki", "Quizlet"]
 ---
 

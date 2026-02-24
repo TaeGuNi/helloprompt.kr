@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Benennung einzigartiger Region/Stadt in der Fantasiewelt"
+title: " \"Benennung einzigartiger Region/Stadt in der Fantasiewelt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Vom Elfenwald bis zur Zwergenmine: Benennen Sie Orte und Städte, die perfekt in Ihre Fantasy-Welt passen."
+description: " \"Vom Elfenwald bis zur Zwergenmine: Benennen Sie Orte und Städte, die perfekt in Ihre Fantasy-Welt passen.\""
 tags: ["Benennung", "Fantasie", "Roman", "TRPG", "Universum"]
 ---
 

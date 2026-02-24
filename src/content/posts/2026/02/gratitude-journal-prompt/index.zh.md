@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "每天 5 分钟心理护理，AI 感谢日记及回顾提示词"
+title: " \"每天 5 分钟心理护理，AI 感谢日记及回顾提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "不再面对空白屏幕发呆。只需回答 AI 提出的几个问题，你的专属心灵治愈之旅就此开始。"
+description: " \"不再面对空白屏幕发呆。只需回答 AI 提出的几个问题，你的专属心灵治愈之旅就此开始。\""
 tags: ["日记", "回顾", "感谢日记", "心理护理"]
 ---
 

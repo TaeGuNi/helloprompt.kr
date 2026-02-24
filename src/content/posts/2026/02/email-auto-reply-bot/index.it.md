@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "영어 이메일 자동 회신 봇: Zapier + GPT로 1초 만에 답장하기"
+title: " \"영어 이메일 자동 회신 봇: Zapier + GPT로 1초 만에 답장하기\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "업무 자동화"
-description: "Ricevi troppe email in inglese? Fai leggere e preparare le bozze di risposta all'IA prima ancora di arrivare in ufficio. Ecco come configurare il tuo assistente personale 24/7 senza scrivere una riga di codice."
+description: " \"Ricevi troppe email in inglese? Fai leggere e preparare le bozze di risposta all'IA prima ancora di arrivare in ufficio. Ecco come configurare il tuo assistente personale 24/7 senza scrivere una riga di codice.\""
 tags: ["이메일", "자동화", "Zapier", "ChatGPT", "영어"]
 ---
 

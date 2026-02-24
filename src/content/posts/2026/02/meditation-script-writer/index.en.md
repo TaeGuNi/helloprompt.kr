@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minutes Brain Rest, AI Meditation and Mindfulness Script Writing"
+title: " \"5 Minutes Brain Rest, AI Meditation and Mindfulness Script Writing\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Generate a customized meditation guide script tailored to your current situation and emotional state."
+description: " \"Generate a customized meditation guide script tailored to your current situation and emotional state.\""
 tags: ["Meditation", "Mindfulness", "Stress", "Rest"]
 ---
 

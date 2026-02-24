@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "AI栄養士プロンプトを使って、毎日の献立の悩みと食費を劇的に削減する1週間の自動献立＆買い物リスト作成術。"
+description: " \"AI栄養士プロンプトを使って、毎日の献立の悩みと食費を劇的に削減する1週間の自動献立＆買い物リスト作成術。\""
 tags: ["태그1", "태그2"]
 ---
 

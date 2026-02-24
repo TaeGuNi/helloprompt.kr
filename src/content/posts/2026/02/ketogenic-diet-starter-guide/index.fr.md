@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Démarrage du Régime Cétogène : Un Départ Parfait avec l'IA"
+title: " \"Guide de Démarrage du Régime Cétogène : Un Départ Parfait avec l'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Un guide pratique pour démarrer le régime cétogène (LCHF) facilement et en toute sécurité, sans calculs de macros complexes, grâce à l'IA."
+description: " \"Un guide pratique pour démarrer le régime cétogène (LCHF) facilement et en toute sécurité, sans calculs de macros complexes, grâce à l'IA.\""
 tags: ["Cétogène", "LCHF", "Régime", "Santé", "ChatGPT"]
 ---
 

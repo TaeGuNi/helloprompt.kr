@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minutes de Repos Cérébral, Écriture de Script de Méditation et Pleine Conscience par IA"
+title: " \"5 Minutes de Repos Cérébral, Écriture de Script de Méditation et Pleine Conscience par IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Créez votre propre script de guide de méditation, parfaitement adapté à votre situation et à vos émotions actuelles."
+description: " \"Créez votre propre script de guide de méditation, parfaitement adapté à votre situation et à vos émotions actuelles.\""
 tags: ["Méditation", "Pleine Conscience", "Stress", "Repos"]
 ---
 

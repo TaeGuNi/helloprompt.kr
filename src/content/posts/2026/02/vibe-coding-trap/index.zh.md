@@ -1,6 +1,6 @@
 ---
-title: "바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다"
-description: "“氛围编程 (Vibe Coding)” 就像赌博成瘾。本文将介绍在过度依赖 AI 的时代，如何真正提升软件工程师硬实力的 3 种核心方法。"
+title: " \"바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다\""
+description: " \"“氛围编程 (Vibe Coding)” 就像赌博成瘾。本文将介绍在过度依赖 AI 的时代，如何真正提升软件工程师硬实力的 3 种核心方法。\""
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:

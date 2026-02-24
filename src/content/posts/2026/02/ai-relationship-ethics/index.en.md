@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: "Exploring the ethical implications of emotional bonds with AI chatbots and the rise of deepfake companions."
+description: " \"Exploring the ethical implications of emotional bonds with AI chatbots and the rise of deepfake companions.\""
 image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
@@ -8,7 +8,7 @@ tags:
   - Ethics
   - Society
   - Relationships
-title: "The Ethics of AI Relationships: Chatbots, Deepfakes, and Dilemmas"
+title: " \"The Ethics of AI Relationships: Chatbots, Deepfakes, and Dilemmas\""
 ---
 
 # 📝 The Ethics of AI Relationships: Chatbots, Deepfakes, and Dilemmas

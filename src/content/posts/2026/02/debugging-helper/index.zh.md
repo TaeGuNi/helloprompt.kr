@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bug 猎人: 1 分钟抓错误的调试提示词"
+title: " \"Bug 猎人: 1 分钟抓错误的调试提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编程/IT"
-description: "只需提供报错信息和相关代码，即可精准定位 Bug 根源并生成修复方案的高效调试提示词。"
+description: " \"只需提供报错信息和相关代码，即可精准定位 Bug 根源并生成修复方案的高效调试提示词。\""
 tags: ["调试", "错误解决", "开发者", "生产力"]
 ---
 

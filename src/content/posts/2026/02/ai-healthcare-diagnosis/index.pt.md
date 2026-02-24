@@ -1,6 +1,6 @@
 ---
-title: "O médico de IA entra na clínica"
-description: "O presente da IA na medicina: propondo planos de tratamento com segurança e eficácia."
+title: " \"O médico de IA entra na clínica\""
+description: " \"O presente da IA na medicina: propondo planos de tratamento com segurança e eficácia.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

@@ -1,6 +1,6 @@
 ---
-title: "Prompt Chaining: La Fine del Prompt Singolo"
-description: "I problemi complessi non si risolvono in una volta sola. Il prompt chaining e i flussi di lavoro agentici sono diventati lo standard nel 2026."
+title: " \"Prompt Chaining: La Fine del Prompt Singolo\""
+description: " \"I problemi complessi non si risolvono in una volta sola. Il prompt chaining e i flussi di lavoro agentici sono diventati lo standard nel 2026.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]

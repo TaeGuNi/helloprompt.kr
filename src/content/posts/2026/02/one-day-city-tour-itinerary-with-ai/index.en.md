@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "One-Day City Tour Itinerary with AI: Perfect Planning in 1 Minute"
+title: " \"One-Day City Tour Itinerary with AI: Perfect Planning in 1 Minute\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Enjoy a fulfilling day like a local! Let AI design the optimal one-day travel plan with zero wasted movement."
+description: " \"Enjoy a fulfilling day like a local! Let AI design the optimal one-day travel plan with zero wasted movement.\""
 tags: ["Travel Plan", "One Day Trip", "City Tour", "GPT Prompt"]
 ---
 

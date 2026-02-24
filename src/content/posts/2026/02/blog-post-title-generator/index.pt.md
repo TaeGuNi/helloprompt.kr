@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Títulos de Postagem de Blog Que Chama Cliques"
+title: " \"Gerador de Títulos de Postagem de Blog Que Chama Cliques\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Descubra como criar títulos magnéticos que dobram as visualizações do seu blog usando IA, apenas inserindo palavras-chave."
+description: " \"Descubra como criar títulos magnéticos que dobram as visualizações do seu blog usando IA, apenas inserindo palavras-chave.\""
 tags: ["Blog", "Marketing de Conteúdo", "SEO", "Copywriting"]
 ---
 

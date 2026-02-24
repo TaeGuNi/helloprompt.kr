@@ -1,6 +1,6 @@
 ---
-title: "The Rise of Algorithm Free Media (Traditional Chinese)"
-description: "使用者對於無演算法干擾的「安靜」媒體消費需求正日益增長"
+title: " \"The Rise of Algorithm Free Media (Traditional Chinese)\""
+description: " \"使用者對於無演算法干擾的「安靜」媒體消費需求正日益增長\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quietmedia/800/600"
 tags: ["AI", "Tech", "newpipe-algorithm-free"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Écrire du Code de Test, Un Prompt Qui Finit en 5 Minutes"
+title: " \"Écrire du Code de Test, Un Prompt Qui Finit en 5 Minutes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Confiez l'écriture ennuyeuse et chronophage de vos tests unitaires à l'IA. Visez les 100% de couverture de code en un clin d'œil !"
+description: " \"Confiez l'écriture ennuyeuse et chronophage de vos tests unitaires à l'IA. Visez les 100% de couverture de code en un clin d'œil !\""
 tags: ["Code de Test", "TDD", "Jest", "PyTest", "QA"]
 ---
 

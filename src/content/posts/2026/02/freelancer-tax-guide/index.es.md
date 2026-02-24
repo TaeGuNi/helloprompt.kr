@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Ahorro de Impuestos para Freelancers: Duplicando Reembolso de Impuestos"
+title: " \"Guía de Ahorro de Impuestos para Freelancers: Duplicando Reembolso de Impuestos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Guía completa para optimizar deducciones y gastos para freelancers y pluriempleados (N-jobbers) que buscan maximizar su devolución en la declaración de la renta de mayo."
+description: " \"Guía completa para optimizar deducciones y gastos para freelancers y pluriempleados (N-jobbers) que buscan maximizar su devolución en la declaración de la renta de mayo.\""
 tags: ["Impuesto", "AhorroImpuestos", "Freelancer", "ImpuestoRentaIntegral"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "CrewAI: AI 팀원들에게 업무 지시하는 법 (프로세스 자동화)"
+title: " \"CrewAI: AI 팀원들에게 업무 지시하는 법 (프로세스 자동화)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "순차적인 업무 처리에 강한 CrewAI. 리서치부터 기사 작성, 교정까지 이어지는 블로그 발행 자동화 파이프라인 구축 방법을 알아봅니다."
+description: " \"순차적인 업무 처리에 강한 CrewAI. 리서치부터 기사 작성, 교정까지 이어지는 블로그 발행 자동화 파이프라인 구축 방법을 알아봅니다.\""
 tags: ["CrewAI", "자동화", "에이전트", "워크플로우", "파이썬"]
 ---
 

@@ -1,14 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: Nell'era degli agenti autonomi come GitHub Copilot X2, scopri come evolverti da sviluppatore che scrive codice a 'AI Manager' con guide pratiche e prompt specifici.
+description: "Nell'era degli agenti autonomi come GitHub Copilot X2, scopri come evolverti da sviluppatore che scrive codice a 'AI Manager' con guide pratiche e prompt specifici."
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략"
+title: " \"AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략\""
 ---
 
 # 📝 Agenti di Coding AI: Dal 'Digitare' al 'Risolvere' – Strategie di Sopravvivenza per Sviluppatori nel 2026

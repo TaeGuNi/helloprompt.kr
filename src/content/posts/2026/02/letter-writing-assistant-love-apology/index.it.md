@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Servizio Ghostwriting Lettere: Da Confessione Cotta a Rifiuto Educato"
+title: " \"Servizio Ghostwriting Lettere: Da Confessione Cotta a Rifiuto Educato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Esprimi per iscritto ciò che è difficile dire a parole. L'IA scriverà la lettera perfetta, adattandosi alla situazione e al destinatario."
+description: " \"Esprimi per iscritto ciò che è difficile dire a parole. L'IA scriverà la lettera perfetta, adattandosi alla situazione e al destinatario.\""
 tags: ["Scrittura", "Lettera", "Amore", "Scusa", "Rifiuto"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자"
+title: " \"Regex(정규표현식) 생성기: 암호문 같은 정규식, 말로 짜자\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "이메일, 전화번호, 특수문자 검증... 복잡하고 난해한 정규표현식을 더 이상 외우지 마세요. AI에게 자연어로 설명하면 완벽한 코드가 나옵니다."
+description: " \"이메일, 전화번호, 특수문자 검증... 복잡하고 난해한 정규표현식을 더 이상 외우지 마세요. AI에게 자연어로 설명하면 완벽한 코드가 나옵니다.\""
 tags: ["정규표현식", "Regex", "코딩", "ChatGPT", "유효성검사"]
 ---
 

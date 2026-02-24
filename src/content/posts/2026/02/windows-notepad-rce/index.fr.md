@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의"
+title: " \"윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안"
-description: "CVE-2026-20841 : le simple fait d'ouvrir le Bloc-notes peut-il vous faire pirater ?"
+description: " \"CVE-2026-20841 : le simple fait d'ouvrir le Bloc-notes peut-il vous faire pirater ?\""
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

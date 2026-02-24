@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Salvador de Abandonar Matemáticas: Explicador Amigable de Problemas Matemáticos"
+title: " \"Salvador de Abandonar Matemáticas: Explicador Amigable de Problemas Matemáticos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemáticas/Ciencias"
-description: "Un prompt diseñado para actuar como tu tutor personal, explicando paso a paso el proceso de resolución matemática en lugar de darte solo la respuesta final."
+description: " \"Un prompt diseñado para actuar como tu tutor personal, explicando paso a paso el proceso de resolución matemática en lugar de darte solo la respuesta final.\""
 tags: ["EstudioMatemáticas", "ResoluciónProblemas", "Prompt", "Tutoría"]
 ---
 

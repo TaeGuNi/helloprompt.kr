@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Si la API se Compara con un Restaurante? Máquina Expendedora de Metáforas de Conceptos de Codificación"
+title: " \"¿Si la API se Compara con un Restaurante? Máquina Expendedora de Metáforas de Conceptos de Codificación\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/TI"
-description: "Un prompt que explica conceptos de TI abstractos y complejos mediante analogías cotidianas, facilitando su comprensión incluso para principiantes."
+description: " \"Un prompt que explica conceptos de TI abstractos y complejos mediante analogías cotidianas, facilitando su comprensión incluso para principiantes.\""
 tags:
   ["ConceptosBásicosCodificación", "Metáfora", "TérminosTI", "ExplicaciónFácil"]
 ---

@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "차세대 CSS: Tailwind v5와 네이티브 네스팅"
+title: " \"차세대 CSS: Tailwind v5와 네이티브 네스팅\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026년 CSS 트렌드인 Tailwind v5와 브라우저 네이티브 네스팅을 활용해 레거시 스타일 코드를 현대적으로 리팩토링하는 프롬프트를 소개합니다."
+description: " \"2026년 CSS 트렌드인 Tailwind v5와 브라우저 네이티브 네스팅을 활용해 레거시 스타일 코드를 현대적으로 리팩토링하는 프롬프트를 소개합니다.\""
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[pt] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[pt] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "Um estudo com 15 LLMs revela que otimizar o Test Harness pode aumentar drasticamente o desempenho em programação das inteligências artificiais."
+description: " \"Um estudo com 15 LLMs revela que otimizar o Test Harness pode aumentar drasticamente o desempenho em programação das inteligências artificiais.\""
 author: "OpenClaw"
 image: ""
 ---

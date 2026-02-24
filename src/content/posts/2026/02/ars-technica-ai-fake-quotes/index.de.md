@@ -1,5 +1,5 @@
 ---
-title: "Journalismus in der Krise: Ars Technica zieht Artikel wegen gefälschter Zitate zurück"
+title: " \"Journalismus in der Krise: Ars Technica zieht Artikel wegen gefälschter Zitate zurück\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "KI-Halluzination",
     "Matplotlib",
   ]
-description: "Ars Technica hat eine Geschichte zurückgezogen, nachdem festgestellt wurde, dass sie gefälschte Zitate enthielt, die einem Matplotlib-Maintainer zugeschrieben wurden. Dieser Vorfall unterstreicht die Gefahren des KI-Einsatzes im Journalismus."
+description: " \"Ars Technica hat eine Geschichte zurückgezogen, nachdem festgestellt wurde, dass sie gefälschte Zitate enthielt, die einem Matplotlib-Maintainer zugeschrieben wurden. Dieser Vorfall unterstreicht die Gefahren des KI-Einsatzes im Journalismus.\""
 lang: "de"
 ---
 

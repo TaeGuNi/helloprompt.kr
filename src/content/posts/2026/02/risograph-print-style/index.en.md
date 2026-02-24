@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vintage Print Vibe 'Risograph Print' Style"
+title: " \"Vintage Print Vibe 'Risograph Print' Style\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A Risograph print style prompt that captivates with its unique halftones and intentional color misalignment."
+description: " \"A Risograph print style prompt that captivates with its unique halftones and intentional color misalignment.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 

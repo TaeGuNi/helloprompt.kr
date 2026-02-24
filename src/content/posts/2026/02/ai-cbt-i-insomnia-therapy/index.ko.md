@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트"
+title: " \"약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.153Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
 category: "건강 & 웰니스"
-description: "수면제 없이 불면증을 극복하는 가장 확실한 방법. AI를 나만의 수면 클리닉 전문의로 활용해 CBT-I(인지행동치료)를 실천하는 프롬프트를 만나보세요."
+description: " \"수면제 없이 불면증을 극복하는 가장 확실한 방법. AI를 나만의 수면 클리닉 전문의로 활용해 CBT-I(인지행동치료)를 실천하는 프롬프트를 만나보세요.\""
 tags: ["불면증", "CBT-I", "수면치료", "멘탈케어", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Adicionando Magnificência 'Ângulo Baixo' (Visão Olho de Minhoca)"
+title: " \"Adicionando Magnificência 'Ângulo Baixo' (Visão Olho de Minhoca)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de ângulo baixo que enfatiza dignidade e um tamanho avassalador ao capturar o assunto de baixo para cima."
+description: " \"Prompt de ângulo baixo que enfatiza dignidade e um tamanho avassalador ao capturar o assunto de baixo para cima.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "Composição"]
 ---

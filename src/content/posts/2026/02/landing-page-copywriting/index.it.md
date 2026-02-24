@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식"
+title: " \"랜딩 페이지 카피라이팅: 전환율 20% 올리는 '후킹' 문구 공식\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Perché i clienti abbandonano subito il tuo sito? Dalla Hero Section alla CTA, scopri le tecniche di copywriting psicologico per farli scorrere e convertire."
+description: " \"Perché i clienti abbandonano subito il tuo sito? Dalla Hero Section alla CTA, scopri le tecniche di copywriting psicologico per farli scorrere e convertire.\""
 tags: ["랜딩페이지", "카피라이팅", "전환율", "마케팅", "상세페이지"]
 ---
 

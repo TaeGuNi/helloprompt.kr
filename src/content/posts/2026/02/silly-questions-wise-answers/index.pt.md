@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Respondendo Perguntas Estúpidas Sabiamente: 'Por Que Formigas São Gordinhas?' (Gerador de Respostas Sábias)"
+title: " \"Respondendo Perguntas Estúpidas Sabiamente: 'Por Que Formigas São Gordinhas?' (Gerador de Respostas Sábias)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Jogue uma pergunta boba. A IA surpreende com uma resposta filosófica ou científica capaz de impressionar até Sócrates."
+description: " \"Jogue uma pergunta boba. A IA surpreende com uma resposta filosófica ou científica capaz de impressionar até Sócrates.\""
 tags: ["Humor", "Curiosidades", "Filosofia", "Ciência", "Criatividade"]
 ---
 

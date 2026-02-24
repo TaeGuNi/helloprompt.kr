@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "让看不见的概念可见: 概念视觉化助手"
+title: " \"让看不见的概念可见: 概念视觉化助手\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "数学/科学"
-description: "使用文本图表 (ASCII Art) 和生动的比喻，将抽象晦涩的科学原理或数学概念瞬间具象化的终极提示词。"
+description: " \"使用文本图表 (ASCII Art) 和生动的比喻，将抽象晦涩的科学原理或数学概念瞬间具象化的终极提示词。\""
 tags: ["科学学习", "视觉化", "理解力", "ASCII艺术"]
 ---
 

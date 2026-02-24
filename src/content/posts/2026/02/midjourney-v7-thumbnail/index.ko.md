@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미드저니 v7 실전: 똥손도 클릭 부르는 '블로그 썸네일' 공식"
+title: " \"미드저니 v7 실전: 똥손도 클릭 부르는 '블로그 썸네일' 공식\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "AI 아트/디자인"
-description: "디자이너 없이도 글의 클릭률(CTR)을 200% 높이는 미드저니 썸네일 프롬프트 치트키."
+description: " \"디자이너 없이도 글의 클릭률(CTR)을 200% 높이는 미드저니 썸네일 프롬프트 치트키.\""
 tags: ["미드저니", "디자인", "썸네일", "블로그", "AI그림"]
 ---
 

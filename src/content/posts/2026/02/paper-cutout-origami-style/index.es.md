@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Textura de Papel Estilo 'Recorte de Papel & Origami'"
+title: " \"Textura de Papel Estilo 'Recorte de Papel & Origami'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de estilo Recorte de Papel y Origami que crea imágenes tridimensionales con texturas de capas de papel superpuestas."
+description: " \"Prompt de estilo Recorte de Papel y Origami que crea imágenes tridimensionales con texturas de capas de papel superpuestas.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Artesanía"]
 ---

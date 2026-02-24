@@ -1,6 +1,6 @@
 ---
-title: "微前端架构：扩展前端开发"
-description: "深入探讨微前端如何在2026年改变大规模Web应用开发。"
+title: " \"微前端架构：扩展前端开发\""
+description: " \"深入探讨微前端如何在2026年改变大规模Web应用开发。\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

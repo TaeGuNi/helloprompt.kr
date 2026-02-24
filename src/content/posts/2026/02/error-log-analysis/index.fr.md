@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Journal d'Erreur Inconnu, Analysez la Cause en 10 Secondes"
+title: " \"Journal d'Erreur Inconnu, Analysez la Cause en 10 Secondes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Développement"
-description: "Un prompt de débogage surpuissant qui isole la cause racine parmi des milliers de lignes de journaux d'erreurs et propose des solutions."
+description: " \"Un prompt de débogage surpuissant qui isole la cause racine parmi des milliers de lignes de journaux d'erreurs et propose des solutions.\""
 tags: ["Débogage", "Journal d'Erreur", "Dépannage"]
 ---
 

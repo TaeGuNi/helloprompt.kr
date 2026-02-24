@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Cinematic Lighting' Prompt für filmähnliche Atmosphäre"
+title: " \"'Cinematic Lighting' Prompt für filmähnliche Atmosphäre\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Entdecken Sie das Geheimnis von Beleuchtungs-Prompts, die gewöhnliche KI-Bilder in atemberaubende Hollywood-Filmszenen verwandeln."
+description: " \"Entdecken Sie das Geheimnis von Beleuchtungs-Prompts, die gewöhnliche KI-Bilder in atemberaubende Hollywood-Filmszenen verwandeln.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Beleuchtung", "Cinematic"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Suis-je un Pigeon ? Agent de Recherche & Analyse de 'Taux du Marché'"
+title: " \"Suis-je un Pigeon ? Agent de Recherche & Analyse de 'Taux du Marché'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Comparez et analysez la fourchette salariale moyenne de votre profession selon vos années d'expérience en vous basant sur les données du marché pour obtenir des arguments de négociation objectifs."
+description: " \"Comparez et analysez la fourchette salariale moyenne de votre profession selon vos années d'expérience en vous basant sur les données du marché pour obtenir des arguments de négociation objectifs.\""
 tags:
   [
     "AnalyseSalariale",

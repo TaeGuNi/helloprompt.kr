@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "焦虑着地技术：5-4-3-2-1方法"
+title: " \"焦虑着地技术：5-4-3-2-1方法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "当突如其来的焦虑或恐慌袭来时，这份由 AI 引导的 5-4-3-2-1 着陆技术 (Grounding) 提示词能帮您瞬间找回现实感，迅速平复内心。"
+description: " \"当突如其来的焦虑或恐慌袭来时，这份由 AI 引导的 5-4-3-2-1 着陆技术 (Grounding) 提示词能帮您瞬间找回现实感，迅速平复内心。\""
 tags: ["焦虑", "恐慌症", "着地", "心理护理", "心理稳定"]
 ---
 

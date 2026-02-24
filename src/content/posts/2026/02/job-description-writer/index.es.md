@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escribiendo Descripciones de Puestos (JD) Que Atraigan Candidatos"
+title: " \"Escribiendo Descripciones de Puestos (JD) Que Atraigan Candidatos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Cómo redactar descripciones de puestos (JD) irresistibles que atraigan al mejor talento."
+description: " \"Cómo redactar descripciones de puestos (JD) irresistibles que atraigan al mejor talento.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

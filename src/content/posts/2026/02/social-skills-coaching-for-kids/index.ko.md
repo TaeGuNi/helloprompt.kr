@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "친구가 나랑 안 놀아줘: 관계와 거절 설명하기"
+title: " \"친구가 나랑 안 놀아줘: 관계와 거절 설명하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
 category: "육아 & 교육"
-description: "친구 관계에서 거절당해 상처받은 아이를 돕는 부모의 맞춤형 사회성 코칭 프롬프트"
+description: " \"친구 관계에서 거절당해 상처받은 아이를 돕는 부모의 맞춤형 사회성 코칭 프롬프트\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

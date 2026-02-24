@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: Perché il tuo 'Secondo Cervello' ha bisogno di molto più dei soli vettori"
-description: "La ricerca vettoriale si limita a trovare somiglianze tra le parole. Ecco la guida definitiva ai prompt per costruire un GraphRAG personale con Neo4j e LangChain, collegando le intuizioni nascoste nelle tue note di Obsidian."
+title: " \"GraphRAG: Perché il tuo 'Secondo Cervello' ha bisogno di molto più dei soli vettori\""
+description: " \"La ricerca vettoriale si limita a trovare somiglianze tra le parole. Ecco la guida definitiva ai prompt per costruire un GraphRAG personale con Neo4j e LangChain, collegando le intuizioni nascoste nelle tue note di Obsidian.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

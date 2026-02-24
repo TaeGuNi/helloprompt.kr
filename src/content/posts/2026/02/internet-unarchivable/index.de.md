@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "Aufgrund der Zunahme dynamischer Inhalte, Single Page Applications (SPAs) und geschlossener Ökosysteme wird es immer schwieriger, die Geschichte des offenen Webs zu bewahren. Wir stellen einen maßgeschneiderten Prompt vor, der das verschwindende Web dauerhaft für die Ewigkeit festhält."
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"Aufgrund der Zunahme dynamischer Inhalte, Single Page Applications (SPAs) und geschlossener Ökosysteme wird es immer schwieriger, die Geschichte des offenen Webs zu bewahren. Wir stellen einen maßgeschneiderten Prompt vor, der das verschwindende Web dauerhaft für die Ewigkeit festhält.\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ Werbung: Klicken Sie jetzt, um Rabatt auf Ihr VPN zu erhalten! Wer nicht klickt,
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "Web Archivist"
 date: "2026-02-15"
 tags: ["Dynamische Inhalte", "SPA", "Geschlossene Plattformen"]

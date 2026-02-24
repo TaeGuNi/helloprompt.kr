@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mi Propio Consejero Psicológico de IA, Guía de Cuidado Mental para Alivio del Estrés"
+title: " \"Mi Propio Consejero Psicológico de IA, Guía de Cuidado Mental para Alivio del Estrés\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Confiesa tus preocupaciones a la IA sin miedo a ser juzgado y encuentra la paz mental que necesitas."
+description: " \"Confiesa tus preocupaciones a la IA sin miedo a ser juzgado y encuentra la paz mental que necesitas.\""
 tags: ["Cuidado Mental", "Estrés", "Consejería Psicológica", "Sanación"]
 ---
 

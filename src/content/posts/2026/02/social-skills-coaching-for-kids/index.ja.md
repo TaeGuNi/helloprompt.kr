@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "友達が私と遊んでくれない：関係と拒絶を説明する"
+title: " \"友達が私と遊んでくれない：関係と拒絶を説明する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "友達関係で傷ついた子供のための社会性コーチング"
+description: " \"友達関係で傷ついた子供のための社会性コーチング\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

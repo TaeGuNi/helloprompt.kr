@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "兄弟姉妹の喧嘩仲裁：ソロモンの知恵プロンプト"
+title: " \"兄弟姉妹の喧嘩仲裁：ソロモンの知恵プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "毎日喧嘩する子供たちを公平に仲直りさせ、絆を深めるための魔法のAIプロンプト"
+description: " \"毎日喧嘩する子供たちを公平に仲直りさせ、絆を深めるための魔法のAIプロンプト\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

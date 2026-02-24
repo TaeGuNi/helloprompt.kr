@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Spanish)"
-description: "Pedir a los modelos de IA que 'piensen paso a paso' aumenta drásticamente su rendimiento en problemas de lógica y matemáticas."
+title: " \"Chain of Thought Reasoning (Spanish)\""
+description: " \"Pedir a los modelos de IA que 'piensen paso a paso' aumenta drásticamente su rendimiento en problemas de lógica y matemáticas.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

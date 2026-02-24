@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cacciatore di Bug: Prompt di Debugging per Catturare Errori in 1 Minuto"
+title: " \"Cacciatore di Bug: Prompt di Debugging per Catturare Errori in 1 Minuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "Un prompt infallibile che individua la causa del bug e genera la soluzione (Fix) semplicemente fornendo il messaggio di errore e il codice."
+description: " \"Un prompt infallibile che individua la causa del bug e genera la soluzione (Fix) semplicemente fornendo il messaggio di errore e il codice.\""
 tags: ["Debugging", "RisoluzioneErrori", "Sviluppatore", "Produttività"]
 ---
 

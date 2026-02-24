@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt per Confronto Offerte di Lavoro e Strategia di Controfferta"
+title: " \"Prompt per Confronto Offerte di Lavoro e Strategia di Controfferta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carriera e Cambio Lavoro"
-description: "Confronta strategicamente più offerte di lavoro e formula una controfferta vincente per massimizzare il tuo stipendio di partenza."
+description: " \"Confronta strategicamente più offerte di lavoro e formula una controfferta vincente per massimizzare il tuo stipendio di partenza.\""
 tags:
   [
     "Negoziazione Offerta",

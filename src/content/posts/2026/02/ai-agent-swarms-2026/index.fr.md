@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (French)"
-description: "La collaboration multi-agents est la nouvelle norme pour la résolution de problèmes complexes."
+title: " \"AI Agent Swarms (French)\""
+description: " \"La collaboration multi-agents est la nouvelle norme pour la résolution de problèmes complexes.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

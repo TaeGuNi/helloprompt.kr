@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn Profile Optimization Prompt: Attracting Headhunters"
+title: " \"LinkedIn Profile Optimization Prompt: Attracting Headhunters\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: "Increase your inbound job offers by 10x with a search-optimized Headline and a compelling, narrative-driven About section."
+description: " \"Increase your inbound job offers by 10x with a search-optimized Headline and a compelling, narrative-driven About section.\""
 tags: ["LinkedIn", "Profile Optimization", "Headhunting", "Personal Branding"]
 ---
 

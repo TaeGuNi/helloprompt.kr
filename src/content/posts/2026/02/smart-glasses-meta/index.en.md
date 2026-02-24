@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "Wearable AI is permeating daily life. Let's analyze the success factors behind Meta's smart glasses."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"Wearable AI is permeating daily life. Let's analyze the success factors behind Meta's smart glasses.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

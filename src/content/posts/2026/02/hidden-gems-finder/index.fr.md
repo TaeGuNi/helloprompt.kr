@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Partez Voyage Cliché ! Mes Propres Joyaux Cachés Trouvés par IA"
+title: " \"Partez Voyage Cliché ! Mes Propres Joyaux Cachés Trouvés par IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Fuyez la foule des touristes ! Découvrez comment utiliser l'IA pour dénicher des lieux secrets et préservés que vous seul connaîtrez."
+description: " \"Fuyez la foule des touristes ! Découvrez comment utiliser l'IA pour dénicher des lieux secrets et préservés que vous seul connaîtrez.\""
 tags: ["Voyage", "Joyaux Cachés", "Lieux Cachés", "Voyage Émotionnel"]
 ---
 

@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: L'era dei menu e dei pulsanti statici è finita. Scopri il concetto di 'Generative UI' (Interfaccia Utente Generativa) e i prompt di design che creano interfacce in tempo reale comprendendo l'intento dell'utente.
+description: "L'era dei menu e dei pulsanti statici è finita. Scopri il concetto di 'Generative UI' (Interfaccia Utente Generativa) e i prompt di design che creano interfacce in tempo reale comprendendo l'intento dell'utente."
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Adaptive Design
   - No-UI
   - UX Trends
-title: "생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래"
+title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래\""
 ---
 
 # 🎨 Generative UI: Il Futuro delle Interfacce Senza Clic

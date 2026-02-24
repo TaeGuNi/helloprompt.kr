@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我专属的 AI 心理咨询师，消除压力心理护理指南"
+title: " \"我专属的 AI 心理咨询师，消除压力心理护理指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "向 AI 倾诉那些难以启齿的烦恼，获取专业的心理疏导，找回内心的平静。"
+description: " \"向 AI 倾诉那些难以启齿的烦恼，获取专业的心理疏导，找回内心的平静。\""
 tags: ["心理护理", "压力", "心理咨询", "治愈"]
 ---
 

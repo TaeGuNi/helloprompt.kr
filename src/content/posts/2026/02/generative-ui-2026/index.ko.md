@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (Korean)"
-description: "사용자 의도에 따라 실시간으로 생성되고 적응하는 인터페이스가 기존의 정적인 메뉴를 대체하고 있습니다."
+title: " \"Generative UI Patterns (Korean)\""
+description: " \"사용자 의도에 따라 실시간으로 생성되고 적응하는 인터페이스가 기존의 정적인 메뉴를 대체하고 있습니다.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

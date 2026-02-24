@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erstellung eines KI-benutzerdefinierten Diät-Speiseplans ohne PT-Lehrer"
+title: " \"Erstellung eines KI-benutzerdefinierten Diät-Speiseplans ohne PT-Lehrer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Erstellen Sie in nur 1 Minute einen perfekten 7-Tage-Ernährungsplan unter Berücksichtigung Ihres Körpertyps, Zielgewichts und Ihrer bevorzugten Lebensmittel."
+description: " \"Erstellen Sie in nur 1 Minute einen perfekten 7-Tage-Ernährungsplan unter Berücksichtigung Ihres Körpertyps, Zielgewichts und Ihrer bevorzugten Lebensmittel.\""
 tags: ["Diät", "Ernährungsmanagement", "Fitness", "Gesundheit"]
 ---
 

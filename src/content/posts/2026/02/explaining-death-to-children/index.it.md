@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Spiegare la Morte ai Bambini: Una Guida Affettuosa"
+title: " \"Spiegare la Morte ai Bambini: Una Guida Affettuosa\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Come spiegare la morte a un bambino in modo chiaro e confortante, aiutandolo ad affrontare il lutto con l'aiuto dell'intelligenza artificiale."
+description: " \"Come spiegare la morte a un bambino in modo chiaro e confortante, aiutandolo ad affrontare il lutto con l'aiuto dell'intelligenza artificiale.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

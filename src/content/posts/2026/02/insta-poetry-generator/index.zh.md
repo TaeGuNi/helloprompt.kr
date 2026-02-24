@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Shorts/Reels 用短诗 (Insta Poetry) 生成器"
+title: " \"Shorts/Reels 用短诗 (Insta Poetry) 生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "只需 10 秒，利用 AI 创作出能在社交媒体上引爆点赞的感性短诗 (Insta Poetry)。"
+description: " \"只需 10 秒，利用 AI 创作出能在社交媒体上引爆点赞的感性短诗 (Insta Poetry)。\""
 tags: ["Instagram", "诗", "感性文", "SNS", "内容"]
 ---
 

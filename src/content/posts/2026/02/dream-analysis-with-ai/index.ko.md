@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 간밤의 꿈, AI 해몽가에게 물어보기
+title: "간밤의 꿈, AI 해몽가에게 물어보기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI 활용
-description: 매일 아침 흐릿해지는 꿈의 기억, 프로이트와 융의 시선으로 선명하게 해석해주는 AI 프롬프트를 소개합니다.
+description: "매일 아침 흐릿해지는 꿈의 기억, 프로이트와 융의 시선으로 선명하게 해석해주는 AI 프롬프트를 소개합니다."
 tags: [AI, ChatGPT, Prompt, 꿈해몽, 자기발견]
 ---
 

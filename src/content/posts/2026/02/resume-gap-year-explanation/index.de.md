@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wie man Lückenjahr im Lebenslauf in 'Stärke' nicht Schwäche verwandelt"
+title: " \"Wie man Lückenjahr im Lebenslauf in 'Stärke' nicht Schwäche verwandelt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verwandeln Sie Lücken im Lebenslauf (Gap Year, Auszeiten, Reisen) mit KI in überzeugende Phasen der Selbstentwicklung und stärken Sie so Ihr Anschreiben und Vorstellungsgespräch."
+description: " \"Verwandeln Sie Lücken im Lebenslauf (Gap Year, Auszeiten, Reisen) mit KI in überzeugende Phasen der Selbstentwicklung und stärken Sie so Ihr Anschreiben und Vorstellungsgespräch.\""
 tags:
   [
     "Lückenjahr",

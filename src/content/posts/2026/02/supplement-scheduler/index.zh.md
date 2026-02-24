@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "药丸一大把？AI 定制营养剂组合及日程安排"
+title: " \"药丸一大把？AI 定制营养剂组合及日程安排\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "为您量身定制专属的营养补充剂方案，避免重复摄入，最大化吸收率，让每一粒营养都发挥最大价值。"
+description: " \"为您量身定制专属的营养补充剂方案，避免重复摄入，最大化吸收率，让每一粒营养都发挥最大价值。\""
 tags: ["营养剂", "健康功能食品", "日程安排", "健康"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gioco di Pulizia: La Magia di Trasformare il Riordinare in un Gioco Divertente"
+title: " \"Gioco di Pulizia: La Magia di Trasformare il Riordinare in un Gioco Divertente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Strategie di gamification per trasformare il riordino di una stanza disordinata in un gioco in soli 10 minuti."
+description: " \"Strategie di gamification per trasformare il riordino di una stanza disordinata in un gioco in soli 10 minuti.\""
 tags:
   [
     "Genitorialità",

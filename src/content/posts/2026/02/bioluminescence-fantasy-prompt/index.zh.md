@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "梦幻般的夜光世界 'Bioluminescence' 提示词"
+title: " \"梦幻般的夜光世界 'Bioluminescence' 提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "像阿凡达的潘多拉星球一样，描绘自体发光生命体与环境的方法。"
+description: " \"像阿凡达的潘多拉星球一样，描绘自体发光生命体与环境的方法。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 

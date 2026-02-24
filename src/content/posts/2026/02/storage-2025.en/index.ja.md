@@ -1,6 +1,6 @@
 ---
-title: "Backblaze Drive Stats 2025: The Reality of AI Storage"
-description: "膨大なAIデータセット時代において、ストレージの信頼性データを分析し最適なハードウェアを選定するためのプロンプト"
+title: " \"Backblaze Drive Stats 2025: The Reality of AI Storage\""
+description: " \"膨大なAIデータセット時代において、ストレージの信頼性データを分析し最適なハードウェアを選定するためのプロンプト\""
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

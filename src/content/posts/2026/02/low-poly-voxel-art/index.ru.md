@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Угловатое очарование Стиль 'Low Poly & Voxel Art'"
+title: " \"Угловатое очарование Стиль 'Low Poly & Voxel Art'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Генерация изображений"
-description: "Промпты для создания изображений в стиле Low Poly и Voxel Art: минимализм, геометрические формы и эстетика оригами."
+description: " \"Промпты для создания изображений в стиле Low Poly и Voxel Art: минимализм, геометрические формы и эстетика оригами.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Художественный стиль"]
 ---
 

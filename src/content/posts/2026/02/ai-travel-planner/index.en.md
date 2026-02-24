@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Travel Planner for Ps More Perfect Than Js"
+title: " \"AI Travel Planner for Ps More Perfect Than Js\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Living"
-description: "A travel guide prompt that generates optimal travel itineraries and hourly schedules to minimize unnecessary transit time."
+description: " \"A travel guide prompt that generates optimal travel itineraries and hourly schedules to minimize unnecessary transit time.\""
 tags: ["Travel", "Itinerary", "Overseas Travel"]
 ---
 

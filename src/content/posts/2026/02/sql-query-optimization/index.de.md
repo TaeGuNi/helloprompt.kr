@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "SQL-Abfrageoptimierung, bevor die DB schreit"
+title: " \"SQL-Abfrageoptimierung, bevor die DB schreit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Entwicklung"
-description: "Ein Prompt zur tiefgehenden Analyse und Optimierung langsamer SQL-Abfragen inklusive intelligenter Index-Vorschläge."
+description: " \"Ein Prompt zur tiefgehenden Analyse und Optimierung langsamer SQL-Abfragen inklusive intelligenter Index-Vorschläge.\""
 tags: ["SQL", "DB-Tuning", "Backend"]
 ---
 

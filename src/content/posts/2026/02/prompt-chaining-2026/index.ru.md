@@ -1,6 +1,6 @@
 ---
-title: "Prompt Chaining in 2026: Building Complex AI Workflows (Russian)"
-description: "Декомпозируйте сложные задачи на атомарные шаги; используйте промежуточные результаты как контекст."
+title: " \"Prompt Chaining in 2026: Building Complex AI Workflows (Russian)\""
+description: " \"Декомпозируйте сложные задачи на атомарные шаги; используйте промежуточные результаты как контекст.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "prompt-chaining-2026"]

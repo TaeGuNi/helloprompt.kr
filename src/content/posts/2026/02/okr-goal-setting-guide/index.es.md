@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Configuración de OKR para el Logro de Objetivos"
+title: " \"Guía de Configuración de OKR para el Logro de Objetivos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Establece Objetivos (Objectives) inspiradores y Resultados Clave (Key Results) medibles de forma rápida y sencilla con IA."
+description: " \"Establece Objetivos (Objectives) inspiradores y Resultados Clave (Key Results) medibles de forma rápida y sencilla con IA.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

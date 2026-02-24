@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Création de Logo avec Midjourney : Obtenez un logo à 1000 € en 10 secondes"
+title: " \"Création de Logo avec Midjourney : Obtenez un logo à 1000 € en 10 secondes\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 아트/디자인"
-description: "Logos de startups, icônes d'applications, profils YouTube... Comment générer des maquettes avec Midjourney avant de faire appel à un designer."
+description: " \"Logos de startups, icônes d'applications, profils YouTube... Comment générer des maquettes avec Midjourney avant de faire appel à un designer.\""
 tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 ---
 

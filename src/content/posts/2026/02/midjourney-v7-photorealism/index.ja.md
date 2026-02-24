@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney v7: 本物よりもリアルな写真を生成するプロンプトの公式"
+title: " \"Midjourney v7: 本物よりもリアルな写真を生成するプロンプトの公式\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/생성형 AI"
-description: "Midjourney v7の完全ガイド！プロのカメラマンがスタジオで撮影したようなハイパーリアリズム（超写実的）な画像を瞬時に生成する秘伝のプロンプトをご紹介します。"
+description: " \"Midjourney v7の完全ガイド！プロのカメラマンがスタジオで撮影したようなハイパーリアリズム（超写実的）な画像を瞬時に生成する秘伝のプロンプトをご紹介します。\""
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 

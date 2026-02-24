@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Design de Roteiro de Carreira de 5 Anos: De Agora ao Nível C"
+title: " \"Design de Roteiro de Carreira de 5 Anos: De Agora ao Nível C\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Transforme um futuro incerto em um plano estratégico. Projete metas de 1, 3 e 5 anos e descubra as habilidades necessárias para alcançá-las usando IA."
+description: " \"Transforme um futuro incerto em um plano estratégico. Projete metas de 1, 3 e 5 anos e descubra as habilidades necessárias para alcançá-las usando IA.\""
 tags:
   [
     "Caminho de Carreira",

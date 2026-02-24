@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Buscador de Leyendas Locales e Historias de Fantasmas: Descubriendo Cuentos Ocultos"
+title: " \"Buscador de Leyendas Locales e Historias de Fantasmas: Descubriendo Cuentos Ocultos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Habitaba un dragón en este lago? Multiplica la diversión de tus viajes descubriendo cuentos populares y leyendas locales ocultas."
+description: " \"¿Habitaba un dragón en este lago? Multiplica la diversión de tus viajes descubriendo cuentos populares y leyendas locales ocultas.\""
 tags:
   [
     "Leyenda",

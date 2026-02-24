@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Exploration du Royaume Animal : Une Histoire pour Devenir Ami avec la Nature"
+title: " \"Exploration du Royaume Animal : Une Histoire pour Devenir Ami avec la Nature\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Des aventures d'animaux qui stimulent l'imagination tout en transmettant de véritables connaissances écologiques."
+description: " \"Des aventures d'animaux qui stimulent l'imagination tout en transmettant de véritables connaissances écologiques.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

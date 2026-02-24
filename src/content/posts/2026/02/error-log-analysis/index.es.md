@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Registro de Error Desconocido, Analiza la Causa en 10 Segundos"
+title: " \"Registro de Error Desconocido, Analiza la Causa en 10 Segundos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desarrollo"
-description: "Un prompt de depuración que analiza miles de líneas de logs de error para encontrar la causa raíz y proponer soluciones efectivas."
+description: " \"Un prompt de depuración que analiza miles de líneas de logs de error para encontrar la causa raíz y proponer soluciones efectivas.\""
 tags: ["Depuración", "Registro de Error", "Solución de Problemas"]
 ---
 

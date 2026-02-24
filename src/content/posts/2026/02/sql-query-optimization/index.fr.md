@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Optimisation de Requête SQL, Avant que la DB ne Crie"
+title: " \"Optimisation de Requête SQL, Avant que la DB ne Crie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Développement"
-description: "Un prompt qui analyse les requêtes SQL lentes et complexes pour optimiser les performances et suggérer des index pertinents."
+description: " \"Un prompt qui analyse les requêtes SQL lentes et complexes pour optimiser les performances et suggérer des index pertinents.\""
 tags: ["SQL", "Tuning DB", "Backend"]
 ---
 

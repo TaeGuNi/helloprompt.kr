@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Uso do Ponto de Vista Onisciente 'Ângulo Alto' (Visão de Drone)"
+title: " \"Uso do Ponto de Vista Onisciente 'Ângulo Alto' (Visão de Drone)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Aprenda a criar prompts de 'High Angle' e 'Drone View' para capturar paisagens grandiosas e layouts complexos em IAs de geração de imagem."
+description: " \"Aprenda a criar prompts de 'High Angle' e 'Drone View' para capturar paisagens grandiosas e layouts complexos em IAs de geração de imagem.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ângulo da Câmera", "Paisagem"]
 ---

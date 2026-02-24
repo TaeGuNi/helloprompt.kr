@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "당신을 감시하는 크롬 확장프로그램 280개 리스트"
+title: " \"당신을 감시하는 크롬 확장프로그램 280개 리스트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안"
-description: "내 브라우징 데이터를 몰래 수집하는 악성 크롬 확장프로그램을 AI로 판별하는 완벽 가이드."
+description: " \"내 브라우징 데이터를 몰래 수집하는 악성 크롬 확장프로그램을 AI로 판별하는 완벽 가이드.\""
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

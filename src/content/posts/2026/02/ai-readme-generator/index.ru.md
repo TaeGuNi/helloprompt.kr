@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: Github 프로젝트의 얼굴, Readme.md 자동 생성기 (AI Readme Gen)
+title: "Github 프로젝트의 얼굴, Readme.md 자동 생성기 (AI Readme Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: Устали писать документацию после завершения кода? Просто передайте структуру проекта и стек технологий, и ИИ сгенерирует идеальный README.md со всеми необходимыми бейджами и инструкциями по установке.
+description: "Устали писать документацию после завершения кода? Просто передайте структуру проекта и стек технологий, и ИИ сгенерирует идеальный README.md со всеми необходимыми бейджами и инструкциями по установке."
 tags: [Github, Documentation, OpenSource, Branding, AI]
 ---
 

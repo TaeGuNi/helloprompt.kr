@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링"
+title: " \"스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔링\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "Fällt es Ihnen schwer zu erklären, warum Ihre Idee ein Hit ist? Ein Pitch-Deck-Prompt im Silicon-Valley-Stil, der das Problem, die Lösung und die Marktgröße perfekt strukturiert."
+description: " \"Fällt es Ihnen schwer zu erklären, warum Ihre Idee ein Hit ist? Ein Pitch-Deck-Prompt im Silicon-Valley-Stil, der das Problem, die Lösung und die Marktgröße perfekt strukturiert.\""
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 

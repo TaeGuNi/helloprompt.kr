@@ -1,9 +1,9 @@
 ---
-title: "Local LLMs: Llama 4 on Mac"
+title: " \"Local LLMs: Llama 4 on Mac\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Local AI", "Llama 4", "Mac"]
-description: "Découvrez le guide complet et les prompts parfaits pour exécuter Llama 4 optimisé pour la puce Apple Silicon M4 sur Mac, et analysez vos données d'entreprise en toute sécurité dans un environnement garantissant 100 % de confidentialité."
+description: " \"Découvrez le guide complet et les prompts parfaits pour exécuter Llama 4 optimisé pour la puce Apple Silicon M4 sur Mac, et analysez vos données d'entreprise en toute sécurité dans un environnement garantissant 100 % de confidentialité.\""
 ---
 
 # 📝 Local LLMs : Llama 4 sur Mac (Optimisation pour Puce M4)

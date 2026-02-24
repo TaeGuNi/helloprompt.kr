@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charme Angulaire Style 'Low Poly & Voxel Art'"
+title: " \"Charme Angulaire Style 'Low Poly & Voxel Art'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt d'art Low Poly et Voxel composé de polygones simplifiés, rappelant l'origami ou l'esthétique de Minecraft."
+description: " \"Prompt d'art Low Poly et Voxel composé de polygones simplifiés, rappelant l'origami ou l'esthétique de Minecraft.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Style Artistique"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기"
+title: " \"Midjourney 로고 디자인: 100만원짜리 로고 10초 만에 뽑기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 아트/디자인"
-description: "スタートアップのロゴ、アプリアイコン、YouTubeプロファイル... デザイナーに外注する前にMidjourneyでデザイン案を作成する方法。"
+description: " \"スタートアップのロゴ、アプリアイコン、YouTubeプロファイル... デザイナーに外注する前にMidjourneyでデザイン案を作成する方法。\""
 tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 ---
 

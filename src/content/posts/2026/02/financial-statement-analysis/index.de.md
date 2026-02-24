@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finanzbericht Ultra-Schnell-Analyse Prompt"
+title: " \"Finanzbericht Ultra-Schnell-Analyse Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ein unverzichtbarer Prompt für Aktieninvestitionen, der komplexe Finanzberichte in nur 1 Minute auf die Kernpunkte zusammenfasst."
+description: " \"Ein unverzichtbarer Prompt für Aktieninvestitionen, der komplexe Finanzberichte in nur 1 Minute auf die Kernpunkte zusammenfasst.\""
 tags: ["Aktie", "Finanzbericht", "Fundamentalanalyse", "Investition"]
 ---
 

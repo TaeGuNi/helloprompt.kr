@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creatore Logica 'Difesa Debolezza' Colloquio (Trasformare Crisi in Opportunità)"
+title: " \"Creatore Logica 'Difesa Debolezza' Colloquio (Trasformare Crisi in Opportunità)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Prepara una strategia infallibile per giustificare i tuoi punti deboli al colloquio (buchi nel CV, voti bassi, cambi di rotta) trasformandoli in punti di forza."
+description: " \"Prepara una strategia infallibile per giustificare i tuoi punti deboli al colloquio (buchi nel CV, voti bassi, cambi di rotta) trasformandoli in punti di forza.\""
 tags:
   [
     "DifesaDebolezza",

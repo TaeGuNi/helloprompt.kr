@@ -1,6 +1,6 @@
 ---
-title: "三星 Galaxy S26 vs 苹果 iPhone 17：端侧 AI 技术深度对比"
-description: "谁是 2026 年智能手机端侧 AI 之战的最终赢家？深度解析三星 Galaxy S26 NPU 与苹果 iPhone 17 神经网络引擎的核心技术与实战差异。"
+title: " \"三星 Galaxy S26 vs 苹果 iPhone 17：端侧 AI 技术深度对比\""
+description: " \"谁是 2026 年智能手机端侧 AI 之战的最终赢家？深度解析三星 Galaxy S26 NPU 与苹果 iPhone 17 神经网络引擎的核心技术与实战差异。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

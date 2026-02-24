@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mangez Comme un Local ! Navigateur de Nourriture Locale IA"
+title: " \"Mangez Comme un Local ! Navigateur de Nourriture Locale IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Éloignez-vous des pièges à touristes et découvrez les véritables adresses où les locaux font la queue."
+description: " \"Éloignez-vous des pièges à touristes et découvrez les véritables adresses où les locaux font la queue.\""
 tags: ["Voyage", "Restaurant", "Mukbang", "Restaurant Local"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi : L'espace de travail local pour les agents IA"
+title: " \"AionUi : L'espace de travail local pour les agents IA\""
 date: 2026-02-13
-description: "Découvrez AionUi, l'interface open-source qui résout le problème de « boîte noire » des agents de codage IA en terminal tels que Gemini CLI et Claude Code."
+description: " \"Découvrez AionUi, l'interface open-source qui résout le problème de « boîte noire » des agents de codage IA en terminal tels que Gemini CLI et Claude Code.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

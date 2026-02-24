@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Technical Interview' Expected Question Generator by Job"
+title: " \"'Technical Interview' Expected Question Generator by Job\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Extract expected technical interview questions and model answers perfectly tailored to your role and experience level, whether you're a developer, marketer, or designer."
+description: " \"Extract expected technical interview questions and model answers perfectly tailored to your role and experience level, whether you're a developer, marketer, or designer.\""
 tags: ["TechInterview", "MajorInterview", "ExpectedQuestion", "JobInterview"]
 ---
 

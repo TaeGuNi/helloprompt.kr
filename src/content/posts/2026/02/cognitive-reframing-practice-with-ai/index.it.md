@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pratica di Ristrutturazione Cognitiva con IA: Fermare i Pensieri Negativi"
+title: " \"Pratica di Ristrutturazione Cognitiva con IA: Fermare i Pensieri Negativi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Quando pensi 'È la fine', l'IA analizza la situazione da una prospettiva oggettiva e la trasforma in energia positiva."
+description: " \"Quando pensi 'È la fine', l'IA analizza la situazione da una prospettiva oggettiva e la trasforma in energia positiva.\""
 tags:
   ["Cura Mentale", "CBT", "Ristrutturazione", "Auto-affermazione", "ChatGPT"]
 ---

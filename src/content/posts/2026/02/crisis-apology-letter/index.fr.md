@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gestion de Crise 101 : Comment Écrire des Lettres d'Excuse Professionnelles"
+title: " \"Gestion de Crise 101 : Comment Écrire des Lettres d'Excuse Professionnelles\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Rédaction d'Affaires"
-description: "Transformez une erreur en opportunité. Un prompt IA pour rédiger des e-mails d'excuse qui restaurent la confiance sans jamais paraître défensif."
+description: " \"Transformez une erreur en opportunité. Un prompt IA pour rédiger des e-mails d'excuse qui restaurent la confiance sans jamais paraître défensif.\""
 tags: ["Excuse", "Email", "Affaires", "GestionCrise", "Communication"]
 ---
 

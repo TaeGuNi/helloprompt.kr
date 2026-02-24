@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mein Hund hat sich verändert: KI-Verhaltensspezialist"
+title: " \"Mein Hund hat sich verändert: KI-Verhaltensspezialist\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Haustiere"
-description: "Trennungsangst, Bellen, mangelnde Stubenreinheit... Holen Sie sich einen maßgeschneiderten Trainingsplan von der KI anstelle eines teuren Tiertrainers."
+description: " \"Trennungsangst, Bellen, mangelnde Stubenreinheit... Holen Sie sich einen maßgeschneiderten Trainingsplan von der KI anstelle eines teuren Tiertrainers.\""
 tags: ["Haustiere", "Hundetraining", "Katzen", "Tiererziehung"]
 ---
 

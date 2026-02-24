@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너"
+title: " \"발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/커뮤니케이션"
-description: "A solução sob medida para você que fica com a voz trêmula na hora de apresentar. Um guia completo de ensaio, desde a revisão do roteiro com IA até a defesa contra perguntas sob pressão."
+description: " \"A solução sob medida para você que fica com a voz trêmula na hora de apresentar. Um guia completo de ensaio, desde a revisão do roteiro com IA até a defesa contra perguntas sob pressão.\""
 tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 ---
 

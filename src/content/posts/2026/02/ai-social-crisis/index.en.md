@@ -1,6 +1,6 @@
 ---
-title: "The Social AI Crisis: Broken Bonds"
-description: "A critical analysis of the AI social crisis: How AI substitutes are quietly dismantling authentic human connections, and a prompt to reclaim them."
+title: " \"The Social AI Crisis: Broken Bonds\""
+description: " \"A critical analysis of the AI social crisis: How AI substitutes are quietly dismantling authentic human connections, and a prompt to reclaim them.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

@@ -1,6 +1,6 @@
 ---
-title: "L'Ascesa del Serverless Edge Computing"
-description: "Scopri come l'architettura serverless si sta spostando verso l'edge, riducendo la latenza e trasformando la distribuzione delle applicazioni nel 2026."
+title: " \"L'Ascesa del Serverless Edge Computing\""
+description: " \"Scopri come l'architettura serverless si sta spostando verso l'edge, riducendo la latenza e trasformando la distribuzione delle applicazioni nel 2026.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

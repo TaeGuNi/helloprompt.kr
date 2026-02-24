@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "かんしゃくを起こす子供を落ち着かせる「共感会話」スクリプト"
+title: " \"かんしゃくを起こす子供を落ち着かせる「共感会話」スクリプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "子供の感情脳を落ち着かせる親の魔法のような言葉"
+description: " \"子供の感情脳を落ち着かせる親の魔法のような言葉\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

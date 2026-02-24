@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel, JSON, CSV... Fuggi dalla Noia della Conversione Formato Dati"
+title: " \"Excel, JSON, CSV... Fuggi dalla Noia della Conversione Formato Dati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Da JSON a CSV, da XML a JSON. Affida le noiose conversioni di formato all'IA. Anche le strutture nidificate più complesse non saranno più un problema."
+description: " \"Da JSON a CSV, da XML a JSON. Affida le noiose conversioni di formato all'IA. Anche le strutture nidificate più complesse non saranno più un problema.\""
 tags: ["Conversione Dati", "JSON", "CSV", "Excel", "Produttività"]
 ---
 

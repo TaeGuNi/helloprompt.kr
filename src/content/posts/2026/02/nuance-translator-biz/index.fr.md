@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduction Au-delà du Traducteur : Corriger la 'Nuance' (Anglais des Affaires)"
+title: " \"Traduction Au-delà du Traducteur : Corriger la 'Nuance' (Anglais des Affaires)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Langue/Traduction"
-description: "Vos mots sont exacts, mais le ton vous semble maladroit ? Voici un prompt IA pour ajuster la politesse, la nuance et l'intention de vos emails professionnels."
+description: " \"Vos mots sont exacts, mais le ton vous semble maladroit ? Voici un prompt IA pour ajuster la politesse, la nuance et l'intention de vos emails professionnels.\""
 tags: ["Traduction", "Email", "AnglaisAffaires", "ChatGPT", "DeepL"]
 ---
 

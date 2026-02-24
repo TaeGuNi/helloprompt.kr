@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Juego de Adivinar Emociones 'Charadas': Desarrollando la Inteligencia Emocional"
+title: " \"Juego de Adivinar Emociones 'Charadas': Desarrollando la Inteligencia Emocional\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un prompt de juego de roles impulsado por IA para potenciar la empatía y la expresión emocional de tus hijos de manera divertida."
+description: " \"Un prompt de juego de roles impulsado por IA para potenciar la empatía y la expresión emocional de tus hijos de manera divertida.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

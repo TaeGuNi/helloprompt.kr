@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록 지옥 탈출: 1시간 회의를 10초 만에 정리하는 프롬프트"
+title: " \"회의록 지옥 탈출: 1시간 회의를 10초 만에 정리하는 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 생산성"
-description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트."
+description: " \"두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트.\""
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 

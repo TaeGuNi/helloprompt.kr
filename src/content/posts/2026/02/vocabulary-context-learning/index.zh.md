@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "用上下文掌握英语单词大师机"
+title: " \"用上下文掌握英语单词大师机\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "外语学习"
-description: "告别死记硬背！在真实语境中完美掌握英语单词语感的终极提示词。"
+description: " \"告别死记硬背！在真实语境中完美掌握英语单词语感的终极提示词。\""
 tags: ["英语学习", "背单词", "提示词", "教育"]
 ---
 

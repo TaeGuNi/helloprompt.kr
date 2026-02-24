@@ -1,8 +1,8 @@
 ---
-title: "Gpt 6 Leak (Japanese)"
-description: "GPT-6リーク情報（gpt-6-leak）の徹底分析：OpenAIの新モデルが注力する「長期計画（Long-horizon planning）」の真実と実践的プロンプト。"
+title: " \"Gpt 6 Leak (Japanese)\""
+description: " \"GPT-6リーク情報（gpt-6-leak）の徹底分析：OpenAIの新モデルが注力する「長期計画（Long-horizon planning）」の真実と実践的プロンプト。\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

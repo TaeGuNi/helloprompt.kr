@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "生のデータからインサイト抜き出す"
+title: " \"生のデータからインサイト抜き出す\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "数字ばかりのExcelデータをAIに分析させ、実務で使えるビジネスインサイトを導出します。"
+description: " \"数字ばかりのExcelデータをAIに分析させ、実務で使えるビジネスインサイトを導出します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

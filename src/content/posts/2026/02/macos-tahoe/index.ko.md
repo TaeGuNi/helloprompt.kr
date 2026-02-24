@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe: 윈도우 리사이징의 논란과 변화"
-description: "애플의 새로운 macOS Tahoe 업데이트가 가져온 윈도우 크기 조절 방식의 변화와 이에 대한 사용자들의 엇갈린 반응을 살펴봅니다."
+title: " \"macOS Tahoe: 윈도우 리사이징의 논란과 변화\""
+description: " \"애플의 새로운 macOS Tahoe 업데이트가 가져온 윈도우 크기 조절 방식의 변화와 이에 대한 사용자들의 엇갈린 반응을 살펴봅니다.\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

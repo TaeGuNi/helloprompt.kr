@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "If API is Compared to a Restaurant? Coding Concept Metaphor Vending Machine"
+title: " \"If API is Compared to a Restaurant? Coding Concept Metaphor Vending Machine\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "A prompt that breaks down abstract and complex IT concepts by comparing them to everyday situations, making them easy enough for a 5-year-old to understand."
+description: " \"A prompt that breaks down abstract and complex IT concepts by comparing them to everyday situations, making them easy enough for a 5-year-old to understand.\""
 tags: ["CodingBasics", "Metaphor", "ITTerms", "EasyExplanation"]
 ---
 

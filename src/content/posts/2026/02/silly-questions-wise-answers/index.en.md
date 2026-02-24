@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Answering Stupid Questions Wisely: 'Why Are Ants Chubby?' (Wise Answer Generator)"
+title: " \"Answering Stupid Questions Wisely: 'Why Are Ants Chubby?' (Wise Answer Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Throw a silly question and let AI surprise you with a philosophical or scientific answer that rivals Socrates."
+description: " \"Throw a silly question and let AI surprise you with a philosophical or scientific answer that rivals Socrates.\""
 tags: ["Humor", "Trivia", "Philosophy", "Science", "Creativity"]
 ---
 

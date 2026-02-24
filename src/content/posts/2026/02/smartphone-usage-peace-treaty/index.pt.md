@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pare com os Smartphones! Fazendo um Tratado de Paz de Tempo de Tela"
+title: " \"Pare com os Smartphones! Fazendo um Tratado de Paz de Tempo de Tela\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Aprenda a negociar e definir regras para que seus filhos desliguem o YouTube sem brigas usando IA."
+description: " \"Aprenda a negociar e definir regras para que seus filhos desliguem o YouTube sem brigas usando IA.\""
 tags:
   [
     "Parentalidade",

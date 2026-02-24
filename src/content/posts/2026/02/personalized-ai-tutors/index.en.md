@@ -1,6 +1,6 @@
 ---
-title: "Personalized AI Tutors in Education"
-description: "Discover how to create a personalized AI tutor that adapts to any student's learning style and pace."
+title: " \"Personalized AI Tutors in Education\""
+description: " \"Discover how to create a personalized AI tutor that adapts to any student's learning style and pace.\""
 date: "2026-02-14"
 ---
 

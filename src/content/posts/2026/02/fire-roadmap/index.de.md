@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FIRE-Tribe Roadmap: Die 4%-Regel für den vorzeitigen Ruhestand"
+title: " \"FIRE-Tribe Roadmap: Die 4%-Regel für den vorzeitigen Ruhestand\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanztechnologie & Investition"
-description: "Träumen Sie von finanzieller Freiheit? Dieser Prompt simuliert Ihren Weg zur FIRE-Bewegung und berechnet das benötigte Vermögen für den vorzeitigen Ruhestand."
+description: " \"Träumen Sie von finanzieller Freiheit? Dieser Prompt simuliert Ihren Weg zur FIRE-Bewegung und berechnet das benötigte Vermögen für den vorzeitigen Ruhestand.\""
 tags:
   [
     "FIRE-Tribe",

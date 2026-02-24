@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Galerie d'Art pour Débutants : Profiter Sans Savoir"
+title: " \"Guide de Galerie d'Art pour Débutants : Profiter Sans Savoir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "L'art moderne vous semble inaccessible ? Un prompt d'appréciation pour débutants qui démystifie la visite en galerie."
+description: " \"L'art moderne vous semble inaccessible ? Un prompt d'appréciation pour débutants qui démystifie la visite en galerie.\""
 tags: ["Musée d'Art", "Galerie", "Appréciation de l'Art", "Trouver son Goût"]
 ---
 

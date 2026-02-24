@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prévention de la Déconnexion de Salaire : Planificateur de Compte Ménager IA"
+title: " \"Prévention de la Déconnexion de Salaire : Planificateur de Compte Ménager IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Un prompt IA qui génère un plan budgétaire mensuel sur mesure en fonction de votre salaire et de vos dépenses fixes."
+description: " \"Un prompt IA qui génère un plan budgétaire mensuel sur mesure en fonction de votre salaire et de vos dépenses fixes.\""
 tags: ["CompteMénager", "Budget", "Épargne", "Finance"]
 ---
 

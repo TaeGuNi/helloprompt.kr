@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wochenende gelöscht! KI OTT Inhalt Benutzerdefinierte Empfehlungsanleitung"
+title: " \"Wochenende gelöscht! KI OTT Inhalt Benutzerdefinierte Empfehlungsanleitung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Eine Stunde lang nur auf den Netflix-Startbildschirm gestarrt? Die KI analysiert Ihren Geschmack und findet garantierte Meisterwerke für Ihr Wochenende."
+description: " \"Eine Stunde lang nur auf den Netflix-Startbildschirm gestarrt? Die KI analysiert Ihren Geschmack und findet garantierte Meisterwerke für Ihr Wochenende.\""
 tags: ["Netflix", "Filmempfehlung", "OTT", "Drama"]
 ---
 

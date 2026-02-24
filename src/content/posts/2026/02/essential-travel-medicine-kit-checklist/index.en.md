@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Essential Travel Medicine Kit Checklist: Don't Be Sick Abroad"
+title: " \"Essential Travel Medicine Kit Checklist: Don't Be Sick Abroad\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Stop wandering around looking for a local pharmacy. Learn how to pack an essential travel first-aid and emergency medicine kit tailored to your specific needs."
+description: " \"Stop wandering around looking for a local pharmacy. Learn how to pack an essential travel first-aid and emergency medicine kit tailored to your specific needs.\""
 tags:
   [
     "Emergency Medicine",

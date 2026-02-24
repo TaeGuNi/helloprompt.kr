@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "CSS de Próxima Geração: Tailwind v5 & Nesting Nativo"
+title: " \"CSS de Próxima Geração: Tailwind v5 & Nesting Nativo\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Descubra como modernizar seu código legado para as tendências de 2026 com IA. O fim do CSS-in-JS, o poder do Tailwind v5 e prompts práticos para refatoração instantânea."
+description: " \"Descubra como modernizar seu código legado para as tendências de 2026 com IA. O fim do CSS-in-JS, o poder do Tailwind v5 e prompts práticos para refatoração instantânea.\""
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

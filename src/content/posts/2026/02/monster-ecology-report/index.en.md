@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Monster Ecology Report: Creating My Own Creature"
+title: " \"Monster Ecology Report: Creating My Own Creature\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Bored of slimes and goblins? Design original monsters with realistic ecosystems and habits."
+description: " \"Bored of slimes and goblins? Design original monsters with realistic ecosystems and habits.\""
 tags: ["Creature", "Monster", "GamePlanning", "Fantasy", "Setting"]
 ---
 

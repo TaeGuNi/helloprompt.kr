@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 이메일 초안 3초 만에 만들기"
+title: " \"AI로 이메일 초안 3초 만에 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "'안녕하세요'만 쓰고 멍 때리는 당신을 위한 AI 이메일 비서 프롬프트."
+description: " \"'안녕하세요'만 쓰고 멍 때리는 당신을 위한 AI 이메일 비서 프롬프트.\""
 tags: ["이메일", "ChatGPT", "업무효율", "프롬프트"]
 ---
 

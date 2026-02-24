@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI: Early Breakthroughs (it)"
-description: "Analisi delle prime scoperte e innovazioni nell'IA Quantistica."
+title: " \"Quantum AI: Early Breakthroughs (it)\""
+description: " \"Analisi delle prime scoperte e innovazioni nell'IA Quantistica.\""
 date: "2026-02-14"
 ---
 

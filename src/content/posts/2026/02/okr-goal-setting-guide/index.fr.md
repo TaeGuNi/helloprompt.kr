@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Définition des OKR pour l'Atteinte des Objectifs"
+title: " \"Guide de Définition des OKR pour l'Atteinte des Objectifs\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Établissez des Objectifs (Objectives) inspirants et des Résultats Clés (Key Results) mesurables grâce à l'IA."
+description: " \"Établissez des Objectifs (Objectives) inspirants et des Résultats Clés (Key Results) mesurables grâce à l'IA.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

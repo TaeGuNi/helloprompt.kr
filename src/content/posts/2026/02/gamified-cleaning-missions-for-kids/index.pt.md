@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brincadeira de Limpeza: A Magia de Transformar a Arrumação em um Jogo Divertido"
+title: " \"Brincadeira de Limpeza: A Magia de Transformar a Arrumação em um Jogo Divertido\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Estratégias de gamificação para transformar a arrumação de um quarto bagunçado em um jogo divertido de 10 minutos."
+description: " \"Estratégias de gamificação para transformar a arrumação de um quarto bagunçado em um jogo divertido de 10 minutos.\""
 tags:
   [
     "Parentalidade",

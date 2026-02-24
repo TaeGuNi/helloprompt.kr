@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (ar)"
-description: "تحليل شامل لتقنية AI Agents 2.0: أسراب الذكاء الاصطناعي التعاونية وكيفية توظيفها لزيادة الإنتاجية."
+title: " \"AI Agents 2.0: Collaborative Swarms (ar)\""
+description: " \"تحليل شامل لتقنية AI Agents 2.0: أسراب الذكاء الاصطناعي التعاونية وكيفية توظيفها لزيادة الإنتاجية.\""
 date: "2026-02-14"
 ---
 

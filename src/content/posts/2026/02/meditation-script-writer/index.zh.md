@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "大脑休息 5 分钟，AI 冥想及正念脚本编写"
+title: " \"大脑休息 5 分钟，AI 冥想及正念脚本编写\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "请为我量身定制一份完全符合当前情境与情绪的专属冥想引导词，让大脑快速充电。"
+description: " \"请为我量身定制一份完全符合当前情境与情绪的专属冥想引导词，让大脑快速充电。\""
 tags: ["冥想", "正念", "压力", "休息"]
 ---
 

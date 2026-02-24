@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échappez à l'Insomnie ! Analyse des Modèles de Sommeil par IA et Guide du Bon Sommeil"
+title: " \"Échappez à l'Insomnie ! Analyse des Modèles de Sommeil par IA et Guide du Bon Sommeil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Plus de nuits blanches. Analysez vos habitudes de vie grâce à l'IA pour obtenir des solutions de sommeil optimales."
+description: " \"Plus de nuits blanches. Analysez vos habitudes de vie grâce à l'IA pour obtenir des solutions de sommeil optimales.\""
 tags: ["Sommeil", "Insomnie", "Santé", "Style de vie"]
 ---
 

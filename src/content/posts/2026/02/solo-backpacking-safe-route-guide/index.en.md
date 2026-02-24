@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Solo Backpacking Safe Route Guide: Travel Alone Confidently"
+title: " \"Solo Backpacking Safe Route Guide: Travel Alone Confidently\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "A customized guide for solo travelers, providing a complete recipe that balances safety, budget, and social connections."
+description: " \"A customized guide for solo travelers, providing a complete recipe that balances safety, budget, and social connections.\""
 tags: ["Solo Travel", "Backpacking", "Solo Travel", "Safe Travel"]
 ---
 

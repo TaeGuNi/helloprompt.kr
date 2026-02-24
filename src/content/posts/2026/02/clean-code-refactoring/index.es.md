@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Mi Código es Basura! Entrenador de Refactorización de Código Limpio"
+title: " \"¡Mi Código es Basura! Entrenador de Refactorización de Código Limpio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/TI"
-description: "Prompt que transforma código desordenado que apenas funciona en código limpio, legible y fácil de mantener."
+description: " \"Prompt que transforma código desordenado que apenas funciona en código limpio, legible y fácil de mantener.\""
 tags: ["Refactorización", "CódigoLimpio", "Desarrollador", "RevisiónCódigo"]
 ---
 

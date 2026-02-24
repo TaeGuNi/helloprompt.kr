@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (Simplified Chinese)"
-description: "AI 正在将开发者从技术债务的泥潭中拯救出来"
+title: " \"Modernizing Legacy Code (Simplified Chinese)\""
+description: " \"AI 正在将开发者从技术债务的泥潭中拯救出来\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

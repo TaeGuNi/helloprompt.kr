@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduttore di Problemi di Fisica: Dal Giudizio della Situazione all'Impostazione delle Equazioni"
+title: " \"Traduttore di Problemi di Fisica: Dal Giudizio della Situazione all'Impostazione delle Equazioni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matematica/Scienza"
-description: "Un prompt che analizza i testi dei problemi di fisica, individua le variabili nascoste e ti suggerisce la formula esatta da applicare."
+description: " \"Un prompt che analizza i testi dei problemi di fisica, individua le variabili nascoste e ti suggerisce la formula esatta da applicare.\""
 tags: ["Fisica", "Ingegneria", "RisoluzioneProblemi", "Prompt"]
 ---
 

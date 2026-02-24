@@ -1,6 +1,6 @@
 ---
-title: "Interop 2026: Web標準の新たな飛躍"
-description: "Apple、Google、Microsoft、MozillaがInterop 2026プロジェクトを正式に開始しました。今年の主な目標とWeb標準の未来について解説します。"
+title: " \"Interop 2026: Web標準の新たな飛躍\""
+description: " \"Apple、Google、Microsoft、MozillaがInterop 2026プロジェクトを正式に開始しました。今年の主な目標とWeb標準の未来について解説します。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

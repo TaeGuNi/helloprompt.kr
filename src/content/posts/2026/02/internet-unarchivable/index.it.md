@@ -1,6 +1,6 @@
 ---
-title: "The Internet is Becoming Unarchivable"
-description: "Con l'aumento dei contenuti dinamici, delle Single Page Application (SPA) e degli ecosistemi chiusi, preservare la storia dell'open web è sempre più difficile. Scopri un prompt personalizzato per archiviare per sempre il web che scompare."
+title: " \"The Internet is Becoming Unarchivable\""
+description: " \"Con l'aumento dei contenuti dinamici, delle Single Page Application (SPA) e degli ecosistemi chiusi, preservare la storia dell'open web è sempre più difficile. Scopri un prompt personalizzato per archiviare per sempre il web che scompare.\""
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -121,7 +121,7 @@ Vedi articoli correlati Commenti (45) Torna all'inizio Termini e condizioni Info
 
 ```markdown
 ---
-title: "The Internet is Becoming Unarchivable"
+title: " \"The Internet is Becoming Unarchivable\""
 author: "Kim Web Archive"
 date: "2026-02-15"
 tags: ["Contenuti dinamici", "SPA", "Piattaforme chiuse"]

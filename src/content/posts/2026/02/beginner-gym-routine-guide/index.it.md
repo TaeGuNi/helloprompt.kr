@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida alla Routine in Palestra per Principianti: Sembrare un Professionista"
+title: " \"Guida alla Routine in Palestra per Principianti: Sembrare un Professionista\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Sei appena iscritto in palestra ma finisci sempre sul tapis roulant per paura di sbagliare? Lascia che l'IA crei la tua scheda di allenamento perfetta, guidandoti passo dopo passo nell'uso delle macchine."
+description: " \"Sei appena iscritto in palestra ma finisci sempre sul tapis roulant per paura di sbagliare? Lascia che l'IA crei la tua scheda di allenamento perfetta, guidandoti passo dopo passo nell'uso delle macchine.\""
 tags:
   [
     "Palestra",

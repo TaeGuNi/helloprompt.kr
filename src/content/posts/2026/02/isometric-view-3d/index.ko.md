@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "귀여운 미니어처 세상 'Isometric View' 프롬프트"
+title: " \"귀여운 미니어처 세상 'Isometric View' 프롬프트\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.127Z"
 updatedDate: "2026-02-07T09:10:33.127Z"
 category: "이미지 생성"
-description: "마치 심시티나 미니어처 디오라마처럼, 한눈에 들어오는 귀여운 3D 입체 뷰를 만드는 아이소메트릭(Isometric) 프롬프트 가이드입니다."
+description: " \"마치 심시티나 미니어처 디오라마처럼, 한눈에 들어오는 귀여운 3D 입체 뷰를 만드는 아이소메트릭(Isometric) 프롬프트 가이드입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 

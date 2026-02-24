@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro: Benchmarks de Programación en el Mundo Real"
+title: " \"Gemini 3 Pro: Benchmarks de Programación en el Mundo Real\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Análisis profundo del rendimiento de programación de Gemini 3 Pro vía Python, Rust y migración de código heredado."
+description: " \"Análisis profundo del rendimiento de programación de Gemini 3 Pro vía Python, Rust y migración de código heredado.\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

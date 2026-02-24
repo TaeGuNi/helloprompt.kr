@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel公式解放宣言：无需再背 VLOOKUP (数据分析)"
+title: " \"Excel公式解放宣言：无需再背 VLOOKUP (数据分析)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "数据分析"
-description: "别再死记硬背复杂的Excel函数了。掌握自然语言(Natural Language)操控Excel的提示词技巧，让AI替你秒写公式。"
+description: " \"别再死记硬背复杂的Excel函数了。掌握自然语言(Natural Language)操控Excel的提示词技巧，让AI替你秒写公式。\""
 tags: ["Excel", "数据分析", "ChatGPT", "VLOOKUP", "办公效率"]
 ---
 

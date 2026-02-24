@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "游戏道具图鉴: 传说的武器和受诅咒的饰品"
+title: " \"游戏道具图鉴: 传说的武器和受诅咒的饰品\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "还在使用无聊的“+1 长剑”吗？利用AI为你打造出兼具史诗感叙事与独特机制的专属游戏道具吧。"
+description: " \"还在使用无聊的“+1 长剑”吗？利用AI为你打造出兼具史诗感叙事与独特机制的专属游戏道具吧。\""
 tags: ["游戏", "道具", "TRPG", "策划", "奇幻"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automating Repetitive Excel Drudgery with Macro (VBA)"
+title: " \"Automating Repetitive Excel Drudgery with Macro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "No coding skills required. A magical prompt that generates Excel VBA macros just by describing your task."
+description: " \"No coding skills required. A magical prompt that generates Excel VBA macros just by describing your task.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Japanese)"
-description: "AIモデルに「段階的に考えて(Think step by step)」と指示し、論理パズルや複雑なタスクのパフォーマンスを飛躍的に向上させる方法"
+title: " \"Chain of Thought Reasoning (Japanese)\""
+description: " \"AIモデルに「段階的に考えて(Think step by step)」と指示し、論理パズルや複雑なタスクのパフォーマンスを飛躍的に向上させる方法\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

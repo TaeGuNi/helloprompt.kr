@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "有棱角的魅力 'Low Poly & Voxel Art' 风格"
+title: " \"有棱角的魅力 'Low Poly & Voxel Art' 风格\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "探索如同折纸艺术或我的世界（Minecraft）般，由简化多边形构成的低多边形（Low Poly）与体素（Voxel）艺术风格提示词。"
+description: " \"探索如同折纸艺术或我的世界（Minecraft）般，由简化多边形构成的低多边形（Low Poly）与体素（Voxel）艺术风格提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 ---
 

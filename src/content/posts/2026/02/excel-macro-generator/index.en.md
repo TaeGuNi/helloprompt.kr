@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape Excel Hell: The Prompt That Deletes Overtime"
+title: " \"Escape Excel Hell: The Prompt That Deletes Overtime\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Productivity"
-description: "Struggling with complex Excel formulas or VBA macros? Just describe what you need, and let AI write the code for you."
+description: " \"Struggling with complex Excel formulas or VBA macros? Just describe what you need, and let AI write the code for you.\""
 tags: ["Excel", "Automation", "VBA", "Work Hacks"]
 ---
 

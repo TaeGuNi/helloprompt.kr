@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "JD (Job Description) Tailored Cover Letter Draft Generator"
+title: " \"JD (Job Description) Tailored Cover Letter Draft Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Analyzes Job Descriptions (JD) to instantly generate a customized cover letter draft that perfectly aligns with the company's ideal candidate profile."
+description: " \"Analyzes Job Descriptions (JD) to instantly generate a customized cover letter draft that perfectly aligns with the company's ideal candidate profile.\""
 tags: ["CoverLetter", "SelfIntro", "JDAnalysis", "Job"]
 ---
 

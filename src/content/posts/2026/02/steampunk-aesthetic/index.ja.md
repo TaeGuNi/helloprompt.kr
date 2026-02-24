@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "蒸気機関のロマン「Steampunk」スタイル"
+title: " \"蒸気機関のロマン「Steampunk」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "真鍮の歯車と蒸気機関が支配する19世紀の未来像、スチームパンク(Steampunk)プロンプトです。"
+description: " \"真鍮の歯車と蒸気機関が支配する19世紀の未来像、スチームパンク(Steampunk)プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 ---
 

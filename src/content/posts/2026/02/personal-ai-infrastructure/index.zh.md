@@ -1,8 +1,8 @@
 ---
-title: "构建个人 AI 基础设施：为什么要拥有自己的 AI 技术栈"
+title: " \"构建个人 AI 基础设施：为什么要拥有自己的 AI 技术栈\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得绝对的数据隐私和高度定制的自由。"
+description: " \"了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得绝对的数据隐私和高度定制的自由。\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

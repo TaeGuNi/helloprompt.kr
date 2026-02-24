@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pianificatore di Viaggi IA per P Più Perfetti dei J"
+title: " \"Pianificatore di Viaggi IA per P Più Perfetti dei J\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita"
-description: "Un prompt da guida turistica esperta per pianificare itinerari di viaggio perfetti, ottimizzando percorsi e tempi senza stress."
+description: " \"Un prompt da guida turistica esperta per pianificare itinerari di viaggio perfetti, ottimizzando percorsi e tempi senza stress.\""
 tags: ["Viaggio", "Itinerario", "Viaggio all'Estero"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Refactoring de Code Piloté par l'IA : L'Avenir du Code Propre"
-description: "Découvrez comment l'intelligence artificielle transforme la maintenance du code et rend le refactoring plus sûr en 2026."
+title: " \"Refactoring de Code Piloté par l'IA : L'Avenir du Code Propre\""
+description: " \"Découvrez comment l'intelligence artificielle transforme la maintenance du code et rend le refactoring plus sûr en 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

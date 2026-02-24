@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide du Code Vestimentaire des Sites Religieux : Pas de Shorts ?"
+title: " \"Guide du Code Vestimentaire des Sites Religieux : Pas de Shorts ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Évitez d'être refoulé à l'entrée des temples, cathédrales et mosquées. Découvrez les codes vestimentaires indispensables pour visiter les lieux sacrés sans encombre."
+description: " \"Évitez d'être refoulé à l'entrée des temples, cathédrales et mosquées. Découvrez les codes vestimentaires indispensables pour visiter les lieux sacrés sans encombre.\""
 tags:
   [
     "Code Vestimentaire",

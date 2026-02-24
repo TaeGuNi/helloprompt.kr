@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트"
+title: " \"AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/인프라"
-description: "Is your cloud budget leaking? Stop the AWS billing bomb in 1 minute with this ultimate FinOps prompt."
+description: " \"Is your cloud budget leaking? Stop the AWS billing bomb in 1 minute with this ultimate FinOps prompt.\""
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 

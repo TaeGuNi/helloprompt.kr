@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "强烈的剪影 'Backlighting' 逆光活用法"
+title: " \"强烈的剪影 'Backlighting' 逆光活用法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "利用逆光（Silhouette）将主体弱化，强调形态美与氛围感的提示词技巧。"
+description: " \"利用逆光（Silhouette）将主体弱化，强调形态美与氛围感的提示词技巧。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

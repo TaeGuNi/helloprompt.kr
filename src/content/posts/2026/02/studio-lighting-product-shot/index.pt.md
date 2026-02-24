@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Padrão de Fotografia de Produto Prompt de 'Iluminação de Estúdio'"
+title: " \"Padrão de Fotografia de Produto Prompt de 'Iluminação de Estúdio'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Configure a iluminação de estúdio para obter fotos de produtos ou perfis com um acabamento limpo e altamente profissional."
+description: " \"Configure a iluminação de estúdio para obter fotos de produtos ou perfis com um acabamento limpo e altamente profissional.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Produto", "Iluminação"]
 ---
 

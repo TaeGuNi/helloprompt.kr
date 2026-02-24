@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "项目日程管理 (WBS) 自动制定"
+title: " \"项目日程管理 (WBS) 自动制定\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "通过设定截止日期，AI为您自动倒推并生成详细的工作分解结构（WBS）日程表。"
+description: " \"通过设定截止日期，AI为您自动倒推并生成详细的工作分解结构（WBS）日程表。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

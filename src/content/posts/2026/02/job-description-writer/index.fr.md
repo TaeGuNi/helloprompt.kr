@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rédiger des Descriptions de Poste (JD) Qui Attirent les Candidats"
+title: " \"Rédiger des Descriptions de Poste (JD) Qui Attirent les Candidats\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Découvrez comment rédiger une fiche de poste (JD) percutante qui attire véritablement les meilleurs talents."
+description: " \"Découvrez comment rédiger une fiche de poste (JD) percutante qui attire véritablement les meilleurs talents.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

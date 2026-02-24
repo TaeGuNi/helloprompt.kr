@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Генератор короткой поэзии (Insta Poetry) для Shorts/Reels"
+title: " \"Генератор короткой поэзии (Insta Poetry) для Shorts/Reels\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Творчество и Хобби"
-description: "Создавайте короткие, эмоциональные стихи для Shorts и Reels, которые соберут сотни лайков за 10 секунд."
+description: " \"Создавайте короткие, эмоциональные стихи для Shorts и Reels, которые соберут сотни лайков за 10 секунд.\""
 tags: ["Instagram", "Поэзия", "ЭмоциональныйТекст", "SNS", "Контент"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Emotion Guessing 'Charades' Game: Developing Emotional Intelligence"
+title: " \"Emotion Guessing 'Charades' Game: Developing Emotional Intelligence\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "An AI role-play prompt designed to develop your child's empathy and emotional expression."
+description: " \"An AI role-play prompt designed to develop your child's empathy and emotional expression.\""
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

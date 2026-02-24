@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interpretare Testo Cifrato (Codice Legacy) Lasciato da Chi se n'è Andato"
+title: " \"Interpretare Testo Cifrato (Codice Legacy) Lasciato da Chi se n'è Andato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt per decifrare il codice legacy: fai analizzare all'IA logiche complesse prive di documentazione e fattele spiegare con parole semplici."
+description: " \"Un prompt per decifrare il codice legacy: fai analizzare all'IA logiche complesse prive di documentazione e fattele spiegare con parole semplici.\""
 tags: ["Legacy", "Analisi Codice", "Manutenzione", "Passaggio Consegne"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Curso Intensivo de História de Marcos: Veja o que Você Sabe"
+title: " \"Curso Intensivo de História de Marcos: Veja o que Você Sabe\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem e Cultura"
-description: "O momento em que a pedra se transforma em história viva. Um guia de IA que seleciona apenas os pontos-chave, sem explicações entediantes."
+description: " \"O momento em que a pedra se transforma em história viva. Um guia de IA que seleciona apenas os pontos-chave, sem explicações entediantes.\""
 tags:
   [
     "Viagem Histórica",

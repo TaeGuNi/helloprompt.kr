@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Routine del Sonno IA: Insegnare al Tuo Cervello che è Ora di Dormire"
+title: " \"Generatore di Routine del Sonno IA: Insegnare al Tuo Cervello che è Ora di Dormire\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Progetta una routine magica per addormentarti grazie a specifici stimoli, sfruttando il riflesso condizionato e l'intelligenza artificiale."
+description: " \"Progetta una routine magica per addormentarti grazie a specifici stimoli, sfruttando il riflesso condizionato e l'intelligenza artificiale.\""
 tags: ["Routine del Sonno", "Insonnia", "Abitudine", "Salute", "ChatGPT"]
 ---
 

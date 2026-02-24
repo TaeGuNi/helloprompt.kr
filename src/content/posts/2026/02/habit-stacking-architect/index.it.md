@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "습관 쌓기 설계자 (Habit Stacking)"
+title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "La guida strategica e scientifica all'Habit Stacking per mettere fine ai buoni propositi abbandonati in tre giorni."
+description: " \"La guida strategica e scientifica all'Habit Stacking per mettere fine ai buoni propositi abbandonati in tre giorni.\""
 tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
 ---
 

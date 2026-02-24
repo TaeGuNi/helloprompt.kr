@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: 千篇一律的治疗已成过去。探索“精准医疗”的现状，AI分析基因组信息，为每个人提供最佳治疗方案。
+description: "千篇一律的治疗已成过去。探索“精准医疗”的现状，AI分析基因组信息，为每个人提供最佳治疗方案。"
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: AI与个性化医疗：为您量身定制的处方
+title: "AI与个性化医疗：为您量身定制的处方"
 ---
 
 # 📝 AI与个性化医疗：为您量身定制的处方

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Programma di Digiuno Intermittente IA: Aumentare il Tasso di Successo del 200%"
+title: " \"Programma di Digiuno Intermittente IA: Aumentare il Tasso di Successo del 200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Progetta un programma di digiuno intermittente che si adatti perfettamente al tuo stile di vita e ottieni consigli dall'IA su come sopravvivere alle ore di digiuno."
+description: " \"Progetta un programma di digiuno intermittente che si adatti perfettamente al tuo stile di vita e ottieni consigli dall'IA su come sopravvivere alle ore di digiuno.\""
 tags: ["Digiuno Intermittente", "Dieta", "Salute", "ChatGPT", "Routine"]
 ---
 

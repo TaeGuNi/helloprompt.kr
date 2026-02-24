@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "防止三分钟热度: AI 1:1 学习经理"
+title: " \"防止三分钟热度: AI 1:1 学习经理\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "学习法/自我开发"
-description: "输入学习目标与可用时间，让 AI 为您量身定制切实可行的学习计划，并化身严厉导师为您提供源源不断的动力支持。"
+description: " \"输入学习目标与可用时间，让 AI 为您量身定制切实可行的学习计划，并化身严厉导师为您提供源源不断的动力支持。\""
 tags: ["学习计划", "策划者", "动力", "时间管理"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'"
-description: "AIモデルの推論速度向上に向けた2つの相反するアプローチ（AnthropicのLow Batch SizeとOpenAIの専用ハードウェアモデル）を比較し、開発者が選択すべき明確な基準を提示します。"
+title: " \"LLM 추론 속도 전쟁: 'VIP 패스' vs '경량화 모델'\""
+description: " \"AIモデルの推論速度向上に向けた2つの相反するアプローチ（AnthropicのLow Batch SizeとOpenAIの専用ハードウェアモデル）を比較し、開発者が選択すべき明確な基準を提示します。\""
 date: 2026-02-16
 tags:
   [

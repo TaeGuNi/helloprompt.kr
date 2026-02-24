@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Macro Nutrientes IA: Apenas Tire uma Foto"
+title: " \"Calculadora de Macro Nutrientes IA: Apenas Tire uma Foto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Chega de inserir calorias manualmente em aplicativos! Descubra como calcular com precisão a proporção de macronutrientes (carboidratos, proteínas e gorduras) usando IA através de texto ou fotos."
+description: " \"Chega de inserir calorias manualmente em aplicativos! Descubra como calcular com precisão a proporção de macronutrientes (carboidratos, proteínas e gorduras) usando IA através de texto ou fotos.\""
 tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Registro de Refeições"]
 ---
 

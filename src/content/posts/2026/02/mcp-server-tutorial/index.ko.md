@@ -1,6 +1,6 @@
 ---
-title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
-description: "LLM을 위한 USB 표준, MCP(Model Context Protocol). 매번 JSON 스키마를 복붙하는 대신, 로컬 데이터를 Claude나 Ollama에 직접 연결하는 맞춤형 서버를 구축하는 프롬프트를 확인해 보세요."
+title: " \"Stop Pasting Context: Build Your First MCP Server in 5 Minutes\""
+description: " \"LLM을 위한 USB 표준, MCP(Model Context Protocol). 매번 JSON 스키마를 복붙하는 대신, 로컬 데이터를 Claude나 Ollama에 직접 연결하는 맞춤형 서버를 구축하는 프롬프트를 확인해 보세요.\""
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags:

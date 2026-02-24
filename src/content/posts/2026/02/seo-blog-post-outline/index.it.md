@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schema Blog SEO per Classifiche di Ricerca Top"
+title: " \"Schema Blog SEO per Classifiche di Ricerca Top\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Scrittura"
-description: "Un prompt per generare una struttura SEO-friendly che posiziona i tuoi articoli del blog in cima ai risultati di ricerca di Google."
+description: " \"Un prompt per generare una struttura SEO-friendly che posiziona i tuoi articoli del blog in cima ai risultati di ricerca di Google.\""
 tags: ["Blog", "SEO", "Esposizione Google"]
 ---
 

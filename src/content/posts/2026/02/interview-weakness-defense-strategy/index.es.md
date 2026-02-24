@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creador de Lógica de 'Defensa de Debilidad' en Entrevista (Convirtiendo Crisis en Oportunidad)"
+title: " \"Creador de Lógica de 'Defensa de Debilidad' en Entrevista (Convirtiendo Crisis en Oportunidad)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Prepara una estrategia lógica para reconocer debilidades críticas (períodos de inactividad, cambios de carrera, bajo promedio) con honestidad, enfocándote en las lecciones aprendidas."
+description: " \"Prepara una estrategia lógica para reconocer debilidades críticas (períodos de inactividad, cambios de carrera, bajo promedio) con honestidad, enfocándote en las lecciones aprendidas.\""
 tags:
   [
     "DefensaDeDebilidad",

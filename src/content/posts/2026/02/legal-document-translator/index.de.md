@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Übersetze Alien-Rechtsbegriffe, damit sogar Grundschüler sie verstehen"
+title: " \"Übersetze Alien-Rechtsbegriffe, damit sogar Grundschüler sie verstehen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Leben"
-description: "Ein Prompt, der komplizierte Rechtsdokumente wie Mietverträge und Nutzungsbedingungen in einfache Worte übersetzt und toxische Klauseln aufdeckt."
+description: " \"Ein Prompt, der komplizierte Rechtsdokumente wie Mietverträge und Nutzungsbedingungen in einfache Worte übersetzt und toxische Klauseln aufdeckt.\""
 tags: ["Recht", "Vertrag", "Lebensrecht"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibe Rétro des Années 80 Style 'Synthwave'"
+title: " \"Vibe Rétro des Années 80 Style 'Synthwave'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt d'art Synthwave caractérisé par la nostalgie des néons des années 80, des palmiers et des sols quadrillés."
+description: " \"Prompt d'art Synthwave caractérisé par la nostalgie des néons des années 80, des palmiers et des sols quadrillés.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Rétro"]
 ---
 

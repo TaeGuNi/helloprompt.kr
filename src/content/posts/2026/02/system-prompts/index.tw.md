@@ -1,6 +1,6 @@
 ---
-title: "系統提示詞 2026：角色與約束的藝術"
-description: "超越簡單的角色設定：2026 年撰寫系統提示詞（System Prompt）的終極指南。從 XML 標籤結構化到動態上下文注入，掌握 AI 控制的藝術。"
+title: " \"系統提示詞 2026：角色與約束的藝術\""
+description: " \"超越簡單的角色設定：2026 年撰寫系統提示詞（System Prompt）的終極指南。從 XML 標籤結構化到動態上下文注入，掌握 AI 控制的藝術。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

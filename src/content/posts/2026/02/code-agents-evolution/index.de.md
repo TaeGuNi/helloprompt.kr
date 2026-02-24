@@ -1,6 +1,6 @@
 ---
-title: "Evolution der Coding-Agenten"
-description: "Autonome Coding-Agenten erschüttern das Entwicklungs-Ökosystem."
+title: " \"Evolution der Coding-Agenten\""
+description: " \"Autonome Coding-Agenten erschüttern das Entwicklungs-Ökosystem.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

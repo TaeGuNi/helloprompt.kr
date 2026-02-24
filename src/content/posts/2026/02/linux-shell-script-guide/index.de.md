@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "리눅스 쉘 스크립트: 자동화의 끝판왕 Bash/Zsh"
+title: " \"리눅스 쉘 스크립트: 자동화의 끝판왕 Bash/Zsh\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"
-description: "Schluss mit monotonen Klick-Aufgaben. Von der Dateiorganisation bis zur Serverüberwachung – lernen Sie, wie Sie mit einem einzigen Shell-Skript alles perfekt automatisieren."
+description: " \"Schluss mit monotonen Klick-Aufgaben. Von der Dateiorganisation bis zur Serverüberwachung – lernen Sie, wie Sie mit einem einzigen Shell-Skript alles perfekt automatisieren.\""
 tags: ["리눅스", "Shell", "Bash", "자동화", "스크립트"]
 ---
 

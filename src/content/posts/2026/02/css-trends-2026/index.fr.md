@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "CSS Nouvelle Génération : Tailwind v5 & Imbrication Native"
+title: " \"CSS Nouvelle Génération : Tailwind v5 & Imbrication Native\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Exploration des tendances CSS en 2026. Analyse des nouvelles fonctionnalités de Tailwind v5, de l'impact de l'imbrication native dans les navigateurs et de l'état actuel du CSS-in-JS."
+description: " \"Exploration des tendances CSS en 2026. Analyse des nouvelles fonctionnalités de Tailwind v5, de l'impact de l'imbrication native dans les navigateurs et de l'état actuel du CSS-in-JS.\""
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

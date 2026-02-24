@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4: Der neue König von Open Source?"
-description: "Eine eingehende Analyse der technischen Merkmale von DeepSeek-V4, der Benchmark-Leistung und der Auswirkungen auf das Open-Source-KI-Ökosystem."
+title: " \"DeepSeek-V4: Der neue König von Open Source?\""
+description: " \"Eine eingehende Analyse der technischen Merkmale von DeepSeek-V4, der Benchmark-Leistung und der Auswirkungen auf das Open-Source-KI-Ökosystem.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

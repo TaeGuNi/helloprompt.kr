@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brainstorming de 10 Versions de Première Phrase de Roman"
+title: " \"Brainstorming de 10 Versions de Première Phrase de Roman\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Captivez vos lecteurs dès la première ligne. Découvrez 10 propositions d'accroches percutantes pour démarrer votre roman sans angoisse de la page blanche."
+description: " \"Captivez vos lecteurs dès la première ligne. Découvrez 10 propositions d'accroches percutantes pour démarrer votre roman sans angoisse de la page blanche.\""
 tags: ["Roman", "PremièrePhrase", "Écriture", "Intro", "Brainstorming"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cuidados Mentais Diários de 5 Minutos, Diário de Gratidão IA e Prompt de Retrospectiva"
+title: " \"Cuidados Mentais Diários de 5 Minutos, Diário de Gratidão IA e Prompt de Retrospectiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Não se sinta perdido diante de uma tela em branco. A sua cura mental começa ao responder as perguntas guiadas da IA."
+description: " \"Não se sinta perdido diante de uma tela em branco. A sua cura mental começa ao responder as perguntas guiadas da IA.\""
 tags: ["Diário", "Retrospectiva", "Diário de Gratidão", "Cuidado Mental"]
 ---
 

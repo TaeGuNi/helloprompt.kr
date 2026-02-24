@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Psicologia da Interpretação de Sonhos com IA: O Que Foi o Sonho da Noite Passada?"
+title: " \"Psicologia da Interpretação de Sonhos com IA: O Que Foi o Sonho da Noite Passada?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Acha que foi apenas um sonho bobo ou um sinal do seu inconsciente? Aprenda a interpretar o significado dos seus sonhos através da análise de símbolos psicológicos com a ajuda da IA."
+description: " \"Acha que foi apenas um sonho bobo ou um sinal do seu inconsciente? Aprenda a interpretar o significado dos seus sonhos através da análise de símbolos psicológicos com a ajuda da IA.\""
 tags:
   ["Interpretação de Sonhos", "Psicologia", "Inconsciente", "Freud", "ChatGPT"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Routine di Risveglio Mattutino Senza Dolore: Operazione Risveglio"
+title: " \"Routine di Risveglio Mattutino Senza Dolore: Operazione Risveglio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Ti svegli come uno zombie ogni mattina implorando 'ancora 5 minuti'? Crea una routine mattutina miracolosa e indolore guidata dall'IA."
+description: " \"Ti svegli come uno zombie ogni mattina implorando 'ancora 5 minuti'? Crea una routine mattutina miracolosa e indolore guidata dall'IA.\""
 tags: ["Risveglio", "Miracle Morning", "Abitudine", "Sonno", "ChatGPT"]
 ---
 

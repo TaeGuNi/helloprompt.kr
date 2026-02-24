@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 코드가 스파게티? 리팩토링 전문가에게 맡겨보세요"
+title: " \"내 코드가 스파게티? 리팩토링 전문가에게 맡겨보세요\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발"
-description: "Non creare 'Working Garbage' (spazzatura funzionante). Un codice leggibile è un buon codice. Affidati a un esperto di refactoring."
+description: " \"Non creare 'Working Garbage' (spazzatura funzionante). Un codice leggibile è un buon codice. Affidati a un esperto di refactoring.\""
 tags: ["코딩", "리팩토링", "클린코드"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mi Perro Cambió: Especialista en Comportamiento con IA"
+title: " \"Mi Perro Cambió: Especialista en Comportamiento con IA\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Mascotas"
-description: "Ansiedad por separación, ladridos constantes o accidentes en casa. Obtén un plan de adiestramiento personalizado con IA en lugar de pagar a un entrenador costoso."
+description: " \"Ansiedad por separación, ladridos constantes o accidentes en casa. Obtén un plan de adiestramiento personalizado con IA en lugar de pagar a un entrenador costoso.\""
 tags: ["Mascotas", "Adiestramiento Canino", "Gatos", "Crianza de Mascotas"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "使用 Tambo SDK 开启生成式 UI (Generative UI)"
+title: " \"使用 Tambo SDK 开启生成式 UI (Generative UI)\""
 date: 2026-02-20
-description: "如何在 React 应用程序中实现由 AI 生成的动态界面。使用 Tambo SDK 轻松构建生成式 UI。"
+description: " \"如何在 React 应用程序中实现由 AI 生成的动态界面。使用 Tambo SDK 轻松构建生成式 UI。\""
 author: "Hello Prompt Team"
 image: "/images/posts/generative-ui-tambo.png"
 tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]

@@ -1,6 +1,6 @@
 ---
-title: "特異点の罠"
-description: "シンギュラリティ（技術的特異点）の罠を徹底分析。それはGPUを売るためのマーケティングの神話に過ぎないのか。"
+title: " \"特異点の罠\""
+description: " \"シンギュラリティ（技術的特異点）の罠を徹底分析。それはGPUを売るためのマーケティングの神話に過ぎないのか。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plan de Fondo de Educación Infantil: Proyecto a Largo Plazo de 10 Años"
+title: " \"Plan de Fondo de Educación Infantil: Proyecto a Largo Plazo de 10 Años\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "La inflación educativa supera a la inflación general. Descubre exactamente cuánto necesitarás ahorrar e invertir para cuando tu hijo vaya a la universidad."
+description: " \"La inflación educativa supera a la inflación general. Descubre exactamente cuánto necesitarás ahorrar e invertir para cuando tu hijo vaya a la universidad.\""
 tags: ["CostoEducación", "Matrícula", "Ahorros", "PlanInfantil"]
 ---
 

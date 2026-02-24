@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Traditional Chinese)"
-description: "使用角色參考（Character Reference）功能與提示詞框架，將徹底改變 AI 故事創作與繪本製作的流程。"
+title: " \"Midjourney Character Consistency (Traditional Chinese)\""
+description: " \"使用角色參考（Character Reference）功能與提示詞框架，將徹底改變 AI 故事創作與繪本製作的流程。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

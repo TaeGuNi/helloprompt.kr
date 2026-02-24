@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore Bozza Lettera di Presentazione Su Misura per JD (Descrizione Lavoro)"
+title: " \"Generatore Bozza Lettera di Presentazione Su Misura per JD (Descrizione Lavoro)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Analizza la Job Description (JD) e genera in un minuto una bozza di lettera di presentazione perfettamente in linea con il profilo ricercato dall'azienda."
+description: " \"Analizza la Job Description (JD) e genera in un minuto una bozza di lettera di presentazione perfettamente in linea con il profilo ricercato dall'azienda.\""
 tags: ["LetteraPresentazione", "AutoIntro", "AnalisiJD", "Lavoro"]
 ---
 

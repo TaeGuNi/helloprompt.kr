@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "고객 문의 자동 분류 및 우선순위 지정 (CS Automation)"
+title: " \"고객 문의 자동 분류 및 우선순위 지정 (CS Automation)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "这是一个高效的智能客服分诊提示词，通过敏锐分析客户情绪，自动筛选出亟需优先安抚的“愤怒客户”，为您守住危机公关的黄金时间。"
+description: " \"这是一个高效的智能客服分诊提示词，通过敏锐分析客户情绪，自动筛选出亟需优先安抚的“愤怒客户”，为您守住危机公关的黄金时间。\""
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 

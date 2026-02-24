@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: Warum dein 'Second Brain' mehr als nur Vektoren braucht"
-description: "Die Vektorsuche findet lediglich Wortähnlichkeiten. Dieser Guide zeigt dir, wie du mit Neo4j und LangChain einen echten Personal Knowledge Graph (GraphRAG) aufbaust und verborgene Insights in deinen Obsidian-Notizen vernetzt."
+title: " \"GraphRAG: Warum dein 'Second Brain' mehr als nur Vektoren braucht\""
+description: " \"Die Vektorsuche findet lediglich Wortähnlichkeiten. Dieser Guide zeigt dir, wie du mit Neo4j und LangChain einen echten Personal Knowledge Graph (GraphRAG) aufbaust und verborgene Insights in deinen Obsidian-Notizen vernetzt.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

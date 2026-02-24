@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista di Snack Sani Senza Sensi di Colpa: Prevenire le Abbuffate"
+title: " \"Lista di Snack Sani Senza Sensi di Colpa: Prevenire le Abbuffate\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "La finta fame che colpisce alle 15:00. Scopri come generare infinite idee per snack sani e antistress che non ti faranno ingrassare."
+description: " \"La finta fame che colpisce alle 15:00. Scopri come generare infinite idee per snack sani e antistress che non ti faranno ingrassare.\""
 tags: ["Snack Dietetico", "Salute", "Ricetta", "ChatGPT", "Snack"]
 ---
 

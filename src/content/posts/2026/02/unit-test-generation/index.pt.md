@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preguiça de escrever código de teste? A IA fará isso por você"
+title: " \"Preguiça de escrever código de teste? A IA fará isso por você\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Um prompt que gera automaticamente códigos de testes unitários complexos, abrangendo até mesmo casos de borda (edge cases)."
+description: " \"Um prompt que gera automaticamente códigos de testes unitários complexos, abrangendo até mesmo casos de borda (edge cases).\""
 tags: ["Código de Teste", "TDD", "Jest", "JUnit"]
 ---
 

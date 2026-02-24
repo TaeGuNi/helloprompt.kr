@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Encyclopédie des Objets de Jeu : Armes Légendaires et Accessoires Maudits"
+title: " \"Encyclopédie des Objets de Jeu : Armes Légendaires et Accessoires Maudits\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Fini la banale 'Épée +1'. Créez des objets uniques dotés d'une histoire captivante et de mécaniques de jeu originales."
+description: " \"Fini la banale 'Épée +1'. Créez des objets uniques dotés d'une histoire captivante et de mécaniques de jeu originales.\""
 tags: ["Jeu", "Objet", "JDR", "Planification", "Fantaisie"]
 ---
 

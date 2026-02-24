@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rotina de Despertar Matinal Sem Dor: Operação Despertar"
+title: " \"Rotina de Despertar Matinal Sem Dor: Operação Despertar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Você acorda como um zumbi todas as manhãs implorando por 'mais 5 minutos'? Crie uma rotina matinal milagrosa com a ajuda da IA."
+description: " \"Você acorda como um zumbi todas as manhãs implorando por 'mais 5 minutos'? Crie uma rotina matinal milagrosa com a ajuda da IA.\""
 tags: ["Acordar", "Milagre da Manhã", "Hábito", "Sono", "ChatGPT"]
 ---
 

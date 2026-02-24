@@ -1,6 +1,6 @@
 ---
-title: "Contre-attaque de l'IA open source"
-description: "Une vague massive de l'écosystème open source qui menace les modèles fermés."
+title: " \"Contre-attaque de l'IA open source\""
+description: " \"Une vague massive de l'écosystème open source qui menace les modèles fermés.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

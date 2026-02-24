@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Riassuntore di Chiamata sugli Utili in 3 Minuti"
+title: " \"Riassuntore di Chiamata sugli Utili in 3 Minuti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Le Earnings Call in inglese sono lunghe e complesse? Lascia che l'IA ne estragga l'essenza in soli 3 minuti."
+description: " \"Le Earnings Call in inglese sono lunghe e complesse? Lascia che l'IA ne estragga l'essenza in soli 3 minuti.\""
 tags: ["Azioni", "ChiamataUtili", "RilascioUtili", "AzioniUSA"]
 ---
 

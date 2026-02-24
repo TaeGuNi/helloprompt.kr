@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 화려한 애니메이션도 순식간에! CSS Keyframe 생성기 (CSS Animation Gen)
+title: "화려한 애니메이션도 순식간에! CSS Keyframe 생성기 (CSS Animation Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Design
-description: Überlassen Sie komplexe Bezier-Kurven und Keyframe-Berechnungen der KI und gehen Sie pünktlich in den Feierabend. So erstellen Sie natürliche, flüssige CSS-Animationen in Sekunden.
+description: "Überlassen Sie komplexe Bezier-Kurven und Keyframe-Berechnungen der KI und gehen Sie pünktlich in den Feierabend. So erstellen Sie natürliche, flüssige CSS-Animationen in Sekunden."
 tags: [AI, CSS, Design, Frontend]
 ---
 

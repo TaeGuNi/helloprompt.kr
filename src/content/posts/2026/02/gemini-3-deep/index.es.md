@@ -3,9 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description:
-  Explorando las poderosas capacidades de razonamiento y las funciones
-  de Deep Think del último modelo de IA de Google, Gemini 3.
+description: "Explorando las poderosas capacidades de razonamiento y las funciones de Deep Think del último modelo de IA de Google, Gemini 3."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +12,7 @@ tags:
   - Deep Think
   - LLM
   - Reasoning
-title: "Google Gemini 3: Un nuevo horizonte para el Pensamiento Profundo (Deep Think)"
+title: " \"Google Gemini 3: Un nuevo horizonte para el Pensamiento Profundo (Deep Think)\""
 ---
 
 - **🎯 Público objetivo:** Desarrolladores, Analistas de Datos, Estrategas y Profesionales que resuelven problemas complejos.

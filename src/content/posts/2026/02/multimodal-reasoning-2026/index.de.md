@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (German)"
-description: "KI-Modelle analysieren jetzt Video, Audio und Text simultan und in Echtzeit."
+title: " \"Multimodal Reasoning (German)\""
+description: " \"KI-Modelle analysieren jetzt Video, Audio und Text simultan und in Echtzeit.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

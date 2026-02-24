@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Minimalist Packing List: Carry-On Only Travel"
+title: " \"Minimalist Packing List: Carry-On Only Travel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Traveling is more enjoyable when your luggage is light. Discover smart packing strategies to eliminate unnecessary items and bring only the essentials."
+description: " \"Traveling is more enjoyable when your luggage is light. Discover smart packing strategies to eliminate unnecessary items and bring only the essentials.\""
 tags: ["Packing", "Minimalism", "Carry-on Baggage", "Packing List"]
 ---
 

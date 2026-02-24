@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échappez à l'Écriture Ennuyeuse ! Techniques de Storytelling pour Faire Lire les Gens"
+title: " \"Échappez à l'Écriture Ennuyeuse ! Techniques de Storytelling pour Faire Lire les Gens\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Écriture"
-description: "Un prompt redoutable pour métamorphoser une liste de faits soporifique en un récit captivant qui touche les lecteurs en plein cœur."
+description: " \"Un prompt redoutable pour métamorphoser une liste de faits soporifique en un récit captivant qui touche les lecteurs en plein cœur.\""
 tags: ["Storytelling", "Écriture", "Essai"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Italian)"
-description: "Chiedere ai modelli di 'pensare passo dopo passo' sblocca prestazioni significativamente superiori nei puzzle logici"
+title: " \"Chain of Thought Reasoning (Italian)\""
+description: " \"Chiedere ai modelli di 'pensare passo dopo passo' sblocca prestazioni significativamente superiori nei puzzle logici\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "출장비 아끼는 AI 집수리 가이드 (초보자용)"
+title: " \"출장비 아끼는 AI 집수리 가이드 (초보자용)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Du débouchage de toilettes au remplacement d'ampoules. Économisez sur vos frais de réparation grâce à des prompts de bricolage assistés par l'IA, accessibles même aux grands débutants."
+description: " \"Du débouchage de toilettes au remplacement d'ampoules. Économisez sur vos frais de réparation grâce à des prompts de bricolage assistés par l'IA, accessibles même aux grands débutants.\""
 tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs con Causas Desconocidas, Déjaselo al Detective de IA"
+title: " \"Bugs con Causas Desconocidas, Déjaselo al Detective de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Cuando los logs no bastan para resolver un error, deja que la IA descubra la causa raíz a partir de tu stack trace y un fragmento de código."
+description: " \"Cuando los logs no bastan para resolver un error, deja que la IA descubra la causa raíz a partir de tu stack trace y un fragmento de código.\""
 tags:
   [
     "Depuración",

@@ -1,7 +1,7 @@
 ---
-title: "Engenharia de Prompt 3.0: A Era dos Fluxos de Trabalho Agentes"
+title: " \"Engenharia de Prompt 3.0: A Era dos Fluxos de Trabalho Agentes\""
 date: "2026-02-13"
-description: "A engenharia de prompt evoluiu de comandos simples para sistemas de agentes autônomos. Aprenda a aplicar o conceito de Agentic Workflow na prática."
+description: " \"A engenharia de prompt evoluiu de comandos simples para sistemas de agentes autônomos. Aprenda a aplicar o conceito de Agentic Workflow na prática.\""
 tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 ---
 

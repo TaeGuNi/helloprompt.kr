@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Aborder la Question du Salaire : Rédiger un E-mail de Demande d'Augmentation Poli et Ferme"
+title: " \"Aborder la Question du Salaire : Rédiger un E-mail de Demande d'Augmentation Poli et Ferme\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Rédigez un e-mail professionnel pour demander une augmentation de salaire : soyez poli, mettez en valeur vos performances et fixez le cadre sans froisser votre hiérarchie."
+description: " \"Rédigez un e-mail professionnel pour demander une augmentation de salaire : soyez poli, mettez en valeur vos performances et fixez le cadre sans froisser votre hiérarchie.\""
 tags:
   [
     "EmailAugmentationSalaire",

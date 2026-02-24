@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Recomendación de Regalos Personalizados con IA para Ser Llamado Sensato"
+title: " \"Generador de Recomendación de Regalos Personalizados con IA para Ser Llamado Sensato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diaria"
-description: "Ingresa edad, género, relación y presupuesto, y elegiremos una lista de regalos infalibles."
+description: " \"Ingresa edad, género, relación y presupuesto, y elegiremos una lista de regalos infalibles.\""
 tags:
   [
     "Recomendación de Regalos",

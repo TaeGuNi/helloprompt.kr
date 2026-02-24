@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida al Codice di Abbigliamento per Siti Religiosi: Niente Pantaloncini?"
+title: " \"Guida al Codice di Abbigliamento per Siti Religiosi: Niente Pantaloncini?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Templi, cattedrali, moschee... Scopri il dress code per i luoghi sacri ed evita di essere respinto all'ingresso."
+description: " \"Templi, cattedrali, moschee... Scopri il dress code per i luoghi sacri ed evita di essere respinto all'ingresso.\""
 tags:
   [
     "Codice di Abbigliamento",

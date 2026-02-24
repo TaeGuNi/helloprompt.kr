@@ -1,6 +1,6 @@
 ---
-title: "Samsung Galaxy S26 बनाम Apple iPhone 17: ऑन-डिवाइस AI का तकनीकी विश्लेषण"
-description: "2026 के स्मार्टफोन AI युद्ध में कौन जीतेगा? Galaxy S26 के NPU और iPhone 17 के Neural Engine का गहन तकनीकी विश्लेषण और तुलनात्मक प्रॉम्प्ट।"
+title: " \"Samsung Galaxy S26 बनाम Apple iPhone 17: ऑन-डिवाइस AI का तकनीकी विश्लेषण\""
+description: " \"2026 के स्मार्टफोन AI युद्ध में कौन जीतेगा? Galaxy S26 के NPU और iPhone 17 के Neural Engine का गहन तकनीकी विश्लेषण और तुलनात्मक प्रॉम्प्ट।\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

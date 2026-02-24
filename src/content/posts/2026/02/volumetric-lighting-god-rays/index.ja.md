@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "光が降り注ぐ「Volumetric Lighting」（ゴッドレイ）演出法"
+title: " \"光が降り注ぐ「Volumetric Lighting」（ゴッドレイ）演出法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "空気中の埃まで照らす神秘的な光の筋、ゴッドレイ(God rays)をプロンプトで具現してみてください。"
+description: " \"空気中の埃まで照らす神秘的な光の筋、ゴッドレイ(God rays)をプロンプトで具現してみてください。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

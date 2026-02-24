@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Technique d' 'Éclairage Rembrandt' Élevant la Qualité du Portrait"
+title: " \"Technique d' 'Éclairage Rembrandt' Élevant la Qualité du Portrait\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt d'éclairage pour créer des portraits profonds et dramatiques, dignes de véritables chefs-d'œuvre."
+description: " \"Prompt d'éclairage pour créer des portraits profonds et dramatiques, dignes de véritables chefs-d'œuvre.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Éclairage"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "复杂的 Excel 公式，用话说明就能写出来的提示词"
+title: " \"复杂的 Excel 公式，用话说明就能写出来的提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "VLOOKUP 和 INDEX MATCH 总是搞混？只需简单描述你的需求，AI 就能为你写出完美的 Excel 函数。"
+description: " \"VLOOKUP 和 INDEX MATCH 总是搞混？只需简单描述你的需求，AI 就能为你写出完美的 Excel 函数。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby"
+title: " \"정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Vous voulez créer un blog de développement ou un portfolio sans payer de frais de serveur ? Découvrez le grand gagnant des générateurs de sites statiques en 2026 et le prompt parfait pour une configuration initiale réussie."
+description: " \"Vous voulez créer un blog de développement ou un portfolio sans payer de frais de serveur ? Découvrez le grand gagnant des générateurs de sites statiques en 2026 et le prompt parfait pour une configuration initiale réussie.\""
 tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 ---
 

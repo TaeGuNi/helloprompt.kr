@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록 지옥 탈출: 녹음만 하면 요약+할일+이메일까지 3분 컷"
+title: " \"회의록 지옥 탈출: 녹음만 하면 요약+할일+이메일까지 3분 컷\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "업무 자동화"
-description: "Whisper와 GPT를 연동하여 지루한 회의록 작성 업무를 자동화하는 완벽한 워크플로우. 막내 사원 필수 가이드."
+description: " \"Whisper와 GPT를 연동하여 지루한 회의록 작성 업무를 자동화하는 완벽한 워크플로우. 막내 사원 필수 가이드.\""
 tags: ["회의록", "Whisper", "ChatGPT", "업무자동화", "생산성"]
 ---
 

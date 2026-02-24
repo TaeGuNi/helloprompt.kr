@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entwicklers lebenslanges Problem 'Variablen benennen', KI erledigt das für Sie"
+title: " \"Entwicklers lebenslanges Problem 'Variablen benennen', KI erledigt das für Sie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Hören Sie auf, bedeutungslose Variablennamen wie tmp, data oder a zu verwenden. Ein Prompt, der englische Variablen- und Funktionsnamen empfiehlt, die perfekt zum Kontext passen."
+description: " \"Hören Sie auf, bedeutungslose Variablennamen wie tmp, data oder a zu verwenden. Ein Prompt, der englische Variablen- und Funktionsnamen empfiehlt, die perfekt zum Kontext passen.\""
 tags: ["Benennung", "Clean Code", "Variablenname", "Englisch lernen"]
 ---
 

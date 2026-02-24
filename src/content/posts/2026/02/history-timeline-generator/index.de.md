@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fluss auf einen Blick: Historischer Zeitlinien-Generator"
+title: " \"Fluss auf einen Blick: Historischer Zeitlinien-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: "Ein Prompt, der komplexe historische Ereignisse und ihre kausalen Zusammenhänge in eine übersichtliche Zeitlinie strukturiert."
+description: " \"Ein Prompt, der komplexe historische Ereignisse und ihre kausalen Zusammenhänge in eine übersichtliche Zeitlinie strukturiert.\""
 tags:
   ["Geschichtszusammenfassung", "Chronologie", "Zeitlinie", "Zusammenfassung"]
 ---

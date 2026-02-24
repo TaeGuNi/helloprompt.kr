@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (Italian)"
-description: "Intelligenza artificiale orientata alla privacy e accessibile a tutti"
+title: " \"Local LLMs Guide (Italian)\""
+description: " \"Intelligenza artificiale orientata alla privacy e accessibile a tutti\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

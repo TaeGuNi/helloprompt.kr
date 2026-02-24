@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Sleep Story Generator for Adults: Bedtime Stories for Grown-ups"
+title: " \"AI Sleep Story Generator for Adults: Bedtime Stories for Grown-ups\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Counting sheep is boring, and exciting stories just keep you awake. Let AI craft a profoundly relaxing, conflict-free 'adult bedtime story' to help you drift off to sleep."
+description: " \"Counting sheep is boring, and exciting stories just keep you awake. Let AI craft a profoundly relaxing, conflict-free 'adult bedtime story' to help you drift off to sleep.\""
 tags: ["Sleep Story", "Insomnia", "ASMR", "Healing", "TTS"]
 ---
 

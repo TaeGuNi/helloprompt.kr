@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching de Habilidades Sociais para Crianças: Explicando Relacionamentos e Rejeição"
+title: " \"Coaching de Habilidades Sociais para Crianças: Explicando Relacionamentos e Rejeição\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Coaching de sociabilidade para ajudar crianças a lidar com a rejeição e construir relacionamentos saudáveis com os colegas."
+description: " \"Coaching de sociabilidade para ajudar crianças a lidar com a rejeição e construir relacionamentos saudáveis com os colegas.\""
 tags:
   [
     "Parentalidade",

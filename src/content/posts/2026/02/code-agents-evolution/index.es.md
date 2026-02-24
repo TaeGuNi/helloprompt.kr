@@ -1,6 +1,6 @@
 ---
-title: "Evolución de los agentes de codificación"
-description: "Descubre cómo los agentes de codificación autónomos están revolucionando el ecosistema de desarrollo de software."
+title: " \"Evolución de los agentes de codificación\""
+description: " \"Descubre cómo los agentes de codificación autónomos están revolucionando el ecosistema de desarrollo de software.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]

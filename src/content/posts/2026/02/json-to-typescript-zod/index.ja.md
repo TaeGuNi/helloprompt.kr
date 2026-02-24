@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "JSONだけ投げればTypeScript型定義がパッ！(feat. Zod)"
+title: " \"JSONだけ投げればTypeScript型定義がパッ！(feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "複雑なJSONデータからTypeScriptの型定義とZodスキーマを一瞬で自動生成する実用的なプロンプトです。"
+description: " \"複雑なJSONデータからTypeScriptの型定義とZodスキーマを一瞬で自動生成する実用的なプロンプトです。\""
 tags: ["TypeScript", "Zod", "JSON", "型定義", "生産性"]
 ---
 

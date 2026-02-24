@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "커피 섭취량에 따른 집중력 예측 봇 만들기"
+title: " \"커피 섭취량에 따른 집중력 예측 봇 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/웰니스"
-description: "Wie viele Tassen Kaffee haben Sie heute getrunken? Berechnen Sie die Koffein-Halbwertszeit, um herauszufinden, ob Sie heute Abend einschlafen können oder wann Sie am wachsten sind."
+description: " \"Wie viele Tassen Kaffee haben Sie heute getrunken? Berechnen Sie die Koffein-Halbwertszeit, um herauszufinden, ob Sie heute Abend einschlafen können oder wann Sie am wachsten sind.\""
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 

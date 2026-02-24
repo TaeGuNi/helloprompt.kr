@@ -1,6 +1,6 @@
 ---
-title: "Stoat: 删除LLM生成代码的“反向Copilot”"
-description: "别再生成代码了！Stoat 是一款“反向 Copilot”，专门用于发现并删除 AI 生成的臃肿、冗余代码，为你的代码库彻底减负。"
+title: " \"Stoat: 删除LLM生成代码的“反向Copilot”\""
+description: " \"别再生成代码了！Stoat 是一款“反向 Copilot”，专门用于发现并删除 AI 生成的臃肿、冗余代码，为你的代码库彻底减负。\""
 date: 2026-02-15
 tags:
   - AI

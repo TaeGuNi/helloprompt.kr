@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn个人品牌帖子生成器：将日常工作转化为洞察力"
+title: " \"LinkedIn个人品牌帖子生成器：将日常工作转化为洞察力\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "职业与跳槽"
-description: "将日常琐碎的工作经验与见解转化为高互动的优质内容，无需显赫成就也能轻松建立你的LinkedIn影响力。"
+description: " \"将日常琐碎的工作经验与见解转化为高互动的优质内容，无需显赫成就也能轻松建立你的LinkedIn影响力。\""
 tags: ["个人品牌", "写作", "LinkedIn", "内容营销"]
 ---
 

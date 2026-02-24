@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "为 TRPG Master 的情景挂钩生成 (Scenario Hooks)"
+title: " \"为 TRPG Master 的情景挂钩生成 (Scenario Hooks)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "专为备团时间不足的 GM 准备的神器。一键生成让玩家瞬间沉浸其中的高能冒险开场！"
+description: " \"专为备团时间不足的 GM 准备的神器。一键生成让玩家瞬间沉浸其中的高能冒险开场！\""
 tags: ["TRPG", "D&D", "情景", "游戏主持", "故事"]
 ---
 

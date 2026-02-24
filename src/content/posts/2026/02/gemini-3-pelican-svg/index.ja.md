@@ -1,6 +1,6 @@
 ---
-title: "Gemini 3 Deep Think Creates Pelican SVG"
-description: "GoogleのGemini 3は、自転車に乗るペリカンの有効なSVGコードを生成することで、高度な推論能力を証明しました。これはマルチモーダル生成とコード理解における大きな進歩を意味します。"
+title: " \"Gemini 3 Deep Think Creates Pelican SVG\""
+description: " \"GoogleのGemini 3は、自転車に乗るペリカンの有効なSVGコードを生成することで、高度な推論能力を証明しました。これはマルチモーダル生成とコード理解における大きな進歩を意味します。\""
 date: 2026-02-15
 tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 ---

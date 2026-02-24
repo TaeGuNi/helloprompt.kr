@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: "L'ère des menus et boutons statiques est révolue. Découvrez le concept d'« UI Générative » qui analyse l'intention de l'utilisateur en temps réel pour concevoir des interfaces sur mesure, ainsi que les prompts de design associés."
+description: " \"L'ère des menus et boutons statiques est révolue. Découvrez le concept d'« UI Générative » qui analyse l'intention de l'utilisateur en temps réel pour concevoir des interfaces sur mesure, ainsi que les prompts de design associés.\""
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
@@ -12,7 +12,7 @@ tags:
   - Adaptive Design
   - No-UI
   - UX Trends
-title: "생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래"
+title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래\""
 ---
 
 # 🎨 UI Générative (Generative UI) : L'Avenir des Interfaces Sans Clic

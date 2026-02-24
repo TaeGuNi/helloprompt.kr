@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "에이전트형 IDE의 부상: 2026년 AI가 코딩을 재편하는 방법"
+title: " \"에이전트형 IDE의 부상: 2026년 AI가 코딩을 재편하는 방법\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026년, 코딩의 패러다임이 바뀝니다. 에이전트형 IDE(Cursor, Windsurf 등)를 100% 활용하여 기획부터 테스트까지 한 번에 끝내는 실전 워크플로우 프롬프트를 공개합니다."
+description: " \"2026년, 코딩의 패러다임이 바뀝니다. 에이전트형 IDE(Cursor, Windsurf 등)를 100% 활용하여 기획부터 테스트까지 한 번에 끝내는 실전 워크플로우 프롬프트를 공개합니다.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

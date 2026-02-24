@@ -3,9 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description:
-  AI의 급격한 발전은 새로운 윤리적 딜레마를 낳았습니다. 글로벌 AI 규제의 현황과 우리가 지켜야 할 '디지털 윤리'에 대해
-  심도 있게 논의합니다.
+description: "AI의 급격한 발전은 새로운 윤리적 딜레마를 낳았습니다. 글로벌 AI 규제의 현황과 우리가 지켜야 할 '디지털 윤리'에 대해 심도 있게 논의합니다."
 heroImage: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -13,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "AI 윤리와 규제 2026: 공존을 위한 규칙"
+title: " \"AI 윤리와 규제 2026: 공존을 위한 규칙\""
 ---
 
 # 📝 AI 윤리와 규제 2026: 공존을 위한 규칙

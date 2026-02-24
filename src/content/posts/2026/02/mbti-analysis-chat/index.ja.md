@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기"
+title: " \"MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "気になるあの人のLINEやメッセージ、AIが分析すれば本当の性格が見えてきます。テキストのニュアンスから相手のMBTIを推測し、最適なアプローチ方法まで導き出すプロンプトをご紹介します。"
+description: " \"気になるあの人のLINEやメッセージ、AIが分析すれば本当の性格が見えてきます。テキストのニュアンスから相手のMBTIを推測し、最適なアプローチ方法まで導き出すプロンプトをご紹介します。\""
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---
 

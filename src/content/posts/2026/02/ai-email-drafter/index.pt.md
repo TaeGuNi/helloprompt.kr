@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 이메일 초안 3초 만에 만들기"
+title: " \"AI로 이메일 초안 3초 만에 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "Um prompt de assistente de e-mail de IA para você que fica encarando a tela em branco depois de digitar 'Olá'."
+description: " \"Um prompt de assistente de e-mail de IA para você que fica encarando a tela em branco depois de digitar 'Olá'.\""
 tags: ["이메일", "ChatGPT", "업무효율", "프롬프트"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "칵테일 레시피: 냉장고 술 털어서 바텐더 되기"
+title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/취미"
-description: "남은 소주, 맥주, 위스키... 그냥 먹지 마세요. 집에 있는 재료로 만드는 AI 홈텐딩(Home-tending) 레시피."
+description: " \"남은 소주, 맥주, 위스키... 그냥 먹지 마세요. 집에 있는 재료로 만드는 AI 홈텐딩(Home-tending) 레시피.\""
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 

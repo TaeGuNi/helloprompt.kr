@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Psychologie de l'Interprétation des Rêves par l'IA : Quel Était le Rêve de la Nuit Dernière ?"
+title: " \"Psychologie de l'Interprétation des Rêves par l'IA : Quel Était le Rêve de la Nuit Dernière ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Est-ce un rêve absurde, un rêve prémonitoire ou un message caché de l'inconscient ? Nous décryptons la signification de vos rêves grâce à une analyse symbolique et psychologique poussée."
+description: " \"Est-ce un rêve absurde, un rêve prémonitoire ou un message caché de l'inconscient ? Nous décryptons la signification de vos rêves grâce à une analyse symbolique et psychologique poussée.\""
 tags:
   ["Interprétation des Rêves", "Psychologie", "Inconscient", "Freud", "ChatGPT"]
 ---

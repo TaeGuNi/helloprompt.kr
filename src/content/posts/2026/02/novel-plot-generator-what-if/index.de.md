@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Was wäre wenn' Handlungsgenerator, um Schreibblockade zu lösen"
+title: " \"'Was wäre wenn' Handlungsgenerator, um Schreibblockade zu lösen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein Brainstorming-Prompt, der Schreibblockaden durch die magische Frage 'Was wäre wenn?' mit genialen Wendungen durchbricht."
+description: " \"Ein Brainstorming-Prompt, der Schreibblockaden durch die magische Frage 'Was wäre wenn?' mit genialen Wendungen durchbricht.\""
 tags: ["RomanSchreiben", "Handlung", "Idee", "Kreation"]
 ---
 

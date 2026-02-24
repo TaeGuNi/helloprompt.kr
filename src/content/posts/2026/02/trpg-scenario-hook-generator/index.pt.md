@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Geração de Gancho de Cenário para Mestres de TRPG"
+title: " \"Geração de Gancho de Cenário para Mestres de TRPG\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Um salva-vidas para Mestres de Jogo sem tempo de preparação. Gere introduções emocionantes que lançam os jogadores direto na aventura."
+description: " \"Um salva-vidas para Mestres de Jogo sem tempo de preparação. Gere introduções emocionantes que lançam os jogadores direto na aventura.\""
 tags: ["TRPG", "D&D", "Cenário", "MestreJogo", "História"]
 ---
 

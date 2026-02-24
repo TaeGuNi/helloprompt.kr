@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Eintägiger Stadtrundfahrt-Reiseplan mit KI: Perfekte Planung in 1 Minute"
+title: " \"Eintägiger Stadtrundfahrt-Reiseplan mit KI: Perfekte Planung in 1 Minute\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Ein erfüllter Tag, genossen wie ein Einheimischer! Überlassen Sie den optimalen eintägigen Reiseplan ohne verschwendete Bewegung der KI."
+description: " \"Ein erfüllter Tag, genossen wie ein Einheimischer! Überlassen Sie den optimalen eintägigen Reiseplan ohne verschwendete Bewegung der KI.\""
 tags: ["Reiseplan", "Tagesausflug", "Stadtrundfahrt", "GPT-Prompt"]
 ---
 

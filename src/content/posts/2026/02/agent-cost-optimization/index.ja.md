@@ -1,6 +1,6 @@
 ---
-title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "AIエージェントのAPIコストが爆発していませんか？LLMコンテキストウィンドウの「二次関数の罠」を理解し、知能を低下させることなくトークン使用量を最適化する3つの実践的なプロンプトパターンを学びましょう。"
+title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
+description: " \"AIエージェントのAPIコストが爆発していませんか？LLMコンテキストウィンドウの「二次関数の罠」を理解し、知能を低下させることなくトークン使用量を最適化する3つの実践的なプロンプトパターンを学びましょう。\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

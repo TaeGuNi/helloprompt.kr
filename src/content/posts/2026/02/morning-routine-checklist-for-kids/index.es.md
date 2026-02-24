@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Fin a la Guerra de la Mañana! Lista de Verificación de Rutina Matutina Autónoma"
+title: " \"¡Fin a la Guerra de la Mañana! Lista de Verificación de Rutina Matutina Autónoma\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Descubre cómo ayudar a tu hijo a prepararse por su cuenta, transformando el estrés matutino en un juego divertido."
+description: " \"Descubre cómo ayudar a tu hijo a prepararse por su cuenta, transformando el estrés matutino en un juego divertido.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

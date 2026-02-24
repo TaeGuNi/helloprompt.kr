@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Em Vez de Inglês por Telefone Caro, Falante Nativo de IA em Espera 24 Horas"
+title: " \"Em Vez de Inglês por Telefone Caro, Falante Nativo de IA em Espera 24 Horas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Um prompt de Role-Play que permite praticar conversação autêntica com uma IA. Configure qualquer cenário do dia a dia e nível de dificuldade para dominar um novo idioma."
+description: " \"Um prompt de Role-Play que permite praticar conversação autêntica com uma IA. Configure qualquer cenário do dia a dia e nível de dificuldade para dominar um novo idioma.\""
 tags: ["Conversação em Inglês", "Estudo de Língua Estrangeira", "RPG"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Globale all'Etichetta a Tavola: Non Essere Maleducato"
+title: " \"Guida Globale all'Etichetta a Tavola: Non Essere Maleducato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Scopri le regole del galateo a tavola in tutto il mondo ed evita imbarazzanti gaffe culturali durante i tuoi viaggi."
+description: " \"Scopri le regole del galateo a tavola in tutto il mondo ed evita imbarazzanti gaffe culturali durante i tuoi viaggi.\""
 tags:
   [
     "Etichetta a Tavola",

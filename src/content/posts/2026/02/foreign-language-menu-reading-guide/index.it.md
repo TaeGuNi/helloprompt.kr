@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida alla Lettura dei Menu in Lingua Straniera: Ordina come un Locale"
+title: " \"Guida alla Lettura dei Menu in Lingua Straniera: Ordina come un Locale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Immagini o lettere incomprensibili? Un metodo infallibile per decifrare i menu in lingua straniera, dedicato a chi teme di sbagliare ordinazione."
+description: " \"Immagini o lettere incomprensibili? Un metodo infallibile per decifrare i menu in lingua straniera, dedicato a chi teme di sbagliare ordinazione.\""
 tags:
   [
     "Lettura Menu",

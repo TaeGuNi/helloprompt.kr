@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너"
+title: " \"발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/커뮤니케이션"
-description: "专为一上台演讲就声音发抖的你量身打造的解决方案。从利用 AI 润色讲稿，到应对高压提问的防御逻辑，提供完美的彩排指南。"
+description: " \"专为一上台演讲就声音发抖的你量身打造的解决方案。从利用 AI 润色讲稿，到应对高压提问的防御逻辑，提供完美的彩排指南。\""
 tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Don't Know What to Pack? AI Smart Packing by Travel Destination"
+title: " \"Don't Know What to Pack? AI Smart Packing by Travel Destination\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Get a flawless, AI-generated packing checklist tailored to your destination's weather, culture, and itinerary."
+description: " \"Get a flawless, AI-generated packing checklist tailored to your destination's weather, culture, and itinerary.\""
 tags: ["Travel", "Packing", "Checklist", "Preparation"]
 ---
 

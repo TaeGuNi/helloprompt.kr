@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching de Prononciation Native Appris par Texte"
+title: " \"Coaching de Prononciation Native Appris par Texte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Un prompt pour visualiser l'alphabet phonétique, l'accentuation et l'intonation, idéal pour s'entraîner même sans audio."
+description: " \"Un prompt pour visualiser l'alphabet phonétique, l'accentuation et l'intonation, idéal pour s'entraîner même sans audio.\""
 tags: ["PrononciationAnglaise", "Shadowing", "Prompt", "Parler"]
 ---
 

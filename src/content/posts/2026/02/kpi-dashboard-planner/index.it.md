@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pianificare una Dashboard KPI Visibile a Colpo d'Occhio"
+title: " \"Pianificare una Dashboard KPI Visibile a Colpo d'Occhio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Scopri quali indicatori chiave (KPI) monitorare e come strutturare al meglio la tua dashboard per una lettura immediata dei dati."
+description: " \"Scopri quali indicatori chiave (KPI) monitorare e come strutturare al meglio la tua dashboard per una lettura immediata dei dati.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "웹어셈블리(Wasm) 포팅 어시스턴트"
+title: " \"웹어셈블리(Wasm) 포팅 어시스턴트\""
 author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "개발 생산성"
-description: "这是一个实用的提示词，旨在帮助您将现有的 C++/Rust/Go 代码无缝转换为可在 Web 上运行的 WebAssembly 模块。"
+description: " \"这是一个实用的提示词，旨在帮助您将现有的 C++/Rust/Go 代码无缝转换为可在 Web 上运行的 WebAssembly 模块。\""
 tags: ["WebAssembly", "Rust", "Performance"]
 ---
 

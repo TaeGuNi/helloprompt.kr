@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 미라클 모닝 루틴, AI로 설계하기
+title: "미라클 모닝 루틴, AI로 설계하기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: Schluss mit Miracle Mornings, die nach drei Tagen scheitern! Entdecken Sie das Geheimnis, wie Sie mit ChatGPT eine Morgenroutine entwerfen, die perfekt zu Ihnen passt.
+description: "Schluss mit Miracle Mornings, die nach drei Tagen scheitern! Entdecken Sie das Geheimnis, wie Sie mit ChatGPT eine Morgenroutine entwerfen, die perfekt zu Ihnen passt."
 tags: [AI, ChatGPT, Prompt]
 ---
 

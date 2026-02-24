@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Unknown Error Log, Analyze Cause in 10 Seconds"
+title: " \"Unknown Error Log, Analyze Cause in 10 Seconds\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "A debugging helper prompt that finds the root cause in thousands of lines of error logs and proposes actionable solutions."
+description: " \"A debugging helper prompt that finds the root cause in thousands of lines of error logs and proposes actionable solutions.\""
 tags: ["Debugging", "Error Log", "Troubleshooting"]
 ---
 

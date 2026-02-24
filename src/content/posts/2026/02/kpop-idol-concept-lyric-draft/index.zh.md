@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "K-POP 偶像主打歌概念及歌词草案"
+title: " \"K-POP 偶像主打歌概念及歌词草案\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "如果我是制作人？请一次性策划偶像组合的世界观、专辑概念、主打歌歌词。"
+description: " \"如果我是制作人？请一次性策划偶像组合的世界观、专辑概念、主打歌歌词。\""
 tags: ["K-POP", "偶像", "世界观", "策划", "作词"]
 ---
 

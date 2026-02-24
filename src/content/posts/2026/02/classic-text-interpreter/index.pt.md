@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "IA Lendo Registros Históricos: Intérprete de Texto Clássico"
+title: " \"IA Lendo Registros Históricos: Intérprete de Texto Clássico\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanidades/História"
-description: "Um prompt que traduz documentos antigos complexos e fontes primárias obscuras para uma linguagem moderna e acessível, revelando seus significados ocultos."
+description: " \"Um prompt que traduz documentos antigos complexos e fontes primárias obscuras para uma linguagem moderna e acessível, revelando seus significados ocultos.\""
 tags: ["História", "Clássico", "Alfabetização", "AnáliseRegistroHistórico"]
 ---
 

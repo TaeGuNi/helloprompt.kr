@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Programma Rimborso Prestito: Capitale e Interessi Uguali vs Capitale Uguale"
+title: " \"Programma Rimborso Prestito: Capitale e Interessi Uguali vs Capitale Uguale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Modello calcolatrice interessi prestito creato direttamente in Excel senza la necessità di accedere ai portali bancari."
+description: " \"Modello calcolatrice interessi prestito creato direttamente in Excel senza la necessità di accedere ai portali bancari.\""
 tags: ["Excel", "InteressePrestito", "FunzioneFinanziaria", "PMT"]
 ---
 

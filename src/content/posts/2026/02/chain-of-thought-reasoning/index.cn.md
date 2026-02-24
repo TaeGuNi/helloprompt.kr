@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (Simplified Chinese)"
-description: "要求模型“一步步思考”(Think step by step) 能显著提升其在复杂逻辑任务上的准确率。"
+title: " \"Chain of Thought Reasoning (Simplified Chinese)\""
+description: " \"要求模型“一步步思考”(Think step by step) 能显著提升其在复杂逻辑任务上的准确率。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

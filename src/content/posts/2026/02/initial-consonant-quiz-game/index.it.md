@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gioco Quiz Lettera Iniziale: Prompt per Esplosione di Vocabolario"
+title: " \"Gioco Quiz Lettera Iniziale: Prompt per Esplosione di Vocabolario\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Impara nuove parole attraverso il gioco anziché lo studio noioso, con l'aiuto di un arbitro IA."
+description: " \"Impara nuove parole attraverso il gioco anziché lo studio noioso, con l'aiuto di un arbitro IA.\""
 tags:
   [
     "Genitorialità",

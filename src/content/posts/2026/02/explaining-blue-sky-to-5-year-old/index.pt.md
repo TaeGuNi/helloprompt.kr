@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explicando o Céu Azul para uma Criança de 5 Anos: Ciência para Pais"
+title: " \"Explicando o Céu Azul para uma Criança de 5 Anos: Ciência para Pais\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Um prompt que desvenda princípios científicos complexos com metáforas adequadas para crianças."
+description: " \"Um prompt que desvenda princípios científicos complexos com metáforas adequadas para crianças.\""
 tags:
   [
     "Parentalidade",

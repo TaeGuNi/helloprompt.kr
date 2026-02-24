@@ -1,6 +1,6 @@
 ---
-title: "Smart Sleep Masks Broadcasting Brainwaves"
-description: "IoT privacy remains a critical vulnerability in 2026; biometric data leaks are the new password leaks."
+title: " \"Smart Sleep Masks Broadcasting Brainwaves\""
+description: " \"IoT privacy remains a critical vulnerability in 2026; biometric data leaks are the new password leaks.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]

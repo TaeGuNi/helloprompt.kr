@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "반려 식물 진단: 시들한 잎 사진 보고 살려내기"
+title: " \"반려 식물 진단: 시들한 잎 사진 보고 살려내기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/식물"
-description: "Die Rettung für alle Pflanzenkiller! Erhalte mit nur einem Foto von verfärbten Blättern, Flecken oder hängenden Stängeln eine genaue Diagnose und einen maßgeschneiderten Behandlungsplan."
+description: " \"Die Rettung für alle Pflanzenkiller! Erhalte mit nur einem Foto von verfärbten Blättern, Flecken oder hängenden Stängeln eine genaue Diagnose und einen maßgeschneiderten Behandlungsplan.\""
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---
 

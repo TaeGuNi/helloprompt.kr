@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Flux en un Coup d'œil : Générateur de Chronologie Historique"
+title: " \"Flux en un Coup d'œil : Générateur de Chronologie Historique\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanités/Histoire"
-description: "Prompt qui organise l'ordre et la relation causale d'événements complexes en une Chronologie soignée."
+description: " \"Prompt qui organise l'ordre et la relation causale d'événements complexes en une Chronologie soignée.\""
 tags: ["RésuméHistoire", "Chronologie", "LigneDeTemps", "Résumé"]
 ---
 

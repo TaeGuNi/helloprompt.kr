@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mangia Come un Locale! Navigatore Cibo Locale IA"
+title: " \"Mangia Come un Locale! Navigatore Cibo Locale IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi"
-description: "Dimentica le trappole per turisti. Ecco come trovare i veri ristoranti dove la gente del posto fa la fila."
+description: " \"Dimentica le trappole per turisti. Ecco come trovare i veri ristoranti dove la gente del posto fa la fila.\""
 tags: ["Viaggi", "Ristorante", "Mukbang", "Ristorante Locale"]
 ---
 

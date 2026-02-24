@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Puedo Ser Autor También? Planificación de una Tabla de Contenido de Libro que Venda"
+title: " \"¿Puedo Ser Autor También? Planificación de una Tabla de Contenido de Libro que Venda\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escritura"
-description: "Un prompt para estructurar tu libro y diseñar un índice atractivo que transformará tu sueño de publicar en una realidad palpable."
+description: " \"Un prompt para estructurar tu libro y diseñar un índice atractivo que transformará tu sueño de publicar en una realidad palpable.\""
 tags: ["Escritura de Libros", "Planificación Editorial", "E-book"]
 ---
 

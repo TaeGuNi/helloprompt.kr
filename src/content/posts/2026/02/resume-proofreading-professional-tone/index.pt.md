@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Correção de Tom de Currículo: Como Perder 'Amador' e Parecer 'Pro'"
+title: " \"Correção de Tom de Currículo: Como Perder 'Amador' e Parecer 'Pro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Um prompt de revisão que refina o tom do seu currículo para uma linguagem corporativa, capturando erros de digitação e falhas gramaticais para aumentar sua credibilidade profissional."
+description: " \"Um prompt de revisão que refina o tom do seu currículo para uma linguagem corporativa, capturando erros de digitação e falhas gramaticais para aumentar sua credibilidade profissional.\""
 tags:
   [
     "CorreçãoCurrículo",

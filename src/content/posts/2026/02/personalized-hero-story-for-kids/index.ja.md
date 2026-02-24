@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "うちの子が主人公のヒーロー童話作り"
+title: " \"うちの子が主人公のヒーロー童話作り\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "子供の自尊心を高める魔法、名前を入れて作る世界に一つだけのカスタマイズ冒険物語"
+description: " \"子供の自尊心を高める魔法、名前を入れて作る世界に一つだけのカスタマイズ冒険物語\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

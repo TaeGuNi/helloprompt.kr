@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ATS (招聘解决方案) 光脱防止！简历关键词优化提示词"
+title: " \"ATS (招聘解决方案) 光脱防止！简历关键词优化提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "将招聘系统 (ATS) 偏好的核心关键词自然地融入简历，有效防止简历被系统自动淘汰。"
+description: " \"将招聘系统 (ATS) 偏好的核心关键词自然地融入简历，有效防止简历被系统自动淘汰。\""
 tags: ["ATS", "简历优化", "关键词", "招聘系统"]
 ---
 

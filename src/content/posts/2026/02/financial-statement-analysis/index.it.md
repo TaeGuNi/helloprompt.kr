@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt di Analisi Ultra-Veloce del Bilancio Finanziario"
+title: " \"Prompt di Analisi Ultra-Veloce del Bilancio Finanziario\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Un prompt indispensabile per gli investimenti azionari: riassume i punti chiave di bilanci complessi in un solo minuto."
+description: " \"Un prompt indispensabile per gli investimenti azionari: riassume i punti chiave di bilanci complessi in un solo minuto.\""
 tags: ["Azioni", "BilancioFinanziario", "AnalisiFondamentale", "Investimento"]
 ---
 

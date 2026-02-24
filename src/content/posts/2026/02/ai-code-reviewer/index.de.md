@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Keine Kollegen? Macht nichts, harte Code-Review vom KI-Senior-Entwickler"
+title: " \"Keine Kollegen? Macht nichts, harte Code-Review vom KI-Senior-Entwickler\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt für Entwickler, die ohne Team arbeiten und akribische Code-Reviews aus der Perspektive eines Google/Amazon Senior-Entwicklers benötigen."
+description: " \"Ein Prompt für Entwickler, die ohne Team arbeiten und akribische Code-Reviews aus der Perspektive eines Google/Amazon Senior-Entwicklers benötigen.\""
 tags: ["Code-Review", "Mentoring", "Clean Code", "Selbstentwicklung"]
 ---
 

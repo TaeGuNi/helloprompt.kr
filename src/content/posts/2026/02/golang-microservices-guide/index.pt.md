@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까?"
+title: " \"Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "Guia de introdução à linguagem Go para desenvolvedores Java/Spring. O poder das Goroutines e por que o Go é otimizado para Microsserviços (MSA)."
+description: " \"Guia de introdução à linguagem Go para desenvolvedores Java/Spring. O poder das Goroutines e por que o Go é otimizado para Microsserviços (MSA).\""
 tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 ---
 

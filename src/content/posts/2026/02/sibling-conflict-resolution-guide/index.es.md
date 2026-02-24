@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mediación de Conflictos entre Hermanos: Prompt de la Sabiduría de Salomón"
+title: " \"Mediación de Conflictos entre Hermanos: Prompt de la Sabiduría de Salomón\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Guía de prompts para reconciliar de forma justa a niños que pelean a diario y fortalecer su vínculo fraternal."
+description: " \"Guía de prompts para reconciliar de forma justa a niños que pelean a diario y fortalecer su vínculo fraternal.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

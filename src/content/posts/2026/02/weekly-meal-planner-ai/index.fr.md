@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 영양사: 주간 식단표 자동 생성"
+title: " \"AI 영양사: 주간 식단표 자동 생성\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Générez un menu hebdomadaire sain et votre liste de courses en quelques secondes grâce à ce prompt de diététicien IA."
+description: " \"Générez un menu hebdomadaire sain et votre liste de courses en quelques secondes grâce à ce prompt de diététicien IA.\""
 tags: ["태그1", "태그2"]
 ---
 

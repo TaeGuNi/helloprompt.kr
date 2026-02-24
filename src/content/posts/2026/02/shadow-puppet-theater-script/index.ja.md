@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "影絵人形劇場：寝る前の落ち着いた遊び"
+title: " \"影絵人形劇場：寝る前の落ち着いた遊び\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "懐中電灯一つで作る幻想の世界、AIが組んでくれる影絵劇の台本"
+description: " \"懐中電灯一つで作る幻想の世界、AIが組んでくれる影絵劇の台本\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

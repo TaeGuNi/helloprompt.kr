@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibrazione Stampa Vintage Stile 'Stampa Risograph'"
+title: " \"Vibrazione Stampa Vintage Stile 'Stampa Risograph'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Genera immagini in stile Risograph sfruttando mezzetinte uniche e disallineamenti cromatici per un tocco vintage inconfondibile."
+description: " \"Genera immagini in stile Risograph sfruttando mezzetinte uniche e disallineamenti cromatici per un tocco vintage inconfondibile.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Stile Artistico", "Stampa"]
 ---
 

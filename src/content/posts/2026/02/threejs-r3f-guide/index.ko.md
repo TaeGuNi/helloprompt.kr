@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터랙션"
+title: " \"Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터랙션\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"
-description: "웹사이트에 3D 모델을 띄우고 싶다면? React Three Fiber(R3F)와 AI를 활용해 쉽고 빠르게 3D 인터랙션을 구현하는 완벽 가이드."
+description: " \"웹사이트에 3D 모델을 띄우고 싶다면? React Three Fiber(R3F)와 AI를 활용해 쉽고 빠르게 3D 인터랙션을 구현하는 완벽 가이드.\""
 tags: ["Three.js", "R3F", "3D웹", "React", "프론트엔드"]
 ---
 

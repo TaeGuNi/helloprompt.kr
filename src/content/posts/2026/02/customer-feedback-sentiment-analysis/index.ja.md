@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "くどくどした顧客フィードバック、肯定/否定分析する"
+title: " \"くどくどした顧客フィードバック、肯定/否定分析する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "数百件のレビューコメントを、感情分析（Sentiment Analysis）で一瞬にして整理します。"
+description: " \"数百件のレビューコメントを、感情分析（Sentiment Analysis）で一瞬にして整理します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

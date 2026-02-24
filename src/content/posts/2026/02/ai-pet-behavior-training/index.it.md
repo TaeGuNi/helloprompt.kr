@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Il Mio Cane è Cambiato: Specialista del Comportamento IA"
+title: " \"Il Mio Cane è Cambiato: Specialista del Comportamento IA\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Animali Domestici"
-description: "Ansia da separazione, abbaiare continuo, incidenti in casa... Ottieni un piano di addestramento personalizzato dall'IA invece di pagare un costoso addestratore."
+description: " \"Ansia da separazione, abbaiare continuo, incidenti in casa... Ottieni un piano di addestramento personalizzato dall'IA invece di pagare un costoso addestratore.\""
 tags: ["Animali", "Addestramento Cani", "Gatti", "Genitori di Animali"]
 ---
 

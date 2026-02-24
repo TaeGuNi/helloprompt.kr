@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gros Problème si Vous Faites une Erreur ! Guide Culture & Étiquette IA par Pays"
+title: " \"Gros Problème si Vous Faites une Erreur ! Guide Culture & Étiquette IA par Pays\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Quel pourboire laisser ? Quels gestes éviter ? Découvrez comment ne pas passer pour un touriste impoli grâce à l'IA."
+description: " \"Quel pourboire laisser ? Quels gestes éviter ? Découvrez comment ne pas passer pour un touriste impoli grâce à l'IA.\""
 tags: ["Voyage", "Étiquette", "Culture", "Manières"]
 ---
 

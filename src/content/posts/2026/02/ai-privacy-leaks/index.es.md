@@ -1,6 +1,6 @@
 ---
-title: "Smart Device Privacy Risks (Spanish)"
-description: "Tus ondas cerebrales podrían ser públicas: la recopilación de datos de IA no tiene límites."
+title: " \"Smart Device Privacy Risks (Spanish)\""
+description: " \"Tus ondas cerebrales podrían ser públicas: la recopilación de datos de IA no tiene límites.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]

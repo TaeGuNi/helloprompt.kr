@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide des Gestes et Salutations Amicaux : Ne Soyez Pas Mal Compris"
+title: " \"Guide des Gestes et Salutations Amicaux : Ne Soyez Pas Mal Compris\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Vous avez failli vous attirer des ennuis à cause d'un simple geste de la main ? Découvrez les gestes qui prêtent à confusion et les salutations qui ouvrent les portes à l'étranger."
+description: " \"Vous avez failli vous attirer des ennuis à cause d'un simple geste de la main ? Découvrez les gestes qui prêtent à confusion et les salutations qui ouvrent les portes à l'étranger.\""
 tags: ["Salutations", "Langage Corporel", "Gestes", "Communication Culturelle"]
 ---
 

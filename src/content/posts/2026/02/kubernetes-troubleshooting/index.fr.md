@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법"
+title: " \"Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"
-description: "CrashLoopBackOff, Pending... Un guide de prompts pratique pour analyser rapidement et précisément les logs d'erreurs Kubernetes et résoudre les pannes."
+description: " \"CrashLoopBackOff, Pending... Un guide de prompts pratique pour analyser rapidement et précisément les logs d'erreurs Kubernetes et résoudre les pannes.\""
 tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 ---
 

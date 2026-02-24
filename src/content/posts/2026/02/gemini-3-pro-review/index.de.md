@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro: Coding-Benchmarks aus der Praxis"
+title: " \"Gemini 3 Pro: Coding-Benchmarks aus der Praxis\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Eine detaillierte Analyse der Coding-Leistung von Gemini 3 Pro anhand von Python, Rust und Legacy-Migrationen."
+description: " \"Eine detaillierte Analyse der Coding-Leistung von Gemini 3 Pro anhand von Python, Rust und Legacy-Migrationen.\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

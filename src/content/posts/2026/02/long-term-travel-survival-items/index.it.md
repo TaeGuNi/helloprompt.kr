@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida agli Articoli di Sopravvivenza per Viaggiatori a Lungo Termine e Nomadi Digitali"
+title: " \"Guida agli Articoli di Sopravvivenza per Viaggiatori a Lungo Termine e Nomadi Digitali\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Casa lontano da casa? Oggetti essenziali che migliorano la qualità della vita nei viaggi lunghi."
+description: " \"Casa lontano da casa? Oggetti essenziali che migliorano la qualità della vita nei viaggi lunghi.\""
 tags:
   [
     "Viaggi a Lungo Termine",

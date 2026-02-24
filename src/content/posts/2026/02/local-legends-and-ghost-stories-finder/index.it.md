@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cercatore di Leggende Locali e Storie di Fantasmi: Scoprire Racconti Nascosti"
+title: " \"Cercatore di Leggende Locali e Storie di Fantasmi: Scoprire Racconti Nascosti\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Un drago viveva in questo lago? Raddoppia il divertimento del viaggio esplorando le storie di fantasmi e le antiche leggende che solo gli abitanti del posto conoscono."
+description: " \"Un drago viveva in questo lago? Raddoppia il divertimento del viaggio esplorando le storie di fantasmi e le antiche leggende che solo gli abitanti del posto conoscono.\""
 tags:
   [
     "Leggenda",

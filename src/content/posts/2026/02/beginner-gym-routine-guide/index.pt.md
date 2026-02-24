@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Rotina de Academia para Iniciantes: Parecendo um Profissional"
+title: " \"Guia de Rotina de Academia para Iniciantes: Parecendo um Profissional\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Você foi à academia e só correu na esteira porque não sabia o que fazer? A IA define tudo, desde a escolha das máquinas até as rotinas completas."
+description: " \"Você foi à academia e só correu na esteira porque não sabia o que fazer? A IA define tudo, desde a escolha das máquinas até as rotinas completas.\""
 tags:
   [
     "Academia",

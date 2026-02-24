@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stravolgere Cliché: Trasformare Finale Ovvio in Colpo di Scena Scioccante"
+title: " \"Stravolgere Cliché: Trasformare Finale Ovvio in Colpo di Scena Scioccante\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Metodo per ottenere idee per colpi di scena scioccanti che sorprendano il lettore stravolgendo i cliché più familiari."
+description: " \"Metodo per ottenere idee per colpi di scena scioccanti che sorprendano il lettore stravolgendo i cliché più familiari.\""
 tags: ["Romanzo", "ColpoDiScena", "Idea", "Narrazione"]
 ---
 

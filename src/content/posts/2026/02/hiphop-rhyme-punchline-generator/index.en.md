@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hip-Hop Rhyme Note: Punchline Auto-Generator Prompt"
+title: " \"Hip-Hop Rhyme Note: Punchline Auto-Generator Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Attention aspiring rappers! Just throw in your desired topic and rhyme, and let AI create the perfect punchlines."
+description: " \"Attention aspiring rappers! Just throw in your desired topic and rhyme, and let AI create the perfect punchlines.\""
 tags: ["HipHop", "Rap", "LyricWriting", "Rhyme", "Punchline"]
 ---
 

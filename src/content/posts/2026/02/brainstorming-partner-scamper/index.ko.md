@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아이디어가 꽉 막혔을 때, 브레인스토밍 파트너"
+title: " \"아이디어가 꽉 막혔을 때, 브레인스토밍 파트너\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"
-description: "머리를 쥐어짜도 참신한 아이디어가 안 떠오르나요? SCAMPER 기법을 활용해 AI와 무한 브레인스토밍을 시작해 보세요."
+description: " \"머리를 쥐어짜도 참신한 아이디어가 안 떠오르나요? SCAMPER 기법을 활용해 AI와 무한 브레인스토밍을 시작해 보세요.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

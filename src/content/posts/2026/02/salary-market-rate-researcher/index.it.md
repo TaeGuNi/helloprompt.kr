@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sono uno Sciocco? Agente Ricerca & Analisi 'Tasso di Mercato'"
+title: " \"Sono uno Sciocco? Agente Ricerca & Analisi 'Tasso di Mercato'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Analizza e confronta la fascia salariale media in base al tuo ruolo e ai tuoi anni di esperienza utilizzando dati reali, per ottenere argomentazioni oggettive in fase di negoziazione."
+description: " \"Analizza e confronta la fascia salariale media in base al tuo ruolo e ai tuoi anni di esperienza utilizzando dati reali, per ottenere argomentazioni oggettive in fase di negoziazione.\""
 tags:
   [
     "AnalisiSalariale",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista Domande Colloquio, l'IA Sceglie Per Te"
+title: " \"Lista Domande Colloquio, l'IA Sceglie Per Te\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati."
+description: " \"Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rifattorizzare Codice Sporco in Codice Pulito in 1 Secondo"
+title: " \"Rifattorizzare Codice Sporco in Codice Pulito in 1 Secondo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt che trasforma codice spaghetti complesso in codice pulito, facile da leggere e mantenere."
+description: " \"Un prompt che trasforma codice spaghetti complesso in codice pulito, facile da leggere e mantenere.\""
 tags: ["Refactoring", "Clean Code", "Manutenzione", "Produttività Dev"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Golden Ratio of Money Management: 50/30/20 Rule Calculator"
+title: " \"Golden Ratio of Money Management: 50/30/20 Rule Calculator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Apply the simplest yet most powerful budget management rule, as advocated by US Senator Elizabeth Warren."
+description: " \"Apply the simplest yet most powerful budget management rule, as advocated by US Senator Elizabeth Warren.\""
 tags: ["BudgetManagement", "Finance", "503020", "Savings"]
 ---
 

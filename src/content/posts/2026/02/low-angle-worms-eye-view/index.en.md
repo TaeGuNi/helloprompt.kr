@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Adding Magnificence 'Low Angle' (Worm's Eye View)"
+title: " \"Adding Magnificence 'Low Angle' (Worm's Eye View)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A low angle prompt that emphasizes overwhelming dignity and colossal scale by looking up at the subject from below."
+description: " \"A low angle prompt that emphasizes overwhelming dignity and colossal scale by looking up at the subject from below.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 ---

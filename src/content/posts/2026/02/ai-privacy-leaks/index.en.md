@@ -1,6 +1,6 @@
 ---
-title: "Smart Device Privacy Risks"
-description: "Your brainwaves might be public. AI data collection knows no bounds."
+title: " \"Smart Device Privacy Risks\""
+description: " \"Your brainwaves might be public. AI data collection knows no bounds.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/privacy/800/600"
 tags: ["AI", "Tech", "ai-privacy-leaks"]

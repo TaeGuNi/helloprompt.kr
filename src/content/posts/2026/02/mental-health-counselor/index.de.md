@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mein eigener KI-Psychologischer Berater, Stressabbau-Mental-Care-Leitfaden"
+title: " \"Mein eigener KI-Psychologischer Berater, Stressabbau-Mental-Care-Leitfaden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Vertrauen Sie Ihre tiefsten Sorgen der KI an und finden Sie sofortigen Seelenfrieden durch empathische und objektive Beratung."
+description: " \"Vertrauen Sie Ihre tiefsten Sorgen der KI an und finden Sie sofortigen Seelenfrieden durch empathische und objektive Beratung.\""
 tags: ["Mental Care", "Stress", "Psychologische Beratung", "Heilung"]
 ---
 

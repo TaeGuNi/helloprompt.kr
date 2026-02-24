@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LinkedIn-Profiloptimierungs-Prompt: Headhunter anziehen"
+title: " \"LinkedIn-Profiloptimierungs-Prompt: Headhunter anziehen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Erhöhen Sie Ihre Jobangebote um das 10-fache, indem Sie eine suchoptimierte Überschrift und einen überzeugenden Info-Bereich erstellen."
+description: " \"Erhöhen Sie Ihre Jobangebote um das 10-fache, indem Sie eine suchoptimierte Überschrift und einen überzeugenden Info-Bereich erstellen.\""
 tags: ["LinkedIn", "Profiloptimierung", "Headhunting", "Personal Branding"]
 ---
 

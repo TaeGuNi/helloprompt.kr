@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Nom de Personnage de Roman (Correspondance Sens et Nuance)"
+title: " \"Générateur de Nom de Personnage de Roman (Correspondance Sens et Nuance)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Trouvez le nom parfait pour vos personnages en accordant sens, nuance, époque et personnalité grâce à l'IA."
+description: " \"Trouvez le nom parfait pour vos personnages en accordant sens, nuance, époque et personnalité grâce à l'IA.\""
 tags: ["Nommage", "Personnage", "Roman", "CréationNom", "Réglage"]
 ---
 

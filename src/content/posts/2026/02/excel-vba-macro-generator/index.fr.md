@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatiser la Corvée Répétitive d'Excel avec Macro (VBA)"
+title: " \"Automatiser la Corvée Répétitive d'Excel avec Macro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Inutile de savoir coder. Une méthode magique qui génère du code VBA robuste sur simple description de votre situation."
+description: " \"Inutile de savoir coder. Une méthode magique qui génère du code VBA robuste sur simple description de votre situation.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

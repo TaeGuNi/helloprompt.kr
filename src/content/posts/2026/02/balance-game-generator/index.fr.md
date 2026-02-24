@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Jeu d'Équilibre : 'Manger Seulement des Ramen Pour Toujours vs Arrêter le Soda Pour Toujours'"
+title: " \"Générateur de Jeu d'Équilibre : 'Manger Seulement des Ramen Pour Toujours vs Arrêter le Soda Pour Toujours'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Le champion des brise-glace ! Génère à l'infini des questions de dilemmes absurdes pour enflammer l'ambiance de vos soirées."
+description: " \"Le champion des brise-glace ! Génère à l'infini des questions de dilemmes absurdes pour enflammer l'ambiance de vos soirées.\""
 tags: ["Jeu", "JeuÉquilibre", "BriseGlace", "Humour", "Fête"]
 ---
 

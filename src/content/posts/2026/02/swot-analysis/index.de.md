@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard der Unternehmensanalyse: KI-SWOT-Analysator"
+title: " \"Standard der Unternehmensanalyse: KI-SWOT-Analysator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ein präziser KI-Prompt, um Stärken, Schwächen, Chancen und Risiken eines Unternehmens, in das Sie investieren möchten, auf einen Blick zu analysieren."
+description: " \"Ein präziser KI-Prompt, um Stärken, Schwächen, Chancen und Risiken eines Unternehmens, in das Sie investieren möchten, auf einen Blick zu analysieren.\""
 tags: ["Aktie", "Unternehmensanalyse", "SWOT", "Strategie"]
 ---
 

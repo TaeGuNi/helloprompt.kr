@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "失误就出大事了！AI 国家别文化 & 礼仪指南"
+title: " \"失误就出大事了！AI 国家别文化 & 礼仪指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行"
-description: "小费给多少？手势怎么比？教你如何避免成为当地人眼中的“无礼游客”。"
+description: " \"小费给多少？手势怎么比？教你如何避免成为当地人眼中的“无礼游客”。\""
 tags: ["旅行", "礼仪", "文化", "礼貌"]
 ---
 

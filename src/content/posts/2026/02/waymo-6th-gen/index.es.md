@@ -1,10 +1,10 @@
 ---
 date: "2026-02-13"
-description: "Análisis del conductor de sexta generación de Waymo: sensores mejorados, adaptación climática superior y una experiencia de conducción autónoma inigualable."
+description: " \"Análisis del conductor de sexta generación de Waymo: sensores mejorados, adaptación climática superior y una experiencia de conducción autónoma inigualable.\""
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo comienza operaciones totalmente autónomas con el conductor de sexta generación
+title: "Waymo comienza operaciones totalmente autónomas con el conductor de sexta generación"
 ---
 
 # 🚗 Waymo comienza operaciones totalmente autónomas con el conductor de sexta generación

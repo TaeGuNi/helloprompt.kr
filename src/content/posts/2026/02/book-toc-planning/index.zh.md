@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我也能成为作家吗？策划畅销书目录"
+title: " \"我也能成为作家吗？策划畅销书目录\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "写作"
-description: "将渺茫的出版梦想变为现实，利用AI一键生成畅销书的策划案与目录架构。"
+description: " \"将渺茫的出版梦想变为现实，利用AI一键生成畅销书的策划案与目录架构。\""
 tags: ["写书", "出版策划", "电子书"]
 ---
 

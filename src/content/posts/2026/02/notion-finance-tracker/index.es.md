@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion 가계부 템플릿: 돈이 모이는 자동화 시스템"
+title: " \"Notion 가계부 템플릿: 돈이 모이는 자동화 시스템\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "재테크/투자"
-description: "Olvida los registros en Excel. Cómo visualizar el flujo de tus finanzas de un vistazo utilizando fórmulas y bases de datos relacionales en Notion."
+description: " \"Olvida los registros en Excel. Cómo visualizar el flujo de tus finanzas de un vistazo utilizando fórmulas y bases de datos relacionales en Notion.\""
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 

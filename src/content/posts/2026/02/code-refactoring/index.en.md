@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Code is Trash?! Clean Code Refactoring Coach"
+title: " \"My Code is Trash?! Clean Code Refactoring Coach\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Coding/IT"
-description: "A powerful prompt that transforms messy, 'just-works' spaghetti code into clean, readable, and highly maintainable architecture."
+description: " \"A powerful prompt that transforms messy, 'just-works' spaghetti code into clean, readable, and highly maintainable architecture.\""
 tags: ["Refactoring", "Clean Code", "Developer", "Code Review"]
 ---
 

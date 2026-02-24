@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "TRPGマスターのためのシナリオフック生成 (Scenario Hooks)"
+title: " \"TRPGマスターのためのシナリオフック生成 (Scenario Hooks)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "創作及び趣味"
-description: "セッションの準備時間が足りないGM必見。プレイヤーを瞬時に冒険へと引き込む、魅力的なシナリオの導入部（フック）をAIで自動生成します。"
+description: " \"セッションの準備時間が足りないGM必見。プレイヤーを瞬時に冒険へと引き込む、魅力的なシナリオの導入部（フック）をAIで自動生成します。\""
 tags: ["TRPG", "D&D", "シナリオ", "ゲームマスター", "ストーリー"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법"
+title: " \"서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법\""
 author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "개발 생산성"
-description: "Niente chiavi API: il tuo browser diventa un server AI. Crea la tua AI privata locale con WebGPU e WebLLM."
+description: " \"Niente chiavi API: il tuo browser diventa un server AI. Crea la tua AI privata locale con WebGPU e WebLLM.\""
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

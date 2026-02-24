@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 프론트엔드 테스트 데이터, JSON 100줄도 한방에! (AI Mock Data Gen)
+title: "프론트엔드 테스트 데이터, JSON 100줄도 한방에! (AI Mock Data Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Ist die Backend-API noch nicht fertig? Geben Sie der KI einfach das Schema vor und generieren Sie sofort hochwertige Mock-Daten, die einem echten Service entsprechen."
+description: " \"Ist die Backend-API noch nicht fertig? Geben Sie der KI einfach das Schema vor und generieren Sie sofort hochwertige Mock-Daten, die einem echten Service entsprechen.\""
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 

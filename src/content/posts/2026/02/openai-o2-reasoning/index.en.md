@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "OpenAI 'o2' Reasoning Capabilities: What Has Changed?"
-description: "A deep dive into the innovative reasoning capabilities of OpenAI's latest model, o2, its enhanced Chain of Thought (CoT), and its impact on AI development."
+title: " \"OpenAI 'o2' Reasoning Capabilities: What Has Changed?\""
+description: " \"A deep dive into the innovative reasoning capabilities of OpenAI's latest model, o2, its enhanced Chain of Thought (CoT), and its impact on AI development.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

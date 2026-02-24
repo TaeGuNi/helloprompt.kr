@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Reasoning (Russian)"
-description: "Модели теперь одновременно и в реальном времени анализируют видео, аудио и текст."
+title: " \"Multimodal Reasoning (Russian)\""
+description: " \"Модели теперь одновременно и в реальном времени анализируют видео, аудио и текст.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]

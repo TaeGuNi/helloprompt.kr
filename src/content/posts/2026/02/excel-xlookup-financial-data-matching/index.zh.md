@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "忘了 Excel VLOOKUP 吧: 财务数据匹配之神, XLOOKUP"
+title: " \"忘了 Excel VLOOKUP 吧: 财务数据匹配之神, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "还在因为错漏百出且效率低下的 VLOOKUP 熬夜加班吗？立即换乘功能更强大、操作更简便的 XLOOKUP 吧。"
+description: " \"还在因为错漏百出且效率低下的 VLOOKUP 熬夜加班吗？立即换乘功能更强大、操作更简便的 XLOOKUP 吧。\""
 tags: ["Excel", "函数", "XLOOKUP", "数据整理"]
 ---
 

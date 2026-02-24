@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록 받아적느라 놓친 내용, AI가 정리해드립니다"
+title: " \"회의록 받아적느라 놓친 내용, AI가 정리해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "Stop wondering 'What did we discuss earlier?' after meetings. Summarize everything in 1 minute with just an audio recording transcript."
+description: " \"Stop wondering 'What did we discuss earlier?' after meetings. Summarize everything in 1 minute with just an audio recording transcript.\""
 tags: ["회의", "요약", "생산성"]
 ---
 

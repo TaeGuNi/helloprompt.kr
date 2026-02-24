@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Use Secretly from PT Teacher, AI Personal Trainer"
+title: " \"Use Secretly from PT Teacher, AI Personal Trainer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Living"
-description: "A personalized health guide prompt that plans weekly workout routines and diets perfectly suited to your body condition and fitness goals."
+description: " \"A personalized health guide prompt that plans weekly workout routines and diets perfectly suited to your body condition and fitness goals.\""
 tags: ["Exercise", "Diet", "Fitness", "Home Training"]
 ---
 

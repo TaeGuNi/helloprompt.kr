@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planificando un Panel de Control de KPI Visible de un Vistazo"
+title: " \"Planificando un Panel de Control de KPI Visible de un Vistazo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "¿Qué indicadores debería mirar? Recomendación de componentes y diseño de un panel de control."
+description: " \"¿Qué indicadores debería mirar? Recomendación de componentes y diseño de un panel de control.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

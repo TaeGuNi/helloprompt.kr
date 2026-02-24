@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (French)"
-description: "Une IA respectueuse de la vie privée et accessible à tous."
+title: " \"Local LLMs Guide (French)\""
+description: " \"Une IA respectueuse de la vie privée et accessible à tous.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Début de Parolier ? Écrire des Paroles de Ballade Émotionnelle avec 3 Mots-clés"
+title: " \"Début de Parolier ? Écrire des Paroles de Ballade Émotionnelle avec 3 Mots-clés\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Avec seulement 3 mots qui vous viennent à l'esprit, l'IA génère un brouillon de paroles émotionnelles digne d'un parolier professionnel."
+description: " \"Avec seulement 3 mots qui vous viennent à l'esprit, l'IA génère un brouillon de paroles émotionnelles digne d'un parolier professionnel.\""
 tags: ["Paroles", "ÉcritureParoles", "Ballade", "Musique"]
 ---
 

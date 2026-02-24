@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gioco Deduzione Mistero: Generazione Colpevole e Trucco (Mystery Trick Generator)"
+title: " \"Gioco Deduzione Mistero: Generazione Colpevole e Trucco (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "L'IA progetta ingegnosi trucchi della stanza chiusa e alibi inattaccabili che farebbero impallidire persino Conan e Kindaichi."
+description: " \"L'IA progetta ingegnosi trucchi della stanza chiusa e alibi inattaccabili che farebbero impallidire persino Conan e Kindaichi.\""
 tags: ["Deduzione", "Mistero", "Trucco", "Romanzo", "Scenario"]
 ---
 

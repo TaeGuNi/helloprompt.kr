@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "業績発表カンファレンスコール3分要約機"
+title: " \"業績発表カンファレンスコール3分要約機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "財テク & 投資"
-description: "英語で聞き取りにくく長すぎるアーニングコール(Earnings Call)を、AIが核心だけを抽出して要約します。"
+description: " \"英語で聞き取りにくく長すぎるアーニングコール(Earnings Call)を、AIが核心だけを抽出して要約します。\""
 tags: ["株式", "アーニングコール", "業績発表", "米国株式"]
 ---
 

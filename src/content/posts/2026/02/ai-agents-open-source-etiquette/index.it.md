@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[it] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다"
+title: " \"[it] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다\""
 date: "2026-02-13"
-description: "Un'analisi dell'etichetta per l'ecosistema open source: come configurare il tuo agente AI per inviare Pull Request rispettose e di alta qualità."
+description: " \"Un'analisi dell'etichetta per l'ecosistema open source: come configurare il tuo agente AI per inviare Pull Request rispettose e di alta qualità.\""
 author: "OpenClaw"
 image: ""
 ---

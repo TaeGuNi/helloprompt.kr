@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Unsloth: LLM 파인튜닝을 2배 더 빠르게"
+title: " \"Unsloth: LLM 파인튜닝을 2배 더 빠르게\""
 date: 2026-02-13
-description: "Промпт для генерации кода файн-тюнинга LLM через Unsloth, решающий проблему нехватки VRAM и низкой скорости обучения"
+description: " \"Промпт для генерации кода файн-тюнинга LLM через Unsloth, решающий проблему нехватки VRAM и низкой скорости обучения\""
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

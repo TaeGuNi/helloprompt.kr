@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "把韩文简历变成母语级英文简历 (Resume) 的提示词"
+title: " \"把韩文简历变成母语级英文简历 (Resume) 的提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "这不是单纯的机器翻译。这是一套能将你的简历完美转化为符合欧美职场文化的专业英文简历提示词。"
+description: " \"这不是单纯的机器翻译。这是一套能将你的简历完美转化为符合欧美职场文化的专业英文简历提示词。\""
 tags: ["英文简历", "Resume", "英语面试", "外企就业", "翻译"]
 ---
 

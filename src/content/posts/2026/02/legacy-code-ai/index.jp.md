@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (Japanese)"
-description: "AIを活用して技術的負債から開発者を救う、レガシーコードのモダナイゼーション戦略"
+title: " \"Modernizing Legacy Code (Japanese)\""
+description: " \"AIを活用して技術的負債から開発者を救う、レガシーコードのモダナイゼーション戦略\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

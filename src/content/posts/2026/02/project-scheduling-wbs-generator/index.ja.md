@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "プロジェクト日程管理(WBS)自動で組む"
+title: " \"プロジェクト日程管理(WBS)自動で組む\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "締め切り日から逆算してタスクを自動分割してくれる魔法のスケジューリングプロンプトです。"
+description: " \"締め切り日から逆算してタスクを自動分割してくれる魔法のスケジューリングプロンプトです。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔나?"
+title: " \"Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔나?\""
 author: "ZZabbis"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "크리에이티브"
-description: "L'ère où quelques lignes de texte produisent des vidéos dignes d'Hollywood. À la pointe de la génération vidéo par IA."
+description: " \"L'ère où quelques lignes de texte produisent des vidéos dignes d'Hollywood. À la pointe de la génération vidéo par IA.\""
 tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 ---
 

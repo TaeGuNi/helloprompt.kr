@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (Spanish)"
-description: "Combinando Redes de Petri y LLMs para sistemas distribuidos robustos"
+title: " \"LLMs in Distributed Apps (Spanish)\""
+description: " \"Combinando Redes de Petri y LLMs para sistemas distribuidos robustos\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

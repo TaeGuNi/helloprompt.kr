@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex-Albtraum, jetzt an KI auslagern"
+title: " \"Regex-Albtraum, jetzt an KI auslagern\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Entwicklung"
-description: "Schreiben Sie kryptische reguläre Ausdrücke nicht mehr selbst. Nutzen Sie diesen Prompt, um fehlerfreien Regex-Code durch einfache Musterbeschreibungen zu generieren."
+description: " \"Schreiben Sie kryptische reguläre Ausdrücke nicht mehr selbst. Nutzen Sie diesen Prompt, um fehlerfreien Regex-Code durch einfache Musterbeschreibungen zu generieren.\""
 tags: ["Regex", "Regulärer Ausdruck", "Entwicklerproduktivität"]
 ---
 

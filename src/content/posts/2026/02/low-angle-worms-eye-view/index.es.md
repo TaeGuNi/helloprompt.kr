@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Añadiendo Magnificencia 'Ángulo Bajo' (Vista de Ojo de Gusano)"
+title: " \"Añadiendo Magnificencia 'Ángulo Bajo' (Vista de Ojo de Gusano)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Un prompt de ángulo bajo que enfatiza la majestuosidad y el tamaño abrumador al enfocar al sujeto desde abajo."
+description: " \"Un prompt de ángulo bajo que enfatiza la majestuosidad y el tamaño abrumador al enfocar al sujeto desde abajo.\""
 tags:
   [
     "Midjourney",

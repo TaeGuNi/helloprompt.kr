@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard of Product Photography 'Studio Lighting' Prompt"
+title: " \"Standard of Product Photography 'Studio Lighting' Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master the art of virtual studio lighting for crisp, professional-grade product photography and polished portraits."
+description: " \"Master the art of virtual studio lighting for crisp, professional-grade product photography and polished portraits.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 ---
 

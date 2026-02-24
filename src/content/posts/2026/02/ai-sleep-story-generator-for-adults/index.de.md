@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Schlafgeschichten-Generator für Erwachsene: Gute-Nacht-Geschichten für Große"
+title: " \"KI-Schlafgeschichten-Generator für Erwachsene: Gute-Nacht-Geschichten für Große\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Schäfchen zählen war gestern, aufregende Geschichten rauben den Schlaf. Lassen Sie die KI auf Knopfdruck entspannende und friedliche Gute-Nacht-Geschichten für Erwachsene kreieren."
+description: " \"Schäfchen zählen war gestern, aufregende Geschichten rauben den Schlaf. Lassen Sie die KI auf Knopfdruck entspannende und friedliche Gute-Nacht-Geschichten für Erwachsene kreieren.\""
 tags: ["Schlafgeschichte", "Schlaflosigkeit", "ASMR", "Heilung", "TTS"]
 ---
 

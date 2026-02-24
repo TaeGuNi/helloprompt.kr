@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "雄大さを加える「Low Angle」(Worm's Eye View)"
+title: " \"雄大さを加える「Low Angle」(Worm's Eye View)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "被写体を下から上に見上げて、圧倒的な威厳と巨大さを強調するローアングルプロンプトの活用法です。"
+description: " \"被写体を下から上に見上げて、圧倒的な威厳と巨大さを強調するローアングルプロンプトの活用法です。\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 ---

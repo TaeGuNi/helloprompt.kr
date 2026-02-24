@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charme das Xilogravuras Japonesas Estilo 'Ukiyo-e'"
+title: " \"Charme das Xilogravuras Japonesas Estilo 'Ukiyo-e'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Aprenda a criar imagens com a estética autêntica das xilogravuras japonesas (Ukiyo-e) usando prompts otimizados para IA."
+description: " \"Aprenda a criar imagens com a estética autêntica das xilogravuras japonesas (Ukiyo-e) usando prompts otimizados para IA.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Tradicional"]
 ---

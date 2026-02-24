@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Why is My Grammar Wrong? 1:1 Correction Teacher"
+title: " \"Why is My Grammar Wrong? 1:1 Correction Teacher\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "An AI tutor prompt that goes beyond simple grammar fixes by explaining the underlying 'Why' behind every correction."
+description: " \"An AI tutor prompt that goes beyond simple grammar fixes by explaining the underlying 'Why' behind every correction.\""
 tags: ["EnglishGrammar", "WritingCorrection", "Prompt", "EmailWriting"]
 ---
 

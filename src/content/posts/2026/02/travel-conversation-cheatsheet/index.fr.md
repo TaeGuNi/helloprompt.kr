@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plus Rapide que Papago ! Anti-sèche de Conversation de Voyage Essentielle par Situation"
+title: " \"Plus Rapide que Papago ! Anti-sèche de Conversation de Voyage Essentielle par Situation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Commander au restaurant, s'enregistrer à l'hôtel, ou gérer une urgence : voici des fiches de conversation pratiques qui fonctionnent instantanément sur place."
+description: " \"Commander au restaurant, s'enregistrer à l'hôtel, ou gérer une urgence : voici des fiches de conversation pratiques qui fonctionnent instantanément sur place.\""
 tags: ["Voyage", "Langue Étrangère", "Conversation", "Anglais", "Japonais"]
 ---
 

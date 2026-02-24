@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기"
+title: " \"영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "외국어/학습"
-description: "Dall'ordinare un caffè da Starbucks allo small talk aziendale. Una guida ai prompt per superare definitivamente il blocco del parlato in inglese grazie a roleplay realistici con l'IA."
+description: " \"Dall'ordinare un caffè da Starbucks allo small talk aziendale. Una guida ai prompt per superare definitivamente il blocco del parlato in inglese grazie a roleplay realistici con l'IA.\""
 tags: ["영어회화", "ChatGPT", "롤플레잉", "공부", "오픽"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "선물 추천기: '30대 여사친 생일선물, 5만원 이하로'"
+title: " \"선물 추천기: '30대 여사친 생일선물, 5만원 이하로'\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/쇼핑"
-description: "센스 있는 선물 고르는 법. 받는 사람의 나이, 취향, 관계를 고려한 실패 없는 AI 맞춤형 선물 큐레이션 가이드."
+description: " \"센스 있는 선물 고르는 법. 받는 사람의 나이, 취향, 관계를 고려한 실패 없는 AI 맞춤형 선물 큐레이션 가이드.\""
 tags: ["선물", "추천", "쇼핑", "생일선물", "ChatGPT"]
 ---
 

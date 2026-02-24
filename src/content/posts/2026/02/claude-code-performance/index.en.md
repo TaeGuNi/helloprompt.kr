@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Claude Code 성능 저하 논란? 진실은?"
+title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 이슈"
-description: "Is Claude Code getting lazier? We analyze the recent performance degradation controversy and provide a bulletproof prompt to force maximum coding effort."
+description: " \"Is Claude Code getting lazier? We analyze the recent performance degradation controversy and provide a bulletproof prompt to force maximum coding effort.\""
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 

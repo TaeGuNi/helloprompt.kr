@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dominando el Mercado con el Marco de Análisis de Competidores"
+title: " \"Dominando el Mercado con el Marco de Análisis de Competidores\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Profundiza en las fortalezas y debilidades de tus competidores y descubre puntos de referencia clave para liderar el mercado."
+description: " \"Profundiza en las fortalezas y debilidades de tus competidores y descubre puntos de referencia clave para liderar el mercado.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

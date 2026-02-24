@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Copy Principal de Landing Page (Hero Copy)"
+title: " \"Gerador de Copy Principal de Landing Page (Hero Copy)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Aprenda a criar a copy principal (Hero Section) da sua landing page e cative os visitantes em apenas 3 segundos."
+description: " \"Aprenda a criar a copy principal (Hero Section) da sua landing page e cative os visitantes em apenas 3 segundos.\""
 tags: ["Landing Page", "Web Copy", "UX Writing", "Taxa de Conversão"]
 ---
 

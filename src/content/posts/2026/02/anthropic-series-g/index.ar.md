@@ -1,13 +1,13 @@
 ---
 date: "2026-02-17"
-description: Anthropic تؤمن تمويل السلسلة G بتقييم 30 مليار دولار، مع التركيز على أمان الذكاء الاصطناعي.
+description: "Anthropic تؤمن تمويل السلسلة G بتقييم 30 مليار دولار، مع التركيز على أمان الذكاء الاصطناعي."
 heroImage: /images/anthropic-series-g.jpg
 pubDate: "2026-02-13T10:32:00.000Z"
 tags:
   - AI
   - Investment
   - Safety
-title: Anthropic تجمع تمويل السلسلة G
+title: "Anthropic تجمع تمويل السلسلة G"
 ---
 
 # 📝 تحليل استثمارات الذكاء الاصطناعي: أسرار تمويل Anthropic

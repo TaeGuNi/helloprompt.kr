@@ -1,7 +1,7 @@
 ---
-title: "Comprendre les Fenêtres de Contexte : Comment gérer efficacement les longues conversations"
+title: " \"Comprendre les Fenêtres de Contexte : Comment gérer efficacement les longues conversations\""
 date: 2026-02-15
-description: "Découvrez ce que sont les fenêtres de contexte, la véritable 'mémoire' des modèles d'IA, et apprenez des stratégies d'ingénierie pour contourner les limites de tokens lors de longues sessions."
+description: " \"Découvrez ce que sont les fenêtres de contexte, la véritable 'mémoire' des modèles d'IA, et apprenez des stratégies d'ingénierie pour contourner les limites de tokens lors de longues sessions.\""
 ---
 
 # 📝 Comprendre les Fenêtres de Contexte : Gérer la mémoire de l'IA

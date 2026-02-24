@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Making Ordinary Project Experience into 'Attractive Portfolio'"
+title: " \"Prompt Making Ordinary Project Experience into 'Attractive Portfolio'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Refines a project description into a storytelling format so that your problem-solving process and contributions stand out, rather than a simple feature list."
+description: " \"Refines a project description into a storytelling format so that your problem-solving process and contributions stand out, rather than a simple feature list.\""
 tags: ["Portfolio", "ProjectDescription", "CareerDescription", "Storytelling"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Use Secretamente do Professor de PT, Personal Trainer IA"
+title: " \"Use Secretamente do Professor de PT, Personal Trainer IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Um prompt especializado que cria rotinas de treino semanais e planos alimentares perfeitamente adaptados ao seu corpo e aos seus objetivos."
+description: " \"Um prompt especializado que cria rotinas de treino semanais e planos alimentares perfeitamente adaptados ao seu corpo e aos seus objetivos.\""
 tags: ["Exercício", "Dieta", "Fitness", "Treino em Casa"]
 ---
 

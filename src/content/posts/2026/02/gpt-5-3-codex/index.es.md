@@ -1,7 +1,7 @@
 ---
 category: Technology
 date: "2026-02-17"
-description: "OpenAI ha revelado GPT-5.3 Codex Spark, un modelo ligero de alto rendimiento diseñado para la productividad de los desarrolladores. Cuenta con una latencia inferior a 15 ms y una comprensión del contexto mejorada."
+description: " \"OpenAI ha revelado GPT-5.3 Codex Spark, un modelo ligero de alto rendimiento diseñado para la productividad de los desarrolladores. Cuenta con una latencia inferior a 15 ms y una comprensión del contexto mejorada.\""
 draft: false
 published: 2026-02-13
 tags:
@@ -10,7 +10,7 @@ tags:
   - Codex
   - OpenAI
   - Development
-title: "GPT-5.3 Codex Spark: IA de codificación ultrarrápida para desarrolladores"
+title: " \"GPT-5.3 Codex Spark: IA de codificación ultrarrápida para desarrolladores\""
 ---
 
 # 📝 GPT-5.3 Codex Spark: IA de codificación ultrarrápida para desarrolladores

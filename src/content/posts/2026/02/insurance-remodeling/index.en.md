@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Insurance Diet: Finding Duplicate Coverage and Halving Premium"
+title: " \"Insurance Diet: Finding Duplicate Coverage and Halving Premium\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Is your insurance coverage optimal? Discover how to use AI to eliminate duplicate policies and drastically reduce your monthly premiums."
+description: " \"Is your insurance coverage optimal? Discover how to use AI to eliminate duplicate policies and drastically reduce your monthly premiums.\""
 tags: ["Insurance", "Finance", "Saving", "CoverageAnalysis"]
 ---
 

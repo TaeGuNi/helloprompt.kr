@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "데일리 업무 우선순위 정리기 (아이젠하워 매트릭스)"
+title: " \"데일리 업무 우선순위 정리기 (아이젠하워 매트릭스)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 생산성"
-description: "从繁杂的待办事项中，精准筛选出“真正重要任务”的智能法则。"
+description: " \"从繁杂的待办事项中，精准筛选出“真正重要任务”的智能法则。\""
 tags: ["생산성", "시간관리", "업무효율", "아이젠하워"]
 ---
 

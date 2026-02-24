@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tech-Pouch-Setup für digitale Nomaden: Arbeit und Reisen"
+title: " \"Tech-Pouch-Setup für digitale Nomaden: Arbeit und Reisen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Verwandeln Sie jedes Café in ein effizientes Büro. Der ultimative Tech-Pouch-Guide für digitale Nomaden, der Ihre Produktivität beim Remote-Arbeiten um 200 % steigert."
+description: " \"Verwandeln Sie jedes Café in ein effizientes Büro. Der ultimative Tech-Pouch-Guide für digitale Nomaden, der Ihre Produktivität beim Remote-Arbeiten um 200 % steigert.\""
 tags: ["Digitaler Nomade", "Workation", "Tech-Ausrüstung", "Fernarbeit"]
 ---
 

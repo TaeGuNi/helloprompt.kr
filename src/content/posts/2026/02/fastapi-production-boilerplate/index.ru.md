@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FastAPI 프로덕션 레벨 보일러플레이트: 비동기 파이썬의 정점"
+title: " \"FastAPI 프로덕션 레벨 보일러플레이트: 비동기 파이썬의 정점\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "Flask слишком медленный, а Django — тяжеловесный. Создавайте микросервисы с помощью быстрого и современного FastAPI."
+description: " \"Flask слишком медленный, а Django — тяжеловесный. Создавайте микросервисы с помощью быстрого и современного FastAPI.\""
 tags: ["FastAPI", "Python", "백엔드", "비동기", "API"]
 ---
 

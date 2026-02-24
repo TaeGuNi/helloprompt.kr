@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schattentheater-Skript: Eine Gute-Nacht-Geschichte"
+title: " \"Schattentheater-Skript: Eine Gute-Nacht-Geschichte\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Erschaffen Sie mit nur einer Taschenlampe und einem KI-generierten Schattenspiel-Skript eine faszinierende Fantasiewelt für Ihr Kind."
+description: " \"Erschaffen Sie mit nur einer Taschenlampe und einem KI-generierten Schattenspiel-Skript eine faszinierende Fantasiewelt für Ihr Kind.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

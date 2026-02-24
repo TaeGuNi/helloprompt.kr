@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Terapia de Insomnio TCC-I con IA: Curar el Insomnio Sin Medicación"
+title: " \"Terapia de Insomnio TCC-I con IA: Curar el Insomnio Sin Medicación\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Vence el insomnio sin pastillas utilizando la TCC-I (Terapia Cognitivo-Conductual para el Insomnio) guiada por IA. Recupera tu descanso de forma natural y segura."
+description: " \"Vence el insomnio sin pastillas utilizando la TCC-I (Terapia Cognitivo-Conductual para el Insomnio) guiada por IA. Recupera tu descanso de forma natural y segura.\""
 tags: ["Insomnio", "TCC-I", "Terapia de Sueño", "Cuidado Mental", "ChatGPT"]
 ---
 

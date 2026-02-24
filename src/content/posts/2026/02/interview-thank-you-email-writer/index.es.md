@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Tiempo de Oro de la Entrevista! Escritor de 'Correo de Agradecimiento' para Enviar Inmediatamente Después"
+title: " \"¡Tiempo de Oro de la Entrevista! Escritor de 'Correo de Agradecimiento' para Enviar Inmediatamente Después\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Redacta un correo de agradecimiento estratégico y profesional para enviar justo después de una entrevista, reforzando tu imagen al mencionar temas clave conversados."
+description: " \"Redacta un correo de agradecimiento estratégico y profesional para enviar justo después de una entrevista, reforzando tu imagen al mencionar temas clave conversados.\""
 tags:
   [
     "CorreoDeAgradecimiento",

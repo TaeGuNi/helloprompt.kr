@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AIが愚かな答えを返すとき：「思考の連鎖 (CoT)」を使う"
+title: " \"AIが愚かな答えを返すとき：「思考の連鎖 (CoT)」を使う\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "プロンプトエンジニアリング"
-description: "単純な質問には完璧に答えるAIが、複雑な論理問題になるとでたらめな回答をしていませんか？上位1%のプロンプトエンジニアが実践する「Chain of Thought (CoT)」の真の活用法を解説します。"
+description: " \"単純な質問には完璧に答えるAIが、複雑な論理問題になるとでたらめな回答をしていませんか？上位1%のプロンプトエンジニアが実践する「Chain of Thought (CoT)」の真の活用法を解説します。\""
 tags: ["CoT", "論理的思考", "問題解決"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Personalized AI Tutors in Education (de)"
-description: "Eine detaillierte Analyse der Rolle und des Potenzials personalisierter KI-Tutoren im Bildungswesen."
+title: " \"Personalized AI Tutors in Education (de)\""
+description: " \"Eine detaillierte Analyse der Rolle und des Potenzials personalisierter KI-Tutoren im Bildungswesen.\""
 date: "2026-02-14"
 ---
 

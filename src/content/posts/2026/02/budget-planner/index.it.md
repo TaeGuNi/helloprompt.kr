@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prevenzione Logout Stipendio: Pianificatore di Conti Familiari IA"
+title: " \"Prevenzione Logout Stipendio: Pianificatore di Conti Familiari IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Un prompt intelligente che genera un piano di bilancio mensile su misura, ottimizzando stipendio, spese fisse e obiettivi di risparmio."
+description: " \"Un prompt intelligente che genera un piano di bilancio mensile su misura, ottimizzando stipendio, spese fisse e obiettivi di risparmio.\""
 tags: ["ContoFamiliare", "Bilancio", "Risparmio", "Finanza"]
 ---
 

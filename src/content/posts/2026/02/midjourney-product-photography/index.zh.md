@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미드저니 v7로 스튜디오급 제품 사진 만들기"
+title: " \"미드저니 v7로 스튜디오급 제품 사진 만들기\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "디자인/크리에이티브"
-description: "0元影棚租赁费！利用 Midjourney v7，一键生成电商详情页可直接使用的高品质白底及场景图提示词教程。"
+description: " \"0元影棚租赁费！利用 Midjourney v7，一键生成电商详情页可直接使用的高品质白底及场景图提示词教程。\""
 tags: ["Midjourney", "제품사진", "쇼핑몰", "상세페이지"]
 ---
 

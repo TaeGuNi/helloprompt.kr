@@ -1,5 +1,5 @@
 ---
-title: "The Wrapper Startup Bubble"
+title: " \"The Wrapper Startup Bubble\""
 date: 2026-02-14
 tags: [startup, tech]
 image: https://source.unsplash.com/random/1600x900/?bubble,code

@@ -1,6 +1,6 @@
 ---
-title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "AIエージェントのAPIコストが爆発的に増加していませんか？「単純な追記（Naive Appending）」が予算を食いつぶす理由と、コスト破産を防ぐための3つの最適化パターン（コンテキストキャッシュ、状態圧縮、モデルルーティング）を解説します。"
+title: " \"The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026\""
+description: " \"AIエージェントのAPIコストが爆発的に増加していませんか？「単純な追記（Naive Appending）」が予算を食いつぶす理由と、コスト破産を防ぐための3つの最適化パターン（コンテキストキャッシュ、状態圧縮、モデルルーティング）を解説します。\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

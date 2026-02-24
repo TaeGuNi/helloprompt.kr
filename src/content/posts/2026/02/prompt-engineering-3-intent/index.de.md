@@ -3,7 +3,7 @@ categories:
   - Prompt Engineering
   - AI Tips
 date: "2026-02-13"
-description: Hören Sie auf, komplexe Prompts zu schreiben. Die Ära des 'Intent-Based Prompting', in der die KI Ihre verborgenen Absichten erkennt, ist angebrochen. Entdecken Sie eine einfachere und weitaus mächtigere Art der KI-Kommunikation.
+description: "Hören Sie auf, komplexe Prompts zu schreiben. Die Ära des 'Intent-Based Prompting', in der die KI Ihre verborgenen Absichten erkennt, ist angebrochen. Entdecken Sie eine einfachere und weitaus mächtigere Art der KI-Kommunikation."
 image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Intent-Based
   - AI Interaction
   - Future of Work
-title: "Prompt Engineering 3.0: Die Absicht ist Befehl"
+title: " \"Prompt Engineering 3.0: Die Absicht ist Befehl\""
 ---
 
 # 📝 Prompt Engineering 3.0: Die Absicht ist Befehl

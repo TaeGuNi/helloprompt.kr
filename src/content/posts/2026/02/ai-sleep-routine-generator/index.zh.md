@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI睡眠程序生成器：告诉你的大脑该睡觉了"
+title: " \"AI睡眠程序生成器：告诉你的大脑该睡觉了\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "设计一套神奇的程序，就像巴甫洛夫的狗一样，只需做特定的动作就会让你昏昏欲睡。"
+description: " \"设计一套神奇的程序，就像巴甫洛夫的狗一样，只需做特定的动作就会让你昏昏欲睡。\""
 tags: ["睡眠程序", "失眠", "习惯", "健康", "ChatGPT"]
 ---
 

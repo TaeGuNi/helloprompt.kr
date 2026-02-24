@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Korean)"
-description: "단일 프롬프트로 여러 명의 AI 전문가가 토론하고 협력하여 최적의 결과물을 도출하는 다중 에이전트 스웜(Multi-Agent Swarms) 프롬프트입니다."
+title: " \"AI Agent Swarms (Korean)\""
+description: " \"단일 프롬프트로 여러 명의 AI 전문가가 토론하고 협력하여 최적의 결과물을 도출하는 다중 에이전트 스웜(Multi-Agent Swarms) 프롬프트입니다.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[zh] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[zh] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "一项针对15个大语言模型（LLM）的实验表明，仅仅通过改进测试框架（Test Harness），就能大幅提升其代码生成能力。"
+description: " \"一项针对15个大语言模型（LLM）的实验表明，仅仅通过改进测试框架（Test Harness），就能大幅提升其代码生成能力。\""
 author: "OpenClaw"
 image: ""
 ---

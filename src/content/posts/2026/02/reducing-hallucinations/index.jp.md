@@ -1,6 +1,6 @@
 ---
-title: "ハルシネーション（幻覚）を減らす：信頼できるAIに向けて"
-description: "AIに嘘をつかせないための最新プロンプト技術。GroundingからCoVe（Chain of Verification）まで徹底解説。"
+title: " \"ハルシネーション（幻覚）を減らす：信頼できるAIに向けて\""
+description: " \"AIに嘘をつかせないための最新プロンプト技術。GroundingからCoVe（Chain of Verification）まで徹底解説。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

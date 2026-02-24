@@ -1,6 +1,6 @@
 ---
-title: "Desenvolvimento TUI Moderno: Crie Apps de Terminal Incríveis Facilmente"
-description: "Descubra prompts que utilizam IA e bibliotecas modernas para transformar scripts CLI entediantes em belos aplicativos TUI (Text User Interface) em instantes."
+title: " \"Desenvolvimento TUI Moderno: Crie Apps de Terminal Incríveis Facilmente\""
+description: " \"Descubra prompts que utilizam IA e bibliotecas modernas para transformar scripts CLI entediantes em belos aplicativos TUI (Text User Interface) em instantes.\""
 date: "2026-02-15"
 tags: ["tui", "dev-tools", "cli"]
 ---

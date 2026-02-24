@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Utilisez Secrètement du Professeur de PT, Entraîneur Personnel IA"
+title: " \"Utilisez Secrètement du Professeur de PT, Entraîneur Personnel IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Un prompt de guide de santé qui planifie des routines d'entraînement hebdomadaires et des régimes parfaitement adaptés à mes conditions corporelles et objectifs."
+description: " \"Un prompt de guide de santé qui planifie des routines d'entraînement hebdomadaires et des régimes parfaitement adaptés à mes conditions corporelles et objectifs.\""
 tags: ["Exercice", "Régime", "Fitness", "Entraînement à Domicile"]
 ---
 

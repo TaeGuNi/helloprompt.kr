@@ -1,6 +1,6 @@
 ---
-title: "Personalized AI Tutors in Education (ja)"
-description: "教育におけるパーソナライズされたAIチューターの分析と実践的な構築手法。"
+title: " \"Personalized AI Tutors in Education (ja)\""
+description: " \"教育におけるパーソナライズされたAIチューターの分析と実践的な構築手法。\""
 date: "2026-02-14"
 ---
 

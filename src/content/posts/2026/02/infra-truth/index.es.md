@@ -1,6 +1,6 @@
 ---
-title: "La infraestructura es la única verdad"
-description: "Análisis crítico: Por qué en la fiebre del oro de la IA, solo los proveedores de infraestructura (como NVIDIA) están ganando dinero real."
+title: " \"La infraestructura es la única verdad\""
+description: " \"Análisis crítico: Por qué en la fiebre del oro de la IA, solo los proveedores de infraestructura (como NVIDIA) están ganando dinero real.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

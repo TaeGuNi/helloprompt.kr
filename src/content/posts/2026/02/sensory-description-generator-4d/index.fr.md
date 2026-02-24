@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Convertisseur de Description d'Arrière-plan Stimulant les Cinq Sens du Lecteur"
+title: " \"Convertisseur de Description d'Arrière-plan Stimulant les Cinq Sens du Lecteur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Un outil d'écriture qui transforme vos phrases explicatives basiques en descriptions immersives sollicitant les cinq sens (Vue, Ouïe, Odorat, Goût, Toucher)."
+description: " \"Un outil d'écriture qui transforme vos phrases explicatives basiques en descriptions immersives sollicitant les cinq sens (Vue, Ouïe, Odorat, Goût, Toucher).\""
 tags: ["Écriture", "Description", "Roman", "Expressivité"]
 ---
 

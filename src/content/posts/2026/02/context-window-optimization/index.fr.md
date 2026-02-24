@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (French)"
-description: "Structurez vos données volumineuses avec des délimiteurs clairs et optimisez la recherche pour les LLM."
+title: " \"Optimizing for Million-Token Context Windows (French)\""
+description: " \"Structurez vos données volumineuses avec des délimiteurs clairs et optimisez la recherche pour les LLM.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Checkliste für unverzichtbare Reisemedizin-Kits: Werden Sie im Ausland nicht krank"
+title: " \"Checkliste für unverzichtbare Reisemedizin-Kits: Werden Sie im Ausland nicht krank\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Suchen Sie im Ausland nicht verzweifelt nach einer Apotheke. Erfahren Sie, wie Sie ein unverzichtbares Notfall- und Erste-Hilfe-Kit je nach Situation und Symptom optimal zusammenstellen."
+description: " \"Suchen Sie im Ausland nicht verzweifelt nach einer Apotheke. Erfahren Sie, wie Sie ein unverzichtbares Notfall- und Erste-Hilfe-Kit je nach Situation und Symptom optimal zusammenstellen.\""
 tags:
   [
     "Notfallmedizin",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Too Lazy to Write Test Code? AI Will Do It for You"
+title: " \"Too Lazy to Write Test Code? AI Will Do It for You\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "A prompt that automatically generates tedious unit tests, comprehensively covering edge cases."
+description: " \"A prompt that automatically generates tedious unit tests, comprehensively covering edge cases.\""
 tags: ["Test Code", "TDD", "Jest", "JUnit"]
 ---
 

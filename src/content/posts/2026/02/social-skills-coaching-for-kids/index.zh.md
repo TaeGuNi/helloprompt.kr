@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "儿童社交技能辅导：解释关系和拒绝"
+title: " \"儿童社交技能辅导：解释关系和拒绝\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "为在同伴关系中受伤的孩子提供有效的情绪疏导与社交辅导指南。"
+description: " \"为在同伴关系中受伤的孩子提供有效的情绪疏导与社交辅导指南。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

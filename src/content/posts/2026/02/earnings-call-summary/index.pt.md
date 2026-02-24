@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumidor de Chamada de Resultados em 3 Minutos"
+title: " \"Resumidor de Chamada de Resultados em 3 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Teleconferências de resultados: longas e em inglês? Aprenda a usar a IA para extrair apenas as informações cruciais em minutos."
+description: " \"Teleconferências de resultados: longas e em inglês? Aprenda a usar a IA para extrair apenas as informações cruciais em minutos.\""
 tags: ["Ações", "ChamadaResultados", "DivulgaçãoResultados", "AçõesEUA"]
 ---
 

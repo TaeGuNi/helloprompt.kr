@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Domande del Gioco dell'Equilibrio per Bambini: Conversazione Infinita"
+title: " \"Domande del Gioco dell'Equilibrio per Bambini: Conversazione Infinita\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Un generatore di domande stravaganti per il gioco dell'equilibrio che fa parlare per primi i bambini delle elementari."
+description: " \"Un generatore di domande stravaganti per il gioco dell'equilibrio che fa parlare per primi i bambini delle elementari.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

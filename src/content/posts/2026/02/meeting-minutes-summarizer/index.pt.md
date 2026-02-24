@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumindo Atas de Reunião Divagantes de Forma Organizada"
+title: " \"Resumindo Atas de Reunião Divagantes de Forma Organizada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Transformou a gravação da reunião em texto, mas ficou longo demais? Conheça o prompt definitivo para extrair apenas o essencial das atas de reunião."
+description: " \"Transformou a gravação da reunião em texto, mas ficou longo demais? Conheça o prompt definitivo para extrair apenas o essencial das atas de reunião.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: When AI Gets a Body"
-description: "LG AI Research与机器人技术的结合。由EXAONE引领的具身智能（Physical AI）未来。"
+title: " \"Physical AI: When AI Gets a Body\""
+description: " \"LG AI Research与机器人技术的结合。由EXAONE引领的具身智能（Physical AI）未来。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

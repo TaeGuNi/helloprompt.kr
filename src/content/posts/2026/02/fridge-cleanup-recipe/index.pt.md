@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Limpeza de Geladeira, Renascida com a Receita de um Chef"
+title: " \"Limpeza de Geladeira, Renascida com a Receita de um Chef\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Um prompt prático para economizar: insira os ingredientes esquecidos na geladeira e receba receitas criativas e deliciosas de um chef de IA."
+description: " \"Um prompt prático para economizar: insira os ingredientes esquecidos na geladeira e receba receitas criativas e deliciosas de um chef de IA.\""
 tags: ["Culinária", "Receita", "Dicas de Vida"]
 ---
 

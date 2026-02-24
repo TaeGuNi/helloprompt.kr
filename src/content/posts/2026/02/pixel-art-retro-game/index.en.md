@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "World Made of Dots 'Pixel Art' Retro Vibe"
+title: " \"World Made of Dots 'Pixel Art' Retro Vibe\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Craft 8-bit and 16-bit pixel art prompts that evoke deep nostalgia for classic games."
+description: " \"Craft 8-bit and 16-bit pixel art prompts that evoke deep nostalgia for classic games.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

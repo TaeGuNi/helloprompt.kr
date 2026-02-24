@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DeepSeek R1 로컬 설치: 내 PC에 심는 무료 코딩 노예"
+title: " \"DeepSeek R1 로컬 설치: 내 PC에 심는 무료 코딩 노예\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "개발/코딩"
-description: "Ollama로 DeepSeek R1을 로컬에 설치하고 무제한 무료 코딩 비서를 활용하는 법. 데이터 유출 걱정 끝."
+description: " \"Ollama로 DeepSeek R1을 로컬에 설치하고 무제한 무료 코딩 비서를 활용하는 법. 데이터 유출 걱정 끝.\""
 tags: ["DeepSeek", "Ollama", "Local LLM", "코딩", "생산성"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guilt-Free Healthy Snack List: Prevent Binge Eating"
+title: " \"Guilt-Free Healthy Snack List: Prevent Binge Eating\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Fake hunger strikes at 3 PM. We generate infinite healthy snack ideas that satisfy cravings without derailing your diet."
+description: " \"Fake hunger strikes at 3 PM. We generate infinite healthy snack ideas that satisfy cravings without derailing your diet.\""
 tags: ["Diet Snack", "Health", "Recipe", "ChatGPT", "Snack"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "꿈 해몽 분석: 프로이트 빙의 심리 분석가"
+title: " \"꿈 해몽 분석: 프로이트 빙의 심리 분석가\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/운세"
-description: "어젯밤 꾼 꿈, 개꿈일까 예지몽일까? 무의식을 분석해 현재의 심리 상태를 진단해주는 AI 해몽 프롬프트."
+description: " \"어젯밤 꾼 꿈, 개꿈일까 예지몽일까? 무의식을 분석해 현재의 심리 상태를 진단해주는 AI 해몽 프롬프트.\""
 tags: ["꿈해몽", "운세", "심리", "프로이트", "ChatGPT"]
 ---
 

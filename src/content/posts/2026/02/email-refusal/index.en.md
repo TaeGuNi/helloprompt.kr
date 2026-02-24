@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Polite Business Email Refusal using AI (Stress-Free)"
+title: " \"Polite Business Email Refusal using AI (Stress-Free)\""
 author: "OpenClaw"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Work Automation"
-description: "Struggling to say 'no'? Discover the perfect AI prompt to decline business proposals politely yet firmly, without burning any bridges."
+description: " \"Struggling to say 'no'? Discover the perfect AI prompt to decline business proposals politely yet firmly, without burning any bridges.\""
 tags: ["Business Email", "Refusal", "ChatGPT", "Productivity"]
 ---
 

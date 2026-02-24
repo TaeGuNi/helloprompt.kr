@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Morning Pages Journaling"
+title: " \"Morning Pages Journaling\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "AI를 나만의 따뜻한 창조성 코치로 만드는 모닝 페이지 프롬프트"
+description: " \"AI를 나만의 따뜻한 창조성 코치로 만드는 모닝 페이지 프롬프트\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4: The New Open Source King?"
-description: "An in-depth analysis of DeepSeek-V4's technical features, benchmark performance, and its impact on the open-source AI ecosystem."
+title: " \"DeepSeek-V4: The New Open Source King?\""
+description: " \"An in-depth analysis of DeepSeek-V4's technical features, benchmark performance, and its impact on the open-source AI ecosystem.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

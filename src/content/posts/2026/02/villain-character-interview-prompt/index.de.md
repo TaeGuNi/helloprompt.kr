@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "3D-Bösewicht erstellen: 3-Schritt-Tiefeninterview-Prompt"
+title: " \"3D-Bösewicht erstellen: 3-Schritt-Tiefeninterview-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein charmanter Bösewicht ist das Herzstück jeder guten Geschichte. Führen Sie ein direktes Interview mit Ihrem Antagonisten und graben Sie verborgene Motive aus."
+description: " \"Ein charmanter Bösewicht ist das Herzstück jeder guten Geschichte. Führen Sie ein direktes Interview mit Ihrem Antagonisten und graben Sie verborgene Motive aus.\""
 tags: ["Charaktereinstellung", "RomanSchreiben", "Bösewicht", "Interview"]
 ---
 

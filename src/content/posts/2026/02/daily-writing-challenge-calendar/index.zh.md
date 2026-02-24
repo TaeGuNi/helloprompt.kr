@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "每日写作挑战: 自动生成 30 天份写作素材日历"
+title: " \"每日写作挑战: 自动生成 30 天份写作素材日历\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "想培养写作习惯？让 AI 为您量身定制专属的 30 天写作灵感日历。"
+description: " \"想培养写作习惯？让 AI 为您量身定制专属的 30 天写作灵感日历。\""
 tags: ["写作", "习惯", "挑战", "自我开发"]
 ---
 

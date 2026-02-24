@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AIで自分のコードの穴を見つけ出せ！(バグハンター)"
+title: " \"AIで自分のコードの穴を見つけ出せ！(バグハンター)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "開発"
-description: "メンターなしで働くジュニア開発者のための完璧なAIコードレビュアープロンプトガイドです。"
+description: " \"メンターなしで働くジュニア開発者のための完璧なAIコードレビュアープロンプトガイドです。\""
 tags: ["コーディング", "バグ", "Refactoring", "ChatGPT", "開発者"]
 ---
 

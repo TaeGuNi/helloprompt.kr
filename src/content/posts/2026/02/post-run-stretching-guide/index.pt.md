@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Alongamento Pós-Corrida: Prevenindo o Joelho de Corredor"
+title: " \"Guia de Alongamento Pós-Corrida: Prevenindo o Joelho de Corredor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Mais importante do que a corrida em si é o que você faz depois. Descubra uma rotina de desaquecimento guiada por IA para prevenir o joelho de corredor e acordar revigorado."
+description: " \"Mais importante do que a corrida em si é o que você faz depois. Descubra uma rotina de desaquecimento guiada por IA para prevenir o joelho de corredor e acordar revigorado.\""
 tags:
   [
     "Corrida",

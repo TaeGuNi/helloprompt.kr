@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conduite Inverse de la Courbe de l'Oubli : Générateur de Programme de Révision"
+title: " \"Conduite Inverse de la Courbe de l'Oubli : Générateur de Programme de Révision\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: "Un prompt qui calcule le moment optimal de révision pour ancrer vos connaissances à vie, basé sur la théorie de la courbe de l'oubli d'Ebbinghaus."
+description: " \"Un prompt qui calcule le moment optimal de révision pour ancrer vos connaissances à vie, basé sur la théorie de la courbe de l'oubli d'Ebbinghaus.\""
 tags: ["PlanÉtude", "CourbeOubli", "Révision", "Planification"]
 ---
 

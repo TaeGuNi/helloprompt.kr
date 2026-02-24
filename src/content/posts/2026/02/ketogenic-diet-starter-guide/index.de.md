@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ketogene Diät Einsteiger-Guide: Perfekter Start mit KI"
+title: " \"Ketogene Diät Einsteiger-Guide: Perfekter Start mit KI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Ein praktischer Leitfaden, um die ketogene Diät einfach und sicher mit KI zu beginnen – ganz ohne komplexe Makro-Berechnungen."
+description: " \"Ein praktischer Leitfaden, um die ketogene Diät einfach und sicher mit KI zu beginnen – ganz ohne komplexe Makro-Berechnungen.\""
 tags: ["Ketogen", "LCHF", "Diät", "Gesundheit", "ChatGPT"]
 ---
 

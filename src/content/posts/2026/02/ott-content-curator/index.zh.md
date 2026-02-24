@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "周末瞬删！AI OTT 内容定制推荐指南"
+title: " \"周末瞬删！AI OTT 内容定制推荐指南\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "还在为挑选 Netflix 剧集浪费一小时？让 AI 分析你的观影偏好，为你精准推荐零烂片的‘人生佳作’。"
+description: " \"还在为挑选 Netflix 剧集浪费一小时？让 AI 分析你的观影偏好，为你精准推荐零烂片的‘人生佳作’。\""
 tags: ["Netflix", "电影推荐", "OTT", "电视剧"]
 ---
 

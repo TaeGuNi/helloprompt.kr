@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "解决选择困难症！AI 晚餐菜单推荐器"
+title: " \"解决选择困难症！AI 晚餐菜单推荐器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "日常"
-description: "每天重复的“今天吃什么？”烦恼。AI将根据天气、心情和冰箱库存，为您精准推荐完美的晚餐菜单。"
+description: " \"每天重复的“今天吃什么？”烦恼。AI将根据天气、心情和冰箱库存，为您精准推荐完美的晚餐菜单。\""
 tags: ["菜单推荐", "选择困难症", "今天吃什么", "晚餐菜单"]
 ---
 

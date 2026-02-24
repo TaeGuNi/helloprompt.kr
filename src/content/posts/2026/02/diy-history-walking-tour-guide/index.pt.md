@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Passeio a Pé Histórico DIY: Aproveite Sem Guia"
+title: " \"Guia de Passeio a Pé Histórico DIY: Aproveite Sem Guia\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Crie um roteiro de caminhada histórico personalizado e imersivo pela cidade, focado no seu tema favorito, sem a necessidade de guias caros."
+description: " \"Crie um roteiro de caminhada histórico personalizado e imersivo pela cidade, focado no seu tema favorito, sem a necessidade de guias caros.\""
 tags: ["Passeio a Pé", "Autoguia", "Caminhada Histórica", "Viagem a Pé"]
 ---
 

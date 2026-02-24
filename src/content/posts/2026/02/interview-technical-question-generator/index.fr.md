@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Questions Attendues pour 'Entretien Technique' par Poste"
+title: " \"Générateur de Questions Attendues pour 'Entretien Technique' par Poste\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Générez des questions d'entretien technique anticipées et des réponses types parfaitement adaptées à votre poste, vos compétences et votre niveau d'expérience."
+description: " \"Générez des questions d'entretien technique anticipées et des réponses types parfaitement adaptées à votre poste, vos compétences et votre niveau d'expérience.\""
 tags:
   ["EntretienTech", "EntretienMajeur", "QuestionAttendue", "EntretienEmploi"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt 'Illuminazione Cinematografica' che Crea Atmosfera da Film"
+title: " \"Prompt 'Illuminazione Cinematografica' che Crea Atmosfera da Film\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Scopri il segreto dei prompt sull'illuminazione per trasformare immagini piatte in scene degne di un film di Hollywood."
+description: " \"Scopri il segreto dei prompt sull'illuminazione per trasformare immagini piatte in scene degne di un film di Hollywood.\""
 tags:
   [
     "Midjourney",

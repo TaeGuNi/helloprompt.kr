@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile"
-description: "Local AI models on phones are finally powerful enough to replace cloud services for daily tasks."
+title: " \"True Offline AI on Mobile\""
+description: " \"Local AI models on phones are finally powerful enough to replace cloud services for daily tasks.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

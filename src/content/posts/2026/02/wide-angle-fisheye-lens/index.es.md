@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Efecto de Lente 'Gran Angular & Ojo de Pez' de Sensación Espacial Abrumadora"
+title: " \"Efecto de Lente 'Gran Angular & Ojo de Pez' de Sensación Espacial Abrumadora\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompts de lentes Gran Angular y Ojo de Pez para capturar espacios reducidos con gran amplitud y paisajes majestuosos en una sola toma."
+description: " \"Prompts de lentes Gran Angular y Ojo de Pez para capturar espacios reducidos con gran amplitud y paisajes majestuosos en una sola toma.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "Paisaje"]
 ---

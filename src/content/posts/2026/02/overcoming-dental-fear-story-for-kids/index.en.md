@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Overcoming Dental Fear Story for Kids: Courage Charge"
+title: " \"Overcoming Dental Fear Story for Kids: Courage Charge\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A magical, fear-overcoming simulation prompt to help children conquer their fear of the dentist."
+description: " \"A magical, fear-overcoming simulation prompt to help children conquer their fear of the dentist.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

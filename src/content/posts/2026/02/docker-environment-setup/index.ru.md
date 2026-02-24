@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Настройка среды Docker, 3 минуты с одним конфиг-файлом"
+title: " \"Настройка среды Docker, 3 минуты с одним конфиг-файлом\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Кодинг/Разработка"
-description: "Промпт, который автоматически генерирует Dockerfile и docker-compose.yml для превращения среды выполнения приложения в контейнер."
+description: " \"Промпт, который автоматически генерирует Dockerfile и docker-compose.yml для превращения среды выполнения приложения в контейнер.\""
 tags: ["Docker", "Контейнер", "Развертывание", "DevOps"]
 ---
 

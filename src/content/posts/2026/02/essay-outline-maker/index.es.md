@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escapando de la Fobia a la Pantalla en Blanco: Arquitecto de Esquema de Ensayo"
+title: " \"Escapando de la Fobia a la Pantalla en Blanco: Arquitecto de Esquema de Ensayo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudio/Autodesarrollo"
-description: "Un prompt que estructura lógicamente tus textos (Introducción, Desarrollo y Conclusión) y sugiere ideas clave para cada párrafo cuando te enfrentas al síndrome de la página en blanco."
+description: " \"Un prompt que estructura lógicamente tus textos (Introducción, Desarrollo y Conclusión) y sugiere ideas clave para cada párrafo cuando te enfrentas al síndrome de la página en blanco.\""
 tags: ["Escritura", "Ensayo", "Informe", "Asignación"]
 ---
 

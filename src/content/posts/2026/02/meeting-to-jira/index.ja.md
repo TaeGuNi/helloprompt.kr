@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "議事録をJiraチケットへ自動変換する"
+title: " \"議事録をJiraチケットへ自動変換する\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "プロジェクト管理"
-description: "1時間の会議の文字起こしを、わずか10秒で完璧なJiraチケットに変換する魔法のようなプロンプトをご紹介します。"
+description: " \"1時間の会議の文字起こしを、わずか10秒で完璧なJiraチケットに変換する魔法のようなプロンプトをご紹介します。\""
 tags: ["PM", "Jira", "議事録", "生産性"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plano de Viagem de Cura de Uma Semana para Burnout: Viagem Lenta"
+title: " \"Plano de Viagem de Cura de Uma Semana para Burnout: Viagem Lenta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Deixe de lado os roteiros turísticos exaustivos. Um guia prático para uma semana de 'Slow Travel' focada em descanso verdadeiro e recuperação."
+description: " \"Deixe de lado os roteiros turísticos exaustivos. Um guia prático para uma semana de 'Slow Travel' focada em descanso verdadeiro e recuperação.\""
 tags: ["Viagem de Cura", "Descanso", "Viver por uma Semana", "Viagem Lenta"]
 ---
 

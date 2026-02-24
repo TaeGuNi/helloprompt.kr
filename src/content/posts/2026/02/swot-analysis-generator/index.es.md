@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Terminar el Análisis FODA en 1 Minuto Sin Lluvia de Ideas"
+title: " \"Terminar el Análisis FODA en 1 Minuto Sin Lluvia de Ideas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing."
+description: " \"Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

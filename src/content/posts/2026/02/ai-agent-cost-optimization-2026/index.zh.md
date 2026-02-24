@@ -1,6 +1,6 @@
 ---
-title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "AI Agent API 成本正在呈爆炸式增长？本文将深入剖析“无脑追加（Naive Appending）”如何吞噬您的预算，并为您提供避免破产的 3 大核心优化策略（上下文缓存、状态压缩、模型路由）。"
+title: " \"The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026\""
+description: " \"AI Agent API 成本正在呈爆炸式增长？本文将深入剖析“无脑追加（Naive Appending）”如何吞噬您的预算，并为您提供避免破产的 3 大核心优化策略（上下文缓存、状态压缩、模型路由）。\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법"
+title: " \"유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "생산성 도구"
-description: "Passi ancora 20 minuti a cercare di guardare video di YouTube lunghi un'ora? Scopri il flusso di lavoro definitivo per estrarre le trascrizioni e usare i prompt AI per riassumere i punti chiave in soli 10 secondi."
+description: " \"Passi ancora 20 minuti a cercare di guardare video di YouTube lunghi un'ora? Scopri il flusso di lavoro definitivo per estrarre le trascrizioni e usare i prompt AI per riassumere i punti chiave in soli 10 secondi.\""
 tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 ---
 

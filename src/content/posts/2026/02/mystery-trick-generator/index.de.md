@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mysterium-Deduktionsspiel: Täter- und Trick-Generierung (Mystery Trick Generator)"
+title: " \"Mysterium-Deduktionsspiel: Täter- und Trick-Generierung (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Die KI entwirft geniale Tricks für geschlossene Räume und wasserdichte Alibis, die selbst Meisterdetektive wie Conan und Kindaichi ins Schwitzen bringen."
+description: " \"Die KI entwirft geniale Tricks für geschlossene Räume und wasserdichte Alibis, die selbst Meisterdetektive wie Conan und Kindaichi ins Schwitzen bringen.\""
 tags: ["Deduktion", "Mysterium", "Trick", "Roman", "Szenario"]
 ---
 

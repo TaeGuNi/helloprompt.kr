@@ -1,6 +1,6 @@
 ---
-title: "Self-Healing Code: Building an Agent That Fixes Its Own Bugs"
-description: "Stop babying your AI code generator. Learn how to build a 'Self-Healing' workflow where agents write, run, and fix their own errors automatically. A guide to Reflection loops."
+title: " \"Self-Healing Code: Building an Agent That Fixes Its Own Bugs\""
+description: " \"Stop babying your AI code generator. Learn how to build a 'Self-Healing' workflow where agents write, run, and fix their own errors automatically. A guide to Reflection loops.\""
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]

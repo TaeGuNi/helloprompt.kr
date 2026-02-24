@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Código de Vestimenta para Locais Religiosos: Sem Shorts?"
+title: " \"Guia de Código de Vestimenta para Locais Religiosos: Sem Shorts?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Templos, catedrais, mesquitas... Como não ser barrado na porta? Guia definitivo de código de vestimenta para lugares sagrados."
+description: " \"Templos, catedrais, mesquitas... Como não ser barrado na porta? Guia definitivo de código de vestimenta para lugares sagrados.\""
 tags:
   [
     "Código de Vestimenta",

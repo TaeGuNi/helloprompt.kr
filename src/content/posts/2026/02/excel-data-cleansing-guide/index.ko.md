@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "지저분한 엑셀 데이터, 깔끔하게 전처리하기"
+title: " \"지저분한 엑셀 데이터, 깔끔하게 전처리하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.143Z"
 category: "업무 자동화"
-description: "주소 분리, 날짜 형식 통일 등 지저분한 엑셀 데이터를 AI로 단숨에 클렌징하는 프롬프트 가이드입니다."
+description: " \"주소 분리, 날짜 형식 통일 등 지저분한 엑셀 데이터를 AI로 단숨에 클렌징하는 프롬프트 가이드입니다.\""
 tags: ["업무효율", "엑셀", "보고서", "ChatGPT"]
 ---
 

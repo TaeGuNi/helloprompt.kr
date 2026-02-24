@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Winterreise-Packstrategie: Wärme & Volumen"
+title: " \"Winterreise-Packstrategie: Wärme & Volumen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Nimmt Ihre dicke Daunenjacke den ganzen Koffer ein? Erfahren Sie hier alles über das effiziente Packen für Winterreisen."
+description: " \"Nimmt Ihre dicke Daunenjacke den ganzen Koffer ein? Erfahren Sie hier alles über das effiziente Packen für Winterreisen.\""
 tags: ["Winterreise", "Packen", "Kaltwetterausrüstung", "Pack-Know-how"]
 ---
 

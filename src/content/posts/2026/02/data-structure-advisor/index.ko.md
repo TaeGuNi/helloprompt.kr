@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? 결정 장애를 위한 자료구조 처방전"
+title: " \"List? Map? Set? 결정 장애를 위한 자료구조 처방전\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.107Z"
 updatedDate: "2026-02-07T09:10:33.108Z"
 category: "코딩/개발"
-description: "데이터를 저장해야 하는데 어떤 자료구조를 써야 할지 고민되시나요? 상황에 딱 맞는 최적의 자료구조와 시간 복잡도(Big-O)를 단숨에 찾아드립니다."
+description: " \"데이터를 저장해야 하는데 어떤 자료구조를 써야 할지 고민되시나요? 상황에 딱 맞는 최적의 자료구조와 시간 복잡도(Big-O)를 단숨에 찾아드립니다.\""
 tags: ["자료구조", "알고리즘", "성능최적화", "CS기초"]
 ---
 

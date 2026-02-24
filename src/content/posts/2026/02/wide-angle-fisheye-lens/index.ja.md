@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "圧倒的な空間感「Wide Angle & Fisheye」レンズ効果"
+title: " \"圧倒的な空間感「Wide Angle & Fisheye」レンズ効果\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "狭い空間をより広く、雄大な風景を一目で捉える広角（Wide Angle）および魚眼（Fisheye）レンズのプロンプト活用法です。"
+description: " \"狭い空間をより広く、雄大な風景を一目で捉える広角（Wide Angle）および魚眼（Fisheye）レンズのプロンプト活用法です。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

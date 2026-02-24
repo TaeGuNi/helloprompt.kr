@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Effetto Lente 'Grandangolo & Fisheye' dal Senso Spaziale Travolgente"
+title: " \"Effetto Lente 'Grandangolo & Fisheye' dal Senso Spaziale Travolgente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per lenti grandangolari e fisheye per catturare ampiamente spazi ristretti e paesaggi magnifici in un solo colpo d'occhio."
+description: " \"Prompt per lenti grandangolari e fisheye per catturare ampiamente spazi ristretti e paesaggi magnifici in un solo colpo d'occhio.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Angolo Telecamera", "Paesaggio"]
 ---

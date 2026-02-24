@@ -1,6 +1,6 @@
 ---
-title: "使用 Claude Code 制作高尔夫游戏：AI 游戏开发的新纪元"
-description: "揭秘如何利用 Claude Code 在短短1小时内开发出一款完美运行的 2D 高尔夫游戏。立即查看这份实战指南，了解 AI 结对编程如何大幅降低游戏开发门槛。"
+title: " \"使用 Claude Code 制作高尔夫游戏：AI 游戏开发的新纪元\""
+description: " \"揭秘如何利用 Claude Code 在短短1小时内开发出一款完美运行的 2D 高尔夫游戏。立即查看这份实战指南，了解 AI 结对编程如何大幅降低游戏开发门槛。\""
 date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---

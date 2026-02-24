@@ -1,10 +1,10 @@
 ---
-title: "Flux de Travail des Agents IA : Au-delà des Chatbots"
+title: " \"Flux de Travail des Agents IA : Au-delà des Chatbots\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Productivité"
-description: "Un prompt avancé pour concevoir des flux de travail d'agents IA capables d'exécuter des tâches réelles et complexes de bout en bout, bien au-delà de la simple conversation."
+description: " \"Un prompt avancé pour concevoir des flux de travail d'agents IA capables d'exécuter des tâches réelles et complexes de bout en bout, bien au-delà de la simple conversation.\""
 tags: ["Agents IA", "Automatisation", "Productivité", "Flux de Travail"]
 ---
 

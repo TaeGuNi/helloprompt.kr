@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Das ultimative Spiel für zu Hause: 'Staffel-Malen und Geschichtenerfinden'"
+title: " \"Das ultimative Spiel für zu Hause: 'Staffel-Malen und Geschichtenerfinden'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein kreatives Zeichen- und Geschichtenspiel, das die Fantasie von Kindern mit skurrilen KI-Szenarien anregt."
+description: " \"Ein kreatives Zeichen- und Geschichtenspiel, das die Fantasie von Kindern mit skurrilen KI-Szenarien anregt.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

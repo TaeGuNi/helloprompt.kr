@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traduce Términos Legales Alienígenas Para Que Incluso Estudiantes de Primaria Entiendan"
+title: " \"Traduce Términos Legales Alienígenas Para Que Incluso Estudiantes de Primaria Entiendan\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Un prompt que traduce documentos legales complejos, como contratos de arrendamiento y términos de servicio, a un lenguaje sencillo y detecta cláusulas abusivas."
+description: " \"Un prompt que traduce documentos legales complejos, como contratos de arrendamiento y términos de servicio, a un lenguaje sencillo y detecta cláusulas abusivas.\""
 tags: ["Ley", "Contrato", "Ley de Vida"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "フロントエンドコンポーネント、デザインだけ説明すればコード完成"
+title: " \"フロントエンドコンポーネント、デザインだけ説明すればコード完成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "React、Vue、Tailwind CSSなど、希望する技術スタックを指定してUIコンポーネントを爆速で生成するプロンプトです。"
+description: " \"React、Vue、Tailwind CSSなど、希望する技術スタックを指定してUIコンポーネントを爆速で生成するプロンプトです。\""
 tags: ["フロントエンド", "React", "Vue", "Tailwind", "UIコンポーネント"]
 ---
 

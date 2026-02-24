@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트"
+title: " \"발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "기획"
-description: "Il design delle slide è secondario rispetto a una solida 'struttura logica'. Risparmia 30 minuti nella fase di pianificazione della tua presentazione."
+description: " \"Il design delle slide è secondario rispetto a una solida 'struttura logica'. Risparmia 30 minuti nella fase di pianificazione della tua presentazione.\""
 tags: ["PPT", "발표", "기획"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching en Compétences Sociales pour Enfants : Expliquer les Relations et le Rejet"
+title: " \"Coaching en Compétences Sociales pour Enfants : Expliquer les Relations et le Rejet\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un guide de prompt IA pour aider les enfants à surmonter le rejet et développer leur résilience sociale."
+description: " \"Un guide de prompt IA pour aider les enfants à surmonter le rejet et développer leur résilience sociale.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Il medico IA entra in clinica"
-description: "Il presente dell'IA medica: come strutturare e spiegare i piani di trattamento ai pazienti in modo chiaro ed empatico."
+title: " \"Il medico IA entra in clinica\""
+description: " \"Il presente dell'IA medica: come strutturare e spiegare i piani di trattamento ai pazienti in modo chiaro ed empatico.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

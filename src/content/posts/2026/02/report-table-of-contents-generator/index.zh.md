@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "上司喜欢的报告书目录构成"
+title: " \"上司喜欢的报告书目录构成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "一键生成逻辑清晰、直击痛点 (Logic Flow) 的报告书大纲提示词。"
+description: " \"一键生成逻辑清晰、直击痛点 (Logic Flow) 的报告书大纲提示词。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

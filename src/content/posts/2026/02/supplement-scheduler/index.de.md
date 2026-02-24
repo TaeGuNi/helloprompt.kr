@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Eine Handvoll Pillen? KI-Benutzerdefinierte Nahrungsergänzungsmittel-Kombination und Zeitplaner"
+title: " \"Eine Handvoll Pillen? KI-Benutzerdefinierte Nahrungsergänzungsmittel-Kombination und Zeitplaner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "Erstellen Sie mit KI eine optimale Nahrungsergänzungsmittel-Routine, die Doppelungen vermeidet und die Aufnahme im Körper maximiert."
+description: " \"Erstellen Sie mit KI eine optimale Nahrungsergänzungsmittel-Routine, die Doppelungen vermeidet und die Aufnahme im Körper maximiert.\""
 tags:
   [
     "Nahrungsergänzungsmittel",

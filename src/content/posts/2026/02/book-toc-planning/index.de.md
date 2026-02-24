@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kann ich auch Autor sein? Planung eines sich verkaufenden Buch-Inhaltsverzeichnisses"
+title: " \"Kann ich auch Autor sein? Planung eines sich verkaufenden Buch-Inhaltsverzeichnisses\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Schreiben"
-description: "Ein KI-Prompt zur Buchplanung und Inhaltsverzeichniserstellung, der vage Publikationsträume in die Realität umsetzt."
+description: " \"Ein KI-Prompt zur Buchplanung und Inhaltsverzeichniserstellung, der vage Publikationsträume in die Realität umsetzt.\""
 tags: ["Buch schreiben", "Veröffentlichungsplanung", "E-Book"]
 ---
 

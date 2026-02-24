@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching di Abilità Sociali per Bambini: Spiegare Relazioni e Rifiuto"
+title: " \"Coaching di Abilità Sociali per Bambini: Spiegare Relazioni e Rifiuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Coaching pratico per aiutare i bambini a gestire il rifiuto dei coetanei e costruire relazioni sane."
+description: " \"Coaching pratico per aiutare i bambini a gestire il rifiuto dei coetanei e costruire relazioni sane.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escaping Blank Screen Phobia: Essay Outline Architect"
+title: " \"Escaping Blank Screen Phobia: Essay Outline Architect\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "StudyMethod/Self-Development"
-description: "A powerful prompt that generates a logical structure (Introduction-Body-Conclusion) and core ideas for each paragraph when you're struggling with writer's block."
+description: " \"A powerful prompt that generates a logical structure (Introduction-Body-Conclusion) and core ideas for each paragraph when you're struggling with writer's block.\""
 tags: ["Writing", "Essay", "Report", "Assignment"]
 ---
 

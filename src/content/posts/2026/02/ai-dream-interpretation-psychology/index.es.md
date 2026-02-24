@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Psicología de Interpretación de Sueños con IA: ¿Qué fue el Sueño de Anoche?"
+title: " \"Psicología de Interpretación de Sueños con IA: ¿Qué fue el Sueño de Anoche?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Fue un sueño absurdo o premonitorio? ¿O una señal del inconsciente? Interpreta el verdadero significado de tus sueños mediante el análisis de símbolos psicológicos con IA."
+description: " \"¿Fue un sueño absurdo o premonitorio? ¿O una señal del inconsciente? Interpreta el verdadero significado de tus sueños mediante el análisis de símbolos psicológicos con IA.\""
 tags:
   ["Interpretación de Sueños", "Psicología", "Inconsciente", "Freud", "ChatGPT"]
 ---

@@ -1,10 +1,10 @@
 ---
 date: "2026-02-13"
-description: 향상된 센서와 악천후 대응 능력, 더 부드러운 승차감을 갖춘 Waymo의 새로운 6세대 드라이버가 도입됩니다.
+description: "향상된 센서와 악천후 대응 능력, 더 부드러운 승차감을 갖춘 Waymo의 새로운 6세대 드라이버가 도입됩니다."
 heroImage: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo, 6세대 드라이버로 완전 자율 주행 시작
+title: "Waymo, 6세대 드라이버로 완전 자율 주행 시작"
 ---
 
 # 📝 Waymo, 6세대 드라이버로 완전 자율 주행 시작

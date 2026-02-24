@@ -1,6 +1,6 @@
 ---
-title: "Building a Golf Game with Claude Code: A New Era of AI Game Dev"
-description: "Découvrez comment j'ai créé un jeu de golf entièrement fonctionnel avec Claude Code en un temps record. Un tutoriel étape par étape sur l'utilisation de l'IA pour le développement de jeux."
+title: " \"Building a Golf Game with Claude Code: A New Era of AI Game Dev\""
+description: " \"Découvrez comment j'ai créé un jeu de golf entièrement fonctionnel avec Claude Code en un temps record. Un tutoriel étape par étape sur l'utilisation de l'IA pour le développement de jeux.\""
 date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---

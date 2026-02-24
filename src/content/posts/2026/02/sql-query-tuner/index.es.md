@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Consulta SQL Lenta, Secreto para Afinar en 3 Segundos"
+title: " \"Consulta SQL Lenta, Secreto para Afinar en 3 Segundos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Un prompt que analiza consultas SQL complejas e ineficientes para optimizar su rendimiento y recomendar los índices adecuados."
+description: " \"Un prompt que analiza consultas SQL complejas e ineficientes para optimizar su rendimiento y recomendar los índices adecuados.\""
 tags: ["SQL", "Ajuste de BD", "Optimización de Consultas", "Base de Datos"]
 ---
 

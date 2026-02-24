@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "A new open-source project provides a lightweight, header-only C library for vector similarity search, enabling embedded AI applications with minimal dependencies."
+title: " \"Header-only C Vector Database\""
+description: " \"A new open-source project provides a lightweight, header-only C library for vector similarity search, enabling embedded AI applications with minimal dependencies.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

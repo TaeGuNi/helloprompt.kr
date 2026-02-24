@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "貸出償還スケジュール表：元利金均等 vs 元金均等"
+title: " \"貸出償還スケジュール表：元利金均等 vs 元金均等\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "銀行のサイトにアクセスすることなく、Excelで簡単に作成できるローン返済シミュレーターのテンプレートです。"
+description: " \"銀行のサイトにアクセスすることなく、Excelで簡単に作成できるローン返済シミュレーターのテンプレートです。\""
 tags: ["エクセル", "貸出利子", "財務関数", "PMT"]
 ---
 

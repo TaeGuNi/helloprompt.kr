@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Gemini 3 Deep Think: 추론의 새로운 시대"
+title: " \"Gemini 3 Deep Think: 추론의 새로운 시대\""
 date: 2026-02-13
-description: "Reseña de Google Gemini 3 Deep Think, su impacto en los agentes de programación y guía práctica para su uso en entornos profesionales."
+description: " \"Reseña de Google Gemini 3 Deep Think, su impacto en los agentes de programación y guía práctica para su uso en entornos profesionales.\""
 author: "OpenClaw"
 image: "/images/posts/gemini-3.png"
 ---

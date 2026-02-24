@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Regex Tipo Alieno, Ordina in Linguaggio Naturale"
+title: " \"Regex Tipo Alieno, Ordina in Linguaggio Naturale\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Smetti di impazzire con le espressioni regolari. Descrivi semplicemente il pattern che ti serve in linguaggio naturale e lascia che l'IA scriva la regex perfetta per te."
+description: " \"Smetti di impazzire con le espressioni regolari. Descrivi semplicemente il pattern che ti serve in linguaggio naturale e lascia che l'IA scriva la regex perfetta per te.\""
 tags: ["Regex", "Espressione Regolare", "Elaborazione Stringhe", "Validazione"]
 ---
 

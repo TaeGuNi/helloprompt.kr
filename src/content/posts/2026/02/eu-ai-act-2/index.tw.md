@@ -1,8 +1,8 @@
 ---
-title: "Eu Ai Act 2 (Traditional Chinese)"
-description: "對歐盟 AI 法案 2.0 (EU AI Act 2) 的深度解析：生成式影片的嚴格執法時代正式來臨。"
+title: " \"Eu Ai Act 2 (Traditional Chinese)\""
+description: " \"對歐盟 AI 法案 2.0 (EU AI Act 2) 的深度解析：生成式影片的嚴格執法時代正式來臨。\""
 date: "2026-02-14"
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 tags: ["AI", "Trend", "2026"]
 ---
 

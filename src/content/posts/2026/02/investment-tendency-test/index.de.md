@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mein Investitionsneigungstest: Feigling oder Bestie?"
+title: " \"Mein Investitionsneigungstest: Feigling oder Bestie?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Schluss mit langweiligen Umfragen am Bankschalter. Eine KI ermittelt Ihre wahre Risikobereitschaft."
+description: " \"Schluss mit langweiligen Umfragen am Bankschalter. Eine KI ermittelt Ihre wahre Risikobereitschaft.\""
 tags:
   [
     "Investitionsneigung",

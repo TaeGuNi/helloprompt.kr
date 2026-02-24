@@ -1,6 +1,6 @@
 ---
-title: "Le médecin IA entre dans la clinique"
-description: "Découvrez comment l'IA médicale aide les professionnels à proposer des diagnostics différentiels et des plans de traitement personnalisés."
+title: " \"Le médecin IA entre dans la clinique\""
+description: " \"Découvrez comment l'IA médicale aide les professionnels à proposer des diagnostics différentiels et des plans de traitement personnalisés.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

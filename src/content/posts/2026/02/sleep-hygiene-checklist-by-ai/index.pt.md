@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Verificação de Higiene do Sono por IA: Pare as Noites Sem Dormir"
+title: " \"Lista de Verificação de Higiene do Sono por IA: Pare as Noites Sem Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "O meu quarto é realmente um ambiente ideal para dormir? A IA analisa o seu espaço e hábitos para criar uma rotina de sono perfeita."
+description: " \"O meu quarto é realmente um ambiente ideal para dormir? A IA analisa o seu espaço e hábitos para criar uma rotina de sono perfeita.\""
 tags: ["Sono", "Insônia", "Saúde", "Higiene do Sono", "ChatGPT"]
 ---
 

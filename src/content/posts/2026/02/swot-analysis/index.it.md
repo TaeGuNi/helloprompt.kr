@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Standard di Analisi Aziendale: Analizzatore SWOT IA"
+title: " \"Standard di Analisi Aziendale: Analizzatore SWOT IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Prompt per cogliere a colpo d'occhio i punti di forza, le debolezze, le opportunità e le minacce dell'azienda in cui intendi investire."
+description: " \"Prompt per cogliere a colpo d'occhio i punti di forza, le debolezze, le opportunità e le minacce dell'azienda in cui intendi investire.\""
 tags: ["Azioni", "AnalisiAziendale", "SWOT", "Strategia"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 뭐 입지? AI 날씨 스타일리스트"
+title: " \"오늘 뭐 입지? AI 날씨 스타일리스트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "패션"
-description: "気温、湿度、降水確率を考慮した失敗しないOOTD（今日のコーデ）提案プロンプト。"
+description: " \"気温、湿度、降水確率を考慮した失敗しないOOTD（今日のコーデ）提案プロンプト。\""
 tags: ["패션", "날씨", "OOTD", "코디"]
 ---
 

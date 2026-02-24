@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "孩子们的梦幻睡眠故事：云端火车之旅"
+title: " \"孩子们的梦幻睡眠故事：云端火车之旅\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "专为失眠宝宝设计的睡前冥想故事，巧妙融入身体放松技巧，让孩子轻松入眠。"
+description: " \"专为失眠宝宝设计的睡前冥想故事，巧妙融入身体放松技巧，让孩子轻松入眠。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

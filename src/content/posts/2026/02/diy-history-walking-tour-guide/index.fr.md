@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Visite à Pied Historique DIY : Profitez Sans Guide"
+title: " \"Guide de Visite à Pied Historique DIY : Profitez Sans Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Découvrez la ville à votre propre rythme sans visites coûteuses. Créez un parcours de promenade historique sur mesure tissé autour de vos thèmes préférés."
+description: " \"Découvrez la ville à votre propre rythme sans visites coûteuses. Créez un parcours de promenade historique sur mesure tissé autour de vos thèmes préférés.\""
 tags: ["Visite à Pied", "Autoguidage", "Promenade Historique", "Voyage à Pied"]
 ---
 

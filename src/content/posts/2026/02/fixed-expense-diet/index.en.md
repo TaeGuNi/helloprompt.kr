@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fixed Expense Diet: Ideas to Stop Leaking Money"
+title: " \"Fixed Expense Diet: Ideas to Stop Leaking Money\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Think your monthly fixed expenses are set in stone? Let AI uncover hidden savings and effortlessly optimize your budget."
+description: " \"Think your monthly fixed expenses are set in stone? Let AI uncover hidden savings and effortlessly optimize your budget.\""
 tags: ["Saving", "FixedExpense", "LivingCost", "Frugality"]
 ---
 

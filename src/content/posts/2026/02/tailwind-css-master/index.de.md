@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)"
+title: " \"Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"
-description: "flex, grid, center... Ein KI-Konverter, der beschriebene CSS-Eigenschaften direkt in Tailwind-Klassen umwandelt."
+description: " \"flex, grid, center... Ein KI-Konverter, der beschriebene CSS-Eigenschaften direkt in Tailwind-Klassen umwandelt.\""
 tags: ["Tailwind", "CSS", "프론트엔드", "웹디자인", "코딩"]
 ---
 

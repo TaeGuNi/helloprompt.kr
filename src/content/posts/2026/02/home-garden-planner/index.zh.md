@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "告别植物杀手！从推荐最适合您家采光和通风的植物，到拯救濒死的盆栽，AI 绿植管家为您提供全方位指南。"
+description: " \"告别植物杀手！从推荐最适合您家采光和通风的植物，到拯救濒死的盆栽，AI 绿植管家为您提供全方位指南。\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

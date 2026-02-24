@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "扭曲陈词滥调: 把明显的结局变成冲击反转"
+title: " \"扭曲陈词滥调: 把明显的结局变成冲击反转\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"
-description: "打破老套的陈词滥调，获取让读者惊叹的冲击性反转创意的方法。"
+description: " \"打破老套的陈词滥调，获取让读者惊叹的冲击性反转创意的方法。\""
 tags: ["小说", "反转", "创意", "讲故事"]
 ---
 

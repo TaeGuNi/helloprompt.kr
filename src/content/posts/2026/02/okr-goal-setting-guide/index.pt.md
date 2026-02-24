@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Definição de OKR para Alcance de Metas"
+title: " \"Guia de Definição de OKR para Alcance de Metas\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a estabelecer Objetivos (Objectives) inspiradores e Resultados-Chave (Key Results) mensuráveis com IA."
+description: " \"Aprenda a estabelecer Objetivos (Objectives) inspiradores e Resultados-Chave (Key Results) mensuráveis com IA.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

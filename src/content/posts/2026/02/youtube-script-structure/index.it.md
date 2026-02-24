@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Segreto di Strutturazione Script YouTube per Visualizzazioni Elevate"
+title: " \"Segreto di Strutturazione Script YouTube per Visualizzazioni Elevate\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Scrittura"
-description: "Un prompt infallibile per strutturare script video di YouTube: azzera l'abbandono nei primi 5 secondi e massimizza la retention fino all'ultimo secondo."
+description: " \"Un prompt infallibile per strutturare script video di YouTube: azzera l'abbandono nei primi 5 secondi e massimizza la retention fino all'ultimo secondo.\""
 tags: ["YouTube", "Script", "Produzione Video"]
 ---
 

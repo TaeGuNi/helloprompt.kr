@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Juego de Limpieza: La Magia de Convertir el Ordenar en un Juego Divertido"
+title: " \"Juego de Limpieza: La Magia de Convertir el Ordenar en un Juego Divertido\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Estrategias de gamificación con IA para lograr que los niños limpien una habitación desordenada en 10 minutos sin gritos."
+description: " \"Estrategias de gamificación con IA para lograr que los niños limpien una habitación desordenada en 10 minutos sin gritos.\""
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

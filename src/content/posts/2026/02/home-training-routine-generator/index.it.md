@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Routine di Allenamento a Casa IA per Mettersi in Forma Senza Andare in Palestra"
+title: " \"Generatore di Routine di Allenamento a Casa IA per Mettersi in Forma Senza Andare in Palestra\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Progetta una routine di allenamento a casa su misura, basata sul tuo livello di fitness e sull'attrezzatura disponibile, senza dover andare in palestra."
+description: " \"Progetta una routine di allenamento a casa su misura, basata sul tuo livello di fitness e sull'attrezzatura disponibile, senza dover andare in palestra.\""
 tags: ["Allenamento a Casa", "Esercizio", "Fitness", "Routine"]
 ---
 

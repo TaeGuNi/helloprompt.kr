@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Verificação de Kit Médico de Viagem Essencial: Não Fique Doente no Exterior"
+title: " \"Lista de Verificação de Kit Médico de Viagem Essencial: Não Fique Doente no Exterior\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Não perca tempo procurando uma farmácia local. Saiba como montar kits de primeiros socorros essenciais e de emergência de acordo com a situação e os sintomas usando IA."
+description: " \"Não perca tempo procurando uma farmácia local. Saiba como montar kits de primeiros socorros essenciais e de emergência de acordo com a situação e os sintomas usando IA.\""
 tags:
   [
     "Medicina de Emergência",

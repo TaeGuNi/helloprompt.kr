@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "면접관의 마음을 돌리는 '면접 후 감사 메일(Thank You Email)'"
+title: " \"면접관의 마음을 돌리는 '면접 후 감사 메일(Thank You Email)'\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "취업 & 이직"
-description: "면접 직후 발송하는 정중한 감사 메일(Thank You Email) 프롬프트입니다. 미처 다 못한 답변을 보완하고 면접관에게 강렬한 인상을 남겨 합격 확률을 높이세요."
+description: " \"면접 직후 발송하는 정중한 감사 메일(Thank You Email) 프롬프트입니다. 미처 다 못한 답변을 보완하고 면접관에게 강렬한 인상을 남겨 합격 확률을 높이세요.\""
 tags: ["감사메일", "면접후기", "비즈니스이메일", "팔로업"]
 ---
 

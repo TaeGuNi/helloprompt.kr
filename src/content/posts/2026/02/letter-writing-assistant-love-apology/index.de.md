@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brief-Ghostwriting-Service: Von Schwarm-Geständnis bis Höflicher Ablehnung"
+title: " \"Brief-Ghostwriting-Service: Von Schwarm-Geständnis bis Höflicher Ablehnung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Finden Sie die richtigen Worte für schwierige Situationen. Lassen Sie die KI einfühlsame, professionelle und aufrichtige Briefe für Sie verfassen."
+description: " \"Finden Sie die richtigen Worte für schwierige Situationen. Lassen Sie die KI einfühlsame, professionelle und aufrichtige Briefe für Sie verfassen.\""
 tags: ["Schreiben", "Brief", "Liebe", "Entschuldigung", "Ablehnung"]
 ---
 

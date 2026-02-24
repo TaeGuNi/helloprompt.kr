@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Historia de Sueño de Ensueño para Niños: El Viaje en el Tren de las Nubes"
+title: " \"Historia de Sueño de Ensueño para Niños: El Viaje en el Tren de las Nubes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Una historia que incorpora técnicas de meditación y relajación para ayudar a dormir a los niños a los que les cuesta conciliar el sueño."
+description: " \"Una historia que incorpora técnicas de meditación y relajación para ayudar a dormir a los niños a los que les cuesta conciliar el sueño.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

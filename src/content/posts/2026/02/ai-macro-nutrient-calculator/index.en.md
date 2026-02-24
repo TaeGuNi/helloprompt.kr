@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Macro Nutrient Calculator: Just Take a Picture"
+title: " \"AI Macro Nutrient Calculator: Just Take a Picture\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Stop entering complex calories into apps! How to calculate accurate carb-protein-fat ratios by telling AI with text or pictures."
+description: " \"Stop entering complex calories into apps! How to calculate accurate carb-protein-fat ratios by telling AI with text or pictures.\""
 tags: ["Macro", "Nutrient", "Diet", "ChatGPT", "Meal Log"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "面倒なAPI文書化、コードさえ渡せばSwaggerがあっという間に"
+title: " \"面倒なAPI文書化、コードさえ渡せばSwaggerがあっという間に\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "APIのコードを貼り付けるだけで、OpenAPI(Swagger)仕様書やMarkdownドキュメントへ自動変換してくれる実践的なプロンプトです。"
+description: " \"APIのコードを貼り付けるだけで、OpenAPI(Swagger)仕様書やMarkdownドキュメントへ自動変換してくれる実践的なプロンプトです。\""
 tags: ["API", "文書化", "Swagger", "OpenAPI", "バックエンド"]
 ---
 

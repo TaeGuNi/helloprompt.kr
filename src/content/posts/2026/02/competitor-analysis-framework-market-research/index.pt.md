@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dominando o Mercado com o Framework de Análise de Concorrentes"
+title: " \"Dominando o Mercado com o Framework de Análise de Concorrentes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Descubra os pontos fortes e fracos dos seus concorrentes e identifique oportunidades valiosas de benchmarking com IA."
+description: " \"Descubra os pontos fortes e fracos dos seus concorrentes e identifique oportunidades valiosas de benchmarking com IA.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

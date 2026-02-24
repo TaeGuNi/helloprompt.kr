@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Commit-Nachricht empfehlen' Keine Sorgen mehr! Automatische Generierung von Conventional Commits"
+title: " \"'Commit-Nachricht empfehlen' Keine Sorgen mehr! Automatische Generierung von Conventional Commits\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der automatisch saubere, standardisierte Commit-Nachrichten (Conventional Commits) generiert, wenn Sie einfach Ihre Änderungen (`git diff`) einfügen."
+description: " \"Ein Prompt, der automatisch saubere, standardisierte Commit-Nachrichten (Conventional Commits) generiert, wenn Sie einfach Ihre Änderungen (`git diff`) einfügen.\""
 tags: ["Git", "Commit-Nachricht", "Zusammenarbeit", "Produktivität"]
 ---
 

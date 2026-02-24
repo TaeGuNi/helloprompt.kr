@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Revive Your Dead Channel: The 1M Views Formula"
+title: " \"Revive Your Dead Channel: The 1M Views Formula\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"
-description: "Let AI generate 'clickable' titles and thumbnail ideas. Watch your CTR skyrocket."
+description: " \"Let AI generate 'clickable' titles and thumbnail ideas. Watch your CTR skyrocket.\""
 tags: ["YouTube", "Thumbnail", "Title Generator", "Clickbait", "Views"]
 ---
 

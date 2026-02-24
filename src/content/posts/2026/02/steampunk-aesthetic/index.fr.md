@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Romance des Machines à Vapeur Style 'Steampunk'"
+title: " \"Romance des Machines à Vapeur Style 'Steampunk'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt Steampunk pour générer une vision futuriste du 19ème siècle, dominée par des engrenages en laiton et des machines à vapeur."
+description: " \"Prompt Steampunk pour générer une vision futuriste du 19ème siècle, dominée par des engrenages en laiton et des machines à vapeur.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Science-fiction", "Rétro"]
 ---
 

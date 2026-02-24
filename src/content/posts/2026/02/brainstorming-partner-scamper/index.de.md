@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wenn Ideen stecken bleiben, Brainstorming-Partner"
+title: " \"Wenn Ideen stecken bleiben, Brainstorming-Partner\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Überwinden Sie kreative Blockaden und erweitern Sie Ihre Ideen mühelos mit der bewährten SCAMPER-Technik."
+description: " \"Überwinden Sie kreative Blockaden und erweitern Sie Ihre Ideen mühelos mit der bewährten SCAMPER-Technik.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

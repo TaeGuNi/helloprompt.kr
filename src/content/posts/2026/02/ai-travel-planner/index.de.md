@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Reiseplaner für Ps, perfekter als Js"
+title: " \"KI-Reiseplaner für Ps, perfekter als Js\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Leben"
-description: "Ein Reiseführer-Prompt, der optimale Reiserouten und stündliche Reisepläne ohne unnötige Wege plant."
+description: " \"Ein Reiseführer-Prompt, der optimale Reiserouten und stündliche Reisepläne ohne unnötige Wege plant.\""
 tags: ["Reise", "Reiseplan", "Auslandsreise"]
 ---
 

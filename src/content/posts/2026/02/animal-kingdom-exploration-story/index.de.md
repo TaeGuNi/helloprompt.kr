@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erkundung des Tierreichs: Eine Geschichte, um Freund der Natur zu werden"
+title: " \"Erkundung des Tierreichs: Eine Geschichte, um Freund der Natur zu werden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Erlebe spannende Tierabenteuer, die Kindern auf spielerische Weise fundiertes ökologisches Wissen vermitteln."
+description: " \"Erlebe spannende Tierabenteuer, die Kindern auf spielerische Weise fundiertes ökologisches Wissen vermitteln.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

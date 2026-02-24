@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Translation Beyond Translator: Fixing 'Nuance' (Business English)"
+title: " \"Translation Beyond Translator: Fixing 'Nuance' (Business English)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Language/Translation"
-description: "Words are correct but feel rude? Use this AI prompt to translate politeness, tone, and hidden intent in business emails."
+description: " \"Words are correct but feel rude? Use this AI prompt to translate politeness, tone, and hidden intent in business emails.\""
 tags: ["Translation", "Email", "BusinessEnglish", "ChatGPT", "DeepL"]
 ---
 

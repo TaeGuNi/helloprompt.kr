@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "God of Server Management, Shell Script Auto Generator"
+title: " \"God of Server Management, Shell Script Auto Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Stop memorizing complex Linux commands. Simply describe your task in plain English, and generate secure, robust Bash scripts instantly."
+description: " \"Stop memorizing complex Linux commands. Simply describe your task in plain English, and generate secure, robust Bash scripts instantly.\""
 tags: ["Linux", "Shell Script", "DevOps", "Automation", "Bash"]
 ---
 

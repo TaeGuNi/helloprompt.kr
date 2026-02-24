@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的代码是垃圾！整洁代码重构教练"
+title: " \"我的代码是垃圾！整洁代码重构教练\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编程/IT"
-description: "将勉强能运行的‘屎山代码’重构为高可读性、高可维护性‘整洁代码’的AI教练提示词。"
+description: " \"将勉强能运行的‘屎山代码’重构为高可读性、高可维护性‘整洁代码’的AI教练提示词。\""
 tags: ["重构", "整洁代码", "开发者", "代码审查"]
 ---
 

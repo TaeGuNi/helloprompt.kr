@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Создайте здоровый рацион всего за 15 минут суетливым утром с помощью ИИ-диетолога, который поможет использовать остатки продуктов из холодильника."
+description: " \"Создайте здоровый рацион всего за 15 минут суетливым утром с помощью ИИ-диетолога, который поможет использовать остатки продуктов из холодильника.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

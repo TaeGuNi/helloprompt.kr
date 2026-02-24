@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cinto de Segurança de Fundo de Emergência: Calculando Meu Próprio Valor Adequado de Fundo de Emergência"
+title: " \"Cinto de Segurança de Fundo de Emergência: Calculando Meu Próprio Valor Adequado de Fundo de Emergência\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Tecnologia Financeira & Investimento"
-description: "Descubra como calcular o tamanho ideal do seu fundo de emergência para manter sua estabilidade financeira inabalável diante de imprevistos ou perda de renda."
+description: " \"Descubra como calcular o tamanho ideal do seu fundo de emergência para manter sua estabilidade financeira inabalável diante de imprevistos ou perda de renda.\""
 tags:
   ["Fundo de Emergência", "Gestão Financeira", "Gestão de Risco", "Poupança"]
 ---

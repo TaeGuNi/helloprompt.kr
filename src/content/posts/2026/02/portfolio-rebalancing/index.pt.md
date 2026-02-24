@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rebalanceamento de Portfólio IA: Encontrando a Proporção Áurea"
+title: " \"Rebalanceamento de Portfólio IA: Encontrando a Proporção Áurea\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Prompt para analisar sua alocação atual de ativos e receber sugestões ideais de rebalanceamento de portfólio."
+description: " \"Prompt para analisar sua alocação atual de ativos e receber sugestões ideais de rebalanceamento de portfólio.\""
 tags: ["Investimento", "AlocaçãoAtivos", "Rebalanceamento", "Portfólio"]
 ---
 

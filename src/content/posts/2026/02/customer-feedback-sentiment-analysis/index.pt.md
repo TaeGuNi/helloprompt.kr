@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analisando Feedback Detalhado do Cliente, Positivo/Negativo"
+title: " \"Analisando Feedback Detalhado do Cliente, Positivo/Negativo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Centenas de avaliações de clientes: organize tudo de uma vez com Análise de Sentimento."
+description: " \"Centenas de avaliações de clientes: organize tudo de uma vez com Análise de Sentimento.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 投资组合再平衡: 寻找黄金比例"
+title: " \"AI 投资组合再平衡: 寻找黄金比例\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "使用 AI 快速检查资产配置状态，并获取最佳的再平衡（Rebalancing）比例与具体行动指南。"
+description: " \"使用 AI 快速检查资产配置状态，并获取最佳的再平衡（Rebalancing）比例与具体行动指南。\""
 tags: ["投资", "资产配置", "再平衡", "投资组合"]
 ---
 

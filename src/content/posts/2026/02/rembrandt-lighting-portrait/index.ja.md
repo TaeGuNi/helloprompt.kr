@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "人物の品格を高める「Rembrandt Lighting」技法"
+title: " \"人物の品格を高める「Rembrandt Lighting」技法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "巨匠の肖像画のように、深みと重厚感のある人物写真を生成するための照明プロンプトです。"
+description: " \"巨匠の肖像画のように、深みと重厚感のある人物写真を生成するための照明プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 

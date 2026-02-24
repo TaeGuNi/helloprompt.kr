@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tecnica 'Schizzo Acquerello' Chiara e Trasparente"
+title: " \"Tecnica 'Schizzo Acquerello' Chiara e Trasparente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per un acquerello emozionale che combina l'effetto di diffusione dell'acqua e le linee di uno schizzo a matita."
+description: " \"Prompt per un acquerello emozionale che combina l'effetto di diffusione dell'acqua e le linee di uno schizzo a matita.\""
 tags:
   [
     "Midjourney",

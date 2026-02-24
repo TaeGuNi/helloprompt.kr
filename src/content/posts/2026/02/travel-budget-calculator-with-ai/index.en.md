@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Travel Budget Calculator with AI: Cost-Effective Travel"
+title: " \"Travel Budget Calculator with AI: Cost-Effective Travel\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Wondering how much currency to exchange? Let AI calculate your travel expenses perfectly, down to the last penny."
+description: " \"Wondering how much currency to exchange? Let AI calculate your travel expenses perfectly, down to the last penny.\""
 tags: ["Travel Expenses", "Budget", "Currency Exchange", "Travel Preparation"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "DeepSeek R1 本地部署指南：在电脑里养一个免费的编程奴隶"
+title: " \"DeepSeek R1 本地部署指南：在电脑里养一个免费的编程奴隶\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "开发/编程"
-description: "使用Ollama在本地安装DeepSeek R1，获得无限免费的编程助手。无数据泄露风险，100%隐私安全。"
+description: " \"使用Ollama在本地安装DeepSeek R1，获得无限免费的编程助手。无数据泄露风险，100%隐私安全。\""
 tags: ["DeepSeek", "Ollama", "Local LLM", "编程", "生产力"]
 ---
 

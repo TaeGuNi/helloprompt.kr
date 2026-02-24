@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Preguntas Esperadas de 'Entrevista Técnica' por Trabajo"
+title: " \"Generador de Preguntas Esperadas de 'Entrevista Técnica' por Trabajo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Extrae las preguntas técnicas más probables y diseña respuestas modelo adaptadas a tu rol, experiencia y habilidades específicas, ya seas desarrollador, marketer o diseñador."
+description: " \"Extrae las preguntas técnicas más probables y diseña respuestas modelo adaptadas a tu rol, experiencia y habilidades específicas, ya seas desarrollador, marketer o diseñador.\""
 tags:
   [
     "EntrevistaTécnica",

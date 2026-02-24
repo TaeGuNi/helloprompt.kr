@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기"
+title: " \"TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "Plus besoin d'amis ou de dés. Une aventure D&D (Dungeons & Dragons) en solo entièrement animée par une IA."
+description: " \"Plus besoin d'amis ou de dés. Une aventure D&D (Dungeons & Dragons) en solo entièrement animée par une IA.\""
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 

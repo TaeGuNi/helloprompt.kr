@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NBCオリンピック フィギュアスケート トレンド：1分でバイラル・スポーツコンテンツを書く"
+title: " \"NBCオリンピック フィギュアスケート トレンド：1分でバイラル・スポーツコンテンツを書く\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "コンテンツ制作"
-description: "NBCオリンピックのフィギュアスケート中継スタイルのような、臨場感あふれるレビューとバイラルコンテンツをAIを使って1分で作成できるプロンプトです。"
+description: " \"NBCオリンピックのフィギュアスケート中継スタイルのような、臨場感あふれるレビューとバイラルコンテンツをAIを使って1分で作成できるプロンプトです。\""
 tags:
   [
     "nbc olympics figure skating",

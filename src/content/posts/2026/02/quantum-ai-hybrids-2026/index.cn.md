@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (Simplified Chinese)"
-description: "早期的量子处理器实验正在加速特定的 AI 训练任务"
+title: " \"Quantum AI Hybrids (Simplified Chinese)\""
+description: " \"早期的量子处理器实验正在加速特定的 AI 训练任务\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

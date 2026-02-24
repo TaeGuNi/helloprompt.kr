@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pistas de Caça ao Tesouro Interior: Atividade para Dias Chuvosos"
+title: " \"Pistas de Caça ao Tesouro Interior: Atividade para Dias Chuvosos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Crie pistas personalizadas para uma caça ao tesouro em casa em apenas 5 minutos usando IA."
+description: " \"Crie pistas personalizadas para uma caça ao tesouro em casa em apenas 5 minutos usando IA.\""
 tags:
   [
     "Parentalidade",

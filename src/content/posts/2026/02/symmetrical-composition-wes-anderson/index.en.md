@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perfect Balance Beauty 'Symmetrical Composition'"
+title: " \"Perfect Balance Beauty 'Symmetrical Composition'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A definitive guide to crafting stable, quirky, and perfectly symmetrical composition prompts inspired by Wes Anderson's cinematic style."
+description: " \"A definitive guide to crafting stable, quirky, and perfectly symmetrical composition prompts inspired by Wes Anderson's cinematic style.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 ---
 

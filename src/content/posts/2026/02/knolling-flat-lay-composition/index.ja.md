@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "整理整頓の美学「Knolling」スタイル"
+title: " \"整理整頓の美学「Knolling」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "アイテムを直角に美しく整列させて撮影する「ノーリング（Knolling）」技法のプロンプトです。"
+description: " \"アイテムを直角に美しく整列させて撮影する「ノーリング（Knolling）」技法のプロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 뒤죽박죽 코드 조각, AI로 정리 끝! (AI Code Snippet Manager)
+title: "뒤죽박죽 코드 조각, AI로 정리 끝! (AI Code Snippet Manager)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "曾经随手复制到记事本里的代码片段，再找起来是不是宛如大海捞针？本文将向你展示如何利用 AI 将零散的代码片段转化为整洁、规范且自带文档的代码库。"
+description: " \"曾经随手复制到记事本里的代码片段，再找起来是不是宛如大海捞针？本文将向你展示如何利用 AI 将零散的代码片段转化为整洁、规范且自带文档的代码库。\""
 tags: [AI, Coding, Productivity, Refactoring]
 ---
 

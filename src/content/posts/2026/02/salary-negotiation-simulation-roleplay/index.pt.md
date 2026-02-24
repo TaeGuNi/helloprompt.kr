@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quero Aumentar! Roleplay de Simulação de 'Negociação Salarial'"
+title: " \"Quero Aumentar! Roleplay de Simulação de 'Negociação Salarial'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Simule uma situação tensa de negociação salarial com um gerente de RH de IA para aprimorar seus argumentos e maximizar seu aumento."
+description: " \"Simule uma situação tensa de negociação salarial com um gerente de RH de IA para aprimorar seus argumentos e maximizar seu aumento.\""
 tags:
   [
     "NegociaçãoSalarial",

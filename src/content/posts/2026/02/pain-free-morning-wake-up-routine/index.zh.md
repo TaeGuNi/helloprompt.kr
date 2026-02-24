@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "无痛晨起例程：唤醒行动"
+title: " \"无痛晨起例程：唤醒行动\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "每天早上都在痛苦地与被窝抗争？让AI为你量身定制无痛唤醒的‘奇迹早晨’专属蓝图，告别‘再睡5分钟’。"
+description: " \"每天早上都在痛苦地与被窝抗争？让AI为你量身定制无痛唤醒的‘奇迹早晨’专属蓝图，告别‘再睡5分钟’。\""
 tags: ["唤醒", "奇迹早晨", "习惯", "睡眠", "ChatGPT"]
 ---
 

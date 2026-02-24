@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape da Escrita Chata! Técnicas de Storytelling para Fazer as Pessoas Lerem"
+title: " \"Escape da Escrita Chata! Técnicas de Storytelling para Fazer as Pessoas Lerem\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escrita"
-description: "Um prompt que transforma a escrita monótona baseada em fatos em histórias envolventes que tocam as emoções dos seus leitores."
+description: " \"Um prompt que transforma a escrita monótona baseada em fatos em histórias envolventes que tocam as emoções dos seus leitores.\""
 tags: ["Storytelling", "Escrita", "Ensaio"]
 ---
 

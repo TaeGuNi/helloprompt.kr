@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "STAR-Technik-Prompt: Lebenslauf-Erfolge mit 'Zahlen' beweisen"
+title: " \"STAR-Technik-Prompt: Lebenslauf-Erfolge mit 'Zahlen' beweisen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verwandeln Sie einfachen Lebenslauftext mithilfe der STAR-Methode (Situation, Task, Action, Result) in überzeugende, erfolgsorientierte Aufzählungspunkte."
+description: " \"Verwandeln Sie einfachen Lebenslauftext mithilfe der STAR-Methode (Situation, Task, Action, Result) in überzeugende, erfolgsorientierte Aufzählungspunkte.\""
 tags: ["Lebenslauf", "STAR-Methode", "JobVorbereitung", "ErfolgQuantifizieren"]
 ---
 

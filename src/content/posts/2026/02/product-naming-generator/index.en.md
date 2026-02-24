@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Naming Products That Sell: Naming Generator"
+title: " \"Naming Products That Sell: Naming Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "A prompt that generates attractive product names that capture your brand's identity in just 3 seconds."
+description: " \"A prompt that generates attractive product names that capture your brand's identity in just 3 seconds.\""
 tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "子供と一緒でも平和な家族旅行日程の組み方"
+title: " \"子供と一緒でも平和な家族旅行日程の組み方\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "旅行＆文化"
-description: "子供の体力と親のメンタルを両方守る魔法の家族旅行プロンプト。"
+description: " \"子供の体力と親のメンタルを両方守る魔法の家族旅行プロンプト。\""
 tags: ["家族旅行", "育児", "キッズゾーン", "旅行計画"]
 ---
 

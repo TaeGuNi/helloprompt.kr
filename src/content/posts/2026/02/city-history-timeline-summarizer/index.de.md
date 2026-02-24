@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stadtgeschichte-Timeline-Zusammenfasser: Auf einer Seite"
+title: " \"Stadtgeschichte-Timeline-Zusammenfasser: Auf einer Seite\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Komplexe Geschichte auf einen Blick! Erstellen Sie eine Kernchronologie, die Vergangenheit und Gegenwart des Reiseziels verbindet."
+description: " \"Komplexe Geschichte auf einen Blick! Erstellen Sie eine Kernchronologie, die Vergangenheit und Gegenwart des Reiseziels verbindet.\""
 tags:
   [
     "Geschichtsstudium",

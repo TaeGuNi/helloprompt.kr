@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 저녁 뭐 먹지? AI 소믈리에의 와인 페어링"
+title: " \"오늘 저녁 뭐 먹지? AI 소믈리에의 와인 페어링\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Desde vinos de supermercado hasta cosechas premium, recibe la recomendación perfecta para tu menú. Tu paladar es más preciso que las puntuaciones de Vivino."
+description: " \"Desde vinos de supermercado hasta cosechas premium, recibe la recomendación perfecta para tu menú. Tu paladar es más preciso que las puntuaciones de Vivino.\""
 tags: ["와인", "미식", "페어링", "소믈리에"]
 ---
 

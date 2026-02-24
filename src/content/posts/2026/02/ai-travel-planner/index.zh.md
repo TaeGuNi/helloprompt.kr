@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "比 J 更完美的为 P 准备的 AI 旅行规划师"
+title: " \"比 J 更完美的为 P 准备的 AI 旅行规划师\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "生活"
-description: "无需耗费心力规划！让 AI 为你量身定制零动线浪费的完美旅行路线与分时段专属日程表。"
+description: " \"无需耗费心力规划！让 AI 为你量身定制零动线浪费的完美旅行路线与分时段专属日程表。\""
 tags: ["旅行", "制定日程", "海外旅行"]
 ---
 

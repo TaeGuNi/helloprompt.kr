@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "履歴書成果、「数値」で証明するSTAR技法プロンプト"
+title: " \"履歴書成果、「数値」で証明するSTAR技法プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "単調な履歴書の文章をSTAR法（状況・課題・行動・結果）を用いて、魅力的で成果重視の箇条書きに変換するプロンプトです。"
+description: " \"単調な履歴書の文章をSTAR法（状況・課題・行動・結果）を用いて、魅力的で成果重視の箇条書きに変換するプロンプトです。\""
 tags: ["履歴書", "STAR技法", "就職準備", "成果数値化"]
 ---
 

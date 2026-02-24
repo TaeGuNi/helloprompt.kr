@@ -1,5 +1,5 @@
 ---
-title: "Apple Intelligence 2.0: Siri's Local LLM Revolution on iPhone 17"
+title: " \"Apple Intelligence 2.0: Siri's Local LLM Revolution on iPhone 17\""
 date: "2026-02-15"
 category: "Tech"
 tags:
@@ -7,8 +7,8 @@ tags:
   - "AI"
   - "Siri"
   - "iPhone 17"
-image: "https://picsum.photos/1600/900
-description: "With the iPhone 17, Apple introduces Apple Intelligence 2.0, running powerful LLMs entirely on-device."
+image: "https://picsum.photos/1600/900"
+description: " \"With the iPhone 17, Apple introduces Apple Intelligence 2.0, running powerful LLMs entirely on-device.\""
 ---
 
 # 📝 Apple Intelligence 2.0: Siri's Local LLM Revolution on iPhone 17

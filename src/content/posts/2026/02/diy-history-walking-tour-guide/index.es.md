@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Tour a Pie de Historia DIY: Disfruta Sin Guía"
+title: " \"Guía de Tour a Pie de Historia DIY: Disfruta Sin Guía\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Crea tu propio recorrido histórico a pie sin necesidad de pagar costosos tours. Una ruta personalizada por la ciudad basada en tus intereses."
+description: " \"Crea tu propio recorrido histórico a pie sin necesidad de pagar costosos tours. Una ruta personalizada por la ciudad basada en tus intereses.\""
 tags: ["Tour a Pie", "Autoguía", "Caminata Histórica", "Viaje a Pie"]
 ---
 

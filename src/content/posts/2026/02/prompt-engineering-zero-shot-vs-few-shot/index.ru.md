@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Russian)"
-description: "Промптинг Few-Shot кардинально повышает надежность ИИ при решении сложных логических задач."
+title: " \"Zero Shot vs Few Shot Prompting (Russian)\""
+description: " \"Промптинг Few-Shot кардинально повышает надежность ИИ при решении сложных логических задач.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

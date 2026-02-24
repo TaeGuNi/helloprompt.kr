@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Segredo de Estruturação de Script do YouTube para Visualizações Altas"
+title: " \"Segredo de Estruturação de Script do YouTube para Visualizações Altas\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Escrita"
-description: "Um prompt para estruturar roteiros de YouTube, focado em evitar a fuga de público nos primeiros 5 segundos e maximizar a retenção até o final."
+description: " \"Um prompt para estruturar roteiros de YouTube, focado em evitar a fuga de público nos primeiros 5 segundos e maximizar a retenção até o final.\""
 tags: ["YouTube", "Script", "Produção de Vídeo"]
 ---
 

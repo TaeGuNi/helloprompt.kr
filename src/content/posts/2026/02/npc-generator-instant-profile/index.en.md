@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instant NPC Generator: Creating Lively Characters"
+title: " \"Instant NPC Generator: Creating Lively Characters\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Don't panic when players suddenly talk to a random character. Generate a living, breathing NPC with a distinct personality, tone, and secret in just 10 seconds."
+description: " \"Don't panic when players suddenly talk to a random character. Generate a living, breathing NPC with a distinct personality, tone, and secret in just 10 seconds.\""
 tags: ["TRPG", "NPC", "Character", "Novel", "Setting"]
 ---
 

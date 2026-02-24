@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nutricionista IA: Gerador de Plano de Refeições Semanal Personalizado"
+title: " \"Nutricionista IA: Gerador de Plano de Refeições Semanal Personalizado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Aprenda a usar a IA como seu nutricionista pessoal para criar um plano de refeições semanal que se adapte perfeitamente aos seus objetivos e gostos."
+description: " \"Aprenda a usar a IA como seu nutricionista pessoal para criar um plano de refeições semanal que se adapte perfeitamente aos seus objetivos e gostos.\""
 tags:
   ["Dieta", "Gestão de Refeições", "Saúde", "ChatGPT", "Preparo de Refeições"]
 ---

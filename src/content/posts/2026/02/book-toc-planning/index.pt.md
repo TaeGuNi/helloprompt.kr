@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Posso Ser Autor Também? Planejando um Índice de Livro que Venda"
+title: " \"Posso Ser Autor Também? Planejando um Índice de Livro que Venda\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Escrita"
-description: "Um prompt de planejamento de livro e composição de índice que transforma sonhos vagos de publicação em realidade."
+description: " \"Um prompt de planejamento de livro e composição de índice que transforma sonhos vagos de publicação em realidade.\""
 tags: ["Escrita de Livros", "Planejamento Editorial", "E-book"]
 ---
 

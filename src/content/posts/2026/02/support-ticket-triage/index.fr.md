@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "고객 문의 자동 분류 및 우선순위 지정 (CS Automation)"
+title: " \"고객 문의 자동 분류 및 우선순위 지정 (CS Automation)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: "Un prompt d'automatisation du service client qui analyse les émotions pour détecter et prioriser les requêtes des clients en colère."
+description: " \"Un prompt d'automatisation du service client qui analyse les émotions pour détecter et prioriser les requêtes des clients en colère.\""
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 

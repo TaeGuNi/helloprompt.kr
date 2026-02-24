@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Recomendación de Nombre y Apodo de Canal de YouTube (YouTube Channel Naming)"
+title: " \"Recomendación de Nombre y Apodo de Canal de YouTube (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¡Un nombre de canal encantador que atrae suscriptores! La IA genera opciones ingeniosas y optimizadas para el algoritmo de YouTube."
+description: " \"¡Un nombre de canal encantador que atrae suscriptores! La IA genera opciones ingeniosas y optimizadas para el algoritmo de YouTube.\""
 tags: ["YouTube", "NombreCanal", "Apodo", "Creador", "Nombrar"]
 ---
 

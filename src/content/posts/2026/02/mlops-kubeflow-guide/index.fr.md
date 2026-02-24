@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "머신러닝 모델 배포: MLOps (Kubeflow) 가이드"
+title: " \"머신러닝 모델 배포: MLOps (Kubeflow) 가이드\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI/개발"
-description: "Fini les modèles d'IA qui ne tournent qu'en local. Voici le guide ultime pour transformer vos codes fragmentés sur Jupyter Notebook en un pipeline de production automatisé."
+description: " \"Fini les modèles d'IA qui ne tournent qu'en local. Voici le guide ultime pour transformer vos codes fragmentés sur Jupyter Notebook en un pipeline de production automatisé.\""
 tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 ---
 

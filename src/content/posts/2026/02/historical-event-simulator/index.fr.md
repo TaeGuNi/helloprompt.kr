@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sauter dans l'Histoire : Simulateur d'Événements Historiques"
+title: " \"Sauter dans l'Histoire : Simulateur d'Événements Historiques\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Humanités/Histoire"
-description: "Et si j'étais l'amiral Yi Sun-sin ? Un prompt pour revivre l'Histoire à travers des choix interactifs, façon jeu d'aventure textuel."
+description: " \"Et si j'étais l'amiral Yi Sun-sin ? Un prompt pour revivre l'Histoire à travers des choix interactifs, façon jeu d'aventure textuel.\""
 tags: ["ÉtudeHistoire", "Gamification", "Simulation", "HistoireAlternative"]
 ---
 

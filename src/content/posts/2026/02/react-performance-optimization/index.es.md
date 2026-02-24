@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "React 성능 최적화: 렌더링 낭비 0%에 도전한다 (useMemo, useCallback)"
+title: " \"React 성능 최적화: 렌더링 낭비 0%에 도전한다 (useMemo, useCallback)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"
-description: "¿Usas useMemo por costumbre? Descubre cómo encontrar cuellos de botella con React Profiler y reducir el desperdicio de renderizado al 0% con este prompt de optimización."
+description: " \"¿Usas useMemo por costumbre? Descubre cómo encontrar cuellos de botella con React Profiler y reducir el desperdicio de renderizado al 0% con este prompt de optimización.\""
 tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
 ---
 

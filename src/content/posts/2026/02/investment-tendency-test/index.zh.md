@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的投资倾向测试: 胆小鬼还是野兽？"
+title: " \"我的投资倾向测试: 胆小鬼还是野兽？\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "告别银行窗口枯燥的问卷调查，让 AI 深度剖析你真实的风险承受能力与投资心理。"
+description: " \"告别银行窗口枯燥的问卷调查，让 AI 深度剖析你真实的风险承受能力与投资心理。\""
 tags: ["投资倾向", "心理测试", "资产配置", "心态管理"]
 ---
 

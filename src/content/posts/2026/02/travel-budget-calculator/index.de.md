@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reisekostenschätzung: Perfekter Plan ohne Budgetüberschreitung"
+title: " \"Reisekostenschätzung: Perfekter Plan ohne Budgetüberschreitung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Von Flugtickets bis zu lokalen Verpflegungskosten: Erstellen Sie ein Reisebudget mit einer Fehlermarge von unter 10 % unter Berücksichtigung der aktuellen Preise am Zielort."
+description: " \"Von Flugtickets bis zu lokalen Verpflegungskosten: Erstellen Sie ein Reisebudget mit einer Fehlermarge von unter 10 % unter Berücksichtigung der aktuellen Preise am Zielort.\""
 tags: ["Reise", "Budget", "Reiseplan", "Ausgaben"]
 ---
 

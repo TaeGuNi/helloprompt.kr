@@ -1,6 +1,6 @@
 ---
-title: "Backblaze Drive Stats 2025: The Reality of AI Storage"
-description: "Prompt para analizar datos de fiabilidad de almacenamiento en la era de los datasets masivos de IA y elegir el hardware óptimo."
+title: " \"Backblaze Drive Stats 2025: The Reality of AI Storage\""
+description: " \"Prompt para analizar datos de fiabilidad de almacenamiento en la era de los datasets masivos de IA y elegir el hardware óptimo.\""
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

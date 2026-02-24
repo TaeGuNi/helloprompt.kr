@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI CBT-I失眠疗法：无需药物治疗失眠"
+title: " \"AI CBT-I失眠疗法：无需药物治疗失眠\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "使用AI实践CBT-I（失眠认知行为疗法），这是无需安眠药治疗失眠的最可靠方法。"
+description: " \"使用AI实践CBT-I（失眠认知行为疗法），这是无需安眠药治疗失眠的最可靠方法。\""
 tags: ["失眠", "CBT-I", "睡眠疗法", "心理护理", "ChatGPT"]
 ---
 

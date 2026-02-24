@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "“推荐点提交信息呗” 烦恼结束！Conventional Commits 自动生成"
+title: " \"“推荐点提交信息呗” 烦恼结束！Conventional Commits 自动生成\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需粘贴代码变更 (git diff)，AI 即可自动生成符合全球标准 (Conventional Commits) 的规范化 Git 提交信息。告别命名焦虑！"
+description: " \"只需粘贴代码变更 (git diff)，AI 即可自动生成符合全球标准 (Conventional Commits) 的规范化 Git 提交信息。告别命名焦虑！\""
 tags: ["Git", "提交信息", "协作", "生产力"]
 ---
 

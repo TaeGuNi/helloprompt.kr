@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulation d'Entretien Blanc Réaliste avec une IA Possédée par un Recruteur"
+title: " \"Simulation d'Entretien Blanc Réaliste avec une IA Possédée par un Recruteur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Transformez l'IA en un recruteur exigeant pour simuler un entretien d'embauche sous pression avec des questions de relance percutantes."
+description: " \"Transformez l'IA en un recruteur exigeant pour simuler un entretien d'embauche sous pression avec des questions de relance percutantes.\""
 tags: ["EntretienBlanc", "PratiqueEntretien", "IARecruteur", "PrépEmploi"]
 ---
 

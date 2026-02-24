@@ -3,7 +3,7 @@ categories:
   - AI News
   - Ethics
 date: "2026-02-13"
-description: "L'évolution fulgurante de l'IA soulève de nouveaux dilemmes éthiques. Plongez au cœur des réglementations mondiales de 2026 et découvrez l'« éthique numérique » indispensable à notre avenir."
+description: " \"L'évolution fulgurante de l'IA soulève de nouveaux dilemmes éthiques. Plongez au cœur des réglementations mondiales de 2026 et découvrez l'« éthique numérique » indispensable à notre avenir.\""
 image: /images/blog/ai-ethics.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Regulation
   - AI Governance
   - Society
-title: "Éthique et Régulation de l'IA 2026 : Règles pour la Coexistence"
+title: " \"Éthique et Régulation de l'IA 2026 : Règles pour la Coexistence\""
 ---
 
 # ⚖️ Éthique et Régulation de l'IA 2026 : Les Règles de la Coexistence

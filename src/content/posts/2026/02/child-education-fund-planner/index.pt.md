@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plano de Fundo de Educação para Filhos: Projeto de Longo Prazo de 10 Anos"
+title: " \"Plano de Fundo de Educação para Filhos: Projeto de Longo Prazo de 10 Anos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Tecnologia Financeira & Investimento"
-description: "A taxa de aumento das mensalidades é mais assustadora do que a taxa de inflação. De quanto você precisará quando seu filho for para a faculdade?"
+description: " \"A taxa de aumento das mensalidades é mais assustadora do que a taxa de inflação. De quanto você precisará quando seu filho for para a faculdade?\""
 tags:
   ["Despesas de Educação", "Fundo Escolar", "Poupança", "Planejamento Familiar"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Refactoring del Codice Guidato dall'IA: Il Futuro del Codice Pulito"
-description: "Scopri la guida pratica e i prompt essenziali per trasformare il codice legacy in codice pulito usando l'Intelligenza Artificiale nel 2026."
+title: " \"Refactoring del Codice Guidato dall'IA: Il Futuro del Codice Pulito\""
+description: " \"Scopri la guida pratica e i prompt essenziali per trasformare il codice legacy in codice pulito usando l'Intelligenza Artificiale nel 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags:

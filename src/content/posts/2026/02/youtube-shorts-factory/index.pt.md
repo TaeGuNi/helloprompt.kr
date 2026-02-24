@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fábrica de YouTube Shorts: Roteiro + Visual em 30 Segundos"
+title: " \"Fábrica de YouTube Shorts: Roteiro + Visual em 30 Segundos\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Criação de Conteúdo"
-description: "Injetando a fórmula viral de vídeos curtos (Hook-Body-CTA) na IA para produzir roteiros em massa."
+description: " \"Injetando a fórmula viral de vídeos curtos (Hook-Body-CTA) na IA para produzir roteiros em massa.\""
 tags: ["YouTube", "Shorts", "Roteiro", "Criador", "TikTok"]
 ---
 

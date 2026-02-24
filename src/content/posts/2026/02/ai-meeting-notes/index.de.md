@@ -1,6 +1,6 @@
 ---
-title: "Automated Meeting Notes (German)"
-description: "Effizienz steigern vs. Datenschutzbedenken bei automatisierten Meeting-Notizen."
+title: " \"Automated Meeting Notes (German)\""
+description: " \"Effizienz steigern vs. Datenschutzbedenken bei automatisierten Meeting-Notizen.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]

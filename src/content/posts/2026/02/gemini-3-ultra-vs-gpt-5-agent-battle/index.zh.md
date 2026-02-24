@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Ultra vs GPT-5：2026年Agent开发，谁主沉浮？"
+title: " \"Gemini 3 Ultra vs GPT-5：2026年Agent开发，谁主沉浮？\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trend"
-description: "GPT-5与Gemini 3 Ultra震撼发布。从Agent开发者的视角，深度对比两款模型的代码能力、推理性能及性价比。"
+description: " \"GPT-5与Gemini 3 Ultra震撼发布。从Agent开发者的视角，深度对比两款模型的代码能力、推理性能及性价比。\""
 tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 ---
 

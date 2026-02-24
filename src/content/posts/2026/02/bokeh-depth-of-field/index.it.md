@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sfocatura Sfondo Emozionale 'Bokeh & Profondità di Campo'"
+title: " \"Sfocatura Sfondo Emozionale 'Bokeh & Profondità di Campo'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Un prompt per far risaltare il soggetto sfocando lo sfondo e creare magiche sfere di luce emozionali (Effetto Bokeh)."
+description: " \"Un prompt per far risaltare il soggetto sfocando lo sfondo e creare magiche sfere di luce emozionali (Effetto Bokeh).\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Effetto"]
 ---
 

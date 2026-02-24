@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analizando Comentarios de Clientes Verbosos, Positivos/Negativos"
+title: " \"Analizando Comentarios de Clientes Verbosos, Positivos/Negativos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Organiza y analiza cientos de comentarios de clientes al instante mediante análisis de sentimiento con IA."
+description: " \"Organiza y analiza cientos de comentarios de clientes al instante mediante análisis de sentimiento con IA.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

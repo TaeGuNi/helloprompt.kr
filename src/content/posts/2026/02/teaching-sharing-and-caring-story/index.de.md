@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Teilen und Fürsorge lehren: Eine moralische Geschichte für Kinder"
+title: " \"Teilen und Fürsorge lehren: Eine moralische Geschichte für Kinder\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Eine berührende Geschichte über magische Eicheln, die ein gieriges Kind zum Teilen inspiriert."
+description: " \"Eine berührende Geschichte über magische Eicheln, die ein gieriges Kind zum Teilen inspiriert.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

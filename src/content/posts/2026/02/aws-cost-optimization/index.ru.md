@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트"
+title: " \"AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/인프라"
-description: "Ваши облачные бюджеты утекают в никуда? Промпт для оптимизации затрат на AWS всего за 1 минуту."
+description: " \"Ваши облачные бюджеты утекают в никуда? Промпт для оптимизации затрат на AWS всего за 1 минуту.\""
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기"
+title: " \"이모티콘 생성: 나만의 캐릭터로 카톡 이모티콘 만들기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "크리에이티브/예술"
-description: "Selbst wenn Sie nicht zeichnen können, ist das kein Problem. Der ultimative Leitfaden zur Planung und Erstellung eines konsistenten 24-teiligen Emoticon-Sets mit DALL-E und Midjourney."
+description: " \"Selbst wenn Sie nicht zeichnen können, ist das kein Problem. Der ultimative Leitfaden zur Planung und Erstellung eines konsistenten 24-teiligen Emoticon-Sets mit DALL-E und Midjourney.\""
 tags: ["이모티콘", "캐릭터", "DALL-E", "미드저니", "부업"]
 ---
 

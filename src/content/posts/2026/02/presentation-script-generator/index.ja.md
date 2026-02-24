@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "発表恐怖症克服！プレゼンテーション台本作り"
+title: " \"発表恐怖症克服！プレゼンテーション台本作り\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "PPTスライドごとに自然な発表スクリプトを生成します。"
+description: " \"PPTスライドごとに自然な発表スクリプトを生成します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

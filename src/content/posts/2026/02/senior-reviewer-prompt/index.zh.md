@@ -1,6 +1,6 @@
 ---
-title: "Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does"
-description: "告别充满低级错误的 PR。复制并粘贴此提示词，仅需 30 秒即可获得资深工程师级别的代码审查。"
+title: " \"Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does\""
+description: " \"告别充满低级错误的 PR。复制并粘贴此提示词，仅需 30 秒即可获得资深工程师级别的代码审查。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/code-review/800/600"
 tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]

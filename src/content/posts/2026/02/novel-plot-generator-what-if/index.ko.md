@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "소설 플롯 생성기: 꽉 막힌 스토리, '기승전결' 뚫어뻥"
+title: " \"소설 플롯 생성기: 꽉 막힌 스토리, '기승전결' 뚫어뻥\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "크리에이티브/예술"
-description: "웹소설 작가 지망생 필독. 캐릭터 설정부터 에피소드 구성까지, AI 보조작가와 함께 소설 완결 내는 법."
+description: " \"웹소설 작가 지망생 필독. 캐릭터 설정부터 에피소드 구성까지, AI 보조작가와 함께 소설 완결 내는 법.\""
 tags: ["웹소설", "글쓰기", "플롯", "스토리텔링", "ChatGPT"]
 ---
 

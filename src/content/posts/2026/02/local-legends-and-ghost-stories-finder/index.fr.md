@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Trouveur de Légendes Locales et d'Histoires de Fantômes : Découvrir des Contes Cachés"
+title: " \"Trouveur de Légendes Locales et d'Histoires de Fantômes : Découvrir des Contes Cachés\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Un dragon vivait-il dans ce lac ? Décuplez le plaisir de vos voyages en découvrant les contes populaires et mystères cachés de vos destinations."
+description: " \"Un dragon vivait-il dans ce lac ? Décuplez le plaisir de vos voyages en découvrant les contes populaires et mystères cachés de vos destinations.\""
 tags:
   [
     "Légende",

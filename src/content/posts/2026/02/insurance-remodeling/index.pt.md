@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta de Seguros: Encontrando Coberturas Duplicadas e Cortando Prêmios pela Metade"
+title: " \"Dieta de Seguros: Encontrando Coberturas Duplicadas e Cortando Prêmios pela Metade\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Tecnologia Financeira & Investimento"
-description: "Meu seguro é realmente seguro? Apresentamos um método de análise que remove apenas prêmios desnecessários, mantendo as coberturas essenciais."
+description: " \"Meu seguro é realmente seguro? Apresentamos um método de análise que remove apenas prêmios desnecessários, mantendo as coberturas essenciais.\""
 tags: ["Seguro", "Tecnologia Financeira", "Economia", "Análise de Cobertura"]
 ---
 

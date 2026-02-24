@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Custom Gift Recommendation Generator to Be Called Sensible"
+title: " \"AI Custom Gift Recommendation Generator to Be Called Sensible\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Input the recipient's age, gender, relationship, and budget to receive a curated, foolproof gift list."
+description: " \"Input the recipient's age, gender, relationship, and budget to receive a curated, foolproof gift list.\""
 tags: ["Gift Recommendation", "Anniversary", "Housewarming", "Birthday"]
 ---
 

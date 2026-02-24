@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rust 언어: C++보다 안전하고 Python보다 빠른 이유"
+title: " \"Rust 언어: C++보다 안전하고 Python보다 빠른 이유\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "스택오버플로우 10년 연속 '가장 사랑받는 언어' 1위. 소유권(Ownership) 개념만 완벽히 이해하면 메모리 누수, 데이터 레이스와 영원히 작별할 수 있습니다."
+description: " \"스택오버플로우 10년 연속 '가장 사랑받는 언어' 1위. 소유권(Ownership) 개념만 완벽히 이해하면 메모리 누수, 데이터 레이스와 영원히 작별할 수 있습니다.\""
 tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembly"]
 ---
 

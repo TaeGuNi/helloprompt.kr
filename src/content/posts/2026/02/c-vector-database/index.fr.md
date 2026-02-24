@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "Un prompt pour créer une base de données vectorielle ultra-légère en C, sans dépendances (Header-only), idéale pour les environnements IA embarqués."
+title: " \"Header-only C Vector Database\""
+description: " \"Un prompt pour créer une base de données vectorielle ultra-légère en C, sans dépendances (Header-only), idéale pour les environnements IA embarqués.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

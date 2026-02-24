@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Facebook/Insta-Werbetext-Generator, der nach Klicks ruft"
+title: " \"Facebook/Insta-Werbetext-Generator, der nach Klicks ruft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Wie man SNS-Anzeigen-Haupttexte (Primary Text) schreibt, die das Scrollen sofort stoppen und die Klickrate explodieren lassen."
+description: " \"Wie man SNS-Anzeigen-Haupttexte (Primary Text) schreibt, die das Scrollen sofort stoppen und die Klickrate explodieren lassen.\""
 tags:
   [
     "Facebook-Anzeige",

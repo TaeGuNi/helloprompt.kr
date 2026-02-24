@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Requête SQL Lente, Secret pour l'Optimiser en 3 Secondes"
+title: " \"Requête SQL Lente, Secret pour l'Optimiser en 3 Secondes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt IA qui analyse les requêtes SQL complexes et inefficaces pour optimiser les performances et recommander les meilleurs index."
+description: " \"Un prompt IA qui analyse les requêtes SQL complexes et inefficaces pour optimiser les performances et recommander les meilleurs index.\""
 tags: ["SQL", "Tuning DB", "Optimisation de Requête", "Base de Données"]
 ---
 

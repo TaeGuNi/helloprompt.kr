@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (it)"
-description: "Un'analisi approfondita sull'Informatica AI Sostenibile e su come ottimizzare i consumi computazionali."
+title: " \"Sustainable AI Computing (it)\""
+description: " \"Un'analisi approfondita sull'Informatica AI Sostenibile e su come ottimizzare i consumi computazionali.\""
 date: "2026-02-14"
 ---
 

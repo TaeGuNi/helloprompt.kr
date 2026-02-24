@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Técnica STAR: Demostrando Logros de Currículum con 'Números'"
+title: " \"Prompt de Técnica STAR: Demostrando Logros de Currículum con 'Números'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Transforma el texto plano de tu currículum en atractivos puntos clave orientados a logros, aplicando la técnica STAR (Situación, Tarea, Acción, Resultado)."
+description: " \"Transforma el texto plano de tu currículum en atractivos puntos clave orientados a logros, aplicando la técnica STAR (Situación, Tarea, Acción, Resultado).\""
 tags: ["Currículum", "MétodoSTAR", "PrepEmpleo", "CuantificarLogro"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs mit unbekannten Ursachen, überlassen Sie es dem KI-Detektiv"
+title: " \"Bugs mit unbekannten Ursachen, überlassen Sie es dem KI-Detektiv\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Lassen Sie die KI hartnäckige Bugs analysieren. Ein Stack-Trace und ein Codeausschnitt genügen, um die verborgene Ursache zu finden."
+description: " \"Lassen Sie die KI hartnäckige Bugs analysieren. Ein Stack-Trace und ein Codeausschnitt genügen, um die verborgene Ursache zu finden.\""
 tags: ["Debugging", "Bugfix", "Fehlerbehebung", "Fehlerlösung"]
 ---
 

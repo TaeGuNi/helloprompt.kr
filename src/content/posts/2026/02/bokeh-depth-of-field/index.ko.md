@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "감성적인 배경 흐림 'Bokeh & Depth of Field'"
+title: " \"감성적인 배경 흐림 'Bokeh & Depth of Field'\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "이미지 생성"
-description: "피사체에 시선을 집중시키고 몽환적인 분위기를 연출하는 '보케(Bokeh)'와 '얕은 심도(Depth of Field)' AI 이미지 생성 프롬프트 가이드입니다."
+description: " \"피사체에 시선을 집중시키고 몽환적인 분위기를 연출하는 '보케(Bokeh)'와 '얕은 심도(Depth of Field)' AI 이미지 생성 프롬프트 가이드입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "30-Tage-Heimtraining-Herausforderung mit KI: Dem 3-Tage-Aufgeben entkommen"
+title: " \"30-Tage-Heimtraining-Herausforderung mit KI: Dem 3-Tage-Aufgeben entkommen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Verwandeln Sie Ihr Wohnzimmer ohne teure Geräte in ein Fitnessstudio. Die KI erstellt einen dynamischen 30-Tage-Trainingsplan, der perfekt auf Sie abgestimmt ist."
+description: " \"Verwandeln Sie Ihr Wohnzimmer ohne teure Geräte in ein Fitnessstudio. Die KI erstellt einen dynamischen 30-Tage-Trainingsplan, der perfekt auf Sie abgestimmt ist.\""
 tags:
   [
     "Heimtraining",

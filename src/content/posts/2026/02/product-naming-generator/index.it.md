@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nominare Prodotti Che Vendono: Generatore di Nomi"
+title: " \"Nominare Prodotti Che Vendono: Generatore di Nomi\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Un prompt che genera in soli 3 secondi nomi accattivanti in grado di riflettere l'identità del tuo brand."
+description: " \"Un prompt che genera in soli 3 secondi nomi accattivanti in grado di riflettere l'identità del tuo brand.\""
 tags: ["Marketing", "Nominare", "Branding", "Copywriting"]
 ---
 

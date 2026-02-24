@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entfliehen Sie der Excel-Hölle: Der Prompt gegen Überstunden"
+title: " \"Entfliehen Sie der Excel-Hölle: Der Prompt gegen Überstunden\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Produktivität"
-description: "Komplexe Excel-Formeln oder VBA-Makros? Beschreiben Sie einfach Ihr Problem, und die KI generiert den passenden Code für Sie."
+description: " \"Komplexe Excel-Formeln oder VBA-Makros? Beschreiben Sie einfach Ihr Problem, und die KI generiert den passenden Code für Sie.\""
 tags: ["Excel", "Automatisierung", "VBA", "Arbeits-Hacks"]
 ---
 

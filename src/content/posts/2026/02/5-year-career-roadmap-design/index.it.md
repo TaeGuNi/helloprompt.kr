@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Progettazione della Roadmap di Carriera di 5 Anni: Da Ora al Livello C"
+title: " \"Progettazione della Roadmap di Carriera di 5 Anni: Da Ora al Livello C\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carriera e Cambio Lavoro"
-description: "Trasforma un futuro vago in un piano concreto. Progetta obiettivi per 1, 3 e 5 anni e le competenze necessarie per raggiungerli con l'IA."
+description: " \"Trasforma un futuro vago in un piano concreto. Progetta obiettivi per 1, 3 e 5 anni e le competenze necessarie per raggiungerli con l'IA.\""
 tags:
   [
     "Percorso di Carriera",

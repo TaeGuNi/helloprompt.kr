@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de Historias de Sueño con IA para Adultos: Cuentos para Dormir para Mayores"
+title: " \"Generador de Historias de Sueño con IA para Adultos: Cuentos para Dormir para Mayores\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Contar ovejas ya no funciona y las historias de terror te quitan el sueño. Descubre cómo la IA crea al instante un 'cuento de cuna para adultos' pacífico y relajante."
+description: " \"Contar ovejas ya no funciona y las historias de terror te quitan el sueño. Descubre cómo la IA crea al instante un 'cuento de cuna para adultos' pacífico y relajante.\""
 tags: ["Historia de Sueño", "Insomnio", "ASMR", "Curación", "TTS"]
 ---
 

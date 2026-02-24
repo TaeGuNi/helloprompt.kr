@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4 : Le Nouveau Roi de l'Open Source ?"
-description: "Une analyse approfondie des caractéristiques techniques de DeepSeek-V4, de ses performances et de son impact sur l'écosystème de l'IA open source."
+title: " \"DeepSeek-V4 : Le Nouveau Roi de l'Open Source ?\""
+description: " \"Une analyse approfondie des caractéristiques techniques de DeepSeek-V4, de ses performances et de son impact sur l'écosystème de l'IA open source.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

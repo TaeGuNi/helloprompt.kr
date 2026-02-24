@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "薬なしで不眠症を治すAI認知行動療法(CBT-I)プロンプト"
+title: " \"薬なしで不眠症を治すAI認知行動療法(CBT-I)プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康＆ウェルネス"
-description: "睡眠薬に頼らず不眠症を根本から改善する確実なメソッド「CBT-I（不眠症の認知行動療法）」を、AIセラピストと一緒に実践できるプロンプトをご紹介します。"
+description: " \"睡眠薬に頼らず不眠症を根本から改善する確実なメソッド「CBT-I（不眠症の認知行動療法）」を、AIセラピストと一緒に実践できるプロンプトをご紹介します。\""
 tags: ["不眠症", "CBT-I", "睡眠治療", "メンタルケア", "ChatGPT"]
 ---
 

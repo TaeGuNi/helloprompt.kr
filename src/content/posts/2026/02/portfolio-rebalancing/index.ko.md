@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 포트폴리오 리밸런싱: 황금 비율 찾기"
+title: " \"AI 포트폴리오 리밸런싱: 황금 비율 찾기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "재테크 & 투자"
-description: "내 자산 배분 상태를 점검하고 최적의 리밸런싱 비율을 제안받는 AI 프롬프트입니다."
+description: " \"내 자산 배분 상태를 점검하고 최적의 리밸런싱 비율을 제안받는 AI 프롬프트입니다.\""
 tags: ["투자", "자산배분", "리밸런싱", "포트폴리오"]
 ---
 

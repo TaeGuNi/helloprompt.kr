@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Der Aufstieg der Agentischen IDEs: Wie KI das Programmieren im Jahr 2026 neu gestaltet"
+title: " \"Der Aufstieg der Agentischen IDEs: Wie KI das Programmieren im Jahr 2026 neu gestaltet\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Im Jahr 2026 wandelt sich das Paradigma der Softwareentwicklung. Entdecken Sie, wie Agentische IDEs über simple Autovervollständigung hinausgehen und wie Sie diese autonom steuern."
+description: " \"Im Jahr 2026 wandelt sich das Paradigma der Softwareentwicklung. Entdecken Sie, wie Agentische IDEs über simple Autovervollständigung hinausgehen und wie Sie diese autonom steuern.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

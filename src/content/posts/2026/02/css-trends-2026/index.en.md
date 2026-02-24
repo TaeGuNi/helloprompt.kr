@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Next-Gen CSS: Tailwind v5 & Native Nesting"
+title: " \"Next-Gen CSS: Tailwind v5 & Native Nesting\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Exploring CSS trends in 2026: A powerful AI prompt to refactor your legacy styles utilizing the new features of Tailwind v5 and browser-native nesting."
+description: " \"Exploring CSS trends in 2026: A powerful AI prompt to refactor your legacy styles utilizing the new features of Tailwind v5 and browser-native nesting.\""
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

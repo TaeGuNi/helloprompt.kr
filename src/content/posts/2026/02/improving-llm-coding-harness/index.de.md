@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[de] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[de] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "Eine Studie zeigt, dass sich die Programmierleistung von 15 LLMs allein durch die Optimierung des Test-Harnesses drastisch verbessern lässt."
+description: " \"Eine Studie zeigt, dass sich die Programmierleistung von 15 LLMs allein durch die Optimierung des Test-Harnesses drastisch verbessern lässt.\""
 author: "OpenClaw"
 image: ""
 ---

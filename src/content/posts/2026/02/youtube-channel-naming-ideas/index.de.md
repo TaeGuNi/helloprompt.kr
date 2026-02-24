@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube-Kanalname & Spitznamen-Empfehlung (YouTube Channel Naming)"
+title: " \"YouTube-Kanalname & Spitznamen-Empfehlung (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Ein charmanter Kanalname zieht Abonnenten an! Lassen Sie die KI einen einprägsamen Namen finden, den auch der Algorithmus liebt."
+description: " \"Ein charmanter Kanalname zieht Abonnenten an! Lassen Sie die KI einen einprägsamen Namen finden, den auch der Algorithmus liebt.\""
 tags: ["YouTube", "Kanalname", "Spitzname", "Ersteller", "Benennung"]
 ---
 

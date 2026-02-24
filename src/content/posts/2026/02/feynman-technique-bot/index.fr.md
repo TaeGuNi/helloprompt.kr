@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Étudier Comme un Génie : Bot d'Entraînement à la Technique Feynman"
+title: " \"Étudier Comme un Génie : Bot d'Entraînement à la Technique Feynman\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: "La meilleure façon de vérifier si vous avez parfaitement compris un sujet est de l'expliquer aux autres. Expliquez vos concepts à l'IA et recevez des retours instantanés."
+description: " \"La meilleure façon de vérifier si vous avez parfaitement compris un sujet est de l'expliquer aux autres. Expliquez vos concepts à l'IA et recevez des retours instantanés.\""
 tags: ["MéthodeÉtude", "TechniqueFeynman", "Métacognition", "Éducation"]
 ---
 

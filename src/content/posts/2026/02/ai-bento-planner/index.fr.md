@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 점심 뭐 먹지? AI 도시락 플래너"
+title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강"
-description: "Des recettes de bento saines et ultra-rapides, prêtes en 10 minutes avec les restes de votre frigo."
+description: " \"Des recettes de bento saines et ultra-rapides, prêtes en 10 minutes avec les restes de votre frigo.\""
 tags: ["점심", "도시락", "요리", "건강식"]
 ---
 

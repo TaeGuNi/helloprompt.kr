@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LangChain vs LlamaIndex: 도대체 뭘 써야 할까?"
+title: " \"LangChain vs LlamaIndex: 도대체 뭘 써야 할까?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "LLMフレームワークの2大巨頭を比較。汎用性のLangChain、データ処理のLlamaIndex。プロジェクトに最適なツール選びのガイド。"
+description: " \"LLMフレームワークの2大巨頭を比較。汎用性のLangChain、データ処理のLlamaIndex。プロジェクトに最適なツール選びのガイド。\""
 tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 ---
 

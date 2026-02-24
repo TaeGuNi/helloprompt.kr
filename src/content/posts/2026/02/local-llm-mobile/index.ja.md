@@ -1,6 +1,6 @@
 ---
-title: "手のひらのスーパーコンピューター：オンデバイスAI革命"
-description: "クラウドなしで動作する高性能なローカルLLMの時代。"
+title: " \"手のひらのスーパーコンピューター：オンデバイスAI革命\""
+description: " \"クラウドなしで動作する高性能なローカルLLMの時代。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

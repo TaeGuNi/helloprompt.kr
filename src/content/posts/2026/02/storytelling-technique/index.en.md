@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape Boring Writing! Storytelling Techniques to Make People Read"
+title: " \"Escape Boring Writing! Storytelling Techniques to Make People Read\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Writing"
-description: "A prompt that transforms boring, fact-heavy writing into engaging, emotionally resonant stories."
+description: " \"A prompt that transforms boring, fact-heavy writing into engaging, emotionally resonant stories.\""
 tags: ["Storytelling", "Writing", "Essay"]
 ---
 

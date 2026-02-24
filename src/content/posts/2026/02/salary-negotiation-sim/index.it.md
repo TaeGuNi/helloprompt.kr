@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulatore di Negoziazione Salariale: Sparring con un HR Malvagio"
+title: " \"Simulatore di Negoziazione Salariale: Sparring con un HR Malvagio\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Carriera"
-description: "Trasforma l'IA in uno spietato selezionatore del personale per allenarti nella negoziazione dello stipendio. Fatti rifiutare virtualmente per vincere nella realtà."
+description: " \"Trasforma l'IA in uno spietato selezionatore del personale per allenarti nella negoziazione dello stipendio. Fatti rifiutare virtualmente per vincere nella realtà.\""
 tags: ["Stipendio", "Negoziazione", "Colloquio", "GiocoDiRuolo", "Carriera"]
 ---
 

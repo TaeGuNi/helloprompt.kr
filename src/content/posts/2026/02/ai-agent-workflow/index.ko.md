@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 에이전트 워크플로우: 챗봇을 넘어 행동하는 AI로"
+title: " \"AI 에이전트 워크플로우: 챗봇을 넘어 행동하는 AI로\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "생산성"
-description: "단순한 대화를 넘어 스스로 판단하고 실제 업무를 수행하는 AI 에이전트 워크플로우 설계 프롬프트입니다."
+description: " \"단순한 대화를 넘어 스스로 판단하고 실제 업무를 수행하는 AI 에이전트 워크플로우 설계 프롬프트입니다.\""
 tags: ["AI에이전트", "자동화", "생산성", "워크플로우"]
 ---
 

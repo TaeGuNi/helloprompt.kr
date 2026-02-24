@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dehnungsleitfaden nach dem Lauf: Vorbeugung von Läuferknie"
+title: " \"Dehnungsleitfaden nach dem Lauf: Vorbeugung von Läuferknie\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Das Cool-down ist genauso wichtig wie der Lauf selbst. Mit dieser KI-gesteuerten Routine beugst du Verletzungen vor und wachst am nächsten Tag erfrischt und ohne Muskelkater auf."
+description: " \"Das Cool-down ist genauso wichtig wie der Lauf selbst. Mit dieser KI-gesteuerten Routine beugst du Verletzungen vor und wachst am nächsten Tag erfrischt und ohne Muskelkater auf.\""
 tags: ["Laufen", "Marathon", "Dehnen", "Cool-down", "Verletzungsprävention"]
 ---
 

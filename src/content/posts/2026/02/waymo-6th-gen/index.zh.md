@@ -1,10 +1,10 @@
 ---
 date: "2026-02-13"
-description: 了解 Waymo 第六代完全自动驾驶系统的核心升级：增强的传感器、更好的恶劣天气处理能力以及更平稳的乘坐体验。附赠专属技术新闻结构化提炼提示词。
+description: "了解 Waymo 第六代完全自动驾驶系统的核心升级：增强的传感器、更好的恶劣天气处理能力以及更平稳的乘坐体验。附赠专属技术新闻结构化提炼提示词。"
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo 开始使用第六代驱动系统进行完全自动驾驶
+title: "Waymo 开始使用第六代驱动系统进行完全自动驾驶"
 ---
 
 # 📝 Waymo 开始使用第六代驱动系统进行完全自动驾驶

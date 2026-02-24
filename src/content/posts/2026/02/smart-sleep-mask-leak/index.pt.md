@@ -1,9 +1,9 @@
 ---
-title: "Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란"
+title: " \"Somnium X 스마트 수면 안대, 사용자 음성 데이터 유출 논란\""
 date: 2026-02-15
 tags: ["IoT", "Privacy", "Security", "Wearables"]
 cover: ./cover.png
-description: "Um prompt que analisa profundamente o incidente de segurança em que a popular máscara de dormir inteligente Somnium X transmitiu o áudio de usuários dormindo para a nuvem sem permissão, ajudando a extrair soluções de resposta eficazes."
+description: " \"Um prompt que analisa profundamente o incidente de segurança em que a popular máscara de dormir inteligente Somnium X transmitiu o áudio de usuários dormindo para a nuvem sem permissão, ajudando a extrair soluções de resposta eficazes.\""
 ---
 
 # 📝 Escândalo do Somnium X: Máscara de Dormir Inteligente Vaza Dados de Voz dos Usuários

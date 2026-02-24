@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "일본 목판화의 매력 'Ukiyo-e' 스타일"
+title: " \"일본 목판화의 매력 'Ukiyo-e' 스타일\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "이미지 생성"
-description: "가장 일본적인 미학, 우키요에(Ukiyo-e) 스타일로 파도와 풍경을 생생하게 구현하는 이미지 생성 프롬프트입니다."
+description: " \"가장 일본적인 미학, 우키요에(Ukiyo-e) 스타일로 파도와 풍경을 생생하게 구현하는 이미지 생성 프롬프트입니다.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

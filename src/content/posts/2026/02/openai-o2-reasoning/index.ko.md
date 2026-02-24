@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "OpenAI 'o2' 추론 능력의 진화: 무엇이 달라졌나?"
-description: "OpenAI의 최신 모델 o2의 혁신적인 추론 능력과 향상된 사고 사슬(CoT), 그리고 이를 실무에 200% 활용하기 위한 전용 프롬프트 심층 분석입니다."
+title: " \"OpenAI 'o2' 추론 능력의 진화: 무엇이 달라졌나?\""
+description: " \"OpenAI의 최신 모델 o2의 혁신적인 추론 능력과 향상된 사고 사슬(CoT), 그리고 이를 실무에 200% 활용하기 위한 전용 프롬프트 심층 분석입니다.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

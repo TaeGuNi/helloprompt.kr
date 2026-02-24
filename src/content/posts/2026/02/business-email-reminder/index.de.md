@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wie man Geschäfts-E-Mails schreibt, die erinnern, ohne unhöflich zu sein"
+title: " \"Wie man Geschäfts-E-Mails schreibt, die erinnern, ohne unhöflich zu sein\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Ein bewährter Prompt für höfliche, aber nachdrückliche Erinnerungs-E-Mails an säumige Geschäftspartner – ganz ohne unhöflich zu wirken."
+description: " \"Ein bewährter Prompt für höfliche, aber nachdrückliche Erinnerungs-E-Mails an säumige Geschäftspartner – ganz ohne unhöflich zu wirken.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

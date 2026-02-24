@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI: Early Breakthroughs (ja)"
-description: "量子AIの初期のブレークスルーに関する詳細な分析と実践的なプロンプト。"
+title: " \"Quantum AI: Early Breakthroughs (ja)\""
+description: " \"量子AIの初期のブレークスルーに関する詳細な分析と実践的なプロンプト。\""
 date: "2026-02-14"
 ---
 

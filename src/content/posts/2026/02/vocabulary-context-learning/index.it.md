@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Apprendimento Vocabolario Inglese Master con Contesto"
+title: " \"Apprendimento Vocabolario Inglese Master con Contesto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprendimento Lingue Straniere"
-description: "Basta con la semplice memorizzazione! Un prompt per padroneggiare perfettamente le sfumature delle parole nel loro contesto reale."
+description: " \"Basta con la semplice memorizzazione! Un prompt per padroneggiare perfettamente le sfumature delle parole nel loro contesto reale.\""
 tags: ["ApprendimentoInglese", "MemorizzazioneParole", "Prompt", "Educazione"]
 ---
 

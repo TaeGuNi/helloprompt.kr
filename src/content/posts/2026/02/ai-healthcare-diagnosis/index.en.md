@@ -1,6 +1,6 @@
 ---
-title: "AI Doctor Enters the Clinic"
-description: "The current state of medical AI: Proposing treatment plans and differential diagnoses beyond mere symptom checking."
+title: " \"AI Doctor Enters the Clinic\""
+description: " \"The current state of medical AI: Proposing treatment plans and differential diagnoses beyond mere symptom checking.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

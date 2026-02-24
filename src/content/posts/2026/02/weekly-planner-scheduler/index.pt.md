@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Projeto God-Life! Escrita de Planejador Semanal com IA"
+title: " \"Projeto God-Life! Escrita de Planejador Semanal com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Tem muita coisa para fazer e não sabe por onde começar? Crie a agenda perfeita baseada em prioridades e assuma o controle do seu tempo."
+description: " \"Tem muita coisa para fazer e não sabe por onde começar? Crie a agenda perfeita baseada em prioridades e assuma o controle do seu tempo.\""
 tags: ["Planejador", "Agendador", "Gestão de Tempo", "Produtividade"]
 ---
 

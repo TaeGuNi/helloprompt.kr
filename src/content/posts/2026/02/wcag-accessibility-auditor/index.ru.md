@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "WCAG 2.2 웹 접근성 감사(Audit) 봇"
+title: " \"WCAG 2.2 웹 접근성 감사(Audit) 봇\""
 author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"
-description: "Является ли мой код доступным для всех? Бот-аудитор проверяет соответствие стандартам веб-доступности (WCAG 2.2)."
+description: " \"Является ли мой код доступным для всех? Бот-аудитор проверяет соответствие стандартам веб-доступности (WCAG 2.2).\""
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 

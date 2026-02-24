@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Lista de Verificación de Higiene del Sueño por IA: Detén las Noches de Insomnio"
+title: " \"Lista de Verificación de Higiene del Sueño por IA: Detén las Noches de Insomnio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Es tu habitación un entorno adecuado para descansar? Deja que la IA analice tu dormitorio y tus hábitos nocturnos para ofrecerte la solución definitiva contra el insomnio."
+description: " \"¿Es tu habitación un entorno adecuado para descansar? Deja que la IA analice tu dormitorio y tus hábitos nocturnos para ofrecerte la solución definitiva contra el insomnio.\""
 tags: ["Sueño", "Insomnio", "Salud", "Higiene del Sueño", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "L'IA ne vous comprend pas ? Utilisez des « Délimiteurs »"
+title: " \"L'IA ne vous comprend pas ? Utilisez des « Délimiteurs »\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "L'IA s'y perd lorsqu'elle résume de longs textes ou corrige du code ? Utilisez la technique des délimiteurs pour séparer clairement vos instructions et doubler la précision de vos résultats."
+description: " \"L'IA s'y perd lorsqu'elle résume de longs textes ou corrige du code ? Utilisez la technique des délimiteurs pour séparer clairement vos instructions et doubler la précision de vos résultats.\""
 tags: ["Délimiteurs", "Lisibilité", "Balises XML"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Exercices d'Étirement Discrets au Bureau : Soulager la Douleur Incognito"
+title: " \"Exercices d'Étirement Discrets au Bureau : Soulager la Douleur Incognito\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Découvrez une routine d'étirements discrets à réaliser directement à votre bureau, sans éveiller les soupçons de vos collègues, grâce à l'IA."
+description: " \"Découvrez une routine d'étirements discrets à réaliser directement à votre bureau, sans éveiller les soupçons de vos collègues, grâce à l'IA.\""
 tags:
   [
     "Cou de Tortue",

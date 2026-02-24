@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida a Gesti e Saluti Amichevoli: Non Essere Frainteso"
+title: " \"Guida a Gesti e Saluti Amichevoli: Non Essere Frainteso\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Hai quasi scatenato una rissa per un gesto sbagliato? Scopri i gesti che causano malintesi e i saluti più apprezzati all'estero."
+description: " \"Hai quasi scatenato una rissa per un gesto sbagliato? Scopri i gesti che causano malintesi e i saluti più apprezzati all'estero.\""
 tags: ["Saluti", "Linguaggio del Corpo", "Gesti", "Comunicazione Culturale"]
 ---
 

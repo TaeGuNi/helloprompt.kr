@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Journaling-Prompt zur Selbstentdeckung: Meinen Geist erforschen"
+title: " \"KI-Journaling-Prompt zur Selbstentdeckung: Meinen Geist erforschen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Wie war Ihr Tag? Belassen Sie es nicht bei einem einfachen 'Es war gut'. Ergründen Sie Ihr wahres Ich mithilfe tiefgründiger KI-gestützter Fragen."
+description: " \"Wie war Ihr Tag? Belassen Sie es nicht bei einem einfachen 'Es war gut'. Ergründen Sie Ihr wahres Ich mithilfe tiefgründiger KI-gestützter Fragen.\""
 tags:
   [
     "Tagebuch",

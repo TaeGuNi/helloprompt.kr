@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "二つのイメージを一つに「Double Exposure」（二重露出）"
+title: " \"二つのイメージを一つに「Double Exposure」（二重露出）\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "二つの異なるイメージを重ね合わせ、神秘的で夢幻的なストーリーを創り出す「二重露出（Double Exposure）」プロンプトガイドです。"
+description: " \"二つの異なるイメージを重ね合わせ、神秘的で夢幻的なストーリーを創り出す「二重露出（Double Exposure）」プロンプトガイドです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 

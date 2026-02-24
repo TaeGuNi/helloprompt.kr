@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Qual é a Complexidade de Tempo (Big O) do Meu Código?"
+title: " \"Qual é a Complexidade de Tempo (Big O) do Meu Código?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt especializado que analisa a complexidade de tempo e espaço (Big-O) do seu código, identificando gargalos e sugerindo otimizações de desempenho."
+description: " \"Um prompt especializado que analisa a complexidade de tempo e espaço (Big-O) do seu código, identificando gargalos e sugerindo otimizações de desempenho.\""
 tags:
   [
     "Algoritmo",

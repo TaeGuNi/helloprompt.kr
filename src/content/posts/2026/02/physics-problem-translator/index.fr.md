@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traducteur de Problèmes de Physique : Du Jugement de la Situation à l'Établissement des Équations"
+title: " \"Traducteur de Problèmes de Physique : Du Jugement de la Situation à l'Établissement des Équations\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: "Un prompt expert qui analyse vos énoncés de physique, identifie les variables cachées et vous indique la formule exacte à utiliser."
+description: " \"Un prompt expert qui analyse vos énoncés de physique, identifie les variables cachées et vous indique la formule exacte à utiliser.\""
 tags: ["Physique", "Ingénierie", "RésolutionProblèmes", "Prompt"]
 ---
 

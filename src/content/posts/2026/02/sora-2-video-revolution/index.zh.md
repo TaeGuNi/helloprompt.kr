@@ -3,7 +3,7 @@ categories:
   - AI News
   - Creative
 date: "2026-02-13"
-description: OpenAI发布的Sora 2.0彻底颠覆了视频制作行业。在只需一行提示词即可生成电影级视频的时代，掌握专业运镜与叙事，是将想象力转化为现实的关键。
+description: "OpenAI发布的Sora 2.0彻底颠覆了视频制作行业。在只需一行提示词即可生成电影级视频的时代，掌握专业运镜与叙事，是将想象力转化为现实的关键。"
 image: /images/blog/sora-2.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - AI Video
   - Generative AI
   - Content Creation
-title: Sora 2.0与AI视频革命：让想象成为现实
+title: "Sora 2.0与AI视频革命：让想象成为现实"
 ---
 
 # 📝 Sora 2.0与AI视频革命：让想象成为现实

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 개발자가 사랑하는 버그 리포트 작성법 (AI Bug Report Formatter)
+title: "개발자가 사랑하는 버그 리포트 작성법 (AI Bug Report Formatter)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: 'Разработчики плачут, когда слышат просто «Оно не работает». 😭 Этот ИИ-промпт превращает сбивчивые жалобы на баги в четкие отчеты, с которыми можно сразу работать.'
+description: " 'Разработчики плачут, когда слышат просто «Оно не работает». 😭 Этот ИИ-промпт превращает сбивчивые жалобы на баги в четкие отчеты, с которыми можно сразу работать.'"
 tags: [AI, BugReport, QA, Communication]
 ---
 

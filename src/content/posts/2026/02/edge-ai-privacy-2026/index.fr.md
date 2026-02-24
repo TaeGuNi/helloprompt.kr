@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (French)"
-description: "L'exécution locale de puissants LLM sur les appareils est désormais courante, ce qui renforce la confidentialité."
+title: " \"Privacy First Edge AI (French)\""
+description: " \"L'exécution locale de puissants LLM sur les appareils est désormais courante, ce qui renforce la confidentialité.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

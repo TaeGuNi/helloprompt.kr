@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pesadelo Regex, agora passe para a IA"
+title: " \"Pesadelo Regex, agora passe para a IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Não escreva expressões regulares enigmáticas manualmente. Use este prompt para gerar o código informando apenas o padrão desejado."
+description: " \"Não escreva expressões regulares enigmáticas manualmente. Use este prompt para gerar o código informando apenas o padrão desejado.\""
 tags: ["Regex", "Expressão Regular", "Produtividade Dev"]
 ---
 

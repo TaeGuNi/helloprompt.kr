@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Prepara una colazione sana in soli 15 minuti con il prompt del Nutrizionista AI, perfetto per svuotare il frigo ed evitare sprechi."
+description: " \"Prepara una colazione sana in soli 15 minuti con il prompt del Nutrizionista AI, perfetto per svuotare il frigo ed evitare sprechi.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

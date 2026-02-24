@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Preelaborare Dati Excel Disordinati in Modo Ordinato"
+title: " \"Preelaborare Dati Excel Disordinati in Modo Ordinato\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Trovare metodi di pulizia dati come separare indirizzi, unificare formati data."
+description: " \"Trovare metodi di pulizia dati come separare indirizzi, unificare formati data.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

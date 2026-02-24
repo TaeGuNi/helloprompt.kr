@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Einwöchiger Heilreiseplan gegen Burnout: Langsames Reisen"
+title: " \"Einwöchiger Heilreiseplan gegen Burnout: Langsames Reisen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Schluss mit dem Abklappern von Touristenattraktionen. Ein Leitfaden für eine Woche 'Slow Travel' für echte Erholung und Entschleunigung."
+description: " \"Schluss mit dem Abklappern von Touristenattraktionen. Ein Leitfaden für eine Woche 'Slow Travel' für echte Erholung und Entschleunigung.\""
 tags: ["Heilreise", "Ruhe", "Eine Woche leben", "Langsames Reisen"]
 ---
 

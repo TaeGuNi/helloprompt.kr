@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "用点拍出的世界 'Pixel Art' 复古感性"
+title: " \"用点拍出的世界 'Pixel Art' 复古感性\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "唤起经典游戏乡愁的 8 位、16 位像素艺术提示词。"
+description: " \"唤起经典游戏乡愁的 8 位、16 位像素艺术提示词。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

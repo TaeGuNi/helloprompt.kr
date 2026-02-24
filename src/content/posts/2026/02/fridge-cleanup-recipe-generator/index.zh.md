@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "清理冰箱！AI 健康食谱生成器"
+title: " \"清理冰箱！AI 健康食谱生成器\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康"
-description: "用保质期临近的食材，打造米其林星级健康食谱。"
+description: " \"用保质期临近的食材，打造米其林星级健康食谱。\""
 tags: ["料理", "食谱", "饮食", "清理冰箱"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wedding Budget Excel: Checklist to Prevent Extra Cost Bomb"
+title: " \"Wedding Budget Excel: Checklist to Prevent Extra Cost Bomb\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A comprehensive prompt that predicts and helps you save on all costs during the wedding preparation process, preventing hidden fees and extra charges."
+description: " \"A comprehensive prompt that predicts and helps you save on all costs during the wedding preparation process, preventing hidden fees and extra charges.\""
 tags: ["Marriage", "Budget", "Wedding", "Newlyweds"]
 ---
 

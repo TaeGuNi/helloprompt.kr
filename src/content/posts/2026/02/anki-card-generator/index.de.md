@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Statt handgelenksschmerzendem Kopieren: Automatischer Merk-Karten-Generator"
+title: " \"Statt handgelenksschmerzendem Kopieren: Automatischer Merk-Karten-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lernmethode/Selbstentwicklung"
-description: "Ein Prompt, der lange Texte oder Vorlesungsnotizen automatisch in Karteikarten-Paare (Q&A) für Anki, Quizlet und Co. umwandelt."
+description: " \"Ein Prompt, der lange Texte oder Vorlesungsnotizen automatisch in Karteikarten-Paare (Q&A) für Anki, Quizlet und Co. umwandelt.\""
 tags: ["Merken", "Karteikarte", "Anki", "Quizlet"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Fundo de Aposentadoria: Qual é a Minha Pontuação de Preparação para Aposentadoria?"
+title: " \"Calculadora de Fundo de Aposentadoria: Qual é a Minha Pontuação de Preparação para Aposentadoria?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Elimine o medo do futuro. Calcule com precisão o fundo de aposentadoria necessário e o valor exato para investir mensalmente."
+description: " \"Elimine o medo do futuro. Calcule com precisão o fundo de aposentadoria necessário e o valor exato para investir mensalmente.\""
 tags: ["Aposentadoria", "PrepVelhice", "Pensão", "PlanejamentoFinanceiro"]
 ---
 

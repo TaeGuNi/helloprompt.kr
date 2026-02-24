@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibra Retro 'Arte de Píxeles' del Mundo Hecho de Puntos"
+title: " \"Vibra Retro 'Arte de Píxeles' del Mundo Hecho de Puntos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt para crear pixel art de 8 y 16 bits que evoca la nostalgia de los videojuegos clásicos."
+description: " \"Prompt para crear pixel art de 8 y 16 bits que evoca la nostalgia de los videojuegos clásicos.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Retro"]
 ---
 

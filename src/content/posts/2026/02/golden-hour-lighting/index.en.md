@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Usage of 'Golden Hour' Lighting, the Most Beautiful Time"
+title: " \"Usage of 'Golden Hour' Lighting, the Most Beautiful Time\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Apply the 'Golden Hour' cheat key to your prompts for warm, emotional, and stunningly lit photos."
+description: " \"Apply the 'Golden Hour' cheat key to your prompts for warm, emotional, and stunningly lit photos.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 

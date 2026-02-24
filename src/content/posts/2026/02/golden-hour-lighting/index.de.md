@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Verwendung der 'Golden Hour' Beleuchtung, die schönste Zeit"
+title: " \"Verwendung der 'Golden Hour' Beleuchtung, die schönste Zeit\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Nutzen Sie die 'Golden Hour' als ultimativen Cheat-Code für warme, emotionale und professionell wirkende KI-generierte Fotos."
+description: " \"Nutzen Sie die 'Golden Hour' als ultimativen Cheat-Code für warme, emotionale und professionell wirkende KI-generierte Fotos.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografie", "Beleuchtung"]
 ---
 

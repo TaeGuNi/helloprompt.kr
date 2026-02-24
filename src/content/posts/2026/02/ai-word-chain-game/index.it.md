@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수"
+title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/엔터"
-description: "한방 단어(듐, 튬, 녘)를 남발하는 AI를 완벽하게 통제하세요. 절대 질 수 없는 끝말잇기 봇을 만드는 프롬프트와 파훼법을 소개합니다."
+description: " \"한방 단어(듐, 튬, 녘)를 남발하는 AI를 완벽하게 통제하세요. 절대 질 수 없는 끝말잇기 봇을 만드는 프롬프트와 파훼법을 소개합니다.\""
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---
 

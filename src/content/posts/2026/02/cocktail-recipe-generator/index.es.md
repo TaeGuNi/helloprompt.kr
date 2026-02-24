@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "칵테일 레시피: 냉장고 술 털어서 바텐더 되기"
+title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/취미"
-description: "Soju, cerveza o whisky sobrantes... no los bebas de cualquier manera. Recetas de Home-tending con IA usando solo lo que tienes en tu nevera."
+description: " \"Soju, cerveza o whisky sobrantes... no los bebas de cualquier manera. Recetas de Home-tending con IA usando solo lo que tienes en tu nevera.\""
 tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Rendere Esperienza Progetto Ordinaria in 'Portfolio Attraente'"
+title: " \"Prompt Rendere Esperienza Progetto Ordinaria in 'Portfolio Attraente'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Ottimizza la descrizione del tuo progetto utilizzando lo storytelling: metti in risalto il processo di problem-solving e il tuo contributo reale, abbandonando i noiosi elenchi di funzionalità."
+description: " \"Ottimizza la descrizione del tuo progetto utilizzando lo storytelling: metti in risalto il processo di problem-solving e il tuo contributo reale, abbandonando i noiosi elenchi di funzionalità.\""
 tags:
   ["Portfolio", "DescrizioneProgetto", "DescrizioneCarriera", "Storytelling"]
 ---

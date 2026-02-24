@@ -1,6 +1,6 @@
 ---
-title: "리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)"
-description: "Un guide de prompt pratique pour concevoir des pipelines de données évolutifs en exploitant les principes fondamentaux du Data Engineering Book open source."
+title: " \"리뷰: 데이터 엔지니어링 북 (오픈소스 가이드)\""
+description: " \"Un guide de prompt pratique pour concevoir des pipelines de données évolutifs en exploitant les principes fondamentaux du Data Engineering Book open source.\""
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

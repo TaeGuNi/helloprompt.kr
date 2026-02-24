@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다 (데이터 분석)"
+title: " \"엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다 (데이터 분석)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "데이터 분석"
-description: "복잡한 엑셀 함수를 외우지 마세요. 자연어(Natural Language)로 엑셀을 완벽하게 조종하는 프롬프트 테크닉을 소개합니다."
+description: " \"복잡한 엑셀 함수를 외우지 마세요. 자연어(Natural Language)로 엑셀을 완벽하게 조종하는 프롬프트 테크닉을 소개합니다.\""
 tags: ["엑셀", "데이터분석", "ChatGPT", "VLOOKUP", "업무효율"]
 ---
 

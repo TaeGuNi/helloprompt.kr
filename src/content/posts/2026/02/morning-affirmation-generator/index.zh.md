@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미라클 모닝 긍정 확언 생성기"
+title: " \"미라클 모닝 긍정 확언 생성기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "用专属定制的正向肯定语 (Affirmation)，开启活力满满的每一个早晨。"
+description: " \"用专属定制的正向肯定语 (Affirmation)，开启活力满满的每一个早晨。\""
 tags: ["미라클모닝", "마인드셋", "자기계발", "긍정확언"]
 ---
 

@@ -1,16 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description:
-  GitHub Copilot X2와 같은 자율 에이전트 시대, 코드를 직접 짜던 개발자에서 'AI 매니저'로 진화하는 구체적인
-  방법과 프롬프트 가이드를 소개합니다.
+description: "GitHub Copilot X2와 같은 자율 에이전트 시대, 코드를 직접 짜던 개발자에서 'AI 매니저'로 진화하는 구체적인 방법과 프롬프트 가이드를 소개합니다."
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략"
+title: " \"AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략\""
 ---
 
 # 📝 AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략

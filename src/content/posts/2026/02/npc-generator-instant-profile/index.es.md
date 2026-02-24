@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generador de NPC Instantáneo: Creando Personajes Vivos"
+title: " \"Generador de NPC Instantáneo: Creando Personajes Vivos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "No entres en pánico si los jugadores interactúan repentinamente con un transeúnte. Crea un NPC con personalidad, tono de voz y secretos en solo 10 segundos."
+description: " \"No entres en pánico si los jugadores interactúan repentinamente con un transeúnte. Crea un NPC con personalidad, tono de voz y secretos en solo 10 segundos.\""
 tags: ["TRPG", "NPC", "Personaje", "Novela", "Configuración"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Sustainable AI Computing (fr)"
-description: "Une analyse approfondie de l'informatique d'IA durable et des stratégies pratiques pour réduire l'empreinte carbone."
+title: " \"Sustainable AI Computing (fr)\""
+description: " \"Une analyse approfondie de l'informatique d'IA durable et des stratégies pratiques pour réduire l'empreinte carbone.\""
 date: "2026-02-14"
 ---
 

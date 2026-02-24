@@ -1,6 +1,6 @@
 ---
-title: "Zero Shot vs Few Shot Prompting (Italian)"
-description: "Il Few-Shot prompting migliora drasticamente l'affidabilità per i task di ragionamento complesso."
+title: " \"Zero Shot vs Few Shot Prompting (Italian)\""
+description: " \"Il Few-Shot prompting migliora drasticamente l'affidabilità per i task di ragionamento complesso.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]

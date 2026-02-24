@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumidor de YouTube en 3 Segundos: Cómo Leer un Video de 1 Hora en Texto"
+title: " \"Resumidor de YouTube en 3 Segundos: Cómo Leer un Video de 1 Hora en Texto\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Herramientas de Productividad"
-description: "¿Sigues viendo videos de 1 hora durante 20 minutos? Descubre el flujo de trabajo definitivo para extraer la transcripción y usar prompts de IA para resumir lo esencial en solo 10 segundos."
+description: " \"¿Sigues viendo videos de 1 hora durante 20 minutos? Descubre el flujo de trabajo definitivo para extraer la transcripción y usar prompts de IA para resumir lo esencial en solo 10 segundos.\""
 tags: ["YouTube", "Resumen", "ChatGPT", "Productividad", "Estudio"]
 ---
 

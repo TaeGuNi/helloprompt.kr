@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "纸的质感 'Paper Cutout & Origami' 风格"
+title: " \"纸的质感 'Paper Cutout & Origami' 风格\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "使用 AI 生成充满纸质温度的剪纸 (Paper Cutout) 与折纸 (Origami) 风格图像的高级提示词技巧。"
+description: " \"使用 AI 生成充满纸质温度的剪纸 (Paper Cutout) 与折纸 (Origami) 风格图像的高级提示词技巧。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 ---
 

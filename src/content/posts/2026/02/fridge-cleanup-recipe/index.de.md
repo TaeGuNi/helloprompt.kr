@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kühlschrank-Aufräumung, wiedergeboren mit einem Chefkoch-Rezept"
+title: " \"Kühlschrank-Aufräumung, wiedergeboren mit einem Chefkoch-Rezept\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Leben"
-description: "Ein praktischer KI-Prompt, der alltägliche Reste aus dem Kühlschrank in kreative und köstliche Chefkoch-Rezepte verwandelt."
+description: " \"Ein praktischer KI-Prompt, der alltägliche Reste aus dem Kühlschrank in kreative und köstliche Chefkoch-Rezepte verwandelt.\""
 tags: ["Kochen", "Rezept", "Lebenstipps"]
 ---
 

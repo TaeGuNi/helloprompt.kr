@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 가계부 매니저: 개인 자산 관리 프롬프트"
+title: " \"AI 가계부 매니저: 개인 자산 관리 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "告别繁琐的记账！利用AI打造你的专属财务管家，轻松实现个人资产管理与收支自动分析。"
+description: " \"告别繁琐的记账！利用AI打造你的专属财务管家，轻松实现个人资产管理与收支自动分析。\""
 tags: ["태그1", "태그2"]
 ---
 

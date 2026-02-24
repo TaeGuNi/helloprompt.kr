@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Componente Frontend, Apenas Descreva o Design e o Código está Pronto"
+title: " \"Componente Frontend, Apenas Descreva o Design e o Código está Pronto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que gera rapidamente componentes de interface de usuário (UI) com a stack de tecnologia desejada, como React, Vue, Tailwind CSS, etc."
+description: " \"Um prompt que gera rapidamente componentes de interface de usuário (UI) com a stack de tecnologia desejada, como React, Vue, Tailwind CSS, etc.\""
 tags: ["Frontend", "React", "Vue", "Tailwind", "Componente de IU"]
 ---
 

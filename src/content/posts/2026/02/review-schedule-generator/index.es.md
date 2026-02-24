@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conducción Inversa de la Curva del Olvido: Generador de Horario de Revisión"
+title: " \"Conducción Inversa de la Curva del Olvido: Generador de Horario de Revisión\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudio/Autodesarrollo"
-description: "Prompt que calcula el momento óptimo de revisión para que nunca olvides lo que estudiaste, basado en la teoría de la Curva del Olvido de Ebbinghaus."
+description: " \"Prompt que calcula el momento óptimo de revisión para que nunca olvides lo que estudiaste, basado en la teoría de la Curva del Olvido de Ebbinghaus.\""
 tags: ["PlanEstudio", "CurvaDelOlvido", "Revisión", "Programación"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fórmulas Inmemorizables, Tatuándolas en el Cerebro"
+title: " \"Fórmulas Inmemorizables, Tatuándolas en el Cerebro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemáticas/Ciencias"
-description: "Prompt infalible para no olvidar nunca fórmulas complejas de matemáticas y ciencias usando narración y mnemotecnia."
+description: " \"Prompt infalible para no olvidar nunca fórmulas complejas de matemáticas y ciencias usando narración y mnemotecnia.\""
 tags: ["MétodoMemorización", "Mnemotecnia", "MétodoEstudio", "Prompt"]
 ---
 

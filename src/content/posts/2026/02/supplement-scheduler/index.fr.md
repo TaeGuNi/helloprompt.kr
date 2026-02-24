@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur"
+title: " \"Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA."
+description: " \"Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA.\""
 tags: ["Suppléments", "Aliment Fonctionnel Santé", "Planificateur", "Santé"]
 ---
 

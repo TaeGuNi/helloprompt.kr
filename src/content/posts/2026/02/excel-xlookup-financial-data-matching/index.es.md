@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Olvida Excel VLOOKUP: Dios de Coincidencia de Datos Financieros, XLOOKUP"
+title: " \"Olvida Excel VLOOKUP: Dios de Coincidencia de Datos Financieros, XLOOKUP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización de Trabajo"
-description: "¿Harto de trabajar horas extras por culpa de VLOOKUP? Pásate a XLOOKUP, una función mucho más potente, rápida y segura para tus datos financieros."
+description: " \"¿Harto de trabajar horas extras por culpa de VLOOKUP? Pásate a XLOOKUP, una función mucho más potente, rápida y segura para tus datos financieros.\""
 tags: ["Excel", "Función", "XLOOKUP", "LimpiezaDatos"]
 ---
 

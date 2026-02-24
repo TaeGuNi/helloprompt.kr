@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "会議の地獄から脱出: 録音するだけで議事録+ToDo+メールまで3分"
+title: " \"会議の地獄から脱出: 録音するだけで議事録+ToDo+メールまで3分\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "業務自動化"
-description: "WhisperとGPTを連携させて、退屈な議事録作成業務を自動化する完璧なワークフロー。新入社員必見ガイド。"
+description: " \"WhisperとGPTを連携させて、退屈な議事録作成業務を自動化する完璧なワークフロー。新入社員必見ガイド。\""
 tags: ["議事録", "Whisper", "ChatGPT", "業務自動化", "生産性"]
 ---
 

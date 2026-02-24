@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fin de la Guerre du Matin ! Liste de Contrôle de la Routine Matinale Autonome"
+title: " \"Fin de la Guerre du Matin ! Liste de Contrôle de la Routine Matinale Autonome\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Comment aider votre enfant à se préparer tout seul sans crier tous les matins."
+description: " \"Comment aider votre enfant à se préparer tout seul sans crier tous les matins.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

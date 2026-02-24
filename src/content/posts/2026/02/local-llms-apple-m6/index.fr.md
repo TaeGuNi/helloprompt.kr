@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "LLM locaux sur mobile : L'impact de la puce Apple M6"
-description: "Une analyse technique de la façon dont la dernière puce M6 d'Apple révolutionne l'exécution des grands modèles de langage (LLM) locaux sur les appareils mobiles."
+title: " \"LLM locaux sur mobile : L'impact de la puce Apple M6\""
+description: " \"Une analyse technique de la façon dont la dernière puce M6 d'Apple révolutionne l'exécution des grands modèles de langage (LLM) locaux sur les appareils mobiles.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 ---

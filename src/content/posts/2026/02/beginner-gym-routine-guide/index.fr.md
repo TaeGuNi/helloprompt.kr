@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide de Routine de Gym pour Débutants : Avoir l'Air d'un Pro"
+title: " \"Guide de Routine de Gym pour Débutants : Avoir l'Air d'un Pro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Vous allez à la salle de sport mais finissez toujours sur le tapis de course par peur du regard des autres ? L'IA vous crée une routine sur-mesure sur les machines."
+description: " \"Vous allez à la salle de sport mais finissez toujours sur le tapis de course par peur du regard des autres ? L'IA vous crée une routine sur-mesure sur les machines.\""
 tags:
   [
     "Salle de Sport",

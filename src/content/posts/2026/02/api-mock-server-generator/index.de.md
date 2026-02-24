@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 백엔드 기다리지 마세요! AI Mock Server 생성기 (API Mock Gen)
+title: "백엔드 기다리지 마세요! AI Mock Server 생성기 (API Mock Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: API 명세서만 던져주면 Express/Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 2배로 올리세요.
+description: "API 명세서만 던져주면 Express/Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 2배로 올리세요."
 tags: [AI, Backend, Frontend, Testing]
 ---
 

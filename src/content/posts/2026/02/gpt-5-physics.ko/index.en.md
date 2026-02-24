@@ -1,6 +1,6 @@
 ---
-title: "GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대"
-description: "OpenAI's GPT-5.2 has marked a turning point in the scientific community by deriving new results in theoretical physics. We analyze this remarkable achievement and introduce an AI prompt that easily decodes complex scientific papers."
+title: " \"GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대\""
+description: " \"OpenAI's GPT-5.2 has marked a turning point in the scientific community by deriving new results in theoretical physics. We analyze this remarkable achievement and introduce an AI prompt that easily decodes complex scientific papers.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

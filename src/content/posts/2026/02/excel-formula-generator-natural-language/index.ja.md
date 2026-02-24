@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "複雑なExcel数式、言葉で説明すれば組んでくれるプロンプト"
+title: " \"複雑なExcel数式、言葉で説明すれば組んでくれるプロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "VLOOKUPやINDEX MATCHで悩んでいませんか？状況を言葉で説明するだけで、AIが完璧なExcel関数を構築するプロンプトを紹介します。"
+description: " \"VLOOKUPやINDEX MATCHで悩んでいませんか？状況を言葉で説明するだけで、AIが完璧なExcel関数を構築するプロンプトを紹介します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

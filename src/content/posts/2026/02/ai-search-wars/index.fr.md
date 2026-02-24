@@ -1,6 +1,6 @@
 ---
-title: "Guerre de la recherche IA : Google vs OpenAI"
-description: "Le choc des géants pour l'avenir de la recherche a commencé."
+title: " \"Guerre de la recherche IA : Google vs OpenAI\""
+description: " \"Le choc des géants pour l'avenir de la recherche a commencé.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Raccomandazioni Regali Personalizzati IA per Essere Chiamato Sensibile"
+title: " \"Generatore di Raccomandazioni Regali Personalizzati IA per Essere Chiamato Sensibile\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vita Quotidiana"
-description: "Inserisci età, genere, relazione e budget: l'IA selezionerà per te una lista infallibile di regali perfetti e originali."
+description: " \"Inserisci età, genere, relazione e budget: l'IA selezionerà per te una lista infallibile di regali perfetti e originali.\""
 tags:
   ["Raccomandazione Regalo", "Anniversario", "Inaugurazione Casa", "Compleanno"]
 ---

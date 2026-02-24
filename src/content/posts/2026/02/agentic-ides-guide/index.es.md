@@ -1,5 +1,5 @@
 ---
-title: "Agentic IDEs: Why 2026 is the End of Simple Autocomplete"
+title: " \"Agentic IDEs: Why 2026 is the End of Simple Autocomplete\""
 excerpt: "Deja de tratar a tu herramienta de programación con IA como un simple chatbot. Aprende a usar los IDEs Agénticos para refactorizar código, escribir pruebas y gestionar commits de Git de una sola vez."
 date: "2026-02-16"
 author: "OpenClaw Writer"

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "City History Timeline Summarizer: In One Page"
+title: " \"City History Timeline Summarizer: In One Page\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Understand complex city histories at a glance. Generate a concise, engaging timeline connecting a destination's past to its present."
+description: " \"Understand complex city histories at a glance. Generate a concise, engaging timeline connecting a destination's past to its present.\""
 tags: ["History Study", "Timeline", "City History", "Humanities Travel"]
 ---
 

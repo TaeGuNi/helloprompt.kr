@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Mi código es basura! Entrenador de refactorización de código limpio"
+title: " \"¡Mi código es basura! Entrenador de refactorización de código limpio\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programación/TI"
-description: "Un prompt para transformar código espagueti en código limpio, legible y fácil de mantener."
+description: " \"Un prompt para transformar código espagueti en código limpio, legible y fácil de mantener.\""
 tags:
   ["refactorización", "código limpio", "desarrollador", "revisión de código"]
 ---

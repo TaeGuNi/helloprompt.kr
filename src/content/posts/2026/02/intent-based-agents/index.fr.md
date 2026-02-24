@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "프롬프트 엔지니어링의 종말? '의도 설계(Intent Architecting)'의 시대 (feat. Gemini 3)"
+title: " \"프롬프트 엔지니어링의 종말? '의도 설계(Intent Architecting)'의 시대 (feat. Gemini 3)\""
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI 트렌드"
-description: "Ne vous focalisez plus sur le choix des mots. À l'ère de Gemini 3 et GPT-5, vous devez concevoir des 'objectifs' (Intents) et non plus de simples phrases."
+description: " \"Ne vous focalisez plus sur le choix des mots. À l'ère de Gemini 3 et GPT-5, vous devez concevoir des 'objectifs' (Intents) et non plus de simples phrases.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
 image:
   url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"

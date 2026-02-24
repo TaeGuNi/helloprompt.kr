@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desafío de Entrenamiento en Casa de 30 Días con IA: Escapando del Abandono al 3er Día"
+title: " \"Desafío de Entrenamiento en Casa de 30 Días con IA: Escapando del Abandono al 3er Día\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Un milagro hecho solo con tu cuerpo en casa, sin equipo especial. Deja que la IA diseñe tu rutina de ejercicios de 30 días, adaptada y sin repeticiones aburridas."
+description: " \"Un milagro hecho solo con tu cuerpo en casa, sin equipo especial. Deja que la IA diseñe tu rutina de ejercicios de 30 días, adaptada y sin repeticiones aburridas.\""
 tags:
   [
     "Entrenamiento en Casa",

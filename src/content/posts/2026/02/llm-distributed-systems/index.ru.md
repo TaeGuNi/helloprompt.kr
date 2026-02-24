@@ -1,6 +1,6 @@
 ---
-title: "LLMs in Distributed Apps (Russian)"
-description: "Объединение сетей Петри и LLM для создания надежных распределенных систем"
+title: " \"LLMs in Distributed Apps (Russian)\""
+description: " \"Объединение сетей Петри и LLM для создания надежных распределенных систем\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]

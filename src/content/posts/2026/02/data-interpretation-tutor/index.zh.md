@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "表格和图表搭话: 数据解释导师"
+title: " \"表格和图表搭话: 数据解释导师\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "数学/科学"
-description: "从复杂的图表或数据中提取核心洞察，并精准找出隐藏陷阱的专业提示词。"
+description: " \"从复杂的图表或数据中提取核心洞察，并精准找出隐藏陷阱的专业提示词。\""
 tags: ["数据分析", "统计", "图表解释", "业务技能"]
 ---
 

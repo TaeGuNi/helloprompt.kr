@@ -1,6 +1,6 @@
 ---
-title: "바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다"
-description: "Vibe coding is like a slot machine for developers. Discover how to build genuine software engineering skills while leveraging AI."
+title: " \"바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다\""
+description: " \"Vibe coding is like a slot machine for developers. Discover how to build genuine software engineering skills while leveraging AI.\""
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:

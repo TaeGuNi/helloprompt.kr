@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Local LLMs on Mobile: The Apple M6 Chip Impact"
-description: "A technical analysis of how Apple's latest M6 chip is revolutionizing local Large Language Model (LLM) execution on mobile devices."
+title: " \"Local LLMs on Mobile: The Apple M6 Chip Impact\""
+description: " \"A technical analysis of how Apple's latest M6 chip is revolutionizing local Large Language Model (LLM) execution on mobile devices.\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 ---

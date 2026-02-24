@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다"
+title: " \"시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "무조건 MSA가 답일까? 트래픽 규모, 팀 크기, 배포 빈도에 따른 최적의 아키텍처 선택 가이드."
+description: " \"무조건 MSA가 답일까? 트래픽 규모, 팀 크기, 배포 빈도에 따른 최적의 아키텍처 선택 가이드.\""
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tu señal WiFi podría ser una cámara de vigilancia invisible"
+title: " \"Tu señal WiFi podría ser una cámara de vigilancia invisible\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개인정보보호"
-description: "Descubre el peligro de la tecnología que detecta la ubicación y el movimiento humano basándose únicamente en señales WiFi y cómo protegerte."
+description: " \"Descubre el peligro de la tecnología que detecta la ubicación y el movimiento humano basándose únicamente en señales WiFi y cómo protegerte.\""
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 

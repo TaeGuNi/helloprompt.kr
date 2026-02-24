@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "用文本学习的母语者发音辅导"
+title: " \"用文本学习的母语者发音辅导\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "外语学习"
-description: "在无法播放声音的环境中，也能通过文本直观学习发音符号、重音和语调的提示词。"
+description: " \"在无法播放声音的环境中，也能通过文本直观学习发音符号、重音和语调的提示词。\""
 tags: ["英语发音", "影子跟读", "提示词", "口语"]
 ---
 

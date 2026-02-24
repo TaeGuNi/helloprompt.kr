@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nombre d'Or de la Gestion de l'Argent : Calculatrice de la Règle 50/30/20"
+title: " \"Nombre d'Or de la Gestion de l'Argent : Calculatrice de la Règle 50/30/20\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Appliquez la règle de gestion budgétaire la plus simple et la plus puissante préconisée par la sénatrice américaine Elizabeth Warren."
+description: " \"Appliquez la règle de gestion budgétaire la plus simple et la plus puissante préconisée par la sénatrice américaine Elizabeth Warren.\""
 tags: ["GestionBudget", "Finance", "503020", "Épargne"]
 ---
 

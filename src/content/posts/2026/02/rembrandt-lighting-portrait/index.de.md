@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Rembrandt Lighting' Technik zur Steigerung der Porträtqualität"
+title: " \"'Rembrandt Lighting' Technik zur Steigerung der Porträtqualität\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Beleuchtungs-Prompt für tiefgründige und ausdrucksstarke Porträts, die wie Meisterwerke wirken."
+description: " \"Ein Beleuchtungs-Prompt für tiefgründige und ausdrucksstarke Porträts, die wie Meisterwerke wirken.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Porträt", "Beleuchtung"]
 ---
 

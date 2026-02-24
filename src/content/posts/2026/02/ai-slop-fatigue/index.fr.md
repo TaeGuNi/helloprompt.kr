@@ -1,6 +1,6 @@
 ---
-title: "Fatigue du 'Slop' IA : Pourquoi le 'Sans IA' est le Nouveau Premium"
-description: "Alors que le contenu de basse qualité généré par l'IA inonde le web, la fatigue des utilisateurs s'installe. Nous analysons pourquoi le 'Sans IA' devient un gage de qualité."
+title: " \"Fatigue du 'Slop' IA : Pourquoi le 'Sans IA' est le Nouveau Premium\""
+description: " \"Alors que le contenu de basse qualité généré par l'IA inonde le web, la fatigue des utilisateurs s'installe. Nous analysons pourquoi le 'Sans IA' devient un gage de qualité.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

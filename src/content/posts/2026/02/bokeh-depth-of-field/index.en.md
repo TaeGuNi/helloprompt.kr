@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Emotional Background Blur 'Bokeh & Depth of Field'"
+title: " \"Emotional Background Blur 'Bokeh & Depth of Field'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A prompt that makes the subject stand out by blurring the background and creating emotional light orbs (Bokeh)."
+description: " \"A prompt that makes the subject stand out by blurring the background and creating emotional light orbs (Bokeh).\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 

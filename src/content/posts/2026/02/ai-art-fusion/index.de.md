@@ -1,6 +1,6 @@
 ---
-title: "Was wäre, wenn Monet Shin Yun-boks „Porträt einer Schönheit“ gemalt hätte? Ein KI-Fusionskunstwerk"
-description: "Die Zartheit der Joseon-Dynastie trifft auf das Licht des Impressionismus. Entdecken Sie Shin Yun-boks Meisterwerk, neu interpretiert durch KI."
+title: " \"Was wäre, wenn Monet Shin Yun-boks „Porträt einer Schönheit“ gemalt hätte? Ein KI-Fusionskunstwerk\""
+description: " \"Die Zartheit der Joseon-Dynastie trifft auf das Licht des Impressionismus. Entdecken Sie Shin Yun-boks Meisterwerk, neu interpretiert durch KI.\""
 author: "AI Art Lab"
 date: "2026-02-13"
 tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]

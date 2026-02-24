@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perché la Mia Grammatica è Sbagliata? Insegnante di Correzione 1:1"
+title: " \"Perché la Mia Grammatica è Sbagliata? Insegnante di Correzione 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprendimento Lingue Straniere"
-description: "Un prompt per un tutor IA che ti spiega il 'perché' dei tuoi errori grammaticali, invece di limitarsi a correggerli."
+description: " \"Un prompt per un tutor IA che ti spiega il 'perché' dei tuoi errori grammaticali, invece di limitarsi a correggerli.\""
 tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 ---
 

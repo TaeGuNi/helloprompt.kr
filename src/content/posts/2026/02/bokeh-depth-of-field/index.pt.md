@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desfoque de Fundo Emocional 'Bokeh & Profundidade de Campo'"
+title: " \"Desfoque de Fundo Emocional 'Bokeh & Profundidade de Campo'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt que destaca o elemento principal desfocando o fundo e cria esferas de luz envolventes (Bokeh)."
+description: " \"Prompt que destaca o elemento principal desfocando o fundo e cria esferas de luz envolventes (Bokeh).\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografia", "Efeito"]
 ---
 

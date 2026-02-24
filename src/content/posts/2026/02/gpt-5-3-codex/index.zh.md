@@ -1,7 +1,7 @@
 ---
 category: Technology
 date: "2026-02-17"
-description: "OpenAI 发布了专为提升开发者生产力而设计的轻量级高性能模型 GPT-5.3 Codex Spark。它具备低于 15ms 的超低延迟和卓越的上下文理解能力。"
+description: " \"OpenAI 发布了专为提升开发者生产力而设计的轻量级高性能模型 GPT-5.3 Codex Spark。它具备低于 15ms 的超低延迟和卓越的上下文理解能力。\""
 draft: false
 published: 2026-02-13
 tags:
@@ -10,7 +10,7 @@ tags:
   - Codex
   - OpenAI
   - Development
-title: GPT-5.3 Codex Spark：专为开发者打造的超高速编程 AI
+title: "GPT-5.3 Codex Spark：专为开发者打造的超高速编程 AI"
 ---
 
 # 🚀 GPT-5.3 Codex Spark：开发生产力的新标准

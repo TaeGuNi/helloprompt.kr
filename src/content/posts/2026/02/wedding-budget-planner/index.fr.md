@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excel Budget Mariage : Liste de Contrôle pour Éviter la Bombe des Coûts Supplémentaires"
+title: " \"Excel Budget Mariage : Liste de Contrôle pour Éviter la Bombe des Coûts Supplémentaires\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Un prompt IA qui anticipe et optimise tous les coûts liés à la préparation de votre mariage, des tenues jusqu'au traiteur, pour éviter les mauvaises surprises."
+description: " \"Un prompt IA qui anticipe et optimise tous les coûts liés à la préparation de votre mariage, des tenues jusqu'au traiteur, pour éviter les mauvaises surprises.\""
 tags: ["Mariage", "Budget", "Noces", "NouveauxMariés"]
 ---
 

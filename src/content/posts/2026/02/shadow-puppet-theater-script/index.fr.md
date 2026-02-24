@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Script de Théâtre d'Ombres : Une Histoire du Soir"
+title: " \"Script de Théâtre d'Ombres : Une Histoire du Soir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Créez un monde magique avec une simple lampe de poche grâce à ce script de théâtre d'ombres généré par l'IA."
+description: " \"Créez un monde magique avec une simple lampe de poche grâce à ce script de théâtre d'ombres généré par l'IA.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

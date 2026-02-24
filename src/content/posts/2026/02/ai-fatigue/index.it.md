@@ -1,8 +1,8 @@
 ---
-title: "AI Fatigue (Summary)"
-description: "Scopri come gestire l'AI Fatigue: una guida pratica per superare l'esaurimento da intelligenza artificiale e ritrovare produttività e lucidità."
+title: " \"AI Fatigue (Summary)\""
+description: " \"Scopri come gestire l'AI Fatigue: una guida pratica per superare l'esaurimento da intelligenza artificiale e ritrovare produttività e lucidità.\""
 date: 2026-02-14
-image: "https://picsum.photos/1600/900
+image: "https://picsum.photos/1600/900"
 categories: ["Society"]
 authors: ["HelloPrompt Team"]
 tags: ["AI"]

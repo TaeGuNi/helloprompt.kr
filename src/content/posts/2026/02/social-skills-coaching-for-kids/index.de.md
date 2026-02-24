@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Soziale Kompetenz-Coaching für Kinder: Beziehungen und Ablehnung erklären"
+title: " \"Soziale Kompetenz-Coaching für Kinder: Beziehungen und Ablehnung erklären\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein KI-gestützter Leitfaden für Eltern, um Kindern den gesunden Umgang mit Zurückweisung und Konflikten unter Gleichaltrigen zu erklären."
+description: " \"Ein KI-gestützter Leitfaden für Eltern, um Kindern den gesunden Umgang mit Zurückweisung und Konflikten unter Gleichaltrigen zu erklären.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지"
+title: " \"코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Scopri come utilizzare l'IA come tutor personale per superare i test di programmazione. Impara le tecniche di prompt engineering per ottenere suggerimenti mirati senza farti svelare la soluzione, sviluppando così il tuo pensiero logico."
+description: " \"Scopri come utilizzare l'IA come tutor personale per superare i test di programmazione. Impara le tecniche di prompt engineering per ottenere suggerimenti mirati senza farti svelare la soluzione, sviluppando così il tuo pensiero logico.\""
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 

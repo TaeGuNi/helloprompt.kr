@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Annoying API Documentation, Swagger Pops Out with Just Code"
+title: " \"Annoying API Documentation, Swagger Pops Out with Just Code\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A prompt that instantly converts your raw API code into perfectly formatted OpenAPI (Swagger) specs or Markdown documentation."
+description: " \"A prompt that instantly converts your raw API code into perfectly formatted OpenAPI (Swagger) specs or Markdown documentation.\""
 tags: ["API", "Documentation", "Swagger", "OpenAPI", "Backend"]
 ---
 

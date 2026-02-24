@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡No Más Rendirse! Diseño de Rastreador de Formación de Hábitos con IA"
+title: " \"¡No Más Rendirse! Diseño de Rastreador de Formación de Hábitos con IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diaria"
-description: "No confíes en la fuerza de voluntad. Crea un sistema de formación de hábitos inquebrantable basado en la ciencia del cerebro."
+description: " \"No confíes en la fuerza de voluntad. Crea un sistema de formación de hábitos inquebrantable basado en la ciencia del cerebro.\""
 tags: ["Hábito", "Rutina", "VidaDivina", "Autodesarrollo"]
 ---
 

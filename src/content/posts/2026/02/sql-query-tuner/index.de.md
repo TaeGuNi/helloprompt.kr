@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Langsame SQL-Abfrage, Geheimnis zum Tuning in 3 Sekunden"
+title: " \"Langsame SQL-Abfrage, Geheimnis zum Tuning in 3 Sekunden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der komplexe und ineffiziente SQL-Abfragen analysiert, um die Leistung zu optimieren und Indizes zu empfehlen."
+description: " \"Ein Prompt, der komplexe und ineffiziente SQL-Abfragen analysiert, um die Leistung zu optimieren und Indizes zu empfehlen.\""
 tags: ["SQL", "DB-Tuning", "Abfrageoptimierung", "Datenbank"]
 ---
 

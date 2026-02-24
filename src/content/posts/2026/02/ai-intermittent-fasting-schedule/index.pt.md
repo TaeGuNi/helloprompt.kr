@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Horário de Jejum Intermitente IA: Aumentando a Taxa de Sucesso em 200%"
+title: " \"Horário de Jejum Intermitente IA: Aumentando a Taxa de Sucesso em 200%\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Projete um cronograma de jejum intermitente que se adapte perfeitamente ao seu estilo de vida e obtenha dicas da IA para dominar as horas de jejum."
+description: " \"Projete um cronograma de jejum intermitente que se adapte perfeitamente ao seu estilo de vida e obtenha dicas da IA para dominar as horas de jejum.\""
 tags: ["Jejum Intermitente", "Dieta", "Saúde", "ChatGPT", "Rotina"]
 ---
 

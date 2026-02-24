@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (English)"
-description: "Privacy focused AI accessible to all"
+title: " \"Local LLMs Guide (English)\""
+description: " \"Privacy focused AI accessible to all\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

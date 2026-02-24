@@ -1,6 +1,6 @@
 ---
-title: "Chain of Thought Reasoning (German)"
-description: "Wenn Sie Modelle bitten, 'Schritt für Schritt zu denken', erzielen Sie eine deutlich höhere Leistung bei Logikrätseln."
+title: " \"Chain of Thought Reasoning (German)\""
+description: " \"Wenn Sie Modelle bitten, 'Schritt für Schritt zu denken', erzielen Sie eine deutlich höhere Leistung bei Logikrätseln.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]

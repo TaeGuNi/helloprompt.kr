@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미라클 모닝 성공률 200% 만드는 AI 알람 대본"
+title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "Vous avez du mal à vous réveiller le matin ? Créez un script de réveil percutant et ultra-motivant basé sur votre calendrier et vos objectifs personnels."
+description: " \"Vous avez du mal à vous réveiller le matin ? Créez un script de réveil percutant et ultra-motivant basé sur votre calendrier et vos objectifs personnels.\""
 tags: ["미라클모닝", "동기부여", "알람"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "차트 보조지표 해석기: 매수 타이밍 포착"
+title: " \"차트 보조지표 해석기: 매수 타이밍 포착\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "재테크 & 투자"
-description: "RSI, MACD, 볼린저밴드 등 복잡한 차트 보조지표를 AI로 쉽게 해석하고 정확한 매수/매도 타이밍을 포착하세요."
+description: " \"RSI, MACD, 볼린저밴드 등 복잡한 차트 보조지표를 AI로 쉽게 해석하고 정확한 매수/매도 타이밍을 포착하세요.\""
 tags: ["주식", "차트분석", "기술적분석", "트레이딩"]
 ---
 

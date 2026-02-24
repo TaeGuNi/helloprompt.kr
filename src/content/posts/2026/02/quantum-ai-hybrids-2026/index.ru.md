@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (Russian)"
-description: "Ранние эксперименты с квантовыми процессорами ускоряют специфические задачи обучения ИИ"
+title: " \"Quantum AI Hybrids (Russian)\""
+description: " \"Ранние эксперименты с квантовыми процессорами ускоряют специфические задачи обучения ИИ\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Docker 环境构建，一个配置文件 3 分钟搞定"
+title: " \"Docker 环境构建，一个配置文件 3 分钟搞定\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "自动生成用于将应用程序运行环境制作成容器的 Dockerfile 和 docker-compose.yml 的提示词。"
+description: " \"自动生成用于将应用程序运行环境制作成容器的 Dockerfile 和 docker-compose.yml 的提示词。\""
 tags: ["Docker", "容器", "部署", "DevOps"]
 ---
 

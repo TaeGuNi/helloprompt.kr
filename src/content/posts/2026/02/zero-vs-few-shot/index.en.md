@@ -1,7 +1,7 @@
 ---
-title: "Zero-Shot vs Few-Shot Learning: When to provide examples"
+title: " \"Zero-Shot vs Few-Shot Learning: When to provide examples\""
 date: "2026-02-15"
-description: "A definitive guide to mastering zero-shot versus few-shot prompting for optimal LLM performance and cost efficiency."
+description: " \"A definitive guide to mastering zero-shot versus few-shot prompting for optimal LLM performance and cost efficiency.\""
 ---
 
 # 📝 Zero-Shot vs Few-Shot Learning: When to Provide Examples

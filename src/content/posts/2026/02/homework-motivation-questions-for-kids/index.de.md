@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Hausaufgaben-Motivationsfragen für Kinder: Coaching statt Nörgeln"
+title: " \"Hausaufgaben-Motivationsfragen für Kinder: Coaching statt Nörgeln\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Gesprächstechniken, damit sich ein Kind von selbst an den Schreibtisch setzt, ohne es zu zwingen."
+description: " \"Gesprächstechniken, damit sich ein Kind von selbst an den Schreibtisch setzt, ohne es zu zwingen.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

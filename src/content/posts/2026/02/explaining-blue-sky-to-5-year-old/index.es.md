@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explicando el Cielo Azul a un Niño de 5 Años: Ciencia para Padres"
+title: " \"Explicando el Cielo Azul a un Niño de 5 Años: Ciencia para Padres\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un prompt que desentraña principios científicos complejos usando divertidas metáforas adaptadas al nivel de un niño."
+description: " \"Un prompt que desentraña principios científicos complejos usando divertidas metáforas adaptadas al nivel de un niño.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

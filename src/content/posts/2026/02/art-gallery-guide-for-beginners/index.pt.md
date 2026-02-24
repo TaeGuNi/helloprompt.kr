@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Galeria de Arte para Iniciantes: Apreciando Sem Saber"
+title: " \"Guia de Galeria de Arte para Iniciantes: Apreciando Sem Saber\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "A arte moderna parece difícil? Um prompt de apreciação de arte para iniciantes que desmistifica a visita a galerias e museus."
+description: " \"A arte moderna parece difícil? Um prompt de apreciação de arte para iniciantes que desmistifica a visita a galerias e museus.\""
 tags: ["Museu de Arte", "Galeria", "Apreciação de Arte", "Encontrando Gosto"]
 ---
 

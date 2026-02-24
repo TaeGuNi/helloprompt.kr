@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Scrivere Descrizioni del Lavoro (JD) Che Attirano Candidati"
+title: " \"Scrivere Descrizioni del Lavoro (JD) Che Attirano Candidati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Come scrivere Job Description (JD) accattivanti e persuasive per attrarre i migliori talenti sul mercato."
+description: " \"Come scrivere Job Description (JD) accattivanti e persuasive per attrarre i migliori talenti sul mercato.\""
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

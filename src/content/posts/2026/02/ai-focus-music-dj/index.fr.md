@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아침 몰입도 200%! AI 집중력 DJ"
+title: " \"아침 몰입도 200%! AI 집중력 DJ\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "생산성"
-description: "Générateur de playlists sur mesure qui stimule vos ondes cérébrales pour décupler votre concentration."
+description: " \"Générateur de playlists sur mesure qui stimule vos ondes cérébrales pour décupler votre concentration.\""
 tags: ["집중력", "음악", "생산성", "몰입"]
 ---
 

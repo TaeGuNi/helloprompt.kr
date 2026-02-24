@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Korean)"
-description: "미드저니 캐릭터 레퍼런스를 활용해 일관된 캐릭터 스토리텔링을 구현하는 방법"
+title: " \"Midjourney Character Consistency (Korean)\""
+description: " \"미드저니 캐릭터 레퍼런스를 활용해 일관된 캐릭터 스토리텔링을 구현하는 방법\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

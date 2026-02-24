@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Estimation des Frais de Voyage : Plan Parfait Sans Dépassement de Budget"
+title: " \"Estimation des Frais de Voyage : Plan Parfait Sans Dépassement de Budget\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Des billets d'avion aux frais de nourriture locaux, créez un budget avec une marge d'erreur de moins de 10 % reflétant les prix réels de votre destination."
+description: " \"Des billets d'avion aux frais de nourriture locaux, créez un budget avec une marge d'erreur de moins de 10 % reflétant les prix réels de votre destination.\""
 tags: ["Voyage", "Budget", "PlanVoyage", "Frais"]
 ---
 

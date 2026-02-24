@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prétraiter Proprement des Données Excel Désordonnées"
+title: " \"Prétraiter Proprement des Données Excel Désordonnées\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Découvrez des méthodes efficaces pour nettoyer vos données Excel, comme la séparation d'adresses ou l'unification des formats de date."
+description: " \"Découvrez des méthodes efficaces pour nettoyer vos données Excel, comme la séparation d'adresses ou l'unification des formats de date.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "AI Agent Swarms (Italian)"
-description: "La collaborazione multi-agente è il nuovo standard per la risoluzione di problemi complessi"
+title: " \"AI Agent Swarms (Italian)\""
+description: " \"La collaborazione multi-agente è il nuovo standard per la risoluzione di problemi complessi\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]

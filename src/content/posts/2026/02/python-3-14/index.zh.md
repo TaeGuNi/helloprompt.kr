@@ -1,13 +1,13 @@
 ---
 date: "2026-02-13"
-description: 探索 Python 3.14 的新功能，利用专属 AI 提示词一键将旧代码重构为支持 JIT 与最新模式匹配的现代化代码。
+description: "探索 Python 3.14 的新功能，利用专属 AI 提示词一键将旧代码重构为支持 JIT 与最新模式匹配的现代化代码。"
 image: ./cover.jpg
 pubDate: "2026-02-13"
 tags:
   - python
   - programming
   - tech-trends
-title: Python 3.14：速度与类型安全的新飞跃
+title: "Python 3.14：速度与类型安全的新飞跃"
 ---
 
 # 🐍 Python 3.14：速度与类型安全的新飞跃

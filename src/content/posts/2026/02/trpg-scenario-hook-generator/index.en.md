@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Scenario Hook Generation for TRPG Masters"
+title: " \"Scenario Hook Generation for TRPG Masters\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A lifesaver for Game Masters lacking session prep time. Generates exciting introductory hooks that plunge players straight into the adventure."
+description: " \"A lifesaver for Game Masters lacking session prep time. Generates exciting introductory hooks that plunge players straight into the adventure.\""
 tags: ["TRPG", "D&D", "Scenario", "GameMaster", "Story"]
 ---
 

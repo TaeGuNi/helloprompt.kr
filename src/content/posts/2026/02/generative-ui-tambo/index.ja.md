@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Tambo SDKで始めるジェネレーティブUI (Generative UI)"
+title: " \"Tambo SDKで始めるジェネレーティブUI (Generative UI)\""
 date: 2026-02-20
-description: "Reactアプリケーション上でAIが動的にインターフェースを生成する「Generative UI」の実装手法。Tambo SDKを活用し、次世代のユーザー体験を最速で構築するプロセスを解説します。"
+description: " \"Reactアプリケーション上でAIが動的にインターフェースを生成する「Generative UI」の実装手法。Tambo SDKを活用し、次世代のユーザー体験を最速で構築するプロセスを解説します。\""
 author: "Hello Prompt Team"
 image: "/images/posts/generative-ui-tambo.png"
 tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fridge Cleanup, Reborn with a Chef's Recipe"
+title: " \"Fridge Cleanup, Reborn with a Chef's Recipe\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Living"
-description: "A frugal living prompt that generates creative and practical recipes using leftover ingredients before they expire."
+description: " \"A frugal living prompt that generates creative and practical recipes using leftover ingredients before they expire.\""
 tags: ["Cooking", "Recipe", "Living Tips"]
 ---
 

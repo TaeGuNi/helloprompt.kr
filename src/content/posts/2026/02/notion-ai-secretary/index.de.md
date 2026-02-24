@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion KI-Sekretär: Tägliche To-Do-Sortierung & Auto-Planung"
+title: " \"Notion KI-Sekretär: Tägliche To-Do-Sortierung & Auto-Planung\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Produktivitäts-Tools"
-description: "Wie man Chaos in Struktur verwandelt: Überlassen Sie Ihre ungeordneten Gedanken der Notion KI und erhalten Sie einen perfekt priorisierten Tagesplan."
+description: " \"Wie man Chaos in Struktur verwandelt: Überlassen Sie Ihre ungeordneten Gedanken der Notion KI und erhalten Sie einen perfekt priorisierten Tagesplan.\""
 tags: ["Notion", "NotionAI", "Aufgabenmanagement", "Produktivität", "GTD"]
 ---
 

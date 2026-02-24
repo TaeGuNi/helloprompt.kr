@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape Meeting Hell: Recording to Minutes & Email in 3 Mins"
+title: " \"Escape Meeting Hell: Recording to Minutes & Email in 3 Mins\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Work Automation"
-description: "A perfect workflow to automate tedious meeting minutes using Whisper and ChatGPT. An essential guide for junior professionals."
+description: " \"A perfect workflow to automate tedious meeting minutes using Whisper and ChatGPT. An essential guide for junior professionals.\""
 tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 ---
 

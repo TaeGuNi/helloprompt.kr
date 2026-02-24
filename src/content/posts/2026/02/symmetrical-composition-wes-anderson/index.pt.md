@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Beleza de Equilíbrio Perfeito 'Composição Simétrica'"
+title: " \"Beleza de Equilíbrio Perfeito 'Composição Simétrica'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt para criar uma composição estável e peculiar, onde os lados esquerdo e direito são perfeitamente simétricos, ao estilo de um filme de Wes Anderson."
+description: " \"Prompt para criar uma composição estável e peculiar, onde os lados esquerdo e direito são perfeitamente simétricos, ao estilo de um filme de Wes Anderson.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Composição", "Estilo de Arte"]
 ---

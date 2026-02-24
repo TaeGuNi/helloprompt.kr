@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escrevendo Código de Teste, Um Prompt Que Termina em 5 Minutos"
+title: " \"Escrevendo Código de Teste, Um Prompt Que Termina em 5 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Deixe a escrita chata e problemática de Testes Unitários para a IA. Desafio 100% de cobertura!"
+description: " \"Deixe a escrita chata e problemática de Testes Unitários para a IA. Desafio 100% de cobertura!\""
 tags: ["Código de Teste", "TDD", "Jest", "PyTest", "QA"]
 ---
 

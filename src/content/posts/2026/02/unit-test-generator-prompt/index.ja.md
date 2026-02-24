@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "テストコード作成、5分で終わらせるプロンプト"
+title: " \"テストコード作成、5分で終わらせるプロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "退屈で面倒な単体テスト(Unit Test)の作成はAIにお任せください。カバレッジ100%を目指して、開発スピードを劇的に向上させましょう！"
+description: " \"退屈で面倒な単体テスト(Unit Test)の作成はAIにお任せください。カバレッジ100%を目指して、開発スピードを劇的に向上させましょう！\""
 tags: ["テストコード", "TDD", "Jest", "PyTest", "QA"]
 ---
 

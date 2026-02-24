@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "L'IA non ti capisce? Usa i 'Delimitatori'"
+title: " \"L'IA non ti capisce? Usa i 'Delimitatori'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "L'IA si confonde quando riassume testi lunghi o corregge il codice? Usa la tecnica dei Delimitatori per separare le sezioni e raddoppiare la tua precisione."
+description: " \"L'IA si confonde quando riassume testi lunghi o corregge il codice? Usa la tecnica dei Delimitatori per separare le sezioni e raddoppiare la tua precisione.\""
 tags: ["Delimitatori", "Leggibilità", "Tag XML"]
 ---
 

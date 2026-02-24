@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stressabbau-Techniken nach Situation: KI-Vorschläge"
+title: " \"Stressabbau-Techniken nach Situation: KI-Vorschläge\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Gibt es einen anderen Weg, als bei Stress nur scharfe Tteokbokki zu essen? Entdecken Sie wissenschaftlich fundierte, von der KI empfohlene Methoden zum Stressabbau."
+description: " \"Gibt es einen anderen Weg, als bei Stress nur scharfe Tteokbokki zu essen? Entdecken Sie wissenschaftlich fundierte, von der KI empfohlene Methoden zum Stressabbau.\""
 tags: ["Stress", "Burnout", "Mentales Management", "Heilung", "ChatGPT"]
 ---
 

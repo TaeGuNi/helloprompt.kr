@@ -1,6 +1,6 @@
 ---
-title: "GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대"
-description: "OpenAIs GPT-5.2 hat in der theoretischen Physik neue Erkenntnisse abgeleitet und damit einen Wendepunkt für die Wissenschaft markiert. Wir analysieren diesen erstaunlichen Durchbruch und stellen einen KI-Prompt vor, mit dem sich selbst hochkomplexe wissenschaftliche Arbeiten mühelos entschlüsseln lassen."
+title: " \"GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대\""
+description: " \"OpenAIs GPT-5.2 hat in der theoretischen Physik neue Erkenntnisse abgeleitet und damit einen Wendepunkt für die Wissenschaft markiert. Wir analysieren diesen erstaunlichen Durchbruch und stellen einen KI-Prompt vor, mit dem sich selbst hochkomplexe wissenschaftliche Arbeiten mühelos entschlüsseln lassen.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "奇点陷阱"
-description: "对奇点陷阱的批判性分析：技术奇点只是为了推销 GPU 的营销神话。"
+title: " \"奇点陷阱\""
+description: " \"对奇点陷阱的批判性分析：技术奇点只是为了推销 GPU 的营销神话。\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

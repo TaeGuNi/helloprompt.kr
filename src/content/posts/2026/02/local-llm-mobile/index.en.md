@@ -1,6 +1,6 @@
 ---
-title: "Supercomputer in Your Hand: On-Device AI Revolution"
-description: "The era of high-performance local LLMs working without the cloud."
+title: " \"Supercomputer in Your Hand: On-Device AI Revolution\""
+description: " \"The era of high-performance local LLMs working without the cloud.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

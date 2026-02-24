@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Nutritionist: Personalized Weekly Meal Plan Generator"
+title: " \"AI Nutritionist: Personalized Weekly Meal Plan Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Discover how to use AI as your personal nutritionist to build a customized weekly meal plan that perfectly aligns with your goals and tastes."
+description: " \"Discover how to use AI as your personal nutritionist to build a customized weekly meal plan that perfectly aligns with your goals and tastes.\""
 tags: ["Diet", "Meal Management", "Health", "ChatGPT", "Meal Prep"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculateur de Fonds de Retraite : Quel est Mon Score de Préparation à la Retraite ?"
+title: " \"Calculateur de Fonds de Retraite : Quel est Mon Score de Préparation à la Retraite ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Éliminez l'angoisse de vieillir sans repères. Calculez avec précision le capital retraite nécessaire et l'effort d'épargne mensuel requis."
+description: " \"Éliminez l'angoisse de vieillir sans repères. Calculez avec précision le capital retraite nécessaire et l'effort d'épargne mensuel requis.\""
 tags: ["Retraite", "PrépVieillesse", "Pension", "PlanificationFinancière"]
 ---
 

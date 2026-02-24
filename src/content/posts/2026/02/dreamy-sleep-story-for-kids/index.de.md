@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Traumhafte Schlafgeschichte für Kinder: Die Wolkenzug-Reise"
+title: " \"Traumhafte Schlafgeschichte für Kinder: Die Wolkenzug-Reise\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Eine beruhigende Schlafgeschichte mit Meditations- und Entspannungstechniken, um unruhigen Kindern sanft in den Schlaf zu helfen."
+description: " \"Eine beruhigende Schlafgeschichte mit Meditations- und Entspannungstechniken, um unruhigen Kindern sanft in den Schlaf zu helfen.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

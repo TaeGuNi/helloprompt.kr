@@ -1,5 +1,5 @@
 ---
-title: "Zig I/O 업데이트: 2026년 2월 현황"
+title: " \"Zig I/O 업데이트: 2026년 2월 현황\""
 date: 2026-02-15
 tags:
   - zig

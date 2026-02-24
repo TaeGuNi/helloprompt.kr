@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Short Poetry (Insta Poetry) Generator for Shorts/Reels"
+title: " \"Short Poetry (Insta Poetry) Generator for Shorts/Reels\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Create short, emotionally resonant poetry optimized for social media engagement in just 10 seconds."
+description: " \"Create short, emotionally resonant poetry optimized for social media engagement in just 10 seconds.\""
 tags: ["Instagram", "Poetry", "EmotionalText", "SNS", "Content"]
 ---
 

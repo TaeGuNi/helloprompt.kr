@@ -1,6 +1,6 @@
 ---
-title: "Publishers Block AI Scraping (Korean)"
-description: "Data scarcity is becoming real as publishers lock down their archives."
+title: " \"Publishers Block AI Scraping (Korean)\""
+description: " \"Data scarcity is becoming real as publishers lock down their archives.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Redactando un Boletín Que Llama a los Suscriptores"
+title: " \"Redactando un Boletín Que Llama a los Suscriptores\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Con un solo tema, crea un título atractivo, el cuerpo del mensaje y contenido curado al instante."
+description: " \"Con un solo tema, crea un título atractivo, el cuerpo del mensaje y contenido curado al instante.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Background Description Converter Stimulating Reader's Five Senses"
+title: " \"Background Description Converter Stimulating Reader's Five Senses\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A writing tool that transforms plain explanatory sentences into vivid, multi-sensory descriptions (visual, auditory, olfactory, gustatory, tactile)."
+description: " \"A writing tool that transforms plain explanatory sentences into vivid, multi-sensory descriptions (visual, auditory, olfactory, gustatory, tactile).\""
 tags: ["Writing", "Description", "Novel", "Expressiveness"]
 ---
 

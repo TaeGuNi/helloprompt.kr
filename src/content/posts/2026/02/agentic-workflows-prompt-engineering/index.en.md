@@ -1,7 +1,7 @@
 ---
-title: "Prompt Engineering 3.0: The Era of Agentic Workflows"
+title: " \"Prompt Engineering 3.0: The Era of Agentic Workflows\""
 date: "2026-02-13"
-description: "Prompt engineering has evolved from single-turn optimization to multi-step, autonomous agent system design. Discover the core patterns and implementation strategies of Agentic Workflows."
+description: " \"Prompt engineering has evolved from single-turn optimization to multi-step, autonomous agent system design. Discover the core patterns and implementation strategies of Agentic Workflows.\""
 tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 ---
 

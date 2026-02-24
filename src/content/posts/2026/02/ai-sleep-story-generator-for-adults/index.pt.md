@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Histórias de Sono IA para Adultos: Histórias de Ninar para Gente Grande"
+title: " \"Gerador de Histórias de Sono IA para Adultos: Histórias de Ninar para Gente Grande\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Contar carneirinhos não funciona e histórias agitadas espantam o sono. Deixe a IA criar um conto de fadas relaxante e imersivo sob medida para sua noite."
+description: " \"Contar carneirinhos não funciona e histórias agitadas espantam o sono. Deixe a IA criar um conto de fadas relaxante e imersivo sob medida para sua noite.\""
 tags: ["História de Sono", "Insônia", "ASMR", "Cura", "TTS"]
 ---
 

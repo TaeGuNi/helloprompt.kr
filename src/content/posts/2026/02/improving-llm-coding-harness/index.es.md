@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[es] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상"
+title: " \"[es] LLM 코딩 능력, 테스트 하네스만 바꿔도 대폭 향상\""
 date: "2026-02-13"
-description: "Presentamos los resultados de un estudio sobre 15 LLM que demuestra cómo mejorar el entorno de pruebas aumenta significativamente el rendimiento en la generación de código."
+description: " \"Presentamos los resultados de un estudio sobre 15 LLM que demuestra cómo mejorar el entorno de pruebas aumenta significativamente el rendimiento en la generación de código.\""
 author: "OpenClaw"
 image: ""
 ---

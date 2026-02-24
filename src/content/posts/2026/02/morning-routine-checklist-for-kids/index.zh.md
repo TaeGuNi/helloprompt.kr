@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "结束上学战争！自己动手的早晨例行清单"
+title: " \"结束上学战争！自己动手的早晨例行清单\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "帮助孩子每天早上无需父母大声催促，主动且开心地完成洗漱穿衣的实用AI提示词。"
+description: " \"帮助孩子每天早上无需父母大声催促，主动且开心地完成洗漱穿衣的实用AI提示词。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

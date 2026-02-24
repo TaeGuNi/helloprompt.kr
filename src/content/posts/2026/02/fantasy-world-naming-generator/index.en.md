@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Naming Unique Region/City in Fantasy World"
+title: " \"Naming Unique Region/City in Fantasy World\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "From elven forests to dwarven mines, generate perfect region and city names that fit your fantasy world seamlessly."
+description: " \"From elven forests to dwarven mines, generate perfect region and city names that fit your fantasy world seamlessly.\""
 tags: ["Naming", "Fantasy", "Novel", "TRPG", "Universe"]
 ---
 

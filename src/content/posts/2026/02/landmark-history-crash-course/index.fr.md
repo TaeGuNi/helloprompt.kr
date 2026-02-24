@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cours Intensif d'Histoire des Monuments : Voyez ce que Vous Savez"
+title: " \"Cours Intensif d'Histoire des Monuments : Voyez ce que Vous Savez\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Le moment où une simple pierre se transforme en une histoire vivante. Un guide IA qui va à l'essentiel, sans jargon académique."
+description: " \"Le moment où une simple pierre se transforme en une histoire vivante. Un guide IA qui va à l'essentiel, sans jargon académique.\""
 tags: ["Voyage Historique", "Humanités", "Monument", "Voyage de Connaissance"]
 ---
 

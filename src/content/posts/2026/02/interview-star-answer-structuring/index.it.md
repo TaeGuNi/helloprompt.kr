@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Quando Risposta Colloquio Divaga! Prompt Strutturazione Risposta 'Tecnica STAR'"
+title: " \"Quando Risposta Colloquio Divaga! Prompt Strutturazione Risposta 'Tecnica STAR'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Per chi si dilunga e perde il filo durante i colloqui: un prompt per strutturare ogni risposta sull'esperienza con la tecnica STAR (Situazione-Compito-Azione-Risultato)."
+description: " \"Per chi si dilunga e perde il filo durante i colloqui: un prompt per strutturare ogni risposta sull'esperienza con la tecnica STAR (Situazione-Compito-Azione-Risultato).\""
 tags: ["TecnicaSTAR", "RispostaColloquio", "Strutturazione", "ParlareLogico"]
 ---
 

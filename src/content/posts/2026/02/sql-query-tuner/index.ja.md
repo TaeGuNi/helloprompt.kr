@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "遅すぎるSQLクエリ、3秒でチューニングする秘訣"
+title: " \"遅すぎるSQLクエリ、3秒でチューニングする秘訣\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "複雑で非効率なSQLクエリを瞬時に分析・最適化し、最適なインデックスまで提案するAIプロンプトをご紹介します。"
+description: " \"複雑で非効率なSQLクエリを瞬時に分析・最適化し、最適なインデックスまで提案するAIプロンプトをご紹介します。\""
 tags: ["SQL", "DBチューニング", "クエリ最適化", "データベース"]
 ---
 

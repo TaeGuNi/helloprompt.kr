@@ -1,6 +1,6 @@
 ---
-title: "Physical AI: AI가 몸을 얻었을 때"
-description: "LG AI연구원의 엑사원(EXAONE)과 로봇 공학의 만남. 피지컬 AI 시대에 대비하는 비즈니스 적용 시나리오 도출 프롬프트를 소개합니다."
+title: " \"Physical AI: AI가 몸을 얻었을 때\""
+description: " \"LG AI연구원의 엑사원(EXAONE)과 로봇 공학의 만남. 피지컬 AI 시대에 대비하는 비즈니스 적용 시나리오 도출 프롬프트를 소개합니다.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "宅家游戏的终结者：'接力画画编故事'"
+title: " \"宅家游戏的终结者：'接力画画编故事'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "利用AI生成的奇思妙想，与孩子一起接力画画编故事，轻松度过趣味亲子时光。"
+description: " \"利用AI生成的奇思妙想，与孩子一起接力画画编故事，轻松度过趣味亲子时光。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "느려터진 SQL 쿼리, 3초 만에 튜닝하는 비법"
+title: " \"느려터진 SQL 쿼리, 3초 만에 튜닝하는 비법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.179Z"
 category: "코딩/개발"
-description: "복잡하고 비효율적인 SQL 쿼리를 분석하여 성능을 최적화하고 최적의 인덱스를 추천받는 실전 프롬프트입니다."
+description: " \"복잡하고 비효율적인 SQL 쿼리를 분석하여 성능을 최적화하고 최적의 인덱스를 추천받는 실전 프롬프트입니다.\""
 tags: ["SQL", "DB튜닝", "쿼리최적화", "데이터베이스"]
 ---
 

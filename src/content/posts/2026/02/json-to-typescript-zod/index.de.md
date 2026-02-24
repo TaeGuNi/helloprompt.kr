@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Einfach JSON werfen und TypeScript-Typdefinition taucht auf! (feat. Zod)"
+title: " \"Einfach JSON werfen und TypeScript-Typdefinition taucht auf! (feat. Zod)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der komplexe JSON-Daten automatisch in typsichere TypeScript-Schnittstellen und Zod-Schemata umwandelt."
+description: " \"Ein Prompt, der komplexe JSON-Daten automatisch in typsichere TypeScript-Schnittstellen und Zod-Schemata umwandelt.\""
 tags: ["TypeScript", "Zod", "JSON", "Typdefinition", "Produktivität"]
 ---
 

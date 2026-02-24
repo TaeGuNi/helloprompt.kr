@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Se l'API è Paragonata a un Ristorante? Distributore Automatico di Metafore di Concetti di Coding"
+title: " \"Se l'API è Paragonata a un Ristorante? Distributore Automatico di Metafore di Concetti di Coding\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "Prompt che spiega concetti IT astratti e difficili confrontandoli con oggetti o situazioni quotidiane in modo che anche gli studenti delle elementari possano capire."
+description: " \"Prompt che spiega concetti IT astratti e difficili confrontandoli con oggetti o situazioni quotidiane in modo che anche gli studenti delle elementari possano capire.\""
 tags: ["BasiCoding", "Metafora", "TerminiIT", "SpiegazioneFacile"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Due Immagini in Una 'Doppia Esposizione'"
+title: " \"Due Immagini in Una 'Doppia Esposizione'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Tecnica fotografica della doppia esposizione che fonde due immagini per creare composizioni visive surreali e affascinanti."
+description: " \"Tecnica fotografica della doppia esposizione che fonde due immagini per creare composizioni visive surreali e affascinanti.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effetto", "Surrealismo"]
 ---
 

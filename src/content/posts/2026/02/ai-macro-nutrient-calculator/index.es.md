@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Macronutrientes con IA: Solo Toma una Foto"
+title: " \"Calculadora de Macronutrientes con IA: Solo Toma una Foto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¡Deja de introducir calorías complejas en aplicaciones! Cómo calcular proporciones precisas de carbohidratos, proteínas y grasas simplemente dictándole a la IA o subiendo una foto."
+description: " \"¡Deja de introducir calorías complejas en aplicaciones! Cómo calcular proporciones precisas de carbohidratos, proteínas y grasas simplemente dictándole a la IA o subiendo una foto.\""
 tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Registro de Comidas"]
 ---
 

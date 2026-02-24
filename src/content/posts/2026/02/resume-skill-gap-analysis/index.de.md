@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vergleich meines Lebenslaufs und JD: 'Skill Gap' Diagnose-Prompt"
+title: " \"Vergleich meines Lebenslaufs und JD: 'Skill Gap' Diagnose-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Vergleichen Sie die Stellenbeschreibung (JD) mit Ihrem Lebenslauf, um Kompetenzlücken zu identifizieren und eine maßgeschneiderte Bewerbungsstrategie zu entwickeln."
+description: " \"Vergleichen Sie die Stellenbeschreibung (JD) mit Ihrem Lebenslauf, um Kompetenzlücken zu identifizieren und eine maßgeschneiderte Bewerbungsstrategie zu entwickeln.\""
 tags:
   ["SkillGapAnalyse", "LebenslaufDiagnose", "KarriereStrategie", "JDAnalyse"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI生成的HIIT锻炼程序：20分钟大汗淋漓"
+title: " \"AI生成的HIIT锻炼程序：20分钟大汗淋漓\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "时间紧迫却渴望高效减脂？让AI为你量身定制每天不重样的高强度间歇训练（HIIT）专属计划。"
+description: " \"时间紧迫却渴望高效减脂？让AI为你量身定制每天不重样的高强度间歇训练（HIIT）专属计划。\""
 tags: ["HIIT", "Tabata", "节食", "锻炼", "ChatGPT"]
 ---
 

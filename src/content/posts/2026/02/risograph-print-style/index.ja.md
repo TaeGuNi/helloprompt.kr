@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ヴィンテージ印刷感性「Risograph Print」スタイル"
+title: " \"ヴィンテージ印刷感性「Risograph Print」スタイル\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "特有の網点と色ずれが魅力的なリソグラフ（Risograph）印刷スタイルのプロンプトです。"
+description: " \"特有の網点と色ずれが魅力的なリソグラフ（Risograph）印刷スタイルのプロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (Simplified Chinese)"
-description: "手机上的本地 AI 模型终于足够强大，可以取代云服务来处理日常任务。"
+title: " \"True Offline AI on Mobile (Simplified Chinese)\""
+description: " \"手机上的本地 AI 模型终于足够强大，可以取代云服务来处理日常任务。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

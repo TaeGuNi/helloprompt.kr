@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt Transformando Experiência de Projeto Comum em 'Portfólio Atraente'"
+title: " \"Prompt Transformando Experiência de Projeto Comum em 'Portfólio Atraente'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Refine a descrição do seu projeto em formato de narrativa para destacar o processo de resolução de problemas e a sua contribuição, em vez de uma simples lista de tarefas."
+description: " \"Refine a descrição do seu projeto em formato de narrativa para destacar o processo de resolução de problemas e a sua contribuição, em vez de uma simples lista de tarefas.\""
 tags: ["Portfólio", "DescriçãoProjeto", "DescriçãoCarreira", "Narrativa"]
 ---
 

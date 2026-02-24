@@ -1,6 +1,6 @@
 ---
-title: "Halluzinationen reduzieren: Auf dem Weg zu zuverlässiger KI"
-description: "Die neuesten Prompting-Techniken für 2026, um KI am Lügen zu hindern. Von Grounding bis zur Chain of Verification (CoVe)."
+title: " \"Halluzinationen reduzieren: Auf dem Weg zu zuverlässiger KI\""
+description: " \"Die neuesten Prompting-Techniken für 2026, um KI am Lügen zu hindern. Von Grounding bis zur Chain of Verification (CoVe).\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

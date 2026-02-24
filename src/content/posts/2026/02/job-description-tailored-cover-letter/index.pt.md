@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Rascunho de Carta de Apresentação Adaptada a JD (Descrição do Trabalho)"
+title: " \"Gerador de Rascunho de Carta de Apresentação Adaptada a JD (Descrição do Trabalho)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Analise a Descrição da Vaga (JD) com IA e gere, em apenas 1 minuto, um rascunho de carta de apresentação perfeitamente alinhado ao perfil desejado pela empresa."
+description: " \"Analise a Descrição da Vaga (JD) com IA e gere, em apenas 1 minuto, um rascunho de carta de apresentação perfeitamente alinhado ao perfil desejado pela empresa.\""
 tags: ["CartaApresentação", "AutoIntro", "AnáliseJD", "Trabalho"]
 ---
 

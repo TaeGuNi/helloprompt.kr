@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (ja)"
-description: "AI生成映画がハリウッドにもたらす地殻変動についての考察と実践的なプロンプトガイド。"
+title: " \"AI-Generated Movies: The Hollywood Shift (ja)\""
+description: " \"AI生成映画がハリウッドにもたらす地殻変動についての考察と実践的なプロンプトガイド。\""
 date: "2026-02-14"
 ---
 

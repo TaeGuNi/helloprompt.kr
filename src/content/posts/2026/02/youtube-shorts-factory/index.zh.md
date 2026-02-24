@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube Shorts 工厂：只需给主题，30秒生成脚本+分镜"
+title: " \"YouTube Shorts 工厂：只需给主题，30秒生成脚本+分镜\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "内容创作"
-description: "将爆款短视频公式 (Hook-Body-CTA) 注入AI，无限量产脚本的方法。"
+description: " \"将爆款短视频公式 (Hook-Body-CTA) 注入AI，无限量产脚本的方法。\""
 tags: ["YouTube", "Shorts", "脚本写作", "创作者", "TikTok"]
 ---
 

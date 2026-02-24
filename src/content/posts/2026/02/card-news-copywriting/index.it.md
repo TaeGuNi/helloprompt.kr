@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Segreti di Copywriting Card News Che Chiamano i Clic"
+title: " \"Segreti di Copywriting Card News Che Chiamano i Clic\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Scrittura"
-description: "Un prompt per estrarre titoli magnetici e copy per card news capaci di fermare lo scorrimento sui feed di Instagram."
+description: " \"Un prompt per estrarre titoli magnetici e copy per card news capaci di fermare lo scorrimento sui feed di Instagram.\""
 tags: ["Card News", "Copywriting", "Marketing SNS"]
 ---
 

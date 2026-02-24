@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gioco 'Sciarada' Indovina Emozioni: Sviluppare l'Intelligenza Emotiva"
+title: " \"Gioco 'Sciarada' Indovina Emozioni: Sviluppare l'Intelligenza Emotiva\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Proposta di gioco di ruolo AI per sviluppare l'empatia e l'espressione emotiva dei bambini."
+description: " \"Proposta di gioco di ruolo AI per sviluppare l'empatia e l'espressione emotiva dei bambini.\""
 tags:
   [
     "Genitorialità",

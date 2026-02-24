@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro: 실전 코딩 벤치마크"
+title: " \"Gemini 3 Pro: 실전 코딩 벤치마크\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Gemini 3 Pro의 압도적인 코딩 성능을 100% 끌어내는 실전 프롬프트와 Python, Rust, Java 마이그레이션 최적화 비법을 공개합니다."
+description: " \"Gemini 3 Pro의 압도적인 코딩 성능을 100% 끌어내는 실전 프롬프트와 Python, Rust, Java 마이그레이션 최적화 비법을 공개합니다.\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

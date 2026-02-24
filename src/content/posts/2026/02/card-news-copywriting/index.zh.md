@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "吸引点击的卡片新闻文案撰写秘密"
+title: " \"吸引点击的卡片新闻文案撰写秘密\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "写作"
-description: "生成能让人在 Instagram 信息流中瞬间停下手指的爆款卡片新闻标题与文案。"
+description: " \"生成能让人在 Instagram 信息流中瞬间停下手指的爆款卡片新闻标题与文案。\""
 tags: ["卡片新闻", "文案撰写", "SNS营销"]
 ---
 

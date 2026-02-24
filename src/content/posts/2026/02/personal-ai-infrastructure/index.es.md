@@ -1,8 +1,8 @@
 ---
-title: "Construyendo una Infraestructura de IA Personal: Por qué deberías ser dueño de tu pila de IA"
+title: " \"Construyendo una Infraestructura de IA Personal: Por qué deberías ser dueño de tu pila de IA\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Aprende a diseñar tu propia infraestructura de IA local para garantizar la privacidad de tus datos y liberarte de la dependencia del SaaS."
+description: " \"Aprende a diseñar tu propia infraestructura de IA local para garantizar la privacidad de tus datos y liberarte de la dependencia del SaaS.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

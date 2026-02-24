@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "成人AI睡眠故事生成器：大人的睡前故事"
+title: " \"成人AI睡眠故事生成器：大人的睡前故事\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康与保健"
-description: "数羊太无聊，恐怖故事太清醒……让AI为你量身定制一篇慵懒宁静的“成人睡前童话”，助你快速入眠。"
+description: " \"数羊太无聊，恐怖故事太清醒……让AI为你量身定制一篇慵懒宁静的“成人睡前童话”，助你快速入眠。\""
 tags: ["睡眠故事", "失眠", "ASMR", "治愈", "TTS"]
 ---
 

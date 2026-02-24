@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interprète d'Indicateur Auxiliaire de Graphique : Saisir le Moment d'Achat"
+title: " \"Interprète d'Indicateur Auxiliaire de Graphique : Saisir le Moment d'Achat\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger."
+description: " \"L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger.\""
 tags: ["Action", "AnalyseGraphique", "AnalyseTechnique", "Trading"]
 ---
 

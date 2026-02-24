@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nommer des Produits Qui se Vendent : Générateur de Noms"
+title: " \"Nommer des Produits Qui se Vendent : Générateur de Noms\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Un prompt qui génère des noms de produits percutants, reflétant l'identité de votre marque en quelques secondes."
+description: " \"Un prompt qui génère des noms de produits percutants, reflétant l'identité de votre marque en quelques secondes.\""
 tags: ["Marketing", "Nommage", "Marque", "Rédaction Publicitaire"]
 ---
 

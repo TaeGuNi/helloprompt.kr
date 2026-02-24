@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secuencia de Yoga Personalizada para Cuerpos Rígidos: Maestro de IA"
+title: " \"Secuencia de Yoga Personalizada para Cuerpos Rígidos: Maestro de IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Te da vergüenza ir a un estudio de yoga por tu falta de flexibilidad? Crea tu propia rutina suave en casa con la ayuda de un instructor de IA."
+description: " \"¿Te da vergüenza ir a un estudio de yoga por tu falta de flexibilidad? Crea tu propia rutina suave en casa con la ayuda de un instructor de IA.\""
 tags:
   ["Yoga", "Estiramiento", "Flexibilidad", "Entrenamiento en Casa", "ChatGPT"]
 ---

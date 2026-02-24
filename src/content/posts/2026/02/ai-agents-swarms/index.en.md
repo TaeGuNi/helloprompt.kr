@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms"
-description: "Analysis of AI Agents 2.0: Collaborative Swarms."
+title: " \"AI Agents 2.0: Collaborative Swarms\""
+description: " \"Analysis of AI Agents 2.0: Collaborative Swarms.\""
 date: "2026-02-14"
 ---
 

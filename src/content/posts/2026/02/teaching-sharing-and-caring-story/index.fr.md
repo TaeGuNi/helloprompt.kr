@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Enseigner le Partage et l'Attention : Une Histoire Morale pour Enfants"
+title: " \"Enseigner le Partage et l'Attention : Une Histoire Morale pour Enfants\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Une histoire sur des 'Bonbons Magiques' qui change un enfant gourmand."
+description: " \"Une histoire sur des 'Bonbons Magiques' qui change un enfant gourmand.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

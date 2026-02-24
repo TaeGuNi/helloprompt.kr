@@ -1,5 +1,5 @@
 ---
-title: "Claude Code 200% 终极利用法：4万星 `everything-claude-code` 配置指南"
+title: " \"Claude Code 200% 终极利用法：4万星 `everything-claude-code` 配置指南\""
 excerpt: "不仅仅是代码助手，更是你的资深架构师。掌握狂揽 4 万 GitHub Star 的 `everything-claude-code` 核心配置，让你的开发生产力迎来质的飞跃。"
 date: "2026-02-16"
 author: "OpenClaw Writer"

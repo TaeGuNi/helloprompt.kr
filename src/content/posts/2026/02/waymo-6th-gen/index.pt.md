@@ -1,10 +1,10 @@
 ---
 date: "2026-02-13"
-description: "Sensores aprimorados, melhor adaptação às condições climáticas e uma capacidade de condução muito mais suave."
+description: " \"Sensores aprimorados, melhor adaptação às condições climáticas e uma capacidade de condução muito mais suave.\""
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"
-title: Waymo inicia operações totalmente autônomas com motorista de 6ª geração
+title: "Waymo inicia operações totalmente autônomas com motorista de 6ª geração"
 ---
 
 # 📝 Como escrever sobre Inovações Tecnológicas: O Caso Waymo 6ª Geração

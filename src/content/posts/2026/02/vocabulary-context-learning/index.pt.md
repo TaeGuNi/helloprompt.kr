@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mestre de Vocabulário em Inglês Aprendendo com Contexto"
+title: " \"Mestre de Vocabulário em Inglês Aprendendo com Contexto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "Diga adeus à memorização mecânica! Descubra um prompt para dominar perfeitamente as nuances e o uso de palavras em inglês em contextos reais."
+description: " \"Diga adeus à memorização mecânica! Descubra um prompt para dominar perfeitamente as nuances e o uso de palavras em inglês em contextos reais.\""
 tags: ["AprendizagemDeInglês", "MemorizaçãoDePalavras", "Prompt", "Educação"]
 ---
 

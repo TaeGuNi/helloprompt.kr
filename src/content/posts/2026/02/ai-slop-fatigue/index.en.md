@@ -1,6 +1,6 @@
 ---
-title: "AI Slop Fatigue: Why 'No AI' Is the New Premium"
-description: "As low-quality AI-generated content floods the web, user fatigue is setting in. We analyze why 'No AI' is becoming a mark of premium quality and how to navigate this new landscape."
+title: " \"AI Slop Fatigue: Why 'No AI' Is the New Premium\""
+description: " \"As low-quality AI-generated content floods the web, user fatigue is setting in. We analyze why 'No AI' is becoming a mark of premium quality and how to navigate this new landscape.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

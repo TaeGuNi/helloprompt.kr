@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "습관 쌓기 설계자 (Habit Stacking)"
+title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "작심삼일을 끝내는 과학적인 습관 형성 전략 '해빗 스태킹' 가이드."
+description: " \"작심삼일을 끝내는 과학적인 습관 형성 전략 '해빗 스태킹' 가이드.\""
 tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "알 수 없는 에러 로그, 10초 만에 원인 분석하기"
+title: " \"알 수 없는 에러 로그, 10초 만에 원인 분석하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "개발"
-description: "수천 줄의 복잡한 에러 로그 속에서 진짜 원인(Root Cause)을 찾아내고, 해결 코드까지 제안받는 시니어 개발자급 디버깅 프롬프트입니다."
+description: " \"수천 줄의 복잡한 에러 로그 속에서 진짜 원인(Root Cause)을 찾아내고, 해결 코드까지 제안받는 시니어 개발자급 디버깅 프롬프트입니다.\""
 tags: ["디버깅", "에러로그", "트러블슈팅"]
 ---
 

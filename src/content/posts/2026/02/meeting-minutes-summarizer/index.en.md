@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Summarizing Rambling Meeting Minutes Neatly"
+title: " \"Summarizing Rambling Meeting Minutes Neatly\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Converted a meeting recording to text, but it's too long? Here is a summary prompt that extracts only the core insights."
+description: " \"Converted a meeting recording to text, but it's too long? Here is a summary prompt that extracts only the core insights.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

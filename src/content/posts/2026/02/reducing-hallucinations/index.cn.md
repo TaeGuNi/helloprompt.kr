@@ -1,6 +1,6 @@
 ---
-title: "减少幻觉：迈向可信赖的AI"
-description: "2026年防止AI撒谎的最新技术。从事实溯源（Grounding）到验证链（CoVe）。"
+title: " \"减少幻觉：迈向可信赖的AI\""
+description: " \"2026年防止AI撒谎的最新技术。从事实溯源（Grounding）到验证链（CoVe）。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 꿈을 데이터로 분석해주는 AI 해몽 비서"
+title: " \"내 꿈을 데이터로 분석해주는 AI 해몽 비서\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/창의성"
-description: "Dachtest du, es war nur ein wirrer Traum? Wir analysieren dein Unterbewusstsein basierend auf Freud'scher Psychologie und Daten."
+description: " \"Dachtest du, es war nur ein wirrer Traum? Wir analysieren dein Unterbewusstsein basierend auf Freud'scher Psychologie und Daten.\""
 tags: ["꿈일기", "심리분석", "창의력", "해몽"]
 ---
 

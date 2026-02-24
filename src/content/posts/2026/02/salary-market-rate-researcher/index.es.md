@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Soy un Tonto? Agente de Investigación y Análisis de 'Tasa de Mercado'"
+title: " \"¿Soy un Tonto? Agente de Investigación y Análisis de 'Tasa de Mercado'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Compara y analiza tu rango salarial promedio según tu puesto y experiencia utilizando datos reales de reclutamiento para obtener argumentos objetivos de negociación."
+description: " \"Compara y analiza tu rango salarial promedio según tu puesto y experiencia utilizando datos reales de reclutamiento para obtener argumentos objetivos de negociación.\""
 tags:
   [
     "AnálisisSalarial",

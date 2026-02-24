@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nomeando Produtos Que Vendem: Gerador de Nomes"
+title: " \"Nomeando Produtos Que Vendem: Gerador de Nomes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Um prompt que gera nomes de produtos atraentes e que capturam a essência da marca em apenas 3 segundos."
+description: " \"Um prompt que gera nomes de produtos atraentes e que capturam a essência da marca em apenas 3 segundos.\""
 tags: ["Marketing", "Nomeação", "Branding", "Copywriting"]
 ---
 

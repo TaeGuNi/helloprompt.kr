@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Histoire de Lavage des Mains et des Microbes pour Enfants"
+title: " \"Histoire de Lavage des Mains et des Microbes pour Enfants\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Une approche scientifique et ludique pour convaincre votre enfant de se laver les mains sans rouspéter."
+description: " \"Une approche scientifique et ludique pour convaincre votre enfant de se laver les mains sans rouspéter.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

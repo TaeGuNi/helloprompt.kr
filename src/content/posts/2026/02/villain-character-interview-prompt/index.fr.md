@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créer un Méchant en 3D : Prompt d'Entrevue Approfondie en 3 Étapes"
+title: " \"Créer un Méchant en 3D : Prompt d'Entrevue Approfondie en 3 Étapes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Un antagoniste charismatique est le cœur de toute bonne histoire. Interviewez directement votre méchant pour révéler son récit caché."
+description: " \"Un antagoniste charismatique est le cœur de toute bonne histoire. Interviewez directement votre méchant pour révéler son récit caché.\""
 tags: ["RéglagePersonnage", "ÉcritureRoman", "Méchant", "Entrevue"]
 ---
 

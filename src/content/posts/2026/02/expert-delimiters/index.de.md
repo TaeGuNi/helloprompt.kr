@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI versteht Sie nicht? Verwenden Sie 'Trennzeichen' (Delimiters)"
+title: " \"KI versteht Sie nicht? Verwenden Sie 'Trennzeichen' (Delimiters)\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Nutzen Sie die Trennzeichen-Technik, um Abschnitte zu trennen und Ihre Genauigkeit zu verdoppeln."
+description: " \"Ist die KI verwirrt, wenn sie lange Texte zusammenfasst oder Code korrigiert? Nutzen Sie die Trennzeichen-Technik, um Abschnitte zu trennen und Ihre Genauigkeit zu verdoppeln.\""
 tags: ["Trennzeichen", "Lesbarkeit", "XML-Tags"]
 ---
 

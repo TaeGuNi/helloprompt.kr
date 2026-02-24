@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "解读离职者留下的密码文 (遗留代码)"
+title: " \"解读离职者留下的密码文 (遗留代码)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "一款能让AI逐行分析无文档、无注释的晦涩遗留代码，并用通俗语言为您解读的实用提示词。"
+description: " \"一款能让AI逐行分析无文档、无注释的晦涩遗留代码，并用通俗语言为您解读的实用提示词。\""
 tags: ["遗留", "代码分析", "维护", "交接"]
 ---
 

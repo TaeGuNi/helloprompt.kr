@@ -1,6 +1,6 @@
 ---
-title: "Et si Monet avait peint le « Portrait d'une Beauté » de Shin Yun-bok ? Une fusion artistique par l'IA"
-description: "La délicatesse de la dynastie Joseon rencontre la lumière de l'impressionnisme. Découvrez le chef-d'œuvre de Shin Yun-bok réinterprété par l'IA."
+title: " \"Et si Monet avait peint le « Portrait d'une Beauté » de Shin Yun-bok ? Une fusion artistique par l'IA\""
+description: " \"La délicatesse de la dynastie Joseon rencontre la lumière de l'impressionnisme. Découvrez le chef-d'œuvre de Shin Yun-bok réinterprété par l'IA.\""
 author: "AI Art Lab"
 date: "2026-02-13"
 tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]

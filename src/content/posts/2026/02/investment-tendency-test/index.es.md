@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mi Prueba de Tendencia de Inversión: ¿Cobarde o Bestia?"
+title: " \"Mi Prueba de Tendencia de Inversión: ¿Cobarde o Bestia?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: "Olvídate de las aburridas encuestas bancarias. Descubre tu verdadera tolerancia al riesgo financiero con la ayuda de la IA."
+description: " \"Olvídate de las aburridas encuestas bancarias. Descubre tu verdadera tolerancia al riesgo financiero con la ayuda de la IA.\""
 tags:
   [
     "TendenciaInversión",

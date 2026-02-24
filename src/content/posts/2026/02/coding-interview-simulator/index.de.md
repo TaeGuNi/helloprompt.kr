@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entwickler-Interview Freipass: Algorithmus-Interview Probeprüfung"
+title: " \"Entwickler-Interview Freipass: Algorithmus-Interview Probeprüfung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"
-description: "Ein Prompt, der ein realistisches KI-Interview simuliert, um Sie optimal auf Coding-Tests und technische Interviews bei Top-Tech-Unternehmen vorzubereiten."
+description: " \"Ein Prompt, der ein realistisches KI-Interview simuliert, um Sie optimal auf Coding-Tests und technische Interviews bei Top-Tech-Unternehmen vorzubereiten.\""
 tags:
   ["Codierungstest", "TechnischesInterview", "Algorithmus", "Jobvorbereitung"]
 ---

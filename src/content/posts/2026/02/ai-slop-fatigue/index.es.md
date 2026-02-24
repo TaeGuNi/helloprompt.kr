@@ -1,6 +1,6 @@
 ---
-title: "Fatiga del 'Slop' de IA: Por qué 'No IA' es el Nuevo Premium"
-description: "A medida que el contenido de baja calidad generado por IA inunda la web, la fatiga del usuario se asienta. Analizamos por qué 'No IA' se está convirtiendo en un sello de calidad."
+title: " \"Fatiga del 'Slop' de IA: Por qué 'No IA' es el Nuevo Premium\""
+description: " \"A medida que el contenido de baja calidad generado por IA inunda la web, la fatiga del usuario se asienta. Analizamos por qué 'No IA' se está convirtiendo en un sello de calidad.\""
 date: 2026-02-14
 cover: "./cover.jpg"
 tags: ["AI", "Tech Trends", "Culture"]

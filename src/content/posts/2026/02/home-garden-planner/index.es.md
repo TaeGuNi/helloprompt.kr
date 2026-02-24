@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "¡Escapa de la maldición del 'asesino de plantas'! Desde recomendaciones de plantas ideales para la luz y ventilación de tu hogar, hasta cómo revivir macetas moribundas con tu asistente de jardinería IA."
+description: " \"¡Escapa de la maldición del 'asesino de plantas'! Desde recomendaciones de plantas ideales para la luz y ventilación de tu hogar, hasta cómo revivir macetas moribundas con tu asistente de jardinería IA.\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

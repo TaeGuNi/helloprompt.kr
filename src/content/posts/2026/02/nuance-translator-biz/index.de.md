@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Übersetzung jenseits des Übersetzers: 'Nuancen' korrigieren (Geschäftsenglisch)"
+title: " \"Übersetzung jenseits des Übersetzers: 'Nuancen' korrigieren (Geschäftsenglisch)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Sprache/Übersetzung"
-description: "Wörter sind richtig, aber der Ton wirkt unhöflich? Ein KI-Prompt zur perfekten Abstimmung von Höflichkeit, Nuancen und versteckten Absichten in geschäftlichen E-Mails."
+description: " \"Wörter sind richtig, aber der Ton wirkt unhöflich? Ein KI-Prompt zur perfekten Abstimmung von Höflichkeit, Nuancen und versteckten Absichten in geschäftlichen E-Mails.\""
 tags: ["Übersetzung", "E-Mail", "Geschäftsenglisch", "ChatGPT", "DeepL"]
 ---
 

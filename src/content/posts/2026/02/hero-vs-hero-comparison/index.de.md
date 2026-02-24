@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Held vs Held: Vergleichende Analyse der Rivalen des Jahrhunderts"
+title: " \"Held vs Held: Vergleichende Analyse der Rivalen des Jahrhunderts\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: "Ein Prompt, der große Persönlichkeiten aus verschiedenen Epochen und Ländern 1:1 vergleicht, um faszinierende Gemeinsamkeiten und Unterschiede zu analysieren."
+description: " \"Ein Prompt, der große Persönlichkeiten aus verschiedenen Epochen und Ländern 1:1 vergleicht, um faszinierende Gemeinsamkeiten und Unterschiede zu analysieren.\""
 tags: ["Geschichte", "Personenanalyse", "VergleichendeKultur", "Prompt"]
 ---
 

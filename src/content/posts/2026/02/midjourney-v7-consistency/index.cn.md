@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Simplified Chinese)"
-description: "利用角色参考功能 (Character Reference) 彻底改变AI叙事与绘图流程"
+title: " \"Midjourney Character Consistency (Simplified Chinese)\""
+description: " \"利用角色参考功能 (Character Reference) 彻底改变AI叙事与绘图流程\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

@@ -1,7 +1,7 @@
 ---
 category: Technology
 date: "2026-02-17"
-description: "OpenAIの軽量高性能モデル「GPT-5.3 Codex Spark」の超低レイテンシと200kコンテキストを最大限に活用し、開発プロセスを劇的に加速させるプロンプト戦略を解説します。"
+description: " \"OpenAIの軽量高性能モデル「GPT-5.3 Codex Spark」の超低レイテンシと200kコンテキストを最大限に活用し、開発プロセスを劇的に加速させるプロンプト戦略を解説します。\""
 draft: false
 published: 2026-02-13
 tags:
@@ -10,7 +10,7 @@ tags:
   - Codex
   - OpenAI
   - Development
-title: "GPT-5.3 Codex Spark: 開発者のための超高速コーディングAI"
+title: " \"GPT-5.3 Codex Spark: 開発者のための超高速コーディングAI\""
 ---
 
 # 📝 GPT-5.3 Codex Spark: 開発生産性の新しい基準

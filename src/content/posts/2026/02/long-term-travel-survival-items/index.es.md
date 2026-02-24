@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Artículos de Supervivencia para Viajeros de Larga Duración y Nómadas Digitales"
+title: " \"Guía de Artículos de Supervivencia para Viajeros de Larga Duración y Nómadas Digitales\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Hogar lejos del hogar? Descubre los artículos esenciales que mejorarán drásticamente tu calidad de vida en viajes largos."
+description: " \"¿Hogar lejos del hogar? Descubre los artículos esenciales que mejorarán drásticamente tu calidad de vida en viajes largos.\""
 tags:
   [
     "Viajes de Larga Duración",

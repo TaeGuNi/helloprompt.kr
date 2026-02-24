@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tempo d'Oro del Colloquio! Scrittore di 'Email di Ringraziamento' da Inviare Immediatamente Dopo"
+title: " \"Tempo d'Oro del Colloquio! Scrittore di 'Email di Ringraziamento' da Inviare Immediatamente Dopo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Genera un'email di ringraziamento professionale da inviare subito dopo un colloquio per lasciare un'impressione memorabile."
+description: " \"Genera un'email di ringraziamento professionale da inviare subito dopo un colloquio per lasciare un'impressione memorabile.\""
 tags:
   [
     "EmailDiRingraziamento",

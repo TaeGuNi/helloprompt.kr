@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Rotina de Sono IA: Ensinando ao Seu Cérebro que é Hora de Dormir"
+title: " \"Gerador de Rotina de Sono IA: Ensinando ao Seu Cérebro que é Hora de Dormir\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde e Bem-estar"
-description: "Crie um 'ritual do sono' personalizado com IA e treine seu cérebro para adormecer rapidamente, usando princípios de condicionamento comportamental."
+description: " \"Crie um 'ritual do sono' personalizado com IA e treine seu cérebro para adormecer rapidamente, usando princípios de condicionamento comportamental.\""
 tags: ["Rotina de Sono", "Insônia", "Hábito", "Saúde", "ChatGPT"]
 ---
 

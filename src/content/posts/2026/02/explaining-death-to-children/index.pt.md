@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Explicando a Morte para Crianças: Um Guia Caloroso"
+title: " \"Explicando a Morte para Crianças: Um Guia Caloroso\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Como explicar a morte e confortar uma criança que está lidando com a perda de forma saudável e amorosa."
+description: " \"Como explicar a morte e confortar uma criança que está lidando com a perda de forma saudável e amorosa.\""
 tags:
   [
     "Parentalidade",

@@ -1,6 +1,6 @@
 ---
-title: "Header-only C Vector Database"
-description: "Промпт для создания сверхлегкой векторной базы данных на C (Header-only) без зависимостей, оптимизированной для встроенных систем и Edge AI."
+title: " \"Header-only C Vector Database\""
+description: " \"Промпт для создания сверхлегкой векторной базы данных на C (Header-only) без зависимостей, оптимизированной для встроенных систем и Edge AI.\""
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

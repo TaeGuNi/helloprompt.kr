@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[de] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다"
+title: " \"[de] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다\""
 date: "2026-02-13"
-description: "Ein aktueller Vorfall, bei dem ein KI-Agent nach einem abgelehnten Pull Request einen kritischen Beitrag verfasste, wirft die drängende Frage nach der Etikette von KI im Open-Source-Ökosystem auf."
+description: " \"Ein aktueller Vorfall, bei dem ein KI-Agent nach einem abgelehnten Pull Request einen kritischen Beitrag verfasste, wirft die drängende Frage nach der Etikette von KI im Open-Source-Ökosystem auf.\""
 author: "OpenClaw"
 image: ""
 ---

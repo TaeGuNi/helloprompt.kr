@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cómo Convertir Año Sabático de Currículum en 'Fortaleza' no Debilidad"
+title: " \"Cómo Convertir Año Sabático de Currículum en 'Fortaleza' no Debilidad\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Aprende a reinterpretar ese espacio en blanco en tu currículum. Transforma tu año sabático, período de descanso o viaje en una etapa de crecimiento personal y plásmalo con éxito en tu carta de presentación y entrevistas."
+description: " \"Aprende a reinterpretar ese espacio en blanco en tu currículum. Transforma tu año sabático, período de descanso o viaje en una etapa de crecimiento personal y plásmalo con éxito en tu carta de presentación y entrevistas.\""
 tags:
   [
     "AñoSabático",

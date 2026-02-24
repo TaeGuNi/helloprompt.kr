@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Redis 캐싱 전략: 조회 속도 100배 빠르게 만들기"
+title: " \"Redis 캐싱 전략: 조회 속도 100배 빠르게 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"
-description: "DBの負荷を軽減し、応答速度を飛躍的に向上させるRedisの活用法。Look-aside、Write-backパターンの完全ガイド。"
+description: " \"DBの負荷を軽減し、応答速度を飛躍的に向上させるRedisの活用法。Look-aside、Write-backパターンの完全ガイド。\""
 tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 ---
 

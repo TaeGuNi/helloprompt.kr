@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Itinéraire Sûr pour Routard Solo : Voyager Seul en Toute Confiance"
+title: " \"Guide d'Itinéraire Sûr pour Routard Solo : Voyager Seul en Toute Confiance\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Guide personnalisé pour voyageurs en solo. Un itinéraire sur mesure alliant sécurité, maîtrise du budget et opportunités de rencontres."
+description: " \"Guide personnalisé pour voyageurs en solo. Un itinéraire sur mesure alliant sécurité, maîtrise du budget et opportunités de rencontres.\""
 tags: ["Voyage Solo", "Routard", "Voyage Seul", "Voyage Sûr"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mystery Deduction Game: Culprit and Trick Generation (Mystery Trick Generator)"
+title: " \"Mystery Deduction Game: Culprit and Trick Generation (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "AI designs ingenious locked-room tricks and foolproof alibis that would leave even Conan and Kindaichi stunned."
+description: " \"AI designs ingenious locked-room tricks and foolproof alibis that would leave even Conan and Kindaichi stunned.\""
 tags: ["Deduction", "Mystery", "Trick", "Novel", "Scenario"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Writing Job Descriptions (JD) That Attract Applicants"
+title: " \"Writing Job Descriptions (JD) That Attract Applicants\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Discover how to write compelling Job Descriptions (JD) that naturally attract top-tier talent."
+description: " \"Discover how to write compelling Job Descriptions (JD) that naturally attract top-tier talent.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

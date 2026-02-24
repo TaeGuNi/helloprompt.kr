@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escribir Código de Prueba, Un Prompt Que Termina en 5 Minutos"
+title: " \"Escribir Código de Prueba, Un Prompt Que Termina en 5 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "Deja la tediosa tarea de escribir Pruebas Unitarias a la IA. ¡Alcanza el 100% de cobertura en minutos!"
+description: " \"Deja la tediosa tarea de escribir Pruebas Unitarias a la IA. ¡Alcanza el 100% de cobertura en minutos!\""
 tags: ["Código de Prueba", "TDD", "Jest", "PyTest", "QA"]
 ---
 

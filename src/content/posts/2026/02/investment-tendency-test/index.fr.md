@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Test de Ma Tendance d'Investissement : Lâche ou Bête ?"
+title: " \"Test de Ma Tendance d'Investissement : Lâche ou Bête ?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Technologie Financière & Investissement"
-description: "Fini les questionnaires bancaires ennuyeux. L'IA analyse votre véritable tolérance au risque à travers des scénarios immersifs."
+description: " \"Fini les questionnaires bancaires ennuyeux. L'IA analyse votre véritable tolérance au risque à travers des scénarios immersifs.\""
 tags:
   [
     "Tendance d'Investissement",

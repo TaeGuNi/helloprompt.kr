@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Técnica STAR: Provando Realizações de Currículo com 'Números'"
+title: " \"Prompt de Técnica STAR: Provando Realizações de Currículo com 'Números'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Transforme o texto simples do seu currículo em tópicos atraentes e focados em realizações aplicando a técnica STAR (Situação, Tarefa, Ação, Resultado)."
+description: " \"Transforme o texto simples do seu currículo em tópicos atraentes e focados em realizações aplicando a técnica STAR (Situação, Tarefa, Ação, Resultado).\""
 tags: ["Currículo", "MétodoSTAR", "PrepEmprego", "QuantificarRealização"]
 ---
 

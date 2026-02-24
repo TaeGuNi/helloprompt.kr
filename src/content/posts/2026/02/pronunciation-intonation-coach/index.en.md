@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Native Pronunciation Coaching Learned by Text"
+title: " \"Native Pronunciation Coaching Learned by Text\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "A prompt to visually learn phonetic symbols, stress, and intonation, even in environments where audio is unavailable."
+description: " \"A prompt to visually learn phonetic symbols, stress, and intonation, even in environments where audio is unavailable.\""
 tags: ["EnglishPronunciation", "Shadowing", "Prompt", "Speaking"]
 ---
 

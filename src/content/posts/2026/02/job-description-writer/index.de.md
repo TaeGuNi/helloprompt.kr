@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Schreiben von Stellenbeschreibungen (JD), die Bewerber anziehen"
+title: " \"Schreiben von Stellenbeschreibungen (JD), die Bewerber anziehen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Wie man attraktive Stellenbeschreibungen schreibt, die Talente anziehen."
+description: " \"Wie man attraktive Stellenbeschreibungen schreibt, die Talente anziehen.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

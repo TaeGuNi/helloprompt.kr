@@ -1,6 +1,6 @@
 ---
-title: "Micro-Frontend Architecture: Scaling Frontend Development"
-description: "An in-depth look at how micro-frontends are changing large-scale web app development in 2026."
+title: " \"Micro-Frontend Architecture: Scaling Frontend Development\""
+description: " \"An in-depth look at how micro-frontends are changing large-scale web app development in 2026.\""
 date: "2026-02-13"
 cover: "./cover.jpg"
 tags: ["architecture", "frontend", "microservices", "web-development"]

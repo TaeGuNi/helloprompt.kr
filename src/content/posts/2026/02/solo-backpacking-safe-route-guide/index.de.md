@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sicherer Routenführer für Solo-Backpacking: Selbstbewusst allein reisen"
+title: " \"Sicherer Routenführer für Solo-Backpacking: Selbstbewusst allein reisen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Ein maßgeschneiderter Leitfaden für Alleinreisende, der Sicherheit, Budget und authentische Begegnungen perfekt ausbalanciert."
+description: " \"Ein maßgeschneiderter Leitfaden für Alleinreisende, der Sicherheit, Budget und authentische Begegnungen perfekt ausbalanciert.\""
 tags: ["Alleinreisen", "Backpacking", "Solo-Reisen", "Sicheres Reisen"]
 ---
 

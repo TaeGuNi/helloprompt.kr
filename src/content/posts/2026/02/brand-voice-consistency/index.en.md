@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ChatGPT에게 우리 브랜드 말투 가르치기 (톤앤매너 통일)"
+title: " \"ChatGPT에게 우리 브랜드 말투 가르치기 (톤앤매너 통일)\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "마케팅/브랜딩"
-description: "Tired of AI-generated text sounding like a robot? Learn how to perfectly clone your brand's unique voice and tone with a single prompt."
+description: " \"Tired of AI-generated text sounding like a robot? Learn how to perfectly clone your brand's unique voice and tone with a single prompt.\""
 tags: ["ChatGPT", "브랜딩", "카피라이팅", "페르소나"]
 ---
 

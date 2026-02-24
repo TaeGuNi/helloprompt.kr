@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "맑고 투명한 'Watercolor Sketch' 수채화 기법"
+title: " \"맑고 투명한 'Watercolor Sketch' 수채화 기법\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.117Z"
 updatedDate: "2026-02-07T09:10:33.117Z"
 category: "이미지 생성"
-description: "물이 번지는 듯한 효과와 연필 스케치 라인이 어우러진 감성적인 수채화 프롬프트를 소개합니다. 디지털 이미지에 아날로그 감성을 더해보세요."
+description: " \"물이 번지는 듯한 효과와 연필 스케치 라인이 어우러진 감성적인 수채화 프롬프트를 소개합니다. 디지털 이미지에 아날로그 감성을 더해보세요.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sora 2.0: 비디오 혁명, 상상이 현실이 되는 순간"
+title: " \"Sora 2.0: 비디오 혁명, 상상이 현실이 되는 순간\""
 author: "ZZabbis"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI Creative"
-description: "텍스트 몇 줄로 헐리우드급 영상을? 마케터와 크리에이터를 위한 Sora 2.0 실전 프롬프트 3종을 공개합니다."
+description: " \"텍스트 몇 줄로 헐리우드급 영상을? 마케터와 크리에이터를 위한 Sora 2.0 실전 프롬프트 3종을 공개합니다.\""
 tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 ---
 

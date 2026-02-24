@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Getting Started with Generative UI using Tambo SDK"
+title: " \"Getting Started with Generative UI using Tambo SDK\""
 date: 2026-02-20
-description: "Learn how to easily implement AI-generated dynamic interfaces in your React applications using the Tambo SDK."
+description: " \"Learn how to easily implement AI-generated dynamic interfaces in your React applications using the Tambo SDK.\""
 author: "Hello Prompt Team"
 image: "/images/posts/generative-ui-tambo.png"
 tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]

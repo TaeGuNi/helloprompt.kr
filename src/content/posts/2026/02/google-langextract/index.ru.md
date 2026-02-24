@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: "Освоение извлечения структурированных данных с помощью Google LangExtract"
+title: " \"Освоение извлечения структурированных данных с помощью Google LangExtract\""
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "Узнайте, как извлекать безупречный JSON и структурированные данные из LLM с помощью новой библиотеки Google LangExtract."
+description: " \"Узнайте, как извлекать безупречный JSON и структурированные данные из LLM с помощью новой библиотеки Google LangExtract.\""
 author: "Hello Prompt"
 image:
   url: "https://docs.astro.build/assets/full-logo-light.png"

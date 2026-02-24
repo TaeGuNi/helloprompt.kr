@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Let's Make Instead of Buying Souvenirs! Finding Traditional Craft One-Day Classes"
+title: " \"Let's Make Instead of Buying Souvenirs! Finding Traditional Craft One-Day Classes\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Stop buying the same old magnets. Discover how to use AI to find traditional craft one-day classes and create one-of-a-kind travel souvenirs with your own hands."
+description: " \"Stop buying the same old magnets. Discover how to use AI to find traditional craft one-day classes and create one-of-a-kind travel souvenirs with your own hands.\""
 tags:
   [
     "One-Day Class",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cognitive Reframing Practice with AI: Stop Negative Thoughts"
+title: " \"Cognitive Reframing Practice with AI: Stop Negative Thoughts\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "When you feel overwhelmed by a mistake, AI can help you reframe the situation and turn negative spirals into constructive energy."
+description: " \"When you feel overwhelmed by a mistake, AI can help you reframe the situation and turn negative spirals into constructive energy.\""
 tags: ["Mental Care", "CBT", "Reframing", "Self-affirmation", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Créateur de Logique de 'Défense de Faiblesse' d'Entretien (Transformer la Crise en Opportunité)"
+title: " \"Créateur de Logique de 'Défense de Faiblesse' d'Entretien (Transformer la Crise en Opportunité)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Préparez un argumentaire solide pour assumer vos faiblesses (trou dans le CV, changement de voie, mauvaises notes) et les transformer en leçons d'apprentissage et preuves d'amélioration."
+description: " \"Préparez un argumentaire solide pour assumer vos faiblesses (trou dans le CV, changement de voie, mauvaises notes) et les transformer en leçons d'apprentissage et preuves d'amélioration.\""
 tags:
   [
     "DéfenseDeFaiblesse",

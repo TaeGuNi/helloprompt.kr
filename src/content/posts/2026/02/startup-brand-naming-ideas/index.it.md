@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Naming Startup/Brand: Creare Nomi Memorabili"
+title: " \"Naming Startup/Brand: Creare Nomi Memorabili\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Il nome del tuo brand può determinare il destino del tuo business! Trova idee di naming memorabili, d'impatto e ricche di significato grazie all'IA."
+description: " \"Il nome del tuo brand può determinare il destino del tuo business! Trova idee di naming memorabili, d'impatto e ricche di significato grazie all'IA.\""
 tags: ["Nominare", "Branding", "Startup", "Marketing", "Idea"]
 ---
 

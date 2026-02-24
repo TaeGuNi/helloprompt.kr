@@ -1,9 +1,9 @@
 ---
-title: "Local LLMs: Llama 4 on Mac"
+title: " \"Local LLMs: Llama 4 on Mac\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Local AI", "Llama 4", "Mac"]
-description: "Apple Silicon M4 칩에 최적화된 Llama 4를 맥에서 구동하고, 100% 프라이버시가 보장되는 환경에서 사내 데이터를 안전하게 분석하는 완벽한 가이드와 프롬프트를 소개합니다."
+description: " \"Apple Silicon M4 칩에 최적화된 Llama 4를 맥에서 구동하고, 100% 프라이버시가 보장되는 환경에서 사내 데이터를 안전하게 분석하는 완벽한 가이드와 프롬프트를 소개합니다.\""
 ---
 
 # 📝 Local LLMs: Llama 4 on Mac (M4 칩 최적화)

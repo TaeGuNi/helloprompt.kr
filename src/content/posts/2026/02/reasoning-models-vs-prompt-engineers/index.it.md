@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 하세요"
+title: " \"Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 하세요\""
 author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI 트렌드 & 프롬프트"
-description: "OpenAI o3, Gemini 2.0 Flash Thinking 등 '추론형(Reasoning) 모델'의 시대. 기존 프롬프트 공식이 더 이상 통하지 않는 이유와 새로운 패러다임의 프롬프트 엔지니어링 방법론을 완벽히 정리했습니다."
+description: " \"OpenAI o3, Gemini 2.0 Flash Thinking 등 '추론형(Reasoning) 모델'의 시대. 기존 프롬프트 공식이 더 이상 통하지 않는 이유와 새로운 패러다임의 프롬프트 엔지니어링 방법론을 완벽히 정리했습니다.\""
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]
 ---

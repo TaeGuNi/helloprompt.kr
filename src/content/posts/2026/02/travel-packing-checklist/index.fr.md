@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vous ne Savez Pas Quoi Emporter ? Emballage Intelligent IA par Destination de Voyage"
+title: " \"Vous ne Savez Pas Quoi Emporter ? Emballage Intelligent IA par Destination de Voyage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage"
-description: "Obtenez une checklist de voyage infaillible, parfaitement adaptée à la météo locale, à la culture et à vos activités."
+description: " \"Obtenez une checklist de voyage infaillible, parfaitement adaptée à la météo locale, à la culture et à vos activités.\""
 tags: ["Voyage", "Emballage", "Liste de Contrôle", "Préparation"]
 ---
 

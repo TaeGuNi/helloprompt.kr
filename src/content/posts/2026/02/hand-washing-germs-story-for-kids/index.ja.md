@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "子供のための手洗い＆バイキンのお話"
+title: " \"子供のための手洗い＆バイキンのお話\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児＆教育"
-description: "ガミガミ言わずに子供を洗面所に送る科学的説得術"
+description: " \"ガミガミ言わずに子供を洗面所に送る科学的説得術\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pesadilla de Regex, ahora déjaselo a la IA"
+title: " \"Pesadilla de Regex, ahora déjaselo a la IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desarrollo"
-description: "Deja de sufrir escribiendo crípticas expresiones regulares. Descubre cómo usar la IA para generar y explicar patrones complejos en segundos."
+description: " \"Deja de sufrir escribiendo crípticas expresiones regulares. Descubre cómo usar la IA para generar y explicar patrones complejos en segundos.\""
 tags: ["Regex", "Expresión Regular", "Productividad Dev"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Friendly Gestures and Greetings Guide: Don't Be Misunderstood"
+title: " \"Friendly Gestures and Greetings Guide: Don't Be Misunderstood\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Almost got into a fight over a simple hand gesture? Discover which gestures cause misunderstandings and which greetings are warmly welcomed worldwide."
+description: " \"Almost got into a fight over a simple hand gesture? Discover which gestures cause misunderstandings and which greetings are warmly welcomed worldwide.\""
 tags: ["Greetings", "Body Language", "Gestures", "Cultural Communication"]
 ---
 

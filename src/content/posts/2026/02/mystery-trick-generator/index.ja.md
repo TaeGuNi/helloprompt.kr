@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ミステリー推理ゲーム：犯人とトリック生成 (Mystery Trick Generator)"
+title: " \"ミステリー推理ゲーム：犯人とトリック生成 (Mystery Trick Generator)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "創作及び趣味"
-description: "コナンや金田一も驚くような、奇抜な密室トリックと完璧なアリバイをAIが設計します。"
+description: " \"コナンや金田一も驚くような、奇抜な密室トリックと完璧なアリバイをAIが設計します。\""
 tags: ["推理", "ミステリー", "トリック", "小説", "シナリオ"]
 ---
 

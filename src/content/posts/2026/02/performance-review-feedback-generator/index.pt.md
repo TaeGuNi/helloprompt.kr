@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comentários de Avaliação de Pessoal Que Fazem Crescer Sem Machucar"
+title: " \"Comentários de Avaliação de Pessoal Que Fazem Crescer Sem Machucar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Um prompt prático para redigir avaliações de desempenho e feedbacks construtivos sem causar atritos na equipe."
+description: " \"Um prompt prático para redigir avaliações de desempenho e feedbacks construtivos sem causar atritos na equipe.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

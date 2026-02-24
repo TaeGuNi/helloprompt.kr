@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de E-mail Frio para Café: Networking sem Rejeição"
+title: " \"Prompt de E-mail Frio para Café: Networking sem Rejeição\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Aprenda a enviar uma DM (Mensagem Direta) ou e-mail frio educado e persuasivo para pedir conselhos e fazer networking com profissionais da sua área, aumentando suas chances de resposta."
+description: " \"Aprenda a enviar uma DM (Mensagem Direta) ou e-mail frio educado e persuasivo para pedir conselhos e fazer networking com profissionais da sua área, aumentando suas chances de resposta.\""
 tags: ["Café", "E-mail Frio", "Networking", "Mentoria"]
 ---
 

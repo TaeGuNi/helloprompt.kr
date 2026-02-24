@@ -1,6 +1,6 @@
 ---
-title: "Discord: Eine Fallstudie zur Leistungsoptimierung"
-description: "Ein tiefer Einblick in Discords technische Reise zur Bewältigung von Billionen von Nachrichten und Millionen gleichzeitiger Benutzer."
+title: " \"Discord: Eine Fallstudie zur Leistungsoptimierung\""
+description: " \"Ein tiefer Einblick in Discords technische Reise zur Bewältigung von Billionen von Nachrichten und Millionen gleichzeitiger Benutzer.\""
 date: 2026-02-15
 cover: "./cover.png"
 ---

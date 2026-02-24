@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Risparmio Tasse Freelance: Raddoppiare Rimborso Tasse"
+title: " \"Guida Risparmio Tasse Freelance: Raddoppiare Rimborso Tasse\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Organizza la deduzione delle spese e ottieni consigli fiscali pratici per i freelance spaventati dalla dichiarazione dei redditi."
+description: " \"Organizza la deduzione delle spese e ottieni consigli fiscali pratici per i freelance spaventati dalla dichiarazione dei redditi.\""
 tags: ["Tassa", "RisparmioTasse", "Freelance", "ImpostaRedditoGlobale"]
 ---
 

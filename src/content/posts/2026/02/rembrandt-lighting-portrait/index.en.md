@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Rembrandt Lighting' Technique Elevating Portrait Quality"
+title: " \"'Rembrandt Lighting' Technique Elevating Portrait Quality\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A lighting prompt to create deep, serious portraits that resemble classic masterpieces."
+description: " \"A lighting prompt to create deep, serious portraits that resemble classic masterpieces.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Romantik der Dampfmaschinen 'Steampunk' Stil"
+title: " \"Romantik der Dampfmaschinen 'Steampunk' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Steampunk-Prompt für eine Zukunftsvision des 19. Jahrhunderts, dominiert von Messingzahnrädern und Dampfmaschinen."
+description: " \"Ein Steampunk-Prompt für eine Zukunftsvision des 19. Jahrhunderts, dominiert von Messingzahnrädern und Dampfmaschinen.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 ---
 

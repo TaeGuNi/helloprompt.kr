@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI初学者首先要做的三件事（入门指南）"
+title: " \"AI初学者首先要做的三件事（入门指南）\""
 author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-09T10:00:00.000Z"
 category: "入门"
 tags: ["AI入门", "ChatGPT", "使用教程", "初学者"]
-description: "觉得AI太难无从下手？为您揭秘今天就能立刻用上的3个最简单、最有效的AI破冰技巧。"
+description: " \"觉得AI太难无从下手？为您揭秘今天就能立刻用上的3个最简单、最有效的AI破冰技巧。\""
 ---
 
 # 📝 AI初学者首先要做的三件事

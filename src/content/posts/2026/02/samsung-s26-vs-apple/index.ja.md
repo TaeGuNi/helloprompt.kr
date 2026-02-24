@@ -1,6 +1,6 @@
 ---
-title: "Samsung Galaxy S26 vs Apple iPhone 17: オンデバイスAI技術の詳細比較"
-description: "2026年のスマートフォンAI戦争の勝者は誰か？Galaxy S26のNPUとiPhone 17のNeural Engineを技術的に分析し、ユーザー体験への影響を探ります。"
+title: " \"Samsung Galaxy S26 vs Apple iPhone 17: オンデバイスAI技術の詳細比較\""
+description: " \"2026年のスマートフォンAI戦争の勝者は誰か？Galaxy S26のNPUとiPhone 17のNeural Engineを技術的に分析し、ユーザー体験への影響を探ります。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

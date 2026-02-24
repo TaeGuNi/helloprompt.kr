@@ -1,5 +1,5 @@
 ---
-title: "Dall-E 4: Mastering Text and Light"
+title: " \"Dall-E 4: Mastering Text and Light\""
 date: 2026-02-14
 tags: [dalle, image-gen, openai]
 ---

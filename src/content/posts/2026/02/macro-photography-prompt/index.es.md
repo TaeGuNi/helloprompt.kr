@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mundo de Prompt de 'Fotografía Macro' de Disparo Súper Primer Plano"
+title: " \"Mundo de Prompt de 'Fotografía Macro' de Disparo Súper Primer Plano\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de disparo macro que captura detalles diminutos invisibles a la vista."
+description: " \"Prompt de disparo macro que captura detalles diminutos invisibles a la vista.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "Detalles"]
 ---

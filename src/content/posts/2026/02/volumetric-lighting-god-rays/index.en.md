@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "'Volumetric Lighting' (God Rays) Technique Where Light Pours Down"
+title: " \"'Volumetric Lighting' (God Rays) Technique Where Light Pours Down\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Master the art of generating majestic 'God Rays' and volumetric lighting to add cinematic depth, mystery, and atmosphere to your AI images."
+description: " \"Master the art of generating majestic 'God Rays' and volumetric lighting to add cinematic depth, mystery, and atmosphere to your AI images.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

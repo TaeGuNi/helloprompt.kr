@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "大扫除游戏：让整理变有趣的游戏魔法"
+title: " \"大扫除游戏：让整理变有趣的游戏魔法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "将杂乱房间在10分钟内变整洁的游戏化（Gamification）育儿策略"
+description: " \"将杂乱房间在10分钟内变整洁的游戏化（Gamification）育儿策略\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

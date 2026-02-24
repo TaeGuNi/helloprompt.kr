@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Correzione Tono Curriculum: Come Perdere 'Amatoriale' e Sembrare 'Pro'"
+title: " \"Correzione Tono Curriculum: Come Perdere 'Amatoriale' e Sembrare 'Pro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Un prompt per revisionare e ottimizzare il tono del tuo curriculum, eliminando errori grammaticali ed espressioni amatoriali per un profilo altamente professionale."
+description: " \"Un prompt per revisionare e ottimizzare il tono del tuo curriculum, eliminando errori grammaticali ed espressioni amatoriali per un profilo altamente professionale.\""
 tags:
   [
     "CorrezioneCurriculum",

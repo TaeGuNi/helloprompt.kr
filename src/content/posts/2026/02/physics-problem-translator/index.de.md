@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Physik-Aufgaben-Übersetzer: Von der Situationsbeurteilung zum Aufstellen von Gleichungen"
+title: " \"Physik-Aufgaben-Übersetzer: Von der Situationsbeurteilung zum Aufstellen von Gleichungen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der Physikaufgaben analysiert, physikalische Parameter extrahiert und die passende Lösungsformel ableitet."
+description: " \"Ein Prompt, der Physikaufgaben analysiert, physikalische Parameter extrahiert und die passende Lösungsformel ableitet.\""
 tags: ["Physik", "Ingenieurwesen", "Problemlösung", "Prompt"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Histoire de Sommeil Rêveuse pour Enfants : Le Voyage en Train Nuage"
+title: " \"Histoire de Sommeil Rêveuse pour Enfants : Le Voyage en Train Nuage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un prompt IA conçu avec des techniques d'hypnose et de relaxation pour aider les enfants insomniaques à s'endormir paisiblement à bord du train des nuages."
+description: " \"Un prompt IA conçu avec des techniques d'hypnose et de relaxation pour aider les enfants insomniaques à s'endormir paisiblement à bord du train des nuages.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

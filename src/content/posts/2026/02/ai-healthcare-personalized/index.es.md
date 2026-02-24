@@ -3,7 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description: El tratamiento único para todos es cosa del pasado. Explora el estado actual de la 'Medicina de Precisión', donde la IA analiza datos genómicos para sugerir el tratamiento óptimo para cada individuo.
+description: "El tratamiento único para todos es cosa del pasado. Explora el estado actual de la 'Medicina de Precisión', donde la IA analiza datos genómicos para sugerir el tratamiento óptimo para cada individuo."
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "IA y Medicina Personalizada: Una Receta Solo para Ti"
+title: " \"IA y Medicina Personalizada: Una Receta Solo para Ti\""
 ---
 
 # 📝 IA y Medicina Personalizada: Una Receta Solo para Ti

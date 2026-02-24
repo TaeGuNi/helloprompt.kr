@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Correo Frío para Charla de Café: Networking sin Rechazo"
+title: " \"Prompt de Correo Frío para Charla de Café: Networking sin Rechazo\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrera y Cambio de Trabajo"
-description: "Envía un mensaje directo (DM) o correo en frío estructurado y cortés para asegurar una respuesta al pedir consejos o hacer networking con referentes de tu sector."
+description: " \"Envía un mensaje directo (DM) o correo en frío estructurado y cortés para asegurar una respuesta al pedir consejos o hacer networking con referentes de tu sector.\""
 tags: ["Charla de Café", "Correo Frío", "Networking", "Mentoría"]
 ---
 

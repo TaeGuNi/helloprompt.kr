@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Unsloth: LLM 파인튜닝을 2배 더 빠르게"
+title: " \"Unsloth: LLM 파인튜닝을 2배 더 빠르게\""
 date: 2026-02-13
-description: "Un prompt per generare codice di fine-tuning LLM basato su Unsloth, risolvendo i problemi di VRAM limitata e addestramento lento."
+description: " \"Un prompt per generare codice di fine-tuning LLM basato su Unsloth, risolvendo i problemi di VRAM limitata e addestramento lento.\""
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

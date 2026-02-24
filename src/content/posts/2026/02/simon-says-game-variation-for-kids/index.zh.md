@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "儿童版‘西蒙说’游戏变体：听觉注意力训练"
+title: " \"儿童版‘西蒙说’游戏变体：听觉注意力训练\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "通过AI生成充满童趣的任务，有效提升孩子的专注力与身体协调控制能力。"
+description: " \"通过AI生成充满童趣的任务，有效提升孩子的专注力与身体协调控制能力。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

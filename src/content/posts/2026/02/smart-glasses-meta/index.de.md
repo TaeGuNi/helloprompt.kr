@@ -1,6 +1,6 @@
 ---
-title: "Meta Smart Glasses: The Secret Behind Tripled Sales"
-description: "Wearable-KI durchdringt den Alltag. Eine tiefgehende Analyse der Erfolgsfaktoren von Meta."
+title: " \"Meta Smart Glasses: The Secret Behind Tripled Sales\""
+description: " \"Wearable-KI durchdringt den Alltag. Eine tiefgehende Analyse der Erfolgsfaktoren von Meta.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

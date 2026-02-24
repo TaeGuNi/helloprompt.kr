@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AutoGen 입문: AI 에이전트끼리 대화하게 만들기"
+title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Le framework multi-agents AutoGen par Microsoft. Guide complet pour mettre en place une collaboration automatisée où les bots développeurs et managers échangent des retours pour finaliser le code."
+description: " \"Le framework multi-agents AutoGen par Microsoft. Guide complet pour mettre en place une collaboration automatisée où les bots développeurs et managers échangent des retours pour finaliser le code.\""
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 

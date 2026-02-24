@@ -1,6 +1,6 @@
 ---
-title: "Generative UI Patterns (German)"
-description: "Benutzeroberflächen, die sich basierend auf der Nutzerabsicht anpassen und selbst generieren, ersetzen statische Menüs."
+title: " \"Generative UI Patterns (German)\""
+description: " \"Benutzeroberflächen, die sich basierend auf der Nutzerabsicht anpassen und selbst generieren, ersetzen statische Menüs.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/genui/800/600"
 tags: ["AI", "Tech", "generative-ui-2026"]

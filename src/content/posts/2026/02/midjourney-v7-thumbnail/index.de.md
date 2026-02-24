@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Midjourney v7 Praxis: 'Blog-Thumbnail' Formel für Nicht-Designer"
+title: " \"Midjourney v7 Praxis: 'Blog-Thumbnail' Formel für Nicht-Designer\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "KI-Kunst/Design"
-description: "Keine Designkenntnisse nötig. Der Midjourney Thumbnail-Prompt-Cheat, um deine Klickrate um 200 % zu steigern."
+description: " \"Keine Designkenntnisse nötig. Der Midjourney Thumbnail-Prompt-Cheat, um deine Klickrate um 200 % zu steigern.\""
 tags: ["Midjourney", "Design", "Thumbnail", "Blog", "KIKunst"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cercatore di Bar con Musica dal Vivo Locali: Scoprire Locali Hipster"
+title: " \"Cercatore di Bar con Musica dal Vivo Locali: Scoprire Locali Hipster\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Basta con la noiosa musica di sottofondo nei ristoranti per turisti. Inizia un viaggio musicale per sentire il vero respiro dei musicisti locali."
+description: " \"Basta con la noiosa musica di sottofondo nei ristoranti per turisti. Inizia un viaggio musicale per sentire il vero respiro dei musicisti locali.\""
 tags:
   [
     "Viaggio Musicale",

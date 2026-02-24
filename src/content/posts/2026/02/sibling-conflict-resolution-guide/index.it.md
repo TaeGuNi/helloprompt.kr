@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mediazione dei Conflitti tra Fratelli: Prompt della Saggezza di Salomone"
+title: " \"Mediazione dei Conflitti tra Fratelli: Prompt della Saggezza di Salomone\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Bambini che litigano ogni giorno: come riconciliarli equamente e rafforzare il loro legame."
+description: " \"Bambini che litigano ogni giorno: come riconciliarli equamente e rafforzare il loro legame.\""
 tags:
   [
     "Genitorialità",

@@ -1,14 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: 在 GitHub Copilot X2 等自主智能体时代，本文将为您提供一份详尽的提示词指南，助您从“手动编写代码的开发者”蜕变为“AI 代码管理者”。
+description: "在 GitHub Copilot X2 等自主智能体时代，本文将为您提供一份详尽的提示词指南，助您从“手动编写代码的开发者”蜕变为“AI 代码管理者”。"
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략"
+title: " \"AI 코딩 에이전트, '작성'을 넘어 '해결'로: 2026년 개발자의 생존 전략\""
 ---
 
 # 📝 AI 编程智能体，从“编写”到“解决”：2026年开发者的生存战略

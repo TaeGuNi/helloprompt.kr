@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Commentaires d'Évaluation du Personnel Qui Font Grandir Sans Blesser"
+title: " \"Commentaires d'Évaluation du Personnel Qui Font Grandir Sans Blesser\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Un prompt qui soulage la douleur des évaluations de performance et facilite la rédaction de feedbacks constructifs."
+description: " \"Un prompt qui soulage la douleur des évaluations de performance et facilite la rédaction de feedbacks constructifs.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

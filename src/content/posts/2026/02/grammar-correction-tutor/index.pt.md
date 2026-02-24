@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Por Que Minha Gramática Está Errada? Professor de Correção 1:1"
+title: " \"Por Que Minha Gramática Está Errada? Professor de Correção 1:1\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "Prompt de tutor de IA que explica o 'porquê' dos seus erros gramaticais, indo muito além da simples correção."
+description: " \"Prompt de tutor de IA que explica o 'porquê' dos seus erros gramaticais, indo muito além da simples correção.\""
 tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 ---
 

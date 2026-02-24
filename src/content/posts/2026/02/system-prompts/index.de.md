@@ -1,6 +1,6 @@
 ---
-title: "System-Prompts 2026: Die Kunst von Personas und Einschränkungen"
-description: "Jenseits einfacher Rollenzuweisung: Wie man 2026 System-Prompts schreibt. Von XML-Tags bis zur dynamischen Kontextinjektion."
+title: " \"System-Prompts 2026: Die Kunst von Personas und Einschränkungen\""
+description: " \"Jenseits einfacher Rollenzuweisung: Wie man 2026 System-Prompts schreibt. Von XML-Tags bis zur dynamischen Kontextinjektion.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

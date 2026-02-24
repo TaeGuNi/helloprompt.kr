@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi: AI 에이전트를 위한 로컬 워크스페이스"
+title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "Introducing AionUi: an open-source UI that solves the black-box problem of terminal-based AI coding agents like Gemini CLI and Claude Code."
+description: " \"Introducing AionUi: an open-source UI that solves the black-box problem of terminal-based AI coding agents like Gemini CLI and Claude Code.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

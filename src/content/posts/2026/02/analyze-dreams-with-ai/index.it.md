@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 나의 꿈을 분석하는 방법 (꿈 해몽 프롬프트)"
+title: " \"AI로 나의 꿈을 분석하는 방법 (꿈 해몽 프롬프트)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재미/흥미"
-description: "Hai fatto un sogno strano stanotte? Chiedi a ChatGPT invece che a Freud. Ti aiutiamo a interpretare il tuo subconscio con l'AI."
+description: " \"Hai fatto un sogno strano stanotte? Chiedi a ChatGPT invece che a Freud. Ti aiutiamo a interpretare il tuo subconscio con l'AI.\""
 tags: ["꿈해몽", "심리학", "재미", "ChatGPT"]
 ---
 

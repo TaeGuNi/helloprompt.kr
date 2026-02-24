@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulateur d'Évasion de Dette : Stratégie de Remboursement la Plus Rapide"
+title: " \"Simulateur d'Évasion de Dette : Stratégie de Remboursement la Plus Rapide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Stratégie Boule de Neige ou Stratégie Avalanche ? Découvrez l'ordre de remboursement optimal, parfaitement adapté à votre situation d'endettement."
+description: " \"Stratégie Boule de Neige ou Stratégie Avalanche ? Découvrez l'ordre de remboursement optimal, parfaitement adapté à votre situation d'endettement.\""
 tags: ["RemboursementDette", "Prêt", "Finance", "GestionCrédit"]
 ---
 

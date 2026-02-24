@@ -1,6 +1,6 @@
 ---
-title: "Galaxy S26: Monster Specs Meet AI"
-description: "搭载 Exynos 2600 处理器。透过 3D 广告牌见证 Galaxy AI 的进化。"
+title: " \"Galaxy S26: Monster Specs Meet AI\""
+description: " \"搭载 Exynos 2600 处理器。透过 3D 广告牌见证 Galaxy AI 的进化。\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

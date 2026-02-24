@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "固定支出减肥: 堵住漏钱的创意"
+title: " \"固定支出减肥: 堵住漏钱的创意\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "理财 & 投资"
-description: "觉得每个月扣除的固定开销无法减少吗？让 AI 帮你找出隐藏的省钱盲点。"
+description: " \"觉得每个月扣除的固定开销无法减少吗？让 AI 帮你找出隐藏的省钱盲点。\""
 tags: ["节约", "固定支出", "生活费", "咸理财"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대"
-description: "O GPT-5.2 da OpenAI estabeleceu um novo marco na ciência ao derivar resultados inéditos na física teórica. Analisamos essa conquista surpreendente e apresentamos um prompt de IA para decifrar artigos científicos complexos com facilidade."
+title: " \"GPT-5.2의 물리학적 쾌거: 과학적 발견의 새로운 시대\""
+description: " \"O GPT-5.2 da OpenAI estabeleceu um novo marco na ciência ao derivar resultados inéditos na física teórica. Analisamos essa conquista surpreendente e apresentamos um prompt de IA para decifrar artigos científicos complexos com facilidade.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Copy de Anúncio Facebook/Insta Que Chama Cliques"
+title: " \"Gerador de Copy de Anúncio Facebook/Insta Que Chama Cliques\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Descubra como criar textos de anúncios (Primary Text) persuasivos que fazem o usuário parar de rolar a tela e clicar."
+description: " \"Descubra como criar textos de anúncios (Primary Text) persuasivos que fazem o usuário parar de rolar a tela e clicar.\""
 tags:
   [
     "Anúncio Facebook",

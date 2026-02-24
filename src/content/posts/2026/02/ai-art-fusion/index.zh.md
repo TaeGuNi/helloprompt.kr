@@ -1,6 +1,6 @@
 ---
-title: "如果莫奈画了申润福的《美人图》？AI创造的融合作品"
-description: "朝鲜时代的细腻笔触与印象派的光影相遇。欣赏AI重新诠释的申润福《美人图》，感受这梦幻般的融合艺术世界。"
+title: " \"如果莫奈画了申润福的《美人图》？AI创造的融合作品\""
+description: " \"朝鲜时代的细腻笔触与印象派的光影相遇。欣赏AI重新诠释的申润福《美人图》，感受这梦幻般的融合艺术世界。\""
 author: "AI Art Lab"
 date: "2026-02-13"
 tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]

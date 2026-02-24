@@ -1,6 +1,6 @@
 ---
-title: "Smart Sleep Masks Broadcasting Brainwaves (Spanish)"
-description: "La privacidad del IoT sigue siendo una vulnerabilidad crítica en 2026; las filtraciones de datos biométricos son las nuevas filtraciones de contraseñas."
+title: " \"Smart Sleep Masks Broadcasting Brainwaves (Spanish)\""
+description: " \"La privacidad del IoT sigue siendo una vulnerabilidad crítica en 2026; las filtraciones de datos biométricos son las nuevas filtraciones de contraseñas.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]

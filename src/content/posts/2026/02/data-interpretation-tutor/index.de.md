@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tabellen und Grafiken sprechen: Dateninterpretations-Tutor"
+title: " \"Tabellen und Grafiken sprechen: Dateninterpretations-Tutor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der blitzschnell wichtige Erkenntnisse aus komplexen Diagrammen oder Grafiken extrahiert und versteckte statistische Fallen aufdeckt."
+description: " \"Ein Prompt, der blitzschnell wichtige Erkenntnisse aus komplexen Diagrammen oder Grafiken extrahiert und versteckte statistische Fallen aufdeckt.\""
 tags: ["Datenanalyse", "Statistik", "Grafikinterpretation", "Arbeitsfähigkeit"]
 ---
 

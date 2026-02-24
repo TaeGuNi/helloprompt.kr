@@ -1,6 +1,6 @@
 ---
-title: "Optimizing Context Windows (Russian)"
-description: "Эффективное управление токенами — ключ к снижению затрат и повышению точности ответов LLM."
+title: " \"Optimizing Context Windows (Russian)\""
+description: " \"Эффективное управление токенами — ключ к снижению затрат и повышению точности ответов LLM.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt2/800/600"
 tags: ["AI", "Tech", "optimizing-context-windows"]

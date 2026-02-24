@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "编写测试代码，5 分钟搞定的提示词"
+title: " \"编写测试代码，5 分钟搞定的提示词\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "把枯燥繁琐的单元测试（Unit Test）编写工作交给 AI 吧。轻松挑战 100% 覆盖率！"
+description: " \"把枯燥繁琐的单元测试（Unit Test）编写工作交给 AI 吧。轻松挑战 100% 覆盖率！\""
 tags: ["测试代码", "TDD", "Jest", "PyTest", "QA"]
 ---
 

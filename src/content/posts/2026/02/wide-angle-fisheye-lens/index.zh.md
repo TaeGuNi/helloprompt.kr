@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "压倒性的空间感 'Wide Angle & Fisheye' 镜头效果"
+title: " \"压倒性的空间感 'Wide Angle & Fisheye' 镜头效果\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "能够拓宽狭窄空间、将宏伟风景尽收眼底的广角 (Wide Angle) 与鱼眼 (Fisheye) 镜头提示词指南。"
+description: " \"能够拓宽狭窄空间、将宏伟风景尽收眼底的广角 (Wide Angle) 与鱼眼 (Fisheye) 镜头提示词指南。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

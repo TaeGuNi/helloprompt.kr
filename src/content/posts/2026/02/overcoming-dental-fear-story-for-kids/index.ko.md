@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "치과 가기 전 읽는 용기 충전 스토리"
+title: " \"치과 가기 전 읽는 용기 충전 스토리\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.160Z"
 updatedDate: "2026-02-07T09:10:33.160Z"
 category: "육아 & 교육"
-description: "치과 가기를 무서워하는 아이를 위한 맞춤형 두려움 극복 스토리텔링 프롬프트"
+description: " \"치과 가기를 무서워하는 아이를 위한 맞춤형 두려움 극복 스토리텔링 프롬프트\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

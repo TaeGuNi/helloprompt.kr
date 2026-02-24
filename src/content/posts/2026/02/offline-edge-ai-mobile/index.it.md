@@ -1,6 +1,6 @@
 ---
-title: "True Offline AI on Mobile (Italian)"
-description: "I modelli AI locali sugli smartphone sono finalmente in grado di sostituire i servizi cloud per le attività quotidiane, garantendo privacy e zero latenza."
+title: " \"True Offline AI on Mobile (Italian)\""
+description: " \"I modelli AI locali sugli smartphone sono finalmente in grado di sostituire i servizi cloud per le attività quotidiane, garantendo privacy e zero latenza.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]

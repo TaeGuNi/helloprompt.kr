@@ -1,6 +1,6 @@
 ---
-title: "Prompt Injection Security Risks (Russian)"
-description: "Поскольку LLM интегрируются с инструментами, внедрение промптов (Prompt Injection) становится критической уязвимостью."
+title: " \"Prompt Injection Security Risks (Russian)\""
+description: " \"Поскольку LLM интегрируются с инструментами, внедрение промптов (Prompt Injection) становится критической уязвимостью.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]

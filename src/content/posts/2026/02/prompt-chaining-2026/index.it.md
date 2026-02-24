@@ -1,6 +1,6 @@
 ---
-title: "Prompt Chaining in 2026: Building Complex AI Workflows (Italian)"
-description: "Scomponi i task complessi in passaggi atomici e utilizza gli output intermedi come contesto."
+title: " \"Prompt Chaining in 2026: Building Complex AI Workflows (Italian)\""
+description: " \"Scomponi i task complessi in passaggi atomici e utilizza gli output intermedi come contesto.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "prompt-chaining-2026"]

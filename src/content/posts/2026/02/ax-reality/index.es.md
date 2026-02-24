@@ -1,6 +1,6 @@
 ---
-title: "La verdad sobre la realidad AX"
-description: "Análisis crítico de la realidad AX: a menudo, la Experiencia de IA (AX) no es más que una alucinación corporativa sin valor real."
+title: " \"La verdad sobre la realidad AX\""
+description: " \"Análisis crítico de la realidad AX: a menudo, la Experiencia de IA (AX) no es más que una alucinación corporativa sin valor real.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

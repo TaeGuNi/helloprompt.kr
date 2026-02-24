@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "오늘 점심 뭐 먹지? AI 도시락 플래너"
+title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강"
-description: "Receitas de marmitas saudáveis e super fáceis de fazer em 10 minutos com os ingredientes que você tem na geladeira."
+description: " \"Receitas de marmitas saudáveis e super fáceis de fazer em 10 minutos com os ingredientes que você tem na geladeira.\""
 tags: ["점심", "도시락", "요리", "건강식"]
 ---
 

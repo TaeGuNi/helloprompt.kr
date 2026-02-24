@@ -1,6 +1,6 @@
 ---
-title: "AI Agents 2.0: Collaborative Swarms (de)"
-description: "Eine tiefe Analyse von KI-Agenten 2.0: Wie kollaborative Schwärme komplexe Workflows automatisieren."
+title: " \"AI Agents 2.0: Collaborative Swarms (de)\""
+description: " \"Eine tiefe Analyse von KI-Agenten 2.0: Wie kollaborative Schwärme komplexe Workflows automatisieren.\""
 date: "2026-02-14"
 ---
 

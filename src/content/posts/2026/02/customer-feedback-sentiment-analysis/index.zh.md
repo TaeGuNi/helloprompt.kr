@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "啰嗦的顾客反馈，肯定/否定分析"
+title: " \"啰嗦的顾客反馈，肯定/否定分析\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "利用 AI 情感分析 (Sentiment Analysis) 快速整理数百条冗长的顾客评论与反馈。"
+description: " \"利用 AI 情感分析 (Sentiment Analysis) 快速整理数百条冗长的顾客评论与反馈。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

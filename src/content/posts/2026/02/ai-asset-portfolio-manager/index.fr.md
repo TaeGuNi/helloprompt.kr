@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "재테크 포트폴리오: 내 자산 현황 넣으면 리밸런싱 제안"
+title: " \"재테크 포트폴리오: 내 자산 현황 넣으면 리밸런싱 제안\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "재테크/투자"
-description: "Actions, cryptos, épargne... Vos actifs sont éparpillés. Obtenez un diagnostic de rééquilibrage de votre portefeuille par une IA gérant des fonds spéculatifs à Wall Street, selon l'approche All-Weather."
+description: " \"Actions, cryptos, épargne... Vos actifs sont éparpillés. Obtenez un diagnostic de rééquilibrage de votre portefeuille par une IA gérant des fonds spéculatifs à Wall Street, selon l'approche All-Weather.\""
 tags: ["재테크", "포트폴리오", "자산관리", "투자", "ChatGPT"]
 ---
 

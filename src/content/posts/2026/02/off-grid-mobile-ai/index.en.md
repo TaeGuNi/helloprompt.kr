@@ -1,6 +1,6 @@
 ---
-title: "Off Grid: Run AI Text, Image Gen, Vision Offline on Your Phone"
-description: "Discover Off Grid, an open-source tool to run text, image, and vision AI entirely offline on your smartphone—no internet required."
+title: " \"Off Grid: Run AI Text, Image Gen, Vision Offline on Your Phone\""
+description: " \"Discover Off Grid, an open-source tool to run text, image, and vision AI entirely offline on your smartphone—no internet required.\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

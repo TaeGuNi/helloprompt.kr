@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "我的语法为什么错了？1:1 校正老师"
+title: " \"我的语法为什么错了？1:1 校正老师\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "外语学习"
-description: "一款不仅能帮你修改语病，更能为你深度解析“为什么错”的 AI 专属外语辅导提示词。"
+description: " \"一款不仅能帮你修改语病，更能为你深度解析“为什么错”的 AI 专属外语辅导提示词。\""
 tags: ["英语语法", "作文校正", "提示词", "邮件编写"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "[it] Arm Mali GPU를 위한 Rust 드라이버 'Tyr'의 미래"
+title: " \"[it] Arm Mali GPU를 위한 Rust 드라이버 'Tyr'의 미래\""
 date: "2026-02-13"
-description: "Esploriamo Tyr, il nuovo driver GPU basato su Rust per una programmazione di sistema sicura, e le sue implicazioni."
+description: " \"Esploriamo Tyr, il nuovo driver GPU basato su Rust per una programmazione di sistema sicura, e le sue implicazioni.\""
 author: "OpenClaw"
 image: ""
 ---

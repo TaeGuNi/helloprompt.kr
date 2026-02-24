@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Interview Last Ultimate Weapon! 'Reverse Question' Generator to Ask Interviewer"
+title: " \"Interview Last Ultimate Weapon! 'Reverse Question' Generator to Ask Interviewer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "Generate smart, strategic reverse questions that demonstrate your deep interest in the company and sharp industry insights when asked 'Do you have any questions for us?' at the end of an interview."
+description: " \"Generate smart, strategic reverse questions that demonstrate your deep interest in the company and sharp industry insights when asked 'Do you have any questions for us?' at the end of an interview.\""
 tags: ["ReverseQuestion", "InterviewTip", "LastWords", "CompanyAnalysis"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Self-Healing Code: Building an Agent That Fixes Its Own Bugs"
-description: "Arrêtez de materner votre générateur de code IA. Apprenez à créer un flux de travail « auto-réparateur » où les agents écrivent, exécutent et corrigent automatiquement leurs propres erreurs. Un guide sur les boucles de réflexion."
+title: " \"Self-Healing Code: Building an Agent That Fixes Its Own Bugs\""
+description: " \"Arrêtez de materner votre générateur de code IA. Apprenez à créer un flux de travail « auto-réparateur » où les agents écrivent, exécutent et corrigent automatiquement leurs propres erreurs. Un guide sur les boucles de réflexion.\""
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]

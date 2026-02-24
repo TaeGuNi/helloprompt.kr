@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Stop Sleepless Nights! Sleep Hygiene Checklist Diagnosed by AI"
+title: " \"Stop Sleepless Nights! Sleep Hygiene Checklist Diagnosed by AI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Is your bedroom optimized for deep sleep? Let AI analyze your sleep environment and daily habits to provide a scientifically-backed, personalized sleep hygiene solution."
+description: " \"Is your bedroom optimized for deep sleep? Let AI analyze your sleep environment and daily habits to provide a scientifically-backed, personalized sleep hygiene solution.\""
 tags: ["Sleep", "Insomnia", "Health", "Sleep Hygiene", "ChatGPT"]
 ---
 

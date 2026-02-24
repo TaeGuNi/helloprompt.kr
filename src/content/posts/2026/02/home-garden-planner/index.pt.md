@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "베란다를 숲으로: AI 홈가드닝 플래너"
+title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Adeus, matador de plantas! Desde a recomendação da planta perfeita para a luz e ventilação da sua casa até como salvar um vaso moribundo, este é o guia definitivo do seu mordomo botânico de IA."
+description: " \"Adeus, matador de plantas! Desde a recomendação da planta perfeita para a luz e ventilação da sua casa até como salvar um vaso moribundo, este é o guia definitivo do seu mordomo botânico de IA.\""
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Comment Écrire des Emails Professionnels Qui Relancent Sans Être Impolis"
+title: " \"Comment Écrire des Emails Professionnels Qui Relancent Sans Être Impolis\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Prompt d'e-mail pour relancer élégamment les partenaires commerciaux qui tardent à répondre, sans paraître impoli."
+description: " \"Prompt d'e-mail pour relancer élégamment les partenaires commerciaux qui tardent à répondre, sans paraître impoli.\""
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

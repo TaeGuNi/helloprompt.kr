@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Power Nap Strategy for Productivity: Better Than Coffee!"
+title: " \"Power Nap Strategy for Productivity: Better Than Coffee!\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Stop fighting the post-lunch slump. Discover the 'Coffee Nap' technique to sleep exactly 20 minutes and wake up completely refreshed."
+description: " \"Stop fighting the post-lunch slump. Discover the 'Coffee Nap' technique to sleep exactly 20 minutes and wake up completely refreshed.\""
 tags: ["Nap", "Productivity", "Sleep", "Coffee Nap", "ChatGPT"]
 ---
 

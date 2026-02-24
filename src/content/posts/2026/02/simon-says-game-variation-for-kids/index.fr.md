@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Variation du Jeu Jacques a Dit pour Enfants : Entraînement de l'Attention Auditive"
+title: " \"Variation du Jeu Jacques a Dit pour Enfants : Entraînement de l'Attention Auditive\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Améliorez la concentration et le contrôle physique de votre enfant grâce à des missions ludiques générées par l'IA."
+description: " \"Améliorez la concentration et le contrôle physique de votre enfant grâce à des missions ludiques générées par l'IA.\""
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "시니어 개발자처럼 코드 리뷰하기: 주니어 개발자를 위한 AI 프롬프트 가이드 (2026 Edition)"
-description: "코드 리뷰가 두려운 주니어 개발자를 위해, 10년 차 시니어 개발자의 시선을 빌려 코드의 취약점과 개선점을 미리 파악하는 AI 프롬프트 활용법을 소개합니다."
+title: " \"시니어 개발자처럼 코드 리뷰하기: 주니어 개발자를 위한 AI 프롬프트 가이드 (2026 Edition)\""
+description: " \"코드 리뷰가 두려운 주니어 개발자를 위해, 10년 차 시니어 개발자의 시선을 빌려 코드의 취약점과 개선점을 미리 파악하는 AI 프롬프트 활용법을 소개합니다.\""
 date: 2026-02-16
 tags: ["AI", "Code Review", "Productivity", "Junior Developer"]
 layout: ../layouts/BlogPost.astro

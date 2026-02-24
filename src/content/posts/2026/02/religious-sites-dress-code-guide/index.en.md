@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "No Shorts Allowed? Religious Site Visit Dress Code"
+title: " \"No Shorts Allowed? Religious Site Visit Dress Code\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Avoid being turned away at sacred sites. A complete guide to dress codes for temples, cathedrals, and mosques."
+description: " \"Avoid being turned away at sacred sites. A complete guide to dress codes for temples, cathedrals, and mosques.\""
 tags: ["Dress Code", "Religious Culture", "Temple Visit", "Travel Outfit"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Roteiro de Teatro de Sombras: Uma História de Ninar"
+title: " \"Roteiro de Teatro de Sombras: Uma História de Ninar\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Crie um mundo de fantasia apenas com uma lanterna. Roteiro interativo de teatro de sombras gerado por IA para uma rotina de sono tranquila."
+description: " \"Crie um mundo de fantasia apenas com uma lanterna. Roteiro interativo de teatro de sombras gerado por IA para uma rotina de sono tranquila.\""
 tags:
   [
     "Parentalidade",

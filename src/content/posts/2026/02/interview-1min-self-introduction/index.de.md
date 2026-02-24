@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erster Knopf des Interviews, Attraktiver '1-Minuten-Selbstvorstellungs'-Schreib-Prompt"
+title: " \"Erster Knopf des Interviews, Attraktiver '1-Minuten-Selbstvorstellungs'-Schreib-Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Erstelle eine überzeugende 1-Minuten-Selbstvorstellung, die deine Kernkompetenzen auf den Punkt bringt, anstatt auf klischeehafte Metaphern zurückzugreifen."
+description: " \"Erstelle eine überzeugende 1-Minuten-Selbstvorstellung, die deine Kernkompetenzen auf den Punkt bringt, anstatt auf klischeehafte Metaphern zurückzugreifen.\""
 tags:
   [
     "1MinSelbstvorstellung",

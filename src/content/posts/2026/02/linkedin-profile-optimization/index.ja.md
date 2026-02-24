@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ヘッドハンターが列をなす「LinkedIn」プロフィール最適化プロンプト"
+title: " \"ヘッドハンターが列をなす「LinkedIn」プロフィール最適化プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職・転職"
-description: "検索にヒットしやすいヘッドライン（Headline）と、魅力を最大限に引き出す自己紹介（About）を作成し、スカウトメールを10倍に増やすためのプロンプトです。"
+description: " \"検索にヒットしやすいヘッドライン（Headline）と、魅力を最大限に引き出す自己紹介（About）を作成し、スカウトメールを10倍に増やすためのプロンプトです。\""
 tags:
   [
     "LinkedIn",

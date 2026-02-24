@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows"
-description: "Master the art of prompting million-token context windows. Learn how to structure massive inputs with clear delimiters and optimize retrieval patterns."
+title: " \"Optimizing for Million-Token Context Windows\""
+description: " \"Master the art of prompting million-token context windows. Learn how to structure massive inputs with clear delimiters and optimize retrieval patterns.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "招聘公告 (JD)，写得让申请者蜂拥而至"
+title: " \"招聘公告 (JD)，写得让申请者蜂拥而至\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "吸引顶尖人才、让求职者无法拒绝的极具魅力的职位描述（JD）撰写指南与 AI 提示词。"
+description: " \"吸引顶尖人才、让求职者无法拒绝的极具魅力的职位描述（JD）撰写指南与 AI 提示词。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

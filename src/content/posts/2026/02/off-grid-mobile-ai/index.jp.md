@@ -1,6 +1,6 @@
 ---
-title: "Off Grid: スマホでインターネットなしにテキスト、画像、ビジョンAIを実行"
-description: "インターネット接続なしでスマートフォン上でテキスト、画像、ビジョンAIをオフラインで実行できるオープンソースツール「Off Grid」の完全ガイド。"
+title: " \"Off Grid: スマホでインターネットなしにテキスト、画像、ビジョンAIを実行\""
+description: " \"インターネット接続なしでスマートフォン上でテキスト、画像、ビジョンAIをオフラインで実行できるオープンソースツール「Off Grid」の完全ガイド。\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

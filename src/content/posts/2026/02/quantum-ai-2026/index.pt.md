@@ -1,5 +1,5 @@
 ---
-title: "Quantum AI 2026: Bridging the Gap"
+title: " \"Quantum AI 2026: Bridging the Gap\""
 date: 2026-02-14
 tags: [quantum, ai, future]
 ---

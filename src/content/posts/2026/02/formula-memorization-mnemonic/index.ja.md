@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "覚えられない公式、脳にタトゥーを刻む"
+title: " \"覚えられない公式、脳にタトゥーを刻む\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "数学/科学"
-description: "複雑な数学や科学の公式を、ストーリーテリングと記憶術（Mnemonic）で脳に直接刻み込み、絶対に忘れないようにするプロンプトです。"
+description: " \"複雑な数学や科学の公式を、ストーリーテリングと記憶術（Mnemonic）で脳に直接刻み込み、絶対に忘れないようにするプロンプトです。\""
 tags: ["暗記法", "記憶術", "勉強法", "プロンプト"]
 ---
 

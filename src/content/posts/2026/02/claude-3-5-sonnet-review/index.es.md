@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Claude 3.5 Sonnet: 왜 개발자들은 클로드에 열광하나?"
+title: " \"Claude 3.5 Sonnet: 왜 개발자들은 클로드에 열광하나?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Un nivel de programación que amenaza a GPT-4o. Análisis de las ventajas exclusivas de Claude 3.5 de Anthropic."
+description: " \"Un nivel de programación que amenaza a GPT-4o. Análisis de las ventajas exclusivas de Claude 3.5 de Anthropic.\""
 tags: ["Claude", "클로드", "AI코딩", "LLM", "개발자"]
 ---
 

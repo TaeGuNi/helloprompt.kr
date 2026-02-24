@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Não Sabe o Que Levar? Embalagem Inteligente com IA por Destino de Viagem"
+title: " \"Não Sabe o Que Levar? Embalagem Inteligente com IA por Destino de Viagem\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem"
-description: "Obtenha uma lista de bagagem impecável considerando o clima local, a cultura e as atividades do seu destino."
+description: " \"Obtenha uma lista de bagagem impecável considerando o clima local, a cultura e as atividades do seu destino.\""
 tags: ["Viagem", "Embalagem", "Lista de Verificação", "Preparação"]
 ---
 

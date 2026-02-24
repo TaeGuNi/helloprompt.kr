@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "OKR-Einstellungsleitfaden für Zielerreichung"
+title: " \"OKR-Einstellungsleitfaden für Zielerreichung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Setzen Sie inspirierende Ziele (Objectives) und messbare Schlüsselergebnisse (Key Results) für maximalen Erfolg."
+description: " \"Setzen Sie inspirierende Ziele (Objectives) und messbare Schlüsselergebnisse (Key Results) für maximalen Erfolg.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

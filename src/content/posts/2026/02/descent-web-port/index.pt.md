@@ -1,5 +1,5 @@
 ---
-title: "Descent, portado para a web"
+title: " \"Descent, portado para a web\""
 date: 2026-02-15
 categories: ["Web", "GameDev", "WASM"]
 tags: ["Three.js", "WebGL", "Descent", "Retro"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tabelle e Grafici Parlano: Tutor di Interpretazione Dati"
+title: " \"Tabelle e Grafici Parlano: Tutor di Interpretazione Dati\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matematica/Scienza"
-description: "Prompt che estrae intuizioni chiave da grafici o tabelle complessi e trova trappole nascoste."
+description: " \"Prompt che estrae intuizioni chiave da grafici o tabelle complessi e trova trappole nascoste.\""
 tags:
   ["AnalisiDati", "Statistica", "InterpretazioneGrafici", "AbilitàLavorativa"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resume Tone Correction: How to Shed 'Amateur' and Look 'Pro'"
+title: " \"Resume Tone Correction: How to Shed 'Amateur' and Look 'Pro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: "A correction prompt that refines your resume's tone to fit business standards, perfectly catching typos and ungrammatical sentences to boost your professional credibility."
+description: " \"A correction prompt that refines your resume's tone to fit business standards, perfectly catching typos and ungrammatical sentences to boost your professional credibility.\""
 tags: ["ResumeCorrection", "ToneCorrection", "BusinessWriting", "SpellCheck"]
 ---
 

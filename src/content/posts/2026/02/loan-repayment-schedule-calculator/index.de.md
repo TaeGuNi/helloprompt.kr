@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Darlehensrückzahlungsplan: Gleiche Kapital- und Zinszahlung vs Gleiche Kapitalzahlung"
+title: " \"Darlehensrückzahlungsplan: Gleiche Kapital- und Zinszahlung vs Gleiche Kapitalzahlung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Erstellen Sie eine professionelle Darlehenszinsrechner-Vorlage direkt in Excel, ohne auf unübersichtliche Bankseiten angewiesen zu sein."
+description: " \"Erstellen Sie eine professionelle Darlehenszinsrechner-Vorlage direkt in Excel, ohne auf unübersichtliche Bankseiten angewiesen zu sein.\""
 tags: ["Excel", "Darlehenszins", "Finanzfunktion", "PMT"]
 ---
 

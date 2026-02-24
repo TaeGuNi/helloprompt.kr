@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Un Pugno di Pillole? Combinazione di Integratori Personalizzata IA e Pianificatore"
+title: " \"Un Pugno di Pillole? Combinazione di Integratori Personalizzata IA e Pianificatore\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute"
-description: "Crea la tua routine di integratori ottimale con l'IA per evitare sovradosaggi e massimizzare l'assorbimento."
+description: " \"Crea la tua routine di integratori ottimale con l'IA per evitare sovradosaggi e massimizzare l'assorbimento.\""
 tags:
   ["Integratori", "Cibo Funzionale per la Salute", "Pianificatore", "Salute"]
 ---

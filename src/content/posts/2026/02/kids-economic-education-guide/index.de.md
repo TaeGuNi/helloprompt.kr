@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Wirtschaftsbildungsleitfaden für Kinder: Den Wert von Geld lehren"
+title: " \"Wirtschaftsbildungsleitfaden für Kinder: Den Wert von Geld lehren\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein praktischer KI-Prompt, mit dem Eltern ihren Kindern den wahren Wert von Geld und Arbeit verständlich erklären können."
+description: " \"Ein praktischer KI-Prompt, mit dem Eltern ihren Kindern den wahren Wert von Geld und Arbeit verständlich erklären können.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Chain-of-Thought (CoT) 提示：極大化 AI 的推理能力"
+title: " \"Chain-of-Thought (CoT) 提示：極大化 AI 的推理能力\""
 date: "2026-02-15"
-description: "深入了解 Chain-of-Thought (思維鏈) 提示工程，引導大型語言模型逐步拆解複雜問題，全面釋放 AI 的邏輯推理潛能。"
+description: " \"深入了解 Chain-of-Thought (思維鏈) 提示工程，引導大型語言模型逐步拆解複雜問題，全面釋放 AI 的邏輯推理潛能。\""
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "알약만 한 주먹? AI 맞춤형 영양제 조합 및 스케줄러"
+title: " \"알약만 한 주먹? AI 맞춤형 영양제 조합 및 스케줄러\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.115Z"
 updatedDate: "2026-02-07T09:10:33.115Z"
 category: "건강"
-description: "중복 섭취는 막고 흡수율은 높이는 최적의 영양제 루틴을 짜드립니다."
+description: " \"중복 섭취는 막고 흡수율은 높이는 최적의 영양제 루틴을 짜드립니다.\""
 tags: ["영양제", "건강기능식품", "스케줄러", "건강"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다"
-description: "Programar por 'vibras' es como la adicción al juego. Descubre 3 formas de usar la IA mientras desarrollas verdaderas habilidades de ingeniería de software."
+title: " \"바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다\""
+description: " \"Programar por 'vibras' es como la adicción al juego. Descubre 3 formas de usar la IA mientras desarrollas verdaderas habilidades de ingeniería de software.\""
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:

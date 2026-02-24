@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide Parfait de Meal Prep pour les Végans Débutants"
+title: " \"Guide Parfait de Meal Prep pour les Végans Débutants\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Délicieux et rassasiant même sans viande ! Découvrez nos recettes de meal prep végan riches en nutriments et des plannings de préparation optimisés par l'IA."
+description: " \"Délicieux et rassasiant même sans viande ! Découvrez nos recettes de meal prep végan riches en nutriments et des plannings de préparation optimisés par l'IA.\""
 tags: ["Végan", "Végétarien", "Meal Prep", "Santé", "ChatGPT"]
 ---
 

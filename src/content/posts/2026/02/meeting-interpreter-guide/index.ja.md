@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의 통역(Zoom/Teams): 실시간 자막 번역 프롬프트"
+title: " \"회의 통역(Zoom/Teams): 실시간 자막 번역 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "英語の会議に悩むビジネスパーソンのためのガイド。AIを活用してリアルタイムで字幕を表示し、スマートな回答まで提案してくれる完璧な通訳ワークフローをご紹介します。"
+description: " \"英語の会議に悩むビジネスパーソンのためのガイド。AIを活用してリアルタイムで字幕を表示し、スマートな回答まで提案してくれる完璧な通訳ワークフローをご紹介します。\""
 tags: ["통역", "번역", "Zoom", "영어회의", "Whisper"]
 ---
 

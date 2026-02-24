@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Gestos y Saludos Amistosos: No Seas Malinterpretado"
+title: " \"Guía de Gestos y Saludos Amistosos: No Seas Malinterpretado\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿A punto de meterte en problemas por un simple gesto con las manos? Descubre los saludos que te abrirán puertas y los gestos que debes evitar a toda costa."
+description: " \"¿A punto de meterte en problemas por un simple gesto con las manos? Descubre los saludos que te abrirán puertas y los gestos que debes evitar a toda costa.\""
 tags: ["Saludos", "Lenguaje Corporal", "Gestos", "Comunicación Cultural"]
 ---
 

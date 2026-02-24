@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibe Retrô dos Anos 80 Estilo 'Synthwave'"
+title: " \"Vibe Retrô dos Anos 80 Estilo 'Synthwave'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Crie artes incríveis no estilo Synthwave com a nostalgia neon dos anos 80, palmeiras e grades digitais."
+description: " \"Crie artes incríveis no estilo Synthwave com a nostalgia neon dos anos 80, palmeiras e grades digitais.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Retrô"]
 ---
 

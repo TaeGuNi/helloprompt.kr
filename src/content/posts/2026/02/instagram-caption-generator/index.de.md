@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Instagram-Bildunterschrift-Generator, der nach Likes ruft"
+title: " \"Instagram-Bildunterschrift-Generator, der nach Likes ruft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Wenn Sie ein Foto ausgewählt haben, aber Ihnen die passenden Worte fehlen, generiert dieser Prompt automatisch emotionale Bildunterschriften und die passenden Hashtags."
+description: " \"Wenn Sie ein Foto ausgewählt haben, aber Ihnen die passenden Worte fehlen, generiert dieser Prompt automatisch emotionale Bildunterschriften und die passenden Hashtags.\""
 tags: ["Instagram", "SNS-Marketing", "Copywriting", "Soziale Medien"]
 ---
 

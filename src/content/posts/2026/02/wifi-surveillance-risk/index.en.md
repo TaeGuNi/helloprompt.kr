@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 CCTV가 된다?"
+title: " \"와이파이(WiFi)가 보이지 않는 CCTV가 된다?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안/프라이버시"
-description: "Learn about the invisible surveillance risks of WiFi sensing technology and get an AI prompt to generate a comprehensive risk assessment report."
+description: " \"Learn about the invisible surveillance risks of WiFi sensing technology and get an AI prompt to generate a comprehensive risk assessment report.\""
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 

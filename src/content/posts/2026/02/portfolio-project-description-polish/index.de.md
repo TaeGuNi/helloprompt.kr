@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt, der gewöhnliche Projekterfahrung in 'Attraktives Portfolio' verwandelt"
+title: " \"Prompt, der gewöhnliche Projekterfahrung in 'Attraktives Portfolio' verwandelt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Verwandelt einfache Projektbeschreibungen in fesselndes Storytelling, bei dem Problemlösungsprozesse und eigene Beiträge im Fokus stehen."
+description: " \"Verwandelt einfache Projektbeschreibungen in fesselndes Storytelling, bei dem Problemlösungsprozesse und eigene Beiträge im Fokus stehen.\""
 tags:
   ["Portfolio", "Projektbeschreibung", "Karrierebeschreibung", "Storytelling"]
 ---

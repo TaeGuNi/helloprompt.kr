@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NBC奥运花样滑冰趋势：1分钟写出病毒式体育内容"
+title: " \"NBC奥运花样滑冰趋势：1分钟写出病毒式体育内容\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "内容制作"
-description: "这是一款能让你在1分钟内，用AI写出带有NBC奥运花样滑冰解说风格、生动且具病毒传播潜力的体育评论提示词。"
+description: " \"这是一款能让你在1分钟内，用AI写出带有NBC奥运花样滑冰解说风格、生动且具病毒传播潜力的体育评论提示词。\""
 tags:
   [
     "nbc olympics figure skating",

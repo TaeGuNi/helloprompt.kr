@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatische Planung von Projektzeitplänen (WBS)"
+title: " \"Automatische Planung von Projektzeitplänen (WBS)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Ein Planungs-Prompt, der Aufgaben durch Rückwärtskalkulation vom Stichtag präzise aufschlüsselt."
+description: " \"Ein Planungs-Prompt, der Aufgaben durch Rückwärtskalkulation vom Stichtag präzise aufschlüsselt.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

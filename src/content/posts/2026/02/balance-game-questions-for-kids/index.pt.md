@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perguntas de Jogo de Equilíbrio para Crianças: Conversa Sem Fim"
+title: " \"Perguntas de Jogo de Equilíbrio para Crianças: Conversa Sem Fim\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade e Educação"
-description: "Um gerador de perguntas de 'O que você prefere?' super divertido que faz as crianças falarem sem parar."
+description: " \"Um gerador de perguntas de 'O que você prefere?' super divertido que faz as crianças falarem sem parar.\""
 tags:
   [
     "Parentalidade",

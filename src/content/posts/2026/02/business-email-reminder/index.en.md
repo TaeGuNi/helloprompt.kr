@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "How to Write Business Emails That Remind Without Being Rude"
+title: " \"How to Write Business Emails That Remind Without Being Rude\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A professional email prompt to gently remind unresponsive partners without sounding pushy or damaging the relationship."
+description: " \"A professional email prompt to gently remind unresponsive partners without sounding pushy or damaging the relationship.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

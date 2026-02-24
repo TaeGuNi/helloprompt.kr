@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Komplexe Excel-Formeln, Prompt, der sie schreibt, wenn sie in Worten erklärt werden"
+title: " \"Komplexe Excel-Formeln, Prompt, der sie schreibt, wenn sie in Worten erklärt werden\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Verzweifeln Sie an SVERWEIS oder INDEX/VERGLEICH? Beschreiben Sie einfach Ihr Problem und dieser Prompt liefert Ihnen die perfekte Excel-Formel."
+description: " \"Verzweifeln Sie an SVERWEIS oder INDEX/VERGLEICH? Beschreiben Sie einfach Ihr Problem und dieser Prompt liefert Ihnen die perfekte Excel-Formel.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

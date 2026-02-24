@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "クリックを呼ぶFacebook/インスタ広告コピー生成機"
+title: " \"クリックを呼ぶFacebook/インスタ広告コピー生成機\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "マーケティング/コピーライティング"
-description: "ユーザーのスクロールを止める、魅力的なSNS広告のメインテキスト（Primary Text）をAIで自動生成するプロンプトです。"
+description: " \"ユーザーのスクロールを止める、魅力的なSNS広告のメインテキスト（Primary Text）をAIで自動生成するプロンプトです。\""
 tags:
   [
     "Facebook広告",

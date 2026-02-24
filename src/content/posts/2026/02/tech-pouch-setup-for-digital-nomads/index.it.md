@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Setup Pochette Tech per Nomadi Digitali: Lavoro e Viaggio"
+title: " \"Setup Pochette Tech per Nomadi Digitali: Lavoro e Viaggio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "La magia di un caffè che diventa ufficio. Dai laptop ai cavi, una lista di attrezzature per il lavoro remoto efficienti al 200%."
+description: " \"La magia di un caffè che diventa ufficio. Dai laptop ai cavi, una lista di attrezzature per il lavoro remoto efficienti al 200%.\""
 tags: ["Nomade Digitale", "Workation", "Attrezzatura Tech", "Lavoro Remoto"]
 ---
 

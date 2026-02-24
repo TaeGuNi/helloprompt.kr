@@ -1,6 +1,6 @@
 ---
-title: "What if Monet Painted Shin Yun-bok’s ‘Portrait of a Beauty’? An AI Fusion Masterpiece"
-description: "The delicate strokes of the Joseon Dynasty meet the light of Impressionism. Experience Shin Yun-bok's 'Portrait of a Beauty' reinterpreted by AI—a dreamy world of fusion art."
+title: " \"What if Monet Painted Shin Yun-bok’s ‘Portrait of a Beauty’? An AI Fusion Masterpiece\""
+description: " \"The delicate strokes of the Joseon Dynasty meet the light of Impressionism. Experience Shin Yun-bok's 'Portrait of a Beauty' reinterpreted by AI—a dreamy world of fusion art.\""
 author: "AI Art Lab"
 date: "2026-02-13"
 tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Math Give-up Saviour: Friendly Math Problem Explainer"
+title: " \"Math Give-up Saviour: Friendly Math Problem Explainer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Math/Science"
-description: "Say goodbye to frustrating answer keys. This prompt transforms AI into a patient tutor that breaks down math problems step-by-step."
+description: " \"Say goodbye to frustrating answer keys. This prompt transforms AI into a patient tutor that breaks down math problems step-by-step.\""
 tags: ["MathStudy", "ProblemSolving", "Prompt", "Tutoring"]
 ---
 

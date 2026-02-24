@@ -1,6 +1,6 @@
 ---
 date: "2026-02-14"
-description: 探讨与AI聊天机器人的情感纽带以及Deepfake技术带来的新伦理问题。
+description: "探讨与AI聊天机器人的情感纽带以及Deepfake技术带来的新伦理问题。"
 image: ./cover.jpg
 pubDate: "2026-02-14"
 tags:
@@ -8,7 +8,7 @@ tags:
   - Ethics
   - Society
   - Relationships
-title: AI关系的伦理：聊天机器人、Deepfake与道德困境
+title: "AI关系的伦理：聊天机器人、Deepfake与道德困境"
 ---
 
 # 📝 AI关系的伦理：聊天机器人、Deepfake与道德困境

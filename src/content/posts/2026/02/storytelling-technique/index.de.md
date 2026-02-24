@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Entkomme langweiligem Schreiben! Storytelling-Techniken, damit Leute lesen"
+title: " \"Entkomme langweiligem Schreiben! Storytelling-Techniken, damit Leute lesen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Schreiben"
-description: "Ein Prompt, der trockene Fakten in fesselnde Geschichten verwandelt und die Emotionen der Leser weckt."
+description: " \"Ein Prompt, der trockene Fakten in fesselnde Geschichten verwandelt und die Emotionen der Leser weckt.\""
 tags: ["Storytelling", "Schreiben", "Essay"]
 ---
 

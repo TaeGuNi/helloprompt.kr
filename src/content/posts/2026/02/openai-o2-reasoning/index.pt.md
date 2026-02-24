@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Evolução das capacidades de raciocínio da OpenAI 'o2': O que mudou?"
-description: "Uma análise aprofundada das capacidades inovadoras de raciocínio do modelo mais recente da OpenAI, o2, sua cadeia de pensamento aprimorada (CoT) e como utilizá-lo ao máximo para resolver problemas complexos."
+title: " \"Evolução das capacidades de raciocínio da OpenAI 'o2': O que mudou?\""
+description: " \"Uma análise aprofundada das capacidades inovadoras de raciocínio do modelo mais recente da OpenAI, o2, sua cadeia de pensamento aprimorada (CoT) e como utilizá-lo ao máximo para resolver problemas complexos.\""
 date: 2026-02-13
 pubDate: 2026-02-13
 ---

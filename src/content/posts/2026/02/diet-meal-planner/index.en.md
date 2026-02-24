@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creating AI Custom Diet Meal Plan Without a PT Teacher"
+title: " \"Creating AI Custom Diet Meal Plan Without a PT Teacher\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Create a perfect, one-week custom meal plan in just one minute based on your body type, target weight, and food preferences."
+description: " \"Create a perfect, one-week custom meal plan in just one minute based on your body type, target weight, and food preferences.\""
 tags: ["Diet", "Diet Management", "Fitness", "Health"]
 ---
 

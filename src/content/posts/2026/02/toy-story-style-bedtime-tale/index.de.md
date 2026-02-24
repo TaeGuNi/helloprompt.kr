@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nacht der Spielzeuge: 'Toy Story'-Stil Märchen"
+title: " \"Nacht der Spielzeuge: 'Toy Story'-Stil Märchen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Entdecken Sie, wie KI eine magische Gute-Nacht-Geschichte über die heimliche nächtliche Party der Lieblingsspielsachen Ihres Kindes erschafft."
+description: " \"Entdecken Sie, wie KI eine magische Gute-Nacht-Geschichte über die heimliche nächtliche Party der Lieblingsspielsachen Ihres Kindes erschafft.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

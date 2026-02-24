@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Partenaire de Conversation Natif de Coin (Gratuit)"
+title: " \"Partenaire de Conversation Natif de Coin (Gratuit)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprentissage des Langues Étrangères"
-description: "Comment développer vos compétences à l'oral grâce à des jeux de rôle illimités avec l'IA, une alternative gratuite et redoutablement efficace aux cours de langue coûteux."
+description: " \"Comment développer vos compétences à l'oral grâce à des jeux de rôle illimités avec l'IA, une alternative gratuite et redoutablement efficace aux cours de langue coûteux.\""
 tags: ["ConversationAnglaise", "JeuDeRôle", "Prompt", "DéveloppementPersonnel"]
 ---
 

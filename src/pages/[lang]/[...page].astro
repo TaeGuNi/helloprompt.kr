@@ -8,15 +8,13 @@ import type { Post } from "../../utils/postUtils";
 
 interface GetStaticPathsOptions {
   paginate: (
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    data: any[],
+    data: Post[],
     options: { params: { lang: string }; pageSize: number },
   ) => unknown[];
 }
 
 interface Props {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  page: Page<any>;
+  page: Page<Post>;
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {

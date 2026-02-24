@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "A IA não consegue te entender? Use 'Delimitadores'"
+title: " \"A IA não consegue te entender? Use 'Delimitadores'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Engenharia de Prompt"
-description: "A IA fica confusa ao resumir textos longos ou corrigir código? Use a técnica de Delimitadores para separar seções e dobrar sua precisão."
+description: " \"A IA fica confusa ao resumir textos longos ou corrigir código? Use a técnica de Delimitadores para separar seções e dobrar sua precisão.\""
 tags: ["Delimitadores", "Legibilidade", "Tags XML"]
 ---
 

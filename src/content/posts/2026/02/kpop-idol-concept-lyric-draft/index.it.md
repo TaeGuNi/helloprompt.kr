@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bozza Concetto e Testo Canzone Titolo Idol K-POP"
+title: " \"Bozza Concetto e Testo Canzone Titolo Idol K-POP\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "E se fossi tu il produttore? Pianifica l'universo narrativo di un gruppo idol, il concept dell'album e persino il testo della title track in un colpo solo."
+description: " \"E se fossi tu il produttore? Pianifica l'universo narrativo di un gruppo idol, il concept dell'album e persino il testo della title track in un colpo solo.\""
 tags: ["K-POP", "Idol", "Universo", "Pianificazione", "ScritturaTesti"]
 ---
 

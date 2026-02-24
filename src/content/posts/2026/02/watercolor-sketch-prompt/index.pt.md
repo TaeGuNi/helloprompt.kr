@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Técnica 'Esboço em Aquarela' Clara e Transparente"
+title: " \"Técnica 'Esboço em Aquarela' Clara e Transparente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de aquarela emocional que combina a fluidez da água com linhas precisas de esboço a lápis."
+description: " \"Prompt de aquarela emocional que combina a fluidez da água com linhas precisas de esboço a lápis.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Tradicional"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reviva Seu Canal Morto: A Fórmula de 1M de Visualizações"
+title: " \"Reviva Seu Canal Morto: A Fórmula de 1M de Visualizações\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Economia do Criador"
-description: "Deixe a IA gerar títulos e ideias de miniaturas 'clicáveis'. Veja seu CTR disparar."
+description: " \"Deixe a IA gerar títulos e ideias de miniaturas 'clicáveis'. Veja seu CTR disparar.\""
 tags:
   ["YouTube", "Miniatura", "Gerador de Títulos", "Clickbait", "Visualizações"]
 ---

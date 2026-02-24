@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "평범한 메모를 링크드인 바이럴 글쓰기로 변환하기"
+title: " \"평범한 메모를 링크드인 바이럴 글쓰기로 변환하기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "마케팅"
-description: "Trasforma le rigide note tecniche in post virali su LinkedIn che catturano like e interazioni."
+description: " \"Trasforma le rigide note tecniche in post virali su LinkedIn che catturano like e interazioni.\""
 tags: ["LinkedIn", "Writing", "PersonalBranding", "Viral"]
 ---
 

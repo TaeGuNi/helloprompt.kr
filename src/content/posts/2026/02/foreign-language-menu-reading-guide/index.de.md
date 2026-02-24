@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Anleitung zum Lesen fremdsprachiger Speisekarten: Bestellen wie ein Einheimischer"
+title: " \"Anleitung zum Lesen fremdsprachiger Speisekarten: Bestellen wie ein Einheimischer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Fremdsprachige Speisekarten im Urlaub souverän meistern – der ultimative KI-Prompt, um in jedem Restaurant weltweit wie ein Einheimischer zu bestellen."
+description: " \"Fremdsprachige Speisekarten im Urlaub souverän meistern – der ultimative KI-Prompt, um in jedem Restaurant weltweit wie ein Einheimischer zu bestellen.\""
 tags:
   [
     "Speisekarte lesen",

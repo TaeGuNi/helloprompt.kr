@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Corrección de Tono de Currículum: Cómo Deshacerse de 'Amateur' y Parecer 'Pro'"
+title: " \"Corrección de Tono de Currículum: Cómo Deshacerse de 'Amateur' y Parecer 'Pro'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Un prompt avanzado que refina el tono de tu currículum al estándar profesional, corrigiendo errores gramaticales y tipográficos para maximizar tu credibilidad."
+description: " \"Un prompt avanzado que refina el tono de tu currículum al estándar profesional, corrigiendo errores gramaticales y tipográficos para maximizar tu credibilidad.\""
 tags:
   [
     "CorrecciónCurrículum",

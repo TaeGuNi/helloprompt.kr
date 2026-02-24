@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide des Articles de Survie pour les Voyageurs de Longue Durée & Nomades Digitaux"
+title: " \"Guide des Articles de Survie pour les Voyageurs de Longue Durée & Nomades Digitaux\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Comme à la maison ? Des objets essentiels qui améliorent la qualité de vie lors des longs voyages."
+description: " \"Comme à la maison ? Des objets essentiels qui améliorent la qualité de vie lors des longs voyages.\""
 tags:
   [
     "Voyage Longue Durée",

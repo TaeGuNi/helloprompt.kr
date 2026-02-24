@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Buscador de Bares de Música en Vivo Locales: Descubriendo Lugares Hipster"
+title: " \"Buscador de Bares de Música en Vivo Locales: Descubriendo Lugares Hipster\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Basta de música de fondo aburrida en restaurantes para turistas. Emprende un viaje musical y siente el auténtico ritmo de los artistas locales."
+description: " \"Basta de música de fondo aburrida en restaurantes para turistas. Emprende un viaje musical y siente el auténtico ritmo de los artistas locales.\""
 tags:
   [
     "Viaje Musical",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5 Minutes Daily Mental Care, AI Gratitude Journal and Retrospection Prompt"
+title: " \"5 Minutes Daily Mental Care, AI Gratitude Journal and Retrospection Prompt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Stop staring at a blank page. Experience profound self-reflection and mental healing simply by answering thoughtful questions from your AI journaling companion."
+description: " \"Stop staring at a blank page. Experience profound self-reflection and mental healing simply by answering thoughtful questions from your AI journaling companion.\""
 tags: ["Diary", "Retrospection", "Gratitude Journal", "Mental Care"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Docker vs Podman: 2026년 컨테이너 승자는?"
+title: " \"Docker vs Podman: 2026년 컨테이너 승자는?\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/인프라"
-description: "A complete migration guide and AI prompts for developers exhausted by Docker's pricing model and heavy daemon processes. Switch to Podman seamlessly."
+description: " \"A complete migration guide and AI prompts for developers exhausted by Docker's pricing model and heavy daemon processes. Switch to Podman seamlessly.\""
 tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 ---
 

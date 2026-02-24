@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt di Ottimizzazione Profilo LinkedIn: Attirare Cacciatori di Teste"
+title: " \"Prompt di Ottimizzazione Profilo LinkedIn: Attirare Cacciatori di Teste\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carriera e Cambio Lavoro"
-description: "Aumenta le offerte di lavoro di 10 volte creando un Titolo ottimizzato per la SEO e una sezione Informazioni irresistibile."
+description: " \"Aumenta le offerte di lavoro di 10 volte creando un Titolo ottimizzato per la SEO e una sezione Informazioni irresistibile.\""
 tags:
   [
     "LinkedIn",

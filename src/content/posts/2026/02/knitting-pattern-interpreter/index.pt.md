@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "암호문 같은 뜨개질 도안, AI가 해석해드립니다"
+title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Traduza receitas de tricô em inglês cheias de abreviações (K1, P1, YO) para instruções claras e descritivas em português. Funciona perfeitamente com padrões do Ravelry e resolve o cálculo de amostras (gauge)."
+description: " \"Traduza receitas de tricô em inglês cheias de abreviações (K1, P1, YO) para instruções claras e descritivas em português. Funciona perfeitamente com padrões do Ravelry e resolve o cálculo de amostras (gauge).\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---
 

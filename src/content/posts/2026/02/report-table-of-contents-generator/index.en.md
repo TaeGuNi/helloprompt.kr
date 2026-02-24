@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Constructing a Report Table of Contents That Bosses Like"
+title: " \"Constructing a Report Table of Contents That Bosses Like\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A report outline prompt that establishes a flawless logical flow to persuade your boss."
+description: " \"A report outline prompt that establishes a flawless logical flow to persuade your boss.\""
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

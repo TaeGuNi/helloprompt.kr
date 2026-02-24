@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?"
+title: " \"Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?\""
 author: "ZZabbis"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"
-description: "AI가 탑재된 차세대 에디터 Cursor. 단순 자동 완성을 넘어 '코드베이스 전체를 이해하는' AI 페어 프로그래머와 코딩하는 완벽한 가이드."
+description: " \"AI가 탑재된 차세대 에디터 Cursor. 단순 자동 완성을 넘어 '코드베이스 전체를 이해하는' AI 페어 프로그래머와 코딩하는 완벽한 가이드.\""
 tags: ["Cursor", "IDE", "코딩", "AI", "생산성"]
 ---
 

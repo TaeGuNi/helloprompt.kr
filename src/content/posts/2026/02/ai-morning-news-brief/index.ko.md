@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "아침 뉴스 3분 브리핑! AI 뉴스레터"
+title: " \"아침 뉴스 3분 브리핑! AI 뉴스레터\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "바쁜 아침, 내 관심 분야의 핵심 뉴스만 쏙쏙 뽑아 3분 만에 브리핑해주는 나만의 AI 뉴스 앵커 프롬프트입니다."
+description: " \"바쁜 아침, 내 관심 분야의 핵심 뉴스만 쏙쏙 뽑아 3분 만에 브리핑해주는 나만의 AI 뉴스 앵커 프롬프트입니다.\""
 tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 ---
 

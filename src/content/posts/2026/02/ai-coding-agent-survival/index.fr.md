@@ -1,14 +1,14 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: À l'ère des agents autonomes comme GitHub Copilot X2, découvrez les méthodes concrètes et les prompts pour passer de simple développeur à "Manager IA".
+description: "À l'ère des agents autonomes comme GitHub Copilot X2, découvrez les méthodes concrètes et les prompts pour passer de simple développeur à \"Manager IA\"."
 tags:
   - AI
   - DevOps
   - Coding Agents
   - Prompt Engineering
   - Career
-title: "Agents de codage IA, de la 'rédaction' à la 'résolution' : Stratégies de survie pour les développeurs en 2026"
+title: " \"Agents de codage IA, de la 'rédaction' à la 'résolution' : Stratégies de survie pour les développeurs en 2026\""
 ---
 
 # 📝 Agents de codage IA, de la 'rédaction' à la 'résolution' : Stratégies de survie pour les développeurs en 2026

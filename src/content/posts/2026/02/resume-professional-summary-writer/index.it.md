@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prima Impressione Curriculum, Prompt Scrittura 'Riassunto'"
+title: " \"Prima Impressione Curriculum, Prompt Scrittura 'Riassunto'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Genera un potente riassunto professionale di 3-5 righe da inserire in cima al curriculum per massimizzare il tasso di superamento dello screening."
+description: " \"Genera un potente riassunto professionale di 3-5 righe da inserire in cima al curriculum per massimizzare il tasso di superamento dello screening.\""
 tags: ["Curriculum", "Riassunto", "RiassuntoProfilo", "AutoIntro"]
 ---
 

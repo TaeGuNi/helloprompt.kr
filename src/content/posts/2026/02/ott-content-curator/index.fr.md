@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Week-end Supprimé ! Guide de Recommandation Personnalisée de Contenu OTT IA"
+title: " \"Week-end Supprimé ! Guide de Recommandation Personnalisée de Contenu OTT IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Vous passez une heure sur l'écran d'accueil de Netflix ? L'IA analyse vos goûts et déniche le chef-d'œuvre qu'il vous faut pour une soirée réussie."
+description: " \"Vous passez une heure sur l'écran d'accueil de Netflix ? L'IA analyse vos goûts et déniche le chef-d'œuvre qu'il vous faut pour une soirée réussie.\""
 tags: ["Netflix", "Recommandation de Film", "OTT", "Drame"]
 ---
 

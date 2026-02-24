@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "회의록을 Jira 티켓으로 자동 변환하기"
+title: " \"회의록을 Jira 티켓으로 자동 변환하기\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "프로젝트 관리"
-description: "为您介绍一款如同魔法般的提示词，只需 10 秒，即可将 1 小时的会议记录完美转换为 Jira Ticket。"
+description: " \"为您介绍一款如同魔法般的提示词，只需 10 秒，即可将 1 小时的会议记录完美转换为 Jira Ticket。\""
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 

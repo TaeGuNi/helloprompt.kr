@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "패션 코디 추천: '내일 소개팅인데 뭐 입지?'"
+title: " \"패션 코디 추천: '내일 소개팅인데 뭐 입지?'\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/스타일"
-description: "衣柜里衣服很多却不知道穿什么？让AI私人造型师根据TPO（时间、地点、天气）为您量身定制完美穿搭，彻底告别出门前的穿衣焦虑。"
+description: " \"衣柜里衣服很多却不知道穿什么？让AI私人造型师根据TPO（时间、地点、天气）为您量身定制完美穿搭，彻底告别出门前的穿衣焦虑。\""
 tags: ["패션", "코디", "OOTD", "소개팅", "ChatGPT"]
 ---
 

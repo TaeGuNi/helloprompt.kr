@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Minimalistische Packliste: Reisen nur mit Handgepäck"
+title: " \"Minimalistische Packliste: Reisen nur mit Handgepäck\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Reisen macht erst mit leichtem Gepäck richtig Spaß. Entdecken Sie smartes Pack-Know-how, um unnötigen Ballast zu vermeiden und nur das Nötigste einzupacken."
+description: " \"Reisen macht erst mit leichtem Gepäck richtig Spaß. Entdecken Sie smartes Pack-Know-how, um unnötigen Ballast zu vermeiden und nur das Nötigste einzupacken.\""
 tags: ["Packen", "Minimalismus", "Handgepäck", "Packliste"]
 ---
 

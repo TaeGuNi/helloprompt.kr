@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cazador de Bugs: Prompt de Depuración para Atrapar Errores en 1 Minuto"
+title: " \"Cazador de Bugs: Prompt de Depuración para Atrapar Errores en 1 Minuto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/TI"
-description: "Prompt que encuentra la ubicación exacta del bug y su solución cuando te enfrentas a un mensaje de error desconocido junto con tu código."
+description: " \"Prompt que encuentra la ubicación exacta del bug y su solución cuando te enfrentas a un mensaje de error desconocido junto con tu código.\""
 tags: ["Depuración", "ArregloErrores", "Desarrollador", "Productividad"]
 ---
 

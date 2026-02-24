@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기"
+title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
-description: "Cómo crear un 'clon de IA' que escriba blogs y responda comentarios por ti. Descubre el prompt para clonar tu tono de voz."
+description: " \"Cómo crear un 'clon de IA' que escriba blogs y responda comentarios por ti. Descubre el prompt para clonar tu tono de voz.\""
 tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
 ---
 

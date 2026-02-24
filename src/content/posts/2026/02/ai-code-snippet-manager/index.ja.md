@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 뒤죽박죽 코드 조각, AI로 정리 끝! (AI Code Snippet Manager)
+title: "뒤죽박죽 코드 조각, AI로 정리 끝! (AI Code Snippet Manager)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: '「後で使おう」とメモ帳に適当に貼り付けたコード、また探すのに何時間もかかっていませんか？AIを活用してコードスニペットをすっきりと整理し、文書化する方法をご紹介します。'
+description: " '「後で使おう」とメモ帳に適当に貼り付けたコード、また探すのに何時間もかかっていませんか？AIを活用してコードスニペットをすっきりと整理し、文書化する方法をご紹介します。'"
 tags: [AI, Coding, Productivity, Refactoring]
 ---
 

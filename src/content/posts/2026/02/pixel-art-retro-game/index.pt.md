@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Mundo Feito de Pontos 'Pixel Art' Vibe Retrô"
+title: " \"Mundo Feito de Pontos 'Pixel Art' Vibe Retrô\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Prompt de pixel art em 8-bit e 16-bit para evocar a nostalgia dos jogos clássicos."
+description: " \"Prompt de pixel art em 8-bit e 16-bit para evocar a nostalgia dos jogos clássicos.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Retrô"]
 ---
 

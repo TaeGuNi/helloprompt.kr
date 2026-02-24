@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "와이파이(WiFi)가 보이지 않는 CCTV가 된다?"
+title: " \"와이파이(WiFi)가 보이지 않는 CCTV가 된다?\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안/프라이버시"
-description: "Scopri come la tecnologia di tracciamento basata su segnali WiFi funziona e analizza i suoi rischi per la privacy con questo prompt AI avanzato."
+description: " \"Scopri come la tecnologia di tracciamento basata su segnali WiFi funziona e analizza i suoi rischi per la privacy con questo prompt AI avanzato.\""
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Nombrar Productos Que Venden: Generador de Nombres"
+title: " \"Nombrar Productos Que Venden: Generador de Nombres\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Redacción Publicitaria"
-description: "Un prompt que genera nombres de productos atractivos que contienen la identidad de la marca en 3 segundos."
+description: " \"Un prompt que genera nombres de productos atractivos que contienen la identidad de la marca en 3 segundos.\""
 tags: ["Marketing", "Nombrar", "Marca", "Redacción Publicitaria"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Planejador de Viagem IA para Ps Mais Perfeitos que Js"
+title: " \"Planejador de Viagem IA para Ps Mais Perfeitos que Js\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: "Um prompt de guia de viagem que planeja rotas ideais e itinerários detalhados por hora, otimizando seu tempo e evitando deslocamentos desnecessários."
+description: " \"Um prompt de guia de viagem que planeja rotas ideais e itinerários detalhados por hora, otimizando seu tempo e evitando deslocamentos desnecessários.\""
 tags: ["Viagem", "Itinerário", "Viagem ao Exterior"]
 ---
 

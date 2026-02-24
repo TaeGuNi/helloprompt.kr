@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "ひらがな頭文字クイズゲーム：語彙力爆発プロンプト"
+title: " \"ひらがな頭文字クイズゲーム：語彙力爆発プロンプト\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育児・教育"
-description: "退屈な勉強の代わりに、AIを審判にしてゲーム感覚で単語を学ぶ方法をご紹介します。"
+description: " \"退屈な勉強の代わりに、AIを審判にしてゲーム感覚で単語を学ぶ方法をご紹介します。\""
 tags: ["育児", "教育", "AIプロンプト", "ChatGPT", "育児のヒント"]
 ---
 

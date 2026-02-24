@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "澄んで透明な「Watercolor Sketch」水彩画技法"
+title: " \"澄んで透明な「Watercolor Sketch」水彩画技法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "水がにじむような効果と鉛筆のスケッチラインが調和した、感性豊かな水彩画プロンプトです。"
+description: " \"水がにじむような効果と鉛筆のスケッチラインが調和した、感性豊かな水彩画プロンプトです。\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

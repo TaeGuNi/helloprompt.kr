@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "和苏格拉底吵架: 哲学争论伙伴"
+title: " \"和苏格拉底吵架: 哲学争论伙伴\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "人文/历史"
-description: "让 AI 戴上伟大哲学家的面具，通过层层追问，帮你打破思维定势、拓展思考深度的专属提示词。"
+description: " \"让 AI 戴上伟大哲学家的面具，通过层层追问，帮你打破思维定势、拓展思考深度的专属提示词。\""
 tags: ["哲学", "逻辑力", "讨论", "思考实验"]
 ---
 

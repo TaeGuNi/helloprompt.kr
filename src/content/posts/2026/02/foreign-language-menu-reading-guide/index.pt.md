@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia de Leitura de Menu em Língua Estrangeira: Peça Como um Local"
+title: " \"Guia de Leitura de Menu em Língua Estrangeira: Peça Como um Local\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Não sabe o que pedir no exterior? Descubra o método mais fácil para traduzir e entender cardápios em línguas estrangeiras usando inteligência artificial."
+description: " \"Não sabe o que pedir no exterior? Descubra o método mais fácil para traduzir e entender cardápios em línguas estrangeiras usando inteligência artificial.\""
 tags:
   [
     "Leitura de Menu",

@@ -1,6 +1,6 @@
 ---
-title: "AI 의사, 진료실에 들어오다"
-description: "진단을 넘어 치료 계획까지 제안하는 의료 AI의 현재."
+title: " \"AI 의사, 진료실에 들어오다\""
+description: " \"진단을 넘어 치료 계획까지 제안하는 의료 AI의 현재.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Texture de Papier Style 'Découpage de Papier & Origami'"
+title: " \"Texture de Papier Style 'Découpage de Papier & Origami'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Découvrez le prompt parfait pour générer des illustrations en style Paper Cutout et Origami, offrant un effet 3D chaleureux de papier superposé."
+description: " \"Découvrez le prompt parfait pour générer des illustrations en style Paper Cutout et Origami, offrant un effet 3D chaleureux de papier superposé.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Style Artistique", "Artisanat"]
 ---

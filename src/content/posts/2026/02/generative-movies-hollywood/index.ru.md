@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (ru)"
-description: "Анализ сгенерированных ИИ фильмов: как меняется Голливуд и киноиндустрия."
+title: " \"AI-Generated Movies: The Hollywood Shift (ru)\""
+description: " \"Анализ сгенерированных ИИ фильмов: как меняется Голливуд и киноиндустрия.\""
 date: "2026-02-14"
 ---
 

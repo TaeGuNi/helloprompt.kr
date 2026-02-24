@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Serviço de Ghostwriting de Cartas: De Confissão de Paixão a Recusa Educada"
+title: " \"Serviço de Ghostwriting de Cartas: De Confissão de Paixão a Recusa Educada\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Transmita com sinceridade aquilo que é difícil de dizer em palavras. A IA atua como seu ghostwriter, redigindo a carta ideal para qualquer situação."
+description: " \"Transmita com sinceridade aquilo que é difícil de dizer em palavras. A IA atua como seu ghostwriter, redigindo a carta ideal para qualquer situação.\""
 tags: ["Escrita", "Carta", "Amor", "Desculpa", "Recusa"]
 ---
 

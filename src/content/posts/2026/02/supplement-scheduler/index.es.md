@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Un Puñado de Pastillas? Combinación de Suplementos Personalizada con IA y Programador"
+title: " \"¿Un Puñado de Pastillas? Combinación de Suplementos Personalizada con IA y Programador\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Genera una rutina de suplementos óptima que evita la duplicación de nutrientes y maximiza su absorción mediante inteligencia artificial."
+description: " \"Genera una rutina de suplementos óptima que evita la duplicación de nutrientes y maximiza su absorción mediante inteligencia artificial.\""
 tags:
   ["Suplementos", "Alimento Funcional para la Salud", "Programador", "Salud"]
 ---

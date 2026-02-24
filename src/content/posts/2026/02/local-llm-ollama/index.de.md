@@ -1,6 +1,6 @@
 ---
-title: "Local LLMs Guide (German)"
-description: "Datenschutzfreundliche KI für jedermann: Ein Leitfaden für lokale LLMs"
+title: " \"Local LLMs Guide (German)\""
+description: " \"Datenschutzfreundliche KI für jedermann: Ein Leitfaden für lokale LLMs\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/ollama/800/600"
 tags: ["AI", "Tech", "local-llm-ollama"]

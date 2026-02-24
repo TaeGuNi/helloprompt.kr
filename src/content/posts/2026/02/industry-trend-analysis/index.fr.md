@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Analyse des Tendances Industrielles : Trouver des Marchés en Essor"
+title: " \"Analyse des Tendances Industrielles : Trouver des Marchés en Essor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Découvrez comment utiliser l'IA pour analyser les secteurs en forte croissance et identifier les actions à fort potentiel."
+description: " \"Découvrez comment utiliser l'IA pour analyser les secteurs en forte croissance et identifier les actions à fort potentiel.\""
 tags: ["Action", "AnalyseIndustrie", "Tendance", "ÉtudeMarché"]
 ---
 

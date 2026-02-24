@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brainstorming von 10 Versionen des ersten Satzes eines Romans"
+title: " \"Brainstorming von 10 Versionen des ersten Satzes eines Romans\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Kreation & Hobbys"
-description: "Fesseln Sie Ihre Leser gleich im ersten Satz. Erhalten Sie 10 brillante Ideen für einen unwiderstehlichen Romananfang mit starkem Hook."
+description: " \"Fesseln Sie Ihre Leser gleich im ersten Satz. Erhalten Sie 10 brillante Ideen für einen unwiderstehlichen Romananfang mit starkem Hook.\""
 tags: ["Roman", "ErsterSatz", "Schreiben", "Intro", "Brainstorming"]
 ---
 

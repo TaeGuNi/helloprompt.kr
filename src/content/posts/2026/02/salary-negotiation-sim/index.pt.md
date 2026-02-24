@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Simulador de Negociação Salarial: Treinando com um RH Malvado"
+title: " \"Simulador de Negociação Salarial: Treinando com um RH Malvado\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Carreira/Autodesenvolvimento"
-description: "Transforme a IA em um recrutador implacável e pratique sua negociação salarial. Seja rejeitado 10 vezes no mundo virtual para vencer no mundo real."
+description: " \"Transforme a IA em um recrutador implacável e pratique sua negociação salarial. Seja rejeitado 10 vezes no mundo virtual para vencer no mundo real.\""
 tags: ["Salário", "Negociação", "Entrevista", "Roleplay", "Carreira"]
 ---
 

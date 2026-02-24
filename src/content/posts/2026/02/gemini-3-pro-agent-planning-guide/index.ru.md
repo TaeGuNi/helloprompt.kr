@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기 (프롬프트 포함)"
+title: " \"Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기 (프롬프트 포함)\""
 author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "Прежде чем писать код, нужно грамотно всё спланировать. Представляем промпт, который использует режим Deep Think в Gemini 3 Pro для превращения смутных идей в детализированную архитектуру AI-агента."
+description: " \"Прежде чем писать код, нужно грамотно всё спланировать. Представляем промпт, который использует режим Deep Think в Gemini 3 Pro для превращения смутных идей в детализированную архитектуру AI-агента.\""
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 

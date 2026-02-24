@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Cruscotto Finanziario Excel: Rapporto con Immagini, Non Numeri"
+title: " \"Cruscotto Finanziario Excel: Rapporto con Immagini, Non Numeri\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Dite addio alle noiose tabelle Excel. Create una dashboard visiva di cui il vostro capo si innamorerà a prima vista, utilizzando Sparkline e Formattazione Condizionale."
+description: " \"Dite addio alle noiose tabelle Excel. Create una dashboard visiva di cui il vostro capo si innamorerà a prima vista, utilizzando Sparkline e Formattazione Condizionale.\""
 tags: ["Excel", "Cruscotto", "Visualizzazione", "Rapporto"]
 ---
 

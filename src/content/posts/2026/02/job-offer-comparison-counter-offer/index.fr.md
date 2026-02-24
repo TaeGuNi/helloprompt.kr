@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Stratégie de Comparaison d'Offres d'Emploi et de Contre-Offre"
+title: " \"Prompt de Stratégie de Comparaison d'Offres d'Emploi et de Contre-Offre\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrière & Changement d'Emploi"
-description: "Comparez les conditions de plusieurs offres d'emploi et planifiez une stratégie de contre-offre pour négocier de meilleures conditions salariales."
+description: " \"Comparez les conditions de plusieurs offres d'emploi et planifiez une stratégie de contre-offre pour négocier de meilleures conditions salariales.\""
 tags:
   [
     "Négociation d'Offre",

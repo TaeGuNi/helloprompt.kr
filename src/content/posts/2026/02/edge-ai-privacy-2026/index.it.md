@@ -1,6 +1,6 @@
 ---
-title: "Privacy First Edge AI (Italian)"
-description: "L'esecuzione di potenti LLM localmente sui dispositivi è ormai la norma, garantendo la massima privacy."
+title: " \"Privacy First Edge AI (Italian)\""
+description: " \"L'esecuzione di potenti LLM localmente sui dispositivi è ormai la norma, garantendo la massima privacy.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/edge/800/600"
 tags: ["AI", "Tech", "edge-ai-privacy-2026"]

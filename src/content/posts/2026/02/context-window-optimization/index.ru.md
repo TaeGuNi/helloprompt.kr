@@ -1,6 +1,6 @@
 ---
-title: "Optimizing for Million-Token Context Windows (Russian)"
-description: "Структурируйте большие объемы данных с помощью четких разделителей и используйте паттерны поиска для оптимизации контекста."
+title: " \"Optimizing for Million-Token Context Windows (Russian)\""
+description: " \"Структурируйте большие объемы данных с помощью четких разделителей и используйте паттерны поиска для оптимизации контекста.\""
 date: "2026-02-15"
 image: "/images/blog/default-ai.jpg"
 tags: ["AI", "Tech", "context-window-optimization"]

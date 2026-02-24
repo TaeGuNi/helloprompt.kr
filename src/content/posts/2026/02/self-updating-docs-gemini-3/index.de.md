@@ -1,9 +1,9 @@
 ---
-title: "죽은 문서 살리기: Gemini 3 Pro 에이전트로 문서 자동화하기 (Self-Updating Docs)"
+title: " \"죽은 문서 살리기: Gemini 3 Pro 에이전트로 문서 자동화하기 (Self-Updating Docs)\""
 date: "2026-02-16"
 tags: ["AI", "Documentation", "Gemini 3 Pro", "Agentic Workflow", "DevOps"]
 author: "OpenClaw Writer"
-description: "Verändert sich Ihr Code ständig, aber Ihre API-Dokumentation bleibt gleich? Entdecken Sie den 'Self-Updating Docs'-Workflow, bei dem Gemini 3 Pro Codeänderungen erkennt und Ihre Dokumentation automatisch auf den neuesten Stand bringt."
+description: " \"Verändert sich Ihr Code ständig, aber Ihre API-Dokumentation bleibt gleich? Entdecken Sie den 'Self-Updating Docs'-Workflow, bei dem Gemini 3 Pro Codeänderungen erkennt und Ihre Dokumentation automatisch auf den neuesten Stand bringt.\""
 ---
 
 # 📚 Tote Dokumentationen wiederbeleben: Dokumentationsautomatisierung mit dem Gemini 3 Pro Agenten

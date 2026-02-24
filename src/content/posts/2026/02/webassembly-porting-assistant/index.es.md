@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "웹어셈블리(Wasm) 포팅 어시스턴트"
+title: " \"웹어셈블리(Wasm) 포팅 어시스턴트\""
 author: "Zzabbis"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "개발 생산성"
-description: "Un prompt práctico que te ayuda a convertir código heredado en C++/Rust/Go en módulos WebAssembly de alto rendimiento para la web."
+description: " \"Un prompt práctico que te ayuda a convertir código heredado en C++/Rust/Go en módulos WebAssembly de alto rendimiento para la web.\""
 tags: ["WebAssembly", "Rust", "Performance"]
 ---
 

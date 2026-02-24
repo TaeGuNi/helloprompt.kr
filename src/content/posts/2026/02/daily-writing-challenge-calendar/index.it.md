@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sfida Scrittura Giornaliera: Auto-Generare Calendario Argomenti Scrittura 30 Giorni"
+title: " \"Sfida Scrittura Giornaliera: Auto-Generare Calendario Argomenti Scrittura 30 Giorni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Vuoi costruire un'abitudine di scrittura? L'IA pianifica un calendario di argomenti per 30 giorni su misura per i tuoi interessi."
+description: " \"Vuoi costruire un'abitudine di scrittura? L'IA pianifica un calendario di argomenti per 30 giorni su misura per i tuoi interessi.\""
 tags: ["Scrittura", "Abitudine", "Sfida", "Autosviluppo"]
 ---
 

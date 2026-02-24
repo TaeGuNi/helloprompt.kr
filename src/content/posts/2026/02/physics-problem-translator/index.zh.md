@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "物理题翻译器: 从状况判断到列式"
+title: " \"物理题翻译器: 从状况判断到列式\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "数学/科学"
-description: "一款能精准剖析物理题干、提取隐藏条件并自动匹配最佳解题公式的AI提示词。"
+description: " \"一款能精准剖析物理题干、提取隐藏条件并自动匹配最佳解题公式的AI提示词。\""
 tags: ["物理", "工程", "解决问题", "提示词"]
 ---
 

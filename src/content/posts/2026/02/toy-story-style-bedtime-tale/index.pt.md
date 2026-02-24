@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Noite dos Brinquedos: Conto de Fadas Estilo 'Toy Story'"
+title: " \"Noite dos Brinquedos: Conto de Fadas Estilo 'Toy Story'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalidade & Educação"
-description: "Descubra o que os brinquedos do seu filho fazem à noite e use essa história mágica para criar hábitos de organização sem brigas."
+description: " \"Descubra o que os brinquedos do seu filho fazem à noite e use essa história mágica para criar hábitos de organização sem brigas.\""
 tags:
   [
     "Parentalidade",

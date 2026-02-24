@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 복잡한 쿠버네티스 YAML, AI로 1초 만에 생성하기 (AI K8s Manifest Gen)
+title: "복잡한 쿠버네티스 YAML, AI로 1초 만에 생성하기 (AI K8s Manifest Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: 缩进错一个就报错的YAML地狱，现在交给AI吧。这是一个能完美生成Deployment、Service、Ingress等K8s清单的提示词。
+description: "缩进错一个就报错的YAML地狱，现在交给AI吧。这是一个能完美生成Deployment、Service、Ingress等K8s清单的提示词。"
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 

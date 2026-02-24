@@ -1,6 +1,6 @@
 ---
-title: "Off Grid: 스마트폰에서 인터넷 없이 AI 모델 실행하기"
-description: "비행기 모드에서도 완벽하게 작동하는 내 손안의 AI. 오프라인에서 안전하게 텍스트, 이미지, 문서를 분석하는 'Off Grid' 활용 가이드 및 최적화 프롬프트."
+title: " \"Off Grid: 스마트폰에서 인터넷 없이 AI 모델 실행하기\""
+description: " \"비행기 모드에서도 완벽하게 작동하는 내 손안의 AI. 오프라인에서 안전하게 텍스트, 이미지, 문서를 분석하는 'Off Grid' 활용 가이드 및 최적화 프롬프트.\""
 date: 2026-02-15
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 category: "AI Tools"

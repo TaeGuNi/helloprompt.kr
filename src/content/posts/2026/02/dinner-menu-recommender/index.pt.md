@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Paralisia de Decisão Resolvida! Recomendador de Menu de Jantar com IA"
+title: " \"Paralisia de Decisão Resolvida! Recomendador de Menu de Jantar com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Chega da eterna dúvida: 'O que vamos comer hoje?'. A IA decide o menu perfeito para o seu jantar com base no clima, no seu humor e no que tem na geladeira."
+description: " \"Chega da eterna dúvida: 'O que vamos comer hoje?'. A IA decide o menu perfeito para o seu jantar com base no clima, no seu humor e no que tem na geladeira.\""
 tags:
   [
     "Recomendação de Menu",

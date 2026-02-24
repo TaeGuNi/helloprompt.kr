@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi: AI 에이전트를 위한 로컬 워크스페이스"
+title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "Представляем AionUi — open-source интерфейс, решающий проблему «черного ящика» терминальных ИИ-агентов, таких как Gemini CLI и Claude Code."
+description: " \"Представляем AionUi — open-source интерфейс, решающий проблему «черного ящика» терминальных ИИ-агентов, таких как Gemini CLI и Claude Code.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

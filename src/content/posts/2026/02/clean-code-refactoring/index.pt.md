@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Meu Código é Lixo! Treinador de Refatoração Clean Code"
+title: " \"Meu Código é Lixo! Treinador de Refatoração Clean Code\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/TI"
-description: "Prompt que transforma códigos confusos e desorganizados em 'Clean Code', tornando-os fáceis de ler, manter e escalar."
+description: " \"Prompt que transforma códigos confusos e desorganizados em 'Clean Code', tornando-os fáceis de ler, manter e escalar.\""
 tags: ["Refatoração", "CleanCode", "Desenvolvedor", "RevisãoCódigo"]
 ---
 

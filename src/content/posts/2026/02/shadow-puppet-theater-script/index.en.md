@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Shadow Puppet Theater Script: A Bedtime Story"
+title: " \"Shadow Puppet Theater Script: A Bedtime Story\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Create a magical bedtime experience with a flashlight and this AI-written shadow play script."
+description: " \"Create a magical bedtime experience with a flashlight and this AI-written shadow play script.\""
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

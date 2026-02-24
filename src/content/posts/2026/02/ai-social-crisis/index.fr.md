@@ -1,6 +1,6 @@
 ---
-title: "La crise sociale de l'IA"
-description: "Analyse critique de la crise sociale de l'IA : comment éviter que les substituts virtuels ne détruisent nos véritables liens humains."
+title: " \"La crise sociale de l'IA\""
+description: " \"Analyse critique de la crise sociale de l'IA : comment éviter que les substituts virtuels ne détruisent nos véritables liens humains.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

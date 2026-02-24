@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "LLM 파인튜닝(Fine-tuning) 가이드: 나만의 뇌 만들기"
+title: " \"LLM 파인튜닝(Fine-tuning) 가이드: 나만의 뇌 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "Quand le RAG ne suffit plus. Le guide pratique pour créer une 'IA d'entreprise experte' en entraînant des modèles comme Llama 3 ou Mistral avec vos propres données."
+description: " \"Quand le RAG ne suffit plus. Le guide pratique pour créer une 'IA d'entreprise experte' en entraînant des modèles comme Llama 3 ou Mistral avec vos propres données.\""
 tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 ---
 

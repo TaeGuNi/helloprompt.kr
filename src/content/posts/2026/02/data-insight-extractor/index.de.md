@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erkenntnisse aus Rohdaten extrahieren"
+title: " \"Erkenntnisse aus Rohdaten extrahieren\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Analysieren Sie komplexe Excel-Daten mit KI und leiten Sie aussagekräftige geschäftliche Erkenntnisse ab."
+description: " \"Analysieren Sie komplexe Excel-Daten mit KI und leiten Sie aussagekräftige geschäftliche Erkenntnisse ab.\""
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

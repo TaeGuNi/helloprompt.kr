@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escapar do Inferno de Formatação de Currículo: Conversor Markdown"
+title: " \"Escapar do Inferno de Formatação de Currículo: Conversor Markdown\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Converta o conteúdo desorganizado do seu currículo em um formato Markdown limpo e estruturado, ideal para exportar em PDF ou importar no Notion."
+description: " \"Converta o conteúdo desorganizado do seu currículo em um formato Markdown limpo e estruturado, ideal para exportar em PDF ou importar no Notion.\""
 tags: ["FormatoCurrículo", "Markdown", "CurrículoNotion", "OrganizaçãoDoc"]
 ---
 

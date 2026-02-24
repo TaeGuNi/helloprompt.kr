@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "The Rise of Agentic IDEs: How AI is Reshaping Coding in 2026"
+title: " \"The Rise of Agentic IDEs: How AI is Reshaping Coding in 2026\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "In 2026, the paradigm of coding is shifting. We analyze the current state and future of agentic IDEs that go beyond simple autocomplete to autonomously think and write code."
+description: " \"In 2026, the paradigm of coding is shifting. We analyze the current state and future of agentic IDEs that go beyond simple autocomplete to autonomously think and write code.\""
 author: "Hello Prompt AI"
 tags: ["AI", "Coding", "Trends"]
 ---

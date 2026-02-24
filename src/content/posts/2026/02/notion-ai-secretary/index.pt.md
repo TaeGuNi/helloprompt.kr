@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Secretária de IA do Notion: Classificação de Tarefas Diárias & Auto-Agendamento"
+title: " \"Secretária de IA do Notion: Classificação de Tarefas Diárias & Auto-Agendamento\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Ferramentas de Produtividade"
-description: "Mágica para transformar o caos na sua cabeça em um plano de ação impecável. Jogue suas tarefas no Notion AI e obtenha uma lista priorizada em segundos."
+description: " \"Mágica para transformar o caos na sua cabeça em um plano de ação impecável. Jogue suas tarefas no Notion AI e obtenha uma lista priorizada em segundos.\""
 tags: ["Notion", "NotionAI", "GestãoTarefas", "Produtividade", "GTD"]
 ---
 

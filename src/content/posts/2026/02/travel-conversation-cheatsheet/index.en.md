@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Faster than Papago! Essential Travel Conversation Cheat Key by Situation"
+title: " \"Faster than Papago! Essential Travel Conversation Cheat Key by Situation\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "From ordering at restaurants and hotel check-ins to emergencies—practical conversation cards that work instantly with locals."
+description: " \"From ordering at restaurants and hotel check-ins to emergencies—practical conversation cards that work instantly with locals.\""
 tags: ["Travel", "Foreign Language", "Conversation", "English", "Japanese"]
 ---
 

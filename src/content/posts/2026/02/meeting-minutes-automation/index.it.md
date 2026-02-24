@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fuga dall'Inferno delle Riunioni: Da Registrazione a Verbale + Email in 3 Min"
+title: " \"Fuga dall'Inferno delle Riunioni: Da Registrazione a Verbale + Email in 3 Min\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automazione Lavorativa"
-description: "Il flusso di lavoro definitivo per automatizzare la noiosa stesura dei verbali di riunione utilizzando Whisper e GPT. Una guida essenziale per professionisti e figure junior."
+description: " \"Il flusso di lavoro definitivo per automatizzare la noiosa stesura dei verbali di riunione utilizzando Whisper e GPT. Una guida essenziale per professionisti e figure junior.\""
 tags: ["Verbale", "Whisper", "ChatGPT", "Automazione", "Produttività"]
 ---
 

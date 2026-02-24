@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Post-Run Stretching Guide: Preventing Runner's Knee"
+title: " \"Post-Run Stretching Guide: Preventing Runner's Knee\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "More important than the run itself is the finish. Get a personalized cool-down routine to prevent injuries and wake up refreshed without muscle soreness."
+description: " \"More important than the run itself is the finish. Get a personalized cool-down routine to prevent injuries and wake up refreshed without muscle soreness.\""
 tags: ["Running", "Marathon", "Stretching", "Cool-down", "Injury Prevention"]
 ---
 

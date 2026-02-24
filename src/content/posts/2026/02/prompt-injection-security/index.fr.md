@@ -1,6 +1,6 @@
 ---
-title: "Prompt Injection Security Risks (French)"
-description: "À mesure que les LLM s'intègrent aux outils, l'injection de prompt devient une vulnérabilité de sécurité critique."
+title: " \"Prompt Injection Security Risks (French)\""
+description: " \"À mesure que les LLM s'intègrent aux outils, l'injection de prompt devient une vulnérabilité de sécurité critique.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]

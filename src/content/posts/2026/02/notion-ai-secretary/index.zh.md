@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Notion AI 秘书：今日待办整理 & 日程安排自动化"
+title: " \"Notion AI 秘书：今日待办整理 & 日程安排自动化\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "生产力工具"
-description: "让 P人（随性型）变 J人（计划型）的魔法。把脑海中杂乱无章的待办事项交给 Notion AI，让它按优先级为您自动整理并生成日程。"
+description: " \"让 P人（随性型）变 J人（计划型）的魔法。把脑海中杂乱无章的待办事项交给 Notion AI，让它按优先级为您自动整理并生成日程。\""
 tags: ["Notion", "NotionAI", "任务管理", "生产力", "GTD"]
 ---
 

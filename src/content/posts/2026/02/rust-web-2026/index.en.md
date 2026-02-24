@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Rust for Web Development: The Ecosystem in 2026"
+title: " \"Rust for Web Development: The Ecosystem in 2026\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "A deep dive into the status of Rust in the web development ecosystem of 2026, the maturity of frameworks like Axum and Leptos, and the balance between performance and DX."
+description: " \"A deep dive into the status of Rust in the web development ecosystem of 2026, the maturity of frameworks like Axum and Leptos, and the balance between performance and DX.\""
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 ---

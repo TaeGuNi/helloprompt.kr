@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Conception d'Architecture Système : Microservices vs Monolithique, Il N'y a Pas de Mauvaise Réponse"
+title: " \"Conception d'Architecture Système : Microservices vs Monolithique, Il N'y a Pas de Mauvaise Réponse\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "L'architecture microservices (MSA) est-elle toujours la solution ? Guide pour choisir l'architecture optimale en fonction du trafic, de la taille de l'équipe et de la fréquence de déploiement."
+description: " \"L'architecture microservices (MSA) est-elle toujours la solution ? Guide pour choisir l'architecture optimale en fonction du trafic, de la taille de l'équipe et de la fréquence de déploiement.\""
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 

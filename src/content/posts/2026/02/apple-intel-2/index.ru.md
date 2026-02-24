@@ -1,5 +1,5 @@
 ---
-title: "Apple Intelligence 2.0: Локальная LLM Siri на iPhone 17"
+title: " \"Apple Intelligence 2.0: Локальная LLM Siri на iPhone 17\""
 date: "2026-02-15"
 category: "Tech"
 tags:
@@ -8,7 +8,7 @@ tags:
   - "Siri"
   - "iPhone 17"
 heroImage: "https://picsum.photos/1600/900"
-description: "Apple Intelligence 2.0, представленный вместе с iPhone 17, обеспечивает идеальную работу мощной LLM прямо на вашем устройстве."
+description: " \"Apple Intelligence 2.0, представленный вместе с iPhone 17, обеспечивает идеальную работу мощной LLM прямо на вашем устройстве.\""
 ---
 
 # 📝 Apple Intelligence 2.0: Как на 100% использовать локальную LLM Siri

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Unmemorizable Formulas, Tattooing on the Brain"
+title: " \"Unmemorizable Formulas, Tattooing on the Brain\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Math/Science"
-description: "A clever prompt that permanently tattoos complex math and science formulas into your brain using storytelling and mnemonics."
+description: " \"A clever prompt that permanently tattoos complex math and science formulas into your brain using storytelling and mnemonics.\""
 tags: ["MemorizationMethod", "Mnemonic", "StudyMethod", "Prompt"]
 ---
 

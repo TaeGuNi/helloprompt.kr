@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Meu código é um lixo! Coach de Refatoração Clean Code"
+title: " \"Meu código é um lixo! Coach de Refatoração Clean Code\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programação/TI"
-description: "Um prompt que transforma aquele código confuso, que apenas 'funciona', em um código limpo, legível e fácil de manter."
+description: " \"Um prompt que transforma aquele código confuso, que apenas 'funciona', em um código limpo, legível e fácil de manter.\""
 tags: ["Refatoração", "Clean Code", "Desenvolvedor", "Revisão de Código"]
 ---
 

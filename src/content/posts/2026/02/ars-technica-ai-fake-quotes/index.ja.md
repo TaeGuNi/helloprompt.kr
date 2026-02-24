@@ -1,5 +1,5 @@
 ---
-title: "ジャーナリズムの危機：Ars Technica、偽の引用で記事を撤回"
+title: " \"ジャーナリズムの危機：Ars Technica、偽の引用で記事を撤回\""
 date: "2026-02-15"
 image: "/images/2026-02-15-ars-technica-ai-fake-quotes.jpg"
 tags:
@@ -11,7 +11,7 @@ tags:
     "AIハルシネーション",
     "Matplotlib",
   ]
-description: "Ars Technicaは、Matplotlibメンテナの偽の引用が含まれていることが発覚した後、記事を撤回しました。この事件は、ジャーナリズムにおけるAI使用の危険性を浮き彫りにしています。"
+description: " \"Ars Technicaは、Matplotlibメンテナの偽の引用が含まれていることが発覚した後、記事を撤回しました。この事件は、ジャーナリズムにおけるAI使用の危険性を浮き彫りにしています。\""
 lang: "ja"
 ---
 

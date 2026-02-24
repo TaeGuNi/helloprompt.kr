@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Landmark History Crash Course: See What You Know"
+title: " \"Landmark History Crash Course: See What You Know\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Watch stones turn into living history. An AI docent that highlights the most fascinating stories without the dry lectures."
+description: " \"Watch stones turn into living history. An AI docent that highlights the most fascinating stories without the dry lectures.\""
 tags: ["History Travel", "Humanities", "Landmark", "Knowledge Travel"]
 ---
 

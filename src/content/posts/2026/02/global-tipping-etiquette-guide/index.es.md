@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía Global de Etiqueta de Propinas: ¿Debo dar Propina o No?"
+title: " \"Guía Global de Etiqueta de Propinas: ¿Debo dar Propina o No?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "¿Un 20% en EE. UU.? ¿Nada en Japón? La IA aclara de una vez por todas la confusa e incómoda cultura de las propinas."
+description: " \"¿Un 20% en EE. UU.? ¿Nada en Japón? La IA aclara de una vez por todas la confusa e incómoda cultura de las propinas.\""
 tags:
   [
     "Cultura de Propinas",

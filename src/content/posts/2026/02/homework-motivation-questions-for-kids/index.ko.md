@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "숙제하기 싫은 아이 동기부여: 잔소리 대신 질문하기"
+title: " \"숙제하기 싫은 아이 동기부여: 잔소리 대신 질문하기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "육아 & 교육"
-description: "억지로 시키지 않고 아이가 스스로 책상에 앉게 만드는 대화법"
+description: " \"억지로 시키지 않고 아이가 스스로 책상에 앉게 만드는 대화법\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

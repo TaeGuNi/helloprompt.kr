@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Régime des Dépenses Fixes : Idées pour Arrêter les Fuites d'Argent"
+title: " \"Régime des Dépenses Fixes : Idées pour Arrêter les Fuites d'Argent\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Les dépenses fixes vous pèsent chaque mois ? L'IA vous aide à débusquer les économies cachées pour stopper les fuites d'argent."
+description: " \"Les dépenses fixes vous pèsent chaque mois ? L'IA vous aide à débusquer les économies cachées pour stopper les fuites d'argent.\""
 tags: ["Économie", "DépenseFixe", "CoûtVie", "Frugalité"]
 ---
 

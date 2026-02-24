@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 커밋 전 자동 점검! AI Git Hook 생성기 (Git Hook Generator)
+title: "커밋 전 자동 점검! AI Git Hook 생성기 (Git Hook Generator)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: Husky와 pre-commit을 위한 완벽한 쉘 스크립트를 AI로 1초 만에 만드세요. 코드 품질을 자동으로 사수하는 방법입니다.
+description: "Husky와 pre-commit을 위한 완벽한 쉘 스크립트를 AI로 1초 만에 만드세요. 코드 품질을 자동으로 사수하는 방법입니다."
 tags: [AI, Git, DevOps, Automation]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "AI-Generated Movies: The Hollywood Shift (fr)"
-description: "Analyse des films générés par l'IA : Le grand tournant d'Hollywood."
+title: " \"AI-Generated Movies: The Hollywood Shift (fr)\""
+description: " \"Analyse des films générés par l'IA : Le grand tournant d'Hollywood.\""
 date: "2026-02-14"
 ---
 

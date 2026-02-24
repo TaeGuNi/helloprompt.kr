@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "MCP-сервер для Chrome DevTools: Революция веб-отладки для ИИ-агентов"
+title: " \"MCP-сервер для Chrome DevTools: Революция веб-отладки для ИИ-агентов\""
 date: 2026-02-14
-description: "Узнайте, как протокол Model Context Protocol (MCP) позволяет ИИ-агентам получать доступ к Chrome DevTools для прямой отладки и проверки веб-приложений."
+description: " \"Узнайте, как протокол Model Context Protocol (MCP) позволяет ИИ-агентам получать доступ к Chrome DevTools для прямой отладки и проверки веб-приложений.\""
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

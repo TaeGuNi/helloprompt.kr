@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "경쟁사 리뷰 10분 만에 분석하기 (AI Market Research)"
+title: " \"경쟁사 리뷰 10분 만에 분석하기 (AI Market Research)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "마케팅"
-description: "Cómo identificar las quejas y necesidades de los clientes sin tener que leer miles de reseñas."
+description: " \"Cómo identificar las quejas y necesidades de los clientes sin tener que leer miles de reseñas.\""
 tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
 ---
 

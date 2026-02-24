@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "When AI Acts Stupid: Use 'Chain of Thought (CoT)'"
+title: " \"When AI Acts Stupid: Use 'Chain of Thought (CoT)'\""
 author: "Zzabbis"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"
-description: "Does your AI answer simple questions well but fail at complex logic? Learn the Chain of Thought (CoT) technique used by top 1% prompt engineers."
+description: " \"Does your AI answer simple questions well but fail at complex logic? Learn the Chain of Thought (CoT) technique used by top 1% prompt engineers.\""
 tags: ["CoT", "Logical Thinking", "Problem Solving"]
 ---
 

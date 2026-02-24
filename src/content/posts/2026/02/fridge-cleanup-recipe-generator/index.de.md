@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kühlschrank-Aufräumung! KI-Gesunde-Rezepte-Generator"
+title: " \"Kühlschrank-Aufräumung! KI-Gesunde-Rezepte-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen."
+description: " \"5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen.\""
 tags: ["Kochen", "Rezept", "Diät", "Kühlschrank-Aufräumung"]
 ---
 

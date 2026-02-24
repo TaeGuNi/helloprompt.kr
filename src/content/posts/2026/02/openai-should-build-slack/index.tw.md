@@ -1,6 +1,6 @@
 ---
-title: "Why OpenAI Should Build Slack (Traditional Chinese)"
-description: "AI 與通訊平台的整合是企業生產力發展的必然趨勢"
+title: " \"Why OpenAI Should Build Slack (Traditional Chinese)\""
+description: " \"AI 與通訊平台的整合是企業生產力發展的必然趨勢\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]

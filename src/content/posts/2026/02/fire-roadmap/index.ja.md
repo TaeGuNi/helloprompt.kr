@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "FIRE族ロードマップ：早期引退のための4%の法則"
+title: " \"FIRE族ロードマップ：早期引退のための4%の法則\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "財テク & 投資"
-description: "経済的自由を夢見るあなたのために、FIRE達成時期と必要資産をシミュレーションします。"
+description: " \"経済的自由を夢見るあなたのために、FIRE達成時期と必要資産をシミュレーションします。\""
 tags: ["ファイア族", "早期引退", "経済的自由", "財テク"]
 ---
 

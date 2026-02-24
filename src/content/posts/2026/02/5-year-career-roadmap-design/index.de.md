@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "5-Jahres-Karriere-Roadmap-Design: Vom Jetzt zum C-Level"
+title: " \"5-Jahres-Karriere-Roadmap-Design: Vom Jetzt zum C-Level\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Verwandeln Sie eine vage Zukunftsvision in einen konkreten Karriereplan. Entwerfen Sie mit KI präzise Ziele für 1, 3 und 5 Jahre sowie die dafür notwendigen Fähigkeiten."
+description: " \"Verwandeln Sie eine vage Zukunftsvision in einen konkreten Karriereplan. Entwerfen Sie mit KI präzise Ziele für 1, 3 und 5 Jahre sowie die dafür notwendigen Fähigkeiten.\""
 tags:
   ["Karrierepfad", "Karriereentwicklung", "Selbstverbesserung", "Zielsetzung"]
 ---

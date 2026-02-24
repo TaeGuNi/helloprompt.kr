@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Studying Like a Genius: Feynman Technique Training Bot"
+title: " \"Studying Like a Genius: Feynman Technique Training Bot\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "StudyMethod/Self-Development"
-description: "The ultimate test of true understanding is teaching. Use this AI prompt to practice the Feynman Technique and pinpoint your knowledge gaps instantly."
+description: " \"The ultimate test of true understanding is teaching. Use this AI prompt to practice the Feynman Technique and pinpoint your knowledge gaps instantly.\""
 tags: ["StudyMethod", "FeynmanTechnique", "Metacognition", "Education"]
 ---
 

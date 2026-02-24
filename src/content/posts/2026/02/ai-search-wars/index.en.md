@@ -1,6 +1,6 @@
 ---
-title: "AI Search Wars: Google vs OpenAI"
-description: "The clash of giants over the future of search has begun."
+title: " \"AI Search Wars: Google vs OpenAI\""
+description: " \"The clash of giants over the future of search has begun.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

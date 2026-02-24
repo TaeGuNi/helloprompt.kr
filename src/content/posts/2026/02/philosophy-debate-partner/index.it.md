@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Discutere con Socrate: Partner di Dibattito Filosofico"
+title: " \"Discutere con Socrate: Partner di Dibattito Filosofico\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "Un prompt in cui l'IA assume l'identità di un celebre filosofo, sfidandoti con domande continue per espandere il tuo pensiero critico."
+description: " \"Un prompt in cui l'IA assume l'identità di un celebre filosofo, sfidandoti con domande continue per espandere il tuo pensiero critico.\""
 tags: ["Filosofia", "PotereLogico", "Dibattito", "EsperimentoMentale"]
 ---
 

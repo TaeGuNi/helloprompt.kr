@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Estrategia de Comparación de Ofertas de Trabajo y Contraoferta"
+title: " \"Prompt de Estrategia de Comparación de Ofertas de Trabajo y Contraoferta\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrera y Cambio de Trabajo"
-description: "Compara múltiples ofertas de trabajo y diseña una estrategia de contraoferta (Counter Offer) infalible para maximizar tu salario."
+description: " \"Compara múltiples ofertas de trabajo y diseña una estrategia de contraoferta (Counter Offer) infalible para maximizar tu salario.\""
 tags:
   [
     "Negociación de Oferta",

@@ -1,6 +1,6 @@
 ---
-title: "Infrastructure is the Only Truth in AI"
-description: "A critical analysis of infra-truth: Why infrastructure providers like NVIDIA are the only ones securing real profits in the AI boom."
+title: " \"Infrastructure is the Only Truth in AI\""
+description: " \"A critical analysis of infra-truth: Why infrastructure providers like NVIDIA are the only ones securing real profits in the AI boom.\""
 date: "2026-02-14"
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 tags: ["AI", "Trend", "2026"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Se API for Comparada a um Restaurante? Máquina de Venda de Metáforas de Conceitos de Codificação"
+title: " \"Se API for Comparada a um Restaurante? Máquina de Venda de Metáforas de Conceitos de Codificação\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/TI"
-description: "Um prompt que traduz conceitos complexos e abstratos de TI em metáforas do dia a dia, tornando-os tão simples que até uma criança conseguiria entender."
+description: " \"Um prompt que traduz conceitos complexos e abstratos de TI em metáforas do dia a dia, tornando-os tão simples que até uma criança conseguiria entender.\""
 tags: ["BásicoCodificação", "Metáfora", "TermosTI", "ExplicaçãoFácil"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Vibra de Impresión Vintage Estilo 'Impresión Risograph'"
+title: " \"Vibra de Impresión Vintage Estilo 'Impresión Risograph'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Un prompt atractivo de estilo de impresión Risograph, destacando por su semitono único y desalineación de color."
+description: " \"Un prompt atractivo de estilo de impresión Risograph, destacando por su semitono único y desalineación de color.\""
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Impresión"]
 ---

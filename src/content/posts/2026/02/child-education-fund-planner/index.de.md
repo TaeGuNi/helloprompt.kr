@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Kinderbildungsfonds-Plan: 10-Jahres-Langzeitprojekt"
+title: " \"Kinderbildungsfonds-Plan: 10-Jahres-Langzeitprojekt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Die Studiengebühren steigen rasanter als die Inflation. Wie viel Kapital wird wirklich benötigt, wenn Ihr Kind das Studium beginnt?"
+description: " \"Die Studiengebühren steigen rasanter als die Inflation. Wie viel Kapital wird wirklich benötigt, wenn Ihr Kind das Studium beginnt?\""
 tags: ["Bildungskosten", "Studiengebühr", "Ersparnisse", "Kinderplan"]
 ---
 

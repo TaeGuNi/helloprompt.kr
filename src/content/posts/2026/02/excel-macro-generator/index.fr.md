@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Échapper à l'Enfer d'Excel : Le Prompt qui Supprime les Heures Sup"
+title: " \"Échapper à l'Enfer d'Excel : Le Prompt qui Supprime les Heures Sup\""
 author: "Zzabbis"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Productivité"
-description: "Formules Excel complexes, macros VBA... Décrivez simplement votre problème, et l'IA écrit le code pour vous."
+description: " \"Formules Excel complexes, macros VBA... Décrivez simplement votre problème, et l'IA écrit le code pour vous.\""
 tags: ["Excel", "Automatisation", "VBA", "Astuces Travail"]
 ---
 

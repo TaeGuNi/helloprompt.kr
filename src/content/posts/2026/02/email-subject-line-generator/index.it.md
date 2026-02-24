@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Oggetti Email Che Fa Schizzare i Tassi di Apertura"
+title: " \"Generatore di Oggetti Email Che Fa Schizzare i Tassi di Apertura\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Evita che le tue newsletter finiscano dritte nello spam. Ecco come scrivere oggetti email che i clienti non potranno fare a meno di aprire."
+description: " \"Evita che le tue newsletter finiscano dritte nello spam. Ecco come scrivere oggetti email che i clienti non potranno fare a meno di aprire.\""
 tags: ["Email Marketing", "CRM", "Copywriting", "Newsletter"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tornando Visíveis Conceitos Invisíveis: Ajudante de Visualização de Conceitos"
+title: " \"Tornando Visíveis Conceitos Invisíveis: Ajudante de Visualização de Conceitos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemática/Ciência"
-description: "Prompt que desenha princípios científicos abstratos ou conceitos matemáticos com diagramas de texto (ASCII Art) e analogias."
+description: " \"Prompt que desenha princípios científicos abstratos ou conceitos matemáticos com diagramas de texto (ASCII Art) e analogias.\""
 tags: ["EstudoCiência", "Visualização", "Compreensão", "ASCIIArt"]
 ---
 

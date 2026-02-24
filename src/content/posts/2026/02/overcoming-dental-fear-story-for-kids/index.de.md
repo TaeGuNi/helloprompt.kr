@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Geschichte zur Überwindung von Zahnarztangst für Kinder: Mut tanken"
+title: " \"Geschichte zur Überwindung von Zahnarztangst für Kinder: Mut tanken\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Eine einfühlsame Geschichte zur Angstbewältigung für Kinder, die sich vor dem Zahnarztbesuch fürchten."
+description: " \"Eine einfühlsame Geschichte zur Angstbewältigung für Kinder, die sich vor dem Zahnarztbesuch fürchten.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

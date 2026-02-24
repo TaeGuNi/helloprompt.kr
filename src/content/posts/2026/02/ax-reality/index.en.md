@@ -1,6 +1,6 @@
 ---
-title: "The Truth About AX Reality: Corporate Hallucinations"
-description: "A critical analysis of AX reality: why AX is often just a corporate hallucination without real value."
+title: " \"The Truth About AX Reality: Corporate Hallucinations\""
+description: " \"A critical analysis of AX reality: why AX is often just a corporate hallucination without real value.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]

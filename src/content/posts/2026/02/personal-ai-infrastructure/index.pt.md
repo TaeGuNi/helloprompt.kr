@@ -1,8 +1,8 @@
 ---
-title: "Construindo uma Infraestrutura de IA Pessoal: Por que você deve possuir sua própria pilha de IA"
+title: " \"Construindo uma Infraestrutura de IA Pessoal: Por que você deve possuir sua própria pilha de IA\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Saiba como projetar e construir uma infraestrutura de IA pessoal (Personal AI Stack) para garantir privacidade total de dados e automação sem depender de SaaS."
+description: " \"Saiba como projetar e construir uma infraestrutura de IA pessoal (Personal AI Stack) para garantir privacidade total de dados e automação sem depender de SaaS.\""
 author: "Hello Prompt"
 image:
   url: "https://cdn.example.com/ai-stack.png"

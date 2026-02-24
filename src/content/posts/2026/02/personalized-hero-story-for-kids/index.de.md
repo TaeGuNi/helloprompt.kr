@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Erstellung eines Heldenmärchens, in dem mein Kind die Hauptfigur ist"
+title: " \"Erstellung eines Heldenmärchens, in dem mein Kind die Hauptfigur ist\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Magie, die das Selbstwertgefühl steigert: Eine personalisierte Abenteuergeschichte mit dem eigenen Kind als Held."
+description: " \"Magie, die das Selbstwertgefühl steigert: Eine personalisierte Abenteuergeschichte mit dem eigenen Kind als Held.\""
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

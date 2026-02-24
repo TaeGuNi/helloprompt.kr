@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Itinéraire de Visite de Ville d'Une Journée avec l'IA : Planification Parfaite en 1 Minute"
+title: " \"Itinéraire de Visite de Ville d'Une Journée avec l'IA : Planification Parfaite en 1 Minute\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Profitez d'une journée intense comme un vrai local ! Laissez l'IA concevoir un itinéraire d'une journée optimisé, sans perte de temps ni déplacements inutiles."
+description: " \"Profitez d'une journée intense comme un vrai local ! Laissez l'IA concevoir un itinéraire d'une journée optimisé, sans perte de temps ni déplacements inutiles.\""
 tags:
   ["Plan de Voyage", "Voyage d'Une Journée", "Visite de Ville", "Prompt GPT"]
 ---

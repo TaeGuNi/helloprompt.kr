@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "새벽 2시간, 몰입의 황금시간 확보하는 딥워크 스케줄링"
+title: " \"새벽 2시간, 몰입의 황금시간 확보하는 딥워크 스케줄링\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "시간관리"
-description: "Duas horas na madrugada, o horário nobre do foco. O que fazer para ser mais eficiente? A IA cria o cronograma perfeito de Deep Work alinhado ao seu biorritmo."
+description: " \"Duas horas na madrugada, o horário nobre do foco. O que fazer para ser mais eficiente? A IA cria o cronograma perfeito de Deep Work alinhado ao seu biorritmo.\""
 tags: ["딥워크", "시간관리", "생산성", "새벽공부"]
 ---
 

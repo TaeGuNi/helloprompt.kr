@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Problème de Toute une Vie du Développeur 'Nommer les Variables', l'IA le Fait Pour Vous"
+title: " \"Problème de Toute une Vie du Développeur 'Nommer les Variables', l'IA le Fait Pour Vous\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Fini les noms de variables obscurs comme tmp, data ou a. Découvrez le prompt ultime pour générer des noms de variables et de fonctions parfaitement adaptés au contexte, respectant les conventions de code et dignes d'un développeur natif."
+description: " \"Fini les noms de variables obscurs comme tmp, data ou a. Découvrez le prompt ultime pour générer des noms de variables et de fonctions parfaitement adaptés au contexte, respectant les conventions de code et dignes d'un développeur natif.\""
 tags: ["Nommage", "Clean Code", "Nom de Variable", "Étude de l'Anglais"]
 ---
 

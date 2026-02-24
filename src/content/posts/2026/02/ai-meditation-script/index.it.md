@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "명상 가이드: 내 기분에 맞는 명상 스크립트 생성"
+title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "멘탈 케어"
-description: "Non riesci a dormire? Sei arrabbiato o hai bisogno di concentrazione? L'intelligenza artificiale scrive e legge per te guide alla meditazione personalizzate in base alla situazione."
+description: " \"Non riesci a dormire? Sei arrabbiato o hai bisogno di concentrazione? L'intelligenza artificiale scrive e legge per te guide alla meditazione personalizzate in base alla situazione.\""
 tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Brainstorming 10 Versions of Novel First Sentence"
+title: " \"Brainstorming 10 Versions of Novel First Sentence\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Captivate your readers from the very first line. Generate 10 powerful opening hook recommendations for your novel."
+description: " \"Captivate your readers from the very first line. Generate 10 powerful opening hook recommendations for your novel.\""
 tags: ["Novel", "FirstSentence", "Writing", "Intro", "Brainstorming"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Sleep Routine Generator: Teaching Your Brain It's Time to Sleep"
+title: " \"AI Sleep Routine Generator: Teaching Your Brain It's Time to Sleep\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Design a highly effective bedtime routine that trains your brain to fall asleep instantly using AI-driven habit conditioning."
+description: " \"Design a highly effective bedtime routine that trains your brain to fall asleep instantly using AI-driven habit conditioning.\""
 tags: ["Sleep Routine", "Insomnia", "Habit", "Health", "ChatGPT"]
 ---
 

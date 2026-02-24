@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)"
+title: " \"AI로 내 코드의 구멍을 찾아라! (버그 사냥꾼)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발"
-description: "사수 없이 일하는 주니어 개발자를 위한 완벽한 AI 코드 리뷰어 프롬프트 가이드입니다."
+description: " \"사수 없이 일하는 주니어 개발자를 위한 완벽한 AI 코드 리뷰어 프롬프트 가이드입니다.\""
 tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 ---
 

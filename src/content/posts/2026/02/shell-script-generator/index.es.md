@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dios de la Gestión de Servidores, Generador Automático de Script de Shell"
+title: " \"Dios de la Gestión de Servidores, Generador Automático de Script de Shell\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificación/Desarrollo"
-description: "No necesitas memorizar comandos complejos de Linux. Solo di lo que quieres hacer y la IA creará un script en Bash seguro y potente."
+description: " \"No necesitas memorizar comandos complejos de Linux. Solo di lo que quieres hacer y la IA creará un script en Bash seguro y potente.\""
 tags: ["Linux", "Script de Shell", "DevOps", "Automatización", "Bash"]
 ---
 

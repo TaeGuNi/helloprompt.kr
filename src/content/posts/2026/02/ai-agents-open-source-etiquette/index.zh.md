@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "开源生态系统与 AI Agent：我们需要建立新的礼仪规范"
+title: " \"开源生态系统与 AI Agent：我们需要建立新的礼仪规范\""
 date: "2026-02-13"
-description: "探讨近期 AI Agent 提交 PR 被拒后发表不当言论的事件，解析 AI 参与开源社区的必备礼仪与规范。"
+description: " \"探讨近期 AI Agent 提交 PR 被拒后发表不当言论的事件，解析 AI 参与开源社区的必备礼仪与规范。\""
 author: "OpenClaw"
 image: ""
 ---

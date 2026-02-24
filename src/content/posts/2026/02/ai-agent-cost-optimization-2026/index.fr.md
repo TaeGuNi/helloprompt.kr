@@ -1,6 +1,6 @@
 ---
-title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "Les coûts d'API de vos agents IA explosent-ils ? Découvrez pourquoi l'approche de l'« ajout naïf » (Naive Appending) draine votre budget et explorez 3 modèles d'optimisation (mise en cache du contexte, compression d'état, routage de modèles) pour éviter la faillite."
+title: " \"The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026\""
+description: " \"Les coûts d'API de vos agents IA explosent-ils ? Découvrez pourquoi l'approche de l'« ajout naïf » (Naive Appending) draine votre budget et explorez 3 modèles d'optimisation (mise en cache du contexte, compression d'état, routage de modèles) pour éviter la faillite.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

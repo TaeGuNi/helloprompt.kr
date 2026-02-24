@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "List? Map? Set? Data Structure Prescription for Decisiveness"
+title: " \"List? Map? Set? Data Structure Prescription for Decisiveness\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "Struggling to choose the right data structure? This prompt recommends the optimal data structure perfectly suited for your specific scenario."
+description: " \"Struggling to choose the right data structure? This prompt recommends the optimal data structure perfectly suited for your specific scenario.\""
 tags: ["Data Structure", "Algorithm", "Performance Optimization", "CS Basics"]
 ---
 

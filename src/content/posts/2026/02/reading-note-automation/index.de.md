@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "독서 노트 자동화: 책 사진 찍으면 핵심 요약 + 내 생각 정리"
+title: " \"독서 노트 자동화: 책 사진 찍으면 핵심 요약 + 내 생각 정리\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/학습"
-description: "Vergessen Sie den Inhalt, sobald Sie ein Buch zuklappen? Der ultimative Guide, um Texte per KI-OCR zu extrahieren und durch Deep-Dive-Diskussionen fundierte Buchrezensionen zu erstellen."
+description: " \"Vergessen Sie den Inhalt, sobald Sie ein Buch zuklappen? Der ultimative Guide, um Texte per KI-OCR zu extrahieren und durch Deep-Dive-Diskussionen fundierte Buchrezensionen zu erstellen.\""
 tags: ["독서", "서평", "OCR", "ChatGPT", "지식관리"]
 ---
 

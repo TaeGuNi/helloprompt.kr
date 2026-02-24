@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Generatore di Prompt per il Journaling Riflessivo"
+title: " \"Generatore di Prompt per il Journaling Riflessivo\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Sviluppo Personale"
-description: "Un prompt su misura per il journaling che stimola una profonda introspezione e crescita personale quando ti trovi di fronte a una pagina bianca."
+description: " \"Un prompt su misura per il journaling che stimola una profonda introspezione e crescita personale quando ti trovi di fronte a una pagina bianca.\""
 tags: ["Scrittura", "Guarigione", "Riflessione", "Journaling"]
 ---
 

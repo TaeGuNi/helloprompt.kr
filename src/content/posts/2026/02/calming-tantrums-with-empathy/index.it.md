@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Copione di 'Conversazione Empatica' per Calmare un Bambino che Fa i Capricci"
+title: " \"Copione di 'Conversazione Empatica' per Calmare un Bambino che Fa i Capricci\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Le parole magiche dei genitori per calmare il cervello emotivo di un bambino in preda ai capricci."
+description: " \"Le parole magiche dei genitori per calmare il cervello emotivo di un bambino in preda ai capricci.\""
 tags:
   [
     "Genitorialità",

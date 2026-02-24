@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "YouTube Channel Name & Nickname Recommendation (YouTube Channel Naming)"
+title: " \"YouTube Channel Name & Nickname Recommendation (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Craft a catchy YouTube channel name that attracts subscribers! Let AI generate algorithm-friendly, memorable naming ideas."
+description: " \"Craft a catchy YouTube channel name that attracts subscribers! Let AI generate algorithm-friendly, memorable naming ideas.\""
 tags: ["YouTube", "ChannelName", "Nickname", "Creator", "Naming"]
 ---
 

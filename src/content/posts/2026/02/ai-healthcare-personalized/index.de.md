@@ -3,10 +3,7 @@ categories:
   - AI News
   - Healthcare
 date: "2026-02-13"
-description:
-  Einheitsbehandlungen gehören der Vergangenheit an. Erfahren Sie mehr
-  über den aktuellen Stand der 'Präzisionsmedizin', bei der KI Genomdaten analysiert,
-  um die optimale Behandlung für jeden Einzelnen vorzuschlagen.
+description: "Einheitsbehandlungen gehören der Vergangenheit an. Erfahren Sie mehr über den aktuellen Stand der 'Präzisionsmedizin', bei der KI Genomdaten analysiert, um die optimale Behandlung für jeden Einzelnen vorzuschlagen."
 image: /images/blog/ai-health.jpg
 pubDate: "2026-02-13"
 tags:
@@ -14,7 +11,7 @@ tags:
   - Personalized Medicine
   - Genomics
   - Future Tech
-title: "KI und Personalisierte Medizin: Ein Rezept nur für Sie"
+title: " \"KI und Personalisierte Medizin: Ein Rezept nur für Sie\""
 ---
 
 # 📝 KI und Personalisierte Medizin: Ein Rezept nur für Sie

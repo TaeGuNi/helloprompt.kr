@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Ressuscitez Votre Chaîne Morte : La Formule du Million de Vues"
+title: " \"Ressuscitez Votre Chaîne Morte : La Formule du Million de Vues\""
 author: "Zzabbis"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Économie des Créateurs"
-description: "Laissez l'IA concevoir des titres magnétiques et des concepts de miniatures ultra-cliquables. Regardez votre taux de clics (CTR) exploser."
+description: " \"Laissez l'IA concevoir des titres magnétiques et des concepts de miniatures ultra-cliquables. Regardez votre taux de clics (CTR) exploser.\""
 tags: ["YouTube", "Miniature", "Générateur de Titres", "Clickbait", "Vues"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Paralysie de la Décision Résolue ! Recommandeur de Menu de Dîner IA"
+title: " \"Paralysie de la Décision Résolue ! Recommandeur de Menu de Dîner IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vie Quotidienne"
-description: "Fini l'éternel dilemme du 'Qu'est-ce qu'on mange ce soir ?'. L'IA choisit le menu parfait en fonction de la météo, de votre humeur et du contenu de votre frigo."
+description: " \"Fini l'éternel dilemme du 'Qu'est-ce qu'on mange ce soir ?'. L'IA choisit le menu parfait en fonction de la météo, de votre humeur et du contenu de votre frigo.\""
 tags:
   [
     "Recommandation de Menu",

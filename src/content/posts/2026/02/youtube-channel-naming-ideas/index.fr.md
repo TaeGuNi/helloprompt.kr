@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Recommandation de Nom et Surnom de Chaîne YouTube (YouTube Channel Naming)"
+title: " \"Recommandation de Nom et Surnom de Chaîne YouTube (YouTube Channel Naming)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Trouvez un nom de chaîne accrocheur pour attirer vos abonnés ! L'IA vous propose des noms percutants optimisés pour l'algorithme."
+description: " \"Trouvez un nom de chaîne accrocheur pour attirer vos abonnés ! L'IA vous propose des noms percutants optimisés pour l'algorithme.\""
 tags: ["YouTube", "NomChaîne", "Surnom", "Créateur", "Nommage"]
 ---
 

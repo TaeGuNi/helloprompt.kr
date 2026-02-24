@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Coaching de Pronúncia Nativa Aprendido por Texto"
+title: " \"Coaching de Pronúncia Nativa Aprendido por Texto\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "Prompt para aprender visualmente símbolos fonéticos, ritmo e entonação em inglês, ideal para praticar em ambientes onde não é possível ouvir áudio."
+description: " \"Prompt para aprender visualmente símbolos fonéticos, ritmo e entonação em inglês, ideal para praticar em ambientes onde não é possível ouvir áudio.\""
 tags: ["PronúnciaInglesa", "Shadowing", "Prompt", "Falar"]
 ---
 

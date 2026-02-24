@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Como Escrever E-mails de Negócios Que Lembram Sem Ser Rude"
+title: " \"Como Escrever E-mails de Negócios Que Lembram Sem Ser Rude\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Prompt prático para cobrar respostas de parceiros de negócios de forma elegante, firme e sem soar rude."
+description: " \"Prompt prático para cobrar respostas de parceiros de negócios de forma elegante, firme e sem soar rude.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

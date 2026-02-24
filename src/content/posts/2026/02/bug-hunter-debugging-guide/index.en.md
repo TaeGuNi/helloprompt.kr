@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs with Unknown Causes, Leave it to the AI Detective"
+title: " \"Bugs with Unknown Causes, Leave it to the AI Detective\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "For elusive bugs that cannot be diagnosed from logs alone, AI can pinpoint the root cause using just a stack trace and a code snippet."
+description: " \"For elusive bugs that cannot be diagnosed from logs alone, AI can pinpoint the root cause using just a stack trace and a code snippet.\""
 tags: ["Debugging", "Bug Fix", "Troubleshooting", "Error Resolution"]
 ---
 

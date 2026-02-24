@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escapando da Fobia de Tela em Branco: Arquiteto de Esboço de Ensaio"
+title: " \"Escapando da Fobia de Tela em Branco: Arquiteto de Esboço de Ensaio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MétodoEstudo/Autodesenvolvimento"
-description: "Prompt que define a estrutura lógica (Introdução-Desenvolvimento-Conclusão) e sugere ideias centrais por parágrafo para superar o bloqueio criativo."
+description: " \"Prompt que define a estrutura lógica (Introdução-Desenvolvimento-Conclusão) e sugere ideias centrais por parágrafo para superar o bloqueio criativo.\""
 tags: ["Escrita", "Ensaio", "Relatório", "Atribuição"]
 ---
 

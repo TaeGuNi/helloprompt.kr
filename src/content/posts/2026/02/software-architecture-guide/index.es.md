@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다"
+title: " \"시스템 아키텍처 설계: MSA vs Monolithic, 정답은 없다\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"
-description: "¿Microservicios (MSA) siempre son la respuesta? Guía para elegir la arquitectura óptima según el tráfico, el tamaño del equipo y la frecuencia de despliegue."
+description: " \"¿Microservicios (MSA) siempre son la respuesta? Guía para elegir la arquitectura óptima según el tráfico, el tamaño del equipo y la frecuencia de despliegue.\""
 tags: ["MSA", "모놀리식", "아키텍처", "시스템설계", "백엔드"]
 ---
 

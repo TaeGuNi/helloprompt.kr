@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Transformer un CV Coréen en un CV Anglais de Niveau Natif"
+title: " \"Transformer un CV Coréen en un CV Anglais de Niveau Natif\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Bien plus qu'une simple traduction. Convertissez votre CV avec des expressions percutantes et un format parfaitement adapté à la culture de recrutement anglophone."
+description: " \"Bien plus qu'une simple traduction. Convertissez votre CV avec des expressions percutantes et un format parfaitement adapté à la culture de recrutement anglophone.\""
 tags:
   [
     "CVAnglais",

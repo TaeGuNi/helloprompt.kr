@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Overwhelming Spatial Sense 'Wide Angle & Fisheye' Lens Effect"
+title: " \"Overwhelming Spatial Sense 'Wide Angle & Fisheye' Lens Effect\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Wide-angle and fisheye lens prompts that capture narrow spaces comprehensively and magnificent landscapes at a glance."
+description: " \"Wide-angle and fisheye lens prompts that capture narrow spaces comprehensively and magnificent landscapes at a glance.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

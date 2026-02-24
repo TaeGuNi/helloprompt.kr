@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "私も作家になれる？売れる本目次企画"
+title: " \"私も作家になれる？売れる本目次企画\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "ライティング"
-description: "漠然とした出版の夢を現実にする、本の企画案および目次構成プロンプトです。"
+description: " \"漠然とした出版の夢を現実にする、本の企画案および目次構成プロンプトです。\""
 tags: ["本書き", "出版企画", "電子書籍"]
 ---
 

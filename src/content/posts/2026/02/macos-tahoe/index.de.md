@@ -1,6 +1,6 @@
 ---
-title: "macOS Tahoe: Die Kontroverse um die Fenstergröße"
-description: "Eine Analyse der 'Intelligent Edge'-Funktion in macOS Tahoe und ein KI-Prompt zur Formulierung von präzisem UX-Feedback."
+title: " \"macOS Tahoe: Die Kontroverse um die Fenstergröße\""
+description: " \"Eine Analyse der 'Intelligent Edge'-Funktion in macOS Tahoe und ein KI-Prompt zur Formulierung von präzisem UX-Feedback.\""
 date: "2026-02-13"
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida all'Educazione Sessuale per Bambini: Come Rispondere a 'Da Dove Vengono i Bambini?'"
+title: " \"Guida all'Educazione Sessuale per Bambini: Come Rispondere a 'Da Dove Vengono i Bambini?'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Una guida pratica supportata dall'IA per spiegare l'educazione sessuale ai bambini in modo accurato, sereno e senza tabù."
+description: " \"Una guida pratica supportata dall'IA per spiegare l'educazione sessuale ai bambini in modo accurato, sereno e senza tabù.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

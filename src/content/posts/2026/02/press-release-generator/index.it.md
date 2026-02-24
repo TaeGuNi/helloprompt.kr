@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 기사' 뽑기"
+title: " \"보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 기사' 뽑기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"
-description: "Hai tante novità da annunciare, come il lancio di un nuovo prodotto o un round di investimenti, ma non sai come scriverle? Scopri il prompt perfetto per creare comunicati stampa che i giornalisti possono pubblicare senza modifiche."
+description: " \"Hai tante novità da annunciare, come il lancio di un nuovo prodotto o un round di investimenti, ma non sai come scriverle? Scopri il prompt perfetto per creare comunicati stampa che i giornalisti possono pubblicare senza modifiche.\""
 tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
 ---
 

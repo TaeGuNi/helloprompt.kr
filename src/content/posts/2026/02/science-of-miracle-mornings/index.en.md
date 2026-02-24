@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "미라클 모닝의 과학: 뇌과학이 밝힌 아침의 비밀"
+title: " \"미라클 모닝의 과학: 뇌과학이 밝힌 아침의 비밀\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/라이프스타일"
-description: "It's not just about waking up early. Discover the scientific principles behind the Miracle Morning that can literally rewire your brain."
+description: " \"It's not just about waking up early. Discover the scientific principles behind the Miracle Morning that can literally rewire your brain.\""
 tags: ["뇌과학", "미라클모닝", "습관", "건강"]
 ---
 

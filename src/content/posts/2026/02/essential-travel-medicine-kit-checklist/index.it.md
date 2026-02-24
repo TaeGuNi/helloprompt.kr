@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Checklist Kit Medico da Viaggio Essenziale: Non Ammalarti all'Estero"
+title: " \"Checklist Kit Medico da Viaggio Essenziale: Non Ammalarti all'Estero\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Smetti di vagare alla ricerca di una farmacia locale. Scopri come configurare il kit di pronto soccorso perfetto e i farmaci d'emergenza in base alla tua destinazione."
+description: " \"Smetti di vagare alla ricerca di una farmacia locale. Scopri come configurare il kit di pronto soccorso perfetto e i farmaci d'emergenza in base alla tua destinazione.\""
 tags:
   [
     "Medicina d'Emergenza",

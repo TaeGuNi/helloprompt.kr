@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Plan de Viaje de Curación de Una Semana para el Agotamiento: Viaje Lento"
+title: " \"Plan de Viaje de Curación de Una Semana para el Agotamiento: Viaje Lento\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes y Cultura"
-description: "Deja de visitar puntos turísticos. Una guía para una semana de 'Viaje Lento' para un verdadero descanso."
+description: " \"Deja de visitar puntos turísticos. Una guía para una semana de 'Viaje Lento' para un verdadero descanso.\""
 tags: ["Viaje de Curación", "Descanso", "Vivir por una Semana", "Viaje Lento"]
 ---
 

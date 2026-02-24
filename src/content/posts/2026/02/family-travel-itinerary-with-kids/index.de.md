@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Familienreiseplan mit Kindern: Friedliche Planung"
+title: " \"Familienreiseplan mit Kindern: Friedliche Planung\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Ein magischer Prompt für Familienreisen, der die Energie der Kinder und die Nerven der Eltern schont."
+description: " \"Ein magischer Prompt für Familienreisen, der die Energie der Kinder und die Nerven der Eltern schont.\""
 tags: ["Familienreise", "Erziehung", "Kinderzone", "Reiseplan"]
 ---
 

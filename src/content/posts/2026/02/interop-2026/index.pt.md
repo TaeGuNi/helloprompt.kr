@@ -1,6 +1,6 @@
 ---
-title: "Interop 2026: Um Novo Salto para os Padrões da Web"
-description: "Apple, Google, Microsoft e Mozilla lançaram oficialmente o projeto Interop 2026. Exploramos os principais objetivos deste ano e o futuro dos padrões da web."
+title: " \"Interop 2026: Um Novo Salto para os Padrões da Web\""
+description: " \"Apple, Google, Microsoft e Mozilla lançaram oficialmente o projeto Interop 2026. Exploramos os principais objetivos deste ano e o futuro dos padrões da web.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

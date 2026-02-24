@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Jeu de Devinettes d'Émotions 'Charades' : Développer l'Intelligence Émotionnelle"
+title: " \"Jeu de Devinettes d'Émotions 'Charades' : Développer l'Intelligence Émotionnelle\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Proposition de jeu de rôle avec IA pour développer l'empathie et l'expression émotionnelle de l'enfant."
+description: " \"Proposition de jeu de rôle avec IA pour développer l'empathie et l'expression émotionnelle de l'enfant.\""
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

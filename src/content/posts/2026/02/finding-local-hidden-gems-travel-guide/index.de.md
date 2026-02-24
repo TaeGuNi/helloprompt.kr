@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Reiseführer für versteckte lokale Schätze: Jenseits der Touristenfallen"
+title: " \"Reiseführer für versteckte lokale Schätze: Jenseits der Touristenfallen\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Haben Sie genug von überfüllten Touristen-Hotspots? Entdecken Sie, wie Sie mit KI echte Geheimtipps finden, die auf keiner Karte stehen."
+description: " \"Haben Sie genug von überfüllten Touristen-Hotspots? Entdecken Sie, wie Sie mit KI echte Geheimtipps finden, die auf keiner Karte stehen.\""
 tags: ["Verborgene Orte", "Lokales Reisen", "Versteckte Plätze", "Erkundung"]
 ---
 

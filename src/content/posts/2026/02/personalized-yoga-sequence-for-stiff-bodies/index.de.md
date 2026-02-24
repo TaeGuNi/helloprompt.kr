@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Personalisierte Yoga-Sequenz für steife Körper: KI-Lehrer"
+title: " \"Personalisierte Yoga-Sequenz für steife Körper: KI-Lehrer\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit & Wellness"
-description: "Zu steif fürs Yogastudio? Entspannen Sie sich zu Hause mit einer maßgeschneiderten Yoga-Sequenz von Ihrem persönlichen KI-Trainer."
+description: " \"Zu steif fürs Yogastudio? Entspannen Sie sich zu Hause mit einer maßgeschneiderten Yoga-Sequenz von Ihrem persönlichen KI-Trainer.\""
 tags: ["Yoga", "Dehnen", "Flexibilität", "Heimtraining", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sou um Tolo? Agente de Pesquisa & Análise de 'Taxa de Mercado'"
+title: " \"Sou um Tolo? Agente de Pesquisa & Análise de 'Taxa de Mercado'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Compara e analisa a faixa salarial média para o seu cargo e experiência, utilizando dados reais do mercado para construir argumentos sólidos em negociações salariais."
+description: " \"Compara e analisa a faixa salarial média para o seu cargo e experiência, utilizando dados reais do mercado para construir argumentos sólidos em negociações salariais.\""
 tags:
   [
     "AnáliseSalarial",

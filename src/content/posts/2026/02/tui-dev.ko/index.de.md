@@ -1,6 +1,6 @@
 ---
-title: "현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게"
-description: "Verwandeln Sie langweilige CLI-Skripte mithilfe modernster Bibliotheken und KI-Tools in Sekundenschnelle in ansprechende TUI-Apps (Text User Interface). Hier ist der perfekte Prompt dafür."
+title: " \"현대적인 TUI 개발: 이제 터미널 앱 개발도 쉽고 예쁘게\""
+description: " \"Verwandeln Sie langweilige CLI-Skripte mithilfe modernster Bibliotheken und KI-Tools in Sekundenschnelle in ansprechende TUI-Apps (Text User Interface). Hier ist der perfekte Prompt dafür.\""
 date: "2026-02-15"
 tags: ["tui", "dev-tools", "cli"]
 ---

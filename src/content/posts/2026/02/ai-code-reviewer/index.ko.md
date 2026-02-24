@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로 (Code Review)"
+title: " \"AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로 (Code Review)\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "개발/코딩"
-description: "시니어 개발자가 없어도 괜찮아. AI에게 코드 리뷰를 맡기고 클린 코드로 거듭나는 프롬프트."
+description: " \"시니어 개발자가 없어도 괜찮아. AI에게 코드 리뷰를 맡기고 클린 코드로 거듭나는 프롬프트.\""
 tags: ["코드리뷰", "개발자", "클린코드", "리팩토링", "ChatGPT"]
 ---
 

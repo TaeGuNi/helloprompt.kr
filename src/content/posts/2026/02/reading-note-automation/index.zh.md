@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "读书笔记自动化：拍照提取核心内容 + 个人见解整理"
+title: " \"读书笔记自动化：拍照提取核心内容 + 个人见解整理\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "自我提升/学习"
-description: "合上书本的瞬间就忘记了内容？这是一份完美的指南，教你如何利用 AI OCR 提取文本，并通过深度探讨生成属于你自己的结构化书评。"
+description: " \"合上书本的瞬间就忘记了内容？这是一份完美的指南，教你如何利用 AI OCR 提取文本，并通过深度探讨生成属于你自己的结构化书评。\""
 tags: ["读书", "书评", "OCR", "ChatGPT", "知识管理"]
 ---
 

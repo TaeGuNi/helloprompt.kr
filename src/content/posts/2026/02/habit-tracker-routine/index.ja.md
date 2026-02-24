@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)"
+title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Tracker)\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/생산성"
-description: "意志の弱さは科学で解決できます。脳科学理論（小さな習慣）を応用したAIルーティン設計法をご紹介します。"
+description: " \"意志の弱さは科学で解決できます。脳科学理論（小さな習慣）を応用したAIルーティン設計法をご紹介します。\""
 tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
 ---
 

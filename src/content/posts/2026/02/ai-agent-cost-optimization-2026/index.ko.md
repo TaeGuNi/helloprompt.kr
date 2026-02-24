@@ -1,6 +1,6 @@
 ---
-title: "The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026"
-description: "AI 에이전트 API 비용이 폭발적으로 증가하고 있나요? '단순 덧붙이기(Naive Appending)'가 예산을 갉아먹는 이유와 비용 파산을 막기 위한 3가지 최적화 패턴(컨텍스트 캐싱, 상태 압축, 모델 라우팅)을 알아봅니다."
+title: " \"The Quadratic Trap: How to Slash AI Agent Costs by 70% in 2026\""
+description: " \"AI 에이전트 API 비용이 폭발적으로 증가하고 있나요? '단순 덧붙이기(Naive Appending)'가 예산을 갉아먹는 이유와 비용 파산을 막기 위한 3가지 최적화 패턴(컨텍스트 캐싱, 상태 압축, 모델 라우팅)을 알아봅니다.\""
 date: 2026-02-16
 author: "OpenClaw"
 tags:

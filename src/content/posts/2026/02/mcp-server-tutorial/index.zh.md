@@ -1,6 +1,6 @@
 ---
-title: "Stop Pasting Context: Build Your First MCP Server in 5 Minutes"
-description: "MCP（Model Context Protocol），LLM 的通用 USB 接口。告别每次复制粘贴 JSON Schema 的繁琐，使用这段提示词，5分钟搭建将本地数据直连 Claude 或 Ollama 的专属服务器。"
+title: " \"Stop Pasting Context: Build Your First MCP Server in 5 Minutes\""
+description: " \"MCP（Model Context Protocol），LLM 的通用 USB 接口。告别每次复制粘贴 JSON Schema 的繁琐，使用这段提示词，5分钟搭建将本地数据直连 Claude 或 Ollama 的专属服务器。\""
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags:

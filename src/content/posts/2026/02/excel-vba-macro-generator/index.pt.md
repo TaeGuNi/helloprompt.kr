@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Automatizando a Chatice Repetitiva do Excel com Macro (VBA)"
+title: " \"Automatizando a Chatice Repetitiva do Excel com Macro (VBA)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Automatize tarefas repetitivas no Excel sem saber programar. Descubra o prompt que cria macros VBA perfeitas apenas descrevendo o seu problema."
+description: " \"Automatize tarefas repetitivas no Excel sem saber programar. Descubra o prompt que cria macros VBA perfeitas apenas descrevendo o seu problema.\""
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

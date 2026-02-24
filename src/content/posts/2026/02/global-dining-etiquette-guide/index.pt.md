@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guia Global de Etiqueta à Mesa: Não Seja Rude"
+title: " \"Guia Global de Etiqueta à Mesa: Não Seja Rude\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Em Roma, faça como os romanos. Aprenda as regras de etiqueta à mesa de diferentes países e evite gafes culturais ao viajar."
+description: " \"Em Roma, faça como os romanos. Aprenda as regras de etiqueta à mesa de diferentes países e evite gafes culturais ao viajar.\""
 tags:
   ["Etiqueta à Mesa", "Modos à Mesa", "Etiqueta Global", "Diferenças Culturais"]
 ---

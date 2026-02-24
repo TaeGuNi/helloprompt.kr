@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Intense Silhouette 'Backlighting' Usage"
+title: " \"Intense Silhouette 'Backlighting' Usage\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A backlighting and silhouette prompt that emphasizes formal beauty and dramatic atmosphere by casting the subject in deep shadow."
+description: " \"A backlighting and silhouette prompt that emphasizes formal beauty and dramatic atmosphere by casting the subject in deep shadow.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

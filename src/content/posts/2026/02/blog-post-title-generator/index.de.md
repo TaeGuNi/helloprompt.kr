@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Blogpost-Titelgenerator, der nach Klicks ruft"
+title: " \"Blogpost-Titelgenerator, der nach Klicks ruft\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Magische Blogtitel, die die Klickzahlen verdoppeln – von der KI generiert, einfach durch die Eingabe von Keywords."
+description: " \"Magische Blogtitel, die die Klickzahlen verdoppeln – von der KI generiert, einfach durch die Eingabe von Keywords.\""
 tags: ["Blog", "Content-Marketing", "SEO", "Copywriting"]
 ---
 

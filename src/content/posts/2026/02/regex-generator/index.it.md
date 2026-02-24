@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Incubo Regex, ora scaricalo sull'IA"
+title: " \"Incubo Regex, ora scaricalo sull'IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Sviluppo"
-description: "Non impazzire a scrivere espressioni regolari incomprensibili. Ecco un prompt che genera la regex perfetta semplicemente descrivendo il pattern desiderato."
+description: " \"Non impazzire a scrivere espressioni regolari incomprensibili. Ecco un prompt che genera la regex perfetta semplicemente descrivendo il pattern desiderato.\""
 tags: ["Regex", "Espressione Regolare", "Produttività Dev"]
 ---
 

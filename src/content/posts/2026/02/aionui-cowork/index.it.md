@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi: AI 에이전트를 위한 로컬 워크스페이스"
+title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "Scopri AionUi: l'interfaccia open source che risolve il problema della 'scatola nera' per gli agenti di coding AI basati su terminale come Gemini CLI e Claude Code."
+description: " \"Scopri AionUi: l'interfaccia open source che risolve il problema della 'scatola nera' per gli agenti di coding AI basati su terminale come Gemini CLI e Claude Code.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

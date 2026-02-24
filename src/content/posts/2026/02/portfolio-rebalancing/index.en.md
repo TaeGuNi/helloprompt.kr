@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "AI Portfolio Rebalancing: Finding Golden Ratio"
+title: " \"AI Portfolio Rebalancing: Finding Golden Ratio\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "A prompt to check your current asset allocation and receive optimal portfolio rebalancing suggestions."
+description: " \"A prompt to check your current asset allocation and receive optimal portfolio rebalancing suggestions.\""
 tags: ["Investment", "AssetAllocation", "Rebalancing", "Portfolio"]
 ---
 

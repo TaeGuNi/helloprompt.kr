@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Rutina de Gimnasio para Principiantes: Luciendo como un Profesional"
+title: " \"Guía de Rutina de Gimnasio para Principiantes: Luciendo como un Profesional\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Llegaste al gimnasio y terminaste en la cinta porque no sabías por dónde empezar? Deja que la IA diseñe tu rutina ideal y te enseñe a usar cada máquina paso a paso."
+description: " \"¿Llegaste al gimnasio y terminaste en la cinta porque no sabías por dónde empezar? Deja que la IA diseñe tu rutina ideal y te enseñe a usar cada máquina paso a paso.\""
 tags:
   [
     "Gimnasio",

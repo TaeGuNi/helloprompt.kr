@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "새벽 4시가 인생을 바꾸는 황금 시간인 이유"
+title: " \"새벽 4시가 인생을 바꾸는 황금 시간인 이유\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: "The absolute silence where no one interrupts. The scientific reasons why waking up at 4 AM skyrockets your productivity, and a practical AI prompt guide."
+description: " \"The absolute silence where no one interrupts. The scientific reasons why waking up at 4 AM skyrockets your productivity, and a practical AI prompt guide.\""
 tags: ["미라클모닝", "생산성", "새벽기상", "시간관리"]
 ---
 

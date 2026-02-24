@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Pergunta Esperada de 'Entrevista Técnica' por Trabalho"
+title: " \"Gerador de Pergunta Esperada de 'Entrevista Técnica' por Trabalho\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Gere perguntas altamente prováveis para entrevistas técnicas e respostas ideais perfeitamente adaptadas ao seu cargo, nível de experiência e conjunto de habilidades."
+description: " \"Gere perguntas altamente prováveis para entrevistas técnicas e respostas ideais perfeitamente adaptadas ao seu cargo, nível de experiência e conjunto de habilidades.\""
 tags:
   [
     "EntrevistaTécnica",

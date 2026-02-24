@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Resumiendo Actas de Reuniones Divagantes Claramente"
+title: " \"Resumiendo Actas de Reuniones Divagantes Claramente\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "¿Transcribiste una reunión de una hora y obtuviste 10 páginas de texto inútil? Utiliza este prompt para extraer solo las decisiones clave y próximos pasos."
+description: " \"¿Transcribiste una reunión de una hora y obtuviste 10 páginas de texto inútil? Utiliza este prompt para extraer solo las decisiones clave y próximos pasos.\""
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

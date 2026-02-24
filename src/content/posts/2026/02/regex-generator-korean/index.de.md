@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Alien-artiges Regex, Bestellen in natürlicher Sprache"
+title: " \"Alien-artiges Regex, Bestellen in natürlicher Sprache\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Kämpfen Sie nicht mit komplexen regulären Ausdrücken wie beim Entschlüsseln von Codes. Sagen Sie einfach das gewünschte Muster, und die KI erstellt das Regex."
+description: " \"Kämpfen Sie nicht mit komplexen regulären Ausdrücken wie beim Entschlüsseln von Codes. Sagen Sie einfach das gewünschte Muster, und die KI erstellt das Regex.\""
 tags: ["Regex", "Regulärer Ausdruck", "String-Verarbeitung", "Validierung"]
 ---
 

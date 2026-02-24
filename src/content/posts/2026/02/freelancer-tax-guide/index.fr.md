@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guide d'Économie d'Impôt pour Freelance : Doubler le Remboursement d'Impôt"
+title: " \"Guide d'Économie d'Impôt pour Freelance : Doubler le Remboursement d'Impôt\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Technologie Financière & Investissement"
-description: "Découvrez des conseils pratiques sur la déduction des dépenses et les avantages fiscaux pour les freelances et les pluriactifs (N-jobbers) qui redoutent la déclaration globale de l'impôt sur le revenu."
+description: " \"Découvrez des conseils pratiques sur la déduction des dépenses et les avantages fiscaux pour les freelances et les pluriactifs (N-jobbers) qui redoutent la déclaration globale de l'impôt sur le revenu.\""
 tags: ["Impôt", "Économie d'Impôt", "Freelance", "Impôt Global sur le Revenu"]
 ---
 

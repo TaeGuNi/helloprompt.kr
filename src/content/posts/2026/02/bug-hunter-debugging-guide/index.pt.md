@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs com Causas Desconhecidas, Deixe para o Detetive IA"
+title: " \"Bugs com Causas Desconhecidas, Deixe para o Detetive IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Descubra a raiz de bugs misteriosos usando IA. Basta fornecer o stack trace e o trecho de código para solucionar problemas complexos rapidamente."
+description: " \"Descubra a raiz de bugs misteriosos usando IA. Basta fornecer o stack trace e o trecho de código para solucionar problemas complexos rapidamente.\""
 tags:
   ["Depuração", "Correção de Bug", "Solução de Problemas", "Resolução de Erro"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Strategia Power Nap per la Produttività: Meglio del Caffè!"
+title: " \"Strategia Power Nap per la Produttività: Meglio del Caffè!\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "Sonnolenza dopo pranzo? Non sopportarla. Scopri la tecnica del 'Coffee Nap' per dormire 20 minuti esatti e svegliarti con il massimo delle energie."
+description: " \"Sonnolenza dopo pranzo? Non sopportarla. Scopri la tecnica del 'Coffee Nap' per dormire 20 minuti esatti e svegliarti con il massimo delle energie.\""
 tags: ["Pisolino", "Produttività", "Sonno", "Coffee Nap", "ChatGPT"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Confrontando Mio Curriculum e JD: Prompt Diagnosi 'Gap Abilità'"
+title: " \"Confrontando Mio Curriculum e JD: Prompt Diagnosi 'Gap Abilità'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: "Confronta la Job Description (JD) con il tuo curriculum per individuare le competenze mancanti (Skill Gap) e definire una strategia efficace per colmarle."
+description: " \"Confronta la Job Description (JD) con il tuo curriculum per individuare le competenze mancanti (Skill Gap) e definire una strategia efficace per colmarle.\""
 tags:
   ["AnalisiGapAbilità", "DiagnosiCurriculum", "StrategiaCarriera", "AnalisiJD"]
 ---

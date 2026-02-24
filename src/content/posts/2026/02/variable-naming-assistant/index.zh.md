@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "开发者的终身难题“变量命名”，AI 替你做"
+title: " \"开发者的终身难题“变量命名”，AI 替你做\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "tmp, data, a... 别再用没意义的变量名了。推荐完全符合语境的英语变量名和函数名的提示词。"
+description: " \"tmp, data, a... 别再用没意义的变量名了。推荐完全符合语境的英语变量名和函数名的提示词。\""
 tags: ["命名", "整洁代码", "变量名", "英语学习"]
 ---
 

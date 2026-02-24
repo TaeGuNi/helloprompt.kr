@@ -1,6 +1,6 @@
 ---
-title: "GraphRAG: Por que o seu 'Segundo Cérebro' precisa de mais do que apenas vetores"
-description: "A busca vetorial é apenas uma procura por similaridade de palavras. Descubra como construir um Grafo de Conhecimento Pessoal (GraphRAG) usando Neo4j e LangChain com este guia de prompts para conectar insights ocultos nas suas notas do Obsidian."
+title: " \"GraphRAG: Por que o seu 'Segundo Cérebro' precisa de mais do que apenas vetores\""
+description: " \"A busca vetorial é apenas uma procura por similaridade de palavras. Descubra como construir um Grafo de Conhecimento Pessoal (GraphRAG) usando Neo4j e LangChain com este guia de prompts para conectar insights ocultos nas suas notas do Obsidian.\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Finder für lokale Legenden und Geistergeschichten: Verborgene Geschichten entdecken"
+title: " \"Finder für lokale Legenden und Geistergeschichten: Verborgene Geschichten entdecken\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Lebte in diesem See wirklich ein Drache? Verdoppeln Sie den Reisespaß mit faszinierenden Volksmärchen und lokalen Legenden."
+description: " \"Lebte in diesem See wirklich ein Drache? Verdoppeln Sie den Reisespaß mit faszinierenden Volksmärchen und lokalen Legenden.\""
 tags:
   [
     "Legende",

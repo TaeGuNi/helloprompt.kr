@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Educación Económica para Niños: Enseñando el Valor del Dinero"
+title: " \"Guía de Educación Económica para Niños: Enseñando el Valor del Dinero\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Un guion experto (prompt) que enseña fácilmente a los niños el verdadero valor del dinero, cómo funciona una tarjeta de crédito y el significado del trabajo."
+description: " \"Un guion experto (prompt) que enseña fácilmente a los niños el verdadero valor del dinero, cómo funciona una tarjeta de crédito y el significado del trabajo.\""
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

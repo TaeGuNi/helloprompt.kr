@@ -1,6 +1,6 @@
 ---
-title: "Vim 9.2 Released"
-description: "膨大なVim 9.2のリリースノートをAIで完璧に分析し、自身の開発環境に与える核心的な変化を素早く把握するためのプロンプトガイドです。"
+title: " \"Vim 9.2 Released\""
+description: " \"膨大なVim 9.2のリリースノートをAIで完璧に分析し、自身の開発環境に与える核心的な変化を素早く把握するためのプロンプトガイドです。\""
 date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Socio de Conversación Nativo de Esquina (Gratis)"
+title: " \"Socio de Conversación Nativo de Esquina (Gratis)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizaje de Idiomas Extranjeros"
-description: "Mejora tus habilidades de conversación mediante juegos de rol ilimitados con IA y olvídate de las costosas clases de inglés por teléfono."
+description: " \"Mejora tus habilidades de conversación mediante juegos de rol ilimitados con IA y olvídate de las costosas clases de inglés por teléfono.\""
 tags: ["ConversaciónEnInglés", "JuegoDeRol", "Prompt", "Autodesarrollo"]
 ---
 

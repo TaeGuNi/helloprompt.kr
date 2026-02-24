@@ -1,6 +1,6 @@
 ---
-title: "System Prompts 2026: The Art of Personas and Constraints"
-description: "Beyond simple role assignment: How to write system prompts in 2026. From XML tags to dynamic context injection."
+title: " \"System Prompts 2026: The Art of Personas and Constraints\""
+description: " \"Beyond simple role assignment: How to write system prompts in 2026. From XML tags to dynamic context injection.\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]

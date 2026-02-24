@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Progettare la Routine della 'Miracle Morning' con l'IA"
+title: " \"Progettare la Routine della 'Miracle Morning' con l'IA\""
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: Basta con le Miracle Morning che durano solo tre giorni! Scopri il segreto per progettare una routine mattutina su misura per te utilizzando ChatGPT.
+description: "Basta con le Miracle Morning che durano solo tre giorni! Scopri il segreto per progettare una routine mattutina su misura per te utilizzando ChatGPT."
 tags: [AI, ChatGPT, Prompt]
 ---
 

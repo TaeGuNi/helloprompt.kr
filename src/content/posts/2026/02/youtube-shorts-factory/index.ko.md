@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "유튜브 쇼츠 공장: 주제만 주면 대본+장면 묘사 30초 컷"
+title: " \"유튜브 쇼츠 공장: 주제만 주면 대본+장면 묘사 30초 컷\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "콘텐츠 크리에이팅"
-description: "조회수 터지는 숏폼 공식(Hook-Body-CTA)을 AI에게 학습시켜 대본을 무한 생산하는 법."
+description: " \"조회수 터지는 숏폼 공식(Hook-Body-CTA)을 AI에게 학습시켜 대본을 무한 생산하는 법.\""
 tags: ["유튜브", "쇼츠", "대본작성", "크리에이터", "숏폼"]
 ---
 

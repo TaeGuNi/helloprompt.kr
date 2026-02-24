@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "STAR 技法提示词: 用‘数值’证明简历成果"
+title: " \"STAR 技法提示词: 用‘数值’证明简历成果\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "利用 STAR 法则 (情境-任务-行动-结果)，将平淡无奇的简历长文转化为极具吸引力、以成果为导向的量化项目符号。"
+description: " \"利用 STAR 法则 (情境-任务-行动-结果)，将平淡无奇的简历长文转化为极具吸引力、以成果为导向的量化项目符号。\""
 tags: ["简历", "STAR技法", "就业准备", "成果数值化"]
 ---
 

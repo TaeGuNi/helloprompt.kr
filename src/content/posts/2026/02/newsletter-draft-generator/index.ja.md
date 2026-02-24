@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "購読者を呼ぶニュースレター下書き作成する"
+title: " \"購読者を呼ぶニュースレター下書き作成する\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "テーマを指定するだけで、魅力的なタイトルから本文、キュレーションまで素早く作成します。"
+description: " \"テーマを指定するだけで、魅力的なタイトルから本文、キュレーションまで素早く作成します。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

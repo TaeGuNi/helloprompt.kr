@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Global Business Etiquette for a Successful Business Trip"
+title: " \"Global Business Etiquette for a Successful Business Trip\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Should you hand over a business card with two hands? Who initiates the handshake? Master the country-specific business etiquette that wins contracts."
+description: " \"Should you hand over a business card with two hands? Who initiates the handshake? Master the country-specific business etiquette that wins contracts.\""
 tags:
   [
     "Overseas Business Trip",

@@ -1,6 +1,6 @@
 ---
-title: "Crear un Juego de Golf con Claude Code: La Nueva Era del Desarrollo de Juegos con IA"
-description: "Descubre cómo desarrollar un juego de golf 2D totalmente funcional en solo 1 hora usando Claude Code. Una guía práctica para reducir las barreras de entrada al desarrollo de juegos mediante la programación en pareja con IA."
+title: " \"Crear un Juego de Golf con Claude Code: La Nueva Era del Desarrollo de Juegos con IA\""
+description: " \"Descubre cómo desarrollar un juego de golf 2D totalmente funcional en solo 1 hora usando Claude Code. Una guía práctica para reducir las barreras de entrada al desarrollo de juegos mediante la programación en pareja con IA.\""
 date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---

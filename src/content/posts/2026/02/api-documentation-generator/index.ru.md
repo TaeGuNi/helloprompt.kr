@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Надоедливая документация API, Swagger появляется с помощью только кода"
+title: " \"Надоедливая документация API, Swagger появляется с помощью только кода\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Кодинг/Разработка"
-description: "Промпт, который автоматически генерирует спецификации OpenAPI (Swagger) или документацию в Markdown на основе вашего API кода."
+description: " \"Промпт, который автоматически генерирует спецификации OpenAPI (Swagger) или документацию в Markdown на основе вашего API кода.\""
 tags: ["API", "Документация", "Swagger", "OpenAPI", "Бэкенд"]
 ---
 

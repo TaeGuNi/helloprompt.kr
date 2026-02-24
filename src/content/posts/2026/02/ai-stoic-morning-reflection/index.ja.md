@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: 스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)
+title: "스토아 학파처럼 아침 맞이하기 (AI Stoic Morning)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Self-Improvement
-description: 不安と心配で始まる朝はもう終わりにしましょう！マルクス・アウレリウスのように、揺るぎない心で一日を始めるためのAIプロンプトを紹介します。
+description: "不安と心配で始まる朝はもう終わりにしましょう！マルクス・アウレリウスのように、揺るぎない心で一日を始めるためのAIプロンプトを紹介します。"
 tags: [AI, ChatGPT, Stoicism, Mindset]
 ---
 

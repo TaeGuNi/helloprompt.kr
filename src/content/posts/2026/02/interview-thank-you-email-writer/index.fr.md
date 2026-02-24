@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Golden Time de l'Entretien ! Rédacteur d' 'Email de Remerciement' à Envoyer Immédiatement Après"
+title: " \"Golden Time de l'Entretien ! Rédacteur d' 'Email de Remerciement' à Envoyer Immédiatement Après\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Rédigez un e-mail de remerciement poli et stratégique qui marque les esprits en rebondissant sur les points clés abordés lors de votre entretien."
+description: " \"Rédigez un e-mail de remerciement poli et stratégique qui marque les esprits en rebondissant sur les points clés abordés lors de votre entretien.\""
 tags:
   ["EmailDeRemerciement", "ÉtiquetteEntretien", "EmailDeSuivi", "SuccèsEmploi"]
 ---

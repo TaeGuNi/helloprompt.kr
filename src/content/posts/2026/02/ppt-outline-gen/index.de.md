@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트"
+title: " \"발표 기획 시간을 90% 줄여주는 PPT 개요 생성 프롬프트\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "기획"
-description: "Die logische Struktur ist wichtiger als das Foliendesign. Sparen Sie 30 Minuten in der Planungsphase Ihrer Präsentation."
+description: " \"Die logische Struktur ist wichtiger als das Foliendesign. Sparen Sie 30 Minuten in der Planungsphase Ihrer Präsentation.\""
 tags: ["PPT", "발표", "기획"]
 ---
 

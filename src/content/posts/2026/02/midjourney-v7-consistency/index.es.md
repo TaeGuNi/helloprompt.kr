@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Character Consistency (Spanish)"
-description: "El uso de referencias de personajes transforma la narrativa visual. Domina la consistencia en tus creaciones con IA."
+title: " \"Midjourney Character Consistency (Spanish)\""
+description: " \"El uso de referencias de personajes transforma la narrativa visual. Domina la consistencia en tus creaciones con IA.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/midjourney/800/600"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]

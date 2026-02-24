@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Aufklärungsleitfaden für Kinder: Wie man 'Woher kommen Babys?' beantwortet"
+title: " \"Aufklärungsleitfaden für Kinder: Wie man 'Woher kommen Babys?' beantwortet\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein Leitfaden zur genauen und altersgerechten Sexualaufklärung, ohne unangenehmen Fragen auszuweichen."
+description: " \"Ein Leitfaden zur genauen und altersgerechten Sexualaufklärung, ohne unangenehmen Fragen auszuweichen.\""
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

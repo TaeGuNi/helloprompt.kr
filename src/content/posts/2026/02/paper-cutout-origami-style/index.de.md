@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Textur von Papier 'Paper Cutout & Origami' Stil"
+title: " \"Textur von Papier 'Paper Cutout & Origami' Stil\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein Prompt für Paper-Cutout- und Origami-Stile, der das Gefühl vermittelt, als wären mehrere Papierschichten geschnitten und übereinandergeklebt worden."
+description: " \"Ein Prompt für Paper-Cutout- und Origami-Stile, der das Gefühl vermittelt, als wären mehrere Papierschichten geschnitten und übereinandergeklebt worden.\""
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Handwerk"]
 ---
 

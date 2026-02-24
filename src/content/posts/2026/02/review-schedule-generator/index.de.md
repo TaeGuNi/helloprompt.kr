@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rückwärtsfahren der Vergessenskurve: Überprüfungsplan-Generator"
+title: " \"Rückwärtsfahren der Vergessenskurve: Überprüfungsplan-Generator\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lernmethode/Selbstentwicklung"
-description: "Ein Prompt, der basierend auf der Ebbinghaus-Vergessenskurve den optimalen Wiederholungszeitpunkt berechnet, damit Gelerntes für immer im Gedächtnis bleibt."
+description: " \"Ein Prompt, der basierend auf der Ebbinghaus-Vergessenskurve den optimalen Wiederholungszeitpunkt berechnet, damit Gelerntes für immer im Gedächtnis bleibt.\""
 tags: ["Lernplan", "Vergessenskurve", "Überprüfung", "Planung"]
 ---
 

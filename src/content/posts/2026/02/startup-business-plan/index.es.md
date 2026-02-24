@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "사업계획서 작성: 예비창업패키지 합격하는 목차 설계"
+title: " \"사업계획서 작성: 예비창업패키지 합격하는 목차 설계\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: "El 80% del éxito en la financiación pública y de startups es la estructura. Prompt de IA para completar tu propuesta fácilmente usando el marco PSST (Problema, Solución, Escalabilidad, Equipo)."
+description: " \"El 80% del éxito en la financiación pública y de startups es la estructura. Prompt de IA para completar tu propuesta fácilmente usando el marco PSST (Problema, Solución, Escalabilidad, Equipo).\""
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 

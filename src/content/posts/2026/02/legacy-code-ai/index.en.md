@@ -1,6 +1,6 @@
 ---
-title: "Modernizing Legacy Code (English)"
-description: "How AI can rescue developers from the crushing weight of legacy technical debt"
+title: " \"Modernizing Legacy Code (English)\""
+description: " \"How AI can rescue developers from the crushing weight of legacy technical debt\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]

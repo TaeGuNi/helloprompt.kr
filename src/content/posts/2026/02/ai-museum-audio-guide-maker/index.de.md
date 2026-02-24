@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Museums-Audioguide-Ersteller: Kurator in meiner Hand"
+title: " \"KI-Museums-Audioguide-Ersteller: Kurator in meiner Hand\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen & Kultur"
-description: "Sparen Sie sich die Mietgebühren für Audioguides. Fotografieren Sie einfach ein Kunstwerk und lassen Sie es sich von der KI erklären."
+description: " \"Sparen Sie sich die Mietgebühren für Audioguides. Fotografieren Sie einfach ein Kunstwerk und lassen Sie es sich von der KI erklären.\""
 tags: ["Museum", "Kunstgalerie", "Audioguide", "Dozent", "Kunstbetrachtung"]
 ---
 

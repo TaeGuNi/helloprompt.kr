@@ -1,6 +1,6 @@
 ---
-title: "La crisis social de la IA"
-description: "Análisis crítico de la crisis social de la IA: Los sustitutos de la inteligencia artificial están rompiendo los vínculos humanos reales."
+title: " \"La crisis social de la IA\""
+description: " \"Análisis crítico de la crisis social de la IA: Los sustitutos de la inteligencia artificial están rompiendo los vínculos humanos reales.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/social-crisis/800/400"
 tags: ["AI", "Trend", "2026"]

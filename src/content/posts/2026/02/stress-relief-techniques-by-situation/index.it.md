@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tecniche di Sollievo dallo Stress per Situazione: Suggerimenti IA"
+title: " \"Tecniche di Sollievo dallo Stress per Situazione: Suggerimenti IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"
-description: "C'è un altro modo oltre a mangiare tteokbokki piccanti? Ti informiamo su tecniche di sollievo dallo stress scientificamente provate."
+description: " \"C'è un altro modo oltre a mangiare tteokbokki piccanti? Ti informiamo su tecniche di sollievo dallo stress scientificamente provate.\""
 tags: ["Stress", "Burnout", "Gestione Mentale", "Guarigione", "ChatGPT"]
 ---
 

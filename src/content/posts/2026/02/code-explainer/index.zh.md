@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "这代码什么意思？亲切的代码解说员"
+title: " \"这代码什么意思？亲切的代码解说员\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编程/IT"
-description: "为复杂的遗留代码逐行添加注释，帮助初学者快速理解代码逻辑的 AI 提示词模板。"
+description: " \"为复杂的遗留代码逐行添加注释，帮助初学者快速理解代码逻辑的 AI 提示词模板。\""
 tags: ["编程学习", "代码审查", "Python", "JavaScript"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "돈은 땅파서 나오나? 아이에게 경제관념 심어주기"
+title: " \"돈은 땅파서 나오나? 아이에게 경제관념 심어주기\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "육아 & 교육"
-description: "신용카드를 요술 방망이로 아는 6세 아이를 위한 맞춤형 경제 교육 스크립트 작성 프롬프트"
+description: " \"신용카드를 요술 방망이로 아는 6세 아이를 위한 맞춤형 경제 교육 스크립트 작성 프롬프트\""
 tags: ["육아", "교육", "AI프롬프트", "ChatGPT", "육아꿀팁"]
 ---
 

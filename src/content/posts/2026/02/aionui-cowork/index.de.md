@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "AionUi: Lokaler Workspace für KI-Agenten"
+title: " \"AionUi: Lokaler Workspace für KI-Agenten\""
 date: 2026-02-13
-description: "Entdecken Sie AionUi: Eine Open-Source-UI, die das Blackbox-Problem terminalbasierter KI-Coding-Agenten wie Gemini CLI und Claude Code löst."
+description: " \"Entdecken Sie AionUi: Eine Open-Source-UI, die das Blackbox-Problem terminalbasierter KI-Coding-Agenten wie Gemini CLI und Claude Code löst.\""
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

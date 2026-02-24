@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Calculadora de Orçamento de Viagem com IA: Viagem Econômica"
+title: " \"Calculadora de Orçamento de Viagem com IA: Viagem Econômica\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagens e Cultura"
-description: "Quanto devo trocar de dinheiro? A IA calcula as despesas de viagem na medida certa, sem faltar nem sobrar."
+description: " \"Quanto devo trocar de dinheiro? A IA calcula as despesas de viagem na medida certa, sem faltar nem sobrar.\""
 tags: ["Despesas de Viagem", "Orçamento", "Câmbio", "Preparação de Viagem"]
 ---
 

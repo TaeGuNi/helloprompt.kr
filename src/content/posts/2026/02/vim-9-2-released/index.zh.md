@@ -1,6 +1,6 @@
 ---
-title: "Vim 9.2 Released"
-description: "这是一份专门为开发者准备的AI提示词指南，教你如何完美解析如Vim 9.2这样庞大的发布说明，并快速掌握核心变化对你本地开发环境的影响。"
+title: " \"Vim 9.2 Released\""
+description: " \"这是一份专门为开发者准备的AI提示词指南，教你如何完美解析如Vim 9.2这样庞大的发布说明，并快速掌握核心变化对你本地开发环境的影响。\""
 date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---

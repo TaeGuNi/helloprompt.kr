@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "带来点击量暴涨的 YouTube 脚本结构化秘诀"
+title: " \"带来点击量暴涨的 YouTube 脚本结构化秘诀\""
 author: "Zzabbis"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "写作"
-description: "有效降低前5秒流失率，打造让观众看到最后的高完播率 YouTube 视频脚本提示词。"
+description: " \"有效降低前5秒流失率，打造让观众看到最后的高完播率 YouTube 视频脚本提示词。\""
 tags: ["YouTube", "脚本", "视频制作"]
 ---
 

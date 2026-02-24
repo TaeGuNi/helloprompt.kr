@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida Globale al Galateo delle Mance: Devo Dare la Mancia o No?"
+title: " \"Guida Globale al Galateo delle Mance: Devo Dare la Mancia o No?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Stati Uniti al 20%? Giappone allo 0%? L'IA fa chiarezza sulla complessa e spesso imbarazzante cultura delle mance nel mondo."
+description: " \"Stati Uniti al 20%? Giappone allo 0%? L'IA fa chiarezza sulla complessa e spesso imbarazzante cultura delle mance nel mondo.\""
 tags:
   [
     "Cultura delle Mance",

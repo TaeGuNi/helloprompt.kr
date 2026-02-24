@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Problema de Toda a Vida do Desenvolvedor 'Nomear Variáveis', IA Faz Isso Por Você"
+title: " \"Problema de Toda a Vida do Desenvolvedor 'Nomear Variáveis', IA Faz Isso Por Você\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Pare de usar nomes de variáveis sem sentido como tmp, data ou a. Conheça um prompt que recomenda nomes de variáveis e funções em inglês, perfeitamente adequados ao contexto."
+description: " \"Pare de usar nomes de variáveis sem sentido como tmp, data ou a. Conheça um prompt que recomenda nomes de variáveis e funções em inglês, perfeitamente adequados ao contexto.\""
 tags: ["Nomeação", "Código Limpo", "Nome de Variável", "Estudo de Inglês"]
 ---
 

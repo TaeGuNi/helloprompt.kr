@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Générateur de Légendes Instagram Qui Appelle aux J'aime"
+title: " \"Générateur de Légendes Instagram Qui Appelle aux J'aime\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Rédaction Publicitaire"
-description: "Quand vous avez la photo parfaite mais aucune idée de texte, ce prompt génère instantanément des légendes engageantes et des hashtags optimisés."
+description: " \"Quand vous avez la photo parfaite mais aucune idée de texte, ce prompt génère instantanément des légendes engageantes et des hashtags optimisés.\""
 tags:
   ["Instagram", "Marketing SNS", "Rédaction Publicitaire", "Réseaux Sociaux"]
 ---

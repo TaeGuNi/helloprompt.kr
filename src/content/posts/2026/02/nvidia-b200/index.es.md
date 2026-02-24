@@ -1,6 +1,6 @@
 ---
-title: "Fecha de lanzamiento confirmada de la NVIDIA B200 (RTX 6090 Ti): El inicio de Blackwell para consumidores"
-description: "Por fin se ha confirmado la fecha de lanzamiento de la RTX 6090 Ti basada en B200, la arquitectura GPU de próxima generación de NVIDIA para consumidores. Un primer vistazo a sus especificaciones y mejoras de rendimiento."
+title: " \"Fecha de lanzamiento confirmada de la NVIDIA B200 (RTX 6090 Ti): El inicio de Blackwell para consumidores\""
+description: " \"Por fin se ha confirmado la fecha de lanzamiento de la RTX 6090 Ti basada en B200, la arquitectura GPU de próxima generación de NVIDIA para consumidores. Un primer vistazo a sus especificaciones y mejoras de rendimiento.\""
 date: 2026-02-15
 cover: "https://picsum.photos/1600/900"
 tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]

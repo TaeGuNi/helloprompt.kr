@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "儿童经济教育指南：教授金钱的价值"
+title: " \"儿童经济教育指南：教授金钱的价值\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "一个通俗易懂地向孩子解释金钱价值与劳动意义的AI提示词对话脚本。"
+description: " \"一个通俗易懂地向孩子解释金钱价值与劳动意义的AI提示词对话脚本。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

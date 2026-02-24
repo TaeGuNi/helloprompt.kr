@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "制作无法拒绝的提案书大纲"
+title: " \"制作无法拒绝的提案书大纲\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "撰写极具吸引力、让客户无法拒绝的提案书故事线。"
+description: " \"撰写极具吸引力、让客户无法拒绝的提案书故事线。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

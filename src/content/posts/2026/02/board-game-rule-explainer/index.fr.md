@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 룰북은 가라: 보드게임 규칙 3분 요약"
+title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Un guide IA pour ceux qui en ont marre de lire des livrets de 40 pages. Libérez-vous de l'angoisse des micro-règles et des erreurs de jeu grâce à votre nouveau Maître du Jeu virtuel."
+description: " \"Un guide IA pour ceux qui en ont marre de lire des livrets de 40 pages. Libérez-vous de l'angoisse des micro-règles et des erreurs de jeu grâce à votre nouveau Maître du Jeu virtuel.\""
 tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
 ---
 

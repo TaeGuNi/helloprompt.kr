@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "呼唤订阅者的简报草稿编写"
+title: " \"呼唤订阅者的简报草稿编写\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "告别灵感枯竭！只需输入主题，AI 即可一键生成从吸睛标题到高转化率正文的完美简报草稿。"
+description: " \"告别灵感枯竭！只需输入主题，AI 即可一键生成从吸睛标题到高转化率正文的完美简报草稿。\""
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

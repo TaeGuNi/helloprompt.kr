@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Local Legends and Ghost Stories Finder: Discovering Hidden Tales"
+title: " \"Local Legends and Ghost Stories Finder: Discovering Hidden Tales\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Did a dragon really live in this lake? Double the fun of your travels by discovering hidden local folktales, ghost stories, and legends."
+description: " \"Did a dragon really live in this lake? Double the fun of your travels by discovering hidden local folktales, ghost stories, and legends.\""
 tags: ["Legend", "Folktale", "Ghost Story", "Storytelling", "Unique Travel"]
 ---
 

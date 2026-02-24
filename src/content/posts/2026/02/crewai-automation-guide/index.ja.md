@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "CrewAI: AI 팀원들에게 업무 지시하는 법 (프로세스 자동화)"
+title: " \"CrewAI: AI 팀원들에게 업무 지시하는 법 (프로세스 자동화)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: "順次的なタスク処理に強いCrewAI。リサーチから記事作成、校正まで連携するブログ発行自動化パイプラインの構築方法を解説します。"
+description: " \"順次的なタスク処理に強いCrewAI。リサーチから記事作成、校正まで連携するブログ発行自動化パイプラインの構築方法を解説します。\""
 tags: ["CrewAI", "자동화", "에이전트", "워크플로우", "파이썬"]
 ---
 

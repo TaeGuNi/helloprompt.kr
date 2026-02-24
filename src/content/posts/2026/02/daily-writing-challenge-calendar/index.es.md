@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Desafío de Escritura Diaria: Auto-Generar Calendario de Temas de Escritura de 30 Días"
+title: " \"Desafío de Escritura Diaria: Auto-Generar Calendario de Temas de Escritura de 30 Días\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "¿Quieres desarrollar el hábito de escribir? Deja que la IA diseñe un calendario de 30 días con temas y preguntas adaptados a tus intereses."
+description: " \"¿Quieres desarrollar el hábito de escribir? Deja que la IA diseñe un calendario de 30 días con temas y preguntas adaptados a tus intereses.\""
 tags: ["Escritura", "Hábito", "Desafío", "Autodesarrollo"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 룰북은 가라: 보드게임 규칙 3분 요약"
+title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Ein KI-Leitfaden für alle, die es leid sind, 40-seitige Regelwerke zu wälzen. Befreien Sie sich von der Angst vor komplizierten Sonderregeln und Spielfehlern."
+description: " \"Ein KI-Leitfaden für alle, die es leid sind, 40-seitige Regelwerke zu wälzen. Befreien Sie sich von der Angst vor komplizierten Sonderregeln und Spielfehlern.\""
 tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
 ---
 

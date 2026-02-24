@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Simplified Chinese)"
-description: "告别凭感觉的 Vibe Coding，转向严谨的 AI 编程工程实践是 2026 年的必然趋势。"
+title: " \"Breaking the Spell of Vibe Coding (Simplified Chinese)\""
+description: " \"告别凭感觉的 Vibe Coding，转向严谨的 AI 编程工程实践是 2026 年的必然趋势。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Domande Motivazionali per i Compiti per Bambini: Coaching Invece di Brontolare"
+title: " \"Domande Motivazionali per i Compiti per Bambini: Coaching Invece di Brontolare\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità e Istruzione"
-description: "Tecniche di conversazione per far sedere i bambini alla scrivania da soli senza costringerli."
+description: " \"Tecniche di conversazione per far sedere i bambini alla scrivania da soli senza costringerli.\""
 tags:
   ["Genitorialità", "Istruzione", "Prompt IA", "ChatGPT", "Consigli Genitori"]
 ---

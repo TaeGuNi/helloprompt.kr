@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "My Investment Tendency Test: Coward or Beast?"
+title: " \"My Investment Tendency Test: Coward or Beast?\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: "Stop taking boring surveys at bank counters. Let AI identify your true risk tolerance and investment tendency."
+description: " \"Stop taking boring surveys at bank counters. Let AI identify your true risk tolerance and investment tendency.\""
 tags:
   [
     "InvestmentTendency",

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "작사/작곡 보조: '뉴진스 스타일' 가사 써줘 (Suno/Udio 활용)"
+title: " \"작사/작곡 보조: '뉴진스 스타일' 가사 써줘 (Suno/Udio 활용)\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "크리에이티브/예술"
-description: "음악 생성 AI(Suno, Udio)에 입력할 완벽한 가사와 프롬프트 작성 가이드. 라임(Rhyme)과 리듬감을 살려 프로급 음원을 만드는 방법을 알아봅니다."
+description: " \"음악 생성 AI(Suno, Udio)에 입력할 완벽한 가사와 프롬프트 작성 가이드. 라임(Rhyme)과 리듬감을 살려 프로급 음원을 만드는 방법을 알아봅니다.\""
 tags: ["작사", "작곡", "Suno", "Udio", "AI음악"]
 ---
 

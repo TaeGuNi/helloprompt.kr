@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Charla de Dinero Difícil, Escritor de 'Correo de Solicitud de Aumento Salarial' Cortés pero Firme"
+title: " \"Charla de Dinero Difícil, Escritor de 'Correo de Solicitud de Aumento Salarial' Cortés pero Firme\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Redacta un correo profesional para solicitar un aumento de sueldo de forma cortés pero firme, destacando tus logros y sin generar incomodidad."
+description: " \"Redacta un correo profesional para solicitar un aumento de sueldo de forma cortés pero firme, destacando tus logros y sin generar incomodidad.\""
 tags:
   [
     "CorreoAumentoSalario",

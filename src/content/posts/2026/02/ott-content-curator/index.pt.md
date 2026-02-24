@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Fim de Semana Excluído! Guia de Recomendação Personalizada de Conteúdo OTT com IA"
+title: " \"Fim de Semana Excluído! Guia de Recomendação Personalizada de Conteúdo OTT com IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Passando 1 hora na tela inicial da Netflix? Analisamos o seu gosto e encontramos filmes e séries impecáveis para o seu fim de semana."
+description: " \"Passando 1 hora na tela inicial da Netflix? Analisamos o seu gosto e encontramos filmes e séries impecáveis para o seu fim de semana.\""
 tags: ["Netflix", "Recomendação de Filme", "OTT", "Drama"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "오픈소스 AI의 반격: Llama 4의 충격"
-description: "폐쇄형 모델을 위협하는 오픈소스 생태계의 거대한 파도. Llama 4 기반의 사내 AI 도입 전략을 세우는 완벽한 프롬프트 가이드."
+title: " \"오픈소스 AI의 반격: Llama 4의 충격\""
+description: " \"폐쇄형 모델을 위협하는 오픈소스 생태계의 거대한 파도. Llama 4 기반의 사내 AI 도입 전략을 세우는 완벽한 프롬프트 가이드.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

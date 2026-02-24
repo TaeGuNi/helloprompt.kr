@@ -3,7 +3,7 @@ categories:
   - Prompt Engineering
   - AI Tips
 date: "2026-02-13"
-description: Chega de escrever prompts complexos de 30 linhas. Bem-vindo à era do 'Prompting Baseado em Intenção', onde a IA lê a sua mente. Descubra a forma mais inteligente e ágil de se comunicar com a IA.
+description: "Chega de escrever prompts complexos de 30 linhas. Bem-vindo à era do 'Prompting Baseado em Intenção', onde a IA lê a sua mente. Descubra a forma mais inteligente e ágil de se comunicar com a IA."
 image: /images/blog/prompt-3.jpg
 pubDate: "2026-02-13"
 tags:
@@ -11,7 +11,7 @@ tags:
   - Intent-Based
   - AI Interaction
   - Future of Work
-title: "Engenharia de Prompt 3.0: A Intenção é o Comando"
+title: " \"Engenharia de Prompt 3.0: A Intenção é o Comando\""
 ---
 
 # 📝 Engenharia de Prompt 3.0: A Intenção é o Comando

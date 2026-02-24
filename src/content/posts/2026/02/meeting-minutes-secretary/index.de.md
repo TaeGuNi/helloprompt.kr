@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Besprechungsprotokolle, organisieren Sie sie immer noch von Hand? 3 Minuten mit KI"
+title: " \"Besprechungsprotokolle, organisieren Sie sie immer noch von Hand? 3 Minuten mit KI\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Ein smarter KI-Sekretär-Prompt, der chaotische Besprechungsskripte in strukturierte Zusammenfassungen und klare Action Items verwandelt."
+description: " \"Ein smarter KI-Sekretär-Prompt, der chaotische Besprechungsskripte in strukturierte Zusammenfassungen und klare Action Items verwandelt.\""
 tags: ["Besprechungsprotokoll", "Zusammenfassung", "Produktivität"]
 ---
 

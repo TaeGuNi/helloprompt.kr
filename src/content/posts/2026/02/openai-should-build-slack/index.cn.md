@@ -1,6 +1,6 @@
 ---
-title: "Why OpenAI Should Build Slack (Simplified Chinese)"
-description: "生成式 AI 与企业通信平台的整合是提升生产力的下一个必然趋势。本文深度剖析为何 OpenAI 应当构建自己的企业级通信中心。"
+title: " \"Why OpenAI Should Build Slack (Simplified Chinese)\""
+description: " \"生成式 AI 与企业通信平台的整合是提升生产力的下一个必然趋势。本文深度剖析为何 OpenAI 应当构建自己的企业级通信中心。\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]

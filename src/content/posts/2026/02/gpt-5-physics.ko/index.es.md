@@ -1,6 +1,6 @@
 ---
-title: "La hazaña física de GPT-5.2: Una nueva era de descubrimientos científicos"
-description: "GPT-5.2 de OpenAI ha marcado un punto de inflexión en la comunidad científica al derivar nuevos resultados en física teórica. Analizamos este increíble logro y presentamos un prompt de IA para descifrar fácilmente artículos científicos complejos."
+title: " \"La hazaña física de GPT-5.2: Una nueva era de descubrimientos científicos\""
+description: " \"GPT-5.2 de OpenAI ha marcado un punto de inflexión en la comunidad científica al derivar nuevos resultados en física teórica. Analizamos este increíble logro y presentamos un prompt de IA para descifrar fácilmente artículos científicos complejos.\""
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

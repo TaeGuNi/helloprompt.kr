@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tendance Patinage Artistique NBC Olympics : Écrire un Contenu Sportif Viral en 1 Minute"
+title: " \"Tendance Patinage Artistique NBC Olympics : Écrire un Contenu Sportif Viral en 1 Minute\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "콘텐츠 제작"
-description: "Un prompt pour rédiger en 1 minute via l'IA une critique vibrante et un contenu viral dans le style des retransmissions de patinage artistique de NBC Olympics."
+description: " \"Un prompt pour rédiger en 1 minute via l'IA une critique vibrante et un contenu viral dans le style des retransmissions de patinage artistique de NBC Olympics.\""
 tags:
   [
     "nbc olympics figure skating",

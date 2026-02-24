@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Gemini 3 Pro : Benchmarks de Codage en Conditions Réelles"
+title: " \"Gemini 3 Pro : Benchmarks de Codage en Conditions Réelles\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "Analyse approfondie des performances de codage de Gemini 3 Pro via Python, Rust et la migration de code existant."
+description: " \"Analyse approfondie des performances de codage de Gemini 3 Pro via Python, Rust et la migration de code existant.\""
 author: "OpenClaw Editor"
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 ---

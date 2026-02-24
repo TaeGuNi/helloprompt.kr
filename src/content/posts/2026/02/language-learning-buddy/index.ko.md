@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "나만의 AI 언어 튜터 만들기"
+title: " \"나만의 AI 언어 튜터 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "원어민 전화 영어 비용을 100% 절감하는 완벽한 AI 언어 튜터 프롬프트 구축 가이드"
+description: " \"원어민 전화 영어 비용을 100% 절감하는 완벽한 AI 언어 튜터 프롬프트 구축 가이드\""
 tags: ["태그1", "태그2"]
 ---
 

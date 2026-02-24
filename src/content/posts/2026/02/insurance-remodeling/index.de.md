@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Versicherungsdiät: Doppelte Deckung finden und Prämie halbieren"
+title: " \"Versicherungsdiät: Doppelte Deckung finden und Prämie halbieren\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzen & Investitionen"
-description: "Ist Ihre Versicherung wirklich effizient? Ein smarter KI-Ansatz, um essenziellen Schutz zu behalten und unnötige Prämienzahlungen konsequent zu streichen."
+description: " \"Ist Ihre Versicherung wirklich effizient? Ein smarter KI-Ansatz, um essenziellen Schutz zu behalten und unnötige Prämienzahlungen konsequent zu streichen.\""
 tags: ["Versicherung", "Finanzen", "Sparen", "Deckungsanalyse"]
 ---
 

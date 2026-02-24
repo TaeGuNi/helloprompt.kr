@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Beginner Gym Routine Guide: Looking Like a Pro"
+title: " \"Beginner Gym Routine Guide: Looking Like a Pro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Tired of just running on the treadmill at the gym? Let AI design a complete, beginner-friendly machine workout routine for you."
+description: " \"Tired of just running on the treadmill at the gym? Let AI design a complete, beginner-friendly machine workout routine for you.\""
 tags: ["Gym", "Weight Training", "Workout Routine", "ChatGPT", "Gym Beginner"]
 ---
 

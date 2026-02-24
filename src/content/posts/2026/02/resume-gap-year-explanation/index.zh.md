@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "简历空白期 (Gap Year), 变成‘强项’而非弱点的方法"
+title: " \"简历空白期 (Gap Year), 变成‘强项’而非弱点的方法\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "将备考、休息、旅行等看似履历断层 (Gap) 的时间，重新定义为有意义的自我提升与充电期，并完美融入你的简历与面试。"
+description: " \"将备考、休息、旅行等看似履历断层 (Gap) 的时间，重新定义为有意义的自我提升与充电期，并完美融入你的简历与面试。\""
 tags: ["空白期", "经历断绝", "面试准备", "自绍书台词"]
 ---
 

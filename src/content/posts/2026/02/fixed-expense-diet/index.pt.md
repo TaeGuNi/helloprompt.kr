@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Dieta de Despesas Fixas: Ideias para Parar de Vazar Dinheiro"
+title: " \"Dieta de Despesas Fixas: Ideias para Parar de Vazar Dinheiro\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Acha que as despesas fixas mensais não podem ser reduzidas? Deixe a IA encontrar os pontos ocultos de economia para você."
+description: " \"Acha que as despesas fixas mensais não podem ser reduzidas? Deixe a IA encontrar os pontos ocultos de economia para você.\""
 tags: ["Economia", "DespesaFixa", "CustoDeVida", "Frugalidade"]
 ---
 

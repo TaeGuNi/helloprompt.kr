@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿No Sabes Qué Empacar? Empaque Inteligente con IA por Destino de Viaje"
+title: " \"¿No Sabes Qué Empacar? Empaque Inteligente con IA por Destino de Viaje\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "Obtén una lista de empaque impecable adaptada al clima local, la cultura y tu itinerario de viaje."
+description: " \"Obtén una lista de empaque impecable adaptada al clima local, la cultura y tu itinerario de viaje.\""
 tags: ["Viajes", "Empaque", "Lista de Verificación", "Preparación"]
 ---
 

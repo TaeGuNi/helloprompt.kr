@@ -1,6 +1,6 @@
 ---
-title: "L'essor de l'informatique sans serveur en périphérie (Serverless Edge)"
-description: "Découvrez comment l'architecture sans serveur se déplace vers la périphérie, réduisant la latence et transformant la livraison d'applications en 2026."
+title: " \"L'essor de l'informatique sans serveur en périphérie (Serverless Edge)\""
+description: " \"Découvrez comment l'architecture sans serveur se déplace vers la périphérie, réduisant la latence et transformant la livraison d'applications en 2026.\""
 date: 2026-02-13
 cover: "./cover.jpg"
 ---

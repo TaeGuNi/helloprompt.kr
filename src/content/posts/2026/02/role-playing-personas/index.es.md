@@ -1,6 +1,6 @@
 ---
-title: "Effective Role Prompting (Spanish)"
-description: "Asignar roles específicos ayuda a los modelos a adoptar el tono y la experiencia adecuados en su dominio."
+title: " \"Effective Role Prompting (Spanish)\""
+description: " \"Asignar roles específicos ayuda a los modelos a adoptar el tono y la experiencia adecuados en su dominio.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

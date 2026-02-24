@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Complete a healthy breakfast in 15 minutes on a busy morning with an AI nutritionist prompt that helps you clear out your fridge."
+description: " \"Complete a healthy breakfast in 15 minutes on a busy morning with an AI nutritionist prompt that helps you clear out your fridge.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 
@@ -60,12 +60,12 @@ Use this when you need precise nutritional analysis, step-by-step recipes, and c
 > 1. Recommend 3 breakfast menus using the `[Fridge Ingredients]` I provide.
 > 2. Each menu MUST be an ultra-simple recipe that can be completed in---
 layout: /src/layouts/Layout.astro
-title: "Smart Breakfast Nutritionist"
+title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI 활용"
-description: "Whip up a healthy, perfectly balanced breakfast in just 15 minutes using ingredients already in your fridge with this AI Nutritionist prompt."
+description: " \"Whip up a healthy, perfectly balanced breakfast in just 15 minutes using ingredients already in your fridge with this AI Nutritionist prompt.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

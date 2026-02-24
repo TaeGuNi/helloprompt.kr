@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "清空冰箱，以大厨的食谱重生"
+title: " \"清空冰箱，以大厨的食谱重生\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "生活"
-description: "只需输入快过期的零碎食材，AI 化身大厨为你量身定制美味食谱，轻松省钱又光盘。"
+description: " \"只需输入快过期的零碎食材，AI 化身大厨为你量身定制美味食谱，轻松省钱又光盘。\""
 tags: ["料理", "食谱", "独居妙招"]
 ---
 

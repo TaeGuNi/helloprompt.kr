@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Enciclopédia de Itens de Jogo: Armas Lendárias e Acessórios Amaldiçoados"
+title: " \"Enciclopédia de Itens de Jogo: Armas Lendárias e Acessórios Amaldiçoados\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Uma simples 'Espada +1' é entediante. Crie itens únicos com narrativas imersivas e mecânicas intrigantes."
+description: " \"Uma simples 'Espada +1' é entediante. Crie itens únicos com narrativas imersivas e mecânicas intrigantes.\""
 tags: ["Jogo", "Item", "TRPG", "Planejamento", "Fantasia"]
 ---
 

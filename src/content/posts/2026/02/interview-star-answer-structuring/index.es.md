@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Cuando la Respuesta de la Entrevista Divaga! Prompt de Estructuración de Respuesta 'Técnica STAR'"
+title: " \"¡Cuando la Respuesta de la Entrevista Divaga! Prompt de Estructuración de Respuesta 'Técnica STAR'\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Para aquellos que tienden a divagar durante las entrevistas, este prompt estructura tus experiencias utilizando la técnica STAR (Situación, Tarea, Acción, Resultado) para ofrecer respuestas claras y concisas."
+description: " \"Para aquellos que tienden a divagar durante las entrevistas, este prompt estructura tus experiencias utilizando la técnica STAR (Situación, Tarea, Acción, Resultado) para ofrecer respuestas claras y concisas.\""
 tags: ["TécnicaSTAR", "RespuestaEntrevista", "Estructuración", "HablaLógica"]
 ---
 

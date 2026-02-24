@@ -1,6 +1,6 @@
 ---
-title: "특이점의 함정: 공포 마케팅의 실체"
-description: "특이점(Singularity)이라는 공포 마케팅의 실체와 GPU 판매를 위한 허상을 비판적으로 분석합니다."
+title: " \"특이점의 함정: 공포 마케팅의 실체\""
+description: " \"특이점(Singularity)이라는 공포 마케팅의 실체와 GPU 판매를 위한 허상을 비판적으로 분석합니다.\""
 date: "2026-02-14"
 image: "https://picsum.photos/seed/singularity/800/400"
 tags: ["AI", "Trend", "2026"]

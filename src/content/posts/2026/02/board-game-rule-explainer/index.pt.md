@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 룰북은 가라: 보드게임 규칙 3분 요약"
+title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "ZZabbis"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: "Um guia do Mestre de Regras de IA para você que está cansado de ler manuais de 40 páginas. Liberte-se do medo de regras complexas e erros de jogada."
+description: " \"Um guia do Mestre de Regras de IA para você que está cansado de ler manuais de 40 páginas. Liberte-se do medo de regras complexas e erros de jogada.\""
 tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
 ---
 

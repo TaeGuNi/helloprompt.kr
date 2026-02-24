@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Sprechen wie ein Drama-Protagonist: Idiom & Slang Automat"
+title: " \"Sprechen wie ein Drama-Protagonist: Idiom & Slang Automat\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Fremdsprachenlernen"
-description: "Prompt, der echte muttersprachliche Ausdrücke, Schlagworte und Redewendungen findet, die nie in Lehrbüchern erscheinen, passend für jede Situation."
+description: " \"Prompt, der echte muttersprachliche Ausdrücke, Schlagworte und Redewendungen findet, die nie in Lehrbüchern erscheinen, passend für jede Situation.\""
 tags: ["Englischkonversation", "Slang", "Idiom", "AmerikanischesDramaEnglisch"]
 ---
 

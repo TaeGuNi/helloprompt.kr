@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Troppo pigro per scrivere codice di test? L'IA lo farà per te"
+title: " \"Troppo pigro per scrivere codice di test? L'IA lo farà per te\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Sviluppo"
-description: "Un prompt che genera automaticamente codici di test unitari completi, considerando anche i casi limite."
+description: " \"Un prompt che genera automaticamente codici di test unitari completi, considerando anche i casi limite.\""
 tags: ["Codice di Test", "TDD", "Jest", "JUnit"]
 ---
 

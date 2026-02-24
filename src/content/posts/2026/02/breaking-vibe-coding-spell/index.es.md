@@ -1,6 +1,6 @@
 ---
-title: "Breaking the Spell of Vibe Coding (Spanish)"
-description: "Ir más allá de la programación basada en intuición (Vibe Coding) hacia prácticas de ingeniería rigurosas con IA es la tendencia definitiva para 2026."
+title: " \"Breaking the Spell of Vibe Coding (Spanish)\""
+description: " \"Ir más allá de la programación basada en intuición (Vibe Coding) hacia prácticas de ingeniería rigurosas con IA es la tendencia definitiva para 2026.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]

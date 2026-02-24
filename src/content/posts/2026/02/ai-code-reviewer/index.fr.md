@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Pas de Collègues ? C'est Pas Grave, Revue de Code Sévère d'un Développeur Senior IA"
+title: " \"Pas de Collègues ? C'est Pas Grave, Revue de Code Sévère d'un Développeur Senior IA\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"
-description: "Un prompt pour les développeurs solitaires : obtenez une revue de code rigoureuse et des conseils d'expert dignes d'un développeur senior de la Silicon Valley."
+description: " \"Un prompt pour les développeurs solitaires : obtenez une revue de code rigoureuse et des conseils d'expert dignes d'un développeur senior de la Silicon Valley.\""
 tags: ["Revue de Code", "Mentorat", "Clean Code", "Développement Personnel"]
 ---
 

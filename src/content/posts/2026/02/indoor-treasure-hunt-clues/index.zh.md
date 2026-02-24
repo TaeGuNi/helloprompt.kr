@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "室内寻宝线索：雨天活动"
+title: " \"室内寻宝线索：雨天活动\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿与教育"
-description: "只需5分钟，用AI为孩子量身定制一场家庭室内寻宝游戏。"
+description: " \"只需5分钟，用AI为孩子量身定制一场家庭室内寻宝游戏。\""
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿技巧"]
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía de Estiramiento Post-Carrera: Previniendo la Rodilla de Corredor"
+title: " \"Guía de Estiramiento Post-Carrera: Previniendo la Rodilla de Corredor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Más importante que correr es saber terminar. Una rutina de enfriamiento guiada por IA para prevenir lesiones y despertar renovado, sin dolor muscular al día siguiente."
+description: " \"Más importante que correr es saber terminar. Una rutina de enfriamiento guiada por IA para prevenir lesiones y despertar renovado, sin dolor muscular al día siguiente.\""
 tags:
   [
     "Correr",

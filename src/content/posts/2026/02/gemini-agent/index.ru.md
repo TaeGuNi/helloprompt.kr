@@ -1,6 +1,6 @@
 ---
 date: "2026-02-15"
-description: "Новая экосистема Gemini Agent от Google выходит за рамки простых ИИ-помощников, открывая эру настоящего автономного взаимодействия между Android, Chrome и Workspace."
+description: " \"Новая экосистема Gemini Agent от Google выходит за рамки простых ИИ-помощников, открывая эру настоящего автономного взаимодействия между Android, Chrome и Workspace.\""
 heroImage: https://picsum.photos/1600/900
 pubDate: "2026-02-15T09:00:00Z"
 tags:
@@ -9,7 +9,7 @@ tags:
   - AI Agent
   - Automation
   - Tech News
-title: "Новая платформа автономных агентов Google: Экосистема Gemini Agent"
+title: " \"Новая платформа автономных агентов Google: Экосистема Gemini Agent\""
 ---
 
 # 📝 Новая платформа автономных агентов Google: Экосистема Gemini Agent

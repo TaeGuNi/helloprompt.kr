@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Gerador de Enredo 'E Se' para Desbloquear Bloqueio de Escritor"
+title: " \"Gerador de Enredo 'E Se' para Desbloquear Bloqueio de Escritor\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Prompt de brainstorming que destrava a criatividade e gera desenvolvimentos engenhosos com uma única pergunta 'E Se?'."
+description: " \"Prompt de brainstorming que destrava a criatividade e gera desenvolvimentos engenhosos com uma única pergunta 'E Se?'.\""
 tags: ["EscritaRomance", "Enredo", "Ideia", "Criação"]
 ---
 

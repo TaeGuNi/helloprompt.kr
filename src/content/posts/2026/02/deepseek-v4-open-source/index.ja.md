@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "DeepSeek-V4：新たなオープンソースの覇者か？"
-description: "DeepSeek-V4の技術的特徴、ベンチマーク性能、およびオープンソースAIエコシステムへの影響に関する詳細な分析と実践的プロンプト"
+title: " \"DeepSeek-V4：新たなオープンソースの覇者か？\""
+description: " \"DeepSeek-V4の技術的特徴、ベンチマーク性能、およびオープンソースAIエコシステムへの影響に関する詳細な分析と実践的プロンプト\""
 date: "2026-02-13"
 pubDate: "2026-02-13"
 category: "Technology"

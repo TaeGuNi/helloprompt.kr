@@ -1,6 +1,6 @@
 ---
-title: "減少幻覺：邁向可信賴的AI"
-description: "2026年防止AI產生幻覺的最新技術與實戰提示詞：從資訊溯源（Grounding）到驗證鏈（CoVe）。"
+title: " \"減少幻覺：邁向可信賴的AI\""
+description: " \"2026年防止AI產生幻覺的最新技術與實戰提示詞：從資訊溯源（Grounding）到驗證鏈（CoVe）。\""
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]

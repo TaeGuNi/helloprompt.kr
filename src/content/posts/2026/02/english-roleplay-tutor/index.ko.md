@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기"
+title: " \"영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기\""
 author: "ZZabbis"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "외국어/학습"
-description: "스타벅스 주문부터 비즈니스 스몰토크까지. AI와 실전 상황극(Roleplay)을 통해 영어 울렁증을 완벽하게 극복하는 프롬프트 가이드입니다."
+description: " \"스타벅스 주문부터 비즈니스 스몰토크까지. AI와 실전 상황극(Roleplay)을 통해 영어 울렁증을 완벽하게 극복하는 프롬프트 가이드입니다.\""
 tags: ["영어회화", "ChatGPT", "롤플레잉", "공부", "오픽"]
 ---
 

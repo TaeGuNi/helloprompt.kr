@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "目標達成のためのOKR設定ガイド"
+title: " \"目標達成のためのOKR設定ガイド\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "チームのモチベーションを高める目標（Objective）と、測定可能な主要な結果（Key Results）を効果的に設定するための実践的プロンプトガイド。"
+description: " \"チームのモチベーションを高める目標（Objective）と、測定可能な主要な結果（Key Results）を効果的に設定するための実践的プロンプトガイド。\""
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

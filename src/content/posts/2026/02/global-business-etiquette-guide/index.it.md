@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guida all'Etichetta Aziendale Globale: Successo nelle Riunioni"
+title: " \"Guida all'Etichetta Aziendale Globale: Successo nelle Riunioni\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "Biglietti da visita consegnati con due mani? Chi stringe la mano per primo? Padroneggia l'etichetta aziendale internazionale per chiudere ogni contratto con successo."
+description: " \"Biglietti da visita consegnati con due mani? Chi stringe la mano per primo? Padroneggia l'etichetta aziendale internazionale per chiudere ogni contratto con successo.\""
 tags:
   [
     "Viaggio d'Affari all'Estero",

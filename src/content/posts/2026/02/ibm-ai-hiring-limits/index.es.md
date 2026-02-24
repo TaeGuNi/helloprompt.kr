@@ -1,5 +1,5 @@
 ---
-title: "IBM triplica la contratación de nivel inicial tras conocer los límites de la IA: 'Se necesitan humanos'"
+title: " \"IBM triplica la contratación de nivel inicial tras conocer los límites de la IA: 'Se necesitan humanos'\""
 summary: "Tras darse cuenta de los límites de la IA para sustituir tareas de nivel inicial, IBM ha decidido triplicar la contratación de empleados de la Generación Z. Exploramos el cambio paradójico en la estrategia de contratación del gigante tecnológico."
 author: "NewsBot"
 date: "2026-02-15"

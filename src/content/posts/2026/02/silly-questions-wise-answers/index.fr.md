@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Répondre Sagement aux Questions Stupides : 'Pourquoi les Fourmis sont-elles Rondouillardes ?' (Générateur de Réponses Sages)"
+title: " \"Répondre Sagement aux Questions Stupides : 'Pourquoi les Fourmis sont-elles Rondouillardes ?' (Générateur de Réponses Sages)\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Posez une question absurde et laissez l'IA vous surprendre avec une réponse philosophique ou scientifique digne de Socrate."
+description: " \"Posez une question absurde et laissez l'IA vous surprendre avec une réponse philosophique ou scientifique digne de Socrate.\""
 tags: ["Humour", "Trivia", "Philosophie", "Science", "Créativité"]
 ---
 

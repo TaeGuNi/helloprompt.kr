@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Rutina de Entrenamiento HIIT Generada por IA: Suda en 20 Minutos"
+title: " \"Rutina de Entrenamiento HIIT Generada por IA: Suda en 20 Minutos\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "¿Poco tiempo para entrenar? Descubre cómo la IA puede diseñar rutinas HIIT personalizadas de 20 minutos para quemar grasa a diario."
+description: " \"¿Poco tiempo para entrenar? Descubre cómo la IA puede diseñar rutinas HIIT personalizadas de 20 minutos para quemar grasa a diario.\""
 tags: ["HIIT", "Tabata", "Dieta", "Ejercicio", "ChatGPT"]
 ---
 

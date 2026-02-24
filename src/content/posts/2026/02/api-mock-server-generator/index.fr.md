@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: N'attendez plus le Backend ! Générateur de Mock Server IA (API Mock Gen)
+title: "N'attendez plus le Backend ! Générateur de Mock Server IA (API Mock Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: Fournissez simplement les spécifications de l'API et générez instantanément un serveur mock basé sur Express ou Hono. Doublez votre vitesse de développement frontend.
+description: "Fournissez simplement les spécifications de l'API et générez instantanément un serveur mock basé sur Express ou Hono. Doublez votre vitesse de développement frontend."
 tags: [AI, Backend, Frontend, Testing]
 ---
 

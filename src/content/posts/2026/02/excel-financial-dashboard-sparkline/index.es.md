@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tablero Financiero de Excel: Informe con Imágenes, No Números"
+title: " \"Tablero Financiero de Excel: Informe con Imágenes, No Números\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización de Trabajo"
-description: "Dile adiós a las tablas de Excel densas y aburridas. Crea un tablero de visualización que enamorará a tu jefe a primera vista, usando solo Minigráficos y Formato Condicional."
+description: " \"Dile adiós a las tablas de Excel densas y aburridas. Crea un tablero de visualización que enamorará a tu jefe a primera vista, usando solo Minigráficos y Formato Condicional.\""
 tags: ["Excel", "Tablero", "Visualización", "Informe"]
 ---
 

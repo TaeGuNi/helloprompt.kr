@@ -1,6 +1,6 @@
 ---
-title: "Fatica da IA: Rivoluzione o spazzatura digitale?"
-description: "Nel 2026, il pubblico è stanco dell'hype sull'IA. Analizziamo il divario tra la promessa e la realtà e come superare la noia da contenuti artificiali."
+title: " \"Fatica da IA: Rivoluzione o spazzatura digitale?\""
+description: " \"Nel 2026, il pubblico è stanco dell'hype sull'IA. Analizziamo il divario tra la promessa e la realtà e come superare la noia da contenuti artificiali.\""
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

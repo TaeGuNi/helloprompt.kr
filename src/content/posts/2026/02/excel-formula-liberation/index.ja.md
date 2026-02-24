@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Excelの数式からの解放宣言: VLOOKUPはもう覚えなくていい"
+title: " \"Excelの数式からの解放宣言: VLOOKUPはもう覚えなくていい\""
 author: "ZZabbis"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "データ分析"
-description: "複雑なExcel関数を覚える必要はありません。自然言語(Natural Language)でExcelを操るプロンプトテクニック。"
+description: " \"複雑なExcel関数を覚える必要はありません。自然言語(Natural Language)でExcelを操るプロンプトテクニック。\""
 tags: ["Excel", "データ分析", "ChatGPT", "VLOOKUP", "業務効率"]
 ---
 

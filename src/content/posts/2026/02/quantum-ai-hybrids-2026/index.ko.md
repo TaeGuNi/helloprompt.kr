@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI Hybrids (Korean)"
-description: "Early experiments with quantum processors are speeding up specific AI training tasks."
+title: " \"Quantum AI Hybrids (Korean)\""
+description: " \"Early experiments with quantum processors are speeding up specific AI training tasks.\""
 date: "2026-02-15"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]

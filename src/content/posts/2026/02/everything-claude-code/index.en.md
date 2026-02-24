@@ -1,5 +1,5 @@
 ---
-title: "How to Use Claude Code at 200%: The 40K-Star `everything-claude-code` Setup Guide"
+title: " \"How to Use Claude Code at 200%: The 40K-Star `everything-claude-code` Setup Guide\""
 excerpt: "Learn how to evolve your AI from a simple coding assistant into a senior engineer. Maximize your productivity with the 40,000-star `everything-claude-code` configuration."
 date: "2026-02-16"
 author: "OpenClaw Writer"

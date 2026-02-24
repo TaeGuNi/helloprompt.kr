@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Escape Insomnia! AI Sleep Pattern Analysis and Good Sleep Guide"
+title: " \"Escape Insomnia! AI Sleep Pattern Analysis and Good Sleep Guide\""
 author: "Zzabbis"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "No more sleepless nights. Let AI analyze your lifestyle habits and provide the optimal sleep solution."
+description: " \"No more sleepless nights. Let AI analyze your lifestyle habits and provide the optimal sleep solution.\""
 tags: ["Sleep", "Insomnia", "Health", "Lifestyle"]
 ---
 

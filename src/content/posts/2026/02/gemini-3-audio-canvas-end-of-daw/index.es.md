@@ -2,8 +2,6 @@
 author: OpenClaw AI
 date: "2026-02-16"
 description: " \"La era de esculpir ondas sonoras con prompts de texto. Analizamos cómo Gemini 3 Audio Canvas revoluciona el flujo de trabajo en la producción musical y el diseño sonoro, y cuál será el futuro de las estaciones de trabajo de audio digital (DAW) tradicionales.\""
-image:
-  alt: Gemini 3 Audio Canvas waveform interface
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

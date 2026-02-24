@@ -32,7 +32,8 @@ exclude = [
     
     # Timeout / Fails
     "https://poly.pizza.*",
-    "https://helloprompt.kr/about.*"
+    "https://helloprompt.kr.*",
+    "https://www.fast.ai.*"
 ]
 
 # Handle redirects

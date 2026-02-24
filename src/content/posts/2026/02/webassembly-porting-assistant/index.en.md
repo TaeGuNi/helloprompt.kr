@@ -67,7 +67,7 @@ Use this when you need production-ready results that go beyond simple translatio
 > 4. **React Integration Example:** Provide example code for a React custom hook (e.g., `useWasm`) or component that asynchronously loads the generated Wasm module (`init()`) and calls it during the actual rendering cycle.
 >
 > **Input Code:**
-> ```[Source Language]
+> ```plaintext
 > [Paste your existing code here]
 > ```
 >

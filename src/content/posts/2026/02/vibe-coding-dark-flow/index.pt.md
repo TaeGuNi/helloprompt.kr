@@ -91,7 +91,7 @@ Para garantir uma análise profunda e sem condescendência, use este nível de d
 >
 > - **Snippet de Código:**
 >
-> ```[Linguagem de Programação]
+> ```plaintext
 > [Cole o código suspeito aqui]
 > ```
 

@@ -89,7 +89,7 @@ Utilisez ce prompt immédiatement après avoir laissé l'IA générer du code po
 >
 > - **Extrait de code :**
 >
-> ```[Langage]
+> ```plaintext
 > [Collez ici le code à évaluer]
 > ```
 

@@ -43,7 +43,7 @@ Use this when you need a quick scan for critical issues.
 > **Role:** You are a Senior Backend/Frontend Developer with 10 years of experience.
 > **Task:** Review the code below and find any critical bugs or anti-patterns that need immediate improvement.
 > 
-> ```[Language]
+> ```plaintext
 > [Paste your code here]
 > ```
 
@@ -63,7 +63,7 @@ Recommended when you want to elevate your code to production-level quality and s
 > 
 > **Input Code:**
 > 
-> ```[Language]
+> ```plaintext
 > [Paste the code to be reviewed here]
 > ```
 > 

@@ -43,7 +43,7 @@ Ahora puedes someter tu código a la revisión de un evaluador de IA con el nive
 > **Rol:** Eres un desarrollador Backend/Frontend Senior con 10 años de experiencia.
 > **Instrucción:** Revisa el siguiente código y encuentra cualquier bug crítico o antipatrón (anti-pattern) que deba corregirse inmediatamente.
 >
-> ```[Nombre del lenguaje]
+> ```plaintext
 > [Pega tu código aquí]
 > ```
 
@@ -63,7 +63,7 @@ Recomendada para elevar la calidad de tu código a nivel de producción (Product
 >
 > **Código (Input):**
 >
-> ```[Nombre del lenguaje]
+> ```plaintext
 > [Pega aquí el código que deseas revisar]
 > ```
 >

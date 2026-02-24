@@ -89,7 +89,7 @@ tags: [AI, coding, productivity, prompt-engineering, psychology]
 >
 > - **代码片段:**
 >
-> ```[语言]
+> ```plaintext
 > [在此处粘贴需要审查的代码]
 > ```
 

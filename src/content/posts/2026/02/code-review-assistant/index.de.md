@@ -43,7 +43,7 @@ Ideal, wenn Sie Ihren Code in kürzester Zeit auf kritische Schwachstellen scann
 > **Rolle:** Du bist ein erfahrener Senior Backend-/Frontend-Entwickler mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Analysiere den folgenden Code und finde heraus, ob es kritische Bugs oder Anti-Pattern gibt, die sofort behoben werden müssen.
 >
-> ```[Programmiersprache]
+> ```plaintext
 > [Code hier einfügen]
 > ```
 
@@ -63,7 +63,7 @@ Empfohlen, um die Codequalität auf echtes Produktionsniveau anzuheben und gleic
 >
 > **Code (Input):**
 >
-> ```[Programmiersprache]
+> ```plaintext
 > [Fügen Sie hier den zu überprüfenden Code ein]
 > ```
 >

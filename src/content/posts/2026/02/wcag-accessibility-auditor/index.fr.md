@@ -70,7 +70,7 @@ Idéal pour auditer des composants d'interface utilisateur complexes nécessitan
 >
 > **Code (Code) :**
 >
-> ```[Langage, ex : tsx]
+> ```plaintext
 > [Collez le code de votre composant ici]
 > ```
 >

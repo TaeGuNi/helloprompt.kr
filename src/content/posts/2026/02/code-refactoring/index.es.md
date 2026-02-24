@@ -71,7 +71,7 @@ El código espagueti es el mayor enemigo de la productividad de cualquier desarr
 >
 > **Código Objetivo:**
 >
-> ```[Tu Lenguaje]
+> ```plaintext
 > [Pega tu código sucio aquí]
 > ```
 

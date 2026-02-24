@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous souhaitez un scan rapide pour détecter uniq
 > **Rôle :** Tu es un développeur Senior Backend/Frontend avec 10 ans d'expérience.
 > **Tâche :** Cherche des bugs critiques ou des anti-patterns (mauvaises pratiques) qui doivent être corrigés immédiatement dans le code ci-dessous.
 >
-> ```[Nom_du_langage]
+> ```plaintext
 > [Collez votre code ici]
 > ```
 
@@ -63,7 +63,7 @@ Recommandée lorsque vous souhaitez hisser la qualité de votre code au niveau "
 >
 > **Code (Input) :**
 >
-> ```[Nom_du_langage]
+> ```plaintext
 > [Collez le code à examiner ici]
 > ```
 >

@@ -70,7 +70,7 @@ Da utilizzare quando è necessario un risultato a livello di produzione, che inc
 >
 > **Codice di Input:**
 >
-> ```[Linguaggio Originale]
+> ```plaintext
 > [Incolla qui il codice originale]
 > ```
 >

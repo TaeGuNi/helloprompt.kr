@@ -70,7 +70,7 @@ Verwenden Sie diese Version, wenn Sie ein absolut produktionsreifes Ergebnis ben
 >
 > **Eingabecode:**
 >
-> ```[Ausgangssprache]
+> ```plaintext
 > [Fügen Sie hier den bestehenden Code ein]
 > ```
 >

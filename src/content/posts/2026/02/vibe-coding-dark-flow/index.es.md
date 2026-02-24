@@ -89,7 +89,7 @@ Usa este prompt inmediatamente después de que la IA genere un bloque de código
 >
 > - **Fragmento de código:**
 >
-> ```[Lenguaje]
+> ```plaintext
 > [Pega aquí el código que deseas evaluar]
 > ```
 

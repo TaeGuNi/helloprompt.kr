@@ -67,7 +67,7 @@ Utiliza este prompt para una simulación de entrevista profunda y rigurosa. Copi
 >
 > **Mi Código:**
 >
-> ```[Lenguaje, ej. python]
+> ```plaintext
 > [Pega tu código aquí]
 > ```
 

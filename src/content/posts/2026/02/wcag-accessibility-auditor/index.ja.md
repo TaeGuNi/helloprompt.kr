@@ -70,7 +70,7 @@ tags: ["Accessibility", "HTML", "WCAG"]
 >
 > **コード（Code）:**
 >
-> ```[言語、例：tsx]
+> ```plaintext
 > [ここにコンポーネントのコードを貼り付けてください]
 > ```
 >

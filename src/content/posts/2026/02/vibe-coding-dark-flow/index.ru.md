@@ -89,7 +89,7 @@ tags: [AI, coding, productivity, prompt-engineering, psychology]
 >
 > - **Фрагмент кода:**
 >
-> ```[язык_программирования]
+> ```plaintext
 > [Вставьте сюда код для проверки]
 > ```
 

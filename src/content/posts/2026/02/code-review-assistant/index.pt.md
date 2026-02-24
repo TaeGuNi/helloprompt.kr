@@ -43,7 +43,7 @@ Use esta versão quando precisar apenas de uma varredura rápida para encontrar 
 > **Role (Papel):** Você é um Desenvolvedor Sênior (Backend/Frontend) com 10 anos de experiência.
 > **Task (Tarefa):** Encontre bugs críticos ou anti-patterns que precisam ser corrigidos imediatamente no código abaixo.
 > 
-> ```[Nome da Linguagem]
+> ```plaintext
 > [Cole o seu código aqui]
 > ```
 
@@ -63,7 +63,7 @@ Recomendada quando você deseja elevar a qualidade do código para o nível de p
 >
 > **Input (Código):**
 >
-> ```[Nome da Linguagem]
+> ```plaintext
 > [Cole o código a ser revisado aqui]
 > ```
 >

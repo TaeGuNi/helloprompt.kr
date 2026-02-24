@@ -70,7 +70,7 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **入力コード:**
 >
-> ```[既存の言語]
+> ```plaintext
 > [ここに既存のコードを貼り付け]
 > ```
 >

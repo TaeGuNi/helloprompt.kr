@@ -70,7 +70,7 @@ Nutzen Sie dies für die Prüfung komplexer UI-Komponenten wie Modals, Dropdowns
 >
 > **Code (Code):**
 >
-> ```[Sprache, z.B. tsx]
+> ```plaintext
 > [Fügen Sie hier den Komponenten-Code ein]
 > ```
 >

@@ -70,7 +70,7 @@ Use this to inspect highly complex UI components like modals, dropdowns, and tab
 >
 > **Code:**
 >
-> ```[Language, e.g., tsx]
+> ```plaintext
 > [Paste your component code here]
 > ```
 >

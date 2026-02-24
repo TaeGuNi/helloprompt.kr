@@ -70,7 +70,7 @@ Utilisez cette version lorsque vous avez besoin d'un résultat prêt pour la pro
 >
 > **Code d'Entrée :**
 >
-> ```[Langage d'origine]
+> ```plaintext
 > [Collez ici le code existant]
 > ```
 >

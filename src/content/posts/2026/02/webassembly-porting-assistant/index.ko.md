@@ -70,7 +70,7 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **입력 코드:**
 >
-> ```[기존 언어]
+> ```plaintext
 > [여기에 기존 코드 붙여넣기]
 > ```
 >

@@ -70,7 +70,7 @@ Ideal para auditar componentes de UI complejos e interactivos, como modales, men
 >
 > **Código (Code):**
 >
-> ```[Lenguaje, ej: tsx]
+> ```plaintext
 > [Pega el código de tu componente aquí]
 > ```
 >

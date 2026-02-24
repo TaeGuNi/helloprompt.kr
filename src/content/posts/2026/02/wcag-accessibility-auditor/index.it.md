@@ -70,7 +70,7 @@ Utilizzala per revisionare componenti UI complessi e interazioni avanzate come M
 >
 > **Codice (Code):**
 >
-> ```[Linguaggio, es: tsx]
+> ```plaintext
 > [Incolla qui il codice del componente]
 > ```
 >

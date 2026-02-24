@@ -70,7 +70,7 @@ Este prompt va más allá de una simple traducción de código; actúa como tu '
 >
 > **Código de Entrada:**
 >
-> ```[Lenguaje Original]
+> ```plaintext
 > [Pega aquí el código original]
 > ```
 >

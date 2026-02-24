@@ -70,7 +70,7 @@ Use isto quando precisar de um resultado de nível de produção perfeito, que v
 >
 > **Código de Entrada:**
 > 
-> ```[Linguagem de Origem]
+> ```plaintext
 > [Cole o código existente aqui]
 > ```
 >

@@ -70,7 +70,7 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **输入代码：**
 >
-> ```[现有语言]
+> ```plaintext
 > [在此处粘贴现有代码]
 > ```
 >

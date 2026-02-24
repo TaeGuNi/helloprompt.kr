@@ -2,7 +2,6 @@
 title: " \"The Wrapper Startup Bubble\""
 date: 2026-02-14
 tags: [startup, tech]
-image: https://source.unsplash.com/random/1600x900/?bubble,code
 ---
 
 # 📝 AI Wrapper 创业公司诊断及护城河 (Moat) 构建提示词

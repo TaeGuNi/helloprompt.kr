@@ -1,7 +1,6 @@
 ---
 title: " \"딥페이크: 동의 없는 지옥과 윤리의 붕괴\""
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
 description: " \"Ein ethischer Albtraum durch Deepfakes ohne Zustimmung. Entdecken Sie leistungsstarke Prompts zur Erstellung von Ethikrichtlinien, die Ihre Organisation schützen und Schäden verhindern.\""
 ---

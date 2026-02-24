@@ -4,7 +4,6 @@ description: " \"La era de los LLM locales de alto rendimiento que funcionan sin
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
 # 📱 Supercomputadora en tu mano: Revolución de IA en el dispositivo
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 
 La inteligencia artificial en el dispositivo (On-device AI) está redefiniendo nuestra interacción con la tecnología. Ya no necesitas subir tus datos a servidores externos; ahora puedes ejecutar LLMs directamente en tu smartphone o portátil. Sin embargo, los modelos locales operan con recursos limitados (RAM, batería, CPU), por lo que requieren prompts altamente optimizados para ofrecer respuestas rápidas y precisas. Aquí te enseñamos cómo estructurar tus instrucciones para exprimir al máximo el hardware local sin sacrificar rendimiento.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
 
 ---
 

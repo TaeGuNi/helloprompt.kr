@@ -4,7 +4,6 @@ description: " \"클라우드 없이 완벽하게 작동하는 초경량 로컬 
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
 # 📝 손안의 슈퍼컴퓨터: 온디바이스 AI 혁명
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 
 비행기 모드에서도, 산속 캠핑장에서도 나만의 비서가 즉각적으로 응답합니다. 클라우드 서버에 데이터를 전송하지 않아 완벽한 보안을 자랑하는 '온디바이스 AI(로컬 LLM)'의 시대가 열렸습니다. 하지만 스마트폰의 제한된 리소스를 사용하는 만큼, 무겁고 복잡한 프롬프트는 오히려 성능 저하를 일으킵니다. 이 글에서는 작은 모델에서도 찰떡같이 알아듣고 빠르게 반응하는 **초경량 최적화 프롬프트**를 소개합니다.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: " \"Deepfakes: The Hell of Non-Consent and the Collapse of Ethics\""
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
 description: " \"The ethical hellscape created by non-consensual deepfakes. Here is a powerful prompt to generate a deepfake ethics guideline to protect your organization and prevent damage.\""
 ---

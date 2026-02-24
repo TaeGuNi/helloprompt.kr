@@ -4,7 +4,6 @@ description: " \"无需云端即可运行的高性能本地LLM时代。\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
 # 📝 手中的超级计算机：端侧AI革命

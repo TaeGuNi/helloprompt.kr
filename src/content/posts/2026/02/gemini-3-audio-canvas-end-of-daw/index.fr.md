@@ -4,7 +4,6 @@ date: "2026-02-16"
 description: " \"L'ère de la sculpture des formes d'onde par des prompts textuels. Découvrez comment Gemini 3 Audio Canvas révolutionne le flux de travail de la production musicale et du design sonore, et l'avenir des DAW (Digital Audio Workstations) traditionnels.\""
 image:
   alt: Gemini 3 Audio Canvas waveform interface
-  url: https://source.unsplash.com/random/1600x900/?music,studio,audio
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

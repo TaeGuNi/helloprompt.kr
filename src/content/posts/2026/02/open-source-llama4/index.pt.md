@@ -4,7 +4,6 @@ description: " \"Uma onda avassaladora do ecossistema de código aberto que amea
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
 # 📝 Contra-ataque da IA de código aberto

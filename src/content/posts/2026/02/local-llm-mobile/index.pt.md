@@ -4,7 +4,6 @@ description: " \"A era dos LLMs locais de alto desempenho operando sem dependên
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
 # 📝 Supercomputador na sua mão: A Revolução da IA no Dispositivo (On-Device)
@@ -23,7 +22,6 @@ A inteligência artificial no dispositivo (On-Device AI) está redefinindo compl
 
 Neste artigo, vamos explorar como essa revolução tecnológica está permitindo que recursos incríveis funcionem de forma nativa, instantânea e, acima de tudo, privada.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
 
 ---
 

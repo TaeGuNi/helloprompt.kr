@@ -2,7 +2,6 @@
 title: " \"Enterprise AI Reality: Myths vs. Tools\""
 date: 2026-02-14
 tags: ["business", "productivity"]
-image: "https://source.unsplash.com/random/1600x900/?office,computer"
 ---
 
 # 📝 Évaluation des Solutions d'IA B2B : Le Prompt pour Déjouer la Hype Commerciale

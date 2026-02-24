@@ -4,7 +4,6 @@ description: " \"El choque de gigantes por el futuro de las búsquedas ha comenz
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
 # 📝 Guerra de búsquedas de IA: Google vs OpenAI
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?search,technology"
 
 La búsqueda tradicional por palabras clave está agonizando. Con la llegada de los motores de búsqueda basados en IA como SearchGPT de OpenAI y la inteligencia general de Google (Gemini), la forma en que encontramos y procesamos la información ha cambiado para siempre. Ya no necesitas abrir 20 pestañas para encontrar un dato: ahora puedes tener un asistente de investigación que analice la web en tiempo real.
 
-![Búsqueda con IA](https://source.unsplash.com/random/1600x900/?search,technology)
 
 ---
 

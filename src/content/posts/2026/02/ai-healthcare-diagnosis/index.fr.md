@@ -4,7 +4,6 @@ description: " \"Découvrez comment l'IA médicale aide les professionnels à pr
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
 # 🩺 Le médecin IA entre dans la clinique : Guide de diagnostic assisté
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 
 L'intelligence artificielle ne se limite plus à l'analyse radiologique. Aujourd'hui, elle devient un véritable partenaire clinique, capable d'analyser des historiques médicaux diffus et de proposer des pistes de traitement. Attention : l'IA ne remplace pas le jugement du praticien, elle _augmente_ ses capacités d'analyse et réduit drastiquement la fatigue décisionnelle en fin de garde.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)
 
 ---
 

@@ -2,7 +2,6 @@
 title: " \"The Wrapper Startup Bubble\""
 date: 2026-02-14
 tags: [startup, tech]
-image: https://source.unsplash.com/random/1600x900/?bubble,code
 ---
 
 # 📝 Prompt para Diagnóstico de Startups "Wrapper" de IA e Construção de Fossos Defensivos (Moats)

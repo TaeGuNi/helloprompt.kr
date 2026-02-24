@@ -4,7 +4,6 @@ description: " \"閉鎖型モデルを脅かすオープンソースエコシス
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
 # 📝 オープンソースAIの反撃：Llama 4の衝撃

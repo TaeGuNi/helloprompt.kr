@@ -2,7 +2,6 @@
 title: " \"Claude 4.5 Opus: 百万Token的美学\""
 date: 2026-02-14
 tags: [anthropic, claude, ai]
-image: https://source.unsplash.com/random/1600x900/?book,library
 ---
 
 # 📝 Claude 4.5 Opus: 百万Token的美学

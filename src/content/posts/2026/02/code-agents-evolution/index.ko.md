@@ -4,7 +4,6 @@ description: " \"자율 코딩 에이전트가 개발 생태계를 뒤흔들고 
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]
-image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
 # 📝 코딩 에이전트의 진화: 개발자의 역할 변화
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?code,screen"
 
 단순 보조를 넘어 전체 기능을 구현하는 AI 에이전트(Devin, Cursor 등)들이 개발 생태계를 뒤흔들고 있습니다. 더 이상 함수 하나하나를 직접 타이핑하는 것은 경쟁력이 없습니다. AI 코딩 에이전트를 완벽하게 통제하고, 원하는 아키텍처대로 프로젝트를 구현하게 만드는 **'아키텍트형 마스터 프롬프트'**를 소개합니다.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?code,screen)
 
 ---
 

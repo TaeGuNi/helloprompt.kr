@@ -4,7 +4,6 @@ date: "2026-02-16"
 description: "Die Ära der Wellenform-Modellierung durch Text-Prompts ist da. Erfahre, wie Gemini 3 Audio Canvas den Workflow der Musikproduktion und des Sounddesigns revolutioniert und was die Zukunft für klassische DAWs bringt."
 image:
   alt: Gemini 3 Audio Canvas waveform interface
-  url: https://source.unsplash.com/random/1600x900/?music,studio,audio
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

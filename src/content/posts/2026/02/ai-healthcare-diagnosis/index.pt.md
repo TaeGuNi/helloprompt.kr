@@ -4,7 +4,6 @@ description: " \"O presente da IA na medicina: propondo planos de tratamento com
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
 # 🩺 O médico de IA entra na clínica
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 
 A inteligência artificial já ultrapassou os limites da radiologia e da triagem básica. Hoje, modelos avançados não substituem o médico, mas atuam como parceiros analíticos implacáveis. Eles processam históricos médicos complexos, cruzam dados com as pesquisas mais recentes e sugerem opções de tratamento personalizadas. Este guia mostra como transformar a IA no seu melhor assistente clínico, garantindo que o toque humano e a decisão final continuem sendo seus.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)
 
 ---
 

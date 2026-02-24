@@ -4,7 +4,6 @@ description: " \"Autonome Coding-Agenten erschüttern das Entwicklungs-Ökosyste
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Coding", "AI Agents", "Devin", "GitHub"]
-image: "https://source.unsplash.com/random/1600x900/?code,screen"
 ---
 
 # 📝 Evolution der Coding-Agenten

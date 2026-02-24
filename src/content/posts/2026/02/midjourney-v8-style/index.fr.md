@@ -2,7 +2,6 @@
 title: " \"Midjourney v8: 스타일의 정복\""
 date: 2026-02-14
 tags: [midjourney, art, ai]
-image: https://source.unsplash.com/random/1600x900/?art,paint
 ---
 
 # 🎨 Midjourney v8 : Maîtrise Parfaite du Style avec SREF et le Tuner de Style

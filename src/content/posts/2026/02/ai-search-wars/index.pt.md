@@ -4,7 +4,6 @@ description: " \"O confronto de gigantes pelo futuro da busca começou.\""
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]
-image: "https://source.unsplash.com/random/1600x900/?search,technology"
 ---
 
 # 📝 Guerra de busca de IA: Google vs OpenAI

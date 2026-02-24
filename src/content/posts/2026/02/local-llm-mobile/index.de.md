@@ -4,7 +4,6 @@ description: " \"Die Ära leistungsstarker lokaler LLMs, die ohne Cloud funktion
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]
-image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 ---
 
 # 📝 Supercomputer in Ihrer Hand: On-Device-KI-Revolution
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?smartphone,future"
 
 On-Device-KI definiert das mobile Erlebnis völlig neu. Anstatt sich auf Server von Drittanbietern zu verlassen, können Sie jetzt leistungsstarke Sprachmodelle (LLMs) direkt auf Ihrem Smartphone oder Laptop ausführen. Das garantiert 100%ige Privatsphäre, eliminiert Latenzzeiten und funktioniert sogar im Flugmodus.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?smartphone,future)
 
 ---
 

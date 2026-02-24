@@ -1,7 +1,6 @@
 ---
 title: " \"딥페이크: 동의 없는 지옥과 윤리의 붕괴\""
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
 description: " \"同意なきディープフェイクがもたらす倫理的脅威。組織を守り、被害を防ぐための強力な「ディープフェイク倫理ガイドライン」作成プロンプトを紹介します。\""
 ---

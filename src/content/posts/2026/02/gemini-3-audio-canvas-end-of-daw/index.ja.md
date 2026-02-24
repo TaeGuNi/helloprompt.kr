@@ -4,7 +4,6 @@ date: "2026-02-16"
 description: "テキストプロンプトで波形を彫刻する時代へ。Gemini 3 Audio Canvasが音楽制作とサウンドデザインのワークフローをどう革新するのか、そして伝統的なDAWの未来を分析します。"
 image:
   alt: Gemini 3 Audio Canvas waveform interface
-  url: https://source.unsplash.com/random/1600x900/?music,studio,audio
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

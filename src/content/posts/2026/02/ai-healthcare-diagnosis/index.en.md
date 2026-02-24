@@ -4,7 +4,6 @@ description: " \"The current state of medical AI: Proposing treatment plans and 
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
 # 📝 The AI Clinical Reasoning Partner

@@ -1,7 +1,6 @@
 ---
 title: " \"Deepfake: L'Inferno del Senza Consenso e il Crollo dell'Etica\""
 date: 2026-02-13
-image: "https://source.unsplash.com/random/1200x630/?mask,cybersecurity"
 tags: [Ethics, Security, Deepfake]
 description: " \"L'inferno etico creato dai deepfake non consensuali. Scopri il prompt per generare linee guida etiche rigorose, proteggere la tua organizzazione e prevenire i danni.\""
 ---

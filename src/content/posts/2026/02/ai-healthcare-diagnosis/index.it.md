@@ -4,7 +4,6 @@ description: " \"Il presente dell'IA medica: come strutturare e spiegare i piani
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
 # 📝 Il medico IA entra in clinica: Tradurre il "medichese" in empatia

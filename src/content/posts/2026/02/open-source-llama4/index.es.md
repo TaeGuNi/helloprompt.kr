@@ -4,7 +4,6 @@ description: " \"Una ola masiva del ecosistema de código abierto que amenaza a 
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
 # 📝 Contraataque de la IA de código abierto

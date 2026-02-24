@@ -4,7 +4,6 @@ description: " \"Un'ondata massiccia dell'ecosistema open source che minaccia i 
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]
-image: "https://source.unsplash.com/random/1600x900/?llama,tech"
 ---
 
 # 📝 Contrattacco dell'IA open source

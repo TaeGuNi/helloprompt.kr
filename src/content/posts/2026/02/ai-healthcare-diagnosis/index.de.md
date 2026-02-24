@@ -4,7 +4,6 @@ description: " \"Die Gegenwart der medizinischen KI, die Behandlungspläne vorsc
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]
-image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 ---
 
 # 🩺 Der KI-Arzt betritt die Klinik: KI als brillanter Assistenzarzt
@@ -21,7 +20,6 @@ image: "https://source.unsplash.com/random/1600x900/?doctor,robot"
 
 Künstliche Intelligenz expandiert weit über die Radiologie hinaus. Wir beleuchten KI nicht als Ersatz, sondern als brillanten Assistenzarzt, der die diagnostischen Fähigkeiten und die Behandlungsplanung von Medizinern signifikant erweitert. In einer Zeit, in der Ärzte unter enormem Zeitdruck stehen, wird der "KI-Arzt" zum unverzichtbaren Partner für präzisere und schnellere Entscheidungen.
 
-![Visual Prompt](https://source.unsplash.com/random/1600x900/?doctor,robot)
 
 ---
 

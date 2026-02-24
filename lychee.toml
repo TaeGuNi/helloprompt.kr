@@ -28,7 +28,11 @@ exclude = [
     
     # 403 Forbidden (Bot Protection)
     "https://www.namecheap.com.*",
-    "https://namecheap.com.*"
+    "https://namecheap.com.*",
+    
+    # Timeout / Fails
+    "https://poly.pizza.*",
+    "https://helloprompt.kr/about.*"
 ]
 
 # Handle redirects

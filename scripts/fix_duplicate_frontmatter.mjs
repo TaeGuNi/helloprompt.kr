@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+import fs from "node:fs";
+import path from "node:path";
 
 function findMarkdownFiles(dir, fileList = []) {
   if (!fs.existsSync(dir)) return fileList;
@@ -41,8 +41,7 @@ for (const file of files) {
       "\n\n",
     );
 
-    const newContent =
-      parts[0] + "---\n" + parts[1] + "\n---\n" + newBody.trim() + "\n";
+    const newContent = `${parts[0]}---\n${parts[1]}\n---\n${newBody.trim()}\n`;
 
     if (newContent !== og) {
       fs.writeFileSync(file, newContent, "utf-8");
@@ -51,7 +50,7 @@ for (const file of files) {
     }
   } else {
     // 혹시라도 --- 로 쪼개지지 않고 텍스트 안에 뭍힌 경우 (예: 문장 끝에 ----layout: ...)
-    const inlineMatch = content.match(
+    const _inlineMatch = content.match(
       /-*?\n?layout: \/src\/layouts\/Layout\.astro[\s\S]*?tags:.*?\n-*?\n?/g,
     );
     // 근데 이건 첫번째 frontmatter도 날려버릴 수 있음.

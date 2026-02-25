@@ -1,4 +1,1 @@
-node scripts/strip_all_comments.mjs
-git add src/content/posts/2026
-
 npx lint-staged

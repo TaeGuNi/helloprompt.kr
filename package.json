@@ -58,6 +58,7 @@
       "vitest related --run"
     ],
     "src/content/posts/**/*.md": [
+      "node scripts/strip_all_comments.mjs",
       "pnpm qa"
     ]
   }

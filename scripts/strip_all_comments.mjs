@@ -14,8 +14,12 @@ function findMarkdownFiles(dir, fileList = []) {
   return fileList;
 }
 
-const targetDir = path.resolve(process.cwd(), "src/content/posts/2026/02");
-const files = findMarkdownFiles(targetDir);
+// Accept files directly from lint-staged arguments, otherwise default to scanning the whole folder
+let files = process.argv.slice(2);
+if (files.length === 0) {
+  const targetDir = path.resolve(process.cwd(), "src/content/posts/2026/02");
+  files = findMarkdownFiles(targetDir);
+}
 
 let fixedFilesCount = 0;
 

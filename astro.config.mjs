@@ -1,6 +1,6 @@
 // @ts-check
 
-import sitemap from "@astrojs/sitemap";
+import vercel from "@astrojs/vercel";
 import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
@@ -54,9 +54,12 @@ function rehypeWrap() {
 
 // https://astro.build/config
 export default defineConfig({
+  output: "server",
+  adapter: vercel({
+    isr: true,
+  }),
   site: "https://helloprompt.kr",
   integrations: [
-    sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
       manifest: {

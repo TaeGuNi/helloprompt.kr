@@ -1,63 +1,92 @@
 ---
 import { getCollection } from "astro:content";
-import type { Page } from "astro";
 import { LANGUAGES } from "../../i18n/languages";
 import Layout from "../../layouts/Layout.astro";
 import { formatDate } from "../../utils/dateUtils";
 import type { Post } from "../../utils/postUtils";
 
-interface GetStaticPathsOptions {
-  paginate: (
-    data: Post[],
-    options: { params: { lang: string }; pageSize: number },
-  ) => unknown[];
+const paramLang = Astro.params.lang as string;
+// [...page] catches both undefined (page 1) and string numbers (e.g. '2')
+const paramPage = Astro.params.page
+  ? parseInt(Astro.params.page as string, 10)
+  : 1;
+
+// Validation
+if (!LANGUAGES.includes(paramLang)) {
+  return new Response("Language not supported", { status: 404 });
+}
+if (Number.isNaN(paramPage)) {
+  return new Response("Invalid page number", { status: 404 });
 }
 
-interface Props {
-  page: Page<Post>;
+// 1. Content Collections에서 모든 포스트 가져오기
+const now = new Date();
+const allPosts = await getCollection("posts", ({ data }) => {
+  return data.date <= now;
+});
+
+// 2. 언어별 포스트만 필터링
+const posts = allPosts.filter((post) => post.id.endsWith(`index${paramLang}`));
+
+// 3. 페이지네이션 데이터 조립(수동)
+const formattedPosts = posts.map((post) => {
+  const parts = post.id.split("/");
+  const slug = parts[parts.length - 2];
+  return {
+    id: post.id,
+    data: post.data,
+    frontmatter: post.data,
+    url: `/${paramLang}/posts/${slug}`,
+  };
+});
+
+const sortedPosts = formattedPosts.sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+);
+
+const pageSize = 12;
+const lastPage = Math.max(1, Math.ceil(sortedPosts.length / pageSize));
+
+if (paramPage < 1 || paramPage > lastPage) {
+  return new Response("Page not found", { status: 404 });
 }
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  // 1. Content Collections에서 모든 포스트 가져오기
-  const now = new Date();
-  const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
-  });
+const start = (paramPage - 1) * pageSize;
+const end = start + pageSize;
+const paginatedData = sortedPosts.slice(start, end);
 
-  // 2. 언어별 포스트 컬렉션 생성
-  const collections = LANGUAGES.map((lang) => {
-    const posts = allPosts.filter((post) => post.id.endsWith(`index${lang}`));
-    return { lang, posts };
-  });
+const page = {
+  data: paginatedData,
+  currentPage: paramPage,
+  size: pageSize,
+  lastPage: lastPage,
+  url: {
+    current: paramPage === 1 ? `/${paramLang}` : `/${paramLang}/${paramPage}`,
+    prev:
+      paramPage > 1
+        ? paramPage === 2
+          ? `/${paramLang}`
+          : `/${paramLang}/${paramPage - 1}`
+        : undefined,
+    next: paramPage < lastPage ? `/${paramLang}/${paramPage + 1}` : undefined,
+  },
+};
 
-  // 3. 페이지네이션 경로 생성
-  return collections.flatMap(({ lang, posts }) => {
-    const formattedPosts = posts.map((post) => {
-      // YYYY/MM/slug/index.[lang] 에서 base slug 추출
-      const parts = post.id.split("/");
-      const slug = parts[parts.length - 2];
-      return {
-        id: post.id,
-        data: post.data,
-        frontmatter: post.data,
-        url: `/${lang}/posts/${slug}`,
-      };
-    });
+const lang = paramLang;
 
-    const sortedPosts = formattedPosts.sort(
-      (a, b) =>
-        new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
-    );
-
-    return paginate(sortedPosts, {
-      params: { lang },
-      pageSize: 12,
-    });
-  });
+// 4. Vercel ISR Caching Header 적용
+// 1페이지(최신)은 1분 주기 갱신, 2페이지 이상(과거기록)은 하루 주기 갱신
+if (paramPage === 1) {
+  Astro.response.headers.set(
+    "Cache-Control",
+    "public, s-maxage=60, stale-while-revalidate=86400",
+  );
+} else {
+  Astro.response.headers.set(
+    "Cache-Control",
+    "public, s-maxage=86400, stale-while-revalidate=604800",
+  );
 }
-
-const { page } = Astro.props as Props;
-const { lang } = Astro.params;
 
 // 다국어 슬로건
 const SLOGANS: Record<string, string> = {
@@ -367,7 +396,7 @@ const frontmatter = {
 
   <div class="post-grid">
     {
-      page.data.map((post: Post) => (
+      page.data.map((post: any) => (
         <a href={post.url} class="post-card">
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>

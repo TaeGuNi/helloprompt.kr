@@ -1,9 +1,6 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
-import { getLangStaticPaths } from "../../i18n/languages";
 import { uiStrings } from "../../utils/ui-translation";
-
-export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
@@ -95,6 +92,7 @@ export const GET: APIRoute = async (context) => {
   return new Response(atom, {
     headers: {
       "Content-Type": "application/xml; charset=utf-8",
+      "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
     },
   });
 };

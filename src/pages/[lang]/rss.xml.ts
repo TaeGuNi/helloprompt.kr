@@ -1,10 +1,7 @@
 import { getCollection } from "astro:content";
 import rss from "@astrojs/rss";
 import type { APIRoute } from "astro";
-import { getLangStaticPaths } from "../../i18n/languages";
 import { uiStrings } from "../../utils/ui-translation";
-
-export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
@@ -39,11 +36,17 @@ export const GET: APIRoute = async (context) => {
   // 날짜순 정렬
   posts.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 
-  return rss({
+  const response = await rss({
     title: `Hello Prompt (${lang.toUpperCase()})`,
     description: uiStrings[lang]?.slogan || "AI Prompt Guide",
     site: context.site || new URL("https://helloprompt.kr"),
     items: posts,
     customData: `<language>${lang}</language>`,
   });
+
+  response.headers.set(
+    "Cache-Control",
+    "public, s-maxage=3600, stale-while-revalidate=86400",
+  );
+  return response;
 };
